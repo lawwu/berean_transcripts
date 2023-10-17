@@ -41,3 +41,8 @@ if new_ids:
     with open(data_dir / "bcc_live_video_ids.txt", "w") as f:
         for vid in reversed(new_ids):
             f.write(f"{vid}\n")
+else:
+    logging.info("No new videos found")
+    # make sure bcc_live_video_ids.txt is blank
+    with open(data_dir / "bcc_live_video_ids.txt", "w") as f:
+        f.write("")
