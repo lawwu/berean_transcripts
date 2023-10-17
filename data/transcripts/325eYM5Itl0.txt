@@ -1,0 +1,1609 @@
+
+[00:00:00.000 --> 00:00:03.480]   [MUSIC PLAYING]
+[00:00:03.480 --> 00:00:06.960]   [MUSIC PLAYING]
+[00:00:06.960 --> 00:00:10.440]   [MUSIC PLAYING]
+[00:00:10.440 --> 00:00:13.920]   [MUSIC PLAYING]
+[00:00:13.920 --> 00:00:17.400]   [MUSIC PLAYING]
+[00:00:17.400 --> 00:00:20.880]   [MUSIC PLAYING]
+[00:00:20.880 --> 00:00:24.360]   [MUSIC PLAYING]
+[00:00:24.360 --> 00:00:27.840]   [MUSIC PLAYING]
+[00:00:27.840 --> 00:00:31.320]   [MUSIC PLAYING]
+[00:00:31.320 --> 00:00:34.320]   [MUSIC PLAYING]
+[00:00:34.320 --> 00:00:40.280]   [MUSIC PLAYING]
+[00:00:40.280 --> 00:00:44.280]   [MUSIC PLAYING]
+[00:00:44.280 --> 00:00:48.280]   [MUSIC PLAYING]
+[00:00:48.280 --> 00:00:52.280]   [MUSIC PLAYING]
+[00:00:52.280 --> 00:00:56.280]   [MUSIC PLAYING]
+[00:00:56.280 --> 00:01:00.280]   [MUSIC PLAYING]
+[00:01:01.280 --> 00:01:04.280]   [MUSIC PLAYING]
+[00:01:04.280 --> 00:01:08.280]   [MUSIC PLAYING]
+[00:01:08.280 --> 00:01:12.280]   [MUSIC PLAYING]
+[00:01:12.280 --> 00:01:16.280]   [MUSIC PLAYING]
+[00:01:16.280 --> 00:01:20.280]   [MUSIC PLAYING]
+[00:01:20.280 --> 00:01:24.280]   [MUSIC PLAYING]
+[00:01:24.280 --> 00:01:28.280]   [MUSIC PLAYING]
+[00:01:29.280 --> 00:01:32.280]   [MUSIC PLAYING]
+[00:01:32.280 --> 00:01:36.280]   [MUSIC PLAYING]
+[00:01:36.280 --> 00:01:40.280]   [MUSIC PLAYING]
+[00:01:40.280 --> 00:01:44.280]   [MUSIC PLAYING]
+[00:01:44.280 --> 00:01:48.280]   [MUSIC PLAYING]
+[00:01:48.280 --> 00:01:52.280]   [MUSIC PLAYING]
+[00:01:52.280 --> 00:01:56.280]   [MUSIC PLAYING]
+[00:01:57.280 --> 00:02:00.280]   [MUSIC PLAYING]
+[00:02:00.280 --> 00:02:04.280]   [MUSIC PLAYING]
+[00:02:04.280 --> 00:02:08.280]   [MUSIC PLAYING]
+[00:02:08.280 --> 00:02:12.280]   [MUSIC PLAYING]
+[00:02:12.280 --> 00:02:16.280]   [MUSIC PLAYING]
+[00:02:16.280 --> 00:02:20.280]   [MUSIC PLAYING]
+[00:02:20.280 --> 00:02:24.280]   [MUSIC PLAYING]
+[00:02:25.280 --> 00:02:28.280]   [MUSIC PLAYING]
+[00:02:28.280 --> 00:02:32.280]   [MUSIC PLAYING]
+[00:02:32.280 --> 00:02:36.280]   [MUSIC PLAYING]
+[00:02:36.280 --> 00:02:40.280]   [MUSIC PLAYING]
+[00:02:40.280 --> 00:02:44.280]   [MUSIC PLAYING]
+[00:02:44.280 --> 00:02:48.280]   [MUSIC PLAYING]
+[00:02:48.280 --> 00:02:52.280]   [MUSIC PLAYING]
+[00:02:53.280 --> 00:02:56.280]   [MUSIC PLAYING]
+[00:02:56.280 --> 00:03:00.280]   [MUSIC PLAYING]
+[00:03:00.280 --> 00:03:04.280]   [MUSIC PLAYING]
+[00:03:04.280 --> 00:03:08.280]   [MUSIC PLAYING]
+[00:03:08.280 --> 00:03:12.280]   [MUSIC PLAYING]
+[00:03:12.280 --> 00:03:16.280]   [MUSIC PLAYING]
+[00:03:16.280 --> 00:03:20.280]   [MUSIC PLAYING]
+[00:03:21.280 --> 00:03:24.280]   [MUSIC PLAYING]
+[00:03:24.280 --> 00:03:28.280]   [MUSIC PLAYING]
+[00:03:28.280 --> 00:03:32.280]   [MUSIC PLAYING]
+[00:03:32.280 --> 00:03:36.280]   [MUSIC PLAYING]
+[00:03:36.280 --> 00:03:40.280]   [MUSIC PLAYING]
+[00:03:40.280 --> 00:03:44.280]   [MUSIC PLAYING]
+[00:03:44.280 --> 00:03:48.280]   [MUSIC PLAYING]
+[00:03:49.280 --> 00:03:52.280]   [MUSIC PLAYING]
+[00:03:52.280 --> 00:03:56.280]   [MUSIC PLAYING]
+[00:03:56.280 --> 00:04:00.280]   [MUSIC PLAYING]
+[00:04:00.280 --> 00:04:04.280]   [MUSIC PLAYING]
+[00:04:04.280 --> 00:04:08.280]   [MUSIC PLAYING]
+[00:04:08.280 --> 00:04:12.280]   [MUSIC PLAYING]
+[00:04:12.280 --> 00:04:16.280]   [MUSIC PLAYING]
+[00:04:17.280 --> 00:04:20.280]   [MUSIC PLAYING]
+[00:04:20.280 --> 00:04:24.280]   [MUSIC PLAYING]
+[00:04:24.280 --> 00:04:28.280]   [MUSIC PLAYING]
+[00:04:28.280 --> 00:04:32.280]   [MUSIC PLAYING]
+[00:04:32.280 --> 00:04:36.280]   [MUSIC PLAYING]
+[00:04:36.280 --> 00:04:40.280]   [MUSIC PLAYING]
+[00:04:40.280 --> 00:04:44.280]   [MUSIC PLAYING]
+[00:04:45.280 --> 00:04:48.280]   [MUSIC PLAYING]
+[00:04:48.280 --> 00:04:52.280]   [MUSIC PLAYING]
+[00:04:52.280 --> 00:04:56.280]   [MUSIC PLAYING]
+[00:04:56.280 --> 00:05:00.280]   [MUSIC PLAYING]
+[00:05:00.280 --> 00:05:04.280]   [MUSIC PLAYING]
+[00:05:04.280 --> 00:05:08.280]   [MUSIC PLAYING]
+[00:05:08.280 --> 00:05:12.280]   [MUSIC PLAYING]
+[00:05:13.280 --> 00:05:16.280]   [MUSIC PLAYING]
+[00:05:16.280 --> 00:05:20.280]   [MUSIC PLAYING]
+[00:05:20.280 --> 00:05:24.280]   [MUSIC PLAYING]
+[00:05:24.280 --> 00:05:28.280]   [MUSIC PLAYING]
+[00:05:28.280 --> 00:05:32.280]   [MUSIC PLAYING]
+[00:05:32.280 --> 00:05:36.280]   [MUSIC PLAYING]
+[00:05:36.280 --> 00:05:40.280]   [MUSIC PLAYING]
+[00:05:41.280 --> 00:05:44.280]   [MUSIC PLAYING]
+[00:05:44.280 --> 00:05:48.280]   [MUSIC PLAYING]
+[00:05:48.280 --> 00:05:52.280]   [MUSIC PLAYING]
+[00:05:52.280 --> 00:05:56.280]   [MUSIC PLAYING]
+[00:05:56.280 --> 00:06:00.280]   [MUSIC PLAYING]
+[00:06:00.280 --> 00:06:04.280]   [MUSIC PLAYING]
+[00:06:04.280 --> 00:06:08.280]   [MUSIC PLAYING]
+[00:06:09.280 --> 00:06:12.280]   [MUSIC PLAYING]
+[00:06:12.280 --> 00:06:16.280]   [MUSIC PLAYING]
+[00:06:16.280 --> 00:06:20.280]   [MUSIC PLAYING]
+[00:06:20.280 --> 00:06:24.280]   [MUSIC PLAYING]
+[00:06:24.280 --> 00:06:28.280]   [MUSIC PLAYING]
+[00:06:28.280 --> 00:06:32.280]   [MUSIC PLAYING]
+[00:06:32.280 --> 00:06:36.280]   [MUSIC PLAYING]
+[00:06:37.280 --> 00:06:40.280]   [MUSIC PLAYING]
+[00:06:40.280 --> 00:06:44.280]   [MUSIC PLAYING]
+[00:06:44.280 --> 00:06:48.280]   [MUSIC PLAYING]
+[00:06:48.280 --> 00:06:52.280]   [MUSIC PLAYING]
+[00:06:52.280 --> 00:06:56.280]   [MUSIC PLAYING]
+[00:06:56.280 --> 00:07:00.280]   [MUSIC PLAYING]
+[00:07:00.280 --> 00:07:04.280]   [MUSIC PLAYING]
+[00:07:05.280 --> 00:07:08.280]   [MUSIC PLAYING]
+[00:07:08.280 --> 00:07:12.280]   [MUSIC PLAYING]
+[00:07:12.280 --> 00:07:16.280]   [MUSIC PLAYING]
+[00:07:16.280 --> 00:07:20.280]   [MUSIC PLAYING]
+[00:07:20.280 --> 00:07:24.280]   [MUSIC PLAYING]
+[00:07:24.280 --> 00:07:28.280]   [MUSIC PLAYING]
+[00:07:28.280 --> 00:07:32.280]   [MUSIC PLAYING]
+[00:07:33.280 --> 00:07:36.280]   [MUSIC PLAYING]
+[00:07:36.280 --> 00:07:40.280]   [MUSIC PLAYING]
+[00:07:40.280 --> 00:07:44.280]   [MUSIC PLAYING]
+[00:07:44.280 --> 00:07:48.280]   [MUSIC PLAYING]
+[00:07:48.280 --> 00:07:52.280]   [MUSIC PLAYING]
+[00:07:52.280 --> 00:07:56.280]   [MUSIC PLAYING]
+[00:07:56.280 --> 00:08:00.280]   [MUSIC PLAYING]
+[00:08:01.280 --> 00:08:04.280]   [MUSIC PLAYING]
+[00:08:04.280 --> 00:08:08.280]   [MUSIC PLAYING]
+[00:08:08.280 --> 00:08:12.280]   [MUSIC PLAYING]
+[00:08:12.280 --> 00:08:16.280]   [MUSIC PLAYING]
+[00:08:16.280 --> 00:08:20.280]   [MUSIC PLAYING]
+[00:08:20.280 --> 00:08:24.280]   [MUSIC PLAYING]
+[00:08:24.280 --> 00:08:28.280]   [MUSIC PLAYING]
+[00:08:29.280 --> 00:08:32.280]   [MUSIC PLAYING]
+[00:08:32.280 --> 00:08:36.280]   [MUSIC PLAYING]
+[00:08:36.280 --> 00:08:40.280]   [MUSIC PLAYING]
+[00:08:40.280 --> 00:08:44.280]   [MUSIC PLAYING]
+[00:08:44.280 --> 00:08:48.280]   [MUSIC PLAYING]
+[00:08:48.280 --> 00:08:52.280]   [MUSIC PLAYING]
+[00:08:52.280 --> 00:08:56.280]   [MUSIC PLAYING]
+[00:08:57.280 --> 00:09:00.280]   [MUSIC PLAYING]
+[00:09:00.280 --> 00:09:04.280]   [MUSIC PLAYING]
+[00:09:04.280 --> 00:09:08.280]   [MUSIC PLAYING]
+[00:09:08.280 --> 00:09:12.280]   [MUSIC PLAYING]
+[00:09:12.280 --> 00:09:16.280]   [MUSIC PLAYING]
+[00:09:16.280 --> 00:09:20.280]   [MUSIC PLAYING]
+[00:09:20.280 --> 00:09:24.280]   [MUSIC PLAYING]
+[00:09:25.280 --> 00:09:28.280]   [MUSIC PLAYING]
+[00:09:28.280 --> 00:09:32.280]   [MUSIC PLAYING]
+[00:09:32.280 --> 00:09:36.280]   [MUSIC PLAYING]
+[00:09:36.280 --> 00:09:40.280]   [MUSIC PLAYING]
+[00:09:40.280 --> 00:09:44.280]   [MUSIC PLAYING]
+[00:09:44.280 --> 00:09:48.280]   [MUSIC PLAYING]
+[00:09:48.280 --> 00:09:52.280]   [MUSIC PLAYING]
+[00:09:53.280 --> 00:09:56.280]   [MUSIC PLAYING]
+[00:09:56.280 --> 00:10:00.280]   [MUSIC PLAYING]
+[00:10:00.280 --> 00:10:04.280]   [MUSIC PLAYING]
+[00:10:04.280 --> 00:10:08.280]   [MUSIC PLAYING]
+[00:10:08.280 --> 00:10:12.280]   [MUSIC PLAYING]
+[00:10:12.280 --> 00:10:16.280]   [MUSIC PLAYING]
+[00:10:16.280 --> 00:10:20.280]   [MUSIC PLAYING]
+[00:10:21.280 --> 00:10:24.280]   [MUSIC PLAYING]
+[00:10:24.280 --> 00:10:28.280]   [MUSIC PLAYING]
+[00:10:28.280 --> 00:10:32.280]   [MUSIC PLAYING]
+[00:10:32.280 --> 00:10:36.280]   [MUSIC PLAYING]
+[00:10:36.280 --> 00:10:40.280]   [MUSIC PLAYING]
+[00:10:40.280 --> 00:10:44.280]   [MUSIC PLAYING]
+[00:10:44.280 --> 00:10:48.280]   [MUSIC PLAYING]
+[00:10:49.280 --> 00:10:52.280]   [MUSIC PLAYING]
+[00:10:52.280 --> 00:10:56.280]   [MUSIC PLAYING]
+[00:10:56.280 --> 00:11:00.280]   [MUSIC PLAYING]
+[00:11:00.280 --> 00:11:04.280]   [MUSIC PLAYING]
+[00:11:04.280 --> 00:11:08.280]   [MUSIC PLAYING]
+[00:11:08.280 --> 00:11:12.280]   [MUSIC PLAYING]
+[00:11:12.280 --> 00:11:16.280]   [MUSIC PLAYING]
+[00:11:17.280 --> 00:11:20.280]   [MUSIC PLAYING]
+[00:11:20.280 --> 00:11:24.280]   [MUSIC PLAYING]
+[00:11:24.280 --> 00:11:28.280]   [MUSIC PLAYING]
+[00:11:28.280 --> 00:11:32.280]   [MUSIC PLAYING]
+[00:11:32.280 --> 00:11:36.280]   [MUSIC PLAYING]
+[00:11:36.280 --> 00:11:40.280]   [MUSIC PLAYING]
+[00:11:40.280 --> 00:11:44.280]   [MUSIC PLAYING]
+[00:11:45.280 --> 00:11:48.280]   [MUSIC PLAYING]
+[00:11:48.280 --> 00:11:52.280]   [MUSIC PLAYING]
+[00:11:52.280 --> 00:11:56.280]   [MUSIC PLAYING]
+[00:11:56.280 --> 00:12:00.280]   [MUSIC PLAYING]
+[00:12:00.280 --> 00:12:04.280]   [MUSIC PLAYING]
+[00:12:04.280 --> 00:12:08.280]   [MUSIC PLAYING]
+[00:12:08.280 --> 00:12:12.280]   [MUSIC PLAYING]
+[00:12:13.280 --> 00:12:16.280]   [MUSIC PLAYING]
+[00:12:16.280 --> 00:12:20.280]   [MUSIC PLAYING]
+[00:12:20.280 --> 00:12:24.280]   [MUSIC PLAYING]
+[00:12:24.280 --> 00:12:28.280]   [MUSIC PLAYING]
+[00:12:28.280 --> 00:12:32.280]   [MUSIC PLAYING]
+[00:12:32.280 --> 00:12:36.280]   [MUSIC PLAYING]
+[00:12:36.280 --> 00:12:40.280]   [MUSIC PLAYING]
+[00:12:41.280 --> 00:12:44.280]   [MUSIC PLAYING]
+[00:12:44.280 --> 00:12:48.280]   [MUSIC PLAYING]
+[00:12:48.280 --> 00:12:52.280]   [MUSIC PLAYING]
+[00:12:52.280 --> 00:12:56.280]   [MUSIC PLAYING]
+[00:12:56.280 --> 00:13:00.280]   [MUSIC PLAYING]
+[00:13:00.280 --> 00:13:04.280]   [MUSIC PLAYING]
+[00:13:04.280 --> 00:13:08.280]   [MUSIC PLAYING]
+[00:13:09.280 --> 00:13:12.280]   [MUSIC PLAYING]
+[00:13:12.280 --> 00:13:16.280]   [MUSIC PLAYING]
+[00:13:16.280 --> 00:13:20.280]   [MUSIC PLAYING]
+[00:13:20.280 --> 00:13:24.280]   [MUSIC PLAYING]
+[00:13:24.280 --> 00:13:28.280]   [MUSIC PLAYING]
+[00:13:28.280 --> 00:13:32.280]   [MUSIC PLAYING]
+[00:13:32.280 --> 00:13:36.280]   [MUSIC PLAYING]
+[00:13:37.280 --> 00:13:40.280]   [MUSIC PLAYING]
+[00:13:40.280 --> 00:13:44.280]   [MUSIC PLAYING]
+[00:13:44.280 --> 00:13:48.280]   [MUSIC PLAYING]
+[00:13:48.280 --> 00:13:52.280]   [MUSIC PLAYING]
+[00:13:52.280 --> 00:13:56.280]   [MUSIC PLAYING]
+[00:13:56.280 --> 00:14:00.280]   [MUSIC PLAYING]
+[00:14:00.280 --> 00:14:04.280]   [MUSIC PLAYING]
+[00:14:05.280 --> 00:14:08.280]   [MUSIC PLAYING]
+[00:14:08.280 --> 00:14:12.280]   [MUSIC PLAYING]
+[00:14:12.280 --> 00:14:16.280]   [MUSIC PLAYING]
+[00:14:16.280 --> 00:14:20.280]   [MUSIC PLAYING]
+[00:14:20.280 --> 00:14:24.280]   [MUSIC PLAYING]
+[00:14:24.280 --> 00:14:28.280]   [MUSIC PLAYING]
+[00:14:28.280 --> 00:14:32.280]   [MUSIC PLAYING]
+[00:14:33.280 --> 00:14:36.280]   [MUSIC PLAYING]
+[00:14:36.280 --> 00:14:40.280]   [MUSIC PLAYING]
+[00:14:40.280 --> 00:14:44.280]   [MUSIC PLAYING]
+[00:14:44.280 --> 00:14:48.280]   [MUSIC PLAYING]
+[00:14:48.280 --> 00:14:52.280]   [MUSIC PLAYING]
+[00:14:52.280 --> 00:14:56.280]   [MUSIC PLAYING]
+[00:14:56.280 --> 00:15:00.280]   [MUSIC PLAYING]
+[00:15:01.280 --> 00:15:04.280]   [MUSIC PLAYING]
+[00:15:04.280 --> 00:15:08.280]   [MUSIC PLAYING]
+[00:15:08.280 --> 00:15:12.280]   [MUSIC PLAYING]
+[00:15:12.280 --> 00:15:16.280]   [MUSIC PLAYING]
+[00:15:16.280 --> 00:15:20.280]   [MUSIC PLAYING]
+[00:15:20.280 --> 00:15:24.280]   [MUSIC PLAYING]
+[00:15:24.280 --> 00:15:28.280]   [MUSIC PLAYING]
+[00:15:29.280 --> 00:15:32.280]   [MUSIC PLAYING]
+[00:15:32.280 --> 00:15:36.280]   [MUSIC PLAYING]
+[00:15:36.280 --> 00:15:40.280]   [MUSIC PLAYING]
+[00:15:40.280 --> 00:15:44.280]   [MUSIC PLAYING]
+[00:15:44.280 --> 00:15:48.280]   [MUSIC PLAYING]
+[00:15:48.280 --> 00:15:52.280]   [MUSIC PLAYING]
+[00:15:52.280 --> 00:15:56.280]   [MUSIC PLAYING]
+[00:15:57.280 --> 00:16:00.280]   [MUSIC PLAYING]
+[00:16:00.280 --> 00:16:04.280]   [MUSIC PLAYING]
+[00:16:04.280 --> 00:16:08.280]   [MUSIC PLAYING]
+[00:16:08.280 --> 00:16:12.280]   [MUSIC PLAYING]
+[00:16:12.280 --> 00:16:16.280]   [MUSIC PLAYING]
+[00:16:16.280 --> 00:16:20.280]   [MUSIC PLAYING]
+[00:16:20.280 --> 00:16:24.280]   [MUSIC PLAYING]
+[00:16:25.280 --> 00:16:28.280]   [MUSIC PLAYING]
+[00:16:28.280 --> 00:16:32.280]   [MUSIC PLAYING]
+[00:16:32.280 --> 00:16:36.280]   [MUSIC PLAYING]
+[00:16:36.280 --> 00:16:40.280]   [MUSIC PLAYING]
+[00:16:40.280 --> 00:16:44.280]   [MUSIC PLAYING]
+[00:16:44.280 --> 00:16:48.280]   [MUSIC PLAYING]
+[00:16:48.280 --> 00:16:52.280]   [MUSIC PLAYING]
+[00:16:53.280 --> 00:16:56.280]   [MUSIC PLAYING]
+[00:16:56.280 --> 00:17:00.280]   [MUSIC PLAYING]
+[00:17:00.280 --> 00:17:04.280]   [MUSIC PLAYING]
+[00:17:04.280 --> 00:17:08.280]   [MUSIC PLAYING]
+[00:17:08.280 --> 00:17:12.280]   [MUSIC PLAYING]
+[00:17:12.280 --> 00:17:16.280]   [MUSIC PLAYING]
+[00:17:16.280 --> 00:17:20.280]   [MUSIC PLAYING]
+[00:17:21.280 --> 00:17:24.280]   [MUSIC PLAYING]
+[00:17:24.280 --> 00:17:28.280]   [MUSIC PLAYING]
+[00:17:28.280 --> 00:17:32.280]   [MUSIC PLAYING]
+[00:17:32.280 --> 00:17:36.280]   [MUSIC PLAYING]
+[00:17:36.280 --> 00:17:40.280]   [MUSIC PLAYING]
+[00:17:40.280 --> 00:17:44.280]   [MUSIC PLAYING]
+[00:17:44.280 --> 00:17:48.280]   [MUSIC PLAYING]
+[00:17:49.280 --> 00:17:52.280]   [MUSIC PLAYING]
+[00:17:52.280 --> 00:17:56.280]   [MUSIC PLAYING]
+[00:17:56.280 --> 00:18:00.280]   [MUSIC PLAYING]
+[00:18:00.280 --> 00:18:04.280]   [MUSIC PLAYING]
+[00:18:04.280 --> 00:18:08.280]   [MUSIC PLAYING]
+[00:18:08.280 --> 00:18:12.280]   [MUSIC PLAYING]
+[00:18:12.280 --> 00:18:16.280]   [MUSIC PLAYING]
+[00:18:17.280 --> 00:18:20.280]   [MUSIC PLAYING]
+[00:18:20.280 --> 00:18:24.280]   [MUSIC PLAYING]
+[00:18:24.280 --> 00:18:28.280]   [MUSIC PLAYING]
+[00:18:28.280 --> 00:18:32.280]   [MUSIC PLAYING]
+[00:18:32.280 --> 00:18:36.280]   [MUSIC PLAYING]
+[00:18:36.280 --> 00:18:40.280]   [MUSIC PLAYING]
+[00:18:40.280 --> 00:18:42.280]   >> Good morning.
+[00:18:42.280 --> 00:18:44.280]   Welcome to Breen Community Church.
+[00:18:44.280 --> 00:18:48.280]   And as you guys know, we have a retreat coming up next week.
+[00:18:48.280 --> 00:18:53.280]   And so I want to remind you that next Sunday, we only have service at 11 o'clock.
+[00:18:53.280 --> 00:18:56.280]   So we will have regular service here at 11.
+[00:18:56.280 --> 00:18:58.280]   Pastor James Lee from Cross Life is going to be preaching.
+[00:18:58.280 --> 00:19:02.280]   And Pastor Peter Chung will also be here to help out with the service and lead worship.
+[00:19:02.280 --> 00:19:08.280]   And so because of that, I want to remind you that if you are coming to the 11 o'clock service,
+[00:19:08.280 --> 00:19:10.280]   we do not have child care here.
+[00:19:10.280 --> 00:19:13.280]   We have it up at the retreat site, but we won't have it here.
+[00:19:13.280 --> 00:19:16.280]   And along with that, we do not have shuttle service.
+[00:19:16.280 --> 00:19:21.280]   So I'm sure there will be enough parking in the area so you don't have to worry about that.
+[00:19:21.280 --> 00:19:23.280]   But again, no shuttle service.
+[00:19:23.280 --> 00:19:28.280]   And if you are in the middle of membership class right now,
+[00:19:28.280 --> 00:19:31.280]   the membership class won't be taking place next week either.
+[00:19:31.280 --> 00:19:33.280]   We'll pick it back up on the following Sunday.
+[00:19:33.280 --> 00:19:35.280]   So just to kind of give you a heads up.
+[00:19:35.280 --> 00:19:41.280]   And then we have a men's prayer breakfast that we have quarterly that's coming up in September 9th.
+[00:19:41.280 --> 00:19:44.280]   So sign ups are going to start taking place not after we come back from the retreat.
+[00:19:44.280 --> 00:19:48.280]   But I wanted to give you a heads up so that it doesn't catch you off guard.
+[00:19:48.280 --> 00:19:55.280]   Again, 9/9, so September 9th on Saturday morning at our cafe.
+[00:19:55.280 --> 00:19:57.280]   So please look out for that and sign up for that.
+[00:19:57.280 --> 00:20:02.280]   If you haven't signed up for the Galatians Bible study, please do that as soon as possible.
+[00:20:02.280 --> 00:20:06.280]   Sprouts PTA meeting is also happening on September 10th.
+[00:20:06.280 --> 00:20:11.280]   So if you're a parent of a Sprout student, there is a meeting that's happening at 2 p.m.
+[00:20:11.280 --> 00:20:13.280]   So you're going to go grab lunch and then come back.
+[00:20:13.280 --> 00:20:15.280]   And so that will be happening.
+[00:20:15.280 --> 00:20:20.280]   And then intentional sisters fellowship, ISF, they're still taking sign ups for that.
+[00:20:20.280 --> 00:20:23.280]   And that's going to be starting on August 25th.
+[00:20:23.280 --> 00:20:26.280]   So as you can see, we have communion.
+[00:20:26.280 --> 00:20:28.280]   And so we want you to be prepared.
+[00:20:28.280 --> 00:20:31.280]   I'm going to be explaining a little bit as we get ready.
+[00:20:31.280 --> 00:20:38.280]   But the communion, again, the reason why we celebrate the way that we celebrate
+[00:20:38.280 --> 00:20:41.280]   is because we want people to be intentional about coming up.
+[00:20:41.280 --> 00:20:44.280]   That this is not just some--you know, there's no superpower within it,
+[00:20:44.280 --> 00:20:47.280]   like you came in and just took it and something happened to you.
+[00:20:47.280 --> 00:20:52.280]   It is meant so that we would take time on our normal schedule
+[00:20:52.280 --> 00:20:56.280]   and to think through the meaning behind it and what it means and the significance of it
+[00:20:56.280 --> 00:21:02.280]   so that we can kind of recalibrate our spiritual lives according to what the table represents.
+[00:21:02.280 --> 00:21:06.280]   And so during the service, through the preaching, through the singing,
+[00:21:06.280 --> 00:21:10.280]   that you would ready your hearts so when we ask to open the table
+[00:21:10.280 --> 00:21:13.280]   that you would be able to come up and participate in it.
+[00:21:13.280 --> 00:21:17.280]   I'm going to pray for us and we're going to take a minute to give the offering.
+[00:21:17.280 --> 00:21:21.280]   But the offering time is, again, we'll give you a minute to do that.
+[00:21:21.280 --> 00:21:24.280]   But also if you are here and you need to give a physical offering,
+[00:21:24.280 --> 00:21:28.280]   there is a box in the back on the way out. You can drop it off there.
+[00:21:28.280 --> 00:21:31.280]   Okay? All right, let me pray for us and we'll begin.
+[00:21:31.280 --> 00:21:38.280]   Father, we thank you for the blessing that we have in you.
+[00:21:38.280 --> 00:21:43.280]   I pray that you would help us to lift up our eyes,
+[00:21:43.280 --> 00:21:52.280]   to know, believe, follow, and worship Christ who suffered and has given so much for us.
+[00:21:52.280 --> 00:21:56.280]   Lord, if we have brought in a heart of ingratitude,
+[00:21:56.280 --> 00:22:00.280]   or if we have been entangled with things, Lord God,
+[00:22:00.280 --> 00:22:04.280]   that really does not have much to do with eternal things,
+[00:22:04.280 --> 00:22:10.280]   help us, Lord, to open our eyes, soften our hearts,
+[00:22:10.280 --> 00:22:15.280]   that we may hear and be willing, Lord God, to be searched by you.
+[00:22:15.280 --> 00:22:19.280]   I pray that you would bless our time of corporate worship.
+[00:22:19.280 --> 00:22:23.280]   I pray that even in this giving, that we would give as an act of worship
+[00:22:23.280 --> 00:22:27.280]   and may it be multiplied 30, 60, 100-fold for the sake of your kingdom.
+[00:22:27.280 --> 00:22:30.280]   In Jesus' name we pray. Amen.
+[00:22:31.280 --> 00:22:34.280]   [music]
+[00:22:35.280 --> 00:22:38.280]   [music]
+[00:22:38.280 --> 00:22:41.280]   [music]
+[00:22:41.280 --> 00:22:45.280]   [music]
+[00:22:45.280 --> 00:22:49.280]   [music]
+[00:22:49.280 --> 00:22:53.280]   [music]
+[00:22:53.280 --> 00:22:57.280]   [music]
+[00:22:57.280 --> 00:23:01.280]   [music]
+[00:23:01.280 --> 00:23:05.280]   [music]
+[00:23:06.280 --> 00:23:09.280]   [music]
+[00:23:09.280 --> 00:23:13.280]   [music]
+[00:23:13.280 --> 00:23:17.280]   [music]
+[00:23:17.280 --> 00:23:22.280]   Church family, let's all rise together as we sing these songs to our God.
+[00:23:22.280 --> 00:23:29.280]   [music]
+[00:23:29.280 --> 00:23:33.280]   [music]
+[00:23:34.280 --> 00:23:37.280]   [music]
+[00:23:37.280 --> 00:23:41.280]   [music]
+[00:23:41.280 --> 00:23:45.280]   [music]
+[00:23:45.280 --> 00:23:49.280]   [music]
+[00:23:49.280 --> 00:23:53.280]   [music]
+[00:23:53.280 --> 00:23:57.280]   [music]
+[00:23:57.280 --> 00:24:01.280]   [music]
+[00:24:02.280 --> 00:24:05.280]   [music]
+[00:24:05.280 --> 00:24:09.280]   [music]
+[00:24:09.280 --> 00:24:13.280]   [music]
+[00:24:13.280 --> 00:24:17.280]   [music]
+[00:24:17.280 --> 00:24:21.280]   [music]
+[00:24:21.280 --> 00:24:25.280]   [music]
+[00:24:25.280 --> 00:24:29.280]   [music]
+[00:24:30.280 --> 00:24:33.280]   [music]
+[00:24:33.280 --> 00:24:37.280]   [music]
+[00:24:37.280 --> 00:24:41.280]   [music]
+[00:24:41.280 --> 00:24:45.280]   [music]
+[00:24:45.280 --> 00:24:49.280]   [music]
+[00:24:49.280 --> 00:24:53.280]   [music]
+[00:24:53.280 --> 00:24:57.280]   [music]
+[00:24:58.280 --> 00:25:01.280]   [music]
+[00:25:01.280 --> 00:25:05.280]   [music]
+[00:25:05.280 --> 00:25:09.280]   [music]
+[00:25:09.280 --> 00:25:13.280]   [music]
+[00:25:13.280 --> 00:25:17.280]   [music]
+[00:25:17.280 --> 00:25:21.280]   [music]
+[00:25:21.280 --> 00:25:25.280]   [music]
+[00:25:26.280 --> 00:25:29.280]   [music]
+[00:25:29.280 --> 00:25:33.280]   [music]
+[00:25:33.280 --> 00:25:37.280]   [music]
+[00:25:37.280 --> 00:25:41.280]   [music]
+[00:25:41.280 --> 00:25:45.280]   [music]
+[00:25:45.280 --> 00:25:49.280]   [music]
+[00:25:49.280 --> 00:25:53.280]   [music]
+[00:25:54.280 --> 00:25:57.280]   [music]
+[00:25:57.280 --> 00:26:01.280]   [music]
+[00:26:01.280 --> 00:26:05.280]   [music]
+[00:26:05.280 --> 00:26:09.280]   [music]
+[00:26:09.280 --> 00:26:13.280]   [music]
+[00:26:13.280 --> 00:26:17.280]   [music]
+[00:26:17.280 --> 00:26:21.280]   [music]
+[00:26:22.280 --> 00:26:25.280]   [music]
+[00:26:25.280 --> 00:26:29.280]   [music]
+[00:26:29.280 --> 00:26:33.280]   [music]
+[00:26:33.280 --> 00:26:37.280]   [music]
+[00:26:37.280 --> 00:26:41.280]   [music]
+[00:26:41.280 --> 00:26:45.280]   [music]
+[00:26:45.280 --> 00:26:49.280]   [music]
+[00:26:50.280 --> 00:26:53.280]   [music]
+[00:26:53.280 --> 00:26:57.280]   [music]
+[00:26:57.280 --> 00:27:01.280]   [music]
+[00:27:01.280 --> 00:27:05.280]   [music]
+[00:27:05.280 --> 00:27:09.280]   [music]
+[00:27:09.280 --> 00:27:13.280]   [music]
+[00:27:13.280 --> 00:27:17.280]   [music]
+[00:27:18.280 --> 00:27:21.280]   [music]
+[00:27:21.280 --> 00:27:25.280]   [music]
+[00:27:25.280 --> 00:27:29.280]   [music]
+[00:27:29.280 --> 00:27:33.280]   [music]
+[00:27:33.280 --> 00:27:37.280]   [music]
+[00:27:37.280 --> 00:27:41.280]   [music]
+[00:27:41.280 --> 00:27:45.280]   [music]
+[00:27:46.280 --> 00:27:49.280]   [music]
+[00:27:49.280 --> 00:27:53.280]   [music]
+[00:27:53.280 --> 00:27:57.280]   [music]
+[00:27:57.280 --> 00:28:01.280]   [music]
+[00:28:01.280 --> 00:28:05.280]   [music]
+[00:28:05.280 --> 00:28:09.280]   [music]
+[00:28:09.280 --> 00:28:13.280]   [music]
+[00:28:14.280 --> 00:28:17.280]   [music]
+[00:28:17.280 --> 00:28:21.280]   [music]
+[00:28:21.280 --> 00:28:25.280]   [music]
+[00:28:25.280 --> 00:28:29.280]   [music]
+[00:28:29.280 --> 00:28:33.280]   [music]
+[00:28:33.280 --> 00:28:37.280]   [music]
+[00:28:37.280 --> 00:28:41.280]   [music]
+[00:28:42.280 --> 00:28:45.280]   [music]
+[00:28:45.280 --> 00:28:49.280]   [music]
+[00:28:49.280 --> 00:28:53.280]   [music]
+[00:28:53.280 --> 00:28:57.280]   [music]
+[00:28:57.280 --> 00:29:01.280]   [music]
+[00:29:01.280 --> 00:29:05.280]   [music]
+[00:29:05.280 --> 00:29:09.280]   [music]
+[00:29:10.280 --> 00:29:13.280]   [music]
+[00:29:13.280 --> 00:29:17.280]   [music]
+[00:29:17.280 --> 00:29:21.280]   [music]
+[00:29:21.280 --> 00:29:25.280]   [music]
+[00:29:25.280 --> 00:29:29.280]   [music]
+[00:29:29.280 --> 00:29:33.280]   [music]
+[00:29:33.280 --> 00:29:37.280]   [music]
+[00:29:38.280 --> 00:29:41.280]   [music]
+[00:29:41.280 --> 00:29:45.280]   [music]
+[00:29:45.280 --> 00:29:49.280]   [music]
+[00:29:49.280 --> 00:29:53.280]   [music]
+[00:29:53.280 --> 00:29:57.280]   [music]
+[00:29:57.280 --> 00:30:01.280]   [music]
+[00:30:01.280 --> 00:30:05.280]   [music]
+[00:30:06.280 --> 00:30:09.280]   [music]
+[00:30:09.280 --> 00:30:13.280]   [music]
+[00:30:13.280 --> 00:30:17.280]   [music]
+[00:30:17.280 --> 00:30:21.280]   [music]
+[00:30:21.280 --> 00:30:25.280]   [music]
+[00:30:25.280 --> 00:30:29.280]   [music]
+[00:30:29.280 --> 00:30:33.280]   [music]
+[00:30:34.280 --> 00:30:37.280]   [music]
+[00:30:37.280 --> 00:30:41.280]   [music]
+[00:30:41.280 --> 00:30:45.280]   [music]
+[00:30:45.280 --> 00:30:49.280]   [music]
+[00:30:49.280 --> 00:30:53.280]   [music]
+[00:30:53.280 --> 00:30:57.280]   [music]
+[00:30:57.280 --> 00:31:01.280]   [music]
+[00:31:02.280 --> 00:31:05.280]   [music]
+[00:31:05.280 --> 00:31:09.280]   [music]
+[00:31:09.280 --> 00:31:13.280]   [music]
+[00:31:13.280 --> 00:31:17.280]   [music]
+[00:31:17.280 --> 00:31:21.280]   [music]
+[00:31:21.280 --> 00:31:25.280]   [music]
+[00:31:25.280 --> 00:31:29.280]   [music]
+[00:31:30.280 --> 00:31:33.280]   [music]
+[00:31:33.280 --> 00:31:37.280]   [music]
+[00:31:37.280 --> 00:31:41.280]   [music]
+[00:31:41.280 --> 00:31:45.280]   [music]
+[00:31:45.280 --> 00:31:49.280]   [music]
+[00:31:49.280 --> 00:31:55.280]   If you can turn your Bibles with me to Luke chapter 6.
+[00:31:55.280 --> 00:31:58.280]   [silence]
+[00:31:58.280 --> 00:32:05.280]   And we're getting into the second half of the 12 disciples.
+[00:32:05.280 --> 00:32:14.280]   And the second half obviously is going to go much faster because we don't have a lot of information about the disciples,
+[00:32:14.280 --> 00:32:18.280]   with the exception of maybe a few at the tail end.
+[00:32:19.280 --> 00:32:27.280]   But I want to again refresh our memory of the text and the names of the disciples before we get started.
+[00:32:27.280 --> 00:32:33.280]   Verse 12, "It was at this time that he went off to the mountain to pray, and he spent the whole night in prayer to God.
+[00:32:33.280 --> 00:32:39.280]   And when day came, he called his disciples to him and chose twelve of them, whom he also named as apostles,
+[00:32:39.280 --> 00:32:44.280]   Simon, whom he also named Peter, and Andrew his brother, and James and John, Philip and Bartholomew,
+[00:32:45.280 --> 00:32:50.280]   and Matthew and Thomas, James the son of Aphaeus, and Simon, who was called Zealot,
+[00:32:50.280 --> 00:32:55.280]   Judas the son of James, and Judas Iscariot, who became a traitor." Let's pray.
+[00:32:55.280 --> 00:33:01.280]   Father, we pray that you would give us understanding, that your word would speak to us,
+[00:33:01.280 --> 00:33:07.280]   that it was your word and your word alone. Help us, Lord, not to simply be hearers, but to be doers of your word.
+[00:33:07.280 --> 00:33:12.280]   May your word and your word alone go forth and not return until it has accomplished its purpose.
+[00:33:13.280 --> 00:33:15.280]   In Jesus' name we pray, amen.
+[00:33:15.280 --> 00:33:23.280]   You know, a few weeks ago, again, when we were out in Korea,
+[00:33:23.280 --> 00:33:27.280]   we had an opportunity to speak with a group of Mormons out on the streets.
+[00:33:27.280 --> 00:33:32.280]   And one of the things that I noticed clearly about this encounter
+[00:33:32.280 --> 00:33:38.280]   is that how much of what they profess to believe, even 10, 15 years ago, they've altered.
+[00:33:39.280 --> 00:33:43.280]   And so whether it's polygamy or certain rituals that they have, they say, "Oh, we don't practice that anymore."
+[00:33:43.280 --> 00:33:49.280]   You know, our elders or leaders have decided that the interpretation had to be tweaked,
+[00:33:49.280 --> 00:33:57.280]   which is interesting because their book, according to record, has had 4,000 separate revisions
+[00:33:57.280 --> 00:34:05.280]   within the 150-some years that they've existed. 4,000 revisions had to be made in the New Book of Mormons.
+[00:34:06.280 --> 00:34:16.280]   Our text that we have, the Bible that we have, according to all records, with archaeological finds and what we have,
+[00:34:16.280 --> 00:34:23.280]   we pretty much have 99.9% of what they had in the first century is the exact same thing that we have today.
+[00:34:23.280 --> 00:34:28.280]   There's no other historical document that has been preserved to this extent.
+[00:34:28.280 --> 00:34:32.280]   That we know, whether you are a believer or not, we know that this is the text.
+[00:34:33.280 --> 00:34:38.280]   These are the letters that were handed from the apostles to the churches, the individuals,
+[00:34:38.280 --> 00:34:42.280]   and pretty much these are the letters that we have today.
+[00:34:42.280 --> 00:34:48.280]   And the reason behind this wasn't because of technology, it wasn't because of smart men got together
+[00:34:48.280 --> 00:34:52.280]   and found out what's the best way to preserve the literature.
+[00:34:52.280 --> 00:35:00.280]   It's because men and women literally gave their lives because they were convicted by this truth.
+[00:35:01.280 --> 00:35:07.280]   So the preservation of this truth came through blood of martyrs, people who gave their lives.
+[00:35:07.280 --> 00:35:12.280]   No other historical document, again, whether you are a believer or not,
+[00:35:12.280 --> 00:35:17.280]   is as accurate as when it was originally written 2,000 years later than the Bible itself.
+[00:35:17.280 --> 00:35:21.280]   Not even close. There's no other historical things that we believe today
+[00:35:21.280 --> 00:35:28.280]   that is based upon as much accuracy, as much evidence, than what we have today.
+[00:35:29.280 --> 00:35:33.280]   We know this because men and women literally gave their lives
+[00:35:33.280 --> 00:35:38.280]   in order to preserve the word of God and to preach it for the next generation.
+[00:35:38.280 --> 00:35:45.280]   I want to introduce to you as we jump into the text, a young lady.
+[00:35:45.280 --> 00:35:48.280]   I know from that picture you can't really tell how old she is.
+[00:35:48.280 --> 00:35:51.280]   She's about 23, 24 years old in that picture.
+[00:35:51.280 --> 00:35:56.280]   Her name is Ruby Kendrick. She was born in 1883, died in 1908.
+[00:35:57.280 --> 00:36:00.280]   The reason I have this picture, or I have, is because while we were in Seoul, Korea,
+[00:36:00.280 --> 00:36:06.280]   we went to one of the churches where they have all the missionaries who labored in Korea
+[00:36:06.280 --> 00:36:10.280]   the last hundred and some years, were buried here, or at least a lot of them.
+[00:36:10.280 --> 00:36:18.280]   This young lady really stands out because she only labored for about nine months out in Korea.
+[00:36:18.280 --> 00:36:23.280]   Typically, most of the people who are buried here have literally given their lives,
+[00:36:24.280 --> 00:36:28.280]   their children's lives, and some of them, even their great-grandchildren, continue to stay and labor,
+[00:36:28.280 --> 00:36:30.280]   and that's why they were buried in the cemetery.
+[00:36:30.280 --> 00:36:34.280]   But this young lady was only in Korea for about nine months before she passed away.
+[00:36:34.280 --> 00:36:39.280]   But the reason why she's there is because she went at such a young age.
+[00:36:39.280 --> 00:36:44.280]   She wanted to go when she was at the age of 20, right out of college,
+[00:36:44.280 --> 00:36:46.280]   but they thought that she was too young.
+[00:36:46.280 --> 00:36:50.280]   So she had to wait a few more years, and afterwards had to be trained a couple years.
+[00:36:51.280 --> 00:36:55.280]   And then in 1907, she was finally commissioned, and she went out to Seoul, Korea.
+[00:36:55.280 --> 00:37:00.280]   And after about nine months, and they don't know exactly what the cause was.
+[00:37:00.280 --> 00:37:05.280]   Some say that it was just exhaustion and fatigue, but she contracted something,
+[00:37:05.280 --> 00:37:07.280]   and then she ends up dying.
+[00:37:07.280 --> 00:37:13.280]   And in her deathbed, she writes a letter to her fellow students in Texas,
+[00:37:13.280 --> 00:37:18.280]   and in that letter, as she is facing death, one of the quotes that she says is,
+[00:37:19.280 --> 00:37:22.280]   "If I had a thousand lives to give," go back to the other one,
+[00:37:22.280 --> 00:37:27.280]   "If I had a thousand lives to give, Korea should have them all."
+[00:37:27.280 --> 00:37:32.280]   And so that was written in her letter, and that kind of caused a spark and revival,
+[00:37:32.280 --> 00:37:36.280]   and many other students ended up coming out to Korea and giving their lives
+[00:37:36.280 --> 00:37:38.280]   to bring the gospel to Korea.
+[00:37:38.280 --> 00:37:42.280]   I wanted to read a letter that she wrote to her mom before this happened,
+[00:37:42.280 --> 00:37:48.280]   just as an insight as to what was going on.
+[00:37:48.280 --> 00:37:49.280]   If you can go to the next slide.
+[00:37:49.280 --> 00:37:56.280]   It says, "Dad, Mom, this land, Chosun," which is what they called Korea at that time,
+[00:37:56.280 --> 00:37:59.280]   "is truly a beautiful land. They all resemble God.
+[00:37:59.280 --> 00:38:02.280]   I see their good heart and zeal for the gospel.
+[00:38:02.280 --> 00:38:07.280]   I believe that in a few years, it will be a land overflowing with the love of Christ.
+[00:38:07.280 --> 00:38:11.280]   I saw children walking over ten miles on barefoot to hear the gospel,
+[00:38:11.280 --> 00:38:14.280]   and the love of God in them encourages me.
+[00:38:15.280 --> 00:38:17.280]   But the persecution is getting stronger.
+[00:38:17.280 --> 00:38:20.280]   Two days ago, three or four of those who have accepted Christ,
+[00:38:20.280 --> 00:38:24.280]   less than a week, had been dragged away and were martyred.
+[00:38:24.280 --> 00:38:27.280]   Missionary Thomas and James were also martyred.
+[00:38:27.280 --> 00:38:30.280]   There were orders from the mission board to return,
+[00:38:30.280 --> 00:38:34.280]   but most missionaries are in hiding and worshipping with those
+[00:38:34.280 --> 00:38:36.280]   whom they have shared the gospel with.
+[00:38:36.280 --> 00:38:39.280]   It seems that they are all planning to be martyred.
+[00:38:39.280 --> 00:38:42.280]   Tonight, I have strong desire to return home.
+[00:38:43.280 --> 00:38:48.280]   I remember you, Mom, who resisted to the last moment of me leaving the port
+[00:38:48.280 --> 00:38:52.280]   because of the stories of the hate of foreigners in opposition to the gospel.
+[00:38:52.280 --> 00:38:57.280]   Dad, Mom, perhaps this may be the last letter I will be writing.
+[00:38:57.280 --> 00:39:00.280]   The seed that was sown in the backyard before I came out here
+[00:39:00.280 --> 00:39:03.280]   must be filling our neighborhood with flowers.
+[00:39:03.280 --> 00:39:06.280]   Another seed bear many flowers in the land of Chosun,
+[00:39:06.280 --> 00:39:09.280]   and they will be seeds to other nations.
+[00:39:09.280 --> 00:39:11.280]   I will bury my heart in this land.
+[00:39:12.280 --> 00:39:15.280]   I realize that this passion for Chosun that I have is not mine,
+[00:39:15.280 --> 00:39:17.280]   but God's passion towards Chosun.
+[00:39:17.280 --> 00:39:19.280]   Mom, Dad, I love you.
+[00:39:19.280 --> 00:39:25.280]   This was written by a 23, 24-year-old who dedicated her life
+[00:39:25.280 --> 00:39:27.280]   to a country that she did not know.
+[00:39:27.280 --> 00:39:32.280]   And she was not martyred, but she was willing to be.
+[00:39:32.280 --> 00:39:34.280]   And she died young, and as a result of her death,
+[00:39:34.280 --> 00:39:38.280]   many other young people were willing to pick up their cross and come.
+[00:39:39.280 --> 00:39:44.280]   And so the history of Christianity is filled with young people, old people,
+[00:39:44.280 --> 00:39:47.280]   who have given their lives, shed their blood,
+[00:39:47.280 --> 00:39:50.280]   in order that they may have the gospel.
+[00:39:50.280 --> 00:39:56.280]   As encouraging, as challenging as that is, this is not unique to Korea.
+[00:39:56.280 --> 00:40:00.280]   Two thousand years of church history is filled with people like Ruby,
+[00:40:00.280 --> 00:40:04.280]   who met Christ and was willing to give their life
+[00:40:04.280 --> 00:40:08.280]   to get the gospel to the people who did not have it.
+[00:40:08.280 --> 00:40:12.280]   Because you and I live in a comfortable country,
+[00:40:12.280 --> 00:40:18.280]   our natural tendency is to think that God's blessing upon our lives is health.
+[00:40:18.280 --> 00:40:24.280]   It's good job, children who behave, a good retirement,
+[00:40:24.280 --> 00:40:26.280]   a nice house, a good marriage.
+[00:40:26.280 --> 00:40:31.280]   And so all that we do, how we evaluate God's blessing in our life,
+[00:40:31.280 --> 00:40:37.280]   oftentimes is filtered by what we have accepted as normal.
+[00:40:37.280 --> 00:40:42.280]   But two thousand years of church history are filled with people like her.
+[00:40:42.280 --> 00:40:46.280]   Thousands and tens of thousands, hundreds of thousands of people
+[00:40:46.280 --> 00:40:50.280]   who thought that the gospel and Christ
+[00:40:50.280 --> 00:40:53.280]   was much more precious than their own lives.
+[00:40:53.280 --> 00:40:57.280]   And so you and I worship here freely because of that.
+[00:40:57.280 --> 00:41:01.280]   You and I live in a free country and gather together
+[00:41:01.280 --> 00:41:04.280]   and say we express our love for Christ
+[00:41:05.280 --> 00:41:10.280]   because people have given their lives to get us to this point.
+[00:41:10.280 --> 00:41:16.280]   It's important for us that the calling of Christ is a radical call.
+[00:41:16.280 --> 00:41:22.280]   We may study Philip and Bartholomew and Peter and Andrew
+[00:41:22.280 --> 00:41:25.280]   and look at that and say, wow, these guys were men of courage
+[00:41:25.280 --> 00:41:28.280]   and they did great things. They all died for their faith.
+[00:41:28.280 --> 00:41:31.280]   And everyone did.
+[00:41:32.280 --> 00:41:35.280]   Philip, as far as we know, was stoned to death.
+[00:41:35.280 --> 00:41:39.280]   Nathaniel was either crucified or was drowned because of the faith.
+[00:41:39.280 --> 00:41:43.280]   And every single one of them literally gave their lives
+[00:41:43.280 --> 00:41:45.280]   because they were so convicted.
+[00:41:45.280 --> 00:41:49.280]   Whether you are a believer or not, one thing that is sure is that they believed it.
+[00:41:49.280 --> 00:41:52.280]   Even if you don't believe it,
+[00:41:52.280 --> 00:41:56.280]   there's no way that all of these people would have given their lives
+[00:41:56.280 --> 00:41:59.280]   if they knew that this was false.
+[00:42:00.280 --> 00:42:03.280]   Now they've come up with all kinds of crazy theories
+[00:42:03.280 --> 00:42:06.280]   of why they might have believed it, which I'm not going to get into today.
+[00:42:06.280 --> 00:42:09.280]   But we know for a fact that at least they believed it.
+[00:42:09.280 --> 00:42:12.280]   And it wasn't just them. The next generation believed it.
+[00:42:12.280 --> 00:42:14.280]   And the generation after them believed it.
+[00:42:14.280 --> 00:42:16.280]   And the generation after them believed it.
+[00:42:16.280 --> 00:42:19.280]   And as a result of that, people gave their lives
+[00:42:19.280 --> 00:42:21.280]   so that you and I could have the gospel.
+[00:42:21.280 --> 00:42:28.280]   I want to caution you as we study these men
+[00:42:29.280 --> 00:42:32.280]   that we don't study these men as we're studying a textbook
+[00:42:32.280 --> 00:42:35.280]   and look at that and say, "What was it about these people?"
+[00:42:35.280 --> 00:42:38.280]   It was so crazy, almost kind of like we're studying history.
+[00:42:38.280 --> 00:42:41.280]   Like God did some great things with these people, as if we're removed.
+[00:42:41.280 --> 00:42:45.280]   There's something spectacular about them,
+[00:42:45.280 --> 00:42:48.280]   something spectacular about her.
+[00:42:48.280 --> 00:42:50.280]   They must have known something.
+[00:42:50.280 --> 00:42:52.280]   They must have experienced something that you and I don't know.
+[00:42:52.280 --> 00:42:54.280]   And as a result, they were willing to give their life.
+[00:42:54.280 --> 00:42:56.280]   But for the rest of us, God didn't call everybody to missions.
+[00:42:56.280 --> 00:42:58.280]   God didn't call everybody.
+[00:42:58.280 --> 00:42:59.280]   What's wrong with having some wealth?
+[00:42:59.280 --> 00:43:01.280]   What's wrong with having some fun?
+[00:43:01.280 --> 00:43:04.280]   And we've made a subcategory of Christianity
+[00:43:04.280 --> 00:43:08.280]   that doesn't look anything like what we see in Scripture.
+[00:43:08.280 --> 00:43:12.280]   It's our culture, but it's not Christianity.
+[00:43:12.280 --> 00:43:15.280]   In fact, the majority of the prejudice against Christianity
+[00:43:15.280 --> 00:43:17.280]   has nothing to do with Christianity.
+[00:43:17.280 --> 00:43:19.280]   It's the culture of Christianity.
+[00:43:19.280 --> 00:43:22.280]   The culture of Christians, nominal Christians,
+[00:43:22.280 --> 00:43:26.280]   the majority of the prejudice that they have toward Christianity,
+[00:43:27.280 --> 00:43:28.280]   at least when I hear it,
+[00:43:28.280 --> 00:43:31.280]   has nothing to do with genuine Christianity I see in Scripture.
+[00:43:31.280 --> 00:43:35.280]   In fact, genuine Christians were the ones who gave their life and fed the poor.
+[00:43:35.280 --> 00:43:37.280]   They're the ones who established schools.
+[00:43:37.280 --> 00:43:39.280]   They're the ones who were compassionate.
+[00:43:39.280 --> 00:43:41.280]   They're the ones who literally went to remote jungles
+[00:43:41.280 --> 00:43:44.280]   to bring medicine to these people.
+[00:43:44.280 --> 00:43:48.280]   But today, when you talk to somebody who hates the church
+[00:43:48.280 --> 00:43:50.280]   and the way that they describe it,
+[00:43:50.280 --> 00:43:52.280]   a bunch of hypocrites, they're no different,
+[00:43:52.280 --> 00:43:55.280]   their practice of morality is no different than ours,
+[00:43:56.280 --> 00:43:58.280]   is not a description of biblical Christianity.
+[00:43:58.280 --> 00:44:01.280]   That's a description of a church filled with people
+[00:44:01.280 --> 00:44:04.280]   who have embraced a subcategory of Christianity
+[00:44:04.280 --> 00:44:07.280]   that looks nothing like what the Bible teaches.
+[00:44:07.280 --> 00:44:10.280]   When we look at these men and examine them,
+[00:44:10.280 --> 00:44:14.280]   I want to highlight three things about their life.
+[00:44:14.280 --> 00:44:18.280]   One, these men were just ordinary people.
+[00:44:18.280 --> 00:44:21.280]   They were just ordinary people.
+[00:44:22.280 --> 00:44:27.280]   Philip and Nathaniel is only really mentioned in three or four texts,
+[00:44:27.280 --> 00:44:32.280]   and in that four texts, only one text has any description of Nathaniel.
+[00:44:32.280 --> 00:44:37.280]   And his name oftentimes is referred to as Bartholomew,
+[00:44:37.280 --> 00:44:39.280]   if you look at the list.
+[00:44:39.280 --> 00:44:43.280]   Philip's name simply means a lover of horse.
+[00:44:43.280 --> 00:44:45.280]   And we look at that and say,
+[00:44:45.280 --> 00:44:47.280]   was he going to be like some horse whisperer,
+[00:44:47.280 --> 00:44:51.280]   and is this like some prophecy about what he's going to be doing?
+[00:44:51.280 --> 00:44:53.280]   It's like, no, it's just a common name.
+[00:44:53.280 --> 00:44:57.280]   It doesn't have any significance, meaning behind it.
+[00:44:57.280 --> 00:45:00.280]   It was just something that a lot of people had.
+[00:45:00.280 --> 00:45:04.280]   He was just a lover of horse,
+[00:45:04.280 --> 00:45:07.280]   at least that's what his name means, just like anybody else.
+[00:45:07.280 --> 00:45:09.280]   Nothing special.
+[00:45:09.280 --> 00:45:12.280]   Don't confuse him with the deacon, Philip, in Acts 5.
+[00:45:12.280 --> 00:45:14.280]   This is the apostle.
+[00:45:14.280 --> 00:45:17.280]   We know that he's from Bethsaida,
+[00:45:17.280 --> 00:45:19.280]   and this is where Peter and Andrew was from,
+[00:45:20.280 --> 00:45:21.280]   so most likely they were friends.
+[00:45:21.280 --> 00:45:25.280]   And they most likely grew up in the same synagogue,
+[00:45:25.280 --> 00:45:28.280]   because typically in one area, they would have one synagogue.
+[00:45:28.280 --> 00:45:32.280]   So we know that Philip, Andrew, and Peter
+[00:45:32.280 --> 00:45:34.280]   most likely were friends and probably fishermen.
+[00:45:34.280 --> 00:45:36.280]   So they were buddies.
+[00:45:36.280 --> 00:45:39.280]   I don't know if they were of similar age.
+[00:45:39.280 --> 00:45:44.280]   Nathaniel is mentioned always with Philip.
+[00:45:44.280 --> 00:45:47.280]   So it looks like they were really close friends,
+[00:45:48.280 --> 00:45:51.280]   and they were from Cana, which is a few miles away from Bethsaida.
+[00:45:51.280 --> 00:45:55.280]   And his Hebrew name, Bartholomew, simply means son of Tomai,
+[00:45:55.280 --> 00:45:57.280]   so nothing special.
+[00:45:57.280 --> 00:46:00.280]   Greek name Nathaniel means God has given.
+[00:46:00.280 --> 00:46:02.280]   Most likely he's a fisherman.
+[00:46:02.280 --> 00:46:04.280]   Most commentators believe that.
+[00:46:04.280 --> 00:46:07.280]   And again, there's nothing that stands out about them.
+[00:46:07.280 --> 00:46:10.280]   There's no education, there's no pedigree.
+[00:46:10.280 --> 00:46:15.280]   Financially, they're not necessarily significantly wealthy.
+[00:46:16.280 --> 00:46:19.280]   But what we do know, that out of the 12 disciples,
+[00:46:19.280 --> 00:46:23.280]   at least seven, possibly eight or nine, are fishermen.
+[00:46:23.280 --> 00:46:26.280]   We know at least seven of them were fishermen.
+[00:46:26.280 --> 00:46:32.280]   Just blue-collar guys who lived generationally catching fish.
+[00:46:32.280 --> 00:46:34.280]   They weren't experts in anything else.
+[00:46:34.280 --> 00:46:36.280]   They weren't experts in the law.
+[00:46:36.280 --> 00:46:39.280]   They're not experts in proselytizing.
+[00:46:39.280 --> 00:46:43.280]   They're not experts in sacrifice, in finance or politics.
+[00:46:43.280 --> 00:46:45.280]   They just know how to catch fish.
+[00:46:45.280 --> 00:46:48.280]   And that's why I remember when Jesus is at the shore and says,
+[00:46:48.280 --> 00:46:50.280]   "Hey, throw out the net."
+[00:46:50.280 --> 00:46:52.280]   And remember what the disciples said?
+[00:46:52.280 --> 00:46:55.280]   It's like, "We professional fishermen have been fishing all night.
+[00:46:55.280 --> 00:46:57.280]   We didn't catch anything.
+[00:46:57.280 --> 00:46:59.280]   And you, a carpenter, is going to tell us.
+[00:46:59.280 --> 00:47:01.280]   But because it's you, we're going to try it."
+[00:47:01.280 --> 00:47:04.280]   And they do it, and they realize that Jesus knew what he was talking about.
+[00:47:04.280 --> 00:47:06.280]   If there's anything that they knew more than anybody else,
+[00:47:06.280 --> 00:47:08.280]   it was just fishing.
+[00:47:08.280 --> 00:47:13.280]   So how does that qualify them to be apostles?
+[00:47:14.280 --> 00:47:15.280]   What is it about that character?
+[00:47:15.280 --> 00:47:19.280]   There's nothing about their background that would cause them to stand down
+[00:47:19.280 --> 00:47:21.280]   and say, "Oh, that's why Jesus chose them."
+[00:47:21.280 --> 00:47:27.280]   In fact, not only were they just ordinary men, blue-collar workers,
+[00:47:27.280 --> 00:47:29.280]   they were flawed men.
+[00:47:29.280 --> 00:47:34.280]   The little that we know about the record that we have of them,
+[00:47:34.280 --> 00:47:36.280]   it doesn't paint them in a great light.
+[00:47:36.280 --> 00:47:38.280]   I mean, they're not necessarily great sinners,
+[00:47:38.280 --> 00:47:41.280]   but they weren't like giants of faith either.
+[00:47:42.280 --> 00:47:45.280]   In 1 John 6, 5-7, remember when Jesus is feeding the 5,000?
+[00:47:45.280 --> 00:47:49.280]   In verse 5, "Therefore Jesus, lifting up his eyes,
+[00:47:49.280 --> 00:47:51.280]   and seeing that a large crowd was coming to him,
+[00:47:51.280 --> 00:47:55.280]   said to Philip, 'Where are we to buy bread, so that these may eat?'"
+[00:47:55.280 --> 00:48:00.280]   Now I want you to notice that Jesus specifically is addressing Philip.
+[00:48:00.280 --> 00:48:02.280]   He's not addressing the whole crowd.
+[00:48:02.280 --> 00:48:04.280]   He's just addressing Philip.
+[00:48:04.280 --> 00:48:07.280]   "Philip, where are we going to buy bread, so that these may eat?"
+[00:48:07.280 --> 00:48:09.280]   Some people believe that maybe Philip was addressed
+[00:48:09.280 --> 00:48:11.280]   because he was in charge of the food.
+[00:48:11.280 --> 00:48:13.280]   Judas was in charge of the money,
+[00:48:13.280 --> 00:48:17.280]   and maybe he was in charge of the food ministry.
+[00:48:17.280 --> 00:48:20.280]   And so Jesus specifically targets him.
+[00:48:20.280 --> 00:48:25.280]   He was saying to test him, for he himself knew what he was intending to do.
+[00:48:25.280 --> 00:48:28.280]   Jesus wasn't asking this question because he was genuinely asking Philip,
+[00:48:28.280 --> 00:48:31.280]   "Tell me what to do, since you're the master of feeding."
+[00:48:31.280 --> 00:48:34.280]   No, he was trying to teach him something.
+[00:48:34.280 --> 00:48:37.280]   "Philip answered him, 'Two hundred denarii worth of bread
+[00:48:37.280 --> 00:48:40.280]   is not sufficient for them, for everyone to receive a little.'"
+[00:48:40.280 --> 00:48:42.280]   In other words, we don't have enough.
+[00:48:42.280 --> 00:48:49.280]   Now, Philip's response is a very typical response.
+[00:48:49.280 --> 00:48:52.280]   I think that's a response that any one of us would give.
+[00:48:52.280 --> 00:48:55.280]   Years ago, when our church was smaller,
+[00:48:55.280 --> 00:48:59.280]   one of the benefits of having a small church
+[00:48:59.280 --> 00:49:01.280]   is that we were able to eat together every Sunday.
+[00:49:01.280 --> 00:49:03.280]   Some of you guys, a few of you guys remember that period
+[00:49:03.280 --> 00:49:07.280]   when we had less than a hundred, or up to maybe about three hundred.
+[00:49:07.280 --> 00:49:09.280]   We were able to do that every Sunday.
+[00:49:09.280 --> 00:49:13.280]   We started at a church, like a potluck, and then that got too big.
+[00:49:13.280 --> 00:49:16.280]   We ended up going to restaurants, so we would shut that down.
+[00:49:16.280 --> 00:49:20.280]   Then we used to go to UTC, and our whole church would go there.
+[00:49:20.280 --> 00:49:22.280]   We got too big, and then people would get irritated
+[00:49:22.280 --> 00:49:24.280]   because we'd take all the spots.
+[00:49:24.280 --> 00:49:26.280]   Eventually, we just couldn't eat anymore.
+[00:49:26.280 --> 00:49:29.280]   Only recently, we've been talking about saying,
+[00:49:29.280 --> 00:49:31.280]   "Hey, we really missed that period when every Sunday
+[00:49:31.280 --> 00:49:33.280]   we stayed together and we ate."
+[00:49:33.280 --> 00:49:36.280]   It's a great time of fellowship, builds community.
+[00:49:37.280 --> 00:49:39.280]   Right now, we're hovering right around a thousand,
+[00:49:39.280 --> 00:49:44.280]   and in order to feed our church requires two, three months of planning.
+[00:49:44.280 --> 00:49:48.280]   I remember our budget used to be $100 for food
+[00:49:48.280 --> 00:49:51.280]   to feed the whole church because we didn't have much money.
+[00:49:51.280 --> 00:49:55.280]   I remember some people who were in charge made pibimbap,
+[00:49:55.280 --> 00:49:57.280]   and I don't know how they did it with $100.
+[00:49:57.280 --> 00:49:59.280]   Then some people made onion sandwich.
+[00:49:59.280 --> 00:50:03.280]   Depending on who was running it, they were able to use that $100.
+[00:50:03.280 --> 00:50:06.280]   Now, if we're going to feed our church,
+[00:50:06.280 --> 00:50:08.280]   it would require a huge chunk of money,
+[00:50:08.280 --> 00:50:11.280]   thousands of dollars in order to just feed one meal.
+[00:50:11.280 --> 00:50:13.280]   It has to be a big deal.
+[00:50:13.280 --> 00:50:15.280]   We have to prepare way ahead of time,
+[00:50:15.280 --> 00:50:19.280]   and we need to get tons of people, dozens of people involved.
+[00:50:19.280 --> 00:50:21.280]   It takes a long time to do this.
+[00:50:21.280 --> 00:50:26.280]   I can imagine if it's this hard to feed a thousand people,
+[00:50:26.280 --> 00:50:29.280]   on record, it has 5,000 men, but we know that reality,
+[00:50:29.280 --> 00:50:33.280]   including women and children, is probably 15,000 to 20,000.
+[00:50:34.280 --> 00:50:37.280]   That's the typical number that the commentators would give.
+[00:50:37.280 --> 00:50:41.280]   When Jesus says, "They didn't bring food. How are we going to feed them?"
+[00:50:41.280 --> 00:50:44.280]   The natural response of the guy who may be in charge of the food is,
+[00:50:44.280 --> 00:50:46.280]   "Are you kidding?
+[00:50:46.280 --> 00:50:51.280]   All year's worth of salary isn't going to be able to feed 20,000 people."
+[00:50:51.280 --> 00:50:56.280]   I can't imagine if it's this hard feeding 1,000, 20,000 people,
+[00:50:56.280 --> 00:50:59.280]   all of a sudden, too, with no planning, out in the wilderness.
+[00:50:59.280 --> 00:51:01.280]   How is this going to happen?
+[00:51:03.280 --> 00:51:07.280]   We may say that this is probably a typical, normal response of anybody,
+[00:51:07.280 --> 00:51:10.280]   except this was not a typical situation.
+[00:51:10.280 --> 00:51:18.280]   By this time, all the disciples, including Philip, were eyewitnesses.
+[00:51:18.280 --> 00:51:24.280]   Not from a distance, but they had front row seats to water being turned into wine.
+[00:51:24.280 --> 00:51:28.280]   He's already seen Jesus do this before.
+[00:51:28.280 --> 00:51:31.280]   He healed the official's son.
+[00:51:32.280 --> 00:51:35.280]   He saw Jesus cast out demons.
+[00:51:35.280 --> 00:51:38.280]   Peter's mother-in-law being healed.
+[00:51:38.280 --> 00:51:40.280]   He saw the miraculous catch of fish.
+[00:51:40.280 --> 00:51:44.280]   He remembered just throwing the net after they couldn't catch all night,
+[00:51:44.280 --> 00:51:47.280]   and then they bringing in hundreds and hundreds of fish.
+[00:51:47.280 --> 00:51:50.280]   Philip was there. He counted.
+[00:51:50.280 --> 00:51:54.280]   He knew what happened. He was eyewitness to that.
+[00:51:54.280 --> 00:51:57.280]   Healed a man of leprosy. Healed a paralyzed man.
+[00:51:57.280 --> 00:52:01.280]   Raised the dead. Healed a hemorrhaging woman.
+[00:52:01.280 --> 00:52:03.280]   Opened the mouth of a mute man.
+[00:52:03.280 --> 00:52:08.280]   The scripture says that these are just the things that are recorded.
+[00:52:08.280 --> 00:52:10.280]   If all that Jesus said and done had been recorded,
+[00:52:10.280 --> 00:52:12.280]   there wouldn't be enough books to be able to record them.
+[00:52:12.280 --> 00:52:16.280]   So, these are only things that are recorded in the book for us.
+[00:52:16.280 --> 00:52:19.280]   So, Philip was an eyewitness of all of this.
+[00:52:19.280 --> 00:52:23.280]   So, you would think that when Jesus said, "Well, we have all these people,
+[00:52:23.280 --> 00:52:26.280]   and what are we going to do?" that his response would have been,
+[00:52:26.280 --> 00:52:29.280]   "Well, you look at all, remember all that fish?
+[00:52:30.280 --> 00:52:32.280]   You don't want to do all that, so this is nothing to you."
+[00:52:32.280 --> 00:52:36.280]   Instead, he still stuck on his limitation.
+[00:52:36.280 --> 00:52:39.280]   How is this going to happen?
+[00:52:39.280 --> 00:52:44.280]   So, Philip is not the strong man of faith where he's like,
+[00:52:44.280 --> 00:52:48.280]   "Yes, I believe you. You are a sovereign God. I'm going to do whatever you say."
+[00:52:48.280 --> 00:52:52.280]   Right off the bat, the little that we know of Philip,
+[00:52:52.280 --> 00:52:55.280]   he was a man of doubting. He was a flawed man.
+[00:52:55.280 --> 00:52:59.280]   In fact, in John 14, 8-9, at the end of his ministry,
+[00:52:59.280 --> 00:53:01.280]   as he is preparing to go to the cross,
+[00:53:01.280 --> 00:53:05.280]   he told his disciples, "I'm going to go to prepare a place for you."
+[00:53:05.280 --> 00:53:07.280]   And so, they're starting to freak out.
+[00:53:07.280 --> 00:53:09.280]   What's going to happen?
+[00:53:09.280 --> 00:53:13.280]   And so, Philip's response to him, in verse 8,
+[00:53:13.280 --> 00:53:16.280]   "Philip said to him, 'Lord, show us the Father, and it is enough for us.'"
+[00:53:16.280 --> 00:53:19.280]   Like, I don't understand what you're saying.
+[00:53:19.280 --> 00:53:21.280]   You say you're going to disappear.
+[00:53:21.280 --> 00:53:25.280]   I know that the leaders are after you, but show us the Father.
+[00:53:26.280 --> 00:53:29.280]   If you can just show us the Father, then we'll be okay with what you're saying.
+[00:53:29.280 --> 00:53:35.280]   "And Jesus said to him, 'Have I been so long with you, yet you have not come to know me, Philip?
+[00:53:35.280 --> 00:53:40.280]   He who has seen me has seen the Father. How can you say, 'Show us the Father'?"
+[00:53:40.280 --> 00:53:44.280]   Jesus' whole ministry was to show him who he is.
+[00:53:44.280 --> 00:53:49.280]   That's why, before he goes to the cross, he has that encounter with a disciple.
+[00:53:49.280 --> 00:53:52.280]   "Who do men say that I am, but who do you say that I am?"
+[00:53:52.280 --> 00:53:54.280]   Because that was the whole point of his ministry.
+[00:53:55.280 --> 00:53:58.280]   Not simply so that they can learn the techniques of going into villages,
+[00:53:58.280 --> 00:54:02.280]   and eating without money, and how to catch fish.
+[00:54:02.280 --> 00:54:06.280]   His whole purpose of why he gathered the disciples to himself
+[00:54:06.280 --> 00:54:12.280]   was to reveal himself to them, so that they can be his witness after he dies and resurrects.
+[00:54:12.280 --> 00:54:15.280]   So, knowing that this is at the end of his ministry,
+[00:54:15.280 --> 00:54:19.280]   and the one thing that he's been training them to do,
+[00:54:19.280 --> 00:54:21.280]   Philip says, "Show me the Father."
+[00:54:21.280 --> 00:54:23.280]   Can you imagine the frustration of Jesus?
+[00:54:24.280 --> 00:54:28.280]   James and John are fighting to see if they can sit on the left or to the right.
+[00:54:28.280 --> 00:54:33.280]   Peter basically throws all of his other friends under the bus.
+[00:54:33.280 --> 00:54:37.280]   "Those guys will all deny you, but not me."
+[00:54:37.280 --> 00:54:42.280]   Then here's Philip, "Okay, just show us the Father."
+[00:54:42.280 --> 00:54:45.280]   Can you imagine Jesus' frustration?
+[00:54:45.280 --> 00:54:50.280]   In fact, Nathanael himself, in John 1.46, said to him,
+[00:54:51.280 --> 00:54:53.280]   "Can any good thing come out of Nazareth?"
+[00:54:53.280 --> 00:54:56.280]   When Philip tried to introduce him to Jesus.
+[00:54:56.280 --> 00:54:59.280]   Philip said to him, "Come and see."
+[00:54:59.280 --> 00:55:05.280]   So, Nathanael's first response wasn't a "yes" of faith, it was "Nazareth?"
+[00:55:05.280 --> 00:55:10.280]   Some think that maybe he was saying this because there was some rivalry
+[00:55:10.280 --> 00:55:13.280]   between where Nathanael came from.
+[00:55:13.280 --> 00:55:18.280]   He came from Cana, and maybe Nazareth had some rivalry,
+[00:55:19.280 --> 00:55:21.280]   like the warriors against Lakers.
+[00:55:21.280 --> 00:55:24.280]   Can anything good come out of San Francisco?
+[00:55:24.280 --> 00:55:29.280]   Some think that that is what's going on, but I don't think that's what's going on.
+[00:55:29.280 --> 00:55:33.280]   I think the question that he's asking is,
+[00:55:33.280 --> 00:55:38.280]   the Messiah, the King, the one that's prophesied in the Old Testament?
+[00:55:38.280 --> 00:55:43.280]   From Nazareth, the temple's not there, that's not the religious center.
+[00:55:43.280 --> 00:55:46.280]   There's no education system there.
+[00:55:47.280 --> 00:55:49.280]   Can anything good come out of nowhere like that?
+[00:55:49.280 --> 00:55:51.280]   I think that's what he's asking.
+[00:55:51.280 --> 00:55:55.280]   Because if somebody's going to be of prominence,
+[00:55:55.280 --> 00:55:58.280]   even if we're selecting president, the president's like,
+[00:55:58.280 --> 00:56:00.280]   "Okay, what school did he come from? What's his pedigree?
+[00:56:00.280 --> 00:56:03.280]   What's his background? What's his experience? What has he done?
+[00:56:03.280 --> 00:56:05.280]   What company did he run?"
+[00:56:05.280 --> 00:56:09.280]   That's a question that you may ask if you're going to be the leader of a country.
+[00:56:09.280 --> 00:56:11.280]   What credentials do you have?
+[00:56:11.280 --> 00:56:14.280]   And I believe that Nathanael is asking that question.
+[00:56:14.280 --> 00:56:16.280]   What is his credential?
+[00:56:16.280 --> 00:56:19.280]   How can the Messiah prophesied in the Old Testament come from Nazareth?
+[00:56:19.280 --> 00:56:21.280]   There's nothing over there.
+[00:56:21.280 --> 00:56:27.280]   In fact, even John 7, 3-6, even his brothers didn't believe it.
+[00:56:27.280 --> 00:56:29.280]   And because they didn't believe it, they said,
+[00:56:29.280 --> 00:56:31.280]   "Well, if you're going to go and do all these miracles, go to Judea."
+[00:56:31.280 --> 00:56:35.280]   The epicenter of religious activity,
+[00:56:35.280 --> 00:56:38.280]   if you're trying to become somebody, because they didn't believe either.
+[00:56:38.280 --> 00:56:41.280]   So Philip and Nathanael were flawed men.
+[00:56:41.280 --> 00:56:44.280]   The literal information that we have,
+[00:56:45.280 --> 00:56:47.280]   we know that they weren't giants of faith.
+[00:56:47.280 --> 00:56:53.280]   But what distinguished them and all the other disciples
+[00:56:53.280 --> 00:56:58.280]   is that they were seekers, genuine seekers.
+[00:56:58.280 --> 00:57:03.280]   Now, let me distinguish between the way we understand seeker today
+[00:57:03.280 --> 00:57:06.280]   versus what I believe the Bible talks about, genuine seekers.
+[00:57:06.280 --> 00:57:12.280]   In our culture, again, because of, we call the modern day church movement
+[00:57:13.280 --> 00:57:16.280]   a seeker-friendly movement or church marketing movement,
+[00:57:16.280 --> 00:57:18.280]   however you call it,
+[00:57:18.280 --> 00:57:23.280]   the general understanding of a seeker is somebody who just doesn't go to church.
+[00:57:23.280 --> 00:57:27.280]   They don't go to church, but they want to come to church, so there's a seeker.
+[00:57:27.280 --> 00:57:31.280]   But a seeker is not somebody who feels emptiness
+[00:57:31.280 --> 00:57:35.280]   and wants to find some meaning in life, because that's the whole world.
+[00:57:35.280 --> 00:57:37.280]   The whole world.
+[00:57:37.280 --> 00:57:41.280]   They don't have an answer to life, so maybe, maybe there's some answer here.
+[00:57:42.280 --> 00:57:44.280]   But a seeker is not somebody who doesn't have purpose in life
+[00:57:44.280 --> 00:57:46.280]   and was looking for purpose.
+[00:57:46.280 --> 00:57:49.280]   That doesn't make you a seeker, because you can,
+[00:57:49.280 --> 00:57:52.280]   there's a lot of people who go to the Buddhists and different religions for that.
+[00:57:52.280 --> 00:57:57.280]   In fact, part of the reason why the cults are growing so fast in South Korea
+[00:57:57.280 --> 00:58:01.280]   is because they're seeking for meaning and purpose.
+[00:58:01.280 --> 00:58:05.280]   Many people end up coming to church because they want to belong somewhere,
+[00:58:05.280 --> 00:58:08.280]   part of a community.
+[00:58:09.280 --> 00:58:11.280]   But according to scripture, that's not a seeker.
+[00:58:11.280 --> 00:58:15.280]   A seeker is somebody who is specifically looking for Christ.
+[00:58:15.280 --> 00:58:17.280]   Despite.
+[00:58:17.280 --> 00:58:22.280]   A genuine seeker will seek Christ despite the consequences.
+[00:58:22.280 --> 00:58:25.280]   Not for the benefits.
+[00:58:25.280 --> 00:58:30.280]   See, that's a huge difference from what we understand a seeker is.
+[00:58:30.280 --> 00:58:35.280]   You can come to church for all the benefits and be a Ian.
+[00:58:35.280 --> 00:58:38.280]   If you remember my sermon a couple of weeks ago.
+[00:58:39.280 --> 00:58:42.280]   A Christless Christian is simply an Ian.
+[00:58:42.280 --> 00:58:46.280]   Because you enjoy the benefits of Christianity without Christ.
+[00:58:46.280 --> 00:58:50.280]   A seeker is not somebody who wants to belong somewhere.
+[00:58:50.280 --> 00:58:53.280]   A seeker is not somebody who wants to be a part of a community
+[00:58:53.280 --> 00:58:57.280]   and find meaning and purpose and raise our children with morals
+[00:58:57.280 --> 00:59:00.280]   and do good things and be protected from this sinful world.
+[00:59:00.280 --> 00:59:02.280]   That's not a seeker.
+[00:59:02.280 --> 00:59:05.280]   The majority of the people in the world want that.
+[00:59:06.280 --> 00:59:10.280]   A seeker is somebody who hungers and thirsts for God.
+[00:59:10.280 --> 00:59:17.280]   In fact, in many countries, the genuine seekers will come to Christ
+[00:59:17.280 --> 00:59:20.280]   despite losing their community.
+[00:59:20.280 --> 00:59:24.280]   Despite the fact that they may lose their job.
+[00:59:24.280 --> 00:59:28.280]   Despite the fact that they may be stolen going to church.
+[00:59:28.280 --> 00:59:33.280]   Those are seekers who are seeking and want Christ and want truth.
+[00:59:34.280 --> 00:59:36.280]   Not simply the benefits.
+[00:59:36.280 --> 00:59:42.280]   See, if we look at the text carefully in John 1, 43-45.
+[00:59:42.280 --> 00:59:47.280]   We see people who are actively seeking.
+[00:59:47.280 --> 00:59:52.280]   It says in verse 43, "The next day he proposed to go into Galilee and found Philip.
+[00:59:52.280 --> 00:59:55.280]   And Jesus said to him, 'Follow me.'
+[00:59:55.280 --> 00:59:58.280]   Now Philip was from Bethsaida, the city of Andrew and Peter.
+[00:59:58.280 --> 01:00:01.280]   Philip found Nathanael and said to him, 'We have found him,
+[01:00:02.280 --> 01:00:04.280]   and we have found Moses in the law, and also the prophets wrote,
+[01:00:04.280 --> 01:00:06.280]   Jesus of Nazareth, son of Joseph.'"
+[01:00:06.280 --> 01:00:09.280]   The first thing that we find, why I believe they were seekers,
+[01:00:09.280 --> 01:00:13.280]   is because Jesus runs into them in the wilderness, headed to Galilee.
+[01:00:13.280 --> 01:00:18.280]   Now the reason why that's significant is because that's where John the Baptist was doing his ministry.
+[01:00:18.280 --> 01:00:22.280]   And remember, that's where Andrew was there as his disciple.
+[01:00:22.280 --> 01:00:26.280]   And so, remember, John the Baptist's ministry, whole ministry,
+[01:00:26.280 --> 01:00:29.280]   was to prepare for the coming of Christ.
+[01:00:30.280 --> 01:00:32.280]   And you can imagine that every opportunity he got,
+[01:00:32.280 --> 01:00:36.280]   he was talking about his older cousin, the Messiah, the King of Israel,
+[01:00:36.280 --> 01:00:38.280]   he's going to come.
+[01:00:38.280 --> 01:00:44.280]   And his primary message was, when he comes, I must decrease and he must increase.
+[01:00:44.280 --> 01:00:47.280]   He was preparing them for the coming of Christ.
+[01:00:47.280 --> 01:00:52.280]   He was instilling in them the hunger and thirsting for Christ.
+[01:00:52.280 --> 01:00:55.280]   And so they were already out there in the wilderness,
+[01:00:55.280 --> 01:00:59.280]   and when Jesus goes and he finds Philip, and then he recruits Philip,
+[01:00:59.280 --> 01:01:01.280]   and then Philip brings Nathanael.
+[01:01:01.280 --> 01:01:05.280]   So we know, just from that alone, that they were already seeking for him,
+[01:01:05.280 --> 01:01:07.280]   when Christ found him.
+[01:01:07.280 --> 01:01:16.280]   A seeker is somebody who wants Christ above everything else.
+[01:01:16.280 --> 01:01:21.280]   See, the challenge that we have in our culture
+[01:01:21.280 --> 01:01:27.280]   is that we kind of presented the chocolate, you know,
+[01:01:28.280 --> 01:01:30.280]   we joke about, like when pastors get together, we joke about that,
+[01:01:30.280 --> 01:01:36.280]   kind of like, "Oh, you want chocolate? We have bingsu, we have boba, come to church."
+[01:01:36.280 --> 01:01:41.280]   And then if we get enough people gathered together, it's like, "Broccoli! Jesus Christ!"
+[01:01:41.280 --> 01:01:43.280]   Right?
+[01:01:43.280 --> 01:01:48.280]   Or, "We want to put chocolate-flavored broccoli,"
+[01:01:48.280 --> 01:01:51.280]   so that more people would come.
+[01:01:51.280 --> 01:01:55.280]   And so our churches are filled with people who are confused.
+[01:01:57.280 --> 01:02:00.280]   Confused as to who Christ really is.
+[01:02:00.280 --> 01:02:04.280]   Because they've come for chocolate,
+[01:02:04.280 --> 01:02:10.280]   and then when Christ is taught, it doesn't match why they came.
+[01:02:10.280 --> 01:02:16.280]   A seeker is somebody who has actively,
+[01:02:16.280 --> 01:02:20.280]   where the Holy Spirit is drawing you to Christ.
+[01:02:20.280 --> 01:02:26.280]   And so your primary criteria of why you would come to any church
+[01:02:26.280 --> 01:02:29.280]   is because you have found Christ there.
+[01:02:29.280 --> 01:02:32.280]   That you are hearing from Christ.
+[01:02:32.280 --> 01:02:37.280]   That you are worshiping Christ. You are loving Christ. You are obeying Christ.
+[01:02:37.280 --> 01:02:40.280]   Not because these people are friendly. Not because they are nice.
+[01:02:40.280 --> 01:02:42.280]   Not because they're organized a certain way.
+[01:02:42.280 --> 01:02:46.280]   Not because it's convenient. Not because there's people just like me there.
+[01:02:46.280 --> 01:02:53.280]   A seeker is somebody who looks for a church because his primary draw to the church is Christ.
+[01:02:53.280 --> 01:02:58.280]   And the word "seeker" is not a passive term.
+[01:02:58.280 --> 01:03:02.280]   It's not somebody who just sits and waits.
+[01:03:02.280 --> 01:03:05.280]   It's like, "Oh, how come God doesn't show up?"
+[01:03:05.280 --> 01:03:09.280]   You know, whenever we want something, we really want something,
+[01:03:09.280 --> 01:03:12.280]   we actively make plans to get it.
+[01:03:12.280 --> 01:03:16.280]   Or else, you'd be homeless.
+[01:03:16.280 --> 01:03:20.280]   If you didn't actively look for a job, if you didn't actively get a career,
+[01:03:21.280 --> 01:03:24.280]   if you didn't actively pursue somebody,
+[01:03:24.280 --> 01:03:26.280]   you can't get anything.
+[01:03:26.280 --> 01:03:30.280]   Even at Costco, if you want to get in the line and they're serving ice cream,
+[01:03:30.280 --> 01:03:33.280]   like, "Oh, they're serving ice cream today."
+[01:03:33.280 --> 01:03:38.280]   And then you make sure your cart gets there and find out what row it is in.
+[01:03:38.280 --> 01:03:40.280]   You know what I mean?
+[01:03:40.280 --> 01:03:43.280]   You make active plans to get in the line and make sure that you get it.
+[01:03:43.280 --> 01:03:46.280]   They have enough of it, so you get there before everybody else gets there.
+[01:03:46.280 --> 01:03:49.280]   Just something as simple as something that they're giving out free.
+[01:03:50.280 --> 01:03:51.280]   It's like, "I want to get there."
+[01:03:51.280 --> 01:03:54.280]   So you are seeking.
+[01:03:54.280 --> 01:03:57.280]   You are seekers of ice cream,
+[01:03:57.280 --> 01:04:00.280]   seekers of chips, whatever it is that they're giving.
+[01:04:00.280 --> 01:04:03.280]   But you're actively making plans to get there.
+[01:04:03.280 --> 01:04:07.280]   If you're buying a house, you don't just sit there and say,
+[01:04:07.280 --> 01:04:09.280]   "I wish somebody would just give me a house."
+[01:04:09.280 --> 01:04:14.280]   You're saving down payment, seeing if the interest rate is going to go up or down.
+[01:04:14.280 --> 01:04:17.280]   Is it the right time to buy? What kind of loans should I get?
+[01:04:17.280 --> 01:04:19.280]   What area is a good investment?
+[01:04:19.280 --> 01:04:23.280]   You're genuinely seeking to make the proper decision for all of this.
+[01:04:23.280 --> 01:04:26.280]   So everything that you do, even if you want to go on a trip,
+[01:04:26.280 --> 01:04:29.280]   when's the best time to go? When is the ticket the cheapest?
+[01:04:29.280 --> 01:04:31.280]   What kind of rewards program? What kind of hotels?
+[01:04:31.280 --> 01:04:34.280]   And you're actively planning and seeking.
+[01:04:34.280 --> 01:04:38.280]   But for whatever the reason, when it comes to our faith,
+[01:04:38.280 --> 01:04:41.280]   we just expect it to happen.
+[01:04:41.280 --> 01:04:46.280]   So we come to church, it's like, "Nobody's reaching out to me."
+[01:04:47.280 --> 01:04:51.280]   I come to church and I just say, "Just by showing up, you think it's just going to happen."
+[01:04:51.280 --> 01:04:58.280]   Why do we become so passive and expect God to show up and move you
+[01:04:58.280 --> 01:05:03.280]   and feed you and fill you and guide you while you're just passively sitting and waiting?
+[01:05:03.280 --> 01:05:06.280]   What does the scripture say?
+[01:05:06.280 --> 01:05:13.280]   "You will seek me and find me when you search me with all your heart."
+[01:05:14.280 --> 01:05:17.280]   In other words, once you've made up your mind,
+[01:05:17.280 --> 01:05:23.280]   and you seek me like you seek everything else in your life that matters to you.
+[01:05:23.280 --> 01:05:28.280]   So if Christ is my pursuit, how am I seeking him?
+[01:05:28.280 --> 01:05:31.280]   How am I seeking him?
+[01:05:31.280 --> 01:05:38.280]   I mean, whether it's Peter or John or Andrew or James or Philip or Nathaniel,
+[01:05:38.280 --> 01:05:41.280]   all these people that we've been studying, every single one of them,
+[01:05:42.280 --> 01:05:46.280]   already left comfort and was seeking.
+[01:05:46.280 --> 01:05:48.280]   They were looking.
+[01:05:48.280 --> 01:05:52.280]   And even though Philip says to Nathaniel, "We have found him,"
+[01:05:52.280 --> 01:05:56.280]   the one that the Old Testament has been talking about, "We have found him."
+[01:05:56.280 --> 01:06:00.280]   When you read it, it says, "No, Jesus found them."
+[01:06:00.280 --> 01:06:06.280]   But when did he find them? In the context of them seeking him, he found them.
+[01:06:06.280 --> 01:06:11.280]   He says, "Once you make up your mind,
+[01:06:12.280 --> 01:06:15.280]   that Christ is your primary pursuit."
+[01:06:15.280 --> 01:06:19.280]   And that's the question, right?
+[01:06:19.280 --> 01:06:24.280]   Is he your primary pursuit or is he a secondary pursuit?
+[01:06:24.280 --> 01:06:29.280]   Is your primary pursuit your own safety, your own health, your own comfort,
+[01:06:29.280 --> 01:06:32.280]   your own pleasure, your own retirement?
+[01:06:32.280 --> 01:06:34.280]   Is that your primary pursuit?
+[01:06:34.280 --> 01:06:38.280]   Again, none of these things are necessarily unbiblical.
+[01:06:38.280 --> 01:06:40.280]   But is it primary?
+[01:06:40.280 --> 01:06:42.280]   Is it primary?
+[01:06:42.280 --> 01:06:47.280]   I mean, every single one of us will be willing to sacrifice
+[01:06:47.280 --> 01:06:51.280]   and not buy certain things because we're seeking to buy a house.
+[01:06:51.280 --> 01:06:55.280]   We'll sacrifice our pleasure because I need that money to put a down payment on a house.
+[01:06:55.280 --> 01:06:59.280]   Or I need to go on a trip, so I'm going to reserve.
+[01:06:59.280 --> 01:07:01.280]   Or I'm going to lose weight, so I'm going to sacrifice.
+[01:07:01.280 --> 01:07:05.280]   So every single one of us, whatever it is that we're pursuing,
+[01:07:05.280 --> 01:07:09.280]   is willing to sacrifice in order to seek that out.
+[01:07:09.280 --> 01:07:14.280]   But when it comes to Christ,
+[01:07:14.280 --> 01:07:19.280]   are we just satisfied with wishful thinking?
+[01:07:19.280 --> 01:07:21.280]   I wish.
+[01:07:21.280 --> 01:07:24.280]   I wish God would answer my prayer.
+[01:07:24.280 --> 01:07:26.280]   I wish I was more lively.
+[01:07:26.280 --> 01:07:28.280]   I wish I knew the Bible more.
+[01:07:28.280 --> 01:07:30.280]   I wish.
+[01:07:30.280 --> 01:07:32.280]   Are we just satisfied with wishful thinking?
+[01:07:32.280 --> 01:07:36.280]   If there's anything that stands out about any of these disciples
+[01:07:37.280 --> 01:07:40.280]   that they were actively seekers of God.
+[01:07:40.280 --> 01:07:47.280]   They sought Christ because Christ was seeking them.
+[01:07:47.280 --> 01:07:51.280]   John 6, 44, "No one can come to me unless the Father who sent me draws him,
+[01:07:51.280 --> 01:07:53.280]   and I will raise him up on the last day."
+[01:07:53.280 --> 01:07:56.280]   John 15, 16, "You did not choose me, but I chose you,
+[01:07:56.280 --> 01:07:58.280]   appointing you that you would go and bear fruit,
+[01:07:58.280 --> 01:08:00.280]   and that your fruit would remain,
+[01:08:00.280 --> 01:08:02.280]   so that whatever you ask of the Father in my name,
+[01:08:02.280 --> 01:08:05.280]   he may give to you."
+[01:08:06.280 --> 01:08:09.280]   He seeks those who are seeking him.
+[01:08:09.280 --> 01:08:12.280]   We seek him because he is seeking us.
+[01:08:12.280 --> 01:08:16.280]   Not simply passively waiting.
+[01:08:16.280 --> 01:08:21.280]   In fact, John 1, 47-48,
+[01:08:21.280 --> 01:08:24.280]   is the only text where we have any information about Nathaniel.
+[01:08:24.280 --> 01:08:28.280]   And this is the way Jesus describes Nathaniel.
+[01:08:28.280 --> 01:08:30.280]   Jesus saw Nathaniel coming to him and said to him,
+[01:08:30.280 --> 01:08:35.280]   "Behold an Israelite, indeed, in whom there is no deceit."
+[01:08:35.280 --> 01:08:37.280]   There are two descriptions of Nathaniel.
+[01:08:37.280 --> 01:08:39.280]   One, he is a true Israelite.
+[01:08:39.280 --> 01:08:42.280]   And second, he has no deceit.
+[01:08:42.280 --> 01:08:44.280]   Now, he doesn't just say an Israelite,
+[01:08:44.280 --> 01:08:47.280]   because obviously they are all Israelites.
+[01:08:47.280 --> 01:08:49.280]   Every single disciple is an Israelite.
+[01:08:49.280 --> 01:08:52.280]   Every single Jew, obviously, is an Israelite.
+[01:08:52.280 --> 01:08:55.280]   Why does he say a true Israelite?
+[01:08:55.280 --> 01:08:57.280]   What does he mean by that?
+[01:08:57.280 --> 01:09:03.280]   Remember when Jacob wrestled and God gave Jacob this name Israel,
+[01:09:04.280 --> 01:09:09.280]   and from that moment on, all of his descendants were named Israel, Israelite.
+[01:09:09.280 --> 01:09:13.280]   What is the meaning of that name, Israel, that God gave him,
+[01:09:13.280 --> 01:09:17.280]   and he named his people this name?
+[01:09:17.280 --> 01:09:19.280]   Do you remember what the name was?
+[01:09:19.280 --> 01:09:21.280]   The meaning of that?
+[01:09:21.280 --> 01:09:24.280]   The one who contends with God, the one who wrestles with God,
+[01:09:24.280 --> 01:09:26.280]   the one who is seeking God.
+[01:09:26.280 --> 01:09:31.280]   Of all the names that he could have chosen for the nation of Israel,
+[01:09:32.280 --> 01:09:36.280]   think about how many possibilities, every time you name your child,
+[01:09:36.280 --> 01:09:39.280]   I know some of you guys are like, "Oh, that sounds pretty."
+[01:09:39.280 --> 01:09:42.280]   Or maybe it's like, "Oh, no one has this name."
+[01:09:42.280 --> 01:09:44.280]   But you put some thought into it.
+[01:09:44.280 --> 01:09:48.280]   Whatever the name is, maybe you went because it was a meaning,
+[01:09:48.280 --> 01:09:50.280]   or maybe it was some family member,
+[01:09:50.280 --> 01:09:52.280]   but you put some thought into it.
+[01:09:52.280 --> 01:09:55.280]   Maybe it may not be biblical, maybe you just like the sound of it,
+[01:09:55.280 --> 01:09:58.280]   or it's unique, but nobody just kind of like,
+[01:09:58.280 --> 01:10:00.280]   "Ah, just put up any name."
+[01:10:01.280 --> 01:10:03.280]   Imagine Christ, God is pursuing this nation,
+[01:10:03.280 --> 01:10:07.280]   he was going to give his only begotten son through the avenue of these people,
+[01:10:07.280 --> 01:10:12.280]   and he chooses a name, the one who wrestles with God.
+[01:10:12.280 --> 01:10:14.280]   There's a reason for that.
+[01:10:14.280 --> 01:10:16.280]   It's not because they were perfect,
+[01:10:16.280 --> 01:10:19.280]   it's not because they were going to do everything right.
+[01:10:19.280 --> 01:10:22.280]   He says, "These people are going to be wrestling,
+[01:10:22.280 --> 01:10:25.280]   and seeking, and looking."
+[01:10:25.280 --> 01:10:27.280]   So when Jesus says of Nathaniel,
+[01:10:27.280 --> 01:10:30.280]   "Here's a true Israelite,"
+[01:10:30.280 --> 01:10:31.280]   the literal meaning is,
+[01:10:31.280 --> 01:10:35.280]   "Here's a true man who wrestles, who contends,
+[01:10:35.280 --> 01:10:38.280]   who desires God."
+[01:10:38.280 --> 01:10:41.280]   The reason why he says that is that,
+[01:10:41.280 --> 01:10:43.280]   "Here's a man without deceit," and he said,
+[01:10:43.280 --> 01:10:45.280]   "Well, how did you know me, Jesus?"
+[01:10:45.280 --> 01:10:47.280]   Remember what Jesus says here?
+[01:10:47.280 --> 01:10:51.280]   "Before I ever met you, I knew you under the fig tree."
+[01:10:51.280 --> 01:10:53.280]   What does that mean?
+[01:10:53.280 --> 01:10:55.280]   Now you have to understand at that time,
+[01:10:55.280 --> 01:10:57.280]   it's not like today, if I want to do quiet time,
+[01:10:57.280 --> 01:10:59.280]   I go to my room and shut the door,
+[01:10:59.280 --> 01:11:01.280]   and then, you know, just in silence,
+[01:11:01.280 --> 01:11:03.280]   I can have quiet time, read the Bible, and pray.
+[01:11:03.280 --> 01:11:06.280]   The majority of people at that time lived in one room.
+[01:11:06.280 --> 01:11:08.280]   It was like a studio.
+[01:11:08.280 --> 01:11:10.280]   And children, parents, grandparents,
+[01:11:10.280 --> 01:11:12.280]   may be in the same room.
+[01:11:12.280 --> 01:11:15.280]   So in order for you to take some time away to pray,
+[01:11:15.280 --> 01:11:18.280]   you have to go outside and find probably a shaded place,
+[01:11:18.280 --> 01:11:22.280]   or somewhere, so you can be alone.
+[01:11:22.280 --> 01:11:25.280]   I think what Jesus is saying to Nathaniel
+[01:11:25.280 --> 01:11:27.280]   is all that time that you were contending,
+[01:11:28.280 --> 01:11:29.280]   and seeking, and praying,
+[01:11:29.280 --> 01:11:31.280]   underneath that fig tree,
+[01:11:31.280 --> 01:11:33.280]   "I saw you.
+[01:11:33.280 --> 01:11:35.280]   I heard you.
+[01:11:35.280 --> 01:11:37.280]   I knew you."
+[01:11:37.280 --> 01:11:41.280]   So Jesus describes Nathaniel
+[01:11:41.280 --> 01:11:43.280]   as one who contends and wrestles,
+[01:11:43.280 --> 01:11:46.280]   and seeks after God.
+[01:11:46.280 --> 01:11:50.280]   And that fig tree was where he did a lot of that,
+[01:11:50.280 --> 01:11:52.280]   underneath that fig tree.
+[01:11:52.280 --> 01:11:56.280]   The primary question that we need to ask ourselves,
+[01:11:57.280 --> 01:11:59.280]   for whatever the reason that we think,
+[01:11:59.280 --> 01:12:01.280]   "Seekers are the people who come in that don't know Christ,
+[01:12:01.280 --> 01:12:03.280]   but as soon as we become Christians,
+[01:12:03.280 --> 01:12:05.280]   we're no longer seekers."
+[01:12:05.280 --> 01:12:07.280]   We're perseverers.
+[01:12:07.280 --> 01:12:09.280]   We're preachers.
+[01:12:09.280 --> 01:12:11.280]   We're leaders.
+[01:12:11.280 --> 01:12:14.280]   But the primary call of any Christian
+[01:12:14.280 --> 01:12:16.280]   is to be a seeker.
+[01:12:16.280 --> 01:12:19.280]   To seek Christ
+[01:12:19.280 --> 01:12:23.280]   with all your heart, soul, mind, and strength.
+[01:12:23.280 --> 01:12:26.280]   You know, that passage that I read earlier,
+[01:12:26.280 --> 01:12:27.280]   "You will seek me and find me
+[01:12:27.280 --> 01:12:29.280]   when you search me with all your heart."
+[01:12:29.280 --> 01:12:31.280]   The context of that text
+[01:12:31.280 --> 01:12:34.280]   is God speaking to the nation of Israel,
+[01:12:34.280 --> 01:12:36.280]   because they are going to be judged.
+[01:12:36.280 --> 01:12:38.280]   They're going to be taken into captivity.
+[01:12:38.280 --> 01:12:41.280]   But he explains why he's doing that.
+[01:12:41.280 --> 01:12:43.280]   In verse 11, it says,
+[01:12:43.280 --> 01:12:45.280]   "For I know the plan that I have for you," declares the Lord,
+[01:12:45.280 --> 01:12:47.280]   "plans for welfare, not for calamity,
+[01:12:47.280 --> 01:12:49.280]   to give you a future and a hope."
+[01:12:49.280 --> 01:12:51.280]   The whole reason why you're going into captivity
+[01:12:51.280 --> 01:12:54.280]   is because you stopped contending.
+[01:12:55.280 --> 01:12:57.280]   Because you haven't been seeking.
+[01:12:57.280 --> 01:13:00.280]   He said, "The calamity is coming,
+[01:13:00.280 --> 01:13:02.280]   and the reason behind that
+[01:13:02.280 --> 01:13:04.280]   is so that you may pick that back up again.
+[01:13:04.280 --> 01:13:06.280]   Then you will call upon me
+[01:13:06.280 --> 01:13:08.280]   and come and pray to me,
+[01:13:08.280 --> 01:13:10.280]   and I will listen to you."
+[01:13:10.280 --> 01:13:12.280]   He said, "The reason why I'm disciplining
+[01:13:12.280 --> 01:13:14.280]   the nation of Israel
+[01:13:14.280 --> 01:13:16.280]   is so that you may call upon me again.
+[01:13:16.280 --> 01:13:18.280]   That you may seek me again
+[01:13:18.280 --> 01:13:21.280]   with all your heart."
+[01:13:21.280 --> 01:13:23.280]   Not just religiously attend,
+[01:13:24.280 --> 01:13:25.280]   not just give meaningless sacrifices,
+[01:13:25.280 --> 01:13:28.280]   but that he may stir up in you again
+[01:13:28.280 --> 01:13:31.280]   a hungering and thirsting for Christ
+[01:13:31.280 --> 01:13:33.280]   that cannot be quenched
+[01:13:33.280 --> 01:13:36.280]   with anything else in this world.
+[01:13:36.280 --> 01:13:39.280]   We look at Philip and Nathaniel,
+[01:13:39.280 --> 01:13:41.280]   how they're so weak faith.
+[01:13:41.280 --> 01:13:43.280]   How can they have questioned
+[01:13:43.280 --> 01:13:45.280]   Jesus' ability to feed the 5,000
+[01:13:45.280 --> 01:13:47.280]   when they've seen so many things
+[01:13:47.280 --> 01:13:50.280]   of Christ already?
+[01:13:50.280 --> 01:13:52.280]   We don't need to look at them.
+[01:13:53.280 --> 01:13:55.280]   Look at the things that we struggle with.
+[01:13:55.280 --> 01:14:00.280]   How many of you believe in a sovereign God?
+[01:14:00.280 --> 01:14:02.280]   Don't raise your hand.
+[01:14:02.280 --> 01:14:05.280]   How many of you believe that
+[01:14:05.280 --> 01:14:07.280]   that sovereign God who created the universe
+[01:14:07.280 --> 01:14:09.280]   loves you?
+[01:14:09.280 --> 01:14:11.280]   Again, don't raise your hand.
+[01:14:11.280 --> 01:14:13.280]   How many of you who believe
+[01:14:13.280 --> 01:14:15.280]   in a sovereign God who is all-powerful,
+[01:14:15.280 --> 01:14:17.280]   who loves you enough
+[01:14:17.280 --> 01:14:19.280]   to send his only begotten Son
+[01:14:19.280 --> 01:14:21.280]   to die for you?
+[01:14:22.280 --> 01:14:23.280]   If you are a genuine believer,
+[01:14:23.280 --> 01:14:25.280]   you believe all of that.
+[01:14:25.280 --> 01:14:27.280]   That you believe that
+[01:14:27.280 --> 01:14:29.280]   heaven and hell is coming
+[01:14:29.280 --> 01:14:31.280]   at the end of this journey.
+[01:14:31.280 --> 01:14:34.280]   And you believe that God
+[01:14:34.280 --> 01:14:36.280]   who is sovereign, who loves you,
+[01:14:36.280 --> 01:14:38.280]   has perfect plan,
+[01:14:38.280 --> 01:14:40.280]   and has orchestrated all things
+[01:14:40.280 --> 01:14:42.280]   for his glory,
+[01:14:42.280 --> 01:14:44.280]   and ultimately for your benefit.
+[01:14:44.280 --> 01:14:46.280]   And yet,
+[01:14:46.280 --> 01:14:48.280]   believing, confessing,
+[01:14:48.280 --> 01:14:50.280]   praising, singing, all of this,
+[01:14:51.280 --> 01:14:52.280]   as soon as the service is over,
+[01:14:52.280 --> 01:15:00.280]   we're bitter, angry, anxious, fearful,
+[01:15:00.280 --> 01:15:04.280]   inconsistent with the things
+[01:15:04.280 --> 01:15:06.280]   that we profess to believe.
+[01:15:06.280 --> 01:15:08.280]   Completely unmatching
+[01:15:08.280 --> 01:15:12.280]   what you and I already believe.
+[01:15:12.280 --> 01:15:18.280]   God sometimes places us
+[01:15:18.280 --> 01:15:20.280]   in those situations
+[01:15:20.280 --> 01:15:21.280]   because the purpose
+[01:15:21.280 --> 01:15:23.280]   of your anxiousness
+[01:15:23.280 --> 01:15:25.280]   is so that you may see Christ.
+[01:15:25.280 --> 01:15:27.280]   The purpose of why God
+[01:15:27.280 --> 01:15:29.280]   placed you in a place of fear
+[01:15:29.280 --> 01:15:31.280]   is so that you may find
+[01:15:31.280 --> 01:15:33.280]   peace in Christ.
+[01:15:33.280 --> 01:15:35.280]   The reason why calamity
+[01:15:35.280 --> 01:15:37.280]   comes upon Christians at times
+[01:15:37.280 --> 01:15:39.280]   is so that you may
+[01:15:39.280 --> 01:15:41.280]   call upon Christ again.
+[01:15:41.280 --> 01:15:43.280]   All that he does,
+[01:15:43.280 --> 01:15:47.280]   good and perceivably bad,
+[01:15:48.280 --> 01:15:51.280]   is so that we may call upon Christ.
+[01:15:51.280 --> 01:15:53.280]   That we may be true Israel.
+[01:15:53.280 --> 01:15:57.280]   That we may be true contenders
+[01:15:57.280 --> 01:16:00.280]   who desire Christ
+[01:16:00.280 --> 01:16:02.280]   more than anything else.
+[01:16:02.280 --> 01:16:05.280]   They weren't special men.
+[01:16:05.280 --> 01:16:07.280]   They weren't gifted men.
+[01:16:07.280 --> 01:16:09.280]   They were flawed men.
+[01:16:09.280 --> 01:16:11.280]   But they were men
+[01:16:11.280 --> 01:16:13.280]   who were seeking Christ
+[01:16:13.280 --> 01:16:15.280]   above everything else.
+[01:16:15.280 --> 01:16:17.280]   If there's anything in our life
+[01:16:17.280 --> 01:16:18.280]   that we need to get right is this.
+[01:16:18.280 --> 01:16:20.280]   And even as I was preparing
+[01:16:20.280 --> 01:16:22.280]   this sermon,
+[01:16:22.280 --> 01:16:24.280]   I had to wrestle with this
+[01:16:24.280 --> 01:16:26.280]   the whole time.
+[01:16:26.280 --> 01:16:28.280]   Yes, I'm preparing sermons
+[01:16:28.280 --> 01:16:30.280]   and I'm counseling,
+[01:16:30.280 --> 01:16:32.280]   I'm answering questions
+[01:16:32.280 --> 01:16:34.280]   and expositing the text
+[01:16:34.280 --> 01:16:36.280]   and making sure that the gospel
+[01:16:36.280 --> 01:16:38.280]   is spread in the midst of all of this.
+[01:16:38.280 --> 01:16:40.280]   Am I really seeking Christ?
+[01:16:40.280 --> 01:16:43.280]   Is he my primary pursuit?
+[01:16:43.280 --> 01:16:46.280]   And I had to recalibrate
+[01:16:46.280 --> 01:16:47.280]   my own heart.
+[01:16:47.280 --> 01:16:52.280]   Because if I lose all of that
+[01:16:52.280 --> 01:16:55.280]   and still have Christ,
+[01:16:55.280 --> 01:16:58.280]   do I believe that I have everything?
+[01:16:58.280 --> 01:17:03.280]   Do I believe if I lose everything
+[01:17:03.280 --> 01:17:06.280]   that I have accumulated,
+[01:17:06.280 --> 01:17:08.280]   including my family and children,
+[01:17:08.280 --> 01:17:11.280]   and yet I still have Christ,
+[01:17:11.280 --> 01:17:13.280]   do I believe that I have everything?
+[01:17:13.280 --> 01:17:14.280]   Or,
+[01:17:14.280 --> 01:17:16.280]   you could have all of this,
+[01:17:16.280 --> 01:17:18.280]   your wildest dreams come true,
+[01:17:18.280 --> 01:17:20.280]   everything that you're pursuing
+[01:17:20.280 --> 01:17:22.280]   comes to fruition.
+[01:17:22.280 --> 01:17:24.280]   Maybe you're going to win
+[01:17:24.280 --> 01:17:26.280]   the 1.5 billion dollar lottery.
+[01:17:26.280 --> 01:17:29.280]   But you don't have Christ.
+[01:17:29.280 --> 01:17:32.280]   Then I have nothing.
+[01:17:32.280 --> 01:17:35.280]   Do you believe that?
+[01:17:35.280 --> 01:17:37.280]   And if you believe that,
+[01:17:37.280 --> 01:17:40.280]   are you seeking that?
+[01:17:41.280 --> 01:17:43.280]   Are you pursuing that?
+[01:17:43.280 --> 01:17:46.280]   Are you wrestling for that?
+[01:17:46.280 --> 01:17:48.280]   Are you planning for Christ
+[01:17:48.280 --> 01:17:51.280]   more than planning for anything else?
+[01:17:51.280 --> 01:17:56.280]   In John 1, 49 to 51,
+[01:17:56.280 --> 01:17:58.280]   as Nathaniel encounters Christ,
+[01:17:58.280 --> 01:18:00.280]   Nathaniel answered him and said,
+[01:18:00.280 --> 01:18:02.280]   "Rabbi, you are the son of God.
+[01:18:02.280 --> 01:18:04.280]   "You are the king of Israel."
+[01:18:04.280 --> 01:18:06.280]   And Nathaniel is the first disciple
+[01:18:06.280 --> 01:18:08.280]   who professes that.
+[01:18:08.280 --> 01:18:10.280]   You are the son of God,
+[01:18:10.280 --> 01:18:11.280]   the king of Israel.
+[01:18:11.280 --> 01:18:13.280]   The one who couldn't believe,
+[01:18:13.280 --> 01:18:15.280]   like how can anybody come from Nazareth?
+[01:18:15.280 --> 01:18:18.280]   You know who else
+[01:18:18.280 --> 01:18:20.280]   says something
+[01:18:20.280 --> 01:18:22.280]   that was first,
+[01:18:22.280 --> 01:18:24.280]   even though he's known,
+[01:18:24.280 --> 01:18:26.280]   and we'll talk about him next week,
+[01:18:26.280 --> 01:18:28.280]   Thomas, the doubter.
+[01:18:28.280 --> 01:18:30.280]   In Matthew 5, 8, it said,
+[01:18:30.280 --> 01:18:32.280]   "Blessed are those who are pure in heart,
+[01:18:32.280 --> 01:18:34.280]   "for they shall see God."
+[01:18:34.280 --> 01:18:36.280]   Jesus says,
+[01:18:36.280 --> 01:18:38.280]   "Here's a man with no deceit."
+[01:18:39.280 --> 01:18:40.280]   It's not because he was sinless,
+[01:18:40.280 --> 01:18:43.280]   because he was pure in his pursuit for Christ.
+[01:18:43.280 --> 01:18:45.280]   And because of that,
+[01:18:45.280 --> 01:18:47.280]   God opened his eyes
+[01:18:47.280 --> 01:18:49.280]   to be able to see Christ.
+[01:18:49.280 --> 01:18:57.280]   I mean this from the bottom of my heart.
+[01:18:57.280 --> 01:19:00.280]   I am a flawed man.
+[01:19:00.280 --> 01:19:04.280]   I struggle with temptation.
+[01:19:04.280 --> 01:19:06.280]   I struggle with fear,
+[01:19:06.280 --> 01:19:08.280]   with anxiety,
+[01:19:08.280 --> 01:19:09.280]   concerns,
+[01:19:09.280 --> 01:19:11.280]   desire to give up.
+[01:19:11.280 --> 01:19:13.280]   I struggle with all of that,
+[01:19:13.280 --> 01:19:15.280]   and I have to keep,
+[01:19:15.280 --> 01:19:17.280]   the benefit of preparing for sermons
+[01:19:17.280 --> 01:19:19.280]   is I have to let this impact me first.
+[01:19:19.280 --> 01:19:21.280]   So I'm constantly being judged
+[01:19:21.280 --> 01:19:23.280]   by the word of God
+[01:19:23.280 --> 01:19:25.280]   that I'm preparing to give you.
+[01:19:25.280 --> 01:19:27.280]   But as I confess this,
+[01:19:27.280 --> 01:19:29.280]   I also confess
+[01:19:29.280 --> 01:19:33.280]   the greatest thing
+[01:19:33.280 --> 01:19:35.280]   that I have ever experienced
+[01:19:35.280 --> 01:19:37.280]   in my life
+[01:19:37.280 --> 01:19:38.280]   is the love of Christ.
+[01:19:38.280 --> 01:19:42.280]   To know that he knows me.
+[01:19:42.280 --> 01:19:45.280]   To know that he cares for me.
+[01:19:45.280 --> 01:19:47.280]   To know that my future is sound
+[01:19:47.280 --> 01:19:49.280]   and in his hands.
+[01:19:49.280 --> 01:19:51.280]   That even at times as I wrestle,
+[01:19:51.280 --> 01:19:53.280]   I constantly recalibrate
+[01:19:53.280 --> 01:19:55.280]   to the God that I met.
+[01:19:55.280 --> 01:20:00.280]   So when I'm distracted,
+[01:20:00.280 --> 01:20:02.280]   when I'm hurt,
+[01:20:02.280 --> 01:20:04.280]   when I'm discouraged,
+[01:20:05.280 --> 01:20:06.280]   it reminds me,
+[01:20:06.280 --> 01:20:08.280]   return to Christ.
+[01:20:08.280 --> 01:20:11.280]   Go back to Christ.
+[01:20:11.280 --> 01:20:14.280]   Remember when you met him.
+[01:20:14.280 --> 01:20:16.280]   Remember when he was everything to you.
+[01:20:16.280 --> 01:20:18.280]   Remember when you wanted his approval
+[01:20:18.280 --> 01:20:20.280]   more than anybody else's.
+[01:20:20.280 --> 01:20:22.280]   Remember when he was your refuge.
+[01:20:22.280 --> 01:20:25.280]   Remember all those times
+[01:20:25.280 --> 01:20:27.280]   you shed tears
+[01:20:27.280 --> 01:20:29.280]   and only he knew
+[01:20:29.280 --> 01:20:31.280]   what you were going through.
+[01:20:31.280 --> 01:20:33.280]   Remember when you were in the church
+[01:20:34.280 --> 01:20:35.280]   and you were going through.
+[01:20:35.280 --> 01:20:38.280]   I'm a flawed man.
+[01:20:38.280 --> 01:20:40.280]   I struggle with everything
+[01:20:40.280 --> 01:20:42.280]   that you struggle with.
+[01:20:42.280 --> 01:20:45.280]   But one thing I am absolutely certain,
+[01:20:45.280 --> 01:20:48.280]   Christ is the answer.
+[01:20:48.280 --> 01:20:51.280]   Wherever you are,
+[01:20:51.280 --> 01:20:53.280]   whatever you're struggling with,
+[01:20:53.280 --> 01:20:55.280]   whatever you're wrestling with,
+[01:20:55.280 --> 01:20:57.280]   Christ is the answer.
+[01:20:57.280 --> 01:21:00.280]   Seek Christ above all.
+[01:21:00.280 --> 01:21:03.280]   If you have Christ
+[01:21:03.280 --> 01:21:04.280]   and you have nothing,
+[01:21:04.280 --> 01:21:05.280]   you have everything.
+[01:21:05.280 --> 01:21:07.280]   If you have everything
+[01:21:07.280 --> 01:21:09.280]   and you don't have Christ,
+[01:21:09.280 --> 01:21:10.280]   you have nothing.
+[01:21:10.280 --> 01:21:11.280]   I pray that that would be
+[01:21:11.280 --> 01:21:12.280]   our honest confession.
+[01:21:12.280 --> 01:21:14.280]   Let's pray.
+[01:21:14.280 --> 01:21:20.280]   As our praise team comes up,
+[01:21:20.280 --> 01:21:21.280]   if I can ask you to just take
+[01:21:21.280 --> 01:21:23.280]   a few minutes to pray.
+[01:21:23.280 --> 01:21:25.280]   Prepare your hearts for the communion.
+[01:21:25.280 --> 01:21:30.280]   And as I ask the leaders to come
+[01:21:30.280 --> 01:21:31.280]   and open up the communion table,
+[01:21:32.280 --> 01:21:33.280]   so take some time to pray.
+[01:21:33.280 --> 01:21:35.280]   And as I mentioned,
+[01:21:35.280 --> 01:21:37.280]   that when you come up,
+[01:21:37.280 --> 01:21:40.280]   you're not worthy to take this table
+[01:21:40.280 --> 01:21:42.280]   because you didn't sin
+[01:21:42.280 --> 01:21:43.280]   or you lived a perfect life.
+[01:21:43.280 --> 01:21:45.280]   We come here because
+[01:21:45.280 --> 01:21:47.280]   we are weak and feeble people.
+[01:21:47.280 --> 01:21:50.280]   The table is a reminder to us
+[01:21:50.280 --> 01:21:52.280]   that only through the blood of Christ
+[01:21:52.280 --> 01:21:53.280]   that we can have any kind of
+[01:21:53.280 --> 01:21:54.280]   a relationship with God.
+[01:21:54.280 --> 01:21:56.280]   And we're not worthy
+[01:21:56.280 --> 01:21:58.280]   to take this table
+[01:21:58.280 --> 01:21:59.280]   because we didn't sin
+[01:22:00.280 --> 01:22:01.280]   and have any kind of communion
+[01:22:01.280 --> 01:22:02.280]   with our God.
+[01:22:02.280 --> 01:22:05.280]   It is a place of celebration.
+[01:22:05.280 --> 01:22:07.280]   It is a place of mourning.
+[01:22:07.280 --> 01:22:09.280]   It is a place of rejoicing
+[01:22:09.280 --> 01:22:10.280]   and thanksgiving.
+[01:22:10.280 --> 01:22:12.280]   It is a place of repentance.
+[01:22:12.280 --> 01:22:15.280]   So take some time
+[01:22:15.280 --> 01:22:16.280]   as we open up the communion table
+[01:22:16.280 --> 01:22:17.280]   and we ask that when you are ready,
+[01:22:17.280 --> 01:22:20.280]   that you would come up one by one
+[01:22:20.280 --> 01:22:21.280]   and please take the elements
+[01:22:21.280 --> 01:22:22.280]   and go to the side
+[01:22:22.280 --> 01:22:23.280]   and have a seat.
+[01:22:23.280 --> 01:22:26.280]   This is for people
+[01:22:26.280 --> 01:22:27.280]   who are baptized believers.
+[01:22:27.280 --> 01:22:29.280]   So if you have not been baptized,
+[01:22:29.280 --> 01:22:30.280]   we ask that you would wait
+[01:22:30.280 --> 01:22:31.280]   until that happens.
+[01:22:31.280 --> 01:22:33.280]   And if you're here just as a seeker,
+[01:22:33.280 --> 01:22:36.280]   you genuinely want to know
+[01:22:36.280 --> 01:22:37.280]   who is this God?
+[01:22:37.280 --> 01:22:40.280]   Again, we ask that you remain in your seat
+[01:22:40.280 --> 01:22:41.280]   and come and talk to us.
+[01:22:41.280 --> 01:22:43.280]   We want to communion with you.
+[01:22:43.280 --> 01:22:44.280]   We want to answer your questions.
+[01:22:44.280 --> 01:22:46.280]   We want to support and help you.
+[01:22:46.280 --> 01:22:48.280]   But again, the communion table
+[01:22:48.280 --> 01:22:49.280]   is for baptized believers.
+[01:22:49.280 --> 01:22:51.280]   So we ask that you would stay seated.
+[01:22:51.280 --> 01:22:54.280]   Let me open for us
+[01:22:54.280 --> 01:22:55.280]   in 1 Corinthians 11, 23,
+[01:22:55.280 --> 01:22:56.280]   "For I received from the Lord
+[01:22:56.280 --> 01:22:57.280]   that which I also delivered to you,
+[01:22:58.280 --> 01:22:59.280]   that the Lord Jesus in the night
+[01:22:59.280 --> 01:23:01.280]   in which he was betrayed took bread.
+[01:23:01.280 --> 01:23:03.280]   And when he had given thanks,
+[01:23:03.280 --> 01:23:05.280]   he broke it and said,
+[01:23:05.280 --> 01:23:06.280]   'This is my body which is for you.
+[01:23:06.280 --> 01:23:08.280]   Do this in remembrance of me.'
+[01:23:08.280 --> 01:23:10.280]   In the same way,
+[01:23:10.280 --> 01:23:11.280]   he took the cup also after supper,
+[01:23:11.280 --> 01:23:13.280]   saying, 'This cup is the new covenant
+[01:23:13.280 --> 01:23:15.280]   in my blood.
+[01:23:15.280 --> 01:23:16.280]   Do this as often as you drink it
+[01:23:16.280 --> 01:23:18.280]   in remembrance of me.
+[01:23:18.280 --> 01:23:20.280]   For as often as you eat this bread
+[01:23:20.280 --> 01:23:22.280]   and drink the cup,
+[01:23:22.280 --> 01:23:23.280]   you will proclaim the Lord's death
+[01:23:23.280 --> 01:23:24.280]   until he comes.'"
+[01:23:24.280 --> 01:23:26.280]   If you have gluten intolerance,
+[01:23:27.280 --> 01:23:28.280]   we have on the right side of me.
+[01:23:28.280 --> 01:23:30.280]   So where Pastor Nate is at.
+[01:23:30.280 --> 01:23:32.280]   So we ask that you would go
+[01:23:32.280 --> 01:23:33.280]   to that table
+[01:23:33.280 --> 01:23:34.280]   because there's elements
+[01:23:34.280 --> 01:23:36.280]   that you can take on there.
+[01:23:36.280 --> 01:23:38.280]   And for the rest of you,
+[01:23:38.280 --> 01:23:39.280]   whenever you are ready to come.
+[01:23:39.280 --> 01:23:41.280]   Let me pray for us
+[01:23:41.280 --> 01:23:42.280]   and then we'll open up the table
+[01:23:42.280 --> 01:23:44.280]   and then just come as you are ready.
+[01:23:44.280 --> 01:23:47.280]   Gracious Father,
+[01:23:47.280 --> 01:23:48.280]   we thank you so much
+[01:23:48.280 --> 01:23:49.280]   for what this day
+[01:23:49.280 --> 01:23:52.280]   and what this activity represents.
+[01:23:52.280 --> 01:23:54.280]   I pray, Father God,
+[01:23:54.280 --> 01:23:55.280]   that you would instill in us
+[01:23:55.280 --> 01:23:57.280]   again, recalibrate all our emotions,
+[01:23:57.280 --> 01:23:59.280]   our pursuits, our desires
+[01:23:59.280 --> 01:24:02.280]   upon what Christ has done on the cross.
+[01:24:02.280 --> 01:24:05.280]   Help us, Lord God,
+[01:24:05.280 --> 01:24:07.280]   to apply your body
+[01:24:07.280 --> 01:24:09.280]   that was broken for us
+[01:24:09.280 --> 01:24:11.280]   and the blood that was shed
+[01:24:11.280 --> 01:24:13.280]   on our behalf
+[01:24:13.280 --> 01:24:15.280]   that our life may truly be
+[01:24:15.280 --> 01:24:17.280]   a reflection of your grace.
+[01:24:17.280 --> 01:24:19.280]   So I pray, Lord,
+[01:24:19.280 --> 01:24:21.280]   as we open up this table
+[01:24:21.280 --> 01:24:23.280]   that you would prepare your church
+[01:24:24.280 --> 01:24:25.280]   sanctify us.
+[01:24:25.280 --> 01:24:27.280]   Let this be a time of celebration,
+[01:24:27.280 --> 01:24:29.280]   thanksgiving,
+[01:24:29.280 --> 01:24:31.280]   and genuine worship
+[01:24:31.280 --> 01:24:33.280]   for the sake of your name.
+[01:24:33.280 --> 01:24:35.280]   Amen.
+[01:24:35.280 --> 01:24:37.280]   So whenever you are ready,
+[01:24:37.280 --> 01:24:39.280]   we ask that you would come to the side
+[01:24:39.280 --> 01:24:41.280]   and then go down appropriately.
+[01:24:42.280 --> 01:24:43.280]   (soft piano music)
+[01:24:44.280 --> 01:24:45.280]   (soft piano music)
+[01:24:46.280 --> 01:24:47.280]   (soft piano music)
+[01:24:48.280 --> 01:24:49.280]   (soft piano music)
+[01:24:49.280 --> 01:24:51.280]   (soft piano music)
+[01:24:51.280 --> 01:24:53.280]   (soft piano music)
+[01:24:53.280 --> 01:24:55.280]   (soft piano music)
+[01:24:55.280 --> 01:24:57.280]   (soft piano music)
+[01:24:57.280 --> 01:24:59.280]   (soft piano music)
+[01:24:59.280 --> 01:25:01.280]   (soft piano music)
+[01:25:01.280 --> 01:25:03.280]   (soft piano music)
+[01:25:03.280 --> 01:25:05.280]   (soft piano music)
+[01:25:05.280 --> 01:25:07.280]   (soft piano music)
+[01:25:07.280 --> 01:25:09.280]   (soft piano music)
+[01:25:09.280 --> 01:25:11.280]   (soft piano music)
+[01:25:11.280 --> 01:25:13.280]   (soft piano music)
+[01:25:13.280 --> 01:25:15.280]   (soft piano music)
+[01:25:16.280 --> 01:25:24.280]   (Piano music)
+[01:25:24.280 --> 01:25:34.280]   (Piano music)
+[01:25:34.280 --> 01:25:44.280]   (Piano music)
+[01:25:44.280 --> 01:25:54.280]   (Piano music)
+[01:25:54.280 --> 01:26:04.280]   (Piano music)
+[01:26:04.280 --> 01:26:14.280]   (Piano music)
+[01:26:14.280 --> 01:26:24.280]   (Piano music)
+[01:26:24.280 --> 01:26:34.280]   (Piano music)
+[01:26:34.280 --> 01:26:44.280]   (Piano music)
+[01:26:44.280 --> 01:26:54.280]   (Piano music)
+[01:26:54.280 --> 01:27:04.280]   (Piano music)
+[01:27:04.280 --> 01:27:14.280]   (Piano music)
+[01:27:14.280 --> 01:27:24.280]   (Piano music)
+[01:27:24.280 --> 01:27:34.280]   (Piano music)
+[01:27:34.280 --> 01:27:44.280]   (Piano music)
+[01:27:44.280 --> 01:27:54.280]   (Piano music)
+[01:27:54.280 --> 01:28:04.280]   (Piano music)
+[01:28:04.280 --> 01:28:14.280]   (Piano music)
+[01:28:14.280 --> 01:28:24.280]   (Piano music)
+[01:28:24.280 --> 01:28:34.280]   (Piano music)
+[01:28:34.280 --> 01:28:44.280]   (Piano music)
+[01:28:44.280 --> 01:28:54.280]   (Piano music)
+[01:28:54.280 --> 01:29:04.280]   (Piano music)
+[01:29:04.280 --> 01:29:14.280]   (Piano music)
+[01:29:14.280 --> 01:29:24.280]   (Piano music)
+[01:29:24.280 --> 01:29:34.280]   (Piano music)
+[01:29:34.280 --> 01:29:44.280]   (Piano music)
+[01:29:44.280 --> 01:29:54.280]   (Piano music)
+[01:29:54.280 --> 01:30:04.280]   (Piano music)
+[01:30:04.280 --> 01:30:14.280]   (Piano music)
+[01:30:14.280 --> 01:30:24.280]   (Piano music)
+[01:30:24.280 --> 01:30:34.280]   (Piano music)
+[01:30:34.280 --> 01:30:44.280]   (Piano music)
+[01:30:44.280 --> 01:30:54.280]   (Piano music)
+[01:30:54.280 --> 01:31:04.280]   (Piano music)
+[01:31:04.280 --> 01:31:14.280]   (Piano music)
+[01:31:14.280 --> 01:31:24.280]   (Piano music)
+[01:31:24.280 --> 01:31:34.280]   (Piano music)
+[01:31:34.280 --> 01:31:44.280]   (Piano music)
+[01:31:44.280 --> 01:31:54.280]   (Piano music)
+[01:31:54.280 --> 01:32:04.280]   (Piano music)
+[01:32:04.280 --> 01:32:14.280]   (Piano music)
+[01:32:14.280 --> 01:32:24.280]   (Piano music)
+[01:32:24.280 --> 01:32:34.280]   (Piano music)
+[01:32:34.280 --> 01:32:44.280]   (Piano music)
+[01:32:44.280 --> 01:32:54.280]   (Piano music)
+[01:32:54.280 --> 01:33:04.280]   (Piano music)
+[01:33:04.280 --> 01:33:14.280]   (Piano music)
+[01:33:14.280 --> 01:33:24.280]   (Piano music)
+[01:33:24.280 --> 01:33:34.280]   (Piano music)
+[01:33:34.280 --> 01:33:44.280]   (Piano music)
+[01:33:44.280 --> 01:33:54.280]   (Piano music)
+[01:33:54.280 --> 01:34:04.280]   (Piano music)
+[01:34:04.280 --> 01:34:14.280]   (Piano music)
+[01:34:14.280 --> 01:34:24.280]   (Piano music)
+[01:34:24.280 --> 01:34:34.280]   (Piano music)
+[01:34:34.280 --> 01:34:44.280]   (Piano music)
+[01:34:44.280 --> 01:34:54.280]   (Piano music)
+[01:34:54.280 --> 01:35:04.280]   (Piano music)
+[01:35:04.280 --> 01:35:14.280]   (Piano music)
+[01:35:14.280 --> 01:35:24.280]   (Piano music)
+[01:35:24.280 --> 01:35:34.280]   (Piano music)
+[01:35:34.280 --> 01:35:44.280]   (Piano music)
+[01:35:44.280 --> 01:35:54.280]   (Piano music)
+[01:35:54.280 --> 01:36:04.280]   (Piano music)
+[01:36:04.280 --> 01:36:14.280]   (Piano music)
+[01:36:14.280 --> 01:36:24.280]   (Piano music)
+[01:36:24.280 --> 01:36:34.280]   (Piano music)
+[01:36:34.280 --> 01:36:44.280]   (Piano music)
+[01:36:44.280 --> 01:36:54.280]   (Piano music)
+[01:36:54.280 --> 01:37:04.280]   (Piano music)
+[01:37:04.280 --> 01:37:14.280]   (Piano music)
+[01:37:14.280 --> 01:37:24.280]   (Piano music)
+[01:37:24.280 --> 01:37:34.280]   (Piano music)
+[01:37:34.280 --> 01:37:44.280]   (Piano music)
+[01:37:44.280 --> 01:37:54.280]   (Piano music)
+[01:37:54.280 --> 01:38:04.280]   (Piano music)
+[01:38:04.280 --> 01:38:14.280]   (Piano music)
+[01:38:14.280 --> 01:38:24.280]   (Piano music)
+[01:38:24.280 --> 01:38:34.280]   (Piano music)
+[01:38:34.280 --> 01:38:44.280]   (Piano music)
+[01:38:44.280 --> 01:38:54.280]   (Piano music)
+[01:38:54.280 --> 01:39:04.280]   (Piano music)
+[01:39:04.280 --> 01:39:14.280]   (Piano music)
+[01:39:14.280 --> 01:39:24.280]   (Piano music)
+[01:39:24.280 --> 01:39:34.280]   (Piano music)
+[01:39:34.280 --> 01:39:44.280]   (Piano music)
+[01:39:44.280 --> 01:39:54.280]   (Piano music)
+[01:39:54.280 --> 01:40:04.280]   (Piano music)
+[01:40:04.280 --> 01:40:14.280]   (Piano music)
+[01:40:14.280 --> 01:40:24.280]   (Piano music)
+[01:40:24.280 --> 01:40:34.280]   (Piano music)
+[01:40:34.280 --> 01:40:44.280]   (Piano music)
+[01:40:44.280 --> 01:40:54.280]   (Piano music)
+[01:40:54.280 --> 01:40:56.280]   (Piano music)
+

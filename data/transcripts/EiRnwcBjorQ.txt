@@ -1,0 +1,1271 @@
+
+[00:00:00.000 --> 00:00:03.500]   [SIDE CONVERSATION]
+[00:00:03.500 --> 00:00:07.000]   [SIDE CONVERSATION]
+[00:00:07.000 --> 00:00:10.500]   [SIDE CONVERSATION]
+[00:00:10.500 --> 00:00:14.000]   [SIDE CONVERSATION]
+[00:00:14.000 --> 00:00:17.500]   [SIDE CONVERSATION]
+[00:00:17.500 --> 00:00:21.000]   [SIDE CONVERSATION]
+[00:00:21.000 --> 00:00:24.500]   [SIDE CONVERSATION]
+[00:00:24.500 --> 00:00:28.000]   [SIDE CONVERSATION]
+[00:00:28.000 --> 00:00:31.500]   [SIDE CONVERSATION]
+[00:00:31.500 --> 00:00:35.000]   [SIDE CONVERSATION]
+[00:00:35.000 --> 00:00:38.500]   [SIDE CONVERSATION]
+[00:00:38.500 --> 00:00:42.000]   [SIDE CONVERSATION]
+[00:00:42.000 --> 00:00:45.500]   [SIDE CONVERSATION]
+[00:00:46.000 --> 00:00:49.500]   [SIDE CONVERSATION]
+[00:00:49.500 --> 00:00:53.000]   [SIDE CONVERSATION]
+[00:00:53.000 --> 00:00:56.500]   [SIDE CONVERSATION]
+[00:00:56.500 --> 00:01:00.000]   [SIDE CONVERSATION]
+[00:01:01.000 --> 00:01:04.500]   [SIDE CONVERSATION]
+[00:01:04.500 --> 00:01:08.000]   [SIDE CONVERSATION]
+[00:01:08.000 --> 00:01:11.500]   [SIDE CONVERSATION]
+[00:01:11.500 --> 00:01:15.000]   [SIDE CONVERSATION]
+[00:01:15.000 --> 00:01:18.500]   [SIDE CONVERSATION]
+[00:01:18.500 --> 00:01:22.000]   [SIDE CONVERSATION]
+[00:01:22.000 --> 00:01:25.500]   [SIDE CONVERSATION]
+[00:01:25.500 --> 00:01:29.000]   [SIDE CONVERSATION]
+[00:01:29.000 --> 00:01:32.500]   [SIDE CONVERSATION]
+[00:01:32.500 --> 00:01:36.000]   [SIDE CONVERSATION]
+[00:01:36.000 --> 00:01:39.500]   [SIDE CONVERSATION]
+[00:01:39.500 --> 00:01:43.000]   [SIDE CONVERSATION]
+[00:01:43.000 --> 00:01:46.500]   [SIDE CONVERSATION]
+[00:01:46.500 --> 00:01:50.000]   [SIDE CONVERSATION]
+[00:01:50.000 --> 00:01:53.500]   [SIDE CONVERSATION]
+[00:01:53.500 --> 00:01:57.000]   [SIDE CONVERSATION]
+[00:01:57.000 --> 00:02:00.500]   [SIDE CONVERSATION]
+[00:02:00.500 --> 00:02:04.000]   [SIDE CONVERSATION]
+[00:02:04.000 --> 00:02:07.500]   [SIDE CONVERSATION]
+[00:02:07.500 --> 00:02:11.000]   [SIDE CONVERSATION]
+[00:02:11.000 --> 00:02:14.500]   [SIDE CONVERSATION]
+[00:02:14.500 --> 00:02:18.000]   [SIDE CONVERSATION]
+[00:02:18.000 --> 00:02:21.500]   [SIDE CONVERSATION]
+[00:02:21.500 --> 00:02:25.000]   [SIDE CONVERSATION]
+[00:02:26.000 --> 00:02:29.500]   [SIDE CONVERSATION]
+[00:02:29.500 --> 00:02:33.000]   [SIDE CONVERSATION]
+[00:02:33.000 --> 00:02:36.500]   [SIDE CONVERSATION]
+[00:02:36.500 --> 00:02:40.000]   [SIDE CONVERSATION]
+[00:02:40.000 --> 00:02:43.500]   [SIDE CONVERSATION]
+[00:02:43.500 --> 00:02:47.000]   [SIDE CONVERSATION]
+[00:02:47.000 --> 00:02:50.500]   [SIDE CONVERSATION]
+[00:02:50.500 --> 00:02:54.000]   [SIDE CONVERSATION]
+[00:02:54.000 --> 00:02:57.500]   [SIDE CONVERSATION]
+[00:02:57.500 --> 00:03:01.000]   [SIDE CONVERSATION]
+[00:03:01.000 --> 00:03:04.500]   [SIDE CONVERSATION]
+[00:03:04.500 --> 00:03:08.000]   [SIDE CONVERSATION]
+[00:03:08.000 --> 00:03:11.500]   [SIDE CONVERSATION]
+[00:03:11.500 --> 00:03:15.000]   [SIDE CONVERSATION]
+[00:03:15.000 --> 00:03:18.500]   [SIDE CONVERSATION]
+[00:03:18.500 --> 00:03:22.000]   [SIDE CONVERSATION]
+[00:03:22.000 --> 00:03:25.500]   [SIDE CONVERSATION]
+[00:03:25.500 --> 00:03:29.000]   [SIDE CONVERSATION]
+[00:03:29.000 --> 00:03:32.500]   [SIDE CONVERSATION]
+[00:03:32.500 --> 00:03:36.000]   [SIDE CONVERSATION]
+[00:03:36.000 --> 00:03:39.500]   [SIDE CONVERSATION]
+[00:03:39.500 --> 00:03:43.000]   [SIDE CONVERSATION]
+[00:03:43.000 --> 00:03:46.500]   [SIDE CONVERSATION]
+[00:04:10.000 --> 00:04:13.500]   [SIDE CONVERSATION]
+[00:04:13.500 --> 00:04:17.000]   [SIDE CONVERSATION]
+[00:04:17.000 --> 00:04:20.500]   [SIDE CONVERSATION]
+[00:04:20.500 --> 00:04:24.000]   [SIDE CONVERSATION]
+[00:04:24.000 --> 00:04:27.500]   [SIDE CONVERSATION]
+[00:04:27.500 --> 00:04:31.000]   [SIDE CONVERSATION]
+[00:04:31.000 --> 00:04:34.500]   [SIDE CONVERSATION]
+[00:04:34.500 --> 00:04:38.000]   [SIDE CONVERSATION]
+[00:04:38.000 --> 00:04:41.500]   [SIDE CONVERSATION]
+[00:04:41.500 --> 00:04:45.000]   [SIDE CONVERSATION]
+[00:04:45.000 --> 00:04:48.500]   [SIDE CONVERSATION]
+[00:04:48.500 --> 00:04:52.000]   [SIDE CONVERSATION]
+[00:04:52.000 --> 00:04:55.500]   [SIDE CONVERSATION]
+[00:04:55.500 --> 00:04:59.000]   [SIDE CONVERSATION]
+[00:04:59.000 --> 00:05:02.500]   [SIDE CONVERSATION]
+[00:05:02.500 --> 00:05:06.000]   [SIDE CONVERSATION]
+[00:05:06.000 --> 00:05:09.500]   [SIDE CONVERSATION]
+[00:05:09.500 --> 00:05:13.000]   [SIDE CONVERSATION]
+[00:05:13.000 --> 00:05:16.500]   [SIDE CONVERSATION]
+[00:05:16.500 --> 00:05:20.000]   [SIDE CONVERSATION]
+[00:05:20.000 --> 00:05:23.500]   [SIDE CONVERSATION]
+[00:05:23.500 --> 00:05:27.000]   [SIDE CONVERSATION]
+[00:05:27.000 --> 00:05:30.500]   [SIDE CONVERSATION]
+[00:05:30.500 --> 00:05:34.000]   [SIDE CONVERSATION]
+[00:05:34.000 --> 00:05:37.500]   [SIDE CONVERSATION]
+[00:05:37.500 --> 00:05:41.000]   [SIDE CONVERSATION]
+[00:05:41.000 --> 00:05:44.500]   [SIDE CONVERSATION]
+[00:05:44.500 --> 00:05:48.000]   [SIDE CONVERSATION]
+[00:05:48.000 --> 00:05:51.500]   [SIDE CONVERSATION]
+[00:05:51.500 --> 00:05:55.000]   [SIDE CONVERSATION]
+[00:06:20.000 --> 00:06:22.200]   I'm just going to give a two-minute warning.
+[00:06:22.200 --> 00:06:23.160]   Good evening, everybody.
+[00:06:23.160 --> 00:06:25.980]   Just giving everybody a two-minute warning
+[00:06:25.980 --> 00:06:28.200]   that we're going to be starting in just two minutes.
+[00:06:28.200 --> 00:06:30.720]   Those of you guys who are over by the cafe,
+[00:06:30.720 --> 00:06:33.760]   or if you can hear me out in the courtyard,
+[00:06:33.760 --> 00:06:35.760]   or if you're doing meet-ups in the rooms,
+[00:06:35.760 --> 00:06:38.280]   just make your way now to your tables,
+[00:06:38.280 --> 00:06:39.820]   and we'll get started in two minutes.
+[00:06:39.820 --> 00:06:41.120]   Thank you, everyone.
+[00:06:41.120 --> 00:06:44.120]   [SIDE CONVERSATION]
+[00:06:44.120 --> 00:06:47.120]   [SIDE CONVERSATION]
+[00:06:47.120 --> 00:06:50.120]   [SIDE CONVERSATION]
+[00:06:50.120 --> 00:06:53.120]   [SIDE CONVERSATION]
+[00:06:53.120 --> 00:06:56.120]   [SIDE CONVERSATION]
+[00:06:56.120 --> 00:06:59.120]   [SIDE CONVERSATION]
+[00:07:00.120 --> 00:07:01.620]   Jin's here.
+[00:07:01.620 --> 00:07:02.620]   Oh, Jin's here?
+[00:07:02.620 --> 00:07:03.120]   Yeah.
+[00:07:03.120 --> 00:07:04.120]   I'm going to go by Jin.
+[00:07:04.120 --> 00:07:07.120]   [SIDE CONVERSATION]
+[00:07:07.120 --> 00:07:20.620]   It definitely is missing something without the cajon.
+[00:07:20.620 --> 00:07:23.620]   [SIDE CONVERSATION]
+[00:07:23.620 --> 00:07:26.620]   [SIDE CONVERSATION]
+[00:07:27.120 --> 00:07:28.120]   There's just nothing--
+[00:07:28.120 --> 00:07:29.120]   Just sad.
+[00:07:29.120 --> 00:07:32.120]   [SIDE CONVERSATION]
+[00:07:33.120 --> 00:07:36.120]   [SIDE CONVERSATION]
+[00:07:36.120 --> 00:07:37.120]   What's that?
+[00:07:37.120 --> 00:07:40.120]   [SIDE CONVERSATION]
+[00:07:40.120 --> 00:07:43.120]   [SIDE CONVERSATION]
+[00:07:43.120 --> 00:07:46.120]   [SIDE CONVERSATION]
+[00:07:46.120 --> 00:07:49.120]   [SIDE CONVERSATION]
+[00:07:49.120 --> 00:07:52.120]   [SIDE CONVERSATION]
+[00:07:52.120 --> 00:07:55.120]   [SIDE CONVERSATION]
+[00:08:20.120 --> 00:08:22.120]   Ever so slightly.
+[00:08:22.120 --> 00:08:23.120]   All right, everybody.
+[00:08:23.120 --> 00:08:25.620]   Please, let's gather our hearts.
+[00:08:25.620 --> 00:08:27.620]   Please join me in a word of prayer
+[00:08:27.620 --> 00:08:30.120]   as we start our midweek Bible study.
+[00:08:30.120 --> 00:08:33.120]   Let's pray together.
+[00:08:33.120 --> 00:08:36.120]   Heavenly Father, we want to thank you and praise you.
+[00:08:36.120 --> 00:08:40.120]   God, as we come off a holiday week,
+[00:08:40.120 --> 00:08:42.120]   spending time with family, but also making sure
+[00:08:42.120 --> 00:08:45.620]   that we are mindful of all that we have in Christ,
+[00:08:45.620 --> 00:08:49.120]   I pray, God, that by our sight of you,
+[00:08:49.120 --> 00:08:52.120]   considering all that you are, that you have done,
+[00:08:52.120 --> 00:08:54.620]   and all the work that, God, you have done in our lives,
+[00:08:54.620 --> 00:08:57.120]   that our hearts will be overflowing with gratitude.
+[00:08:57.120 --> 00:09:00.620]   And God, although the weeks and days go by quickly,
+[00:09:00.620 --> 00:09:03.120]   and although our weeks may be filled with various--
+[00:09:03.120 --> 00:09:05.620]   both responsibilities, distractions, burdens,
+[00:09:05.620 --> 00:09:09.120]   and more, in every season, God, we want to give you thanks.
+[00:09:09.120 --> 00:09:12.120]   And particularly tonight, as we think about your word,
+[00:09:12.120 --> 00:09:14.620]   our fellowship in the scripture, and the opportunity
+[00:09:14.620 --> 00:09:16.620]   to gather together in this way, we
+[00:09:16.620 --> 00:09:18.620]   are grateful, Lord, for the privilege.
+[00:09:18.620 --> 00:09:21.620]   Father, we want to lift this time of praise to you,
+[00:09:21.620 --> 00:09:23.620]   and we pray, God, that more and more,
+[00:09:23.620 --> 00:09:26.120]   by continuing to devote ourselves,
+[00:09:26.120 --> 00:09:28.120]   devote our attention to you, God,
+[00:09:28.120 --> 00:09:29.620]   would you continue to grow our faith.
+[00:09:29.620 --> 00:09:30.620]   We thank you in Christ's name.
+[00:09:30.620 --> 00:09:31.120]   Amen.
+[00:09:31.120 --> 00:09:43.120]   [MUSIC - "I'M NOT GOING TO DIE"]
+[00:09:44.120 --> 00:09:47.620]   [MUSIC - "I'M NOT GOING TO DIE"]
+[00:09:47.620 --> 00:10:08.620]   (SINGING) Create in me a clean heart, oh, God,
+[00:10:08.620 --> 00:10:15.620]   and renew a right spirit within me.
+[00:10:15.620 --> 00:10:36.120]   Create in me a clean heart, oh, God,
+[00:10:36.120 --> 00:10:43.120]   and renew a right spirit within me.
+[00:10:43.120 --> 00:11:02.620]   Cast me not away from thy presence, oh, Lord.
+[00:11:02.620 --> 00:11:10.120]   Take not thy Holy Spirit from me.
+[00:11:16.120 --> 00:11:30.620]   Restore unto me the joy of thy salvation,
+[00:11:30.620 --> 00:11:37.620]   and renew a right spirit within me.
+[00:11:37.620 --> 00:11:43.120]   Create.
+[00:11:43.120 --> 00:11:58.120]   Create in me a clean heart, oh, God,
+[00:11:58.120 --> 00:12:06.620]   and renew a right spirit within me.
+[00:12:06.620 --> 00:12:07.620]   Cast me not away.
+[00:12:11.120 --> 00:12:24.620]   Cast me not away from thy presence, oh, Lord.
+[00:12:24.620 --> 00:12:32.620]   Take not thy Holy Spirit from me.
+[00:12:38.620 --> 00:12:53.620]   Restore unto me the joy of thy salvation,
+[00:12:53.620 --> 00:13:00.620]   and renew a right spirit within me.
+[00:13:00.620 --> 00:13:04.120]   [MUSIC - "I'M NOT GOING TO DIE"]
+[00:13:24.120 --> 00:13:30.620]   Who else commands all the hosts of heaven?
+[00:13:30.620 --> 00:13:37.120]   Who else can make every king bow down?
+[00:13:37.120 --> 00:13:43.620]   Who else can whisper in darkness' trembles?
+[00:13:43.620 --> 00:13:46.620]   Only a holy God.
+[00:13:51.620 --> 00:13:58.120]   What other beauty dimmeth such phrases?
+[00:13:58.120 --> 00:14:04.620]   What other splendor as shines the sun?
+[00:14:04.620 --> 00:14:11.120]   What other majesty rules with justice?
+[00:14:11.120 --> 00:14:14.120]   Only a holy God.
+[00:14:19.120 --> 00:14:29.620]   Come and behold him, the one and the only.
+[00:14:29.620 --> 00:14:39.120]   Cry out, sing holy, forever a holy God.
+[00:14:39.120 --> 00:14:43.120]   Come and worship the holy God.
+[00:14:44.120 --> 00:14:47.120]   [MUSIC - "I'M NOT GOING TO DIE"]
+[00:14:47.120 --> 00:15:01.620]   What other glory consumes like fire?
+[00:15:01.620 --> 00:15:08.120]   What other power can raise the dead?
+[00:15:08.120 --> 00:15:14.620]   What other name remains undefeated?
+[00:15:14.620 --> 00:15:18.120]   Only a holy God.
+[00:15:18.120 --> 00:15:32.620]   Come and behold him, the one and the only.
+[00:15:32.620 --> 00:15:42.120]   Cry out, sing holy, forever a holy God.
+[00:15:42.120 --> 00:15:46.620]   Come and worship the holy God.
+[00:15:46.620 --> 00:15:50.120]   [MUSIC - "I'M NOT GOING TO DIE"]
+[00:15:50.120 --> 00:15:53.620]   [MUSIC - "I'M NOT GOING TO DIE"]
+[00:15:53.620 --> 00:16:19.120]   Who else could rescue me from my failing?
+[00:16:19.120 --> 00:16:26.120]   And who else would offer his only son?
+[00:16:26.120 --> 00:16:32.620]   And who else invites me to call him father?
+[00:16:32.620 --> 00:16:38.120]   Only a holy God.
+[00:16:38.120 --> 00:16:41.120]   Only a holy God.
+[00:16:45.620 --> 00:16:56.120]   Come and behold him, the one and the only.
+[00:16:56.120 --> 00:17:05.620]   Cry out, sing holy, forever a holy God.
+[00:17:05.620 --> 00:17:09.620]   Come and worship the holy God.
+[00:17:10.120 --> 00:17:13.620]   [MUSIC - "I'M NOT GOING TO DIE"]
+[00:17:13.620 --> 00:17:17.120]   [MUSIC - "I'M NOT GOING TO DIE"]
+[00:17:17.120 --> 00:17:20.620]   [MUSIC - "I'M NOT GOING TO DIE"]
+[00:17:21.620 --> 00:17:25.120]   [MUSIC - "I'M NOT GOING TO DIE"]
+[00:17:49.120 --> 00:17:51.120]   OK, good evening, everybody.
+[00:17:51.120 --> 00:17:53.620]   Just a few highlight of announcements.
+[00:17:53.620 --> 00:17:58.120]   So just in case you guys are kind of wondering
+[00:17:58.120 --> 00:18:01.620]   about the schedule again, December 14, Wednesday,
+[00:18:01.620 --> 00:18:03.120]   is our last study.
+[00:18:03.120 --> 00:18:06.120]   That last study is going to be a wrap-up summary.
+[00:18:06.120 --> 00:18:08.120]   So please just make a mental note of that.
+[00:18:08.120 --> 00:18:11.120]   And then soon, we're going to be starting our sign-ups
+[00:18:11.120 --> 00:18:12.120]   for the next session.
+[00:18:12.120 --> 00:18:13.620]   So you're going to see both emails.
+[00:18:13.620 --> 00:18:15.620]   And then next week, we're going to have a time
+[00:18:15.620 --> 00:18:17.620]   where I'll introduce to you how to sign up
+[00:18:17.620 --> 00:18:19.620]   for the next series, OK?
+[00:18:19.620 --> 00:18:23.120]   Please remember that this weekend on Sunday
+[00:18:23.120 --> 00:18:25.620]   is our communion service, OK?
+[00:18:25.620 --> 00:18:29.620]   So please take time to just prepare your heart, pray,
+[00:18:29.620 --> 00:18:31.620]   spend extra time communing with the Lord,
+[00:18:31.620 --> 00:18:34.120]   repent of any sins that are in your heart,
+[00:18:34.120 --> 00:18:36.120]   always be thinking about how grateful we
+[00:18:36.120 --> 00:18:37.620]   are for the Lord's sacrifice, and come
+[00:18:37.620 --> 00:18:40.120]   ready to participate on the special service, OK?
+[00:18:40.120 --> 00:18:42.120]   All right, at this time, please go ahead and go
+[00:18:42.120 --> 00:18:43.120]   into your discussion groups.
+[00:18:43.120 --> 00:18:44.620]   Thanks.
+[00:18:45.120 --> 00:18:47.980]   [SIDE CONVERSATION]
+[00:18:47.980 --> 00:18:50.960]   [NO AUDIO]
+[00:18:50.960 --> 00:18:53.940]   [NO AUDIO]
+[00:18:54.920 --> 00:18:57.920]   [NO AUDIO]
+[00:18:58.900 --> 00:19:01.900]   [NO AUDIO]
+[00:19:02.880 --> 00:19:05.880]   [NO AUDIO]
+[00:19:05.880 --> 00:19:14.880]   [NO AUDIO]
+[00:19:14.880 --> 00:19:20.880]   [NO AUDIO]
+[00:19:20.880 --> 00:19:27.880]   [NO AUDIO]
+[00:19:31.880 --> 00:19:34.880]   [NO AUDIO]
+[00:19:34.880 --> 00:19:41.880]   [NO AUDIO]
+[00:19:41.880 --> 00:19:48.880]   [NO AUDIO]
+[00:19:48.880 --> 00:19:55.880]   [NO AUDIO]
+[00:19:59.880 --> 00:20:02.880]   [NO AUDIO]
+[00:20:02.880 --> 00:20:14.880]   [NO AUDIO]
+[00:20:14.880 --> 00:20:22.880]   [NO AUDIO]
+[00:20:22.880 --> 00:20:25.880]   [NO AUDIO]
+[00:20:25.880 --> 00:20:34.880]   [NO AUDIO]
+[00:20:34.880 --> 00:20:42.880]   [NO AUDIO]
+[00:20:42.880 --> 00:20:50.880]   [NO AUDIO]
+[00:20:51.880 --> 00:20:54.880]   [NO AUDIO]
+[00:20:54.880 --> 00:21:02.880]   [NO AUDIO]
+[00:21:02.880 --> 00:21:10.880]   [NO AUDIO]
+[00:21:10.880 --> 00:21:18.880]   [NO AUDIO]
+[00:21:19.880 --> 00:21:22.880]   [NO AUDIO]
+[00:21:22.880 --> 00:21:30.880]   [NO AUDIO]
+[00:21:30.880 --> 00:21:38.880]   [NO AUDIO]
+[00:21:38.880 --> 00:21:46.880]   [NO AUDIO]
+[00:21:46.880 --> 00:21:49.880]   [NO AUDIO]
+[00:21:49.880 --> 00:21:58.880]   [NO AUDIO]
+[00:21:58.880 --> 00:22:06.880]   [NO AUDIO]
+[00:22:06.880 --> 00:22:14.880]   [NO AUDIO]
+[00:22:15.880 --> 00:22:18.880]   [NO AUDIO]
+[00:22:18.880 --> 00:22:26.880]   [NO AUDIO]
+[00:22:26.880 --> 00:22:34.880]   [NO AUDIO]
+[00:22:34.880 --> 00:22:42.880]   [NO AUDIO]
+[00:22:43.880 --> 00:22:46.880]   [NO AUDIO]
+[00:22:46.880 --> 00:22:54.880]   [NO AUDIO]
+[00:22:54.880 --> 00:23:02.880]   [NO AUDIO]
+[00:23:02.880 --> 00:23:10.880]   [NO AUDIO]
+[00:23:11.880 --> 00:23:14.880]   [NO AUDIO]
+[00:23:14.880 --> 00:23:22.880]   [NO AUDIO]
+[00:23:22.880 --> 00:23:30.880]   [NO AUDIO]
+[00:23:30.880 --> 00:23:38.880]   [NO AUDIO]
+[00:23:39.880 --> 00:23:42.880]   [NO AUDIO]
+[00:23:42.880 --> 00:23:50.880]   [NO AUDIO]
+[00:23:50.880 --> 00:23:58.880]   [NO AUDIO]
+[00:23:58.880 --> 00:24:06.880]   [NO AUDIO]
+[00:24:07.880 --> 00:24:10.880]   [NO AUDIO]
+[00:24:10.880 --> 00:24:18.880]   [NO AUDIO]
+[00:24:18.880 --> 00:24:26.880]   [NO AUDIO]
+[00:24:26.880 --> 00:24:34.880]   [NO AUDIO]
+[00:24:35.880 --> 00:24:38.880]   [NO AUDIO]
+[00:24:38.880 --> 00:24:46.880]   [NO AUDIO]
+[00:24:46.880 --> 00:24:54.880]   [NO AUDIO]
+[00:24:54.880 --> 00:25:02.880]   [NO AUDIO]
+[00:25:03.880 --> 00:25:06.880]   [NO AUDIO]
+[00:25:06.880 --> 00:25:14.880]   [NO AUDIO]
+[00:25:14.880 --> 00:25:20.880]   [NO AUDIO]
+[00:25:20.880 --> 00:25:27.880]   [NO AUDIO]
+[00:25:27.880 --> 00:25:30.880]   [NO AUDIO]
+[00:25:30.880 --> 00:25:40.880]   [NO AUDIO]
+[00:25:40.880 --> 00:25:49.880]   [NO AUDIO]
+[00:25:49.880 --> 00:25:52.880]   [NO AUDIO]
+[00:25:52.880 --> 00:26:01.880]   [NO AUDIO]
+[00:26:01.880 --> 00:26:09.880]   [NO AUDIO]
+[00:26:09.880 --> 00:26:17.880]   [NO AUDIO]
+[00:26:18.880 --> 00:26:21.880]   [NO AUDIO]
+[00:26:21.880 --> 00:26:29.880]   [NO AUDIO]
+[00:26:29.880 --> 00:26:37.880]   [NO AUDIO]
+[00:26:37.880 --> 00:26:45.880]   [NO AUDIO]
+[00:26:46.880 --> 00:26:49.880]   [NO AUDIO]
+[00:26:49.880 --> 00:26:57.880]   [NO AUDIO]
+[00:26:57.880 --> 00:27:05.880]   [NO AUDIO]
+[00:27:05.880 --> 00:27:13.880]   [NO AUDIO]
+[00:27:14.880 --> 00:27:17.880]   [NO AUDIO]
+[00:27:17.880 --> 00:27:25.880]   [NO AUDIO]
+[00:27:25.880 --> 00:27:33.880]   [NO AUDIO]
+[00:27:33.880 --> 00:27:41.880]   [NO AUDIO]
+[00:27:42.880 --> 00:27:45.880]   [NO AUDIO]
+[00:27:45.880 --> 00:27:53.880]   [NO AUDIO]
+[00:27:53.880 --> 00:28:01.880]   [NO AUDIO]
+[00:28:01.880 --> 00:28:09.880]   [NO AUDIO]
+[00:28:10.880 --> 00:28:13.880]   [NO AUDIO]
+[00:28:13.880 --> 00:28:21.880]   [NO AUDIO]
+[00:28:21.880 --> 00:28:29.880]   [NO AUDIO]
+[00:28:29.880 --> 00:28:37.880]   [NO AUDIO]
+[00:28:37.880 --> 00:28:40.880]   [NO AUDIO]
+[00:28:40.880 --> 00:28:47.880]   [NO AUDIO]
+[00:28:47.880 --> 00:28:54.880]   [NO AUDIO]
+[00:28:54.880 --> 00:29:01.880]   [NO AUDIO]
+[00:29:06.880 --> 00:29:09.880]   [NO AUDIO]
+[00:29:09.880 --> 00:29:18.880]   [NO AUDIO]
+[00:29:18.880 --> 00:29:26.880]   [NO AUDIO]
+[00:29:26.880 --> 00:29:34.880]   [NO AUDIO]
+[00:29:35.880 --> 00:29:38.880]   [NO AUDIO]
+[00:29:38.880 --> 00:29:46.880]   [NO AUDIO]
+[00:29:46.880 --> 00:29:54.880]   [NO AUDIO]
+[00:29:54.880 --> 00:30:02.880]   [NO AUDIO]
+[00:30:03.880 --> 00:30:06.880]   [NO AUDIO]
+[00:30:06.880 --> 00:30:14.880]   [NO AUDIO]
+[00:30:14.880 --> 00:30:22.880]   [NO AUDIO]
+[00:30:22.880 --> 00:30:30.880]   [NO AUDIO]
+[00:30:31.880 --> 00:30:34.880]   [NO AUDIO]
+[00:30:34.880 --> 00:30:42.880]   [NO AUDIO]
+[00:30:42.880 --> 00:30:50.880]   [NO AUDIO]
+[00:30:50.880 --> 00:30:58.880]   [NO AUDIO]
+[00:30:59.880 --> 00:31:02.880]   [NO AUDIO]
+[00:31:02.880 --> 00:31:10.880]   [NO AUDIO]
+[00:31:10.880 --> 00:31:18.880]   [NO AUDIO]
+[00:31:18.880 --> 00:31:26.880]   [NO AUDIO]
+[00:31:27.880 --> 00:31:30.880]   [NO AUDIO]
+[00:31:30.880 --> 00:31:38.880]   [NO AUDIO]
+[00:31:38.880 --> 00:31:46.880]   [NO AUDIO]
+[00:31:46.880 --> 00:31:54.880]   [NO AUDIO]
+[00:31:55.880 --> 00:31:58.880]   [NO AUDIO]
+[00:31:58.880 --> 00:32:06.880]   [NO AUDIO]
+[00:32:06.880 --> 00:32:14.880]   [NO AUDIO]
+[00:32:14.880 --> 00:32:22.880]   [NO AUDIO]
+[00:32:23.880 --> 00:32:26.880]   [NO AUDIO]
+[00:32:26.880 --> 00:32:34.880]   [NO AUDIO]
+[00:32:34.880 --> 00:32:42.880]   [NO AUDIO]
+[00:32:42.880 --> 00:32:50.880]   [NO AUDIO]
+[00:32:50.880 --> 00:32:53.880]   [NO AUDIO]
+[00:32:53.880 --> 00:33:00.880]   [NO AUDIO]
+[00:33:00.880 --> 00:33:07.880]   [NO AUDIO]
+[00:33:07.880 --> 00:33:14.880]   [NO AUDIO]
+[00:33:19.880 --> 00:33:22.880]   [NO AUDIO]
+[00:33:22.880 --> 00:33:31.880]   [NO AUDIO]
+[00:33:31.880 --> 00:33:39.880]   [NO AUDIO]
+[00:33:39.880 --> 00:33:47.880]   [NO AUDIO]
+[00:33:48.880 --> 00:33:51.880]   [NO AUDIO]
+[00:33:51.880 --> 00:33:59.880]   [NO AUDIO]
+[00:33:59.880 --> 00:34:07.880]   [NO AUDIO]
+[00:34:07.880 --> 00:34:15.880]   [NO AUDIO]
+[00:34:16.880 --> 00:34:19.880]   [NO AUDIO]
+[00:34:19.880 --> 00:34:27.880]   [NO AUDIO]
+[00:34:27.880 --> 00:34:35.880]   [NO AUDIO]
+[00:34:35.880 --> 00:34:43.880]   [NO AUDIO]
+[00:34:44.880 --> 00:34:47.880]   [NO AUDIO]
+[00:34:47.880 --> 00:34:55.880]   [NO AUDIO]
+[00:34:55.880 --> 00:35:03.880]   [NO AUDIO]
+[00:35:03.880 --> 00:35:11.880]   [NO AUDIO]
+[00:35:12.880 --> 00:35:15.880]   [NO AUDIO]
+[00:35:15.880 --> 00:35:23.880]   [NO AUDIO]
+[00:35:23.880 --> 00:35:31.880]   [NO AUDIO]
+[00:35:31.880 --> 00:35:39.880]   [NO AUDIO]
+[00:35:40.880 --> 00:35:43.880]   [NO AUDIO]
+[00:35:43.880 --> 00:35:51.880]   [NO AUDIO]
+[00:35:51.880 --> 00:35:59.880]   [NO AUDIO]
+[00:35:59.880 --> 00:36:07.880]   [NO AUDIO]
+[00:36:08.880 --> 00:36:11.880]   [NO AUDIO]
+[00:36:11.880 --> 00:36:19.880]   [NO AUDIO]
+[00:36:19.880 --> 00:36:27.880]   [NO AUDIO]
+[00:36:27.880 --> 00:36:35.880]   [NO AUDIO]
+[00:36:36.880 --> 00:36:39.880]   [NO AUDIO]
+[00:36:39.880 --> 00:36:47.880]   [NO AUDIO]
+[00:36:47.880 --> 00:36:55.880]   [NO AUDIO]
+[00:36:55.880 --> 00:37:03.880]   [NO AUDIO]
+[00:37:03.880 --> 00:37:06.880]   [NO AUDIO]
+[00:37:06.880 --> 00:37:13.880]   [NO AUDIO]
+[00:37:13.880 --> 00:37:20.880]   [NO AUDIO]
+[00:37:20.880 --> 00:37:27.880]   [NO AUDIO]
+[00:37:32.880 --> 00:37:35.880]   [NO AUDIO]
+[00:37:35.880 --> 00:37:44.880]   [NO AUDIO]
+[00:37:44.880 --> 00:37:52.880]   [NO AUDIO]
+[00:37:52.880 --> 00:38:00.880]   [NO AUDIO]
+[00:38:01.880 --> 00:38:04.880]   [NO AUDIO]
+[00:38:04.880 --> 00:38:12.880]   [NO AUDIO]
+[00:38:12.880 --> 00:38:20.880]   [NO AUDIO]
+[00:38:20.880 --> 00:38:28.880]   [NO AUDIO]
+[00:38:29.880 --> 00:38:32.880]   [NO AUDIO]
+[00:38:32.880 --> 00:38:40.880]   [NO AUDIO]
+[00:38:40.880 --> 00:38:48.880]   [NO AUDIO]
+[00:38:48.880 --> 00:38:56.880]   [NO AUDIO]
+[00:38:57.880 --> 00:39:00.880]   [NO AUDIO]
+[00:39:00.880 --> 00:39:08.880]   [NO AUDIO]
+[00:39:08.880 --> 00:39:16.880]   [NO AUDIO]
+[00:39:16.880 --> 00:39:24.880]   [NO AUDIO]
+[00:39:24.880 --> 00:39:27.880]   [NO AUDIO]
+[00:39:27.880 --> 00:39:34.880]   [NO AUDIO]
+[00:39:34.880 --> 00:39:41.880]   [NO AUDIO]
+[00:39:41.880 --> 00:39:48.880]   [NO AUDIO]
+[00:39:53.880 --> 00:39:56.880]   [NO AUDIO]
+[00:39:56.880 --> 00:40:05.880]   [NO AUDIO]
+[00:40:05.880 --> 00:40:13.880]   [NO AUDIO]
+[00:40:13.880 --> 00:40:21.880]   [NO AUDIO]
+[00:40:22.880 --> 00:40:25.880]   [NO AUDIO]
+[00:40:25.880 --> 00:40:33.880]   [NO AUDIO]
+[00:40:33.880 --> 00:40:41.880]   [NO AUDIO]
+[00:40:41.880 --> 00:40:49.880]   [NO AUDIO]
+[00:40:50.880 --> 00:40:53.880]   [NO AUDIO]
+[00:40:53.880 --> 00:41:01.880]   [NO AUDIO]
+[00:41:01.880 --> 00:41:09.880]   [NO AUDIO]
+[00:41:09.880 --> 00:41:17.880]   [NO AUDIO]
+[00:41:18.880 --> 00:41:21.880]   [NO AUDIO]
+[00:41:21.880 --> 00:41:29.880]   [NO AUDIO]
+[00:41:29.880 --> 00:41:37.880]   [NO AUDIO]
+[00:41:37.880 --> 00:41:45.880]   [NO AUDIO]
+[00:41:46.880 --> 00:41:49.880]   [NO AUDIO]
+[00:41:49.880 --> 00:41:57.880]   [NO AUDIO]
+[00:41:57.880 --> 00:42:05.880]   [NO AUDIO]
+[00:42:05.880 --> 00:42:13.880]   [NO AUDIO]
+[00:42:14.880 --> 00:42:17.880]   [NO AUDIO]
+[00:42:17.880 --> 00:42:25.880]   [NO AUDIO]
+[00:42:25.880 --> 00:42:33.880]   [NO AUDIO]
+[00:42:33.880 --> 00:42:41.880]   [NO AUDIO]
+[00:42:42.880 --> 00:42:45.880]   [NO AUDIO]
+[00:42:45.880 --> 00:42:53.880]   [NO AUDIO]
+[00:42:53.880 --> 00:43:01.880]   [NO AUDIO]
+[00:43:01.880 --> 00:43:09.880]   [NO AUDIO]
+[00:43:09.880 --> 00:43:12.880]   [NO AUDIO]
+[00:43:12.880 --> 00:43:19.880]   [NO AUDIO]
+[00:43:19.880 --> 00:43:26.880]   [NO AUDIO]
+[00:43:26.880 --> 00:43:33.880]   [NO AUDIO]
+[00:43:38.880 --> 00:43:41.880]   [NO AUDIO]
+[00:43:41.880 --> 00:43:50.880]   [NO AUDIO]
+[00:43:50.880 --> 00:43:58.880]   [NO AUDIO]
+[00:43:58.880 --> 00:44:06.880]   [NO AUDIO]
+[00:44:07.880 --> 00:44:10.880]   [NO AUDIO]
+[00:44:10.880 --> 00:44:18.880]   [NO AUDIO]
+[00:44:18.880 --> 00:44:26.880]   [NO AUDIO]
+[00:44:26.880 --> 00:44:34.880]   [NO AUDIO]
+[00:44:35.880 --> 00:44:38.880]   [NO AUDIO]
+[00:44:38.880 --> 00:44:46.880]   [NO AUDIO]
+[00:44:46.880 --> 00:44:54.880]   [NO AUDIO]
+[00:44:54.880 --> 00:45:02.880]   [NO AUDIO]
+[00:45:03.880 --> 00:45:06.880]   [NO AUDIO]
+[00:45:06.880 --> 00:45:14.880]   [NO AUDIO]
+[00:45:14.880 --> 00:45:22.880]   [NO AUDIO]
+[00:45:22.880 --> 00:45:30.880]   [NO AUDIO]
+[00:45:31.880 --> 00:45:34.880]   [NO AUDIO]
+[00:45:34.880 --> 00:45:42.880]   [NO AUDIO]
+[00:45:42.880 --> 00:45:50.880]   [NO AUDIO]
+[00:45:50.880 --> 00:45:58.880]   [NO AUDIO]
+[00:45:59.880 --> 00:46:02.880]   [NO AUDIO]
+[00:46:02.880 --> 00:46:10.880]   [NO AUDIO]
+[00:46:10.880 --> 00:46:18.880]   [NO AUDIO]
+[00:46:18.880 --> 00:46:26.880]   [NO AUDIO]
+[00:46:27.880 --> 00:46:30.880]   [NO AUDIO]
+[00:46:30.880 --> 00:46:38.880]   [NO AUDIO]
+[00:46:38.880 --> 00:46:46.880]   [NO AUDIO]
+[00:46:46.880 --> 00:46:54.880]   [NO AUDIO]
+[00:46:55.880 --> 00:46:58.880]   [NO AUDIO]
+[00:46:58.880 --> 00:47:06.880]   [NO AUDIO]
+[00:47:06.880 --> 00:47:14.880]   [NO AUDIO]
+[00:47:14.880 --> 00:47:22.880]   [NO AUDIO]
+[00:47:22.880 --> 00:47:25.880]   [NO AUDIO]
+[00:47:25.880 --> 00:47:32.880]   [NO AUDIO]
+[00:47:32.880 --> 00:47:39.880]   [NO AUDIO]
+[00:47:39.880 --> 00:47:46.880]   [NO AUDIO]
+[00:47:51.880 --> 00:47:54.880]   [NO AUDIO]
+[00:47:54.880 --> 00:48:03.880]   [NO AUDIO]
+[00:48:03.880 --> 00:48:11.880]   [NO AUDIO]
+[00:48:11.880 --> 00:48:19.880]   [NO AUDIO]
+[00:48:20.880 --> 00:48:23.880]   [NO AUDIO]
+[00:48:23.880 --> 00:48:31.880]   [NO AUDIO]
+[00:48:31.880 --> 00:48:39.880]   [NO AUDIO]
+[00:48:39.880 --> 00:48:47.880]   [NO AUDIO]
+[00:48:48.880 --> 00:48:51.880]   [NO AUDIO]
+[00:48:51.880 --> 00:48:59.880]   [NO AUDIO]
+[00:48:59.880 --> 00:49:07.880]   [NO AUDIO]
+[00:49:07.880 --> 00:49:15.880]   [NO AUDIO]
+[00:49:16.880 --> 00:49:19.880]   [NO AUDIO]
+[00:49:19.880 --> 00:49:27.880]   [NO AUDIO]
+[00:49:27.880 --> 00:49:35.880]   [NO AUDIO]
+[00:49:35.880 --> 00:49:43.880]   [NO AUDIO]
+[00:49:44.880 --> 00:49:47.880]   [NO AUDIO]
+[00:49:47.880 --> 00:49:55.880]   [NO AUDIO]
+[00:49:55.880 --> 00:50:03.880]   [NO AUDIO]
+[00:50:03.880 --> 00:50:11.880]   [NO AUDIO]
+[00:50:12.880 --> 00:50:15.880]   [NO AUDIO]
+[00:50:15.880 --> 00:50:23.880]   [NO AUDIO]
+[00:50:23.880 --> 00:50:31.880]   [NO AUDIO]
+[00:50:31.880 --> 00:50:39.880]   [NO AUDIO]
+[00:50:40.880 --> 00:50:43.880]   [NO AUDIO]
+[00:50:43.880 --> 00:50:51.880]   [NO AUDIO]
+[00:50:51.880 --> 00:50:59.880]   [NO AUDIO]
+[00:50:59.880 --> 00:51:07.880]   [NO AUDIO]
+[00:51:08.880 --> 00:51:11.880]   [NO AUDIO]
+[00:51:11.880 --> 00:51:19.880]   [NO AUDIO]
+[00:51:19.880 --> 00:51:27.880]   [NO AUDIO]
+[00:51:27.880 --> 00:51:35.880]   [NO AUDIO]
+[00:51:36.880 --> 00:51:39.880]   [NO AUDIO]
+[00:51:39.880 --> 00:51:47.880]   [NO AUDIO]
+[00:51:47.880 --> 00:51:55.880]   [NO AUDIO]
+[00:51:55.880 --> 00:52:03.880]   [NO AUDIO]
+[00:52:04.880 --> 00:52:07.880]   [NO AUDIO]
+[00:52:07.880 --> 00:52:15.880]   [NO AUDIO]
+[00:52:15.880 --> 00:52:23.880]   [NO AUDIO]
+[00:52:23.880 --> 00:52:31.880]   [NO AUDIO]
+[00:52:32.880 --> 00:52:35.880]   [NO AUDIO]
+[00:52:35.880 --> 00:52:43.880]   [NO AUDIO]
+[00:52:43.880 --> 00:52:49.880]   [NO AUDIO]
+[00:52:49.880 --> 00:52:56.880]   [NO AUDIO]
+[00:52:56.880 --> 00:52:59.880]   [NO AUDIO]
+[00:52:59.880 --> 00:53:06.880]   [NO AUDIO]
+[00:53:06.880 --> 00:53:13.880]   [NO AUDIO]
+[00:53:13.880 --> 00:53:20.880]   [NO AUDIO]
+[00:53:25.880 --> 00:53:28.880]   [NO AUDIO]
+[00:53:28.880 --> 00:53:37.880]   [NO AUDIO]
+[00:53:37.880 --> 00:53:45.880]   [NO AUDIO]
+[00:53:45.880 --> 00:53:53.880]   [NO AUDIO]
+[00:53:54.880 --> 00:53:57.880]   [NO AUDIO]
+[00:53:57.880 --> 00:54:05.880]   [NO AUDIO]
+[00:54:05.880 --> 00:54:13.880]   [NO AUDIO]
+[00:54:13.880 --> 00:54:21.880]   [NO AUDIO]
+[00:54:22.880 --> 00:54:25.880]   [NO AUDIO]
+[00:54:25.880 --> 00:54:33.880]   [NO AUDIO]
+[00:54:33.880 --> 00:54:41.880]   [NO AUDIO]
+[00:54:41.880 --> 00:54:49.880]   [NO AUDIO]
+[00:54:50.880 --> 00:54:53.880]   [NO AUDIO]
+[00:54:53.880 --> 00:55:01.880]   [NO AUDIO]
+[00:55:01.880 --> 00:55:09.880]   [NO AUDIO]
+[00:55:09.880 --> 00:55:17.880]   [NO AUDIO]
+[00:55:18.880 --> 00:55:21.880]   [NO AUDIO]
+[00:55:21.880 --> 00:55:29.880]   [NO AUDIO]
+[00:55:29.880 --> 00:55:37.880]   [NO AUDIO]
+[00:55:37.880 --> 00:55:45.880]   [NO AUDIO]
+[00:55:46.880 --> 00:55:49.880]   [NO AUDIO]
+[00:55:49.880 --> 00:55:57.880]   [NO AUDIO]
+[00:55:57.880 --> 00:56:05.880]   [NO AUDIO]
+[00:56:05.880 --> 00:56:13.880]   [NO AUDIO]
+[00:56:14.880 --> 00:56:17.880]   [NO AUDIO]
+[00:56:17.880 --> 00:56:25.880]   [NO AUDIO]
+[00:56:25.880 --> 00:56:33.880]   [NO AUDIO]
+[00:56:33.880 --> 00:56:41.880]   [NO AUDIO]
+[00:56:41.880 --> 00:56:44.880]   [NO AUDIO]
+[00:56:44.880 --> 00:56:51.880]   [NO AUDIO]
+[00:56:51.880 --> 00:56:58.880]   [NO AUDIO]
+[00:56:58.880 --> 00:57:05.880]   [NO AUDIO]
+[00:57:10.880 --> 00:57:13.880]   [NO AUDIO]
+[00:57:13.880 --> 00:57:22.880]   [NO AUDIO]
+[00:57:22.880 --> 00:57:30.880]   [NO AUDIO]
+[00:57:30.880 --> 00:57:38.880]   [NO AUDIO]
+[00:57:39.880 --> 00:57:42.880]   [NO AUDIO]
+[00:57:42.880 --> 00:57:50.880]   [NO AUDIO]
+[00:57:50.880 --> 00:57:58.880]   [NO AUDIO]
+[00:57:58.880 --> 00:58:06.880]   [NO AUDIO]
+[00:58:07.880 --> 00:58:10.880]   [NO AUDIO]
+[00:58:10.880 --> 00:58:18.880]   [NO AUDIO]
+[00:58:18.880 --> 00:58:26.880]   [NO AUDIO]
+[00:58:26.880 --> 00:58:34.880]   [NO AUDIO]
+[00:58:35.880 --> 00:58:38.880]   [NO AUDIO]
+[00:58:38.880 --> 00:58:46.880]   [NO AUDIO]
+[00:58:46.880 --> 00:58:54.880]   [NO AUDIO]
+[00:58:54.880 --> 00:59:02.880]   [NO AUDIO]
+[00:59:03.880 --> 00:59:06.880]   [NO AUDIO]
+[00:59:06.880 --> 00:59:14.880]   [NO AUDIO]
+[00:59:14.880 --> 00:59:22.880]   [NO AUDIO]
+[00:59:22.880 --> 00:59:30.880]   [NO AUDIO]
+[00:59:31.880 --> 00:59:34.880]   [NO AUDIO]
+[00:59:34.880 --> 00:59:42.880]   [NO AUDIO]
+[00:59:42.880 --> 00:59:50.880]   [NO AUDIO]
+[00:59:50.880 --> 00:59:58.880]   [NO AUDIO]
+[00:59:59.880 --> 01:00:02.880]   [NO AUDIO]
+[01:00:02.880 --> 01:00:10.880]   [NO AUDIO]
+[01:00:10.880 --> 01:00:18.880]   [NO AUDIO]
+[01:00:18.880 --> 01:00:26.880]   [NO AUDIO]
+[01:00:27.880 --> 01:00:30.880]   [NO AUDIO]
+[01:00:30.880 --> 01:00:38.880]   [NO AUDIO]
+[01:00:38.880 --> 01:00:46.880]   [NO AUDIO]
+[01:00:46.880 --> 01:00:54.880]   [NO AUDIO]
+[01:00:55.880 --> 01:00:58.880]   [NO AUDIO]
+[01:00:58.880 --> 01:01:06.880]   [NO AUDIO]
+[01:01:06.880 --> 01:01:14.880]   [NO AUDIO]
+[01:01:14.880 --> 01:01:22.880]   [NO AUDIO]
+[01:01:23.880 --> 01:01:26.880]   [NO AUDIO]
+[01:01:26.880 --> 01:01:34.880]   [NO AUDIO]
+[01:01:34.880 --> 01:01:40.880]   [NO AUDIO]
+[01:01:40.880 --> 01:01:47.880]   [NO AUDIO]
+[01:01:47.880 --> 01:01:50.880]   [NO AUDIO]
+[01:01:50.880 --> 01:01:57.880]   [NO AUDIO]
+[01:01:57.880 --> 01:02:04.880]   [NO AUDIO]
+[01:02:04.880 --> 01:02:11.880]   [NO AUDIO]
+[01:02:16.880 --> 01:02:19.880]   [NO AUDIO]
+[01:02:19.880 --> 01:02:28.880]   [NO AUDIO]
+[01:02:28.880 --> 01:02:36.880]   [NO AUDIO]
+[01:02:36.880 --> 01:02:44.880]   [NO AUDIO]
+[01:02:45.880 --> 01:02:48.880]   [NO AUDIO]
+[01:02:48.880 --> 01:02:56.880]   [NO AUDIO]
+[01:02:56.880 --> 01:03:04.880]   [NO AUDIO]
+[01:03:04.880 --> 01:03:12.880]   [NO AUDIO]
+[01:03:12.880 --> 01:03:15.880]   [NO AUDIO]
+[01:03:15.880 --> 01:03:23.880]   [NO AUDIO]
+[01:03:23.880 --> 01:03:33.880]   [NO AUDIO]
+[01:03:33.880 --> 01:03:40.880]   [NO AUDIO]
+[01:03:40.880 --> 01:03:43.880]   [NO AUDIO]
+[01:03:43.880 --> 01:03:53.880]   [NO AUDIO]
+[01:03:53.880 --> 01:04:08.880]   All right, if we can have the people in the rooms come back out.
+[01:04:08.880 --> 01:04:11.880]   [NO AUDIO]
+[01:04:11.880 --> 01:04:18.880]   [NO AUDIO]
+[01:04:18.880 --> 01:04:26.880]   [NO AUDIO]
+[01:04:26.880 --> 01:04:33.880]   [NO AUDIO]
+[01:04:33.880 --> 01:04:36.880]   [NO AUDIO]
+[01:04:36.880 --> 01:04:47.880]   [NO AUDIO]
+[01:04:47.880 --> 01:04:56.880]   [NO AUDIO]
+[01:04:56.880 --> 01:04:59.880]   [NO AUDIO]
+[01:04:59.880 --> 01:05:12.880]   All right, if we can have the people in the rooms come back out.
+[01:05:12.880 --> 01:05:15.880]   We're going to get started.
+[01:05:15.880 --> 01:05:18.880]   [NO AUDIO]
+[01:05:18.880 --> 01:05:21.880]   [NO AUDIO]
+[01:05:21.880 --> 01:05:27.880]   [NO AUDIO]
+[01:05:27.880 --> 01:05:40.880]   [NO AUDIO]
+[01:05:40.880 --> 01:05:43.880]   [NO AUDIO]
+[01:05:43.880 --> 01:05:58.880]   [NO AUDIO]
+[01:05:58.880 --> 01:06:08.880]   All right, we're second to the last
+[01:06:08.880 --> 01:06:11.880]   of the passages that we're going to be looking at
+[01:06:11.880 --> 01:06:14.880]   before we wrap up. So we have this week,
+[01:06:14.880 --> 01:06:17.880]   and then we have one more week next week, and then the week,
+[01:06:17.880 --> 01:06:20.880]   the final week is basically going to be a wrap-up study.
+[01:06:20.880 --> 01:06:23.880]   Okay? And so the wrap-up study is important because
+[01:06:23.880 --> 01:06:26.880]   we don't want you to just finish the study and
+[01:06:26.880 --> 01:06:29.880]   kind of like, "Oh, we went through the text," but we want you to be
+[01:06:29.880 --> 01:06:32.880]   able to, after four months later, and I say,
+[01:06:32.880 --> 01:06:35.880]   "Chapter 3, 2 Peter," like, "What's it about?"
+[01:06:35.880 --> 01:06:38.880]   Right? And if somebody brings up a subject like,
+[01:06:38.880 --> 01:06:41.880]   "Is there a book that I can study on the last days
+[01:06:41.880 --> 01:06:44.880]   or about false prophets? What's a book that you would recommend
+[01:06:44.880 --> 01:06:47.880]   or what's a chapter?" And so you can flip over to that
+[01:06:47.880 --> 01:06:50.880]   and then you can kind of, you know, recollect some of the things
+[01:06:50.880 --> 01:06:53.880]   that you studied. So it's not just something that you just have a notch
+[01:06:53.880 --> 01:06:56.880]   under your belt that you did. That's something that you can actually
+[01:06:56.880 --> 01:06:59.880]   use, practically speaking. Okay? All right, so let me pray
+[01:06:59.880 --> 01:07:02.880]   for us and then we'll jump into the text.
+[01:07:02.880 --> 01:07:05.880]   Heavenly Father, we thank you for your
+[01:07:05.880 --> 01:07:08.880]   continued grace and love. We pray that your word
+[01:07:08.880 --> 01:07:11.880]   would truly speak to us. And we know, Father God,
+[01:07:11.880 --> 01:07:14.880]   that your word and what you've given us
+[01:07:14.880 --> 01:07:17.880]   is sufficient and that everything
+[01:07:17.880 --> 01:07:20.880]   for life of godliness that you've given to us in the knowledge of his Son.
+[01:07:20.880 --> 01:07:23.880]   And so we pray, Father God, that you would bless this time,
+[01:07:23.880 --> 01:07:26.880]   help us to glean from it and
+[01:07:26.880 --> 01:07:29.880]   gain insight, and not only for knowledge
+[01:07:29.880 --> 01:07:32.880]   but for purpose of sanctification. In Jesus' name we pray.
+[01:07:32.880 --> 01:07:35.880]   Amen. All right.
+[01:07:35.880 --> 01:07:38.880]   So as you guys know, 2 Peter is
+[01:07:38.880 --> 01:07:41.880]   Peter's last letter that he writes.
+[01:07:41.880 --> 01:07:44.880]   Right? Before he...
+[01:07:44.880 --> 01:07:47.880]   Right after this, he gets arrested. According to church tradition,
+[01:07:47.880 --> 01:07:50.880]   he gets arrested, he gets martyred, and he gets
+[01:07:50.880 --> 01:07:53.880]   beheaded. Right? And he gets beheaded and that's it. And he
+[01:07:53.880 --> 01:07:56.880]   knows this is coming. We saw that in the letter. He mentions it.
+[01:07:56.880 --> 01:07:59.880]   Right? He knows that the end is coming. So, this is
+[01:07:59.880 --> 01:08:02.880]   the last section of the last letter that he's writing.
+[01:08:02.880 --> 01:08:05.880]   So imagine in your mind, if you're writing a
+[01:08:05.880 --> 01:08:08.880]   letter to a bunch of your disciples and this is the very
+[01:08:08.880 --> 01:08:11.880]   last thing you're going to say to them and they know that trouble
+[01:08:11.880 --> 01:08:14.880]   is coming, obviously he's going to die because of persecution
+[01:08:14.880 --> 01:08:17.880]   coming. And they're not going to just come after
+[01:08:17.880 --> 01:08:20.880]   Peter. They're going to come after Peter's disciples. They're going to come after the churches.
+[01:08:20.880 --> 01:08:23.880]   And so this is the last section
+[01:08:23.880 --> 01:08:26.880]   of the last letter he writes before he gets beheaded.
+[01:08:26.880 --> 01:08:29.880]   Or not beheaded. Sorry. He gets crucified upside down.
+[01:08:29.880 --> 01:08:32.880]   Paul is the one who's beheaded. Nobody said anything when I said
+[01:08:32.880 --> 01:08:35.880]   beheaded. Okay? So, you can
+[01:08:35.880 --> 01:08:38.880]   kind of, you know, like consider the weightiness of what he is
+[01:08:38.880 --> 01:08:41.880]   saying. So, he's wrapping up what he is saying,
+[01:08:41.880 --> 01:08:44.880]   right, in the three chapters and basically telling them
+[01:08:44.880 --> 01:08:47.880]   like, remember this. If you forget everything,
+[01:08:47.880 --> 01:08:50.880]   you know, remember this. Right? So,
+[01:08:50.880 --> 01:08:53.880]   as you know, he, the purpose of this
+[01:08:53.880 --> 01:08:56.880]   is since all these things are to be destroyed in this way, what
+[01:08:56.880 --> 01:08:59.880]   sort of people ought you to be? And this is sort of the conclusion
+[01:08:59.880 --> 01:09:02.880]   of everything that he's saying. So, he wasn't just trying to give them
+[01:09:02.880 --> 01:09:05.880]   information, but through the information to do what?
+[01:09:05.880 --> 01:09:08.880]   So, they could live a certain way. Right?
+[01:09:08.880 --> 01:09:11.880]   They would not be afraid that even if persecution
+[01:09:11.880 --> 01:09:14.880]   comes and even if they end up dying for their faith
+[01:09:14.880 --> 01:09:17.880]   to remember that Christ is coming.
+[01:09:17.880 --> 01:09:20.880]   Right? And so, as a result of that,
+[01:09:20.880 --> 01:09:23.880]   how should you live? Not simply how should you think,
+[01:09:23.880 --> 01:09:26.880]   but how should you live? You should think this way so you can
+[01:09:26.880 --> 01:09:29.880]   live this way. Right? So, if all
+[01:09:29.880 --> 01:09:32.880]   Bible study is, is helping you
+[01:09:32.880 --> 01:09:35.880]   to understand what the Bible says, it actually does
+[01:09:35.880 --> 01:09:38.880]   more harm than good. People
+[01:09:38.880 --> 01:09:41.880]   who are not walking right with God, filling them
+[01:09:41.880 --> 01:09:44.880]   with more knowledge actually causes you to be
+[01:09:44.880 --> 01:09:47.880]   proud. Right? It causes you to be
+[01:09:47.880 --> 01:09:50.880]   proud. So, proud people, you add more knowledge, it actually does
+[01:09:50.880 --> 01:09:53.880]   more damage. So, at the end of the day, Peter is
+[01:09:53.880 --> 01:09:56.880]   not trying to get more information into them. The information
+[01:09:56.880 --> 01:09:59.880]   has practical application. Right? So, the question that we need to ask
+[01:09:59.880 --> 01:10:02.880]   ourselves is, how does your life get affected
+[01:10:02.880 --> 01:10:05.880]   by the text that you're looking at? Other than the fact
+[01:10:05.880 --> 01:10:08.880]   that you have to study and then you have to study next week and the week after that.
+[01:10:08.880 --> 01:10:11.880]   Outside of that, how does it affect? And so, one of the discussion
+[01:10:11.880 --> 01:10:14.880]   questions that we'll have at the end is, specifically, how
+[01:10:14.880 --> 01:10:17.880]   does the end times, the thought of end times, does that
+[01:10:17.880 --> 01:10:20.880]   have any practical effect on your life? Okay?
+[01:10:20.880 --> 01:10:23.880]   So, this is what Peter was trying to get at. Right?
+[01:10:23.880 --> 01:10:26.880]   What sort of people should you be
+[01:10:26.880 --> 01:10:29.880]   considering the destruction that's coming? Right? The
+[01:10:29.880 --> 01:10:32.880]   judgment that's coming. So, in the previous week
+[01:10:32.880 --> 01:10:35.880]   where I was in here, in verse 10, just as a review,
+[01:10:35.880 --> 01:10:38.880]   it says, "But the day of the Lord will come like a thief
+[01:10:38.880 --> 01:10:41.880]   in which the heavens will pass away with a roar and the
+[01:10:41.880 --> 01:10:44.880]   elements will be destroyed with intense heat and the earth
+[01:10:44.880 --> 01:10:47.880]   and its works will be burned up."
+[01:10:47.880 --> 01:10:50.880]   In other words, everything that you're concerned about, everything that you're
+[01:10:50.880 --> 01:10:53.880]   worried about losing is going to be destroyed.
+[01:10:53.880 --> 01:10:56.880]   Right? So, don't be afraid of that.
+[01:10:56.880 --> 01:10:59.880]   Don't be afraid of losing whatever it is that you're working
+[01:10:59.880 --> 01:11:02.880]   so hard to get because in the end it's going to be burned up anyway.
+[01:11:02.880 --> 01:11:05.880]   Right? So, considering that, when
+[01:11:05.880 --> 01:11:08.880]   Christ comes, all things are going to be made new.
+[01:11:08.880 --> 01:11:11.880]   What kind of person ought you to be in
+[01:11:11.880 --> 01:11:14.880]   holy conduct and godliness? So, what is the difference between holy conduct
+[01:11:14.880 --> 01:11:17.880]   and godliness? Right? So, when you do an
+[01:11:17.880 --> 01:11:20.880]   inductive Bible study, hopefully you are asking these questions, right?
+[01:11:20.880 --> 01:11:23.880]   What's the difference between the two? These are the questions that you
+[01:11:23.880 --> 01:11:26.880]   should be asking in order to gain insight.
+[01:11:26.880 --> 01:11:29.880]   Can somebody, did you find anything, the difference between
+[01:11:29.880 --> 01:11:32.880]   the two?
+[01:11:32.880 --> 01:11:35.880]   Can you have one without the other?
+[01:11:35.880 --> 01:11:38.880]   Yes and no.
+[01:11:38.880 --> 01:11:41.880]   Okay. Hopefully you had
+[01:11:41.880 --> 01:11:44.880]   some time to look it up, right? These words. Holy conduct
+[01:11:44.880 --> 01:11:47.880]   basically is external.
+[01:11:47.880 --> 01:11:50.880]   Right? It's how you live.
+[01:11:50.880 --> 01:11:53.880]   Godliness
+[01:11:53.880 --> 01:11:56.880]   is more holistic.
+[01:11:56.880 --> 01:12:04.880]   It's
+[01:12:04.880 --> 01:12:07.880]   reference to piety. It includes piety.
+[01:12:07.880 --> 01:12:10.880]   Right? Devotion.
+[01:12:10.880 --> 01:12:13.880]   But the larger definition,
+[01:12:13.880 --> 01:12:16.880]   it says
+[01:12:16.880 --> 01:12:19.880]   whole of true
+[01:12:19.880 --> 01:12:22.880]   religion. This is what it says in the
+[01:12:22.880 --> 01:12:25.880]   Bible dictionary. In the words of the
+[01:12:25.880 --> 01:12:28.880]   Bible. In the word study. Right? Whole of
+[01:12:28.880 --> 01:12:31.880]   true religion. Meaning godliness
+[01:12:31.880 --> 01:12:34.880]   is reference to our whole conduct. Inward and
+[01:12:34.880 --> 01:12:37.880]   outward. Toward God and toward one another.
+[01:12:37.880 --> 01:12:40.880]   Holy conduct is specifically the way that you are behaving.
+[01:12:40.880 --> 01:12:43.880]   Right? So, can you have one without the other?
+[01:12:43.880 --> 01:12:48.880]   Can you have
+[01:12:48.880 --> 01:12:51.880]   holy conduct without godliness?
+[01:12:51.880 --> 01:12:54.880]   Yes, you can. Right? You can behave
+[01:12:54.880 --> 01:12:57.880]   a certain way and change your external behavior without
+[01:12:57.880 --> 01:13:00.880]   being godly. Right? Who are those people?
+[01:13:00.880 --> 01:13:03.880]   Pharisees.
+[01:13:03.880 --> 01:13:06.880]   Right? They're really good at following
+[01:13:06.880 --> 01:13:09.880]   rules. But they weren't godly people.
+[01:13:09.880 --> 01:13:12.880]   Right? God, can you have
+[01:13:12.880 --> 01:13:15.880]   godliness without holy conduct?
+[01:13:15.880 --> 01:13:18.880]   No, you can't.
+[01:13:18.880 --> 01:13:21.880]   Because godliness encompasses holy conduct.
+[01:13:21.880 --> 01:13:24.880]   Right? Because godliness is reference to your whole being.
+[01:13:24.880 --> 01:13:27.880]   Right? And so, he's saying that in
+[01:13:27.880 --> 01:13:30.880]   these last days, right, not only in your
+[01:13:30.880 --> 01:13:33.880]   external behavior but in everything else, right,
+[01:13:33.880 --> 01:13:36.880]   how should you behave? Looking and
+[01:13:36.880 --> 01:13:39.880]   hastening. So, this word
+[01:13:39.880 --> 01:13:42.880]   keeps coming up here. Looking. Looking.
+[01:13:42.880 --> 01:13:45.880]   If you go to the next verse, right, beloved
+[01:13:45.880 --> 01:13:48.880]   since you are looking for these things. So, over and over
+[01:13:48.880 --> 01:13:51.880]   again. So, what is this idea of looking?
+[01:13:51.880 --> 01:13:54.880]   And what's the
+[01:13:54.880 --> 01:13:57.880]   difference between looking and hastening?
+[01:13:57.880 --> 01:14:10.880]   I'm trying to figure out if you are afraid to speak or you didn't do it.
+[01:14:10.880 --> 01:14:13.880]   Looking has the idea of hoping.
+[01:14:13.880 --> 01:14:16.880]   Right?
+[01:14:16.880 --> 01:14:19.880]   Your inner being of what you're thinking about
+[01:14:19.880 --> 01:14:22.880]   the future. Hoping. Hastening is reference to
+[01:14:22.880 --> 01:14:26.880]   action. Right? Did you find that?
+[01:14:26.880 --> 01:14:29.880]   In your word study. If you just go back and look up
+[01:14:29.880 --> 01:14:32.880]   the words, this is what it says in the dictionary.
+[01:14:32.880 --> 01:14:35.880]   Okay? Not English dictionary but the
+[01:14:35.880 --> 01:14:38.880]   Greek dictionary. That's one of the key things that you want to have when you're
+[01:14:38.880 --> 01:14:41.880]   doing inductive Bible study. Right? So, when you look it up,
+[01:14:41.880 --> 01:14:44.880]   it's hoping. So, in your conduct, in your godliness,
+[01:14:44.880 --> 01:14:47.880]   it begins with hope.
+[01:14:47.880 --> 01:14:50.880]   Right? So, if the coming of the end,
+[01:14:50.880 --> 01:14:53.880]   the day of the Lord, day of God, day of Christ,
+[01:14:53.880 --> 01:14:56.880]   right, and all of those words are used
+[01:14:56.880 --> 01:14:59.880]   interchangeably. Okay? There are some people
+[01:14:59.880 --> 01:15:02.880]   who will tell you, well, day of Christ means this, day of God means this, and day of the
+[01:15:02.880 --> 01:15:05.880]   Lord means this. If you look at all the
+[01:15:05.880 --> 01:15:08.880]   verses and how it's used, typically it's used interchangeably.
+[01:15:08.880 --> 01:15:11.880]   There's no specific line. Okay?
+[01:15:11.880 --> 01:15:14.880]   So, when the day of God comes,
+[01:15:14.880 --> 01:15:18.880]   right, if you're not hoping, you're not going to be hastening.
+[01:15:18.880 --> 01:15:21.880]   Right? Because if you're hastening,
+[01:15:21.880 --> 01:15:24.880]   right, if you're taking action without hoping,
+[01:15:24.880 --> 01:15:27.880]   what is your life going to look like?
+[01:15:27.880 --> 01:15:30.880]   Probably holy conduct without godliness.
+[01:15:30.880 --> 01:15:34.880]   You understand what I'm saying?
+[01:15:34.880 --> 01:15:37.880]   Right? You're changing your behavior but your
+[01:15:37.880 --> 01:15:40.880]   inner person is not changing because your motivation
+[01:15:40.880 --> 01:15:43.880]   is not because of his coming.
+[01:15:43.880 --> 01:15:46.880]   Right? You're not inwardly being motivated.
+[01:15:46.880 --> 01:15:49.880]   You're outwardly being motivated. So, that's why he says
+[01:15:49.880 --> 01:15:52.880]   considering the destruction, considering that all things are going to be
+[01:15:52.880 --> 01:15:55.880]   gone, that Christ is coming, right,
+[01:15:55.880 --> 01:15:58.880]   in your holy conduct, inside and out, in
+[01:15:58.880 --> 01:16:01.880]   who you are, in hoping,
+[01:16:01.880 --> 01:16:04.880]   right, in your hoping, hasten,
+[01:16:04.880 --> 01:16:07.880]   action, take action.
+[01:16:07.880 --> 01:16:10.880]   Because the coming of the day of God is coming.
+[01:16:10.880 --> 01:16:13.880]   Right? Now,
+[01:16:13.880 --> 01:16:16.880]   almost everybody
+[01:16:16.880 --> 01:16:21.880]   believes, Christian or non-Christians, believe the end is coming.
+[01:16:21.880 --> 01:16:24.880]   Right?
+[01:16:24.880 --> 01:16:27.880]   Yes or no? Right? Almost everybody.
+[01:16:27.880 --> 01:16:30.880]   Whether you think it's going to come because of war,
+[01:16:30.880 --> 01:16:33.880]   right, some people may say maybe we're going to have
+[01:16:33.880 --> 01:16:36.880]   World War III and nuclear bombs are going to go off and
+[01:16:36.880 --> 01:16:39.880]   there's going to be an end. So, everybody's afraid of
+[01:16:39.880 --> 01:16:42.880]   World War III. There's some people
+[01:16:42.880 --> 01:16:45.880]   who say that because of climate change, right,
+[01:16:45.880 --> 01:16:48.880]   and some alarmists are saying that this is going to happen
+[01:16:48.880 --> 01:16:51.880]   in the next 10, 15 years if you don't change the course of
+[01:16:51.880 --> 01:16:54.880]   time, you know, the earth is going to burn up so the end is going to
+[01:16:54.880 --> 01:16:57.880]   come. Right? Or there's going to be
+[01:16:57.880 --> 01:17:00.880]   some sort of asteroids the size of
+[01:17:00.880 --> 01:17:03.880]   California is going to hit earth one day and then we're going to blow up
+[01:17:03.880 --> 01:17:06.880]   and we're going to disappear. Or maybe the aliens
+[01:17:06.880 --> 01:17:09.880]   are going to come, you know, and they're going to take over.
+[01:17:09.880 --> 01:17:12.880]   Or maybe AI is going to come and they can take over.
+[01:17:12.880 --> 01:17:15.880]   So, the talk of the end, depending on who you talk to,
+[01:17:15.880 --> 01:17:18.880]   everybody has some idea,
+[01:17:18.880 --> 01:17:21.880]   right, whatever your people may believe,
+[01:17:21.880 --> 01:17:24.880]   that clearly there's any,
+[01:17:24.880 --> 01:17:27.880]   anything can happen that can bring the end.
+[01:17:27.880 --> 01:17:30.880]   So, if you are afraid of nuclear
+[01:17:30.880 --> 01:17:33.880]   war, right, being politics, then
+[01:17:33.880 --> 01:17:36.880]   what's going to end up happening? You're going to get really into politics.
+[01:17:36.880 --> 01:17:39.880]   Right? You're going to say, "What's America doing?
+[01:17:39.880 --> 01:17:42.880]   What's China doing? What's Iran doing? What's Russia doing?"
+[01:17:42.880 --> 01:17:45.880]   And so you're going to be paying very close attention to that because
+[01:17:45.880 --> 01:17:48.880]   you're afraid that if something goes wrong here
+[01:17:48.880 --> 01:17:51.880]   that the end is going to come. There's a lot
+[01:17:51.880 --> 01:17:54.880]   of people, right, whatever your
+[01:17:54.880 --> 01:17:57.880]   opinion may be, thinks that the world is going to end
+[01:17:57.880 --> 01:18:00.880]   if we don't change the way that we use
+[01:18:00.880 --> 01:18:03.880]   fossil fuel and all this stuff. And so we have political
+[01:18:03.880 --> 01:18:06.880]   ideas on that and some people are doing crazy things
+[01:18:06.880 --> 01:18:09.880]   because they think the world is going to come to an end.
+[01:18:09.880 --> 01:18:12.880]   So, most people believe that there
+[01:18:12.880 --> 01:18:15.880]   is going to be some kind of an end. That's why there's all this money being spent
+[01:18:15.880 --> 01:18:18.880]   trying to get to Mars, right? Why are you going to Mars
+[01:18:18.880 --> 01:18:21.880]   if you're not afraid? People are thinking about going to Mars because
+[01:18:21.880 --> 01:18:24.880]   they think at some point there's going to come an end, right?
+[01:18:24.880 --> 01:18:27.880]   So, depending on what you think is going to bring an end,
+[01:18:27.880 --> 01:18:30.880]   that's where you're probably going to spend your energy.
+[01:18:30.880 --> 01:18:33.880]   So, he's saying as Christians, we are told the end
+[01:18:33.880 --> 01:18:36.880]   is coming, right? It's part of
+[01:18:36.880 --> 01:18:39.880]   our belief system. It's part of the gospel
+[01:18:39.880 --> 01:18:42.880]   that we embrace, that end is coming.
+[01:18:42.880 --> 01:18:45.880]   And this end isn't by accident. It's not simply because
+[01:18:45.880 --> 01:18:48.880]   we're driving cars or riding planes. It says it's
+[01:18:48.880 --> 01:18:51.880]   going to be a deliberate judgment from God, right?
+[01:18:51.880 --> 01:18:54.880]   That's what it says. And so, because the end
+[01:18:54.880 --> 01:18:57.880]   is coming, how should you behave?
+[01:18:57.880 --> 01:19:00.880]   So, in other words, if the end is coming,
+[01:19:00.880 --> 01:19:03.880]   our natural thought is going to be,
+[01:19:03.880 --> 01:19:06.880]   how are we going to survive that?
+[01:19:06.880 --> 01:19:09.880]   If you think it's climate change, you have to change the climate. If you think it's nuclear war,
+[01:19:09.880 --> 01:19:12.880]   you have to get rid of nuclear weapons. If you think it's
+[01:19:12.880 --> 01:19:15.880]   aliens, find them and destroy them first, right?
+[01:19:15.880 --> 01:19:18.880]   Whatever it may be, if you think
+[01:19:18.880 --> 01:19:21.880]   the end is coming, your natural response to that is, how are we going
+[01:19:21.880 --> 01:19:24.880]   to survive that? And so, he's saying as
+[01:19:24.880 --> 01:19:27.880]   Christians, he said he made it very clear
+[01:19:27.880 --> 01:19:30.880]   that these ends come. In fact, if we look at these texts,
+[01:19:30.880 --> 01:19:33.880]   Peter says it,
+[01:19:33.880 --> 01:19:36.880]   he started the first letter this way, "Therefore, prepare your minds
+[01:19:36.880 --> 01:19:39.880]   for action, keep sober in spirit, fix your hope completely
+[01:19:39.880 --> 01:19:42.880]   on the grace to be brought to you at the revelation of Jesus Christ."
+[01:19:42.880 --> 01:19:45.880]   And then based on the grace that's going to
+[01:19:45.880 --> 01:19:48.880]   be brought to you, how should you live?
+[01:19:48.880 --> 01:19:51.880]   In Romans chapter 8,
+[01:19:51.880 --> 01:19:54.880]   we are given, again, this is a very
+[01:19:54.880 --> 01:19:57.880]   small snippet of, remember when we were going through Revelation,
+[01:19:57.880 --> 01:20:00.880]   a lot of you guys who are here,
+[01:20:00.880 --> 01:20:03.880]   a whole book of Revelation is a reminder to us,
+[01:20:03.880 --> 01:20:06.880]   it gives us a visual picture of how this is going to end.
+[01:20:06.880 --> 01:20:09.880]   Remember the three judgments?
+[01:20:09.880 --> 01:20:12.880]   Seven, seven, seven judgments in the book of Revelation.
+[01:20:12.880 --> 01:20:15.880]   What is the first set of judgments that come?
+[01:20:15.880 --> 01:20:18.880]   The seal judgments, and then the seventh seal
+[01:20:18.880 --> 01:20:21.880]   opens up which set of seven?
+[01:20:21.880 --> 01:20:24.880]   Trumpet judgments. And then on the seventh trumpet,
+[01:20:24.880 --> 01:20:27.880]   what judgments come? Seven bowls judgment.
+[01:20:27.880 --> 01:20:30.880]   So, if you remember, as we were studying, the judgment gets much more
+[01:20:30.880 --> 01:20:33.880]   intense as we go. So, Revelation 8
+[01:20:33.880 --> 01:20:36.880]   is right in the middle of that, the trumpet judgments.
+[01:20:36.880 --> 01:20:39.880]   And this is how it's described, "For I consider that the sufferings
+[01:20:39.880 --> 01:20:42.880]   of this present time are not worthy to be compared with the
+[01:20:42.880 --> 01:20:45.880]   glory that is to be revealed to us. For the anxious
+[01:20:45.880 --> 01:20:48.880]   longing of the creation waits eagerly for the revealing
+[01:20:48.880 --> 01:20:51.880]   of the sons of God. For the creation was subjected
+[01:20:51.880 --> 01:20:54.880]   to futility." Sorry, this is, I'm going to get to the other verse.
+[01:20:54.880 --> 01:20:57.880]   "Not willingly, but because of him who
+[01:20:57.880 --> 01:21:00.880]   subjected it in hope that the creation itself also would be set
+[01:21:00.880 --> 01:21:03.880]   free from slavery to corruption into the freedom
+[01:21:03.880 --> 01:21:06.880]   of the glory of the children of God. For we know that the whole creation
+[01:21:06.880 --> 01:21:09.880]   groans and suffers pains the child were together until now."
+[01:21:09.880 --> 01:21:12.880]   Okay? I don't know if you've ever
+[01:21:12.880 --> 01:21:15.880]   studied this passage before, but the Bible says
+[01:21:15.880 --> 01:21:18.880]   that creation is also under the judgment as
+[01:21:18.880 --> 01:21:21.880]   man is under judgment because we were created to
+[01:21:21.880 --> 01:21:24.880]   be the subduers of the land. So, when we were corrupted,
+[01:21:24.880 --> 01:21:27.880]   the Bible says that the earth also was corrupted.
+[01:21:27.880 --> 01:21:30.880]   And so, before the fall, before sin came
+[01:21:30.880 --> 01:21:33.880]   in, Adam and Eve labored and bore
+[01:21:33.880 --> 01:21:36.880]   fruit. But remember, as a result of sin,
+[01:21:36.880 --> 01:21:39.880]   remember what he said what was going to happen?
+[01:21:39.880 --> 01:21:42.880]   Instead of bearing fruit,
+[01:21:42.880 --> 01:21:45.880]   they're going to bear thorns and thistles. Meaning
+[01:21:45.880 --> 01:21:48.880]   the creation itself was corrupted.
+[01:21:48.880 --> 01:21:51.880]   So, humanly speaking, like we
+[01:21:51.880 --> 01:21:54.880]   see the corruption of creation and we're trying to fix it by
+[01:21:54.880 --> 01:21:57.880]   not riding airplanes and not burning fuel.
+[01:21:57.880 --> 01:22:00.880]   But the Bible says the creation was corrupted along with us.
+[01:22:00.880 --> 01:22:03.880]   And it's eagerly waiting for the sons of man to appear. Meaning
+[01:22:03.880 --> 01:22:06.880]   restoration to happen to us so that the creation
+[01:22:06.880 --> 01:22:09.880]   itself will be restored. Creation will
+[01:22:09.880 --> 01:22:12.880]   not be restored until what's taken care of. Not
+[01:22:12.880 --> 01:22:15.880]   we become better stewards of the planet.
+[01:22:15.880 --> 01:22:18.880]   No, better stewards of our souls.
+[01:22:18.880 --> 01:22:21.880]   Right? When God restores our souls
+[01:22:21.880 --> 01:22:24.880]   to what God intended, He will restore us back
+[01:22:24.880 --> 01:22:27.880]   into what He intended. Both man and
+[01:22:27.880 --> 01:22:30.880]   creation. Right? That's why
+[01:22:30.880 --> 01:22:33.880]   it...
+[01:22:33.880 --> 01:22:36.880]   What was that passage?
+[01:22:36.880 --> 01:22:39.880]   In Revelation 8, 7, 3, this is the trumpet judgment.
+[01:22:39.880 --> 01:22:42.880]   So the first sounded and came hail
+[01:22:42.880 --> 01:22:45.880]   and fire mixed with blood and they were thrown to the
+[01:22:45.880 --> 01:22:48.880]   earth and third of the earth was burned, burned up and the third of
+[01:22:48.880 --> 01:22:51.880]   the trees were burned up and all the green grass was burned up. You notice
+[01:22:51.880 --> 01:22:54.880]   how much he says burning. The second angel sounded
+[01:22:54.880 --> 01:22:57.880]   and something like a great mountain burning with fire was thrown into the sea
+[01:22:57.880 --> 01:23:00.880]   and a third of the sea became blood. Third of the creatures which were
+[01:23:00.880 --> 01:23:03.880]   in the sea had life, died and the third of ships
+[01:23:03.880 --> 01:23:06.880]   were destroyed. The third angel sounded and a great star
+[01:23:06.880 --> 01:23:09.880]   fell from heaven burning like a torch and it fell on the third
+[01:23:09.880 --> 01:23:12.880]   of the rivers. And again, over and over again, here
+[01:23:12.880 --> 01:23:15.880]   the emphasis on burning.
+[01:23:15.880 --> 01:23:18.880]   Right? So if you look here
+[01:23:18.880 --> 01:23:21.880]   he says because of which the heavens will be destroyed
+[01:23:21.880 --> 01:23:24.880]   by burning, right? And that specific
+[01:23:24.880 --> 01:23:27.880]   passage that we're talking about is in reference to this and the
+[01:23:27.880 --> 01:23:30.880]   elements will melt. Right?
+[01:23:30.880 --> 01:23:33.880]   Now, I heard some people
+[01:23:33.880 --> 01:23:36.880]   asking the question why is the heaven in plural?
+[01:23:36.880 --> 01:23:39.880]   Right?
+[01:23:39.880 --> 01:23:42.880]   There's no big reason.
+[01:23:42.880 --> 01:23:45.880]   Okay, I don't know if you had deep theological discussions about the
+[01:23:45.880 --> 01:23:48.880]   S here. If you look up the word heavens
+[01:23:48.880 --> 01:23:51.880]   right? In plural, it will say
+[01:23:51.880 --> 01:23:54.880]   that heavens, singular, and heavens, plural
+[01:23:54.880 --> 01:23:57.880]   is used interchangeably in the Bible. Right?
+[01:23:57.880 --> 01:24:00.880]   So I hope your discussion wasn't too deep.
+[01:24:00.880 --> 01:24:03.880]   Right? It's used interchangeably.
+[01:24:03.880 --> 01:24:06.880]   If you want to get technical, you could technically say
+[01:24:06.880 --> 01:24:09.880]   heavens basically is covering everything
+[01:24:09.880 --> 01:24:12.880]   that is not physical. So you can say it's plural
+[01:24:12.880 --> 01:24:15.880]   for that reason, but if you look up the dictionary it just simply
+[01:24:15.880 --> 01:24:18.880]   says that's just the way it's used sometimes.
+[01:24:18.880 --> 01:24:21.880]   Right? So the heavens
+[01:24:21.880 --> 01:24:24.880]   again, if you want to distinguish the heavens by burning the elements
+[01:24:24.880 --> 01:24:27.880]   basically you probably heard that statement heaven and
+[01:24:27.880 --> 01:24:30.880]   earth, heaven and earth. Right? Heaven and earth basically
+[01:24:30.880 --> 01:24:33.880]   means material and immaterial.
+[01:24:33.880 --> 01:24:36.880]   And it's a way of describing all creation.
+[01:24:36.880 --> 01:24:39.880]   Right? Not just a particular part. It will all melt away
+[01:24:39.880 --> 01:24:42.880]   with intense heat. Right?
+[01:24:42.880 --> 01:24:45.880]   Everything that you value, your clothes,
+[01:24:45.880 --> 01:24:48.880]   your car, your house, everything material will burn
+[01:24:48.880 --> 01:24:51.880]   away. Everything that is not material, the things that you're
+[01:24:51.880 --> 01:24:54.880]   concerned about, your reputation, right?
+[01:24:54.880 --> 01:24:57.880]   Your honor, your glory, all of that is going to be burned.
+[01:24:57.880 --> 01:25:00.880]   That's basically what it's saying. So everything
+[01:25:00.880 --> 01:25:03.880]   that we worry so much about that causes us
+[01:25:03.880 --> 01:25:06.880]   sleeplessness, all of that is going to be gone
+[01:25:06.880 --> 01:25:09.880]   one day. Right?
+[01:25:09.880 --> 01:25:12.880]   So knowing that, what kind of people should
+[01:25:12.880 --> 01:25:15.880]   you be? Right?
+[01:25:15.880 --> 01:25:18.880]   If everything is going to be gone tomorrow, how will it affect
+[01:25:18.880 --> 01:25:21.880]   the way you live today? Would it affect
+[01:25:21.880 --> 01:25:24.880]   your value system? According to the promise, looking
+[01:25:24.880 --> 01:25:27.880]   again, hoping for the new heavens and the
+[01:25:27.880 --> 01:25:30.880]   new earth. Okay? And this
+[01:25:30.880 --> 01:25:33.880]   statement here, new heavens and new earth, is
+[01:25:33.880 --> 01:25:36.880]   a restoration back to what God intended.
+[01:25:36.880 --> 01:25:39.880]   Right? And this language is all over. If you looked it up, you
+[01:25:39.880 --> 01:25:42.880]   probably have found it all over.
+[01:25:42.880 --> 01:25:45.880]   Isaiah 65, 17, "For behold, I create
+[01:25:45.880 --> 01:25:48.880]   new heavens and new earth, and the former things will
+[01:25:48.880 --> 01:25:51.880]   not be remembered." Right? It's talking
+[01:25:51.880 --> 01:25:54.880]   about when restoration comes. It says
+[01:25:54.880 --> 01:25:57.880]   Isaiah 66, 22, "For
+[01:25:57.880 --> 01:26:00.880]   just as the new heavens and the new earth which I will make
+[01:26:00.880 --> 01:26:03.880]   endure before me, declares the Lord, so your offspring in your
+[01:26:03.880 --> 01:26:06.880]   name will endure." Right? So
+[01:26:06.880 --> 01:26:09.880]   the old heavens and the old earth will be destroyed.
+[01:26:09.880 --> 01:26:12.880]   Right? It's no longer going to be here, and then
+[01:26:12.880 --> 01:26:15.880]   the new heaven and new earth is where we're going to be dwelling
+[01:26:15.880 --> 01:26:18.880]   for eternity. Okay? So
+[01:26:18.880 --> 01:26:21.880]   obviously different people have different opinions on this,
+[01:26:21.880 --> 01:26:24.880]   but basically if you follow the pattern
+[01:26:24.880 --> 01:26:27.880]   of the book of Revelation, right,
+[01:26:27.880 --> 01:26:30.880]   you have the tribulation. Some people have different opinions
+[01:26:30.880 --> 01:26:33.880]   about when we're raptured, whether it's before or after. But you
+[01:26:33.880 --> 01:26:36.880]   have the seven year tribulation where all those judgments take place.
+[01:26:36.880 --> 01:26:39.880]   After that, Revelation chapter 20 says
+[01:26:39.880 --> 01:26:42.880]   that the millennial kingdom will come. That's where all the
+[01:26:42.880 --> 01:26:45.880]   promises that He made to the nation of Israel is fulfilled.
+[01:26:45.880 --> 01:26:48.880]   And the genuine believers are there as co-heirs
+[01:26:48.880 --> 01:26:51.880]   for the thousand years. And after a
+[01:26:51.880 --> 01:26:54.880]   thousand years Satan is bound, and then he will
+[01:26:54.880 --> 01:26:57.880]   be released again to deceive, and then the judgment
+[01:26:57.880 --> 01:27:00.880]   comes. And then after the judgment comes, we
+[01:27:00.880 --> 01:27:03.880]   enter into chapter 21. So chapter 21
+[01:27:03.880 --> 01:27:06.880]   is a description of the new heavens and the new earth.
+[01:27:06.880 --> 01:27:09.880]   Okay? This is the final state after all
+[01:27:09.880 --> 01:27:12.880]   of that drama, after the millennial kingdom. So new heaven
+[01:27:12.880 --> 01:27:15.880]   and new earth is after the millennial kingdom,
+[01:27:15.880 --> 01:27:18.880]   the final state. And He says, "Then I saw a new
+[01:27:18.880 --> 01:27:21.880]   heaven and a new earth." Again,
+[01:27:21.880 --> 01:27:24.880]   millennial kingdom is in chapter 20. Chapter 21
+[01:27:24.880 --> 01:27:27.880]   is after that. Okay?
+[01:27:27.880 --> 01:27:30.880]   "Heaven at first, earth passed away, and there is no
+[01:27:30.880 --> 01:27:33.880]   longer any sea. And I saw the holy city, Jerusalem,
+[01:27:33.880 --> 01:27:36.880]   coming down out of heaven from God,
+[01:27:36.880 --> 01:27:39.880]   made ready as a bride adorned for
+[01:27:39.880 --> 01:27:42.880]   her husband." So new heaven and new earth is
+[01:27:42.880 --> 01:27:45.880]   here, right? In a different form, right?
+[01:27:45.880 --> 01:27:48.880]   Heaven is not just some place up
+[01:27:48.880 --> 01:27:51.880]   in the sky where you close your eyes and you imagine this heaven. The Bible
+[01:27:51.880 --> 01:27:54.880]   says that heaven is a physical place here.
+[01:27:54.880 --> 01:27:57.880]   But it's going to be in a new form, right?
+[01:27:57.880 --> 01:28:00.880]   So Garden of Eden is going to be restored
+[01:28:00.880 --> 01:28:03.880]   at an even better.
+[01:28:03.880 --> 01:28:06.880]   Okay? And the reason why it's better is because the presence of God
+[01:28:06.880 --> 01:28:09.880]   and His glory is going to be, is going to
+[01:28:09.880 --> 01:28:12.880]   shine even brighter, right? And the Holy Spirit
+[01:28:12.880 --> 01:28:15.880]   is going to be indwelling in us permanently.
+[01:28:15.880 --> 01:28:18.880]   "And I saw the holy city, New Jerusalem, coming down out of heaven
+[01:28:18.880 --> 01:28:21.880]   from God, made ready as a bride adorned for her husband.
+[01:28:21.880 --> 01:28:24.880]   And I heard a loud voice from the throne saying, 'Behold, the
+[01:28:24.880 --> 01:28:27.880]   tabernacle of God is among men, and He will dwell among
+[01:28:27.880 --> 01:28:30.880]   them, and they shall be His people, and God Himself will be among
+[01:28:30.880 --> 01:28:33.880]   them, and He will wipe away every tear.'"
+[01:28:33.880 --> 01:28:36.880]   How much of our tears
+[01:28:36.880 --> 01:28:39.880]   is because of
+[01:28:39.880 --> 01:28:42.880]   heartaches that come from things that we hope
+[01:28:42.880 --> 01:28:45.880]   for here, right?
+[01:28:45.880 --> 01:28:48.880]   Relationships, right? Jobs you didn't get,
+[01:28:48.880 --> 01:28:51.880]   friendships that didn't last. How much of our tears
+[01:28:51.880 --> 01:28:54.880]   are based upon hope and
+[01:28:54.880 --> 01:28:57.880]   yearning for things that don't last, right?
+[01:28:57.880 --> 01:29:00.880]   He said, "When we get to heaven," right? New heaven
+[01:29:00.880 --> 01:29:03.880]   and new earth, "every tear from their eyes, and there will be no
+[01:29:03.880 --> 01:29:06.880]   longer be any death," because we will be in our final state.
+[01:29:06.880 --> 01:29:09.880]   "There will no longer be any mourning,
+[01:29:09.880 --> 01:29:12.880]   no more crying or pain.
+[01:29:12.880 --> 01:29:15.880]   The first things have passed away."
+[01:29:15.880 --> 01:29:18.880]   First things referring to where we are now,
+[01:29:18.880 --> 01:29:21.880]   right? Where Adam and Eve
+[01:29:21.880 --> 01:29:24.880]   brought the curse, and the curse is reversed,
+[01:29:24.880 --> 01:29:27.880]   right? "He will sit on His throne
+[01:29:27.880 --> 01:29:30.880]   and be said, 'Behold, I am making all things new.'"
+[01:29:30.880 --> 01:29:33.880]   He said, "Right, for these
+[01:29:33.880 --> 01:29:36.880]   words are faithful and true. Then He said to me, 'It is done.
+[01:29:36.880 --> 01:29:39.880]   I am the Alpha and Omega, the beginning and the
+[01:29:39.880 --> 01:29:42.880]   end.'" Right? It is done.
+[01:29:42.880 --> 01:29:45.880]   Where else did you hear that in a different form?
+[01:29:45.880 --> 01:29:48.880]   At the cross, right?
+[01:29:48.880 --> 01:29:51.880]   When Jesus says, "It is finished." So that's
+[01:29:51.880 --> 01:29:54.880]   why we said that, remember we talked about the last days?
+[01:29:54.880 --> 01:29:57.880]   It's oftentimes referring to
+[01:29:57.880 --> 01:30:00.880]   everything after that period when Jesus'
+[01:30:00.880 --> 01:30:03.880]   death and resurrection, because everything that was needed for this
+[01:30:03.880 --> 01:30:06.880]   to happen has happened. The only difference now
+[01:30:06.880 --> 01:30:09.880]   is that we are in a period of grace, right?
+[01:30:09.880 --> 01:30:12.880]   For evangelism, to bring other
+[01:30:12.880 --> 01:30:15.880]   sinners to come to Christ, and we'll get to that next week, right?
+[01:30:15.880 --> 01:30:18.880]   "I am the Alpha and Omega, the beginning and the end. I will give
+[01:30:18.880 --> 01:30:21.880]   to the one who thirsts from the spring of the water of life without
+[01:30:21.880 --> 01:30:24.880]   cost, He who overcomes."
+[01:30:24.880 --> 01:30:27.880]   What does it mean to "He who overcomes"?
+[01:30:27.880 --> 01:30:30.880]   Are you
+[01:30:30.880 --> 01:30:33.880]   going to fight and you beat somebody? What does it mean
+[01:30:33.880 --> 01:30:36.880]   "He who overcomes"?
+[01:30:36.880 --> 01:30:39.880]   If our salvation, our reward
+[01:30:39.880 --> 01:30:42.880]   is dependent on those who overcome,
+[01:30:42.880 --> 01:30:45.880]   shouldn't you know what overcoming means?
+[01:30:45.880 --> 01:30:48.880]   What does it mean to
+[01:30:48.880 --> 01:30:51.880]   overcome? And He says
+[01:30:51.880 --> 01:30:54.880]   this repeatedly in Revelation to the churches,
+[01:30:54.880 --> 01:30:57.880]   "He who overcomes, He who overcomes."
+[01:30:57.880 --> 01:31:00.880]   "He who endures
+[01:31:00.880 --> 01:31:03.880]   to the end."
+[01:31:03.880 --> 01:31:06.880]   "Perseveres to the end."
+[01:31:06.880 --> 01:31:09.880]   "He who does not give up." It's not the person who starts,
+[01:31:09.880 --> 01:31:12.880]   it's the one who ends, right?
+[01:31:12.880 --> 01:31:15.880]   So that's why the reformers came up with
+[01:31:15.880 --> 01:31:18.880]   the perseverance of the saints. So the true
+[01:31:18.880 --> 01:31:21.880]   assurance of
+[01:31:21.880 --> 01:31:24.880]   salvation comes from perseverance of the saints.
+[01:31:24.880 --> 01:31:27.880]   If you really believe, you will persevere, right?
+[01:31:27.880 --> 01:31:30.880]   You will inherit these things and I will be His God and He
+[01:31:30.880 --> 01:31:33.880]   will be my Son. And this is the final state.
+[01:31:33.880 --> 01:31:36.880]   So we have one more section that's
+[01:31:36.880 --> 01:31:39.880]   kind of wrapped this up. In fact, the next passage kind of continues this thought
+[01:31:39.880 --> 01:31:42.880]   of what person you ought to be and then He
+[01:31:42.880 --> 01:31:45.880]   kind of warns them or encourages them to pay attention to
+[01:31:45.880 --> 01:31:48.880]   the Scriptures, especially Paul's writings,
+[01:31:48.880 --> 01:31:51.880]   before he says his final goodbye, which will be next
+[01:31:51.880 --> 01:31:54.880]   week. So the question for discussion today
+[01:31:54.880 --> 01:31:57.880]   is, what do you most look forward to
+[01:31:57.880 --> 01:32:00.880]   in the new heavens and the new earth?
+[01:32:00.880 --> 01:32:03.880]   When was the last time you really hoped
+[01:32:03.880 --> 01:32:06.880]   for His second coming? Not just when you're
+[01:32:06.880 --> 01:32:09.880]   tired or you got hurt or you felt like
+[01:32:09.880 --> 01:32:12.880]   somebody disappointed you or you didn't get the job you wanted and it's like,
+[01:32:12.880 --> 01:32:15.880]   "Oh, you know, in heaven." It's almost kind of like your
+[01:32:15.880 --> 01:32:18.880]   escape, right? When things get hard here,
+[01:32:18.880 --> 01:32:21.880]   you kind of want to escape and go to heaven. I'm not talking about that. I'm talking about your
+[01:32:21.880 --> 01:32:24.880]   daily life, right? When things
+[01:32:24.880 --> 01:32:27.880]   are going well, how does
+[01:32:27.880 --> 01:32:31.880]   the coming of Christ affect you, right?
+[01:32:31.880 --> 01:32:34.880]   When your jobs are secure,
+[01:32:34.880 --> 01:32:37.880]   when you have good health and your bills are paid
+[01:32:37.880 --> 01:32:40.880]   and your relationships are good, how does the
+[01:32:40.880 --> 01:32:43.880]   second coming help you? This is the reason why it says it's hard for
+[01:32:43.880 --> 01:32:46.880]   a rich man to enter the kingdom of heaven because a rich man
+[01:32:46.880 --> 01:32:49.880]   does not have external things reminding
+[01:32:49.880 --> 01:32:52.880]   him of hope that's coming because
+[01:32:52.880 --> 01:32:55.880]   they're satisfied, right? So the
+[01:32:55.880 --> 01:32:58.880]   question is, if the
+[01:32:58.880 --> 01:33:01.880]   whole conclusion of Peter's letter is, "What kind of person
+[01:33:01.880 --> 01:33:04.880]   are you going to be considering that you
+[01:33:04.880 --> 01:33:07.880]   profess to believe this?" Right?
+[01:33:07.880 --> 01:33:10.880]   So what is it about the new heaven and new earth that you look
+[01:33:10.880 --> 01:33:13.880]   forward to, right?
+[01:33:13.880 --> 01:33:16.880]   What does hastening of the coming
+[01:33:16.880 --> 01:33:19.880]   of Christ look like in your daily lives?
+[01:33:19.880 --> 01:33:22.880]   What kind of actions do you take? Not just internally,
+[01:33:22.880 --> 01:33:25.880]   I'm hoping for this, but how does that affect you? And this is related to number
+[01:33:25.880 --> 01:33:28.880]   three. How does looking for and hastening the coming of the
+[01:33:28.880 --> 01:33:31.880]   day of God affect the following specifically?
+[01:33:31.880 --> 01:33:34.880]   Does it affect the way you spend your money?
+[01:33:34.880 --> 01:33:37.880]   There's
+[01:33:37.880 --> 01:33:40.880]   two things that you can tell what people value,
+[01:33:40.880 --> 01:33:43.880]   right? And it's 100%
+[01:33:43.880 --> 01:33:46.880]   true. How you spend your money, how you spend your time.
+[01:33:46.880 --> 01:33:49.880]   It reveals where your value is.
+[01:33:49.880 --> 01:33:52.880]   So wherever your treasure is, there your heart will be also, right?
+[01:33:52.880 --> 01:33:55.880]   You want to see where your heart is at?
+[01:33:55.880 --> 01:33:58.880]   Go look at your budget, right?
+[01:33:58.880 --> 01:34:01.880]   So how does it affect your money? How does it affect the way you
+[01:34:01.880 --> 01:34:04.880]   budget? How does it affect the way you spend, right? How does
+[01:34:04.880 --> 01:34:07.880]   it affect the way you give, right?
+[01:34:07.880 --> 01:34:10.880]   How does end times,
+[01:34:10.880 --> 01:34:13.880]   knowing that all this is going to be gone, the way you view
+[01:34:13.880 --> 01:34:16.880]   your job, your career, right?
+[01:34:16.880 --> 01:34:19.880]   Do you see it as a temporary thing? Like if I get a good
+[01:34:19.880 --> 01:34:22.880]   job, I get to get money. And so is it just temporal?
+[01:34:22.880 --> 01:34:25.880]   Is the excitement of getting a new job your next
+[01:34:25.880 --> 01:34:28.880]   paycheck or good retirement? Or is it beyond that?
+[01:34:28.880 --> 01:34:31.880]   Right? Does that have eternal value, right?
+[01:34:31.880 --> 01:34:34.880]   So how does it affect your career? The way you view relationship,
+[01:34:34.880 --> 01:34:37.880]   both Christian and non-Christian, right?
+[01:34:37.880 --> 01:34:40.880]   How does the coming of Christ and destruction of the
+[01:34:40.880 --> 01:34:43.880]   old heaven and earth and new heaven and earth coming,
+[01:34:43.880 --> 01:34:46.880]   how does that affect your relationships?
+[01:34:46.880 --> 01:34:49.880]   Do you have non-Christian friends that you have never
+[01:34:49.880 --> 01:34:52.880]   shared the gospel with, right? If you knew that
+[01:34:52.880 --> 01:34:55.880]   destruction was coming and you're a friend,
+[01:34:55.880 --> 01:34:58.880]   how should that affect your relationship,
+[01:34:58.880 --> 01:35:01.880]   even for Christians, right?
+[01:35:01.880 --> 01:35:04.880]   How does hanging out with other people who believe the
+[01:35:04.880 --> 01:35:07.880]   Bible, how does hanging out with other people who
+[01:35:07.880 --> 01:35:10.880]   believe this, right? And if you're hanging out with
+[01:35:10.880 --> 01:35:13.880]   people who profess to believe this and all you talk about
+[01:35:13.880 --> 01:35:16.880]   is the next movie, next vacation, right?
+[01:35:16.880 --> 01:35:19.880]   That's something we need to consider, right? How does it
+[01:35:19.880 --> 01:35:22.880]   affect my relationships?
+[01:35:22.880 --> 01:35:25.880]   How does it affect the way you spend your time, right?
+[01:35:25.880 --> 01:35:28.880]   When you have a chunk of time, like you got a vacation
+[01:35:28.880 --> 01:35:31.880]   coming up, do you automatically think,
+[01:35:31.880 --> 01:35:34.880]   "I'm going to fulfill my bucket list.
+[01:35:34.880 --> 01:35:37.880]   Where am I going to go? What am I going to eat? What am I going to do?"
+[01:35:37.880 --> 01:35:40.880]   Is that the first and only thing that you think about?
+[01:35:40.880 --> 01:35:43.880]   How does eternal value affect even your
+[01:35:43.880 --> 01:35:46.880]   leisure, right?
+[01:35:46.880 --> 01:35:49.880]   I would think the more we are consumed with this
+[01:35:49.880 --> 01:35:52.880]   thought, that the more it would have a direct
+[01:35:52.880 --> 01:35:55.880]   effect on every one of these things, right?
+[01:35:55.880 --> 01:35:58.880]   The way you raise your children. Some of you guys
+[01:35:58.880 --> 01:36:01.880]   who are raising your children. Are we raising our children
+[01:36:01.880 --> 01:36:04.880]   with eternal goals in mind or are we
+[01:36:04.880 --> 01:36:07.880]   hoping that they'll get a good job,
+[01:36:07.880 --> 01:36:10.880]   get married, have children,
+[01:36:10.880 --> 01:36:13.880]   retire well, have a nice, peaceful
+[01:36:13.880 --> 01:36:16.880]   life without turmoil? Is that the goal
+[01:36:16.880 --> 01:36:19.880]   or are we really raising them with eternal things
+[01:36:19.880 --> 01:36:22.880]   in mind? Are they also preparing for the end?
+[01:36:22.880 --> 01:36:25.880]   Right? Alright, so I want to
+[01:36:25.880 --> 01:36:28.880]   give you guys some time to discuss these things,
+[01:36:28.880 --> 01:36:31.880]   right? The hope and to hasten based upon
+[01:36:31.880 --> 01:36:34.880]   the old earth and old heavens
+[01:36:34.880 --> 01:36:37.880]   disappearing and new heaven and new earth coming.
+[01:36:37.880 --> 01:36:40.880]   Let me pray first and then I'll let you get into your small group.
+[01:36:40.880 --> 01:36:48.880]   Heavenly Father, we ask for
+[01:36:48.880 --> 01:36:51.880]   your grace and your Holy Spirit to empower
+[01:36:51.880 --> 01:36:54.880]   us, strengthen us, that these words
+[01:36:54.880 --> 01:36:57.880]   would not fall on deaf ears.
+[01:36:57.880 --> 01:37:00.880]   Help us, Lord God, to examine our own hearts,
+[01:37:00.880 --> 01:37:03.880]   our own thoughts, our own lives.
+[01:37:03.880 --> 01:37:06.880]   That we would not be like the Pharisees
+[01:37:06.880 --> 01:37:09.880]   that just going through the motion
+[01:37:09.880 --> 01:37:12.880]   and externally
+[01:37:12.880 --> 01:37:15.880]   behaving in certain conduct, Lord God,
+[01:37:15.880 --> 01:37:18.880]   while ignoring what may be going on
+[01:37:18.880 --> 01:37:21.880]   in our own hearts. We pray,
+[01:37:21.880 --> 01:37:24.880]   Father God, that hoping and hastening
+[01:37:24.880 --> 01:37:27.880]   of the coming of Christ would affect
+[01:37:27.880 --> 01:37:30.880]   our thoughts, our joy, our pursuit,
+[01:37:30.880 --> 01:37:33.880]   our finance, our family, our leisure, our
+[01:37:33.880 --> 01:37:36.880]   goals, our hopes. That we
+[01:37:36.880 --> 01:37:39.880]   would be righteous, that we would learn to be gracious
+[01:37:39.880 --> 01:37:42.880]   and that we would
+[01:37:42.880 --> 01:37:45.880]   truly live up to the calling that you've given us.
+[01:37:45.880 --> 01:37:48.880]   So I pray that you would bless this time of discussion,
+[01:37:48.880 --> 01:37:51.880]   may it be fruitful and may it cause us, Lord God,
+[01:37:51.880 --> 01:37:54.880]   to be sharpened. In Jesus' name we pray, amen.
+[01:37:54.880 --> 01:37:57.880]   [silence]
+[01:37:57.880 --> 01:38:07.880]   [BLANK_AUDIO]
+

@@ -1,0 +1,492 @@
+
+[00:00:00.000 --> 00:00:10.000]   [BLANK_AUDIO]
+[00:00:10.000 --> 00:00:20.000]   [BLANK_AUDIO]
+[00:00:20.000 --> 00:00:30.000]   [BLANK_AUDIO]
+[00:00:30.000 --> 00:00:40.000]   [BLANK_AUDIO]
+[00:00:40.000 --> 00:00:50.000]   [BLANK_AUDIO]
+[00:00:50.000 --> 00:01:00.000]   [BLANK_AUDIO]
+[00:01:00.000 --> 00:01:10.000]   [BLANK_AUDIO]
+[00:01:10.000 --> 00:01:20.000]   [BLANK_AUDIO]
+[00:01:20.000 --> 00:01:30.000]   [BLANK_AUDIO]
+[00:01:30.000 --> 00:01:40.000]   [BLANK_AUDIO]
+[00:01:40.000 --> 00:01:50.000]   [BLANK_AUDIO]
+[00:01:50.000 --> 00:02:00.000]   [BLANK_AUDIO]
+[00:02:00.000 --> 00:02:10.000]   [BLANK_AUDIO]
+[00:02:10.000 --> 00:02:20.000]   [BLANK_AUDIO]
+[00:02:20.000 --> 00:02:30.000]   [BLANK_AUDIO]
+[00:02:30.000 --> 00:02:40.000]   [BLANK_AUDIO]
+[00:02:40.000 --> 00:02:50.000]   [BLANK_AUDIO]
+[00:02:50.000 --> 00:03:00.000]   [BLANK_AUDIO]
+[00:03:00.000 --> 00:03:10.000]   [BLANK_AUDIO]
+[00:03:10.000 --> 00:03:20.000]   [BLANK_AUDIO]
+[00:03:20.000 --> 00:03:30.000]   [BLANK_AUDIO]
+[00:03:30.000 --> 00:03:40.000]   [BLANK_AUDIO]
+[00:03:40.000 --> 00:03:50.000]   [BLANK_AUDIO]
+[00:03:50.000 --> 00:04:00.000]   [BLANK_AUDIO]
+[00:04:00.000 --> 00:04:10.000]   [BLANK_AUDIO]
+[00:04:10.000 --> 00:04:20.000]   [BLANK_AUDIO]
+[00:04:20.000 --> 00:04:30.000]   [BLANK_AUDIO]
+[00:04:30.000 --> 00:04:40.000]   [BLANK_AUDIO]
+[00:04:40.000 --> 00:04:50.000]   [BLANK_AUDIO]
+[00:04:50.000 --> 00:05:00.000]   [BLANK_AUDIO]
+[00:05:00.000 --> 00:05:10.000]   [BLANK_AUDIO]
+[00:05:10.000 --> 00:05:20.000]   [BLANK_AUDIO]
+[00:05:20.000 --> 00:05:30.000]   [BLANK_AUDIO]
+[00:05:30.000 --> 00:05:40.000]   [BLANK_AUDIO]
+[00:05:40.000 --> 00:05:50.000]   [BLANK_AUDIO]
+[00:05:50.000 --> 00:06:00.000]   [BLANK_AUDIO]
+[00:06:00.000 --> 00:06:10.000]   [BLANK_AUDIO]
+[00:06:10.000 --> 00:06:20.000]   [BLANK_AUDIO]
+[00:06:20.000 --> 00:06:30.000]   [BLANK_AUDIO]
+[00:06:30.000 --> 00:06:40.000]   [BLANK_AUDIO]
+[00:06:40.000 --> 00:06:50.000]   [BLANK_AUDIO]
+[00:06:50.000 --> 00:07:00.000]   [BLANK_AUDIO]
+[00:07:00.000 --> 00:07:10.000]   [BLANK_AUDIO]
+[00:07:10.000 --> 00:07:20.000]   [BLANK_AUDIO]
+[00:07:20.000 --> 00:07:30.000]   [BLANK_AUDIO]
+[00:07:30.000 --> 00:07:40.000]   [BLANK_AUDIO]
+[00:07:40.000 --> 00:07:50.000]   [BLANK_AUDIO]
+[00:07:50.000 --> 00:08:00.000]   [BLANK_AUDIO]
+[00:08:00.000 --> 00:08:10.000]   [BLANK_AUDIO]
+[00:08:10.000 --> 00:08:20.000]   [BLANK_AUDIO]
+[00:08:20.000 --> 00:08:30.000]   [BLANK_AUDIO]
+[00:08:30.000 --> 00:08:40.000]   [BLANK_AUDIO]
+[00:08:40.000 --> 00:08:50.000]   [BLANK_AUDIO]
+[00:08:50.000 --> 00:09:00.000]   [BLANK_AUDIO]
+[00:09:00.000 --> 00:09:10.000]   [BLANK_AUDIO]
+[00:09:10.000 --> 00:09:20.000]   [BLANK_AUDIO]
+[00:09:20.000 --> 00:09:30.000]   [BLANK_AUDIO]
+[00:09:30.000 --> 00:09:40.000]   [BLANK_AUDIO]
+[00:09:40.000 --> 00:09:50.000]   [BLANK_AUDIO]
+[00:09:50.000 --> 00:10:00.000]   [BLANK_AUDIO]
+[00:10:00.000 --> 00:10:10.000]   [BLANK_AUDIO]
+[00:10:10.000 --> 00:10:20.000]   [BLANK_AUDIO]
+[00:10:20.000 --> 00:10:30.000]   [BLANK_AUDIO]
+[00:10:30.000 --> 00:10:40.000]   [BLANK_AUDIO]
+[00:10:40.000 --> 00:10:50.000]   [BLANK_AUDIO]
+[00:10:50.000 --> 00:11:00.000]   [BLANK_AUDIO]
+[00:11:00.000 --> 00:11:10.000]   [BLANK_AUDIO]
+[00:11:10.000 --> 00:11:20.000]   [BLANK_AUDIO]
+[00:11:20.000 --> 00:11:30.000]   [BLANK_AUDIO]
+[00:11:30.000 --> 00:11:40.000]   [BLANK_AUDIO]
+[00:11:40.000 --> 00:11:50.000]   [BLANK_AUDIO]
+[00:11:50.000 --> 00:12:00.000]   [BLANK_AUDIO]
+[00:12:00.000 --> 00:12:10.000]   [BLANK_AUDIO]
+[00:12:10.000 --> 00:12:20.000]   [BLANK_AUDIO]
+[00:12:20.000 --> 00:12:30.000]   [BLANK_AUDIO]
+[00:12:30.000 --> 00:12:40.000]   [BLANK_AUDIO]
+[00:12:40.000 --> 00:12:50.000]   [BLANK_AUDIO]
+[00:12:50.000 --> 00:13:00.000]   [BLANK_AUDIO]
+[00:13:00.000 --> 00:13:10.000]   [BLANK_AUDIO]
+[00:13:10.000 --> 00:13:20.000]   [BLANK_AUDIO]
+[00:13:20.000 --> 00:13:30.000]   [BLANK_AUDIO]
+[00:13:30.000 --> 00:13:40.000]   [BLANK_AUDIO]
+[00:13:40.000 --> 00:13:50.000]   [BLANK_AUDIO]
+[00:13:50.000 --> 00:13:55.000]   [BLANK_AUDIO]
+[00:13:55.000 --> 00:14:05.000]   [BLANK_AUDIO]
+[00:14:05.000 --> 00:14:15.000]   [BLANK_AUDIO]
+[00:14:15.000 --> 00:14:25.000]   [BLANK_AUDIO]
+[00:14:25.000 --> 00:14:35.000]   [BLANK_AUDIO]
+[00:14:35.000 --> 00:14:45.000]   [BLANK_AUDIO]
+[00:14:45.000 --> 00:14:55.000]   [BLANK_AUDIO]
+[00:14:55.000 --> 00:15:02.000]   [BLANK_AUDIO]
+[00:15:02.000 --> 00:15:08.000]   All right, welcome to the Monday's devotional for this Passion Week.
+[00:15:08.000 --> 00:15:13.000]   We're gonna go ahead and pray, and then we're gonna have a time of just
+[00:15:13.000 --> 00:15:16.000]   reflection through song and worship.
+[00:15:16.000 --> 00:15:20.000]   And then our sister Agnes is gonna come up and share her testimony.
+[00:15:20.000 --> 00:15:24.000]   And then after she shares, we're gonna have a time of just devotion and
+[00:15:24.000 --> 00:15:26.000]   reflection and some prayer.
+[00:15:26.000 --> 00:15:29.000]   So pray with me and then we'll get our evening started.
+[00:15:29.000 --> 00:15:33.000]   [BLANK_AUDIO]
+[00:15:33.000 --> 00:15:38.000]   Father, we thank you for giving us the great privilege of coming and
+[00:15:38.000 --> 00:15:43.000]   being at your house to pray and to worship.
+[00:15:43.000 --> 00:15:49.000]   And Lord, we ask that you would help us really to have hearts that
+[00:15:49.000 --> 00:15:54.000]   are softened throughout each and every day of this week.
+[00:15:54.000 --> 00:16:00.000]   So that we would truly understand our position before you
+[00:16:00.000 --> 00:16:03.000]   without the blood of Christ.
+[00:16:03.000 --> 00:16:09.000]   And to understand the depths of your love through your sacrifice.
+[00:16:09.000 --> 00:16:15.000]   And just the great power that is ours because Christ is no longer in the grave.
+[00:16:15.000 --> 00:16:19.000]   So as we chart through each and every day of this week,
+[00:16:19.000 --> 00:16:26.000]   I pray that you would help us to be sober minded, to be soft hearted.
+[00:16:26.000 --> 00:16:31.000]   But to be filled with immense joy, knowing that we are your children,
+[00:16:31.000 --> 00:16:37.000]   that we are your bride, and that you love us intimately and deeply.
+[00:16:37.000 --> 00:16:44.000]   So help us, Lord, to worship you in spirit and in truth, even on this night.
+[00:16:44.000 --> 00:16:46.000]   We love you, Lord.
+[00:16:46.000 --> 00:16:47.000]   We thank you.
+[00:16:47.000 --> 00:16:49.000]   We pray these things in Jesus' name.
+[00:16:49.000 --> 00:16:51.000]   [BLANK_AUDIO]
+[00:16:51.000 --> 00:16:54.000]   >> Why don't we all stand for a time of praise?
+[00:16:54.000 --> 00:17:04.000]   [BLANK_AUDIO]
+[00:17:04.000 --> 00:17:08.000]   >> There is a Redeemer.
+[00:17:08.000 --> 00:17:18.000]   [MUSIC]
+[00:17:18.000 --> 00:17:24.000]   >> Jesus, God's own son.
+[00:17:24.000 --> 00:17:38.000]   Precious Lamb of God, Messiah, Holy One.
+[00:17:38.000 --> 00:17:39.000]   >> Thank you, oh my Father.
+[00:17:39.000 --> 00:17:42.000]   [MUSIC]
+[00:17:42.000 --> 00:17:55.000]   >> Thank you, oh my Father, for giving us your Son.
+[00:17:55.000 --> 00:18:09.000]   And even your Spirit, still the work on Earth is done.
+[00:18:09.000 --> 00:18:12.000]   Jesus, my Redeemer.
+[00:18:12.000 --> 00:18:25.000]   >> Jesus, my Redeemer, name above all names.
+[00:18:25.000 --> 00:18:39.000]   Precious Lamb of God, Messiah, all for sinners slain.
+[00:18:39.000 --> 00:18:52.000]   Thank you, oh my Father, for giving us your Son.
+[00:18:52.000 --> 00:19:06.000]   And even your Spirit, still the work on Earth is done.
+[00:19:06.000 --> 00:19:09.000]   >> When I stand.
+[00:19:09.000 --> 00:19:23.000]   When I stand in glory, I will see his face.
+[00:19:23.000 --> 00:19:36.000]   There I'll serve my King forever in that holy place.
+[00:19:36.000 --> 00:19:49.000]   >> Thank you, oh my Father, for giving us your Son.
+[00:19:49.000 --> 00:20:03.000]   And even your Spirit, still the work on Earth is done.
+[00:20:03.000 --> 00:20:16.000]   Thank you, oh my Father, for giving us your Son.
+[00:20:16.000 --> 00:20:30.000]   And even your Spirit, still the work on Earth is done.
+[00:20:30.000 --> 00:20:36.000]   The work on Earth is done.
+[00:20:36.000 --> 00:20:52.000]   [MUSIC]
+[00:20:52.000 --> 00:20:54.000]   >> Jesus Christ.
+[00:20:54.000 --> 00:21:01.000]   Jesus Christ, I think upon your sacrifice.
+[00:21:01.000 --> 00:21:08.000]   You became nothing, poured out to death.
+[00:21:08.000 --> 00:21:15.000]   Many times I've wondered at your gift of life.
+[00:21:15.000 --> 00:21:22.000]   And I'm in that place once again.
+[00:21:22.000 --> 00:21:29.000]   And I'm in that place once again.
+[00:21:29.000 --> 00:21:36.000]   And once again I look upon the cross where you died.
+[00:21:36.000 --> 00:21:43.000]   I'm humbled by your mercy, and I'm broken inside.
+[00:21:43.000 --> 00:21:46.000]   Once again I thank you.
+[00:21:46.000 --> 00:21:52.000]   Once again I pour out my life.
+[00:21:52.000 --> 00:21:56.000]   [MUSIC]
+[00:21:56.000 --> 00:22:07.000]   Now you are exalted to the highest place, King of the heavens.
+[00:22:07.000 --> 00:22:17.000]   And one day I'll bow, but for now I marvel at this saving grace.
+[00:22:17.000 --> 00:22:24.000]   And I fall a praise once again.
+[00:22:24.000 --> 00:22:31.000]   And I fall a praise once again.
+[00:22:31.000 --> 00:22:38.000]   And once again I look upon the cross where you died.
+[00:22:38.000 --> 00:22:45.000]   I'm humbled by your mercy, and I'm broken inside.
+[00:22:45.000 --> 00:22:48.000]   Once again I thank you.
+[00:22:48.000 --> 00:22:55.000]   Once again I pour out my life.
+[00:22:55.000 --> 00:22:59.000]   >> Thank you for the cross.
+[00:22:59.000 --> 00:23:02.000]   Thank you for the cross.
+[00:23:02.000 --> 00:23:05.000]   Thank you for the cross.
+[00:23:05.000 --> 00:23:12.000]   Thank you for the cross, my friends.
+[00:23:12.000 --> 00:23:15.000]   Thank you for the cross.
+[00:23:15.000 --> 00:23:19.000]   Thank you for the cross.
+[00:23:19.000 --> 00:23:26.000]   Thank you for the cross, my friends.
+[00:23:26.000 --> 00:23:33.000]   And once again I look upon the cross where you died.
+[00:23:33.000 --> 00:23:40.000]   I'm humbled by your mercy, and I'm broken inside.
+[00:23:40.000 --> 00:23:44.000]   Once again I thank you.
+[00:23:44.000 --> 00:23:50.000]   Once again I pour out my life.
+[00:23:50.000 --> 00:23:55.000]   [MUSIC]
+[00:23:55.000 --> 00:23:57.000]   >> You may be seated.
+[00:23:57.000 --> 00:24:22.000]   >> Hi, my name is Agnes, and I'm a fourth year -- oh, sorry.
+[00:24:22.000 --> 00:24:27.000]   Hi, my name is Agnes, and I'm a fourth year in college.
+[00:24:27.000 --> 00:24:33.000]   I grew up in a Christian household in Hong Kong, and I attended a Christian school my whole life since kindergarten.
+[00:24:33.000 --> 00:24:42.000]   Being a pastor's kid, I was very complacent with my identity as a Christian, thinking that because everyone around me was a Christian,
+[00:24:42.000 --> 00:24:47.000]   and because I was raised with Christian values, I must be a Christian too.
+[00:24:47.000 --> 00:24:54.000]   My parents told me that I prayed the prayer when I was six years old, and I knew all the right answers at Sunday school,
+[00:24:54.000 --> 00:24:59.000]   but my faith was very much inherited and based on external works.
+[00:24:59.000 --> 00:25:06.000]   My understanding of God was quite shallow, and I did not truly know what it meant to be a genuine believer.
+[00:25:06.000 --> 00:25:13.000]   My understanding of the gospel was only that Jesus died to save me from hell, and that was it.
+[00:25:13.000 --> 00:25:19.000]   I thought that I was a good Christian because I was an extremely obedient child at home and at school,
+[00:25:19.000 --> 00:25:24.000]   but in my heart, there was a lot of self-righteousness and anger against God.
+[00:25:24.000 --> 00:25:31.000]   I became addicted to the approval and validation from people, and I was enslaved to serve man.
+[00:25:31.000 --> 00:25:37.000]   Throughout my childhood, I was struck with many illnesses and frequently visited the hospital.
+[00:25:37.000 --> 00:25:46.000]   I had eczema, chronic rhinitis, allergic conjunctivitis, scoliosis, foot pronation, and other things that I can't pronounce.
+[00:25:46.000 --> 00:25:56.000]   I was so frustrated at God because I didn't understand why God, my creator, would allow such an unfortunate thing to happen to his creation.
+[00:25:56.000 --> 00:26:01.000]   Yet my parents would tell me over and over again that God loved me.
+[00:26:01.000 --> 00:26:08.000]   With good intention, my loving parents would invite many pastors over to my home to pray over me,
+[00:26:08.000 --> 00:26:15.000]   and my conditions would never improve, which led me to doubt that God really so loved the world.
+[00:26:15.000 --> 00:26:23.000]   When I got a little older, I experienced a lot of spiritual highs when attending and serving at camps and retreats.
+[00:26:23.000 --> 00:26:29.000]   Looking back, despite my involvement at these events, I was still extremely unaware of my sin,
+[00:26:29.000 --> 00:26:33.000]   and I did not have any personal struggle against it.
+[00:26:33.000 --> 00:26:37.000]   Any feeling of intimacy with God was not long-lasting.
+[00:26:37.000 --> 00:26:42.000]   I had little desire to seriously seek a deeper relationship with Christ in my own life
+[00:26:42.000 --> 00:26:50.000]   because there were many idols at the time that had appeared to be much more attractive and seemed to promise satisfaction.
+[00:26:50.000 --> 00:26:58.000]   At home, I was still very obedient to my parents and never caused much trouble, but at school I lived another life.
+[00:26:58.000 --> 00:27:03.000]   Wanting to fit in, I said a lot of words that I didn't even know the meaning to.
+[00:27:03.000 --> 00:27:07.000]   I manipulated people so that I might be more popular.
+[00:27:07.000 --> 00:27:12.000]   I compulsively lied to friends, teachers, and my parents to get out of trouble
+[00:27:12.000 --> 00:27:16.000]   and idolized the common things that teenage girls idolized.
+[00:27:16.000 --> 00:27:22.000]   The summer before I entered college, I fell into a pattern of consistently missing church
+[00:27:22.000 --> 00:27:32.000]   because I spent Saturday nights partying with friends and being very determined and even excited to step away from the Christian bubble.
+[00:27:32.000 --> 00:27:40.000]   Because of the hardness of my weak and wandering heart, I desired the world and not anything of Christ.
+[00:27:40.000 --> 00:27:45.000]   Coming into college, to my surprise, I was very unhappy with my circumstances.
+[00:27:45.000 --> 00:27:51.000]   I didn't know how to make new friends, and I was an ocean away from all of my loved ones.
+[00:27:51.000 --> 00:27:57.000]   Everything that I had placed my identity in disappeared, and I had to start fresh.
+[00:27:57.000 --> 00:28:04.000]   In those brief moments of emptiness and loneliness, by God's grace, I was led to Berean.
+[00:28:04.000 --> 00:28:11.000]   I bumped into a friend from home during the Aunt Eder involvement fair and was invited out to Friday night Bible study.
+[00:28:11.000 --> 00:28:16.000]   I reluctantly attended and originally did not see myself staying at this church,
+[00:28:16.000 --> 00:28:20.000]   as I had grown up in a much more charismatic background.
+[00:28:20.000 --> 00:28:28.000]   It was during a message about making decisions in life that I realized that the things that gave me temporary joy were sinful
+[00:28:28.000 --> 00:28:32.000]   and was the root of my unhappiness and dissatisfaction.
+[00:28:32.000 --> 00:28:40.000]   The Spirit convicted me to recognize that I had to make a decision on whether or not I would choose to invest my time in worldly desires
+[00:28:40.000 --> 00:28:48.000]   and live as a Christian half-heartedly or repent to God and seek to be totally transformed by him.
+[00:28:48.000 --> 00:28:53.000]   During a parachurch meeting on campus, I heard a message about God's holiness
+[00:28:53.000 --> 00:28:58.000]   and was so convicted when I learned about how short I had fallen from the standard of holiness
+[00:28:58.000 --> 00:29:02.000]   that Jesus mandates for believers to strive for.
+[00:29:02.000 --> 00:29:09.000]   I finally believed in my heart that God was a holy God who was completely unique and utterly all-powerful,
+[00:29:09.000 --> 00:29:14.000]   and I was humbled as I saw that I could not compare myself to him.
+[00:29:14.000 --> 00:29:19.000]   The Lord graciously softened my heart through his word and the Spirit,
+[00:29:19.000 --> 00:29:24.000]   and I gradually was able to identify the many idols that I had been shoving into my life
+[00:29:24.000 --> 00:29:28.000]   in order to fill the God-shaped hole in my heart.
+[00:29:28.000 --> 00:29:34.000]   I distinctly remember the pastor using several analogies to explain how we cannot serve two masters
+[00:29:34.000 --> 00:29:40.000]   and why we had to destroy our idols in order to gain the imperishable glory of God.
+[00:29:40.000 --> 00:29:47.000]   It was completely God and his grace that my ears were open to understand this mystery of the gospel
+[00:29:47.000 --> 00:29:53.000]   and the power of this good news that caused me to long to live in obedience of faith.
+[00:29:53.000 --> 00:29:58.000]   After a few months, I went back home for winter break and I hung out with some friends one night.
+[00:29:58.000 --> 00:30:05.000]   These friends, like me, claimed to be a Christian but lived lives that were inconsistent with their confessions of faith.
+[00:30:05.000 --> 00:30:11.000]   I observed the passions of the flesh that my friends indulged in, that I once indulged in too.
+[00:30:11.000 --> 00:30:18.000]   Although my conversion was not immediate, God used that moment to cause in my heart a genuine sorrow,
+[00:30:18.000 --> 00:30:22.000]   and I uncontrollably wept over my wickedness and my sin.
+[00:30:22.000 --> 00:30:29.000]   I realized that all along I had been aimlessly trying to find my worth in the strength of my flesh.
+[00:30:29.000 --> 00:30:35.000]   Despite hearing the gospel countless times growing up, in that moment I finally really understood
+[00:30:35.000 --> 00:30:42.000]   that I was fully deserving of punishment and separation from God, and that I was in need of forgiveness from him.
+[00:30:42.000 --> 00:30:48.000]   God showed me that I was headed for death and destruction, but because of his love for mankind,
+[00:30:48.000 --> 00:30:53.000]   he sent his son, Jesus Christ, to die on the cross and place my sin upon himself,
+[00:30:53.000 --> 00:30:59.000]   and that by faith I was forgiven and granted a new and eternal life through his precious blood.
+[00:30:59.000 --> 00:31:04.000]   He opened my eyes to see that there is no goodness in me apart from Christ,
+[00:31:04.000 --> 00:31:10.000]   and therefore I needed a perfect substitution to pay and atone for the wrath that I deserved.
+[00:31:10.000 --> 00:31:14.000]   By his mercy alone, I was brought to repentance.
+[00:31:14.000 --> 00:31:19.000]   My chains were removed and God filled my heart with an unexplainable joy from being free
+[00:31:19.000 --> 00:31:26.000]   that allowed me to see how precious it was to know Christ and to be known and adopted by my heavenly father.
+[00:31:26.000 --> 00:31:32.000]   For the first time ever, it was not just a temporary feeling of being loved by a distant God,
+[00:31:32.000 --> 00:31:36.000]   but there was a genuine and personal longing to draw near to God.
+[00:31:36.000 --> 00:31:43.000]   Through the faithful preaching of his word and a growing eagerness to not just learn about God, but to know God,
+[00:31:43.000 --> 00:31:49.000]   I acknowledged the lordship of Christ and understood God's sovereignty and authority over my life.
+[00:31:49.000 --> 00:31:56.000]   God showed me that I needed a savior not to save me from my circumstances or from suffering and sickness
+[00:31:56.000 --> 00:31:59.000]   or from never needing to wrestle with sin anymore,
+[00:31:59.000 --> 00:32:05.000]   but to be my steadfast source of life that I could place my trust and my faith in.
+[00:32:05.000 --> 00:32:10.000]   Philippians 3.8 says, "I count all things to be lost in view of their surpassing value
+[00:32:10.000 --> 00:32:15.000]   of knowing Christ Jesus my lord for whom I have suffered the loss of all things
+[00:32:15.000 --> 00:32:19.000]   and count them but rubbish so that I may gain Christ."
+[00:32:19.000 --> 00:32:25.000]   As a newcomer at the church, the immense love and care that many brothers and sisters expressed
+[00:32:25.000 --> 00:32:30.000]   over my spiritual life showed me the powerful love of God that compelled these people
+[00:32:30.000 --> 00:32:33.000]   to be concerned over the state of my soul.
+[00:32:33.000 --> 00:32:38.000]   My hunger for the word grew and my heart contained new desires,
+[00:32:38.000 --> 00:32:44.000]   a desire to please God, to obey, to bring him glory, and to reflect his righteousness.
+[00:32:44.000 --> 00:32:50.000]   Through the church I gained a high view of God and in turn a high view of his word.
+[00:32:50.000 --> 00:32:56.000]   I now live not to be a slave to idols and the things of the flesh, but I strive to live as a servant of God.
+[00:32:56.000 --> 00:33:01.000]   I know that by his word, despite being totally undeserving of it,
+[00:33:01.000 --> 00:33:07.000]   I have assurance of salvation as I walk by faith in him with my eyes set on eternity.
+[00:33:07.000 --> 00:33:13.000]   God wasted nothing in my life in order to turn me to Christ and deepen my dependence on him.
+[00:33:13.000 --> 00:33:20.000]   The Lord continues to sanctify and humble me and shows me that I am in need of a savior every day.
+[00:33:20.000 --> 00:33:26.000]   I thank God that he has predestined to and is conforming me into the image of his son day by day.
+[00:33:26.000 --> 00:33:33.000]   Romans 8, 29 to 30 says, "For those whom he foreknew, he also predestined to become conformed
+[00:33:33.000 --> 00:33:38.000]   to the image of his son so that he would be the firstborn among many brethren.
+[00:33:38.000 --> 00:33:43.000]   And these whom he predestined, he also called, and these whom he called, he also justified,
+[00:33:43.000 --> 00:33:48.000]   and these whom he justified, he also glorified." Thank you.
+[00:33:48.000 --> 00:33:57.000]   [applause]
+[00:33:57.000 --> 00:34:07.000]   Thank you, Agnes. As a pastor, there's a part of me that is so thankful for your testimony.
+[00:34:07.000 --> 00:34:18.000]   And what I know of Agnes, I'm hoping in many ways that my own daughter can grow up to be similar
+[00:34:18.000 --> 00:34:25.000]   and share a lot of these traits. And I'm sure your parents are very proud,
+[00:34:25.000 --> 00:34:29.000]   so thank you for that testimony.
+[00:34:29.000 --> 00:34:37.000]   Well, it's Monday night, and each year our observance of the Passion Week begins on Palm Sunday,
+[00:34:37.000 --> 00:34:43.000]   as you guys know, with Jesus' triumphal entry on a donkey into Jerusalem.
+[00:34:43.000 --> 00:34:51.000]   And we reflected on this yesterday, and so each evening this week, we will be meeting here
+[00:34:51.000 --> 00:34:57.000]   to reflect on each of the days leading up to Jesus' death and resurrection.
+[00:34:57.000 --> 00:35:05.000]   The Passion Week, which means the week of his sufferings, is the most important week in all of human history,
+[00:35:05.000 --> 00:35:10.000]   and it's also central to the narratives of the four gospel accounts.
+[00:35:10.000 --> 00:35:17.000]   The man Jesus, you guys know, walked 30 years, 33 years on the earth,
+[00:35:17.000 --> 00:35:25.000]   and nearly half of all the gospel accounts are devoted to the events and the teachings of just this single week.
+[00:35:25.000 --> 00:35:33.000]   During this week, most all things public—Christ's teachings, confrontations with religious leaders,
+[00:35:33.000 --> 00:35:38.000]   and the events surrounding his trial—they all take place in Jerusalem.
+[00:35:38.000 --> 00:35:45.000]   But after each day, Jesus and his disciples, they walk about two miles and return to Bethany,
+[00:35:45.000 --> 00:35:49.000]   presumably to the home of Lazarus and his sisters.
+[00:35:49.000 --> 00:35:54.000]   So, Bethany to Jerusalem, Jerusalem to Bethany, Bethany to Jerusalem,
+[00:35:54.000 --> 00:36:00.000]   and much teaching happens to and from, and also on the road.
+[00:36:00.000 --> 00:36:07.000]   So this is the physical setting of this week, Bethany to Jerusalem, back and forth.
+[00:36:07.000 --> 00:36:13.000]   And this is a week in which we also see a lot of Jesus' emotions.
+[00:36:13.000 --> 00:36:17.000]   We see him weep, we see him rage,
+[00:36:17.000 --> 00:36:25.000]   and elsewhere in the gospel narratives, we see more amazement from Jesus than either weeping or raging.
+[00:36:25.000 --> 00:36:35.000]   But this week is different, and understandably, we see more emotion as Jesus heads toward the cross.
+[00:36:35.000 --> 00:36:43.000]   And you can tell a lot about the passions of a person's heart by what we see him weep over and what we see him rage over.
+[00:36:43.000 --> 00:36:52.000]   And you can observe a lot of what a person loves and what a person hates by outbursts of these emotions.
+[00:36:52.000 --> 00:36:59.000]   And on Monday, Jesus is visibly very upset.
+[00:36:59.000 --> 00:37:04.000]   And there are two major things that Scripture points us to that take place on Monday.
+[00:37:04.000 --> 00:37:11.000]   The first one is the only miracle of destruction in the gospel accounts,
+[00:37:11.000 --> 00:37:17.000]   where Jesus curses a fig tree while on his way toward Jerusalem.
+[00:37:17.000 --> 00:37:24.000]   The second is Jesus causing a scene in the temple where he overturns tables,
+[00:37:24.000 --> 00:37:28.000]   chases away the money changers, drives away those selling doves,
+[00:37:28.000 --> 00:37:32.000]   and then he gets into it with the religious leaders.
+[00:37:32.000 --> 00:37:41.000]   And we read that Jesus literally stands physically in people's ways so that they can't carry merchandise through the temple.
+[00:37:41.000 --> 00:37:47.000]   So this is possibly the most physically animated we have ever seen Jesus.
+[00:37:47.000 --> 00:37:53.000]   So Jesus curses the fig tree. Jesus disrupts business at the temple.
+[00:37:53.000 --> 00:37:58.000]   The fig tree and the temple. And there is a connection between these two events.
+[00:37:58.000 --> 00:38:03.000]   The curse of the fig tree is a symbol of God's judgment on the temple.
+[00:38:03.000 --> 00:38:10.000]   The leafy fig tree, with all its promise of fruit, is as deceptive as the temple,
+[00:38:10.000 --> 00:38:18.000]   which, despite its religious activity, it's really an outlaw's hideout, a robber's den.
+[00:38:18.000 --> 00:38:26.000]   It had the appearance of fruitfulness, of holy sacrifice, but in reality it was barren of anything of worth.
+[00:38:26.000 --> 00:38:30.000]   So let's take a look at Mark's account together.
+[00:38:30.000 --> 00:38:36.000]   I'll be reading Mark 11, 15 to 19 for you, and it's up on the screen.
+[00:38:36.000 --> 00:38:45.000]   "Then they came to Jerusalem, and he entered the temple and began to drive out those who were buying and selling in the temple,
+[00:38:45.000 --> 00:38:50.000]   and overturned the tables of the money changers and the seats of those who were selling doves.
+[00:38:50.000 --> 00:38:55.000]   And he would not permit anyone to carry merchandise through the temple.
+[00:38:55.000 --> 00:39:05.000]   And he began to teach and say to them, 'Is it not written, "My house shall be called a house of prayer for all the nations"?
+[00:39:05.000 --> 00:39:10.000]   But you have made it a robber's den.'
+[00:39:10.000 --> 00:39:18.000]   The chief priests and the scribes heard this and began seeking how to destroy him, for they were afraid of him,
+[00:39:18.000 --> 00:39:22.000]   for the whole crowd was astonished at his teaching.
+[00:39:22.000 --> 00:39:26.000]   And when evening came, they would go out of the city."
+[00:39:26.000 --> 00:39:34.000]   So here in verse 17, we see Jesus alluding to two Old Testament prophecies, Isaiah 56, Jeremiah 7.
+[00:39:34.000 --> 00:39:37.000]   And I'm going to read little sections of both for you.
+[00:39:37.000 --> 00:39:43.000]   The first one, Isaiah 56, is one of the most uplifting chapters in all of the Old Testament.
+[00:39:43.000 --> 00:39:48.000]   In Isaiah chapter 55, he says, "Seek the Lord while he may be found.
+[00:39:48.000 --> 00:39:59.000]   Call upon him while he is near." And then in 56, it describes reward upon reward for those who earnestly seek the Lord's face in obedience.
+[00:39:59.000 --> 00:40:04.000]   So I'm going to read verses 6 through 7 of Isaiah 56 for you.
+[00:40:04.000 --> 00:40:12.000]   "Also the foreigners who join themselves to the Lord, to minister to him, and to love the name of the Lord,
+[00:40:12.000 --> 00:40:19.000]   to be his servants, everyone who keeps from profaning the Sabbath and holds fast my covenant,
+[00:40:19.000 --> 00:40:25.000]   even those I will bring to my holy mountain and make them joyful in my house of prayer.
+[00:40:25.000 --> 00:40:30.000]   Their burnt offerings and their sacrifices will be acceptable on my altar,
+[00:40:30.000 --> 00:40:37.000]   for my house will be called a house of prayer for all the peoples."
+[00:40:37.000 --> 00:40:44.000]   The second passage, where the den of robbers is prophesied, has a very different feel.
+[00:40:44.000 --> 00:40:54.000]   So Jeremiah 7, 8 through 11 reads, "Behold, you are trusting in deceptive words to no avail.
+[00:40:54.000 --> 00:41:03.000]   Will you steal, murder, and commit adultery, and swear falsely, and offer sacrifices to Baal,
+[00:41:03.000 --> 00:41:10.000]   and walk after other gods that you have not known, and then come and stand before me in this house,
+[00:41:10.000 --> 00:41:19.000]   which is called by my name, and say, 'We are delivered,' that you may do all these abominations?
+[00:41:19.000 --> 00:41:27.000]   Has this house, which is called by my name, become a den of robbers in your sight?
+[00:41:27.000 --> 00:41:33.000]   Behold, I, even I, have seen it, declares the Lord."
+[00:41:33.000 --> 00:41:38.000]   So you can just tell that the mood of this is very different.
+[00:41:38.000 --> 00:41:47.000]   The temple of God was always meant to be a physical place where sinful man could draw near in worship to seek holy God.
+[00:41:47.000 --> 00:41:54.000]   There had to be blood sacrifices, and humility, and a turning away from sins,
+[00:41:54.000 --> 00:42:00.000]   and an earnest seeking heart of the worshiper to enable him to draw near to God.
+[00:42:00.000 --> 00:42:05.000]   And one of the first things that God had told Solomon after the completion of the temple,
+[00:42:05.000 --> 00:42:08.000]   it's found in 2 Chronicles 7, 14 to 15.
+[00:42:08.000 --> 00:42:12.000]   You guys, this is a very familiar passage, and many of you have memorized it, but let me read.
+[00:42:12.000 --> 00:42:21.000]   "And my people who are called by my name, humble themselves, and pray, and seek my face,
+[00:42:21.000 --> 00:42:28.000]   and turn from their wicked ways, then I will hear from heaven, will forgive their sin, and will heal their land.
+[00:42:28.000 --> 00:42:39.000]   Now my eyes will be open, and my ears attentive to the prayer offered in this place."
+[00:42:39.000 --> 00:42:48.000]   So the temple was always meant to be a place where the worshiper could seek God, draw near to him, and to pray to him.
+[00:42:48.000 --> 00:42:54.000]   But in Jesus' day, the religious elite who profited greatly from the business at the temple
+[00:42:54.000 --> 00:43:00.000]   had turned it into a place where they could use God for personal gain.
+[00:43:00.000 --> 00:43:05.000]   And it's important to remember that the Passion Week was during the Jewish Passover,
+[00:43:05.000 --> 00:43:08.000]   and it was a time—and what is the Passover?
+[00:43:08.000 --> 00:43:16.000]   It's a time where the people of God were to remember that God had passed over their sins by blood sacrifice
+[00:43:16.000 --> 00:43:20.000]   so that they could be his people and that he could be their God.
+[00:43:20.000 --> 00:43:25.000]   But the opportunity of the holidays had great appeal,
+[00:43:25.000 --> 00:43:30.000]   and so this had become a lucrative business for the religious elite.
+[00:43:30.000 --> 00:43:33.000]   They couldn't help themselves.
+[00:43:33.000 --> 00:43:35.000]   And they easily justified this.
+[00:43:35.000 --> 00:43:42.000]   After all, they were serving God, and God had ordained portions for their services in Leviticus and in the Book of Numbers.
+[00:43:42.000 --> 00:43:48.000]   They worked hard for God's blessings, so they deserved God's blessings.
+[00:43:48.000 --> 00:43:51.000]   And here's the problem.
+[00:43:51.000 --> 00:44:00.000]   The temple was meant to be a place of seeking God, but they had turned it into a place of using God.
+[00:44:00.000 --> 00:44:08.000]   They were using the spiritual needs of the people to satisfy the cravings of their idolatrous and their greedy hearts.
+[00:44:08.000 --> 00:44:18.000]   And in Jesus' actions, we observe the hatred that God has toward idolatry.
+[00:44:18.000 --> 00:44:24.000]   If you're a diligent student of the Bible, if you're just reading the Old and the New Testaments,
+[00:44:24.000 --> 00:44:28.000]   one of the things you'll notice when you get to the New Testament is that the Hebrew race,
+[00:44:28.000 --> 00:44:32.000]   who struggled nonstop for a millennia in the Old Testament,
+[00:44:32.000 --> 00:44:37.000]   they're almost idophobic when you get to the New Testament.
+[00:44:37.000 --> 00:44:46.000]   They were taught that physical idolatry had led to the loss of all their fame, their wealth, their power, and their land.
+[00:44:46.000 --> 00:44:52.000]   And so this entire group of people was kind of traumatized by the external practices of idol worship.
+[00:44:52.000 --> 00:45:01.000]   So statues, monuments, even coins that hinted of idol worship, they didn't touch with a ten-foot pole.
+[00:45:01.000 --> 00:45:12.000]   But their heart of idolatry, the heart they wanted to use God for personal gain, it had never gone away or had been dealt with.
+[00:45:12.000 --> 00:45:15.000]   So it had just become more sophisticated.
+[00:45:15.000 --> 00:45:23.000]   And this was very readily personified in the religious leaders who Jesus upset at the temple.
+[00:45:23.000 --> 00:45:30.000]   So there are a couple lessons we can learn today as we reflect on the events of Monday of the Passion Week.
+[00:45:30.000 --> 00:45:37.000]   And I'm going to leave you just with one very sobering truth.
+[00:45:37.000 --> 00:45:47.000]   The seeking of God and the using of God often looks the same.
+[00:45:47.000 --> 00:45:58.000]   The seeking of God and the using of God often looks the same.
+[00:45:58.000 --> 00:46:04.000]   The first is worship that is done in spirit and in truth.
+[00:46:04.000 --> 00:46:13.000]   The other is akin to a dancing around astral poles or bowing before golden calves.
+[00:46:13.000 --> 00:46:21.000]   At its root, the heart of worship cries, "I want to know you, Lord.
+[00:46:21.000 --> 00:46:30.000]   I seek first your kingdom and your righteousness, even if all these things do not get added unto me."
+[00:46:30.000 --> 00:46:32.000]   You guys know that passage, right?
+[00:46:32.000 --> 00:46:46.000]   The heart of a genuine worshiper of God seeks first his kingdom and his righteousness, even if none of the things get added.
+[00:46:46.000 --> 00:46:55.000]   But at its root, the heart of idolatry cries, "I want to appease you, Lord, and curry favor.
+[00:46:55.000 --> 00:47:06.000]   I want to seek your kingdom and your righteousness so that all these things can be added unto me."
+[00:47:06.000 --> 00:47:14.000]   Given time, the worshiper, like the fig tree that was supposed to bear figs, it bears fruit.
+[00:47:14.000 --> 00:47:17.000]   The worshiper bears fruit.
+[00:47:17.000 --> 00:47:21.000]   The idolater does not.
+[00:47:21.000 --> 00:47:28.000]   The worshiper of Yahweh, of God, abides.
+[00:47:28.000 --> 00:47:32.000]   The idolater conforms.
+[00:47:32.000 --> 00:47:38.000]   The worshiper feeds deeply upon the word of truth.
+[00:47:38.000 --> 00:47:44.000]   The idolater is satisfied with his ears being tickled.
+[00:47:44.000 --> 00:47:49.000]   The worshiper is broken and humbled.
+[00:47:49.000 --> 00:48:01.000]   The idolater is either smug or bitter, depending on the reward that he gets.
+[00:48:01.000 --> 00:48:09.000]   The idolatrous religious leaders got in the way of those who had come to the temple to worship.
+[00:48:09.000 --> 00:48:22.000]   Idolatrous greed and fruitlessness, masked in religiosity, evoked a very passionate response from the Lord Jesus.
+[00:48:22.000 --> 00:48:32.000]   As we examine the events of this week, and today's just Monday, as we examine just all the days leading up to the cross,
+[00:48:32.000 --> 00:48:38.000]   we're going to be introduced to many characters in the gospel narratives.
+[00:48:38.000 --> 00:48:50.000]   But for Monday, as I reflected deeply, just preparing just for this devotion, I was troubled a little bit and saddened.
+[00:48:50.000 --> 00:49:00.000]   Because I see elements in my heart, in my life, that closely resemble these religious leaders, and it has nothing to do with my occupation.
+[00:49:00.000 --> 00:49:12.000]   There are elements in my heart that long to profit off of God for my kingdom, for my pleasure, for my comfort, for my glory.
+[00:49:12.000 --> 00:49:19.000]   And we learned yesterday that his kingdom is not of this world.
+[00:49:19.000 --> 00:49:23.000]   I'm not sure who you'll identify most with this week.
+[00:49:23.000 --> 00:49:36.000]   The Pharisees, the teachers of the law, the confused disciples, Judas Iscariot perhaps, the Roman centurion,
+[00:49:36.000 --> 00:49:42.000]   the thief on the cross, or the ladies who grieve at the tomb.
+[00:49:42.000 --> 00:49:49.000]   Every single one of these characters, every single person in human history, and every single one of us in this room,
+[00:49:49.000 --> 00:49:56.000]   and every single one of you watching online, there is a few things that we all have in common.
+[00:49:56.000 --> 00:50:08.000]   We all have idolatrous hearts of stone that cannot be turned into hearts of flesh by effort or by adherence to religious conformity.
+[00:50:08.000 --> 00:50:15.000]   And we cannot save ourselves from idolatry. We cannot help ourselves.
+[00:50:15.000 --> 00:50:24.000]   We are prone to worship the created things rather than the creator who is to be forever praised.
+[00:50:24.000 --> 00:50:31.000]   We cannot save ourselves from hearts that are idolatrous.
+[00:50:31.000 --> 00:50:37.000]   We cannot make our blind eyes see by our own effort.
+[00:50:37.000 --> 00:50:42.000]   We cannot make our hardened hearts very soft.
+[00:50:42.000 --> 00:50:51.000]   And we cannot draw near to God by effort or by our own endeavoring of righteousness.
+[00:50:51.000 --> 00:50:54.000]   We cannot do that.
+[00:50:54.000 --> 00:51:00.000]   Atonement had to be made. Sin had to be defeated.
+[00:51:00.000 --> 00:51:07.000]   And today I wanted to just reflect on idolatry.
+[00:51:07.000 --> 00:51:12.000]   Spiritual heart transplants needed to be performed.
+[00:51:12.000 --> 00:51:20.000]   And hardened hearts have to be made receptive and fertile supernaturally.
+[00:51:20.000 --> 00:51:26.000]   And each of these things we'll be reflecting deeply on over the course of this week,
+[00:51:26.000 --> 00:51:29.000]   and especially through this weekend,
+[00:51:29.000 --> 00:51:36.000]   as we understand that we cannot come to God on our terms,
+[00:51:36.000 --> 00:51:43.000]   but we serve a God who is gracious and compassionate, just slow to anger, abundant in loving kindness.
+[00:51:43.000 --> 00:51:47.000]   He draws near to us.
+[00:51:47.000 --> 00:51:56.000]   But if we're not careful, we may reject this God and not know it.
+[00:51:56.000 --> 00:52:05.000]   Because the heart that seeks the Lord and the heart that desires to use the Lord on the surface may look the same.
+[00:52:05.000 --> 00:52:12.000]   So my hope and my prayer for our congregation is that over the course of this week,
+[00:52:12.000 --> 00:52:21.000]   that our hearts would grow more and more broken over our sin, over our flaws, over our desperation.
+[00:52:21.000 --> 00:52:28.000]   That they would become much more receptive yet again with the constant reminders
+[00:52:28.000 --> 00:52:41.000]   that holy God came down to meet man, sinful man, through the atoning work of his one and only beloved son.
+[00:52:41.000 --> 00:52:52.000]   So by the time we get to Friday, that Jesus' trials, his floggings, and his crucifixion
+[00:52:52.000 --> 00:53:01.000]   would serve to remind us that we are absolutely and utterly just desperate,
+[00:53:01.000 --> 00:53:08.000]   and that we cannot help but to rely on the grace and the goodness of God.
+[00:53:08.000 --> 00:53:14.000]   So that on Sunday when we're reminded that sin and death have been defeated,
+[00:53:14.000 --> 00:53:21.000]   there will be shouts of acclamation and shouts of joy from people who understand their depravity,
+[00:53:21.000 --> 00:53:30.000]   but understand better the great and mighty love of our good God and heavenly Father.
+[00:53:30.000 --> 00:53:33.000]   Amen? Let's pray.
+[00:53:33.000 --> 00:53:41.000]   Lord, we need you.
+[00:53:41.000 --> 00:53:55.000]   There are elements of every flawed and foolish character in scriptures that we see in our own hearts.
+[00:53:55.000 --> 00:54:04.000]   We are no better than these flawed religious leaders who dare to challenge you.
+[00:54:04.000 --> 00:54:15.000]   And we are here simply because you've opened our eyes, you've softened our hearts, you've reached out and drawn near.
+[00:54:15.000 --> 00:54:21.000]   It's your kindness, we confess, that has led us to repentance.
+[00:54:21.000 --> 00:54:29.000]   But our flesh is weak, Lord. The things of this world have great appeal.
+[00:54:29.000 --> 00:54:40.000]   And we are constantly tricked and deceived and enticed to look to the things around us.
+[00:54:40.000 --> 00:54:44.000]   And we're tempted to use you for our gain.
+[00:54:44.000 --> 00:54:53.000]   So we pray that this week would strengthen our spiritual legs, would open wider our spiritual eyes,
+[00:54:53.000 --> 00:55:02.000]   so that we would understand a little bit better what it means to worship you in spirit and in truth.
+[00:55:02.000 --> 00:55:07.000]   Thank you, Lord, for just your kindness and patience.
+[00:55:07.000 --> 00:55:11.000]   In Jesus' name we pray.
+[00:55:11.000 --> 00:55:15.000]   Why don't we all stand for our closing praise.
+[00:55:34.000 --> 00:55:49.000]   Purify my heart, let me be as gold and precious silver.
+[00:55:49.000 --> 00:56:11.000]   Purify my heart, let me be as gold, pure gold, refiners fine.
+[00:56:11.000 --> 00:56:25.000]   My heart's one desire is to be holy.
+[00:56:25.000 --> 00:56:39.000]   Set apart for you, Lord, I choose to be holy.
+[00:56:39.000 --> 00:56:55.000]   Set apart for you, my master, ready to do your will.
+[00:56:55.000 --> 00:56:57.000]   Purify my heart.
+[00:56:57.000 --> 00:57:02.000]   Purify my heart.
+[00:57:02.000 --> 00:57:12.000]   Cleanse me from within and make me holy.
+[00:57:12.000 --> 00:57:17.000]   Purify my heart.
+[00:57:17.000 --> 00:57:33.000]   Cleanse me from my sin deep within, refiners fine.
+[00:57:33.000 --> 00:57:47.000]   My heart's one desire is to be holy.
+[00:57:47.000 --> 00:58:01.000]   Set apart for you, Lord, I choose to be holy.
+[00:58:01.000 --> 00:58:13.000]   Set apart for you, my master, ready to do your will.
+[00:58:13.000 --> 00:58:16.000]   Refiners fine.
+[00:58:16.000 --> 00:58:18.000]   Refiners fine.
+[00:58:18.000 --> 00:58:38.000]   My heart's one desire is to be holy.
+[00:58:38.000 --> 00:58:53.000]   Set apart for you, Lord, I choose to be holy.
+[00:58:53.000 --> 00:59:04.000]   Set apart for you, my master, ready to do your will.
+[00:59:05.000 --> 00:59:13.000]   [MUSIC]
+[00:59:13.000 --> 00:59:20.000]   Father, we thank you for just a good Monday evening, and we pray that each and every day this week,
+[00:59:20.000 --> 00:59:26.000]   as we just reflect and pray on our own and as we gather to reflect together,
+[00:59:26.000 --> 00:59:32.000]   I pray that you really would cause our hearts to grow in greater appreciation of you
+[00:59:32.000 --> 00:59:36.000]   and that our lives would reflect this gratitude.
+[00:59:36.000 --> 00:59:37.000]   We love you, Lord.
+[00:59:37.000 --> 00:59:38.000]   Thank you.
+[00:59:38.000 --> 00:59:39.000]   In Jesus' name we pray.
+[00:59:39.000 --> 00:59:42.000]   Amen.
+[00:59:42.000 --> 00:59:48.000]   Well, see you guys tomorrow.
+[00:59:48.000 --> 01:00:03.000]   And good night for all of you guys at home.
+[01:00:03.000 --> 01:00:06.000]   [MUSIC]
+[01:00:06.000 --> 01:00:09.000]   [MUSIC]
+[01:00:09.000 --> 01:00:12.000]   [MUSIC]
+[01:00:13.000 --> 01:00:16.000]   [MUSIC]
+[01:00:16.000 --> 01:00:19.000]   [MUSIC]
+[01:00:19.000 --> 01:00:22.000]   [MUSIC]
+[01:00:22.000 --> 01:00:25.000]   [MUSIC]
+[01:00:25.000 --> 01:00:28.000]   [MUSIC]
+[01:00:28.000 --> 01:00:31.000]   [MUSIC]
+

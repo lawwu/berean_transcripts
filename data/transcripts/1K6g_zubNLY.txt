@@ -1,0 +1,1407 @@
+
+[00:00:00.000 --> 00:00:03.500]   [MUSIC PLAYING]
+[00:00:03.500 --> 00:00:07.000]   [SIDE CONVERSATION]
+[00:00:07.000 --> 00:00:10.500]   [MUSIC PLAYING]
+[00:00:10.500 --> 00:00:14.000]   [SIDE CONVERSATION]
+[00:00:14.000 --> 00:00:17.500]   [MUSIC PLAYING]
+[00:00:17.500 --> 00:00:21.000]   [SIDE CONVERSATION]
+[00:00:46.000 --> 00:00:49.500]   [SIDE CONVERSATION]
+[00:00:49.500 --> 00:00:53.000]   [MUSIC PLAYING]
+[00:00:53.000 --> 00:00:56.500]   [SIDE CONVERSATION]
+[00:00:56.500 --> 00:01:00.000]   [MUSIC PLAYING]
+[00:01:00.000 --> 00:01:03.500]   [SIDE CONVERSATION]
+[00:01:03.500 --> 00:01:07.000]   [MUSIC PLAYING]
+[00:01:07.000 --> 00:01:10.500]   [SIDE CONVERSATION]
+[00:01:10.500 --> 00:01:14.000]   [MUSIC PLAYING]
+[00:01:14.000 --> 00:01:17.500]   [SIDE CONVERSATION]
+[00:01:17.500 --> 00:01:21.000]   [MUSIC PLAYING]
+[00:01:21.000 --> 00:01:24.500]   [SIDE CONVERSATION]
+[00:01:24.500 --> 00:01:28.000]   [MUSIC PLAYING]
+[00:01:28.000 --> 00:01:31.500]   [SIDE CONVERSATION]
+[00:01:31.500 --> 00:01:35.000]   [MUSIC PLAYING]
+[00:01:35.000 --> 00:01:38.500]   [SIDE CONVERSATION]
+[00:01:38.500 --> 00:01:42.000]   [MUSIC PLAYING]
+[00:01:42.000 --> 00:01:45.500]   [SIDE CONVERSATION]
+[00:01:45.500 --> 00:01:49.000]   [MUSIC PLAYING]
+[00:01:49.000 --> 00:01:52.500]   [SIDE CONVERSATION]
+[00:01:52.500 --> 00:01:56.000]   [MUSIC PLAYING]
+[00:01:56.000 --> 00:01:59.500]   [SIDE CONVERSATION]
+[00:01:59.500 --> 00:02:03.000]   [MUSIC PLAYING]
+[00:02:03.000 --> 00:02:06.000]   [SIDE CONVERSATION]
+[00:02:06.000 --> 00:02:09.500]   [MUSIC PLAYING]
+[00:02:09.500 --> 00:02:12.500]   [SIDE CONVERSATION]
+[00:02:12.500 --> 00:02:16.000]   [MUSIC PLAYING]
+[00:02:16.000 --> 00:02:19.500]   [SIDE CONVERSATION]
+[00:02:19.500 --> 00:02:23.000]   [MUSIC PLAYING]
+[00:02:23.000 --> 00:02:26.000]   [SIDE CONVERSATION]
+[00:02:26.000 --> 00:02:29.500]   [MUSIC PLAYING]
+[00:02:29.500 --> 00:02:33.000]   [SIDE CONVERSATION]
+[00:02:33.000 --> 00:02:36.500]   [MUSIC PLAYING]
+[00:02:36.500 --> 00:02:39.500]   [SIDE CONVERSATION]
+[00:02:39.500 --> 00:02:43.000]   [MUSIC PLAYING]
+[00:02:43.000 --> 00:02:46.500]   [SIDE CONVERSATION]
+[00:02:46.500 --> 00:02:50.000]   [MUSIC PLAYING]
+[00:02:50.000 --> 00:02:53.000]   [SIDE CONVERSATION]
+[00:02:53.000 --> 00:02:56.000]   [MUSIC PLAYING]
+[00:02:56.000 --> 00:02:59.000]   [SIDE CONVERSATION]
+[00:02:59.000 --> 00:03:02.000]   [MUSIC PLAYING]
+[00:03:02.000 --> 00:03:05.000]   [SIDE CONVERSATION]
+[00:03:05.000 --> 00:03:08.000]   [MUSIC PLAYING]
+[00:03:08.000 --> 00:03:11.000]   [SIDE CONVERSATION]
+[00:03:11.000 --> 00:03:14.000]   [MUSIC PLAYING]
+[00:03:14.000 --> 00:03:17.000]   [SIDE CONVERSATION]
+[00:03:17.000 --> 00:03:20.000]   [MUSIC PLAYING]
+[00:03:20.000 --> 00:03:23.000]   [SIDE CONVERSATION]
+[00:03:23.000 --> 00:03:26.000]   [MUSIC PLAYING]
+[00:03:26.000 --> 00:03:29.000]   [SIDE CONVERSATION]
+[00:03:29.000 --> 00:03:32.000]   [MUSIC PLAYING]
+[00:03:32.000 --> 00:03:35.000]   [SIDE CONVERSATION]
+[00:03:35.000 --> 00:03:38.000]   [MUSIC PLAYING]
+[00:03:38.000 --> 00:03:41.000]   [SIDE CONVERSATION]
+[00:03:41.000 --> 00:03:44.000]   [MUSIC PLAYING]
+[00:03:44.000 --> 00:03:47.000]   [SIDE CONVERSATION]
+[00:03:47.000 --> 00:03:50.000]   [MUSIC PLAYING]
+[00:03:50.000 --> 00:03:53.000]   [SIDE CONVERSATION]
+[00:03:53.000 --> 00:03:56.000]   [MUSIC PLAYING]
+[00:03:56.000 --> 00:03:59.000]   [SIDE CONVERSATION]
+[00:03:59.000 --> 00:04:02.000]   [MUSIC PLAYING]
+[00:04:02.000 --> 00:04:05.000]   [SIDE CONVERSATION]
+[00:04:05.000 --> 00:04:08.000]   [MUSIC PLAYING]
+[00:04:08.000 --> 00:04:11.000]   [SIDE CONVERSATION]
+[00:04:11.000 --> 00:04:14.000]   [MUSIC PLAYING]
+[00:04:14.000 --> 00:04:17.000]   [SIDE CONVERSATION]
+[00:04:17.000 --> 00:04:20.000]   [MUSIC PLAYING]
+[00:04:20.000 --> 00:04:23.000]   [SIDE CONVERSATION]
+[00:04:23.000 --> 00:04:26.000]   [MUSIC PLAYING]
+[00:04:26.000 --> 00:04:29.000]   [SIDE CONVERSATION]
+[00:04:29.000 --> 00:04:32.000]   [MUSIC PLAYING]
+[00:04:32.000 --> 00:04:35.000]   [SIDE CONVERSATION]
+[00:04:35.000 --> 00:04:38.000]   [MUSIC PLAYING]
+[00:04:38.000 --> 00:04:41.000]   [SIDE CONVERSATION]
+[00:04:41.000 --> 00:04:44.000]   [MUSIC PLAYING]
+[00:04:44.000 --> 00:04:47.000]   [SIDE CONVERSATION]
+[00:04:47.000 --> 00:04:50.000]   [MUSIC PLAYING]
+[00:04:50.000 --> 00:04:53.000]   [SIDE CONVERSATION]
+[00:04:53.000 --> 00:04:56.000]   [MUSIC PLAYING]
+[00:04:56.000 --> 00:04:59.000]   [SIDE CONVERSATION]
+[00:04:59.000 --> 00:05:02.000]   [MUSIC PLAYING]
+[00:05:02.000 --> 00:05:05.000]   [SIDE CONVERSATION]
+[00:05:05.000 --> 00:05:08.000]   [MUSIC PLAYING]
+[00:05:08.000 --> 00:05:11.000]   [SIDE CONVERSATION]
+[00:05:11.000 --> 00:05:14.000]   [MUSIC PLAYING]
+[00:05:14.000 --> 00:05:17.000]   [SIDE CONVERSATION]
+[00:05:17.000 --> 00:05:20.000]   [MUSIC PLAYING]
+[00:05:20.000 --> 00:05:23.000]   [SIDE CONVERSATION]
+[00:05:23.000 --> 00:05:26.000]   [MUSIC PLAYING]
+[00:05:26.000 --> 00:05:29.000]   [SIDE CONVERSATION]
+[00:05:29.000 --> 00:05:32.000]   [MUSIC PLAYING]
+[00:05:32.000 --> 00:05:35.000]   [SIDE CONVERSATION]
+[00:05:35.000 --> 00:05:38.000]   [MUSIC PLAYING]
+[00:05:38.000 --> 00:05:41.000]   [SIDE CONVERSATION]
+[00:05:41.000 --> 00:05:44.000]   [MUSIC PLAYING]
+[00:05:44.000 --> 00:05:47.000]   [SIDE CONVERSATION]
+[00:05:47.000 --> 00:05:50.000]   [MUSIC PLAYING]
+[00:05:50.000 --> 00:05:53.000]   [SIDE CONVERSATION]
+[00:05:53.000 --> 00:05:56.000]   [MUSIC PLAYING]
+[00:05:56.000 --> 00:05:59.000]   [SIDE CONVERSATION]
+[00:05:59.000 --> 00:06:02.000]   [MUSIC PLAYING]
+[00:06:02.000 --> 00:06:05.000]   [SIDE CONVERSATION]
+[00:06:05.000 --> 00:06:08.000]   [MUSIC PLAYING]
+[00:06:08.000 --> 00:06:11.000]   [SIDE CONVERSATION]
+[00:06:11.000 --> 00:06:14.000]   [MUSIC PLAYING]
+[00:06:14.000 --> 00:06:17.000]   [SIDE CONVERSATION]
+[00:06:17.000 --> 00:06:20.000]   [MUSIC PLAYING]
+[00:06:20.000 --> 00:06:23.000]   [SIDE CONVERSATION]
+[00:06:23.000 --> 00:06:26.000]   [MUSIC PLAYING]
+[00:06:26.000 --> 00:06:29.000]   [SIDE CONVERSATION]
+[00:06:29.000 --> 00:06:32.000]   [MUSIC PLAYING]
+[00:06:32.000 --> 00:06:35.000]   [SIDE CONVERSATION]
+[00:06:35.000 --> 00:06:38.000]   [MUSIC PLAYING]
+[00:06:38.000 --> 00:06:41.000]   [SIDE CONVERSATION]
+[00:06:41.000 --> 00:06:44.000]   [MUSIC PLAYING]
+[00:06:44.000 --> 00:06:47.000]   [SIDE CONVERSATION]
+[00:06:47.000 --> 00:06:50.000]   [MUSIC PLAYING]
+[00:06:50.000 --> 00:06:53.000]   [SIDE CONVERSATION]
+[00:06:53.000 --> 00:06:56.000]   [MUSIC PLAYING]
+[00:06:56.000 --> 00:06:59.000]   [SIDE CONVERSATION]
+[00:06:59.000 --> 00:07:02.000]   [MUSIC PLAYING]
+[00:07:02.000 --> 00:07:05.000]   [SIDE CONVERSATION]
+[00:07:05.000 --> 00:07:08.000]   [MUSIC PLAYING]
+[00:07:08.000 --> 00:07:11.000]   [SIDE CONVERSATION]
+[00:07:11.000 --> 00:07:14.000]   [MUSIC PLAYING]
+[00:07:14.000 --> 00:07:17.000]   [SIDE CONVERSATION]
+[00:07:17.000 --> 00:07:20.000]   [MUSIC PLAYING]
+[00:07:20.000 --> 00:07:23.000]   [SIDE CONVERSATION]
+[00:07:23.000 --> 00:07:26.000]   [MUSIC PLAYING]
+[00:07:26.000 --> 00:07:29.000]   [SIDE CONVERSATION]
+[00:07:29.000 --> 00:07:32.000]   [MUSIC PLAYING]
+[00:07:32.000 --> 00:07:35.000]   [SIDE CONVERSATION]
+[00:07:35.000 --> 00:07:38.000]   [MUSIC PLAYING]
+[00:07:38.000 --> 00:07:41.000]   [SIDE CONVERSATION]
+[00:07:41.000 --> 00:07:44.000]   [MUSIC PLAYING]
+[00:07:44.000 --> 00:07:47.000]   [SIDE CONVERSATION]
+[00:07:47.000 --> 00:07:50.000]   [MUSIC PLAYING]
+[00:07:50.000 --> 00:07:53.000]   [SIDE CONVERSATION]
+[00:07:53.000 --> 00:07:56.000]   [MUSIC PLAYING]
+[00:07:56.000 --> 00:07:59.000]   [SIDE CONVERSATION]
+[00:07:59.000 --> 00:08:02.000]   >> All right, good morning church family.
+[00:08:02.000 --> 00:08:05.000]   Happy Lord's Day.
+[00:08:05.000 --> 00:08:08.000]   [MUSIC PLAYING]
+[00:08:08.000 --> 00:08:11.000]   [MUSIC PLAYING]
+[00:08:11.000 --> 00:08:15.000]   >> In Revelation 4, the apostle John shares this vision of the endless
+[00:08:15.000 --> 00:08:18.000]   worship that is happening before the throne of God.
+[00:08:18.000 --> 00:08:21.000]   And I like to read verses 2 to 11.
+[00:08:21.000 --> 00:08:27.000]   He writes, "Immediately I was in the spirit, and behold, a throne was standing
+[00:08:27.000 --> 00:08:30.000]   in heaven, and one sitting on the throne.
+[00:08:30.000 --> 00:08:35.000]   And he who was sitting was like a jasper stone, and a stardust in appearance.
+[00:08:35.000 --> 00:08:40.000]   And there was a rainbow around the throne, like an emerald in appearance.
+[00:08:40.000 --> 00:08:46.000]   Around the throne were 24 thrones, and upon the thrones I saw 24 elders sitting,
+[00:08:46.000 --> 00:08:51.000]   clothed in white garments and golden crowns on their heads.
+[00:08:51.000 --> 00:08:55.000]   Out from the throne came flashes of lightning, and sounds and peals of
+[00:08:55.000 --> 00:09:00.000]   thunder. And there were seven lamps of fire burning before the throne, which
+[00:09:00.000 --> 00:09:02.000]   are the seven spirits of God.
+[00:09:02.000 --> 00:09:07.000]   And before the throne there was something like a sea of glass, like crystal.
+[00:09:07.000 --> 00:09:11.000]   And in the center and around the throne, four living creatures full of eyes in
+[00:09:11.000 --> 00:09:13.000]   front and behind.
+[00:09:13.000 --> 00:09:17.000]   The first creature was like a lion, the second creature like a calf, and the
+[00:09:17.000 --> 00:09:21.000]   third creature had the face like that of a man, and the fourth creature was like
+[00:09:21.000 --> 00:09:23.000]   a flying eagle.
+[00:09:23.000 --> 00:09:28.000]   And the four creatures, each one of them having six wings, are full of eyes around
+[00:09:28.000 --> 00:09:34.000]   and within, and day and night they do not cease to say, "Holy, holy, holy is the
+[00:09:34.000 --> 00:09:40.000]   Lord God, the Almighty, who was and who is and who is to come."
+[00:09:40.000 --> 00:09:44.000]   And when the living creatures give glory and honor and thanks to him who sits on
+[00:09:44.000 --> 00:09:50.000]   the throne, to him who lives forever and ever, the 24 elders will fall down before
+[00:09:50.000 --> 00:09:54.000]   him who sits on the throne and will worship him who lives forever and ever and
+[00:09:54.000 --> 00:09:59.000]   will cast their crowns before the throne saying, "Worthy are you, our Lord and our
+[00:09:59.000 --> 00:10:03.000]   God, to receive glory and honor and power.
+[00:10:03.000 --> 00:10:10.000]   For you created all things, and because of your will they existed and were created."
+[00:10:10.000 --> 00:10:14.000]   So, church family, as we begin our worship, let us also join in this endless song of
+[00:10:14.000 --> 00:10:20.000]   worship before our God who is worthy.
+[00:10:20.000 --> 00:10:45.000]   [Music]
+[00:10:45.000 --> 00:10:50.000]   Sing, "Holy, holy, holy."
+[00:10:50.000 --> 00:11:02.000]   Holy, holy, holy, Lord God Almighty.
+[00:11:02.000 --> 00:11:14.000]   Early in the morning our song shall rise to thee.
+[00:11:14.000 --> 00:11:26.000]   Holy, holy, holy, merciful and mighty.
+[00:11:26.000 --> 00:11:38.000]   God in three persons, blessed Trinity.
+[00:11:38.000 --> 00:11:48.000]   [Music]
+[00:11:48.000 --> 00:12:00.000]   Holy, holy, holy, all the saints adore thee.
+[00:12:00.000 --> 00:12:12.000]   Casting down their golden crowns around the glassy sea.
+[00:12:12.000 --> 00:12:24.000]   Cherubim and seraphim falling down before thee.
+[00:12:24.000 --> 00:12:36.000]   Who was and is and evermore shall be.
+[00:12:36.000 --> 00:12:58.000]   [Music]
+[00:12:58.000 --> 00:13:10.000]   Holy, holy, holy, though the darkness hide thee.
+[00:13:10.000 --> 00:13:22.000]   While the eye of sinful man thy glory may not see.
+[00:13:22.000 --> 00:13:34.000]   Only thou art holy, there is none beside thee.
+[00:13:34.000 --> 00:13:46.000]   Perfect in power, in love and purity.
+[00:13:46.000 --> 00:13:53.000]   [Music]
+[00:13:53.000 --> 00:13:55.000]   Holy, holy.
+[00:13:55.000 --> 00:14:08.000]   Holy, holy, holy, Lord God Almighty.
+[00:14:08.000 --> 00:14:20.000]   All thy works shall praise thy name in earth and sky and sea.
+[00:14:20.000 --> 00:14:33.000]   Holy, holy, holy, merciful and mighty.
+[00:14:33.000 --> 00:14:44.000]   God in three persons, blessed Trinity.
+[00:14:44.000 --> 00:14:46.000]   Amen.
+[00:14:46.000 --> 00:14:55.000]   All right, good morning.
+[00:14:55.000 --> 00:14:57.000]   Welcome to Bryn Community Church.
+[00:14:57.000 --> 00:15:00.000]   As you can see, I'm limping because we had a softball tournament yesterday.
+[00:15:00.000 --> 00:15:05.000]   And to our surprise, we didn't lose.
+[00:15:05.000 --> 00:15:10.000]   We went then thinking that we're going to play a few games and then come home and have dinner and relax.
+[00:15:10.000 --> 00:15:14.000]   And then we, for whatever the reason, we kept on winning.
+[00:15:14.000 --> 00:15:16.000]   And then we ended up winning the whole thing.
+[00:15:16.000 --> 00:15:18.000]   Yeah.
+[00:15:18.000 --> 00:15:21.000]   [Applause]
+[00:15:21.000 --> 00:15:25.000]   Yeah, we're just as surprised and shocked as you are.
+[00:15:25.000 --> 00:15:30.000]   And so because of that, we ended up playing seven games almost back to back to back.
+[00:15:30.000 --> 00:15:32.000]   And we were out there nine hours.
+[00:15:32.000 --> 00:15:38.000]   So if you see people walking around with burned foreheads and limping, they were the guys who played yesterday.
+[00:15:38.000 --> 00:15:41.000]   So, okay, so that's why we're limping.
+[00:15:41.000 --> 00:15:44.000]   I have a few announcements before we get started.
+[00:15:44.000 --> 00:15:53.000]   First of all, we require anyone who is working at church with children, we require there would be a child safety training.
+[00:15:53.000 --> 00:15:59.000]   So those of you guys who are volunteering, whether it's babysitting or any capacity around children,
+[00:15:59.000 --> 00:16:07.000]   we're asking if you haven't taken the safety training, there's a safety training that's happening on May 28th from 1 to 140 p.m.
+[00:16:07.000 --> 00:16:10.000]   And so after service next Sunday, so please sign up for that.
+[00:16:10.000 --> 00:16:13.000]   And, again, it is a mandatory training for volunteers.
+[00:16:13.000 --> 00:16:17.000]   So if you haven't taken it, please take it for next Sunday.
+[00:16:17.000 --> 00:16:21.000]   And then, again, VBS registration is still happening.
+[00:16:21.000 --> 00:16:27.000]   So if you haven't registered for that, that's happening July 10th to the 14th from 5 to 8 p.m.
+[00:16:27.000 --> 00:16:30.000]   So just keep that in mind and please sign up for that.
+[00:16:30.000 --> 00:16:38.000]   And I want to make a push for one more push for the abortion seminar that's happening on Sunday, May 28th at 145 p.m.
+[00:16:38.000 --> 00:16:46.000]   So those of you who are doing the training, it'll be done at 140 and then at 145, the abortion seminar is going to be happening.
+[00:16:46.000 --> 00:16:52.000]   Pastor Mark Lim is going to be leading that seminar. And I highly encourage you to take that,
+[00:16:52.000 --> 00:16:56.000]   considering what is happening in our culture right now.
+[00:16:56.000 --> 00:17:00.000]   And this fight against abortion has existed for a long time.
+[00:17:00.000 --> 00:17:05.000]   But recently, there has been confusion that's coming into the church,
+[00:17:05.000 --> 00:17:10.000]   and even some of the church leaders are muddying the water, making this an in-house debate.
+[00:17:10.000 --> 00:17:12.000]   It is not an in-house debate.
+[00:17:12.000 --> 00:17:16.000]   And I want to make that very clear that this is not an open debate.
+[00:17:16.000 --> 00:17:20.000]   It's like, well, some Christians believe that you can and some Christians believe that you cannot.
+[00:17:20.000 --> 00:17:24.000]   You cannot, you cannot confess to be a Christian and hold that view.
+[00:17:24.000 --> 00:17:30.000]   That is, again, this is an abomination before God.
+[00:17:30.000 --> 00:17:36.000]   And so not only do we want you to be informed about what the Scripture says on this subject,
+[00:17:36.000 --> 00:17:41.000]   but maybe even practically how to get involved and to be able to articulate.
+[00:17:41.000 --> 00:17:46.000]   And if you hear this argument from somebody, that you're able to defend this biblically,
+[00:17:46.000 --> 00:17:49.000]   what the Bible clearly says about this.
+[00:17:49.000 --> 00:17:54.000]   And so we are, there is a concern because there are even some,
+[00:17:54.000 --> 00:17:59.000]   even in some circles where the church leaders are muddying the water on this subject,
+[00:17:59.000 --> 00:18:03.000]   and a lot of our Christian brothers and sisters are being confused about this issue.
+[00:18:03.000 --> 00:18:06.000]   So we want to make sure that this is not the case in our church.
+[00:18:06.000 --> 00:18:10.000]   And so Pastor Mark will be giving the seminar, a biblical view of what it says,
+[00:18:10.000 --> 00:18:13.000]   and we'll take some time to Q&A and maybe even give some practical advice
+[00:18:13.000 --> 00:18:17.000]   on how we may be able to get involved in this fight.
+[00:18:17.000 --> 00:18:20.000]   So please mark that. If you haven't signed up for it, please sign up for it.
+[00:18:20.000 --> 00:18:24.000]   That's taking place at 1:45 p.m. next Sunday.
+[00:18:24.000 --> 00:18:26.000]   Let me pray for us for the offering.
+[00:18:26.000 --> 00:18:29.000]   Again, if you have a physical offering, we have a box in the back as you're going out.
+[00:18:29.000 --> 00:18:32.000]   And then afterwards, Catherine's going to come up and she's going to give her testimony
+[00:18:32.000 --> 00:18:39.000]   and be baptized this morning. All right, let's pray.
+[00:18:39.000 --> 00:18:42.000]   Gracious Father, we thank you so much for the privilege that we have
+[00:18:42.000 --> 00:18:44.000]   to be able to come and worship you.
+[00:18:44.000 --> 00:18:49.000]   We pray for your blessing. We pray for your Holy Spirit to guide us.
+[00:18:49.000 --> 00:18:53.000]   May our worship, our singing, all that we have, Lord God,
+[00:18:53.000 --> 00:18:56.000]   may be given to you in spirit and in truth.
+[00:18:56.000 --> 00:18:59.000]   I pray that your presence would be known, Father God, through your word,
+[00:18:59.000 --> 00:19:02.000]   through our singing, through the fellowship of the people,
+[00:19:02.000 --> 00:19:05.000]   and that whatever it is that we have brought into this room,
+[00:19:05.000 --> 00:19:09.000]   that you would lift our eyes to Christ, the author and perfecter of our faith.
+[00:19:09.000 --> 00:19:11.000]   I pray that you would bless this offering.
+[00:19:11.000 --> 00:19:16.000]   May it be multiplied for your use. In Jesus' name we pray. Amen.
+[00:19:17.000 --> 00:19:20.000]   [music]
+[00:19:21.000 --> 00:19:24.000]   [music]
+[00:19:24.000 --> 00:19:27.000]   [music]
+[00:19:28.000 --> 00:19:31.000]   [music]
+[00:19:31.000 --> 00:19:45.000]   [music]
+[00:19:45.000 --> 00:19:48.000]   [music]
+[00:19:48.000 --> 00:19:57.000]   [music]
+[00:19:57.000 --> 00:20:13.000]   All right, would you please stand with us as we continue our worship?
+[00:20:13.000 --> 00:20:16.000]   [music]
+[00:20:42.000 --> 00:20:45.000]   [music]
+[00:20:45.000 --> 00:21:00.000]   [music]
+[00:21:01.000 --> 00:21:04.000]   [music]
+[00:21:04.000 --> 00:21:16.000]   [music]
+[00:21:29.000 --> 00:21:32.000]   [music]
+[00:21:32.000 --> 00:21:47.000]   Let all things, let all things their creator bless
+[00:21:47.000 --> 00:21:52.000]   and worship Him in humbleness.
+[00:21:52.000 --> 00:21:59.000]   Oh, praise Him, Alleluia.
+[00:21:59.000 --> 00:22:05.000]   Praise, praise the Father, praise the Son,
+[00:22:05.000 --> 00:22:11.000]   and praise the Spirit three in one.
+[00:22:11.000 --> 00:22:20.000]   Oh, praise Him, oh, praise Him, Alleluia.
+[00:22:20.000 --> 00:22:27.000]   Alleluia, Alleluia.
+[00:22:27.000 --> 00:22:30.000]   [music]
+[00:22:30.000 --> 00:22:38.000]   All the redeemed washed by His blood
+[00:22:38.000 --> 00:22:44.000]   come and rejoice in His great love.
+[00:22:44.000 --> 00:22:51.000]   Oh, praise Him, Alleluia.
+[00:22:51.000 --> 00:22:56.000]   Christ has defeated every sin.
+[00:22:56.000 --> 00:23:03.000]   Yes, He has cast all your burdens now on Him.
+[00:23:03.000 --> 00:23:13.000]   Oh, praise Him, oh, praise Him, Alleluia.
+[00:23:13.000 --> 00:23:20.000]   Alleluia, Alleluia.
+[00:23:20.000 --> 00:23:23.000]   [music]
+[00:23:23.000 --> 00:23:31.000]   He shall return in power to reign.
+[00:23:31.000 --> 00:23:37.000]   Heaven and earth will join to sing.
+[00:23:37.000 --> 00:23:44.000]   Oh, praise Him, Alleluia.
+[00:23:44.000 --> 00:23:50.000]   Then who shall fall on bended knee?
+[00:23:50.000 --> 00:23:56.000]   All creatures of our God and King.
+[00:23:56.000 --> 00:24:05.000]   Oh, praise Him, oh, praise Him, Alleluia.
+[00:24:05.000 --> 00:24:18.000]   Alleluia, oh, praise Him, oh, praise Him, Alleluia.
+[00:24:18.000 --> 00:24:25.000]   Alleluia, Alleluia.
+[00:24:25.000 --> 00:24:28.000]   [music]
+[00:24:28.000 --> 00:24:31.000]   [music]
+[00:24:31.000 --> 00:24:42.000]   [music]
+[00:24:52.000 --> 00:24:59.000]   Oh, God, before the mountains were brought forth
+[00:24:59.000 --> 00:25:05.000]   or days of spring and summer filled the earth,
+[00:25:05.000 --> 00:25:14.000]   from everlasting, You are God.
+[00:25:19.000 --> 00:25:26.000]   We dwell beneath the stars in ancient skies.
+[00:25:26.000 --> 00:25:32.000]   A thousand years are nothing in Your sight.
+[00:25:32.000 --> 00:25:43.000]   From everlasting, You are God.
+[00:25:43.000 --> 00:25:50.000]   And all our days are held within Your hands.
+[00:25:50.000 --> 00:25:57.000]   Your perfect love and favor have no end.
+[00:25:57.000 --> 00:26:10.000]   We rest within the wisdom of Your plan, everlasting God.
+[00:26:10.000 --> 00:26:13.000]   [music]
+[00:26:13.000 --> 00:26:21.000]   Oh, God, when joy and tragedy collide
+[00:26:21.000 --> 00:26:28.000]   and loss reminds us life is but a sigh,
+[00:26:28.000 --> 00:26:39.000]   from everlasting, You are God.
+[00:26:39.000 --> 00:26:46.000]   And all our days are held within Your hands.
+[00:26:46.000 --> 00:26:53.000]   Your perfect love and favor have no end.
+[00:26:53.000 --> 00:27:08.000]   We rest within the wisdom of Your plan, everlasting God.
+[00:27:08.000 --> 00:27:12.000]   We rest within Your plan.
+[00:27:12.000 --> 00:27:23.000]   Oh, God of light, our ways are known to You,
+[00:27:23.000 --> 00:27:30.000]   but by Your grace You're making all things new.
+[00:27:30.000 --> 00:27:37.000]   So satisfy us in our numbered days.
+[00:27:37.000 --> 00:27:43.000]   Establish a free effort while we wait.
+[00:27:43.000 --> 00:27:54.000]   From everlasting, You are God.
+[00:27:54.000 --> 00:28:01.000]   And all our days are held within Your hands.
+[00:28:01.000 --> 00:28:08.000]   Your perfect love and favor have no end.
+[00:28:08.000 --> 00:28:18.000]   We rest within the wisdom of Your plan, everlasting.
+[00:28:18.000 --> 00:28:25.000]   And all our days are held within Your hands.
+[00:28:25.000 --> 00:28:32.000]   Your perfect love and favor have no end.
+[00:28:32.000 --> 00:28:43.000]   We rest within the wisdom of Your plan, everlasting God.
+[00:28:43.000 --> 00:28:46.000]   [music]
+[00:28:54.000 --> 00:28:55.000]   And you may be seated.
+[00:28:55.000 --> 00:29:08.000]   Good morning.
+[00:29:08.000 --> 00:29:09.000]   My name is Catherine Wong.
+[00:29:09.000 --> 00:29:11.000]   I'm a first year at UCI, and this is my testimony.
+[00:29:11.000 --> 00:29:17.000]   I was born and raised in a Christian household
+[00:29:17.000 --> 00:29:18.000]   and grew up in the church.
+[00:29:18.000 --> 00:29:20.000]   My parents were very devout Christians,
+[00:29:20.000 --> 00:29:22.000]   being on the leadership board at church,
+[00:29:22.000 --> 00:29:25.000]   and as they often led worship, I would join them.
+[00:29:25.000 --> 00:29:27.000]   Eventually, I joined a youth worship team
+[00:29:27.000 --> 00:29:29.000]   in middle to high school.
+[00:29:29.000 --> 00:29:32.000]   However, I never had a sincere heart to serve my God.
+[00:29:32.000 --> 00:29:36.000]   I put up a display to others of being that good Christian kid,
+[00:29:36.000 --> 00:29:39.000]   professing to be a Christian, but my faith was not my own.
+[00:29:39.000 --> 00:29:42.000]   My prayer became habitual.
+[00:29:42.000 --> 00:29:44.000]   I said the words I heard everyone around me saying,
+[00:29:44.000 --> 00:29:47.000]   but never genuinely meant any of it.
+[00:29:47.000 --> 00:29:50.000]   By the time high school came, going to church became a chore,
+[00:29:50.000 --> 00:29:53.000]   and I switched my priorities.
+[00:29:53.000 --> 00:29:56.000]   Instead, I prioritized my academics, my relationships,
+[00:29:56.000 --> 00:30:00.000]   both romantic and friendships, and my sport, color guard.
+[00:30:00.000 --> 00:30:03.000]   I put my entire identity in these three things,
+[00:30:03.000 --> 00:30:05.000]   drifting from church and God.
+[00:30:05.000 --> 00:30:08.000]   As a captain in color guard, I put a lot of pressure on myself
+[00:30:08.000 --> 00:30:10.000]   to create the perfect team.
+[00:30:10.000 --> 00:30:14.000]   My patience often ran thin, and I was short-tempered.
+[00:30:14.000 --> 00:30:17.000]   When my coach started telling me that everything that went wrong
+[00:30:17.000 --> 00:30:22.000]   with my team was my fault, I thought that I had failed as a captain.
+[00:30:22.000 --> 00:30:24.000]   Then I strived to please my friends at school,
+[00:30:24.000 --> 00:30:27.000]   who were seen as the geniuses and the top of the class,
+[00:30:27.000 --> 00:30:29.000]   and I thought if I couldn't match their grades and image,
+[00:30:29.000 --> 00:30:32.000]   I would not have a place to fit in.
+[00:30:32.000 --> 00:30:34.000]   When my friends showed disapproval of my grades,
+[00:30:34.000 --> 00:30:37.000]   something I had worked hard to maintain,
+[00:30:37.000 --> 00:30:39.000]   I realized I would never be good enough for them.
+[00:30:39.000 --> 00:30:42.000]   My fear of man grew, and I became a people pleaser,
+[00:30:42.000 --> 00:30:45.000]   always doing things for others for my own selfish desire
+[00:30:45.000 --> 00:30:47.000]   to look better in their eyes.
+[00:30:47.000 --> 00:30:50.000]   However, by the time senior year came,
+[00:30:50.000 --> 00:30:52.000]   my friendship started falling apart.
+[00:30:52.000 --> 00:30:55.000]   I sought stability in a boyfriend, but it could never last
+[00:30:55.000 --> 00:30:58.000]   because God was not the center of that relationship.
+[00:30:58.000 --> 00:31:03.000]   I held him on a pedestal, idolizing him and changing myself to please him.
+[00:31:03.000 --> 00:31:07.000]   I became the kind of person I hated, one who was self-centered,
+[00:31:07.000 --> 00:31:10.000]   cussing when I knew it was wrong, but doing so anyway
+[00:31:10.000 --> 00:31:12.000]   because I received praise for it,
+[00:31:12.000 --> 00:31:15.000]   and going as far as breaking off my connection to God completely,
+[00:31:15.000 --> 00:31:18.000]   only going to church to please my parents.
+[00:31:18.000 --> 00:31:21.000]   However, by the end of senior year, my boyfriend at the time
+[00:31:21.000 --> 00:31:25.000]   and my friend of eight years had told me I was worthless to them.
+[00:31:25.000 --> 00:31:27.000]   I lost everything I had put my identity in,
+[00:31:27.000 --> 00:31:29.000]   and I thought of myself as three things--
+[00:31:29.000 --> 00:31:33.000]   failure, worthless, and unlovable.
+[00:31:33.000 --> 00:31:35.000]   My pride took over, wanting to maintain an image
+[00:31:35.000 --> 00:31:37.000]   of a studious and easygoing person.
+[00:31:37.000 --> 00:31:40.000]   I masked my brokenness with a smile and a laugh,
+[00:31:40.000 --> 00:31:44.000]   never allowing others to see my vulnerability.
+[00:31:44.000 --> 00:31:47.000]   On the inside, I was depressed, hopeless, lost,
+[00:31:47.000 --> 00:31:49.000]   and I indulged in my sin,
+[00:31:49.000 --> 00:31:53.000]   giving into every temptation that was thrown my way.
+[00:31:53.000 --> 00:31:55.000]   But God was gracious to me, and in his power,
+[00:31:55.000 --> 00:31:59.000]   he used my non-believing friend to bring me back to him.
+[00:31:59.000 --> 00:32:01.000]   When my friend had one day asked me,
+[00:32:01.000 --> 00:32:03.000]   "Do you really think you're going to heaven?"
+[00:32:03.000 --> 00:32:07.000]   I suddenly realized just how far I had drifted from God.
+[00:32:07.000 --> 00:32:11.000]   On Easter Sunday of 2022, I recognized my desperation for God.
+[00:32:11.000 --> 00:32:15.000]   I wanted to draw close to him, but did not know how to.
+[00:32:15.000 --> 00:32:19.000]   Jeremiah 31.3 says, "I have loved you with an everlasting love;
+[00:32:19.000 --> 00:32:23.000]   therefore, I have continued my faithfulness to you."
+[00:32:23.000 --> 00:32:26.000]   And indeed, God was faithful and led me to be free
+[00:32:26.000 --> 00:32:28.000]   and slowly changing me.
+[00:32:28.000 --> 00:32:30.000]   God showed me that he is a loving God,
+[00:32:30.000 --> 00:32:32.000]   and even if I don't deserve it,
+[00:32:32.000 --> 00:32:34.000]   God sent his son to die on the cross for my sins,
+[00:32:34.000 --> 00:32:36.000]   displaying unconditional love.
+[00:32:36.000 --> 00:32:38.000]   Understanding that I do not deserve God's love,
+[00:32:38.000 --> 00:32:40.000]   God used my brokenness.
+[00:32:40.000 --> 00:32:44.000]   Now I find my identity in God alone, for John 1.12 says,
+[00:32:44.000 --> 00:32:47.000]   "But to all who did receive him, who believed in his name,
+[00:32:47.000 --> 00:32:50.000]   he gave the right to become children of God."
+[00:32:50.000 --> 00:32:53.000]   Knowing this, I long to serve him and live my life
+[00:32:53.000 --> 00:32:55.000]   in a way that will glorify him.
+[00:32:55.000 --> 00:32:59.000]   Although being a believer does not remove the darkness and trials in my life,
+[00:32:59.000 --> 00:33:02.000]   I know that God is with me to guide, support,
+[00:33:02.000 --> 00:33:05.000]   and give me strength until I can be with him.
+[00:33:05.000 --> 00:33:07.000]   He is a perfect God, and I will submit to him
+[00:33:07.000 --> 00:33:09.000]   so he can use my life for his purpose.
+[00:33:09.000 --> 00:33:11.000]   Thank you.
+[00:33:11.000 --> 00:33:18.000]   [applause]
+[00:33:18.000 --> 00:33:35.000]   [silence]
+[00:33:35.000 --> 00:33:37.000]   >> Do you understand when you go into the water,
+[00:33:37.000 --> 00:33:39.000]   you're being united with Christ's death,
+[00:33:39.000 --> 00:33:42.000]   and when you come out, you're being united with resurrected life?
+[00:33:42.000 --> 00:33:46.000]   I baptize you in the name of the Father, the Son, and the Holy Spirit.
+[00:33:46.000 --> 00:33:52.000]   [silence]
+[00:33:52.000 --> 00:34:04.000]   [applause]
+[00:34:04.000 --> 00:34:06.000]   >> Thank you, Catherine, for that testimony.
+[00:34:06.000 --> 00:34:16.000]   You can turn your Bible with me to Luke chapter 6, verses 12 through 16.
+[00:34:16.000 --> 00:34:22.000]   Luke chapter 6, verses 12 through 16.
+[00:34:22.000 --> 00:34:24.000]   We're going to be in this text for a few weeks,
+[00:34:24.000 --> 00:34:26.000]   just to kind of give you a heads up.
+[00:34:26.000 --> 00:34:28.000]   Luke chapter 6, verses 12 through 16.
+[00:34:28.000 --> 00:34:31.000]   I'm reading out of the NASB.
+[00:34:31.000 --> 00:34:34.000]   "It was at this time that he went off to the mountain to pray,
+[00:34:34.000 --> 00:34:37.000]   and he spent the whole night in prayer to God.
+[00:34:37.000 --> 00:34:39.000]   And when day came, he called his disciples to him
+[00:34:39.000 --> 00:34:43.000]   and chose 12 of them, whom he also named as apostles.
+[00:34:43.000 --> 00:34:46.000]   Simon, whom he also named Peter, and Andrew his brother,
+[00:34:46.000 --> 00:34:49.000]   and James and John, and Philip and Bartholomew,
+[00:34:49.000 --> 00:34:51.000]   and Matthew and Thomas, James the son of Alphaeus,
+[00:34:51.000 --> 00:34:54.000]   and Simon, who was called the Zealot,
+[00:34:54.000 --> 00:34:56.000]   Judas the son of James, and Judas Iscariot,
+[00:34:56.000 --> 00:34:58.000]   who became a traitor."
+[00:34:58.000 --> 00:35:04.000]   Let's pray.
+[00:35:04.000 --> 00:35:08.000]   Heavenly Father, we pray for your continued grace.
+[00:35:08.000 --> 00:35:11.000]   I pray that what you have ordained in these words,
+[00:35:11.000 --> 00:35:17.000]   that we would hear, understand, and apply in our lives.
+[00:35:17.000 --> 00:35:20.000]   Lord, you are the powder and we are the clay.
+[00:35:20.000 --> 00:35:23.000]   We pray that you would mold our hearts, our thoughts, our very lives,
+[00:35:23.000 --> 00:35:25.000]   according to your living word,
+[00:35:25.000 --> 00:35:27.000]   that we may not conform to the pattern of this world,
+[00:35:27.000 --> 00:35:31.000]   but be transformed by the renewing of our mind.
+[00:35:31.000 --> 00:35:34.000]   Bless this time, and we ask for the Holy Spirit to guide us and empower us.
+[00:35:34.000 --> 00:35:38.000]   In Jesus' name we pray. Amen.
+[00:35:38.000 --> 00:35:40.000]   All right, so I'm just going to give you a heads up.
+[00:35:40.000 --> 00:35:44.000]   We're going to be in this text for about three to four,
+[00:35:44.000 --> 00:35:48.000]   possibly even five weeks, because I want to take our time
+[00:35:48.000 --> 00:35:51.000]   coming through who these people are, who these 12 people are.
+[00:35:51.000 --> 00:35:53.000]   Not just generally.
+[00:35:53.000 --> 00:35:55.000]   Today I'm going to be talking, generally speaking,
+[00:35:55.000 --> 00:35:58.000]   about the choice of these 12 men,
+[00:35:58.000 --> 00:36:03.000]   but I cannot overemphasize just how important these 12 men are.
+[00:36:03.000 --> 00:36:07.000]   Right now, we have a lot of aging men
+[00:36:07.000 --> 00:36:10.000]   who have made a huge impact in our culture,
+[00:36:10.000 --> 00:36:13.000]   and so there's a lot of conversations going on
+[00:36:13.000 --> 00:36:17.000]   as to what the success is going to look like.
+[00:36:17.000 --> 00:36:19.000]   What are the qualities that they would look for
+[00:36:19.000 --> 00:36:24.000]   if a man who has made a huge impact
+[00:36:24.000 --> 00:36:26.000]   in that person's church?
+[00:36:26.000 --> 00:36:27.000]   Who are they looking for?
+[00:36:27.000 --> 00:36:29.000]   How are they going to fill his shoes?
+[00:36:29.000 --> 00:36:31.000]   What are the qualities that are important?
+[00:36:31.000 --> 00:36:33.000]   So obviously no man is perfect,
+[00:36:33.000 --> 00:36:36.000]   but what are the things that they would look for
+[00:36:36.000 --> 00:36:39.000]   in order to continue on that ministry?
+[00:36:39.000 --> 00:36:42.000]   So their choice is going to be based upon what they value.
+[00:36:42.000 --> 00:36:44.000]   What's important to them?
+[00:36:44.000 --> 00:36:46.000]   What are some things that aren't as important?
+[00:36:46.000 --> 00:36:48.000]   What are some things that are essential that they can't compromise on?
+[00:36:48.000 --> 00:36:51.000]   So all of these things kind of reveal to us
+[00:36:51.000 --> 00:36:55.000]   what is valued in that ministry.
+[00:36:55.000 --> 00:37:00.000]   Well, these 12 men are going to be walking with Jesus for three years,
+[00:37:00.000 --> 00:37:02.000]   and after three years,
+[00:37:02.000 --> 00:37:06.000]   Jesus is going to give them the baton of his ministry
+[00:37:06.000 --> 00:37:09.000]   to continue what Jesus has done.
+[00:37:09.000 --> 00:37:13.000]   And so, again, I can't emphasize how important this ministry is
+[00:37:13.000 --> 00:37:17.000]   because everything that Jesus did in those three years,
+[00:37:17.000 --> 00:37:19.000]   when he leaves,
+[00:37:19.000 --> 00:37:22.000]   he said, "I ordain you now as my apostles."
+[00:37:22.000 --> 00:37:27.000]   In fact, the word "apostle" literally translates just means "sent one."
+[00:37:27.000 --> 00:37:30.000]   So I know that in some circles they use that term just kind of generically,
+[00:37:30.000 --> 00:37:32.000]   like we're the sent ones, or missionaries are apostles,
+[00:37:32.000 --> 00:37:35.000]   but that's not how the Bible uses this term,
+[00:37:35.000 --> 00:37:37.000]   at least not with his disciples.
+[00:37:37.000 --> 00:37:42.000]   The apostles here are specifically ordained, 12 specific men.
+[00:37:42.000 --> 00:37:45.000]   Not anybody who is going to become a missionary,
+[00:37:45.000 --> 00:37:52.000]   but 12 specific men who are going to take the baton and have an impact.
+[00:37:52.000 --> 00:37:57.000]   The apostles were called to be the first missionaries,
+[00:37:57.000 --> 00:38:01.000]   that everything that Jesus did and everything that Jesus taught and revealed,
+[00:38:01.000 --> 00:38:03.000]   these 12 men are going to be ordained to go out
+[00:38:03.000 --> 00:38:07.000]   and first ones to go out and preach the gospel.
+[00:38:07.000 --> 00:38:10.000]   So imagine if they get it wrong.
+[00:38:10.000 --> 00:38:13.000]   If after everything that Jesus said, it's like, "Ah, I don't remember.
+[00:38:13.000 --> 00:38:16.000]   I think Jesus said this."
+[00:38:16.000 --> 00:38:21.000]   Imagine if the 12 men went out and started telling different stories.
+[00:38:21.000 --> 00:38:26.000]   Now, I don't know if you've ever studied Buddhism,
+[00:38:26.000 --> 00:38:31.000]   but when I was very confused and I wanted to find out which faith is the right faith,
+[00:38:31.000 --> 00:38:34.000]   and I did a paper on the subject of Buddhism,
+[00:38:34.000 --> 00:38:39.000]   and I found out that this man named Gautama, who was the last Buddha,
+[00:38:39.000 --> 00:38:46.000]   and his disciples, after he died, went out and began to teach what they said Buddha taught,
+[00:38:46.000 --> 00:38:50.000]   and all 12 men contradicted each other.
+[00:38:50.000 --> 00:38:54.000]   And so every continent you go, they have the form Buddhism,
+[00:38:54.000 --> 00:38:58.000]   but then everywhere you go, they have different forms of Buddhism.
+[00:38:58.000 --> 00:39:01.000]   It wasn't because years later it just kind of got watered down.
+[00:39:01.000 --> 00:39:03.000]   That started from the get-go.
+[00:39:03.000 --> 00:39:09.000]   Depending on which disciple of Gautama went out and where they took it.
+[00:39:09.000 --> 00:39:13.000]   Imagine what would have happened to Christianity if the 12 disciples kind of spread out,
+[00:39:13.000 --> 00:39:18.000]   and they began to just say whatever they wanted to say, and all of them sounded very different.
+[00:39:18.000 --> 00:39:22.000]   That's how important these men were, that they had a consistent message,
+[00:39:22.000 --> 00:39:26.000]   and they accurately conveyed what Jesus had to say.
+[00:39:26.000 --> 00:39:30.000]   On top of that, in Luke chapter 9, verse 1,
+[00:39:30.000 --> 00:39:34.000]   it said Jesus gave them power and authority over demons.
+[00:39:34.000 --> 00:39:38.000]   Now I know that in some circles, that they apply this and say,
+[00:39:38.000 --> 00:39:40.000]   "We've all been given powers over demons."
+[00:39:40.000 --> 00:39:42.000]   It's like, no, the Bible never says that.
+[00:39:42.000 --> 00:39:44.000]   We can pray, and God can answer our prayers.
+[00:39:44.000 --> 00:39:47.000]   God can work miracles through our prayers.
+[00:39:47.000 --> 00:39:50.000]   But not every person has been given this kind of authority.
+[00:39:50.000 --> 00:39:56.000]   The apostles specifically were given this authority over demons.
+[00:39:56.000 --> 00:40:01.000]   Ephesians 4.11 says, "The church that you and I belong to."
+[00:40:01.000 --> 00:40:06.000]   It says, "The founders of the church were the apostles."
+[00:40:06.000 --> 00:40:09.000]   So imagine if these apostles failed.
+[00:40:09.000 --> 00:40:14.000]   You and I would not be here, because it was built upon the foundation of their preaching,
+[00:40:14.000 --> 00:40:18.000]   and of their ministry, the churches that they planted, and that's how we got here.
+[00:40:18.000 --> 00:40:22.000]   And some of these apostles were chosen to give us the Word of God.
+[00:40:22.000 --> 00:40:27.000]   So again, imagine if these men failed, and they started to go off on their own way,
+[00:40:27.000 --> 00:40:32.000]   and began to preach a different gospel, what would we have today?
+[00:40:32.000 --> 00:40:37.000]   On top of that, in Luke chapter 22, 29-30, they said,
+[00:40:37.000 --> 00:40:42.000]   "They will sit on the throne, judging the twelve tribes of Israel."
+[00:40:42.000 --> 00:40:47.000]   These twelve men, in the millennial kingdom, the thousand-year reign of Christ,
+[00:40:47.000 --> 00:40:50.000]   that they are going to be rulers of Israel.
+[00:40:50.000 --> 00:40:52.000]   Now this is kind of a side point.
+[00:40:52.000 --> 00:40:57.000]   If God is done with Israel, why even have these twelve apostles?
+[00:40:57.000 --> 00:41:01.000]   And why even say that they're going to be ruling?
+[00:41:01.000 --> 00:41:04.000]   If we're in a new covenant, and none of this matters, it's the church,
+[00:41:04.000 --> 00:41:06.000]   why not just move on from that and talk about the church?
+[00:41:06.000 --> 00:41:09.000]   Again, this is a side point, so if you didn't get that, don't worry about it.
+[00:41:09.000 --> 00:41:15.000]   But if you did get that, you know what I'm saying.
+[00:41:15.000 --> 00:41:19.000]   These twelve apostles have their place in the millennial kingdom,
+[00:41:19.000 --> 00:41:24.000]   and then in the final kingdom, Revelation chapter 21, 12-14, read what it says.
+[00:41:24.000 --> 00:41:30.000]   "It is a great and high wall, with twelve gates, at the gates twelve angels,
+[00:41:30.000 --> 00:41:34.000]   and the names were written on them, which are the names of the twelve tribes of the sons of Israel.
+[00:41:34.000 --> 00:41:37.000]   There were three gates on the east, and three gates on the north,
+[00:41:37.000 --> 00:41:40.000]   and three gates on the south, and three gates on the west.
+[00:41:40.000 --> 00:41:42.000]   And the wall of the city had twelve foundation stones,
+[00:41:42.000 --> 00:41:48.000]   and on them were the twelve names of the twelve apostles of the Lamb."
+[00:41:48.000 --> 00:41:53.000]   So that, I mean, not only were they the first ones, first missionaries to grow up,
+[00:41:53.000 --> 00:41:56.000]   not only were they given power that other people did not have,
+[00:41:56.000 --> 00:42:01.000]   not only were they the foundation of the church that you and I belong to,
+[00:42:01.000 --> 00:42:06.000]   they have a place in the millennial kingdom, and then they have a place,
+[00:42:06.000 --> 00:42:10.000]   their names are written in eternity.
+[00:42:10.000 --> 00:42:15.000]   So you would think with something this important, with this kind of impact,
+[00:42:15.000 --> 00:42:18.000]   that somehow there's this big revelation, and, you know, it's like,
+[00:42:18.000 --> 00:42:20.000]   "These are the twelve men I'm giving to you."
+[00:42:20.000 --> 00:42:22.000]   But on the surface, it looks very ordinary.
+[00:42:22.000 --> 00:42:27.000]   Jesus goes up to pray, and then he comes out and says, "You follow me, you follow me, you follow me."
+[00:42:27.000 --> 00:42:31.000]   And twelve men are gathered together, and then only as time goes by,
+[00:42:31.000 --> 00:42:34.000]   we realize who these twelve men are.
+[00:42:34.000 --> 00:42:39.000]   These guys have eternal impact, not just during that short period,
+[00:42:39.000 --> 00:42:44.000]   and they were going to be trained for three years.
+[00:42:44.000 --> 00:42:45.000]   For three years.
+[00:42:45.000 --> 00:42:51.000]   That's why when they were about to leave, they understood the weightiness of what was coming to them.
+[00:42:51.000 --> 00:42:54.000]   So what we're going to do if you leave, remember what Jesus says?
+[00:42:54.000 --> 00:43:00.000]   "Don't worry. It's better for you if I leave, because if I leave, the counselor is going to come,
+[00:43:00.000 --> 00:43:05.000]   and he's going to help you, and he's going to cause you to remember everything that I have said."
+[00:43:05.000 --> 00:43:07.000]   So he didn't leave it up to them.
+[00:43:07.000 --> 00:43:10.000]   He didn't just say, "Hey, you got enough training, you saw everything, now go and repeat it."
+[00:43:10.000 --> 00:43:15.000]   He says, "No. The Holy Spirit is going to come, and all you need to do is submit.
+[00:43:15.000 --> 00:43:18.000]   Be filled with the Holy Spirit, and the Holy Spirit will empower you,
+[00:43:18.000 --> 00:43:24.000]   and the Holy Spirit will cause you to be my witnesses in Jerusalem, Judea, Samaria,
+[00:43:24.000 --> 00:43:27.000]   to the remotest part of the world."
+[00:43:27.000 --> 00:43:29.000]   That's how important these twelve men are.
+[00:43:29.000 --> 00:43:35.000]   They're chosen, and no wonder Jesus took all night to pray.
+[00:43:35.000 --> 00:43:37.000]   The fact that he went up to the mountain to pray.
+[00:43:37.000 --> 00:43:40.000]   I mean, Jesus was all over his ministry.
+[00:43:40.000 --> 00:43:44.000]   We see every time he would break away to be alone and to pray.
+[00:43:44.000 --> 00:43:47.000]   But in this particular instance, he's up in the mountain.
+[00:43:47.000 --> 00:43:50.000]   And, you know, when we think about mountain prayer, we immediately go to Moses,
+[00:43:50.000 --> 00:44:00.000]   where he spends his time there praying and meeting with Yahweh to receive the covenant, the laws.
+[00:44:00.000 --> 00:44:03.000]   Jesus spends all night in prayer.
+[00:44:03.000 --> 00:44:06.000]   I don't know if you've ever prayed all night.
+[00:44:06.000 --> 00:44:08.000]   It's not easy.
+[00:44:08.000 --> 00:44:11.000]   When I first got saved, the ministry that I belonged to,
+[00:44:11.000 --> 00:44:14.000]   I don't remember much about the Bible studies and activities,
+[00:44:14.000 --> 00:44:18.000]   but all I knew is they were committed to pray.
+[00:44:18.000 --> 00:44:21.000]   And we would have Bible study from 10 to 3 in the morning.
+[00:44:21.000 --> 00:44:23.000]   Every Friday night, they would have prayer meetings.
+[00:44:23.000 --> 00:44:26.000]   And I remember so many times just falling asleep.
+[00:44:26.000 --> 00:44:31.000]   And then the older guys who would go to work, and then they would come back,
+[00:44:31.000 --> 00:44:35.000]   and after a full day's work, would be praying from 10 to 3.
+[00:44:35.000 --> 00:44:40.000]   And we were always kind of like seeing who's going to fall asleep first, right?
+[00:44:40.000 --> 00:44:42.000]   And then somebody would snore.
+[00:44:42.000 --> 00:44:45.000]   I mean, it's interesting how, you know, because they're wrestling and struggling,
+[00:44:45.000 --> 00:44:49.000]   and then we hear somebody snoring, and then we've got to tap them and say,
+[00:44:49.000 --> 00:44:52.000]   "Hey, you're making it hard for us to pray because you're snoring."
+[00:44:52.000 --> 00:44:54.000]   And so I just remember just wrestling.
+[00:44:54.000 --> 00:45:01.000]   And that discipline of praying, I just remember that early on as a young Christian.
+[00:45:01.000 --> 00:45:05.000]   The fact that Jesus was there overnight praying is because of something important.
+[00:45:05.000 --> 00:45:09.000]   And I don't know exactly what he was praying for, but I can imagine, again,
+[00:45:09.000 --> 00:45:15.000]   that Jesus was wrestling in prayer, knowing the impact of these 12 men.
+[00:45:15.000 --> 00:45:18.000]   And that's why knowing who these 12 people are is so important
+[00:45:18.000 --> 00:45:21.000]   because it was not a random group of 12 people.
+[00:45:21.000 --> 00:45:26.000]   I can imagine all night Jesus was wrestling, and God says, "Peter."
+[00:45:26.000 --> 00:45:30.000]   It's like, "Peter? That guy's a loud mouth.
+[00:45:30.000 --> 00:45:32.000]   You know, he doesn't have control over his temper.
+[00:45:32.000 --> 00:45:36.000]   Are you sure you want Peter?"
+[00:45:36.000 --> 00:45:39.000]   It's like, "What about James and John?"
+[00:45:39.000 --> 00:45:41.000]   "They would be mass murderers."
+[00:45:41.000 --> 00:45:44.000]   You know what I mean? "Sons of Thunder."
+[00:45:44.000 --> 00:45:47.000]   "Are you sure? They've got such a bad temper."
+[00:45:47.000 --> 00:45:51.000]   "What about Levi? What about Matthew?"
+[00:45:51.000 --> 00:45:54.000]   "They're going to kill each other. They're going to hate each other. Are you sure?"
+[00:45:54.000 --> 00:45:58.000]   I can imagine Jesus praying and wrestling.
+[00:45:58.000 --> 00:46:06.000]   And so each one of them, yes, even Judas Iscariot, was not a random choice.
+[00:46:06.000 --> 00:46:08.000]   There was a purpose behind that.
+[00:46:08.000 --> 00:46:13.000]   And so that's why it's important for us to wrestle and look through each one of these names.
+[00:46:13.000 --> 00:46:14.000]   I'm not going to be doing this today.
+[00:46:14.000 --> 00:46:18.000]   I'm going to be looking at the larger picture of how Jesus chooses them
+[00:46:18.000 --> 00:46:26.000]   and what are the qualities that kind of point to God's nature, His purpose, and the way He works.
+[00:46:26.000 --> 00:46:28.000]   These are the things that we need to be able to understand
+[00:46:28.000 --> 00:46:33.000]   because as we are struggling to meet God, as we are struggling to be sanctified,
+[00:46:33.000 --> 00:46:38.000]   these are the men that God has given us to model after.
+[00:46:38.000 --> 00:46:43.000]   As the Apostle Paul says, "Follow me as I follow Christ. Imitate me as I imitate Christ."
+[00:46:43.000 --> 00:46:47.000]   So apostles were given to us so that we may imitate them as they imitated Christ.
+[00:46:47.000 --> 00:46:50.000]   So we need to understand who these men were.
+[00:46:50.000 --> 00:46:51.000]   Why were they chosen?
+[00:46:51.000 --> 00:47:00.000]   Why were they given as apostles to be the foundation of the church?
+[00:47:00.000 --> 00:47:04.000]   The disciples, when Jesus comes down and chooses the twelve,
+[00:47:04.000 --> 00:47:05.000]   they immediately respond.
+[00:47:05.000 --> 00:47:07.000]   He said they left everything.
+[00:47:07.000 --> 00:47:11.000]   According to Luke 5.11, they left everything to follow Him.
+[00:47:11.000 --> 00:47:14.000]   There was no part-time apostle.
+[00:47:14.000 --> 00:47:20.000]   There was nobody who was called by Jesus and said, "Let me do this. Let me do that."
+[00:47:20.000 --> 00:47:22.000]   In fact, Jesus speaks against that.
+[00:47:22.000 --> 00:47:27.000]   And this is true to some degree to every Christian.
+[00:47:27.000 --> 00:47:31.000]   Anybody who says, "You know, I don't want to follow Christ, but let me do this. Let me do that."
+[00:47:31.000 --> 00:47:34.000]   Remember what Jesus said, "You're not worthy to be my disciple."
+[00:47:34.000 --> 00:47:38.000]   But especially those who had committed their life to Christ
+[00:47:38.000 --> 00:47:42.000]   to be a missionary, a full-time pastor in some capacity.
+[00:47:42.000 --> 00:47:46.000]   There is no such thing as a part-time.
+[00:47:46.000 --> 00:47:50.000]   I remember early on in ministry when things got tough
+[00:47:50.000 --> 00:47:53.000]   and we were literally living paycheck to paycheck,
+[00:47:53.000 --> 00:47:56.000]   just barely able to buy food.
+[00:47:56.000 --> 00:48:01.000]   And just struggling to take care of the three children at that time before we had Isaiah.
+[00:48:01.000 --> 00:48:07.000]   Just wrestling with this and thinking, "I don't know how long I can do this."
+[00:48:07.000 --> 00:48:11.000]   And I remember in a car ride asking my mom, thinking,
+[00:48:11.000 --> 00:48:15.000]   "How am I going to survive here? How am I going to take care of the kids?"
+[00:48:15.000 --> 00:48:19.000]   You talk about stress, and I think all of you would agree if you have children.
+[00:48:19.000 --> 00:48:23.000]   There is nothing more stressful for a man or a mother
+[00:48:23.000 --> 00:48:27.000]   when you can't provide for your kids.
+[00:48:27.000 --> 00:48:31.000]   And there was years and years in the early church where
+[00:48:31.000 --> 00:48:35.000]   literally if I didn't get the check on time from church,
+[00:48:35.000 --> 00:48:39.000]   I had to wait to go shopping for food.
+[00:48:39.000 --> 00:48:43.000]   And during that period of struggling, I asked my mom,
+[00:48:43.000 --> 00:48:47.000]   and thinking, "Maybe I can just be a tent maker.
+[00:48:47.000 --> 00:48:51.000]   Maybe I can just start a business or do some kind of a job
+[00:48:51.000 --> 00:48:54.000]   and then just volunteer at church."
+[00:48:54.000 --> 00:48:57.000]   And I asked my mom, "What do you think?"
+[00:48:57.000 --> 00:49:00.000]   And I fully thought that she was going to say,
+[00:49:00.000 --> 00:49:04.000]   "Okay, Peter, you've given your best, and you've got to take care of your family,
+[00:49:04.000 --> 00:49:06.000]   why don't you do that?"
+[00:49:06.000 --> 00:49:09.000]   Because when I first told my mom that I was headed toward ministry,
+[00:49:09.000 --> 00:49:11.000]   she was really not that happy.
+[00:49:11.000 --> 00:49:15.000]   And I knew why, because they struggled so much, and it was so hard for them.
+[00:49:15.000 --> 00:49:18.000]   And having one of your children volunteering and saying,
+[00:49:18.000 --> 00:49:20.000]   "I want to go to that path too,"
+[00:49:20.000 --> 00:49:24.000]   what mother would be happy considering what they experienced?
+[00:49:24.000 --> 00:49:28.000]   So I was thinking my mom would maybe not be happy,
+[00:49:28.000 --> 00:49:31.000]   but at least be supportive.
+[00:49:31.000 --> 00:49:35.000]   But I remember very vividly, because it made such an impact on me,
+[00:49:35.000 --> 00:49:40.000]   and to some degree, I'm not sure if I would be here if she accepted what I said.
+[00:49:40.000 --> 00:49:42.000]   What she said was, after I said that, she said,
+[00:49:42.000 --> 00:49:48.000]   "Peter, I've never seen anybody who hasn't fully committed
+[00:49:48.000 --> 00:49:52.000]   who was successful or fruitful in ministry,
+[00:49:52.000 --> 00:49:54.000]   because your heart's divided."
+[00:49:54.000 --> 00:49:57.000]   I did not expect that from my mom,
+[00:49:57.000 --> 00:50:00.000]   considering how hard her life was.
+[00:50:00.000 --> 00:50:05.000]   And she said to me, she said, "Peter, you're called by God.
+[00:50:05.000 --> 00:50:07.000]   No matter how hard it is, you have to be single-minded.
+[00:50:07.000 --> 00:50:09.000]   You have to commit."
+[00:50:09.000 --> 00:50:12.000]   So I was pretty taken aback, because I knew--
+[00:50:12.000 --> 00:50:16.000]   initially, she didn't want me to go into the pastoral ministry.
+[00:50:16.000 --> 00:50:19.000]   And then I asked my wife the same question, "What do you think?"
+[00:50:19.000 --> 00:50:21.000]   And I knew how we were both struggling.
+[00:50:21.000 --> 00:50:24.000]   And imagine if I was stressed, how stressed she was.
+[00:50:24.000 --> 00:50:26.000]   And I asked her the same question,
+[00:50:26.000 --> 00:50:32.000]   "What if I just fully commit to doing business or working somewhere
+[00:50:32.000 --> 00:50:35.000]   and just pay the bills, and I can volunteer at church?"
+[00:50:35.000 --> 00:50:37.000]   And this is exactly what Esther said to me.
+[00:50:37.000 --> 00:50:42.000]   She said, "You know what I think.
+[00:50:42.000 --> 00:50:46.000]   I would want you to do that.
+[00:50:46.000 --> 00:50:49.000]   But I know you.
+[00:50:49.000 --> 00:50:54.000]   If you do that now, you're never going to be happy.
+[00:50:54.000 --> 00:50:57.000]   It's hard now, but you need to persevere."
+[00:50:57.000 --> 00:51:01.000]   And so the two women in my life at that time
+[00:51:01.000 --> 00:51:06.000]   who would have wanted me to compromise
+[00:51:06.000 --> 00:51:09.000]   and to go down that path pushed me back into ministry.
+[00:51:09.000 --> 00:51:12.000]   And if they didn't do that, I don't know if I would have been here.
+[00:51:12.000 --> 00:51:14.000]   And they were right.
+[00:51:14.000 --> 00:51:17.000]   If I gave half of my heart to ministry
+[00:51:17.000 --> 00:51:19.000]   and the other half to something else,
+[00:51:19.000 --> 00:51:22.000]   I would not have ever--I would not have been able to persevere.
+[00:51:22.000 --> 00:51:25.000]   I can't tell you how many times throughout the ministry
+[00:51:25.000 --> 00:51:28.000]   if I had an alternative, I would have taken that.
+[00:51:28.000 --> 00:51:30.000]   And I always think about it.
+[00:51:30.000 --> 00:51:34.000]   A rich pastor, it's very difficult to persevere
+[00:51:34.000 --> 00:51:38.000]   because he's never fully in, all in.
+[00:51:38.000 --> 00:51:41.000]   It's like getting married.
+[00:51:41.000 --> 00:51:44.000]   You don't make a covenant with your wife
+[00:51:44.000 --> 00:51:48.000]   and then hold on to your old girlfriend's phone numbers.
+[00:51:49.000 --> 00:51:52.000]   It's like, "I'm not going to call them.
+[00:51:52.000 --> 00:51:55.000]   I'm not going to call. Don't worry. I'm fully committed.
+[00:51:55.000 --> 00:51:58.000]   But I'm just going to keep it.
+[00:51:58.000 --> 00:52:01.000]   I'm going to keep it buried somewhere in the garage somewhere."
+[00:52:01.000 --> 00:52:05.000]   Who knows how many are going to be okay with that?
+[00:52:05.000 --> 00:52:08.000]   Nobody, because when you enter that covenant,
+[00:52:08.000 --> 00:52:10.000]   you're supposed to burn that bridge.
+[00:52:10.000 --> 00:52:14.000]   You're done. Your old life needs to be gone.
+[00:52:14.000 --> 00:52:18.000]   Again, this is not unique to some Christians.
+[00:52:18.000 --> 00:52:20.000]   This is a calling for every Christian,
+[00:52:20.000 --> 00:52:25.000]   but in particular, if you're going to be the example to the church,
+[00:52:25.000 --> 00:52:28.000]   you have to burn the bridge.
+[00:52:28.000 --> 00:52:31.000]   You have to leave behind your old life, your ambition.
+[00:52:31.000 --> 00:52:35.000]   You have to make Christ everything.
+[00:52:35.000 --> 00:52:40.000]   Because if you do not, you will be tempted to go back.
+[00:52:40.000 --> 00:52:43.000]   You will be tempted to go back.
+[00:52:43.000 --> 00:52:46.000]   The apostles left everything to follow Christ.
+[00:52:46.000 --> 00:52:49.000]   There was no alternative if this doesn't work out.
+[00:52:49.000 --> 00:52:52.000]   If this doesn't work out, they are ruined.
+[00:52:52.000 --> 00:52:55.000]   They're going to be hated.
+[00:52:55.000 --> 00:52:58.000]   Whatever they were working for is done.
+[00:52:58.000 --> 00:53:00.000]   And that's exactly how they responded.
+[00:53:00.000 --> 00:53:04.000]   They didn't know the weightiness of what it is that they were called for,
+[00:53:04.000 --> 00:53:09.000]   but because they left everything, every single one of them,
+[00:53:09.000 --> 00:53:14.000]   and Christ knowing this ordained them for what God has planned.
+[00:53:14.000 --> 00:53:18.000]   So this morning, what I want to look at are the qualities of these men.
+[00:53:18.000 --> 00:53:20.000]   And I'm just going to give a general quality,
+[00:53:20.000 --> 00:53:24.000]   and then next week we're going to go into each individual.
+[00:53:24.000 --> 00:53:29.000]   The first thing that we see that's most obvious is who they are not.
+[00:53:29.000 --> 00:53:32.000]   The first thing, who they are not.
+[00:53:32.000 --> 00:53:36.000]   In Luke 6:11, it says, "But they themselves were filled with rage,
+[00:53:36.000 --> 00:53:39.000]   the Pharisees and the scribes and the leaders of Israel,
+[00:53:39.000 --> 00:53:42.000]   because Jesus was healing on the Sabbath."
+[00:53:42.000 --> 00:53:46.000]   He wasn't breaking any law, but they were breaking their tradition.
+[00:53:46.000 --> 00:53:50.000]   So they got angry, because they tried so hard to establish these laws,
+[00:53:50.000 --> 00:53:54.000]   and here's this guy gaining popularity, and he's challenging them.
+[00:53:54.000 --> 00:53:56.000]   And he says, in the midst of them trying to--
+[00:53:56.000 --> 00:53:59.000]   What are we going to do with this guy? This guy's a troublemaker.
+[00:53:59.000 --> 00:54:05.000]   And right after that, in the next passage, he says he chooses the twelve.
+[00:54:05.000 --> 00:54:08.000]   That's not by accident.
+[00:54:08.000 --> 00:54:13.000]   That in the midst of a growing animosity toward Christ,
+[00:54:13.000 --> 00:54:18.000]   the choosing of these twelve men would have infuriated the leaders.
+[00:54:18.000 --> 00:54:19.000]   You can imagine why.
+[00:54:19.000 --> 00:54:22.000]   And I think some of you may have experienced, to some degree,
+[00:54:22.000 --> 00:54:28.000]   if you have a job, and you know that there's a position opening up
+[00:54:28.000 --> 00:54:32.000]   that may be a higher position, and you're working your tail off.
+[00:54:32.000 --> 00:54:35.000]   You're coming in early, leaving late. You're working harder than anybody else.
+[00:54:35.000 --> 00:54:37.000]   You sacrifice more than anybody else,
+[00:54:37.000 --> 00:54:43.000]   and you think that who else is going to deserve that but me?
+[00:54:43.000 --> 00:54:46.000]   Who else is going to be--
+[00:54:46.000 --> 00:54:49.000]   They would make perfect sense that I would be the one chosen,
+[00:54:49.000 --> 00:54:52.000]   and then when they finally choose the guy to be the supervisor,
+[00:54:52.000 --> 00:54:56.000]   it's this new guy who just came in.
+[00:54:56.000 --> 00:54:58.000]   Maybe he has some sort of connection with the leadership,
+[00:54:58.000 --> 00:55:01.000]   or whatever the reason is, you're bypassed,
+[00:55:01.000 --> 00:55:03.000]   and then that guy gets put into leadership.
+[00:55:03.000 --> 00:55:05.000]   Imagine how you would feel.
+[00:55:05.000 --> 00:55:07.000]   Some of you may have experienced that.
+[00:55:07.000 --> 00:55:09.000]   It doesn't have to be a job. It could be at school.
+[00:55:09.000 --> 00:55:12.000]   It could be at anything that you feel you work so hard,
+[00:55:12.000 --> 00:55:15.000]   and they completely bypass you and go with some random guy
+[00:55:15.000 --> 00:55:17.000]   who, in your mind, don't deserve it.
+[00:55:17.000 --> 00:55:19.000]   They didn't work as hard as you did.
+[00:55:19.000 --> 00:55:22.000]   They didn't sacrifice their company like you did,
+[00:55:22.000 --> 00:55:25.000]   and yet he's your boss now?
+[00:55:25.000 --> 00:55:29.000]   Now that's a very small snippet
+[00:55:29.000 --> 00:55:33.000]   compared to what the Pharisees did for hundreds of years.
+[00:55:33.000 --> 00:55:35.000]   They committed themselves to sacrifice.
+[00:55:35.000 --> 00:55:39.000]   Imagine how difficult it would have been to obey the Sabbath,
+[00:55:39.000 --> 00:55:41.000]   the way that they created it.
+[00:55:41.000 --> 00:55:44.000]   They sacrificed everything. They tied to everything.
+[00:55:44.000 --> 00:55:47.000]   They fasted. They prayed. They evangelized.
+[00:55:47.000 --> 00:55:51.000]   They kept the law legalistically more than anybody else,
+[00:55:51.000 --> 00:55:56.000]   so if the Messiah comes, who would be in line?
+[00:55:56.000 --> 00:56:00.000]   If you ask 9 out of 10 people at that time,
+[00:56:00.000 --> 00:56:02.000]   if the Messiah would come,
+[00:56:02.000 --> 00:56:05.000]   who would be in line to be the Messiah's disciple?
+[00:56:05.000 --> 00:56:10.000]   Almost universities would say, "Well, who else but the Pharisees?"
+[00:56:10.000 --> 00:56:12.000]   They're the ones who's working the heart.
+[00:56:12.000 --> 00:56:14.000]   They're the ones sacrificing more than anybody else.
+[00:56:14.000 --> 00:56:16.000]   They're the ones who are evangelizing,
+[00:56:16.000 --> 00:56:19.000]   and they're the ones who are serving.
+[00:56:19.000 --> 00:56:22.000]   They're the ones who know the Bible.
+[00:56:22.000 --> 00:56:23.000]   Who else would have been?
+[00:56:23.000 --> 00:56:27.000]   So Jesus comes in. He breaks their tradition,
+[00:56:27.000 --> 00:56:30.000]   and then the disciples that he chooses,
+[00:56:30.000 --> 00:56:34.000]   not one Pharisee, not one scribe, not one leader,
+[00:56:34.000 --> 00:56:37.000]   nobody of prominence, nobody well-connected,
+[00:56:37.000 --> 00:56:39.000]   just average people.
+[00:56:39.000 --> 00:56:43.000]   In fact, Matthew was considered scum of scums at that time.
+[00:56:43.000 --> 00:56:49.000]   He's choosing him over the Pharisees.
+[00:56:49.000 --> 00:56:53.000]   Now, we know exactly why he was doing that,
+[00:56:53.000 --> 00:56:57.000]   because he needed to reset the foundation,
+[00:56:57.000 --> 00:56:59.000]   not just a little bit of his,
+[00:56:59.000 --> 00:57:00.000]   "Hey, you're not doing this correctly,
+[00:57:00.000 --> 00:57:01.000]   and you're not interpreting this correctly,
+[00:57:01.000 --> 00:57:03.000]   and maybe this order is not correct."
+[00:57:03.000 --> 00:57:06.000]   The whole foundation of their religious righteousness
+[00:57:06.000 --> 00:57:10.000]   was founded upon the wrong thing.
+[00:57:10.000 --> 00:57:13.000]   So they didn't just need a smoothing out
+[00:57:13.000 --> 00:57:14.000]   of what was crooked.
+[00:57:14.000 --> 00:57:17.000]   He needed to tear it all down.
+[00:57:17.000 --> 00:57:20.000]   All of it needed to come down.
+[00:57:20.000 --> 00:57:22.000]   And just like the Scripture says,
+[00:57:22.000 --> 00:57:24.000]   "If the Lord does not build your house,
+[00:57:24.000 --> 00:57:28.000]   you build in vain."
+[00:57:28.000 --> 00:57:32.000]   All the work that you put in to raise children,
+[00:57:32.000 --> 00:57:35.000]   it says, "If the Lord does not build your home,
+[00:57:35.000 --> 00:57:36.000]   you build in vain."
+[00:57:36.000 --> 00:57:37.000]   All the work that you put,
+[00:57:37.000 --> 00:57:39.000]   all the sacrifice to your children,
+[00:57:39.000 --> 00:57:41.000]   it says, "If the Lord does not build your house,
+[00:57:41.000 --> 00:57:43.000]   you build in vain."
+[00:57:43.000 --> 00:57:44.000]   That was the Pharisees.
+[00:57:44.000 --> 00:57:45.000]   That was the Sadducees.
+[00:57:45.000 --> 00:57:46.000]   That was the scribes.
+[00:57:46.000 --> 00:57:48.000]   They worked harder than anybody else,
+[00:57:48.000 --> 00:57:50.000]   sacrificed more than anybody else,
+[00:57:50.000 --> 00:57:51.000]   and yet when Christ came,
+[00:57:51.000 --> 00:57:53.000]   he completely bypasses them
+[00:57:53.000 --> 00:57:57.000]   and chooses these 12 no-names.
+[00:57:57.000 --> 00:58:00.000]   In fact, out of the 12,
+[00:58:00.000 --> 00:58:01.000]   everything we know about them
+[00:58:01.000 --> 00:58:04.000]   is written in the Gospels,
+[00:58:04.000 --> 00:58:06.000]   and then there's about six or seven of them.
+[00:58:06.000 --> 00:58:07.000]   We know nothing.
+[00:58:07.000 --> 00:58:09.000]   Their names are mentioned in nowhere else
+[00:58:09.000 --> 00:58:11.000]   except in the Scripture.
+[00:58:11.000 --> 00:58:13.000]   So we know almost nothing about them,
+[00:58:13.000 --> 00:58:15.000]   and yet they were the ones chosen
+[00:58:15.000 --> 00:58:17.000]   to carry out this mission.
+[00:58:17.000 --> 00:58:20.000]   So what does that tell us?
+[00:58:20.000 --> 00:58:21.000]   What does that tell us
+[00:58:21.000 --> 00:58:23.000]   of what is in God's mind
+[00:58:23.000 --> 00:58:26.000]   and what is in Jesus' mind
+[00:58:26.000 --> 00:58:29.000]   about the whole religious system?
+[00:58:29.000 --> 00:58:30.000]   Can you imagine today
+[00:58:30.000 --> 00:58:32.000]   if all these mega-churches
+[00:58:32.000 --> 00:58:33.000]   and these Christian leaders
+[00:58:33.000 --> 00:58:35.000]   and they just disappeared overnight,
+[00:58:35.000 --> 00:58:37.000]   and all of a sudden,
+[00:58:37.000 --> 00:58:39.000]   it's the lay people,
+[00:58:39.000 --> 00:58:42.000]   brand-new Christians.
+[00:58:42.000 --> 00:58:44.000]   They're the ones who are in leadership,
+[00:58:44.000 --> 00:58:46.000]   and all these people got PhDs and doctorates
+[00:58:46.000 --> 00:58:48.000]   and mega-church pastors,
+[00:58:48.000 --> 00:58:49.000]   and all of a sudden,
+[00:58:49.000 --> 00:58:51.000]   none of them are chosen.
+[00:58:51.000 --> 00:58:53.000]   All of a sudden, what would you think?
+[00:58:53.000 --> 00:58:54.000]   It's like, "Huh.
+[00:58:54.000 --> 00:58:56.000]   "What was wrong with that system
+[00:58:56.000 --> 00:58:59.000]   "that they were all bypassed?
+[00:58:59.000 --> 00:59:00.000]   "What was it that they were doing
+[00:59:00.000 --> 00:59:01.000]   "that was so wrong
+[00:59:01.000 --> 00:59:05.000]   "that none of them was salvaged?"
+[00:59:05.000 --> 00:59:07.000]   These are things that we need to think about
+[00:59:07.000 --> 00:59:08.000]   because it challenges us to think.
+[00:59:08.000 --> 00:59:10.000]   There's a reason why he did that.
+[00:59:10.000 --> 00:59:13.000]   There's a purpose behind that.
+[00:59:13.000 --> 00:59:14.000]   Not only is it obvious
+[00:59:14.000 --> 00:59:15.000]   about who they were not,
+[00:59:15.000 --> 00:59:17.000]   secondly, they were just--
+[00:59:17.000 --> 00:59:18.000]   they were people
+[00:59:18.000 --> 00:59:20.000]   who would have never gotten along
+[00:59:20.000 --> 00:59:21.000]   outside of Christ.
+[00:59:21.000 --> 00:59:22.000]   What bound them together
+[00:59:22.000 --> 00:59:24.000]   was not their personality,
+[00:59:24.000 --> 00:59:25.000]   not their background,
+[00:59:25.000 --> 00:59:26.000]   because I already told you,
+[00:59:26.000 --> 00:59:28.000]   and we're going to look at it more deeply,
+[00:59:28.000 --> 00:59:32.000]   but Matthew and the four fishermen
+[00:59:32.000 --> 00:59:35.000]   would have killed each other.
+[00:59:35.000 --> 00:59:36.000]   I'm not even exaggerating.
+[00:59:36.000 --> 00:59:39.000]   That's how much they hated each other.
+[00:59:39.000 --> 00:59:41.000]   They hated Matthew.
+[00:59:41.000 --> 00:59:44.000]   A zealot?
+[00:59:44.000 --> 00:59:45.000]   Zealot in the midst of--
+[00:59:45.000 --> 00:59:46.000]   I mean, this guy's ready to fight.
+[00:59:46.000 --> 00:59:48.000]   This guy's ready to kill,
+[00:59:48.000 --> 00:59:50.000]   and he's chosen?
+[00:59:50.000 --> 00:59:52.000]   Every single one of these people
+[00:59:52.000 --> 00:59:54.000]   were people who were just ordinary,
+[00:59:54.000 --> 00:59:55.000]   just from all different backgrounds,
+[00:59:55.000 --> 00:59:57.000]   and they got together,
+[00:59:57.000 --> 00:59:58.000]   and ultimately,
+[00:59:58.000 --> 01:00:02.000]   it's a reflection of the church.
+[01:00:02.000 --> 01:00:04.000]   The success of that group
+[01:00:04.000 --> 01:00:06.000]   was not their personality,
+[01:00:06.000 --> 01:00:08.000]   was not their training,
+[01:00:08.000 --> 01:00:11.000]   it was not their language
+[01:00:11.000 --> 01:00:13.000]   or a socioeconomic status.
+[01:00:13.000 --> 01:00:14.000]   These are people
+[01:00:14.000 --> 01:00:16.000]   who would have never rubbed shoulders
+[01:00:16.000 --> 01:00:19.000]   if it wasn't for Christ.
+[01:00:19.000 --> 01:00:20.000]   And in the same way,
+[01:00:20.000 --> 01:00:22.000]   in the church,
+[01:00:22.000 --> 01:00:25.000]   typically, if we're not careful,
+[01:00:25.000 --> 01:00:27.000]   our pattern is we come to church,
+[01:00:27.000 --> 01:00:28.000]   and first and foremost,
+[01:00:28.000 --> 01:00:29.000]   it's like, "How many people
+[01:00:29.000 --> 01:00:31.000]   "who look like me here?
+[01:00:31.000 --> 01:00:33.000]   "How many people that I can relate to?
+[01:00:33.000 --> 01:00:35.000]   "How many people are like me?"
+[01:00:35.000 --> 01:00:36.000]   And if the church is filled with people
+[01:00:36.000 --> 01:00:37.000]   that don't look like me,
+[01:00:37.000 --> 01:00:39.000]   it's like, "Oh, this is not for me."
+[01:00:39.000 --> 01:00:41.000]   So first thing that people look for,
+[01:00:41.000 --> 01:00:42.000]   if you're not careful,
+[01:00:42.000 --> 01:00:44.000]   is like, "Are there people like me?"
+[01:00:44.000 --> 01:00:46.000]   And then if you find a church
+[01:00:46.000 --> 01:00:48.000]   that is filled with people just like you,
+[01:00:48.000 --> 01:00:50.000]   then the second thing is,
+[01:00:50.000 --> 01:00:51.000]   "Oh, then is God honored?
+[01:00:51.000 --> 01:00:54.000]   "Is the Bible being taught?"
+[01:00:54.000 --> 01:00:55.000]   Because our natural tendency
+[01:00:55.000 --> 01:00:56.000]   is to surround ourselves
+[01:00:56.000 --> 01:00:59.000]   with people that we're familiar with.
+[01:00:59.000 --> 01:01:01.000]   And anybody who makes us feel uncomfortable,
+[01:01:01.000 --> 01:01:03.000]   maybe that's not the church.
+[01:01:03.000 --> 01:01:04.000]   Maybe, you know,
+[01:01:04.000 --> 01:01:05.000]   "How am I going to feel comfortable here?"
+[01:01:05.000 --> 01:01:07.000]   It's one thing to have ministry outside,
+[01:01:07.000 --> 01:01:08.000]   but to bring them into your home,
+[01:01:08.000 --> 01:01:10.000]   which the church is.
+[01:01:10.000 --> 01:01:13.000]   But that's exactly how the church was.
+[01:01:13.000 --> 01:01:15.000]   You had fishermen.
+[01:01:15.000 --> 01:01:17.000]   You had tax collectors
+[01:01:17.000 --> 01:01:19.000]   who became the leaders of the first church,
+[01:01:19.000 --> 01:01:21.000]   and you had Pharisees and scribes
+[01:01:21.000 --> 01:01:23.000]   sitting and learning from them.
+[01:01:23.000 --> 01:01:27.000]   Do you know how difficult that would have been?
+[01:01:27.000 --> 01:01:32.000]   These guys were the spiritual elites,
+[01:01:32.000 --> 01:01:35.000]   and Jesus established the tax collectors
+[01:01:35.000 --> 01:01:39.000]   to be their teachers, to disciple them.
+[01:01:39.000 --> 01:01:40.000]   All that work that they put in,
+[01:01:40.000 --> 01:01:44.000]   he just flips it upside down.
+[01:01:44.000 --> 01:01:47.000]   I told you we played softball yesterday,
+[01:01:47.000 --> 01:01:51.000]   and I would say, you know,
+[01:01:51.000 --> 01:01:54.000]   not simply because we won,
+[01:01:54.000 --> 01:01:58.000]   but the way that the softball game was played,
+[01:01:58.000 --> 01:02:00.000]   I think I enjoyed this more than any other.
+[01:02:00.000 --> 01:02:05.000]   I mean, I am physically dying right now.
+[01:02:05.000 --> 01:02:07.000]   My legs are puffed up on both sides.
+[01:02:07.000 --> 01:02:09.000]   My back is aching and hurting.
+[01:02:09.000 --> 01:02:12.000]   And yesterday, I barely got out of the car,
+[01:02:12.000 --> 01:02:13.000]   like crawled up the stairs,
+[01:02:13.000 --> 01:02:16.000]   took a shower, and just conked out.
+[01:02:16.000 --> 01:02:17.000]   And I know a lot of other guys
+[01:02:17.000 --> 01:02:19.000]   who did the same thing.
+[01:02:19.000 --> 01:02:21.000]   But not simply because we won,
+[01:02:21.000 --> 01:02:25.000]   but our team is a very collective team.
+[01:02:25.000 --> 01:02:27.000]   In fact, a lot of guys never even knew each other
+[01:02:27.000 --> 01:02:29.000]   before we started playing yesterday.
+[01:02:29.000 --> 01:02:32.000]   And I was for sure,
+[01:02:32.000 --> 01:02:34.000]   because we didn't get a lot of time to practice,
+[01:02:34.000 --> 01:02:35.000]   I was for sure.
+[01:02:35.000 --> 01:02:37.000]   It was like, we might win one or two games,
+[01:02:37.000 --> 01:02:38.000]   but we're going to exit early.
+[01:02:38.000 --> 01:02:39.000]   We're setting it up.
+[01:02:39.000 --> 01:02:41.000]   It's for mission funds,
+[01:02:41.000 --> 01:02:45.000]   so God gets the glory no matter what.
+[01:02:45.000 --> 01:02:48.000]   But the reason why we started winning,
+[01:02:48.000 --> 01:02:51.000]   I have no idea.
+[01:02:51.000 --> 01:02:52.000]   But we were just having fun
+[01:02:52.000 --> 01:02:56.000]   because we weren't so fixated on winning.
+[01:02:56.000 --> 01:02:58.000]   Because we already thought we're not going to win.
+[01:02:58.000 --> 01:03:00.000]   So we're going to do our best.
+[01:03:00.000 --> 01:03:03.000]   But I was just surprised how well everybody played.
+[01:03:03.000 --> 01:03:06.000]   But it wasn't just the fact that they played well.
+[01:03:06.000 --> 01:03:09.000]   It's like everybody was so encouraging.
+[01:03:09.000 --> 01:03:10.000]   We had guys making plays
+[01:03:10.000 --> 01:03:12.000]   and maybe some errors here and there,
+[01:03:12.000 --> 01:03:13.000]   but everybody was so encouraging.
+[01:03:13.000 --> 01:03:17.000]   Some guys were just really fast.
+[01:03:17.000 --> 01:03:19.000]   Their fielding is not the best.
+[01:03:19.000 --> 01:03:20.000]   They don't hit the best,
+[01:03:20.000 --> 01:03:21.000]   but they're just really fast,
+[01:03:21.000 --> 01:03:22.000]   and we needed them,
+[01:03:22.000 --> 01:03:24.000]   especially me and Phillip.
+[01:03:24.000 --> 01:03:28.000]   Because we were crawling to first base once we got there,
+[01:03:28.000 --> 01:03:32.000]   and I was just surprised how fast some of these guys were.
+[01:03:32.000 --> 01:03:34.000]   And because they ran for us,
+[01:03:34.000 --> 01:03:36.000]   they were able to get to second, third base.
+[01:03:36.000 --> 01:03:39.000]   Some of these guys are just really good in infield.
+[01:03:39.000 --> 01:03:40.000]   Some of these guys are outfield.
+[01:03:40.000 --> 01:03:43.000]   I was so surprised by the outfielder.
+[01:03:43.000 --> 01:03:45.000]   Some of these guys played baseball in high school.
+[01:03:45.000 --> 01:03:47.000]   Some of these guys almost never played.
+[01:03:47.000 --> 01:03:50.000]   In fact, my youngest son, Isaiah, played,
+[01:03:50.000 --> 01:03:51.000]   and he was playing home base,
+[01:03:51.000 --> 01:03:52.000]   and I was pitching to him.
+[01:03:52.000 --> 01:03:55.000]   So I had fun because I was able to play with my son.
+[01:03:55.000 --> 01:03:57.000]   And he never played.
+[01:03:57.000 --> 01:04:01.000]   That was his first softball game ever in his life.
+[01:04:01.000 --> 01:04:02.000]   [laughter]
+[01:04:02.000 --> 01:04:04.000]   In his life.
+[01:04:04.000 --> 01:04:06.000]   So he barely knew how to catch.
+[01:04:06.000 --> 01:04:09.000]   We went to the batting cage just so that he can be familiar,
+[01:04:09.000 --> 01:04:12.000]   and even as the game was going by,
+[01:04:12.000 --> 01:04:14.000]   I could see him improving at the end of the day
+[01:04:14.000 --> 01:04:16.000]   versus the beginning of the day.
+[01:04:16.000 --> 01:04:19.000]   So we're just having fun.
+[01:04:19.000 --> 01:04:23.000]   And if he didn't do a good job, everybody was like, "Hey, it's okay.
+[01:04:23.000 --> 01:04:25.000]   This is the first time. You're going to improve."
+[01:04:25.000 --> 01:04:28.000]   And he was growing in confidence, and at the end of the day,
+[01:04:28.000 --> 01:04:30.000]   he's like, "Did you see my throw? It got better."
+[01:04:30.000 --> 01:04:34.000]   He's like, "Yeah, it was night and day from the beginning."
+[01:04:34.000 --> 01:04:38.000]   The reason why was because everybody was so eclectically different.
+[01:04:38.000 --> 01:04:41.000]   We had different skill levels.
+[01:04:41.000 --> 01:04:44.000]   But we were just enjoying each other's company,
+[01:04:44.000 --> 01:04:47.000]   surprised that we made it to the next level.
+[01:04:47.000 --> 01:04:50.000]   And the reason why I share all of this,
+[01:04:50.000 --> 01:04:53.000]   imagine even if we won,
+[01:04:53.000 --> 01:04:58.000]   if the whole day it was just filled with griping,
+[01:04:58.000 --> 01:05:00.000]   "What's wrong with you? How come you didn't do that?
+[01:05:00.000 --> 01:05:02.000]   How come you didn't do this? How come you didn't--?"
+[01:05:02.000 --> 01:05:05.000]   If the whole--because we're so fixated on winning,
+[01:05:05.000 --> 01:05:07.000]   and then if it doesn't happen, we all get--
+[01:05:07.000 --> 01:05:09.000]   And even when we win, we may win and celebrate,
+[01:05:09.000 --> 01:05:10.000]   but then we go home saying,
+[01:05:10.000 --> 01:05:13.000]   "I don't know if I want to play with that team again.
+[01:05:13.000 --> 01:05:15.000]   I don't know if I want to run with them,"
+[01:05:15.000 --> 01:05:18.000]   because at the end of the day, the only prize is that you won,
+[01:05:18.000 --> 01:05:20.000]   and that's it.
+[01:05:20.000 --> 01:05:24.000]   But the whole day was miserable to get there.
+[01:05:24.000 --> 01:05:30.000]   Now, I share all of this because that's the church.
+[01:05:30.000 --> 01:05:33.000]   The church is filled with people who are brand-new Christians,
+[01:05:33.000 --> 01:05:35.000]   Christians who have been walking for a long time.
+[01:05:35.000 --> 01:05:37.000]   Some of you are better at praying than others.
+[01:05:37.000 --> 01:05:40.000]   Some of you are better at evangelism than others.
+[01:05:40.000 --> 01:05:41.000]   Some of you are a lot more generous.
+[01:05:41.000 --> 01:05:43.000]   Some of you are a lot more giving.
+[01:05:43.000 --> 01:05:44.000]   Some of you are good at teaching.
+[01:05:44.000 --> 01:05:46.000]   Some of you are smarter than others.
+[01:05:46.000 --> 01:05:49.000]   Some of you are more educated, a lot more organized.
+[01:05:49.000 --> 01:05:52.000]   And so God puts us all together,
+[01:05:52.000 --> 01:05:56.000]   that together we represent the body of Christ.
+[01:05:56.000 --> 01:05:58.000]   And so when the church functions, we emphasize,
+[01:05:58.000 --> 01:06:00.000]   "Oh, you're good at this, or because you're good at that,
+[01:06:00.000 --> 01:06:02.000]   our whole church benefits."
+[01:06:02.000 --> 01:06:05.000]   And you're weak at that, but you can benefit from other people,
+[01:06:05.000 --> 01:06:08.000]   and so you're encouraging so that they can also grow
+[01:06:08.000 --> 01:06:10.000]   and eventually become an encouragement to other people.
+[01:06:10.000 --> 01:06:13.000]   So when the church is filled with people,
+[01:06:13.000 --> 01:06:14.000]   we're functioning together,
+[01:06:14.000 --> 01:06:17.000]   knowing that God has made us eclectically,
+[01:06:17.000 --> 01:06:22.000]   the various things that we're good at helps the other parts of the body
+[01:06:22.000 --> 01:06:23.000]   that may not be good at that,
+[01:06:23.000 --> 01:06:25.000]   but imagine if the church is filled with people
+[01:06:25.000 --> 01:06:27.000]   pointing finger at each other,
+[01:06:27.000 --> 01:06:30.000]   because you're not as good as what I do.
+[01:06:30.000 --> 01:06:33.000]   We emphasize, put on pedestal what we're good at,
+[01:06:33.000 --> 01:06:35.000]   but whatever we're not good at, we kind of sweep under the rug,
+[01:06:35.000 --> 01:06:40.000]   and imagine if everybody's walking around doing that to each other.
+[01:06:40.000 --> 01:06:42.000]   How often have you heard people say,
+[01:06:42.000 --> 01:06:48.000]   "I love Christ, I love the gospel, but I hate the church"?
+[01:06:48.000 --> 01:06:52.000]   How often have you said that to yourself?
+[01:06:52.000 --> 01:06:57.000]   When we create an environment in the church of elites,
+[01:06:57.000 --> 01:07:02.000]   professionals, talented, gifted, disciplined,
+[01:07:02.000 --> 01:07:05.000]   and we're getting things done,
+[01:07:05.000 --> 01:07:07.000]   and everything is done well,
+[01:07:07.000 --> 01:07:11.000]   but the people in the church are miserable in the process.
+[01:07:11.000 --> 01:07:15.000]   So the only thing that you have to show for it is the end product,
+[01:07:15.000 --> 01:07:19.000]   but is that what God really wants?
+[01:07:19.000 --> 01:07:21.000]   Is that what He really wants?
+[01:07:21.000 --> 01:07:25.000]   If that was His goal, and that was only His goal,
+[01:07:25.000 --> 01:07:28.000]   man, He chose some weird people.
+[01:07:28.000 --> 01:07:30.000]   He's told people.
+[01:07:30.000 --> 01:07:33.000]   This was very deliberate.
+[01:07:33.000 --> 01:07:34.000]   He was very deliberate.
+[01:07:34.000 --> 01:07:39.000]   He deliberately chose humble people to dumbfound the wise.
+[01:07:39.000 --> 01:07:40.000]   In 1 Corinthians 1:21 it says,
+[01:07:40.000 --> 01:07:42.000]   "For since in the wisdom of God the world, through its wisdom,
+[01:07:42.000 --> 01:07:46.000]   did not come to know God, with all the wisdom,
+[01:07:46.000 --> 01:07:50.000]   all the technology, all the experience, all the disciplines,"
+[01:07:50.000 --> 01:07:54.000]   He said, "all a man's effort did not cause them to know God.
+[01:07:54.000 --> 01:07:57.000]   God was well pleased through the foolishness of the message preached
+[01:07:57.000 --> 01:08:00.000]   to save those who believe."
+[01:08:00.000 --> 01:08:02.000]   Because the message is going to be foolish,
+[01:08:02.000 --> 01:08:06.000]   the man who is going to carry this message also needs to be foolish.
+[01:08:06.000 --> 01:08:10.000]   Not foolish in the sense of being unwise.
+[01:08:10.000 --> 01:08:14.000]   Foolish in the sense that the world sees them and says,
+[01:08:14.000 --> 01:08:17.000]   "What can these people offer?
+[01:08:17.000 --> 01:08:20.000]   Why did God choose them?"
+[01:08:20.000 --> 01:08:26.000]   And by just the choice of them, they know, "Oh, it can't be God.
+[01:08:26.000 --> 01:08:28.000]   I mean, it can't be them."
+[01:08:28.000 --> 01:08:31.000]   In fact, isn't that exactly what they say?
+[01:08:31.000 --> 01:08:34.000]   When Apostle Peter stands up and he begins to preach the gospel,
+[01:08:34.000 --> 01:08:37.000]   and they said they were wowed by his preaching,
+[01:08:37.000 --> 01:08:40.000]   and then they said they examined them and realized
+[01:08:40.000 --> 01:08:45.000]   that they were uneducated, unsophisticated men.
+[01:08:45.000 --> 01:08:48.000]   That's pretty offensive, right?
+[01:08:48.000 --> 01:08:51.000]   They examined them carefully, and said, "These guys are dumb.
+[01:08:51.000 --> 01:08:54.000]   They're just average fishermen. Why are they so bold?"
+[01:08:54.000 --> 01:09:01.000]   And then they conclude by saying they realized that they were with Jesus.
+[01:09:01.000 --> 01:09:05.000]   That's why Jesus chose them.
+[01:09:05.000 --> 01:09:08.000]   So that they would not receive the glory.
+[01:09:08.000 --> 01:09:14.000]   Because man's primary problem is himself.
+[01:09:14.000 --> 01:09:18.000]   The greatest stumbling block in our worship to God
+[01:09:18.000 --> 01:09:20.000]   is not the system, is not the organization,
+[01:09:20.000 --> 01:09:26.000]   is not the lack of knowledge, is ourselves.
+[01:09:26.000 --> 01:09:29.000]   Imagine if you had a choir.
+[01:09:29.000 --> 01:09:32.000]   I love our church choir.
+[01:09:32.000 --> 01:09:35.000]   But imagine if you had a choir, and you had two or three people
+[01:09:35.000 --> 01:09:40.000]   singing louder than anybody else.
+[01:09:40.000 --> 01:09:42.000]   You're singing the Lord's Prayer.
+[01:09:42.000 --> 01:09:48.000]   "Lord, Father, which art in heaven?"
+[01:09:48.000 --> 01:09:51.000]   It ruins the choir.
+[01:09:51.000 --> 01:09:54.000]   Because the choir is meant to be sung together as one voice.
+[01:09:54.000 --> 01:09:57.000]   So the less of an individual you hear,
+[01:09:57.000 --> 01:09:59.000]   the more beautiful the choir is.
+[01:09:59.000 --> 01:10:02.000]   But as soon as you have somebody singing louder than other people,
+[01:10:02.000 --> 01:10:05.000]   in order so that other people can hear my voice,
+[01:10:05.000 --> 01:10:10.000]   I know I'm singing in a choir, but they need to know that it's me.
+[01:10:10.000 --> 01:10:13.000]   That would ruin the choir.
+[01:10:13.000 --> 01:10:18.000]   What ruins worship is our own desire for self-glory.
+[01:10:18.000 --> 01:10:23.000]   God places us together because what's beautiful is not you, it's not me.
+[01:10:23.000 --> 01:10:25.000]   It's Christ in me.
+[01:10:25.000 --> 01:10:30.000]   So He chose people who are ordinary.
+[01:10:30.000 --> 01:10:33.000]   In fact, they weren't even just ordinary.
+[01:10:33.000 --> 01:10:36.000]   They were weak people.
+[01:10:36.000 --> 01:10:39.000]   I mean, outside of rebuking the Pharisees,
+[01:10:39.000 --> 01:10:42.000]   you know who He rebuked more than anybody else?
+[01:10:42.000 --> 01:10:45.000]   His own disciples.
+[01:10:45.000 --> 01:10:47.000]   All throughout the Gospels.
+[01:10:47.000 --> 01:10:51.000]   Luke 9, 40-41, "I begged your disciples to cast it out, and they could not.
+[01:10:51.000 --> 01:10:54.000]   And Jesus answered and said, 'You unbelieving and perverted generation,
+[01:10:54.000 --> 01:10:57.000]   how long shall I be with you and put up with you?
+[01:10:57.000 --> 01:10:59.000]   Bring your son here.'"
+[01:10:59.000 --> 01:11:01.000]   Even as He was calming the storm, it's like,
+[01:11:01.000 --> 01:11:05.000]   "How long do I have to be with you? Do you still not believe?"
+[01:11:05.000 --> 01:11:08.000]   After everything that He has done,
+[01:11:08.000 --> 01:11:10.000]   when He's going to the cross, He tells His disciples,
+[01:11:10.000 --> 01:11:14.000]   "I'm going to be shamed and beaten by the leaders,
+[01:11:14.000 --> 01:11:17.000]   and I'm going to be crucified, raised on the third day."
+[01:11:17.000 --> 01:11:19.000]   And then the very next thing they say is,
+[01:11:19.000 --> 01:11:24.000]   "Who will sit on your left to the right?"
+[01:11:24.000 --> 01:11:28.000]   Like, "What? I just told you I'm going to be beaten and I'm going to die."
+[01:11:28.000 --> 01:11:34.000]   And all they were thinking of is, "Well, but who's going to receive the glory?"
+[01:11:34.000 --> 01:11:38.000]   Even as Jesus is headed toward the cross,
+[01:11:38.000 --> 01:11:41.000]   Peter, the leader among the apostles,
+[01:11:41.000 --> 01:11:45.000]   Jesus had to rebuke and say, "Get behind me, Satan."
+[01:11:45.000 --> 01:11:48.000]   The leader among the apostles.
+[01:11:48.000 --> 01:11:52.000]   As He goes to the cross, all of them is fearful,
+[01:11:52.000 --> 01:11:55.000]   and they run and they disappear.
+[01:11:55.000 --> 01:11:59.000]   And at Jesus' hardest and most difficult point of His life,
+[01:11:59.000 --> 01:12:02.000]   none of the disciples were there.
+[01:12:02.000 --> 01:12:05.000]   And then, after He resurrects,
+[01:12:05.000 --> 01:12:08.000]   the women go see and they come back and tell the disciples
+[01:12:08.000 --> 01:12:11.000]   that Christ has risen from the dead. Remember their response?
+[01:12:11.000 --> 01:12:14.000]   No way.
+[01:12:14.000 --> 01:12:17.000]   You've seen Jesus raise Lazarus from the dead.
+[01:12:17.000 --> 01:12:20.000]   He was walking on water.
+[01:12:20.000 --> 01:12:22.000]   All three years you see miraculous things happening,
+[01:12:22.000 --> 01:12:26.000]   and then Jesus dies and you say, "Okay, maybe all that was a fluke."
+[01:12:26.000 --> 01:12:30.000]   And then they couldn't believe Him.
+[01:12:30.000 --> 01:12:33.000]   Even after He was resurrected.
+[01:12:33.000 --> 01:12:36.000]   And then Jesus--I mean Peter, even after the resurrection,
+[01:12:36.000 --> 01:12:39.000]   he was afraid of the Judaizers,
+[01:12:39.000 --> 01:12:42.000]   and he's a latecomer apostle Paul,
+[01:12:42.000 --> 01:12:45.000]   had to rebuke Him publicly not to pervert the gospel.
+[01:12:45.000 --> 01:12:48.000]   They weren't just leaders.
+[01:12:48.000 --> 01:12:51.000]   They weren't just ordinary. They were weak men
+[01:12:51.000 --> 01:12:54.000]   that God chose for what purpose?
+[01:12:54.000 --> 01:12:58.000]   Because God's primary desire is His own glory.
+[01:12:58.000 --> 01:13:01.000]   Not your glory.
+[01:13:01.000 --> 01:13:04.000]   Not my glory.
+[01:13:04.000 --> 01:13:07.000]   God's primary desire is His own glory.
+[01:13:07.000 --> 01:13:10.000]   Now some of you might make that, "Well, that's kind of egotistical.
+[01:13:10.000 --> 01:13:13.000]   Why does He tell us not to seek our own glory? Seek His own glory."
+[01:13:13.000 --> 01:13:16.000]   Because when we are glorified, we die.
+[01:13:16.000 --> 01:13:19.000]   When He is glorified, we live.
+[01:13:19.000 --> 01:13:22.000]   It's as simple as that.
+[01:13:22.000 --> 01:13:25.000]   My glory is for my own selfishness.
+[01:13:25.000 --> 01:13:28.000]   His glory is for the salvation of the world.
+[01:13:28.000 --> 01:13:31.000]   And so He seeks His own glory.
+[01:13:31.000 --> 01:13:34.000]   And whatever gets in between that is the biggest hindrance.
+[01:13:34.000 --> 01:13:37.000]   That's why some of you who are gifted,
+[01:13:37.000 --> 01:13:40.000]   that gift, if you're not careful,
+[01:13:40.000 --> 01:13:43.000]   becomes your greatest stumbling block.
+[01:13:43.000 --> 01:13:46.000]   Some of you who are well-educated,
+[01:13:46.000 --> 01:13:49.000]   that education sometimes becomes your greatest stumbling block.
+[01:13:49.000 --> 01:13:52.000]   And so we have to be careful.
+[01:13:52.000 --> 01:13:55.000]   Education sometimes becomes your greatest stumbling block.
+[01:13:55.000 --> 01:13:58.000]   Some of you have a lot of experience.
+[01:13:58.000 --> 01:14:01.000]   Some of you who have done a lot for Christ.
+[01:14:01.000 --> 01:14:04.000]   Some of you who are a little bit older,
+[01:14:04.000 --> 01:14:07.000]   maybe prettier, have more money.
+[01:14:07.000 --> 01:14:10.000]   Everything that the world thinks
+[01:14:10.000 --> 01:14:13.000]   is a plus to you
+[01:14:13.000 --> 01:14:16.000]   can easily become your stumbling block
+[01:14:16.000 --> 01:14:19.000]   if you do not recognize
+[01:14:19.000 --> 01:14:22.000]   how weak we are without Christ.
+[01:14:22.000 --> 01:14:25.000]   That's why these 12 men were chosen.
+[01:14:25.000 --> 01:14:28.000]   Ordinary men.
+[01:14:28.000 --> 01:14:31.000]   In some sense foolish men. Weak men.
+[01:14:31.000 --> 01:14:34.000]   That when God chooses to work through them,
+[01:14:34.000 --> 01:14:37.000]   that the world will look at us and say,
+[01:14:37.000 --> 01:14:40.000]   "These guys aren't educated.
+[01:14:40.000 --> 01:14:43.000]   These people are weird.
+[01:14:43.000 --> 01:14:46.000]   What's it about them?"
+[01:14:46.000 --> 01:14:49.000]   The one unifying factor is Christ.
+[01:14:49.000 --> 01:14:52.000]   Christ crucified.
+[01:14:52.000 --> 01:14:55.000]   So the goal of any church, any discipleship,
+[01:14:55.000 --> 01:14:58.000]   is not to be better at one or the other.
+[01:14:58.000 --> 01:15:01.000]   In fact, all those things are important things.
+[01:15:01.000 --> 01:15:04.000]   But it's to shine Christ.
+[01:15:04.000 --> 01:15:07.000]   To love Christ.
+[01:15:07.000 --> 01:15:10.000]   I think often about one of these days.
+[01:15:10.000 --> 01:15:13.000]   I don't know when. One of these days.
+[01:15:13.000 --> 01:15:16.000]   I will have to think about what's going to happen
+[01:15:16.000 --> 01:15:19.000]   in the next generation.
+[01:15:19.000 --> 01:15:22.000]   I think about what is the one quality.
+[01:15:22.000 --> 01:15:25.000]   Obviously you need to have more than one quality.
+[01:15:25.000 --> 01:15:28.000]   What is the one quality that I would want
+[01:15:28.000 --> 01:15:31.000]   the next generation to have?
+[01:15:31.000 --> 01:15:34.000]   It is not hard. It's pretty clear.
+[01:15:34.000 --> 01:15:37.000]   I'd want to see somebody
+[01:15:37.000 --> 01:15:40.000]   who loves Jesus
+[01:15:40.000 --> 01:15:43.000]   with all their heart, soul, mind, and strength.
+[01:15:43.000 --> 01:15:46.000]   Everything else can be covered.
+[01:15:46.000 --> 01:15:49.000]   Everything else can be covered
+[01:15:49.000 --> 01:15:52.000]   by gifted men,
+[01:15:52.000 --> 01:15:55.000]   other people in the church.
+[01:15:55.000 --> 01:15:58.000]   But if they do not love Christ
+[01:15:58.000 --> 01:16:01.000]   with all their heart, soul, mind, and strength,
+[01:16:01.000 --> 01:16:04.000]   they might be able to exposit the Scripture.
+[01:16:04.000 --> 01:16:07.000]   They might be able to be disciplined
+[01:16:07.000 --> 01:16:10.000]   and well gifted, organized.
+[01:16:10.000 --> 01:16:13.000]   Maybe attract a large crowd.
+[01:16:13.000 --> 01:16:16.000]   But if they do not love Christ,
+[01:16:16.000 --> 01:16:21.000]   they cannot get the church to love Christ.
+[01:16:21.000 --> 01:16:27.000]   The greatest goal
+[01:16:27.000 --> 01:16:30.000]   of this church, of my ministry,
+[01:16:30.000 --> 01:16:33.000]   of preaching,
+[01:16:33.000 --> 01:16:36.000]   is not so that your heads will be filled
+[01:16:36.000 --> 01:16:39.000]   with more knowledge.
+[01:16:39.000 --> 01:16:42.000]   So you can say that I know the Bible.
+[01:16:42.000 --> 01:16:45.000]   I know how to exposit. I know how to share.
+[01:16:45.000 --> 01:16:48.000]   I know how to do this.
+[01:16:48.000 --> 01:16:51.000]   The greatest goal of any discipleship
+[01:16:51.000 --> 01:16:54.000]   is that you would fall in love with Christ too.
+[01:16:54.000 --> 01:16:57.000]   Above everything else,
+[01:16:57.000 --> 01:17:00.000]   that you would love Christ.
+[01:17:00.000 --> 01:17:03.000]   And if you love Christ,
+[01:17:03.000 --> 01:17:06.000]   you would want them,
+[01:17:06.000 --> 01:17:09.000]   the object of your love,
+[01:17:09.000 --> 01:17:12.000]   to also be loved.
+[01:17:12.000 --> 01:17:15.000]   Just like I love my wife, I love my children,
+[01:17:15.000 --> 01:17:18.000]   I love my family,
+[01:17:18.000 --> 01:17:21.000]   and I am filled with joy when they are praised.
+[01:17:21.000 --> 01:17:24.000]   I am filled with joy when they are praised
+[01:17:24.000 --> 01:17:27.000]   more than me.
+[01:17:27.000 --> 01:17:30.000]   Because I love them.
+[01:17:30.000 --> 01:17:33.000]   And what that calls us to do,
+[01:17:33.000 --> 01:17:36.000]   more than anything else,
+[01:17:36.000 --> 01:17:39.000]   is that the Christ that you love,
+[01:17:39.000 --> 01:17:42.000]   the Christ that you love, that we love,
+[01:17:42.000 --> 01:17:45.000]   may be praised and adored
+[01:17:45.000 --> 01:17:48.000]   more than anything else.
+[01:17:48.000 --> 01:17:51.000]   That's why he chooses ordinary men
+[01:17:51.000 --> 01:17:54.000]   and weak men.
+[01:17:54.000 --> 01:17:57.000]   That Christ may be exalted.
+[01:17:57.000 --> 01:18:00.000]   And again,
+[01:18:00.000 --> 01:18:03.000]   I want to just kind of wrap up this message.
+[01:18:03.000 --> 01:18:06.000]   I don't know about you,
+[01:18:06.000 --> 01:18:09.000]   but it gives me strange encouragement
+[01:18:09.000 --> 01:18:12.000]   to know that these disciples were just like us.
+[01:18:12.000 --> 01:18:15.000]   It empowers me.
+[01:18:15.000 --> 01:18:18.000]   Because I don't have to be the most gifted,
+[01:18:18.000 --> 01:18:21.000]   I don't have to be the most organized,
+[01:18:21.000 --> 01:18:24.000]   I don't have to be the best counselor,
+[01:18:24.000 --> 01:18:27.000]   I don't have to be the best scholar.
+[01:18:27.000 --> 01:18:30.000]   Because the primary thing that he called me to do
+[01:18:30.000 --> 01:18:33.000]   is be faithful and to love Christ.
+[01:18:33.000 --> 01:18:36.000]   You don't need to go to school for that,
+[01:18:36.000 --> 01:18:39.000]   you don't need training for that,
+[01:18:39.000 --> 01:18:42.000]   you don't need to be at the right church for that,
+[01:18:42.000 --> 01:18:45.000]   you don't need to have prime examples for that,
+[01:18:45.000 --> 01:18:48.000]   you don't need to be discipled for that.
+[01:18:48.000 --> 01:18:51.000]   Just be faithful and love Christ,
+[01:18:51.000 --> 01:18:54.000]   and you'll be able to be a good teacher
+[01:18:54.000 --> 01:18:57.000]   for anybody that you love.
+[01:18:57.000 --> 01:19:00.000]   And I want to thank you for that.
+[01:19:00.000 --> 01:19:03.000]   I want to thank you for the fact that you're here
+[01:19:03.000 --> 01:19:06.000]   and that you're here to walk in our lives
+[01:19:06.000 --> 01:19:09.000]   and to be a good teacher for our children
+[01:19:09.000 --> 01:19:12.000]   and for our families.
+[01:19:12.000 --> 01:19:15.000]   And I want to thank you for that.
+[01:19:15.000 --> 01:19:18.000]   And I want to thank you for the fact that you're here
+[01:19:18.000 --> 01:19:21.000]   and that you're here to walk in our lives
+[01:19:21.000 --> 01:19:24.000]   and to be a good teacher for our children
+[01:19:24.000 --> 01:19:27.000]   and for our families.
+[01:19:27.000 --> 01:19:30.000]   And I want to thank you for the fact that you're here
+[01:19:30.000 --> 01:19:33.000]   and that you're here to walk in our lives
+[01:19:33.000 --> 01:19:36.000]   and to be a good teacher for our children
+[01:19:36.000 --> 01:19:39.000]   and for our families.
+[01:19:39.000 --> 01:19:42.000]   And I want to thank you for the fact that you're here
+[01:19:42.000 --> 01:19:45.000]   and that you're here to walk in our lives
+[01:19:45.000 --> 01:19:48.000]   and to be a good teacher for our children
+[01:19:48.000 --> 01:19:51.000]   and for our families.
+[01:19:51.000 --> 01:19:54.000]   And I want to thank you for the fact that you're here
+[01:19:54.000 --> 01:19:57.000]   and that you're here to walk in our lives
+[01:19:57.000 --> 01:20:00.000]   and to be a good teacher for our children
+[01:20:00.000 --> 01:20:03.000]   and for our families.
+[01:20:03.000 --> 01:20:06.000]   And I want to thank you for the fact that you're here
+[01:20:06.000 --> 01:20:09.000]   and that you're here to walk in our lives
+[01:20:09.000 --> 01:20:12.000]   and to be a good teacher for our children
+[01:20:12.000 --> 01:20:15.000]   and for our families.
+[01:20:15.000 --> 01:20:21.000]   ♪ Oh Lord, my rock and my Redeemer ♪
+[01:20:21.000 --> 01:20:29.000]   ♪ Greatest treasure of my longing soul ♪
+[01:20:29.000 --> 01:20:36.000]   ♪ My God, like You there is no other ♪
+[01:20:36.000 --> 01:20:44.000]   ♪ True delight is found in You alone ♪
+[01:20:44.000 --> 01:20:52.000]   ♪ Your grace, a will too deep to fathom ♪
+[01:20:52.000 --> 01:20:59.000]   ♪ Your love exceeds the heavens' reach ♪
+[01:20:59.000 --> 01:21:06.000]   ♪ Your truth, a fount of perfect wisdom ♪
+[01:21:06.000 --> 01:21:13.000]   ♪ My highest good and my unending need ♪
+[01:21:13.000 --> 01:21:26.000]   ♪
+[01:21:26.000 --> 01:21:32.000]   ♪ Oh Lord, my rock and my Redeemer ♪
+[01:21:32.000 --> 01:21:40.000]   ♪ Strong defender of my weary heart ♪
+[01:21:40.000 --> 01:21:47.000]   ♪ My sword to fight the cruel deceiver ♪
+[01:21:47.000 --> 01:21:55.000]   ♪ And my shield against his hateful dog ♪
+[01:21:55.000 --> 01:22:03.000]   ♪ My soul when enemies surround me ♪
+[01:22:03.000 --> 01:22:10.000]   ♪ My hope when tides of sorrow rise ♪
+[01:22:10.000 --> 01:22:17.000]   ♪ My joy when trials are abounding ♪
+[01:22:17.000 --> 01:22:25.000]   ♪ Your faithfulness, my refuge in the night ♪
+[01:22:25.000 --> 01:22:37.000]   ♪
+[01:22:37.000 --> 01:22:44.000]   ♪ Oh Lord, my rock and my Redeemer ♪
+[01:22:44.000 --> 01:22:52.000]   ♪ Gracious Savior of my ruined life ♪
+[01:22:52.000 --> 01:22:59.000]   ♪ My guilt and cross laid on Your shoulders ♪
+[01:22:59.000 --> 01:23:07.000]   ♪ In my place You suffered, bled and died ♪
+[01:23:07.000 --> 01:23:14.000]   ♪ You rose, the grave and death I conquered ♪
+[01:23:14.000 --> 01:23:20.000]   ♪ You broke my bonds of sin and shame ♪
+[01:23:20.000 --> 01:23:29.000]   ♪ You rose, You rose, the grave and death I conquered ♪
+[01:23:29.000 --> 01:23:37.000]   ♪ You broke my bonds of sin and shame ♪
+[01:23:37.000 --> 01:23:43.000]   ♪ Oh Lord, my rock and my Redeemer ♪
+[01:23:43.000 --> 01:23:51.000]   ♪ May all my days bring glory to Your name ♪
+[01:23:51.000 --> 01:24:00.000]   ♪ May all my days bring glory to Your name ♪
+[01:24:00.000 --> 01:24:02.000]   Let's pray.
+[01:24:02.000 --> 01:24:09.000]   Father, I pray that as You've given us Your Word,
+[01:24:09.000 --> 01:24:12.000]   help us not simply to be hearers, but to be doers.
+[01:24:12.000 --> 01:24:16.000]   You would mold our thoughts, our hope, our joy.
+[01:24:16.000 --> 01:24:20.000]   Help us, Lord God, to know that we are just sojourners,
+[01:24:20.000 --> 01:24:22.000]   just passing through.
+[01:24:22.000 --> 01:24:25.000]   And all the things, Lord God, that we are anxious about,
+[01:24:25.000 --> 01:24:28.000]   to know that it's temporary and it will pass.
+[01:24:28.000 --> 01:24:31.000]   All the concerns, Lord God, of tomorrow,
+[01:24:31.000 --> 01:24:33.000]   that we would leave in Your hands,
+[01:24:33.000 --> 01:24:37.000]   knowing that eternity is coming, that our true life is coming,
+[01:24:37.000 --> 01:24:40.000]   that our current life is hidden in Christ,
+[01:24:40.000 --> 01:24:44.000]   that we would not seek our own glory, knowing Father God,
+[01:24:44.000 --> 01:24:47.000]   that when Christ comes in glory,
+[01:24:47.000 --> 01:24:50.000]   that we will be glorified with Him.
+[01:24:50.000 --> 01:24:54.000]   Help us to fix our eyes upon Christ and what He will bring,
+[01:24:54.000 --> 01:24:57.000]   that we may live lives truly worthy of the gospel
+[01:24:57.000 --> 01:24:59.000]   that You've given us.
+[01:24:59.000 --> 01:25:02.000]   Wherever You send us, help us to be the aroma of Christ.
+[01:25:02.000 --> 01:25:05.000]   In Jesus' name we pray, amen.
+[01:25:05.000 --> 01:25:11.000]   ♪ God sent His Son ♪
+[01:25:11.000 --> 01:25:16.000]   ♪ They called Him Jesus ♪
+[01:25:16.000 --> 01:25:21.000]   ♪ He came to love ♪
+[01:25:21.000 --> 01:25:26.000]   ♪ Heal and forgive ♪
+[01:25:26.000 --> 01:25:32.000]   ♪ He lived and died ♪
+[01:25:32.000 --> 01:25:37.000]   ♪ To buy my pardon ♪
+[01:25:37.000 --> 01:25:43.000]   ♪ An empty grave is there to prove ♪
+[01:25:43.000 --> 01:25:48.000]   ♪ My Savior lives ♪
+[01:25:48.000 --> 01:25:53.000]   ♪ Because He lives ♪
+[01:25:53.000 --> 01:25:58.000]   ♪ I can face tomorrow ♪
+[01:25:58.000 --> 01:26:04.000]   ♪ Because He lives ♪
+[01:26:04.000 --> 01:26:09.000]   ♪ All fear is gone ♪
+[01:26:09.000 --> 01:26:15.000]   ♪ Because I know ♪
+[01:26:15.000 --> 01:26:20.000]   ♪ He holds the future ♪
+[01:26:20.000 --> 01:26:25.000]   ♪ And life is worth the living ♪
+[01:26:25.000 --> 01:26:30.000]   ♪ Just because He lives ♪
+[01:26:30.000 --> 01:26:32.000]   Amen.
+[01:26:35.000 --> 01:26:41.000]   ♪ Jesus, Your mercy is all my hope ♪
+[01:26:41.000 --> 01:26:48.000]   ♪ Praise the King who brought my peace ♪
+[01:26:48.000 --> 01:26:50.000]   I'll be seeing you later.
+[01:26:50.000 --> 01:26:54.000]   ♪ My place where I sleep and die ♪
+[01:26:54.000 --> 01:26:56.000]   ♪ Oh, how good it is ♪
+

@@ -1,0 +1,2122 @@
+
+[00:00:00.000 --> 00:00:04.600]   OK, so I'm here with Eugene.
+[00:00:04.600 --> 00:00:06.560]   We are in Singapore.
+[00:00:06.560 --> 00:00:12.400]   This is the first time I'm podcasting in Singapore, the first time I'm podcasting with my Singaporean
+[00:00:12.400 --> 00:00:13.400]   accent.
+[00:00:13.400 --> 00:00:18.080]   Eugene has been a very valued part of our Latentspace Discord for a while, and also
+[00:00:18.080 --> 00:00:19.080]   diving deep into RWBKV.
+[00:00:19.080 --> 00:00:23.000]   I think you're actually the first person that brought it to my attention as a potential
+[00:00:23.000 --> 00:00:25.920]   Transformers alternative.
+[00:00:25.920 --> 00:00:32.600]   You're also CTO of UiLicious, which is a UI testing company that's in Singapore here.
+[00:00:32.600 --> 00:00:37.600]   Anything else that you would flag out as your high-level intro?
+[00:00:37.600 --> 00:00:43.080]   What brought me into AI machine learning is actually I started, I originally wrote GPU.js,
+[00:00:43.080 --> 00:00:46.600]   so that allows you to run JavaScript code on the GPU.
+[00:00:46.600 --> 00:00:53.600]   This was pre-neural network boom, and my project got picked up by Brain.js and merged in, and
+[00:00:53.600 --> 00:00:58.200]   that's how I actually went to the mad rush that neural networks and then subsequently
+[00:00:58.200 --> 00:00:59.200]   large language models.
+[00:00:59.200 --> 00:01:02.600]   OK, let's talk about that a little bit.
+[00:01:02.600 --> 00:01:05.880]   What was the origin story for GPU.js?
+[00:01:05.880 --> 00:01:12.840]   The origin story for GPU.js is that me and my friends at NUS, the local university here,
+[00:01:12.840 --> 00:01:15.160]   we just wanted to run JavaScript.
+[00:01:15.160 --> 00:01:19.520]   I think it was the era where everyone was just trying to do everything on Node.js and
+[00:01:19.520 --> 00:01:20.520]   npm packages.
+[00:01:20.520 --> 00:01:23.560]   Was this like 2016, 17?
+[00:01:23.560 --> 00:01:24.960]   Yeah, it's quite far back.
+[00:01:24.960 --> 00:01:27.560]   And then we were like, let's just do this for fun.
+[00:01:27.560 --> 00:01:32.360]   Let's just prove that you can run JavaScript on a GPU just because it should be faster
+[00:01:32.360 --> 00:01:35.280]   theoretically for matrix multiplications.
+[00:01:35.280 --> 00:01:38.280]   This is like Porsche.
+[00:01:38.280 --> 00:01:44.200]   And it was meant to be a joke that yes, you can run JavaScript on anything.
+[00:01:44.200 --> 00:01:48.360]   And we managed to get it to run it for that very narrow case of matrix multiplication.
+[00:01:48.360 --> 00:01:53.280]   It outperformed the base V8 engine by running it on the WebGL.
+[00:01:53.280 --> 00:01:54.280]   By a lot?
+[00:01:54.280 --> 00:01:58.000]   Especially when you scale past 2000 dimensions.
+[00:01:58.000 --> 00:02:05.960]   There is a quad chart because you have to transfer your variables from the JavaScript
+[00:02:05.960 --> 00:02:07.800]   space to the GPU space.
+[00:02:07.800 --> 00:02:12.480]   So anything less than a thousand by thousand, it tends to be not worth it.
+[00:02:12.480 --> 00:02:15.880]   And then we just let the project just sit there on the internet.
+[00:02:15.880 --> 00:02:22.560]   And it just sat there for one whole year until neural networks came in full steam and someone
+[00:02:22.560 --> 00:02:27.360]   picked it up and clustered it together and said, hey, we can train neural networks in
+[00:02:27.360 --> 00:02:29.960]   the browser in JavaScript.
+[00:02:29.960 --> 00:02:35.440]   And that's how BrainShake.js grew on top of GPU.js.
+[00:02:35.440 --> 00:02:40.440]   And just because I have a little bit of background to this, I actually still don't know what
+[00:02:40.440 --> 00:02:41.440]   specific APIs.
+[00:02:41.440 --> 00:02:43.440]   Are you using WebGL?
+[00:02:43.440 --> 00:02:47.800]   Are you basically abusing WebGL to get access to the GPU?
+[00:02:47.800 --> 00:02:48.800]   How do you get access to the GPU?
+[00:02:48.800 --> 00:02:50.560]   Oh, there's not really so much of an abuse.
+[00:02:50.560 --> 00:02:54.280]   So the crazier abuse part is actually up front.
+[00:02:54.280 --> 00:03:00.400]   So what we actually do is that when you submit a JavaScript code to GPU.js to execute in
+[00:03:00.400 --> 00:03:01.400]   parallel.
+[00:03:01.400 --> 00:03:05.200]   So I think you can just view it as a very common reduce function.
+[00:03:05.200 --> 00:03:07.560]   So you have that function and then your data.
+[00:03:07.560 --> 00:03:10.360]   So you've got your large data arrays, you put it in there.
+[00:03:10.360 --> 00:03:19.520]   What happens is we serialize your function into code and then we do an analysis on it
+[00:03:19.520 --> 00:03:23.480]   and then we translate that into WebGL code.
+[00:03:23.480 --> 00:03:28.880]   So we had to implement a lot of things that were in JavaScript that were like shader code.
+[00:03:28.880 --> 00:03:34.440]   At that point, it was still considered shader code that did not have support for.
+[00:03:34.440 --> 00:03:41.120]   So for example, if you want to do large number manipulation and we only had small floats
+[00:03:41.120 --> 00:03:45.280]   in the system, what we do, we just had two floats and then we just abuse the heck out
+[00:03:45.280 --> 00:03:46.280]   of it.
+[00:03:46.280 --> 00:03:48.120]   To simulate a big int or?
+[00:03:48.120 --> 00:03:49.720]   Yeah, things like that.
+[00:03:49.720 --> 00:03:57.480]   So that's in essence what the GPU.js library did is that we took your code, abstract syntax
+[00:03:57.480 --> 00:04:03.080]   tree, analyze it, we figure out what it does, then we rebuild the code in WebGL.
+[00:04:03.080 --> 00:04:09.560]   Okay, why not have, so why this, so this is a compiler.
+[00:04:09.560 --> 00:04:13.400]   Why the compilation approach instead of like a library approach where people can just kind
+[00:04:13.400 --> 00:04:15.720]   of use functions that you've made?
+[00:04:15.720 --> 00:04:19.640]   I think it's back to the original goal of making it a joke mode.
+[00:04:19.640 --> 00:04:21.080]   To run JavaScript on.
+[00:04:21.080 --> 00:04:22.760]   Literally run JavaScript.
+[00:04:22.760 --> 00:04:28.520]   Okay, so we didn't want you to need to learn new commands and things like that.
+[00:04:28.520 --> 00:04:30.520]   Yeah, that's pretty crazy.
+[00:04:30.520 --> 00:04:37.160]   Okay, so and because I had this initial confusion, Brain.js has nothing to do with TensorFlow
+[00:04:37.160 --> 00:04:40.120]   even though I think both were run by Google?
+[00:04:40.120 --> 00:04:48.520]   No, Brain.js is not run by Google, it's more of a community driven project.
+[00:04:48.520 --> 00:04:53.360]   I think it's commonly confused with TensorFlow because let's be realistic, if you want to
+[00:04:53.360 --> 00:04:57.800]   train real models, you're not going to train it on JS.
+[00:04:57.800 --> 00:05:01.760]   You're going to train it directly with QDA and so on because it just performs much better.
+[00:05:01.760 --> 00:05:06.600]   But there is a benefit of running it purely in a browser because you make it completely
+[00:05:06.600 --> 00:05:12.040]   possible for like teachers and yeah, in fact, one of our most popular users were teachers
+[00:05:12.040 --> 00:05:17.800]   teaching students on how to make neural networks and the barrier of entry is no, it's not you
+[00:05:17.800 --> 00:05:22.040]   need a QDA, you need a setup, no, you just need your browser, which makes it significantly
+[00:05:22.040 --> 00:05:24.480]   easier even though it's all toy models.
+[00:05:24.480 --> 00:05:29.840]   And in that use case, TensorFlow.js and Brain.js is functionally the same with just different
+[00:05:29.840 --> 00:05:32.320]   APIs, at least for serving this target market.
+[00:05:32.320 --> 00:05:33.320]   Yeah, yeah, yeah.
+[00:05:33.320 --> 00:05:36.600]   I mean, it's the best user experience for sandboxing.
+[00:05:36.600 --> 00:05:39.600]   You're just spinning something up without dependencies.
+[00:05:39.600 --> 00:05:45.520]   Okay, and then so fast forward after GPU.js, what else did you get up to?
+[00:05:45.520 --> 00:05:51.480]   So after GPU.js, that's where I move on to running my own startup, so you are Alicia's.
+[00:05:51.480 --> 00:05:56.520]   I guess that was because I was at the time professionally working for banks and private
+[00:05:56.520 --> 00:06:03.160]   institutes and surprisingly, for me, it's like why we have so much high tech applications,
+[00:06:03.160 --> 00:06:06.400]   but at the end of the day, we are just testing a lot of things manually and I just wanted
+[00:06:06.400 --> 00:06:12.560]   to automate that and that is why I started effectively a test automation company.
+[00:06:12.560 --> 00:06:17.920]   And even then, early on, we actually tried to automate things more with AI even, but
+[00:06:17.920 --> 00:06:21.600]   we found that at least at that time, it was not ready.
+[00:06:21.600 --> 00:06:26.560]   And fast forward, so we built a product around it where you can automate your browser using
+[00:06:26.560 --> 00:06:32.480]   local code, just go there, type simple command, go to Google, click on this text, run.
+[00:06:32.480 --> 00:06:35.280]   Which is another compiler, compiled language, right?
+[00:06:35.280 --> 00:06:36.280]   You had your own...
+[00:06:36.280 --> 00:06:37.280]   Oh, that's actually in JavaScript.
+[00:06:37.280 --> 00:06:38.280]   Testing language.
+[00:06:38.280 --> 00:06:45.160]   There's a JavaScript library, but we focus on making it easy for manual testers.
+[00:06:45.160 --> 00:06:50.120]   So if you see all the existing, let's say, browser automation libraries, they are all
+[00:06:50.120 --> 00:06:53.360]   heavily async based.
+[00:06:53.360 --> 00:07:00.320]   Teaching someone with zero programming skill how to deal with asyncs is a complete nightmare.
+[00:07:00.320 --> 00:07:06.680]   So we make steps that, for example, we make it synchronous, we don't expect you to know
+[00:07:06.680 --> 00:07:10.360]   CSS selector, we just ask you for your text on screen.
+[00:07:10.360 --> 00:07:11.360]   But it's still JavaScript.
+[00:07:11.360 --> 00:07:15.080]   Yeah, then that runs on Selenium and then it does all that.
+[00:07:15.080 --> 00:07:20.440]   So it's not AI, but the big jump for us was that subsequently, more recently, because
+[00:07:20.440 --> 00:07:26.040]   we've been building our dataset, we started having our own self AI on our platform where
+[00:07:26.040 --> 00:07:29.960]   you can just describe your test and it will generate for you.
+[00:07:29.960 --> 00:07:30.960]   Including hallucinations.
+[00:07:30.960 --> 00:07:33.960]   So lots of fun.
+[00:07:33.960 --> 00:07:36.320]   Yeah, and so how did you...
+[00:07:36.320 --> 00:07:38.840]   So you were running UALicious, which is a local platform.
+[00:07:38.840 --> 00:07:43.040]   I got the first demo maybe four years ago.
+[00:07:43.040 --> 00:07:45.720]   And I was like, "Okay, fine, you're doing testing."
+[00:07:45.720 --> 00:07:46.720]   There wasn't an obvious AI angle.
+[00:07:46.720 --> 00:07:48.560]   I mean, now that you explained it, it was great.
+[00:07:48.560 --> 00:07:56.160]   But what was your personal, like, "Okay, I'm going to be the dedicated AI guy for UALicious."
+[00:07:56.160 --> 00:07:59.560]   I think because for the most part, we knew that...
+[00:07:59.560 --> 00:08:05.120]   Okay, so one of the things that I found very interesting with the huge transformer boom
+[00:08:05.120 --> 00:08:12.840]   right now is that traditionally, and I think I have an article on this also, is that when
+[00:08:12.840 --> 00:08:16.840]   you tell companies that you need, when you want to build your own AI, you need a really
+[00:08:16.840 --> 00:08:17.840]   large dataset.
+[00:08:17.840 --> 00:08:25.080]   And over time, actually, the amount of datasets that you need is actually scaled down because
+[00:08:25.080 --> 00:08:26.080]   you can just now find...
+[00:08:26.080 --> 00:08:27.080]   Foundation models.
+[00:08:27.080 --> 00:08:30.080]   Yeah, find your own foundation models.
+[00:08:30.080 --> 00:08:35.400]   And when we started UALicious, we always knew at that time, because a lot of our other companies
+[00:08:35.400 --> 00:08:40.240]   that were launched at the same time were dealing with neural networks, that at some point,
+[00:08:40.240 --> 00:08:43.840]   the data that we've been collecting data on, let's say, how to do testing website, it's
+[00:08:43.840 --> 00:08:45.960]   just a very specific focus.
+[00:08:45.960 --> 00:08:51.680]   Basically, every single test that has run on our platform, unless our customer has opt
+[00:08:51.680 --> 00:08:58.160]   out or delete their account, basically privacy-related stuff, we actually still retain the test data.
+[00:08:58.160 --> 00:09:02.280]   And that's something that we always felt that was useful in the long run to be able to actually
+[00:09:02.280 --> 00:09:04.480]   build a huge training model.
+[00:09:04.480 --> 00:09:08.960]   The irony of that was that even though we were building all those datasets, as the threshold
+[00:09:08.960 --> 00:09:13.560]   came in and the transformer boom happened, we realized we don't actually need that big
+[00:09:13.560 --> 00:09:17.080]   of a dataset anymore to actually get a functional AI to do that.
+[00:09:17.080 --> 00:09:18.480]   Can you give order of magnitude?
+[00:09:18.480 --> 00:09:19.480]   What were you expecting?
+[00:09:19.480 --> 00:09:22.000]   And then what did you find?
+[00:09:22.000 --> 00:09:24.000]   How off are we?
+[00:09:24.000 --> 00:09:34.200]   Do you need millions of test data, and then you found that it was just thousands?
+[00:09:34.200 --> 00:09:38.560]   Just quantify something like that.
+[00:09:38.560 --> 00:09:43.120]   And I think this is actually one of the key insights, especially for people who are trying
+[00:09:43.120 --> 00:09:47.280]   to build on top of transformer models, or their computers.
+[00:09:47.280 --> 00:09:52.520]   Pre-transformer large language models, we would always be thinking of in terms of 100
+[00:09:52.520 --> 00:10:00.360]   gigabytes of data, 1 terabyte of data, millions, multi-millions of records for all the different
+[00:10:00.360 --> 00:10:01.360]   examples.
+[00:10:01.360 --> 00:10:09.120]   Post-transformer, you probably need only 1,000 or 10,000, enough data that you can literally
+[00:10:09.120 --> 00:10:12.520]   get an intern a few weeks to just get it done.
+[00:10:12.520 --> 00:10:14.120]   And you have a working model.
+[00:10:14.120 --> 00:10:20.320]   It may not be that great, but frankly, every piece of data you add after that is a diminishing
+[00:10:20.320 --> 00:10:23.720]   returns.
+[00:10:23.720 --> 00:10:28.000]   And it's specifically structured as-- because it's a language model, it doesn't actually
+[00:10:28.000 --> 00:10:31.920]   have any inherent understanding that it's automating the browser.
+[00:10:31.920 --> 00:10:35.440]   So it's presented as a prompt answer pair, like question answer pair.
+[00:10:35.440 --> 00:10:36.440]   Correct.
+[00:10:36.440 --> 00:10:40.880]   So typically, at least for our internal model that our users are using, it's presented as
+[00:10:40.880 --> 00:10:45.000]   here's the prompt, describe your test, or what you want to modify the code, and then
+[00:10:45.000 --> 00:10:47.080]   subsequently generate the code for you.
+[00:10:47.080 --> 00:10:52.800]   So it's-- and now in hindsight, it's now basically a copilot.
+[00:10:52.800 --> 00:10:55.000]   I think now copilot is adding that chat widget.
+[00:10:55.000 --> 00:10:57.400]   Are they fully on chat?
+[00:10:57.400 --> 00:10:58.400]   Yes.
+[00:10:58.400 --> 00:10:59.400]   I actually downloaded it yesterday.
+[00:10:59.400 --> 00:11:04.200]   I haven't actually used it yet, but it is a separate VS Code extension.
+[00:11:04.200 --> 00:11:07.840]   So there are now three copilot extensions shipped by GitHub, because they have shipped
+[00:11:07.840 --> 00:11:08.840]   their own chart.
+[00:11:08.840 --> 00:11:09.840]   I'm friendly.
+[00:11:09.840 --> 00:11:14.360]   I'm quite friendly with that team, but it's very funny.
+[00:11:14.360 --> 00:11:18.000]   But just to come back to you, so did you implement this with GPT-3?
+[00:11:18.000 --> 00:11:20.720]   Is that where it was?
+[00:11:20.720 --> 00:11:26.360]   So what we implemented, what we trained for, at least our code model, we based it off the
+[00:11:26.360 --> 00:11:27.360]   Salesforce CodeGen model.
+[00:11:27.360 --> 00:11:28.360]   OK.
+[00:11:28.360 --> 00:11:29.360]   Right.
+[00:11:29.360 --> 00:11:30.360]   So that was the foundation model that we built on top.
+[00:11:30.360 --> 00:11:36.360]   We are looking into replacing it in parts, but that becomes a longer conversation.
+[00:11:36.360 --> 00:11:44.120]   CodeGen being the first really credible, open source, code-specific language model that
+[00:11:44.120 --> 00:11:47.680]   was released by literally anyone, I think about three years ago.
+[00:11:47.680 --> 00:11:50.800]   And then they recently released CodeGen 2.
+[00:11:50.800 --> 00:11:55.320]   Any opinions on CodeGen 2 while we're on this topic?
+[00:11:55.320 --> 00:12:01.560]   I actually think, so in terms of CodeGen, one big appeal for the CodeGen and CodeGen
+[00:12:01.560 --> 00:12:07.040]   2 model is that Salesforce took a very clear and clean approach to the licensing.
+[00:12:07.040 --> 00:12:11.880]   Meaning they were very, very clear that everything that they trained on was open source.
+[00:12:11.880 --> 00:12:12.880]   Yeah.
+[00:12:12.880 --> 00:12:13.880]   MIT.
+[00:12:13.880 --> 00:12:14.880]   Yeah.
+[00:12:14.880 --> 00:12:15.880]   They didn't touch the problematic like this.
+[00:12:15.880 --> 00:12:16.880]   Yeah, yeah, yeah.
+[00:12:16.880 --> 00:12:17.880]   So, and you can imagine-
+[00:12:17.880 --> 00:12:20.880]   And do you think that Copilot did?
+[00:12:20.880 --> 00:12:21.880]   No.
+[00:12:21.880 --> 00:12:28.800]   I'm knowing Microsoft's statement on how liberal they were about GitHub data, and they were
+[00:12:28.800 --> 00:12:32.360]   saying they used a term that is under fair use.
+[00:12:32.360 --> 00:12:33.360]   I see.
+[00:12:33.360 --> 00:12:34.360]   Yeah.
+[00:12:34.360 --> 00:12:37.680]   I have no reason to believe that they didn't.
+[00:12:37.680 --> 00:12:38.680]   Right.
+[00:12:38.680 --> 00:12:44.040]   So, this same problem happens to actually a lot of existing CodeGen models.
+[00:12:44.040 --> 00:12:48.360]   And that was actually the main appeal for me for running, for actually building on top
+[00:12:48.360 --> 00:12:51.160]   of the Salesforce CodeGen model.
+[00:12:51.160 --> 00:13:00.080]   Mostly also because for us, we deploy on-premise into enterprises in Europe, and they ask questions.
+[00:13:00.080 --> 00:13:02.920]   So what does this deploy on-premise mean?
+[00:13:02.920 --> 00:13:05.920]   You pack your UI license into a container and you give it to them?
+[00:13:05.920 --> 00:13:06.920]   Yeah.
+[00:13:06.920 --> 00:13:07.920]   And then it's like a license fee or something?
+[00:13:07.920 --> 00:13:08.920]   Correct.
+[00:13:08.920 --> 00:13:09.920]   Okay, cool.
+[00:13:09.920 --> 00:13:10.920]   That's very interesting.
+[00:13:10.920 --> 00:13:11.920]   Yeah.
+[00:13:11.920 --> 00:13:12.920]   Okay.
+[00:13:12.920 --> 00:13:17.040]   I don't know if I have any other questions based on that.
+[00:13:17.040 --> 00:13:20.920]   Anything else before we go into the reasons for alternative models?
+[00:13:20.920 --> 00:13:24.920]   Okay, so, anything else that I have?
+[00:13:24.920 --> 00:13:27.920]   No, I don't really have much.
+[00:13:27.920 --> 00:13:28.920]   For alternative models?
+[00:13:28.920 --> 00:13:29.920]   Yeah.
+[00:13:29.920 --> 00:13:32.920]   So let me just set the premise, right?
+[00:13:32.920 --> 00:13:34.920]   Transformers have won, for now.
+[00:13:34.920 --> 00:13:36.920]   They've slid the neural networks?
+[00:13:36.920 --> 00:13:37.920]   Yes.
+[00:13:37.920 --> 00:13:44.920]   And it seems like you have had a history with machine learning since before transformers,
+[00:13:44.920 --> 00:13:47.920]   and now they're at the peak of their power.
+[00:13:47.920 --> 00:13:55.920]   And I see that there's a desire for alternative models for a number of reasons, but I'm very
+[00:13:55.920 --> 00:13:59.920]   curious as to what drives your personal interest in alternative models.
+[00:13:59.920 --> 00:14:04.920]   So, first things first, to be clear, the majority of our AI is still based on Trent Hall, at
+[00:14:04.920 --> 00:14:06.920]   least within my company.
+[00:14:06.920 --> 00:14:12.920]   But what drove me to alternatives beyond transformer, in essence, once we actually managed to get
+[00:14:12.920 --> 00:14:18.920]   our bot to generate UI testing code, the most obvious next thing that our customers started
+[00:14:18.920 --> 00:14:21.920]   asking, "Hey, let's say the test failed.
+[00:14:21.920 --> 00:14:29.920]   Can your AI now analyze my website and then tell me what's wrong and tell me what to change?"
+[00:14:29.920 --> 00:14:32.920]   Basically, they're getting crazier and crazier.
+[00:14:32.920 --> 00:14:33.920]   Yeah, yeah.
+[00:14:33.920 --> 00:14:34.920]   And that's the big issue.
+[00:14:34.920 --> 00:14:36.920]   Humans are very good at moving goalposts.
+[00:14:36.920 --> 00:14:37.920]   Yeah.
+[00:14:37.920 --> 00:14:42.920]   And I was like, "Okay, yeah, that's something I was working on."
+[00:14:42.920 --> 00:14:46.920]   And we had something working for toy websites.
+[00:14:46.920 --> 00:14:51.920]   But the first thing that we did was that we started...
+[00:14:51.920 --> 00:14:56.920]   One thing that we do internally is that we look at, I think, what was the list?
+[00:14:56.920 --> 00:14:58.920]   Top 100, top 1,000 websites.
+[00:14:58.920 --> 00:14:59.920]   Okay.
+[00:14:59.920 --> 00:15:05.920]   And we actually do run our test platform against that to make sure that our code works against
+[00:15:05.920 --> 00:15:06.920]   any front-end platform.
+[00:15:06.920 --> 00:15:08.920]   Well, what do you mean run your test platform?
+[00:15:08.920 --> 00:15:10.920]   Because you don't have tests for them.
+[00:15:10.920 --> 00:15:14.920]   Yeah, we have some very rudimentary basic things like go to website, see something,
+[00:15:14.920 --> 00:15:16.920]   click something, add to cart.
+[00:15:16.920 --> 00:15:17.920]   Yeah, that's it.
+[00:15:17.920 --> 00:15:18.920]   That's it.
+[00:15:18.920 --> 00:15:21.920]   The idea is more of like, because there's so many frameworks out there and our...
+[00:15:21.920 --> 00:15:23.920]   You just want to make sure you cover all of them.
+[00:15:23.920 --> 00:15:24.920]   Yeah.
+[00:15:24.920 --> 00:15:25.920]   And so we did the same thing for our AI.
+[00:15:25.920 --> 00:15:29.920]   And the first thing that it died on was literally Amazon.
+[00:15:29.920 --> 00:15:30.920]   Why?
+[00:15:30.920 --> 00:15:31.920]   Oh, five megabytes.
+[00:15:31.920 --> 00:15:33.920]   Yeah, I think you heard me mention that.
+[00:15:33.920 --> 00:15:38.920]   So when you are trying to analyze a website, it's like...
+[00:15:38.920 --> 00:15:41.920]   Even, like, we are talking about...
+[00:15:41.920 --> 00:15:43.920]   We've been talking about increasing token count size, right?
+[00:15:43.920 --> 00:15:47.920]   But for e-commerce websites in particular, even if you stripped off the CSS, even if
+[00:15:47.920 --> 00:15:52.920]   you stripped off the JavaScript, having the entire HTML in megabyte size is not unheard of.
+[00:15:52.920 --> 00:15:53.920]   Yeah.
+[00:15:53.920 --> 00:15:59.920]   And that's where it's like, how am I supposed to solve this in terms of an AI point of view?
+[00:15:59.920 --> 00:16:01.920]   How many tokens would that be?
+[00:16:01.920 --> 00:16:03.920]   Oh my gosh.
+[00:16:03.920 --> 00:16:04.920]   Easily?
+[00:16:04.920 --> 00:16:06.920]   I mean, for today, it's nothing, right?
+[00:16:06.920 --> 00:16:07.920]   Like 10,000 tokens?
+[00:16:07.920 --> 00:16:09.920]   You know, it's not that much, right?
+[00:16:09.920 --> 00:16:14.920]   No, because, okay, the tokenizer doesn't do very well with HTML content.
+[00:16:14.920 --> 00:16:15.920]   Oh, right.
+[00:16:15.920 --> 00:16:16.920]   Okay.
+[00:16:16.920 --> 00:16:18.920]   So you could easily be looking at over a million tokens.
+[00:16:18.920 --> 00:16:19.920]   I see.
+[00:16:19.920 --> 00:16:20.920]   Which is still too much even for today.
+[00:16:20.920 --> 00:16:21.920]   Yeah.
+[00:16:21.920 --> 00:16:25.920]   So did you look into making your own tokenizer?
+[00:16:25.920 --> 00:16:28.920]   That's something that we explored.
+[00:16:28.920 --> 00:16:34.920]   I think what we found more realistic was to actually pass the HTML into a more token-friendly format.
+[00:16:34.920 --> 00:16:35.920]   Yeah, right.
+[00:16:35.920 --> 00:16:38.920]   So this way, we can still build on top of existing models.
+[00:16:38.920 --> 00:16:42.920]   But, yeah, we are exploring that as well.
+[00:16:42.920 --> 00:16:44.920]   But back to the alternative.
+[00:16:44.920 --> 00:16:55.920]   So the key thing for me was at that point, and subsequently I think I showed you the experiments with English Compiler and things like that, right?
+[00:16:55.920 --> 00:16:57.920]   AI agent generating code.
+[00:16:57.920 --> 00:16:59.920]   You also have your own small dev.
+[00:16:59.920 --> 00:17:08.920]   Was that the context size is a real problem, and transformer, inherently by its nature, at least the vanilla transformer,
+[00:17:08.920 --> 00:17:17.920]   I know there's transformer XL and some other attempts, is that it quadratically scales with the context size.
+[00:17:17.920 --> 00:17:25.920]   So if we scale to, let's say, 100,000, that's already requiring a shit ton of compute and revamp,
+[00:17:25.920 --> 00:17:29.920]   and I don't even want to imagine what happens to 1 million or 10 million.
+[00:17:29.920 --> 00:17:36.920]   And that's where I was like, okay, this is a fundamental problem that needs to be changed.
+[00:17:36.920 --> 00:17:39.920]   If not, we will not go past this.
+[00:17:39.920 --> 00:17:45.920]   And I think there's also now a lot of people who are very interested in models that can handle large context size
+[00:17:45.920 --> 00:17:50.920]   because they also want it to be able to use in use cases where they never need to find things.
+[00:17:50.920 --> 00:17:52.920]   That's why killing is a pain, apparently.
+[00:17:52.920 --> 00:17:53.920]   Yes.
+[00:17:53.920 --> 00:17:58.920]   That said, okay, well, there's issues with just throwing everything in context, right?
+[00:17:58.920 --> 00:18:07.920]   It's shown that retrieval is only best when the item that's relevant is in front or in the back of the context window.
+[00:18:07.920 --> 00:18:11.920]   So basically, I'm just like, maybe we've just tapped out.
+[00:18:11.920 --> 00:18:19.920]   Context is working memory, and maybe transformers are very similar to humans in that our working memory is only of a given size.
+[00:18:19.920 --> 00:18:22.920]   If you try to artificially extend it, you would just make it very lossy.
+[00:18:22.920 --> 00:18:29.920]   Yes. So that's where I ended up landing on the RWKV model because in that sense, right,
+[00:18:29.920 --> 00:18:35.920]   one thing that I always found very weird for transformers, but I mean, it's my design,
+[00:18:35.920 --> 00:18:40.920]   is as you infer each token, you are re-computing everything up front.
+[00:18:40.920 --> 00:18:42.920]   That's the quadratic part.
+[00:18:42.920 --> 00:18:48.920]   And well, you're mentioning about the working memory problem.
+[00:18:48.920 --> 00:18:56.920]   In theory, with enough attention heads on it, and people seem to be trying to cram more and more attention heads into the process,
+[00:18:56.920 --> 00:19:00.920]   it could scale that way, ignoring compute costs.
+[00:19:00.920 --> 00:19:01.920]   Okay.
+[00:19:01.920 --> 00:19:07.920]   Ignoring compute costs is just like a very liberal, let's just throw as much H101 in, it doesn't make sense.
+[00:19:07.920 --> 00:19:15.920]   But RWKV is still fundamentally a neural network at its core.
+[00:19:15.920 --> 00:19:18.920]   It ends up scaling linearly as it goes through the tokens.
+[00:19:18.920 --> 00:19:21.920]   It will still suffer from the memory issue.
+[00:19:21.920 --> 00:19:27.920]   So within the RWKV, we do measure two separate things.
+[00:19:27.920 --> 00:19:29.920]   One, we call it the perfect memory.
+[00:19:29.920 --> 00:19:37.920]   So the model will have only a certain amount of capacity where it can remember things perfectly, just like humans.
+[00:19:37.920 --> 00:19:43.920]   And then beyond that, that is where it will start to discard things from its perfect memory.
+[00:19:43.920 --> 00:19:44.920]   Right.
+[00:19:44.920 --> 00:19:51.920]   And I felt that this was actually a lot more in line with our goals commercially,
+[00:19:51.920 --> 00:19:56.920]   and also what I felt was that was more useful in the long run because it's cheaper compute,
+[00:19:56.920 --> 00:19:59.920]   and it could be potentially paralyzable for a very long time.
+[00:19:59.920 --> 00:20:00.920]   Right.
+[00:20:00.920 --> 00:20:05.920]   So we're going to go into our RWKV paper in a bit, but one thing I wanted to ask,
+[00:20:05.920 --> 00:20:08.920]   you kind of glossed over how you found it in the first place.
+[00:20:08.920 --> 00:20:10.920]   Because you're not a researcher.
+[00:20:10.920 --> 00:20:13.920]   I don't imagine you're reading papers every day or something.
+[00:20:13.920 --> 00:20:14.920]   Until recently.
+[00:20:14.920 --> 00:20:15.920]   Until recently.
+[00:20:15.920 --> 00:20:18.920]   How did you find it?
+[00:20:18.920 --> 00:20:19.920]   How did I find it?
+[00:20:19.920 --> 00:20:24.920]   How do you know this is the one to bet on versus there's a bunch of other alternatives, right?
+[00:20:24.920 --> 00:20:33.920]   I think what was quick, I think it was rather quick after I concluded that Transformer as it is
+[00:20:33.920 --> 00:20:37.920]   will not scale to 10 million tokens.
+[00:20:37.920 --> 00:20:38.920]   Okay.
+[00:20:38.920 --> 00:20:41.920]   And so by the way, you mentioned Transformer 6L.
+[00:20:41.920 --> 00:20:47.920]   We also did an episode on Flash Attention, which helps to make part of it sublinear at least.
+[00:20:47.920 --> 00:20:51.920]   Yeah, but that is like way, way after I already dived into RWKV.
+[00:20:51.920 --> 00:20:58.920]   So history-wise at that point in time, we're talking about when 4K was the limit that everyone knew.
+[00:20:58.920 --> 00:20:59.920]   Right.
+[00:20:59.920 --> 00:21:01.920]   And this was last year, just to set context.
+[00:21:01.920 --> 00:21:02.920]   Okay.
+[00:21:02.920 --> 00:21:03.920]   Yeah.
+[00:21:03.920 --> 00:21:04.920]   Okay.
+[00:21:04.920 --> 00:21:11.920]   And then, yeah, so you just kind of were searching around and you found RWKV.
+[00:21:11.920 --> 00:21:14.920]   Presumably, did you go straight into the Discord?
+[00:21:14.920 --> 00:21:16.920]   Was it primarily a GitHub repo?
+[00:21:16.920 --> 00:21:17.920]   What was it?
+[00:21:17.920 --> 00:21:23.920]   Because as far as I can tell, there was no paper until maybe about two months ago.
+[00:21:23.920 --> 00:21:26.920]   And I talked about it before the paper, right?
+[00:21:26.920 --> 00:21:27.920]   Yes.
+[00:21:27.920 --> 00:21:31.920]   So you found it before they did any publicity, which is weird.
+[00:21:31.920 --> 00:21:32.920]   It's not normal.
+[00:21:32.920 --> 00:21:33.920]   Fair enough.
+[00:21:33.920 --> 00:21:34.920]   So what did you do?
+[00:21:34.920 --> 00:21:42.920]   So what I did, okay, so it was basically, I believe, okay, so it's a mixture of things
+[00:21:42.920 --> 00:21:49.920]   because it's like, I was searching GitHub, I was searching forums, other Discords, and
+[00:21:49.920 --> 00:21:50.920]   also blogs, actually.
+[00:21:50.920 --> 00:21:55.920]   Can you shout out which Discords and which forums were super helpful to you?
+[00:21:55.920 --> 00:21:59.920]   Super helpful would be mostly Elutius forum, Discord itself.
+[00:21:59.920 --> 00:22:04.920]   Blogs, it's very hard to pinpoint away because at that point in time, it was just like...
+[00:22:04.920 --> 00:22:05.920]   Random people's blogs.
+[00:22:05.920 --> 00:22:07.920]   Yeah, I was just getting all the...
+[00:22:07.920 --> 00:22:09.920]   Because everyone was just creating lists of lists, right?
+[00:22:09.920 --> 00:22:10.920]   Yeah, yeah.
+[00:22:10.920 --> 00:22:13.920]   And I believe you also have a list of lists somewhere.
+[00:22:13.920 --> 00:22:14.920]   Yeah, but mine is very...
+[00:22:14.920 --> 00:22:19.920]   So I would consider myself very trad in the sense that I would just follow the large model
+[00:22:19.920 --> 00:22:20.920]   labs.
+[00:22:20.920 --> 00:22:24.920]   Whereas the kind of list that you have to follow in order to get to something like RWAKV
+[00:22:24.920 --> 00:22:31.920]   before they've done any publicity is the non-trad, the kind of people that is not working on
+[00:22:31.920 --> 00:22:35.920]   Windows Hermes, Wizard, no credentials.
+[00:22:35.920 --> 00:22:38.920]   I don't even know who the hell they are, but they're just working on it.
+[00:22:38.920 --> 00:22:42.920]   So the list...
+[00:22:42.920 --> 00:22:43.920]   What?
+[00:22:43.920 --> 00:22:48.920]   Okay, this is all foggy memory and I might be hallucinating this because there was too
+[00:22:48.920 --> 00:22:55.920]   many lists, but I believe the list that actually what brought me to RWAKV was that beyond...
+[00:22:55.920 --> 00:22:59.920]   So this is something, this is a topic that we can actually touch upon later, right?
+[00:22:59.920 --> 00:23:07.920]   Beyond OpenAI's model and beyond Chet Chibiti and Claudia, the two big models, right?
+[00:23:07.920 --> 00:23:12.920]   Outside of the English-speaking nations, a lot of the open source models really fall
+[00:23:12.920 --> 00:23:13.920]   flat.
+[00:23:13.920 --> 00:23:23.920]   And that is why when you actually go through lists for doing things in other languages,
+[00:23:23.920 --> 00:23:27.920]   RWAKV actually stood out at that point.
+[00:23:27.920 --> 00:23:32.920]   And just on the basic premise, and we're not even talking about architectural advantages,
+[00:23:32.920 --> 00:23:37.920]   it's just the basic premise that they imported the data set in other languages in the training
+[00:23:37.920 --> 00:23:38.920]   data.
+[00:23:38.920 --> 00:23:39.920]   Was that a...
+[00:23:39.920 --> 00:23:42.920]   Because I mean, I imagine 99% of your customers are English.
+[00:23:42.920 --> 00:23:43.920]   Yeah.
+[00:23:43.920 --> 00:23:44.920]   Was that really a driver for you?
+[00:23:44.920 --> 00:23:45.920]   It wasn't a driver for this...
+[00:23:45.920 --> 00:23:46.920]   Or you just tried to explain it?
+[00:23:46.920 --> 00:23:49.920]   Yeah, that's how I landed onto all these blogs and things to go.
+[00:23:49.920 --> 00:23:54.920]   And can you say, when you say fall flat, the main one that I know about is there's a tokenizer
+[00:23:54.920 --> 00:23:56.920]   penalty for non-English.
+[00:23:56.920 --> 00:23:57.920]   Yeah, that's it.
+[00:23:57.920 --> 00:23:58.920]   Right?
+[00:23:58.920 --> 00:24:00.920]   So Chinese is up to...
+[00:24:00.920 --> 00:24:05.920]   Chinese or Japanese or Thai or something, it's like 16 times the number of tokens for
+[00:24:05.920 --> 00:24:07.920]   a typical English sentence.
+[00:24:07.920 --> 00:24:09.920]   But even before that, right?
+[00:24:09.920 --> 00:24:14.920]   Because I mean, I think you understand a lot of community users, they want to not use the
+[00:24:14.920 --> 00:24:15.920]   commercial APIs.
+[00:24:15.920 --> 00:24:16.920]   Okay.
+[00:24:16.920 --> 00:24:18.920]   So they try to find open source models.
+[00:24:18.920 --> 00:24:19.920]   Yes.
+[00:24:19.920 --> 00:24:20.920]   And we'll talk about the not safe for work people.
+[00:24:20.920 --> 00:24:21.920]   I really want...
+[00:24:21.920 --> 00:24:22.920]   Because you've actually talked to them.
+[00:24:22.920 --> 00:24:24.920]   I have never talked to these people.
+[00:24:24.920 --> 00:24:29.920]   But when I discovered them, it's a huge community, they're extremely passionate, and they're
+[00:24:29.920 --> 00:24:30.920]   actually good.
+[00:24:30.920 --> 00:24:31.920]   Yeah, they're really good.
+[00:24:31.920 --> 00:24:32.920]   They're good at this.
+[00:24:32.920 --> 00:24:33.920]   So let's talk about them, right?
+[00:24:33.920 --> 00:24:34.920]   Yeah.
+[00:24:34.920 --> 00:24:35.920]   We can talk about it later.
+[00:24:35.920 --> 00:24:36.920]   Yeah.
+[00:24:36.920 --> 00:24:44.920]   So they don't want to use the commercial models, and they want to use the open source model.
+[00:24:44.920 --> 00:24:47.920]   And there is a tokenizer penalty, which is true.
+[00:24:47.920 --> 00:24:52.920]   But I think on the more fundamental basis, if you look through the data sets, and this
+[00:24:52.920 --> 00:24:57.920]   is also partially in fault, because the way we set up our evals, all evals are written
+[00:24:57.920 --> 00:24:58.920]   in English.
+[00:24:58.920 --> 00:25:01.920]   And at least for the majority of them.
+[00:25:01.920 --> 00:25:07.920]   And if we are racing towards building AI models, at least right now, yes, you see all the companies
+[00:25:07.920 --> 00:25:11.920]   as they build their open source model, and they just want to narrowly focus on the evals.
+[00:25:11.920 --> 00:25:15.920]   Adding in a foreign data set is actually a loss.
+[00:25:15.920 --> 00:25:19.920]   Because once you're below a certain parameter, so we're talking about seven and four, right?
+[00:25:19.920 --> 00:25:20.920]   Yeah.
+[00:25:20.920 --> 00:25:25.920]   So the more you add that's not in line with your evals, the more it will degrade.
+[00:25:25.920 --> 00:25:28.920]   And they just excluded it.
+[00:25:28.920 --> 00:25:29.920]   So the model just--
+[00:25:29.920 --> 00:25:30.920]   The priority is English.
+[00:25:30.920 --> 00:25:31.920]   Yeah.
+[00:25:31.920 --> 00:25:32.920]   Yeah.
+[00:25:32.920 --> 00:25:33.920]   I get it.
+[00:25:33.920 --> 00:25:34.920]   The model just fundamentally didn't support--
+[00:25:34.920 --> 00:25:35.920]   So what's the trade-off?
+[00:25:35.920 --> 00:25:37.920]   Like, I mean, OK, so English and Chinese?
+[00:25:37.920 --> 00:25:39.920]   Or there's all these other languages.
+[00:25:39.920 --> 00:25:40.920]   What do you pick?
+[00:25:40.920 --> 00:25:50.920]   So Adobe KB started with-- also in context, the main person leading the Adobe KB project,
+[00:25:50.920 --> 00:25:51.920]   Blink, is from China.
+[00:25:51.920 --> 00:25:54.920]   So he naturally has an interest to make sure it supports Chinese.
+[00:25:54.920 --> 00:25:55.920]   Yeah.
+[00:25:55.920 --> 00:26:00.920]   And there are a fair amount of bilingual models, especially, that are English and Chinese from
+[00:26:00.920 --> 00:26:02.920]   the major universities in China.
+[00:26:02.920 --> 00:26:07.920]   So we started from basically English, Chinese, Japanese, Korean.
+[00:26:07.920 --> 00:26:12.920]   Frankly, this is a large part mostly because there were fans in those communities that
+[00:26:12.920 --> 00:26:14.920]   came on board.
+[00:26:14.920 --> 00:26:18.920]   And then subsequently, we tried to onboard other languages as well.
+[00:26:18.920 --> 00:26:19.920]   Yeah.
+[00:26:19.920 --> 00:26:21.920]   But these people are, again, not researchers.
+[00:26:21.920 --> 00:26:22.920]   Nope.
+[00:26:22.920 --> 00:26:23.920]   No money.
+[00:26:23.920 --> 00:26:24.920]   Nope.
+[00:26:24.920 --> 00:26:27.920]   Like, training on their home GPU lab or whatever, right?
+[00:26:27.920 --> 00:26:28.920]   Partially true.
+[00:26:28.920 --> 00:26:31.920]   But so how this works out, right?
+[00:26:31.920 --> 00:26:36.920]   So for the other retail model, at least how I see it works out for a lot of the other
+[00:26:36.920 --> 00:26:39.920]   languages was that we have the foundation model.
+[00:26:39.920 --> 00:26:44.920]   And this is the foundation model where we just kind of say, evals be them.
+[00:26:44.920 --> 00:26:46.920]   Let's just make sure to include all the other languages.
+[00:26:46.920 --> 00:26:47.920]   OK.
+[00:26:47.920 --> 00:26:56.920]   And when we included the other languages, the model works for most parts for the other
+[00:26:56.920 --> 00:26:57.920]   language.
+[00:26:57.920 --> 00:27:03.920]   Subsequently, these individuals who wanted to use these models for their respective use
+[00:27:03.920 --> 00:27:05.920]   cases, we will then fine tune respectively.
+[00:27:05.920 --> 00:27:10.920]   Because it's easier to fine tune in another language for your use case than to, I mean,
+[00:27:10.920 --> 00:27:14.920]   this is just classic fine tuning, than to train the language from scratch.
+[00:27:14.920 --> 00:27:15.920]   OK.
+[00:27:15.920 --> 00:27:21.920]   And I think more recently, and this model is not 100% trained yet, more recently, we,
+[00:27:21.920 --> 00:27:30.920]   RWKB has released what we call the World Model, where we go the next step of even including
+[00:27:30.920 --> 00:27:36.920]   all the translation data sets that we can find, even for minority languages that people
+[00:27:36.920 --> 00:27:37.920]   end in our Discord.
+[00:27:37.920 --> 00:27:42.920]   Because the goal for them, the long-term goal for us, at least internally, is that we wanted
+[00:27:42.920 --> 00:27:44.920]   an AI model for everyone.
+[00:27:44.920 --> 00:27:45.920]   And everyone does not mean USA.
+[00:27:45.920 --> 00:27:46.920]   It means the world.
+[00:27:46.920 --> 00:27:47.920]   Wow.
+[00:27:47.920 --> 00:27:50.920]   So there are a lot of languages in there.
+[00:27:50.920 --> 00:27:53.920]   Is it Asia biased?
+[00:27:53.920 --> 00:27:56.920]   Give me a sense.
+[00:27:56.920 --> 00:27:59.920]   It's probably, no offense, probably still going to be US biased in terms of the language.
+[00:27:59.920 --> 00:28:01.920]   It's probably US biased in terms of knowledge.
+[00:28:01.920 --> 00:28:05.920]   Because what we are doing is still power red pyjamas for the knowledge.
+[00:28:05.920 --> 00:28:10.920]   But in terms of language, we add all the other languages, wiki and translation set.
+[00:28:10.920 --> 00:28:11.920]   So it's hard.
+[00:28:11.920 --> 00:28:17.920]   I mean, we haven't fully evaluated the bias yet, but I'm quite sure that when disproportionately
+[00:28:17.920 --> 00:28:22.920]   knowledge is still within the English universe, there's the bias there.
+[00:28:22.920 --> 00:28:26.920]   But frankly, we are still at the stage where we can support the other languages.
+[00:28:26.920 --> 00:28:27.920]   Yeah.
+[00:28:27.920 --> 00:28:34.920]   And I think I mentioned this, one of the interesting parallels that sometimes I have is that I
+[00:28:34.920 --> 00:28:38.920]   can see in the Illustrator forums and all that, and then we're talking about alignments.
+[00:28:38.920 --> 00:28:40.920]   And we're talking about it in very big...
+[00:28:40.920 --> 00:28:45.920]   Which is, yeah, very keen on safety and all that, which is great, but it's not your goal
+[00:28:45.920 --> 00:28:47.920]   as the RWKB community.
+[00:28:47.920 --> 00:28:48.920]   Yeah.
+[00:28:48.920 --> 00:28:52.920]   And when you talk to members of the community that came on board, they're like, "Oh, I want
+[00:28:52.920 --> 00:28:59.920]   to get this to work for Korean, Japanese, Thai, Arabic languages," and so on and so
+[00:28:59.920 --> 00:29:00.920]   forth.
+[00:29:00.920 --> 00:29:01.920]   They just want something that worked.
+[00:29:01.920 --> 00:29:02.920]   Yes.
+[00:29:02.920 --> 00:29:03.920]   They don't want it to be...
+[00:29:03.920 --> 00:29:06.920]   They're not after the big model that does everything.
+[00:29:06.920 --> 00:29:09.920]   They just want something that they can play with in their language.
+[00:29:09.920 --> 00:29:11.920]   And that was very important to them.
+[00:29:11.920 --> 00:29:12.920]   Yeah.
+[00:29:12.920 --> 00:29:17.920]   And these are literally just hackers doing it for personal enjoyment.
+[00:29:17.920 --> 00:29:18.920]   Correct.
+[00:29:18.920 --> 00:29:20.920]   Not yet for work.
+[00:29:20.920 --> 00:29:21.920]   Yeah.
+[00:29:21.920 --> 00:29:22.920]   Some of them for work.
+[00:29:22.920 --> 00:29:23.920]   You don't know?
+[00:29:23.920 --> 00:29:24.920]   We don't know.
+[00:29:24.920 --> 00:29:31.920]   I mean, the whole character AI category, there's quite a number of them using it for that.
+[00:29:31.920 --> 00:29:33.920]   So, professionally.
+[00:29:33.920 --> 00:29:34.920]   Professionally.
+[00:29:34.920 --> 00:29:35.920]   Okay.
+[00:29:35.920 --> 00:29:37.920]   As in, they run character companies.
+[00:29:37.920 --> 00:29:38.920]   Yeah.
+[00:29:38.920 --> 00:29:39.920]   Let's call it.
+[00:29:39.920 --> 00:29:40.920]   Okay, cool.
+[00:29:40.920 --> 00:29:41.920]   Yeah.
+[00:29:41.920 --> 00:29:47.920]   So, I'll signal that I'm interested in doing an AI waifu episode, and I need to find the
+[00:29:47.920 --> 00:29:51.920]   right person, someone doing that, to just explain everything that they found.
+[00:29:51.920 --> 00:29:55.920]   Actually, I'm very interested in basically pairing this with a psychology professor who
+[00:29:55.920 --> 00:30:00.920]   can ask psychological questions about, what have you found about human sexuality and human
+[00:30:00.920 --> 00:30:03.920]   behavior when you're just talking to an AI bot?
+[00:30:03.920 --> 00:30:04.920]   I think it's very...
+[00:30:04.920 --> 00:30:05.920]   I don't know.
+[00:30:05.920 --> 00:30:06.920]   No one's covering this.
+[00:30:06.920 --> 00:30:07.920]   So, I listened to...
+[00:30:07.920 --> 00:30:12.920]   I actually listened to a few psychology podcasts, and they're completely out of the loop.
+[00:30:12.920 --> 00:30:15.920]   They're not even aware that this is going on.
+[00:30:15.920 --> 00:30:16.920]   And it's so huge.
+[00:30:16.920 --> 00:30:17.920]   Yeah.
+[00:30:17.920 --> 00:30:18.920]   Literally millions of people, right?
+[00:30:18.920 --> 00:30:19.920]   Yeah.
+[00:30:19.920 --> 00:30:24.920]   So, they're not aware about people using AI, I guess, in the form of therapy?
+[00:30:24.920 --> 00:30:25.920]   Yeah.
+[00:30:25.920 --> 00:30:26.920]   Or personal companionship?
+[00:30:26.920 --> 00:30:29.920]   Well, they're not talking about it.
+[00:30:29.920 --> 00:30:30.920]   Oh.
+[00:30:30.920 --> 00:30:31.920]   Okay.
+[00:30:31.920 --> 00:30:35.920]   It's maybe not a polite conversation, especially because it's not safe for work, but I think
+[00:30:35.920 --> 00:30:38.920]   it's just an emerging category that is interesting.
+[00:30:38.920 --> 00:30:39.920]   Yeah.
+[00:30:39.920 --> 00:30:44.920]   Especially, I mean, so it's going to be cut straight to the chase, especially in Japan.
+[00:30:44.920 --> 00:30:45.920]   Yeah.
+[00:30:45.920 --> 00:30:52.920]   Well, and then there's also, we always say AI waifu, but actually, I always call this
+[00:30:52.920 --> 00:30:53.920]   AI husbando.
+[00:30:53.920 --> 00:30:54.920]   It's bigger.
+[00:30:54.920 --> 00:30:55.920]   Bigger?
+[00:30:55.920 --> 00:30:58.920]   I wasn't aware about market size.
+[00:30:58.920 --> 00:30:59.920]   It's bigger.
+[00:30:59.920 --> 00:31:00.920]   Yes.
+[00:31:00.920 --> 00:31:01.920]   I've actually looked into this.
+[00:31:01.920 --> 00:31:02.920]   Oh.
+[00:31:02.920 --> 00:31:07.920]   And so, I can resolve this with a very, very simple example that everybody will understand,
+[00:31:07.920 --> 00:31:08.920]   right?
+[00:31:08.920 --> 00:31:12.920]   Amazon Kindle Unlimited is the subscription service where you can just pay a monthly fee
+[00:31:12.920 --> 00:31:14.920]   and get all the books you want.
+[00:31:14.920 --> 00:31:16.920]   What sells the most?
+[00:31:16.920 --> 00:31:17.920]   Romance novels?
+[00:31:17.920 --> 00:31:19.920]   I mean, romance novels?
+[00:31:19.920 --> 00:31:20.920]   For women.
+[00:31:20.920 --> 00:31:21.920]   Oh.
+[00:31:21.920 --> 00:31:23.920]   Because they like to read about romance.
+[00:31:23.920 --> 00:31:24.920]   Okay.
+[00:31:24.920 --> 00:31:26.920]   That makes a lot of sense.
+[00:31:26.920 --> 00:31:28.920]   Men are visual, women are verbal.
+[00:31:28.920 --> 00:31:31.920]   And in this case, language models are text.
+[00:31:31.920 --> 00:31:32.920]   Yeah, exactly.
+[00:31:32.920 --> 00:31:35.920]   I mean, they do try to dress it up.
+[00:31:35.920 --> 00:31:36.920]   Yes.
+[00:31:36.920 --> 00:31:37.920]   Yes.
+[00:31:37.920 --> 00:31:38.920]   Okay, cool.
+[00:31:38.920 --> 00:31:39.920]   So, I think it's great.
+[00:31:39.920 --> 00:31:42.920]   Shall we pause here, and then I'll switch to the screen?
+[00:31:42.920 --> 00:31:43.920]   Sure, sure.
+[00:31:43.920 --> 00:31:44.920]   All right.
+[00:31:44.920 --> 00:31:48.920]   So, we have it pulled up.
+[00:31:48.920 --> 00:31:50.920]   We are going to screen share for the bulk of this.
+[00:31:50.920 --> 00:31:54.920]   So, if you're listening on audio, it might be a good time to switch to the YouTube channel.
+[00:31:54.920 --> 00:31:56.920]   So, we're just going to start with an intro.
+[00:31:56.920 --> 00:31:57.920]   What is RWKV?
+[00:31:57.920 --> 00:32:06.920]   So, RWKV is a modern recursive neural network with transformer-like level of LMM performance,
+[00:32:06.920 --> 00:32:10.920]   which can be trained in a transformer mode.
+[00:32:10.920 --> 00:32:15.920]   And this part has already been benchmarked against GPT-NeoX in the paper, and it has
+[00:32:15.920 --> 00:32:22.920]   similar training performance compared to transformer models of the same dataset and parent path.
+[00:32:22.920 --> 00:32:25.920]   So, specifically the GPT-NeoX model.
+[00:32:25.920 --> 00:32:31.920]   So, the key thing is that even though it's matching performance, well, trading both in
+[00:32:31.920 --> 00:32:35.920]   GPT-NeoX, it's doing all this without attention layers.
+[00:32:35.920 --> 00:32:39.920]   And in the process, it's actually having a much substantially lower compute based on
+[00:32:39.920 --> 00:32:43.920]   its design, and also because it's a neural network, which we'll dive into later why that's
+[00:32:43.920 --> 00:32:47.920]   substantially lower in both training and inference.
+[00:32:47.920 --> 00:32:53.920]   And this is back to, like I mentioned previously, transformer, traditionally transformer until
+[00:32:53.920 --> 00:32:58.920]   we found out about transformer XL and things like that, tends to scale quadratically based
+[00:32:58.920 --> 00:33:00.920]   on the contact size.
+[00:33:00.920 --> 00:33:04.920]   And this applies not just in inference, but in training.
+[00:33:04.920 --> 00:33:10.920]   And due to how this is still a neural network in its heart, even though it can train like
+[00:33:10.920 --> 00:33:16.920]   a transformer, it's able to do so much more efficiently and faster, especially when you
+[00:33:16.920 --> 00:33:19.920]   hit contact size of 8K, 16K, and above.
+[00:33:19.920 --> 00:33:26.920]   And once you do quadratic and linear, the differences start to go crazy once you scale
+[00:33:26.920 --> 00:33:27.920]   the numbers up.
+[00:33:27.920 --> 00:33:32.920]   And that was the main benefits of the IWKB model, per se.
+[00:33:32.920 --> 00:33:36.920]   A few prominent researchers, when they actually reviewed through the archaeology paper when
+[00:33:36.920 --> 00:33:43.920]   it came out, they did highlight an important question of like, is this evidence to literally
+[00:33:43.920 --> 00:33:47.920]   maybe all that really matters is that we need a large data set and a scalable model.
+[00:33:47.920 --> 00:33:56.920]   That makes sense, obviously, to some approximation.
+[00:33:56.920 --> 00:33:58.920]   But you are still using attention?
+[00:33:58.920 --> 00:34:01.920]   No, we don't use attention inside.
+[00:34:01.920 --> 00:34:03.920]   OK, yeah.
+[00:34:03.920 --> 00:34:05.920]   Maybe let's rewind a little bit.
+[00:34:05.920 --> 00:34:08.920]   Specifically attention as you understood it.
+[00:34:08.920 --> 00:34:10.920]   OK, tell us more.
+[00:34:10.920 --> 00:34:16.920]   So we use weighted receptors.
+[00:34:16.920 --> 00:34:19.920]   And if there's any diagrams I should pull up, let me know.
+[00:34:19.920 --> 00:34:23.920]   OK, so we are using AFD.
+[00:34:23.920 --> 00:34:26.920]   So this attention-free transformer.
+[00:34:26.920 --> 00:34:28.920]   And this paper was written by--
+[00:34:28.920 --> 00:34:31.920]   What the hell is an attention-free transformer?
+[00:34:31.920 --> 00:34:34.920]   OK, this is unusual.
+[00:34:34.920 --> 00:34:44.920]   So we basically use the weighted retention weights and we compute over it.
+[00:34:44.920 --> 00:34:50.920]   And in essence, this is like the classic stacking more layers.
+[00:34:50.920 --> 00:34:55.920]   Once you do on top of it, you don't really need attention.
+[00:34:55.920 --> 00:35:03.920]   Once you have enough weights and layers stacked on it.
+[00:35:03.920 --> 00:35:05.920]   OK.
+[00:35:05.920 --> 00:35:08.920]   I don't know whether we want to go into the deep dive of AFD.
+[00:35:08.920 --> 00:35:09.920]   Sure.
+[00:35:09.920 --> 00:35:11.920]   That's interesting. I've never heard of this paper.
+[00:35:11.920 --> 00:35:14.920]   So this was written by Apple.
+[00:35:14.920 --> 00:35:22.920]   And subsequently, we integrate, at least blink, the creator, RWA, took this and applied it to a language model.
+[00:35:22.920 --> 00:35:24.920]   And scaled it up.
+[00:35:24.920 --> 00:35:31.920]   And that is how we landed on RWKB that doesn't use attention.
+[00:35:31.920 --> 00:35:35.920]   So sometimes within the community, we use the word "light attention".
+[00:35:35.920 --> 00:35:41.920]   Because what happens is that these layers and these weights will still play the role of attention.
+[00:35:41.920 --> 00:35:45.920]   I was going to say, you end up approximating attention.
+[00:35:45.920 --> 00:35:46.920]   Exactly.
+[00:35:46.920 --> 00:35:53.920]   So it ends up looking at the tokens or parts of the memory and then applying it to the output.
+[00:35:53.920 --> 00:35:58.920]   So, well, and the key benefits is that, because remember the attention model is a multi-head part,
+[00:35:58.920 --> 00:36:01.920]   it will need to scan all the tokens back and forth.
+[00:36:01.920 --> 00:36:03.920]   This removes that requirement.
+[00:36:03.920 --> 00:36:06.920]   And hence, it reduces the overall compute count.
+[00:36:06.920 --> 00:36:11.920]   I might be jumping back and forth a bit, but that's the one of the key essence of the WKB segments.
+[00:36:11.920 --> 00:36:13.920]   And we call it "light attention".
+[00:36:13.920 --> 00:36:18.920]   And this is the part where I would disagree with the RWKB community in some parts.
+[00:36:18.920 --> 00:36:21.920]   I think that was a bad name.
+[00:36:21.920 --> 00:36:22.920]   Whatever.
+[00:36:22.920 --> 00:36:23.920]   Because it's still...
+[00:36:23.920 --> 00:36:24.920]   Why is it a bad name?
+[00:36:24.920 --> 00:36:28.920]   This is the part where...
+[00:36:28.920 --> 00:36:37.920]   Because when the RWKB paper came out, and then we talk about, like, we use this,
+[00:36:37.920 --> 00:36:45.920]   and we call it "light attention", but by design, it's really nothing like your existing attention head models.
+[00:36:45.920 --> 00:36:50.920]   And it ended up sidetracking the Hacker Noon debate on one corner.
+[00:36:50.920 --> 00:36:53.920]   It's like, "No, this is technically attention, approximating attention."
+[00:36:53.920 --> 00:36:56.920]   Then another group is like, "No, this is not attention."
+[00:36:56.920 --> 00:36:57.920]   I see.
+[00:36:57.920 --> 00:37:02.920]   But I'm like, "Propose a better name, because I have no idea what to call it."
+[00:37:02.920 --> 00:37:03.920]   Okay.
+[00:37:03.920 --> 00:37:05.920]   What else should people know?
+[00:37:05.920 --> 00:37:09.920]   Maybe we can explain what RWKB stands for.
+[00:37:09.920 --> 00:37:13.920]   Oh, you have to open that in the paper.
+[00:37:13.920 --> 00:37:14.920]   Because if...
+[00:37:14.920 --> 00:37:16.920]   I think the paper is here.
+[00:37:16.920 --> 00:37:22.920]   So, "Re-intending RWKB receptive with the key value."
+[00:37:22.920 --> 00:37:23.920]   Okay.
+[00:37:23.920 --> 00:37:26.920]   And each of these are actual things that you model in the code, right?
+[00:37:26.920 --> 00:37:27.920]   Correct.
+[00:37:27.920 --> 00:37:31.920]   So, we can go into that.
+[00:37:31.920 --> 00:37:33.920]   Which attention historically is a query key value.
+[00:37:33.920 --> 00:37:34.920]   Correct.
+[00:37:34.920 --> 00:37:35.920]   Okay.
+[00:37:35.920 --> 00:37:38.920]   So, do you want to jump straight into the layer architecture?
+[00:37:38.920 --> 00:37:43.920]   Should we cover something else first?
+[00:37:43.920 --> 00:37:45.920]   Anything high-level?
+[00:37:45.920 --> 00:37:46.920]   High-level.
+[00:37:46.920 --> 00:37:48.920]   Okay, there's a 7B, there's a 14B, there's a...
+[00:37:48.920 --> 00:37:49.920]   Oh, okay.
+[00:37:49.920 --> 00:37:51.920]   One of the assets or the artifacts.
+[00:37:51.920 --> 00:37:52.920]   Okay.
+[00:37:52.920 --> 00:37:56.920]   Before we go into the nitty-gritty of how the layering and everything works,
+[00:37:56.920 --> 00:38:00.920]   on a high-level, currently, RWKB architecturally, as a model,
+[00:38:00.920 --> 00:38:02.920]   it can be...
+[00:38:02.920 --> 00:38:06.920]   What we have already proven is that it can be scaled and trained like a transformer.
+[00:38:06.920 --> 00:38:08.920]   How we do so, we'll cover later.
+[00:38:08.920 --> 00:38:12.920]   And this can be scaled to as many parameters as we want.
+[00:38:12.920 --> 00:38:15.920]   Currently, what we have is a dominant...
+[00:38:15.920 --> 00:38:18.920]   Our main models is the 7B model and the 14B model,
+[00:38:18.920 --> 00:38:23.920]   which you can find on Hugging Face or respectively our demos.
+[00:38:23.920 --> 00:38:25.920]   We also have...
+[00:38:25.920 --> 00:38:27.920]   That'll be the...
+[00:38:27.920 --> 00:38:29.920]   That'll be the RWKB Raven models.
+[00:38:29.920 --> 00:38:33.920]   These are also instructionally tuned for...
+[00:38:33.920 --> 00:38:36.920]   It's not here.
+[00:38:36.920 --> 00:38:39.920]   I'm so sorry.
+[00:38:39.920 --> 00:38:42.920]   It's probably at the bottom.
+[00:38:42.920 --> 00:38:43.920]   I see.
+[00:38:43.920 --> 00:38:44.920]   Yeah, okay.
+[00:38:44.920 --> 00:38:46.920]   It's on Hugging Face.
+[00:38:46.920 --> 00:38:49.920]   These are the UX issues that I need to fix.
+[00:38:49.920 --> 00:38:51.920]   You only discover it when you talk about it.
+[00:38:51.920 --> 00:38:52.920]   Yeah, I know.
+[00:38:52.920 --> 00:38:54.920]   Okay, so there's world, there's Raven, there's music.
+[00:38:54.920 --> 00:38:55.920]   Oh, my God, there's novel.
+[00:38:55.920 --> 00:38:56.920]   What is all this?
+[00:38:56.920 --> 00:38:58.920]   Okay, so...
+[00:38:58.920 --> 00:39:00.920]   Before we...
+[00:39:00.920 --> 00:39:08.920]   The current main models is RWKB for the PAL and Raven.
+[00:39:08.920 --> 00:39:11.920]   So, PAL is basically just a PAL+ model.
+[00:39:11.920 --> 00:39:12.920]   What is PAL+?
+[00:39:12.920 --> 00:39:14.920]   I know about PAL, but what is PAL+?
+[00:39:14.920 --> 00:39:18.920]   Random data sets that are communicated in the PAL.
+[00:39:18.920 --> 00:39:20.920]   How many tokens worth?
+[00:39:20.920 --> 00:39:24.920]   I would just say slightly 1.1 or 1.2 times the PAL.
+[00:39:24.920 --> 00:39:25.920]   Okay.
+[00:39:25.920 --> 00:39:26.920]   Yeah.
+[00:39:26.920 --> 00:39:31.920]   This is not instruction tuned and stuff.
+[00:39:31.920 --> 00:39:34.920]   Yeah, the plus one is typically all the other languages.
+[00:39:34.920 --> 00:39:37.920]   Subsequently, Raven are the instruction tuned model.
+[00:39:37.920 --> 00:39:41.920]   This is the current main complete models.
+[00:39:41.920 --> 00:39:43.920]   We subsequently have...
+[00:39:43.920 --> 00:39:45.920]   And the instruction data sets are from?
+[00:39:45.920 --> 00:39:50.920]   Typically, GPT-4, but then we scrub it for every move
+[00:39:50.920 --> 00:39:52.920]   or the SLR...
+[00:39:52.920 --> 00:39:55.920]   So, yeah, this would be the uncensored...
+[00:39:55.920 --> 00:39:58.920]   There's some other project that's kind of doing something similar
+[00:39:58.920 --> 00:40:00.920]   and they call it uncensored, but really, they just scrubbed it
+[00:40:00.920 --> 00:40:02.920]   as a large number of stuff.
+[00:40:02.920 --> 00:40:09.920]   So, that makes it technically breaking TOS of OpenAI, right?
+[00:40:09.920 --> 00:40:10.920]   Yeah.
+[00:40:10.920 --> 00:40:11.920]   Okay.
+[00:40:11.920 --> 00:40:12.920]   But that's a...
+[00:40:12.920 --> 00:40:13.920]   That's a later problem.
+[00:40:13.920 --> 00:40:18.920]   Frankly, let's be honest, even if we don't remove it,
+[00:40:18.920 --> 00:40:19.920]   someone is going to remove it.
+[00:40:19.920 --> 00:40:24.920]   I mean, so there's ways around this, which is you get clean data sets
+[00:40:24.920 --> 00:40:25.920]   that are not GPT-4.
+[00:40:25.920 --> 00:40:29.920]   So, the one that I typically mention is Yonic Culture's Open Assistance.
+[00:40:29.920 --> 00:40:32.920]   I believe that was included subsequently as well.
+[00:40:32.920 --> 00:40:36.920]   Yeah, obviously, all these release orders are all over the place.
+[00:40:36.920 --> 00:40:37.920]   Yeah.
+[00:40:37.920 --> 00:40:38.920]   So, okay, Raven, World...
+[00:40:38.920 --> 00:40:40.920]   So, Raven is the instruction tuned model.
+[00:40:40.920 --> 00:40:45.920]   And then subsequently, the World model is a new model that we are training.
+[00:40:45.920 --> 00:40:47.920]   It's not 100% complete yet.
+[00:40:47.920 --> 00:40:52.920]   We have to focus on a new tokenizer and all the languages.
+[00:40:52.920 --> 00:40:53.920]   So, what we...
+[00:40:53.920 --> 00:40:54.920]   All the languages.
+[00:40:54.920 --> 00:40:57.920]   All the languages that we can grab from the internet.
+[00:40:57.920 --> 00:41:00.920]   All the wikis in all the respective languages.
+[00:41:00.920 --> 00:41:03.920]   Now, please don't use 5 words.
+[00:41:03.920 --> 00:41:04.920]   5 words is not yet ready.
+[00:41:04.920 --> 00:41:05.920]   Okay, okay, okay.
+[00:41:05.920 --> 00:41:07.920]   No, no, I just want to see the description, right?
+[00:41:07.920 --> 00:41:08.920]   Like, what do you mean when you say all languages?
+[00:41:08.920 --> 00:41:09.920]   100 languages.
+[00:41:09.920 --> 00:41:10.920]   Okay, fine.
+[00:41:10.920 --> 00:41:13.920]   So, 100 languages.
+[00:41:13.920 --> 00:41:15.920]   It wasn't really a very precise sign.
+[00:41:15.920 --> 00:41:16.920]   We just basically...
+[00:41:16.920 --> 00:41:21.920]   Whatever the wiki tool that allows us to download the X wiki languages,
+[00:41:21.920 --> 00:41:23.920]   if it works, it's in the set.
+[00:41:23.920 --> 00:41:25.920]   If it doesn't work, skip.
+[00:41:25.920 --> 00:41:26.920]   Yeah.
+[00:41:26.920 --> 00:41:30.920]   And all the major prominent OSCAR translation sets.
+[00:41:30.920 --> 00:41:32.920]   So, as you can see, PAL, red pajamas.
+[00:41:32.920 --> 00:41:33.920]   What is OSCAR?
+[00:41:33.920 --> 00:41:36.920]   OSCAR is just a common term that we use in...
+[00:41:36.920 --> 00:41:38.920]   You can just search OSCAR in Harkin Face dataset.
+[00:41:38.920 --> 00:41:40.920]   It just means translations.
+[00:41:40.920 --> 00:41:41.920]   Okay.
+[00:41:41.920 --> 00:41:44.920]   So, you can find English, X pairs.
+[00:41:44.920 --> 00:41:45.920]   I see.
+[00:41:45.920 --> 00:41:46.920]   Yeah, all the respective pairs.
+[00:41:46.920 --> 00:41:47.920]   Okay.
+[00:41:47.920 --> 00:41:49.920]   So, and all the Chatteliby data you can find.
+[00:41:49.920 --> 00:41:50.920]   Okay.
+[00:41:50.920 --> 00:41:52.920]   So, 70% English, 15% multilang, 15% code.
+[00:41:52.920 --> 00:41:56.920]   Is there a strong grounding for why 15% code?
+[00:41:56.920 --> 00:41:57.920]   No.
+[00:41:57.920 --> 00:41:58.920]   It was just...
+[00:41:58.920 --> 00:42:00.920]   It was already there.
+[00:42:00.920 --> 00:42:01.920]   Yeah.
+[00:42:01.920 --> 00:42:04.920]   The focus of the world model was not to improve everything else.
+[00:42:04.920 --> 00:42:07.920]   It was literally that 15% multilang.
+[00:42:07.920 --> 00:42:08.920]   We wanted to increase...
+[00:42:08.920 --> 00:42:10.920]   Right, it was English and code, and then you just added multilang.
+[00:42:10.920 --> 00:42:14.920]   Yeah, we had a fair bit of multilang, but we wanted to bump it up.
+[00:42:14.920 --> 00:42:15.920]   Right.
+[00:42:15.920 --> 00:42:17.920]   So, this is primarily English?
+[00:42:17.920 --> 00:42:18.920]   Whatever.
+[00:42:18.920 --> 00:42:19.920]   Okay.
+[00:42:19.920 --> 00:42:20.920]   Yeah.
+[00:42:20.920 --> 00:42:24.920]   So, what I would like is basically a visual of, like, here's all the building blocks,
+[00:42:24.920 --> 00:42:27.920]   and here's how they combine to create all these things.
+[00:42:27.920 --> 00:42:30.920]   So, we have the RDFK architecture code.
+[00:42:30.920 --> 00:42:31.920]   Yeah.
+[00:42:31.920 --> 00:42:34.920]   So, that's the main model building block, and basically we feed it the data.
+[00:42:34.920 --> 00:42:40.920]   PowerPlus, Red Pyjama, then subsequently some of the code data.
+[00:42:40.920 --> 00:42:45.920]   For the world model, we subsequently add on top of that all the translation, OSCAR sets,
+[00:42:45.920 --> 00:42:46.920]   and so on.
+[00:42:46.920 --> 00:42:48.920]   And so, you're training these things.
+[00:42:48.920 --> 00:42:53.920]   You've mentioned that you're intentionally taking a hit on evals, on traditional evals,
+[00:42:53.920 --> 00:42:55.920]   like MMU or whatever.
+[00:42:55.920 --> 00:42:56.920]   I wouldn't say intentionally.
+[00:42:56.920 --> 00:42:59.920]   Also, to clarify, I am not training it.
+[00:42:59.920 --> 00:43:00.920]   I'm just part of the community.
+[00:43:00.920 --> 00:43:01.920]   Of course.
+[00:43:01.920 --> 00:43:03.920]   The community and Blink is the one training it.
+[00:43:03.920 --> 00:43:10.920]   But I would say it's more of the lack of care for the evals.
+[00:43:10.920 --> 00:43:15.920]   So, the reason why we add things to the dataset was never about improving evals.
+[00:43:15.920 --> 00:43:20.920]   It's about directly in response to user feedback.
+[00:43:20.920 --> 00:43:23.920]   So, like, "Oh, not good enough at this, so okay, just throw shit in."
+[00:43:23.920 --> 00:43:24.920]   Yes, literally.
+[00:43:24.920 --> 00:43:25.920]   Along those lines.
+[00:43:25.920 --> 00:43:31.920]   So, let's take for example, right, like, even for Raven and the world model, as we go through
+[00:43:31.920 --> 00:43:38.920]   the training stages, right, we specifically ask people in other nationalities within our
+[00:43:38.920 --> 00:43:41.920]   Discord community to test it for their language.
+[00:43:41.920 --> 00:43:47.920]   And our rule that we set is that, informal rule is that, the only person who can decide
+[00:43:47.920 --> 00:43:53.920]   whether this improved world model is better in Japanese or Thai or whatever it is, is
+[00:43:53.920 --> 00:43:54.920]   a native speaker.
+[00:43:54.920 --> 00:43:55.920]   Yeah.
+[00:43:55.920 --> 00:43:57.920]   Where does it take place?
+[00:43:57.920 --> 00:44:01.920]   So, it's mostly in within linguistics, but sometimes we do a short talk in general as
+[00:44:01.920 --> 00:44:02.920]   well.
+[00:44:02.920 --> 00:44:03.920]   Okay, linguistics.
+[00:44:03.920 --> 00:44:04.920]   Yep.
+[00:44:04.920 --> 00:44:09.920]   So, why don't, so do you have like an appointed ambassador, like you have a hundred languages?
+[00:44:09.920 --> 00:44:10.920]   Yeah.
+[00:44:10.920 --> 00:44:13.920]   So, you have a czar of Japanese, a czar of Thai.
+[00:44:13.920 --> 00:44:20.920]   It's not so pointed, it's more of like, "Hey, this is the Japanese model, please try it."
+[00:44:20.920 --> 00:44:22.920]   It's not that.
+[00:44:22.920 --> 00:44:26.920]   But there's no "the Japanese model", there's one model, there's the world model.
+[00:44:26.920 --> 00:44:30.920]   So, if you go to world model, I don't know whether it's inside here, no, four, sorry,
+[00:44:30.920 --> 00:44:31.920]   five.
+[00:44:31.920 --> 00:44:32.920]   Sorry.
+[00:44:32.920 --> 00:44:35.920]   Five is, we should never put five on top, because five is fully experimental.
+[00:44:35.920 --> 00:44:37.920]   Okay, so under false ambivalence.
+[00:44:37.920 --> 00:44:39.920]   I see, I see, I see.
+[00:44:39.920 --> 00:44:44.920]   So, there's, you see, there's a Japanese specific tune, Chinese tune.
+[00:44:44.920 --> 00:44:45.920]   Arabic.
+[00:44:45.920 --> 00:44:50.920]   Then for all the other smaller languages, we actually ask them from the base world model
+[00:44:50.920 --> 00:44:51.920]   itself.
+[00:44:51.920 --> 00:44:53.920]   So, feedback on that.
+[00:44:53.920 --> 00:44:59.920]   So, we actually released previously like 10% train, 15%, 20%, like as it goes through the
+[00:44:59.920 --> 00:45:01.920]   stages and then it's like, "Hey, is this working?
+[00:45:01.920 --> 00:45:03.920]   Is it regressing?"
+[00:45:03.920 --> 00:45:06.920]   So, it's like evals, but real humans.
+[00:45:06.920 --> 00:45:10.920]   Done by real humans and not systematically.
+[00:45:10.920 --> 00:45:16.920]   Is there a reason that you release, so you mentioned 7b, 14b, but I see also 0.1b, 0.4b,
+[00:45:16.920 --> 00:45:22.920]   3b, 1.5b, like what, is that useful for people or is it just for research?
+[00:45:22.920 --> 00:45:28.920]   0.1 and 0.4 is frankly more for research, but some people do try to make use of them,
+[00:45:28.920 --> 00:45:29.920]   nothing's stopping them.
+[00:45:29.920 --> 00:45:35.920]   Well, I mean, it's extra, like these are just different architectures, different dimensions.
+[00:45:35.920 --> 00:45:36.920]   Yeah.
+[00:45:36.920 --> 00:45:39.920]   So, it's actually extra cost to you to provide these things.
+[00:45:39.920 --> 00:45:47.920]   But specifically for the world model, because we are trying a new tokenizer, and the reason
+[00:45:47.920 --> 00:45:57.920]   why we're trying a new tokenizer is that one thing that we found, more like I found surprisingly
+[00:45:57.920 --> 00:46:01.920]   frustrating in existing tokenizer was that it was very English-centric.
+[00:46:01.920 --> 00:46:04.920]   And the existing tokenizer you took from GPT Neo.
+[00:46:04.920 --> 00:46:05.920]   Yeah.
+[00:46:05.920 --> 00:46:06.920]   Okay.
+[00:46:06.920 --> 00:46:09.920]   And just to, I need to backtrack a little bit, just for people who are not following
+[00:46:09.920 --> 00:46:15.920]   along, GPT-J was the original Luther reproduction of GPT-3, and then GPT Neo was the bigger
+[00:46:15.920 --> 00:46:16.920]   GPT-J?
+[00:46:16.920 --> 00:46:17.920]   Yeah.
+[00:46:17.920 --> 00:46:18.920]   20b, something like that.
+[00:46:18.920 --> 00:46:21.920]   Yeah, I do believe they have a 20b model.
+[00:46:21.920 --> 00:46:22.920]   Okay.
+[00:46:22.920 --> 00:46:30.920]   And there's actually, I mean, for those outside of the open source space, in particular for
+[00:46:30.920 --> 00:46:36.920]   the transformer, I think one thing significant about GPT Neo X was that it was one of the
+[00:46:36.920 --> 00:46:41.920]   major models that had everything fully documented, and why they make this change in the architecture
+[00:46:41.920 --> 00:46:43.920]   and so on and so forth.
+[00:46:43.920 --> 00:46:49.920]   And that became basically reference notes for all other subsequent open source models,
+[00:46:49.920 --> 00:46:57.920]   because they were the early ones that were doing a good transformer model, and at least
+[00:46:57.920 --> 00:46:59.920]   for a large-language model.
+[00:46:59.920 --> 00:47:02.920]   So, GPT-2 was actually open source.
+[00:47:02.920 --> 00:47:04.920]   People didn't find that useful?
+[00:47:04.920 --> 00:47:10.920]   No, people do find, do reference that as well, but it's like, the code is there, and why
+[00:47:10.920 --> 00:47:11.920]   did you do this?
+[00:47:11.920 --> 00:47:12.920]   Oh, it's not documented.
+[00:47:12.920 --> 00:47:13.920]   I see, I see.
+[00:47:13.920 --> 00:47:14.920]   Yeah, yeah.
+[00:47:14.920 --> 00:47:19.920]   So, in that sense, was OPT from Facebook useful?
+[00:47:19.920 --> 00:47:24.920]   Because I've heard very good things about the logbook of OPT, where they had the daily
+[00:47:24.920 --> 00:47:26.920]   logbook, and they just published that.
+[00:47:26.920 --> 00:47:28.920]   Yeah, those were useful as well.
+[00:47:28.920 --> 00:47:34.920]   I think one thing that Neo X had going for it, especially the ILLU2 community, is that
+[00:47:34.920 --> 00:47:38.920]   it's not just logbook, it's just like, you could just go to the Discord, "Hey, why do
+[00:47:38.920 --> 00:47:39.920]   you do this?"
+[00:47:39.920 --> 00:47:40.920]   Right.
+[00:47:40.920 --> 00:47:42.920]   And the person who trained it will tell you.
+[00:47:42.920 --> 00:47:44.920]   Yep, someone there, hopefully.
+[00:47:44.920 --> 00:47:45.920]   One of them.
+[00:47:45.920 --> 00:47:51.920]   So, that's why we had the 0.1 and 0.4 models, because we were just in uncharted waters here.
+[00:47:51.920 --> 00:47:57.920]   So, a lot of existing tokenizers took space as a major delimiter to detect and split,
+[00:47:57.920 --> 00:48:01.920]   and the tokenizer we are using is actually a lot more simplified.
+[00:48:01.920 --> 00:48:07.920]   So, existing tokenizers, I mean, they scan all the tags, they do a statistical model
+[00:48:07.920 --> 00:48:12.920]   of what pairs well with what, and so on and so forth, right?
+[00:48:12.920 --> 00:48:17.920]   We did a similar approach, but instead of using this token pairs well with this, and
+[00:48:17.920 --> 00:48:22.920]   should be paired with that, we just made it a trio list.
+[00:48:22.920 --> 00:48:26.920]   So, basically, we find the data structure.
+[00:48:26.920 --> 00:48:33.920]   Yeah, so we just find the longest matching string in that matching string that we have
+[00:48:33.920 --> 00:48:36.920]   trained inside our token list, and then we just use that token.
+[00:48:36.920 --> 00:48:43.920]   It's a drastically simplified tokenizer, and it doesn't use spaces as an assumption, which
+[00:48:43.920 --> 00:48:44.920]   I know-
+[00:48:44.920 --> 00:48:45.920]   Which is good.
+[00:48:45.920 --> 00:48:49.920]   Yeah, and that helps a lot of the Japanese, Chinese, and character models, because they
+[00:48:49.920 --> 00:48:51.920]   don't have spaces.
+[00:48:51.920 --> 00:49:00.920]   And I would even argue to say, if you look at the really large model, like with OpenAI
+[00:49:00.920 --> 00:49:07.920]   or Cloudera, tokenizers are not really a thing, in the sense that the model can work even
+[00:49:07.920 --> 00:49:10.920]   if you tell it character by character.
+[00:49:10.920 --> 00:49:11.920]   It may be inefficient-
+[00:49:11.920 --> 00:49:12.920]   Did someone try it?
+[00:49:12.920 --> 00:49:16.920]   I mean, there was that jailbreak where the system probably put the character, then enter,
+[00:49:16.920 --> 00:49:17.920]   enter, enter, enter.
+[00:49:17.920 --> 00:49:18.920]   Do you remember that jailbreak?
+[00:49:18.920 --> 00:49:19.920]   No, I didn't see that one.
+[00:49:19.920 --> 00:49:25.920]   Yeah, so you can literally, like instead of left to right, you can literally up to down.
+[00:49:25.920 --> 00:49:26.920]   Okay.
+[00:49:26.920 --> 00:49:28.920]   And you're just eating tokens for every character.
+[00:49:28.920 --> 00:49:31.920]   No, actually you're eating two, because there's also the new line.
+[00:49:31.920 --> 00:49:39.920]   And the model understood it, because there's enough dumb data on the internet that it has
+[00:49:39.920 --> 00:49:42.920]   learned how to deal with this kind of formatting.
+[00:49:42.920 --> 00:49:43.920]   Got it, okay.
+[00:49:43.920 --> 00:49:47.920]   And if these models are already understanding things at the character level, everything
+[00:49:47.920 --> 00:49:52.920]   else is just improved compute, because we jump the multiple tokens.
+[00:49:52.920 --> 00:49:57.920]   Do you have any idea of your dictionary size when you use this 3D data structure?
+[00:49:57.920 --> 00:49:59.920]   Yeah, I can-
+[00:49:59.920 --> 00:50:04.920]   Because the typical tokenizer is like 80,000 tokens, dictionary size.
+[00:50:04.920 --> 00:50:06.920]   I presume yours will be bigger.
+[00:50:06.920 --> 00:50:13.920]   Yeah, I can remember offhand, our previous tokenizer is around 50,000, is the new tokenizer,
+[00:50:13.920 --> 00:50:15.920]   then subsequently I believe this is around the same size.
+[00:50:15.920 --> 00:50:17.920]   It's not bad, pretty good.
+[00:50:17.920 --> 00:50:23.920]   We didn't want to change too much on that size, but we just wanted to change the format.
+[00:50:23.920 --> 00:50:24.920]   Yeah, cool.
+[00:50:24.920 --> 00:50:26.920]   All right, what else should people know?
+[00:50:26.920 --> 00:50:29.920]   So, world model is the-
+[00:50:29.920 --> 00:50:30.920]   It's music.
+[00:50:30.920 --> 00:50:32.920]   Sorry, sorry, sorry.
+[00:50:32.920 --> 00:50:36.920]   You literally just landed into like, here's the experiment zone.
+[00:50:36.920 --> 00:50:37.920]   Let's talk about it.
+[00:50:37.920 --> 00:50:38.920]   Yeah, this is cool.
+[00:50:38.920 --> 00:50:47.920]   So, RWKB fundamentally is still an input/output model, and you could do it for anything that
+[00:50:47.920 --> 00:50:48.920]   you want.
+[00:50:48.920 --> 00:50:56.920]   So, there is actually another project internally on the Discord where it's doing vision modeling,
+[00:50:56.920 --> 00:51:03.920]   and this is based on the mini-GPT-4 paper, where you have an image model, put everything
+[00:51:03.920 --> 00:51:06.920]   inside the latent space, and then you have the language model interact with that latent
+[00:51:06.920 --> 00:51:09.920]   space, and then train both, and then you can do image stuff.
+[00:51:09.920 --> 00:51:13.920]   Music was basically, let's just take the same model, same code.
+[00:51:13.920 --> 00:51:15.920]   You know how MIDI files work, right?
+[00:51:15.920 --> 00:51:18.920]   So, the MIDI files, just input and output MIDI files.
+[00:51:18.920 --> 00:51:19.920]   Okay.
+[00:51:19.920 --> 00:51:24.920]   And, yeah, and there's actually a lot of other experiments on vision.
+[00:51:24.920 --> 00:51:28.920]   There's even an image generation experiment using RWKB.
+[00:51:28.920 --> 00:51:30.920]   I'm not sure whether it's in the list.
+[00:51:30.920 --> 00:51:33.920]   It's clip-guided or auto-encoded, but I don't think that's-
+[00:51:33.920 --> 00:51:34.920]   Yeah.
+[00:51:34.920 --> 00:51:35.920]   I don't think that's-
+[00:51:35.920 --> 00:51:41.920]   I won't say it's a good image generator, admittedly, but it worked.
+[00:51:41.920 --> 00:51:45.920]   So, what I like about the transformer-driven image generators is that they can do text
+[00:51:45.920 --> 00:51:48.920]   well, and they can do control very well.
+[00:51:48.920 --> 00:51:55.920]   So, if you ask for green, blue, red cars arranged next to each other, they will actually know
+[00:51:55.920 --> 00:51:59.920]   how to follow that, whereas the diffusion models tend to treat it more as a suggestion.
+[00:51:59.920 --> 00:52:01.920]   You know what I mean?
+[00:52:01.920 --> 00:52:04.920]   Or they'll combine the green, blue, and red into one car.
+[00:52:04.920 --> 00:52:06.920]   Whatever felt like it, right?
+[00:52:06.920 --> 00:52:07.920]   Yeah.
+[00:52:07.920 --> 00:52:10.920]   Okay, but just to get back on this, what else?
+[00:52:10.920 --> 00:52:14.920]   Yeah, so, again, I actually kind of want to establish the credentials of this thing.
+[00:52:14.920 --> 00:52:18.920]   So, who is Blink?
+[00:52:18.920 --> 00:52:20.920]   Is it Randall on the internet?
+[00:52:20.920 --> 00:52:23.920]   Because, again, never heard of this guy until he published-
+[00:52:23.920 --> 00:52:24.920]   Well, yeah.
+[00:52:24.920 --> 00:52:25.920]   This is his real name.
+[00:52:25.920 --> 00:52:27.920]   Right.
+[00:52:27.920 --> 00:52:31.920]   And you had- I have this paper to work with, but it was only published in May.
+[00:52:31.920 --> 00:52:32.920]   Yeah.
+[00:52:32.920 --> 00:52:38.920]   You found this before the paper, and so I think it's very unusual for a researcher to
+[00:52:38.920 --> 00:52:46.920]   effectively launch to the wider public without a paper, and just get some kind of pretty
+[00:52:46.920 --> 00:52:50.920]   decent community going, and then publish the paper.
+[00:52:50.920 --> 00:52:52.920]   Actually, it's the other way around.
+[00:52:52.920 --> 00:52:56.920]   He got the basic community going before the paper.
+[00:52:56.920 --> 00:52:57.920]   That's what I'm saying.
+[00:52:57.920 --> 00:52:58.920]   This is unusual.
+[00:52:58.920 --> 00:53:08.920]   So, the history behind it is that I think a few years back, once with GPT-2,
+[00:53:08.920 --> 00:53:13.920]   Transformer started to pick up steam, and I guess the whole world was starting to think,
+[00:53:13.920 --> 00:53:15.920]   "Let's just abandon neural networks."
+[00:53:15.920 --> 00:53:20.920]   So, we haven't even gone into the code part, but the main reason why neural networks were
+[00:53:20.920 --> 00:53:25.920]   bad compared to Transformer was that when you train a- let's say you just input a token,
+[00:53:25.920 --> 00:53:29.920]   and train a token for a data sample, you have to wait for the compute to finish for that
+[00:53:29.920 --> 00:53:33.920]   token, take the state, and then you train the next token.
+[00:53:33.920 --> 00:53:38.920]   We'll get into how RWA-KB solves that, but basically the whole world at that point just
+[00:53:38.920 --> 00:53:41.920]   concluded, "Yeah, neural networks, it cannot scale as well as Transformer.
+[00:53:41.920 --> 00:53:43.920]   Let's just abandon it."
+[00:53:43.920 --> 00:53:45.920]   And everyone just went in that direction.
+[00:53:45.920 --> 00:53:53.920]   And Blink, or Bopeng, is his actual name, decided, basically as an individual, literally
+[00:53:53.920 --> 00:54:02.920]   at the Illuter AI forum, decided that, "Hey, I think we can modify recurrent neural networks
+[00:54:02.920 --> 00:54:09.920]   based on the Apple paper, the light engine that I showed previously, to make- to scale
+[00:54:09.920 --> 00:54:17.920]   this up without- to make neural networks scalable and parallelizable in the same way Transformers
+[00:54:17.920 --> 00:54:18.920]   work."
+[00:54:18.920 --> 00:54:21.920]   Because the reason why we branch away and focus on Transformer is because neural networks
+[00:54:21.920 --> 00:54:22.920]   were slow to train.
+[00:54:22.920 --> 00:54:27.920]   It was never- I mean, it wasn't so much about whether it was good or bad, it was just- no
+[00:54:27.920 --> 00:54:33.920]   one wants to wait 100 years for their billion tokens to train to finish, even if they can
+[00:54:33.920 --> 00:54:36.920]   throw a GPU farm at it.
+[00:54:36.920 --> 00:54:41.920]   And that's where he started looking into it, like how to make the neural network trainable
+[00:54:41.920 --> 00:54:42.920]   in parallel.
+[00:54:42.920 --> 00:54:44.920]   And specifically RNNs?
+[00:54:44.920 --> 00:54:45.920]   Yes.
+[00:54:45.920 --> 00:54:51.920]   And subsequently, Illuter AI, and I believe there were also a few others, because he was
+[00:54:51.920 --> 00:54:57.920]   doing it very publicly there, came on board to sponsor the GPU computes required.
+[00:54:57.920 --> 00:55:03.920]   Because even though I mentioned that on a large context, it is substantially cheaper,
+[00:55:03.920 --> 00:55:10.920]   I think, especially if you run an open source discord forum for an AI model, it's like every
+[00:55:10.920 --> 00:55:15.920]   day there'll be someone who thinks that they can train a 20D model on a single GPU coming
+[00:55:15.920 --> 00:55:16.920]   in.
+[00:55:16.920 --> 00:55:22.920]   The skill is still large, even though it's like 1/3 of 1/10 compared to Transformer, it
+[00:55:22.920 --> 00:55:24.920]   still needs a large GPU.
+[00:55:24.920 --> 00:55:30.920]   So that's where Illuter AI and the rest, Stability, I believe also is involved, stepped up and
+[00:55:30.920 --> 00:55:36.920]   donated the A100s needed to train the basic models that RNN had.
+[00:55:36.920 --> 00:55:44.920]   And so before those models were trained, we were only having in theory the toy models
+[00:55:44.920 --> 00:55:47.920]   or the small models that this can match Transformer.
+[00:55:47.920 --> 00:55:51.920]   We have no idea whether it can match Transformer at that scale.
+[00:55:51.920 --> 00:55:58.920]   And subsequently, the larger models, the 14D models, we can compare it directly with NeoX
+[00:55:58.920 --> 00:56:02.920]   model, and that's where this paper came out.
+[00:56:02.920 --> 00:56:04.920]   So that's the history behind it.
+[00:56:04.920 --> 00:56:07.920]   It's like he wasn't really doing it in silence.
+[00:56:07.920 --> 00:56:13.920]   He was doing it from Illuter, then he branched out.
+[00:56:13.920 --> 00:56:17.920]   Because this became a big project on its own, and that's where other people started coming
+[00:56:17.920 --> 00:56:20.920]   in.
+[00:56:20.920 --> 00:56:25.920]   So the part where we say that RWKB is a neural network that can be scaled up, can be rolled
+[00:56:25.920 --> 00:56:30.920]   into Transformer, the key thing that you want to see is this diagram here.
+[00:56:30.920 --> 00:56:37.920]   This should be in the paper.
+[00:56:37.920 --> 00:56:45.920]   So when you do inference, when you are running inference, ideally you should run it as a
+[00:56:45.920 --> 00:56:46.920]   neural network.
+[00:56:46.920 --> 00:56:47.920]   So this is a layer.
+[00:56:47.920 --> 00:56:52.920]   So classic neural networks is that you have a state.
+[00:56:52.920 --> 00:56:54.920]   The state could be start from blank.
+[00:56:54.920 --> 00:56:59.920]   You process a token, you output a state, and then you rinse and repeat.
+[00:56:59.920 --> 00:57:06.920]   And then as you keep doing the output, it makes a prediction.
+[00:57:06.920 --> 00:57:12.920]   One thing that, so subsequently for RWKB, what happens here is that we can roll out
+[00:57:12.920 --> 00:57:16.920]   this neural network side by side, and then it runs similar to Transformer.
+[00:57:16.920 --> 00:57:20.920]   But the key thing here is that the states are split across the layer.
+[00:57:20.920 --> 00:57:24.920]   So this is what we call, in this diagram here specifically, this is what we call the time
+[00:57:24.920 --> 00:57:25.920]   mix and channel mix.
+[00:57:25.920 --> 00:57:28.920]   These are operations within the layer.
+[00:57:28.920 --> 00:57:34.920]   Depending on how you view it, you could view this as individual layers, or as how we view
+[00:57:34.920 --> 00:57:38.920]   it, we view this collection of layers as one layer block.
+[00:57:38.920 --> 00:57:44.920]   And each layer block pass the states to its sibling subsequently down the road.
+[00:57:44.920 --> 00:57:45.920]   As you process the next token.
+[00:57:45.920 --> 00:57:47.920]   Which is a similar RNN type feature.
+[00:57:47.920 --> 00:57:48.920]   Correct.
+[00:57:48.920 --> 00:57:54.920]   However, the key thing is, you do not need to wait for the upper layers to complete before
+[00:57:54.920 --> 00:57:56.920]   you can go to the next token.
+[00:57:56.920 --> 00:57:59.920]   So, what happens in practice?
+[00:57:59.920 --> 00:58:04.920]   If I jump to the diagram, there's this graphic here.
+[00:58:04.920 --> 00:58:06.920]   This is not 100% how it runs, you can see.
+[00:58:06.920 --> 00:58:07.920]   I like it.
+[00:58:07.920 --> 00:58:10.920]   Whoever put time into this, kudos.
+[00:58:10.920 --> 00:58:12.920]   I made it.
+[00:58:12.920 --> 00:58:17.920]   So this is how you can visualize it.
+[00:58:17.920 --> 00:58:18.920]   The first layer is the layer norm.
+[00:58:18.920 --> 00:58:22.920]   The layer norm doesn't, this is standard layer normalization.
+[00:58:22.920 --> 00:58:26.920]   It doesn't need to, it just does it on the token and doesn't need to wait for the other layers.
+[00:58:26.920 --> 00:58:31.920]   But if you notice, subsequently, to the right and to the top, these tokens, these blocks
+[00:58:31.920 --> 00:58:33.920]   need to wait for the blocks on the left.
+[00:58:33.920 --> 00:58:34.920]   Sure.
+[00:58:34.920 --> 00:58:40.920]   And this is, once you go past the first few tokens, this cascades very rapidly.
+[00:58:40.920 --> 00:58:44.920]   Especially, this is only like 1, 2, 3, 4 layers.
+[00:58:44.920 --> 00:58:50.920]   Most models have like 20, 40 plus layers and the cascading patterns are happening.
+[00:58:50.920 --> 00:58:54.920]   And in practice, once you start cascading there, you just saturate the GPU.
+[00:58:54.920 --> 00:58:57.920]   And that's how it starts being parallelizable to train.
+[00:58:57.920 --> 00:59:00.920]   You no longer need to train in slices like traditional RNNs.
+[00:59:00.920 --> 00:59:02.920]   Does big O notation help?
+[00:59:02.920 --> 00:59:08.920]   Like, so we're talking about big O, N squared for attention.
+[00:59:08.920 --> 00:59:12.920]   Is this O of 1 or O of N?
+[00:59:12.920 --> 00:59:16.920]   I'm talking about like to go through the entire context.
+[00:59:16.920 --> 00:59:19.920]   This will be O of 1 per token.
+[00:59:19.920 --> 00:59:21.920]   O of 1 per token, O of N for a whole sequence.
+[00:59:21.920 --> 00:59:22.920]   Yeah.
+[00:59:22.920 --> 00:59:23.920]   Yeah, okay.
+[00:59:23.920 --> 00:59:24.920]   Cool.
+[00:59:24.920 --> 00:59:25.920]   Yeah.
+[00:59:25.920 --> 00:59:26.920]   And that's the core idea.
+[00:59:26.920 --> 00:59:27.920]   That was one of the key things.
+[00:59:27.920 --> 00:59:29.920]   What else is the key thing?
+[00:59:29.920 --> 00:59:35.920]   Other things, so other things is that, so I think you're familiar with LSTM, right?
+[00:59:35.920 --> 00:59:41.920]   This is how traditional neural networks keeps things within memories.
+[00:59:41.920 --> 00:59:46.920]   So within here, we have two channels.
+[00:59:46.920 --> 00:59:50.920]   So we call it the channel mix and the time mix respectively.
+[00:59:50.920 --> 00:59:52.920]   Is there a formal definition of channel mix and time mix?
+[00:59:52.920 --> 00:59:53.920]   Yeah.
+[00:59:53.920 --> 01:00:00.920]   We can actually scroll, but this will be like going more into the code.
+[01:00:00.920 --> 01:00:02.920]   They're just weights?
+[01:00:02.920 --> 01:00:06.920]   Yeah, just weights that applies according to the formula.
+[01:00:06.920 --> 01:00:08.920]   But how in essence does it work?
+[01:00:08.920 --> 01:00:14.920]   More importantly, you can see the data from the respective time mix and channel mix move
+[01:00:14.920 --> 01:00:17.920]   to the next segment.
+[01:00:17.920 --> 01:00:24.920]   How time mix is designed per se was that it's how it retains.
+[01:00:24.920 --> 01:00:30.920]   So similar to LSTM, right, where it processes the state and the input, it may decide to
+[01:00:30.920 --> 01:00:34.920]   discard certain states and keep new things in the state.
+[01:00:34.920 --> 01:00:38.920]   Time mix does the same thing, but with a different formula.
+[01:00:38.920 --> 01:00:44.920]   So it replaces the LSTM in a sense, and it can decide to keep things indefinitely.
+[01:00:44.920 --> 01:00:47.920]   So this represents the long-term memories if you want to view it that way.
+[01:00:47.920 --> 01:00:54.920]   But classically, the problem with that is that it struggles with long distance.
+[01:00:54.920 --> 01:00:55.920]   Correct.
+[01:00:55.920 --> 01:00:57.920]   Is that the same issue?
+[01:00:57.920 --> 01:01:02.920]   No, that's subsequent.
+[01:01:02.920 --> 01:01:07.920]   It struggles with long distance because it also needs to keep track of both near-term
+[01:01:07.920 --> 01:01:09.920]   memory and long-term memory.
+[01:01:09.920 --> 01:01:10.920]   So you split it up?
+[01:01:10.920 --> 01:01:11.920]   Yeah, effectively split it up.
+[01:01:11.920 --> 01:01:12.920]   So channel mix is subsequent.
+[01:01:12.920 --> 01:01:14.920]   Is this the perfect memory?
+[01:01:14.920 --> 01:01:18.920]   Yeah, this is closer to the perfect memory, and this is the short-term.
+[01:01:18.920 --> 01:01:24.920]   So time mix, it has trainable weights on what it decides to keep and discard.
+[01:01:24.920 --> 01:01:32.920]   So channel mix, it has a very strong bias in it towards the next token.
+[01:01:32.920 --> 01:01:39.920]   So subsequently, it will just like, as memories are stored in the lower layers, it just slowly
+[01:01:39.920 --> 01:01:41.920]   shifts upwards through the channel mix.
+[01:01:41.920 --> 01:01:46.920]   And this is the short-term memory, which at some point, as it just shifts all the way
+[01:01:46.920 --> 01:01:48.920]   up, it will just disappear into the void.
+[01:01:48.920 --> 01:01:54.920]   At that point, subsequently, then time mix should be retaining the longer-term memory.
+[01:01:54.920 --> 01:01:58.920]   Are you also sampling for distribution?
+[01:01:58.920 --> 01:02:00.920]   So are you also sampling for distribution?
+[01:02:00.920 --> 01:02:05.920]   So I noticed, for example, here that the illustrative demo is like, it says, "My name is," and then
+[01:02:05.920 --> 01:02:07.920]   it's predicting name is Bob.
+[01:02:07.920 --> 01:02:08.920]   Yeah, correct.
+[01:02:08.920 --> 01:02:09.920]   That's a classic.
+[01:02:09.920 --> 01:02:11.920]   But is there some amount of temperature?
+[01:02:11.920 --> 01:02:12.920]   Oh, yes.
+[01:02:12.920 --> 01:02:13.920]   It's the same concepts that we--
+[01:02:13.920 --> 01:02:14.920]   Same concepts.
+[01:02:14.920 --> 01:02:15.920]   OK.
+[01:02:15.920 --> 01:02:17.920]   So it's literally the same concept.
+[01:02:17.920 --> 01:02:20.920]   It's the probability of distribution across your token space.
+[01:02:20.920 --> 01:02:25.920]   You could use Hugging Face sampler on top of it, literally.
+[01:02:25.920 --> 01:02:29.920]   So yeah, the output is actually more like a set of logic.
+[01:02:29.920 --> 01:02:30.920]   Should we pause?
+[01:02:30.920 --> 01:02:31.920]   Pause for a bit.
+[01:02:31.920 --> 01:02:42.920]   So we took a break for a bit, but now we're trying to cover, like, what is the big aha
+[01:02:42.920 --> 01:02:43.920]   moment for you?
+[01:02:43.920 --> 01:02:45.920]   And you said it was something to do with cost.
+[01:02:45.920 --> 01:02:46.920]   Correct.
+[01:02:46.920 --> 01:02:48.920]   So we have this chart on screen.
+[01:02:48.920 --> 01:02:53.920]   There's literally a chart of quadratic scaling versus linear scaling in terms of GPU time
+[01:02:53.920 --> 01:02:55.920]   spent in text generation.
+[01:02:55.920 --> 01:02:58.920]   And you said it was at training time and at inference time?
+[01:02:58.920 --> 01:03:00.920]   Just basically in everything that matters.
+[01:03:00.920 --> 01:03:01.920]   Correct.
+[01:03:01.920 --> 01:03:07.920]   So look back to how RNN works from a high level.
+[01:03:07.920 --> 01:03:14.920]   We do an O1 operation on a token, create a state, O1 operation, create a state.
+[01:03:14.920 --> 01:03:16.920]   So this just scales linearly.
+[01:03:16.920 --> 01:03:21.920]   You want to throw a thousand tokens at it, on inference, it just scales linearly.
+[01:03:21.920 --> 01:03:30.920]   Subsequently, for a transformer, you take in a token, you process your first token,
+[01:03:30.920 --> 01:03:31.920]   it may be O1 here.
+[01:03:31.920 --> 01:03:35.920]   Subsequently, when you generate your third token, you need to compute your second and
+[01:03:35.920 --> 01:03:37.920]   first, and then vice versa.
+[01:03:37.920 --> 01:03:42.920]   So you do your 1,000 token, you need to compute back your 999 previous tokens.
+[01:03:42.920 --> 01:03:45.920]   And as this keeps growing and growing, this is your quadratic scaling.
+[01:03:45.920 --> 01:03:52.920]   And this is why we had this graph of the amount of cumulative GPU time that you need to spend
+[01:03:52.920 --> 01:03:56.920]   to generate all these tokens respectively.
+[01:03:56.920 --> 01:04:02.920]   And this is fundamentally just transformer versus neural networks.
+[01:04:02.920 --> 01:04:04.920]   Yeah, on inference.
+[01:04:04.920 --> 01:04:12.920]   And subsequently, neural networks did have the disadvantage of not being able to parallelise
+[01:04:12.920 --> 01:04:13.920]   well in training.
+[01:04:13.920 --> 01:04:19.920]   But as I covered, RWKB kind of solved that by effectively splitting the layers, allowing
+[01:04:19.920 --> 01:04:22.920]   you to train different parts in parallel.
+[01:04:22.920 --> 01:04:27.920]   And some people will go into the academic debate of, technically, the second and third
+[01:04:27.920 --> 01:04:30.920]   token is not parallelisable until the first is done.
+[01:04:30.920 --> 01:04:35.920]   But once you get into, like, I can saturate a GPU length, it's just way better.
+[01:04:35.920 --> 01:04:38.920]   It's the second and third debate, we are done.
+[01:04:38.920 --> 01:04:42.920]   And so training, in essence, has always, I mean, this is a bit of a transformer.
+[01:04:42.920 --> 01:04:47.920]   On neural networks, I need to do an inference pass, I look at the logits, then I backprop
+[01:04:47.920 --> 01:04:51.920]   to see what went wrong, and I update the weights.
+[01:04:51.920 --> 01:04:53.920]   So the inference is the forward pass.
+[01:04:53.920 --> 01:04:57.920]   You still need to, it's part of the training course.
+[01:04:57.920 --> 01:05:02.920]   As you backprop as well, having meaning to only look at the current cell tokens and the
+[01:05:02.920 --> 01:05:06.920]   state instead of everything also reduces the amount of things that you need to backprop.
+[01:05:06.920 --> 01:05:11.920]   So it's just that there's so many factors involved in just reducing the overall inference
+[01:05:11.920 --> 01:05:12.920]   and training time.
+[01:05:12.920 --> 01:05:17.920]   And that was something that appealed to me because in the long run, I mean, all of us
+[01:05:17.920 --> 01:05:19.920]   want our model to run blazingly fast, right?
+[01:05:19.920 --> 01:05:20.920]   Yeah.
+[01:05:20.920 --> 01:05:22.920]   And also on minimal hardware.
+[01:05:22.920 --> 01:05:24.920]   Oh, yes, definitely.
+[01:05:24.920 --> 01:05:28.920]   Which as far as I understand, you still have 14 billion parameters, that's not going away.
+[01:05:28.920 --> 01:05:34.920]   You still need the RAM to store 14 billion parameters worth of stuff, that's not going
+[01:05:34.920 --> 01:05:35.920]   away.
+[01:05:35.920 --> 01:05:36.920]   Yeah.
+[01:05:36.920 --> 01:05:37.920]   Okay.
+[01:05:37.920 --> 01:05:38.920]   So RAM is ungauged.
+[01:05:38.920 --> 01:05:43.920]   Yeah, on the RAM side, but the working memory is reduced.
+[01:05:43.920 --> 01:05:46.920]   So typically you need more than 14 for transformer.
+[01:05:46.920 --> 01:05:52.920]   I mean, let's not touch quantization, but in this case, we don't need to keep, like
+[01:05:52.920 --> 01:05:58.920]   if you really, really want to save RAM, it is possible for you to do token by token inference
+[01:05:58.920 --> 01:06:02.920]   so that you don't need to keep your states in history.
+[01:06:02.920 --> 01:06:05.920]   You only need to keep your current token state and your next.
+[01:06:05.920 --> 01:06:06.920]   Yeah.
+[01:06:06.920 --> 01:06:07.920]   Okay.
+[01:06:07.920 --> 01:06:13.920]   And yeah, and that's actually like one segment of our community is just purely porting other
+[01:06:13.920 --> 01:06:15.920]   KB to C++ based model.
+[01:06:15.920 --> 01:06:16.920]   Or NX.
+[01:06:16.920 --> 01:06:19.920]   Yeah, and running it on Pis and stuff.
+[01:06:19.920 --> 01:06:20.920]   Raspberry Pis.
+[01:06:20.920 --> 01:06:22.920]   It's interesting to watch those.
+[01:06:22.920 --> 01:06:25.920]   Is JAX interesting to people, TPUs?
+[01:06:25.920 --> 01:06:27.920]   There is some interest, but-
+[01:06:27.920 --> 01:06:29.920]   Not, people don't have access.
+[01:06:29.920 --> 01:06:34.920]   I would say frankly, the people with the most interest also happen to be the people who
+[01:06:34.920 --> 01:06:35.920]   have free TPUs.
+[01:06:35.920 --> 01:06:36.920]   Yeah.
+[01:06:36.920 --> 01:06:38.920]   So, I don't know-
+[01:06:38.920 --> 01:06:43.920]   My understanding was Eleuther was also given a whole bunch of TPU hours, therefore they
+[01:06:43.920 --> 01:06:45.920]   wrote all their stuff in JAX.
+[01:06:45.920 --> 01:06:48.920]   Yeah, and if you can train it and then you've got the weights, you can always just run in
+[01:06:48.920 --> 01:06:50.920]   something else, it doesn't matter.
+[01:06:50.920 --> 01:06:51.920]   Yeah, yeah.
+[01:06:51.920 --> 01:06:52.920]   Cool.
+[01:06:52.920 --> 01:06:53.920]   All right.
+[01:06:53.920 --> 01:07:00.920]   And then there's a chart about performance and it shows that RWKB is competitive, or
+[01:07:00.920 --> 01:07:06.920]   actually better in some of the reasoning challenges, which that's something I definitely would
+[01:07:06.920 --> 01:07:07.920]   look for.
+[01:07:07.920 --> 01:07:12.920]   It's fine if your speed is faster and all that, but if the reasoning quality sucks,
+[01:07:12.920 --> 01:07:15.920]   then it's not a very useful language model.
+[01:07:15.920 --> 01:07:16.920]   Exactly.
+[01:07:16.920 --> 01:07:19.920]   So, this is like literally us saying-
+[01:07:19.920 --> 01:07:20.920]   No trade-offs.
+[01:07:20.920 --> 01:07:23.920]   Yeah, you don't lose out in that process.
+[01:07:23.920 --> 01:07:24.920]   Okay.
+[01:07:24.920 --> 01:07:28.920]   Big question then, why isn't RWKB a bigger deal right now?
+[01:07:28.920 --> 01:07:33.920]   So, one, we are not a commercial organization.
+[01:07:33.920 --> 01:07:37.920]   This is literally the pure open source play.
+[01:07:37.920 --> 01:07:45.920]   But you could have done the stable diffusion thing, which stable diffusion launched, it
+[01:07:45.920 --> 01:07:48.920]   was by a bunch of nobodies before that.
+[01:07:48.920 --> 01:07:51.920]   It's literally split out from Luther.
+[01:07:51.920 --> 01:07:54.920]   But they definitely had some hype.
+[01:07:54.920 --> 01:07:57.920]   I interviewed Shamim, who got in.
+[01:07:57.920 --> 01:08:04.920]   This is something I ... The reason I ask you so many things about how did you find out
+[01:08:04.920 --> 01:08:08.920]   about RWKB, because I think the generalizable skill is how to be early in AI.
+[01:08:08.920 --> 01:08:14.920]   Because being early in AI is very valuable, because then you were there to see how things
+[01:08:14.920 --> 01:08:18.920]   developed instead of picking it up later like me.
+[01:08:18.920 --> 01:08:22.920]   Anyway, so, yeah, why is it not a bigger deal?
+[01:08:22.920 --> 01:08:23.920]   You want me to be frank?
+[01:08:23.920 --> 01:08:24.920]   Yeah.
+[01:08:24.920 --> 01:08:25.920]   We just suck at marketing.
+[01:08:25.920 --> 01:08:26.920]   Okay.
+[01:08:26.920 --> 01:08:27.920]   That's fine.
+[01:08:27.920 --> 01:08:28.920]   I mean-
+[01:08:28.920 --> 01:08:29.920]   This is part of it.
+[01:08:29.920 --> 01:08:30.920]   Yeah, this is part of it.
+[01:08:30.920 --> 01:08:33.920]   So, maybe-
+[01:08:33.920 --> 01:08:36.920]   Again, I don't think that is entirely the cause.
+[01:08:36.920 --> 01:08:37.920]   Yeah, I'm sure it's definitely.
+[01:08:37.920 --> 01:08:44.920]   I think the other major segment right now as well is that we were really late on the
+[01:08:44.920 --> 01:08:45.920]   paper.
+[01:08:45.920 --> 01:08:46.920]   Okay?
+[01:08:46.920 --> 01:08:51.920]   Like, one of the weirdest thing right now, is- Weirdest thing right now I feel that is
+[01:08:51.920 --> 01:08:54.920]   that RWKB is starting to have its moment right now.
+[01:08:54.920 --> 01:08:55.920]   Okay.
+[01:08:55.920 --> 01:09:00.920]   Is that ever since that initial paper came out, there was ResNet, there's a- I think
+[01:09:00.920 --> 01:09:04.920]   there's two more- There's a few more additional papers coming out.
+[01:09:04.920 --> 01:09:09.920]   One from Microsoft, one from other organizations that are literally exploring the whole idea
+[01:09:09.920 --> 01:09:12.920]   once again of scalable neural networks.
+[01:09:12.920 --> 01:09:13.920]   Okay.
+[01:09:13.920 --> 01:09:15.920]   And they are citing RWKB as part of it as well.
+[01:09:15.920 --> 01:09:16.920]   Okay.
+[01:09:16.920 --> 01:09:25.920]   And I think for most- For most, I think it's existingly, why switch to this model when
+[01:09:25.920 --> 01:09:31.920]   even though we have proven that yes, it's scalable to 7 and 14, and that it can match
+[01:09:31.920 --> 01:09:38.920]   transformer at similar param and training size, but all this is very academic.
+[01:09:38.920 --> 01:09:45.920]   Because the community, right, the community at large, especially for the English speaking
+[01:09:45.920 --> 01:09:48.920]   community, right, they don't really care about this.
+[01:09:48.920 --> 01:09:53.920]   They care about what's the best model that I can run on my computer, at least within
+[01:09:53.920 --> 01:09:54.920]   the open source space.
+[01:09:54.920 --> 01:10:00.920]   And by the- And even though we match in performance for things in the same data set, the keyword
+[01:10:00.920 --> 01:10:02.920]   is same data set.
+[01:10:02.920 --> 01:10:06.920]   Like this benchmark is not even red pajamas yet.
+[01:10:06.920 --> 01:10:09.920]   It's the power.
+[01:10:09.920 --> 01:10:14.920]   And when you have models that are like, be it like Alken being trained on much larger
+[01:10:14.920 --> 01:10:18.920]   data set, especially for an English use case, it makes more sense to use that.
+[01:10:18.920 --> 01:10:19.920]   I see.
+[01:10:19.920 --> 01:10:25.920]   So there will be another paper coming that is RWKB trained on red pajama that will-
+[01:10:25.920 --> 01:10:27.920]   For larger data set, yeah.
+[01:10:27.920 --> 01:10:28.920]   And so on and so forth.
+[01:10:28.920 --> 01:10:33.920]   So I think that's the- We are still in the stages of reaching that point where we train
+[01:10:33.920 --> 01:10:34.920]   on the larger data set.
+[01:10:34.920 --> 01:10:39.920]   The only reason why we have a bigger outsized impact compared to like the other models is
+[01:10:39.920 --> 01:10:45.920]   frankly because half of our discord came in not for English.
+[01:10:45.920 --> 01:10:46.920]   It's for other languages.
+[01:10:46.920 --> 01:10:47.920]   Yeah, that's great.
+[01:10:47.920 --> 01:10:54.920]   And there is a definite very US and English centric bias towards these models.
+[01:10:54.920 --> 01:10:57.920]   And it's to me kind of poetic.
+[01:10:57.920 --> 01:11:03.920]   Like there's nothing in the architecture of RWKB that particularly bias it to be really
+[01:11:03.920 --> 01:11:05.920]   good at other languages.
+[01:11:05.920 --> 01:11:10.920]   It's just that as a community, you decided to prioritize it in your tokenization in the
+[01:11:10.920 --> 01:11:11.920]   data sets.
+[01:11:11.920 --> 01:11:12.920]   That's it.
+[01:11:12.920 --> 01:11:13.920]   Yeah, that's it.
+[01:11:13.920 --> 01:11:18.920]   I would even argue that I'm surprised, more surprised that, especially on the European
+[01:11:18.920 --> 01:11:26.920]   side of things, that we don't have more models that actually focus on even the European
+[01:11:26.920 --> 01:11:27.920]   languages.
+[01:11:27.920 --> 01:11:33.920]   Because there is like a softer jump to character, Japanese and Chinese characters.
+[01:11:33.920 --> 01:11:34.920]   Because they're all romantic.
+[01:11:34.920 --> 01:11:39.920]   I would say, well, one, Europeans are very hostile to tech advancement.
+[01:11:39.920 --> 01:11:43.920]   The first thing, they have never met a technology they cannot regulate.
+[01:11:43.920 --> 01:11:46.920]   Everything is ban, regulate, ban.
+[01:11:46.920 --> 01:11:51.920]   Whereas, and then on our side, the Asians like to have waifus.
+[01:11:51.920 --> 01:11:56.920]   So that would be my guess.
+[01:11:56.920 --> 01:12:01.920]   I think back to the benchmark, what excites me most still about this is that it just means
+[01:12:01.920 --> 01:12:03.920]   that we just need to scale.
+[01:12:03.920 --> 01:12:06.920]   We just need to scale this model and read the right data.
+[01:12:06.920 --> 01:12:07.920]   To like 40B?
+[01:12:07.920 --> 01:12:08.920]   40B, 60B.
+[01:12:08.920 --> 01:12:14.920]   I mean, params is one thing, it's data sets and GPU time.
+[01:12:14.920 --> 01:12:19.920]   Yeah, so you and I are talking offline about ideas for getting data, getting compute, and
+[01:12:19.920 --> 01:12:20.920]   all this.
+[01:12:20.920 --> 01:12:23.920]   So this is like a project that's ongoing.
+[01:12:23.920 --> 01:12:27.920]   Okay, anything else for the future of RWA KB?
+[01:12:27.920 --> 01:12:35.920]   The biggest one would be, okay, so this is back to how, remember I said evals doesn't
+[01:12:35.920 --> 01:12:37.920]   hide or doesn't highlight everything.
+[01:12:37.920 --> 01:12:40.920]   Like this is nice and all, the evals.
+[01:12:40.920 --> 01:12:46.920]   But there's a big realistic on another weakness on RWA KB side is that now with the rise of
+[01:12:46.920 --> 01:12:56.920]   100K or 32K context size windows, transformable model, RWA KB currently is trained to handle
+[01:12:56.920 --> 01:13:02.920]   let's say 8 or even some people have already trained it to 16K sizes.
+[01:13:02.920 --> 01:13:06.920]   It has, and well, it will, as a neural network, it will happily keep going on for infinite
+[01:13:06.920 --> 01:13:07.920]   context length.
+[01:13:07.920 --> 01:13:10.920]   It will just keep generating.
+[01:13:10.920 --> 01:13:12.920]   Does it do well?
+[01:13:12.920 --> 01:13:17.920]   The answer is no, because you didn't train it to handle that situation and there's actually
+[01:13:17.920 --> 01:13:18.920]   a chart.
+[01:13:18.920 --> 01:13:23.920]   So, for example, if like the prediction, the power test loss, right, it does improve over
+[01:13:23.920 --> 01:13:25.920]   time, let's say if you go down the context length.
+[01:13:25.920 --> 01:13:27.920]   But this is if we train it.
+[01:13:27.920 --> 01:13:32.920]   And what is not seen here is that if we were to do, let's say run it further, it'll just
+[01:13:32.920 --> 01:13:35.920]   go back up because it was not trained to handle that.
+[01:13:35.920 --> 01:13:38.920]   Well, it technically can run.
+[01:13:38.920 --> 01:13:41.920]   It suffers from the longer context length.
+[01:13:41.920 --> 01:13:49.920]   And that's the part where RWA KB, especially in Q&A tasks, in huge documents, you get closer
+[01:13:49.920 --> 01:13:51.920]   to summarize giant documents.
+[01:13:51.920 --> 01:13:54.920]   That's where it starts to look like none of this is fundamental.
+[01:13:54.920 --> 01:13:56.920]   It's just you need more money.
+[01:13:56.920 --> 01:13:57.920]   Yeah.
+[01:13:57.920 --> 01:14:00.920]   And no, there is actually a fundamental part.
+[01:14:00.920 --> 01:14:06.920]   So, one of the things that I was doing and am actively helping within the community right
+[01:14:06.920 --> 01:14:14.920]   now is that we found that the existing way to scale the memory was not that efficient.
+[01:14:14.920 --> 01:14:16.920]   And we were just being realistic.
+[01:14:16.920 --> 01:14:20.920]   If you want to hit 100K, we need to change this.
+[01:14:20.920 --> 01:14:25.920]   So, one thing that I'm actually looking forward to right now is actually those experiments.
+[01:14:25.920 --> 01:14:31.920]   We have already started scaling things to be able to handle things at transformer scale,
+[01:14:31.920 --> 01:14:36.920]   be it the 4K, 8K, in terms of how it handles memory really well.
+[01:14:36.920 --> 01:14:40.920]   And we found that we want to extend it to be 16, 32, and 64.
+[01:14:40.920 --> 01:14:42.920]   And that is within our roadmap.
+[01:14:42.920 --> 01:14:48.920]   And that's the exciting thing because once we have that, it's able to handle long-term
+[01:14:48.920 --> 01:14:50.920]   memory within those sizes.
+[01:14:50.920 --> 01:14:56.920]   It removed what many people in the community felt was the last architectural limit.
+[01:14:56.920 --> 01:15:03.920]   Because once it's able to handle memories like context length, the same as transformer,
+[01:15:03.920 --> 01:15:04.920]   we know what we need to do.
+[01:15:04.920 --> 01:15:09.920]   You know how existing people do long composition in transformer, they just discard the rest
+[01:15:09.920 --> 01:15:10.920]   and the sliding window.
+[01:15:10.920 --> 01:15:13.920]   This is the better version of sliding window.
+[01:15:13.920 --> 01:15:16.920]   The model can handle the sliding window perfectly.
+[01:15:16.920 --> 01:15:18.920]   It can keep remnants behind it.
+[01:15:18.920 --> 01:15:19.920]   Sure.
+[01:15:19.920 --> 01:15:25.920]   And that's something that I'm really excited and invested towards because this is back
+[01:15:25.920 --> 01:15:28.920]   to the full circle of how I came into RPE.
+[01:15:28.920 --> 01:15:35.920]   I want my model to handle 100K tokens, 4 megabytes of HTML, whatever I throw at it,
+[01:15:35.920 --> 01:15:37.920]   and be able to process it.
+[01:15:37.920 --> 01:15:39.920]   But it will be lossy.
+[01:15:39.920 --> 01:15:44.920]   The later half will be lossy, but the key thing is extending the non-lossy part.
+[01:15:44.920 --> 01:15:47.920]   And we are aiming to extend the non-lossy part.
+[01:15:47.920 --> 01:15:49.920]   Okay.
+[01:15:49.920 --> 01:15:50.920]   Interesting.
+[01:15:50.920 --> 01:15:51.920]   Great.
+[01:15:51.920 --> 01:15:52.920]   That was really good.
+[01:15:52.920 --> 01:15:58.920]   Oh, one thing I wanted to cover before we leave the topic of RWKB altogether.
+[01:15:58.920 --> 01:16:00.920]   There's a couple things.
+[01:16:00.920 --> 01:16:02.920]   But first of all, what is it like working...
+[01:16:02.920 --> 01:16:06.920]   Basically, it's an all-volunteer discord anonymous community.
+[01:16:06.920 --> 01:16:10.920]   You've never met any of these other people.
+[01:16:10.920 --> 01:16:11.920]   Which is...
+[01:16:11.920 --> 01:16:14.920]   It's only been done one other time successfully, which is Eluther.
+[01:16:14.920 --> 01:16:17.920]   In a way, RWKB is kind of new Eluther.
+[01:16:17.920 --> 01:16:19.920]   Obviously, Eluther is still going.
+[01:16:19.920 --> 01:16:26.920]   But in as far as active research in something that's completely untested by complete nobodies,
+[01:16:26.920 --> 01:16:32.920]   what is it like to organize a group like this?
+[01:16:32.920 --> 01:16:36.920]   I've never been involved in something like this before.
+[01:16:36.920 --> 01:16:37.920]   It's so weird.
+[01:16:37.920 --> 01:16:42.920]   When we use the word "organize," it makes it sound like there's more organization than there actually is.
+[01:16:42.920 --> 01:16:49.920]   If I think about how I've typically done projects, I would try to assign roles or try to have regular meetings.
+[01:16:49.920 --> 01:16:51.920]   Everyone is volunteers.
+[01:16:51.920 --> 01:16:55.920]   Nobody has any means to order people around or anything like that.
+[01:16:55.920 --> 01:16:59.920]   But how do you collaborate if you don't know what each other are doing?
+[01:16:59.920 --> 01:17:02.920]   And you don't have people that are not coming to deadlines.
+[01:17:02.920 --> 01:17:04.920]   Do you have a Jira board?
+[01:17:04.920 --> 01:17:06.920]   Do you have...
+[01:17:06.920 --> 01:17:09.920]   So, going back to the discord.
+[01:17:09.920 --> 01:17:12.920]   So, Blink is a busy person.
+[01:17:12.920 --> 01:17:15.920]   You are definitely very involved in the discord community organizing.
+[01:17:15.920 --> 01:17:17.920]   How do you get stuff done?
+[01:17:17.920 --> 01:17:27.920]   I think Blink is also the one who has access to the main Eluther AI and stability GPU donation.
+[01:17:27.920 --> 01:17:33.920]   So, he's the one that is very focused on training the big foundation models.
+[01:17:33.920 --> 01:17:35.920]   And that's what he does.
+[01:17:35.920 --> 01:17:44.920]   Right now, in our current pipeline, he is focusing on the world model and subsequently some experimental models for RDPK5, which is the next generation.
+[01:17:44.920 --> 01:17:50.920]   And the world model is our next major foundation model when it's fully trained.
+[01:17:50.920 --> 01:17:53.920]   It will cover all the other languages.
+[01:17:53.920 --> 01:18:00.920]   And from there onwards, he just generally continuously keeps the discord updated on the progress of it.
+[01:18:00.920 --> 01:18:03.920]   How's it going? Where's it going?
+[01:18:03.920 --> 01:18:10.920]   He constantly highlights the projects that are being submitted and the internet is just now...
+[01:18:10.920 --> 01:18:12.920]   I've been tethering the whole time.
+[01:18:12.920 --> 01:18:14.920]   It's okay.
+[01:18:14.920 --> 01:18:18.920]   And then subsequently, he updates his ideas and his plans and so on.
+[01:18:18.920 --> 01:18:19.920]   There's even ideas, as you can see.
+[01:18:19.920 --> 01:18:21.920]   It's pretty cool.
+[01:18:21.920 --> 01:18:23.920]   It's like long term.
+[01:18:23.920 --> 01:18:25.920]   But these are like big ideas.
+[01:18:25.920 --> 01:18:31.920]   And sometimes, in a lot of times, he's very focused on the text models.
+[01:18:31.920 --> 01:18:34.920]   And also, some of these ideas need to be tested and validated.
+[01:18:34.920 --> 01:18:38.920]   So that's where things start branching off, per se.
+[01:18:38.920 --> 01:18:46.920]   So, for example, one area that I started being active in was that I was...
+[01:18:46.920 --> 01:18:54.920]   At first, when I came in, I was being more active in the packaging, the inference code, to make it more accessible.
+[01:18:54.920 --> 01:18:59.920]   So I think one of the things that I showed was the RDPKV Node.js module.
+[01:18:59.920 --> 01:19:01.920]   I can see it.
+[01:19:01.920 --> 01:19:07.920]   Yeah, Node.js package, where basically you can run RDPKV in Node.js, just to make it more accessible.
+[01:19:07.920 --> 01:19:10.920]   And then subsequently, I was supporting that.
+[01:19:10.920 --> 01:19:16.920]   And then as more people came on board, trying to run it in their respective languages, I subsequently...
+[01:19:16.920 --> 01:19:19.920]   It's okay. I'm just going to keep going.
+[01:19:19.920 --> 01:19:27.920]   I subsequently moved on to focusing more towards datasets and RDPKV 5.
+[01:19:27.920 --> 01:19:30.920]   But this is the area that I'm focusing on and most active.
+[01:19:30.920 --> 01:19:32.920]   And this is how we start organizing it.
+[01:19:32.920 --> 01:19:37.920]   Individuals generally have their own area of focus of what they want.
+[01:19:37.920 --> 01:19:42.920]   And it's very focus-driven, in a lot of cases, aligned to them.
+[01:19:42.920 --> 01:19:50.920]   So, for example, the people who are working on inference, the CPP model, the ONIX model, the CPP versions,
+[01:19:50.920 --> 01:19:54.920]   where it takes the existing model and converts it accordingly,
+[01:19:54.920 --> 01:19:59.920]   are highly motivated to do this because they want to do the inference in their use cases,
+[01:19:59.920 --> 01:20:01.920]   in their Raspberry Pis, etc.
+[01:20:01.920 --> 01:20:06.920]   People like me, who's in RDPKV 5, we are actually more of like...
+[01:20:06.920 --> 01:20:10.920]   We know there are some weaknesses in the model, and we are trying to make those changes to improve.
+[01:20:10.920 --> 01:20:14.920]   So we are actively changing the foundation code.
+[01:20:14.920 --> 01:20:16.920]   Then from there on, there are channels.
+[01:20:16.920 --> 01:20:18.920]   So these are RDPKV 5 channels.
+[01:20:18.920 --> 01:20:22.920]   I mentioned the inference channels, the CPP channels.
+[01:20:22.920 --> 01:20:26.920]   And then subsequently, there is also the multi-model channels.
+[01:20:26.920 --> 01:20:30.920]   And this is an area where I am not fully active in.
+[01:20:30.920 --> 01:20:35.920]   But there are individuals who are very interested in getting visual recognition,
+[01:20:35.920 --> 01:20:39.920]   MiniGBT4, audio.
+[01:20:39.920 --> 01:20:43.920]   Apparently, the music thing is catching up within the community right now.
+[01:20:43.920 --> 01:20:46.920]   People are getting excited about it.
+[01:20:46.920 --> 01:20:52.920]   But this is where various other individuals come in to just contribute to that site.
+[01:20:52.920 --> 01:20:56.920]   And this is still within the sphere of code and engineering.
+[01:20:56.920 --> 01:21:00.920]   And if I go subsequently back down another step,
+[01:21:00.920 --> 01:21:03.920]   there is also the multi-language channel and the dataset channel.
+[01:21:03.920 --> 01:21:06.920]   And this is where you find individuals who are just...
+[01:21:06.920 --> 01:21:10.920]   I would say they are playing the role of librarians,
+[01:21:10.920 --> 01:21:13.920]   who are just trying to find the right datasets,
+[01:21:13.920 --> 01:21:16.920]   label it, collate it, clean it up,
+[01:21:16.920 --> 01:21:18.920]   and then put it in part of the training.
+[01:21:18.920 --> 01:21:24.920]   And their typical focus is that they want to support their language better.
+[01:21:24.920 --> 01:21:28.920]   Or they have their... I guess you alluded to their waifu use case.
+[01:21:28.920 --> 01:21:30.920]   They want to make it look better.
+[01:21:30.920 --> 01:21:33.920]   And this is how the community-driven effort is done.
+[01:21:33.920 --> 01:21:36.920]   Because everyone actually has a certain incentive and alignment.
+[01:21:36.920 --> 01:21:39.920]   And they just double down on it, effectively.
+[01:21:39.920 --> 01:21:42.920]   And they start to take a heavy active role in the channel.
+[01:21:42.920 --> 01:21:45.920]   Frankly, I'm not going to say that I'm active in multimodal,
+[01:21:45.920 --> 01:21:48.920]   because that's an area where I'm not really active in.
+[01:21:48.920 --> 01:21:50.920]   And so on.
+[01:21:50.920 --> 01:21:54.920]   And that's how we try to self-organise.
+[01:21:54.920 --> 01:21:56.920]   And we share our notes accordingly.
+[01:21:56.920 --> 01:22:00.920]   We sometimes just casually hang out on the Discord voice chat or whatever,
+[01:22:00.920 --> 01:22:01.920]   and then we just talk casually.
+[01:22:01.920 --> 01:22:04.920]   But that's more of the more casual stuff.
+[01:22:04.920 --> 01:22:08.920]   But how things get done is down to the individual groups.
+[01:22:08.920 --> 01:22:11.920]   Has Beau stated his ultimate end goal?
+[01:22:11.920 --> 01:22:14.920]   Apart from "this is cool"?
+[01:22:14.920 --> 01:22:20.920]   I think I had several Discord conversations with him.
+[01:22:20.920 --> 01:22:23.920]   I believe that what he...
+[01:22:23.920 --> 01:22:26.920]   Because I did ask him, frankly, if he plans to make a commercial entity out of it.
+[01:22:26.920 --> 01:22:29.920]   Actually, tons of people have asked this.
+[01:22:29.920 --> 01:22:31.920]   Because that seems to be the pattern.
+[01:22:31.920 --> 01:22:35.920]   And he seems to be heavily inspired and wants to go towards the direction of
+[01:22:35.920 --> 01:22:39.920]   creating the equivalent of a Linux foundation for AI models.
+[01:22:39.920 --> 01:22:42.920]   So he really wants this to be open source.
+[01:22:42.920 --> 01:22:47.920]   And that's actually part of what motivates me to just continue on in this Discord as well.
+[01:22:47.920 --> 01:22:49.920]   Yeah, yeah, yeah.
+[01:22:49.920 --> 01:22:51.920]   Do you think that...
+[01:22:51.920 --> 01:22:52.920]   Is that a serious effort?
+[01:22:52.920 --> 01:22:58.920]   Because I might be also looking to explore...
+[01:22:58.920 --> 01:23:01.920]   I know some friends who are also working on an agent protocol
+[01:23:01.920 --> 01:23:07.920]   that could benefit from a neutral, non-profit foundation type thing.
+[01:23:07.920 --> 01:23:10.920]   So we might want to work together and set it up.
+[01:23:10.920 --> 01:23:11.920]   Yeah, sure.
+[01:23:11.920 --> 01:23:17.920]   Because I did post to him a few times that we should at some point
+[01:23:17.920 --> 01:23:22.920]   organise and set up the actual foundation, rather than the informal...
+[01:23:22.920 --> 01:23:25.920]   I think I know the people who would be able to help.
+[01:23:25.920 --> 01:23:27.920]   Yeah, that would be great because...
+[01:23:27.920 --> 01:23:33.920]   I mean, I think for us, setting up the foundation will probably be one big major step
+[01:23:33.920 --> 01:23:40.920]   because then it will also simplify the process in terms of being able to handle GPU donations and stuff like that.
+[01:23:40.920 --> 01:23:41.920]   Yes.
+[01:23:41.920 --> 01:23:43.920]   Oh, that's a good point.
+[01:23:43.920 --> 01:23:47.920]   Because right now, a lot of the donations...
+[01:23:47.920 --> 01:23:50.920]   So I saw that there is an RWKB foundation.
+[01:23:50.920 --> 01:23:52.920]   No, it doesn't fully exist yet.
+[01:23:52.920 --> 01:23:55.920]   Oh, okay. Because he listed himself in the paper as...
+[01:23:55.920 --> 01:23:59.920]   This is back to the paper. The paper requires you to list an organisation that you belong to
+[01:23:59.920 --> 01:24:03.920]   and if you don't have an organisation, what do you put?
+[01:24:03.920 --> 01:24:05.920]   Okay, interesting.
+[01:24:05.920 --> 01:24:07.920]   So we... it's like...
+[01:24:07.920 --> 01:24:11.920]   Okay, at some point we will need to set that up, so he just went ahead and filled it out.
+[01:24:11.920 --> 01:24:12.920]   Yeah.
+[01:24:12.920 --> 01:24:17.920]   Cool. I think that's the RWKB portion, unless there's any other parting notes.
+[01:24:17.920 --> 01:24:24.920]   Yeah. The Discord is filled with people always trying to do many things.
+[01:24:24.920 --> 01:24:28.920]   If anyone has any interest in a really specific task, go ahead, join in.
+[01:24:28.920 --> 01:24:34.920]   If you are from a foreign country that it seems like no model seems to care about your language,
+[01:24:34.920 --> 01:24:38.920]   please do join in because we want these people, we want to support your language
+[01:24:38.920 --> 01:24:42.920]   and we want to know how good or how bad our model is in that language.
+[01:24:42.920 --> 01:24:47.920]   So what I would do here as a product manager is put up a public repo somewhere of like,
+[01:24:47.920 --> 01:24:50.920]   here's all the language you want to target, here's our completion ratio,
+[01:24:50.920 --> 01:24:53.920]   check, check, check, check, blank, blank, blank.
+[01:24:53.920 --> 01:24:55.920]   We need someone to do that.
+[01:24:55.920 --> 01:24:58.920]   This would be a classic PM type of thing.
+[01:24:58.920 --> 01:25:03.920]   But anyway, so anyone listening, if you are interested, Eugene is Pico creator.
+[01:25:03.920 --> 01:25:05.920]   Yep.
+[01:25:05.920 --> 01:25:08.920]   You seem to be all over the Discord, so it should be pretty easy to find you.
+[01:25:08.920 --> 01:25:10.920]   Yeah.
+[01:25:10.920 --> 01:25:15.920]   Okay, and so that's basically the RWKB portion.
+[01:25:15.920 --> 01:25:19.920]   You had one more comment about alternative models and you mentioned that you actually,
+[01:25:19.920 --> 01:25:24.920]   apart from RWKB, which is one thing, it's not like your whole identity.
+[01:25:24.920 --> 01:25:26.920]   You're very involved right now.
+[01:25:26.920 --> 01:25:30.920]   You said that there's also potentials for diffusion models in text.
+[01:25:30.920 --> 01:25:38.920]   Yeah, so I think for me the key principle is that we want to make sure we avoid the trap
+[01:25:38.920 --> 01:25:44.920]   into landing on that one model to rule them all because all models will,
+[01:25:44.920 --> 01:25:47.920]   from an architecture point of view, may do some trade-off.
+[01:25:47.920 --> 01:25:52.920]   And let's say we go back to the point where maybe all we need is a scalable model
+[01:25:52.920 --> 01:25:54.920]   and a good data set.
+[01:25:54.920 --> 01:25:57.920]   It's in the community's best interest or more like the whole world's best interest
+[01:25:57.920 --> 01:26:02.920]   because we are putting a lot of GPU energy and time to find an efficient model
+[01:26:02.920 --> 01:26:04.920]   for all the respective use case.
+[01:26:04.920 --> 01:26:05.920]   Okay.
+[01:26:05.920 --> 01:26:09.920]   And all these are all trade-offs.
+[01:26:09.920 --> 01:26:13.920]   So even if let's say, fast forward, maybe RWKB became the prominent model,
+[01:26:13.920 --> 01:26:17.920]   I would still say that we need to explore alternative models because all models
+[01:26:17.920 --> 01:26:18.920]   will have its weaknesses.
+[01:26:18.920 --> 01:26:22.920]   So one of RWKB's and transformers' models weakness is that,
+[01:26:22.920 --> 01:26:26.920]   and I think there was a paper that covered it, is the multi-epoch.
+[01:26:26.920 --> 01:26:33.920]   How training, you should ideally train for one to two epoch.
+[01:26:33.920 --> 01:26:36.920]   Yeah, and that's Aaron Kutumarski or whatever his name is.
+[01:26:36.920 --> 01:26:38.920]   Yeah, I can't remember off my head, sorry.
+[01:26:38.920 --> 01:26:42.920]   Yeah, his paper is literally titled "One Epoch is All You Need."
+[01:26:42.920 --> 01:26:43.920]   Correct.
+[01:26:43.920 --> 01:26:46.920]   I actually have observed that this is strange to me,
+[01:26:46.920 --> 01:26:49.920]   that you only train one epoch for a whole dataset.
+[01:26:49.920 --> 01:26:54.920]   Yeah, and anything beyond that, and we can confirm even for our model,
+[01:26:54.920 --> 01:26:58.920]   ours is more like closer to two, but the idea is still there,
+[01:26:58.920 --> 01:27:02.920]   that it will start to overfit and it starts to degrade in a lot of things.
+[01:27:02.920 --> 01:27:07.920]   And I think this is a serious enough problem that within the transformer community
+[01:27:07.920 --> 01:27:11.920]   that we sometimes joke about the token crisis.
+[01:27:11.920 --> 01:27:12.920]   Yes.
+[01:27:12.920 --> 01:27:14.920]   That eventually you run out of tokens to train.
+[01:27:14.920 --> 01:27:16.920]   Do you think there's a token crisis?
+[01:27:16.920 --> 01:27:20.920]   I would say if we are aiming for AGI, there is a token crisis.
+[01:27:20.920 --> 01:27:26.920]   But if we are aiming for useful small models, I don't think there is a token crisis.
+[01:27:26.920 --> 01:27:28.920]   Right.
+[01:27:28.920 --> 01:27:34.920]   Let's talk about AGI, because the small model stuff is, I think, a given at this point.
+[01:27:34.920 --> 01:27:40.920]   But right now, let's say, you know, Lama 2 was trained on 2 trillion tokens.
+[01:27:40.920 --> 01:27:44.920]   Can we go to 20 trillion? Can we go to 200 trillion?
+[01:27:44.920 --> 01:27:47.920]   Is there orders of magnitude left or are we basically almost done?
+[01:27:47.920 --> 01:27:52.920]   I think that one thing amazing about the Lama paper is that it showed that
+[01:27:52.920 --> 01:27:55.920]   even at 2 trillion, it's not going to be enough.
+[01:27:55.920 --> 01:27:58.920]   So you could potentially train it for 16 or whatever it is.
+[01:27:58.920 --> 01:27:59.920]   We don't know what's the name.
+[01:27:59.920 --> 01:28:01.920]   But the problem here is, where are we going to get the tokens?
+[01:28:01.920 --> 01:28:06.920]   Because we already established that it's equally important that you have good data.
+[01:28:06.920 --> 01:28:07.920]   Quality tokens.
+[01:28:07.920 --> 01:28:10.920]   Yeah, that goes in rather than junk data.
+[01:28:10.920 --> 01:28:14.920]   And that's the crisis, for lack of a better word.
+[01:28:14.920 --> 01:28:19.920]   And I feel that it might actually get worse, mostly because, well, yeah,
+[01:28:19.920 --> 01:28:24.920]   we can keep crawling the internet, but now with AI models dumping content to the internet,
+[01:28:24.920 --> 01:28:28.920]   you actually need to figure out what is quality content and you need to start filtering.
+[01:28:28.920 --> 01:28:31.920]   So this is literally like a librarian's job.
+[01:28:31.920 --> 01:28:37.920]   Plus, one of the things that we explore within our company is starting to classify our models,
+[01:28:37.920 --> 01:28:42.920]   I mean our data sets, literally taking the library classification.
+[01:28:42.920 --> 01:28:44.920]   Yeah, the Dewey Decimal System.
+[01:28:44.920 --> 01:28:46.920]   Yeah, and then using that accordingly.
+[01:28:46.920 --> 01:28:48.920]   Because there's just so much things.
+[01:28:48.920 --> 01:28:54.920]   And as long as we, currently one of the biggest gap that we've noticed is that
+[01:28:54.920 --> 01:29:01.920]   while there are a lot of books, a lot of them are stored digitally as images.
+[01:29:01.920 --> 01:29:04.920]   So in terms of text, there's actually a shortage.
+[01:29:04.920 --> 01:29:06.920]   Okay, run an OCR step.
+[01:29:06.920 --> 01:29:09.920]   Easier said than done.
+[01:29:09.920 --> 01:29:13.920]   And that's where the token crisis is.
+[01:29:13.920 --> 01:29:17.920]   But, I mean, this is back to why I'm interested in Alternate,
+[01:29:17.920 --> 01:29:21.920]   because the reason why I pointed out the Fusion model is that
+[01:29:21.920 --> 01:29:26.920]   Transformer and large-angle models right now have that 1-2 epoch limitation.
+[01:29:26.920 --> 01:29:30.920]   And you go talk to people in the image space, and they're like, "What?"
+[01:29:30.920 --> 01:29:32.920]   50 epochs.
+[01:29:32.920 --> 01:29:37.920]   50 epochs is low. We do 200, 250.
+[01:29:37.920 --> 01:29:42.920]   And there's various reasons for it. I mean, this is pure speculative.
+[01:29:42.920 --> 01:29:45.920]   My speculative reason for it is that
+[01:29:45.920 --> 01:29:49.920]   the Fusion models work so well in multiple epochs because
+[01:29:49.920 --> 01:29:53.920]   each training epoch is randomized with noise.
+[01:29:53.920 --> 01:29:57.920]   And effectively, each training run, even if it's the same data sample,
+[01:29:57.920 --> 01:30:02.920]   it is different due to the noise introduced or whatever is truncated and removed.
+[01:30:02.920 --> 01:30:05.920]   And that's why it held up well.
+[01:30:05.920 --> 01:30:09.920]   And if that is the case,
+[01:30:09.920 --> 01:30:13.920]   shouldn't we be exploring more as well into the Fusion models,
+[01:30:13.920 --> 01:30:17.920]   even for text, into emulating parts of this behavior?
+[01:30:17.920 --> 01:30:20.920]   Or exploring?
+[01:30:20.920 --> 01:30:24.920]   One of the reasons why the Fusion models are not being used for text is because it's slow.
+[01:30:24.920 --> 01:30:28.920]   Shouldn't we, Alternative, could we be exploring how to make it faster?
+[01:30:28.920 --> 01:30:32.920]   And this is why I feel like, even from,
+[01:30:32.920 --> 01:30:37.920]   even if we talk about RLKV having the trade-off, yes, it's faster, it's scalable, and whatsoever,
+[01:30:37.920 --> 01:30:41.920]   there is other trade-offs that is still limited. It still suffers from the multiple epoch problem.
+[01:30:41.920 --> 01:30:46.920]   And the Fusion models may actually represent a potential
+[01:30:46.920 --> 01:30:52.920]   for us to escape this token crisis and maybe train on our dataset 200, 500 times.
+[01:30:52.920 --> 01:30:56.920]   That's interesting. I don't know how to respond to that apart from,
+[01:30:56.920 --> 01:30:59.920]   I think it's a new perspective I haven't heard.
+[01:30:59.920 --> 01:31:04.920]   To be clear, this is all NetStreamMath theory and I could be completely wrong.
+[01:31:04.920 --> 01:31:08.920]   To me, the speed thing really does matter.
+[01:31:08.920 --> 01:31:13.920]   And being able to stream token by token actually is known to be good UX.
+[01:31:13.920 --> 01:31:19.920]   And I'm not going to wait for my essay to slowly materialize from the Fusion process.
+[01:31:19.920 --> 01:31:23.920]   Maybe you'll find some use cases there.
+[01:31:23.920 --> 01:31:29.920]   Or maybe we can just extract the part where it's trained with noise and somehow survive Mouth-in-Dog.
+[01:31:29.920 --> 01:31:34.920]   And then the other criticism off the top of my head of what you're saying is that
+[01:31:34.920 --> 01:31:40.920]   even RLKV and typical transformer models would have random initializations.
+[01:31:40.920 --> 01:31:49.920]   If your thesis is that starting from random initializations gives you the ability to do multi-epoch.
+[01:31:49.920 --> 01:31:52.920]   Fusion is not just random.
+[01:31:52.920 --> 01:32:00.920]   There is randomness in the data that they intentionally put in and as they remove in training.
+[01:32:00.920 --> 01:32:04.920]   So it's not just at the start.
+[01:32:04.920 --> 01:32:07.920]   As part of the training process, they actually digitize the image.
+[01:32:07.920 --> 01:32:10.920]   Right, right. That makes sense.
+[01:32:10.920 --> 01:32:17.920]   How we translate that into a transformer prediction training, I have no idea.
+[01:32:17.920 --> 01:32:25.920]   So my analogy would be to make a Frankenstein RLKVD that just has some weird thing,
+[01:32:25.920 --> 01:32:28.920]   diffusion kind of slapped onto it and then you're fine.
+[01:32:28.920 --> 01:32:31.920]   And then maybe it proves that it's yes or maybe it just goes wrong.
+[01:32:31.920 --> 01:32:34.920]   And I'm all for it. Someone needs to try it.
+[01:32:34.920 --> 01:32:38.920]   Okay, cool. So we're going to wrap up with just your...
+[01:32:38.920 --> 01:32:44.920]   So you have displayed today an impressive amount of knowledge just across all this stuff.
+[01:32:44.920 --> 01:32:48.920]   And you don't have a research background.
+[01:32:48.920 --> 01:32:54.920]   Your advice to AI engineers getting as deep as you, who want to get as deep as you.
+[01:32:54.920 --> 01:32:56.920]   Any thoughts?
+[01:32:56.920 --> 01:33:02.920]   So I think your article articulated very well that there's going to be divisions within how we approach this.
+[01:33:02.920 --> 01:33:06.920]   So AI engineers...
+[01:33:06.920 --> 01:33:09.920]   Sorry if I don't quote it correctly.
+[01:33:09.920 --> 01:33:11.920]   AI engineers, then in my head, the next level...
+[01:33:11.920 --> 01:33:16.920]   The beauty of it is that I define the two words and then everyone has their own definition,
+[01:33:16.920 --> 01:33:21.920]   but they all roughly project onto the same embedding space.
+[01:33:21.920 --> 01:33:23.920]   It's beautiful.
+[01:33:23.920 --> 01:33:30.920]   So AI engineers, model trainers and dataset curators and ML scientists.
+[01:33:30.920 --> 01:33:35.920]   So I'll loosely define the three. I ignore the full stack because every company needs it.
+[01:33:35.920 --> 01:33:45.920]   So within this three space, there is actually a lot of ways anyone can come in without knowing anything.
+[01:33:45.920 --> 01:33:48.920]   So let's just start with AI engineers.
+[01:33:48.920 --> 01:33:53.920]   Don't be like, even though this whole topic, we even dive into how the layers work.
+[01:33:53.920 --> 01:33:58.920]   We also show how the math works. Frankly, for an AI engineer, you don't need it.
+[01:33:58.920 --> 01:34:06.920]   Your main thing that you needed to do was to, frankly, just play around with chat GPT.
+[01:34:06.920 --> 01:34:10.920]   All the alternatives, be aware of the alternatives.
+[01:34:10.920 --> 01:34:12.920]   Just be very mercenary.
+[01:34:12.920 --> 01:34:17.920]   Swap out to Cloudera if it's better for you or swap out to an open source if it's better for you
+[01:34:17.920 --> 01:34:19.920]   and just play around with prompts.
+[01:34:19.920 --> 01:34:23.920]   Learn prompting techniques like one shot, two shots, few shots.
+[01:34:23.920 --> 01:34:31.920]   And then from there on, you can start building your agents, stacking your prompts and in sequences and stuff like that.
+[01:34:31.920 --> 01:34:36.920]   And you are able to build applications that do anything in terms of the AI space.
+[01:34:36.920 --> 01:34:43.920]   And all this without knowing all this nerdy stuff or the hard engineering.
+[01:34:43.920 --> 01:34:47.920]   Because that's all you really need to actually build a product for the user.
+[01:34:47.920 --> 01:34:50.920]   Remember, you are supposed to focus on making it for the user.
+[01:34:50.920 --> 01:34:54.920]   They don't care if it's RWKB or transformer underneath the hood.
+[01:34:54.920 --> 01:34:56.920]   They just care that it helps them.
+[01:34:56.920 --> 01:35:02.920]   And I would say that Notion is probably one good example of how they use it.
+[01:35:02.920 --> 01:35:07.920]   Because we know underneath the hood is OpenAI, but you really use it for the user.
+[01:35:07.920 --> 01:35:10.920]   I obviously agree with all that.
+[01:35:10.920 --> 01:35:14.920]   Let's just say that people are there already and they are just curious.
+[01:35:14.920 --> 01:35:16.920]   They want to do what you did.
+[01:35:16.920 --> 01:35:19.920]   So that's where you start going down the layers.
+[01:35:19.920 --> 01:35:29.920]   So the next layer you go down in is subsequently training the model from scratch, fine-tuning and incorporating the dataset.
+[01:35:29.920 --> 01:35:40.920]   And this is where you still do not need to know the math, but you need to have a rough sensing on how the model works.
+[01:35:40.920 --> 01:35:44.920]   And how certain models, and this is even within the open source transformer space,
+[01:35:44.920 --> 01:35:49.920]   certain models are better trained in certain sequences with certain learning rates.
+[01:35:49.920 --> 01:35:51.920]   And you just need to get a feel of it.
+[01:35:51.920 --> 01:35:54.920]   So this is just like, collect the dataset, try it, see the loss.
+[01:35:54.920 --> 01:35:56.920]   You literally did this?
+[01:35:56.920 --> 01:35:58.920]   Yeah, at least for RWKB and the CodeGen model.
+[01:35:58.920 --> 01:35:59.920]   That's a lot of work.
+[01:35:59.920 --> 01:36:02.920]   Yeah, it's not a cheap work tool because you need GPU.
+[01:36:02.920 --> 01:36:05.920]   Okay, and that took you how long?
+[01:36:05.920 --> 01:36:13.920]   I think CodeGen alone was like six months, and then this RWKB, I've been doing this for another six months.
+[01:36:13.920 --> 01:36:18.920]   And that is just pure experimentation.
+[01:36:18.920 --> 01:36:22.920]   There's no right or wrong, especially if it's in a different domain.
+[01:36:22.920 --> 01:36:28.920]   Recently I was helping someone on the RWKB discord regarding the music generation domain,
+[01:36:28.920 --> 01:36:32.920]   and my assumptions for learning rate and all the patterns were just completely thrown out the window
+[01:36:32.920 --> 01:36:37.920]   because the music model just fundamentally is different in those senses.
+[01:36:37.920 --> 01:36:43.920]   So the exciting thing is because it doesn't really have any specific rules and guidelines
+[01:36:43.920 --> 01:36:47.920]   until you trial and error to a certain space,
+[01:36:47.920 --> 01:36:54.920]   it also means that you coming in is as fresh as anyone else coming in last year.
+[01:36:54.920 --> 01:36:58.920]   It's really that kind of uncharted space for everyone.
+[01:36:58.920 --> 01:37:02.920]   And especially as you start exploring to new domains,
+[01:37:02.920 --> 01:37:07.920]   your existing knowledge may actually matter.
+[01:37:07.920 --> 01:37:10.920]   I think a few papers already covered this,
+[01:37:10.920 --> 01:37:14.920]   that how you train your model in certain sequences also matters.
+[01:37:14.920 --> 01:37:19.920]   You want to train a certain set of knowledge, and then you extend that knowledge subsequently.
+[01:37:19.920 --> 01:37:22.920]   But if you're talking about material science or genetics,
+[01:37:22.920 --> 01:37:25.920]   how am I supposed to know what is foundational knowledge and what is extended knowledge?
+[01:37:25.920 --> 01:37:28.920]   I have no idea. Maybe you do.
+[01:37:28.920 --> 01:37:31.920]   I'm just picking an example.
+[01:37:31.920 --> 01:37:33.920]   And the same thing for music and so on.
+[01:37:33.920 --> 01:37:36.920]   So those are things where even though you're outside the space,
+[01:37:36.920 --> 01:37:39.920]   it's where you can come in just at the dataset level.
+[01:37:39.920 --> 01:37:42.920]   Now you want to peel off to the next layer, let's just say.
+[01:37:42.920 --> 01:37:51.920]   Let's just say you want to look into modifying the model, the foundations of it.
+[01:37:51.920 --> 01:37:54.920]   I think one of the beauties about this current boom is that
+[01:37:54.920 --> 01:37:58.920]   even though I did my codes early,
+[01:37:58.920 --> 01:38:02.920]   before the transformer wave and in the early neural network phase,
+[01:38:02.920 --> 01:38:09.920]   frankly, almost everything that matters was basically in the past four years.
+[01:38:09.920 --> 01:38:13.920]   There were a lot of things that, in academics,
+[01:38:13.920 --> 01:38:19.920]   that were before that, and they were mostly dealing with models that were under a billion parameters.
+[01:38:19.920 --> 01:38:22.920]   They pretty much no longer matter.
+[01:38:22.920 --> 01:38:24.920]   Can you be more specific?
+[01:38:24.920 --> 01:38:28.920]   Are you talking about concepts like dropouts?
+[01:38:28.920 --> 01:38:31.920]   Dropout is surprising me, it's coming back.
+[01:38:31.920 --> 01:38:34.920]   Things like, for example, I know I'm shooting myself in the foot because
+[01:38:34.920 --> 01:38:36.920]   I'm not that curious in neural networks,
+[01:38:36.920 --> 01:38:38.920]   but if you're just trying to get transformers to work,
+[01:38:38.920 --> 01:38:41.920]   you don't need to know LSTM.
+[01:38:41.920 --> 01:38:43.920]   Yes.
+[01:38:43.920 --> 01:38:51.920]   There's a lot of pre-knowledge in neural networks that is irrelevant in the transformer era.
+[01:38:51.920 --> 01:38:55.920]   Maybe some of it will have a resurgence,
+[01:38:55.920 --> 01:39:01.920]   but to get up and running is not a requirement.
+[01:39:01.920 --> 01:39:06.920]   I think this is where you could either go the very academic way of reading papers and stuff,
+[01:39:06.920 --> 01:39:09.920]   but frankly, what I found was way more useful was,
+[01:39:09.920 --> 01:39:12.920]   I can't pronounce the name again,
+[01:39:12.920 --> 01:39:14.920]   the...
+[01:39:14.920 --> 01:39:15.920]   Karpathy.
+[01:39:15.920 --> 01:39:16.920]   Yes, Karpathy.
+[01:39:16.920 --> 01:39:17.920]   His series of videos.
+[01:39:17.920 --> 01:39:18.920]   Series of Heroes.
+[01:39:18.920 --> 01:39:22.920]   That is really, really good.
+[01:39:22.920 --> 01:39:29.920]   I think even though I read some of the papers and guides before that,
+[01:39:29.920 --> 01:39:32.920]   it really helps that it starts from zero,
+[01:39:32.920 --> 01:39:36.920]   because you can see how it happens part by part.
+[01:39:36.920 --> 01:39:40.920]   And even though we will not use the exact same code that he used,
+[01:39:40.920 --> 01:39:43.920]   because he re-implemented the backprop and all that,
+[01:39:43.920 --> 01:39:48.920]   we're just going to use PyTorch for that.
+[01:39:48.920 --> 01:39:52.920]   That's where you get the "aha" moments on how these building blocks work
+[01:39:52.920 --> 01:39:56.920]   and how it fall into place.
+[01:39:56.920 --> 01:40:00.920]   I had fundamental misunderstanding on how backprop worked until I actually watched his video.
+[01:40:00.920 --> 01:40:01.920]   Oh, really?
+[01:40:01.920 --> 01:40:04.920]   Yes.
+[01:40:04.920 --> 01:40:07.920]   I think that's the scariest and craziest thing about AI models sometimes,
+[01:40:07.920 --> 01:40:10.920]   is that you can actually have fundamental misunderstanding,
+[01:40:10.920 --> 01:40:13.920]   but as long as you make the building blocks and you connect,
+[01:40:13.920 --> 01:40:17.920]   okay, loss is great. It works.
+[01:40:17.920 --> 01:40:18.920]   Yes.
+[01:40:18.920 --> 01:40:21.920]   Even the gods of the industry,
+[01:40:21.920 --> 01:40:24.920]   I don't know if you read the Swiglu paper.
+[01:40:24.920 --> 01:40:27.920]   There's all these alternative activation functions,
+[01:40:27.920 --> 01:40:29.920]   like this ReLU,
+[01:40:29.920 --> 01:40:33.920]   and then people are always looking for different slopes.
+[01:40:33.920 --> 01:40:38.920]   And very famously, the Swiglu paper had this line in there that was like,
+[01:40:38.920 --> 01:40:41.920]   "We don't know why this works, but it works."
+[01:40:41.920 --> 01:40:42.920]   Can't explain it.
+[01:40:42.920 --> 01:40:46.920]   It literally happens here and there in all these cars too.
+[01:40:46.920 --> 01:40:51.920]   One of the funny things that I'm doing right now in RWEK V5 experiments is that,
+[01:40:51.920 --> 01:40:53.920]   okay, we are going to do this change,
+[01:40:53.920 --> 01:40:55.920]   we're going to run this train,
+[01:40:55.920 --> 01:40:57.920]   make your prediction.
+[01:40:57.920 --> 01:41:00.920]   Will this model beat this model in this loss curve?
+[01:41:00.920 --> 01:41:02.920]   Is it a game? Is it a betting?
+[01:41:02.920 --> 01:41:05.920]   It's a very informal...
+[01:41:05.920 --> 01:41:08.920]   It's literally a body kind of bet.
+[01:41:08.920 --> 01:41:13.920]   But the fact that we can do this kind of bets,
+[01:41:13.920 --> 01:41:16.920]   even though we understand the code,
+[01:41:16.920 --> 01:41:18.920]   it just goes to show how often,
+[01:41:18.920 --> 01:41:21.920]   "Oh, wait, this didn't go to what we predicted."
+[01:41:21.920 --> 01:41:22.920]   No one...
+[01:41:22.920 --> 01:41:28.920]   And that's why, even if, let's say, you don't have a PhD or so on and so forth,
+[01:41:28.920 --> 01:41:32.920]   even if math is not your specialization, you're coming in as a developer.
+[01:41:32.920 --> 01:41:36.920]   I'm going to say frankly, I didn't come from the research right now,
+[01:41:36.920 --> 01:41:41.920]   the extremely math-heavy stuff is what I struggle with.
+[01:41:41.920 --> 01:41:47.920]   What I do sometimes is I copy and paste the math into GPT-4 and ask it to explain to me.
+[01:41:47.920 --> 01:41:48.920]   Which is good.
+[01:41:48.920 --> 01:41:49.920]   In plain old language.
+[01:41:49.920 --> 01:41:50.920]   It's very good at that.
+[01:41:50.920 --> 01:41:51.920]   Yeah.
+[01:41:51.920 --> 01:41:56.920]   And so, but the thing is, there is lots of value beyond that.
+[01:41:56.920 --> 01:42:00.920]   One thing that I realized, and this is not specific to RWEK V,
+[01:42:00.920 --> 01:42:04.920]   this also happens across a lot of open source models,
+[01:42:04.920 --> 01:42:09.920]   is that a lot of ML scientists, when they really build this stuff,
+[01:42:09.920 --> 01:42:12.920]   the focus was more of like, "Oh, let's get it to work."
+[01:42:12.920 --> 01:42:15.920]   It was never about getting it to work efficiently,
+[01:42:15.920 --> 01:42:18.920]   or getting the code documented or organized.
+[01:42:18.920 --> 01:42:21.920]   And stable diffusion literally went through this whole journey.
+[01:42:21.920 --> 01:42:25.920]   They had the code and the model that worked,
+[01:42:25.920 --> 01:42:27.920]   and the community just started,
+[01:42:27.920 --> 01:42:32.920]   and engineers that came in with zero machine learning background
+[01:42:32.920 --> 01:42:33.920]   started picking it apart.
+[01:42:33.920 --> 01:42:37.920]   It's like, "No, you should replace this with this that does the exact same thing,
+[01:42:37.920 --> 01:42:39.920]   but is more efficient."
+[01:42:39.920 --> 01:42:44.920]   One of the major breakthroughs, for example, for GML,
+[01:42:44.920 --> 01:42:49.920]   and this happened sometime back for the Lama models,
+[01:42:49.920 --> 01:42:55.920]   was that someone external from the AI committee went in and implemented memory mapping.
+[01:42:55.920 --> 01:42:58.920]   Yes, I saw that. I forget her name, but yeah.
+[01:42:58.920 --> 01:43:02.920]   Justine Dutlall is her URL.
+[01:43:02.920 --> 01:43:05.920]   She didn't come in as an AI expert.
+[01:43:05.920 --> 01:43:08.920]   She came in as a software engineer.
+[01:43:08.920 --> 01:43:10.920]   These are all just very, very straightforward.
+[01:43:10.920 --> 01:43:14.920]   In her world, this is normal, whereas for the researchers,
+[01:43:14.920 --> 01:43:16.920]   they will be like, "I don't know what that is."
+[01:43:16.920 --> 01:43:17.920]   Wait, what is memory mapping?
+[01:43:17.920 --> 01:43:18.920]   Yeah, exactly.
+[01:43:18.920 --> 01:43:20.920]   And there are a lot of things.
+[01:43:20.920 --> 01:43:23.920]   One of the jokes that I have right now is that
+[01:43:23.920 --> 01:43:26.920]   every month there is a research ML scientist
+[01:43:26.920 --> 01:43:29.920]   that is rediscovering the number 32.
+[01:43:29.920 --> 01:43:30.920]   Why?
+[01:43:30.920 --> 01:43:34.920]   Because, be it someone in the committee writing the inference code,
+[01:43:34.920 --> 01:43:40.920]   because GPUs, especially Nvidia GPUs,
+[01:43:40.920 --> 01:43:45.920]   tend to work really well when they align to the batch size of multiples of 32.
+[01:43:45.920 --> 01:43:48.920]   And if you've been in the gaming industry,
+[01:43:48.920 --> 01:43:50.920]   especially when you write shader code,
+[01:43:50.920 --> 01:43:54.920]   this is well-known, just given knowledge.
+[01:43:54.920 --> 01:43:58.920]   And people are just constantly rediscovering,
+[01:43:58.920 --> 01:44:01.920]   "Oh, maybe if I just adjust my data set or my data size
+[01:44:01.920 --> 01:44:06.920]   to fit this batch size, suddenly I get 10% improvement."
+[01:44:06.920 --> 01:44:12.920]   And these are things that, once again,
+[01:44:12.920 --> 01:44:14.920]   because they were so focused on just making it work,
+[01:44:14.920 --> 01:44:17.920]   that they won't know outside the space.
+[01:44:17.920 --> 01:44:20.920]   And that's why I would say, if anything,
+[01:44:20.920 --> 01:44:24.920]   now is the best time that you don't know AI
+[01:44:24.920 --> 01:44:26.920]   to have people from different backgrounds come in.
+[01:44:26.920 --> 01:44:28.920]   Because your contribution could be from data set level,
+[01:44:28.920 --> 01:44:31.920]   how to train the knowledge, to shader code,
+[01:44:31.920 --> 01:44:36.920]   to how to memory map, how to cache data.
+[01:44:36.920 --> 01:44:38.920]   There are so many gaps.
+[01:44:38.920 --> 01:44:41.920]   Building the UI, I saw that you guys have a UI as well.
+[01:44:41.920 --> 01:44:43.920]   Or maybe it's not maintained.
+[01:44:43.920 --> 01:44:46.920]   No, there's someone in the committee.
+[01:44:46.920 --> 01:44:47.920]   Cool.
+[01:44:47.920 --> 01:44:50.920]   I think that's very encouraging and good to know.
+[01:44:50.920 --> 01:44:53.920]   And then I think the last thing,
+[01:44:53.920 --> 01:44:56.920]   I left this to the end because it's kind of uncomfortable,
+[01:44:56.920 --> 01:44:58.920]   but also just fun bonus,
+[01:44:58.920 --> 01:45:03.920]   which is I'm really trying to do an AI Waifu episode.
+[01:45:03.920 --> 01:45:06.920]   I think that, at least in the open source model space,
+[01:45:06.920 --> 01:45:11.920]   the most motivated and surprisingly competent people
+[01:45:11.920 --> 01:45:14.920]   are the people trying to build AI Girlfriend.
+[01:45:14.920 --> 01:45:16.920]   And you are one of the few people I've actually met
+[01:45:16.920 --> 01:45:19.920]   who interact with these people.
+[01:45:19.920 --> 01:45:22.920]   They are just, what are you seeing?
+[01:45:22.920 --> 01:45:23.920]   What's interesting?
+[01:45:23.920 --> 01:45:26.920]   And apart from RWBKB, there's also other communities, right?
+[01:45:26.920 --> 01:45:28.920]   The uncensored models.
+[01:45:28.920 --> 01:45:30.920]   I think Wizard LM is part of that.
+[01:45:30.920 --> 01:45:31.920]   Correct.
+[01:45:31.920 --> 01:45:35.920]   Just can you sketch out what is happening in that world?
+[01:45:35.920 --> 01:45:42.920]   So, I mean, CreditWaker is...
+[01:45:42.920 --> 01:45:45.920]   We shouldn't be king shaming or anything on that.
+[01:45:45.920 --> 01:45:48.920]   And these are some of the most motivated
+[01:45:48.920 --> 01:45:50.920]   and sometimes even the most technical competent people
+[01:45:50.920 --> 01:45:54.920]   that literally move mountains in the code base.
+[01:45:54.920 --> 01:45:57.920]   And I don't mean that lightly.
+[01:45:57.920 --> 01:46:03.920]   It's like, I think those active in the RWBKB discord,
+[01:46:03.920 --> 01:46:04.920]   we're no longer members.
+[01:46:04.920 --> 01:46:06.920]   I literally just came in out of nowhere.
+[01:46:06.920 --> 01:46:10.920]   And it's like, okay, let's just rewrite the whole
+[01:46:10.920 --> 01:46:12.920]   CPP and GGML code.
+[01:46:12.920 --> 01:46:13.920]   Does it work?
+[01:46:13.920 --> 01:46:16.920]   And great, it's way faster.
+[01:46:16.920 --> 01:46:22.920]   And there's a lot of them,
+[01:46:22.920 --> 01:46:25.920]   their motivations is still very inherently is that
+[01:46:25.920 --> 01:46:31.920]   they are very, I guess it's the fastest feedback loop from code.
+[01:46:31.920 --> 01:46:32.920]   They are the users.
+[01:46:32.920 --> 01:46:34.920]   To the user, yes, exactly.
+[01:46:34.920 --> 01:46:38.920]   And they want the model to align better.
+[01:46:38.920 --> 01:46:42.920]   So, the thing is getting an AI waifu actually spreads
+[01:46:42.920 --> 01:46:44.920]   the whole freaking domain.
+[01:46:44.920 --> 01:46:45.920]   Why?
+[01:46:45.920 --> 01:46:50.920]   Because from the very bottom right will be,
+[01:46:50.920 --> 01:46:52.920]   let's say, the model architecture.
+[01:46:52.920 --> 01:46:54.920]   So, let's say, if the model architecture has issues
+[01:46:54.920 --> 01:46:57.920]   paying attention to historical conversations,
+[01:46:57.920 --> 01:47:01.920]   for example, you can have long conversations
+[01:47:01.920 --> 01:47:03.920]   and then the model will just forget stuff.
+[01:47:03.920 --> 01:47:07.920]   Yes, not ideal, let's say.
+[01:47:07.920 --> 01:47:10.920]   But all the way to the very top would be like,
+[01:47:10.920 --> 01:47:13.920]   you want your model to stay in character,
+[01:47:13.920 --> 01:47:14.920]   your system prompts.
+[01:47:14.920 --> 01:47:16.920]   This is literally alignment problems,
+[01:47:16.920 --> 01:47:19.920]   but the alignment is not to an ethical standard.
+[01:47:19.920 --> 01:47:22.920]   The alignment is to stay in character.
+[01:47:22.920 --> 01:47:26.920]   And that includes doing things that makes no sense.
+[01:47:26.920 --> 01:47:32.920]   Let's just say you take one of your favorite,
+[01:47:32.920 --> 01:47:34.920]   what's the character for this?
+[01:47:34.920 --> 01:47:40.920]   Silly scientist or silly airhead girl.
+[01:47:40.920 --> 01:47:43.920]   I think the American equivalent would be dumb blonde.
+[01:47:43.920 --> 01:47:44.920]   Yeah, dumb blonde.
+[01:47:44.920 --> 01:47:47.920]   Sorry about that.
+[01:47:47.920 --> 01:47:55.920]   And the idea there is that the characters may make,
+[01:47:55.920 --> 01:47:59.920]   as in character, will make some very silly mistakes.
+[01:47:59.920 --> 01:48:01.920]   And you want to align your model that way.
+[01:48:01.920 --> 01:48:03.920]   So, that's alignment.
+[01:48:03.920 --> 01:48:05.920]   Okay, what are people doing to solve that?
+[01:48:05.920 --> 01:48:07.920]   Just in case you've seen anything interesting.
+[01:48:07.920 --> 01:48:10.920]   For example, the Dan prompt to me was very interesting.
+[01:48:10.920 --> 01:48:12.920]   Give people points and then deduct points.
+[01:48:12.920 --> 01:48:16.920]   And it's trained to be very scared of losing points.
+[01:48:16.920 --> 01:48:17.920]   Correct.
+[01:48:17.920 --> 01:48:24.920]   So, from there on, it's really more of prompt training methods.
+[01:48:24.920 --> 01:48:25.920]   Which makes it slower.
+[01:48:25.920 --> 01:48:26.920]   Which makes it slower.
+[01:48:26.920 --> 01:48:28.920]   So, it keeps going back and forth the chain.
+[01:48:28.920 --> 01:48:30.920]   So, you see, they adjust the prompt,
+[01:48:30.920 --> 01:48:32.920]   then it's too slow, then they want to optimize it,
+[01:48:32.920 --> 01:48:36.920]   then they look into how to train it better data sets,
+[01:48:36.920 --> 01:48:40.920]   including their favorite character stories,
+[01:48:40.920 --> 01:48:43.920]   from whatever sources they can get.
+[01:48:43.920 --> 01:48:45.920]   Because one of the existing problems for AI models,
+[01:48:45.920 --> 01:48:47.920]   even from the foundation model, right,
+[01:48:47.920 --> 01:48:52.920]   is that even though it can partially impersonate a character,
+[01:48:52.920 --> 01:48:56.920]   if you ask a real fan, in a lot of cases, it falls flat.
+[01:48:56.920 --> 01:48:57.920]   Because what's happening is,
+[01:48:57.920 --> 01:49:01.920]   it's reading summaries and quotes and memes,
+[01:49:01.920 --> 01:49:04.920]   and impersonating at a very high level.
+[01:49:04.920 --> 01:49:08.920]   But it's not impersonating on a very deep level.
+[01:49:08.920 --> 01:49:12.920]   And that's where people start exploring the data set.
+[01:49:12.920 --> 01:49:14.920]   And because these members are also the same members
+[01:49:14.920 --> 01:49:16.920]   that do not have a giant GPU farm,
+[01:49:16.920 --> 01:49:19.920]   they are very interested in optimizing it,
+[01:49:19.920 --> 01:49:22.920]   be it through LoRa or fine-tuning.
+[01:49:22.920 --> 01:49:23.920]   What's the best learning rate?
+[01:49:23.920 --> 01:49:28.920]   What's the best way to fine-tune this limited GPU resource
+[01:49:28.920 --> 01:49:30.920]   for the benefit of all people?
+[01:49:30.920 --> 01:49:32.920]   And LoRa techniques and whatever else,
+[01:49:32.920 --> 01:49:34.920]   are they applicable to RWKB?
+[01:49:34.920 --> 01:49:37.920]   Yeah, RWKB does have a LoRa trainer as well.
+[01:49:37.920 --> 01:49:38.920]   Okay.
+[01:49:38.920 --> 01:49:41.920]   And that's relatively commonplace now, everyone has it.
+[01:49:41.920 --> 01:49:43.920]   Yeah, I think pretty much every open-source model
+[01:49:43.920 --> 01:49:45.920]   has a LoRa trainer.
+[01:49:45.920 --> 01:49:47.920]   I will say I've actually struggled to find,
+[01:49:47.920 --> 01:49:49.920]   like LoRa seems to be very common
+[01:49:49.920 --> 01:49:51.920]   in the stable diffusion community,
+[01:49:51.920 --> 01:49:53.920]   but in text models,
+[01:49:53.920 --> 01:49:56.920]   I haven't really seen that much adoption in my circles.
+[01:49:56.920 --> 01:49:57.920]   But I think maybe you've seen it.
+[01:49:57.920 --> 01:50:01.920]   I guess the problem is that LoRa has...
+[01:50:01.920 --> 01:50:03.920]   Okay, so I think in stable diffusion,
+[01:50:03.920 --> 01:50:06.920]   LoRa is a lot more powerful.
+[01:50:06.920 --> 01:50:09.920]   As in, I find it hard to come up with a use case
+[01:50:09.920 --> 01:50:11.920]   that LoRa cannot support.
+[01:50:11.920 --> 01:50:14.920]   But for example,
+[01:50:14.920 --> 01:50:18.920]   in the language models case,
+[01:50:18.920 --> 01:50:21.920]   LoRa cannot teach new language.
+[01:50:21.920 --> 01:50:23.920]   It cannot...
+[01:50:23.920 --> 01:50:28.920]   It sometimes may struggle to teach new techniques
+[01:50:28.920 --> 01:50:31.920]   or new concepts.
+[01:50:31.920 --> 01:50:36.920]   It does well into adding and refining existing knowledge.
+[01:50:36.920 --> 01:50:40.920]   And this is the part where how do we know
+[01:50:40.920 --> 01:50:41.920]   whether it works or doesn't,
+[01:50:41.920 --> 01:50:43.920]   we don't really know because the line is very grey,
+[01:50:43.920 --> 01:50:46.920]   and I think that frustrates a lot of people
+[01:50:46.920 --> 01:50:49.920]   when they're using LoRa for professional use.
+[01:50:49.920 --> 01:50:51.920]   Because you can end up doing LoRa
+[01:50:51.920 --> 01:50:54.920]   in 4-8-4 flat completely.
+[01:50:54.920 --> 01:50:58.920]   But this is where I go back to the character AI community.
+[01:50:58.920 --> 01:51:01.920]   It's actually very suited for that use case
+[01:51:01.920 --> 01:51:03.920]   because if your character is popular enough,
+[01:51:03.920 --> 01:51:05.920]   there is some base data in there,
+[01:51:05.920 --> 01:51:08.920]   and you're just effectively fine-tuning the speech patterns
+[01:51:08.920 --> 01:51:10.920]   and the data from there.
+[01:51:10.920 --> 01:51:12.920]   So I'll call out...
+[01:51:12.920 --> 01:51:13.920]   So I think you say character AI,
+[01:51:13.920 --> 01:51:16.920]   but you don't actually mean the company character AI.
+[01:51:16.920 --> 01:51:17.920]   Oh yeah, sorry about that.
+[01:51:17.920 --> 01:51:19.920]   It's the companies that are like them,
+[01:51:19.920 --> 01:51:22.920]   but sex-positive, I should say.
+[01:51:22.920 --> 01:51:23.920]   Okay, yeah.
+[01:51:23.920 --> 01:51:24.920]   Whatever.
+[01:51:24.920 --> 01:51:25.920]   So there's character AI, there's replica,
+[01:51:25.920 --> 01:51:27.920]   these are the two trad...
+[01:51:27.920 --> 01:51:29.920]   I would call them trad in terms of
+[01:51:29.920 --> 01:51:31.920]   they are in the common consciousness,
+[01:51:31.920 --> 01:51:34.920]   at least in traditional AI circles.
+[01:51:34.920 --> 01:51:36.920]   And then, for example,
+[01:51:36.920 --> 01:51:39.920]   we used to be came across Venus.chub,
+[01:51:39.920 --> 01:51:41.920]   which, yes, it's one of those.
+[01:51:41.920 --> 01:51:45.920]   But like 2 million users in one week.
+[01:51:45.920 --> 01:51:47.920]   That's the number that I got.
+[01:51:47.920 --> 01:51:49.920]   Crazy, like just huge.
+[01:51:49.920 --> 01:51:52.920]   Yeah, I think there's also a lot of it,
+[01:51:52.920 --> 01:51:54.920]   especially when it comes to specific domains,
+[01:51:54.920 --> 01:51:57.920]   like be it anime, be it...
+[01:51:57.920 --> 01:51:58.920]   Furries.
+[01:51:58.920 --> 01:52:01.920]   These are all...
+[01:52:01.920 --> 01:52:04.920]   Look, I mean, this is all the full range.
+[01:52:04.920 --> 01:52:06.920]   You want to simulate humanity?
+[01:52:06.920 --> 01:52:07.920]   There you go.
+[01:52:07.920 --> 01:52:09.920]   A lot of times it's about sex.
+[01:52:09.920 --> 01:52:10.920]   Yeah.
+[01:52:10.920 --> 01:52:13.920]   Okay, so I don't know if you have anything else.
+[01:52:13.920 --> 01:52:15.920]   I'll mention one other piece
+[01:52:15.920 --> 01:52:17.920]   of why I'm interested in this.
+[01:52:17.920 --> 01:52:21.920]   It's because these people could be...
+[01:52:21.920 --> 01:52:23.920]   Actually, honestly, they're the pioneers
+[01:52:23.920 --> 01:52:27.920]   in terms of modeling what a human is.
+[01:52:27.920 --> 01:52:30.920]   And we actually end up figuring out
+[01:52:30.920 --> 01:52:35.920]   how to encode a human personality and identity.
+[01:52:35.920 --> 01:52:37.920]   And we might actually end up...
+[01:52:37.920 --> 01:52:39.920]   This weird path that we're taking
+[01:52:39.920 --> 01:52:41.920]   might actually end up in mind uploading,
+[01:52:41.920 --> 01:52:43.920]   which is what I'm thinking about.
+[01:52:43.920 --> 01:52:46.920]   I think that makes sense in many ways
+[01:52:46.920 --> 01:52:49.920]   because they're also the most nitpicky about it.
+[01:52:49.920 --> 01:52:50.920]   Yeah.
+[01:52:50.920 --> 01:52:53.920]   They can tell when a character is out of character.
+[01:52:53.920 --> 01:52:57.920]   Yeah, so they're doing it
+[01:52:57.920 --> 01:52:59.920]   without access to the full information,
+[01:52:59.920 --> 01:53:02.920]   but I do think that this is a real path
+[01:53:02.920 --> 01:53:06.920]   towards immortality in some form.
+[01:53:06.920 --> 01:53:07.920]   And I think there will be people
+[01:53:07.920 --> 01:53:08.920]   interested in mind upload,
+[01:53:08.920 --> 01:53:10.920]   and it will come from this community
+[01:53:10.920 --> 01:53:12.920]   because no one else is working as hard
+[01:53:12.920 --> 01:53:15.920]   on essentially serialization of a person.
+[01:53:15.920 --> 01:53:18.920]   I think there are two variants for it.
+[01:53:18.920 --> 01:53:22.920]   I think one is the one that Facebook is attempting,
+[01:53:22.920 --> 01:53:25.920]   which is I have all the data on you.
+[01:53:25.920 --> 01:53:29.920]   And same thing, I have all data on this character.
+[01:53:29.920 --> 01:53:33.920]   And now you have a virtual half, per se.
+[01:53:33.920 --> 01:53:36.920]   And when you deceased,
+[01:53:36.920 --> 01:53:39.920]   whoever's left can interact with that.
+[01:53:39.920 --> 01:53:42.920]   I think that's slightly different from mind upload.
+[01:53:42.920 --> 01:53:43.920]   But then subsequently,
+[01:53:43.920 --> 01:53:46.920]   I think then the next jump would be,
+[01:53:46.920 --> 01:53:48.920]   but that could be like the building block
+[01:53:48.920 --> 01:53:49.920]   to the next major jump,
+[01:53:49.920 --> 01:53:52.920]   which is like really scanning your brain
+[01:53:52.920 --> 01:53:55.920]   and then figuring out how all this connects.
+[01:53:55.920 --> 01:53:57.920]   And sequence your DNA,
+[01:53:57.920 --> 01:53:58.920]   like you do whatever, right?
+[01:53:58.920 --> 01:54:03.920]   Just like, this is like a completely wild tangent, right?
+[01:54:03.920 --> 01:54:08.920]   Like, I sometimes think that we overestimate
+[01:54:08.920 --> 01:54:10.920]   how far we are,
+[01:54:10.920 --> 01:54:14.920]   because in my opinion, right?
+[01:54:14.920 --> 01:54:16.920]   And this is for me in particular
+[01:54:16.920 --> 01:54:18.920]   with the stable diffusion model is that
+[01:54:18.920 --> 01:54:23.920]   if I can get the world image model effectively,
+[01:54:23.920 --> 01:54:25.920]   I mean, stable diffusion, whatever,
+[01:54:25.920 --> 01:54:27.920]   in under 100 gigabytes,
+[01:54:27.920 --> 01:54:30.920]   and now I have all the world knowledge,
+[01:54:30.920 --> 01:54:34.920]   literally in a transformer that's less than 100 gigabytes.
+[01:54:34.920 --> 01:54:36.920]   No offense to myself,
+[01:54:36.920 --> 01:54:38.920]   I don't think my personality and my memories
+[01:54:38.920 --> 01:54:40.920]   is more than this.
+[01:54:40.920 --> 01:54:43.920]   Even if I 10x it,
+[01:54:43.920 --> 01:54:45.920]   I could store this in two SSDs,
+[01:54:45.920 --> 01:54:47.920]   two hard drives.
+[01:54:47.920 --> 01:54:52.920]   And if we really break it down
+[01:54:52.920 --> 01:54:54.920]   how to serialize it and handle it, right?
+[01:54:54.920 --> 01:54:57.920]   Perhaps we are actually not as big as we think we are.
+[01:54:57.920 --> 01:54:59.920]   Because our brains are actually handling
+[01:54:59.920 --> 01:55:01.920]   a crap ton of other functions.
+[01:55:01.920 --> 01:55:04.920]   And this is like a tangent to the biological side.
+[01:55:04.920 --> 01:55:07.920]   Like, your whole body,
+[01:55:07.920 --> 01:55:09.920]   your breathing, your pumping blood,
+[01:55:09.920 --> 01:55:11.920]   your movement, that actually takes up a lot.
+[01:55:11.920 --> 01:55:14.920]   And if you really want to strip it down
+[01:55:14.920 --> 01:55:16.920]   to just pure text and vision,
+[01:55:16.920 --> 01:55:18.920]   because since now if you upload your mind,
+[01:55:18.920 --> 01:55:20.920]   you no longer need the rest of that,
+[01:55:20.920 --> 01:55:22.920]   perhaps we may find out that it's actually
+[01:55:22.920 --> 01:55:24.920]   a lot less than we think.
+[01:55:24.920 --> 01:55:26.920]   Yeah, so George Hartz was on our podcast,
+[01:55:26.920 --> 01:55:28.920]   and he said two gigs.
+[01:55:28.920 --> 01:55:29.920]   Two gigs.
+[01:55:29.920 --> 01:55:31.920]   He wants to quantize himself,
+[01:55:31.920 --> 01:55:33.920]   which I'm like, I think you'll lose something
+[01:55:33.920 --> 01:55:35.920]   if you quantize yourself.
+[01:55:35.920 --> 01:55:37.920]   I won't push so far to do a gig.
+[01:55:37.920 --> 01:55:39.920]   I'm still winning a terabyte, because frankly,
+[01:55:39.920 --> 01:55:41.920]   that's all we need, right?
+[01:55:41.920 --> 01:55:43.920]   That's all we need.
+[01:55:43.920 --> 01:55:44.920]   Cool, great.
+[01:55:44.920 --> 01:55:46.920]   So yeah, thanks so much for being very
+[01:55:46.920 --> 01:55:48.920]   willing to get on and talk with NoPrep.
+[01:55:48.920 --> 01:55:50.920]   We did some prep, but
+[01:55:50.920 --> 01:55:52.920]   it's a very unusual podcast episode,
+[01:55:52.920 --> 01:55:54.920]   but I really enjoyed it.
+[01:55:54.920 --> 01:55:56.920]   We literally just met yesterday in Singapore.
+[01:55:56.920 --> 01:55:58.920]   But I know you've been on the Discord for a while,
+[01:55:58.920 --> 01:56:00.920]   and I can tell you that you're very serious about all this.
+[01:56:00.920 --> 01:56:02.920]   I think it's very unusual for someone,
+[01:56:02.920 --> 01:56:04.920]   like, you have a job,
+[01:56:04.920 --> 01:56:06.920]   but this is like a second job, essentially.
+[01:56:06.920 --> 01:56:08.920]   But you are really
+[01:56:08.920 --> 01:56:10.920]   enthusiastic
+[01:56:10.920 --> 01:56:12.920]   and passionate about it, and I think that's very rare,
+[01:56:12.920 --> 01:56:14.920]   and I want to encourage more people to
+[01:56:14.920 --> 01:56:16.920]   do it, and so thanks for sharing.
+[01:56:16.920 --> 01:56:18.920]   Thank you for having me here
+[01:56:18.920 --> 01:56:20.920]   on a very last minute basis.
+[01:56:20.920 --> 01:56:22.920]   We did not book this room.
+[01:56:22.920 --> 01:56:23.920]   There's no room.
+[01:56:23.920 --> 01:56:25.920]   We are literally gorilla podcasting
+[01:56:25.920 --> 01:56:27.920]   in some corner.
+[01:56:27.920 --> 01:56:29.920]   So if you see random intermissions and cut,
+[01:56:29.920 --> 01:56:31.920]   that was because a crowd just went by,
+[01:56:31.920 --> 01:56:33.920]   and there was noise, and we needed a pause.
+[01:56:33.920 --> 01:56:35.920]   Aunties had to go for lunch.
+[01:56:35.920 --> 01:56:37.920]   But no, I think it's actually a bit charming.
+[01:56:37.920 --> 01:56:39.920]   I think some podcasts
+[01:56:39.920 --> 01:56:41.920]   can be too polished, and
+[01:56:41.920 --> 01:56:43.920]   sometimes it's just nice to see, like, hey, it's just two guys.
+[01:56:43.920 --> 01:56:45.920]   Yeah.
+[01:56:45.920 --> 01:56:47.920]   Cool, thanks.
+[01:56:47.920 --> 01:56:49.920]   Thanks for having me here.
+

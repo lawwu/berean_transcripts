@@ -1,0 +1,1610 @@
+
+[00:00:00.000 --> 00:00:02.420]   (soft music)
+[00:00:02.420 --> 00:00:04.840]   (soft music)
+[00:00:04.840 --> 00:00:07.260]   (soft music)
+[00:00:07.260 --> 00:00:10.880]   (soft music)
+[00:00:10.880 --> 00:00:20.800]   (soft music)
+[00:00:20.800 --> 00:00:24.360]   (soft music)
+[00:00:24.360 --> 00:00:28.220]   (soft music)
+[00:00:28.220 --> 00:00:32.260]   (soft music)
+[00:00:33.880 --> 00:00:36.300]   (soft music)
+[00:00:36.300 --> 00:00:40.300]   (soft music)
+[00:00:40.300 --> 00:00:44.300]   (soft music)
+[00:00:44.300 --> 00:00:48.300]   (soft music)
+[00:00:48.300 --> 00:00:52.300]   (soft music)
+[00:00:52.300 --> 00:00:56.300]   (soft music)
+[00:00:56.300 --> 00:01:00.300]   (soft music)
+[00:01:01.880 --> 00:01:04.300]   (soft music)
+[00:01:04.300 --> 00:01:08.300]   (soft music)
+[00:01:08.300 --> 00:01:12.300]   (soft music)
+[00:01:12.300 --> 00:01:16.300]   (soft music)
+[00:01:16.300 --> 00:01:20.300]   (soft music)
+[00:01:20.300 --> 00:01:24.300]   (soft music)
+[00:01:24.300 --> 00:01:28.300]   (soft music)
+[00:01:29.880 --> 00:01:32.300]   (soft music)
+[00:01:32.300 --> 00:01:36.300]   (soft music)
+[00:01:36.300 --> 00:01:40.300]   (soft music)
+[00:01:40.300 --> 00:01:44.300]   (soft music)
+[00:01:44.300 --> 00:01:48.300]   (soft music)
+[00:01:48.300 --> 00:01:52.300]   (soft music)
+[00:01:52.300 --> 00:01:56.300]   (soft music)
+[00:01:57.880 --> 00:02:00.300]   (soft music)
+[00:02:00.300 --> 00:02:04.300]   (soft music)
+[00:02:04.300 --> 00:02:08.300]   (soft music)
+[00:02:08.300 --> 00:02:12.300]   (soft music)
+[00:02:12.300 --> 00:02:16.300]   (soft music)
+[00:02:16.300 --> 00:02:20.300]   (soft music)
+[00:02:20.300 --> 00:02:24.300]   (soft music)
+[00:02:25.880 --> 00:02:28.300]   (soft music)
+[00:02:28.300 --> 00:02:32.300]   (soft music)
+[00:02:32.300 --> 00:02:36.300]   (soft music)
+[00:02:36.300 --> 00:02:40.300]   (soft music)
+[00:02:40.300 --> 00:02:44.300]   (soft music)
+[00:02:44.300 --> 00:02:48.300]   (soft music)
+[00:02:48.300 --> 00:02:52.300]   (soft music)
+[00:02:53.880 --> 00:02:56.300]   (soft music)
+[00:02:56.300 --> 00:03:00.300]   (soft music)
+[00:03:00.300 --> 00:03:04.300]   (soft music)
+[00:03:04.300 --> 00:03:08.300]   (soft music)
+[00:03:08.300 --> 00:03:12.300]   (soft music)
+[00:03:12.300 --> 00:03:16.300]   (soft music)
+[00:03:16.300 --> 00:03:20.300]   (soft music)
+[00:03:21.880 --> 00:03:24.300]   (soft music)
+[00:03:24.300 --> 00:03:28.300]   (soft music)
+[00:03:28.300 --> 00:03:32.300]   (soft music)
+[00:03:32.300 --> 00:03:36.300]   (soft music)
+[00:03:36.300 --> 00:03:40.300]   (soft music)
+[00:03:40.300 --> 00:03:44.300]   (soft music)
+[00:03:44.300 --> 00:03:48.300]   (soft music)
+[00:03:49.880 --> 00:03:52.300]   (soft music)
+[00:03:52.300 --> 00:03:56.300]   (soft music)
+[00:03:56.300 --> 00:04:00.300]   (soft music)
+[00:04:00.300 --> 00:04:04.300]   (soft music)
+[00:04:04.300 --> 00:04:08.300]   (soft music)
+[00:04:08.300 --> 00:04:12.300]   (soft music)
+[00:04:12.300 --> 00:04:16.300]   (soft music)
+[00:04:17.880 --> 00:04:20.300]   (soft music)
+[00:04:20.300 --> 00:04:22.720]   (soft music)
+[00:04:22.720 --> 00:04:26.720]   (soft music)
+[00:04:26.720 --> 00:04:30.720]   (soft music)
+[00:04:30.720 --> 00:04:34.720]   (soft music)
+[00:04:34.720 --> 00:04:38.720]   (soft music)
+[00:04:38.720 --> 00:04:42.720]   (soft music)
+[00:04:42.720 --> 00:04:46.720]   (soft music)
+[00:04:48.300 --> 00:04:50.720]   (soft music)
+[00:04:50.720 --> 00:04:54.720]   (soft music)
+[00:04:54.720 --> 00:05:00.720]   (soft music)
+[00:05:00.720 --> 00:05:04.720]   (soft music)
+[00:05:04.720 --> 00:05:10.720]   (soft music)
+[00:05:10.720 --> 00:05:14.720]   (soft music)
+[00:05:16.300 --> 00:05:18.720]   (soft music)
+[00:05:18.720 --> 00:05:21.140]   (soft music)
+[00:05:21.140 --> 00:05:25.140]   (soft music)
+[00:05:25.140 --> 00:05:29.140]   (soft music)
+[00:05:29.140 --> 00:05:33.140]   (soft music)
+[00:05:33.140 --> 00:05:37.140]   (soft music)
+[00:05:37.140 --> 00:05:41.140]   (soft music)
+[00:05:41.140 --> 00:05:45.140]   (soft music)
+[00:05:46.720 --> 00:05:49.140]   (soft music)
+[00:05:49.140 --> 00:05:51.560]   (soft music)
+[00:05:51.560 --> 00:05:55.560]   (soft music)
+[00:05:55.560 --> 00:05:59.560]   (soft music)
+[00:05:59.560 --> 00:06:03.560]   (soft music)
+[00:06:03.560 --> 00:06:07.560]   (soft music)
+[00:06:07.560 --> 00:06:11.560]   (soft music)
+[00:06:11.560 --> 00:06:15.560]   (soft music)
+[00:06:17.140 --> 00:06:19.560]   (soft music)
+[00:06:19.560 --> 00:06:21.980]   (soft music)
+[00:06:21.980 --> 00:06:25.980]   (soft music)
+[00:06:25.980 --> 00:06:29.980]   (soft music)
+[00:06:29.980 --> 00:06:33.980]   (soft music)
+[00:06:33.980 --> 00:06:37.980]   (soft music)
+[00:06:37.980 --> 00:06:41.980]   (soft music)
+[00:06:41.980 --> 00:06:45.980]   (soft music)
+[00:06:47.560 --> 00:06:49.980]   (soft music)
+[00:06:49.980 --> 00:06:55.980]   (soft music)
+[00:06:55.980 --> 00:07:02.980]   (soft music)
+[00:07:02.980 --> 00:07:09.980]   (soft music)
+[00:07:09.980 --> 00:07:13.980]   (soft music)
+[00:07:13.980 --> 00:07:16.400]   (soft music)
+[00:07:16.400 --> 00:07:22.400]   (soft music)
+[00:07:22.400 --> 00:07:28.400]   (soft music)
+[00:07:28.400 --> 00:07:34.400]   (soft music)
+[00:07:34.400 --> 00:07:40.400]   (soft music)
+[00:07:40.400 --> 00:07:42.820]   (soft music)
+[00:07:42.820 --> 00:07:48.820]   (soft music)
+[00:07:48.820 --> 00:07:54.820]   (soft music)
+[00:07:54.820 --> 00:08:00.820]   (soft music)
+[00:08:00.820 --> 00:08:06.820]   (soft music)
+[00:08:06.820 --> 00:08:09.240]   (soft music)
+[00:08:09.240 --> 00:08:15.240]   (soft music)
+[00:08:15.240 --> 00:08:21.240]   (soft music)
+[00:08:21.240 --> 00:08:27.240]   (soft music)
+[00:08:27.240 --> 00:08:33.240]   (soft music)
+[00:08:33.240 --> 00:08:35.660]   (soft music)
+[00:08:35.660 --> 00:08:45.660]   (soft music)
+[00:08:45.660 --> 00:08:55.660]   (soft music)
+[00:08:55.660 --> 00:08:58.080]   (soft music)
+[00:08:58.080 --> 00:09:00.500]   (soft music)
+[00:09:00.500 --> 00:09:02.920]   (soft music)
+[00:09:02.920 --> 00:09:12.920]   (soft music)
+[00:09:12.920 --> 00:09:22.920]   (soft music)
+[00:09:22.920 --> 00:09:25.340]   (soft music)
+[00:09:25.340 --> 00:09:35.340]   (soft music)
+[00:09:35.340 --> 00:09:45.340]   (soft music)
+[00:09:45.340 --> 00:09:47.760]   (soft music)
+[00:09:47.760 --> 00:09:57.760]   (soft music)
+[00:09:57.760 --> 00:10:07.760]   (soft music)
+[00:10:07.760 --> 00:10:10.180]   (soft music)
+[00:10:10.180 --> 00:10:12.600]   (soft music)
+[00:10:12.600 --> 00:10:22.600]   (soft music)
+[00:10:22.600 --> 00:10:32.600]   (soft music)
+[00:10:32.600 --> 00:10:35.020]   (soft music)
+[00:10:35.020 --> 00:10:37.440]   (soft music)
+[00:10:37.440 --> 00:10:39.860]   (soft music)
+[00:10:39.860 --> 00:10:49.860]   (soft music)
+[00:10:49.860 --> 00:10:59.860]   (soft music)
+[00:10:59.860 --> 00:11:02.280]   (soft music)
+[00:11:02.280 --> 00:11:12.280]   (soft music)
+[00:11:12.280 --> 00:11:22.280]   (soft music)
+[00:11:22.280 --> 00:11:24.700]   (soft music)
+[00:11:24.700 --> 00:11:38.700]   (soft music)
+[00:11:38.700 --> 00:11:41.120]   (soft music)
+[00:11:41.120 --> 00:11:51.120]   (soft music)
+[00:11:51.120 --> 00:12:01.120]   (soft music)
+[00:12:01.120 --> 00:12:03.540]   (soft music)
+[00:12:03.540 --> 00:12:13.540]   (soft music)
+[00:12:13.540 --> 00:12:23.540]   (soft music)
+[00:12:23.540 --> 00:12:25.960]   (soft music)
+[00:12:25.960 --> 00:12:35.960]   (soft music)
+[00:12:35.960 --> 00:12:45.960]   (soft music)
+[00:12:45.960 --> 00:12:48.380]   (soft music)
+[00:12:48.380 --> 00:13:00.380]   (soft music)
+[00:13:00.380 --> 00:13:02.800]   (soft music)
+[00:13:02.800 --> 00:13:05.220]   (soft music)
+[00:13:05.220 --> 00:13:07.640]   (soft music)
+[00:13:07.640 --> 00:13:10.060]   (soft music)
+[00:13:10.060 --> 00:13:12.480]   (soft music)
+[00:13:12.480 --> 00:13:14.900]   (soft music)
+[00:13:14.900 --> 00:13:17.320]   (soft music)
+[00:13:17.320 --> 00:13:19.740]   (soft music)
+[00:13:19.740 --> 00:13:22.160]   (soft music)
+[00:13:22.160 --> 00:13:24.580]   (soft music)
+[00:13:24.580 --> 00:13:27.000]   (soft music)
+[00:13:27.000 --> 00:13:29.420]   (soft music)
+[00:13:29.420 --> 00:13:31.840]   (soft music)
+[00:13:31.840 --> 00:13:34.260]   (soft music)
+[00:14:00.840 --> 00:14:02.260]   - Hi everyone.
+[00:14:02.260 --> 00:14:04.260]   Welcome to Bible study.
+[00:14:04.260 --> 00:14:06.260]   Let's make our way to our seats
+[00:14:06.260 --> 00:14:09.260]   and let's take a couple minutes to pray.
+[00:14:09.260 --> 00:14:11.840]   Prepare our hearts for worship.
+[00:14:11.840 --> 00:14:15.840]   (praying in a foreign language)
+[00:14:15.840 --> 00:14:19.760]   (praying in a foreign language)
+[00:14:19.760 --> 00:14:23.680]   (praying in a foreign language)
+[00:14:23.680 --> 00:14:27.600]   (praying in a foreign language)
+[00:14:27.600 --> 00:14:31.520]   (praying in a foreign language)
+[00:14:31.520 --> 00:14:54.520]   Let's pray.
+[00:14:57.020 --> 00:15:01.520]   Dear Lord, we thank you for bringing us here tonight
+[00:15:01.520 --> 00:15:03.020]   from wherever we're coming from,
+[00:15:03.020 --> 00:15:07.520]   whether it be work or school or wherever we may be coming
+[00:15:07.520 --> 00:15:09.520]   from, we thank you that we have the privilege
+[00:15:09.520 --> 00:15:14.020]   of coming here, gathering, to sing worship to you,
+[00:15:14.020 --> 00:15:15.520]   to hear your word and to just have fellowship
+[00:15:15.520 --> 00:15:17.020]   with one another.
+[00:15:17.020 --> 00:15:20.520]   I pray again, God, for strength as we may be tired
+[00:15:20.520 --> 00:15:23.520]   from a long day, to be focused and that our minds
+[00:15:23.520 --> 00:15:26.520]   would be attentive and that we would come just hungry
+[00:15:26.520 --> 00:15:29.520]   to learn from your word and to just have a good time
+[00:15:29.520 --> 00:15:34.020]   of just fellowship and worship and that you would be honored
+[00:15:34.020 --> 00:15:35.520]   and glorified in this time.
+[00:15:35.520 --> 00:15:38.520]   I pray that as we go into a time of just singing these songs
+[00:15:38.520 --> 00:15:41.020]   that you allow us to reflect on the lyrics that we sing
+[00:15:41.020 --> 00:15:44.020]   to you, that it would be a pleasing aroma to you.
+[00:15:44.020 --> 00:15:46.520]   We thank you again, God, in your name we pray, amen.
+[00:15:46.520 --> 00:15:48.520]   Can we all stand for a time of praise?
+[00:15:48.520 --> 00:15:53.520]   (gentle music)
+[00:15:54.520 --> 00:15:57.020]   (gentle music)
+[00:15:57.020 --> 00:16:20.520]   ♪ He became sin ♪
+[00:16:20.520 --> 00:16:24.020]   ♪ Who knew no sin ♪
+[00:16:24.020 --> 00:16:27.020]   ♪ That we might become ♪
+[00:16:27.020 --> 00:16:30.520]   ♪ His righteousness ♪
+[00:16:30.520 --> 00:16:34.020]   ♪ He humbled himself ♪
+[00:16:34.020 --> 00:16:39.020]   ♪ And carried the cross ♪
+[00:16:39.020 --> 00:16:44.020]   ♪ Love so amazing ♪
+[00:16:45.520 --> 00:16:50.520]   ♪ Love so amazing ♪
+[00:16:50.520 --> 00:16:57.020]   ♪ Jesus Messiah ♪
+[00:16:57.020 --> 00:17:03.520]   ♪ Name above all names ♪
+[00:17:03.520 --> 00:17:10.020]   ♪ Blessed Redeemer ♪
+[00:17:11.520 --> 00:17:16.520]   ♪ Emmanuel ♪
+[00:17:16.520 --> 00:17:22.520]   ♪ The rescue for sinners ♪
+[00:17:22.520 --> 00:17:29.020]   ♪ The ransom from heaven ♪
+[00:17:29.020 --> 00:17:35.520]   ♪ Jesus Messiah ♪
+[00:17:37.020 --> 00:17:42.020]   ♪ Lord of all ♪
+[00:17:42.020 --> 00:17:43.520]   His body.
+[00:17:43.520 --> 00:17:48.020]   ♪ His body the bread ♪
+[00:17:48.020 --> 00:17:51.520]   ♪ His blood the wine ♪
+[00:17:51.520 --> 00:17:55.020]   ♪ Broken and poured out ♪
+[00:17:55.020 --> 00:17:58.020]   ♪ All for love ♪
+[00:17:58.020 --> 00:18:01.020]   ♪ The whole earth trembled ♪
+[00:18:01.020 --> 00:18:06.020]   ♪ And the veil was torn ♪
+[00:18:06.520 --> 00:18:11.520]   ♪ Love so amazing ♪
+[00:18:11.520 --> 00:18:18.020]   ♪ Love so amazing ♪
+[00:18:18.020 --> 00:18:24.520]   ♪ Jesus Messiah ♪
+[00:18:24.520 --> 00:18:31.020]   ♪ Name above all names ♪
+[00:18:32.520 --> 00:18:37.520]   ♪ Blessed Redeemer ♪
+[00:18:37.520 --> 00:18:43.520]   ♪ Emmanuel ♪
+[00:18:43.520 --> 00:18:50.020]   ♪ The rescue for sinners ♪
+[00:18:50.020 --> 00:18:56.520]   ♪ The ransom from heaven ♪
+[00:18:58.020 --> 00:19:03.020]   ♪ Jesus Messiah ♪
+[00:19:03.020 --> 00:19:09.520]   ♪ Lord of all ♪
+[00:19:09.520 --> 00:19:10.520]   All our hope.
+[00:19:10.520 --> 00:19:16.520]   ♪ All our hope is in you ♪
+[00:19:16.520 --> 00:19:22.520]   ♪ All our hope is in you ♪
+[00:19:24.020 --> 00:19:29.020]   ♪ All the glory to you God ♪
+[00:19:29.020 --> 00:19:38.020]   ♪ The light of the world ♪
+[00:19:38.020 --> 00:19:45.020]   ♪ Jesus Messiah ♪
+[00:19:45.020 --> 00:19:51.520]   ♪ Name above all names ♪
+[00:19:53.020 --> 00:19:58.020]   ♪ Blessed Redeemer ♪
+[00:19:58.020 --> 00:20:04.520]   ♪ Emmanuel ♪
+[00:20:04.520 --> 00:20:11.020]   ♪ The rescue for sinners ♪
+[00:20:11.020 --> 00:20:17.520]   ♪ The ransom from heaven ♪
+[00:20:19.020 --> 00:20:24.020]   ♪ Jesus Messiah ♪
+[00:20:24.020 --> 00:20:28.020]   ♪ Lord of all ♪
+[00:20:48.020 --> 00:20:53.020]   ♪ Worthy of every song we could ever sing ♪
+[00:20:53.020 --> 00:21:00.020]   ♪ Worthy of all the praise we could ever bring ♪
+[00:21:00.020 --> 00:21:06.520]   ♪ Worthy of every breath we could ever breathe ♪
+[00:21:06.520 --> 00:21:09.520]   ♪ We live for you ♪
+[00:21:15.520 --> 00:21:20.520]   ♪ Jesus the name above every other name ♪
+[00:21:20.520 --> 00:21:27.520]   ♪ Jesus the only one who could ever save ♪
+[00:21:27.520 --> 00:21:33.520]   ♪ Worthy of every breath we could ever breathe ♪
+[00:21:33.520 --> 00:21:36.520]   ♪ We live for you ♪
+[00:21:36.520 --> 00:21:41.020]   ♪ We live for you ♪
+[00:21:41.020 --> 00:21:46.020]   ♪ And holy there is no one like you ♪
+[00:21:46.020 --> 00:21:50.520]   ♪ There is none besides you ♪
+[00:21:50.520 --> 00:21:54.520]   ♪ Open up my eyes in wonder ♪
+[00:21:54.520 --> 00:21:58.020]   ♪ And show me who you are ♪
+[00:21:58.020 --> 00:22:01.520]   ♪ And fill me with your heart ♪
+[00:22:01.520 --> 00:22:06.520]   ♪ And lead me in your love to those around me ♪
+[00:22:07.520 --> 00:22:10.100]   (gentle music)
+[00:22:10.100 --> 00:22:29.520]   ♪ Worthy of every song we could ever sing ♪
+[00:22:29.520 --> 00:22:36.020]   ♪ Worthy of all the praise we could ever bring ♪
+[00:22:37.020 --> 00:22:42.020]   ♪ Worthy of every breath we could ever breathe ♪
+[00:22:42.020 --> 00:22:45.020]   ♪ We live for you ♪
+[00:22:45.020 --> 00:22:56.020]   ♪ Jesus the name above every other name ♪
+[00:22:56.020 --> 00:23:03.020]   ♪ Jesus the only one who could ever save ♪
+[00:23:05.020 --> 00:23:09.520]   ♪ Worthy of every breath we could ever breathe ♪
+[00:23:09.520 --> 00:23:13.020]   ♪ We live for you ♪
+[00:23:13.020 --> 00:23:17.020]   ♪ We live for you ♪
+[00:23:17.020 --> 00:23:22.020]   ♪ And holy there is no one like you ♪
+[00:23:22.020 --> 00:23:26.020]   ♪ There is none besides you ♪
+[00:23:26.020 --> 00:23:31.020]   ♪ Open up my eyes in wonder ♪
+[00:23:31.020 --> 00:23:35.020]   ♪ And show me who you are ♪
+[00:23:35.020 --> 00:23:38.020]   ♪ And fill me with your heart ♪
+[00:23:38.020 --> 00:23:43.020]   ♪ And lead me in your love to those around me ♪
+[00:23:43.020 --> 00:23:47.600]   (gentle music)
+[00:23:48.600 --> 00:23:51.180]   (gentle music)
+[00:23:51.180 --> 00:24:12.600]   ♪ I will build my life ♪
+[00:24:12.600 --> 00:24:17.600]   ♪ I will build my life upon your love ♪
+[00:24:17.600 --> 00:24:25.600]   ♪ It is a firm foundation ♪
+[00:24:25.600 --> 00:24:31.600]   ♪ And I will put my trust in you alone ♪
+[00:24:31.600 --> 00:24:39.600]   ♪ And I will not be shaken ♪
+[00:24:40.600 --> 00:24:45.600]   ♪ I will build my life upon your love ♪
+[00:24:45.600 --> 00:24:52.600]   ♪ It is a firm foundation ♪
+[00:24:52.600 --> 00:24:58.600]   ♪ And I will put my trust in you alone ♪
+[00:24:58.600 --> 00:25:06.600]   ♪ And I will not be shaken ♪
+[00:25:07.600 --> 00:25:12.600]   ♪ And holy there is no one like you ♪
+[00:25:12.600 --> 00:25:16.600]   ♪ There is none besides you ♪
+[00:25:16.600 --> 00:25:21.600]   ♪ Open up my eyes in wonder ♪
+[00:25:21.600 --> 00:25:24.600]   ♪ And show me who you are ♪
+[00:25:24.600 --> 00:25:27.600]   ♪ And fill me with your heart ♪
+[00:25:27.600 --> 00:25:32.600]   ♪ And lead me in your love to those around me ♪
+[00:25:34.600 --> 00:25:39.600]   ♪ And I will build my life upon your love ♪
+[00:25:39.600 --> 00:25:47.600]   ♪ It is a firm foundation ♪
+[00:25:47.600 --> 00:25:53.600]   ♪ And I will put my trust in you alone ♪
+[00:25:53.600 --> 00:26:01.600]   ♪ And I will not be shaken ♪
+[00:26:02.600 --> 00:26:07.600]   ♪ I will build my life upon your love ♪
+[00:26:07.600 --> 00:26:15.600]   ♪ It is a firm foundation ♪
+[00:26:15.600 --> 00:26:21.600]   ♪ And I will put my trust in you alone ♪
+[00:26:21.600 --> 00:26:28.600]   ♪ And I will not be shaken ♪
+[00:26:29.600 --> 00:26:32.600]   ♪ I will not be shaken ♪
+[00:26:32.600 --> 00:26:33.600]   - You may be seated.
+[00:26:57.600 --> 00:26:59.600]   Good evening.
+[00:26:59.600 --> 00:27:01.600]   Let me pray for us.
+[00:27:01.600 --> 00:27:07.600]   And then we'll get the Bible study started.
+[00:27:07.600 --> 00:27:13.600]   Lord, we are very thankful
+[00:27:13.600 --> 00:27:16.600]   just that you provide for us
+[00:27:16.600 --> 00:27:20.600]   the freedom and the means to get together tonight
+[00:27:20.600 --> 00:27:24.600]   and the resources that are available to us
+[00:27:24.600 --> 00:27:27.600]   to dive deeply into your word.
+[00:27:27.600 --> 00:27:29.600]   And I pray especially, Lord God,
+[00:27:29.600 --> 00:27:33.600]   for those of us who've really longed
+[00:27:33.600 --> 00:27:35.600]   to meet you through your word.
+[00:27:35.600 --> 00:27:37.600]   I pray, Father, that you would minister
+[00:27:37.600 --> 00:27:42.600]   thoroughly in and through us today.
+[00:27:42.600 --> 00:27:45.600]   And Father, I pray, Lord God,
+[00:27:45.600 --> 00:27:49.600]   as I'm sure there are those of us in here
+[00:27:49.600 --> 00:27:52.600]   who, because of distraction and laziness,
+[00:27:52.600 --> 00:27:55.600]   are feeling guilty because we haven't prepared,
+[00:27:55.600 --> 00:27:58.600]   I pray, Father, that you would help us
+[00:27:58.600 --> 00:28:00.600]   to long for your word
+[00:28:00.600 --> 00:28:03.600]   and to remove the distractions that hinder us
+[00:28:03.600 --> 00:28:06.600]   from having an appetite for your word.
+[00:28:06.600 --> 00:28:09.600]   And I pray that as we discuss, as we share,
+[00:28:09.600 --> 00:28:12.600]   that you really would be honored
+[00:28:12.600 --> 00:28:14.600]   and that you would transform our thoughts,
+[00:28:14.600 --> 00:28:15.600]   renew our minds,
+[00:28:15.600 --> 00:28:18.600]   and cause us to leave here more like Christ.
+[00:28:18.600 --> 00:28:21.600]   So we pray that you would guide this time.
+[00:28:21.600 --> 00:28:23.600]   I pray this in Jesus' name.
+[00:28:23.600 --> 00:28:29.600]   So I'm gonna, just because we weren't here last week,
+[00:28:29.600 --> 00:28:32.600]   our text today, the five verses,
+[00:28:32.600 --> 00:28:36.600]   are surrounded by very sensitive passages
+[00:28:36.600 --> 00:28:40.600]   that are very humanly offensive and demeaning
+[00:28:40.600 --> 00:28:43.600]   if we just take it for what it says.
+[00:28:43.600 --> 00:28:45.600]   So I'm gonna read, basically,
+[00:28:45.600 --> 00:28:47.600]   what we're reading today is the why
+[00:28:47.600 --> 00:28:50.600]   we're supposed to be submissive
+[00:28:50.600 --> 00:28:53.600]   to the human institutions that are in our lives.
+[00:28:53.600 --> 00:28:55.600]   So verse 18 of chapter two,
+[00:28:55.600 --> 00:28:58.600]   and I'll just read one verse of next week's passage.
+[00:28:58.600 --> 00:29:04.600]   "Servants, be submissive to your masters with all respect,
+[00:29:04.600 --> 00:29:06.600]   "not only to those who are good and gentle,
+[00:29:06.600 --> 00:29:09.600]   "but also to those who are unreasonable.
+[00:29:09.600 --> 00:29:10.600]   "For this finds favor,
+[00:29:10.600 --> 00:29:12.600]   "if for the sake of conscience toward God,
+[00:29:12.600 --> 00:29:17.600]   "a person bears up under sorrows when suffering unjustly.
+[00:29:17.600 --> 00:29:20.600]   "For what credit is there if when you sin
+[00:29:20.600 --> 00:29:23.600]   "and are harshly treated, you endure with patience?
+[00:29:23.600 --> 00:29:27.600]   "But if when you do what is right and suffer for it,
+[00:29:27.600 --> 00:29:30.600]   "you patiently endure it, this finds favor with God.
+[00:29:30.600 --> 00:29:33.600]   "For you have been called for this purpose
+[00:29:33.600 --> 00:29:36.600]   "since Christ also suffered for you,
+[00:29:36.600 --> 00:29:41.600]   "leaving you an example for you to follow in his steps,
+[00:29:41.600 --> 00:29:45.600]   "who committed no sin, nor was any deceit found in his mouth,
+[00:29:45.600 --> 00:29:48.600]   "and while being reviled, he did not revile in return.
+[00:29:48.600 --> 00:29:51.600]   "While suffering, he uttered no threats,
+[00:29:51.600 --> 00:29:55.600]   "but kept entrusting himself to him who judges righteously.
+[00:29:55.600 --> 00:29:59.600]   "And he himself bore our sins in his body on the cross
+[00:29:59.600 --> 00:30:02.600]   "so that we might die to sin and live to righteousness,
+[00:30:02.600 --> 00:30:05.600]   "for by his wounds you were healed.
+[00:30:05.600 --> 00:30:08.600]   "For you were continually straying like sheep,
+[00:30:08.600 --> 00:30:10.600]   "but now you have returned to the shepherd
+[00:30:10.600 --> 00:30:13.600]   "and guardian of your souls,
+[00:30:13.600 --> 00:30:18.600]   "in the same way you wives be submissive
+[00:30:18.600 --> 00:30:20.600]   "to your own husbands, so that even if any of them
+[00:30:20.600 --> 00:30:22.600]   "are disobedient to the word,
+[00:30:22.600 --> 00:30:24.600]   "they will be won without a word
+[00:30:24.600 --> 00:30:27.600]   "by the behavior of their wives."
+[00:30:27.600 --> 00:30:30.600]   So that's the passage for today.
+[00:30:30.600 --> 00:30:34.600]   The first part of this, as you guys are very familiar
+[00:30:34.600 --> 00:30:37.600]   with this by now, it's just a review
+[00:30:37.600 --> 00:30:40.600]   of what you guys prepared for the five verses.
+[00:30:40.600 --> 00:30:43.600]   You guys know that this time is not for us to learn,
+[00:30:43.600 --> 00:30:46.600]   it's for us to share what we've learned at home.
+[00:30:46.600 --> 00:30:49.600]   So you're gonna share the stuff that you prepared
+[00:30:49.600 --> 00:30:52.600]   at home, those five verses, and then at the end,
+[00:30:52.600 --> 00:30:54.600]   if you have a little bit of time,
+[00:30:54.600 --> 00:30:57.600]   you're gonna be talking about just the reality
+[00:30:57.600 --> 00:30:59.600]   of when this happens to us.
+[00:30:59.600 --> 00:31:00.600]   When are you reviled?
+[00:31:00.600 --> 00:31:02.600]   When do you want to return evil for evil?
+[00:31:02.600 --> 00:31:05.600]   And then how do we die to those desires
+[00:31:05.600 --> 00:31:07.600]   that are in our flesh?
+[00:31:07.600 --> 00:31:09.600]   So take some time to do that.
+[00:31:09.600 --> 00:31:13.600]   And at 8.20, we'll come back and do our wrap-up.
+[00:31:13.600 --> 00:31:14.600]   All right?
+[00:31:14.600 --> 00:31:17.600]   (audience chattering)
+[00:31:18.600 --> 00:31:19.600]   (clears throat)
+[00:31:19.600 --> 00:31:22.600]   (audience chattering)
+[00:31:23.600 --> 00:31:26.600]   (audience chattering)
+[00:31:27.600 --> 00:31:30.600]   (audience chattering)
+[00:31:30.600 --> 00:31:42.600]   (audience chattering)
+[00:31:42.600 --> 00:31:51.600]   (audience chattering)
+[00:31:52.600 --> 00:31:55.600]   (audience chattering)
+[00:31:55.600 --> 00:32:04.600]   (audience chattering)
+[00:32:04.600 --> 00:32:18.600]   (audience chattering)
+[00:32:18.600 --> 00:32:21.600]   (audience chattering)
+[00:32:21.600 --> 00:32:31.600]   (audience chattering)
+[00:32:31.600 --> 00:32:41.600]   (audience chattering)
+[00:32:41.600 --> 00:32:44.600]   (audience chattering)
+[00:32:44.600 --> 00:33:02.600]   (audience chattering)
+[00:33:02.600 --> 00:33:05.600]   (audience chattering)
+[00:33:05.600 --> 00:33:12.600]   (audience chattering)
+[00:33:12.600 --> 00:33:23.600]   (audience chattering)
+[00:33:31.600 --> 00:33:34.600]   (audience chattering)
+[00:33:34.600 --> 00:33:52.600]   (audience laughing)
+[00:33:52.600 --> 00:33:55.600]   (audience chattering)
+[00:33:56.600 --> 00:33:59.600]   (audience chattering)
+[00:33:59.600 --> 00:34:02.600]   (audience chattering)
+[00:34:02.600 --> 00:34:05.600]   (audience chattering)
+[00:34:05.600 --> 00:34:23.600]   (audience chattering)
+[00:34:24.600 --> 00:34:27.600]   (audience chattering)
+[00:34:27.600 --> 00:34:42.600]   (audience chattering)
+[00:34:43.600 --> 00:34:46.600]   (audience chattering)
+[00:34:46.600 --> 00:35:09.600]   (audience chattering)
+[00:35:09.600 --> 00:35:12.600]   (audience chattering)
+[00:35:37.600 --> 00:35:40.600]   (audience chattering)
+[00:35:40.600 --> 00:35:53.600]   (audience chattering)
+[00:35:54.600 --> 00:35:57.600]   (audience chattering)
+[00:36:21.600 --> 00:36:24.600]   (audience chattering)
+[00:36:24.600 --> 00:36:41.600]   (audience chattering)
+[00:36:41.600 --> 00:36:44.600]   (audience chattering)
+[00:36:44.600 --> 00:37:05.600]   (audience chattering)
+[00:37:06.600 --> 00:37:09.600]   (audience chattering)
+[00:37:09.600 --> 00:37:18.600]   (audience chattering)
+[00:37:18.600 --> 00:37:21.600]   (audience chattering)
+[00:37:22.600 --> 00:37:25.600]   (audience chattering)
+[00:37:25.600 --> 00:37:28.600]   (audience chattering)
+[00:37:29.600 --> 00:37:32.600]   (audience chattering)
+[00:37:32.600 --> 00:37:41.600]   (audience chattering)
+[00:37:41.600 --> 00:37:53.600]   (audience chattering)
+[00:37:53.600 --> 00:37:56.600]   (audience chattering)
+[00:37:56.600 --> 00:38:20.600]   (audience laughing)
+[00:38:20.600 --> 00:38:23.600]   (audience chattering)
+[00:38:49.600 --> 00:38:52.600]   (audience chattering)
+[00:38:52.600 --> 00:38:57.600]   (audience laughing)
+[00:38:57.600 --> 00:39:04.600]   (audience chattering)
+[00:39:04.600 --> 00:39:10.600]   (audience chattering)
+[00:39:10.600 --> 00:39:13.600]   (audience chattering)
+[00:39:13.600 --> 00:39:16.600]   (audience chattering)
+[00:39:17.600 --> 00:39:20.600]   (audience chattering)
+[00:39:20.600 --> 00:39:28.600]   (audience chattering)
+[00:39:28.600 --> 00:39:42.600]   (audience chattering)
+[00:39:43.600 --> 00:39:46.600]   (audience chattering)
+[00:39:46.600 --> 00:40:02.600]   (audience laughing)
+[00:40:10.600 --> 00:40:13.600]   (audience chattering)
+[00:40:13.600 --> 00:40:16.600]   (audience chattering)
+[00:40:17.600 --> 00:40:20.600]   (audience chattering)
+[00:40:20.600 --> 00:40:23.600]   (audience chattering)
+[00:40:23.600 --> 00:40:26.600]   (audience chattering)
+[00:40:27.600 --> 00:40:30.600]   (audience chattering)
+[00:40:31.600 --> 00:40:34.600]   (audience chattering)
+[00:40:34.600 --> 00:40:40.600]   (audience chattering)
+[00:40:40.600 --> 00:40:48.600]   (audience chattering)
+[00:40:48.600 --> 00:40:51.600]   (audience chattering)
+[00:40:51.600 --> 00:40:54.600]   (audience chattering)
+[00:40:54.600 --> 00:40:57.600]   (audience chattering)
+[00:40:58.600 --> 00:41:01.600]   (audience chattering)
+[00:41:01.600 --> 00:41:07.600]   (audience chattering)
+[00:41:07.600 --> 00:41:14.600]   (audience chattering)
+[00:41:14.600 --> 00:41:20.600]   (audience chattering)
+[00:41:20.600 --> 00:41:23.600]   (audience chattering)
+[00:41:23.600 --> 00:41:32.600]   (audience chattering)
+[00:41:32.600 --> 00:41:38.600]   (audience chattering)
+[00:41:38.600 --> 00:41:47.600]   (audience chattering)
+[00:41:48.600 --> 00:41:51.600]   (audience chattering)
+[00:41:51.600 --> 00:42:07.600]   (audience laughing)
+[00:42:07.600 --> 00:42:12.600]   (audience chattering)
+[00:42:13.600 --> 00:42:16.600]   (audience chattering)
+[00:42:16.600 --> 00:42:28.600]   (audience chattering)
+[00:42:28.600 --> 00:42:31.600]   (audience chattering)
+[00:42:31.600 --> 00:42:34.600]   (audience chattering)
+[00:42:34.600 --> 00:42:37.600]   (audience chattering)
+[00:42:38.600 --> 00:42:41.600]   (audience chattering)
+[00:42:42.600 --> 00:42:45.600]   (audience chattering)
+[00:42:45.600 --> 00:42:55.600]   (audience chattering)
+[00:42:55.600 --> 00:43:05.600]   (audience chattering)
+[00:43:05.600 --> 00:43:08.600]   (audience chattering)
+[00:43:08.600 --> 00:43:15.600]   (audience chattering)
+[00:43:15.600 --> 00:43:27.600]   (audience chattering)
+[00:43:28.600 --> 00:43:31.600]   (audience chattering)
+[00:43:31.600 --> 00:43:39.600]   (audience chattering)
+[00:43:39.600 --> 00:43:44.600]   (audience chattering)
+[00:43:44.600 --> 00:43:55.600]   (audience chattering)
+[00:43:55.600 --> 00:43:58.600]   (audience chattering)
+[00:43:58.600 --> 00:44:05.600]   (audience chattering)
+[00:44:05.600 --> 00:44:16.600]   (audience chattering)
+[00:44:17.600 --> 00:44:20.600]   (audience chattering)
+[00:44:20.600 --> 00:44:26.600]   (audience chattering)
+[00:44:26.600 --> 00:44:36.600]   (audience chattering)
+[00:44:36.600 --> 00:44:39.600]   (audience chattering)
+[00:44:39.600 --> 00:44:49.600]   (audience chattering)
+[00:44:49.600 --> 00:44:59.600]   (audience chattering)
+[00:44:59.600 --> 00:45:02.600]   (audience chattering)
+[00:45:02.600 --> 00:45:09.600]   (audience chattering)
+[00:45:09.600 --> 00:45:16.600]   (audience chattering)
+[00:45:16.600 --> 00:45:27.600]   (audience chattering)
+[00:45:28.600 --> 00:45:31.600]   (audience chattering)
+[00:45:31.600 --> 00:45:37.600]   (audience chattering)
+[00:45:37.600 --> 00:45:51.600]   (audience chattering)
+[00:45:51.600 --> 00:45:54.600]   (audience chattering)
+[00:45:54.600 --> 00:46:05.600]   (audience chattering)
+[00:46:05.600 --> 00:46:14.600]   (audience chattering)
+[00:46:15.600 --> 00:46:18.600]   (audience chattering)
+[00:46:18.600 --> 00:46:27.600]   (audience chattering)
+[00:46:27.600 --> 00:46:38.600]   (audience chattering)
+[00:46:38.600 --> 00:46:41.600]   (audience chattering)
+[00:46:41.600 --> 00:46:56.600]   (audience chattering)
+[00:46:57.600 --> 00:47:00.600]   (audience chattering)
+[00:47:00.600 --> 00:47:09.600]   (audience chattering)
+[00:47:09.600 --> 00:47:12.600]   (audience chattering)
+[00:47:12.600 --> 00:47:23.600]   (audience chattering)
+[00:47:23.600 --> 00:47:34.600]   (audience chattering)
+[00:47:34.600 --> 00:47:37.600]   (audience chattering)
+[00:47:37.600 --> 00:47:47.600]   (audience chattering)
+[00:47:47.600 --> 00:47:57.600]   (audience chattering)
+[00:47:58.600 --> 00:48:01.600]   (audience chattering)
+[00:48:01.600 --> 00:48:10.600]   (audience chattering)
+[00:48:10.600 --> 00:48:19.600]   (audience chattering)
+[00:48:19.600 --> 00:48:22.600]   (audience chattering)
+[00:48:22.600 --> 00:48:41.600]   (audience chattering)
+[00:48:41.600 --> 00:48:44.600]   (audience chattering)
+[00:48:44.600 --> 00:48:51.600]   (audience chattering)
+[00:48:51.600 --> 00:49:00.600]   (audience chattering)
+[00:49:08.600 --> 00:49:11.600]   (audience chattering)
+[00:49:11.600 --> 00:49:22.600]   (audience chattering)
+[00:49:22.600 --> 00:49:34.600]   (audience chattering)
+[00:49:35.600 --> 00:49:38.600]   (audience chattering)
+[00:49:38.600 --> 00:49:47.600]   (audience chattering)
+[00:49:47.600 --> 00:49:58.600]   (audience chattering)
+[00:49:58.600 --> 00:50:01.600]   (audience chattering)
+[00:50:01.600 --> 00:50:08.600]   (audience chattering)
+[00:50:08.600 --> 00:50:21.600]   (audience chattering)
+[00:50:21.600 --> 00:50:24.600]   (audience chattering)
+[00:50:24.600 --> 00:50:38.600]   (audience chattering)
+[00:50:38.600 --> 00:50:41.600]   (audience chattering)
+[00:50:41.600 --> 00:51:00.600]   (audience chattering)
+[00:51:01.600 --> 00:51:04.600]   (audience chattering)
+[00:51:04.600 --> 00:51:14.600]   (audience chattering)
+[00:51:14.600 --> 00:51:21.600]   (audience chattering)
+[00:51:21.600 --> 00:51:24.600]   (audience chattering)
+[00:51:24.600 --> 00:51:44.600]   (audience chattering)
+[00:51:44.600 --> 00:51:47.600]   (audience chattering)
+[00:51:47.600 --> 00:52:04.600]   (audience chattering)
+[00:52:04.600 --> 00:52:07.600]   (audience chattering)
+[00:52:07.600 --> 00:52:21.600]   (audience chattering)
+[00:52:21.600 --> 00:52:24.600]   (audience chattering)
+[00:52:24.600 --> 00:52:50.600]   (audience laughing)
+[00:52:50.600 --> 00:52:53.600]   (audience chattering)
+[00:52:53.600 --> 00:53:00.600]   (audience chattering)
+[00:53:00.600 --> 00:53:11.600]   (audience chattering)
+[00:53:11.600 --> 00:53:14.600]   (audience chattering)
+[00:53:14.600 --> 00:53:32.600]   (audience laughing)
+[00:53:32.600 --> 00:53:37.600]   (audience chattering)
+[00:53:37.600 --> 00:53:40.600]   (audience chattering)
+[00:53:40.600 --> 00:53:55.600]   (audience laughing)
+[00:54:05.600 --> 00:54:08.600]   (audience chattering)
+[00:54:08.600 --> 00:54:11.600]   (audience chattering)
+[00:54:11.600 --> 00:54:14.600]   (audience chattering)
+[00:54:14.600 --> 00:54:17.600]   (audience chattering)
+[00:54:43.600 --> 00:54:46.600]   (audience chattering)
+[00:54:46.600 --> 00:54:49.600]   (audience chattering)
+[00:54:49.600 --> 00:54:52.600]   (audience chattering)
+[00:54:52.600 --> 00:54:55.600]   (audience chattering)
+[00:54:55.600 --> 00:54:58.600]   (audience chattering)
+[00:54:58.600 --> 00:55:01.600]   (audience chattering)
+[00:55:02.600 --> 00:55:05.600]   (audience chattering)
+[00:55:05.600 --> 00:55:08.600]   (audience chattering)
+[00:55:08.600 --> 00:55:11.600]   (audience chattering)
+[00:55:11.600 --> 00:55:30.600]   (audience chattering)
+[00:55:30.600 --> 00:55:33.600]   (audience chattering)
+[00:55:33.600 --> 00:55:43.600]   (audience chattering)
+[00:55:57.600 --> 00:56:00.600]   (audience chattering)
+[00:56:00.600 --> 00:56:03.600]   (audience chattering)
+[00:56:03.600 --> 00:56:10.600]   (audience chattering)
+[00:56:10.600 --> 00:56:23.600]   (audience chattering)
+[00:56:23.600 --> 00:56:26.600]   (audience chattering)
+[00:56:26.600 --> 00:56:46.600]   (audience chattering)
+[00:56:46.600 --> 00:56:49.600]   (audience chattering)
+[00:56:49.600 --> 00:57:13.600]   (audience laughing)
+[00:57:13.600 --> 00:57:16.600]   (audience chattering)
+[00:57:16.600 --> 00:57:19.600]   (audience chattering)
+[00:57:19.600 --> 00:57:22.600]   (audience chattering)
+[00:57:22.600 --> 00:57:35.600]   (audience chattering)
+[00:57:35.600 --> 00:57:38.600]   (audience chattering)
+[00:57:38.600 --> 00:57:41.600]   (audience chattering)
+[00:57:41.600 --> 00:57:44.600]   (audience chattering)
+[00:57:44.600 --> 00:57:47.600]   (audience chattering)
+[00:57:47.600 --> 00:57:50.600]   (audience chattering)
+[00:57:50.600 --> 00:57:53.600]   (audience chattering)
+[00:57:53.600 --> 00:57:56.600]   (audience chattering)
+[00:57:57.600 --> 00:58:00.600]   (audience chattering)
+[00:58:00.600 --> 00:58:23.600]   (audience chattering)
+[00:58:23.600 --> 00:58:26.600]   (audience chattering)
+[00:58:27.600 --> 00:58:30.600]   (audience chattering)
+[00:58:30.600 --> 00:58:33.600]   (audience chattering)
+[00:58:33.600 --> 00:58:36.600]   (audience chattering)
+[00:58:36.600 --> 00:58:39.600]   (audience chattering)
+[00:58:39.600 --> 00:58:42.600]   (audience chattering)
+[00:58:42.600 --> 00:58:45.600]   (audience chattering)
+[00:58:45.600 --> 00:58:48.600]   (audience chattering)
+[00:58:48.600 --> 00:58:51.600]   (audience chattering)
+[00:58:51.600 --> 00:58:54.600]   (audience chattering)
+[00:58:55.600 --> 00:58:58.600]   (audience chattering)
+[00:58:58.600 --> 00:59:07.600]   (audience chattering)
+[00:59:07.600 --> 00:59:17.600]   (audience chattering)
+[00:59:18.600 --> 00:59:21.600]   (audience chattering)
+[00:59:22.600 --> 00:59:25.600]   (audience chattering)
+[00:59:25.600 --> 00:59:33.600]   (audience chattering)
+[00:59:33.600 --> 00:59:39.600]   (audience chattering)
+[00:59:39.600 --> 00:59:50.600]   (audience chattering)
+[00:59:51.600 --> 00:59:54.600]   (audience chattering)
+[00:59:54.600 --> 01:00:05.600]   (audience laughing)
+[01:00:05.600 --> 01:00:08.600]   (audience chattering)
+[01:00:08.600 --> 01:00:19.600]   (audience laughing)
+[01:00:19.600 --> 01:00:22.600]   (audience chattering)
+[01:00:23.600 --> 01:00:26.600]   (audience chattering)
+[01:00:27.600 --> 01:00:30.600]   (audience chattering)
+[01:00:30.600 --> 01:00:39.600]   (audience chattering)
+[01:00:39.600 --> 01:00:51.600]   (audience chattering)
+[01:00:52.600 --> 01:00:55.600]   (audience chattering)
+[01:00:55.600 --> 01:01:01.600]   (audience chattering)
+[01:01:01.600 --> 01:01:14.600]   (audience chattering)
+[01:01:15.600 --> 01:01:18.600]   (audience chattering)
+[01:01:18.600 --> 01:01:27.600]   (audience chattering)
+[01:01:27.600 --> 01:01:37.600]   (audience chattering)
+[01:01:38.600 --> 01:01:41.600]   (audience chattering)
+[01:01:41.600 --> 01:01:50.600]   (audience chattering)
+[01:01:50.600 --> 01:02:00.600]   (audience chattering)
+[01:02:00.600 --> 01:02:03.600]   (audience chattering)
+[01:02:03.600 --> 01:02:19.600]   (audience chattering)
+[01:02:19.600 --> 01:02:22.600]   (audience chattering)
+[01:02:22.600 --> 01:02:42.600]   (audience chattering)
+[01:02:42.600 --> 01:02:45.600]   (audience chattering)
+[01:02:45.600 --> 01:02:48.600]   (audience chattering)
+[01:02:48.600 --> 01:02:51.600]   (audience chattering)
+[01:02:52.600 --> 01:02:55.600]   (audience chattering)
+[01:02:55.600 --> 01:02:58.600]   (audience chattering)
+[01:02:58.600 --> 01:03:05.600]   (audience chattering)
+[01:03:05.600 --> 01:03:19.600]   (audience chattering)
+[01:03:20.600 --> 01:03:23.600]   (audience chattering)
+[01:03:23.600 --> 01:03:37.600]   (audience chattering)
+[01:03:38.600 --> 01:03:41.600]   (audience chattering)
+[01:03:41.600 --> 01:03:54.600]   (audience chattering)
+[01:03:54.600 --> 01:03:57.600]   (audience chattering)
+[01:03:57.600 --> 01:04:08.600]   (audience chattering)
+[01:04:09.600 --> 01:04:12.600]   (audience chattering)
+[01:04:12.600 --> 01:04:31.600]   (audience chattering)
+[01:04:31.600 --> 01:04:34.600]   (audience chattering)
+[01:04:34.600 --> 01:04:54.600]   (audience chattering)
+[01:04:55.600 --> 01:04:58.600]   (audience chattering)
+[01:04:58.600 --> 01:05:14.600]   (audience laughing)
+[01:05:14.600 --> 01:05:17.600]   (audience chattering)
+[01:05:17.600 --> 01:05:20.600]   (audience chattering)
+[01:05:20.600 --> 01:05:23.600]   (audience chattering)
+[01:05:24.600 --> 01:05:27.600]   (audience chattering)
+[01:05:27.600 --> 01:05:30.600]   (audience chattering)
+[01:05:31.600 --> 01:05:34.600]   (audience chattering)
+[01:05:34.600 --> 01:05:37.600]   (audience chattering)
+[01:05:37.600 --> 01:05:49.600]   (audience chattering)
+[01:05:49.600 --> 01:05:52.600]   (audience chattering)
+[01:05:52.600 --> 01:06:02.600]   (audience chattering)
+[01:06:02.600 --> 01:06:12.600]   (audience chattering)
+[01:06:13.600 --> 01:06:16.600]   (audience chattering)
+[01:06:16.600 --> 01:06:27.600]   (audience chattering)
+[01:06:40.600 --> 01:06:43.600]   (audience chattering)
+[01:06:43.600 --> 01:06:50.600]   (audience chattering)
+[01:06:50.600 --> 01:07:03.600]   (audience chattering)
+[01:07:04.600 --> 01:07:07.600]   (audience chattering)
+[01:07:07.600 --> 01:07:18.600]   (audience chattering)
+[01:07:18.600 --> 01:07:21.600]   (audience chattering)
+[01:07:21.600 --> 01:07:32.600]   (audience chattering)
+[01:07:47.600 --> 01:07:50.600]   (audience chattering)
+[01:07:50.600 --> 01:07:53.600]   (audience chattering)
+[01:07:54.600 --> 01:07:57.600]   (audience chattering)
+[01:07:58.600 --> 01:08:01.600]   (audience chattering)
+[01:08:01.600 --> 01:08:04.600]   (audience chattering)
+[01:08:05.600 --> 01:08:08.600]   (audience chattering)
+[01:08:08.600 --> 01:08:11.600]   (audience chattering)
+[01:08:11.600 --> 01:08:14.600]   (audience chattering)
+[01:08:15.600 --> 01:08:18.600]   (audience chattering)
+[01:08:18.600 --> 01:08:24.600]   (audience chattering)
+[01:08:24.600 --> 01:08:30.600]   (audience chattering)
+[01:08:30.600 --> 01:08:37.600]   (audience chattering)
+[01:08:37.600 --> 01:08:40.600]   (audience chattering)
+[01:08:40.600 --> 01:08:49.600]   (audience chattering)
+[01:08:49.600 --> 01:09:02.600]   (audience chattering)
+[01:09:03.600 --> 01:09:06.600]   (audience chattering)
+[01:09:06.600 --> 01:09:20.600]   (audience chattering)
+[01:09:20.600 --> 01:09:23.600]   (audience chattering)
+[01:09:23.600 --> 01:09:30.600]   (audience chattering)
+[01:09:30.600 --> 01:09:42.600]   (audience chattering)
+[01:09:42.600 --> 01:09:45.600]   (audience chattering)
+[01:09:45.600 --> 01:10:01.600]   (audience chattering)
+[01:10:01.600 --> 01:10:04.600]   (audience chattering)
+[01:10:04.600 --> 01:10:21.600]   (audience chattering)
+[01:10:21.600 --> 01:10:24.600]   (audience chattering)
+[01:10:24.600 --> 01:10:31.600]   (audience chattering)
+[01:10:31.600 --> 01:10:43.600]   (audience chattering)
+[01:10:43.600 --> 01:10:46.600]   (audience chattering)
+[01:10:46.600 --> 01:11:02.600]   (audience chattering)
+[01:11:02.600 --> 01:11:05.600]   (audience chattering)
+[01:11:05.600 --> 01:11:16.600]   (audience chattering)
+[01:11:17.600 --> 01:11:20.600]   (audience chattering)
+[01:11:20.600 --> 01:11:38.600]   (audience chattering)
+[01:11:39.600 --> 01:11:42.600]   (audience chattering)
+[01:11:42.600 --> 01:11:57.600]   (audience chattering)
+[01:11:57.600 --> 01:12:00.600]   (audience chattering)
+[01:12:01.600 --> 01:12:04.600]   (audience chattering)
+[01:12:04.600 --> 01:12:07.600]   (audience chattering)
+[01:12:08.600 --> 01:12:11.600]   (audience chattering)
+[01:12:11.600 --> 01:12:20.600]   (audience chattering)
+[01:12:20.600 --> 01:12:34.600]   (audience chattering)
+[01:12:34.600 --> 01:12:37.600]   (audience chattering)
+[01:12:37.600 --> 01:12:50.600]   (audience chattering)
+[01:12:51.600 --> 01:12:54.600]   (audience chattering)
+[01:12:54.600 --> 01:12:57.600]   (audience chattering)
+[01:12:57.600 --> 01:13:07.600]   (audience chattering)
+[01:13:07.600 --> 01:13:10.600]   (audience chattering)
+[01:13:10.600 --> 01:13:20.600]   (audience chattering)
+[01:13:20.600 --> 01:13:30.600]   (audience chattering)
+[01:13:31.600 --> 01:13:34.600]   (audience chattering)
+[01:13:34.600 --> 01:13:46.600]   (audience chattering)
+[01:13:46.600 --> 01:13:49.600]   (audience chattering)
+[01:13:49.600 --> 01:13:56.600]   (audience chattering)
+[01:13:56.600 --> 01:14:08.600]   (audience chattering)
+[01:14:08.600 --> 01:14:11.600]   (audience chattering)
+[01:14:11.600 --> 01:14:23.600]   (audience chattering)
+[01:14:23.600 --> 01:14:31.600]   (audience chattering)
+[01:14:31.600 --> 01:14:34.600]   (audience chattering)
+[01:14:34.600 --> 01:14:55.600]   (audience chattering)
+[01:14:55.600 --> 01:14:58.600]   (audience chattering)
+[01:14:58.600 --> 01:15:15.600]   (audience chattering)
+[01:15:16.600 --> 01:15:19.600]   (audience chattering)
+[01:15:19.600 --> 01:15:28.600]   (audience chattering)
+[01:15:29.600 --> 01:15:32.600]   (audience chattering)
+[01:15:32.600 --> 01:15:51.600]   (audience chattering)
+[01:15:51.600 --> 01:15:54.600]   (audience chattering)
+[01:15:54.600 --> 01:16:08.600]   (audience chattering)
+[01:16:08.600 --> 01:16:11.600]   (audience chattering)
+[01:16:11.600 --> 01:16:31.600]   (audience chattering)
+[01:16:31.600 --> 01:16:34.600]   (audience chattering)
+[01:16:34.600 --> 01:16:41.600]   (audience chattering)
+[01:16:41.600 --> 01:16:50.600]   (audience chattering)
+[01:16:51.600 --> 01:16:54.600]   (audience chattering)
+[01:16:54.600 --> 01:17:07.600]   (audience chattering)
+[01:17:07.600 --> 01:17:10.600]   (audience chattering)
+[01:17:10.600 --> 01:17:22.600]   (audience chattering)
+[01:17:22.600 --> 01:17:25.600]   (audience chattering)
+[01:17:25.600 --> 01:17:49.600]   (audience laughing)
+[01:17:49.600 --> 01:17:52.600]   (audience chattering)
+[01:17:52.600 --> 01:17:55.600]   (audience chattering)
+[01:17:55.600 --> 01:17:58.600]   (audience chattering)
+[01:17:58.600 --> 01:18:01.600]   (audience chattering)
+[01:18:01.600 --> 01:18:04.600]   (audience chattering)
+[01:18:04.600 --> 01:18:07.600]   (audience chattering)
+[01:18:08.600 --> 01:18:11.600]   (audience chattering)
+[01:18:12.600 --> 01:18:15.600]   (audience chattering)
+[01:18:38.600 --> 01:18:41.600]   (audience chattering)
+[01:18:42.600 --> 01:18:45.600]   (audience chattering)
+[01:19:10.600 --> 01:19:13.600]   (audience chattering)
+[01:19:13.600 --> 01:19:16.600]   (audience chattering)
+[01:19:16.600 --> 01:19:19.600]   (audience chattering)
+[01:19:19.600 --> 01:19:22.600]   (audience chattering)
+[01:19:23.600 --> 01:19:26.600]   (audience chattering)
+[01:19:26.600 --> 01:19:29.600]   (audience chattering)
+[01:19:30.600 --> 01:19:33.600]   (audience chattering)
+[01:19:33.600 --> 01:19:36.600]   (audience chattering)
+[01:20:02.600 --> 01:20:05.600]   (audience chattering)
+[01:20:05.600 --> 01:20:08.600]   (audience chattering)
+[01:20:09.600 --> 01:20:12.600]   (audience chattering)
+[01:20:12.600 --> 01:20:15.600]   (audience chattering)
+[01:20:16.600 --> 01:20:19.600]   (audience chattering)
+[01:20:19.600 --> 01:20:28.600]   (audience chattering)
+[01:20:28.600 --> 01:20:37.600]   (audience chattering)
+[01:20:37.600 --> 01:20:40.600]   (audience chattering)
+[01:20:40.600 --> 01:20:58.600]   (audience chattering)
+[01:20:58.600 --> 01:21:01.600]   (audience chattering)
+[01:21:01.600 --> 01:21:04.600]   (audience chattering)
+[01:21:04.600 --> 01:21:07.600]   (audience chattering)
+[01:21:07.600 --> 01:21:10.600]   (audience chattering)
+[01:21:11.600 --> 01:21:14.600]   (audience chattering)
+[01:21:14.600 --> 01:21:17.600]   (audience chattering)
+[01:21:42.600 --> 01:21:45.600]   (audience chattering)
+[01:21:45.600 --> 01:21:48.600]   (audience chattering)
+[01:21:48.600 --> 01:21:51.600]   (audience chattering)
+[01:21:52.600 --> 01:21:55.600]   (audience chattering)
+[01:21:55.600 --> 01:21:58.600]   (audience chattering)
+[01:22:23.600 --> 01:22:26.600]   (audience chattering)
+[01:22:26.600 --> 01:22:29.600]   (audience chattering)
+[01:22:29.600 --> 01:22:32.600]   (audience chattering)
+[01:22:32.600 --> 01:22:35.600]   (audience chattering)
+[01:22:35.600 --> 01:22:38.600]   (audience chattering)
+[01:22:38.600 --> 01:22:47.600]   (audience chattering)
+[01:22:47.600 --> 01:22:58.600]   (audience chattering)
+[01:22:58.600 --> 01:23:01.600]   (audience chattering)
+[01:23:01.600 --> 01:23:18.600]   (audience chattering)
+[01:23:18.600 --> 01:23:21.600]   (audience chattering)
+[01:23:21.600 --> 01:23:37.600]   (audience chattering)
+[01:23:37.600 --> 01:23:40.600]   (audience chattering)
+[01:23:41.600 --> 01:23:44.600]   (audience chattering)
+[01:24:09.600 --> 01:24:12.600]   (audience chattering)
+[01:24:12.600 --> 01:24:15.600]   (audience chattering)
+[01:24:15.600 --> 01:24:18.600]   (audience chattering)
+[01:24:18.600 --> 01:24:21.600]   (audience chattering)
+[01:24:21.600 --> 01:24:36.600]   (audience chattering)
+[01:24:47.600 --> 01:24:50.600]   (audience chattering)
+[01:24:50.600 --> 01:25:04.600]   (audience chattering)
+[01:25:04.600 --> 01:25:07.600]   (audience chattering)
+[01:25:08.600 --> 01:25:11.600]   (audience chattering)
+[01:25:35.600 --> 01:25:38.600]   (audience chattering)
+[01:25:38.600 --> 01:25:55.600]   (audience laughing)
+[01:25:55.600 --> 01:25:58.600]   (audience chattering)
+[01:25:58.600 --> 01:26:01.600]   (audience chattering)
+[01:26:01.600 --> 01:26:04.600]   (audience chattering)
+[01:26:04.600 --> 01:26:07.600]   (audience chattering)
+[01:26:07.600 --> 01:26:10.600]   (audience chattering)
+[01:26:10.600 --> 01:26:13.600]   (audience chattering)
+[01:26:14.600 --> 01:26:17.600]   (audience chattering)
+[01:26:17.600 --> 01:26:20.600]   (audience chattering)
+[01:26:20.600 --> 01:26:23.600]   (audience chattering)
+[01:26:24.600 --> 01:26:27.600]   (audience chattering)
+[01:26:27.600 --> 01:26:41.600]   (audience chattering)
+[01:26:41.600 --> 01:26:44.600]   (audience chattering)
+[01:26:44.600 --> 01:27:09.600]   (audience laughing)
+[01:27:10.600 --> 01:27:13.600]   (audience chattering)
+[01:27:13.600 --> 01:27:16.600]   (audience chattering)
+[01:27:16.600 --> 01:27:19.600]   (audience chattering)
+[01:27:19.600 --> 01:27:22.600]   (audience chattering)
+[01:27:22.600 --> 01:27:25.600]   (audience chattering)
+[01:27:25.600 --> 01:27:28.600]   (audience chattering)
+[01:27:28.600 --> 01:27:31.600]   (audience chattering)
+[01:27:31.600 --> 01:27:34.600]   (audience chattering)
+[01:27:35.600 --> 01:27:38.600]   (audience chattering)
+[01:27:38.600 --> 01:27:44.600]   (audience chattering)
+[01:27:44.600 --> 01:27:55.600]   (audience chattering)
+[01:27:55.600 --> 01:27:58.600]   (audience chattering)
+[01:27:58.600 --> 01:28:08.600]   (audience chattering)
+[01:28:08.600 --> 01:28:22.600]   (audience chattering)
+[01:28:23.600 --> 01:28:26.600]   (audience chattering)
+[01:28:26.600 --> 01:28:40.600]   (audience chattering)
+[01:28:50.600 --> 01:28:52.600]   - All right, I'm gonna give you about 30 seconds
+[01:28:52.600 --> 01:28:53.600]   to wrap it up.
+[01:28:53.600 --> 01:29:00.600]   Beatrice Chung, you can wrap up your thought.
+[01:29:00.600 --> 01:29:05.600]   (audience chattering)
+[01:29:06.600 --> 01:29:09.600]   (audience chattering)
+[01:29:09.600 --> 01:29:27.600]   All right, I'm gonna turn your attention
+[01:29:27.600 --> 01:29:30.600]   to the screen up here, and we're gonna review a verse
+[01:29:30.600 --> 01:29:33.600]   that we looked at a few weeks back.
+[01:29:34.600 --> 01:29:37.600]   And this is our identity in Christ, okay?
+[01:29:37.600 --> 01:29:40.600]   It says, "But you are a chosen race,
+[01:29:40.600 --> 01:29:43.600]   "a royal priesthood, a holy nation,
+[01:29:43.600 --> 01:29:46.600]   "a people for God's own possession,
+[01:29:46.600 --> 01:29:50.600]   "so that you may proclaim the excellencies of him
+[01:29:50.600 --> 01:29:54.600]   "who has called you out of darkness
+[01:29:54.600 --> 01:29:56.600]   "into his marvelous light."
+[01:29:56.600 --> 01:29:59.600]   What a beautiful, nice verse, right?
+[01:30:02.600 --> 01:30:05.600]   How do you proclaim his excellencies?
+[01:30:05.600 --> 01:30:10.600]   What is that?
+[01:30:10.600 --> 01:30:15.600]   In a hostile environment,
+[01:30:15.600 --> 01:30:21.600]   in a time where the Christian faith is hated,
+[01:30:21.600 --> 01:30:25.600]   how do you proclaim the excellencies of him
+[01:30:25.600 --> 01:30:28.600]   who called you out of darkness and into his marvelous light?
+[01:30:28.600 --> 01:30:31.600]   The word call is very important.
+[01:30:31.600 --> 01:30:32.600]   He's called us this.
+[01:30:32.600 --> 01:30:35.600]   He's called us out of darkness, right?
+[01:30:35.600 --> 01:30:39.600]   And our jobs, proclaim his excellencies.
+[01:30:39.600 --> 01:30:42.600]   So how does a Christian go about doing this?
+[01:30:42.600 --> 01:30:46.600]   Do we go shout it from the rooftops?
+[01:30:46.600 --> 01:30:48.600]   Do we like badger people?
+[01:30:48.600 --> 01:30:52.600]   That's important.
+[01:30:52.600 --> 01:30:54.600]   And then verse 11 and 12, talking about
+[01:30:54.600 --> 01:30:56.600]   living good lives among the Gentiles.
+[01:30:56.600 --> 01:31:00.600]   Verse 13 talks about being subject, right?
+[01:31:00.600 --> 01:31:04.600]   To every human institution, being subject to the king,
+[01:31:04.600 --> 01:31:08.600]   to governors he sent, to bad masters.
+[01:31:08.600 --> 01:31:10.600]   And then next week we're gonna be looking at
+[01:31:10.600 --> 01:31:12.600]   husbands who are unbelieving,
+[01:31:12.600 --> 01:31:17.600]   wives implied who are a little bit difficult to live with.
+[01:31:17.600 --> 01:31:20.600]   How do we proclaim the excellencies?
+[01:31:20.600 --> 01:31:25.600]   And that's why today's passage is important.
+[01:31:25.600 --> 01:31:29.600]   Because we're not fighting fire with fire.
+[01:31:29.600 --> 01:31:30.600]   Okay?
+[01:31:30.600 --> 01:31:33.600]   Proclaiming the excellencies of Christ
+[01:31:33.600 --> 01:31:34.600]   who has called us out of darkness
+[01:31:34.600 --> 01:31:36.600]   into his wonderful light,
+[01:31:36.600 --> 01:31:40.600]   that's not just shouting it at people.
+[01:31:40.600 --> 01:31:45.600]   There's a lot of suffering
+[01:31:45.600 --> 01:31:47.600]   and submitting to that suffering
+[01:31:47.600 --> 01:31:51.600]   and not retaliating that's involved in this.
+[01:31:51.600 --> 01:31:54.600]   And so today, verse 21 to 25 is kind of the why.
+[01:31:54.600 --> 01:31:56.600]   Right?
+[01:31:57.600 --> 01:32:00.600]   The commands are surrounding this passage,
+[01:32:00.600 --> 01:32:03.600]   but this is kind of the example
+[01:32:03.600 --> 01:32:04.600]   that we're gonna be looking at.
+[01:32:04.600 --> 01:32:05.600]   So,
+[01:32:05.600 --> 01:32:11.600]   I added chapter two, verse 15,
+[01:32:11.600 --> 01:32:14.600]   and then I added chapter three, verse eight to nine,
+[01:32:14.600 --> 01:32:17.600]   'cause those are all contextually significant.
+[01:32:17.600 --> 01:32:19.600]   So this was today's passage,
+[01:32:19.600 --> 01:32:22.600]   but before this section,
+[01:32:22.600 --> 01:32:24.600]   I'm just gonna read verse 15 of chapter two.
+[01:32:24.600 --> 01:32:26.600]   "For such is the will of God
+[01:32:26.600 --> 01:32:27.600]   "that by doing right,
+[01:32:27.600 --> 01:32:29.600]   "you may silence the ignorance of foolish men."
+[01:32:29.600 --> 01:32:31.600]   And then chapter three, verse eight,
+[01:32:31.600 --> 01:32:33.600]   "To sum up, all of you be harmonious,
+[01:32:33.600 --> 01:32:35.600]   "empathetic, brotherly, kindhearted, humble in spirit,
+[01:32:35.600 --> 01:32:37.600]   "not returning evil for evil or insult for insult,
+[01:32:37.600 --> 01:32:38.600]   "but giving a blessing instead."
+[01:32:38.600 --> 01:32:40.600]   So similar to today's.
+[01:32:40.600 --> 01:32:43.600]   "For you were called for the very purpose
+[01:32:43.600 --> 01:32:45.600]   "that you might inherit a blessing."
+[01:32:45.600 --> 01:32:50.600]   The word call is pretty frequently used
+[01:32:50.600 --> 01:32:52.600]   in the book of Peter.
+[01:32:52.600 --> 01:32:53.600]   Okay?
+[01:32:53.600 --> 01:32:55.600]   You see it three times, I think, just in this.
+[01:32:55.600 --> 01:32:56.600]   Okay?
+[01:32:56.600 --> 01:32:58.600]   So the red bull, the first thing I did was,
+[01:32:58.600 --> 01:33:01.600]   those are the important words for me.
+[01:33:01.600 --> 01:33:04.600]   The yellow highlight, it's kind of the,
+[01:33:04.600 --> 01:33:06.600]   what I call God's call on the Christian.
+[01:33:06.600 --> 01:33:09.600]   I hear Christians today asking, like,
+[01:33:09.600 --> 01:33:11.600]   "I wanna know what God's calling is for my life."
+[01:33:11.600 --> 01:33:12.600]   Suffer!
+[01:33:12.600 --> 01:33:15.600]   Like, but that, ye, right?
+[01:33:15.600 --> 01:33:18.600]   You wanna know what God's will is for your life?
+[01:33:18.600 --> 01:33:19.600]   Do right.
+[01:33:19.600 --> 01:33:22.600]   Okay, so we're gonna be looking at this today.
+[01:33:22.600 --> 01:33:26.600]   The underlying part is the stuff that has been done
+[01:33:26.600 --> 01:33:28.600]   to the Christian, and the blue bull
+[01:33:28.600 --> 01:33:31.600]   is the example that Christ has set.
+[01:33:31.600 --> 01:33:33.600]   And so this is, just for me,
+[01:33:33.600 --> 01:33:37.600]   a visual organization of this passage.
+[01:33:37.600 --> 01:33:41.600]   Now, if you guys have noticed,
+[01:33:41.600 --> 01:33:45.600]   Isaiah 53 is pretty much everything that's quoted in here.
+[01:33:45.600 --> 01:33:48.600]   Raise, nod your heads if you actually noticed that, yeah.
+[01:33:48.600 --> 01:33:50.600]   It's Isaiah 53.
+[01:33:50.600 --> 01:33:55.600]   And the, follow the example,
+[01:33:55.600 --> 01:34:00.600]   chupahgramon, it literally means to trace,
+[01:34:00.600 --> 01:34:02.600]   and that's why you have that little thing there.
+[01:34:02.600 --> 01:34:04.600]   So this is what you're supposed to do.
+[01:34:04.600 --> 01:34:09.600]   This is gonna be the outline, and you trace it.
+[01:34:09.600 --> 01:34:12.600]   This is the pattern you're supposed to follow.
+[01:34:12.600 --> 01:34:15.600]   Christ left you this pattern,
+[01:34:15.600 --> 01:34:17.600]   so start getting used to this,
+[01:34:17.600 --> 01:34:19.600]   because your call to this,
+[01:34:19.600 --> 01:34:21.600]   this is your purpose, you're gonna follow it.
+[01:34:21.600 --> 01:34:24.600]   You're gonna live like Christ is his will for your life.
+[01:34:24.600 --> 01:34:29.600]   Okay, so Isaiah 53 is used,
+[01:34:29.600 --> 01:34:32.600]   but not in the order of Isaiah 53,
+[01:34:32.600 --> 01:34:35.600]   but it's in the kind of Jesus' road to the cross.
+[01:34:35.600 --> 01:34:37.600]   So the first little column,
+[01:34:37.600 --> 01:34:40.600]   I put the example that's been set,
+[01:34:40.600 --> 01:34:42.600]   or the steps, or the condition,
+[01:34:42.600 --> 01:34:44.600]   and then the quote in 1 Peter,
+[01:34:44.600 --> 01:34:48.600]   and then the part of Isaiah that's being quoted.
+[01:34:48.600 --> 01:34:50.600]   So the first part that we looked at today,
+[01:34:50.600 --> 01:34:52.600]   Christ committed no sin,
+[01:34:52.600 --> 01:34:54.600]   no deceit was found in his mouth.
+[01:34:54.600 --> 01:34:58.600]   Christ did not insult or threaten in return.
+[01:34:58.600 --> 01:35:02.600]   Those are things that we can kind of mimic.
+[01:35:02.600 --> 01:35:04.600]   True or false?
+[01:35:04.600 --> 01:35:06.600]   Yeah, okay.
+[01:35:06.600 --> 01:35:08.600]   Christ bore our sins on the tree,
+[01:35:08.600 --> 01:35:10.600]   now we can't mimic anymore.
+[01:35:10.600 --> 01:35:13.600]   Okay, but that's mentioned.
+[01:35:13.600 --> 01:35:15.600]   Why is that mentioned in there?
+[01:35:15.600 --> 01:35:17.600]   It starts out with, we're supposed to follow his example,
+[01:35:17.600 --> 01:35:20.600]   and then there's some things that we can't follow.
+[01:35:20.600 --> 01:35:22.600]   Okay?
+[01:35:22.600 --> 01:35:25.600]   By Christ's wounds we were healed.
+[01:35:25.600 --> 01:35:30.600]   Can I suffer for my non-Christian friend
+[01:35:30.600 --> 01:35:32.600]   and save him?
+[01:35:32.600 --> 01:35:34.600]   That's not mimicable.
+[01:35:34.600 --> 01:35:37.600]   And then the last section of today's passage
+[01:35:37.600 --> 01:35:39.600]   is we were straying like sheep,
+[01:35:39.600 --> 01:35:40.600]   and you know, Isaiah 53, 6,
+[01:35:40.600 --> 01:35:42.600]   that's one of the most memorized passages.
+[01:35:42.600 --> 01:35:43.600]   Like, we all like sheep have gone astray,
+[01:35:43.600 --> 01:35:44.600]   each of us to our own way,
+[01:35:44.600 --> 01:35:46.600]   but he has laid on him the iniquity of us all.
+[01:35:46.600 --> 01:35:48.600]   So this is all Isaiah 53.
+[01:35:48.600 --> 01:35:51.600]   And Isaiah 53 is famous for what?
+[01:35:51.600 --> 01:35:53.600]   The suffering servant.
+[01:35:53.600 --> 01:35:56.600]   So this is kind of the outline Peter is using
+[01:35:56.600 --> 01:36:00.600]   as our example that we're supposed to follow.
+[01:36:00.600 --> 01:36:03.600]   Is it high calling or low calling?
+[01:36:03.600 --> 01:36:05.600]   In some ways it's kind of a glorious calling,
+[01:36:05.600 --> 01:36:09.600]   but a pretty daunting and sucky one, right?
+[01:36:09.600 --> 01:36:15.600]   So here is what you and I
+[01:36:15.600 --> 01:36:18.600]   are called to do.
+[01:36:18.600 --> 01:36:21.600]   How many of you guys have ever asked this question,
+[01:36:21.600 --> 01:36:23.600]   what am I called to do?
+[01:36:23.600 --> 01:36:25.600]   Raise your hands if you, yeah.
+[01:36:25.600 --> 01:36:29.600]   So in 2009, my wife and I were in China.
+[01:36:29.600 --> 01:36:32.600]   We were supposed to be there for one year,
+[01:36:32.600 --> 01:36:35.600]   and we were wrestling with should we extend our stay,
+[01:36:35.600 --> 01:36:39.600]   because one year is too short, okay?
+[01:36:39.600 --> 01:36:42.600]   For any kind of effective ministry.
+[01:36:43.600 --> 01:36:46.600]   And so we were really wrestling,
+[01:36:46.600 --> 01:36:49.600]   and then the thought that dawned on me was,
+[01:36:49.600 --> 01:36:50.600]   the whole time I'm praying,
+[01:36:50.600 --> 01:36:52.600]   God, are you calling me to China?
+[01:36:52.600 --> 01:36:54.600]   Are you calling me to China?
+[01:36:54.600 --> 01:36:56.600]   Is what I was praying.
+[01:36:56.600 --> 01:36:58.600]   And then the thought that dawned on me was,
+[01:36:58.600 --> 01:37:01.600]   how about I should, maybe I should pray for the,
+[01:37:01.600 --> 01:37:03.600]   are you calling me to America?
+[01:37:03.600 --> 01:37:07.600]   So I would actually share that with people.
+[01:37:07.600 --> 01:37:09.600]   Like they would ask me, oh, do you feel called to China?
+[01:37:09.600 --> 01:37:12.600]   Then I would say, do you feel called to America?
+[01:37:12.600 --> 01:37:14.600]   No, the command is to go.
+[01:37:14.600 --> 01:37:17.600]   I should feel called to stay put.
+[01:37:17.600 --> 01:37:20.600]   So I'm wrestling with this, this word call.
+[01:37:20.600 --> 01:37:23.600]   Am I called to be a pastor?
+[01:37:23.600 --> 01:37:25.600]   Is another thing I wrestled with.
+[01:37:25.600 --> 01:37:28.600]   And those are things that are a little more tricky to discern,
+[01:37:28.600 --> 01:37:31.600]   but there are explicit calls in scripture
+[01:37:31.600 --> 01:37:33.600]   that are very easy to discern
+[01:37:33.600 --> 01:37:38.600]   that is a call for you, a command for you.
+[01:37:38.600 --> 01:37:40.600]   So let me rephrase it.
+[01:37:40.600 --> 01:37:43.600]   This is God's will for your life.
+[01:37:43.600 --> 01:37:45.600]   All right, you guys ready for this?
+[01:37:45.600 --> 01:37:47.600]   This is God's will for your life,
+[01:37:47.600 --> 01:37:49.600]   what we're gonna be looking at.
+[01:37:49.600 --> 01:37:51.600]   All right, enjoy.
+[01:37:51.600 --> 01:37:54.600]   So, chapter one, verse 15,
+[01:37:54.600 --> 01:37:58.600]   talks about us being called to be holy.
+[01:37:58.600 --> 01:38:00.600]   You guys, we remember that, right?
+[01:38:00.600 --> 01:38:03.600]   Chapter two, nine,
+[01:38:03.600 --> 01:38:05.600]   we're called for the purpose of proclaiming light,
+[01:38:05.600 --> 01:38:07.600]   or we're proclaiming, sorry,
+[01:38:07.600 --> 01:38:11.600]   proclaiming the excellencies of God who saved us.
+[01:38:11.600 --> 01:38:14.600]   Another call in 1 Peter is
+[01:38:14.600 --> 01:38:18.600]   not returning insult for insult,
+[01:38:18.600 --> 01:38:20.600]   but giving you a blessing.
+[01:38:20.600 --> 01:38:22.600]   That's your call.
+[01:38:22.600 --> 01:38:26.600]   Chapter five, verse 10, to his eternal glory.
+[01:38:26.600 --> 01:38:29.600]   So the word call, the word will of God,
+[01:38:29.600 --> 01:38:31.600]   the word purpose for your life,
+[01:38:31.600 --> 01:38:34.600]   it shows up a lot.
+[01:38:34.600 --> 01:38:36.600]   And it's all related to doing stuff
+[01:38:36.600 --> 01:38:38.600]   that is extremely uncomfortable,
+[01:38:38.600 --> 01:38:40.600]   unnatural,
+[01:38:40.600 --> 01:38:43.600]   and very painful, perhaps.
+[01:38:43.600 --> 01:38:45.600]   You guys following that?
+[01:38:45.600 --> 01:38:47.600]   Okay.
+[01:38:47.600 --> 01:38:49.600]   Is this a suggestion for the Christian,
+[01:38:49.600 --> 01:38:52.600]   or is this a non-negotiable?
+[01:38:52.600 --> 01:38:56.600]   It's a non-negotiable.
+[01:38:56.600 --> 01:38:58.600]   Now, obviously, we don't wanna take that to the extreme,
+[01:38:58.600 --> 01:38:59.600]   'cause when we're looking at wives
+[01:38:59.600 --> 01:39:01.600]   being subject to the husbands,
+[01:39:01.600 --> 01:39:02.600]   because people have applied this,
+[01:39:02.600 --> 01:39:04.600]   well, that means if I'm in an abusive relationship,
+[01:39:04.600 --> 01:39:06.600]   I need to stay.
+[01:39:06.600 --> 01:39:09.600]   No, that's not exactly the proper application.
+[01:39:09.600 --> 01:39:10.600]   Okay?
+[01:39:10.600 --> 01:39:12.600]   So there are other aspects to that,
+[01:39:12.600 --> 01:39:14.600]   but we need to understand that the call
+[01:39:14.600 --> 01:39:16.600]   is to subject ourselves,
+[01:39:16.600 --> 01:39:19.600]   even at the risk of harm.
+[01:39:19.600 --> 01:39:21.600]   That much is clear, right?
+[01:39:21.600 --> 01:39:23.600]   To subject ourselves,
+[01:39:23.600 --> 01:39:27.600]   to submit ourselves to human institutions,
+[01:39:27.600 --> 01:39:29.600]   even at the risk of harm,
+[01:39:29.600 --> 01:39:31.600]   if it means the glory of God.
+[01:39:32.600 --> 01:39:34.600]   Najerds, if you're following that thought.
+[01:39:34.600 --> 01:39:35.600]   Okay?
+[01:39:35.600 --> 01:39:37.600]   I'm not veering from our text.
+[01:39:37.600 --> 01:39:38.600]   Okay?
+[01:39:38.600 --> 01:39:44.600]   A thing that I found that was very interesting
+[01:39:44.600 --> 01:39:46.600]   was this.
+[01:39:46.600 --> 01:39:48.600]   He kept entrusting himself.
+[01:39:48.600 --> 01:39:51.600]   So this is what Jesus did.
+[01:39:51.600 --> 01:39:53.600]   When he was suffering,
+[01:39:53.600 --> 01:39:58.600]   he paradidu, right?
+[01:39:58.600 --> 01:40:00.600]   He handed himself over.
+[01:40:00.600 --> 01:40:02.600]   He delivered himself.
+[01:40:02.600 --> 01:40:05.600]   He committed himself to the safekeeping of God,
+[01:40:05.600 --> 01:40:07.600]   who will sort it all out in righteousness.
+[01:40:07.600 --> 01:40:10.600]   Okay?
+[01:40:10.600 --> 01:40:12.600]   And the main verbs in this,
+[01:40:12.600 --> 01:40:14.600]   they're all in the imperfect tense.
+[01:40:14.600 --> 01:40:17.600]   So this spirit of non-retaliation,
+[01:40:17.600 --> 01:40:18.600]   this meekness,
+[01:40:18.600 --> 01:40:21.600]   this never returning insult for insult,
+[01:40:21.600 --> 01:40:22.600]   reviling for reviling,
+[01:40:22.600 --> 01:40:23.600]   slander for slander,
+[01:40:23.600 --> 01:40:26.600]   that was characteristic of Jesus' life.
+[01:40:29.600 --> 01:40:31.600]   Now here was a thought that I had.
+[01:40:31.600 --> 01:40:35.600]   I actually, when I was meditating on this,
+[01:40:35.600 --> 01:40:37.600]   it's like, who am I tempted to revile?
+[01:40:37.600 --> 01:40:41.600]   I've never been tempted to revile Joe Biden.
+[01:40:41.600 --> 01:40:45.600]   Despite the gas prices.
+[01:40:45.600 --> 01:40:49.600]   I actually, I don't.
+[01:40:49.600 --> 01:40:51.600]   I don't like him.
+[01:40:51.600 --> 01:40:54.600]   But I've never felt the need to slander him
+[01:40:54.600 --> 01:40:57.600]   or revile him or make him the devil.
+[01:40:58.600 --> 01:41:03.600]   I've never once felt tempted to revile Donald Trump,
+[01:41:03.600 --> 01:41:06.600]   even though his character is not, like,
+[01:41:06.600 --> 01:41:09.600]   beautiful.
+[01:41:09.600 --> 01:41:14.600]   Nor have I ever been threatened to revile
+[01:41:14.600 --> 01:41:18.600]   Governor Newsom.
+[01:41:18.600 --> 01:41:24.600]   Nor have I ever felt, like, really disturbed
+[01:41:24.600 --> 01:41:27.600]   by any employer that I had outside of the church.
+[01:41:27.600 --> 01:41:31.600]   I mean, I've had people in relationships
+[01:41:31.600 --> 01:41:35.600]   that have been challenging,
+[01:41:35.600 --> 01:41:38.600]   but I've never felt the need to, like, repay evil.
+[01:41:38.600 --> 01:41:42.600]   You guys follow that?
+[01:41:42.600 --> 01:41:48.600]   You know who I would be just tempted to revile?
+[01:41:48.600 --> 01:41:52.600]   Are the relationships that are in my life
+[01:41:53.600 --> 01:41:56.600]   that mean something to me?
+[01:41:56.600 --> 01:41:59.600]   Or there is investment there,
+[01:41:59.600 --> 01:42:04.600]   and I feel betrayed, I feel wronged,
+[01:42:04.600 --> 01:42:09.600]   I feel injured and harmed and directly sinned against.
+[01:42:09.600 --> 01:42:15.600]   Or, when a lie is told about me.
+[01:42:15.600 --> 01:42:19.600]   I was in Tanzania, taking 20-something people
+[01:42:19.600 --> 01:42:24.600]   to Tanzania, and in Korea, if you're a professor here,
+[01:42:24.600 --> 01:42:26.600]   like, this is no offense, but in Korea,
+[01:42:26.600 --> 01:42:28.600]   professors are not good people.
+[01:42:28.600 --> 01:42:33.600]   And the professor that I was taking on a trip,
+[01:42:33.600 --> 01:42:35.600]   for some reason, he got separated from his wife
+[01:42:35.600 --> 01:42:37.600]   when we were transferring our plane
+[01:42:37.600 --> 01:42:39.600]   from one city in Tanzania to the other,
+[01:42:39.600 --> 01:42:44.600]   so he accused me in anger that I did that on purpose to him.
+[01:42:44.600 --> 01:42:46.600]   I'm like, I have nothing to say.
+[01:42:48.600 --> 01:42:51.600]   And I was so angry, right?
+[01:42:51.600 --> 01:42:54.600]   I wanted to switch his seats on purpose if I could.
+[01:42:54.600 --> 01:42:59.600]   I was so angry, simply because he lied about me,
+[01:42:59.600 --> 01:43:01.600]   something I didn't do.
+[01:43:01.600 --> 01:43:05.600]   Another situation where I'd be tempted to revile
+[01:43:05.600 --> 01:43:09.600]   is if someone I poured into does me great injury.
+[01:43:09.600 --> 01:43:12.600]   That's when I want to revile, that's when I want to slander,
+[01:43:12.600 --> 01:43:14.600]   that's when I want to injure.
+[01:43:15.600 --> 01:43:21.600]   So if this person injures me deeply, I want to injure back.
+[01:43:21.600 --> 01:43:31.600]   Not Joe Biden, not Newsom, perhaps it could be my wife
+[01:43:31.600 --> 01:43:34.600]   who causes me really deep injury,
+[01:43:34.600 --> 01:43:41.600]   or my father, or my mom, or that uncle,
+[01:43:41.600 --> 01:43:44.600]   or this boss who takes advantage of me.
+[01:43:45.600 --> 01:43:48.600]   Are you guys tracking along?
+[01:43:48.600 --> 01:43:51.600]   Usually it's not the government institutions,
+[01:43:51.600 --> 01:43:53.600]   unless they do something grievous to you.
+[01:43:53.600 --> 01:43:56.600]   It's those closest to you.
+[01:43:56.600 --> 01:44:01.600]   This word entrusting, it means God makes no mistakes, amen?
+[01:44:01.600 --> 01:44:04.600]   Every relationship that you have,
+[01:44:04.600 --> 01:44:07.600]   every human person in your life,
+[01:44:07.600 --> 01:44:11.600]   God placed there on purpose with a good and perfect plan.
+[01:44:11.600 --> 01:44:14.600]   Agree or disagree? You better agree.
+[01:44:14.600 --> 01:44:17.600]   Okay? Think about this.
+[01:44:17.600 --> 01:44:23.600]   Every relationship that has been ordained in your life,
+[01:44:23.600 --> 01:44:26.600]   God put there.
+[01:44:26.600 --> 01:44:32.600]   Even the ones that are very painful.
+[01:44:32.600 --> 01:44:37.600]   Are you guys following this?
+[01:44:38.600 --> 01:44:42.600]   And if you've done something silly to damage your relationship,
+[01:44:42.600 --> 01:44:44.600]   okay, that's on you. And if you suffer for it,
+[01:44:44.600 --> 01:44:46.600]   remember we learned last time, right?
+[01:44:46.600 --> 01:44:49.600]   What credit is there if you suffer for doing evil, right?
+[01:44:49.600 --> 01:44:53.600]   But in a situation where you're completely the victim,
+[01:44:53.600 --> 01:44:57.600]   when you've done nothing wrong,
+[01:44:57.600 --> 01:45:00.600]   and you're being damaged by that person.
+[01:45:00.600 --> 01:45:06.600]   Jesus was surrounded by these kinds of people,
+[01:45:06.600 --> 01:45:09.600]   where he loved perfectly.
+[01:45:09.600 --> 01:45:15.600]   He knew their sin. He knew their weakness.
+[01:45:15.600 --> 01:45:21.600]   He knew their frame. And they had the audacity to mock him.
+[01:45:21.600 --> 01:45:27.600]   He washed the feet of the guy who had already made arrangements
+[01:45:27.600 --> 01:45:29.600]   to betray him on silent Wednesday.
+[01:45:29.600 --> 01:45:34.600]   He uttered no threats.
+[01:45:34.600 --> 01:45:40.600]   Instead, he continually entrusted himself
+[01:45:40.600 --> 01:45:42.600]   to the God who makes no mistakes, who is nothing,
+[01:45:42.600 --> 01:45:46.600]   is perfectly good, who orchestrates everything for your good.
+[01:45:46.600 --> 01:45:49.600]   Even the stuff that don't make sense.
+[01:45:49.600 --> 01:45:53.600]   So if you think about this,
+[01:45:53.600 --> 01:45:57.600]   in the relationships that you've been around in your life,
+[01:45:57.600 --> 01:46:02.600]   this is the model you're supposed to follow.
+[01:46:03.600 --> 01:46:07.600]   You know the hardest thing about ministry?
+[01:46:07.600 --> 01:46:10.600]   It's not Bible study prep. You know what it is?
+[01:46:10.600 --> 01:46:12.600]   People.
+[01:46:12.600 --> 01:46:18.600]   You! At your work.
+[01:46:18.600 --> 01:46:21.600]   Is your work hard or are people hard?
+[01:46:21.600 --> 01:46:23.600]   People!
+[01:46:23.600 --> 01:46:27.600]   Family would be great if I was the only one in it.
+[01:46:27.600 --> 01:46:30.600]   People!
+[01:46:31.600 --> 01:46:35.600]   In these relationships where we hupotaso,
+[01:46:35.600 --> 01:46:39.600]   where we subject ourselves to that relationship
+[01:46:39.600 --> 01:46:42.600]   for their good, for their benefit,
+[01:46:42.600 --> 01:46:45.600]   even at the risk of our harm,
+[01:46:45.600 --> 01:46:49.600]   we don't revile, we don't utter threats,
+[01:46:49.600 --> 01:46:51.600]   because we've died to that stuff, right?
+[01:46:51.600 --> 01:46:53.600]   We've died to that life.
+[01:46:53.600 --> 01:46:55.600]   And we're living to righteousness.
+[01:46:55.600 --> 01:46:58.600]   To this you were called, that you might follow his example.
+[01:46:58.600 --> 01:47:01.600]   This is all over 1 Peter.
+[01:47:01.600 --> 01:47:04.600]   Now that's sensitive stuff, because some of you are thinking,
+[01:47:04.600 --> 01:47:07.600]   "Well you don't know what that guy did to me. You don't know what she did to me."
+[01:47:07.600 --> 01:47:10.600]   If you only knew. I know.
+[01:47:10.600 --> 01:47:13.600]   I went to 12 elementary schools because I met the wrong father
+[01:47:13.600 --> 01:47:16.600]   that God ordained in his kindness into my life.
+[01:47:16.600 --> 01:47:18.600]   Now I love him. We have a great relationship.
+[01:47:18.600 --> 01:47:21.600]   It only took 40 years.
+[01:47:21.600 --> 01:47:25.600]   God orchestrates things.
+[01:47:25.600 --> 01:47:28.600]   Every person in your life is a divine appointment.
+[01:47:28.600 --> 01:47:31.600]   It's a cliche, but that's the case.
+[01:47:31.600 --> 01:47:36.600]   Now, I couldn't help but to think of
+[01:47:36.600 --> 01:47:38.600]   the thieves on the crosses.
+[01:47:38.600 --> 01:47:41.600]   We usually hear them in the singular.
+[01:47:41.600 --> 01:47:44.600]   But I see them as thieves on the crosses.
+[01:47:44.600 --> 01:47:45.600]   Alright, plural.
+[01:47:45.600 --> 01:47:46.600]   So here we go.
+[01:47:46.600 --> 01:47:49.600]   "They crucified two robbers with him," Mark's account,
+[01:47:49.600 --> 01:47:52.600]   "one on his right, one on his left, and the Scripture was fulfilled,
+[01:47:52.600 --> 01:47:55.600]   which says, 'He was numbered with transgressors,
+[01:47:55.600 --> 01:47:58.600]   and those passing by were hurling abuse at him,
+[01:47:58.600 --> 01:48:00.600]   wagging their heads and saying, 'Ha!
+[01:48:00.600 --> 01:48:03.600]   You who are going to destroy the temple and rebuild it in three days.'"
+[01:48:03.600 --> 01:48:04.600]   That's a little too dramatic. I'm sorry.
+[01:48:04.600 --> 01:48:08.600]   "Three days. 'Save yourself and come down from the cross.'
+[01:48:08.600 --> 01:48:11.600]   In the same way, the chief priests also, along with the scribes,
+[01:48:11.600 --> 01:48:13.600]   were mocking him among themselves and saying,
+[01:48:13.600 --> 01:48:16.600]   'He saved others. He cannot save himself.'"
+[01:48:16.600 --> 01:48:19.600]   That sounded a little Disney. I'm sorry.
+[01:48:19.600 --> 01:48:23.600]   "Let this Christ, the King of Israel, now come down from the cross
+[01:48:23.600 --> 01:48:26.600]   so that we may see and believe.
+[01:48:26.600 --> 01:48:29.600]   And those who were crucified him were also insulted."
+[01:48:29.600 --> 01:48:31.600]   I'm like, "You losers."
+[01:48:31.600 --> 01:48:36.600]   Look at you. Right? I'm like, "Look at you."
+[01:48:36.600 --> 01:48:41.600]   "Both of them were hurling insults at him along with everybody."
+[01:48:41.600 --> 01:48:43.600]   Matthew's account.
+[01:48:43.600 --> 01:48:46.600]   "In the same way, the chief priests also, along with the scribes and elders,
+[01:48:46.600 --> 01:48:50.600]   were mocking him and saying, 'He saved others. He cannot save himself.
+[01:48:50.600 --> 01:48:54.600]   He is the King of Israel. Let him come down now from the cross
+[01:48:54.600 --> 01:48:55.600]   and we will believe him.
+[01:48:55.600 --> 01:48:59.600]   He trusts in God. Let God rescue him now if he delights in him.
+[01:48:59.600 --> 01:49:01.600]   For he said, 'I am the Son of God.'"
+[01:49:01.600 --> 01:49:06.600]   "The robbers who have been crucified with him were also insulting him with the same words."
+[01:49:13.600 --> 01:49:16.600]   "He was oppressed and he was afflicted.
+[01:49:16.600 --> 01:49:20.600]   Yet he did not open his mouth like a lamb that is led to the slaughter
+[01:49:20.600 --> 01:49:22.600]   and like a sheep that is silent before its shearers.
+[01:49:22.600 --> 01:49:24.600]   He did not open his mouth."
+[01:49:24.600 --> 01:49:27.600]   Jesus opens his mouth twice, actually,
+[01:49:27.600 --> 01:49:31.600]   in this whole Passion Week exchange.
+[01:49:31.600 --> 01:49:34.600]   One of them is when they say, "Are you the King of the Jews?"
+[01:49:34.600 --> 01:49:36.600]   And he said, "I am."
+[01:49:36.600 --> 01:49:41.600]   The other one is here.
+[01:49:42.600 --> 01:49:44.600]   "When they came to the place called the Skull,
+[01:49:44.600 --> 01:49:48.600]   there they crucified him and the criminals, one on the right and one on the left.
+[01:49:48.600 --> 01:49:52.600]   But Jesus was saying, 'Father, forgive them,
+[01:49:52.600 --> 01:49:55.600]   for they do not know what they are doing.'
+[01:49:55.600 --> 01:49:58.600]   And they cast lots, dividing up his garments among themselves.
+[01:49:58.600 --> 01:50:02.600]   And the people stood by, looking on, and even the rulers were sneering at him, saying,
+[01:50:02.600 --> 01:50:07.600]   'He saved others. Let him save himself, if this is the Christ of God, his chosen one.'
+[01:50:07.600 --> 01:50:11.600]   The soldiers also mocked him, coming up to him, offering him sour wine
+[01:50:11.600 --> 01:50:14.600]   and saying, 'If you are the King of the Jews, save yourself.'
+[01:50:14.600 --> 01:50:18.600]   Now there was also an inscription above him, 'This is the King of the Jews.'
+[01:50:18.600 --> 01:50:21.600]   One of the criminals who were hanging there and was hurling abuse at him, saying,
+[01:50:21.600 --> 01:50:24.600]   'Are you not the Christ? Save yourself and us.'
+[01:50:24.600 --> 01:50:28.600]   But the other answered, rebuking him, said,
+[01:50:28.600 --> 01:50:34.600]   'Do you not even fear God, since you are under the same sentence of condemnation?
+[01:50:34.600 --> 01:50:38.600]   And we indeed are suffering justly, for we are receiving what we deserve for our deeds,
+[01:50:38.600 --> 01:50:40.600]   but this man has done nothing wrong.
+[01:50:41.600 --> 01:50:44.600]   And he was saying, 'Jesus, remember me when you come in your kingdom.'
+[01:50:44.600 --> 01:50:48.600]   And he said to him, 'Truly I say to you, today you shall be with me in paradise.'
+[01:50:48.600 --> 01:50:56.600]   I am left to my sanctified imagination, wondering when this change happened.
+[01:50:56.600 --> 01:51:01.600]   Did you ever think about that?
+[01:51:01.600 --> 01:51:06.600]   When did this switch happen, where all of a sudden this guy is laughing and scoffing at this Christ,
+[01:51:06.600 --> 01:51:11.600]   and then all of a sudden he says, 'This is an innocent man.'
+[01:51:11.600 --> 01:51:19.600]   And I want to guess that it had happened when this man, who did not revile in return,
+[01:51:19.600 --> 01:51:24.600]   when he was threatened, or when he was suffering, he uttered no threats,
+[01:51:24.600 --> 01:51:29.600]   but he kept entrusting himself to the judge who judges righteously.
+[01:51:30.600 --> 01:51:36.600]   And that overhearing of that entrusting, perhaps this thief changed.
+[01:51:36.600 --> 01:51:41.600]   Are you guys following this?
+[01:51:41.600 --> 01:51:44.600]   I'm going to go back to this thing.
+[01:51:44.600 --> 01:51:51.600]   The hoop of Graham on, following in his steps.
+[01:51:51.600 --> 01:51:58.600]   It seems to me, by what's said right before this, and by what's said right after this,
+[01:51:58.600 --> 01:52:12.600]   there is a possibility that you suffering unjustly can cause a miracle to happen in the name of Christ.
+[01:52:12.600 --> 01:52:22.600]   And as you abide in him and subject yourself to suffering, perhaps he does a miraculous fruit
+[01:52:22.600 --> 01:52:28.600]   and uses that to change this person so that in the day of visitation, this man,
+[01:52:28.600 --> 01:52:32.600]   who once was a reviler, gives glory to the God.
+[01:52:32.600 --> 01:52:37.600]   And that's what I'm led to believe when I'm looking through 1 Peter.
+[01:52:37.600 --> 01:52:49.600]   Why are we called to suffer? Just to show that, yes, we are suffering for the sake of, to give glory.
+[01:52:49.600 --> 01:52:51.600]   How does that give glory to God?
+[01:52:52.600 --> 01:52:54.600]   You know what the world does not have an answer for?
+[01:52:54.600 --> 01:52:57.600]   Joy in the midst of suffering.
+[01:52:57.600 --> 01:52:59.600]   Love in the midst of hate.
+[01:52:59.600 --> 01:53:03.600]   Forgiveness in the midst of wrong.
+[01:53:03.600 --> 01:53:07.600]   The world does not have an answer to that.
+[01:53:07.600 --> 01:53:11.600]   And that demolishes strongholds.
+[01:53:11.600 --> 01:53:19.600]   So when you guys think of avoiding the people that are difficult in your life,
+[01:53:19.600 --> 01:53:21.600]   if it's your shame, shame on you.
+[01:53:21.600 --> 01:53:22.600]   You fix that.
+[01:53:22.600 --> 01:53:28.600]   But if someone is hurting you, it doesn't mean you go take abuse.
+[01:53:28.600 --> 01:53:36.600]   But even if you have to subject yourself to love this person who is so unlovable,
+[01:53:36.600 --> 01:53:40.600]   knowing what's going to happen, who knows?
+[01:53:40.600 --> 01:53:43.600]   You might win them over.
+[01:53:43.600 --> 01:53:47.600]   And that person, without you saying a word,
+[01:53:47.600 --> 01:53:51.600]   might give glory to God.
+[01:53:51.600 --> 01:53:53.600]   And that's what I see.
+[01:53:53.600 --> 01:53:59.600]   But our problem is, anytime they're suffering, we want to run away.
+[01:53:59.600 --> 01:54:03.600]   For to this you were called.
+[01:54:03.600 --> 01:54:08.600]   For you were called for this very purpose.
+[01:54:08.600 --> 01:54:12.600]   Because you will inherit a blessing, 1 Peter 3.9.
+[01:54:13.600 --> 01:54:17.600]   Every person in your life is on purpose.
+[01:54:17.600 --> 01:54:22.600]   If you are the sinner, fix it.
+[01:54:22.600 --> 01:54:28.600]   But if you are the victim, forgive.
+[01:54:28.600 --> 01:54:31.600]   And we'll see what God does.
+[01:54:31.600 --> 01:54:34.600]   Does that make sense?
+[01:54:34.600 --> 01:54:37.600]   This is a strong passage. That's very painful.
+[01:54:37.600 --> 01:54:39.600]   Thank you, TJ. I like that.
+[01:54:39.600 --> 01:54:41.600]   Oh yeah. Right?
+[01:54:42.600 --> 01:54:46.600]   This is for next week. Everything is the same except the last one.
+[01:54:46.600 --> 01:54:50.600]   What are the goals for the wives and for the husbands in applying these verses?
+[01:54:50.600 --> 01:54:52.600]   We know what we're supposed to do.
+[01:54:52.600 --> 01:54:56.600]   Husbands, be considerate with your wives. Wives, be subject to your husband.
+[01:54:56.600 --> 01:55:01.600]   But pay attention to the why. Why? What's the goal?
+[01:55:01.600 --> 01:55:06.600]   And then today, what I want you guys to do is look through this.
+[01:55:06.600 --> 01:55:11.600]   In what relationships currently are you tempted to revile or utter threats?
+[01:55:12.600 --> 01:55:17.600]   This is in the case where you're the victim.
+[01:55:17.600 --> 01:55:23.600]   What are those relationships and what role do you play?
+[01:55:23.600 --> 01:55:29.600]   Second, in what ways has this passage grown your appreciation of Christ?
+[01:55:29.600 --> 01:55:33.600]   How do you follow in his steps?
+[01:55:33.600 --> 01:55:40.600]   And then third, this is not humanly, fleshly, like possible for us to just do in our flesh, right?
+[01:55:40.600 --> 01:55:47.600]   But are there ways that your group members can pray for you as you entrust yourself to him who judges righteously?
+[01:55:47.600 --> 01:55:49.600]   How?
+[01:55:49.600 --> 01:55:52.600]   So this is a very meaty passage.
+[01:55:52.600 --> 01:55:56.600]   It's very powerful and very scary.
+[01:55:56.600 --> 01:56:03.600]   So my encouragement would be, share with each other and keep each other accountable.
+[01:56:03.600 --> 01:56:07.600]   Pray for each other and keep praying for each other.
+[01:56:07.600 --> 01:56:13.600]   Okay? So next week we're going to be looking at husbands, wives, so that should be fun.
+[01:56:13.600 --> 01:56:18.600]   Let me pray for us and then we'll break up into a time of sharing and discussion.
+[01:56:18.600 --> 01:56:31.600]   Lord, people stink and we're surrounded by them and we are them.
+[01:56:33.600 --> 01:56:35.600]   But you love us.
+[01:56:35.600 --> 01:56:39.600]   You know our frame. You know our weakness.
+[01:56:39.600 --> 01:56:46.600]   And as far as the east is from the west, you have removed our sins from us.
+[01:56:46.600 --> 01:57:01.600]   Though you understand that we are but dust, in your strange and great mercy, you choose to love us and offer a way where we're even elevated as co-heirs.
+[01:57:02.600 --> 01:57:14.600]   In our momentary affliction, in our grief, in our struggle, help us to remember the big picture.
+[01:57:14.600 --> 01:57:17.600]   That you are going to come back to restore everything.
+[01:57:17.600 --> 01:57:27.600]   But help us to use every relationship in our lives that you have ordained to give you glory.
+[01:57:27.600 --> 01:57:30.600]   Especially the ones that are tough.
+[01:57:31.600 --> 01:57:34.600]   Help us to use those relationships to give you glory.
+[01:57:34.600 --> 01:57:39.600]   And that in those relationships to be a message of the gospel.
+[01:57:39.600 --> 01:57:46.600]   Help us, Lord God, because this is not something we can do by effort.
+[01:57:46.600 --> 01:57:52.600]   This is only something that can be supernaturally done by those who are abiding in Christ.
+[01:57:52.600 --> 01:57:57.600]   So keep us committed to what you've called us.
+[01:57:58.600 --> 01:58:02.600]   Keep us sober to what your will is for the Christian.
+[01:58:02.600 --> 01:58:11.600]   And would you receive the glory that you're due by our response of trust and faith.
+[01:58:11.600 --> 01:58:14.600]   For we trust that you judge righteously.
+[01:58:14.600 --> 01:58:23.600]   And we thank you, Lord God, for judging us with compassion and mercy.
+[01:58:23.600 --> 01:58:26.600]   And not treating us as our sins deserve.
+[01:58:27.600 --> 01:58:32.600]   For really loving us and embracing us as we are.
+[01:58:32.600 --> 01:58:35.600]   So that we can be restored to you.
+[01:58:35.600 --> 01:58:37.600]   That we can know you and be known by you.
+[01:58:37.600 --> 01:58:39.600]   Jesus, let me pray.
+[01:58:55.600 --> 01:58:57.600]   The previous one, right?
+[01:58:57.600 --> 01:59:01.600]   It's going to be on the Facebook, TJ.
+[01:59:02.600 --> 01:59:10.600]   [inaudible]
+[01:59:11.600 --> 01:59:19.600]   [inaudible]
+[01:59:20.600 --> 01:59:28.600]   [inaudible]
+[01:59:28.600 --> 01:59:37.600]   [inaudible]
+[01:59:37.600 --> 01:59:46.600]   [inaudible]
+[01:59:47.600 --> 01:59:57.600]   [inaudible]
+[01:59:57.600 --> 02:00:08.600]   [inaudible]
+[02:00:09.600 --> 02:00:19.600]   [inaudible]
+[02:00:19.600 --> 02:00:28.600]   [inaudible]
+[02:00:29.600 --> 02:00:39.600]   [inaudible]
+[02:00:39.600 --> 02:00:50.600]   [inaudible]
+[02:00:51.600 --> 02:01:01.600]   [inaudible]
+[02:01:01.600 --> 02:01:12.600]   [inaudible]
+[02:01:13.600 --> 02:01:23.600]   [inaudible]
+[02:01:23.600 --> 02:01:32.600]   [inaudible]
+[02:01:33.600 --> 02:01:43.600]   [inaudible]
+[02:01:43.600 --> 02:01:54.600]   [inaudible]
+[02:01:55.600 --> 02:02:05.600]   [inaudible]
+[02:02:05.600 --> 02:02:16.600]   [inaudible]
+[02:02:17.600 --> 02:02:27.600]   [inaudible]
+[02:02:27.600 --> 02:02:38.600]   [inaudible]
+[02:02:39.600 --> 02:02:49.600]   [inaudible]
+[02:02:49.600 --> 02:02:58.600]   [inaudible]
+[02:02:59.600 --> 02:03:09.600]   [inaudible]
+[02:03:09.600 --> 02:03:20.600]   [inaudible]
+[02:03:21.600 --> 02:03:31.600]   [inaudible]
+[02:03:31.600 --> 02:03:42.600]   [inaudible]
+[02:03:43.600 --> 02:03:53.600]   [inaudible]
+[02:03:53.600 --> 02:04:02.600]   [inaudible]
+[02:04:03.600 --> 02:04:13.600]   [inaudible]
+[02:04:13.600 --> 02:04:24.600]   [inaudible]
+[02:04:25.600 --> 02:04:35.600]   [inaudible]
+[02:04:35.600 --> 02:04:46.600]   [inaudible]
+[02:04:47.600 --> 02:04:57.600]   [inaudible]
+[02:04:57.600 --> 02:05:08.600]   [inaudible]
+[02:05:09.600 --> 02:05:19.600]   [inaudible]
+[02:05:19.600 --> 02:05:30.600]   [inaudible]
+[02:05:31.600 --> 02:05:41.600]   [inaudible]
+[02:05:41.600 --> 02:05:52.600]   [inaudible]
+[02:05:53.600 --> 02:06:03.600]   [inaudible]
+[02:06:03.600 --> 02:06:14.600]   [inaudible]
+[02:06:15.600 --> 02:06:25.600]   [inaudible]
+[02:06:25.600 --> 02:06:38.600]   [inaudible]
+[02:06:39.600 --> 02:06:49.600]   [inaudible]
+[02:06:49.600 --> 02:07:00.600]   [inaudible]
+[02:07:01.600 --> 02:07:11.600]   [inaudible]
+[02:07:11.600 --> 02:07:22.600]   [inaudible]
+[02:07:23.600 --> 02:07:33.600]   [inaudible]
+[02:07:33.600 --> 02:07:44.600]   [inaudible]
+[02:07:45.600 --> 02:07:55.600]   [inaudible]
+[02:07:55.600 --> 02:08:06.600]   [inaudible]
+[02:08:07.600 --> 02:08:17.600]   [inaudible]
+[02:08:17.600 --> 02:08:28.600]   [inaudible]
+[02:08:29.600 --> 02:08:39.600]   [inaudible]
+[02:08:39.600 --> 02:08:50.600]   [inaudible]
+[02:08:51.600 --> 02:09:01.600]   [inaudible]
+[02:09:01.600 --> 02:09:12.600]   [inaudible]
+[02:09:13.600 --> 02:09:23.600]   [inaudible]
+[02:09:23.600 --> 02:09:34.600]   [inaudible]
+[02:09:35.600 --> 02:09:45.600]   [inaudible]
+[02:09:45.600 --> 02:09:56.600]   [inaudible]
+[02:09:57.600 --> 02:10:07.600]   [inaudible]
+[02:10:07.600 --> 02:10:18.600]   [inaudible]
+[02:10:19.600 --> 02:10:29.600]   [inaudible]
+[02:10:29.600 --> 02:10:40.600]   [inaudible]
+[02:10:41.600 --> 02:10:51.600]   [inaudible]
+[02:10:51.600 --> 02:11:02.600]   [inaudible]
+[02:11:03.600 --> 02:11:13.600]   [inaudible]
+[02:11:13.600 --> 02:11:24.600]   [inaudible]
+[02:11:25.600 --> 02:11:35.600]   [inaudible]
+[02:11:35.600 --> 02:11:46.600]   [inaudible]
+[02:11:47.600 --> 02:11:57.600]   [inaudible]
+[02:11:57.600 --> 02:12:08.600]   [inaudible]
+[02:12:09.600 --> 02:12:19.600]   [inaudible]
+[02:12:19.600 --> 02:12:30.600]   [inaudible]
+[02:12:31.600 --> 02:12:41.600]   [inaudible]
+[02:12:41.600 --> 02:12:52.600]   [inaudible]
+[02:12:53.600 --> 02:13:03.600]   [inaudible]
+[02:13:03.600 --> 02:13:14.600]   [inaudible]
+[02:13:15.600 --> 02:13:25.600]   [inaudible]
+[02:13:25.600 --> 02:13:36.600]   [inaudible]
+[02:13:37.600 --> 02:13:47.600]   [inaudible]
+[02:13:47.600 --> 02:13:58.600]   [inaudible]
+[02:13:59.600 --> 02:14:09.600]   [inaudible]
+[02:14:09.600 --> 02:14:20.600]   [inaudible]
+[02:14:21.600 --> 02:14:31.600]   [inaudible]
+[02:14:31.600 --> 02:14:42.600]   [inaudible]
+[02:14:43.600 --> 02:14:53.600]   [inaudible]
+[02:14:53.600 --> 02:15:04.600]   [inaudible]
+[02:15:05.600 --> 02:15:15.600]   [inaudible]
+[02:15:15.600 --> 02:15:26.600]   [inaudible]
+[02:15:27.600 --> 02:15:37.600]   [inaudible]
+[02:15:37.600 --> 02:15:48.600]   [inaudible]
+[02:15:49.600 --> 02:15:59.600]   [inaudible]
+[02:15:59.600 --> 02:16:10.600]   [inaudible]
+[02:16:11.600 --> 02:16:21.600]   [inaudible]
+[02:16:21.600 --> 02:16:32.600]   [inaudible]
+[02:16:33.600 --> 02:16:43.600]   [inaudible]
+[02:16:43.600 --> 02:16:56.600]   [inaudible]
+[02:16:57.600 --> 02:17:07.600]   [inaudible]
+[02:17:07.600 --> 02:17:18.600]   [inaudible]
+[02:17:19.600 --> 02:17:29.600]   [inaudible]
+[02:17:29.600 --> 02:17:40.600]   [inaudible]
+[02:17:41.600 --> 02:17:51.600]   [inaudible]
+[02:17:51.600 --> 02:18:04.600]   [inaudible]
+[02:18:05.600 --> 02:18:15.600]   [inaudible]
+[02:18:15.600 --> 02:18:28.600]   [inaudible]
+[02:18:29.600 --> 02:18:39.600]   [inaudible]
+[02:18:39.600 --> 02:18:50.600]   [inaudible]
+[02:18:51.600 --> 02:19:01.600]   [inaudible]
+[02:19:01.600 --> 02:19:12.600]   [inaudible]
+[02:19:13.600 --> 02:19:23.600]   [inaudible]
+[02:19:23.600 --> 02:19:34.600]   [inaudible]
+[02:19:35.600 --> 02:19:45.600]   [inaudible]
+[02:19:45.600 --> 02:19:58.600]   [inaudible]
+[02:19:59.600 --> 02:20:09.600]   [inaudible]
+[02:20:09.600 --> 02:20:20.600]   [inaudible]
+[02:20:21.600 --> 02:20:31.600]   [inaudible]
+[02:20:31.600 --> 02:20:42.600]   [inaudible]
+[02:20:43.600 --> 02:20:53.600]   [inaudible]
+[02:20:53.600 --> 02:21:04.600]   [inaudible]
+[02:21:05.600 --> 02:21:15.600]   [inaudible]
+[02:21:15.600 --> 02:21:26.600]   [inaudible]
+[02:21:27.600 --> 02:21:37.600]   [inaudible]
+[02:21:37.600 --> 02:21:48.600]   [inaudible]
+[02:21:49.600 --> 02:21:59.600]   [inaudible]
+[02:21:59.600 --> 02:22:10.600]   [inaudible]
+[02:22:11.600 --> 02:22:21.600]   [inaudible]
+[02:22:21.600 --> 02:22:32.600]   [inaudible]
+[02:22:33.600 --> 02:22:43.600]   [inaudible]
+[02:22:43.600 --> 02:22:54.600]   [inaudible]
+[02:22:55.600 --> 02:23:05.600]   [inaudible]
+[02:23:05.600 --> 02:23:16.600]   [inaudible]
+[02:23:17.600 --> 02:23:27.600]   [inaudible]
+[02:23:27.600 --> 02:23:38.600]   [inaudible]
+[02:23:39.600 --> 02:23:49.600]   [inaudible]
+[02:23:49.600 --> 02:24:00.600]   [inaudible]
+[02:24:01.600 --> 02:24:11.600]   [inaudible]
+[02:24:11.600 --> 02:24:22.600]   [inaudible]
+[02:24:23.600 --> 02:24:33.600]   [inaudible]
+[02:24:33.600 --> 02:24:44.600]   [inaudible]
+[02:24:45.600 --> 02:24:55.600]   [inaudible]
+[02:24:55.600 --> 02:25:06.600]   [inaudible]
+[02:25:07.600 --> 02:25:17.600]   [inaudible]
+[02:25:17.600 --> 02:25:28.600]   [inaudible]
+[02:25:29.600 --> 02:25:39.600]   [inaudible]
+[02:25:39.600 --> 02:25:50.600]   [inaudible]
+[02:25:51.600 --> 02:26:01.600]   [inaudible]
+[02:26:01.600 --> 02:26:12.600]   [inaudible]
+[02:26:13.600 --> 02:26:23.600]   [inaudible]
+[02:26:23.600 --> 02:26:34.600]   [inaudible]
+[02:26:35.600 --> 02:26:45.600]   [inaudible]
+[02:26:45.600 --> 02:26:56.600]   [inaudible]
+[02:26:57.600 --> 02:27:07.600]   [inaudible]
+[02:27:07.600 --> 02:27:20.600]   [inaudible]
+[02:27:21.600 --> 02:27:31.600]   [inaudible]
+[02:27:31.600 --> 02:27:42.600]   [inaudible]
+[02:27:43.600 --> 02:27:53.600]   [inaudible]
+[02:27:53.600 --> 02:28:04.600]   [inaudible]
+[02:28:05.600 --> 02:28:15.600]   [inaudible]
+[02:28:15.600 --> 02:28:26.600]   [inaudible]
+[02:28:27.600 --> 02:28:37.600]   [inaudible]
+[02:28:37.600 --> 02:28:48.600]   [inaudible]
+[02:28:49.600 --> 02:28:59.600]   [inaudible]
+[02:28:59.600 --> 02:29:10.600]   [inaudible]
+[02:29:11.600 --> 02:29:21.600]   [inaudible]
+[02:29:21.600 --> 02:29:32.600]   [inaudible]
+[02:29:33.600 --> 02:29:43.600]   [inaudible]
+[02:29:43.600 --> 02:29:56.600]   [inaudible]
+[02:29:57.600 --> 02:30:07.600]   [inaudible]
+[02:30:07.600 --> 02:30:18.600]   [inaudible]
+[02:30:19.600 --> 02:30:29.600]   [inaudible]
+[02:30:29.600 --> 02:30:40.600]   [inaudible]
+[02:30:41.600 --> 02:30:51.600]   [inaudible]
+[02:30:51.600 --> 02:31:02.600]   [inaudible]
+[02:31:03.600 --> 02:31:13.600]   [inaudible]
+[02:31:13.600 --> 02:31:24.600]   [inaudible]
+[02:31:25.600 --> 02:31:35.600]   [inaudible]
+[02:31:35.600 --> 02:31:46.600]   [inaudible]
+[02:31:47.600 --> 02:31:57.600]   [inaudible]
+[02:31:57.600 --> 02:32:08.600]   [inaudible]
+[02:32:09.600 --> 02:32:19.600]   [inaudible]
+[02:32:19.600 --> 02:32:30.600]   [inaudible]
+[02:32:31.600 --> 02:32:41.600]   [inaudible]
+[02:32:41.600 --> 02:32:52.600]   [inaudible]
+[02:32:53.600 --> 02:33:03.600]   [inaudible]
+[02:33:03.600 --> 02:33:14.600]   [inaudible]
+[02:33:15.600 --> 02:33:25.600]   [inaudible]
+[02:33:25.600 --> 02:33:36.600]   [inaudible]
+[02:33:37.600 --> 02:33:47.600]   [inaudible]
+[02:33:47.600 --> 02:33:58.600]   [inaudible]
+[02:33:59.600 --> 02:34:09.600]   [inaudible]
+[02:34:09.600 --> 02:34:20.600]   [inaudible]
+[02:34:21.600 --> 02:34:31.600]   [inaudible]
+[02:34:31.600 --> 02:34:42.600]   [inaudible]
+[02:34:43.600 --> 02:34:53.600]   [inaudible]
+[02:34:53.600 --> 02:35:04.600]   [inaudible]
+[02:35:05.600 --> 02:35:15.600]   [inaudible]
+[02:35:15.600 --> 02:35:26.600]   [inaudible]
+[02:35:27.600 --> 02:35:37.600]   [inaudible]
+[02:35:37.600 --> 02:35:48.600]   [inaudible]
+[02:35:49.600 --> 02:35:59.600]   [inaudible]
+[02:35:59.600 --> 02:36:10.600]   [inaudible]
+[02:36:11.600 --> 02:36:21.600]   [inaudible]
+[02:36:21.600 --> 02:36:32.600]   [inaudible]
+[02:36:33.600 --> 02:36:43.600]   [inaudible]
+[02:36:43.600 --> 02:36:54.600]   [inaudible]
+[02:36:55.600 --> 02:37:05.600]   [inaudible]
+[02:37:05.600 --> 02:37:16.600]   [inaudible]
+[02:37:17.600 --> 02:37:27.600]   [inaudible]
+[02:37:27.600 --> 02:37:38.600]   [inaudible]
+[02:37:39.600 --> 02:37:49.600]   [inaudible]
+[02:37:49.600 --> 02:38:00.600]   [inaudible]
+[02:38:01.600 --> 02:38:11.600]   [inaudible]
+[02:38:11.600 --> 02:38:22.600]   [inaudible]
+[02:38:23.600 --> 02:38:33.600]   [inaudible]
+[02:38:33.600 --> 02:38:44.600]   [inaudible]
+[02:38:45.600 --> 02:38:55.600]   [inaudible]
+[02:38:55.600 --> 02:39:06.600]   [inaudible]
+[02:39:07.600 --> 02:39:17.600]   [inaudible]
+[02:39:17.600 --> 02:39:28.600]   [inaudible]
+[02:39:29.600 --> 02:39:39.600]   [inaudible]
+[02:39:39.600 --> 02:39:50.600]   [inaudible]
+[02:39:51.600 --> 02:40:01.600]   [inaudible]
+[02:40:01.600 --> 02:40:12.600]   [inaudible]
+[02:40:13.600 --> 02:40:23.600]   [inaudible]
+[02:40:23.600 --> 02:40:34.600]   [inaudible]
+[02:40:35.600 --> 02:40:45.600]   [inaudible]
+[02:40:45.600 --> 02:40:56.600]   [inaudible]
+[02:40:57.600 --> 02:41:07.600]   [inaudible]
+[02:41:07.600 --> 02:41:18.600]   [inaudible]
+[02:41:19.600 --> 02:41:29.600]   [inaudible]
+[02:41:29.600 --> 02:41:40.600]   [inaudible]
+[02:41:41.600 --> 02:41:51.600]   [inaudible]
+[02:41:51.600 --> 02:42:02.600]   [inaudible]
+[02:42:03.600 --> 02:42:13.600]   [inaudible]
+[02:42:13.600 --> 02:42:26.600]   [inaudible]
+[02:42:27.600 --> 02:42:37.600]   [inaudible]
+[02:42:37.600 --> 02:42:48.600]   [inaudible]
+[02:42:49.600 --> 02:42:59.600]   [inaudible]
+[02:42:59.600 --> 02:43:10.600]   [inaudible]
+[02:43:11.600 --> 02:43:21.600]   [inaudible]
+[02:43:21.600 --> 02:43:34.600]   [inaudible]
+[02:43:34.600 --> 02:43:44.600]   [BLANK_AUDIO]
+

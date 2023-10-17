@@ -1,0 +1,1897 @@
+
+[00:00:00.000 --> 00:00:03.500]   [SIDE CONVERSATION]
+[00:00:03.500 --> 00:00:07.000]   [SIDE CONVERSATION]
+[00:00:07.000 --> 00:00:10.500]   [SIDE CONVERSATION]
+[00:00:10.500 --> 00:00:14.000]   [SIDE CONVERSATION]
+[00:00:14.000 --> 00:00:17.500]   [SIDE CONVERSATION]
+[00:00:17.500 --> 00:00:21.000]   [SIDE CONVERSATION]
+[00:00:21.000 --> 00:00:24.500]   [SIDE CONVERSATION]
+[00:00:24.500 --> 00:00:28.000]   [SIDE CONVERSATION]
+[00:00:28.000 --> 00:00:31.500]   [SIDE CONVERSATION]
+[00:00:31.500 --> 00:00:35.000]   [SIDE CONVERSATION]
+[00:00:35.000 --> 00:00:38.500]   [SIDE CONVERSATION]
+[00:00:38.500 --> 00:00:42.000]   [SIDE CONVERSATION]
+[00:00:42.000 --> 00:00:45.500]   [SIDE CONVERSATION]
+[00:00:45.500 --> 00:00:49.000]   [SIDE CONVERSATION]
+[00:00:49.000 --> 00:00:52.500]   [SIDE CONVERSATION]
+[00:00:52.500 --> 00:00:56.000]   [SIDE CONVERSATION]
+[00:00:56.000 --> 00:00:59.500]   [SIDE CONVERSATION]
+[00:00:59.500 --> 00:01:03.000]   [SIDE CONVERSATION]
+[00:01:03.000 --> 00:01:06.500]   [SIDE CONVERSATION]
+[00:01:06.500 --> 00:01:10.000]   [SIDE CONVERSATION]
+[00:01:10.000 --> 00:01:13.500]   [SIDE CONVERSATION]
+[00:01:13.500 --> 00:01:17.000]   [SIDE CONVERSATION]
+[00:01:17.000 --> 00:01:20.500]   [SIDE CONVERSATION]
+[00:01:20.500 --> 00:01:24.000]   [SIDE CONVERSATION]
+[00:01:24.000 --> 00:01:27.500]   [SIDE CONVERSATION]
+[00:01:27.500 --> 00:01:31.000]   [SIDE CONVERSATION]
+[00:01:31.000 --> 00:01:34.500]   [SIDE CONVERSATION]
+[00:01:34.500 --> 00:01:38.000]   [SIDE CONVERSATION]
+[00:01:38.000 --> 00:01:41.500]   [SIDE CONVERSATION]
+[00:01:41.500 --> 00:01:45.000]   [SIDE CONVERSATION]
+[00:01:45.000 --> 00:01:48.500]   [SIDE CONVERSATION]
+[00:01:48.500 --> 00:01:52.000]   [SIDE CONVERSATION]
+[00:01:52.000 --> 00:01:55.500]   [SIDE CONVERSATION]
+[00:01:55.500 --> 00:01:59.000]   [SIDE CONVERSATION]
+[00:01:59.000 --> 00:02:02.500]   [SIDE CONVERSATION]
+[00:02:02.500 --> 00:02:06.000]   [SIDE CONVERSATION]
+[00:02:06.000 --> 00:02:09.500]   [SIDE CONVERSATION]
+[00:02:09.500 --> 00:02:13.000]   [SIDE CONVERSATION]
+[00:02:13.000 --> 00:02:16.500]   [SIDE CONVERSATION]
+[00:02:16.500 --> 00:02:20.000]   [SIDE CONVERSATION]
+[00:02:20.000 --> 00:02:23.500]   [SIDE CONVERSATION]
+[00:02:23.500 --> 00:02:27.000]   [SIDE CONVERSATION]
+[00:02:27.000 --> 00:02:30.500]   [SIDE CONVERSATION]
+[00:02:30.500 --> 00:02:34.000]   [SIDE CONVERSATION]
+[00:02:34.000 --> 00:02:37.500]   [SIDE CONVERSATION]
+[00:02:37.500 --> 00:02:41.000]   [SIDE CONVERSATION]
+[00:02:41.000 --> 00:02:44.500]   [SIDE CONVERSATION]
+[00:02:44.500 --> 00:02:48.000]   [SIDE CONVERSATION]
+[00:02:48.000 --> 00:02:51.500]   [SIDE CONVERSATION]
+[00:02:51.500 --> 00:02:55.000]   [SIDE CONVERSATION]
+[00:02:55.000 --> 00:02:58.500]   [SIDE CONVERSATION]
+[00:02:58.500 --> 00:03:02.000]   [SIDE CONVERSATION]
+[00:03:02.000 --> 00:03:05.500]   [SIDE CONVERSATION]
+[00:03:05.500 --> 00:03:09.000]   [SIDE CONVERSATION]
+[00:03:09.000 --> 00:03:12.500]   [SIDE CONVERSATION]
+[00:03:12.500 --> 00:03:16.000]   [SIDE CONVERSATION]
+[00:03:16.000 --> 00:03:19.500]   [SIDE CONVERSATION]
+[00:03:19.500 --> 00:03:23.000]   [SIDE CONVERSATION]
+[00:03:23.000 --> 00:03:26.500]   [SIDE CONVERSATION]
+[00:03:26.500 --> 00:03:30.000]   [SIDE CONVERSATION]
+[00:03:30.000 --> 00:03:33.500]   [SIDE CONVERSATION]
+[00:03:33.500 --> 00:03:37.000]   [SIDE CONVERSATION]
+[00:03:37.000 --> 00:03:40.500]   [SIDE CONVERSATION]
+[00:03:40.500 --> 00:03:44.000]   [SIDE CONVERSATION]
+[00:03:44.000 --> 00:03:47.500]   [SIDE CONVERSATION]
+[00:03:47.500 --> 00:03:51.000]   [SIDE CONVERSATION]
+[00:03:51.000 --> 00:03:54.500]   [SIDE CONVERSATION]
+[00:03:54.500 --> 00:03:58.000]   [SIDE CONVERSATION]
+[00:03:58.000 --> 00:04:01.500]   [SIDE CONVERSATION]
+[00:04:01.500 --> 00:04:05.000]   [SIDE CONVERSATION]
+[00:04:05.000 --> 00:04:08.500]   [SIDE CONVERSATION]
+[00:04:08.500 --> 00:04:12.000]   [SIDE CONVERSATION]
+[00:04:12.000 --> 00:04:15.500]   [SIDE CONVERSATION]
+[00:04:15.500 --> 00:04:19.000]   [SIDE CONVERSATION]
+[00:04:19.000 --> 00:04:22.500]   [SIDE CONVERSATION]
+[00:04:22.500 --> 00:04:26.000]   [SIDE CONVERSATION]
+[00:04:26.000 --> 00:04:29.500]   [SIDE CONVERSATION]
+[00:04:29.500 --> 00:04:33.000]   [SIDE CONVERSATION]
+[00:04:33.000 --> 00:04:36.500]   [SIDE CONVERSATION]
+[00:04:36.500 --> 00:04:40.000]   [SIDE CONVERSATION]
+[00:04:40.000 --> 00:04:43.500]   [SIDE CONVERSATION]
+[00:04:43.500 --> 00:04:47.000]   [SIDE CONVERSATION]
+[00:04:47.000 --> 00:04:50.500]   [SIDE CONVERSATION]
+[00:04:50.500 --> 00:04:54.000]   [SIDE CONVERSATION]
+[00:04:54.000 --> 00:04:57.500]   [SIDE CONVERSATION]
+[00:04:57.500 --> 00:05:01.000]   [SIDE CONVERSATION]
+[00:05:01.000 --> 00:05:04.500]   [SIDE CONVERSATION]
+[00:05:05.500 --> 00:05:09.000]   [SIDE CONVERSATION]
+[00:05:09.000 --> 00:05:12.500]   [SIDE CONVERSATION]
+[00:05:12.500 --> 00:05:16.000]   [SIDE CONVERSATION]
+[00:05:16.000 --> 00:05:42.000]   [SIDE CONVERSATION]
+[00:05:42.000 --> 00:05:45.500]   [SIDE CONVERSATION]
+[00:05:45.500 --> 00:05:49.000]   [SIDE CONVERSATION]
+[00:05:49.000 --> 00:05:52.500]   [SIDE CONVERSATION]
+[00:05:53.500 --> 00:05:57.000]   [SIDE CONVERSATION]
+[00:05:57.000 --> 00:06:00.500]   [SIDE CONVERSATION]
+[00:06:25.500 --> 00:06:27.000]   Oh, shoot.
+[00:06:27.000 --> 00:06:30.000]   [SIDE CONVERSATION]
+[00:06:30.000 --> 00:06:50.500]   Good evening, everyone.
+[00:06:50.500 --> 00:06:53.300]   We're going to go ahead and get started with Bible study.
+[00:06:53.300 --> 00:06:56.000]   So why don't we just take a couple minutes just
+[00:06:56.000 --> 00:06:59.200]   to quiet our hearts and pray as we head into a time of praise.
+[00:06:59.200 --> 00:07:13.700]   [MUSIC PLAYING]
+[00:07:14.600 --> 00:07:18.100]   [MUSIC PLAYING]
+[00:07:19.000 --> 00:07:22.500]   [MUSIC PLAYING]
+[00:07:23.400 --> 00:07:26.900]   [MUSIC PLAYING]
+[00:07:26.900 --> 00:07:38.400]   [MUSIC PLAYING]
+[00:07:51.900 --> 00:07:55.300]   Father, we thank you for the opportunity
+[00:07:55.300 --> 00:07:58.900]   to worship you, to study your word.
+[00:07:58.900 --> 00:08:03.900]   Thank you for Christ and what Christ has done for us
+[00:08:03.900 --> 00:08:06.000]   and continues to do in our lives, Lord.
+[00:08:06.000 --> 00:08:09.740]   And as we continue to study through Galatians,
+[00:08:09.740 --> 00:08:13.740]   would we be reminded of this gospel truth
+[00:08:13.740 --> 00:08:18.060]   that the only way to attain salvation
+[00:08:18.060 --> 00:08:20.660]   is not anything that we do, but everything
+[00:08:20.660 --> 00:08:23.180]   that you've given to us, Lord.
+[00:08:23.180 --> 00:08:25.780]   We pray that we wouldn't try to add to it,
+[00:08:25.780 --> 00:08:31.420]   that we recognize who we are before a holy God.
+[00:08:31.420 --> 00:08:36.660]   Tonight, we pray for strength, for focus after a long day.
+[00:08:36.660 --> 00:08:40.140]   We just pray during this time of praise you be honored.
+[00:08:40.140 --> 00:08:41.140]   We love you, Lord.
+[00:08:41.140 --> 00:08:42.940]   We pray all this in your name.
+[00:08:42.940 --> 00:08:43.440]   Amen.
+[00:08:43.440 --> 00:08:49.440]   [MUSIC PLAYING]
+[00:08:49.720 --> 00:08:53.200]   [MUSIC - "I WAS AN ORPHAN"]
+[00:08:53.200 --> 00:09:02.200]   I was an orphan.
+[00:09:02.200 --> 00:09:05.700]   I was an orphan lost at the fore,
+[00:09:05.700 --> 00:09:09.680]   running away when I'd hear you calling.
+[00:09:09.680 --> 00:09:12.680]   Oh, Father, you were still there.
+[00:09:12.680 --> 00:09:19.180]   I had no righteousness of my own.
+[00:09:19.180 --> 00:09:22.680]   I had no right to draw near your throne.
+[00:09:22.680 --> 00:09:27.680]   Oh, Father, you loved me still.
+[00:09:27.680 --> 00:09:34.160]   And in love before you laid the world's foundation,
+[00:09:34.160 --> 00:09:40.660]   you predestined to atop me as your heir.
+[00:09:40.660 --> 00:09:47.160]   You have raised me up so high above my station.
+[00:09:47.160 --> 00:09:51.640]   I'm a child of God by grace and grace alone.
+[00:09:51.640 --> 00:10:11.120]   You left your home to seek out the lost.
+[00:10:11.120 --> 00:10:14.620]   You knew the great and terrible cost.
+[00:10:14.620 --> 00:10:17.600]   But Jesus, your face was set.
+[00:10:17.600 --> 00:10:24.080]   I worked my fingers down to the bone.
+[00:10:24.080 --> 00:10:28.080]   But nothing I did could ever atone.
+[00:10:28.080 --> 00:10:33.080]   But Jesus, you paid my debt.
+[00:10:33.080 --> 00:10:39.560]   By your blood, I have redemption and salvation.
+[00:10:39.560 --> 00:10:46.040]   Lord, you died that I might reap what you have sown.
+[00:10:46.040 --> 00:10:52.520]   And you rose that I might be a new creation.
+[00:10:52.520 --> 00:10:56.520]   I am born again by grace and grace alone.
+[00:10:56.520 --> 00:11:03.520]   I was in darkness all of my life.
+[00:11:03.520 --> 00:11:07.520]   I never knew the day from the night.
+[00:11:07.520 --> 00:11:10.020]   But, Spirit, you made me see.
+[00:11:10.020 --> 00:11:17.000]   I swore I knew the way on my own.
+[00:11:17.000 --> 00:11:21.000]   Head full of rocks, a heart made of stone.
+[00:11:21.000 --> 00:11:26.000]   But, Spirit, you moved in me.
+[00:11:26.000 --> 00:11:32.480]   At your touch, my sleeping spirit was now vacant.
+[00:11:32.480 --> 00:11:38.960]   On my darkened heart, the light of Christ I shine.
+[00:11:38.960 --> 00:11:45.460]   Called into a kingdom that cannot be shaken.
+[00:11:45.460 --> 00:11:51.940]   Heaven's citizen by grace and grace alone.
+[00:11:51.940 --> 00:11:58.440]   So I'll stand and faith by grace and grace alone.
+[00:11:58.440 --> 00:12:04.920]   I will run the race by grace and grace alone.
+[00:12:04.920 --> 00:12:11.420]   I will slay my sin by grace and grace alone.
+[00:12:11.420 --> 00:12:15.920]   I will reach the end by grace and grace alone.
+[00:12:26.900 --> 00:12:30.380]   [MUSIC - "ONE CHURCH"]
+[00:12:30.380 --> 00:12:39.860]   One church.
+[00:12:39.860 --> 00:12:48.360]   One church, one faith, one anthem raised.
+[00:12:48.360 --> 00:12:52.860]   God and God alone.
+[00:12:52.860 --> 00:13:01.340]   One cross, one grace, one name that saves.
+[00:13:01.340 --> 00:13:03.840]   All praise to you, God.
+[00:13:03.840 --> 00:13:12.320]   All praise to you belongs.
+[00:13:12.320 --> 00:13:16.820]   We lift you high, high.
+[00:13:16.820 --> 00:13:18.820]   God and God alone.
+[00:13:18.820 --> 00:13:25.300]   And we'll be louder, louder than any other song.
+[00:13:25.300 --> 00:13:31.800]   You are forever seated on your throne.
+[00:13:31.800 --> 00:13:37.780]   You are forever God and God alone.
+[00:13:37.780 --> 00:13:39.280]   Who else?
+[00:13:39.280 --> 00:13:44.760]   Who else can wash our sin away?
+[00:13:47.760 --> 00:13:52.260]   God and God alone.
+[00:13:52.260 --> 00:14:00.240]   Who else can raise us from the grave?
+[00:14:00.240 --> 00:14:04.740]   All praise to you belongs.
+[00:14:04.740 --> 00:14:11.220]   Jesus, all praise to you belongs.
+[00:14:11.220 --> 00:14:15.720]   We lift you high, high.
+[00:14:15.720 --> 00:14:17.720]   God and God alone.
+[00:14:17.720 --> 00:14:24.200]   And we'll be louder, louder than any other song.
+[00:14:24.200 --> 00:14:30.700]   You are forever seated on your throne.
+[00:14:30.700 --> 00:14:35.180]   You are forever God and God alone.
+[00:14:35.180 --> 00:14:45.180]   Oh, what can separate us from this amazing love?
+[00:14:45.180 --> 00:14:51.660]   What can say it's greater than our God?
+[00:14:51.660 --> 00:14:55.660]   Every knee will bow down.
+[00:14:55.660 --> 00:15:04.640]   What can separate us from this amazing love?
+[00:15:04.640 --> 00:15:11.140]   What can say it's greater than our God?
+[00:15:11.140 --> 00:15:16.640]   Every knee will bow down.
+[00:15:16.640 --> 00:15:23.120]   Oh, every knee will bow down.
+[00:15:23.120 --> 00:15:27.620]   We lift you high, high.
+[00:15:27.620 --> 00:15:29.620]   God and God alone.
+[00:15:29.620 --> 00:15:36.100]   And we'll be louder, louder than any other song.
+[00:15:36.100 --> 00:15:42.580]   You are forever seated on your throne.
+[00:15:42.580 --> 00:15:47.080]   We lift you high, high.
+[00:15:47.080 --> 00:15:49.080]   God and God alone.
+[00:15:49.080 --> 00:15:55.560]   And we'll be louder, louder than any other song.
+[00:15:55.560 --> 00:16:02.060]   You are forever seated on your throne.
+[00:16:02.060 --> 00:16:08.540]   You are forever God and God alone.
+[00:16:08.540 --> 00:16:15.540]   You are forever seated on your throne.
+[00:16:15.540 --> 00:16:20.520]   You are forever God and God alone.
+[00:16:26.520 --> 00:16:34.000]   Oh, what can separate us from this amazing love?
+[00:16:34.000 --> 00:16:40.500]   What can say it's greater than our God?
+[00:16:40.500 --> 00:16:46.480]   Every knee will bow down.
+[00:16:46.480 --> 00:16:49.980]   Oh, every knee will bow down.
+[00:16:53.480 --> 00:16:56.480]   Yes, every knee will bow down.
+[00:16:56.480 --> 00:17:02.960]   Oh, every knee will bow down.
+[00:17:02.960 --> 00:17:12.460]   All right, hello.
+[00:17:12.460 --> 00:17:19.960]   I want to start us off by reading the passage, Galatians
+[00:17:19.960 --> 00:17:22.460]   chapter 2, verses 6 through 10.
+[00:17:22.460 --> 00:17:26.960]   And this is just as an FYI, all five of these verses
+[00:17:26.960 --> 00:17:28.960]   are just one sentence in the Greek.
+[00:17:28.960 --> 00:17:33.240]   So in the original language, it's a little choppy.
+[00:17:33.240 --> 00:17:37.960]   But it is-- we are looking at one sentence in these five
+[00:17:37.960 --> 00:17:39.960]   verses tonight.
+[00:17:39.960 --> 00:17:43.600]   And I want to read this for us.
+[00:17:43.600 --> 00:17:49.340]   But from those who were of high reputation, what they were
+[00:17:49.340 --> 00:17:51.520]   makes no difference to me.
+[00:17:51.520 --> 00:17:53.640]   God shows no partiality.
+[00:17:53.640 --> 00:17:56.200]   Well, those who were of reputation
+[00:17:56.200 --> 00:17:59.680]   contributed nothing to me.
+[00:17:59.680 --> 00:18:01.400]   But on the contrary, seeing that I
+[00:18:01.400 --> 00:18:04.560]   have been entrusted with the gospel to the uncircumcised,
+[00:18:04.560 --> 00:18:06.520]   just as Peter had been to the circumcised,
+[00:18:06.520 --> 00:18:08.180]   for he who effectually worked for Peter
+[00:18:08.180 --> 00:18:10.360]   and his apostleship to the circumcised
+[00:18:10.360 --> 00:18:13.360]   effectually worked for me also to the Gentiles.
+[00:18:13.360 --> 00:18:15.640]   And recognizing the grace that had been given to me,
+[00:18:15.640 --> 00:18:19.540]   James and Cephas and John, who were reputed to be pillars,
+[00:18:19.540 --> 00:18:22.060]   gave to me and Barnabas the right hand of fellowship
+[00:18:22.060 --> 00:18:24.600]   so that we might go to the Gentiles
+[00:18:24.600 --> 00:18:26.420]   and they to the circumcised.
+[00:18:26.420 --> 00:18:28.240]   And they only asked us to remember
+[00:18:28.240 --> 00:18:32.660]   the poor, the very thing I also was eager to do.
+[00:18:32.660 --> 00:18:37.160]   So in your groups, go ahead and share the observations
+[00:18:37.160 --> 00:18:38.940]   and the questions.
+[00:18:38.940 --> 00:18:40.460]   And as we've mentioned in the past,
+[00:18:40.460 --> 00:18:46.140]   if you haven't really prepared, just listen more than you
+[00:18:46.140 --> 00:18:47.380]   share.
+[00:18:47.380 --> 00:18:49.480]   But if you have prepared, we don't
+[00:18:49.480 --> 00:18:51.140]   want any awkward silences in your group,
+[00:18:51.140 --> 00:18:53.420]   so please do volunteer a lot of the things
+[00:18:53.420 --> 00:18:55.620]   that you've shared and prepared.
+[00:18:55.620 --> 00:19:00.100]   And in the process, I would like you guys to hit these questions.
+[00:19:00.100 --> 00:19:02.540]   Number two, what does Paul mean when
+[00:19:02.540 --> 00:19:05.980]   he says that the reputed apostles contributed nothing
+[00:19:05.980 --> 00:19:07.060]   to him?
+[00:19:07.060 --> 00:19:11.080]   Judging from the context, is this tone negative or neutral?
+[00:19:11.080 --> 00:19:15.900]   Third, basically, what is an apostleship
+[00:19:15.900 --> 00:19:18.700]   to the circumcised, and then what is an apostleship
+[00:19:18.700 --> 00:19:19.860]   to the uncircumcised?
+[00:19:19.860 --> 00:19:22.020]   If we just read through it, we might not really
+[00:19:22.020 --> 00:19:23.420]   think anything of it.
+[00:19:23.420 --> 00:19:25.020]   But is that significant?
+[00:19:25.020 --> 00:19:29.380]   And lastly, in context, not just your preference
+[00:19:29.380 --> 00:19:33.020]   or not what you think of as like, oh, this
+[00:19:33.020 --> 00:19:34.420]   is the cause of the church.
+[00:19:34.420 --> 00:19:37.900]   In the context, what does it mean to remember the poor?
+[00:19:37.900 --> 00:19:40.260]   And then we'll get back together at 810.
+[00:19:40.260 --> 00:19:42.460]   But let me pray for us, and then we'll
+[00:19:42.460 --> 00:19:43.980]   break up into our small groups.
+[00:19:44.980 --> 00:19:47.580]   [SILENCE]
+[00:19:47.580 --> 00:19:51.060]   Father, give us insight into your word
+[00:19:51.060 --> 00:19:54.140]   so that we would interpret it correctly.
+[00:19:54.140 --> 00:19:56.100]   And help us not to just interpret it correctly,
+[00:19:56.100 --> 00:19:58.580]   but help us, Lord, to do our best
+[00:19:58.580 --> 00:20:04.980]   to submit our lives, our thoughts, our affections
+[00:20:04.980 --> 00:20:06.900]   to your truth.
+[00:20:06.900 --> 00:20:10.540]   So Lord, we pray for your help, that our discussions will
+[00:20:10.540 --> 00:20:17.700]   be absolutely centered on the gospel of Jesus Christ,
+[00:20:17.700 --> 00:20:20.340]   and that our fellowship really would be rooted not
+[00:20:20.340 --> 00:20:24.260]   in just being excited about learning new things,
+[00:20:24.260 --> 00:20:30.900]   but rather just as a reminder that we serve the same God,
+[00:20:30.900 --> 00:20:33.580]   that that would humble us, and that would cause us
+[00:20:33.580 --> 00:20:35.380]   to yearn for more.
+[00:20:35.380 --> 00:20:41.140]   So would you protect and lead each table as we just
+[00:20:41.140 --> 00:20:44.180]   prepare our hearts to feed.
+[00:20:44.180 --> 00:20:47.060]   So we thank you, Lord, and would you be honored through our study
+[00:20:47.060 --> 00:20:47.700]   tonight.
+[00:20:47.700 --> 00:20:49.380]   We pray this in Jesus' name.
+[00:20:49.380 --> 00:20:50.140]   Amen.
+[00:20:50.140 --> 00:20:52.260]   See you guys at 810.
+[00:20:52.700 --> 00:20:54.760]   [END PLAYBACK]
+[00:20:54.760 --> 00:20:57.720]   [AUDIO OUT]
+[00:20:57.720 --> 00:21:00.680]   [AUDIO OUT]
+[00:21:00.680 --> 00:21:03.660]   [AUDIO OUT]
+[00:21:03.660 --> 00:21:06.640]   [AUDIO OUT]
+[00:21:06.640 --> 00:21:09.620]   [AUDIO OUT]
+[00:21:09.620 --> 00:21:12.600]   [AUDIO OUT]
+[00:21:12.600 --> 00:21:15.580]   [AUDIO OUT]
+[00:21:15.580 --> 00:21:18.560]   [AUDIO OUT]
+[00:21:18.560 --> 00:21:21.540]   [AUDIO OUT]
+[00:21:21.540 --> 00:21:24.520]   [AUDIO OUT]
+[00:21:24.520 --> 00:21:27.500]   [AUDIO OUT]
+[00:21:27.500 --> 00:21:30.480]   [AUDIO OUT]
+[00:21:30.480 --> 00:21:33.460]   [AUDIO OUT]
+[00:21:33.460 --> 00:21:36.440]   [AUDIO OUT]
+[00:21:36.440 --> 00:21:39.420]   [AUDIO OUT]
+[00:21:39.420 --> 00:21:42.400]   [AUDIO OUT]
+[00:21:42.400 --> 00:21:45.400]   [AUDIO OUT]
+[00:21:45.400 --> 00:21:48.400]   [AUDIO OUT]
+[00:21:48.400 --> 00:21:51.400]   [AUDIO OUT]
+[00:21:51.400 --> 00:21:54.400]   [AUDIO OUT]
+[00:21:54.400 --> 00:21:57.400]   [AUDIO OUT]
+[00:21:57.400 --> 00:22:00.400]   [AUDIO OUT]
+[00:22:00.400 --> 00:22:03.400]   [AUDIO OUT]
+[00:22:03.400 --> 00:22:06.400]   [AUDIO OUT]
+[00:22:06.400 --> 00:22:09.400]   [AUDIO OUT]
+[00:22:09.400 --> 00:22:12.400]   [AUDIO OUT]
+[00:22:12.400 --> 00:22:15.400]   [AUDIO OUT]
+[00:22:15.400 --> 00:22:18.400]   [AUDIO OUT]
+[00:22:18.400 --> 00:22:21.400]   [AUDIO OUT]
+[00:22:21.400 --> 00:22:24.400]   [AUDIO OUT]
+[00:22:24.400 --> 00:22:27.400]   [AUDIO OUT]
+[00:22:27.400 --> 00:22:30.400]   [AUDIO OUT]
+[00:22:30.400 --> 00:22:33.400]   [AUDIO OUT]
+[00:22:33.400 --> 00:22:36.400]   [AUDIO OUT]
+[00:22:36.400 --> 00:22:39.400]   [AUDIO OUT]
+[00:22:39.400 --> 00:22:42.400]   [AUDIO OUT]
+[00:22:42.400 --> 00:22:45.400]   [AUDIO OUT]
+[00:22:45.400 --> 00:22:48.400]   [AUDIO OUT]
+[00:22:48.400 --> 00:22:51.400]   [AUDIO OUT]
+[00:22:51.400 --> 00:22:54.400]   [AUDIO OUT]
+[00:22:54.400 --> 00:22:57.400]   [AUDIO OUT]
+[00:22:57.400 --> 00:23:00.400]   [AUDIO OUT]
+[00:23:00.400 --> 00:23:03.400]   [AUDIO OUT]
+[00:23:03.400 --> 00:23:06.400]   [AUDIO OUT]
+[00:23:06.400 --> 00:23:09.400]   [AUDIO OUT]
+[00:23:09.400 --> 00:23:12.400]   [AUDIO OUT]
+[00:23:12.400 --> 00:23:15.400]   [AUDIO OUT]
+[00:23:15.400 --> 00:23:18.400]   [AUDIO OUT]
+[00:23:18.400 --> 00:23:21.400]   [AUDIO OUT]
+[00:23:21.400 --> 00:23:24.400]   [AUDIO OUT]
+[00:23:24.400 --> 00:23:27.400]   [AUDIO OUT]
+[00:23:27.400 --> 00:23:30.400]   [AUDIO OUT]
+[00:23:30.400 --> 00:23:33.400]   [AUDIO OUT]
+[00:23:33.400 --> 00:23:36.400]   [AUDIO OUT]
+[00:23:36.400 --> 00:23:39.400]   [AUDIO OUT]
+[00:23:39.400 --> 00:23:42.400]   [AUDIO OUT]
+[00:23:42.400 --> 00:23:45.400]   [AUDIO OUT]
+[00:23:45.400 --> 00:23:48.400]   [AUDIO OUT]
+[00:23:48.400 --> 00:23:51.400]   [AUDIO OUT]
+[00:23:51.400 --> 00:23:54.400]   [AUDIO OUT]
+[00:23:54.400 --> 00:23:57.400]   [AUDIO OUT]
+[00:23:57.400 --> 00:24:00.400]   [AUDIO OUT]
+[00:24:00.400 --> 00:24:03.400]   [AUDIO OUT]
+[00:24:03.400 --> 00:24:06.400]   [AUDIO OUT]
+[00:24:06.400 --> 00:24:09.400]   [AUDIO OUT]
+[00:24:09.400 --> 00:24:12.400]   [AUDIO OUT]
+[00:24:12.400 --> 00:24:15.400]   [AUDIO OUT]
+[00:24:15.400 --> 00:24:18.400]   [AUDIO OUT]
+[00:24:18.400 --> 00:24:21.400]   [AUDIO OUT]
+[00:24:21.400 --> 00:24:24.400]   [AUDIO OUT]
+[00:24:24.400 --> 00:24:27.400]   [AUDIO OUT]
+[00:24:27.400 --> 00:24:30.400]   [AUDIO OUT]
+[00:24:30.400 --> 00:24:33.400]   [AUDIO OUT]
+[00:24:33.400 --> 00:24:36.400]   [AUDIO OUT]
+[00:24:36.400 --> 00:24:39.400]   [AUDIO OUT]
+[00:24:39.400 --> 00:24:42.400]   [AUDIO OUT]
+[00:24:42.400 --> 00:24:45.400]   [AUDIO OUT]
+[00:24:45.400 --> 00:24:48.400]   [AUDIO OUT]
+[00:24:48.400 --> 00:24:51.400]   [AUDIO OUT]
+[00:24:51.400 --> 00:24:54.400]   [AUDIO OUT]
+[00:24:54.400 --> 00:24:57.400]   [AUDIO OUT]
+[00:24:57.400 --> 00:25:00.400]   [AUDIO OUT]
+[00:25:00.400 --> 00:25:03.400]   [AUDIO OUT]
+[00:25:03.400 --> 00:25:06.400]   [AUDIO OUT]
+[00:25:06.400 --> 00:25:09.400]   [AUDIO OUT]
+[00:25:09.400 --> 00:25:12.400]   [AUDIO OUT]
+[00:25:12.400 --> 00:25:15.400]   [AUDIO OUT]
+[00:25:15.400 --> 00:25:18.400]   [AUDIO OUT]
+[00:25:18.400 --> 00:25:21.400]   [AUDIO OUT]
+[00:25:21.400 --> 00:25:24.400]   [AUDIO OUT]
+[00:25:24.400 --> 00:25:27.400]   [AUDIO OUT]
+[00:25:27.400 --> 00:25:30.400]   [AUDIO OUT]
+[00:25:30.400 --> 00:25:33.400]   [AUDIO OUT]
+[00:25:33.400 --> 00:25:36.400]   [AUDIO OUT]
+[00:25:36.400 --> 00:25:39.400]   [AUDIO OUT]
+[00:25:39.400 --> 00:25:42.400]   [AUDIO OUT]
+[00:25:42.400 --> 00:25:45.400]   [AUDIO OUT]
+[00:25:45.400 --> 00:25:48.400]   [AUDIO OUT]
+[00:25:48.400 --> 00:25:51.400]   [AUDIO OUT]
+[00:25:51.400 --> 00:25:54.400]   [AUDIO OUT]
+[00:25:54.400 --> 00:25:57.400]   [AUDIO OUT]
+[00:25:57.400 --> 00:26:00.400]   [AUDIO OUT]
+[00:26:00.400 --> 00:26:03.400]   [AUDIO OUT]
+[00:26:03.400 --> 00:26:06.400]   [AUDIO OUT]
+[00:26:06.400 --> 00:26:09.400]   [AUDIO OUT]
+[00:26:09.400 --> 00:26:12.400]   [AUDIO OUT]
+[00:26:12.400 --> 00:26:15.400]   [AUDIO OUT]
+[00:26:15.400 --> 00:26:18.400]   [AUDIO OUT]
+[00:26:18.400 --> 00:26:21.400]   [AUDIO OUT]
+[00:26:21.400 --> 00:26:24.400]   [AUDIO OUT]
+[00:26:24.400 --> 00:26:27.400]   [AUDIO OUT]
+[00:26:27.400 --> 00:26:30.400]   [AUDIO OUT]
+[00:26:30.400 --> 00:26:33.400]   [AUDIO OUT]
+[00:26:33.400 --> 00:26:36.400]   [AUDIO OUT]
+[00:26:36.400 --> 00:26:39.400]   [AUDIO OUT]
+[00:26:39.400 --> 00:26:42.400]   [AUDIO OUT]
+[00:26:42.400 --> 00:26:45.400]   [AUDIO OUT]
+[00:26:45.400 --> 00:26:48.400]   [AUDIO OUT]
+[00:26:48.400 --> 00:26:51.400]   [AUDIO OUT]
+[00:26:51.400 --> 00:26:54.400]   [AUDIO OUT]
+[00:26:54.400 --> 00:26:57.400]   [AUDIO OUT]
+[00:26:57.400 --> 00:27:00.400]   [AUDIO OUT]
+[00:27:00.400 --> 00:27:03.400]   [AUDIO OUT]
+[00:27:03.400 --> 00:27:06.400]   [AUDIO OUT]
+[00:27:06.400 --> 00:27:09.400]   [AUDIO OUT]
+[00:27:09.400 --> 00:27:12.400]   [AUDIO OUT]
+[00:27:12.400 --> 00:27:15.400]   [AUDIO OUT]
+[00:27:15.400 --> 00:27:18.400]   [AUDIO OUT]
+[00:27:18.400 --> 00:27:21.400]   [AUDIO OUT]
+[00:27:21.400 --> 00:27:24.400]   [AUDIO OUT]
+[00:27:24.400 --> 00:27:27.400]   [AUDIO OUT]
+[00:27:27.400 --> 00:27:30.400]   [AUDIO OUT]
+[00:27:30.400 --> 00:27:33.400]   [AUDIO OUT]
+[00:27:33.400 --> 00:27:36.400]   [AUDIO OUT]
+[00:27:36.400 --> 00:27:39.400]   [AUDIO OUT]
+[00:27:39.400 --> 00:27:42.400]   [AUDIO OUT]
+[00:27:42.400 --> 00:27:45.400]   [AUDIO OUT]
+[00:27:45.400 --> 00:27:48.400]   [AUDIO OUT]
+[00:27:48.400 --> 00:27:51.400]   [AUDIO OUT]
+[00:27:51.400 --> 00:27:54.400]   [AUDIO OUT]
+[00:27:54.400 --> 00:27:57.400]   [AUDIO OUT]
+[00:27:57.400 --> 00:28:00.400]   [AUDIO OUT]
+[00:28:00.400 --> 00:28:03.400]   [AUDIO OUT]
+[00:28:03.400 --> 00:28:06.400]   [AUDIO OUT]
+[00:28:06.400 --> 00:28:09.400]   [AUDIO OUT]
+[00:28:09.400 --> 00:28:12.400]   [AUDIO OUT]
+[00:28:12.400 --> 00:28:15.400]   [AUDIO OUT]
+[00:28:15.400 --> 00:28:18.400]   [AUDIO OUT]
+[00:28:18.400 --> 00:28:21.400]   [AUDIO OUT]
+[00:28:21.400 --> 00:28:24.400]   [AUDIO OUT]
+[00:28:24.400 --> 00:28:27.400]   [AUDIO OUT]
+[00:28:27.400 --> 00:28:30.400]   [AUDIO OUT]
+[00:28:30.400 --> 00:28:33.400]   [AUDIO OUT]
+[00:28:33.400 --> 00:28:36.400]   [AUDIO OUT]
+[00:28:36.400 --> 00:28:39.400]   [AUDIO OUT]
+[00:28:39.400 --> 00:28:42.400]   [AUDIO OUT]
+[00:28:42.400 --> 00:28:45.400]   [AUDIO OUT]
+[00:28:45.400 --> 00:28:48.400]   [AUDIO OUT]
+[00:28:48.400 --> 00:28:51.400]   [AUDIO OUT]
+[00:28:51.400 --> 00:28:54.400]   [AUDIO OUT]
+[00:28:54.400 --> 00:28:57.400]   [AUDIO OUT]
+[00:28:57.400 --> 00:29:00.400]   [AUDIO OUT]
+[00:29:00.400 --> 00:29:03.400]   [AUDIO OUT]
+[00:29:03.400 --> 00:29:06.400]   [AUDIO OUT]
+[00:29:06.400 --> 00:29:09.400]   [AUDIO OUT]
+[00:29:09.400 --> 00:29:12.400]   [AUDIO OUT]
+[00:29:12.400 --> 00:29:15.400]   [AUDIO OUT]
+[00:29:15.400 --> 00:29:18.400]   [AUDIO OUT]
+[00:29:18.400 --> 00:29:21.400]   [AUDIO OUT]
+[00:29:21.400 --> 00:29:24.400]   [AUDIO OUT]
+[00:29:24.400 --> 00:29:27.400]   [AUDIO OUT]
+[00:29:27.400 --> 00:29:30.400]   [AUDIO OUT]
+[00:29:30.400 --> 00:29:33.400]   [AUDIO OUT]
+[00:29:33.400 --> 00:29:36.400]   [AUDIO OUT]
+[00:29:36.400 --> 00:29:39.400]   [AUDIO OUT]
+[00:29:39.400 --> 00:29:42.400]   [AUDIO OUT]
+[00:29:42.400 --> 00:29:45.400]   [AUDIO OUT]
+[00:29:45.400 --> 00:29:48.400]   [AUDIO OUT]
+[00:29:48.400 --> 00:29:51.400]   [AUDIO OUT]
+[00:29:51.400 --> 00:29:54.400]   [AUDIO OUT]
+[00:29:54.400 --> 00:29:57.400]   [AUDIO OUT]
+[00:29:57.400 --> 00:30:00.400]   [AUDIO OUT]
+[00:30:00.400 --> 00:30:03.400]   [AUDIO OUT]
+[00:30:03.400 --> 00:30:06.400]   [AUDIO OUT]
+[00:30:06.400 --> 00:30:09.400]   [AUDIO OUT]
+[00:30:09.400 --> 00:30:12.400]   [AUDIO OUT]
+[00:30:12.400 --> 00:30:15.400]   [AUDIO OUT]
+[00:30:15.400 --> 00:30:18.400]   [AUDIO OUT]
+[00:30:18.400 --> 00:30:21.400]   [AUDIO OUT]
+[00:30:21.400 --> 00:30:24.400]   [AUDIO OUT]
+[00:30:24.400 --> 00:30:27.400]   [AUDIO OUT]
+[00:30:27.400 --> 00:30:30.400]   [AUDIO OUT]
+[00:30:30.400 --> 00:30:33.400]   [AUDIO OUT]
+[00:30:33.400 --> 00:30:36.400]   [AUDIO OUT]
+[00:30:36.400 --> 00:30:39.400]   [AUDIO OUT]
+[00:30:39.400 --> 00:30:42.400]   [AUDIO OUT]
+[00:30:42.400 --> 00:30:45.400]   [AUDIO OUT]
+[00:30:45.400 --> 00:30:48.400]   [AUDIO OUT]
+[00:30:48.400 --> 00:30:51.400]   [AUDIO OUT]
+[00:30:51.400 --> 00:30:54.400]   [AUDIO OUT]
+[00:30:54.400 --> 00:30:57.400]   [AUDIO OUT]
+[00:30:57.400 --> 00:31:00.400]   [AUDIO OUT]
+[00:31:00.400 --> 00:31:03.400]   [AUDIO OUT]
+[00:31:03.400 --> 00:31:06.400]   [AUDIO OUT]
+[00:31:06.400 --> 00:31:09.400]   [AUDIO OUT]
+[00:31:09.400 --> 00:31:12.400]   [AUDIO OUT]
+[00:31:12.400 --> 00:31:15.400]   [AUDIO OUT]
+[00:31:15.400 --> 00:31:18.400]   [AUDIO OUT]
+[00:31:18.400 --> 00:31:21.400]   [AUDIO OUT]
+[00:31:21.400 --> 00:31:24.400]   [AUDIO OUT]
+[00:31:24.400 --> 00:31:27.400]   [AUDIO OUT]
+[00:31:27.400 --> 00:31:30.400]   [AUDIO OUT]
+[00:31:30.400 --> 00:31:33.400]   [AUDIO OUT]
+[00:31:33.400 --> 00:31:36.400]   [AUDIO OUT]
+[00:31:36.400 --> 00:31:39.400]   [AUDIO OUT]
+[00:31:39.400 --> 00:31:42.400]   [AUDIO OUT]
+[00:31:42.400 --> 00:31:45.400]   [AUDIO OUT]
+[00:31:45.400 --> 00:31:48.400]   [AUDIO OUT]
+[00:31:48.400 --> 00:31:51.400]   [AUDIO OUT]
+[00:31:51.400 --> 00:31:54.400]   [AUDIO OUT]
+[00:31:54.400 --> 00:31:57.400]   [AUDIO OUT]
+[00:31:57.400 --> 00:32:00.400]   [AUDIO OUT]
+[00:32:00.400 --> 00:32:03.400]   [AUDIO OUT]
+[00:32:03.400 --> 00:32:06.400]   [AUDIO OUT]
+[00:32:06.400 --> 00:32:09.400]   [AUDIO OUT]
+[00:32:09.400 --> 00:32:12.400]   [AUDIO OUT]
+[00:32:12.400 --> 00:32:15.400]   [AUDIO OUT]
+[00:32:15.400 --> 00:32:18.400]   [AUDIO OUT]
+[00:32:18.400 --> 00:32:21.400]   [AUDIO OUT]
+[00:32:21.400 --> 00:32:24.400]   [AUDIO OUT]
+[00:32:24.400 --> 00:32:27.400]   [AUDIO OUT]
+[00:32:27.400 --> 00:32:30.400]   [AUDIO OUT]
+[00:32:30.400 --> 00:32:33.400]   [AUDIO OUT]
+[00:32:33.400 --> 00:32:36.400]   [AUDIO OUT]
+[00:32:36.400 --> 00:32:39.400]   [AUDIO OUT]
+[00:32:39.400 --> 00:32:42.400]   [AUDIO OUT]
+[00:32:42.400 --> 00:32:45.400]   [AUDIO OUT]
+[00:32:45.400 --> 00:32:48.400]   [AUDIO OUT]
+[00:32:48.400 --> 00:32:51.400]   [AUDIO OUT]
+[00:32:51.400 --> 00:32:54.400]   [AUDIO OUT]
+[00:32:54.400 --> 00:32:57.400]   [AUDIO OUT]
+[00:32:57.400 --> 00:33:00.400]   [AUDIO OUT]
+[00:33:00.400 --> 00:33:03.400]   [AUDIO OUT]
+[00:33:03.400 --> 00:33:06.400]   [AUDIO OUT]
+[00:33:06.400 --> 00:33:09.400]   [AUDIO OUT]
+[00:33:09.400 --> 00:33:12.400]   [AUDIO OUT]
+[00:33:12.400 --> 00:33:15.400]   [AUDIO OUT]
+[00:33:15.400 --> 00:33:18.400]   [AUDIO OUT]
+[00:33:18.400 --> 00:33:21.400]   [AUDIO OUT]
+[00:33:21.400 --> 00:33:24.400]   [AUDIO OUT]
+[00:33:24.400 --> 00:33:27.400]   [AUDIO OUT]
+[00:33:27.400 --> 00:33:30.400]   [AUDIO OUT]
+[00:33:30.400 --> 00:33:33.400]   [AUDIO OUT]
+[00:33:33.400 --> 00:33:36.400]   [AUDIO OUT]
+[00:33:36.400 --> 00:33:39.400]   [AUDIO OUT]
+[00:33:39.400 --> 00:33:42.400]   [AUDIO OUT]
+[00:33:42.400 --> 00:33:45.400]   [AUDIO OUT]
+[00:33:45.400 --> 00:33:48.400]   [AUDIO OUT]
+[00:33:48.400 --> 00:33:51.400]   [AUDIO OUT]
+[00:33:51.400 --> 00:33:54.400]   [AUDIO OUT]
+[00:33:54.400 --> 00:33:57.400]   [AUDIO OUT]
+[00:33:57.400 --> 00:34:00.400]   [AUDIO OUT]
+[00:34:00.400 --> 00:34:03.400]   [AUDIO OUT]
+[00:34:03.400 --> 00:34:06.400]   [AUDIO OUT]
+[00:34:06.400 --> 00:34:09.400]   [AUDIO OUT]
+[00:34:09.400 --> 00:34:12.400]   [AUDIO OUT]
+[00:34:12.400 --> 00:34:15.400]   [AUDIO OUT]
+[00:34:15.400 --> 00:34:18.400]   [AUDIO OUT]
+[00:34:18.400 --> 00:34:21.400]   [AUDIO OUT]
+[00:34:21.400 --> 00:34:24.400]   [AUDIO OUT]
+[00:34:24.400 --> 00:34:27.400]   [AUDIO OUT]
+[00:34:27.400 --> 00:34:30.400]   [AUDIO OUT]
+[00:34:30.400 --> 00:34:33.400]   [AUDIO OUT]
+[00:34:33.400 --> 00:34:36.400]   [AUDIO OUT]
+[00:34:36.400 --> 00:34:39.400]   [AUDIO OUT]
+[00:34:39.400 --> 00:34:42.400]   [AUDIO OUT]
+[00:34:42.400 --> 00:34:45.400]   [AUDIO OUT]
+[00:34:45.400 --> 00:34:48.400]   [AUDIO OUT]
+[00:34:48.400 --> 00:34:51.400]   [AUDIO OUT]
+[00:34:51.400 --> 00:34:54.400]   [AUDIO OUT]
+[00:34:54.400 --> 00:34:57.400]   [AUDIO OUT]
+[00:34:57.400 --> 00:35:00.400]   [AUDIO OUT]
+[00:35:00.400 --> 00:35:03.400]   [AUDIO OUT]
+[00:35:03.400 --> 00:35:06.400]   [AUDIO OUT]
+[00:35:06.400 --> 00:35:09.400]   [AUDIO OUT]
+[00:35:09.400 --> 00:35:12.400]   [AUDIO OUT]
+[00:35:12.400 --> 00:35:15.400]   [AUDIO OUT]
+[00:35:15.400 --> 00:35:18.400]   [AUDIO OUT]
+[00:35:18.400 --> 00:35:21.400]   [AUDIO OUT]
+[00:35:21.400 --> 00:35:24.400]   [AUDIO OUT]
+[00:35:24.400 --> 00:35:27.400]   [AUDIO OUT]
+[00:35:27.400 --> 00:35:30.400]   [AUDIO OUT]
+[00:35:30.400 --> 00:35:33.400]   [AUDIO OUT]
+[00:35:33.400 --> 00:35:36.400]   [AUDIO OUT]
+[00:35:36.400 --> 00:35:39.400]   [AUDIO OUT]
+[00:35:39.400 --> 00:35:42.400]   [AUDIO OUT]
+[00:35:42.400 --> 00:35:45.400]   [AUDIO OUT]
+[00:35:45.400 --> 00:35:48.400]   [AUDIO OUT]
+[00:35:48.400 --> 00:35:51.400]   [AUDIO OUT]
+[00:35:51.400 --> 00:35:54.400]   [AUDIO OUT]
+[00:35:54.400 --> 00:35:57.400]   [AUDIO OUT]
+[00:35:57.400 --> 00:36:00.400]   [AUDIO OUT]
+[00:36:00.400 --> 00:36:03.400]   [AUDIO OUT]
+[00:36:03.400 --> 00:36:06.400]   [AUDIO OUT]
+[00:36:06.400 --> 00:36:09.400]   [AUDIO OUT]
+[00:36:09.400 --> 00:36:12.400]   [AUDIO OUT]
+[00:36:12.400 --> 00:36:15.400]   [AUDIO OUT]
+[00:36:15.400 --> 00:36:18.400]   [AUDIO OUT]
+[00:36:18.400 --> 00:36:21.400]   [AUDIO OUT]
+[00:36:21.400 --> 00:36:24.400]   [AUDIO OUT]
+[00:36:24.400 --> 00:36:27.400]   [AUDIO OUT]
+[00:36:27.400 --> 00:36:30.400]   [AUDIO OUT]
+[00:36:30.400 --> 00:36:33.400]   [AUDIO OUT]
+[00:36:33.400 --> 00:36:36.400]   [AUDIO OUT]
+[00:36:36.400 --> 00:36:39.400]   [AUDIO OUT]
+[00:36:39.400 --> 00:36:42.400]   [AUDIO OUT]
+[00:36:42.400 --> 00:36:45.400]   [AUDIO OUT]
+[00:36:45.400 --> 00:36:48.400]   [AUDIO OUT]
+[00:36:48.400 --> 00:36:51.400]   [AUDIO OUT]
+[00:36:51.400 --> 00:36:54.400]   [AUDIO OUT]
+[00:36:54.400 --> 00:36:57.400]   [AUDIO OUT]
+[00:36:57.400 --> 00:37:00.400]   [AUDIO OUT]
+[00:37:00.400 --> 00:37:03.400]   [AUDIO OUT]
+[00:37:03.400 --> 00:37:06.400]   [AUDIO OUT]
+[00:37:06.400 --> 00:37:09.400]   [AUDIO OUT]
+[00:37:09.400 --> 00:37:12.400]   [AUDIO OUT]
+[00:37:12.400 --> 00:37:15.400]   [AUDIO OUT]
+[00:37:15.400 --> 00:37:18.400]   [AUDIO OUT]
+[00:37:18.400 --> 00:37:21.400]   [AUDIO OUT]
+[00:37:21.400 --> 00:37:24.400]   [AUDIO OUT]
+[00:37:24.400 --> 00:37:27.400]   [AUDIO OUT]
+[00:37:27.400 --> 00:37:30.400]   [AUDIO OUT]
+[00:37:30.400 --> 00:37:33.400]   [AUDIO OUT]
+[00:37:33.400 --> 00:37:36.400]   [AUDIO OUT]
+[00:37:36.400 --> 00:37:39.400]   [AUDIO OUT]
+[00:37:39.400 --> 00:37:42.400]   [AUDIO OUT]
+[00:37:42.400 --> 00:37:45.400]   [AUDIO OUT]
+[00:37:45.400 --> 00:37:48.400]   [AUDIO OUT]
+[00:37:48.400 --> 00:37:51.400]   [AUDIO OUT]
+[00:37:51.400 --> 00:37:54.400]   [AUDIO OUT]
+[00:37:54.400 --> 00:37:57.400]   [AUDIO OUT]
+[00:37:57.400 --> 00:38:00.400]   [AUDIO OUT]
+[00:38:00.400 --> 00:38:03.400]   [AUDIO OUT]
+[00:38:03.400 --> 00:38:06.400]   [AUDIO OUT]
+[00:38:06.400 --> 00:38:09.400]   [AUDIO OUT]
+[00:38:09.400 --> 00:38:12.400]   [AUDIO OUT]
+[00:38:12.400 --> 00:38:15.400]   [AUDIO OUT]
+[00:38:15.400 --> 00:38:18.400]   [AUDIO OUT]
+[00:38:18.400 --> 00:38:21.400]   [AUDIO OUT]
+[00:38:21.400 --> 00:38:24.400]   [AUDIO OUT]
+[00:38:24.400 --> 00:38:27.400]   [AUDIO OUT]
+[00:38:27.400 --> 00:38:30.400]   [AUDIO OUT]
+[00:38:30.400 --> 00:38:33.400]   [AUDIO OUT]
+[00:38:33.400 --> 00:38:36.400]   [AUDIO OUT]
+[00:38:36.400 --> 00:38:39.400]   [AUDIO OUT]
+[00:38:39.400 --> 00:38:42.400]   [AUDIO OUT]
+[00:38:42.400 --> 00:38:45.400]   [AUDIO OUT]
+[00:38:45.400 --> 00:38:48.400]   [AUDIO OUT]
+[00:38:48.400 --> 00:38:51.400]   [AUDIO OUT]
+[00:38:51.400 --> 00:38:54.400]   [AUDIO OUT]
+[00:38:54.400 --> 00:38:57.400]   [AUDIO OUT]
+[00:38:57.400 --> 00:39:00.400]   [AUDIO OUT]
+[00:39:00.400 --> 00:39:03.400]   [AUDIO OUT]
+[00:39:03.400 --> 00:39:06.400]   [AUDIO OUT]
+[00:39:06.400 --> 00:39:09.400]   [AUDIO OUT]
+[00:39:09.400 --> 00:39:12.400]   [AUDIO OUT]
+[00:39:12.400 --> 00:39:15.400]   [AUDIO OUT]
+[00:39:15.400 --> 00:39:18.400]   [AUDIO OUT]
+[00:39:18.400 --> 00:39:21.400]   [AUDIO OUT]
+[00:39:21.400 --> 00:39:24.400]   [AUDIO OUT]
+[00:39:24.400 --> 00:39:27.400]   [AUDIO OUT]
+[00:39:27.400 --> 00:39:30.400]   [AUDIO OUT]
+[00:39:30.400 --> 00:39:33.400]   [AUDIO OUT]
+[00:39:33.400 --> 00:39:36.400]   [AUDIO OUT]
+[00:39:36.400 --> 00:39:39.400]   [AUDIO OUT]
+[00:39:39.400 --> 00:39:42.400]   [AUDIO OUT]
+[00:39:42.400 --> 00:39:45.400]   [AUDIO OUT]
+[00:39:45.400 --> 00:39:48.400]   [AUDIO OUT]
+[00:39:48.400 --> 00:39:51.400]   [AUDIO OUT]
+[00:39:51.400 --> 00:39:54.400]   [AUDIO OUT]
+[00:39:54.400 --> 00:39:57.400]   [AUDIO OUT]
+[00:39:57.400 --> 00:40:00.400]   [AUDIO OUT]
+[00:40:00.400 --> 00:40:03.400]   [AUDIO OUT]
+[00:40:03.400 --> 00:40:06.400]   [AUDIO OUT]
+[00:40:06.400 --> 00:40:09.400]   [AUDIO OUT]
+[00:40:09.400 --> 00:40:12.400]   [AUDIO OUT]
+[00:40:12.400 --> 00:40:15.400]   [AUDIO OUT]
+[00:40:15.400 --> 00:40:18.400]   [AUDIO OUT]
+[00:40:18.400 --> 00:40:21.400]   [AUDIO OUT]
+[00:40:21.400 --> 00:40:24.400]   [AUDIO OUT]
+[00:40:24.400 --> 00:40:27.400]   [AUDIO OUT]
+[00:40:27.400 --> 00:40:30.400]   [AUDIO OUT]
+[00:40:30.400 --> 00:40:33.400]   [AUDIO OUT]
+[00:40:33.400 --> 00:40:36.400]   [AUDIO OUT]
+[00:40:36.400 --> 00:40:39.400]   [AUDIO OUT]
+[00:40:39.400 --> 00:40:42.400]   [AUDIO OUT]
+[00:40:42.400 --> 00:40:45.400]   [AUDIO OUT]
+[00:40:45.400 --> 00:40:48.400]   [AUDIO OUT]
+[00:40:48.400 --> 00:40:51.400]   [AUDIO OUT]
+[00:40:51.400 --> 00:40:54.400]   [AUDIO OUT]
+[00:40:54.400 --> 00:40:57.400]   [AUDIO OUT]
+[00:40:57.400 --> 00:41:00.400]   [AUDIO OUT]
+[00:41:00.400 --> 00:41:03.400]   [AUDIO OUT]
+[00:41:03.400 --> 00:41:06.400]   [AUDIO OUT]
+[00:41:06.400 --> 00:41:09.400]   [AUDIO OUT]
+[00:41:09.400 --> 00:41:12.400]   [AUDIO OUT]
+[00:41:12.400 --> 00:41:15.400]   [AUDIO OUT]
+[00:41:15.400 --> 00:41:18.400]   [AUDIO OUT]
+[00:41:18.400 --> 00:41:21.400]   [AUDIO OUT]
+[00:41:21.400 --> 00:41:24.400]   [AUDIO OUT]
+[00:41:24.400 --> 00:41:27.400]   [AUDIO OUT]
+[00:41:27.400 --> 00:41:30.400]   [AUDIO OUT]
+[00:41:30.400 --> 00:41:33.400]   [AUDIO OUT]
+[00:41:33.400 --> 00:41:36.400]   [AUDIO OUT]
+[00:41:36.400 --> 00:41:39.400]   [AUDIO OUT]
+[00:41:39.400 --> 00:41:42.400]   [AUDIO OUT]
+[00:41:42.400 --> 00:41:45.400]   [AUDIO OUT]
+[00:41:45.400 --> 00:41:48.400]   [AUDIO OUT]
+[00:41:48.400 --> 00:41:51.400]   [AUDIO OUT]
+[00:41:51.400 --> 00:41:54.400]   [AUDIO OUT]
+[00:41:54.400 --> 00:41:57.400]   [AUDIO OUT]
+[00:41:57.400 --> 00:42:00.400]   [AUDIO OUT]
+[00:42:00.400 --> 00:42:03.400]   [AUDIO OUT]
+[00:42:03.400 --> 00:42:06.400]   [AUDIO OUT]
+[00:42:06.400 --> 00:42:09.400]   [AUDIO OUT]
+[00:42:09.400 --> 00:42:12.400]   [AUDIO OUT]
+[00:42:12.400 --> 00:42:15.400]   [AUDIO OUT]
+[00:42:15.400 --> 00:42:18.400]   [AUDIO OUT]
+[00:42:18.400 --> 00:42:21.400]   [AUDIO OUT]
+[00:42:21.400 --> 00:42:24.400]   [AUDIO OUT]
+[00:42:24.400 --> 00:42:27.400]   [AUDIO OUT]
+[00:42:27.400 --> 00:42:30.400]   [AUDIO OUT]
+[00:42:30.400 --> 00:42:33.400]   [AUDIO OUT]
+[00:42:33.400 --> 00:42:36.400]   [AUDIO OUT]
+[00:42:36.400 --> 00:42:39.400]   [AUDIO OUT]
+[00:42:39.400 --> 00:42:42.400]   [AUDIO OUT]
+[00:42:42.400 --> 00:42:45.400]   [AUDIO OUT]
+[00:42:45.400 --> 00:42:48.400]   [AUDIO OUT]
+[00:42:48.400 --> 00:42:51.400]   [AUDIO OUT]
+[00:42:51.400 --> 00:42:54.400]   [AUDIO OUT]
+[00:42:54.400 --> 00:42:57.400]   [AUDIO OUT]
+[00:42:57.400 --> 00:43:00.400]   [AUDIO OUT]
+[00:43:00.400 --> 00:43:03.400]   [AUDIO OUT]
+[00:43:03.400 --> 00:43:06.400]   [AUDIO OUT]
+[00:43:06.400 --> 00:43:09.400]   [AUDIO OUT]
+[00:43:09.400 --> 00:43:12.400]   [AUDIO OUT]
+[00:43:12.400 --> 00:43:15.400]   [AUDIO OUT]
+[00:43:15.400 --> 00:43:18.400]   [AUDIO OUT]
+[00:43:18.400 --> 00:43:21.400]   [AUDIO OUT]
+[00:43:21.400 --> 00:43:24.400]   [AUDIO OUT]
+[00:43:24.400 --> 00:43:27.400]   [AUDIO OUT]
+[00:43:27.400 --> 00:43:30.400]   [AUDIO OUT]
+[00:43:30.400 --> 00:43:33.400]   [AUDIO OUT]
+[00:43:33.400 --> 00:43:36.400]   [AUDIO OUT]
+[00:43:36.400 --> 00:43:39.400]   [AUDIO OUT]
+[00:43:39.400 --> 00:43:42.400]   [AUDIO OUT]
+[00:43:42.400 --> 00:43:45.400]   [AUDIO OUT]
+[00:43:45.400 --> 00:43:48.400]   [AUDIO OUT]
+[00:43:48.400 --> 00:43:51.400]   [AUDIO OUT]
+[00:43:51.400 --> 00:43:54.400]   [AUDIO OUT]
+[00:43:54.400 --> 00:43:57.400]   [AUDIO OUT]
+[00:43:57.400 --> 00:44:00.400]   [AUDIO OUT]
+[00:44:00.400 --> 00:44:03.400]   [AUDIO OUT]
+[00:44:03.400 --> 00:44:06.400]   [AUDIO OUT]
+[00:44:06.400 --> 00:44:09.400]   [AUDIO OUT]
+[00:44:09.400 --> 00:44:12.400]   [AUDIO OUT]
+[00:44:12.400 --> 00:44:15.400]   [AUDIO OUT]
+[00:44:15.400 --> 00:44:18.400]   [AUDIO OUT]
+[00:44:18.400 --> 00:44:21.400]   [AUDIO OUT]
+[00:44:21.400 --> 00:44:24.400]   [AUDIO OUT]
+[00:44:24.400 --> 00:44:27.400]   [AUDIO OUT]
+[00:44:27.400 --> 00:44:30.400]   [AUDIO OUT]
+[00:44:30.400 --> 00:44:33.400]   [AUDIO OUT]
+[00:44:33.400 --> 00:44:36.400]   [AUDIO OUT]
+[00:44:36.400 --> 00:44:39.400]   [AUDIO OUT]
+[00:44:39.400 --> 00:44:42.400]   [AUDIO OUT]
+[00:44:42.400 --> 00:44:45.400]   [AUDIO OUT]
+[00:44:45.400 --> 00:44:48.400]   [AUDIO OUT]
+[00:44:48.400 --> 00:44:51.400]   [AUDIO OUT]
+[00:44:51.400 --> 00:44:54.400]   [AUDIO OUT]
+[00:44:54.400 --> 00:44:57.400]   [AUDIO OUT]
+[00:44:57.400 --> 00:45:00.400]   [AUDIO OUT]
+[00:45:00.400 --> 00:45:03.400]   [AUDIO OUT]
+[00:45:03.400 --> 00:45:06.400]   [AUDIO OUT]
+[00:45:06.400 --> 00:45:09.400]   [AUDIO OUT]
+[00:45:09.400 --> 00:45:12.400]   [AUDIO OUT]
+[00:45:12.400 --> 00:45:15.400]   [AUDIO OUT]
+[00:45:15.400 --> 00:45:18.400]   [AUDIO OUT]
+[00:45:18.400 --> 00:45:21.400]   [AUDIO OUT]
+[00:45:21.400 --> 00:45:24.400]   [AUDIO OUT]
+[00:45:24.400 --> 00:45:27.400]   [AUDIO OUT]
+[00:45:27.400 --> 00:45:30.400]   [AUDIO OUT]
+[00:45:30.400 --> 00:45:33.400]   [AUDIO OUT]
+[00:45:33.400 --> 00:45:36.400]   [AUDIO OUT]
+[00:45:36.400 --> 00:45:39.400]   [AUDIO OUT]
+[00:45:39.400 --> 00:45:42.400]   [AUDIO OUT]
+[00:45:42.400 --> 00:45:45.400]   [AUDIO OUT]
+[00:45:45.400 --> 00:45:48.400]   [AUDIO OUT]
+[00:45:48.400 --> 00:45:51.400]   [AUDIO OUT]
+[00:45:51.400 --> 00:45:54.400]   [AUDIO OUT]
+[00:45:54.400 --> 00:45:57.400]   [AUDIO OUT]
+[00:45:57.400 --> 00:46:00.400]   [AUDIO OUT]
+[00:46:00.400 --> 00:46:03.400]   [AUDIO OUT]
+[00:46:03.400 --> 00:46:06.400]   [AUDIO OUT]
+[00:46:06.400 --> 00:46:09.400]   [AUDIO OUT]
+[00:46:09.400 --> 00:46:12.400]   [AUDIO OUT]
+[00:46:12.400 --> 00:46:15.400]   [AUDIO OUT]
+[00:46:15.400 --> 00:46:18.400]   [AUDIO OUT]
+[00:46:18.400 --> 00:46:21.400]   [AUDIO OUT]
+[00:46:21.400 --> 00:46:24.400]   [AUDIO OUT]
+[00:46:24.400 --> 00:46:27.400]   [AUDIO OUT]
+[00:46:27.400 --> 00:46:30.400]   [AUDIO OUT]
+[00:46:30.400 --> 00:46:33.400]   [AUDIO OUT]
+[00:46:33.400 --> 00:46:36.400]   [AUDIO OUT]
+[00:46:36.400 --> 00:46:39.400]   [AUDIO OUT]
+[00:46:39.400 --> 00:46:42.400]   [AUDIO OUT]
+[00:46:42.400 --> 00:46:45.400]   [AUDIO OUT]
+[00:46:45.400 --> 00:46:48.400]   [AUDIO OUT]
+[00:46:48.400 --> 00:46:51.400]   [AUDIO OUT]
+[00:46:51.400 --> 00:46:54.400]   [AUDIO OUT]
+[00:46:54.400 --> 00:46:57.400]   [AUDIO OUT]
+[00:46:57.400 --> 00:47:00.400]   [AUDIO OUT]
+[00:47:00.400 --> 00:47:03.400]   [AUDIO OUT]
+[00:47:03.400 --> 00:47:06.400]   [AUDIO OUT]
+[00:47:06.400 --> 00:47:09.400]   [AUDIO OUT]
+[00:47:09.400 --> 00:47:12.400]   [AUDIO OUT]
+[00:47:12.400 --> 00:47:15.400]   [AUDIO OUT]
+[00:47:15.400 --> 00:47:18.400]   [AUDIO OUT]
+[00:47:18.400 --> 00:47:21.400]   [AUDIO OUT]
+[00:47:21.400 --> 00:47:24.400]   [AUDIO OUT]
+[00:47:24.400 --> 00:47:27.400]   [AUDIO OUT]
+[00:47:27.400 --> 00:47:30.400]   [AUDIO OUT]
+[00:47:30.400 --> 00:47:33.400]   [AUDIO OUT]
+[00:47:33.400 --> 00:47:36.400]   [AUDIO OUT]
+[00:47:36.400 --> 00:47:39.400]   [AUDIO OUT]
+[00:47:39.400 --> 00:47:42.400]   [AUDIO OUT]
+[00:47:42.400 --> 00:47:45.400]   [AUDIO OUT]
+[00:47:45.400 --> 00:47:48.400]   [AUDIO OUT]
+[00:47:48.400 --> 00:47:51.400]   [AUDIO OUT]
+[00:47:51.400 --> 00:47:54.400]   [AUDIO OUT]
+[00:47:54.400 --> 00:47:57.400]   [AUDIO OUT]
+[00:47:57.400 --> 00:48:00.400]   [AUDIO OUT]
+[00:48:00.400 --> 00:48:03.400]   [AUDIO OUT]
+[00:48:03.400 --> 00:48:06.400]   [AUDIO OUT]
+[00:48:06.400 --> 00:48:09.400]   [AUDIO OUT]
+[00:48:09.400 --> 00:48:12.400]   [AUDIO OUT]
+[00:48:12.400 --> 00:48:15.400]   [AUDIO OUT]
+[00:48:15.400 --> 00:48:18.400]   [AUDIO OUT]
+[00:48:18.400 --> 00:48:21.400]   [AUDIO OUT]
+[00:48:21.400 --> 00:48:24.400]   [AUDIO OUT]
+[00:48:24.400 --> 00:48:27.400]   [AUDIO OUT]
+[00:48:27.400 --> 00:48:30.400]   [AUDIO OUT]
+[00:48:30.400 --> 00:48:33.400]   [AUDIO OUT]
+[00:48:33.400 --> 00:48:36.400]   [AUDIO OUT]
+[00:48:36.400 --> 00:48:39.400]   [AUDIO OUT]
+[00:48:39.400 --> 00:48:42.400]   [AUDIO OUT]
+[00:48:42.400 --> 00:48:45.400]   [AUDIO OUT]
+[00:48:45.400 --> 00:48:48.400]   [AUDIO OUT]
+[00:48:48.400 --> 00:48:51.400]   [AUDIO OUT]
+[00:48:51.400 --> 00:48:54.400]   [AUDIO OUT]
+[00:48:54.400 --> 00:48:57.400]   [AUDIO OUT]
+[00:48:57.400 --> 00:49:00.400]   [AUDIO OUT]
+[00:49:00.400 --> 00:49:03.400]   [AUDIO OUT]
+[00:49:03.400 --> 00:49:06.400]   [AUDIO OUT]
+[00:49:06.400 --> 00:49:09.400]   [AUDIO OUT]
+[00:49:09.400 --> 00:49:12.400]   [AUDIO OUT]
+[00:49:12.400 --> 00:49:15.400]   [AUDIO OUT]
+[00:49:15.400 --> 00:49:18.400]   [AUDIO OUT]
+[00:49:18.400 --> 00:49:21.400]   [AUDIO OUT]
+[00:49:21.400 --> 00:49:24.400]   [AUDIO OUT]
+[00:49:24.400 --> 00:49:27.400]   [AUDIO OUT]
+[00:49:27.400 --> 00:49:30.400]   [AUDIO OUT]
+[00:49:30.400 --> 00:49:33.400]   [AUDIO OUT]
+[00:49:33.400 --> 00:49:36.400]   [AUDIO OUT]
+[00:49:36.400 --> 00:49:39.400]   [AUDIO OUT]
+[00:49:39.400 --> 00:49:42.400]   [AUDIO OUT]
+[00:49:42.400 --> 00:49:45.400]   [AUDIO OUT]
+[00:49:45.400 --> 00:49:48.400]   [AUDIO OUT]
+[00:49:48.400 --> 00:49:51.400]   [AUDIO OUT]
+[00:49:51.400 --> 00:49:54.400]   [AUDIO OUT]
+[00:49:54.400 --> 00:49:57.400]   [AUDIO OUT]
+[00:49:57.400 --> 00:50:00.400]   [AUDIO OUT]
+[00:50:00.400 --> 00:50:03.400]   [AUDIO OUT]
+[00:50:03.400 --> 00:50:06.400]   [AUDIO OUT]
+[00:50:06.400 --> 00:50:09.400]   [AUDIO OUT]
+[00:50:09.400 --> 00:50:12.400]   [AUDIO OUT]
+[00:50:12.400 --> 00:50:15.400]   [AUDIO OUT]
+[00:50:15.400 --> 00:50:18.400]   [AUDIO OUT]
+[00:50:18.400 --> 00:50:21.400]   [AUDIO OUT]
+[00:50:21.400 --> 00:50:24.400]   [AUDIO OUT]
+[00:50:24.400 --> 00:50:27.400]   [AUDIO OUT]
+[00:50:27.400 --> 00:50:30.400]   [AUDIO OUT]
+[00:50:30.400 --> 00:50:33.400]   [AUDIO OUT]
+[00:50:33.400 --> 00:50:36.400]   [AUDIO OUT]
+[00:50:36.400 --> 00:50:39.400]   [AUDIO OUT]
+[00:50:39.400 --> 00:50:42.400]   [AUDIO OUT]
+[00:50:42.400 --> 00:50:45.400]   [AUDIO OUT]
+[00:50:45.400 --> 00:50:48.400]   [AUDIO OUT]
+[00:50:48.400 --> 00:50:51.400]   [AUDIO OUT]
+[00:50:51.400 --> 00:50:54.400]   [AUDIO OUT]
+[00:50:54.400 --> 00:50:57.400]   [AUDIO OUT]
+[00:50:57.400 --> 00:51:00.400]   [AUDIO OUT]
+[00:51:00.400 --> 00:51:03.400]   [AUDIO OUT]
+[00:51:03.400 --> 00:51:06.400]   [AUDIO OUT]
+[00:51:06.400 --> 00:51:09.400]   [AUDIO OUT]
+[00:51:09.400 --> 00:51:12.400]   [AUDIO OUT]
+[00:51:12.400 --> 00:51:15.400]   [AUDIO OUT]
+[00:51:15.400 --> 00:51:18.400]   [AUDIO OUT]
+[00:51:18.400 --> 00:51:21.400]   [AUDIO OUT]
+[00:51:21.400 --> 00:51:24.400]   [AUDIO OUT]
+[00:51:24.400 --> 00:51:27.400]   [AUDIO OUT]
+[00:51:27.400 --> 00:51:30.400]   [AUDIO OUT]
+[00:51:30.400 --> 00:51:33.400]   [AUDIO OUT]
+[00:51:33.400 --> 00:51:36.400]   [AUDIO OUT]
+[00:51:36.400 --> 00:51:39.400]   [AUDIO OUT]
+[00:51:39.400 --> 00:51:42.400]   [AUDIO OUT]
+[00:51:42.400 --> 00:51:45.400]   [AUDIO OUT]
+[00:51:45.400 --> 00:51:48.400]   [AUDIO OUT]
+[00:51:48.400 --> 00:51:51.400]   [AUDIO OUT]
+[00:51:51.400 --> 00:51:54.400]   [AUDIO OUT]
+[00:51:54.400 --> 00:51:57.400]   [AUDIO OUT]
+[00:51:57.400 --> 00:52:00.400]   [AUDIO OUT]
+[00:52:00.400 --> 00:52:03.400]   [AUDIO OUT]
+[00:52:03.400 --> 00:52:06.400]   [AUDIO OUT]
+[00:52:06.400 --> 00:52:09.400]   [AUDIO OUT]
+[00:52:09.400 --> 00:52:12.400]   [AUDIO OUT]
+[00:52:12.400 --> 00:52:15.400]   [AUDIO OUT]
+[00:52:15.400 --> 00:52:18.400]   [AUDIO OUT]
+[00:52:18.400 --> 00:52:21.400]   [AUDIO OUT]
+[00:52:21.400 --> 00:52:24.400]   [AUDIO OUT]
+[00:52:24.400 --> 00:52:27.400]   [AUDIO OUT]
+[00:52:27.400 --> 00:52:30.400]   [AUDIO OUT]
+[00:52:30.400 --> 00:52:33.400]   [AUDIO OUT]
+[00:52:33.400 --> 00:52:36.400]   [AUDIO OUT]
+[00:52:36.400 --> 00:52:39.400]   [AUDIO OUT]
+[00:52:39.400 --> 00:52:42.400]   [AUDIO OUT]
+[00:52:42.400 --> 00:52:45.400]   [AUDIO OUT]
+[00:52:45.400 --> 00:52:48.400]   [AUDIO OUT]
+[00:52:48.400 --> 00:52:51.400]   [AUDIO OUT]
+[00:52:51.400 --> 00:52:54.400]   [AUDIO OUT]
+[00:52:54.400 --> 00:52:57.400]   [AUDIO OUT]
+[00:52:57.400 --> 00:53:00.400]   [AUDIO OUT]
+[00:53:00.400 --> 00:53:03.400]   [AUDIO OUT]
+[00:53:03.400 --> 00:53:06.400]   [AUDIO OUT]
+[00:53:06.400 --> 00:53:09.400]   [AUDIO OUT]
+[00:53:09.400 --> 00:53:12.400]   [AUDIO OUT]
+[00:53:12.400 --> 00:53:15.400]   [AUDIO OUT]
+[00:53:15.400 --> 00:53:18.400]   [AUDIO OUT]
+[00:53:18.400 --> 00:53:21.400]   [AUDIO OUT]
+[00:53:21.400 --> 00:53:24.400]   [AUDIO OUT]
+[00:53:24.400 --> 00:53:27.400]   [AUDIO OUT]
+[00:53:27.400 --> 00:53:30.400]   [AUDIO OUT]
+[00:53:30.400 --> 00:53:33.400]   [AUDIO OUT]
+[00:53:33.400 --> 00:53:36.400]   [AUDIO OUT]
+[00:53:36.400 --> 00:53:39.400]   [AUDIO OUT]
+[00:53:39.400 --> 00:53:42.400]   [AUDIO OUT]
+[00:53:42.400 --> 00:53:45.400]   [AUDIO OUT]
+[00:53:45.400 --> 00:53:48.400]   [AUDIO OUT]
+[00:53:48.400 --> 00:53:51.400]   [AUDIO OUT]
+[00:53:51.400 --> 00:53:54.400]   [AUDIO OUT]
+[00:53:54.400 --> 00:53:57.400]   [AUDIO OUT]
+[00:53:57.400 --> 00:54:00.400]   [AUDIO OUT]
+[00:54:00.400 --> 00:54:03.400]   [AUDIO OUT]
+[00:54:03.400 --> 00:54:06.400]   [AUDIO OUT]
+[00:54:06.400 --> 00:54:09.400]   [AUDIO OUT]
+[00:54:09.400 --> 00:54:12.400]   [AUDIO OUT]
+[00:54:12.400 --> 00:54:15.400]   [AUDIO OUT]
+[00:54:15.400 --> 00:54:18.400]   [AUDIO OUT]
+[00:54:18.400 --> 00:54:21.400]   [AUDIO OUT]
+[00:54:21.400 --> 00:54:24.400]   [AUDIO OUT]
+[00:54:24.400 --> 00:54:27.400]   [AUDIO OUT]
+[00:54:27.400 --> 00:54:30.400]   [AUDIO OUT]
+[00:54:30.400 --> 00:54:33.400]   [AUDIO OUT]
+[00:54:33.400 --> 00:54:36.400]   [AUDIO OUT]
+[00:54:36.400 --> 00:54:39.400]   [AUDIO OUT]
+[00:54:39.400 --> 00:54:42.400]   [AUDIO OUT]
+[00:54:42.400 --> 00:54:45.400]   [AUDIO OUT]
+[00:54:45.400 --> 00:54:48.400]   [AUDIO OUT]
+[00:54:48.400 --> 00:54:51.400]   [AUDIO OUT]
+[00:54:51.400 --> 00:54:54.400]   [AUDIO OUT]
+[00:54:54.400 --> 00:54:57.400]   [AUDIO OUT]
+[00:54:57.400 --> 00:55:00.400]   [AUDIO OUT]
+[00:55:00.400 --> 00:55:03.400]   [AUDIO OUT]
+[00:55:03.400 --> 00:55:06.400]   [AUDIO OUT]
+[00:55:06.400 --> 00:55:09.400]   [AUDIO OUT]
+[00:55:09.400 --> 00:55:12.400]   [AUDIO OUT]
+[00:55:12.400 --> 00:55:15.400]   [AUDIO OUT]
+[00:55:15.400 --> 00:55:18.400]   [AUDIO OUT]
+[00:55:18.400 --> 00:55:21.400]   [AUDIO OUT]
+[00:55:21.400 --> 00:55:24.400]   [AUDIO OUT]
+[00:55:24.400 --> 00:55:27.400]   [AUDIO OUT]
+[00:55:27.400 --> 00:55:30.400]   [AUDIO OUT]
+[00:55:30.400 --> 00:55:33.400]   [AUDIO OUT]
+[00:55:33.400 --> 00:55:36.400]   [AUDIO OUT]
+[00:55:36.400 --> 00:55:39.400]   [AUDIO OUT]
+[00:55:39.400 --> 00:55:42.400]   [AUDIO OUT]
+[00:55:42.400 --> 00:55:45.400]   [AUDIO OUT]
+[00:55:45.400 --> 00:55:48.400]   [AUDIO OUT]
+[00:55:48.400 --> 00:55:51.400]   [AUDIO OUT]
+[00:55:51.400 --> 00:55:54.400]   [AUDIO OUT]
+[00:55:54.400 --> 00:55:57.400]   [AUDIO OUT]
+[00:55:57.400 --> 00:56:00.400]   [AUDIO OUT]
+[00:56:00.400 --> 00:56:03.400]   [AUDIO OUT]
+[00:56:03.400 --> 00:56:06.400]   [AUDIO OUT]
+[00:56:06.400 --> 00:56:09.400]   [AUDIO OUT]
+[00:56:09.400 --> 00:56:12.400]   [AUDIO OUT]
+[00:56:12.400 --> 00:56:15.400]   [AUDIO OUT]
+[00:56:15.400 --> 00:56:18.400]   [AUDIO OUT]
+[00:56:18.400 --> 00:56:21.400]   [AUDIO OUT]
+[00:56:21.400 --> 00:56:24.400]   [AUDIO OUT]
+[00:56:24.400 --> 00:56:27.400]   [AUDIO OUT]
+[00:56:27.400 --> 00:56:30.400]   [AUDIO OUT]
+[00:56:30.400 --> 00:56:33.400]   [AUDIO OUT]
+[00:56:33.400 --> 00:56:36.400]   [AUDIO OUT]
+[00:56:36.400 --> 00:56:39.400]   [AUDIO OUT]
+[00:56:39.400 --> 00:56:42.400]   [AUDIO OUT]
+[00:56:42.400 --> 00:56:45.400]   [AUDIO OUT]
+[00:56:45.400 --> 00:56:48.400]   [AUDIO OUT]
+[00:56:48.400 --> 00:56:51.400]   [AUDIO OUT]
+[00:56:51.400 --> 00:56:54.400]   [AUDIO OUT]
+[00:56:54.400 --> 00:56:57.400]   [AUDIO OUT]
+[00:56:57.400 --> 00:57:00.400]   [AUDIO OUT]
+[00:57:00.400 --> 00:57:03.400]   [AUDIO OUT]
+[00:57:03.400 --> 00:57:06.400]   [AUDIO OUT]
+[00:57:06.400 --> 00:57:09.400]   [AUDIO OUT]
+[00:57:09.400 --> 00:57:12.400]   [AUDIO OUT]
+[00:57:12.400 --> 00:57:15.400]   [AUDIO OUT]
+[00:57:15.400 --> 00:57:18.400]   [AUDIO OUT]
+[00:57:18.400 --> 00:57:21.400]   [AUDIO OUT]
+[00:57:21.400 --> 00:57:24.400]   [AUDIO OUT]
+[00:57:24.400 --> 00:57:27.400]   [AUDIO OUT]
+[00:57:27.400 --> 00:57:30.400]   [AUDIO OUT]
+[00:57:30.400 --> 00:57:33.400]   [AUDIO OUT]
+[00:57:33.400 --> 00:57:36.400]   [AUDIO OUT]
+[00:57:36.400 --> 00:57:39.400]   [AUDIO OUT]
+[00:57:39.400 --> 00:57:42.400]   [AUDIO OUT]
+[00:57:42.400 --> 00:57:45.400]   [AUDIO OUT]
+[00:57:45.400 --> 00:57:48.400]   [AUDIO OUT]
+[00:57:48.400 --> 00:57:51.400]   [AUDIO OUT]
+[00:57:51.400 --> 00:57:54.400]   [AUDIO OUT]
+[00:57:54.400 --> 00:57:57.400]   [AUDIO OUT]
+[00:57:57.400 --> 00:58:00.400]   [AUDIO OUT]
+[00:58:00.400 --> 00:58:03.400]   [AUDIO OUT]
+[00:58:03.400 --> 00:58:06.400]   [AUDIO OUT]
+[00:58:06.400 --> 00:58:09.400]   [AUDIO OUT]
+[00:58:09.400 --> 00:58:12.400]   [AUDIO OUT]
+[00:58:12.400 --> 00:58:15.400]   [AUDIO OUT]
+[00:58:15.400 --> 00:58:18.400]   [AUDIO OUT]
+[00:58:18.400 --> 00:58:21.400]   [AUDIO OUT]
+[00:58:21.400 --> 00:58:24.400]   [AUDIO OUT]
+[00:58:24.400 --> 00:58:27.400]   [AUDIO OUT]
+[00:58:27.400 --> 00:58:30.400]   [AUDIO OUT]
+[00:58:30.400 --> 00:58:33.400]   [AUDIO OUT]
+[00:58:33.400 --> 00:58:36.400]   [AUDIO OUT]
+[00:58:36.400 --> 00:58:39.400]   [AUDIO OUT]
+[00:58:39.400 --> 00:58:42.400]   [AUDIO OUT]
+[00:58:42.400 --> 00:58:45.400]   [AUDIO OUT]
+[00:58:45.400 --> 00:58:48.400]   [AUDIO OUT]
+[00:58:48.400 --> 00:58:51.400]   [AUDIO OUT]
+[00:58:51.400 --> 00:58:54.400]   [AUDIO OUT]
+[00:58:54.400 --> 00:58:57.400]   [AUDIO OUT]
+[00:58:57.400 --> 00:59:00.400]   [AUDIO OUT]
+[00:59:00.400 --> 00:59:03.400]   [AUDIO OUT]
+[00:59:03.400 --> 00:59:06.400]   [AUDIO OUT]
+[00:59:06.400 --> 00:59:09.400]   [AUDIO OUT]
+[00:59:09.400 --> 00:59:12.400]   [AUDIO OUT]
+[00:59:12.400 --> 00:59:15.400]   [AUDIO OUT]
+[00:59:15.400 --> 00:59:18.400]   [AUDIO OUT]
+[00:59:18.400 --> 00:59:21.400]   [AUDIO OUT]
+[00:59:21.400 --> 00:59:24.400]   [AUDIO OUT]
+[00:59:24.400 --> 00:59:27.400]   [AUDIO OUT]
+[00:59:27.400 --> 00:59:30.400]   [AUDIO OUT]
+[00:59:30.400 --> 00:59:33.400]   [AUDIO OUT]
+[00:59:33.400 --> 00:59:36.400]   [AUDIO OUT]
+[00:59:36.400 --> 00:59:39.400]   [AUDIO OUT]
+[00:59:39.400 --> 00:59:42.400]   [AUDIO OUT]
+[00:59:42.400 --> 00:59:45.400]   [AUDIO OUT]
+[00:59:45.400 --> 00:59:48.400]   [AUDIO OUT]
+[00:59:48.400 --> 00:59:51.400]   [AUDIO OUT]
+[00:59:51.400 --> 00:59:54.400]   [AUDIO OUT]
+[00:59:54.400 --> 00:59:57.400]   [AUDIO OUT]
+[00:59:57.400 --> 01:00:00.400]   [AUDIO OUT]
+[01:00:00.400 --> 01:00:03.400]   [AUDIO OUT]
+[01:00:03.400 --> 01:00:06.400]   [AUDIO OUT]
+[01:00:06.400 --> 01:00:09.400]   [AUDIO OUT]
+[01:00:09.400 --> 01:00:12.400]   [AUDIO OUT]
+[01:00:12.400 --> 01:00:15.400]   [AUDIO OUT]
+[01:00:15.400 --> 01:00:18.400]   [AUDIO OUT]
+[01:00:18.400 --> 01:00:21.400]   [AUDIO OUT]
+[01:00:21.400 --> 01:00:24.400]   [AUDIO OUT]
+[01:00:24.400 --> 01:00:27.400]   [AUDIO OUT]
+[01:00:27.400 --> 01:00:30.400]   [AUDIO OUT]
+[01:00:30.400 --> 01:00:33.400]   [AUDIO OUT]
+[01:00:33.400 --> 01:00:36.400]   [AUDIO OUT]
+[01:00:36.400 --> 01:00:39.400]   [AUDIO OUT]
+[01:00:39.400 --> 01:00:42.400]   [AUDIO OUT]
+[01:00:42.400 --> 01:00:45.400]   [AUDIO OUT]
+[01:00:45.400 --> 01:00:48.400]   [AUDIO OUT]
+[01:00:48.400 --> 01:00:51.400]   [AUDIO OUT]
+[01:00:51.400 --> 01:00:54.400]   [AUDIO OUT]
+[01:00:54.400 --> 01:00:57.400]   [AUDIO OUT]
+[01:00:57.400 --> 01:01:00.400]   [AUDIO OUT]
+[01:01:00.400 --> 01:01:03.400]   [AUDIO OUT]
+[01:01:03.400 --> 01:01:06.400]   [AUDIO OUT]
+[01:01:06.400 --> 01:01:09.400]   [AUDIO OUT]
+[01:01:09.400 --> 01:01:12.400]   [AUDIO OUT]
+[01:01:12.400 --> 01:01:15.400]   [AUDIO OUT]
+[01:01:15.400 --> 01:01:18.400]   [AUDIO OUT]
+[01:01:18.400 --> 01:01:21.400]   [AUDIO OUT]
+[01:01:21.400 --> 01:01:24.400]   [AUDIO OUT]
+[01:01:24.400 --> 01:01:27.400]   [AUDIO OUT]
+[01:01:27.400 --> 01:01:30.400]   [AUDIO OUT]
+[01:01:30.400 --> 01:01:33.400]   [AUDIO OUT]
+[01:01:33.400 --> 01:01:36.400]   [AUDIO OUT]
+[01:01:36.400 --> 01:01:39.400]   [AUDIO OUT]
+[01:01:39.400 --> 01:01:42.400]   [AUDIO OUT]
+[01:01:42.400 --> 01:01:45.400]   [AUDIO OUT]
+[01:01:45.400 --> 01:01:48.400]   [AUDIO OUT]
+[01:01:48.400 --> 01:01:51.400]   [AUDIO OUT]
+[01:01:51.400 --> 01:01:54.400]   [AUDIO OUT]
+[01:01:54.400 --> 01:01:57.400]   [AUDIO OUT]
+[01:01:57.400 --> 01:02:00.400]   [AUDIO OUT]
+[01:02:00.400 --> 01:02:03.400]   [AUDIO OUT]
+[01:02:03.400 --> 01:02:06.400]   [AUDIO OUT]
+[01:02:06.400 --> 01:02:09.400]   [AUDIO OUT]
+[01:02:09.400 --> 01:02:12.400]   [AUDIO OUT]
+[01:02:12.400 --> 01:02:15.400]   [AUDIO OUT]
+[01:02:15.400 --> 01:02:18.400]   [AUDIO OUT]
+[01:02:18.400 --> 01:02:21.400]   [AUDIO OUT]
+[01:02:21.400 --> 01:02:24.400]   [AUDIO OUT]
+[01:02:24.400 --> 01:02:27.400]   [AUDIO OUT]
+[01:02:27.400 --> 01:02:30.400]   [AUDIO OUT]
+[01:02:30.400 --> 01:02:33.400]   [AUDIO OUT]
+[01:02:33.400 --> 01:02:36.400]   [AUDIO OUT]
+[01:02:36.400 --> 01:02:39.400]   [AUDIO OUT]
+[01:02:39.400 --> 01:02:42.400]   [AUDIO OUT]
+[01:02:42.400 --> 01:02:45.400]   [AUDIO OUT]
+[01:02:45.400 --> 01:02:48.400]   [AUDIO OUT]
+[01:02:48.400 --> 01:02:51.400]   [AUDIO OUT]
+[01:02:51.400 --> 01:02:54.400]   [AUDIO OUT]
+[01:02:54.400 --> 01:02:57.400]   [AUDIO OUT]
+[01:02:57.400 --> 01:03:00.400]   [AUDIO OUT]
+[01:03:00.400 --> 01:03:03.400]   [AUDIO OUT]
+[01:03:03.400 --> 01:03:06.400]   [AUDIO OUT]
+[01:03:06.400 --> 01:03:09.400]   [AUDIO OUT]
+[01:03:09.400 --> 01:03:12.400]   [AUDIO OUT]
+[01:03:12.400 --> 01:03:15.400]   [AUDIO OUT]
+[01:03:15.400 --> 01:03:18.400]   [AUDIO OUT]
+[01:03:18.400 --> 01:03:21.400]   [AUDIO OUT]
+[01:03:21.400 --> 01:03:24.400]   [AUDIO OUT]
+[01:03:24.400 --> 01:03:27.400]   [AUDIO OUT]
+[01:03:27.400 --> 01:03:30.400]   [AUDIO OUT]
+[01:03:30.400 --> 01:03:33.400]   [AUDIO OUT]
+[01:03:33.400 --> 01:03:36.400]   [AUDIO OUT]
+[01:03:36.400 --> 01:03:39.400]   [AUDIO OUT]
+[01:03:39.400 --> 01:03:42.400]   [AUDIO OUT]
+[01:03:42.400 --> 01:03:45.400]   [AUDIO OUT]
+[01:03:45.400 --> 01:03:48.400]   [AUDIO OUT]
+[01:03:48.400 --> 01:03:51.400]   [AUDIO OUT]
+[01:03:51.400 --> 01:03:54.400]   [AUDIO OUT]
+[01:03:54.400 --> 01:03:57.400]   [AUDIO OUT]
+[01:03:57.400 --> 01:04:00.400]   [AUDIO OUT]
+[01:04:00.400 --> 01:04:03.400]   [AUDIO OUT]
+[01:04:03.400 --> 01:04:06.400]   [AUDIO OUT]
+[01:04:06.400 --> 01:04:09.400]   [AUDIO OUT]
+[01:04:09.400 --> 01:04:12.400]   [AUDIO OUT]
+[01:04:12.400 --> 01:04:15.400]   [AUDIO OUT]
+[01:04:15.400 --> 01:04:18.400]   [AUDIO OUT]
+[01:04:18.400 --> 01:04:21.400]   [AUDIO OUT]
+[01:04:21.400 --> 01:04:24.400]   [AUDIO OUT]
+[01:04:24.400 --> 01:04:27.400]   [AUDIO OUT]
+[01:04:27.400 --> 01:04:30.400]   [AUDIO OUT]
+[01:04:30.400 --> 01:04:33.400]   [AUDIO OUT]
+[01:04:33.400 --> 01:04:36.400]   [AUDIO OUT]
+[01:04:36.400 --> 01:04:39.400]   [AUDIO OUT]
+[01:04:39.400 --> 01:04:42.400]   [AUDIO OUT]
+[01:04:42.400 --> 01:04:45.400]   [AUDIO OUT]
+[01:04:45.400 --> 01:04:48.400]   [AUDIO OUT]
+[01:04:48.400 --> 01:04:51.400]   [AUDIO OUT]
+[01:04:51.400 --> 01:04:54.400]   [AUDIO OUT]
+[01:04:54.400 --> 01:04:57.400]   [AUDIO OUT]
+[01:04:57.400 --> 01:05:00.400]   [AUDIO OUT]
+[01:05:00.400 --> 01:05:03.400]   [AUDIO OUT]
+[01:05:03.400 --> 01:05:06.400]   [AUDIO OUT]
+[01:05:06.400 --> 01:05:09.400]   [AUDIO OUT]
+[01:05:09.400 --> 01:05:12.400]   [AUDIO OUT]
+[01:05:12.400 --> 01:05:15.400]   [AUDIO OUT]
+[01:05:15.400 --> 01:05:18.400]   [AUDIO OUT]
+[01:05:18.400 --> 01:05:21.400]   [AUDIO OUT]
+[01:05:21.400 --> 01:05:24.400]   [AUDIO OUT]
+[01:05:24.400 --> 01:05:27.400]   [AUDIO OUT]
+[01:05:27.400 --> 01:05:30.400]   [AUDIO OUT]
+[01:05:30.400 --> 01:05:33.400]   [AUDIO OUT]
+[01:05:33.400 --> 01:05:36.400]   [AUDIO OUT]
+[01:05:36.400 --> 01:05:39.400]   [AUDIO OUT]
+[01:05:39.400 --> 01:05:42.400]   [AUDIO OUT]
+[01:05:42.400 --> 01:05:45.400]   [AUDIO OUT]
+[01:05:45.400 --> 01:05:48.400]   [AUDIO OUT]
+[01:05:48.400 --> 01:05:51.400]   [AUDIO OUT]
+[01:05:51.400 --> 01:05:54.400]   [AUDIO OUT]
+[01:05:54.400 --> 01:05:57.400]   [AUDIO OUT]
+[01:05:57.400 --> 01:06:00.400]   [AUDIO OUT]
+[01:06:00.400 --> 01:06:03.400]   [AUDIO OUT]
+[01:06:03.400 --> 01:06:06.400]   [AUDIO OUT]
+[01:06:06.400 --> 01:06:09.400]   [AUDIO OUT]
+[01:06:09.400 --> 01:06:12.400]   [AUDIO OUT]
+[01:06:12.400 --> 01:06:15.400]   [AUDIO OUT]
+[01:06:15.400 --> 01:06:18.400]   [AUDIO OUT]
+[01:06:18.400 --> 01:06:21.400]   [AUDIO OUT]
+[01:06:21.400 --> 01:06:24.400]   [AUDIO OUT]
+[01:06:24.400 --> 01:06:27.400]   [AUDIO OUT]
+[01:06:27.400 --> 01:06:30.400]   [AUDIO OUT]
+[01:06:30.400 --> 01:06:33.400]   [AUDIO OUT]
+[01:06:33.400 --> 01:06:36.400]   [AUDIO OUT]
+[01:06:36.400 --> 01:06:39.400]   [AUDIO OUT]
+[01:06:39.400 --> 01:06:42.400]   [AUDIO OUT]
+[01:06:42.400 --> 01:06:45.400]   [AUDIO OUT]
+[01:06:45.400 --> 01:06:48.400]   [AUDIO OUT]
+[01:06:48.400 --> 01:06:51.400]   [AUDIO OUT]
+[01:06:51.400 --> 01:06:54.400]   [AUDIO OUT]
+[01:06:54.400 --> 01:06:57.400]   [AUDIO OUT]
+[01:06:57.400 --> 01:07:00.400]   [AUDIO OUT]
+[01:07:00.400 --> 01:07:03.400]   [AUDIO OUT]
+[01:07:03.400 --> 01:07:06.400]   [AUDIO OUT]
+[01:07:06.400 --> 01:07:09.400]   [AUDIO OUT]
+[01:07:09.400 --> 01:07:12.400]   [AUDIO OUT]
+[01:07:12.400 --> 01:07:15.400]   [AUDIO OUT]
+[01:07:15.400 --> 01:07:18.400]   [AUDIO OUT]
+[01:07:18.400 --> 01:07:21.400]   [AUDIO OUT]
+[01:07:21.400 --> 01:07:24.400]   [AUDIO OUT]
+[01:07:24.400 --> 01:07:27.400]   [AUDIO OUT]
+[01:07:27.400 --> 01:07:30.400]   [AUDIO OUT]
+[01:07:30.400 --> 01:07:33.400]   [AUDIO OUT]
+[01:07:33.400 --> 01:07:36.400]   [AUDIO OUT]
+[01:07:36.400 --> 01:07:39.400]   [AUDIO OUT]
+[01:07:39.400 --> 01:07:42.400]   [AUDIO OUT]
+[01:07:42.400 --> 01:07:45.400]   [AUDIO OUT]
+[01:07:45.400 --> 01:07:48.400]   [AUDIO OUT]
+[01:07:48.400 --> 01:07:51.400]   [AUDIO OUT]
+[01:07:51.400 --> 01:07:54.400]   [AUDIO OUT]
+[01:07:54.400 --> 01:07:57.400]   [AUDIO OUT]
+[01:07:57.400 --> 01:08:00.400]   [AUDIO OUT]
+[01:08:00.400 --> 01:08:03.400]   [AUDIO OUT]
+[01:08:03.400 --> 01:08:06.400]   [AUDIO OUT]
+[01:08:06.400 --> 01:08:09.400]   [AUDIO OUT]
+[01:08:09.400 --> 01:08:12.400]   [AUDIO OUT]
+[01:08:12.400 --> 01:08:15.400]   [AUDIO OUT]
+[01:08:15.400 --> 01:08:18.400]   [AUDIO OUT]
+[01:08:18.400 --> 01:08:21.400]   [AUDIO OUT]
+[01:08:21.400 --> 01:08:24.400]   [AUDIO OUT]
+[01:08:24.400 --> 01:08:27.400]   [AUDIO OUT]
+[01:08:27.400 --> 01:08:30.400]   [AUDIO OUT]
+[01:08:30.400 --> 01:08:33.400]   [AUDIO OUT]
+[01:08:33.400 --> 01:08:36.400]   [AUDIO OUT]
+[01:08:36.400 --> 01:08:39.400]   [AUDIO OUT]
+[01:08:39.400 --> 01:08:42.400]   [AUDIO OUT]
+[01:08:42.400 --> 01:08:45.400]   [AUDIO OUT]
+[01:08:45.400 --> 01:08:48.400]   [AUDIO OUT]
+[01:08:48.400 --> 01:08:51.400]   [AUDIO OUT]
+[01:08:51.400 --> 01:08:54.400]   [AUDIO OUT]
+[01:08:54.400 --> 01:08:57.400]   [AUDIO OUT]
+[01:08:57.400 --> 01:09:00.400]   [AUDIO OUT]
+[01:09:00.400 --> 01:09:03.400]   [AUDIO OUT]
+[01:09:03.400 --> 01:09:06.400]   [AUDIO OUT]
+[01:09:06.400 --> 01:09:09.400]   [AUDIO OUT]
+[01:09:09.400 --> 01:09:12.400]   [AUDIO OUT]
+[01:09:12.400 --> 01:09:15.400]   [AUDIO OUT]
+[01:09:15.400 --> 01:09:18.400]   [AUDIO OUT]
+[01:09:18.400 --> 01:09:21.400]   [AUDIO OUT]
+[01:09:21.400 --> 01:09:24.400]   [AUDIO OUT]
+[01:09:24.400 --> 01:09:27.400]   [AUDIO OUT]
+[01:09:27.400 --> 01:09:30.400]   [AUDIO OUT]
+[01:09:30.400 --> 01:09:33.400]   [AUDIO OUT]
+[01:09:33.400 --> 01:09:36.400]   [AUDIO OUT]
+[01:09:36.400 --> 01:09:39.400]   [AUDIO OUT]
+[01:09:39.400 --> 01:09:42.400]   [AUDIO OUT]
+[01:09:42.400 --> 01:09:45.400]   [AUDIO OUT]
+[01:09:45.400 --> 01:09:48.400]   [AUDIO OUT]
+[01:09:48.400 --> 01:09:51.400]   [AUDIO OUT]
+[01:09:51.400 --> 01:09:54.400]   [AUDIO OUT]
+[01:09:54.400 --> 01:09:57.400]   [AUDIO OUT]
+[01:09:57.400 --> 01:10:00.400]   [AUDIO OUT]
+[01:10:00.400 --> 01:10:03.400]   [AUDIO OUT]
+[01:10:03.400 --> 01:10:06.400]   [AUDIO OUT]
+[01:10:06.400 --> 01:10:09.400]   [AUDIO OUT]
+[01:10:09.400 --> 01:10:12.400]   [AUDIO OUT]
+[01:10:12.400 --> 01:10:15.400]   [AUDIO OUT]
+[01:10:15.400 --> 01:10:18.400]   [AUDIO OUT]
+[01:10:18.400 --> 01:10:21.400]   [AUDIO OUT]
+[01:10:21.400 --> 01:10:24.400]   [AUDIO OUT]
+[01:10:24.400 --> 01:10:27.400]   [AUDIO OUT]
+[01:10:27.400 --> 01:10:30.400]   [AUDIO OUT]
+[01:10:30.400 --> 01:10:33.400]   [AUDIO OUT]
+[01:10:33.400 --> 01:10:36.400]   [AUDIO OUT]
+[01:10:36.400 --> 01:10:39.400]   [AUDIO OUT]
+[01:10:39.400 --> 01:10:42.400]   [AUDIO OUT]
+[01:10:42.400 --> 01:10:45.400]   [AUDIO OUT]
+[01:10:45.400 --> 01:10:48.400]   [AUDIO OUT]
+[01:10:48.400 --> 01:10:51.400]   [AUDIO OUT]
+[01:10:51.400 --> 01:10:54.400]   [AUDIO OUT]
+[01:10:54.400 --> 01:10:57.400]   [AUDIO OUT]
+[01:10:57.400 --> 01:11:00.400]   [AUDIO OUT]
+[01:11:00.400 --> 01:11:03.400]   [AUDIO OUT]
+[01:11:03.400 --> 01:11:06.400]   [AUDIO OUT]
+[01:11:06.400 --> 01:11:09.400]   [AUDIO OUT]
+[01:11:09.400 --> 01:11:12.400]   [AUDIO OUT]
+[01:11:12.400 --> 01:11:15.400]   [AUDIO OUT]
+[01:11:15.400 --> 01:11:18.400]   [AUDIO OUT]
+[01:11:18.400 --> 01:11:21.400]   [AUDIO OUT]
+[01:11:21.400 --> 01:11:24.400]   [AUDIO OUT]
+[01:11:24.400 --> 01:11:27.400]   [AUDIO OUT]
+[01:11:27.400 --> 01:11:30.400]   [AUDIO OUT]
+[01:11:30.400 --> 01:11:33.400]   [AUDIO OUT]
+[01:11:59.400 --> 01:12:02.400]   [AUDIO OUT]
+[01:12:02.400 --> 01:12:12.400]   [AUDIO OUT]
+[01:12:12.400 --> 01:12:24.400]   [AUDIO OUT]
+[01:12:24.400 --> 01:12:27.400]   [AUDIO OUT]
+[01:12:27.400 --> 01:12:37.400]   [AUDIO OUT]
+[01:12:37.400 --> 01:12:49.000]   OK, if I can just call your attention up here.
+[01:12:49.000 --> 01:12:51.680]   I would like to just open this up just in a word of prayer.
+[01:12:51.880 --> 01:12:54.880]   [AUDIO OUT]
+[01:12:54.880 --> 01:13:01.680]   Father, help us to just understand this passage well
+[01:13:01.680 --> 01:13:03.720]   and apply it well.
+[01:13:03.720 --> 01:13:07.000]   And I pray, Father God, as your word is living and active,
+[01:13:07.000 --> 01:13:09.720]   and it's sharper than a two-edged sword,
+[01:13:09.720 --> 01:13:12.520]   I pray that you would not just cut us up,
+[01:13:12.520 --> 01:13:17.520]   but fill us with so much joy as we look into just the unity
+[01:13:17.520 --> 01:13:19.960]   that existed among the apostles.
+[01:13:19.960 --> 01:13:23.440]   So we pray for your help to understand,
+[01:13:23.440 --> 01:13:26.920]   guide us in our thoughts for the next few minutes.
+[01:13:26.920 --> 01:13:29.680]   In Jesus' name, we pray.
+[01:13:29.680 --> 01:13:33.640]   So as we've mentioned in the past few weeks,
+[01:13:33.640 --> 01:13:37.080]   chapters 1 and 2, it really is Paul's defense
+[01:13:37.080 --> 01:13:40.760]   of his apostleship, that he is at the same level
+[01:13:40.760 --> 01:13:42.480]   as the other apostles.
+[01:13:42.480 --> 01:13:48.320]   And he goes into this long autobiographical account.
+[01:13:48.320 --> 01:13:50.960]   So remember, the main point at the beginning of this
+[01:13:50.960 --> 01:13:54.200]   was this gospel is not of man.
+[01:13:54.200 --> 01:13:56.720]   It's 100% of God.
+[01:13:56.720 --> 01:14:00.120]   We looked at Paul's testimony in verses 13 to 17.
+[01:14:00.120 --> 01:14:05.160]   Verses 18 to 24, we actually see Paul's quick description
+[01:14:05.160 --> 01:14:08.520]   of how he came to meet the apostles.
+[01:14:08.520 --> 01:14:12.160]   And then chapters 2, verses 1 through 10,
+[01:14:12.160 --> 01:14:16.080]   it's about his time with the other apostles
+[01:14:16.080 --> 01:14:21.800]   and hammering out what the gospel is and what it isn't.
+[01:14:21.800 --> 01:14:25.560]   Last week, we looked at the first five verses.
+[01:14:25.560 --> 01:14:29.240]   Paul's gospel ministry was not in vain,
+[01:14:29.240 --> 01:14:33.320]   despite opposition from the false brothers.
+[01:14:33.320 --> 01:14:37.760]   Today, we're looking at Paul and the other apostles of Christ
+[01:14:37.760 --> 01:14:40.680]   were actually all in one accord.
+[01:14:40.680 --> 01:14:42.880]   They're all in agreement.
+[01:14:42.880 --> 01:14:46.640]   So in our group discussion, it was like,
+[01:14:46.640 --> 01:14:49.080]   "Oh, man, Paul sounds angry."
+[01:14:49.080 --> 01:14:52.400]   Did you guys all come to that same conclusion?
+[01:14:52.400 --> 01:14:57.120]   He is angry, but he's not angry at the apostles, okay?
+[01:14:57.120 --> 01:14:58.680]   Well, until next week, right?
+[01:14:58.680 --> 01:15:03.920]   But he is -- he's upset at the foolish Galatians.
+[01:15:03.920 --> 01:15:06.480]   We're going to look at it in chapter 3, verse 1.
+[01:15:06.480 --> 01:15:09.040]   But today's passage, we're going to see
+[01:15:09.040 --> 01:15:12.280]   that the apostles of Christ,
+[01:15:12.280 --> 01:15:15.040]   whether they were part of the original 12 disciples
+[01:15:15.040 --> 01:15:18.400]   or whether he's a Jerusalem church leader
+[01:15:18.400 --> 01:15:21.200]   or he's a later addition like the Apostle Paul,
+[01:15:21.200 --> 01:15:22.680]   they're all one, okay?
+[01:15:22.680 --> 01:15:26.440]   So we're going to be looking at that today.
+[01:15:26.440 --> 01:15:29.360]   So this was the outline I threw up last week,
+[01:15:29.360 --> 01:15:31.560]   and I'm looking at this again.
+[01:15:31.560 --> 01:15:33.520]   And the only thing I want to call your attention to
+[01:15:33.520 --> 01:15:37.160]   is you see the words "circumcised,
+[01:15:37.160 --> 01:15:38.760]   circumcised, circumcised."
+[01:15:38.760 --> 01:15:42.040]   He never says "Jews."
+[01:15:42.040 --> 01:15:45.760]   But if you notice, he'll say the Gentiles twice,
+[01:15:45.760 --> 01:15:49.720]   but one of them, he actually calls it the uncircumcised.
+[01:15:49.720 --> 01:15:51.680]   Did you guys pick up on that?
+[01:15:51.680 --> 01:15:53.120]   Anybody?
+[01:15:53.120 --> 01:15:56.680]   If actually you look at the Greek, "circumcised,"
+[01:15:56.680 --> 01:16:01.280]   and then he calls the uncircumcised people the foreskins.
+[01:16:01.280 --> 01:16:03.720]   So he's using strong words,
+[01:16:03.720 --> 01:16:05.200]   and he's going to use strong words
+[01:16:05.200 --> 01:16:06.040]   throughout this whole letter.
+[01:16:06.040 --> 01:16:06.920]   Later, he's going to see, like,
+[01:16:06.920 --> 01:16:09.320]   I wish they would just mutilate themselves completely.
+[01:16:09.320 --> 01:16:11.040]   So he's going to use these strong words,
+[01:16:11.040 --> 01:16:13.800]   but these are, he keeps saying,
+[01:16:13.800 --> 01:16:15.480]   "We've been entrusted.
+[01:16:15.480 --> 01:16:19.080]   I've been entrusted with the gospel to the uncircumcised,
+[01:16:19.080 --> 01:16:21.240]   just as Peter was entrusted with the gospel
+[01:16:21.240 --> 01:16:23.440]   to the circumcised."
+[01:16:23.440 --> 01:16:27.280]   And so you see this ministry happening, right?
+[01:16:27.280 --> 01:16:32.080]   So here's an important question.
+[01:16:32.080 --> 01:16:37.440]   When he talks about the people who are of high reputation,
+[01:16:37.440 --> 01:16:40.320]   he says, "God shows no partiality.
+[01:16:41.320 --> 01:16:45.120]   Did any of your groups get stuck on, like, what that means?
+[01:16:45.120 --> 01:16:46.200]   Like, what does it mean for God
+[01:16:46.200 --> 01:16:47.480]   not to show any partiality?
+[01:16:47.480 --> 01:16:48.320]   Anybody?
+[01:16:48.320 --> 01:16:50.400]   Nobody?
+[01:16:50.400 --> 01:16:53.240]   All right, then, we won't cover that.
+[01:16:53.240 --> 01:16:54.080]   I'm just kidding.
+[01:16:54.080 --> 01:16:55.720]   We will cover that.
+[01:16:55.720 --> 01:16:58.080]   But I wanted to just show you
+[01:16:58.080 --> 01:17:03.160]   in what areas and how Paul and the other apostles of Christ
+[01:17:03.160 --> 01:17:05.720]   were in one accord, okay?
+[01:17:05.720 --> 01:17:08.160]   So just track along with me.
+[01:17:09.160 --> 01:17:12.560]   They had the exact same position
+[01:17:12.560 --> 01:17:16.680]   on circumcising Gentile converts.
+[01:17:16.680 --> 01:17:19.000]   Did they want to circumcise Gentile converts,
+[01:17:19.000 --> 01:17:20.680]   or did they think, "Unnecessary?
+[01:17:20.680 --> 01:17:23.240]   Unnecessary."
+[01:17:23.240 --> 01:17:24.080]   Chapter two, verse three.
+[01:17:24.080 --> 01:17:28.760]   "But even Titus, who was with me, although he was a Greek,
+[01:17:28.760 --> 01:17:30.520]   was never forced to be circumcised."
+[01:17:30.520 --> 01:17:32.040]   He wasn't compelled.
+[01:17:32.040 --> 01:17:34.840]   So the other apostles didn't ever make it an issue.
+[01:17:36.200 --> 01:17:39.080]   So all the apostles' position
+[01:17:39.080 --> 01:17:41.640]   of circumcising the Gentiles,
+[01:17:41.640 --> 01:17:45.400]   none of them were like, "You don't need to do that," okay?
+[01:17:45.400 --> 01:17:49.800]   Chapter two, verse six.
+[01:17:49.800 --> 01:17:53.760]   They had the exact same gospel message,
+[01:17:53.760 --> 01:17:55.240]   and I wanna read verse six.
+[01:17:55.240 --> 01:18:03.080]   "They contributed nothing to him."
+[01:18:03.080 --> 01:18:05.000]   Now, if you read just the English,
+[01:18:05.000 --> 01:18:06.840]   it sounds very disrespectful.
+[01:18:06.840 --> 01:18:08.880]   I don't care about them.
+[01:18:08.880 --> 01:18:11.280]   I don't care about their position.
+[01:18:11.280 --> 01:18:12.480]   What have they done for me lately?
+[01:18:12.480 --> 01:18:15.560]   That's not the tome, right?
+[01:18:15.560 --> 01:18:20.640]   Their position matters not to me,
+[01:18:20.640 --> 01:18:23.240]   but they were in position.
+[01:18:23.240 --> 01:18:24.920]   They are in position.
+[01:18:24.920 --> 01:18:28.780]   I conferred with them in secret because of their position,
+[01:18:28.780 --> 01:18:32.680]   and I presented to them the gospel that I've been preaching.
+[01:18:33.640 --> 01:18:35.720]   They didn't need to touch it
+[01:18:35.720 --> 01:18:38.920]   'cause it was the exact same one that they had.
+[01:18:38.920 --> 01:18:41.040]   They contributed nothing to me.
+[01:18:41.040 --> 01:18:43.960]   They didn't add anything.
+[01:18:43.960 --> 01:18:45.480]   There was no need to do that.
+[01:18:45.480 --> 01:18:50.400]   Okay, so they had the same gospel message.
+[01:18:50.400 --> 01:18:56.160]   They had the exact same ministerial goals.
+[01:18:56.160 --> 01:18:57.960]   In chapter two, verse seven and nine,
+[01:18:57.960 --> 01:19:00.160]   actually should be viewed all in one.
+[01:19:01.640 --> 01:19:04.000]   All of their desires collectively
+[01:19:04.000 --> 01:19:05.520]   were to proclaim the gospel,
+[01:19:05.520 --> 01:19:10.240]   whether it be to the circumcised or the uncircumcised.
+[01:19:10.240 --> 01:19:12.760]   Now, obviously, if you're looking through the book of Acts,
+[01:19:12.760 --> 01:19:16.360]   did Peter preach ever to the Gentiles?
+[01:19:16.360 --> 01:19:18.560]   He did.
+[01:19:18.560 --> 01:19:22.400]   Did Paul preach to the Jews?
+[01:19:22.400 --> 01:19:25.080]   Absolutely he did.
+[01:19:25.080 --> 01:19:27.280]   Did Paul have a heart for the Jews?
+[01:19:27.280 --> 01:19:30.920]   Yes, but there were specific assignments
+[01:19:30.920 --> 01:19:35.920]   in the early church that God had given all the apostles,
+[01:19:35.920 --> 01:19:39.360]   and they were united, and they were strategic,
+[01:19:39.360 --> 01:19:41.160]   and they were obedient to the call,
+[01:19:41.160 --> 01:19:43.240]   but their goal was exactly the same,
+[01:19:43.240 --> 01:19:44.520]   to proclaim this truth.
+[01:19:44.520 --> 01:19:51.720]   And they also had the same source of strength for the work.
+[01:19:51.720 --> 01:19:52.640]   Chapter two, verse eight,
+[01:19:52.640 --> 01:19:57.120]   for he who worked in Peter, or Cephas,
+[01:19:57.120 --> 01:19:59.040]   I forget which one he uses,
+[01:19:59.040 --> 01:20:03.080]   unto his apostleship to the circumcised
+[01:20:03.080 --> 01:20:07.400]   was also at work in me unto the Gentiles.
+[01:20:07.400 --> 01:20:08.240]   Who's the he?
+[01:20:08.240 --> 01:20:11.960]   The Holy Spirit, God.
+[01:20:11.960 --> 01:20:13.640]   So their source of strength,
+[01:20:13.640 --> 01:20:15.680]   and then the word in the Greek is actually,
+[01:20:15.680 --> 01:20:19.300]   it just means just flood with energy.
+[01:20:19.300 --> 01:20:22.520]   That's why the NASB, if you've noticed,
+[01:20:22.520 --> 01:20:25.160]   it says effectually work, where the other ones don't.
+[01:20:26.320 --> 01:20:30.840]   He literally just shot through Peter.
+[01:20:30.840 --> 01:20:36.200]   The Holy Spirit just shot through Paul
+[01:20:36.200 --> 01:20:40.080]   with spiritual juice to proclaim the gospel
+[01:20:40.080 --> 01:20:42.080]   in accuracy and in totality.
+[01:20:42.080 --> 01:20:44.520]   So they had the same source of strength for work.
+[01:20:44.520 --> 01:20:50.960]   And verse 10, they had the same heart of compassion
+[01:20:50.960 --> 01:20:51.860]   for the poor.
+[01:20:51.860 --> 01:20:55.000]   You guys notice that?
+[01:20:56.000 --> 01:20:58.480]   The apostles are like, all right,
+[01:20:58.480 --> 01:21:00.880]   dude, our gospels are aligned.
+[01:21:00.880 --> 01:21:02.760]   There's nothing to add.
+[01:21:02.760 --> 01:21:05.280]   And our gospels preclude,
+[01:21:05.280 --> 01:21:10.000]   you don't need to do any work to get saved.
+[01:21:10.000 --> 01:21:11.080]   But hey, Paul,
+[01:21:11.080 --> 01:21:14.320]   I know that helping the poor
+[01:21:14.320 --> 01:21:17.720]   doesn't get you extra access to God or to salvation,
+[01:21:17.720 --> 01:21:20.080]   but you care about the poor, right?
+[01:21:20.080 --> 01:21:21.120]   And Paul's saying,
+[01:21:22.400 --> 01:21:27.400]   I was also spudazzo, very eager, obsessed, zealous.
+[01:21:27.400 --> 01:21:32.640]   You don't think of Paul as a passionate worker for the poor.
+[01:21:32.640 --> 01:21:35.040]   You just think of him as a missionary.
+[01:21:35.040 --> 01:21:37.540]   But Peter, James, and John,
+[01:21:37.540 --> 01:21:43.700]   and Paul all had a lot of compassion for the poor.
+[01:21:43.700 --> 01:21:47.920]   And especially in Jerusalem, there were a lot of them.
+[01:21:47.920 --> 01:21:50.720]   There were a lot of widows, a lot of orphans.
+[01:21:50.720 --> 01:21:52.880]   My guess is probably because of a lot of the persecution
+[01:21:52.880 --> 01:21:54.920]   wiped out a lot of the men.
+[01:21:54.920 --> 01:21:56.640]   There were a lot of hungry people.
+[01:21:56.640 --> 01:22:00.920]   And so Peter, James, and John wanna serve them,
+[01:22:00.920 --> 01:22:03.400]   wanna preach the gospel to them.
+[01:22:03.400 --> 01:22:05.400]   Same thing with Paul.
+[01:22:05.400 --> 01:22:07.120]   So they had the same compassion.
+[01:22:07.120 --> 01:22:12.620]   And God, the reason is God shows no partiality.
+[01:22:12.620 --> 01:22:15.920]   Okay?
+[01:22:15.920 --> 01:22:18.060]   And what does that mean?
+[01:22:20.040 --> 01:22:22.440]   Okay, so I'm gonna take you through a little section
+[01:22:22.440 --> 01:22:24.240]   of the book of Acts, which is also gonna be helpful
+[01:22:24.240 --> 01:22:26.660]   for next two weeks from now.
+[01:22:26.660 --> 01:22:29.860]   God shows no partiality.
+[01:22:29.860 --> 01:22:34.160]   I would like to say he is no respecter of persons.
+[01:22:34.160 --> 01:22:40.320]   God has his favorites in that he chooses
+[01:22:40.320 --> 01:22:42.160]   to pour his love on some,
+[01:22:42.160 --> 01:22:45.920]   and he chooses to leave others what we call reprobate.
+[01:22:45.920 --> 01:22:48.360]   He chooses to pass them over.
+[01:22:48.360 --> 01:22:50.200]   So he does choose.
+[01:22:50.200 --> 01:22:55.200]   But he is not a respecter of persons.
+[01:22:55.200 --> 01:23:00.200]   Nobody can add extra shine
+[01:23:00.200 --> 01:23:03.120]   to make God more attracted to them.
+[01:23:03.120 --> 01:23:04.280]   That cannot be done.
+[01:23:04.280 --> 01:23:09.640]   And whatever position they have is given by God anyway.
+[01:23:09.640 --> 01:23:11.320]   So God is not impressed
+[01:23:11.320 --> 01:23:15.640]   is how I would like to think of that word.
+[01:23:15.640 --> 01:23:16.720]   Make sense?
+[01:23:16.720 --> 01:23:17.560]   Okay?
+[01:23:17.560 --> 01:23:20.840]   So Acts chapter 10, verses nine to 19,
+[01:23:20.840 --> 01:23:23.560]   I'm hoping that this is gonna be helpful.
+[01:23:23.560 --> 01:23:27.700]   This is a account that's familiar with you guys.
+[01:23:27.700 --> 01:23:29.880]   On the next day, as they were on their way
+[01:23:29.880 --> 01:23:31.000]   and approaching the city,
+[01:23:31.000 --> 01:23:34.440]   Peter went up on the housetop about the sixth hour to pray.
+[01:23:34.440 --> 01:23:39.760]   But he became hungry and was desiring to eat.
+[01:23:39.760 --> 01:23:42.840]   But while they were making preparations,
+[01:23:42.840 --> 01:23:44.980]   people were cooking, he fell asleep,
+[01:23:44.980 --> 01:23:46.520]   or he kind of falls into a trance.
+[01:23:46.520 --> 01:23:49.520]   He's so hungry, he falls into a trance.
+[01:23:49.520 --> 01:23:51.200]   Okay, I'm just interpreting that.
+[01:23:51.200 --> 01:23:52.920]   Don't take that literally.
+[01:23:52.920 --> 01:23:55.120]   And then he saw the sky opened up
+[01:23:55.120 --> 01:23:58.560]   and an object like a great sheet coming down
+[01:23:58.560 --> 01:24:00.520]   lowered by four corners to the ground.
+[01:24:00.520 --> 01:24:05.680]   And there were in it all kinds of four-footed animals
+[01:24:05.680 --> 01:24:10.600]   and crawling creatures of the earth and birds of the air.
+[01:24:10.600 --> 01:24:11.840]   I actually Googled image.
+[01:24:11.840 --> 01:24:13.720]   Some of them even had crabs.
+[01:24:13.720 --> 01:24:16.000]   Jews didn't eat shellfish, okay?
+[01:24:16.000 --> 01:24:18.320]   But they had a sack full of stuff
+[01:24:18.320 --> 01:24:20.120]   that Jews were never allowed to eat.
+[01:24:20.120 --> 01:24:23.640]   A voice, verse 13, came to him,
+[01:24:23.640 --> 01:24:27.640]   "Get up, Peter, kill and eat."
+[01:24:27.640 --> 01:24:29.840]   But Peter said, "By no means, Lord,
+[01:24:29.840 --> 01:24:33.640]   "for I have never eaten anything unholy and unclean."
+[01:24:33.640 --> 01:24:36.320]   Again, a voice came to him a second time,
+[01:24:36.320 --> 01:24:41.320]   "What God has cleansed, no longer consider unholy."
+[01:24:41.320 --> 01:24:45.600]   And this happened three times.
+[01:24:46.600 --> 01:24:48.840]   The sheet is lowered, taken away.
+[01:24:48.840 --> 01:24:50.080]   Sheet is lowered, taken away.
+[01:24:50.080 --> 01:24:51.520]   Sheet is lowered, taken away.
+[01:24:51.520 --> 01:24:53.960]   And immediately the object was taken up into the sky.
+[01:24:53.960 --> 01:24:57.280]   And now while Peter was greatly perplexed in his mind
+[01:24:57.280 --> 01:25:02.280]   as to what the vision which he had seen might be,
+[01:25:02.280 --> 01:25:06.400]   behold, the men who had been sent by Cornelius,
+[01:25:06.400 --> 01:25:08.200]   having asked directions for Simon's house,
+[01:25:08.200 --> 01:25:09.680]   they appeared at the gate.
+[01:25:09.680 --> 01:25:11.800]   And calling out, they were asking whether Simon,
+[01:25:11.800 --> 01:25:14.040]   who was also called Peter, was staying there.
+[01:25:14.760 --> 01:25:16.960]   (audience member coughing)
+[01:25:16.960 --> 01:25:19.240]   While Peter was reflecting on the vision,
+[01:25:19.240 --> 01:25:20.800]   the spirit said to him,
+[01:25:20.800 --> 01:25:23.080]   "Behold, three men are looking for you."
+[01:25:23.080 --> 01:25:25.440]   My inductive question here is like,
+[01:25:25.440 --> 01:25:27.920]   is this number three significant?
+[01:25:27.920 --> 01:25:28.840]   Could be.
+[01:25:28.840 --> 01:25:30.160]   Okay, I didn't look into it.
+[01:25:30.160 --> 01:25:32.960]   "Behold, three men are looking for you.
+[01:25:32.960 --> 01:25:34.540]   "But get up, go downstairs,
+[01:25:34.540 --> 01:25:36.960]   "and accompany them without misgivings,
+[01:25:36.960 --> 01:25:39.640]   "for I have sent them myself."
+[01:25:39.640 --> 01:25:41.120]   Peter went down to the men and said,
+[01:25:41.120 --> 01:25:43.400]   "Behold, I am the one you are looking for.
+[01:25:43.400 --> 01:25:46.760]   "What is the reason for which you have come?"
+[01:25:46.760 --> 01:25:48.600]   And these men, they said,
+[01:25:48.600 --> 01:25:52.840]   "Cornelius, a centurion, a righteous and God-fearing man,
+[01:25:52.840 --> 01:25:55.680]   "well-spoken of by the entire nation of the Jews,
+[01:25:55.680 --> 01:26:00.140]   "was divinely directed by a holy angel to send for you,
+[01:26:00.140 --> 01:26:03.720]   "to come to his house and hear a message from you."
+[01:26:03.720 --> 01:26:06.400]   So he invited them in, gave them lodging,
+[01:26:06.400 --> 01:26:08.560]   and on the next day, he got up, went away with them,
+[01:26:08.560 --> 01:26:11.880]   and some of the brethren from Joppa accompanied him.
+[01:26:11.880 --> 01:26:16.120]   On the following day, Peter, he entered Caesarea,
+[01:26:16.120 --> 01:26:18.440]   and now Cornelius was waiting for them
+[01:26:18.440 --> 01:26:21.640]   and called together his relatives and his close friends,
+[01:26:21.640 --> 01:26:25.920]   and when Peter entered, Cornelius met him
+[01:26:25.920 --> 01:26:29.080]   and fell at his feet and worshiped him.
+[01:26:29.080 --> 01:26:32.920]   But Peter raised him up, saying, "Stand up.
+[01:26:32.920 --> 01:26:35.520]   "I, too, am just a man."
+[01:26:35.520 --> 01:26:38.800]   As he talked with him,
+[01:26:38.800 --> 01:26:42.280]   he entered and found many people assembled,
+[01:26:42.280 --> 01:26:44.520]   and Peter said to them,
+[01:26:44.520 --> 01:26:47.460]   "You yourselves know how unlawful it is
+[01:26:47.460 --> 01:26:50.840]   "for a man who is a Jew to associate with a foreigner
+[01:26:50.840 --> 01:26:53.740]   "or to visit him in his house,
+[01:26:53.740 --> 01:26:57.800]   "and yet God has shown me that I should not call any man
+[01:26:57.800 --> 01:26:59.740]   "unholy or unclean.
+[01:26:59.740 --> 01:27:05.060]   "That is why I came without even raising any objection
+[01:27:05.060 --> 01:27:06.200]   "when I was sent for,
+[01:27:06.200 --> 01:27:09.680]   "so I ask, for what reason have you sent me?"
+[01:27:09.680 --> 01:27:12.760]   And Cornelius said, "Four days ago, to this hour,
+[01:27:12.760 --> 01:27:15.680]   "I was praying in my house during the ninth hour,
+[01:27:15.680 --> 01:27:18.360]   "and behold, a man stood before me in shining garments,
+[01:27:18.360 --> 01:27:22.020]   "and he said, 'Cornelius, your prayer has been heard,
+[01:27:22.020 --> 01:27:24.820]   "'and your alms have been remembered before God.
+[01:27:24.820 --> 01:27:27.500]   "'Therefore, send to Joppa and invite Simon,
+[01:27:27.500 --> 01:27:29.900]   "'who is also called Peter, to come to you.
+[01:27:29.900 --> 01:27:33.780]   "'He is staying at the house of Simon the Tiner by the sea.
+[01:27:33.780 --> 01:27:35.300]   "'So I sent for you immediately,
+[01:27:35.300 --> 01:27:36.780]   "'and you have been kind enough to come.'"
+[01:27:36.780 --> 01:27:40.180]   And I'm thinking, dude, this guy must have been so nervous.
+[01:27:40.180 --> 01:27:41.900]   Was this some weird vision that I saw?
+[01:27:41.900 --> 01:27:43.700]   Oh, Peter came, right?
+[01:27:43.700 --> 01:27:49.820]   "Now then, we are all here, present before God,
+[01:27:49.820 --> 01:27:52.660]   "to hear all that you have been commanded by the Lord.
+[01:27:52.660 --> 01:27:54.540]   "Opening his mouth, Peter said,
+[01:27:54.540 --> 01:27:58.260]   "I most certainly understand now
+[01:27:58.260 --> 01:28:02.280]   "that God is not one to show partiality,
+[01:28:02.280 --> 01:28:05.900]   "but in every nation, the man who fears him
+[01:28:05.900 --> 01:28:09.560]   "and does what is right is welcome to him."
+[01:28:09.560 --> 01:28:14.760]   That really enriches my understanding
+[01:28:14.760 --> 01:28:15.960]   of the word partiality.
+[01:28:15.960 --> 01:28:21.660]   I can't even quite articulate it, but it enriches it.
+[01:28:21.660 --> 01:28:22.580]   And then the word which he said
+[01:28:22.580 --> 01:28:24.260]   to the sons of Israel, preaching peace
+[01:28:24.260 --> 01:28:26.300]   through Jesus Christ, he is Lord of all.
+[01:28:29.780 --> 01:28:34.680]   One thing, and I wanna just spend a little bit of time on,
+[01:28:34.680 --> 01:28:38.440]   this seems out of place, right?
+[01:28:38.440 --> 01:28:40.640]   They only asked, and the only is actually in the front,
+[01:28:40.640 --> 01:28:41.980]   so it's emphasized.
+[01:28:41.980 --> 01:28:44.720]   Only they asked us to remember the poor.
+[01:28:44.720 --> 01:28:48.620]   Now, we have to be a little bit careful here.
+[01:28:48.620 --> 01:28:54.720]   This passage, is it a description of what happened,
+[01:28:54.720 --> 01:28:58.020]   or is it a prescription that we need to apply?
+[01:28:58.020 --> 01:29:00.020]   Raise your hand if you say description.
+[01:29:00.020 --> 01:29:03.760]   Raise your hand if you think prescription,
+[01:29:03.760 --> 01:29:05.300]   oh, we have to apply this.
+[01:29:05.300 --> 01:29:09.540]   Dude, 80% of you guys are super shy, okay?
+[01:29:09.540 --> 01:29:11.760]   It's a description.
+[01:29:11.760 --> 01:29:15.660]   What you see in this description
+[01:29:15.660 --> 01:29:17.700]   is that Peter, James, and John,
+[01:29:17.700 --> 01:29:20.960]   it's inferred that they're passionate about this,
+[01:29:20.960 --> 01:29:23.360]   'cause more than anything else,
+[01:29:23.360 --> 01:29:27.200]   they're like, hey, Paul, but wherever you go,
+[01:29:28.200 --> 01:29:33.200]   we just wanna check the poor, right?
+[01:29:33.200 --> 01:29:35.940]   And Paul's like, I'm very eager, spodazzo,
+[01:29:35.940 --> 01:29:37.920]   I'm super zealous for that.
+[01:29:37.920 --> 01:29:42.080]   So you actually see the heart of these men
+[01:29:42.080 --> 01:29:44.820]   when it comes to the poor.
+[01:29:44.820 --> 01:29:47.600]   And so I wanna show you Peter, James, and John,
+[01:29:47.600 --> 01:29:51.440]   and little bits and pieces of their desire for the poor.
+[01:29:51.440 --> 01:29:53.880]   James writes, which is the first book,
+[01:29:53.880 --> 01:29:55.360]   Galatians, people say is the second book
+[01:29:55.360 --> 01:29:56.320]   written in the New Testament,
+[01:29:56.320 --> 01:29:57.720]   but James is the first one.
+[01:29:57.720 --> 01:29:59.800]   Pure and undefiled religion in the sight of our God
+[01:29:59.800 --> 01:30:01.720]   and Father is this, to visit orphans and widows
+[01:30:01.720 --> 01:30:05.200]   in their distress.
+[01:30:05.200 --> 01:30:08.800]   Verse six of chapter two, you've dishonored the poor man.
+[01:30:08.800 --> 01:30:10.160]   Is it not the rich who oppress you
+[01:30:10.160 --> 01:30:11.900]   and personally drag you into the court?
+[01:30:11.900 --> 01:30:14.560]   So James talks quite a bit in the beginning
+[01:30:14.560 --> 01:30:17.880]   about not belittling the poor.
+[01:30:17.880 --> 01:30:21.740]   Chapter two, verse 14 to 17, what use is it, my brothers,
+[01:30:21.740 --> 01:30:24.140]   if someone says he has faith but he has no works?
+[01:30:24.140 --> 01:30:25.760]   Can that faith save him?
+[01:30:25.760 --> 01:30:27.520]   If a brother or sister is without clothing
+[01:30:27.520 --> 01:30:29.920]   and in need of daily food and one of you says to them,
+[01:30:29.920 --> 01:30:31.660]   go in peace, be warmed, and be filled,
+[01:30:31.660 --> 01:30:32.800]   and yet you do not give them
+[01:30:32.800 --> 01:30:35.860]   what is necessary for their body, what use is that?
+[01:30:35.860 --> 01:30:39.420]   Even so, faith, if it has no works, is dead,
+[01:30:39.420 --> 01:30:40.600]   being by itself.
+[01:30:40.600 --> 01:30:44.520]   Paul would not disagree with this verse at all, right?
+[01:30:44.520 --> 01:30:48.840]   So James clearly loves the poor,
+[01:30:48.840 --> 01:30:50.880]   has an affection for the poor.
+[01:30:50.880 --> 01:30:55.880]   First Peter, be hospitable to one another without complaint.
+[01:30:55.880 --> 01:30:58.000]   There's a lot of persecution happening,
+[01:30:58.000 --> 01:31:00.120]   and when there's a lot of persecution happening,
+[01:31:00.120 --> 01:31:02.280]   people can't work, people can't eat,
+[01:31:02.280 --> 01:31:04.540]   so there's poverty everywhere.
+[01:31:04.540 --> 01:31:09.240]   Peter is saying, be hospitable to one another
+[01:31:09.240 --> 01:31:10.760]   without complaint.
+[01:31:10.760 --> 01:31:12.820]   And then in Acts chapter two,
+[01:31:12.820 --> 01:31:16.400]   who's the main leader of the church at that time?
+[01:31:16.400 --> 01:31:18.760]   Peter, there's a lot of poor people,
+[01:31:19.760 --> 01:31:22.000]   and they get organized and they feed the poor.
+[01:31:22.000 --> 01:31:23.680]   People are selling stuff.
+[01:31:23.680 --> 01:31:26.400]   You don't think Peter's leadership was involved there?
+[01:31:26.400 --> 01:31:29.400]   In chapter three, Peter meets a lame man
+[01:31:29.400 --> 01:31:31.120]   and he goes, silver and gold I do not have,
+[01:31:31.120 --> 01:31:32.420]   but what I have I'll give to you
+[01:31:32.420 --> 01:31:35.560]   in the name of Jesus Christ of Nazareth, walk.
+[01:31:35.560 --> 01:31:39.480]   Peter always, and he goes, look at me, in chapter three.
+[01:31:39.480 --> 01:31:42.140]   He did not ignore the poor.
+[01:31:42.140 --> 01:31:48.080]   John, verse 17 of chapter three of the first epistle,
+[01:31:48.080 --> 01:31:49.800]   but whoever has the world's goods
+[01:31:49.800 --> 01:31:50.880]   and sees his brother in need
+[01:31:50.880 --> 01:31:52.080]   and closes his heart against him,
+[01:31:52.080 --> 01:31:53.920]   how does the love of God abide in him?
+[01:31:53.920 --> 01:31:57.280]   Little children, let us not love with word or with tongue,
+[01:31:57.280 --> 01:31:59.840]   but in deed and in truth.
+[01:31:59.840 --> 01:32:03.960]   Is having a heart of compassion
+[01:32:03.960 --> 01:32:07.720]   for the poor characteristic of godly people?
+[01:32:07.720 --> 01:32:08.540]   Yes.
+[01:32:08.540 --> 01:32:12.260]   So the problem with helping the poor
+[01:32:12.260 --> 01:32:13.920]   is not the what or the why.
+[01:32:13.920 --> 01:32:17.640]   It's usually the how.
+[01:32:17.640 --> 01:32:20.260]   And in the how, people get preachy.
+[01:32:20.260 --> 01:32:22.400]   In the how, people get judgy.
+[01:32:22.400 --> 01:32:25.480]   In the how, people go awry.
+[01:32:25.480 --> 01:32:27.120]   'Cause they think the church's objective
+[01:32:27.120 --> 01:32:27.960]   is to help the poor.
+[01:32:27.960 --> 01:32:29.380]   It is not.
+[01:32:29.380 --> 01:32:32.640]   The church's objective is to make the gospel
+[01:32:32.640 --> 01:32:35.080]   loud and clear to the world.
+[01:32:35.080 --> 01:32:36.920]   Amen?
+[01:32:36.920 --> 01:32:41.140]   But if there are poor around you, love on 'em.
+[01:32:41.140 --> 01:32:44.240]   So this passage that we looked at in Galatians 2
+[01:32:44.240 --> 01:32:46.560]   is not a prescribed thing.
+[01:32:46.560 --> 01:32:48.960]   It is just a description of the people's hearts.
+[01:32:48.960 --> 01:32:52.880]   So just when it comes to people of God
+[01:32:52.880 --> 01:32:54.200]   and poverty alleviation,
+[01:32:54.200 --> 01:32:56.120]   and when we look at a passage like this,
+[01:32:56.120 --> 01:32:58.360]   before we jump to make an application,
+[01:32:58.360 --> 01:33:00.080]   we wanna understand in context
+[01:33:00.080 --> 01:33:02.120]   what does Galatians have to say,
+[01:33:02.120 --> 01:33:05.040]   what does Paul have to say, directly or indirectly,
+[01:33:05.040 --> 01:33:07.640]   what do the other New Testament epistles have to say,
+[01:33:07.640 --> 01:33:09.480]   what does the whole Bible have to say
+[01:33:09.480 --> 01:33:11.800]   about how God would have his people engage the poor.
+[01:33:11.800 --> 01:33:13.160]   So you don't wanna just jump,
+[01:33:13.160 --> 01:33:15.600]   okay, we gotta every homeless person
+[01:33:15.600 --> 01:33:17.400]   off the 55 MacArthur exit.
+[01:33:17.400 --> 01:33:18.640]   There's almost a rotation.
+[01:33:18.640 --> 01:33:19.920]   I see like four of 'em on rotation,
+[01:33:19.920 --> 01:33:21.120]   three or four of them on rotation.
+[01:33:21.120 --> 01:33:22.120]   I gotta help them.
+[01:33:22.120 --> 01:33:23.200]   Is that the application?
+[01:33:23.200 --> 01:33:24.040]   I don't think so.
+[01:33:24.040 --> 01:33:27.160]   And this is why I say this, okay?
+[01:33:27.160 --> 01:33:30.320]   The rest of, just from Paul,
+[01:33:30.320 --> 01:33:32.020]   okay, I'm gonna give you a sample.
+[01:33:32.020 --> 01:33:34.760]   First of all, when it comes to the poor,
+[01:33:34.760 --> 01:33:36.600]   1 Corinthians 16, one to two,
+[01:33:36.600 --> 01:33:38.200]   concerning the collection for the saints,
+[01:33:38.200 --> 01:33:40.040]   as I directed the churches of Galatia,
+[01:33:40.040 --> 01:33:43.040]   so do you also on the first day of every week,
+[01:33:43.040 --> 01:33:45.240]   each one of you is to put aside and save
+[01:33:45.240 --> 01:33:46.400]   as he may prosper,
+[01:33:46.400 --> 01:33:48.440]   so that no collections be made when I come.
+[01:33:48.440 --> 01:33:51.040]   So plan on helping the poor
+[01:33:51.040 --> 01:33:53.080]   is something that Paul told the Corinthian church.
+[01:33:53.080 --> 01:33:55.360]   And in 2 Corinthians, in chapter eight,
+[01:33:55.360 --> 01:33:58.720]   he goes, God loves a cheerful giver, right?
+[01:33:58.720 --> 01:34:02.120]   You set in your heart what you wanna give, give.
+[01:34:02.120 --> 01:34:04.640]   Okay, there isn't like a set number or target,
+[01:34:04.640 --> 01:34:06.840]   but there was a specific plan.
+[01:34:06.840 --> 01:34:10.760]   Ephesians 4, 28, he who steals must steal no longer,
+[01:34:10.760 --> 01:34:12.120]   but rather he must labor,
+[01:34:12.120 --> 01:34:14.200]   performing with his own hands what is good
+[01:34:14.200 --> 01:34:15.760]   so that he will have something to share
+[01:34:15.760 --> 01:34:17.720]   with one who has need.
+[01:34:17.720 --> 01:34:20.560]   So if a poor person is tempted to steal,
+[01:34:20.560 --> 01:34:21.920]   you put him to work.
+[01:34:21.920 --> 01:34:23.680]   That's what it says in Ephesians.
+[01:34:23.680 --> 01:34:25.820]   2 Thessalonians 3, 10 to 13,
+[01:34:25.820 --> 01:34:28.680]   for even when we were with you,
+[01:34:28.680 --> 01:34:30.080]   we used to give you this order.
+[01:34:30.080 --> 01:34:32.280]   Apparently the poor were everywhere, okay?
+[01:34:32.280 --> 01:34:34.600]   If anyone is not willing to work,
+[01:34:34.600 --> 01:34:36.200]   then he is not to eat either.
+[01:34:36.200 --> 01:34:38.560]   For we hear that some among you
+[01:34:38.560 --> 01:34:40.480]   are leading an undisciplined life,
+[01:34:40.480 --> 01:34:42.920]   doing no work at all, but acting like busybodies.
+[01:34:42.920 --> 01:34:45.080]   Now such persons we command and exhort in the Lord Jesus
+[01:34:45.080 --> 01:34:48.440]   Christ to work in a quiet fashion and eat their own bread.
+[01:34:48.440 --> 01:34:51.640]   But as for you, brothers, don't grow weary of doing good.
+[01:34:51.640 --> 01:34:53.720]   So this passage I will also wrestle with.
+[01:34:53.720 --> 01:34:59.920]   'Cause the problem of poverty, especially in a first world,
+[01:34:59.920 --> 01:35:02.720]   is a little bit more tricky than not having food to eat.
+[01:35:02.720 --> 01:35:07.560]   Last one, 1 Timothy 5, 8 to 9, and then verse 16,
+[01:35:07.560 --> 01:35:09.520]   but if anyone doesn't provide for his own family,
+[01:35:09.520 --> 01:35:11.240]   and especially for those of his household,
+[01:35:11.240 --> 01:35:13.440]   he is denied the faith and is worse than an unbeliever.
+[01:35:13.440 --> 01:35:16.320]   If a poor person, truly poor person,
+[01:35:16.320 --> 01:35:20.660]   is part of your family, you need to take care of them.
+[01:35:20.660 --> 01:35:23.100]   That's something that's clear, okay?
+[01:35:23.100 --> 01:35:25.600]   Verse nine, a widow is to be put on the list
+[01:35:25.600 --> 01:35:28.620]   only if she is not less than 60 years old,
+[01:35:28.620 --> 01:35:30.680]   having been the wife of one man.
+[01:35:30.680 --> 01:35:34.440]   And then it goes on to describe how the younger widows,
+[01:35:34.440 --> 01:35:37.100]   you don't need to put them on that list, okay?
+[01:35:37.100 --> 01:35:38.700]   Especially if they're like gossipers
+[01:35:38.700 --> 01:35:40.820]   and they just like to go from house to house
+[01:35:40.820 --> 01:35:43.600]   begging and gossiping, don't put them on the list of widows
+[01:35:43.600 --> 01:35:46.680]   who collect a special thing, right?
+[01:35:46.680 --> 01:35:48.520]   Verse 16, if any woman who is a believer
+[01:35:48.520 --> 01:35:50.560]   has dependent widows, she must assist them,
+[01:35:50.560 --> 01:35:53.020]   and the church must not be burdened,
+[01:35:53.020 --> 01:35:55.600]   so that it may assist those who are widows indeed.
+[01:35:55.600 --> 01:35:58.900]   Now, I am not giving an application.
+[01:35:58.900 --> 01:36:01.680]   What I'm trying to lead us toward is,
+[01:36:01.680 --> 01:36:04.340]   if there is a command to help the poor,
+[01:36:04.340 --> 01:36:05.600]   all of us will get it.
+[01:36:07.600 --> 01:36:11.760]   But how that's applied, you would wanna wrestle with it.
+[01:36:11.760 --> 01:36:17.240]   If God plops a poor person into your life,
+[01:36:17.240 --> 01:36:20.380]   that person's there on purpose.
+[01:36:20.380 --> 01:36:22.900]   So wrestle with how to help them.
+[01:36:22.900 --> 01:36:24.400]   Because a lot of times in the first rule,
+[01:36:24.400 --> 01:36:26.480]   trying to help the poor hurts the poor.
+[01:36:26.480 --> 01:36:29.140]   So we wanna wrestle with these things, okay?
+[01:36:29.140 --> 01:36:33.040]   But the main point of this section
+[01:36:33.040 --> 01:36:35.720]   is that the apostles had the same stance
+[01:36:35.720 --> 01:36:40.720]   on not having to circumcise the Gentile converts.
+[01:36:40.720 --> 01:36:43.740]   They had the same exact message.
+[01:36:43.740 --> 01:36:46.560]   They had the same goal, strategy.
+[01:36:46.560 --> 01:36:48.200]   They had the same empowering.
+[01:36:48.200 --> 01:36:50.400]   They were all abiding in Christ,
+[01:36:50.400 --> 01:36:53.600]   because apart from Him, they could do nothing.
+[01:36:53.600 --> 01:36:56.360]   They abided in Christ, and He was a source of their strength,
+[01:36:56.360 --> 01:36:59.380]   and they had the exact same love,
+[01:36:59.380 --> 01:37:02.620]   especially for the believers who are poor.
+[01:37:04.620 --> 01:37:05.920]   Make sense?
+[01:37:05.920 --> 01:37:07.620]   So keep that as a backdrop,
+[01:37:07.620 --> 01:37:09.520]   because verse 11 is pretty strong.
+[01:37:09.520 --> 01:37:13.180]   Paul opposes Peter to his face.
+[01:37:13.180 --> 01:37:15.140]   So now we're getting set up for like a,
+[01:37:15.140 --> 01:37:18.760]   ee, it's gonna be a jolt, okay, in two weeks.
+[01:37:18.760 --> 01:37:21.360]   I wanna hit some announcements,
+[01:37:21.360 --> 01:37:24.200]   and then I'll highlight the questions.
+[01:37:24.200 --> 01:37:26.500]   We have a members meeting this coming Sunday.
+[01:37:26.500 --> 01:37:32.680]   If you can, if you guys come to first service,
+[01:37:33.260 --> 01:37:36.260]   first service, actually, nevermind.
+[01:37:36.260 --> 01:37:38.560]   Just try to park farther away
+[01:37:38.560 --> 01:37:42.100]   so we don't hog the visitor spots for the second service,
+[01:37:42.100 --> 01:37:44.480]   but parking will be an issue.
+[01:37:44.480 --> 01:37:47.380]   So please do plan accordingly,
+[01:37:47.380 --> 01:37:48.960]   or try to carpool if you can.
+[01:37:48.960 --> 01:37:50.720]   We do have a 1:30 meeting,
+[01:37:50.720 --> 01:37:52.060]   and there's gonna be a fundraiser lunch
+[01:37:52.060 --> 01:37:53.340]   that's provided for you.
+[01:37:53.340 --> 01:37:54.580]   Next week, there's no Bible study,
+[01:37:54.580 --> 01:37:55.900]   so if you're a bammer,
+[01:37:55.900 --> 01:37:58.800]   I hope to see you on the bowling lanes, okay,
+[01:37:58.800 --> 01:38:00.600]   for a good time of fellowship.
+[01:38:00.600 --> 01:38:05.180]   And next Friday at 7.30 is the all church praise and prayer.
+[01:38:05.180 --> 01:38:08.060]   Those are the upcoming things for the next couple weeks.
+[01:38:08.060 --> 01:38:11.000]   And then for the Reformation,
+[01:38:11.000 --> 01:38:13.380]   we do need a lot of candies and trinkets
+[01:38:13.380 --> 01:38:16.260]   and little prizes for the kids.
+[01:38:16.260 --> 01:38:18.460]   Obviously appropriate to kids,
+[01:38:18.460 --> 01:38:22.420]   so please do donate if you can, all right?
+[01:38:22.420 --> 01:38:26.380]   And now, just the Thanksgiving regional dinner signups
+[01:38:26.380 --> 01:38:29.100]   have been up,
+[01:38:29.100 --> 01:38:30.520]   and the sooner you sign up,
+[01:38:30.520 --> 01:38:35.520]   the sooner we can put you in a home near your area.
+[01:38:35.520 --> 01:38:37.160]   So please do that.
+[01:38:37.160 --> 01:38:41.840]   And then for the two weeks from now, for the 25th,
+[01:38:41.840 --> 01:38:44.040]   it's the next six verses,
+[01:38:44.040 --> 01:38:47.120]   and please wrestle with what does it mean for Cephas
+[01:38:47.120 --> 01:38:48.520]   to be standing condemned?
+[01:38:48.520 --> 01:38:51.880]   Second, what would qualify
+[01:38:51.880 --> 01:38:55.000]   as not being straightforward about the gospel?
+[01:38:55.000 --> 01:38:56.160]   I would never think about that
+[01:38:56.160 --> 01:38:58.880]   like straightforward about the gospel, okay?
+[01:38:58.880 --> 01:39:00.620]   But what does that mean?
+[01:39:00.620 --> 01:39:02.680]   And then here's a very important word
+[01:39:02.680 --> 01:39:04.460]   that this I actually would encourage you
+[01:39:04.460 --> 01:39:05.300]   to spend some time on.
+[01:39:05.300 --> 01:39:08.340]   How would you define the word justification?
+[01:39:08.340 --> 01:39:10.780]   And that's for two weeks from now.
+[01:39:10.780 --> 01:39:12.900]   So for the remainder of the time,
+[01:39:12.900 --> 01:39:16.540]   here's some group discussion.
+[01:39:16.540 --> 01:39:19.840]   To and for whom has God entrusted the gospel with you?
+[01:39:19.840 --> 01:39:25.180]   Okay, there's a lot of so that's in the first chapter,
+[01:39:25.180 --> 01:39:26.700]   the first two chapters of Galatians.
+[01:39:26.700 --> 01:39:29.300]   He doesn't just save you so you can go to heaven.
+[01:39:29.300 --> 01:39:32.460]   There's a earthly purpose for which you have been called
+[01:39:32.460 --> 01:39:33.360]   as a believer.
+[01:39:33.360 --> 01:39:35.300]   So to who and for whom
+[01:39:35.300 --> 01:39:37.020]   has God entrusted the gospel with you?
+[01:39:37.020 --> 01:39:39.580]   Number two, how are you
+[01:39:39.580 --> 01:39:41.860]   when it comes to recognizing the grace of God
+[01:39:41.860 --> 01:39:44.200]   in the lives of believers around you?
+[01:39:44.200 --> 01:39:46.200]   And you might have to think about this one.
+[01:39:46.200 --> 01:39:47.420]   What does that mean?
+[01:39:47.420 --> 01:39:52.260]   Okay, third, how strong is your eagerness
+[01:39:52.260 --> 01:39:54.180]   to remember the poor?
+[01:39:55.580 --> 01:39:58.300]   Okay, what areas do you need to grow in
+[01:39:58.300 --> 01:40:01.280]   and what are areas you need to be careful in?
+[01:40:01.280 --> 01:40:05.540]   So those are the things that I'd like you guys to discuss
+[01:40:05.540 --> 01:40:07.580]   and if there's prayer requests that come out of that,
+[01:40:07.580 --> 01:40:08.780]   please do go ahead and share.
+[01:40:08.780 --> 01:40:10.220]   But let me wrap us up.
+[01:40:10.220 --> 01:40:13.540]   Father, thank you for just the opportunity
+[01:40:13.540 --> 01:40:16.200]   to spend some time just fleshing out
+[01:40:16.200 --> 01:40:18.880]   some of the things that we've seen in these five verses.
+[01:40:18.880 --> 01:40:21.460]   Guide our discussion so that we would be a humble people,
+[01:40:21.460 --> 01:40:23.300]   that we would be an honest people,
+[01:40:23.300 --> 01:40:24.260]   and that we would grow,
+[01:40:24.260 --> 01:40:26.100]   that we wouldn't just learn and leave,
+[01:40:26.100 --> 01:40:29.820]   but we would seek to apply to the best of our ability.
+[01:40:29.820 --> 01:40:33.300]   Ultimately, for your glory and for our joy
+[01:40:33.300 --> 01:40:35.300]   and our growth and our fellowship.
+[01:40:35.300 --> 01:40:36.460]   In Jesus' name we pray.
+[01:40:36.460 --> 01:40:46.460]   [BLANK_AUDIO]
+

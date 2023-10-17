@@ -1,0 +1,423 @@
+
+[00:00:00.000 --> 00:00:02.920]   (soft piano music)
+[00:00:02.920 --> 00:00:05.840]   (soft piano music)
+[00:00:05.840 --> 00:00:08.760]   (soft piano music)
+[00:00:08.760 --> 00:00:11.680]   (soft piano music)
+[00:00:11.680 --> 00:00:14.600]   (soft piano music)
+[00:00:14.600 --> 00:00:17.520]   (soft piano music)
+[00:00:17.720 --> 00:00:20.640]   (soft piano music)
+[00:00:20.640 --> 00:00:23.560]   (soft piano music)
+[00:00:23.560 --> 00:00:27.440]   (soft piano music)
+[00:00:27.440 --> 00:00:31.560]   (soft piano music)
+[00:00:31.560 --> 00:00:35.560]   (soft piano music)
+[00:00:35.560 --> 00:00:39.560]   (soft piano music)
+[00:00:39.560 --> 00:00:43.560]   (soft piano music)
+[00:00:43.560 --> 00:00:47.560]   (soft piano music)
+[00:00:48.640 --> 00:00:51.560]   (soft piano music)
+[00:00:51.560 --> 00:00:55.560]   (soft piano music)
+[00:00:55.560 --> 00:00:59.560]   (soft piano music)
+[00:00:59.560 --> 00:01:03.560]   (soft piano music)
+[00:01:03.560 --> 00:01:07.560]   (soft piano music)
+[00:01:07.560 --> 00:01:11.560]   (soft piano music)
+[00:01:11.560 --> 00:01:15.560]   (soft piano music)
+[00:01:16.640 --> 00:01:19.560]   (soft piano music)
+[00:01:19.560 --> 00:01:23.560]   (soft piano music)
+[00:01:23.560 --> 00:01:27.560]   (soft piano music)
+[00:01:27.560 --> 00:01:31.560]   (soft piano music)
+[00:01:31.560 --> 00:01:35.560]   (soft piano music)
+[00:01:35.560 --> 00:01:39.560]   (soft piano music)
+[00:01:39.560 --> 00:01:43.560]   (soft piano music)
+[00:01:44.640 --> 00:01:47.560]   (soft piano music)
+[00:01:47.560 --> 00:01:51.560]   (soft piano music)
+[00:01:51.560 --> 00:01:55.560]   (soft piano music)
+[00:01:55.560 --> 00:01:59.560]   (soft piano music)
+[00:01:59.560 --> 00:02:03.560]   (soft piano music)
+[00:02:03.560 --> 00:02:07.560]   (soft piano music)
+[00:02:07.560 --> 00:02:11.560]   (soft piano music)
+[00:02:12.640 --> 00:02:15.560]   (soft piano music)
+[00:02:15.560 --> 00:02:19.560]   (soft piano music)
+[00:02:19.560 --> 00:02:23.560]   (soft piano music)
+[00:02:23.560 --> 00:02:27.560]   (soft piano music)
+[00:02:27.560 --> 00:02:31.560]   (soft piano music)
+[00:02:31.560 --> 00:02:35.560]   (soft piano music)
+[00:02:35.560 --> 00:02:39.560]   (soft piano music)
+[00:02:40.640 --> 00:02:43.560]   (soft piano music)
+[00:02:43.560 --> 00:02:47.560]   (soft piano music)
+[00:02:47.560 --> 00:02:51.560]   (soft piano music)
+[00:02:51.560 --> 00:02:55.560]   (soft piano music)
+[00:02:55.560 --> 00:02:59.560]   (soft piano music)
+[00:02:59.560 --> 00:03:03.560]   (soft piano music)
+[00:03:03.560 --> 00:03:07.560]   (soft piano music)
+[00:03:08.640 --> 00:03:11.560]   (soft piano music)
+[00:03:11.560 --> 00:03:15.560]   (soft piano music)
+[00:03:15.560 --> 00:03:19.560]   (soft piano music)
+[00:03:19.560 --> 00:03:23.560]   (soft piano music)
+[00:03:23.560 --> 00:03:27.560]   (soft piano music)
+[00:03:27.560 --> 00:03:31.560]   (soft piano music)
+[00:03:31.560 --> 00:03:35.560]   (soft piano music)
+[00:03:36.640 --> 00:03:39.560]   (soft piano music)
+[00:03:39.560 --> 00:03:43.560]   (soft piano music)
+[00:03:43.560 --> 00:03:47.560]   (soft piano music)
+[00:03:47.560 --> 00:03:51.560]   (soft piano music)
+[00:03:51.560 --> 00:03:55.560]   (soft piano music)
+[00:03:55.560 --> 00:03:59.560]   (soft piano music)
+[00:03:59.560 --> 00:04:03.560]   (soft piano music)
+[00:04:04.640 --> 00:04:07.560]   (soft piano music)
+[00:04:07.560 --> 00:04:11.560]   (soft piano music)
+[00:04:11.560 --> 00:04:15.560]   (soft piano music)
+[00:04:15.560 --> 00:04:19.560]   (soft piano music)
+[00:04:19.560 --> 00:04:23.560]   (soft piano music)
+[00:04:23.560 --> 00:04:27.560]   (soft piano music)
+[00:04:27.560 --> 00:04:31.560]   (soft piano music)
+[00:04:32.640 --> 00:04:35.560]   (soft piano music)
+[00:04:35.560 --> 00:04:39.560]   (soft piano music)
+[00:04:39.560 --> 00:04:43.560]   (soft piano music)
+[00:04:43.560 --> 00:04:47.560]   (soft piano music)
+[00:04:47.560 --> 00:04:51.560]   (soft piano music)
+[00:04:51.560 --> 00:04:55.560]   (soft piano music)
+[00:04:55.560 --> 00:04:59.560]   (soft piano music)
+[00:05:00.640 --> 00:05:03.560]   (soft piano music)
+[00:05:03.560 --> 00:05:07.560]   (soft piano music)
+[00:05:07.560 --> 00:05:11.560]   (soft piano music)
+[00:05:11.560 --> 00:05:15.560]   (soft piano music)
+[00:05:15.560 --> 00:05:19.560]   (soft piano music)
+[00:05:19.560 --> 00:05:23.560]   (soft piano music)
+[00:05:23.560 --> 00:05:27.560]   (soft piano music)
+[00:05:28.640 --> 00:05:31.560]   (soft piano music)
+[00:05:31.560 --> 00:05:35.560]   (soft piano music)
+[00:05:35.560 --> 00:05:39.560]   (soft piano music)
+[00:05:39.560 --> 00:05:43.560]   (soft piano music)
+[00:05:43.560 --> 00:05:47.560]   (soft piano music)
+[00:05:47.560 --> 00:05:51.560]   (soft piano music)
+[00:05:51.560 --> 00:05:55.560]   (soft piano music)
+[00:05:56.640 --> 00:05:59.560]   (soft piano music)
+[00:05:59.560 --> 00:06:03.560]   (soft piano music)
+[00:06:03.560 --> 00:06:07.560]   (soft piano music)
+[00:06:07.560 --> 00:06:11.560]   (soft piano music)
+[00:06:11.560 --> 00:06:15.560]   (soft piano music)
+[00:06:15.560 --> 00:06:19.560]   (soft piano music)
+[00:06:19.560 --> 00:06:23.560]   (soft piano music)
+[00:06:24.640 --> 00:06:27.560]   (soft piano music)
+[00:06:27.560 --> 00:06:31.560]   (soft piano music)
+[00:06:31.560 --> 00:06:35.560]   (soft piano music)
+[00:06:35.560 --> 00:06:39.560]   (soft piano music)
+[00:06:39.560 --> 00:06:43.560]   (soft piano music)
+[00:06:43.560 --> 00:06:44.560]   - Good morning, church.
+[00:06:44.560 --> 00:06:45.560]   Happy Lord's Day.
+[00:06:45.560 --> 00:06:48.560]   Psalm 66, verse 20, it reads,
+[00:06:48.560 --> 00:06:51.560]   "Blessed be God, who has not turned away my prayer,
+[00:06:51.560 --> 00:06:53.560]   "nor his loving kindness from me.
+[00:06:53.640 --> 00:06:56.560]   "As we remain prayerful over what's going on
+[00:06:56.560 --> 00:06:57.560]   "in the world today,
+[00:06:57.560 --> 00:07:00.560]   "and in whichever season we may be going through,
+[00:07:00.560 --> 00:07:02.560]   "and even as we come before the Lord today,
+[00:07:02.560 --> 00:07:06.560]   "may it be our true intent and desire to bless the Lord
+[00:07:06.560 --> 00:07:09.560]   "with all of our heart, soul, and mind."
+[00:07:09.560 --> 00:07:12.560]   And yeah, so we will begin our service.
+[00:07:12.560 --> 00:07:18.060]   (soft music)
+[00:07:19.060 --> 00:07:21.480]   (soft music)
+[00:07:21.480 --> 00:07:31.980]   ♪ The sun comes up ♪
+[00:07:31.980 --> 00:07:34.980]   ♪ The sun comes up ♪
+[00:07:34.980 --> 00:07:39.980]   ♪ It's a new day dawning ♪
+[00:07:39.980 --> 00:07:44.980]   ♪ It's time to sing your song again ♪
+[00:07:46.060 --> 00:07:48.980]   ♪ Whatever may pass ♪
+[00:07:48.980 --> 00:07:53.980]   ♪ And whatever lies before me ♪
+[00:07:53.980 --> 00:08:00.980]   ♪ Let me be singing when the evening comes ♪
+[00:08:00.980 --> 00:08:02.980]   Bless the Lord.
+[00:08:02.980 --> 00:08:07.980]   ♪ Bless the Lord, O my soul ♪
+[00:08:07.980 --> 00:08:10.980]   ♪ O my soul ♪
+[00:08:11.060 --> 00:08:15.980]   ♪ Worship his holy name ♪
+[00:08:15.980 --> 00:08:20.980]   ♪ Sing like never before ♪
+[00:08:20.980 --> 00:08:24.980]   ♪ O my soul ♪
+[00:08:24.980 --> 00:08:29.980]   ♪ I'll worship your holy name ♪
+[00:08:29.980 --> 00:08:31.980]   ♪ Rich in love ♪
+[00:08:31.980 --> 00:08:34.980]   ♪ Rich in love ♪
+[00:08:34.980 --> 00:08:38.980]   ♪ Angels soar to the heaven ♪
+[00:08:39.060 --> 00:08:41.980]   ♪ Your name is great ♪
+[00:08:41.980 --> 00:08:45.980]   ♪ And your heart is kind ♪
+[00:08:45.980 --> 00:08:50.980]   ♪ So your goodness I will keep on singing ♪
+[00:08:50.980 --> 00:08:59.980]   ♪ 10,000 reasons for my heart to find ♪
+[00:08:59.980 --> 00:09:02.980]   Bless the Lord.
+[00:09:02.980 --> 00:09:06.980]   ♪ Bless the Lord, O my soul ♪
+[00:09:07.060 --> 00:09:09.980]   ♪ O my soul ♪
+[00:09:09.980 --> 00:09:14.980]   ♪ Worship his holy name ♪
+[00:09:14.980 --> 00:09:19.980]   ♪ Sing like never before ♪
+[00:09:19.980 --> 00:09:23.980]   ♪ O my soul ♪
+[00:09:23.980 --> 00:09:28.980]   ♪ I'll worship your holy name ♪
+[00:09:28.980 --> 00:09:30.980]   ♪ On that day ♪
+[00:09:30.980 --> 00:09:33.980]   ♪ On that day ♪
+[00:09:34.060 --> 00:09:38.980]   ♪ When my strength is failing ♪
+[00:09:38.980 --> 00:09:40.980]   ♪ The end draws near ♪
+[00:09:40.980 --> 00:09:44.980]   ♪ And my time has come ♪
+[00:09:44.980 --> 00:09:49.980]   ♪ Still my soul will sing your praise unending ♪
+[00:09:49.980 --> 00:09:58.980]   ♪ 10,000 years and then forevermore ♪
+[00:10:03.060 --> 00:10:04.980]   ♪ Bless the Lord ♪
+[00:10:04.980 --> 00:10:08.980]   ♪ Bless the Lord, O my soul ♪
+[00:10:08.980 --> 00:10:11.980]   ♪ O my soul ♪
+[00:10:11.980 --> 00:10:16.980]   ♪ Worship his holy name ♪
+[00:10:16.980 --> 00:10:21.980]   ♪ Sing like never before ♪
+[00:10:21.980 --> 00:10:25.980]   ♪ O my soul ♪
+[00:10:25.980 --> 00:10:30.980]   ♪ I'll worship your holy name ♪
+[00:10:30.980 --> 00:10:35.900]   ♪ Your holy name ♪
+[00:10:35.900 --> 00:10:39.900]   ♪ Bless the Lord, O my soul ♪
+[00:10:39.900 --> 00:10:43.900]   ♪ O my soul ♪
+[00:10:43.900 --> 00:10:48.900]   ♪ Worship his holy name ♪
+[00:10:48.900 --> 00:10:53.900]   ♪ Sing like never before ♪
+[00:10:53.900 --> 00:10:57.900]   ♪ O my soul ♪
+[00:10:57.980 --> 00:11:02.900]   ♪ I'll worship your holy name ♪
+[00:11:02.900 --> 00:11:09.900]   ♪ I'll worship your holy name ♪
+[00:11:09.900 --> 00:11:16.900]   ♪ Lord, I'll worship your holy name ♪
+[00:11:26.980 --> 00:11:28.900]   - Welcome to Breen Community Church.
+[00:11:28.900 --> 00:11:33.900]   As you guys know, we have our members meeting today at 1.30.
+[00:11:33.900 --> 00:11:35.900]   And so along with that, our high school,
+[00:11:35.900 --> 00:11:39.900]   junior high school ministry is having a fundraiser for lunch.
+[00:11:39.900 --> 00:11:40.900]   They're having pulled pork
+[00:11:40.900 --> 00:11:43.900]   and very expensive drink along with that.
+[00:11:43.900 --> 00:11:45.900]   So it's gonna be for $8,
+[00:11:45.900 --> 00:11:47.900]   and they'll be accepting cash or Zelle.
+[00:11:47.900 --> 00:11:49.900]   So if you go out, please help them.
+[00:11:49.900 --> 00:11:51.900]   Our youth group has doubled in size
+[00:11:51.900 --> 00:11:54.900]   in like in a matter of maybe about three or four months.
+[00:11:54.980 --> 00:11:56.900]   And so they have a retreat coming up,
+[00:11:56.900 --> 00:11:59.900]   I think in February or January, February.
+[00:11:59.900 --> 00:12:02.900]   And so the funds that are being raised is for that.
+[00:12:02.900 --> 00:12:05.900]   So please stick around and grab your lunch.
+[00:12:05.900 --> 00:12:07.900]   And if you are members of the church,
+[00:12:07.900 --> 00:12:10.900]   after lunch, we'll be having our meeting here at 1.30.
+[00:12:10.900 --> 00:12:12.900]   So please stick around for that.
+[00:12:12.900 --> 00:12:14.900]   And if you can't make it,
+[00:12:14.900 --> 00:12:17.900]   please give us a heads up ahead of time before.
+[00:12:17.900 --> 00:12:21.900]   This coming Friday, we have all church praise and prayer
+[00:12:21.900 --> 00:12:23.900]   that's taking place at 7.30.
+[00:12:23.980 --> 00:12:26.900]   So we don't have a regular Bible study,
+[00:12:26.900 --> 00:12:28.900]   but we'll be meeting here at 7.30.
+[00:12:28.900 --> 00:12:30.900]   So please come and we'll take some time
+[00:12:30.900 --> 00:12:32.900]   to pray for corporate stuff.
+[00:12:32.900 --> 00:12:34.900]   And there's a lot of things to pray for.
+[00:12:34.900 --> 00:12:36.900]   So please come and join us for corporate prayer.
+[00:12:36.900 --> 00:12:37.900]   Newcomers lunch.
+[00:12:37.900 --> 00:12:39.900]   If you are new to the church
+[00:12:39.900 --> 00:12:41.900]   and you want to find out more about the church,
+[00:12:41.900 --> 00:12:43.900]   meet some of the leaders in the church,
+[00:12:43.900 --> 00:12:45.900]   ask them questions about what's going on.
+[00:12:45.900 --> 00:12:47.900]   This is a meeting for you.
+[00:12:47.900 --> 00:12:52.900]   If you sign up again on October 29th at 12.30 p.m.
+[00:12:52.980 --> 00:12:56.900]   after the second service, we'll be having lunch here.
+[00:12:56.900 --> 00:12:58.900]   So please sign up for that.
+[00:12:58.900 --> 00:13:01.900]   Reformation Night, which is a replacement for Halloween
+[00:13:01.900 --> 00:13:03.900]   for our church and children.
+[00:13:03.900 --> 00:13:05.900]   That's taking place October 31st.
+[00:13:05.900 --> 00:13:08.900]   The theme this year is Sola Scriptura and John Calvin.
+[00:13:08.900 --> 00:13:10.900]   So there's going to be a light teaching
+[00:13:10.900 --> 00:13:12.900]   and obviously fun and games.
+[00:13:12.900 --> 00:13:15.900]   But they are asking you to sign up.
+[00:13:15.900 --> 00:13:17.900]   So if you are planning to bring your children,
+[00:13:17.900 --> 00:13:20.900]   you do not need to be a member of the church,
+[00:13:20.900 --> 00:13:22.900]   but you can come to that.
+[00:13:22.900 --> 00:13:24.820]   Because of space, what we're asking is
+[00:13:24.820 --> 00:13:27.820]   if you are planning to bring somebody who is not at church
+[00:13:27.820 --> 00:13:29.820]   for the purpose of witnessing or introduce the church,
+[00:13:29.820 --> 00:13:31.820]   please sign them up as well
+[00:13:31.820 --> 00:13:34.820]   so that they'll know exactly how many people to prepare for.
+[00:13:34.820 --> 00:13:37.820]   And so they're going to be preparing food and snacks
+[00:13:37.820 --> 00:13:39.820]   and candies and all that kind of stuff.
+[00:13:39.820 --> 00:13:42.820]   So they're asking whoever is coming to sign up
+[00:13:42.820 --> 00:13:44.820]   and if you're going to be bringing friends,
+[00:13:44.820 --> 00:13:46.820]   please sign them up as well.
+[00:13:46.820 --> 00:13:47.820]   Thanksgiving Regional Dinner.
+[00:13:47.820 --> 00:13:49.820]   I know it's in November 19th,
+[00:13:49.820 --> 00:13:51.820]   but they're asking you to sign up as soon as you can
+[00:13:51.900 --> 00:13:54.820]   so that they can place you in the proper groups,
+[00:13:54.820 --> 00:13:56.820]   hopefully near your home.
+[00:13:56.820 --> 00:13:59.820]   So there's going to be a group of maybe about 20, 25 people
+[00:13:59.820 --> 00:14:01.820]   divided into homes.
+[00:14:01.820 --> 00:14:03.820]   So if you sign up early, we'll be able to put you in that area.
+[00:14:03.820 --> 00:14:06.820]   Otherwise, we're going to end up having to put you in places
+[00:14:06.820 --> 00:14:08.820]   where maybe a little bit further away from home.
+[00:14:08.820 --> 00:14:10.820]   So if you're planning to and you are able to,
+[00:14:10.820 --> 00:14:13.820]   please sign up for that as soon as possible.
+[00:14:13.820 --> 00:14:16.820]   And then this coming Wednesday, there is a BAM fellowship.
+[00:14:16.820 --> 00:14:18.820]   If you're in the singles ministry,
+[00:14:18.820 --> 00:14:20.820]   there's a bowling night that's happening
+[00:14:20.900 --> 00:14:22.820]   in the middle of the summer.
+[00:14:22.820 --> 00:14:24.820]   That's a great place to study.
+[00:14:24.820 --> 00:14:26.820]   And then FAM 245.
+[00:14:26.820 --> 00:14:28.820]   If you are a regular member of the FAM 245,
+[00:14:28.820 --> 00:14:30.820]   there's also a fellowship,
+[00:14:30.820 --> 00:14:33.820]   bowling fellowship happening on December 2nd as well.
+[00:14:33.820 --> 00:14:35.820]   Okay, I think that's it for the announcement.
+[00:14:35.820 --> 00:14:37.820]   I'm going to pray for us.
+[00:14:37.820 --> 00:14:39.820]   Again, if you have a physical offering to drop off,
+[00:14:39.820 --> 00:14:41.820]   we have a box in the back.
+[00:14:41.820 --> 00:14:43.820]   And then afterwards, we'll have Nicholas Chen.
+[00:14:43.820 --> 00:14:45.820]   He's going to come up and give his testimony
+[00:14:45.820 --> 00:14:47.820]   and be baptized this morning.
+[00:14:47.820 --> 00:14:49.820]   Let's pray.
+[00:14:49.900 --> 00:14:51.820]   Thank you so much for the privilege that we have
+[00:14:51.820 --> 00:14:53.820]   to be able to come worship you.
+[00:14:53.820 --> 00:14:56.820]   Help us, Lord God, to lift up our eyes,
+[00:14:56.820 --> 00:14:59.820]   to truly be able to know and to believe
+[00:14:59.820 --> 00:15:02.820]   where our hope and our help truly comes from.
+[00:15:02.820 --> 00:15:05.820]   Help us to understand who you are,
+[00:15:05.820 --> 00:15:07.820]   that our worship, our giving,
+[00:15:07.820 --> 00:15:09.820]   may be an overflow of thanksgiving,
+[00:15:09.820 --> 00:15:12.820]   Father God, of the grace that you've given us.
+[00:15:12.820 --> 00:15:14.820]   May your offering be given joyfully,
+[00:15:14.820 --> 00:15:17.820]   cheerfully, Lord God, as an act of worship,
+[00:15:17.900 --> 00:15:19.820]   and be multiplied 30, 60, 100-fold
+[00:15:19.820 --> 00:15:21.820]   for the sake of your kingdom.
+[00:15:21.820 --> 00:15:23.820]   In Jesus' name we pray. Amen.
+[00:15:23.820 --> 00:15:26.820]   [piano playing]
+[00:15:27.740 --> 00:15:30.740]   [piano playing]
+[00:15:31.660 --> 00:15:34.660]   [piano playing]
+[00:15:35.580 --> 00:15:38.580]   [piano playing]
+[00:15:39.500 --> 00:15:42.500]   [piano playing]
+[00:15:42.500 --> 00:15:51.500]   [piano playing]
+[00:15:51.500 --> 00:16:01.500]   [piano playing]
+[00:16:07.500 --> 00:16:10.500]   [piano playing]
+[00:16:10.500 --> 00:16:18.500]   Let us all rise.
+[00:16:18.500 --> 00:16:20.500]   And continuing on from last week,
+[00:16:20.500 --> 00:16:22.500]   let's spend a few moments just to greet
+[00:16:22.500 --> 00:16:24.500]   our neighbors around us.
+[00:16:24.500 --> 00:16:29.500]   [indistinct chatter]
+[00:16:30.500 --> 00:16:33.500]   [indistinct chatter]
+[00:16:34.500 --> 00:16:37.500]   [indistinct chatter]
+[00:16:37.500 --> 00:16:40.500]   [indistinct chatter]
+[00:17:06.500 --> 00:17:09.500]   [piano playing]
+[00:17:09.500 --> 00:17:12.500]   [piano playing]
+[00:17:12.500 --> 00:17:15.500]   [piano playing]
+[00:17:15.500 --> 00:17:18.500]   [piano playing]
+[00:17:18.500 --> 00:17:21.500]   [piano playing]
+[00:17:21.500 --> 00:17:24.500]   [piano playing]
+[00:17:24.500 --> 00:17:28.500]   ♪ When the enemy surrounds ♪
+[00:17:28.500 --> 00:17:32.500]   ♪ And my heart grows faint within ♪
+[00:17:32.500 --> 00:17:37.500]   ♪ When the darkness overwhelms ♪
+[00:17:37.500 --> 00:17:41.500]   ♪ And my fears are pressing in ♪
+[00:17:41.500 --> 00:17:46.500]   ♪ I will trust in you, O Lord ♪
+[00:17:46.500 --> 00:17:50.500]   ♪ In the silence I will wait ♪
+[00:17:50.500 --> 00:17:55.500]   ♪ I will stand upon your Word ♪
+[00:17:55.500 --> 00:18:00.500]   ♪ You're my solid rock and my salvation ♪
+[00:18:00.500 --> 00:18:05.500]   ♪ My steadfast hope that won't be shaken ♪
+[00:18:05.500 --> 00:18:11.500]   ♪ My soul will wait, my soul will wait for you ♪
+[00:18:11.500 --> 00:18:18.500]   ♪ In stronghold and my sheath ♪
+[00:18:18.500 --> 00:18:22.500]   ♪ In the midst of every threat ♪
+[00:18:22.500 --> 00:18:26.500]   ♪ Though the wicked will ever lead ♪
+[00:18:26.500 --> 00:18:30.500]   ♪ He will vanish like a breath ♪
+[00:18:30.500 --> 00:18:35.500]   ♪ Yes, I know the outcome's sure ♪
+[00:18:35.500 --> 00:18:39.500]   ♪ Satan's evil plans will fail ♪
+[00:18:39.500 --> 00:18:44.500]   ♪ In your power I'm secure ♪
+[00:18:44.500 --> 00:18:49.500]   ♪ You're my solid rock and my salvation ♪
+[00:18:49.500 --> 00:18:53.500]   ♪ My steadfast hope that won't be shaken ♪
+[00:18:53.500 --> 00:18:59.500]   ♪ My soul will wait, my soul will wait for you ♪
+[00:18:59.500 --> 00:19:06.500]   ♪ You're my comfort when I feel forsaken ♪
+[00:19:06.500 --> 00:19:11.500]   ♪ My refuge and my sure foundation ♪
+[00:19:11.500 --> 00:19:17.500]   ♪ My soul will wait, my soul will wait for you ♪
+[00:19:19.500 --> 00:19:24.500]   ♪ This is love I can't explain ♪
+[00:19:24.500 --> 00:19:28.500]   ♪ This is mercy unreserved ♪
+[00:19:28.500 --> 00:19:33.500]   ♪ Through your sacrifice so great ♪
+[00:19:33.500 --> 00:19:37.500]   ♪ I have peace that's undeserved ♪
+[00:19:37.500 --> 00:19:41.500]   ♪ For the battle has been won ♪
+[00:19:41.500 --> 00:19:46.500]   ♪ And I fear no shame or loss ♪
+[00:19:46.500 --> 00:19:50.500]   ♪ Now the sting of death is gone ♪
+[00:19:50.500 --> 00:19:55.500]   ♪ You're my solid rock and my salvation ♪
+[00:19:55.500 --> 00:19:59.500]   ♪ My steadfast hope that won't be shaken ♪
+[00:19:59.500 --> 00:20:06.500]   ♪ My soul will wait, my soul will wait for you ♪
+[00:20:06.500 --> 00:20:13.500]   ♪ You're my comfort when I feel forsaken ♪
+[00:20:13.500 --> 00:20:17.500]   ♪ My refuge and my sure foundation ♪
+[00:20:17.500 --> 00:20:24.500]   ♪ My soul will wait, my soul will wait for you ♪
+[00:20:40.500 --> 00:20:49.500]   ♪ Pouring out our hearts before you ♪
+[00:20:49.500 --> 00:20:55.500]   ♪ We will trust in you ♪
+[00:20:55.500 --> 00:21:07.500]   ♪ Perfect Savior, strong defender ♪
+[00:21:07.500 --> 00:21:13.500]   ♪ We will trust in you ♪
+[00:21:13.500 --> 00:21:25.500]   ♪ Pouring out our hearts before you ♪
+[00:21:25.500 --> 00:21:31.500]   ♪ We will trust in you ♪
+[00:21:34.500 --> 00:21:43.500]   ♪ Perfect Savior, strong defender ♪
+[00:21:43.500 --> 00:21:50.500]   ♪ We will trust in you ♪
+[00:22:02.500 --> 00:22:09.500]   ♪ Be thou, be thou my vision ♪
+[00:22:09.500 --> 00:22:15.500]   ♪ O Lord of my heart ♪
+[00:22:15.500 --> 00:22:20.500]   ♪ Naught be all else to me ♪
+[00:22:20.500 --> 00:22:25.500]   ♪ Say that thou art ♪
+[00:22:25.500 --> 00:22:35.500]   ♪ Thou my best thought by day or by night ♪
+[00:22:35.500 --> 00:22:46.500]   ♪ Waking or sleeping, thy presence my light ♪
+[00:22:53.500 --> 00:22:55.500]   ♪ Be thou my wisdom ♪
+[00:22:55.500 --> 00:23:05.500]   ♪ Be thou my wisdom and thou my true word ♪
+[00:23:05.500 --> 00:23:16.500]   ♪ I am her with thee and thou with me, Lord ♪
+[00:23:17.500 --> 00:23:26.500]   ♪ Thou my great Father, I thy true son ♪
+[00:23:26.500 --> 00:23:37.500]   ♪ Thou in me dwelling and I with thee, one ♪
+[00:23:44.500 --> 00:23:51.500]   ♪ Riches I need not, riches I need not ♪
+[00:23:51.500 --> 00:23:57.500]   ♪ Nor man's empty praise ♪
+[00:23:57.500 --> 00:24:07.500]   ♪ Thou mine inheritance, now and always ♪
+[00:24:08.500 --> 00:24:17.500]   ♪ Thou and thou only, first in my heart ♪
+[00:24:17.500 --> 00:24:29.500]   ♪ My King of heaven, my treasure thou art ♪
+[00:24:29.500 --> 00:24:34.500]   (gentle music)
+[00:24:34.500 --> 00:24:46.500]   ♪ My King of heaven ♪
+[00:24:46.500 --> 00:24:58.500]   ♪ My King of heaven, my victory won ♪
+[00:24:59.500 --> 00:25:08.500]   ♪ May I reach heaven's joys, oh, like heaven's sun ♪
+[00:25:08.500 --> 00:25:19.500]   ♪ Heart of my own heart, whatever befall ♪
+[00:25:20.500 --> 00:25:29.500]   ♪ Still be my vision, oh, ruler of all ♪
+[00:25:29.500 --> 00:25:31.500]   ♪ Heart of my own heart ♪
+[00:25:31.500 --> 00:25:41.500]   ♪ Heart of my own heart, whatever befall ♪
+[00:25:42.500 --> 00:25:52.500]   ♪ Still be my vision, oh, ruler of all ♪
+[00:25:52.500 --> 00:25:55.500]   - Amen, you may be seated.
+[00:25:55.500 --> 00:25:58.500]   (bell tolling)
+[00:25:58.500 --> 00:26:19.500]   - Hello, everyone.
+[00:26:19.500 --> 00:26:22.500]   My name is Nicholas Chen, and I am a senior at UCI.
+[00:26:24.500 --> 00:26:27.500]   I was born and lived my whole life in Taiwan,
+[00:26:27.500 --> 00:26:29.500]   coming to the States for college.
+[00:26:29.500 --> 00:26:33.500]   Growing up in Taiwan, my father was agnostic,
+[00:26:33.500 --> 00:26:35.500]   and my mother was a devout Buddhist.
+[00:26:35.500 --> 00:26:38.500]   Since she mostly took care of my siblings and I,
+[00:26:38.500 --> 00:26:40.500]   we all had a Buddhist upbringing,
+[00:26:40.500 --> 00:26:42.500]   and she would bring me to the temples along with her
+[00:26:42.500 --> 00:26:44.500]   to pray and burn incense.
+[00:26:44.500 --> 00:26:46.500]   I first learned of Christ from my mother,
+[00:26:46.500 --> 00:26:48.500]   whose Christian friends had offered to pray for her
+[00:26:48.500 --> 00:26:51.500]   when my younger brother was suffering from a medical condition
+[00:26:51.500 --> 00:26:54.500]   that neither conventional medicine nor Buddhist practices
+[00:26:54.500 --> 00:26:56.500]   could explain or cure.
+[00:26:56.500 --> 00:26:58.500]   After this, my mother converted to Christianity
+[00:26:58.500 --> 00:27:02.500]   and received Christ, and started bringing my siblings and I to church.
+[00:27:02.500 --> 00:27:05.500]   Seeing both the physical changes God made to cure my brother,
+[00:27:05.500 --> 00:27:08.500]   but also the spiritual change in my mother,
+[00:27:08.500 --> 00:27:11.500]   it was really easy for me to accept Christ
+[00:27:11.500 --> 00:27:15.500]   and think that I needed Christ, that I wanted Christ,
+[00:27:15.500 --> 00:27:18.500]   but not need him,
+[00:27:18.500 --> 00:27:22.500]   and that I needed a lot of worldly, personal evidence.
+[00:27:22.500 --> 00:27:25.500]   Unprompted, I approached my mother when I was eight
+[00:27:25.500 --> 00:27:27.500]   and asked to be baptized.
+[00:27:27.500 --> 00:27:29.500]   However, I did not truly understand the gospel,
+[00:27:29.500 --> 00:27:31.500]   nor would it have meant to be saved by Jesus.
+[00:27:31.500 --> 00:27:34.500]   As a result, even though I had had knowledge of Scripture
+[00:27:34.500 --> 00:27:36.500]   and understanding of the existence of sin
+[00:27:36.500 --> 00:27:38.500]   and how Jesus saved me from it,
+[00:27:38.500 --> 00:27:41.500]   I lived my life no differently than from when I was a Buddhist,
+[00:27:41.500 --> 00:27:44.500]   the only difference being that instead of praying to the gods at a temple,
+[00:27:44.500 --> 00:27:47.500]   I would pray to God at home.
+[00:27:47.500 --> 00:27:49.500]   This was my incomplete understanding.
+[00:27:49.500 --> 00:27:51.500]   Despite knowing that I was a sinner,
+[00:27:51.500 --> 00:27:53.500]   I never felt the weight of my sin,
+[00:27:53.500 --> 00:27:58.500]   because my standard for sin was just "doing bad."
+[00:27:58.500 --> 00:28:00.500]   I went through middle school and most of high school
+[00:28:00.500 --> 00:28:02.500]   living no differently than those around me.
+[00:28:02.500 --> 00:28:04.500]   Like most of the boys my age,
+[00:28:04.500 --> 00:28:07.500]   we satisfied our worldly desires with Internet media,
+[00:28:07.500 --> 00:28:12.500]   all the while I was maintaining the image of a good Christian boy.
+[00:28:12.500 --> 00:28:16.500]   At the same time, I placed all my self-worth in the things of the world,
+[00:28:16.500 --> 00:28:19.500]   like my aides, friends, and my parents' approval.
+[00:28:19.500 --> 00:28:22.500]   As a result, when I failed one test in a subject I liked,
+[00:28:22.500 --> 00:28:24.500]   my entire worldview crumbled.
+[00:28:24.500 --> 00:28:27.500]   Around this time, my parents had also asked me
+[00:28:27.500 --> 00:28:30.500]   to evangelize to one of my classmates who was seeking.
+[00:28:30.500 --> 00:28:32.500]   And there, God let me feel the weight of my sin
+[00:28:32.500 --> 00:28:34.500]   when I realized that I had not been following
+[00:28:34.500 --> 00:28:38.500]   the very obedience that I was describing to my classmate.
+[00:28:38.500 --> 00:28:42.500]   Afterwards, I recognized that I needed to truly surrender my life to Christ
+[00:28:42.500 --> 00:28:43.500]   and depend on Him,
+[00:28:43.500 --> 00:28:46.500]   and I prayed to God confessing my sins while seeking repentance.
+[00:28:46.500 --> 00:28:49.500]   Unfortunately, due to my own rebelliousness and fear of man,
+[00:28:49.500 --> 00:28:52.500]   I was afraid to confess this reality to anyone in my life.
+[00:28:52.500 --> 00:28:56.500]   So after my prayer of repentance, I had no idea what to do from there.
+[00:28:56.500 --> 00:28:59.500]   I can't say for certain when the Lord saved me from this situation.
+[00:28:59.500 --> 00:29:01.500]   I think that in the years since that time,
+[00:29:01.500 --> 00:29:03.500]   the Spirit has been working in me to sanctify me,
+[00:29:03.500 --> 00:29:08.500]   as it is written in 2 Thessalonians 2, verse 13.

@@ -1,0 +1,1459 @@
+
+[00:00:00.000 --> 00:00:02.920]   (soft piano music)
+[00:00:02.920 --> 00:00:05.840]   (soft piano music)
+[00:00:05.840 --> 00:00:08.760]   (soft piano music)
+[00:00:08.760 --> 00:00:11.680]   (soft piano music)
+[00:00:11.680 --> 00:00:14.600]   (soft piano music)
+[00:00:14.800 --> 00:00:17.720]   (soft piano music)
+[00:00:18.720 --> 00:00:21.640]   (soft piano music)
+[00:00:21.640 --> 00:00:24.560]   (soft piano music)
+[00:00:24.560 --> 00:00:28.480]   (soft piano music)
+[00:00:28.480 --> 00:00:32.560]   (soft piano music)
+[00:00:32.560 --> 00:00:36.560]   (soft piano music)
+[00:00:36.560 --> 00:00:40.560]   (soft piano music)
+[00:00:40.560 --> 00:00:44.560]   (soft piano music)
+[00:00:44.560 --> 00:00:48.560]   (soft piano music)
+[00:00:49.640 --> 00:00:52.560]   (soft piano music)
+[00:00:52.560 --> 00:00:56.560]   (soft piano music)
+[00:00:56.560 --> 00:01:00.560]   (soft piano music)
+[00:01:00.560 --> 00:01:04.560]   (soft piano music)
+[00:01:04.560 --> 00:01:08.560]   (soft piano music)
+[00:01:08.560 --> 00:01:12.560]   (soft piano music)
+[00:01:12.560 --> 00:01:16.560]   (soft piano music)
+[00:01:17.640 --> 00:01:20.560]   (soft piano music)
+[00:01:20.560 --> 00:01:24.560]   (soft piano music)
+[00:01:24.560 --> 00:01:28.560]   (soft piano music)
+[00:01:28.560 --> 00:01:32.560]   (soft piano music)
+[00:01:32.560 --> 00:01:36.560]   (soft piano music)
+[00:01:36.560 --> 00:01:40.560]   (soft piano music)
+[00:01:40.560 --> 00:01:44.560]   (soft piano music)
+[00:01:45.640 --> 00:01:48.560]   (soft piano music)
+[00:01:48.560 --> 00:01:52.560]   (soft piano music)
+[00:01:52.560 --> 00:01:56.560]   (soft piano music)
+[00:01:56.560 --> 00:02:00.560]   (soft piano music)
+[00:02:00.560 --> 00:02:04.560]   (soft piano music)
+[00:02:04.560 --> 00:02:08.560]   (soft piano music)
+[00:02:08.560 --> 00:02:12.560]   (soft piano music)
+[00:02:13.640 --> 00:02:16.560]   (soft piano music)
+[00:02:16.560 --> 00:02:20.560]   (soft piano music)
+[00:02:20.560 --> 00:02:24.560]   (soft piano music)
+[00:02:24.560 --> 00:02:28.560]   (soft piano music)
+[00:02:28.560 --> 00:02:32.560]   (soft piano music)
+[00:02:32.560 --> 00:02:36.560]   (soft piano music)
+[00:02:36.560 --> 00:02:40.560]   (soft piano music)
+[00:02:41.640 --> 00:02:44.560]   (soft piano music)
+[00:02:44.560 --> 00:02:48.560]   (soft piano music)
+[00:02:48.560 --> 00:02:52.560]   (soft piano music)
+[00:02:52.560 --> 00:02:56.560]   (soft piano music)
+[00:02:56.560 --> 00:03:00.560]   (soft piano music)
+[00:03:00.560 --> 00:03:04.560]   (soft piano music)
+[00:03:04.560 --> 00:03:08.560]   (soft piano music)
+[00:03:09.640 --> 00:03:12.560]   (soft piano music)
+[00:03:12.560 --> 00:03:16.560]   (soft piano music)
+[00:03:16.560 --> 00:03:20.560]   (soft piano music)
+[00:03:20.560 --> 00:03:24.560]   (soft piano music)
+[00:03:24.560 --> 00:03:28.560]   (soft piano music)
+[00:03:28.560 --> 00:03:32.560]   (soft piano music)
+[00:03:32.560 --> 00:03:36.560]   (soft piano music)
+[00:03:37.640 --> 00:03:40.560]   (soft piano music)
+[00:03:40.560 --> 00:03:44.560]   (soft piano music)
+[00:03:44.560 --> 00:03:48.560]   (soft piano music)
+[00:03:48.560 --> 00:03:52.560]   (soft piano music)
+[00:03:52.560 --> 00:03:56.560]   (soft piano music)
+[00:03:56.560 --> 00:04:00.560]   (soft piano music)
+[00:04:00.560 --> 00:04:04.560]   (soft piano music)
+[00:04:05.640 --> 00:04:08.560]   (soft piano music)
+[00:04:08.560 --> 00:04:12.560]   (soft piano music)
+[00:04:12.560 --> 00:04:16.560]   (soft piano music)
+[00:04:16.560 --> 00:04:20.560]   (soft piano music)
+[00:04:20.560 --> 00:04:24.560]   (soft piano music)
+[00:04:24.560 --> 00:04:28.560]   (soft piano music)
+[00:04:28.560 --> 00:04:32.560]   (soft piano music)
+[00:04:33.640 --> 00:04:36.560]   (soft piano music)
+[00:04:36.560 --> 00:04:40.560]   (soft piano music)
+[00:04:40.560 --> 00:04:44.560]   (soft piano music)
+[00:04:44.560 --> 00:04:48.560]   (soft piano music)
+[00:04:48.560 --> 00:04:52.560]   (soft piano music)
+[00:04:52.560 --> 00:04:56.560]   (soft piano music)
+[00:04:56.560 --> 00:05:00.560]   (soft piano music)
+[00:05:01.640 --> 00:05:04.560]   (soft piano music)
+[00:05:04.560 --> 00:05:05.560]   - Good morning Church family.
+[00:05:05.560 --> 00:05:06.560]   Happy Lord's Day.
+[00:05:06.560 --> 00:05:08.560]   We will now begin our service.
+[00:05:08.560 --> 00:05:15.560]   (soft piano music)
+[00:05:15.560 --> 00:05:24.560]   ♪ From the ends, the ends of the earth ♪
+[00:05:24.560 --> 00:05:27.560]   ♪ From the ends of the earth ♪
+[00:05:27.560 --> 00:05:29.560]   ♪ From the depths of the sea ♪
+[00:05:29.640 --> 00:05:32.560]   ♪ From the depths of the sea ♪
+[00:05:32.560 --> 00:05:34.560]   ♪ From the heights of the heavens ♪
+[00:05:34.560 --> 00:05:37.560]   ♪ From the heights of the heavens ♪
+[00:05:37.560 --> 00:05:42.560]   ♪ Your name be praised ♪
+[00:05:42.560 --> 00:05:44.560]   ♪ From the hearts of the weak ♪
+[00:05:44.560 --> 00:05:47.560]   ♪ From the hearts of the weak ♪
+[00:05:47.560 --> 00:05:50.560]   ♪ From the shouts of the strong ♪
+[00:05:50.560 --> 00:05:52.560]   ♪ From the shouts of the strong ♪
+[00:05:52.560 --> 00:05:55.560]   ♪ From the lips of all people ♪
+[00:05:55.560 --> 00:05:58.560]   ♪ From the lips of all people ♪
+[00:05:58.640 --> 00:06:05.560]   ♪ Your song we raise, Lord ♪
+[00:06:05.560 --> 00:06:10.560]   ♪ Throughout the endless ages ♪
+[00:06:10.560 --> 00:06:15.560]   ♪ You will be crowned with praises, Lord ♪
+[00:06:15.560 --> 00:06:20.560]   ♪ Most high ♪
+[00:06:20.560 --> 00:06:25.560]   ♪ Exalted in every nation ♪
+[00:06:25.640 --> 00:06:31.560]   ♪ Sovereign of all creation, Lord ♪
+[00:06:31.560 --> 00:06:37.560]   ♪ Most high be magnified ♪
+[00:06:37.560 --> 00:06:39.560]   ♪ From the ends ♪
+[00:06:39.560 --> 00:06:42.560]   ♪ From the ends of the earth ♪
+[00:06:42.560 --> 00:06:44.560]   ♪ From the ends of the earth ♪
+[00:06:44.560 --> 00:06:47.560]   ♪ From the depths of the sea ♪
+[00:06:47.560 --> 00:06:49.560]   ♪ From the depths of the sea ♪
+[00:06:49.560 --> 00:06:52.560]   ♪ From the heights of the heavens ♪
+[00:06:52.640 --> 00:06:55.560]   ♪ From the heights of the heavens ♪
+[00:06:55.560 --> 00:07:00.560]   ♪ Your name be praised ♪
+[00:07:00.560 --> 00:07:03.560]   ♪ From the hearts of the weak ♪
+[00:07:03.560 --> 00:07:05.560]   ♪ From the hearts of the weak ♪
+[00:07:05.560 --> 00:07:08.560]   ♪ From the shouts of the strong ♪
+[00:07:08.560 --> 00:07:10.560]   ♪ From the shouts of the strong ♪
+[00:07:10.560 --> 00:07:13.560]   ♪ From the lips of all people ♪
+[00:07:13.560 --> 00:07:16.560]   ♪ From the lips of all people ♪
+[00:07:16.640 --> 00:07:23.560]   ♪ Your song we raise, Lord ♪
+[00:07:23.560 --> 00:07:28.560]   ♪ Throughout the endless ages ♪
+[00:07:28.560 --> 00:07:33.560]   ♪ You will be crowned with praises, Lord ♪
+[00:07:33.560 --> 00:07:39.560]   ♪ Most high ♪
+[00:07:39.560 --> 00:07:44.560]   ♪ Exalted in every nation ♪
+[00:07:44.640 --> 00:07:49.560]   ♪ Sovereign of all creation, Lord ♪
+[00:07:49.560 --> 00:07:52.560]   ♪ Most high ♪
+[00:07:52.560 --> 00:07:54.560]   Throughout the endless.
+[00:07:54.560 --> 00:07:59.560]   ♪ Throughout the endless ages ♪
+[00:07:59.560 --> 00:08:05.560]   ♪ You will be crowned with praises, Lord ♪
+[00:08:05.560 --> 00:08:10.560]   ♪ Most high ♪
+[00:08:10.640 --> 00:08:15.560]   ♪ Exalted in every nation ♪
+[00:08:15.560 --> 00:08:20.560]   ♪ Sovereign of all creation, Lord ♪
+[00:08:20.560 --> 00:08:23.560]   ♪ Most high ♪
+[00:08:23.560 --> 00:08:28.560]   ♪ Be magnified ♪
+[00:08:28.560 --> 00:08:32.560]   ♪ Be magnified ♪
+[00:08:32.560 --> 00:08:45.700]   - Morning. Welcome to Parin Community Church. I just have a few announcements before we
+[00:08:45.700 --> 00:08:54.560]   get started. First of all, those of you who've been supporting our Indian pastors, we have
+[00:08:54.560 --> 00:09:00.080]   an annual commitment, so that annual commitment is being finished at the end of May. And so,
+[00:09:00.080 --> 00:09:05.200]   we're asking you to recommit to that. And those of you who are not involved with that,
+[00:09:05.200 --> 00:09:10.160]   we encourage you to try to think about that. We've been giving updates on our Parin members
+[00:09:10.160 --> 00:09:15.880]   page about what's going on in India. But as you guys know, our pastors have been actively
+[00:09:15.880 --> 00:09:21.060]   working in India, despite all the stuff that's been going through. And I think the last update
+[00:09:21.060 --> 00:09:25.920]   I gave you, that our pastors were heavily persecuted and beaten, the two pastors that
+[00:09:25.920 --> 00:09:30.680]   we've been working with. And so, when I was talking to them, they were still at the hospital,
+[00:09:30.680 --> 00:09:35.480]   and I think they're out now. But again, as soon as they come out, they're telling me
+[00:09:35.480 --> 00:09:40.640]   that they have plans to go to the next village. And I've shared this before, but part of the
+[00:09:40.640 --> 00:09:45.200]   reason why we got involved in India is because the heaviest concentration of unreached people
+[00:09:45.200 --> 00:09:51.000]   groups are in India. The heaviest concentration of illiteracy is in India. The heaviest concentration
+[00:09:51.000 --> 00:09:55.040]   of poverty is also in India. And so, even though it's a nation that's really growing
+[00:09:55.040 --> 00:10:01.200]   fast economically, especially for the people in the village and for Christians, the persecution
+[00:10:01.200 --> 00:10:08.040]   meter is rising heavily. So, even just during the time that we've been involved in India,
+[00:10:08.040 --> 00:10:13.840]   they were ranked number 26 or 27 in persecution, and they have risen just in the last six,
+[00:10:13.840 --> 00:10:19.120]   seven years to number 10 or number nine, you know, and just right below the Middle Eastern
+[00:10:19.120 --> 00:10:25.160]   countries. And so, despite that, they're actively working, getting the gospel in, and
+[00:10:25.160 --> 00:10:30.160]   they're starting brand new churches. And so, the finances that we are supporting them with
+[00:10:30.160 --> 00:10:37.400]   is going to very, very good use. I am going to be heading out in June to visit our pastors,
+[00:10:37.400 --> 00:10:43.080]   and just to kind of scope to see that maybe we can pick up our work again in January.
+[00:10:43.080 --> 00:10:46.640]   And so, if things check out, we may do that, and I'll let you know at the end of summer
+[00:10:46.640 --> 00:10:52.760]   if that is possible. But for now, the support that we are giving, again, if you committed
+[00:10:52.760 --> 00:10:56.760]   for the year, it's coming to an end at the end of May, and then starting from June, we're
+[00:10:56.760 --> 00:11:01.480]   going to have new sign-ups. So, if you desire to sign up for that, our actual physical sign-up
+[00:11:01.480 --> 00:11:05.160]   for that is going to start next week. And so, I'm just giving you a heads up to take
+[00:11:05.160 --> 00:11:10.480]   some time to pray about it, and then it's about $50 a month for each pastor's family.
+[00:11:10.480 --> 00:11:15.740]   There's about 60 pastors now that, pastors' families that we're supporting. And so, please
+[00:11:15.740 --> 00:11:20.880]   consider signing up for that for the next year. And then I'll give you a reminder next
+[00:11:20.880 --> 00:11:26.120]   Sunday. We'll probably even have something set up so you guys can go out and then give
+[00:11:26.120 --> 00:11:31.240]   your sign-ups for that. Other than that, I'm just going to leave the rest of the announcement
+[00:11:31.240 --> 00:11:37.360]   for you to check on the website or the app. I'm going to pray for our offering, and then
+[00:11:37.360 --> 00:11:41.720]   after that, after our main worship time, our brother John Chin is going to come up, and
+[00:11:41.720 --> 00:11:45.520]   he's going to give his testimony. He'll be baptized this morning. Those of you who are
+[00:11:45.520 --> 00:11:49.640]   new to the church, we have a physical offering in the back. If you brought a physical check
+[00:11:49.640 --> 00:11:54.680]   after the service, you can go and visit right underneath that clock, and then just drop
+[00:11:54.680 --> 00:12:02.220]   it off there. Okay? Let me pray for us. Gracious Father, we thank you so much for this morning.
+[00:12:02.220 --> 00:12:07.100]   We pray that you would continue to guide and lead us, that wherever our hearts and our
+[00:12:07.100 --> 00:12:12.740]   mind may have been this week, I pray again that you would help us to lift our eyes to
+[00:12:12.740 --> 00:12:22.760]   know that Christ and Christ alone is our true hope. Lord, as we live upon this earth, help
+[00:12:22.760 --> 00:12:28.220]   us, Lord God, to walk by faith and not by sight. Even this offering that we give, we
+[00:12:28.220 --> 00:12:33.020]   pray that you would bless it 30, 60, 100-fold. May it be used for your glory and your kingdom.
+[00:12:33.020 --> 00:12:35.020]   In Jesus' name we pray. Amen.
+[00:12:36.020 --> 00:12:38.020]   [Music]
+[00:12:38.020 --> 00:12:40.020]   [Music]
+[00:12:40.020 --> 00:12:42.020]   [Music]
+[00:12:42.020 --> 00:12:44.020]   [Music]
+[00:12:44.020 --> 00:12:46.020]   [Music]
+[00:12:46.020 --> 00:12:48.020]   [Music]
+[00:12:48.020 --> 00:12:50.020]   [Music]
+[00:12:50.020 --> 00:12:52.020]   [Music]
+[00:12:52.020 --> 00:12:54.020]   [Music]
+[00:12:54.020 --> 00:12:56.020]   [Music]
+[00:12:56.020 --> 00:12:58.020]   [Music]
+[00:12:58.020 --> 00:13:00.020]   [Music]
+[00:13:00.020 --> 00:13:03.360]   (soft, emotional music)
+[00:13:29.620 --> 00:13:33.280]   - Let us all rise as you sing these praises.
+[00:13:33.280 --> 00:13:39.280]   (upbeat music)
+[00:13:39.280 --> 00:13:48.140]   ♪ Our God is great ♪
+[00:13:48.140 --> 00:13:51.140]   ♪ Our God is great ♪
+[00:13:51.140 --> 00:13:54.120]   ♪ The father of creation ♪
+[00:13:54.120 --> 00:13:58.120]   ♪ His splendor fills the earth ♪
+[00:13:59.120 --> 00:14:02.120]   ♪ The lightning crash ♪
+[00:14:02.120 --> 00:14:05.120]   ♪ The thunder sings his praises ♪
+[00:14:05.120 --> 00:14:10.120]   ♪ The galaxies can't help but shout his word ♪
+[00:14:10.120 --> 00:14:13.620]   ♪ My soul, my soul must sing ♪
+[00:14:13.620 --> 00:14:16.620]   ♪ To you an offering ♪
+[00:14:16.620 --> 00:14:21.620]   ♪ How great you are ♪
+[00:14:21.620 --> 00:14:25.120]   ♪ My soul must sing ♪
+[00:14:25.120 --> 00:14:28.620]   ♪ Oh, let the heavens ring ♪
+[00:14:28.620 --> 00:14:33.120]   ♪ How great you are ♪
+[00:14:33.120 --> 00:14:36.620]   ♪ Oh, how great you are ♪
+[00:14:36.620 --> 00:14:45.620]   - The word made flesh.
+[00:14:45.620 --> 00:14:48.620]   ♪ The word made flesh ♪
+[00:14:48.620 --> 00:14:52.120]   ♪ God's promise to the fallen ♪
+[00:14:52.120 --> 00:14:57.120]   ♪ Came with power to save ♪
+[00:14:57.120 --> 00:15:01.120]   ♪ The life of life ♪
+[00:15:01.120 --> 00:15:04.120]   ♪ Was crushed for all to begin ♪
+[00:15:04.120 --> 00:15:09.120]   ♪ Died our death and rose up from the grave ♪
+[00:15:09.120 --> 00:15:12.120]   ♪ My soul must sing ♪
+[00:15:12.120 --> 00:15:15.120]   ♪ To you an offering ♪
+[00:15:15.120 --> 00:15:20.120]   ♪ How great you are ♪
+[00:15:21.120 --> 00:15:24.120]   ♪ My soul must sing ♪
+[00:15:24.120 --> 00:15:27.120]   ♪ Oh, let the heavens ring ♪
+[00:15:27.120 --> 00:15:32.120]   ♪ How great you are ♪
+[00:15:32.120 --> 00:15:35.120]   ♪ Oh, how great you are ♪
+[00:15:35.120 --> 00:15:45.120]   - Our king will come.
+[00:15:45.120 --> 00:15:48.120]   ♪ Our king will come ♪
+[00:15:48.120 --> 00:15:51.120]   ♪ With trumpet blast resounding ♪
+[00:15:51.120 --> 00:15:56.120]   ♪ To claim his blood-washed brow ♪
+[00:15:56.120 --> 00:16:00.120]   ♪ He'll wreck the skies ♪
+[00:16:00.120 --> 00:16:03.120]   ♪ Ascending in his glory ♪
+[00:16:03.120 --> 00:16:08.120]   ♪ And then an instant faith will turn to sound ♪
+[00:16:08.120 --> 00:16:11.120]   ♪ My soul must sing ♪
+[00:16:11.120 --> 00:16:14.120]   ♪ To you an offering ♪
+[00:16:14.120 --> 00:16:19.120]   ♪ How great you are ♪
+[00:16:19.120 --> 00:16:23.120]   ♪ My soul must sing ♪
+[00:16:23.120 --> 00:16:26.120]   ♪ Oh, let the heavens ring ♪
+[00:16:26.120 --> 00:16:29.120]   ♪ How great you are ♪
+[00:16:29.120 --> 00:16:31.120]   ♪ My soul must sing ♪
+[00:16:31.120 --> 00:16:34.120]   ♪ My soul must sing ♪
+[00:16:34.120 --> 00:16:38.120]   ♪ To you an offering ♪
+[00:16:38.120 --> 00:16:43.120]   ♪ How great you are ♪
+[00:16:43.120 --> 00:16:46.120]   ♪ My soul must sing ♪
+[00:16:46.120 --> 00:16:49.120]   ♪ Oh, let the heavens ring ♪
+[00:16:49.120 --> 00:16:54.120]   ♪ How great you are ♪
+[00:16:54.120 --> 00:16:57.120]   ♪ Oh, how great you are ♪
+[00:16:57.120 --> 00:17:02.120]   (upbeat music)
+[00:17:26.120 --> 00:17:27.120]   - Son of God.
+[00:17:27.120 --> 00:17:31.120]   ♪ Son of God ♪
+[00:17:31.120 --> 00:17:35.120]   ♪ Shaper of the stars ♪
+[00:17:35.120 --> 00:17:37.120]   ♪ You alone ♪
+[00:17:37.120 --> 00:17:41.120]   ♪ Dweller of my heart ♪
+[00:17:41.120 --> 00:17:43.120]   ♪ Mighty King ♪
+[00:17:43.120 --> 00:17:48.120]   ♪ How beautiful you are ♪
+[00:17:48.120 --> 00:17:53.120]   ♪ How beautiful ♪
+[00:17:53.120 --> 00:17:56.120]   ♪ Son of God ♪
+[00:17:56.120 --> 00:18:00.120]   ♪ Father's gift to us ♪
+[00:18:00.120 --> 00:18:02.120]   ♪ You alone ♪
+[00:18:02.120 --> 00:18:06.120]   ♪ Broken on the altar of love ♪
+[00:18:06.120 --> 00:18:08.120]   ♪ Precious lamb ♪
+[00:18:08.120 --> 00:18:13.120]   ♪ Our freedom's in your blood ♪
+[00:18:13.120 --> 00:18:18.120]   ♪ It's in your blood ♪
+[00:18:18.120 --> 00:18:21.120]   ♪ Jesus ♪
+[00:18:21.120 --> 00:18:24.120]   ♪ Oh, Holy One ♪
+[00:18:24.120 --> 00:18:27.120]   ♪ I sing to you ♪
+[00:18:27.120 --> 00:18:30.120]   ♪ Forgiver ♪
+[00:18:30.120 --> 00:18:33.120]   ♪ Savior ♪
+[00:18:33.120 --> 00:18:36.120]   ♪ I'm overcome ♪
+[00:18:36.120 --> 00:18:41.120]   ♪ With your great love for me ♪
+[00:18:41.120 --> 00:18:49.120]   ♪ Son of God ♪
+[00:18:49.120 --> 00:18:53.120]   ♪ Strength beyond compare ♪
+[00:18:53.120 --> 00:18:55.120]   ♪ You alone ♪
+[00:18:55.120 --> 00:18:59.120]   ♪ The darkness cannot bear ♪
+[00:18:59.120 --> 00:19:01.120]   ♪ Lord of love ♪
+[00:19:01.120 --> 00:19:06.120]   ♪ Your kindness draws me near ♪
+[00:19:06.120 --> 00:19:12.120]   ♪ It draws me ♪
+[00:19:12.120 --> 00:19:14.120]   ♪ Son of God ♪
+[00:19:14.120 --> 00:19:19.120]   ♪ Prophecy of old ♪
+[00:19:19.120 --> 00:19:21.120]   ♪ You alone ♪
+[00:19:21.120 --> 00:19:25.120]   ♪ Redeemer of my soul ♪
+[00:19:25.120 --> 00:19:27.120]   ♪ Come again ♪
+[00:19:27.120 --> 00:19:32.120]   ♪ And lead your people home ♪
+[00:19:32.120 --> 00:19:37.120]   ♪ Come lead us home ♪
+[00:19:37.120 --> 00:19:40.120]   ♪ Jesus ♪
+[00:19:40.120 --> 00:19:43.120]   ♪ Oh, Holy One ♪
+[00:19:43.120 --> 00:19:46.120]   ♪ I sing to you ♪
+[00:19:46.120 --> 00:19:49.120]   ♪ Forgiver ♪
+[00:19:49.120 --> 00:19:52.120]   ♪ Savior ♪
+[00:19:52.120 --> 00:19:55.120]   ♪ I'm overcome ♪
+[00:19:55.120 --> 00:20:00.120]   ♪ With your great love for me ♪
+[00:20:00.120 --> 00:20:02.120]   You are worthy.
+[00:20:02.120 --> 00:20:05.120]   ♪ You are worthy ♪
+[00:20:05.120 --> 00:20:08.120]   ♪ You are worthy ♪
+[00:20:08.120 --> 00:20:12.120]   ♪ You are worthy of all my praise ♪
+[00:20:13.120 --> 00:20:17.120]   ♪ You are beautiful ♪
+[00:20:17.120 --> 00:20:20.120]   ♪ You are beautiful ♪
+[00:20:20.120 --> 00:20:24.120]   ♪ So I will lift up my hands and sing ♪
+[00:20:24.120 --> 00:20:26.120]   You are worthy.
+[00:20:26.120 --> 00:20:29.120]   ♪ You are worthy ♪
+[00:20:29.120 --> 00:20:32.120]   ♪ You are worthy ♪
+[00:20:32.120 --> 00:20:37.120]   ♪ You are worthy of all my praise ♪
+[00:20:39.120 --> 00:20:42.120]   ♪ You are beautiful ♪
+[00:20:42.120 --> 00:20:45.120]   ♪ You are beautiful ♪
+[00:20:45.120 --> 00:20:50.120]   ♪ I will lift up my hands and sing ♪
+[00:20:50.120 --> 00:20:52.120]   ♪ Jesus ♪
+[00:20:52.120 --> 00:20:55.120]   ♪ Jesus ♪
+[00:20:55.120 --> 00:20:58.120]   ♪ Oh, Holy One ♪
+[00:20:58.120 --> 00:21:01.120]   ♪ I sing to you ♪
+[00:21:01.120 --> 00:21:05.120]   ♪ Forgiver ♪
+[00:21:05.120 --> 00:21:08.120]   ♪ Savior ♪
+[00:21:08.120 --> 00:21:12.120]   ♪ I'm overcome ♪
+[00:21:12.120 --> 00:21:16.120]   ♪ With your great love for me ♪
+[00:21:16.120 --> 00:21:23.120]   Amen, you may be seated.
+[00:21:23.120 --> 00:21:26.120]   (bell tolling)
+[00:21:26.120 --> 00:21:40.120]   - Hi, church family.
+[00:21:40.120 --> 00:21:41.120]   My name is John Chin.
+[00:21:41.120 --> 00:21:43.120]   I'm a grad student, and it's a privilege
+[00:21:43.120 --> 00:21:46.120]   to share my testimony with you today.
+[00:21:46.120 --> 00:21:49.120]   I grew up in a Christian household.
+[00:21:49.120 --> 00:21:52.120]   I called myself a Christian and attended church,
+[00:21:52.120 --> 00:21:55.120]   but did not have a relationship with God.
+[00:21:55.120 --> 00:21:57.120]   I understand the gospel or read the Bible.
+[00:21:57.120 --> 00:22:00.120]   I wanted to get good grades, get into a good college,
+[00:22:00.120 --> 00:22:03.120]   and be successful by the world's standards.
+[00:22:03.120 --> 00:22:06.120]   In my junior year of high school, I worked too hard,
+[00:22:06.120 --> 00:22:09.120]   experienced burnout, and had to drop my classes.
+[00:22:09.120 --> 00:22:12.120]   Throughout my struggle, I did not really think of God
+[00:22:12.120 --> 00:22:13.120]   or turn to him.
+[00:22:13.120 --> 00:22:15.120]   I was just trying to make sense
+[00:22:15.120 --> 00:22:17.120]   of what was going on and stabilize.
+[00:22:17.120 --> 00:22:20.120]   I transferred schools, repeated my junior year,
+[00:22:20.120 --> 00:22:22.120]   and did well at the new school.
+[00:22:22.120 --> 00:22:25.120]   I was extremely thankful to God for healing me
+[00:22:25.120 --> 00:22:27.120]   and helping me to recover.
+[00:22:27.120 --> 00:22:31.120]   However, my relationship with God was based primarily
+[00:22:31.120 --> 00:22:34.120]   on experience rather than belief in the gospel.
+[00:22:34.120 --> 00:22:37.120]   My real growth in the knowledge of the gospel
+[00:22:37.120 --> 00:22:39.120]   started in college.
+[00:22:39.120 --> 00:22:41.120]   I started focusing on Christ.
+[00:22:41.120 --> 00:22:43.120]   I attended worship services, Bible studies,
+[00:22:43.120 --> 00:22:46.120]   and served in various capacities.
+[00:22:46.120 --> 00:22:49.120]   However, I didn't read the Bible consistently.
+[00:22:49.120 --> 00:22:52.120]   I absorbed lots of teaching about the Bible
+[00:22:52.120 --> 00:22:54.120]   and grew closer to God,
+[00:22:54.120 --> 00:22:56.120]   but I still desired the things of this world--
+[00:22:56.120 --> 00:22:59.120]   success, wealth, comfort.
+[00:22:59.120 --> 00:23:03.120]   I don't recall a specific moment when I received Christ,
+[00:23:03.120 --> 00:23:06.120]   but I'll share what I came to believe.
+[00:23:06.120 --> 00:23:09.120]   I believe in the gospel, that there is a God,
+[00:23:09.120 --> 00:23:12.120]   and he is holy, righteous, and good,
+[00:23:12.120 --> 00:23:14.120]   that all mankind have sinned,
+[00:23:14.120 --> 00:23:16.120]   fall short of God's perfect standard,
+[00:23:16.120 --> 00:23:19.120]   and deserve eternal condemnation.
+[00:23:19.120 --> 00:23:21.120]   But God, in love and mercy,
+[00:23:21.120 --> 00:23:24.120]   sent his son Jesus Christ for us.
+[00:23:24.120 --> 00:23:27.120]   Jesus lived a perfect life, died for our sins,
+[00:23:27.120 --> 00:23:31.120]   and rose from the dead to prove that he was the son of God.
+[00:23:31.120 --> 00:23:33.120]   Jesus took the sin that was ours,
+[00:23:33.120 --> 00:23:36.120]   and in faith we receive his righteousness.
+[00:23:36.120 --> 00:23:39.120]   And so our response should be to turn away from sin
+[00:23:39.120 --> 00:23:42.120]   and turn towards Christ.
+[00:23:42.120 --> 00:23:45.120]   Next, I'll share when I was convicted of my sin
+[00:23:45.120 --> 00:23:48.120]   and requested forgiveness.
+[00:23:48.120 --> 00:23:52.120]   I struggle with lust, and recently I had another relapse.
+[00:23:52.120 --> 00:23:55.120]   I felt guilty for sinning and frustrated
+[00:23:55.120 --> 00:23:58.120]   that the struggle with lust is so hard.
+[00:23:58.120 --> 00:24:01.120]   I also felt separated from God.
+[00:24:01.120 --> 00:24:03.120]   In that moment, and others like it,
+[00:24:03.120 --> 00:24:06.120]   I was convicted of how deep my sin is.
+[00:24:06.120 --> 00:24:08.120]   I am a sinner to the core,
+[00:24:08.120 --> 00:24:10.120]   in need of God's love, grace, and mercy.
+[00:24:10.120 --> 00:24:13.120]   Afterwards, I prayed to God and asked for forgiveness.
+[00:24:13.120 --> 00:24:16.120]   I asked God to help me repent,
+[00:24:16.120 --> 00:24:19.120]   turn away from sin, and turn towards him.
+[00:24:19.120 --> 00:24:22.120]   I remembered that Christ died for my sins,
+[00:24:22.120 --> 00:24:24.120]   and that by his blood I am forgiven.
+[00:24:24.120 --> 00:24:26.120]   I still struggle with lust,
+[00:24:26.120 --> 00:24:30.120]   but rather than living in sin, I seek to struggle with sin.
+[00:24:30.120 --> 00:24:32.120]   Since I came to Berean,
+[00:24:32.120 --> 00:24:35.120]   I have continued to grow closer to Christ.
+[00:24:35.120 --> 00:24:37.120]   I learned how to do inductive Bible study,
+[00:24:37.120 --> 00:24:40.120]   which has been helpful in reading the word on my own.
+[00:24:40.120 --> 00:24:42.120]   I have had fruitful times reading the word
+[00:24:42.120 --> 00:24:44.120]   where I have been challenged and encouraged.
+[00:24:44.120 --> 00:24:46.120]   I noticed interesting observations
+[00:24:46.120 --> 00:24:50.120]   and came up with questions that I kept in the back of my mind.
+[00:24:50.120 --> 00:24:53.120]   One of those questions is what it means to fear the Lord,
+[00:24:53.120 --> 00:24:56.120]   and although I have a better understanding of that now,
+[00:24:56.120 --> 00:24:59.120]   I look forward to learning more.
+[00:24:59.120 --> 00:25:02.120]   I still desire the things of this world,
+[00:25:02.120 --> 00:25:04.120]   but the more I love Christ,
+[00:25:04.120 --> 00:25:06.120]   the less I care about worldly things.
+[00:25:06.120 --> 00:25:10.120]   In closing, I am grateful for how God has worked in my life,
+[00:25:10.120 --> 00:25:14.120]   and I seek to run the race faithfully and with endurance.
+[00:25:14.120 --> 00:25:16.120]   Thank you.
+[00:25:16.120 --> 00:25:19.120]   [applause]
+[00:25:19.120 --> 00:25:22.120]   [applause]
+[00:25:23.120 --> 00:25:26.120]   [applause]
+[00:25:27.120 --> 00:25:30.120]   [applause]
+[00:25:30.120 --> 00:25:57.120]   [ Inaudible ]
+[00:25:58.120 --> 00:26:10.120]   [ Applause ]
+[00:26:10.120 --> 00:26:11.120]   >> All right.
+[00:26:11.120 --> 00:26:12.680]   Thank you, John, for the testimony.
+[00:26:12.680 --> 00:26:16.060]   If you can turn your Bibles with me to Luke chapter 1.
+[00:26:16.060 --> 00:26:22.060]   I'll be reading from verse 5 through 10 this morning.
+[00:26:22.060 --> 00:26:23.620]   Luke chapter 1, verse 5 through 10.
+[00:26:23.620 --> 00:26:32.620]   [ Pause ]
+[00:26:32.620 --> 00:26:35.260]   Luke chapter 1, verses 5 through 10.
+[00:26:35.260 --> 00:26:38.040]   For in the days of Herod, king of Judea,
+[00:26:38.040 --> 00:26:40.880]   there was a priest named Zacharias of the division
+[00:26:40.880 --> 00:26:44.460]   of the Abijah, and he had a wife from the daughters of Aaron,
+[00:26:44.460 --> 00:26:45.720]   and her name was Elizabeth.
+[00:26:45.720 --> 00:26:48.100]   They were both righteous in the sight of God,
+[00:26:48.100 --> 00:26:50.320]   walking blamelessly in all the commandments
+[00:26:50.320 --> 00:26:51.560]   and requirements of the Lord.
+[00:26:52.240 --> 00:26:54.660]   But they had no child because Elizabeth was barren,
+[00:26:54.660 --> 00:26:56.480]   and they were both advanced in years.
+[00:26:56.480 --> 00:26:59.400]   Now, it happened that while he was performing his priestly
+[00:26:59.400 --> 00:27:01.360]   service before God in the appointed order
+[00:27:01.360 --> 00:27:03.660]   of his division, according to the custom
+[00:27:03.660 --> 00:27:06.160]   of the priestly office, he was chosen by law to enter the
+[00:27:06.160 --> 00:27:07.960]   temple of the Lord and burn incense.
+[00:27:07.960 --> 00:27:11.200]   And a whole multitude of the people were in prayer outside
+[00:27:11.200 --> 00:27:13.440]   at the hour of the incense offering.
+[00:27:13.440 --> 00:27:14.040]   Let's pray.
+[00:27:14.040 --> 00:27:20.280]   Gracious Father, we thank you for this morning.
+[00:27:20.420 --> 00:27:24.440]   We pray, Father God, that your word would really speak to us,
+[00:27:24.440 --> 00:27:27.820]   allow us to hear your voice, Lord God,
+[00:27:27.820 --> 00:27:30.400]   and not just words of men.
+[00:27:30.400 --> 00:27:33.300]   Help us, Lord, to be illuminated,
+[00:27:33.300 --> 00:27:36.500]   to not only know your thoughts, but your own heart.
+[00:27:36.500 --> 00:27:40.940]   We pray that we would get a glimpse of who you are,
+[00:27:40.940 --> 00:27:45.820]   that we may learn to love you, to honor you,
+[00:27:45.820 --> 00:27:47.220]   to obey you in all things.
+[00:27:47.220 --> 00:27:48.160]   In Jesus' name we pray.
+[00:27:48.160 --> 00:27:48.760]   Amen.
+[00:27:48.920 --> 00:27:55.120]   >> You know, oftentimes when various things happen
+[00:27:55.120 --> 00:28:00.120]   in our life, we don't have a complete answer as to why is
+[00:28:00.120 --> 00:28:02.820]   this happening, because we're not able to see the big picture.
+[00:28:02.820 --> 00:28:03.940]   We don't see the past.
+[00:28:03.940 --> 00:28:07.060]   We don't see how -- what this is going to lead to.
+[00:28:07.060 --> 00:28:11.180]   So we oftentimes, you know, just trust that God is sovereign.
+[00:28:11.180 --> 00:28:12.340]   We don't know where this is going.
+[00:28:12.340 --> 00:28:17.200]   And typically we will read verses like Romans 828 says,
+[00:28:17.200 --> 00:28:20.020]   that we know that God causes all things to work together
+[00:28:20.020 --> 00:28:21.480]   for good to those who love God,
+[00:28:21.480 --> 00:28:24.320]   to those who are called according to his purpose.
+[00:28:24.320 --> 00:28:26.700]   And so we use that verse to encourage one another,
+[00:28:26.700 --> 00:28:29.660]   to encourage ourselves, to remind us that God is sovereign.
+[00:28:29.660 --> 00:28:34.040]   But oftentimes we don't know exactly where this is headed.
+[00:28:34.040 --> 00:28:37.220]   And so when we look at redemptive history,
+[00:28:37.220 --> 00:28:41.120]   we're able to see the fruition of these passages.
+[00:28:41.120 --> 00:28:42.320]   Like what does he mean by this?
+[00:28:42.320 --> 00:28:44.920]   What has God been doing behind this scene?
+[00:28:45.460 --> 00:28:47.400]   Galatians 4.4 says, "But when the fullness
+[00:28:47.400 --> 00:28:49.260]   of time came, God sent forth his son.
+[00:28:49.260 --> 00:28:51.620]   Born of a woman, born under the law,
+[00:28:51.620 --> 00:28:53.300]   God waited for the perfect time."
+[00:28:53.300 --> 00:28:55.780]   What made it the perfect time?
+[00:28:55.780 --> 00:28:59.780]   And I remember thinking early on,
+[00:28:59.780 --> 00:29:01.660]   and you hear maybe other people saying,
+[00:29:01.660 --> 00:29:04.360]   it made a perfect time because the Romans, you know,
+[00:29:04.360 --> 00:29:07.740]   they came into power and they created all these roads.
+[00:29:07.740 --> 00:29:12.280]   So that if you were going to go evangelize to the remotest part
+[00:29:12.280 --> 00:29:13.840]   of the world, that would have been the perfect time,
+[00:29:13.840 --> 00:29:16.280]   because all the roads have been created
+[00:29:16.280 --> 00:29:18.580]   so that they can pretty much get anywhere they needed to go.
+[00:29:18.580 --> 00:29:22.280]   Or it was a perfect time because the language was united.
+[00:29:22.280 --> 00:29:26.860]   The Greeks did such a great job of bringing people together,
+[00:29:26.860 --> 00:29:28.740]   all of a sudden they were able to communicate.
+[00:29:28.740 --> 00:29:31.720]   They had the local language, and then they had Greek language.
+[00:29:31.720 --> 00:29:33.500]   And so because of that, now they were able
+[00:29:33.500 --> 00:29:34.820]   to communicate with one another.
+[00:29:34.820 --> 00:29:38.320]   Politically, Romans conquered so much of the land
+[00:29:38.320 --> 00:29:40.740]   that they were able to move from place to place
+[00:29:40.740 --> 00:29:42.780]   and didn't have much problem.
+[00:29:43.040 --> 00:29:46.760]   Now, all of these things may be true, but none
+[00:29:46.760 --> 00:29:48.140]   of that is mentioned in the Bible.
+[00:29:48.140 --> 00:29:52.920]   Those are just speculations that, yes, it was an ideal time.
+[00:29:52.920 --> 00:29:56.740]   But what the Bible does mention is that God waited
+[00:29:56.740 --> 00:30:01.320]   until the law exposed sin to be utterly sinful.
+[00:30:01.320 --> 00:30:05.480]   He allowed sin to have its full effect.
+[00:30:05.480 --> 00:30:10.160]   In fact, when you study the book of Romans, Romans begins
+[00:30:10.160 --> 00:30:11.760]   by telling us this very thing.
+[00:30:12.260 --> 00:30:15.400]   And if you've studied the book of Romans,
+[00:30:15.400 --> 00:30:17.020]   if you were with us a while back,
+[00:30:17.020 --> 00:30:19.320]   and Romans chapter 1 was a long time ago.
+[00:30:19.320 --> 00:30:22.260]   But if you look at Romans chapter 1, it's clear
+[00:30:22.260 --> 00:30:25.020]   that the reference that he's making
+[00:30:25.020 --> 00:30:27.580]   to specifically is to the nation of Israel.
+[00:30:27.580 --> 00:30:31.120]   Even though it has ramification to all the nations,
+[00:30:31.120 --> 00:30:32.920]   he specifically says the nation of Israel,
+[00:30:32.920 --> 00:30:36.580]   for even though they knew God, they did not honor him
+[00:30:36.580 --> 00:30:39.180]   as God or give thanks.
+[00:30:39.180 --> 00:30:41.740]   But they became futile in their speculations
+[00:30:41.740 --> 00:30:43.060]   and their foolish heart was darkened,
+[00:30:43.060 --> 00:30:45.060]   professing to be wise, they became fools,
+[00:30:45.060 --> 00:30:49.260]   and exchanged the glory of God for the incorruptible God,
+[00:30:49.260 --> 00:30:52.200]   glory of the incorruptible God for an image in the form
+[00:30:52.200 --> 00:30:55.460]   of corruptible man and of birds and of four-footed animals
+[00:30:55.460 --> 00:30:56.420]   and crawling creatures.
+[00:30:56.420 --> 00:30:59.180]   Now, again, this can be applied to all mankind,
+[00:30:59.180 --> 00:31:01.260]   but specifically it's in reference
+[00:31:01.260 --> 00:31:03.460]   to how God has given them the law.
+[00:31:03.460 --> 00:31:05.860]   He showed his glory.
+[00:31:05.860 --> 00:31:06.960]   He performed miracles.
+[00:31:06.960 --> 00:31:10.860]   And yet, though God made it very clear to them who he is,
+[00:31:10.860 --> 00:31:13.160]   showed them the glory, they chose to continue
+[00:31:13.160 --> 00:31:14.360]   to chase after idols.
+[00:31:14.360 --> 00:31:17.360]   And this basically is Israel's history.
+[00:31:17.360 --> 00:31:21.260]   So it says in verse 4 all the way down to verse 28,
+[00:31:21.260 --> 00:31:22.760]   three separate times he mentions,
+[00:31:22.760 --> 00:31:26.160]   "Therefore God gave them over," verse 24,
+[00:31:26.160 --> 00:31:29.360]   "Therefore God gave them over in the lust of their hearts
+[00:31:29.360 --> 00:31:32.860]   to impurity so that their bodies would be dishonored among them
+[00:31:32.860 --> 00:31:35.460]   for they exchanged the truth of God for a lie, worshipped
+[00:31:35.460 --> 00:31:37.960]   and served the creatures rather than the creator
+[00:31:37.960 --> 00:31:38.960]   who is blessed forever.
+[00:31:38.960 --> 00:31:39.760]   Amen."
+[00:31:39.760 --> 00:31:41.860]   And then again in verse 26,
+[00:31:41.860 --> 00:31:45.360]   "For this reason God gave them over to degrading passions.
+[00:31:45.360 --> 00:31:48.260]   For their women exchanged the natural function for that
+[00:31:48.260 --> 00:31:49.260]   which is unnatural.
+[00:31:49.260 --> 00:31:52.160]   And in the same way also the man abandoned natural function
+[00:31:52.160 --> 00:31:54.660]   of the women and burned in their desire toward one another,
+[00:31:54.660 --> 00:31:58.060]   men with men committing indecent acts and receiving
+[00:31:58.060 --> 00:32:02.160]   in their own persons the due penalty of their error."
+[00:32:02.160 --> 00:32:03.860]   Again in verse 28,
+[00:32:03.860 --> 00:32:07.160]   "And just as they did not see fit to acknowledge God any longer,
+[00:32:07.160 --> 00:32:10.360]   God gave them over to depraved minds to do those things
+[00:32:10.360 --> 00:32:11.860]   which are not proper."
+[00:32:11.860 --> 00:32:14.260]   So three separate times in chapter 1,
+[00:32:14.260 --> 00:32:16.760]   he says wrath of God is being revealed.
+[00:32:16.760 --> 00:32:20.760]   And even though he made who he is through natural revelation,
+[00:32:20.760 --> 00:32:22.360]   specifically to the Jews,
+[00:32:22.360 --> 00:32:24.660]   through special revelation through the law,
+[00:32:24.660 --> 00:32:28.960]   and yet they continue to chase after idols, reject him.
+[00:32:28.960 --> 00:32:31.760]   And he says God gave them over, God gave them over,
+[00:32:31.760 --> 00:32:32.660]   God gave them over.
+[00:32:32.660 --> 00:32:39.960]   So Israel's history is a repeating cycle of a rebellion against God
+[00:32:39.960 --> 00:32:42.660]   and as a result of that falling into sin
+[00:32:42.660 --> 00:32:46.460]   and then God allowing this sin to bear the fruit
+[00:32:46.460 --> 00:32:47.560]   that it's supposed to bear.
+[00:32:47.560 --> 00:32:50.160]   The reason why I say all of this is
+[00:32:50.160 --> 00:32:53.260]   because Luke breaks into this darkness.
+[00:32:53.260 --> 00:32:56.960]   And so it's important for us to first recognize
+[00:32:56.960 --> 00:32:59.860]   why what made this the fullness of time?
+[00:32:59.860 --> 00:33:03.160]   Why at this time was Jesus coming?
+[00:33:03.160 --> 00:33:05.160]   Why couldn't he have come 400 years before?
+[00:33:05.160 --> 00:33:07.960]   Why didn't he come 400 years later?
+[00:33:07.960 --> 00:33:12.260]   It's almost as if God was waiting for whatever it is
+[00:33:12.260 --> 00:33:15.860]   that they were chasing after to have its full effect.
+[00:33:15.860 --> 00:33:20.460]   So that when Christ comes and he turns the light on,
+[00:33:20.460 --> 00:33:23.060]   the people who are in darkness would recognize immediately
+[00:33:23.060 --> 00:33:26.260]   that must be Christ.
+[00:33:26.260 --> 00:33:27.860]   There's three people that are mentioned here
+[00:33:27.860 --> 00:33:31.460]   that I'm going to go over that on the surface kind of seems random.
+[00:33:31.460 --> 00:33:32.460]   Right?
+[00:33:32.460 --> 00:33:34.260]   Because Luke started by saying
+[00:33:34.260 --> 00:33:37.160]   that he's going to make an orderly account,
+[00:33:37.160 --> 00:33:38.160]   a careful account.
+[00:33:38.160 --> 00:33:40.460]   He's going to interview eyewitnesses
+[00:33:40.460 --> 00:33:43.260]   and he's going to present it probably in a chronological manner,
+[00:33:43.260 --> 00:33:45.460]   at least to the best of his ability
+[00:33:45.460 --> 00:33:47.860]   and to present to Theophilus
+[00:33:47.860 --> 00:33:49.860]   so that he may be convicted about things
+[00:33:49.860 --> 00:33:51.660]   that he's already heard of.
+[00:33:51.660 --> 00:33:52.660]   Right?
+[00:33:52.660 --> 00:33:55.460]   So typically in other Gospels,
+[00:33:55.460 --> 00:33:57.460]   they'll either start right off with Jesus
+[00:33:57.460 --> 00:33:59.660]   or they'll jump into John the Baptist shows up
+[00:33:59.660 --> 00:34:01.860]   and he does ministry and he gets baptized
+[00:34:01.860 --> 00:34:04.960]   and boom, they go into ministry.
+[00:34:04.960 --> 00:34:09.460]   Here, he spends quite a bit of time in chapter 1
+[00:34:09.460 --> 00:34:12.860]   of something that seems almost insignificant.
+[00:34:12.860 --> 00:34:14.460]   Right?
+[00:34:14.460 --> 00:34:16.260]   At least on the surface.
+[00:34:16.260 --> 00:34:17.860]   Initially, he starts by saying
+[00:34:17.860 --> 00:34:20.560]   Herod the Idrimian was the king of that time.
+[00:34:20.560 --> 00:34:23.060]   Now superficially,
+[00:34:23.060 --> 00:34:24.860]   that's how they dated things at that time.
+[00:34:24.860 --> 00:34:25.060]   Right?
+[00:34:25.060 --> 00:34:28.460]   Today, if we want to keep a record of something,
+[00:34:28.460 --> 00:34:30.460]   we would say on this particular day,
+[00:34:30.460 --> 00:34:33.660]   on 9/11/2001, this happened.
+[00:34:33.660 --> 00:34:34.160]   Right?
+[00:34:34.160 --> 00:34:36.460]   And we know exactly when that happened.
+[00:34:36.460 --> 00:34:37.460]   Well, at that particular time,
+[00:34:37.460 --> 00:34:38.660]   in order to date something,
+[00:34:38.660 --> 00:34:42.260]   they would date it based on who was the king at the time.
+[00:34:42.260 --> 00:34:45.260]   This is the third year of king so-and-so
+[00:34:45.260 --> 00:34:47.660]   or the fourth year or the beginning year of this
+[00:34:47.660 --> 00:34:49.760]   and that's how they knew exactly when this happened.
+[00:34:49.760 --> 00:34:51.760]   But in the Gospels,
+[00:34:51.760 --> 00:34:53.260]   it has greater significance
+[00:34:53.260 --> 00:34:56.760]   than just dating when this happens.
+[00:34:56.760 --> 00:35:00.460]   Because if you look at Israel's history,
+[00:35:00.460 --> 00:35:04.260]   it's filled with God pleading with the nation of Israel
+[00:35:04.260 --> 00:35:05.860]   to turn from their sin
+[00:35:05.860 --> 00:35:08.260]   and warning them that if they do not,
+[00:35:08.260 --> 00:35:10.460]   a foreign nation is going to come
+[00:35:10.460 --> 00:35:12.860]   and dominate over them.
+[00:35:12.860 --> 00:35:15.960]   He warns prophet after prophet after prophet
+[00:35:15.960 --> 00:35:18.660]   that if you do not turn from your sin,
+[00:35:18.660 --> 00:35:20.160]   that the Assyrians are coming,
+[00:35:20.160 --> 00:35:21.960]   that the Babylonians are coming,
+[00:35:21.960 --> 00:35:27.260]   that they will come and take away your strongmen,
+[00:35:27.260 --> 00:35:29.660]   your wives, your children,
+[00:35:29.660 --> 00:35:33.160]   and you will no longer be a nation.
+[00:35:33.160 --> 00:35:34.960]   Well, that's exactly what happens.
+[00:35:34.960 --> 00:35:37.760]   The Assyrians come in 900 BC
+[00:35:37.760 --> 00:35:40.560]   and they take the northern kingdom to captivity.
+[00:35:40.560 --> 00:35:44.660]   All ten of the tribes are taken into captivity,
+[00:35:44.660 --> 00:35:47.460]   never to be restored again.
+[00:35:47.460 --> 00:35:50.060]   In 587 BC, the Babylonians come
+[00:35:50.060 --> 00:35:52.160]   and they take the southern kingdom,
+[00:35:52.160 --> 00:35:53.360]   Judah and the Benjamites,
+[00:35:53.360 --> 00:35:55.260]   and then they go into captivity.
+[00:35:55.260 --> 00:35:58.160]   And so for over 900 years,
+[00:35:58.160 --> 00:36:00.960]   Israel's history is one oppression
+[00:36:00.960 --> 00:36:02.060]   from a foreign nation,
+[00:36:02.060 --> 00:36:04.860]   from a pagan nation, after another.
+[00:36:04.860 --> 00:36:05.760]   The Assyrians come in,
+[00:36:05.760 --> 00:36:06.760]   the Babylonians come in,
+[00:36:06.760 --> 00:36:09.660]   after that the Persians come in.
+[00:36:09.660 --> 00:36:13.160]   During the Persian era,
+[00:36:13.160 --> 00:36:17.060]   God raises up a pagan king, King Cyrus,
+[00:36:17.060 --> 00:36:17.960]   and softens his heart
+[00:36:17.960 --> 00:36:19.960]   and he allows the nation of Israel
+[00:36:19.960 --> 00:36:21.560]   to return back to their land
+[00:36:21.560 --> 00:36:23.260]   to rebuild their temple.
+[00:36:23.260 --> 00:36:26.960]   But by that time, Israelite have forgotten
+[00:36:26.960 --> 00:36:30.160]   and have been moved so far away from God
+[00:36:30.160 --> 00:36:32.060]   that even though they had every support
+[00:36:32.060 --> 00:36:33.060]   that they needed to go back
+[00:36:33.060 --> 00:36:33.960]   and rebuild the nation,
+[00:36:33.960 --> 00:36:36.960]   only a very small remnant returned,
+[00:36:36.960 --> 00:36:38.160]   drop in a bucket,
+[00:36:38.160 --> 00:36:39.960]   which means majority of them
+[00:36:39.960 --> 00:36:43.160]   have already forgotten about the covenant.
+[00:36:43.160 --> 00:36:45.660]   Whatever promises that God made,
+[00:36:45.660 --> 00:36:46.760]   they've already forgotten about it
+[00:36:46.760 --> 00:36:50.560]   because their life has already become so easy
+[00:36:50.560 --> 00:36:51.460]   in Babylon.
+[00:36:51.460 --> 00:36:54.260]   They've integrated into Persia.
+[00:36:54.260 --> 00:36:55.660]   It's in the middle of this
+[00:36:55.660 --> 00:36:59.760]   that Malachi is sent as a prophet
+[00:36:59.760 --> 00:37:01.360]   and he's the last prophet.
+[00:37:01.360 --> 00:37:03.360]   And after him, there's 400 years
+[00:37:03.360 --> 00:37:05.960]   where God no longer sends a prophet.
+[00:37:05.960 --> 00:37:07.060]   Malachi 3.1 says,
+[00:37:07.060 --> 00:37:08.860]   "Behold, I am going to send my messenger
+[00:37:08.860 --> 00:37:12.260]   and he will clear the way before me.
+[00:37:12.260 --> 00:37:13.560]   And the Lord whom you seek
+[00:37:13.560 --> 00:37:15.360]   will suddenly come to his temple
+[00:37:15.360 --> 00:37:16.560]   and the messenger of the covenant
+[00:37:16.560 --> 00:37:17.360]   in whom you delight.
+[00:37:17.360 --> 00:37:19.560]   Behold, he is coming, says the Lord of hosts."
+[00:37:19.560 --> 00:37:21.260]   So the last prophet,
+[00:37:21.260 --> 00:37:23.760]   the last thing that he says is
+[00:37:23.760 --> 00:37:26.160]   that once all this period
+[00:37:26.160 --> 00:37:29.260]   that God has ordained because of your sin,
+[00:37:29.260 --> 00:37:31.460]   after that period is done,
+[00:37:31.460 --> 00:37:33.160]   he will come.
+[00:37:33.160 --> 00:37:33.960]   The messenger is going to come.
+[00:37:33.960 --> 00:37:35.460]   John the Baptist is going to come
+[00:37:35.460 --> 00:37:38.060]   and he's going to prepare for the Messiah to come.
+[00:37:38.060 --> 00:37:39.660]   And that's the last prophecy
+[00:37:39.660 --> 00:37:42.060]   that was given to the nation of Israel.
+[00:37:42.060 --> 00:37:45.760]   And then there's 400 years of silence.
+[00:37:45.760 --> 00:37:48.760]   No prophet is sent.
+[00:37:48.760 --> 00:37:52.260]   Now, for 400 years,
+[00:37:52.260 --> 00:37:53.860]   even though there was no prophet,
+[00:37:53.860 --> 00:37:56.260]   it doesn't mean that there was nothing going on.
+[00:37:56.260 --> 00:37:59.060]   After that, the Greeks take over
+[00:37:59.060 --> 00:38:00.760]   and they Hellenized everybody.
+[00:38:00.760 --> 00:38:03.360]   If the Babylonians and the Persians
+[00:38:03.360 --> 00:38:06.860]   made it easy to integrate into the pagan nation,
+[00:38:06.860 --> 00:38:08.460]   the Greeks made it much easier.
+[00:38:08.460 --> 00:38:10.860]   I mean, they even given them a name
+[00:38:10.860 --> 00:38:13.860]   for some people who were Hellenized.
+[00:38:13.860 --> 00:38:15.760]   Meaning they integrated so well
+[00:38:15.760 --> 00:38:17.660]   that they began to lose their culture
+[00:38:17.660 --> 00:38:20.460]   and even their language.
+[00:38:20.460 --> 00:38:22.860]   They said they were Hellenized Jews.
+[00:38:22.860 --> 00:38:24.060]   They were Jew by heritage,
+[00:38:24.060 --> 00:38:26.060]   but in everything else, they were Greeks.
+[00:38:26.060 --> 00:38:28.660]   That's how good of a job that the Greeks did.
+[00:38:28.660 --> 00:38:30.860]   And more and more people start to drift away
+[00:38:30.860 --> 00:38:33.060]   from who God is.
+[00:38:33.060 --> 00:38:35.160]   And then after the Greeks leave,
+[00:38:35.160 --> 00:38:37.060]   they have turmoil during that period.
+[00:38:37.060 --> 00:38:39.560]   There's some hope during the
+[00:38:39.560 --> 00:38:42.760]   Hasmonean rebellion,
+[00:38:42.760 --> 00:38:44.960]   but that is almost immediately crushed.
+[00:38:44.960 --> 00:38:47.060]   And then the Romans come in
+[00:38:47.060 --> 00:38:49.660]   and they completely dominate.
+[00:38:49.660 --> 00:38:54.160]   Romans conquered so much of that modern nation
+[00:38:54.160 --> 00:38:59.260]   that they had to put puppet figures all over.
+[00:38:59.260 --> 00:39:00.360]   You know, kind of like what's going on
+[00:39:00.360 --> 00:39:01.860]   with Russia and Ukraine right now.
+[00:39:01.860 --> 00:39:03.360]   The Russia came into Ukraine
+[00:39:03.360 --> 00:39:06.860]   because they want to set up a puppet president
+[00:39:06.860 --> 00:39:08.360]   that they can control.
+[00:39:08.360 --> 00:39:10.460]   So they can make sure that
+[00:39:10.460 --> 00:39:12.560]   that area is going to benefit them.
+[00:39:12.560 --> 00:39:15.460]   Well, that's exactly what happened with Israel.
+[00:39:15.460 --> 00:39:20.360]   So King Herod of this time was a puppet king
+[00:39:20.360 --> 00:39:24.560]   whose main job was to suppress rebellion
+[00:39:24.560 --> 00:39:28.560]   from the Jews and to appease the Romans.
+[00:39:28.560 --> 00:39:32.860]   So who he was on the surface
+[00:39:32.860 --> 00:39:35.060]   is pretty obvious by what he did.
+[00:39:35.060 --> 00:39:37.960]   Remember the temple that Jesus comes in
+[00:39:37.960 --> 00:39:40.360]   and he cleanses the temple, right?
+[00:39:40.360 --> 00:39:42.260]   And he does that twice during his ministry.
+[00:39:42.260 --> 00:39:46.160]   Well, that temple was built by this king, King Herod.
+[00:39:46.160 --> 00:39:47.460]   Now you look at that and say,
+[00:39:47.460 --> 00:39:49.360]   "Well, he must have cared about his religion.
+[00:39:49.360 --> 00:39:53.060]   He must have clearly had some affection for God."
+[00:39:53.060 --> 00:39:58.760]   But this same king who made the temple,
+[00:39:58.760 --> 00:40:04.860]   that same king also made dozens of pagan temples.
+[00:40:04.860 --> 00:40:07.060]   So this guy wasn't the king of Israel.
+[00:40:07.060 --> 00:40:08.760]   He was just a politician
+[00:40:08.760 --> 00:40:12.460]   who was trying to appease both sides.
+[00:40:12.460 --> 00:40:14.460]   Now that in and of itself
+[00:40:14.460 --> 00:40:16.260]   just kind of gives us a historical background
+[00:40:16.260 --> 00:40:17.160]   of what's going on.
+[00:40:17.160 --> 00:40:20.260]   But this king was so paranoid
+[00:40:20.260 --> 00:40:24.160]   that his own family members would usurp his authority
+[00:40:24.160 --> 00:40:27.260]   that anybody that he considered a threat,
+[00:40:27.260 --> 00:40:28.560]   he just murdered.
+[00:40:28.560 --> 00:40:32.160]   Kind of like what's going on in North Korea, right?
+[00:40:32.160 --> 00:40:34.760]   Anybody that Kim Jong-un thinks is a threat, they're gone.
+[00:40:34.760 --> 00:40:37.360]   And that's basically what this king did.
+[00:40:37.360 --> 00:40:39.760]   So if that wasn't enough,
+[00:40:39.760 --> 00:40:43.760]   it's made very clear, Matthew chapter 2, 16 to 17.
+[00:40:43.760 --> 00:40:47.060]   This king was so paranoid that,
+[00:40:47.060 --> 00:40:48.560]   let me just read it for you in verse 16.
+[00:40:48.560 --> 00:40:50.560]   It says, "Then when Herod saw
+[00:40:50.560 --> 00:40:52.460]   that he had been tricked by the Magi,
+[00:40:52.460 --> 00:40:55.360]   he became very enraged
+[00:40:55.360 --> 00:40:59.160]   and slew all the male children
+[00:40:59.160 --> 00:41:02.460]   who were in Bethlehem and all its vicinity,
+[00:41:02.460 --> 00:41:03.760]   from two years old and under,
+[00:41:03.760 --> 00:41:04.560]   according to the time
+[00:41:04.560 --> 00:41:07.960]   which he had determined from the Magi."
+[00:41:07.960 --> 00:41:11.460]   Imagine if you were a young family of that time
+[00:41:11.460 --> 00:41:14.760]   and you had a child under the age of two.
+[00:41:14.760 --> 00:41:17.260]   And this king, who wasn't even a Jew,
+[00:41:17.260 --> 00:41:19.460]   he was an Edomite,
+[00:41:19.460 --> 00:41:21.860]   who was a traitor to his people.
+[00:41:21.860 --> 00:41:23.560]   And he was basically a politician
+[00:41:23.560 --> 00:41:26.960]   setting up pagan nations, pagan temples,
+[00:41:26.960 --> 00:41:29.560]   now came and killed one of your children
+[00:41:29.560 --> 00:41:32.060]   simply because he was afraid
+[00:41:32.060 --> 00:41:34.260]   that one of those children were going to be
+[00:41:34.260 --> 00:41:35.560]   usurping his authority,
+[00:41:35.560 --> 00:41:37.660]   that he was going to be the king of the Jews,
+[00:41:37.660 --> 00:41:40.260]   the true king of the Jews was coming.
+[00:41:40.260 --> 00:41:41.860]   And just for that alone,
+[00:41:41.860 --> 00:41:44.260]   he went and slaughtered all the children
+[00:41:44.260 --> 00:41:46.960]   under the age of two.
+[00:41:46.960 --> 00:41:49.460]   Imagine the frustration, the anger,
+[00:41:49.460 --> 00:41:52.060]   the bitterness, the sadness
+[00:41:52.060 --> 00:41:55.260]   that Israel was under at this time.
+[00:41:55.260 --> 00:41:57.560]   And they had no power.
+[00:41:57.560 --> 00:41:58.660]   And if they didn't submit,
+[00:41:58.660 --> 00:42:00.260]   they would have come and completely destroyed them.
+[00:42:00.260 --> 00:42:02.160]   So there was constant turmoil
+[00:42:02.160 --> 00:42:03.560]   among the Jewish nation.
+[00:42:03.560 --> 00:42:09.360]   And so mentioning Herod the Edomite,
+[00:42:09.360 --> 00:42:10.460]   just knowing the background,
+[00:42:10.460 --> 00:42:11.960]   the context of which he says it,
+[00:42:11.960 --> 00:42:14.560]   and all of this is to emphasize for us
+[00:42:14.560 --> 00:42:17.360]   that this has become a dark period
+[00:42:17.360 --> 00:42:18.360]   in Israel's history.
+[00:42:18.360 --> 00:42:22.460]   Sin has become utterly sinful as a nation.
+[00:42:22.460 --> 00:42:24.560]   It's God gave them over to their lust,
+[00:42:24.560 --> 00:42:26.060]   God gave them over to their passion,
+[00:42:26.060 --> 00:42:28.160]   God gave them over to what they pursued
+[00:42:28.160 --> 00:42:29.060]   in their rebellion.
+[00:42:29.060 --> 00:42:30.460]   And as a result of that,
+[00:42:30.460 --> 00:42:34.760]   this is the fruit of the nation of Israel.
+[00:42:34.760 --> 00:42:35.960]   But along with that,
+[00:42:35.960 --> 00:42:37.660]   we have two other people mentioned here
+[00:42:37.660 --> 00:42:39.860]   that on the surface doesn't make any sense.
+[00:42:39.860 --> 00:42:42.260]   Right? Zacharias.
+[00:42:42.260 --> 00:42:43.760]   Now we know he's a significant figure
+[00:42:43.760 --> 00:42:46.360]   simply because he's in the Bible.
+[00:42:46.360 --> 00:42:48.160]   Why is Zacharias even mentioned?
+[00:42:48.160 --> 00:42:52.960]   Right? Like President Biden today,
+[00:42:52.960 --> 00:42:54.560]   right? He was a vice president
+[00:42:54.560 --> 00:42:57.660]   for eight years under Obama.
+[00:42:57.660 --> 00:42:59.460]   What did you know about President Obama
+[00:42:59.460 --> 00:43:02.060]   or President Biden today
+[00:43:02.060 --> 00:43:04.460]   when he was vice president?
+[00:43:04.460 --> 00:43:06.660]   Almost nothing. Right?
+[00:43:06.660 --> 00:43:08.760]   Because usually what happens is
+[00:43:08.760 --> 00:43:10.260]   if the president comes out
+[00:43:10.260 --> 00:43:12.460]   and you do a piece on the president,
+[00:43:12.460 --> 00:43:13.960]   and you may do a little side piece
+[00:43:13.960 --> 00:43:14.760]   on the vice president
+[00:43:14.760 --> 00:43:18.860]   because his whole job is if he dies,
+[00:43:18.860 --> 00:43:20.360]   he'll step in.
+[00:43:20.360 --> 00:43:23.760]   So unless there's a danger of Obama dying,
+[00:43:23.760 --> 00:43:24.560]   usually they'll just say,
+[00:43:24.560 --> 00:43:25.860]   oh, this guy's a politician.
+[00:43:25.860 --> 00:43:27.760]   These are his views and they move on.
+[00:43:27.760 --> 00:43:31.760]   Right? They don't do a piece about his mom,
+[00:43:31.760 --> 00:43:33.360]   his dad, and you know,
+[00:43:33.360 --> 00:43:35.760]   and even Hunter Biden, what's going on.
+[00:43:35.760 --> 00:43:36.760]   All of that was revealed
+[00:43:36.760 --> 00:43:37.860]   because he's a president.
+[00:43:37.860 --> 00:43:39.860]   But while he was vice president,
+[00:43:39.860 --> 00:43:43.160]   nobody really cared.
+[00:43:43.160 --> 00:43:45.960]   Remember President Bush?
+[00:43:45.960 --> 00:43:48.560]   Right? Remember his vice president?
+[00:43:48.560 --> 00:43:50.060]   Remember who he was?
+[00:43:50.060 --> 00:43:51.060]   Most of you, many of you
+[00:43:51.060 --> 00:43:53.160]   probably already forgot.
+[00:43:53.160 --> 00:43:57.260]   Right? Dick Cheney.
+[00:43:57.260 --> 00:44:00.360]   Do you remember his wife's name?
+[00:44:00.360 --> 00:44:05.260]   Mrs. Cheney. Right?
+[00:44:05.260 --> 00:44:06.660]   We don't know.
+[00:44:06.660 --> 00:44:08.260]   You don't know anything about
+[00:44:08.260 --> 00:44:12.360]   Dick Cheney's wife or husband,
+[00:44:12.360 --> 00:44:13.960]   not husband, but mom or dad.
+[00:44:13.960 --> 00:44:17.860]   You don't know because he was just a side piece.
+[00:44:17.860 --> 00:44:19.960]   Right? Just in case Bush dies.
+[00:44:19.960 --> 00:44:21.560]   But we don't know much about him.
+[00:44:21.560 --> 00:44:24.260]   So imagine if the president is,
+[00:44:24.260 --> 00:44:25.560]   you know, they're running for president.
+[00:44:25.560 --> 00:44:27.760]   They do a piece about the vice president.
+[00:44:27.760 --> 00:44:29.560]   Not only the piece about the vice president,
+[00:44:29.560 --> 00:44:32.360]   but his mom and dad.
+[00:44:32.360 --> 00:44:34.560]   You would never do that.
+[00:44:34.560 --> 00:44:36.360]   But that's exactly what happens here.
+[00:44:36.360 --> 00:44:38.660]   He says he's going to give an orderly account
+[00:44:38.660 --> 00:44:41.660]   and he starts with John the Baptist
+[00:44:41.660 --> 00:44:43.960]   who's supposed to go six months before him
+[00:44:43.960 --> 00:44:46.360]   and then spends almost a whole chapter
+[00:44:46.360 --> 00:44:51.560]   talking about Zacharias and Elizabeth.
+[00:44:51.560 --> 00:44:52.460]   So we have to ask like,
+[00:44:52.460 --> 00:44:53.960]   why is he, why are they in here?
+[00:44:53.960 --> 00:44:54.760]   What's the purpose?
+[00:44:54.760 --> 00:44:56.260]   Why is he being highlighted?
+[00:44:56.260 --> 00:45:00.160]   Clearly there must be a purpose.
+[00:45:00.160 --> 00:45:02.660]   Zacharias' name literally means
+[00:45:02.660 --> 00:45:06.960]   God has remembered again.
+[00:45:06.960 --> 00:45:10.660]   Just by the name, you know what's going on.
+[00:45:10.660 --> 00:45:14.160]   His name means God has remembered again.
+[00:45:14.160 --> 00:45:15.460]   Not God has remembered,
+[00:45:15.460 --> 00:45:17.160]   not God has forgotten,
+[00:45:17.160 --> 00:45:20.760]   but God has remembered again.
+[00:45:20.760 --> 00:45:22.560]   And the reason why this is significant
+[00:45:22.560 --> 00:45:24.660]   is because all throughout Israel's history
+[00:45:24.660 --> 00:45:28.260]   is a repeat cycle over and over again.
+[00:45:28.260 --> 00:45:30.060]   You know, many people study the book of Hosea
+[00:45:30.060 --> 00:45:30.860]   and they come out and say,
+[00:45:30.860 --> 00:45:32.560]   well, it's a great love story
+[00:45:32.560 --> 00:45:34.160]   between God and sinful nation
+[00:45:34.160 --> 00:45:36.760]   and how God is so patient.
+[00:45:36.760 --> 00:45:39.360]   God tells Hosea to marry this prostitute,
+[00:45:39.360 --> 00:45:42.860]   basically, who continues to commit adultery against him
+[00:45:42.860 --> 00:45:45.360]   and God continues to chase after him
+[00:45:45.360 --> 00:45:46.860]   and he illustrates this
+[00:45:46.860 --> 00:45:50.860]   between the relationship with Hosea and Gomer.
+[00:45:50.860 --> 00:45:52.460]   And typically we come out saying,
+[00:45:52.460 --> 00:45:55.260]   well, what a beautiful story of God's
+[00:45:55.260 --> 00:45:58.160]   unconditional love towards sinners.
+[00:45:58.160 --> 00:45:59.360]   Now that may be true,
+[00:45:59.360 --> 00:46:01.960]   but if you study the book of Hosea carefully,
+[00:46:01.960 --> 00:46:06.260]   Hosea is actually a rebuke to the nation.
+[00:46:06.260 --> 00:46:06.860]   It's not just saying,
+[00:46:06.860 --> 00:46:08.460]   oh, look how much God loves us.
+[00:46:08.460 --> 00:46:09.760]   Now, all that is true,
+[00:46:09.760 --> 00:46:11.260]   but if you study it,
+[00:46:11.260 --> 00:46:13.560]   the end result is because
+[00:46:13.560 --> 00:46:15.360]   God has given you chance after chance
+[00:46:15.360 --> 00:46:16.960]   after chance after chance
+[00:46:16.960 --> 00:46:21.260]   and you continue to commit adultery,
+[00:46:21.260 --> 00:46:23.360]   but the Assyrians are coming,
+[00:46:23.360 --> 00:46:24.660]   the nations are coming
+[00:46:24.660 --> 00:46:27.660]   and you're going to be under their bondage.
+[00:46:27.660 --> 00:46:31.760]   And for 900 years this happens.
+[00:46:31.760 --> 00:46:33.960]   But along with the judgment
+[00:46:33.960 --> 00:46:36.260]   against the nation of Israel,
+[00:46:36.260 --> 00:46:39.360]   almost every prophet that brings judgment upon Israel,
+[00:46:39.360 --> 00:46:41.060]   God always ends,
+[00:46:41.060 --> 00:46:45.160]   almost always ends with a glimmer of hope.
+[00:46:45.160 --> 00:46:47.460]   That hope is mentioned in Hosea chapter 14,
+[00:46:47.460 --> 00:46:50.860]   four through six is I will heal their apostasy.
+[00:46:50.860 --> 00:46:54.160]   I will love them freely for my anger has turned away from them.
+[00:46:54.160 --> 00:46:56.160]   I will be like the dew to Israel.
+[00:46:56.160 --> 00:46:57.760]   He will blossom like the lily
+[00:46:57.760 --> 00:47:00.360]   and he will take root like the cedars of Lebanon.
+[00:47:00.360 --> 00:47:01.860]   His shoots will sprout
+[00:47:01.860 --> 00:47:03.760]   and his beauty will be like the olive tree
+[00:47:03.760 --> 00:47:06.460]   and his fragrance like the cedars of Lebanon.
+[00:47:06.460 --> 00:47:10.960]   Can you imagine if you heard everything that Hosea was saying
+[00:47:10.960 --> 00:47:15.860]   and the captivity actually happens exactly like Hosea said,
+[00:47:15.860 --> 00:47:17.560]   they would be holding on to this passage
+[00:47:17.560 --> 00:47:20.960]   and say when is this going to happen?
+[00:47:20.960 --> 00:47:24.360]   We get it. We sinned. We made a mistake.
+[00:47:24.360 --> 00:47:26.960]   We want to repent but when is this going to happen?
+[00:47:26.960 --> 00:47:32.860]   They waited 900 years for the fulfillment of that prophecy.
+[00:47:32.860 --> 00:47:35.360]   Now God initiated it.
+[00:47:35.360 --> 00:47:39.560]   The final fulfillment will happen at the end.
+[00:47:39.560 --> 00:47:41.160]   But this is what they were waiting for.
+[00:47:41.160 --> 00:47:47.560]   And so when Zacharias appears God has remembered again.
+[00:47:47.560 --> 00:47:50.760]   Despite your sins God has not forgotten again.
+[00:47:50.760 --> 00:47:53.460]   He will remember you. Zacharias
+[00:47:53.460 --> 00:47:56.760]   it says was a priest of the order of Abijah
+[00:47:56.760 --> 00:48:00.560]   and Elizabeth is a descendant of Aaron himself.
+[00:48:00.560 --> 00:48:05.660]   And so they were priests together.
+[00:48:05.660 --> 00:48:09.860]   And again to better understand what's going on here.
+[00:48:09.860 --> 00:48:13.960]   There were 18,000 priests at that time.
+[00:48:13.960 --> 00:48:16.960]   Of 18,000 priests and obviously they're not,
+[00:48:16.960 --> 00:48:19.160]   you know, you don't need that many people to go in
+[00:48:19.160 --> 00:48:19.860]   and out of the temple.
+[00:48:19.860 --> 00:48:22.560]   So they divided into 24 orders.
+[00:48:22.560 --> 00:48:25.260]   And so he was under one of those orders Abijah.
+[00:48:25.260 --> 00:48:30.060]   And so if your group happened to be chosen you came
+[00:48:30.060 --> 00:48:33.560]   and serve one or two weeks out of the year whole year
+[00:48:33.560 --> 00:48:36.360]   and out of that they would throw lots
+[00:48:36.360 --> 00:48:39.360]   and whoever gets chosen one priest would represent
+[00:48:39.360 --> 00:48:42.960]   and go into the Holy, Holy, not the Holy of Holies.
+[00:48:42.960 --> 00:48:45.860]   And then they were able to light the candle representing
+[00:48:45.860 --> 00:48:47.860]   the prayers of the nation.
+[00:48:47.860 --> 00:48:50.260]   That's why all the priests are sitting standing outside praying
+[00:48:50.260 --> 00:48:52.360]   for the nation and that one priest
+[00:48:52.360 --> 00:48:54.260]   that he was chosen would go in
+[00:48:54.260 --> 00:48:57.560]   and light these candles representing the prayers.
+[00:48:57.560 --> 00:48:59.860]   You have to understand for a priest that's
+[00:48:59.860 --> 00:49:00.760]   like winning the lottery
+[00:49:00.760 --> 00:49:03.160]   because majority of them have never,
+[00:49:03.160 --> 00:49:05.860]   would never have this privilege.
+[00:49:05.860 --> 00:49:13.060]   Now John the Baptist was prophesied 400 years
+[00:49:13.060 --> 00:49:14.860]   before he came.
+[00:49:14.860 --> 00:49:19.060]   So Zacharias is the father that was necessary
+[00:49:19.060 --> 00:49:21.060]   for the son to come.
+[00:49:21.060 --> 00:49:27.360]   Yet all of this happens on the surface seems like by chance.
+[00:49:27.360 --> 00:49:29.260]   Even his choosing you would think that,
+[00:49:29.260 --> 00:49:31.060]   you know, Zacharias if some angel would appear
+[00:49:31.060 --> 00:49:33.160]   and say Zacharias you come inside.
+[00:49:33.160 --> 00:49:36.360]   Instead a lot takes place and then just randomly,
+[00:49:36.360 --> 00:49:38.160]   it's like rolling dice.
+[00:49:38.160 --> 00:49:39.860]   It falls on him and he wins the lottery
+[00:49:39.860 --> 00:49:44.260]   and he goes into to light the candle.
+[00:49:44.260 --> 00:49:48.860]   What seems chaotic and random on the surface is never random
+[00:49:48.860 --> 00:49:52.760]   because we believe in a sovereign God.
+[00:49:52.760 --> 00:49:56.660]   In Proverbs 16 32, it says the lot is cast into the lap,
+[00:49:56.660 --> 00:50:00.960]   but it's every decision is from the Lord.
+[00:50:00.960 --> 00:50:02.060]   Even the lot casting.
+[00:50:02.060 --> 00:50:05.860]   Remember in Acts chapter 2 after Judas betrays,
+[00:50:05.860 --> 00:50:07.360]   there's only 11 apostles left
+[00:50:07.360 --> 00:50:10.060]   and they need to fill the number 12.
+[00:50:10.060 --> 00:50:12.560]   And so they decide that they have some parameters
+[00:50:12.560 --> 00:50:14.560]   that they need to be somebody that was with the Lord
+[00:50:14.560 --> 00:50:18.360]   and saw his life and was there when he was resurrected
+[00:50:18.360 --> 00:50:21.960]   and they break it down to two people Matthias
+[00:50:21.960 --> 00:50:23.960]   and Barsabbas.
+[00:50:23.960 --> 00:50:25.660]   Now both of them qualify,
+[00:50:25.660 --> 00:50:28.860]   but now they didn't need to choose one
+[00:50:28.860 --> 00:50:30.660]   and they cast lots.
+[00:50:30.660 --> 00:50:35.760]   This is the 12th person of the apostles
+[00:50:35.760 --> 00:50:39.160]   who's going to have an eternal position
+[00:50:39.160 --> 00:50:41.760]   and yet it was cast by lots,
+[00:50:41.760 --> 00:50:44.360]   you know, you say the other 11 you said,
+[00:50:44.360 --> 00:50:46.960]   well Jesus chose me.
+[00:50:46.960 --> 00:50:48.360]   Right? You're going to eternity and Matthias,
+[00:50:48.360 --> 00:50:49.060]   how did you get here?
+[00:50:49.060 --> 00:50:52.560]   It's like, oh they cast lots.
+[00:50:52.560 --> 00:50:53.560]   Jesus didn't choose you.
+[00:50:53.560 --> 00:50:54.760]   It's like, well, he kind of did
+[00:50:54.760 --> 00:50:58.460]   but through the apostles through the lots, right?
+[00:50:58.460 --> 00:51:01.560]   So it seems so random
+[00:51:01.560 --> 00:51:03.160]   that a 12th person of the apostle
+[00:51:03.160 --> 00:51:05.160]   will be chosen in that way.
+[00:51:05.160 --> 00:51:06.260]   But God says again,
+[00:51:06.260 --> 00:51:08.160]   he didn't just randomly choose anybody.
+[00:51:08.160 --> 00:51:09.860]   He said he met the criteria,
+[00:51:09.860 --> 00:51:11.960]   but God chose him through the lots.
+[00:51:11.960 --> 00:51:14.460]   So again, my point is on the surface,
+[00:51:14.460 --> 00:51:15.360]   it seems like nothing.
+[00:51:15.360 --> 00:51:16.560]   It seems random,
+[00:51:16.560 --> 00:51:19.160]   but clearly God has a purpose.
+[00:51:19.160 --> 00:51:23.460]   He's breaking into the darkness through this man
+[00:51:23.460 --> 00:51:25.660]   to remind the nation of Israel
+[00:51:25.660 --> 00:51:28.460]   that the Messiah is coming.
+[00:51:28.460 --> 00:51:29.860]   The rest of the time I want to spend
+[00:51:29.860 --> 00:51:32.960]   on what's happening with Elizabeth.
+[00:51:32.960 --> 00:51:34.660]   It says in verse 6
+[00:51:34.660 --> 00:51:36.360]   and you really have to pay attention to this
+[00:51:36.360 --> 00:51:37.560]   because there's a,
+[00:51:37.560 --> 00:51:38.760]   this is really the main point
+[00:51:38.760 --> 00:51:40.560]   of what he's trying to say here.
+[00:51:40.560 --> 00:51:43.060]   They were both righteous in the sight of God
+[00:51:43.060 --> 00:51:45.160]   walking blamelessly in all the commandments
+[00:51:45.160 --> 00:51:46.460]   and requirements of the Lord.
+[00:51:46.460 --> 00:51:48.060]   Let me stop right there.
+[00:51:48.060 --> 00:51:49.860]   Clearly he's not talking about judicially
+[00:51:49.860 --> 00:51:52.160]   he was innocent before God.
+[00:51:52.160 --> 00:51:53.360]   The whole reason why Jesus came
+[00:51:53.360 --> 00:51:54.660]   is because all have sinned
+[00:51:54.660 --> 00:51:56.760]   and fall short of the glory of God.
+[00:51:56.760 --> 00:51:58.460]   He's saying that in their walk,
+[00:51:58.460 --> 00:52:01.260]   just like Apostle Paul says in Philippians chapter 3
+[00:52:01.260 --> 00:52:02.560]   that when it's according to the law,
+[00:52:02.560 --> 00:52:04.560]   he was blameless, right?
+[00:52:04.560 --> 00:52:05.960]   He was perfect.
+[00:52:05.960 --> 00:52:08.760]   Meaning that he lived his life
+[00:52:08.760 --> 00:52:10.060]   to fulfill the law
+[00:52:10.060 --> 00:52:11.960]   and to obey to the best of his ability.
+[00:52:11.960 --> 00:52:14.860]   Doesn't mean that he was innocent before God.
+[00:52:14.860 --> 00:52:16.460]   You know, the reason why I mentioned that
+[00:52:16.460 --> 00:52:18.660]   is because I hear a lot of times people saying
+[00:52:18.660 --> 00:52:20.760]   that there's nothing we can do to please God
+[00:52:20.760 --> 00:52:26.060]   or displease God once we're justified.
+[00:52:26.060 --> 00:52:28.660]   No, the Bible makes it clear.
+[00:52:28.660 --> 00:52:32.360]   You can live a life that displeases God.
+[00:52:32.360 --> 00:52:35.860]   You can live a life that honors and pleases God.
+[00:52:35.860 --> 00:52:37.760]   That's clear in the scripture.
+[00:52:37.760 --> 00:52:39.060]   And that's what he's referring to
+[00:52:39.060 --> 00:52:42.960]   that Elizabeth and Zachariah
+[00:52:42.960 --> 00:52:47.460]   lived an honorable law abiding
+[00:52:47.460 --> 00:52:50.260]   to the point where God was pleased with them.
+[00:52:50.260 --> 00:52:53.360]   But the point that he's trying to make is
+[00:52:53.360 --> 00:52:55.360]   in the commandment and requirements of the law,
+[00:52:55.360 --> 00:52:58.960]   but they had no child.
+[00:52:58.960 --> 00:53:01.960]   But they had no, why does he say it like that?
+[00:53:01.960 --> 00:53:03.860]   They had no child because he lives with barren
+[00:53:03.860 --> 00:53:07.060]   and they were both advanced in years.
+[00:53:07.060 --> 00:53:08.960]   Now again, understand,
+[00:53:08.960 --> 00:53:11.560]   these are John the Baptist's parents.
+[00:53:11.560 --> 00:53:14.260]   John the Baptist was prophesied 400 years ago
+[00:53:14.260 --> 00:53:15.660]   that before the Messiah comes,
+[00:53:15.660 --> 00:53:17.160]   John the Baptist has to come.
+[00:53:17.160 --> 00:53:22.860]   Yet his parents couldn't bear children.
+[00:53:22.860 --> 00:53:26.360]   In fact, it says they were advanced in years.
+[00:53:26.360 --> 00:53:30.860]   The reason why they contrast their barrenness
+[00:53:30.860 --> 00:53:33.660]   and their righteousness is because at that time
+[00:53:33.660 --> 00:53:36.360]   if you had any kind of physical ailment,
+[00:53:36.360 --> 00:53:40.260]   they attached it to some spiritual defect.
+[00:53:40.260 --> 00:53:43.560]   We see that clearly in John chapter 9, 1 to 3.
+[00:53:43.560 --> 00:53:45.560]   When they're walking by and they see a blind man,
+[00:53:45.560 --> 00:53:48.360]   it said he passed, he saw a man blind from birth
+[00:53:48.360 --> 00:53:49.660]   and his disciples asked him,
+[00:53:49.660 --> 00:53:54.160]   "Rabbi, who sinned, this man or his parents,
+[00:53:54.160 --> 00:53:55.760]   that he would be born blind?"
+[00:53:55.760 --> 00:53:58.560]   Jesus answered, "It was neither that this man sinned
+[00:53:58.560 --> 00:54:01.360]   nor his parents, but it was so that the works of God
+[00:54:01.360 --> 00:54:03.460]   might be displayed in him."
+[00:54:03.460 --> 00:54:06.660]   You see the prejudice that they had toward him?
+[00:54:06.660 --> 00:54:09.260]   They just automatically assumed
+[00:54:09.260 --> 00:54:11.960]   that he must be blind because he must have deserved it
+[00:54:11.960 --> 00:54:14.860]   or maybe the parents did something, they deserved it.
+[00:54:14.860 --> 00:54:18.660]   And this was a common prejudice against anybody
+[00:54:18.660 --> 00:54:22.260]   who had some sort of a physical defect.
+[00:54:22.260 --> 00:54:24.660]   So, I mean, you could imagine like, again,
+[00:54:24.660 --> 00:54:26.960]   we live in a culture where, you know,
+[00:54:26.960 --> 00:54:30.160]   we have all kinds of rules and even in the church,
+[00:54:30.160 --> 00:54:32.360]   like the bathrooms have to be certain height or,
+[00:54:32.360 --> 00:54:36.260]   you know, like you have to make the entrances a certain way
+[00:54:36.260 --> 00:54:38.760]   and it's like all kinds of stuff that somebody
+[00:54:38.760 --> 00:54:42.560]   who's in a wheelchair could have easy access, right?
+[00:54:42.560 --> 00:54:43.760]   I mean, at this particular time,
+[00:54:43.760 --> 00:54:47.360]   not only did they have difficulty just live,
+[00:54:47.360 --> 00:54:51.160]   people assumed that there was some sort of curse on you
+[00:54:51.160 --> 00:54:53.560]   because you had some sort of defect.
+[00:54:53.560 --> 00:54:58.060]   So, can you imagine how their life was like?
+[00:54:58.060 --> 00:55:02.560]   In fact, not only did the culture view it that way,
+[00:55:02.560 --> 00:55:06.660]   many times even the families thought that the only way
+[00:55:06.660 --> 00:55:08.760]   to remove themselves from the curse
+[00:55:08.760 --> 00:55:11.660]   is remove that person from their own family.
+[00:55:11.660 --> 00:55:13.360]   And if you know the story in John chapter 9,
+[00:55:13.360 --> 00:55:14.460]   that's exactly what happens.
+[00:55:14.460 --> 00:55:15.860]   After he opens his eyes,
+[00:55:15.860 --> 00:55:18.160]   his parents wouldn't even stick up for him
+[00:55:18.160 --> 00:55:19.860]   because they were afraid that they were going to be shunned
+[00:55:19.860 --> 00:55:21.760]   by shunning the synagogue.
+[00:55:21.760 --> 00:55:24.660]   So, they said, "Well, I don't know."
+[00:55:24.660 --> 00:55:25.660]   They could have easily said,
+[00:55:25.660 --> 00:55:27.860]   "Clearly he was blind all his life.
+[00:55:27.860 --> 00:55:29.560]   Clearly there was a miracle."
+[00:55:29.560 --> 00:55:32.960]   But out of fear, they said, "No, no, no, you talk to him."
+[00:55:32.960 --> 00:55:36.460]   And that was the attitude of that time.
+[00:55:36.460 --> 00:55:40.760]   So, can you imagine the suffering,
+[00:55:40.760 --> 00:55:46.660]   the shame that somebody who was barren at that time?
+[00:55:46.660 --> 00:55:49.960]   Clearly something, something must be going on with them.
+[00:55:49.960 --> 00:55:51.360]   In fact, in the Talmud,
+[00:55:51.360 --> 00:55:55.060]   Talmud is basically the commentaries
+[00:55:55.060 --> 00:55:57.660]   that the rabbis created to interpret the law.
+[00:55:57.660 --> 00:56:00.260]   And in the Talmud, they said,
+[00:56:00.260 --> 00:56:07.260]   "A man is no longer bound to his barren wife
+[00:56:07.260 --> 00:56:12.160]   after 10 years if she does not bear a child."
+[00:56:12.160 --> 00:56:17.860]   And he is, by law, law that they created,
+[00:56:17.860 --> 00:56:21.160]   that he can just dismiss her
+[00:56:21.160 --> 00:56:24.860]   if she doesn't bear him a child in 10 years.
+[00:56:24.860 --> 00:56:28.960]   And he is able to do that up to two times, right?
+[00:56:28.960 --> 00:56:31.560]   Sorry, third time.
+[00:56:31.560 --> 00:56:34.860]   I mean, so if you were barren at that time,
+[00:56:34.860 --> 00:56:39.560]   not only do you have the pain of not being able to have a child,
+[00:56:39.560 --> 00:56:41.560]   you have the law that's against you.
+[00:56:41.560 --> 00:56:44.160]   You have your own family that's against you.
+[00:56:44.160 --> 00:56:47.060]   And you have the shame that you have to live with.
+[00:56:47.060 --> 00:56:49.060]   So he says, "They were born,
+[00:56:49.060 --> 00:56:50.560]   they were both righteous in the sight of God,
+[00:56:50.560 --> 00:56:51.560]   walking in blamelessness,
+[00:56:51.560 --> 00:56:58.760]   but despite that, she couldn't have children."
+[00:56:58.760 --> 00:57:00.760]   As painful as this must have been,
+[00:57:00.760 --> 00:57:04.860]   God clearly has a purpose.
+[00:57:04.860 --> 00:57:08.660]   Just like when Lazarus was dead,
+[00:57:08.660 --> 00:57:10.660]   he said, "This is not going to end in death.
+[00:57:10.660 --> 00:57:13.560]   This is for God's glory."
+[00:57:13.560 --> 00:57:17.660]   And that's exactly what he does here.
+[00:57:17.660 --> 00:57:19.760]   This, you know, having children,
+[00:57:19.760 --> 00:57:22.560]   bearing children, and not being able to have children,
+[00:57:22.560 --> 00:57:24.760]   you know, if you haven't experienced that,
+[00:57:24.760 --> 00:57:28.360]   you don't know the pain that comes with that, right?
+[00:57:28.360 --> 00:57:31.660]   Now, obviously, I have four children.
+[00:57:31.660 --> 00:57:35.860]   But early on, when we first got married,
+[00:57:35.860 --> 00:57:39.060]   Esther went through the first miscarriage, right?
+[00:57:39.060 --> 00:57:41.160]   And then had to go through the operation,
+[00:57:41.160 --> 00:57:43.860]   and I could see how she was devastated.
+[00:57:43.860 --> 00:57:46.260]   Went to the hospital and did some blood work,
+[00:57:46.260 --> 00:57:49.860]   and they basically told her that you couldn't have children
+[00:57:49.860 --> 00:57:52.160]   the normal way.
+[00:57:52.160 --> 00:57:53.060]   And I remember going through that,
+[00:57:53.060 --> 00:57:54.860]   and at that time, we were pretty young.
+[00:57:54.860 --> 00:57:59.660]   So my thought was, "We'll adopt it."
+[00:57:59.660 --> 00:58:01.160]   Or, "We won't have children,
+[00:58:01.160 --> 00:58:04.460]   and we'll have plenty of time to do ministry,
+[00:58:04.460 --> 00:58:06.960]   go out, become missionaries, plant churches,
+[00:58:06.960 --> 00:58:08.260]   visit churches to go speaking."
+[00:58:08.260 --> 00:58:09.760]   And so, "Okay," you know?
+[00:58:09.760 --> 00:58:13.260]   That's what I was thinking, the insensitive man.
+[00:58:13.260 --> 00:58:15.360]   But in the back of my mind, I said, "Oh."
+[00:58:15.360 --> 00:58:18.460]   They actually said she has some sort of a blood disorder
+[00:58:18.460 --> 00:58:19.560]   that fights pregnancy,
+[00:58:19.560 --> 00:58:22.060]   and she can't have children the normal way.
+[00:58:22.060 --> 00:58:24.560]   Well, she got pregnant a second time,
+[00:58:24.560 --> 00:58:28.160]   and I remember when she was pregnant,
+[00:58:28.160 --> 00:58:30.560]   and we thought that maybe she was going to have
+[00:58:30.560 --> 00:58:32.360]   another miscarriage.
+[00:58:32.360 --> 00:58:35.860]   And right around that time, I went up to a retreat,
+[00:58:35.860 --> 00:58:38.660]   and at the retreat, we had older people
+[00:58:38.660 --> 00:58:39.760]   who were giving testimonies,
+[00:58:39.760 --> 00:58:44.260]   and one lady who was about 10 years ahead of me in age,
+[00:58:44.260 --> 00:58:47.560]   and she started sharing about her testimony.
+[00:58:47.560 --> 00:58:51.460]   And in her testimony, she said that she had five miscarriages,
+[00:58:51.460 --> 00:58:53.560]   and she still didn't have a child.
+[00:58:53.560 --> 00:58:57.060]   And they've been married for a long time.
+[00:58:57.060 --> 00:58:59.560]   But what really got me was, as she was sharing that,
+[00:58:59.560 --> 00:59:00.960]   she was starting to break down, and she said,
+[00:59:00.960 --> 00:59:02.660]   by the time she had her fifth miscarriage,
+[00:59:02.660 --> 00:59:07.960]   she said, by her own words, "I no longer feel like a woman."
+[00:59:07.960 --> 00:59:10.560]   I remember when I listened to that,
+[00:59:10.560 --> 00:59:13.860]   I mean, my heart ached for her,
+[00:59:13.860 --> 00:59:16.160]   but at the same time, I was thinking,
+[00:59:16.160 --> 00:59:19.360]   "Is this what Esther's going through?"
+[00:59:19.360 --> 00:59:20.760]   I remember I came back from that,
+[00:59:20.760 --> 00:59:22.660]   and I didn't really share this with Esther,
+[00:59:22.660 --> 00:59:26.160]   but I started going to morning prayer.
+[00:59:26.160 --> 00:59:28.860]   Every morning at 5 o'clock, I would go there,
+[00:59:28.860 --> 00:59:31.660]   and that's all I prayed for during her pregnancy.
+[00:59:31.660 --> 00:59:33.960]   I prayed, I prayed, "Lord, please answer this prayer.
+[00:59:33.960 --> 00:59:35.660]   Please let her have this.
+[00:59:35.660 --> 00:59:38.660]   Please, please, please."
+[00:59:38.660 --> 00:59:42.360]   And then, sure enough, she had her miscarriage.
+[00:59:42.360 --> 00:59:46.660]   If there's any one period in my prayer life
+[00:59:46.660 --> 00:59:48.860]   where I was severely disappointed
+[00:59:48.860 --> 00:59:51.260]   was during that period.
+[00:59:51.260 --> 00:59:54.660]   I mean, there's a lot of things I prayed for a long time,
+[00:59:54.660 --> 00:59:56.960]   but I can only think of a handful of things
+[00:59:56.960 --> 01:00:01.660]   where I literally cried out to God and pled before God,
+[01:00:01.660 --> 01:00:05.760]   and for several months, prayed, "Lord, answer, answer.
+[01:00:05.760 --> 01:00:07.060]   May this be for your glory.
+[01:00:07.060 --> 01:00:08.660]   May this be for your glory."
+[01:00:08.660 --> 01:00:11.060]   And then when she had the miscarriage,
+[01:00:11.060 --> 01:00:14.760]   I remember thinking, "Where are you?"
+[01:00:14.760 --> 01:00:18.060]   You know, I dedicated my life, you know.
+[01:00:18.060 --> 01:00:21.060]   We let go of material goods.
+[01:00:21.060 --> 01:00:23.460]   We're willing to suffer for your kingdom,
+[01:00:23.460 --> 01:00:24.960]   and you won't answer this prayer?"
+[01:00:24.960 --> 01:00:26.560]   And I never shared this with anybody,
+[01:00:26.560 --> 01:00:28.460]   but I remember the disappointment
+[01:00:28.460 --> 01:00:31.360]   that I felt during that period.
+[01:00:31.360 --> 01:00:34.560]   Third child comes along, right, pregnancy,
+[01:00:34.560 --> 01:00:37.460]   and we already are thinking she's not going to have this child.
+[01:00:37.460 --> 01:00:39.260]   She goes to the hospital,
+[01:00:39.260 --> 01:00:43.960]   and the doctor says, "You had another miscarriage."
+[01:00:43.960 --> 01:00:46.760]   And so, we just, by that time, we've accepted it.
+[01:00:46.760 --> 01:00:50.760]   She's not going to be able to have children normal way.
+[01:00:50.760 --> 01:00:55.560]   We didn't have enough money to think about adoption.
+[01:00:55.560 --> 01:00:58.760]   We were just thinking, "Well, let's see what happens."
+[01:00:58.760 --> 01:01:02.060]   And so, after that initial appointment,
+[01:01:02.060 --> 01:01:06.360]   she came back and just lived a normal life, you know.
+[01:01:06.360 --> 01:01:08.460]   And at that time, I was a youth pastor,
+[01:01:08.460 --> 01:01:11.160]   so I remember taking the kids to Magic Mountain,
+[01:01:11.160 --> 01:01:13.960]   and she rode the roller coaster and did all of that,
+[01:01:13.960 --> 01:01:16.360]   didn't take any medicine, nothing, right,
+[01:01:16.360 --> 01:01:18.460]   drank coffee, whatever you're not supposed to do.
+[01:01:18.460 --> 01:01:20.660]   She did everything, right?
+[01:01:20.660 --> 01:01:23.960]   And at the end of fifth month, she just went in for a checkup,
+[01:01:23.960 --> 01:01:26.760]   just to see, right, just to make sure
+[01:01:26.760 --> 01:01:29.660]   that everything has been moved from the body.
+[01:01:29.660 --> 01:01:32.260]   And she came back, and the way she came through the door,
+[01:01:32.260 --> 01:01:34.460]   I knew something was wrong.
+[01:01:34.460 --> 01:01:38.760]   And she said, "The baby's living."
+[01:01:38.760 --> 01:01:40.560]   And I thought, "What?
+[01:01:40.560 --> 01:01:44.060]   They already told us that we lost him."
+[01:01:44.060 --> 01:01:45.460]   And she came back with an ultrasound.
+[01:01:45.460 --> 01:01:49.560]   She's like, "Oops."
+[01:01:49.560 --> 01:01:50.660]   So we don't know.
+[01:01:50.660 --> 01:01:52.560]   I mean, maybe the doctor was just automatically assuming
+[01:01:52.560 --> 01:01:53.660]   she's not going to be able to have a baby,
+[01:01:53.660 --> 01:01:55.660]   so she maybe didn't examine carefully.
+[01:01:55.660 --> 01:01:58.560]   But whatever happened was we've already accepted that,
+[01:01:58.560 --> 01:02:01.860]   and we knew the emotions behind all of that.
+[01:02:01.860 --> 01:02:03.960]   And I can tell you, each one of our kids,
+[01:02:03.960 --> 01:02:06.060]   we had some drama behind.
+[01:02:06.060 --> 01:02:09.360]   And God allow us at least to emotionally feel
+[01:02:09.360 --> 01:02:13.260]   what it's like to possibly have a kid with Down syndrome.
+[01:02:13.260 --> 01:02:15.860]   We had another kid that we thought was, you know,
+[01:02:15.860 --> 01:02:19.260]   was premature and was in the incubator for a couple months.
+[01:02:19.260 --> 01:02:21.060]   And then we had faith.
+[01:02:21.060 --> 01:02:25.460]   [laughter]
+[01:02:25.460 --> 01:02:28.160]   Well, each one of us, I'm not going to go into all of that,
+[01:02:28.160 --> 01:02:32.660]   but God allowed us to feel the emotions behind the heartache
+[01:02:32.660 --> 01:02:35.060]   that many parents go through in different situations.
+[01:02:35.060 --> 01:02:41.360]   But I can tell you that not being able to have a child,
+[01:02:41.360 --> 01:02:43.760]   I understand.
+[01:02:43.760 --> 01:02:46.960]   And I know there's a lot of people in our generation
+[01:02:46.960 --> 01:02:49.560]   that because of this desire,
+[01:02:49.560 --> 01:02:54.360]   there's a temptation to compromise our Christian ethics,
+[01:02:54.360 --> 01:02:58.060]   to do things against the will of God.
+[01:02:58.060 --> 01:03:00.660]   I'm not going to get into that this morning,
+[01:03:00.660 --> 01:03:03.960]   but I want to encourage you.
+[01:03:03.960 --> 01:03:06.960]   Our God is sovereign.
+[01:03:06.960 --> 01:03:10.760]   What's happening in your life isn't by mistake.
+[01:03:10.760 --> 01:03:14.060]   It's not because of a satanic attack.
+[01:03:14.060 --> 01:03:15.960]   Trust God.
+[01:03:15.960 --> 01:03:20.560]   Whether you end up having a child or not having a child,
+[01:03:20.560 --> 01:03:24.760]   trust God.
+[01:03:24.760 --> 01:03:28.360]   You know what's interesting about this story?
+[01:03:28.360 --> 01:03:34.360]   There's major markers in how God's covenant is being fulfilled.
+[01:03:34.360 --> 01:03:39.760]   And each one of those markers, it comes through a barren woman.
+[01:03:39.760 --> 01:03:42.160]   You remember Sarah?
+[01:03:42.160 --> 01:03:43.860]   Had Isaac.
+[01:03:43.860 --> 01:03:45.560]   She was barren.
+[01:03:45.560 --> 01:03:47.460]   Rebecca had Jacob.
+[01:03:47.460 --> 01:03:48.660]   She was barren.
+[01:03:48.660 --> 01:03:50.660]   Rachel had Joseph.
+[01:03:50.660 --> 01:03:52.060]   She was barren.
+[01:03:52.060 --> 01:03:56.760]   Hannah had Samuel, and she was barren.
+[01:03:56.760 --> 01:03:59.560]   This is not by accident.
+[01:03:59.560 --> 01:04:01.960]   God is trying to convey something here.
+[01:04:01.960 --> 01:04:04.860]   That doesn't mean that if you have a hard time having a child,
+[01:04:04.860 --> 01:04:08.560]   that if you trust God, that you're going to have four children.
+[01:04:08.560 --> 01:04:10.960]   It doesn't mean that.
+[01:04:10.960 --> 01:04:17.260]   But what it does mean is that our God is completely sovereign.
+[01:04:17.260 --> 01:04:22.060]   That even in the most randomest and difficult and the darkest situation,
+[01:04:22.060 --> 01:04:25.760]   God has not lost control.
+[01:04:25.760 --> 01:04:29.060]   The reason why Elizabeth and this story is here,
+[01:04:29.060 --> 01:04:32.060]   which seems random on the surface,
+[01:04:32.060 --> 01:04:35.360]   is because God prophesied this.
+[01:04:35.360 --> 01:04:37.360]   In Isaiah 54, 1 through 8, it says,
+[01:04:37.360 --> 01:04:40.960]   "Shout for joy, O barren one, you who have born no child.
+[01:04:40.960 --> 01:04:43.760]   Break forth into joyful shouting and cry aloud.
+[01:04:43.760 --> 01:04:46.760]   You who have not prevailed, for the sons of the desolate one
+[01:04:46.760 --> 01:04:50.560]   will be more numerous than the sons of the married woman," says the Lord.
+[01:04:50.560 --> 01:04:52.060]   "Enlarge the place of your tent.
+[01:04:52.060 --> 01:04:53.760]   Stretch out the curtains of your dwelling.
+[01:04:53.760 --> 01:04:54.560]   Spare not.
+[01:04:54.560 --> 01:04:56.760]   Lengthen your cords and strengthen your pegs,
+[01:04:56.760 --> 01:04:59.560]   for you will spread abroad to the right and to the left,
+[01:04:59.560 --> 01:05:03.260]   and your descendants will possess nations and will resettle the desolate cities.
+[01:05:03.260 --> 01:05:05.560]   Fear not, for you will not be put to shame.
+[01:05:05.560 --> 01:05:08.560]   Do not feel humiliated, for you will not be disgraced,
+[01:05:08.560 --> 01:05:10.860]   but you will forget the shame of your youth
+[01:05:10.860 --> 01:05:14.760]   and the reproach of your widowhood you will remember no more,
+[01:05:14.760 --> 01:05:17.060]   for your husband is your maker,
+[01:05:17.060 --> 01:05:19.060]   whose name is the Lord of hosts,
+[01:05:19.060 --> 01:05:21.060]   and your Redeemer is the Holy One of Israel,
+[01:05:21.060 --> 01:05:23.060]   who is called the God of all the earth.
+[01:05:23.060 --> 01:05:26.360]   For the Lord has called you like a wife forsaken and grieved in spirit,
+[01:05:26.360 --> 01:05:30.060]   even like a wife of one's youth when she is rejected," says your God.
+[01:05:30.060 --> 01:05:32.060]   "For a brief moment I forsook you,
+[01:05:32.060 --> 01:05:34.260]   but with great compassion I will gather you.
+[01:05:34.260 --> 01:05:37.860]   In an outburst of anger I hid my face from you for a moment,
+[01:05:37.860 --> 01:05:41.160]   but with everlasting lovingkindness I will have compassion on you,"
+[01:05:41.160 --> 01:05:43.360]   says the Lord, your Redeemer.
+[01:05:43.360 --> 01:05:48.060]   What seems random on the surface is not random at all.
+[01:05:48.060 --> 01:05:53.160]   When God says that He remembers every strand of hair on our head,
+[01:05:53.160 --> 01:05:54.860]   He means it.
+[01:05:54.860 --> 01:05:58.160]   You know, we're in a wedding season right now.
+[01:05:58.160 --> 01:06:01.160]   You know, we have almost a wedding every week.
+[01:06:02.060 --> 01:06:05.360]   And so I was at one yesterday and I remember just sitting around with
+[01:06:05.360 --> 01:06:09.460]   all our bereaved and some of them that I've known for almost 20 years.
+[01:06:09.460 --> 01:06:14.160]   And we're thinking about how weddings used to be a long time ago, right?
+[01:06:14.160 --> 01:06:19.860]   15, 20 years ago when, was it 20? I forgot how long it was, but a while back, right?
+[01:06:19.860 --> 01:06:22.360]   How many years were you married, Joe?
+[01:06:22.360 --> 01:06:26.660]   18. So 18 years. They were the first couple at our church, right?
+[01:06:26.660 --> 01:06:30.360]   But at then, most people did not have wedding coordinators
+[01:06:30.360 --> 01:06:32.460]   because I was their wedding coordinator.
+[01:06:32.460 --> 01:06:35.760]   Because we had the whole church involved.
+[01:06:35.760 --> 01:06:38.160]   So whenever they got married, you know, I'd get,
+[01:06:38.160 --> 01:06:40.660]   I'd gather up the people and say, "We need to shift.
+[01:06:40.660 --> 01:06:42.660]   Their wedding's at four. We're going to show up at two o'clock
+[01:06:42.660 --> 01:06:45.860]   and we're going to set up the tables and, you know, help serve the food."
+[01:06:45.860 --> 01:06:49.460]   And then after the wedding was over, we would stay longer and clean up
+[01:06:49.460 --> 01:06:51.160]   and we would say bye to them as they go
+[01:06:51.160 --> 01:06:53.460]   and then we would stay behind and clean up for them.
+[01:06:53.460 --> 01:06:56.660]   It was like that in the beginning because our church was smaller.
+[01:06:56.660 --> 01:06:59.960]   And so every wedding was a huge celebration, right?
+[01:07:00.160 --> 01:07:02.960]   It made all of us feel like grown-ups, right?
+[01:07:02.960 --> 01:07:05.060]   Stuck around and it's like, "Oh, they're getting married."
+[01:07:05.060 --> 01:07:08.560]   And so every event, they didn't even have to send out invitations
+[01:07:08.560 --> 01:07:12.660]   because our church was small. It was just assumed, right?
+[01:07:12.660 --> 01:07:13.560]   And so they would come.
+[01:07:13.560 --> 01:07:15.760]   Like a lot of college students who had no idea who they were,
+[01:07:15.760 --> 01:07:17.660]   they would just show up on Saturday because they had nothing to do.
+[01:07:17.660 --> 01:07:21.260]   But that was all calculated into the meals and into the celebration.
+[01:07:21.260 --> 01:07:24.160]   So we're just reminiscing about that and how it used to be
+[01:07:24.160 --> 01:07:27.660]   and, you know, how every celebration when people had hardship,
+[01:07:27.660 --> 01:07:30.460]   we were all there together, cried together, laughed together.
+[01:07:30.460 --> 01:07:33.760]   But one of the difficulties now that the church is bigger,
+[01:07:33.760 --> 01:07:35.260]   it's hard, right?
+[01:07:35.260 --> 01:07:37.960]   You know, it's hard to even get to know everybody.
+[01:07:37.960 --> 01:07:42.160]   And so that's one of the things that happens when the church is big.
+[01:07:42.160 --> 01:07:45.760]   And I know there's some of you who were there like 20 years ago
+[01:07:45.760 --> 01:07:48.360]   thinking, "Oh, you know, only if it was like that,
+[01:07:48.360 --> 01:07:49.960]   only when it was a long time ago."
+[01:07:49.960 --> 01:07:52.760]   But obviously we're growing because God is blessing us.
+[01:07:52.760 --> 01:07:56.560]   There's people coming to hear the Word and so greater things are happening.
+[01:07:57.560 --> 01:07:59.860]   But sometimes when you think about it, it is a bit sad
+[01:07:59.860 --> 01:08:03.060]   because I know people who are going through hardship
+[01:08:03.060 --> 01:08:05.860]   and can't be there for all of it.
+[01:08:05.860 --> 01:08:09.160]   A lot of you have gone through a lot of hardship in the last two years.
+[01:08:09.160 --> 01:08:12.860]   There's things that you're celebrating and we can't make it there.
+[01:08:12.860 --> 01:08:15.860]   Like just yesterday, we had two weddings on the same day.
+[01:08:15.860 --> 01:08:20.360]   As we wrestle and struggle with that,
+[01:08:20.360 --> 01:08:24.160]   as much as I would like to be there,
+[01:08:25.860 --> 01:08:27.860]   I am not your true shepherd.
+[01:08:27.860 --> 01:08:30.960]   I'm only an under shepherd.
+[01:08:30.960 --> 01:08:35.660]   What I cannot do, God does.
+[01:08:35.660 --> 01:08:38.960]   God does.
+[01:08:38.960 --> 01:08:45.160]   Whether you are 50, 500, 1,000, or 10,000, or a billion,
+[01:08:45.160 --> 01:08:49.660]   our God is sovereign and He cares.
+[01:08:49.660 --> 01:08:55.460]   Even for a barren woman in her old age,
+[01:08:56.460 --> 01:09:00.460]   even for this old couple who may have lost all hope,
+[01:09:00.460 --> 01:09:05.460]   that as He comes to save the world,
+[01:09:05.460 --> 01:09:08.960]   He comes to this couple
+[01:09:08.960 --> 01:09:13.960]   who would have no other hope than the love of Jesus Christ.
+[01:09:13.960 --> 01:09:20.460]   That's the sympathetic high priest that we love, that we worship.
+[01:09:20.460 --> 01:09:23.960]   And so as we continue to study the book of Luke,
+[01:09:23.960 --> 01:09:27.960]   as I mentioned, as His humanity is presented to us,
+[01:09:27.960 --> 01:09:30.960]   as His compassion we're able to see up close,
+[01:09:30.960 --> 01:09:32.960]   that you would remember,
+[01:09:32.960 --> 01:09:38.960]   He says, "We have a high priest who sympathizes with our weaknesses.
+[01:09:38.960 --> 01:09:41.960]   Therefore, come to the throne of grace.
+[01:09:41.960 --> 01:09:48.960]   Enter the throne with confidence to seek help in time of need."
+[01:09:48.960 --> 01:09:51.960]   So my prayer is that we would know this Jesus,
+[01:09:52.460 --> 01:09:54.460]   that God would not just be some figurehead,
+[01:09:54.460 --> 01:09:56.460]   some power up above who created the universe
+[01:09:56.460 --> 01:09:58.460]   and just kind of disappeared from the background,
+[01:09:58.460 --> 01:10:00.460]   that we worship from a distance,
+[01:10:00.460 --> 01:10:02.960]   but that we would see His love for us,
+[01:10:02.960 --> 01:10:07.960]   that we would desire more than anything else to be near to this Jesus.
+[01:10:07.960 --> 01:10:09.460]   Let's pray.
+[01:10:09.460 --> 01:10:16.460]   God, what an awesome God you are.
+[01:10:18.960 --> 01:10:26.460]   Lord, as we remember that you remembered Zacharias and Elizabeth,
+[01:10:26.460 --> 01:10:30.460]   countless number of people who came before them,
+[01:10:30.460 --> 01:10:38.460]   countless number of hurting and aching souls that came after them,
+[01:10:38.460 --> 01:10:45.960]   all reminding us that you care for us, that you love us,
+[01:10:46.960 --> 01:10:49.460]   that we are not insignificant in your sight.
+[01:10:49.460 --> 01:10:54.460]   We pray, Father God, that you would soften our hearts,
+[01:10:54.460 --> 01:10:59.460]   help us to see our sympathetic high priest,
+[01:10:59.460 --> 01:11:02.960]   that we would love him as he loves us,
+[01:11:02.960 --> 01:11:06.460]   that we would worship him as he deserves.
+[01:11:06.460 --> 01:11:09.960]   May Christ and Christ alone be magnified.
+[01:11:09.960 --> 01:11:11.960]   In Jesus' name we pray, amen.
+[01:11:11.960 --> 01:11:14.460]   Let's all stand up for the closing praise.
+[01:11:14.460 --> 01:11:15.460]   Amen.
+[01:11:16.460 --> 01:11:18.460]   [music]
+[01:11:19.460 --> 01:11:21.460]   [music]
+[01:11:22.460 --> 01:11:24.460]   [music]
+[01:11:24.460 --> 01:11:27.460]   [music]
+[01:11:27.460 --> 01:11:30.460]   [music]
+[01:11:30.460 --> 01:11:33.460]   [music]
+[01:11:33.460 --> 01:11:36.460]   [music]
+[01:11:36.460 --> 01:11:39.460]   [music]
+[01:11:39.460 --> 01:11:42.460]   [music]
+[01:11:42.460 --> 01:11:45.460]   [music]
+[01:11:45.460 --> 01:11:48.460]   [music]
+[01:11:49.460 --> 01:11:52.300]   ♪ His work is finished ♪
+[01:11:52.300 --> 01:11:56.880]   ♪ He has broken this oath to make ♪
+[01:11:56.880 --> 01:12:01.880]   ♪ Though the sun has ceased its shining ♪
+[01:12:01.880 --> 01:12:05.920]   ♪ Though the world appeared as dust ♪
+[01:12:05.920 --> 01:12:10.620]   ♪ Christ has triumphed over evil ♪
+[01:12:10.620 --> 01:12:14.620]   ♪ Heaven's finished upon our floor ♪
+[01:12:16.620 --> 01:12:19.200]   (upbeat music)
+[01:12:19.200 --> 01:12:27.960]   ♪ Now the curse, it has been broken ♪
+[01:12:27.960 --> 01:12:32.500]   ♪ Jesus paid the price for me ♪
+[01:12:32.500 --> 01:12:37.220]   ♪ Filled the pardon He has offered ♪
+[01:12:37.220 --> 01:12:41.880]   ♪ Great the welcome that I receive ♪
+[01:12:41.880 --> 01:12:46.880]   ♪ I am ravaged by father ♪
+[01:12:46.880 --> 01:12:50.880]   ♪ But Jesus righteousness ♪
+[01:12:50.880 --> 01:12:55.540]   ♪ I was numbered and too late ♪
+[01:12:55.540 --> 01:12:59.540]   ♪ It was finished upon my plate ♪
+[01:12:59.540 --> 01:13:02.120]   (upbeat music)
+[01:13:02.120 --> 01:13:22.040]   ♪ Once my grave had fallen ♪
+[01:13:22.040 --> 01:13:26.540]   ♪ Fear once had a hold on me ♪
+[01:13:26.540 --> 01:13:31.040]   ♪ Let the Son who died to save us ♪
+[01:13:31.040 --> 01:13:35.540]   ♪ Rose that we would be free in Him ♪
+[01:13:35.540 --> 01:13:38.120]   (upbeat music)
+[01:13:38.120 --> 01:13:48.540]   ♪ It was once my grave had fallen ♪
+[01:13:48.540 --> 01:13:53.040]   ♪ Fear once had a hold on me ♪
+[01:13:53.040 --> 01:13:57.540]   ♪ Let the Son who died to save us ♪
+[01:13:57.540 --> 01:14:01.540]   ♪ Rose that we would be free in Him ♪
+[01:14:01.540 --> 01:14:06.540]   ♪ Yes He rose, now we would be free in Him ♪
+[01:14:06.540 --> 01:14:11.540]   ♪ We from the grief and the darkness ♪
+[01:14:11.540 --> 01:14:16.040]   ♪ Free to love, now free to live ♪
+[01:14:16.040 --> 01:14:20.540]   ♪ Death has done our prayers, it was done ♪
+[01:14:20.540 --> 01:14:25.540]   ♪ It was finished upon the cross ♪
+[01:14:25.540 --> 01:14:29.540]   ♪ I will to eternal life ♪
+[01:14:29.540 --> 01:14:34.540]   ♪ And to receive the love of my God ♪
+[01:14:34.540 --> 01:14:39.540]   ♪ I rejoice in Jesus' victory ♪
+[01:14:39.540 --> 01:14:43.540]   ♪ It was finished upon the cross ♪
+[01:14:43.540 --> 01:14:48.540]   ♪ It was finished upon the cross ♪
+[01:14:48.540 --> 01:14:53.540]   ♪ It was finished upon the cross ♪
+[01:14:53.540 --> 01:14:56.120]   (upbeat music)
+[01:14:56.120 --> 01:15:04.540]   - Let's pray.
+[01:15:04.540 --> 01:15:08.540]   Now to Him who is able to keep you from stumbling
+[01:15:08.540 --> 01:15:11.540]   and to make you stand in the presence of His glory,
+[01:15:11.540 --> 01:15:13.540]   blameless with great joy.
+[01:15:13.540 --> 01:15:16.540]   To the only God our Savior through Jesus Christ our Lord,
+[01:15:16.540 --> 01:15:19.540]   be glory, majesty, dominion and authority
+[01:15:19.540 --> 01:15:22.540]   before all time and now and forever, amen.
+[01:15:22.540 --> 01:15:28.540]   ♪ God sent His Son ♪
+[01:15:28.540 --> 01:15:33.540]   ♪ They called Him Jesus ♪
+[01:15:33.540 --> 01:15:38.540]   ♪ He came to love ♪
+[01:15:38.540 --> 01:15:43.540]   ♪ He lived for a day ♪
+[01:15:43.540 --> 01:15:48.540]   ♪ He lived and died ♪
+[01:15:48.540 --> 01:15:54.540]   ♪ To buy my pardon ♪
+[01:15:54.540 --> 01:15:59.540]   ♪ An empty grave is there to fill ♪
+[01:15:59.540 --> 01:16:05.540]   ♪ My Savior lands ♪
+[01:16:05.540 --> 01:16:10.540]   ♪ Because He lives ♪
+[01:16:10.540 --> 01:16:15.540]   ♪ I can face tomorrow ♪
+[01:16:15.540 --> 01:16:21.540]   ♪ Because He lives ♪
+[01:16:21.540 --> 01:16:26.540]   ♪ All fear is gone ♪
+[01:16:26.540 --> 01:16:31.540]   ♪ Because I know ♪
+[01:16:31.540 --> 01:16:37.540]   ♪ He holds the future ♪
+[01:16:37.540 --> 01:16:42.540]   ♪ And life is worth the living ♪
+[01:16:42.540 --> 01:16:47.540]   ♪ Just because He lives ♪
+[01:16:47.540 --> 01:16:50.540]   Amen.
+[01:16:50.540 --> 01:16:58.040]   (soft music)
+[01:17:05.540 --> 01:17:07.960]   (indistinct)
+[01:17:08.960 --> 01:17:11.380]   (soft music)
+[01:17:12.380 --> 01:17:14.800]   (soft music)
+[01:17:15.800 --> 01:17:18.220]   (soft music)
+[01:17:18.220 --> 01:17:20.220]   [laughing]
+

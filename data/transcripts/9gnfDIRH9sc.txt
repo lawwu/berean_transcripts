@@ -1,0 +1,1301 @@
+
+[00:00:00.000 --> 00:00:03.480]   [MUSIC PLAYING]
+[00:00:03.480 --> 00:00:06.960]   [CHATTER]
+[00:00:06.960 --> 00:00:10.440]   [MUSIC PLAYING]
+[00:00:10.440 --> 00:00:13.920]   [CHATTER]
+[00:00:13.920 --> 00:00:30.400]   [MUSIC PLAYING]
+[00:00:31.320 --> 00:00:34.800]   [CHATTER]
+[00:00:35.680 --> 00:00:39.160]   [MUSIC PLAYING]
+[00:00:39.160 --> 00:00:42.640]   [MUSIC PLAYING]
+[00:00:42.640 --> 00:00:46.120]   [MUSIC PLAYING]
+[00:00:46.480 --> 00:00:49.960]   [MUSIC PLAYING]
+[00:00:50.280 --> 00:00:53.760]   [MUSIC PLAYING]
+[00:00:53.760 --> 00:00:57.240]   [MUSIC PLAYING]
+[00:00:57.240 --> 00:01:00.720]   [MUSIC PLAYING]
+[00:01:00.720 --> 00:01:04.200]   [MUSIC PLAYING]
+[00:01:04.200 --> 00:01:07.680]   [MUSIC PLAYING]
+[00:01:07.680 --> 00:01:11.160]   [MUSIC PLAYING]
+[00:01:11.160 --> 00:01:14.640]   [MUSIC PLAYING]
+[00:01:14.640 --> 00:01:18.120]   [MUSIC PLAYING]
+[00:01:18.120 --> 00:01:21.600]   [MUSIC PLAYING]
+[00:01:21.600 --> 00:01:25.080]   [MUSIC PLAYING]
+[00:01:25.080 --> 00:01:28.560]   [MUSIC PLAYING]
+[00:01:28.560 --> 00:01:32.560]   [MUSIC PLAYING]
+[00:01:32.560 --> 00:01:38.560]   [MUSIC PLAYING]
+[00:01:38.560 --> 00:01:43.560]   [MUSIC PLAYING]
+[00:01:43.560 --> 00:01:50.560]   [MUSIC PLAYING]
+[00:01:52.560 --> 00:01:55.560]   [MUSIC PLAYING]
+[00:01:55.560 --> 00:02:01.560]   [MUSIC PLAYING]
+[00:02:01.560 --> 00:02:07.560]   [MUSIC PLAYING]
+[00:02:07.560 --> 00:02:14.560]   [MUSIC PLAYING]
+[00:02:14.560 --> 00:02:20.560]   [MUSIC PLAYING]
+[00:02:20.560 --> 00:02:23.560]   [MUSIC PLAYING]
+[00:02:23.560 --> 00:02:39.560]   [CHATTER]
+[00:02:39.560 --> 00:02:43.560]   [MUSIC PLAYING]
+[00:02:43.560 --> 00:02:46.560]   [MUSIC PLAYING]
+[00:02:46.560 --> 00:02:56.560]   [MUSIC PLAYING]
+[00:02:56.560 --> 00:03:06.560]   [MUSIC PLAYING]
+[00:03:07.560 --> 00:03:10.560]   [MUSIC PLAYING]
+[00:03:10.560 --> 00:03:19.560]   [MUSIC PLAYING]
+[00:03:19.560 --> 00:03:29.560]   [MUSIC PLAYING]
+[00:03:30.560 --> 00:03:33.560]   [MUSIC PLAYING]
+[00:03:33.560 --> 00:03:51.560]   [MUSIC PLAYING]
+[00:03:51.560 --> 00:03:54.560]   [MUSIC PLAYING]
+[00:03:54.560 --> 00:04:04.560]   [MUSIC PLAYING]
+[00:04:04.560 --> 00:04:14.560]   [MUSIC PLAYING]
+[00:04:14.560 --> 00:04:17.560]   [MUSIC PLAYING]
+[00:04:17.560 --> 00:04:27.560]   [MUSIC PLAYING]
+[00:04:27.560 --> 00:04:37.560]   [MUSIC PLAYING]
+[00:04:38.560 --> 00:04:41.560]   [MUSIC PLAYING]
+[00:04:41.560 --> 00:04:50.560]   [MUSIC PLAYING]
+[00:04:50.560 --> 00:05:00.560]   [MUSIC PLAYING]
+[00:05:00.560 --> 00:05:03.560]   [MUSIC PLAYING]
+[00:05:03.560 --> 00:05:13.560]   [MUSIC PLAYING]
+[00:05:13.560 --> 00:05:23.560]   [MUSIC PLAYING]
+[00:05:23.560 --> 00:05:26.560]   [MUSIC PLAYING]
+[00:05:26.560 --> 00:05:36.560]   [MUSIC PLAYING]
+[00:05:36.560 --> 00:05:46.560]   [MUSIC PLAYING]
+[00:05:47.560 --> 00:05:50.560]   [MUSIC PLAYING]
+[00:05:50.560 --> 00:05:59.560]   [MUSIC PLAYING]
+[00:05:59.560 --> 00:06:11.560]   [MUSIC PLAYING]
+[00:06:11.560 --> 00:06:14.560]   [MUSIC PLAYING]
+[00:06:14.560 --> 00:06:24.560]   [MUSIC PLAYING]
+[00:06:24.560 --> 00:06:34.560]   [MUSIC PLAYING]
+[00:06:34.560 --> 00:06:37.560]   [MUSIC PLAYING]
+[00:06:37.560 --> 00:06:47.560]   [MUSIC PLAYING]
+[00:06:47.560 --> 00:06:59.560]   [MUSIC PLAYING]
+[00:06:59.560 --> 00:07:02.560]   [MUSIC PLAYING]
+[00:07:02.560 --> 00:07:12.560]   [MUSIC PLAYING]
+[00:07:12.560 --> 00:07:24.560]   [MUSIC PLAYING]
+[00:07:24.560 --> 00:07:27.560]   [MUSIC PLAYING]
+[00:07:27.560 --> 00:07:37.560]   [MUSIC PLAYING]
+[00:07:37.560 --> 00:07:47.560]   [MUSIC PLAYING]
+[00:07:48.560 --> 00:07:51.560]   [MUSIC PLAYING]
+[00:07:51.560 --> 00:08:02.560]   [MUSIC PLAYING]
+[00:08:02.560 --> 00:08:05.560]   [MUSIC PLAYING]
+[00:08:05.560 --> 00:08:25.560]   [MUSIC PLAYING]
+[00:08:25.560 --> 00:08:28.560]   [MUSIC PLAYING]
+[00:08:28.560 --> 00:08:40.560]   [MUSIC PLAYING]
+[00:08:40.560 --> 00:08:43.560]   [MUSIC PLAYING]
+[00:08:43.560 --> 00:08:53.560]   [MUSIC PLAYING]
+[00:08:53.560 --> 00:09:03.560]   [MUSIC PLAYING]
+[00:09:03.560 --> 00:09:06.560]   [MUSIC PLAYING]
+[00:09:06.560 --> 00:09:16.560]   [MUSIC PLAYING]
+[00:09:16.560 --> 00:09:26.560]   [MUSIC PLAYING]
+[00:09:26.560 --> 00:09:29.560]   [MUSIC PLAYING]
+[00:09:29.560 --> 00:09:39.560]   [MUSIC PLAYING]
+[00:09:39.560 --> 00:09:49.560]   [MUSIC PLAYING]
+[00:09:49.560 --> 00:09:52.560]   [MUSIC PLAYING]
+[00:09:52.560 --> 00:10:02.560]   [MUSIC PLAYING]
+[00:10:02.560 --> 00:10:12.560]   [MUSIC PLAYING]
+[00:10:12.560 --> 00:10:15.560]   [MUSIC PLAYING]
+[00:10:15.560 --> 00:10:25.560]   [MUSIC PLAYING]
+[00:10:25.560 --> 00:10:35.560]   [MUSIC PLAYING]
+[00:10:35.560 --> 00:10:38.560]   [MUSIC PLAYING]
+[00:10:38.560 --> 00:10:48.560]   [MUSIC PLAYING]
+[00:10:48.560 --> 00:10:58.560]   [MUSIC PLAYING]
+[00:10:58.560 --> 00:11:01.560]   [MUSIC PLAYING]
+[00:11:01.560 --> 00:11:11.560]   [MUSIC PLAYING]
+[00:11:11.560 --> 00:11:26.560]   [MUSIC PLAYING]
+[00:11:26.560 --> 00:11:29.560]   [MUSIC PLAYING]
+[00:11:29.560 --> 00:11:41.560]   [MUSIC PLAYING]
+[00:11:41.560 --> 00:11:54.560]   [MUSIC PLAYING]
+[00:11:54.560 --> 00:11:57.560]   [MUSIC PLAYING]
+[00:11:57.560 --> 00:12:07.560]   [MUSIC PLAYING]
+[00:12:23.560 --> 00:12:26.560]   [MUSIC PLAYING]
+[00:12:26.560 --> 00:12:36.560]   [MUSIC PLAYING]
+[00:12:52.560 --> 00:12:55.560]   [MUSIC PLAYING]
+[00:12:55.560 --> 00:13:05.560]   [MUSIC PLAYING]
+[00:13:21.560 --> 00:13:24.560]   [MUSIC PLAYING]
+[00:13:49.560 --> 00:13:52.560]   [MUSIC PLAYING]
+[00:13:52.560 --> 00:14:12.560]   Morning, Church family.
+[00:14:12.560 --> 00:14:15.560]   Happy Lord's Day.
+[00:14:15.560 --> 00:14:20.560]   Hebrews chapter 4, verses 14 to 16, it goes, "Therefore,
+[00:14:20.560 --> 00:14:22.560]   since we have a great high priest who
+[00:14:22.560 --> 00:14:25.560]   has passed through the heavens, Jesus, the Son of God,
+[00:14:25.560 --> 00:14:27.560]   let us hold fast our confession.
+[00:14:27.560 --> 00:14:30.560]   For we do not have a high priest who cannot sympathize
+[00:14:30.560 --> 00:14:34.560]   with our weaknesses, but one who has been tempted in all things
+[00:14:34.560 --> 00:14:36.560]   as we are, yet without sin.
+[00:14:36.560 --> 00:14:38.560]   Therefore, let us draw near with confidence
+[00:14:38.560 --> 00:14:42.560]   to the throne of grace, so that we may receive mercy
+[00:14:42.560 --> 00:14:45.560]   and find grace to help in a time of need."
+[00:14:45.560 --> 00:14:46.560]   Amen.
+[00:14:46.560 --> 00:14:48.560]   And with that, we will begin our service.
+[00:14:48.560 --> 00:14:59.560]   [MUSIC - "ALL OF YOU"]
+[00:14:59.560 --> 00:15:00.560]   And all of you.
+[00:15:00.560 --> 00:15:09.560]   And all of you is more than enough for all of me
+[00:15:09.560 --> 00:15:15.560]   for every thirst and every need.
+[00:15:15.560 --> 00:15:22.560]   You satisfy me with your love.
+[00:15:22.560 --> 00:15:27.560]   And all I have in you is more than enough.
+[00:15:28.560 --> 00:15:32.560]   [MUSIC - "YOU ARE MY SUPPLY"]
+[00:15:32.560 --> 00:15:41.560]   You are my supply.
+[00:15:41.560 --> 00:15:49.560]   You are my supply, my breath of life.
+[00:15:49.560 --> 00:15:54.560]   Still more awesome than I know.
+[00:15:54.560 --> 00:16:02.560]   You are my reward, worth living for.
+[00:16:02.560 --> 00:16:06.560]   Still more awesome than I know.
+[00:16:06.560 --> 00:16:14.560]   All of you is more than enough for all of me
+[00:16:14.560 --> 00:16:21.560]   for every thirst and every need.
+[00:16:21.560 --> 00:16:27.560]   You satisfy me with your love.
+[00:16:27.560 --> 00:16:32.560]   And all I have in you is more than enough.
+[00:16:32.560 --> 00:16:45.560]   You are my sacrifice.
+[00:16:45.560 --> 00:16:53.560]   You are my sacrifice, my greatest prize.
+[00:16:53.560 --> 00:16:58.560]   Still more awesome than I know.
+[00:16:58.560 --> 00:17:02.560]   You're my coming king.
+[00:17:02.560 --> 00:17:06.560]   You are everything.
+[00:17:06.560 --> 00:17:10.560]   Still more awesome than I know.
+[00:17:10.560 --> 00:17:19.560]   All of you is more than enough for all of me
+[00:17:19.560 --> 00:17:25.560]   for every thirst and every need.
+[00:17:25.560 --> 00:17:32.560]   You satisfy me with your love.
+[00:17:32.560 --> 00:17:37.560]   And all I have in you is more than enough.
+[00:17:37.560 --> 00:17:40.560]   More than all I want.
+[00:17:40.560 --> 00:17:45.560]   More than all I need.
+[00:17:45.560 --> 00:17:50.560]   You are more than enough for me.
+[00:17:50.560 --> 00:17:53.560]   More than all I know.
+[00:17:53.560 --> 00:17:58.560]   More than all I can say.
+[00:17:58.560 --> 00:18:02.560]   You are more than enough.
+[00:18:02.560 --> 00:18:11.560]   All of you is more than enough for all of me
+[00:18:11.560 --> 00:18:17.560]   for every thirst and every need.
+[00:18:17.560 --> 00:18:24.560]   You satisfy me with your love.
+[00:18:24.560 --> 00:18:30.560]   And all I have in you is more than enough.
+[00:18:31.560 --> 00:18:33.560]   [music ends]
+[00:18:33.560 --> 00:18:38.560]   All right, good morning.
+[00:18:38.560 --> 00:18:39.560]   Welcome to Berean Community Church.
+[00:18:39.560 --> 00:18:41.560]   We have a few announcements before we get started.
+[00:18:41.560 --> 00:18:43.560]   We have an announcement from our sisters,
+[00:18:43.560 --> 00:18:46.560]   so Grace is going to come and give the announcements first.
+[00:18:46.560 --> 00:18:53.560]   Hello, my name is Grace.
+[00:18:53.560 --> 00:18:55.560]   On behalf of the Women's Ministry,
+[00:18:55.560 --> 00:18:57.560]   I'm making an announcement for tea time.
+[00:18:57.560 --> 00:18:59.560]   It's going to happen in January 28th.
+[00:18:59.560 --> 00:19:03.560]   It's a little bit away from now, so early announcement.
+[00:19:03.560 --> 00:19:07.560]   But it's a one-day event where if you sign up,
+[00:19:07.560 --> 00:19:10.560]   you will be placed into smaller groups.
+[00:19:10.560 --> 00:19:12.560]   It's a mixed affinity groups.
+[00:19:12.560 --> 00:19:14.560]   And at these designated homes,
+[00:19:14.560 --> 00:19:16.560]   you will be sharing a time of intentional fellowship
+[00:19:16.560 --> 00:19:20.560]   over some tea and snacks.
+[00:19:20.560 --> 00:19:23.560]   And this is open to all women in college, BAM,
+[00:19:23.560 --> 00:19:25.560]   and Family Ministry.
+[00:19:25.560 --> 00:19:26.560]   So please sign up when you can.
+[00:19:26.560 --> 00:19:28.560]   Thank you.
+[00:19:29.560 --> 00:19:32.560]   All right, so the event is happening at the end of January,
+[00:19:32.560 --> 00:19:33.560]   so they'll give you more announcements
+[00:19:33.560 --> 00:19:35.560]   as we get closer to the date.
+[00:19:35.560 --> 00:19:37.560]   Holiday outreach opportunities,
+[00:19:37.560 --> 00:19:38.560]   we've given that announcement before,
+[00:19:38.560 --> 00:19:41.560]   but as you exit, there is a table set up there,
+[00:19:41.560 --> 00:19:43.560]   so if you haven't signed up and you're planning to,
+[00:19:43.560 --> 00:19:46.560]   please visit that table after service.
+[00:19:46.560 --> 00:19:48.560]   Family Ministry Christmas lunches.
+[00:19:48.560 --> 00:19:50.560]   I know it's only a couple of weeks away,
+[00:19:50.560 --> 00:19:53.560]   but Family Ministry is hosting a Christmas luncheon,
+[00:19:53.560 --> 00:19:54.560]   and they're just going to break you up
+[00:19:54.560 --> 00:19:57.560]   just kind of like what we did in Thanksgiving lunch, dinner.
+[00:19:57.560 --> 00:19:59.560]   And so if you're planning to participate in that,
+[00:19:59.560 --> 00:20:01.560]   if you sign up, they'll place you in groups,
+[00:20:01.560 --> 00:20:04.560]   and then after the service, second service,
+[00:20:04.560 --> 00:20:08.560]   you'll be going out and grabbing lunch together with that group.
+[00:20:08.560 --> 00:20:10.560]   So the sign-ups will be taking place on that.
+[00:20:10.560 --> 00:20:15.560]   And then at the end of the year, on the 31st,
+[00:20:15.560 --> 00:20:16.560]   which is a Saturday,
+[00:20:16.560 --> 00:20:18.560]   there is a ping pong tournament going on
+[00:20:18.560 --> 00:20:21.560]   right before we have our New Year's Eve service.
+[00:20:21.560 --> 00:20:24.560]   So it just happens to be on Saturday this time of the year,
+[00:20:24.560 --> 00:20:26.560]   or this time around.
+[00:20:26.560 --> 00:20:30.560]   So 530, they're welcoming all levels
+[00:20:30.560 --> 00:20:33.560]   to come and participate in the ping pong tournament.
+[00:20:33.560 --> 00:20:36.560]   The tournament fee is $5.
+[00:20:36.560 --> 00:20:37.560]   So if you're planning to sign up,
+[00:20:37.560 --> 00:20:42.560]   there will be sign-ups on the website, our app.
+[00:20:42.560 --> 00:20:45.560]   And so please sign up for that.
+[00:20:45.560 --> 00:20:46.560]   And one last announcement.
+[00:20:46.560 --> 00:20:48.560]   Next Sunday, we're having our communion service,
+[00:20:48.560 --> 00:20:52.560]   and we are going to go back to our traditional way that we're doing.
+[00:20:52.560 --> 00:20:55.560]   And so we're going to have you come up in the front.
+[00:20:55.560 --> 00:20:59.560]   And I know some of you may still be a little bit nervous, if you are.
+[00:20:59.560 --> 00:21:02.560]   We are going to be taking precautions, wearing gloves and all of that,
+[00:21:02.560 --> 00:21:06.560]   but we do want to go back to our traditional way of doing communion.
+[00:21:06.560 --> 00:21:10.560]   And we'll explain why we feel the need to go back to that next Sunday.
+[00:21:10.560 --> 00:21:11.560]   But we wanted to give you a heads up.
+[00:21:11.560 --> 00:21:13.560]   Just be prepared for both services.
+[00:21:13.560 --> 00:21:15.560]   We will be having communion service.
+[00:21:15.560 --> 00:21:18.560]   After our second set of worship,
+[00:21:18.560 --> 00:21:20.560]   our brother Benson Juan is going to come, give his testimony,
+[00:21:20.560 --> 00:21:22.560]   and be baptized this morning.
+[00:21:22.560 --> 00:21:24.560]   And then, again, if you are visiting us,
+[00:21:24.560 --> 00:21:27.560]   and you have a physical offering that you want to give,
+[00:21:27.560 --> 00:21:29.560]   there's a box over there to the left.
+[00:21:29.560 --> 00:21:32.560]   And for the rest of you, we'll give you a minute to give it electronically.
+[00:21:32.560 --> 00:21:35.560]   All right, let's pray.
+[00:21:35.560 --> 00:21:40.560]   Gracious Father, we thank you and praise you for your goodness over our lives.
+[00:21:40.560 --> 00:21:43.560]   We thank you that you've given us time, Lord God,
+[00:21:43.560 --> 00:21:47.560]   to gather together with family, friends, and church
+[00:21:47.560 --> 00:21:50.560]   to be able to reflect upon your goodness
+[00:21:50.560 --> 00:21:53.560]   and to be thankful, Lord God, for the gift of salvation
+[00:21:53.560 --> 00:21:55.560]   and the hope that we have in Christ.
+[00:21:55.560 --> 00:21:59.560]   I pray, Father God, that that attitude of gratitude
+[00:21:59.560 --> 00:22:02.560]   would be a constant in our hearts,
+[00:22:02.560 --> 00:22:06.560]   that we would truly enter your court, Lord God,
+[00:22:06.560 --> 00:22:08.560]   with praise and thanksgiving.
+[00:22:08.560 --> 00:22:11.560]   We ask this morning that you would bless our offering.
+[00:22:11.560 --> 00:22:13.560]   May it be given to you cheerfully.
+[00:22:13.560 --> 00:22:16.560]   May it be multiplied for your use and for your kingdom.
+[00:22:16.560 --> 00:22:18.560]   In Jesus' name we pray. Amen.
+[00:22:19.560 --> 00:22:22.560]   [music]
+[00:22:22.560 --> 00:22:25.560]   [music]
+[00:22:26.560 --> 00:22:29.560]   [music]
+[00:22:30.560 --> 00:22:33.560]   [music]
+[00:22:34.560 --> 00:22:37.560]   [music]
+[00:22:37.560 --> 00:22:41.560]   [music]
+[00:22:41.560 --> 00:22:45.560]   [music]
+[00:22:45.560 --> 00:22:49.560]   [music]
+[00:22:49.560 --> 00:22:53.560]   [music]
+[00:22:53.560 --> 00:22:57.560]   [music]
+[00:22:57.560 --> 00:23:01.560]   [music]
+[00:23:02.560 --> 00:23:05.560]   [music]
+[00:23:05.560 --> 00:23:09.560]   Let us all rise as we sing these praises.
+[00:23:09.560 --> 00:23:16.560]   [music]
+[00:23:28.560 --> 00:23:31.560]   [music]
+[00:23:32.560 --> 00:23:35.560]   [music]
+[00:23:35.560 --> 00:23:44.560]   [music]
+[00:23:44.560 --> 00:23:54.560]   [music]
+[00:23:55.560 --> 00:23:58.560]   [music]
+[00:23:58.560 --> 00:24:04.560]   [music]
+[00:24:04.560 --> 00:24:11.560]   [music]
+[00:24:11.560 --> 00:24:21.560]   [music]
+[00:24:21.560 --> 00:24:24.560]   [music]
+[00:24:24.560 --> 00:24:30.560]   [music]
+[00:24:30.560 --> 00:24:36.560]   [music]
+[00:24:36.560 --> 00:24:42.560]   [music]
+[00:24:42.560 --> 00:24:49.560]   [music]
+[00:24:50.560 --> 00:24:53.560]   [music]
+[00:24:53.560 --> 00:24:59.560]   [music]
+[00:24:59.560 --> 00:25:04.560]   [music]
+[00:25:04.560 --> 00:25:11.560]   [music]
+[00:25:11.560 --> 00:25:17.560]   [music]
+[00:25:18.560 --> 00:25:21.560]   [music]
+[00:25:21.560 --> 00:25:27.560]   [music]
+[00:25:27.560 --> 00:25:33.560]   [music]
+[00:25:33.560 --> 00:25:39.560]   [music]
+[00:25:39.560 --> 00:25:45.560]   [music]
+[00:25:46.560 --> 00:25:49.560]   [music]
+[00:25:49.560 --> 00:25:55.560]   [music]
+[00:25:55.560 --> 00:26:00.560]   [music]
+[00:26:00.560 --> 00:26:06.560]   [music]
+[00:26:06.560 --> 00:26:13.560]   [music]
+[00:26:14.560 --> 00:26:17.560]   [music]
+[00:26:17.560 --> 00:26:23.560]   [music]
+[00:26:23.560 --> 00:26:29.560]   [music]
+[00:26:29.560 --> 00:26:35.560]   [music]
+[00:26:35.560 --> 00:26:40.560]   [music]
+[00:26:41.560 --> 00:26:44.560]   [music]
+[00:26:44.560 --> 00:26:49.560]   [music]
+[00:26:49.560 --> 00:26:54.560]   [music]
+[00:26:54.560 --> 00:26:59.560]   [music]
+[00:26:59.560 --> 00:27:04.560]   [music]
+[00:27:04.560 --> 00:27:09.560]   [music]
+[00:27:10.560 --> 00:27:13.560]   [music]
+[00:27:13.560 --> 00:27:17.560]   [music]
+[00:27:17.560 --> 00:27:30.560]   [music]
+[00:27:30.560 --> 00:27:37.560]   [music]
+[00:27:38.560 --> 00:27:41.560]   [music]
+[00:27:41.560 --> 00:27:47.560]   [music]
+[00:27:47.560 --> 00:27:53.560]   [music]
+[00:27:53.560 --> 00:27:59.560]   [music]
+[00:27:59.560 --> 00:28:05.560]   [music]
+[00:28:06.560 --> 00:28:09.560]   [music]
+[00:28:09.560 --> 00:28:15.560]   [music]
+[00:28:15.560 --> 00:28:21.560]   [music]
+[00:28:21.560 --> 00:28:27.560]   [music]
+[00:28:27.560 --> 00:28:33.560]   [music]
+[00:28:34.560 --> 00:28:37.560]   [music]
+[00:28:37.560 --> 00:28:41.560]   [music]
+[00:28:41.560 --> 00:28:46.560]   [music]
+[00:28:46.560 --> 00:28:51.560]   [music]
+[00:28:51.560 --> 00:28:57.560]   [music]
+[00:29:00.560 --> 00:29:03.560]   [music]
+[00:29:03.560 --> 00:29:08.560]   [music]
+[00:29:08.560 --> 00:29:15.560]   [music]
+[00:29:15.560 --> 00:29:22.560]   [music]
+[00:29:22.560 --> 00:29:28.560]   [music]
+[00:29:29.560 --> 00:29:32.560]   [music]
+[00:29:32.560 --> 00:29:38.560]   [music]
+[00:29:38.560 --> 00:29:44.560]   [music]
+[00:29:44.560 --> 00:29:50.560]   [music]
+[00:29:50.560 --> 00:29:55.560]   [music]
+[00:29:56.560 --> 00:29:59.560]   [music]
+[00:29:59.560 --> 00:30:05.560]   [music]
+[00:30:05.560 --> 00:30:12.560]   [music]
+[00:30:12.560 --> 00:30:19.560]   [music]
+[00:30:23.560 --> 00:30:26.560]   [music]
+[00:30:26.560 --> 00:30:32.560]   [music]
+[00:30:32.560 --> 00:30:38.560]   [music]
+[00:30:38.560 --> 00:30:45.560]   [music]
+[00:30:45.560 --> 00:30:51.560]   [music]
+[00:30:52.560 --> 00:30:55.560]   [music]
+[00:30:55.560 --> 00:31:01.560]   [music]
+[00:31:01.560 --> 00:31:07.560]   [music]
+[00:31:07.560 --> 00:31:13.560]   [music]
+[00:31:13.560 --> 00:31:20.560]   [music]
+[00:31:21.560 --> 00:31:24.560]   [music]
+[00:31:24.560 --> 00:31:28.560]   [music]
+[00:31:28.560 --> 00:31:32.560]   [music]
+[00:31:32.560 --> 00:31:37.560]   [music]
+[00:31:37.560 --> 00:31:43.560]   [music]
+[00:31:43.560 --> 00:31:48.560]   [music]
+[00:31:48.560 --> 00:31:51.560]   [music]
+[00:31:51.560 --> 00:31:56.560]   [music]
+[00:31:56.560 --> 00:32:01.560]   [music]
+[00:32:01.560 --> 00:32:06.560]   [music]
+[00:32:06.560 --> 00:32:13.560]   [music]
+[00:32:14.560 --> 00:32:17.560]   [music]
+[00:32:17.560 --> 00:32:23.560]   [music]
+[00:32:23.560 --> 00:32:28.560]   [music]
+[00:32:28.560 --> 00:32:35.560]   [music]
+[00:32:35.560 --> 00:32:41.560]   [music]
+[00:32:42.560 --> 00:32:45.560]   [music]
+[00:32:45.560 --> 00:32:50.560]   [music]
+[00:32:50.560 --> 00:32:56.560]   [music]
+[00:32:56.560 --> 00:33:02.560]   [music]
+[00:33:02.560 --> 00:33:08.560]   [music]
+[00:33:09.560 --> 00:33:12.560]   [music]
+[00:33:12.560 --> 00:33:18.560]   [music]
+[00:33:18.560 --> 00:33:23.560]   [music]
+[00:33:23.560 --> 00:33:29.560]   [music]
+[00:33:29.560 --> 00:33:36.560]   [music]
+[00:33:36.560 --> 00:33:39.560]   [music]
+[00:33:39.560 --> 00:33:45.560]   [music]
+[00:33:45.560 --> 00:33:51.560]   [music]
+[00:33:51.560 --> 00:33:58.560]   [music]
+[00:33:58.560 --> 00:34:05.560]   [music]
+[00:34:06.560 --> 00:34:09.560]   [music]
+[00:34:09.560 --> 00:34:15.560]   [music]
+[00:34:15.560 --> 00:34:21.560]   [music]
+[00:34:21.560 --> 00:34:27.560]   [music]
+[00:34:27.560 --> 00:34:33.560]   [music]
+[00:34:34.560 --> 00:34:37.560]   [music]
+[00:34:37.560 --> 00:34:43.560]   [music]
+[00:34:43.560 --> 00:34:49.560]   [music]
+[00:34:49.560 --> 00:34:55.560]   [music]
+[00:34:55.560 --> 00:35:01.560]   [music]
+[00:35:02.560 --> 00:35:05.560]   [music]
+[00:35:05.560 --> 00:35:11.560]   [music]
+[00:35:11.560 --> 00:35:16.560]   [music]
+[00:35:16.560 --> 00:35:22.560]   [music]
+[00:35:22.560 --> 00:35:29.560]   [music]
+[00:35:29.560 --> 00:35:32.560]   [music]
+[00:35:32.560 --> 00:35:38.560]   [music]
+[00:35:38.560 --> 00:35:44.560]   [music]
+[00:35:44.560 --> 00:35:51.560]   [music]
+[00:35:51.560 --> 00:35:57.560]   [music]
+[00:35:57.560 --> 00:36:00.560]   [music]
+[00:36:00.560 --> 00:36:11.560]   [applause]
+[00:36:11.560 --> 00:36:23.560]   All right, thank you for that encouraging testimony.
+[00:36:23.560 --> 00:36:27.560]   If you guys can turn your Bibles with me to Luke chapter 4.
+[00:36:27.560 --> 00:36:34.560]   We'll be jumping back into the Gospel of Luke.
+[00:36:34.560 --> 00:36:40.560]   Even though we will be in the text all the way up to verse 13,
+[00:36:40.560 --> 00:36:44.560]   our focus this morning is going to be on the first two verses.
+[00:36:44.560 --> 00:36:50.560]   Gospel of Luke chapter 4, verses 1 and 2.
+[00:36:50.560 --> 00:36:53.560]   [reading]
+[00:36:53.560 --> 00:37:11.560]   Let's pray.
+[00:37:11.560 --> 00:37:17.560]   Heavenly Father, we come to seek your guidance.
+[00:37:18.560 --> 00:37:22.560]   Lord, we want to hear from you.
+[00:37:22.560 --> 00:37:26.560]   I pray that you will protect this pulpit.
+[00:37:26.560 --> 00:37:30.560]   I pray, Father God, that you would anoint this time,
+[00:37:30.560 --> 00:37:32.560]   that your word would go forth,
+[00:37:32.560 --> 00:37:35.560]   that it would land on fertile soil,
+[00:37:35.560 --> 00:37:38.560]   that it may bear fruit thirty, sixty, a hundredfold.
+[00:37:38.560 --> 00:37:43.560]   Lord, whatever it is that we have brought into this room,
+[00:37:43.560 --> 00:37:47.560]   we know, Father God, that our answer is you and you alone.
+[00:37:47.560 --> 00:37:51.560]   So we pray that your Holy Spirit would guide us, lead us,
+[00:37:51.560 --> 00:37:54.560]   convict us, and sanctify us.
+[00:37:54.560 --> 00:37:56.560]   In Jesus' name we pray, amen.
+[00:37:56.560 --> 00:38:01.560]   If you can post up the picture, the first slide.
+[00:38:01.560 --> 00:38:03.560]   Okay, so if you look at the slide,
+[00:38:03.560 --> 00:38:05.560]   and then if you go to the second picture.
+[00:38:05.560 --> 00:38:07.560]   Okay, all right.
+[00:38:07.560 --> 00:38:11.560]   Some of you guys may remember, I put this up on my Facebook wall,
+[00:38:11.560 --> 00:38:13.560]   and I got almost 200 likes.
+[00:38:13.560 --> 00:38:14.560]   [laughter]
+[00:38:14.560 --> 00:38:18.560]   Okay, so a lot of you enjoyed this picture,
+[00:38:18.560 --> 00:38:22.560]   and some of you have asked me, "Did I take this picture?"
+[00:38:22.560 --> 00:38:26.560]   Of course I did not, right?
+[00:38:26.560 --> 00:38:28.560]   I just put it up there because I saw it online somewhere,
+[00:38:28.560 --> 00:38:30.560]   and it's like, "I want it on my wall."
+[00:38:30.560 --> 00:38:33.560]   You know, and, you know, like, I want to be able to see it
+[00:38:33.560 --> 00:38:35.560]   when I scroll through, you know, like,
+[00:38:35.560 --> 00:38:38.560]   they have the memories in Facebook,
+[00:38:38.560 --> 00:38:40.560]   and then that time of the year, like, it'll pop up and say,
+[00:38:40.560 --> 00:38:42.560]   "Hey, you took these pictures.
+[00:38:42.560 --> 00:38:44.560]   This is what was on your wall on this day."
+[00:38:44.560 --> 00:38:46.560]   And so next year around that time,
+[00:38:46.560 --> 00:38:48.560]   I'm hoping that this picture will pop back up
+[00:38:48.560 --> 00:38:50.560]   and say, "Oh, that's a nice picture," right?
+[00:38:50.560 --> 00:38:53.560]   But some of you guys were asking me, even on the thread,
+[00:38:53.560 --> 00:38:55.560]   it's like, "Is this you?"
+[00:38:55.560 --> 00:38:56.560]   Right?
+[00:38:56.560 --> 00:38:59.560]   Because I don't have the best reputation of taking good pictures.
+[00:38:59.560 --> 00:39:01.560]   All right, so some of you guys who know me,
+[00:39:01.560 --> 00:39:03.560]   you know, like, I'm not really into pictures.
+[00:39:03.560 --> 00:39:05.560]   I don't actually own a camera other than my phone,
+[00:39:05.560 --> 00:39:07.560]   and I have an iPhone, and I don't think iPhone
+[00:39:07.560 --> 00:39:09.560]   is capable of taking pictures like that.
+[00:39:09.560 --> 00:39:11.560]   Maybe Samsung, but iPhone does not.
+[00:39:11.560 --> 00:39:13.560]   [laughter]
+[00:39:13.560 --> 00:39:14.560]   Right.
+[00:39:14.560 --> 00:39:18.560]   So, you know, I didn't answer the question, you know,
+[00:39:18.560 --> 00:39:21.560]   but the question was, "Is this real or is it not real?"
+[00:39:21.560 --> 00:39:23.560]   Of course it's real.
+[00:39:23.560 --> 00:39:25.560]   It's just I didn't take it, right?
+[00:39:25.560 --> 00:39:27.560]   Somebody else took it, right?
+[00:39:27.560 --> 00:39:29.560]   The reason why I share this with you is,
+[00:39:29.560 --> 00:39:32.560]   obviously, even something like that online right now,
+[00:39:32.560 --> 00:39:34.560]   we have a hard time distinguishing
+[00:39:34.560 --> 00:39:37.560]   what to believe and not to believe that's coming online.
+[00:39:37.560 --> 00:39:38.560]   Right?
+[00:39:38.560 --> 00:39:40.560]   I'm not just talking about pictures.
+[00:39:40.560 --> 00:39:42.560]   I'm talking about technology where you can take
+[00:39:42.560 --> 00:39:45.560]   a face of a celebrity and just pop it on somebody else,
+[00:39:45.560 --> 00:39:48.560]   and it looks so real that you can't tell.
+[00:39:48.560 --> 00:39:49.560]   Right?
+[00:39:49.560 --> 00:39:52.560]   And so, like, what is real, what's not real, right,
+[00:39:52.560 --> 00:39:55.560]   unless they tell you, and even the articles,
+[00:39:55.560 --> 00:39:57.560]   even things that you are reading,
+[00:39:57.560 --> 00:40:00.560]   and sad to say, even the news today.
+[00:40:00.560 --> 00:40:02.560]   Like, what is real, what's not?
+[00:40:02.560 --> 00:40:04.560]   What's actually going on in the world,
+[00:40:04.560 --> 00:40:06.560]   and unless we're careful and we're shrewd
+[00:40:06.560 --> 00:40:08.560]   about what it is that we are observing
+[00:40:08.560 --> 00:40:10.560]   and what's going to come in,
+[00:40:10.560 --> 00:40:13.560]   that you can easily be deceived
+[00:40:13.560 --> 00:40:16.560]   because it's so easy to deceive
+[00:40:16.560 --> 00:40:19.560]   in the culture that we're in.
+[00:40:19.560 --> 00:40:22.560]   Now, as difficult as it is to distinguish
+[00:40:22.560 --> 00:40:25.560]   what's real and not real online,
+[00:40:25.560 --> 00:40:28.560]   I believe that you and I are living in a period of age
+[00:40:28.560 --> 00:40:32.560]   where this has bled into the church
+[00:40:32.560 --> 00:40:36.560]   to be able to discern what is real and what is not,
+[00:40:36.560 --> 00:40:39.560]   how much of our faith is cultural,
+[00:40:39.560 --> 00:40:41.560]   that the boundaries have been set before us
+[00:40:41.560 --> 00:40:45.560]   because I just happen to be born in a Christian home,
+[00:40:45.560 --> 00:40:48.560]   and my community happens to be church,
+[00:40:48.560 --> 00:40:51.560]   and so I'm just kind of going along
+[00:40:51.560 --> 00:40:52.560]   with what was passed down to me,
+[00:40:52.560 --> 00:40:54.560]   and so my children will do the same,
+[00:40:54.560 --> 00:40:55.560]   my grandchildren will do the same,
+[00:40:55.560 --> 00:40:58.560]   and so we have a country filled with people
+[00:40:58.560 --> 00:40:59.560]   who claim to be Christians,
+[00:40:59.560 --> 00:41:04.560]   but we know that a large portion of that is not real.
+[00:41:04.560 --> 00:41:09.560]   But how do we distinguish what is real and not real?
+[00:41:09.560 --> 00:41:10.560]   See, during the time of Christ,
+[00:41:10.560 --> 00:41:11.560]   they had the same problem,
+[00:41:11.560 --> 00:41:14.560]   even though they don't have the same technology that we had,
+[00:41:14.560 --> 00:41:17.560]   because the Jews were so eagerly waiting for the Messiah
+[00:41:17.560 --> 00:41:20.560]   to be the answer for every problem that they had,
+[00:41:20.560 --> 00:41:22.560]   their economic problem, their health problem,
+[00:41:22.560 --> 00:41:23.560]   their political problem,
+[00:41:23.560 --> 00:41:26.560]   and so everything was going to be answered
+[00:41:26.560 --> 00:41:28.560]   when the Messiah came.
+[00:41:28.560 --> 00:41:31.560]   So during that period, there were rumors,
+[00:41:31.560 --> 00:41:36.560]   one after another, coming and saying that they are the Messiah,
+[00:41:36.560 --> 00:41:38.560]   that they are the Messiah.
+[00:41:38.560 --> 00:41:43.560]   So Luke has been presenting evidence
+[00:41:43.560 --> 00:41:45.560]   that Jesus was not some strange guy
+[00:41:45.560 --> 00:41:47.560]   coming out of nowhere and saying that he's the Messiah,
+[00:41:47.560 --> 00:41:50.560]   he's just the latest one who's saying that.
+[00:41:50.560 --> 00:41:52.560]   How do we know?
+[00:41:52.560 --> 00:41:53.560]   If he's the Messiah,
+[00:41:53.560 --> 00:41:57.560]   and he genuinely was crucified on the cross
+[00:41:57.560 --> 00:41:59.560]   and resurrected to take away our sins,
+[00:41:59.560 --> 00:42:02.560]   other people have made claims that they're the Messiah.
+[00:42:02.560 --> 00:42:04.560]   So how do you know he's the one?
+[00:42:04.560 --> 00:42:06.560]   And so Luke has been systematically, from chapter one,
+[00:42:06.560 --> 00:42:09.560]   bringing evidence after evidence after evidence
+[00:42:09.560 --> 00:42:11.560]   of Jesus' identity.
+[00:42:11.560 --> 00:42:14.560]   So before we were even introduced to Jesus
+[00:42:14.560 --> 00:42:16.560]   and what he says and what he does,
+[00:42:16.560 --> 00:42:19.560]   Luke has been, for the last three chapters,
+[00:42:19.560 --> 00:42:21.560]   giving proof after proof after proof.
+[00:42:21.560 --> 00:42:24.560]   He's been laying out Jesus' credential,
+[00:42:24.560 --> 00:42:26.560]   his miraculous birth,
+[00:42:26.560 --> 00:42:29.560]   angel coming and saying, "This is the Son of God
+[00:42:29.560 --> 00:42:31.560]   who's going to take away the sins of the world."
+[00:42:31.560 --> 00:42:33.560]   Zacharias and Elizabeth,
+[00:42:33.560 --> 00:42:37.560]   in the way that their son was going to be born,
+[00:42:37.560 --> 00:42:39.560]   and they gave testimony
+[00:42:39.560 --> 00:42:41.560]   about the consolation of Israel was going to come.
+[00:42:41.560 --> 00:42:43.560]   John the Baptist comes, and he says,
+[00:42:43.560 --> 00:42:45.560]   "The one who's coming after me is greater than me.
+[00:42:45.560 --> 00:42:47.560]   I baptize you with water,
+[00:42:47.560 --> 00:42:49.560]   he's going to be baptizing you with the Holy Spirit."
+[00:42:49.560 --> 00:42:51.560]   And then Jesus gets baptized,
+[00:42:51.560 --> 00:42:52.560]   and the heavens open up,
+[00:42:52.560 --> 00:42:54.560]   God himself says, "You are my Son
+[00:42:54.560 --> 00:42:56.560]   in whom I am well pleased."
+[00:42:56.560 --> 00:42:59.560]   And the Holy Spirit comes and lands upon him
+[00:42:59.560 --> 00:43:00.560]   in the form of a dove,
+[00:43:00.560 --> 00:43:02.560]   testifying to who Jesus is,
+[00:43:02.560 --> 00:43:06.560]   and chapter three ends with Jesus' genealogy,
+[00:43:06.560 --> 00:43:08.560]   giving his credential,
+[00:43:08.560 --> 00:43:10.560]   that his birth was a direct fulfillment
+[00:43:10.560 --> 00:43:12.560]   of the promise that God made.
+[00:43:12.560 --> 00:43:14.560]   So everything that Luke has been doing
+[00:43:14.560 --> 00:43:16.560]   is laying out his credential
+[00:43:16.560 --> 00:43:19.560]   to separate him from all the other people
+[00:43:19.560 --> 00:43:23.560]   who are also saying that they are also the Messiah.
+[00:43:23.560 --> 00:43:25.560]   And as I mentioned to you,
+[00:43:25.560 --> 00:43:27.560]   I was out in Korea
+[00:43:27.560 --> 00:43:31.560]   because of the dire need
+[00:43:31.560 --> 00:43:35.560]   of spiritual revival out in Korea.
+[00:43:35.560 --> 00:43:39.560]   Korea was a place that experienced
+[00:43:39.560 --> 00:43:42.560]   tremendous revival at one point in Korean history.
+[00:43:42.560 --> 00:43:45.560]   In fact, if you study revivals in modern history
+[00:43:45.560 --> 00:43:46.560]   in the last four or five hundred years,
+[00:43:46.560 --> 00:43:48.560]   Korean revival, the Pyongyang revival,
+[00:43:48.560 --> 00:43:50.560]   that took place in Korea,
+[00:43:50.560 --> 00:43:52.560]   is probably one of the top revivals
+[00:43:52.560 --> 00:43:54.560]   that you'll see.
+[00:43:54.560 --> 00:43:57.560]   Miraculously, a country who absolutely
+[00:43:57.560 --> 00:43:58.560]   did not have Christ,
+[00:43:58.560 --> 00:43:59.560]   within a short period of time,
+[00:43:59.560 --> 00:44:00.560]   experienced revival,
+[00:44:00.560 --> 00:44:02.560]   and in one generation went from
+[00:44:02.560 --> 00:44:05.560]   almost no Christians to 33%
+[00:44:05.560 --> 00:44:07.560]   declaring that they were Christians.
+[00:44:07.560 --> 00:44:12.560]   But sadly, as quickly as that revival came,
+[00:44:12.560 --> 00:44:14.560]   the M and the Z generation,
+[00:44:14.560 --> 00:44:15.560]   that's what they call the millennial
+[00:44:15.560 --> 00:44:17.560]   and the Z generation,
+[00:44:17.560 --> 00:44:19.560]   went from 33% to less than 3%
+[00:44:19.560 --> 00:44:21.560]   in one generation.
+[00:44:21.560 --> 00:44:26.560]   33% of people in Korea
+[00:44:26.560 --> 00:44:29.560]   at one point said that they were Christians,
+[00:44:29.560 --> 00:44:31.560]   identified with Christianity,
+[00:44:31.560 --> 00:44:32.560]   went to church,
+[00:44:32.560 --> 00:44:34.560]   has gone down from one generation
+[00:44:34.560 --> 00:44:36.560]   to less than 3%.
+[00:44:36.560 --> 00:44:41.560]   You know, Korea is very concerned
+[00:44:41.560 --> 00:44:44.560]   about the rise of cults.
+[00:44:44.560 --> 00:44:46.560]   For whatever the reason,
+[00:44:46.560 --> 00:44:48.560]   some of the most famous
+[00:44:48.560 --> 00:44:50.560]   and world-affecting cults
+[00:44:50.560 --> 00:44:52.560]   have come out of Korea.
+[00:44:52.560 --> 00:44:55.560]   The Moonies, Shincheonji,
+[00:44:55.560 --> 00:44:57.560]   there's another one that's
+[00:44:57.560 --> 00:44:58.560]   probably not as popular,
+[00:44:58.560 --> 00:45:00.560]   but heavily popular in Korea
+[00:45:00.560 --> 00:45:01.560]   called the Providence Movement,
+[00:45:01.560 --> 00:45:03.560]   or Jesus the Morning Star Movement,
+[00:45:03.560 --> 00:45:04.560]   or Odaeyang Movement,
+[00:45:04.560 --> 00:45:05.560]   and if you go on,
+[00:45:05.560 --> 00:45:07.560]   look for cults in Korea,
+[00:45:07.560 --> 00:45:08.560]   I mean there's list after list
+[00:45:08.560 --> 00:45:09.560]   after list after list.
+[00:45:09.560 --> 00:45:11.560]   I think part of the reason why
+[00:45:11.560 --> 00:45:14.560]   is because there's a dire need.
+[00:45:14.560 --> 00:45:16.560]   I think people in Korea know that
+[00:45:16.560 --> 00:45:18.560]   the future is not bright.
+[00:45:18.560 --> 00:45:20.560]   It has the highest suicide rate
+[00:45:20.560 --> 00:45:22.560]   in the developed country,
+[00:45:22.560 --> 00:45:24.560]   and it's been so for the last
+[00:45:24.560 --> 00:45:25.560]   three to four years.
+[00:45:25.560 --> 00:45:27.560]   Highest suicide rate.
+[00:45:27.560 --> 00:45:29.560]   They have the lowest birth rate
+[00:45:29.560 --> 00:45:32.560]   in the world, .8.
+[00:45:32.560 --> 00:45:33.560]   .8 per family,
+[00:45:33.560 --> 00:45:35.560]   which means many young couples
+[00:45:35.560 --> 00:45:37.560]   are choosing not to have children at all,
+[00:45:37.560 --> 00:45:38.560]   and at this rate,
+[00:45:38.560 --> 00:45:39.560]   the population is actually
+[00:45:39.560 --> 00:45:40.560]   in a sharp decline,
+[00:45:40.560 --> 00:45:42.560]   faster decline than any other country
+[00:45:42.560 --> 00:45:44.560]   in the world.
+[00:45:44.560 --> 00:45:45.560]   And there's a reason for that,
+[00:45:45.560 --> 00:45:47.560]   because at the surface of all
+[00:45:47.560 --> 00:45:49.560]   this K-pop and K-drama
+[00:45:49.560 --> 00:45:50.560]   and all this going on,
+[00:45:50.560 --> 00:45:51.560]   behind the scene,
+[00:45:51.560 --> 00:45:54.560]   there's a sense of darkness.
+[00:45:54.560 --> 00:45:56.560]   There's a sense of despair.
+[00:45:56.560 --> 00:45:58.560]   And so a lot of cults are coming in
+[00:45:58.560 --> 00:46:00.560]   and filling in that gap.
+[00:46:00.560 --> 00:46:02.560]   And what I realized was that
+[00:46:02.560 --> 00:46:04.560]   there's been so many harmful effects
+[00:46:04.560 --> 00:46:07.560]   of these cults that the Korean government
+[00:46:07.560 --> 00:46:09.560]   is very weary of any new churches
+[00:46:09.560 --> 00:46:11.560]   being planted.
+[00:46:11.560 --> 00:46:12.560]   And so if you don't come under
+[00:46:12.560 --> 00:46:15.560]   one of the five organized,
+[00:46:15.560 --> 00:46:18.560]   acknowledged systems that they've already ordained,
+[00:46:18.560 --> 00:46:19.560]   they consider you like a cult.
+[00:46:19.560 --> 00:46:21.560]   So you're doing fine until your group
+[00:46:21.560 --> 00:46:22.560]   is maybe 30 or 40,
+[00:46:22.560 --> 00:46:25.560]   but as soon as it gets above 50 and beyond,
+[00:46:25.560 --> 00:46:26.560]   and you start to get the attention
+[00:46:26.560 --> 00:46:27.560]   of the government,
+[00:46:27.560 --> 00:46:30.560]   they begin to treat you like a cult.
+[00:46:30.560 --> 00:46:31.560]   You can't get visas.
+[00:46:31.560 --> 00:46:33.560]   They don't acknowledge you.
+[00:46:33.560 --> 00:46:36.560]   It's very difficult to do anything.
+[00:46:36.560 --> 00:46:38.560]   And so out of fear,
+[00:46:38.560 --> 00:46:40.560]   they're putting strict restrictions.
+[00:46:40.560 --> 00:46:42.560]   But here's the biggest problem.
+[00:46:42.560 --> 00:46:44.560]   The biggest problem is
+[00:46:44.560 --> 00:46:45.560]   that the general population
+[00:46:45.560 --> 00:46:47.560]   who aren't Christians,
+[00:46:47.560 --> 00:46:49.560]   they don't distinguish between the cults
+[00:46:49.560 --> 00:46:50.560]   and the Christians
+[00:46:50.560 --> 00:46:52.560]   because they don't know any better.
+[00:46:52.560 --> 00:46:54.560]   Even though the government will acknowledge
+[00:46:54.560 --> 00:46:55.560]   some of the denominations,
+[00:46:55.560 --> 00:46:58.560]   the rest of the country,
+[00:46:58.560 --> 00:47:00.560]   they don't distinguish between the Moonies
+[00:47:00.560 --> 00:47:03.560]   and the Shincheonji and the Christians
+[00:47:03.560 --> 00:47:04.560]   because they don't know any better.
+[00:47:04.560 --> 00:47:05.560]   So while you say Jesus is God,
+[00:47:05.560 --> 00:47:07.560]   they say that guy's a God.
+[00:47:07.560 --> 00:47:09.560]   Who's to say what?
+[00:47:09.560 --> 00:47:12.560]   So there's this weird environment in Korea
+[00:47:12.560 --> 00:47:14.560]   where the younger generation
+[00:47:14.560 --> 00:47:18.560]   is not slowly, rapidly moving away.
+[00:47:18.560 --> 00:47:20.560]   And that's one of the main reasons
+[00:47:20.560 --> 00:47:22.560]   why we decided to go
+[00:47:22.560 --> 00:47:24.560]   and spend some time maybe possibly.
+[00:47:24.560 --> 00:47:27.560]   There's a way for us to begin to do work there.
+[00:47:27.560 --> 00:47:28.560]   I mean, one of the main reasons
+[00:47:28.560 --> 00:47:29.560]   why we went into India
+[00:47:29.560 --> 00:47:31.560]   is because when I first visited,
+[00:47:31.560 --> 00:47:33.560]   realized the heaviest concentration
+[00:47:33.560 --> 00:47:35.560]   of unreached people group were in India.
+[00:47:35.560 --> 00:47:38.560]   The heaviest concentration of poverty was in India.
+[00:47:38.560 --> 00:47:40.560]   The heaviest concentration of illiteracy
+[00:47:40.560 --> 00:47:41.560]   was also in India.
+[00:47:41.560 --> 00:47:43.560]   The heaviest concentration of sex trafficking
+[00:47:43.560 --> 00:47:45.560]   was also in India.
+[00:47:45.560 --> 00:47:47.560]   And so because of the dire need,
+[00:47:47.560 --> 00:47:48.560]   we thought, well, it'd be a great place
+[00:47:48.560 --> 00:47:49.560]   for us to come and do the work
+[00:47:49.560 --> 00:47:51.560]   if God opens the door.
+[00:47:51.560 --> 00:47:55.560]   Where there's something happening in South Korea
+[00:47:55.560 --> 00:47:57.560]   that is in need of great attention.
+[00:47:57.560 --> 00:47:59.560]   But obviously this morning,
+[00:47:59.560 --> 00:48:01.560]   I'm not here to rally you
+[00:48:01.560 --> 00:48:03.560]   for the ministry out in Korea.
+[00:48:03.560 --> 00:48:07.560]   I believe that that same darkness exists here.
+[00:48:07.560 --> 00:48:09.560]   Maybe in a different form,
+[00:48:09.560 --> 00:48:12.560]   maybe in a way that we may not recognize.
+[00:48:12.560 --> 00:48:14.560]   But we have a difficult time distinguishing
+[00:48:14.560 --> 00:48:17.560]   what is true and what is not true.
+[00:48:17.560 --> 00:48:19.560]   Because we live in a post-Christian culture,
+[00:48:19.560 --> 00:48:21.560]   and as long as you conform
+[00:48:21.560 --> 00:48:23.560]   to the cultural Christianity,
+[00:48:23.560 --> 00:48:25.560]   we feel safe.
+[00:48:25.560 --> 00:48:26.560]   But the problem is,
+[00:48:26.560 --> 00:48:29.560]   is the Jesus that we know,
+[00:48:29.560 --> 00:48:31.560]   the Jesus of the Bible,
+[00:48:31.560 --> 00:48:34.560]   or is that some perverted version of him
+[00:48:34.560 --> 00:48:36.560]   that our culture has embraced?
+[00:48:36.560 --> 00:48:38.560]   And because so many of us have embraced it,
+[00:48:38.560 --> 00:48:41.560]   it doesn't seem dangerous.
+[00:48:41.560 --> 00:48:43.560]   We're just doing what everybody else is doing.
+[00:48:43.560 --> 00:48:44.560]   We're just worshipping
+[00:48:44.560 --> 00:48:45.560]   what everybody else is worshipping.
+[00:48:45.560 --> 00:48:48.560]   We're living the way everybody else is living,
+[00:48:48.560 --> 00:48:51.560]   and never really questioning,
+[00:48:51.560 --> 00:48:56.560]   is this true or is it not?
+[00:48:56.560 --> 00:48:58.560]   Well, the reason why I bring all this up
+[00:48:58.560 --> 00:49:01.560]   is because Luke has been presenting
+[00:49:01.560 --> 00:49:04.560]   Jesus as the authentic Savior,
+[00:49:04.560 --> 00:49:06.560]   authentic God.
+[00:49:06.560 --> 00:49:08.560]   And so, in every way,
+[00:49:08.560 --> 00:49:09.560]   in the first three chapters,
+[00:49:09.560 --> 00:49:10.560]   he's been presenting God
+[00:49:10.560 --> 00:49:12.560]   with all the different testimonies.
+[00:49:12.560 --> 00:49:14.560]   But the section that we're looking at here,
+[00:49:14.560 --> 00:49:17.560]   before Jesus actually enters into ministry,
+[00:49:17.560 --> 00:49:21.560]   it says that Jesus is tempted
+[00:49:21.560 --> 00:49:23.560]   for the purpose of proving him,
+[00:49:23.560 --> 00:49:25.560]   so that you and I would recognize
+[00:49:25.560 --> 00:49:28.560]   that he is who he says he is,
+[00:49:28.560 --> 00:49:30.560]   and he did what he said he came to do.
+[00:49:30.560 --> 00:49:31.560]   So there's three things.
+[00:49:31.560 --> 00:49:33.560]   Just in these two verses,
+[00:49:33.560 --> 00:49:35.560]   it's sort of an introduction to the rest of it,
+[00:49:35.560 --> 00:49:37.560]   because I don't believe we're going to be able
+[00:49:37.560 --> 00:49:39.560]   to fully understand what happens
+[00:49:39.560 --> 00:49:41.560]   in the rest of this section
+[00:49:41.560 --> 00:49:44.560]   until we see, ask, and answer some of the questions
+[00:49:44.560 --> 00:49:47.560]   that come up in the first two verses.
+[00:49:47.560 --> 00:49:49.560]   First question we have to ask is,
+[00:49:49.560 --> 00:49:53.560]   why was Jesus tempted in the first place?
+[00:49:53.560 --> 00:49:55.560]   What was the reason?
+[00:49:55.560 --> 00:49:58.560]   Number one, Jesus' temptation was to prove
+[00:49:58.560 --> 00:50:01.560]   his credential for his ministry.
+[00:50:01.560 --> 00:50:03.560]   Before he comes on the scene,
+[00:50:03.560 --> 00:50:06.560]   we need to recognize that he is who he says he is.
+[00:50:06.560 --> 00:50:07.560]   In verse one, it says,
+[00:50:07.560 --> 00:50:09.560]   "Jesus, full of the Holy Spirit,
+[00:50:09.560 --> 00:50:10.560]   "returned from the Jordan
+[00:50:10.560 --> 00:50:13.560]   "and was led around by the Spirit in the wilderness."
+[00:50:13.560 --> 00:50:16.560]   Do you see the double emphasis here of the Holy Spirit?
+[00:50:16.560 --> 00:50:17.560]   I'm not going to get into this this morning,
+[00:50:17.560 --> 00:50:19.560]   because I talked about this several weeks ago,
+[00:50:19.560 --> 00:50:21.560]   that the ministry of the Holy Spirit
+[00:50:21.560 --> 00:50:22.560]   was not just an addendum.
+[00:50:22.560 --> 00:50:23.560]   Jesus was doing something,
+[00:50:23.560 --> 00:50:25.560]   and the Holy Spirit was helping him do that.
+[00:50:25.560 --> 00:50:28.560]   It says, "From the get-go, it was the Holy Spirit.
+[00:50:28.560 --> 00:50:30.560]   "It was the Holy Spirit that was moving,
+[00:50:30.560 --> 00:50:33.560]   "and people who are moving according to the Holy Spirit."
+[00:50:33.560 --> 00:50:36.560]   If you look at this text, it says,
+[00:50:36.560 --> 00:50:37.560]   "He was filled with the Holy Spirit,
+[00:50:37.560 --> 00:50:40.560]   "and who's the one who led him to be tempted?"
+[00:50:40.560 --> 00:50:42.560]   It says, "The Holy Spirit."
+[00:50:42.560 --> 00:50:44.560]   So everything that happens here
+[00:50:44.560 --> 00:50:46.560]   is the Holy Spirit moving him toward that direction.
+[00:50:46.560 --> 00:50:51.560]   In fact, our text says he was led by the Holy Spirit.
+[00:50:51.560 --> 00:50:52.560]   In Mark 1.12, it says,
+[00:50:52.560 --> 00:50:54.560]   "Immediately the Spirit impelled him
+[00:50:54.560 --> 00:50:56.560]   "to go out into the wilderness."
+[00:50:56.560 --> 00:50:57.560]   Impelled.
+[00:50:57.560 --> 00:50:59.560]   The word impelled here in the Greek
+[00:50:59.560 --> 00:51:05.560]   literally means to be driven, to be cast, to throw out.
+[00:51:05.560 --> 00:51:07.560]   In fact, a stronger understanding of it
+[00:51:07.560 --> 00:51:10.560]   is almost to be forced.
+[00:51:10.560 --> 00:51:11.560]   He wasn't--
+[00:51:11.560 --> 00:51:14.560]   Jesus didn't say, "Oh, I'm going to go take some time off
+[00:51:14.560 --> 00:51:16.560]   "and be with my Lord,"
+[00:51:16.560 --> 00:51:18.560]   and the Holy Spirit just kind of went with him.
+[00:51:18.560 --> 00:51:21.560]   He says, "No, from the get-go, the Holy Spirit filled him.
+[00:51:21.560 --> 00:51:24.560]   "The Holy Spirit impelled him to go."
+[00:51:24.560 --> 00:51:27.560]   So this temptation was not a side project.
+[00:51:27.560 --> 00:51:29.560]   He wasn't just out in the wilderness
+[00:51:29.560 --> 00:51:31.560]   and fasting for 40 days,
+[00:51:31.560 --> 00:51:32.560]   and the devil saw him and said,
+[00:51:32.560 --> 00:51:34.560]   "Let me go and take this opportunity
+[00:51:34.560 --> 00:51:36.560]   "to try to tempt him."
+[00:51:36.560 --> 00:51:38.560]   It says, "The agent of his temptation,
+[00:51:38.560 --> 00:51:43.560]   "that it was initiated by the Holy Spirit."
+[00:51:43.560 --> 00:51:44.560]   Holy Spirit compelled--
+[00:51:44.560 --> 00:51:46.560]   not that Jesus was resisting,
+[00:51:46.560 --> 00:51:48.560]   not that he had to be forced,
+[00:51:48.560 --> 00:51:51.560]   but the language is that this was ordained.
+[00:51:51.560 --> 00:51:54.560]   He had to be tempted.
+[00:51:54.560 --> 00:51:56.560]   Now, why was this temptation?
+[00:51:56.560 --> 00:51:59.560]   Necessary, right?
+[00:51:59.560 --> 00:52:01.560]   Well, if you remember,
+[00:52:01.560 --> 00:52:05.560]   Jesus says in the Lord's Prayer,
+[00:52:05.560 --> 00:52:08.560]   one of the key qualities of our prayer,
+[00:52:08.560 --> 00:52:12.560]   he says, "Lead us not into," what?
+[00:52:12.560 --> 00:52:14.560]   "Temptation."
+[00:52:14.560 --> 00:52:16.560]   He says to pray so that you are not led into temptation,
+[00:52:16.560 --> 00:52:20.560]   but here it says the Holy Spirit led Jesus into temptation.
+[00:52:20.560 --> 00:52:21.560]   In fact, in the book of James, it says,
+[00:52:21.560 --> 00:52:24.560]   "When you are tempted, let no one say that God is tempting."
+[00:52:24.560 --> 00:52:28.560]   God does not tempt anyone, nor can he be tempted.
+[00:52:28.560 --> 00:52:31.560]   And yet here it says that Jesus was led
+[00:52:31.560 --> 00:52:33.560]   by the Holy Spirit to be tempted.
+[00:52:33.560 --> 00:52:35.560]   So there's something going on here that we need to ask
+[00:52:35.560 --> 00:52:40.560]   and answer before we understand the rest of it.
+[00:52:40.560 --> 00:52:42.560]   Because if we don't understand the rest of it,
+[00:52:42.560 --> 00:52:43.560]   the way that we're going to understand this,
+[00:52:43.560 --> 00:52:47.560]   Jesus set us an example for us to conquer our sins, right?
+[00:52:47.560 --> 00:52:52.560]   Which is not wrong, but that's not the main point.
+[00:52:52.560 --> 00:52:54.560]   The main point of this text is in,
+[00:52:54.560 --> 00:52:56.560]   here's how Jesus conquered sin.
+[00:52:56.560 --> 00:52:59.560]   He used the Bible, so you use the Bible.
+[00:52:59.560 --> 00:53:04.560]   So he was able to refute Satan, so you can refute Satan.
+[00:53:04.560 --> 00:53:08.560]   Now, in and of itself, it's not wrong, right?
+[00:53:08.560 --> 00:53:11.560]   But that was never the main point of Jesus' temptation.
+[00:53:11.560 --> 00:53:15.560]   He was compelled and driven to be tempted.
+[00:53:15.560 --> 00:53:17.560]   So the question was, why?
+[00:53:17.560 --> 00:53:20.560]   Even as he tells us not to be led into temptation,
+[00:53:20.560 --> 00:53:23.560]   yet Jesus himself was led by the Holy Spirit.
+[00:53:23.560 --> 00:53:30.560]   The only one that was actually led into temptation.
+[00:53:30.560 --> 00:53:32.560]   Now, it's pretty clear, right,
+[00:53:32.560 --> 00:53:34.560]   if you read it systematically, why this is happening.
+[00:53:34.560 --> 00:53:37.560]   Because if you remember, at the end of chapter 3,
+[00:53:37.560 --> 00:53:40.560]   Jesus' genealogy goes way up to who?
+[00:53:40.560 --> 00:53:42.560]   To Adam.
+[00:53:42.560 --> 00:53:43.560]   And it ends with Adam.
+[00:53:43.560 --> 00:53:45.560]   The last thing that we are to remember,
+[00:53:45.560 --> 00:53:47.560]   even though it's been weeks ago,
+[00:53:47.560 --> 00:53:50.560]   is that his genealogy goes all the way to Adam.
+[00:53:50.560 --> 00:53:52.560]   And there's a purpose for that.
+[00:53:52.560 --> 00:53:57.560]   Luke the physician was not just writing random facts.
+[00:53:57.560 --> 00:54:00.560]   He was trying to present a story.
+[00:54:00.560 --> 00:54:03.560]   And so, the reason why he leaves it off with Adam
+[00:54:03.560 --> 00:54:06.560]   and introduces Jesus is because Adam,
+[00:54:06.560 --> 00:54:08.560]   when he was tempted, what happened?
+[00:54:08.560 --> 00:54:11.560]   Curse came into mankind.
+[00:54:11.560 --> 00:54:14.560]   Jesus is introduced, and he is tempted,
+[00:54:14.560 --> 00:54:17.560]   and the curse is reversed.
+[00:54:17.560 --> 00:54:21.560]   So as Adam was tempted in the Garden of Eden,
+[00:54:21.560 --> 00:54:23.560]   and then was thrown out to the wilderness,
+[00:54:23.560 --> 00:54:25.560]   Jesus is in the wilderness, and in his temptation,
+[00:54:25.560 --> 00:54:28.560]   he's trying to bring us back into the garden.
+[00:54:28.560 --> 00:54:33.560]   So it's not by accident that Luke is putting this in order.
+[00:54:33.560 --> 00:54:37.560]   In fact, Apostle Paul makes this very clear in 1 Corinthians 15, 22,
+[00:54:37.560 --> 00:54:43.560]   "For as in Adam all die, so also in Christ all will be made alive."
+[00:54:43.560 --> 00:54:48.560]   Again, in Romans 5, 14, "Nevertheless, death reigned from Adam until Moses."
+[00:54:48.560 --> 00:54:50.560]   So that genealogy that we saw in chapter 3
+[00:54:50.560 --> 00:54:55.560]   was the reign of death in mankind.
+[00:54:55.560 --> 00:54:58.560]   And now Christ is introduced, and that reign of death
+[00:54:58.560 --> 00:55:03.560]   is going to be reversed for those who receive Christ
+[00:55:03.560 --> 00:55:06.560]   and to have life. 1 Corinthians 15, 45,
+[00:55:06.560 --> 00:55:09.560]   "So also it is written, 'The first man, Adam, became a living soul;
+[00:55:09.560 --> 00:55:15.560]   the last Adam," referring to Christ, "became a life-giving spirit.'"
+[00:55:15.560 --> 00:55:18.560]   So first and foremost, why was he being tested?
+[00:55:18.560 --> 00:55:22.560]   He was being tested because the whole reason why he came
+[00:55:22.560 --> 00:55:25.560]   was to seek and save the lost.
+[00:55:25.560 --> 00:55:29.560]   Jesus is the perfect example, because he's the perfect human being who never sinned.
+[00:55:29.560 --> 00:55:34.560]   So everything that he did serves as an example for us to follow,
+[00:55:34.560 --> 00:55:38.560]   but that is not the main reason why he came.
+[00:55:38.560 --> 00:55:41.560]   If all we see Jesus as the perfect man,
+[00:55:41.560 --> 00:55:44.560]   who gave a perfect example for us to have a perfect life,
+[00:55:44.560 --> 00:55:47.560]   you missed the whole point of Christianity.
+[00:55:47.560 --> 00:55:50.560]   The whole point of Christianity was Christ,
+[00:55:50.560 --> 00:55:54.560]   who in every way was tempted without sin.
+[00:55:54.560 --> 00:55:57.560]   He who knew no sin became sin so that you and I
+[00:55:57.560 --> 00:56:01.560]   can become the righteousness of Christ, righteousness of God.
+[00:56:01.560 --> 00:56:05.560]   So the purpose of his temptation is to prove
+[00:56:05.560 --> 00:56:09.560]   that he was perfect sacrifice for our sins.
+[00:56:09.560 --> 00:56:12.560]   In fact, if you remember anything about the Old Testament,
+[00:56:12.560 --> 00:56:16.560]   the whole Old Testament is laid out, especially Leviticus.
+[00:56:16.560 --> 00:56:20.560]   It's laid out for us to remind us over and over and over again
+[00:56:20.560 --> 00:56:25.560]   that a sinful man cannot approach a holy God.
+[00:56:25.560 --> 00:56:27.560]   And I mention this over and over again.
+[00:56:27.560 --> 00:56:32.560]   When you read the book of Leviticus, Leviticus is not a welcoming book.
+[00:56:32.560 --> 00:56:35.560]   Leviticus is not warm and fuzzy.
+[00:56:35.560 --> 00:56:39.560]   There's a reason why Leviticus typically is avoided.
+[00:56:39.560 --> 00:56:41.560]   Because Leviticus is not John 3.16,
+[00:56:41.560 --> 00:56:44.560]   "God so loved the world that he gave his only begotten Son."
+[00:56:44.560 --> 00:56:47.560]   Leviticus is a setup for that.
+[00:56:47.560 --> 00:56:49.560]   But the whole book of Leviticus basically says,
+[00:56:49.560 --> 00:56:52.560]   "You will die if you do this. You will die if you don't do this.
+[00:56:52.560 --> 00:56:56.560]   You will die if you touch this. You will die if you go here.
+[00:56:56.560 --> 00:56:59.560]   I have anointed this tribe to do this and that tribe to do that,
+[00:56:59.560 --> 00:57:03.560]   and if any other tribes come in and give the sacrifice that was not warranted,
+[00:57:03.560 --> 00:57:04.560]   you will die."
+[00:57:04.560 --> 00:57:07.560]   Repeatedly, over and over again, we are told, "You are unclean.
+[00:57:07.560 --> 00:57:10.560]   You are unclean. You are unclean."
+[00:57:10.560 --> 00:57:16.560]   And even if you gave an animal sacrifice with any kind of defect,
+[00:57:16.560 --> 00:57:18.560]   it would be rejected.
+[00:57:18.560 --> 00:57:21.560]   And even if the animal was perfect, if sinful hands touched that
+[00:57:21.560 --> 00:57:25.560]   before the sacrifice, it would become defective.
+[00:57:25.560 --> 00:57:30.560]   So if there is any one point that was pounded into the Israelites,
+[00:57:30.560 --> 00:57:34.560]   it's that God is holy, and you and I are sinful,
+[00:57:34.560 --> 00:57:40.560]   and there is a huge chasm between this holy God and sinful man.
+[00:57:40.560 --> 00:57:47.560]   So Christ's temptation is to provide a credential for Jesus to be the perfect sacrifice.
+[00:57:47.560 --> 00:57:51.560]   If he failed in any of his sacrifices, any of his temptations,
+[00:57:51.560 --> 00:57:54.560]   he would have been disqualified before his ministry ever began.
+[00:57:54.560 --> 00:57:56.560]   He would have been a good leader.
+[00:57:56.560 --> 00:57:58.560]   He could have been the Messiah.
+[00:57:58.560 --> 00:58:00.560]   He could have had political power.
+[00:58:00.560 --> 00:58:02.560]   He could have performed miracles.
+[00:58:02.560 --> 00:58:06.560]   He could have overthrown, maybe, he was organized enough,
+[00:58:06.560 --> 00:58:08.560]   and trained the soldiers, and overthrew the Roman government.
+[00:58:08.560 --> 00:58:16.560]   He could have been a great leader, but he would not have been our Savior.
+[00:58:16.560 --> 00:58:18.560]   That's why the Holy Spirit had to lead him to
+[00:58:18.560 --> 00:58:23.560]   validify his credential to be our sacrifice.
+[00:58:23.560 --> 00:58:29.560]   Tempted in every way, yet sinless, without defect.
+[00:58:29.560 --> 00:58:32.560]   His temptation, number two, was thorough.
+[00:58:32.560 --> 00:58:34.560]   One was to prove him.
+[00:58:34.560 --> 00:58:38.560]   Second, it was thorough.
+[00:58:38.560 --> 00:58:41.560]   The reason why I say that is because oftentimes when we think of how Jesus
+[00:58:41.560 --> 00:58:44.560]   was a sympathetic high priest, usually the pushback,
+[00:58:44.560 --> 00:58:46.560]   subtle pushback that I get from people is,
+[00:58:46.560 --> 00:58:50.560]   "Well, Jesus is not a woman, so he doesn't really understand me."
+[00:58:50.560 --> 00:58:53.560]   Right? So he doesn't really know.
+[00:58:53.560 --> 00:58:56.560]   Jesus never got married, so he doesn't know what it's like to
+[00:58:56.560 --> 00:58:59.560]   be married to a contentious wife.
+[00:58:59.560 --> 00:59:01.560]   He doesn't know.
+[00:59:01.560 --> 00:59:05.560]   He's never been married to a husband who's just not leading well,
+[00:59:05.560 --> 00:59:08.560]   so Jesus doesn't know.
+[00:59:08.560 --> 00:59:14.560]   He's never raised kids who are rebellious, so he doesn't know.
+[00:59:14.560 --> 00:59:18.560]   He's never grown old, so he's never experienced midlife crisis.
+[00:59:18.560 --> 00:59:19.560]   He doesn't know.
+[00:59:19.560 --> 00:59:22.560]   In fact, majority of the things that you and I suffer on a day-to-day basis,
+[00:59:22.560 --> 00:59:25.560]   you can't really find it.
+[00:59:25.560 --> 00:59:28.560]   There are some things, "Oh, Jesus was the oldest brother,
+[00:59:28.560 --> 00:59:32.560]   so he knows what that's like."
+[00:59:32.560 --> 00:59:35.560]   Maybe his father died early, so he knows what that's like.
+[00:59:35.560 --> 00:59:39.560]   So we can pick and choose, but if you look at this carefully,
+[00:59:39.560 --> 00:59:41.560]   look at the language.
+[00:59:41.560 --> 00:59:45.560]   Luke chapter 4, 2 says, "For 40 days being tempted by the devil."
+[00:59:45.560 --> 00:59:49.560]   Now, verse 3 and on to verse 13 record the three temptations that are
+[00:59:49.560 --> 00:59:54.560]   highlighted for us, but the text clearly says he was tempted the whole time.
+[00:59:54.560 --> 00:59:57.560]   Mark chapter 4, 1, "Then Jesus was led by the Spirit into the wilderness
+[00:59:57.560 --> 00:59:59.560]   to be tempted by the devil."
+[00:59:59.560 --> 01:00:03.560]   The whole purpose why he was led was not simply he can have time with God.
+[01:00:03.560 --> 01:00:06.560]   He said it was for the purpose of being tempted.
+[01:00:06.560 --> 01:00:09.560]   So he was tempted through the whole 40 days.
+[01:00:09.560 --> 01:00:16.560]   Mark chapter 1, 13, "And he was in the wilderness 40 days being tempted by Satan."
+[01:00:16.560 --> 01:00:19.560]   So for 40 days, the whole time he was there.
+[01:00:19.560 --> 01:00:24.560]   So the three temptations that we're going to get to next week or the week after
+[01:00:24.560 --> 01:00:27.560]   was basically the final exam.
+[01:00:27.560 --> 01:00:29.560]   But he was taking the exam the whole time.
+[01:00:29.560 --> 01:00:36.560]   Many of you, if you're taking the bar or taking the medical exam,
+[01:00:36.560 --> 01:00:38.560]   that's not your only test.
+[01:00:38.560 --> 01:00:41.560]   The only reason why you even qualify to take that test is because you passed
+[01:00:41.560 --> 01:00:44.560]   many other tests up to that point.
+[01:00:44.560 --> 01:00:47.560]   It just happens to be your final accumulation of those tests.
+[01:00:47.560 --> 01:00:51.560]   So the three tests that we're going to be looking at that typically we focus on
+[01:00:51.560 --> 01:00:54.560]   usually is the final exam.
+[01:00:54.560 --> 01:00:57.560]   What the text says, "For 40 days he was being tested."
+[01:00:57.560 --> 01:01:01.560]   Now, why is this important and why is this relevant to that question of,
+[01:01:01.560 --> 01:01:04.560]   "He can't relate to me because he wasn't old, he wasn't a female,
+[01:01:04.560 --> 01:01:07.560]   he wasn't a father, he was never married.
+[01:01:07.560 --> 01:01:10.560]   How do we reconcile that?"
+[01:01:10.560 --> 01:01:14.560]   The number 40 is very significant in the Bible.
+[01:01:14.560 --> 01:01:17.560]   The Bible doesn't throw out anything just randomly.
+[01:01:17.560 --> 01:01:24.560]   The number 40 is very significant in the Bible, and it is related to judgment and curse.
+[01:01:24.560 --> 01:01:28.560]   It says--these are the things that the Bible mentions about 40.
+[01:01:28.560 --> 01:01:31.560]   Forty years of wandering in the desert before they go to the Promised Land.
+[01:01:31.560 --> 01:01:33.560]   Why did they wander for 40 years?
+[01:01:33.560 --> 01:01:35.560]   Because of unbelief.
+[01:01:35.560 --> 01:01:38.560]   Because of God's punishment against Israel.
+[01:01:38.560 --> 01:01:40.560]   Forty lashes.
+[01:01:40.560 --> 01:01:43.560]   It says in Deuteronomy 25 in the Old Testament law,
+[01:01:43.560 --> 01:01:47.560]   if an individual was guilty of some crime against another brother,
+[01:01:47.560 --> 01:01:52.560]   that he would be given 40 lashes as maximum,
+[01:01:52.560 --> 01:01:55.560]   representing the curse upon that man.
+[01:01:55.560 --> 01:02:00.560]   In Leviticus 12, 1-4, when a woman gives birth to a child,
+[01:02:00.560 --> 01:02:03.560]   she is declared unclean for 40 days.
+[01:02:03.560 --> 01:02:06.560]   And again, you know, it may be offensive to some of you
+[01:02:06.560 --> 01:02:08.560]   when you don't understand the context of that,
+[01:02:08.560 --> 01:02:12.560]   but the reason why that was given was because a sinful woman
+[01:02:12.560 --> 01:02:15.560]   was giving birth to a sinful being,
+[01:02:15.560 --> 01:02:19.560]   and so in order to teach that sin is multiplying,
+[01:02:19.560 --> 01:02:24.560]   that she had to be declared unclean for 40 days.
+[01:02:24.560 --> 01:02:30.560]   Forty days, in Genesis 7, verse 4 and 12, the flood lasted.
+[01:02:30.560 --> 01:02:33.560]   So when the judgment came upon mankind to wipe them out,
+[01:02:33.560 --> 01:02:35.560]   with the exception of Noah's family,
+[01:02:35.560 --> 01:02:38.560]   the flood came and destroyed them for 40 days.
+[01:02:38.560 --> 01:02:43.560]   Ezekiel 4, verse 6, when God tells him to represent the sins of Israel,
+[01:02:43.560 --> 01:02:45.560]   to lay on the left and lay on the right,
+[01:02:45.560 --> 01:02:50.560]   he says he was to do this for 40 days, to represent their sins.
+[01:02:50.560 --> 01:02:56.560]   Moses fasted for 40 days, and he's up in the mountain for 40 days,
+[01:02:56.560 --> 01:02:59.560]   in order to receive the new covenant, the law of God,
+[01:02:59.560 --> 01:03:02.560]   that he was going to present to the nation of Israel.
+[01:03:02.560 --> 01:03:08.560]   The Bible clearly says that the law brought curse to mankind.
+[01:03:08.560 --> 01:03:13.560]   So the number 40 in the Bible represents God's judgment and curse,
+[01:03:13.560 --> 01:03:19.560]   and this is significant because chapter 3 ends with Adam
+[01:03:19.560 --> 01:03:21.560]   and how he brought curse to mankind.
+[01:03:21.560 --> 01:03:24.560]   Jesus is in the state of the curse of mankind
+[01:03:24.560 --> 01:03:30.560]   for 40 days being tested in every way, yet without sin.
+[01:03:30.560 --> 01:03:32.560]   He may not have experienced fatherhood.
+[01:03:32.560 --> 01:03:35.560]   He may not have experienced what it means to be a female.
+[01:03:35.560 --> 01:03:38.560]   He may not have experienced old age,
+[01:03:38.560 --> 01:03:46.560]   but there is no man who was tested and tempted like Jesus directly by Satan for 40 days.
+[01:03:46.560 --> 01:03:49.560]   It just doesn't describe for us.
+[01:03:49.560 --> 01:03:51.560]   It doesn't describe in detail exactly what it was,
+[01:03:51.560 --> 01:03:57.560]   but during those 40 days, some people may say, "Well, it's only 40 days.
+[01:03:57.560 --> 01:04:03.560]   I mean, everyone here has lived longer than that."
+[01:04:03.560 --> 01:04:08.560]   John MacArthur, I think, says this well, and it helped me to understand this aspect.
+[01:04:08.560 --> 01:04:14.560]   He says, "Jesus experienced testing and temptation more than any other human being
+[01:04:14.560 --> 01:04:17.560]   because he never failed."
+[01:04:17.560 --> 01:04:24.560]   And what he meant by that was every temptation that you and I feel and wrestle with,
+[01:04:24.560 --> 01:04:28.560]   it gets intense until the moment we fail.
+[01:04:28.560 --> 01:04:35.560]   And that's why Jesus says to pray to not to be led into temptation
+[01:04:35.560 --> 01:04:39.560]   because our God knows that if we are led into temptation at some point,
+[01:04:39.560 --> 01:04:42.560]   everybody has a cracking point, at some point we will crack.
+[01:04:42.560 --> 01:04:45.560]   And at the moment of compromise, we are no longer struggling with temptation.
+[01:04:45.560 --> 01:04:48.560]   We're struggling with guilt.
+[01:04:48.560 --> 01:04:51.560]   But it's no longer temptation you feel.
+[01:04:51.560 --> 01:04:54.560]   Jesus never cracked.
+[01:04:54.560 --> 01:04:56.560]   He never gave in.
+[01:04:56.560 --> 01:05:03.560]   So the struggle with temptation was always real to the very end because he never sinned.
+[01:05:03.560 --> 01:05:08.560]   In Hebrews 4.15, it says, "For we do not have a high priest who cannot sympathize with our weaknesses,
+[01:05:08.560 --> 01:05:10.560]   but one who has been tempted in all things."
+[01:05:10.560 --> 01:05:16.560]   In summary, your translation is, "In every way as we are yet without sin."
+[01:05:16.560 --> 01:05:24.560]   In fact, his experience with sin and curse was much deeper than what you and I normally experience.
+[01:05:24.560 --> 01:05:29.560]   In fact, it says in 2 Corinthians 5.21, "He made him who knew no sin," what?
+[01:05:29.560 --> 01:05:34.560]   "To be sin on our behalf so that we might become the righteousness of God."
+[01:05:34.560 --> 01:05:40.560]   You notice here, he doesn't say, "He who knew no sin experienced sin on our behalf."
+[01:05:40.560 --> 01:05:43.560]   He says, "No, to be sin."
+[01:05:43.560 --> 01:05:50.560]   His experience with sin was so intimate that he says he became sin for us.
+[01:05:50.560 --> 01:05:55.560]   In fact, in Galatians 3.13, it says, "Christ redeemed us from the curse of the law, having," what?
+[01:05:55.560 --> 01:05:58.560]   "Become a curse for us."
+[01:05:58.560 --> 01:06:02.560]   He didn't just experience the curse.
+[01:06:02.560 --> 01:06:12.560]   He embraced it so fully, the Bible describes him being sin and being a curse on our behalf.
+[01:06:12.560 --> 01:06:17.560]   So those 40 days and every single second that he lived on this earth,
+[01:06:17.560 --> 01:06:22.560]   he experienced this curse to the fullest that you and I would never experience.
+[01:06:22.560 --> 01:06:24.560]   We typically think that he experienced it upon the cross.
+[01:06:24.560 --> 01:06:25.560]   Yes, he did.
+[01:06:25.560 --> 01:06:29.560]   The penalty of sin, he absorbed upon the cross on our behalf.
+[01:06:29.560 --> 01:06:38.560]   But every single second that he took on human form, he experienced this curse and his sin on our behalf.
+[01:06:38.560 --> 01:06:47.560]   Jesus' temptation was thorough, far beyond what you and I could ever possibly imagine.
+[01:06:47.560 --> 01:06:54.560]   Third question that we ask is, "How can Jesus even be tempted?
+[01:06:54.560 --> 01:06:56.560]   Isn't he God?"
+[01:06:56.560 --> 01:07:01.560]   I mean, if you do inductive Bible study through this, and you ask a lot of questions,
+[01:07:01.560 --> 01:07:08.560]   one of the first questions you should be asking is, "Is Satan dumb?"
+[01:07:08.560 --> 01:07:10.560]   I mean, think about that.
+[01:07:10.560 --> 01:07:14.560]   He's approaching the Son of God.
+[01:07:14.560 --> 01:07:19.560]   Remember Satan's interaction with God in the Old Testament?
+[01:07:19.560 --> 01:07:22.560]   In particular, remember the book of Job?
+[01:07:22.560 --> 01:07:28.560]   God is on his throne, and Satan is roaming around the earth, and he allows Satan to come into his presence.
+[01:07:28.560 --> 01:07:33.560]   And the only reason why he's even able to do what he did to Job was because God allowed it.
+[01:07:33.560 --> 01:07:35.560]   He needed permission.
+[01:07:35.560 --> 01:07:41.560]   Jesus says, at the end of his ministry, "Satan has asked permission to sift you like wheat."
+[01:07:41.560 --> 01:07:43.560]   He has to ask God permission.
+[01:07:43.560 --> 01:07:47.560]   Now remember, Jesus is the second person of the Trinity.
+[01:07:47.560 --> 01:07:53.560]   And he takes him up and he says, "If you bow down to me and worship me, I will give you this."
+[01:07:53.560 --> 01:07:55.560]   Is he dumb?
+[01:07:55.560 --> 01:08:00.560]   That's just like if I was standing in front of a world-renowned chef and said,
+[01:08:00.560 --> 01:08:05.560]   "If you would just honor me, I will make you some ramen."
+[01:08:05.560 --> 01:08:06.560]   Right?
+[01:08:06.560 --> 01:08:09.560]   And then actually expecting you to be tempted.
+[01:08:09.560 --> 01:08:15.560]   Like, "Hmm, ramen. Maybe."
+[01:08:15.560 --> 01:08:25.560]   Jesus, Scripture says, all things were created by him and for him, and all of that, even that, was being sustained by him.
+[01:08:25.560 --> 01:08:29.560]   Why did Satan think? Is he dumb?
+[01:08:29.560 --> 01:08:34.560]   I mean, clearly the Bible doesn't present him that way to us, and he's way smarter than us.
+[01:08:34.560 --> 01:08:39.560]   In fact, the Bible warns us about taking the power of Satan lightly.
+[01:08:39.560 --> 01:08:46.560]   And yet, he comes to Jesus and says, "I will give you all of this if you would bow down to me."
+[01:08:46.560 --> 01:08:52.560]   In Philippians 2, 5-8, it says, "Have this attitude in yourselves, which also is in Christ Jesus,
+[01:08:52.560 --> 01:08:59.560]   who, although he existed in the form of God, did not regard equality with God a thing to be grasped,
+[01:08:59.560 --> 01:09:07.560]   but emptied himself, taking the form of a bond-servant and being made in the likeness of men."
+[01:09:07.560 --> 01:09:12.560]   I know this is a text that we often use to talk about church unity, about being humble,
+[01:09:12.560 --> 01:09:16.560]   about considering other people better than ourselves.
+[01:09:16.560 --> 01:09:26.560]   But if you dig into the meaning behind this, what does it mean for the God of the universe to empty himself?
+[01:09:26.560 --> 01:09:33.560]   We know Christmas is coming, and we think about the incarnation, we think about what he has done,
+[01:09:33.560 --> 01:09:38.560]   and years and years and years, I'm pretty sure you've heard story after story,
+[01:09:38.560 --> 01:09:44.560]   and exposition after exposition about the incarnation of Christ every Christmas.
+[01:09:44.560 --> 01:09:49.560]   But I don't think it really affects the way that it should.
+[01:09:49.560 --> 01:09:57.560]   I don't think we really understand the depth of what it took for him to be incarnated, to take on human form.
+[01:09:57.560 --> 01:10:05.560]   That Satan, who is in rebellion against God, saw Jesus in his humble state,
+[01:10:05.560 --> 01:10:12.560]   and for the first time in his existence, he saw hope for himself.
+[01:10:12.560 --> 01:10:20.560]   He didn't see God. He saw a humble servant.
+[01:10:20.560 --> 01:10:36.560]   He was so veiled in his glory that he actually thought that he was going to tempt Jesus with his own creation in his rebellion.
+[01:10:36.560 --> 01:10:48.560]   He was so humbled. He was so humiliated that the one who was in rebellion against him came to tempt him.
+[01:10:48.560 --> 01:10:55.560]   So the fact that this is even happening is because he emptied himself.
+[01:10:55.560 --> 01:11:05.560]   Do you see how ridiculous it is for pride and Christianity to exist?
+[01:11:05.560 --> 01:11:11.560]   A man who was walking with cries headed toward the cross, to be humiliated,
+[01:11:11.560 --> 01:11:16.560]   and to be thinking, "Am I going to sit on the left or to the right?"
+[01:11:16.560 --> 01:11:20.560]   How offensive that is!
+[01:11:20.560 --> 01:11:24.560]   We worship a God who gave everything.
+[01:11:24.560 --> 01:11:28.560]   In James 1.13, it says, "Let no one say that when he is tempted, I am being tempted by God,
+[01:11:28.560 --> 01:11:33.560]   for God cannot be tempted by evil, and he himself does not tempt anyone."
+[01:11:33.560 --> 01:11:36.560]   Did Satan not know this text?
+[01:11:36.560 --> 01:11:40.560]   Did he not know that God cannot be tempted?
+[01:11:40.560 --> 01:11:42.560]   Of course he knew.
+[01:11:42.560 --> 01:11:47.560]   But Jesus' deity was this veiled.
+[01:11:47.560 --> 01:11:50.560]   He did not see his deity.
+[01:11:50.560 --> 01:11:57.560]   He saw a humble man, taking up the form of a servant.
+[01:11:57.560 --> 01:12:01.560]   I don't know about you, but that fact alone,
+[01:12:01.560 --> 01:12:08.560]   his incarnation, what it took for him to just walk among us,
+[01:12:08.560 --> 01:12:12.560]   doesn't that automatically humble you?
+[01:12:12.560 --> 01:12:16.560]   Doesn't that automatically see any kind of pride in us?
+[01:12:16.560 --> 01:12:24.560]   How ugly that must seem, especially in the context of worshiping this God?
+[01:12:24.560 --> 01:12:29.560]   Even the Son of Man did not come to be served, but to serve, and to give his life as a ransom for many.
+[01:12:29.560 --> 01:12:33.560]   And he repeatedly says, "If you want to live, you have to die."
+[01:12:33.560 --> 01:12:40.560]   How much of our struggle, how much of our anxiousness, how much of our anger, how much of our bitterness,
+[01:12:40.560 --> 01:12:46.560]   comes from when our desire to have a better life is thwarted somehow?
+[01:12:46.560 --> 01:12:50.560]   Even in the way that we pursue righteousness,
+[01:12:50.560 --> 01:12:56.560]   how much of our frustration comes because we're not getting what we want?
+[01:12:56.560 --> 01:12:59.560]   How ridiculous and hypocritical that is,
+[01:12:59.560 --> 01:13:10.560]   that any sinner in the presence of this God can allow pride to exist.
+[01:13:10.560 --> 01:13:21.560]   Our God humbled himself, became nothing, was tempted by his own creation.
+[01:13:21.560 --> 01:13:24.560]   Why did he do that?
+[01:13:24.560 --> 01:13:30.560]   Why did he allow himself, why did the Holy Spirit lead him to do that?
+[01:13:30.560 --> 01:13:35.560]   Yes, it is an example.
+[01:13:35.560 --> 01:13:42.560]   Yes, these are tools that will help us in our temptation,
+[01:13:42.560 --> 01:13:51.560]   but it's ultimately to prove that he is worthy to be our sacrifice.
+[01:13:51.560 --> 01:13:59.560]   He was a perfect lamb without blemish.
+[01:13:59.560 --> 01:14:03.560]   Let me finish the sermon the way I started.
+[01:14:03.560 --> 01:14:10.560]   I had an opportunity to visit Itaewon, and I shared that with you, what happened in Seoul.
+[01:14:10.560 --> 01:14:16.560]   Itaewon in Korea is an area that previously was known as a U.S. military base,
+[01:14:16.560 --> 01:14:19.560]   and so there's a lot of foreigners who live in that area.
+[01:14:19.560 --> 01:14:22.560]   If you want to get, a long time ago, now you can get it everywhere,
+[01:14:22.560 --> 01:14:26.560]   a long time ago if you wanted American food, go to American supermarkets, you have to go to that area.
+[01:14:26.560 --> 01:14:32.560]   Since then, the military base moved somewhere else, and so for a period, Itaewon was starting to die,
+[01:14:32.560 --> 01:14:36.560]   and in recent years, there was a resurgence, and the reason why there was a resurgence
+[01:14:36.560 --> 01:14:43.560]   was as these shops, these international shops started disappearing, nightclubs started coming in.
+[01:14:43.560 --> 01:14:49.560]   And so all these shops, and those of you guys who know Korea, Itaewon was known,
+[01:14:49.560 --> 01:14:52.560]   if you want to go get fake stuff, that's where you go, right?
+[01:14:52.560 --> 01:14:56.560]   That's where everybody knew, right? At least I've been told, right?
+[01:14:56.560 --> 01:15:03.560]   That's where you go, so every one of these shops, as they disappeared, the nightclubs started coming in.
+[01:15:03.560 --> 01:15:09.560]   So because of what happened, there's about 150 young people who are in their late teens and early 20s
+[01:15:09.560 --> 01:15:17.560]   were there in the clubs, and they came out through the alley at night, and many of them got crushed standing up.
+[01:15:17.560 --> 01:15:22.560]   It wasn't even that they fell to the ground, obviously anybody who fell to the ground couldn't get up and they were crushed,
+[01:15:22.560 --> 01:15:26.560]   but many of them died standing up because the pressure was so strong.
+[01:15:26.560 --> 01:15:32.560]   That's how crowded it was. So I wanted to go and visit just to see that area,
+[01:15:32.560 --> 01:15:38.560]   so I went, I had some time and took the subway by myself, and I could tell as soon as I got off the subway,
+[01:15:38.560 --> 01:15:42.560]   I could tell the subway exit because there's an eerie silence.
+[01:15:42.560 --> 01:15:47.560]   Anybody who's visited Itaewon before this incident, you know how busy that area is,
+[01:15:47.560 --> 01:15:50.560]   but as soon as I got off the subway, there's this dead silence.
+[01:15:50.560 --> 01:15:56.560]   As soon as I went up to see where it was, it was right outside the subway exit.
+[01:15:56.560 --> 01:16:03.560]   Thousands of flowers and notes of encouragement and aching and crying, like splattered everywhere.
+[01:16:03.560 --> 01:16:09.560]   There's police officers just everywhere so that people don't get out of control for crowd control,
+[01:16:09.560 --> 01:16:12.560]   and just that eerie silence, right?
+[01:16:12.560 --> 01:16:17.560]   Obviously, 150 young people died there just a few weeks ago.
+[01:16:17.560 --> 01:16:21.560]   So I go and I'm walking around, and there's a couple things that I noticed.
+[01:16:21.560 --> 01:16:24.560]   One is the heavy Buddhist presence.
+[01:16:24.560 --> 01:16:27.560]   Everywhere I went, I saw Buddhist monks walking around burning incense,
+[01:16:27.560 --> 01:16:30.560]   and everywhere I went, there was an altar that was set up saying,
+[01:16:30.560 --> 01:16:34.560]   "We're praying for you," or "We're pleading on your behalf."
+[01:16:34.560 --> 01:16:40.560]   So I had some time, so I was walking around, and I saw the notes that were on the wall,
+[01:16:40.560 --> 01:16:46.560]   and thousands of notes, primarily secular, atheistic, Buddhist notes.
+[01:16:46.560 --> 01:16:49.560]   Every once in a while, you'll see a Christian presence there.
+[01:16:49.560 --> 01:16:56.560]   I thought that was kind of strange because even though the younger generation has been lost under 3%,
+[01:16:56.560 --> 01:17:01.560]   the rest of the population is 33%. I said, "Where is their presence here?"
+[01:17:01.560 --> 01:17:06.560]   So I asked one of the missionaries and the people who were there, "What's going on?
+[01:17:06.560 --> 01:17:09.560]   It's weird that we don't see a lot of Christian presence there."
+[01:17:09.560 --> 01:17:13.560]   And he said that not all, but some.
+[01:17:13.560 --> 01:17:20.560]   Some of the mega church pastors who were influential came out and spoke very publicly against what happened,
+[01:17:20.560 --> 01:17:23.560]   saying that this was a judgment from God,
+[01:17:23.560 --> 01:17:29.560]   that because Korea is becoming more and more secular, that this was evidence of judgment.
+[01:17:29.560 --> 01:17:32.560]   These young kids should not have been out there that night.
+[01:17:32.560 --> 01:17:35.560]   And so where are the parents? How come they didn't restrict them?
+[01:17:35.560 --> 01:17:38.560]   What are they doing late at night in that place?
+[01:17:38.560 --> 01:17:45.560]   And so these 150 lives that was lost is God's judgment and was calling for repentance.
+[01:17:45.560 --> 01:17:50.560]   Now, could that be true? Maybe.
+[01:17:51.560 --> 01:17:59.560]   But what a way to be a witness to a hurting world.
+[01:17:59.560 --> 01:18:10.560]   If our indignation for the sins of the world stops with judgment, you don't understand the gospel.
+[01:18:10.560 --> 01:18:17.560]   Because if God did that to us when we were lost,
+[01:18:17.560 --> 01:18:24.560]   and yes, every pain that you and I experience is a result of our own sins and the sins of mankind.
+[01:18:24.560 --> 01:18:30.560]   If God looked at us and said, "Of course you're going to get judged, because you didn't act right,
+[01:18:30.560 --> 01:18:34.560]   because you embraced your sins, you shouldn't have been there."
+[01:18:34.560 --> 01:18:38.560]   If God did that, you and I would not be here.
+[01:18:38.560 --> 01:18:41.560]   Jesus would not have been tested.
+[01:18:41.560 --> 01:18:44.560]   He would not have suffered. He would not have been humiliated.
+[01:18:44.560 --> 01:18:51.560]   It's because He saw our problem and He drew near to us.
+[01:18:51.560 --> 01:18:54.560]   And He had mercy on us.
+[01:18:54.560 --> 01:19:01.560]   And He cried out on our behalf.
+[01:19:01.560 --> 01:19:06.560]   The answer to Itaewon.
+[01:19:06.560 --> 01:19:09.560]   All the politicians are getting together, pointing fingers at each other.
+[01:19:09.560 --> 01:19:12.560]   It's because of them. It's because of the liberals.
+[01:19:12.560 --> 01:19:18.560]   Local officials are saying that they should have never converted into a nightclub.
+[01:19:18.560 --> 01:19:23.560]   It was overly crowded. There should have been some more residents.
+[01:19:23.560 --> 01:19:27.560]   Younger people are blaming the old people, saying that you guys didn't care about us,
+[01:19:27.560 --> 01:19:31.560]   and that's why we're distraught and the country is turning the way it is.
+[01:19:31.560 --> 01:19:33.560]   Older people are pointing fingers at the younger people.
+[01:19:33.560 --> 01:19:36.560]   It's because you guys don't respect us.
+[01:19:36.560 --> 01:19:40.560]   And so everybody is pointing fingers, that the answer is, if you change,
+[01:19:40.560 --> 01:19:48.560]   if you do something different, we're going to fight so that you can change.
+[01:19:48.560 --> 01:19:55.560]   But the only answer to man's sin is Christ crucified.
+[01:19:55.560 --> 01:20:03.560]   And the moment that you and I think otherwise, we have joined the crowd of the world.
+[01:20:03.560 --> 01:20:09.560]   1 Corinthians 1, 18-19, "For the word of the cross is foolishness to those who are perishing,
+[01:20:09.560 --> 01:20:13.560]   but to us who are being saved it is the power of God.
+[01:20:13.560 --> 01:20:19.560]   For it is written, 'I will destroy the wisdom of the wise, and the cleverness of the clever I will set aside.'"
+[01:20:19.560 --> 01:20:23.560]   Every time something tragic happens, everybody is so clever.
+[01:20:23.560 --> 01:20:28.560]   Everybody has answers. It's because of them.
+[01:20:28.560 --> 01:20:31.560]   If we change them, if we change this, if we had a better economy,
+[01:20:31.560 --> 01:20:36.560]   if we had better family structure, if we did this and that,
+[01:20:36.560 --> 01:20:40.560]   if that was the case, Christ didn't have to come.
+[01:20:40.560 --> 01:20:45.560]   He could have just given us an instruction of books and telling, "This is what you should do.
+[01:20:45.560 --> 01:20:51.560]   Be better. Be better." He came because we could not.
+[01:20:51.560 --> 01:20:59.560]   1 Corinthians 1, 21-23, "For since in the wisdom of God, the world through its wisdom did not come to know God,
+[01:20:59.560 --> 01:21:07.560]   God was well pleased through the foolishness of the message, 'Preach to save those who believe.'"
+[01:21:07.560 --> 01:21:18.560]   So foolish. You have people dying, suffering, sex trafficking, destroyed families, pain, isolation, loneliness, economic struggles,
+[01:21:18.560 --> 01:21:22.560]   and all you're going to do is preach the gospel?
+[01:21:22.560 --> 01:21:25.560]   That's all you're going to do? The world is about to fall apart?
+[01:21:25.560 --> 01:21:33.560]   We're about to enter World War III and all you're going to do is preach the gospel?
+[01:21:33.560 --> 01:21:38.560]   The answer is a resounding yes.
+[01:21:38.560 --> 01:21:51.560]   It may be foolishness to the world, but it is the power of God for those who are being saved.
+[01:21:51.560 --> 01:21:58.560]   For indeed, Jews ask for science. Greeks search for wisdom.
+[01:21:58.560 --> 01:22:07.560]   But we preach Christ crucified. To Jews, a stumbling block, and to Gentiles, foolishness.
+[01:22:07.560 --> 01:22:12.560]   But to those who are being saved, the power of God.
+[01:22:12.560 --> 01:22:22.560]   Let's never let anything in our generation, next generation, no circumstance, no pressure, no persecution,
+[01:22:22.560 --> 01:22:29.560]   ever thwart us from preaching the gospel in season and out of season.
+[01:22:29.560 --> 01:22:36.560]   Let's pray.
+[01:22:36.560 --> 01:22:46.560]   Heavenly Father, we pray for wisdom. We pray for conviction.
+[01:22:46.560 --> 01:22:55.560]   We pray, Father God, as we meditate upon the sacrifice and the humiliation of Christ,
+[01:22:55.560 --> 01:23:11.560]   that we would also take up our cross and follow him to a path of humbling, of emptying, and sometimes even suffering.
+[01:23:11.560 --> 01:23:20.560]   That when the time of his glory comes, that we will also be glorified in him.
+[01:23:20.560 --> 01:23:27.560]   Help us, Lord God, especially now, as the world is suffering.
+[01:23:27.560 --> 01:23:38.560]   As so many, Lord God, are putting up a front, Lord, and yet inwardly in such pain.
+[01:23:38.560 --> 01:23:44.560]   That more and more of the world, Lord God, experiences the depth of this curse.
+[01:23:44.560 --> 01:23:52.560]   Help us, Lord God, instead of simply pointing fingers, but to have compassion, as you had compassion on us.
+[01:23:52.560 --> 01:23:57.560]   I pray that your word that you've implanted in us will bear fruit wherever you send us.
+[01:23:57.560 --> 01:24:02.560]   In Jesus' name we pray, amen.
+[01:24:02.560 --> 01:24:05.560]   Let's all stand up for the closing praise.
+[01:24:05.560 --> 01:24:15.560]   [Music]
+[01:24:15.560 --> 01:24:24.560]   How great the chasm that lay between us.
+[01:24:24.560 --> 01:24:31.560]   How high the mountain I could not climb.
+[01:24:31.560 --> 01:24:44.560]   In desperation I turned to heaven and spoke your name into the night.
+[01:24:44.560 --> 01:24:58.560]   Then through the darkness your loving kindness tore through the shadows of my soul.
+[01:24:58.560 --> 01:25:05.560]   The work is finished, the end is written.
+[01:25:05.560 --> 01:25:15.560]   Jesus Christ, my living hope.
+[01:25:15.560 --> 01:25:21.560]   Who could imagine so great a mercy?
+[01:25:21.560 --> 01:25:28.560]   What heart could fathom such boundless grace?
+[01:25:28.560 --> 01:25:42.560]   The God of ages stepped down from glory to wear my sin and better my shame.
+[01:25:42.560 --> 01:25:49.560]   The cross has spoken, I am forgiven.
+[01:25:49.560 --> 01:25:55.560]   The King of kings calls me his own.
+[01:25:55.560 --> 01:26:02.560]   Beautiful Savior, I'm yours forever.
+[01:26:02.560 --> 01:26:08.560]   Jesus Christ, my living hope.
+[01:26:08.560 --> 01:26:12.560]   Hallelujah, hallelujah.
+[01:26:12.560 --> 01:26:16.560]   Praise the one who set me free.
+[01:26:16.560 --> 01:26:22.560]   Hallelujah, death has lost its grip on me.
+[01:26:22.560 --> 01:26:26.560]   You have broken every chain.
+[01:26:26.560 --> 01:26:29.560]   There's salvation in your name.
+[01:26:29.560 --> 01:26:35.560]   Jesus Christ, my living hope.
+[01:26:35.560 --> 01:26:39.560]   Hallelujah, hallelujah.
+[01:26:39.560 --> 01:26:43.560]   Praise the one who set me free.
+[01:26:43.560 --> 01:26:49.560]   Hallelujah, death has lost its grip on me.
+[01:26:49.560 --> 01:26:53.560]   You have broken every chain.
+[01:26:53.560 --> 01:26:56.560]   There's salvation in your name.
+[01:26:56.560 --> 01:27:03.560]   Jesus Christ, my living hope.
+[01:27:04.560 --> 01:27:12.560]   Then came, then came the morning that sealed the promise.
+[01:27:12.560 --> 01:27:19.560]   Your buried body began to breathe.
+[01:27:19.560 --> 01:27:32.560]   Out of the silence, the roaring lion declared the grave has no claim on me.
+[01:27:32.560 --> 01:27:40.560]   Then came, then came the morning that sealed the promise.
+[01:27:40.560 --> 01:27:47.560]   Your buried body began to breathe.
+[01:27:47.560 --> 01:28:01.560]   Out of the silence, the roaring lion declared the grave has no claim on me.
+[01:28:01.560 --> 01:28:08.560]   Jesus Christ, my living hope.
+[01:28:08.560 --> 01:28:11.560]   Hallelujah, hallelujah.
+[01:28:11.560 --> 01:28:17.560]   Praise the one who set me free.
+[01:28:17.560 --> 01:28:24.560]   Hallelujah, death has lost its grip on me.
+[01:28:24.560 --> 01:28:27.560]   You have broken every chain.
+[01:28:27.560 --> 01:28:31.560]   There's salvation in your name.
+[01:28:31.560 --> 01:28:38.560]   Jesus Christ, my living hope.
+[01:28:38.560 --> 01:28:45.560]   Hallelujah, praise the one who set me free.
+[01:28:45.560 --> 01:28:51.560]   Hallelujah, death has lost its grip on me.
+[01:28:51.560 --> 01:28:54.560]   You have broken every chain.
+[01:28:54.560 --> 01:28:58.560]   There's salvation in your name.
+[01:28:58.560 --> 01:29:05.560]   Jesus Christ, my living hope.
+[01:29:05.560 --> 01:29:12.560]   Jesus Christ, my living hope.
+[01:29:12.560 --> 01:29:20.560]   God, you are my living hope.
+[01:29:20.560 --> 01:29:25.560]   Let's pray.
+[01:29:25.560 --> 01:29:31.560]   Lord, we pray for revival.
+[01:29:31.560 --> 01:29:38.560]   Lord, we pray that your Holy Spirit, Lord, would empower your people.
+[01:29:38.560 --> 01:29:47.560]   That our speech, our life, our work, our families, our leisure may all be used for your glory.
+[01:29:47.560 --> 01:29:53.560]   Lord, the world is dark and it is getting darker.
+[01:29:53.560 --> 01:29:58.560]   Help us, Lord God, to not to fall into despair with the rest of the world.
+[01:29:58.560 --> 01:30:07.560]   And as you warned us that because of increase in wickedness, that love of many will grow cold.
+[01:30:07.560 --> 01:30:17.560]   Help us, Lord God, not to allow our hearts to drift, to harden, but to see the world, Lord God, through your eyes.
+[01:30:17.560 --> 01:30:22.560]   As you had compassion on the multitude.
+[01:30:22.560 --> 01:30:31.560]   As you pleaded with your disciples, Lord, we beseech you to send more workers into the harvest.
+[01:30:31.560 --> 01:30:38.560]   Raise men and women, Lord God, who will take up their cross to proclaim your truth.
+[01:30:38.560 --> 01:30:45.560]   To be able to say with a clear conscience, here I am, Lord, send me.
+[01:30:45.560 --> 01:30:53.560]   Bring revival. Help us to pray, to fast, to seek you with all our heart.
+[01:30:53.560 --> 01:30:58.560]   That we may bear much fruit according to your purpose and will.
+[01:30:58.560 --> 01:31:06.560]   Now to him who is able to keep you from stumbling and to make you stand in the presence of his glory, blameless with great joy.
+[01:31:06.560 --> 01:31:16.560]   To the only God, our Savior, through Jesus Christ, our Lord, be glory, majesty, dominion and authority before all time and now and forever. Amen.
+[01:31:16.560 --> 01:31:28.560]   God sent his Son, then called him Jesus.
+[01:31:28.560 --> 01:31:38.560]   He came to earth, heal and forgive.
+[01:31:38.560 --> 01:31:50.560]   He lived and died to buy my pardon.
+[01:31:50.560 --> 01:32:01.560]   An empty grave is there to prove my Savior lives.
+[01:32:01.560 --> 01:32:11.560]   Because he lives, I can face tomorrow.
+[01:32:11.560 --> 01:32:22.560]   Because he lives, all fear is gone.
+[01:32:22.560 --> 01:32:33.560]   Because I know he holds the future.
+[01:32:33.560 --> 01:32:44.560]   And life is worth the living just because he lives.
+[01:32:44.560 --> 01:32:46.560]   Amen.
+[01:32:46.560 --> 01:32:49.560]   [MUSIC PLAYING]
+[01:32:49.560 --> 01:32:52.560]   [MUSIC PLAYING]
+[01:32:52.560 --> 01:32:55.560]   [MUSIC PLAYING]
+[01:32:55.560 --> 01:32:58.560]   [MUSIC PLAYING]
+[01:32:59.560 --> 01:33:02.560]   [MUSIC PLAYING]
+[01:33:03.560 --> 01:33:06.560]   [MUSIC PLAYING]
+[01:33:06.560 --> 01:33:10.060]   [MUSIC PLAYING]
+[01:33:10.060 --> 01:33:13.560]   [CHATTER]
+[01:33:13.560 --> 01:33:17.060]   [MUSIC PLAYING]
+[01:33:17.060 --> 01:33:20.560]   [CHATTER]
+[01:33:20.560 --> 01:33:24.060]   [MUSIC PLAYING]
+[01:33:25.060 --> 01:33:28.560]   [CHATTER]
+[01:33:28.560 --> 01:33:39.560]   Oh, you think so much, Dave?
+[01:33:39.560 --> 01:33:41.560]   Yeah, I do.
+[01:33:41.560 --> 01:33:43.560]   [CHATTER]
+[01:33:43.560 --> 01:33:47.560]   [MUSIC PLAYING]
+

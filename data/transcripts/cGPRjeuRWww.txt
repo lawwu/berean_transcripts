@@ -1,0 +1,1336 @@
+
+[00:00:00.000 --> 00:00:03.500]   [SIDE CONVERSATION]
+[00:00:03.500 --> 00:00:07.000]   [SIDE CONVERSATION]
+[00:00:07.000 --> 00:00:10.500]   [SIDE CONVERSATION]
+[00:00:10.500 --> 00:00:14.000]   [SIDE CONVERSATION]
+[00:00:14.000 --> 00:00:17.500]   [SIDE CONVERSATION]
+[00:00:17.500 --> 00:00:21.000]   [SIDE CONVERSATION]
+[00:00:21.000 --> 00:00:24.500]   [SIDE CONVERSATION]
+[00:00:48.480 --> 00:00:51.980]   [SIDE CONVERSATION]
+[00:00:51.980 --> 00:00:55.480]   [SIDE CONVERSATION]
+[00:00:55.480 --> 00:00:58.980]   [SIDE CONVERSATION]
+[00:00:58.980 --> 00:01:02.480]   [SIDE CONVERSATION]
+[00:01:02.480 --> 00:01:05.980]   [SIDE CONVERSATION]
+[00:01:05.980 --> 00:01:09.480]   [SIDE CONVERSATION]
+[00:01:09.480 --> 00:01:12.980]   [SIDE CONVERSATION]
+[00:01:12.980 --> 00:01:16.480]   [SIDE CONVERSATION]
+[00:01:16.480 --> 00:01:19.980]   [SIDE CONVERSATION]
+[00:01:19.980 --> 00:01:23.480]   [SIDE CONVERSATION]
+[00:01:23.480 --> 00:01:26.980]   [SIDE CONVERSATION]
+[00:01:26.980 --> 00:01:30.480]   [SIDE CONVERSATION]
+[00:01:30.480 --> 00:01:33.980]   [SIDE CONVERSATION]
+[00:01:33.980 --> 00:01:37.480]   [SIDE CONVERSATION]
+[00:01:37.480 --> 00:01:40.980]   [SIDE CONVERSATION]
+[00:01:40.980 --> 00:01:44.480]   [SIDE CONVERSATION]
+[00:01:44.480 --> 00:01:47.980]   [SIDE CONVERSATION]
+[00:01:47.980 --> 00:01:51.480]   [SIDE CONVERSATION]
+[00:01:51.480 --> 00:01:54.980]   [SIDE CONVERSATION]
+[00:01:54.980 --> 00:01:58.480]   [SIDE CONVERSATION]
+[00:02:23.480 --> 00:02:26.980]   [SIDE CONVERSATION]
+[00:02:26.980 --> 00:02:30.480]   [SIDE CONVERSATION]
+[00:02:31.480 --> 00:02:34.980]   [SIDE CONVERSATION]
+[00:02:34.980 --> 00:02:38.480]   [SIDE CONVERSATION]
+[00:02:38.480 --> 00:02:41.980]   [SIDE CONVERSATION]
+[00:02:42.980 --> 00:02:46.480]   [SIDE CONVERSATION]
+[00:02:46.480 --> 00:02:49.980]   [SIDE CONVERSATION]
+[00:02:49.980 --> 00:02:53.480]   [SIDE CONVERSATION]
+[00:02:53.480 --> 00:02:56.980]   [SIDE CONVERSATION]
+[00:02:57.980 --> 00:03:01.480]   [SIDE CONVERSATION]
+[00:03:01.480 --> 00:03:04.980]   [SIDE CONVERSATION]
+[00:03:04.980 --> 00:03:08.480]   [SIDE CONVERSATION]
+[00:03:08.480 --> 00:03:11.980]   [SIDE CONVERSATION]
+[00:03:12.980 --> 00:03:16.480]   [SIDE CONVERSATION]
+[00:03:16.480 --> 00:03:19.980]   [SIDE CONVERSATION]
+[00:03:19.980 --> 00:03:23.480]   [SIDE CONVERSATION]
+[00:03:23.480 --> 00:03:26.980]   [SIDE CONVERSATION]
+[00:03:26.980 --> 00:03:30.480]   [SIDE CONVERSATION]
+[00:03:31.480 --> 00:03:34.980]   [SIDE CONVERSATION]
+[00:03:34.980 --> 00:03:43.980]   [SIDE CONVERSATION]
+[00:03:43.980 --> 00:03:54.980]   [SIDE CONVERSATION]
+[00:03:55.980 --> 00:03:59.480]   [SIDE CONVERSATION]
+[00:03:59.480 --> 00:04:11.480]   [SIDE CONVERSATION]
+[00:04:11.480 --> 00:04:14.980]   [SIDE CONVERSATION]
+[00:04:38.480 --> 00:04:41.980]   [SIDE CONVERSATION]
+[00:04:41.980 --> 00:04:45.480]   [SIDE CONVERSATION]
+[00:04:45.480 --> 00:04:48.980]   [SIDE CONVERSATION]
+[00:04:49.980 --> 00:04:53.480]   [SIDE CONVERSATION]
+[00:04:53.480 --> 00:05:16.480]   [SIDE CONVERSATION]
+[00:05:16.480 --> 00:05:19.980]   [SIDE CONVERSATION]
+[00:05:20.980 --> 00:05:24.480]   [SIDE CONVERSATION]
+[00:05:25.480 --> 00:05:28.980]   [SIDE CONVERSATION]
+[00:05:28.980 --> 00:05:32.480]   [SIDE CONVERSATION]
+[00:05:32.480 --> 00:05:35.980]   [SIDE CONVERSATION]
+[00:05:36.980 --> 00:05:40.480]   [SIDE CONVERSATION]
+[00:05:40.480 --> 00:05:43.980]   [SIDE CONVERSATION]
+[00:05:44.980 --> 00:05:48.480]   [SIDE CONVERSATION]
+[00:05:48.480 --> 00:05:51.980]   [SIDE CONVERSATION]
+[00:05:51.980 --> 00:05:55.480]   [SIDE CONVERSATION]
+[00:05:56.480 --> 00:05:59.980]   [SIDE CONVERSATION]
+[00:05:59.980 --> 00:06:08.980]   [SIDE CONVERSATION]
+[00:06:08.980 --> 00:06:20.980]   [SIDE CONVERSATION]
+[00:06:20.980 --> 00:06:24.480]   [SIDE CONVERSATION]
+[00:06:24.480 --> 00:06:27.980]   [SIDE CONVERSATION]
+[00:06:28.980 --> 00:06:32.480]   [SIDE CONVERSATION]
+[00:06:33.480 --> 00:06:36.980]   [SIDE CONVERSATION]
+[00:07:01.480 --> 00:07:04.980]   [SIDE CONVERSATION]
+[00:07:05.980 --> 00:07:09.480]   [SIDE CONVERSATION]
+[00:07:10.480 --> 00:07:13.980]   [SIDE CONVERSATION]
+[00:07:13.980 --> 00:07:17.480]   [SIDE CONVERSATION]
+[00:07:18.480 --> 00:07:21.980]   [SIDE CONVERSATION]
+[00:07:22.980 --> 00:07:26.480]   [SIDE CONVERSATION]
+[00:07:27.480 --> 00:07:30.980]   [SIDE CONVERSATION]
+[00:07:30.980 --> 00:07:34.480]   [SIDE CONVERSATION]
+[00:07:34.480 --> 00:07:44.480]   [SIDE CONVERSATION]
+[00:07:44.480 --> 00:07:54.480]   [SIDE CONVERSATION]
+[00:07:54.480 --> 00:07:57.980]   [SIDE CONVERSATION]
+[00:07:57.980 --> 00:08:07.980]   [SIDE CONVERSATION]
+[00:08:07.980 --> 00:08:19.980]   [SIDE CONVERSATION]
+[00:08:19.980 --> 00:08:23.480]   [SIDE CONVERSATION]
+[00:08:23.480 --> 00:08:33.480]   [SIDE CONVERSATION]
+[00:08:33.480 --> 00:08:43.480]   [SIDE CONVERSATION]
+[00:08:43.480 --> 00:08:46.980]   [SIDE CONVERSATION]
+[00:08:46.980 --> 00:09:00.980]   [SIDE CONVERSATION]
+[00:09:00.980 --> 00:09:04.480]   [SIDE CONVERSATION]
+[00:09:04.480 --> 00:09:18.480]   [SIDE CONVERSATION]
+[00:09:18.480 --> 00:09:21.980]   [SIDE CONVERSATION]
+[00:09:21.980 --> 00:09:35.980]   [SIDE CONVERSATION]
+[00:09:36.980 --> 00:09:40.480]   [SIDE CONVERSATION]
+[00:09:40.480 --> 00:09:54.480]   [SIDE CONVERSATION]
+[00:09:54.480 --> 00:09:57.980]   [SIDE CONVERSATION]
+[00:09:57.980 --> 00:10:11.980]   [SIDE CONVERSATION]
+[00:10:11.980 --> 00:10:15.480]   [SIDE CONVERSATION]
+[00:10:15.480 --> 00:10:39.480]   [SIDE CONVERSATION]
+[00:10:40.480 --> 00:10:43.980]   [SIDE CONVERSATION]
+[00:10:43.980 --> 00:10:55.980]   [SIDE CONVERSATION]
+[00:10:55.980 --> 00:10:59.480]   [SIDE CONVERSATION]
+[00:10:59.480 --> 00:11:13.480]   [SIDE CONVERSATION]
+[00:11:13.480 --> 00:11:16.980]   [SIDE CONVERSATION]
+[00:11:16.980 --> 00:11:32.980]   [SIDE CONVERSATION]
+[00:11:32.980 --> 00:11:36.480]   [SIDE CONVERSATION]
+[00:11:36.480 --> 00:11:56.480]   [SIDE CONVERSATION]
+[00:11:56.480 --> 00:11:59.980]   [SIDE CONVERSATION]
+[00:12:00.980 --> 00:12:04.480]   [SIDE CONVERSATION]
+[00:12:05.480 --> 00:12:08.980]   [SIDE CONVERSATION]
+[00:12:31.480 --> 00:12:34.980]   [SIDE CONVERSATION]
+[00:12:35.980 --> 00:12:39.480]   [SIDE CONVERSATION]
+[00:12:40.480 --> 00:12:43.980]   [SIDE CONVERSATION]
+[00:12:43.980 --> 00:12:47.480]   [SIDE CONVERSATION]
+[00:12:48.480 --> 00:12:51.980]   [SIDE CONVERSATION]
+[00:12:52.980 --> 00:12:56.480]   [SIDE CONVERSATION]
+[00:13:20.980 --> 00:13:24.480]   [SIDE CONVERSATION]
+[00:13:25.480 --> 00:13:28.980]   [SIDE CONVERSATION]
+[00:13:29.980 --> 00:13:33.480]   [SIDE CONVERSATION]
+[00:13:34.480 --> 00:13:37.980]   [SIDE CONVERSATION]
+[00:13:37.980 --> 00:13:41.480]   [SIDE CONVERSATION]
+[00:13:42.480 --> 00:13:45.980]   [SIDE CONVERSATION]
+[00:13:46.980 --> 00:13:50.480]   [SIDE CONVERSATION]
+[00:13:50.480 --> 00:13:53.980]   [SIDE CONVERSATION]
+[00:13:54.980 --> 00:13:58.480]   [SIDE CONVERSATION]
+[00:13:59.480 --> 00:14:02.980]   [SIDE CONVERSATION]
+[00:14:02.980 --> 00:14:06.480]   [SIDE CONVERSATION]
+[00:14:07.480 --> 00:14:10.980]   [SIDE CONVERSATION]
+[00:14:10.980 --> 00:14:14.480]   [MUSIC PLAYING]
+[00:14:39.980 --> 00:14:41.060]   Good morning, church family.
+[00:14:41.060 --> 00:14:41.820]   Happy Lord's Day.
+[00:14:41.820 --> 00:14:43.820]   I hope all of you had a good week in the Lord.
+[00:14:43.820 --> 00:14:49.260]   As we sing this first song, our church
+[00:14:49.260 --> 00:14:54.260]   tries to really convey a high view of God and who He is.
+[00:14:54.260 --> 00:14:56.300]   As we sing "Wonderful Maker," we're
+[00:14:56.300 --> 00:14:59.300]   going to start off by singing about His creation,
+[00:14:59.300 --> 00:15:02.420]   about who He is as the Creator, that He is our God,
+[00:15:02.420 --> 00:15:04.740]   that He's worthy to be praised.
+[00:15:04.740 --> 00:15:06.280]   So as we sing these songs, I pray
+[00:15:06.280 --> 00:15:11.860]   that we reflect on who God is and how we approach Him,
+[00:15:11.860 --> 00:15:14.500]   that we come with reverence, honoring His name
+[00:15:14.500 --> 00:15:16.380]   in everything that we do.
+[00:15:16.380 --> 00:15:19.860]   [MUSIC - "WONDERFUL MAKER"]
+[00:15:19.860 --> 00:15:30.860]   You spread out the skies over empty space,
+[00:15:30.860 --> 00:15:36.220]   sent the fairy light to a dark and formless world.
+[00:15:36.220 --> 00:15:37.700]   Your light was born.
+[00:15:37.700 --> 00:15:49.540]   You spread out your arms over empty hearts,
+[00:15:49.540 --> 00:15:54.860]   sent the fairy light to a dark and hopeless world.
+[00:15:54.860 --> 00:15:56.740]   Your sun was born.
+[00:16:01.900 --> 00:16:08.140]   You made the world and saw that it was good.
+[00:16:08.140 --> 00:16:12.100]   You said, your only son, for you are good.
+[00:16:12.100 --> 00:16:17.620]   What a wonderful maker.
+[00:16:17.620 --> 00:16:23.780]   What a wonderful Savior.
+[00:16:23.780 --> 00:16:30.100]   How majestic your whisper.
+[00:16:30.100 --> 00:16:31.100]   How humble your love.
+[00:16:31.100 --> 00:16:32.100]   With a strength like no other.
+[00:16:32.100 --> 00:16:33.100]   And the heart of a father.
+[00:16:33.100 --> 00:16:34.100]   How majestic your whisper.
+[00:16:34.100 --> 00:16:35.100]   What a wonderful maker.
+[00:16:35.100 --> 00:16:36.100]   What a wonderful Savior.
+[00:16:36.100 --> 00:16:37.100]   How humble your love.
+[00:16:37.100 --> 00:16:38.100]   With a strength like no other.
+[00:16:38.100 --> 00:16:39.100]   And the heart of a father.
+[00:16:39.100 --> 00:16:40.100]   How majestic your whisper.
+[00:16:40.100 --> 00:16:41.100]   What a wonderful maker.
+[00:16:41.100 --> 00:16:42.100]   What a wonderful Savior.
+[00:16:42.100 --> 00:16:43.100]   How humble your love.
+[00:16:43.100 --> 00:16:44.100]   With a strength like no other.
+[00:16:44.100 --> 00:16:45.100]   And the heart of a father.
+[00:16:45.100 --> 00:16:46.100]   How majestic your whisper.
+[00:16:46.100 --> 00:16:47.100]   What a wonderful maker.
+[00:16:47.100 --> 00:16:48.100]   What a wonderful Savior.
+[00:16:48.100 --> 00:16:49.100]   How humble your love.
+[00:16:49.100 --> 00:16:50.100]   With a strength like no other.
+[00:16:50.100 --> 00:16:51.100]   And the heart of a father.
+[00:16:51.100 --> 00:16:52.100]   How majestic your whisper.
+[00:16:52.100 --> 00:16:53.100]   What a wonderful maker.
+[00:16:53.100 --> 00:16:54.100]   What a wonderful Savior.
+[00:16:54.100 --> 00:16:55.100]   How humble your love.
+[00:16:55.100 --> 00:16:56.100]   With a strength like no other.
+[00:16:56.100 --> 00:16:57.100]   And the heart of a father.
+[00:16:57.100 --> 00:16:58.100]   How majestic your whisper.
+[00:16:58.100 --> 00:16:59.100]   What a wonderful Savior.
+[00:16:59.100 --> 00:17:00.100]   How humble your love.
+[00:17:00.100 --> 00:17:01.100]   With a strength like no other.
+[00:17:01.100 --> 00:17:02.100]   And the heart of a father.
+[00:17:02.100 --> 00:17:03.100]   How majestic your whisper.
+[00:17:03.100 --> 00:17:04.100]   What a wonderful Savior.
+[00:17:04.100 --> 00:17:05.100]   How humble your love.
+[00:17:05.100 --> 00:17:06.100]   With a strength like no other.
+[00:17:06.100 --> 00:17:07.100]   And the heart of a father.
+[00:17:07.100 --> 00:17:08.100]   How humble your love.
+[00:17:08.100 --> 00:17:09.100]   With a strength like no other.
+[00:17:09.100 --> 00:17:10.100]   And the heart of a father.
+[00:17:10.100 --> 00:17:11.100]   How humble your love.
+[00:17:11.100 --> 00:17:12.100]   With a strength like no other.
+[00:17:12.100 --> 00:17:13.100]   And the heart of a father.
+[00:17:13.100 --> 00:17:14.100]   How humble your love.
+[00:17:14.100 --> 00:17:15.100]   With a strength like no other.
+[00:17:15.100 --> 00:17:16.100]   And the heart of a father.
+[00:17:16.100 --> 00:17:17.100]   How humble your love.
+[00:17:17.100 --> 00:17:18.100]   With a strength like no other.
+[00:17:18.100 --> 00:17:19.100]   And the heart of a father.
+[00:17:19.100 --> 00:17:20.100]   How humble your love.
+[00:17:20.100 --> 00:17:21.100]   With a strength like no other.
+[00:17:21.100 --> 00:17:22.100]   And the heart of a father.
+[00:17:22.100 --> 00:17:23.100]   How humble your love.
+[00:17:23.100 --> 00:17:24.100]   With a strength like no other.
+[00:17:24.100 --> 00:17:25.100]   And the heart of a father.
+[00:17:25.100 --> 00:17:26.100]   How humble your love.
+[00:17:26.100 --> 00:17:27.100]   With a strength like no other.
+[00:17:27.100 --> 00:17:28.100]   And the heart of a father.
+[00:17:28.100 --> 00:17:29.100]   How humble your love.
+[00:17:29.100 --> 00:17:30.100]   With a strength like no other.
+[00:17:30.100 --> 00:17:31.100]   And the heart of a father.
+[00:17:31.100 --> 00:17:32.100]   How humble your love.
+[00:17:32.100 --> 00:17:33.100]   With a strength like no other.
+[00:17:33.100 --> 00:17:34.100]   And the heart of a father.
+[00:17:34.100 --> 00:17:35.100]   How humble your love.
+[00:17:35.100 --> 00:17:36.100]   With a strength like no other.
+[00:17:36.100 --> 00:17:37.100]   And the heart of a father.
+[00:17:37.100 --> 00:17:38.100]   How humble your love.
+[00:17:38.100 --> 00:17:39.100]   With a strength like no other.
+[00:17:39.100 --> 00:17:40.100]   And the heart of a father.
+[00:17:40.100 --> 00:17:41.100]   How humble your love.
+[00:17:41.100 --> 00:17:42.100]   With a strength like no other.
+[00:17:42.100 --> 00:17:43.100]   And the heart of a father.
+[00:17:43.100 --> 00:17:44.100]   How humble your love.
+[00:17:44.100 --> 00:17:45.100]   With a strength like no other.
+[00:17:45.100 --> 00:17:46.100]   And the heart of a father.
+[00:17:46.100 --> 00:17:47.100]   How humble your love.
+[00:17:47.100 --> 00:17:48.100]   With a strength like no other.
+[00:17:48.100 --> 00:17:49.100]   And the heart of a father.
+[00:17:49.100 --> 00:17:50.100]   How humble your love.
+[00:17:50.100 --> 00:17:51.100]   With a strength like no other.
+[00:17:51.100 --> 00:17:52.100]   And the heart of a father.
+[00:17:52.100 --> 00:17:53.100]   How humble your love.
+[00:17:53.100 --> 00:17:54.100]   With a strength like no other.
+[00:17:54.100 --> 00:17:55.100]   And the heart of a father.
+[00:17:55.100 --> 00:17:56.100]   How humble your love.
+[00:17:56.100 --> 00:17:57.100]   With a strength like no other.
+[00:17:57.100 --> 00:17:58.100]   And the heart of a father.
+[00:17:58.100 --> 00:17:59.100]   How humble your love.
+[00:17:59.100 --> 00:18:00.100]   With a strength like no other.
+[00:18:00.100 --> 00:18:01.100]   And the heart of a father.
+[00:18:01.100 --> 00:18:02.100]   How humble your love.
+[00:18:02.100 --> 00:18:03.100]   With a strength like no other.
+[00:18:03.100 --> 00:18:04.100]   And the heart of a father.
+[00:18:04.100 --> 00:18:05.100]   How humble your love.
+[00:18:05.100 --> 00:18:06.100]   With a strength like no other.
+[00:18:06.100 --> 00:18:07.100]   And the heart of a father.
+[00:18:07.100 --> 00:18:08.100]   How humble your love.
+[00:18:08.100 --> 00:18:09.100]   With a strength like no other.
+[00:18:09.100 --> 00:18:10.100]   And the heart of a father.
+[00:18:10.100 --> 00:18:11.100]   How humble your love.
+[00:18:11.100 --> 00:18:12.100]   With a strength like no other.
+[00:18:12.100 --> 00:18:13.100]   And the heart of a father.
+[00:18:13.100 --> 00:18:14.100]   How humble your love.
+[00:18:14.100 --> 00:18:15.100]   With a strength like no other.
+[00:18:15.100 --> 00:18:16.100]   And the heart of a father.
+[00:18:17.100 --> 00:18:22.100]   How humble your love.
+[00:18:22.100 --> 00:18:29.100]   With a strength like no other.
+[00:18:29.100 --> 00:18:35.100]   And the heart of a father.
+[00:18:35.100 --> 00:18:42.100]   How majestic your whisper.
+[00:18:42.100 --> 00:18:51.100]   What a wonderful God.
+[00:18:51.100 --> 00:19:02.100]   With a strength like no other.
+[00:19:02.100 --> 00:19:13.100]   And the heart of a father.
+[00:19:13.100 --> 00:19:20.100]   How majestic your whisper.
+[00:19:20.100 --> 00:19:21.100]   What a wonderful God.
+[00:19:21.100 --> 00:19:22.100]   Good morning everyone.
+[00:19:22.100 --> 00:19:23.100]   I want to welcome you into this morning's service.
+[00:19:23.100 --> 00:19:28.100]   For those of you who are brand new to the church, I want to extend a warm welcome to you.
+[00:19:28.100 --> 00:19:33.100]   Please stop by our welcome booth which is stationed right in the parking lot as you
+[00:19:33.100 --> 00:19:34.100]   enter.
+[00:19:34.100 --> 00:19:38.100]   We'd love to meet you and then if you leave your phone number, it will give you updates
+[00:19:38.100 --> 00:19:42.100]   about the things that are happening at church and answer just any questions that you may
+[00:19:42.100 --> 00:19:43.100]   have about what's going on.
+[00:19:43.100 --> 00:19:46.100]   So again, if you're new, please do stop by the booth.
+[00:19:46.100 --> 00:19:49.100]   I want to highlight just a couple announcements for us this morning.
+[00:19:49.100 --> 00:19:55.100]   The first is that we are going to be having communion observed on June 6th on Sunday.
+[00:19:55.100 --> 00:19:59.100]   And so please take extra time to prepare your hearts.
+[00:19:59.100 --> 00:20:04.100]   Take time to pray in remembrance of what Christ has done, to confess any sins that you may
+[00:20:04.100 --> 00:20:08.100]   have, but also just in great hope and eagerness for Christ's return.
+[00:20:08.100 --> 00:20:12.100]   So please just take extra time to prepare yourself for that.
+[00:20:12.100 --> 00:20:17.100]   I would like to also highlight, as you know, we have fundraising happening for our India
+[00:20:17.100 --> 00:20:21.100]   pastors and the missions that are happening there.
+[00:20:21.100 --> 00:20:27.100]   So, we have our service auction and tomorrow happens to be the last day to volunteer your
+[00:20:27.100 --> 00:20:28.100]   services.
+[00:20:28.100 --> 00:20:33.100]   So, we've mentioned that it could be certain goods, it could be certain, sometimes people
+[00:20:33.100 --> 00:20:37.100]   even do like little class, dinners, outings, etc.
+[00:20:37.100 --> 00:20:38.100]   And you can auction those off.
+[00:20:38.100 --> 00:20:43.100]   If you do have any questions, you can reach out to our sister Rachel Wong and her information
+[00:20:43.100 --> 00:20:47.100]   and email is there for you on the app or Facebook list.
+[00:20:47.100 --> 00:20:51.100]   We'd like to also highlight a sign up for our family ministry community groups.
+[00:20:51.100 --> 00:20:53.100]   So, today is the last day to sign up for that.
+[00:20:53.100 --> 00:20:59.100]   And we'd like to encourage anybody who is in the family ministry to sign up for fellowship.
+[00:20:59.100 --> 00:21:03.100]   It's going to take place three times, July, September, and November.
+[00:21:03.100 --> 00:21:06.100]   And once those groups are made, there's going to be communication in terms of setting the
+[00:21:06.100 --> 00:21:08.100]   time to meet, etc.
+[00:21:08.100 --> 00:21:12.100]   So, information again for the sign up is there, but we want people to have the opportunity
+[00:21:12.100 --> 00:21:16.100]   to participate in just the important aspect of getting to know each other and fellowship
+[00:21:16.100 --> 00:21:18.100]   being in that way.
+[00:21:18.100 --> 00:21:22.100]   The last announcement is for the all church retreat.
+[00:21:22.100 --> 00:21:29.100]   We do want to try and see earlier on how many people we're going to have signed up because
+[00:21:29.100 --> 00:21:32.100]   we will have to coordinate, establish rooming, and all that kind of stuff.
+[00:21:32.100 --> 00:21:37.100]   But just as a reminder, the topic is going to be about biblical conflict reconciliation,
+[00:21:37.100 --> 00:21:40.100]   which is applicable to everybody, okay?
+[00:21:40.100 --> 00:21:44.100]   Because we always have some conflict in the various relationships of our lives.
+[00:21:44.100 --> 00:21:50.100]   And Dr. John Street is going to be talking about what it means to have genuine repentance,
+[00:21:50.100 --> 00:21:55.100]   what it means for there to be exchange of forgiveness, and to have that thorough reconciliation
+[00:21:55.100 --> 00:21:57.100]   between two parties, and more.
+[00:21:57.100 --> 00:22:00.100]   So, please make sure you sign up for that early.
+[00:22:00.100 --> 00:22:05.100]   If you do have any questions, we have an email, family@bereancc.com, that you can message
+[00:22:05.100 --> 00:22:07.100]   for any questions you may have.
+[00:22:07.100 --> 00:22:09.100]   Okay, let's take a moment.
+[00:22:09.100 --> 00:22:15.100]   We'll go into prayer and then give you a short time to send your offering via the Venmo.
+[00:22:15.100 --> 00:22:20.100]   Or again, right at the center back, we have a box that says offering where you can submit
+[00:22:20.100 --> 00:22:21.100]   your physical checks.
+[00:22:21.100 --> 00:22:23.100]   Let's take a moment to pray.
+[00:22:23.100 --> 00:22:27.100]   Our Father, we are so grateful to you.
+[00:22:27.100 --> 00:22:32.100]   God, we recognize the privilege we have to come worship you.
+[00:22:32.100 --> 00:22:37.100]   We recognize the grace we receive and the love that we receive knowing, you know, all
+[00:22:37.100 --> 00:22:39.100]   that we have, God, we do not deserve.
+[00:22:39.100 --> 00:22:45.100]   But what's more, we receive it from you, the Lord, who truly is above and transcends all
+[00:22:45.100 --> 00:22:46.100]   things.
+[00:22:46.100 --> 00:22:50.100]   And so to recognize truly, God, how far you condescend to us.
+[00:22:50.100 --> 00:22:52.100]   We can do no other than thank you.
+[00:22:52.100 --> 00:22:58.100]   And we pray that as we gather our hearts now to just render to you our consideration, our
+[00:22:58.100 --> 00:23:06.100]   thought, to give to you our ears open to hear your word, as we also give of our finances,
+[00:23:06.100 --> 00:23:11.100]   we pray, Lord, the expression of our devotion to you and gratitude will be pleasing in your
+[00:23:11.100 --> 00:23:12.100]   sight.
+[00:23:12.100 --> 00:23:16.100]   And we pray, Father God, that for the offering, all that we do give, we pray, God, that you
+[00:23:16.100 --> 00:23:20.100]   would use it to glorify yourself and further your gospel ministry.
+[00:23:20.100 --> 00:23:22.100]   We thank you, Lord, it's in Christ.
+[00:23:22.100 --> 00:23:23.100]   Let me pray.
+[00:23:23.100 --> 00:23:24.100]   Amen.
+[00:23:24.100 --> 00:23:35.100]   [Music]
+[00:23:36.100 --> 00:23:44.100]   [Music]
+[00:23:45.100 --> 00:23:53.100]   [Music]
+[00:23:53.100 --> 00:24:04.100]   [Music]
+[00:24:07.100 --> 00:24:17.100]   [Music]
+[00:24:17.100 --> 00:24:21.100]   Church family, let's all rise together as we sing.
+[00:24:21.100 --> 00:24:27.100]   [Music]
+[00:24:27.100 --> 00:24:34.100]   Great are you, Lord, mighty in strength.
+[00:24:34.100 --> 00:24:41.100]   You are faithful and you will ever be.
+[00:24:41.100 --> 00:24:48.100]   We will praise you all of our days.
+[00:24:48.100 --> 00:24:54.100]   As for your glory, we offer everything.
+[00:24:54.100 --> 00:24:57.100]   Raise your hands, all you nations.
+[00:24:57.100 --> 00:25:01.100]   Shout to God, all creation.
+[00:25:01.100 --> 00:25:06.100]   How awesome is our Lord most high.
+[00:25:06.100 --> 00:25:16.100]   Where you send us, God, we will go.
+[00:25:16.100 --> 00:25:23.100]   You're the answer we want the world to know.
+[00:25:23.100 --> 00:25:31.100]   We will trust you when you call our name.
+[00:25:31.100 --> 00:25:36.100]   Where you lead us, we'll follow all the way.
+[00:25:36.100 --> 00:25:40.100]   Raise your hands, all you nations.
+[00:25:40.100 --> 00:25:44.100]   Shout to God, all creation.
+[00:25:44.100 --> 00:25:48.100]   How awesome is our Lord most high.
+[00:25:48.100 --> 00:25:57.100]   We will praise you together for now and forever.
+[00:25:57.100 --> 00:26:02.100]   How awesome is our Lord most high.
+[00:26:02.100 --> 00:26:04.100]   Sing it out, hallelujah.
+[00:26:04.100 --> 00:26:08.100]   Hallelujah.
+[00:26:08.100 --> 00:26:11.100]   Hallelujah.
+[00:26:11.100 --> 00:26:16.100]   How awesome is our Lord most high.
+[00:26:16.100 --> 00:26:19.100]   Hallelujah.
+[00:26:19.100 --> 00:26:22.100]   Hallelujah.
+[00:26:22.100 --> 00:26:25.100]   Hallelujah.
+[00:26:25.100 --> 00:26:30.100]   How awesome is our Lord most high.
+[00:26:30.100 --> 00:26:32.100]   Sing it.
+[00:26:32.100 --> 00:26:36.100]   Raise your hands, all you nations.
+[00:26:36.100 --> 00:26:40.100]   Shout to God, all creation.
+[00:26:40.100 --> 00:26:45.100]   How awesome is our Lord most high.
+[00:26:45.100 --> 00:26:47.100]   We will praise.
+[00:26:47.100 --> 00:26:54.100]   We will praise you together for now and forever.
+[00:26:54.100 --> 00:26:58.100]   How awesome is the Lord most high.
+[00:26:58.100 --> 00:27:01.100]   We'll praise one more time.
+[00:27:01.100 --> 00:27:08.100]   We will praise you together for now and forever.
+[00:27:08.100 --> 00:27:13.100]   How awesome is the Lord most high.
+[00:27:13.100 --> 00:27:16.100]   How awesome is the Lord most high.
+[00:27:16.100 --> 00:27:19.100]   How awesome is the Lord most high.
+[00:27:19.100 --> 00:27:21.100]   How awesome is the Lord most high.
+[00:27:21.100 --> 00:27:24.100]   How awesome is the Lord most high.
+[00:27:24.100 --> 00:27:27.100]   How awesome is the Lord most high.
+[00:27:27.100 --> 00:27:30.100]   How awesome is the Lord most high.
+[00:27:30.100 --> 00:27:33.100]   How awesome is the Lord most high.
+[00:27:33.100 --> 00:27:36.100]   How awesome is the Lord most high.
+[00:27:36.100 --> 00:27:39.100]   How awesome is the Lord most high.
+[00:27:39.100 --> 00:27:46.100]   Worthy of every song we could ever sing.
+[00:27:46.100 --> 00:27:53.100]   Worthy of all the praise we could ever bring.
+[00:27:53.100 --> 00:27:58.100]   Worthy of every breath we could ever breathe.
+[00:27:58.100 --> 00:28:03.100]   We live for you.
+[00:28:03.100 --> 00:28:07.100]   Jesus.
+[00:28:07.100 --> 00:28:14.100]   Jesus the name above every other name.
+[00:28:14.100 --> 00:28:21.100]   Jesus the only one who could ever sing.
+[00:28:21.100 --> 00:28:26.100]   Worthy of every breath we could ever breathe.
+[00:28:26.100 --> 00:28:28.100]   We live for you.
+[00:28:28.100 --> 00:28:33.100]   Oh, we live for you.
+[00:28:33.100 --> 00:28:38.100]   Holy, there is no one like you.
+[00:28:38.100 --> 00:28:42.100]   There is none beside you.
+[00:28:42.100 --> 00:28:47.100]   Open up my eyes in wonder.
+[00:28:47.100 --> 00:28:54.100]   Show me who you are and fill me with your heart.
+[00:28:54.100 --> 00:29:01.100]   And lead me in your love to those around me.
+[00:29:01.100 --> 00:29:12.100]   One more time.
+[00:29:12.100 --> 00:29:17.100]   Worthy of every breath we could ever breathe.
+[00:29:17.100 --> 00:29:23.100]   Worthy of every song we could ever sing.
+[00:29:23.100 --> 00:29:30.100]   Worthy of all the praise we could ever bring.
+[00:29:30.100 --> 00:29:34.100]   Worthy of every breath we could ever breathe.
+[00:29:34.100 --> 00:29:39.100]   We live for you.
+[00:29:39.100 --> 00:29:44.100]   Jesus the name above.
+[00:29:44.100 --> 00:29:50.100]   Jesus the name above every other name.
+[00:29:50.100 --> 00:29:57.100]   Jesus the only one who could ever sing.
+[00:29:57.100 --> 00:30:02.100]   Worthy of every breath we could ever breathe.
+[00:30:02.100 --> 00:30:04.100]   We live for you.
+[00:30:04.100 --> 00:30:09.100]   Oh, we live for you.
+[00:30:09.100 --> 00:30:15.100]   Holy, there is no one like you.
+[00:30:15.100 --> 00:30:18.100]   There is none beside you.
+[00:30:18.100 --> 00:30:23.100]   Open up my eyes in wonder.
+[00:30:23.100 --> 00:30:30.100]   Show me who you are and fill me with your heart.
+[00:30:30.100 --> 00:30:37.100]   And lead me in your love to those around me.
+[00:30:37.100 --> 00:30:48.100]   [MUSIC - "I WILL BUILD MY LIFE"]
+[00:30:48.100 --> 00:30:51.100]   I will build my life.
+[00:30:51.100 --> 00:30:58.100]   I will build my life upon your love.
+[00:30:58.100 --> 00:31:04.100]   It is a firm foundation.
+[00:31:04.100 --> 00:31:12.100]   I will put my trust in you alone.
+[00:31:12.100 --> 00:31:18.100]   And I will not be shaken.
+[00:31:18.100 --> 00:31:26.100]   I will build my life upon your love.
+[00:31:26.100 --> 00:31:32.100]   It is a firm foundation.
+[00:31:32.100 --> 00:31:40.100]   I will put my trust in you alone.
+[00:31:40.100 --> 00:31:46.100]   And I will not be shaken.
+[00:31:46.100 --> 00:31:51.100]   Holy, there is no one like you.
+[00:31:51.100 --> 00:31:54.100]   There is none beside you.
+[00:31:54.100 --> 00:31:59.100]   Open up my eyes in wonder.
+[00:31:59.100 --> 00:32:06.100]   Show me who you are and fill me with your heart.
+[00:32:06.100 --> 00:32:13.100]   And lead me in your love to those around me.
+[00:32:13.100 --> 00:32:18.100]   Holy, there is no one like you.
+[00:32:18.100 --> 00:32:22.100]   There is none beside you.
+[00:32:22.100 --> 00:32:27.100]   Open up my eyes in wonder.
+[00:32:27.100 --> 00:32:34.100]   Show me who you are and fill me with your heart.
+[00:32:34.100 --> 00:32:40.100]   And lead me in your love to those around me.
+[00:32:41.100 --> 00:32:46.100]   [MUSIC - "I WILL BUILD MY LIFE"]
+[00:32:46.100 --> 00:32:47.100]   And you may be seated.
+[00:32:47.100 --> 00:33:02.600]   OK.
+[00:33:02.600 --> 00:33:07.100]   Good morning, everybody.
+[00:33:07.100 --> 00:33:12.100]   Let's take our Bibles and turn over to Matthew, chapter 23.
+[00:33:12.100 --> 00:33:17.100]   What a great and powerful song for us to sing to God.
+[00:33:17.100 --> 00:33:21.100]   And keep those chorus words in mind.
+[00:33:21.100 --> 00:33:22.100]   He's holy.
+[00:33:22.100 --> 00:33:24.100]   There's no one else like him.
+[00:33:24.100 --> 00:33:29.100]   And if there is no one else like him,
+[00:33:29.100 --> 00:33:31.100]   our entire life's struggle is to make sure
+[00:33:31.100 --> 00:33:35.100]   that we build our life on nothing else but besides him.
+[00:33:35.100 --> 00:33:37.100]   Amen?
+[00:33:37.100 --> 00:33:40.100]   Now, as we turn our Bibles to Matthew, chapter 23,
+[00:33:40.100 --> 00:33:43.100]   just want to, as a heads up, we've
+[00:33:43.100 --> 00:33:46.100]   had an amazing walk through Hebrews.
+[00:33:46.100 --> 00:33:48.100]   And so we're going to be changing tone
+[00:33:48.100 --> 00:33:51.100]   to a passage later in the Gospel of Matthew.
+[00:33:51.100 --> 00:33:53.100]   And the tone's going to be really different.
+[00:33:53.100 --> 00:33:57.100]   We had five-part sermon on what it really
+[00:33:57.100 --> 00:34:00.100]   means to walk with perseverance, looking up
+[00:34:00.100 --> 00:34:04.100]   and forward, et cetera, and looking to Christ
+[00:34:04.100 --> 00:34:06.100]   and thinking about his love.
+[00:34:06.100 --> 00:34:10.100]   The tone of this passage, it's drastically different.
+[00:34:10.100 --> 00:34:15.100]   The scenario is that as Jesus is walking towards the cross,
+[00:34:15.100 --> 00:34:18.100]   the religious leaders at the time,
+[00:34:18.100 --> 00:34:20.100]   they constantly challenge him.
+[00:34:20.100 --> 00:34:23.100]   They desire to trap him.
+[00:34:23.100 --> 00:34:27.100]   And then they throw at him a barrage of attacks.
+[00:34:27.100 --> 00:34:31.100]   And in the midst of that, Jesus exhibits himself
+[00:34:31.100 --> 00:34:34.100]   as such an authority, people are astounded,
+[00:34:34.100 --> 00:34:38.100]   and they're put into a place where they dare not
+[00:34:38.100 --> 00:34:40.100]   ask him any more questions.
+[00:34:40.100 --> 00:34:45.100]   And as the tables turn, Jesus pummels them,
+[00:34:45.100 --> 00:34:48.100]   the religious leaders, into the ground.
+[00:34:48.100 --> 00:34:53.100]   And so the tone of this passage is severe.
+[00:34:53.100 --> 00:34:55.100]   Let's take a moment to read.
+[00:34:55.100 --> 00:34:58.100]   We're reading in Matthew chapter 23, verses 1 through 12,
+[00:34:58.100 --> 00:35:01.100]   and it says, "Then Jesus spoke to the crowds
+[00:35:01.100 --> 00:35:04.100]   and to his disciples, saying, 'The scribes and the Pharisees
+[00:35:04.100 --> 00:35:07.100]   have seated themselves in the chair of Moses.
+[00:35:07.100 --> 00:35:10.100]   Therefore, all that they tell you to do,
+[00:35:10.100 --> 00:35:13.100]   I'll tell you, do and observe, but do not do according
+[00:35:13.100 --> 00:35:17.100]   to their deeds, for they say things and do not do them.
+[00:35:17.100 --> 00:35:21.100]   They tie up heavy burdens and lay them on men's shoulders,
+[00:35:21.100 --> 00:35:24.100]   but they themselves are unwilling to move them
+[00:35:24.100 --> 00:35:26.100]   as much as a finger.
+[00:35:26.100 --> 00:35:29.100]   But they do all their deeds to be noticed by men,
+[00:35:29.100 --> 00:35:31.100]   for they broaden their phylacteries and lengthen
+[00:35:31.100 --> 00:35:33.100]   the tassels of their garments.
+[00:35:33.100 --> 00:35:36.100]   They love the place of honor at banquets and the chief seats
+[00:35:36.100 --> 00:35:40.100]   in the synagogues and respectful greetings in the marketplaces
+[00:35:40.100 --> 00:35:43.100]   and being called rabbi by men.
+[00:35:43.100 --> 00:35:46.100]   But do not be called rabbi, for one is your teacher,
+[00:35:46.100 --> 00:35:48.100]   and you are all brothers.
+[00:35:48.100 --> 00:35:50.100]   Do not call anyone on earth your father,
+[00:35:50.100 --> 00:35:53.100]   for one is your father, he who is in heaven.
+[00:35:53.100 --> 00:35:56.100]   Do not be called leaders, for one is your leader,
+[00:35:56.100 --> 00:35:58.100]   that is Christ.
+[00:35:58.100 --> 00:36:00.100]   But the greatest among you shall be your servant.
+[00:36:00.100 --> 00:36:03.100]   Whoever exalts himself shall be humbled,
+[00:36:03.100 --> 00:36:06.100]   and whoever humbles himself shall be exalted.'"
+[00:36:06.100 --> 00:36:09.100]   Let's take a moment to pray.
+[00:36:09.100 --> 00:36:13.100]   Heavenly Father, as we take a look at your word,
+[00:36:13.100 --> 00:36:17.100]   we pray that as we're looking at Jesus' rebuke
+[00:36:17.100 --> 00:36:20.100]   of the religious leaders of the time,
+[00:36:20.100 --> 00:36:23.100]   God, that you'd grant to us insight,
+[00:36:23.100 --> 00:36:25.100]   that you would grant to us humble hearts
+[00:36:25.100 --> 00:36:28.100]   and open ears to receive.
+[00:36:28.100 --> 00:36:32.100]   And as we sometimes hear the correction,
+[00:36:32.100 --> 00:36:35.100]   admonishment, and rebuke from the word,
+[00:36:35.100 --> 00:36:39.100]   I pray, Father God, that it would humble us
+[00:36:39.100 --> 00:36:42.100]   and mold us into the image of your Son.
+[00:36:42.100 --> 00:36:45.100]   And so we pray for blessing now as we study your word.
+[00:36:45.100 --> 00:36:48.100]   It's in Christ's name, amen.
+[00:36:48.100 --> 00:36:51.100]   Okay, so as we think about this passage,
+[00:36:51.100 --> 00:36:54.100]   Jesus, I just want you to imagine,
+[00:36:54.100 --> 00:36:56.100]   there has already been back and forth.
+[00:36:56.100 --> 00:36:59.100]   Like, "We got a question for you," you know?
+[00:36:59.100 --> 00:37:02.100]   "Is it proper to pay taxes?"
+[00:37:02.100 --> 00:37:04.100]   "We got a question for you.
+[00:37:04.100 --> 00:37:08.100]   If this guy, he dies, and then his wife marries a brother,
+[00:37:08.100 --> 00:37:11.100]   and then da-da-da-da-da, what's it gonna be in heaven?"
+[00:37:11.100 --> 00:37:14.100]   And there's lots of questions thrown at him.
+[00:37:14.100 --> 00:37:17.100]   So there's already a crowd watching and exhibiting
+[00:37:17.100 --> 00:37:19.100]   all that's going on between Jesus
+[00:37:19.100 --> 00:37:22.100]   and these Pharisees and scribes.
+[00:37:22.100 --> 00:37:26.100]   But what he does is he's actually first not talking to them.
+[00:37:26.100 --> 00:37:29.100]   He's talking to the crowd
+[00:37:29.100 --> 00:37:32.100]   and showing them what they need to see.
+[00:37:32.100 --> 00:37:34.100]   And what he does is he tells the crowd,
+[00:37:34.100 --> 00:37:37.100]   "Look at these Pharisees and scribes."
+[00:37:37.100 --> 00:37:41.100]   Now, for us in our day, when we think the word "Pharisee,"
+[00:37:41.100 --> 00:37:43.100]   it's like a derogatory term.
+[00:37:43.100 --> 00:37:46.100]   If I call one of you, like, "Man, you're such a Pharisee,"
+[00:37:46.100 --> 00:37:48.100]   you'd be like, "Oh, would you call me?
+[00:37:48.100 --> 00:37:50.100]   How dare you?"
+[00:37:50.100 --> 00:37:53.100]   Because to be a Pharisee in the Christian circles,
+[00:37:53.100 --> 00:37:57.100]   it's like you are the worst in the church.
+[00:37:57.100 --> 00:38:01.100]   You legalistic, self-righteous, pompous, blah, blah, blah, blah, blah, okay?
+[00:38:01.100 --> 00:38:05.100]   And so to call somebody a Pharisee would be a horrible thing.
+[00:38:05.100 --> 00:38:08.100]   And there's an interesting sentiment here,
+[00:38:08.100 --> 00:38:11.100]   because if you think about the scenario then,
+[00:38:11.100 --> 00:38:16.100]   you have to kind of put yourself in not the shoes of the scribe
+[00:38:16.100 --> 00:38:18.100]   or the Pharisee himself,
+[00:38:18.100 --> 00:38:20.100]   but maybe you first want to think about
+[00:38:20.100 --> 00:38:27.100]   if you were a good Jewish individual going to synagogue every week,
+[00:38:27.100 --> 00:38:30.100]   multiple times a week, doing the offerings,
+[00:38:30.100 --> 00:38:33.100]   sitting and listening to the sermons,
+[00:38:33.100 --> 00:38:36.100]   preaching a proclamation of the Old Testament,
+[00:38:36.100 --> 00:38:39.100]   you were at the feet of these religious leaders,
+[00:38:39.100 --> 00:38:42.100]   getting their guidance on how to set your life
+[00:38:42.100 --> 00:38:45.100]   and all the parameters that exist,
+[00:38:45.100 --> 00:38:49.100]   and then you just hear this onslaught, right?
+[00:38:49.100 --> 00:38:52.100]   And you would imagine then if you were in here,
+[00:38:52.100 --> 00:38:54.100]   and your whole life you were looking at these guys like,
+[00:38:54.100 --> 00:39:01.100]   "Yeah, I know I'm not like them, but these guys, they're holy," you know?
+[00:39:01.100 --> 00:39:05.100]   And then you see, you hear of this Jesus who's preaching with authority,
+[00:39:05.100 --> 00:39:10.100]   doing miracles, come in and just completely demolish them.
+[00:39:10.100 --> 00:39:14.100]   You would have a very eerie feeling, right?
+[00:39:14.100 --> 00:39:20.100]   But that eerie feeling would cause you to think, like, "Is it that bad?"
+[00:39:20.100 --> 00:39:23.100]   I know I see some of this, like I see their arrogance,
+[00:39:23.100 --> 00:39:26.100]   I see them walking around in the courtyards,
+[00:39:26.100 --> 00:39:30.100]   I see them walking around in the places of honor,
+[00:39:30.100 --> 00:39:34.100]   and I would wonder, like, how did they think about this?
+[00:39:34.100 --> 00:39:37.100]   Now, to simply ask the question, "Is it that bad?"
+[00:39:37.100 --> 00:39:40.100]   the answer is yes.
+[00:39:40.100 --> 00:39:46.100]   I want you to take a look at Matthew 23 and hear the onslaught.
+[00:39:46.100 --> 00:39:53.100]   Starting from verse 13, Jesus rebukes them in such severity,
+[00:39:53.100 --> 00:39:58.100]   we have to feel that extent of severity.
+[00:39:58.100 --> 00:40:02.100]   And what he says is, "Woe to you, scribes and Pharisees, you hypocrites,
+[00:40:02.100 --> 00:40:05.100]   because you shut off the kingdom of heaven from people.
+[00:40:05.100 --> 00:40:11.100]   You do not enter in yourselves, nor do you allow those who are entering to go in.
+[00:40:11.100 --> 00:40:15.100]   You bullies. You act like some kind of guides,
+[00:40:15.100 --> 00:40:21.100]   but in fact, you're just like bully bouncers, just standing outside."
+[00:40:21.100 --> 00:40:26.100]   What's more, verse 14, "Woe to you, scribes and Pharisees, hypocrites,
+[00:40:26.100 --> 00:40:29.100]   because you devour widows' houses,
+[00:40:29.100 --> 00:40:32.100]   and for pretense you make long prayers."
+[00:40:32.100 --> 00:40:36.100]   Yikes, I mean, you can be a bad guy,
+[00:40:36.100 --> 00:40:40.100]   but to take advantage and exploit widows, old ladies,
+[00:40:40.100 --> 00:40:43.100]   you're like the worst of the worst.
+[00:40:43.100 --> 00:40:46.100]   Verse 15, "Woe to you, scribes and Pharisees, hypocrites,
+[00:40:46.100 --> 00:40:49.100]   because you travel around sea and land, make one proselyte,
+[00:40:49.100 --> 00:40:55.100]   and when he becomes one, you make him twice as much a son of hell as you are."
+[00:40:55.100 --> 00:40:59.100]   Verse 16, "Woe to you, blind guides, who say,
+[00:40:59.100 --> 00:41:01.100]   'Whoever swears by the temple, it's nothing,
+[00:41:01.100 --> 00:41:05.100]   but whoever swears by the gold of the temple, it's obligated.'"
+[00:41:05.100 --> 00:41:08.100]   You fools, blind men.
+[00:41:08.100 --> 00:41:12.100]   Which is more important, the gold or the temple that sanctified the gold?
+[00:41:12.100 --> 00:41:16.100]   He's saying, "You're so blind, you have no idea what's priority.
+[00:41:16.100 --> 00:41:19.100]   You don't even know what's important. You don't know what's good, bad.
+[00:41:19.100 --> 00:41:22.100]   You don't know what's up here or down here."
+[00:41:22.100 --> 00:41:25.100]   That's severe. It just keeps going.
+[00:41:25.100 --> 00:41:29.100]   Verse 23, "Woe to you, scribes and Pharisees, you hypocrites.
+[00:41:29.100 --> 00:41:35.100]   You tie mint and dill and cumin and have neglected the weightier provisions of the law."
+[00:41:35.100 --> 00:41:39.100]   Verse 25, "Woe to you, scribes and Pharisees, you hypocrites,
+[00:41:39.100 --> 00:41:42.100]   for you clean the outside of the cup of the dish,
+[00:41:42.100 --> 00:41:47.100]   but inside you are full of robbery and self-indulgence."
+[00:41:47.100 --> 00:41:50.100]   I'm already getting winded going through these.
+[00:41:50.100 --> 00:41:53.100]   But you see, it just keeps going.
+[00:41:53.100 --> 00:41:58.100]   He calls them for their hypocrisy of looking nice on the outside,
+[00:41:58.100 --> 00:42:02.100]   but being so decayed and ugly on the inside.
+[00:42:02.100 --> 00:42:06.100]   Verse 29, "Woe to you, scribes and Pharisees, you hypocrites,
+[00:42:06.100 --> 00:42:09.100]   for you build the tombs of the prophets and adore the monuments of the righteous
+[00:42:09.100 --> 00:42:12.100]   and say, 'If we had been living in the days of our fathers,
+[00:42:12.100 --> 00:42:17.100]   we would not have been partners with them in the shedding the blood of the prophets.'"
+[00:42:17.100 --> 00:42:20.100]   What are they saying?
+[00:42:20.100 --> 00:42:25.100]   We're so much better than those old guys, we would have never done that.
+[00:42:25.100 --> 00:42:28.100]   They make monuments to the people before them, their forefathers,
+[00:42:28.100 --> 00:42:33.100]   and then they criticize them and put themselves above them.
+[00:42:33.100 --> 00:42:36.100]   You self-righteous, and it just keeps going.
+[00:42:36.100 --> 00:42:42.100]   Verse 33, "You serpents, you brood of vipers, how will you escape the sentence of hell?"
+[00:42:42.100 --> 00:42:46.100]   That is not a question, even though it has a question mark.
+[00:42:46.100 --> 00:42:49.100]   That's a statement, you will not.
+[00:42:49.100 --> 00:42:54.100]   You're going to be judged for all your hypocrisy, arrogance, and sin.
+[00:42:54.100 --> 00:42:59.100]   Wow, doesn't it make you feel eerie that it's that bad?
+[00:42:59.100 --> 00:43:04.100]   But I'm willing to bet some of you now feel like that about today's generation.
+[00:43:04.100 --> 00:43:08.100]   You have celebrity pastors going up and crashing down.
+[00:43:08.100 --> 00:43:13.100]   You have people who are world-renowned, filled with heinous sin on the inside,
+[00:43:13.100 --> 00:43:17.100]   when it looked so good on the outside.
+[00:43:17.100 --> 00:43:21.100]   It looked so polished. It looked so right.
+[00:43:21.100 --> 00:43:25.100]   Only to find that it was decay.
+[00:43:25.100 --> 00:43:28.100]   It was a farce. It was fake.
+[00:43:28.100 --> 00:43:31.100]   And these kind of disappointments make us feel like,
+[00:43:31.100 --> 00:43:39.100]   "Yeah, I can sympathize with this weird sentiment that the system around us is all messed up."
+[00:43:39.100 --> 00:43:42.100]   I didn't have better, more elaborate terms.
+[00:43:42.100 --> 00:43:45.100]   It just feels sometimes all messed up.
+[00:43:45.100 --> 00:43:49.100]   How are we to think about it then?
+[00:43:49.100 --> 00:43:56.100]   And so this is why as I prepared this sermon, I was like, "Man, this is intense."
+[00:43:56.100 --> 00:44:02.100]   This is surprising for some of us who are just like surprised by the intensity
+[00:44:02.100 --> 00:44:07.100]   and the severity and the sharp cutting edge of Jesus' words.
+[00:44:07.100 --> 00:44:09.100]   This has to be felt.
+[00:44:09.100 --> 00:44:14.100]   And then I thought, "You know what? I have to reflect Jesus' heart."
+[00:44:14.100 --> 00:44:17.100]   As Jesus is going to the cross, He loves His disciples.
+[00:44:17.100 --> 00:44:20.100]   So what does He do? He warns.
+[00:44:20.100 --> 00:44:25.100]   So purpose number one of this sermon, I'm not just trying to scare you with this passage.
+[00:44:25.100 --> 00:44:30.100]   I'm trying to do justice to what it's doing, which is it should appropriately warn you.
+[00:44:30.100 --> 00:44:40.100]   If you have been taught by modern day and age-old lies, everything is going to get better in time.
+[00:44:40.100 --> 00:44:42.100]   You and I, we can do this, you guys.
+[00:44:42.100 --> 00:44:47.100]   We could have a great, great future, and we're going to have great churches, great families, great government,
+[00:44:47.100 --> 00:44:51.100]   and it's going to be awesome.
+[00:44:51.100 --> 00:44:58.100]   God has already told you in the last days, there are going to be more mockers, more false preachers, more deception.
+[00:44:58.100 --> 00:45:01.100]   There's going to be people that will be haters of that which is good.
+[00:45:01.100 --> 00:45:07.100]   There's going to be conflict, and it's going to get worse.
+[00:45:07.100 --> 00:45:09.100]   I just want to warn you.
+[00:45:09.100 --> 00:45:18.100]   There are many those who are around us who are going to tell you falsehood and leave you bad examples.
+[00:45:18.100 --> 00:45:26.100]   1 John 4, verse 1 says, "Beloved, do not believe every spirit, but test the spirits to see whether they are from God.
+[00:45:26.100 --> 00:45:29.100]   Many," how many do you think is many?
+[00:45:29.100 --> 00:45:32.100]   "Many false prophets have gone out into the world.
+[00:45:32.100 --> 00:45:37.100]   As a pastor in this church, as a fellow brother, I want to warn you just as Jesus did,
+[00:45:37.100 --> 00:45:41.100]   beware of the yeast of the Pharisees."
+[00:45:41.100 --> 00:45:46.100]   The influence, the model, the teaching of the Pharisees, you have to be on the alert.
+[00:45:46.100 --> 00:45:54.100]   1 Peter 2, 1 through 3, it says, "False prophets also arose among the people."
+[00:45:54.100 --> 00:45:57.100]   Do you think you're safe because you're here?
+[00:45:57.100 --> 00:46:00.100]   Don't look at each other with suspicion.
+[00:46:00.100 --> 00:46:01.100]   But the Scriptures are clear.
+[00:46:01.100 --> 00:46:06.100]   In the broader community, is it like surprise?
+[00:46:06.100 --> 00:46:11.100]   Are you completely caught off guard if one who claims to be a Christian,
+[00:46:11.100 --> 00:46:16.100]   who says that they are the thought leaders, now that's a kind of coined term,
+[00:46:16.100 --> 00:46:23.100]   "I want to be a thought leader," now becomes something of an individual who produces what he or she says is,
+[00:46:23.100 --> 00:46:28.100]   "There are those among you, just as there will be false teachers among you,
+[00:46:28.100 --> 00:46:33.100]   who will secretly introduce destructive heresies, even denying the Master who bought them,
+[00:46:33.100 --> 00:46:35.100]   bringing swift destruction upon themselves.
+[00:46:35.100 --> 00:46:37.100]   Many will follow their sensuality.
+[00:46:37.100 --> 00:46:45.100]   Because of them, the way of the truth is malign, and in their greed they will exploit you with false words."
+[00:46:45.100 --> 00:46:51.100]   And I have this feeling right now in this generation, here in 2021,
+[00:46:51.100 --> 00:47:00.100]   there has been lots of people saying lots of stuff, and just as a brother, I have a worry.
+[00:47:00.100 --> 00:47:03.100]   I'm like, "Oh man, are people listening to all this trash?
+[00:47:03.100 --> 00:47:05.100]   Are you listening to nothing but news?
+[00:47:05.100 --> 00:47:08.100]   What's going on?"
+[00:47:08.100 --> 00:47:16.100]   But Scripture, knowing me, already ahead of the game, has given us this exhortation.
+[00:47:16.100 --> 00:47:20.100]   Can you, are you ready to test the spirits?
+[00:47:20.100 --> 00:47:21.100]   I give that challenge to you.
+[00:47:21.100 --> 00:47:23.100]   Can you tell the difference?
+[00:47:23.100 --> 00:47:27.100]   Are you able to appreciate that which is sound teaching from the Word of God
+[00:47:27.100 --> 00:47:30.100]   versus that which is just the opinion of man?
+[00:47:30.100 --> 00:47:33.100]   Are you able to tell the difference between that which is simply worldly wisdom
+[00:47:33.100 --> 00:47:40.100]   that has the hint of wisdom because it's still wisdom, but far from the wisdom of God?
+[00:47:40.100 --> 00:47:42.100]   Can you tell that difference?
+[00:47:42.100 --> 00:47:44.100]   That's purpose number one.
+[00:47:44.100 --> 00:47:50.100]   But purpose number two, obviously we have to watch our own lives very carefully
+[00:47:50.100 --> 00:47:58.100]   because although, yes, persecution, threats, it's out there, and it's going to come this way.
+[00:47:58.100 --> 00:48:01.100]   And it may be in here, as in just the community broadly,
+[00:48:01.100 --> 00:48:05.100]   that someone who claims to be Christian might teach you false things,
+[00:48:05.100 --> 00:48:08.100]   but the heart of the Pharisee could also be where?
+[00:48:08.100 --> 00:48:10.100]   Right here.
+[00:48:10.100 --> 00:48:14.100]   And I'm going to tell you right now, this sermon was so difficult for me to prepare,
+[00:48:14.100 --> 00:48:20.100]   and just as a heads up, because the passage is in a rebuking tone,
+[00:48:20.100 --> 00:48:24.100]   and Jesus just does a long list of the things that need to be corrected,
+[00:48:24.100 --> 00:48:27.100]   this sermon is a bit long, okay, everyone?
+[00:48:27.100 --> 00:48:30.100]   But we're game for it, right?
+[00:48:30.100 --> 00:48:34.100]   But, you know, as you can tell, I mean, I am a pastor in the church.
+[00:48:34.100 --> 00:48:36.100]   I'm a leader in the church.
+[00:48:36.100 --> 00:48:42.100]   Do I not see the subtleness of the heart of pride,
+[00:48:42.100 --> 00:48:45.100]   the heart of domineering control,
+[00:48:45.100 --> 00:48:49.100]   the heart of fake pretense?
+[00:48:49.100 --> 00:48:51.100]   These things exist.
+[00:48:51.100 --> 00:48:55.100]   You know what's really interesting about this is that the Pharisees originated with good intentions,
+[00:48:55.100 --> 00:48:58.100]   and they were great people.
+[00:48:58.100 --> 00:49:00.100]   Did you know that?
+[00:49:00.100 --> 00:49:04.100]   Now, you might be thinking, "What do you mean they're great people?"
+[00:49:04.100 --> 00:49:07.100]   In the human sense, they desired to be experts of the law.
+[00:49:07.100 --> 00:49:10.100]   That's why they're called scribes.
+[00:49:10.100 --> 00:49:14.100]   They were the professionals to expound the truth,
+[00:49:14.100 --> 00:49:18.100]   and the Pharisees were called the parousiam or the parousi,
+[00:49:18.100 --> 00:49:20.100]   which is the set-apart ones.
+[00:49:20.100 --> 00:49:22.100]   They were holy for God.
+[00:49:22.100 --> 00:49:27.100]   They began with intentions to be dedicated, consecrated for the purpose of God,
+[00:49:27.100 --> 00:49:31.100]   to serve Him, to lead the people, to be shepherds.
+[00:49:31.100 --> 00:49:34.100]   In a sense, then, they were great.
+[00:49:34.100 --> 00:49:37.100]   They were great people.
+[00:49:37.100 --> 00:49:42.100]   But as we know, that agenda and intention,
+[00:49:42.100 --> 00:49:47.100]   when fueled not by the Spirit but by what's simply here in the flesh,
+[00:49:47.100 --> 00:49:51.100]   will always be perverted, will always be exploited.
+[00:49:51.100 --> 00:49:56.100]   And so what I want to show you today is there are three aspects in Jesus' rebuke
+[00:49:56.100 --> 00:50:01.100]   where they have taken something great and made it so horrendous.
+[00:50:01.100 --> 00:50:05.100]   The Pharisees have gone from greatness to being the worst.
+[00:50:05.100 --> 00:50:09.100]   Originally, I entitled this sermon, "These are the worst people."
+[00:50:09.100 --> 00:50:12.100]   I just wrote, "Pharisees, the worst people," right?
+[00:50:12.100 --> 00:50:15.100]   But I recognize there is this interesting pattern
+[00:50:15.100 --> 00:50:20.100]   where even the good intentions we have, when met with the sin of pride,
+[00:50:20.100 --> 00:50:25.100]   pride, it will come out to be the worst product and fruit.
+[00:50:25.100 --> 00:50:31.100]   And so let me move to the very first point of how the Pharisees went from greatness to being the worst.
+[00:50:31.100 --> 00:50:33.100]   And this first point is this.
+[00:50:33.100 --> 00:50:40.100]   Point one, they carried the authority of God's Word with no integrity.
+[00:50:40.100 --> 00:50:46.100]   God gave them the privilege of not only having and receiving,
+[00:50:46.100 --> 00:50:49.100]   but teaching and expounding the Word of God.
+[00:50:49.100 --> 00:50:51.100]   Let's take a look at this text.
+[00:50:51.100 --> 00:50:54.100]   Verses 1 through 3 says this,
+[00:50:54.100 --> 00:50:57.100]   "Then Jesus spoke to the crowds and to his disciples, and saying,
+[00:50:57.100 --> 00:51:01.100]   'The scribes and the Pharisees have seated themselves in the chair of Moses.
+[00:51:01.100 --> 00:51:05.100]   Therefore, all that they tell you, do and observe,
+[00:51:05.100 --> 00:51:10.100]   but do not do according to their deeds, for they say things and do not do them.'"
+[00:51:10.100 --> 00:51:15.100]   Understand that the Jewish people were hand-selected by God,
+[00:51:15.100 --> 00:51:18.100]   not because they deserved it, but because of his kind intention,
+[00:51:18.100 --> 00:51:22.100]   and he blessed them with his good Word.
+[00:51:22.100 --> 00:51:29.100]   Some people think the law, you know, Phariseical ritualism, away with you, right?
+[00:51:29.100 --> 00:51:33.100]   Clearly the scripture says the old covenant is done away because the greater glory has come.
+[00:51:33.100 --> 00:51:37.100]   However, scripture also says in Romans, the law was always good.
+[00:51:37.100 --> 00:51:40.100]   Why? Because it reflected God's character.
+[00:51:40.100 --> 00:51:49.100]   And so the people of God got the privilege, the responsibility, and the greatness to have it and to dispense it.
+[00:51:49.100 --> 00:51:54.100]   And then when he says here that the people have seated themselves in the chair of Moses,
+[00:51:54.100 --> 00:51:59.100]   that represented then the delegated and stewarded authority of God.
+[00:51:59.100 --> 00:52:02.100]   Have you guys ever heard the idea of ex-cathedra?
+[00:52:02.100 --> 00:52:05.100]   In the Catholic faith, they talk about how the Pope speaks ex-cathedra.
+[00:52:05.100 --> 00:52:09.100]   All it means is out of the chair. It's kind of weird, right?
+[00:52:09.100 --> 00:52:13.100]   But what it's talking about is it comes with the authority that God has given.
+[00:52:13.100 --> 00:52:16.100]   And that's why even nowadays when you say, "Oh, here's the chairman of the board.
+[00:52:16.100 --> 00:52:25.100]   Oh, here's the chairman of that department." He is the expert and the authority on that topic, in that department.
+[00:52:25.100 --> 00:52:30.100]   That's an immense privilege. That's greatness to be given that.
+[00:52:30.100 --> 00:52:34.100]   And that is why Jesus can say, this is really surprising, right?
+[00:52:34.100 --> 00:52:37.100]   He's about to rebuke them and give them this entire chapter.
+[00:52:37.100 --> 00:52:41.100]   I mean, again, if you look at your Bibles, it's just like, it just goes on, right?
+[00:52:41.100 --> 00:52:47.100]   But he says and gives this commandment, "You are to do and observe all that they tell you."
+[00:52:47.100 --> 00:52:51.100]   Right? Quick application for all of us.
+[00:52:51.100 --> 00:52:54.100]   How many of you can obey that?
+[00:52:54.100 --> 00:52:59.100]   What do you mean? How many of you can listen to a man you know is an utter hypocrite,
+[00:52:59.100 --> 00:53:03.100]   who has tons of pretense, who you know his life is not consistent,
+[00:53:03.100 --> 00:53:07.100]   but because God has given him or, you know, like, situationally,
+[00:53:07.100 --> 00:53:11.100]   the authority of the Word of God is coming to you, you have to learn from it.
+[00:53:11.100 --> 00:53:15.100]   Confession. It's hard to even learn from somebody just younger than you.
+[00:53:15.100 --> 00:53:21.100]   It's very difficult to learn from somebody who is an absolute hypocrite. Right?
+[00:53:21.100 --> 00:53:26.100]   But every single one of us is called to have such a discretion and maturity in this day.
+[00:53:26.100 --> 00:53:31.100]   Why? Because we do not immaturely then just cast out everything.
+[00:53:31.100 --> 00:53:38.100]   Whatever is true, good, whatever is in properly interpreted Word of God,
+[00:53:38.100 --> 00:53:43.100]   it carries so much authority, even if it is carried to you by an unworthy vessel,
+[00:53:43.100 --> 00:53:48.100]   you obey. Can you do that?
+[00:53:48.100 --> 00:53:54.100]   As I thought about this, I was like, "Whoa, that's all strange and weird that that's in there."
+[00:53:54.100 --> 00:54:01.100]   But I get it. The authority of God demands that kind of level of obedience. Yes?
+[00:54:01.100 --> 00:54:05.100]   But let's move to what the point right here was, was we're trying to learn.
+[00:54:05.100 --> 00:54:11.100]   The Pharisees went from greatness to being the worst in the sense that they had this great privilege,
+[00:54:11.100 --> 00:54:16.100]   but they carried it with no integrity. What is meant by that? What does it mean to have no integrity?
+[00:54:16.100 --> 00:54:20.100]   The first element of it is Jesus describes that these individuals had no integrity
+[00:54:20.100 --> 00:54:28.100]   because they were self-appointed. They decided, "I think I have a gift. You listen to me."
+[00:54:28.100 --> 00:54:33.100]   Whoa, you just completely bypassed what God has been doing. What has God been doing?
+[00:54:33.100 --> 00:54:40.100]   Hebrews chapter 5, verses 1 through 4 teaches us that when it comes to the role of leader,
+[00:54:40.100 --> 00:54:44.100]   when it comes to the role of the priest in the past, God ordained that to be a position
+[00:54:44.100 --> 00:54:50.100]   where the priest sympathizes with the human being and speaks on behalf of the human.
+[00:54:50.100 --> 00:54:57.100]   But this priest has a ridiculously difficult job of making sure that he represents God to the human being.
+[00:54:57.100 --> 00:55:02.100]   So he has this mediary position. But what he says in verse 4 is this,
+[00:55:02.100 --> 00:55:09.100]   "And no one takes this honor to himself, but receives it when he is called by God."
+[00:55:09.100 --> 00:55:18.100]   But today, I believe we are in a dangerous scenario when there is no quality control, to say.
+[00:55:18.100 --> 00:55:27.100]   If you look online, I looked it up just for fun. There are different leagues of Christianity.
+[00:55:27.100 --> 00:55:30.100]   If you even just Google, "Can I get a master's in divinity online?"
+[00:55:30.100 --> 00:55:37.100]   You will find there are certain corporations that have online degrees where you can not only get a master's in divinity,
+[00:55:37.100 --> 00:55:41.100]   as if you could master that, but you could also get a doctorate in divinity.
+[00:55:41.100 --> 00:55:48.100]   And then you could have it within 30 minutes. No joke. No joke.
+[00:55:48.100 --> 00:55:56.100]   And then it says there, "Gladly serving 20 million people." Mind-blowing.
+[00:55:56.100 --> 00:56:00.100]   But I want you to think about this. Unfortunately, we live in a day when, yeah,
+[00:56:00.100 --> 00:56:03.100]   if a young man says, "I want to go to seminary," who prevents him?
+[00:56:03.100 --> 00:56:09.100]   Who guides him? Who says, "Maybe you shouldn't. Maybe you have steps to grow."
+[00:56:09.100 --> 00:56:13.100]   And then if someone says, "I want to be a thought leader," and I'm going to blog away.
+[00:56:13.100 --> 00:56:19.100]   Someone says, "I'm going to record a sermon," they just record themselves preaching as if they preach with authority.
+[00:56:19.100 --> 00:56:25.100]   Now, I'm not saying all of that is wicked, evil, or bad, but think about how dangerous that could be
+[00:56:25.100 --> 00:56:35.100]   when there are self-appointed individuals who are saying, "Listen to me," and presenting it as equally authoritative as this.
+[00:56:35.100 --> 00:56:38.100]   You have to be able to tell the difference.
+[00:56:38.100 --> 00:56:42.100]   But the greater element of the hypocrisy and the lack of integrity comes.
+[00:56:42.100 --> 00:56:50.100]   The worse—it gets worse—is because not only do they say these things without the kind of appointment of God—
+[00:56:50.100 --> 00:56:55.100]   God did not send them, but they say this stuff—but rather, they say it, and then they don't do it.
+[00:56:55.100 --> 00:56:59.100]   This is the warning that we need to receive.
+[00:56:59.100 --> 00:57:05.100]   Our struggle against false pretense.
+[00:57:05.100 --> 00:57:11.100]   The hypocrisy of, "You say a lot, but you are not."
+[00:57:11.100 --> 00:57:15.100]   Do we struggle with that? Yes. Yes, we do.
+[00:57:15.100 --> 00:57:19.100]   And Scripture says—this is nothing new in terms of teaching, but you know this—
+[00:57:19.100 --> 00:57:26.100]   there is this common false belief that what matters a lot is the way people see me.
+[00:57:26.100 --> 00:57:31.100]   I don't want to look unspiritual, undisciplined.
+[00:57:31.100 --> 00:57:35.100]   I don't want to look stupid, uninformed, ignorant, whatever it may be.
+[00:57:35.100 --> 00:57:38.100]   And therefore, there is regularly a temptation.
+[00:57:38.100 --> 00:57:47.100]   I may not project myself like I am the leader of leaders, but I just at least want to project myself a little better than I am.
+[00:57:47.100 --> 00:57:52.100]   An interesting part of that to me—and you may disagree with me here—
+[00:57:52.100 --> 00:57:57.100]   but I saw a weird pattern in Christendom over the last 10 years.
+[00:57:57.100 --> 00:58:01.100]   There were people I saw, they were just struggling with their faith.
+[00:58:01.100 --> 00:58:03.100]   They felt guilty about their faith.
+[00:58:03.100 --> 00:58:06.100]   And then there came this movement where they were just like, "You know what it is?
+[00:58:06.100 --> 00:58:14.100]   We have to have a vibrant relationship with Jesus because Christianity is not a religion, it's a relationship."
+[00:58:14.100 --> 00:58:18.100]   I love that tagline because that's true.
+[00:58:18.100 --> 00:58:22.100]   You guys have heard from this pulpit, "You need to abide and walk with Jesus."
+[00:58:22.100 --> 00:58:28.100]   Because you can know facts, you can intellectually have stuff memorized, and you can say the right things,
+[00:58:28.100 --> 00:58:33.100]   but if daily you're not abiding in Christ, you are far and low.
+[00:58:33.100 --> 00:58:35.100]   Right?
+[00:58:35.100 --> 00:58:37.100]   But there's this question.
+[00:58:37.100 --> 00:58:40.100]   You can have a slogan like, "It's a relationship but not a religion."
+[00:58:40.100 --> 00:58:42.100]   But now we have to ask the question,
+[00:58:42.100 --> 00:58:45.100]   "So did you build a vibrant relationship?"
+[00:58:45.100 --> 00:58:50.100]   Did you start making sure that you're communicating with Jesus,
+[00:58:50.100 --> 00:58:54.100]   and you have such a relationship that when you needed comfort, you went to Him,
+[00:58:54.100 --> 00:58:56.100]   and you received His comfort, and you felt blessed.
+[00:58:56.100 --> 00:58:59.100]   When you needed forgiveness, you repented, asked Him for forgiveness,
+[00:58:59.100 --> 00:59:03.100]   and you were blessed by His grace and mercies to wash you.
+[00:59:03.100 --> 00:59:06.100]   When you needed instruction, you went to Him, and then you—
+[00:59:06.100 --> 00:59:09.100]   Was that the fruit?
+[00:59:09.100 --> 00:59:12.100]   And what happened over time is that wasn't the fruit.
+[00:59:12.100 --> 00:59:14.100]   You had people who just continued to feel guilty,
+[00:59:14.100 --> 00:59:17.100]   and then the gospel-centered movement came along, and they said, "You know what?
+[00:59:17.100 --> 00:59:19.100]   We have to just be gospel-centered."
+[00:59:19.100 --> 00:59:23.100]   And there was this other slogan, it's like, "Gospel-centered this, and gospel-centered that."
+[00:59:23.100 --> 00:59:25.100]   Is that true and correct?
+[00:59:25.100 --> 00:59:29.100]   Yes! Of course we have to be gospel-centered.
+[00:59:29.100 --> 00:59:32.100]   The gospel is the message of salvation.
+[00:59:32.100 --> 00:59:35.100]   It is the kindness of God that has appeared to our generation
+[00:59:35.100 --> 00:59:39.100]   to hear the message of Christ.
+[00:59:39.100 --> 00:59:43.100]   But it became a slogan, which now we have to ask the question,
+[00:59:43.100 --> 00:59:45.100]   "So then, did you get gospel-centered?
+[00:59:45.100 --> 00:59:50.100]   Were you dedicated your life to preach this gospel to your friends, to your family?
+[00:59:50.100 --> 00:59:56.100]   You dedicated your life to live in the power of that forgiveness?"
+[00:59:56.100 --> 00:59:58.100]   What am I trying to say?
+[00:59:58.100 --> 01:00:05.100]   Pharisaical hypocrisy is not, "You need to be righteous,"
+[01:00:05.100 --> 01:00:09.100]   because Jesus said, "Blessed are those who thirst for righteousness."
+[01:00:09.100 --> 01:00:12.100]   Pharisaical hypocrisy is when you say all this stuff,
+[01:00:12.100 --> 01:00:16.100]   but there is actually no fruit in you.
+[01:00:16.100 --> 01:00:20.100]   Even the good slogans you say--now, obviously you can tell I am against
+[01:00:20.100 --> 01:00:23.100]   slogan Christianity because you tend to boil down
+[01:00:23.100 --> 01:00:28.100]   what is supposed to be a vibrant, dynamic walk with your Father
+[01:00:28.100 --> 01:00:31.100]   into some kind of slogan phrase, which typically means
+[01:00:31.100 --> 01:00:37.100]   you have already bought into the idea that that is going to somehow make you spiritual.
+[01:00:37.100 --> 01:00:39.100]   It hasn't borne its fruit.
+[01:00:39.100 --> 01:00:42.100]   You can say the best slogans, but if you say and you are not,
+[01:00:42.100 --> 01:00:46.100]   then the heart of Pharisee is already in you.
+[01:00:46.100 --> 01:00:51.100]   Even the good things we say, even the proper things we say,
+[01:00:51.100 --> 01:00:55.100]   could cause you to have a Pharisaical heart.
+[01:00:55.100 --> 01:01:00.100]   True spirituality will not rely on what you say,
+[01:01:00.100 --> 01:01:04.100]   but with integrity you desire to model.
+[01:01:04.100 --> 01:01:06.100]   You desire to be.
+[01:01:06.100 --> 01:01:09.100]   You look to the insides and you desire to bear fruit.
+[01:01:09.100 --> 01:01:11.100]   And this is a challenge.
+[01:01:11.100 --> 01:01:14.100]   I wrote to myself little notes because, again, in this passage,
+[01:01:14.100 --> 01:01:17.100]   Jesus turns to the crowds and warns them, "Don't follow these guys."
+[01:01:17.100 --> 01:01:20.100]   And then he points at them and says, "You!
+[01:01:20.100 --> 01:01:21.100]   Woe to you!"
+[01:01:21.100 --> 01:01:23.100]   So I wrote notes when I was studying to myself.
+[01:01:23.100 --> 01:01:32.100]   "Mark, as hard as it is to say you need to be in every way an example to this church."
+[01:01:32.100 --> 01:01:35.100]   Now, that's like a weird thing to say, right?
+[01:01:35.100 --> 01:01:38.100]   But that's what the Scripture says.
+[01:01:38.100 --> 01:01:44.100]   Be diligent to present yourself when approved of God.
+[01:01:44.100 --> 01:01:47.100]   Don't let people discredit you for your youthfulness,
+[01:01:47.100 --> 01:01:49.100]   but you be a model to the church.
+[01:01:49.100 --> 01:01:51.100]   What a high calling.
+[01:01:51.100 --> 01:01:53.100]   God is not settling for less.
+[01:01:53.100 --> 01:01:55.100]   Point number two.
+[01:01:55.100 --> 01:01:57.100]   Point number two.
+[01:01:57.100 --> 01:02:01.100]   The reason why the Pharisees went from greatness to being the worst
+[01:02:01.100 --> 01:02:05.100]   is also because although they were to be shepherds of the flock,
+[01:02:05.100 --> 01:02:09.100]   instead they selfishly exploited the people.
+[01:02:09.100 --> 01:02:12.100]   What we see from Jesus' rebuke is not only that,
+[01:02:12.100 --> 01:02:16.100]   "Look, you speak with authority, but you don't do hypocrisy."
+[01:02:16.100 --> 01:02:20.100]   He says now, "You were supposed to shepherd these people,
+[01:02:20.100 --> 01:02:23.100]   but you bound them like cattle.
+[01:02:23.100 --> 01:02:26.100]   You burdened them like mules."
+[01:02:26.100 --> 01:02:29.100]   And this is exactly what He was saying.
+[01:02:29.100 --> 01:02:31.100]   Take a look at verse four.
+[01:02:31.100 --> 01:02:34.100]   We're on chapter 23, verse four.
+[01:02:34.100 --> 01:02:40.100]   "They tie up heavy burdens and lay them on men's shoulders,
+[01:02:40.100 --> 01:02:47.100]   but they themselves are unwilling to move them with so much as a finger."
+[01:02:47.100 --> 01:02:49.100]   You think about that.
+[01:02:49.100 --> 01:02:55.100]   And again, God had called various shepherds within that era
+[01:02:55.100 --> 01:02:59.100]   to lead the people to life-giving waters of the Word,
+[01:02:59.100 --> 01:03:02.100]   to be ready and prepared to receive the Messiah
+[01:03:02.100 --> 01:03:05.100]   so that they would have life.
+[01:03:05.100 --> 01:03:07.100]   That's what they were supposed to do.
+[01:03:07.100 --> 01:03:11.100]   But instead, they gathered more rules and laws,
+[01:03:11.100 --> 01:03:17.100]   maybe in a false intention of trying to make these things pure and non-compromised,
+[01:03:17.100 --> 01:03:20.100]   and they started attaching all these rules and regulations.
+[01:03:20.100 --> 01:03:25.100]   And you've heard there's over 50 volumes of additional laws,
+[01:03:25.100 --> 01:03:28.100]   burdens, the things you can't and have to do.
+[01:03:28.100 --> 01:03:32.100]   And Jesus says and rebukes them, "Look at what you've done.
+[01:03:32.100 --> 01:03:37.100]   The people you're supposed to shepherd, you've burdened."
+[01:03:37.100 --> 01:03:42.100]   Now, as I was praying and thinking about that, I was like,
+[01:03:42.100 --> 01:03:45.100]   I guess part of me was thinking,
+[01:03:45.100 --> 01:03:51.100]   "Are the Pharisees just like horrendous, wicked, wicked people, or what happened?
+[01:03:51.100 --> 01:03:55.100]   Were they just trying to protect the law, and that's why it went that way?
+[01:03:55.100 --> 01:03:58.100]   Why in the world do we do this kind of stuff?"
+[01:03:58.100 --> 01:04:05.100]   And as I reflected, I recognized this is coming back to the heart of the human flesh.
+[01:04:05.100 --> 01:04:10.100]   This is nothing new to you, but this is a meditation on the fact that every single one of us,
+[01:04:10.100 --> 01:04:13.100]   why would any of us do the same,
+[01:04:13.100 --> 01:04:20.100]   where we would burden other people, command, but not want to lift a finger to help them?
+[01:04:20.100 --> 01:04:23.100]   Why would we take that responsibility of shepherding,
+[01:04:23.100 --> 01:04:27.100]   but instead turned it around and domineered?
+[01:04:27.100 --> 01:04:33.100]   And it's because every single one of us has a spirit of royalty in here.
+[01:04:33.100 --> 01:04:35.100]   Can I prove it to you guys?
+[01:04:35.100 --> 01:04:41.100]   The moment you come out and you're able to speak, you command people, even your parents.
+[01:04:41.100 --> 01:04:46.100]   Later on, that comes exhibited in your brotherhood, like within the siblings.
+[01:04:46.100 --> 01:04:52.100]   And then later on, this voice comes out of your mind that says, "Why didn't you do what I said?"
+[01:04:52.100 --> 01:04:55.100]   It comes out sometimes in my parenting.
+[01:04:55.100 --> 01:05:06.100]   There is this little spirit of royalty in our hearts that expects other individuals to carry my load and burden.
+[01:05:06.100 --> 01:05:13.100]   And God said in the Old Testament, "When you establish a ruler, if you have a king over you,
+[01:05:13.100 --> 01:05:15.100]   do you understand what this king is going to do?
+[01:05:15.100 --> 01:05:19.100]   He's going to do the very thing every single one of you want to do.
+[01:05:19.100 --> 01:05:22.100]   You'll impose your laws, you'll impose your regulations,
+[01:05:22.100 --> 01:05:28.100]   you're going to expect the people to work, and then you're going to exploit those people so they can satisfy your own flesh."
+[01:05:28.100 --> 01:05:31.100]   That is the heart that we see in modern-day politics.
+[01:05:31.100 --> 01:05:33.100]   That is the heart that you see in the home.
+[01:05:33.100 --> 01:05:35.100]   That is the heart you see sometimes in conflict.
+[01:05:35.100 --> 01:05:37.100]   You see it everywhere.
+[01:05:37.100 --> 01:05:40.100]   Take a look at this, Ezekiel 34.
+[01:05:40.100 --> 01:05:48.100]   In Ezekiel 34, verses 1 through 6, "The word of the Lord came to me, saying, 'Son of man, prophesy against the shepherds of Israel.
+[01:05:48.100 --> 01:05:56.100]   Prophesy and say to those shepherds, 'Thus says the Lord God, 'Woe, shepherds of Israel, who have been feeding themselves!'
+[01:05:56.100 --> 01:05:59.100]   Should not the shepherds feed the flock?
+[01:05:59.100 --> 01:06:04.100]   You eat the fat and clothe yourselves with the wool; you slaughter the fat sheep without feeding the flock."
+[01:06:04.100 --> 01:06:05.100]   Look at this.
+[01:06:05.100 --> 01:06:10.100]   "Those who are sickly you have not strengthened, and diseased you have not healed.
+[01:06:10.100 --> 01:06:14.100]   The broken you have not bound up, and the scattered you have not brought back.
+[01:06:14.100 --> 01:06:22.100]   Nor have you sought the lost, but with force and with severity you have dominated them."
+[01:06:22.100 --> 01:06:28.100]   When there is pride in our hearts, we lack sympathy.
+[01:06:28.100 --> 01:06:31.100]   When there is pride in our hearts, we lack mercy.
+[01:06:31.100 --> 01:06:40.100]   When there is pride in our hearts, rather than seeing individuals as those whom God has entrusted us to care for and to bring them along with great grace,
+[01:06:40.100 --> 01:06:45.100]   we see them as mules to carry our responsibilities.
+[01:06:45.100 --> 01:06:51.100]   And this is how the Pharisees went from great to being the worst.
+[01:06:51.100 --> 01:06:59.100]   Interestingly enough, the community at Stanford University did a psychological study and experiment.
+[01:06:59.100 --> 01:07:01.100]   It's called the Prison Experiment.
+[01:07:01.100 --> 01:07:02.100]   It's very controversial.
+[01:07:02.100 --> 01:07:06.100]   They essentially put a bunch of people in the prison and then said,
+[01:07:06.100 --> 01:07:10.100]   "I want to give you some rules and then I'm going to give you roles.
+[01:07:10.100 --> 01:07:13.100]   You guys here, you're going to be prison guards, okay?
+[01:07:13.100 --> 01:07:15.100]   You do have the authority."
+[01:07:15.100 --> 01:07:16.100]   There was this button they pushed.
+[01:07:16.100 --> 01:07:18.100]   It was minor corporal punishment.
+[01:07:18.100 --> 01:07:21.100]   And then on this side, you guys are the prisoners, okay?
+[01:07:21.100 --> 01:07:23.100]   I don't know who signed up for that, right?
+[01:07:23.100 --> 01:07:25.100]   It's like, "That sounds good to me."
+[01:07:25.100 --> 01:07:27.100]   And they did the experiment, okay?
+[01:07:27.100 --> 01:07:30.100]   And they made a documentary out of it too, but it was very controversial.
+[01:07:30.100 --> 01:07:31.100]   You can imagine, right?
+[01:07:31.100 --> 01:07:34.100]   You can imagine how controversial that may be.
+[01:07:34.100 --> 01:07:36.100]   What do you think happened?
+[01:07:36.100 --> 01:07:43.100]   The people who assumed the role of authority, all of a sudden they realized, "We need more laws."
+[01:07:43.100 --> 01:07:45.100]   So they started making rules.
+[01:07:45.100 --> 01:07:48.100]   "You better listen to us the moment we da-da-da-da-da.
+[01:07:48.100 --> 01:07:50.100]   You're not allowed to walk there.
+[01:07:50.100 --> 01:07:51.100]   We need to keep you in line."
+[01:07:51.100 --> 01:07:54.100]   And next thing you know, they assumed the authority of power and they listed--
+[01:07:54.100 --> 01:08:01.100]   I forget exactly how many more rules they implemented into the prison than that was already given.
+[01:08:01.100 --> 01:08:03.100]   And then they used it.
+[01:08:03.100 --> 01:08:05.100]   They used the button.
+[01:08:05.100 --> 01:08:10.100]   But they were just volunteers.
+[01:08:10.100 --> 01:08:14.100]   I'm not saying to use that and say, "Oh, my goodness, da-da-da-da-da."
+[01:08:14.100 --> 01:08:21.100]   But every single one of us has within us a desire for control.
+[01:08:21.100 --> 01:08:30.100]   Every single one of us has within us a desire and potentially temptation to enact my way.
+[01:08:30.100 --> 01:08:34.100]   But Scripture tells us good leaders are not so.
+[01:08:34.100 --> 01:08:37.100]   This is what I wrote to myself, "Good leaders are not so."
+[01:08:37.100 --> 01:08:40.100]   You never sought to have dominance.
+[01:08:40.100 --> 01:08:43.100]   You never actually sought the leadership.
+[01:08:43.100 --> 01:08:47.100]   What you sought to be was trustworthy.
+[01:08:47.100 --> 01:08:50.100]   Good leaders, brothers and sisters, you need to tell the difference.
+[01:08:50.100 --> 01:08:53.100]   When you give your ear to those who are giving you sermons,
+[01:08:53.100 --> 01:08:57.100]   when you give your ear to those who are trying to teach and guide your thought,
+[01:08:57.100 --> 01:09:01.100]   those individuals are not trying to be thought leaders.
+[01:09:01.100 --> 01:09:06.100]   They're trying to be good and trustworthy, dependable servants.
+[01:09:06.100 --> 01:09:11.100]   And when they earn that trust, they're guiding you to God.
+[01:09:11.100 --> 01:09:17.100]   And what you see sometimes is Scripture gives this exhortation, 1 Peter 5, verses 1 through 3,
+[01:09:17.100 --> 01:09:22.100]   "Therefore, I exhort the elders among you, as your fellow elder and witness of the sufferings of Christ
+[01:09:22.100 --> 01:09:30.100]   and a partaker also of the glory that is revealed, shepherd the flock of God among you, exercising oversight,
+[01:09:30.100 --> 01:09:36.100]   not under compulsion, voluntarily, according to the will of God, not for sword gain,
+[01:09:36.100 --> 01:09:45.100]   with eagerness, nor yet as lording it over those allotted to your charge, but proving to be examples to the flock."
+[01:09:45.100 --> 01:09:50.100]   That is such an immense exhortation.
+[01:09:50.100 --> 01:09:53.100]   That is such an immense exhortation.
+[01:09:53.100 --> 01:09:58.100]   Now, I reflected more on this idea.
+[01:09:58.100 --> 01:10:03.100]   What in your mind gives you permission to command all these people,
+[01:10:03.100 --> 01:10:07.100]   "You better do it, you better do it," and then you don't lift a finger?
+[01:10:07.100 --> 01:10:11.100]   And again, I come to the conclusion, you must have thought that you were royalty.
+[01:10:11.100 --> 01:10:17.100]   But I reflected a little bit more, and I recognized also that within modern-day society,
+[01:10:17.100 --> 01:10:26.100]   what I see a lot are individuals who see the church and this Christian body in the complete wrong worldview.
+[01:10:26.100 --> 01:10:28.100]   What am I talking about?
+[01:10:28.100 --> 01:10:34.100]   I see people look at the church as an organization, as a business, as a program, as an institution,
+[01:10:34.100 --> 01:10:38.100]   that needs consultants to make it better.
+[01:10:38.100 --> 01:10:40.100]   And why is that wrong?
+[01:10:40.100 --> 01:10:42.100]   Because sometimes I see people comment about the church,
+[01:10:42.100 --> 01:10:47.100]   "The church needs X, Y, and Z, and more in order for it to be successful."
+[01:10:47.100 --> 01:10:50.100]   But that is the wrong way of thinking about it.
+[01:10:50.100 --> 01:10:51.100]   Why?
+[01:10:51.100 --> 01:10:55.100]   Because the church was already given a framework of what it was supposed to be
+[01:10:55.100 --> 01:11:00.100]   in terms of its identity and entity before the Lord.
+[01:11:00.100 --> 01:11:07.100]   In relationship to God, the primary depiction, the primary picture is, number one, the bride,
+[01:11:07.100 --> 01:11:09.100]   and number two, the house.
+[01:11:09.100 --> 01:11:10.100]   Yes?
+[01:11:10.100 --> 01:11:12.100]   So what am I trying to say?
+[01:11:12.100 --> 01:11:14.100]   Let me give you this exhortation.
+[01:11:14.100 --> 01:11:18.100]   For us to combat this arrogance and pride of the spirit of royalty,
+[01:11:18.100 --> 01:11:22.100]   you have to see this church as a spiritual household of God,
+[01:11:22.100 --> 01:11:28.100]   of which the Father is very protective of His house.
+[01:11:28.100 --> 01:11:31.100]   What we need in the church is not more commentators.
+[01:11:31.100 --> 01:11:33.100]   We do not need consultants.
+[01:11:33.100 --> 01:11:37.100]   We need fathers and mothers who are willing to go alongside people.
+[01:11:37.100 --> 01:11:41.100]   We need fathers and mothers who are willing to get dirty and change some diapers.
+[01:11:41.100 --> 01:11:45.100]   We need older brothers and sisters who are willing to take younger brothers and sisters by the hand
+[01:11:45.100 --> 01:11:47.100]   and walk the dangerous streets.
+[01:11:47.100 --> 01:11:51.100]   We need aunties and uncles who are willing to give life-giving advice
+[01:11:51.100 --> 01:11:54.100]   in the milestones of people's lives, of their little nephews and nieces,
+[01:11:54.100 --> 01:11:59.100]   there for the graduation, there for their first job, there for their first kid,
+[01:11:59.100 --> 01:12:01.100]   giving life advice from the Scriptures.
+[01:12:01.100 --> 01:12:02.100]   Amen?
+[01:12:02.100 --> 01:12:09.100]   We don't need more commentators saying, "Y'all got to better do this to make your church better."
+[01:12:09.100 --> 01:12:12.100]   We've had enough of that.
+[01:12:12.100 --> 01:12:20.100]   The church is a household of God that requires people to see that kind of harmony and unity within.
+[01:12:20.100 --> 01:12:28.100]   So I wrote to myself, "Mark, do not ever just commentate on God's family,
+[01:12:28.100 --> 01:12:33.100]   for when you do, you place yourself above it."
+[01:12:33.100 --> 01:12:36.100]   I got to be careful of my words.
+[01:12:36.100 --> 01:12:39.100]   As a pastor, I talk a lot.
+[01:12:39.100 --> 01:12:44.100]   You know, and the Scripture says in Proverbs, "Lots of words, lot of sin."
+[01:12:44.100 --> 01:12:50.100]   There is something fleshly in me, yes, that takes joy in just judging things and criticizing things,
+[01:12:50.100 --> 01:12:53.100]   and I need to repent of that.
+[01:12:53.100 --> 01:12:58.100]   And I need to remember this is the household of God of which we are all children,
+[01:12:58.100 --> 01:13:02.100]   of whom God is very protective of.
+[01:13:02.100 --> 01:13:06.100]   I can't come in like that, thinking I'm above this.
+[01:13:06.100 --> 01:13:12.100]   And therefore, if ever I give commands but I'm not willing to lift a finger, shame on me.
+[01:13:12.100 --> 01:13:15.100]   I saw it the wrong way, right?
+[01:13:15.100 --> 01:13:18.100]   I need to be in the thick of the work of edifying and building this church,
+[01:13:18.100 --> 01:13:23.100]   and that's why you guys know our church takes church membership very seriously,
+[01:13:23.100 --> 01:13:26.100]   because it is appropriate, right, and good.
+[01:13:26.100 --> 01:13:27.100]   Amen?
+[01:13:27.100 --> 01:13:30.100]   Next, point number three.
+[01:13:30.100 --> 01:13:33.100]   The Pharisees went from greatness to the worst,
+[01:13:33.100 --> 01:13:38.100]   because they used God's given trumpets to please men rather than God.
+[01:13:38.100 --> 01:13:39.100]   Right?
+[01:13:39.100 --> 01:13:42.100]   They used the God-given trumpets.
+[01:13:42.100 --> 01:13:46.100]   When I say trumpets, these are signs and signals.
+[01:13:46.100 --> 01:13:47.100]   Signals, okay?
+[01:13:47.100 --> 01:13:52.100]   To get everybody's attention, to make sure that we know, like, this indicates something.
+[01:13:52.100 --> 01:13:56.100]   Rather than using it for the glory of God, rather than using it for its intended purposes,
+[01:13:56.100 --> 01:13:58.100]   they use it to please men and themselves.
+[01:13:58.100 --> 01:14:00.100]   And the Scripture says, Jesus says this to them,
+[01:14:00.100 --> 01:14:04.100]   "But they do all their deeds to be noticed by men,
+[01:14:04.100 --> 01:14:08.100]   for they broaden their phylacteries and lengthen the tassels of their garments."
+[01:14:08.100 --> 01:14:12.100]   They love the place of honor at banquets and the chief seats in the synagogues
+[01:14:12.100 --> 01:14:17.100]   and respectful greetings in the marketplaces and being called rabbi by men.
+[01:14:17.100 --> 01:14:19.100]   Yikes.
+[01:14:19.100 --> 01:14:23.100]   Jesus does more than correct.
+[01:14:23.100 --> 01:14:25.100]   You're not teaching correctly.
+[01:14:25.100 --> 01:14:27.100]   A Bible passage doesn't say that.
+[01:14:27.100 --> 01:14:29.100]   Jesus does so much more than that.
+[01:14:29.100 --> 01:14:31.100]   He pierces through their heart.
+[01:14:31.100 --> 01:14:34.100]   You love attention.
+[01:14:34.100 --> 01:14:36.100]   You love honor.
+[01:14:36.100 --> 01:14:38.100]   You love their praise.
+[01:14:38.100 --> 01:14:40.100]   You love their esteem.
+[01:14:40.100 --> 01:14:41.100]   Wow.
+[01:14:41.100 --> 01:14:44.100]   Now, we're not Jesus.
+[01:14:44.100 --> 01:14:47.100]   We can't look at a person and be like, "I know what's in your heart.
+[01:14:47.100 --> 01:14:49.100]   You're Pharisee."
+[01:14:49.100 --> 01:14:52.100]   So please don't go around doing that stuff.
+[01:14:52.100 --> 01:15:01.100]   But Jesus cuts through to the core and says, "You love these, the glory of man, more than the glory of God."
+[01:15:01.100 --> 01:15:07.100]   And by their love for the attention, they love it when people notice them.
+[01:15:07.100 --> 01:15:10.100]   They look like fools.
+[01:15:10.100 --> 01:15:13.100]   I want you to just imagine with me walking around.
+[01:15:13.100 --> 01:15:20.100]   I actually pulled up a picture, but right now there's like this part of me, I was like, "I don't want to -- let me just say this, okay?
+[01:15:20.100 --> 01:15:24.100]   I don't want to just make fun of Jewish people, okay?"
+[01:15:24.100 --> 01:15:27.100]   This is not a Jewish problem.
+[01:15:27.100 --> 01:15:31.100]   The heart of pride is every single one of us human problem.
+[01:15:31.100 --> 01:15:39.100]   But when you look up the photos, you have these individuals who are walking around with straight up box tied to their head.
+[01:15:39.100 --> 01:15:45.100]   In the New and Deuteronomy, it says that you shall impress these words on your heart and your soul.
+[01:15:45.100 --> 01:15:51.100]   So you shall bind them as signs on your hand, on the frontals of your forehead and your doorpost, right?
+[01:15:51.100 --> 01:15:57.100]   So if you look up a picture of a Jewish individual and you look up phylacteries, they have more than just this box.
+[01:15:57.100 --> 01:16:03.100]   They have this leather box right here that has miniature scrolls, but they also have a leather band with the scriptures around their wrist,
+[01:16:03.100 --> 01:16:06.100]   and they wrap it around their middle finger, around their arm, and they look like ninjas.
+[01:16:06.100 --> 01:16:13.100]   And then they have these garments where they have blue cords running down, and in order to make them bigger, they made them longer.
+[01:16:13.100 --> 01:16:21.100]   And in order to show off, "Look how much I know, look how devout, and look how significant I am."
+[01:16:21.100 --> 01:16:24.100]   They made it bigger and bigger, and the rabbis had to make rules.
+[01:16:24.100 --> 01:16:26.100]   You could only have it so big, man.
+[01:16:26.100 --> 01:16:29.100]   They limited it, okay?
+[01:16:29.100 --> 01:16:37.100]   Think about, for us in our generation, how foolish we have become, wanting attention.
+[01:16:37.100 --> 01:16:43.100]   I went to the zoo with my family, and there was this young girl with this long stick and her camera.
+[01:16:43.100 --> 01:16:50.100]   And she's doing the whole--again, if currently this is your job and I'm making you feel guilty, I apologize, okay?
+[01:16:50.100 --> 01:16:52.100]   But I was flabbergasted.
+[01:16:52.100 --> 01:16:55.100]   She was walking around, and everything she did--
+[01:16:55.100 --> 01:16:58.100]   "Look, guys, I'm looking at the polar bears," you know?
+[01:16:58.100 --> 01:16:59.100]   "Look, guys, I'm eating--"
+[01:16:59.100 --> 01:17:05.100]   And then it's so funny because, you know, at the zoo, you've got this path, so she just happened to be in front of us in everything we did.
+[01:17:05.100 --> 01:17:08.100]   And the whole time, I was just so bothered.
+[01:17:08.100 --> 01:17:11.100]   "Look, guys, I'm on the SkyTram," you know?
+[01:17:11.100 --> 01:17:15.100]   "I'm eating cotton candy," like, oh my God, right?
+[01:17:15.100 --> 01:17:21.100]   And if you've ever done the thing, it's like, "Look, guys, I'm reading my Bible at the coffee shop with the light coming in, the soft light."
+[01:17:21.100 --> 01:17:23.100]   It's like--
+[01:17:23.100 --> 01:17:29.100]   Now, I get it. It's like maybe you, in your heart of hearts, wanted to just inspire some people to do devotions, okay?
+[01:17:29.100 --> 01:17:31.100]   Maybe that was your intent.
+[01:17:31.100 --> 01:17:36.100]   But we live in a generation where it's like, "Do it for the 'gram."
+[01:17:36.100 --> 01:17:47.100]   But do you have any idea how biblical that is when literally Jesus said, "I want you to do what you do in the privacy of your own closet with God."
+[01:17:47.100 --> 01:17:54.100]   Because I don't want you to just have this reward and have nothing from God.
+[01:17:54.100 --> 01:18:05.100]   Do you--the Phariseeism is you live for the praise and reward of this world, and your judgment is going to be you have nothing from God.
+[01:18:05.100 --> 01:18:11.100]   And so as a warning to us, as a warning, the trumpet that God gave--
+[01:18:11.100 --> 01:18:21.100]   Now, realize this. It is immature to think, "Forget it, then. I'm just going to hide my Bible. I'm not even going to take photos of it.
+[01:18:21.100 --> 01:18:25.100]   No one's going to see me pray. I'm not going to raise my hands and worship."
+[01:18:25.100 --> 01:18:29.100]   That's immaturity, too. You're still afraid of the same thing, right?
+[01:18:29.100 --> 01:18:33.100]   You still care about the exact same thing.
+[01:18:33.100 --> 01:18:41.100]   The problem is we loved it, and then there are people who fear it, and it's the same thing.
+[01:18:41.100 --> 01:18:43.100]   Let me give you an example.
+[01:18:43.100 --> 01:18:48.100]   Obviously, we had a generation of people who loved self-esteem.
+[01:18:48.100 --> 01:18:53.100]   So they loved it when their parents were like, "You're going to be a leader."
+[01:18:53.100 --> 01:18:58.100]   They took SAT classes like, "Oh my gosh, you're going to excel. You, for sure, Ivy League."
+[01:18:58.100 --> 01:19:02.100]   And I grew up in that generation where everybody was just like--
+[01:19:02.100 --> 01:19:05.100]   Everything I read was, "You've got to be a leader."
+[01:19:05.100 --> 01:19:09.100]   And then people cared so much about your self-esteem, they wanted to build you up.
+[01:19:09.100 --> 01:19:12.100]   What was the fruit of that?
+[01:19:12.100 --> 01:19:14.100]   The fruit of that was depression.
+[01:19:14.100 --> 01:19:16.100]   "I can't take the pressure."
+[01:19:16.100 --> 01:19:24.100]   My parents think, "It's A+ or bust. I can't do this."
+[01:19:24.100 --> 01:19:28.100]   It resulted in the fruit of anxiety.
+[01:19:28.100 --> 01:19:33.100]   But then now, the response also, "I don't think they've learned."
+[01:19:33.100 --> 01:19:42.100]   Your love for leadership, your love for self-esteem, had with it the desire to hear, "You're going to be great."
+[01:19:42.100 --> 01:19:46.100]   That same desire is embedded in this culture that magnifies pain.
+[01:19:46.100 --> 01:19:53.100]   "You have no idea how much I suffer. Oh my gosh, you don't know the pain I've been through."
+[01:19:53.100 --> 01:19:56.100]   Now, what I say, I say with a caveat.
+[01:19:56.100 --> 01:20:06.100]   There are people who have been in legitimate, deep pain, and God says, "I am your comfort. I am your sufficient supply."
+[01:20:06.100 --> 01:20:12.100]   But the reason why I call this out is because the fruit of this that I see has not been, "Lord, you're my comfort."
+[01:20:12.100 --> 01:20:20.100]   The fruit of this has been, "You guys need to talk to me. Don't silence me. Hear me roar."
+[01:20:20.100 --> 01:20:23.100]   That is the same thing.
+[01:20:23.100 --> 01:20:28.100]   You're still looking for the platitude of, "You're okay. You're significant. You matter to us."
+[01:20:28.100 --> 01:20:30.100]   What is that?
+[01:20:30.100 --> 01:20:33.100]   Whether you call it self-esteem or this, it's the same thing.
+[01:20:33.100 --> 01:20:42.100]   And in that picture, when I counsel people and they tell me their problems, I draw it on a map and I ask them, "Show me where God is."
+[01:20:42.100 --> 01:20:53.100]   In your pursuit of fixing your problems, and yes, you may have the deepest pains that I cannot relate with, show me where is God.
+[01:20:53.100 --> 01:20:56.100]   There is no glory of God in that picture.
+[01:20:56.100 --> 01:21:01.100]   And that's where we are the weakest, amen?
+[01:21:01.100 --> 01:21:08.100]   For us as Christians, our lowest point is when we do not see the glory of God.
+[01:21:08.100 --> 01:21:11.100]   And therefore, I challenge you this day.
+[01:21:11.100 --> 01:21:15.100]   The exhortation is, "I want you to be great."
+[01:21:15.100 --> 01:21:20.100]   But there is a complete different path for you than what the Pharisees took.
+[01:21:20.100 --> 01:21:30.100]   There is an immensely different path for us to have greatness, to own greatness, and to actually not project greatness, but be great.
+[01:21:30.100 --> 01:21:33.100]   And Jesus says it here.
+[01:21:33.100 --> 01:21:36.100]   Point four, be the greatest.
+[01:21:36.100 --> 01:21:38.100]   How? Verse eight.
+[01:21:38.100 --> 01:21:44.100]   "Don't be called rabbi, for one is your teacher and you are all brothers.
+[01:21:44.100 --> 01:21:49.100]   Do not call anyone on earth your father, for one is your father, he who is in heaven.
+[01:21:49.100 --> 01:21:54.100]   Do not be called leaders, for one is your leader, that is Christ.
+[01:21:54.100 --> 01:21:59.100]   But the greatest among you shall be your servant.
+[01:21:59.100 --> 01:22:06.100]   Whoever exalts himself will be humbled, and whoever humbles himself will be exalted."
+[01:22:06.100 --> 01:22:11.100]   Let's first take a look at what Jesus says in verse eight through ten.
+[01:22:11.100 --> 01:22:18.100]   "Don't be called rabbi, don't call anyone your father, and do not be called leaders yourselves."
+[01:22:18.100 --> 01:22:22.100]   I guess I'm insane, right?
+[01:22:22.100 --> 01:22:26.100]   I guess our church leaders, we're just egotistical, right?
+[01:22:26.100 --> 01:22:34.100]   Because I walk around and say, "Elder James, Elder Philip, Elder Joe," and I give them tons of respect because I trust them.
+[01:22:34.100 --> 01:22:37.100]   And people call me Pastor Mark.
+[01:22:37.100 --> 01:22:44.100]   Question, am I going against the direct teaching of my Lord here?
+[01:22:44.100 --> 01:22:52.100]   What we see is he does this thing where he says, "I don't want you to seek the title like they do.
+[01:22:52.100 --> 01:22:55.100]   Don't look for yourself to be called rabbi.
+[01:22:55.100 --> 01:22:59.100]   But also you don't call other people father."
+[01:22:59.100 --> 01:23:03.100]   And he's talking about the heart's endeavor.
+[01:23:03.100 --> 01:23:06.100]   What is it you want through these things?
+[01:23:06.100 --> 01:23:09.100]   What is it that you want when people call you rabbi?
+[01:23:09.100 --> 01:23:11.100]   It's really, really clear.
+[01:23:11.100 --> 01:23:15.100]   We love being seen as the one who knows.
+[01:23:15.100 --> 01:23:19.100]   Your intellectual clout, that is so tempting.
+[01:23:19.100 --> 01:23:32.100]   But for us as Christian, what is the solution so that you do not arrogantly follow this temptation to be deemed the chair of the board, of the theology department?
+[01:23:32.100 --> 01:23:39.100]   There is a singular, unique, perfect knowledge you can have.
+[01:23:39.100 --> 01:23:42.100]   And that is our Savior, Jesus Christ. Amen?
+[01:23:42.100 --> 01:23:45.100]   He to us is the perfection of wisdom.
+[01:23:45.100 --> 01:23:48.100]   He to us is the embodiment of knowledge.
+[01:23:48.100 --> 01:23:53.100]   And for me to know Christ and to be known by him is the solve-all.
+[01:23:53.100 --> 01:23:55.100]   That's the end of our things.
+[01:23:55.100 --> 01:24:05.100]   I could be foolish, ignorant, not only not an expert, but completely deficient in my know-how.
+[01:24:05.100 --> 01:24:11.100]   But to know Christ and him crucified, that's my ambition. Amen?
+[01:24:11.100 --> 01:24:15.100]   There is your solution to this rat race.
+[01:24:15.100 --> 01:24:21.100]   And so what he says is what's the emphasis of this passage is not that no longer should we ever call anybody a leader
+[01:24:21.100 --> 01:24:25.100]   because the rest of the New Testament teaches us you establish elders at the church,
+[01:24:25.100 --> 01:24:28.100]   you establish those who are going to rule well,
+[01:24:28.100 --> 01:24:35.100]   and those of you who are young, remember the passage that I read in 1 Peter, you need to submit to your leaders.
+[01:24:35.100 --> 01:24:42.100]   But what he says is you need to understand that there is one teacher, one father, one leader.
+[01:24:42.100 --> 01:24:49.100]   Your desire for protection, all of you who long for security,
+[01:24:49.100 --> 01:24:57.100]   all of you who long for affirmation by somebody who has the authority to affirm you,
+[01:24:57.100 --> 01:25:01.100]   can I tell you you have one father.
+[01:25:01.100 --> 01:25:09.100]   And we sing, I came back to that song, holy, there is no one like him.
+[01:25:09.100 --> 01:25:11.100]   What I recognize is there is one master.
+[01:25:11.100 --> 01:25:13.100]   Do not look for other leaders. Why?
+[01:25:13.100 --> 01:25:16.100]   Because even as I teach, I have a Lord over me.
+[01:25:16.100 --> 01:25:19.100]   Even as I teach, I have an authority above me.
+[01:25:19.100 --> 01:25:23.100]   And the greatest thing for you to understand is that I have no authority.
+[01:25:23.100 --> 01:25:26.100]   That makes my life so much easier.
+[01:25:26.100 --> 01:25:29.100]   I have no authority on myself.
+[01:25:29.100 --> 01:25:36.100]   But the crazy thing about this and the paradoxical thing about this is I have greater authority than a hundred men.
+[01:25:36.100 --> 01:25:41.100]   How can that be? You have no authority but you have greater authority than a panel of experts.
+[01:25:41.100 --> 01:25:43.100]   Why?
+[01:25:43.100 --> 01:25:46.100]   Because I have one.
+[01:25:46.100 --> 01:25:55.100]   His one singular authoritative word and his one great presence over my life makes my job absolutely simple.
+[01:25:55.100 --> 01:25:57.100]   Difficult but simple.
+[01:25:57.100 --> 01:26:02.100]   So long as I tie you to the voice of God, this ministry will succeed.
+[01:26:02.100 --> 01:26:09.100]   Guys, I'm going to just confess to you, in this generation, part of the reason I felt the need to preach this is because I'm worried.
+[01:26:09.100 --> 01:26:11.100]   Right?
+[01:26:11.100 --> 01:26:14.100]   I see all kinds of trash out there.
+[01:26:14.100 --> 01:26:21.100]   And right now what I see is a progression of false thought, reaction to false thought, and human solutions to spiritual problems.
+[01:26:21.100 --> 01:26:23.100]   And then you have a muck.
+[01:26:23.100 --> 01:26:26.100]   You have muddiness in the Christian world.
+[01:26:26.100 --> 01:26:29.100]   You have people elevating things that should not be elevated.
+[01:26:29.100 --> 01:26:34.100]   You have people in the name of authenticity elevate doubt.
+[01:26:34.100 --> 01:26:36.100]   Elevate this whole deconstruction thing.
+[01:26:36.100 --> 01:26:39.100]   Makes it beautiful.
+[01:26:39.100 --> 01:26:41.100]   Let me just comment on that for a brief second.
+[01:26:41.100 --> 01:26:42.100]   It is not beautiful.
+[01:26:42.100 --> 01:26:43.100]   Why?
+[01:26:43.100 --> 01:26:45.100]   Because it's devoid of the glory of God.
+[01:26:45.100 --> 01:27:01.100]   When we're so concerned about my path, my process, that I don't care whether God is questioned, where I'm not considerate of whether my God is being put through the ringer,
+[01:27:01.100 --> 01:27:09.100]   and I glorify and make beautiful that which is questioning God, we're elevating the wrong thing.
+[01:27:09.100 --> 01:27:15.100]   But right now in our day, that feels pretty authentic and real.
+[01:27:15.100 --> 01:27:17.100]   I'm very worried.
+[01:27:17.100 --> 01:27:25.100]   But this passage to me, there is a path for us to greatness and security.
+[01:27:25.100 --> 01:27:35.100]   There is a way for us to be in the will of God, which is to understand and be under this one singular authoritative final source, amen?
+[01:27:35.100 --> 01:27:42.100]   And for us, then the challenge is going to be, I need to make sure that I am seeking the glory of this one God.
+[01:27:42.100 --> 01:27:45.100]   I repeat for you a passage that I read earlier.
+[01:27:45.100 --> 01:27:47.100]   John chapter 5 verse 44.
+[01:27:47.100 --> 01:27:58.100]   Jesus asked this question, "How can you believe when you receive glory from one another and you do not seek the glory that which is from the one and only God?"
+[01:27:58.100 --> 01:28:03.100]   The question there is, how can you have faith?
+[01:28:03.100 --> 01:28:16.100]   If your heart is longing for the affirmation of people, you have an adulterous love relationship that cannot allow you to have intimacy with God.
+[01:28:16.100 --> 01:28:23.100]   That is at the core of the pride, selfishness, and the erroneous way of the Pharisee.
+[01:28:23.100 --> 01:28:25.100]   That's what we need to fight.
+[01:28:25.100 --> 01:28:33.100]   But the second thing what he said was that in order to seek greatness, that the greatest among you shall be your servant,
+[01:28:33.100 --> 01:28:39.100]   whoever exalts himself shall be humbled, and whoever humbles himself shall be exalted.
+[01:28:39.100 --> 01:28:45.100]   So underneath this point, if principle one, you needed to recognize that there is one teacher, one father, one leader over you,
+[01:28:45.100 --> 01:28:58.100]   and we have him who is the solution to all, your path to humility is to recognize that your responsibility is actually to humble yourself.
+[01:28:58.100 --> 01:29:03.100]   Then entrust your entire life to God who will establish you.
+[01:29:03.100 --> 01:29:05.100]   Amen?
+[01:29:05.100 --> 01:29:11.100]   For us, there is a paradoxical way to greatness.
+[01:29:11.100 --> 01:29:17.100]   Your goal is going to desire and dedicate yourself to be that soldier of Christ.
+[01:29:17.100 --> 01:29:25.100]   I have a great cause, I have a great commander, and my job is to serve that goal.
+[01:29:25.100 --> 01:29:28.100]   You have a desire, a dedication in your heart.
+[01:29:28.100 --> 01:29:33.100]   This is my home, my family, and my job is to be a great family member,
+[01:29:33.100 --> 01:29:39.100]   great brother and sister, father or mother, older brother, auntie, grandpa, whatever you may be,
+[01:29:39.100 --> 01:29:44.100]   I am a member of this house.
+[01:29:44.100 --> 01:29:49.100]   To be a dependable servant is to us our great path.
+[01:29:49.100 --> 01:29:56.100]   And when God, the master of all, the teacher of all, and the father of the house says to you,
+[01:29:56.100 --> 01:30:03.100]   "Good job, my servant," that to us is going to be greatness and glory.
+[01:30:03.100 --> 01:30:05.100]   Nothing else.
+[01:30:05.100 --> 01:30:12.100]   Every other, like, accolade, fame is going to be nothing compared to that. Amen?
+[01:30:12.100 --> 01:30:19.100]   I will leave you with this final passage from 1 Peter 5, verses 4-10.
+[01:30:19.100 --> 01:30:24.100]   In the context of Apostle Peter warning against false teachers, he says,
+[01:30:24.100 --> 01:30:32.100]   "And when the chief shepherd appears, you will receive the unfading crown of glory."
+[01:30:32.100 --> 01:30:34.100]   That's it.
+[01:30:34.100 --> 01:30:40.100]   "You younger men likewise be subject to your elders, and all of you clothe yourselves with humility towards one another.
+[01:30:40.100 --> 01:30:44.100]   For God is opposed to the proud, but gives grace to the humble.
+[01:30:44.100 --> 01:30:49.100]   Therefore, humble yourselves under the mighty hand of God,
+[01:30:49.100 --> 01:30:57.100]   that he may exalt you at the proper time, casting all your anxiety on him, because he cares for you."
+[01:30:57.100 --> 01:31:02.100]   Let's take a moment to pray.
+[01:31:02.100 --> 01:31:12.100]   Heavenly Father, we recognize that in this time, you have called us to be on the alert, sober.
+[01:31:12.100 --> 01:31:15.100]   You've called us to be bold and courageous.
+[01:31:15.100 --> 01:31:22.100]   You've called us to really stand our ground, because the devil, our enemy, is prowling around.
+[01:31:22.100 --> 01:31:26.100]   And Lord, it feels like he's more active right now.
+[01:31:26.100 --> 01:31:31.100]   But I know, Father Lord, that he's always been active.
+[01:31:31.100 --> 01:31:38.100]   And from the original hearers of Jesus' words to now, there has been such conflict.
+[01:31:38.100 --> 01:31:43.100]   But we know, Father God, there is no strength or power outside of you.
+[01:31:43.100 --> 01:31:47.100]   Help us, Father God, to have zero confidence in our flesh.
+[01:31:47.100 --> 01:31:56.100]   Help us, Father God, to seek nothing of our own, but help us to become less, to know the paradox, Lord,
+[01:31:56.100 --> 01:32:00.100]   that what you have said, when we are weak, but when you, Lord, we are strong.
+[01:32:00.100 --> 01:32:10.100]   I pray, Father God, for every individual who is tempted to establish themselves, tempted to preserve their life, tempted to seek a greater name.
+[01:32:10.100 --> 01:32:17.100]   Would you humble us now, God, that we would seek your affirmation, God, that we would seek your glory.
+[01:32:17.100 --> 01:32:20.100]   We thank you, it's in Christ's name we pray. Amen.
+[01:32:20.100 --> 01:32:24.100]   Church family, as we sing this last song, let's stand together.
+[01:32:24.100 --> 01:32:52.100]   [Music]
+[01:32:52.100 --> 01:33:05.100]   O kneel me down again, here at your feet.
+[01:33:05.100 --> 01:33:18.100]   Show me how much you love humility.
+[01:33:18.100 --> 01:33:31.100]   O Spirit be the star that leads me to you.
+[01:33:31.100 --> 01:33:44.100]   The humble heart of love, I see in you.
+[01:33:44.100 --> 01:33:57.100]   You are the God of the broken, the friend of the weak.
+[01:33:57.100 --> 01:34:09.100]   You watch the fate of the weary, embrace the ones in need.
+[01:34:09.100 --> 01:34:22.100]   I want to be like you, Jesus, to have this heart in me.
+[01:34:22.100 --> 01:34:37.100]   You are the God of the humble, you are the humble King.
+[01:34:37.100 --> 01:34:50.100]   O kneel me down again, here at your feet.
+[01:34:50.100 --> 01:35:03.100]   Show me how much you love humility.
+[01:35:03.100 --> 01:35:16.100]   O Spirit be the star that leads me to you.
+[01:35:16.100 --> 01:35:25.100]   The humble heart of love, I see in you.
+[01:35:25.100 --> 01:35:29.100]   You are the God of the broken.
+[01:35:29.100 --> 01:35:42.100]   You are the God of the broken, the friend of the weak.
+[01:35:42.100 --> 01:35:55.100]   You watch the fate of the weary, embrace the ones in need.
+[01:35:55.100 --> 01:36:08.100]   I want to be like you, Jesus, to have this heart in me.
+[01:36:08.100 --> 01:36:21.100]   You are the God of the humble, you are the humble God.
+[01:36:21.100 --> 01:36:33.100]   You are the God of the humble, you are the humble King.
+[01:36:33.100 --> 01:36:39.100]   [MUSIC ENDS]
+[01:36:39.100 --> 01:36:41.100]   Let's pray together.
+[01:36:41.100 --> 01:36:44.100]   Our God, this day we thank you again.
+[01:36:44.100 --> 01:36:50.100]   Lord, even as we sing this song, we're reminded just how glorious and beautiful you are.
+[01:36:50.100 --> 01:36:53.100]   You have a love that is humble, Lord.
+[01:36:53.100 --> 01:36:55.100]   You have a love that is sacrificial.
+[01:36:55.100 --> 01:36:57.100]   And we are but beneficiaries.
+[01:36:57.100 --> 01:36:59.100]   We thank you so much.
+[01:36:59.100 --> 01:37:08.100]   We also recognize, God, that in your kind intention for us, you do not want us simply to have the rewards of this age,
+[01:37:08.100 --> 01:37:12.100]   but, God, to own and to have you and your blessedness,
+[01:37:12.100 --> 01:37:16.100]   that, God, we would also attain to the measure and stature of Christ,
+[01:37:16.100 --> 01:37:19.100]   that we would reflect your character of humility.
+[01:37:19.100 --> 01:37:26.100]   And so I pray, Father God, that as we go from here, even within the various facets of our lives,
+[01:37:26.100 --> 01:37:33.100]   from our work, our home, even our parenting, and the way that we treat the people around us,
+[01:37:33.100 --> 01:37:40.100]   may we exhibit such humility, Lord, God, that is pleasing in your sight.
+[01:37:40.100 --> 01:37:48.100]   Receive this benediction.
+[01:37:48.100 --> 01:37:53.100]   Now to him who is able to keep you from stumbling and to make you stand in the presence of his glory,
+[01:37:53.100 --> 01:37:58.100]   blameless with great joy, to the only God, our Savior, through Jesus Christ, our Lord,
+[01:37:58.100 --> 01:38:05.100]   be glory, majesty, dominion, and authority before all time, now and forever. Amen.
+[01:38:05.100 --> 01:38:10.100]   God sent his Son.
+[01:38:10.100 --> 01:38:15.100]   They called him Jesus.
+[01:38:15.100 --> 01:38:25.100]   He came to love, heal, and forgive.
+[01:38:25.100 --> 01:38:36.100]   He lived and died to buy my pardon.
+[01:38:36.100 --> 01:38:47.100]   An empty grave is there to prove my Savior lived.
+[01:38:47.100 --> 01:38:58.100]   Because he lives, I can face tomorrow.
+[01:38:58.100 --> 01:39:09.100]   Because he lives, all fear is gone.
+[01:39:09.100 --> 01:39:19.100]   Because I know he holds the future.
+[01:39:19.100 --> 01:39:33.100]   And life is worth the living just because he lives.
+[01:39:33.100 --> 01:39:36.100]   Just as we normally do, you guys are dismissed.
+[01:39:36.100 --> 01:39:40.100]   This section to that direction and this section through the doors.
+[01:39:40.100 --> 01:39:47.100]   Just as a quick announcement, at around 1 to 115, we are doing some work out in the courtyard.
+[01:39:47.100 --> 01:39:51.100]   Just as a heads up, we are going to be removing those tarps and doing an upgrade.
+[01:39:51.100 --> 01:39:56.100]   Those of you guys who are hanging out and fellowshipping, please know the cafe is going to be open or the front lots.
+

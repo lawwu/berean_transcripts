@@ -1,0 +1,1488 @@
+
+[00:00:00.000 --> 00:00:02.920]   (soft piano music)
+[00:00:02.920 --> 00:00:05.840]   (soft piano music)
+[00:00:05.840 --> 00:00:08.760]   (soft piano music)
+[00:00:08.760 --> 00:00:11.680]   (soft piano music)
+[00:00:11.700 --> 00:00:14.600]   (soft piano music)
+[00:00:14.600 --> 00:00:17.520]   (soft piano music)
+[00:00:17.520 --> 00:00:24.440]   (soft piano music)
+[00:00:24.440 --> 00:00:31.360]   (soft piano music)
+[00:00:31.360 --> 00:00:38.320]   (soft piano music)
+[00:00:42.440 --> 00:00:45.360]   (soft piano music)
+[00:00:45.360 --> 00:00:53.280]   (soft piano music)
+[00:00:53.280 --> 00:01:00.200]   (soft piano music)
+[00:01:00.200 --> 00:01:07.200]   (soft piano music)
+[00:01:11.280 --> 00:01:14.200]   (soft piano music)
+[00:01:14.200 --> 00:01:21.200]   (soft piano music)
+[00:01:21.200 --> 00:01:28.200]   (soft piano music)
+[00:01:28.200 --> 00:01:35.200]   (soft piano music)
+[00:01:39.280 --> 00:01:42.200]   (soft piano music)
+[00:01:42.200 --> 00:01:52.200]   (soft piano music)
+[00:01:52.200 --> 00:02:02.200]   (soft piano music)
+[00:02:02.200 --> 00:02:05.120]   (soft piano music)
+[00:02:31.200 --> 00:02:34.120]   (soft piano music)
+[00:02:34.120 --> 00:02:46.120]   (soft piano music)
+[00:02:46.120 --> 00:02:53.120]   (soft piano music)
+[00:02:53.120 --> 00:02:56.040]   (soft piano music)
+[00:02:56.040 --> 00:03:08.040]   (soft piano music)
+[00:03:08.040 --> 00:03:20.040]   (soft piano music)
+[00:03:20.040 --> 00:03:22.960]   (soft piano music)
+[00:03:22.960 --> 00:03:34.960]   (soft piano music)
+[00:03:34.960 --> 00:03:45.960]   (soft piano music)
+[00:03:45.960 --> 00:03:48.880]   (soft piano music)
+[00:03:48.880 --> 00:04:07.880]   (soft piano music)
+[00:04:07.880 --> 00:04:10.800]   (soft piano music)
+[00:04:10.800 --> 00:04:25.800]   (soft piano music)
+[00:04:25.800 --> 00:04:28.720]   (soft piano music)
+[00:04:28.720 --> 00:04:43.720]   (soft piano music)
+[00:04:43.720 --> 00:04:46.640]   (soft piano music)
+[00:04:46.640 --> 00:05:01.640]   (soft piano music)
+[00:05:01.640 --> 00:05:04.560]   (soft piano music)
+[00:05:04.560 --> 00:05:19.560]   (soft piano music)
+[00:05:19.560 --> 00:05:22.480]   (soft piano music)
+[00:05:22.480 --> 00:05:37.480]   (soft piano music)
+[00:05:38.480 --> 00:05:41.400]   (soft piano music)
+[00:05:41.400 --> 00:05:55.400]   (soft piano music)
+[00:05:55.400 --> 00:05:58.320]   (soft piano music)
+[00:05:58.320 --> 00:06:13.320]   (soft piano music)
+[00:06:14.320 --> 00:06:17.240]   (soft piano music)
+[00:06:17.240 --> 00:06:31.240]   (soft piano music)
+[00:06:31.240 --> 00:06:34.160]   (soft piano music)
+[00:06:34.160 --> 00:06:49.160]   (soft piano music)
+[00:06:49.160 --> 00:06:52.080]   (soft piano music)
+[00:06:52.080 --> 00:07:07.080]   (soft piano music)
+[00:07:07.080 --> 00:07:10.000]   (soft piano music)
+[00:07:10.000 --> 00:07:25.000]   (soft piano music)
+[00:07:25.000 --> 00:07:27.920]   (soft piano music)
+[00:07:27.920 --> 00:07:42.920]   (soft piano music)
+[00:07:42.920 --> 00:07:45.840]   (soft piano music)
+[00:07:45.840 --> 00:08:00.840]   (soft piano music)
+[00:08:00.840 --> 00:08:03.760]   (soft piano music)
+[00:08:03.760 --> 00:08:18.760]   (soft piano music)
+[00:08:18.760 --> 00:08:21.680]   (soft piano music)
+[00:08:21.680 --> 00:08:41.680]   (soft piano music)
+[00:08:41.680 --> 00:08:44.600]   (soft piano music)
+[00:08:44.600 --> 00:08:59.600]   (soft piano music)
+[00:08:59.600 --> 00:09:02.520]   (soft piano music)
+[00:09:02.520 --> 00:09:21.520]   (soft piano music)
+[00:09:21.520 --> 00:09:24.440]   (soft piano music)
+[00:09:24.440 --> 00:09:35.440]   (soft piano music)
+[00:09:35.440 --> 00:09:48.440]   (soft piano music)
+[00:09:48.440 --> 00:09:51.360]   (soft piano music)
+[00:09:51.360 --> 00:10:06.360]   (soft piano music)
+[00:10:06.360 --> 00:10:15.360]   (soft piano music)
+[00:10:15.360 --> 00:10:18.280]   (soft piano music)
+[00:10:18.280 --> 00:10:33.280]   (soft piano music)
+[00:10:33.280 --> 00:10:36.200]   (soft piano music)
+[00:10:36.200 --> 00:10:55.200]   (soft piano music)
+[00:10:55.200 --> 00:10:58.120]   (soft piano music)
+[00:10:58.120 --> 00:11:13.120]   (soft piano music)
+[00:11:13.120 --> 00:11:16.040]   (soft piano music)
+[00:11:16.040 --> 00:11:31.040]   (soft piano music)
+[00:11:31.040 --> 00:11:33.960]   (soft piano music)
+[00:11:33.960 --> 00:11:48.960]   (soft piano music)
+[00:11:48.960 --> 00:11:51.880]   (soft piano music)
+[00:11:51.880 --> 00:12:06.880]   (soft piano music)
+[00:12:06.880 --> 00:12:09.800]   (soft piano music)
+[00:12:09.800 --> 00:12:24.800]   (soft piano music)
+[00:12:24.800 --> 00:12:27.720]   (soft piano music)
+[00:12:27.720 --> 00:12:49.720]   (soft piano music)
+[00:12:49.720 --> 00:12:52.640]   (soft piano music)
+[00:12:52.640 --> 00:13:07.640]   (soft piano music)
+[00:13:07.640 --> 00:13:10.560]   (soft piano music)
+[00:13:10.560 --> 00:13:25.560]   (soft piano music)
+[00:13:25.560 --> 00:13:28.480]   (soft piano music)
+[00:13:28.480 --> 00:13:43.480]   (soft piano music)
+[00:13:43.480 --> 00:13:46.400]   (soft piano music)
+[00:13:46.400 --> 00:14:01.400]   (soft piano music)
+[00:14:01.400 --> 00:14:04.320]   (soft piano music)
+[00:14:04.320 --> 00:14:19.320]   (soft piano music)
+[00:14:19.320 --> 00:14:22.240]   (soft piano music)
+[00:14:22.240 --> 00:14:37.240]   (soft piano music)
+[00:14:37.240 --> 00:14:40.160]   (soft piano music)
+[00:14:40.160 --> 00:14:55.160]   (soft piano music)
+[00:14:55.160 --> 00:14:58.080]   (soft piano music)
+[00:14:58.080 --> 00:15:13.080]   (soft piano music)
+[00:15:13.080 --> 00:15:16.000]   (soft piano music)
+[00:15:16.000 --> 00:15:31.000]   (soft piano music)
+[00:15:31.000 --> 00:15:33.920]   (soft piano music)
+[00:15:33.920 --> 00:15:53.920]   - All right, good morning, church family.
+[00:15:53.920 --> 00:15:54.840]   Happy Lord's Day.
+[00:15:54.840 --> 00:15:56.920]   As usual, it's a privilege and a joy
+[00:15:56.920 --> 00:15:59.920]   to gather together to worship our great God.
+[00:15:59.920 --> 00:16:01.920]   And as Christians, we celebrate,
+[00:16:01.920 --> 00:16:04.920]   we proclaim the gospel of Jesus Christ.
+[00:16:04.920 --> 00:16:06.920]   It's in that gospel that we have freedom
+[00:16:06.920 --> 00:16:07.920]   and we have freedom to worship,
+[00:16:07.920 --> 00:16:09.920]   freedom to sing to our God.
+[00:16:09.920 --> 00:16:12.920]   So let us begin this morning's service with a song.
+[00:16:12.920 --> 00:16:15.920]   Let's sing together, "I Will Glory in My Redeemer."
+[00:16:15.920 --> 00:16:20.920]   (soft piano music)
+[00:16:21.920 --> 00:16:24.920]   (soft piano music)
+[00:16:24.920 --> 00:16:41.920]   ♪ I will glory in my redeemer ♪
+[00:16:41.920 --> 00:16:46.920]   ♪ Whose priceless blood has ransomed me ♪
+[00:16:46.920 --> 00:16:52.920]   ♪ Mine was the sin that drove the bitter nails ♪
+[00:16:52.920 --> 00:16:57.920]   ♪ And hung him on that judgment tree ♪
+[00:16:57.920 --> 00:17:02.920]   ♪ I will glory in my redeemer ♪
+[00:17:02.920 --> 00:17:07.920]   ♪ Who crushed the power of sin and death ♪
+[00:17:07.920 --> 00:17:14.920]   ♪ My only savior before the holy judge ♪
+[00:17:14.920 --> 00:17:19.920]   ♪ The lamb who is my righteousness ♪
+[00:17:19.920 --> 00:17:24.920]   ♪ The lamb who is my righteousness ♪
+[00:17:24.920 --> 00:17:27.920]   (soft piano music)
+[00:17:27.920 --> 00:17:36.920]   ♪ I will glory, I will glory in my redeemer ♪
+[00:17:36.920 --> 00:17:42.920]   ♪ My life he bought, my love he owed ♪
+[00:17:42.920 --> 00:17:48.920]   ♪ I have no longings for another ♪
+[00:17:48.920 --> 00:17:53.920]   ♪ I'm satisfied in him alone ♪
+[00:17:53.920 --> 00:17:58.920]   ♪ I will glory in my redeemer ♪
+[00:17:58.920 --> 00:18:03.920]   ♪ His faithfulness my stands in place ♪
+[00:18:03.920 --> 00:18:10.920]   ♪ My foes are mighty and rush upon me ♪
+[00:18:10.920 --> 00:18:15.920]   ♪ My feet are burnt out by his grace ♪
+[00:18:15.920 --> 00:18:20.920]   ♪ My feet are burnt out by his grace ♪
+[00:18:20.920 --> 00:18:23.920]   (soft piano music)
+[00:18:38.920 --> 00:18:43.920]   ♪ I will glory in my redeemer ♪
+[00:18:43.920 --> 00:18:48.920]   ♪ Who carries me on eagle's wings ♪
+[00:18:48.920 --> 00:18:54.920]   ♪ He crowns my life with loving kindness ♪
+[00:18:54.920 --> 00:18:59.920]   ♪ His triumphs all I'll ever sing ♪
+[00:18:59.920 --> 00:19:04.920]   ♪ I will glory in my redeemer ♪
+[00:19:04.920 --> 00:19:09.920]   ♪ Who waits for me at gates of gold ♪
+[00:19:09.920 --> 00:19:16.920]   ♪ And when he calls me it will be paradise ♪
+[00:19:16.920 --> 00:19:21.920]   ♪ A space forever to behold ♪
+[00:19:21.920 --> 00:19:26.920]   ♪ A space forever to behold ♪
+[00:19:26.920 --> 00:19:31.920]   ♪ And I will glory in my redeemer ♪
+[00:19:31.920 --> 00:19:36.920]   ♪ Who waits for me at gates of gold ♪
+[00:19:36.920 --> 00:19:43.920]   ♪ And when he calls me it will be paradise ♪
+[00:19:43.920 --> 00:19:48.920]   ♪ A space forever to behold ♪
+[00:19:48.920 --> 00:19:54.920]   ♪ A space forever to behold ♪
+[00:19:54.920 --> 00:19:59.920]   (soft piano music)
+[00:19:59.920 --> 00:20:09.920]   - All right, good morning.
+[00:20:09.920 --> 00:20:11.920]   Welcome to Breen Community Church.
+[00:20:11.920 --> 00:20:14.920]   We're gonna get started with Pastor Mark.
+[00:20:14.920 --> 00:20:17.920]   He's gonna have an announcement about next week.
+[00:20:17.920 --> 00:20:22.920]   - Good morning, everybody.
+[00:20:22.920 --> 00:20:25.920]   In the month of October, we were especially encouraged
+[00:20:25.920 --> 00:20:28.920]   to fast and pray for the various needs in our lives
+[00:20:28.920 --> 00:20:31.920]   and particularly to fast for the people
+[00:20:31.920 --> 00:20:34.920]   who are unbelievers in our family and amongst our friends.
+[00:20:34.920 --> 00:20:37.920]   And so as a capstone to that, next Sunday,
+[00:20:37.920 --> 00:20:40.920]   it would be a special evangelism-oriented Sunday
+[00:20:40.920 --> 00:20:42.920]   as an opportunity for you to invite
+[00:20:42.920 --> 00:20:44.920]   the people in your lives to come.
+[00:20:44.920 --> 00:20:46.920]   During the service, I'm gonna be giving
+[00:20:46.920 --> 00:20:49.920]   a special gospel sermon entitled "Is it Worth It?"
+[00:20:49.920 --> 00:20:51.920]   talking about what's truly valuable in our lives
+[00:20:51.920 --> 00:20:54.920]   and then after second service at 1245
+[00:20:54.920 --> 00:20:56.920]   in the cry room across the way,
+[00:20:56.920 --> 00:20:58.920]   we're gonna be having a Q&A time.
+[00:20:58.920 --> 00:21:01.920]   And during that time, our outreach team will be,
+[00:21:01.920 --> 00:21:04.920]   you know, having free resources of Bibles,
+[00:21:04.920 --> 00:21:06.920]   books about the gospel, and pamphlets,
+[00:21:06.920 --> 00:21:09.920]   but also David Mobley and I will be hosting
+[00:21:09.920 --> 00:21:12.920]   a Q&A time where people can submit questions
+[00:21:12.920 --> 00:21:14.920]   about Christian doctrine,
+[00:21:14.920 --> 00:21:17.920]   maybe even counter-arguments to the Christian faith as well,
+[00:21:17.920 --> 00:21:19.920]   and we'll take time to field any of those questions
+[00:21:19.920 --> 00:21:20.920]   that may come in.
+[00:21:20.920 --> 00:21:22.920]   So see that as a special opportunity
+[00:21:22.920 --> 00:21:25.920]   for you to bring out your friends and family
+[00:21:25.920 --> 00:21:26.920]   who are unbelieving,
+[00:21:26.920 --> 00:21:27.920]   and we'll continue to pray for them.
+[00:21:27.920 --> 00:21:28.920]   Thank you.
+[00:21:28.920 --> 00:21:35.920]   - All right, again, just to clarify,
+[00:21:35.920 --> 00:21:36.920]   next Sunday, Pastor Mark is gonna be giving
+[00:21:36.920 --> 00:21:39.920]   a gospel message, and so our outreach team
+[00:21:39.920 --> 00:21:40.920]   is that special event,
+[00:21:40.920 --> 00:21:42.920]   so he's gonna be presenting the gospel,
+[00:21:42.920 --> 00:21:45.920]   and then there is a Q&A after that.
+[00:21:45.920 --> 00:21:48.920]   So if you've been praying for your unbelieving family,
+[00:21:48.920 --> 00:21:51.920]   friends, coworkers, next Sunday would be the good time
+[00:21:51.920 --> 00:21:54.920]   to bring them, to introduce them to that, okay?
+[00:21:54.920 --> 00:21:55.920]   Couple of announcements.
+[00:21:55.920 --> 00:21:57.920]   Tomorrow is Trunk Formation,
+[00:21:57.920 --> 00:22:01.920]   so the church will be open somewhere around 3 to 3.30.
+[00:22:01.920 --> 00:22:04.920]   If you need to come earlier to decorate and do stuff,
+[00:22:04.920 --> 00:22:05.920]   please let us know.
+[00:22:05.920 --> 00:22:09.920]   We could, there will most likely be somebody here
+[00:22:09.920 --> 00:22:10.920]   a bit earlier than that,
+[00:22:10.920 --> 00:22:12.920]   but just to make sure, please let us know.
+[00:22:12.920 --> 00:22:14.920]   And so if you need to get here earlier than that
+[00:22:14.920 --> 00:22:16.920]   to set up, we'll be able to come,
+[00:22:16.920 --> 00:22:18.920]   and hopefully we'll be able to open the doors
+[00:22:18.920 --> 00:22:20.920]   where we can do that.
+[00:22:20.920 --> 00:22:22.920]   For the rest of you who are coming with your children,
+[00:22:22.920 --> 00:22:24.920]   it's starting at 5 or 5.30?
+[00:22:24.920 --> 00:22:25.920]   Sorry.
+[00:22:25.920 --> 00:22:26.920]   - 5.30.
+[00:22:26.920 --> 00:22:27.920]   - 5.30?
+[00:22:27.920 --> 00:22:30.920]   5.30, okay?
+[00:22:30.920 --> 00:22:32.920]   So, all right.
+[00:22:32.920 --> 00:22:34.920]   If I'm wrong, let me know.
+[00:22:34.920 --> 00:22:37.920]   If I don't get corrected, it's 5.30, okay?
+[00:22:37.920 --> 00:22:38.920]   Thanksgiving regional dinners,
+[00:22:38.920 --> 00:22:41.920]   if you are planning to come and you haven't signed up
+[00:22:41.920 --> 00:22:44.920]   and you wanna stay in Orange County, okay,
+[00:22:44.920 --> 00:22:46.920]   please sign up as soon as possible,
+[00:22:46.920 --> 00:22:50.920]   or else we have few spots left in Orange County
+[00:22:50.920 --> 00:22:53.920]   and plenty left in Los Angeles.
+[00:22:53.920 --> 00:22:55.920]   So, sign up as soon as you can
+[00:22:55.920 --> 00:22:57.920]   so that we can place you near your home
+[00:22:57.920 --> 00:22:58.920]   instead of going further away.
+[00:22:58.920 --> 00:23:00.920]   So, if you're planning to sign up,
+[00:23:00.920 --> 00:23:01.920]   please sign up ahead.
+[00:23:01.920 --> 00:23:02.920]   And again, seriously,
+[00:23:02.920 --> 00:23:04.920]   it's hard for us to put people together last minute,
+[00:23:04.920 --> 00:23:06.920]   so if you are planning to come,
+[00:23:06.920 --> 00:23:08.920]   please sign up today if possible.
+[00:23:08.920 --> 00:23:12.920]   BAM Park Day is happening on November 5th,
+[00:23:12.920 --> 00:23:18.920]   and then after the worship time,
+[00:23:18.920 --> 00:23:20.920]   our sister Kristen is gonna come up
+[00:23:20.920 --> 00:23:23.920]   and give her testimony and then be baptized.
+[00:23:23.920 --> 00:23:26.920]   But before we pray for the offering,
+[00:23:26.920 --> 00:23:28.920]   those of you who've been following the news,
+[00:23:28.920 --> 00:23:32.920]   what happened in Itaewon in Korea yesterday,
+[00:23:32.920 --> 00:23:35.920]   about over 150 students, young students,
+[00:23:35.920 --> 00:23:36.920]   like in late teens and early 20s,
+[00:23:36.920 --> 00:23:38.920]   basically got stampeded to death.
+[00:23:38.920 --> 00:23:41.920]   They were in this area where they're known for
+[00:23:41.920 --> 00:23:44.920]   kind of night hangouts and that type of stuff.
+[00:23:44.920 --> 00:23:47.920]   And the reason I mention this is because
+[00:23:47.920 --> 00:23:51.920]   South Korea has, in the last 100 years,
+[00:23:51.920 --> 00:23:53.920]   experienced tremendous revival of the gospel
+[00:23:53.920 --> 00:23:55.920]   and the church is growing so rapidly.
+[00:23:55.920 --> 00:23:57.920]   And then just in one generation,
+[00:23:57.920 --> 00:23:59.920]   the country completely flipped.
+[00:23:59.920 --> 00:24:01.920]   And so they went from ascending nation,
+[00:24:01.920 --> 00:24:04.920]   missionaries, to receiving nation.
+[00:24:04.920 --> 00:24:07.920]   And so the population went from 33% Christian
+[00:24:07.920 --> 00:24:09.920]   to the Gen Z generation
+[00:24:09.920 --> 00:24:11.920]   to less than 3% in one generation.
+[00:24:11.920 --> 00:24:13.920]   So they're completely losing the college students
+[00:24:13.920 --> 00:24:17.920]   and under, or young adults and under.
+[00:24:17.920 --> 00:24:20.920]   And so this is a huge issue, what's going on in Korea,
+[00:24:20.920 --> 00:24:22.920]   where the secularism has penetrated.
+[00:24:22.920 --> 00:24:25.920]   They've lost all respect for religion
+[00:24:25.920 --> 00:24:26.920]   and Christianity in particular,
+[00:24:26.920 --> 00:24:28.920]   and the younger generation.
+[00:24:28.920 --> 00:24:30.920]   So they have so many mega churches over there
+[00:24:30.920 --> 00:24:34.920]   that just are not able to reach their children.
+[00:24:34.920 --> 00:24:36.920]   And so as a result of that,
+[00:24:36.920 --> 00:24:38.920]   our denomination actually has contacted us
+[00:24:38.920 --> 00:24:40.920]   knowing that we have a lot of young Asian Americans
+[00:24:40.920 --> 00:24:43.920]   at our church asking us to come out to Korea
+[00:24:43.920 --> 00:24:46.920]   and begin some work to reach out to the younger generation.
+[00:24:46.920 --> 00:24:49.920]   So I am headed out there early November
+[00:24:49.920 --> 00:24:52.920]   with the missionaries to get some connection.
+[00:24:52.920 --> 00:24:54.920]   And if the Lord opens the door,
+[00:24:54.920 --> 00:24:56.920]   we may begin to do some work out in Korea,
+[00:24:56.920 --> 00:24:58.920]   reaching out to the younger generation.
+[00:24:58.920 --> 00:25:00.920]   And so I mention this to you because,
+[00:25:00.920 --> 00:25:04.920]   one, I'm asking you guys to pray that that would happen.
+[00:25:04.920 --> 00:25:06.920]   And hearing that news, that that's the generation
+[00:25:06.920 --> 00:25:09.920]   that they're losing, and that so many of them
+[00:25:09.920 --> 00:25:11.920]   are being lost to secularism.
+[00:25:11.920 --> 00:25:14.920]   And so Stampede basically happened in this area
+[00:25:14.920 --> 00:25:18.920]   where they're known for clubbing and night hangouts.
+[00:25:18.920 --> 00:25:21.920]   Thousands and thousands of these young people got in,
+[00:25:21.920 --> 00:25:24.920]   they got forced into this alley, and then they got stampeded.
+[00:25:24.920 --> 00:25:28.920]   And so 157 basically has passed away,
+[00:25:28.920 --> 00:25:30.920]   and they're expecting as high as 200
+[00:25:30.920 --> 00:25:32.920]   when they do the final count.
+[00:25:32.920 --> 00:25:34.920]   So 200 all in this one long alley stretch.
+[00:25:34.920 --> 00:25:36.920]   That's how crazy it was.
+[00:25:36.920 --> 00:25:39.920]   And so my prayer is that I'm asking you to pray for,
+[00:25:39.920 --> 00:25:43.920]   one, that when we go out that the doors will be open
+[00:25:43.920 --> 00:25:45.920]   so we can do the work, but two,
+[00:25:45.920 --> 00:25:48.920]   that I'm sure this is a shock to the nation,
+[00:25:48.920 --> 00:25:51.920]   that the older generation has been very concerned
+[00:25:51.920 --> 00:25:54.920]   about the younger generation, but this would be a wake-up call,
+[00:25:54.920 --> 00:25:57.920]   in particular to the churches out there,
+[00:25:57.920 --> 00:25:59.920]   to really take this seriously
+[00:25:59.920 --> 00:26:01.920]   and to reach out to the younger generation,
+[00:26:01.920 --> 00:26:03.920]   that there would be a revival in the church
+[00:26:03.920 --> 00:26:06.920]   as a result of the shock of what has happened yesterday.
+[00:26:06.920 --> 00:26:08.920]   So if you guys can keep that in your prayer.
+[00:26:08.920 --> 00:26:10.920]   And so let me pray for us.
+[00:26:10.920 --> 00:26:12.920]   And again, if you brought a physical offering,
+[00:26:12.920 --> 00:26:14.920]   we have a physical offering box over there.
+[00:26:14.920 --> 00:26:16.920]   Otherwise, we'll give you a minute
+[00:26:16.920 --> 00:26:18.920]   to give your offering electronically.
+[00:26:18.920 --> 00:26:20.920]   All right, let's pray.
+[00:26:20.920 --> 00:26:26.920]   Lord, we come before you with heavy hearts,
+[00:26:26.920 --> 00:26:31.920]   knowing that so many young, precious souls, Lord God,
+[00:26:31.920 --> 00:26:34.920]   have been lost frivolously.
+[00:26:34.920 --> 00:26:39.920]   Help us, Lord God, not to simply grieve and feel bad, Lord God,
+[00:26:39.920 --> 00:26:42.920]   as the world does because their lives were cut short,
+[00:26:42.920 --> 00:26:44.920]   especially at such a young age.
+[00:26:44.920 --> 00:26:48.920]   We pray for the grieving parents and family members, Lord God,
+[00:26:48.920 --> 00:26:53.920]   that this would lead to a greater despair
+[00:26:53.920 --> 00:26:56.920]   that will ultimately lead to a greater hope in Christ.
+[00:26:56.920 --> 00:26:58.920]   I pray for a revival.
+[00:26:58.920 --> 00:27:02.920]   I pray for the existing current churches, Lord God,
+[00:27:02.920 --> 00:27:04.920]   to wake up from their slumber,
+[00:27:04.920 --> 00:27:08.920]   to see the dire spiritual need that we are in,
+[00:27:08.920 --> 00:27:11.920]   not just there, but all over the world,
+[00:27:11.920 --> 00:27:13.920]   and especially here, Father God.
+[00:27:13.920 --> 00:27:17.920]   Help us not to live day to day like the rest of the world,
+[00:27:17.920 --> 00:27:19.920]   as if we're going to be here forever,
+[00:27:19.920 --> 00:27:22.920]   knowing that we are just sojourners just passing through.
+[00:27:22.920 --> 00:27:25.920]   Help us, Lord, to live for eternity.
+[00:27:25.920 --> 00:27:29.920]   Help us, Lord, to live in the midst of this world,
+[00:27:29.920 --> 00:27:33.920]   knowing, Father God, the spiritual poverty that surrounds us.
+[00:27:33.920 --> 00:27:36.920]   Help us to be a greater and greater light,
+[00:27:36.920 --> 00:27:39.920]   that we live for purpose, that we would live for your glory,
+[00:27:39.920 --> 00:27:42.920]   that we would live, Lord God, to see the lost come to Christ.
+[00:27:42.920 --> 00:27:46.920]   I pray for your blessing, especially upon next week.
+[00:27:46.920 --> 00:27:50.920]   Pastor Mark, with all the people who have been praying,
+[00:27:50.920 --> 00:27:53.920]   Lord God, we ask, Lord, that you would bring revival
+[00:27:53.920 --> 00:27:56.920]   in our own hearts, that we may see the lost
+[00:27:56.920 --> 00:27:59.920]   and have compassion and to pray.
+[00:27:59.920 --> 00:28:02.920]   The lost around us, Lord God, that they may see the light,
+[00:28:02.920 --> 00:28:04.920]   they too may know who you are.
+[00:28:04.920 --> 00:28:06.920]   Use us mightily for that purpose.
+[00:28:06.920 --> 00:28:11.920]   Anoint and bless, especially next week, for that purpose.
+[00:28:11.920 --> 00:28:13.920]   And we ask, Lord God, that even in our giving,
+[00:28:13.920 --> 00:28:17.920]   may all of it be multiplied 30, 60, 100-fold
+[00:28:17.920 --> 00:28:19.920]   for your kingdom and for your glory.
+[00:28:19.920 --> 00:28:22.920]   In Jesus' name we pray. Amen.
+[00:28:22.920 --> 00:28:32.920]   ♪♪♪
+[00:28:32.920 --> 00:28:42.940]   ♪♪♪
+[00:28:42.940 --> 00:28:52.940]   ♪♪♪
+[00:28:52.940 --> 00:29:02.960]   ♪♪♪
+[00:29:02.960 --> 00:29:08.960]   ♪♪♪
+[00:29:08.960 --> 00:29:10.960]   Church family, would you please stand with us
+[00:29:10.960 --> 00:29:12.960]   as we continue our worship?
+[00:29:12.960 --> 00:29:17.960]   ♪♪♪
+[00:29:17.960 --> 00:29:22.980]   ♪♪♪
+[00:29:22.980 --> 00:29:27.980]   ♪♪♪
+[00:29:27.980 --> 00:29:32.980]   ♪♪♪
+[00:29:32.980 --> 00:29:37.980]   ♪♪♪
+[00:29:37.980 --> 00:29:41.980]   ♪ Hear His law, vast as the ocean ♪
+[00:29:41.980 --> 00:29:46.980]   ♪ Loving kindness as the flood ♪
+[00:29:46.980 --> 00:29:52.000]   ♪ When the prince, a life, a ransom ♪
+[00:29:52.000 --> 00:29:57.000]   ♪ Shed for us His precious blood ♪
+[00:29:57.000 --> 00:30:02.000]   ♪ Who His love will not remember ♪
+[00:30:02.000 --> 00:30:07.000]   ♪ He can never be forgotten ♪
+[00:30:07.000 --> 00:30:12.000]   ♪ Throughout Heaven's eternal day ♪
+[00:30:12.000 --> 00:30:17.020]   ♪♪♪
+[00:30:17.020 --> 00:30:23.020]   ♪ On the mount, on the mount of crucifixion ♪
+[00:30:23.020 --> 00:30:28.020]   ♪ Fountains open deep and wide ♪
+[00:30:28.020 --> 00:30:32.020]   ♪ The floodgates of God's mercy ♪
+[00:30:32.020 --> 00:30:37.020]   ♪ Flow to vast and gracious tide ♪
+[00:30:37.020 --> 00:30:41.020]   ♪ Grace and love like mighty rivers ♪
+[00:30:41.020 --> 00:30:46.040]   ♪ Poured incessant from above ♪
+[00:30:46.040 --> 00:30:50.040]   ♪ Heaven's peace and perfect justice ♪
+[00:30:50.040 --> 00:30:56.040]   ♪ Gifts of gifts to world in love ♪
+[00:30:56.040 --> 00:31:01.040]   ♪♪♪
+[00:31:01.040 --> 00:31:06.040]   ♪ Here is love, here is love that conquered evil ♪
+[00:31:06.040 --> 00:31:11.040]   ♪ Christ the first, born from the grave ♪
+[00:31:11.040 --> 00:31:16.060]   ♪ Death has failed to be found equal ♪
+[00:31:16.060 --> 00:31:20.060]   ♪ To the life of Him who stayed ♪
+[00:31:20.060 --> 00:31:25.060]   ♪ In the valley of our darkness ♪
+[00:31:25.060 --> 00:31:30.060]   ♪ Dawn is everlasting light ♪
+[00:31:30.060 --> 00:31:34.060]   ♪ Perfect love and glorious radiance ♪
+[00:31:34.060 --> 00:31:40.060]   ♪ Has repelled the devilish night ♪
+[00:31:40.060 --> 00:31:45.080]   ♪♪♪
+[00:31:45.080 --> 00:31:50.080]   ♪♪♪
+[00:31:50.080 --> 00:31:55.080]   ♪♪♪
+[00:31:55.080 --> 00:32:00.080]   ♪ No love is higher, no love is wider ♪
+[00:32:00.080 --> 00:32:05.080]   ♪ No love is deeper, no love is truer ♪
+[00:32:05.080 --> 00:32:09.100]   ♪ No love is higher, no love is wider ♪
+[00:32:09.100 --> 00:32:14.100]   ♪ No love is like your love, O Lord ♪
+[00:32:14.100 --> 00:32:18.100]   ♪ No love is higher, no love is wider ♪
+[00:32:18.100 --> 00:32:23.100]   ♪ No love is deeper, no love is truer ♪
+[00:32:23.100 --> 00:32:27.100]   ♪ No love is higher, no love is wider ♪
+[00:32:27.100 --> 00:32:30.100]   ♪ No love is like your love, O Lord ♪
+[00:32:30.100 --> 00:32:32.100]   One more time.
+[00:32:32.100 --> 00:32:36.100]   ♪ No love is higher, no love is wider ♪
+[00:32:36.100 --> 00:32:41.120]   ♪ No love is deeper, no love is truer ♪
+[00:32:41.120 --> 00:32:45.120]   ♪ No love is higher, no love is wider ♪
+[00:32:45.120 --> 00:32:51.120]   ♪ No love is like your love, O Lord ♪
+[00:32:51.120 --> 00:32:56.120]   ♪ Here is love, best as the heavens ♪
+[00:32:56.120 --> 00:33:00.120]   ♪ Boundless as the stars above ♪
+[00:33:00.120 --> 00:33:05.120]   ♪ Are the souls that He has ransomed ♪
+[00:33:05.120 --> 00:33:10.120]   ♪ Precious Father, treasured sons ♪
+[00:33:10.120 --> 00:33:15.120]   ♪ We are called to feast forever ♪
+[00:33:15.120 --> 00:33:20.120]   ♪ On a love beyond our time ♪
+[00:33:20.120 --> 00:33:25.120]   ♪ Glorious Father, Son, and Spirit ♪
+[00:33:25.120 --> 00:33:30.120]   ♪ Now with man are intertwined ♪
+[00:33:30.120 --> 00:33:35.120]   ♪ We are called to feast forever ♪
+[00:33:35.120 --> 00:33:40.120]   ♪ On a love beyond our time ♪
+[00:33:40.120 --> 00:33:46.120]   ♪ Glorious Father, Son, and Spirit ♪
+[00:33:46.120 --> 00:33:52.120]   ♪ Now with man are intertwined ♪
+[00:33:52.120 --> 00:34:08.120]   ♪
+[00:34:08.120 --> 00:34:15.120]   ♪ O God, before the mountains were brought forth ♪
+[00:34:15.120 --> 00:34:21.120]   ♪ Were days of spring and summer filled the earth ♪
+[00:34:21.120 --> 00:34:30.120]   ♪ From everlasting, You are God ♪
+[00:34:30.120 --> 00:34:36.120]   ♪
+[00:34:36.120 --> 00:34:43.120]   ♪ We dwell beneath the stars in ancient skies ♪
+[00:34:43.120 --> 00:34:49.120]   ♪ A thousand years are nothing in Your sight ♪
+[00:34:49.120 --> 00:34:58.120]   ♪ From everlasting, You are God ♪
+[00:34:58.120 --> 00:35:00.120]   ♪
+[00:35:00.120 --> 00:35:07.120]   ♪ And all our days are held within Your hands ♪
+[00:35:07.120 --> 00:35:13.120]   ♪ Your perfect love and favor have no end ♪
+[00:35:13.120 --> 00:35:20.120]   ♪ We rest within the wisdom of Your plan ♪
+[00:35:20.120 --> 00:35:26.120]   ♪ Everlasting God ♪
+[00:35:26.120 --> 00:35:31.120]   ♪
+[00:35:31.120 --> 00:35:37.120]   ♪ O God, when joy and tragedy collide ♪
+[00:35:37.120 --> 00:35:43.120]   ♪ And loss reminds us life is but a sigh ♪
+[00:35:43.120 --> 00:35:53.120]   ♪ From everlasting, You are God ♪
+[00:35:53.120 --> 00:35:55.120]   ♪
+[00:35:55.120 --> 00:36:01.120]   ♪ And all our days are held within Your hands ♪
+[00:36:01.120 --> 00:36:08.120]   ♪ Your perfect love and favor have no end ♪
+[00:36:08.120 --> 00:36:14.120]   ♪ We rest within the wisdom of Your plan ♪
+[00:36:14.120 --> 00:36:21.120]   ♪ Everlasting God ♪
+[00:36:21.120 --> 00:36:24.120]   ♪
+[00:36:24.120 --> 00:36:28.120]   ♪ We rest within Your plan ♪
+[00:36:28.120 --> 00:36:32.120]   ♪
+[00:36:32.120 --> 00:36:39.120]   ♪ O God of light, our ways are known to You ♪
+[00:36:39.120 --> 00:36:46.120]   ♪ But by Your grace, You're making all things new ♪
+[00:36:46.120 --> 00:36:53.120]   ♪ So satisfy us in our numbered days ♪
+[00:36:53.120 --> 00:36:59.120]   ♪ Establish every effort while we wait ♪
+[00:36:59.120 --> 00:37:10.120]   ♪ From everlasting, You are God ♪
+[00:37:10.120 --> 00:37:17.120]   ♪ And all our days are held within Your hands ♪
+[00:37:17.120 --> 00:37:24.120]   ♪ Your perfect love and favor have no end ♪
+[00:37:24.120 --> 00:37:30.120]   ♪ We rest within the wisdom of Your plan ♪
+[00:37:30.120 --> 00:37:34.120]   ♪ Everlasting God ♪
+[00:37:34.120 --> 00:37:41.120]   ♪ And all our days are held within Your hands ♪
+[00:37:41.120 --> 00:37:48.120]   ♪ Your perfect love and favor have no end ♪
+[00:37:48.120 --> 00:37:54.120]   ♪ We rest within the wisdom of Your plan ♪
+[00:37:54.120 --> 00:38:01.120]   ♪ Everlasting God ♪
+[00:38:01.120 --> 00:38:04.120]   ♪
+[00:38:04.120 --> 00:38:08.120]   ♪ Everlasting God ♪
+[00:38:08.120 --> 00:38:13.120]   ♪
+[00:38:13.120 --> 00:38:15.120]   Amen. You may be seated.
+[00:38:15.120 --> 00:38:34.120]   Hi. For those that don't know, my name is Kristen Pond.
+[00:38:34.120 --> 00:38:37.120]   I am a second-year student at Biola University.
+[00:38:37.120 --> 00:38:40.120]   I'm going to be sharing my testimony.
+[00:38:40.120 --> 00:38:43.120]   My testimony starts off similar to many here.
+[00:38:43.120 --> 00:38:48.120]   I grew up in a Christian home and went to church every Sunday service,
+[00:38:48.120 --> 00:38:51.120]   just like right now, every Friday night for youth group,
+[00:38:51.120 --> 00:38:56.120]   like many of you college students, and summer VBS camps.
+[00:38:56.120 --> 00:39:00.120]   I only went to church because it was the only thing I knew,
+[00:39:00.120 --> 00:39:03.120]   and I was simply following what everyone else was doing
+[00:39:03.120 --> 00:39:06.120]   because that's the Christian thing to do.
+[00:39:06.120 --> 00:39:09.120]   I was blindly following the ways of what would need to be done
+[00:39:09.120 --> 00:39:13.120]   to be considered a good Christian by others.
+[00:39:13.120 --> 00:39:20.120]   Yet, during all the times I went to church, I still sinned heavily.
+[00:39:20.120 --> 00:39:22.120]   I surrounded myself with non-Christians at school
+[00:39:22.120 --> 00:39:27.120]   and engaged in sinful behaviors, such as laziness in my academics,
+[00:39:27.120 --> 00:39:32.120]   leading to failing many classes, having a short temper, and being quick to anger,
+[00:39:32.120 --> 00:39:37.120]   which led to physical and verbal fights with my friends and my family.
+[00:39:37.120 --> 00:39:44.120]   I placed my value in sports and music, prioritizing them above all else.
+[00:39:44.120 --> 00:39:47.120]   I was clearly not the Christian I claimed to be,
+[00:39:47.120 --> 00:39:52.120]   and the worst part was that I knew what I was doing was wrong.
+[00:39:52.120 --> 00:39:55.120]   I was fully aware of all the sin I was committing,
+[00:39:55.120 --> 00:39:59.120]   but I did not want to stop sinning.
+[00:39:59.120 --> 00:40:02.120]   I was full of pride and self-righteousness.
+[00:40:02.120 --> 00:40:08.120]   In the back of my mind, I made up the excuse that God will forgive me of my sins
+[00:40:08.120 --> 00:40:15.120]   because I claimed I was a Christian, and that was what he was supposed to do for Christians.
+[00:40:15.120 --> 00:40:20.120]   1 John 1:9 says, "If he confesses our sins, he is faithful and just
+[00:40:20.120 --> 00:40:26.120]   and will forgive us our sins and purify us from all unrighteousness."
+[00:40:26.120 --> 00:40:33.120]   I admitted I sinned to God in my prayers, so I felt that I was off the hook until my next sin.
+[00:40:33.120 --> 00:40:38.120]   However, I kept sinning over and over again, convincing myself I would be forgiven
+[00:40:38.120 --> 00:40:43.120]   after every time I tried to repent and asked for forgiveness.
+[00:40:43.120 --> 00:40:49.120]   I carried this mindset with me all throughout my elementary school days to the end of middle school.
+[00:40:49.120 --> 00:40:54.120]   This ungodly mindset encouraged an unhealthy pattern of sinning and ignoring the truth
+[00:40:54.120 --> 00:41:00.120]   that I was really not a Christian, nor was I forgiven for the sins I committed.
+[00:41:00.120 --> 00:41:08.120]   I kept giving in to desire to sin as I did not change the ways after repenting.
+[00:41:08.120 --> 00:41:14.120]   It cannot have been more obvious that I was of this world, consumed by its sinful pleasures.
+[00:41:14.120 --> 00:41:20.120]   I really started to drift away during eighth grade as I completely stopped going to church.
+[00:41:20.120 --> 00:41:28.120]   I put all my time, energy, and heart into my friends, which replaced God on the throne as gods in my life.
+[00:41:28.120 --> 00:41:32.120]   It was not until the end of eighth grade where my youth pastor sat me down
+[00:41:32.120 --> 00:41:36.120]   and talked over what it really meant to be a Christian.
+[00:41:36.120 --> 00:41:41.120]   We talked through all the steps from when I first thought I accepted Jesus into my heart
+[00:41:41.120 --> 00:41:43.120]   to where I was at the moment.
+[00:41:43.120 --> 00:41:49.120]   I knew what it meant to be a Christian, but I started to question if I was even a Christian to begin with.
+[00:41:49.120 --> 00:41:56.120]   After all, I only opened the door partially, still holding onto the world with one hand.
+[00:41:56.120 --> 00:42:02.120]   I only verbally confessed I was a believer, which did not qualify as a profession of faith.
+[00:42:02.120 --> 00:42:06.120]   I finally admitted I never fully let him into my life.
+[00:42:06.120 --> 00:42:13.120]   I was embarrassed and ashamed of this, but my youth pastor, along with a few of my summer camp counselors,
+[00:42:13.120 --> 00:42:20.120]   guided me through the ways in which I can reconcile with God and commit my life to him for real.
+[00:42:20.120 --> 00:42:25.120]   I repeated the prayer that everyone said when they first believed when they were just little five-year-olds,
+[00:42:25.120 --> 00:42:29.120]   but this time I focused on giving it all to him.
+[00:42:29.120 --> 00:42:34.120]   This meant not just faking it on Sundays like right now and Fridays in college group,
+[00:42:34.120 --> 00:42:42.120]   but also to go on and live a godly life Monday through Thursday at school.
+[00:42:42.120 --> 00:42:48.120]   Truthfully speaking, it didn't take just a day, a flip of a switch.
+[00:42:48.120 --> 00:42:53.120]   It took many months to come back to church and to fully trust him.
+[00:42:53.120 --> 00:42:58.120]   I felt a yearning and a self-desire to know him and to be like him.
+[00:42:58.120 --> 00:43:04.120]   Throughout it all, he waited patiently as I learned to come back to him and rely on his love.
+[00:43:04.120 --> 00:43:08.120]   I felt him slowly take the reins and guide me back to the light.
+[00:43:08.120 --> 00:43:16.120]   As of now, I have taken my relationship with God seriously, and I'm still desiring to grow to him closer.
+[00:43:16.120 --> 00:43:22.120]   Those who might recognize me from the members' meeting, this is two weeks late, I know,
+[00:43:22.120 --> 00:43:28.120]   but I wanted my parents to be here, and my brother, who flew down last minute, thank you.
+[00:43:28.120 --> 00:43:32.120]   This is an encouragement to see how God has worked in my life.
+[00:43:32.120 --> 00:43:39.120]   And for the people that God has placed in this church, and people that I invited from Biola and UCI,
+[00:43:39.120 --> 00:43:45.120]   and the people in the college group especially, I want you to continue to challenge me to grow closer to him
+[00:43:45.120 --> 00:43:50.120]   and to please hold me accountable for my word and the promises that I make.
+[00:43:50.120 --> 00:43:55.120]   As I stand here with my cheap $2 shower shoes, thank you.
+[00:43:55.120 --> 00:44:06.120]   [Applause]
+[00:44:06.120 --> 00:44:28.120]   [Pause]
+[00:44:28.120 --> 00:44:40.120]   [Applause]
+[00:44:40.120 --> 00:44:44.120]   All right, let's go Biola.
+[00:44:44.120 --> 00:44:48.120]   Yeah, that's my alma mater. That's where I met my wife.
+[00:44:48.120 --> 00:44:51.120]   Thank you, Kristen, for that awesome testimony.
+[00:44:51.120 --> 00:44:59.120]   If you can turn your Bibles with me to Luke chapter 4.
+[00:44:59.120 --> 00:45:04.120]   Luke chapter 4. I'm actually only going to be covering a small portion of this today,
+[00:45:04.120 --> 00:45:12.120]   and I'll explain why. Luke chapter 4, but I'm going to be reading all the way from 1 through 12.
+[00:45:12.120 --> 00:45:18.120]   Or 13, sorry.
+[00:45:18.120 --> 00:45:47.120]   [Reading Luke chapter 4 verse 1-2 on screen]
+[00:45:47.120 --> 00:46:16.120]   [Reading Luke chapter 4 verse 1-2 on screen]
+[00:46:16.120 --> 00:46:25.120]   [Reading Luke chapter 4 verse 1-2 on screen]
+[00:46:25.120 --> 00:46:27.120]   Let's pray.
+[00:46:27.120 --> 00:46:30.120]   Heavenly Father, we pray for your blessing.
+[00:46:30.120 --> 00:46:39.120]   May your word speak to us, mold us, guide us, rebuke us, challenge us, encourage us, and build us.
+[00:46:39.120 --> 00:46:42.120]   We pray for your Holy Spirit's guide and help.
+[00:46:42.120 --> 00:46:49.120]   In Jesus' name we pray, amen.
+[00:46:49.120 --> 00:46:56.120]   You know, as we are studying through the Gospels, right, we're obviously learning a lot about who Jesus is.
+[00:46:56.120 --> 00:47:02.120]   We're studying the epistles, and the epistle basically, obviously, clearly states this is who Jesus is.
+[00:47:02.120 --> 00:47:07.120]   This is what he has done. He's the high priest. He's the Son of God.
+[00:47:07.120 --> 00:47:12.120]   But the uniqueness about the Gospels is it actually shows us who he is.
+[00:47:12.120 --> 00:47:20.120]   You know, a lot of stuff that we know about Jesus is what we were taught, theological statements, right, doctrinal things that we know.
+[00:47:20.120 --> 00:47:25.120]   But the benefit of studying the Gospels is we actually hear his words.
+[00:47:25.120 --> 00:47:27.120]   We see what he has done.
+[00:47:27.120 --> 00:47:31.120]   And so it's one thing to know about Jesus. It's another thing to know who Jesus is.
+[00:47:31.120 --> 00:47:42.120]   And the reason why this is important is as we contemplate who Christ is, that what we are seeing of who Jesus is,
+[00:47:42.120 --> 00:47:45.120]   we need to clearly understand what it is that we're seeing.
+[00:47:45.120 --> 00:47:53.120]   Because if Jesus is just God, right, if what we're seeing in the Gospels is God incarnate,
+[00:47:53.120 --> 00:47:57.120]   and no wonder he's performing miracles, no wonder he's raising people from the dead.
+[00:47:57.120 --> 00:48:01.120]   So we worship him, we honor him, but we can't follow that.
+[00:48:01.120 --> 00:48:05.120]   That's not something for us to repeat, because he's God.
+[00:48:05.120 --> 00:48:09.120]   If all we're seeing is his humanity, if that's what we're seeing and that's all he is,
+[00:48:09.120 --> 00:48:17.120]   and then we can follow him, we can be encouraged by that, but we don't worship a human being, right?
+[00:48:17.120 --> 00:48:20.120]   What is it that we are actually seeing?
+[00:48:20.120 --> 00:48:28.120]   In Philippians 2, 5-7, it says, "Have this attitude in yourselves, which was also in Christ Jesus,
+[00:48:28.120 --> 00:48:34.120]   who although he existed in the form of God, did not regard equality with God a thing to be grasped."
+[00:48:34.120 --> 00:48:40.120]   Again, we know this passage very well, but what does it mean to not to grasp equality with God?
+[00:48:40.120 --> 00:48:45.120]   We know to repeat these words, if somebody asks us, "What does that mean?"
+[00:48:45.120 --> 00:48:47.120]   But what does that actually mean?
+[00:48:47.120 --> 00:48:52.120]   Does that mean that when Jesus walked on this earth, that he basically forsook his deity,
+[00:48:52.120 --> 00:48:56.120]   and so Jesus was no longer God and was just a human being walking?
+[00:48:56.120 --> 00:48:58.120]   What does it mean when he says he emptied himself?
+[00:48:58.120 --> 00:49:00.120]   Emptied himself of what?
+[00:49:00.120 --> 00:49:06.120]   His glory, his deity, his power, his position, his omnipresence, right?
+[00:49:06.120 --> 00:49:09.120]   Omnipotence, did he empty himself of all of that?
+[00:49:09.120 --> 00:49:12.120]   What does it mean that he had emptied himself?
+[00:49:12.120 --> 00:49:15.120]   To take in a form of a bond servant being made in likeness of man.
+[00:49:15.120 --> 00:49:18.120]   In what way was he like a man?
+[00:49:18.120 --> 00:49:23.120]   How can he be like us when he is 100% God and 100% man?
+[00:49:23.120 --> 00:49:28.120]   So the theologians consider this incarnation a hypostatic union between God and man.
+[00:49:28.120 --> 00:49:30.120]   100% God, 100% man.
+[00:49:30.120 --> 00:49:35.120]   And I think there was about six months ago, I gave an illustration about pouring oil into water.
+[00:49:35.120 --> 00:49:36.120]   Do you remember that?
+[00:49:36.120 --> 00:49:40.120]   And within this cup, in the cup, he said, "This cup is Jesus,
+[00:49:40.120 --> 00:49:45.120]   but that portion of the oil is 100% oil and the portion of the water is 100% water
+[00:49:45.120 --> 00:49:47.120]   because they don't mix."
+[00:49:47.120 --> 00:49:51.120]   So the question we need to ask is the totality of that is Christ.
+[00:49:51.120 --> 00:49:53.120]   There was a union, right?
+[00:49:53.120 --> 00:49:57.120]   His, Jesus, who is the son of God, who is the creator of the universe,
+[00:49:57.120 --> 00:50:03.120]   took on human form, and so the totality of both natures is God.
+[00:50:03.120 --> 00:50:08.120]   When we are looking at the Gospels, what is it exactly that we're looking at?
+[00:50:08.120 --> 00:50:13.120]   So if we're looking at Jesus from the top, we're looking at his deity, right?
+[00:50:13.120 --> 00:50:17.120]   So are we looking at God walking on earth?
+[00:50:17.120 --> 00:50:23.120]   If we look from the side, that when Jesus is hungry, he's man,
+[00:50:23.120 --> 00:50:27.120]   but when he's performing miracles, he's God.
+[00:50:27.120 --> 00:50:29.120]   When he is tired, he's man.
+[00:50:29.120 --> 00:50:33.120]   Is he flipping back and forth from his humanity to his deity?
+[00:50:33.120 --> 00:50:37.120]   Or are we looking at Jesus from the bottom where it's fully humanity
+[00:50:37.120 --> 00:50:43.120]   and everything that he's doing, he's doing as a human being?
+[00:50:43.120 --> 00:50:45.120]   Which one is it, right?
+[00:50:45.120 --> 00:50:51.120]   Can you see how it will alter the way we read the Bible depending on how we see
+[00:50:51.120 --> 00:50:52.120]   who Jesus is?
+[00:50:52.120 --> 00:50:55.120]   If you're seeing, "Oh, it's a deity. We can't copy anything he does. He's God.
+[00:50:55.120 --> 00:51:00.120]   He casts out demons because he's God. He walks on water because he's God."
+[00:51:00.120 --> 00:51:04.120]   Or is he just going back? Is he turning it on and off?
+[00:51:04.120 --> 00:51:10.120]   Right? I mean, how can Jesus be hungry? How can God be hungry?
+[00:51:10.120 --> 00:51:13.120]   Oh, that part is human.
+[00:51:13.120 --> 00:51:16.120]   When he's agonizing before the Father in prayer, is there another way?
+[00:51:16.120 --> 00:51:20.120]   It's like, oh, that's his humanity.
+[00:51:20.120 --> 00:51:24.120]   And then when he resurrects Lazarus, that's his deity.
+[00:51:24.120 --> 00:51:27.120]   Is that what's going on? Is he going back and forth?
+[00:51:27.120 --> 00:51:30.120]   Again, why is this so important? It's because everything that we're studying
+[00:51:30.120 --> 00:51:35.120]   in the Gospel of Luke, we need to understand it from a proper perspective.
+[00:51:35.120 --> 00:51:40.120]   So I'm going to give you the answer now, just in case you fall asleep.
+[00:51:40.120 --> 00:51:43.120]   I'm going to give you the answer now, and then I want you to follow along,
+[00:51:43.120 --> 00:51:46.120]   and I'm going to make my case.
+[00:51:46.120 --> 00:51:56.120]   What we are looking at the Gospels is Christ's humanity and his deity veiled completely.
+[00:51:56.120 --> 00:52:02.120]   Everything that Jesus does, he does as a human being in the power of the Holy Spirit.
+[00:52:02.120 --> 00:52:05.120]   Now that's the answer, so I'm going to make my case.
+[00:52:05.120 --> 00:52:09.120]   When I approached this text, I thought I knew what I was going to preach.
+[00:52:09.120 --> 00:52:15.120]   In fact, I look at genealogy, it's like, okay, I've got to dig, and I've got to do some study on this.
+[00:52:15.120 --> 00:52:18.120]   How am I going to preach the genealogy?
+[00:52:18.120 --> 00:52:22.120]   And so there's some text that's kind of obvious, because how many times have you heard a sermon
+[00:52:22.120 --> 00:52:25.120]   about the temptation of Jesus?
+[00:52:25.120 --> 00:52:28.120]   I could probably ask you now, you've probably heard sermons that you remember.
+[00:52:28.120 --> 00:52:30.120]   It's like, oh, yeah, I heard that.
+[00:52:30.120 --> 00:52:35.120]   So as I was thinking about this text, I kind of already knew, because I preached it so many times,
+[00:52:35.120 --> 00:52:37.120]   that I said, okay, I already know the outline.
+[00:52:37.120 --> 00:52:42.120]   I know I'm going to go do some study and maybe add some more stuff and be creative in the way I present it.
+[00:52:42.120 --> 00:52:49.120]   And then I started to dig into this text, and then I couldn't get past the first passage,
+[00:52:49.120 --> 00:52:51.120]   because, you know, you do an inductive Bible study.
+[00:52:51.120 --> 00:52:54.120]   So I was doing my inductive study, and I was asking all these questions.
+[00:52:54.120 --> 00:52:59.120]   And the first question that popped up was, "Jesus, full of the Holy Spirit,"
+[00:52:59.120 --> 00:53:01.120]   and I said, "Wait a second.
+[00:53:01.120 --> 00:53:04.120]   Why does he need to be filled with the Holy Spirit?
+[00:53:04.120 --> 00:53:06.120]   He's God, right?
+[00:53:06.120 --> 00:53:09.120]   Why does God need to be filled with the Holy Spirit?"
+[00:53:09.120 --> 00:53:11.120]   And I just couldn't get behind that.
+[00:53:11.120 --> 00:53:15.120]   And then he says, "Returned from Jordan, was led around by the Spirit."
+[00:53:15.120 --> 00:53:18.120]   Okay, he was filled with, he was baptized by the Spirit.
+[00:53:18.120 --> 00:53:20.120]   He was filled with the Holy Spirit.
+[00:53:20.120 --> 00:53:22.120]   He's led by the Holy Spirit.
+[00:53:22.120 --> 00:53:25.120]   In verse 14, he says, "He grew in the power of the Holy Spirit."
+[00:53:25.120 --> 00:53:27.120]   And then I started to kind of sidetrack.
+[00:53:27.120 --> 00:53:29.120]   I said, "Wait a second.
+[00:53:29.120 --> 00:53:33.120]   Let me see how much of this language exists in the rest of Jesus' story."
+[00:53:33.120 --> 00:53:41.120]   And so I looked it up, and it's everywhere.
+[00:53:41.120 --> 00:53:43.120]   I wanted to sidetrack.
+[00:53:43.120 --> 00:53:47.120]   I'm going to sidetrack a little bit today before I jump into the rest of the text,
+[00:53:47.120 --> 00:53:49.120]   because I think this is that important,
+[00:53:49.120 --> 00:53:53.120]   that we need to understand the role of the Holy Spirit in the life of Jesus
+[00:53:53.120 --> 00:53:56.120]   so that we can understand the role of the Holy Spirit in our life.
+[00:53:56.120 --> 00:54:02.120]   And I know I talked about this maybe about, I think, about two months ago, a month and a half ago.
+[00:54:02.120 --> 00:54:09.120]   But again, I want to go through some text with you so that you can see why this is so important
+[00:54:09.120 --> 00:54:16.120]   and how we are to look at Jesus when we are studying the rest of the book of Luke.
+[00:54:16.120 --> 00:54:21.120]   Whenever we talk about the Trinity, we know how to defend the Trinitarian,
+[00:54:21.120 --> 00:54:25.120]   the first person of the Godhead, God the Father, because he's everywhere, right?
+[00:54:25.120 --> 00:54:28.120]   The Old Testament, New Testament, you know, he's everywhere.
+[00:54:28.120 --> 00:54:33.120]   And we come to the New Testament, and we can easily defend the deity of Jesus.
+[00:54:33.120 --> 00:54:36.120]   Before Abraham was, I am.
+[00:54:36.120 --> 00:54:38.120]   All things are created by him, for him, through him.
+[00:54:38.120 --> 00:54:40.120]   Everything is sustained by him.
+[00:54:40.120 --> 00:54:47.120]   Right? The God himself caused, you know, his son, Dithrono, God, is a righteous scepter that lasts forever and ever.
+[00:54:47.120 --> 00:54:52.120]   So Jesus' deity can be easily defended.
+[00:54:52.120 --> 00:54:57.120]   Most people, when it comes to the deity of the Holy Spirit,
+[00:54:57.120 --> 00:55:02.120]   they only have a couple passages, you know, the Great Commission,
+[00:55:02.120 --> 00:55:06.120]   he's baptized in the name of the Father, the Son, and the Holy Spirit.
+[00:55:06.120 --> 00:55:08.120]   The Holy Spirit is kind of like attached.
+[00:55:08.120 --> 00:55:11.120]   So if we defend the deity of Jesus,
+[00:55:11.120 --> 00:55:16.120]   the Holy Spirit is kind of like the younger brother that's always, you know, hanging around the older brother.
+[00:55:16.120 --> 00:55:18.120]   So it's like, yeah, he's deitied too.
+[00:55:18.120 --> 00:55:21.120]   I don't know how else to explain because he's around.
+[00:55:21.120 --> 00:55:22.120]   Right?
+[00:55:22.120 --> 00:55:28.120]   But we don't know exactly how to defend the deity of Christ, the deity of the Holy Spirit,
+[00:55:28.120 --> 00:55:32.120]   because there's only a few texts that actually clearly states that.
+[00:55:32.120 --> 00:55:36.120]   And those texts are enough.
+[00:55:36.120 --> 00:55:42.120]   But the Holy Spirit is the silent partner who is everywhere but in the background.
+[00:55:42.120 --> 00:55:46.120]   You ever have one of those friends that if you ask, "Oh, what is he like?"
+[00:55:46.120 --> 00:55:50.120]   that you can't explain through what they say.
+[00:55:50.120 --> 00:55:53.120]   You can only explain by what they do.
+[00:55:53.120 --> 00:55:54.120]   Right?
+[00:55:54.120 --> 00:55:58.120]   Like, because I talk for a living, you can take a lot of things that I say.
+[00:55:58.120 --> 00:56:00.120]   "Pastor Peter's like this because he said this."
+[00:56:00.120 --> 00:56:01.120]   Right?
+[00:56:01.120 --> 00:56:03.120]   But I had a friend back in college,
+[00:56:03.120 --> 00:56:09.120]   even to this day I can't remember a long phrase that he's ever spoken.
+[00:56:09.120 --> 00:56:13.120]   In fact, he grunts more than he talks.
+[00:56:13.120 --> 00:56:15.120]   If I ask him a question, he's like, "Ugh."
+[00:56:15.120 --> 00:56:17.120]   Like that's my greatest memory of him.
+[00:56:17.120 --> 00:56:18.120]   Right?
+[00:56:18.120 --> 00:56:20.120]   And he's a good friend.
+[00:56:20.120 --> 00:56:21.120]   He became a pastor.
+[00:56:21.120 --> 00:56:22.120]   He lives in Atlanta.
+[00:56:22.120 --> 00:56:26.120]   But I don't remember in my head like a long conversation.
+[00:56:26.120 --> 00:56:31.120]   It's usually me having a monologue and he was like, "Ugh.
+[00:56:31.120 --> 00:56:33.120]   Yeah.
+[00:56:33.120 --> 00:56:34.120]   Okay."
+[00:56:34.120 --> 00:56:37.120]   Like that's about the length of conversation that I remember.
+[00:56:37.120 --> 00:56:42.120]   Not that we don't talk, but he's not known for his words.
+[00:56:42.120 --> 00:56:45.120]   But if you ask me who he is, I can tell you clearly who he is.
+[00:56:45.120 --> 00:56:48.120]   He's one of the most faithful guys I know,
+[00:56:48.120 --> 00:56:50.120]   one of the most loyal people that I know,
+[00:56:50.120 --> 00:56:53.120]   one of the most consistent people that I know.
+[00:56:53.120 --> 00:56:56.120]   And I can tell you this because of my observation,
+[00:56:56.120 --> 00:56:59.120]   because of the time that I spent with him.
+[00:56:59.120 --> 00:57:04.120]   His character is clearly seen by what he does more than what he says.
+[00:57:04.120 --> 00:57:06.120]   That's the Holy Spirit.
+[00:57:06.120 --> 00:57:11.120]   The Holy Spirit is hard to define by explaining through verses.
+[00:57:11.120 --> 00:57:13.120]   Like this is what the Holy Spirit said.
+[00:57:13.120 --> 00:57:15.120]   The Bible says this is exactly what it is.
+[00:57:15.120 --> 00:57:17.120]   There are verses that talk about that,
+[00:57:17.120 --> 00:57:24.120]   but the doctrine of the Holy Spirit is seen mostly by what he does.
+[00:57:24.120 --> 00:57:28.120]   You look at just the Gospel of Luke, right, just the Gospel of Luke,
+[00:57:28.120 --> 00:57:32.120]   how often or how prominent is the Holy Spirit?
+[00:57:32.120 --> 00:57:35.120]   Just in the first three chapters, I'll bet you,
+[00:57:35.120 --> 00:57:39.120]   when you think about just remembering what we talked about in the first three chapters,
+[00:57:39.120 --> 00:57:46.120]   you remember John the Baptist, Elizabeth, Simeon, Mary, Joseph.
+[00:57:46.120 --> 00:57:47.120]   You remember all of them.
+[00:57:47.120 --> 00:57:49.120]   The angel Gabriel.
+[00:57:49.120 --> 00:57:52.120]   So those are the highlights.
+[00:57:52.120 --> 00:57:58.120]   But I'll bet you, you have some vague understanding or vague memory of the Holy Spirit.
+[00:57:58.120 --> 00:58:01.120]   But I want to show you just how prominent the Holy Spirit has been,
+[00:58:01.120 --> 00:58:03.120]   even just in the three chapters.
+[00:58:03.120 --> 00:58:06.120]   In Luke 115, John the Baptist is described as saying,
+[00:58:06.120 --> 00:58:10.120]   "For he will be great in the sight of the Lord, and he will drink no wine or liquor,
+[00:58:10.120 --> 00:58:14.120]   and he will be filled with the Holy Spirit while yet in his mother's womb."
+[00:58:14.120 --> 00:58:19.120]   He said what distinguishes John the Baptist is not simply his diet,
+[00:58:19.120 --> 00:58:23.120]   but even from the mother's womb, he's going to be filled with the Holy Spirit.
+[00:58:23.120 --> 00:58:29.120]   Luke 135, Mary had a hard time believing, "How can I conceive without a man?"
+[00:58:29.120 --> 00:58:33.120]   And the angel answered her and said, "The Holy Spirit will come upon you,
+[00:58:33.120 --> 00:58:36.120]   and the power of the Most High will overshadow you."
+[00:58:36.120 --> 00:58:40.120]   He said that's how you're going to conceive a child.
+[00:58:40.120 --> 00:58:47.120]   Zacharias, Luke 167, and his father Zacharias was filled with the Holy Spirit and prophesied.
+[00:58:47.120 --> 00:58:51.120]   Luke 166, explaining John the Baptist's growth, he said,
+[00:58:51.120 --> 00:58:57.120]   "And the child continued to grow and to become strong in the Spirit, and he lived in the desert."
+[00:58:57.120 --> 00:59:01.120]   About Simeon, remember him? Luke 2, 25-27,
+[00:59:01.120 --> 00:59:04.120]   "And there was a man in Jerusalem whose name was Simeon,
+[00:59:04.120 --> 00:59:08.120]   and this man was righteous and devout, looking for the consolation of Israel,
+[00:59:08.120 --> 00:59:10.120]   and the Holy Spirit was upon him.
+[00:59:10.120 --> 00:59:14.120]   And it had been revealed to him by the Holy Spirit that he would not see death
+[00:59:14.120 --> 00:59:16.120]   before he had seen the Lord.
+[00:59:16.120 --> 00:59:19.120]   And he came in the Spirit into the temple."
+[00:59:19.120 --> 00:59:25.120]   Luke 3, 16, when John the Baptist says, "I am not the Messiah, but the one who is coming."
+[00:59:25.120 --> 00:59:31.120]   Jesus is coming, and the way he distinguishes himself from the Messiah and himself, he says,
+[00:59:31.120 --> 00:59:35.120]   "John answered and said to them, 'As for me, I baptize you with water, but one is coming,
+[00:59:35.120 --> 00:59:39.120]   who is mightier than I, and I am not fit to untie the thong of his sandals.
+[00:59:39.120 --> 00:59:43.120]   He will baptize you with the Holy Spirit and of fire.'"
+[00:59:43.120 --> 00:59:46.120]   He says, "John the Baptist was baptized by the Holy Spirit,
+[00:59:46.120 --> 00:59:49.120]   but Jesus himself is going to baptize you with the Holy Spirit."
+[00:59:49.120 --> 00:59:51.120]   That's the distinguishing mark.
+[00:59:51.120 --> 00:59:58.120]   Luke 3, 22, "And the Holy Spirit descended upon him when Jesus is baptized.
+[00:59:58.120 --> 01:00:01.120]   The Holy Spirit descended upon him in bodily form like a dove,
+[01:00:01.120 --> 01:00:07.120]   and a voice came out of heaven, 'You are my beloved Son, and you I am well pleased.'"
+[01:00:07.120 --> 01:00:10.120]   This is just the first three chapters.
+[01:00:10.120 --> 01:00:17.120]   Every single character in the first three chapters is described by either being filled with the Spirit,
+[01:00:17.120 --> 01:00:24.120]   the power of the Spirit, spoke through the Spirit, was moved by the Spirit, everything.
+[01:00:24.120 --> 01:00:28.120]   But if I didn't mention that, if I didn't highlight that for you,
+[01:00:28.120 --> 01:00:31.120]   when I asked you, "What are the first three chapters about?"
+[01:00:31.120 --> 01:00:39.120]   You'll probably say, "Genealogy, the birth of Jesus, Simeon, Mary, Joseph, Immaculate Conception,
+[01:00:39.120 --> 01:00:43.120]   John the Baptist, all these people are mentioned, but every single one of them,
+[01:00:43.120 --> 01:00:47.120]   there is a unifying theme throughout every single one of these characters,
+[01:00:47.120 --> 01:00:49.120]   every single one of these events.
+[01:00:49.120 --> 01:00:51.120]   The Holy Spirit empowered them.
+[01:00:51.120 --> 01:00:53.120]   The Holy Spirit baptized them.
+[01:00:53.120 --> 01:00:54.120]   The Holy Spirit fell upon them.
+[01:00:54.120 --> 01:00:55.120]   The Holy Spirit moved them.
+[01:00:55.120 --> 01:00:59.120]   The Holy Spirit caused them to prophesy."
+[01:00:59.120 --> 01:01:02.120]   All of this is going to be relevant.
+[01:01:02.120 --> 01:01:04.120]   We may look at it and say, "Oh, that's good to know.
+[01:01:04.120 --> 01:01:08.120]   The Holy Spirit, he's in the background, he's working."
+[01:01:08.120 --> 01:01:13.120]   Let me tell you the conclusion before I even get to the conclusion.
+[01:01:13.120 --> 01:01:19.120]   If you miss this, and you don't understand this, and if you don't apply this,
+[01:01:19.120 --> 01:01:27.120]   so much of our Christian frustration comes from working hard, studying hard,
+[01:01:27.120 --> 01:01:35.120]   sacrificing so much with no power of the Holy Spirit.
+[01:01:35.120 --> 01:01:41.120]   Anybody who's made any effort to conquer sin, anybody who's ever really sacrificed
+[01:01:41.120 --> 01:01:48.120]   or tried to bring people to Christ, share the gospel, to make disciples,
+[01:01:48.120 --> 01:01:54.120]   without the power of the Holy Spirit has ended in greater frustration
+[01:01:54.120 --> 01:01:58.120]   than if you've never attempted at all.
+[01:01:58.120 --> 01:02:01.120]   The harder you work, the greater frustration you experience.
+[01:02:01.120 --> 01:02:05.120]   Some of you may be sitting here, it's like, "I've never experienced that."
+[01:02:05.120 --> 01:02:08.120]   Maybe because you never tried.
+[01:02:08.120 --> 01:02:12.120]   The harder you try, the more you understand how frustrating it is
+[01:02:12.120 --> 01:02:17.120]   to bear fruit without the Holy Spirit.
+[01:02:17.120 --> 01:02:21.120]   Now, I just mentioned the first three verses, but in Luke chapter 4,
+[01:02:21.120 --> 01:02:23.120]   he says he was full of the Holy Spirit.
+[01:02:23.120 --> 01:02:24.120]   He was led around by the Spirit.
+[01:02:24.120 --> 01:02:27.120]   Luke 4.14, he returned to Galilee in the power of the Spirit.
+[01:02:27.120 --> 01:02:30.120]   Luke 10.21, he prayed and rejoiced greatly in the Holy Spirit.
+[01:02:30.120 --> 01:02:33.120]   And then Luke chapter 12, verse 10, he says,
+[01:02:33.120 --> 01:02:36.120]   "All other sins, blasphemy against the Son of Man can be forgiven,
+[01:02:36.120 --> 01:02:38.120]   except for the blasphemy of the Holy Spirit."
+[01:02:38.120 --> 01:02:42.120]   Jesus himself highlights the sin against the Holy Spirit.
+[01:02:42.120 --> 01:02:46.120]   The Holy Spirit is saturated in everything that is happening.
+[01:02:46.120 --> 01:02:50.120]   And this is not limited to the gospel of Luke.
+[01:02:50.120 --> 01:02:55.120]   Go back, and next time you study or read through the Old Testament,
+[01:02:55.120 --> 01:03:01.120]   read the part of the Bible, and highlight how the Holy Spirit is working.
+[01:03:01.120 --> 01:03:04.120]   There is not a single text, single book that you can go through
+[01:03:04.120 --> 01:03:10.120]   where the Holy Spirit is not at the center of powerfully moving.
+[01:03:10.120 --> 01:03:12.120]   In fact, the whole book of Acts.
+[01:03:12.120 --> 01:03:15.120]   If you ask somebody who studied the book of Acts and say,
+[01:03:15.120 --> 01:03:17.120]   "What's the outline of the book of Acts?"
+[01:03:17.120 --> 01:03:22.120]   Well, chapter 1 through chapter maybe 8 or 9 is about Apostle Peter.
+[01:03:22.120 --> 01:03:25.120]   He's the one who shows up, and then the gospel goes to the Gentiles,
+[01:03:25.120 --> 01:03:28.120]   so Apostle Paul gets converted, and then so he's the main character
+[01:03:28.120 --> 01:03:31.120]   all the way to chapter 28.
+[01:03:31.120 --> 01:03:35.120]   But that's not how the Bible, that's not how Acts is organized.
+[01:03:35.120 --> 01:03:40.120]   Acts says, "The Holy Spirit is going to come upon you," Acts 1:8,
+[01:03:40.120 --> 01:03:43.120]   "and you will be my witnesses in Jerusalem, Judea, Samaria,
+[01:03:43.120 --> 01:03:45.120]   to the remotest part of the world."
+[01:03:45.120 --> 01:03:48.120]   So if you look at how the book of Acts is organized,
+[01:03:48.120 --> 01:03:53.120]   it's organized by how the Holy Spirit is working in Jerusalem,
+[01:03:53.120 --> 01:03:58.120]   and then how the Holy Spirit is moving the church to Judea
+[01:03:58.120 --> 01:04:00.120]   through the persecution, and how in the persecution
+[01:04:00.120 --> 01:04:03.120]   the Holy Spirit is moving them to Samaria,
+[01:04:03.120 --> 01:04:07.120]   and how the Holy Spirit has brought Apostle Paul
+[01:04:07.120 --> 01:04:09.120]   and the Holy Spirit falling upon the Gentiles.
+[01:04:09.120 --> 01:04:12.120]   That was the main thing that they were arguing.
+[01:04:12.120 --> 01:04:15.120]   When the Holy Spirit fell upon the Gentiles,
+[01:04:15.120 --> 01:04:18.120]   they had this huge meeting in Jerusalem to say,
+[01:04:18.120 --> 01:04:22.120]   "Hey, the Holy Spirit is also falling upon the Gentiles."
+[01:04:22.120 --> 01:04:24.120]   That was the thing.
+[01:04:24.120 --> 01:04:25.120]   How do we understand this?
+[01:04:25.120 --> 01:04:28.120]   Because the kingdom of God is being opened to the Gentiles,
+[01:04:28.120 --> 01:04:31.120]   but the way that they described the kingdom opening to the Gentiles
+[01:04:31.120 --> 01:04:35.120]   is the Holy Spirit is also coming upon the Gentiles.
+[01:04:35.120 --> 01:04:41.120]   So the whole book of Acts is the story of the Holy Spirit moving,
+[01:04:41.120 --> 01:04:47.120]   and the characters that it is empowering to do His work.
+[01:04:47.120 --> 01:04:52.120]   So the Holy Spirit, though He is in the background,
+[01:04:52.120 --> 01:04:56.120]   is the central figure throughout the whole gospel,
+[01:04:56.120 --> 01:04:59.120]   throughout the whole redemptive history.
+[01:04:59.120 --> 01:05:02.120]   So I encourage you, next time you read the Bible,
+[01:05:02.120 --> 01:05:03.120]   try to read it through that lens.
+[01:05:03.120 --> 01:05:06.120]   Try to look for the Holy Spirit.
+[01:05:06.120 --> 01:05:12.120]   My bet is that you're not going to be able to avoid it.
+[01:05:12.120 --> 01:05:17.120]   Once your eyes get open to that, you can't shut it anymore
+[01:05:17.120 --> 01:05:20.120]   because it is saturated.
+[01:05:20.120 --> 01:05:23.120]   Why is this important?
+[01:05:23.120 --> 01:05:28.120]   Because this is what God calls us to do,
+[01:05:28.120 --> 01:05:32.120]   to pray in the Spirit, to be filled with the Spirit,
+[01:05:32.120 --> 01:05:37.120]   to walk in the Spirit, to live in the Spirit.
+[01:05:37.120 --> 01:05:43.120]   So if we can do everything, everything that we do,
+[01:05:43.120 --> 01:05:49.120]   and yet have no spirit, absolutely powerless.
+[01:05:49.120 --> 01:05:53.120]   We hold on to a form of godliness with no power.
+[01:05:53.120 --> 01:05:56.120]   And the more disciplined you are, the more frustrated you are.
+[01:05:56.120 --> 01:06:01.120]   The more sacrifice you make, the more frustrated you will become.
+[01:06:01.120 --> 01:06:05.120]   The harder you work, the more bitter you become
+[01:06:05.120 --> 01:06:08.120]   because it ends in a brick wall.
+[01:06:08.120 --> 01:06:12.120]   It's sacrifice, holding on to a form of godliness,
+[01:06:12.120 --> 01:06:16.120]   yet you see no power, you see no work.
+[01:06:16.120 --> 01:06:20.120]   Isaiah prophesied this when he said that the Messiah is coming
+[01:06:20.120 --> 01:06:23.120]   in Isaiah 42.1, "Behold, my servant, whom I uphold,
+[01:06:23.120 --> 01:06:25.120]   my chosen one, in whom my soul delights.
+[01:06:25.120 --> 01:06:28.120]   I put my spirit upon him."
+[01:06:28.120 --> 01:06:31.120]   He said, "What distinguishes the Messiah than any other prophet
+[01:06:31.120 --> 01:06:33.120]   is that my Holy Spirit is going to be upon him.
+[01:06:33.120 --> 01:06:35.120]   He will bring forth justice to the nations."
+[01:06:35.120 --> 01:06:40.120]   Isaiah 61, verse 1, this is the passage that Jesus reads
+[01:06:40.120 --> 01:06:43.120]   at the synagogue at the beginning of his ministry,
+[01:06:43.120 --> 01:06:46.120]   and this is what he says, quoting Isaiah 61.1,
+[01:06:46.120 --> 01:06:49.120]   "The Spirit of the Lord God is upon me."
+[01:06:49.120 --> 01:06:53.120]   Okay, read that carefully.
+[01:06:53.120 --> 01:06:56.120]   "The Spirit of the Lord God is upon me because
+[01:06:56.120 --> 01:07:00.120]   the Lord has anointed me to bring good news to the afflicted.
+[01:07:00.120 --> 01:07:02.120]   He has sent me to bind up the brokenhearted,
+[01:07:02.120 --> 01:07:07.120]   to proclaim the liberty to captives, and freedom to the prisoners."
+[01:07:07.120 --> 01:07:10.120]   What came first?
+[01:07:10.120 --> 01:07:12.120]   The Holy Spirit.
+[01:07:12.120 --> 01:07:16.120]   He said the reason why he needed to be anointed with the Holy Spirit
+[01:07:16.120 --> 01:07:21.120]   is so that he can preach, so that he can do the ministry
+[01:07:21.120 --> 01:07:25.120]   because even the Messiah, even the Son of God
+[01:07:25.120 --> 01:07:27.120]   had to be anointed by the Holy Spirit
+[01:07:27.120 --> 01:07:30.120]   in order to carry out what God called him to do.
+[01:07:30.120 --> 01:07:33.120]   And this is what he reads at the beginning of his ministry
+[01:07:33.120 --> 01:07:36.120]   and says, "Now this is fulfilled in you."
+[01:07:36.120 --> 01:07:41.120]   So at the center of Jesus' ministry was the Holy Spirit.
+[01:07:41.120 --> 01:07:43.120]   He was baptized by the Holy Spirit.
+[01:07:43.120 --> 01:07:45.120]   He was empowered by the Holy Spirit.
+[01:07:45.120 --> 01:07:47.120]   He was led by the Holy Spirit.
+[01:07:47.120 --> 01:07:50.120]   And then when he left, he told his disciples,
+[01:07:50.120 --> 01:07:52.120]   "I'm not going to leave you alone as an orphan,
+[01:07:52.120 --> 01:07:55.120]   but the Holy Spirit, the counselor, the helper is going to come
+[01:07:55.120 --> 01:07:57.120]   and remind you of everything that I have done."
+[01:07:57.120 --> 01:08:01.120]   He says, "The Holy Spirit is going to convict the world of sin."
+[01:08:01.120 --> 01:08:05.120]   And then he says, "If you do not abide, you cannot bear fruit."
+[01:08:05.120 --> 01:08:07.120]   He's talking about the Holy Spirit.
+[01:08:07.120 --> 01:08:12.120]   So past, present, and future is saturated.
+[01:08:12.120 --> 01:08:14.120]   If you are going to bear any fruit,
+[01:08:14.120 --> 01:08:19.120]   you have to be empowered by the Holy Spirit.
+[01:08:19.120 --> 01:08:23.120]   I don't need to tell you how frustrating it is to do anything
+[01:08:23.120 --> 01:08:26.120]   and then lead to nothing.
+[01:08:26.120 --> 01:08:34.120]   If you go work out, and you work out, you start out slow,
+[01:08:34.120 --> 01:08:39.120]   and you're lifting weights, and after about two months,
+[01:08:39.120 --> 01:08:42.120]   you see a friend walking in, and he lifts for four days,
+[01:08:42.120 --> 01:08:44.120]   and he's bucked up already.
+[01:08:44.120 --> 01:08:46.120]   You've been doing it for months, every day,
+[01:08:46.120 --> 01:08:48.120]   and you're working your tail off,
+[01:08:48.120 --> 01:08:52.120]   and you go to the mirror and nothing.
+[01:08:52.120 --> 01:08:55.120]   How frustrating is that?
+[01:08:55.120 --> 01:08:57.120]   Very frustrating.
+[01:08:57.120 --> 01:08:59.120]   You're trying to lose weight, and this guy is like,
+[01:08:59.120 --> 01:09:01.120]   "Oh, I skipped some boba the other day.
+[01:09:01.120 --> 01:09:03.120]   I lost five pounds."
+[01:09:03.120 --> 01:09:05.120]   You've been starving yourself for like a month,
+[01:09:05.120 --> 01:09:07.120]   and you gained three pounds.
+[01:09:07.120 --> 01:09:14.120]   So the harder you work, the more frustrated you become.
+[01:09:14.120 --> 01:09:18.120]   Even Peter, when he describes, as he is talking to the Gentiles
+[01:09:18.120 --> 01:09:22.120]   in Acts 10, verse 38, describes Jesus this way.
+[01:09:22.120 --> 01:09:25.120]   "You know of Jesus of Nazareth, how God anointed him
+[01:09:25.120 --> 01:09:27.120]   with the Holy Spirit and with power,
+[01:09:27.120 --> 01:09:30.120]   and how he went about doing good and healing all who were
+[01:09:30.120 --> 01:09:34.120]   oppressed by the devil, for God was with him."
+[01:09:34.120 --> 01:09:37.120]   This is Peter who walked with Jesus,
+[01:09:37.120 --> 01:09:41.120]   who observed him close up more than any other human being,
+[01:09:41.120 --> 01:09:45.120]   describes Jesus and all the power and everything he's done
+[01:09:45.120 --> 01:09:47.120]   because he was anointed by the Holy Spirit
+[01:09:47.120 --> 01:09:48.120]   and was given power.
+[01:09:48.120 --> 01:09:49.120]   He was given power.
+[01:09:49.120 --> 01:09:51.120]   That's how Peter described him.
+[01:09:51.120 --> 01:09:57.120]   He recognized the central thing about Jesus was the Holy Spirit.
+[01:09:57.120 --> 01:09:58.120]   Even though he knew exactly who he was.
+[01:09:58.120 --> 01:09:59.120]   He's the Son of God.
+[01:09:59.120 --> 01:10:03.120]   You are the Christ of the Son of the living God,
+[01:10:03.120 --> 01:10:06.120]   but the way he described him was he was a man anointed
+[01:10:06.120 --> 01:10:09.120]   by the Holy Spirit with power, and that's why he did what he did.
+[01:10:09.120 --> 01:10:11.120]   That's how Peter describes him.
+[01:10:11.120 --> 01:10:13.120]   In fact, you get to the New Testament book of Hebrews,
+[01:10:13.120 --> 01:10:19.120]   he says, "Even the very work of the whole atonement," right?
+[01:10:19.120 --> 01:10:20.120]   The Holy Spirit was at the center of that.
+[01:10:20.120 --> 01:10:23.120]   Hebrews 9, 14, "How much more would the blood of Christ,
+[01:10:23.120 --> 01:10:26.120]   who through the eternal spirit offered himself without blemish
+[01:10:26.120 --> 01:10:28.120]   to God, cleanse your conscience from dead works
+[01:10:28.120 --> 01:10:30.120]   to serve the living God?"
+[01:10:30.120 --> 01:10:33.120]   Through the eternal spirit, we have been washed
+[01:10:33.120 --> 01:10:35.120]   with the blood of Christ.
+[01:10:35.120 --> 01:10:37.120]   1 Timothy 3, 16, "By common confession,
+[01:10:37.120 --> 01:10:39.120]   great is the mystery of godliness.
+[01:10:39.120 --> 01:10:42.120]   He who was revealed in the flesh was vindicated in the spirit."
+[01:10:42.120 --> 01:10:46.120]   Some of your translations, the word "vindicated"
+[01:10:46.120 --> 01:10:48.120]   is translated "justified."
+[01:10:48.120 --> 01:10:52.120]   That the Holy Spirit was at the center of justification.
+[01:10:52.120 --> 01:10:54.120]   Jesus was resurrected by the power.
+[01:10:54.120 --> 01:10:57.120]   Not only did he die and atone for our sins,
+[01:10:57.120 --> 01:10:59.120]   by the power of the Holy Spirit, he says,
+[01:10:59.120 --> 01:11:02.120]   "Even his very resurrection, it was by the spirit."
+[01:11:02.120 --> 01:11:05.120]   Romans 8, 11, "But the spirit of him who raised Jesus
+[01:11:05.120 --> 01:11:07.120]   from the dead dwells in you.
+[01:11:07.120 --> 01:11:10.120]   He who raised Christ Jesus from the dead will also give life
+[01:11:10.120 --> 01:11:15.120]   to your mortal bodies through his spirit who dwells in you."
+[01:11:15.120 --> 01:11:19.120]   The very resurrection, he said, he gives credit
+[01:11:19.120 --> 01:11:21.120]   to the Holy Spirit.
+[01:11:21.120 --> 01:11:24.120]   And then he makes a transition there and he says,
+[01:11:24.120 --> 01:11:28.120]   "But that Holy Spirit dwells in you," he says.
+[01:11:28.120 --> 01:11:31.120]   So the distinguishing mark of a Christian
+[01:11:31.120 --> 01:11:35.120]   is not simply his life.
+[01:11:35.120 --> 01:11:39.120]   Because you can fake that as a non-Christian.
+[01:11:39.120 --> 01:11:41.120]   Can't you?
+[01:11:41.120 --> 01:11:44.120]   There's plenty of people that you and I know
+[01:11:44.120 --> 01:11:49.120]   who were very disciplined, sacrificed,
+[01:11:49.120 --> 01:11:52.120]   maybe even became missionaries and pastors
+[01:11:52.120 --> 01:11:56.120]   and bore a lot of fruit, were very well respected,
+[01:11:56.120 --> 01:11:59.120]   who turned out to be liars.
+[01:11:59.120 --> 01:12:02.120]   They weren't Christians.
+[01:12:02.120 --> 01:12:05.120]   Without mentioning names, I'm sure you can think of somebody.
+[01:12:05.120 --> 01:12:10.120]   In recent history, there's example after example.
+[01:12:10.120 --> 01:12:13.120]   You can do all of that and not be a Christian.
+[01:12:13.120 --> 01:12:16.120]   You can fake that.
+[01:12:16.120 --> 01:12:18.120]   I mean, non-Christian can study the Bible,
+[01:12:18.120 --> 01:12:21.120]   non-Christian can preach, non-Christian can be disciplined,
+[01:12:21.120 --> 01:12:24.120]   non-Christian can share the gospel,
+[01:12:24.120 --> 01:12:27.120]   non-Christians can disciple somebody,
+[01:12:27.120 --> 01:12:30.120]   non-Christians can work hard,
+[01:12:30.120 --> 01:12:34.120]   non-Christians give money to charity.
+[01:12:34.120 --> 01:12:36.120]   He said that distinguishing mark of a Christian
+[01:12:36.120 --> 01:12:40.120]   and a non-Christian is not simply what he does,
+[01:12:40.120 --> 01:12:42.120]   even though those are fruits.
+[01:12:42.120 --> 01:12:45.120]   He said the distinguishing mark is the Holy Spirit.
+[01:12:45.120 --> 01:12:47.120]   He says Romans 8 and 9, "However, you are not in the flesh,
+[01:12:47.120 --> 01:12:50.120]   but in the Spirit, if indeed the Spirit of God dwells in you.
+[01:12:50.120 --> 01:12:52.120]   But if anyone does not have the Spirit of Christ,
+[01:12:52.120 --> 01:12:55.120]   he does not belong to him."
+[01:12:55.120 --> 01:12:57.120]   So he says the fruit of the Spirit,
+[01:12:57.120 --> 01:12:59.120]   how do we recognize if the Spirit is in him?
+[01:12:59.120 --> 01:13:03.120]   He says the fruit of the Spirit is love, joy, peace, kindness, gentleness.
+[01:13:03.120 --> 01:13:05.120]   He said, I mean, you could fake all of that too.
+[01:13:05.120 --> 01:13:09.120]   He said, but one of the biggest evidence of the Holy Spirit
+[01:13:09.120 --> 01:13:12.120]   is that your inner being changes
+[01:13:12.120 --> 01:13:16.120]   from being bitter and angry,
+[01:13:16.120 --> 01:13:20.120]   from coveting, lusting,
+[01:13:20.120 --> 01:13:22.120]   and all of a sudden, he brings new life
+[01:13:22.120 --> 01:13:24.120]   and makes you a worshiper.
+[01:13:24.120 --> 01:13:27.120]   All of those qualities are qualities of a worshiper
+[01:13:27.120 --> 01:13:29.120]   whose inner being has changed.
+[01:13:29.120 --> 01:13:32.120]   I know plenty of people who work hard and sacrifice.
+[01:13:32.120 --> 01:13:35.120]   Their inner being never changes.
+[01:13:35.120 --> 01:13:39.120]   I know plenty of people who've picked up their cross
+[01:13:39.120 --> 01:13:42.120]   and living a difficult life in the name of Jesus Christ,
+[01:13:42.120 --> 01:13:45.120]   but their inner being never changes.
+[01:13:45.120 --> 01:13:47.120]   But the true change happens, he says,
+[01:13:47.120 --> 01:13:50.120]   what God is looking for are people who will worship him
+[01:13:50.120 --> 01:13:52.120]   in spirit and in truth.
+[01:13:52.120 --> 01:13:54.120]   The fruit of the Spirit that's described in the Bible
+[01:13:54.120 --> 01:13:57.120]   is changing a self-centered man
+[01:13:57.120 --> 01:13:59.120]   to a God-centered man
+[01:13:59.120 --> 01:14:01.120]   who worships him in spirit and in truth.
+[01:14:01.120 --> 01:14:04.120]   So the identifying mark of a Christian
+[01:14:04.120 --> 01:14:06.120]   is the Spirit,
+[01:14:06.120 --> 01:14:11.120]   the Spirit of God.
+[01:14:11.120 --> 01:14:13.120]   The Holy Spirit
+[01:14:13.120 --> 01:14:16.120]   is he who helps us in our weaknesses.
+[01:14:16.120 --> 01:14:18.120]   Romans 8:26, it said, "In the same way,
+[01:14:18.120 --> 01:14:21.120]   the Spirit also helps our weaknesses.
+[01:14:21.120 --> 01:14:23.120]   For we do not know how to pray as we should,
+[01:14:23.120 --> 01:14:25.120]   but the Spirit himself intercedes for us
+[01:14:25.120 --> 01:14:28.120]   with groanings too deep for the words.
+[01:14:28.120 --> 01:14:31.120]   And he who searches the heart knows what the mind of the Spirit is
+[01:14:31.120 --> 01:14:36.120]   because he intercedes for the saints according to the will of God."
+[01:14:36.120 --> 01:14:39.120]   You know why,
+[01:14:39.120 --> 01:14:42.120]   especially in our generation where you and I live,
+[01:14:42.120 --> 01:14:45.120]   why it's so hard to pray?
+[01:14:45.120 --> 01:14:47.120]   You know, we have schools of prayer,
+[01:14:47.120 --> 01:14:49.120]   we have books on prayer,
+[01:14:49.120 --> 01:14:51.120]   we have disciplines on prayer,
+[01:14:51.120 --> 01:14:56.120]   but here it says it's the Holy Spirit that helps us to pray.
+[01:14:56.120 --> 01:14:59.120]   A man or a woman who's not walking in the Spirit,
+[01:14:59.120 --> 01:15:01.120]   he doesn't even know what to pray for.
+[01:15:01.120 --> 01:15:03.120]   That's what it says.
+[01:15:03.120 --> 01:15:05.120]   He doesn't even know what to pray for.
+[01:15:05.120 --> 01:15:07.120]   Because the Holy Spirit is the one who guides us.
+[01:15:07.120 --> 01:15:09.120]   Holy Spirit is the one who convicts us.
+[01:15:09.120 --> 01:15:11.120]   Our prayers are effective when our prayers
+[01:15:11.120 --> 01:15:14.120]   are lined up with his desire.
+[01:15:14.120 --> 01:15:16.120]   The Bible says, "If you abide in me, my words abide in you.
+[01:15:16.120 --> 01:15:19.120]   Whatever you wish, it shall be done for you."
+[01:15:19.120 --> 01:15:22.120]   But we don't even know what to pray for because even as we pray,
+[01:15:22.120 --> 01:15:24.120]   when we're not walking in the Spirit,
+[01:15:24.120 --> 01:15:26.120]   when we're not praying in the Spirit,
+[01:15:26.120 --> 01:15:28.120]   even the very content of your prayer,
+[01:15:28.120 --> 01:15:30.120]   is that the will of God?
+[01:15:30.120 --> 01:15:32.120]   Or is that for you?
+[01:15:32.120 --> 01:15:34.120]   Have you made up that goal?
+[01:15:34.120 --> 01:15:37.120]   Or is that something that the Holy Spirit is leading you to?
+[01:15:37.120 --> 01:15:39.120]   He says it's the Holy Spirit.
+[01:15:39.120 --> 01:15:42.120]   John 14, 18, as Jesus is leaving his disciples,
+[01:15:42.120 --> 01:15:45.120]   he says, "I will not leave you alone like an orphan."
+[01:15:45.120 --> 01:15:47.120]   And then he says, John 14, 26,
+[01:15:47.120 --> 01:15:49.120]   "But the Helper, the Holy Spirit,
+[01:15:49.120 --> 01:15:51.120]   whom the Father will send in my name,
+[01:15:51.120 --> 01:15:53.120]   he will teach you all things
+[01:15:53.120 --> 01:16:00.120]   and bring to your remembrance all that I said to you."
+[01:16:00.120 --> 01:16:06.120]   You and I live in a generation where we are experts in form.
+[01:16:06.120 --> 01:16:08.120]   Experts in form.
+[01:16:08.120 --> 01:16:12.120]   We have access to seminaries, books, know-how,
+[01:16:12.120 --> 01:16:17.120]   probably better than any generation that has ever existed.
+[01:16:17.120 --> 01:16:19.120]   We know how to set up chairs.
+[01:16:19.120 --> 01:16:21.120]   I mean, we are so advanced.
+[01:16:21.120 --> 01:16:23.120]   Okay, I set up chairs.
+[01:16:23.120 --> 01:16:26.120]   That's the highest form, right?
+[01:16:26.120 --> 01:16:28.120]   I mean, everything that you and I can think of,
+[01:16:28.120 --> 01:16:30.120]   like the form-wise, how do we--
+[01:16:30.120 --> 01:16:35.120]   I mean, we have all the form, more than, exponentially,
+[01:16:35.120 --> 01:16:40.120]   100 times more than anyone has ever had in human history.
+[01:16:40.120 --> 01:16:44.120]   Organization, training, material,
+[01:16:44.120 --> 01:16:49.120]   translations, sermons, seminaries, churches.
+[01:16:49.120 --> 01:16:52.120]   I mean, just look at our praise team.
+[01:16:52.120 --> 01:16:55.120]   I love our praise team, right?
+[01:16:55.120 --> 01:17:00.120]   And we have people who have been studying
+[01:17:00.120 --> 01:17:03.120]   and practicing their instrument all their life,
+[01:17:03.120 --> 01:17:07.120]   and we are able to benefit from that as they lead us in worship.
+[01:17:07.120 --> 01:17:11.120]   And all that is great because that's a blessing that God has given us.
+[01:17:11.120 --> 01:17:15.120]   So we have tremendous form, and all of these are great
+[01:17:15.120 --> 01:17:18.120]   if the Holy Spirit empowers it,
+[01:17:18.120 --> 01:17:22.120]   if the Holy Spirit uses it.
+[01:17:22.120 --> 01:17:26.120]   But if the Holy Spirit is not in this,
+[01:17:26.120 --> 01:17:31.120]   we are guilty of having a form of godliness with no power,
+[01:17:31.120 --> 01:17:37.120]   because we know true worship isn't because we have great worship team.
+[01:17:37.120 --> 01:17:40.120]   True worship isn't because the chairs are nice or air-conditioned turned on
+[01:17:40.120 --> 01:17:43.120]   or I gave a great message and you knew the outline
+[01:17:43.120 --> 01:17:47.120]   and you felt convicted and, you know, that was good.
+[01:17:47.120 --> 01:17:51.120]   True worship comes from within,
+[01:17:51.120 --> 01:17:54.120]   when the Holy Spirit is stirring you up to worship.
+[01:17:54.120 --> 01:17:59.120]   In fact, you and I have become so accustomed to form
+[01:17:59.120 --> 01:18:03.120]   that when the form is not there, we automatically panic.
+[01:18:03.120 --> 01:18:07.120]   Whether that's worship, whether that's training,
+[01:18:07.120 --> 01:18:11.120]   whatever it is, if we don't see the form,
+[01:18:11.120 --> 01:18:13.120]   then something is wrong.
+[01:18:13.120 --> 01:18:16.120]   So I remember, again, I grew up in the church, my dad was a pastor,
+[01:18:16.120 --> 01:18:19.120]   so form is embedded in me.
+[01:18:19.120 --> 01:18:23.120]   So several years ago I was asked to come to a Lutheran church
+[01:18:23.120 --> 01:18:27.120]   to lead this revival.
+[01:18:27.120 --> 01:18:29.120]   And Lutheran church is a little bit different,
+[01:18:29.120 --> 01:18:31.120]   the way they're organized, they do worship differently.
+[01:18:31.120 --> 01:18:34.120]   So, you know, I am very familiar with the Presbyterian worship
+[01:18:34.120 --> 01:18:36.120]   because I grew up in that.
+[01:18:36.120 --> 01:18:38.120]   And I'm very familiar with the Baptist worship
+[01:18:38.120 --> 01:18:41.120]   because as an adult I became a Baptist, you know.
+[01:18:41.120 --> 01:18:45.120]   And so typical worship begins a lot like what we do, right?
+[01:18:45.120 --> 01:18:48.120]   Somebody comes up, opens up the worship, we sing some songs,
+[01:18:48.120 --> 01:18:51.120]   we have some announcements, read the text,
+[01:18:51.120 --> 01:18:54.120]   then somebody gives a sermon, you know, maybe sing some songs.
+[01:18:54.120 --> 01:18:57.120]   Or if we had a Presbyterian church, somebody would come, you know,
+[01:18:57.120 --> 01:19:00.120]   and they'll do the Lord's Prayer, and then somewhere there's an Apostles' Creed,
+[01:19:00.120 --> 01:19:02.120]   and then there's a benediction at the end.
+[01:19:02.120 --> 01:19:04.120]   And so it's very familiar.
+[01:19:04.120 --> 01:19:08.120]   So I went to a Lutheran church, and I'm expecting something like that.
+[01:19:08.120 --> 01:19:12.120]   And they said the service is at 1130, so I show up at 1120,
+[01:19:12.120 --> 01:19:14.120]   and I'm sitting, I'm waiting, right?
+[01:19:14.120 --> 01:19:16.120]   So where's the praise team going to come up,
+[01:19:16.120 --> 01:19:18.120]   they're going to make some announcement, they introduce me,
+[01:19:18.120 --> 01:19:20.120]   I'm going to come and speak, right?
+[01:19:20.120 --> 01:19:23.120]   So 1130 comes around, and the presider comes up and says,
+[01:19:23.120 --> 01:19:27.120]   "Thank you, everybody, for coming. Pastor Peter is going to come and preach now."
+[01:19:27.120 --> 01:19:31.120]   So I was, you know, about to pray, and they're like, "What?
+[01:19:31.120 --> 01:19:33.120]   They want me to pray?" So I went up there, it's like,
+[01:19:33.120 --> 01:19:36.120]   "Oh, what's going on?"
+[01:19:36.120 --> 01:19:38.120]   He's like, "Go ahead, go ahead."
+[01:19:38.120 --> 01:19:41.120]   So I had to jump into the text, and I have to give a sermon.
+[01:19:41.120 --> 01:19:45.120]   I came down, and so there was nothing familiar about what they did.
+[01:19:45.120 --> 01:19:49.120]   And I remember, they said, "That was weird," you know.
+[01:19:49.120 --> 01:19:53.120]   But I was thinking, nothing that they did was unbiblical.
+[01:19:53.120 --> 01:19:58.120]   It was that I got so, you know, I got so familiar with the form,
+[01:19:58.120 --> 01:20:02.120]   that when it didn't conform to that form, it felt like something was off.
+[01:20:02.120 --> 01:20:05.120]   That was weird, you know.
+[01:20:05.120 --> 01:20:08.120]   They didn't prep me for that, right?
+[01:20:08.120 --> 01:20:15.120]   But some of the most genuine worship that I've been to had weird form.
+[01:20:15.120 --> 01:20:17.120]   You know, years ago, we went to Romania.
+[01:20:17.120 --> 01:20:20.120]   We were supposed to--we had a team prepared to go out to China,
+[01:20:20.120 --> 01:20:22.120]   but that year, they had SARS.
+[01:20:22.120 --> 01:20:25.120]   So literally, last minute, they said, "You're not allowed to come into China."
+[01:20:25.120 --> 01:20:28.120]   So we contacted our, you know, IMB office, and they said,
+[01:20:28.120 --> 01:20:30.120]   "Hey, we need somebody to come to Romania this year."
+[01:20:30.120 --> 01:20:35.120]   So we packed up our bags, went to Romania, and we would go to the churches,
+[01:20:35.120 --> 01:20:40.120]   and the churches were so rigid, you know, because they were so concerned
+[01:20:40.120 --> 01:20:43.120]   about being judged by the Greek Orthodox Church there,
+[01:20:43.120 --> 01:20:47.120]   because they're so rigid, and the Baptist church is like--
+[01:20:47.120 --> 01:20:50.120]   we got yelled at for smiling during our presentation, you know.
+[01:20:50.120 --> 01:20:54.120]   I can go into the stories about that, but we did all this presentation,
+[01:20:54.120 --> 01:21:00.120]   and they grieved over our presentation, you know, because they were so conservative.
+[01:21:00.120 --> 01:21:06.120]   Well, in one of those days, on a Sunday, we decided to visit this Gypsy church,
+[01:21:06.120 --> 01:21:09.120]   and they were kind of an outcast, even among the Baptists.
+[01:21:09.120 --> 01:21:11.120]   They're kind of like, you know, they're not Baptists.
+[01:21:11.120 --> 01:21:13.120]   They're not Presbyterian. They're Gypsies.
+[01:21:13.120 --> 01:21:16.120]   And so they wanted us to come because the missionary there
+[01:21:16.120 --> 01:21:19.120]   was working with them and asked us to come.
+[01:21:19.120 --> 01:21:23.120]   And so it was a small church, maybe a church of maybe about 15, 20 people,
+[01:21:23.120 --> 01:21:26.120]   and then we had maybe about 10 people on our team.
+[01:21:26.120 --> 01:21:28.120]   And so we sat there, and it's like, you know,
+[01:21:28.120 --> 01:21:31.120]   I was thinking that we're going to be participating in this worship.
+[01:21:31.120 --> 01:21:33.120]   And then the missionary comes up, and he says,
+[01:21:33.120 --> 01:21:36.120]   "Pastor Peter, can you give us the word this morning?"
+[01:21:36.120 --> 01:21:42.120]   I didn't prepare for that, so I just got up and like, "Let's see.
+[01:21:42.120 --> 01:21:45.120]   What is the Holy Spirit going to say today?"
+[01:21:45.120 --> 01:21:50.120]   So I basically gave an impromptu, you know, 15-minute message, and I sat down.
+[01:21:50.120 --> 01:21:54.120]   I did an okay job. I had sermons that I could give like that.
+[01:21:54.120 --> 01:21:58.120]   But after that was done, he started to call some people to give their testimony,
+[01:21:58.120 --> 01:22:01.120]   some people from our team, some people from the church.
+[01:22:01.120 --> 01:22:05.120]   And there was no form. They were just kind of free-flowing, you know.
+[01:22:05.120 --> 01:22:10.120]   Man, it was about an hour of different people standing up, giving their testimonies.
+[01:22:10.120 --> 01:22:15.120]   And at the end of that, just tears in the room.
+[01:22:15.120 --> 01:22:19.120]   Every single person just standing up, "This is what Jesus means to me."
+[01:22:19.120 --> 01:22:21.120]   They would sing some songs, and another person stands up,
+[01:22:21.120 --> 01:22:26.120]   "And this is what Jesus has done for me. I'm a wretched sinner, and he loved me.
+[01:22:26.120 --> 01:22:28.120]   I can't believe that he endured and do this for me."
+[01:22:28.120 --> 01:22:31.120]   And one by one, they would stand up, and man,
+[01:22:31.120 --> 01:22:38.120]   it was the most powerful worships I've ever been to.
+[01:22:38.120 --> 01:22:45.120]   And all because it was people who were being prompted by the love of Christ.
+[01:22:45.120 --> 01:22:47.120]   It wasn't because they were having this forum.
+[01:22:47.120 --> 01:22:50.120]   It wasn't because there was a great message.
+[01:22:50.120 --> 01:22:57.120]   It was simply the people in the room wanted to worship in spirit and in truth.
+[01:22:57.120 --> 01:23:01.120]   The Holy Spirit was guiding them and leading them.
+[01:23:01.120 --> 01:23:03.120]   We can do this week after week.
+[01:23:03.120 --> 01:23:07.120]   I can give the best sermons. We can give the best music.
+[01:23:07.120 --> 01:23:11.120]   But the Holy Spirit is not changing you within.
+[01:23:11.120 --> 01:23:15.120]   It's just a form of godliness.
+[01:23:15.120 --> 01:23:17.120]   And there's no power.
+[01:23:17.120 --> 01:23:21.120]   See, the power of the gospel is the Holy Spirit indwelling in us,
+[01:23:21.120 --> 01:23:25.120]   transforming us from our inner being.
+[01:23:25.120 --> 01:23:30.120]   That all I can think of is worshiping God.
+[01:23:30.120 --> 01:23:34.120]   Because that's where my greatest joy comes from.
+[01:23:34.120 --> 01:23:38.120]   Because I used to worship the world. I used to worship money.
+[01:23:38.120 --> 01:23:40.120]   I used to worship honor from people.
+[01:23:40.120 --> 01:23:43.120]   Now I worship the living God.
+[01:23:43.120 --> 01:23:48.120]   So the same joy that I experience from finding success in the world,
+[01:23:48.120 --> 01:23:54.120]   now I experience that joy exponentially more in worshiping God in spirit and in truth.
+[01:23:54.120 --> 01:23:56.120]   That's the Holy Spirit.
+[01:23:56.120 --> 01:23:58.120]   That's the Holy Spirit.
+[01:23:58.120 --> 01:24:03.120]   What is lacking in our generation is not more form.
+[01:24:03.120 --> 01:24:06.120]   That's our natural tendency.
+[01:24:06.120 --> 01:24:09.120]   That we think that if we add more form,
+[01:24:09.120 --> 01:24:12.120]   if we add more structure,
+[01:24:12.120 --> 01:24:16.120]   that somehow we're going to experience more fruit.
+[01:24:16.120 --> 01:24:20.120]   We are formed out.
+[01:24:20.120 --> 01:24:28.120]   Every single one of you are more trained today than any other Christian has been in church history.
+[01:24:28.120 --> 01:24:30.120]   Think about that.
+[01:24:30.120 --> 01:24:32.120]   You have heard more truth.
+[01:24:32.120 --> 01:24:34.120]   You had more guidance.
+[01:24:34.120 --> 01:24:36.120]   You had more training.
+[01:24:36.120 --> 01:24:37.120]   You had more examples.
+[01:24:37.120 --> 01:24:39.120]   You've heard more sermons.
+[01:24:39.120 --> 01:24:44.120]   You had more access than any other Christian in human history.
+[01:24:44.120 --> 01:24:47.120]   And yet, as soon as we see a problem,
+[01:24:47.120 --> 01:24:51.120]   the first thing that we run to is we need more structure.
+[01:24:51.120 --> 01:24:54.120]   There's nothing wrong with structure.
+[01:24:54.120 --> 01:24:57.120]   There's nothing wrong with any of that.
+[01:24:57.120 --> 01:25:00.120]   But what we are lacking is not more form.
+[01:25:00.120 --> 01:25:05.120]   What we are lacking is the Holy Spirit.
+[01:25:05.120 --> 01:25:11.120]   What we're lacking is a true life within us that causes us to sing.
+[01:25:11.120 --> 01:25:15.120]   You have a room filled with people who's eager to sing?
+[01:25:15.120 --> 01:25:18.120]   You don't need a whole praise band.
+[01:25:18.120 --> 01:25:21.120]   Bring a tambourine.
+[01:25:21.120 --> 01:25:23.120]   Because that's what it's like in India.
+[01:25:23.120 --> 01:25:25.120]   We go to these villages.
+[01:25:25.120 --> 01:25:27.120]   We have hundreds of people gathered together.
+[01:25:27.120 --> 01:25:29.120]   There's no guitar.
+[01:25:29.120 --> 01:25:30.120]   There's no synthesizer.
+[01:25:30.120 --> 01:25:38.120]   There's no worship leaders and backup singers and the bass and the latest hip music.
+[01:25:38.120 --> 01:25:40.120]   Tambourine.
+[01:25:40.120 --> 01:25:49.120]   And the room begins to explode with worship because people are eager.
+[01:25:49.120 --> 01:25:51.120]   Evangelism?
+[01:25:51.120 --> 01:25:54.120]   Evangelism is not, "Come on, man.
+[01:25:54.120 --> 01:25:55.120]   The world is dying.
+[01:25:55.120 --> 01:25:57.120]   We've got to do this."
+[01:25:57.120 --> 01:26:01.120]   Yeah, that's necessary here.
+[01:26:01.120 --> 01:26:06.120]   But if you have a room filled with people who's filled with the Holy Spirit,
+[01:26:06.120 --> 01:26:09.120]   try to tell them not to share the gospel.
+[01:26:09.120 --> 01:26:12.120]   Look at the disciples.
+[01:26:12.120 --> 01:26:14.120]   You keep doing this.
+[01:26:14.120 --> 01:26:16.120]   You keep doing this, you're going to get in trouble.
+[01:26:16.120 --> 01:26:17.120]   You're going to be beaten.
+[01:26:17.120 --> 01:26:18.120]   You're going to be locked up.
+[01:26:18.120 --> 01:26:19.120]   You may be even killed.
+[01:26:19.120 --> 01:26:20.120]   You tell me what's right to do.
+[01:26:20.120 --> 01:26:22.120]   To obey you, to obey God.
+[01:26:22.120 --> 01:26:24.120]   They couldn't stop them.
+[01:26:24.120 --> 01:26:27.120]   Even as they are being stoned, they couldn't stop them.
+[01:26:27.120 --> 01:26:31.120]   Even as they are running to protect their children, they couldn't stop them.
+[01:26:31.120 --> 01:26:33.120]   Everywhere Apostle Paul went, there was already a church.
+[01:26:33.120 --> 01:26:35.120]   There was already a group established.
+[01:26:35.120 --> 01:26:41.120]   Not because of extensive training and how to evangelize and how to establish elders.
+[01:26:41.120 --> 01:26:44.120]   They just went.
+[01:26:44.120 --> 01:26:49.120]   They just went, and everywhere they went, the gospel was being spread
+[01:26:49.120 --> 01:26:56.120]   because the Holy Spirit went with them, and they were emboldened.
+[01:26:56.120 --> 01:27:03.120]   See, us being rich has caused us to believe that if we do more,
+[01:27:03.120 --> 01:27:06.120]   if we sacrifice more, if we discipline more, if we add more form,
+[01:27:06.120 --> 01:27:13.120]   if we add more structure, if we do more, more will come out.
+[01:27:13.120 --> 01:27:17.120]   That's our own pride and deception.
+[01:27:17.120 --> 01:27:24.120]   No, he says to do exactly the opposite, to do less.
+[01:27:24.120 --> 01:27:26.120]   And you say, "Oh, Pastor Peter said do less.
+[01:27:26.120 --> 01:27:29.120]   Let's stop doing everything."
+[01:27:29.120 --> 01:27:32.120]   By our own strength.
+[01:27:32.120 --> 01:27:36.120]   We do less by our own might.
+[01:27:36.120 --> 01:27:43.120]   We do less by our own intellect, by our own power, by our own will,
+[01:27:43.120 --> 01:27:48.120]   and depend on God, depend on the Holy Spirit.
+[01:27:48.120 --> 01:27:57.120]   Let me wrap this up and bring us back to where I got sidetracked.
+[01:27:57.120 --> 01:28:02.120]   There's a reason why Luke ends his genealogy all the way to Adam.
+[01:28:02.120 --> 01:28:06.120]   There's a reason because Adam was in the Garden of Eden,
+[01:28:06.120 --> 01:28:09.120]   and at the Garden of Eden he fails, and so as a result of that,
+[01:28:09.120 --> 01:28:13.120]   he gets kicked out of the Garden of Eden.
+[01:28:13.120 --> 01:28:17.120]   The Bible says that Jesus is the second Adam, 1 Corinthians 15.22,
+[01:28:17.120 --> 01:28:23.120]   "For as in Adam all die, so also in Christ all will be made alive."
+[01:28:23.120 --> 01:28:27.120]   As soon as Adam falls, Jesus shows up. Where does he show up?
+[01:28:27.120 --> 01:28:30.120]   Where does he get tested? In the wilderness.
+[01:28:30.120 --> 01:28:32.120]   Adam is in the garden, he gets kicked out.
+[01:28:32.120 --> 01:28:36.120]   Jesus is in the wilderness where there's no life,
+[01:28:36.120 --> 01:28:40.120]   and he's going to, through his life, bring us back into the garden,
+[01:28:40.120 --> 01:28:42.120]   what God intended, bring life.
+[01:28:42.120 --> 01:28:44.120]   It's not by accident.
+[01:28:44.120 --> 01:28:46.120]   I'm going to go deeper into that later.
+[01:28:46.120 --> 01:28:50.120]   There's a clear connection to the fall of man in the Garden of Eden,
+[01:28:50.120 --> 01:28:52.120]   and Jesus' testing out in the wilderness.
+[01:28:52.120 --> 01:28:54.120]   I'm not going to go into that today.
+[01:28:54.120 --> 01:28:57.120]   Next time I'm up here, and you're going to see that clear connection.
+[01:28:57.120 --> 01:28:59.120]   It's not by accident.
+[01:28:59.120 --> 01:29:04.120]   But here, I want you to see this.
+[01:29:04.120 --> 01:29:08.120]   So the difference between Adam's fall and Christ's redemption,
+[01:29:08.120 --> 01:29:11.120]   it says 1 Peter 3.18, "For Christ also died for sins once for all,
+[01:29:11.120 --> 01:29:13.120]   the just for the unjust, so that he might bring us to God,
+[01:29:13.120 --> 01:29:16.120]   having been put to death in the flesh, but made alive," what?
+[01:29:16.120 --> 01:29:19.120]   "in the Spirit."
+[01:29:19.120 --> 01:29:21.120]   That's the difference.
+[01:29:21.120 --> 01:29:25.120]   "But while in the flesh, Christ will redeem us in the Spirit."
+[01:29:25.120 --> 01:29:29.120]   And so how significant is the Spirit?
+[01:29:29.120 --> 01:29:32.120]   Spirit's work in our lives.
+[01:29:32.120 --> 01:29:35.120]   So let me, again, wrap this up.
+[01:29:35.120 --> 01:29:40.120]   I started with the question of what are we looking at when we look at Jesus?
+[01:29:40.120 --> 01:29:45.120]   Are we seeing deity walking on earth and doing his work?
+[01:29:45.120 --> 01:29:48.120]   Are we seeing Jesus turning off his humanity
+[01:29:48.120 --> 01:29:51.120]   and then embracing his deity back and forth?
+[01:29:51.120 --> 01:29:53.120]   That's not what we're seeing in the Gospel.
+[01:29:53.120 --> 01:30:00.120]   What we're seeing is a man in every way was like us,
+[01:30:00.120 --> 01:30:03.120]   who was empowered by the Holy Spirit.
+[01:30:03.120 --> 01:30:07.120]   He was a man just like us in every way.
+[01:30:07.120 --> 01:30:11.120]   He was tempted in every way just like us,
+[01:30:11.120 --> 01:30:16.120]   but did not sin, empowered by the Holy Spirit.
+[01:30:17.120 --> 01:30:23.120]   Now, if I finish the sermon here, it's like, "Oh, that's a great sermon, but now what?"
+[01:30:23.120 --> 01:30:27.120]   Because without the Holy Spirit, you will fail.
+[01:30:27.120 --> 01:30:30.120]   Yes, we're failures. Let's go home.
+[01:30:30.120 --> 01:30:33.120]   We all fail. You fail. I fail.
+[01:30:33.120 --> 01:30:36.120]   I work hard. You work hard.
+[01:30:36.120 --> 01:30:39.120]   And we fail. Praise God.
+[01:30:39.120 --> 01:30:42.120]   Obviously, that's not the conclusion.
+[01:30:42.120 --> 01:30:44.120]   You guys know this passage really well.
+[01:30:44.120 --> 01:30:47.120]   Luke 11, verse 9.
+[01:30:47.120 --> 01:30:51.120]   It says, "So I say to you, ask and it will be given to you.
+[01:30:51.120 --> 01:30:53.120]   Seek and you will find. Knock and it will be opened to you.
+[01:30:53.120 --> 01:30:55.120]   For everyone who asks receives.
+[01:30:55.120 --> 01:30:59.120]   He who seeks finds, and to him who knocks it will be opened."
+[01:30:59.120 --> 01:31:05.120]   This is a passage that is preached on, memorized in every church.
+[01:31:05.120 --> 01:31:08.120]   I don't know how many times I've heard this text being exposited and saying,
+[01:31:08.120 --> 01:31:11.120]   "Hey, you do not have it because you did not ask.
+[01:31:11.120 --> 01:31:13.120]   You have to ask. You have to knock. You have to seek."
+[01:31:13.120 --> 01:31:16.120]   He said, he promised he will open the door.
+[01:31:16.120 --> 01:31:19.120]   So if you want a Lamborghini, you have to ask.
+[01:31:19.120 --> 01:31:23.120]   If you want your business to work, you have to seek.
+[01:31:23.120 --> 01:31:30.120]   If you want her as your wife, you got to knock or poke.
+[01:31:30.120 --> 01:31:34.120]   He said, "Is that what he means?" He said, "Figure out what you want,
+[01:31:34.120 --> 01:31:37.120]   and then ask, seek, and knock.
+[01:31:37.120 --> 01:31:40.120]   Because I have a verse."
+[01:31:40.120 --> 01:31:43.120]   What's principle number one in inductive Bible study?
+[01:31:43.120 --> 01:31:45.120]   Context.
+[01:31:45.120 --> 01:31:48.120]   What's the context of this? Well, let's read the rest.
+[01:31:48.120 --> 01:31:51.120]   "Now suppose one of you fathers is asked by his son for a fish.
+[01:31:51.120 --> 01:31:54.120]   He will not give him a snake instead of a fish, will he?
+[01:31:54.120 --> 01:31:59.120]   Or if he is asked for an egg, he will not give him a scorpion, will he?
+[01:31:59.120 --> 01:32:02.120]   If you then, being evil, know how to give good gifts to your children,
+[01:32:02.120 --> 01:32:08.120]   how much more will your heavenly Father give the Holy Spirit to those who ask Him?"
+[01:32:08.120 --> 01:32:12.120]   So when he says seek, ask, and knock, what is he talking about?
+[01:32:12.120 --> 01:32:15.120]   Your greatest need is the Holy Spirit.
+[01:32:15.120 --> 01:32:18.120]   Our greatest desire has to be the Holy Spirit.
+[01:32:18.120 --> 01:32:22.120]   What we are knocking for, asking for, and seeking is the Holy Spirit.
+[01:32:22.120 --> 01:32:25.120]   Because until we are empowered by the Holy Spirit,
+[01:32:25.120 --> 01:32:32.120]   everything that we do becomes futile.
+[01:32:32.120 --> 01:32:35.120]   And you just won't do it for long.
+[01:32:35.120 --> 01:32:39.120]   And then when you feel like you've achieved something by your own merit,
+[01:32:39.120 --> 01:32:42.120]   because you worked hard, you know what happens?
+[01:32:42.120 --> 01:32:47.120]   Pride. That's your fruit. Pride.
+[01:32:47.120 --> 01:32:51.120]   And as soon as pride comes in, you are ruined.
+[01:32:51.120 --> 01:32:56.120]   And you will ruin everybody around you when pride comes in.
+[01:32:56.120 --> 01:32:59.120]   That is not the fruit that God desires of us.
+[01:32:59.120 --> 01:33:03.120]   He says seek the Holy Spirit. Seek Him.
+[01:33:03.120 --> 01:33:06.120]   If the Holy Spirit ministry is this important,
+[01:33:06.120 --> 01:33:11.120]   how much of our strong effort, how much of our prayer,
+[01:33:11.120 --> 01:33:14.120]   how much of our desire, how much of our seeking, how much of our study
+[01:33:14.120 --> 01:33:17.120]   should be focused on being empowered by the Holy Spirit,
+[01:33:17.120 --> 01:33:20.120]   being filled with the Holy Spirit?
+[01:33:20.120 --> 01:33:26.120]   The next time we pray, next time we fast,
+[01:33:26.120 --> 01:33:31.120]   that the central thing that we ought to be begging and praying
+[01:33:31.120 --> 01:33:37.120]   and crying out for is Lord, empower us with the Holy Spirit.
+[01:33:37.120 --> 01:33:39.120]   Empower us with the Holy Spirit.
+[01:33:39.120 --> 01:33:41.120]   Holy Spirit, go before us and open the doors.
+[01:33:41.120 --> 01:33:45.120]   Holy Spirit, convict the hearts of sinners so that they would receive you.
+[01:33:45.120 --> 01:33:48.120]   Holy Spirit, convict the church.
+[01:33:48.120 --> 01:33:51.120]   Make us into men and women who worship you in spirit and in truth.
+[01:33:51.120 --> 01:33:54.120]   Holy Spirit, help me to conquer my sins.
+[01:33:54.120 --> 01:34:00.120]   Holy Spirit, help me to not to look at the world with envy and covetousness.
+[01:34:00.120 --> 01:34:06.120]   Holy Spirit, fill me so that I would no longer walk in the flesh,
+[01:34:06.120 --> 01:34:10.120]   but by your spirit.
+[01:34:10.120 --> 01:34:14.120]   You and I are busy.
+[01:34:14.120 --> 01:34:25.120]   Most of you are busy studying, organizing, leading, memorizing, witnessing,
+[01:34:25.120 --> 01:34:33.120]   raising, trying to raise godly children, sacrificing, giving,
+[01:34:33.120 --> 01:34:39.120]   all the while frustrated because you don't see fruit.
+[01:34:39.120 --> 01:34:44.120]   The central thing that you need, central thing that I need,
+[01:34:44.120 --> 01:34:48.120]   is the Holy Spirit to consume us
+[01:34:48.120 --> 01:34:55.120]   so that our worship and our life is not about form, but about power.
+[01:34:55.120 --> 01:34:58.120]   Would you take some time to pray with me?
+[01:34:58.120 --> 01:35:05.120]   Not just today, but as you pray, as you fast,
+[01:35:05.120 --> 01:35:11.120]   Lord, as even the Son of Man, as even Jesus himself
+[01:35:11.120 --> 01:35:14.120]   was dependent upon the Holy Spirit,
+[01:35:14.120 --> 01:35:18.120]   Lord, if I've lived a life grieving the Holy Spirit,
+[01:35:18.120 --> 01:35:22.120]   if I've been holding on to a form of godliness, yet not knowing you from a distance,
+[01:35:22.120 --> 01:35:26.120]   if I've been regurgitating information without actually living,
+[01:35:26.120 --> 01:35:30.120]   walking, praying in the Holy Spirit,
+[01:35:30.120 --> 01:35:33.120]   Lord, I desire that more than anything else.
+[01:35:33.120 --> 01:35:37.120]   Let's take some time to pray, humble ourselves before his throne,
+[01:35:37.120 --> 01:35:42.120]   acknowledge that we are weak without him and asking him.
+[01:35:42.120 --> 01:35:46.120]   So let's take some time to pray again as our worship team leads us.
+[01:35:46.120 --> 01:35:49.120]   (Music)
+[01:35:50.120 --> 01:35:53.120]   (Music)
+[01:35:54.120 --> 01:35:57.120]   (Music)
+[01:35:58.120 --> 01:36:01.120]   (Music)
+[01:36:02.120 --> 01:36:05.120]   (Music)
+[01:36:05.120 --> 01:36:08.120]   (Music)
+[01:36:08.120 --> 01:36:13.120]   (Music)
+[01:36:13.120 --> 01:36:18.120]   (Music)
+[01:36:18.120 --> 01:36:23.120]   (Music)
+[01:36:23.120 --> 01:36:31.120]   (Music)
+[01:36:31.120 --> 01:36:34.120]   (Music)
+[01:36:34.120 --> 01:36:44.120]   (Music)
+[01:36:44.120 --> 01:36:53.120]   (Music)
+[01:36:54.120 --> 01:36:57.120]   (Music)
+[01:36:57.120 --> 01:37:10.120]   (Music)
+[01:37:20.120 --> 01:37:23.120]   (Music)
+[01:37:23.120 --> 01:37:33.120]   (Music)
+[01:37:33.120 --> 01:37:46.120]   (Music)
+[01:37:49.120 --> 01:37:52.120]   Let's stand up for the closing praise.
+[01:37:52.120 --> 01:38:01.120]   (Music)
+[01:38:01.120 --> 01:38:04.120]   (Music)
+[01:38:04.120 --> 01:38:26.120]   He became sin, who knew no sin
+[01:38:27.120 --> 01:38:32.120]   That we might become his righteousness
+[01:38:32.120 --> 01:38:39.120]   He humbled himself and carried the cross
+[01:38:39.120 --> 01:38:44.120]   A love so amazing
+[01:38:44.120 --> 01:38:50.120]   A love so amazing
+[01:38:52.120 --> 01:38:57.120]   Jesus, Messiah
+[01:38:57.120 --> 01:39:02.120]   Name above all names
+[01:39:02.120 --> 01:39:08.120]   Blessed Redeemer
+[01:39:08.120 --> 01:39:14.120]   Emmanuel
+[01:39:14.120 --> 01:39:20.120]   The rescue for sinners
+[01:39:21.120 --> 01:39:26.120]   The ransom from heaven
+[01:39:26.120 --> 01:39:32.120]   Jesus, Messiah
+[01:39:32.120 --> 01:39:37.120]   Lord of all
+[01:39:37.120 --> 01:39:46.120]   His body, the breath, the blood, the wine
+[01:39:47.120 --> 01:39:52.120]   Broken and poured out all for love
+[01:39:52.120 --> 01:39:59.120]   The whole earth trembled, the veil was torn
+[01:39:59.120 --> 01:40:04.120]   A love so amazing
+[01:40:04.120 --> 01:40:11.120]   A love so amazing, yeah
+[01:40:11.120 --> 01:40:16.120]   Jesus, Messiah
+[01:40:17.120 --> 01:40:22.120]   Name above all names
+[01:40:22.120 --> 01:40:27.120]   The blessed Redeemer
+[01:40:27.120 --> 01:40:33.120]   Emmanuel
+[01:40:33.120 --> 01:40:39.120]   The rescue for sinners
+[01:40:39.120 --> 01:40:45.120]   The ransom from heaven
+[01:40:46.120 --> 01:40:51.120]   Jesus, Messiah
+[01:40:51.120 --> 01:40:56.120]   Lord of all
+[01:40:56.120 --> 01:41:04.120]   All our hope is in you
+[01:41:04.120 --> 01:41:10.120]   All our hope is in you
+[01:41:11.120 --> 01:41:17.120]   All the glory to you, God
+[01:41:17.120 --> 01:41:22.120]   The light of the whole world
+[01:41:22.120 --> 01:41:27.120]   All our hope is in you
+[01:41:27.120 --> 01:41:33.120]   All our hope is in you
+[01:41:33.120 --> 01:41:40.120]   All the glory to you, God
+[01:41:41.120 --> 01:41:46.120]   The light of the world
+[01:41:46.120 --> 01:41:52.120]   Jesus, Messiah
+[01:41:52.120 --> 01:41:58.120]   Name above all names
+[01:41:58.120 --> 01:42:04.120]   The blessed Redeemer
+[01:42:05.120 --> 01:42:10.120]   Emmanuel
+[01:42:10.120 --> 01:42:16.120]   The rescue for sinners
+[01:42:16.120 --> 01:42:21.120]   The ransom from heaven
+[01:42:21.120 --> 01:42:27.120]   Jesus, Messiah
+[01:42:27.120 --> 01:42:33.120]   Lord of all
+[01:42:34.120 --> 01:42:39.120]   Jesus, Messiah
+[01:42:39.120 --> 01:42:45.120]   Lord of all
+[01:42:45.120 --> 01:42:57.120]   Let's pray.
+[01:42:57.120 --> 01:43:01.120]   Now to Him who is able to keep you from stumbling
+[01:43:01.120 --> 01:43:04.120]   and to make you stand in the presence of His glory,
+[01:43:04.120 --> 01:43:06.120]   blameless with great joy,
+[01:43:06.120 --> 01:43:09.120]   to the only God our Savior, through Jesus Christ our Lord,
+[01:43:09.120 --> 01:43:12.120]   be glory, majesty, dominion and authority
+[01:43:12.120 --> 01:43:16.120]   before all time and now and forever. Amen.
+[01:43:16.120 --> 01:43:20.120]   God sent His Son
+[01:43:20.120 --> 01:43:26.120]   They called Him Jesus
+[01:43:27.120 --> 01:43:35.120]   He came to love, heal and forgive
+[01:43:35.120 --> 01:43:45.120]   He lived and died to buy my pardon
+[01:43:45.120 --> 01:43:55.120]   An empty grave is there to fill my Savior's lips
+[01:43:56.120 --> 01:44:05.120]   Because He lives, I can face tomorrow
+[01:44:05.120 --> 01:44:15.120]   Because He lives, all fear is gone
+[01:44:15.120 --> 01:44:25.120]   Because I know He holds the future
+[01:44:25.120 --> 01:44:35.120]   And life is worth the living just because He lives
+[01:44:35.120 --> 01:44:38.120]   Amen.
+[01:44:38.120 --> 01:44:46.120]   At Your table, Jesus lay
+[01:44:47.120 --> 01:44:52.120]   At Your table, Jesus lay
+[01:44:52.120 --> 01:45:06.120]   By Your perfect sacrifice I've been bought near
+[01:45:06.120 --> 01:45:12.120]   Your enemy, You've made Your friend
+[01:45:14.120 --> 01:45:20.120]   Pouring out the riches of Your glorious grace
+[01:45:20.120 --> 01:45:27.120]   Your mercy and Your kindness, no, no way
+[01:45:27.120 --> 01:45:35.120]   Your blood has washed away my sin, Jesus, thank You
+[01:45:35.120 --> 01:45:42.120]   The flower's wrath completely satisfied, Jesus, thank You
+[01:45:42.120 --> 01:45:55.120]   Once Your enemy, now seated at Your table, Jesus, thank You
+[01:45:55.120 --> 01:46:04.120]   Jesus, thank You
+[01:46:07.120 --> 01:46:19.120]   Lover of my soul, I want to live for You
+[01:46:19.120 --> 01:46:34.120]   Lover of my soul, I want to live for You
+[01:46:35.120 --> 01:46:47.120]   Lover of my soul, I want to live for You
+[01:46:47.120 --> 01:47:02.120]   Lover of my soul, I want to live for You
+[01:47:03.120 --> 01:47:10.120]   Your blood has washed away my sin, Jesus, thank You
+[01:47:10.120 --> 01:47:17.120]   The flower's wrath completely satisfied, Jesus, thank You
+[01:47:17.120 --> 01:47:24.120]   Your blood has washed away my sin, Jesus, thank You
+[01:47:24.120 --> 01:47:31.120]   The flower's wrath completely satisfied, Jesus, thank You
+[01:47:31.120 --> 01:47:44.120]   Once Your enemy, now seated at Your table, Jesus, thank You
+[01:47:44.120 --> 01:47:52.120]   Jesus, thank You
+[01:47:56.120 --> 01:48:08.120]   Once Your enemy, now seated at Your table, Jesus, thank You
+[01:48:08.120 --> 01:48:18.120]   Once Your enemy, now seated at Your table, Jesus, thank You
+[01:48:19.120 --> 01:48:27.120]   Once Your enemy, now seated at Your table, Jesus, thank You
+[01:48:27.120 --> 01:48:29.780]   (intense music)
+[01:48:30.780 --> 01:48:33.360]   (gentle music)
+[01:48:33.360 --> 01:48:53.640]   ♪ Here is love, vast as the ocean ♪
+[01:48:53.640 --> 01:48:58.140]   ♪ Love and kindness as the flood ♪
+[01:48:58.140 --> 01:49:02.480]   ♪ When the prince of life, our answer ♪
+[01:49:02.480 --> 01:49:07.480]   ♪ Shed for us his precious blood ♪
+[01:49:07.480 --> 01:49:13.620]   ♪ His precious blood ♪
+[01:49:13.620 --> 01:49:17.900]   ♪ Here is love, vast as the ocean ♪
+[01:49:17.900 --> 01:49:22.160]   ♪ Love and kindness as the flood ♪
+[01:49:22.160 --> 01:49:26.440]   ♪ When the prince of life, our answer ♪
+[01:49:26.440 --> 01:49:30.940]   ♪ Shed for us his precious blood ♪
+[01:49:30.940 --> 01:49:35.280]   ♪ Who his love will not remember ♪
+[01:49:35.280 --> 01:49:39.620]   ♪ Who can cease to sing his praise ♪
+[01:49:39.620 --> 01:49:43.960]   ♪ He can never be forgotten ♪
+[01:49:43.960 --> 01:49:48.040]   ♪ Throughout hell's eternal days ♪
+[01:49:48.040 --> 01:49:51.500]   - Yes, Lord.
+[01:49:51.500 --> 01:49:54.080]   (gentle music)
+[01:49:54.080 --> 01:50:07.480]   ♪ On the mount of crucifixion ♪
+[01:50:07.480 --> 01:50:11.780]   ♪ Fountains open deep and wide ♪
+[01:50:11.780 --> 01:50:14.780]   ♪ Through the flood ♪
+

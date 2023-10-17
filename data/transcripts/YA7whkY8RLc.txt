@@ -1,0 +1,1379 @@
+
+[00:00:00.000 --> 00:00:02.920]   (soft piano music)
+[00:00:02.920 --> 00:00:05.840]   (soft piano music)
+[00:00:05.840 --> 00:00:08.760]   (soft piano music)
+[00:00:08.760 --> 00:00:11.680]   (soft piano music)
+[00:00:11.680 --> 00:00:23.560]   (soft piano music)
+[00:00:23.560 --> 00:00:30.480]   (soft piano music)
+[00:00:30.480 --> 00:00:37.400]   (soft piano music)
+[00:00:38.120 --> 00:00:41.040]   (soft piano music)
+[00:00:41.040 --> 00:00:51.960]   (soft piano music)
+[00:00:51.960 --> 00:00:58.880]   (soft piano music)
+[00:00:58.880 --> 00:01:05.840]   (soft piano music)
+[00:01:06.360 --> 00:01:09.280]   (soft piano music)
+[00:01:09.280 --> 00:01:16.280]   (soft piano music)
+[00:01:16.280 --> 00:01:23.280]   (soft piano music)
+[00:01:23.280 --> 00:01:30.280]   (soft piano music)
+[00:01:30.800 --> 00:01:33.720]   (soft piano music)
+[00:01:33.720 --> 00:01:42.720]   (soft piano music)
+[00:01:42.720 --> 00:01:53.720]   (soft piano music)
+[00:01:54.240 --> 00:01:57.160]   (soft piano music)
+[00:01:57.160 --> 00:02:07.160]   (soft piano music)
+[00:02:07.160 --> 00:02:17.160]   (soft piano music)
+[00:02:17.680 --> 00:02:20.600]   (soft piano music)
+[00:02:20.600 --> 00:02:29.600]   (soft piano music)
+[00:02:29.600 --> 00:02:39.600]   (soft piano music)
+[00:02:40.120 --> 00:02:43.040]   (soft piano music)
+[00:02:43.040 --> 00:02:52.040]   (soft piano music)
+[00:02:52.040 --> 00:03:02.040]   (soft piano music)
+[00:03:02.560 --> 00:03:05.480]   (soft piano music)
+[00:03:05.480 --> 00:03:14.480]   (soft piano music)
+[00:03:14.480 --> 00:03:24.480]   (soft piano music)
+[00:03:25.000 --> 00:03:27.920]   (soft piano music)
+[00:03:27.920 --> 00:03:37.920]   (soft piano music)
+[00:03:37.920 --> 00:03:48.920]   (soft piano music)
+[00:03:49.440 --> 00:03:52.360]   (soft piano music)
+[00:03:52.360 --> 00:04:05.360]   (soft piano music)
+[00:04:18.440 --> 00:04:21.360]   (soft piano music)
+[00:04:21.360 --> 00:04:31.360]   (soft piano music)
+[00:04:31.360 --> 00:04:41.360]   (soft piano music)
+[00:04:41.360 --> 00:04:44.280]   (soft piano music)
+[00:04:44.280 --> 00:04:54.280]   (soft piano music)
+[00:04:54.280 --> 00:05:04.280]   (soft piano music)
+[00:05:04.280 --> 00:05:07.200]   (soft piano music)
+[00:05:07.200 --> 00:05:27.200]   (soft piano music)
+[00:05:27.200 --> 00:05:30.120]   (soft piano music)
+[00:05:30.120 --> 00:05:45.120]   (soft piano music)
+[00:05:45.120 --> 00:05:48.040]   (soft piano music)
+[00:05:48.040 --> 00:06:03.040]   (soft piano music)
+[00:06:03.040 --> 00:06:05.960]   (soft piano music)
+[00:06:05.960 --> 00:06:24.960]   (soft piano music)
+[00:06:24.960 --> 00:06:27.880]   (soft piano music)
+[00:06:27.880 --> 00:06:46.880]   (soft piano music)
+[00:06:46.880 --> 00:06:49.800]   (soft piano music)
+[00:06:49.800 --> 00:07:04.800]   (soft piano music)
+[00:07:04.800 --> 00:07:07.720]   (soft piano music)
+[00:07:07.720 --> 00:07:22.720]   (soft piano music)
+[00:07:22.720 --> 00:07:25.640]   (soft piano music)
+[00:07:25.640 --> 00:07:40.640]   (soft piano music)
+[00:07:40.640 --> 00:07:43.560]   (soft piano music)
+[00:08:08.640 --> 00:08:11.560]   (soft piano music)
+[00:08:11.560 --> 00:08:24.560]   (soft piano music)
+[00:08:24.560 --> 00:08:27.480]   (soft piano music)
+[00:08:27.480 --> 00:08:42.480]   (soft piano music)
+[00:08:42.480 --> 00:08:45.400]   (soft piano music)
+[00:08:45.400 --> 00:09:00.400]   (soft piano music)
+[00:09:00.400 --> 00:09:03.320]   (soft piano music)
+[00:09:03.320 --> 00:09:18.320]   (soft piano music)
+[00:09:18.320 --> 00:09:21.240]   (soft piano music)
+[00:09:21.240 --> 00:09:44.240]   (soft piano music)
+[00:09:44.240 --> 00:09:47.160]   (soft piano music)
+[00:09:47.160 --> 00:10:02.160]   (soft piano music)
+[00:10:02.160 --> 00:10:05.080]   (soft piano music)
+[00:10:05.080 --> 00:10:28.080]   (soft piano music)
+[00:10:28.080 --> 00:10:31.000]   (soft piano music)
+[00:10:31.000 --> 00:10:48.000]   (soft piano music)
+[00:10:48.000 --> 00:10:50.920]   (soft piano music)
+[00:11:17.000 --> 00:11:19.920]   (soft piano music)
+[00:11:19.920 --> 00:11:22.840]   (soft piano music)
+[00:11:22.840 --> 00:11:40.840]   (soft piano music)
+[00:11:40.840 --> 00:11:43.760]   (soft piano music)
+[00:11:43.760 --> 00:12:02.760]   (soft piano music)
+[00:12:02.760 --> 00:12:05.680]   (soft piano music)
+[00:12:05.680 --> 00:12:20.680]   (soft piano music)
+[00:12:20.680 --> 00:12:23.600]   (soft piano music)
+[00:12:23.600 --> 00:12:45.600]   (soft piano music)
+[00:12:45.600 --> 00:12:48.520]   (soft piano music)
+[00:12:48.520 --> 00:13:03.520]   (soft piano music)
+[00:13:03.520 --> 00:13:06.440]   (soft piano music)
+[00:13:06.440 --> 00:13:19.440]   - All right, good morning, Church family.
+[00:13:19.440 --> 00:13:20.440]   Happy Lord's Day.
+[00:13:20.440 --> 00:13:23.440]   It is always a joy for us to gather together
+[00:13:23.440 --> 00:13:25.440]   to worship our awesome God.
+[00:13:25.440 --> 00:13:28.440]   So let us begin by singing the song, "I Stand Amazed."
+[00:13:31.520 --> 00:13:33.940]   (soft music)
+[00:13:33.940 --> 00:13:50.520]   ♪ I stand amazed in the presence ♪
+[00:13:50.520 --> 00:13:57.520]   ♪ Of Jesus the Nazarene ♪
+[00:13:59.520 --> 00:14:04.520]   ♪ And wonder how he could love me ♪
+[00:14:04.520 --> 00:14:11.520]   ♪ A sinner condemned unquenched ♪
+[00:14:11.520 --> 00:14:17.520]   ♪ I stand amazed in the presence ♪
+[00:14:17.520 --> 00:14:25.520]   ♪ Of Jesus the Nazarene ♪
+[00:14:27.520 --> 00:14:32.520]   ♪ And wonder how he could love me ♪
+[00:14:32.520 --> 00:14:39.520]   ♪ A sinner condemned unclaimed ♪
+[00:14:39.520 --> 00:14:47.520]   ♪ How marvelous, how wonderful ♪
+[00:14:47.520 --> 00:14:54.520]   ♪ And my song shall ever be ♪
+[00:14:56.520 --> 00:15:01.520]   ♪ How marvelous, how wonderful ♪
+[00:15:01.520 --> 00:15:07.360]   ♪ Is my Savior's love for me ♪
+[00:15:07.360 --> 00:15:22.520]   - It's at my sins.
+[00:15:22.520 --> 00:15:27.520]   ♪ It's at my sins and my sorrows ♪
+[00:15:27.520 --> 00:15:34.520]   ♪ He made them His very own ♪
+[00:15:34.520 --> 00:15:41.520]   ♪ He bore the burden to Calvary ♪
+[00:15:41.520 --> 00:15:48.520]   ♪ And suffered and died alone ♪
+[00:15:50.520 --> 00:15:55.520]   ♪ How marvelous, how wonderful ♪
+[00:15:55.520 --> 00:16:02.520]   ♪ And my song shall ever be ♪
+[00:16:02.520 --> 00:16:09.520]   ♪ How marvelous, how wonderful ♪
+[00:16:09.520 --> 00:16:15.520]   ♪ Is my Savior's love for me ♪
+[00:16:15.520 --> 00:16:19.520]   ♪ Is my Savior's love for me ♪
+[00:16:19.520 --> 00:16:36.520]   ♪ And with the ransomed in glory ♪
+[00:16:36.520 --> 00:16:43.520]   ♪ His face I last shall see ♪
+[00:16:44.520 --> 00:16:49.520]   ♪ Will be my joy through the ages ♪
+[00:16:49.520 --> 00:16:56.520]   ♪ To sing of His love for me ♪
+[00:16:56.520 --> 00:17:02.520]   ♪ How wonderful, how marvelous ♪
+[00:17:02.520 --> 00:17:06.520]   ♪ How wonderful ♪
+[00:17:06.520 --> 00:17:11.520]   ♪ And my song shall ever be ♪
+[00:17:12.520 --> 00:17:17.520]   ♪ How marvelous, how wonderful ♪
+[00:17:17.520 --> 00:17:24.520]   ♪ Is my Savior's love for me ♪
+[00:17:24.520 --> 00:17:29.520]   ♪ Sing it ♪
+[00:17:29.520 --> 00:17:34.520]   ♪ How marvelous, how wonderful ♪
+[00:17:36.520 --> 00:17:41.520]   ♪ And my song shall ever be ♪
+[00:17:41.520 --> 00:17:48.520]   ♪ How marvelous, how wonderful ♪
+[00:17:48.520 --> 00:17:54.520]   ♪ Is my Savior's love for me ♪
+[00:17:54.520 --> 00:18:04.520]   - All right, good morning.
+[00:18:04.520 --> 00:18:06.520]   Welcome to Berean Community Church.
+[00:18:06.520 --> 00:18:07.520]   We have a few announcements before we get started,
+[00:18:07.520 --> 00:18:09.520]   but we're gonna ask Pastor Peter Chung
+[00:18:09.520 --> 00:18:11.520]   is gonna come and give the announcement about VBS.
+[00:18:11.520 --> 00:18:16.520]   - Hi, good morning.
+[00:18:16.520 --> 00:18:18.520]   You guys know the last couple years,
+[00:18:18.520 --> 00:18:21.520]   COVID messed up a lot of different plans,
+[00:18:21.520 --> 00:18:23.520]   but hopefully this summer,
+[00:18:23.520 --> 00:18:28.520]   we're gonna be holding just a full VBS
+[00:18:28.520 --> 00:18:30.520]   like we have done in previous years.
+[00:18:30.520 --> 00:18:32.520]   And so we've locked in the dates
+[00:18:32.520 --> 00:18:34.520]   for July 11th to the 15th,
+[00:18:34.520 --> 00:18:38.520]   and we're expecting probably about 120 plus kids.
+[00:18:38.520 --> 00:18:40.520]   So what we actually need,
+[00:18:40.520 --> 00:18:43.520]   as it's gonna be a very interactive one,
+[00:18:43.520 --> 00:18:46.520]   just a high energy one,
+[00:18:46.520 --> 00:18:49.520]   we're gonna need a lot of people to volunteer.
+[00:18:49.520 --> 00:18:53.520]   And so, and especially this is like a call for the parents,
+[00:18:53.520 --> 00:18:55.520]   not to just drop off your kids and go on a date,
+[00:18:55.520 --> 00:18:58.520]   but to really spend that week also
+[00:18:58.520 --> 00:19:00.520]   just helping and participating.
+[00:19:00.520 --> 00:19:04.520]   So we're taking registration for volunteers.
+[00:19:04.520 --> 00:19:06.520]   The more, the merrier.
+[00:19:06.520 --> 00:19:08.520]   If our whole church volunteers, that's great.
+[00:19:08.520 --> 00:19:09.520]   We just have to worry about parking,
+[00:19:09.520 --> 00:19:11.520]   but there's no cap.
+[00:19:11.520 --> 00:19:13.520]   And so if you can sign up on this link,
+[00:19:13.520 --> 00:19:16.520]   there's all kinds of different jobs
+[00:19:16.520 --> 00:19:17.520]   and things that you can do.
+[00:19:17.520 --> 00:19:19.520]   So please do fill that out.
+[00:19:19.520 --> 00:19:22.520]   For the registration of the VBS itself and the children,
+[00:19:22.520 --> 00:19:24.520]   the details are still rolling out.
+[00:19:24.520 --> 00:19:26.520]   The schedule is still being put together.
+[00:19:26.520 --> 00:19:29.520]   So that we're gonna push out at a later time,
+[00:19:29.520 --> 00:19:31.520]   but this is just kind of a save the date.
+[00:19:31.520 --> 00:19:35.520]   And this is a request for you guys to sign up and volunteer.
+[00:19:35.520 --> 00:19:39.520]   This is open to members only from college age and up.
+[00:19:39.520 --> 00:19:43.520]   So if you are a member, please do that
+[00:19:43.520 --> 00:19:46.520]   and then know that there will be safety training involved.
+[00:19:46.520 --> 00:19:49.520]   And we will be meeting about once a month
+[00:19:49.520 --> 00:19:52.520]   leading up to the VBS just for preparation
+[00:19:52.520 --> 00:19:55.520]   and trying to make sure everything
+[00:19:55.520 --> 00:19:57.520]   is coordinated well and smoothly.
+[00:19:57.520 --> 00:20:01.520]   So we're gonna not open up the signups for too long.
+[00:20:01.520 --> 00:20:03.520]   So please do that sooner than later.
+[00:20:03.520 --> 00:20:06.520]   All right, thank you.
+[00:20:06.520 --> 00:20:07.520]   - Okay, we also have an announcement
+[00:20:07.520 --> 00:20:08.520]   from our sister's ministry.
+[00:20:08.520 --> 00:20:10.520]   So our sister, Jen Choi, is gonna come
+[00:20:10.520 --> 00:20:12.520]   and give the announcement.
+[00:20:12.520 --> 00:20:18.520]   - Hi, everyone, I'm Jen.
+[00:20:18.520 --> 00:20:21.520]   I'm making an announcement for the women's ministry.
+[00:20:21.520 --> 00:20:24.520]   We would like to invite all women, college age and above,
+[00:20:24.520 --> 00:20:26.520]   to join us for another round of tea time.
+[00:20:26.520 --> 00:20:29.520]   Our sisters of various life stages will come together
+[00:20:29.520 --> 00:20:31.520]   for a time of intentional fellowship.
+[00:20:31.520 --> 00:20:34.520]   Team time will be on Saturday, April 30th
+[00:20:34.520 --> 00:20:36.520]   from 9.30 in the morning till noon.
+[00:20:36.520 --> 00:20:40.520]   And at that time, sisters will be assigned to smaller groups
+[00:20:40.520 --> 00:20:43.520]   and meet at designated homes over tea and snacks.
+[00:20:43.520 --> 00:20:44.520]   We'd love for you all to join,
+[00:20:44.520 --> 00:20:46.520]   as this is a great opportunity to get to know
+[00:20:46.520 --> 00:20:49.520]   other sisters at church and to hopefully build relationships
+[00:20:49.520 --> 00:20:51.520]   that will go beyond just that date.
+[00:20:51.520 --> 00:20:53.520]   You can go to the Marine Facebook pages
+[00:20:53.520 --> 00:20:56.520]   or the app to sign up, and the deadline for sign-ups
+[00:20:56.520 --> 00:20:58.520]   is Saturday, April 16th,
+[00:20:58.520 --> 00:21:01.520]   and it will take place on Saturday, April 30th.
+[00:21:01.520 --> 00:21:03.520]   And if you have questions, please contact Grace Kim.
+[00:21:03.520 --> 00:21:04.520]   Thank you.
+[00:21:04.520 --> 00:21:08.520]   - All right, so we have a few more announcements
+[00:21:08.520 --> 00:21:09.520]   before we get started.
+[00:21:09.520 --> 00:21:12.520]   Starting from today, we have the college study hall.
+[00:21:12.520 --> 00:21:15.520]   And so whenever after church,
+[00:21:15.520 --> 00:21:19.520]   and the church will be open for that in the cafe side,
+[00:21:19.520 --> 00:21:21.520]   if you have food and snacks
+[00:21:21.520 --> 00:21:23.520]   that you want to encourage your college students with
+[00:21:23.520 --> 00:21:27.520]   so that they can focus and actually study,
+[00:21:27.520 --> 00:21:29.520]   you can just bring it.
+[00:21:29.520 --> 00:21:30.520]   If you haven't signed up, you can sign up,
+[00:21:30.520 --> 00:21:32.520]   or you can just bring it and drop it off
+[00:21:32.520 --> 00:21:34.520]   just to encourage them.
+[00:21:34.520 --> 00:21:36.520]   So that'll be from today till Tuesday.
+[00:21:36.520 --> 00:21:39.520]   And then next Sunday, we have a new visitors welcome lunch.
+[00:21:39.520 --> 00:21:40.520]   So if you are visiting the church
+[00:21:40.520 --> 00:21:42.520]   and you want to find out more about the church,
+[00:21:42.520 --> 00:21:44.520]   maybe meet some of the leaders in the church
+[00:21:44.520 --> 00:21:46.520]   and just kind of ask some questions,
+[00:21:46.520 --> 00:21:47.520]   this would be a great time for you to come
+[00:21:47.520 --> 00:21:49.520]   and check the church out that way.
+[00:21:49.520 --> 00:21:51.520]   That's happening at 1.30 next Sunday.
+[00:21:51.520 --> 00:21:53.520]   So please sign up, go to the welcome table
+[00:21:53.520 --> 00:21:55.520]   and let them know or respond to the email
+[00:21:55.520 --> 00:21:57.520]   that you might have gotten
+[00:21:57.520 --> 00:22:00.520]   so that they can make sure that that's prepared.
+[00:22:00.520 --> 00:22:02.520]   The other thing is we've been mentioning
+[00:22:02.520 --> 00:22:03.520]   about the devotional seminars
+[00:22:03.520 --> 00:22:06.520]   that we're having next week at 2 p.m.
+[00:22:06.520 --> 00:22:08.520]   The first one, the personal devotion,
+[00:22:08.520 --> 00:22:11.520]   being led by Elder Phillip, is a one-day course
+[00:22:11.520 --> 00:22:15.520]   just to teach you about how to do personal devotions.
+[00:22:15.520 --> 00:22:19.520]   And then family worship devotion by Elder Joe.
+[00:22:19.520 --> 00:22:22.520]   Both of them are taking place at 2 p.m.
+[00:22:22.520 --> 00:22:25.520]   I think the personal devotion is going to be taking place
+[00:22:25.520 --> 00:22:29.520]   at 2 p.m. up in the seeds room.
+[00:22:29.520 --> 00:22:30.520]   Seeds, sprouts.
+[00:22:30.520 --> 00:22:33.520]   Seeds upstairs, sprouts downstairs.
+[00:22:33.520 --> 00:22:35.520]   So seeds room upstairs.
+[00:22:35.520 --> 00:22:37.520]   And then the Elder Joe,
+[00:22:37.520 --> 00:22:40.520]   he's going to be in the youth group room on the other side.
+[00:22:40.520 --> 00:22:41.520]   So if you haven't signed up for that,
+[00:22:41.520 --> 00:22:43.520]   please sign up for that.
+[00:22:43.520 --> 00:22:45.520]   And then we have evangelism outings
+[00:22:45.520 --> 00:22:47.520]   that's going to be taking place.
+[00:22:47.520 --> 00:22:49.520]   We'll give more specific instructions as it comes,
+[00:22:49.520 --> 00:22:52.520]   but they're going to be doing it more frequently
+[00:22:52.520 --> 00:22:55.520]   so that they can prepare for the Easter that's coming up
+[00:22:55.520 --> 00:22:57.520]   and so that we can really maximize the opportunity
+[00:22:57.520 --> 00:23:00.520]   that we have each Easter that we do have.
+[00:23:00.520 --> 00:23:02.520]   And so, again, the sign-ups for that
+[00:23:02.520 --> 00:23:04.520]   and just to let them know that you're coming.
+[00:23:04.520 --> 00:23:06.520]   There are three places that they're going to be going to,
+[00:23:06.520 --> 00:23:11.520]   Irvine Spectrum, UTI--oh, not UTI, UTC.
+[00:23:11.520 --> 00:23:16.520]   UTI is something different--Source at Buena Park.
+[00:23:16.520 --> 00:23:17.520]   Okay?
+[00:23:17.520 --> 00:23:20.520]   You know what I meant.
+[00:23:20.520 --> 00:23:21.520]   So those three places,
+[00:23:21.520 --> 00:23:23.520]   so if you are able to sign up for that,
+[00:23:23.520 --> 00:23:25.520]   please sign up for that as well.
+[00:23:25.520 --> 00:23:29.520]   Erase that from your mind, okay?
+[00:23:29.520 --> 00:23:31.520]   We're going to give one more push
+[00:23:31.520 --> 00:23:34.520]   for the Ukraine special offering we took last week.
+[00:23:34.520 --> 00:23:36.520]   We had a lot of people just contacting us
+[00:23:36.520 --> 00:23:38.520]   that they missed it and they want to help.
+[00:23:38.520 --> 00:23:40.520]   And some people just gave during the weekday,
+[00:23:40.520 --> 00:23:42.520]   but we want to give you one more opportunity to do that,
+[00:23:42.520 --> 00:23:45.520]   and every part of the offering that you'll be giving
+[00:23:45.520 --> 00:23:47.520]   will be going directly to the missionaries
+[00:23:47.520 --> 00:23:50.520]   and the local--the Baptist local churches there
+[00:23:50.520 --> 00:23:53.520]   who are already heavily involved in helping people evacuate,
+[00:23:53.520 --> 00:23:56.520]   those who have been displaced, to find homes for them
+[00:23:56.520 --> 00:23:58.520]   and provide food and care, health care,
+[00:23:58.520 --> 00:24:00.520]   all that stuff that's going through
+[00:24:00.520 --> 00:24:02.520]   specifically through the local church.
+[00:24:02.520 --> 00:24:06.520]   So the finances, I think, are being used well for that purpose,
+[00:24:06.520 --> 00:24:08.520]   so if you wish to give,
+[00:24:08.520 --> 00:24:10.520]   this is a great opportunity to do that.
+[00:24:10.520 --> 00:24:12.520]   So we'll pray for the offering.
+[00:24:12.520 --> 00:24:14.520]   We'll give you a minute to give the offering,
+[00:24:14.520 --> 00:24:16.520]   but again, if you are giving it specific for Ukraine,
+[00:24:16.520 --> 00:24:18.520]   make sure that you make note of that,
+[00:24:18.520 --> 00:24:20.520]   saying that this is for Ukraine so it will be set aside.
+[00:24:20.520 --> 00:24:23.520]   And sometime this week, we will be handing the offering over.
+[00:24:23.520 --> 00:24:27.520]   Okay? Let's pray.
+[00:24:27.520 --> 00:24:31.520]   Heavenly Father, we pray for your continued grace
+[00:24:31.520 --> 00:24:34.520]   with all the various things that are happening at church.
+[00:24:34.520 --> 00:24:36.520]   Lord God, help us to do it in a manner
+[00:24:36.520 --> 00:24:39.520]   that truly is worshipful,
+[00:24:39.520 --> 00:24:41.520]   that we will bear fruit as we abide in you.
+[00:24:41.520 --> 00:24:44.520]   We pray specifically for what's going on in Ukraine.
+[00:24:44.520 --> 00:24:47.520]   I pray that you would raise up men and women,
+[00:24:47.520 --> 00:24:49.520]   your children, Lord God, in that place,
+[00:24:49.520 --> 00:24:51.520]   to be a greater witness,
+[00:24:51.520 --> 00:24:53.520]   that through these trials, Lord God,
+[00:24:53.520 --> 00:24:56.520]   that your love, your hope, the gospel, Lord God,
+[00:24:56.520 --> 00:24:59.520]   will be highlighted, and more and more people
+[00:24:59.520 --> 00:25:02.520]   will come to find their security and refuge in you.
+[00:25:02.520 --> 00:25:05.520]   And so we pray that you would ignite the believers,
+[00:25:05.520 --> 00:25:09.520]   strengthen them, and that as opportunity has arisen,
+[00:25:09.520 --> 00:25:11.520]   Lord God, for the church to step up,
+[00:25:11.520 --> 00:25:14.520]   that this would truly be an opportunity that you've created
+[00:25:14.520 --> 00:25:16.520]   that we can honor and glorify you.
+[00:25:16.520 --> 00:25:19.520]   May the offering that we give multiply 30, 60, 100-fold
+[00:25:19.520 --> 00:25:21.520]   for the sake of your kingdom.
+[00:25:21.520 --> 00:25:25.520]   In Jesus' name we pray. Amen.
+[00:25:25.520 --> 00:25:28.520]   [piano music]
+[00:25:28.520 --> 00:25:33.520]   ♪ ♪
+[00:25:33.520 --> 00:25:38.520]   ♪ ♪
+[00:25:39.520 --> 00:25:44.520]   ♪ ♪
+[00:25:44.520 --> 00:25:49.520]   ♪ ♪
+[00:25:49.520 --> 00:25:54.520]   ♪ ♪
+[00:26:18.520 --> 00:26:20.520]   Church family, would you please stand with us
+[00:26:20.520 --> 00:26:22.520]   as we continue our worship?
+[00:26:22.520 --> 00:26:29.520]   [piano music]
+[00:26:29.520 --> 00:26:34.520]   ♪ ♪
+[00:26:34.520 --> 00:26:45.520]   ♪ Who has held the oceans at His hands? ♪
+[00:26:45.520 --> 00:26:51.520]   ♪ Who has numbered every great estate? ♪
+[00:26:51.520 --> 00:26:58.520]   ♪ And kings and nations tremble at His voice? ♪
+[00:26:58.520 --> 00:27:05.520]   ♪ All creation rises to rejoice. ♪
+[00:27:05.520 --> 00:27:10.520]   ♪ ♪
+[00:27:14.520 --> 00:27:16.520]   Who has given?
+[00:27:16.520 --> 00:27:22.520]   ♪ Who has given counsel to the Lord? ♪
+[00:27:22.520 --> 00:27:28.520]   ♪ Who can question any of His words? ♪
+[00:27:28.520 --> 00:27:35.520]   ♪ Who can teach the one who knows all things? ♪
+[00:27:35.520 --> 00:27:42.520]   ♪ Who can fathom all His wondrous deeds? ♪
+[00:27:42.520 --> 00:27:50.520]   ♪ Behold our God seated on His throne. ♪
+[00:27:50.520 --> 00:27:55.520]   ♪ Come, let us adore Him. ♪
+[00:27:55.520 --> 00:28:00.520]   ♪ Behold our King. ♪
+[00:28:00.520 --> 00:28:03.520]   ♪ Nothing can compare. ♪
+[00:28:03.520 --> 00:28:10.520]   ♪ Come, let us adore Him. ♪
+[00:28:10.520 --> 00:28:17.520]   ♪ ♪
+[00:28:17.520 --> 00:28:20.520]   Who has spelled?
+[00:28:20.520 --> 00:28:26.520]   ♪ Who has spelled the nails upon His hand? ♪
+[00:28:26.520 --> 00:28:32.520]   ♪ Bearing all the guilt of sinful man? ♪
+[00:28:32.520 --> 00:28:39.520]   ♪ God eternal, humble to the grave. ♪
+[00:28:39.520 --> 00:28:45.520]   ♪ Jesus, Savior, risen now to reign. ♪
+[00:28:45.520 --> 00:28:52.520]   ♪ God eternal, humble to the grave. ♪
+[00:28:52.520 --> 00:28:58.520]   ♪ Jesus, Savior, risen now to reign. ♪
+[00:28:58.520 --> 00:29:06.520]   ♪ Behold our God seated on His throne. ♪
+[00:29:06.520 --> 00:29:11.520]   ♪ Come, let us adore Him. ♪
+[00:29:11.520 --> 00:29:16.520]   ♪ Behold our King. ♪
+[00:29:16.520 --> 00:29:19.520]   ♪ Nothing can compare. ♪
+[00:29:19.520 --> 00:29:27.520]   ♪ Come, let us adore Him. ♪
+[00:29:27.520 --> 00:29:30.520]   ♪ ♪
+[00:29:30.520 --> 00:29:34.360]   You will reign forever.
+[00:29:34.360 --> 00:29:39.000]   You will reign forever.
+[00:29:39.000 --> 00:29:46.840]   You will reign forever.
+[00:29:46.840 --> 00:29:57.720]   You will reign forever.
+[00:29:57.720 --> 00:30:03.720]   Our God is seated on His throne.
+[00:30:03.720 --> 00:30:08.200]   Come, let us adore Him.
+[00:30:08.200 --> 00:30:13.160]   Behold our King.
+[00:30:13.160 --> 00:30:16.120]   Nothing can compare.
+[00:30:16.120 --> 00:30:20.600]   Come, let us adore Him.
+[00:30:20.600 --> 00:30:29.080]   Behold our God is seated on His throne.
+[00:30:29.080 --> 00:30:33.080]   Come, let us adore Him.
+[00:30:33.080 --> 00:30:38.520]   Behold our King.
+[00:30:38.520 --> 00:30:41.480]   Nothing can compare.
+[00:30:41.480 --> 00:30:49.000]   Come, let us adore Him.
+[00:30:49.000 --> 00:31:11.000]   [MUSIC PLAYING]
+[00:31:11.000 --> 00:31:23.480]   Should nothing of our efforts stand, no legacy survive.
+[00:31:23.480 --> 00:31:31.960]   Unless the Lord does raise the house in vain,
+[00:31:31.960 --> 00:31:35.960]   its builders strive.
+[00:31:35.960 --> 00:31:48.920]   To you who boasts tomorrow's gain, tell me, what is your lie?
+[00:31:48.920 --> 00:32:01.400]   A mist that vanishes at dawn, all glory be to Christ.
+[00:32:01.400 --> 00:32:07.880]   All glory be to Christ our King.
+[00:32:07.880 --> 00:32:14.360]   All glory be to Christ.
+[00:32:14.360 --> 00:32:20.360]   His rule and reign will ever sing.
+[00:32:20.360 --> 00:32:24.840]   All glory be to Christ.
+[00:32:29.800 --> 00:32:42.280]   His will be done, His kingdom come on earth as is above.
+[00:32:42.280 --> 00:32:48.760]   Who is Himself our daily bread?
+[00:32:48.760 --> 00:32:55.240]   Praise Him, the Lord of love.
+[00:32:55.240 --> 00:33:07.720]   When many wonders satisfy, well-adversity without price,
+[00:33:07.720 --> 00:33:14.200]   we'll take the cup of kindness yet.
+[00:33:14.200 --> 00:33:20.680]   All glory be to Christ.
+[00:33:20.680 --> 00:33:26.680]   All glory be to Christ our King.
+[00:33:26.680 --> 00:33:33.160]   All glory be to Christ.
+[00:33:33.160 --> 00:33:39.160]   His rule and reign will ever sing.
+[00:33:39.160 --> 00:33:43.640]   All glory be to Christ.
+[00:33:49.120 --> 00:34:01.600]   On the day, the great I am, the faithful and the true,
+[00:34:01.600 --> 00:34:08.080]   the Lamb who was born, sinners slain,
+[00:34:08.080 --> 00:34:12.580]   is making all things new.
+[00:34:12.580 --> 00:34:14.080]   Behold our God.
+[00:34:14.080 --> 00:34:26.560]   Behold our God shall ever last, and be our steadfast light.
+[00:34:26.560 --> 00:34:33.040]   And we shall ever be, we will be.
+[00:34:33.040 --> 00:34:39.040]   All glory be to Christ.
+[00:34:39.040 --> 00:34:45.520]   All glory be to Christ our King.
+[00:34:45.520 --> 00:34:52.000]   All glory be to Christ.
+[00:34:52.000 --> 00:34:58.000]   His rule and reign will ever sing.
+[00:34:58.000 --> 00:35:04.480]   All glory be to Christ.
+[00:35:04.480 --> 00:35:10.960]   All glory be to Christ our King.
+[00:35:10.960 --> 00:35:17.440]   All glory be to Christ.
+[00:35:17.440 --> 00:35:24.440]   His rule and reign will ever sing.
+[00:35:24.440 --> 00:35:31.920]   All glory be to Christ.
+[00:35:31.920 --> 00:35:32.420]   Amen.
+[00:35:32.420 --> 00:35:33.920]   And may they be seated.
+[00:35:33.920 --> 00:35:45.080]   All right, we are finally at the end of the book of Hebrews.
+[00:35:45.080 --> 00:35:47.920]   So today is the last sermon.
+[00:35:47.920 --> 00:35:52.520]   We've been on it actually exactly three years.
+[00:35:52.520 --> 00:35:56.160]   We started three years ago, March 10th.
+[00:35:56.160 --> 00:35:58.080]   So we're actually almost exactly three years
+[00:35:58.080 --> 00:35:59.640]   it took us to go through Hebrews.
+[00:35:59.640 --> 00:36:02.960]   And there was a stretch, I think, in the middle when we
+[00:36:02.960 --> 00:36:04.500]   were--
+[00:36:04.500 --> 00:36:06.840]   because of the pandemic, we went through the I
+[00:36:06.840 --> 00:36:07.920]   am statements of Christ.
+[00:36:07.920 --> 00:36:12.880]   But outside of that, I'm almost reluctant to leave.
+[00:36:12.880 --> 00:36:15.720]   One of the benefits of teaching through the Bible
+[00:36:15.720 --> 00:36:17.960]   is that I benefit from it.
+[00:36:17.960 --> 00:36:22.680]   I remember in the beginning of ministry,
+[00:36:22.680 --> 00:36:25.180]   when I was a youth pastor and I was a college and EM pastor,
+[00:36:25.180 --> 00:36:27.000]   I was just preaching just kind of topically,
+[00:36:27.000 --> 00:36:27.960]   what does the church need?
+[00:36:27.960 --> 00:36:29.120]   And I would choose that.
+[00:36:29.120 --> 00:36:31.760]   And I would preach like that for three, four, five years.
+[00:36:31.760 --> 00:36:34.360]   And at the end of it, I didn't feel
+[00:36:34.360 --> 00:36:37.760]   like I knew the Bible any more than I did after five, six
+[00:36:37.760 --> 00:36:41.200]   years of it, because I just knew the topic of discipleship,
+[00:36:41.200 --> 00:36:43.400]   about prayer, about evangelism.
+[00:36:43.400 --> 00:36:46.000]   And so there's like 15, 16 different topics.
+[00:36:46.000 --> 00:36:47.920]   And you give different versions of that.
+[00:36:47.920 --> 00:36:49.680]   But then I remember very specifically,
+[00:36:49.680 --> 00:36:52.720]   I decided to just preach just verse by verse,
+[00:36:52.720 --> 00:36:54.620]   starting from John and then Philippians.
+[00:36:54.620 --> 00:36:56.960]   And then I would just make it through the New Testament.
+[00:36:56.960 --> 00:37:00.440]   And I remember specifically, after finishing Philippians,
+[00:37:00.440 --> 00:37:03.840]   it's like, oh, even though I was an undergrad Bible major
+[00:37:03.840 --> 00:37:06.080]   and I went to seminary, I learned more
+[00:37:06.080 --> 00:37:08.840]   from studying to teach it that way
+[00:37:08.840 --> 00:37:11.560]   than I did in all the years that I was in seminary.
+[00:37:11.560 --> 00:37:13.800]   And then so the benefit, ultimately, I
+[00:37:13.800 --> 00:37:15.400]   get the first benefit, because I'm
+[00:37:15.400 --> 00:37:17.240]   able to dig through the scripture
+[00:37:17.240 --> 00:37:18.840]   and examine it better than before.
+[00:37:18.840 --> 00:37:20.680]   So Hebrews, I've gone through several times.
+[00:37:20.680 --> 00:37:22.860]   But I feel like I probably gleaned more
+[00:37:22.860 --> 00:37:24.400]   than you did from the study.
+[00:37:24.400 --> 00:37:26.080]   So I'm almost reluctant to leave it.
+[00:37:26.080 --> 00:37:29.920]   But I do have other passages that I do want to go into.
+[00:37:29.920 --> 00:37:31.840]   I'm still not sure exactly where.
+[00:37:31.840 --> 00:37:33.600]   But I'll let you know as we get closer.
+[00:37:33.600 --> 00:37:35.300]   After today, we're going to probably take
+[00:37:35.300 --> 00:37:37.640]   about a month of various different topics
+[00:37:37.640 --> 00:37:38.600]   that we want to cover.
+[00:37:38.600 --> 00:37:43.480]   And after Easter, I'll jump into the new area
+[00:37:43.480 --> 00:37:44.960]   of what we're going to study.
+[00:37:44.960 --> 00:37:47.120]   But I want to read with you, as we wrap up the study,
+[00:37:47.120 --> 00:37:49.240]   just to kind of give, again, an overview.
+[00:37:49.240 --> 00:37:51.280]   And it'll be very similar to the introduction
+[00:37:51.280 --> 00:37:52.920]   that I gave three years ago.
+[00:37:52.920 --> 00:37:55.160]   Hebrews chapter 10, 32 to 34, it says,
+[00:37:55.160 --> 00:37:58.360]   "But remember the former days, when after being enlightened,
+[00:37:58.360 --> 00:38:01.400]   you endured a great conflict of suffering,
+[00:38:01.400 --> 00:38:04.320]   partly by being made a public spectacle through reproaches
+[00:38:04.320 --> 00:38:07.280]   and tribulations, and partly by becoming sharers with those
+[00:38:07.280 --> 00:38:08.600]   who were so treated.
+[00:38:08.600 --> 00:38:10.280]   For you showed sympathy to the prisoners
+[00:38:10.280 --> 00:38:13.000]   and accepted joyfully a seizure of your property,
+[00:38:13.000 --> 00:38:15.600]   knowing that you have for yourselves a better position
+[00:38:15.600 --> 00:38:16.560]   and a lasting one."
+[00:38:16.560 --> 00:38:18.560]   Let's pray.
+[00:38:18.560 --> 00:38:22.680]   Heavenly Father, we pray that your word would convict us,
+[00:38:22.680 --> 00:38:25.840]   lead us, transform us into the very thing
+[00:38:25.840 --> 00:38:28.000]   that you desire us to be.
+[00:38:28.000 --> 00:38:30.680]   We thank you, Father, for your living word
+[00:38:30.680 --> 00:38:35.000]   that judges the thoughts and intentions of our hearts,
+[00:38:35.000 --> 00:38:37.760]   gives us great encouragement.
+[00:38:37.760 --> 00:38:39.560]   And we pray, Father God, that as we wrap up
+[00:38:39.560 --> 00:38:42.080]   the study in the book of Hebrews,
+[00:38:42.080 --> 00:38:45.560]   that all that we have learned, Lord God, would transform us,
+[00:38:45.560 --> 00:38:48.520]   build us up, that we may be sanctified according
+[00:38:48.520 --> 00:38:50.240]   to the purpose and will of your Son.
+[00:38:50.240 --> 00:38:51.360]   In Jesus' name we pray.
+[00:38:51.360 --> 00:38:51.860]   Amen.
+[00:38:52.860 --> 00:38:54.020]   [END PLAYBACK]
+[00:38:54.020 --> 00:38:56.820]   Now, last week we had our Salt and Pepper,
+[00:38:56.820 --> 00:38:59.980]   more Salt and Pepper fellowship.
+[00:38:59.980 --> 00:39:02.660]   And so I think we were expecting maybe about 30 people
+[00:39:02.660 --> 00:39:03.580]   in the church.
+[00:39:03.580 --> 00:39:07.300]   To our surprise, we actually have close to 70,
+[00:39:07.300 --> 00:39:08.620]   over 50 at our church.
+[00:39:08.620 --> 00:39:10.940]   We had about 56, 57.
+[00:39:10.940 --> 00:39:14.740]   Then we had at least a dozen who were in that category
+[00:39:14.740 --> 00:39:16.580]   but wasn't able to come.
+[00:39:16.580 --> 00:39:19.060]   And so to our surprise, we actually
+[00:39:19.060 --> 00:39:21.740]   have a lot more people than we thought that are over 50.
+[00:39:21.740 --> 00:39:23.940]   We just scatter, so we normally don't see.
+[00:39:23.940 --> 00:39:25.700]   Typically, when people come to our church,
+[00:39:25.700 --> 00:39:27.940]   it's like, yeah, it's all college students.
+[00:39:27.940 --> 00:39:29.700]   That's what people tend to see.
+[00:39:29.700 --> 00:39:32.020]   But when we had that fellowship, even I
+[00:39:32.020 --> 00:39:34.600]   was surprised that we have that many people at our church that
+[00:39:34.600 --> 00:39:35.820]   are over 50.
+[00:39:35.820 --> 00:39:38.100]   One of the interesting thing was,
+[00:39:38.100 --> 00:39:41.180]   because we have older people at church,
+[00:39:41.180 --> 00:39:45.620]   that our testimonies and our background is very diverse.
+[00:39:45.620 --> 00:39:48.940]   We have people who've lived in different continents.
+[00:39:48.940 --> 00:39:50.980]   They were playing one of the games of what's
+[00:39:50.980 --> 00:39:52.580]   unique that are at our table.
+[00:39:52.580 --> 00:39:55.500]   And we had actually two cancer survivors at our table,
+[00:39:55.500 --> 00:39:57.540]   so we thought that would be unique enough.
+[00:39:57.540 --> 00:39:59.040]   And then when we presented, we found
+[00:39:59.040 --> 00:40:01.380]   that we had three other cancer survivors.
+[00:40:01.380 --> 00:40:03.820]   And so the stories that were coming out
+[00:40:03.820 --> 00:40:05.260]   of the different tables, these are
+[00:40:05.260 --> 00:40:09.100]   from all walks of life, all different backgrounds.
+[00:40:09.100 --> 00:40:11.020]   One of the benefits of getting older
+[00:40:11.020 --> 00:40:14.620]   is you have the ability to be able to see.
+[00:40:14.620 --> 00:40:16.460]   When you're younger, there are certain things
+[00:40:16.460 --> 00:40:19.620]   that seem so important, just seems trivial now
+[00:40:19.620 --> 00:40:20.860]   as we get older.
+[00:40:20.860 --> 00:40:23.780]   Like when we're young, we're so consumed with what
+[00:40:23.780 --> 00:40:25.660]   other people think of us.
+[00:40:25.660 --> 00:40:27.740]   And the older we get, we just don't care.
+[00:40:27.740 --> 00:40:30.060]   You know what I mean?
+[00:40:30.060 --> 00:40:31.980]   I mean, it's not that we don't care at all,
+[00:40:31.980 --> 00:40:35.180]   but it's just not as important as it was when it was younger.
+[00:40:35.180 --> 00:40:36.620]   And then as we get older, there are
+[00:40:36.620 --> 00:40:39.580]   certain things that become a lot more important,
+[00:40:39.580 --> 00:40:42.260]   like our family, our health, things
+[00:40:42.260 --> 00:40:45.500]   that have more value long term.
+[00:40:45.500 --> 00:40:48.340]   That's one of the benefits of getting older.
+[00:40:48.340 --> 00:40:51.700]   But one of the things that we have to be careful
+[00:40:51.700 --> 00:40:55.860]   as we get older is that the things that we started with
+[00:40:55.860 --> 00:40:58.580]   sometimes become just routine.
+[00:40:58.580 --> 00:41:02.220]   And that specifically happens with our faith.
+[00:41:02.220 --> 00:41:06.660]   We start out with a-- just like the recipients of this letter,
+[00:41:06.660 --> 00:41:07.660]   it says, remember.
+[00:41:07.660 --> 00:41:08.980]   Remember because they forgot.
+[00:41:08.980 --> 00:41:11.140]   That's why he's telling them to remember.
+[00:41:11.140 --> 00:41:13.860]   Remember your former days.
+[00:41:13.860 --> 00:41:17.580]   Remember when you first met Christ, how exciting church
+[00:41:17.580 --> 00:41:23.460]   was, how exciting fellowship was, singing new songs,
+[00:41:23.460 --> 00:41:24.300]   studying the Bible.
+[00:41:24.300 --> 00:41:28.140]   Every part of your faith is like, wow, this is a privilege.
+[00:41:28.140 --> 00:41:32.180]   But for some reason, as time passes by,
+[00:41:32.180 --> 00:41:34.420]   everything about our faith becomes a mandate.
+[00:41:34.420 --> 00:41:36.780]   Like I have to do this, and I don't want to do this.
+[00:41:36.780 --> 00:41:38.620]   And fellowship becomes a burden because you've
+[00:41:38.620 --> 00:41:39.740]   been burned in the past.
+[00:41:39.740 --> 00:41:42.660]   And if we're not careful, we can just
+[00:41:42.660 --> 00:41:44.700]   go through the motion.
+[00:41:44.700 --> 00:41:46.620]   And you do that for a while.
+[00:41:46.620 --> 00:41:48.660]   After a while, just like the Bible says,
+[00:41:48.660 --> 00:41:52.460]   you have a form of godliness, but there is no power.
+[00:41:52.460 --> 00:41:55.500]   You've just become a very religious Christian.
+[00:41:55.500 --> 00:41:56.340]   But there's no power.
+[00:41:56.340 --> 00:41:57.420]   You don't see any fruit.
+[00:41:57.420 --> 00:42:00.180]   No one has ever come to Christ because of your sharing.
+[00:42:00.180 --> 00:42:01.780]   Everybody says, oh, you go to church.
+[00:42:01.780 --> 00:42:03.660]   You're a very religious person.
+[00:42:03.660 --> 00:42:07.800]   But there's no power behind that because it's just a formality.
+[00:42:07.800 --> 00:42:10.740]   There's no real inner change or inner joy that's happening.
+[00:42:10.740 --> 00:42:16.220]   In fact, Jesus warns about this in the parable of the seeds.
+[00:42:16.220 --> 00:42:18.700]   In Matthew chapter 13, 19 to 22, Jesus
+[00:42:18.700 --> 00:42:21.260]   says, "When anyone hears the word of the kingdom
+[00:42:21.260 --> 00:42:22.940]   and does not understand it, the evil one
+[00:42:22.940 --> 00:42:25.940]   comes and snatches away what has been sown in his heart."
+[00:42:25.940 --> 00:42:29.940]   This is the one in whom seed was sown besides the road.
+[00:42:29.940 --> 00:42:32.020]   Those are people who are typically not in the church.
+[00:42:32.020 --> 00:42:34.500]   They hear the word, I don't understand,
+[00:42:34.500 --> 00:42:36.940]   or I don't believe it, and they don't make it the way
+[00:42:36.940 --> 00:42:37.620]   into the church.
+[00:42:37.620 --> 00:42:38.980]   These are people who we're trying
+[00:42:38.980 --> 00:42:42.140]   to invite to our services, to get to hear the gospel.
+[00:42:42.140 --> 00:42:44.700]   They may be our co-workers or family members.
+[00:42:44.700 --> 00:42:47.620]   But the word of God has no effect on them.
+[00:42:47.620 --> 00:42:51.740]   The second seed, it says in verse 20,
+[00:42:51.740 --> 00:42:55.540]   "The one whom seed was sown on the rocky places,"
+[00:42:55.540 --> 00:42:57.780]   this is the man who hears the word
+[00:42:57.780 --> 00:43:00.140]   and immediately receives it with joy.
+[00:43:00.140 --> 00:43:01.900]   There seems to be immediate response.
+[00:43:01.900 --> 00:43:04.860]   Yet he has no firm root in himself,
+[00:43:04.860 --> 00:43:07.180]   but is only temporary when affliction or persecution
+[00:43:07.180 --> 00:43:08.300]   arises because of the word.
+[00:43:08.300 --> 00:43:10.020]   Immediately, he falls away.
+[00:43:10.020 --> 00:43:13.540]   You probably know of some people who at one point in their life
+[00:43:13.540 --> 00:43:14.700]   were excited for God.
+[00:43:14.700 --> 00:43:16.500]   But as soon as they began to realize
+[00:43:16.500 --> 00:43:19.660]   the consequence of following Christ,
+[00:43:19.660 --> 00:43:22.780]   as long as they only saw the benefit, it was fine.
+[00:43:22.780 --> 00:43:25.700]   But as soon as their faith started to get tested,
+[00:43:25.700 --> 00:43:27.700]   they started drifting away, and they disappeared.
+[00:43:27.700 --> 00:43:30.660]   So I'm sure every one of us knows somebody in our life
+[00:43:30.660 --> 00:43:34.860]   that came and was excited for a period, and they disappeared.
+[00:43:34.860 --> 00:43:37.020]   But those people are not in the church either.
+[00:43:37.020 --> 00:43:38.540]   Because eventually, they leave.
+[00:43:38.540 --> 00:43:41.980]   It's the third group that we constantly struggle with.
+[00:43:41.980 --> 00:43:46.060]   It says in verse 22, "And the one on whom the seed was
+[00:43:46.060 --> 00:43:49.180]   sown among the thorns," this is the man who hears the word
+[00:43:49.180 --> 00:43:52.060]   and the worry of the world and the deceitfulness of wealth
+[00:43:52.060 --> 00:43:57.060]   choke the word, and it becomes unfruitful.
+[00:43:57.060 --> 00:44:02.340]   Now, the third soil are people who are still in the church.
+[00:44:02.340 --> 00:44:04.540]   Third soil are people who don't pack up their bags
+[00:44:04.540 --> 00:44:05.040]   and leave.
+[00:44:05.040 --> 00:44:07.180]   Because it looks like they're bearing fruit.
+[00:44:07.180 --> 00:44:11.740]   In every way, they may act like a Christian.
+[00:44:11.740 --> 00:44:14.860]   But it says the word of God is being choked in their life
+[00:44:14.860 --> 00:44:16.620]   because of the worries of this world
+[00:44:16.620 --> 00:44:18.540]   and deceitfulness of riches.
+[00:44:18.540 --> 00:44:20.500]   And so on Sunday, they are pursuing Christ.
+[00:44:20.500 --> 00:44:24.620]   But Monday through Saturday, they're pursuing the world.
+[00:44:24.620 --> 00:44:28.860]   So only time where there's any conversations about Christ,
+[00:44:28.860 --> 00:44:32.540]   it happens at church or it happens at Bible study.
+[00:44:32.540 --> 00:44:34.980]   But it doesn't happen in any other context.
+[00:44:34.980 --> 00:44:38.900]   Because the word of God is being choked in their life.
+[00:44:38.900 --> 00:44:41.260]   And that's the concern that we have in our generation.
+[00:44:41.260 --> 00:44:45.740]   I think that the authors of Hebrew, the author of Hebrew,
+[00:44:45.740 --> 00:44:47.660]   is addressing that particular issue.
+[00:44:47.660 --> 00:44:51.700]   Because these people are not specifically
+[00:44:51.700 --> 00:44:53.860]   shaking their hands at God and say, you know what?
+[00:44:53.860 --> 00:44:54.700]   I'm going to be apostate.
+[00:44:54.700 --> 00:44:55.740]   I'm going to walk away from God.
+[00:44:55.740 --> 00:44:57.100]   I don't believe this anymore.
+[00:44:57.100 --> 00:44:59.660]   He's not addressing those people.
+[00:44:59.660 --> 00:45:02.780]   He's not addressing people who have physically left the church.
+[00:45:02.780 --> 00:45:05.380]   He's not addressing people who have made it very clear
+[00:45:05.380 --> 00:45:06.140]   where that line is.
+[00:45:06.140 --> 00:45:09.740]   He's addressing people who are in the church
+[00:45:09.740 --> 00:45:15.380]   and is trying to have the benefit of the both worlds.
+[00:45:15.380 --> 00:45:21.220]   How can I retain my salvation and still pursue the world?
+[00:45:21.220 --> 00:45:22.620]   That's what he's addressing.
+[00:45:22.620 --> 00:45:25.820]   Because these people are starting to gradually drift
+[00:45:25.820 --> 00:45:27.940]   back into their old life.
+[00:45:27.940 --> 00:45:30.180]   There is no specific doctrine that they
+[00:45:30.180 --> 00:45:32.180]   were guilty of rejecting.
+[00:45:32.180 --> 00:45:33.860]   It was just they're just drifting back
+[00:45:33.860 --> 00:45:34.620]   into their old life.
+[00:45:34.620 --> 00:45:36.080]   In fact, that's the language that's
+[00:45:36.080 --> 00:45:37.380]   repeated over and over again.
+[00:45:37.380 --> 00:45:39.580]   In Hebrew chapter 2-1, for this reason,
+[00:45:39.580 --> 00:45:43.100]   we must pay much closer attention to what we have here
+[00:45:43.100 --> 00:45:45.980]   so that we do not drift away from it.
+[00:45:45.980 --> 00:45:47.660]   And I mentioned this over and over again.
+[00:45:47.660 --> 00:45:52.420]   Drifting is something that happens when you do nothing.
+[00:45:52.420 --> 00:45:54.780]   You get on a boat, say you want to drift, what do you do?
+[00:45:54.780 --> 00:45:55.820]   You don't need to paddle.
+[00:45:55.820 --> 00:45:57.940]   Just get in there and just sit.
+[00:45:57.940 --> 00:45:58.860]   Enjoy life.
+[00:45:58.860 --> 00:46:00.740]   Look at the sunset.
+[00:46:00.740 --> 00:46:01.980]   Play with the water.
+[00:46:01.980 --> 00:46:03.700]   Go fishing.
+[00:46:03.700 --> 00:46:06.380]   You just start drifting.
+[00:46:06.380 --> 00:46:09.100]   If you're not anchored, if you're not deliberately anchored
+[00:46:09.100 --> 00:46:11.380]   because you're concerned about drifting,
+[00:46:11.380 --> 00:46:13.180]   you're going to just drift.
+[00:46:13.180 --> 00:46:16.420]   And that's why he says to pay much close attention to the
+[00:46:16.420 --> 00:46:17.980]   things that you have heard.
+[00:46:17.980 --> 00:46:20.260]   I know you guys are distracted by that bird.
+[00:46:20.260 --> 00:46:21.660]   I want to read a passage for you.
+[00:46:21.660 --> 00:46:31.060]   In Psalm-- oh, I lost my--
+[00:46:31.060 --> 00:46:33.740]   OK, I'm not going to look it up now.
+[00:46:33.740 --> 00:46:36.340]   Anyway, Psalm, I think it's chapter 50,
+[00:46:36.340 --> 00:46:40.060]   where it says the birds and all the creatures are mine.
+[00:46:40.060 --> 00:46:42.820]   So that's God's creature also.
+[00:46:42.820 --> 00:46:45.380]   And he found this home, so he wanted to join us for worship.
+[00:46:45.380 --> 00:46:48.260]   So let him chirp, and we'll pretend like we're out in the
+[00:46:48.260 --> 00:46:53.260]   woods, enjoying God's creation.
+[00:46:53.260 --> 00:46:54.380]   Actually, he's been here all week.
+[00:46:54.380 --> 00:46:57.420]   He's got to be hungry.
+[00:46:57.420 --> 00:47:02.060]   Anyway, let's get back to the Word, all right?
+[00:47:02.060 --> 00:47:03.460]   I'm more distracted than you are.
+[00:47:03.460 --> 00:47:08.860]   So we do not drift away.
+[00:47:08.860 --> 00:47:12.940]   And that's the temptation that all of us are in.
+[00:47:12.940 --> 00:47:16.220]   You start out with a bang, and then every year that goes by,
+[00:47:16.220 --> 00:47:17.460]   we just slowly drift.
+[00:47:17.460 --> 00:47:20.820]   And then we wake up one day not recognizing
+[00:47:20.820 --> 00:47:22.780]   even our own selves.
+[00:47:22.780 --> 00:47:26.500]   That person I was when I was in my 20s or 30s is I'm just not
+[00:47:26.500 --> 00:47:27.940]   the same person.
+[00:47:27.940 --> 00:47:29.500]   And that didn't happen overnight.
+[00:47:29.500 --> 00:47:33.100]   It's just years and years of just neglecting and allowing
+[00:47:33.100 --> 00:47:35.140]   this thing to keep drifting.
+[00:47:35.140 --> 00:47:37.900]   And then saying, you know what, it just happens.
+[00:47:37.900 --> 00:47:38.500]   That's what happens.
+[00:47:38.500 --> 00:47:41.740]   And then so we have this attitude of, you know, yeah,
+[00:47:41.740 --> 00:47:42.300]   that happens.
+[00:47:42.300 --> 00:47:44.660]   And in college, yeah, that's where all the passion is with
+[00:47:44.660 --> 00:47:46.420]   college students or younger.
+[00:47:46.420 --> 00:47:47.900]   But nobody in their 30s does that.
+[00:47:47.900 --> 00:47:49.820]   Nobody in their 40s or 50s does that.
+[00:47:49.820 --> 00:47:53.900]   And so we kind of think that passionate pursuit of Christ is
+[00:47:53.900 --> 00:47:56.260]   something you do when you're young.
+[00:47:56.260 --> 00:47:58.900]   But when you're old, you just kind of sit through, and we
+[00:47:58.900 --> 00:48:01.180]   just make it to the end.
+[00:48:01.180 --> 00:48:03.460]   And that's what he's warning us about not drifting.
+[00:48:03.460 --> 00:48:06.700]   Hebrews 2.3 is how will we escape if we neglect so great
+[00:48:06.700 --> 00:48:08.780]   a salvation?
+[00:48:08.780 --> 00:48:10.340]   I mean, think about it.
+[00:48:10.340 --> 00:48:15.620]   Think about what we sing, what we study.
+[00:48:15.620 --> 00:48:20.940]   God who created the universe, the universe, for whatever the
+[00:48:20.940 --> 00:48:27.580]   reason, had pity on us, and sent his only begotten son in
+[00:48:27.580 --> 00:48:31.260]   order that we can have eternity with him, that we can call him
+[00:48:31.260 --> 00:48:32.140]   our Abba Father.
+[00:48:32.140 --> 00:48:34.980]   So the hope that we have in the gospel is one day when all
+[00:48:34.980 --> 00:48:38.620]   this passes, which is 100% guaranteed, Christian or
+[00:48:38.620 --> 00:48:41.620]   non-Christian, when this passes, that we will have
+[00:48:41.620 --> 00:48:44.460]   eternity with him in full glory.
+[00:48:44.460 --> 00:48:47.340]   That's the promise of the gospel.
+[00:48:47.340 --> 00:48:51.540]   And to profess that, sing about that, memorize that, read
+[00:48:51.540 --> 00:48:54.980]   about it, and then to simply neglect it.
+[00:48:54.980 --> 00:48:57.060]   Just let it be.
+[00:48:57.060 --> 00:48:59.420]   Work.
+[00:48:59.420 --> 00:49:01.700]   You're not doing crazy things.
+[00:49:01.700 --> 00:49:03.340]   You're just doing what everybody else in this world
+[00:49:03.340 --> 00:49:08.180]   does, going to work, paying your bills, raising children.
+[00:49:08.180 --> 00:49:10.940]   And then in the meanwhile, just living like the rest of
+[00:49:10.940 --> 00:49:14.260]   the world, we're just neglecting.
+[00:49:14.260 --> 00:49:16.540]   We're not passionately pursuing anymore.
+[00:49:16.540 --> 00:49:18.820]   That's something that was in the past.
+[00:49:18.820 --> 00:49:21.220]   And that's what he's addressing, not to neglect.
+[00:49:21.220 --> 00:49:24.100]   Hebrews chapter 3, 7, it says, "Today, if you hear his voice,
+[00:49:24.100 --> 00:49:26.900]   do not harden your heart, as when they provoked me, as in
+[00:49:26.900 --> 00:49:28.780]   the day of the trial in the wilderness."
+[00:49:28.780 --> 00:49:29.740]   Today.
+[00:49:29.740 --> 00:49:32.380]   In other words, it's the kindness of God that leads you
+[00:49:32.380 --> 00:49:36.180]   to salvation, leads you to repentance.
+[00:49:36.180 --> 00:49:40.900]   It's not God's knocking on the door and saying, oh, not today.
+[00:49:40.900 --> 00:49:42.660]   And then, OK, then I will knock tomorrow.
+[00:49:42.660 --> 00:49:45.900]   If not tomorrow, then the next day, I'll knock next day.
+[00:49:45.900 --> 00:49:47.940]   So no, today, it's the kindness of God.
+[00:49:47.940 --> 00:49:50.780]   If the word of God comes and convicts you, and you say, not
+[00:49:50.780 --> 00:49:55.900]   today, and most people who at least profess to believe God
+[00:49:55.900 --> 00:49:58.500]   never says no to God.
+[00:49:58.500 --> 00:50:01.380]   They just say, not now.
+[00:50:01.380 --> 00:50:03.300]   Now is not the time to get too serious.
+[00:50:03.300 --> 00:50:06.340]   Now is not the time to really devote my time, because I just
+[00:50:06.340 --> 00:50:08.220]   got a new job.
+[00:50:08.220 --> 00:50:09.860]   I just got married.
+[00:50:09.860 --> 00:50:12.300]   I just had kids.
+[00:50:12.300 --> 00:50:14.340]   I'm trying to get into this career.
+[00:50:14.340 --> 00:50:16.100]   I have all these things. Not now.
+[00:50:16.100 --> 00:50:18.300]   I will.
+[00:50:18.300 --> 00:50:21.980]   So we think that we're obeying, but he says, if you do not obey
+[00:50:21.980 --> 00:50:26.300]   today, he says, you deliberately harden your heart.
+[00:50:26.300 --> 00:50:29.220]   So the next time that maybe there's a knocking on the door,
+[00:50:29.220 --> 00:50:32.620]   you don't even hear the knocking anymore, because your hearts
+[00:50:32.620 --> 00:50:37.180]   have become so hardened, you don't feel anything anymore.
+[00:50:37.180 --> 00:50:39.220]   It's just a lot of information getting into your head, but
+[00:50:39.220 --> 00:50:42.340]   it's never enough to move you, because our hearts have become
+[00:50:42.340 --> 00:50:43.500]   hardened.
+[00:50:43.500 --> 00:50:46.940]   So when you are here, hearing the word of God week after week
+[00:50:46.940 --> 00:50:49.660]   after week, when you're participating in Bible study,
+[00:50:49.660 --> 00:50:54.820]   and you're not responding to that every week, your heart is
+[00:50:54.820 --> 00:50:57.380]   becoming harder and harder and harder.
+[00:50:57.380 --> 00:51:00.220]   And that's what he's trying to address, not to neglect our
+[00:51:00.220 --> 00:51:00.700]   salvation.
+[00:51:00.700 --> 00:51:04.660]   Hebrews chapter 13, 312, "Take care, brethren, that there not
+[00:51:04.660 --> 00:51:08.220]   be in any one of you an evil, unbelieving heart that falls
+[00:51:08.220 --> 00:51:09.700]   away from the living God."
+[00:51:09.700 --> 00:51:14.820]   I mean, that sounds pretty harsh for just being lukewarm,
+[00:51:14.820 --> 00:51:15.500]   just neglecting.
+[00:51:15.500 --> 00:51:18.580]   An evil and unbelieving heart.
+[00:51:18.580 --> 00:51:20.900]   I mean, from our perspective, it just seems like, well, that
+[00:51:20.900 --> 00:51:21.580]   just happens.
+[00:51:21.580 --> 00:51:22.020]   We just drift.
+[00:51:22.020 --> 00:51:23.740]   We need to work harder.
+[00:51:23.740 --> 00:51:26.660]   But from God's perspective, he says, it's unbelief, and it's
+[00:51:26.660 --> 00:51:28.300]   evil.
+[00:51:28.300 --> 00:51:29.940]   I mean, think of it from his perspective.
+[00:51:29.940 --> 00:51:32.380]   He gave his only begotten son.
+[00:51:32.380 --> 00:51:36.780]   What's the greatest gift that you've ever given anybody?
+[00:51:36.780 --> 00:51:40.060]   I mean, think about it, whatever that may be, if you gave that
+[00:51:40.060 --> 00:51:41.820]   to somebody, and they just kind of received it, it's like, oh,
+[00:51:41.820 --> 00:51:44.980]   thanks, and they just kind of threw it on the couch.
+[00:51:44.980 --> 00:51:46.940]   They didn't realize the gift that you've given.
+[00:51:46.940 --> 00:51:49.460]   They don't realize the sacrifice that you made so that they can
+[00:51:49.460 --> 00:51:51.940]   have that, and it's like, okay, thanks, you threw it on the
+[00:51:51.940 --> 00:51:54.100]   couch.
+[00:51:54.100 --> 00:51:58.500]   He said, it's an unbelieving, evil heart to profess this and
+[00:51:58.500 --> 00:52:02.940]   then live your life like you don't even believe it.
+[00:52:02.940 --> 00:52:07.300]   You profess it with your mouth, but by your life, it
+[00:52:07.300 --> 00:52:09.900]   demonstrates your unbelief.
+[00:52:09.900 --> 00:52:12.380]   So from God's perspective, I mean, it makes perfect sense
+[00:52:12.380 --> 00:52:14.620]   that he would say this.
+[00:52:14.620 --> 00:52:20.500]   Perseverance of the saints is one of the greatest indicators
+[00:52:20.500 --> 00:52:21.460]   of genuine faith.
+[00:52:21.460 --> 00:52:22.540]   Do we persevere?
+[00:52:22.540 --> 00:52:25.540]   You know, everybody has, again, even the three soils that are
+[00:52:25.540 --> 00:52:28.740]   mentioned, there's some response.
+[00:52:28.740 --> 00:52:30.740]   One, they hear it, and it's okay, I don't want this.
+[00:52:30.740 --> 00:52:32.860]   But the second one, they hear it, and they have immediate
+[00:52:32.860 --> 00:52:35.540]   response, but they don't persevere.
+[00:52:35.540 --> 00:52:37.820]   And the third one, they seem like they're bearing fruit, but
+[00:52:37.820 --> 00:52:41.220]   then as soon as the worries and concerns and, you know, you
+[00:52:41.220 --> 00:52:44.620]   start coveting what other people have, you know, all of a
+[00:52:44.620 --> 00:52:49.060]   sudden, those concerns start to choke it away, and then there's
+[00:52:49.060 --> 00:52:51.740]   certain parts of the Bible that you don't want to hear because
+[00:52:51.740 --> 00:52:54.700]   you've hardened your heart toward that.
+[00:52:54.700 --> 00:52:58.500]   And he says, ultimately, God will test through various
+[00:52:58.500 --> 00:53:02.900]   trials, through various stages in life, that is, Jesus is
+[00:53:02.900 --> 00:53:04.860]   really better than that.
+[00:53:04.860 --> 00:53:07.780]   You know, Hebrews chapter 6, 4 through 8, you know, a lot of
+[00:53:07.780 --> 00:53:10.820]   people read this passage and misunderstand because they read
+[00:53:10.820 --> 00:53:13.740]   it just in this context, but read what it says.
+[00:53:13.740 --> 00:53:16.580]   Hebrews chapter 4, it says, chapter 6, verse 4 through 8,
+[00:53:16.580 --> 00:53:18.980]   it says, "For in the case of those who have once been
+[00:53:18.980 --> 00:53:22.700]   enlightened and have tasted of the heavenly gift and have been
+[00:53:22.700 --> 00:53:25.540]   made partakers of the Holy Spirit and have tasted the good
+[00:53:25.540 --> 00:53:27.780]   word of God and the powers of the age to come."
+[00:53:27.780 --> 00:53:30.340]   I mean, a lot of people read this passage and say, "Well,
+[00:53:30.340 --> 00:53:33.700]   this must be a Christian who loses his salvation," because it
+[00:53:33.700 --> 00:53:35.900]   sounds like a Christian.
+[00:53:35.900 --> 00:53:37.580]   Let me make this very clear.
+[00:53:37.580 --> 00:53:41.780]   A genuine Christian can never lose his salvation, okay?
+[00:53:41.780 --> 00:53:45.620]   The reason why, first of all, because you didn't earn it, so
+[00:53:45.620 --> 00:53:47.060]   you can't lose it.
+[00:53:47.060 --> 00:53:49.660]   God gave it to us sovereignly, okay?
+[00:53:49.660 --> 00:53:51.540]   Then what does he mean here if that's the case?
+[00:53:51.540 --> 00:53:52.820]   Look at verse 6.
+[00:53:52.820 --> 00:53:54.940]   "And then have fallen away.
+[00:53:54.940 --> 00:53:58.100]   It is impossible to renew them again to repentance since they
+[00:53:58.100 --> 00:54:00.820]   again crucified to themselves the Son of God and put him to
+[00:54:00.820 --> 00:54:02.900]   open shame," right?
+[00:54:02.900 --> 00:54:04.100]   What does it mean?
+[00:54:04.100 --> 00:54:07.300]   Does this mean if he's referring to a Christian who loses his
+[00:54:07.300 --> 00:54:13.060]   salvation, does this mean that God gives you one chance and you
+[00:54:13.060 --> 00:54:14.700]   had that chance?
+[00:54:14.700 --> 00:54:18.180]   And because you've fallen away, that God will not accept your
+[00:54:18.180 --> 00:54:18.740]   repentance?
+[00:54:18.740 --> 00:54:19.900]   Is that what this passage means?
+[00:54:19.900 --> 00:54:23.140]   If this means a Christian loses his salvation, once you backslide,
+[00:54:23.140 --> 00:54:24.580]   you're done.
+[00:54:24.580 --> 00:54:27.980]   Clearly, that's not what this means.
+[00:54:27.980 --> 00:54:30.940]   The clear explanation is in verse 7.
+[00:54:30.940 --> 00:54:33.700]   "For the ground that drinks the rain, which often falls on it
+[00:54:33.700 --> 00:54:37.860]   and brings forth vegetation useful to those for whose sake
+[00:54:37.860 --> 00:54:40.980]   it is also tilled, receives a blessing from God.
+[00:54:40.980 --> 00:54:44.380]   But if it yields thorns and thistles, it is worthless and
+[00:54:44.380 --> 00:54:47.820]   close to being cursed, and it ends up being burned."
+[00:54:47.820 --> 00:54:51.980]   So what he's referring to are people who are in the church,
+[00:54:51.980 --> 00:54:55.580]   have benefited from the Word, where the Holy Spirit is working
+[00:54:55.580 --> 00:54:56.940]   within the church.
+[00:54:56.940 --> 00:54:57.780]   He has the Word.
+[00:54:57.780 --> 00:55:00.620]   So in every way, he's been exposed to everything that a
+[00:55:00.620 --> 00:55:06.900]   genuine believer needs to be saved, and yet he bears no fruit.
+[00:55:06.900 --> 00:55:10.980]   He's an individual who willfully rejects the things of God,
+[00:55:10.980 --> 00:55:12.180]   willfully.
+[00:55:12.180 --> 00:55:14.900]   So he's not talking about somebody who wants to follow
+[00:55:14.900 --> 00:55:17.780]   Christ and he didn't do well and he backs it for a period that he
+[00:55:17.780 --> 00:55:19.300]   can't repent.
+[00:55:19.300 --> 00:55:22.900]   Clearly, that contradicts everything that we know in the Bible.
+[00:55:22.900 --> 00:55:25.580]   What he's referring to are individuals who are in the church,
+[00:55:25.580 --> 00:55:30.660]   the third soil people who've been in the church, who are going
+[00:55:30.660 --> 00:55:37.220]   through the motion, have the form of godliness, but there's no power.
+[00:55:37.220 --> 00:55:39.300]   Who have received every blessing that you could.
+[00:55:39.300 --> 00:55:43.540]   You're around Christians, you're around the Word of God,
+[00:55:43.540 --> 00:55:48.860]   you're around missions, fellowship, and then you choose to pursue
+[00:55:48.860 --> 00:55:50.100]   after the Word.
+[00:55:50.100 --> 00:55:53.500]   There's no other repentance because the only way of repentance is Christ,
+[00:55:53.500 --> 00:55:55.980]   and so by your action, you reject Christ.
+[00:55:55.980 --> 00:55:57.900]   You receive Christ with your mouth, but by your life,
+[00:55:57.900 --> 00:55:59.500]   you pursue the World.
+[00:55:59.500 --> 00:56:01.100]   That's what he means by that.
+[00:56:01.100 --> 00:56:06.260]   And that's why he spends the whole book of Hebrews reminding them that Jesus is
+[00:56:06.260 --> 00:56:09.620]   better than everything that you're tempted by.
+[00:56:09.620 --> 00:56:11.980]   And so that's the question that we need to be asking ourselves,
+[00:56:11.980 --> 00:56:15.020]   "Is Jesus really better?"
+[00:56:15.020 --> 00:56:18.740]   Because you couldn't love the church without loving Jesus.
+[00:56:18.740 --> 00:56:20.820]   You couldn't love other Christians without loving Jesus.
+[00:56:20.820 --> 00:56:23.380]   You couldn't love the leadership without loving Jesus.
+[00:56:23.380 --> 00:56:27.940]   You can do missions without loving Jesus.
+[00:56:27.940 --> 00:56:31.500]   You can become a pastor without loving Jesus.
+[00:56:31.500 --> 00:56:37.700]   As crazy as that sounds, you can be a missionary without loving Jesus.
+[00:56:37.700 --> 00:56:44.900]   He says, "The remedy for a Christian adulterous life is to have the best
+[00:56:44.900 --> 00:56:47.380]   marriage that he can have."
+[00:56:47.380 --> 00:56:51.820]   You know, what prevents me, right, and I think every single one of us is
+[00:56:51.820 --> 00:56:56.300]   capable of adultery because we're all tempted.
+[00:56:56.300 --> 00:57:02.260]   But what prevents us, what was the greatest guarantee that prevents someone
+[00:57:02.260 --> 00:57:07.580]   from adultery is to have the best marriage that he can have, to love your wife,
+[00:57:07.580 --> 00:57:13.620]   to love your husband, so that everything else, everybody else looks like rubbish,
+[00:57:13.620 --> 00:57:17.140]   right, at least on the surface, right?
+[00:57:17.140 --> 00:57:19.820]   And I don't think this is any secret.
+[00:57:19.820 --> 00:57:23.820]   I think the best decision I've ever made in my life outside of following Christ is
+[00:57:23.820 --> 00:57:26.220]   marrying Esther, right?
+[00:57:26.220 --> 00:57:28.180]   I mean, it wasn't like perfect from the beginning.
+[00:57:28.180 --> 00:57:32.460]   I mean, God allowed us to go through this stuff and we were able to be where we're
+[00:57:32.460 --> 00:57:35.300]   at now, you know.
+[00:57:35.300 --> 00:57:37.740]   But I don't get tempted with that.
+[00:57:37.740 --> 00:57:39.460]   Again, I'm...
+[00:57:39.460 --> 00:57:42.740]   You know, you're supposed to knock on wood on this, right?
+[00:57:42.740 --> 00:57:47.100]   Because I can't imagine anybody better than her, right?
+[00:57:47.100 --> 00:57:48.540]   I can't imagine that.
+[00:57:48.540 --> 00:57:53.500]   So why would I forsake that, what I have, the gift that God has given me
+[00:57:53.500 --> 00:57:59.140]   through my wife, to play around because of the temporary temptation?
+[00:57:59.140 --> 00:58:01.260]   And that's why he's going back.
+[00:58:01.260 --> 00:58:06.220]   He said, "Maybe you've forgotten what you have in Christ.
+[00:58:06.220 --> 00:58:09.380]   Maybe you've forgotten your first love.
+[00:58:09.380 --> 00:58:13.220]   You've forgotten what it was like when you first met Christ.
+[00:58:13.220 --> 00:58:14.780]   You forgot who he is."
+[00:58:14.780 --> 00:58:18.780]   And that's why he spends the whole letter going over Jesus.
+[00:58:18.780 --> 00:58:23.100]   It's not simply to, "I want to make sure that you understand all Christology,
+[00:58:23.100 --> 00:58:27.380]   that if somebody asks you about the New Covenant and somebody asks you about the,
+[00:58:27.380 --> 00:58:30.780]   you know, Melchizedek, that you can say, 'I can answer these questions.'"
+[00:58:30.780 --> 00:58:35.940]   No, every part of what he's been saying is to remind them of the preciousness
+[00:58:35.940 --> 00:58:38.020]   of Christ.
+[00:58:38.020 --> 00:58:42.460]   So that whatever it is tempting them out of that is that, "Do you really think
+[00:58:42.460 --> 00:58:44.460]   that the angels are better than Jesus?"
+[00:58:44.460 --> 00:58:45.620]   Jesus is the creator.
+[00:58:45.620 --> 00:58:47.460]   Angels are just created.
+[00:58:47.460 --> 00:58:50.980]   "Do you really think that Moses is better?
+[00:58:50.980 --> 00:58:52.500]   Moses was a servant.
+[00:58:52.500 --> 00:58:55.100]   Jesus is the Son of God.
+[00:58:55.100 --> 00:59:00.900]   You're tempted because you think that somehow that if you purchased land and had
+[00:59:00.900 --> 00:59:03.860]   a nice house and you have enough money in the bank account that that's where you're
+[00:59:03.860 --> 00:59:05.180]   going to find rest?"
+[00:59:05.180 --> 00:59:12.100]   Jesus is the true rest, the labor to find rest in Christ.
+[00:59:12.100 --> 00:59:16.780]   You're drifting back to your old system under Aaron?
+[00:59:16.780 --> 00:59:18.180]   Christ is the fulfillment of all.
+[00:59:18.180 --> 00:59:23.980]   The only reason why God even put up with Aaron is because Aaron served the purpose
+[00:59:23.980 --> 00:59:27.820]   of pointing to Christ.
+[00:59:27.820 --> 00:59:30.340]   I mean, if it was up to...
+[00:59:30.340 --> 00:59:34.420]   Aaron should not have lived, if you know anything about Aaron.
+[00:59:34.420 --> 00:59:37.060]   Aaron should have been wiped out a long time ago.
+[00:59:37.060 --> 00:59:41.340]   Only reason God even put up with Aaron is because he was being used to prepare for
+[00:59:41.340 --> 00:59:43.500]   the coming of Christ.
+[00:59:43.500 --> 00:59:47.140]   And you're tempted to go back to that system?
+[00:59:47.140 --> 00:59:53.860]   See, only reason why genuine believers get tempted into this world is because we've
+[00:59:53.860 --> 00:59:56.740]   taken our eyes off of Christ.
+[00:59:56.740 --> 00:59:59.620]   We've forgotten our first love.
+[00:59:59.620 --> 01:00:01.900]   Do you remember when you first met Christ?
+[01:00:01.900 --> 01:00:07.340]   I know some of you, your salvation wasn't like, "Wow, my eyes are open and I love
+[01:00:07.340 --> 01:00:08.340]   Jesus."
+[01:00:08.340 --> 01:00:10.340]   Some of you, it's gradual.
+[01:00:10.340 --> 01:00:15.660]   Whether you got bonked over the head or whether it had gradual understanding, you know early
+[01:00:15.660 --> 01:00:19.620]   on what your Christian life was like.
+[01:00:19.620 --> 01:00:24.260]   Nobody grabbed you by the throat and forced you to come to church.
+[01:00:24.260 --> 01:00:27.740]   When young Christians come to church, I always love the questions that they ask.
+[01:00:27.740 --> 01:00:30.620]   "Am I allowed to sit up in the front?
+[01:00:30.620 --> 01:00:33.700]   Can I come to Bible study?"
+[01:00:33.700 --> 01:00:38.180]   Because they're just so excited about their faith because they met Christ and it changed
+[01:00:38.180 --> 01:00:39.180]   everything.
+[01:00:39.180 --> 01:00:43.020]   And then you talk to Christians who've been walking for 30, 40, 50 years like, "Is
+[01:00:43.020 --> 01:00:44.020]   that mandatory?
+[01:00:44.020 --> 01:00:47.060]   Do I have to do that?
+[01:00:47.060 --> 01:00:50.320]   What happens if I don't?"
+[01:00:50.320 --> 01:00:56.180]   The difference between the first and the latter is their affection for Christ.
+[01:00:56.180 --> 01:01:01.180]   It's because their first love is still there.
+[01:01:01.180 --> 01:01:03.980]   And so everything becomes a privilege.
+[01:01:03.980 --> 01:01:06.020]   Your worship is just something that happens.
+[01:01:06.020 --> 01:01:10.780]   It's not something that you do because you came on Sunday.
+[01:01:10.780 --> 01:01:13.660]   Everything hinges upon Christ.
+[01:01:13.660 --> 01:01:19.380]   When we recognize the beauty of Christ, the love of Christ, the gentle beckoning of Christ,
+[01:01:19.380 --> 01:01:26.300]   the enduring patience of Christ, the sustaining power of Christ, the immutable nature of Christ,
+[01:01:26.300 --> 01:01:30.300]   how can you not but to fall in love?
+[01:01:30.300 --> 01:01:37.620]   Because just like Paul says, in view of the surpassing knowledge of knowing Jesus Christ,
+[01:01:37.620 --> 01:01:40.740]   everything became rubbish.
+[01:01:40.740 --> 01:01:47.020]   Our struggle is we're trying to make the world be rubbish without Christ.
+[01:01:47.020 --> 01:01:50.300]   It's just not going to happen.
+[01:01:50.300 --> 01:01:57.020]   Because Satan is beautiful.
+[01:01:57.020 --> 01:02:00.460]   Satan is not described as ugly in the Bible.
+[01:02:00.460 --> 01:02:02.340]   He's an angel, just a fallen angel.
+[01:02:02.340 --> 01:02:09.340]   The only difference between a devil and an angel is his moral nature.
+[01:02:09.340 --> 01:02:14.500]   The external beauty, usually when we picture an angel from God, is beautiful with white
+[01:02:14.500 --> 01:02:20.900]   wings, attractive, you know, glow, and then a demon is hunched over with fangs.
+[01:02:20.900 --> 01:02:24.380]   That's not how the Bible describes him.
+[01:02:24.380 --> 01:02:28.500]   The angel in his outer beauty is beautiful.
+[01:02:28.500 --> 01:02:32.420]   So the angel in his temptation is also beautiful.
+[01:02:32.420 --> 01:02:39.900]   Only in comparison to Christ, it becomes rubbish.
+[01:02:39.900 --> 01:02:46.340]   So the moment we take our eyes off of Christ and our affection is not in Christ, then of
+[01:02:46.340 --> 01:02:50.660]   course you're going to give in to temptation.
+[01:02:50.660 --> 01:02:53.660]   Who doesn't want to live comfortably?
+[01:02:53.660 --> 01:02:58.260]   When you get on an airplane and they offer you the first class seat, do you say, "No,
+[01:02:58.260 --> 01:03:00.020]   no, no, give it to the next person."
+[01:03:00.020 --> 01:03:02.020]   Is that you?
+[01:03:02.020 --> 01:03:03.020]   Weirdo.
+[01:03:03.020 --> 01:03:06.300]   Of course we want to be comfortable.
+[01:03:06.300 --> 01:03:07.380]   You want to eat nice stuff.
+[01:03:07.380 --> 01:03:10.260]   You want to have nice things.
+[01:03:10.260 --> 01:03:12.540]   By our nature we want that.
+[01:03:12.540 --> 01:03:16.460]   And there's not necessarily like, "Oh, if you want to be a good Christian, you always
+[01:03:16.460 --> 01:03:19.260]   have to take the bad seat and live hard."
+[01:03:19.260 --> 01:03:20.820]   I'm not saying that either.
+[01:03:20.820 --> 01:03:27.140]   But when that becomes our primary pursuit, and you're willing to sacrifice an active,
+[01:03:27.140 --> 01:03:32.820]   passionate pursuit of Christ in order to have that, then that has become your idol.
+[01:03:32.820 --> 01:03:37.660]   You're taking your eyes off of Christ because you think somehow there's rest there.
+[01:03:37.660 --> 01:03:41.300]   You think somehow there's more life there.
+[01:03:41.300 --> 01:03:45.700]   When every time you come to church you profess it is not.
+[01:03:45.700 --> 01:03:52.420]   Whatever you are willing to compromise to have, that's your idol.
+[01:03:52.420 --> 01:03:54.180]   That's your idol.
+[01:03:54.180 --> 01:03:55.700]   That's your pursuit.
+[01:03:55.700 --> 01:03:56.700]   That's your passion.
+[01:03:56.700 --> 01:03:58.380]   It doesn't matter what you say.
+[01:03:58.380 --> 01:04:00.500]   It doesn't matter what you profess.
+[01:04:00.500 --> 01:04:05.500]   Because our actions always say more than what we say.
+[01:04:05.500 --> 01:04:10.020]   That's why he says, "Knowing the surpassing knowledge of knowing Christ, that He's more
+[01:04:10.020 --> 01:04:13.940]   beautiful than anything that we can be tempted by by this world."
+[01:04:13.940 --> 01:04:20.660]   He says, "Let us," chapter 4, verse 1, "Therefore let us fear while a promise remains of entering
+[01:04:20.660 --> 01:04:21.660]   His rest."
+[01:04:21.660 --> 01:04:28.140]   You know, fear typically we think it's negative, but fear is not always negative.
+[01:04:28.140 --> 01:04:32.180]   Fear prevents us from walking into danger.
+[01:04:32.180 --> 01:04:36.120]   If you see a dark alley and you know there's drug activity going on with gang violence,
+[01:04:36.120 --> 01:04:37.120]   you don't walk in there.
+[01:04:37.120 --> 01:04:38.120]   It's like, "I have no fear."
+[01:04:38.120 --> 01:04:39.120]   No, that's dumb.
+[01:04:39.120 --> 01:04:42.380]   You know what I mean?
+[01:04:42.380 --> 01:04:48.980]   You don't buy a house near biohazardous thing in the ground because you're afraid that that's
+[01:04:48.980 --> 01:04:50.020]   going to somehow harm you.
+[01:04:50.020 --> 01:04:54.860]   So fear is good because it causes you to take things seriously.
+[01:04:54.860 --> 01:04:56.740]   There's weightiness.
+[01:04:56.740 --> 01:05:02.360]   So when it comes to the things of God, and we are nonchalant about it, we're very fearful
+[01:05:02.360 --> 01:05:04.580]   that we're not going to be able to pay our bills.
+[01:05:04.580 --> 01:05:08.820]   We're very fearful, "But if I do things, my friends are going to reject us."
+[01:05:08.820 --> 01:05:11.740]   We're very fearful, "But if we don't save up enough, that we're not going to have enough
+[01:05:11.740 --> 01:05:12.820]   money for retirement."
+[01:05:12.820 --> 01:05:19.580]   So because of this fear, it causes us to change our behavior, our values.
+[01:05:19.580 --> 01:05:26.020]   But of all the things, all the good fears, the greatest and the most beneficial fear
+[01:05:26.020 --> 01:05:32.500]   is to fear the Lord and see the weightiness of what it is that we are dealing with.
+[01:05:32.500 --> 01:05:34.340]   You're not just hearing empty words.
+[01:05:34.340 --> 01:05:38.260]   I'm not just giving you philosophy where you can take it or leave it.
+[01:05:38.260 --> 01:05:44.060]   This is the Word of God that is warning us, encouraging us, and challenging us.
+[01:05:44.060 --> 01:05:47.260]   So he says, "Let us fear while a promise remains."
+[01:05:47.260 --> 01:05:52.580]   Verse 11, "Therefore, let us be diligent to enter that rest."
+[01:05:52.580 --> 01:05:53.580]   Let us be diligent.
+[01:05:53.580 --> 01:05:55.580]   Be active.
+[01:05:55.580 --> 01:05:57.940]   Apply the things that we learn.
+[01:05:57.940 --> 01:06:03.660]   You know, in the sports arena, there's usually, let's say you're playing basketball, there's
+[01:06:03.660 --> 01:06:08.700]   usually about 20 experts in that stadium, 20.
+[01:06:08.700 --> 01:06:11.660]   They're experts because they're playing.
+[01:06:11.660 --> 01:06:15.180]   They're sweating, they're getting cut, they're getting injured, and they're fighting with
+[01:06:15.180 --> 01:06:17.940]   every ounce of energy they have.
+[01:06:17.940 --> 01:06:19.140]   Even as they're injured, they go back.
+[01:06:19.140 --> 01:06:24.420]   Or the coaches who are maneuvering every knowledge that they've had in basketball in order to
+[01:06:24.420 --> 01:06:25.980]   win this competition.
+[01:06:25.980 --> 01:06:33.460]   And then we have about 40,000 experts from analysis.
+[01:06:33.460 --> 01:06:37.020]   They're experts because they've watched a lot of basketball.
+[01:06:37.020 --> 01:06:41.900]   They watch so much basketball that every decision that the coaches make is like, "Ah, it's so
+[01:06:41.900 --> 01:06:42.900]   dumb.
+[01:06:42.900 --> 01:06:43.900]   Shouldn't do that.
+[01:06:43.900 --> 01:06:46.140]   LeBron shouldn't dunk with his right hand.
+[01:06:46.140 --> 01:06:48.700]   He should be dunking with his left hand.
+[01:06:48.700 --> 01:06:51.220]   You shouldn't be taking shots from out there."
+[01:06:51.220 --> 01:06:57.620]   And so we have 40,000 people who are experts from analysis.
+[01:06:57.620 --> 01:07:05.940]   We shouldn't be experts of the gospel because we read, because we exposited a text.
+[01:07:05.940 --> 01:07:11.420]   We should become experts of the gospel because we labored and strived to share the gospel,
+[01:07:11.420 --> 01:07:17.380]   because we were on our knees begging for their souls with the cuts and bruises that come
+[01:07:17.380 --> 01:07:22.340]   along in the context of doing ministry.
+[01:07:22.340 --> 01:07:26.500]   If we're not careful, we can be a church filled with people who become experts in all these
+[01:07:26.500 --> 01:07:31.760]   fields from analysis because we read someone else's testimony.
+[01:07:31.760 --> 01:07:38.300]   We read what someone else did, but it's not from personal experience.
+[01:07:38.300 --> 01:07:43.700]   We're all armchair experts if we're not careful.
+[01:07:43.700 --> 01:07:51.180]   If Christ truly is what we profess that he is, he says, "Let us be diligent to enter
+[01:07:51.180 --> 01:07:52.180]   that rest."
+[01:07:52.980 --> 01:07:56.460]   Verse 14, chapter 4, "Therefore, since we have a great high priest who has passed through
+[01:07:56.460 --> 01:08:00.380]   the heavens, Jesus, Son of God, let us hold fast our confession."
+[01:08:00.380 --> 01:08:01.780]   Hold fast.
+[01:08:01.780 --> 01:08:05.100]   To proactively hold on.
+[01:08:05.100 --> 01:08:09.540]   Apostle Paul, I think, explains it the best in Philippians 3, 12 through 15.
+[01:08:09.540 --> 01:08:14.580]   This is an apostle who probably preached the gospel to more people and has suffered more
+[01:08:14.580 --> 01:08:17.980]   than any other person at this time.
+[01:08:17.980 --> 01:08:23.540]   Sitting in prison, possibly awaiting his death, and this is what he says, "Not that
+[01:08:23.540 --> 01:08:28.060]   I've already obtained it or have already become perfect, but I press on so that I may lay
+[01:08:28.060 --> 01:08:32.340]   hold of that for which also I was laid hold of by Christ Jesus."
+[01:08:32.340 --> 01:08:33.540]   I press on.
+[01:08:33.540 --> 01:08:36.940]   Sitting in prison, you think there's an opportunity.
+[01:08:36.940 --> 01:08:38.020]   It's like I'm relaxing.
+[01:08:38.020 --> 01:08:40.500]   I'm taking it easy because I'm in prison.
+[01:08:40.500 --> 01:08:42.980]   But he says, "I press on."
+[01:08:42.980 --> 01:08:46.900]   Verse 13, "Brethren, I do not regard myself as having laid hold of it yet, but one thing
+[01:08:46.900 --> 01:08:51.660]   I do, forgetting what lies behind and reaching forward to what lies ahead, I press on toward
+[01:08:51.660 --> 01:08:54.380]   the goal for the prize of the upward call of God in Christ Jesus."
+[01:08:54.380 --> 01:08:58.980]   He's sitting in prison and he's writing this letter because he's concerned about the Christians
+[01:08:58.980 --> 01:09:01.280]   who are outside the church.
+[01:09:01.280 --> 01:09:04.920]   If you've never studied the book of Philippians, you would never know that this is a man sitting
+[01:09:04.920 --> 01:09:07.500]   in prison.
+[01:09:07.500 --> 01:09:12.980]   Because when you think of Philippians, you think of rejoice always.
+[01:09:12.980 --> 01:09:15.300]   It's an epistle where he's rejoicing.
+[01:09:15.300 --> 01:09:16.540]   He's thankful.
+[01:09:16.540 --> 01:09:17.540]   He's praying constantly.
+[01:09:17.540 --> 01:09:21.660]   But he's sitting in prison, possibly awaiting his death writing this letter.
+[01:09:21.660 --> 01:09:23.500]   And he says, "I have not laid hold of it yet.
+[01:09:23.500 --> 01:09:24.500]   I press on.
+[01:09:24.500 --> 01:09:28.580]   I strain."
+[01:09:28.580 --> 01:09:34.300]   Which is, again, one of the temptations when we get older is we think that passion and
+[01:09:34.300 --> 01:09:36.380]   diligent pursuit is for the youth.
+[01:09:36.380 --> 01:09:38.300]   Yeah, yeah, 20s.
+[01:09:38.300 --> 01:09:43.300]   And we always get excited when young people come to faith.
+[01:09:43.300 --> 01:09:44.980]   It's like, "Yeah, yeah, they're so excited."
+[01:09:44.980 --> 01:09:45.980]   That's what happens in your 20s.
+[01:09:45.980 --> 01:09:46.980]   Yeah, of course.
+[01:09:46.980 --> 01:09:55.420]   When's the last time you met somebody in their 60s, passionate for their faith?
+[01:09:55.420 --> 01:10:00.140]   Because we have a tendency to kind of take the back seat as we get older, as if we've
+[01:10:00.140 --> 01:10:01.140]   already retired.
+[01:10:01.140 --> 01:10:05.060]   We haven't retired at work yet, but we've retired spiritually.
+[01:10:05.060 --> 01:10:07.980]   We just kind of let the young guys do the work.
+[01:10:07.980 --> 01:10:13.540]   You know what's interesting is I hear that kind of sentiment earlier and earlier.
+[01:10:13.540 --> 01:10:17.460]   I hear that from sometimes, like, I don't know why, it's getting early.
+[01:10:17.460 --> 01:10:20.740]   I hear 25-year-olds saying, "Oh, man, my back."
+[01:10:20.740 --> 01:10:28.140]   And they look at the 19-year-olds, "When I was your age."
+[01:10:28.140 --> 01:10:32.340]   And then you know there's going to be a 30-year-old that's like, "Oh, you young punk.
+[01:10:32.340 --> 01:10:35.380]   25, wait till you get 30.
+[01:10:35.380 --> 01:10:38.500]   When you're 30, it's over."
+[01:10:38.500 --> 01:10:45.460]   And you know there's going to be a guy in his late 30s, like, "What, at 30, you infant?
+[01:10:45.460 --> 01:10:48.180]   You think you're old?"
+[01:10:48.180 --> 01:10:52.740]   Then 40-years-old is going to step in, it's like, "30?
+[01:10:52.740 --> 01:10:58.620]   You wait till you get 40, you can't see anymore."
+[01:10:58.620 --> 01:11:03.060]   And for whatever the reason, we hit that retirement early.
+[01:11:03.060 --> 01:11:07.520]   And we think this passionate pursuit of Christ is something that you do when you're young,
+[01:11:07.520 --> 01:11:15.820]   and then you just kind of retire at 25, 30, 40, 50, 60.
+[01:11:15.820 --> 01:11:21.140]   You know, I have all my roommates back in college, they're all 10, 11 years older than
+[01:11:21.140 --> 01:11:24.020]   me, so they're in their mid-60s now.
+[01:11:24.020 --> 01:11:29.180]   And so last time I went to have lunch with them, you know, they're missionaries in different
+[01:11:29.180 --> 01:11:33.820]   countries and pastors, and you know, and I sit down and I'm very curious because they're
+[01:11:33.820 --> 01:11:36.580]   hitting their mid-60s, like, "What's your plan?
+[01:11:36.580 --> 01:11:37.580]   What are you going to do?
+[01:11:37.580 --> 01:11:38.740]   Are you going to retire?"
+[01:11:38.740 --> 01:11:40.640]   Thinking that I'm going to get some pointers, like, "What's coming?
+[01:11:40.640 --> 01:11:42.740]   What's the next stage of my life?"
+[01:11:42.740 --> 01:11:48.140]   And every single one of them, it's like, they have plans for their 70s.
+[01:11:48.140 --> 01:11:51.820]   So I just shut my mouth.
+[01:11:51.820 --> 01:11:55.220]   I couldn't even ask, right?
+[01:11:55.220 --> 01:11:56.220]   They have plans.
+[01:11:56.220 --> 01:11:57.220]   "What, 70s?
+[01:11:57.220 --> 01:11:59.460]   You have plans for your 70s?"
+[01:11:59.460 --> 01:12:02.940]   If it was labor, if it was just work, yeah, I mean, you've done it, if you have enough
+[01:12:02.940 --> 01:12:06.180]   retirement saved, and that's it.
+[01:12:06.180 --> 01:12:09.860]   But when is retirement spiritually?
+[01:12:09.860 --> 01:12:12.540]   When is the retirement age spiritually?
+[01:12:12.540 --> 01:12:16.660]   There shouldn't be any.
+[01:12:16.660 --> 01:12:23.900]   Because the seriousness of what He has called us to does not end at 30 or 50 or 80 until
+[01:12:23.900 --> 01:12:28.060]   He comes or we go to Him.
+[01:12:28.060 --> 01:12:33.340]   He says, "Let us diligently hold fast," and then verse 16, "Let us draw near with the
+[01:12:33.340 --> 01:12:37.860]   confidence to the throne of grace, so that we may receive mercy and find grace to help
+[01:12:37.860 --> 01:12:41.580]   in time of need."
+[01:12:41.580 --> 01:12:45.300]   Let us draw near to the throne of grace.
+[01:12:45.300 --> 01:12:50.980]   You know, I'm very encouraged that so many of our families are trying to adopt, who've
+[01:12:50.980 --> 01:12:56.100]   already adopted and adopting, in the process of adopting, and even the embryo adoption
+[01:12:56.100 --> 01:13:00.140]   is happening now, so we're encouraged to see that.
+[01:13:00.140 --> 01:13:06.060]   But what if you adopted a child and that child is living in your home, benefiting from everything
+[01:13:06.060 --> 01:13:12.180]   that you've done, but they always keep you at an arm's length?
+[01:13:12.180 --> 01:13:15.220]   They will only hold your hand if you grab their hand, but they never come and sit on
+[01:13:15.220 --> 01:13:16.940]   your lap.
+[01:13:16.940 --> 01:13:18.940]   They always kind of see you at a distance.
+[01:13:18.940 --> 01:13:23.540]   Now, you're all, your biological children are jumping on you, but that child is always
+[01:13:23.540 --> 01:13:29.440]   sitting in the back just watching them, you know, because I'm adopted.
+[01:13:29.440 --> 01:13:32.180]   How would you feel as a parent?
+[01:13:32.180 --> 01:13:38.220]   You know, when we're told in the Bible, "Let us draw near to the throne of grace," this
+[01:13:38.220 --> 01:13:40.220]   is not just a legal presentation.
+[01:13:40.220 --> 01:13:42.100]   Now the barrier is gone.
+[01:13:42.100 --> 01:13:44.300]   Now you're able to come.
+[01:13:44.300 --> 01:13:46.460]   There's reason why he adopted us as his children.
+[01:13:46.460 --> 01:13:51.620]   He didn't just say, "I forgive you, and you're no longer going to be judged," and then he
+[01:13:51.620 --> 01:13:54.760]   remains the king, which he is.
+[01:13:54.760 --> 01:14:05.140]   There's a reason why he says, "Abba, Father, Daddy," because he has adopted us.
+[01:14:05.140 --> 01:14:10.300]   Just like if you were to adopt a child, you want that child to embrace you and love you
+[01:14:10.300 --> 01:14:14.300]   and to see you as their dad or their mom.
+[01:14:14.300 --> 01:14:19.940]   So this invitation to draw near to him is our Abba, Father, telling his children to
+[01:14:19.940 --> 01:14:22.300]   come.
+[01:14:22.300 --> 01:14:27.600]   That's why I sent my only son, so you can also be co-heirs with Christ.
+[01:14:27.600 --> 01:14:29.840]   You're not a second citizen in the kingdom of God.
+[01:14:29.840 --> 01:14:31.960]   You're my child.
+[01:14:31.960 --> 01:14:37.680]   So when he invites us to come into the throne of grace, it is not a legal invitation that
+[01:14:37.680 --> 01:14:41.080]   you have now the ticket to enter.
+[01:14:41.080 --> 01:14:47.040]   It's a loving father who wants to commune with his son, with his daughter.
+[01:14:47.040 --> 01:14:49.760]   Come to the throne of grace with confidence.
+[01:14:49.760 --> 01:14:52.160]   If you need help, come.
+[01:14:52.160 --> 01:14:53.160]   Come.
+[01:14:53.160 --> 01:14:56.440]   I'll give you help, because you're my child.
+[01:14:56.440 --> 01:15:03.600]   Let us draw near to the throne of grace with confidence.
+[01:15:03.600 --> 01:15:07.000]   Chapter 6, verse 1, "Therefore, leaving the elementary teaching about Christ, let us press
+[01:15:07.000 --> 01:15:09.200]   on to maturity."
+[01:15:09.200 --> 01:15:12.200]   We have not come to full maturity yet.
+[01:15:12.200 --> 01:15:16.720]   Philippians 1, 6, "He who began a good work anew will carry it on to completion, unto
+[01:15:16.720 --> 01:15:18.740]   the day of Christ.
+[01:15:18.740 --> 01:15:25.240]   Our pursuit of him to maturity does not end at 30, 50, 80, until the day of Christ."
+[01:15:25.240 --> 01:15:29.940]   Chapter 10, 24, "And let us consider how to stimulate one another to love and good
+[01:15:29.940 --> 01:15:30.940]   deeds."
+[01:15:30.940 --> 01:15:37.100]   To as I am pursuing Christ, help other people as well.
+[01:15:37.100 --> 01:15:38.100]   Tell other people.
+[01:15:38.100 --> 01:15:39.100]   Encourage them.
+[01:15:39.100 --> 01:15:40.100]   Stimulate.
+[01:15:40.100 --> 01:15:43.020]   12, 1, "Therefore, since we have so great a cloud of witnesses surrounding us, let us
+[01:15:43.020 --> 01:15:47.900]   also lay aside every encumbrance and the sin which so easily entangles."
+[01:15:47.900 --> 01:15:50.460]   What's hindering us?
+[01:15:50.460 --> 01:15:58.900]   What has captivated your heart that is preventing you from running this race passionately?
+[01:15:58.900 --> 01:16:04.860]   What anxiousness, what fear, what concern is causing you to run this race with hindrance?
+[01:16:04.860 --> 01:16:10.820]   12, 1, "Let us run with endurance the race that is set before us, this marathon."
+[01:16:10.820 --> 01:16:16.460]   You know, whenever you see a marathon, the largest number of people is in the beginning,
+[01:16:16.460 --> 01:16:17.740]   right?
+[01:16:17.740 --> 01:16:19.900]   And sometimes they come in groups.
+[01:16:19.900 --> 01:16:21.900]   Maybe some of you have done that.
+[01:16:21.900 --> 01:16:23.980]   You get together with a bunch of your friends, and say, "Yeah, we're going to run this
+[01:16:23.980 --> 01:16:24.980]   race."
+[01:16:24.980 --> 01:16:28.180]   By the time they're halfway through, they're not together, right?
+[01:16:28.180 --> 01:16:31.980]   By the halfway through, some of them are going to quit, have already quit.
+[01:16:31.980 --> 01:16:36.460]   And then you could see who's going to quit by the time they're halfway through.
+[01:16:36.460 --> 01:16:42.580]   And by the time they're at the end of the race, nobody comes in holding hands.
+[01:16:42.580 --> 01:16:45.060]   They come in one by one.
+[01:16:45.060 --> 01:16:46.600]   Some of them already dropped out.
+[01:16:46.600 --> 01:16:47.600]   Some of them are fatigued.
+[01:16:47.600 --> 01:16:49.940]   Some of them are way behind.
+[01:16:49.940 --> 01:16:53.580]   But the crowd is always largest in the beginning.
+[01:16:53.580 --> 01:16:59.220]   And the finish line always comes one by one.
+[01:16:59.220 --> 01:17:02.500]   We should not be satisfied that we started the race.
+[01:17:02.500 --> 01:17:05.820]   Paul says, "Run to win."
+[01:17:05.820 --> 01:17:08.460]   To finish this race.
+[01:17:08.460 --> 01:17:12.260]   To make sure that we commit and we get to the end.
+[01:17:12.260 --> 01:17:15.780]   Not just be satisfied that we have the number we've registered.
+[01:17:15.780 --> 01:17:17.340]   But to run to win.
+[01:17:17.340 --> 01:17:19.940]   We're not there yet.
+[01:17:19.940 --> 01:17:23.460]   We're still living in darkness.
+[01:17:23.460 --> 01:17:30.580]   Don't wait until deathbed to be concerned about your loved ones.
+[01:17:30.580 --> 01:17:38.620]   Don't wait until you get an emergency call and then say, "Shoot, I only have a few days."
+[01:17:38.620 --> 01:17:41.420]   Run to win.
+[01:17:41.420 --> 01:17:44.880]   Run with sense of urgency.
+[01:17:44.880 --> 01:17:49.840]   Run with fear, knowing that there are serious consequences.
+[01:17:49.840 --> 01:17:56.180]   Run as if we really believe what we're seeing and we're professing.
+[01:17:56.180 --> 01:17:57.180]   Run to win.
+[01:17:57.180 --> 01:18:02.640]   1228, "Therefore, since we receive a kingdom which cannot be shaken, let us show gratitude."
+[01:18:02.640 --> 01:18:04.820]   Let us be thankful for all that God has given us.
+[01:18:04.820 --> 01:18:09.420]   And then chapter 13, verse 3, "So let us go out to him outside the camp, bearing his
+[01:18:09.420 --> 01:18:10.420]   reproach."
+[01:18:10.420 --> 01:18:12.920]   Outside the camp.
+[01:18:12.920 --> 01:18:17.840]   Part of the frustration for many Christians is they want to try to meet Christ inside
+[01:18:17.840 --> 01:18:20.260]   the camp.
+[01:18:20.260 --> 01:18:25.680]   They want to be inside the camp, accepted by the world, have what the world offers,
+[01:18:25.680 --> 01:18:27.580]   and have Jesus too.
+[01:18:27.580 --> 01:18:31.640]   And that's where the frustration lies.
+[01:18:31.640 --> 01:18:36.340]   We want to enjoy all that the world has to offer inside the camp, wondering why it's
+[01:18:36.340 --> 01:18:41.260]   so difficult to connect with Christ when Christ keeps telling us, "Come outside the camp."
+[01:18:41.260 --> 01:18:42.260]   Christ is not in the camp.
+[01:18:42.260 --> 01:18:44.460]   He's outside the camp.
+[01:18:44.460 --> 01:18:47.660]   We need to drop out of our rat race.
+[01:18:47.660 --> 01:18:49.260]   It doesn't mean that you can't have a job.
+[01:18:49.260 --> 01:18:51.100]   It doesn't mean that you shouldn't take care of your children.
+[01:18:51.100 --> 01:18:55.740]   All these things are what good Christians do.
+[01:18:55.740 --> 01:19:01.220]   But if that's our primary pursuit, and you're trying to fight and connect with Christ inside
+[01:19:01.220 --> 01:19:07.260]   the camp, he made it very clear, you cannot serve mammon and God at the same time.
+[01:19:07.260 --> 01:19:14.960]   So the invitation is, if Christ truly is better than anything that tempts us, he says, "Come
+[01:19:14.960 --> 01:19:17.860]   outside the camp."
+[01:19:17.860 --> 01:19:20.440]   Join him where he went.
+[01:19:20.440 --> 01:19:24.260]   The greatest commandment in the scripture is to love the Lord your God with all your
+[01:19:24.260 --> 01:19:27.340]   heart, soul, mind, and strength.
+[01:19:27.340 --> 01:19:36.380]   And I remember early on as a Christian, this was such a stumbling block to me because I
+[01:19:36.380 --> 01:19:37.380]   liked Jesus.
+[01:19:37.380 --> 01:19:42.540]   I mean, there's nobody or nothing like Jesus.
+[01:19:42.540 --> 01:19:43.820]   I obey Jesus.
+[01:19:43.820 --> 01:19:45.340]   I worship Jesus.
+[01:19:45.340 --> 01:19:50.020]   But I'm not sure if I could say I love Jesus.
+[01:19:50.020 --> 01:19:54.340]   Because I would compare, because what I know of love is, at that time, I loved my mom and
+[01:19:54.340 --> 01:19:55.340]   dad.
+[01:19:55.340 --> 01:19:56.340]   I loved my family.
+[01:19:56.340 --> 01:19:59.420]   And I had some friends that I loved.
+[01:19:59.420 --> 01:20:02.380]   Do I love Jesus that way?
+[01:20:02.380 --> 01:20:06.780]   You know, the way I think about this is, you know, those of you who love your mom or
+[01:20:06.780 --> 01:20:10.380]   love your wife, and I hope you love your wife and your husband, right?
+[01:20:10.380 --> 01:20:14.140]   As soon as somebody says something or sounds like they're going to say something about
+[01:20:14.140 --> 01:20:15.580]   them, you get offended.
+[01:20:15.580 --> 01:20:17.500]   They don't even have to say it.
+[01:20:17.500 --> 01:20:21.820]   You think they're going to say it, then you get offended.
+[01:20:21.820 --> 01:20:24.260]   Your son is, and you cringe.
+[01:20:24.260 --> 01:20:29.060]   Like, what are you going to say about my son?
+[01:20:29.060 --> 01:20:32.460]   Or your mom, right?
+[01:20:32.460 --> 01:20:35.380]   I saw your mom at the supermarket.
+[01:20:35.380 --> 01:20:37.380]   She didn't dress nicely.
+[01:20:37.380 --> 01:20:42.420]   You cringe, because you love them.
+[01:20:42.420 --> 01:20:45.500]   You don't want to hear it.
+[01:20:45.500 --> 01:20:50.500]   How do you react when people blaspheme our God?
+[01:20:50.500 --> 01:20:58.940]   When they drag His name through the mud, saying that maybe He had a child out of wedlock,
+[01:20:58.940 --> 01:20:59.940]   and married Mary?
+[01:20:59.940 --> 01:21:02.940]   That He was a liar?
+[01:21:02.940 --> 01:21:08.940]   That He just fooled a lot of people?
+[01:21:08.940 --> 01:21:18.940]   Do you just hear that as just information?
+[01:21:18.940 --> 01:21:22.940]   I think if we love Jesus, it would bother us more, right?
+[01:21:22.940 --> 01:21:24.940]   If we really love Jesus.
+[01:21:24.940 --> 01:21:29.940]   Because our natural tendency is whatever we love, we want to share.
+[01:21:29.940 --> 01:21:32.940]   I know the best boba shops.
+[01:21:32.940 --> 01:21:34.940]   I'm not even a boba drinker.
+[01:21:34.940 --> 01:21:36.940]   I know the best boba shops in Irvine.
+[01:21:36.940 --> 01:21:38.940]   You know why?
+[01:21:38.940 --> 01:21:40.940]   Because you tell me.
+[01:21:40.940 --> 01:21:42.940]   You put it on your Facebook.
+[01:21:42.940 --> 01:21:44.940]   I don't care.
+[01:21:44.940 --> 01:21:46.940]   I'm not a boba eater, but I know.
+[01:21:46.940 --> 01:21:49.940]   And I know which movies are the best movies.
+[01:21:49.940 --> 01:21:52.940]   Because you share it.
+[01:21:52.940 --> 01:21:56.940]   I know if I take a vacation, where I should go.
+[01:21:56.940 --> 01:21:58.940]   Because you share it.
+[01:21:58.940 --> 01:22:02.940]   Because whatever you love, you end up sharing.
+[01:22:02.940 --> 01:22:06.940]   Because you want other people to love what you love.
+[01:22:06.940 --> 01:22:11.940]   If you're a Dodgers fan, you are a Dodgers apologist.
+[01:22:11.940 --> 01:22:14.940]   You want everybody to be a Dodgers fan.
+[01:22:14.940 --> 01:22:17.940]   Why aren't you a Dodgers fan?
+[01:22:17.940 --> 01:22:21.940]   Because we have a tendency to share.
+[01:22:21.940 --> 01:22:25.940]   And because we want other people to love what we love.
+[01:22:25.940 --> 01:22:32.940]   You see, loving Christ is the backbone of everything that we do.
+[01:22:32.940 --> 01:22:35.940]   If you don't love Christ, you can't worship.
+[01:22:35.940 --> 01:22:42.940]   If you don't love Christ, you're just regurgitating information when you're sharing the gospel.
+[01:22:42.940 --> 01:22:47.940]   If you don't love Christ, you're just singing songs.
+[01:22:47.940 --> 01:22:52.940]   If you don't love Christ, you're just studying words.
+[01:22:52.940 --> 01:22:57.940]   If you don't love Christ, you're just building friendships.
+[01:22:57.940 --> 01:22:59.940]   You're not partnering.
+[01:22:59.940 --> 01:23:01.940]   You're not fellowshipping.
+[01:23:01.940 --> 01:23:07.940]   That's why he says the greatest commandment is to love the Lord your God with all your heart, soul, mind, and strength.
+[01:23:07.940 --> 01:23:13.940]   Because until you have love for Christ, until Christ becomes more precious than anything else,
+[01:23:13.940 --> 01:23:17.940]   we may love the church without Christ.
+[01:23:17.940 --> 01:23:19.940]   We may love missions without Christ.
+[01:23:19.940 --> 01:23:21.940]   We may love teaching without Christ.
+[01:23:21.940 --> 01:23:23.940]   We may love theology without Christ.
+[01:23:23.940 --> 01:23:27.940]   But at the end, it means nothing if we don't love Christ.
+[01:23:27.940 --> 01:23:36.940]   So in conclusion, as we wrap up this letter, it doesn't matter whether our church is a thousand or ten thousand.
+[01:23:36.940 --> 01:23:47.940]   A church of ten that loves Christ with all their hearts has more power than ten thousand people just nonchalantly coming in and out of church.
+[01:23:47.940 --> 01:23:59.940]   I pray that that would be you and I. Let's pray.
+[01:23:59.940 --> 01:24:05.940]   Heavenly Father, we thank you so much for your constant grace and provision you give us.
+[01:24:05.940 --> 01:24:10.940]   We are truly unworthy of all that you've given.
+[01:24:10.940 --> 01:24:13.940]   Lord, you know how easily we stray.
+[01:24:13.940 --> 01:24:17.940]   We get so tempted with trivial things that we know it's trivial.
+[01:24:17.940 --> 01:24:21.940]   And yet when we're tempted, we give in.
+[01:24:21.940 --> 01:24:27.940]   I pray, Father God, that you would help us remember the height from which we had fallen,
+[01:24:27.940 --> 01:24:31.940]   to repent and redo the things that we did at first,
+[01:24:31.940 --> 01:24:39.940]   so that above everything that we are pursuing, that the love of Christ would take center stage.
+[01:24:39.940 --> 01:24:41.940]   We praise you. We thank you.
+[01:24:41.940 --> 01:24:47.940]   Give us strength, Lord God, to persevere, to be anchored in Christ and Christ alone.
+[01:24:47.940 --> 01:24:50.940]   In Jesus' name we pray. Amen.
+[01:24:50.940 --> 01:24:58.940]   Let's all stand up for the closing praise.
+[01:24:58.940 --> 01:25:18.940]   [music]
+[01:25:18.940 --> 01:25:28.940]   I will glory in my Redeemer, whose priceless blood has ransomed me.
+[01:25:28.940 --> 01:25:39.940]   Mine was the sin that drove the bitter nails and hung Him on that judgment tree.
+[01:25:39.940 --> 01:25:49.940]   I will glory in my Redeemer, who crushed the power of sin and death.
+[01:25:49.940 --> 01:25:56.940]   My holy Savior before the holy judge.
+[01:25:56.940 --> 01:26:01.940]   The Lamb who is my righteousness.
+[01:26:01.940 --> 01:26:06.940]   The Lamb who is my righteousness.
+[01:26:06.940 --> 01:26:14.940]   [music]
+[01:26:14.940 --> 01:26:24.940]   I will glory in my Redeemer, my life He bought, my love He owns.
+[01:26:24.940 --> 01:26:34.940]   I have no longings for another. I'm satisfied in Him alone.
+[01:26:34.940 --> 01:26:44.940]   I will glory in my Redeemer, His faithfulness my standing place.
+[01:26:44.940 --> 01:26:51.940]   No foes are mighty and rush upon me.
+[01:26:51.940 --> 01:26:56.940]   My feet are burnt out by His grace.
+[01:26:56.940 --> 01:27:01.940]   My feet are burnt out by His grace.
+[01:27:01.940 --> 01:27:09.940]   [music]
+[01:27:09.940 --> 01:27:19.940]   I will glory in my Redeemer, who carries me on eagles' wings.
+[01:27:19.940 --> 01:27:25.940]   He crowns my life with lovingkindness.
+[01:27:25.940 --> 01:27:31.940]   His triumphs all the land will sing.
+[01:27:31.940 --> 01:27:40.940]   I will glory in my Redeemer, who waits for me at gates of gold.
+[01:27:40.940 --> 01:27:47.940]   And when He calls me, it will be paradise.
+[01:27:47.940 --> 01:27:56.940]   His face forever to behold. His face forever to behold.
+[01:27:56.940 --> 01:28:07.940]   I will glory in my Redeemer, who waits for me at gates of gold.
+[01:28:07.940 --> 01:28:14.940]   And when He calls me, it will be paradise.
+[01:28:14.940 --> 01:28:24.940]   His face forever to behold. His face forever to behold.
+[01:28:24.940 --> 01:28:34.940]   [music]
+[01:28:34.940 --> 01:28:39.940]   Let's pray.
+[01:28:39.940 --> 01:28:46.940]   Now the grace that you give us through Christ,
+[01:28:46.940 --> 01:28:51.940]   the fellowship of the Holy Spirit that has been deposited in us,
+[01:28:51.940 --> 01:28:55.940]   that we may have fellowship with one another and with you,
+[01:28:55.940 --> 01:29:02.940]   with a tremendous love, Lord God, that we only comprehend as a child,
+[01:29:02.940 --> 01:29:09.940]   that surrounds us, compels us, and moves us to worship you, to honor you, to love you.
+[01:29:09.940 --> 01:29:16.940]   I pray, would gather us, empower us, strengthen us,
+[01:29:16.940 --> 01:29:22.940]   that you would be our greatest pursuit, that you would be our greatest love,
+[01:29:22.940 --> 01:29:28.940]   that you would be our greatest hope, and that you would be our greatest proclamation.
+[01:29:28.940 --> 01:29:32.940]   I pray that as you have placed us in this dark world,
+[01:29:32.940 --> 01:29:36.940]   help us, Lord God, to be the brightest light that we can be,
+[01:29:36.940 --> 01:29:43.940]   that the world would know that in the midst of chaos, turmoil, and war,
+[01:29:43.940 --> 01:29:48.940]   that they would know, Father God, that there is hope in the name of Jesus Christ.
+[01:29:48.940 --> 01:29:54.940]   Help us to be that light in our generation. In Jesus' name we pray. Amen.
+[01:29:54.940 --> 01:29:59.940]   God sent his Son,
+[01:29:59.940 --> 01:30:04.940]   begotten Jesus,
+[01:30:04.940 --> 01:30:09.940]   he came to love,
+[01:30:09.940 --> 01:30:14.940]   heal and forgive,
+[01:30:14.940 --> 01:30:19.940]   he lived and died
+[01:30:19.940 --> 01:30:24.940]   to buy my heart and
+[01:30:24.940 --> 01:30:30.940]   an empty grave is there to prove
+[01:30:30.940 --> 01:30:34.940]   my Savior lived
+[01:30:34.940 --> 01:30:39.940]   because he lived
+[01:30:39.940 --> 01:30:44.940]   I can face tomorrow
+[01:30:44.940 --> 01:30:49.940]   because he lived
+[01:30:49.940 --> 01:30:54.940]   all fear is gone
+[01:30:54.940 --> 01:30:59.940]   because I know
+[01:30:59.940 --> 01:31:04.940]   he holds the future
+[01:31:04.940 --> 01:31:09.940]   in life his worth the living
+[01:31:09.940 --> 01:31:14.940]   just because he lived
+[01:31:14.940 --> 01:31:19.940]   I was an oak
+[01:31:19.940 --> 01:31:23.940]   and lost at the fall
+[01:31:23.940 --> 01:31:27.940]   running away when I hear you call
+[01:31:27.940 --> 01:31:32.940]   to bother you were to your will
+[01:31:32.940 --> 01:31:36.940]   I had no righteousness of my own
+[01:31:36.940 --> 01:31:40.940]   I had no right to draw near your throne
+[01:31:40.940 --> 01:31:44.940]   to follow you love me still
+[01:31:44.940 --> 01:31:50.940]   and in love with all you laid the world's foundation
+

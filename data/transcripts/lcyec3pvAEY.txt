@@ -1,0 +1,976 @@
+
+[00:00:00.000 --> 00:00:03.540]   This is our BG Squared panel.
+[00:00:03.540 --> 00:00:07.020]   Everybody knows Friends of the Pod, Brad Gerstner and Bill Gurley.
+[00:00:07.020 --> 00:00:14.940]   Give it up for our guests.
+[00:00:14.940 --> 00:00:35.940]   Bill, you predicted five of the last three recessions.
+[00:00:35.940 --> 00:00:38.940]   A broken clock is still right twice a day.
+[00:00:38.940 --> 00:00:41.220]   I mean, here we are again.
+[00:00:41.220 --> 00:00:43.820]   You've sounded the alarm bell, and of course you're right.
+[00:00:43.820 --> 00:00:51.620]   And you've seen this movie before for all of us younger capital allocators who are experiencing
+[00:00:51.620 --> 00:00:54.940]   it for the second or third time, but you've experienced it a couple more times.
+[00:00:54.940 --> 00:00:59.440]   How do you-- I mean, it's pretty old.
+[00:00:59.440 --> 00:01:07.100]   How does this one measure up to Great Recession, dot-com bust, '87, and the many ones we've
+[00:01:07.100 --> 00:01:08.100]   seen in between?
+[00:01:08.100 --> 00:01:13.300]   You know, one thing that I think is super important to put this into context-- I'll
+[00:01:13.300 --> 00:01:14.300]   try and tell this quick.
+[00:01:14.300 --> 00:01:19.180]   I had a meeting once with Howard Marks, who I'd wanted to meet for a long period of time.
+[00:01:19.180 --> 00:01:22.780]   He's a famous bond investor that does a lot of writing.
+[00:01:22.780 --> 00:01:27.340]   And for 15 minutes, he asked me questions about the venture industry, a lot of structural
+[00:01:27.340 --> 00:01:28.700]   questions.
+[00:01:28.700 --> 00:01:32.220]   And I told him my answer as best I could.
+[00:01:32.220 --> 00:01:35.160]   And he said, "Man, that's a really shitty industry."
+[00:01:35.160 --> 00:01:36.900]   And I said, "Well, why do you say that?
+[00:01:36.900 --> 00:01:37.900]   What do you mean?"
+[00:01:37.900 --> 00:01:43.160]   He says, "Cyclical collapse is built into the structure."
+[00:01:43.160 --> 00:01:50.980]   And so we have funds that are committed to that have 10 to 15-year lives.
+[00:01:50.980 --> 00:01:55.300]   So you have low barriers to entry, but you have very high barriers to exit.
+[00:01:55.300 --> 00:02:02.460]   And so he felt that it was just systematically set up to rise and crash, rise and crash.
+[00:02:02.460 --> 00:02:08.660]   And one thing that I realized coming out of that is that it doesn't happen like a sine
+[00:02:08.660 --> 00:02:12.340]   curve, which is what we all imagine when we think of a cyclical business.
+[00:02:12.340 --> 00:02:15.180]   It's more like a sawtooth.
+[00:02:15.180 --> 00:02:18.540]   Risk on is a very slow process.
+[00:02:18.540 --> 00:02:21.980]   And it's reflexive, so it grows and grows and grows and grows.
+[00:02:21.980 --> 00:02:25.340]   And then risk off tends to be very abrupt.
+[00:02:25.340 --> 00:02:27.380]   And we've seen that here, right?
+[00:02:27.380 --> 00:02:33.260]   This cycle, risk on was from '09 to five months ago.
+[00:02:33.260 --> 00:02:34.260]   That's really well said.
+[00:02:34.260 --> 00:02:37.180]   And risk off is five months.
+[00:02:37.180 --> 00:02:46.300]   And the thing that's really tough about that is it requires mental adjustment very quickly,
+[00:02:46.300 --> 00:02:50.220]   because it didn't gradually change, it abruptly changed.
+[00:02:50.220 --> 00:02:58.180]   And so cap charts might have systematic issues that are stuck because too much LICPREF relative
+[00:02:58.180 --> 00:03:00.140]   to the new reality.
+[00:03:00.140 --> 00:03:01.140]   Valuations have shifted.
+[00:03:01.140 --> 00:03:03.100]   Cost of capital is radically different.
+[00:03:03.100 --> 00:03:10.180]   You may have, on the way up as risk got, people took more risk, you tried crazier things.
+[00:03:10.180 --> 00:03:16.660]   You're willing to make investments in businesses you might not if the cost of capital is a
+[00:03:16.660 --> 00:03:17.660]   lot lower.
+[00:03:17.660 --> 00:03:19.700]   You name a stadium for five years as a crypto company.
+[00:03:19.700 --> 00:03:21.740]   You might do that.
+[00:03:21.740 --> 00:03:23.900]   But then all of a sudden it's gone.
+[00:03:23.900 --> 00:03:31.100]   And now the commitment to naming the stadium is greater than the market gap.
+[00:03:31.100 --> 00:03:36.380]   Well, I assume you're referring to-- Well, that may not be true for FTX.
+[00:03:36.380 --> 00:03:40.620]   Just as an example, it might be a disproportionate value of your market cap.
+[00:03:40.620 --> 00:03:42.700]   So anyway, it's tough.
+[00:03:42.700 --> 00:03:47.340]   And in this particular case, because that's what you asked, so it turns out '09 wasn't
+[00:03:47.340 --> 00:03:48.340]   that bad.
+[00:03:48.340 --> 00:03:50.580]   If we have an '09, that'll be pretty good.
+[00:03:50.580 --> 00:03:52.660]   Things got turned around pretty quickly.
+[00:03:52.660 --> 00:03:54.860]   '01 was very abrupt.
+[00:03:54.860 --> 00:03:59.820]   And we didn't really start to see liquidity again until-- with a few exceptions.
+[00:03:59.820 --> 00:04:03.540]   Elon mentioned PayPal, but '05, '06.
+[00:04:03.540 --> 00:04:05.620]   It was a long walk in the desert.
+[00:04:05.620 --> 00:04:09.420]   A lot of great companies were started, but a lot of founders gave up at that time, right?
+[00:04:09.420 --> 00:04:10.420]   Yeah.
+[00:04:10.420 --> 00:04:16.060]   And look, I think if you're an early stage investor or if you're an early stage founder
+[00:04:16.060 --> 00:04:20.180]   that's just getting going, or even an early stage company, because if you haven't scaled
+[00:04:20.180 --> 00:04:25.540]   out yet, this probably hasn't affected you, it could be wonderful.
+[00:04:25.540 --> 00:04:27.980]   Your access to talent's going to be a lot easier.
+[00:04:27.980 --> 00:04:30.260]   People are going to be more pragmatic and rational.
+[00:04:30.260 --> 00:04:34.100]   But it's usually a long window on the other side.
+[00:04:34.100 --> 00:04:40.020]   The other challenge you have here is in '20-- I mean, we basically had a mini pullback in
+[00:04:40.020 --> 00:04:46.540]   March of 2020, but then the Fed hit so hard that things just blasted off again.
+[00:04:46.540 --> 00:04:52.140]   And now you guys have talked about this, but that tool's not in the toolbox anymore.
+[00:04:52.140 --> 00:04:53.900]   Brad?
+[00:04:53.900 --> 00:04:57.780]   So one of the things-- I was talking to somebody last night, and this audience is amazing.
+[00:04:57.780 --> 00:05:00.620]   I was talking to somebody last night, and they said, so how does it work?
+[00:05:00.620 --> 00:05:02.020]   You just get together and talk.
+[00:05:02.020 --> 00:05:08.540]   And I said, what I love about this group is there are hundreds of hours of data and research
+[00:05:08.540 --> 00:05:10.580]   that we're constantly challenged with.
+[00:05:10.580 --> 00:05:12.520]   We all know where we are.
+[00:05:12.520 --> 00:05:14.520]   We know what just happened.
+[00:05:14.520 --> 00:05:19.060]   And I think grounding ourselves in just a few facts to try to figure out what the next
+[00:05:19.060 --> 00:05:23.180]   six months are going to be, because we have founders here trying to run their businesses.
+[00:05:23.180 --> 00:05:26.340]   When I raise capital, are we bouncing straight back from where we were?
+[00:05:26.340 --> 00:05:33.340]   So very quickly, this chart just tells us the iron law of investing is interest rates.
+[00:05:33.340 --> 00:05:40.440]   A 1% change in rates leads to a 15% or 20% change in a multiple.
+[00:05:40.440 --> 00:05:46.620]   And so the reason multiples have collapsed here for all these businesses is because expectations
+[00:05:46.620 --> 00:05:49.980]   as to inflation and rates has changed dramatically.
+[00:05:49.980 --> 00:05:53.820]   I hear a lot of talk about 1999, 2000.
+[00:05:53.820 --> 00:05:57.180]   So if it's all about rates, let's just look at those two things.
+[00:05:57.180 --> 00:05:59.740]   We plotted them here together.
+[00:05:59.740 --> 00:06:02.060]   This is 19 to 22 on the bottom.
+[00:06:02.060 --> 00:06:03.260]   It shows what rates did.
+[00:06:03.260 --> 00:06:05.140]   We took them to zero.
+[00:06:05.140 --> 00:06:10.960]   The Fed is now saying our neutral rate is 2% to 3%, and people are hyperventilating.
+[00:06:10.960 --> 00:06:12.740]   Look at where we were in 2000.
+[00:06:12.740 --> 00:06:15.180]   Look at what the cost of capital was in 2000.
+[00:06:15.180 --> 00:06:16.180]   Crazy, right?
+[00:06:16.180 --> 00:06:17.180]   Right?
+[00:06:17.180 --> 00:06:18.180]   And so this idea-- 8% mortgage rates.
+[00:06:18.180 --> 00:06:20.020]   You see the delta there, right?
+[00:06:20.020 --> 00:06:23.980]   We went from just above 5% up to 6.5%, right?
+[00:06:23.980 --> 00:06:28.340]   So we're talking about going from 2.5% back to 2.5% or 3%.
+[00:06:28.340 --> 00:06:31.500]   But the big question is, are we going back to 2.5% or 3%?
+[00:06:31.500 --> 00:06:35.140]   Or are they behind the curve, lost in the weeds, and we're going to have to go to 4%
+[00:06:35.140 --> 00:06:36.740]   to 5% to kill inflation?
+[00:06:36.740 --> 00:06:42.780]   Well, everybody was saying inflation is here to stay forever.
+[00:06:42.780 --> 00:06:48.140]   Remember, when we report on core CPI, it's what happened last month.
+[00:06:48.140 --> 00:06:50.580]   It is not a forward-looking indicator.
+[00:06:50.580 --> 00:06:53.620]   So we peaked in core CPI.
+[00:06:53.620 --> 00:06:54.620]   Consumer price index.
+[00:06:54.620 --> 00:06:55.620]   Explain what it is.
+[00:06:55.620 --> 00:06:59.100]   Consumer price-- there's the basket of goods and services that we all go out and spend
+[00:06:59.100 --> 00:07:00.100]   money on.
+[00:07:00.100 --> 00:07:02.780]   So the Fed is focused on the demand side of the equation.
+[00:07:02.780 --> 00:07:07.860]   They know they hopped us up on a bunch of Red Bull and cocaine to survive the pandemic.
+[00:07:07.860 --> 00:07:09.860]   And now-- I thought you were talking about last night for
+[00:07:09.860 --> 00:07:10.860]   Sachs, but keep going.
+[00:07:10.860 --> 00:07:11.860]   You still haven't said a word all day.
+[00:07:11.860 --> 00:07:12.860]   Look at you.
+[00:07:12.860 --> 00:07:13.860]   Are you OK, buddy?
+[00:07:13.860 --> 00:07:14.860]   Anybody got any questions?
+[00:07:14.860 --> 00:07:15.860]   You are not a good guy.
+[00:07:15.860 --> 00:07:16.860]   I'm not a good guy.
+[00:07:16.860 --> 00:07:17.860]   I'm not a good guy.
+[00:07:17.860 --> 00:07:18.860]   You are so bad.
+[00:07:18.860 --> 00:07:19.860]   We're going to get through it, Sachs.
+[00:07:19.860 --> 00:07:21.780]   We're going to get through it together, OK?
+[00:07:21.780 --> 00:07:23.220]   You are so wrecked.
+[00:07:23.220 --> 00:07:30.200]   So this chart, we deconstructed 20 bank models to say, what are the components of CPI?
+[00:07:30.200 --> 00:07:31.220]   How do they differ?
+[00:07:31.220 --> 00:07:33.500]   The red line's where Goldman thinks we're going.
+[00:07:33.500 --> 00:07:34.860]   The green line is UBS.
+[00:07:34.860 --> 00:07:38.060]   I just told you the Fed thinks we'll exit the year at 4.
+[00:07:38.060 --> 00:07:41.060]   We just decelerated significantly.
+[00:07:41.060 --> 00:07:46.120]   And when they look at May in June, it's going to be down yet further.
+[00:07:46.120 --> 00:07:48.180]   But here's why it's going to be down.
+[00:07:48.180 --> 00:07:54.060]   When the Fed stimulated the economy, all the prices we pay for everything went haywire.
+[00:07:54.060 --> 00:07:59.720]   OK, the price for a used car was $20,000 for 10 years.
+[00:07:59.720 --> 00:08:04.260]   And then just coincidentally, they give us a bunch of Red Bull, and the price goes to
+[00:08:04.260 --> 00:08:05.920]   $29,000.
+[00:08:05.920 --> 00:08:09.460]   For two months in a row, we've had sequential declines.
+[00:08:09.460 --> 00:08:15.540]   You tell me, is the price of the used car this time next year higher than $29,000 or
+[00:08:15.540 --> 00:08:16.800]   lower than $29,000?
+[00:08:16.800 --> 00:08:21.620]   It's going to be lower because we're destroying demand by raising interest rates.
+[00:08:21.620 --> 00:08:23.160]   Same for home prices.
+[00:08:23.160 --> 00:08:27.120]   So what's plotted here is the home affordability index.
+[00:08:27.120 --> 00:08:33.460]   Somebody who can afford to pay $1,200 a month in December could afford a $350,000 home.
+[00:08:33.460 --> 00:08:37.020]   Today can afford a $240,000 home.
+[00:08:37.020 --> 00:08:41.840]   You tell me, are the number of new home searches on Zillow going up or down?
+[00:08:41.840 --> 00:08:43.200]   Go run your Google Trends.
+[00:08:43.200 --> 00:08:47.060]   They're going down because people's ability to buy homes is going down.
+[00:08:47.060 --> 00:08:50.400]   And then finally, airline tickets, same deal.
+[00:08:50.400 --> 00:08:54.960]   And so when you put that all together, you say, OK, sequentially, month over month, forward
+[00:08:54.960 --> 00:08:58.100]   looking, this stuff's starting to tip over.
+[00:08:58.100 --> 00:09:04.320]   If you look at what consumer confidence is, it's the lowest in 10 years.
+[00:09:04.320 --> 00:09:07.720]   Consumer confidence is a leading indicator of slowing down.
+[00:09:07.720 --> 00:09:12.520]   So again, everybody on television is telling us about what just happened.
+[00:09:12.520 --> 00:09:16.320]   It's like the nightly news, big red arrows, inflation going up.
+[00:09:16.320 --> 00:09:17.800]   This is what's going to happen.
+[00:09:17.800 --> 00:09:21.140]   And what we all care about is what's going to happen.
+[00:09:21.140 --> 00:09:23.040]   We destroyed $15 trillion.
+[00:09:23.040 --> 00:09:24.360]   You said this on Pod 80.
+[00:09:24.360 --> 00:09:28.560]   We destroyed $15 trillion of household net worth in the last five months.
+[00:09:28.560 --> 00:09:35.080]   So the expected path of household net worth would have taken us from $110 trillion to
+[00:09:35.080 --> 00:09:39.240]   $125 trillion over the course of the last two years.
+[00:09:39.240 --> 00:09:41.720]   That was the trend we were on.
+[00:09:41.720 --> 00:09:47.160]   Instead, we got all hopped up and went from $110 to $142.
+[00:09:47.160 --> 00:09:49.980]   But now we're all the way back to $127.
+[00:09:49.980 --> 00:09:52.720]   That's what I call on path, on trend.
+[00:09:52.720 --> 00:09:55.640]   So the Fed has done exactly what it wanted to do.
+[00:09:55.640 --> 00:09:57.200]   It ruined all the SPACs.
+[00:09:57.200 --> 00:09:59.200]   It ruined every-- it took all the-- sorry.
+[00:09:59.200 --> 00:10:00.200]   Sorry.
+[00:10:00.200 --> 00:10:01.200]   Sorry.
+[00:10:01.200 --> 00:10:02.200]   I did one too.
+[00:10:02.200 --> 00:10:03.200]   OK.
+[00:10:03.200 --> 00:10:05.560]   So it took the juice out of the system.
+[00:10:05.560 --> 00:10:10.800]   That and consumer confidence tells me forward looking, inflation is rolling.
+[00:10:10.800 --> 00:10:17.020]   Finally, Bernanke says this morning or over the weekend, he said, ignore what everybody
+[00:10:17.020 --> 00:10:18.380]   else is saying.
+[00:10:18.380 --> 00:10:19.380]   Follow the tips.
+[00:10:19.380 --> 00:10:20.720]   No, we've been saying this since May of last year.
+[00:10:20.720 --> 00:10:22.260]   So this is the break even.
+[00:10:22.260 --> 00:10:23.740]   This is the bond market.
+[00:10:23.740 --> 00:10:28.840]   When that goes positive, that means the bond market is saying that inflation is rolling
+[00:10:28.840 --> 00:10:32.800]   over because this is the 10 year less inflation.
+[00:10:32.800 --> 00:10:38.920]   And so now we have anecdotal information about cars, about houses, about airline.
+[00:10:38.920 --> 00:10:40.780]   We have our common sense.
+[00:10:40.780 --> 00:10:42.800]   We know that those prices are not sustainable.
+[00:10:42.800 --> 00:10:45.360]   And we have the bond market telling us the same thing.
+[00:10:45.360 --> 00:10:48.520]   That's why I don't think you should believe the hyperinflation narrative.
+[00:10:48.520 --> 00:10:49.680]   Got it.
+[00:10:49.680 --> 00:10:50.680]   Any thoughts on NFTs?
+[00:10:50.680 --> 00:10:54.560]   I mean, here's the thing-- What about my board ape?
+[00:10:54.560 --> 00:10:55.560]   What will happen to that?
+[00:10:55.560 --> 00:10:59.040]   No, and when you're going through this and you start to understand the logic of it, you
+[00:10:59.040 --> 00:11:05.640]   realize what a mirage we were in that certain assets that had no underlying value-- they
+[00:11:05.640 --> 00:11:10.480]   weren't cars, airline tickets, or homes-- were also being exacerbated during all of
+[00:11:10.480 --> 00:11:11.480]   this.
+[00:11:11.480 --> 00:11:16.440]   And I think that was probably one of the things that made this less fun in this cycle.
+[00:11:16.440 --> 00:11:18.760]   Bill, you're a fundamental investor.
+[00:11:18.760 --> 00:11:20.160]   You really think about consumers.
+[00:11:20.160 --> 00:11:21.920]   You think about the total addressable market.
+[00:11:21.920 --> 00:11:23.800]   You give a lot of thoughts to that.
+[00:11:23.800 --> 00:11:27.200]   What was the last couple of years like when-- because you were saying three or four years
+[00:11:27.200 --> 00:11:30.920]   ago, hey, this is kind of disconnecting from reality.
+[00:11:30.920 --> 00:11:37.480]   You know, back when I had that conversation with Howard, I started doing some more research.
+[00:11:37.480 --> 00:11:42.760]   I went back and I talked to some of our fund-to-funds that have data over a very long period of
+[00:11:42.760 --> 00:11:43.760]   time.
+[00:11:43.760 --> 00:11:50.840]   And I mean, this sounds ridiculous, but what I realized was that the IRR numbers and the
+[00:11:50.840 --> 00:11:57.320]   ROI numbers on the venture capital category were heavily dependent on performance in the
+[00:11:57.320 --> 00:12:02.320]   hottest part of the cycle, and so in the tip of that sawtooth.
+[00:12:02.320 --> 00:12:06.040]   And that's when we came up with this phrase that the best way to protect yourself against
+[00:12:06.040 --> 00:12:10.240]   the downside is to enjoy every last bit of the upside.
+[00:12:10.240 --> 00:12:17.160]   So while you get anxious about the rollover, you actually can't afford, as a venture capital
+[00:12:17.160 --> 00:12:23.240]   firm-- and maybe this contributes to the collapse as fast as it does-- you can't afford not
+[00:12:23.240 --> 00:12:27.120]   to play the game, because it's too hard to predict when it's going to change.
+[00:12:27.120 --> 00:12:32.480]   Bill, there's $250 billion of committed capital unallocated into companies.
+[00:12:32.480 --> 00:12:36.960]   What happens in the cycle over the next five years if there is this expectation that we're
+[00:12:36.960 --> 00:12:40.440]   not going to be in the good part of the risk-on part of the curve?
+[00:12:40.440 --> 00:12:43.480]   That capital needs to be deployed at this point in the cycle.
+[00:12:43.480 --> 00:12:48.440]   And do we end up having these crazy bifurcations in the market where high-quality companies
+[00:12:48.440 --> 00:12:53.880]   get 10x evaluation of the mean, and all the money plows into a few companies that are
+[00:12:53.880 --> 00:12:54.880]   kind of outperforming?
+[00:12:54.880 --> 00:12:57.840]   I'll give you some quick thoughts, and I know Brad has some too, because we were talking
+[00:12:57.840 --> 00:13:00.380]   about this this morning.
+[00:13:00.380 --> 00:13:08.680]   First of all, I've never ever felt as a venture investor that I have to invest money.
+[00:13:08.680 --> 00:13:12.320]   And if you remember, most of it's committed but not drawn down.
+[00:13:12.320 --> 00:13:16.560]   And so you're going to have to go ask for it.
+[00:13:16.560 --> 00:13:26.320]   If you deployed 2/3 of your fund into crypto assets with no board seat in the past 12 months,
+[00:13:26.320 --> 00:13:31.040]   are you going to call Harvard and Penn and say, hey, I need some more right now?
+[00:13:31.040 --> 00:13:32.520]   I don't think you're going to make that call.
+[00:13:32.520 --> 00:13:33.520]   I wouldn't, no.
+[00:13:33.520 --> 00:13:37.560]   You're saying they'd let the capital sit there and never call it?
+[00:13:37.560 --> 00:13:40.720]   You guys were talking about this on one of the recent pods.
+[00:13:40.720 --> 00:13:44.600]   In '01, a lot of people actually returned the commitment.
+[00:13:44.600 --> 00:13:49.240]   And it was actually an act of greed, not an act-- it came across like they were being
+[00:13:49.240 --> 00:13:50.240]   nice.
+[00:13:50.240 --> 00:13:53.040]   But they were getting out-- I call it the burnt waffle theory.
+[00:13:53.040 --> 00:13:56.200]   They were killing the fund and getting out of the overhang.
+[00:13:56.200 --> 00:14:00.320]   And starting fresh, just like, I guess, it was Melvin that attempted to do as a version
+[00:14:00.320 --> 00:14:01.320]   of that.
+[00:14:01.320 --> 00:14:02.320]   It's like a recap, in a way.
+[00:14:02.320 --> 00:14:03.320]   Yeah.
+[00:14:03.320 --> 00:14:05.920]   Well, they just want to get started without the overhang of the lookback.
+[00:14:05.920 --> 00:14:07.760]   They deployed $200 million, $300 million.
+[00:14:07.760 --> 00:14:15.800]   I think one thing, Bill, not to interrupt, the assumption of the question was, will they
+[00:14:15.800 --> 00:14:20.680]   be forced to deploy capital into a really bad vintage?
+[00:14:20.680 --> 00:14:24.240]   I actually think the upcoming vintage is going to start getting real.
+[00:14:24.240 --> 00:14:25.240]   It's going to be a good vintage.
+[00:14:25.240 --> 00:14:26.920]   I think that was Bill's point.
+[00:14:26.920 --> 00:14:28.440]   I think we both feel that way.
+[00:14:28.440 --> 00:14:31.860]   I think the vintage of the last 18 months will be lousy.
+[00:14:31.860 --> 00:14:36.160]   So the capital deployed over the last 18 months won't have a lot of return.
+[00:14:36.160 --> 00:14:38.600]   All of our LPs know it.
+[00:14:38.600 --> 00:14:44.160]   I was just sitting with an LP, one of my investors, at lunch today.
+[00:14:44.160 --> 00:14:45.160]   Imagine this.
+[00:14:45.160 --> 00:14:49.800]   They have 50 investments like Benchmark and Altimeter.
+[00:14:49.800 --> 00:14:52.560]   All of them are going down.
+[00:14:52.560 --> 00:14:57.680]   And now you're going to call them up and say, I want all this money right now to go invest
+[00:14:57.680 --> 00:15:01.760]   in a bunch of stuff that still may not yet have corrected enough.
+[00:15:01.760 --> 00:15:03.720]   These are partnerships.
+[00:15:03.720 --> 00:15:08.200]   Partnership means a partnership with me and my partners, all of the people who gave me
+[00:15:08.200 --> 00:15:09.360]   the money.
+[00:15:09.360 --> 00:15:13.980]   We're not going to put our partners in a headlock and drag their money into the market and put
+[00:15:13.980 --> 00:15:19.940]   it into things that we don't think accurately reflect the new world order.
+[00:15:19.940 --> 00:15:25.040]   If you go back to that first chart, you can underwrite to the five-year average, the 10-year
+[00:15:25.040 --> 00:15:26.640]   average where we've been.
+[00:15:26.640 --> 00:15:28.980]   I think we're going back to trend.
+[00:15:28.980 --> 00:15:32.600]   But you cannot underwrite to where we were last year.
+[00:15:32.600 --> 00:15:33.600]   Disabuse yourself.
+[00:15:33.600 --> 00:15:36.040]   One of the, Bill tweeted this last week.
+[00:15:36.040 --> 00:15:37.800]   It's spot on.
+[00:15:37.800 --> 00:15:42.520]   The biggest mistake we will all make is to anchor ourselves to prices that we saw in
+[00:15:42.520 --> 00:15:45.600]   the world over the last 18 months.
+[00:15:45.600 --> 00:15:47.460]   Pretend you never saw them.
+[00:15:47.460 --> 00:15:52.740]   Not in venture, not in the stock market, because that is a delusional place to think we're
+[00:15:52.740 --> 00:15:53.740]   getting back there.
+[00:15:53.740 --> 00:15:59.440]   We're not unless we have another pandemic or a nuclear war and rates go to zero and
+[00:15:59.440 --> 00:16:01.240]   then we have bigger problems.
+[00:16:01.240 --> 00:16:07.760]   So re-underwrite and underwrite to the five-year average de novo for all your businesses.
+[00:16:07.760 --> 00:16:12.160]   That's how you survive through this and ultimately come out winning.
+[00:16:12.160 --> 00:16:17.900]   And the other point I would make, David, is that the new reality is apparent to all of
+[00:16:17.900 --> 00:16:19.580]   us because of public comps.
+[00:16:19.580 --> 00:16:22.140]   So you just have a new world order.
+[00:16:22.140 --> 00:16:23.580]   And so it's very hard.
+[00:16:23.580 --> 00:16:29.100]   I don't think, I mean, there might be someone so sloppy that they just keep investing headstrong,
+[00:16:29.100 --> 00:16:33.540]   but I think most of them look at where things are in the type of business that you're investing
+[00:16:33.540 --> 00:16:35.900]   in and they feel like they want to make a return.
+[00:16:35.900 --> 00:16:37.420]   I think you're using the right word.
+[00:16:37.420 --> 00:16:38.420]   It is borderline.
+[00:16:38.420 --> 00:16:45.300]   It's, well, it's definitely unprofessional and it's borderline idiotic for anybody with
+[00:16:45.300 --> 00:16:50.380]   organized capital right now to be ripping money in because you don't know what the terminal
+[00:16:50.380 --> 00:16:52.500]   valuation of a business is.
+[00:16:52.500 --> 00:16:55.580]   Like at the end of the day, investing is like a line.
+[00:16:55.580 --> 00:17:00.200]   It starts here with guys like Jason and it ends here with guys like me and Brad, say.
+[00:17:00.200 --> 00:17:04.140]   And in the middle are these guys that are helping along the way and it's all hot potato.
+[00:17:04.140 --> 00:17:10.420]   But by the time the hot potato gets to us, there is a price and that price has alternatives.
+[00:17:10.420 --> 00:17:14.580]   Meaning, if you come to me and say, "This thing is worth $10."
+[00:17:14.580 --> 00:17:20.020]   And I say, "Actually, no, it's worth two because that other thing, which is better than you,
+[00:17:20.020 --> 00:17:22.600]   is actually worth five."
+[00:17:22.600 --> 00:17:24.900]   And that's what's happened in the stock markets.
+[00:17:24.900 --> 00:17:27.380]   And by the time you get the potato, you put it on the scale.
+[00:17:27.380 --> 00:17:31.540]   There is a terminal endpoint to valuation.
+[00:17:31.540 --> 00:17:35.300]   At the end of the day, there is a buyer of last resort and that is the public market
+[00:17:35.300 --> 00:17:36.300]   investor.
+[00:17:36.300 --> 00:17:38.740]   And he and she has said, "No mas."
+[00:17:38.740 --> 00:17:40.220]   That's what this chart says.
+[00:17:40.220 --> 00:17:41.780]   "No mas."
+[00:17:41.780 --> 00:17:45.340]   Don't tell me that your thing is worth 50 times, 80 times, 90 times.
+[00:17:45.340 --> 00:17:48.420]   It's worth 5.6 times.
+[00:17:48.420 --> 00:17:54.020]   I saw something this morning from Morgan Stanley that said, "If, however, you're a massive
+[00:17:54.020 --> 00:18:00.300]   grower, 50% plus grower, there's 30 companies in the SAS index that grow, but only 30 in
+[00:18:00.300 --> 00:18:02.780]   the entire world, that grow above 50%.
+[00:18:02.780 --> 00:18:03.940]   You know what that multiple is?
+[00:18:03.940 --> 00:18:04.940]   Just take a wild guess.
+[00:18:04.940 --> 00:18:05.940]   8.5.
+[00:18:05.940 --> 00:18:08.580]   I mean, we're not talking 50 times.
+[00:18:08.580 --> 00:18:12.100]   We're talking 5.6 or 8.6.
+[00:18:12.100 --> 00:18:14.380]   So all of a sudden, the band is dead.
+[00:18:14.380 --> 00:18:17.620]   So those games, to your point, are over.
+[00:18:17.620 --> 00:18:22.180]   I mean, growing by 50% a year, for those of you guys that build businesses that do it,
+[00:18:22.180 --> 00:18:24.460]   that is still very hard.
+[00:18:24.460 --> 00:18:26.140]   That's massive compounding.
+[00:18:26.140 --> 00:18:28.660]   So the game is over.
+[00:18:28.660 --> 00:18:31.700]   And the idea that there's a quarter trillion, I think that that's a fallacy.
+[00:18:31.700 --> 00:18:34.580]   What do you think ultimately gets deployed to the quarter trillion?
+[00:18:34.580 --> 00:18:35.580]   Just pick a number.
+[00:18:35.580 --> 00:18:36.580]   50.
+[00:18:36.580 --> 00:18:37.580]   What do you say?
+[00:18:37.580 --> 00:18:41.740]   Over the next three years?
+[00:18:41.740 --> 00:18:46.940]   Of the quarter trillion, I think you're probably counting 50% of that as private equity or
+[00:18:46.940 --> 00:18:47.940]   more.
+[00:18:47.940 --> 00:18:51.220]   Maybe 70% is traditional private equity.
+[00:18:51.220 --> 00:18:53.340]   Leverage buyout firms are going to have a field day.
+[00:18:53.340 --> 00:18:54.340]   Field day.
+[00:18:54.340 --> 00:18:57.540]   I mean, so Toma Bravo and all these guys, they will spend all of that.
+[00:18:57.540 --> 00:19:04.380]   Well, you tell me what percentage of that-- Of the VC, of the 100 billion of VC, I would
+[00:19:04.380 --> 00:19:05.380]   say 20.
+[00:19:05.380 --> 00:19:07.060]   20 billion goes in the next three years?
+[00:19:07.060 --> 00:19:08.060]   25% or 30%.
+[00:19:08.060 --> 00:19:09.060]   Depends on price adjustment.
+[00:19:09.060 --> 00:19:14.140]   I wish we had the numbers from '01, because you had similar things where the raise amounts
+[00:19:14.140 --> 00:19:15.140]   were going up.
+[00:19:15.140 --> 00:19:16.140]   Because that's frigging tiny, right?
+[00:19:16.140 --> 00:19:20.100]   I mean, if you're saying 25 billion over three years, that's like $8 billion of total VC
+[00:19:20.100 --> 00:19:21.700]   dollars deployed a year.
+[00:19:21.700 --> 00:19:26.540]   Which, to your trend line thing, I'm wondering if you went back six years where that number
+[00:19:26.540 --> 00:19:27.540]   was.
+[00:19:27.540 --> 00:19:29.020]   Let's be candid.
+[00:19:29.020 --> 00:19:32.780]   What number of people at these companies is necessary to run them?
+[00:19:32.780 --> 00:19:34.380]   We're looking at a Twitter with 8,000.
+[00:19:34.380 --> 00:19:36.060]   You're looking at a Google.
+[00:19:36.060 --> 00:19:38.620]   And even some of the startups, they got fat.
+[00:19:38.620 --> 00:19:39.620]   And they had huge salaries.
+[00:19:39.620 --> 00:19:42.660]   And there was no essentialism or discipline.
+[00:19:42.660 --> 00:19:46.300]   We just talked about a whole CapEx cycle and a need for hardware and a need for capital
+[00:19:46.300 --> 00:19:47.300]   equipment.
+[00:19:47.300 --> 00:19:48.300]   There's a whole semiconductor space.
+[00:19:48.300 --> 00:19:49.300]   There's biotech.
+[00:19:49.300 --> 00:19:53.260]   I mean, a huge segment of that venture market, Jason, is not software.
+[00:19:53.260 --> 00:19:56.340]   It's very capital-intensive businesses, which, by the way, are really critical in this--
+[00:19:56.340 --> 00:19:57.340]   But in the software space--
+[00:19:57.340 --> 00:19:58.340]   Economic cycle.
+[00:19:58.340 --> 00:19:59.340]   --people have been living high on the hog.
+[00:19:59.340 --> 00:20:00.340]   Let's be honest.
+[00:20:00.340 --> 00:20:01.340]   Yeah.
+[00:20:01.340 --> 00:20:05.220]   No, but I like, for example, our investing focus, we've moved in the last 18 months to
+[00:20:05.220 --> 00:20:07.180]   focus a lot on these things.
+[00:20:07.180 --> 00:20:08.180]   Lithium mines.
+[00:20:08.180 --> 00:20:09.740]   I mean, the stuff that we're doing seems insane.
+[00:20:09.740 --> 00:20:15.540]   If you had asked me, would you be sweating a mine in India and sending our CFO and a
+[00:20:15.540 --> 00:20:19.740]   partner to go and make sure the mine exists, I never would have thought that it's possible.
+[00:20:19.740 --> 00:20:21.940]   But the reason is because of this chart.
+[00:20:21.940 --> 00:20:24.780]   Because those trade-offs on dollars make so much more sense.
+[00:20:24.780 --> 00:20:32.220]   To put money into an overblown software business comes with a lot of baggage-- valuation baggage,
+[00:20:32.220 --> 00:20:34.860]   team baggage, technical cruft.
+[00:20:34.860 --> 00:20:36.540]   All of these things have to get balanced.
+[00:20:36.540 --> 00:20:39.020]   And so if you get a really cheap deal, you do it.
+[00:20:39.020 --> 00:20:40.020]   Super interesting.
+[00:20:40.020 --> 00:20:41.740]   Bill, I mean, you're like the software guru.
+[00:20:41.740 --> 00:20:43.340]   I mean, do you feel the same way?
+[00:20:43.340 --> 00:20:44.860]   I mean, yeah, we'll call it-- yeah.
+[00:20:44.860 --> 00:20:49.420]   Actually, I want to make a quick comment, especially with this slide on SaaS multiples.
+[00:20:49.420 --> 00:20:53.300]   So obviously, it's a price-to-revenue multiple slide.
+[00:20:53.300 --> 00:20:57.700]   And price-to-revenue is like this really crude valuation tool.
+[00:20:57.700 --> 00:21:00.700]   It's like the crudest you could possibly have.
+[00:21:00.700 --> 00:21:04.380]   I published a blog post once where I took all the internet stocks and laid them beginning
+[00:21:04.380 --> 00:21:06.500]   to end on a price-to-revenue multiple.
+[00:21:06.500 --> 00:21:09.060]   And it was just a massive diversion.
+[00:21:09.060 --> 00:21:11.400]   There is no such thing.
+[00:21:11.400 --> 00:21:15.660]   And so what really values companies-- it's typically a discount of cash flows.
+[00:21:15.660 --> 00:21:21.340]   And so now, all of a sudden, the buy side's asking SaaS companies about net dollar retention,
+[00:21:21.340 --> 00:21:27.180]   about long-term operating margin, about whether their free cash flow is greater or less than
+[00:21:27.180 --> 00:21:31.820]   their net income, about SBC as a percentage of free cash flow.
+[00:21:31.820 --> 00:21:32.820]   Stock-based comp.
+[00:21:32.820 --> 00:21:33.820]   Yeah.
+[00:21:33.820 --> 00:21:39.140]   So all of a sudden, everyone's brought out the microscope on how they're evaluating these
+[00:21:39.140 --> 00:21:44.140]   companies and these crude tools that maybe the only-- like, there are entrepreneurs who
+[00:21:44.140 --> 00:21:46.380]   probably think the only way you measure is SaaS.
+[00:21:46.380 --> 00:21:52.020]   And by the way, the companies that, in your example, all of a sudden run away with it
+[00:21:52.020 --> 00:21:55.140]   and get all the money, think about the problem they have.
+[00:21:55.140 --> 00:21:58.060]   Their growth is going to slow.
+[00:21:58.060 --> 00:22:01.420]   Nobody grows at 500% when you're at $1 billion.
+[00:22:01.420 --> 00:22:04.060]   You're lucky to grow at 25%, 30%.
+[00:22:04.060 --> 00:22:09.340]   So when your growth is slowing and your valuation is outsized like you were going to get to
+[00:22:09.340 --> 00:22:13.820]   $5 billion, how do they attract more capital?
+[00:22:13.820 --> 00:22:16.500]   This is why this whole game is very complicated right now.
+[00:22:16.500 --> 00:22:21.180]   There was also something that took hold over the course of the last two years, specifically
+[00:22:21.180 --> 00:22:24.700]   with respect to software, that this was an easy business.
+[00:22:24.700 --> 00:22:25.980]   You just send us your data.
+[00:22:25.980 --> 00:22:27.820]   I pop out a term sheet.
+[00:22:27.820 --> 00:22:31.140]   It's formulaic as though all software companies are created equal.
+[00:22:31.140 --> 00:22:35.940]   And you guys asked a question last week on the pod, how many software companies are actually
+[00:22:35.940 --> 00:22:38.020]   over $1 billion in revenue?
+[00:22:38.020 --> 00:22:39.020]   How many are over $2 billion?
+[00:22:39.020 --> 00:22:40.580]   Well, we actually went and counted.
+[00:22:40.580 --> 00:22:41.580]   Oh, good.
+[00:22:41.580 --> 00:22:42.580]   Right?
+[00:22:42.580 --> 00:22:43.860]   So we counted companies over $2 billion in revenue.
+[00:22:43.860 --> 00:22:46.860]   We got to 21.
+[00:22:46.860 --> 00:22:53.220]   There are only 21 that are worth more than $25 billion in all the public markets of all
+[00:22:53.220 --> 00:22:56.320]   the millions of software companies that have been started.
+[00:22:56.320 --> 00:23:04.020]   But what happened last year was you could be making dog walking software, and somebody
+[00:23:04.020 --> 00:23:09.560]   looked at your multiple and slapped a 100x on it and said you were worth that as though
+[00:23:09.560 --> 00:23:15.560]   that was the equivalent of building a database that would disrupt the entire database market.
+[00:23:15.560 --> 00:23:20.660]   So the thing that is returning to markets is something that we all do for a living called
+[00:23:20.660 --> 00:23:22.420]   dispersion.
+[00:23:22.420 --> 00:23:27.900]   Some shit's going to be really great, and the rest is going to be below the mean.
+[00:23:27.900 --> 00:23:34.380]   And if you look at software, the history of software, right, is that there are very, very
+[00:23:34.380 --> 00:23:37.700]   few companies that ever get to $1 billion in revenue.
+[00:23:37.700 --> 00:23:44.780]   And so if you were slapping 100x ARR multiple on a company doing $50 million in revenue,
+[00:23:44.780 --> 00:23:50.660]   it's highly likely that they will never see that price again, whatever you paid for that
+[00:23:50.660 --> 00:23:57.460]   asset, because the dilution and the deceleration in their growth rate will absolutely eviscerate
+[00:23:57.460 --> 00:23:59.680]   any return you have as an investor.
+[00:23:59.680 --> 00:24:04.900]   And so when you're looking at this, back to your point, not only are we looking at revenue
+[00:24:04.900 --> 00:24:09.780]   multiples, but we're also looking at something like Snowflake and saying, now they're doing
+[00:24:09.780 --> 00:24:12.980]   15% free cash flow and expanding those multiples.
+[00:24:12.980 --> 00:24:13.980]   All that stuff is critical.
+[00:24:13.980 --> 00:24:20.180]   Gurley, do you think it's weird that VCs don't try to underwrite lower valuations?
+[00:24:20.180 --> 00:24:22.880]   Like, the incentive is always to up your valuation.
+[00:24:22.880 --> 00:24:27.140]   Even if the company's performing plan, you don't generally do these market-driven value--
+[00:24:27.140 --> 00:24:29.180]   it's like, oh, you were worth $500 million last round.
+[00:24:29.180 --> 00:24:31.100]   We'll give you $1 billion this round.
+[00:24:31.100 --> 00:24:33.100]   And are we going to see more VCs do down rounds?
+[00:24:33.100 --> 00:24:35.660]   I just think that-- In companies that they're in?
+[00:24:35.660 --> 00:24:39.860]   There's no VC club where they get together and discuss how they're all going to behave.
+[00:24:39.860 --> 00:24:40.860]   But-- So you're looking at it.
+[00:24:40.860 --> 00:24:41.860]   You're looking at it.
+[00:24:41.860 --> 00:24:42.860]   You're at it too much.
+[00:24:42.860 --> 00:24:43.860]   The price fixing.
+[00:24:43.860 --> 00:24:51.860]   But keep in mind, as that risk on goes slowly up and up and up, and especially in Silicon
+[00:24:51.860 --> 00:24:56.540]   Valley, we've had a systematic shift of power from the investor to the founder over a very
+[00:24:56.540 --> 00:24:58.260]   long period of time.
+[00:24:58.260 --> 00:25:00.780]   People are friendly, because they want deal flow.
+[00:25:00.780 --> 00:25:02.820]   So nobody does it.
+[00:25:02.820 --> 00:25:03.820]   Nobody.
+[00:25:03.820 --> 00:25:04.820]   Well, let's talk about that.
+[00:25:04.820 --> 00:25:05.820]   So interesting.
+[00:25:05.820 --> 00:25:10.940]   You've seen deals happen where one-term sheet seems great for all shareholders, and then
+[00:25:10.940 --> 00:25:14.780]   this term sheet includes some secondary for the founders, and no governance seems pretty
+[00:25:14.780 --> 00:25:16.220]   great for the founders.
+[00:25:16.220 --> 00:25:21.100]   And somehow this one magically wins, and then somebody wins the deal by not taking a board
+[00:25:21.100 --> 00:25:22.100]   seat.
+[00:25:22.100 --> 00:25:25.900]   In the three decades you've been doing this now-- I think it's three or four?
+[00:25:25.900 --> 00:25:26.900]   Going into the fourth?
+[00:25:26.900 --> 00:25:27.900]   Wow.
+[00:25:27.900 --> 00:25:28.900]   It might be going into the fourth.
+[00:25:28.900 --> 00:25:32.660]   I mean, well, it's saying it actually-- He's in the fourth decade, yes.
+[00:25:32.660 --> 00:25:33.660]   He's in the fourth decade.
+[00:25:33.660 --> 00:25:34.660]   No.
+[00:25:34.660 --> 00:25:40.820]   When you look at governance, what is the mistake we've made over this last bull run?
+[00:25:40.820 --> 00:25:42.820]   Well, once again-- And what should it be?
+[00:25:42.820 --> 00:25:45.540]   Well, I think-- What's the right partnership?
+[00:25:45.540 --> 00:25:48.740]   I think what it should be is that the market gets to decide.
+[00:25:48.740 --> 00:25:57.340]   So if someone wants-- if someone can raise $100 million with no board seat, no rights,
+[00:25:57.340 --> 00:26:00.300]   and they want that, I think they should be able to do that.
+[00:26:00.300 --> 00:26:01.300]   Right.
+[00:26:01.300 --> 00:26:07.380]   And that's in the best interest of our industry, of all shareholders, the employees, the industry
+[00:26:07.380 --> 00:26:08.380]   at large.
+[00:26:08.380 --> 00:26:09.380]   I'm not dodging the question.
+[00:26:09.380 --> 00:26:10.380]   It's just super complicated.
+[00:26:10.380 --> 00:26:14.380]   We put money behind Rich Barton, and so both of us did.
+[00:26:14.380 --> 00:26:16.180]   And he had super voting.
+[00:26:16.180 --> 00:26:23.380]   But he also, I think, is very honorable about his duty to shareholders.
+[00:26:23.380 --> 00:26:25.780]   And so-- There was a track record there.
+[00:26:25.780 --> 00:26:26.780]   Yeah.
+[00:26:27.260 --> 00:26:32.980]   It never was an issue in the entire history of the company.
+[00:26:32.980 --> 00:26:37.900]   But if there's a first-time founder that's doing that, who knows?
+[00:26:37.900 --> 00:26:41.620]   Who knows what the motivation is?
+[00:26:41.620 --> 00:26:43.020]   But once again, it's a market.
+[00:26:43.020 --> 00:26:44.020]   It's a free market.
+[00:26:44.020 --> 00:26:50.140]   And I think that there are certain people or founders that decide, hey, you bring something
+[00:26:50.140 --> 00:26:54.420]   to the table that I want, and I understand there's a governance requirement to it, and
+[00:26:54.420 --> 00:26:56.100]   we'll opt into that.
+[00:26:56.100 --> 00:26:58.820]   And willing buyer meets willing seller.
+[00:26:58.820 --> 00:27:04.060]   Gurley, what do you guys-- Brett, what is your attitude when you guys actually have
+[00:27:04.060 --> 00:27:06.100]   a win?
+[00:27:06.100 --> 00:27:14.380]   You do the job, company goes public, and you have the chance to distribute to your LPs.
+[00:27:14.380 --> 00:27:18.100]   There's been a movement in Silicon Valley where some firms have said, you know what,
+[00:27:18.100 --> 00:27:19.100]   guys?
+[00:27:19.100 --> 00:27:20.100]   I'm going to hold this forever.
+[00:27:20.100 --> 00:27:24.420]   I'm going to create permanent capital structures, evergreen funds.
+[00:27:24.420 --> 00:27:29.780]   If you, foundation, want a distribution from me, just tell me, and I'll give you money
+[00:27:29.780 --> 00:27:32.100]   magically somehow, et cetera, et cetera.
+[00:27:32.100 --> 00:27:37.500]   What do you guys think about that versus just distributing and walking away, booking the
+[00:27:37.500 --> 00:27:38.500]   win?
+[00:27:38.500 --> 00:27:40.140]   And if you want to hold the stock, you just hold it in your own private--
+[00:27:40.140 --> 00:27:45.860]   Well, let me just start by saying that investing is really fucking hard.
+[00:27:45.860 --> 00:27:49.420]   And there's a lot of ways you can lose.
+[00:27:49.420 --> 00:27:54.940]   And when you guys started the podcast, I was listening to one of the episodes today, and
+[00:27:54.940 --> 00:27:57.020]   it really hit me.
+[00:27:57.020 --> 00:28:01.820]   In the song that you put together, David says, "Let your renters ride."
+[00:28:01.820 --> 00:28:05.540]   And so-- I remember that episode.
+[00:28:05.540 --> 00:28:10.500]   So from the brief history of the podcast, you've gone from talking about that as a strategy
+[00:28:10.500 --> 00:28:15.420]   to this question that you've posed to me, which is on the opposite end.
+[00:28:15.420 --> 00:28:16.420]   In my defense.
+[00:28:16.420 --> 00:28:17.420]   He's here.
+[00:28:17.420 --> 00:28:18.420]   He talks.
+[00:28:18.420 --> 00:28:19.420]   He's here.
+[00:28:19.420 --> 00:28:20.420]   He talks.
+[00:28:20.420 --> 00:28:21.420]   He's appeared.
+[00:28:21.420 --> 00:28:22.420]   He's awake.
+[00:28:22.420 --> 00:28:23.420]   Yes.
+[00:28:23.420 --> 00:28:24.420]   He's alive.
+[00:28:24.420 --> 00:28:25.420]   He lives.
+[00:28:25.420 --> 00:28:31.420]   We have all these great minds here, so I feel like I give them a chance to talk.
+[00:28:31.420 --> 00:28:35.460]   I'm like some of the people on the pod who like to hear themselves talk a little bit
+[00:28:35.460 --> 00:28:36.460]   too much.
+[00:28:36.460 --> 00:28:37.460]   He was resting his eyes.
+[00:28:37.460 --> 00:28:38.460]   He was resting his eyes.
+[00:28:38.460 --> 00:28:39.460]   All right.
+[00:28:39.460 --> 00:28:45.380]   Now, in fairness, when we had that conversation, as I recall, the context was that way back
+[00:28:45.380 --> 00:28:51.060]   when, like for example, when I had Facebook and Facebook went public, the urge was just
+[00:28:51.060 --> 00:28:52.580]   to sell it all.
+[00:28:52.580 --> 00:28:59.460]   And so I think where we landed on that was don't sell 100%, keep 20%, keep 50%.
+[00:28:59.460 --> 00:29:00.460]   But that was you personally.
+[00:29:00.460 --> 00:29:01.460]   It was schmuck insurance, basically.
+[00:29:01.460 --> 00:29:03.580]   Yeah, but that was for you personally as an investment.
+[00:29:03.580 --> 00:29:05.060]   What about you as a fund manager?
+[00:29:05.060 --> 00:29:11.420]   Yeah, I think for me as a fund manager-- so I think we did a pretty good job over the
+[00:29:11.420 --> 00:29:16.580]   last six months distributing out some gains, some realizations.
+[00:29:16.580 --> 00:29:18.560]   We actually paid back our whole first fund.
+[00:29:18.560 --> 00:29:23.940]   But in our second fund, we had about $120 million of a firm stock, and we were sitting
+[00:29:23.940 --> 00:29:26.780]   on it because we believe in the company and still do.
+[00:29:26.780 --> 00:29:28.060]   And we're still sitting on it.
+[00:29:28.060 --> 00:29:31.860]   And that was like a $100 million mistake.
+[00:29:31.860 --> 00:29:34.380]   So I think what's my attitude going to be from now on?
+[00:29:34.380 --> 00:29:36.940]   Honestly, my attitude from now on is probably going to be distributed.
+[00:29:36.940 --> 00:29:43.380]   So my first chance to actually return any real money to our LPs was when Slack did our
+[00:29:43.380 --> 00:29:44.940]   direct listing.
+[00:29:44.940 --> 00:29:51.020]   And it was like there are three or four of us on the board-- me, Andrew Brach at Excel,
+[00:29:51.020 --> 00:29:55.420]   John O'Farrell from Andreessen, two independents, and Stuart.
+[00:29:55.420 --> 00:30:02.020]   And they had gone through a couple of direct listings before, bring in our bankers, and
+[00:30:02.020 --> 00:30:03.780]   they go through this whole rigmarole.
+[00:30:03.780 --> 00:30:06.740]   And I remember being so amped up in the whole thing.
+[00:30:06.740 --> 00:30:08.740]   And I thought, oh, I believe in this company.
+[00:30:08.740 --> 00:30:10.380]   I believe in all of this, blah, blah, blah.
+[00:30:10.380 --> 00:30:13.220]   Long story short, the point is I held the stock.
+[00:30:13.220 --> 00:30:14.740]   I didn't distribute it.
+[00:30:14.740 --> 00:30:16.060]   The pandemic hit.
+[00:30:16.060 --> 00:30:18.980]   I then distributed in sheer panic.
+[00:30:18.980 --> 00:30:23.580]   And we left a lot of money on the table that I could have just booked the win for the LPs.
+[00:30:23.580 --> 00:30:26.300]   And then from that point, I said, never again.
+[00:30:26.300 --> 00:30:27.820]   I'll hold it for myself.
+[00:30:27.820 --> 00:30:30.920]   But the minute that I get a distribution, if I'm in the business of managing money for
+[00:30:30.920 --> 00:30:33.240]   other people, it's out the door when it's liquid.
+[00:30:33.240 --> 00:30:38.700]   And I'll be happy to take a point of view for my own shares.
+[00:30:38.700 --> 00:30:41.380]   But God, I felt so stupid.
+[00:30:41.380 --> 00:30:44.340]   I took a 50% loss trying to be a hero.
+[00:30:44.340 --> 00:30:49.420]   And then also, we have the issue of selling in secondary when those opportunities arise.
+[00:30:49.420 --> 00:30:55.420]   And we all just watched the "We Crashed" documentary, which one of your partners plays a role in.
+[00:30:55.420 --> 00:30:56.420]   I don't know.
+[00:30:56.420 --> 00:30:58.100]   Obviously, it's probably 5% reality.
+[00:30:58.100 --> 00:31:05.960]   But Benchmark did make a pretty amazing trade in selling WeWork shares early and booking
+[00:31:05.960 --> 00:31:08.040]   an enormous win.
+[00:31:08.040 --> 00:31:09.040]   Correct, Bill?
+[00:31:09.040 --> 00:31:10.040]   Correct.
+[00:31:10.040 --> 00:31:11.040]   Okay.
+[00:31:11.040 --> 00:31:12.040]   So just an alternative.
+[00:31:12.040 --> 00:31:13.040]   Wait, what's the answer to the question?
+[00:31:13.040 --> 00:31:14.040]   What do you distribute or not distribute?
+[00:31:14.040 --> 00:31:15.040]   Yeah, so please put it aside.
+[00:31:15.040 --> 00:31:16.040]   I was going to give you the answer.
+[00:31:16.040 --> 00:31:17.040]   Secondary options.
+[00:31:17.040 --> 00:31:28.040]   So to me, the most important thing is, if you're going to be able to sell, you have
+[00:31:28.040 --> 00:31:31.920]   to tell your partners what you're going to do and then do it.
+[00:31:31.920 --> 00:31:33.840]   Because you're making a deal up front.
+[00:31:33.840 --> 00:31:41.160]   So for us, the deal was, if we invest in something in our venture fund, and it's realized, it
+[00:31:41.160 --> 00:31:49.000]   goes public, if we see venture-like returns, which we define with them as 2 to 3x over
+[00:31:49.000 --> 00:31:52.320]   a three-year time horizon, we will hold.
+[00:31:52.320 --> 00:31:54.840]   If we don't, we distribute it.
+[00:31:54.840 --> 00:31:59.600]   Last year, we distributed over $6 billion, which was more than all the venture we raised
+[00:31:59.600 --> 00:32:01.360]   in our first five funds.
+[00:32:01.360 --> 00:32:02.360]   Why?
+[00:32:02.360 --> 00:32:05.680]   Not because I didn't like Unity or I didn't like Snowflake.
+[00:32:05.680 --> 00:32:07.900]   Everybody knows how we feel about these businesses.
+[00:32:07.900 --> 00:32:13.200]   But because we realized that, according to the deal we had made with our partners, the
+[00:32:13.200 --> 00:32:15.320]   framework was triggered.
+[00:32:15.320 --> 00:32:18.920]   And the second thing I would argue is, because people are talking about permanent funds now
+[00:32:18.920 --> 00:32:22.680]   and all this, I'm not sure that's the deal people made.
+[00:32:22.680 --> 00:32:27.760]   For me, if you're an investor or a limited partner in our fund and you want to hold on
+[00:32:27.760 --> 00:32:31.640]   to it, then also invest in my hedge fund.
+[00:32:31.640 --> 00:32:34.200]   Because there, we haven't sold a share of Snowflake.
+[00:32:34.200 --> 00:32:37.000]   But that is a different liquidity profile and a different--
+[00:32:37.000 --> 00:32:42.000]   But what I was getting to, Bill, and let's put work on the side, just in general, when
+[00:32:42.000 --> 00:32:47.720]   the opportunities for a firm to do a secondary arises, what's the right thing to do?
+[00:32:47.720 --> 00:32:48.720]   That's rare.
+[00:32:48.720 --> 00:32:50.680]   I mean, for an angel, I think it's very different.
+[00:32:50.680 --> 00:32:58.440]   But it's rare for a venture firm to meet a secondary that has the firepower to absorb
+[00:32:58.440 --> 00:32:59.440]   the-- that was Masa.
+[00:32:59.440 --> 00:33:02.400]   I mean, that was a very-- Unique situation.
+[00:33:02.400 --> 00:33:07.880]   We typically distribute over three to six quarters following the lockup release, unless
+[00:33:07.880 --> 00:33:08.880]   there's some exception.
+[00:33:08.880 --> 00:33:09.880]   Just systematically?
+[00:33:09.880 --> 00:33:10.880]   Yeah.
+[00:33:10.880 --> 00:33:11.880]   Yeah.
+[00:33:11.880 --> 00:33:12.880]   Dollar cost average, basically.
+[00:33:12.880 --> 00:33:13.880]   Yeah.
+[00:33:13.880 --> 00:33:15.200]   There have been a few exceptions.
+[00:33:15.200 --> 00:33:20.980]   We took Open Table Republican '09 at a very low value-- knowingly at a low valuation.
+[00:33:20.980 --> 00:33:23.520]   And I held that until we sold it to booking.
+[00:33:23.520 --> 00:33:27.000]   But because I felt the network effect was there and it was going to keep compounding
+[00:33:27.000 --> 00:33:28.000]   and that kind of thing.
+[00:33:28.000 --> 00:33:34.160]   And look, if you-- I mean, look, clearly, what Bezos has done or Zuckerberg, if you
+[00:33:34.160 --> 00:33:39.040]   think you're sitting on one of those and you-- I mean, you have to ask yourself--
+[00:33:39.040 --> 00:33:40.040]   Well, those are two.
+[00:33:40.040 --> 00:33:41.040]   Yeah.
+[00:33:41.040 --> 00:33:42.040]   Well, I know.
+[00:33:42.040 --> 00:33:43.040]   I know.
+[00:33:43.040 --> 00:33:44.040]   I know.
+[00:33:44.040 --> 00:33:48.160]   But maybe the Collison brothers are another one.
+[00:33:48.160 --> 00:33:51.360]   If it's going to play out the way those did, you're going to want to hold it.
+[00:33:51.360 --> 00:33:52.360]   Google it.
+[00:33:52.360 --> 00:33:53.360]   But they're very rare.
+[00:33:53.360 --> 00:33:57.880]   Have you and your partners watched both We Crashed and the dropout?
+[00:33:57.880 --> 00:33:59.040]   I can't speak for all of them.
+[00:33:59.040 --> 00:34:00.200]   I've watched both of them.
+[00:34:00.200 --> 00:34:01.200]   You watched both of them.
+[00:34:01.200 --> 00:34:04.680]   Which one was more accurate?
+[00:34:04.680 --> 00:34:12.280]   I think that-- well, I don't know about accurate because I only-- Super Pump was not accurate
+[00:34:12.280 --> 00:34:14.320]   just because they made up a lot of scenes.
+[00:34:14.320 --> 00:34:18.120]   Like Drummond wasn't very active at all, but he's in a lot of the scenes.
+[00:34:18.120 --> 00:34:20.560]   So a lot of them were made up.
+[00:34:20.560 --> 00:34:27.280]   I think Leto did a better job of showing you who Adam Newman is and really got into the
+[00:34:27.280 --> 00:34:28.280]   character.
+[00:34:28.280 --> 00:34:29.280]   He was incredible as Adam Newman.
+[00:34:29.280 --> 00:34:30.280]   He was so good as an actor.
+[00:34:30.280 --> 00:34:31.280]   Yeah.
+[00:34:31.280 --> 00:34:32.280]   And accurate.
+[00:34:32.280 --> 00:34:33.280]   Yeah.
+[00:34:33.280 --> 00:34:34.280]   To your mean having met.
+[00:34:34.280 --> 00:34:35.280]   Yeah.
+[00:34:35.280 --> 00:34:39.240]   And equally on the other side, I think that Travis, and you know him well, is way more
+[00:34:39.240 --> 00:34:40.240]   nuanced.
+[00:34:40.240 --> 00:34:45.720]   He's one of the grittiest, hardest working founders I've ever worked with.
+[00:34:45.720 --> 00:34:46.880]   He's super intelligent.
+[00:34:46.880 --> 00:34:48.800]   He can be really charming.
+[00:34:48.800 --> 00:34:51.600]   And those dimensions weren't explored in the characters.
+[00:34:51.600 --> 00:34:52.600]   Right.
+[00:34:52.600 --> 00:34:53.600]   Which I think is unfortunate.
+[00:34:53.600 --> 00:34:57.720]   I remember you telling me-- this was, I don't know, in the height of WeWork.
+[00:34:57.720 --> 00:35:02.000]   You said, Chamath, this is the single greatest salesman I've ever met in my life.
+[00:35:02.000 --> 00:35:04.680]   You told me also-- About Adam Newman.
+[00:35:04.680 --> 00:35:07.880]   You said the first time Adam Newman came in, you and your partners, he left the room and
+[00:35:07.880 --> 00:35:10.680]   you guys looked at each other and you guys were like, we just have to invest in this
+[00:35:10.680 --> 00:35:14.840]   guy because he can just-- I said we should never invest in real estate when we have to
+[00:35:14.840 --> 00:35:15.840]   do this deal.
+[00:35:15.840 --> 00:35:16.840]   Yeah.
+[00:35:16.840 --> 00:35:17.840]   Let's ask Brad a question.
+[00:35:17.840 --> 00:35:18.840]   Oh, wow.
+[00:35:18.840 --> 00:35:19.840]   Well, I watched the first-- Jay and I were watching We Crash.
+[00:35:19.840 --> 00:35:32.120]   I watched the first two episodes and the only thing I could think of, Bill, was what's Adam
+[00:35:32.120 --> 00:35:34.840]   Newman's next company and where do I send the check?
+[00:35:34.840 --> 00:35:37.320]   Because-- I think he already-- well, I don't know.
+[00:35:37.320 --> 00:35:38.320]   He's got something brewing.
+[00:35:38.320 --> 00:35:40.520]   I have a question for Brad.
+[00:35:40.520 --> 00:35:45.240]   So let's-- I wanted to go back to-- Good morning.
+[00:35:45.240 --> 00:35:47.640]   I've been up here for like eight hours today, Jay Cal.
+[00:35:47.640 --> 00:35:49.240]   I don't know how much more you want me to do.
+[00:35:49.240 --> 00:35:51.920]   I'm exhausted after an hour of these things.
+[00:35:51.920 --> 00:35:53.320]   I honestly don't know how you do it.
+[00:35:53.320 --> 00:35:54.320]   You have a round of applause.
+[00:35:54.320 --> 00:35:55.320]   True.
+[00:35:55.320 --> 00:36:01.040]   He's been interviewing people for like 10 hours.
+[00:36:01.040 --> 00:36:03.560]   I'm like done after an hour and a half.
+[00:36:03.560 --> 00:36:09.000]   Brad, so let's go back to the 100 times ARR multiples that people were paying last year.
+[00:36:09.000 --> 00:36:13.880]   Because these investors, with the benefit of 20/20 hindsight, they may look kind of
+[00:36:13.880 --> 00:36:20.600]   sheepish but we know these investors and the pace car setting the valuations for the whole
+[00:36:20.600 --> 00:36:23.360]   industry, it was these big giant hedge funds.
+[00:36:23.360 --> 00:36:25.080]   We all know who I'm talking about.
+[00:36:25.080 --> 00:36:29.040]   They're super sophisticated people.
+[00:36:29.040 --> 00:36:34.880]   They're been very successful investors for a long period of time.
+[00:36:34.880 --> 00:36:41.400]   The word used when we talked about it privately was gaslight.
+[00:36:41.400 --> 00:36:48.180]   The market was sort of gaslighting all of us into thinking that the public comps for
+[00:36:48.180 --> 00:36:51.240]   these companies were much higher than they were.
+[00:36:51.240 --> 00:36:56.480]   Is that why-- is that behind the psychology of why these very sophisticated investors
+[00:36:56.480 --> 00:37:00.840]   made these big mistakes or how do you explain that?
+[00:37:00.840 --> 00:37:07.280]   I think there's a massive amount of research that's been done that Buffett and Marx and
+[00:37:07.280 --> 00:37:12.720]   many others have quoted that your ability to calculate risk goes down when you see a
+[00:37:12.720 --> 00:37:17.040]   bunch of other people doing that thing.
+[00:37:17.040 --> 00:37:21.440]   Because your body, your mind's telling you, "Well, I won't die because I'm just doing
+[00:37:21.440 --> 00:37:23.880]   what those other 100 people are."
+[00:37:23.880 --> 00:37:25.760]   That's why there's herd mentality.
+[00:37:25.760 --> 00:37:29.280]   That's why the lemming effect-- Confirmation bias.
+[00:37:29.280 --> 00:37:30.280]   Confirmation bias.
+[00:37:30.280 --> 00:37:35.360]   It's not that-- I mean, you didn't name them, but Tiger.
+[00:37:35.360 --> 00:37:36.360]   We know them.
+[00:37:36.360 --> 00:37:38.080]   They're great investors, et cetera.
+[00:37:38.080 --> 00:37:43.240]   You had to understand they were playing a different game.
+[00:37:43.240 --> 00:37:49.560]   When people who were building portfolios of 20 names were trying to play the same game
+[00:37:49.560 --> 00:38:00.160]   as a firm building a portfolio of 400 names, it was like trying to follow SoftBank in 2017.
+[00:38:00.160 --> 00:38:04.280]   We all thought SoftBank was going to be a wipeout in Vision 1.
+[00:38:04.280 --> 00:38:05.280]   It wasn't.
+[00:38:05.280 --> 00:38:08.160]   Now, I know he just had a huge recent mark.
+[00:38:08.160 --> 00:38:10.680]   We'll see where it ultimately settles out.
+[00:38:10.680 --> 00:38:17.440]   I think from my perspective, like Bill said, you get forced onto the field.
+[00:38:17.440 --> 00:38:22.000]   There's a certain amount you have to do to stay in the game, to have the conversation.
+[00:38:22.000 --> 00:38:27.960]   But listen, as far back as last April, we were sitting around the table on Thursday
+[00:38:27.960 --> 00:38:31.840]   at your place saying, "This can't continue."
+[00:38:31.840 --> 00:38:36.040]   Then in the fall, it was Bezos is selling, Musk is selling.
+[00:38:36.040 --> 00:38:40.240]   All the signals were going off.
+[00:38:40.240 --> 00:38:42.880]   I think you have to know the game that you're playing.
+[00:38:42.880 --> 00:38:47.180]   If you're a seed investor, an early stage investor, it doesn't matter what everybody
+[00:38:47.180 --> 00:38:48.560]   else is doing.
+[00:38:48.560 --> 00:38:52.320]   You have an obligation to play a differentiated game.
+[00:38:52.320 --> 00:38:56.880]   What I would say today is if somebody calls me up tomorrow and says, "Hey, Tiger's doing
+[00:38:56.880 --> 00:38:58.760]   this deal at 75 times ARR.
+[00:38:58.760 --> 00:39:00.220]   Do you want to do it?"
+[00:39:00.220 --> 00:39:04.640]   They would have to pry the dollar out of my fucking hand with a crowbar.
+[00:39:04.640 --> 00:39:10.400]   I'm not risking my money or my partner's money doing something that we're not underwriting.
+[00:39:10.400 --> 00:39:14.480]   No, I'm willing to underwrite, David, to that five-year average.
+[00:39:14.480 --> 00:39:18.240]   I think what you have in the market now is a huge opportunity because people are in a
+[00:39:18.240 --> 00:39:24.200]   fetal position under their desks, scared that the world is forever changed because the CEOs
+[00:39:24.200 --> 00:39:30.600]   of big banks go on CNBC and start hyperventilating about deglobalization and hyperinflation and
+[00:39:30.600 --> 00:39:31.720]   all this stuff.
+[00:39:31.720 --> 00:39:37.120]   Not one of them has actually built a model and deconstructed the components of CPI.
+[00:39:37.120 --> 00:39:43.160]   I think the much more likely explanation is that the trends that existed for 20 years
+[00:39:43.160 --> 00:39:44.800]   still exist.
+[00:39:44.800 --> 00:39:51.320]   They were interrupted temporarily by us saving ourselves from a catastrophe with COVID.
+[00:39:51.320 --> 00:39:56.080]   The transient thing that everybody has come to make fun of, right?
+[00:39:56.080 --> 00:39:59.480]   Transient can be a year, two years, three years.
+[00:39:59.480 --> 00:40:05.680]   We will look back at this graph and that inflation will roll over and I suspect that those trends
+[00:40:05.680 --> 00:40:06.680]   will continue.
+[00:40:06.680 --> 00:40:09.120]   I'm willing to underwrite to that.
+[00:40:09.120 --> 00:40:13.960]   If you told me you thought inflation was going to be 5% for the next decade and the 10-year
+[00:40:13.960 --> 00:40:19.040]   was going to 7%, I would say short every tech company in the market.
+[00:40:19.040 --> 00:40:20.600]   No, no, no, short everything.
+[00:40:20.600 --> 00:40:26.200]   Short everything in the market and don't invest a dollar in venture until you have line of
+[00:40:26.200 --> 00:40:28.800]   sight and the market has repriced it.
+[00:40:28.800 --> 00:40:31.380]   That's what the market is wrestling with right now.
+[00:40:31.380 --> 00:40:38.380]   We have some people who are saying markets abhor uncertainty and you have peak uncertainty.
+[00:40:38.380 --> 00:40:40.580]   We have a war.
+[00:40:40.580 --> 00:40:43.020]   This is the hardest forecasting job in my career.
+[00:40:43.020 --> 00:40:44.020]   I'll shut up.
+[00:40:44.020 --> 00:40:45.020]   You have filibustering.
+[00:40:45.020 --> 00:40:46.420]   Not quite.
+[00:40:46.420 --> 00:40:48.660]   I think that is ultimately the question.
+[00:40:48.660 --> 00:40:52.420]   If you're a founder or you're an investor, what are you willing to underwrite to?
+[00:40:52.420 --> 00:40:53.420]   Yeah.
+[00:40:53.420 --> 00:40:57.060]   Bill, what are your thoughts in terms of early stage and Series A?
+[00:40:57.060 --> 00:40:59.060]   Yeah, that's exactly what I was thinking.
+[00:40:59.060 --> 00:41:00.060]   Me too.
+[00:41:00.060 --> 00:41:03.220]   I don't take it that way.
+[00:41:03.220 --> 00:41:06.820]   We love to invest in two people in a PowerPoint.
+[00:41:06.820 --> 00:41:13.700]   That investment can happen today and it doesn't matter if the inflation pops or interest rates
+[00:41:13.700 --> 00:41:14.700]   go up.
+[00:41:14.700 --> 00:41:15.700]   It won't affect them.
+[00:41:15.700 --> 00:41:16.700]   It doesn't even matter if there's a war.
+[00:41:16.700 --> 00:41:17.700]   It might help actually.
+[00:41:17.700 --> 00:41:20.980]   Yes, because you're hiring people at half price.
+[00:41:20.980 --> 00:41:21.980]   Right.
+[00:41:21.980 --> 00:41:23.500]   And there's less competition.
+[00:41:23.500 --> 00:41:29.820]   My biggest problem of the past six years was hyper competition.
+[00:41:29.820 --> 00:41:30.820]   Hiring a CFO.
+[00:41:30.820 --> 00:41:31.820]   No, not just talent.
+[00:41:31.820 --> 00:41:38.820]   I'm talking about Uber and Lyft and like hundreds of billions of dollars of money raised in
+[00:41:38.820 --> 00:41:42.980]   the private market and shot onto the playing field out of a cannon.
+[00:41:42.980 --> 00:41:45.340]   That's brutal.
+[00:41:45.340 --> 00:41:49.100]   And that's not happening if inflation's going up.
+[00:41:49.100 --> 00:41:53.540]   It doesn't allow the market to really sort out the winners and losers properly because
+[00:41:53.540 --> 00:41:58.260]   the companies that should contract get propped up for a little bit longer.
+[00:41:58.260 --> 00:42:02.460]   There's some talented people in those companies that don't then end up in the right home.
+[00:42:02.460 --> 00:42:03.740]   I said this last week.
+[00:42:03.740 --> 00:42:08.060]   The most transformational moment in our company's history, at Facebook's history, was during
+[00:42:08.060 --> 00:42:13.300]   the GFC because of the fact that there weren't any other alternatives to go and work.
+[00:42:13.300 --> 00:42:17.660]   By the way, I found, and I shared this with my partners the other day, I found through
+[00:42:17.660 --> 00:42:24.740]   my career, which wasn't four decades, but okay, that the window after the correction
+[00:42:24.740 --> 00:42:30.260]   is the calmest where there's least anxiety, for me at least.
+[00:42:30.260 --> 00:42:31.900]   Everything slows down.
+[00:42:31.900 --> 00:42:33.340]   People talk rationally.
+[00:42:33.340 --> 00:42:34.740]   People aren't doing silly things.
+[00:42:34.740 --> 00:42:36.220]   It's nice, like a walk on the beach.
+[00:42:36.220 --> 00:42:40.780]   There's a lot more communication that seems rational and pragmatic.
+[00:42:40.780 --> 00:42:45.140]   And you can also maybe get to know a founder, understand the business over three, four,
+[00:42:45.140 --> 00:42:48.900]   five weeks and make a decision as opposed to three, four, five hours and they tell you,
+[00:42:48.900 --> 00:42:49.900]   hey, term sheets.
+[00:42:49.900 --> 00:42:57.860]   Some people think about unit economics in a more reasonable way and you're not.
+[00:42:57.860 --> 00:43:00.700]   This is why, I mean the two of you invested in Uber.
+[00:43:00.700 --> 00:43:03.100]   I know because we've had this conversation.
+[00:43:03.100 --> 00:43:05.140]   Well, he mentions it pretty frequently.
+[00:43:05.140 --> 00:43:06.140]   You're too humble to take credit.
+[00:43:06.140 --> 00:43:12.020]   I did get it for $25 million in valuation.
+[00:43:12.020 --> 00:43:18.740]   But Bill's talked about, Benchmark's legendary for investing in eBay and it was winner take
+[00:43:18.740 --> 00:43:19.740]   all.
+[00:43:19.740 --> 00:43:20.740]   Winner take all.
+[00:43:20.740 --> 00:43:21.740]   Winner take all.
+[00:43:21.740 --> 00:43:22.740]   Yeah.
+[00:43:22.740 --> 00:43:27.140]   And I suspect that when you invested in Uber, you saw similar network effects.
+[00:43:27.140 --> 00:43:30.580]   You said, oh my God, an even bigger market.
+[00:43:30.580 --> 00:43:33.540]   This is going to be winner take all.
+[00:43:33.540 --> 00:43:41.540]   Unfortunately, what you didn't plan on was Masa raiding Saudi Arabia, getting $100 billion
+[00:43:41.540 --> 00:43:46.980]   of free money and then blowing it out of a can and into the market so Lyft and everybody
+[00:43:46.980 --> 00:43:49.780]   else could do dis-economic things.
+[00:43:49.780 --> 00:43:51.780]   And literally for- I did not foresee that.
+[00:43:51.780 --> 00:43:52.780]   For seven years.
+[00:43:52.780 --> 00:43:53.780]   The confetti cannon was not predicted.
+[00:43:53.780 --> 00:44:01.620]   So the entire profit margin of Uber was competed away by stupidity.
+[00:44:01.620 --> 00:44:05.860]   And you tweeted last week, and I noticed it because Jason and I may have a little something
+[00:44:05.860 --> 00:44:08.540]   on the line here with respect to Uber.
+[00:44:08.540 --> 00:44:13.100]   For the first time you tweeted after their quarterly earnings, maybe we're starting to
+[00:44:13.100 --> 00:44:16.500]   see network effects show up at Uber.
+[00:44:16.500 --> 00:44:19.540]   Because if you listen to the Lyft call, it was a train wreck.
+[00:44:19.540 --> 00:44:25.100]   For a decade, what that money did was it made those businesses what we call the consumer
+[00:44:25.100 --> 00:44:26.740]   surplus business.
+[00:44:26.740 --> 00:44:28.620]   Meaning what is a consumer surplus business?
+[00:44:28.620 --> 00:44:30.200]   It's when all you win.
+[00:44:30.200 --> 00:44:31.200]   Nobody else wins.
+[00:44:31.200 --> 00:44:32.200]   The employees don't win.
+[00:44:32.200 --> 00:44:33.420]   The shareholders don't win.
+[00:44:33.420 --> 00:44:35.260]   The investors don't win.
+[00:44:35.260 --> 00:44:36.260]   Consumers win.
+[00:44:36.260 --> 00:44:38.060]   You're getting subsidized rides.
+[00:44:38.060 --> 00:44:39.980]   You're getting subsidized food delivery.
+[00:44:39.980 --> 00:44:42.540]   You're getting some subsidized form of content.
+[00:44:42.540 --> 00:44:47.780]   And there are these consumer surplus businesses that abound right now, that still exist, which
+[00:44:47.780 --> 00:44:53.020]   are propped up by dollars that aren't being, that they're not being allocated because they're
+[00:44:53.020 --> 00:44:54.020]   competitive.
+[00:44:54.020 --> 00:44:55.020]   That's just because they had to-
+[00:44:55.020 --> 00:44:57.820]   Negative unit economics to drive growth.
+[00:44:57.820 --> 00:45:01.500]   I mean, Lyft said on their call that they were going to continue subsidizing.
+[00:45:01.500 --> 00:45:04.900]   In fact, they're going to increase their coupons.
+[00:45:04.900 --> 00:45:05.900]   I have a question for you guys.
+[00:45:05.900 --> 00:45:06.900]   While the plane is about to hit a mountain.
+[00:45:06.900 --> 00:45:11.620]   Sorry, Bill, I just want to ask you.
+[00:45:11.620 --> 00:45:16.020]   The negative unit economics to drive growth trend was a big one for the last eight years.
+[00:45:16.020 --> 00:45:21.060]   And it certainly seemed to have played out at Uber, but a lot of other delivery companies.
+[00:45:21.060 --> 00:45:25.100]   Do you think that as a strategy, assuming capital availability, negative unit economics
+[00:45:25.100 --> 00:45:27.940]   to drive growth, and then once you have the network, and once you grab the market, you
+[00:45:27.940 --> 00:45:30.300]   make money, is a reasonable strategy?
+[00:45:30.300 --> 00:45:33.820]   It all depends on whether you can rein it back in or not.
+[00:45:33.820 --> 00:45:36.980]   And I think DoorDash did an incredible job.
+[00:45:36.980 --> 00:45:40.940]   I think Jeff Bezos did an incredible job back in '01.
+[00:45:40.940 --> 00:45:46.820]   I think if 50 entrepreneurs try that trick, 49 are going to auger in.
+[00:45:46.820 --> 00:45:49.460]   By the way, that's the best.
+[00:45:49.460 --> 00:45:50.780]   I think that's such a key takeaway.
+[00:45:50.780 --> 00:45:53.300]   Well, there's another part about it.
+[00:45:53.300 --> 00:45:57.300]   You can only pull it off as well as if in that moment you have an effective monopoly,
+[00:45:57.300 --> 00:46:01.580]   which Bezos effectively did, and Tony did in those markets where he was operating.
+[00:46:01.580 --> 00:46:04.420]   Nobody else was competing in Palo Alto, California.
+[00:46:04.420 --> 00:46:05.420]   And you know-
+[00:46:05.420 --> 00:46:07.740]   Well, they weren't competing the way he was.
+[00:46:07.740 --> 00:46:08.740]   For sure.
+[00:46:08.740 --> 00:46:10.180]   I have a question for the two of you guys.
+[00:46:10.180 --> 00:46:15.460]   What do you guys think about something like Instacart in a moment like this?
+[00:46:15.460 --> 00:46:18.780]   So $40-odd billion valuation maybe gets reset to 24.
+[00:46:18.780 --> 00:46:20.380]   They file to go public?
+[00:46:20.380 --> 00:46:21.780]   They file to go public confidentially.
+[00:46:21.780 --> 00:46:24.100]   Are you guys investors?
+[00:46:24.100 --> 00:46:25.100]   I'm not.
+[00:46:25.100 --> 00:46:26.500]   I'm not, no.
+[00:46:26.500 --> 00:46:28.740]   So candidly, what's going on here?
+[00:46:28.740 --> 00:46:33.540]   I mean, I think it's a provocative question because you have a business that's raised
+[00:46:33.540 --> 00:46:39.100]   a ton of capital that was born of the air that we're talking about that probably did
+[00:46:39.100 --> 00:46:40.100]   things that were-
+[00:46:40.100 --> 00:46:41.100]   Unnatural.
+[00:46:41.100 --> 00:46:43.780]   If they weren't negative unit economics, they were close.
+[00:46:43.780 --> 00:46:48.180]   And they talked about it because they would say publicly, "We're going to roll in advertising
+[00:46:48.180 --> 00:46:50.780]   and then that's going to bring us-"
+[00:46:50.780 --> 00:46:53.700]   I got in trouble once.
+[00:46:53.700 --> 00:46:56.700]   This is on Bloomberg, so I think you can find this clip.
+[00:46:56.700 --> 00:47:03.020]   But I was talking to Emily Chang and she said something to the effect of, "Did you just
+[00:47:03.020 --> 00:47:05.660]   see this latest Sequoia round?"
+[00:47:05.660 --> 00:47:06.660]   And I made this joke.
+[00:47:06.660 --> 00:47:07.660]   It was a complete joke.
+[00:47:07.660 --> 00:47:08.660]   It's not true.
+[00:47:08.660 --> 00:47:13.180]   I went to Instacart, I bought one mango, had it delivered for free.
+[00:47:13.180 --> 00:47:14.860]   Then I bought a second mango.
+[00:47:14.860 --> 00:47:17.820]   I sent an email to Doug Leone, "Thanks for the second mango."
+[00:47:17.820 --> 00:47:19.500]   What a douche.
+[00:47:19.500 --> 00:47:24.500]   I bought four grapes and I said, "Consumer surplus."
+[00:47:24.500 --> 00:47:27.580]   I mean, you can get four grapes whenever you want.
+[00:47:27.580 --> 00:47:31.380]   It's hard to judge a company from the outside because you can't look at the financials.
+[00:47:31.380 --> 00:47:35.100]   But the product experience has evolved over a very long period of time.
+[00:47:35.100 --> 00:47:36.900]   It's actually pretty good.
+[00:47:36.900 --> 00:47:41.580]   I suspect there's an asset value there and whether that can match up with what someone
+[00:47:41.580 --> 00:47:43.260]   can afford to pay.
+[00:47:43.260 --> 00:47:45.260]   We got to wrap.
+[00:47:45.260 --> 00:47:47.340]   Bill, just final question here.
+[00:47:47.340 --> 00:47:48.340]   Wait, wait, wait.
+[00:47:48.340 --> 00:47:50.180]   Why do you get to ask the final question?
+[00:47:50.180 --> 00:47:51.180]   We want to know where the markets are going.
+[00:47:51.180 --> 00:47:52.180]   It's about feeling sincere.
+[00:47:52.180 --> 00:47:54.180]   Ask the world where the markets are going.
+[00:47:54.180 --> 00:47:55.180]   All right.
+[00:47:55.180 --> 00:48:01.700]   Brad, where's the market going to be at this time next year?
+[00:48:01.700 --> 00:48:08.340]   We will be higher for growth stocks this time next year, but we may very well get there
+[00:48:08.340 --> 00:48:16.880]   by way of lower and potentially meaningfully lower because the counterfactual to the hyperinflation
+[00:48:16.880 --> 00:48:23.740]   argument is not, you can't deliver the counterfactual for at least four to five months.
+[00:48:23.740 --> 00:48:28.240]   The facts don't exist until we actually see the facts play out.
+[00:48:28.240 --> 00:48:33.740]   But my suspicion is we return to trend, things become more predictable and investable again,
+[00:48:33.740 --> 00:48:35.540]   and we bounce back up to the five-year average.
+[00:48:35.540 --> 00:48:36.540]   All right.
+[00:48:36.540 --> 00:48:37.540]   Back now for you, Bill.
+[00:48:37.540 --> 00:48:38.540]   Final question.
+[00:48:38.540 --> 00:48:39.540]   I don't get that one?
+[00:48:39.540 --> 00:48:40.540]   No.
+[00:48:40.540 --> 00:48:41.540]   Too easy.
+[00:48:41.540 --> 00:48:44.540]   You can answer it if you like, but I got a more important one.
+[00:48:44.540 --> 00:48:45.540]   6.385% higher.
+[00:48:45.540 --> 00:48:46.540]   Okay.
+[00:48:46.540 --> 00:48:50.620]   I know you're not going to answer it, so I got a better one for you.
+[00:48:50.620 --> 00:48:53.260]   You're not in the next benchmark fund.
+[00:48:53.260 --> 00:48:57.700]   Essentially, that means retirement of the spurs.
+[00:48:57.700 --> 00:49:00.020]   Now the market's down.
+[00:49:00.020 --> 00:49:02.240]   You seem like you're a little bit bored.
+[00:49:02.240 --> 00:49:05.340]   Are you going to get back into early stage investing, yes or no?
+[00:49:05.340 --> 00:49:08.380]   And are you missing it?
+[00:49:08.380 --> 00:49:11.460]   I think ... I don't know what that was.
+[00:49:11.460 --> 00:49:17.500]   I think I might get intrigued with doing angel stuff the way Bezos did.
+[00:49:17.500 --> 00:49:21.740]   I don't think I want to practice the art taking board seats.
+[00:49:21.740 --> 00:49:27.540]   I'm still on 10 that I'm serving dutifully, and I've played that game.
+[00:49:27.540 --> 00:49:30.020]   Probably similar to what David said about operating a business.
+[00:49:30.020 --> 00:49:33.780]   You meet a great founder, they got a good idea, you vibe, you put in a 500K check.
+[00:49:33.780 --> 00:49:35.460]   Yeah, I'd be open to that.
+[00:49:35.460 --> 00:49:39.180]   Do you want to tell ... I'm very excited about public stocks here, actually.
+[00:49:39.180 --> 00:49:40.180]   Really?
+[00:49:40.180 --> 00:49:41.180]   Yeah.
+[00:49:41.180 --> 00:49:42.180]   Continue.
+[00:49:42.180 --> 00:49:43.180]   You're excited about what?
+[00:49:43.180 --> 00:49:44.180]   Public stocks.
+[00:49:44.180 --> 00:49:45.180]   Like the valuations are getting super interesting.
+[00:49:45.180 --> 00:49:46.180]   Crazy.
+[00:49:46.180 --> 00:49:47.180]   Such good deals out there.
+[00:49:47.180 --> 00:49:48.180]   Super interesting.
+[00:49:48.180 --> 00:49:49.180]   You want to do your Bill Gurley imitation?
+[00:49:49.180 --> 00:49:50.180]   You guys got to hear this.
+[00:49:50.180 --> 00:49:51.180]   At the poker table.
+[00:49:51.180 --> 00:49:52.180]   J-Cal, you know, it's a great question.
+[00:49:52.180 --> 00:49:53.180]   Do I have to stay out here for this?
+[00:49:53.180 --> 00:49:54.180]   Yes.
+[00:49:54.180 --> 00:49:55.180]   I've been ...
+[00:49:55.180 --> 00:50:03.660]   I've been investing for the better part of three or four decades, closer to four, and
+[00:50:03.660 --> 00:50:05.860]   10 boards I dutifully served on.
+[00:50:05.860 --> 00:50:14.860]   Every time I shove it all in with kings, your mouth sucks out on me with a nine, 10 suited,
+[00:50:14.860 --> 00:50:20.620]   and that's just my luck right now, so maybe I'll just look at the public market cards.
+[00:50:20.620 --> 00:50:22.940]   I'll just have ... be liquid.
+[00:50:22.940 --> 00:50:24.940]   I'll be a liquid.
+[00:50:24.940 --> 00:50:28.780]   All right, ladies and gentlemen, BG Squared.
+[00:50:28.780 --> 00:50:30.780]   BG Squared, baby.
+[00:50:30.780 --> 00:50:33.780]   We'll let your winners ride.
+[00:50:33.780 --> 00:50:36.780]   Rain Man David Sackson.
+[00:50:36.780 --> 00:50:47.780]   And instead, we open source it to the fans, and they've just gone crazy with it.
+[00:50:47.780 --> 00:50:48.780]   Love you, Wesley.
+[00:50:48.780 --> 00:50:49.780]   I'm queen of quinoa.
+[00:50:49.780 --> 00:50:54.780]   I'm queen of quinoa.
+[00:50:54.780 --> 00:50:59.780]   I'm queen of quinoa.
+[00:50:59.780 --> 00:51:04.780]   I'm queen of quinoa.
+[00:51:04.780 --> 00:51:09.780]   I'm queen of quinoa.
+[00:51:09.780 --> 00:51:14.780]   I'm queen of quinoa.
+[00:51:14.780 --> 00:51:20.780]   I'm queen of quinoa.
+[00:51:21.780 --> 00:51:24.780]   I'm queen of quinoa.
+[00:51:24.780 --> 00:51:27.780]   I'm queen of quinoa.
+[00:51:27.780 --> 00:51:30.780]   I'm queen of quinoa.
+[00:51:30.780 --> 00:51:32.840]   you
+

@@ -1,0 +1,1008 @@
+
+[00:00:00.000 --> 00:00:04.120]   Next up is my good friend Tim Urban from Wait But Why. I asked him to do this as a favor.
+[00:00:04.120 --> 00:00:07.880]   He gets a huge speaking fee. I said we have no budget.
+[00:00:07.880 --> 00:00:12.680]   He said, "Jake, I think it's 7,500 a ticket." I said, "I have no budget. I stole it all."
+[00:00:12.680 --> 00:00:20.460]   And he has the number one talk in the history of TED on YouTube. My pal, Tim Urban.
+[00:00:20.460 --> 00:00:22.460]   [Applause]
+[00:00:22.460 --> 00:00:24.460]   [Music]
+[00:00:24.460 --> 00:00:26.460]   "Let your winners ride."
+[00:00:26.460 --> 00:00:28.460]   "Rain Man David Sacks."
+[00:00:28.460 --> 00:00:30.460]   "I'm going all in."
+[00:00:30.460 --> 00:00:35.460]   "We open sourced it to the fans and they've just gone crazy with it."
+[00:00:35.460 --> 00:00:37.460]   "I love you guys."
+[00:00:37.460 --> 00:00:39.460]   "Queen of Quinoa."
+[00:00:39.460 --> 00:00:45.460]   He said something yesterday to Nate Silver when he ate one poker and he was like, "Oh, I'm going to take away your speaking fee."
+[00:00:45.460 --> 00:00:47.460]   And I was like, "The fuck? Speaking fee?"
+[00:00:47.460 --> 00:00:49.460]   [Laughter]
+[00:00:49.460 --> 00:00:57.460]   All right. So, the title of my talk is Tim Talks About Politics and Other Things That Are Probably a Bad Idea to Talk About in Front of All These People.
+[00:00:57.460 --> 00:00:59.460]   [Laughter]
+[00:00:59.460 --> 00:01:03.460]   And I want to start with why am I even writing about politics? I don't like politics.
+[00:01:03.460 --> 00:01:08.460]   I like writing about the science and tech and the future and procrastination and things that interest me.
+[00:01:08.460 --> 00:01:15.460]   But as I'm thinking about the future and all this awesome stuff that we could have, I started to have a bad feeling.
+[00:01:15.460 --> 00:01:19.460]   I would think of society kind of like a giant organism.
+[00:01:19.460 --> 00:01:24.460]   And this is how I always grew up assuming that society was like. It was like a big grown-up.
+[00:01:24.460 --> 00:01:31.460]   But when I looked around, it looked more like a poopy pants six-year-old who dropped its ice cream.
+[00:01:31.460 --> 00:01:35.460]   And I feel like this is what a lot of people are kind of getting at in these talks.
+[00:01:35.460 --> 00:01:41.460]   We're talking about kind of all this crazy polarization and mobs and all that.
+[00:01:41.460 --> 00:01:45.460]   And to me, I just look out and I see this. I see kind of reverting and people are acting like they're in middle school.
+[00:01:45.460 --> 00:01:49.460]   And we can't communicate. And what's going on?
+[00:01:49.460 --> 00:01:54.460]   So, I started putting my mind to this. Now, what was the problem?
+[00:01:54.460 --> 00:01:58.460]   And the problem is very complicated. And I'm not going to try to get into the whole thing today.
+[00:01:58.460 --> 00:02:04.460]   But I think that what we can do is have a better framework to talk about the problem.
+[00:02:04.460 --> 00:02:08.460]   I think that we are very constrained to this one-dimensional axis.
+[00:02:08.460 --> 00:02:11.460]   It's like a straitjacket in our conversations.
+[00:02:11.460 --> 00:02:17.460]   You hear people say, "The problem is the far left and the far right. We need to be in the center. We need to be more moderate."
+[00:02:17.460 --> 00:02:20.460]   But what is that? The center is just a policy position.
+[00:02:20.460 --> 00:02:26.460]   The far left and far right aren't inherently bad. The far left is just kind of radical and questioning everything.
+[00:02:26.460 --> 00:02:28.460]   And they're experimental. And the far right is just questioning.
+[00:02:28.460 --> 00:02:31.460]   Maybe we messed up. Maybe we should go back to the way things were.
+[00:02:31.460 --> 00:02:35.460]   There's nothing inherently better or worse about any part of this spectrum.
+[00:02:35.460 --> 00:02:38.460]   But we're using these words to try to get at something else.
+[00:02:38.460 --> 00:02:41.460]   We say "centrist," "moderate." We don't really mean in the middle of the spectrum.
+[00:02:41.460 --> 00:02:45.460]   I think we're talking about a different axis. I call it the "ladder."
+[00:02:45.460 --> 00:02:49.460]   So, I think bringing our political discussions into two dimensions can be hugely helpful.
+[00:02:49.460 --> 00:02:53.460]   Now, sometimes you'll see the political compass. You'll see politics in 2D.
+[00:02:53.460 --> 00:02:58.460]   But that's still all what you think. That's all different ways to look at what you think about politics.
+[00:02:58.460 --> 00:03:01.460]   The ladder is a how you think axis.
+[00:03:01.460 --> 00:03:05.460]   So, there's some nuance to it. It's a spectrum.
+[00:03:05.460 --> 00:03:09.460]   But for our purposes, let's just focus on the two kind of core ideas here.
+[00:03:09.460 --> 00:03:14.460]   There's high-rung political thinking, high-rung politics, and low-rung politics.
+[00:03:14.460 --> 00:03:21.460]   So, the high-rungs, you can kind of divide into high-rung progressivism and high-rung conservatism.
+[00:03:21.460 --> 00:03:24.460]   Which I kind of think of as two arguing giants.
+[00:03:24.460 --> 00:03:34.460]   The collective efforts of high-rung progressivism and conservatism are kind of like lawyers in a courtroom.
+[00:03:34.460 --> 00:03:37.460]   They're heated. They don't like each other a lot of the time.
+[00:03:37.460 --> 00:03:39.460]   They have very different ideas of how things should go.
+[00:03:39.460 --> 00:03:42.460]   But it's kind of like the two lawyers in a courtroom.
+[00:03:42.460 --> 00:03:46.460]   This is kind of a wink that goes on where they understand ultimately they're on the same team.
+[00:03:46.460 --> 00:03:49.460]   They're two sides of a truth kind of discovery machine.
+[00:03:49.460 --> 00:03:51.460]   And I think this is the same thing.
+[00:03:51.460 --> 00:03:54.460]   They don't like each other, but they're actually ultimately on the same team trying to figure out the roadmap.
+[00:03:54.460 --> 00:03:58.460]   How do we move forward? And the conversations in high-rung politics are complex.
+[00:03:58.460 --> 00:04:01.460]   They're nuanced. There's different realms.
+[00:04:01.460 --> 00:04:04.460]   There's what is, right? There's science and history arguing about what is.
+[00:04:04.460 --> 00:04:06.460]   That's hard to figure out.
+[00:04:06.460 --> 00:04:09.460]   There's what should be, right? That's philosophy and ethics.
+[00:04:09.460 --> 00:04:13.460]   Then there's, you know, even if they agree on those two things, how do we get there, right?
+[00:04:13.460 --> 00:04:16.460]   What are the right policies, strategies, experimentation, testing?
+[00:04:16.460 --> 00:04:19.460]   So, there's a lot of nuance. There's a lot of complexity.
+[00:04:19.460 --> 00:04:24.460]   And one of the core defining features is if this is how you form beliefs, right?
+[00:04:24.460 --> 00:04:27.460]   You know, you go from I don't know, some kind of process to I know.
+[00:04:27.460 --> 00:04:30.460]   High-rung politics is all about truth. They're geared towards truth.
+[00:04:30.460 --> 00:04:33.460]   They start here at I don't know.
+[00:04:33.460 --> 00:04:38.460]   There's kind of an inherent humility to this process.
+[00:04:38.460 --> 00:04:43.460]   So, I think of humility a little bit like trying to stay on a tightrope.
+[00:04:43.460 --> 00:04:45.460]   It's not easy, right?
+[00:04:45.460 --> 00:04:50.460]   We are -- it's easy for your confidence.
+[00:04:50.460 --> 00:04:52.460]   You know, you have the Dunning-Kruger thing.
+[00:04:52.460 --> 00:04:58.460]   Your confidence shoots up when you first learn something and then it goes down after you, you know, realize you don't know as much as you know.
+[00:04:58.460 --> 00:05:00.460]   And then sometimes you can go too low.
+[00:05:00.460 --> 00:05:02.460]   So, when you go too low, you're in kind of the insecure zone, right?
+[00:05:02.460 --> 00:05:06.460]   You actually know more than you think you know.
+[00:05:06.460 --> 00:05:12.460]   But you're just not -- you're in some kind of imposter syndrome.
+[00:05:12.460 --> 00:05:15.460]   And above the line, you know, we're in the arrogant zone.
+[00:05:15.460 --> 00:05:17.460]   Very common in politics, obviously.
+[00:05:17.460 --> 00:05:19.460]   You know, you think you know more than you really actually do.
+[00:05:19.460 --> 00:05:21.460]   So, like, you know, you could even measure it.
+[00:05:21.460 --> 00:05:23.460]   Like, this is how much you're full of shit.
+[00:05:23.460 --> 00:05:27.460]   How much above -- like, the amount above the line you are.
+[00:05:27.460 --> 00:05:32.460]   And in high-rung politics, look, no one is great at staying on the tightrope.
+[00:05:32.460 --> 00:05:34.460]   It's very hard.
+[00:05:34.460 --> 00:05:38.460]   But it's -- the culture of high-rung politics is helpful.
+[00:05:38.460 --> 00:05:42.460]   Because it can actually -- it humbles you because people will disagree with you.
+[00:05:42.460 --> 00:05:47.460]   And it's cool in kind of a high-rung political culture to be humble.
+[00:05:47.460 --> 00:05:50.460]   Like, if you say, I don't know, or you say, yeah, you know, I haven't thought about that issue.
+[00:05:50.460 --> 00:05:53.460]   That makes you seem smart in high-rung politics, right?
+[00:05:53.460 --> 00:05:54.460]   So, it's encouraged.
+[00:05:54.460 --> 00:05:57.460]   Whatever the culture finds cool, we're going to do more of.
+[00:05:57.460 --> 00:06:02.460]   A core thing about high-rung politics, we don't identify with our ideas.
+[00:06:02.460 --> 00:06:09.460]   So, I think, you know, ideas when you're in this zone are like a machine that you built.
+[00:06:09.460 --> 00:06:10.460]   It's like a hypothesis, right?
+[00:06:10.460 --> 00:06:12.460]   You put the boxing gloves on, you let your friends kick it.
+[00:06:12.460 --> 00:06:14.460]   You know, go to town.
+[00:06:14.460 --> 00:06:16.460]   You throw it out there, people try to argue with it.
+[00:06:16.460 --> 00:06:18.460]   You know, the besties are big on this, right?
+[00:06:18.460 --> 00:06:21.460]   They love an opportunity, relish an opportunity to just tell the other person they're wrong.
+[00:06:21.460 --> 00:06:22.460]   Or here's why you're biased.
+[00:06:22.460 --> 00:06:24.460]   Or here's why you're being hypocritical.
+[00:06:24.460 --> 00:06:26.460]   And this is what high-rung politics is about.
+[00:06:26.460 --> 00:06:27.460]   No one takes it personally.
+[00:06:27.460 --> 00:06:28.460]   You're just kicking my machine.
+[00:06:28.460 --> 00:06:30.460]   And I'm saying, I bet my machine can stand up to it.
+[00:06:30.460 --> 00:06:31.460]   And they're saying, I bet it can't.
+[00:06:31.460 --> 00:06:33.460]   And if it does, man, I just got more confident.
+[00:06:33.460 --> 00:06:35.460]   Because I just realized this thing is pretty strong.
+[00:06:35.460 --> 00:06:37.460]   If they break it, it doesn't feel good.
+[00:06:37.460 --> 00:06:38.460]   But I just got a little smarter.
+[00:06:38.460 --> 00:06:40.460]   I just got a little bit less dumb.
+[00:06:40.460 --> 00:06:42.460]   Because I learned something I was wrong about.
+[00:06:42.460 --> 00:06:43.460]   So, they're kicking it.
+[00:06:43.460 --> 00:06:47.460]   And, you know, you're watching them box as dialectic when you watch them box together.
+[00:06:47.460 --> 00:06:48.460]   Sometimes you play devil's advocate.
+[00:06:48.460 --> 00:06:49.460]   You take the bat to your own idea.
+[00:06:49.460 --> 00:06:55.460]   This is, you know, kind of how you move up that humility tightrope to a more knowledgeable place.
+[00:06:55.460 --> 00:07:01.460]   Principles-wise, one of the things that defines high-rung politics is consistency.
+[00:07:01.460 --> 00:07:03.460]   It's not, again, there's left, right, center.
+[00:07:03.460 --> 00:07:05.460]   So, the principles will totally vary.
+[00:07:05.460 --> 00:07:07.460]   But there's consistency either way.
+[00:07:07.460 --> 00:07:10.460]   So, classic example Elon talking about yesterday.
+[00:07:10.460 --> 00:07:11.460]   Free speech.
+[00:07:11.460 --> 00:07:15.460]   It doesn't count to value, you know, to fight for the free speech of people who you agree with.
+[00:07:15.460 --> 00:07:18.460]   Every single person in history has had that principle.
+[00:07:18.460 --> 00:07:19.460]   That's the yellow zone.
+[00:07:19.460 --> 00:07:22.460]   It's very easy to support your principles when it's also supporting your team.
+[00:07:22.460 --> 00:07:26.460]   The challenge comes when it's not, when it's people you don't like saying things you don't like, for example.
+[00:07:26.460 --> 00:07:29.460]   Or when it's your team trying to shut down the free speech of others.
+[00:07:29.460 --> 00:07:32.460]   And you know it's wrong even though you do hate that speech.
+[00:07:32.460 --> 00:07:33.460]   That's when you have to choose.
+[00:07:33.460 --> 00:07:35.460]   Green zone or orange zone.
+[00:07:35.460 --> 00:07:37.460]   High-rung politics is great about staying in the green zone.
+[00:07:37.460 --> 00:07:44.460]   You will see them go against their own team all the time if it doesn't jive with their principles.
+[00:07:44.460 --> 00:07:48.460]   I think if you take a big step back, this thing, again, it gets heated.
+[00:07:48.460 --> 00:07:50.460]   This isn't, you know, people mistake high-rung politics.
+[00:07:50.460 --> 00:07:55.460]   You know, it's, oh, we should be all, you know, we should be, you know, kind of withdrawn and irrational.
+[00:07:55.460 --> 00:07:59.460]   But I think it's actually also, it can be very passionate, very emotional, very heated.
+[00:07:59.460 --> 00:08:01.460]   People care deeply in high-rung.
+[00:08:01.460 --> 00:08:04.460]   They can form coalitions and do marches and still and stuff like that.
+[00:08:04.460 --> 00:08:06.460]   It's just that they care about truth.
+[00:08:06.460 --> 00:08:08.460]   They're consistent with their principles.
+[00:08:08.460 --> 00:08:10.460]   They don't identify with their ideas.
+[00:08:10.460 --> 00:08:11.460]   They like to argue.
+[00:08:11.460 --> 00:08:14.460]   And ultimately, it's a positive sum game with a positive effect on the country.
+[00:08:14.460 --> 00:08:16.460]   This is what drives the country forward.
+[00:08:16.460 --> 00:08:21.460]   In the science academy, this is what drives knowledge forward.
+[00:08:21.460 --> 00:08:25.460]   This is what drives innovation forward is people able to disagree.
+[00:08:25.460 --> 00:08:29.460]   Now, we get to the other thing that is low-rung politics.
+[00:08:29.460 --> 00:08:31.460]   Low-rung politics, I have a name for it.
+[00:08:31.460 --> 00:08:34.460]   I call it political Disney world.
+[00:08:34.460 --> 00:08:41.460]   And I call it that because it's a land of rainbows and unicorns and a bunch of people who will not change their mind under any circumstances.
+[00:08:41.460 --> 00:08:44.460]   It's a land of good guys and bad guys.
+[00:08:44.460 --> 00:08:46.460]   The good guys are angels, perfectly righteous.
+[00:08:46.460 --> 00:08:49.460]   The bad guys are awful in every possible way.
+[00:08:49.460 --> 00:08:53.460]   And the good guys have good ideas, and the bad guys have bad ideas.
+[00:08:53.460 --> 00:08:55.460]   And there's a checklist.
+[00:08:55.460 --> 00:09:02.460]   In high-rung politics, if someone tells me their position on guns, I have no idea what their position is on climate change or on abortion or on immigration.
+[00:09:02.460 --> 00:09:06.460]   In low-rung politics, you hear one position from someone, boom.
+[00:09:06.460 --> 00:09:12.460]   You can just look at their demeanor, and I know every single position they've got on every single issue.
+[00:09:12.460 --> 00:09:14.460]   The same concept in low-rung politics.
+[00:09:14.460 --> 00:09:17.460]   Again, no one thinks they're in low-rung politics.
+[00:09:17.460 --> 00:09:20.460]   So people there will think, yeah, of course, I value truth.
+[00:09:20.460 --> 00:09:22.460]   But they don't. They're actually starting at I know.
+[00:09:22.460 --> 00:09:26.460]   They start at the checklist item, and now they say, well, I have to prove this is correct.
+[00:09:26.460 --> 00:09:29.460]   So when they read an article, they won't read the article.
+[00:09:29.460 --> 00:09:35.460]   But if they read the article that disagrees with them, they'll meet -- they'll have a brick wall in their head about, you know, this can't be true.
+[00:09:35.460 --> 00:09:38.460]   This person is biased. This is, you know, ad hominem, whatever.
+[00:09:38.460 --> 00:09:44.460]   And when they read an article that agrees with them or they hear an opinion, all that skepticism disappears, and suddenly it must be true.
+[00:09:44.460 --> 00:09:47.460]   Yes, of course.
+[00:09:47.460 --> 00:09:49.460]   So I talked about high-rung politics.
+[00:09:49.460 --> 00:09:51.460]   It's like the ideas are like machines, right?
+[00:09:51.460 --> 00:09:53.460]   It's not -- you don't get sensitive about it.
+[00:09:53.460 --> 00:09:54.460]   You kick the machine, right?
+[00:09:54.460 --> 00:09:59.460]   Low-rung politics, it's like a baby, a very cute baby who you love so much.
+[00:09:59.460 --> 00:10:02.460]   So people's ideas, they're sacred in low-rung politics.
+[00:10:02.460 --> 00:10:06.460]   And this is why, you know, you can kick a machine, and that's no big deal.
+[00:10:06.460 --> 00:10:08.460]   If you kick a baby, you're an asshole.
+[00:10:08.460 --> 00:10:13.460]   And so on the high-rungs, people can disagree.
+[00:10:13.460 --> 00:10:17.460]   You have two axes here, decency and agreement, and they're totally different, right?
+[00:10:17.460 --> 00:10:20.460]   You can have people that disagree with you that are awesome, and vice versa.
+[00:10:20.460 --> 00:10:22.460]   You can have people that agree with you, and they're assholes.
+[00:10:22.460 --> 00:10:24.460]   But in low-rung politics, it's very simple.
+[00:10:24.460 --> 00:10:25.460]   People who agree with you, they're good people.
+[00:10:25.460 --> 00:10:27.460]   People who don't, they're assholes.
+[00:10:27.460 --> 00:10:30.460]   So this is, you know, what it comes down to is, you know, you have a high-rung discussion, and it kind of looks like this.
+[00:10:30.460 --> 00:10:31.460]   They're examining things.
+[00:10:31.460 --> 00:10:34.460]   Low-rung discussion, it's like, fucking shit, that's a cute baby.
+[00:10:34.460 --> 00:10:35.460]   God, it's such a good baby.
+[00:10:35.460 --> 00:10:37.460]   How awful are people who don't like the baby?
+[00:10:37.460 --> 00:10:38.460]   So awful, right?
+[00:10:38.460 --> 00:10:39.460]   This is very common.
+[00:10:39.460 --> 00:10:43.460]   If you listen to a low-rung political discussion, this is essentially what's happening.
+[00:10:43.460 --> 00:10:51.460]   They're sitting around, and they're talking about how right they are, and how awful the people, and dangerous the people are who disagree with them.
+[00:10:51.460 --> 00:10:54.460]   And that's just, they'll just talk about that forever and ever and ever.
+[00:10:54.460 --> 00:10:56.460]   Principles, same idea here.
+[00:10:56.460 --> 00:10:58.460]   You actually stick with the left circle.
+[00:10:58.460 --> 00:11:09.460]   You'll constantly, you know, give away here for low-rung politics is that when it's not convenient yellow circle territory, they will almost always jump over to the orange circle.
+[00:11:09.460 --> 00:11:13.460]   You know, you'll have, again, so free speech, you'll see, is a perfect litmus test.
+[00:11:13.460 --> 00:11:17.460]   As soon as it's free speech, people you don't like, all those principles disappear.
+[00:11:17.460 --> 00:11:20.460]   We can, you know, how about COVID marches?
+[00:11:20.460 --> 00:11:26.460]   People are completely worked up about lockdown marches in right-wing states.
+[00:11:26.460 --> 00:11:30.460]   As soon as it's marches for racial justice, all good, all good.
+[00:11:30.460 --> 00:11:32.460]   This is a public health crisis, right?
+[00:11:32.460 --> 00:11:34.460]   That's orange material.
+[00:11:34.460 --> 00:11:45.460]   How about all the people who are super anti-immigration policies, and surveillance policies, and foreign policy, and debt issues?
+[00:11:45.460 --> 00:11:50.460]   And then as soon as it's the other president now, your president's in office, all those same policies stay, and you're fine with them.
+[00:11:50.460 --> 00:11:55.460]   You know, classic example, the debt was the worst thing in the world during Obama's presidency.
+[00:11:55.460 --> 00:12:00.460]   And then Trump comes in office, starts doing up these tax packages that are adding to it, and suddenly it's no problem.
+[00:12:00.460 --> 00:12:03.460]   So there's endless examples here.
+[00:12:03.460 --> 00:12:11.460]   If high-rung politics is kind of this positive-sum game, low-rung politics, I see it much more like two screaming giants.
+[00:12:11.460 --> 00:12:23.460]   And if the high-rung kind of emergent property is intelligence and progress, the low-rung emergent property is just strength and, you know, fighting for power.
+[00:12:23.460 --> 00:12:30.460]   And a battle of good versus evil, and the big goal is not, you know, not trying to create a more perfect union.
+[00:12:30.460 --> 00:12:34.460]   Again, they think that's the goal, but the big goal really is beating the bad guys.
+[00:12:34.460 --> 00:12:37.460]   It's a zero-sum game that ultimately has a negative effect.
+[00:12:37.460 --> 00:12:43.460]   So I know I just threw a lot at you, because I wanted to kind of cover the different bases of this to give a feel for what I'm talking about here.
+[00:12:43.460 --> 00:12:45.460]   This is the framework that I think is very useful.
+[00:12:45.460 --> 00:12:47.460]   I've been living with it now for a few years.
+[00:12:47.460 --> 00:12:51.460]   I've been having conversations with it, and I find that it clarifies a lot, and it helps with a lot of things.
+[00:12:51.460 --> 00:12:59.460]   Like, for example, if you just think it's a horizontal axis, A, as I said, you know, you mistake that the far left and right must be the problem.
+[00:12:59.460 --> 00:13:01.460]   But it's not. It's the low rungs that are the problem.
+[00:13:01.460 --> 00:13:03.460]   That's actually what people are trying to say.
+[00:13:03.460 --> 00:13:06.460]   The moderate centrist, you know, think that's not what they're actually trying to say.
+[00:13:06.460 --> 00:13:11.460]   They're trying to say high-rung, which can expand the horizontal axis.
+[00:13:11.460 --> 00:13:14.460]   There's more than one tug of war going on.
+[00:13:14.460 --> 00:13:16.460]   We think if you just have one axis, well, it's left versus right.
+[00:13:16.460 --> 00:13:18.460]   And that is a tug of war, both in the high and low rungs.
+[00:13:18.460 --> 00:13:21.460]   That is, you know, they are fighting for what they want.
+[00:13:21.460 --> 00:13:25.460]   But there's a tug of war going on from the north and south as well.
+[00:13:25.460 --> 00:13:30.460]   The progressive, I know a lot of people in here probably are thinking, I'm in that upper left guy.
+[00:13:30.460 --> 00:13:32.460]   That's my guess.
+[00:13:32.460 --> 00:13:38.460]   And if that's true, and it might be true, you do have a tug of war going on against that upper right guy.
+[00:13:38.460 --> 00:13:43.460]   You also have a tug of war going on against that lower left guy.
+[00:13:43.460 --> 00:13:48.460]   This is the thing that I think is important to realize is when you have this, that the people who are on your team,
+[00:13:48.460 --> 00:13:55.460]   you know, they also hate Trump or whatever, they might be actually like the biggest impediment to what you care about politically.
+[00:13:55.460 --> 00:13:58.460]   They undermine the progress of what you care about.
+[00:13:58.460 --> 00:14:03.460]   It also can enhance kind of collaboration because if you're not one of those upper giants,
+[00:14:03.460 --> 00:14:08.460]   the other upper giant is a lot more on your ultimate team, if you take a big step back,
+[00:14:08.460 --> 00:14:10.460]   than the lower giant that wears the same color.
+[00:14:10.460 --> 00:14:15.460]   So once you start to think this way, I think it helps to kind of loosen some of the tribalism
+[00:14:15.460 --> 00:14:19.460]   and give some nuance to our discussions and give some nuance to what we're trying to do.
+[00:14:19.460 --> 00:14:24.460]   Now, the story I wanted to talk about here is that this is normal, by the way.
+[00:14:24.460 --> 00:14:28.460]   This is not a problem. Every democracy in the world will have this.
+[00:14:28.460 --> 00:14:34.460]   The founders knew this would be here. The goal was not to suppress low rungness.
+[00:14:34.460 --> 00:14:39.460]   It was to contain it and actually, you know, in the economy to harness it for progress.
+[00:14:39.460 --> 00:14:45.460]   But in politics, to contain it so it can't totally take over, they contain it by taking away the physical cudgel.
+[00:14:45.460 --> 00:14:52.460]   You know, you can't just conquer and become a dictator like so many low rung giants in other countries have done.
+[00:14:52.460 --> 00:14:56.460]   There's laws here and most importantly, there's kind of a high rung immune system,
+[00:14:56.460 --> 00:15:02.460]   which is just vigorous defenses against low rung infringement.
+[00:15:02.460 --> 00:15:08.460]   Low rungness will try to shut down the conversations in the high rungs and the high rungs resist.
+[00:15:08.460 --> 00:15:14.460]   They say, no, fuck off. Like, we know you can't enforce your echo chamber upon us.
+[00:15:14.460 --> 00:15:17.460]   You're allowed to have your echo chamber. That's fine. You can't enforce it.
+[00:15:17.460 --> 00:15:22.460]   So this is how it's supposed to be now. Part of the reason we're all here continually in each talk talking about,
+[00:15:22.460 --> 00:15:28.460]   man, politics is awful and things are bad and there's a poopy pants six year old with the ice cream falling
+[00:15:28.460 --> 00:15:33.460]   is because I think we've had some big changes to the environment.
+[00:15:33.460 --> 00:15:38.460]   This is the kind of simple human equation I think about. You've got human nature is constant.
+[00:15:38.460 --> 00:15:42.460]   The environment is what changes and that produces different behavior. Right.
+[00:15:42.460 --> 00:15:47.460]   You know, the people who are really hardened during war, you know, they're not different biologically than us.
+[00:15:47.460 --> 00:15:50.460]   They just were put in a very different environment and it created different kinds of people.
+[00:15:50.460 --> 00:15:54.460]   So our environment has changed a lot. And I think it's causing a lot of problems.
+[00:15:54.460 --> 00:15:57.460]   I think it's causing a low rung flare up.
+[00:15:57.460 --> 00:16:04.460]   So here's one way to think about it. In the 60s, you've got intra party factions within the parties.
+[00:16:04.460 --> 00:16:08.460]   You have a lot of progressive Republicans and conservative Democrats and these these factions within the parties.
+[00:16:08.460 --> 00:16:12.460]   They hate each other. Right. Which is which was a source of tribalism.
+[00:16:12.460 --> 00:16:16.460]   Some people are just so focused on the other people in their party, the other factions.
+[00:16:16.460 --> 00:16:20.460]   There's the national parties like we have that we talk about a lot today. Republicans and Democrats nationally.
+[00:16:20.460 --> 00:16:24.460]   That was a source of tribalism. And then there was this, you know, USSR.
+[00:16:24.460 --> 00:16:31.460]   And also before that, Hitler, like there were all these, you know, scary foreign enemies that created this kind of macro tribalism on the national level.
+[00:16:31.460 --> 00:16:37.460]   So you have patriotism, which is one kind of tribalism, but it also unifies down below.
+[00:16:37.460 --> 00:16:42.460]   And the intra party factions might actually cause the national parties to collaborate sometimes.
+[00:16:42.460 --> 00:16:46.460]   So it's not that people were less tribal. It's that tribalism was distributed.
+[00:16:46.460 --> 00:16:51.460]   What's happened is now the intra party factions have disappeared because the conservative Democrats have all gone to the Republicans.
+[00:16:51.460 --> 00:16:56.460]   They're the progressive Republicans have all gone for lots of reasons. Get into some other talk.
+[00:16:56.460 --> 00:17:02.460]   But that's waned. There's still a little you still have Bernie and Hillary not liking, you know, people not like it.
+[00:17:02.460 --> 00:17:09.460]   But it's much less of a thing. Likewise, you still have, you know, yes, Russia, you know, but mostly that's not the focus.
+[00:17:09.460 --> 00:17:18.460]   In fact, the focus is it's so not here that when there's a foreign thing now, usually we'll just use it as like political fodder for our national debate.
+[00:17:18.460 --> 00:17:22.460]   You know, all the Russians are on their side. No, they're on their side. Right. And there's no patriotism that unites anymore.
+[00:17:22.460 --> 00:17:30.460]   What you have is one big old political divide and all the tribalism from all those things is concentrated into one place, which is an unhealthy.
+[00:17:30.460 --> 00:17:36.460]   That's not great. I don't think that's good. And so this is one environmental change. No one's fault.
+[00:17:36.460 --> 00:17:43.460]   It's just what happened. Then, you know, you also have a lot of things with like the electoral map you have between gerrymandering and, you know, geographic sorting.
+[00:17:43.460 --> 00:17:52.460]   You have purple counties turning mostly red and blue now, which means primaries are actually electing the farthest right and left people as opposed to, you know, people who could win a general election.
+[00:17:52.460 --> 00:17:58.460]   There's a lot of other kind of little environmental changes. But one huge one that we talk about is the media.
+[00:17:58.460 --> 00:18:04.460]   I think of a media. I'd like to place them on a media matrix accuracy on the Y axis and objectivity.
+[00:18:04.460 --> 00:18:11.460]   So what you want to be is the top middle. Right. And actually, for a long time, there was an incentive magnet to be there for ABC, CBS, NBC.
+[00:18:11.460 --> 00:18:17.460]   Right. They didn't want to seem like they were inaccurate and had to cater to the whole country, which kept them somewhat close to that.
+[00:18:17.460 --> 00:18:26.460]   There was this incentive magnet today. You have cable TV and then eventually you have, you know, talk radio and you've got the Internet and all these websites.
+[00:18:26.460 --> 00:18:30.460]   You have tribal media, which is a totally different set of incentives. You cater to one side only.
+[00:18:30.460 --> 00:18:39.460]   It's more bias, the more clicks and accuracy is just not a concern to the audiences they end up having.
+[00:18:39.460 --> 00:18:46.460]   And then you have this feedback loop like was discussed yesterday, where once you cater to that, now you have to keep that going.
+[00:18:46.460 --> 00:18:54.460]   Right. You've now lost a neutral audience. And so now we have a lot of Americans super addicted to a really trashy reality show.
+[00:18:54.460 --> 00:19:08.460]   Real politicians of Washington. And then it took me a long time to make this, by the way.
+[00:19:08.460 --> 00:19:16.460]   I think McConnell's my favorite. Anyway. So then you've got, of course, the big bomb drops in our environment.
+[00:19:16.460 --> 00:19:23.460]   You've got social media. This is a real graph showing people retweet things they agree with to people they agree with almost entirely.
+[00:19:23.460 --> 00:19:30.460]   Right. It's these algorithmic bubbles. It's insane. You know. And so if you're one of the people that actually I follow all kinds of people, you're very rare because.
+[00:19:30.460 --> 00:19:37.460]   And it didn't again, it didn't used to be this way. John Ronson talks about, you know, how it used to be a radical de-shaming like Twitter.
+[00:19:37.460 --> 00:19:42.460]   You know, you go on and be like, oh, I do this embarrassing thing. People will be like me, too. And it'd be like, oh, so nice and fuzzy at the very beginning.
+[00:19:42.460 --> 00:19:46.460]   And then it turned into, wait a second, you know, this bad guy is harassing women at work.
+[00:19:46.460 --> 00:19:53.460]   And now actually this woman has power for the first time. She can talk about it on social media. You can create a whole kind of coalition against it.
+[00:19:53.460 --> 00:19:57.460]   And he gets fired and it's exhilarating. And that's good. Right. This is speaking truth to power.
+[00:19:57.460 --> 00:20:02.460]   Problem is now people are exhilarated and they're saying who's next. Right.
+[00:20:02.460 --> 00:20:05.460]   And you have this new source of power, which, again, can be used for good.
+[00:20:05.460 --> 00:20:12.460]   But it's gotten picked up by a lot of the low rung tribes who have started to use this cudgel.
+[00:20:12.460 --> 00:20:17.460]   That started, it's been a while now, you know, creating mobs to actually enforce low rung politics.
+[00:20:17.460 --> 00:20:22.460]   And what happens is you end up with high rung world, very scared, kind of caught off guard.
+[00:20:22.460 --> 00:20:27.460]   The normal defenses, the normal immune system is not doing its job.
+[00:20:27.460 --> 00:20:33.460]   And so what happens when the high rung world gets scared? This is a very, you know, it can set off a domino effect.
+[00:20:33.460 --> 00:20:39.460]   Imagine we picture this is the high rung world. These are brains. This is what a bunch of high rung people in the community think.
+[00:20:39.460 --> 00:20:45.460]   They all think different things based on the color. Right. Now, if we draw a circle around them, this is imagining what they're saying is the circle's color.
+[00:20:45.460 --> 00:20:51.460]   So here is a perfect high rung community. Right. Everyone is diverse, you know, thinking and they're saying what they're thinking.
+[00:20:51.460 --> 00:20:54.460]   And it connects together into this super brain. And it's awesome. Right.
+[00:20:54.460 --> 00:20:59.460]   But now maybe the social media cudgel, maybe something else starts to be a little bit scary.
+[00:20:59.460 --> 00:21:04.460]   And this one group starts to say the only opinion that's OK is the orange opinion.
+[00:21:04.460 --> 00:21:09.460]   Anyone who says anything other than the orange opinion is an awful person.
+[00:21:09.460 --> 00:21:13.460]   The high rung immune system is supposed to kick in and say, cool, fuck off.
+[00:21:13.460 --> 00:21:18.460]   If it doesn't say that, everyone starts getting scared and then cowardice starts to spread.
+[00:21:18.460 --> 00:21:22.460]   And before you know it, everyone's just saying the orange out loud, even if they don't agree with it.
+[00:21:22.460 --> 00:21:28.460]   No one wants to outwardly say what they think anymore. And the problem is you can't actually see what's going on in the brains.
+[00:21:28.460 --> 00:21:32.460]   You only know what people are thinking based on what they're saying. So all people see is this.
+[00:21:32.460 --> 00:21:39.460]   So if you're this guy who actually has one opinion and actually is full of diverse thinking around them, they don't know that.
+[00:21:39.460 --> 00:21:44.460]   They assume it must look like this. Everyone starts to feel like I'm the only one who thinks this.
+[00:21:44.460 --> 00:21:49.460]   I'm the only one who doesn't like this movement or this politician or whatever.
+[00:21:49.460 --> 00:21:56.460]   And the group intelligence that's so awesome about high rung politics, it disappears.
+[00:21:56.460 --> 00:22:03.460]   And I think what we're seeing is why are things so bad? I don't think it's because we moved to the far right and far left.
+[00:22:03.460 --> 00:22:09.460]   I think it's because you have a low rung flare up generated by changes of the environment.
+[00:22:09.460 --> 00:22:13.460]   And the high rungs have been caught off guard by really rapid environment changes.
+[00:22:13.460 --> 00:22:19.460]   And they've just disappeared. They've shrunk away. And the low rungs are running buck wild.
+[00:22:19.460 --> 00:22:25.460]   You can see this on the right. I think mostly in Washington, you see the debt ceiling being used as a weapon
+[00:22:25.460 --> 00:22:31.460]   in a way that should never happen. You see McConnell in the Senate not putting through a Senate candidate,
+[00:22:31.460 --> 00:22:35.460]   a Supreme Court candidate, because it's the last year. Totally unprecedented. That's not the rule.
+[00:22:35.460 --> 00:22:39.460]   And then four years later, they go and they put their own candidate. This is low rung shit.
+[00:22:39.460 --> 00:22:46.460]   Of course, Trump with the election. I mean, Reagan's big thing was the peaceful transition of power is what makes us special.
+[00:22:46.460 --> 00:22:53.460]   And Trump, of course, is the exact opposite. On the left, I think we see it less in Washington and much more in culture.
+[00:22:53.460 --> 00:22:58.460]   I think wokeness is two things. It's a far left ideology and it is far left.
+[00:22:58.460 --> 00:23:03.460]   It's postmodern and it's Marxist. And that's fine. You can have those things in the high rungs.
+[00:23:03.460 --> 00:23:07.460]   The thing that makes wokeness low rung is the way they treat others.
+[00:23:07.460 --> 00:23:11.460]   You can you can go and have your own but you can have your own echo chamber and do it.
+[00:23:11.460 --> 00:23:18.460]   But the woke mantra is what a low rung person in a liberal country is supposed to say is I don't like these ideas.
+[00:23:18.460 --> 00:23:23.460]   So I won't listen to them. What you're not supposed to be able to say is I don't like the idea.
+[00:23:23.460 --> 00:23:28.460]   So no one is allowed to listen to them. Right. A disinvitation on campus, which has become very common.
+[00:23:28.460 --> 00:23:33.460]   Right. It's not saying I won't go to that talk, which is a low rung thing to say.
+[00:23:33.460 --> 00:23:38.460]   It's much worse. It's saying no one on this campus is allowed to hear that talk. And we see that having played out.
+[00:23:38.460 --> 00:23:46.460]   We see James Bennett, the editor of The New York Times op ed section, getting fired because he published an op ed by Tom Cotton that 62 percent of the country agreed with.
+[00:23:46.460 --> 00:23:50.460]   But it didn't jive with woke orthodoxy.
+[00:23:50.460 --> 00:23:59.460]   You see Denise Young at Apple, a black woman who's the head of diversity, who says to me, diversity is not, you know, it's more complicated than just about something like race.
+[00:23:59.460 --> 00:24:04.460]   When I look at 12 blue eyed, blonde haired guys, I see I see diversity.
+[00:24:04.460 --> 00:24:08.460]   I see different people diverse in different ways. She was fired for saying that.
+[00:24:08.460 --> 00:24:19.460]   You can go on and on. Medical journals are retracting papers that have never retracted papers before because double peer review papers, because they get a rise on Twitter from the woke mob.
+[00:24:19.460 --> 00:24:24.460]   So I think we're seeing this in different ways. But to me, it's all one big story, which is that we're having a low rung flare up.
+[00:24:24.460 --> 00:24:29.460]   And these low rung giants are out of hand. They're doing things they're not supposed to be able to be doing.
+[00:24:29.460 --> 00:24:32.460]   And they're doing that because the immune system is failing. And that's why we all look like this.
+[00:24:32.460 --> 00:24:37.460]   Now, the good news is I do think this can change. I don't think most people are like this.
+[00:24:37.460 --> 00:24:43.460]   I think most people are. And by the way, if you think this is another binary divide, we are all high rung and low rung at different times.
+[00:24:43.460 --> 00:24:50.460]   And that's one of the big differences here. I think that if we want to get out of this and get back to here, we need two things.
+[00:24:50.460 --> 00:24:55.460]   We need awareness, which is the first thing we need.
+[00:24:55.460 --> 00:25:04.460]   We need to be aware of, I think, this this this this axis and to think about not just where am I being bullied intellectually, where what's really the low rung thing and what's not.
+[00:25:04.460 --> 00:25:07.460]   But also where are we being low rung? Because we all can do this.
+[00:25:07.460 --> 00:25:14.460]   This is this is this is a huge part of our brain that wants to go and identify with our ideas and and be hypocritical.
+[00:25:14.460 --> 00:25:16.460]   So where am I doing it? Where are the people around me doing it?
+[00:25:16.460 --> 00:25:23.460]   And and maybe realizing, OK, maybe the people that on the high rungs when I am there that disagree with me horizontally,
+[00:25:23.460 --> 00:25:27.460]   maybe those are my friends a lot more than the low rung people that are voting for the same candidate.
+[00:25:27.460 --> 00:25:32.460]   And finally, awareness without saying anything out loud is useless.
+[00:25:32.460 --> 00:25:38.460]   Right. We need awareness has to be coupled with courage. People have to start speaking out.
+[00:25:38.460 --> 00:25:42.460]   And actually, that's the high rung immune system is built of courage.
+[00:25:42.460 --> 00:25:50.460]   It's built of people actually standing up. And you've seen this with some companies declaring we will not we're not a political place.
+[00:25:50.460 --> 00:25:54.460]   That's courage in the face of a cudgel that's trying to get them to be political.
+[00:25:54.460 --> 00:26:04.460]   And so I think if you can have a little bit more awareness and a little bit more courage, this kind of this low rung flare up can be, I think, controlled.
+[00:26:04.460 --> 00:26:18.460]   And I think we can end up in a better place. Thank you. Wow.
+[00:26:18.460 --> 00:26:30.460]   Truly epic. What an amazing talk to follow the talk we had earlier, I think, with I don't know if you got to witness it, the Palmer Lucky talk.
+[00:26:30.460 --> 00:26:35.460]   I was trying to think of how to trash you because it was so popular. So you were going to go low rung.
+[00:26:35.460 --> 00:26:44.460]   Yeah, I was. But I mean, in fact, you know that I think Palmer and I had some low rung moments where, you know, he was doing the anti Hillary stuff.
+[00:26:44.460 --> 00:26:52.460]   I was dunking on him for it. And then we saw an example of maybe adult high rung behavior of like, hey, let's sit here and talk about the differences.
+[00:26:52.460 --> 00:26:56.460]   I want to put out there just talking about the woke movement for a second.
+[00:26:56.460 --> 00:27:03.460]   One of the major challenges I had in this event was certain people attending the event.
+[00:27:03.460 --> 00:27:09.460]   Made some people in that group unwilling to come to the event.
+[00:27:09.460 --> 00:27:17.460]   No offense, Keith. In other words, like Keith Sacks, you know, and then even Glenn Grunwald and Greenwald.
+[00:27:17.460 --> 00:27:24.460]   I'm sorry. And Matt Taibbi were triggers for certain people to not come speak.
+[00:27:24.460 --> 00:27:27.460]   They were going to kick the baby. They were going to kick the baby.
+[00:27:27.460 --> 00:27:36.460]   And so I think and then on the right, we have, I think, some pleasure in knowing you're triggering the libs.
+[00:27:36.460 --> 00:27:46.460]   And it's exacerbated this. It's hard for me as a conference producer or a podcast producer to get the two sides to sit and just have a reasonable discussion at a time.
+[00:27:46.460 --> 00:28:01.460]   How do we break that logjam of the right just loves to troll and trigger the libs and the libs are like, I'm not even participating in the discussion with this group of people, that group of people, you know, the Sacks is the Keats, you know, whatever.
+[00:28:01.460 --> 00:28:09.460]   I think we're keeping this. Yeah. Oh, by the way, please welcome Keith Raboy.
+[00:28:09.460 --> 00:28:19.460]   He triggers a lot of libs. But let's start there and then, Keith, I'd love to hear you respond to this dynamic, which I know you are fully aware of.
+[00:28:19.460 --> 00:28:25.460]   Yeah. So I think that we can get some clear definitions here.
+[00:28:25.460 --> 00:28:34.460]   Not wanting to go to something that, you know, a high runger says, oh, they disagree with me. Great. Let me go. And that's that's what they really want to hear, because I want to learn something.
+[00:28:34.460 --> 00:28:43.460]   The low runger says, fuck those evil, awful people. I'm not going to go. Right. They storm away. Fine. You're in a liberal country. Live and let live. These are both OK.
+[00:28:43.460 --> 00:29:02.460]   What's not OK is the low rungers pressuring you to kick off those speakers because otherwise they're going to start a movement, a petition, a boycott of your show that's going to that's going to end up hurting you in some way, you know, taking out, smearing you on social media and into pressuring this to not happen at all.
+[00:29:02.460 --> 00:29:07.460]   That's saying no one's allowed to go to that conference. That's what's not OK. It's interesting you bring this up.
+[00:29:07.460 --> 00:29:16.460]   I shared with you that back channel. It was beautiful. There was back channel of, you know, how beautiful a moment was with the high rung discussion we just had.
+[00:29:16.460 --> 00:29:24.460]   There was also a dark moment before the event where a group of people who did not agree were doing what you're saying.
+[00:29:24.460 --> 00:29:32.460]   The woke mob was saying, we need to get other people on the left.
+[00:29:32.460 --> 00:29:46.460]   David Sachs time. They're supposed to tell me when Ravoy got here. So there was literally, to your point, an intolerance level of not only are we not going to come to All In Summit because Sachs or this person or that person are there.
+[00:29:46.460 --> 00:29:52.460]   We're going to start telling other people to not go and not participate. It literally happened and I had to stop.
+[00:29:52.460 --> 00:30:03.460]   But this is a so look, this conference did happen. Those people did come. Ideas were spread. So this is a victory for high rungness. This is.
+[00:30:03.460 --> 00:30:11.460]   So then you can tell us why is it so pleasurable to trigger the libs, David, Keith?
+[00:30:11.460 --> 00:30:18.460]   No, in all seriousness, you love to debate. You take all comers. No problem. You want to get in the arena.
+[00:30:18.460 --> 00:30:23.460]   What you're seeing now, how did I actually just interject on that? Sure.
+[00:30:23.460 --> 00:30:32.460]   So, I mean, speaking for myself, I don't get any pleasure in triggering libs and that's not my objective. And I don't think it's necessarily Keith's either.
+[00:30:32.460 --> 00:30:41.460]   What you're really doing is because we are willing to debate and we're not afraid to have the conversation, you're now redefining that as triggering other people.
+[00:30:41.460 --> 00:30:56.460]   No, we're not. We're just want to have a conversation. Now, I think it's really easy to tell who are the people who have good points to make and have intellectual confidence.
+[00:30:56.460 --> 00:31:03.460]   Because they're the ones willing to show up and have conversations. And I think it's the biggest cop out for anybody to say, well, I can't be your conference.
+[00:31:03.460 --> 00:31:16.460]   I see this name and this name on your agenda. How lame is that? And to be honest, you know, a lot of the positions, I think you and Palmer probably disagree on the approach to Ukraine.
+[00:31:16.460 --> 00:31:23.460]   He's probably very pro supporting that. And you might be a little more dovish. Yeah. So I think two points.
+[00:31:23.460 --> 00:31:29.460]   First of all, I took on this fool's errand like 10 years ago of correcting everything wrong on the Internet.
+[00:31:29.460 --> 00:31:35.460]   Which is an insane idea. I still haven't quite got myself out of that.
+[00:31:35.460 --> 00:31:44.460]   But but the reason why I did it was I felt like, wow, someone in who doesn't know any better might read something that's wrong and they might believe it.
+[00:31:44.460 --> 00:31:50.460]   And so at least if I start correcting it, they'll see that there's multiple perspectives and then they'll have to dig in as opposed to just take this for granted.
+[00:31:50.460 --> 00:32:01.460]   The second thing is, yeah, I have no desire to trigger the libs, but I do feel like I have a platform and I don't want to die without having used whatever influence I have to proselytize for ideas I believe in.
+[00:32:01.460 --> 00:32:11.460]   So if I have 300000 followers, I feel I would be neglecting like my light benefits of my life if I'm not proselytizing for the few five, six, seven, eight, nine things I care about.
+[00:32:11.460 --> 00:32:18.460]   And so I don't want to wake up one day and say, I wish I had done X, Y or Z and it could have maybe changed the world.
+[00:32:18.460 --> 00:32:22.460]   Can I ask him a question around his name's Tim?
+[00:32:22.460 --> 00:32:25.460]   Hey, nice to meet Tim. David, how are you?
+[00:32:25.460 --> 00:32:33.460]   We actually haven't met before. Do you think that over time, content has gotten shorter?
+[00:32:33.460 --> 00:32:36.460]   Soundbites have become kind of the primary form of content.
+[00:32:36.460 --> 00:32:43.460]   You know, we used to be that we'd sit down and read books and we'd read newspapers and we'd watch these long form news hour conversations.
+[00:32:43.460 --> 00:32:48.460]   And then, you know, things got shorter, they got faster, they got quicker.
+[00:32:48.460 --> 00:32:56.460]   And as a result, we ended up kind of debasing ourselves and ending up in this point where everything has to be reduced to that primal, instinctual reaction moment.
+[00:32:56.460 --> 00:33:02.460]   And it gets even more significantly fueled by the feedback loops associated with social media.
+[00:33:02.460 --> 00:33:11.460]   So the things that you see more of are the things that really do trigger that kind of primal, you know, emotional sense more.
+[00:33:11.460 --> 00:33:18.460]   Is that a big driver, do you think, societally in terms of have we become more tribal over the last century?
+[00:33:18.460 --> 00:33:25.460]   Yeah, I mean, I think environmental changes are just, it's like they will produce behavioral changes.
+[00:33:25.460 --> 00:33:32.460]   And it can be sometimes a feedback loop where you have shorter content, more emotional, you know, kind of triggering content.
+[00:33:32.460 --> 00:33:35.460]   Like you said, there's almost like pheromones.
+[00:33:35.460 --> 00:33:37.460]   Evolutionarily, it wins.
+[00:33:37.460 --> 00:33:48.460]   Yeah, well, you know, on Twitter, actually, there's a phenomenon where actually virality dumbs down information because nuanced information doesn't hit as hard.
+[00:33:48.460 --> 00:33:49.460]   Totally.
+[00:33:49.460 --> 00:34:00.460]   And so it's, when you have, it's kind of like, it's like evolution where you see, you know, the tweet that ends up super viral, it's, you know, survived a hundred other competing tweets to get there.
+[00:34:00.460 --> 00:34:01.460]   Totally.
+[00:34:01.460 --> 00:34:10.460]   It's, you know, there's a mechanism right now that is pushing, that's kind of forming a magnet down in political Disney world that is pulling us down.
+[00:34:10.460 --> 00:34:29.460]   And one of the questions I have for Elon is like, what's, how can that somehow be, you know, one idea that a friend and I were kicking around is like some kind of almost like, you know, Wikipedia managed to somehow stay somewhat nuanced and neutral in a way.
+[00:34:29.460 --> 00:34:39.460]   And could there be some kind of like giant 10,000 pool, you know, of moderators that actually kind of put, you know, rank things by maybe high rung and low rung.
+[00:34:39.460 --> 00:34:45.460]   And the algorithm doesn't necessarily suppress the low rung stuff, it just doesn't push it, which right now the algorithm is.
+[00:34:45.460 --> 00:34:48.460]   You're talking about like moderation, editorialization almost.
+[00:34:48.460 --> 00:34:53.460]   Yeah, at least like to give it like a credit rating on maybe a high low scale.
+[00:34:53.460 --> 00:35:05.460]   I kind of view this as like a muting effect. It's like an institutionalization of the social networks where everyone talks about them being free to run as a network without kind of a central system of control.
+[00:35:05.460 --> 00:35:14.460]   But sometimes that central system of control has an important role in playing moderation, muting, editorialization that kind of avoids some of the adverse consequences.
+[00:35:14.460 --> 00:35:17.460]   It's definitely optimizing downwards right now.
+[00:35:17.460 --> 00:35:18.460]   What do you think, Keith?
+[00:35:18.460 --> 00:35:19.460]   I don't know, I sort of disagree.
+[00:35:19.460 --> 00:35:21.460]   Should Elon buy Twitter?
+[00:35:21.460 --> 00:35:28.460]   I sort of disagree. I mean, I grew up in the 70s and 80s and soundbite, you know, was the term of art for like 30 second commercials.
+[00:35:28.460 --> 00:35:30.460]   And that's how we debated politics was 30 second commercials.
+[00:35:30.460 --> 00:35:36.460]   I don't know any evidence that suggests that tweets today in politics are worse than the 30 second commercials I grew up with.
+[00:35:36.460 --> 00:35:41.460]   And if you think about polarization, I also used to watch European politics in the 70s and 80s.
+[00:35:41.460 --> 00:35:46.460]   The most extreme ends of politics you'll ever see, we don't have any of those extremes in the United States still today.
+[00:35:46.460 --> 00:35:51.460]   So I don't think there's, I think a lot of people like make arguments without evidence that things have changed.
+[00:35:51.460 --> 00:35:55.460]   And I actually start with like first principles like, wait, where's the evidence?
+[00:35:55.460 --> 00:35:57.460]   Like people talk about misinformation.
+[00:35:57.460 --> 00:36:05.460]   There's no evidence that the American voter in 2016 had less information or less accurate information than 1888 or 1894 or 1910.
+[00:36:05.460 --> 00:36:08.460]   In fact, the opposite is true by most serious studies.
+[00:36:08.460 --> 00:36:10.460]   So this is all kind of made up in my mind.
+[00:36:10.460 --> 00:36:14.460]   Yes, Elon should buy Twitter to save the world, but it's not going to be a good financial investment.
+[00:36:14.460 --> 00:36:17.460]   How does it save the world?
+[00:36:17.460 --> 00:36:21.460]   Well, we need a free speech platform where people can debate ideas.
+[00:36:21.460 --> 00:36:26.460]   And the left wing of Twitter, the employee base has completely suppressed ideas.
+[00:36:26.460 --> 00:36:31.460]   For example, my husband, I happen to know this, wrote an article in Foreign Policy magazine,
+[00:36:31.460 --> 00:36:36.460]   like the most prestigious publication in the entire planet for foreign policy debate about the CCP.
+[00:36:36.460 --> 00:36:42.460]   Twitter refused for years to allow them to advertise that article published in Foreign Policy magazine.
+[00:36:42.460 --> 00:36:46.460]   So there's clearly someone at Twitter suppressing content that's critical of the CCP.
+[00:36:46.460 --> 00:36:49.460]   And we tried appealing to everybody and they wouldn't change this.
+[00:36:49.460 --> 00:36:54.460]   So there's either Chinese spies there or a left wing culture that suppresses debate.
+[00:36:54.460 --> 00:36:57.460]   This is Foreign Policy magazine. We can't get any more prestigious than that.
+[00:36:57.460 --> 00:37:01.460]   It's absurd. Let alone the fact that I have 300,000 followers and do not have a blue check.
+[00:37:01.460 --> 00:37:05.460]   I must have the largest follower of anybody who doesn't have a blue check.
+[00:37:05.460 --> 00:37:07.460]   And it's all because I have views that are unacceptable.
+[00:37:07.460 --> 00:37:16.460]   That seems really pretty ridiculous considering many other VCs who are meaningfully less credentialed experience.
+[00:37:16.460 --> 00:37:21.460]   There's obvious, and I have insiders at Twitter who have sent me screenshots of various things.
+[00:37:21.460 --> 00:37:25.460]   There's no doubt that it's a left wing monoculture that's suppressing ideas and someone needs to fix that.
+[00:37:25.460 --> 00:37:28.460]   Either the government needs to fix it, which is worse than Elon fixing it.
+[00:37:28.460 --> 00:37:33.460]   But the government, if the US Congress is turned over, there's going to be a lot of subpoenas flying over to Twitter
+[00:37:33.460 --> 00:37:38.460]   because there are absolutely foreign governments influencing some of those decisions at Twitter.
+[00:37:38.460 --> 00:37:44.460]   Well, I mean, it was in fact proven that there were Saudis inside of Twitter.
+[00:37:44.460 --> 00:37:48.460]   Yes, the best tweet retort ever by Elon.
+[00:37:48.460 --> 00:37:49.460]   Yeah.
+[00:37:49.460 --> 00:37:51.460]   I wish I would be that good.
+[00:37:51.460 --> 00:37:53.460]   Yeah, I mean, what was the tweet?
+[00:37:53.460 --> 00:37:59.460]   Well, the Saudi prince was complaining and he said, "Please explain freedom of speech and how that works in your country."
+[00:37:59.460 --> 00:38:01.460]   Oh, right. Yeah, I mean.
+[00:38:01.460 --> 00:38:03.460]   Should be.
+[00:38:03.460 --> 00:38:06.460]   Oh, sorry, I was going to ask you.
+[00:38:06.460 --> 00:38:09.460]   Can you explain cancel culture in your framework?
+[00:38:09.460 --> 00:38:10.460]   Yeah.
+[00:38:10.460 --> 00:38:14.460]   So, I like to use a couple terms here.
+[00:38:14.460 --> 00:38:23.460]   There's social bullying, which is no one, if you disagree with me, you can't be my friend.
+[00:38:23.460 --> 00:38:25.460]   And again, that's okay, right?
+[00:38:25.460 --> 00:38:30.460]   I don't think you're an awesome person if you act like that, but you're allowed to.
+[00:38:30.460 --> 00:38:38.460]   Then there's what I would call idea supremacy, which is, you know, it's kind of, it's like I've been saying,
+[00:38:38.460 --> 00:38:43.460]   no one is allowed to say this thing, whether you're my friend or not.
+[00:38:43.460 --> 00:38:48.460]   And, you know, if you want to run something on your own property, you can make all the speech rules.
+[00:38:48.460 --> 00:38:54.460]   But cancel culture is specifically going into places that are supposed to be high rung.
+[00:38:54.460 --> 00:38:58.460]   You know what it says on top of Harvard College? Veritas, right?
+[00:38:58.460 --> 00:39:04.460]   Veritas, which is them putting their stake down on the ground and saying, we are a high rung place.
+[00:39:04.460 --> 00:39:07.460]   They're not, say, using those words, but that is what they're saying.
+[00:39:07.460 --> 00:39:14.460]   We are a place that cares about truth, that cares about diversity of ideas, that cares about openness and inquiry and curiosity and all of this.
+[00:39:14.460 --> 00:39:17.460]   And so cancel culture goes into places like that.
+[00:39:17.460 --> 00:39:20.460]   Google, you know, started off, they had their all hands meetings.
+[00:39:20.460 --> 00:39:22.460]   It was all about, you know, and every idea is good.
+[00:39:22.460 --> 00:39:24.460]   Criticize the leadership, like, you know, right?
+[00:39:24.460 --> 00:39:26.460]   So these things were specifically high rung, right?
+[00:39:26.460 --> 00:39:28.460]   They were founded on these things.
+[00:39:28.460 --> 00:39:33.460]   Cancel culture goes into those places and says, our preferred echo chamber.
+[00:39:33.460 --> 00:39:35.460]   Now those rules apply to everyone here.
+[00:39:35.460 --> 00:39:38.460]   And it's a power, you know, you're not a lot of things want to do that, right?
+[00:39:38.460 --> 00:39:42.460]   A lot of, you know, I'm sure the pro-lifers would like to go into campuses and say no one can have a pro-choice position.
+[00:39:42.460 --> 00:39:43.460]   They don't have the power.
+[00:39:43.460 --> 00:39:50.460]   Cancel culture is a product of a group that's not supposed to have the power to do that, having the power to do that.
+[00:39:50.460 --> 00:39:53.460]   And I think that comes from the fear of social media.
+[00:39:53.460 --> 00:39:58.460]   I think that comes from this hypercharged tribalism in the environment we live in right now and a lot of things.
+[00:39:58.460 --> 00:39:59.460]   Let me give you a solution.
+[00:39:59.460 --> 00:40:02.460]   So one of the solutions to many things in life is moving to Miami.
+[00:40:02.460 --> 00:40:04.460]   And I'm serious about this.
+[00:40:04.460 --> 00:40:06.460]   [Laughter]
+[00:40:06.460 --> 00:40:09.460]   Ladies and gentlemen, Mayor Francis Suarez is here.
+[00:40:09.460 --> 00:40:17.460]   One of the most stark things when we moved to Miami 17 months ago was in Miami, it's incredibly refreshing because everybody has a different position.
+[00:40:17.460 --> 00:40:24.460]   There's literally no environment socially, politically, culturally, business-wise where you won't run into people who voted for Biden or for Trump.
+[00:40:24.460 --> 00:40:27.460]   Like you cannot go to a dinner of eight people and have people have the same views.
+[00:40:27.460 --> 00:40:31.460]   You cannot work in a company where people haven't voted or have different views.
+[00:40:31.460 --> 00:40:34.460]   And if you try to caricature people, you're going to be wrong all the time.
+[00:40:34.460 --> 00:40:38.460]   Even I catch myself like assuming this person of this demographic is going to be liberal and they're not.
+[00:40:38.460 --> 00:40:46.460]   And so here people learn to both be polite, like sort of like when you were growing up, you were taught like you don't debate religion in front of people at dinner.
+[00:40:46.460 --> 00:40:48.460]   People are polite, but also they have to engage.
+[00:40:48.460 --> 00:40:52.460]   And it's incredibly refreshing because people learn to partake in arguments.
+[00:40:52.460 --> 00:40:56.460]   And it would be impossible to live in Miami successfully unless you do this every day.
+[00:40:56.460 --> 00:40:59.460]   And so I think this is a model for America, like many things in Miami.
+[00:40:59.460 --> 00:41:01.460]   But Keith, over time, doesn't that transform?
+[00:41:01.460 --> 00:41:07.460]   So like isn't there a concentration of ideas of memetics that ultimately kind of rule the juice?
+[00:41:07.460 --> 00:41:14.460]   And you know, this whole thing kind of eventually you end up with, you know, two polls, two camps.
+[00:41:14.460 --> 00:41:17.460]   I mean, isn't this how all society start the great debate, the great conversation?
+[00:41:17.460 --> 00:41:20.460]   This is a microcosm of what just happens with human behavior over time.
+[00:41:20.460 --> 00:41:25.460]   Maybe, because if you understand ideas, one of the benefits for me was I grew up in like the most woke environments ever.
+[00:41:25.460 --> 00:41:28.460]   I spent years at Stanford and then Harvard, like pretty woke places.
+[00:41:28.460 --> 00:41:31.460]   And all my professors in political science were super liberal.
+[00:41:31.460 --> 00:41:37.460]   But I was conservative the whole time and every one of my essays, if you read my final exams, they're all conservative.
+[00:41:37.460 --> 00:41:43.460]   Because I had to learn to master all the liberal arguments and find the weaknesses and the data points and be able to marshal evidence.
+[00:41:43.460 --> 00:41:44.460]   And that's a healthy thing.
+[00:41:44.460 --> 00:41:50.460]   So when you encounter people who have different views, like for example, you know, there's controversial laws in Florida.
+[00:41:50.460 --> 00:41:54.460]   Don't say gay, quote unquote, you know, changes in abortion policy here.
+[00:41:54.460 --> 00:41:58.460]   People here will talk about them politely and debate them.
+[00:41:58.460 --> 00:41:59.460]   And that's good for everybody.
+[00:41:59.460 --> 00:42:05.460]   Like I bet you, for example, like, you know, if you read the media or you read Twitter, you think this abortion law change in Florida is radical.
+[00:42:05.460 --> 00:42:08.460]   It's actually more permissive than any European country.
+[00:42:08.460 --> 00:42:09.460]   But no one knows that.
+[00:42:09.460 --> 00:42:12.460]   France actually only allows abortion up to 14 weeks.
+[00:42:12.460 --> 00:42:13.460]   Germany is like 16.
+[00:42:13.460 --> 00:42:14.460]   So we're 20 here.
+[00:42:14.460 --> 00:42:16.460]   So we're more liberal than Europe.
+[00:42:16.460 --> 00:42:18.460]   But nobody talks about that on Twitter that way.
+[00:42:18.460 --> 00:42:20.460]   But if you lived in Florida, you would actually know that.
+[00:42:20.460 --> 00:42:23.460]   By the way, the campuses you just described, they're not here anymore.
+[00:42:23.460 --> 00:42:30.460]   The amount of testimonials from students saying, if I disagree with the professor on my exam, I will get a bad grade, even worse.
+[00:42:30.460 --> 00:42:35.460]   Again, this is when there's encroachment by a low-rung giant and there's no pushback, it will keep going.
+[00:42:35.460 --> 00:42:37.460]   So they've gone to some crazy places.
+[00:42:37.460 --> 00:42:42.460]   Here's an example.
+[00:42:42.460 --> 00:42:52.460]   Berkeley right now and UCLA and about 20 other schools, if you want to apply to be a chemistry professor, the first thing that you do is you have to fill out a diversity statement.
+[00:42:52.460 --> 00:42:54.460]   And that sounds nice, a diversity statement.
+[00:42:54.460 --> 00:43:02.460]   But it's actually you have to basically prove that you have a proven track record of social justice activism of the woke variety, not MLK-style social justice.
+[00:43:02.460 --> 00:43:04.460]   Very specific social justice.
+[00:43:04.460 --> 00:43:09.460]   And if you are not a proven activist that has the right political, it's more than even a political litmus test.
+[00:43:09.460 --> 00:43:13.460]   You have to actually be an activist to get it, to even be seen by the chemistry department.
+[00:43:13.460 --> 00:43:15.460]   They won't even show the chemistry.
+[00:43:15.460 --> 00:43:17.460]   So the stories like that, you're just like, oh, my God.
+[00:43:17.460 --> 00:43:19.460]   But that's what happens when the immune system is failing.
+[00:43:19.460 --> 00:43:21.460]   The things will continue.
+[00:43:21.460 --> 00:43:23.460]   So what is the antidote to that?
+[00:43:23.460 --> 00:43:25.460]   For those of us that can't move to Miami.
+[00:43:25.460 --> 00:43:27.460]   Well, everybody can.
+[00:43:27.460 --> 00:43:28.460]   We welcome you.
+[00:43:28.460 --> 00:43:30.460]   Those of us that haven't yet.
+[00:43:30.460 --> 00:43:37.460]   The antidote is leadership, because what happens is in each one of these stories, you know, James Bennett getting fired from the New York Times, right?
+[00:43:37.460 --> 00:43:39.460]   Read the story in detail.
+[00:43:39.460 --> 00:43:43.460]   You know, McNeil is another example from the New York Times for a whole long story.
+[00:43:43.460 --> 00:43:50.460]   But in each story, the leadership often -- because leadership is, you know, most people are not insane like this.
+[00:43:50.460 --> 00:43:52.460]   Almost every -- this is, again, with the orange circles.
+[00:43:52.460 --> 00:43:56.460]   Almost everyone actually thinks this is insane, these firings.
+[00:43:56.460 --> 00:43:58.460]   And that's what's scary is they're happening anyway.
+[00:43:58.460 --> 00:44:04.460]   But in each of these stories, you see a moment when the leadership first says, well, you know, here we do agree, even though I hate his views, too.
+[00:44:04.460 --> 00:44:07.460]   You know, we value a diversity of viewpoint.
+[00:44:07.460 --> 00:44:09.460]   And then there's a huge pushback.
+[00:44:09.460 --> 00:44:11.460]   And there's a moment of truth.
+[00:44:11.460 --> 00:44:14.460]   Are they going to stand up for the Veritas and for the core values?
+[00:44:14.460 --> 00:44:19.460]   Are they going to -- or are they going to seed the culture to the mob?
+[00:44:19.460 --> 00:44:25.460]   And what the cancel culture is, is these moments of truth, the leadership choosing cowardice.
+[00:44:25.460 --> 00:44:30.460]   And the actual cudgel of social media doesn't actually hit the person.
+[00:44:30.460 --> 00:44:33.460]   It's the leader actually going and actually firing them.
+[00:44:33.460 --> 00:44:35.460]   The leader is the one who ends up actually being the one.
+[00:44:35.460 --> 00:44:38.460]   >> Standing up to the mob as opposed to letting the mob rule you.
+[00:44:38.460 --> 00:44:39.460]   >> Yes.
+[00:44:39.460 --> 00:44:41.460]   >> Which is the hard thing in a lot of these companies, too.
+[00:44:41.460 --> 00:44:42.460]   >> Well, it's very hard to do.
+[00:44:42.460 --> 00:44:43.460]   You think about -- we --
+[00:44:43.460 --> 00:44:45.460]   >> We see it in all these companies in Silicon Valley.
+[00:44:45.460 --> 00:44:47.460]   >> We see it when we do the podcast.
+[00:44:47.460 --> 00:44:55.460]   >> We were in a panel a moment and we were discussing the don't say gay/parents choice bill.
+[00:44:55.460 --> 00:45:01.460]   Which you look at the framing of that, it's completely hilarious that like we framed it as those two things.
+[00:45:01.460 --> 00:45:05.460]   Either you're like you don't want parents to be able to parent their kids or you hate gay people.
+[00:45:05.460 --> 00:45:06.460]   It's like really?
+[00:45:06.460 --> 00:45:08.460]   Is that what we're talking about here?
+[00:45:08.460 --> 00:45:11.460]   And we looked at it and a couple of besties were having a conversation.
+[00:45:11.460 --> 00:45:12.460]   I won't say who.
+[00:45:12.460 --> 00:45:14.460]   And we were trying to get educated on it.
+[00:45:14.460 --> 00:45:20.460]   And I'm like should people be able to talk about their gay parents in first grade, second grade, third grade?
+[00:45:20.460 --> 00:45:21.460]   Of course.
+[00:45:21.460 --> 00:45:22.460]   You're a parent.
+[00:45:22.460 --> 00:45:23.460]   You're gay.
+[00:45:23.460 --> 00:45:28.460]   I'm assuming you don't want people to be able to tell you you can't be talked about at school.
+[00:45:28.460 --> 00:45:32.460]   And then it was like and gender assignment and what gender you choose.
+[00:45:32.460 --> 00:45:35.460]   And now we're sitting there going I don't actually know enough about this.
+[00:45:35.460 --> 00:45:40.460]   Should you introduce that you can be one of 40 genders at 6 years old or 12 years old?
+[00:45:40.460 --> 00:45:42.460]   When should sex education start?
+[00:45:42.460 --> 00:45:43.460]   I actually don't know.
+[00:45:43.460 --> 00:45:45.460]   We learned at 15.
+[00:45:45.460 --> 00:45:46.460]   Should it be 12?
+[00:45:46.460 --> 00:45:47.460]   I don't know.
+[00:45:47.460 --> 00:45:56.460]   And we were like is this a discussion we can have on the podcast without us actually consulting with some people who know more than us and discussing it.
+[00:45:56.460 --> 00:46:02.460]   And I've written about three or four tweets about the trans swimmer.
+[00:46:02.460 --> 00:46:17.460]   And I have feelings on it but I'm like should I actually tweet that I find it's profoundly unfair that this person gets to win every single women's meet and I kind of feel bad for the women who now can the best they can do is second place?
+[00:46:17.460 --> 00:46:21.460]   Am I going to get canceled for that because that was my initial response to it?
+[00:46:21.460 --> 00:46:31.460]   And I don't actually know my position because I don't know that other person's story who's a trans woman and maybe she does deserve to be in that.
+[00:46:31.460 --> 00:46:33.460]   I don't know if anybody has an answer for that.
+[00:46:33.460 --> 00:46:44.460]   So I'm curious from the besties themselves what are your thoughts on our tackling some of those things and not getting canceled or the blowback?
+[00:46:44.460 --> 00:46:49.460]   These things happen on every dimension every day which is you have more questions than answers.
+[00:46:49.460 --> 00:46:51.460]   I think Tim you wrote it in the slide.
+[00:46:51.460 --> 00:46:56.460]   It's kind of like you're navigating between high conviction and high knowledge.
+[00:46:56.460 --> 00:47:04.460]   But that's a path and that path happens because you can talk to other people and you can ask questions and you can figure out where you are today.
+[00:47:04.460 --> 00:47:06.460]   You can figure out where you could be tomorrow.
+[00:47:06.460 --> 00:47:10.460]   That's what's not allowed anymore on any dimension.
+[00:47:10.460 --> 00:47:11.460]   It's not any one specific issue.
+[00:47:11.460 --> 00:47:13.460]   It's on so many topics.
+[00:47:13.460 --> 00:47:17.460]   And the thing with that is that it gets people very afraid.
+[00:47:17.460 --> 00:47:26.460]   And then when you are afraid I think to your point what happens is you take the most simplest reductive point of view that can be the most acceptable on any topic whatever.
+[00:47:26.460 --> 00:47:29.460]   And this is what causes this snowball.
+[00:47:29.460 --> 00:47:34.460]   I literally am scared to talk about the trans issue because I feel like I don't know enough.
+[00:47:34.460 --> 00:47:36.460]   I also don't want to hurt anybody's feelings.
+[00:47:36.460 --> 00:47:38.460]   I would feel terrible if I did hurt his feelings.
+[00:47:38.460 --> 00:47:46.460]   So the reason you don't want to talk about it is because the social costs of even taking the risk of having that conversation outweigh any potential benefit.
+[00:47:46.460 --> 00:47:48.460]   It's just the conversation gets so hot.
+[00:47:48.460 --> 00:47:58.460]   But I want to go back to what Tim said that the moment of truth is when the leader of the organization has the choice of whether to fire the person the mob is going after.
+[00:47:58.460 --> 00:48:08.460]   It seems self-evident that the leader shouldn't basically join the mob and inflict mob justice on this poor employee.
+[00:48:08.460 --> 00:48:09.460]   But they do anyway.
+[00:48:09.460 --> 00:48:11.460]   And the question is why.
+[00:48:11.460 --> 00:48:16.460]   And I would argue that the reason why is because they're afraid of the New York Times hit piece.
+[00:48:16.460 --> 00:48:17.460]   That's it.
+[00:48:17.460 --> 00:48:18.460]   That's what it comes down to.
+[00:48:18.460 --> 00:48:21.460]   They're afraid that the woke mob will come after them next.
+[00:48:21.460 --> 00:48:29.460]   And we've seen it before when Brian Armstrong implemented his policy of no politics in the workplace at Coinbase who then retaliated against him.
+[00:48:29.460 --> 00:48:34.460]   He got a New York Times hit piece that was they are the enforcement wing of the woke mob.
+[00:48:34.460 --> 00:48:38.460]   When Elon said that he would restore free speech to Twitter what was the response?
+[00:48:38.460 --> 00:48:47.460]   The New York Times wrote an article basically trying to identify him with the apartheid regime in South Africa even though he was a kid.
+[00:48:47.460 --> 00:48:52.460]   The headline of the article didn't even match up with the body of the article.
+[00:48:52.460 --> 00:48:56.460]   The body of the article had numerous stories about him as a child.
+[00:48:56.460 --> 00:49:01.460]   It was also a historical account of a bunch of oppressive things that happened in South Africa.
+[00:49:01.460 --> 00:49:03.460]   When he was a child.
+[00:49:03.460 --> 00:49:17.460]   So the body of the story had nothing but anecdotes about how he even as a young adolescent basically rejected apartheid and yet the headline of the story was basically painting him with this brush.
+[00:49:17.460 --> 00:49:19.460]   So basically calling him a racist.
+[00:49:19.460 --> 00:49:21.460]   And it came from his dad.
+[00:49:21.460 --> 00:49:23.460]   And they have a super complicated relationship.
+[00:49:23.460 --> 00:49:28.460]   And so it was like the one person where you couldn't have necessarily guaranteed what would have come out of Errol's mouth.
+[00:49:28.460 --> 00:49:30.460]   And it was still so supportive of Elon.
+[00:49:30.460 --> 00:49:46.460]   So if we're going to overcome this problem I think we have to have this recognition that these prestige outlets like the New York Times who for some reason have so much credibility in our culture.
+[00:49:46.460 --> 00:49:50.460]   They have the power or they used to have the power to basically destroy people's careers.
+[00:49:50.460 --> 00:49:56.460]   We have to realize that these are just places that have been hijacked by radicals.
+[00:49:56.460 --> 00:49:58.460]   And like their stories are meaningless.
+[00:49:58.460 --> 00:50:00.460]   They're completely biased.
+[00:50:00.460 --> 00:50:05.460]   We have to stop investing them with the cultural power to like destroy people.
+[00:50:05.460 --> 00:50:06.460]   It's that simple.
+[00:50:06.460 --> 00:50:07.460]   What happens is there's a lag time.
+[00:50:07.460 --> 00:50:09.460]   Now do Fox News.
+[00:50:09.460 --> 00:50:10.460]   Here's the difference.
+[00:50:10.460 --> 00:50:13.460]   They don't have the cultural power to destroy anyone.
+[00:50:13.460 --> 00:50:14.460]   And who have they destroyed?
+[00:50:14.460 --> 00:50:15.460]   Name somebody.
+[00:50:15.460 --> 00:50:17.460]   Like what woke mob have they engineered?
+[00:50:17.460 --> 00:50:18.460]   Mike the pillow guy.
+[00:50:18.460 --> 00:50:20.460]   I think he.
+[00:50:20.460 --> 00:50:21.460]   I'm not saying look.
+[00:50:21.460 --> 00:50:24.460]   I'm not saying they wouldn't if they could.
+[00:50:24.460 --> 00:50:28.460]   I'm just saying that they can't because they don't have that kind of cultural power.
+[00:50:28.460 --> 00:50:29.460]   Before we.
+[00:50:29.460 --> 00:50:30.460]   Tim you were going to say something.
+[00:50:30.460 --> 00:50:37.460]   I was going to say when an institution like this gets what happens is a mob like this that they don't build anything.
+[00:50:37.460 --> 00:50:39.460]   You know they don't create.
+[00:50:39.460 --> 00:50:42.460]   What they do is they appropriate they hijack something.
+[00:50:42.460 --> 00:50:48.460]   They take its existing good reputation which is real power which is a lot of power and they spend it down.
+[00:50:48.460 --> 00:50:49.460]   It's not constructive.
+[00:50:49.460 --> 00:50:50.460]   It's destructive.
+[00:50:50.460 --> 00:50:51.460]   Yeah.
+[00:50:51.460 --> 00:50:55.460]   So you actually go and it's like they like they take over and they and they spend the reputation down.
+[00:50:55.460 --> 00:50:59.460]   But in the lag time between when the reputation catches up it can do a ton of damage.
+[00:50:59.460 --> 00:51:01.460]   So again I would say that a lot.
+[00:51:01.460 --> 00:51:03.460]   I'm scared about what's going on in like Ivy League institutions.
+[00:51:03.460 --> 00:51:08.460]   They have so much credibility but a lot of really bad things have kind of happened there.
+[00:51:08.460 --> 00:51:09.460]   And it's.
+[00:51:09.460 --> 00:51:10.460]   Yeah.
+[00:51:10.460 --> 00:51:13.460]   Can I suggest we pivot to tech and investing while we're here because we're going to lose.
+[00:51:13.460 --> 00:51:15.460]   Let's thank Tim Bermier for joining us.
+[00:51:15.460 --> 00:51:19.460]   And we decided to do a crossover on politics.
+[00:51:19.460 --> 00:51:26.460]   Because Keith and I were talking backstage and I was like what investments have you made.
+[00:51:26.460 --> 00:51:29.460]   He's like I've made no investments in 2022.
+[00:51:29.460 --> 00:51:34.460]   And you guys have like how big your latest fund five billion five billion dollar latest fund and you haven't made any investments.
+[00:51:34.460 --> 00:51:37.460]   And you know the fund as a whole has made some investments.
+[00:51:37.460 --> 00:51:38.460]   I haven't let any.
+[00:51:38.460 --> 00:51:39.460]   But you haven't.
+[00:51:39.460 --> 00:51:40.460]   I haven't let any new investments in 2022.
+[00:51:40.460 --> 00:51:41.460]   Yeah.
+[00:51:41.460 --> 00:51:43.460]   Last year I'd let the 13 or 14 in a year.
+[00:51:43.460 --> 00:51:48.460]   So to go to go to effectively zero for half the year is like me being on vacation.
+[00:51:48.460 --> 00:51:50.460]   Can you tell us what your point of view is.
+[00:51:50.460 --> 00:51:54.460]   Well I mean I tweeted in October but you know that we are at the height of the market.
+[00:51:54.460 --> 00:51:57.460]   I tweeted last January that we're going to see 2000 all over again.
+[00:51:57.460 --> 00:52:02.460]   And so privately internally I've been arguing this internally that this is exactly what's going to happen.
+[00:52:02.460 --> 00:52:05.460]   And so you know my behavior should reflect my views.
+[00:52:05.460 --> 00:52:08.460]   I believe in some consistency and harmonization.
+[00:52:08.460 --> 00:52:13.460]   So if I believe tech stocks and tech companies aren't worth that much I can't be investing until they reset.
+[00:52:13.460 --> 00:52:16.460]   And so I don't want to spend money and invest in companies that aren't going to make me money.
+[00:52:16.460 --> 00:52:19.460]   My job is to ultimately return billions of dollars to my LPs.
+[00:52:19.460 --> 00:52:22.460]   And if I can't do that I shouldn't be giving anybody any money.
+[00:52:22.460 --> 00:52:23.460]   So when do you change your mind.
+[00:52:23.460 --> 00:52:25.460]   Well there are founders who are ahead of the curve.
+[00:52:25.460 --> 00:52:26.460]   There always are.
+[00:52:26.460 --> 00:52:27.460]   Who understand where the world's going.
+[00:52:27.460 --> 00:52:30.460]   They actually understand the world where the world's going better than I do.
+[00:52:30.460 --> 00:52:32.460]   They actually teach me about where the world's going more typically.
+[00:52:32.460 --> 00:52:35.460]   And if they have appropriate expectations I'm happy to invest.
+[00:52:35.460 --> 00:52:42.460]   So the last three or four investments I did make actually were all interestingly enough about 1.5 million dollar investments.
+[00:52:42.460 --> 00:52:44.460]   Where the founder walked in and said you know I don't need a lot of money.
+[00:52:44.460 --> 00:52:45.460]   I can accomplish a lot.
+[00:52:45.460 --> 00:52:48.460]   I can achieve inflection moments for a very small amount of capital.
+[00:52:48.460 --> 00:52:53.460]   That was the easiest thing ever to say yes at 1.5 million dollars I don't need to think about the macro world.
+[00:52:53.460 --> 00:52:56.460]   I don't need to think about where the you know Nasdaq's going.
+[00:52:56.460 --> 00:53:03.460]   And so the last three or four investments were all incredibly disciplined founders that I made like late last year into arguably into January.
+[00:53:03.460 --> 00:53:06.460]   Now we have doubled down just to be clear about our conversation.
+[00:53:06.460 --> 00:53:10.460]   We have doubled down in portfolio companies where we've led new rounds.
+[00:53:10.460 --> 00:53:14.460]   But as far as a new investment from scratch I haven't made any new ones this year.
+[00:53:14.460 --> 00:53:22.460]   So when you double down in a moment like this how do you set valuation especially if the last valuation was maybe felt like a top tick.
+[00:53:22.460 --> 00:53:26.460]   I think the founder has sort of digested where the world is.
+[00:53:26.460 --> 00:53:28.460]   Then you know we have a dialogue about valuation.
+[00:53:28.460 --> 00:53:30.460]   Otherwise I actually encourage them to go shop it.
+[00:53:30.460 --> 00:53:32.460]   Like I'm saying like we will give you money.
+[00:53:32.460 --> 00:53:35.460]   But will you price it at the same mark at a discount now?
+[00:53:35.460 --> 00:53:39.460]   If they have a fair market valuation from top tier firms we'll try to be like in that zone.
+[00:53:39.460 --> 00:53:47.460]   But they'll often go to the market and people will be like either pass pass pass pass pass or they will give them you know just reality and then we'll match that.
+[00:53:47.460 --> 00:53:50.460]   But we've done that a few times where we've encouraged founders.
+[00:53:50.460 --> 00:53:55.460]   Typically we wouldn't do this because my partner Brian Singerman loves to power money to companies that are working.
+[00:53:55.460 --> 00:53:58.460]   That's been we've been a high conviction fund for about a decade.
+[00:53:58.460 --> 00:54:01.460]   So typically if we like a company we'll lead the next round and lead the next round.
+[00:54:01.460 --> 00:54:03.460]   We've done this with ramp for example.
+[00:54:03.460 --> 00:54:05.460]   We've led like three or four rounds.
+[00:54:05.460 --> 00:54:11.460]   But now with a valuation reset going on it's been easier sometimes with founders I really like to say why don't you go talk to five other people.
+[00:54:11.460 --> 00:54:12.460]   It's better hygiene.
+[00:54:12.460 --> 00:54:16.460]   Well it's just like go talk to five other people and I'll match what they do if they're really top tier people.
+[00:54:16.460 --> 00:54:19.460]   But like I want you to get like fair market feedback.
+[00:54:19.460 --> 00:54:21.460]   You know not just have to rely upon my judgment call.
+[00:54:21.460 --> 00:54:33.460]   Are we at the point in the cycle where the down routes the warrants the liquidation preferences have happened or are starting to be discussed?
+[00:54:33.460 --> 00:54:35.460]   We're definitely seeing a lot of liquefied preferences again.
+[00:54:35.460 --> 00:54:37.460]   Explain what it is and why that's important.
+[00:54:37.460 --> 00:54:46.460]   Yeah so liquidation preference basically means that the investor is going to get their money back first regardless of what happens in the world.
+[00:54:46.460 --> 00:54:50.460]   And that nobody who's a shareholder nobody who's a founder is going to get it.
+[00:54:50.460 --> 00:54:57.460]   Nobody is a common shareholder which basically means founder employee is going to get any money until the investor gets all their money back times some multiple.
+[00:54:57.460 --> 00:55:01.460]   And that multiple is based on time and or just a hurdle.
+[00:55:01.460 --> 00:55:04.460]   It's very scary but it can be arbitrage by success.
+[00:55:04.460 --> 00:55:09.460]   Founders sometimes can arbitrage it well meaning they have asymmetric information about the future of the company.
+[00:55:09.460 --> 00:55:14.460]   If they really believe they can hit escape velocity in a short period of time it can be a decent gamble.
+[00:55:14.460 --> 00:55:17.460]   I've seen someone like Jack Dorsey at Square did this.
+[00:55:17.460 --> 00:55:23.460]   Very sophisticated CEO and he knew what he was doing and knew why he was doing it and it's worked out pretty well actually.
+[00:55:23.460 --> 00:55:29.460]   But you're playing with a lot of fire so it's not for everybody and you should get a lot of feedback and advice before.
+[00:55:29.460 --> 00:55:31.460]   The flat rounds are definitely happening.
+[00:55:31.460 --> 00:55:35.460]   The new flat is the up round kind of philosophy even in some of our better.
+[00:55:35.460 --> 00:55:37.460]   Are those senior like pref or?
+[00:55:37.460 --> 00:55:38.460]   It depends.
+[00:55:38.460 --> 00:55:40.460]   Depends on the round.
+[00:55:40.460 --> 00:55:42.460]   They're all over the map actually.
+[00:55:42.460 --> 00:55:45.460]   So the market hasn't shifted to the point that every new money coming in senior to all other money.
+[00:55:45.460 --> 00:55:48.460]   Depends how much leverage and what quality investors you have on your cap table.
+[00:55:48.460 --> 00:55:53.460]   Like so for example someone tries to put a senior like preference on top of my capital I'm going to yell at them a lot.
+[00:55:53.460 --> 00:55:57.460]   And if they ever want a new investment that you know is from our fund they may not want to do that.
+[00:55:57.460 --> 00:56:03.460]   Do you think that we're a couple turns away from the discount rounds?
+[00:56:03.460 --> 00:56:05.460]   Well some companies are going to have to try.
+[00:56:05.460 --> 00:56:07.460]   The problem is like for example we don't like to do those rounds.
+[00:56:07.460 --> 00:56:11.460]   There's so much brain damage in the politics of that with founders, with fire investors.
+[00:56:11.460 --> 00:56:12.460]   Just actually walk us through that.
+[00:56:12.460 --> 00:56:13.460]   Why?
+[00:56:13.460 --> 00:56:14.460]   Tell us about that brain damage.
+[00:56:14.460 --> 00:56:17.460]   So typically you think there's an efficient market of pricing right?
+[00:56:17.460 --> 00:56:21.460]   Like I need this much capital and the market's going to float with the price of that capital is.
+[00:56:21.460 --> 00:56:24.460]   In private capital it's not really true.
+[00:56:24.460 --> 00:56:29.460]   Like so if someone comes to me and says you know my last round was done at 300 million you know nine months ago.
+[00:56:29.460 --> 00:56:33.460]   And today it'd probably get priced at let's say 120 million.
+[00:56:33.460 --> 00:56:37.460]   I'm more likely to say no than to give them an offer at 120.
+[00:56:37.460 --> 00:56:43.460]   Because I know their prior investors and their prior employees are going to be mad at me and furious at me.
+[00:56:43.460 --> 00:56:48.460]   And I don't want a lot of founders and people annoyed at me.
+[00:56:48.460 --> 00:56:50.460]   And so that brain damage isn't worth it.
+[00:56:50.460 --> 00:56:58.460]   So I'm more likely and our fund is more likely to say no than try to find whether 80, 100, 120, 140 is the appropriate price.
+[00:56:58.460 --> 00:57:02.460]   Which is very bad for the company in some ways because they might need the capital.
+[00:57:02.460 --> 00:57:03.460]   And you starve them of money.
+[00:57:03.460 --> 00:57:04.460]   Yeah.
+[00:57:04.460 --> 00:57:05.460]   They may be able to find somebody else.
+[00:57:05.460 --> 00:57:08.460]   But we typically at Founders Fund really don't like to do those rounds.
+[00:57:08.460 --> 00:57:13.460]   The only way we would consider it is pretty much if everybody on the cap table called us up.
+[00:57:13.460 --> 00:57:17.460]   The founder, CEO, the board members, prior investors said we really want you to do this.
+[00:57:17.460 --> 00:57:20.460]   And we're all collectively holding hands and want you to do this.
+[00:57:20.460 --> 00:57:22.460]   Then we'd seriously consider it.
+[00:57:22.460 --> 00:57:29.460]   Do you at the end of Q1, do you guys sit around and reset valuations and marks before you tell your LPs what these companies are worth?
+[00:57:29.460 --> 00:57:33.460]   Meaning your own sense when you sort of generate a sense of valuations.
+[00:57:33.460 --> 00:57:34.460]   Yeah, we do mark down.
+[00:57:34.460 --> 00:57:35.460]   Proactively mark down.
+[00:57:35.460 --> 00:57:37.460]   We do proactively mark down.
+[00:57:37.460 --> 00:57:39.460]   What's your methodology for that?
+[00:57:39.460 --> 00:57:42.460]   Peter's views?
+[00:57:42.460 --> 00:57:44.460]   I mean I think.
+[00:57:44.460 --> 00:57:45.460]   What Peter says.
+[00:57:45.460 --> 00:57:50.460]   We'd be open to doing that if we felt like we had an objective methodology for doing it.
+[00:57:50.460 --> 00:57:51.460]   It's very tricky.
+[00:57:51.460 --> 00:57:52.460]   I think you can.
+[00:57:52.460 --> 00:57:55.460]   Later stage one's a little bit easier because you can apply multiples.
+[00:57:55.460 --> 00:57:59.460]   There's public comps and you just adjust to that.
+[00:57:59.460 --> 00:58:02.460]   I think the earlier stage stuff, very difficult to do objectively.
+[00:58:02.460 --> 00:58:06.460]   And it's also not that, you're probably not as sensitive to it in terms of how it moves the needle.
+[00:58:06.460 --> 00:58:10.460]   But the growth stuff, we try to use public comps and be realistic.
+[00:58:10.460 --> 00:58:19.460]   What do you think about, we'll just throw out some firms, if you had to guess, the next 18 months for some of these folks?
+[00:58:19.460 --> 00:58:22.460]   SoftBank, Vision Fund 1 and 2.
+[00:58:22.460 --> 00:58:26.460]   I mean my views on SoftBank have been obvious since I did New York Times of all things interview.
+[00:58:26.460 --> 00:58:29.460]   In 2016, you should reread the transcript.
+[00:58:29.460 --> 00:58:31.460]   But I was like, that strategy just does not work.
+[00:58:31.460 --> 00:58:39.460]   Powering money into companies and hoping that money is the key asset and the key ingredient for success has been false in the history of technology for 50 years.
+[00:58:39.460 --> 00:58:42.460]   And so they lost $27 billion again.
+[00:58:42.460 --> 00:58:47.460]   The brand subprime, they used to do well in Latin America, but they got rid of the person who actually knew what he was doing.
+[00:58:47.460 --> 00:58:49.460]   So this is a catastrophic mess.
+[00:58:49.460 --> 00:58:55.460]   Plus it has moral issues, less moral issues than before, but still not the best investor.
+[00:58:55.460 --> 00:58:57.460]   Tiger?
+[00:58:57.460 --> 00:58:59.460]   I think they have a skill set gap.
+[00:58:59.460 --> 00:59:04.460]   If they're going to try, from what I read publicly, they're trying to invest in Series A and Series B companies.
+[00:59:04.460 --> 00:59:11.460]   The skill to be successful at investing Series A and Series B companies is very different than leading growth rounds or private or public growth rounds.
+[00:59:11.460 --> 00:59:13.460]   I mean we look at this in our fund and we do both.
+[00:59:13.460 --> 00:59:17.460]   We have a venture fund of $1.8 billion and a growth fund of $3.2 billion.
+[00:59:17.460 --> 00:59:20.460]   And we have part, the investment team is basically the same.
+[00:59:20.460 --> 00:59:24.460]   Most of the investment team, maybe all the investment team is better at one or the other.
+[00:59:24.460 --> 00:59:29.460]   And if Tiger thinks that they're going to be successful Series A investors, they're in for a very rude awakening.
+[00:59:29.460 --> 00:59:33.460]   I know about 5 or 10 people on the planet that are successful Series A investors.
+[00:59:33.460 --> 00:59:37.460]   It is a very different discipline than deploying capital writ large.
+[00:59:37.460 --> 00:59:39.460]   Sequoia?
+[00:59:39.460 --> 00:59:42.460]   I think Sequoia is the best run fund historically.
+[00:59:42.460 --> 00:59:44.460]   They are really good at what they do.
+[00:59:44.460 --> 00:59:47.460]   Obviously the world is changing around them.
+[00:59:47.460 --> 00:59:53.460]   I think like many people, crypto is kind of throwing a little monkey wrench in their model.
+[00:59:53.460 --> 00:59:54.460]   They have to scale their--
+[00:59:54.460 --> 00:59:55.460]   Oh, sorry. Explain that. What do you mean?
+[00:59:55.460 --> 00:59:57.460]   They missed the first wave of crypto.
+[00:59:57.460 --> 01:00:01.460]   And crypto has returned a decent amount of money for people.
+[01:00:01.460 --> 01:00:06.460]   And so I think that's tarnished the brand a bit with crypto people specifically.
+[01:00:06.460 --> 01:00:07.460]   But they're working on fixing that.
+[01:00:07.460 --> 01:00:09.460]   They have a really good team.
+[01:00:09.460 --> 01:00:11.460]   The team is aging still pretty well.
+[01:00:11.460 --> 01:00:14.460]   One of the hardest things in venture is you age non-gracefully in this job.
+[01:00:14.460 --> 01:00:18.460]   By the time you're my age, you're already past your prime.
+[01:00:18.460 --> 01:00:23.460]   And I kind of compare it because I went to law school with people who are US senators.
+[01:00:23.460 --> 01:00:26.460]   And I had breakfast in Miami with one of the more prominent US senators.
+[01:00:26.460 --> 01:00:29.460]   And I said, "I'm basically getting to the tail end of my career in tech."
+[01:00:29.460 --> 01:00:34.460]   And he said, "I'm in the bottom 20% of-- the youngest 20% in the US Senate."
+[01:00:34.460 --> 01:00:36.460]   And so there's a big contrast.
+[01:00:36.460 --> 01:00:39.460]   But anyway, I think they're excellent at what they do.
+[01:00:39.460 --> 01:00:40.460]   A boy for Senate?
+[01:00:40.460 --> 01:00:41.460]   Sorry?
+[01:00:41.460 --> 01:00:43.460]   A boy for Senate? You might run for Senate?
+[01:00:43.460 --> 01:00:45.460]   Oh, I'm not running for Senate. No. Maybe my husband.
+[01:00:45.460 --> 01:00:46.460]   Second career?
+[01:00:46.460 --> 01:00:47.460]   I'm going to take the politics.
+[01:00:47.460 --> 01:00:49.460]   Andreessen?
+[01:00:49.460 --> 01:00:54.460]   In crypto, they're excellent.
+[01:00:54.460 --> 01:00:56.460]   Let me ask you a question. I want to take the other side of the crypto.
+[01:00:56.460 --> 01:01:03.460]   Missing the last crypto insanity, if this thing does all get torched, as it seems to be,
+[01:01:03.460 --> 01:01:08.460]   and nobody's shipping actual products that touch customers, that actually solve problems in the world,
+[01:01:08.460 --> 01:01:16.460]   sitting out that crazy, frenetic moment might actually look astute.
+[01:01:16.460 --> 01:01:23.460]   Because some of these projects, I do not see them shipping products that work.
+[01:01:23.460 --> 01:01:26.460]   I think that you're saying something that's practically true,
+[01:01:26.460 --> 01:01:29.460]   but I think Keith is also saying something that is practically true,
+[01:01:29.460 --> 01:01:34.460]   which is if you're a fund that has that crypto deal flow,
+[01:01:34.460 --> 01:01:38.460]   at least my understanding of that playbook is you seed a project,
+[01:01:38.460 --> 01:01:42.460]   you make sure that you get some amount of the float of tokens,
+[01:01:42.460 --> 01:01:45.460]   you're allowed to monetize those tokens very quickly,
+[01:01:45.460 --> 01:01:48.460]   and so as long as you're in the flow--
+[01:01:48.460 --> 01:01:49.460]   There's money to be made.
+[01:01:49.460 --> 01:01:52.460]   There's a lot of money to be made, and I think what Keith is saying,
+[01:01:52.460 --> 01:01:55.460]   and this is where Sequoia may have made an excellent decision,
+[01:01:55.460 --> 01:01:59.460]   which is that form of money making is not very reliable,
+[01:01:59.460 --> 01:02:04.460]   and I think that there's going to be a lot of questions about that once there's a regulatory framework.
+[01:02:04.460 --> 01:02:07.460]   Yes, and it might turn out there's a lot of lawsuits.
+[01:02:07.460 --> 01:02:09.460]   Three points. Mostly I agree with that.
+[01:02:09.460 --> 01:02:14.460]   I think, first of all, it depends what you think your vision of what a venture fund does or what you do as a partner.
+[01:02:14.460 --> 01:02:16.460]   To me, I think I'm in the company building mode,
+[01:02:16.460 --> 01:02:19.460]   and so people who are not building companies, I'm not really interested in making money.
+[01:02:19.460 --> 01:02:21.460]   I'm not in hedge fund mode.
+[01:02:21.460 --> 01:02:25.460]   So tokens without successful products in iconic companies aren't interesting to me,
+[01:02:25.460 --> 01:02:26.460]   even if they return capital.
+[01:02:26.460 --> 01:02:29.460]   We did think at Founders Fund, though, that all the alpha was in Bitcoin.
+[01:02:29.460 --> 01:02:33.460]   So going back a decade, not me, but my partners bought a lot of Bitcoin,
+[01:02:33.460 --> 01:02:36.460]   and we made a lot of money with Bitcoin because we thought the alpha was there,
+[01:02:36.460 --> 01:02:37.460]   not in the company building.
+[01:02:37.460 --> 01:02:42.460]   A year or two ago, we started to shift, and I think appropriately, I think there may be some alpha.
+[01:02:42.460 --> 01:02:46.460]   Now, we're in the end of one business, Founders Fund, meaning the right founder.
+[01:02:46.460 --> 01:02:48.460]   It's worth us investing.
+[01:02:48.460 --> 01:02:49.460]   The wrong founder, it's not.
+[01:02:49.460 --> 01:02:54.460]   And so there are crypto projects and crypto companies where the founder is extraordinary,
+[01:02:54.460 --> 01:02:57.460]   and we would love to be the primary investor if we can.
+[01:02:57.460 --> 01:03:00.460]   And then there's a bunch of other companies that might be successful, but that's not our business.
+[01:03:00.460 --> 01:03:03.460]   We are in the end of one, find the next Elon, back them.
+[01:03:03.460 --> 01:03:07.460]   Isn't the fundamental problem that a lot of the way these crypto projects are designed
+[01:03:07.460 --> 01:03:10.460]   is that you don't have protective provisions, preferred shares,
+[01:03:10.460 --> 01:03:12.460]   and the operating system that venture runs on--
+[01:03:12.460 --> 01:03:14.460]   None of it. Nothing.
+[01:03:14.460 --> 01:03:19.460]   And they're asking you to give them a donation of $100 million for a token
+[01:03:19.460 --> 01:03:23.460]   that has some Panamanian foundation, and you don't have a board seat.
+[01:03:23.460 --> 01:03:27.460]   I mean, this seems incredibly high risk and undisciplined to me.
+[01:03:27.460 --> 01:03:30.460]   They are high risk, but we're in the business of high risk in some ways.
+[01:03:30.460 --> 01:03:34.460]   The protective provisions, I think we don't really care that much about them at Founders Fund.
+[01:03:34.460 --> 01:03:38.460]   It is one of the theses that Peter started the fund with, which is these terms are way overrated,
+[01:03:38.460 --> 01:03:43.460]   that ultimately the companies that succeed are the Facebooks, the Palantirs, the SpaceXs.
+[01:03:43.460 --> 01:03:45.460]   That's where you make your money in this business.
+[01:03:45.460 --> 01:03:48.460]   And worrying about what goes wrong-- But those companies have boards.
+[01:03:48.460 --> 01:03:50.460]   They do have boards, and I actually believe in boards,
+[01:03:50.460 --> 01:03:53.460]   but I believe in boards as being a mentor, a consigliere, not in governance.
+[01:03:53.460 --> 01:03:58.460]   Of course. Okay, great. But you're not buying Chuck E. Cheese tokens.
+[01:03:58.460 --> 01:04:01.460]   I never give a term sheet that has a board provision for me.
+[01:04:01.460 --> 01:04:03.460]   The Founders requires me to join the board.
+[01:04:03.460 --> 01:04:08.460]   Got it. But I mean, the tokens, I think, are part of the problem that I can't get my head around.
+[01:04:08.460 --> 01:04:10.460]   Yes. The issue with tokens is a little more structural.
+[01:04:10.460 --> 01:04:14.460]   When you have liquidity prior to success, that's not necessarily a good incentive.
+[01:04:14.460 --> 01:04:20.460]   I think success, liquidity should follow success with product, follow with users, follow with traction,
+[01:04:20.460 --> 01:04:22.460]   not be in advance. And I think that just distorts--
+[01:04:22.460 --> 01:04:27.460]   So what happens to those teams when they get flush with a billion dollars in tokens or a hundred million in tokens--
+[01:04:27.460 --> 01:04:30.460]   They wind down the product. --and they haven't shipped the product.
+[01:04:30.460 --> 01:04:34.460]   Yes, it has misaligned or bad or perverse incentives all over.
+[01:04:34.460 --> 01:04:38.460]   Talk about-- You were mentioning in the back, in a moment like this,
+[01:04:38.460 --> 01:04:41.460]   the people that it's hardest for, right after the entrepreneur,
+[01:04:41.460 --> 01:04:44.460]   is, you said, the junior partners at these organizations.
+[01:04:44.460 --> 01:04:49.460]   Just describe the dynamic now of having to run an organization where you're trying to tell people,
+[01:04:49.460 --> 01:04:51.460]   "Just go to the beach for a year."
+[01:04:51.460 --> 01:04:55.460]   Yes. I mean, I think, look, the way you become successful in venture is you give money to a founder
+[01:04:55.460 --> 01:04:58.460]   who turns it into an iconic company. That is how you get promoted.
+[01:04:58.460 --> 01:05:04.460]   That's the job. And so if you tell your colleagues, "Well, don't make any investments right now,"
+[01:05:04.460 --> 01:05:08.460]   they're thinking in the back of their mind, "Well, how do I become successful?"
+[01:05:08.460 --> 01:05:11.460]   So it's easy for me to say this. It's easier for Peter to say this.
+[01:05:11.460 --> 01:05:13.460]   It's easier for Brian to say this.
+[01:05:13.460 --> 01:05:17.460]   But it's not so easy for people who want to make their career to say, "Don't make any investments."
+[01:05:17.460 --> 01:05:19.460]   Now, that said, if you make a lot of bad investments--
+[01:05:19.460 --> 01:05:22.460]   Semmel Scha has a good blog post about this. "Your portfolio is your career."
+[01:05:22.460 --> 01:05:28.460]   Once you make five or ten investments in venture, if those aren't good, they're never going to get great.
+[01:05:28.460 --> 01:05:31.460]   I don't know there's a single example of a VC who became successful--
+[01:05:31.460 --> 01:05:33.460]   Exactly. --where the first five or seven--
+[01:05:33.460 --> 01:05:35.460]   Exactly. --didn't show some signs of brilliance.
+[01:05:35.460 --> 01:05:40.460]   It's literally the story of the people on the stage right now is that we either got lucky or we were good
+[01:05:40.460 --> 01:05:43.460]   or some combination of the early investments actually hitting.
+[01:05:43.460 --> 01:05:47.460]   I'm definitely worse. Like my first five investments, three of them became public companies.
+[01:05:47.460 --> 01:05:50.460]   And so I was like-- I hit two unicorns in the first four.
+[01:05:50.460 --> 01:05:51.460]   Definitely worse than I used to be.
+[01:05:51.460 --> 01:05:55.460]   I mean, I hit two unicorns in the first four. How does it happen? It's just luck, I think.
+[01:05:55.460 --> 01:05:58.460]   I do think there's some luck to it or maybe your network.
+[01:05:58.460 --> 01:06:01.460]   Well, network. So for me, it was easy because these were people that we worked--
+[01:06:01.460 --> 01:06:06.460]   I worked with at PayPal. And I was smart enough to at least follow the people that were launching companies
+[01:06:06.460 --> 01:06:07.460]   after PayPal and give them some money.
+[01:06:07.460 --> 01:06:11.460]   So I didn't have to know much about venture other than just follow my former colleagues.
+[01:06:11.460 --> 01:06:20.460]   We have to wrap and go to lunch. We're going to end with Sax telling us his most illustrative and funny story
+[01:06:20.460 --> 01:06:23.460]   about Keith Raboi from Stanford.
+[01:06:23.460 --> 01:06:25.460]   Oh my God. There's so many good ones.
+[01:06:25.460 --> 01:06:29.460]   Some great moment with Keith.
+[01:06:29.460 --> 01:06:31.460]   I don't know.
+[01:06:31.460 --> 01:06:37.460]   The two of you. You can feel the friendship and all the memories coming through for Sax right now.
+[01:06:37.460 --> 01:06:40.460]   All these great-- I could flip it, Keith, and maybe since Sax--
+[01:06:40.460 --> 01:06:43.460]   I like the work that Keith and I did at PayPal better, I guess.
+[01:06:43.460 --> 01:06:44.460]   Yeah. That was great.
+[01:06:44.460 --> 01:06:46.460]   Okay, fine. Whatever. Stanford, PayPal. Give us the moment.
+[01:06:46.460 --> 01:06:48.460]   What do you think are the best stories?
+[01:06:48.460 --> 01:06:54.460]   Well, one good one that I think is instructive is I was kind of this opinionated person running around all the time,
+[01:06:54.460 --> 01:06:58.460]   probably half right, half wrong. And David was basically running the company at the time.
+[01:06:58.460 --> 01:07:02.460]   And I could occasionally sabotage some projects.
+[01:07:02.460 --> 01:07:07.460]   And David had a really good way of reframing and channeling my energy, which I think is applicable to most people.
+[01:07:07.460 --> 01:07:11.460]   He's like, basically, I don't mind if you send me any of this feedback, but you have to send it to me directly,
+[01:07:11.460 --> 01:07:14.460]   not to other people. And then you would filter it.
+[01:07:14.460 --> 01:07:18.460]   If it's right, I'll act on it. And if not, et cetera, I'll debate it with you.
+[01:07:18.460 --> 01:07:21.460]   But it was actually constructive for the organization.
+[01:07:21.460 --> 01:07:27.460]   So I felt liberalized to basically give the feedback and try to edit our course.
+[01:07:27.460 --> 01:07:30.460]   And it would be channeled and useful, but it wasn't distracting people.
+[01:07:30.460 --> 01:07:35.460]   And so I think that is something like a lesson I've taken with me that I actually now use as a CEO all the time.
+[01:07:35.460 --> 01:07:40.460]   This is what's so crazy about this. I've heard this exact story from Reid Hoffman tell me that about you.
+[01:07:40.460 --> 01:07:44.460]   I think it was either PayPal or LinkedIn where you would send these emails.
+[01:07:44.460 --> 01:07:48.460]   And it was just like lighting everybody and everything on fire.
+[01:07:48.460 --> 01:07:51.460]   Oh my God. The emails were good, though. The emails were really good.
+[01:07:51.460 --> 01:07:54.460]   Let's make it like letters from a boy.
+[01:07:54.460 --> 01:07:57.460]   I reread the emails and I'm like, shit, I can't write that well anymore.
+[01:07:57.460 --> 01:08:02.460]   Letters from a boy. A memoir. Let's give it up for Keith Raboy.
+[01:08:03.460 --> 01:08:05.460]   We'll let your winners ride.
+[01:08:05.460 --> 01:08:08.460]   Rain Man David Sachs.
+[01:08:08.460 --> 01:08:14.460]   And it said we open sourced it to the fans and they've just gone crazy with it.
+[01:08:14.460 --> 01:08:17.460]   Love you, West. I'm the queen of Kinwam.
+[01:08:17.460 --> 01:08:25.460]   Besties are gone.
+[01:08:25.460 --> 01:08:28.460]   That's my dog taking a notice in your driveway.
+[01:08:28.460 --> 01:08:32.460]   Sachs. Oh man.
+[01:08:32.460 --> 01:08:38.460]   We should all just get a room and just have one big huge orgy because they're all just useless.
+[01:08:38.460 --> 01:08:41.460]   It's like sexual tension that they just need to release somehow.
+[01:08:41.460 --> 01:08:44.460]   Wet or be?
+[01:08:44.460 --> 01:08:46.460]   Wet or be?
+[01:08:46.460 --> 01:08:49.460]   We need to get merch.
+[01:08:49.460 --> 01:08:51.460]   Besties are gone.
+[01:08:57.460 --> 01:08:59.460]   Going all in
+

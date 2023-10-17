@@ -1,0 +1,341 @@
+
+[00:00:00.000 --> 00:00:10.000]   [BLANK_AUDIO]
+[00:00:10.000 --> 00:00:20.000]   [BLANK_AUDIO]
+[00:00:20.000 --> 00:00:30.000]   [BLANK_AUDIO]
+[00:00:30.000 --> 00:00:40.000]   [BLANK_AUDIO]
+[00:00:40.000 --> 00:00:50.000]   [BLANK_AUDIO]
+[00:00:50.000 --> 00:01:00.000]   [BLANK_AUDIO]
+[00:01:00.000 --> 00:01:10.000]   [BLANK_AUDIO]
+[00:01:10.000 --> 00:01:20.000]   [BLANK_AUDIO]
+[00:01:20.000 --> 00:01:30.000]   [BLANK_AUDIO]
+[00:01:30.000 --> 00:01:40.000]   [BLANK_AUDIO]
+[00:01:40.000 --> 00:01:50.000]   [BLANK_AUDIO]
+[00:01:50.000 --> 00:02:00.000]   [BLANK_AUDIO]
+[00:02:00.000 --> 00:02:10.000]   [BLANK_AUDIO]
+[00:02:10.000 --> 00:02:20.000]   [BLANK_AUDIO]
+[00:02:20.000 --> 00:02:30.000]   [BLANK_AUDIO]
+[00:02:30.000 --> 00:02:40.000]   [BLANK_AUDIO]
+[00:02:40.000 --> 00:02:50.000]   [BLANK_AUDIO]
+[00:02:50.000 --> 00:03:00.000]   [BLANK_AUDIO]
+[00:03:00.000 --> 00:03:10.000]   [BLANK_AUDIO]
+[00:03:10.000 --> 00:03:20.000]   [BLANK_AUDIO]
+[00:03:20.000 --> 00:03:30.000]   [BLANK_AUDIO]
+[00:03:30.000 --> 00:03:40.000]   [BLANK_AUDIO]
+[00:03:40.000 --> 00:03:50.000]   [BLANK_AUDIO]
+[00:03:50.000 --> 00:04:00.000]   [BLANK_AUDIO]
+[00:04:00.000 --> 00:04:10.000]   [BLANK_AUDIO]
+[00:04:10.000 --> 00:04:20.000]   [BLANK_AUDIO]
+[00:04:20.000 --> 00:04:30.000]   [BLANK_AUDIO]
+[00:04:30.000 --> 00:04:40.000]   [BLANK_AUDIO]
+[00:04:40.000 --> 00:04:50.000]   [BLANK_AUDIO]
+[00:04:50.000 --> 00:05:00.000]   [BLANK_AUDIO]
+[00:05:00.000 --> 00:05:10.000]   [BLANK_AUDIO]
+[00:05:10.000 --> 00:05:20.000]   [BLANK_AUDIO]
+[00:05:20.000 --> 00:05:30.000]   [BLANK_AUDIO]
+[00:05:30.000 --> 00:05:40.000]   [BLANK_AUDIO]
+[00:05:40.000 --> 00:05:50.000]   [BLANK_AUDIO]
+[00:05:50.000 --> 00:06:00.000]   [BLANK_AUDIO]
+[00:06:00.000 --> 00:06:10.000]   [BLANK_AUDIO]
+[00:06:10.000 --> 00:06:20.000]   [BLANK_AUDIO]
+[00:06:20.000 --> 00:06:30.000]   [BLANK_AUDIO]
+[00:06:30.000 --> 00:06:40.000]   [BLANK_AUDIO]
+[00:06:40.000 --> 00:06:50.000]   [BLANK_AUDIO]
+[00:06:50.000 --> 00:07:00.000]   [BLANK_AUDIO]
+[00:07:00.000 --> 00:07:10.000]   [BLANK_AUDIO]
+[00:07:10.000 --> 00:07:20.000]   [BLANK_AUDIO]
+[00:07:20.000 --> 00:07:30.000]   [BLANK_AUDIO]
+[00:07:30.000 --> 00:07:40.000]   [BLANK_AUDIO]
+[00:07:40.000 --> 00:07:50.000]   [BLANK_AUDIO]
+[00:07:50.000 --> 00:08:00.000]   [BLANK_AUDIO]
+[00:08:00.000 --> 00:08:10.000]   [BLANK_AUDIO]
+[00:08:10.000 --> 00:08:20.000]   [BLANK_AUDIO]
+[00:08:20.000 --> 00:08:30.000]   [BLANK_AUDIO]
+[00:08:30.000 --> 00:08:40.000]   [BLANK_AUDIO]
+[00:08:40.000 --> 00:08:50.000]   [BLANK_AUDIO]
+[00:08:50.000 --> 00:09:00.000]   [BLANK_AUDIO]
+[00:09:00.000 --> 00:09:10.000]   [BLANK_AUDIO]
+[00:09:10.000 --> 00:09:20.000]   [BLANK_AUDIO]
+[00:09:20.000 --> 00:09:30.000]   [BLANK_AUDIO]
+[00:09:30.000 --> 00:09:40.000]   [BLANK_AUDIO]
+[00:09:40.000 --> 00:09:50.000]   [BLANK_AUDIO]
+[00:09:50.000 --> 00:10:00.000]   [BLANK_AUDIO]
+[00:10:00.000 --> 00:10:10.000]   [BLANK_AUDIO]
+[00:10:10.000 --> 00:10:20.000]   [BLANK_AUDIO]
+[00:10:20.000 --> 00:10:30.000]   [BLANK_AUDIO]
+[00:10:30.000 --> 00:10:40.000]   [BLANK_AUDIO]
+[00:10:40.000 --> 00:10:50.000]   [BLANK_AUDIO]
+[00:10:50.000 --> 00:11:00.000]   [BLANK_AUDIO]
+[00:11:00.000 --> 00:11:10.000]   [BLANK_AUDIO]
+[00:11:10.000 --> 00:11:20.000]   [BLANK_AUDIO]
+[00:11:20.000 --> 00:11:30.000]   [BLANK_AUDIO]
+[00:11:30.000 --> 00:11:40.000]   [BLANK_AUDIO]
+[00:11:40.000 --> 00:11:50.000]   [BLANK_AUDIO]
+[00:11:50.000 --> 00:12:00.000]   [BLANK_AUDIO]
+[00:12:00.000 --> 00:12:10.000]   [BLANK_AUDIO]
+[00:12:10.000 --> 00:12:20.000]   [BLANK_AUDIO]
+[00:12:20.000 --> 00:12:30.000]   [BLANK_AUDIO]
+[00:12:30.000 --> 00:12:40.000]   [BLANK_AUDIO]
+[00:12:40.000 --> 00:12:50.000]   [BLANK_AUDIO]
+[00:12:50.000 --> 00:13:00.000]   [BLANK_AUDIO]
+[00:13:00.000 --> 00:13:10.000]   [BLANK_AUDIO]
+[00:13:10.000 --> 00:13:20.000]   [BLANK_AUDIO]
+[00:13:20.000 --> 00:13:30.000]   [BLANK_AUDIO]
+[00:13:30.000 --> 00:13:40.000]   [BLANK_AUDIO]
+[00:13:40.000 --> 00:13:50.000]   [BLANK_AUDIO]
+[00:13:50.000 --> 00:14:00.000]   [BLANK_AUDIO]
+[00:14:00.000 --> 00:14:10.000]   [BLANK_AUDIO]
+[00:14:10.000 --> 00:14:20.000]   [BLANK_AUDIO]
+[00:14:20.000 --> 00:14:30.000]   [BLANK_AUDIO]
+[00:14:30.000 --> 00:14:40.000]   [BLANK_AUDIO]
+[00:14:40.000 --> 00:14:50.000]   [BLANK_AUDIO]
+[00:14:50.000 --> 00:15:00.000]   [BLANK_AUDIO]
+[00:15:00.000 --> 00:15:10.000]   [BLANK_AUDIO]
+[00:15:10.000 --> 00:15:20.000]   [BLANK_AUDIO]
+[00:15:20.000 --> 00:15:30.000]   [BLANK_AUDIO]
+[00:15:30.000 --> 00:15:40.000]   [BLANK_AUDIO]
+[00:15:40.000 --> 00:15:42.000]   [BLANK_AUDIO]
+[00:15:42.000 --> 00:15:46.000]   >> All right, so again, just be patient with us.
+[00:15:46.000 --> 00:15:50.000]   And I know we've been live streaming for a while, but to do it as our main service,
+[00:15:50.000 --> 00:15:53.000]   it's gonna take a little bit of tweaking.
+[00:15:53.000 --> 00:15:56.000]   And so each week we may have certain things that are different, but again,
+[00:15:56.000 --> 00:15:57.000]   just be patient with us.
+[00:15:57.000 --> 00:16:01.000]   Our guess is that we're gonna be doing this for at least a month.
+[00:16:01.000 --> 00:16:03.000]   Hopefully it won't go longer than that.
+[00:16:03.000 --> 00:16:06.000]   If there's any time where our leaders need prayer,
+[00:16:06.000 --> 00:16:09.000]   we're talking about the governmental leaders, it is now.
+[00:16:09.000 --> 00:16:12.000]   The Bible tells us that we need to be praying for our leaders,
+[00:16:12.000 --> 00:16:16.000]   and those who are in authority, so that we may live peaceful and quiet lives.
+[00:16:16.000 --> 00:16:19.000]   We need to be praying for our president.
+[00:16:19.000 --> 00:16:21.000]   We need to be praying for the vice president.
+[00:16:21.000 --> 00:16:25.000]   We need to be praying for our governor and the local leaders.
+[00:16:25.000 --> 00:16:30.000]   So if there's any time where we need to put aside our party affiliations
+[00:16:30.000 --> 00:16:32.000]   and political views, it is now.
+[00:16:32.000 --> 00:16:37.000]   That they would make sound judgments as what is best for the country,
+[00:16:37.000 --> 00:16:38.000]   best for the world.
+[00:16:38.000 --> 00:16:42.000]   And again, that no matter where you stand politically,
+[00:16:42.000 --> 00:16:46.000]   this is a time we really need to be praying for our leaders.
+[00:16:46.000 --> 00:16:52.000]   I wanna get to a few things of announcements before we start our praise.
+[00:16:52.000 --> 00:16:56.000]   First of all, since we're online, there's gonna be more and more things
+[00:16:56.000 --> 00:16:59.000]   that we're gonna be trying to address online.
+[00:16:59.000 --> 00:17:02.000]   Our website, Facebook, Instagram.
+[00:17:02.000 --> 00:17:05.000]   Our leaders are talking almost daily to talk about
+[00:17:05.000 --> 00:17:09.000]   how can we keep the church connected during this time.
+[00:17:09.000 --> 00:17:12.000]   And so if you go onto our Facebook page,
+[00:17:12.000 --> 00:17:16.000]   you've probably already seen a lot of stuff being posted on Instagram already.
+[00:17:16.000 --> 00:17:21.000]   And our media team is working overtime to make sure that all this is being taken care of.
+[00:17:21.000 --> 00:17:24.000]   But if you can check more regularly,
+[00:17:24.000 --> 00:17:28.000]   if you're one of those people that only checks Facebook every once in a while,
+[00:17:28.000 --> 00:17:32.000]   we encourage you while you're at home to at least check as often as you can
+[00:17:32.000 --> 00:17:35.000]   because we're gonna try to put more content on there,
+[00:17:35.000 --> 00:17:39.000]   whether it is video, whether it is encouragement.
+[00:17:39.000 --> 00:17:42.000]   So again, be patient with us.
+[00:17:42.000 --> 00:17:45.000]   We're gonna be doing that, and things are gonna be changing day to day.
+[00:17:45.000 --> 00:17:49.000]   As an announcement going forward, our Easter events that was scheduled
+[00:17:49.000 --> 00:17:52.000]   for the next, I think, two to three weeks coming up,
+[00:17:52.000 --> 00:17:55.000]   we are gonna be having those. We're not canceling any of those.
+[00:17:55.000 --> 00:17:58.000]   But obviously, we're gonna be going online.
+[00:17:58.000 --> 00:18:01.000]   So the devotions that we plan to do during the weekday,
+[00:18:01.000 --> 00:18:03.000]   we're gonna be having that online.
+[00:18:03.000 --> 00:18:07.000]   So our pastors are gonna be leading us through devotions of what's going on each day
+[00:18:07.000 --> 00:18:09.000]   with the testimonies.
+[00:18:09.000 --> 00:18:11.000]   Thursday night when we had our Passover meal,
+[00:18:11.000 --> 00:18:14.000]   obviously we're not gonna be able to do that.
+[00:18:14.000 --> 00:18:17.000]   But there will be a devotion that will be given that night as well.
+[00:18:17.000 --> 00:18:22.000]   And then the Good Friday, we won't be able to physically gather,
+[00:18:22.000 --> 00:18:26.000]   but assuming that we are still at the same stage,
+[00:18:26.000 --> 00:18:30.000]   that we're gonna be having Good Friday online as well
+[00:18:30.000 --> 00:18:32.000]   and Sunday service.
+[00:18:32.000 --> 00:18:34.000]   Most likely, we will not have early-rise service,
+[00:18:34.000 --> 00:18:36.000]   but just kind of give you a heads up.
+[00:18:36.000 --> 00:18:39.000]   So if you're inviting people to watch with you
+[00:18:39.000 --> 00:18:41.000]   or just kind of give them the website,
+[00:18:41.000 --> 00:18:43.000]   just let them know that all those things are taking place,
+[00:18:43.000 --> 00:18:47.000]   and we're in the process right now of trying to get all that stuff ready.
+[00:18:47.000 --> 00:18:52.000]   A couple of things that, again, I wanna, since today is our first time,
+[00:18:52.000 --> 00:18:56.000]   I've given you the outlines of the sermon.
+[00:18:56.000 --> 00:19:01.000]   Our AV team, which right now is Richard Lee,
+[00:19:01.000 --> 00:19:07.000]   he basically put, he was able to put the outline onto the page.
+[00:19:07.000 --> 00:19:11.000]   So you're gonna see as I'm speaking, the outline is gonna be shown,
+[00:19:11.000 --> 00:19:16.000]   and even the worship, the lyrics are gonna be shown on the screen simultaneously.
+[00:19:16.000 --> 00:19:18.000]   But for this week, we weren't sure if we were gonna be able to do that,
+[00:19:18.000 --> 00:19:20.000]   so I've already made the outline for you.
+[00:19:20.000 --> 00:19:23.000]   So if you, you don't have to download it, you can look at it,
+[00:19:23.000 --> 00:19:25.000]   and if you don't want to, it'll be on the screen anyway.
+[00:19:25.000 --> 00:19:28.000]   And I've also made one for the children.
+[00:19:28.000 --> 00:19:29.000]   Let me get the...
+[00:19:29.000 --> 00:19:37.000]   So the one you have probably has a little bit more, you know, clip art on it,
+[00:19:37.000 --> 00:19:40.000]   but I made this so that the children that you're worshipping with
+[00:19:40.000 --> 00:19:43.000]   can also worship with you, and it's just basic outline
+[00:19:43.000 --> 00:19:47.000]   for them to pay attention to the larger understanding.
+[00:19:47.000 --> 00:19:50.000]   The sermons are obviously gonna be geared more toward the adults,
+[00:19:50.000 --> 00:19:53.000]   but hopefully if you have children who are a little bit older who can read,
+[00:19:53.000 --> 00:19:56.000]   that they can follow along and answer some questions.
+[00:19:56.000 --> 00:19:59.000]   And this will be helpful if you, after the service,
+[00:19:59.000 --> 00:20:01.000]   if you want to take some time to discuss with your children
+[00:20:01.000 --> 00:20:04.000]   about the content of the sermon, or at least the part that they understood,
+[00:20:04.000 --> 00:20:06.000]   that you can use this as a guide.
+[00:20:06.000 --> 00:20:10.000]   And so for the adults, you probably won't be getting the outline.
+[00:20:10.000 --> 00:20:13.000]   You'll be seeing it on the screen, but you might get like a basic outline.
+[00:20:13.000 --> 00:20:17.000]   But for the children, I'm gonna do my best to get one of these out,
+[00:20:17.000 --> 00:20:21.000]   maybe on Saturday night, so that you'll have something to work with with your children.
+[00:20:21.000 --> 00:20:22.000]   Okay?
+[00:20:22.000 --> 00:20:26.000]   And if you have any questions on that, just email us or text us.
+[00:20:26.000 --> 00:20:31.000]   And one other thing is, because we're going live,
+[00:20:31.000 --> 00:20:34.000]   we're gonna, we're switching out the order of our worship a little bit.
+[00:20:34.000 --> 00:20:37.000]   We're gonna actually start with the offering.
+[00:20:37.000 --> 00:20:38.000]   Okay?
+[00:20:38.000 --> 00:20:40.000]   So right after I'm done with the announcement,
+[00:20:40.000 --> 00:20:42.000]   I'm gonna be praying for us in the offering.
+[00:20:42.000 --> 00:20:47.000]   So during the offering time, we're asking you to obviously go online.
+[00:20:47.000 --> 00:20:51.000]   There's instructions there, whether through PayPal or Venmo, whatever avenues.
+[00:20:51.000 --> 00:20:54.000]   And the reason why we're doing that is,
+[00:20:54.000 --> 00:20:58.000]   we don't want our Sunday worship to kind of look like, you know, like a Bible study,
+[00:20:58.000 --> 00:21:00.000]   where we just kind of go through the material and that's it.
+[00:21:00.000 --> 00:21:02.000]   We want to have Sunday worship.
+[00:21:02.000 --> 00:21:06.000]   We want that to mimic our live worship as much as possible.
+[00:21:06.000 --> 00:21:08.000]   And so even the time of giving,
+[00:21:08.000 --> 00:21:11.000]   because that is an act of worship that we're giving to God,
+[00:21:11.000 --> 00:21:15.000]   we're asking you to take some time to be intentional with that.
+[00:21:15.000 --> 00:21:19.000]   And even Sunday worship, that you would approach it with the,
+[00:21:19.000 --> 00:21:22.000]   with the honor that, that God is due.
+[00:21:22.000 --> 00:21:25.000]   That even though you are most likely sitting in your living rooms or bedrooms,
+[00:21:25.000 --> 00:21:28.000]   or maybe in front of your computer on your desk,
+[00:21:28.000 --> 00:21:31.000]   that there would be a sense of reverence toward what we're doing.
+[00:21:31.000 --> 00:21:34.000]   That you'd be intentional with your family to sit together.
+[00:21:34.000 --> 00:21:37.000]   And again, just follow along as we do,
+[00:21:37.000 --> 00:21:40.000]   like you would do on Sunday, except you'll be at home.
+[00:21:40.000 --> 00:21:41.000]   Okay?
+[00:21:41.000 --> 00:21:44.000]   And whatever that may entail in your household,
+[00:21:44.000 --> 00:21:46.000]   we're asking you to follow along with that.
+[00:21:46.000 --> 00:21:47.000]   Okay?
+[00:21:47.000 --> 00:21:49.000]   Alright, so if I have any other announcements,
+[00:21:49.000 --> 00:21:51.000]   we'll let you know as time goes.
+[00:21:51.000 --> 00:21:53.000]   But again, let me pray for us,
+[00:21:53.000 --> 00:21:57.000]   and then we're going to give you maybe about 15, 20 seconds to do the PayPal.
+[00:21:57.000 --> 00:22:00.000]   And then our worship team will come in and they'll lead us.
+[00:22:00.000 --> 00:22:01.000]   Okay?
+[00:22:01.000 --> 00:22:02.000]   Let's pray.
+[00:22:02.000 --> 00:22:09.000]   Gracious and loving Father,
+[00:22:09.000 --> 00:22:14.000]   we, even in this situation, we praise you and thank you.
+[00:22:14.000 --> 00:22:20.000]   You are a God who truly deserves all our worship, all our attention.
+[00:22:20.000 --> 00:22:23.000]   I pray for our Berean families who are scattered,
+[00:22:23.000 --> 00:22:27.000]   and in our own homes, in our various places, Lord God,
+[00:22:27.000 --> 00:22:29.000]   where we are worshiping you.
+[00:22:29.000 --> 00:22:34.000]   We also pray for the guests who have come and are participating in this worship,
+[00:22:34.000 --> 00:22:37.000]   that your Holy Spirit, through your word, would speak to us,
+[00:22:37.000 --> 00:22:40.000]   that our worship that we give to you,
+[00:22:40.000 --> 00:22:42.000]   whether we are physically together or apart,
+[00:22:42.000 --> 00:22:45.000]   would truly be in spirit and in truth.
+[00:22:45.000 --> 00:22:48.000]   We pray for the leadership of this country,
+[00:22:48.000 --> 00:22:50.000]   that you would give them much wisdom.
+[00:22:50.000 --> 00:22:53.000]   Help them, Lord God, to be united together.
+[00:22:53.000 --> 00:22:58.000]   Republicans, Democrats, Senate, Congress,
+[00:22:58.000 --> 00:23:01.000]   whatever positions that people may be in,
+[00:23:01.000 --> 00:23:04.000]   I pray, Father God, that they may be able to make decisions
+[00:23:04.000 --> 00:23:08.000]   that are ultimately for the good of the country and good of this world.
+[00:23:08.000 --> 00:23:11.000]   We pray for our health workers, Lord God, who are on the front line,
+[00:23:11.000 --> 00:23:14.000]   who are being exposed to the virus day to day.
+[00:23:14.000 --> 00:23:16.000]   I pray for calm hearts.
+[00:23:16.000 --> 00:23:18.000]   I pray that you would remind them, Lord God,
+[00:23:18.000 --> 00:23:20.000]   that you are a sovereign God in control.
+[00:23:20.000 --> 00:23:22.000]   I pray that you would protect them.
+[00:23:22.000 --> 00:23:25.000]   I pray, Father God, that you give them opportunity to shine Christ
+[00:23:25.000 --> 00:23:27.000]   in the hope that we have in Him.
+[00:23:27.000 --> 00:23:30.000]   We pray that what we are doing here online, Lord God,
+[00:23:30.000 --> 00:23:33.000]   would not diminish our worship that we give to you.
+[00:23:33.000 --> 00:23:35.000]   And even this offering that we give,
+[00:23:35.000 --> 00:23:37.000]   help us to give it with a reverent heart.
+[00:23:37.000 --> 00:23:40.000]   It may be multiplied for your use.
+[00:23:40.000 --> 00:23:42.000]   In Jesus' name we pray. Amen.
+[00:23:42.000 --> 00:23:45.000]   [Silence]
+[00:23:45.000 --> 00:23:48.000]   [Silence]
+[00:24:13.000 --> 00:24:16.000]   [Music]
+[00:24:17.000 --> 00:24:20.000]   [Music]
+[00:24:21.000 --> 00:24:24.000]   [Music]
+[00:24:24.000 --> 00:24:30.000]   [Music]
+[00:24:30.000 --> 00:24:36.000]   [Music]
+[00:24:36.000 --> 00:24:42.000]   [Music]
+[00:24:42.000 --> 00:24:48.000]   [Music]
+[00:24:49.000 --> 00:24:52.000]   [Music]
+[00:24:52.000 --> 00:25:01.000]   [Music]
+[00:25:01.000 --> 00:25:11.000]   [Music]
+[00:25:11.000 --> 00:25:14.000]   [Music]
+[00:25:14.000 --> 00:25:21.000]   [Music]
+[00:25:21.000 --> 00:25:29.000]   [Music]
+[00:25:29.000 --> 00:25:37.000]   [Music]
+[00:25:38.000 --> 00:25:41.000]   [Music]
+[00:25:41.000 --> 00:25:50.000]   [Music]
+[00:25:50.000 --> 00:26:00.000]   [Music]
+[00:26:01.000 --> 00:26:04.000]   [Music]
+[00:26:04.000 --> 00:26:13.000]   [Music]
+[00:26:13.000 --> 00:26:23.000]   [Music]
+[00:26:23.000 --> 00:26:26.000]   [Music]
+[00:26:26.000 --> 00:26:32.000]   [Music]
+[00:26:32.000 --> 00:26:38.000]   [Music]
+[00:26:38.000 --> 00:26:45.000]   [Music]
+[00:26:45.000 --> 00:26:51.000]   [Music]
+[00:26:52.000 --> 00:26:55.000]   [Music]
+[00:26:55.000 --> 00:27:01.000]   [Music]
+[00:27:01.000 --> 00:27:08.000]   [Music]
+[00:27:08.000 --> 00:27:16.000]   [Music]
+[00:27:17.000 --> 00:27:20.000]   [Music]
+[00:27:20.000 --> 00:27:29.000]   [Music]
+[00:27:29.000 --> 00:27:39.000]   [Music]
+[00:27:40.000 --> 00:27:43.000]   [Music]
+[00:27:43.000 --> 00:27:52.000]   [Music]
+[00:27:52.000 --> 00:27:58.000]   [Music]
+[00:28:06.000 --> 00:28:09.000]   [Music]
+[00:28:09.000 --> 00:28:16.000]   [Music]
+[00:28:16.000 --> 00:28:22.000]   [Music]
+[00:28:22.000 --> 00:28:30.000]   [Music]
+[00:28:31.000 --> 00:28:34.000]   [Music]
+[00:28:34.000 --> 00:28:43.000]   [Music]
+[00:28:43.000 --> 00:28:53.000]   [Music]
+[00:28:54.000 --> 00:28:57.000]   [Music]
+[00:28:57.000 --> 00:29:06.000]   [Music]
+[00:29:06.000 --> 00:29:16.000]   [Music]
+[00:29:16.000 --> 00:29:19.000]   [Music]
+[00:29:19.000 --> 00:29:25.000]   [Music]
+[00:29:25.000 --> 00:29:34.000]   [Music]
+[00:29:34.000 --> 00:29:37.000]   [Music]
+[00:29:37.000 --> 00:29:43.000]   [Music]
+[00:29:44.000 --> 00:29:47.000]   [Music]
+[00:29:47.000 --> 00:29:53.000]   [Music]
+[00:29:53.000 --> 00:29:59.000]   [Music]
+[00:29:59.000 --> 00:30:05.000]   [Music]
+[00:30:05.000 --> 00:30:11.000]   [Music]
+[00:30:12.000 --> 00:30:15.000]   [Music]
+[00:30:15.000 --> 00:30:20.000]   [Music]
+[00:30:20.000 --> 00:30:25.000]   [Music]
+[00:30:25.000 --> 00:30:30.000]   [Music]
+[00:30:30.000 --> 00:30:35.000]   [Music]
+[00:30:35.000 --> 00:30:40.000]   [Music]
+[00:30:41.000 --> 00:30:44.000]   [Music]
+[00:30:44.000 --> 00:30:50.000]   [Music]
+[00:30:50.000 --> 00:30:56.000]   [Music]
+[00:30:56.000 --> 00:31:02.000]   [Music]
+[00:31:02.000 --> 00:31:08.000]   [Music]
+[00:31:09.000 --> 00:31:12.000]   [Music]
+[00:31:12.000 --> 00:31:18.000]   [Music]
+[00:31:18.000 --> 00:31:24.000]   [Music]
+[00:31:24.000 --> 00:31:30.000]   [Music]
+[00:31:30.000 --> 00:31:36.000]   [Music]
+[00:31:37.000 --> 00:31:40.000]   [Music]
+[00:31:40.000 --> 00:31:46.000]   [Music]
+[00:31:46.000 --> 00:31:52.000]   [Music]
+[00:31:52.000 --> 00:31:58.000]   [Music]
+[00:31:58.000 --> 00:32:05.000]   [Music]
+[00:32:06.000 --> 00:32:09.000]   [Music]
+[00:32:09.000 --> 00:32:15.000]   [Music]
+[00:32:15.000 --> 00:32:21.000]   [Music]
+[00:32:21.000 --> 00:32:27.000]   [Music]
+[00:32:27.000 --> 00:32:33.000]   [Music]
+[00:32:34.000 --> 00:32:37.000]   [Music]
+[00:32:37.000 --> 00:32:43.000]   [Music]
+[00:32:43.000 --> 00:32:49.000]   [Music]
+[00:32:49.000 --> 00:32:55.000]   [Music]
+[00:32:55.000 --> 00:33:01.000]   [Music]
+[00:33:02.000 --> 00:33:05.000]   [Music]
+[00:33:05.000 --> 00:33:11.000]   [Music]
+[00:33:11.000 --> 00:33:18.000]   [Music]
+[00:33:18.000 --> 00:33:25.000]   [Music]

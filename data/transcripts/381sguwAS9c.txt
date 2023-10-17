@@ -1,0 +1,666 @@
+
+[00:00:00.000 --> 00:00:06.860]   Next up is Nicole Paul. I'm really excited for this talk. I think you guys will find a lot of optimism in where
+[00:00:06.860 --> 00:00:14.960]   Technology is playing out in in biology and bioengineering to cure fundamental human disease
+[00:00:14.960 --> 00:00:16.840]   For nearly 20 years
+[00:00:16.840 --> 00:00:24.740]   She's been developing next generation a AV platforms for gene repair gene transfer and gene editing and she's directed evolution for novel
+[00:00:24.740 --> 00:00:26.640]   engineered capsids and
+[00:00:26.640 --> 00:00:31.700]   Comparative multi-omic approaches to interrogate translational AAV biology
+[00:00:31.700 --> 00:00:38.000]   She's going to share a little bit about her work with her startup siren biotechnology, which came out of stealth last year
+[00:00:38.000 --> 00:00:39.480]   Please join me in welcoming
+[00:00:39.480 --> 00:00:41.480]   Dr. Paul to the stage
+[00:00:41.480 --> 00:00:58.480]   [Music]
+[00:00:58.480 --> 00:01:05.320]   All right quick show of hands how many of you have ever even heard of the phrase gene therapy or viral gene therapy before oh
+[00:01:05.320 --> 00:01:09.360]   My gosh, what do you guys read in Wall Street Journal and The Economist? All right, pretty good
+[00:01:10.320 --> 00:01:12.320]   Usually it's like two hands
+[00:01:12.320 --> 00:01:15.200]   So who the heck am I and why am I up here talking to you about this?
+[00:01:15.200 --> 00:01:18.660]   So like they said, my name is dr. Nicole Paul cup until like a hot minute ago
+[00:01:18.660 --> 00:01:22.280]   I was a professor of viral gene therapy at UCSF in San Francisco
+[00:01:22.280 --> 00:01:25.160]   And decided to spin out a company based off some work in my lab
+[00:01:25.160 --> 00:01:31.960]   And I'm here to talk to you guys a little bit about using viruses as medicine. So so what is gene therapy broadly speaking?
+[00:01:31.960 --> 00:01:34.560]   This is using viruses as medicines
+[00:01:34.560 --> 00:01:38.820]   So historically we have used these to treat single gene genetic disorders
+[00:01:38.820 --> 00:01:42.000]   But we can use these much more broadly now and I'll share a little bit about that
+[00:01:42.000 --> 00:01:44.120]   but historically we've used these when
+[00:01:44.120 --> 00:01:46.120]   you were born either
+[00:01:46.120 --> 00:01:50.640]   missing a gene in your genome or you had a mutation in a particular gene in your genome and
+[00:01:50.640 --> 00:01:53.760]   all you needed in order to be completely healthy was to have a
+[00:01:53.760 --> 00:01:57.240]   functional copy of that gene given back to you or to have
+[00:01:57.240 --> 00:02:03.680]   That the particular mutation in that gene corrected and restored for you and we can do all of these with viruses
+[00:02:03.680 --> 00:02:08.680]   And so if that sounds a little bit crazy and a little bit new and a little bit revolutionary
+[00:02:08.680 --> 00:02:11.260]   It's because it is we're kind of quite literally living through
+[00:02:11.260 --> 00:02:15.640]   One of the most recent and kind of newest eras of modern medicine
+[00:02:15.640 --> 00:02:19.320]   And so in order to talk about where we are, we kind of need to understand where we came from
+[00:02:19.320 --> 00:02:22.000]   So nearly every one of you in this room
+[00:02:22.000 --> 00:02:29.920]   This first era of modern medicine started probably with your either your parents or your grandparents. This is with chemical medicines
+[00:02:29.920 --> 00:02:33.300]   This is when we realized that gosh every time I have a stomach ache
+[00:02:33.300 --> 00:02:38.580]   I can go eat this one particular leaf from a tree and when I eat that leaf, I feel much better
+[00:02:38.580 --> 00:02:41.240]   And then the scientists realized well, we don't have to eat the leaf
+[00:02:41.240 --> 00:02:46.060]   We could isolate the chemical compound that comes from that leaf and then we could produce that in mass
+[00:02:46.060 --> 00:02:51.640]   Synthetically in large vats in the lab and that way we don't have to all go outside and eat and eat leaves all the time
+[00:02:51.640 --> 00:02:59.360]   And so the advent of chemical medicines and realizing that we could isolate these and synthesize these in mass was an absolute transformation
+[00:02:59.360 --> 00:03:04.740]   This is nearly every drug you've ever taken in your life. These are all the pills you can go find at your local pharmacy
+[00:03:05.440 --> 00:03:09.720]   Particularly the ones that are over-the-counter and this is the vast majority of medicines you've ever taken in your entire life
+[00:03:09.720 --> 00:03:15.120]   And the way these chemical medicines work, right you take that pill you swallow it it goes into your stomach
+[00:03:15.120 --> 00:03:17.920]   It gets dissolved by the acids in your stomach
+[00:03:17.920 --> 00:03:24.440]   It then gets absorbed into the bloodstream in your GI tract and then goes throughout your entire body and it will bind to and affect
+[00:03:24.440 --> 00:03:29.360]   Kind of either the shape or the function or the ability of various proteins in your body in a way
+[00:03:29.360 --> 00:03:31.360]   That's useful to reduce your symptoms
+[00:03:31.600 --> 00:03:36.880]   And so then in the next kind of era of medicine we had the brilliant idea. Well, let's just cut out the middleman
+[00:03:36.880 --> 00:03:42.820]   Let's not give you a chemical that alters the shape or function of a protein. Let's just give you the protein
+[00:03:42.820 --> 00:03:46.640]   Let's let's advance to protein medicines and let's now take a protein
+[00:03:46.640 --> 00:03:50.840]   that has the particular shape in the function that you might need in order to provide some kind of
+[00:03:50.840 --> 00:03:54.760]   Therapeutic benefit for the disease state that you have and give you that as a drug
+[00:03:54.760 --> 00:04:00.140]   And so that's kind of been the next kind of most recent wave of modern medicine
+[00:04:00.140 --> 00:04:03.000]   And so this is things like enzyme treatments and antibody therapies
+[00:04:03.000 --> 00:04:07.840]   Many of you in the room have probably heard of the most successful drug of all time
+[00:04:07.840 --> 00:04:13.540]   Anyone know what it is anyone want to shout out a guess? What's the most successful drug of all time? That's raised the most money
+[00:04:13.540 --> 00:04:19.200]   It's not Viagra guys
+[00:04:19.200 --> 00:04:25.680]   Humira someone said it. So this is an antibody
+[00:04:25.680 --> 00:04:28.740]   That's used to treat a particular form of arthritis
+[00:04:29.280 --> 00:04:36.860]   This antibody cells on average a little over 21 billion dollars worth of just that drug every single year and has been the most
+[00:04:36.860 --> 00:04:41.680]   Successful drug for the last 20 years. This is what we call a blockbuster
+[00:04:41.680 --> 00:04:47.080]   This is what everyone is shooting for in their portfolio is a blockbuster drug and it's an antibody
+[00:04:47.080 --> 00:04:50.980]   But now we're entering kind of this newest third modern
+[00:04:50.980 --> 00:04:53.960]   Form of medicine, which is what we call living medicines
+[00:04:53.960 --> 00:05:01.000]   This is using things like viruses bacteria cells things that are quote-unquote alive that we can now use to go in and impart changes
+[00:05:01.000 --> 00:05:05.600]   In your body. Why would we do that? Well both chemical medicines and protein medicines
+[00:05:05.600 --> 00:05:10.200]   We typically either give orally or we give intravenously, which means they're gonna go throughout your entire body
+[00:05:10.200 --> 00:05:13.600]   But in some cases we don't want a drug to go to your entire body
+[00:05:13.600 --> 00:05:19.480]   Like for example when you take chemo boy, you feel like trash right? It's because it's also affecting healthy cells in your body
+[00:05:19.480 --> 00:05:23.240]   So sometimes we want the medicine to only go into a simple place in your body
+[00:05:23.640 --> 00:05:28.560]   Or a single place so that way you only experience the therapeutic effect in a single location
+[00:05:28.560 --> 00:05:32.960]   The other really cool thing we can do with things like viruses and cells is we can engineer
+[00:05:32.960 --> 00:05:35.000]   I know many of you here like tech or tech adjacent
+[00:05:35.000 --> 00:05:36.720]   We can engineer in logic circuits
+[00:05:36.720 --> 00:05:42.800]   so we can add things like if then or and and all these types of kind of boolean logic we can engineer those circuits into
+[00:05:42.800 --> 00:05:46.840]   Viruses and cells and have them perform those same types of decisions
+[00:05:46.840 --> 00:05:51.720]   Within your body like if you experience this release the drug if you experience this don't
+[00:05:52.240 --> 00:05:57.280]   So you can engineer in these types of circuits in order to get this really really precise delivery of any particular
+[00:05:57.280 --> 00:06:00.640]   Medicine that you're interested in delivering and you can package almost anything in a virus
+[00:06:00.640 --> 00:06:05.920]   And so a really common misconception is that all viruses are bad for you all viruses make you sick
+[00:06:05.920 --> 00:06:11.640]   Couldn't be farther from the truth the vast majority of viruses on the planet are very good at getting inside of you
+[00:06:11.640 --> 00:06:13.400]   But very few of them make you sick
+[00:06:13.400 --> 00:06:17.480]   I bet most of you can't name more than 20 viruses and all the viruses you can name are
+[00:06:17.480 --> 00:06:21.240]   Viruses that make you sick like measles mumps polio smallpox these types of things
+[00:06:21.560 --> 00:06:24.200]   We only know of them because we studied them because they make us sick
+[00:06:24.200 --> 00:06:27.920]   But the vast majority of the viruses on the planet can actually kind of be considered our
+[00:06:27.920 --> 00:06:30.920]   Allies their tools that we can use that don't make us sick
+[00:06:30.920 --> 00:06:35.620]   But they're still very good at getting inside of us that we can use to deliver all kinds of medicines
+[00:06:35.620 --> 00:06:41.440]   So all of this is talk much more fun to look at is an actual video of this in
+[00:06:41.440 --> 00:06:46.800]   Action and so what I'm going to show you on this screen is a patient from a clinical trial
+[00:06:47.400 --> 00:06:53.400]   From a patient that has a rare form of inherited genetic blindness. This is a disease called Leber's congenital amaurosis
+[00:06:53.400 --> 00:06:56.920]   These patients are born basically medically blind
+[00:06:56.920 --> 00:07:02.400]   They cannot see at birth and you're gonna see two videos the one on the left is gonna be this patient pre-treatment
+[00:07:02.400 --> 00:07:07.120]   Attempting to navigate a maze you can see that maze on the floor at very very low light
+[00:07:07.120 --> 00:07:10.720]   So the reason that this looks very yellow is because it's taken at one
+[00:07:10.720 --> 00:07:15.840]   Luminal unit or low light all of us have much poorer visual acuity at low light than we do at highlight
+[00:07:15.840 --> 00:07:20.040]   So it's not that this video was taken in 1985. It was just in very very low light. That's why it looks yellow
+[00:07:20.040 --> 00:07:26.920]   So I'm actually gonna start that video and I'll kind of talk over this this patient while they're going so this patient's medically blind
+[00:07:26.920 --> 00:07:31.960]   They cannot see the arrows on the ground that they're being told to navigate nor can they see the little obstacles that they're being told
+[00:07:31.960 --> 00:07:33.640]   Like you should step over
+[00:07:33.640 --> 00:07:35.480]   So they're feeling for them with their feet
+[00:07:35.480 --> 00:07:40.020]   Just like you would if you were blind and you didn't have your walking stick you would just kind of feel in front of you
+[00:07:40.020 --> 00:07:43.120]   To see what was there so that you wouldn't manage to trip and fall
+[00:07:43.520 --> 00:07:46.840]   So I'm not actually going to show you this entire video because it took this poor patient
+[00:07:46.840 --> 00:07:51.480]   214 seconds to attempt this navigate this 8 foot 8 foot by 8 foot maze
+[00:07:51.480 --> 00:07:56.440]   And all this patient needed they were missing a single protein in the back of their eye
+[00:07:56.440 --> 00:07:58.900]   All they needed was a single viral infusion
+[00:07:58.900 --> 00:08:03.160]   For that virus to express a single protein that that patient was missing in their eye
+[00:08:03.160 --> 00:08:05.880]   And this is that exact same patient
+[00:08:05.880 --> 00:08:11.440]   Again, this was a 10 year old just one year after treatment. They would have been able to do this within seven days though
+[00:08:11.520 --> 00:08:15.040]   So they have absolutely perfect vision so we're able to
+[00:08:15.040 --> 00:08:17.040]   *applause*
+[00:08:17.040 --> 00:08:21.040]   This same young patient has now gone on to get their driver's license
+[00:08:21.040 --> 00:08:27.520]   They are they are walking quite literally they are walking amongst us
+[00:08:27.520 --> 00:08:34.560]   Leading a completely normal life. So this feels crazy and revolutionary like oh my gosh, I hadn't heard about this
+[00:08:34.560 --> 00:08:37.800]   When is this when is this coming for the rest of us and all of our indications?
+[00:08:38.800 --> 00:08:40.800]   Soon
+[00:08:40.800 --> 00:08:47.440]   Where are we now? This is a one-year-old slide the next prospectus from Wells Fargo is expected to come out any day now
+[00:08:47.440 --> 00:08:49.440]   I was hoping it would come out before this talk, but it didn't
+[00:08:49.440 --> 00:08:54.960]   But this is the annual prospectus they put out every year of kind of the advancement of these gene therapy companies
+[00:08:54.960 --> 00:08:56.960]   They do this for every industry, but this is for gene therapy
+[00:08:56.960 --> 00:09:01.320]   So this is all of the logos of all of the companies that are working in gene therapy for various diseases
+[00:09:01.320 --> 00:09:05.200]   The outer rings are kind of the earliest stages of development those phase one
+[00:09:05.200 --> 00:09:11.000]   Phase two trials and as you move towards the center towards the bullseye, that's when your FDA approved and you can sell your drug for hopefully
+[00:09:11.000 --> 00:09:13.000]   21 billion dollars a year and be a blockbuster
+[00:09:13.000 --> 00:09:18.800]   But as you can see right there is a wave of gene therapies coming for even
+[00:09:18.800 --> 00:09:24.000]   So even those few of you who didn't raise your hand earlier that you had ever heard of gene therapy before I promise you in
+[00:09:24.000 --> 00:09:28.680]   Your lifetime no matter how old any of you are in this audience in your lifetime
+[00:09:28.680 --> 00:09:31.200]   You are going to receive a viral gene therapies medicine
+[00:09:31.200 --> 00:09:36.200]   So there's a particular virus Dave mentioned it earlier that I like to work on this virus called a V
+[00:09:36.200 --> 00:09:40.400]   And it's typically used like I were mentioning before to treat rare genetic disorders
+[00:09:40.400 --> 00:09:44.200]   Some of the disorders that we've been able to cure are the ones shown here on this slide
+[00:09:44.200 --> 00:09:51.200]   And again, we've typically only done rare single gene disorders and in my lab at UCSF and now at the company
+[00:09:51.200 --> 00:09:53.200]   We wanted to ask a little bit bolder question
+[00:09:53.200 --> 00:09:57.200]   Typically, we've only used these to treat rare genetic disorders
+[00:09:57.200 --> 00:10:05.200]   Could we use these to treat other indication spaces ones with many more patients where the need is much greater and the benefit to humanity would be much more
+[00:10:05.200 --> 00:10:09.200]   So we wanted to ask a rather audacious question rather than having a virus that might cause cancer
+[00:10:09.200 --> 00:10:11.200]   Could you use a virus to cure cancer?
+[00:10:11.200 --> 00:10:15.200]   Could you actually use a virus as a medicine that could be used to treat cancer?
+[00:10:15.200 --> 00:10:21.200]   So we've been working on this for the last seven years to try to go against conventional gene therapy
+[00:10:21.200 --> 00:10:26.200]   So every gene therapy that we've been able to use is a virus that's been used to treat cancer
+[00:10:26.200 --> 00:10:27.200]   So what is gene therapy?
+[00:10:27.200 --> 00:10:31.200]   So every gene therapy on the planet, all the ones on that bullseye I just showed you on the last slide
+[00:10:31.200 --> 00:10:34.200]   Whether they're from academia, industry, big pharma, doesn't matter
+[00:10:34.200 --> 00:10:38.200]   Every one of those is bespoke and personalized for a single indication
+[00:10:38.200 --> 00:10:42.200]   So that virus that you make can only be used to treat that one disease and no other disease
+[00:10:42.200 --> 00:10:46.200]   And every one of those viruses takes about 10 to 15 years to develop
+[00:10:46.200 --> 00:10:48.200]   So this is very time intensive
+[00:10:48.200 --> 00:10:50.200]   Usually on average about 2 to 3 billion dollars
+[00:10:50.200 --> 00:10:53.200]   So maybe not necessarily as expensive as the gentleman who just left the stage
+[00:10:53.200 --> 00:10:56.200]   But a very, very expensive technology nonetheless
+[00:10:56.200 --> 00:10:59.200]   And typically treat very, very small patient populations
+[00:10:59.200 --> 00:11:05.200]   The definition of a rare disease in the United States is anything that occurs in fewer than 200,000 patients a year
+[00:11:05.200 --> 00:11:10.200]   But most of those gene therapies are going after indications with like 100 patients, 200 patients
+[00:11:10.200 --> 00:11:12.200]   So very, very rare disorders
+[00:11:12.200 --> 00:11:15.200]   So we wanted to go after something that would help much more of humanity
+[00:11:15.200 --> 00:11:17.200]   And so we wanted to ask the question
+[00:11:17.200 --> 00:11:21.200]   Could we make a single gene therapy that could be used to treat millions of patients
+[00:11:21.200 --> 00:11:23.200]   Across a variety of indication spaces
+[00:11:23.200 --> 00:11:26.200]   Things like cancer where they're often very similar to one another
+[00:11:26.200 --> 00:11:29.200]   Could you make a universal gene therapy?
+[00:11:29.200 --> 00:11:31.200]   Is that even a thing?
+[00:11:31.200 --> 00:11:36.200]   And so we wanted to kind of set out on a fairly audacious project
+[00:11:36.200 --> 00:11:39.200]   To not only bring viral gene therapy to the oncology world
+[00:11:39.200 --> 00:11:42.200]   But to blend it with one of the newest forms of oncology
+[00:11:42.200 --> 00:11:45.200]   Which is this idea or this concept of immunotherapy
+[00:11:45.200 --> 00:11:47.200]   Many of you have maybe even heard of this before
+[00:11:47.200 --> 00:11:50.200]   There's a variety of different ways you can accomplish this
+[00:11:50.200 --> 00:11:52.200]   And they all essentially work the same way
+[00:11:52.200 --> 00:11:56.200]   Where they retrain your immune system to fight cancer
+[00:11:56.200 --> 00:12:00.200]   And I'm using that word "retrain" very purposefully
+[00:12:00.200 --> 00:12:04.200]   Every single one of you in this audience has a tumor
+[00:12:04.200 --> 00:12:07.200]   You've had a tumor every single day of your life
+[00:12:07.200 --> 00:12:08.200]   It's usually a single cell
+[00:12:08.200 --> 00:12:10.200]   You often have many of them throughout your body
+[00:12:10.200 --> 00:12:15.200]   Your immune system is doing what's called background cancer immunosurveillance
+[00:12:15.200 --> 00:12:18.200]   Your immune system is circulating throughout your body every single day
+[00:12:18.200 --> 00:12:21.200]   And it's actually able to detect and find and sniff out where those tumors are
+[00:12:21.200 --> 00:12:26.200]   And get rid of them while they are still single cells
+[00:12:26.200 --> 00:12:27.200]   How do they do this?
+[00:12:27.200 --> 00:12:30.200]   So that single tumor cell, wherever it is in your body
+[00:12:30.200 --> 00:12:32.200]   It sends out little chemical cues to the local environment
+[00:12:32.200 --> 00:12:34.200]   As well as the immune system
+[00:12:34.200 --> 00:12:37.200]   And the healthy cells that surround that tumor are also able to detect
+[00:12:37.200 --> 00:12:39.200]   Something's weird about that guy
+[00:12:39.200 --> 00:12:41.200]   And they'll send a little message over to the immune system
+[00:12:41.200 --> 00:12:43.200]   And they'll be like, "Come over and do an investigation
+[00:12:43.200 --> 00:12:45.200]   Check him out, what's up with him?"
+[00:12:45.200 --> 00:12:47.200]   Your immune system will come over, sniff it out
+[00:12:47.200 --> 00:12:49.200]   And be like, "Yeah, I agree, something's up with him"
+[00:12:49.200 --> 00:12:51.200]   And they'll kill that cell
+[00:12:51.200 --> 00:12:54.200]   And this is happening all the time, throughout your entire body
+[00:12:54.200 --> 00:12:56.200]   So your immune system, right now, today
+[00:12:56.200 --> 00:12:58.200]   Your immune system knows how to fight cancer
+[00:12:58.200 --> 00:13:00.200]   It's exquisite at it
+[00:13:00.200 --> 00:13:02.200]   So how in the heck do you ever get a baseball-sized tumor?
+[00:13:02.200 --> 00:13:03.200]   How does that happen?
+[00:13:03.200 --> 00:13:05.200]   It happens because that individual tumor cell
+[00:13:05.200 --> 00:13:07.200]   Through a variety of different mechanisms
+[00:13:07.200 --> 00:13:09.200]   There are many ways this happens
+[00:13:09.200 --> 00:13:12.200]   But typically, somehow, through one or two mechanisms
+[00:13:12.200 --> 00:13:15.200]   It will end up basically randomly generating a mutation
+[00:13:15.200 --> 00:13:18.200]   That will give it, essentially, an invisibility cloak
+[00:13:18.200 --> 00:13:21.200]   That invisibility cloak makes it so that those neighboring healthy cells
+[00:13:21.200 --> 00:13:23.200]   Can't detect that something's up with it
+[00:13:23.200 --> 00:13:25.200]   So they don't send a message to the immune system
+[00:13:25.200 --> 00:13:27.200]   And because it's a little bit invisible
+[00:13:27.200 --> 00:13:29.200]   Your immune system also can't just randomly swim by
+[00:13:29.200 --> 00:13:31.200]   And detect it and see that something's wrong
+[00:13:31.200 --> 00:13:33.200]   And so because it can't be seen
+[00:13:33.200 --> 00:13:35.200]   It can't be destroyed, and so then it starts to grow
+[00:13:35.200 --> 00:13:37.200]   And become your big baseball-sized mass
+[00:13:37.200 --> 00:13:39.200]   And then you become symptomatic, right?
+[00:13:39.200 --> 00:13:41.200]   And then you go to the doctor
+[00:13:41.200 --> 00:13:44.200]   But you can retrain your immune system to be able to see that invisible tumor
+[00:13:44.200 --> 00:13:47.200]   And if you can do that with immunotherapy
+[00:13:47.200 --> 00:13:49.200]   Then now you've got a way to destroy a tumor
+[00:13:49.200 --> 00:13:52.200]   That doesn't involve chemo, that doesn't involve radiation
+[00:13:52.200 --> 00:13:55.200]   But basically uses your own immune system to fight cancers
+[00:13:55.200 --> 00:13:58.200]   And so we wanted to blend the power of viral gene therapy
+[00:13:58.200 --> 00:14:01.200]   And the precision delivery and kind of those logic circuits
+[00:14:01.200 --> 00:14:03.200]   Around, like, do this when you experience this
+[00:14:03.200 --> 00:14:05.200]   These types of things, with immunotherapy
+[00:14:05.200 --> 00:14:09.200]   To see if we couldn't do something important in the cancer space
+[00:14:09.200 --> 00:14:12.200]   And so we developed a platform, a variety of different universal gene therapies
+[00:14:12.200 --> 00:14:14.200]   In my lab at UCSF
+[00:14:14.200 --> 00:14:16.200]   And spun those out into the company
+[00:14:16.200 --> 00:14:19.200]   And the name of the company is actually based off the mechanism of action here
+[00:14:19.200 --> 00:14:22.200]   So we can take these viruses, have them deliver a variety of different
+[00:14:22.200 --> 00:14:25.200]   Kind of cancer-announcing payloads
+[00:14:25.200 --> 00:14:27.200]   That will announce to immune system
+[00:14:27.200 --> 00:14:29.200]   The cancer is here
+[00:14:29.200 --> 00:14:32.200]   And so that way, both the cancer cell as well as the neighboring cells
+[00:14:32.200 --> 00:14:35.200]   Will basically set off the fire alarm, pull the siren
+[00:14:35.200 --> 00:14:37.200]   And let the immune system know
+[00:14:37.200 --> 00:14:39.200]   This is where the tumor is, come in and fight it
+[00:14:39.200 --> 00:14:42.200]   And you'll have these three different waves of tumor killing that can happen
+[00:14:42.200 --> 00:14:45.200]   Both with your innate and your adaptive immune system
+[00:14:45.200 --> 00:14:50.200]   So while we were still at UCSF, we were like
+[00:14:50.200 --> 00:14:52.200]   Okay, we have this really cool idea, we want to try this
+[00:14:52.200 --> 00:14:54.200]   But we're agnostic to any particular cancer type
+[00:14:54.200 --> 00:14:57.200]   Because again, we weren't an oncology lab, we were a viral gene therapy lab
+[00:14:57.200 --> 00:14:59.200]   So we went over to our colleagues at the cancer center
+[00:14:59.200 --> 00:15:01.200]   And we're like, what's the gnarliest cancer?
+[00:15:01.200 --> 00:15:04.200]   What's the one that nothing works, we love a challenge
+[00:15:04.200 --> 00:15:06.200]   Tell us something that we can work on that will be interesting
+[00:15:06.200 --> 00:15:08.200]   And they said, go after brain cancer
+[00:15:08.200 --> 00:15:11.200]   So we decided we'd start collaborating with folks at UCSF
+[00:15:11.200 --> 00:15:14.200]   To determine a brain cancer kind of path
+[00:15:14.200 --> 00:15:17.200]   But how do you test a drug in order to make sure it works
+[00:15:17.200 --> 00:15:20.200]   On human brain cancer when you can't test it yet on humans
+[00:15:20.200 --> 00:15:22.200]   Because the FDA wants you to have a data package
+[00:15:22.200 --> 00:15:24.200]   Before you go up for your clinical trial
+[00:15:24.200 --> 00:15:28.200]   So the way you test it is you actually make mice with human brain cancer
+[00:15:28.200 --> 00:15:31.200]   So you can take brain cancer samples from humans
+[00:15:31.200 --> 00:15:34.200]   From biopsies and resections, transplant those into mice
+[00:15:34.200 --> 00:15:36.200]   They'll grow a mini human brain tumor
+[00:15:36.200 --> 00:15:38.200]   And you can come in and now treat them with your human drug
+[00:15:38.200 --> 00:15:40.200]   Not your mouse drug, your human drug
+[00:15:40.200 --> 00:15:43.200]   To test if it works and look to see whether or not you get a response
+[00:15:43.200 --> 00:15:46.200]   And this is a quick little sample from three mice
+[00:15:46.200 --> 00:15:48.200]   From a treatment group where you can see
+[00:15:48.200 --> 00:15:52.200]   Those big colored blobs are the tumors in the brains of these mice
+[00:15:52.200 --> 00:15:55.200]   This is live, non-invasive, bioluminescent imaging
+[00:15:55.200 --> 00:15:58.200]   Where the control-treated mice that receive either a control virus
+[00:15:58.200 --> 00:16:00.200]   Or just receive sterile saline have massive tumors
+[00:16:00.200 --> 00:16:03.200]   These mice die versus the mice that have been treated with our virus
+[00:16:03.200 --> 00:16:05.200]   Where we can completely eliminate these tumors
+[00:16:05.200 --> 00:16:08.200]   As you would imagine, if you can eliminate the tumors with imaging
+[00:16:08.200 --> 00:16:11.200]   That might just correspond to improvements in life expectancy
+[00:16:11.200 --> 00:16:14.200]   This is the one and only graph that I'm showing you
+[00:16:14.200 --> 00:16:16.200]   Very simple, it's a survival curve
+[00:16:16.200 --> 00:16:18.200]   If the line is vertical, you died
+[00:16:18.200 --> 00:16:21.200]   If the line is horizontal, you lived
+[00:16:21.200 --> 00:16:24.200]   So we can massively improve the lifespans of these animals
+[00:16:24.200 --> 00:16:28.200]   And for all intents and purposes cure these mice of brain cancer
+[00:16:28.200 --> 00:16:31.200]   And we're queuing up for a clinical trial in 2025
+[00:16:31.200 --> 00:16:36.200]   [Applause]
+[00:16:36.200 --> 00:16:39.200]   So we're excited to start our clinical trial in 2025
+[00:16:39.200 --> 00:16:41.200]   And very quickly I'm going to share with you guys
+[00:16:41.200 --> 00:16:44.200]   Maybe like 15, three little 15 second vignettes
+[00:16:44.200 --> 00:16:47.200]   On what else could we do with viruses
+[00:16:47.200 --> 00:16:49.200]   So we see a gentleman here sleeping
+[00:16:49.200 --> 00:16:51.200]   How many of you are short on sleep?
+[00:16:51.200 --> 00:16:54.200]   Every one of you, raise your hands, come on
+[00:16:54.200 --> 00:16:56.200]   So there is a rare mutation that happens in patients
+[00:16:56.200 --> 00:16:58.200]   These are people walking amongst us
+[00:16:58.200 --> 00:17:00.200]   Who have a mutation in a gene called DEC2
+[00:17:00.200 --> 00:17:03.200]   These patients, again single mutation, single gene
+[00:17:03.200 --> 00:17:06.200]   These patients only need four hours of sleep a night
+[00:17:06.200 --> 00:17:08.200]   To be completely rested the same way that we have
+[00:17:08.200 --> 00:17:11.200]   The need for eight to nine hours of sleep a night
+[00:17:11.200 --> 00:17:14.200]   You interested in getting this gene therapy?
+[00:17:14.200 --> 00:17:16.200]   We could do this today
+[00:17:16.200 --> 00:17:19.200]   We haven't yet, but we could do this today
+[00:17:19.200 --> 00:17:21.200]   Another example, most of us in the room
+[00:17:21.200 --> 00:17:23.200]   Pretty probably interested in longevity
+[00:17:23.200 --> 00:17:26.200]   We could use viruses to regenerate the tissue
+[00:17:26.200 --> 00:17:28.200]   In all of your joints
+[00:17:28.200 --> 00:17:31.200]   Maybe get rid of things like cellulite, viruses
+[00:17:31.200 --> 00:17:33.200]   Brain fog, all these types of things
+[00:17:33.200 --> 00:17:35.200]   This is probably a few more years out
+[00:17:35.200 --> 00:17:37.200]   We're probably five to ten years out
+[00:17:37.200 --> 00:17:38.200]   On being ready to do this
+[00:17:38.200 --> 00:17:40.200]   But this is absolutely coming in your lifetime
+[00:17:40.200 --> 00:17:42.200]   You could get a rejuvenation gene therapy
+[00:17:42.200 --> 00:17:44.200]   You really want to talk far out?
+[00:17:44.200 --> 00:17:46.200]   We could talk about maybe 30 years from now
+[00:17:46.200 --> 00:17:48.200]   We could absolutely engineer humanity
+[00:17:48.200 --> 00:17:53.200]   To withstand life in much more drastically harsh environments
+[00:17:53.200 --> 00:17:55.200]   So we could alter your skin color
+[00:17:55.200 --> 00:17:57.200]   To be able to reflect more UV light
+[00:17:57.200 --> 00:17:58.200]   So you wouldn't get as much damage
+[00:17:58.200 --> 00:18:00.200]   If perhaps say you were living on Mars
+[00:18:00.200 --> 00:18:03.200]   We could engineer the cells in your gut
+[00:18:03.200 --> 00:18:05.200]   And the bacteria that live in your gut
+[00:18:05.200 --> 00:18:07.200]   To be able to metabolize foods
+[00:18:07.200 --> 00:18:09.200]   That are more easily grown on a Martian environment
+[00:18:09.200 --> 00:18:10.200]   And these types of things
+[00:18:10.200 --> 00:18:13.200]   So really your imagination is the limit
+[00:18:13.200 --> 00:18:15.200]   So could we enhance human potential?
+[00:18:15.200 --> 00:18:16.200]   We absolutely can
+[00:18:16.200 --> 00:18:18.200]   It's just a matter of are you interested and when
+[00:18:18.200 --> 00:18:20.200]   So happy to discuss the future
+[00:18:21.200 --> 00:18:29.200]   [Applause]
+[00:18:29.200 --> 00:18:42.200]   [Music]
+[00:18:42.200 --> 00:18:43.200]   These are exciting times
+[00:18:43.200 --> 00:18:44.200]   Yeah
+[00:18:46.200 --> 00:18:51.200]   Can you just help everyone understand
+[00:18:51.200 --> 00:18:54.200]   The timing and the regulatory hurdles
+[00:18:54.200 --> 00:18:58.200]   Viral gene therapy had a moment
+[00:18:58.200 --> 00:19:00.200]   Where there were setbacks
+[00:19:00.200 --> 00:19:03.200]   And just share that with everyone
+[00:19:03.200 --> 00:19:04.200]   How that's affected
+[00:19:04.200 --> 00:19:07.200]   How this technology has been held back
+[00:19:07.200 --> 00:19:08.200]   How it's progressing now
+[00:19:08.200 --> 00:19:11.200]   And what timelines generally look like
+[00:19:11.200 --> 00:19:15.200]   For getting these breakthroughs to market
+[00:19:15.200 --> 00:19:16.200]   Absolutely
+[00:19:16.200 --> 00:19:19.200]   So today if you were to start a brand new gene therapy company
+[00:19:19.200 --> 00:19:21.200]   Called Siren Biotechnology
+[00:19:21.200 --> 00:19:22.200]   Or anything else
+[00:19:22.200 --> 00:19:24.200]   And you wanted to develop a viral gene therapy
+[00:19:24.200 --> 00:19:26.200]   And you wanted to get to clinic
+[00:19:26.200 --> 00:19:28.200]   You're still probably looking for that first program
+[00:19:28.200 --> 00:19:30.200]   In like a 10 to 15 year mark
+[00:19:30.200 --> 00:19:32.200]   And it's not because it's going to take you that long
+[00:19:32.200 --> 00:19:33.200]   To run the clinical trials
+[00:19:33.200 --> 00:19:34.200]   It's not because it's going to take you that long
+[00:19:34.200 --> 00:19:37.200]   To grow up the vats of the drug
+[00:19:37.200 --> 00:19:39.200]   It's mostly going to be a regulatory timeline
+[00:19:39.200 --> 00:19:41.200]   So in between each one of these clinical trials
+[00:19:41.200 --> 00:19:43.200]   Even before you do your very first ones
+[00:19:43.200 --> 00:19:44.200]   I mean we're ready today
+[00:19:44.200 --> 00:19:46.200]   To start our brain cancer clinical trial today
+[00:19:46.200 --> 00:19:48.200]   But we're looking at 18 months of paperwork
+[00:19:48.200 --> 00:19:50.200]   In order to file to do that first phase one
+[00:19:50.200 --> 00:19:52.200]   And then you need to do your data readouts
+[00:19:52.200 --> 00:19:54.200]   And between each one of those trials
+[00:19:54.200 --> 00:19:56.200]   There's this kind of massive amount of paperwork
+[00:19:56.200 --> 00:19:58.200]   That goes in front of the FDA
+[00:19:58.200 --> 00:19:59.200]   That needs to be reviewed
+[00:19:59.200 --> 00:20:00.200]   And there's back and forth
+[00:20:00.200 --> 00:20:02.200]   And so the regulatory hurdles
+[00:20:02.200 --> 00:20:04.200]   Both from if you weren't even doing anything
+[00:20:04.200 --> 00:20:06.200]   You know really drastic
+[00:20:06.200 --> 00:20:08.200]   Like those last three vignettes that I talked about
+[00:20:08.200 --> 00:20:10.200]   It's still going to be 10 to 15 years
+[00:20:10.200 --> 00:20:12.200]   But if you wanted to propose something like
+[00:20:12.200 --> 00:20:14.200]   This one that I mentioned that I think we'd all
+[00:20:14.200 --> 00:20:16.200]   I'm certainly interested in
+[00:20:16.200 --> 00:20:19.200]   There you're probably looking at an ethical review board
+[00:20:19.200 --> 00:20:21.200]   And whether or not they'd let you do something like that
+[00:20:21.200 --> 00:20:23.200]   Because that's not a disease
+[00:20:23.200 --> 00:20:24.200]   So fun fact
+[00:20:24.200 --> 00:20:27.200]   The FDA only lets you queue up clinical trials
+[00:20:27.200 --> 00:20:30.200]   To test drugs that are for diseases
+[00:20:30.200 --> 00:20:34.200]   But aging is not a disease state
+[00:20:34.200 --> 00:20:37.200]   Wanting to sleep fewer hours is not a disease state
+[00:20:37.200 --> 00:20:39.200]   Insomnia is
+[00:20:39.200 --> 00:20:41.200]   But wanting to just sleep fewer hours
+[00:20:41.200 --> 00:20:43.200]   And be fully rested is not a disease state
+[00:20:43.200 --> 00:20:46.200]   So we kind of have to get to this moment
+[00:20:46.200 --> 00:20:51.200]   Where does the FDA start changing their definition of disease
+[00:20:51.200 --> 00:20:53.200]   Do we have a new regulatory body
+[00:20:53.200 --> 00:20:55.200]   Who will review these types of things
+[00:20:55.200 --> 00:20:58.200]   That are more like augmentations and enhancements
+[00:20:58.200 --> 00:21:00.200]   How are we going to grapple with this as a society
+[00:21:00.200 --> 00:21:03.200]   Are we okay with this
+[00:21:03.200 --> 00:21:05.200]   And let me just ask one more question
+[00:21:05.200 --> 00:21:07.200]   It's a great question you pose
+[00:21:07.200 --> 00:21:09.200]   Because there is increasing consensus
+[00:21:09.200 --> 00:21:11.200]   That maybe we should think about aging itself as a disease
+[00:21:11.200 --> 00:21:13.200]   Obviously and that there's a lot of approaches
+[00:21:13.200 --> 00:21:15.200]   Now to addressing that
+[00:21:15.200 --> 00:21:19.200]   What about the other challenges to completing
+[00:21:19.200 --> 00:21:21.200]   The research and the trials
+[00:21:21.200 --> 00:21:23.200]   And scalability
+[00:21:23.200 --> 00:21:24.200]   What are the bottlenecks
+[00:21:24.200 --> 00:21:25.200]   We've talked about
+[00:21:25.200 --> 00:21:27.200]   I've talked on our show about
+[00:21:27.200 --> 00:21:30.200]   CAR T therapy and the challenge in getting manufacturing scaled up
+[00:21:30.200 --> 00:21:32.200]   To treat enough patients each year
+[00:21:32.200 --> 00:21:33.200]   Even though the technology is here
+[00:21:33.200 --> 00:21:34.200]   It's FDA approved
+[00:21:34.200 --> 00:21:35.200]   Those drugs are in market
+[00:21:35.200 --> 00:21:37.200]   We just can't make enough
+[00:21:37.200 --> 00:21:40.200]   And I've heard a lot about lentivirus production
+[00:21:40.200 --> 00:21:42.200]   And all these other kind of viral vectors
+[00:21:42.200 --> 00:21:44.200]   Being 18 month delay
+[00:21:44.200 --> 00:21:45.200]   Super bottlenecked
+[00:21:45.200 --> 00:21:47.200]   How bottlenecked are we in being able to do the research
+[00:21:47.200 --> 00:21:48.200]   That you guys are doing
+[00:21:48.200 --> 00:21:50.200]   And ultimately to get these products to market
+[00:21:50.200 --> 00:21:52.200]   And make enough of the stuff to treat patients
+[00:21:52.200 --> 00:21:54.200]   So the single biggest bottleneck
+[00:21:54.200 --> 00:21:55.200]   Is actually not technological at all
+[00:21:55.200 --> 00:21:56.200]   It's financial
+[00:21:56.200 --> 00:21:58.200]   It's access to capital
+[00:21:58.200 --> 00:21:59.200]   Right so these are like I said
+[00:21:59.200 --> 00:22:01.200]   Very very capital intensive
+[00:22:01.200 --> 00:22:02.200]   The average viral gene therapy
+[00:22:02.200 --> 00:22:04.200]   Is about 2 to 3 billion dollars
+[00:22:04.200 --> 00:22:05.200]   That's about three times more
+[00:22:05.200 --> 00:22:07.200]   Than making one of those chemical medicines
+[00:22:07.200 --> 00:22:08.200]   Some of that has to do with time
+[00:22:08.200 --> 00:22:10.200]   How long that process takes
+[00:22:10.200 --> 00:22:12.200]   Right every year your company is operating
+[00:22:12.200 --> 00:22:13.200]   That DNA
+[00:22:13.200 --> 00:22:15.200]   Oh it's expensive
+[00:22:15.200 --> 00:22:16.200]   It adds up really fast
+[00:22:16.200 --> 00:22:19.200]   And so some of this is just access to capital
+[00:22:19.200 --> 00:22:20.200]   And there's right
+[00:22:20.200 --> 00:22:21.200]   Any company
+[00:22:21.200 --> 00:22:22.200]   Every one of us in this room has a company
+[00:22:22.200 --> 00:22:23.200]   There's depending on your sector
+[00:22:23.200 --> 00:22:25.200]   There's a valley of death
+[00:22:25.200 --> 00:22:27.200]   For some of you it's very very early stage
+[00:22:27.200 --> 00:22:28.200]   For some of you it's a little bit more later stage
+[00:22:28.200 --> 00:22:29.200]   But there's a valley of death
+[00:22:29.200 --> 00:22:31.200]   Where you just can't access capital
+[00:22:31.200 --> 00:22:33.200]   Before you hit this like big de-risking milestone
+[00:22:33.200 --> 00:22:34.200]   Where the bigger checks will come in
+[00:22:34.200 --> 00:22:36.200]   And private equity and those types of groups
+[00:22:36.200 --> 00:22:38.200]   And crossover funds and your IPO
+[00:22:38.200 --> 00:22:39.200]   So there's a valley of death
+[00:22:39.200 --> 00:22:41.200]   For many of these early stage companies
+[00:22:41.200 --> 00:22:43.200]   Where usually either after your seed stage
+[00:22:43.200 --> 00:22:44.200]   Or your series A
+[00:22:44.200 --> 00:22:46.200]   But before you've got clinical trial readouts
+[00:22:46.200 --> 00:22:47.200]   Where people are very nervous
+[00:22:47.200 --> 00:22:48.200]   To give you a really big check
+[00:22:48.200 --> 00:22:50.200]   So that's certainly the biggest hurdle right now
+[00:22:50.200 --> 00:22:52.200]   And why you see many companies going under
+[00:22:52.200 --> 00:22:53.200]   Across the biotech space
+[00:22:53.200 --> 00:22:55.200]   Regardless of if they're selling gene therapies
+[00:22:55.200 --> 00:22:57.200]   And then from the technological side
+[00:22:57.200 --> 00:23:00.200]   It's still manufacturing is just like the drumbeat
+[00:23:00.200 --> 00:23:03.200]   Being able to manufacture these things at scale
+[00:23:03.200 --> 00:23:04.200]   Continues to be a challenge
+[00:23:04.200 --> 00:23:08.200]   We need folks who come from like the mechanical engineering
+[00:23:08.200 --> 00:23:09.200]   And these types of backgrounds
+[00:23:09.200 --> 00:23:12.200]   Who don't historically necessarily think of biotech
+[00:23:12.200 --> 00:23:16.200]   As a place where they could apply their knowledge and technologies
+[00:23:16.200 --> 00:23:18.200]   To please come over to biotech
+[00:23:18.200 --> 00:23:22.200]   And help us make new generations of bioreactors
+[00:23:22.200 --> 00:23:25.200]   And types of things that will allow us to produce these at scale
+[00:23:25.200 --> 00:23:27.200]   Cleanly, cheaply and easily
+[00:23:27.200 --> 00:23:30.200]   And it's just not intuitive
+[00:23:30.200 --> 00:23:31.200]   Making chemicals at scale
+[00:23:31.200 --> 00:23:33.200]   Is something that we've been doing for 40 years
+[00:23:33.200 --> 00:23:34.200]   So we're really good at it
+[00:23:34.200 --> 00:23:38.200]   Genentech can make kilos of drugs in an afternoon with a robot
+[00:23:38.200 --> 00:23:40.200]   But viruses are still something like
+[00:23:40.200 --> 00:23:43.200]   If I queue up the biggest CDMO in the world
+[00:23:43.200 --> 00:23:44.200]   Catalan Pharma
+[00:23:44.200 --> 00:23:48.200]   And ask them to make us a 5,000 liter bioreactor of virus
+[00:23:48.200 --> 00:23:49.200]   They'll absolutely say yes
+[00:23:49.200 --> 00:23:52.200]   But they won't even touch it for two and a half years
+[00:23:52.200 --> 00:23:56.200]   I wanted to double click on the concept of
+[00:23:56.200 --> 00:23:59.200]   Making life better for people who aren't sick
+[00:23:59.200 --> 00:24:03.200]   Marty Seligman from the American Psychological Association
+[00:24:03.200 --> 00:24:05.200]   Actually posed this question 20 years ago
+[00:24:05.200 --> 00:24:07.200]   And he said what we try to make
+[00:24:07.200 --> 00:24:09.200]   All of psychology and psychiatry
+[00:24:09.200 --> 00:24:11.200]   Is taking depressed people and anxious people
+[00:24:11.200 --> 00:24:14.200]   And making them less depressed and anxious
+[00:24:14.200 --> 00:24:16.200]   What about meaning and fulfillment for people who are content?
+[00:24:16.200 --> 00:24:18.200]   What about more joy?
+[00:24:18.200 --> 00:24:20.200]   And so when you look at the field
+[00:24:20.200 --> 00:24:23.200]   And it's amazing the progress you're making
+[00:24:23.200 --> 00:24:25.200]   And thank you for doing all that work
+[00:24:25.200 --> 00:24:27.200]   Aside from, hey, can we sleep less?
+[00:24:27.200 --> 00:24:31.200]   What else is, you know, do you talk about
+[00:24:31.200 --> 00:24:34.200]   Wow, if we had the mandate to take healthy people
+[00:24:34.200 --> 00:24:37.200]   And give them a gift of augmenting them
+[00:24:37.200 --> 00:24:39.200]   Making them into superheroes almost
+[00:24:39.200 --> 00:24:42.200]   We're talking about like X-Men mutations here
+[00:24:42.200 --> 00:24:44.200]   What are the fun things that you dream about
+[00:24:44.200 --> 00:24:46.200]   That you could do for humanity?
+[00:24:46.200 --> 00:24:48.200]   Could we all just have vision like hawks?
+[00:24:48.200 --> 00:24:50.200]   Oh, night vision is totally possible
+[00:24:50.200 --> 00:24:51.200]   Night vision?
+[00:24:51.200 --> 00:24:53.200]   Yeah, easy
+[00:24:53.200 --> 00:24:55.200]   Literally without the goggles?
+[00:24:55.200 --> 00:24:57.200]   Yeah, easy
+[00:24:57.200 --> 00:24:59.200]   I mean a world in which we
+[00:24:59.200 --> 00:25:01.200]   That's just an FDA, like I need the green light
+[00:25:01.200 --> 00:25:03.200]   But no, that's easy
+[00:25:03.200 --> 00:25:06.200]   So, okay, that feels like Professor X
+[00:25:06.200 --> 00:25:08.200]   Kind of level shit, I like it
+[00:25:08.200 --> 00:25:09.200]   What else you got?
+[00:25:09.200 --> 00:25:11.200]   Keep going
+[00:25:11.200 --> 00:25:13.200]   Night vision would be possible
+[00:25:13.200 --> 00:25:16.200]   The ability to metabolize, you know, a food
+[00:25:16.200 --> 00:25:18.200]   That grows perhaps in a different environment
+[00:25:18.200 --> 00:25:21.200]   That not only you can't get any nutrients from
+[00:25:21.200 --> 00:25:23.200]   But you can't even absorb it
+[00:25:23.200 --> 00:25:25.200]   So we could make it so that you could
+[00:25:25.200 --> 00:25:28.200]   Pretend Soylent tasted good
+[00:25:28.200 --> 00:25:31.200]   You know, you could eat anything
+[00:25:31.200 --> 00:25:33.200]   And not only could it taste good to you
+[00:25:33.200 --> 00:25:35.200]   But it could provide you all the nutrients that you need
+[00:25:35.200 --> 00:25:38.200]   And be able to grow with much less water
+[00:25:38.200 --> 00:25:40.200]   And in the types of environments that we'll have
+[00:25:40.200 --> 00:25:41.200]   In the future planets
+[00:25:41.200 --> 00:25:44.200]   Given the climate change challenges that we all have
+[00:25:44.200 --> 00:25:46.200]   As far as other augmentations
+[00:25:46.200 --> 00:25:49.200]   I mean there's all of the obvious beauty applications
+[00:25:49.200 --> 00:25:52.200]   That I think all of us are already doing
+[00:25:52.200 --> 00:25:54.200]   We could just be doing this with a different modality
+[00:25:54.200 --> 00:25:55.200]   So removing, you know
+[00:25:55.200 --> 00:25:57.200]   There's a gene therapy company in San Diego
+[00:25:57.200 --> 00:25:59.200]   Working on male pattern baldness
+[00:25:59.200 --> 00:26:02.200]   There are folks working on wrinkles and cellulite
+[00:26:02.200 --> 00:26:03.200]   And getting your hair color back
+[00:26:03.200 --> 00:26:05.200]   And all of the normal beauty things that you would expect
+[00:26:05.200 --> 00:26:06.200]   That's absolutely coming
+[00:26:06.200 --> 00:26:08.200]   But as far as beyond the obvious beauty things
+[00:26:08.200 --> 00:26:10.200]   Like what other types of augmentations
+[00:26:10.200 --> 00:26:13.200]   I think the mental health space is a huge one
+[00:26:13.200 --> 00:26:16.200]   Because it's usually a very, very simple thing
+[00:26:16.200 --> 00:26:18.200]   I mean it's complex, but it's simple
+[00:26:18.200 --> 00:26:20.200]   They're usually missing a single receptor
+[00:26:20.200 --> 00:26:22.200]   Or a single protein somewhere in their brain
+[00:26:22.200 --> 00:26:24.200]   And if we were just able to restore that for them
+[00:26:24.200 --> 00:26:28.200]   In just that location and not everywhere in their body
+[00:26:28.200 --> 00:26:30.200]   You could restore joy, you could restore happiness
+[00:26:30.200 --> 00:26:31.200]   All of these types of things
+[00:26:31.200 --> 00:26:33.200]   Wow, that's fascinating
+[00:26:33.200 --> 00:26:34.200]   Do you want to talk about the capital markets piece?
+[00:26:34.200 --> 00:26:37.200]   Because you mentioned you need capital
+[00:26:37.200 --> 00:26:38.200]   Yeah, we're fundraising, hi
+[00:26:38.200 --> 00:26:43.200]   Yeah, and Chamath, maybe you can help out here
+[00:26:43.200 --> 00:26:45.200]   But you know the biotech market's been decimated
+[00:26:45.200 --> 00:26:46.200]   Oh yeah
+[00:26:46.200 --> 00:26:47.200]   Since November of '21
+[00:26:47.200 --> 00:26:51.200]   And it's really intricately linked to interest rates
+[00:26:51.200 --> 00:26:53.200]   Because of how far out you have to make a bet
+[00:26:53.200 --> 00:26:54.200]   On a biotech company
+[00:26:54.200 --> 00:26:57.200]   And so as a result, the valuations have plummeted 80, 90%
+[00:26:57.200 --> 00:26:58.200]   In many cases
+[00:26:58.200 --> 00:27:00.200]   And a lot of stuff's just not getting funded right now
+[00:27:00.200 --> 00:27:01.200]   Yeah
+[00:27:01.200 --> 00:27:03.200]   Maybe Chamath, you can share your point of view
+[00:27:03.200 --> 00:27:05.200]   On where things are headed there
+[00:27:05.200 --> 00:27:07.200]   And Nicole, maybe you can share a little bit
+[00:27:07.200 --> 00:27:09.200]   About what the experience has been fundraising
+[00:27:09.200 --> 00:27:10.200]   Even though you have a great technology
+[00:27:10.200 --> 00:27:12.200]   That's got some proof points
+[00:27:12.200 --> 00:27:13.200]   How hard is it?
+[00:27:13.200 --> 00:27:15.200]   Well, I have a kind of a technical question
+[00:27:15.200 --> 00:27:19.200]   Which is just, when you picked AAV
+[00:27:19.200 --> 00:27:22.200]   You had to make a decision about small edits
+[00:27:22.200 --> 00:27:25.200]   And not large edits, I guess, right?
+[00:27:25.200 --> 00:27:27.200]   So just explain to these guys about
+[00:27:27.200 --> 00:27:29.200]   What payloads are actually possible in AAV
+[00:27:29.200 --> 00:27:32.200]   And are you thinking about what happens
+[00:27:32.200 --> 00:27:34.200]   If you actually have to go beyond 4kb
+[00:27:34.200 --> 00:27:36.200]   And how are you going to solve that?
+[00:27:36.200 --> 00:27:38.200]   Because a lot of the diseases that these guys
+[00:27:38.200 --> 00:27:40.200]   Will actually probably understand
+[00:27:40.200 --> 00:27:42.200]   Are not small SNPs, they're going to be large
+[00:27:42.200 --> 00:27:44.200]   You know, cut and paste
+[00:27:44.200 --> 00:27:45.200]   There's two types of gene therapy
+[00:27:45.200 --> 00:27:47.200]   There's gene transfer gene therapy
+[00:27:47.200 --> 00:27:49.200]   Where we give you the whole gene that you were missing
+[00:27:49.200 --> 00:27:51.200]   Like perhaps you were missing that portion
+[00:27:51.200 --> 00:27:52.200]   Of your chromosome at birth
+[00:27:52.200 --> 00:27:53.200]   So that's gene transfer gene therapy
+[00:27:53.200 --> 00:27:55.200]   We're literally transferring a functional copy
+[00:27:55.200 --> 00:27:56.200]   Of the gene back to you
+[00:27:56.200 --> 00:27:57.200]   And then there's gene editing gene therapy
+[00:27:57.200 --> 00:27:59.200]   Where we go in and actually correct a mutation
+[00:27:59.200 --> 00:28:01.200]   In place within your genome
+[00:28:01.200 --> 00:28:03.200]   And don't give you anything extra
+[00:28:03.200 --> 00:28:06.200]   So every virus on the planet has a carrying capacity
+[00:28:06.200 --> 00:28:08.200]   It has a size, just like a sedan
+[00:28:08.200 --> 00:28:10.200]   Can't carry as much as a minivan
+[00:28:10.200 --> 00:28:13.200]   And so AAV viruses, the viruses that I work on
+[00:28:13.200 --> 00:28:15.200]   Are amongst one of the smaller viruses
+[00:28:15.200 --> 00:28:17.200]   So it can only package about 4.75kb
+[00:28:17.200 --> 00:28:20.200]   So the numbers of nucleotides that you can fit inside of it
+[00:28:20.200 --> 00:28:22.200]   And different viruses have larger packaging capacities
+[00:28:22.200 --> 00:28:24.200]   And can fit more stuff, more packages inside
+[00:28:24.200 --> 00:28:26.200]   That's 4,700 letters of DNA
+[00:28:26.200 --> 00:28:28.200]   And so different viruses will have different packaging capacities
+[00:28:28.200 --> 00:28:31.200]   And so if you're doing gene transfer gene therapy
+[00:28:31.200 --> 00:28:34.200]   Where you need to provide the entire copy of the gene
+[00:28:34.200 --> 00:28:36.200]   You can only put in genes that will fit
+[00:28:36.200 --> 00:28:38.200]   With all of the other regulatory elements for expression
+[00:28:38.200 --> 00:28:40.200]   Within that virus
+[00:28:40.200 --> 00:28:42.200]   So of all protein coding genes
+[00:28:42.200 --> 00:28:44.200]   Since we're typically going after diseases
+[00:28:44.200 --> 00:28:46.200]   That are influencing a protein
+[00:28:46.200 --> 00:28:48.200]   Of all protein coding genes
+[00:28:48.200 --> 00:28:50.200]   80% of those genes can fit within my virus
+[00:28:50.200 --> 00:28:52.200]   So actually the vast majority of genetic diseases
+[00:28:52.200 --> 00:28:54.200]   Can be treated with AAV gene therapy
+[00:28:54.200 --> 00:28:56.200]   With gene transfer gene therapy
+[00:28:56.200 --> 00:28:58.200]   With gene editing gene therapy we can treat anything
+[00:28:58.200 --> 00:29:00.200]   Because now we're not size limited
+[00:29:00.200 --> 00:29:02.200]   We only need to deliver either the knicker or the cutter
+[00:29:02.200 --> 00:29:04.200]   Many of you have heard of things like CRISPR
+[00:29:04.200 --> 00:29:07.200]   That's one of the many tools we can use to nick or cut DNA
+[00:29:07.200 --> 00:29:09.200]   And we can either make a nick
+[00:29:09.200 --> 00:29:11.200]   And have your body repair the mutation
+[00:29:11.200 --> 00:29:13.200]   We can go in and make a nick or a cut
+[00:29:13.200 --> 00:29:17.200]   And we can cut something out that wasn't supposed to be there
+[00:29:17.200 --> 00:29:19.200]   Or we can go in and nick or cut
+[00:29:19.200 --> 00:29:21.200]   Something in your genome
+[00:29:21.200 --> 00:29:23.200]   Cut something out and then put something that was meant to be there
+[00:29:23.200 --> 00:29:25.200]   The whole time back in
+[00:29:25.200 --> 00:29:27.200]   All three of those forms, those gene repairs and gene edits
+[00:29:27.200 --> 00:29:29.200]   Are all kind of broadly classified
+[00:29:29.200 --> 00:29:31.200]   As gene editing gene therapy
+[00:29:31.200 --> 00:29:33.200]   And all of those would fit within any virus
+[00:29:33.200 --> 00:29:35.200]   There's a high percentage of disease
+[00:29:35.200 --> 00:29:37.200]   I don't know the percentage, you probably know
+[00:29:37.200 --> 00:29:39.200]   Which is really just like one point mutation, right?
+[00:29:39.200 --> 00:29:41.200]   Huge!
+[00:29:41.200 --> 00:29:43.200]   Transcribe AC or something is typically the biggest one, right?
+[00:29:43.200 --> 00:29:45.200]   Can you just explain to folks
+[00:29:45.200 --> 00:29:47.200]   When you think the tool chain will exist
+[00:29:47.200 --> 00:29:49.200]   For us to do those single point edits
+[00:29:49.200 --> 00:29:51.200]   And actually just
+[00:29:51.200 --> 00:29:53.200]   You can actually go in and accurately
+[00:29:53.200 --> 00:29:55.200]   Rewrite an A to a C
+[00:29:55.200 --> 00:29:57.200]   Today
+[00:29:57.200 --> 00:29:59.200]   Yeah, there's a few in trials and almost approved
+[00:29:59.200 --> 00:30:01.200]   Guys, we've got to wrap
+[00:30:01.200 --> 00:30:03.200]   And I want to really thank
+[00:30:03.200 --> 00:30:05.200]   Dr. Nicole Paulk for her amazing work
+[00:30:05.200 --> 00:30:07.200]   And for joining us here today
+[00:30:07.200 --> 00:30:09.200]   Fantastic
+[00:30:09.200 --> 00:30:11.200]   Thank you so much
+[00:30:11.200 --> 00:30:13.200]   Thank you
+[00:30:13.200 --> 00:30:15.200]   You've got a nice standing ovation
+[00:30:15.200 --> 00:30:17.200]   Thank you
+[00:30:17.200 --> 00:30:19.200]   [Applause]
+[00:30:19.200 --> 00:30:21.200]   [Music]
+[00:30:21.200 --> 00:30:26.200]   "I'm going over you" by Rain Man
+[00:30:26.200 --> 00:30:31.200]   "I'm going over you" by Rain Man
+[00:30:31.200 --> 00:30:36.200]   "I'm going over you" by Rain Man
+[00:30:36.200 --> 00:30:38.840]   ♪ What what when I'm trying ♪
+

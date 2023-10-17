@@ -1,0 +1,858 @@
+
+[00:00:00.000 --> 00:00:10.000]   [BLANK_AUDIO]
+[00:00:10.000 --> 00:00:20.000]   [BLANK_AUDIO]
+[00:00:20.000 --> 00:00:30.000]   [BLANK_AUDIO]
+[00:00:30.000 --> 00:00:40.000]   [BLANK_AUDIO]
+[00:00:40.000 --> 00:00:50.000]   [BLANK_AUDIO]
+[00:00:50.000 --> 00:01:00.000]   [BLANK_AUDIO]
+[00:01:00.000 --> 00:01:10.000]   [BLANK_AUDIO]
+[00:01:10.000 --> 00:01:20.000]   [BLANK_AUDIO]
+[00:01:20.000 --> 00:01:30.000]   [BLANK_AUDIO]
+[00:01:30.000 --> 00:01:40.000]   [BLANK_AUDIO]
+[00:01:40.000 --> 00:01:50.000]   [BLANK_AUDIO]
+[00:01:50.000 --> 00:02:00.000]   [BLANK_AUDIO]
+[00:02:00.000 --> 00:02:10.000]   [BLANK_AUDIO]
+[00:02:10.000 --> 00:02:20.000]   [BLANK_AUDIO]
+[00:02:20.000 --> 00:02:30.000]   [BLANK_AUDIO]
+[00:02:30.000 --> 00:02:40.000]   [BLANK_AUDIO]
+[00:02:40.000 --> 00:02:50.000]   [BLANK_AUDIO]
+[00:02:50.000 --> 00:03:00.000]   [BLANK_AUDIO]
+[00:03:00.000 --> 00:03:10.000]   [BLANK_AUDIO]
+[00:03:10.000 --> 00:03:20.000]   [BLANK_AUDIO]
+[00:03:20.000 --> 00:03:30.000]   [BLANK_AUDIO]
+[00:03:30.000 --> 00:03:40.000]   [BLANK_AUDIO]
+[00:03:40.000 --> 00:03:50.000]   [BLANK_AUDIO]
+[00:03:50.000 --> 00:04:00.000]   [BLANK_AUDIO]
+[00:04:00.000 --> 00:04:10.000]   [BLANK_AUDIO]
+[00:04:10.000 --> 00:04:20.000]   [BLANK_AUDIO]
+[00:04:20.000 --> 00:04:30.000]   [BLANK_AUDIO]
+[00:04:30.000 --> 00:04:40.000]   [BLANK_AUDIO]
+[00:04:40.000 --> 00:04:50.000]   [BLANK_AUDIO]
+[00:04:50.000 --> 00:05:00.000]   [BLANK_AUDIO]
+[00:05:00.000 --> 00:05:10.000]   [BLANK_AUDIO]
+[00:05:10.000 --> 00:05:20.000]   [BLANK_AUDIO]
+[00:05:20.000 --> 00:05:30.000]   [BLANK_AUDIO]
+[00:05:30.000 --> 00:05:40.000]   [BLANK_AUDIO]
+[00:05:40.000 --> 00:05:50.000]   [BLANK_AUDIO]
+[00:05:50.000 --> 00:06:00.000]   [BLANK_AUDIO]
+[00:06:00.000 --> 00:06:10.000]   [BLANK_AUDIO]
+[00:06:10.000 --> 00:06:20.000]   [BLANK_AUDIO]
+[00:06:20.000 --> 00:06:30.000]   [BLANK_AUDIO]
+[00:06:30.000 --> 00:06:40.000]   [BLANK_AUDIO]
+[00:06:40.000 --> 00:06:50.000]   [BLANK_AUDIO]
+[00:06:50.000 --> 00:07:00.000]   [BLANK_AUDIO]
+[00:07:00.000 --> 00:07:10.000]   [BLANK_AUDIO]
+[00:07:10.000 --> 00:07:20.000]   [BLANK_AUDIO]
+[00:07:20.000 --> 00:07:30.000]   [BLANK_AUDIO]
+[00:07:30.000 --> 00:07:40.000]   [BLANK_AUDIO]
+[00:07:40.000 --> 00:07:50.000]   [BLANK_AUDIO]
+[00:07:50.000 --> 00:08:00.000]   [BLANK_AUDIO]
+[00:08:00.000 --> 00:08:10.000]   [BLANK_AUDIO]
+[00:08:10.000 --> 00:08:20.000]   [BLANK_AUDIO]
+[00:08:20.000 --> 00:08:30.000]   [BLANK_AUDIO]
+[00:08:30.000 --> 00:08:40.000]   [BLANK_AUDIO]
+[00:08:40.000 --> 00:08:50.000]   [BLANK_AUDIO]
+[00:08:50.000 --> 00:09:00.000]   [BLANK_AUDIO]
+[00:09:00.000 --> 00:09:10.000]   [BLANK_AUDIO]
+[00:09:10.000 --> 00:09:20.000]   [BLANK_AUDIO]
+[00:09:20.000 --> 00:09:30.000]   [BLANK_AUDIO]
+[00:09:30.000 --> 00:09:40.000]   [BLANK_AUDIO]
+[00:09:40.000 --> 00:09:50.000]   [BLANK_AUDIO]
+[00:09:50.000 --> 00:10:00.000]   [BLANK_AUDIO]
+[00:10:00.000 --> 00:10:10.000]   [BLANK_AUDIO]
+[00:10:10.000 --> 00:10:20.000]   [BLANK_AUDIO]
+[00:10:20.000 --> 00:10:30.000]   [BLANK_AUDIO]
+[00:10:30.000 --> 00:10:40.000]   [BLANK_AUDIO]
+[00:10:40.000 --> 00:10:50.000]   [BLANK_AUDIO]
+[00:10:50.000 --> 00:11:00.000]   [BLANK_AUDIO]
+[00:11:00.000 --> 00:11:10.000]   [BLANK_AUDIO]
+[00:11:10.000 --> 00:11:20.000]   [BLANK_AUDIO]
+[00:11:20.000 --> 00:11:30.000]   [BLANK_AUDIO]
+[00:11:30.000 --> 00:11:40.000]   [BLANK_AUDIO]
+[00:11:40.000 --> 00:11:50.000]   [BLANK_AUDIO]
+[00:11:50.000 --> 00:12:00.000]   [BLANK_AUDIO]
+[00:12:00.000 --> 00:12:10.000]   [BLANK_AUDIO]
+[00:12:10.000 --> 00:12:20.000]   [BLANK_AUDIO]
+[00:12:20.000 --> 00:12:30.000]   [BLANK_AUDIO]
+[00:12:30.000 --> 00:12:40.000]   [BLANK_AUDIO]
+[00:12:40.000 --> 00:12:50.000]   [BLANK_AUDIO]
+[00:12:50.000 --> 00:13:00.000]   [BLANK_AUDIO]
+[00:13:00.000 --> 00:13:10.000]   [BLANK_AUDIO]
+[00:13:10.000 --> 00:13:20.000]   [BLANK_AUDIO]
+[00:13:20.000 --> 00:13:30.000]   [BLANK_AUDIO]
+[00:13:30.000 --> 00:13:40.000]   [BLANK_AUDIO]
+[00:13:40.000 --> 00:13:50.000]   [BLANK_AUDIO]
+[00:13:50.000 --> 00:14:00.000]   [BLANK_AUDIO]
+[00:14:00.000 --> 00:14:10.000]   [BLANK_AUDIO]
+[00:14:10.000 --> 00:14:20.000]   [BLANK_AUDIO]
+[00:14:20.000 --> 00:14:30.000]   [BLANK_AUDIO]
+[00:14:30.000 --> 00:14:40.000]   [BLANK_AUDIO]
+[00:14:40.000 --> 00:14:50.000]   [BLANK_AUDIO]
+[00:14:50.000 --> 00:15:00.000]   [BLANK_AUDIO]
+[00:15:00.000 --> 00:15:10.000]   [BLANK_AUDIO]
+[00:15:10.000 --> 00:15:20.000]   [BLANK_AUDIO]
+[00:15:20.000 --> 00:15:30.000]   [BLANK_AUDIO]
+[00:15:30.000 --> 00:15:40.000]   [BLANK_AUDIO]
+[00:15:40.000 --> 00:15:50.000]   [BLANK_AUDIO]
+[00:15:50.000 --> 00:16:00.000]   [BLANK_AUDIO]
+[00:16:00.000 --> 00:16:10.000]   [BLANK_AUDIO]
+[00:16:10.000 --> 00:16:20.000]   [BLANK_AUDIO]
+[00:16:20.000 --> 00:16:30.000]   [BLANK_AUDIO]
+[00:16:30.000 --> 00:16:40.000]   [BLANK_AUDIO]
+[00:16:40.000 --> 00:16:50.000]   [BLANK_AUDIO]
+[00:16:50.000 --> 00:17:00.000]   [BLANK_AUDIO]
+[00:17:00.000 --> 00:17:10.000]   [BLANK_AUDIO]
+[00:17:10.000 --> 00:17:20.000]   [BLANK_AUDIO]
+[00:17:20.000 --> 00:17:30.000]   [BLANK_AUDIO]
+[00:17:30.000 --> 00:17:40.000]   [BLANK_AUDIO]
+[00:17:40.000 --> 00:17:50.000]   [BLANK_AUDIO]
+[00:17:50.000 --> 00:18:00.000]   [BLANK_AUDIO]
+[00:18:00.000 --> 00:18:10.000]   [BLANK_AUDIO]
+[00:18:10.000 --> 00:18:20.000]   [BLANK_AUDIO]
+[00:18:20.000 --> 00:18:30.000]   [BLANK_AUDIO]
+[00:18:30.000 --> 00:18:40.000]   [BLANK_AUDIO]
+[00:18:40.000 --> 00:18:50.000]   [BLANK_AUDIO]
+[00:18:50.000 --> 00:19:00.000]   [BLANK_AUDIO]
+[00:19:00.000 --> 00:19:10.000]   [BLANK_AUDIO]
+[00:19:10.000 --> 00:19:20.000]   [BLANK_AUDIO]
+[00:19:20.000 --> 00:19:30.000]   [BLANK_AUDIO]
+[00:19:30.000 --> 00:19:40.000]   [BLANK_AUDIO]
+[00:19:40.000 --> 00:19:50.000]   [BLANK_AUDIO]
+[00:19:50.000 --> 00:20:00.000]   [BLANK_AUDIO]
+[00:20:00.000 --> 00:20:10.000]   [BLANK_AUDIO]
+[00:20:10.000 --> 00:20:20.000]   [BLANK_AUDIO]
+[00:20:20.000 --> 00:20:30.000]   [BLANK_AUDIO]
+[00:20:30.000 --> 00:20:40.000]   [BLANK_AUDIO]
+[00:20:40.000 --> 00:20:50.000]   [BLANK_AUDIO]
+[00:20:50.000 --> 00:21:00.000]   [BLANK_AUDIO]
+[00:21:00.000 --> 00:21:10.000]   [BLANK_AUDIO]
+[00:21:10.000 --> 00:21:20.000]   [BLANK_AUDIO]
+[00:21:20.000 --> 00:21:30.000]   [BLANK_AUDIO]
+[00:21:30.000 --> 00:21:40.000]   [BLANK_AUDIO]
+[00:21:40.000 --> 00:21:50.000]   [BLANK_AUDIO]
+[00:21:50.000 --> 00:22:00.000]   [BLANK_AUDIO]
+[00:22:00.000 --> 00:22:10.000]   [BLANK_AUDIO]
+[00:22:10.000 --> 00:22:20.000]   [BLANK_AUDIO]
+[00:22:20.000 --> 00:22:30.000]   [BLANK_AUDIO]
+[00:22:30.000 --> 00:22:40.000]   [BLANK_AUDIO]
+[00:22:40.000 --> 00:22:50.000]   [BLANK_AUDIO]
+[00:22:50.000 --> 00:23:00.000]   [BLANK_AUDIO]
+[00:23:00.000 --> 00:23:10.000]   [BLANK_AUDIO]
+[00:23:10.000 --> 00:23:20.000]   [BLANK_AUDIO]
+[00:23:20.000 --> 00:23:30.000]   [BLANK_AUDIO]
+[00:23:30.000 --> 00:23:40.000]   [BLANK_AUDIO]
+[00:23:40.000 --> 00:23:50.000]   [BLANK_AUDIO]
+[00:23:50.000 --> 00:24:00.000]   [BLANK_AUDIO]
+[00:24:00.000 --> 00:24:10.000]   [BLANK_AUDIO]
+[00:24:10.000 --> 00:24:20.000]   [BLANK_AUDIO]
+[00:24:20.000 --> 00:24:30.000]   [BLANK_AUDIO]
+[00:24:30.000 --> 00:24:40.000]   [BLANK_AUDIO]
+[00:24:40.000 --> 00:24:50.000]   [BLANK_AUDIO]
+[00:24:50.000 --> 00:25:00.000]   [BLANK_AUDIO]
+[00:25:00.000 --> 00:25:10.000]   [BLANK_AUDIO]
+[00:25:10.000 --> 00:25:20.000]   [BLANK_AUDIO]
+[00:25:20.000 --> 00:25:30.000]   [BLANK_AUDIO]
+[00:25:30.000 --> 00:25:40.000]   [BLANK_AUDIO]
+[00:25:40.000 --> 00:25:50.000]   [BLANK_AUDIO]
+[00:25:50.000 --> 00:26:00.000]   [BLANK_AUDIO]
+[00:26:00.000 --> 00:26:10.000]   [BLANK_AUDIO]
+[00:26:10.000 --> 00:26:20.000]   [BLANK_AUDIO]
+[00:26:20.000 --> 00:26:30.000]   [BLANK_AUDIO]
+[00:26:30.000 --> 00:26:40.000]   [BLANK_AUDIO]
+[00:26:40.000 --> 00:26:50.000]   [BLANK_AUDIO]
+[00:26:50.000 --> 00:27:00.000]   [BLANK_AUDIO]
+[00:27:00.000 --> 00:27:10.000]   [BLANK_AUDIO]
+[00:27:10.000 --> 00:27:20.000]   [BLANK_AUDIO]
+[00:27:20.000 --> 00:27:30.000]   [BLANK_AUDIO]
+[00:27:30.000 --> 00:27:40.000]   [BLANK_AUDIO]
+[00:27:40.000 --> 00:27:50.000]   [BLANK_AUDIO]
+[00:27:50.000 --> 00:28:00.000]   [BLANK_AUDIO]
+[00:28:00.000 --> 00:28:10.000]   [BLANK_AUDIO]
+[00:28:10.000 --> 00:28:20.000]   [BLANK_AUDIO]
+[00:28:20.000 --> 00:28:30.000]   [BLANK_AUDIO]
+[00:28:30.000 --> 00:28:40.000]   [BLANK_AUDIO]
+[00:28:40.000 --> 00:28:50.000]   [BLANK_AUDIO]
+[00:28:50.000 --> 00:29:00.000]   [BLANK_AUDIO]
+[00:29:00.000 --> 00:29:10.000]   [BLANK_AUDIO]
+[00:29:10.000 --> 00:29:20.000]   [BLANK_AUDIO]
+[00:29:20.000 --> 00:29:30.000]   [BLANK_AUDIO]
+[00:29:30.000 --> 00:29:40.000]   [BLANK_AUDIO]
+[00:29:40.000 --> 00:29:50.000]   [BLANK_AUDIO]
+[00:29:50.000 --> 00:30:00.000]   [BLANK_AUDIO]
+[00:30:00.000 --> 00:30:10.000]   [BLANK_AUDIO]
+[00:30:10.000 --> 00:30:20.000]   [BLANK_AUDIO]
+[00:30:20.000 --> 00:30:30.000]   [BLANK_AUDIO]
+[00:30:30.000 --> 00:30:40.000]   [BLANK_AUDIO]
+[00:30:40.000 --> 00:30:50.000]   [BLANK_AUDIO]
+[00:30:50.000 --> 00:31:00.000]   [BLANK_AUDIO]
+[00:31:00.000 --> 00:31:10.000]   [BLANK_AUDIO]
+[00:31:10.000 --> 00:31:20.000]   [BLANK_AUDIO]
+[00:31:20.000 --> 00:31:30.000]   [BLANK_AUDIO]
+[00:31:30.000 --> 00:31:40.000]   [BLANK_AUDIO]
+[00:31:40.000 --> 00:31:50.000]   [BLANK_AUDIO]
+[00:31:50.000 --> 00:32:00.000]   [BLANK_AUDIO]
+[00:32:00.000 --> 00:32:10.000]   [BLANK_AUDIO]
+[00:32:10.000 --> 00:32:20.000]   [BLANK_AUDIO]
+[00:32:20.000 --> 00:32:30.000]   [BLANK_AUDIO]
+[00:32:30.000 --> 00:32:40.000]   [BLANK_AUDIO]
+[00:32:40.000 --> 00:32:50.000]   [BLANK_AUDIO]
+[00:32:50.000 --> 00:33:00.000]   [BLANK_AUDIO]
+[00:33:00.000 --> 00:33:10.000]   [BLANK_AUDIO]
+[00:33:10.000 --> 00:33:20.000]   [BLANK_AUDIO]
+[00:33:20.000 --> 00:33:30.000]   [BLANK_AUDIO]
+[00:33:30.000 --> 00:33:40.000]   [BLANK_AUDIO]
+[00:33:40.000 --> 00:33:50.000]   [BLANK_AUDIO]
+[00:33:50.000 --> 00:34:00.000]   [BLANK_AUDIO]
+[00:34:00.000 --> 00:34:10.000]   [BLANK_AUDIO]
+[00:34:10.000 --> 00:34:20.000]   [BLANK_AUDIO]
+[00:34:20.000 --> 00:34:30.000]   [BLANK_AUDIO]
+[00:34:30.000 --> 00:34:40.000]   [BLANK_AUDIO]
+[00:34:40.000 --> 00:34:50.000]   [BLANK_AUDIO]
+[00:34:50.000 --> 00:35:00.000]   [BLANK_AUDIO]
+[00:35:00.000 --> 00:35:10.000]   [BLANK_AUDIO]
+[00:35:10.000 --> 00:35:20.000]   [BLANK_AUDIO]
+[00:35:20.000 --> 00:35:30.000]   [BLANK_AUDIO]
+[00:35:30.000 --> 00:35:40.000]   [BLANK_AUDIO]
+[00:35:40.000 --> 00:35:50.000]   [BLANK_AUDIO]
+[00:35:50.000 --> 00:36:00.000]   [BLANK_AUDIO]
+[00:36:00.000 --> 00:36:10.000]   [BLANK_AUDIO]
+[00:36:10.000 --> 00:36:20.000]   [BLANK_AUDIO]
+[00:36:20.000 --> 00:36:30.000]   [BLANK_AUDIO]
+[00:36:30.000 --> 00:36:40.000]   [BLANK_AUDIO]
+[00:36:40.000 --> 00:36:50.000]   [BLANK_AUDIO]
+[00:36:50.000 --> 00:37:00.000]   [BLANK_AUDIO]
+[00:37:00.000 --> 00:37:10.000]   [BLANK_AUDIO]
+[00:37:10.000 --> 00:37:20.000]   [BLANK_AUDIO]
+[00:37:20.000 --> 00:37:30.000]   [BLANK_AUDIO]
+[00:37:30.000 --> 00:37:40.000]   [BLANK_AUDIO]
+[00:37:40.000 --> 00:37:50.000]   [BLANK_AUDIO]
+[00:37:50.000 --> 00:38:00.000]   [BLANK_AUDIO]
+[00:38:00.000 --> 00:38:10.000]   [BLANK_AUDIO]
+[00:38:10.000 --> 00:38:20.000]   [BLANK_AUDIO]
+[00:38:20.000 --> 00:38:30.000]   [BLANK_AUDIO]
+[00:38:30.000 --> 00:38:40.000]   [BLANK_AUDIO]
+[00:38:40.000 --> 00:38:50.000]   [BLANK_AUDIO]
+[00:38:50.000 --> 00:39:00.000]   [BLANK_AUDIO]
+[00:39:00.000 --> 00:39:10.000]   [BLANK_AUDIO]
+[00:39:10.000 --> 00:39:20.000]   [BLANK_AUDIO]
+[00:39:20.000 --> 00:39:30.000]   [BLANK_AUDIO]
+[00:39:30.000 --> 00:39:40.000]   [BLANK_AUDIO]
+[00:39:40.000 --> 00:39:50.000]   [BLANK_AUDIO]
+[00:39:50.000 --> 00:40:00.000]   [BLANK_AUDIO]
+[00:40:00.000 --> 00:40:10.000]   [BLANK_AUDIO]
+[00:40:10.000 --> 00:40:20.000]   [BLANK_AUDIO]
+[00:40:20.000 --> 00:40:30.000]   [BLANK_AUDIO]
+[00:40:30.000 --> 00:40:40.000]   [BLANK_AUDIO]
+[00:40:40.000 --> 00:40:50.000]   [BLANK_AUDIO]
+[00:40:50.000 --> 00:41:00.000]   [BLANK_AUDIO]
+[00:41:00.000 --> 00:41:10.000]   [BLANK_AUDIO]
+[00:41:10.000 --> 00:41:20.000]   [BLANK_AUDIO]
+[00:41:20.000 --> 00:41:30.000]   [BLANK_AUDIO]
+[00:41:30.000 --> 00:41:40.000]   [BLANK_AUDIO]
+[00:41:40.000 --> 00:41:50.000]   [BLANK_AUDIO]
+[00:41:50.000 --> 00:42:00.000]   [BLANK_AUDIO]
+[00:42:00.000 --> 00:42:10.000]   [BLANK_AUDIO]
+[00:42:10.000 --> 00:42:20.000]   [BLANK_AUDIO]
+[00:42:20.000 --> 00:42:30.000]   [BLANK_AUDIO]
+[00:42:30.000 --> 00:42:40.000]   [BLANK_AUDIO]
+[00:42:40.000 --> 00:42:50.000]   [BLANK_AUDIO]
+[00:42:50.000 --> 00:43:00.000]   [BLANK_AUDIO]
+[00:43:00.000 --> 00:43:10.000]   [BLANK_AUDIO]
+[00:43:10.000 --> 00:43:20.000]   [BLANK_AUDIO]
+[00:43:20.000 --> 00:43:30.000]   [BLANK_AUDIO]
+[00:43:30.000 --> 00:43:40.000]   [BLANK_AUDIO]
+[00:43:40.000 --> 00:43:50.000]   [BLANK_AUDIO]
+[00:43:50.000 --> 00:44:00.000]   [BLANK_AUDIO]
+[00:44:00.000 --> 00:44:10.000]   [BLANK_AUDIO]
+[00:44:10.000 --> 00:44:20.000]   [BLANK_AUDIO]
+[00:44:20.000 --> 00:44:30.000]   [BLANK_AUDIO]
+[00:44:30.000 --> 00:44:40.000]   [BLANK_AUDIO]
+[00:44:40.000 --> 00:44:50.000]   [BLANK_AUDIO]
+[00:44:50.000 --> 00:45:00.000]   [BLANK_AUDIO]
+[00:45:00.000 --> 00:45:10.000]   [BLANK_AUDIO]
+[00:45:10.000 --> 00:45:20.000]   [BLANK_AUDIO]
+[00:45:20.000 --> 00:45:30.000]   [BLANK_AUDIO]
+[00:45:30.000 --> 00:45:40.000]   [BLANK_AUDIO]
+[00:45:40.000 --> 00:45:50.000]   [BLANK_AUDIO]
+[00:45:50.000 --> 00:46:00.000]   [BLANK_AUDIO]
+[00:46:00.000 --> 00:46:10.000]   [BLANK_AUDIO]
+[00:46:10.000 --> 00:46:20.000]   [BLANK_AUDIO]
+[00:46:20.000 --> 00:46:30.000]   [BLANK_AUDIO]
+[00:46:30.000 --> 00:46:40.000]   [BLANK_AUDIO]
+[00:46:40.000 --> 00:46:50.000]   [BLANK_AUDIO]
+[00:46:50.000 --> 00:47:00.000]   [BLANK_AUDIO]
+[00:47:00.000 --> 00:47:10.000]   [BLANK_AUDIO]
+[00:47:10.000 --> 00:47:20.000]   [BLANK_AUDIO]
+[00:47:20.000 --> 00:47:30.000]   [BLANK_AUDIO]
+[00:47:30.000 --> 00:47:40.000]   [BLANK_AUDIO]
+[00:47:40.000 --> 00:47:50.000]   [BLANK_AUDIO]
+[00:47:50.000 --> 00:48:00.000]   [BLANK_AUDIO]
+[00:48:00.000 --> 00:48:10.000]   [BLANK_AUDIO]
+[00:48:10.000 --> 00:48:20.000]   [BLANK_AUDIO]
+[00:48:20.000 --> 00:48:30.000]   [BLANK_AUDIO]
+[00:48:30.000 --> 00:48:40.000]   [BLANK_AUDIO]
+[00:48:40.000 --> 00:48:50.000]   [BLANK_AUDIO]
+[00:48:50.000 --> 00:49:00.000]   [BLANK_AUDIO]
+[00:49:00.000 --> 00:49:10.000]   [BLANK_AUDIO]
+[00:49:10.000 --> 00:49:20.000]   [BLANK_AUDIO]
+[00:49:20.000 --> 00:49:30.000]   [BLANK_AUDIO]
+[00:49:30.000 --> 00:49:40.000]   [BLANK_AUDIO]
+[00:49:40.000 --> 00:49:50.000]   [BLANK_AUDIO]
+[00:49:50.000 --> 00:50:00.000]   [BLANK_AUDIO]
+[00:50:00.000 --> 00:50:10.000]   [BLANK_AUDIO]
+[00:50:10.000 --> 00:50:20.000]   [BLANK_AUDIO]
+[00:50:20.000 --> 00:50:30.000]   [BLANK_AUDIO]
+[00:50:30.000 --> 00:50:40.000]   [BLANK_AUDIO]
+[00:50:40.000 --> 00:50:50.000]   [BLANK_AUDIO]
+[00:50:50.000 --> 00:51:00.000]   [BLANK_AUDIO]
+[00:51:00.000 --> 00:51:10.000]   [BLANK_AUDIO]
+[00:51:10.000 --> 00:51:20.000]   [BLANK_AUDIO]
+[00:51:20.000 --> 00:51:30.000]   [BLANK_AUDIO]
+[00:51:30.000 --> 00:51:40.000]   [BLANK_AUDIO]
+[00:51:40.000 --> 00:51:50.000]   [BLANK_AUDIO]
+[00:51:50.000 --> 00:52:00.000]   [BLANK_AUDIO]
+[00:52:00.000 --> 00:52:10.000]   [BLANK_AUDIO]
+[00:52:10.000 --> 00:52:20.000]   [BLANK_AUDIO]
+[00:52:20.000 --> 00:52:30.000]   [BLANK_AUDIO]
+[00:52:30.000 --> 00:52:40.000]   [BLANK_AUDIO]
+[00:52:40.000 --> 00:52:50.000]   [BLANK_AUDIO]
+[00:52:50.000 --> 00:53:00.000]   [BLANK_AUDIO]
+[00:53:00.000 --> 00:53:10.000]   [BLANK_AUDIO]
+[00:53:10.000 --> 00:53:20.000]   [BLANK_AUDIO]
+[00:53:20.000 --> 00:53:30.000]   [BLANK_AUDIO]
+[00:53:30.000 --> 00:53:40.000]   [BLANK_AUDIO]
+[00:53:40.000 --> 00:53:50.000]   [BLANK_AUDIO]
+[00:53:50.000 --> 00:54:00.000]   [BLANK_AUDIO]
+[00:54:00.000 --> 00:54:10.000]   [BLANK_AUDIO]
+[00:54:10.000 --> 00:54:20.000]   [BLANK_AUDIO]
+[00:54:20.000 --> 00:54:30.000]   [BLANK_AUDIO]
+[00:54:30.000 --> 00:54:40.000]   [BLANK_AUDIO]
+[00:54:40.000 --> 00:54:50.000]   [BLANK_AUDIO]
+[00:54:50.000 --> 00:55:00.000]   [BLANK_AUDIO]
+[00:55:00.000 --> 00:55:10.000]   [BLANK_AUDIO]
+[00:55:10.000 --> 00:55:20.000]   [BLANK_AUDIO]
+[00:55:20.000 --> 00:55:30.000]   [BLANK_AUDIO]
+[00:55:30.000 --> 00:55:40.000]   [BLANK_AUDIO]
+[00:55:40.000 --> 00:55:50.000]   [BLANK_AUDIO]
+[00:55:50.000 --> 00:56:00.000]   [BLANK_AUDIO]
+[00:56:00.000 --> 00:56:10.000]   [BLANK_AUDIO]
+[00:56:10.000 --> 00:56:20.000]   [BLANK_AUDIO]
+[00:56:20.000 --> 00:56:30.000]   [BLANK_AUDIO]
+[00:56:30.000 --> 00:56:40.000]   [BLANK_AUDIO]
+[00:56:40.000 --> 00:56:50.000]   [BLANK_AUDIO]
+[00:56:50.000 --> 00:57:00.000]   [BLANK_AUDIO]
+[00:57:00.000 --> 00:57:10.000]   [BLANK_AUDIO]
+[00:57:10.000 --> 00:57:20.000]   [BLANK_AUDIO]
+[00:57:20.000 --> 00:57:30.000]   [BLANK_AUDIO]
+[00:57:30.000 --> 00:57:40.000]   [BLANK_AUDIO]
+[00:57:40.000 --> 00:57:50.000]   [BLANK_AUDIO]
+[00:57:50.000 --> 00:58:00.000]   [BLANK_AUDIO]
+[00:58:00.000 --> 00:58:10.000]   [BLANK_AUDIO]
+[00:58:10.000 --> 00:58:20.000]   [BLANK_AUDIO]
+[00:58:20.000 --> 00:58:30.000]   [BLANK_AUDIO]
+[00:58:30.000 --> 00:58:40.000]   [BLANK_AUDIO]
+[00:58:40.000 --> 00:58:50.000]   [BLANK_AUDIO]
+[00:58:50.000 --> 00:59:00.000]   [BLANK_AUDIO]
+[00:59:00.000 --> 00:59:10.000]   [BLANK_AUDIO]
+[00:59:10.000 --> 00:59:20.000]   [BLANK_AUDIO]
+[00:59:20.000 --> 00:59:30.000]   [BLANK_AUDIO]
+[00:59:30.000 --> 00:59:40.000]   [BLANK_AUDIO]
+[00:59:40.000 --> 00:59:50.000]   [BLANK_AUDIO]
+[00:59:50.000 --> 01:00:00.000]   [BLANK_AUDIO]
+[01:00:00.000 --> 01:00:10.000]   [BLANK_AUDIO]
+[01:00:10.000 --> 01:00:20.000]   [BLANK_AUDIO]
+[01:00:20.000 --> 01:00:30.000]   [BLANK_AUDIO]
+[01:00:30.000 --> 01:00:40.000]   [BLANK_AUDIO]
+[01:00:40.000 --> 01:00:50.000]   [BLANK_AUDIO]
+[01:00:50.000 --> 01:01:00.000]   [BLANK_AUDIO]
+[01:01:00.000 --> 01:01:10.000]   [BLANK_AUDIO]
+[01:01:10.000 --> 01:01:20.000]   [BLANK_AUDIO]
+[01:01:20.000 --> 01:01:30.000]   [BLANK_AUDIO]
+[01:01:30.000 --> 01:01:40.000]   [BLANK_AUDIO]
+[01:01:40.000 --> 01:01:50.000]   [BLANK_AUDIO]
+[01:01:50.000 --> 01:02:00.000]   [BLANK_AUDIO]
+[01:02:00.000 --> 01:02:10.000]   [BLANK_AUDIO]
+[01:02:10.000 --> 01:02:20.000]   [BLANK_AUDIO]
+[01:02:20.000 --> 01:02:30.000]   [BLANK_AUDIO]
+[01:02:30.000 --> 01:02:40.000]   [BLANK_AUDIO]
+[01:02:40.000 --> 01:02:50.000]   [BLANK_AUDIO]
+[01:02:50.000 --> 01:03:00.000]   [BLANK_AUDIO]
+[01:03:00.000 --> 01:03:10.000]   [BLANK_AUDIO]
+[01:03:10.000 --> 01:03:20.000]   [BLANK_AUDIO]
+[01:03:20.000 --> 01:03:30.000]   [BLANK_AUDIO]
+[01:03:30.000 --> 01:03:40.000]   [BLANK_AUDIO]
+[01:03:40.000 --> 01:03:50.000]   [BLANK_AUDIO]
+[01:03:50.000 --> 01:04:00.000]   [BLANK_AUDIO]
+[01:04:00.000 --> 01:04:10.000]   [BLANK_AUDIO]
+[01:04:10.000 --> 01:04:20.000]   [BLANK_AUDIO]
+[01:04:20.000 --> 01:04:30.000]   [BLANK_AUDIO]
+[01:04:30.000 --> 01:04:40.000]   [BLANK_AUDIO]
+[01:04:40.000 --> 01:04:50.000]   [BLANK_AUDIO]
+[01:04:50.000 --> 01:05:00.000]   [BLANK_AUDIO]
+[01:05:00.000 --> 01:05:10.000]   [BLANK_AUDIO]
+[01:05:10.000 --> 01:05:20.000]   [BLANK_AUDIO]
+[01:05:20.000 --> 01:05:30.000]   [BLANK_AUDIO]
+[01:05:30.000 --> 01:05:40.000]   [BLANK_AUDIO]
+[01:05:40.000 --> 01:05:50.000]   [BLANK_AUDIO]
+[01:05:50.000 --> 01:06:00.000]   [BLANK_AUDIO]
+[01:06:00.000 --> 01:06:10.000]   [BLANK_AUDIO]
+[01:06:10.000 --> 01:06:20.000]   [BLANK_AUDIO]
+[01:06:20.000 --> 01:06:30.000]   [BLANK_AUDIO]
+[01:06:30.000 --> 01:06:40.000]   [BLANK_AUDIO]
+[01:06:40.000 --> 01:06:50.000]   [BLANK_AUDIO]
+[01:06:50.000 --> 01:07:00.000]   [BLANK_AUDIO]
+[01:07:00.000 --> 01:07:10.000]   [BLANK_AUDIO]
+[01:07:10.000 --> 01:07:20.000]   [BLANK_AUDIO]
+[01:07:20.000 --> 01:07:30.000]   [BLANK_AUDIO]
+[01:07:30.000 --> 01:07:40.000]   [BLANK_AUDIO]
+[01:07:40.000 --> 01:07:50.000]   [BLANK_AUDIO]
+[01:07:50.000 --> 01:08:00.000]   [BLANK_AUDIO]
+[01:08:00.000 --> 01:08:10.000]   [BLANK_AUDIO]
+[01:08:10.000 --> 01:08:20.000]   [BLANK_AUDIO]
+[01:08:20.000 --> 01:08:30.000]   [BLANK_AUDIO]
+[01:08:30.000 --> 01:08:40.000]   [BLANK_AUDIO]
+[01:08:40.000 --> 01:08:50.000]   [BLANK_AUDIO]
+[01:08:50.000 --> 01:09:00.000]   [BLANK_AUDIO]
+[01:09:00.000 --> 01:09:10.000]   [BLANK_AUDIO]
+[01:09:10.000 --> 01:09:20.000]   [BLANK_AUDIO]
+[01:09:20.000 --> 01:09:30.000]   [BLANK_AUDIO]
+[01:09:30.000 --> 01:09:40.000]   [BLANK_AUDIO]
+[01:09:40.000 --> 01:09:50.000]   [BLANK_AUDIO]
+[01:09:50.000 --> 01:10:00.000]   [BLANK_AUDIO]
+[01:10:00.000 --> 01:10:10.000]   [BLANK_AUDIO]
+[01:10:10.000 --> 01:10:20.000]   [BLANK_AUDIO]
+[01:10:20.000 --> 01:10:30.000]   [BLANK_AUDIO]
+[01:10:30.000 --> 01:10:40.000]   [BLANK_AUDIO]
+[01:10:40.000 --> 01:10:50.000]   [BLANK_AUDIO]
+[01:10:50.000 --> 01:11:00.000]   [BLANK_AUDIO]
+[01:11:00.000 --> 01:11:10.000]   [BLANK_AUDIO]
+[01:11:10.000 --> 01:11:20.000]   [BLANK_AUDIO]
+[01:11:20.000 --> 01:11:30.000]   [BLANK_AUDIO]
+[01:11:30.000 --> 01:11:40.000]   [BLANK_AUDIO]
+[01:11:40.000 --> 01:11:50.000]   [BLANK_AUDIO]
+[01:11:50.000 --> 01:12:00.000]   [BLANK_AUDIO]
+[01:12:00.000 --> 01:12:10.000]   [BLANK_AUDIO]
+[01:12:10.000 --> 01:12:16.000]   [BLANK_AUDIO]
+[01:12:16.000 --> 01:12:17.000]   >> Simon, can you hear me?
+[01:12:17.000 --> 01:12:21.000]   [BLANK_AUDIO]
+[01:12:21.000 --> 01:12:22.000]   Thank you.
+[01:12:22.000 --> 01:12:27.000]   [BLANK_AUDIO]
+[01:12:27.000 --> 01:12:30.000]   Lindsey Han, can you hear me?
+[01:12:30.000 --> 01:12:31.000]   Okay.
+[01:12:31.000 --> 01:12:32.000]   Theodora, can you hear me?
+[01:12:32.000 --> 01:12:34.000]   Great.
+[01:12:34.000 --> 01:12:41.000]   Okay, let me go ahead and just ask the Lord just for his help.
+[01:12:41.000 --> 01:12:47.000]   Father, we are gathered here tonight just to study your word.
+[01:12:47.000 --> 01:12:53.000]   I pray that you would help me to articulate clearly and
+[01:12:53.000 --> 01:12:59.000]   help us as a congregation really feed off your word well.
+[01:12:59.000 --> 01:13:04.000]   So Lord, I pray for just eager hearts to be fed, and
+[01:13:04.000 --> 01:13:09.000]   we pray that you would be honored in this gathering tonight.
+[01:13:09.000 --> 01:13:11.000]   In Jesus' name we pray.
+[01:13:11.000 --> 01:13:14.000]   So this is as a way of review.
+[01:13:14.000 --> 01:13:18.000]   This was in the first week when I taught this.
+[01:13:18.000 --> 01:13:20.000]   We just finished Galatians chapter one and
+[01:13:20.000 --> 01:13:23.000]   we're starting Galatians chapter two, right?
+[01:13:23.000 --> 01:13:28.000]   And so just as a way of reminder, we're still in the section where
+[01:13:28.000 --> 01:13:31.000]   Paul is describing that there is no other gospel.
+[01:13:31.000 --> 01:13:35.000]   There's only one gospel.
+[01:13:35.000 --> 01:13:41.000]   And then three and four, it's gonna be super meaty, weighty theology.
+[01:13:41.000 --> 01:13:47.000]   In chapter five, verse 13, it talks about not using our freedom to indulge the
+[01:13:47.000 --> 01:13:51.000]   flesh, which is kind of important to what we're talking about today.
+[01:13:51.000 --> 01:13:56.000]   So this is kind of the context that we're charting through.
+[01:13:56.000 --> 01:14:00.000]   And to break it down a little bit more, chapter one, verse 11,
+[01:14:00.000 --> 01:14:05.000]   all the way to chapter two, verse 21, that's Paul's longest description
+[01:14:05.000 --> 01:14:08.000]   of the accounts of his ministry.
+[01:14:08.000 --> 01:14:12.000]   It's the longest autobiographical section of all his letters.
+[01:14:12.000 --> 01:14:14.000]   And so like I mentioned before,
+[01:14:14.000 --> 01:14:18.000]   we're gonna be in this section until November 1st, okay?
+[01:14:18.000 --> 01:14:22.000]   So we covered a few weeks back that the main point in this whole
+[01:14:22.000 --> 01:14:26.000]   autobiography is that the gospel is not of man.
+[01:14:26.000 --> 01:14:28.000]   It's completely of God.
+[01:14:28.000 --> 01:14:31.000]   And obviously it's coming through different people, but
+[01:14:31.000 --> 01:14:34.000]   the gospel is completely of God.
+[01:14:34.000 --> 01:14:39.000]   And we looked at Paul's testimony as a persecutor of the church.
+[01:14:39.000 --> 01:14:43.000]   And then last week we looked at like Paul's first encounters
+[01:14:43.000 --> 01:14:46.000]   with the churches of Judea and then with the apostles.
+[01:14:46.000 --> 01:14:51.000]   And today and next week we're looking at verses 1 through 10, okay?
+[01:14:51.000 --> 01:14:56.000]   And Paul is in--he's describing his time in Jerusalem.
+[01:14:56.000 --> 01:15:00.000]   And in Jerusalem he has a summit meeting with the apostles
+[01:15:00.000 --> 01:15:02.000]   talking about gospel ministry.
+[01:15:02.000 --> 01:15:08.000]   And today we're looking at Paul's gospel ministry was not in vain,
+[01:15:08.000 --> 01:15:10.000]   even though there's false brothers.
+[01:15:10.000 --> 01:15:12.000]   Okay, that's the main point.
+[01:15:12.000 --> 01:15:19.000]   Paul's gospel ministry was not in vain despite the efforts of the false brethren.
+[01:15:19.000 --> 01:15:24.000]   Okay, and then next week we're gonna read Paul and the other apostles of Christ
+[01:15:24.000 --> 01:15:26.000]   were in one accord.
+[01:15:26.000 --> 01:15:30.000]   Now that's important to remember because if we look at the tone
+[01:15:30.000 --> 01:15:36.000]   all the way through verse 11 of chapter 2, it just seems like Paul is angry.
+[01:15:36.000 --> 01:15:38.000]   Right, doesn't he sound like an angry person?
+[01:15:38.000 --> 01:15:39.000]   He's a lone ranger.
+[01:15:39.000 --> 01:15:44.000]   He has his own thoughts and Peter, James, and John, those reputed to be pillars,
+[01:15:44.000 --> 01:15:50.000]   they're just in the way almost like, hey, Peter's acting in hypocrisy.
+[01:15:50.000 --> 01:15:51.000]   He's standing condemned.
+[01:15:51.000 --> 01:15:55.000]   And then he goes, "Those men contributed nothing to my gospel."
+[01:15:55.000 --> 01:15:57.000]   Is that the tone?
+[01:15:57.000 --> 01:15:59.000]   And I'll say it's not, okay?
+[01:15:59.000 --> 01:16:01.000]   So Paul's not being disrespectful.
+[01:16:01.000 --> 01:16:04.000]   If anything, as we look through this week and next week,
+[01:16:04.000 --> 01:16:07.000]   you're gonna see that Paul and the other apostles of Christ
+[01:16:07.000 --> 01:16:14.000]   were very much in one accord, in one united ministry.
+[01:16:14.000 --> 01:16:19.000]   And then Peter and Barnabas have kind of a momentary lapse.
+[01:16:19.000 --> 01:16:22.000]   But they are in one accord, and that's what we're gonna be looking at today
+[01:16:22.000 --> 01:16:24.000]   and then next week.
+[01:16:24.000 --> 01:16:34.000]   So this is just pretty much how I chart through the letter, this section.
+[01:16:34.000 --> 01:16:42.000]   And the first thing that I want you guys to notice is look at all the buts.
+[01:16:42.000 --> 01:16:44.000]   Do you notice that?
+[01:16:44.000 --> 01:16:46.000]   Anybody notice this?
+[01:16:46.000 --> 01:16:52.000]   But, but, but, but, but, but.
+[01:16:52.000 --> 01:16:59.000]   Now, usually when there's a but, you're saying something against what has just been said.
+[01:16:59.000 --> 01:17:05.000]   Right? So that's one of the first things that I notice when I kind of chart it this way.
+[01:17:05.000 --> 01:17:10.000]   So that because of a revelation--so Paul went to Jerusalem because of a revelation,
+[01:17:10.000 --> 01:17:13.000]   and this revelation talk, it's mentioned a few times.
+[01:17:13.000 --> 01:17:21.000]   This is the third time so far in the, what, 20-something verses.
+[01:17:21.000 --> 01:17:26.000]   And he goes, "I went in response to a revelation,
+[01:17:26.000 --> 01:17:30.000]   and that the gospel is not of man, it's of God."
+[01:17:30.000 --> 01:17:37.000]   And all the buts that are written there are talking about how this, though,
+[01:17:37.000 --> 01:17:41.000]   is played out in relation to man.
+[01:17:41.000 --> 01:17:47.000]   Now, if you guys looked at the ESV, they would all be--you're looking at different words.
+[01:17:47.000 --> 01:17:53.000]   So what I will discover is that all the buts are not all the same word.
+[01:17:53.000 --> 01:17:58.000]   But I do notice this, this catches my eye.
+[01:17:58.000 --> 01:18:08.000]   That all of the buts are talking about something that is being played out in relation to mankind.
+[01:18:08.000 --> 01:18:14.000]   So then the question is, for me, when I'm reading through this,
+[01:18:14.000 --> 01:18:18.000]   Paul's in Jerusalem because of a revelation,
+[01:18:18.000 --> 01:18:24.000]   and I know the book of Acts talks a lot about stuff that happened in Paul's ministry.
+[01:18:24.000 --> 01:18:26.000]   Can I find a parallel?
+[01:18:26.000 --> 01:18:34.000]   So what I did for myself, I actually just took Acts 15, Acts 11 and 12,
+[01:18:34.000 --> 01:18:38.000]   and I just put them all in one column, and I just charted it out in notes.
+[01:18:38.000 --> 01:18:42.000]   And I just put this in here just so that you can kind of see how I do this.
+[01:18:42.000 --> 01:18:45.000]   So when I study the Bible and I come across a narrative,
+[01:18:45.000 --> 01:18:48.000]   or I come across Paul talking about an event,
+[01:18:48.000 --> 01:18:52.000]   I sometimes will just go into Acts to see what's happening.
+[01:18:52.000 --> 01:18:54.000]   Anybody else do this?
+[01:18:54.000 --> 01:18:57.000]   Okay, and then you learn a lot of things.
+[01:18:57.000 --> 01:19:01.000]   But the tricky part about Galatians 2, verses 1 through 10,
+[01:19:01.000 --> 01:19:07.000]   it's a little bit difficult to know what he's talking about in terms of the event.
+[01:19:07.000 --> 01:19:11.000]   So what or when was this revelation?
+[01:19:11.000 --> 01:19:14.000]   Was this Acts 11 and 12?
+[01:19:14.000 --> 01:19:21.000]   When Agabus comes down and he actually gives a prophecy saying there's going to be a global famine,
+[01:19:21.000 --> 01:19:27.000]   and so Paul and Barnabas get sent with money and aid to the poor in Jerusalem,
+[01:19:27.000 --> 01:19:29.000]   is that what he's talking about?
+[01:19:29.000 --> 01:19:32.000]   Because Galatians 2.10, which we're going to look at next week,
+[01:19:32.000 --> 01:19:36.000]   seems like, "Oh, only they asked us to remember the poor, the very thing I was eager to do."
+[01:19:36.000 --> 01:19:40.000]   That sounds like that's where that is.
+[01:19:40.000 --> 01:19:42.000]   Or is it Acts 15?
+[01:19:42.000 --> 01:19:47.000]   Acts 15 is extremely important, especially in our context of the study of Galatians,
+[01:19:47.000 --> 01:19:52.000]   because that's when all the church leaders at the time assembled together--
+[01:19:52.000 --> 01:19:57.000]   not all of them, but the major guys assembled together and made a declaration.
+[01:19:57.000 --> 01:20:00.000]   So was this what Paul was talking about?
+[01:20:00.000 --> 01:20:06.000]   So that's the question that I would have, and I will say it's inconclusive.
+[01:20:06.000 --> 01:20:11.000]   It's very difficult to time when exactly this was.
+[01:20:11.000 --> 01:20:14.000]   And I don't need to be satisfied with an exact answer.
+[01:20:14.000 --> 01:20:16.000]   I can leave it as is.
+[01:20:16.000 --> 01:20:18.000]   Okay, it happened.
+[01:20:18.000 --> 01:20:21.000]   So I don't know if when Paul says, "I went up again to Jerusalem,"
+[01:20:21.000 --> 01:20:26.000]   it's his second time being a Christian or his third time after becoming a Christian,
+[01:20:26.000 --> 01:20:28.000]   and at the end of the day it doesn't matter.
+[01:20:28.000 --> 01:20:32.000]   All we know that is Paul, when he went to Jerusalem,
+[01:20:32.000 --> 01:20:36.000]   he didn't go there to learn the gospel from the apostles.
+[01:20:36.000 --> 01:20:40.000]   He went to Jerusalem with a specific mission in mind,
+[01:20:40.000 --> 01:20:44.000]   and the apostles were there, and they got acquainted,
+[01:20:44.000 --> 01:20:47.000]   and the things that they were saying were exactly the same.
+[01:20:47.000 --> 01:20:49.000]   So I'll get to that.
+[01:20:49.000 --> 01:20:56.000]   So when I'm looking at this passage, there are three points of interest for me.
+[01:20:56.000 --> 01:21:07.000]   So the first one, what does Paul submit, and what was his fear?
+[01:21:07.000 --> 01:21:10.000]   That's in the NASB.
+[01:21:10.000 --> 01:21:16.000]   If you're just reading the NASB, it might almost come across of like Paul feeling insecure.
+[01:21:16.000 --> 01:21:21.000]   I laid out--I presented the gospel, I submitted the gospel to those who were of reputation,
+[01:21:21.000 --> 01:21:28.000]   but I did so in private for fear that I was running or had been running my race in vain.
+[01:21:28.000 --> 01:21:31.000]   Is Paul insecure about this?
+[01:21:31.000 --> 01:21:35.000]   Can an apostle of Christ also have self-doubt?
+[01:21:35.000 --> 01:21:39.000]   If you only read the NASB, that's what it kind of might lead you to think.
+[01:21:39.000 --> 01:21:43.000]   But if you look at the other translations, actually that's not necessarily the case.
+[01:21:43.000 --> 01:21:46.000]   And that's one of the reasons why we do a cross-translation.
+[01:21:46.000 --> 01:21:56.000]   So when Paul says he submitted the gospel, the ESV says set before, kind of lay out.
+[01:21:56.000 --> 01:22:00.000]   The King James Version says communicated unto.
+[01:22:00.000 --> 01:22:06.000]   NIV will say presented to, and the Legacy Standard will say I laid out.
+[01:22:06.000 --> 01:22:10.000]   And the reason I'm bringing this up is when you do a cross-translation,
+[01:22:10.000 --> 01:22:15.000]   and every translation seems to have a different way to translate it, that's significant.
+[01:22:15.000 --> 01:22:20.000]   Because that means in the original language, it's actually a very difficult word to translate.
+[01:22:20.000 --> 01:22:22.000]   You guys following?
+[01:22:22.000 --> 01:22:28.000]   So Paul, in private, I translate it as like--and this isn't inspired, okay,
+[01:22:28.000 --> 01:22:33.000]   but this is just how my brain works--he compared notes.
+[01:22:33.000 --> 01:22:37.000]   He compared the notes of all of the things that he was preaching
+[01:22:37.000 --> 01:22:42.000]   with the apostles who were disciples of Jesus.
+[01:22:42.000 --> 01:22:45.000]   He compared notes.
+[01:22:45.000 --> 01:22:49.000]   And he did this in private.
+[01:22:49.000 --> 01:22:53.000]   And his fear was not that he was running in vain.
+[01:22:53.000 --> 01:23:00.000]   But when I'm reading the context, he wanted to make sure that what these guys were presenting
+[01:23:00.000 --> 01:23:07.000]   and what he was presenting was on the same page, because if those guys had it in the wrong,
+[01:23:07.000 --> 01:23:11.000]   let them be anathema, let them be accursed.
+[01:23:11.000 --> 01:23:13.000]   Right?
+[01:23:13.000 --> 01:23:17.000]   But to his relief, that was not the case.
+[01:23:17.000 --> 01:23:19.000]   So that's the first thing that I notice.
+[01:23:19.000 --> 01:23:30.000]   Why did he do this, submission in private, and what does it mean for him to have run his race in vain?
+[01:23:30.000 --> 01:23:36.000]   I take it as like, man, he was afraid that he was wasting his time in this meeting.
+[01:23:36.000 --> 01:23:37.000]   Okay?
+[01:23:37.000 --> 01:23:42.000]   So secondly, the second part for me to note is,
+[01:23:42.000 --> 01:23:50.000]   "But not even Titus, who is with me, though he was a Greek, was compelled to be circumcised."
+[01:23:50.000 --> 01:23:53.000]   Who was compelling Titus?
+[01:23:53.000 --> 01:23:56.000]   Did you guys ask that in your groups?
+[01:23:56.000 --> 01:24:03.000]   And the word "forced" is also another translation, but who's making him do this?
+[01:24:03.000 --> 01:24:06.000]   Who wasn't compelling Titus?
+[01:24:06.000 --> 01:24:16.000]   The one thing that's very clear when I read this is that Peter, James, John, all the other big guns in the church,
+[01:24:16.000 --> 01:24:21.000]   none of them took issue with the fact that Titus was a Greek and he wasn't circumcised.
+[01:24:21.000 --> 01:24:23.000]   They didn't force him to do that.
+[01:24:23.000 --> 01:24:26.000]   Are you guys tracking?
+[01:24:26.000 --> 01:24:30.000]   They were fine with him there.
+[01:24:30.000 --> 01:24:42.000]   He was a Greek, uncircumcised, and the apostles of Christ in Jerusalem and Paul had the exact same expectation of Titus.
+[01:24:42.000 --> 01:24:45.000]   "You don't need to be circumcised, bro, to be saved."
+[01:24:45.000 --> 01:24:50.000]   So they were in one accord.
+[01:24:50.000 --> 01:24:55.000]   But then I get to this, "Okay, there's false brethren."
+[01:24:55.000 --> 01:24:58.000]   Okay, who are these guys?
+[01:24:58.000 --> 01:25:01.000]   Okay, so who are these false brethren?
+[01:25:01.000 --> 01:25:03.000]   What was their motivation?
+[01:25:03.000 --> 01:25:05.000]   What was their goal?
+[01:25:05.000 --> 01:25:09.000]   The Greek word actually means "fake siblings."
+[01:25:09.000 --> 01:25:14.000]   All right, so pseudo-brothers, they're fake.
+[01:25:14.000 --> 01:25:20.000]   And three things that were characteristic of them is they were secretly brought in.
+[01:25:20.000 --> 01:25:24.000]   So then my question is, "Who brought them in?"
+[01:25:24.000 --> 01:25:36.000]   Okay, Matthew 13:39, it says, "And the enemy who sowed these tares was a devil."
+[01:25:36.000 --> 01:25:40.000]   So I'll look at this as Satan planted them in the church.
+[01:25:40.000 --> 01:25:42.000]   They were secretly brought in.
+[01:25:42.000 --> 01:25:55.000]   But they sneaked in to spy out the liberty which they have in Christ in order to bring us into bondage.
+[01:25:55.000 --> 01:25:59.000]   So my question is then, "Who were these false brothers?
+[01:25:59.000 --> 01:26:02.000]   What was their motivation and what was their goal?"
+[01:26:02.000 --> 01:26:10.000]   And then some other questions that kind of run through my mind is, "Did the apostles know or were they unaware?
+[01:26:10.000 --> 01:26:13.000]   Was it obvious that they were false brothers?
+[01:26:13.000 --> 01:26:18.000]   Were they in leadership?
+[01:26:18.000 --> 01:26:20.000]   And why are they mentioned in here?"
+[01:26:20.000 --> 01:26:28.000]   Because they're in this business to basically distort the gospel.
+[01:26:28.000 --> 01:26:32.000]   And Paul's going to say, "But we didn't yield in subjection to them even for a moment."
+[01:26:32.000 --> 01:26:39.000]   So I want to kind of call attention briefly to who these false people are, the false brothers.
+[01:26:39.000 --> 01:26:41.000]   And I did this in the very first week.
+[01:26:41.000 --> 01:26:50.000]   But there was a group called the Judaizers who basically said that for Gentiles, non-Jewish people,
+[01:26:50.000 --> 01:26:58.000]   when they want to become a believer and a follower of Jesus, they actually had to do three prerequisite things.
+[01:26:58.000 --> 01:27:01.000]   The first thing was they needed to get circumcised.
+[01:27:01.000 --> 01:27:05.000]   The second thing they needed to do was take a ritual bath in water.
+[01:27:05.000 --> 01:27:13.000]   And they almost had to take a pledge that they would take upon the yoke of the Old Testament Mosaic Law.
+[01:27:13.000 --> 01:27:16.000]   So that's almost--that was what was being pushed.
+[01:27:16.000 --> 01:27:25.000]   If you are a non-Jew but you want to become a Christian, you first have to become like a Jew in order to be a believer.
+[01:27:25.000 --> 01:27:28.000]   But obviously, Paul was going around teaching something different.
+[01:27:28.000 --> 01:27:33.000]   And that's why a lot of these Judaizers--there was probably a lot of talk.
+[01:27:33.000 --> 01:27:35.000]   He's not an original apostle.
+[01:27:35.000 --> 01:27:37.000]   He doesn't know what he's talking about.
+[01:27:37.000 --> 01:27:39.000]   He used to be a murderer.
+[01:27:39.000 --> 01:27:41.000]   How can you take his word for it?
+[01:27:41.000 --> 01:27:47.000]   Clearly, his gospel and our gospel is different, and we're the ones who got it right, not that guy.
+[01:27:47.000 --> 01:27:51.000]   So that's why in chapter 1, Paul defends his apostleship.
+[01:27:51.000 --> 01:27:57.000]   And they're also saying that Paul's gospel is not the true gospel because what the Judaizers are saying is,
+[01:27:57.000 --> 01:28:06.000]   yes, it is by grace, it is through faith, but it's also through the law.
+[01:28:06.000 --> 01:28:08.000]   You guys tracking?
+[01:28:08.000 --> 01:28:17.000]   It's by grace, it's by faith, and it's also by adherence to Old Testament law principles.
+[01:28:17.000 --> 01:28:20.000]   And this becomes a big issue in the early church.
+[01:28:20.000 --> 01:28:24.000]   And I want to show you some things that are of interest.
+[01:28:24.000 --> 01:28:34.000]   In Acts 15, verses 1 to 12, it reads, "Some men came down from Judea and began teaching the brethren,
+[01:28:34.000 --> 01:28:40.000]   'Unless you are circumcised according to the custom of Moses, you cannot be saved.'
+[01:28:40.000 --> 01:28:45.000]   And when Paul and Barnabas had great dissension and debate with them,
+[01:28:45.000 --> 01:28:50.000]   the brethren determined that Paul and Barnabas and some others of them should go up to Jerusalem
+[01:28:50.000 --> 01:28:55.000]   to the apostles and elders concerning this issue.
+[01:28:55.000 --> 01:28:59.000]   So therefore, being sent on their way by the church,"
+[01:28:59.000 --> 01:29:01.000]   they were passing through both Phoenicia and Samaria,
+[01:29:01.000 --> 01:29:04.000]   "describing in detail the conversion of the Gentiles,
+[01:29:04.000 --> 01:29:07.000]   and they were bringing great joy to all the brethren.
+[01:29:07.000 --> 01:29:12.000]   When they arrived at Jerusalem, Paul and Barnabas were received by the church
+[01:29:12.000 --> 01:29:18.000]   and the apostles and the elders, and they reported all that God had done with them."
+[01:29:18.000 --> 01:29:22.000]   This sounds kind of like Galatians 2, right?
+[01:29:22.000 --> 01:29:28.000]   "But some of the sect of the Pharisees who had believed,"
+[01:29:28.000 --> 01:29:30.000]   I have questions now, as soon as I see that.
+[01:29:30.000 --> 01:29:40.000]   "They stood up, saying, 'It is necessary to circumcise them and to direct them to observe the law of Moses.'"
+[01:29:40.000 --> 01:29:47.000]   That doesn't sound super incorrect if I'm a Jew.
+[01:29:47.000 --> 01:29:54.000]   So the apostles and the elders came together and they looked into this matter.
+[01:29:54.000 --> 01:29:56.000]   And there was a lot of debate.
+[01:29:56.000 --> 01:29:59.000]   So do you think this was an open and shut, easy debate?
+[01:29:59.000 --> 01:30:00.000]   No.
+[01:30:00.000 --> 01:30:08.000]   These men of God were really looking through the scriptures and praying through and debating this.
+[01:30:08.000 --> 01:30:14.000]   "Peter stood up and said to them, 'Brethren, you know that in the early days God made a choice among you,
+[01:30:14.000 --> 01:30:18.000]   that by my mouth the Gentiles would hear the word of the gospel and believe.
+[01:30:18.000 --> 01:30:24.000]   And God knows the heart, who knows the heart, testified to them, giving them the Holy Spirit,
+[01:30:24.000 --> 01:30:30.000]   just as he also did to us, and he made no distinction between us and them, the Gentiles,
+[01:30:30.000 --> 01:30:32.000]   cleansing their hearts by faith.
+[01:30:32.000 --> 01:30:39.000]   Now, therefore," this is Peter, "why do you put God to the test by placing upon the neck of the disciples
+[01:30:39.000 --> 01:30:46.000]   a yoke which neither our fathers nor we have been able to bear?'"
+[01:30:46.000 --> 01:30:50.000]   Do you think Peter and Paul preached the same gospel?
+[01:30:50.000 --> 01:30:52.000]   Absolutely.
+[01:30:52.000 --> 01:31:01.000]   "But we believe," and this is Peter, "that we are saved through the grace of the Lord Jesus in the same way as they also are.
+[01:31:01.000 --> 01:31:03.000]   And all the people kept silent.
+[01:31:03.000 --> 01:31:07.000]   And they were listening to Barnabas and Paul as they were relating what signs and wonders God had done
+[01:31:07.000 --> 01:31:09.000]   through them among the Gentiles."
+[01:31:09.000 --> 01:31:11.000]   And now here's James.
+[01:31:11.000 --> 01:31:13.000]   James jumps in.
+[01:31:13.000 --> 01:31:19.000]   "After they had stopped speaking, James answered, saying, 'Brethren, listen to me.'"
+[01:31:19.000 --> 01:31:21.000]   And this is Jesus' half-brother.
+[01:31:21.000 --> 01:31:22.000]   He's called an apostle.
+[01:31:22.000 --> 01:31:24.000]   He's the leader of the church of Jerusalem.
+[01:31:24.000 --> 01:31:28.000]   He is the main guy in Jerusalem, even though he wasn't one of the original disciples.
+[01:31:28.000 --> 01:31:35.000]   And he quotes Scripture, and then he says, "It is my judgment that we do not trouble those who are turning to God
+[01:31:35.000 --> 01:31:41.000]   from among the Gentiles, but that we write to them that they abstain from things."
+[01:31:41.000 --> 01:31:46.000]   This isn't a matter of salvation per se, do these things to be saved.
+[01:31:46.000 --> 01:31:50.000]   These are harmful things to your soul.
+[01:31:50.000 --> 01:31:56.000]   As it says in 1 Peter 2, "Abstain from the lusts of the flesh that wage war against your souls."
+[01:31:56.000 --> 01:32:03.000]   So he's saying, "Abstain from things contaminated by idols and from fornication and from what is strangled
+[01:32:03.000 --> 01:32:09.000]   and from blood, for Moses from ancient generations has in every city those who preach him,
+[01:32:09.000 --> 01:32:12.000]   since he has read in the synagogues every Sabbath.
+[01:32:12.000 --> 01:32:19.000]   Then it seemed good to the apostles and the elders with the whole church to choose men from among them
+[01:32:19.000 --> 01:32:26.000]   to send to Antioch with Paul and Barnabas, Judas called Bar-Sabbath, and Silas, leading men from among the brethren.
+[01:32:26.000 --> 01:32:32.000]   And they sent this letter by them, the apostles and brethren who are elders to the brethren in Antioch,
+[01:32:32.000 --> 01:32:36.000]   and Syria, and Cilicia, who are from the Gentiles, greetings."
+[01:32:36.000 --> 01:32:42.000]   So this is the only council you ever see in the New Testament.
+[01:32:42.000 --> 01:32:48.000]   This is the only big council of all the New Testament apostles.
+[01:32:48.000 --> 01:32:53.000]   They come together and they have a letter, a written document of what the gospel is and what the gospel is not.
+[01:32:53.000 --> 01:32:57.000]   And they read it.
+[01:32:57.000 --> 01:33:02.000]   So do Peter, James, and John have the same gospel or is it different?
+[01:33:02.000 --> 01:33:04.000]   It's exactly the same.
+[01:33:04.000 --> 01:33:06.000]   And that's the main thrust.
+[01:33:06.000 --> 01:33:10.000]   Even though their source, well technically their source were the same.
+[01:33:10.000 --> 01:33:13.000]   The disciples spent how many years with Jesus?
+[01:33:13.000 --> 01:33:15.000]   Three.
+[01:33:15.000 --> 01:33:22.000]   And for me, when I read Galatians, it's like three years he was in Arabia and then returned to Damascus.
+[01:33:22.000 --> 01:33:27.000]   I believe that he was being directly taught by Jesus during those three years.
+[01:33:27.000 --> 01:33:31.000]   So they're receiving the same revelation.
+[01:33:31.000 --> 01:33:39.000]   So Paul says, "We did not yield in subjection to these false brothers for even a moment,
+[01:33:39.000 --> 01:33:44.000]   so that the truth of the gospel would remain with you."
+[01:33:44.000 --> 01:33:47.000]   So here's the truth of the gospel.
+[01:33:47.000 --> 01:33:52.000]   "We are saved by grace alone, through faith alone, in Christ alone."
+[01:33:52.000 --> 01:33:53.000]   Amen?
+[01:33:53.000 --> 01:33:57.000]   "Praise God that this has been preserved and handed down to us.
+[01:33:57.000 --> 01:34:01.000]   We are saved by grace alone, through faith alone, in Christ alone.
+[01:34:01.000 --> 01:34:06.000]   Salvation is completely a gift given by God and received only through faith."
+[01:34:06.000 --> 01:34:10.000]   What did you guys do to be saved?
+[01:34:10.000 --> 01:34:14.000]   All you really did was you repented and you received it.
+[01:34:14.000 --> 01:34:16.000]   Right?
+[01:34:16.000 --> 01:34:17.000]   Here's John MacArthur.
+[01:34:17.000 --> 01:34:23.000]   I was listening to a sermon that he gave in Galatians 2, 1 to 10, and this is what he said.
+[01:34:23.000 --> 01:34:27.000]   "It is impossible to be a legalist and a Christian."
+[01:34:27.000 --> 01:34:32.000]   And you know, he's one of the pastors that always gets criticized for being legalistic.
+[01:34:32.000 --> 01:34:35.000]   So he says, "It's impossible to be a legalist and a Christian.
+[01:34:35.000 --> 01:34:43.000]   It is impossible, let me say it practically, to believe that you have to do something that contributes to your salvation
+[01:34:43.000 --> 01:34:45.000]   and at the same time be a Christian.
+[01:34:45.000 --> 01:34:51.000]   If you think your morality, your religiosity, your baptism contributes to your salvation
+[01:34:51.000 --> 01:34:55.000]   or is in any part necessary, you can't be a Christian.
+[01:34:55.000 --> 01:34:57.000]   You've fallen from grace.
+[01:34:57.000 --> 01:34:59.000]   This is about the gospel.
+[01:34:59.000 --> 01:35:03.000]   This is about the truth of the gospel remaining with you."
+[01:35:03.000 --> 01:35:08.000]   So if there is a church that you come across that says you have to be baptized into our church,
+[01:35:08.000 --> 01:35:15.000]   or you have to only read this, or you have to do this to genuinely be saved,
+[01:35:15.000 --> 01:35:23.000]   those are all adding works, and that's not the gospel.
+[01:35:23.000 --> 01:35:29.000]   So I want to bring us back to the main point of this entire section.
+[01:35:29.000 --> 01:35:35.000]   Paul is saying, "For I would have you know, brethren, that the gospel which was preached by me is not according to man.
+[01:35:35.000 --> 01:35:41.000]   For I neither received it from man nor was I taught it, but I received it through a revelation of Jesus Christ."
+[01:35:41.000 --> 01:35:47.000]   So this gospel has been given to Paul by revelation.
+[01:35:47.000 --> 01:35:51.000]   He didn't learn it from anybody. He didn't learn it from the apostles.
+[01:35:51.000 --> 01:35:56.000]   And we're charting through this, and we looked at what makes Paul's direct revelations credible.
+[01:35:56.000 --> 01:35:58.000]   That was the last week.
+[01:35:58.000 --> 01:36:03.000]   Did Paul really need no confirmation or affirmation from the other apostles?
+[01:36:03.000 --> 01:36:11.000]   At first glance, at Galatians, it might look like that, but he did get confirmation and affirmation from the other apostles.
+[01:36:11.000 --> 01:36:13.000]   Did you guys see that?
+[01:36:13.000 --> 01:36:17.000]   And then in a couple of weeks, we're actually going to look at something very interesting.
+[01:36:17.000 --> 01:36:20.000]   In what ways had Cephas stood condemned?
+[01:36:20.000 --> 01:36:22.000]   That's very strong language.
+[01:36:22.000 --> 01:36:25.000]   And so we'll get there in a few weeks.
+[01:36:25.000 --> 01:36:29.000]   So hopefully this is beneficial, just kind of putting the pieces together.
+[01:36:29.000 --> 01:36:37.000]   Paul, Peter, James all preached the exact same gospel because they were all inspired by the same Holy Spirit.
+[01:36:37.000 --> 01:36:41.000]   And their gospel is the exact same gospel that you and I have.
+[01:36:41.000 --> 01:36:50.000]   The Holy Spirit that is working in Peter, James, and John is the same Holy Spirit that you and I have access to. Amen?
+[01:36:50.000 --> 01:36:54.000]   That's the exact same Holy Spirit, the exact same gospel.
+[01:36:54.000 --> 01:36:59.000]   And we are not ashamed of the gospel for that's the power of God for salvation unto everyone who believes.
+[01:36:59.000 --> 01:37:05.000]   Whether you're Jew or Chinese or Korean or Hispanic or whatever it is.
+[01:37:05.000 --> 01:37:07.000]   Amen?
+[01:37:07.000 --> 01:37:12.000]   And it's not something that we earn by some kind of effort.
+[01:37:12.000 --> 01:37:14.000]   It's by grace alone.
+[01:37:14.000 --> 01:37:16.000]   Okay?
+[01:37:16.000 --> 01:37:18.000]   A couple of announcements.
+[01:37:18.000 --> 01:37:20.000]   We're cleaning on Saturday.
+[01:37:20.000 --> 01:37:24.000]   And the more hands we have, the more thorough the clean.
+[01:37:24.000 --> 01:37:26.000]   Hopefully.
+[01:37:26.000 --> 01:37:29.000]   So if you haven't signed up yet, please do sign up for this.
+[01:37:29.000 --> 01:37:32.000]   Or you can just walk in and show up.
+[01:37:32.000 --> 01:37:38.000]   We'll find you something to do or something to scrape or something to mop.
+[01:37:38.000 --> 01:37:42.000]   And there will be light refreshments and coffee provided.
+[01:37:42.000 --> 01:37:46.000]   Here's just a couple of things to note that are upcoming.
+[01:37:46.000 --> 01:37:48.000]   Next Sunday we have our members meeting.
+[01:37:48.000 --> 01:37:52.000]   So if you're a member, our members meeting is at 1:30.
+[01:37:52.000 --> 01:37:56.000]   And there will be a lunch prepared here.
+[01:37:56.000 --> 01:37:58.000]   It will be at a cost.
+[01:37:58.000 --> 01:38:00.000]   It's going to be a fundraiser for the youth group.
+[01:38:00.000 --> 01:38:03.000]   And the youth group has gotten pretty sizable.
+[01:38:03.000 --> 01:38:08.000]   And so they're raising funds for just, I think, for retreat and different things.
+[01:38:08.000 --> 01:38:10.000]   So stick around for that.
+[01:38:10.000 --> 01:38:17.000]   If you're a young adult, meaning you're not married, we have a BAM bowling night.
+[01:38:17.000 --> 01:38:19.000]   That's coming up in a couple of Wednesdays.
+[01:38:19.000 --> 01:38:23.000]   So we don't have Bible study that week because we have praise and prayer.
+[01:38:23.000 --> 01:38:27.000]   But you can't be like, "I went to bowling, so I'm not going to go to praise and prayer."
+[01:38:27.000 --> 01:38:28.000]   Don't do that.
+[01:38:28.000 --> 01:38:29.000]   All right?
+[01:38:29.000 --> 01:38:32.000]   But please do -- I think -- are the sign-ups still available?
+[01:38:32.000 --> 01:38:34.000]   Someone yell yes or no.
+[01:38:34.000 --> 01:38:36.000]   Yes, we can still sign up for this.
+[01:38:36.000 --> 01:38:40.000]   But we do have a limited space, I believe, because it's a number of lanes.
+[01:38:40.000 --> 01:38:42.000]   And there are going to be dinner groups assigned.
+[01:38:42.000 --> 01:38:47.000]   So if you haven't checked your BAM Facebook already, please go ahead and do that.
+[01:38:47.000 --> 01:38:54.000]   And Tuesday, the 31st, we have a Reformation night where all our kids come in.
+[01:38:54.000 --> 01:38:55.000]   There's trunks set up.
+[01:38:55.000 --> 01:38:56.000]   There's games set up.
+[01:38:56.000 --> 01:38:58.000]   We do need candy donations.
+[01:38:58.000 --> 01:39:03.000]   So if you guys have them, if you go to Costco and you're buying your toilet paper and paper towels,
+[01:39:03.000 --> 01:39:05.000]   and you're like, "Hey, there's a bag of candy.
+[01:39:05.000 --> 01:39:06.000]   Pick it up," okay?
+[01:39:06.000 --> 01:39:08.000]   Donate it to our kids.
+[01:39:08.000 --> 01:39:14.000]   And we also do need some help in the event that you're able.
+[01:39:14.000 --> 01:39:24.000]   Lastly, our regional Thanksgiving dinners, the participation sign-ups are up.
+[01:39:24.000 --> 01:39:30.000]   So this is kind of -- we mix all the affinity groups together, and we stuff them into different homes.
+[01:39:30.000 --> 01:39:35.000]   I think we have enough room for about, like, 750-ish participants.
+[01:39:35.000 --> 01:39:37.000]   So that's a lot of homes.
+[01:39:37.000 --> 01:39:42.000]   So if you guys want to meet -- I guarantee you're going to meet new people at the church,
+[01:39:42.000 --> 01:39:46.000]   but you want to do it in just a family setting, please do sign up.
+[01:39:46.000 --> 01:39:48.000]   We still are in need of some hosts.
+[01:39:48.000 --> 01:39:55.000]   So if you haven't done so already but you can host, please do go to the QR code and sign up for that.
+[01:39:55.000 --> 01:39:58.000]   So here are the prep questions for next time.
+[01:39:58.000 --> 01:40:06.000]   What does Paul mean when he says that the reputed apostles contributed nothing to him?
+[01:40:06.000 --> 01:40:09.000]   Judging from the context, is the tone negative or neutral?
+[01:40:09.000 --> 01:40:10.000]   I kind of gave it away.
+[01:40:10.000 --> 01:40:11.000]   Okay?
+[01:40:11.000 --> 01:40:15.000]   Three, what is an apostleship to the circumcised, to the uncircumcised?
+[01:40:15.000 --> 01:40:19.000]   That's going to be a question that comes up as you plow through the verses.
+[01:40:19.000 --> 01:40:22.000]   And then in context, what does it mean to remember the poor?
+[01:40:22.000 --> 01:40:27.000]   So for you guys who have a tender heart toward the poor, this might be a passage of interest.
+[01:40:27.000 --> 01:40:29.000]   Okay, so what does that mean?
+[01:40:29.000 --> 01:40:33.000]   And this is going to be on the Facebook, so you don't need to jot all this down now.
+[01:40:33.000 --> 01:40:37.000]   This is our final discussion questions for your small group time.
+[01:40:37.000 --> 01:40:41.000]   The first question is how would you define legalism?
+[01:40:41.000 --> 01:40:43.000]   What is it?
+[01:40:43.000 --> 01:40:47.000]   And that's actually a pretty important definition that you need to nail down, right?
+[01:40:47.000 --> 01:40:48.000]   What is that?
+[01:40:48.000 --> 01:40:53.000]   And how is legalism different from a personal pursuit of holy living?
+[01:40:53.000 --> 01:40:59.000]   Okay, because a lot of times you're trying to pursue holy living and you can get accused of becoming
+[01:40:59.000 --> 01:41:02.000]   or you can be accused of being a bigot or a legalist, right?
+[01:41:02.000 --> 01:41:03.000]   So what is that exactly?
+[01:41:03.000 --> 01:41:09.000]   Second question, and this is going to hit a little bit, it's going to jar you a little.
+[01:41:09.000 --> 01:41:13.000]   Are you pursuing personal holiness?
+[01:41:13.000 --> 01:41:15.000]   What drives or hinders you?
+[01:41:15.000 --> 01:41:20.000]   Okay, if you are pursuing, if you're like, "I've read four hours a day, I'm doing all this,"
+[01:41:20.000 --> 01:41:22.000]   but then what drives you?
+[01:41:22.000 --> 01:41:26.000]   Okay, or you're struggling, what's hindering you?
+[01:41:26.000 --> 01:41:29.000]   This is a good place for accountability to form.
+[01:41:29.000 --> 01:41:36.000]   Third, in what areas of your life are you susceptible to being led astray by a false gospel?
+[01:41:36.000 --> 01:41:38.000]   It could have something to do with your background.
+[01:41:38.000 --> 01:41:43.000]   It could have something to do with perhaps different relationships that you have.
+[01:41:43.000 --> 01:41:45.000]   What areas are you susceptible?
+[01:41:45.000 --> 01:41:50.000]   And then in what areas do you need to grow to guard yourself against false brethren?
+[01:41:50.000 --> 01:41:54.000]   Okay, and then subsequent prayer requests that come up from that.
+[01:41:54.000 --> 01:41:57.000]   All right, let me quickly pray and then I will dismiss.
+[01:41:57.000 --> 01:42:02.000]   Lord, I pray that you would cause all of us just to be humble before one another,
+[01:42:02.000 --> 01:42:06.000]   to be prayerful, and to grow genuinely in love and compassion
+[01:42:06.000 --> 01:42:09.000]   toward the brothers and sisters that are sitting with us.
+[01:42:09.000 --> 01:42:14.000]   And so I pray for your help, and Lord, we thank you, God, for your living and active word,
+[01:42:14.000 --> 01:42:19.000]   and I pray that your word would do its work in and through our lives.
+[01:42:19.000 --> 01:42:22.000]   I pray this in Jesus' name. Amen.
+[01:42:22.000 --> 01:42:24.040]   Thank you very much.
+

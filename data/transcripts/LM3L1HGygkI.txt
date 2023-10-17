@@ -1,0 +1,1173 @@
+
+[00:00:00.000 --> 00:00:02.420]   (soft music)
+[00:00:02.420 --> 00:00:04.840]   (soft music)
+[00:00:04.840 --> 00:00:07.260]   (soft music)
+[00:00:07.260 --> 00:00:09.680]   (soft music)
+[00:00:09.680 --> 00:00:12.100]   (soft music)
+[00:00:12.100 --> 00:00:17.000]   (soft music)
+[00:00:17.000 --> 00:00:22.220]   (soft music)
+[00:00:22.220 --> 00:00:26.640]   (soft music)
+[00:00:26.640 --> 00:00:31.080]   (soft music)
+[00:00:31.080 --> 00:00:35.380]   (soft music)
+[00:00:37.380 --> 00:00:39.800]   (soft music)
+[00:00:39.800 --> 00:00:42.220]   (soft music)
+[00:00:42.220 --> 00:00:47.520]   (soft music)
+[00:00:47.520 --> 00:00:52.220]   (soft music)
+[00:00:52.220 --> 00:00:57.220]   (soft music)
+[00:00:57.220 --> 00:01:04.220]   (soft music)
+[00:01:07.800 --> 00:01:10.220]   (soft music)
+[00:01:10.220 --> 00:01:15.220]   (soft music)
+[00:01:15.220 --> 00:01:21.220]   (soft music)
+[00:01:21.220 --> 00:01:27.220]   (soft music)
+[00:01:27.220 --> 00:01:33.220]   (soft music)
+[00:01:36.800 --> 00:01:39.220]   (soft music)
+[00:01:39.220 --> 00:01:44.220]   (soft music)
+[00:01:44.220 --> 00:01:50.220]   (soft music)
+[00:01:50.220 --> 00:01:56.220]   (soft music)
+[00:01:56.220 --> 00:02:02.220]   (soft music)
+[00:02:05.800 --> 00:02:08.220]   (soft music)
+[00:02:08.220 --> 00:02:13.220]   (soft music)
+[00:02:13.220 --> 00:02:20.220]   (soft music)
+[00:02:20.220 --> 00:02:26.220]   (soft music)
+[00:02:26.220 --> 00:02:32.220]   (soft music)
+[00:02:32.220 --> 00:02:34.640]   (soft music)
+[00:02:34.640 --> 00:02:44.640]   (soft music)
+[00:02:44.640 --> 00:02:53.640]   (soft music)
+[00:02:53.640 --> 00:02:56.060]   (soft music)
+[00:02:56.060 --> 00:03:08.060]   (soft music)
+[00:03:08.060 --> 00:03:16.060]   (soft music)
+[00:03:16.060 --> 00:03:18.480]   (soft music)
+[00:03:18.480 --> 00:03:28.480]   (soft music)
+[00:03:28.480 --> 00:03:38.480]   (soft music)
+[00:03:38.480 --> 00:03:40.900]   (soft music)
+[00:03:40.900 --> 00:03:52.900]   (soft music)
+[00:03:52.900 --> 00:04:04.900]   (soft music)
+[00:04:04.900 --> 00:04:07.320]   (soft music)
+[00:04:07.320 --> 00:04:17.320]   (soft music)
+[00:04:17.320 --> 00:04:27.320]   (soft music)
+[00:04:27.320 --> 00:04:29.740]   (soft music)
+[00:04:29.740 --> 00:04:39.740]   (soft music)
+[00:04:39.740 --> 00:04:49.740]   (soft music)
+[00:04:49.740 --> 00:04:52.160]   (soft music)
+[00:04:52.160 --> 00:05:02.160]   (soft music)
+[00:05:02.160 --> 00:05:12.160]   (soft music)
+[00:05:12.160 --> 00:05:14.580]   (soft music)
+[00:05:14.580 --> 00:05:34.580]   (soft music)
+[00:05:34.580 --> 00:05:37.000]   (soft music)
+[00:05:37.000 --> 00:05:47.000]   (soft music)
+[00:05:47.000 --> 00:05:57.000]   (soft music)
+[00:05:57.000 --> 00:05:59.420]   (soft music)
+[00:05:59.420 --> 00:06:09.420]   (soft music)
+[00:06:09.420 --> 00:06:19.420]   (soft music)
+[00:06:19.420 --> 00:06:21.840]   (soft music)
+[00:06:21.840 --> 00:06:31.840]   (soft music)
+[00:06:31.840 --> 00:06:41.840]   (soft music)
+[00:06:41.840 --> 00:06:44.260]   (soft music)
+[00:06:44.260 --> 00:06:54.260]   (soft music)
+[00:06:54.260 --> 00:07:04.260]   (soft music)
+[00:07:04.260 --> 00:07:06.680]   (soft music)
+[00:07:06.680 --> 00:07:20.680]   (soft music)
+[00:07:20.680 --> 00:07:23.100]   (soft music)
+[00:07:23.100 --> 00:07:33.100]   (soft music)
+[00:07:33.100 --> 00:07:43.100]   (soft music)
+[00:07:43.100 --> 00:07:45.520]   (soft music)
+[00:07:45.520 --> 00:08:05.520]   (soft music)
+[00:08:05.520 --> 00:08:07.940]   (soft music)
+[00:08:07.940 --> 00:08:27.940]   (soft music)
+[00:08:27.940 --> 00:08:30.360]   (soft music)
+[00:08:30.360 --> 00:08:50.360]   (soft music)
+[00:08:50.360 --> 00:08:52.780]   (soft music)
+[00:08:52.780 --> 00:09:05.780]   - Good morning, Church family.
+[00:09:05.780 --> 00:09:07.980]   We're gonna go ahead and begin our worship.
+[00:09:07.980 --> 00:09:11.780]   (soft music)
+[00:09:11.780 --> 00:09:14.200]   (soft music)
+[00:09:14.200 --> 00:09:34.700]   ♪ The mind of a God and Father ♪
+[00:09:34.700 --> 00:09:39.200]   ♪ Doesn't have its own will ♪
+[00:09:39.200 --> 00:09:42.200]   ♪ My heart is drawn to ♪
+[00:09:42.200 --> 00:09:44.700]   ♪ Self-desire to ♪
+[00:09:44.700 --> 00:09:47.200]   ♪ Help me see it through ♪
+[00:09:47.200 --> 00:09:49.200]   ♪ And find the path ♪
+[00:09:49.200 --> 00:09:51.700]   ♪ As Jesus walked ♪
+[00:09:51.700 --> 00:09:54.200]   ♪ Soon I shall walk ♪
+[00:09:54.200 --> 00:09:56.700]   ♪ How I am saved ♪
+[00:09:56.700 --> 00:09:59.200]   ♪ And changed in love ♪
+[00:09:59.200 --> 00:10:01.700]   ♪ It's time I saw ♪
+[00:10:01.700 --> 00:10:04.700]   ♪ The miracle somewhere ♪
+[00:10:04.700 --> 00:10:06.700]   ♪ Father not my will ♪
+[00:10:06.700 --> 00:10:09.200]   ♪ But God's will ♪
+[00:10:09.200 --> 00:10:11.700]   (soft music)
+[00:10:11.700 --> 00:10:19.700]   ♪ Come in the dark ♪
+[00:10:19.700 --> 00:10:22.200]   ♪ The obsessed ♪
+[00:10:22.200 --> 00:10:24.700]   ♪ I may never ♪
+[00:10:24.700 --> 00:10:26.700]   ♪ Fully know ♪
+[00:10:26.700 --> 00:10:29.700]   ♪ The fearful way ♪
+[00:10:29.700 --> 00:10:32.200]   ♪ True or false ♪
+[00:10:32.200 --> 00:10:35.200]   ♪ Let myself I know ♪
+[00:10:36.200 --> 00:10:38.700]   ♪ The wondrous way ♪
+[00:10:38.700 --> 00:10:41.200]   ♪ To bear the cross ♪
+[00:10:41.200 --> 00:10:43.200]   ♪ To bear my sin ♪
+[00:10:43.200 --> 00:10:46.200]   ♪ My wondrous love ♪
+[00:10:46.200 --> 00:10:48.700]   ♪ I hope I should ♪
+[00:10:48.700 --> 00:10:50.700]   ♪ Before my Savior ♪
+[00:10:50.700 --> 00:10:53.700]   ♪ And Father not my will ♪
+[00:10:53.700 --> 00:10:56.200]   ♪ But God's will ♪
+[00:10:56.200 --> 00:10:58.700]   (soft music)
+[00:11:02.700 --> 00:11:04.200]   ♪ I'm lost ♪
+[00:11:04.200 --> 00:11:06.700]   ♪ I am lost ♪
+[00:11:06.700 --> 00:11:09.700]   ♪ I am found ♪
+[00:11:09.700 --> 00:11:11.700]   ♪ I'm found ♪
+[00:11:11.700 --> 00:11:14.200]   ♪ I'm here and now ♪
+[00:11:14.200 --> 00:11:16.700]   ♪ So I will trust ♪
+[00:11:16.700 --> 00:11:19.200]   ♪ I will find ♪
+[00:11:19.200 --> 00:11:22.200]   ♪ I will rest in one place ♪
+[00:11:22.200 --> 00:11:24.200]   ♪ I will rest ♪
+[00:11:24.200 --> 00:11:26.700]   ♪ As Jesus rose ♪
+[00:11:26.700 --> 00:11:29.200]   ♪ So I will rise ♪
+[00:11:29.200 --> 00:11:32.200]   ♪ In ransom glory ♪
+[00:11:32.200 --> 00:11:34.200]   ♪ For the glory ♪
+[00:11:34.200 --> 00:11:37.200]   ♪ My holy soul ♪
+[00:11:37.200 --> 00:11:39.700]   ♪ All your sins I say ♪
+[00:11:39.700 --> 00:11:41.700]   ♪ Father not my will ♪
+[00:11:41.700 --> 00:11:44.200]   ♪ But your will ♪
+[00:11:44.200 --> 00:11:46.700]   (soft music)
+[00:12:00.200 --> 00:12:03.200]   ♪ As we go forth ♪
+[00:12:03.200 --> 00:12:06.200]   ♪ God and Father ♪
+[00:12:06.200 --> 00:12:08.700]   ♪ Lead us daily ♪
+[00:12:08.700 --> 00:12:10.700]   ♪ In the fight ♪
+[00:12:10.700 --> 00:12:13.200]   ♪ That all the world ♪
+[00:12:13.200 --> 00:12:16.200]   ♪ Might see your glory ♪
+[00:12:16.200 --> 00:12:20.200]   ♪ And your name be lifted high ♪
+[00:12:20.200 --> 00:12:23.200]   ♪ And in this day ♪
+[00:12:23.200 --> 00:12:25.700]   ♪ We overcome ♪
+[00:12:25.700 --> 00:12:28.700]   ♪ For you shall see us ♪
+[00:12:28.700 --> 00:12:31.700]   ♪ We are strengthly one ♪
+[00:12:31.700 --> 00:12:34.200]   ♪ Now that your church ♪
+[00:12:34.200 --> 00:12:37.200]   ♪ We lift our voice and pray ♪
+[00:12:37.200 --> 00:12:39.700]   ♪ Father not my will ♪
+[00:12:39.700 --> 00:12:42.200]   ♪ But your will ♪
+[00:12:42.200 --> 00:12:44.700]   ♪ In this day ♪
+[00:12:44.700 --> 00:12:46.700]   ♪ We overcome ♪
+[00:12:46.700 --> 00:12:49.700]   ♪ For you shall see us ♪
+[00:12:49.700 --> 00:12:51.700]   ♪ We are strengthly one ♪
+[00:12:51.700 --> 00:12:54.700]   ♪ Now that your church ♪
+[00:12:54.700 --> 00:12:57.200]   ♪ We lift our voice and pray ♪
+[00:12:57.200 --> 00:12:59.200]   ♪ Father not my will ♪
+[00:12:59.200 --> 00:13:02.200]   ♪ But your will ♪
+[00:13:02.200 --> 00:13:04.200]   ♪ Father not my will ♪
+[00:13:04.200 --> 00:13:07.200]   ♪ But your will ♪
+[00:13:07.200 --> 00:13:09.200]   ♪ Father not my will ♪
+[00:13:09.200 --> 00:13:12.200]   ♪ But your will ♪
+[00:13:12.200 --> 00:13:14.700]   (soft music)
+[00:13:14.700 --> 00:13:23.700]   - All right, good morning.
+[00:13:23.700 --> 00:13:25.200]   Welcome to Breen Community Church.
+[00:13:25.200 --> 00:13:27.200]   Let me get started with a quick announcement.
+[00:13:27.200 --> 00:13:31.200]   First of all, our cleaning day is coming up this Saturday,
+[00:13:31.200 --> 00:13:34.200]   and we need as many people to sign up as possible.
+[00:13:34.200 --> 00:13:37.200]   It's been a while, so there's a, again,
+[00:13:37.200 --> 00:13:38.700]   we included that building and this building
+[00:13:38.700 --> 00:13:41.200]   and the parking area and all this stuff.
+[00:13:41.200 --> 00:13:42.700]   If you're able to come, again,
+[00:13:42.700 --> 00:13:46.200]   if you come here at 9 a.m. this coming Saturday,
+[00:13:46.200 --> 00:13:48.200]   the instructions will be given and we'll spread out,
+[00:13:48.200 --> 00:13:51.200]   and hopefully we can cover it all in a few hours, okay?
+[00:13:51.200 --> 00:13:52.200]   So please sign up for that
+[00:13:52.200 --> 00:13:53.700]   so we'll know that you're coming.
+[00:13:53.700 --> 00:13:56.200]   And then praise and prayer, not this coming Friday,
+[00:13:56.200 --> 00:13:57.700]   but the Friday after that.
+[00:13:57.700 --> 00:14:00.200]   And then, again, Jubilee Lunch Fellowship.
+[00:14:00.200 --> 00:14:02.700]   Those of you who are 50 and over,
+[00:14:02.700 --> 00:14:04.700]   or one of your spouses are 50 and over,
+[00:14:04.700 --> 00:14:07.700]   and then the other spouse is welcome to come, okay?
+[00:14:07.700 --> 00:14:09.200]   And that is gonna be $10,
+[00:14:09.200 --> 00:14:12.200]   and Elder Phillip is going to be overseeing that.
+[00:14:12.200 --> 00:14:14.700]   And so please let him know or go online and you can sign up,
+[00:14:14.700 --> 00:14:18.700]   and that will be taking place on April 2nd, okay?
+[00:14:18.700 --> 00:14:20.200]   All right, let me pray for us.
+[00:14:20.200 --> 00:14:23.200]   And again, if you are visiting us and you have a,
+[00:14:23.200 --> 00:14:25.700]   or even if you're not visiting, you have a physical check,
+[00:14:25.700 --> 00:14:27.700]   again, we have a box over there
+[00:14:27.700 --> 00:14:29.700]   that you can drop off your offering, all right?
+[00:14:29.700 --> 00:14:33.700]   Let me pray for us.
+[00:14:33.700 --> 00:14:37.700]   Heavenly Father, we thank you so much for our life,
+[00:14:37.700 --> 00:14:39.700]   our salvation,
+[00:14:39.700 --> 00:14:44.200]   your Holy Spirit that causes us to continue to persevere.
+[00:14:44.200 --> 00:14:46.200]   I pray that you would give us a greater vision
+[00:14:46.200 --> 00:14:48.700]   beyond what's temporary,
+[00:14:48.700 --> 00:14:51.700]   that we would not be constantly entangled, Lord God,
+[00:14:51.700 --> 00:14:55.200]   with things that ultimately won't matter.
+[00:14:55.200 --> 00:14:56.700]   Help us to have an eternal perspective
+[00:14:56.700 --> 00:14:58.700]   in all that we do and pursue,
+[00:14:58.700 --> 00:15:02.700]   and that this morning as we sing, give, and worship,
+[00:15:02.700 --> 00:15:05.700]   that it would continually instill in us
+[00:15:05.700 --> 00:15:08.700]   a vision, Father, for eternity, not temporary.
+[00:15:08.700 --> 00:15:11.700]   May the offering we give be multiplied for your use,
+[00:15:11.700 --> 00:15:13.200]   30, 60, 100-fold.
+[00:15:13.200 --> 00:15:16.200]   In Jesus' name we pray, amen.
+[00:15:16.200 --> 00:15:19.200]   (soft piano music)
+[00:15:20.200 --> 00:15:23.200]   (soft piano music)
+[00:15:23.200 --> 00:15:26.200]   (soft piano music)
+[00:15:27.200 --> 00:15:30.200]   (soft piano music)
+[00:15:30.200 --> 00:15:35.200]   (soft piano music)
+[00:15:35.200 --> 00:15:40.200]   (soft piano music)
+[00:15:40.200 --> 00:15:45.200]   (soft piano music)
+[00:15:45.200 --> 00:15:51.200]   (soft piano music)
+[00:15:54.200 --> 00:15:57.200]   (soft piano music)
+[00:15:57.200 --> 00:16:07.200]   - Good morning, church family.
+[00:16:07.200 --> 00:16:08.200]   Happy Lord's Day.
+[00:16:08.200 --> 00:16:11.200]   Let's all rise together as we come before our Lord.
+[00:16:11.200 --> 00:16:14.200]   (soft piano music)
+[00:16:14.200 --> 00:16:21.200]   ♪ Praise God from whom all blessings flow ♪
+[00:16:23.200 --> 00:16:28.200]   ♪ Praise Him all creatures here below ♪
+[00:16:28.200 --> 00:16:35.200]   ♪ Praise Him above ye heavenly hosts ♪
+[00:16:35.200 --> 00:16:42.200]   ♪ Praise Father, Son, and Holy Ghost ♪
+[00:16:42.200 --> 00:16:46.700]   (soft music)
+[00:16:52.200 --> 00:16:54.200]   ♪ Let earth ♪
+[00:16:54.200 --> 00:16:59.200]   ♪ Let earth and heaven's saints proclaim ♪
+[00:16:59.200 --> 00:17:06.200]   ♪ The power and might of His great name ♪
+[00:17:06.200 --> 00:17:13.200]   ♪ Let us exalt on bended knee ♪
+[00:17:13.200 --> 00:17:20.200]   ♪ Praise God the Holy Trinity ♪
+[00:17:21.200 --> 00:17:24.200]   ♪ Praise ♪
+[00:17:24.200 --> 00:17:26.200]   ♪ Sing now praise God ♪
+[00:17:26.200 --> 00:17:31.200]   ♪ Praise God, praise God ♪
+[00:17:31.200 --> 00:17:37.200]   ♪ Praise God who saved my soul ♪
+[00:17:37.200 --> 00:17:42.200]   ♪ Praise God, praise God ♪
+[00:17:42.200 --> 00:17:48.200]   ♪ Praise God from whom all blessings flow ♪
+[00:17:48.200 --> 00:17:50.700]   (soft music)
+[00:17:50.700 --> 00:17:57.200]   - Praise to the King.
+[00:17:57.200 --> 00:18:02.200]   ♪ Praise to the King, His throne transcends ♪
+[00:18:02.200 --> 00:18:09.200]   ♪ His crown and kingdom never end ♪
+[00:18:09.200 --> 00:18:16.200]   ♪ Now and throughout eternity ♪
+[00:18:17.200 --> 00:18:22.200]   ♪ I'll praise the one who died for me ♪
+[00:18:22.200 --> 00:18:30.200]   ♪ Praise God, praise God ♪
+[00:18:30.200 --> 00:18:36.200]   ♪ Praise God who saved my soul ♪
+[00:18:36.200 --> 00:18:42.200]   ♪ Praise God, praise God ♪
+[00:18:43.200 --> 00:18:46.200]   ♪ Praise God from whom all blessings flow ♪
+[00:18:46.200 --> 00:18:48.200]   - One more time, praise God.
+[00:18:48.200 --> 00:18:53.200]   ♪ Praise God, praise God ♪
+[00:18:53.200 --> 00:18:59.200]   ♪ Praise God who saved my soul ♪
+[00:18:59.200 --> 00:19:05.200]   ♪ Praise God, praise God ♪
+[00:19:05.200 --> 00:19:10.200]   ♪ Praise God from whom all blessings flow ♪
+[00:19:10.200 --> 00:19:12.700]   (soft music)
+[00:19:12.700 --> 00:19:17.200]   - One more time, praise God from whom all.
+[00:19:17.200 --> 00:19:24.200]   ♪ Praise God from whom all blessings flow ♪
+[00:19:24.200 --> 00:19:31.200]   ♪ Praise Him all creatures here below ♪
+[00:19:31.200 --> 00:19:39.200]   ♪ Praise Him above ye heaven behold ♪
+[00:19:40.200 --> 00:19:44.700]   ♪ Praise Father, Son and Holy Ghost ♪
+[00:19:44.700 --> 00:19:53.700]   (soft music)
+[00:19:54.700 --> 00:19:57.200]   (soft music)
+[00:19:57.200 --> 00:20:14.700]   ♪ Oh Lord, my rock and my redeemer ♪
+[00:20:14.700 --> 00:20:21.700]   ♪ Greatest treasure of my longing soul ♪
+[00:20:22.700 --> 00:20:27.700]   ♪ My God, like you there is no other ♪
+[00:20:27.700 --> 00:20:34.700]   ♪ True delight is found in you alone ♪
+[00:20:34.700 --> 00:20:42.700]   ♪ Your grace allows a deep to fathom ♪
+[00:20:42.700 --> 00:20:49.700]   ♪ Your love exceeds the heavens to the moon ♪
+[00:20:49.700 --> 00:20:54.700]   ♪ Your grace the heavens reach ♪
+[00:20:54.700 --> 00:20:59.700]   ♪ Your truth a fountain perfect wisdom ♪
+[00:20:59.700 --> 00:21:05.700]   ♪ My highest love in my unending need ♪
+[00:21:05.700 --> 00:21:09.200]   (soft music)
+[00:21:10.200 --> 00:21:12.700]   (soft music)
+[00:21:12.700 --> 00:21:23.200]   ♪ Oh Lord, my rock and my redeemer ♪
+[00:21:23.200 --> 00:21:32.200]   ♪ Strong defender of my weary soul ♪
+[00:21:35.200 --> 00:21:40.200]   ♪ My sword to fight the cruel deceiver ♪
+[00:21:40.200 --> 00:21:47.200]   ♪ And my shield against his hateful dogs ♪
+[00:21:47.200 --> 00:21:55.200]   ♪ My song when enemies surround me ♪
+[00:21:55.200 --> 00:22:02.200]   ♪ My hope when times of sorrow rise ♪
+[00:22:03.200 --> 00:22:08.200]   ♪ My joy when trials are a bounty ♪
+[00:22:08.200 --> 00:22:15.200]   ♪ Your faithfulness a refuge in the night ♪
+[00:22:15.200 --> 00:22:19.700]   (soft music)
+[00:22:28.200 --> 00:22:30.700]   (soft music)
+[00:22:30.700 --> 00:22:37.200]   ♪ Oh Lord, my rock and my redeemer ♪
+[00:22:37.200 --> 00:22:44.200]   ♪ Gracious savior of my ruined heart ♪
+[00:22:44.200 --> 00:22:52.200]   ♪ My guilt and cross laid on your shoulders ♪
+[00:22:54.200 --> 00:22:59.200]   ♪ In my place you suffered, bled and died ♪
+[00:22:59.200 --> 00:23:02.200]   ♪ You rose Lord ♪
+[00:23:02.200 --> 00:23:07.200]   ♪ You rose the grave of death and hunger ♪
+[00:23:07.200 --> 00:23:14.200]   ♪ You rose my life to sin and shame ♪
+[00:23:14.200 --> 00:23:17.200]   ♪ I'm telling you this ♪
+[00:23:17.200 --> 00:23:22.200]   ♪ You rose the grave of death and hunger ♪
+[00:23:23.200 --> 00:23:28.200]   ♪ You rose my life to sin and shame ♪
+[00:23:28.200 --> 00:23:36.200]   ♪ Oh Lord, my rock and my redeemer ♪
+[00:23:36.200 --> 00:23:43.200]   ♪ May all my days bring glory to your name ♪
+[00:23:43.200 --> 00:23:51.200]   ♪ May all my days bring glory to your name ♪
+[00:23:52.200 --> 00:23:54.700]   (soft music)
+[00:23:54.700 --> 00:24:08.200]   - All right, if you can turn your Bibles to Luke chapter four
+[00:24:08.200 --> 00:24:13.200]   and I'll be reading from verse 38 to 44.
+[00:24:13.200 --> 00:24:20.200]   Luke chapter four, verse 38 to 44.
+[00:24:20.200 --> 00:24:22.200]   If I read this text, I have a quick question.
+[00:24:22.200 --> 00:24:25.200]   How many of you had some issues
+[00:24:25.200 --> 00:24:28.200]   finding parking this morning coming to this service?
+[00:24:28.200 --> 00:24:32.200]   Okay, I guess those people
+[00:24:32.200 --> 00:24:34.200]   having a hard time finding parking aren't here.
+[00:24:34.200 --> 00:24:36.200]   (audience laughing)
+[00:24:36.200 --> 00:24:37.200]   Okay, all right.
+[00:24:37.200 --> 00:24:40.200]   Yeah, we're, again, starting to run out of parking
+[00:24:40.200 --> 00:24:43.200]   so we kind of are keeping an eye on what's going on.
+[00:24:43.200 --> 00:24:46.200]   We do have other parking areas that have opened to us
+[00:24:46.200 --> 00:24:47.200]   but it won't open till May.
+[00:24:47.200 --> 00:24:50.200]   So we'll let you know when that happens.
+[00:24:50.200 --> 00:24:52.200]   Okay, Luke chapter four, verse 38 to 44.
+[00:24:52.200 --> 00:24:56.200]   Then he got up and left the synagogue
+[00:24:56.200 --> 00:24:57.200]   and entered Simon's home.
+[00:24:57.200 --> 00:25:00.200]   Now Simon's mother-in-law was suffering from a high fever
+[00:25:00.200 --> 00:25:02.200]   and they asked him to help her.
+[00:25:02.200 --> 00:25:04.200]   And standing over her, he rebuked the fever
+[00:25:04.200 --> 00:25:06.200]   and it left her and she immediately got up
+[00:25:06.200 --> 00:25:08.200]   and waited on them.
+[00:25:08.200 --> 00:25:10.200]   While the sun was setting, all those who had any
+[00:25:10.200 --> 00:25:13.200]   who were sick with various diseases brought them to him
+[00:25:13.200 --> 00:25:15.200]   and laying his hands on each one of them,
+[00:25:15.200 --> 00:25:16.200]   he was healing them.
+[00:25:16.200 --> 00:25:18.200]   Demons also were coming out of many,
+[00:25:18.200 --> 00:25:20.200]   shouting, "You are the Son of God,"
+[00:25:20.200 --> 00:25:22.200]   but rebuking them, he would not allow them to speak
+[00:25:22.200 --> 00:25:25.200]   because they knew him to be the Christ.
+[00:25:25.200 --> 00:25:29.200]   When they came, Jesus left and went to a secluded place
+[00:25:29.200 --> 00:25:31.200]   and the crowds were searching for him
+[00:25:31.200 --> 00:25:33.200]   and came to him and tried to keep him
+[00:25:33.200 --> 00:25:35.200]   from going away from them.
+[00:25:35.200 --> 00:25:37.200]   But he said to them, "I must preach the kingdom of God
+[00:25:37.200 --> 00:25:41.200]   "to the other cities also, for I was sent for this purpose."
+[00:25:41.200 --> 00:25:44.200]   So he kept on preaching in the synagogues of Judea.
+[00:25:44.200 --> 00:25:45.200]   Let's pray.
+[00:25:46.200 --> 00:25:51.200]   Heavenly Father, we pray that your word would open up to us
+[00:25:51.200 --> 00:25:56.200]   not only your desire, but even our own hearts.
+[00:25:56.200 --> 00:26:00.200]   We pray, Father God, that you would anoint this time
+[00:26:00.200 --> 00:26:03.200]   and that you would illuminate that we may understand
+[00:26:03.200 --> 00:26:06.200]   and to apply and to follow.
+[00:26:06.200 --> 00:26:09.200]   Bless this time, Lord, in Jesus' name we pray, amen.
+[00:26:09.200 --> 00:26:14.200]   If I can put up some pictures of India to start
+[00:26:14.200 --> 00:26:16.200]   and the reason why I'm doing this is because
+[00:26:16.200 --> 00:26:19.200]   the text that we're looking at kind of reminded me
+[00:26:19.200 --> 00:26:22.200]   of our ministry out in India.
+[00:26:22.200 --> 00:26:25.200]   And I know it's been over a month since we came back.
+[00:26:25.200 --> 00:26:28.200]   I think it's been over a month, something like that.
+[00:26:28.200 --> 00:26:31.200]   But again, I'm not here to report to you what happened
+[00:26:31.200 --> 00:26:32.200]   because we've already done that,
+[00:26:32.200 --> 00:26:34.200]   but I kind of wanted to show you what it's like.
+[00:26:34.200 --> 00:26:36.200]   This is our medical team.
+[00:26:36.200 --> 00:26:39.200]   Usually we have wound care, but because we had
+[00:26:39.200 --> 00:26:43.200]   more medical professionals this time than the previous years
+[00:26:43.200 --> 00:26:44.200]   and we were able to get medicine.
+[00:26:44.200 --> 00:26:48.200]   And so this is what it looked like in the villages
+[00:26:48.200 --> 00:26:50.200]   and you can see how they are crammed
+[00:26:50.200 --> 00:26:52.200]   in that tiny little space.
+[00:26:52.200 --> 00:26:54.200]   This year is a little bit cooler than the other years
+[00:26:54.200 --> 00:26:56.200]   and typically it's about 95 to 98 degrees
+[00:26:56.200 --> 00:26:59.200]   and we're outside inside and it's pretty stuffy.
+[00:26:59.200 --> 00:27:02.200]   But from the moment we start until it's time for us
+[00:27:02.200 --> 00:27:04.200]   to go home, they're bombarded like this.
+[00:27:04.200 --> 00:27:07.200]   And then next slide, you can see Elder James
+[00:27:07.200 --> 00:27:09.200]   trying to fight back the crowd.
+[00:27:09.200 --> 00:27:13.200]   These ladies, even though they look innocent,
+[00:27:13.200 --> 00:27:16.200]   they can become pretty aggressive.
+[00:27:16.200 --> 00:27:18.200]   And so he's fighting off the crowd
+[00:27:18.200 --> 00:27:21.200]   and this is what it looks like from the moment we begin
+[00:27:21.200 --> 00:27:23.200]   and the crowd actually grows throughout the day.
+[00:27:23.200 --> 00:27:25.200]   So at the end of the day, it's not like we've seen
+[00:27:25.200 --> 00:27:26.200]   all of them and then they go.
+[00:27:26.200 --> 00:27:28.200]   It's like this until we have to pack up
+[00:27:28.200 --> 00:27:30.200]   and we have to tell them we can't stay here longer
+[00:27:30.200 --> 00:27:33.200]   because we can't stay there beyond the sun going down
+[00:27:33.200 --> 00:27:36.200]   and it takes a while for us to go back to the hotel.
+[00:27:36.200 --> 00:27:39.200]   So at the end of the day, it still looks like this
+[00:27:39.200 --> 00:27:42.200]   when we leave and then if you can look at the next picture,
+[00:27:42.200 --> 00:27:43.200]   this is Garrett.
+[00:27:43.200 --> 00:27:45.200]   He's a little bit more calm because I think
+[00:27:45.200 --> 00:27:48.200]   they're intimidated by his demeanor.
+[00:27:48.200 --> 00:27:50.200]   (audience laughing)
+[00:27:50.200 --> 00:27:52.200]   You notice the difference?
+[00:27:52.200 --> 00:27:54.200]   They're not pushing against him.
+[00:27:54.200 --> 00:27:57.200]   They're just standing there quietly, orderly.
+[00:27:57.200 --> 00:27:59.200]   (audience laughing)
+[00:27:59.200 --> 00:28:02.200]   Well, I wanted to show you these pictures because
+[00:28:02.200 --> 00:28:04.200]   imagine if we're in remote villages
+[00:28:04.200 --> 00:28:06.200]   where most of these people don't have regular access
+[00:28:06.200 --> 00:28:07.200]   to medicine.
+[00:28:07.200 --> 00:28:09.200]   So when they know that the doctor's in there
+[00:28:09.200 --> 00:28:11.200]   and foreigners haven't been in these places
+[00:28:11.200 --> 00:28:14.200]   for like 30, 40 years and so it's a very strange sight
+[00:28:14.200 --> 00:28:16.200]   to see foreigners there, especially doctors
+[00:28:16.200 --> 00:28:18.200]   and people who are there to help out.
+[00:28:18.200 --> 00:28:22.200]   And then so before, we would show up to the village
+[00:28:22.200 --> 00:28:24.200]   and there would be hundreds of people waiting for us
+[00:28:24.200 --> 00:28:26.200]   because the pastors would go.
+[00:28:26.200 --> 00:28:28.200]   They would play drums and gather attention
+[00:28:28.200 --> 00:28:30.200]   and so these foreign doctors are coming to help
+[00:28:30.200 --> 00:28:32.200]   and so there'd be a large crowd waiting for us
+[00:28:32.200 --> 00:28:35.200]   and we'd be able to preach the gospel to them
+[00:28:35.200 --> 00:28:37.200]   and then we would begin the work.
+[00:28:37.200 --> 00:28:39.200]   They can't do that anymore for security reasons
+[00:28:39.200 --> 00:28:41.200]   so now they kind of slip in quietly
+[00:28:41.200 --> 00:28:45.200]   and we work initially with local Christians
+[00:28:45.200 --> 00:28:47.200]   who are there and then the word begins to spread
+[00:28:47.200 --> 00:28:49.200]   throughout the day.
+[00:28:49.200 --> 00:28:51.200]   So by about two o'clock, three o'clock,
+[00:28:51.200 --> 00:28:54.200]   the word has slowly spread and then they begin to crowd
+[00:28:54.200 --> 00:28:59.200]   and so that large crowd, it grows throughout the day.
+[00:28:59.200 --> 00:29:01.200]   And so by the time we're finished,
+[00:29:01.200 --> 00:29:04.200]   I mean we're exhausted, especially this trip.
+[00:29:04.200 --> 00:29:06.200]   We go back to the hotel, we get there around six
+[00:29:06.200 --> 00:29:08.200]   and then take about an hour, hour and a half to eat
+[00:29:08.200 --> 00:29:10.200]   and about eight o'clock we're done
+[00:29:10.200 --> 00:29:13.200]   and prepare for the next day but just crash,
+[00:29:13.200 --> 00:29:15.200]   start over next day, wake up at six,
+[00:29:15.200 --> 00:29:17.200]   six-thirty, do quiet time, morning.
+[00:29:17.200 --> 00:29:20.200]   And so this is what it's like throughout the whole day.
+[00:29:20.200 --> 00:29:23.200]   When we first got into India, the very first year,
+[00:29:23.200 --> 00:29:26.200]   we didn't know what to expect and so we had one eye doctor,
+[00:29:26.200 --> 00:29:28.200]   Karen Aquinda, who came with us
+[00:29:28.200 --> 00:29:30.200]   and so she did all the work.
+[00:29:30.200 --> 00:29:32.200]   Those of you who've been with us know what it's like.
+[00:29:32.200 --> 00:29:36.200]   By herself, you know, and she had to make this dark room
+[00:29:36.200 --> 00:29:40.200]   under heavy cloth, black cloth, and she's in there
+[00:29:40.200 --> 00:29:43.200]   looking at all these patients by herself.
+[00:29:43.200 --> 00:29:45.200]   So by the end of the day, I mean she was worn out
+[00:29:45.200 --> 00:29:47.200]   and we did this five days.
+[00:29:47.200 --> 00:29:49.200]   And then so at the end of the fifth day,
+[00:29:49.200 --> 00:29:51.200]   we'd be done with the camp and then we would pack our bags
+[00:29:51.200 --> 00:29:54.200]   and head out to the airport, which would take about
+[00:29:54.200 --> 00:29:57.200]   five to six hours, probably about seven
+[00:29:57.200 --> 00:29:59.200]   because we stopped for breaks.
+[00:29:59.200 --> 00:30:01.200]   And then we get to the airport, wait a couple hours,
+[00:30:01.200 --> 00:30:05.200]   get on the plane, and about 25, 30 hours of travel time
+[00:30:05.200 --> 00:30:06.200]   and then we get home.
+[00:30:06.200 --> 00:30:09.200]   So we're knocked out by the time we come.
+[00:30:09.200 --> 00:30:13.200]   And it's physically--it's a grueling trip.
+[00:30:13.200 --> 00:30:15.200]   After about three, four years, it was just too much.
+[00:30:15.200 --> 00:30:19.200]   So we decided to cut the day Friday
+[00:30:19.200 --> 00:30:22.200]   and so we only go Monday through Thursday.
+[00:30:22.200 --> 00:30:24.200]   But either way, it's a grueling trip,
+[00:30:24.200 --> 00:30:27.200]   so by the time we come back, they're knocked out for a period.
+[00:30:27.200 --> 00:30:29.200]   The reason why I'm sharing with you all of this
+[00:30:29.200 --> 00:30:33.200]   is because as Jesus' ministry of his healing
+[00:30:33.200 --> 00:30:38.200]   is beginning to spread, people are crowding him.
+[00:30:38.200 --> 00:30:40.200]   And so in Luke 4:40, it says,
+[00:30:40.200 --> 00:30:44.200]   "While the sun was setting, all those who had any who were sick."
+[00:30:44.200 --> 00:30:46.200]   So can you imagine?
+[00:30:46.200 --> 00:30:49.200]   These are people who don't have access to medicine, right?
+[00:30:49.200 --> 00:30:54.200]   And Jesus is casting out demons and people are being healed.
+[00:30:54.200 --> 00:30:58.200]   It doesn't say here, but people who had high fever and disease
+[00:30:58.200 --> 00:31:01.200]   and eventually like the blind, they're opening their eyes.
+[00:31:01.200 --> 00:31:05.200]   So imagine how desperate they were the more they hear about this
+[00:31:05.200 --> 00:31:07.200]   and how they were crowding them.
+[00:31:07.200 --> 00:31:10.200]   And the reason why Luke mentions that while the sun was setting,
+[00:31:10.200 --> 00:31:13.200]   while they were waiting for the sun to set,
+[00:31:13.200 --> 00:31:16.200]   is because it was the Sabbath.
+[00:31:16.200 --> 00:31:19.200]   So on the Sabbath--and again, there's no regulations
+[00:31:19.200 --> 00:31:21.200]   that you can't get healed on the Sabbath,
+[00:31:21.200 --> 00:31:24.200]   but that's basically what the tradition was.
+[00:31:24.200 --> 00:31:26.200]   The Pharisees and the scribes taught,
+[00:31:26.200 --> 00:31:28.200]   "Sabbath, you can't move around, you can't do this."
+[00:31:28.200 --> 00:31:31.200]   And so steeped in their tradition,
+[00:31:31.200 --> 00:31:33.200]   they knew that Jesus had the power to heal,
+[00:31:33.200 --> 00:31:36.200]   but they're waiting to be able to get to him.
+[00:31:36.200 --> 00:31:40.200]   So when they came to him, it wasn't this gradual growing of this crowd.
+[00:31:40.200 --> 00:31:42.200]   They must have bombarded him all at once.
+[00:31:42.200 --> 00:31:47.200]   So my guess is the picture that we saw, right,
+[00:31:47.200 --> 00:31:52.200]   was probably a tamed picture compared to what was going on in Jesus' life.
+[00:31:52.200 --> 00:31:55.200]   And this is in the beginning of Jesus' ministry.
+[00:31:55.200 --> 00:31:58.200]   And what we saw Elder James and Garrett was doing
+[00:31:58.200 --> 00:32:02.200]   was probably what the disciples--12 disciples were doing constantly.
+[00:32:02.200 --> 00:32:06.200]   They were guards, right, trying to keep people away. Remember that?
+[00:32:06.200 --> 00:32:09.200]   Like everywhere Jesus went, the disciples would have to kind of push people away,
+[00:32:09.200 --> 00:32:11.200]   "Don't come here," right?
+[00:32:11.200 --> 00:32:14.200]   And that's basically what it was. So imagine that crowd growing.
+[00:32:14.200 --> 00:32:19.200]   So by the time Jesus feeds the 5,000,
+[00:32:19.200 --> 00:32:21.200]   Jesus wasn't going around looking for people,
+[00:32:21.200 --> 00:32:24.200]   "Hey, we're going to have this conference over here and advertise.
+[00:32:24.200 --> 00:32:26.200]   You guys go and tell people."
+[00:32:26.200 --> 00:32:29.200]   These people were following him everywhere he went.
+[00:32:29.200 --> 00:32:33.200]   So when it says 5,000, 5,000 men, most people will believe,
+[00:32:33.200 --> 00:32:37.200]   including women and children, there's 20,000-plus people
+[00:32:37.200 --> 00:32:41.200]   who just couldn't leave him alone, understandably, right?
+[00:32:41.200 --> 00:32:43.200]   He's the answer to their illness.
+[00:32:43.200 --> 00:32:48.200]   He's the answer to people who are crippled, couldn't see, leprosy.
+[00:32:48.200 --> 00:32:52.200]   So you can imagine how busy his work was.
+[00:32:52.200 --> 00:32:55.200]   So that's why it says in verse 42, "When day came,
+[00:32:55.200 --> 00:32:58.200]   Jesus left and went to a secluded place." Day came.
+[00:32:58.200 --> 00:33:02.200]   They mean from sundown until the sun came back up,
+[00:33:02.200 --> 00:33:05.200]   Jesus was healing them all night because they wouldn't leave him alone.
+[00:33:05.200 --> 00:33:07.200]   That's how big the crowd was.
+[00:33:07.200 --> 00:33:09.200]   He was laying hands and healing all of them.
+[00:33:09.200 --> 00:33:11.200]   He was so exhausted.
+[00:33:11.200 --> 00:33:13.200]   It says, "When day came, he tried to break away,
+[00:33:13.200 --> 00:33:16.200]   and when they saw that he broke away, they chased him down."
+[00:33:16.200 --> 00:33:18.200]   The crowds were searching for him and came to him
+[00:33:18.200 --> 00:33:23.200]   and tried to keep him from going away from them, obviously.
+[00:33:23.200 --> 00:33:27.200]   We're so exhausted after four days, but we get to jump on our Jeeps,
+[00:33:27.200 --> 00:33:30.200]   and then we get back to the hotel, and we have a safe haven for a few hours,
+[00:33:30.200 --> 00:33:32.200]   and then we got to start over the next day.
+[00:33:32.200 --> 00:33:35.200]   And then when we're absolutely burnt out on Friday, we're gone.
+[00:33:35.200 --> 00:33:39.200]   We get to come back home, and then we can recuperate.
+[00:33:39.200 --> 00:33:42.200]   This was Jesus' ministry for three years.
+[00:33:42.200 --> 00:33:45.200]   Three years they wouldn't leave him alone.
+[00:33:45.200 --> 00:33:48.200]   And we're at the beginning of all of this.
+[00:33:48.200 --> 00:33:50.200]   So can you imagine the exhaustion?
+[00:33:50.200 --> 00:33:56.200]   But the question we have this morning is, what is the purpose of this?
+[00:33:56.200 --> 00:34:01.200]   Did Jesus come because he knew that they didn't have access to medicine,
+[00:34:01.200 --> 00:34:03.200]   and so he went and started healing people?
+[00:34:03.200 --> 00:34:08.200]   He knew that they were hungry people, so he went and decided to feed them.
+[00:34:08.200 --> 00:34:12.200]   We need to understand the purpose of why Jesus is doing this,
+[00:34:12.200 --> 00:34:14.200]   or else we'll miss the whole point.
+[00:34:14.200 --> 00:34:17.200]   It's a great story of how Jesus was compassionate,
+[00:34:17.200 --> 00:34:21.200]   and a man who had authority and power over demons were doing miraculous things,
+[00:34:21.200 --> 00:34:24.200]   and we can read about him 2,000 years ago.
+[00:34:24.200 --> 00:34:29.200]   Here's a great man who did great humanitarian work, and then he disappeared.
+[00:34:29.200 --> 00:34:33.200]   What is the purpose of his miracles?
+[00:34:33.200 --> 00:34:40.200]   We need to be careful because we can sensationalize anything that seems miraculous.
+[00:34:40.200 --> 00:34:42.200]   It's like, oh, there must be the work of God.
+[00:34:42.200 --> 00:34:43.200]   He's doing great things.
+[00:34:43.200 --> 00:34:48.200]   I know that some of you guys know that there's been a lot of report of revival
+[00:34:48.200 --> 00:34:53.200]   breaking out on campuses, and people are eager to say, oh, that must be a revival.
+[00:34:53.200 --> 00:34:56.200]   I'm not going to get into whether that's a revival or not,
+[00:34:56.200 --> 00:35:00.200]   and if it is a revival, that it's just the beginning stages of that.
+[00:35:00.200 --> 00:35:02.200]   Awesome, great.
+[00:35:02.200 --> 00:35:07.200]   But we need to be careful that we understand what God is doing in our midst
+[00:35:07.200 --> 00:35:12.200]   and what revival looks like and what revival really, the end purpose is.
+[00:35:12.200 --> 00:35:14.200]   What is the purpose of this?
+[00:35:14.200 --> 00:35:18.200]   Why is Jesus doing this outside of stirring people up and helping people?
+[00:35:18.200 --> 00:35:21.200]   Was it simply because he was compassionate?
+[00:35:21.200 --> 00:35:25.200]   So he had work to do on the cross, and then while he was heading there,
+[00:35:25.200 --> 00:35:27.200]   he just ran into a lot of sick people.
+[00:35:27.200 --> 00:35:29.200]   He ran into a lot of hurt people, hungry people.
+[00:35:29.200 --> 00:35:34.200]   So in his in-between time, he took time to take care of them.
+[00:35:34.200 --> 00:35:36.200]   Is that what's going on?
+[00:35:36.200 --> 00:35:38.200]   Let me make this very clear.
+[00:35:38.200 --> 00:35:44.200]   There's nothing that Jesus did that was disconnected with his purpose.
+[00:35:44.200 --> 00:35:49.200]   Everything he did and said was very purposeful.
+[00:35:49.200 --> 00:35:51.200]   Even in this, this was not something--he went to preach,
+[00:35:51.200 --> 00:35:54.200]   and then all of a sudden all these people came, so he started healing them.
+[00:35:54.200 --> 00:35:57.200]   His healing, casting out demons, even raising the dead,
+[00:35:57.200 --> 00:36:02.200]   was specifically for the purpose of going to that cross.
+[00:36:02.200 --> 00:36:05.200]   There's three things I want to mention this morning
+[00:36:05.200 --> 00:36:09.200]   of what the purpose of these miracles are.
+[00:36:09.200 --> 00:36:14.200]   First of all, it clearly points to Jesus' authority and power.
+[00:36:14.200 --> 00:36:17.200]   We've been looking at that in the previous passages, how he cast out demons,
+[00:36:17.200 --> 00:36:20.200]   and he had the power and authority to do that.
+[00:36:20.200 --> 00:36:25.200]   This morning, we're going to look at his power to heal diseases.
+[00:36:25.200 --> 00:36:28.200]   But in Luke 4, 36-37, the previous text, it says,
+[00:36:28.200 --> 00:36:32.200]   "An amazement came upon all of them, and they began talking with one another,
+[00:36:32.200 --> 00:36:34.200]   and they're saying, 'What is this message?
+[00:36:34.200 --> 00:36:40.200]   For with authority and power he commands the unclean spirits, and they come out.'
+[00:36:40.200 --> 00:36:45.200]   And the report of him was spreading into every locality in the surrounding district."
+[00:36:45.200 --> 00:36:49.200]   So what was it about Jesus that was spreading?
+[00:36:49.200 --> 00:36:54.200]   What was the reputation that was spreading and people were sharing with each other?
+[00:36:54.200 --> 00:36:56.200]   He says it's clear.
+[00:36:56.200 --> 00:36:59.200]   His authority and his power.
+[00:36:59.200 --> 00:37:02.200]   His authority and his power.
+[00:37:02.200 --> 00:37:09.200]   And so that's how the previous passage ends, and then we are looking at verse 38.
+[00:37:09.200 --> 00:37:13.200]   It says, "He got up and left the synagogue and entered Simon's home."
+[00:37:13.200 --> 00:37:15.200]   Who's Simon?
+[00:37:15.200 --> 00:37:18.200]   Apostle Peter, before he changes his name.
+[00:37:18.200 --> 00:37:22.200]   And so if you remember last time, I think it was last time or the two weeks prior,
+[00:37:22.200 --> 00:37:29.200]   they said the archaeologists believe that they found this synagogue that Jesus was preaching in Capernaum,
+[00:37:29.200 --> 00:37:33.200]   and nearby, maybe less than a block away, walking distance,
+[00:37:33.200 --> 00:37:37.200]   they found where they believe was Peter's home.
+[00:37:37.200 --> 00:37:42.200]   That Peter's home was near the synagogue, which means most likely Peter was pretty--
+[00:37:42.200 --> 00:37:45.200]   more wealthy in that area than most people.
+[00:37:45.200 --> 00:37:51.200]   So you guys who've been to India with us, you know that rec center that we use, right?
+[00:37:51.200 --> 00:37:54.200]   And that's where they do all the teaching and all the stuff that we do.
+[00:37:54.200 --> 00:37:59.200]   People who live near that structure are usually more wealthy than normal people.
+[00:37:59.200 --> 00:38:05.200]   So the poorer people, the further you come away from that building, their houses look a little bit more shady.
+[00:38:05.200 --> 00:38:09.200]   And the people who are closer to that, because that's kind of like the epicenter of the community,
+[00:38:09.200 --> 00:38:12.200]   which means Peter was probably a wealthy fisherman.
+[00:38:12.200 --> 00:38:19.200]   And that's the reason why we know that Jesus uses that house as their home base.
+[00:38:19.200 --> 00:38:22.200]   And when he would go out to Capernaum, Bethsaida, and Chorazin,
+[00:38:22.200 --> 00:38:25.200]   and whenever he would return, this is the home that they would go to.
+[00:38:25.200 --> 00:38:32.200]   And this is where most likely that paralyzed man is healed, where Jesus says, "Your sins are forgiven."
+[00:38:32.200 --> 00:38:37.200]   He goes to Simon's home because Simon's mother-in-law was suffering from a fever.
+[00:38:37.200 --> 00:38:39.200]   So from this, we know that Peter was married, right?
+[00:38:39.200 --> 00:38:42.200]   You can't have a mother-in-law unless you have a wife.
+[00:38:42.200 --> 00:38:48.200]   So we know that he's married, and she has a high fever, and they ask him to help her.
+[00:38:48.200 --> 00:38:57.200]   And the way that Jesus responds is he rebukes the fever, just like the way he rebuked the demons, right?
+[00:38:57.200 --> 00:39:01.200]   So it may ask, like, why does he rebuke it? Why doesn't he just lay hands and heal her?
+[00:39:01.200 --> 00:39:03.200]   Why does he rebuke it, right?
+[00:39:03.200 --> 00:39:11.200]   It may ask you, like, when is rebuking appropriate?
+[00:39:11.200 --> 00:39:16.200]   If you rebuke every time you don't like something, you probably have a problem, right?
+[00:39:16.200 --> 00:39:23.200]   You go to a coffee shop, and you order something, and say, "I said tall, not venti!"
+[00:39:23.200 --> 00:39:27.200]   That's a problem with you, right?
+[00:39:27.200 --> 00:39:29.200]   It's like, "It's too salty! What's wrong with you?"
+[00:39:29.200 --> 00:39:33.200]   So every time you don't like something, you end up in rebuke.
+[00:39:33.200 --> 00:39:35.200]   You have a temper problem, right?
+[00:39:35.200 --> 00:39:38.200]   There's something wrong with your personality.
+[00:39:38.200 --> 00:39:43.200]   But when is it appropriate to rebuke?
+[00:39:43.200 --> 00:39:49.200]   When it is clearly wrong, that this needs to be rectified immediately.
+[00:39:49.200 --> 00:39:53.200]   This is not something that we're going to counsel, it's going to take years to sanctify,
+[00:39:53.200 --> 00:39:56.200]   and we're going to find a solution, and we're going to have a five-step program.
+[00:39:56.200 --> 00:40:00.200]   It's like, no, rebuking is appropriate when it is clearly wrong.
+[00:40:00.200 --> 00:40:04.200]   There is no debate, and there needs to be a fix immediately, right?
+[00:40:04.200 --> 00:40:09.200]   So if you have a child who's disobeying, and he is headed toward danger,
+[00:40:09.200 --> 00:40:11.200]   there is no talking, right?
+[00:40:11.200 --> 00:40:14.200]   There's no shepherding his heart.
+[00:40:14.200 --> 00:40:17.200]   You have to rebuke him so he can stop that.
+[00:40:17.200 --> 00:40:23.200]   Which means, when he rebuked the demons, there's no discussion, right?
+[00:40:23.200 --> 00:40:25.200]   There's no agreement. We're going to come to an agreement.
+[00:40:25.200 --> 00:40:29.200]   There's no process. He said, "No, get out. Be quiet and get out."
+[00:40:29.200 --> 00:40:36.200]   And in the same way, he rebukes this fever, because fever was not intended in God's creation.
+[00:40:36.200 --> 00:40:39.200]   It came because of sin.
+[00:40:39.200 --> 00:40:41.200]   That was not what God intended.
+[00:40:41.200 --> 00:40:47.200]   In fact, the Bible says that all of creation groaned, waiting for the sons of God to be revealed.
+[00:40:47.200 --> 00:40:51.200]   It's because of the sin that Adam and Eve brought into mankind.
+[00:40:51.200 --> 00:40:55.200]   It says all that they were to rule also was tainted by sin.
+[00:40:55.200 --> 00:41:01.200]   So fever, disease, demon possession is related to sin.
+[00:41:01.200 --> 00:41:05.200]   Jesus rebukes the fever just like he rebukes the demons.
+[00:41:05.200 --> 00:41:11.200]   And as soon as he rebukes, it says the fever leaves immediately.
+[00:41:11.200 --> 00:41:13.200]   There's no process.
+[00:41:13.200 --> 00:41:16.200]   There's no period where he feels better each day.
+[00:41:16.200 --> 00:41:18.200]   Immediately, the fever leaves.
+[00:41:18.200 --> 00:41:23.200]   Now you have to understand, in our day, when somebody has a fever,
+[00:41:23.200 --> 00:41:27.200]   we don't even ask for prayer because we got an aspirin.
+[00:41:27.200 --> 00:41:31.200]   And if it gets bad enough, you might run to the hospital.
+[00:41:31.200 --> 00:41:36.200]   But fever today is not something dangerous.
+[00:41:36.200 --> 00:41:40.200]   But it says high fever.
+[00:41:40.200 --> 00:41:41.200]   High fever over there.
+[00:41:41.200 --> 00:41:45.200]   If you don't treat high fever, according to WebMD,
+[00:41:45.200 --> 00:41:50.200]   so the doctors, if you have a problem with what I'm saying, contact them.
+[00:41:50.200 --> 00:41:57.200]   If it is untreated, it could lead to seizures, brain damage, and even death.
+[00:41:57.200 --> 00:42:01.200]   So high fever wasn't just an inconvenience.
+[00:42:01.200 --> 00:42:03.200]   Oh, she couldn't go to work, had to take some time off.
+[00:42:03.200 --> 00:42:07.200]   This could be life-threatening to somebody who has no access to medicine.
+[00:42:07.200 --> 00:42:14.200]   In fact, most of the diseases and things that have to be dealt with in Jesus' ministry
+[00:42:14.200 --> 00:42:16.200]   were life-threatening things.
+[00:42:16.200 --> 00:42:20.200]   Many of it may not be anything to us, but to them, without access to medicine.
+[00:42:20.200 --> 00:42:24.200]   And so Jesus rebukes, and immediately she gets up,
+[00:42:24.200 --> 00:42:28.200]   and the mother-in-law gets up and starts serving.
+[00:42:28.200 --> 00:42:31.200]   "Oh, you've been sick for a while. Why don't you rest?
+[00:42:31.200 --> 00:42:34.200]   Give it three or four days. You don't want to exhaust yourself."
+[00:42:34.200 --> 00:42:38.200]   Immediately, her healing was immediate and it was so complete
+[00:42:38.200 --> 00:42:41.200]   that she was able to get up and start serving people.
+[00:42:41.200 --> 00:42:45.200]   This was Jesus' ministry.
+[00:42:45.200 --> 00:42:50.200]   That there was clearly power and authority with this man.
+[00:42:50.200 --> 00:42:52.200]   He was not just any person.
+[00:42:52.200 --> 00:42:59.200]   In fact, in Acts 2, verse 22, as Peter introduces Christ to this crowd,
+[00:42:59.200 --> 00:43:02.200]   he says, "Men of Israel, listen to these words.
+[00:43:02.200 --> 00:43:07.200]   Jesus of Nazarene, a man attested to you by God with miracles, wonders, and signs,
+[00:43:07.200 --> 00:43:12.200]   which God performed through him in your midst, just as you yourselves know."
+[00:43:12.200 --> 00:43:15.200]   In other words, Jesus was proven to you.
+[00:43:15.200 --> 00:43:18.200]   Jesus was given to you through miracles, wonders, and signs.
+[00:43:18.200 --> 00:43:24.200]   So first and foremost, it was to distinguish him from anybody else like him,
+[00:43:24.200 --> 00:43:28.200]   distinguish him from the scribes, distinguish him from the Pharisees,
+[00:43:28.200 --> 00:43:35.200]   that this power and authority was clearly marking him as somebody who was different.
+[00:43:35.200 --> 00:43:39.200]   He had power and authority that the scribes did not have,
+[00:43:39.200 --> 00:43:42.200]   and any other leader for that matter.
+[00:43:42.200 --> 00:43:46.200]   But what was the purpose of that? Just that, oh, he's a special man.
+[00:43:46.200 --> 00:43:49.200]   He has power and authority. He's doing things that we haven't seen before.
+[00:43:49.200 --> 00:43:54.200]   If it ends there, you would have missed the whole point.
+[00:43:54.200 --> 00:43:59.200]   Jesus is a great man, performed miracles, he fed the poor, blind people were seeing.
+[00:43:59.200 --> 00:44:07.200]   If that's all we know about Christ, you missed the whole purpose of why he did what he did.
+[00:44:07.200 --> 00:44:14.200]   The reason why he was attested with signs and miracles was to prove that this was a man
+[00:44:14.200 --> 00:44:20.200]   with power and authority and was sent from God, that this was from God.
+[00:44:20.200 --> 00:44:27.200]   In Exodus chapter 4, remember the story where Moses is called and he said, "Go tell Pharaoh."
+[00:44:27.200 --> 00:44:32.200]   Remember, even though Moses grew up in the Pharaoh's home,
+[00:44:32.200 --> 00:44:36.200]   he spent 40 years out in the desert taking care of sheep.
+[00:44:36.200 --> 00:44:41.200]   So after 40 years, I mean, whatever he had at the Pharaoh's home, he doesn't have anymore.
+[00:44:41.200 --> 00:44:49.200]   This was a lowly job that he did, and he's calling this guy to go talk to Pharaoh,
+[00:44:49.200 --> 00:44:56.200]   humanly speaking, the most powerful king on the whole earth.
+[00:44:56.200 --> 00:45:03.200]   He said, "Go tell Pharaoh that I told him to let my people go."
+[00:45:03.200 --> 00:45:09.200]   So Moses' response is understandable. It's like, "You want me to go and talk to Pharaoh
+[00:45:09.200 --> 00:45:19.200]   and not ask him, not negotiate with him, tell him that my God is telling you to let my people go?
+[00:45:19.200 --> 00:45:25.200]   What if he doesn't believe me?" Right? I mean, that would be the common question that we would all have.
+[00:45:25.200 --> 00:45:30.200]   "What if he doesn't believe me?" And that's when God tells him, he's like, "Go, and I will show you."
+[00:45:30.200 --> 00:45:35.200]   And he begins to perform miracles so that Moses would have confidence.
+[00:45:35.200 --> 00:45:39.200]   And then he says, "If you go and he doesn't listen," and then he says the 10 plagues.
+[00:45:39.200 --> 00:45:45.200]   And all of that to prove that Moses was a man sent from God.
+[00:45:45.200 --> 00:45:53.200]   It wasn't because Moses was a articulate man. It wasn't because of his authority or his talent or his potential.
+[00:45:53.200 --> 00:45:57.200]   It was simply to identify that this man was sent by God.
+[00:45:57.200 --> 00:46:04.200]   So all power and authority that comes with Almighty God, he represents.
+[00:46:04.200 --> 00:46:07.200]   And that's why Jesus performed his miracles.
+[00:46:07.200 --> 00:46:12.200]   That there is power and authority on him by the power of the Holy Spirit
+[00:46:12.200 --> 00:46:16.200]   so that they will know that he is from God.
+[00:46:16.200 --> 00:46:26.200]   In John 3, 1 and 2, Nicodemus comes to him at night because he's seen his miracles, and he wanted to make sure.
+[00:46:26.200 --> 00:46:28.200]   And this is what it says.
+[00:46:28.200 --> 00:46:34.200]   "There was a man of the Pharisees named Nicodemus, a ruler of the Jews. This man came to Jesus by night."
+[00:46:34.200 --> 00:46:40.200]   Why did he come by night? Because his friends would have persecuted him.
+[00:46:40.200 --> 00:46:42.200]   Because Jesus already embarrassed them.
+[00:46:42.200 --> 00:46:47.200]   These guys lived their whole lives trying to get honor through the law.
+[00:46:47.200 --> 00:46:50.200]   It was all about them. And Jesus came.
+[00:46:50.200 --> 00:46:54.200]   When they saw him, he says, "Repent, bear fruit in according to your repentance."
+[00:46:54.200 --> 00:46:57.200]   In other words, your repentance means nothing.
+[00:46:57.200 --> 00:47:01.200]   Do you know what that means? They were actually coming for repentance.
+[00:47:01.200 --> 00:47:04.200]   But the problem was their repentance didn't bear any fruit.
+[00:47:04.200 --> 00:47:07.200]   It was just words. It was just, you know.
+[00:47:07.200 --> 00:47:10.200]   They were already embarrassed, so they've already decided.
+[00:47:10.200 --> 00:47:13.200]   The seeds were already planted in their heart, "We've got to get rid of this guy."
+[00:47:13.200 --> 00:47:17.200]   And Nicodemus, one of them, comes at night because he doesn't want to be seen.
+[00:47:17.200 --> 00:47:19.200]   But if you look at it, it says they came to him at night.
+[00:47:19.200 --> 00:47:23.200]   "Rabbi, we know that you have come from God. We."
+[00:47:23.200 --> 00:47:25.200]   So it wasn't just Nicodemus.
+[00:47:25.200 --> 00:47:29.200]   It was other friends who were probably discussing and were kind of on the same page as Nicodemus.
+[00:47:29.200 --> 00:47:34.200]   Nicodemus represents these minority Pharisees coming to Jesus.
+[00:47:34.200 --> 00:47:35.200]   And look at what he says.
+[00:47:35.200 --> 00:47:43.200]   "We know that you have come from God as a teacher, for no one can do these signs that you do unless God is with him."
+[00:47:43.200 --> 00:47:46.200]   And this is exactly why he was performing miracles.
+[00:47:46.200 --> 00:47:50.200]   So that they would realize that Jesus was not just any man.
+[00:47:50.200 --> 00:47:54.200]   That this was a man sent from God.
+[00:47:54.200 --> 00:47:59.200]   We see again in John chapter 9, the same profession.
+[00:47:59.200 --> 00:48:04.200]   If you look at, I think we put it up there, John chapter 9.
+[00:48:04.200 --> 00:48:08.200]   Here's this man where Jesus heals his blindness.
+[00:48:08.200 --> 00:48:12.200]   The leaders of Israel are trying to suppress this truth.
+[00:48:12.200 --> 00:48:18.200]   This must not have happened because if this is a man of God, he's making us look like a fool.
+[00:48:18.200 --> 00:48:21.200]   So they've already determined in their mind they're going to disprove this.
+[00:48:21.200 --> 00:48:25.200]   And so they get his parents to come and ask.
+[00:48:25.200 --> 00:48:28.200]   He wasn't really blind. This is all a hoax. This is a trick.
+[00:48:28.200 --> 00:48:30.200]   This man is not from God.
+[00:48:30.200 --> 00:48:37.200]   And the answer that his parents give is that whether blind or not, all I know is yes, he was blind.
+[00:48:37.200 --> 00:48:42.200]   But whether he's a sinner or he's from God or not, ask my son.
+[00:48:42.200 --> 00:48:49.200]   Now, if you look at that encounter, and it seems very cold-hearted because you would think the parents would stand up for him.
+[00:48:49.200 --> 00:48:51.200]   Instead, they defer it.
+[00:48:51.200 --> 00:48:56.200]   You know what this shows me is that the parents were probably already detached from him.
+[00:48:56.200 --> 00:49:03.200]   Because at that time, if you were blind, especially if you became an adult, not only was he blind and it was a hard life,
+[00:49:03.200 --> 00:49:06.200]   they considered a curse that was on him.
+[00:49:06.200 --> 00:49:09.200]   So in order to get the curse out of your house, he needs to get out of your house.
+[00:49:09.200 --> 00:49:13.200]   So this man was probably living as a homeless beggar.
+[00:49:13.200 --> 00:49:20.200]   And the fact that the way they answer already means that it seems like they've already kind of abandoned him.
+[00:49:20.200 --> 00:49:27.200]   So they decide to go to this man who was born blind, but Jesus opens his eyes and they bring him over and say,
+[00:49:27.200 --> 00:49:32.200]   "There's no way that this sinner could have done this. This is all a trick."
+[00:49:32.200 --> 00:49:40.200]   Now, you have to understand, the difficulty, obviously, of being blind is difficult in and of itself.
+[00:49:40.200 --> 00:49:45.200]   But at that particular time, because they considered a curse of God, they were considered unclean.
+[00:49:45.200 --> 00:49:49.200]   So they could not function in society.
+[00:49:49.200 --> 00:49:52.200]   They were cast out. They couldn't get a job. They couldn't get married.
+[00:49:52.200 --> 00:49:55.200]   They couldn't survive.
+[00:49:55.200 --> 00:50:01.200]   So in order for him to get back into society, these leaders have to give the stamp of approval.
+[00:50:01.200 --> 00:50:05.200]   Remember the lepers? Like in the book of Leviticus, once you get clean, you have to show yourself to a priest,
+[00:50:05.200 --> 00:50:09.200]   and the priest has to ordain you clean before you can re-enter.
+[00:50:09.200 --> 00:50:13.200]   These men stood in that role.
+[00:50:13.200 --> 00:50:17.200]   And that's the reason why his parents were afraid to go against them.
+[00:50:17.200 --> 00:50:24.200]   And he's standing before them, trying to get him to say, "You did not experience a miracle,"
+[00:50:24.200 --> 00:50:28.200]   forcing him to do that in order to suppress Jesus' popularity.
+[00:50:28.200 --> 00:50:31.200]   And it is that context where he responds to them in verse 30.
+[00:50:31.200 --> 00:50:35.200]   "The man answered and said to them, 'Well, here's an amazing thing,
+[00:50:35.200 --> 00:50:39.200]   that you do not know where he is from, and yet he opened my eyes.'"
+[00:50:39.200 --> 00:50:43.200]   Right? Think about the boldness of this guy.
+[00:50:43.200 --> 00:50:48.200]   He's standing in front of the leaders, and he needs their approval to get back into society.
+[00:50:48.200 --> 00:50:51.200]   And he said, "Well, here's an interesting thing."
+[00:50:51.200 --> 00:50:59.200]   Verse 31, "We know that God does not hear sinners, but if anyone is God-fearing and does His will, He hears him."
+[00:50:59.200 --> 00:51:04.200]   He's standing in front of theological PhDs.
+[00:51:04.200 --> 00:51:09.200]   This guy was living as a homeless guy, probably begging just days ago.
+[00:51:09.200 --> 00:51:13.200]   And he's standing before them, he's like, "I got some theology for you."
+[00:51:13.200 --> 00:51:16.200]   "You talk great about the Sabbath and all that."
+[00:51:16.200 --> 00:51:20.200]   And he teaches them, like this theologian.
+[00:51:20.200 --> 00:51:23.200]   "How can that be? What you're saying doesn't make any sense."
+[00:51:23.200 --> 00:51:27.200]   In verse 33, "If this man were not from God, he could do nothing."
+[00:51:27.200 --> 00:51:29.200]   Right?
+[00:51:29.200 --> 00:51:34.200]   And they answered him, "You were born entirely in sin, and are you teaching us?"
+[00:51:34.200 --> 00:51:38.200]   So they put him out.
+[00:51:38.200 --> 00:51:43.200]   The very reason why the parents would not defend him was for this reason.
+[00:51:43.200 --> 00:51:45.200]   And yet this man in boldness stands.
+[00:51:45.200 --> 00:51:49.200]   And he says, "I cannot deny what happened."
+[00:51:49.200 --> 00:51:52.200]   His miracle proves that he must be from God.
+[00:51:52.200 --> 00:52:00.200]   And then the very next chapter is where Jesus says, "I am the good shepherd."
+[00:52:00.200 --> 00:52:04.200]   Because they were afraid of these shepherds, these false shepherds.
+[00:52:04.200 --> 00:52:10.200]   We're preventing them from coming to God, and Jesus says, "I am the good shepherd."
+[00:52:10.200 --> 00:52:17.200]   This is the very reason why these miracles were taking place, in order to identify that Jesus was from God.
+[00:52:17.200 --> 00:52:22.200]   In fact, Jesus himself says in his own words, John 10, chapter 37, 38,
+[00:52:22.200 --> 00:52:27.200]   "If I do not do the works my father do, do not believe me."
+[00:52:27.200 --> 00:52:31.200]   If I give you no proof, and I'm just talking, do not believe me.
+[00:52:31.200 --> 00:52:40.200]   But if I do them, though you do not believe me, believe the works so that you may know and understand that the Father is in me, and I in the Father.
+[00:52:40.200 --> 00:52:43.200]   Jesus in his own words saying,
+[00:52:43.200 --> 00:52:53.200]   "You can deny me, you can hate me, you can call me a sinner, and you won't believe me, but at least look at what's been done."
+[00:52:53.200 --> 00:53:00.200]   You know what's interesting about this is, everything he does, he does in public.
+[00:53:00.200 --> 00:53:06.200]   He doesn't go to a side room where he performs his miracle, and then he relies on his disciples.
+[00:53:06.200 --> 00:53:09.200]   It's like, "Oh, it happened, it happened."
+[00:53:09.200 --> 00:53:16.200]   I remember years ago, when the charismatic movement was in full swing, back in the 80s and early 90s.
+[00:53:16.200 --> 00:53:19.200]   I wanted this gift more than anybody else.
+[00:53:19.200 --> 00:53:22.200]   I wanted to be able to heal people.
+[00:53:22.200 --> 00:53:27.200]   We're spending so much time discipling, training.
+[00:53:27.200 --> 00:53:29.200]   We're taking students out on the street.
+[00:53:29.200 --> 00:53:32.200]   We were on campus about four times a week.
+[00:53:32.200 --> 00:53:36.200]   When I was a youth pastor, I took my whole youth group out.
+[00:53:36.200 --> 00:53:39.200]   Elder Joe was one of them at that time.
+[00:53:39.200 --> 00:53:43.200]   We stood in front of Irvine High School, and I had them preach the gospel in public.
+[00:53:43.200 --> 00:53:45.200]   I had two reasons for that.
+[00:53:45.200 --> 00:53:49.200]   One is so that they can be trained to be bold, to preach the gospel.
+[00:53:49.200 --> 00:53:54.200]   Second is so that the world would be crucified to them.
+[00:53:54.200 --> 00:54:01.200]   Because they can never be cool, after you did public preaching in front of your friends.
+[00:54:01.200 --> 00:54:03.200]   For that reason, I would take them out.
+[00:54:03.200 --> 00:54:11.200]   I was just thinking, "But if I had the gift of healing, I would just go in front of all of them and just heal them."
+[00:54:11.200 --> 00:54:14.200]   Then say, "Jesus is God. Listen and repent."
+[00:54:14.200 --> 00:54:18.200]   In my mind, I'm thinking, "If I could just have this gift."
+[00:54:18.200 --> 00:54:19.200]   I prayed for it.
+[00:54:19.200 --> 00:54:21.200]   Any healing service that they had, I would go.
+[00:54:21.200 --> 00:54:23.200]   I took our youth group.
+[00:54:23.200 --> 00:54:26.200]   Down in Vineyard, John Wimber was having this healing service.
+[00:54:26.200 --> 00:54:29.200]   3,000 people showed up.
+[00:54:29.200 --> 00:54:32.200]   I said, "Anybody who has short legs."
+[00:54:32.200 --> 00:54:34.200]   Not short legs.
+[00:54:34.200 --> 00:54:37.200]   One leg shorter than the other.
+[00:54:37.200 --> 00:54:39.200]   He wasn't just calling short people.
+[00:54:39.200 --> 00:54:44.200]   He was calling tall people who had legs that were crooked.
+[00:54:44.200 --> 00:54:46.200]   About seven or eight of them came up to the service.
+[00:54:46.200 --> 00:54:49.200]   They said, "Anybody who has never seen a miracle, come forward."
+[00:54:49.200 --> 00:54:53.200]   I went up, and I took maybe about 15 of our youth group kids up.
+[00:54:53.200 --> 00:54:57.200]   Literally, if he was sitting here, it was just us sitting around him.
+[00:54:57.200 --> 00:55:00.200]   John Wimber came around, and he started laying hands, healing.
+[00:55:00.200 --> 00:55:08.200]   Then, for whatever reason, when it came to this man, he stood up and said, "Miracle took place!"
+[00:55:08.200 --> 00:55:10.200]   People were shouting.
+[00:55:10.200 --> 00:55:14.200]   I'm watching this, and I didn't see anything.
+[00:55:14.200 --> 00:55:18.200]   I'm looking at our youth group students, like, "Did you see anything? Did you see anything?"
+[00:55:18.200 --> 00:55:26.200]   What was most perplexing was his face, because he's confused.
+[00:55:26.200 --> 00:55:32.200]   John Wimber came around, and he grabbed him, put him up, and he said, "Oh, miracle took place! How do you feel?"
+[00:55:32.200 --> 00:55:38.200]   You could tell, even the way he would respond, "Glory to God!"
+[00:55:38.200 --> 00:55:43.200]   He sat down, and so we're confused.
+[00:55:43.200 --> 00:55:51.200]   But that day, 3,000 people went out of that room, and I bet you, even to this day, which is more than 30 years ago,
+[00:55:51.200 --> 00:55:57.200]   to this day, 3,000 people probably went out of that room saying, "I saw a miracle."
+[00:55:57.200 --> 00:56:03.200]   Now, I'm not saying that miracles don't happen. I'm not saying miracles don't happen.
+[00:56:03.200 --> 00:56:07.200]   I can do whatever he wants.
+[00:56:07.200 --> 00:56:16.200]   But so much of close examination at that time, what I was seeing, my end conclusion is God can do whatever he wants,
+[00:56:16.200 --> 00:56:20.200]   and he does work miracles, but what I'm seeing,
+[00:56:20.200 --> 00:56:27.200]   this is a lot of hype, Jesus' miracles, they couldn't deny.
+[00:56:27.200 --> 00:56:32.200]   He performed it in front of people who hated him.
+[00:56:32.200 --> 00:56:37.200]   And even though they wanted to discount him, even though they didn't want anything to do with him,
+[00:56:37.200 --> 00:56:39.200]   they said they couldn't deny what they were seeing.
+[00:56:39.200 --> 00:56:42.200]   In fact, remember when Lazarus was raised from the dead?
+[00:56:42.200 --> 00:56:45.200]   They couldn't deny because so many people saw this.
+[00:56:45.200 --> 00:56:47.200]   He died, and he came back.
+[00:56:47.200 --> 00:56:50.200]   So remember what they say?
+[00:56:50.200 --> 00:56:53.200]   Because of this, his fame is growing.
+[00:56:53.200 --> 00:56:59.200]   And so they actually paid to suppress this truth
+[00:56:59.200 --> 00:57:03.200]   because they already determined in their mind that this is not from God.
+[00:57:03.200 --> 00:57:08.200]   They couldn't deny his miracles, so they said, "I can't deny what's happening, but it must not be from God.
+[00:57:08.200 --> 00:57:11.200]   It must be demonic."
+[00:57:11.200 --> 00:57:14.200]   Even after they saw the miracles.
+[00:57:14.200 --> 00:57:19.200]   See, the difference between a lot of what we see today
+[00:57:19.200 --> 00:57:26.200]   and what Jesus was doing is even the people who wanted to crucify him couldn't deny his works.
+[00:57:26.200 --> 00:57:28.200]   All for what purpose?
+[00:57:28.200 --> 00:57:33.200]   So that people would know that this was God's man.
+[00:57:33.200 --> 00:57:37.200]   But if we stop right here, you would also miss the whole point
+[00:57:37.200 --> 00:57:41.200]   because it wasn't just, "Oh, he has power and authority, and he was a humanitarian,
+[00:57:41.200 --> 00:57:44.200]   and he fed a lot of people, and he healed people."
+[00:57:44.200 --> 00:57:47.200]   Clearly, he did that because he was a man from God.
+[00:57:47.200 --> 00:57:52.200]   But if we stop here, we miss the whole point because the reason why he does that
+[00:57:52.200 --> 00:57:59.200]   is the third reason, to get a platform to preach about the kingdom of God.
+[00:57:59.200 --> 00:58:04.200]   The whole reason why we are out in the boonies of India is for the same reason.
+[00:58:04.200 --> 00:58:10.200]   We go out there, and we, our doctors and DBS and various things that are doing,
+[00:58:10.200 --> 00:58:15.200]   is after they leave, it's like, "Wow, why are these people coming all the way over here?
+[00:58:15.200 --> 00:58:19.200]   You know what our superpower is? Money."
+[00:58:19.200 --> 00:58:22.200]   They say, "Why are these rich people here?"
+[00:58:22.200 --> 00:58:24.200]   That's what they say. "Why are these rich people?"
+[00:58:24.200 --> 00:58:31.200]   They say, "These rich people who are Christians, who are doctors, who are living in nice homes,
+[00:58:31.200 --> 00:58:37.200]   compared to them, we're multi-billionaires compared to them.
+[00:58:37.200 --> 00:58:39.200]   Why are they here?"
+[00:58:39.200 --> 00:58:44.200]   After we do that, they're curious, so they ask the pastors to come back.
+[00:58:44.200 --> 00:58:49.200]   They ask them, "What do you believe? What are you preaching? What is Christianity about?"
+[00:58:49.200 --> 00:58:54.200]   Everything that Jesus did was to identify authority and power,
+[00:58:54.200 --> 00:58:58.200]   and this authority and power was given to him because of God,
+[00:58:58.200 --> 00:59:03.200]   so that, he says in verse 34, 33, "I must preach the kingdom."
+[00:59:03.200 --> 00:59:07.200]   When they came to him, said, "Don't leave us because we need you to continue to heal.
+[00:59:07.200 --> 00:59:11.200]   I have my mother, my brother, my uncle who is sick," and they wouldn't let him go.
+[00:59:11.200 --> 00:59:17.200]   Jesus says, "No, I have to go because I must preach the kingdom of God to the other cities also.
+[00:59:17.200 --> 00:59:23.200]   For I was sent for this purpose," so he kept on preaching in the synagogue of Judea.
+[00:59:23.200 --> 00:59:27.200]   He didn't say, "God sent me to heal. God sent me to do this and that."
+[00:59:27.200 --> 00:59:35.200]   Although that was part of his ministry, he said, "All of that so that I can preach about the kingdom of God."
+[00:59:35.200 --> 00:59:39.200]   That's exactly what it says in Hebrews 1.
+[00:59:39.200 --> 00:59:43.200]   2. "For this reason, we must pay much closer attention to what we have heard,
+[00:59:43.200 --> 00:59:45.200]   so that we do not drift away from it.
+[00:59:45.200 --> 00:59:49.200]   For if the word spoken through angels proved unalterable,
+[00:59:49.200 --> 00:59:53.200]   and every transgression and disobedience received a just penalty,
+[00:59:53.200 --> 00:59:56.200]   how will we escape if we neglect such a great salvation?
+[00:59:56.200 --> 01:00:01.200]   After it was first spoken through the Lord, it was confirmed to us by those who heard,
+[01:00:01.200 --> 01:00:07.200]   God also testifying with them, both by signs and wonders and various miracles
+[01:00:07.200 --> 01:00:12.200]   and by gifts of the Holy Spirit according to his own will."
+[01:00:12.200 --> 01:00:17.200]   God attested that this man, Jesus, was from him.
+[01:00:17.200 --> 01:00:24.200]   So therefore what? Just to marvel? Just to honor him?
+[01:00:24.200 --> 01:00:27.200]   Follow his example? No.
+[01:00:27.200 --> 01:00:35.200]   Just to pay attention to what he had to say. Pay attention to what he was saying.
+[01:00:35.200 --> 01:00:38.200]   They didn't have a problem with what he was doing.
+[01:00:38.200 --> 01:00:42.200]   They loved what he was doing. Who wouldn't?
+[01:00:42.200 --> 01:00:44.200]   They loved what he was doing.
+[01:00:44.200 --> 01:00:47.200]   You know what they hate about Christianity?
+[01:00:47.200 --> 01:00:49.200]   It's not your life.
+[01:00:49.200 --> 01:00:52.200]   Christians are one of the most generous.
+[01:00:52.200 --> 01:00:55.200]   When you have a disaster out in Ukraine, you know who's over there?
+[01:00:55.200 --> 01:00:57.200]   Christians.
+[01:00:57.200 --> 01:00:59.200]   When they don't have water in Africa, you know who's over there?
+[01:00:59.200 --> 01:01:01.200]   Christians.
+[01:01:01.200 --> 01:01:06.200]   You know, in Aceh, a little part of Indonesia where it's like 99% Muslims
+[01:01:06.200 --> 01:01:11.200]   and Christian missionaries could not get in there because they would literally die from going in there.
+[01:01:11.200 --> 01:01:13.200]   And then the flood came.
+[01:01:13.200 --> 01:01:17.200]   Earthquake happened and 80,000 of the people in that area just died instantly
+[01:01:17.200 --> 01:01:21.200]   because they got submerged under water.
+[01:01:21.200 --> 01:01:23.200]   And then for the first time, Christians were able to get in.
+[01:01:23.200 --> 01:01:28.200]   So Christians in large number and millions of dollars of aid went in through Christian hands.
+[01:01:28.200 --> 01:01:31.200]   And then it opened the door to the gospel.
+[01:01:31.200 --> 01:01:36.200]   And what they were saying was, "Where's our brothers, the Muslims?
+[01:01:36.200 --> 01:01:38.200]   How come they're not coming?"
+[01:01:38.200 --> 01:01:45.200]   So Christians went in with the aid and it opened the door to the gospel to be preached there.
+[01:01:45.200 --> 01:01:50.200]   Even the Muslims were thanking the Christians for the aid.
+[01:01:50.200 --> 01:01:53.200]   They didn't hate Jesus because of what he was doing.
+[01:01:53.200 --> 01:01:57.200]   They hated Jesus for what he was saying.
+[01:01:57.200 --> 01:02:10.200]   In Matthew 9, 6 through 8, when they came to have the leopard or the lame man healed,
+[01:02:10.200 --> 01:02:11.200]   remember what Jesus does?
+[01:02:11.200 --> 01:02:13.200]   Instead of healing this man, he says, "Your sins are forgiven.
+[01:02:13.200 --> 01:02:15.200]   They're offended."
+[01:02:15.200 --> 01:02:17.200]   We want you to heal him.
+[01:02:17.200 --> 01:02:23.200]   And then Jesus says to them, "But so that you may know that the Son of Man has authority on earth to forgive sins."
+[01:02:23.200 --> 01:02:28.200]   Then he said to the paralytic, "Get up, pick up your bed, and go home."
+[01:02:28.200 --> 01:02:29.200]   And he got up and went home.
+[01:02:29.200 --> 01:02:35.200]   But when the crowd saw this, they were awestruck and glorified God who had given such authority to men.
+[01:02:35.200 --> 01:02:37.200]   They were awestruck because of his miracle.
+[01:02:37.200 --> 01:02:45.200]   And Jesus said, "The only reason why I'm performing miracles is so that you would know that I came to forgive sins."
+[01:02:45.200 --> 01:02:50.200]   All of this happens to identify him as a man of God.
+[01:02:50.200 --> 01:02:55.200]   And the primary reason why he came was to forgive sins.
+[01:02:55.200 --> 01:03:01.200]   In fact, you know what's interesting is, Luke 4, 41, as the demons are going out, they're crying out.
+[01:03:01.200 --> 01:03:04.200]   They're shouting, "You are the Son of God!"
+[01:03:04.200 --> 01:03:05.200]   Right?
+[01:03:05.200 --> 01:03:06.200]   Which is true.
+[01:03:06.200 --> 01:03:09.200]   They recognized him way before anybody else.
+[01:03:09.200 --> 01:03:10.200]   "You are the Son of God."
+[01:03:10.200 --> 01:03:12.200]   But look at Jesus' response.
+[01:03:12.200 --> 01:03:18.200]   "Rebuking them, he would not allow them to speak because they knew him to be Christ."
+[01:03:18.200 --> 01:03:19.200]   Right?
+[01:03:19.200 --> 01:03:21.200]   This is why we do inductive Bible study.
+[01:03:21.200 --> 01:03:27.200]   We have to ask the question, they were professing the right doctrine, and yet Jesus would not let them speak.
+[01:03:27.200 --> 01:03:35.200]   Wasn't the purpose of the miracles so that they would know that he is from God, that he is the Christ?
+[01:03:35.200 --> 01:03:42.200]   So why does he muzzle them when they profess the very purpose of his miracle?
+[01:03:42.200 --> 01:03:44.200]   Are you following?
+[01:03:44.200 --> 01:03:45.200]   Right?
+[01:03:45.200 --> 01:03:48.200]   It's a good question.
+[01:03:48.200 --> 01:04:01.200]   The reason why is because Jesus knew once they realized who he is, that they were going to forcefully make him king for the wrong reason.
+[01:04:01.200 --> 01:04:06.200]   And that's what happens in John 6, 14-15, after performing all these miracles.
+[01:04:06.200 --> 01:04:08.200]   Thousands of people, right?
+[01:04:08.200 --> 01:04:14.200]   It started with a small crowd, but by this time, feeding of the 5,000, thousands of people would not leave him alone.
+[01:04:14.200 --> 01:04:16.200]   And so he feeds all of them.
+[01:04:16.200 --> 01:04:21.200]   And at the end of that, it says in verse 15, John 6, verse 15,
+[01:04:21.200 --> 01:04:31.200]   "So Jesus, perceiving that they were intending to come and take him by force to make him king, withdrew again to the mountain by himself alone."
+[01:04:31.200 --> 01:04:32.200]   Jesus saw right through them.
+[01:04:32.200 --> 01:04:36.200]   He said, "You want me to be king because you want to eat.
+[01:04:36.200 --> 01:04:39.200]   You want me to be king because you want me to heal you.
+[01:04:39.200 --> 01:04:43.200]   You want me to be king because you're blind and you want me to open your eyes.
+[01:04:43.200 --> 01:04:47.200]   You want me to be king because you have somebody who died and you want me to raise them.
+[01:04:47.200 --> 01:04:51.200]   You don't want me to be king because you know who I am.
+[01:04:51.200 --> 01:04:55.200]   You don't want me to be king because you want your sins forgiven."
+[01:04:55.200 --> 01:05:00.200]   And it's in that context Jesus says, "I am the bread."
+[01:05:00.200 --> 01:05:06.200]   You're looking for the bread through me, but I am the bread.
+[01:05:06.200 --> 01:05:08.200]   You're hoping to find a better life through me.
+[01:05:08.200 --> 01:05:11.200]   He said, "I am the life."
+[01:05:11.200 --> 01:05:13.200]   You're looking for a better way.
+[01:05:13.200 --> 01:05:15.200]   You're hoping that I would point you to the better way.
+[01:05:15.200 --> 01:05:18.200]   Jesus says, "I am the way."
+[01:05:18.200 --> 01:05:26.200]   And as a result of not what he did, but what he said, they turn away from him.
+[01:05:26.200 --> 01:05:29.200]   They no longer follow him.
+[01:05:29.200 --> 01:05:37.200]   In fact, in John 6, 41-42, "Therefore the Jews were grumbling about him because he said,
+[01:05:37.200 --> 01:05:39.200]   'I am the bread that came down out of heaven.'
+[01:05:39.200 --> 01:05:43.200]   They were saying, 'Is not this Jesus the son of Joseph?'"
+[01:05:43.200 --> 01:05:47.200]   Why does he keep saying that he's from God?
+[01:05:47.200 --> 01:05:49.200]   Remember the last time they said that?
+[01:05:49.200 --> 01:05:50.200]   Isn't he son of Joseph?
+[01:05:50.200 --> 01:05:52.200]   They wanted to throw him off a cliff.
+[01:05:52.200 --> 01:05:57.200]   He says, "Is not this Jesus the son of Joseph, whose father and mother we know?
+[01:05:57.200 --> 01:06:03.200]   How does he now say, 'I have come down out of heaven?'"
+[01:06:03.200 --> 01:06:08.200]   And then in John 10-32, "Jesus answered them, 'I showed you many good works from the Father.
+[01:06:08.200 --> 01:06:10.200]   For which of them are you stoning me?'
+[01:06:10.200 --> 01:06:15.200]   The Jews answered him, 'For good works we do not stone you, but for blasphemy.
+[01:06:15.200 --> 01:06:20.200]   And because you, being a man, make yourself out to be God.'"
+[01:06:20.200 --> 01:06:23.200]   Jesus knew.
+[01:06:23.200 --> 01:06:27.200]   Maybe the demons knew.
+[01:06:27.200 --> 01:06:34.200]   That even the right profession, that they were going to come to him for all the wrong reasons.
+[01:06:34.200 --> 01:06:36.200]   They're still the king.
+[01:06:36.200 --> 01:06:38.200]   They're still at the center.
+[01:06:38.200 --> 01:06:42.200]   They wanted a better king to serve them.
+[01:06:42.200 --> 01:06:48.200]   But they needed to recognize the greatest problem was within them.
+[01:06:48.200 --> 01:06:49.200]   It was not their blindness.
+[01:06:49.200 --> 01:06:50.200]   It's not their hunger.
+[01:06:50.200 --> 01:06:52.200]   It's not politics.
+[01:06:52.200 --> 01:06:53.200]   It's not early death.
+[01:06:53.200 --> 01:06:56.200]   It's not cancer.
+[01:06:56.200 --> 01:06:59.200]   It was within them.
+[01:06:59.200 --> 01:07:02.200]   Their souls are corrupt.
+[01:07:02.200 --> 01:07:15.200]   Sin has so devastated every part of human experience that even the best of things, once human beings get involved, it becomes corrupt.
+[01:07:15.200 --> 01:07:23.200]   Until they recognized that, Jesus was only a source, a different source, maybe a better source.
+[01:07:23.200 --> 01:07:30.200]   And we're hearing more and more people who don't want to offend the other people and say,
+[01:07:30.200 --> 01:07:33.200]   "Well, Jesus is a good way.
+[01:07:33.200 --> 01:07:36.200]   Maybe you think he's the best way.
+[01:07:36.200 --> 01:07:42.200]   But how can he be the only way?"
+[01:07:42.200 --> 01:07:48.200]   He is the only way because he's the only one who has authority to forgive sins.
+[01:07:48.200 --> 01:07:53.200]   He's the only one who absorbed our sins upon himself.
+[01:07:53.200 --> 01:07:58.200]   He's the only one who took the punishment that you and I deserved.
+[01:07:58.200 --> 01:08:05.200]   If all Jesus is is an avenue for a better life, yes, Jesus is a way.
+[01:08:05.200 --> 01:08:06.200]   Maybe a better way.
+[01:08:06.200 --> 01:08:07.200]   Maybe a worse way.
+[01:08:07.200 --> 01:08:09.200]   But he's just a way.
+[01:08:09.200 --> 01:08:15.200]   The Bible says that there is no mediator between man and God other than the man, Christ Jesus.
+[01:08:15.200 --> 01:08:24.200]   Because the only way that we can have a relationship restored with this holy, holy, holy God is to deal with our sins.
+[01:08:24.200 --> 01:08:28.200]   And this is the reason why Christ came.
+[01:08:28.200 --> 01:08:36.200]   Jesus healed, but many more people were not healed.
+[01:08:36.200 --> 01:08:40.200]   Jesus fed 5,000, 4,000.
+[01:08:40.200 --> 01:08:46.200]   But there were many, many more people who are still going hungry to this day.
+[01:08:46.200 --> 01:08:55.200]   He cast out demons, but myriads of demons are still possessing and wanting to harm.
+[01:08:55.200 --> 01:08:58.200]   He raised a few from the dead.
+[01:08:58.200 --> 01:09:02.200]   A majority of the people died.
+[01:09:02.200 --> 01:09:08.200]   And what is common to every single one of these people, that whether they lived a little bit longer life,
+[01:09:08.200 --> 01:09:15.200]   whether they were blind and now they were able to live the next 10, 20, 30, 40 years with sight,
+[01:09:15.200 --> 01:09:21.200]   whether they couldn't walk and as a beggar, and as a result they were able to get a job, get married and have children,
+[01:09:21.200 --> 01:09:27.200]   every single one of them died.
+[01:09:27.200 --> 01:09:31.200]   They just saw a little bit better.
+[01:09:31.200 --> 01:09:33.200]   They walked a little bit better.
+[01:09:33.200 --> 01:09:36.200]   They had a bit more food than they did before.
+[01:09:36.200 --> 01:09:40.200]   But every single one of them still died.
+[01:09:40.200 --> 01:09:44.200]   Christ did not come simply to make hungry people fill their stomachs.
+[01:09:44.200 --> 01:09:48.200]   He didn't just come so that lame people can walk a little bit better.
+[01:09:48.200 --> 01:09:55.200]   He didn't just come so that somebody who was blind could live with sight on their path to death.
+[01:09:55.200 --> 01:09:59.200]   He came to deal with death itself.
+[01:09:59.200 --> 01:10:04.200]   And the only reason why He did all of that is so that you would know, that I would know,
+[01:10:04.200 --> 01:10:13.200]   that He has the authority and the power because God sent Him.
+[01:10:13.200 --> 01:10:20.200]   So the core of Christianity is not His power and the miracles and the blessing that you get
+[01:10:20.200 --> 01:10:26.200]   because you prayed and better job that you got or you were sick and He healed you.
+[01:10:26.200 --> 01:10:29.200]   That you thought you were going to die and then you lived a little bit longer.
+[01:10:29.200 --> 01:10:33.200]   You had financial problems and God healed you and your business got better.
+[01:10:33.200 --> 01:10:36.200]   That's not the point of Christianity.
+[01:10:36.200 --> 01:10:44.200]   Every good and sometimes what perceives to be bad, ultimately, is so that you would know
+[01:10:44.200 --> 01:10:50.200]   that there is salvation in no one else but Jesus Christ.
+[01:10:50.200 --> 01:10:53.200]   That's why He's doing what He's doing.
+[01:10:53.200 --> 01:10:57.200]   That's why for three years He put Himself in those shoes.
+[01:10:57.200 --> 01:11:00.200]   That's why He traveled as far as He did.
+[01:11:00.200 --> 01:11:03.200]   That's why He humbled Himself.
+[01:11:03.200 --> 01:11:06.200]   That's why He was so tired on that boat.
+[01:11:06.200 --> 01:11:15.200]   Even the professional fishermen were afraid to dive and He couldn't wake up because He was so fatigued and tired.
+[01:11:15.200 --> 01:11:21.200]   That's why He absorbed our sins upon Himself on that cross.
+[01:11:21.200 --> 01:11:25.200]   And that's why He invites us even to this day.
+[01:11:25.200 --> 01:11:28.200]   He doesn't promise a long life. He doesn't promise a better relationship.
+[01:11:28.200 --> 01:11:34.200]   He doesn't promise a better marriage. But He promises a better eternity.
+[01:11:34.200 --> 01:11:43.200]   Only Him and Him alone has the power and authority to forgive our sins.
+[01:11:43.200 --> 01:11:56.200]   My prayer is our generation, as much as we talk about we must preach the gospel.
+[01:11:56.200 --> 01:12:00.200]   This is the gospel.
+[01:12:00.200 --> 01:12:04.200]   Not treating hunger. I'm not saying that's not important. It's important.
+[01:12:04.200 --> 01:12:09.200]   As Christians, we should exemplify who Jesus is.
+[01:12:09.200 --> 01:12:15.200]   But if all Jesus is, is an avenue for you to have a better life,
+[01:12:15.200 --> 01:12:21.200]   your eternal place is no different than those who rejected Christ.
+[01:12:21.200 --> 01:12:26.200]   If all Jesus is, that you're coming to church hoping that if you're a faithful Christian,
+[01:12:26.200 --> 01:12:30.200]   that somehow your marriage will be fixed, that your children will be better,
+[01:12:30.200 --> 01:12:37.200]   then you are in no better position than the Pharisees who crucified Christ.
+[01:12:37.200 --> 01:12:43.200]   Because you still have not found the answer for your sins.
+[01:12:43.200 --> 01:12:47.200]   Christ and Christ alone.
+[01:12:47.200 --> 01:12:55.200]   That's why this temporary band-aid that most of the world looks for,
+[01:12:55.200 --> 01:12:59.200]   actually is a curse for our generation.
+[01:12:59.200 --> 01:13:06.200]   Because we're fed, because we have housing, because we're able to go to school, put money in retirement,
+[01:13:06.200 --> 01:13:12.200]   we think that that's the blessing of God. That is not.
+[01:13:12.200 --> 01:13:18.200]   If you don't know Christ because of that, that's actually your curse.
+[01:13:18.200 --> 01:13:22.200]   Come meet Christ. Know Christ.
+[01:13:22.200 --> 01:13:27.200]   And any other Christ that you come to is not the Christ of the Bible.
+[01:13:27.200 --> 01:13:34.200]   Let's pray.
+[01:13:34.200 --> 01:13:41.200]   Again, as our worship team leads us, let's take some time to pray.
+[01:13:41.200 --> 01:13:46.200]   And ask God for a sense of urgency.
+[01:13:46.200 --> 01:13:50.200]   How long are we going to be here?
+[01:13:50.200 --> 01:13:55.200]   Some of us, five years, ten years, 20, 30 years at most.
+[01:13:55.200 --> 01:13:59.200]   Some of you may be here another 50, 60, 70 years.
+[01:13:59.200 --> 01:14:03.200]   But every single one of us, this is temporary.
+[01:14:03.200 --> 01:14:10.200]   Whether you're in first class or coach, it's temporary.
+[01:14:10.200 --> 01:14:13.200]   Let's live with an eternal perspective.
+[01:14:13.200 --> 01:14:18.200]   Let's live in a way that at the end of our life, on our deathbed,
+[01:14:18.200 --> 01:14:26.200]   that we're not going to look back the next last 50 years and say, "Ah, I wish I lived with eternity in mind."
+[01:14:26.200 --> 01:14:30.200]   Let's begin that today, not on our deathbed.
+[01:14:30.200 --> 01:14:38.200]   Let's take some time to pray as our worship team leads us.
+[01:14:38.200 --> 01:14:43.200]   [music]
+[01:14:44.200 --> 01:14:49.200]   [music]
+[01:14:49.200 --> 01:14:54.200]   [music]
+[01:14:54.200 --> 01:14:59.200]   [music]
+[01:14:59.200 --> 01:15:04.200]   [music]
+[01:15:04.200 --> 01:15:09.200]   [music]
+[01:15:09.200 --> 01:15:14.200]   [music]
+[01:15:14.200 --> 01:15:19.200]   [music]
+[01:15:19.200 --> 01:15:24.200]   [music]
+[01:15:24.200 --> 01:15:29.200]   [music]
+[01:15:29.200 --> 01:15:34.200]   [music]
+[01:15:34.200 --> 01:15:39.200]   [music]
+[01:15:39.200 --> 01:15:44.200]   [music]
+[01:15:44.200 --> 01:15:49.200]   [music]
+[01:15:49.200 --> 01:15:54.200]   [music]
+[01:15:54.200 --> 01:15:59.200]   [music]
+[01:15:59.200 --> 01:16:04.200]   [music]
+[01:16:04.200 --> 01:16:09.200]   Let's all stand up for the closing praise.
+[01:16:09.200 --> 01:16:14.200]   [music]
+[01:16:14.200 --> 01:16:19.200]   [music]
+[01:16:19.200 --> 01:16:24.200]   [music]
+[01:16:24.200 --> 01:16:29.200]   [music]
+[01:16:29.200 --> 01:16:34.200]   [music]
+[01:16:34.200 --> 01:16:39.200]   [music]
+[01:16:39.200 --> 01:16:44.200]   [music]
+[01:16:44.200 --> 01:16:49.200]   [music]
+[01:16:49.200 --> 01:16:54.200]   [music]
+[01:16:54.200 --> 01:16:59.200]   [music]
+[01:16:59.200 --> 01:17:04.200]   [music]
+[01:17:04.200 --> 01:17:09.200]   [music]
+[01:17:09.200 --> 01:17:14.200]   [music]
+[01:17:14.200 --> 01:17:19.200]   [music]
+[01:17:19.200 --> 01:17:24.200]   [music]
+[01:17:24.200 --> 01:17:29.200]   [music]
+[01:17:29.200 --> 01:17:34.200]   [music]
+[01:17:34.200 --> 01:17:39.200]   [music]
+[01:17:39.200 --> 01:17:44.200]   [music]
+[01:17:44.200 --> 01:17:49.200]   [music]
+[01:17:49.200 --> 01:17:54.200]   [music]
+[01:17:54.200 --> 01:17:59.200]   [music]
+[01:17:59.200 --> 01:18:04.200]   [music]
+[01:18:04.200 --> 01:18:09.200]   [music]
+[01:18:09.200 --> 01:18:14.200]   [music]
+[01:18:14.200 --> 01:18:19.200]   [music]
+[01:18:19.200 --> 01:18:24.200]   [music]
+[01:18:24.200 --> 01:18:29.200]   [music]
+[01:18:29.200 --> 01:18:34.200]   [music]
+[01:18:34.200 --> 01:18:39.200]   [music]
+[01:18:39.200 --> 01:18:44.200]   [music]
+[01:18:44.200 --> 01:18:49.200]   [music]
+[01:18:49.200 --> 01:18:54.200]   [music]
+[01:18:54.200 --> 01:18:59.200]   [music]
+[01:18:59.200 --> 01:19:04.200]   [music]
+[01:19:04.200 --> 01:19:09.200]   [music]
+[01:19:09.200 --> 01:19:14.200]   [music]
+[01:19:14.200 --> 01:19:19.200]   [music]
+[01:19:19.200 --> 01:19:24.200]   [music]
+[01:19:24.200 --> 01:19:29.200]   [music]
+[01:19:29.200 --> 01:19:34.200]   [music]
+[01:19:34.200 --> 01:19:39.200]   [music]
+[01:19:39.200 --> 01:19:44.200]   [music]
+[01:19:44.200 --> 01:19:49.200]   [music]
+[01:19:49.200 --> 01:19:54.200]   [music]
+[01:19:54.200 --> 01:19:59.200]   [music]
+[01:19:59.200 --> 01:20:04.200]   [music]
+[01:20:04.200 --> 01:20:09.200]   [music]
+[01:20:09.200 --> 01:20:14.200]   Let's pray.
+[01:20:14.200 --> 01:20:19.200]   [music]
+[01:20:19.200 --> 01:20:24.200]   [music]
+[01:20:24.200 --> 01:20:29.200]   [music]
+[01:20:29.200 --> 01:20:34.200]   [music]
+[01:20:34.200 --> 01:20:39.200]   [music]
+[01:20:39.200 --> 01:20:44.200]   [music]
+[01:20:44.200 --> 01:20:49.200]   [music]
+[01:20:49.200 --> 01:20:54.200]   [music]
+[01:20:54.200 --> 01:20:59.200]   [music]
+[01:20:59.200 --> 01:21:04.200]   [music]
+[01:21:04.200 --> 01:21:09.200]   [music]
+[01:21:09.200 --> 01:21:14.200]   [music]
+[01:21:14.200 --> 01:21:19.200]   [music]
+[01:21:19.200 --> 01:21:24.200]   [music]
+[01:21:24.200 --> 01:21:29.200]   [music]
+[01:21:29.200 --> 01:21:34.200]   [music]
+[01:21:34.200 --> 01:21:39.200]   [music]
+[01:21:39.200 --> 01:21:44.200]   [music]
+[01:21:44.200 --> 01:21:49.200]   [music]
+[01:21:49.200 --> 01:21:54.200]   [music]
+[01:21:54.200 --> 01:21:59.200]   [music]
+[01:21:59.200 --> 01:22:04.200]   [music]
+[01:22:04.200 --> 01:22:09.200]   [music]
+[01:22:09.200 --> 01:22:14.200]   [music]
+[01:22:14.200 --> 01:22:19.200]   [music]
+[01:22:19.200 --> 01:22:24.200]   [music]
+[01:22:24.200 --> 01:22:29.200]   [music]
+[01:22:29.200 --> 01:22:34.200]   [music]
+[01:22:34.200 --> 01:22:39.200]   [music]
+[01:22:39.200 --> 01:22:44.200]   [music]
+[01:22:44.200 --> 01:22:49.200]   [music]
+[01:22:49.200 --> 01:22:54.200]   [music]
+[01:22:54.200 --> 01:22:59.200]   [music]
+[01:22:59.200 --> 01:23:04.200]   [music]
+[01:23:04.200 --> 01:23:09.200]   [music]
+[01:23:09.200 --> 01:23:14.200]   [music]
+[01:23:14.200 --> 01:23:19.200]   [music]
+[01:23:19.200 --> 01:23:24.200]   [music]
+[01:23:24.200 --> 01:23:29.200]   [music]
+[01:23:29.200 --> 01:23:34.200]   [music]
+[01:23:34.200 --> 01:23:39.200]   [music]
+[01:23:39.200 --> 01:23:44.200]   [music]
+[01:23:44.200 --> 01:23:49.200]   [music]
+

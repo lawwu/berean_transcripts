@@ -1,0 +1,989 @@
+
+[00:00:00.000 --> 00:00:03.500]   [MUSIC PLAYING]
+[00:00:03.500 --> 00:00:07.000]   [INDISTINCT CHATTER]
+[00:00:07.000 --> 00:00:10.500]   [MUSIC PLAYING]
+[00:00:10.500 --> 00:00:14.000]   [MUSIC PLAYING]
+[00:00:14.500 --> 00:00:18.000]   [INDISTINCT CHATTER]
+[00:00:19.000 --> 00:00:22.500]   [MUSIC PLAYING]
+[00:00:22.500 --> 00:00:26.000]   [INDISTINCT CHATTER]
+[00:00:26.000 --> 00:00:29.500]   [MUSIC PLAYING]
+[00:00:29.500 --> 00:00:33.000]   [INDISTINCT CHATTER]
+[00:00:33.000 --> 00:00:36.500]   [MUSIC PLAYING]
+[00:00:36.500 --> 00:00:40.000]   [INDISTINCT CHATTER]
+[00:00:40.000 --> 00:00:43.500]   [MUSIC PLAYING]
+[00:00:43.500 --> 00:00:47.000]   [INDISTINCT CHATTER]
+[00:00:47.000 --> 00:00:50.500]   [MUSIC PLAYING]
+[00:00:50.500 --> 00:00:54.000]   [INDISTINCT CHATTER]
+[00:00:54.000 --> 00:00:57.500]   [MUSIC PLAYING]
+[00:00:57.500 --> 00:01:01.000]   [INDISTINCT CHATTER]
+[00:01:01.000 --> 00:01:04.500]   [MUSIC PLAYING]
+[00:01:04.500 --> 00:01:08.000]   [INDISTINCT CHATTER]
+[00:01:08.000 --> 00:01:11.500]   [MUSIC PLAYING]
+[00:01:11.500 --> 00:01:15.000]   [INDISTINCT CHATTER]
+[00:01:15.000 --> 00:01:18.500]   [MUSIC PLAYING]
+[00:01:18.500 --> 00:01:22.000]   [INDISTINCT CHATTER]
+[00:01:22.000 --> 00:01:25.500]   [MUSIC PLAYING]
+[00:01:25.500 --> 00:01:29.000]   [INDISTINCT CHATTER]
+[00:01:29.000 --> 00:01:32.500]   [MUSIC PLAYING]
+[00:01:32.500 --> 00:01:36.000]   [INDISTINCT CHATTER]
+[00:01:36.000 --> 00:01:39.500]   [MUSIC PLAYING]
+[00:01:39.500 --> 00:01:43.000]   [INDISTINCT CHATTER]
+[00:01:43.000 --> 00:01:46.500]   [MUSIC PLAYING]
+[00:01:46.500 --> 00:01:50.000]   [INDISTINCT CHATTER]
+[00:01:50.000 --> 00:01:53.500]   [MUSIC PLAYING]
+[00:01:53.500 --> 00:01:57.000]   [INDISTINCT CHATTER]
+[00:01:57.000 --> 00:02:00.500]   [MUSIC PLAYING]
+[00:02:00.500 --> 00:02:04.000]   [INDISTINCT CHATTER]
+[00:02:04.000 --> 00:02:07.500]   [MUSIC PLAYING]
+[00:02:07.500 --> 00:02:11.000]   [INDISTINCT CHATTER]
+[00:02:11.000 --> 00:02:14.500]   [MUSIC PLAYING]
+[00:02:14.500 --> 00:02:18.000]   [INDISTINCT CHATTER]
+[00:02:18.000 --> 00:02:21.500]   [MUSIC PLAYING]
+[00:02:21.500 --> 00:02:25.000]   [INDISTINCT CHATTER]
+[00:02:25.000 --> 00:02:28.500]   [MUSIC PLAYING]
+[00:02:28.500 --> 00:02:32.000]   [INDISTINCT CHATTER]
+[00:02:32.000 --> 00:02:35.500]   [MUSIC PLAYING]
+[00:02:35.500 --> 00:02:39.000]   [INDISTINCT CHATTER]
+[00:02:39.000 --> 00:02:42.500]   [MUSIC PLAYING]
+[00:02:42.500 --> 00:02:46.000]   [INDISTINCT CHATTER]
+[00:02:46.000 --> 00:02:49.500]   [MUSIC PLAYING]
+[00:02:49.500 --> 00:02:53.000]   [INDISTINCT CHATTER]
+[00:02:53.000 --> 00:02:56.500]   [MUSIC PLAYING]
+[00:02:56.500 --> 00:03:00.000]   [INDISTINCT CHATTER]
+[00:03:00.000 --> 00:03:03.500]   [MUSIC PLAYING]
+[00:03:03.500 --> 00:03:07.000]   [INDISTINCT CHATTER]
+[00:03:07.000 --> 00:03:10.500]   [MUSIC PLAYING]
+[00:03:10.500 --> 00:03:14.000]   [INDISTINCT CHATTER]
+[00:03:14.000 --> 00:03:17.500]   [MUSIC PLAYING]
+[00:03:17.500 --> 00:03:21.000]   [INDISTINCT CHATTER]
+[00:03:21.000 --> 00:03:24.500]   [MUSIC PLAYING]
+[00:03:24.500 --> 00:03:28.000]   [INDISTINCT CHATTER]
+[00:03:28.000 --> 00:03:31.500]   [MUSIC PLAYING]
+[00:03:31.500 --> 00:03:35.000]   [INDISTINCT CHATTER]
+[00:03:35.000 --> 00:03:38.500]   [MUSIC PLAYING]
+[00:03:38.500 --> 00:03:42.000]   [INDISTINCT CHATTER]
+[00:03:42.000 --> 00:03:45.500]   [MUSIC PLAYING]
+[00:03:45.500 --> 00:03:49.000]   [INDISTINCT CHATTER]
+[00:03:49.000 --> 00:03:52.500]   [MUSIC PLAYING]
+[00:03:52.500 --> 00:03:56.000]   [INDISTINCT CHATTER]
+[00:03:56.000 --> 00:03:59.500]   [MUSIC PLAYING]
+[00:03:59.500 --> 00:04:03.000]   [INDISTINCT CHATTER]
+[00:04:03.000 --> 00:04:06.500]   [MUSIC PLAYING]
+[00:04:06.500 --> 00:04:10.000]   [INDISTINCT CHATTER]
+[00:04:10.000 --> 00:04:13.500]   [MUSIC PLAYING]
+[00:04:13.500 --> 00:04:17.000]   [INDISTINCT CHATTER]
+[00:04:17.000 --> 00:04:20.500]   [MUSIC PLAYING]
+[00:04:20.500 --> 00:04:24.000]   [INDISTINCT CHATTER]
+[00:04:24.000 --> 00:04:27.500]   [MUSIC PLAYING]
+[00:04:27.500 --> 00:04:31.000]   [INDISTINCT CHATTER]
+[00:04:31.000 --> 00:04:34.500]   [MUSIC PLAYING]
+[00:04:34.500 --> 00:04:38.000]   [INDISTINCT CHATTER]
+[00:04:38.000 --> 00:04:41.500]   [MUSIC PLAYING]
+[00:04:41.500 --> 00:04:45.000]   [INDISTINCT CHATTER]
+[00:04:45.000 --> 00:04:48.500]   [MUSIC PLAYING]
+[00:04:48.500 --> 00:04:52.000]   [INDISTINCT CHATTER]
+[00:04:52.000 --> 00:04:55.500]   [MUSIC PLAYING]
+[00:04:55.500 --> 00:04:59.000]   [INDISTINCT CHATTER]
+[00:04:59.000 --> 00:05:02.500]   [MUSIC PLAYING]
+[00:05:02.500 --> 00:05:06.000]   [INDISTINCT CHATTER]
+[00:05:06.000 --> 00:05:09.500]   [MUSIC PLAYING]
+[00:05:09.500 --> 00:05:26.000]   Sing holy.
+[00:05:26.000 --> 00:05:37.000]   Holy, holy, holy, Lord God almighty.
+[00:05:37.000 --> 00:05:49.000]   Early in the morning our song shall rise to thee.
+[00:05:49.000 --> 00:06:00.500]   Holy, holy, holy, merciful and mighty.
+[00:06:00.500 --> 00:06:08.500]   God in three persons, blessed Trinity.
+[00:06:09.500 --> 00:06:13.000]   [MUSIC PLAYING]
+[00:06:13.000 --> 00:06:37.500]   Holy, holy, holy, all the saints adore thee.
+[00:06:37.500 --> 00:06:49.500]   Casting down their golden crowns around the glassy sea.
+[00:06:49.500 --> 00:07:01.000]   Cherubim and seraphim falling down before thee.
+[00:07:01.000 --> 00:07:11.000]   Who was and is and evermore shall be.
+[00:07:11.000 --> 00:07:14.500]   [MUSIC PLAYING]
+[00:07:27.000 --> 00:07:38.500]   Holy, holy, holy, though the darkness hide thee.
+[00:07:38.500 --> 00:07:50.000]   Though the eye of sinful man thy glory may not see.
+[00:07:50.000 --> 00:08:02.000]   Ye thou art holy, there is none beside thee.
+[00:08:02.000 --> 00:08:10.500]   Perfect in power, love and truth.
+[00:08:10.500 --> 00:08:14.000]   [MUSIC PLAYING]
+[00:08:14.000 --> 00:08:17.500]   [MUSIC PLAYING]
+[00:08:17.500 --> 00:08:39.500]   Holy, holy, holy, Lord God almighty.
+[00:08:39.500 --> 00:08:46.000]   All thy works shall praise thy name.
+[00:08:46.000 --> 00:08:51.000]   Heavens sky and sea.
+[00:08:51.000 --> 00:09:02.000]   Holy, holy, holy, merciful and mighty.
+[00:09:02.000 --> 00:09:10.000]   God in three persons, blessed Trinity.
+[00:09:10.000 --> 00:09:13.500]   God in three persons.
+[00:09:13.500 --> 00:09:22.000]   God in three persons, blessed Trinity.
+[00:09:22.000 --> 00:09:31.000]   All right, good morning.
+[00:09:31.000 --> 00:09:33.500]   Welcome to Breen Community Church, both those of you who
+[00:09:33.500 --> 00:09:36.800]   are here physically and those of you who are online.
+[00:09:36.800 --> 00:09:40.100]   I know that, again, as I was leaving the home this morning,
+[00:09:40.100 --> 00:09:43.700]   Esther kind of pointed out that the toilet paper is running out
+[00:09:43.700 --> 00:09:45.800]   in all the grocery stores.
+[00:09:45.800 --> 00:09:47.000]   And so what's going on?
+[00:09:47.000 --> 00:09:49.600]   And obviously, the election is coming in Tuesday.
+[00:09:49.600 --> 00:09:51.600]   And I think a lot of people are anticipating
+[00:09:51.600 --> 00:09:54.100]   that there's going to be some turmoil that comes after that.
+[00:09:54.100 --> 00:09:56.500]   So let's keep the situation in prayer.
+[00:09:56.500 --> 00:10:00.300]   And be alert and get some toilet paper if you don't have it.
+[00:10:00.300 --> 00:10:02.400]   So just be ready for it.
+[00:10:02.400 --> 00:10:03.800]   We have a few announcements.
+[00:10:03.800 --> 00:10:08.500]   College car rally is happening on November 14th at 2 p.m.
+[00:10:08.500 --> 00:10:10.300]   And so they're going to be having activities.
+[00:10:10.300 --> 00:10:13.800]   And they also are allowing the virtual students to be on.
+[00:10:13.800 --> 00:10:15.900]   So I'm not exactly sure how they're going to be running that.
+[00:10:15.900 --> 00:10:18.900]   But if you want to ask questions, either ask the Dulaw's
+[00:10:18.900 --> 00:10:21.800]   team or ask Pastor Nate, and he'll give you more information
+[00:10:21.800 --> 00:10:22.900]   about that.
+[00:10:22.900 --> 00:10:23.900]   Okay?
+[00:10:23.900 --> 00:10:27.700]   We have a maintenance day that's happening on November 14th.
+[00:10:27.700 --> 00:10:29.800]   And it's the same day as the college rally,
+[00:10:29.800 --> 00:10:32.000]   from 8.30 to 11.30 a.m.
+[00:10:32.000 --> 00:10:34.900]   So we're asking as many of you to come and volunteer.
+[00:10:34.900 --> 00:10:37.300]   We need to clean up the church and get the church ready.
+[00:10:37.300 --> 00:10:39.500]   Because that Sunday, on the 15th,
+[00:10:39.500 --> 00:10:42.300]   we're having the three- and four-year-olds
+[00:10:42.300 --> 00:10:43.600]   come back to church.
+[00:10:43.600 --> 00:10:49.600]   So our nursery, the SEEDS team, is receiving them back.
+[00:10:49.600 --> 00:10:52.200]   So if you're a parent of one of these children
+[00:10:52.200 --> 00:10:53.600]   and you are planning to bring them,
+[00:10:53.600 --> 00:10:56.400]   you do need to sign up as soon as possible.
+[00:10:56.400 --> 00:10:58.400]   And so if you're not signed up, they're not going to allow you
+[00:10:58.400 --> 00:11:01.500]   to come because they're going to try to set the room up
+[00:11:01.500 --> 00:11:03.500]   to accommodate the students that are able to come.
+[00:11:03.500 --> 00:11:07.100]   So again, we apologize for the infants up to two years old
+[00:11:07.100 --> 00:11:09.900]   because we're not going to be able to practice
+[00:11:09.900 --> 00:11:12.200]   the safe distancing, that stuff, with those children.
+[00:11:12.200 --> 00:11:13.200]   Not yet.
+[00:11:13.200 --> 00:11:16.400]   So right now, it will just be three- and four-year-olds.
+[00:11:16.400 --> 00:11:16.900]   Okay?
+[00:11:16.900 --> 00:11:18.400]   So for that reason, we're doing maintenance,
+[00:11:18.400 --> 00:11:20.100]   obviously not only for there, but again,
+[00:11:20.100 --> 00:11:23.900]   to clean up and get the church ready for more of our church
+[00:11:23.900 --> 00:11:26.500]   members to come back to church.
+[00:11:26.500 --> 00:11:29.700]   Lastly, we have a special seminar happening on that Sunday,
+[00:11:29.700 --> 00:11:33.100]   on November 15th, the Worldview of Secular Social Justice,
+[00:11:33.100 --> 00:11:34.800]   Critical Race Theory.
+[00:11:34.800 --> 00:11:36.500]   And so the format basically is going
+[00:11:36.500 --> 00:11:40.500]   to be a presentation of what the critical race theory is
+[00:11:40.500 --> 00:11:43.500]   and how this affects our worldview as Christians.
+[00:11:43.500 --> 00:11:45.500]   And so Elder James is going to be doing
+[00:11:45.500 --> 00:11:47.700]   the technical side of it, the presenting
+[00:11:47.700 --> 00:11:51.000]   and some of the biblical things, how we ought
+[00:11:51.000 --> 00:11:53.300]   to understand that properly.
+[00:11:53.300 --> 00:11:54.600]   I know that there's a lot of people
+[00:11:54.600 --> 00:11:56.900]   who have questions about that, may have been confused.
+[00:11:56.900 --> 00:11:59.100]   Some of you may have never even heard of this theory,
+[00:11:59.100 --> 00:12:00.300]   critical race theory.
+[00:12:00.300 --> 00:12:02.200]   And again, so it's a great opportunity
+[00:12:02.200 --> 00:12:05.100]   to learn and hopefully get a biblical perspective on that.
+[00:12:05.100 --> 00:12:07.600]   And we do have Q&A. And the space
+[00:12:07.600 --> 00:12:10.100]   is limited because we're going to be having it in here,
+[00:12:10.100 --> 00:12:12.400]   and we only had about 120 chairs in here.
+[00:12:12.400 --> 00:12:14.800]   And so if you are planning to come,
+[00:12:14.800 --> 00:12:16.100]   you do need to sign up for that.
+[00:12:16.100 --> 00:12:18.600]   And there is a place where you can ask questions.
+[00:12:18.600 --> 00:12:20.000]   So the second part of it is we're
+[00:12:20.000 --> 00:12:22.900]   going to try to answer those questions as they come in.
+[00:12:22.900 --> 00:12:25.000]   And it will not be Zoomed online.
+[00:12:25.000 --> 00:12:26.700]   It will only be the physical presence,
+[00:12:26.700 --> 00:12:28.200]   and it will be after service.
+[00:12:28.200 --> 00:12:30.700]   So it'll be giving time to go and grab lunch, and then
+[00:12:30.700 --> 00:12:32.900]   come back, and at 1:30 we'll start.
+[00:12:32.900 --> 00:12:37.400]   So if you are planning to do that, please sign up ASAP.
+[00:12:37.400 --> 00:12:40.600]   Outside of that, I'm going to pray for our offering.
+[00:12:40.600 --> 00:12:43.100]   And then again, our physical offering is in the back.
+[00:12:43.100 --> 00:12:45.300]   For those of you online, we'll give you a few minutes
+[00:12:45.300 --> 00:12:46.300]   to be able to give.
+[00:12:46.300 --> 00:12:47.300]   So let's pray together.
+[00:12:50.500 --> 00:12:55.400]   Gracious Father, we thank you so much for loving us,
+[00:12:55.400 --> 00:12:58.000]   for thinking of us.
+[00:12:58.000 --> 00:13:03.500]   Who are we, Lord God, that you are mindful of all of us?
+[00:13:03.500 --> 00:13:07.100]   I pray, Lord God, that that truth,
+[00:13:07.100 --> 00:13:09.400]   the foundation of the gospel truth, Lord God,
+[00:13:09.400 --> 00:13:13.000]   would always cause us to be sober in the way that we live,
+[00:13:13.000 --> 00:13:17.100]   what we pursue, what it is that we hope for.
+[00:13:17.100 --> 00:13:19.600]   We pray, Father God, that our worship may truly
+[00:13:19.600 --> 00:13:21.700]   be given to you in spirit and in truth,
+[00:13:21.700 --> 00:13:23.800]   that you may be pleased with it.
+[00:13:23.800 --> 00:13:26.300]   We ask, Lord God, that you would keep us sober and grounded
+[00:13:26.300 --> 00:13:26.900]   in Christ.
+[00:13:26.900 --> 00:13:29.700]   Help us be anchored in Jesus, author and perfector
+[00:13:29.700 --> 00:13:31.300]   of our faith.
+[00:13:31.300 --> 00:13:34.700]   And even in our giving, help us to give cheerfully, joyfully,
+[00:13:34.700 --> 00:13:36.200]   purposefully.
+[00:13:36.200 --> 00:13:38.500]   May it be multiplied for your use in your kingdom.
+[00:13:38.500 --> 00:13:39.700]   In Jesus' name we pray.
+[00:13:39.700 --> 00:13:40.200]   Amen.
+[00:13:40.200 --> 00:13:43.500]   [MUSIC PLAYING]
+[00:13:43.500 --> 00:13:46.900]   [MUSIC PLAYING]
+[00:13:46.900 --> 00:13:57.700]   Church family, let's all rise together
+[00:13:57.700 --> 00:14:01.300]   for those who are in this room, outside, and even virtually
+[00:14:01.300 --> 00:14:02.700]   if you're joining us.
+[00:14:02.700 --> 00:14:06.100]   [MUSIC PLAYING]
+[00:14:06.100 --> 00:14:09.500]   [MUSIC PLAYING]
+[00:14:09.500 --> 00:14:21.100]   Blessed be your name, the land that is plentiful,
+[00:14:21.100 --> 00:14:25.100]   which streams of abundance flow.
+[00:14:25.100 --> 00:14:26.500]   Blessed be your name.
+[00:14:30.100 --> 00:14:33.100]   Blessed be your name.
+[00:14:33.100 --> 00:14:37.100]   When I'm found in the desert place,
+[00:14:37.100 --> 00:14:41.100]   go on through the wilderness.
+[00:14:41.100 --> 00:14:43.100]   Blessed be your name.
+[00:14:43.100 --> 00:14:46.100]   Every blessing.
+[00:14:46.100 --> 00:14:54.100]   Every blessing, for out I'll turn back to pray.
+[00:14:54.100 --> 00:15:01.100]   When the darkness closes in, Lord, still I will say,
+[00:15:01.100 --> 00:15:05.100]   blessed be the name of the Lord.
+[00:15:05.100 --> 00:15:09.100]   Blessed be your name.
+[00:15:09.100 --> 00:15:13.100]   Blessed be the name of the Lord.
+[00:15:13.100 --> 00:15:16.100]   Blessed be your glorious name.
+[00:15:21.100 --> 00:15:24.100]   Blessed be your name.
+[00:15:24.100 --> 00:15:28.100]   When the sun's shining down on me,
+[00:15:28.100 --> 00:15:32.100]   when the world's all as it should be,
+[00:15:32.100 --> 00:15:34.100]   blessed be your name.
+[00:15:34.100 --> 00:15:37.100]   Blessed be your name.
+[00:15:37.100 --> 00:15:40.100]   Blessed be your name.
+[00:15:40.100 --> 00:15:44.100]   On the road marked with suffering,
+[00:15:44.100 --> 00:15:48.100]   there is pain in the offering.
+[00:15:48.100 --> 00:15:50.100]   Blessed be your name.
+[00:15:50.100 --> 00:15:53.100]   Every blessing.
+[00:15:53.100 --> 00:16:01.100]   Every blessing, for out I'll turn back to pray.
+[00:16:01.100 --> 00:16:08.100]   When the darkness closes in, Lord, still I will say,
+[00:16:08.100 --> 00:16:12.100]   blessed be the name of the Lord.
+[00:16:12.100 --> 00:16:16.100]   Blessed be your name.
+[00:16:16.100 --> 00:16:20.100]   Blessed be the name of the Lord.
+[00:16:20.100 --> 00:16:24.100]   Blessed be your glorious name.
+[00:16:24.100 --> 00:16:28.100]   Blessed be the name of the Lord.
+[00:16:28.100 --> 00:16:32.100]   Blessed be your name.
+[00:16:32.100 --> 00:16:36.100]   Blessed be the name of the Lord.
+[00:16:36.100 --> 00:16:41.100]   Blessed be your glorious name.
+[00:16:41.100 --> 00:16:43.100]   Give and take.
+[00:16:43.100 --> 00:16:47.100]   Give and take away.
+[00:16:47.100 --> 00:16:51.100]   Give and take away.
+[00:16:51.100 --> 00:16:55.100]   My heart will choose to say,
+[00:16:55.100 --> 00:16:59.100]   blessed be your champion.
+[00:16:59.100 --> 00:17:03.100]   Give and take away.
+[00:17:03.100 --> 00:17:07.100]   Give and take away.
+[00:17:07.100 --> 00:17:11.100]   My heart will choose to say,
+[00:17:11.100 --> 00:17:16.100]   blessed be your name.
+[00:17:16.100 --> 00:17:20.100]   Blessed be the name of the Lord.
+[00:17:20.100 --> 00:17:24.100]   Blessed be your name.
+[00:17:24.100 --> 00:17:28.100]   Blessed be the name of the Lord.
+[00:17:28.100 --> 00:17:32.100]   Blessed be your glorious name.
+[00:17:32.100 --> 00:17:36.100]   Blessed be the name of the Lord.
+[00:17:36.100 --> 00:17:40.100]   Blessed be your name.
+[00:17:40.100 --> 00:17:44.100]   Blessed be the name of the Lord.
+[00:17:44.100 --> 00:17:48.100]   Blessed be your glorious name.
+[00:18:07.100 --> 00:18:12.100]   My worth is not in what I own,
+[00:18:12.100 --> 00:18:18.100]   not in the strength of flesh and bone,
+[00:18:18.100 --> 00:18:29.100]   but in the costly wounds of love at the cross.
+[00:18:29.100 --> 00:18:34.100]   My worth is not in skill or name,
+[00:18:34.100 --> 00:18:40.100]   in win or lose, in pride or shame,
+[00:18:40.100 --> 00:18:52.100]   but in the blood of Christ that flowed at the cross.
+[00:18:52.100 --> 00:18:56.100]   I rejoice in my Redeemer,
+[00:18:56.100 --> 00:18:59.100]   greatest treasure,
+[00:18:59.100 --> 00:19:03.100]   wellspring of my soul.
+[00:19:03.100 --> 00:19:07.100]   I will trust in Him, no other.
+[00:19:07.100 --> 00:19:13.100]   My soul is satisfied in Him alone.
+[00:19:13.100 --> 00:19:27.100]   As summer flowers we fade at night,
+[00:19:27.100 --> 00:19:33.100]   and youth and beauty depart,
+[00:19:33.100 --> 00:19:44.100]   but life eternal calls to us.
+[00:19:44.100 --> 00:19:49.100]   I will not boast in wealth or might,
+[00:19:49.100 --> 00:19:55.100]   or human wisdom's fleeting life,
+[00:19:55.100 --> 00:20:03.100]   but I will boast in knowing Christ at the cross.
+[00:20:03.100 --> 00:20:11.100]   I rejoice in my Redeemer,
+[00:20:11.100 --> 00:20:14.100]   greatest treasure,
+[00:20:14.100 --> 00:20:17.100]   wellspring of my soul.
+[00:20:17.100 --> 00:20:22.100]   I will trust in Him, no other.
+[00:20:22.100 --> 00:20:27.100]   My soul is satisfied in Him alone.
+[00:20:27.100 --> 00:20:45.100]   Two wonders here,
+[00:20:47.100 --> 00:20:52.100]   Two wonders here that I confess,
+[00:20:52.100 --> 00:20:58.100]   my worth and my unworthiness,
+[00:20:58.100 --> 00:21:04.100]   my value fixed, my ransom paid.
+[00:21:04.100 --> 00:21:07.100]   Oh, sing it out, I rejoice.
+[00:21:07.100 --> 00:21:14.100]   I rejoice in my Redeemer,
+[00:21:14.100 --> 00:21:17.100]   greatest treasure,
+[00:21:17.100 --> 00:21:21.100]   wellspring of my soul.
+[00:21:21.100 --> 00:21:25.100]   I will trust in Him, no other.
+[00:21:25.100 --> 00:21:30.100]   My soul is satisfied in Him alone.
+[00:21:30.100 --> 00:21:36.100]   I rejoice in my Redeemer,
+[00:21:36.100 --> 00:21:39.100]   greatest treasure,
+[00:21:39.100 --> 00:21:43.100]   wellspring of my soul.
+[00:21:43.100 --> 00:21:48.100]   I will trust in Him, no other.
+[00:21:48.100 --> 00:21:53.100]   My soul is satisfied in Him alone.
+[00:21:53.100 --> 00:22:10.100]   If you can turn your Bibles with me to Hebrews chapter 11.
+[00:22:12.100 --> 00:22:14.100]   Hebrews chapter 11.
+[00:22:14.100 --> 00:22:18.100]   We're continuing our series with the heroes of faith in Hebrews chapter 11.
+[00:22:18.100 --> 00:22:20.100]   And we've talked about Adam.
+[00:22:20.100 --> 00:22:25.100]   Sorry, not Adam, Abel.
+[00:22:25.100 --> 00:22:28.100]   OK, and the second person up is Enoch.
+[00:22:28.100 --> 00:22:32.100]   So we're going to be reading verse five and six.
+[00:22:32.100 --> 00:22:34.100]   And reading out of the NASB.
+[00:22:38.100 --> 00:22:42.100]   By faith Enoch was taken up so that he would not see death.
+[00:22:42.100 --> 00:22:45.100]   And he was not found because God took him up.
+[00:22:45.100 --> 00:22:50.100]   For he obtained a witness that before his being taken up, he was pleasing to God.
+[00:22:50.100 --> 00:22:53.100]   And without faith it is impossible to please him.
+[00:22:53.100 --> 00:22:56.100]   For he who comes to God must believe that he is,
+[00:22:56.100 --> 00:22:59.100]   and that he is a rewarder of those who seek him.
+[00:22:59.100 --> 00:23:01.100]   Let's pray.
+[00:23:01.100 --> 00:23:03.100]   Father, we pray for your mercy.
+[00:23:03.100 --> 00:23:06.100]   We pray, Father God, that your anointed word
+[00:23:06.100 --> 00:23:12.100]   would shape our hearts, our thoughts, our hopes, our joy, our life.
+[00:23:12.100 --> 00:23:14.100]   We ask, Lord God, that you would bless this time.
+[00:23:14.100 --> 00:23:16.100]   In Jesus' name we pray, amen.
+[00:23:16.100 --> 00:23:22.100]   You know, I think this Friday, I think many of you who are here,
+[00:23:22.100 --> 00:23:25.100]   we had an opportunity to pray together.
+[00:23:25.100 --> 00:23:29.100]   And I think we were all very encouraged by our two sisters, Dawn and Ariel,
+[00:23:29.100 --> 00:23:32.100]   as they are experiencing, again, some persecution
+[00:23:32.100 --> 00:23:36.100]   because of standing up for their Christian faith.
+[00:23:36.100 --> 00:23:41.100]   About how, again, right now with anybody who is in the medical field,
+[00:23:41.100 --> 00:23:47.100]   with gender transition therapy that's going on,
+[00:23:47.100 --> 00:23:50.100]   and they're beginning to ask medical workers to sign,
+[00:23:50.100 --> 00:23:53.100]   saying that they approve this or for this.
+[00:23:53.100 --> 00:23:55.100]   And just by saying that they don't agree,
+[00:23:55.100 --> 00:23:59.100]   they are receiving intense persecution for that.
+[00:23:59.100 --> 00:24:07.100]   And again, going forward, I think that is going to be happening more and more.
+[00:24:07.100 --> 00:24:11.100]   We've always known persecution was going to come.
+[00:24:11.100 --> 00:24:13.100]   I've mentioned it before.
+[00:24:13.100 --> 00:24:17.100]   At some point in our life, we knew it was going to come,
+[00:24:17.100 --> 00:24:21.100]   but what is surprising is just how quickly it came.
+[00:24:21.100 --> 00:24:25.100]   That we have currently a presidential candidate
+[00:24:25.100 --> 00:24:32.100]   who has openly said that if you go against the LGBTQ agenda,
+[00:24:32.100 --> 00:24:35.100]   that you will be put on a terrorist list,
+[00:24:35.100 --> 00:24:39.100]   that we're not going to be able to hide against our religious freedom
+[00:24:39.100 --> 00:24:43.100]   to mask our hatred and racism.
+[00:24:43.100 --> 00:24:46.100]   And so, therefore, they're going to be passing laws
+[00:24:46.100 --> 00:24:51.100]   or preventing churches from basically practicing our faith
+[00:24:51.100 --> 00:24:54.100]   that we believe to be true in Scripture.
+[00:24:54.100 --> 00:24:59.100]   And the fact that that is here, whether he gets elected or not,
+[00:24:59.100 --> 00:25:04.100]   the general social setting right now has adopted that.
+[00:25:04.100 --> 00:25:09.100]   So the question that we have to ask ourselves and answer ahead of time,
+[00:25:09.100 --> 00:25:13.100]   have we counted the cost?
+[00:25:13.100 --> 00:25:15.100]   The Bible clearly tells us,
+[00:25:15.100 --> 00:25:17.100]   and those of you who are starting through Thessalonians,
+[00:25:17.100 --> 00:25:20.100]   Paul says in a short period of time that he was there,
+[00:25:20.100 --> 00:25:23.100]   he warned them again and again that this is what's going to happen
+[00:25:23.100 --> 00:25:26.100]   if you follow Jesus Christ, persecution is going to come.
+[00:25:26.100 --> 00:25:31.100]   And he's writing this letter to make sure that they're withstanding the persecution.
+[00:25:31.100 --> 00:25:39.100]   Well, what you and I have been experiencing in America is very unique to us.
+[00:25:39.100 --> 00:25:40.100]   This is not normal Christianity.
+[00:25:40.100 --> 00:25:43.100]   We look at what's going on in North Korea and India and China,
+[00:25:43.100 --> 00:25:48.100]   missionaries who are being kicked out and having to find new places to evangelize.
+[00:25:48.100 --> 00:25:51.100]   This is happening all over the world.
+[00:25:51.100 --> 00:25:55.100]   What is unique is what you and I have experienced during our lifetime,
+[00:25:55.100 --> 00:25:59.100]   and that is possibly coming to an end pretty quickly.
+[00:25:59.100 --> 00:26:03.100]   That there is going to come a time, whether it is in months,
+[00:26:03.100 --> 00:26:08.100]   I don't think in decades, where there is going to be a litmus test.
+[00:26:08.100 --> 00:26:11.100]   If you want to be a part of the university as a student,
+[00:26:11.100 --> 00:26:18.100]   there may be a statement that you have to sign off on in order for you to be accepted.
+[00:26:18.100 --> 00:26:20.100]   And you're going to be faced with the decision,
+[00:26:20.100 --> 00:26:25.100]   "Am I going to compromise in order to be a student in this university?
+[00:26:25.100 --> 00:26:32.100]   Am I going to, in order to get a bank loan, am I going to have to deny my faith to do that?"
+[00:26:32.100 --> 00:26:36.100]   Right now, a lot of the school teachers in California are beginning to face that scrutiny.
+[00:26:36.100 --> 00:26:42.100]   In order to be a credentialed teacher, CTA is pushing hard that you must.
+[00:26:42.100 --> 00:26:47.100]   They're going to weed out anybody who doesn't profess and is going to push their agenda,
+[00:26:47.100 --> 00:26:51.100]   which is directly against what we profess in Scripture.
+[00:26:51.100 --> 00:26:57.100]   If we do not, and if we are not prepared for that, and you don't deal with that until that time comes,
+[00:26:57.100 --> 00:27:01.100]   the odds that we will end up compromising, or somehow we will justify
+[00:27:01.100 --> 00:27:05.100]   that the only way for us to survive is to compromise, at least publicly deny the faith,
+[00:27:05.100 --> 00:27:09.100]   even though inwardly that we believe something different.
+[00:27:09.100 --> 00:27:14.100]   And that's why the Bible has been telling us over and over again to count the costs.
+[00:27:14.100 --> 00:27:19.100]   There will come a day where it will be difficult or impossible for you to be a teacher in California.
+[00:27:19.100 --> 00:27:23.100]   Anybody who's in the medical field, I think you already know the pressure.
+[00:27:23.100 --> 00:27:26.100]   Whether you are a student or a medical doctor or you're a nurse,
+[00:27:26.100 --> 00:27:31.100]   whatever it is in the medical field that has been already being pushed vigorously,
+[00:27:31.100 --> 00:27:37.100]   hired for a job, you're being threatened left and right.
+[00:27:37.100 --> 00:27:40.100]   Some of you guys may already feel that. Some of you guys see it coming.
+[00:27:40.100 --> 00:27:45.100]   Some of us are unaware, but that persecution is already here.
+[00:27:45.100 --> 00:27:51.100]   I say all of this because this is directly related to the passage that we're looking at in Hebrews 11.
+[00:27:51.100 --> 00:27:55.100]   These are the same people at one point in the beginning when the persecution started,
+[00:27:55.100 --> 00:28:00.100]   they were joyfully willing to have their stuff confiscated.
+[00:28:00.100 --> 00:28:04.100]   They visited their friends who were going to jail, and they were supporting them.
+[00:28:04.100 --> 00:28:09.100]   But the problem was it didn't relent. In fact, it kept on growing.
+[00:28:09.100 --> 00:28:15.100]   And so after years of this, they began to drift back to their old life.
+[00:28:15.100 --> 00:28:19.100]   They were not denying Christ. So if you look at Hebrews and the things that we studied,
+[00:28:19.100 --> 00:28:27.100]   we know that he's not dealing necessarily with specifics of Christology that they were denying.
+[00:28:27.100 --> 00:28:30.100]   Because the thing that was happening is they were just compromising.
+[00:28:30.100 --> 00:28:33.100]   They were just drifting. They weren't taking their faith seriously.
+[00:28:33.100 --> 00:28:38.100]   And so they were taking a bit of the persecutors, their doctrines of Judaism,
+[00:28:38.100 --> 00:28:41.100]   and they were synchronizing, they were mixing it up with the Christian faith,
+[00:28:41.100 --> 00:28:46.100]   so that they would not be persecuted by the Christians or the Jews.
+[00:28:46.100 --> 00:28:49.100]   They were trying to maintain their life where they could have it all.
+[00:28:49.100 --> 00:28:54.100]   And so they were beginning to drift into their old way of life to avoid some of this persecution.
+[00:28:54.100 --> 00:28:58.100]   So the pressure was beginning to get to them. And that's why the author of Hebrews was writing to them
+[00:28:58.100 --> 00:29:03.100]   to be anchored in Christ, to be anchored in Christ, to be anchored in Christ, not to drift.
+[00:29:03.100 --> 00:29:09.100]   And that's where we are here in chapter 11, because he's writing to people who are in the midst of intense persecution
+[00:29:09.100 --> 00:29:17.100]   to hold on strong. And it is absolutely relevant to our current situation.
+[00:29:17.100 --> 00:29:22.100]   So again, some of you guys I've already talked to are experiencing intense pressure.
+[00:29:22.100 --> 00:29:29.100]   Some of you guys see it coming. A few of you may not know what's going on.
+[00:29:29.100 --> 00:29:40.100]   But we, again, our political leaders have openly said that they are not going to allow biblical Christianity to go unpunished.
+[00:29:40.100 --> 00:29:44.100]   You know, the benefit of living in the United States was that this country is founded upon
+[00:29:44.100 --> 00:29:48.100]   people who are escaping religious persecution.
+[00:29:48.100 --> 00:29:56.100]   And so one of the greatest freedoms that you and I have experienced in this country is freedom of religion.
+[00:29:56.100 --> 00:30:01.100]   That we are able to live out our faith. And when they signed into their document the separation of church and state,
+[00:30:01.100 --> 00:30:04.100]   it was for the purpose of protecting the church.
+[00:30:04.100 --> 00:30:10.100]   That the state would not come in and mandate what you can and cannot believe inside the walls of your church.
+[00:30:10.100 --> 00:30:14.100]   It was not for the purpose of protecting the government.
+[00:30:14.100 --> 00:30:19.100]   It was exactly the opposite. Now the tides have turned, and they're interpreting that as,
+[00:30:19.100 --> 00:30:27.100]   we cannot allow the churches to dictate what we have in government. Even if we have to shut some of these things down.
+[00:30:27.100 --> 00:30:32.100]   Well, like I said, what you and I have experienced in this country has been a blessing,
+[00:30:32.100 --> 00:30:38.100]   but it is not out of the ordinary. It is not unbiblical that this stage may be passing by.
+[00:30:38.100 --> 00:30:44.100]   You and I are entering into a stage in this country where nominal Christianity will not be tolerated.
+[00:30:44.100 --> 00:30:50.100]   You can't casually no longer walk with God. You have to count the cost. You have to examine,
+[00:30:50.100 --> 00:30:56.100]   do I really believe this? Is Christ better than everything else that I desire and want and covet in this world?
+[00:30:56.100 --> 00:31:02.100]   And whether we are willing to face that decision or not, the world is going to force us to make that decision.
+[00:31:02.100 --> 00:31:08.100]   I believe we are there. We're not years away. We're not decades away. We're right there.
+[00:31:08.100 --> 00:31:15.100]   And so what he has to say in Hebrews, in Hebrews chapter 11, is directly related to us.
+[00:31:15.100 --> 00:31:19.100]   Now we're going to ask, well, what does this have to do with Enoch?
+[00:31:19.100 --> 00:31:25.100]   We don't know a whole lot about Enoch. In fact, we know the least about Enoch of all the heroes of faith in this chapter.
+[00:31:25.100 --> 00:31:30.100]   The first question that we ask is, how did Enoch get on this hall of fame?
+[00:31:30.100 --> 00:31:38.100]   With Noah and Abraham. In fact, in the Old Testament, we only have maybe two or three verses on Enoch.
+[00:31:38.100 --> 00:31:43.100]   And that all we know about Enoch was he walked with God. He had a child named Methuselah,
+[00:31:43.100 --> 00:31:50.100]   who happened to live the longest life. And then the reason why we know about Enoch is because he's the first one out of two
+[00:31:50.100 --> 00:31:55.100]   of all the saints in the Old Testament who didn't physically die. He was taken up.
+[00:31:55.100 --> 00:32:03.100]   And that's the only thing that we know about Enoch. And yet he made it onto this hall of fame of faith.
+[00:32:03.100 --> 00:32:11.100]   So does that make you curious? What is it about Enoch that he's presenting to us as an example
+[00:32:11.100 --> 00:32:16.100]   to challenge us, to encourage us to persevere in our faith and not to drift?
+[00:32:16.100 --> 00:32:22.100]   Well, there's three things that I want to look at. There's three things that I want to look at about the faith,
+[00:32:22.100 --> 00:32:30.100]   because if you look at verse 5 and verse 6, they are connected. Oftentimes we look at verse 6 of Hebrews 11, verse 6,
+[00:32:30.100 --> 00:32:34.100]   "Without faith it is impossible to please him, for he who comes to God must believe that he is,
+[00:32:34.100 --> 00:32:40.100]   and that he is a rewarder of those who seek him." This is one of the verses that I quote quite a bit.
+[00:32:40.100 --> 00:32:45.100]   But in fact, chapter 11, verse 5, is actually connected to this verse.
+[00:32:45.100 --> 00:32:51.100]   That's actually a description of Enoch's faith, because if you look at verse 5, this is all it says,
+[00:32:51.100 --> 00:32:56.100]   "By faith Enoch was taken up so that he would not see death, and he was not found because God took him up.
+[00:32:56.100 --> 00:33:04.100]   For he obtained a witness that, before his being taken up, he was pleasing to God."
+[00:33:04.100 --> 00:33:09.100]   So verse 5 ends by saying, "Enoch was pleasing to God," and verse 6 begins by saying,
+[00:33:09.100 --> 00:33:15.100]   "It is impossible to please God without faith." So verse 5 and verse 6 is connected.
+[00:33:15.100 --> 00:33:20.100]   Verse 6 really is an explanation of how Enoch pleased God.
+[00:33:20.100 --> 00:33:25.100]   So I want to look at three things that we see in verse 6.
+[00:33:25.100 --> 00:33:31.100]   One, we hear that, "By faith Enoch pleased God by believing."
+[00:33:31.100 --> 00:33:36.100]   "By faith Enoch pleased God by believing." These are the first of the three points I want to make this morning.
+[00:33:36.100 --> 00:33:42.100]   "By faith Enoch pleased God by believing." I think if you've been a Christian for any period of time,
+[00:33:42.100 --> 00:33:47.100]   you know the frustration of trying to live a life that's pleasing to God.
+[00:33:47.100 --> 00:33:54.100]   I mean, you don't have to be a 20, 30, 40 year Christian. You could be a 5 month, 10 month Christian.
+[00:33:54.100 --> 00:33:59.100]   And if you've made any effort, which I believe that every Christian does,
+[00:33:59.100 --> 00:34:06.100]   if you've made any effort to try to live a life that is pleasing to God, the end result of that is frustration.
+[00:34:06.100 --> 00:34:11.100]   So what ends up happening to a lot of Christians is they end up quitting.
+[00:34:11.100 --> 00:34:15.100]   This is too hard. This is too frustrating.
+[00:34:15.100 --> 00:34:20.100]   So many people who've attempted to please God by their own strength, they end up falling out.
+[00:34:20.100 --> 00:34:25.100]   Or, which is the other part, is even more dangerous, they begin to change the doctrines.
+[00:34:25.100 --> 00:34:29.100]   Maybe God doesn't really care that we live a holy life.
+[00:34:29.100 --> 00:34:35.100]   In fact, I've actually heard people say, "You can't please God, so don't even try."
+[00:34:35.100 --> 00:34:38.100]   Even though it's a direct contradiction to the things that we see in Scripture.
+[00:34:38.100 --> 00:34:43.100]   He said he pleased God, and that's why he was lifted up.
+[00:34:43.100 --> 00:34:47.100]   I think some of you guys can relate to my own experience.
+[00:34:47.100 --> 00:34:52.100]   When I was a young Christian in college, I went to Biola not to become a pastor.
+[00:34:52.100 --> 00:34:55.100]   I went to Biola because I was frustrated in my own faith.
+[00:34:55.100 --> 00:35:02.100]   I thought that if I was surrounding myself with more mature Christians, that some of that would rub off on me.
+[00:35:02.100 --> 00:35:07.100]   And then when I went there, it didn't take long for me to realize that they were all in the same boat that I was in.
+[00:35:07.100 --> 00:35:09.100]   They were struggling just as I was.
+[00:35:09.100 --> 00:35:16.100]   And the kind of counsel that I was getting from my older brothers was, "Peter, we're all in the same boat. It's frustrating.
+[00:35:16.100 --> 00:35:23.100]   But if you feel guilty, that's enough. Nobody actually pleases God.
+[00:35:23.100 --> 00:35:28.100]   But the fact that you feel guilty, that's the Holy Spirit in you. So if the Holy Spirit is in you, that's enough."
+[00:35:28.100 --> 00:35:31.100]   And obviously, they should have never been counselors.
+[00:35:31.100 --> 00:35:34.100]   But that was the counseling that I was getting.
+[00:35:34.100 --> 00:35:40.100]   And at that point in my spiritual life, it made a lot of sense to me because I didn't see anybody.
+[00:35:40.100 --> 00:35:42.100]   I didn't see anybody that was any different than I was.
+[00:35:42.100 --> 00:35:46.100]   Everybody who loved God with their mouth, but in their life, there was no evidence of that.
+[00:35:46.100 --> 00:35:52.100]   And I just began to accept, "Maybe that's true. Maybe that's how it actually is as a young Christian."
+[00:35:52.100 --> 00:35:57.100]   Because that was my experience.
+[00:35:57.100 --> 00:36:04.100]   I think that our main problem with Christians is we are trying so hard to be better Marthas
+[00:36:04.100 --> 00:36:09.100]   when it is clear that God is calling us to be better Marys.
+[00:36:09.100 --> 00:36:14.100]   Now, those of you who don't know who Martha and Mary is, that makes no sense to you.
+[00:36:14.100 --> 00:36:18.100]   Basically, in their account, Martha and Mary are two sisters.
+[00:36:18.100 --> 00:36:22.100]   And Martha is the one who is constantly running around to try to please Jesus.
+[00:36:22.100 --> 00:36:24.100]   Taking care of things, running around.
+[00:36:24.100 --> 00:36:28.100]   She's frustrated because Mary is just sitting there, soaking up everything that Jesus has to say.
+[00:36:28.100 --> 00:36:34.100]   And she runs to Jesus saying, "Jesus, help me. My sister isn't helping out.
+[00:36:34.100 --> 00:36:36.100]   What's wrong with her? I'm taking care of everything.
+[00:36:36.100 --> 00:36:39.100]   All she's doing is sitting there and just listening to you."
+[00:36:39.100 --> 00:36:43.100]   And then Jesus turns the table around on her and said, "Martha, Martha, you are worried about so many things,
+[00:36:43.100 --> 00:36:46.100]   but only one is required of you.
+[00:36:46.100 --> 00:36:50.100]   And Mary has chosen what is best."
+[00:36:50.100 --> 00:36:55.100]   All she was doing was soaking up what Jesus had to say to her.
+[00:36:55.100 --> 00:37:01.100]   Because clearly, as he says, it is impossible to please God without faith.
+[00:37:01.100 --> 00:37:04.100]   He didn't say it was difficult.
+[00:37:04.100 --> 00:37:07.100]   He didn't say you're going to have to try harder.
+[00:37:07.100 --> 00:37:09.100]   You're going to have to be better organized.
+[00:37:09.100 --> 00:37:12.100]   You're going to have to pour more money and find the right people.
+[00:37:12.100 --> 00:37:14.100]   He says, no, it is impossible.
+[00:37:14.100 --> 00:37:18.100]   It is not possible to please God without faith.
+[00:37:18.100 --> 00:37:21.100]   No matter how righteous, no matter how holy, no matter how pure we are,
+[00:37:21.100 --> 00:37:24.100]   he says God is not pleased.
+[00:37:24.100 --> 00:37:27.100]   And there's a reason why so many Christians end up frustrated,
+[00:37:27.100 --> 00:37:31.100]   because we focus so much on what we need to do like Martha,
+[00:37:31.100 --> 00:37:34.100]   and we get frustrated with other people who are not doing what we're doing.
+[00:37:34.100 --> 00:37:38.100]   Yet internally, our love for Christ is never increasing.
+[00:37:38.100 --> 00:37:41.100]   But he said it is faith.
+[00:37:41.100 --> 00:37:43.100]   He says, he's referring to Enoch.
+[00:37:43.100 --> 00:37:47.100]   It is faith that caused him to walk with God.
+[00:37:47.100 --> 00:37:50.100]   And it is faith that caused him to walk with God, that pleased God.
+[00:37:50.100 --> 00:37:53.100]   And it is faith that caused him to walk with God, that pleased God,
+[00:37:53.100 --> 00:37:56.100]   that caused him to be caught up with God.
+[00:37:56.100 --> 00:37:59.100]   So he says it is by faith.
+[00:37:59.100 --> 00:38:01.100]   So what is it about this faith?
+[00:38:01.100 --> 00:38:06.100]   He says, he who comes to God must first believe that he is.
+[00:38:06.100 --> 00:38:08.100]   That's the NASB translation.
+[00:38:08.100 --> 00:38:10.100]   Some of you guys still use the ESV.
+[00:38:10.100 --> 00:38:14.100]   And the ESV says that he who comes to God must first believe that he exists.
+[00:38:14.100 --> 00:38:18.100]   That's how some of your other translations have translated it.
+[00:38:18.100 --> 00:38:24.100]   Now let me explain to you why I believe the NASB has the better translation.
+[00:38:24.100 --> 00:38:29.100]   Because that word, if you look at line 6, he uses the word "is."
+[00:38:29.100 --> 00:38:31.100]   He is, he is twice. Right?
+[00:38:31.100 --> 00:38:35.100]   God must believe, he who comes to God must believe that he is,
+[00:38:35.100 --> 00:38:38.100]   and that he is a rewarder of those who seek him.
+[00:38:38.100 --> 00:38:41.100]   You see that? He uses the word "is" twice there.
+[00:38:41.100 --> 00:38:43.100]   He is, he is.
+[00:38:43.100 --> 00:38:45.100]   You got that?
+[00:38:45.100 --> 00:38:51.100]   The first "is" is third person singular of "Amy."
+[00:38:51.100 --> 00:38:54.100]   The second one, I'm not going to get into the Greek because it doesn't matter,
+[00:38:54.100 --> 00:38:57.100]   but it's not the same word.
+[00:38:57.100 --> 00:39:03.100]   He uses the same "he is, he is," and yet the word "is" in that same line is two different words.
+[00:39:03.100 --> 00:39:04.100]   Why?
+[00:39:04.100 --> 00:39:08.100]   I believe the reason why is because what he is saying in the beginning
+[00:39:08.100 --> 00:39:11.100]   has deep theological implication.
+[00:39:11.100 --> 00:39:17.100]   He's not simply saying that he who comes to God must first believe that he exists.
+[00:39:17.100 --> 00:39:20.100]   Because we're not talking to an atheist society.
+[00:39:20.100 --> 00:39:24.100]   At that time, everybody was polytheist.
+[00:39:24.100 --> 00:39:29.100]   They believed that the rock was God, the sun was God, the moon was God, the earth was God.
+[00:39:29.100 --> 00:39:33.100]   In fact, they accused Christians of being atheists because they were monotheists.
+[00:39:33.100 --> 00:39:37.100]   They only believed in one God, and so that was so strange to them,
+[00:39:37.100 --> 00:39:40.100]   they actually called them atheists.
+[00:39:40.100 --> 00:39:44.100]   So he's not talking to anybody who believes that there isn't a God.
+[00:39:44.100 --> 00:39:50.100]   So he's not saying if you want to first come to God, you must first move from an atheist to be a theist.
+[00:39:50.100 --> 00:39:52.100]   That's not what he is saying.
+[00:39:52.100 --> 00:39:57.100]   See, the third person singular of "Amy," if the first person is what?
+[00:39:57.100 --> 00:40:00.100]   "I am."
+[00:40:00.100 --> 00:40:07.100]   So I believe what he is saying is he who first comes to God must believe that he is.
+[00:40:07.100 --> 00:40:09.100]   Now what is he referring to?
+[00:40:09.100 --> 00:40:13.100]   Well, if you look at the Gospel of John, that's the whole point of the Gospel of John.
+[00:40:13.100 --> 00:40:22.100]   The seven "I am" statements of Jesus, where Jesus is correcting the false hope and false desires of the Jews.
+[00:40:22.100 --> 00:40:29.100]   First of the "I am" statements, chapter 6 of John, "I am the bread of life."
+[00:40:29.100 --> 00:40:35.100]   He's talking to people who wanted to forcefully make Jesus king because Jesus was healing them and giving them bread.
+[00:40:35.100 --> 00:40:42.100]   And Jesus points out to them, says, "You're coming to me not because you know who I am, but because you ate and you want more."
+[00:40:42.100 --> 00:40:52.100]   And it's in that context that Jesus says, "The bread that you get from this world will make you hungry again, but the bread that I give to you will rise up in eternal life."
+[00:40:52.100 --> 00:40:56.100]   And he says, "I am the bread of life."
+[00:40:56.100 --> 00:41:01.100]   He says in John, chapter 8, "I am the light of the world."
+[00:41:01.100 --> 00:41:05.100]   This is in the context of celebrating the Feast of Booths.
+[00:41:05.100 --> 00:41:09.100]   And during the Feast of Booths, they were celebrating the 40 years of wandering in the desert,
+[00:41:09.100 --> 00:41:14.100]   and they would set up lights at the temple to remind the nation of Israel how God led them,
+[00:41:14.100 --> 00:41:23.100]   and they believed that one day that the Messiah was going to come, a leader was going to come, and lead them into a better country.
+[00:41:23.100 --> 00:41:28.100]   Jesus, in that context, says, "I am the light of the world."
+[00:41:28.100 --> 00:41:33.100]   In John, chapter 10, he says, "I am the door of the sheep."
+[00:41:33.100 --> 00:41:38.100]   He's saying this right after healing the blind man in chapter 9,
+[00:41:38.100 --> 00:41:44.100]   and people were living in fear of the leaders of the synagogue because he said to the blind man,
+[00:41:44.100 --> 00:41:50.100]   "If you give credit to Jesus, you will be cast out of the synagogue."
+[00:41:50.100 --> 00:41:54.100]   To be cast out of the synagogue means you may not be able to get married.
+[00:41:54.100 --> 00:41:57.100]   You may not be able to do your business.
+[00:41:57.100 --> 00:42:00.100]   Whatever standing that you have in society, God's going to shun you.
+[00:42:00.100 --> 00:42:02.100]   You're going to have to live outside the camp.
+[00:42:02.100 --> 00:42:07.100]   So imagine a blind man who was forced to beg all of his life, opens his eyes,
+[00:42:07.100 --> 00:42:11.100]   meaning that he can now enter back into the regular society,
+[00:42:11.100 --> 00:42:16.100]   and the leaders are telling him, "If you do not turn against Jesus, you cannot enter."
+[00:42:16.100 --> 00:42:21.100]   And out of fear, even his parents refused to stand with him.
+[00:42:21.100 --> 00:42:24.100]   "I'm not going to answer. You ask him yourself."
+[00:42:24.100 --> 00:42:27.100]   The blind man stands up, and he gets kicked out of the synagogue.
+[00:42:27.100 --> 00:42:32.100]   It is in that context that Jesus says, "I am the door."
+[00:42:32.100 --> 00:42:36.100]   You're so afraid of being kicked out of the synagogue door, he says, "I am the door."
+[00:42:36.100 --> 00:42:42.100]   And that's why directly connected to that in John 10 and 11, he says, "I am the good shepherd."
+[00:42:42.100 --> 00:42:46.100]   Because they were in such fear of submitting to these leaders,
+[00:42:46.100 --> 00:42:49.100]   because if you don't submit to them, he's going to kick them out.
+[00:42:49.100 --> 00:42:53.100]   That you can't have the life that you desired, what you coveted.
+[00:42:53.100 --> 00:42:58.100]   If you don't submit to their leadership, and it is in that context that Jesus says,
+[00:42:58.100 --> 00:43:01.100]   "No, I am the good shepherd."
+[00:43:01.100 --> 00:43:04.100]   These false prophets, they come to devour you.
+[00:43:04.100 --> 00:43:08.100]   You're so concerned about their approval that they have not come to give you life.
+[00:43:08.100 --> 00:43:12.100]   I have come to give you this life. I am the good shepherd.
+[00:43:12.100 --> 00:43:18.100]   In John 11, Lazarus, a good friend of Jesus' ministry,
+[00:43:18.100 --> 00:43:20.100]   he's about to die, and they beg Jesus to come.
+[00:43:20.100 --> 00:43:23.100]   He takes his time in allowing this to happen.
+[00:43:23.100 --> 00:43:27.100]   And as he is going to the grave to resurrect him, Jesus says,
+[00:43:27.100 --> 00:43:32.100]   "I'm going to resurrect him, but I want you to know I am the resurrection and life."
+[00:43:32.100 --> 00:43:35.100]   Whether Lazarus lives a long life or a short life,
+[00:43:35.100 --> 00:43:40.100]   even if he is resuscitated for a period of time, he will die again.
+[00:43:40.100 --> 00:43:44.100]   I am the resurrection and the life.
+[00:43:44.100 --> 00:43:51.100]   He says in John 14, verse 6, "I am the truth, I am the way, and I am the life."
+[00:43:51.100 --> 00:43:55.100]   He's saying this because he is about to leave his disciples.
+[00:43:55.100 --> 00:44:00.100]   And they, right up to that point, they just did whatever Jesus did.
+[00:44:00.100 --> 00:44:01.100]   If he goes to Galilee, we're going to go to Galilee.
+[00:44:01.100 --> 00:44:03.100]   If we go to Jerusalem, we go to Jerusalem.
+[00:44:03.100 --> 00:44:05.100]   If he gets on a boat, we get on a boat.
+[00:44:05.100 --> 00:44:10.100]   And Jesus just told them, "I'm going to leave, and where I go, you cannot come."
+[00:44:10.100 --> 00:44:15.100]   And so he's reminding his disciples, "I am the way, I am the truth, I am the life."
+[00:44:15.100 --> 00:44:20.100]   And then that's why he ends John chapter 15, verse 1, as he is preparing to go,
+[00:44:20.100 --> 00:44:23.100]   he says, "I am the true vine.
+[00:44:23.100 --> 00:44:27.100]   You cannot bear fruit unless you abide in me, unless you continue in me.
+[00:44:27.100 --> 00:44:31.100]   Even though I will leave, your life is going to be continually dependent upon
+[00:44:31.100 --> 00:44:33.100]   you continuing and remaining in me.
+[00:44:33.100 --> 00:44:36.100]   I am the true vine."
+[00:44:36.100 --> 00:44:43.100]   And every one of these statements is to cut into the temptation that every one of us has.
+[00:44:43.100 --> 00:44:50.100]   That I am your basic need, I am your hope, I am the one who guards the door to life.
+[00:44:50.100 --> 00:44:53.100]   I am the true leader, the true shepherd.
+[00:44:53.100 --> 00:44:55.100]   I am your eternal life.
+[00:44:55.100 --> 00:44:57.100]   I am your purpose and direction.
+[00:44:57.100 --> 00:45:01.100]   And I am the one who will sustain you and cause you to be fruitful.
+[00:45:01.100 --> 00:45:04.100]   And that's what all the seven "I am" statements are about.
+[00:45:04.100 --> 00:45:06.100]   I am.
+[00:45:06.100 --> 00:45:11.100]   Not I will be, not I will point you to, not I am the source of, he says, I am.
+[00:45:11.100 --> 00:45:19.100]   So I believe that the author here is saying that he who comes to God must first believe that he is.
+[00:45:19.100 --> 00:45:28.100]   Because if we live our life to try to appease him, to please him by our efforts,
+[00:45:28.100 --> 00:45:31.100]   we're going against everything in our flesh.
+[00:45:31.100 --> 00:45:35.100]   We want the world, but we're going to fight against it.
+[00:45:35.100 --> 00:45:40.100]   We find pleasure in the things that the world has to offer, but we're going to fight against it.
+[00:45:40.100 --> 00:45:47.100]   And a lot of people in the church live their Christian life constantly trying to resist
+[00:45:47.100 --> 00:45:51.100]   all the temptations in our heart.
+[00:45:51.100 --> 00:45:53.100]   No wonder it's frustrating.
+[00:45:53.100 --> 00:45:57.100]   It's just like a man who's hungry constantly walking around the buffet.
+[00:45:57.100 --> 00:46:00.100]   "I'm not going to eat today. I'm not going to eat today. I'm not going to eat today."
+[00:46:00.100 --> 00:46:03.100]   And that's what Christian life feels like for a lot of people.
+[00:46:03.100 --> 00:46:07.100]   My heart desires it. My eyes want it. I covet it every single day.
+[00:46:07.100 --> 00:46:09.100]   And I feel this pressure in me constantly.
+[00:46:09.100 --> 00:46:13.100]   And I come to church and all I do is feel guilty.
+[00:46:13.100 --> 00:46:17.100]   And I'm going to try harder this time. I'm going to try harder this time.
+[00:46:17.100 --> 00:46:19.100]   You know what he is saying?
+[00:46:19.100 --> 00:46:23.100]   You cannot please God in that way. Your flesh is going to win.
+[00:46:23.100 --> 00:46:31.100]   Until there is a transformation in our heart of what ultimately truly brings pleasure.
+[00:46:31.100 --> 00:46:40.100]   That's what transformation does in our heart, where we find life in Christ more than this world.
+[00:46:40.100 --> 00:46:46.100]   So until we genuinely believe that He is, we're not going to walk with Him.
+[00:46:46.100 --> 00:46:49.100]   Our feet are going to take us to whatever we're tempted by,
+[00:46:49.100 --> 00:46:53.100]   even though our mind and what we hear is telling us to go the other direction.
+[00:46:53.100 --> 00:46:57.100]   What he is saying is, you have to do about faith. You have to know who He is.
+[00:46:57.100 --> 00:47:01.100]   That's why Martha is going around doing all this stuff and he says, "No, Mary has chosen what is best."
+[00:47:01.100 --> 00:47:07.100]   Because until there is a transformation of seeing the glory of the gospel of Jesus Christ,
+[00:47:07.100 --> 00:47:10.100]   everything else is just determination.
+[00:47:10.100 --> 00:47:14.100]   Our determination is not going to get us closer to God.
+[00:47:14.100 --> 00:47:18.100]   There has to be an illumination. That's why he says, "Without faith."
+[00:47:18.100 --> 00:47:22.100]   You must first believe that He is.
+[00:47:22.100 --> 00:47:27.100]   Because believing is what leads us to seeking.
+[00:47:27.100 --> 00:47:33.100]   Let me say that again. Believing is what leads us to seeking.
+[00:47:33.100 --> 00:47:39.100]   If you find life in the world, of course your flesh is eventually going to go there.
+[00:47:39.100 --> 00:47:43.100]   But if you find life in Christ, and that's where we find the greatest pleasure.
+[00:47:43.100 --> 00:47:49.100]   He is my hope. He is my sustenance. He is my life.
+[00:47:49.100 --> 00:47:51.100]   He is my refuge.
+[00:47:51.100 --> 00:47:56.100]   So my heart, my life, my legs are eventually going to cause me to seek after the things
+[00:47:56.100 --> 00:48:00.100]   that I believe is going to give me what I desire.
+[00:48:00.100 --> 00:48:05.100]   But if my desire is for the world, and my doctrine is for Christ,
+[00:48:05.100 --> 00:48:08.100]   no wonder there is this tension that causes us to be constantly frustrated.
+[00:48:08.100 --> 00:48:13.100]   That's why he says it is impossible to please God without faith.
+[00:48:13.100 --> 00:48:17.100]   He who comes to God must believe that He is.
+[00:48:17.100 --> 00:48:20.100]   He is. Do you believe that?
+[00:48:20.100 --> 00:48:24.100]   Before we worry about discipleship, before we worry about discipline,
+[00:48:24.100 --> 00:48:28.100]   before we worry about doing all of these things and what other people are doing,
+[00:48:28.100 --> 00:48:32.100]   do you believe that He is?
+[00:48:32.100 --> 00:48:34.100]   Do you believe that?
+[00:48:34.100 --> 00:48:38.100]   Because if you can't say adamantly, "I believe that,"
+[00:48:38.100 --> 00:48:45.100]   everything else you do outside of that is going to be frustrating.
+[00:48:45.100 --> 00:48:50.100]   It's just going to be leading to more frustration.
+[00:48:50.100 --> 00:48:52.100]   Enoch pleased God because he believed.
+[00:48:52.100 --> 00:48:58.100]   Secondly, by faith Enoch pleased God by walking with God.
+[00:48:58.100 --> 00:49:01.100]   By faith Enoch pleased God by walking with God.
+[00:49:01.100 --> 00:49:05.100]   There's not a lot said about Enoch.
+[00:49:05.100 --> 00:49:08.100]   How is he going to milk this?
+[00:49:08.100 --> 00:49:10.100]   From two words.
+[00:49:10.100 --> 00:49:13.100]   Verse 22, Genesis 5, Enoch walked with God.
+[00:49:13.100 --> 00:49:17.100]   Verse 24, Enoch walked with God and he was not, for God took him.
+[00:49:17.100 --> 00:49:19.100]   That's it.
+[00:49:19.100 --> 00:49:24.100]   In fact, in verse 5 it says, "By faith Enoch was taken up."
+[00:49:24.100 --> 00:49:27.100]   Literally, "taken up" in your King James Version, if you guys are using that,
+[00:49:27.100 --> 00:49:30.100]   it just says, "He was translated."
+[00:49:30.100 --> 00:49:32.100]   What does that even mean?
+[00:49:32.100 --> 00:49:35.100]   The word simply means he was here and then now he came over here.
+[00:49:35.100 --> 00:49:37.100]   That's all that means.
+[00:49:37.100 --> 00:49:41.100]   They interpret it by saying, "Oh, he meant he was taken up to God."
+[00:49:41.100 --> 00:49:44.100]   But the word just means he was here and then he was removed.
+[00:49:44.100 --> 00:49:48.100]   But we know that he was taken up to God because it says he didn't taste death.
+[00:49:48.100 --> 00:49:50.100]   So that's our image of him just going to God.
+[00:49:50.100 --> 00:49:53.100]   But literally he was just moved.
+[00:49:53.100 --> 00:49:59.100]   I mean, what an anticlimactic way of saying, "He didn't die.
+[00:49:59.100 --> 00:50:01.100]   He went to God!"
+[00:50:01.100 --> 00:50:03.100]   He said, "No, he just moved."
+[00:50:03.100 --> 00:50:06.100]   That's how it's written.
+[00:50:06.100 --> 00:50:13.100]   Well, what is it about him walking with God that he is named among the Hall of Fame
+[00:50:13.100 --> 00:50:16.100]   with Abraham and Noah?
+[00:50:16.100 --> 00:50:19.100]   Well, in Amos chapter 3, verse 3, it says, "Do two men walk together
+[00:50:19.100 --> 00:50:21.100]   unless they have made an appointment?"
+[00:50:21.100 --> 00:50:25.100]   Well, "appointment" just simply means an agreement.
+[00:50:25.100 --> 00:50:29.100]   He says, in other words, two people can't walk together unless there is an agreement.
+[00:50:29.100 --> 00:50:33.100]   So if I'm going to make an appointment, an agreement, we have to agree
+[00:50:33.100 --> 00:50:36.100]   that we're going to make this time, we're going to meet at this place for this purpose.
+[00:50:36.100 --> 00:50:37.100]   That's what it means.
+[00:50:37.100 --> 00:50:40.100]   When two people marry, there's an agreement, there's a covenant that they enter.
+[00:50:40.100 --> 00:50:46.100]   So he's saying that when Enoch walked with God, there was an agreement.
+[00:50:46.100 --> 00:50:50.100]   Because a sinner can't just simply say, "Hey, I want to talk to you."
+[00:50:50.100 --> 00:50:56.100]   So even though it is simple, elementary words, in those words,
+[00:50:56.100 --> 00:51:01.100]   there was a reconciliation with God, with Enoch, and he walked with God.
+[00:51:01.100 --> 00:51:03.100]   There was an agreement.
+[00:51:03.100 --> 00:51:07.100]   Well, in the New Testament version of that, Jesus says the same thing.
+[00:51:07.100 --> 00:51:11.100]   In Luke chapter 9, 20-24, and he was saying to them,
+[00:51:11.100 --> 00:51:14.100]   "If anyone wishes to come after me"--
+[00:51:14.100 --> 00:51:18.100]   "come after me" is just another way of saying he wants to walk with me.
+[00:51:18.100 --> 00:51:21.100]   He wants to come to where I am.
+[00:51:21.100 --> 00:51:26.100]   He says he must deny himself and take up his cross daily and follow me.
+[00:51:26.100 --> 00:51:30.100]   "For whoever wishes to save his life will lose it, but whoever loses his life for my sake,
+[00:51:30.100 --> 00:51:34.100]   he is the one who will save it."
+[00:51:34.100 --> 00:51:36.100]   In other words, this is an agreement.
+[00:51:36.100 --> 00:51:39.100]   You can't walk with me, you can't have an appointment with me,
+[00:51:39.100 --> 00:51:44.100]   you can't live with me until there is an agreement, and this is the agreement contract.
+[00:51:44.100 --> 00:51:48.100]   If you want to walk with me, you must pick up your own cross and deny yourself.
+[00:51:48.100 --> 00:51:51.100]   You can come to church, but you're not walking with God.
+[00:51:51.100 --> 00:51:55.100]   You can be an evangelist and tell people, but you're not walking with God
+[00:51:55.100 --> 00:51:59.100]   until there is an agreement, until there is a reconciliation.
+[00:51:59.100 --> 00:52:04.100]   And Jesus says that this is the requirement, and that's what he's saying.
+[00:52:04.100 --> 00:52:07.100]   When he walked with God, that he had fellowship with him
+[00:52:07.100 --> 00:52:12.100]   because there was an agreement of reconciliation.
+[00:52:12.100 --> 00:52:18.100]   There's something else about Enoch that we can easily miss.
+[00:52:18.100 --> 00:52:24.100]   In Jude 14 and 15, any of you who've ever studied Jude,
+[00:52:24.100 --> 00:52:30.100]   Jude is a difficult letter to understand because it has a lot of spiritual, demonic,
+[00:52:30.100 --> 00:52:33.100]   and angeology that's mixed in with all this stuff.
+[00:52:33.100 --> 00:52:38.100]   Well, it is in that book that Enoch is mentioned, in two verses.
+[00:52:38.100 --> 00:52:40.100]   And this is what it says about Enoch.
+[00:52:40.100 --> 00:52:44.100]   "It was also about these men that Enoch, in the seventh generation from Adam,
+[00:52:44.100 --> 00:52:48.100]   prophesied, saying, 'Behold, the Lord came with many thousands of his holy ones
+[00:52:48.100 --> 00:52:54.100]   to execute judgment upon all, and to convict all the ungodly of all their ungodly deeds,
+[00:52:54.100 --> 00:52:58.100]   which they have done in an ungodly way, and of all the harsh things
+[00:52:58.100 --> 00:53:01.100]   which ungodly sinners have spoken against him.'"
+[00:53:01.100 --> 00:53:04.100]   Do you notice how many times he says "ungodly"?
+[00:53:04.100 --> 00:53:07.100]   They're trying to make a point.
+[00:53:07.100 --> 00:53:12.100]   "Ungodly, all the ungodly, godly, ungodly, ungodly."
+[00:53:12.100 --> 00:53:15.100]   So if you read that, you know that that's being emphasized.
+[00:53:15.100 --> 00:53:17.100]   It was that bad.
+[00:53:17.100 --> 00:53:21.100]   It says Enoch was basically warning.
+[00:53:21.100 --> 00:53:25.100]   And so what he was saying at that time, it resonates as prophetic
+[00:53:25.100 --> 00:53:29.100]   to the time that the person is writing about in Jude.
+[00:53:29.100 --> 00:53:32.100]   Now what's interesting is, if you go to the next slide,
+[00:53:32.100 --> 00:53:38.100]   this is a chart of the life of the patriarchs that are mentioned in Genesis 5.
+[00:53:38.100 --> 00:53:42.100]   You notice Enoch is about halfway or to the lower part,
+[00:53:42.100 --> 00:53:47.100]   and obviously his lifeline is not as long as the others, right?
+[00:53:47.100 --> 00:53:50.100]   Because he was taken up. He didn't live a long life.
+[00:53:50.100 --> 00:53:52.100]   Well, a long life at their standard, right?
+[00:53:52.100 --> 00:53:56.100]   365 days was his life, where others lived 900 and some.
+[00:53:56.100 --> 00:54:01.100]   But you notice something unique about Enoch's life?
+[00:54:01.100 --> 00:54:08.100]   When Enoch was living, all the other patriarchs were still alive.
+[00:54:08.100 --> 00:54:11.100]   Adam was still alive. Seth was alive.
+[00:54:11.100 --> 00:54:15.100]   Enosh, Kenan, Mahalal, Jared, they're all still alive.
+[00:54:15.100 --> 00:54:19.100]   During his lifetime, because they lived such a long time.
+[00:54:19.100 --> 00:54:24.100]   So they had kids when they were young, and then they lived another hundreds and hundreds of years.
+[00:54:24.100 --> 00:54:27.100]   So if you look at their timeline of their life,
+[00:54:27.100 --> 00:54:32.100]   Enoch knew his grandfather, great-grandfather, great-great-grandfather,
+[00:54:32.100 --> 00:54:36.100]   great-great-great-grandfather, and all the way up to Adam.
+[00:54:36.100 --> 00:54:42.100]   Now what's interesting about all of this is that Genesis 6 is when the flood comes in.
+[00:54:42.100 --> 00:54:49.100]   And this is how, before the flood comes in, how God describes mankind.
+[00:54:49.100 --> 00:54:55.100]   Genesis 6, "And the Lord saw that the wickedness of man was great on the earth."
+[00:54:55.100 --> 00:55:01.100]   It was great on the earth. Notice, right, the same thing he said, ungodly, ungodly, ungodly.
+[00:55:01.100 --> 00:55:07.100]   "The ungodliness was great on the earth, and that every intent of the thoughts of his heart was only evil continually."
+[00:55:07.100 --> 00:55:13.100]   So you know what that means? Enoch was the first evangelist.
+[00:55:13.100 --> 00:55:19.100]   Enoch was the first prophet who was prophesying against the multiplying sinfulness of mankind.
+[00:55:19.100 --> 00:55:27.100]   And he stood against the tide, and he preached to them the warning of the judgment of God.
+[00:55:27.100 --> 00:55:33.100]   I mean, imagine how hard it is to be a Christian if you are a minority.
+[00:55:33.100 --> 00:55:37.100]   Imagine how difficult it is when you're by yourself.
+[00:55:37.100 --> 00:55:40.100]   You know, when I was young, I used to ask myself that question.
+[00:55:40.100 --> 00:55:46.100]   If I didn't live in a Christian community, if I didn't have friends in church, if my family wasn't Christian,
+[00:55:46.100 --> 00:55:52.100]   if I was the only Christian that I knew, would I still follow Christ?
+[00:55:52.100 --> 00:55:56.100]   Do I believe in him enough to go against the tide of everybody around me?
+[00:55:56.100 --> 00:56:05.100]   If I was the only businessman, if I was the only doctor, if I was the only nurse, if I was the only student, would I still follow Christ?
+[00:56:05.100 --> 00:56:08.100]   Well, I can't answer that question because that never happened to me.
+[00:56:08.100 --> 00:56:12.100]   I've always been around Christians. I've always been encouraged.
+[00:56:12.100 --> 00:56:21.100]   I've had books. I've had videos, conferences. I don't know how to answer that question because that's never happened.
+[00:56:21.100 --> 00:56:26.100]   Enoch stood in darkness, and he was preaching.
+[00:56:26.100 --> 00:56:34.100]   He was the first evangelist. He was the first prophet who was warning them that if this continues, judgment is coming.
+[00:56:34.100 --> 00:56:37.100]   In chapter 6, it comes.
+[00:56:37.100 --> 00:56:44.100]   Third and finally, "By faith, Enoch pleased God and lived."
+[00:56:44.100 --> 00:56:51.100]   If you look at Genesis 5, it gives the timeline of the patriarch, how long they lived.
+[00:56:51.100 --> 00:56:57.100]   It says in Genesis 5, "So all the days that Adam lived were 930 years."
+[00:56:57.100 --> 00:57:01.100]   Is it the record that we have in the Guinness Book of World Records?
+[00:57:01.100 --> 00:57:07.100]   The oldest person that has ever lived that we have on record is 122 years and 164 days, Jeannine Calmert.
+[00:57:07.100 --> 00:57:12.100]   She was born in 1875 and died in 1997.
+[00:57:12.100 --> 00:57:17.100]   That's the record that we have. I mean, she's an infant compared to these people.
+[00:57:17.100 --> 00:57:20.100]   They lived 930 years.
+[00:57:20.100 --> 00:57:24.100]   It says in verse 8, "Seth lived 912 years."
+[00:57:24.100 --> 00:57:28.100]   Genesis 5, 11, "Enoch were 905 years."
+[00:57:28.100 --> 00:57:31.100]   That's not Enoch, Enosh.
+[00:57:31.100 --> 00:57:34.100]   Verse 14, "Canaan were 910 years."
+[00:57:34.100 --> 00:57:41.100]   Verse 17, "Mahalel were 195 years and Jared were 962 years."
+[00:57:41.100 --> 00:57:47.100]   Now we may look at that and we get caught up and say, "Man, how could they live that long? 900 years? Is that even possible?"
+[00:57:47.100 --> 00:57:50.100]   And we get caught up with these numbers of how long they lived.
+[00:57:50.100 --> 00:57:57.100]   But you missed the whole point of Genesis 5 because Genesis 5 isn't about how long they lived.
+[00:57:57.100 --> 00:58:04.100]   Genesis chapter 5, theologians call this the graveyard chapter of the Bible.
+[00:58:04.100 --> 00:58:07.100]   Because the point wasn't that they lived long.
+[00:58:07.100 --> 00:58:11.100]   The point was that each one of them died.
+[00:58:11.100 --> 00:58:13.100]   Let's read that again. Genesis 5, 5.
+[00:58:13.100 --> 00:58:18.100]   "So all the days of Adam lived were 930 years and he died."
+[00:58:18.100 --> 00:58:24.100]   Genesis 5, 8. "So all the days of Seth were 912 years and he died."
+[00:58:24.100 --> 00:58:28.100]   Genesis 5, 11. "So all the days of Enosh were 905 years and he died."
+[00:58:28.100 --> 00:58:33.100]   Genesis 5, 14. "So all the days of Kenan were 910 years and he died."
+[00:58:33.100 --> 00:58:39.100]   Genesis 5, 17. "So all the days of Mahalel were 895 years and he died."
+[00:58:39.100 --> 00:58:44.100]   Genesis 5, 20. "So all the days of Jared were 962 years and he died."
+[00:58:44.100 --> 00:58:48.100]   And over and over again, he said, "He died, he died, he died, he died."
+[00:58:48.100 --> 00:58:51.100]   That was the point of Genesis chapter 5.
+[00:58:51.100 --> 00:58:56.100]   God said, "If you eat of the tree of the knowledge of good and evil, you shall surely die."
+[00:58:56.100 --> 00:59:02.100]   And Genesis chapter 5 is a record of the death of mankind.
+[00:59:02.100 --> 00:59:07.100]   And it is in this record that Enoch stands out because of his faith.
+[00:59:07.100 --> 00:59:13.100]   He walked with God, he pleased God, and God caused him to live.
+[00:59:13.100 --> 00:59:18.100]   And we naturally ask the question, "Why did he get to go up?"
+[00:59:18.100 --> 00:59:22.100]   Why did he go up?
+[00:59:22.100 --> 00:59:30.100]   We may ask ourselves, but the real question that we ask is, "Why didn't we?"
+[00:59:30.100 --> 00:59:33.100]   Because he said he saved us.
+[00:59:33.100 --> 00:59:37.100]   We have eternal life because we believe him.
+[00:59:37.100 --> 00:59:39.100]   And why are we here?
+[00:59:39.100 --> 00:59:43.100]   Why didn't we get lifted up with Enoch?
+[00:59:43.100 --> 00:59:49.100]   If our eternal life is here, if the rest of our Christian life is meant to be this struggle,
+[00:59:49.100 --> 00:59:54.100]   and there is this constant struggle, struggle with friendship, struggle with community,
+[00:59:54.100 --> 00:59:59.100]   struggle with our children, struggle with our marriages, struggle with the temptation of the world,
+[00:59:59.100 --> 01:00:08.100]   struggle with drifting, struggle with politics, struggle with economics, it would be better.
+[01:00:08.100 --> 01:00:15.100]   I mean, I wonder all the time, like, "Why do people want to live such long lives here?
+[01:00:15.100 --> 01:00:18.100]   What's so good about here?
+[01:00:18.100 --> 01:00:22.100]   Every good thing that I desire turns out to be bad for me.
+[01:00:22.100 --> 01:00:25.100]   Why do I want to be here?
+[01:00:25.100 --> 01:00:27.100]   I'd rather be in eternity.
+[01:00:27.100 --> 01:00:29.100]   So why did he leave me here?
+[01:00:29.100 --> 01:00:30.100]   Why did he leave you here?
+[01:00:30.100 --> 01:00:34.100]   Why weren't we caught up like Enoch?"
+[01:00:34.100 --> 01:00:39.100]   Well, the answer is pretty clear.
+[01:00:39.100 --> 01:00:44.100]   In 2 Peter 3.9, people were asking that question, "When is he coming?
+[01:00:44.100 --> 01:00:46.100]   When is he coming?"
+[01:00:46.100 --> 01:00:51.100]   And Peter answered, "The Lord is not slow about his promise, as some count slowness,
+[01:00:51.100 --> 01:01:00.100]   but is patient toward you, not wishing for any to perish, but for all to come to repentance."
+[01:01:00.100 --> 01:01:05.100]   God did not leave us here so that we can enjoy heaven before we get to heaven.
+[01:01:05.100 --> 01:01:09.100]   God left us here as a witness to make disciples of all the nations,
+[01:01:09.100 --> 01:01:12.100]   baptizing them in the name of the Father, the Son, and the Holy Spirit.
+[01:01:12.100 --> 01:01:15.100]   He wanted us to be the aroma of Christ wherever we go,
+[01:01:15.100 --> 01:01:19.100]   that we ought to be the light and the salt of this earth.
+[01:01:19.100 --> 01:01:25.100]   What good is salt if it loses its flavor, other than to be put underground and be trampled by men?
+[01:01:25.100 --> 01:01:31.100]   And repeatedly, over and over again, he said he left us for a specific purpose,
+[01:01:31.100 --> 01:01:35.100]   to be a light in this dark world.
+[01:01:35.100 --> 01:01:39.100]   Otherwise, there is no reason to be here.
+[01:01:39.100 --> 01:01:45.100]   We are, some of us, are trying so hard to clean up a burned-down house.
+[01:01:45.100 --> 01:01:49.100]   The Bible already said, "Mankind is under condemnation."
+[01:01:49.100 --> 01:01:52.100]   All has been under judgment.
+[01:01:52.100 --> 01:01:56.100]   And we're trying so hard to make heaven and earth on this place.
+[01:01:56.100 --> 01:02:01.100]   And it's no different than going into a burned-down house and putting new carpet in.
+[01:02:01.100 --> 01:02:04.100]   The house is already condemned.
+[01:02:04.100 --> 01:02:12.100]   So all our efforts to make our life better, at the end of the day, is vanity, vanity, all is vanity.
+[01:02:12.100 --> 01:02:16.100]   And until you and I come to that conclusion, and we live our life,
+[01:02:16.100 --> 01:02:20.100]   whether it is as a doctor, it is as a lawyer, as a businessman, or as a student,
+[01:02:20.100 --> 01:02:25.100]   if our life, that we live here, isn't for the purpose of bringing God the glory,
+[01:02:25.100 --> 01:02:29.100]   it is vanity, vanity, all is vanity.
+[01:02:29.100 --> 01:02:34.100]   No matter how much money you make, no matter how nice of a house, no matter how long and healthy,
+[01:02:34.100 --> 01:02:41.100]   even all the investments that you make, get 10,000 percent profit, all is vanity.
+[01:02:41.100 --> 01:02:49.100]   Because the only reason why you and I are here, until he comes, is so that you and I can be a light.
+[01:02:49.100 --> 01:02:52.100]   Right now, persecution is coming.
+[01:02:52.100 --> 01:02:58.100]   If you're spiritually sober, I know that you agree with me. It's coming. It's already here.
+[01:02:58.100 --> 01:03:02.100]   But persecution is not a bad thing for the church.
+[01:03:02.100 --> 01:03:06.100]   Persecution basically is God turning the light down.
+[01:03:06.100 --> 01:03:11.100]   There's reasons why we drive long distances to go up to the mountains and to the countryside
+[01:03:11.100 --> 01:03:14.100]   so that we can have a better look at the stars.
+[01:03:14.100 --> 01:03:19.100]   Because while we're here with all the man-made lights, it's a distraction.
+[01:03:19.100 --> 01:03:24.100]   So we get away from the light so that we can have a clearer view of the stars.
+[01:03:24.100 --> 01:03:28.100]   When persecution comes, the light gets turned off.
+[01:03:28.100 --> 01:03:32.100]   And it is time for Christians to shine.
+[01:03:32.100 --> 01:03:41.100]   This is the time where we stand and say, in the midst of darkness, that hope is found in Christ, in Christ alone.
+[01:03:41.100 --> 01:03:50.100]   So I pray, as you and I know what is coming, that we will not be caught off like the rest of the world.
+[01:03:50.100 --> 01:03:58.100]   And hoping that the boat that we got on just kind of casually drifts toward Christ, because it does not.
+[01:03:58.100 --> 01:04:04.100]   That we would put on the armor of God, knowing that we do not fight against flesh and blood.
+[01:04:04.100 --> 01:04:09.100]   That we would put on the gear and be ready to shine Christ.
+[01:04:09.100 --> 01:04:11.100]   That's why we're here.
+[01:04:11.100 --> 01:04:14.100]   Enoch is given to us as an example.
+[01:04:14.100 --> 01:04:19.100]   By faith, we walk, please God, and he lived.
+[01:04:19.100 --> 01:04:23.100]   That even when we die, we will live in Christ.
+[01:04:23.100 --> 01:04:25.100]   Do you believe that?
+[01:04:25.100 --> 01:04:29.100]   Because without faith, it is impossible to please him.
+[01:04:29.100 --> 01:04:35.100]   So I pray that, again, as our community, as our generation, as the politics and all that is around us
+[01:04:35.100 --> 01:04:40.100]   becomes darker and darker, that we will see more opportunities to shine Christ.
+[01:04:40.100 --> 01:04:46.100]   Let's pray.
+[01:04:46.100 --> 01:04:52.100]   Heavenly Father, we pray for your continued guidance and blessing.
+[01:04:52.100 --> 01:04:57.100]   Especially, Lord God, as the world becomes darker and darker.
+[01:04:57.100 --> 01:05:02.100]   Help us, Lord God, that our love would not grow cold.
+[01:05:02.100 --> 01:05:07.100]   Lord, we pray that you will bring revival into your church.
+[01:05:07.100 --> 01:05:12.100]   That we would not live in fear because of certain laws that will be passed.
+[01:05:12.100 --> 01:05:18.100]   In fear, Lord God, that we would not be able to attain the things that we've coveted in our hearts.
+[01:05:18.100 --> 01:05:22.100]   Help us, Lord God, to increase in our faith.
+[01:05:22.100 --> 01:05:29.100]   That we would profess, with stronger and stronger faith, that Christ is.
+[01:05:29.100 --> 01:05:39.100]   That he is our sustenance, he is our hope, he is our leader, he is our refuge, he is our guide, he is our source of life.
+[01:05:39.100 --> 01:05:43.100]   That he is the true vine.
+[01:05:43.100 --> 01:05:46.100]   So for that end, I pray that you would strengthen your church.
+[01:05:46.100 --> 01:05:52.100]   That you would keep us sober, open our eyes to see the opportunities that you are creating for us.
+[01:05:52.100 --> 01:05:56.100]   That we may shine Christ and shine him bright.
+[01:05:56.100 --> 01:05:59.100]   In Jesus' name we pray, amen.
+[01:05:59.100 --> 01:06:03.100]   Let's go ahead and stand together for our closing praise.
+[01:06:03.100 --> 01:06:24.100]   [music]
+[01:06:24.100 --> 01:06:27.100]   There's a hope in life.
+[01:06:27.100 --> 01:06:32.100]   There's a hope in life and death.
+[01:06:32.100 --> 01:06:36.100]   Christ alone, Christ alone.
+[01:06:36.100 --> 01:06:41.100]   What is our only confidence?
+[01:06:41.100 --> 01:06:46.100]   That our souls to him belong.
+[01:06:46.100 --> 01:06:50.100]   Who holds our days within his hand.
+[01:06:50.100 --> 01:06:55.100]   What comes apart from his command.
+[01:06:55.100 --> 01:07:00.100]   And what will keep us to the end?
+[01:07:00.100 --> 01:07:07.100]   The love of Christ in which we stand.
+[01:07:07.100 --> 01:07:13.100]   Oh sing hallelujah.
+[01:07:13.100 --> 01:07:17.100]   Our hope springs eternal.
+[01:07:17.100 --> 01:07:22.100]   Oh sing hallelujah.
+[01:07:22.100 --> 01:07:26.100]   Now and ever we confess.
+[01:07:26.100 --> 01:07:29.100]   Christ our hope in life and death.
+[01:07:29.100 --> 01:07:35.100]   [music]
+[01:07:35.100 --> 01:07:42.100]   What truth, what truth can calm a troubled soul?
+[01:07:42.100 --> 01:07:46.100]   God is good, God is good.
+[01:07:46.100 --> 01:07:51.100]   Where is his grace and goodness known?
+[01:07:51.100 --> 01:07:55.100]   In a great redeemer's bosom.
+[01:07:55.100 --> 01:08:00.100]   Who holds our faith when fears arise.
+[01:08:00.100 --> 01:08:05.100]   Who stands above the stormy tribe.
+[01:08:05.100 --> 01:08:09.100]   Who sends the waves that bring us down.
+[01:08:09.100 --> 01:08:17.100]   Unto the shore the rock of Christ our Savior.
+[01:08:17.100 --> 01:08:22.100]   Oh sing hallelujah.
+[01:08:22.100 --> 01:08:26.100]   Our hope springs eternal.
+[01:08:26.100 --> 01:08:31.100]   Oh sing hallelujah.
+[01:08:31.100 --> 01:08:35.100]   Now and ever we confess.
+[01:08:35.100 --> 01:08:38.100]   Christ our hope in life and death.
+[01:08:38.100 --> 01:08:46.100]   [music]
+[01:08:46.100 --> 01:08:51.100]   Unto the grave what shall we sing?
+[01:08:51.100 --> 01:08:55.100]   Christ still lives, Christ still lives.
+[01:08:55.100 --> 01:09:00.100]   And what reward will that bring?
+[01:09:00.100 --> 01:09:05.100]   Everlasting life.
+[01:09:05.100 --> 01:09:10.100]   There we will rise to meet the Lord.
+[01:09:10.100 --> 01:09:14.100]   And sin and death will be destroyed.
+[01:09:14.100 --> 01:09:19.100]   And we will feast and then when Christ is gone.
+[01:09:19.100 --> 01:09:26.100]   Christ is ours forevermore.
+[01:09:26.100 --> 01:09:31.100]   Oh sing hallelujah.
+[01:09:31.100 --> 01:09:36.100]   Our hope springs eternal.
+[01:09:36.100 --> 01:09:40.100]   Oh sing hallelujah.
+[01:09:40.100 --> 01:09:44.100]   Now and ever we confess.
+[01:09:44.100 --> 01:09:48.100]   Christ our hope in life and death.
+[01:09:48.100 --> 01:09:53.100]   Oh sing hallelujah.
+[01:09:53.100 --> 01:09:58.100]   Our hope springs eternal.
+[01:09:58.100 --> 01:10:02.100]   Oh sing hallelujah.
+[01:10:02.100 --> 01:10:06.100]   Now and ever we confess.
+[01:10:06.100 --> 01:10:11.100]   Christ our hope in life and death.
+[01:10:11.100 --> 01:10:15.100]   Now and ever we confess.
+[01:10:15.100 --> 01:10:18.100]   Christ our hope in life and death.
+[01:10:18.100 --> 01:10:28.100]   [music]
+[01:10:28.100 --> 01:10:31.100]   Pray.
+[01:10:31.100 --> 01:10:37.100]   This comes from Colossians 1 9 through 12, Paul's prayer for the Colossian church.
+[01:10:37.100 --> 01:10:47.100]   For this reason also since the day we heard of it we have not ceased to pray for you and to ask that you may be filled with the knowledge of his will in all spiritual wisdom and understanding.
+[01:10:47.100 --> 01:10:51.100]   So that you will walk in a manner worthy of the Lord to please him in all respects.
+[01:10:51.100 --> 01:10:55.100]   Bearing fruit in every good work and increasing in knowledge of God.
+[01:10:55.100 --> 01:11:08.100]   Strengthened with all power according to his glorious might for the attaining of all steadfastness and patience joyously giving thanks to the father who has qualified us to share in the inheritance of the saints in the light.
+[01:11:08.100 --> 01:11:14.100]   Lord we pray that these words Lord God would be our confession.
+[01:11:14.100 --> 01:11:16.100]   That it would be our testimony.
+[01:11:16.100 --> 01:11:20.100]   We pray Lord God especially with the election coming.
+[01:11:20.100 --> 01:11:22.100]   Help us Lord to be anchored in Christ.
+[01:11:22.100 --> 01:11:27.100]   Help us to be sober and to redeem the opportunity that you give us.
+[01:11:27.100 --> 01:11:34.100]   That the world would know that there is true hope and true life true refuge in Christ and Christ alone.
+[01:11:34.100 --> 01:11:38.100]   So for that end we pray for your anointing in Jesus name we pray. Amen.
+[01:11:38.100 --> 01:11:39.100]   [music]
+[01:11:39.100 --> 01:11:44.100]   God sent his son.
+[01:11:44.100 --> 01:11:49.100]   They called him Jesus.
+[01:11:49.100 --> 01:11:54.100]   He came to love.
+[01:11:54.100 --> 01:11:59.100]   He leant for them.
+[01:11:59.100 --> 01:12:05.100]   He lived and died.
+[01:12:05.100 --> 01:12:10.100]   To buy my poverty.
+[01:12:10.100 --> 01:12:16.100]   An empty grave is there to.
+[01:12:16.100 --> 01:12:21.100]   I save your lips.
+[01:12:21.100 --> 01:12:26.100]   Because he lives.
+[01:12:26.100 --> 01:12:31.100]   I can face tomorrow.
+[01:12:31.100 --> 01:12:37.100]   Because he lives.
+[01:12:37.100 --> 01:12:42.100]   All fear is gone.
+[01:12:42.100 --> 01:12:48.100]   Because I know.
+[01:12:48.100 --> 01:12:53.100]   He holds the future.
+[01:12:53.100 --> 01:12:58.100]   And life is worth the living.
+[01:12:58.100 --> 01:13:06.100]   Just because he lives.
+[01:13:06.100 --> 01:13:16.100]   All right so again if we can have this side of the room just go through that door and then be at the courtyard and then just give it one more minute and let that courtyard be empty.
+[01:13:16.100 --> 01:13:17.100]   Okay.
+[01:13:17.100 --> 01:13:21.100]   So we can have this guy this side just kind of start to exit through that door first.
+[01:13:21.100 --> 01:13:23.500]   first.
+

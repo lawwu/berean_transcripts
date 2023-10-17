@@ -1,0 +1,1421 @@
+
+[00:00:00.000 --> 00:00:02.420]   (soft music)
+[00:00:02.420 --> 00:00:04.840]   (soft music)
+[00:00:04.840 --> 00:00:07.260]   (soft music)
+[00:00:07.260 --> 00:00:09.680]   (soft music)
+[00:00:09.680 --> 00:00:23.680]   (soft music)
+[00:00:23.680 --> 00:00:26.100]   (soft music)
+[00:00:26.100 --> 00:00:36.100]   (soft music)
+[00:00:36.100 --> 00:00:42.100]   (soft music)
+[00:00:42.100 --> 00:00:48.100]   (soft music)
+[00:00:48.100 --> 00:00:50.520]   (soft music)
+[00:00:50.520 --> 00:01:00.520]   (soft music)
+[00:01:00.520 --> 00:01:10.520]   (soft music)
+[00:01:10.520 --> 00:01:12.940]   (soft music)
+[00:01:12.940 --> 00:01:24.940]   (soft music)
+[00:01:24.940 --> 00:01:32.940]   (soft music)
+[00:01:32.940 --> 00:01:35.360]   (soft music)
+[00:01:35.360 --> 00:01:45.360]   (soft music)
+[00:01:45.360 --> 00:01:55.360]   (soft music)
+[00:01:55.360 --> 00:01:57.780]   (soft music)
+[00:01:57.780 --> 00:02:09.780]   (soft music)
+[00:02:09.780 --> 00:02:17.780]   (soft music)
+[00:02:17.780 --> 00:02:20.200]   (soft music)
+[00:02:20.200 --> 00:02:32.200]   (soft music)
+[00:02:32.200 --> 00:02:42.200]   (soft music)
+[00:02:42.200 --> 00:02:44.620]   (soft music)
+[00:02:44.620 --> 00:02:54.620]   (soft music)
+[00:02:54.620 --> 00:03:04.620]   (soft music)
+[00:03:04.620 --> 00:03:07.040]   (soft music)
+[00:03:07.040 --> 00:03:17.040]   (soft music)
+[00:03:17.040 --> 00:03:27.040]   (soft music)
+[00:03:27.040 --> 00:03:29.460]   (soft music)
+[00:03:29.460 --> 00:03:39.460]   (soft music)
+[00:03:39.460 --> 00:03:49.460]   (soft music)
+[00:03:49.460 --> 00:03:51.880]   (soft music)
+[00:03:51.880 --> 00:04:05.880]   (soft music)
+[00:04:05.880 --> 00:04:08.300]   (soft music)
+[00:04:08.300 --> 00:04:18.300]   (soft music)
+[00:04:18.300 --> 00:04:28.300]   (soft music)
+[00:04:28.300 --> 00:04:30.720]   (soft music)
+[00:04:30.720 --> 00:04:40.720]   (soft music)
+[00:04:40.720 --> 00:04:50.720]   (soft music)
+[00:04:50.720 --> 00:04:53.140]   (soft music)
+[00:04:53.140 --> 00:05:03.140]   (soft music)
+[00:05:03.140 --> 00:05:13.140]   (soft music)
+[00:05:13.140 --> 00:05:15.560]   (soft music)
+[00:05:15.560 --> 00:05:35.560]   (soft music)
+[00:05:35.560 --> 00:05:37.980]   (soft music)
+[00:05:37.980 --> 00:05:51.980]   (soft music)
+[00:05:51.980 --> 00:05:54.400]   (soft music)
+[00:05:54.400 --> 00:06:04.400]   (soft music)
+[00:06:04.400 --> 00:06:14.400]   (soft music)
+[00:06:14.400 --> 00:06:16.820]   (soft music)
+[00:06:16.820 --> 00:06:26.820]   (soft music)
+[00:06:26.820 --> 00:06:36.820]   (soft music)
+[00:06:36.820 --> 00:06:39.240]   (soft music)
+[00:06:39.240 --> 00:06:49.240]   (soft music)
+[00:06:49.240 --> 00:06:59.240]   (soft music)
+[00:06:59.240 --> 00:07:01.660]   (soft music)
+[00:07:01.660 --> 00:07:11.660]   (soft music)
+[00:07:11.660 --> 00:07:21.660]   (soft music)
+[00:07:21.660 --> 00:07:24.080]   (soft music)
+[00:07:24.080 --> 00:07:34.080]   (soft music)
+[00:07:34.080 --> 00:07:44.080]   (soft music)
+[00:07:44.080 --> 00:07:46.500]   (soft music)
+[00:07:46.500 --> 00:08:06.500]   (soft music)
+[00:08:06.500 --> 00:08:08.920]   (soft music)
+[00:08:08.920 --> 00:08:18.920]   (soft music)
+[00:08:18.920 --> 00:08:28.920]   (soft music)
+[00:08:28.920 --> 00:08:31.340]   (soft music)
+[00:08:31.340 --> 00:08:41.340]   (soft music)
+[00:08:41.340 --> 00:08:51.340]   (soft music)
+[00:08:51.340 --> 00:08:53.760]   (soft music)
+[00:08:53.760 --> 00:09:03.760]   (soft music)
+[00:09:03.760 --> 00:09:13.760]   (soft music)
+[00:09:13.760 --> 00:09:16.180]   (soft music)
+[00:09:16.180 --> 00:09:26.180]   (soft music)
+[00:09:26.180 --> 00:09:36.180]   (soft music)
+[00:09:36.180 --> 00:09:38.600]   (soft music)
+[00:09:38.600 --> 00:09:52.600]   (soft music)
+[00:09:52.600 --> 00:09:55.020]   (soft music)
+[00:09:55.020 --> 00:10:11.020]   (soft music)
+[00:10:11.020 --> 00:10:13.440]   (soft music)
+[00:10:13.440 --> 00:10:27.440]   (soft music)
+[00:10:39.020 --> 00:10:41.440]   (soft music)
+[00:10:41.440 --> 00:10:55.440]   (soft music)
+[00:10:55.440 --> 00:10:57.860]   (soft music)
+[00:10:57.860 --> 00:11:21.860]   (soft music)
+[00:11:21.860 --> 00:11:24.280]   (soft music)
+[00:11:24.280 --> 00:11:44.280]   (soft music)
+[00:11:44.280 --> 00:11:46.700]   (soft music)
+[00:11:46.700 --> 00:12:00.700]   (soft music)
+[00:12:00.700 --> 00:12:03.120]   (soft music)
+[00:12:03.120 --> 00:12:13.120]   (soft music)
+[00:12:13.120 --> 00:12:23.120]   (soft music)
+[00:12:23.120 --> 00:12:25.540]   (soft music)
+[00:12:25.540 --> 00:12:35.540]   (soft music)
+[00:12:35.540 --> 00:12:45.540]   (soft music)
+[00:12:45.540 --> 00:12:47.960]   (soft music)
+[00:12:47.960 --> 00:12:57.960]   (soft music)
+[00:12:57.960 --> 00:13:07.960]   (soft music)
+[00:13:07.960 --> 00:13:10.380]   (soft music)
+[00:13:10.380 --> 00:13:20.380]   (soft music)
+[00:13:20.380 --> 00:13:30.380]   (soft music)
+[00:13:30.380 --> 00:13:32.800]   (soft music)
+[00:13:32.800 --> 00:13:42.800]   (soft music)
+[00:13:42.800 --> 00:13:52.800]   (soft music)
+[00:13:52.800 --> 00:13:55.220]   (soft music)
+[00:13:55.220 --> 00:14:09.220]   (soft music)
+[00:14:09.220 --> 00:14:11.640]   (soft music)
+[00:14:11.640 --> 00:14:21.640]   (soft music)
+[00:14:21.640 --> 00:14:31.640]   (soft music)
+[00:14:31.640 --> 00:14:34.060]   (soft music)
+[00:14:34.060 --> 00:14:42.640]   - Good morning, Church family.
+[00:14:42.640 --> 00:14:43.640]   Happy Lord's Day.
+[00:14:43.640 --> 00:14:47.060]   Romans 12, verses one and two goes,
+[00:14:47.060 --> 00:14:49.560]   "Therefore I urge you, brethren, by the mercies of God,
+[00:14:49.560 --> 00:14:53.060]   to present your bodies a living and holy sacrifice,
+[00:14:53.060 --> 00:14:54.720]   acceptable to God,
+[00:14:54.720 --> 00:14:57.480]   which is your spiritual service of worship.
+[00:14:57.480 --> 00:14:59.400]   Do not be conformed to this world,
+[00:14:59.400 --> 00:15:02.440]   but be transformed by the renewing of your mind,
+[00:15:02.440 --> 00:15:05.020]   so that you may prove what the will of God is,
+[00:15:05.020 --> 00:15:08.360]   that which is good, acceptable, and perfect."
+[00:15:08.360 --> 00:15:11.520]   This morning, as we reflect on God's great mercies,
+[00:15:11.520 --> 00:15:14.060]   the great gospel that we have received,
+[00:15:14.060 --> 00:15:16.980]   may we in return have a reasonable response
+[00:15:16.980 --> 00:15:18.680]   of offering our lives to the Lord,
+[00:15:18.680 --> 00:15:22.780]   a reasonable response of true worship to him.
+[00:15:22.780 --> 00:15:24.820]   So with that, we will begin our service.
+[00:15:24.820 --> 00:15:27.240]   (soft music)
+[00:15:27.240 --> 00:15:29.660]   (soft music)
+[00:15:29.660 --> 00:15:32.080]   (soft music)
+[00:15:32.080 --> 00:15:58.080]   ♪ All that I am ♪
+[00:15:58.080 --> 00:16:01.580]   ♪ All that I am ♪
+[00:16:01.580 --> 00:16:05.080]   ♪ All that I have ♪
+[00:16:05.080 --> 00:16:10.080]   ♪ I lay them down before you, oh Lord ♪
+[00:16:10.080 --> 00:16:15.580]   ♪ All my regrets ♪
+[00:16:15.580 --> 00:16:19.080]   ♪ All my acclaim ♪
+[00:16:19.080 --> 00:16:22.080]   ♪ The joy and the peace ♪
+[00:16:22.080 --> 00:16:27.080]   ♪ I'm making them yours ♪
+[00:16:28.080 --> 00:16:33.080]   ♪ Lord, I offer my life to you ♪
+[00:16:33.080 --> 00:16:38.080]   ♪ Everything I'm through ♪
+[00:16:38.080 --> 00:16:42.080]   ♪ Use it for your glory ♪
+[00:16:42.080 --> 00:16:47.080]   ♪ Lord, I offer my days to you ♪
+[00:16:47.080 --> 00:16:52.080]   ♪ Lifting my praise to you ♪
+[00:16:52.080 --> 00:16:57.080]   ♪ As a pleasing sacrifice ♪
+[00:16:57.080 --> 00:17:04.080]   ♪ Lord, I offer you my life ♪
+[00:17:04.080 --> 00:17:10.080]   ♪ It's a blessing ♪
+[00:17:10.080 --> 00:17:13.080]   ♪ Filled with my past ♪
+[00:17:13.080 --> 00:17:17.080]   ♪ Filled with tenacity ♪
+[00:17:17.080 --> 00:17:22.080]   ♪ Wishes and dreams that are yet to come true ♪
+[00:17:22.080 --> 00:17:27.080]   ♪ All of my hopes ♪
+[00:17:27.080 --> 00:17:31.080]   ♪ All of my plans ♪
+[00:17:31.080 --> 00:17:34.080]   ♪ My heart and minds ♪
+[00:17:34.080 --> 00:17:39.080]   ♪ Are lifted to you ♪
+[00:17:39.080 --> 00:17:45.080]   ♪ Lord, I offer my life to you ♪
+[00:17:45.080 --> 00:17:50.080]   ♪ Everything I'm through ♪
+[00:17:50.080 --> 00:17:54.080]   ♪ Use it for your glory ♪
+[00:17:54.080 --> 00:17:59.080]   ♪ Lord, I offer my days to you ♪
+[00:17:59.080 --> 00:18:04.080]   ♪ Lifting my praise to you ♪
+[00:18:04.080 --> 00:18:09.080]   ♪ As a pleasing sacrifice ♪
+[00:18:11.080 --> 00:18:16.080]   ♪ Lord, I offer you my life ♪
+[00:18:16.080 --> 00:18:21.080]   ♪ Lord, I offer my life to you ♪
+[00:18:21.080 --> 00:18:26.080]   ♪ Everything I'm through ♪
+[00:18:26.080 --> 00:18:30.080]   ♪ Use it for your glory ♪
+[00:18:30.080 --> 00:18:35.080]   ♪ Lord, I offer my days to you ♪
+[00:18:35.080 --> 00:18:40.080]   ♪ Lifting my praise to you ♪
+[00:18:40.080 --> 00:18:45.080]   ♪ As a pleasing sacrifice ♪
+[00:18:45.080 --> 00:18:52.080]   ♪ Lord, I offer you my life ♪
+[00:18:52.080 --> 00:18:58.080]   ♪ Lord, I offer you my life ♪
+[00:18:58.080 --> 00:19:05.080]   - All right, good morning.
+[00:19:05.080 --> 00:19:07.080]   Welcome to Bering Community Church.
+[00:19:07.080 --> 00:19:09.080]   We have a new visitors welcome lunch
+[00:19:09.080 --> 00:19:12.080]   that's taking place right after this service at 12.30.
+[00:19:12.080 --> 00:19:16.080]   That's gonna be in the other building across the courtyard
+[00:19:16.080 --> 00:19:18.080]   where they have youth group
+[00:19:18.080 --> 00:19:20.080]   and our former cry room over there.
+[00:19:20.080 --> 00:19:22.080]   So if you just go straight there at 12.30,
+[00:19:22.080 --> 00:19:23.080]   we'll get started.
+[00:19:23.080 --> 00:19:24.080]   Even if you're not registered,
+[00:19:24.080 --> 00:19:25.080]   if you're visiting the church
+[00:19:25.080 --> 00:19:28.080]   and you kind of want to find out more about the church,
+[00:19:28.080 --> 00:19:30.080]   that's a lunch that you want to attend.
+[00:19:30.080 --> 00:19:32.080]   So some of the leaders will be there,
+[00:19:32.080 --> 00:19:33.080]   our welcome team,
+[00:19:33.080 --> 00:19:36.080]   and some of our members will be there as well.
+[00:19:36.080 --> 00:19:37.080]   So please sign up for that
+[00:19:37.080 --> 00:19:38.080]   or you can just show up and tell them
+[00:19:38.080 --> 00:19:39.080]   that you want to come,
+[00:19:39.080 --> 00:19:41.080]   even if you haven't signed up for that.
+[00:19:41.080 --> 00:19:42.080]   Just give you a heads up,
+[00:19:42.080 --> 00:19:44.080]   next Sunday we have our communion.
+[00:19:44.080 --> 00:19:47.080]   Again, I can't emphasize strong enough
+[00:19:47.080 --> 00:19:50.080]   how important communion is for the life of the church.
+[00:19:50.080 --> 00:19:54.080]   And even though it is done in remembrance,
+[00:19:54.080 --> 00:19:56.080]   it is something that's commanded in scripture
+[00:19:56.080 --> 00:19:58.080]   to set apart so that we can remember
+[00:19:58.080 --> 00:20:01.080]   and keep Christ and what he has done for us central.
+[00:20:01.080 --> 00:20:04.080]   So we ask that you would come prepared
+[00:20:04.080 --> 00:20:07.080]   so that we would not participate in an unworthy manner.
+[00:20:07.080 --> 00:20:08.080]   So we're just giving you a heads up
+[00:20:08.080 --> 00:20:12.080]   to be ready for that communion next week.
+[00:20:12.080 --> 00:20:13.080]   Galatians Bible study,
+[00:20:13.080 --> 00:20:14.080]   if you haven't signed up for it,
+[00:20:14.080 --> 00:20:16.080]   even if you're part of a home group
+[00:20:16.080 --> 00:20:19.080]   that your home group lead already knows
+[00:20:19.080 --> 00:20:21.080]   that you're going to come,
+[00:20:21.080 --> 00:20:22.080]   even if that is the case,
+[00:20:22.080 --> 00:20:23.080]   we need you to sign up
+[00:20:23.080 --> 00:20:26.080]   because some of the home groups have been so impacted
+[00:20:26.080 --> 00:20:29.080]   we need to figure out if we need to divide it or not.
+[00:20:29.080 --> 00:20:32.080]   And so we need you to sign up for that,
+[00:20:32.080 --> 00:20:35.080]   even if you are for sure you're coming
+[00:20:35.080 --> 00:20:36.080]   so that we can prepare for that.
+[00:20:36.080 --> 00:20:37.080]   Otherwise we're going to end up
+[00:20:37.080 --> 00:20:40.080]   plugging you in somewhere where there's space
+[00:20:40.080 --> 00:20:42.080]   or we're going to end up bringing you,
+[00:20:42.080 --> 00:20:44.080]   having to ask you to come to Wednesday
+[00:20:44.080 --> 00:20:46.080]   because there's more flexibility on Wednesday.
+[00:20:46.080 --> 00:20:47.080]   So if you haven't signed up for that,
+[00:20:47.080 --> 00:20:49.080]   please sign up as soon as possible.
+[00:20:49.080 --> 00:20:51.080]   And then last announcement for today,
+[00:20:51.080 --> 00:20:53.080]   all church retreat that's taking place,
+[00:20:53.080 --> 00:20:54.080]   not this coming weekend,
+[00:20:54.080 --> 00:20:56.080]   but one weekend afterward.
+[00:20:56.080 --> 00:20:58.080]   And the registration is officially closed
+[00:20:58.080 --> 00:21:01.080]   because there's no more room at the hotel.
+[00:21:01.080 --> 00:21:03.080]   We have, but we do have service
+[00:21:03.080 --> 00:21:06.080]   that's taking place here at 11.
+[00:21:06.080 --> 00:21:08.080]   So there will be service here at 11.
+[00:21:08.080 --> 00:21:10.080]   Those of you who cannot make it
+[00:21:10.080 --> 00:21:12.080]   and you are planning to come to church that Sunday,
+[00:21:12.080 --> 00:21:14.080]   there is no nine o'clock service.
+[00:21:14.080 --> 00:21:17.080]   There's only the 11 o'clock service.
+[00:21:17.080 --> 00:21:19.080]   And so because of that,
+[00:21:19.080 --> 00:21:20.080]   there's going to be no childcare
+[00:21:20.080 --> 00:21:21.080]   because all the childcare
+[00:21:21.080 --> 00:21:24.080]   and everything's going to be happening at the retreat
+[00:21:24.080 --> 00:21:25.080]   and then no shuttle service.
+[00:21:25.080 --> 00:21:27.080]   So we're probably thinking
+[00:21:27.080 --> 00:21:30.080]   you're not going to need the shuttle service that Sunday,
+[00:21:30.080 --> 00:21:32.080]   but there are quite a few
+[00:21:32.080 --> 00:21:34.080]   who probably are planning to come on Sunday.
+[00:21:34.080 --> 00:21:37.080]   So you can probably just kind of park nearby here.
+[00:21:37.080 --> 00:21:39.080]   So there's no shuttles for service that Sunday,
+[00:21:39.080 --> 00:21:42.080]   but we'll remind you again next Sunday,
+[00:21:42.080 --> 00:21:45.080]   but that's going on in two Sundays.
+[00:21:45.080 --> 00:21:49.080]   Okay, I think that's it for the announcements.
+[00:21:49.080 --> 00:21:51.080]   After our praise,
+[00:21:51.080 --> 00:21:53.080]   our sister Jane Lee is going to come
+[00:21:53.080 --> 00:21:56.080]   and give her testimony and we'll be baptized.
+[00:21:56.080 --> 00:21:57.080]   So let me pray for us
+[00:21:57.080 --> 00:21:59.080]   and then we'll give you a minute to give your offering.
+[00:21:59.080 --> 00:22:01.080]   And again, those of you who need a physical box,
+[00:22:01.080 --> 00:22:03.080]   there's a box on the way out.
+[00:22:03.080 --> 00:22:07.080]   Okay, let's pray.
+[00:22:07.080 --> 00:22:11.080]   Father, we have gathered here as a community
+[00:22:11.080 --> 00:22:13.080]   to worship you, Lord God,
+[00:22:13.080 --> 00:22:15.080]   and to do our best, Lord,
+[00:22:15.080 --> 00:22:17.080]   to give you the honor and glory
+[00:22:17.080 --> 00:22:20.080]   and praise that you deserve.
+[00:22:20.080 --> 00:22:23.080]   I pray that you would search our hearts,
+[00:22:23.080 --> 00:22:25.080]   search our lives, our thoughts,
+[00:22:25.080 --> 00:22:29.080]   things, Lord God, that we try so hard to hide.
+[00:22:29.080 --> 00:22:31.080]   I pray that your word and your spirit
+[00:22:31.080 --> 00:22:33.080]   would convict us and guide us,
+[00:22:33.080 --> 00:22:35.080]   sanctify us,
+[00:22:35.080 --> 00:22:37.080]   that we truly may be living lives
+[00:22:37.080 --> 00:22:40.080]   worthy of the gospel that you've given.
+[00:22:40.080 --> 00:22:42.080]   I pray that you would bless this morning
+[00:22:42.080 --> 00:22:44.080]   in our worship, in your word,
+[00:22:44.080 --> 00:22:46.080]   in our fellowship, in giving,
+[00:22:46.080 --> 00:22:48.080]   that even in this, Lord God,
+[00:22:48.080 --> 00:22:52.080]   may it be done to honor and glorify you,
+[00:22:52.080 --> 00:22:54.080]   may it be multiplied for your use in your kingdom.
+[00:22:54.080 --> 00:22:57.080]   In Jesus' name we pray, amen.
+[00:22:58.080 --> 00:23:01.080]   [organ music]
+[00:23:01.080 --> 00:23:08.080]   ♪ ♪
+[00:23:08.080 --> 00:23:18.080]   ♪ ♪
+[00:23:18.080 --> 00:23:28.080]   ♪ ♪
+[00:23:28.080 --> 00:23:38.080]   ♪ ♪
+[00:23:38.080 --> 00:23:48.080]   ♪ ♪
+[00:23:48.080 --> 00:23:58.080]   ♪ ♪
+[00:23:58.080 --> 00:24:03.080]   ♪ ♪
+[00:24:03.080 --> 00:24:13.080]   ♪ ♪
+[00:24:13.080 --> 00:24:23.080]   ♪ ♪
+[00:24:23.080 --> 00:24:33.080]   ♪ ♪
+[00:24:33.080 --> 00:24:43.080]   ♪ ♪
+[00:24:43.080 --> 00:24:53.080]   ♪ ♪
+[00:24:53.080 --> 00:25:03.080]   ♪ ♪
+[00:25:03.080 --> 00:25:13.080]   ♪ ♪
+[00:25:13.080 --> 00:25:23.080]   ♪ ♪
+[00:25:23.080 --> 00:25:33.080]   ♪ ♪
+[00:25:33.080 --> 00:25:43.080]   ♪ ♪
+[00:25:43.080 --> 00:25:53.080]   ♪ ♪
+[00:25:53.080 --> 00:26:03.080]   ♪ ♪
+[00:26:03.080 --> 00:26:13.080]   ♪ ♪
+[00:26:13.080 --> 00:26:23.080]   ♪ ♪
+[00:26:23.080 --> 00:26:33.080]   ♪ ♪
+[00:26:33.080 --> 00:26:43.080]   ♪ ♪
+[00:26:43.080 --> 00:26:53.080]   ♪ ♪
+[00:26:53.080 --> 00:27:03.080]   ♪ ♪
+[00:27:03.080 --> 00:27:13.080]   ♪ ♪
+[00:27:13.080 --> 00:27:23.080]   ♪ ♪
+[00:27:23.080 --> 00:27:33.080]   ♪ ♪
+[00:27:33.080 --> 00:27:43.080]   ♪ ♪
+[00:27:43.080 --> 00:27:53.080]   ♪ ♪
+[00:27:53.080 --> 00:28:03.080]   ♪ ♪
+[00:28:03.080 --> 00:28:13.080]   ♪ ♪
+[00:28:13.080 --> 00:28:23.080]   ♪ ♪
+[00:28:23.080 --> 00:28:33.080]   ♪ ♪
+[00:28:33.080 --> 00:28:43.080]   ♪ ♪
+[00:28:43.080 --> 00:28:53.080]   ♪ ♪
+[00:28:53.080 --> 00:29:03.080]   ♪ ♪
+[00:29:03.080 --> 00:29:13.080]   ♪ ♪
+[00:29:13.080 --> 00:29:23.080]   ♪ ♪
+[00:29:23.080 --> 00:29:33.080]   ♪ ♪
+[00:29:33.080 --> 00:29:43.080]   ♪ ♪
+[00:29:43.080 --> 00:29:53.080]   ♪ ♪
+[00:29:53.080 --> 00:30:03.080]   ♪ ♪
+[00:30:03.080 --> 00:30:13.080]   ♪ ♪
+[00:30:13.080 --> 00:30:23.080]   ♪ ♪
+[00:30:23.080 --> 00:30:33.080]   ♪ ♪
+[00:30:33.080 --> 00:30:43.080]   ♪ ♪
+[00:30:43.080 --> 00:30:53.080]   ♪ ♪
+[00:30:53.080 --> 00:31:03.080]   ♪ ♪
+[00:31:03.080 --> 00:31:13.080]   ♪ ♪
+[00:31:13.080 --> 00:31:23.080]   ♪ ♪
+[00:31:23.080 --> 00:31:33.080]   ♪ ♪
+[00:31:33.080 --> 00:31:43.080]   ♪ ♪
+[00:31:43.080 --> 00:31:53.080]   ♪ ♪
+[00:31:53.080 --> 00:32:03.080]   ♪ ♪
+[00:32:03.080 --> 00:32:13.080]   ♪ ♪
+[00:32:13.080 --> 00:32:23.080]   ♪ ♪
+[00:32:23.080 --> 00:32:33.080]   ♪ ♪
+[00:32:33.080 --> 00:32:43.080]   ♪ ♪
+[00:32:43.080 --> 00:32:53.080]   ♪ ♪
+[00:32:53.080 --> 00:33:03.080]   ♪ ♪
+[00:33:03.080 --> 00:33:13.080]   ♪ ♪
+[00:33:13.080 --> 00:33:23.080]   ♪ ♪
+[00:33:23.080 --> 00:33:33.080]   ♪ ♪
+[00:33:33.080 --> 00:33:43.080]   ♪ ♪
+[00:33:43.080 --> 00:33:53.080]   ♪ ♪
+[00:33:53.080 --> 00:34:03.080]   ♪ ♪
+[00:34:03.080 --> 00:34:13.080]   ♪ ♪
+[00:34:13.080 --> 00:34:23.080]   ♪ ♪
+[00:34:23.080 --> 00:34:33.080]   ♪ ♪
+[00:34:33.080 --> 00:34:43.080]   ♪ ♪
+[00:34:43.080 --> 00:34:53.080]   ♪ ♪
+[00:34:53.080 --> 00:35:03.080]   ♪ ♪
+[00:35:03.080 --> 00:35:13.080]   ♪ ♪
+[00:35:13.080 --> 00:35:23.080]   ♪ ♪
+[00:35:23.080 --> 00:35:33.080]   ♪ ♪
+[00:35:33.080 --> 00:35:43.080]   ♪ ♪
+[00:35:43.080 --> 00:35:53.080]   ♪ ♪
+[00:35:53.080 --> 00:36:03.080]   ♪ ♪
+[00:36:03.080 --> 00:36:13.080]   ♪ ♪
+[00:36:13.080 --> 00:36:23.080]   ♪ ♪
+[00:36:23.080 --> 00:36:33.080]   ♪ ♪
+[00:36:33.080 --> 00:36:43.080]   ♪ ♪
+[00:36:43.080 --> 00:36:53.080]   ♪ ♪
+[00:36:53.080 --> 00:37:03.080]   ♪ ♪
+[00:37:03.080 --> 00:37:13.080]   ♪ ♪
+[00:37:13.080 --> 00:37:23.080]   ♪ ♪
+[00:37:23.080 --> 00:37:33.080]   ♪ ♪
+[00:37:33.080 --> 00:37:43.080]   [applause]
+[00:37:43.080 --> 00:37:51.080]   [applause]
+[00:37:51.080 --> 00:37:52.080]   >> All right, thank you.
+[00:37:52.080 --> 00:37:55.080]   If you can turn your Bibles with me to Luke chapter 6,
+[00:37:55.080 --> 00:38:00.080]   we're going to be jumping back into the Gospel of Luke.
+[00:38:00.080 --> 00:38:03.080]   And we're going to be reading from verse 12 through 16
+[00:38:03.080 --> 00:38:07.080]   just to kind of refresh our memory.
+[00:38:07.080 --> 00:38:10.080]   And I don't know how much longer I'm going to be in this text,
+[00:38:10.080 --> 00:38:13.080]   but we're going to be going at a breakneck speed today,
+[00:38:13.080 --> 00:38:16.080]   and we're going to be counting two instead of one, okay?
+[00:38:16.080 --> 00:38:18.080]   James and John.
+[00:38:18.080 --> 00:38:20.080]   Starting from verse 12, it reads,
+[00:38:20.080 --> 00:38:23.080]   "It was at this time he went off to the mountain to pray,
+[00:38:23.080 --> 00:38:26.080]   and he spent the whole night in prayer to God.
+[00:38:26.080 --> 00:38:28.080]   And when the day came, he called his disciples to him
+[00:38:28.080 --> 00:38:32.080]   and chose 12 of them, whom he also named as apostles--
+[00:38:32.080 --> 00:38:35.080]   Simon, whom he also named Peter, and Andrew his brother,
+[00:38:35.080 --> 00:38:37.080]   and James and John, and Philip and Bartholomew,
+[00:38:37.080 --> 00:38:40.080]   Matthew and Thomas, James the son of Aphaias,
+[00:38:40.080 --> 00:38:43.080]   and Simon, who was called the Zealot,
+[00:38:43.080 --> 00:38:46.080]   Judas the son of James, and Judas Iscariot,
+[00:38:46.080 --> 00:38:48.080]   who became a traitor."
+[00:38:48.080 --> 00:38:52.080]   Let's pray.
+[00:38:52.080 --> 00:38:56.080]   Father, help us to understand your Word.
+[00:38:56.080 --> 00:39:01.080]   Help us not to add or to take away from it.
+[00:39:01.080 --> 00:39:05.080]   I pray that you would shine your light through the Word
+[00:39:05.080 --> 00:39:07.080]   of our own hearts.
+[00:39:07.080 --> 00:39:12.080]   Help us to learn, glean, and apply the things that you teach.
+[00:39:12.080 --> 00:39:15.080]   May your name be honored, glorified, and exalted.
+[00:39:15.080 --> 00:39:20.080]   In Jesus' name we pray, amen.
+[00:39:20.080 --> 00:39:22.080]   Now, if you watch YouTube or--
+[00:39:22.080 --> 00:39:24.080]   I don't know where you get your videos,
+[00:39:24.080 --> 00:39:27.080]   but one of the things that always kind of pops up
+[00:39:27.080 --> 00:39:30.080]   every once in a while are videos of people
+[00:39:30.080 --> 00:39:33.080]   who lost tremendous amount of weight.
+[00:39:33.080 --> 00:39:35.080]   They were 300 pounds or something,
+[00:39:35.080 --> 00:39:37.080]   and they lost 100 pounds, and you see a big,
+[00:39:37.080 --> 00:39:40.080]   significant difference, and the video kind of chronicles
+[00:39:40.080 --> 00:39:43.080]   how they were able to overcome various things
+[00:39:43.080 --> 00:39:45.080]   to be able to do that.
+[00:39:45.080 --> 00:39:48.080]   Or the other way, where you have somebody who's very skinny,
+[00:39:48.080 --> 00:39:50.080]   and then he works out, and about a year later,
+[00:39:50.080 --> 00:39:52.080]   you just see the completely transformed man.
+[00:39:52.080 --> 00:39:54.080]   And obviously, those videos are always popular
+[00:39:54.080 --> 00:39:58.080]   because it's inspiring to see people kind of dedicate themselves
+[00:39:58.080 --> 00:40:02.080]   and see the radical transformation physically.
+[00:40:02.080 --> 00:40:07.080]   But what is even greater than the physical transformation
+[00:40:07.080 --> 00:40:12.080]   is when we see people completely change internally.
+[00:40:12.080 --> 00:40:15.080]   As challenging, as inspiring it is to see people
+[00:40:15.080 --> 00:40:18.080]   transform their outer body,
+[00:40:18.080 --> 00:40:21.080]   it is much more difficult to see somebody
+[00:40:21.080 --> 00:40:23.080]   who gets transformed internally.
+[00:40:23.080 --> 00:40:26.080]   In fact, in Jeremiah 13:23, it says,
+[00:40:26.080 --> 00:40:29.080]   "Can an Ethiopian change his skin?
+[00:40:29.080 --> 00:40:32.080]   Can a leper change his spot?"
+[00:40:32.080 --> 00:40:35.080]   And basically compares it to a sinner
+[00:40:35.080 --> 00:40:39.080]   who is in the practice of sinning to just simply stop sinning.
+[00:40:39.080 --> 00:40:42.080]   He said, "It just doesn't happen."
+[00:40:42.080 --> 00:40:44.080]   And if one thing after living all these years,
+[00:40:44.080 --> 00:40:48.080]   one thing I can testify, and I think you will agree with me,
+[00:40:48.080 --> 00:40:51.080]   people just do not change.
+[00:40:51.080 --> 00:40:55.080]   You just have a different version of ourselves when we're young,
+[00:40:55.080 --> 00:40:58.080]   and then the way we carry it out, whether you're good or bad,
+[00:40:58.080 --> 00:41:00.080]   you meet them 20, 30 years later,
+[00:41:00.080 --> 00:41:04.080]   rarely you see a completely different person.
+[00:41:04.080 --> 00:41:06.080]   Every once in a while, you'll meet somebody
+[00:41:06.080 --> 00:41:07.080]   that you haven't seen for a while,
+[00:41:07.080 --> 00:41:09.080]   and you can't even recognize who they are.
+[00:41:09.080 --> 00:41:11.080]   I'm not just talking about physically.
+[00:41:11.080 --> 00:41:13.080]   Just internally, something happened to them.
+[00:41:13.080 --> 00:41:17.080]   Either they become so dark, something happened to them.
+[00:41:17.080 --> 00:41:22.080]   They went through maybe a very painful divorce or bankruptcy,
+[00:41:22.080 --> 00:41:23.080]   or something happened to them,
+[00:41:23.080 --> 00:41:26.080]   lost somebody that was very significant to them,
+[00:41:26.080 --> 00:41:28.080]   and there's a darkness that comes over them,
+[00:41:28.080 --> 00:41:29.080]   and you can see something has happened.
+[00:41:29.080 --> 00:41:34.080]   Or the opposite, there's somebody who's become so bright,
+[00:41:34.080 --> 00:41:36.080]   and there's something completely different about them.
+[00:41:36.080 --> 00:41:39.080]   And usually the question that we ask is, "What happened?
+[00:41:39.080 --> 00:41:40.080]   What happened?"
+[00:41:40.080 --> 00:41:43.080]   Because we know that as difficult as it is
+[00:41:43.080 --> 00:41:46.080]   to transform our physical body,
+[00:41:46.080 --> 00:41:48.080]   when you see somebody who's completely transformed
+[00:41:48.080 --> 00:41:49.080]   a different person,
+[00:41:49.080 --> 00:41:52.080]   we know something significant happened to that person.
+[00:41:52.080 --> 00:41:54.080]   That's the question that we ask.
+[00:41:54.080 --> 00:41:58.080]   Well, in the scriptures, among the disciples,
+[00:41:58.080 --> 00:42:01.080]   I think everybody, all the disciples,
+[00:42:01.080 --> 00:42:02.080]   went through radical transformation,
+[00:42:02.080 --> 00:42:07.080]   but James and John are probably the most obvious.
+[00:42:07.080 --> 00:42:09.080]   James and John, these two disciples,
+[00:42:09.080 --> 00:42:11.080]   these two of the inner three,
+[00:42:11.080 --> 00:42:14.080]   they were known to be passionate.
+[00:42:14.080 --> 00:42:17.080]   And passion could be a good thing or a bad thing, right?
+[00:42:17.080 --> 00:42:18.080]   It could be a passion.
+[00:42:18.080 --> 00:42:19.080]   Somebody who's very passionate
+[00:42:19.080 --> 00:42:23.080]   could mean that he's very zealous for the right thing,
+[00:42:23.080 --> 00:42:26.080]   but it could also mean he has a bad temper, right?
+[00:42:26.080 --> 00:42:29.080]   In this situation, it was not necessarily,
+[00:42:29.080 --> 00:42:30.080]   at least the way it was being expressed
+[00:42:30.080 --> 00:42:32.080]   and how it's revealed to us,
+[00:42:32.080 --> 00:42:33.080]   is not necessarily positive.
+[00:42:33.080 --> 00:42:38.080]   In Mark 3, 16-17, he appointed the twelve, Simon,
+[00:42:38.080 --> 00:42:40.080]   to whom he gave the name Peter,
+[00:42:40.080 --> 00:42:41.080]   and James and the son of Zebedee,
+[00:42:41.080 --> 00:42:42.080]   and John, the brother of James,
+[00:42:42.080 --> 00:42:45.080]   to them he gave the name Bonergus,
+[00:42:45.080 --> 00:42:49.080]   which means sons of thunder.
+[00:42:49.080 --> 00:42:51.080]   Now, their name, sons of thunder,
+[00:42:51.080 --> 00:42:54.080]   was not necessarily a positive, right?
+[00:42:54.080 --> 00:42:56.080]   It wasn't a prophetic word,
+[00:42:56.080 --> 00:42:58.080]   like you're going to be the sons of thunder,
+[00:42:58.080 --> 00:42:59.080]   kind of like when he saw Simon,
+[00:42:59.080 --> 00:43:01.080]   he said your name is going to be Peter
+[00:43:01.080 --> 00:43:02.080]   because you're going to be the rock.
+[00:43:02.080 --> 00:43:05.080]   Or when Abram changes his name to Abraham,
+[00:43:05.080 --> 00:43:07.080]   that he's going to be a God,
+[00:43:07.080 --> 00:43:10.080]   he's going to be a father of multitude.
+[00:43:10.080 --> 00:43:14.080]   In this situation, it's just a description, right?
+[00:43:14.080 --> 00:43:17.080]   When you say Air Jordan, right?
+[00:43:17.080 --> 00:43:19.080]   Those guys from that generation,
+[00:43:19.080 --> 00:43:20.080]   Air Jordan basically means,
+[00:43:20.080 --> 00:43:22.080]   it was just a description of who he was
+[00:43:22.080 --> 00:43:24.080]   because he would get up in the air.
+[00:43:24.080 --> 00:43:27.080]   And so even his logo is him just flying up in the air,
+[00:43:27.080 --> 00:43:29.080]   so that was a description of who he is.
+[00:43:29.080 --> 00:43:32.080]   Or Magic Johnson, I know a little bit outdated, right?
+[00:43:32.080 --> 00:43:35.080]   Magic Johnson because when he was bringing down the ball,
+[00:43:35.080 --> 00:43:37.080]   you didn't know where the ball was going to go, right?
+[00:43:37.080 --> 00:43:39.080]   It was almost like he's creating magic,
+[00:43:39.080 --> 00:43:42.080]   and back then you had cameras that would follow him,
+[00:43:42.080 --> 00:43:44.080]   and oftentimes the camera would turn right
+[00:43:44.080 --> 00:43:45.080]   and then the ball would go left,
+[00:43:45.080 --> 00:43:47.080]   so they have to switch the camera to get him.
+[00:43:47.080 --> 00:43:50.080]   And so that's how he got the nickname Magic Johnson.
+[00:43:50.080 --> 00:43:52.080]   And it was just a description,
+[00:43:52.080 --> 00:43:55.080]   an observation of who they are.
+[00:43:55.080 --> 00:43:59.080]   The sons of thunder was not necessarily a compliment
+[00:43:59.080 --> 00:44:04.080]   because he saw certain characters of these two brothers.
+[00:44:04.080 --> 00:44:06.080]   In Luke chapter 9, 46,
+[00:44:06.080 --> 00:44:08.080]   and this was a common thing,
+[00:44:08.080 --> 00:44:11.080]   and I think it grew as Jesus was headed to the cross,
+[00:44:11.080 --> 00:44:13.080]   there was an argument that kept on breaking out
+[00:44:13.080 --> 00:44:16.080]   among the disciples, like, "Who's the greatest?"
+[00:44:16.080 --> 00:44:18.080]   And Jesus, recognizing that,
+[00:44:18.080 --> 00:44:20.080]   he rebukes them and saying,
+[00:44:20.080 --> 00:44:22.080]   "Unless you have a faith of a child,"
+[00:44:22.080 --> 00:44:25.080]   meaning these innocent children that don't have authority,
+[00:44:25.080 --> 00:44:27.080]   don't have power, don't have money,
+[00:44:27.080 --> 00:44:30.080]   "if you don't humble yourselves like these little children,
+[00:44:30.080 --> 00:44:34.080]   "you will not be able to enter the kingdom of heaven."
+[00:44:34.080 --> 00:44:36.080]   It is in that context, in verse 49,
+[00:44:36.080 --> 00:44:40.080]   it tells us John saw some people
+[00:44:40.080 --> 00:44:42.080]   who were going out performing miracles,
+[00:44:42.080 --> 00:44:44.080]   casting out demons, and it bothered him.
+[00:44:44.080 --> 00:44:46.080]   And he says, "Master, we saw someone
+[00:44:46.080 --> 00:44:48.080]   "casting out demons in your name,
+[00:44:48.080 --> 00:44:49.080]   "and we tried to prevent him
+[00:44:49.080 --> 00:44:52.080]   "because he does not follow along with us."
+[00:44:52.080 --> 00:44:54.080]   But Jesus said to him, "Do not hinder him,
+[00:44:54.080 --> 00:44:57.080]   "for he who is not against you is for you."
+[00:44:57.080 --> 00:45:02.080]   Now, those words in and of itself may seem innocent,
+[00:45:02.080 --> 00:45:04.080]   but when you see it in the context
+[00:45:04.080 --> 00:45:07.080]   of what was going on before that,
+[00:45:07.080 --> 00:45:08.080]   that they were arguing with one another,
+[00:45:08.080 --> 00:45:10.080]   "Who's the greatest?"
+[00:45:10.080 --> 00:45:12.080]   And Jesus rebuking them.
+[00:45:12.080 --> 00:45:14.080]   So when John says this,
+[00:45:14.080 --> 00:45:16.080]   it wasn't simply because he was concerned,
+[00:45:16.080 --> 00:45:17.080]   like, "Do they have the authority?
+[00:45:17.080 --> 00:45:19.080]   "Do they have the right?"
+[00:45:19.080 --> 00:45:21.080]   They were the ones who were the apostles.
+[00:45:21.080 --> 00:45:23.080]   They were the one who was chosen.
+[00:45:23.080 --> 00:45:25.080]   And these guys are doing the same thing,
+[00:45:25.080 --> 00:45:28.080]   and people are honoring them, too.
+[00:45:28.080 --> 00:45:32.080]   So within the context, this was not an innocent question
+[00:45:32.080 --> 00:45:33.080]   because they're arguing with each other,
+[00:45:33.080 --> 00:45:34.080]   "Who's the greatest?"
+[00:45:34.080 --> 00:45:35.080]   And these guys are doing the same thing.
+[00:45:35.080 --> 00:45:36.080]   Should I stop them?
+[00:45:36.080 --> 00:45:37.080]   So Jesus rebukes them,
+[00:45:37.080 --> 00:45:40.080]   and says, "He who is not against us is for us."
+[00:45:40.080 --> 00:45:43.080]   So it kind of reveals to us what's going on with John.
+[00:45:43.080 --> 00:45:44.080]   But what's really revealing
+[00:45:44.080 --> 00:45:47.080]   and what caused Jesus to give them this question
+[00:45:47.080 --> 00:45:50.080]   is stated in verse 51 through 56.
+[00:45:50.080 --> 00:45:51.080]   Right after that text, it says,
+[00:45:51.080 --> 00:45:54.080]   "When the days were approaching for his ascension,
+[00:45:54.080 --> 00:45:56.080]   "he was determined to go to Jerusalem,"
+[00:45:56.080 --> 00:45:57.080]   referring to Jesus,
+[00:45:57.080 --> 00:45:59.080]   "and he sent messengers on ahead of him,
+[00:45:59.080 --> 00:46:02.080]   "and they went and entered the village of the Samaritans
+[00:46:02.080 --> 00:46:04.080]   "to make arrangements for him."
+[00:46:04.080 --> 00:46:06.080]   So when we get to this text,
+[00:46:06.080 --> 00:46:08.080]   I'm going to go a bit more detail
+[00:46:08.080 --> 00:46:10.080]   about the historical background
+[00:46:10.080 --> 00:46:11.080]   of why the Samaritans and the Jews
+[00:46:11.080 --> 00:46:13.080]   hated each other so much.
+[00:46:13.080 --> 00:46:16.080]   But just so that you can understand what's going on,
+[00:46:16.080 --> 00:46:20.080]   when the Assyrians came and they conquered the Jews,
+[00:46:20.080 --> 00:46:22.080]   they took all the men and women,
+[00:46:22.080 --> 00:46:24.080]   and they took them into Assyria.
+[00:46:24.080 --> 00:46:26.080]   And there was a small remnant of people
+[00:46:26.080 --> 00:46:28.080]   that remained in Jerusalem.
+[00:46:29.080 --> 00:46:32.080]   And in order to gain control of that area,
+[00:46:32.080 --> 00:46:35.080]   the Assyrians sent a lot of their people
+[00:46:35.080 --> 00:46:37.080]   to populate that area.
+[00:46:37.080 --> 00:46:40.080]   So what happened was the Jews who remained in the area
+[00:46:40.080 --> 00:46:42.080]   and the Assyrians who started to come
+[00:46:42.080 --> 00:46:45.080]   started to integrate and intermarry.
+[00:46:45.080 --> 00:46:47.080]   And as they were intermarrying,
+[00:46:47.080 --> 00:46:51.080]   the Samaritans began to create
+[00:46:51.080 --> 00:46:53.080]   their own version of Judaism.
+[00:46:53.080 --> 00:46:54.080]   They had their own sacrifice.
+[00:46:54.080 --> 00:46:56.080]   They had their own system
+[00:46:56.080 --> 00:47:00.080]   so that they didn't have to go to where the Jews were.
+[00:47:00.080 --> 00:47:03.080]   And so the Jews always looked at them as compromisers.
+[00:47:03.080 --> 00:47:06.080]   In fact, they had this hatred toward one another
+[00:47:06.080 --> 00:47:10.080]   that when King Cyrus gives the leaders of Israel
+[00:47:10.080 --> 00:47:13.080]   to come back and reestablish the temple,
+[00:47:13.080 --> 00:47:15.080]   the Samaritans ended up wanting to,
+[00:47:15.080 --> 00:47:16.080]   "Hey, we're going to rebuild together."
+[00:47:16.080 --> 00:47:18.080]   And they said, "No, you guys are not true Jews.
+[00:47:18.080 --> 00:47:19.080]   "You haven't been faithful,
+[00:47:19.080 --> 00:47:21.080]   "so we cannot allow you to participate."
+[00:47:21.080 --> 00:47:23.080]   So they ended up becoming more enemies.
+[00:47:23.080 --> 00:47:25.080]   They ended up, the Samaritans actually come
+[00:47:25.080 --> 00:47:28.080]   and fight against the building of the temple.
+[00:47:28.080 --> 00:47:29.080]   So ever since then,
+[00:47:29.080 --> 00:47:31.080]   they had this hatred toward one another.
+[00:47:31.080 --> 00:47:33.080]   This hatred was so intense
+[00:47:33.080 --> 00:47:37.080]   that when an average Jew would travel between Galilee
+[00:47:37.080 --> 00:47:38.080]   and Jerusalem would be here,
+[00:47:38.080 --> 00:47:41.080]   and Samaria would be somewhere in the middle,
+[00:47:41.080 --> 00:47:43.080]   they would go an extra day around Samaria
+[00:47:43.080 --> 00:47:45.080]   so they don't have to step foot in Samaria.
+[00:47:45.080 --> 00:47:48.080]   That's how much they hated each other.
+[00:47:48.080 --> 00:47:49.080]   Well, this scene happens
+[00:47:49.080 --> 00:47:51.080]   when Jesus is coming down to Jerusalem
+[00:47:51.080 --> 00:47:54.080]   to prepare for a festival, him and his disciples,
+[00:47:54.080 --> 00:47:56.080]   and they're just trying to settle in somewhere
+[00:47:56.080 --> 00:47:59.080]   and get a place so that they can settle in and prepare.
+[00:47:59.080 --> 00:48:01.080]   But when the Samaritans realized
+[00:48:01.080 --> 00:48:03.080]   that they were going to Jerusalem,
+[00:48:03.080 --> 00:48:05.080]   they prevented them, saying, "They can't come."
+[00:48:05.080 --> 00:48:09.080]   So that's the context in which this takes place.
+[00:48:09.080 --> 00:48:13.080]   So clearly, Jesus is in the right.
+[00:48:13.080 --> 00:48:15.080]   The disciples are in the right
+[00:48:15.080 --> 00:48:17.080]   because this is the Messiah, this is the King.
+[00:48:17.080 --> 00:48:20.080]   The Samaritans are the ones who compromised.
+[00:48:20.080 --> 00:48:23.080]   The Samaritans are the one, in this context,
+[00:48:23.080 --> 00:48:27.080]   who is preventing the Messiah, their King,
+[00:48:27.080 --> 00:48:28.080]   to go to Jerusalem.
+[00:48:28.080 --> 00:48:31.080]   So there is a clear right and wrong.
+[00:48:31.080 --> 00:48:35.080]   But the way that John and James responded
+[00:48:35.080 --> 00:48:38.080]   is very revealing to us in verse 53.
+[00:48:38.080 --> 00:48:39.080]   "But they did not receive him
+[00:48:39.080 --> 00:48:41.080]   because he was traveling toward Jerusalem.
+[00:48:41.080 --> 00:48:43.080]   And when his disciples, James and John, saw this,
+[00:48:43.080 --> 00:48:46.080]   they said, 'Lord, do you want us to command fire
+[00:48:46.080 --> 00:48:50.080]   to come down from heaven and consume them?'"
+[00:48:50.080 --> 00:48:53.080]   Now, first of all, it almost sounded like
+[00:48:53.080 --> 00:48:55.080]   they've done this before.
+[00:48:55.080 --> 00:48:57.080]   He didn't say, "Oh, can you give me the power?
+[00:48:57.080 --> 00:48:58.080]   Would you do this?"
+[00:48:58.080 --> 00:49:01.080]   It almost sounded like they had some sort of power.
+[00:49:01.080 --> 00:49:03.080]   So I don't know if they had the authority
+[00:49:03.080 --> 00:49:04.080]   or the power to do this,
+[00:49:04.080 --> 00:49:06.080]   but the way that they're asking was,
+[00:49:06.080 --> 00:49:10.080]   "Do you want us to just get rid of these people?"
+[00:49:10.080 --> 00:49:13.080]   "But he turned, Jesus turned, and rebuked them and said,
+[00:49:13.080 --> 00:49:16.080]   'You do not know what kind of spirit you are of.
+[00:49:16.080 --> 00:49:19.080]   For the Son of Man did not come to destroy men's lives,
+[00:49:19.080 --> 00:49:23.080]   but to save them, and they went on to another village.'"
+[00:49:23.080 --> 00:49:25.080]   So you can see why James and John
+[00:49:25.080 --> 00:49:28.080]   was giving this title "The Sons of Thunder."
+[00:49:28.080 --> 00:49:34.080]   Literally, if they were left the way they were,
+[00:49:34.080 --> 00:49:37.080]   they would have become mass murderers.
+[00:49:37.080 --> 00:49:38.080]   And that's not an exaggeration
+[00:49:38.080 --> 00:49:40.080]   because that's exactly what they were saying,
+[00:49:40.080 --> 00:49:41.080]   what he was saying.
+[00:49:41.080 --> 00:49:44.080]   Because we're in the right, and they're in the wrong.
+[00:49:44.080 --> 00:49:46.080]   "Should judgment come now?
+[00:49:46.080 --> 00:49:47.080]   Give me the permission.
+[00:49:47.080 --> 00:49:51.080]   Let me bring the thunder down."
+[00:49:51.080 --> 00:49:54.080]   But it's very telling what Jesus says.
+[00:49:54.080 --> 00:49:57.080]   Yes, they are in the wrong.
+[00:49:57.080 --> 00:50:01.080]   This is the king of kings and lord of lords.
+[00:50:01.080 --> 00:50:02.080]   They are in the wrong,
+[00:50:02.080 --> 00:50:05.080]   but the way he rebukes them, he says,
+[00:50:05.080 --> 00:50:08.080]   "You do not know the spirit,
+[00:50:08.080 --> 00:50:12.080]   what kind of spirit you are of."
+[00:50:12.080 --> 00:50:13.080]   When he says, "You do not know the spirit
+[00:50:13.080 --> 00:50:15.080]   of what kind of spirit you are of,"
+[00:50:15.080 --> 00:50:18.080]   he's basically telling them, "You do not know me.
+[00:50:18.080 --> 00:50:20.080]   You know about what is right.
+[00:50:20.080 --> 00:50:21.080]   You know about the law.
+[00:50:21.080 --> 00:50:23.080]   You know what is wrong,
+[00:50:23.080 --> 00:50:25.080]   but you do not know me.
+[00:50:25.080 --> 00:50:29.080]   The Son of Man did not come to destroy men's lives,
+[00:50:29.080 --> 00:50:32.080]   but to save them."
+[00:50:32.080 --> 00:50:35.080]   See, if we're not careful,
+[00:50:35.080 --> 00:50:37.080]   sometimes the most dangerous people
+[00:50:37.080 --> 00:50:41.080]   are people who are on a mission
+[00:50:41.080 --> 00:50:42.080]   to do what's right,
+[00:50:42.080 --> 00:50:45.080]   to point out what's wrong,
+[00:50:45.080 --> 00:50:47.080]   and to destroy.
+[00:50:47.080 --> 00:50:49.080]   I mean, think about the last 2,000 years
+[00:50:49.080 --> 00:50:51.080]   of church history,
+[00:50:51.080 --> 00:50:53.080]   how much destruction came from men
+[00:50:53.080 --> 00:50:57.080]   who thought they were representing God.
+[00:50:57.080 --> 00:50:59.080]   Think about the Crusades,
+[00:50:59.080 --> 00:51:00.080]   how they were in a fight
+[00:51:00.080 --> 00:51:02.080]   to reconquer the promised land.
+[00:51:02.080 --> 00:51:04.080]   They went there and they slaughtered,
+[00:51:04.080 --> 00:51:06.080]   burned down villages of the Muslims
+[00:51:06.080 --> 00:51:08.080]   because they were in the right,
+[00:51:08.080 --> 00:51:09.080]   because they're Christian,
+[00:51:09.080 --> 00:51:11.080]   and their faith is the true faith,
+[00:51:11.080 --> 00:51:12.080]   so they went and slaughtered them.
+[00:51:12.080 --> 00:51:14.080]   So to this day,
+[00:51:14.080 --> 00:51:17.080]   that's a stain on the church,
+[00:51:17.080 --> 00:51:18.080]   but at that time,
+[00:51:18.080 --> 00:51:22.080]   they did this under the flag of the cross.
+[00:51:22.080 --> 00:51:25.080]   You think about the Inquisition,
+[00:51:25.080 --> 00:51:27.080]   how the church implemented anybody
+[00:51:27.080 --> 00:51:29.080]   who was going to teach something wrong,
+[00:51:29.080 --> 00:51:31.080]   and they would torture them
+[00:51:31.080 --> 00:51:35.080]   in the name of Jesus for righteousness.
+[00:51:35.080 --> 00:51:37.080]   Remember the Salem witch hunts
+[00:51:37.080 --> 00:51:41.080]   in the name of purity to catch demons.
+[00:51:41.080 --> 00:51:44.080]   In fact, the Holocaust itself,
+[00:51:44.080 --> 00:51:48.080]   if you study the genesis of the Holocaust,
+[00:51:48.080 --> 00:51:50.080]   the Nazis used the Bible
+[00:51:50.080 --> 00:51:54.080]   to say how they crucified our Messiah,
+[00:51:54.080 --> 00:51:56.080]   and that they were the parasites,
+[00:51:56.080 --> 00:51:58.080]   and all the problems in our society
+[00:51:58.080 --> 00:51:59.080]   is because we have too many Jews,
+[00:51:59.080 --> 00:52:01.080]   and we need to have a pure race,
+[00:52:01.080 --> 00:52:03.080]   and in the genesis of it,
+[00:52:03.080 --> 00:52:05.080]   they used the Bible.
+[00:52:05.080 --> 00:52:08.080]   They used righteousness.
+[00:52:08.080 --> 00:52:11.080]   So much destruction,
+[00:52:11.080 --> 00:52:14.080]   so many church divides happen.
+[00:52:14.080 --> 00:52:16.080]   When we know the law,
+[00:52:16.080 --> 00:52:18.080]   what is right, what is wrong,
+[00:52:18.080 --> 00:52:21.080]   but do not understand the spirit
+[00:52:21.080 --> 00:52:24.080]   of our Savior.
+[00:52:24.080 --> 00:52:27.080]   He rebukes them because they did not know.
+[00:52:27.080 --> 00:52:29.080]   If Jesus just kind of left them as they were,
+[00:52:29.080 --> 00:52:31.080]   that's exactly what they probably
+[00:52:31.080 --> 00:52:32.080]   would have gone and do.
+[00:52:32.080 --> 00:52:34.080]   All the authority and power
+[00:52:34.080 --> 00:52:35.080]   that was given to the apostles,
+[00:52:35.080 --> 00:52:37.080]   instead of bringing people to Christ,
+[00:52:37.080 --> 00:52:39.080]   he would have crushed them
+[00:52:39.080 --> 00:52:42.080]   because that's exactly what they did.
+[00:52:42.080 --> 00:52:46.080]   Not only were they passionate,
+[00:52:46.080 --> 00:52:49.080]   in the wrong way,
+[00:52:49.080 --> 00:52:52.080]   they were both very ambitious people.
+[00:52:52.080 --> 00:52:54.080]   You know the scripture constantly tells us
+[00:52:54.080 --> 00:52:56.080]   that there was a constant argument
+[00:52:56.080 --> 00:52:57.080]   among the disciples,
+[00:52:57.080 --> 00:52:59.080]   who's the greatest?
+[00:52:59.080 --> 00:53:01.080]   It doesn't tell us who they were specifically.
+[00:53:01.080 --> 00:53:03.080]   My guess is, I mean here it tells us,
+[00:53:03.080 --> 00:53:06.080]   James and John for sure was in that group.
+[00:53:06.080 --> 00:53:09.080]   My guess is Peter and Andrew.
+[00:53:09.080 --> 00:53:11.080]   Maybe Andrew kind of took himself out of that.
+[00:53:11.080 --> 00:53:13.080]   I don't know what happened to him.
+[00:53:13.080 --> 00:53:15.080]   But my guess is that the conflict
+[00:53:15.080 --> 00:53:17.080]   and the competition was primarily
+[00:53:17.080 --> 00:53:20.080]   coming between those three.
+[00:53:20.080 --> 00:53:22.080]   And James and Andrew just kind of
+[00:53:22.080 --> 00:53:23.080]   maybe took himself out of that
+[00:53:23.080 --> 00:53:25.080]   because he wasn't part of the inner three.
+[00:53:25.080 --> 00:53:28.080]   And because the three of them were chosen
+[00:53:28.080 --> 00:53:31.080]   for special privilege.
+[00:53:31.080 --> 00:53:33.080]   They were the ones who were given
+[00:53:33.080 --> 00:53:36.080]   the access to the transfiguration.
+[00:53:36.080 --> 00:53:38.080]   They were the ones where Jesus revealed to them
+[00:53:38.080 --> 00:53:40.080]   when he was healing
+[00:53:40.080 --> 00:53:43.080]   the synagogue daughter's illness.
+[00:53:43.080 --> 00:53:46.080]   They were the ones when he was at the Garden of Gethsemane,
+[00:53:46.080 --> 00:53:47.080]   where he left the other disciples behind
+[00:53:47.080 --> 00:53:49.080]   and the three of them come.
+[00:53:49.080 --> 00:53:53.080]   In fact, in the list in Mark chapter 3, 16-17,
+[00:53:53.080 --> 00:53:57.080]   it lists Peter, James and John, and then Andrew.
+[00:53:57.080 --> 00:54:01.080]   In Luke's account, it says Peter, Andrew, James and John.
+[00:54:01.080 --> 00:54:04.080]   So it's clearly, it's evident
+[00:54:04.080 --> 00:54:06.080]   that people understood
+[00:54:06.080 --> 00:54:09.080]   that the three of them were the pillars.
+[00:54:09.080 --> 00:54:11.080]   And in the three,
+[00:54:11.080 --> 00:54:13.080]   in the three, the two of them are brothers.
+[00:54:13.080 --> 00:54:15.080]   So my guess is
+[00:54:15.080 --> 00:54:18.080]   these two brothers were kind of jockeying
+[00:54:18.080 --> 00:54:20.080]   to compete with Peter, right?
+[00:54:20.080 --> 00:54:23.080]   Because Peter seems like he has some in with Jesus.
+[00:54:23.080 --> 00:54:25.080]   Maybe he's the older guy.
+[00:54:25.080 --> 00:54:27.080]   Maybe he has a certain kind of personality.
+[00:54:27.080 --> 00:54:29.080]   But whatever it is,
+[00:54:29.080 --> 00:54:31.080]   he's like, "We need to sit on the left and to the right."
+[00:54:31.080 --> 00:54:34.080]   So I think the argument was happening between them.
+[00:54:34.080 --> 00:54:37.080]   In fact, when they're described to us,
+[00:54:37.080 --> 00:54:39.080]   it doesn't just say James and John here.
+[00:54:39.080 --> 00:54:41.080]   It says they're sons of Zebedee.
+[00:54:41.080 --> 00:54:43.080]   So some of you guys may remember,
+[00:54:43.080 --> 00:54:45.080]   Zebedee is their father.
+[00:54:45.080 --> 00:54:47.080]   And when Jesus first calls them,
+[00:54:47.080 --> 00:54:49.080]   they were fishing in their father's boat, Zebedee.
+[00:54:49.080 --> 00:54:52.080]   And they believe that the reason why his name is mentioned
+[00:54:52.080 --> 00:54:55.080]   is because Zebedee is a very prominent businessman,
+[00:54:55.080 --> 00:54:57.080]   very successful businessman.
+[00:54:57.080 --> 00:54:59.080]   And as a result of that,
+[00:54:59.080 --> 00:55:01.080]   he probably had connections and access
+[00:55:01.080 --> 00:55:03.080]   that other people didn't have.
+[00:55:03.080 --> 00:55:05.080]   So they're his children.
+[00:55:05.080 --> 00:55:07.080]   That's why his name is mentioned, right?
+[00:55:07.080 --> 00:55:09.080]   Peter was also successful,
+[00:55:09.080 --> 00:55:11.080]   but I don't know if he came from a prominent family.
+[00:55:11.080 --> 00:55:13.080]   James and John did.
+[00:55:13.080 --> 00:55:15.080]   So in their worldly thinking,
+[00:55:15.080 --> 00:55:18.080]   they thought, "Well, when Jesus gets on his throne,
+[00:55:18.080 --> 00:55:22.080]   we have a leg up on Peter."
+[00:55:22.080 --> 00:55:26.080]   And so this discussion is going on.
+[00:55:26.080 --> 00:55:32.080]   And in Mark 10, 33-41,
+[00:55:32.080 --> 00:55:34.080]   it reveals to us
+[00:55:34.080 --> 00:55:36.080]   what exactly was happening within them
+[00:55:36.080 --> 00:55:38.080]   and why this needed to be addressed.
+[00:55:38.080 --> 00:55:40.080]   In Mark 10, 33-41,
+[00:55:40.080 --> 00:55:44.080]   Jesus again tells them about his suffering.
+[00:55:44.080 --> 00:55:46.080]   In verse 33,
+[00:55:46.080 --> 00:55:48.080]   "We are going up to Jerusalem, and the Son of Man
+[00:55:48.080 --> 00:55:51.080]   will be delivered to the chief priests and the scribes,
+[00:55:51.080 --> 00:55:53.080]   and they will condemn him to death
+[00:55:53.080 --> 00:55:55.080]   and will hand him over to the Gentiles.
+[00:55:55.080 --> 00:55:58.080]   They will mock him and spit on him and scourge him and kill him.
+[00:55:58.080 --> 00:56:01.080]   And then three days later, he will rise again."
+[00:56:01.080 --> 00:56:05.080]   Now imagine if you were the disciples
+[00:56:05.080 --> 00:56:07.080]   and you left everything to follow Jesus,
+[00:56:07.080 --> 00:56:10.080]   and then Jesus is headed toward Jerusalem,
+[00:56:10.080 --> 00:56:13.080]   and he tells the disciples repeatedly,
+[00:56:13.080 --> 00:56:15.080]   "I'm going to get captured.
+[00:56:15.080 --> 00:56:17.080]   They're going to torture me.
+[00:56:17.080 --> 00:56:19.080]   Then I'm going to die.
+[00:56:19.080 --> 00:56:21.080]   And I'm going to rise on the third day."
+[00:56:21.080 --> 00:56:24.080]   You say, "What? What did he say?
+[00:56:24.080 --> 00:56:26.080]   That doesn't make any sense.
+[00:56:26.080 --> 00:56:28.080]   He's the king.
+[00:56:28.080 --> 00:56:30.080]   We've seen him walk on waters.
+[00:56:30.080 --> 00:56:33.080]   He completely stopped a storm.
+[00:56:33.080 --> 00:56:37.080]   I mean, we've seen him do some incredible stuff.
+[00:56:37.080 --> 00:56:41.080]   He raised people from the dead.
+[00:56:41.080 --> 00:56:45.080]   He's going to get captured and killed?"
+[00:56:45.080 --> 00:56:48.080]   And then he said he was going to rise on the third day,
+[00:56:48.080 --> 00:56:50.080]   and it's almost kind of like they never heard him
+[00:56:50.080 --> 00:56:52.080]   because after Jesus dies,
+[00:56:52.080 --> 00:56:54.080]   they don't even go check.
+[00:56:54.080 --> 00:56:56.080]   In fact, the women go check,
+[00:56:56.080 --> 00:56:58.080]   and they come back and say, "We saw him."
+[00:56:58.080 --> 00:56:59.080]   Remember their response?
+[00:56:59.080 --> 00:57:00.080]   "Get out of here."
+[00:57:00.080 --> 00:57:02.080]   All right, that's the modern-day version.
+[00:57:02.080 --> 00:57:04.080]   That's basically what they said.
+[00:57:04.080 --> 00:57:05.080]   "Get out of here.
+[00:57:05.080 --> 00:57:08.080]   Nobody comes back from the dead."
+[00:57:08.080 --> 00:57:10.080]   And they said, "Until we see him,
+[00:57:10.080 --> 00:57:11.080]   we're not going to believe you."
+[00:57:11.080 --> 00:57:13.080]   That's how dense they were.
+[00:57:13.080 --> 00:57:17.080]   Jesus made it very clear.
+[00:57:17.080 --> 00:57:19.080]   Not only did they not understand,
+[00:57:19.080 --> 00:57:21.080]   not only did they not respond.
+[00:57:21.080 --> 00:57:23.080]   Look what they say, verse 35.
+[00:57:23.080 --> 00:57:24.080]   This is right after Jesus said,
+[00:57:24.080 --> 00:57:27.080]   "I'm going to be beaten, killed, and then resurrected."
+[00:57:27.080 --> 00:57:28.080]   And then verse 35,
+[00:57:28.080 --> 00:57:29.080]   "James and John, the two sons of Zebedee,
+[00:57:29.080 --> 00:57:30.080]   came up to Jesus saying,
+[00:57:30.080 --> 00:57:32.080]   'Teacher, we want you to do for us
+[00:57:32.080 --> 00:57:35.080]   whatever we ask you.'"
+[00:57:35.080 --> 00:57:38.080]   That's just like a father saying,
+[00:57:38.080 --> 00:57:39.080]   "Hey, let's have a family meeting.
+[00:57:39.080 --> 00:57:40.080]   We'll gather together."
+[00:57:40.080 --> 00:57:41.080]   Just came back from the hospital
+[00:57:41.080 --> 00:57:43.080]   and found out that I have terminal cancer.
+[00:57:43.080 --> 00:57:46.080]   I have three days to live.
+[00:57:46.080 --> 00:57:48.080]   And then the son says,
+[00:57:48.080 --> 00:57:51.080]   "Are you still going to give me that car?"
+[00:57:51.080 --> 00:57:52.080]   My 21st birthday is coming up
+[00:57:52.080 --> 00:57:54.080]   and you said you're going to give me that car.
+[00:57:54.080 --> 00:57:57.080]   Can you give me the red one?
+[00:57:57.080 --> 00:57:58.080]   Can you imagine?
+[00:57:58.080 --> 00:58:01.080]   I mean, Jesus is God,
+[00:58:01.080 --> 00:58:03.080]   but he's also 100% human,
+[00:58:03.080 --> 00:58:06.080]   and his response also must be human.
+[00:58:06.080 --> 00:58:09.080]   If I heard that, I would have just smacked him
+[00:58:09.080 --> 00:58:12.080]   and then explained to him why I smacked him.
+[00:58:12.080 --> 00:58:15.080]   Did you hear what I just said?
+[00:58:15.080 --> 00:58:16.080]   Can you imagine the temptation
+[00:58:16.080 --> 00:58:21.080]   that Jesus must have had to start over?
+[00:58:21.080 --> 00:58:22.080]   You know what I mean?
+[00:58:22.080 --> 00:58:24.080]   Get rid of these guys and start over.
+[00:58:24.080 --> 00:58:27.080]   Maybe my choice wasn't good, right?
+[00:58:27.080 --> 00:58:31.080]   Peter is like filled with pride.
+[00:58:31.080 --> 00:58:34.080]   James and John are like competing with one another.
+[00:58:34.080 --> 00:58:37.080]   Who's going to be the greatest?
+[00:58:37.080 --> 00:58:39.080]   What is going on?
+[00:58:39.080 --> 00:58:40.080]   They completely ignore.
+[00:58:40.080 --> 00:58:42.080]   I mean, they were so fixated on
+[00:58:42.080 --> 00:58:43.080]   who's going to be the greatest,
+[00:58:43.080 --> 00:58:44.080]   who's going to be the greatest,
+[00:58:44.080 --> 00:58:47.080]   even after Jesus says, "I'm going to die,"
+[00:58:47.080 --> 00:58:51.080]   they don't get it.
+[00:58:51.080 --> 00:58:53.080]   And Jesus calmly asked them,
+[00:58:53.080 --> 00:58:55.080]   "What do you want me to do for you?"
+[00:58:55.080 --> 00:58:58.080]   Can you imagine the restraint in those words?
+[00:58:58.080 --> 00:58:59.080]   Right?
+[00:58:59.080 --> 00:59:00.080]   You just said, "I'm going to die.
+[00:59:00.080 --> 00:59:01.080]   I'm going to get beaten. I'm going to die."
+[00:59:01.080 --> 00:59:03.080]   And then they said, "Oh, can you give me the car?"
+[00:59:03.080 --> 00:59:08.080]   Okay, what is it that you want?
+[00:59:08.080 --> 00:59:09.080]   I mean, he's so patient.
+[00:59:09.080 --> 00:59:12.080]   I mean, I think about the restraint for him
+[00:59:12.080 --> 00:59:15.080]   not to lash out at them.
+[00:59:15.080 --> 00:59:18.080]   They said to him, "Grant that we may sit
+[00:59:18.080 --> 00:59:20.080]   one on your right and one on your left
+[00:59:20.080 --> 00:59:22.080]   in your glory."
+[00:59:22.080 --> 00:59:25.080]   You notice here Peter is not mentioned here.
+[00:59:25.080 --> 00:59:27.080]   Right? There's the inner three.
+[00:59:27.080 --> 00:59:28.080]   And these brothers come.
+[00:59:28.080 --> 00:59:32.080]   In fact, this was not an impromptu response.
+[00:59:32.080 --> 00:59:34.080]   This was in Matthew 20, 20.
+[00:59:34.080 --> 00:59:36.080]   Their mom, Salome, came.
+[00:59:36.080 --> 00:59:38.080]   They recruited their mom to speak on their behalf.
+[00:59:38.080 --> 00:59:41.080]   And Salome was one of the mothers
+[00:59:41.080 --> 00:59:43.080]   who followed along Jesus' ministry,
+[00:59:43.080 --> 00:59:46.080]   cooking for them, caring for them.
+[00:59:46.080 --> 00:59:48.080]   So they're recruiting their mom and saying,
+[00:59:48.080 --> 00:59:51.080]   "Hey, Mom, you know, Peter seems like
+[00:59:51.080 --> 00:59:53.080]   he has some sort of in with Jesus,
+[00:59:53.080 --> 00:59:54.080]   but we have you.
+[00:59:54.080 --> 00:59:57.080]   Can you go talk to Jesus?"
+[00:59:57.080 --> 00:59:59.080]   Anybody who's been in ministry for a while,
+[00:59:59.080 --> 01:00:01.080]   we've all experienced that.
+[01:00:01.080 --> 01:00:03.080]   We've had so many moms in the past.
+[01:00:03.080 --> 01:00:05.080]   I mean, not--you guys are too old for that,
+[01:00:05.080 --> 01:00:07.080]   but when I was a youth pastor,
+[01:00:07.080 --> 01:00:09.080]   I would have moms come in and say,
+[01:00:09.080 --> 01:00:12.080]   "Hey, can you have my daughter or son
+[01:00:12.080 --> 01:00:14.080]   be in the praise team?"
+[01:00:14.080 --> 01:00:16.080]   And it's like, "Oh, who's your daughter?"
+[01:00:16.080 --> 01:00:18.080]   "Oh, he doesn't come to church yet."
+[01:00:18.080 --> 01:00:21.080]   But if you give him that, he'll come.
+[01:00:21.080 --> 01:00:22.080]   Right?
+[01:00:22.080 --> 01:00:24.080]   And so, "Let me think about that."
+[01:00:24.080 --> 01:00:26.080]   I don't know how many times I've had--
+[01:00:26.080 --> 01:00:28.080]   and usually it's the mom.
+[01:00:28.080 --> 01:00:30.080]   Dads, for whatever reason, don't come.
+[01:00:30.080 --> 01:00:32.080]   It's the mom who comes and says,
+[01:00:32.080 --> 01:00:34.080]   "Oh, if you just give a position.
+[01:00:34.080 --> 01:00:35.080]   If you let my daughter--
+[01:00:35.080 --> 01:00:38.080]   she's so good at being an older sister,
+[01:00:38.080 --> 01:00:39.080]   an older brother.
+[01:00:39.080 --> 01:00:41.080]   If you just give them and let them kind of lead
+[01:00:41.080 --> 01:00:43.080]   and opportunity to teach, they'll come."
+[01:00:43.080 --> 01:00:44.080]   It's like, "Are they Christian?"
+[01:00:44.080 --> 01:00:46.080]   "Not yet, but if you let them--
+[01:00:46.080 --> 01:00:48.080]   give them an opportunity."
+[01:00:48.080 --> 01:00:49.080]   You know what I mean?
+[01:00:49.080 --> 01:00:51.080]   Just give them one chance.
+[01:00:51.080 --> 01:00:53.080]   Well, this is planned out,
+[01:00:53.080 --> 01:00:54.080]   and I don't know why they thought
+[01:00:54.080 --> 01:00:56.080]   that this was the best time after Jesus said,
+[01:00:56.080 --> 01:00:57.080]   "I'm going to die."
+[01:00:57.080 --> 01:00:59.080]   And it's like, "Yeah, this is the time right now."
+[01:00:59.080 --> 01:01:00.080]   He's vulnerable.
+[01:01:00.080 --> 01:01:02.080]   He's not thinking straight.
+[01:01:02.080 --> 01:01:03.080]   Right?
+[01:01:03.080 --> 01:01:06.080]   But for whatever reason, they come and they ask.
+[01:01:06.080 --> 01:01:08.080]   And as a result of that, in verse 41,
+[01:01:08.080 --> 01:01:11.080]   "So hearing this, the ten began to feel indignant
+[01:01:11.080 --> 01:01:13.080]   with James and John."
+[01:01:13.080 --> 01:01:14.080]   Right?
+[01:01:14.080 --> 01:01:17.080]   And I'm pretty sure Peter was probably the angriest.
+[01:01:17.080 --> 01:01:19.080]   And maybe when Peter said later,
+[01:01:19.080 --> 01:01:21.080]   "You're going to deny me three times."
+[01:01:21.080 --> 01:01:23.080]   "They will all deny you but me."
+[01:01:23.080 --> 01:01:25.080]   He was probably pointing at James and John.
+[01:01:25.080 --> 01:01:27.080]   That's my thinking.
+[01:01:27.080 --> 01:01:29.080]   Because he's already angered with these guys.
+[01:01:29.080 --> 01:01:31.080]   These guys are talking about being left up to the right.
+[01:01:31.080 --> 01:01:32.080]   "I'm going to die for you."
+[01:01:32.080 --> 01:01:34.080]   Not like those guys.
+[01:01:34.080 --> 01:01:37.080]   You can see the tension that's being built up
+[01:01:37.080 --> 01:01:39.080]   because of this.
+[01:01:39.080 --> 01:01:41.080]   And then verse 38, Jesus says,
+[01:01:41.080 --> 01:01:44.080]   "You do not know what you are asking."
+[01:01:44.080 --> 01:01:48.080]   Meaning, what you think of glory
+[01:01:48.080 --> 01:01:52.080]   is not what glory is going to look like.
+[01:01:52.080 --> 01:01:54.080]   "You do not know what you are asking."
+[01:01:54.080 --> 01:01:56.080]   "Are you able to drink the cup that I drink
+[01:01:56.080 --> 01:02:03.080]   or be baptized with the baptism with which I am baptized?"
+[01:02:03.080 --> 01:02:06.080]   And the arrogance of their response,
+[01:02:06.080 --> 01:02:08.080]   just simply because they did not know.
+[01:02:08.080 --> 01:02:14.080]   They said to him, "We are able."
+[01:02:14.080 --> 01:02:16.080]   "We are able."
+[01:02:16.080 --> 01:02:18.080]   They had no understanding where Jesus was going.
+[01:02:18.080 --> 01:02:21.080]   Even though he told them, "I'm going."
+[01:02:21.080 --> 01:02:23.080]   When Jesus said he was going to the glory,
+[01:02:23.080 --> 01:02:26.080]   what was he referring to?
+[01:02:26.080 --> 01:02:27.080]   The cross.
+[01:02:27.080 --> 01:02:29.080]   In John 17, verse 1,
+[01:02:29.080 --> 01:02:31.080]   Jesus spoke to these things and lifting up his eyes to heaven,
+[01:02:31.080 --> 01:02:33.080]   he said, "Father, the hour has come.
+[01:02:33.080 --> 01:02:37.080]   Glorify your Son that the Son may glorify you."
+[01:02:37.080 --> 01:02:38.080]   What is he referring to?
+[01:02:38.080 --> 01:02:41.080]   The cross.
+[01:02:41.080 --> 01:02:43.080]   He said, "I'm going to go give my life,
+[01:02:43.080 --> 01:02:46.080]   be crucified, bear the sins of the world.
+[01:02:46.080 --> 01:02:50.080]   It is now time to glorify me."
+[01:02:50.080 --> 01:02:51.080]   Not on the throne.
+[01:02:51.080 --> 01:02:53.080]   Not what the angels sing in his praises,
+[01:02:53.080 --> 01:02:56.080]   but at the cross.
+[01:02:56.080 --> 01:02:59.080]   And it is at the cross, in his suffering,
+[01:02:59.080 --> 01:03:02.080]   he was going to glorify the Father.
+[01:03:02.080 --> 01:03:05.080]   But that's not what they were thinking.
+[01:03:05.080 --> 01:03:07.080]   What they were thinking is sitting on the left and to the right
+[01:03:07.080 --> 01:03:09.080]   when he's on the throne and everybody's coming to him,
+[01:03:09.080 --> 01:03:12.080]   honoring him and all the riches and blessing
+[01:03:12.080 --> 01:03:14.080]   that comes with the King of kings and Lord of lords.
+[01:03:14.080 --> 01:03:16.080]   That's what they were thinking.
+[01:03:16.080 --> 01:03:20.080]   That if we follow Jesus, we're going to have some of this.
+[01:03:20.080 --> 01:03:24.080]   And Jesus said, "You do not know what you are asking for.
+[01:03:24.080 --> 01:03:26.080]   Are you able?"
+[01:03:26.080 --> 01:03:29.080]   And they say, "We are able."
+[01:03:29.080 --> 01:03:32.080]   Think about the people.
+[01:03:32.080 --> 01:03:34.080]   We're not even talking about 2,000 years.
+[01:03:34.080 --> 01:03:37.080]   Just in the recent generation, the last 50 years or 100 years,
+[01:03:37.080 --> 01:03:42.080]   the people that have brought the most glory to God.
+[01:03:42.080 --> 01:03:44.080]   And I'm not talking about mega church pastors.
+[01:03:44.080 --> 01:03:46.080]   I'm not talking about people who've written books
+[01:03:46.080 --> 01:03:48.080]   and living it up.
+[01:03:48.080 --> 01:03:50.080]   And everywhere they go, they're treated like celebrities.
+[01:03:50.080 --> 01:03:52.080]   I'm not talking about those people.
+[01:03:52.080 --> 01:03:56.080]   I'm talking about people who gave their lives.
+[01:03:56.080 --> 01:03:59.080]   Jim Elliot lived a short life.
+[01:03:59.080 --> 01:04:04.080]   The reason why he is quoted universally among all denominations
+[01:04:04.080 --> 01:04:06.080]   was not because of his cleverness.
+[01:04:06.080 --> 01:04:08.080]   It's not because of many books.
+[01:04:08.080 --> 01:04:11.080]   It's because he gave his life preaching the gospel.
+[01:04:11.080 --> 01:04:13.080]   He died early.
+[01:04:13.080 --> 01:04:17.080]   And so he lives in glory because he gave his life.
+[01:04:17.080 --> 01:04:21.080]   Look at Hudson Taylor, a young man who took his family
+[01:04:21.080 --> 01:04:25.080]   and went into the inner parts of China where there was no foreigners
+[01:04:25.080 --> 01:04:28.080]   and lived a difficult life to bring the gospel.
+[01:04:28.080 --> 01:04:30.080]   He lived in depression.
+[01:04:30.080 --> 01:04:36.080]   He lived in difficulty physically, psychologically.
+[01:04:36.080 --> 01:04:38.080]   To this day, we celebrate him.
+[01:04:38.080 --> 01:04:40.080]   Not because he was so articulate,
+[01:04:40.080 --> 01:04:42.080]   not because he said so many great things,
+[01:04:42.080 --> 01:04:46.080]   but because he gave his life.
+[01:04:46.080 --> 01:04:51.080]   We look at even people like Apostle Paul.
+[01:04:51.080 --> 01:04:54.080]   When he described his life, he said,
+[01:04:54.080 --> 01:04:59.080]   "You know, humanly speaking, if I wanted honor,
+[01:04:59.080 --> 01:05:02.080]   he already had it. He's a Roman citizen.
+[01:05:02.080 --> 01:05:03.080]   He's a Pharisee among Pharisees.
+[01:05:03.080 --> 01:05:06.080]   As to the law, I was perfect, but all of that stuff became rubbish
+[01:05:06.080 --> 01:05:11.080]   in light of knowing the surpassing knowledge of Jesus Christ."
+[01:05:11.080 --> 01:05:15.080]   He says his claim to fame was his suffering.
+[01:05:15.080 --> 01:05:19.080]   And he lists all these apostles telling me that I'm not an apostle.
+[01:05:19.080 --> 01:05:21.080]   And he doesn't list all his credentials.
+[01:05:21.080 --> 01:05:24.080]   He lists how much he suffered, how close he came to death
+[01:05:24.080 --> 01:05:26.080]   over and over again.
+[01:05:26.080 --> 01:05:28.080]   When he was commanding Epaphras,
+[01:05:28.080 --> 01:05:30.080]   he doesn't say, "Epaphras comes from pedigree.
+[01:05:30.080 --> 01:05:32.080]   Epaphras has a PhD.
+[01:05:32.080 --> 01:05:34.080]   Epaphras planted so many churches."
+[01:05:34.080 --> 01:05:39.080]   He says, "No, think how many times Epaphras came so close to death
+[01:05:39.080 --> 01:05:42.080]   in order to bring the gospel to you."
+[01:05:42.080 --> 01:05:47.080]   See, the glory that Jesus is referring to was leading to the cross.
+[01:05:47.080 --> 01:05:50.080]   The glory that James and John was referring to is honor,
+[01:05:50.080 --> 01:05:53.080]   just like the rest of the world,
+[01:05:53.080 --> 01:05:59.080]   just like everybody else, except you're using the channel of the church.
+[01:05:59.080 --> 01:06:05.080]   How much of the corruption in the church happens for this very reason?
+[01:06:05.080 --> 01:06:09.080]   How much of divisions within the church happens for this very reason?
+[01:06:09.080 --> 01:06:12.080]   Because we want recognition.
+[01:06:12.080 --> 01:06:17.080]   We want people to understand and know and give us credit.
+[01:06:17.080 --> 01:06:21.080]   And yet the glory that he's referring to is going to the cross.
+[01:06:21.080 --> 01:06:23.080]   And Jesus said to them in verse 39,
+[01:06:23.080 --> 01:06:26.080]   "The cup that I drink you shall drink, and you shall be baptized.
+[01:06:26.080 --> 01:06:29.080]   And the baptism with which I am baptized," he says,
+[01:06:29.080 --> 01:06:34.080]   "the suffering that he's referring to you will have
+[01:06:34.080 --> 01:06:36.080]   because you're asking for it."
+[01:06:36.080 --> 01:06:38.080]   And that's exactly what happens.
+[01:06:38.080 --> 01:06:43.080]   James is the first to give his life for the gospel.
+[01:06:43.080 --> 01:06:48.080]   And then John wasn't technically martyred, but he lived.
+[01:06:48.080 --> 01:06:54.080]   He was the last one to die, but he probably wished that he died earlier.
+[01:06:54.080 --> 01:06:57.080]   James is the only one that's mentioned in the book of Acts
+[01:06:57.080 --> 01:06:59.080]   as the one who was martyred for the faith.
+[01:06:59.080 --> 01:07:01.080]   He was the first one. He's the only one mentioned.
+[01:07:01.080 --> 01:07:04.080]   Everybody else we know from church history.
+[01:07:04.080 --> 01:07:08.080]   So we don't have a lot of information about James because he died early.
+[01:07:08.080 --> 01:07:10.080]   He said, "You want glory? I'm going to the cross.
+[01:07:10.080 --> 01:07:12.080]   Are you able to drink this cup of suffering?"
+[01:07:12.080 --> 01:07:14.080]   He said, "I am." He said, "Okay."
+[01:07:14.080 --> 01:07:16.080]   And so he dies.
+[01:07:16.080 --> 01:07:20.080]   Some people may say, "Well, John, he didn't die. What happened to him?"
+[01:07:20.080 --> 01:07:24.080]   John, they tried to kill him. They put him in boiling oil.
+[01:07:24.080 --> 01:07:26.080]   And he didn't die to their surprise.
+[01:07:26.080 --> 01:07:29.080]   So when he came out, people were afraid.
+[01:07:29.080 --> 01:07:33.080]   Remember when Apostle Paul, when he was bitten at that island by a scorpion,
+[01:07:33.080 --> 01:07:36.080]   and they said he must have done something for him to be--
+[01:07:36.080 --> 01:07:40.080]   after surviving a shipwreck, and he's going to get bitten by a scorpion.
+[01:07:40.080 --> 01:07:42.080]   But when he didn't die, remember what they said?
+[01:07:42.080 --> 01:07:44.080]   There must be some kind of anointing upon him.
+[01:07:44.080 --> 01:07:47.080]   He must be a god, and they started worshipping him.
+[01:07:47.080 --> 01:07:48.080]   That's what happened to John.
+[01:07:48.080 --> 01:07:52.080]   Because he didn't die, they thought there was some sort of anointing upon him,
+[01:07:52.080 --> 01:07:56.080]   and they were afraid if they killed him that some curse was going to come upon them.
+[01:07:56.080 --> 01:08:01.080]   So what ends up happening is they banish him to the island of Patmos
+[01:08:01.080 --> 01:08:04.080]   where they sent political prisoners.
+[01:08:04.080 --> 01:08:10.080]   Can you imagine the suffering that he went through to survive an oil burning?
+[01:08:10.080 --> 01:08:18.080]   And it is while he was in this island he was writing the book of Revelation.
+[01:08:18.080 --> 01:08:21.080]   Are you able to drink the cup of suffering?
+[01:08:21.080 --> 01:08:24.080]   And they said, "I do. We are."
+[01:08:24.080 --> 01:08:27.080]   They said, "Okay, you'll get this, but this be sitting on the left or to the right.
+[01:08:27.080 --> 01:08:31.080]   That's for my father to give."
+[01:08:31.080 --> 01:08:34.080]   We don't know a whole lot about John or about James,
+[01:08:34.080 --> 01:08:37.080]   but we know quite a bit about John
+[01:08:37.080 --> 01:08:42.080]   because John writes more than any other apostle outside from Luke and Paul.
+[01:08:42.080 --> 01:08:45.080]   He writes the Gospel of John.
+[01:08:45.080 --> 01:08:50.080]   He writes 1, 2, 3 John, and he writes the book of Revelation.
+[01:08:50.080 --> 01:08:55.080]   If Jesus left them where they were at, the sons of thunder,
+[01:08:55.080 --> 01:08:59.080]   in the name of righteousness, they would have just destroyed cities.
+[01:08:59.080 --> 01:09:02.080]   They would have put everybody under judgment.
+[01:09:02.080 --> 01:09:05.080]   They would have had the Word of God to stand behind.
+[01:09:05.080 --> 01:09:08.080]   But that's not how his life ends.
+[01:09:08.080 --> 01:09:15.080]   In his epistles, 45 times in his writing he mentions the word truth.
+[01:09:15.080 --> 01:09:21.080]   But in those same epistles, the word love is mentioned 80 times.
+[01:09:21.080 --> 01:09:25.080]   And so I think many of you guys already know that Apostle John,
+[01:09:25.080 --> 01:09:31.080]   one of the sons of thunder, isn't known at the end as a son of thunder,
+[01:09:31.080 --> 01:09:33.080]   a man who had a temper.
+[01:09:33.080 --> 01:09:36.080]   He's known as what? The apostle of love.
+[01:09:36.080 --> 01:09:39.080]   Of love.
+[01:09:39.080 --> 01:09:44.080]   It's interesting because in 1 John 2, 15-16, you guys know this passage well.
+[01:09:44.080 --> 01:09:47.080]   You probably memorized this if you ever memorized Scripture.
+[01:09:47.080 --> 01:09:49.080]   "Do not love the world, nor the things in the world.
+[01:09:49.080 --> 01:09:52.080]   If anyone loves the world, the love of the Father is not in him.
+[01:09:52.080 --> 01:09:55.080]   For all that is in the world, the lust of the flesh, the lust of the eyes,
+[01:09:55.080 --> 01:10:00.080]   and the boastful pride of life is not from the Father, but is from the world."
+[01:10:00.080 --> 01:10:04.080]   Now if you read this outside of the context of who wrote it,
+[01:10:04.080 --> 01:10:09.080]   it's still a powerful verse reminding us of not loving the world.
+[01:10:09.080 --> 01:10:12.080]   But when you understand the personality behind,
+[01:10:12.080 --> 01:10:16.080]   the karma behind the person that God used to write this text,
+[01:10:16.080 --> 01:10:19.080]   the lust of the world, lust of the flesh, lust of the eyes,
+[01:10:19.080 --> 01:10:23.080]   and the boastful pride of life.
+[01:10:23.080 --> 01:10:28.080]   Do you think maybe when John was writing this that he's convicted?
+[01:10:28.080 --> 01:10:31.080]   The boastful pride of life.
+[01:10:31.080 --> 01:10:34.080]   Do you think he was thinking through how he spent so much time
+[01:10:34.080 --> 01:10:37.080]   arguing with Peter and the other disciples?
+[01:10:37.080 --> 01:10:41.080]   Do you think how he kind of manipulated and secured his mom
+[01:10:41.080 --> 01:10:45.080]   to get an end to it so that he can be exalted and taste some of that glory?
+[01:10:45.080 --> 01:10:49.080]   Do you think that John possibly while he was writing this
+[01:10:49.080 --> 01:10:53.080]   had those thoughts in his mind? Yes.
+[01:10:53.080 --> 01:10:57.080]   Yes, the Holy Spirit is the author, but the Holy Spirit used the personalities
+[01:10:57.080 --> 01:11:01.080]   and the experiences and the education of the writer
+[01:11:01.080 --> 01:11:05.080]   to express what he desired for us.
+[01:11:05.080 --> 01:11:09.080]   He's writing this from personal experience.
+[01:11:09.080 --> 01:11:13.080]   And then in 1 John 4, 7-12, look at how many times, just in these 4 or 5 verses,
+[01:11:13.080 --> 01:11:17.080]   how many times he uses the word love.
+[01:11:17.080 --> 01:11:21.080]   "Beloved, let us love one another, for love is from God, and everyone who loves is born of God,
+[01:11:21.080 --> 01:11:27.080]   and knows God. The one who does not love does not know God, for God is love.
+[01:11:27.080 --> 01:11:31.080]   By this the love of God was manifested in us, that God has sent His only begotten Son
+[01:11:31.080 --> 01:11:35.080]   into the world so that we might live through Him. In this is love,
+[01:11:35.080 --> 01:11:39.080]   not that we love God, but that He loved us and sent His Son to be the propitiation for our sins.
+[01:11:39.080 --> 01:11:43.080]   Beloved, if God so loved us, we ought to love one another.
+[01:11:43.080 --> 01:11:47.080]   No one has seen God at any time.
+[01:11:47.080 --> 01:11:51.080]   If we love one another, God abides in us, and His love is perfected in us."
+[01:11:51.080 --> 01:11:55.080]   Would you think that the guy who wrote this
+[01:11:55.080 --> 01:11:59.080]   is the same guy who wanted to bring thunder and kill the Samaritans?
+[01:11:59.080 --> 01:12:03.080]   Who would think?
+[01:12:03.080 --> 01:12:07.080]   So we ask the question, "What happened? What happened to him?
+[01:12:07.080 --> 01:12:11.080]   How did that guy become this guy?"
+[01:12:11.080 --> 01:12:15.080]   In fact, you know what's really interesting is John 19, 26, 27,
+[01:12:15.080 --> 01:12:19.080]   as Jesus is hanging on the cross,
+[01:12:19.080 --> 01:12:23.080]   He sees John, and He basically tells John
+[01:12:23.080 --> 01:12:27.080]   to take care of his mom. So this is what He says,
+[01:12:27.080 --> 01:12:31.080]   "When Jesus saw his mother, and knowing that he's about to leave,
+[01:12:31.080 --> 01:12:35.080]   and the disciple whom He loved standing nearby,
+[01:12:35.080 --> 01:12:39.080]   He said to his mother, 'Woman, behold your son.'
+[01:12:39.080 --> 01:12:43.080]   Then He said to the disciple, 'Behold your mother.' From that hour, the disciple took her
+[01:12:43.080 --> 01:12:47.080]   into his own household." Now there's two things I want to highlight here.
+[01:12:47.080 --> 01:12:51.080]   Who's writing this? John.
+[01:12:51.080 --> 01:12:55.080]   John is writing this. And John, as he is writing this,
+[01:12:55.080 --> 01:12:59.080]   he describes himself as the disciple whom he loved
+[01:12:59.080 --> 01:13:03.080]   standing nearby. He described himself.
+[01:13:03.080 --> 01:13:07.080]   Now, we may look at that and say, "Man, this is arrogant.
+[01:13:07.080 --> 01:13:11.080]   Like Jesus didn't love the other people." I'm the
+[01:13:11.080 --> 01:13:15.080]   one that He loves. More than you, suckers.
+[01:13:15.080 --> 01:13:19.080]   Sucker is just added. It's not in the text.
+[01:13:19.080 --> 01:13:23.080]   Sometimes we can read it and maybe say, "That's kind of arrogant."
+[01:13:23.080 --> 01:13:27.080]   Or, "Did he only really love Jesus?"
+[01:13:27.080 --> 01:13:31.080]   Or, "The other ones he didn't love." In fact, he uses that same
+[01:13:31.080 --> 01:13:35.080]   description of the one Jesus loves in John 13,
+[01:13:35.080 --> 01:13:39.080]   23, John 22, John 21, 7, John 21,
+[01:13:39.080 --> 01:13:43.080]   20. Repeatedly, over and over again, he describes himself
+[01:13:43.080 --> 01:13:47.080]   in his own letter as the one that Jesus loved.
+[01:13:47.080 --> 01:13:51.080]   If you don't know the context of why he's saying that, who is saying that,
+[01:13:51.080 --> 01:13:55.080]   the drama that he went through, before his radical
+[01:13:55.080 --> 01:13:59.080]   change, if he was to write this letter, he probably would have said, "John, the one
+[01:13:59.080 --> 01:14:03.080]   who sits at the right hand of Jesus. John, who stands
+[01:14:03.080 --> 01:14:07.080]   for truth and righteousness and will not compromise. John, who is
+[01:14:07.080 --> 01:14:11.080]   honored above the others because he didn't forsake Jesus.
+[01:14:11.080 --> 01:14:15.080]   John, who is the head of the other disciples." That's probably what
+[01:14:15.080 --> 01:14:19.080]   he may have written. But when he says,
+[01:14:19.080 --> 01:14:23.080]   "John, the one loved by Jesus."
+[01:14:23.080 --> 01:14:27.080]   Of all the things that he could have said of himself,
+[01:14:27.080 --> 01:14:31.080]   the greatest thing that he
+[01:14:31.080 --> 01:14:35.080]   used to describe himself is the one that is loved.
+[01:14:35.080 --> 01:14:39.080]   The one that is loved.
+[01:14:39.080 --> 01:14:43.080]   Not the one that is exalted, not the one that
+[01:14:43.080 --> 01:14:47.080]   stood for righteousness, just the one that is loved.
+[01:14:47.080 --> 01:14:51.080]   Isn't that exactly what Jesus says when the disciples come back and we saw
+[01:14:51.080 --> 01:14:55.080]   the heavens open and we cast out demons and praise God for this.
+[01:14:55.080 --> 01:14:59.080]   Jesus says, "Great, and you will see greater miracles, but be careful.
+[01:14:59.080 --> 01:15:03.080]   Be careful.
+[01:15:03.080 --> 01:15:07.080]   The greatest joy that you have is that your name is written in the
+[01:15:07.080 --> 01:15:11.080]   book of life. That you are loved.
+[01:15:11.080 --> 01:15:15.080]   Not because you did great things, not because you were talented,
+[01:15:15.080 --> 01:15:19.080]   not because you had honor, not because you brought so many people to Christ, but the
+[01:15:19.080 --> 01:15:23.080]   greatest thing that you have is you are loved.
+[01:15:23.080 --> 01:15:27.080]   You are loved.
+[01:15:27.080 --> 01:15:31.080]   No one could take that away from you.
+[01:15:31.080 --> 01:15:35.080]   The greatest thing that any sinner can have
+[01:15:35.080 --> 01:15:39.080]   is the love.
+[01:15:39.080 --> 01:15:43.080]   Radical change in John.
+[01:15:43.080 --> 01:15:47.080]   What happened? What happened to him? What was the difference?
+[01:15:47.080 --> 01:15:51.080]   He walked with Jesus for three years.
+[01:15:51.080 --> 01:15:55.080]   What happened? The cross was not in the picture.
+[01:15:55.080 --> 01:15:59.080]   They didn't understand the cross.
+[01:15:59.080 --> 01:16:03.080]   So even when Jesus talked about the cross, they heard it and they said they were afraid to ask Him
+[01:16:03.080 --> 01:16:07.080]   because they kept on asking dumb questions and Jesus kept on rebuking them. So they just kind of
+[01:16:07.080 --> 01:16:11.080]   filed it away because they didn't understand the cross.
+[01:16:11.080 --> 01:16:15.080]   That when He said He was going to head to glory, all they saw was Him sitting on the throne.
+[01:16:15.080 --> 01:16:19.080]   But the path to this throne was this cross.
+[01:16:19.080 --> 01:16:23.080]   How often do we
+[01:16:23.080 --> 01:16:27.080]   even as we sing and memorize scripture
+[01:16:27.080 --> 01:16:31.080]   is the cross not at the center?
+[01:16:31.080 --> 01:16:35.080]   The greatest place of life,
+[01:16:35.080 --> 01:16:39.080]   the greatest connection with Christ, the greatest place of glory,
+[01:16:39.080 --> 01:16:43.080]   the greatest place where we recognize who God is, is at the cross.
+[01:16:43.080 --> 01:16:47.080]   So it makes absolutely no sense
+[01:16:47.080 --> 01:16:51.080]   for any Christian, any pastor, any missionary,
+[01:16:51.080 --> 01:16:55.080]   any Christian, to have the throne.
+[01:16:55.080 --> 01:16:59.080]   You know, if I follow Jesus,
+[01:16:59.080 --> 01:17:03.080]   He's going to take care of my children, pay my bills, get a better job, have a great family,
+[01:17:03.080 --> 01:17:07.080]   and then when that doesn't come true,
+[01:17:07.080 --> 01:17:11.080]   where is God?
+[01:17:11.080 --> 01:17:15.080]   And the question that He will ask is, "Where is the cross?"
+[01:17:15.080 --> 01:17:19.080]   Didn't I tell you, "He who finds his life will lose it"?
+[01:17:19.080 --> 01:17:23.080]   Didn't I tell you that? Didn't I tell you that if you want to come after me,
+[01:17:23.080 --> 01:17:27.080]   you must pick up your cross and deny yourself? Didn't I tell you that?
+[01:17:27.080 --> 01:17:31.080]   Didn't you see the examples of the disciples? Didn't you see the examples of the
+[01:17:31.080 --> 01:17:35.080]   apostles? That if you want to find true life,
+[01:17:35.080 --> 01:17:39.080]   you must first be crucified with Christ.
+[01:17:39.080 --> 01:17:43.080]   You're not going to find life through Christ.
+[01:17:43.080 --> 01:17:47.080]   You're going to find life in Christ, and the Christ of the cross.
+[01:17:47.080 --> 01:17:51.080]   How much of our frustration
+[01:17:51.080 --> 01:17:55.080]   comes is because we are looking past the cross
+[01:17:55.080 --> 01:17:59.080]   and looking at the throne. That we want our version
+[01:17:59.080 --> 01:18:03.080]   of the left or to the right.
+[01:18:03.080 --> 01:18:07.080]   For ourselves, for our children, for our family.
+[01:18:07.080 --> 01:18:11.080]   And how much of our frustration isn't because we're following Christ.
+[01:18:11.080 --> 01:18:15.080]   How much of our frustration is coming because we're following the Christ that
+[01:18:15.080 --> 01:18:19.080]   John and James thought. It wasn't until
+[01:18:19.080 --> 01:18:23.080]   they encountered the resurrected Christ.
+[01:18:23.080 --> 01:18:27.080]   And they realized what Jesus said.
+[01:18:27.080 --> 01:18:31.080]   "He who believes in me, even when he dies, shall live."
+[01:18:31.080 --> 01:18:35.080]   It wasn't until he encountered the resurrected Christ and the
+[01:18:35.080 --> 01:18:39.080]   Holy Spirit comes upon them and they realize their life
+[01:18:39.080 --> 01:18:43.080]   isn't central.
+[01:18:43.080 --> 01:18:47.080]   In John 12, 24 to 25, "Truly, truly,
+[01:18:47.080 --> 01:18:51.080]   I say to you, unless a grain of wheat falls into the earth and dies,
+[01:18:51.080 --> 01:18:55.080]   it remains alone.
+[01:18:55.080 --> 01:18:59.080]   But if it dies, it bears much fruit. He who loves his life loses it,
+[01:18:59.080 --> 01:19:03.080]   and he who hates his life in this world will keep it
+[01:19:03.080 --> 01:19:07.080]   to life eternal." Galatians 2, 20.
+[01:19:07.080 --> 01:19:11.080]   Paul says, "I have been crucified
+[01:19:11.080 --> 01:19:15.080]   with Christ." Is that just Paul's testimony?
+[01:19:15.080 --> 01:19:19.080]   Is that just because he's an apostle?
+[01:19:19.080 --> 01:19:23.080]   No, Jesus said to all of us,
+[01:19:23.080 --> 01:19:27.080]   "True life is found when we pick up our own cross and follow
+[01:19:27.080 --> 01:19:31.080]   the path that he went. It is no longer I
+[01:19:31.080 --> 01:19:35.080]   who live." Can we say that? Is that really
+[01:19:35.080 --> 01:19:39.080]   our testimony? Are we finding a different version
+[01:19:39.080 --> 01:19:43.080]   of life through Christ? Or is it really Christ?
+[01:19:43.080 --> 01:19:47.080]   It is no longer I who live. He didn't come
+[01:19:47.080 --> 01:19:51.080]   to simply make us a better version of ourselves.
+[01:19:51.080 --> 01:19:55.080]   He didn't come to save us from family problems so that we can
+[01:19:55.080 --> 01:19:59.080]   have a better security in retirement.
+[01:19:59.080 --> 01:20:03.080]   I have been crucified. He completely said,
+[01:20:03.080 --> 01:20:07.080]   "Your old self dies." Whatever ambition, hope,
+[01:20:07.080 --> 01:20:11.080]   joy that you may have found outside of Christ,
+[01:20:11.080 --> 01:20:15.080]   he says, "They're to die, but Christ lives in me.
+[01:20:15.080 --> 01:20:19.080]   In the life which I now live in the flesh, I live by faith
+[01:20:19.080 --> 01:20:23.080]   in the Son of God, who loved me and gave himself up
+[01:20:23.080 --> 01:20:27.080]   for me."
+[01:20:27.080 --> 01:20:31.080]   So much of our struggle is reflected in James
+[01:20:31.080 --> 01:20:35.080]   and John. Even as we walk with Christ,
+[01:20:35.080 --> 01:20:39.080]   even as we serve, even as we teach, even as we
+[01:20:39.080 --> 01:20:43.080]   lead, we have our eyes on the throne
+[01:20:43.080 --> 01:20:47.080]   to the left or to the right. What Christ called us to do
+[01:20:47.080 --> 01:20:51.080]   is to die. Die.
+[01:20:51.080 --> 01:20:55.080]   First die. First struggle with your flesh.
+[01:20:55.080 --> 01:20:59.080]   First put it to death. That all our
+[01:20:59.080 --> 01:21:03.080]   ambition, my reputation, my desire, my security, my
+[01:21:03.080 --> 01:21:07.080]   wanting, my opinions, first die.
+[01:21:07.080 --> 01:21:11.080]   That a new life may be established in Christ,
+[01:21:11.080 --> 01:21:15.080]   in faith. Because until then,
+[01:21:15.080 --> 01:21:19.080]   you will see the joy in other people. You will be able to testify
+[01:21:19.080 --> 01:21:23.080]   about the testimonies of other people, but it will never become your
+[01:21:23.080 --> 01:21:27.080]   testimony. Jesus said, "I have come to give
+[01:21:27.080 --> 01:21:31.080]   life, and to give this life abundantly." And this life comes
+[01:21:31.080 --> 01:21:35.080]   if we follow him, pick up our own cross,
+[01:21:35.080 --> 01:21:39.080]   deny ourselves, that he may be exalted. I pray
+[01:21:39.080 --> 01:21:43.080]   that that may be our passion and our joy, and it
+[01:21:43.080 --> 01:21:47.080]   would be our pursuit. That the people who have known us in the past
+[01:21:47.080 --> 01:21:51.080]   will meet us and say, "What happened to you?" And when they ask us that question,
+[01:21:51.080 --> 01:21:55.080]   we can point to Christ. Let's pray.
+[01:21:55.080 --> 01:22:03.080]   Gracious and loving Christ, we love you.
+[01:22:03.080 --> 01:22:07.080]   We want to love you more.
+[01:22:07.080 --> 01:22:11.080]   You know how easily distracted we are. You know how
+[01:22:11.080 --> 01:22:15.080]   difficult it is sometimes for us to detect
+[01:22:15.080 --> 01:22:19.080]   sin and pride in us. I pray that your
+[01:22:19.080 --> 01:22:23.080]   word would truly judge the thoughts and intentions of our heart.
+[01:22:23.080 --> 01:22:27.080]   That our life, Lord God, may be from you and you alone.
+[01:22:27.080 --> 01:22:31.080]   Lord, we want the world to know that there
+[01:22:31.080 --> 01:22:35.080]   is hope. As you've given us a mission, Lord God,
+[01:22:35.080 --> 01:22:39.080]   to be the light, to be the salt of this earth,
+[01:22:39.080 --> 01:22:43.080]   that we would not sweep that under the rug.
+[01:22:43.080 --> 01:22:47.080]   And as Paul was crucified, I pray that you would
+[01:22:47.080 --> 01:22:51.080]   challenge us to know what that means for us. That we may
+[01:22:51.080 --> 01:22:55.080]   also be crucified. That our old self
+[01:22:55.080 --> 01:22:59.080]   is buried. That only the new self in Christ
+[01:22:59.080 --> 01:23:03.080]   and faith is what lives.
+[01:23:03.080 --> 01:23:07.080]   We thank you for your patience. We thank you for
+[01:23:07.080 --> 01:23:11.080]   answered prayer. And may Christ
+[01:23:11.080 --> 01:23:15.080]   and Christ alone receive the glory of
+[01:23:15.080 --> 01:23:19.080]   your suffering. In Jesus' name we pray, amen.
+[01:23:19.080 --> 01:23:23.080]   Let's all stand up for the closing praise.
+[01:23:23.080 --> 01:23:27.080]   [piano]
+[01:23:27.080 --> 01:23:31.080]   [piano]
+[01:23:31.080 --> 01:23:35.080]   [piano]
+[01:23:35.080 --> 01:23:39.080]   [piano]
+[01:23:39.080 --> 01:23:43.080]   My hope is built on
+[01:23:43.080 --> 01:23:47.080]   nothing less than Jesus' blood
+[01:23:47.080 --> 01:23:51.080]   and righteousness. I dare not
+[01:23:51.080 --> 01:23:55.080]   trust the sweetest frame, but
+[01:23:55.080 --> 01:23:59.080]   holy lean on Jesus' name.
+[01:23:59.080 --> 01:24:03.080]   Oh Christ, a solid rock I
+[01:24:03.080 --> 01:24:07.080]   stand. All other ground is
+[01:24:07.080 --> 01:24:11.080]   sinking sand. All other ground
+[01:24:11.080 --> 01:24:15.080]   is sinking sand.
+[01:24:15.080 --> 01:24:19.080]   [piano]
+[01:24:19.080 --> 01:24:23.080]   [piano]
+[01:24:23.080 --> 01:24:27.080]   [piano]
+[01:24:27.080 --> 01:24:31.080]   [piano]
+[01:24:31.080 --> 01:24:35.080]   When darkness fills His loving face,
+[01:24:35.080 --> 01:24:39.080]   my last thought is a changing
+[01:24:39.080 --> 01:24:43.080]   grace. In every highest
+[01:24:43.080 --> 01:24:47.080]   stormy day, the Savior holds
+[01:24:47.080 --> 01:24:51.080]   me in the way. Oh Christ, a
+[01:24:51.080 --> 01:24:55.080]   solid rock I stand. All
+[01:24:55.080 --> 01:24:59.080]   other ground is sinking sand.
+[01:24:59.080 --> 01:25:03.080]   All other ground is sinking
+[01:25:03.080 --> 01:25:07.080]   sand.
+[01:25:07.080 --> 01:25:11.080]   [piano]
+[01:25:11.080 --> 01:25:15.080]   [piano]
+[01:25:15.080 --> 01:25:19.080]   [piano]
+[01:25:19.080 --> 01:25:21.080]   [piano]
+[01:25:21.080 --> 01:25:25.080]   This earth is covered
+[01:25:25.080 --> 01:25:29.080]   in His blood. Support me in the
+[01:25:29.080 --> 01:25:33.080]   overwhelming flood. Word all around
+[01:25:33.080 --> 01:25:37.080]   my soul is wet. Even if
+[01:25:37.080 --> 01:25:41.080]   all my hope could stay. Oh Christ,
+[01:25:41.080 --> 01:25:45.080]   a solid rock I stand. All
+[01:25:45.080 --> 01:25:49.080]   other ground is sinking sand.
+[01:25:49.080 --> 01:25:53.080]   All other ground is sinking
+[01:25:53.080 --> 01:25:57.080]   sand.
+[01:25:57.080 --> 01:26:01.080]   [piano]
+[01:26:01.080 --> 01:26:05.080]   [piano]
+[01:26:05.080 --> 01:26:09.080]   [piano]
+[01:26:09.080 --> 01:26:13.080]   When He shall come,
+[01:26:13.080 --> 01:26:17.080]   when He shall come, there's trumpet sound.
+[01:26:17.080 --> 01:26:21.080]   Oh, hear the angels
+[01:26:21.080 --> 01:26:25.080]   trusting His righteousness
+[01:26:25.080 --> 01:26:29.080]   alone. Oh, let's just have
+[01:26:29.080 --> 01:26:33.080]   a moment of grace. Oh,
+[01:26:33.080 --> 01:26:37.080]   Christ, a solid rock I stand.
+[01:26:37.080 --> 01:26:41.080]   All other ground is sinking
+[01:26:41.080 --> 01:26:45.080]   sand. All other ground is
+[01:26:45.080 --> 01:26:49.080]   sinking sand. Oh, Christ, a
+[01:26:49.080 --> 01:26:53.080]   solid rock I stand. All
+[01:26:53.080 --> 01:26:57.080]   other ground is sinking
+[01:26:57.080 --> 01:27:01.080]   sand.
+[01:27:01.080 --> 01:27:05.080]   Now the grace of our Lord Jesus Christ
+[01:27:05.080 --> 01:27:09.080]   and the fellowship and the indwelling and the interceding of the Holy Spirit
+[01:27:09.080 --> 01:27:13.080]   and the deep, deep love of God
+[01:27:13.080 --> 01:27:17.080]   who did not spare His own Son
+[01:27:17.080 --> 01:27:21.080]   but gave Him up for us all. Help us,
+[01:27:21.080 --> 01:27:25.080]   Lord God, that we would build upon Him
+[01:27:25.080 --> 01:27:28.180]   That we would build upon these foundations.
+[01:27:28.180 --> 01:27:31.100]   That when the storms comes in our life,
+[01:27:31.100 --> 01:27:34.860]   that we would not lose our labor.
+[01:27:34.860 --> 01:27:37.840]   All that we have hope for, all that we have labored for,
+[01:27:37.840 --> 01:27:39.120]   all that we have sacrificed for,
+[01:27:39.120 --> 01:27:43.440]   help us Lord God to build upon the foundation of Christ.
+[01:27:43.440 --> 01:27:45.960]   That he would be our foundation,
+[01:27:45.960 --> 01:27:47.100]   that he would be our love,
+[01:27:47.100 --> 01:27:48.560]   that he would be our pursuit.
+[01:27:48.560 --> 01:27:50.320]   That he would be our joy,
+[01:27:50.320 --> 01:27:51.880]   that he would be our hope.
+[01:27:52.780 --> 01:27:57.560]   And that our primary life and pursuit
+[01:27:57.560 --> 01:27:59.600]   and energy and finances,
+[01:27:59.600 --> 01:28:05.240]   that we would all invest to love you
+[01:28:05.240 --> 01:28:08.900]   with all our hearts, with all our soul,
+[01:28:08.900 --> 01:28:11.040]   with all our strength, with all our might,
+[01:28:11.040 --> 01:28:13.800]   for the sake of your name.
+[01:28:13.800 --> 01:28:18.200]   Send us that we may be the aroma of Christ wherever we go.
+[01:28:18.200 --> 01:28:20.060]   In Jesus name we pray, amen.
+[01:28:20.060 --> 01:28:22.480]   (soft music)
+[01:28:22.480 --> 01:28:27.480]   ♪ Jesus sent his son ♪
+[01:28:27.480 --> 01:28:33.260]   ♪ They called him Jesus ♪
+[01:28:33.260 --> 01:28:38.720]   ♪ He came to love ♪
+[01:28:38.720 --> 01:28:44.260]   ♪ He led for death ♪
+[01:28:44.260 --> 01:28:49.760]   ♪ He lived and died ♪
+[01:28:50.140 --> 01:28:54.720]   ♪ By my pardon ♪
+[01:28:54.720 --> 01:28:59.720]   ♪ An empty grave is there to ♪
+[01:28:59.720 --> 01:29:05.600]   ♪ Save your lips ♪
+[01:29:05.600 --> 01:29:10.720]   ♪ Because he lives ♪
+[01:29:10.720 --> 01:29:16.140]   ♪ I can face tomorrow ♪
+[01:29:16.580 --> 01:29:21.580]   ♪ Because he lives ♪
+[01:29:21.580 --> 01:29:27.000]   ♪ All fear is gone ♪
+[01:29:27.000 --> 01:29:32.480]   ♪ Because I know ♪
+[01:29:32.480 --> 01:29:37.920]   ♪ He holds the future ♪
+[01:29:37.920 --> 01:29:43.160]   ♪ And life is worth the living ♪
+[01:29:43.160 --> 01:29:46.580]   ♪ Just because he lives ♪
+[01:29:46.580 --> 01:29:53.700]   (soft music)
+[01:29:53.700 --> 01:29:56.700]   (people chattering)
+[01:29:56.700 --> 01:29:59.120]   (soft music)
+[01:29:59.120 --> 01:30:02.120]   (people chattering)
+[01:30:02.120 --> 01:30:04.540]   (soft music)
+[01:30:04.540 --> 01:30:07.540]   (people chattering)
+[01:30:07.540 --> 01:30:09.940]   you
+

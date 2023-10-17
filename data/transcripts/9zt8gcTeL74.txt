@@ -1,0 +1,1922 @@
+
+[00:00:00.000 --> 00:00:02.920]   (soft piano music)
+[00:00:02.920 --> 00:00:05.840]   (soft piano music)
+[00:00:05.840 --> 00:00:08.760]   (soft piano music)
+[00:00:08.760 --> 00:00:11.680]   (soft piano music)
+[00:00:11.680 --> 00:00:14.600]   (soft piano music)
+[00:00:14.600 --> 00:00:17.520]   (soft piano music)
+[00:00:17.720 --> 00:00:20.640]   (soft piano music)
+[00:00:20.640 --> 00:00:23.560]   (soft piano music)
+[00:00:23.560 --> 00:00:26.480]   (soft piano music)
+[00:00:26.480 --> 00:00:31.400]   (soft piano music)
+[00:00:31.400 --> 00:00:36.320]   (soft piano music)
+[00:00:36.320 --> 00:00:41.240]   (soft piano music)
+[00:00:41.240 --> 00:00:46.160]   (soft piano music)
+[00:00:46.160 --> 00:00:51.080]   (soft piano music)
+[00:00:53.080 --> 00:00:56.000]   (soft piano music)
+[00:00:56.000 --> 00:01:00.920]   (soft piano music)
+[00:01:00.920 --> 00:01:05.840]   (soft piano music)
+[00:01:05.840 --> 00:01:10.760]   (soft piano music)
+[00:01:10.760 --> 00:01:15.680]   (soft piano music)
+[00:01:15.680 --> 00:01:20.600]   (soft piano music)
+[00:01:22.600 --> 00:01:25.520]   (soft piano music)
+[00:01:25.520 --> 00:01:30.440]   (soft piano music)
+[00:01:30.440 --> 00:01:35.360]   (soft piano music)
+[00:01:35.360 --> 00:01:40.280]   (soft piano music)
+[00:01:40.280 --> 00:01:45.200]   (soft piano music)
+[00:01:45.200 --> 00:01:50.120]   (soft piano music)
+[00:01:52.120 --> 00:01:55.040]   (soft piano music)
+[00:01:55.040 --> 00:01:59.960]   (soft piano music)
+[00:01:59.960 --> 00:02:04.880]   (soft piano music)
+[00:02:04.880 --> 00:02:09.800]   (soft piano music)
+[00:02:09.800 --> 00:02:14.720]   (soft piano music)
+[00:02:14.720 --> 00:02:19.640]   (soft piano music)
+[00:02:21.640 --> 00:02:24.560]   (soft piano music)
+[00:02:24.560 --> 00:02:29.480]   (soft piano music)
+[00:02:29.480 --> 00:02:34.400]   (soft piano music)
+[00:02:34.400 --> 00:02:39.320]   (soft piano music)
+[00:02:39.320 --> 00:02:44.240]   (soft piano music)
+[00:02:44.240 --> 00:02:49.160]   (soft piano music)
+[00:02:51.160 --> 00:02:54.080]   (soft piano music)
+[00:02:54.080 --> 00:02:59.000]   (soft piano music)
+[00:02:59.000 --> 00:03:03.920]   (soft piano music)
+[00:03:03.920 --> 00:03:08.840]   (soft piano music)
+[00:03:08.840 --> 00:03:13.760]   (soft piano music)
+[00:03:13.760 --> 00:03:18.680]   (soft piano music)
+[00:03:20.680 --> 00:03:23.600]   (soft piano music)
+[00:03:23.600 --> 00:03:28.520]   (soft piano music)
+[00:03:28.520 --> 00:03:33.520]   (soft piano music)
+[00:03:33.520 --> 00:03:38.440]   (soft piano music)
+[00:03:38.440 --> 00:03:43.440]   (soft piano music)
+[00:03:43.440 --> 00:03:48.360]   (soft piano music)
+[00:03:50.360 --> 00:03:53.280]   (soft piano music)
+[00:03:53.280 --> 00:03:58.200]   (soft piano music)
+[00:03:58.200 --> 00:04:03.120]   (soft piano music)
+[00:04:03.120 --> 00:04:08.040]   (soft piano music)
+[00:04:08.040 --> 00:04:12.960]   (soft piano music)
+[00:04:12.960 --> 00:04:17.880]   (soft piano music)
+[00:04:19.880 --> 00:04:22.800]   (soft piano music)
+[00:04:22.800 --> 00:04:27.720]   (soft piano music)
+[00:04:27.720 --> 00:04:32.600]   (soft piano music)
+[00:04:32.600 --> 00:04:37.520]   (soft piano music)
+[00:04:37.520 --> 00:04:42.440]   (soft piano music)
+[00:04:42.440 --> 00:04:47.360]   (soft piano music)
+[00:04:49.360 --> 00:04:52.280]   (soft piano music)
+[00:04:52.280 --> 00:04:57.200]   (soft piano music)
+[00:04:57.200 --> 00:05:02.120]   (soft piano music)
+[00:05:02.120 --> 00:05:07.040]   (soft piano music)
+[00:05:07.040 --> 00:05:11.960]   (soft piano music)
+[00:05:11.960 --> 00:05:16.880]   (soft piano music)
+[00:05:18.880 --> 00:05:21.800]   (soft piano music)
+[00:05:21.800 --> 00:05:26.720]   (soft piano music)
+[00:05:26.720 --> 00:05:31.640]   (soft piano music)
+[00:05:31.640 --> 00:05:36.560]   (soft piano music)
+[00:05:36.560 --> 00:05:41.480]   (soft piano music)
+[00:05:41.480 --> 00:05:46.400]   (soft piano music)
+[00:05:48.400 --> 00:05:51.320]   (soft piano music)
+[00:05:51.320 --> 00:05:56.240]   (soft piano music)
+[00:05:56.240 --> 00:06:01.160]   (soft piano music)
+[00:06:01.160 --> 00:06:06.080]   (soft piano music)
+[00:06:06.080 --> 00:06:11.000]   (soft piano music)
+[00:06:11.000 --> 00:06:15.920]   (soft piano music)
+[00:06:17.920 --> 00:06:20.840]   (soft piano music)
+[00:06:20.840 --> 00:06:25.760]   (soft piano music)
+[00:06:25.760 --> 00:06:30.680]   (soft piano music)
+[00:06:30.680 --> 00:06:35.600]   (soft piano music)
+[00:06:35.600 --> 00:06:40.520]   (soft piano music)
+[00:06:40.520 --> 00:06:45.440]   (soft piano music)
+[00:06:47.440 --> 00:06:50.360]   (soft piano music)
+[00:06:50.360 --> 00:06:55.280]   (soft piano music)
+[00:06:55.280 --> 00:07:00.200]   (soft piano music)
+[00:07:00.200 --> 00:07:05.120]   (soft piano music)
+[00:07:05.120 --> 00:07:10.040]   (soft piano music)
+[00:07:10.040 --> 00:07:14.960]   (soft piano music)
+[00:07:16.960 --> 00:07:19.880]   (soft piano music)
+[00:07:19.880 --> 00:07:24.800]   (soft piano music)
+[00:07:24.800 --> 00:07:29.720]   (soft piano music)
+[00:07:29.720 --> 00:07:34.640]   (soft piano music)
+[00:07:34.640 --> 00:07:39.560]   (soft piano music)
+[00:07:39.560 --> 00:07:44.480]   (soft piano music)
+[00:07:46.480 --> 00:07:49.400]   (soft piano music)
+[00:07:49.400 --> 00:07:54.320]   (soft piano music)
+[00:07:54.320 --> 00:07:59.240]   (soft piano music)
+[00:07:59.240 --> 00:08:04.160]   (soft piano music)
+[00:08:04.160 --> 00:08:09.080]   (soft piano music)
+[00:08:09.080 --> 00:08:14.000]   (soft piano music)
+[00:08:16.000 --> 00:08:18.880]   (soft piano music)
+[00:08:18.880 --> 00:08:23.720]   (soft piano music)
+[00:08:23.720 --> 00:08:28.520]   (soft piano music)
+[00:08:28.520 --> 00:08:33.400]   (soft piano music)
+[00:08:33.400 --> 00:08:38.320]   (soft piano music)
+[00:08:38.320 --> 00:08:43.200]   (soft piano music)
+[00:08:45.200 --> 00:08:48.120]   (soft piano music)
+[00:08:48.120 --> 00:08:53.000]   (soft piano music)
+[00:08:53.000 --> 00:08:59.920]   (soft piano music)
+[00:08:59.920 --> 00:09:05.920]   (soft piano music)
+[00:09:05.920 --> 00:09:09.720]   - All right, good morning, church family.
+[00:09:09.720 --> 00:09:10.640]   Happy Lord's Day.
+[00:09:10.640 --> 00:09:14.360]   As always, it's a joy to gather together to worship our God.
+[00:09:14.360 --> 00:09:17.920]   So let us begin our service with a song of worship.
+[00:09:17.920 --> 00:09:23.000]   (soft piano music)
+[00:09:23.000 --> 00:09:35.960]   ♪ Light of the world ♪
+[00:09:35.960 --> 00:09:40.160]   ♪ You step down into darkness ♪
+[00:09:40.160 --> 00:09:45.160]   ♪ Open my eyes, let me see ♪
+[00:09:45.160 --> 00:09:51.760]   ♪ Beauty that made this heart adore you ♪
+[00:09:51.760 --> 00:09:58.440]   ♪ Hope of a life spent with you ♪
+[00:09:58.440 --> 00:10:05.080]   ♪ Here I am to worship ♪
+[00:10:05.080 --> 00:10:08.400]   ♪ Here I am to bow down ♪
+[00:10:08.400 --> 00:10:13.400]   ♪ Here I am to say that you're my God ♪
+[00:10:13.400 --> 00:10:18.440]   ♪ You're altogether lovely ♪
+[00:10:18.440 --> 00:10:21.760]   ♪ Altogether worthy ♪
+[00:10:21.760 --> 00:10:25.440]   ♪ Altogether wonderful to me ♪
+[00:10:25.440 --> 00:10:32.320]   - King of all days.
+[00:10:32.320 --> 00:10:36.000]   ♪ King of all days ♪
+[00:10:36.000 --> 00:10:40.080]   ♪ You're so highly exalted ♪
+[00:10:40.080 --> 00:10:45.080]   ♪ Glorious in heaven above ♪
+[00:10:45.080 --> 00:10:49.200]   ♪ From the earth you came ♪
+[00:10:49.200 --> 00:10:53.400]   ♪ To the earth you created ♪
+[00:10:53.400 --> 00:10:58.400]   ♪ All for the sake it gave you ♪
+[00:10:58.400 --> 00:11:01.720]   ♪ Here I am to worship ♪
+[00:11:01.720 --> 00:11:05.040]   ♪ Here I am to bow down ♪
+[00:11:05.040 --> 00:11:10.040]   ♪ Here I am to say that you're my God ♪
+[00:11:10.040 --> 00:11:15.080]   ♪ You're altogether lovely ♪
+[00:11:15.080 --> 00:11:18.480]   ♪ Altogether worthy ♪
+[00:11:18.480 --> 00:11:23.480]   ♪ Altogether wonderful to me ♪
+[00:11:23.480 --> 00:11:30.920]   ♪ And I'll never know how much it cost ♪
+[00:11:32.640 --> 00:11:37.640]   ♪ To see my sin upon that cross ♪
+[00:11:37.640 --> 00:11:44.320]   ♪ I'll never know how much it cost ♪
+[00:11:44.320 --> 00:11:50.920]   ♪ To see my sin upon that cross ♪
+[00:11:50.920 --> 00:11:57.640]   ♪ I'll never know how much it cost ♪
+[00:11:59.280 --> 00:12:04.280]   ♪ To see my sin upon that cross ♪
+[00:12:04.280 --> 00:12:11.840]   ♪ Here I am to worship ♪
+[00:12:11.840 --> 00:12:15.200]   ♪ Here I am to bow down ♪
+[00:12:15.200 --> 00:12:20.200]   ♪ Here I am to say that you're my God ♪
+[00:12:20.200 --> 00:12:25.400]   ♪ You're altogether lovely ♪
+[00:12:25.400 --> 00:12:29.000]   ♪ Altogether worthy ♪
+[00:12:29.000 --> 00:12:32.840]   ♪ Altogether wonderful to me ♪
+[00:12:32.840 --> 00:12:44.600]   - Good morning, everybody.
+[00:12:44.600 --> 00:12:47.080]   If you are joining us for the very first time this Sunday,
+[00:12:47.080 --> 00:12:49.420]   we wanna extend a warm welcome to you.
+[00:12:49.420 --> 00:12:50.760]   After the service is done,
+[00:12:50.760 --> 00:12:53.520]   please be sure to swing by our welcome booth.
+[00:12:53.520 --> 00:12:54.720]   You probably saw the booth
+[00:12:54.720 --> 00:12:57.160]   right at the front of the entrance of our parking lot.
+[00:12:57.160 --> 00:12:58.160]   We'd love to meet you.
+[00:12:58.160 --> 00:12:59.360]   And if you have any questions
+[00:12:59.360 --> 00:13:01.560]   about various programs at the church
+[00:13:01.560 --> 00:13:03.320]   or just general information,
+[00:13:03.320 --> 00:13:05.000]   our team members would love to meet you
+[00:13:05.000 --> 00:13:06.960]   and answer those questions there.
+[00:13:06.960 --> 00:13:09.800]   I do have a good number of announcements.
+[00:13:09.800 --> 00:13:11.640]   At the beginning of the year,
+[00:13:11.640 --> 00:13:14.140]   we still have various things to sign up for.
+[00:13:14.140 --> 00:13:17.440]   The first announcement is related to our Bible study
+[00:13:17.440 --> 00:13:18.740]   is starting this week.
+[00:13:18.740 --> 00:13:21.200]   So all of you guys who are registered
+[00:13:21.200 --> 00:13:22.360]   for our Wednesday meeting,
+[00:13:22.360 --> 00:13:24.200]   please be sure to just show up.
+[00:13:24.200 --> 00:13:27.700]   Come a little bit early maybe just to get situated.
+[00:13:27.700 --> 00:13:30.320]   If you haven't received an email,
+[00:13:30.320 --> 00:13:32.000]   but you have signed up,
+[00:13:32.000 --> 00:13:33.400]   please make sure at this point
+[00:13:33.400 --> 00:13:37.360]   to just to email me directly at marklim@briancc.com
+[00:13:37.360 --> 00:13:39.860]   and we will coordinate and help you find your way.
+[00:13:39.860 --> 00:13:44.840]   Aligned with that is our Bible lab seminars
+[00:13:44.840 --> 00:13:48.480]   that will be running on Sundays from two to 3 p.m.
+[00:13:48.480 --> 00:13:50.960]   And that's going to start on January 29th,
+[00:13:50.960 --> 00:13:53.140]   which is next Sunday.
+[00:13:53.140 --> 00:13:56.200]   For those of you who either want just a refresher,
+[00:13:56.200 --> 00:13:59.040]   this is open to both members and non-members.
+[00:13:59.040 --> 00:14:02.240]   If you are curious about how we do the inductive process,
+[00:14:02.240 --> 00:14:04.040]   this will be a great lesson for you.
+[00:14:04.040 --> 00:14:08.560]   Additionally, for anybody who is a member
+[00:14:08.560 --> 00:14:11.880]   and would like to volunteer serving with the children,
+[00:14:11.880 --> 00:14:13.620]   at any time we have volunteers
+[00:14:13.620 --> 00:14:16.600]   who are consistently with children in the room, et cetera,
+[00:14:16.600 --> 00:14:20.120]   we do have a requirement that they have to be safety trained.
+[00:14:20.120 --> 00:14:22.240]   So sign up for a special training
+[00:14:22.240 --> 00:14:25.140]   that will be taking place Sunday at 1 p.m.
+[00:14:25.140 --> 00:14:26.640]   here in the sanctuary.
+[00:14:26.640 --> 00:14:29.040]   That's the 29th, so next week as well.
+[00:14:29.040 --> 00:14:32.280]   Additionally, next week is the last day to sign up
+[00:14:32.280 --> 00:14:34.960]   for the Intentional Sisters Fellowship.
+[00:14:34.960 --> 00:14:37.620]   This is for our BAM, single adults,
+[00:14:37.620 --> 00:14:40.160]   and Family Ministry sisters to come together,
+[00:14:40.160 --> 00:14:42.040]   form small groups, and go through a book
+[00:14:42.040 --> 00:14:44.120]   called Don't Waste Your Life.
+[00:14:44.120 --> 00:14:46.560]   And there will be different times for meeting on that,
+[00:14:46.560 --> 00:14:48.160]   so make sure you look for the details
+[00:14:48.160 --> 00:14:50.740]   and sign up by next Sunday, the 29th.
+[00:14:50.740 --> 00:14:54.560]   Another announcement for you is that
+[00:14:54.560 --> 00:14:57.360]   we like to announce our special communion Sundays
+[00:14:57.360 --> 00:15:00.040]   ahead of time so that you can prepare,
+[00:15:00.040 --> 00:15:03.600]   put that on your calendar, and take extra time to pray.
+[00:15:03.600 --> 00:15:07.000]   So our next communion Sunday is gonna be February 5th,
+[00:15:07.000 --> 00:15:10.900]   or during both service we'll observe the communion table.
+[00:15:10.900 --> 00:15:13.460]   Final announcement is that our men's ministry
+[00:15:13.460 --> 00:15:17.080]   is taking signups for a special Saturday meeting
+[00:15:17.080 --> 00:15:20.280]   which will take place from 9 a.m. to about 12.30.
+[00:15:20.280 --> 00:15:23.680]   That's gonna be Saturday, February 18th.
+[00:15:23.680 --> 00:15:26.800]   We'll be having both fellowship time,
+[00:15:26.800 --> 00:15:28.800]   special seminar and teaching time,
+[00:15:28.800 --> 00:15:31.200]   discussion and lunch fellowship together,
+[00:15:31.200 --> 00:15:33.640]   so make sure you sign up for that early.
+[00:15:33.640 --> 00:15:36.880]   And finally today, after our worship set,
+[00:15:36.880 --> 00:15:38.940]   we'll get the privilege of hearing the testimony
+[00:15:38.940 --> 00:15:42.320]   of our sister Tiffany, and she'll be baptized this morning.
+[00:15:42.320 --> 00:15:44.520]   So at this time I'll pray for our offering.
+[00:15:44.520 --> 00:15:46.920]   Again, if you have a physical check you'd like to submit,
+[00:15:46.920 --> 00:15:49.520]   we have our offering box right by the entrance,
+[00:15:49.520 --> 00:15:52.040]   or otherwise you can submit it via the digital form.
+[00:15:52.040 --> 00:15:53.200]   Let's pray together.
+[00:15:54.200 --> 00:15:57.000]   (pastor and congregation murmuring)
+[00:15:57.000 --> 00:15:58.560]   Our God, we wanna thank you so much
+[00:15:58.560 --> 00:16:02.740]   for your grace and mercies that abounds to us every day.
+[00:16:02.740 --> 00:16:05.280]   We are truly grateful for the blessings
+[00:16:05.280 --> 00:16:09.200]   that are given to us only in the name of Christ.
+[00:16:09.200 --> 00:16:10.920]   And so we wanna thank you this morning,
+[00:16:10.920 --> 00:16:14.000]   when we gather this way in a corporate worship,
+[00:16:14.000 --> 00:16:16.560]   we wanna lift up to you our heart of appreciation
+[00:16:16.560 --> 00:16:20.180]   for your mercies that are new, for your saving grace,
+[00:16:20.180 --> 00:16:22.920]   and the power that sustains us day to day.
+[00:16:22.920 --> 00:16:24.880]   We also thank you for the opportunity
+[00:16:24.880 --> 00:16:29.680]   to be challenged by your word, to be washed, Lord God,
+[00:16:29.680 --> 00:16:33.600]   and to be renewed in our commitments and our faith.
+[00:16:33.600 --> 00:16:37.080]   And so we pray for such a fruitfulness of faith this morning
+[00:16:37.080 --> 00:16:38.760]   when we engage both in the singing
+[00:16:38.760 --> 00:16:40.540]   and the hearing of your word.
+[00:16:40.540 --> 00:16:43.720]   We also pray, Father God, that as we offer to you
+[00:16:43.720 --> 00:16:46.300]   our finances, our attention, our time,
+[00:16:46.300 --> 00:16:48.480]   our worship and song and more,
+[00:16:48.480 --> 00:16:51.480]   we do pray, Lord, for these things to be lifted up to you
+[00:16:51.480 --> 00:16:54.700]   in the name of Christ, and God, that as you receive,
+[00:16:54.700 --> 00:16:56.320]   Lord, truly you'd be honored.
+[00:16:56.320 --> 00:16:59.320]   We thank you this morning, Lord, it's in Christ's name, amen.
+[00:16:59.320 --> 00:17:03.360]   (gentle piano music)
+[00:17:03.360 --> 00:17:06.440]   (gentle piano music)
+[00:17:06.440 --> 00:17:09.520]   (gentle piano music)
+[00:17:09.520 --> 00:17:12.600]   (gentle piano music)
+[00:17:12.600 --> 00:17:15.680]   (gentle piano music)
+[00:17:15.680 --> 00:17:18.760]   (gentle piano music)
+[00:17:18.760 --> 00:17:21.840]   (gentle piano music)
+[00:17:21.840 --> 00:17:27.800]   (gentle piano music)
+[00:17:27.800 --> 00:17:33.580]   (gentle piano music)
+[00:17:33.580 --> 00:17:41.240]   (gentle piano music)
+[00:17:47.240 --> 00:17:52.240]   Would you please stand with us as we continue our worship?
+[00:17:52.240 --> 00:17:55.820]   (upbeat music)
+[00:17:55.820 --> 00:18:05.760]   ♪ Raises rising ♪
+[00:18:05.760 --> 00:18:10.760]   ♪ Eyes are turning to me ♪
+[00:18:13.000 --> 00:18:18.000]   ♪ Turn to you ♪
+[00:18:18.000 --> 00:18:22.680]   ♪ Hope is stirring ♪
+[00:18:22.680 --> 00:18:27.680]   ♪ Hearts are yearning ♪
+[00:18:27.680 --> 00:18:34.280]   ♪ We walk with you ♪
+[00:18:34.280 --> 00:18:36.520]   ♪ 'Cause when we see you ♪
+[00:18:36.520 --> 00:18:40.760]   ♪ We find strength to face the day ♪
+[00:18:40.760 --> 00:18:43.080]   ♪ In your presence ♪
+[00:18:43.080 --> 00:18:45.160]   ♪ In your presence ♪
+[00:18:45.160 --> 00:18:49.400]   ♪ All our fears are washed away ♪
+[00:18:49.400 --> 00:18:52.120]   ♪ Washed away ♪
+[00:18:52.120 --> 00:18:56.360]   ♪ Hosanna ♪
+[00:18:56.360 --> 00:19:00.080]   ♪ Hosanna ♪
+[00:19:00.080 --> 00:19:04.240]   ♪ You are the God who saves us ♪
+[00:19:04.240 --> 00:19:09.040]   ♪ Worthy of all our praises ♪
+[00:19:09.040 --> 00:19:13.200]   ♪ Hosanna ♪
+[00:19:13.200 --> 00:19:16.960]   ♪ Hosanna ♪
+[00:19:16.960 --> 00:19:21.000]   ♪ Come have your way among us ♪
+[00:19:21.000 --> 00:19:26.000]   ♪ And welcome you here, Lord Jesus ♪
+[00:19:26.000 --> 00:19:28.640]   - Hear the sound.
+[00:19:28.640 --> 00:19:33.640]   ♪ Hear the sound of hearts returning to you ♪
+[00:19:33.640 --> 00:19:38.640]   ♪ Hearts returning to you ♪
+[00:19:38.640 --> 00:19:45.200]   ♪ Return to you ♪
+[00:19:45.200 --> 00:19:49.960]   ♪ In your kingdom ♪
+[00:19:49.960 --> 00:19:54.960]   ♪ Broken lies are made new ♪
+[00:19:54.960 --> 00:20:01.440]   ♪ You make us new ♪
+[00:20:01.440 --> 00:20:03.760]   ♪ 'Cause when we see you ♪
+[00:20:03.760 --> 00:20:08.760]   ♪ We find strength to face the day ♪
+[00:20:08.760 --> 00:20:12.240]   ♪ In your presence ♪
+[00:20:12.240 --> 00:20:16.560]   ♪ All our fears are washed away ♪
+[00:20:16.560 --> 00:20:19.280]   ♪ Washed away ♪
+[00:20:19.280 --> 00:20:23.480]   ♪ Hosanna ♪
+[00:20:23.480 --> 00:20:27.160]   ♪ Hosanna ♪
+[00:20:27.160 --> 00:20:31.360]   ♪ You are the God who saves us ♪
+[00:20:31.360 --> 00:20:36.360]   ♪ Worthy of all our praises ♪
+[00:20:36.360 --> 00:20:40.600]   ♪ Hosanna ♪
+[00:20:40.600 --> 00:20:44.400]   ♪ Hosanna ♪
+[00:20:44.400 --> 00:20:48.440]   ♪ Come have your way among us ♪
+[00:20:48.440 --> 00:20:52.760]   ♪ And welcome you here, Lord Jesus ♪
+[00:20:52.760 --> 00:20:55.340]   (upbeat music)
+[00:20:55.340 --> 00:21:05.360]   ♪ 'Cause when we see you ♪
+[00:21:05.360 --> 00:21:10.360]   ♪ We find strength to face the day ♪
+[00:21:10.360 --> 00:21:13.840]   ♪ In your presence ♪
+[00:21:13.840 --> 00:21:17.680]   ♪ All our fears are washed away ♪
+[00:21:17.680 --> 00:21:20.120]   ♪ When we see you ♪
+[00:21:20.120 --> 00:21:22.240]   ♪ When we see you ♪
+[00:21:22.240 --> 00:21:27.240]   ♪ We find strength to face the day ♪
+[00:21:27.240 --> 00:21:30.760]   ♪ In your presence ♪
+[00:21:30.760 --> 00:21:35.080]   ♪ All our fears are washed away ♪
+[00:21:35.080 --> 00:21:39.880]   ♪ Washed away ♪
+[00:21:39.880 --> 00:21:44.040]   ♪ Hosanna ♪
+[00:21:44.040 --> 00:21:47.800]   ♪ Hosanna ♪
+[00:21:47.800 --> 00:21:52.040]   ♪ You are the God who saves us ♪
+[00:21:52.040 --> 00:21:57.040]   ♪ Worthy of all our praises ♪
+[00:21:57.040 --> 00:22:01.280]   ♪ Hosanna ♪
+[00:22:01.280 --> 00:22:05.080]   ♪ Hosanna ♪
+[00:22:05.080 --> 00:22:09.040]   ♪ Come have your way among us ♪
+[00:22:09.040 --> 00:22:13.280]   ♪ And welcome you here, Lord Jesus ♪
+[00:22:13.280 --> 00:22:15.860]   (upbeat music)
+[00:22:15.860 --> 00:22:27.100]   (gentle music)
+[00:22:27.100 --> 00:22:41.880]   ♪ Should nothing of our efforts stand ♪
+[00:22:42.880 --> 00:22:47.880]   ♪ No legacy survive ♪
+[00:22:47.880 --> 00:22:54.320]   ♪ Unless the Lord does praise the house ♪
+[00:22:54.320 --> 00:23:00.680]   ♪ In vain its builders strive ♪
+[00:23:00.680 --> 00:23:07.040]   ♪ To you who boast tomorrow's gain ♪
+[00:23:08.440 --> 00:23:13.440]   ♪ Tell me what is your life ♪
+[00:23:13.440 --> 00:23:19.920]   ♪ A mist that vanishes at dawn ♪
+[00:23:19.920 --> 00:23:26.320]   ♪ All glory be to Christ ♪
+[00:23:26.320 --> 00:23:32.720]   ♪ All glory be to Christ our King ♪
+[00:23:34.120 --> 00:23:39.120]   ♪ All glory be to Christ ♪
+[00:23:39.120 --> 00:23:45.560]   ♪ His rule and reign will ever sing ♪
+[00:23:45.560 --> 00:23:50.500]   ♪ All glory be to Christ ♪
+[00:23:50.500 --> 00:23:59.840]   ♪ His will be done ♪
+[00:23:59.840 --> 00:24:02.880]   ♪ His kingdom come ♪
+[00:24:02.880 --> 00:24:07.880]   ♪ On earth as it's in heaven ♪
+[00:24:07.880 --> 00:24:14.360]   ♪ Who is himself our daily bread ♪
+[00:24:14.360 --> 00:24:20.760]   ♪ Praised in the Lord of love ♪
+[00:24:20.760 --> 00:24:27.960]   ♪ Living water satisfy the thirsty ♪
+[00:24:30.960 --> 00:24:34.960]   ♪ With the price ♪
+[00:24:34.960 --> 00:24:39.960]   ♪ We'll take a cup of kindness yet ♪
+[00:24:39.960 --> 00:24:46.360]   ♪ All glory be to Christ ♪
+[00:24:46.360 --> 00:24:52.760]   ♪ All glory be to Christ our King ♪
+[00:24:52.760 --> 00:24:59.200]   ♪ All glory be to Christ ♪
+[00:25:00.600 --> 00:25:05.600]   ♪ His rule and reign will ever sing ♪
+[00:25:05.600 --> 00:25:12.000]   ♪ All glory be to Christ ♪
+[00:25:12.000 --> 00:25:19.800]   ♪ Oh, you're all the day ♪
+[00:25:19.800 --> 00:25:22.960]   ♪ The great I am ♪
+[00:25:22.960 --> 00:25:27.960]   ♪ The faithful and the true ♪
+[00:25:29.400 --> 00:25:34.400]   ♪ Not a lamb who was for sinners slain ♪
+[00:25:34.400 --> 00:25:40.800]   ♪ Is making all things new ♪
+[00:25:40.800 --> 00:25:47.920]   ♪ Behold our God shall live with us ♪
+[00:25:47.920 --> 00:25:53.600]   ♪ And be our steadfast light ♪
+[00:25:55.000 --> 00:26:00.000]   ♪ And we shall let our heads be full of glee ♪
+[00:26:00.000 --> 00:26:06.400]   ♪ All glory be to Christ ♪
+[00:26:06.400 --> 00:26:12.800]   ♪ All glory be to Christ our King ♪
+[00:26:12.800 --> 00:26:19.200]   ♪ All glory be to Christ ♪
+[00:26:20.640 --> 00:26:25.640]   ♪ His rule and reign will ever sing ♪
+[00:26:25.640 --> 00:26:32.040]   ♪ All glory be to Christ ♪
+[00:26:32.040 --> 00:26:38.480]   ♪ All glory be to Christ our King ♪
+[00:26:38.480 --> 00:26:44.880]   ♪ All glory be to Christ ♪
+[00:26:46.520 --> 00:26:51.520]   ♪ His rule and reign will ever sing ♪
+[00:26:51.520 --> 00:26:56.860]   ♪ All glory be to Christ ♪
+[00:26:56.860 --> 00:27:02.820]   - Amen, you may be seated.
+[00:27:02.820 --> 00:27:15.160]   - Good morning, everyone.
+[00:27:15.160 --> 00:27:17.600]   My name is Tiffany Michelle Yu.
+[00:27:17.600 --> 00:27:20.240]   I am so grateful to have been raised in the church
+[00:27:20.240 --> 00:27:22.520]   by my parents, hearing the good news
+[00:27:22.520 --> 00:27:24.680]   that Jesus loves me, this I know,
+[00:27:24.680 --> 00:27:26.720]   for the Bible tells me so.
+[00:27:26.720 --> 00:27:28.580]   As an enthusiastic child,
+[00:27:28.580 --> 00:27:31.400]   I remember experiencing the love of Jesus
+[00:27:31.400 --> 00:27:35.040]   through my mom's teaching and through my dad's worship.
+[00:27:35.040 --> 00:27:38.120]   However, my faith was more of a general acceptance
+[00:27:38.120 --> 00:27:40.280]   of the Bible stories I was taught
+[00:27:40.280 --> 00:27:42.960]   than a joyful revelation and deeper understanding
+[00:27:42.960 --> 00:27:46.520]   for how Jesus saves me from my sins.
+[00:27:46.520 --> 00:27:49.240]   My understanding of Jesus was limited to his work
+[00:27:49.240 --> 00:27:51.520]   in the past for other believers,
+[00:27:51.520 --> 00:27:54.120]   rather than the constant and current mercy and grace
+[00:27:54.120 --> 00:27:55.820]   he extends to me every day.
+[00:27:55.820 --> 00:27:58.440]   Throughout my middle school years,
+[00:27:58.440 --> 00:28:00.080]   I struggled with misplaced worth
+[00:28:00.080 --> 00:28:01.860]   and idolizing approval of man.
+[00:28:01.860 --> 00:28:04.480]   My thoughts were filled with a desire
+[00:28:04.480 --> 00:28:07.560]   to be chosen and loved by friends at school
+[00:28:07.560 --> 00:28:09.520]   as I searched for a best friend
+[00:28:09.520 --> 00:28:11.240]   who I thought could fill the loneliness
+[00:28:11.240 --> 00:28:13.200]   that I felt in my heart due to not being
+[00:28:13.200 --> 00:28:15.720]   in a close relationship with Christ.
+[00:28:15.720 --> 00:28:18.460]   I began to set expectations for my friends,
+[00:28:18.460 --> 00:28:21.360]   and when they did not fulfill those expectations,
+[00:28:21.360 --> 00:28:24.600]   I felt simultaneously disappointed and unwanted,
+[00:28:24.600 --> 00:28:27.780]   many nights despairing and wishing that I didn't exist.
+[00:28:27.780 --> 00:28:30.960]   This struggle led to even more idols
+[00:28:30.960 --> 00:28:34.080]   as I began to search for comfort and security
+[00:28:34.080 --> 00:28:37.760]   in worldly possessions throughout my years in high school,
+[00:28:37.760 --> 00:28:40.560]   feeling very anxious through change and instability.
+[00:28:41.360 --> 00:28:44.040]   Throughout high school, I prioritized my hobbies
+[00:28:44.040 --> 00:28:47.000]   and activities over learning, serving, and worshiping
+[00:28:47.000 --> 00:28:49.280]   as part of a church community.
+[00:28:49.280 --> 00:28:51.460]   While I still acknowledged God's love,
+[00:28:51.460 --> 00:28:53.520]   I recognize now that I was not growing
+[00:28:53.520 --> 00:28:55.760]   in my knowledge of scripture and truth,
+[00:28:55.760 --> 00:28:57.640]   nor was I repenting for my sins
+[00:28:57.640 --> 00:29:00.100]   and surrendering all of my life to Christ.
+[00:29:00.100 --> 00:29:05.700]   In 2017, I started college at Azusa Pacific University,
+[00:29:05.700 --> 00:29:07.760]   where the Lord transformed my understanding
+[00:29:07.760 --> 00:29:10.360]   of what it looks like to worship and glorify God
+[00:29:10.360 --> 00:29:11.480]   with my whole life.
+[00:29:11.480 --> 00:29:14.720]   The three and a half years I spent at APU
+[00:29:14.720 --> 00:29:17.600]   were some of the most sanctifying years of my life
+[00:29:17.600 --> 00:29:20.760]   as God tested me through even more friendship trials
+[00:29:20.760 --> 00:29:22.640]   and struggles with comparison,
+[00:29:22.640 --> 00:29:24.320]   convicting me time and time again
+[00:29:24.320 --> 00:29:26.960]   to repent for my past and current sins
+[00:29:26.960 --> 00:29:31.420]   and to obediently follow his commands and plans for my life.
+[00:29:31.420 --> 00:29:35.780]   God spoke to me through the chapel messages and worship,
+[00:29:35.780 --> 00:29:38.720]   which led me to desire being in his presence
+[00:29:38.720 --> 00:29:41.040]   and to grow in my knowledge of his word.
+[00:29:41.040 --> 00:29:44.560]   I can say with confidence that God saved me
+[00:29:44.560 --> 00:29:46.420]   in my sophomore year of college
+[00:29:46.420 --> 00:29:48.120]   as I processed my sinfulness,
+[00:29:48.120 --> 00:29:50.440]   cried out to God for forgiveness,
+[00:29:50.440 --> 00:29:53.680]   and recognized my identity and worth in Christ alone.
+[00:29:53.680 --> 00:29:58.280]   God fulfilled many promises to me in my college years,
+[00:29:58.280 --> 00:30:00.360]   renewing my faith and showing me
+[00:30:00.360 --> 00:30:02.360]   that pursuing Christ is the only love
+[00:30:02.360 --> 00:30:04.640]   that can satisfy the longing for acceptance
+[00:30:04.640 --> 00:30:05.840]   that I felt in my heart.
+[00:30:05.840 --> 00:30:08.560]   A verse that encouraged me during this time
+[00:30:08.560 --> 00:30:11.000]   is Isaiah 46 through eight.
+[00:30:11.000 --> 00:30:12.760]   A voice says, "Cry."
+[00:30:12.760 --> 00:30:14.600]   And I said, "What shall I cry?
+[00:30:14.600 --> 00:30:16.760]   "All flesh is grass and all its beauty
+[00:30:16.760 --> 00:30:18.840]   "is like the flower of the field.
+[00:30:18.840 --> 00:30:20.880]   "The grass withers, the flower fades
+[00:30:20.880 --> 00:30:22.920]   "when the breath of the Lord blows on it.
+[00:30:22.920 --> 00:30:24.820]   "Surely the people are grass.
+[00:30:24.820 --> 00:30:26.560]   "The grass withers, the flower fades,
+[00:30:26.560 --> 00:30:29.120]   "but the word of our God will stand forever."
+[00:30:29.120 --> 00:30:32.640]   Due to the pandemic, I had to leave APU
+[00:30:32.640 --> 00:30:34.900]   and I found myself struggling with the same sin
+[00:30:34.900 --> 00:30:36.740]   I had recognized from my childhood.
+[00:30:37.740 --> 00:30:39.680]   While God had renewed my faith,
+[00:30:39.680 --> 00:30:41.480]   I was still placing my security
+[00:30:41.480 --> 00:30:43.720]   in things that wither and fade,
+[00:30:43.720 --> 00:30:46.000]   finding comfort and security in my friendships,
+[00:30:46.000 --> 00:30:47.880]   expectations, and circumstances.
+[00:30:47.880 --> 00:30:54.080]   I felt confused, disappointed, and upset with God
+[00:30:54.080 --> 00:30:57.680]   for making me leave the home and friends
+[00:30:57.680 --> 00:30:59.840]   where I expected to live for one more year.
+[00:30:59.840 --> 00:31:03.200]   I struggled to trust in God's plan,
+[00:31:03.200 --> 00:31:06.480]   strained a season, and began to listen to lies
+[00:31:06.480 --> 00:31:11.100]   from the enemy that my emotions make me unwanted by God.
+[00:31:11.100 --> 00:31:15.860]   I was once again a slave to anxiety and depression,
+[00:31:15.860 --> 00:31:19.700]   believing the lie that it would be easier to disappear
+[00:31:19.700 --> 00:31:22.460]   than to continue to face suffering in the world
+[00:31:22.460 --> 00:31:24.060]   and to keep sinning against God.
+[00:31:24.060 --> 00:31:27.580]   My selfish thoughts led me to feel unworthy
+[00:31:27.580 --> 00:31:31.460]   of God's love and grace, and I did not dwell in his truth,
+[00:31:31.460 --> 00:31:32.820]   wanting instead to give up.
+[00:31:32.820 --> 00:31:35.820]   Even still, God did not let me go.
+[00:31:36.600 --> 00:31:38.480]   He relentlessly fought for my heart
+[00:31:38.480 --> 00:31:41.040]   and made certain that I kept hearing his truths
+[00:31:41.040 --> 00:31:42.840]   through my brothers and sisters in Christ,
+[00:31:42.840 --> 00:31:45.100]   even when my sin made me want to ignore them.
+[00:31:45.100 --> 00:31:49.240]   He led me here to Berean last year to be encouraged
+[00:31:49.240 --> 00:31:50.640]   and strengthened by the holiness
+[00:31:50.640 --> 00:31:52.520]   and goodness of God in his truth.
+[00:31:52.520 --> 00:31:56.760]   The Lord is continually working in my heart
+[00:31:56.760 --> 00:31:58.880]   and showing me more and more of who he is
+[00:31:58.880 --> 00:32:00.120]   and how much I need him.
+[00:32:00.120 --> 00:32:03.560]   While I know that I will face suffering,
+[00:32:03.560 --> 00:32:05.720]   I am choosing to joyfully persevere
+[00:32:05.720 --> 00:32:08.240]   and to do my best to glorify God with my life,
+[00:32:08.240 --> 00:32:09.880]   placing my hope in him alone.
+[00:32:09.880 --> 00:32:13.220]   First Peter 5, six through 11 says,
+[00:32:13.220 --> 00:32:15.080]   "Humble yourselves, therefore,
+[00:32:15.080 --> 00:32:16.540]   "under the mighty hand of God,
+[00:32:16.540 --> 00:32:19.460]   "so that at the proper time he may exalt you,
+[00:32:19.460 --> 00:32:21.240]   "casting all your anxieties on him
+[00:32:21.240 --> 00:32:23.200]   "because he cares for you.
+[00:32:23.200 --> 00:32:25.920]   "Be sober-minded, be watchful.
+[00:32:25.920 --> 00:32:27.140]   "Your adversary, the devil,
+[00:32:27.140 --> 00:32:28.920]   "prowls around like a roaring lion,
+[00:32:28.920 --> 00:32:31.000]   "seeking someone to devour.
+[00:32:31.000 --> 00:32:33.280]   "Resist him, firm in your faith,
+[00:32:33.280 --> 00:32:35.100]   "knowing that the same kinds of suffering
+[00:32:35.100 --> 00:32:36.860]   "are being experienced by your brotherhood
+[00:32:36.860 --> 00:32:38.320]   "throughout the world.
+[00:32:38.320 --> 00:32:40.460]   "And after you have suffered a little while,
+[00:32:40.460 --> 00:32:41.920]   "the God of all grace,
+[00:32:41.920 --> 00:32:44.680]   "who has called you to his eternal glory in Christ,
+[00:32:44.680 --> 00:32:47.060]   "will himself restore, confirm,
+[00:32:47.060 --> 00:32:49.180]   "strengthen, and establish you.
+[00:32:49.180 --> 00:32:52.540]   "To him be the dominion forever and ever, amen."
+[00:32:52.540 --> 00:32:54.280]   - Amen.
+[00:32:54.280 --> 00:32:57.440]   (audience applauding)
+[00:32:57.440 --> 00:33:00.280]   (water trickling)
+[00:33:00.280 --> 00:33:18.060]   - Thank you for your testimony, Tiffany.
+[00:33:18.060 --> 00:33:19.660]   Tiffany, do you understand now
+[00:33:19.660 --> 00:33:21.500]   that as you enter into this water,
+[00:33:21.500 --> 00:33:24.260]   you symbolize your union with Christ in his death,
+[00:33:24.260 --> 00:33:25.100]   and when you come out,
+[00:33:25.100 --> 00:33:27.780]   you symbolize your union with Christ in his resurrected life?
+[00:33:27.780 --> 00:33:28.900]   - I do.
+[00:33:28.900 --> 00:33:31.700]   - I baptize you in the name of the Father,
+[00:33:31.700 --> 00:33:33.980]   of the Son, and of the Holy Spirit.
+[00:33:33.980 --> 00:33:39.540]   (water trickling)
+[00:33:39.540 --> 00:33:42.700]   (audience applauding)
+[00:33:42.700 --> 00:33:45.700]   (audience cheering)
+[00:33:45.700 --> 00:34:01.940]   - Thank you so much for your testimony.
+[00:34:01.940 --> 00:34:04.020]   We're always encouraged.
+[00:34:04.020 --> 00:34:05.600]   Each one of us have different stories,
+[00:34:05.600 --> 00:34:08.860]   but in terms of the core of it, it's the same.
+[00:34:08.860 --> 00:34:11.020]   We humble ourselves before God,
+[00:34:11.020 --> 00:34:12.740]   asking and requesting his grace,
+[00:34:12.740 --> 00:34:15.020]   and he lavishly gives us his love.
+[00:34:15.020 --> 00:34:18.660]   Let's pray as we enter into a time now of hearing his word.
+[00:34:18.660 --> 00:34:21.820]   Father, we thank you so much for your grace.
+[00:34:21.820 --> 00:34:27.540]   God, we are so thankful that you remind us of it daily,
+[00:34:27.540 --> 00:34:29.100]   and also from our community,
+[00:34:29.100 --> 00:34:32.700]   we see your hand working in the lives of people,
+[00:34:32.700 --> 00:34:36.440]   bringing them to points where they no longer trust
+[00:34:36.440 --> 00:34:38.620]   their own flesh, their circumstance,
+[00:34:38.620 --> 00:34:40.220]   with the people around,
+[00:34:40.220 --> 00:34:42.580]   but that they would turn to trust you.
+[00:34:42.580 --> 00:34:45.140]   And thank you, God, that you exhibit your great,
+[00:34:45.140 --> 00:34:48.340]   great grace in forgiveness and redemption.
+[00:34:48.340 --> 00:34:51.940]   Father, this blessing, we pray, would go out,
+[00:34:51.940 --> 00:34:55.180]   and we take time now to even pray for our India team,
+[00:34:55.180 --> 00:34:58.300]   desiring to share this great blessing of Christ
+[00:34:58.300 --> 00:35:00.520]   for the message of repentance,
+[00:35:00.520 --> 00:35:04.260]   that if anyone would humble themselves and come before you,
+[00:35:04.260 --> 00:35:06.100]   and God, that they would trust you.
+[00:35:06.100 --> 00:35:08.160]   Lord, you do not disappoint.
+[00:35:08.160 --> 00:35:09.560]   Father, we pray for this time now
+[00:35:09.560 --> 00:35:11.220]   as we enter into your word.
+[00:35:11.220 --> 00:35:13.100]   Would you grant to us growth of faith,
+[00:35:13.100 --> 00:35:15.540]   deepening understanding of what it means
+[00:35:15.540 --> 00:35:19.420]   to be washed from the stains of this world and our sins,
+[00:35:19.420 --> 00:35:22.660]   and God, to in greater ways commit to you.
+[00:35:22.660 --> 00:35:24.520]   We thank you in Christ's name, amen.
+[00:35:24.520 --> 00:35:29.840]   Please take your Bible now and turn to Joshua chapter 24.
+[00:35:29.840 --> 00:35:36.140]   We'll actually start in Joshua 23.
+[00:35:36.140 --> 00:35:41.140]   This sermon is the end of my devotions.
+[00:35:41.140 --> 00:35:45.720]   Several months ago, back in the first Sunday of November,
+[00:35:45.720 --> 00:35:49.000]   I preached a sermon in Joshua from chapter one
+[00:35:49.000 --> 00:35:50.380]   called Be Strong and Courageous,
+[00:35:50.380 --> 00:35:52.700]   because I was doing my devotions in Joshua,
+[00:35:52.700 --> 00:35:54.620]   and now I've come to the end of it.
+[00:35:54.620 --> 00:35:58.260]   The book of Joshua, just as a quick run-through,
+[00:35:58.260 --> 00:35:59.240]   is interesting.
+[00:35:59.240 --> 00:36:02.160]   It feels like a man's book,
+[00:36:02.160 --> 00:36:04.960]   because so much of it is about conquest.
+[00:36:04.960 --> 00:36:08.620]   Chapters one through 12 is all about being strong,
+[00:36:08.620 --> 00:36:13.620]   courageous, and overcoming these incredible odds,
+[00:36:13.620 --> 00:36:17.380]   where many nations gather together
+[00:36:17.380 --> 00:36:20.420]   and outnumber, vastly outnumber the people of God,
+[00:36:20.420 --> 00:36:21.900]   and yet there's victory.
+[00:36:21.900 --> 00:36:24.260]   There's destruction of the pagan nations.
+[00:36:24.260 --> 00:36:26.380]   There's the spoils, and then they move on
+[00:36:26.380 --> 00:36:30.020]   to the next battle, and so it's very, very exciting.
+[00:36:30.020 --> 00:36:34.420]   And then you hit chapter 13 through chapter 21,
+[00:36:34.420 --> 00:36:36.400]   and it's very different.
+[00:36:36.400 --> 00:36:39.200]   Some may say it's quite boring,
+[00:36:39.200 --> 00:36:41.920]   but the reason why is because it just starts to list,
+[00:36:41.920 --> 00:36:44.300]   and these were the nations and tribes,
+[00:36:44.300 --> 00:36:46.360]   and these were the possessions of the land
+[00:36:46.360 --> 00:36:47.240]   that they enter into.
+[00:36:47.240 --> 00:36:49.760]   However, it's significant,
+[00:36:49.760 --> 00:36:55.200]   because the promise of land within the grand scheme
+[00:36:55.200 --> 00:36:59.620]   of God's desire to bless his people was pivotal.
+[00:36:59.620 --> 00:37:01.480]   God promised the nation of Israel,
+[00:37:01.480 --> 00:37:04.720]   when he called Abraham, he says, "I will bless you.
+[00:37:04.720 --> 00:37:08.040]   "I'll bless you beyond any other, because I've chosen you,
+[00:37:08.040 --> 00:37:09.920]   "and I will give you an offspring.
+[00:37:09.920 --> 00:37:12.240]   "I will give you a land, and you'll become a nation."
+[00:37:12.240 --> 00:37:16.280]   And so by those promises, God is fulfilling
+[00:37:16.280 --> 00:37:19.680]   various elements of his blessing to his people.
+[00:37:19.680 --> 00:37:22.620]   And if you think about it, Joshua is an incredible one,
+[00:37:22.620 --> 00:37:25.560]   because it's the realization of the promise
+[00:37:25.560 --> 00:37:27.680]   of the land for his people.
+[00:37:27.680 --> 00:37:31.560]   And as we think about that promise then,
+[00:37:31.560 --> 00:37:35.880]   we're thinking about both the various tribes of God,
+[00:37:35.880 --> 00:37:39.320]   or the nation of Israel, having their inheritance,
+[00:37:39.320 --> 00:37:41.000]   but being also then instructed.
+[00:37:41.000 --> 00:37:43.200]   What are you supposed to do here now?
+[00:37:43.200 --> 00:37:45.040]   After you have gone through conquest,
+[00:37:45.040 --> 00:37:46.860]   after you've gone through battles,
+[00:37:46.860 --> 00:37:51.160]   now that you've won the land, what are you supposed to do?
+[00:37:51.160 --> 00:37:53.600]   And then in chapter 23 and 24,
+[00:37:53.600 --> 00:37:56.440]   where I'm going to be now covering to you
+[00:37:56.440 --> 00:37:59.480]   these, I guess, lengthy chapters,
+[00:37:59.480 --> 00:38:02.800]   is Joshua's final exhortation.
+[00:38:02.800 --> 00:38:08.680]   Joshua is aged, he is old, in years he's now advanced,
+[00:38:08.680 --> 00:38:11.520]   and as he sees his departure,
+[00:38:11.520 --> 00:38:13.220]   he's looking at the people saying,
+[00:38:13.220 --> 00:38:16.060]   "Everybody, all eyes on me.
+[00:38:16.060 --> 00:38:19.500]   "You need to hear the commandments of the Lord."
+[00:38:19.500 --> 00:38:21.820]   And he's gonna be giving his then final sermon,
+[00:38:21.820 --> 00:38:24.280]   so to speak, and we'll walk down together.
+[00:38:24.280 --> 00:38:27.760]   So, let me begin by reading a small section
+[00:38:27.760 --> 00:38:31.080]   in chapter 23, verse one through three.
+[00:38:31.080 --> 00:38:36.080]   And it says, "Now it came about after many days,
+[00:38:36.080 --> 00:38:38.360]   "when the Lord had given rest to Israel
+[00:38:38.360 --> 00:38:40.900]   "from all their enemies on every side."
+[00:38:40.900 --> 00:38:43.680]   So they've gone through all their battles.
+[00:38:43.680 --> 00:38:46.720]   "And Joshua was old and advanced in years,
+[00:38:46.720 --> 00:38:48.880]   "that Joshua called for all Israel,
+[00:38:48.880 --> 00:38:50.420]   "for their elders and their heads,
+[00:38:50.420 --> 00:38:52.040]   "and their judges and their officers,
+[00:38:52.040 --> 00:38:56.780]   "and said to them, 'I am old, advanced in years.
+[00:38:56.780 --> 00:38:58.940]   "'And when you have seen all that the Lord your God
+[00:38:58.940 --> 00:39:01.700]   "'has done to all these nations because of you,
+[00:39:01.700 --> 00:39:04.140]   "'for the Lord your God is he
+[00:39:04.140 --> 00:39:06.480]   "'who has been fighting for you.'"
+[00:39:06.480 --> 00:39:11.180]   Now, I want you to get a picture of the scene,
+[00:39:11.180 --> 00:39:15.260]   an image of this individual speaking to you, okay?
+[00:39:15.260 --> 00:39:20.360]   Interestingly enough, Joshua goes down in scriptures
+[00:39:20.360 --> 00:39:23.020]   as one of the greatest leaders,
+[00:39:23.020 --> 00:39:25.140]   one of the greatest servants of God.
+[00:39:25.140 --> 00:39:28.060]   "Very little is said about him ever failing,
+[00:39:28.060 --> 00:39:30.000]   "ever disobeying or sinning,
+[00:39:30.000 --> 00:39:33.140]   "but rather he's been a faithful servant of God.
+[00:39:33.140 --> 00:39:36.120]   "He has been trained, he has been at the right hand
+[00:39:36.120 --> 00:39:40.280]   "of Moses long ago, even from the time of Egypt.
+[00:39:40.280 --> 00:39:42.660]   "When the nation was underneath bondage and suffering,
+[00:39:42.660 --> 00:39:44.840]   "Joshua was there.
+[00:39:44.840 --> 00:39:46.320]   "When a nation was being brought out
+[00:39:46.320 --> 00:39:49.000]   "in the miracles of God, the deliverance,
+[00:39:49.000 --> 00:39:52.700]   "the mighty works of plagues, Joshua was there."
+[00:39:52.700 --> 00:39:55.780]   And if you recall, Joshua, he was one of the members
+[00:39:55.780 --> 00:39:59.080]   of the reconnaissance crew that went to scope out the land.
+[00:39:59.080 --> 00:40:00.880]   He was a scout.
+[00:40:00.880 --> 00:40:03.920]   He and Caleb alone said, "Yes,
+[00:40:03.920 --> 00:40:06.660]   "land flowing with milk and honey,
+[00:40:06.660 --> 00:40:09.240]   "but also, yes, there are giants over there,
+[00:40:09.240 --> 00:40:10.780]   "but we can serve the Lord.
+[00:40:10.780 --> 00:40:12.120]   "He has always been with us.
+[00:40:12.120 --> 00:40:13.320]   "We can go and take this."
+[00:40:13.320 --> 00:40:16.720]   But unfortunately, the rest of the nation rebelled,
+[00:40:16.720 --> 00:40:20.480]   and they said, "Oh, God brought us out here to kill us.
+[00:40:20.480 --> 00:40:21.920]   "We go in there, we die."
+[00:40:21.920 --> 00:40:24.400]   This is a death sentence, no way.
+[00:40:24.400 --> 00:40:26.120]   And God judged them.
+[00:40:26.120 --> 00:40:28.560]   They walked 40 years in the wilderness,
+[00:40:28.560 --> 00:40:31.560]   and all of Joshua's friends died.
+[00:40:31.560 --> 00:40:34.240]   That entire generation of people that came out of Egypt,
+[00:40:34.240 --> 00:40:35.160]   they passed.
+[00:40:35.160 --> 00:40:38.520]   Joshua then walked the desert,
+[00:40:38.520 --> 00:40:42.000]   and now he is the one regathering everybody,
+[00:40:42.000 --> 00:40:44.600]   rallying them up, and he's the one who's then
+[00:40:44.600 --> 00:40:47.480]   going to be used by God to have victory.
+[00:40:47.480 --> 00:40:49.840]   In the scripture, because it moves so fast,
+[00:40:49.840 --> 00:40:51.720]   chapters one through 12, it almost sounds like
+[00:40:51.720 --> 00:40:53.880]   the battle was just boom, boom, boom,
+[00:40:53.880 --> 00:40:56.360]   and then you just win this nation, win that nation,
+[00:40:56.360 --> 00:40:59.940]   but actually, it was a span of seven to eight years
+[00:40:59.940 --> 00:41:03.560]   in battle, trying to go through the land of Canaan
+[00:41:03.560 --> 00:41:07.520]   from Jericho to different nations, seven years.
+[00:41:07.520 --> 00:41:10.740]   So when you hear the voice of Joshua in your head,
+[00:41:10.740 --> 00:41:14.000]   you're seeing a weathered man who has seen it all.
+[00:41:15.000 --> 00:41:17.960]   He's seen then heights of conquest.
+[00:41:17.960 --> 00:41:20.680]   He's seen the pitiful states of rebellion.
+[00:41:20.680 --> 00:41:22.560]   He's seen wilderness wandering,
+[00:41:22.560 --> 00:41:24.440]   where what in the world are we doing
+[00:41:24.440 --> 00:41:27.200]   wandering for 40 years when the journey
+[00:41:27.200 --> 00:41:31.480]   actually should have taken 12 days.
+[00:41:31.480 --> 00:41:33.200]   I don't know if you recall, but from Egypt
+[00:41:33.200 --> 00:41:35.720]   to the land of Kadesh Barnea, when they're walking
+[00:41:35.720 --> 00:41:39.040]   to that pinnacle point, going over into the land,
+[00:41:39.040 --> 00:41:43.080]   the promised land of Canaan, it should have taken 12 days.
+[00:41:43.920 --> 00:41:48.920]   He's seen it all, and now as you can imagine then,
+[00:41:48.920 --> 00:41:52.320]   a victorious general who is aged,
+[00:41:52.320 --> 00:41:54.160]   and it's interesting to me that the scriptures
+[00:41:54.160 --> 00:41:57.920]   repeat so many times, he is old, okay?
+[00:41:57.920 --> 00:42:01.440]   In Joshua 13, when the victory is won,
+[00:42:01.440 --> 00:42:03.520]   strangely enough, God says to Joshua,
+[00:42:03.520 --> 00:42:05.160]   he calls on him and he says,
+[00:42:05.160 --> 00:42:07.700]   Joshua was old in advance his years,
+[00:42:07.700 --> 00:42:09.900]   and then the Lord said to him, you are old.
+[00:42:11.920 --> 00:42:14.640]   He says, very much of the land remains to be possessed
+[00:42:14.640 --> 00:42:15.900]   and you have a lot of work to do,
+[00:42:15.900 --> 00:42:19.000]   but you are old, is what he says to Joshua.
+[00:42:19.000 --> 00:42:21.680]   But the reason why I emphasize this is because he's dying.
+[00:42:21.680 --> 00:42:24.520]   He is actually 110 years old.
+[00:42:24.520 --> 00:42:27.440]   So that's the picture.
+[00:42:27.440 --> 00:42:30.880]   Have you guys met people who have so much clout?
+[00:42:30.880 --> 00:42:33.600]   You know the things they've accomplished in their life.
+[00:42:33.600 --> 00:42:35.000]   So when they walk into the room,
+[00:42:35.000 --> 00:42:38.980]   everyone's just, shh, he's about to say something, right?
+[00:42:38.980 --> 00:42:39.900]   That's that scene.
+[00:42:39.900 --> 00:42:42.320]   He's gathered everybody, including the leaders,
+[00:42:42.320 --> 00:42:44.580]   including the priests, including anybody
+[00:42:44.580 --> 00:42:47.320]   who has to hear young and old, come.
+[00:42:47.320 --> 00:42:51.180]   Joshua has a word for us, and it's that important.
+[00:42:51.180 --> 00:42:53.920]   And so we have to see now what he says.
+[00:42:53.920 --> 00:42:56.320]   I'm gonna start reading from verse six.
+[00:42:56.320 --> 00:42:59.580]   So we're at Joshua 23, verse six.
+[00:42:59.580 --> 00:43:05.120]   Joshua says to the nation, be very firm then
+[00:43:05.120 --> 00:43:07.600]   to keep and do all that is written
+[00:43:07.600 --> 00:43:10.440]   in the book of the law of Moses,
+[00:43:10.440 --> 00:43:12.500]   so that you may not turn aside from it
+[00:43:12.500 --> 00:43:14.580]   to the right hand or to the left,
+[00:43:14.580 --> 00:43:17.640]   so that you will not associate with these nations,
+[00:43:17.640 --> 00:43:20.040]   these which remain among you,
+[00:43:20.040 --> 00:43:22.180]   or mention the name of their gods,
+[00:43:22.180 --> 00:43:24.100]   or make anyone swear by them,
+[00:43:24.100 --> 00:43:26.520]   or swear by them, or bow down to them.
+[00:43:26.520 --> 00:43:29.060]   But you are to cling to the Lord your God,
+[00:43:29.060 --> 00:43:31.120]   as you have done to this day.
+[00:43:31.120 --> 00:43:33.660]   For the Lord has driven out great and strong nations
+[00:43:33.660 --> 00:43:36.540]   from before you, and as for you,
+[00:43:36.540 --> 00:43:39.440]   no man has stood before you to this day.
+[00:43:39.440 --> 00:43:42.140]   One of your men puts to flight a thousand,
+[00:43:42.140 --> 00:43:44.660]   for the Lord your God is he who fights for you,
+[00:43:44.660 --> 00:43:46.500]   just as he promised you.
+[00:43:46.500 --> 00:43:49.860]   So take diligent heed to yourselves
+[00:43:49.860 --> 00:43:53.060]   to love the Lord your God.
+[00:43:53.060 --> 00:43:57.620]   Joshua, in his then final sermon,
+[00:43:57.620 --> 00:44:01.540]   gives just a resounding, emphatic review
+[00:44:01.540 --> 00:44:03.540]   of the commandments that he's been giving
+[00:44:03.540 --> 00:44:06.220]   at every pinnacle point in the journey.
+[00:44:06.220 --> 00:44:08.020]   If you look at Joshua chapter one,
+[00:44:08.020 --> 00:44:09.820]   if you look at Joshua chapter five,
+[00:44:09.820 --> 00:44:12.020]   Joshua chapter eight, basically,
+[00:44:12.020 --> 00:44:16.660]   these commands have been given over and over and over again.
+[00:44:16.660 --> 00:44:19.300]   You have to be strong.
+[00:44:19.300 --> 00:44:22.780]   You have to be committed to do every single thing
+[00:44:22.780 --> 00:44:24.300]   according to what God has written,
+[00:44:24.300 --> 00:44:27.020]   and not stray from it to the left and to the right.
+[00:44:27.020 --> 00:44:31.140]   You have to cling, literally cling to the Lord,
+[00:44:31.140 --> 00:44:33.380]   be attached to him.
+[00:44:33.380 --> 00:44:35.780]   And you have to make sure you're sober and alert
+[00:44:35.780 --> 00:44:37.140]   to know yourself.
+[00:44:37.140 --> 00:44:41.580]   Look at yourself and see, do you really love the Lord?
+[00:44:41.580 --> 00:44:46.460]   Take heed, it says, to yourself that you love God.
+[00:44:46.460 --> 00:44:49.940]   And the interesting thing for us is,
+[00:44:49.940 --> 00:44:54.060]   right now, they are not in a time entering into battle.
+[00:44:54.060 --> 00:44:56.120]   They've already won.
+[00:44:56.120 --> 00:44:58.060]   There's peace all around them.
+[00:44:58.060 --> 00:45:00.180]   It's now time for them to take their land
+[00:45:00.180 --> 00:45:03.220]   and make it their own, occupy and enjoy.
+[00:45:03.220 --> 00:45:06.520]   It's almost like maybe it's time to now settle in
+[00:45:06.520 --> 00:45:07.940]   and grow roots.
+[00:45:07.940 --> 00:45:12.300]   But for this leader, he knows,
+[00:45:12.300 --> 00:45:14.280]   whether you're about to go into battle,
+[00:45:14.280 --> 00:45:18.460]   whether you fought and you won, or even if we failed,
+[00:45:18.460 --> 00:45:20.520]   at every moment, it's time to be strong,
+[00:45:20.520 --> 00:45:23.580]   because his worry is he's gonna be gone.
+[00:45:23.580 --> 00:45:26.220]   And he's looking at his people and saying,
+[00:45:26.220 --> 00:45:30.060]   I need you to hear the one thing that you have to hear
+[00:45:30.060 --> 00:45:31.980]   at every turning moment.
+[00:45:32.980 --> 00:45:35.980]   Tell me now, you have to cling to God.
+[00:45:35.980 --> 00:45:38.940]   You cannot sway just because I leave.
+[00:45:38.940 --> 00:45:41.940]   You can't sway because there's a change of leadership.
+[00:45:41.940 --> 00:45:43.940]   You can't sway because there's a lot of people,
+[00:45:43.940 --> 00:45:47.380]   little people, we have resources, we don't have resources,
+[00:45:47.380 --> 00:45:49.300]   we have covenants, we don't have covenants.
+[00:45:49.300 --> 00:45:54.300]   I need to know that you're clinging to God.
+[00:45:54.300 --> 00:45:58.180]   And so that's why three months ago, I gave that sermon.
+[00:45:59.940 --> 00:46:02.100]   The command for us is to be strong,
+[00:46:02.100 --> 00:46:04.980]   and that idea of being strong, not just for today,
+[00:46:04.980 --> 00:46:07.260]   but for even ages to come,
+[00:46:07.260 --> 00:46:09.740]   doesn't come from having this or that.
+[00:46:09.740 --> 00:46:12.540]   It doesn't come from having influence, resources,
+[00:46:12.540 --> 00:46:14.120]   material wealth, for sure.
+[00:46:14.120 --> 00:46:16.700]   It comes from being dedicated.
+[00:46:16.700 --> 00:46:20.500]   I'm gonna do it God's way, according to his word.
+[00:46:20.500 --> 00:46:25.500]   An unwavering man is a man set on the word of God, amen?
+[00:46:25.500 --> 00:46:27.180]   So that being the case,
+[00:46:27.180 --> 00:46:30.260]   this is just the beginning of Joshua's sermon,
+[00:46:30.260 --> 00:46:32.500]   and he's gonna go now into different segments
+[00:46:32.500 --> 00:46:34.740]   of challenging and encouraging us.
+[00:46:34.740 --> 00:46:38.540]   Think about how to be prepared for when Joshua leaves.
+[00:46:38.540 --> 00:46:41.860]   So let's continue to read on, and what he says is this.
+[00:46:41.860 --> 00:46:45.460]   Just skipping a little bit, we're gonna come back to it.
+[00:46:45.460 --> 00:46:47.300]   Turn your eyes to verse 14.
+[00:46:47.300 --> 00:46:49.280]   Verse 14.
+[00:46:49.280 --> 00:46:52.980]   In Joshua 23, verse 14, he says,
+[00:46:52.980 --> 00:46:57.180]   now behold, today I am going the way of all the earth,
+[00:46:57.180 --> 00:46:59.600]   meaning just like everybody else, I am dying.
+[00:46:59.600 --> 00:47:04.640]   And you know in all your hearts and in all your souls
+[00:47:04.640 --> 00:47:07.560]   that not one word of all the good words
+[00:47:07.560 --> 00:47:11.420]   which your Lord your God spoke concerning you has failed.
+[00:47:11.420 --> 00:47:12.900]   All have been fulfilled for you.
+[00:47:12.900 --> 00:47:15.600]   Not one of them has failed.
+[00:47:15.600 --> 00:47:16.700]   What is he saying?
+[00:47:16.700 --> 00:47:20.500]   It is the propensity of human individuals,
+[00:47:20.500 --> 00:47:23.860]   because we operate by the flesh and with our eyes,
+[00:47:23.860 --> 00:47:27.360]   that if we see a leader who is strong and powerful,
+[00:47:27.360 --> 00:47:28.820]   we will attach ourselves and say,
+[00:47:28.820 --> 00:47:30.420]   you know what the key is?
+[00:47:30.420 --> 00:47:32.500]   We have to have a man like that.
+[00:47:32.500 --> 00:47:34.940]   And what Joshua is saying is all the attention
+[00:47:34.940 --> 00:47:37.180]   is completely removed from him, and he's saying,
+[00:47:37.180 --> 00:47:40.940]   you know it has been the spoken word of God.
+[00:47:40.940 --> 00:47:44.460]   He's gone before you to win your battles,
+[00:47:44.460 --> 00:47:48.060]   and not a single word of God has failed you.
+[00:47:49.000 --> 00:47:52.140]   And what he is saying is you know in your heart
+[00:47:52.140 --> 00:47:53.860]   that God is good.
+[00:47:53.860 --> 00:47:55.860]   He is good for his word.
+[00:47:55.860 --> 00:47:59.840]   He is good because his promises to you have been good,
+[00:47:59.840 --> 00:48:02.680]   and everything he spoke that he will do, he has done.
+[00:48:02.680 --> 00:48:08.800]   Now to us then, number one, there's a challenge.
+[00:48:08.800 --> 00:48:11.080]   I feel it.
+[00:48:11.080 --> 00:48:13.820]   I don't know how many of you in here
+[00:48:13.820 --> 00:48:16.660]   have that kind of unwavering conviction.
+[00:48:16.660 --> 00:48:21.060]   The word of God can be trusted entirely.
+[00:48:21.060 --> 00:48:23.400]   In the theological debate, they'll say
+[00:48:23.400 --> 00:48:26.380]   the word of God is inspired.
+[00:48:26.380 --> 00:48:30.100]   We believe in a verbal, plenary inspiration of God's word
+[00:48:30.100 --> 00:48:31.940]   that all of it is inerrant.
+[00:48:31.940 --> 00:48:35.720]   When I say that, it means down to every exacting word,
+[00:48:35.720 --> 00:48:38.780]   down to every precise thing he says,
+[00:48:38.780 --> 00:48:41.540]   but all of it, not just some pieces
+[00:48:41.540 --> 00:48:43.940]   that happen to pertain to spirituality,
+[00:48:43.940 --> 00:48:45.140]   but some of it just doesn't,
+[00:48:45.140 --> 00:48:48.460]   all of it, plenary, is inspired by God.
+[00:48:48.460 --> 00:48:52.160]   If you ask Joshua that question,
+[00:48:52.160 --> 00:48:53.500]   what do you think he would say?
+[00:48:53.500 --> 00:48:55.820]   Do you believe the word of God is inerrant?
+[00:48:55.820 --> 00:48:58.540]   He'd probably look at us, you know,
+[00:48:58.540 --> 00:49:00.460]   within his general-like way and look at us,
+[00:49:00.460 --> 00:49:02.740]   are you stupid, right?
+[00:49:02.740 --> 00:49:05.980]   The word of God is proven.
+[00:49:05.980 --> 00:49:08.700]   I've seen it with my very eyes
+[00:49:08.700 --> 00:49:13.140]   that down to the T, it's true.
+[00:49:14.160 --> 00:49:15.740]   All of it.
+[00:49:15.740 --> 00:49:17.100]   And he's saying to the crowd,
+[00:49:17.100 --> 00:49:18.340]   he's saying to the congregation,
+[00:49:18.340 --> 00:49:20.460]   you know how good it is.
+[00:49:20.460 --> 00:49:22.060]   Now, I wanna go through some of the things
+[00:49:22.060 --> 00:49:25.060]   that the people experienced because he highlights this idea.
+[00:49:25.060 --> 00:49:29.720]   You have seen it for yourself how good God is.
+[00:49:29.720 --> 00:49:33.020]   Just doing a couple of just walkthrough of Joshua,
+[00:49:33.020 --> 00:49:35.500]   what's wild is that even when,
+[00:49:35.500 --> 00:49:38.000]   before they actually started doing battle,
+[00:49:38.000 --> 00:49:41.140]   they sent more scouts, right?
+[00:49:41.140 --> 00:49:42.620]   And they sent scouts to see,
+[00:49:42.620 --> 00:49:44.740]   and they already felt that there was fear
+[00:49:44.740 --> 00:49:46.540]   in the eyes of their enemies.
+[00:49:46.540 --> 00:49:47.940]   Actually, the scripture says,
+[00:49:47.940 --> 00:49:50.100]   people's heart was melting away.
+[00:49:50.100 --> 00:49:50.940]   Why was that?
+[00:49:50.940 --> 00:49:54.420]   Because God had already gone before them.
+[00:49:54.420 --> 00:49:55.700]   God had already gone before them.
+[00:49:55.700 --> 00:49:57.940]   News of them had gone.
+[00:49:57.940 --> 00:50:00.680]   What's more, the very first city that they overcome
+[00:50:00.680 --> 00:50:03.940]   is Jericho, and Jericho was a fortified city.
+[00:50:03.940 --> 00:50:07.760]   And you recall the ridiculous strategy,
+[00:50:07.760 --> 00:50:09.540]   military strategy that they had.
+[00:50:10.620 --> 00:50:13.820]   God told us to carry this ark and walk around it.
+[00:50:13.820 --> 00:50:15.860]   Not the warrior men, but the priests
+[00:50:15.860 --> 00:50:18.900]   and the people of God walked around shouting and screaming,
+[00:50:18.900 --> 00:50:21.060]   blowing the trumpet, and they said,
+[00:50:21.060 --> 00:50:23.180]   let's do it again, and they did it again,
+[00:50:23.180 --> 00:50:24.700]   and the walls came crumbling down.
+[00:50:24.700 --> 00:50:28.020]   That is not a military strategy you're able to repeat.
+[00:50:28.020 --> 00:50:31.780]   That's you have seen the power of God moment.
+[00:50:31.780 --> 00:50:33.420]   There's so many more.
+[00:50:33.420 --> 00:50:36.200]   When the battle of Ai in chapter eight,
+[00:50:36.200 --> 00:50:39.140]   God told Joshua, you raise your javelin.
+[00:50:39.140 --> 00:50:40.340]   So he raises his javelin.
+[00:50:40.340 --> 00:50:42.580]   People again demolished.
+[00:50:42.580 --> 00:50:44.580]   Chapter nine, you know what's crazy is
+[00:50:44.580 --> 00:50:48.620]   there's so many sequences of against all odds moment.
+[00:50:48.620 --> 00:50:52.140]   I mean, if you talk about a dramatic plot,
+[00:50:52.140 --> 00:50:54.860]   seven kingdoms of this place and that place
+[00:50:54.860 --> 00:50:59.420]   that I can't pronounce come together against one nation,
+[00:50:59.420 --> 00:51:02.300]   and then boom, they slaughter them.
+[00:51:02.300 --> 00:51:03.460]   Chapter 10, same thing.
+[00:51:03.460 --> 00:51:06.140]   Five kingdoms come against one king.
+[00:51:06.140 --> 00:51:09.080]   I wanna read this to you because it's both hilarious,
+[00:51:09.080 --> 00:51:12.380]   but also amazing, and it's just a miraculous work
+[00:51:12.380 --> 00:51:14.180]   of the hand of God.
+[00:51:14.180 --> 00:51:17.660]   In Joshua chapter 10, verse 10 through 11, it says,
+[00:51:17.660 --> 00:51:20.700]   the Lord confounded them before Israel.
+[00:51:20.700 --> 00:51:24.380]   He slew them with the great slaughter at Gibeon
+[00:51:24.380 --> 00:51:27.420]   and pursued them by way of the ascent of Beth-Haran
+[00:51:27.420 --> 00:51:31.220]   and struck them as far as Azekah and Makada
+[00:51:31.220 --> 00:51:33.540]   as they fled from Israel while they were
+[00:51:33.540 --> 00:51:36.020]   at the descent of Beth-Haran.
+[00:51:36.020 --> 00:51:39.080]   God threw large stones from the heavens on them
+[00:51:39.080 --> 00:51:40.960]   as far as Azekah.
+[00:51:40.960 --> 00:51:42.080]   Did you know that?
+[00:51:42.080 --> 00:51:43.280]   And they died.
+[00:51:43.280 --> 00:51:45.800]   There were more who died from the hailstones
+[00:51:45.800 --> 00:51:48.760]   than those whom the sons of Israel killed with the sword
+[00:51:48.760 --> 00:51:51.480]   just in case you missed the hand of God.
+[00:51:51.480 --> 00:51:54.800]   God did majority of the work.
+[00:51:54.800 --> 00:51:57.040]   They were like heat-seeking missiles.
+[00:51:57.040 --> 00:51:59.760]   It completely missed Israel's warriors
+[00:51:59.760 --> 00:52:02.540]   and killed the masses of the pagan nation.
+[00:52:04.140 --> 00:52:07.120]   They saw that, and for us, we get to see it
+[00:52:07.120 --> 00:52:08.720]   by the testimony of Scripture.
+[00:52:08.720 --> 00:52:14.900]   What I'm saying is Joshua is highlighting this idea.
+[00:52:14.900 --> 00:52:18.920]   You know in your heart that God is good for his word.
+[00:52:18.920 --> 00:52:21.640]   You know in your heart that God has been good to you.
+[00:52:21.640 --> 00:52:25.040]   And down to the very T, I wanna give another example
+[00:52:25.040 --> 00:52:29.780]   of a devastating situation where it should've been a loss.
+[00:52:29.780 --> 00:52:33.040]   After all of these battles in chapter 11,
+[00:52:34.120 --> 00:52:37.180]   13 kings gathered together.
+[00:52:37.180 --> 00:52:40.060]   These kingdoms now know, oh my goodness,
+[00:52:40.060 --> 00:52:43.840]   the people, Israelites, are plowing through these nations.
+[00:52:43.840 --> 00:52:46.280]   So they gather 13 versus one.
+[00:52:46.280 --> 00:52:48.200]   Oh no, what should we do, right?
+[00:52:48.200 --> 00:52:52.320]   Well, God says to Joshua in Joshua 11.6,
+[00:52:52.320 --> 00:52:56.280]   the Lord said, "Do not be afraid because of them.
+[00:52:56.280 --> 00:52:58.880]   "For tomorrow at this time, I will deliver all of them
+[00:52:58.880 --> 00:53:01.140]   "slain before Israel.
+[00:53:01.140 --> 00:53:03.540]   "You shall hamstring their horses
+[00:53:03.540 --> 00:53:06.360]   "and burn their chariots with fire."
+[00:53:06.360 --> 00:53:09.660]   Now I didn't know what hamstring their horses meant.
+[00:53:09.660 --> 00:53:12.320]   Hamstring is just behind your thigh.
+[00:53:12.320 --> 00:53:13.160]   And so I looked it up.
+[00:53:13.160 --> 00:53:15.360]   I didn't know that it was a thing
+[00:53:15.360 --> 00:53:18.440]   where in an act of complete ownership,
+[00:53:18.440 --> 00:53:20.840]   or I guess you could say complete victory,
+[00:53:20.840 --> 00:53:22.680]   in order that they can't even try
+[00:53:22.680 --> 00:53:26.200]   to have some kind of retaliation or counterattack,
+[00:53:26.200 --> 00:53:28.240]   what they would do is cut the tendons
+[00:53:28.240 --> 00:53:31.360]   of the horse's back leg right at the hamstring
+[00:53:31.360 --> 00:53:32.540]   so that they could never recover.
+[00:53:32.540 --> 00:53:33.820]   It doesn't grow back.
+[00:53:33.820 --> 00:53:36.640]   What's crazy about that is literally
+[00:53:36.640 --> 00:53:39.160]   in just a couple verses later, in verse eight and nine,
+[00:53:39.160 --> 00:53:42.240]   the Lord delivered them into the hand of Israel
+[00:53:42.240 --> 00:53:44.240]   so that they defeated them and pursued them
+[00:53:44.240 --> 00:53:48.000]   as far as great Sidon and Mithripothim
+[00:53:48.000 --> 00:53:50.680]   and Valley of Mithspeth to the east.
+[00:53:50.680 --> 00:53:54.020]   And they struck them until no survivor was left to them.
+[00:53:54.020 --> 00:53:56.960]   Joshua did to them as the Lord had told him.
+[00:53:56.960 --> 00:53:59.120]   He hamstrung their horses
+[00:53:59.120 --> 00:54:01.800]   and burned their chariots with fire.
+[00:54:01.800 --> 00:54:05.460]   To the T, it's gonna happen.
+[00:54:05.460 --> 00:54:06.300]   And it happened.
+[00:54:06.300 --> 00:54:09.260]   So the reason why I bring this up
+[00:54:09.260 --> 00:54:13.240]   is because we have to have in our day
+[00:54:13.240 --> 00:54:15.300]   this level of confidence.
+[00:54:15.300 --> 00:54:18.540]   What the Lord says is not going to kinda happen.
+[00:54:18.540 --> 00:54:20.220]   What the Lord says is not going to,
+[00:54:20.220 --> 00:54:22.420]   yeah, generically, the big things,
+[00:54:22.420 --> 00:54:23.600]   but not the little things.
+[00:54:23.600 --> 00:54:25.940]   Because in your life, what are the big things
+[00:54:25.940 --> 00:54:28.180]   and the little things that you trust God with?
+[00:54:28.180 --> 00:54:29.660]   They all matter.
+[00:54:30.580 --> 00:54:34.320]   Question, you have this kind of confidence?
+[00:54:34.320 --> 00:54:38.060]   Not a single word of the Lord will fail me.
+[00:54:38.060 --> 00:54:41.760]   And then also, do you have that kind of testimony?
+[00:54:41.760 --> 00:54:46.120]   What's gonna keep us from saying no
+[00:54:46.120 --> 00:54:49.460]   to all these temptations, distractions, allurements,
+[00:54:49.460 --> 00:54:52.400]   the things that look good and valuable and fine on earth?
+[00:54:52.400 --> 00:54:54.580]   Is our own story.
+[00:54:54.580 --> 00:54:56.140]   You know what?
+[00:54:56.140 --> 00:54:59.220]   The Lord has been so good.
+[00:54:59.220 --> 00:55:00.940]   He has sustained me.
+[00:55:00.940 --> 00:55:03.860]   And even in moments when I was younger
+[00:55:03.860 --> 00:55:06.620]   and completely a delinquent juvenile,
+[00:55:06.620 --> 00:55:09.340]   and in the moments when I was sinful,
+[00:55:09.340 --> 00:55:11.060]   he redeemed me.
+[00:55:11.060 --> 00:55:12.500]   And every time I was afraid,
+[00:55:12.500 --> 00:55:14.300]   some of you have these testimonies.
+[00:55:14.300 --> 00:55:16.420]   You know, I was so afraid to confess.
+[00:55:16.420 --> 00:55:18.320]   I was so afraid to turn to God.
+[00:55:18.320 --> 00:55:20.180]   But I was so afraid of nothing
+[00:55:20.180 --> 00:55:21.700]   because once I did it,
+[00:55:21.700 --> 00:55:25.420]   the word of God was real and true.
+[00:55:25.420 --> 00:55:27.180]   I felt peace.
+[00:55:27.180 --> 00:55:28.780]   I felt acceptance.
+[00:55:28.780 --> 00:55:30.020]   I felt freedom.
+[00:55:30.020 --> 00:55:31.340]   I felt liberty.
+[00:55:31.340 --> 00:55:32.660]   What was I afraid of?
+[00:55:32.660 --> 00:55:36.020]   You know God is good.
+[00:55:36.020 --> 00:55:38.940]   And that's gonna keep you from being swayed
+[00:55:38.940 --> 00:55:41.140]   by all the allurements around us.
+[00:55:41.140 --> 00:55:42.980]   But if there is temptation,
+[00:55:42.980 --> 00:55:46.980]   Joshua continues the sermon by giving an intense warning.
+[00:55:46.980 --> 00:55:48.760]   Let's continue to read.
+[00:55:48.760 --> 00:55:50.860]   Reading the full section now in Joshua,
+[00:55:50.860 --> 00:55:54.060]   the middle section, verse 12 down to verse 16.
+[00:55:54.060 --> 00:55:55.900]   This is what he says.
+[00:55:55.900 --> 00:55:58.380]   For if you ever go back and cling
+[00:55:58.380 --> 00:56:00.560]   to the rest of these nations,
+[00:56:00.560 --> 00:56:03.660]   these which remain among you and intermarry with them,
+[00:56:03.660 --> 00:56:05.140]   and you associate with them,
+[00:56:05.140 --> 00:56:06.980]   and they with you,
+[00:56:06.980 --> 00:56:10.140]   know with certainty that the Lord your God
+[00:56:10.140 --> 00:56:12.340]   will not continue to drive these nations out
+[00:56:12.340 --> 00:56:13.640]   from before you,
+[00:56:13.640 --> 00:56:16.200]   but they will be a snare and a trap to you,
+[00:56:16.200 --> 00:56:18.740]   and a whip on your sides and thorns in your eyes
+[00:56:18.740 --> 00:56:21.100]   until you perish from off this good land
+[00:56:21.100 --> 00:56:23.540]   which the Lord your God has given you.
+[00:56:23.540 --> 00:56:26.780]   Now behold, today I am going the way of all the earth,
+[00:56:26.780 --> 00:56:28.480]   and you know in all your hearts,
+[00:56:28.480 --> 00:56:29.380]   in all your souls,
+[00:56:29.380 --> 00:56:32.320]   that not one of the word of all the good words
+[00:56:32.320 --> 00:56:35.900]   which the Lord your God spoke concerning you has failed.
+[00:56:35.900 --> 00:56:37.380]   All have been fulfilled for you.
+[00:56:37.380 --> 00:56:39.140]   Not one of them has failed.
+[00:56:39.140 --> 00:56:41.620]   It shall come about that just as all the good words
+[00:56:41.620 --> 00:56:44.220]   which the Lord your God spoke to you have come upon you,
+[00:56:44.220 --> 00:56:48.620]   so the Lord will bring upon you all the threats
+[00:56:48.620 --> 00:56:51.520]   until he has destroyed you from all his good land
+[00:56:51.520 --> 00:56:53.640]   which the Lord your God has given you.
+[00:56:53.640 --> 00:56:56.340]   When you transgress the covenant of the Lord your God
+[00:56:56.340 --> 00:56:57.320]   which he commanded you,
+[00:56:57.320 --> 00:57:00.360]   and go and serve other gods and bow down to them,
+[00:57:00.360 --> 00:57:03.840]   then the anger of the Lord will burn against you,
+[00:57:03.840 --> 00:57:07.160]   and you will perish quickly from off the good land
+[00:57:07.160 --> 00:57:08.880]   which he has given you.
+[00:57:08.880 --> 00:57:10.400]   Wow.
+[00:57:10.400 --> 00:57:12.880]   That is one intense warning.
+[00:57:12.880 --> 00:57:14.300]   If you ever,
+[00:57:14.300 --> 00:57:16.440]   after how good,
+[00:57:16.440 --> 00:57:18.440]   and you know how good he's been to you,
+[00:57:19.360 --> 00:57:22.840]   look back with this fancy daydreaming,
+[00:57:22.840 --> 00:57:25.000]   like, oh, I wonder,
+[00:57:25.000 --> 00:57:28.080]   I wonder if I go back to when I wasn't Christian,
+[00:57:28.080 --> 00:57:30.200]   when I was ambitious for the world,
+[00:57:30.200 --> 00:57:32.640]   when I had more freedoms,
+[00:57:32.640 --> 00:57:33.760]   kind of like the prodigal son,
+[00:57:33.760 --> 00:57:35.560]   I'm gonna take my inheritance and go.
+[00:57:35.560 --> 00:57:39.100]   I wonder what I could do if I just let my own wings fly.
+[00:57:39.100 --> 00:57:43.200]   He says, you're tempted with that?
+[00:57:43.200 --> 00:57:46.480]   Know this day that every single promise
+[00:57:46.480 --> 00:57:49.820]   just as how it's come true for the good,
+[00:57:49.820 --> 00:57:52.560]   the promise that will come true for the bad
+[00:57:52.560 --> 00:57:54.120]   will be certain,
+[00:57:54.120 --> 00:57:56.440]   and God's anger will burn against you.
+[00:57:56.440 --> 00:58:00.480]   Like, I don't have the words to describe,
+[00:58:00.480 --> 00:58:01.380]   and we feel it,
+[00:58:01.380 --> 00:58:03.560]   but we don't have the words to adequately describe
+[00:58:03.560 --> 00:58:05.000]   how scary it is
+[00:58:05.000 --> 00:58:09.240]   to be underneath the wrath of God,
+[00:58:09.240 --> 00:58:13.120]   to know with certainty, with precision,
+[00:58:13.120 --> 00:58:16.360]   God will look upon you with anger
+[00:58:16.360 --> 00:58:17.700]   versus grace.
+[00:58:17.700 --> 00:58:20.400]   That's incredible.
+[00:58:20.400 --> 00:58:25.240]   Now, I asked this question when I was doing the devotions.
+[00:58:25.240 --> 00:58:28.920]   Whoa, this is such a turn in tone.
+[00:58:28.920 --> 00:58:31.440]   Like, shouldn't, right?
+[00:58:31.440 --> 00:58:33.360]   Like, if you do the meditation on this thought,
+[00:58:33.360 --> 00:58:35.240]   like, they just had battle,
+[00:58:35.240 --> 00:58:37.880]   and then they got together because overall,
+[00:58:37.880 --> 00:58:39.920]   overall, they were faithful.
+[00:58:39.920 --> 00:58:41.580]   And he says it, you obeyed.
+[00:58:41.580 --> 00:58:43.640]   When I told you to destroy them utterly,
+[00:58:43.640 --> 00:58:44.960]   you destroyed them.
+[00:58:44.960 --> 00:58:46.200]   There were a couple moments, no,
+[00:58:46.200 --> 00:58:47.400]   but they destroyed them.
+[00:58:47.400 --> 00:58:48.520]   You did this, you did that,
+[00:58:48.520 --> 00:58:50.160]   and then so shouldn't they come together
+[00:58:50.160 --> 00:58:52.120]   and just do, thank you, Lord,
+[00:58:52.120 --> 00:58:54.120]   we accept with gratitude.
+[00:58:54.120 --> 00:58:55.560]   Thank you, thank you.
+[00:58:55.560 --> 00:58:56.860]   Good job, everyone.
+[00:58:56.860 --> 00:59:02.160]   What is this, like, grumpy old man just,
+[00:59:02.160 --> 00:59:04.920]   oh, God's gonna judge you
+[00:59:04.920 --> 00:59:08.280]   if you even think about going back.
+[00:59:08.280 --> 00:59:10.420]   Is he just being a grumpy old man?
+[00:59:10.420 --> 00:59:15.960]   Is he just being a hard-nosed general?
+[00:59:15.960 --> 00:59:17.680]   There are those guys out there
+[00:59:17.680 --> 00:59:20.200]   who are just hard-loved guys
+[00:59:20.200 --> 00:59:21.720]   who every moment, it's like,
+[00:59:21.720 --> 00:59:25.360]   how dare you even think about it, right?
+[00:59:25.360 --> 00:59:27.620]   And it's all warning and brimstone
+[00:59:27.620 --> 00:59:28.920]   and heavy, heavy wrath.
+[00:59:28.920 --> 00:59:30.920]   It's not.
+[00:59:30.920 --> 00:59:33.360]   The reason why it's not is because
+[00:59:33.360 --> 00:59:38.020]   through Joshua, God is shepherding their souls.
+[00:59:38.020 --> 00:59:39.160]   And through Joshua today,
+[00:59:39.160 --> 00:59:41.560]   God is shepherding our souls.
+[00:59:41.560 --> 00:59:45.080]   The reality of the warning,
+[00:59:45.080 --> 00:59:49.520]   the wisdom behind the warning,
+[00:59:49.520 --> 00:59:51.200]   is that this is true.
+[00:59:51.200 --> 00:59:55.080]   We are duped to think that sometimes we sin
+[00:59:55.080 --> 00:59:56.760]   and there are no consequences,
+[00:59:56.760 --> 00:59:59.360]   but God is very, very clear.
+[00:59:59.360 --> 01:00:01.720]   In your own experience of joy,
+[01:00:01.720 --> 01:00:03.560]   occupying his promises,
+[01:00:03.560 --> 01:00:06.680]   in your personal experience with God,
+[01:00:06.680 --> 01:00:08.760]   there are consequences to every act
+[01:00:08.760 --> 01:00:09.860]   and every decision.
+[01:00:11.240 --> 01:00:13.960]   So what's best for you is to remember
+[01:00:13.960 --> 01:00:17.840]   to be with this good God and to walk with him
+[01:00:17.840 --> 01:00:19.860]   is literally your best.
+[01:00:19.860 --> 01:00:22.240]   And the scariest, scariest thing
+[01:00:22.240 --> 01:00:24.280]   is to be tempted by the world.
+[01:00:24.280 --> 01:00:27.760]   And so what do I mean by God is shepherding our soul?
+[01:00:27.760 --> 01:00:31.880]   When God is talking through Joshua to the people,
+[01:00:31.880 --> 01:00:33.120]   he said, "I want you to gather
+[01:00:33.120 --> 01:00:35.580]   "and I want you to gather in this place.
+[01:00:35.580 --> 01:00:38.300]   "You will see how God is shepherding them in wisdom.
+[01:00:39.240 --> 01:00:44.240]   "I want you, my children, to make wise decisions
+[01:00:44.240 --> 01:00:46.520]   "and to be decided in your heart."
+[01:00:46.520 --> 01:00:47.880]   Let me show you.
+[01:00:47.880 --> 01:00:50.720]   By walking through the next portion of his sermon,
+[01:00:50.720 --> 01:00:55.160]   Joshua says in chapter 24, verse one through 13,
+[01:00:55.160 --> 01:00:57.720]   "The kind of shepherding that God has already done."
+[01:00:57.720 --> 01:01:01.280]   God has a loving history with these people.
+[01:01:01.280 --> 01:01:02.960]   Let's take a look and read.
+[01:01:02.960 --> 01:01:05.320]   Chapter 24, starting from verse one.
+[01:01:05.320 --> 01:01:08.720]   "Then Joshua gathered all the tribes of Israel to Shechem
+[01:01:08.720 --> 01:01:11.860]   "and called the elders of Israel for their heads
+[01:01:11.860 --> 01:01:14.100]   "and their judges and their officers,
+[01:01:14.100 --> 01:01:17.120]   "and they presented themselves before God."
+[01:01:17.120 --> 01:01:20.660]   Notice how it's they presented themselves before God.
+[01:01:20.660 --> 01:01:23.180]   Verse two, "Joshua said to all the people,
+[01:01:23.180 --> 01:01:26.600]   "Thus says the Lord, the God of Israel, to you."
+[01:01:26.600 --> 01:01:27.440]   Okay.
+[01:01:27.440 --> 01:01:29.380]   Real fast.
+[01:01:29.380 --> 01:01:33.500]   What Joshua is doing here is gathering these people
+[01:01:33.500 --> 01:01:36.820]   in a very particular place for a very particular reason.
+[01:01:37.860 --> 01:01:40.260]   And that reason is because this place, Shechem,
+[01:01:40.260 --> 01:01:43.480]   Shechem is a significant place
+[01:01:43.480 --> 01:01:45.360]   both of blessing and of decision.
+[01:01:45.360 --> 01:01:48.580]   So if you are in the habit of highlighting your Bible,
+[01:01:48.580 --> 01:01:50.760]   et cetera, Shechem is a place you wanna know,
+[01:01:50.760 --> 01:01:53.880]   or just take note on it, that Shechem is the place
+[01:01:53.880 --> 01:01:56.760]   in Joshua, sorry, in Genesis chapter 12,
+[01:01:56.760 --> 01:01:59.460]   when God gave promise to Abraham and said,
+[01:01:59.460 --> 01:02:01.360]   "I am going to give you offspring.
+[01:02:01.360 --> 01:02:03.020]   "I will give you land."
+[01:02:03.020 --> 01:02:04.880]   This was the place.
+[01:02:04.880 --> 01:02:07.040]   And so because that was a place of blessing
+[01:02:07.040 --> 01:02:09.800]   in Genesis 15, if you remember,
+[01:02:09.800 --> 01:02:11.400]   Abraham sets up a monument.
+[01:02:11.400 --> 01:02:12.620]   It sets up an altar and says,
+[01:02:12.620 --> 01:02:15.280]   "I need to remember this place," right?
+[01:02:15.280 --> 01:02:17.920]   Because it will live as a testimony to me.
+[01:02:17.920 --> 01:02:19.600]   But what's more, in Deuteronomy,
+[01:02:19.600 --> 01:02:22.840]   when Moses, the great leader, is setting before the nation,
+[01:02:22.840 --> 01:02:25.100]   "I want you to understand.
+[01:02:25.100 --> 01:02:26.340]   "Be wise, everyone.
+[01:02:26.340 --> 01:02:27.660]   "Choose wisely.
+[01:02:27.660 --> 01:02:33.120]   "God wants to bless you, but there are also curses."
+[01:02:33.120 --> 01:02:35.360]   Guess where they were hearing the law?
+[01:02:35.360 --> 01:02:37.020]   In the valley of Shechem.
+[01:02:37.020 --> 01:02:40.040]   Shechem is a valley between two mountains.
+[01:02:40.040 --> 01:02:43.560]   On one side, it's called Mount Ebal.
+[01:02:43.560 --> 01:02:45.240]   It just sounds bad, doesn't it?
+[01:02:45.240 --> 01:02:46.080]   E-bal.
+[01:02:46.080 --> 01:02:48.820]   Just sounds horrible.
+[01:02:48.820 --> 01:02:49.660]   Guess what God did?
+[01:02:49.660 --> 01:02:52.000]   He said, "I wanna do a demonstration."
+[01:02:52.000 --> 01:02:55.120]   And so he had six of the tribes go on one mountain,
+[01:02:55.120 --> 01:02:56.920]   and they proclaimed curses.
+[01:02:56.920 --> 01:02:59.860]   "Cursed be the man who sets up idolatry.
+[01:02:59.860 --> 01:03:02.080]   "Cursed be the man who gives incense.
+[01:03:02.080 --> 01:03:04.320]   "Cursed be the man who offends his brother,"
+[01:03:04.320 --> 01:03:05.240]   et cetera, et cetera.
+[01:03:05.380 --> 01:03:07.780]   And the people were shouting, "Curse that man!
+[01:03:07.780 --> 01:03:08.900]   "Curse that man!"
+[01:03:08.900 --> 01:03:11.300]   And the priests down the middle of Shechem,
+[01:03:11.300 --> 01:03:13.340]   the individuals, right, the one tribe,
+[01:03:13.340 --> 01:03:16.500]   they were screaming, "Amen, amen, curses, curses!"
+[01:03:16.500 --> 01:03:19.940]   And then God would set up the other side, Mount Gerizim.
+[01:03:19.940 --> 01:03:23.320]   And he would say, "But blessing, if you abide in my way."
+[01:03:23.320 --> 01:03:27.860]   Is God being an angry God who's just threatening you?
+[01:03:27.860 --> 01:03:30.700]   No, he's shepherding them
+[01:03:32.020 --> 01:03:35.600]   by not just telling them but showing them, "My people,
+[01:03:35.600 --> 01:03:38.320]   "you can't stand on two mountains.
+[01:03:38.320 --> 01:03:42.120]   "You think in your own wisdom, in your own way,
+[01:03:42.120 --> 01:03:44.460]   "but maybe I could have both.
+[01:03:44.460 --> 01:03:45.640]   "That guy had both.
+[01:03:45.640 --> 01:03:47.880]   "He had wealth and riches and the spirit
+[01:03:47.880 --> 01:03:48.820]   "and all this stuff.
+[01:03:48.820 --> 01:03:49.680]   "Why can't I?
+[01:03:49.680 --> 01:03:52.220]   "You can't sit there on two decisions.
+[01:03:52.220 --> 01:03:54.600]   "Why can't I at least have a run with the world,
+[01:03:54.600 --> 01:03:55.900]   "at least have some fun?
+[01:03:55.900 --> 01:03:58.560]   "Why can't I take this journey and trip first?"
+[01:03:59.720 --> 01:04:04.040]   And he says, "No, let me show you the wisdom
+[01:04:04.040 --> 01:04:05.800]   "of the reality of the decision.
+[01:04:05.800 --> 01:04:08.820]   "There's wrath and judgment here.
+[01:04:08.820 --> 01:04:10.520]   "There's blessings here.
+[01:04:10.520 --> 01:04:12.080]   "Where will you stand?
+[01:04:12.080 --> 01:04:14.780]   "But what's more, to encourage and motivate your heart,
+[01:04:14.780 --> 01:04:16.640]   "he's shepherding you.
+[01:04:16.640 --> 01:04:19.960]   "But you know that when I guide you
+[01:04:19.960 --> 01:04:23.900]   "and you know these commands and instructions and threats,
+[01:04:23.900 --> 01:04:27.380]   "it's not coming from some random guy out on the street.
+[01:04:27.380 --> 01:04:28.820]   "It's not coming from some guy
+[01:04:28.820 --> 01:04:30.260]   "who should just mind his own business,
+[01:04:30.260 --> 01:04:32.920]   "but he's just throwing, yelling,
+[01:04:32.920 --> 01:04:34.300]   "hey, you should do that.
+[01:04:34.300 --> 01:04:35.340]   "Hey, you should do this.
+[01:04:35.340 --> 01:04:38.140]   "No, it's your good shepherd."
+[01:04:38.140 --> 01:04:39.340]   Why do I say this?
+[01:04:39.340 --> 01:04:41.960]   As I read the next section,
+[01:04:41.960 --> 01:04:44.980]   I'm gonna accentuate how God is speaking to them,
+[01:04:44.980 --> 01:04:47.180]   saying, "Look what I've done for you."
+[01:04:47.180 --> 01:04:48.660]   So let me read on.
+[01:04:48.660 --> 01:04:50.500]   God says to all of Israel,
+[01:04:50.500 --> 01:04:53.180]   gathered together in the Valley of Shechem,
+[01:04:53.180 --> 01:04:55.920]   "From ancient time, your fathers lived beyond the river,
+[01:04:55.920 --> 01:04:59.160]   "namely Terah, the father of Abraham,
+[01:04:59.160 --> 01:05:03.680]   "and the father of Nahor, and they served other gods.
+[01:05:03.680 --> 01:05:08.140]   "Then I took your father Abraham from beyond the river
+[01:05:08.140 --> 01:05:11.060]   "and led him through all the land of Canaan.
+[01:05:11.060 --> 01:05:15.200]   "And I multiplied his descendants and gave him Isaac.
+[01:05:15.200 --> 01:05:18.000]   "To Isaac I gave Jacob and Esau,
+[01:05:18.000 --> 01:05:21.700]   "and to Esau I gave the Mount Seir to possess it.
+[01:05:21.700 --> 01:05:24.500]   "But Jacob and his sons went down to Egypt.
+[01:05:24.500 --> 01:05:26.640]   "Then I sent Moses and Aaron,
+[01:05:26.640 --> 01:05:29.440]   "and I plagued Egypt by what I did in their midst.
+[01:05:29.440 --> 01:05:33.000]   "And afterward, I brought you out.
+[01:05:33.000 --> 01:05:35.960]   "I brought you, your fathers, out of Egypt,
+[01:05:35.960 --> 01:05:37.920]   "and you came to the sea.
+[01:05:37.920 --> 01:05:40.720]   "And Egypt pursued your fathers with chariots and horsemen
+[01:05:40.720 --> 01:05:41.800]   "to the Red Sea.
+[01:05:41.800 --> 01:05:44.140]   "But when they cried out to the Lord,
+[01:05:44.140 --> 01:05:47.120]   "He put darkness between you and the Egyptians,
+[01:05:47.120 --> 01:05:49.440]   "and brought the sea upon them and covered them.
+[01:05:49.440 --> 01:05:53.400]   "And your own eyes saw what I did in Egypt.
+[01:05:53.400 --> 01:05:56.320]   "You lived in the wilderness for a long time."
+[01:05:56.320 --> 01:05:59.060]   Now that's an understatement, that was a long time.
+[01:05:59.060 --> 01:06:01.400]   "Then I brought you into the land of the Aramites
+[01:06:01.400 --> 01:06:03.780]   "who lived beyond the Jordan, and they fought with you.
+[01:06:03.780 --> 01:06:05.560]   "I gave them into your hand.
+[01:06:05.560 --> 01:06:07.100]   "You took possession of their land,
+[01:06:07.100 --> 01:06:09.260]   "and I destroyed them before you.
+[01:06:09.260 --> 01:06:12.080]   "Then Balak and the son of Zipporah, king of Moab,
+[01:06:12.080 --> 01:06:15.260]   "rose and fought against Israel.
+[01:06:15.260 --> 01:06:19.000]   "He sent and summoned Balaam, the son of Beir, to curse you.
+[01:06:19.000 --> 01:06:21.720]   "But I was not willing to listen to Balaam.
+[01:06:21.720 --> 01:06:26.600]   "So he had to bless you, and I delivered you from his hand.
+[01:06:26.600 --> 01:06:29.160]   "You crossed the Jordan and came to Jericho,
+[01:06:29.160 --> 01:06:31.260]   "and the citizens of Jericho fought against you,
+[01:06:31.260 --> 01:06:33.240]   "and the Amorite and the Perizzite,
+[01:06:33.240 --> 01:06:36.000]   "and the Canaanite, the Hittite, and the Gerrishite,
+[01:06:36.000 --> 01:06:37.740]   "the Hivite and the Jebusite.
+[01:06:37.740 --> 01:06:39.980]   "Thus I gave them into your hand.
+[01:06:39.980 --> 01:06:41.900]   "I sent the hornet before you,
+[01:06:41.900 --> 01:06:45.720]   "and it drove out the two kings of the Amorites
+[01:06:45.720 --> 01:06:47.360]   "from before you.
+[01:06:47.360 --> 01:06:49.980]   "But not by your sword or your bow.
+[01:06:49.980 --> 01:06:54.160]   "I gave you a land on which you had not labored,
+[01:06:54.160 --> 01:06:56.760]   "and cities on which you did not build,
+[01:06:56.760 --> 01:06:58.160]   "and you have lived in them.
+[01:06:58.160 --> 01:07:00.200]   "You are eating of vineyards and olive grove
+[01:07:00.200 --> 01:07:02.400]   "which you did not plant."
+[01:07:02.400 --> 01:07:08.940]   I read that section because clearly what God was saying was,
+[01:07:08.940 --> 01:07:13.640]   "I need you to understand what's really happening."
+[01:07:13.640 --> 01:07:15.940]   Sometimes we get so defensive, like,
+[01:07:15.940 --> 01:07:17.840]   "Oh, why is he getting so intense?
+[01:07:17.840 --> 01:07:20.120]   "And why are there threats?
+[01:07:20.120 --> 01:07:22.400]   "Is he just manipulating me?"
+[01:07:22.400 --> 01:07:28.360]   But no, you are being given real, genuine wisdom
+[01:07:28.360 --> 01:07:33.520]   and warning from a God who is our perfect shepherd.
+[01:07:33.520 --> 01:07:34.620]   Isn't that what it sounds like?
+[01:07:34.620 --> 01:07:37.060]   Just like a shepherd, I lead you and brought you,
+[01:07:37.060 --> 01:07:38.800]   and I brought you to pastures,
+[01:07:38.800 --> 01:07:40.240]   a pastures that you did not plant,
+[01:07:40.240 --> 01:07:41.680]   and then I brought you to safety,
+[01:07:41.680 --> 01:07:43.800]   and when you're in danger, I protected you.
+[01:07:43.800 --> 01:07:45.200]   God is our shepherd.
+[01:07:46.480 --> 01:07:48.680]   So if anything, as we hear the sermon of Joshua
+[01:07:48.680 --> 01:07:52.120]   this morning, I wanted your heart to be thankful.
+[01:07:52.120 --> 01:07:56.680]   Anytime you hear a good instruction from God,
+[01:07:56.680 --> 01:07:59.440]   know that it comes from your great and perfect shepherd.
+[01:07:59.440 --> 01:08:00.560]   Amen?
+[01:08:00.560 --> 01:08:04.800]   But also, anytime you hear harsh rebuke,
+[01:08:04.800 --> 01:08:06.080]   warning and correction,
+[01:08:06.080 --> 01:08:10.400]   and it looks like he's just shaking you up, thank God.
+[01:08:10.400 --> 01:08:14.620]   Thank God and say, "God, we confess together.
+[01:08:14.620 --> 01:08:16.520]   "We are hard of hearing.
+[01:08:16.520 --> 01:08:18.000]   "Sometimes I hear stuff and I'm like,
+[01:08:18.000 --> 01:08:20.760]   "Oh yeah, good, good, but I don't really get it.
+[01:08:20.760 --> 01:08:23.320]   "Sometimes I think I got it and I really don't
+[01:08:23.320 --> 01:08:25.780]   "because in application, I don't follow through.
+[01:08:25.780 --> 01:08:28.400]   "Sometimes I think I get it and I try to follow through,
+[01:08:28.400 --> 01:08:30.000]   "and then I make a bundle of it.
+[01:08:30.000 --> 01:08:32.680]   "So many ways your instructions can go wrong,
+[01:08:32.680 --> 01:08:36.400]   "and sometimes I'm just slow.
+[01:08:36.400 --> 01:08:37.800]   "Sometimes I'm defensive.
+[01:08:37.800 --> 01:08:42.100]   "But thank you, God, that you reason with us.
+[01:08:42.100 --> 01:08:43.920]   "You tell us and you show us."
+[01:08:43.920 --> 01:08:45.240]   Amen?
+[01:08:45.240 --> 01:08:48.380]   But that's what he's doing in saying people.
+[01:08:48.380 --> 01:08:50.500]   It wasn't even just this time,
+[01:08:50.500 --> 01:08:51.940]   but every time he sent the prophet,
+[01:08:51.940 --> 01:08:55.480]   remember Elijah on Mount Carmel, 1 Kings?
+[01:08:55.480 --> 01:08:58.920]   How long will you waver between two things?
+[01:08:58.920 --> 01:09:02.100]   If Baal seems like God to you, then do it.
+[01:09:02.100 --> 01:09:07.840]   But if God is mighty, then follow him.
+[01:09:07.840 --> 01:09:11.420]   You can't sit there straddling two fences.
+[01:09:11.420 --> 01:09:14.060]   And God says, "Because of this pivotal moment,"
+[01:09:14.060 --> 01:09:17.800]   and it's pivotal because they had victory,
+[01:09:17.800 --> 01:09:21.020]   and now then perhaps they were more susceptible
+[01:09:21.020 --> 01:09:22.260]   to danger and threat.
+[01:09:22.260 --> 01:09:28.180]   "I need to know that you will choose and cling to God."
+[01:09:28.180 --> 01:09:30.420]   And so that's what Joshua says.
+[01:09:30.420 --> 01:09:33.340]   Verse 14 through 15, chapter 24.
+[01:09:33.340 --> 01:09:37.620]   "Now therefore, upon hearing how God has been shepherding you
+[01:09:37.620 --> 01:09:40.940]   "and shepherding the flock and all your souls,
+[01:09:40.940 --> 01:09:43.740]   "fear the Lord, serve him in sincerity and truth,
+[01:09:43.740 --> 01:09:45.960]   "and put away the gods which your father served
+[01:09:45.960 --> 01:09:49.220]   "beyond the river in Egypt, and serve the Lord.
+[01:09:49.220 --> 01:09:51.660]   "If it is disagreeable in your sight to serve the Lord,
+[01:09:51.660 --> 01:09:55.880]   "choose for yourself today whom you will serve,
+[01:09:55.880 --> 01:09:58.060]   "whether the gods which your father served,
+[01:09:58.060 --> 01:09:59.640]   "which were beyond the river,
+[01:09:59.640 --> 01:10:02.600]   "or the gods of the Amorites in whose land you are living.
+[01:10:02.600 --> 01:10:07.040]   "But as for me and my house, we will serve the Lord."
+[01:10:08.100 --> 01:10:11.260]   This is a famous and epic portion of scripture,
+[01:10:11.260 --> 01:10:15.380]   and we wanna heed it in the right way.
+[01:10:15.380 --> 01:10:18.500]   We want to understand that God desires us
+[01:10:18.500 --> 01:10:22.540]   to yes, make a decisive conclusion.
+[01:10:22.540 --> 01:10:24.100]   God has been good to me,
+[01:10:24.100 --> 01:10:28.020]   and to anything that takes me away from my Lord,
+[01:10:28.020 --> 01:10:31.900]   anything that makes me feel a little far from my Savior,
+[01:10:31.900 --> 01:10:35.620]   it's utter trash, and I need to put it away.
+[01:10:36.520 --> 01:10:39.700]   And we may have excuses, we may have reasons,
+[01:10:39.700 --> 01:10:43.140]   but I'm scared, I don't know how it's gonna work out,
+[01:10:43.140 --> 01:10:46.140]   I don't know exactly how to plan,
+[01:10:46.140 --> 01:10:48.580]   I don't know if I'm in the end actually gonna be safe,
+[01:10:48.580 --> 01:10:50.300]   et cetera, et cetera.
+[01:10:50.300 --> 01:10:54.140]   He wants us to deal with those worries,
+[01:10:54.140 --> 01:10:58.420]   reservations, excuses, and be willing to say,
+[01:10:58.420 --> 01:11:00.360]   "I will put away anything else
+[01:11:00.360 --> 01:11:04.220]   "that does not contribute to me serving my God."
+[01:11:04.220 --> 01:11:07.880]   You know, as a comment on what he's saying,
+[01:11:07.880 --> 01:11:10.580]   he's saying when you choose to serve God
+[01:11:10.580 --> 01:11:15.120]   in sincerity and truth, truth by nature is exclusive.
+[01:11:15.120 --> 01:11:18.980]   If truth is truth and it's right, then this is false.
+[01:11:18.980 --> 01:11:21.400]   And likewise, he's saying,
+[01:11:21.400 --> 01:11:23.300]   there is a principle of separation.
+[01:11:23.300 --> 01:11:26.160]   God challenges you and me.
+[01:11:26.160 --> 01:11:30.560]   When we think about things like washing, renewal, revival,
+[01:11:30.560 --> 01:11:34.220]   what that means is any element of our lives
+[01:11:34.220 --> 01:11:36.220]   that is of our previous flesh,
+[01:11:36.220 --> 01:11:38.300]   that is in contradiction to God,
+[01:11:38.300 --> 01:11:41.920]   I volitionally, I have to put that away.
+[01:11:41.920 --> 01:11:44.860]   And as a case example of this,
+[01:11:44.860 --> 01:11:47.260]   continuing to reason with us,
+[01:11:47.260 --> 01:11:48.940]   did you notice here there's actually
+[01:11:48.940 --> 01:11:51.320]   three main individuals that's talked about?
+[01:11:51.320 --> 01:11:52.740]   There's the idea of Abraham
+[01:11:52.740 --> 01:11:55.140]   coming out of the Ur of Chaldeans,
+[01:11:55.140 --> 01:11:56.700]   there's Moses in Egypt,
+[01:11:56.700 --> 01:11:59.500]   and here and now there's Joshua and the people.
+[01:11:59.500 --> 01:12:01.400]   I want you to think about this.
+[01:12:01.400 --> 01:12:04.820]   God called Abraham because he was a righteous man?
+[01:12:04.820 --> 01:12:07.860]   No, he came from the land, basically,
+[01:12:07.860 --> 01:12:11.340]   which is now Southeast Saudi Arabia, okay?
+[01:12:11.340 --> 01:12:14.720]   He comes from the civilization of the Sumers.
+[01:12:14.720 --> 01:12:16.600]   They were pagan individuals believing
+[01:12:16.600 --> 01:12:20.480]   in the pantheon of God's worshiping animals.
+[01:12:20.480 --> 01:12:21.480]   What did he say?
+[01:12:21.480 --> 01:12:24.080]   Come out, I call you.
+[01:12:24.080 --> 01:12:26.240]   And he had to cross the Euphrates River
+[01:12:26.240 --> 01:12:28.160]   to come all the way from his people
+[01:12:28.160 --> 01:12:30.080]   to now enter into this land.
+[01:12:30.080 --> 01:12:31.480]   Same thing for Moses.
+[01:12:31.480 --> 01:12:32.720]   He's in Egypt.
+[01:12:32.720 --> 01:12:35.560]   He gets accustomed to the traditions,
+[01:12:35.560 --> 01:12:37.720]   the religions of the people.
+[01:12:37.720 --> 01:12:38.560]   What do they have to do?
+[01:12:38.560 --> 01:12:40.920]   They have to pass through the Red Sea.
+[01:12:40.920 --> 01:12:42.980]   God miraculously splits open the sea,
+[01:12:42.980 --> 01:12:44.360]   people walk through.
+[01:12:44.360 --> 01:12:46.260]   The people now in Joshua's time,
+[01:12:46.260 --> 01:12:47.680]   they go from the wilderness
+[01:12:47.680 --> 01:12:49.160]   and they have to cross the what?
+[01:12:49.160 --> 01:12:52.080]   The Jordan, the second splitting of the sea, so to speak.
+[01:12:52.080 --> 01:12:54.360]   Jordan splits wide open, the ground is dry,
+[01:12:54.360 --> 01:12:55.880]   they walk through.
+[01:12:55.880 --> 01:12:57.360]   Anybody in here now,
+[01:12:57.360 --> 01:12:59.600]   I don't know every single struggle you have.
+[01:12:59.600 --> 01:13:03.280]   It could be something you know is compromise,
+[01:13:03.280 --> 01:13:06.800]   it could be something you know is very, very tempting.
+[01:13:06.800 --> 01:13:08.440]   God is saying cross the river.
+[01:13:08.440 --> 01:13:11.800]   You cannot sit in the middle of the water
+[01:13:11.800 --> 01:13:12.700]   and hope it works out.
+[01:13:12.700 --> 01:13:13.840]   I will crush you.
+[01:13:13.840 --> 01:13:18.800]   Separation is a theme in the scripture
+[01:13:18.800 --> 01:13:22.800]   that we know is true, but it's hard.
+[01:13:22.800 --> 01:13:23.720]   It's difficult.
+[01:13:23.720 --> 01:13:26.080]   I wanna challenge you,
+[01:13:26.080 --> 01:13:28.760]   just like this passage is challenging us.
+[01:13:28.760 --> 01:13:31.560]   You have to make a very personal decision.
+[01:13:31.560 --> 01:13:35.880]   If there are things in your life keeping you from God,
+[01:13:35.880 --> 01:13:37.680]   making you feel far from him,
+[01:13:37.680 --> 01:13:40.240]   you have to decide, as for me,
+[01:13:40.240 --> 01:13:42.880]   not based on what everybody else is,
+[01:13:42.880 --> 01:13:46.080]   as for me, I choose to serve the Lord.
+[01:13:46.080 --> 01:13:47.620]   That's power.
+[01:13:47.620 --> 01:13:50.480]   You could be a 15-year-old youth group student in here.
+[01:13:50.480 --> 01:13:52.240]   You can pre-decide in your heart,
+[01:13:52.240 --> 01:13:53.800]   you know the stuff to come.
+[01:13:53.800 --> 01:13:55.760]   Everything that tempts us is common to man.
+[01:13:55.760 --> 01:13:57.720]   You know your classmates is gonna tempt you
+[01:13:57.720 --> 01:13:58.880]   to roll with them.
+[01:13:58.880 --> 01:14:01.600]   Once you get into college, you know the temptations to come.
+[01:14:01.600 --> 01:14:03.360]   Once you get into working life,
+[01:14:03.360 --> 01:14:04.960]   you know the temptations to come.
+[01:14:04.960 --> 01:14:06.600]   When you have expendable cash,
+[01:14:06.600 --> 01:14:09.720]   when you have various privileges,
+[01:14:09.720 --> 01:14:12.820]   when you're later on in life,
+[01:14:12.820 --> 01:14:15.800]   the temptations don't necessarily become new
+[01:14:15.800 --> 01:14:17.220]   and profound, et cetera,
+[01:14:17.220 --> 01:14:22.080]   but it's powerful if you have a pre-determined decision
+[01:14:22.080 --> 01:14:25.340]   in your heart, I am going to serve the Lord.
+[01:14:25.340 --> 01:14:27.600]   For me, as I was meditating on that, I think,
+[01:14:27.600 --> 01:14:30.920]   I had this thought that in my own personality,
+[01:14:30.920 --> 01:14:36.920]   I do find safety in being around others who make decisions.
+[01:14:36.920 --> 01:14:41.280]   I am content to have others make strong decisions for me
+[01:14:41.280 --> 01:14:44.320]   so that it looks safe and then I will do it.
+[01:14:44.320 --> 01:14:48.680]   But Joshua gives us an example.
+[01:14:48.680 --> 01:14:50.600]   He says, you know what?
+[01:14:50.600 --> 01:14:53.120]   As for me and my household,
+[01:14:53.120 --> 01:14:56.020]   it's not as though my decision is contingent upon you
+[01:14:56.020 --> 01:14:58.520]   or the people following me or anybody else.
+[01:14:58.520 --> 01:15:03.460]   As for me and my household, we will serve the Lord.
+[01:15:03.460 --> 01:15:04.300]   You choose.
+[01:15:04.300 --> 01:15:07.500]   Don't be passive.
+[01:15:07.500 --> 01:15:09.580]   Don't look for safety surrounded by like,
+[01:15:09.580 --> 01:15:12.420]   let me see at least first what that guy does.
+[01:15:12.420 --> 01:15:14.460]   Did it work out for that guy?
+[01:15:14.460 --> 01:15:17.700]   No, he wants you to make a strong decision.
+[01:15:17.700 --> 01:15:20.940]   What's incredibly interesting about this sermon
+[01:15:20.940 --> 01:15:23.580]   is there is a response from the people.
+[01:15:23.580 --> 01:15:27.600]   As a narrative, you see how the people respond to his call.
+[01:15:27.600 --> 01:15:29.220]   Let's take a look, verse 16.
+[01:15:29.220 --> 01:15:32.840]   The people answered and said,
+[01:15:32.840 --> 01:15:35.540]   far be it from us that we should forsake the Lord
+[01:15:35.540 --> 01:15:38.260]   to serve other gods, for the Lord our God
+[01:15:38.260 --> 01:15:41.320]   is he who brought us and our fathers up
+[01:15:41.320 --> 01:15:44.860]   out of the land of Egypt from the house's bondage
+[01:15:44.860 --> 01:15:46.800]   and who did these great signs in our sight
+[01:15:46.800 --> 01:15:49.640]   and preserved us through all the way in which we went
+[01:15:49.640 --> 01:15:53.300]   among all the peoples through whose midst we passed.
+[01:15:53.300 --> 01:15:56.100]   The Lord drove out from before us all the peoples,
+[01:15:56.100 --> 01:15:58.420]   even the Amorites who lived in the land.
+[01:15:58.420 --> 01:16:02.100]   We also will serve the Lord for he is our God.
+[01:16:02.100 --> 01:16:05.600]   Now when you look at their words, when they say,
+[01:16:05.600 --> 01:16:08.860]   far be it from us to do stuff like that,
+[01:16:08.860 --> 01:16:10.300]   we will serve the Lord.
+[01:16:10.300 --> 01:16:13.880]   Does that automatically make you feel a little weird?
+[01:16:13.880 --> 01:16:18.540]   Kind of the feeling of like, I don't know, you guys,
+[01:16:18.540 --> 01:16:21.240]   I've read the next book, you know?
+[01:16:21.240 --> 01:16:24.700]   I don't know, you guys, it feels a little overconfident.
+[01:16:24.700 --> 01:16:28.120]   Let me just say at first, it is an encouragement
+[01:16:28.120 --> 01:16:30.340]   to see the people respond this way
+[01:16:30.340 --> 01:16:32.980]   and say we will serve the Lord.
+[01:16:32.980 --> 01:16:34.280]   That's something good.
+[01:16:34.280 --> 01:16:38.180]   I think you and I actually live in fear these days.
+[01:16:38.180 --> 01:16:41.360]   So many people are afraid of making any commitment,
+[01:16:41.360 --> 01:16:42.860]   and I know why.
+[01:16:42.860 --> 01:16:45.900]   You don't wanna look silly because you couldn't do it.
+[01:16:45.900 --> 01:16:48.060]   You don't wanna say stuff that you might not have
+[01:16:48.060 --> 01:16:49.780]   the power to fulfill.
+[01:16:49.780 --> 01:16:50.620]   It's a good thing.
+[01:16:50.620 --> 01:16:54.180]   The bad thing is when they completely lose sight
+[01:16:54.180 --> 01:16:56.420]   of their track record, when they have too much
+[01:16:56.420 --> 01:16:58.540]   self-confidence, when they say things like,
+[01:16:58.540 --> 01:17:02.080]   oh, far be it from us that we would ever do this,
+[01:17:02.080 --> 01:17:05.820]   we also know not the next book but the previous book.
+[01:17:05.820 --> 01:17:08.140]   What in the world are we talking about here?
+[01:17:08.140 --> 01:17:10.420]   If you recall in Joshua chapter one,
+[01:17:10.420 --> 01:17:12.500]   when Joshua gave a similar sermon,
+[01:17:12.500 --> 01:17:15.580]   the people said we will obey all that you command us
+[01:17:15.580 --> 01:17:18.540]   just as we obeyed Moses in all the things,
+[01:17:18.540 --> 01:17:20.140]   so we will obey you.
+[01:17:20.140 --> 01:17:24.500]   Just as you obeyed Moses, what are you talking about?
+[01:17:24.500 --> 01:17:29.260]   And so what's really interesting is we have this paradox
+[01:17:29.260 --> 01:17:30.820]   in our Christian life.
+[01:17:30.820 --> 01:17:33.380]   No confidence in the flesh means I know actually
+[01:17:33.380 --> 01:17:34.960]   I can sin at every turn.
+[01:17:34.960 --> 01:17:39.840]   I can sin on the way down from an amazing retreat.
+[01:17:39.840 --> 01:17:43.020]   I can sin in the moment of weakness when I'm even
+[01:17:43.020 --> 01:17:46.060]   like having done my devotions, et cetera, et cetera.
+[01:17:46.060 --> 01:17:48.180]   I am susceptible, yes?
+[01:17:48.180 --> 01:17:52.140]   But that does not preclude me from saying
+[01:17:52.140 --> 01:17:54.700]   by what God has commanded me, I will obey.
+[01:17:54.700 --> 01:17:59.020]   We're gonna talk about that, but Joshua's response
+[01:17:59.020 --> 01:18:02.260]   to the people is actually pretty shocking,
+[01:18:02.260 --> 01:18:03.520]   and this is what he says.
+[01:18:03.520 --> 01:18:08.380]   Joshua, knowing his people, he says this.
+[01:18:08.380 --> 01:18:13.380]   Then Joshua said, you will not be able to serve the Lord,
+[01:18:13.380 --> 01:18:15.620]   for he is a holy God.
+[01:18:15.620 --> 01:18:17.420]   He is a jealous God.
+[01:18:17.420 --> 01:18:20.420]   He will not forgive your transgression or your sins.
+[01:18:20.420 --> 01:18:23.660]   If you forsake the Lord and serve foreign gods,
+[01:18:23.660 --> 01:18:28.260]   then he will turn and do you harm and consume you
+[01:18:28.260 --> 01:18:30.740]   after he has done good to you.
+[01:18:30.740 --> 01:18:31.580]   Whoa.
+[01:18:31.580 --> 01:18:34.140]   What's really interesting about that,
+[01:18:34.140 --> 01:18:36.700]   the way I take it is the people say,
+[01:18:36.700 --> 01:18:38.660]   you know what, Joshua, we hear you.
+[01:18:38.660 --> 01:18:40.700]   We're here in the valley and we get it.
+[01:18:40.700 --> 01:18:43.020]   Curses and blessings, we choose blessings.
+[01:18:43.020 --> 01:18:46.780]   We'll serve the Lord, and Joshua goes, no, you won't.
+[01:18:46.780 --> 01:18:52.100]   But what Joshua's really saying is not like that.
+[01:18:52.100 --> 01:18:54.420]   Not like that.
+[01:18:54.420 --> 01:18:58.180]   Joshua clearly is seeing the people and saying,
+[01:18:58.180 --> 01:18:59.900]   I know you, I see you.
+[01:18:59.900 --> 01:19:03.780]   You can't worship God on your terms.
+[01:19:03.780 --> 01:19:05.580]   You can't worship God just showing up,
+[01:19:05.580 --> 01:19:06.900]   giving whatever you want.
+[01:19:06.900 --> 01:19:10.140]   You can't, 'cause there is a moment right before
+[01:19:10.140 --> 01:19:12.300]   this happens when the two nations,
+[01:19:12.300 --> 01:19:13.820]   it's two and a half nations,
+[01:19:13.820 --> 01:19:15.900]   that were on the other side of the Jordan,
+[01:19:15.900 --> 01:19:17.820]   they actually set up an altar,
+[01:19:17.820 --> 01:19:20.860]   and the people are like, what are you doing?
+[01:19:20.860 --> 01:19:22.620]   God told us to come together,
+[01:19:22.620 --> 01:19:24.740]   and we have the altar of Shiloh.
+[01:19:24.740 --> 01:19:26.300]   What are you doing?
+[01:19:26.300 --> 01:19:28.500]   You're gonna bring judgment on us.
+[01:19:28.500 --> 01:19:31.580]   What are you gonna do, like burn something on there?
+[01:19:31.580 --> 01:19:33.380]   Now, thank God that actually,
+[01:19:33.380 --> 01:19:35.460]   there's a moment of potential civil war.
+[01:19:35.460 --> 01:19:36.860]   They say, no, no, no, no, no.
+[01:19:36.860 --> 01:19:39.660]   We were just setting this up so that we never forget
+[01:19:39.660 --> 01:19:40.740]   what's happened here.
+[01:19:40.740 --> 01:19:41.580]   Okay, okay.
+[01:19:41.580 --> 01:19:44.580]   But what I'm saying is,
+[01:19:44.580 --> 01:19:46.700]   there is this weird thought that like,
+[01:19:46.700 --> 01:19:51.060]   I can just set up stuff, and God will accept my offering.
+[01:19:51.060 --> 01:19:56.060]   What I mean, and I think what Joshua's getting at,
+[01:19:56.060 --> 01:19:58.500]   is there is this thought that yes, we will serve God,
+[01:19:58.500 --> 01:20:01.220]   but then there's always been this strange assumption
+[01:20:01.220 --> 01:20:03.500]   that I can serve God in whichever way,
+[01:20:03.500 --> 01:20:06.020]   or to the best of my ability,
+[01:20:06.020 --> 01:20:08.420]   I can just offer this, and he'll just accept it.
+[01:20:08.420 --> 01:20:12.380]   And when Joshua says, no, no, no, he is holy,
+[01:20:12.380 --> 01:20:14.060]   that's exactly what he's saying, right?
+[01:20:14.060 --> 01:20:17.940]   God is a holy God that we do not just approach him
+[01:20:17.940 --> 01:20:20.260]   in any which way we presume,
+[01:20:20.260 --> 01:20:22.820]   and this idea that come just as you are,
+[01:20:22.820 --> 01:20:24.340]   no matter what you did yesterday,
+[01:20:24.340 --> 01:20:26.780]   no matter what's in your heart now, just come,
+[01:20:26.780 --> 01:20:28.180]   that's a falsehood.
+[01:20:28.180 --> 01:20:32.740]   He's holy, and his holiness will consume you.
+[01:20:33.740 --> 01:20:35.860]   You don't treat God like one of your hobbies,
+[01:20:35.860 --> 01:20:40.020]   one of your pets, and that is the sad state of affairs
+[01:20:40.020 --> 01:20:44.020]   in our day where we presume that God is okay
+[01:20:44.020 --> 01:20:48.700]   just as long as at least I carve out this moment for him.
+[01:20:48.700 --> 01:20:50.660]   But to me, that's kind of like saying,
+[01:20:50.660 --> 01:20:53.660]   well, my dog needs a walk every so often, so I'll do it.
+[01:20:53.660 --> 01:20:55.820]   That's not God.
+[01:20:55.820 --> 01:21:00.940]   And so what Joshua's saying is, you can't do it like that.
+[01:21:00.940 --> 01:21:04.180]   You can't have him as one of your loves.
+[01:21:04.180 --> 01:21:06.740]   You can't have him as one of the many things
+[01:21:06.740 --> 01:21:10.620]   that you hold dear and near to your heart and you value.
+[01:21:10.620 --> 01:21:13.300]   He's gotta be holy in you.
+[01:21:13.300 --> 01:21:16.540]   Now, let me paint the scenario for you.
+[01:21:16.540 --> 01:21:18.780]   So imagine this scene with me.
+[01:21:18.780 --> 01:21:22.780]   To liken it to this scenario would be to liken it
+[01:21:22.780 --> 01:21:25.980]   to, let's say, an intense football game,
+[01:21:25.980 --> 01:21:27.980]   let's say the Super Bowl.
+[01:21:28.500 --> 01:21:32.420]   The coach, he is a veteran coach.
+[01:21:32.420 --> 01:21:34.420]   He's been through game after game,
+[01:21:34.420 --> 01:21:35.660]   and he's looking at his team.
+[01:21:35.660 --> 01:21:38.060]   It's fourth quarter, there's two minutes left.
+[01:21:38.060 --> 01:21:39.060]   It's down to the wire.
+[01:21:39.060 --> 01:21:41.820]   They're only down by six, so he has this moment
+[01:21:41.820 --> 01:21:45.900]   with his team, and he says, hey, everybody, all eyes on me.
+[01:21:45.900 --> 01:21:47.420]   And so everybody has to come, right?
+[01:21:47.420 --> 01:21:48.380]   That's exactly what happened.
+[01:21:48.380 --> 01:21:50.940]   Joshua says, everybody, come to the valley,
+[01:21:50.940 --> 01:21:52.420]   and so everybody had to come.
+[01:21:52.420 --> 01:21:55.260]   From young and old, leader or follower, everybody came.
+[01:21:56.180 --> 01:21:58.700]   And just like a good coach would look at his team and says,
+[01:21:58.700 --> 01:22:00.700]   I know you guys have been running out there.
+[01:22:00.700 --> 01:22:02.900]   I know you guys have been doing a good job,
+[01:22:02.900 --> 01:22:05.460]   but do you want this?
+[01:22:05.460 --> 01:22:06.620]   Do you wanna win?
+[01:22:06.620 --> 01:22:09.740]   And the team goes, yeah, we wanna win.
+[01:22:09.740 --> 01:22:10.740]   Do you wanna win?
+[01:22:10.740 --> 01:22:12.380]   Yeah, we wanna win.
+[01:22:12.380 --> 01:22:14.580]   Kind of similar, right?
+[01:22:14.580 --> 01:22:17.460]   And then the players are like, that's right.
+[01:22:17.460 --> 01:22:19.740]   They're getting all hyped up, saying, we're gonna win.
+[01:22:19.740 --> 01:22:20.620]   We're gonna win.
+[01:22:20.620 --> 01:22:22.780]   And the coach says, no, you won't.
+[01:22:24.740 --> 01:22:27.500]   And everyone's sitting there like, what's going on?
+[01:22:27.500 --> 01:22:30.140]   Why is he screaming at us?
+[01:22:30.140 --> 01:22:34.740]   Man, and you could get defensive at that moment.
+[01:22:34.740 --> 01:22:36.300]   Man, I'm bruised all over.
+[01:22:36.300 --> 01:22:37.740]   I've been running so hard.
+[01:22:37.740 --> 01:22:39.060]   I've been taking hits.
+[01:22:39.060 --> 01:22:41.620]   I've been making blocks that I'm not even supposed to.
+[01:22:41.620 --> 01:22:44.340]   Why is this guy yelling at us, telling us we won't win?
+[01:22:44.340 --> 01:22:48.260]   And the coach says, you're not gonna win like that,
+[01:22:48.260 --> 01:22:50.500]   you won't, 'cause I see you.
+[01:22:50.500 --> 01:22:53.660]   I see some of you guys.
+[01:22:53.660 --> 01:22:55.020]   You guys aren't dedicated to win.
+[01:22:55.020 --> 01:22:56.620]   You guys are sitting there complaining
+[01:22:56.620 --> 01:22:57.900]   about how the play stinks
+[01:22:57.900 --> 01:23:00.340]   and how you're not getting enough passes.
+[01:23:00.340 --> 01:23:02.540]   You're sitting there competing with each other.
+[01:23:02.540 --> 01:23:03.900]   Who's better, who's better?
+[01:23:03.900 --> 01:23:05.420]   Some of you guys are over there celebrating
+[01:23:05.420 --> 01:23:07.500]   when you're not even winning yet.
+[01:23:07.500 --> 01:23:09.460]   Why are you over there celebrating?
+[01:23:09.460 --> 01:23:11.660]   Some of you guys are over here all distracted on your phones
+[01:23:11.660 --> 01:23:13.620]   and all you do is stay on your phone on the bench.
+[01:23:13.620 --> 01:23:16.100]   Even if you're on the bench, stay in the game.
+[01:23:16.100 --> 01:23:18.260]   Some of you are staring at cheerleaders.
+[01:23:18.260 --> 01:23:20.100]   What's wrong with you?
+[01:23:20.100 --> 01:23:21.380]   You can't win like that.
+[01:23:22.980 --> 01:23:25.020]   But that's kind of what he's saying.
+[01:23:25.020 --> 01:23:28.180]   Some of you guys are so distracted
+[01:23:28.180 --> 01:23:33.780]   and he says, you guys are saying you wanna win,
+[01:23:33.780 --> 01:23:35.860]   but you can't serve God like that.
+[01:23:35.860 --> 01:23:39.420]   That's not the decision I was asking for,
+[01:23:39.420 --> 01:23:41.700]   where you say, okay, I'll show up.
+[01:23:41.700 --> 01:23:43.220]   No, I want you to win.
+[01:23:43.220 --> 01:23:48.300]   Look at this next portion of the scriptures in verse 21.
+[01:23:48.300 --> 01:23:50.940]   The people say to Joshua, no, no, no, no, we'll do it,
+[01:23:50.940 --> 01:23:52.220]   we'll serve the Lord.
+[01:23:52.220 --> 01:23:55.860]   And then Joshua says, you are witnesses against yourself
+[01:23:55.860 --> 01:23:58.900]   that you have chosen for yourself the Lord to serve him.
+[01:23:58.900 --> 01:24:01.500]   And they said, yeah, we are witnesses.
+[01:24:01.500 --> 01:24:04.180]   Now, therefore, put away the foreign gods
+[01:24:04.180 --> 01:24:06.580]   which are in your, where?
+[01:24:06.580 --> 01:24:08.500]   In your midst.
+[01:24:08.500 --> 01:24:10.740]   It has been the plight of the nation
+[01:24:10.740 --> 01:24:13.100]   that every time they came out,
+[01:24:13.100 --> 01:24:16.780]   somebody had to steal a little icon, idol,
+[01:24:16.780 --> 01:24:19.700]   or false thing and hide it in their tent.
+[01:24:21.700 --> 01:24:24.940]   And they save it like hoarders who can't clear their garage.
+[01:24:24.940 --> 01:24:27.980]   It's just, maybe one day, someday it'll help me.
+[01:24:27.980 --> 01:24:30.340]   No, it's going to kill you.
+[01:24:30.340 --> 01:24:33.860]   And that's exactly what happens.
+[01:24:33.860 --> 01:24:39.580]   And the people, it's such a predictable sin,
+[01:24:39.580 --> 01:24:42.420]   but so many times the prophets of God are like,
+[01:24:42.420 --> 01:24:44.780]   stop staring at the pagan woman.
+[01:24:44.780 --> 01:24:47.180]   I know they're beautiful, stop.
+[01:24:47.180 --> 01:24:48.220]   And the next story, it's like,
+[01:24:48.220 --> 01:24:50.540]   and they took wives from the pagan nation.
+[01:24:51.500 --> 01:24:52.860]   It's so predictable.
+[01:24:52.860 --> 01:24:56.340]   And so God says to us too,
+[01:24:56.340 --> 01:24:58.100]   I know some of you are making decisions
+[01:24:58.100 --> 01:24:59.700]   and you've done well.
+[01:24:59.700 --> 01:25:00.540]   And he says it, he says,
+[01:25:00.540 --> 01:25:03.460]   you fought well up to this day, you've obeyed,
+[01:25:03.460 --> 01:25:05.660]   but you understand that little bit of compromise,
+[01:25:05.660 --> 01:25:07.820]   that little bit of saving,
+[01:25:07.820 --> 01:25:10.040]   saving of the stuff of your past,
+[01:25:10.040 --> 01:25:13.420]   wishing you could have it both ways, it will kill you.
+[01:25:13.420 --> 01:25:16.580]   And the thing about it is right now,
+[01:25:16.580 --> 01:25:20.100]   we don't have little idols in your house.
+[01:25:20.100 --> 01:25:22.140]   You don't have like a little totem pole.
+[01:25:22.140 --> 01:25:23.820]   You don't have like a Asherah pole
+[01:25:23.820 --> 01:25:26.380]   and a statue set up for Molech.
+[01:25:26.380 --> 01:25:28.820]   If you do, please throw it away.
+[01:25:28.820 --> 01:25:33.540]   But we don't have that stuff in your garage.
+[01:25:33.540 --> 01:25:36.860]   But I think it's because we just thought we got wiser
+[01:25:36.860 --> 01:25:38.700]   and we just bypassed it.
+[01:25:38.700 --> 01:25:40.780]   And then humans realized, you know what?
+[01:25:40.780 --> 01:25:42.940]   I'm not going to give fruit to the Asherah pole.
+[01:25:42.940 --> 01:25:45.380]   I'm going to give a lamb to the Asherah pole.
+[01:25:45.380 --> 01:25:46.900]   Because in the end, what was the game?
+[01:25:46.900 --> 01:25:49.860]   The game was, you know, you go to the Asherah pole
+[01:25:49.860 --> 01:25:52.620]   and it's like, give me blessing, make me fruitful.
+[01:25:52.620 --> 01:25:53.740]   You go to Molech and you go,
+[01:25:53.740 --> 01:25:56.020]   give me blessing, make me fruitful.
+[01:25:56.020 --> 01:25:57.780]   And now it's just, you bypass all that
+[01:25:57.780 --> 01:25:59.620]   and you just look to anybody.
+[01:25:59.620 --> 01:26:01.380]   Are you going to help me be fruitful?
+[01:26:01.380 --> 01:26:02.980]   You're going to help me be successful?
+[01:26:02.980 --> 01:26:04.740]   Who's going to bless me in my business?
+[01:26:04.740 --> 01:26:06.100]   Who's going to bless me now?
+[01:26:06.100 --> 01:26:08.220]   Bless me, bless me, bless me.
+[01:26:08.220 --> 01:26:09.060]   It's the same thing.
+[01:26:09.060 --> 01:26:11.020]   And so the idol became just simply us.
+[01:26:11.020 --> 01:26:12.420]   And some of us do have idols.
+[01:26:12.420 --> 01:26:14.580]   We have idols of like pro athletes.
+[01:26:14.580 --> 01:26:16.020]   We have idols of musicians
+[01:26:16.020 --> 01:26:18.580]   and you have idols of business success, entrepreneurs.
+[01:26:18.580 --> 01:26:20.100]   But part of the reason why there are idols
+[01:26:20.100 --> 01:26:23.180]   is only because I fantasize about me being them.
+[01:26:23.180 --> 01:26:26.460]   The little idol that will hold
+[01:26:26.460 --> 01:26:30.260]   is the selfish desire that wishes
+[01:26:30.260 --> 01:26:32.780]   I'll have more than what God gave me currently.
+[01:26:32.780 --> 01:26:36.380]   That I was better and I was different
+[01:26:36.380 --> 01:26:38.060]   than what God has blessed me now.
+[01:26:38.060 --> 01:26:42.220]   And God says, wash yourself of that regularly.
+[01:26:42.220 --> 01:26:46.660]   Put away the little thing you hide in your home.
+[01:26:46.660 --> 01:26:49.060]   Put away the fantasies
+[01:26:49.060 --> 01:26:52.220]   because I want you to be decided for me.
+[01:26:52.220 --> 01:26:53.060]   Cling to me.
+[01:26:53.060 --> 01:26:56.460]   And when he says, furthermore in verse 24,
+[01:26:56.460 --> 01:26:58.740]   so the people said to Joshua,
+[01:26:58.740 --> 01:27:02.020]   we will serve the Lord our God and we'll obey his voice.
+[01:27:02.020 --> 01:27:05.140]   So Joshua made a covenant with the people that day
+[01:27:05.140 --> 01:27:08.500]   and made for them a statute and an ordinance in Shechem.
+[01:27:08.500 --> 01:27:10.580]   Verse 26, and Joshua wrote these words
+[01:27:10.580 --> 01:27:12.500]   in the book of the law of God.
+[01:27:12.500 --> 01:27:14.940]   And he took a large stone
+[01:27:14.940 --> 01:27:17.060]   and set it up under the oak
+[01:27:17.060 --> 01:27:19.740]   that was by the sanctuary of the Lord.
+[01:27:19.740 --> 01:27:21.820]   Joshua said to all the people,
+[01:27:21.820 --> 01:27:24.860]   behold, this stone shall be a witness against us
+[01:27:24.860 --> 01:27:26.860]   for it has heard all the words of the Lord
+[01:27:26.860 --> 01:27:28.420]   which he spoke to us.
+[01:27:28.420 --> 01:27:31.260]   Thus it shall be for a witness against you
+[01:27:31.260 --> 01:27:35.620]   so that you do not deny your God.
+[01:27:35.620 --> 01:27:39.820]   Then Joshua dismissed the people each to his inheritance
+[01:27:39.820 --> 01:27:41.700]   and thus ends his sermon.
+[01:27:42.740 --> 01:27:45.180]   I wanna leave you with this encouragement.
+[01:27:45.180 --> 01:27:46.060]   It's a blessing.
+[01:27:46.060 --> 01:27:49.820]   I am so glad that nobody looked at Joshua and said,
+[01:27:49.820 --> 01:27:51.300]   hey, take it easy.
+[01:27:51.300 --> 01:27:54.020]   Quit yelling at us.
+[01:27:54.020 --> 01:27:55.640]   You're a dying old man.
+[01:27:55.640 --> 01:27:57.940]   We already fought, we're victorious.
+[01:27:57.940 --> 01:27:59.580]   What's wrong with you?
+[01:27:59.580 --> 01:28:02.100]   But instead they said, we will serve the Lord.
+[01:28:02.100 --> 01:28:04.860]   But did you notice something very strange
+[01:28:04.860 --> 01:28:06.900]   about this passage?
+[01:28:06.900 --> 01:28:09.240]   They said, we will serve the Lord.
+[01:28:09.240 --> 01:28:11.620]   And in order to commemorate that, what did they do?
+[01:28:11.620 --> 01:28:13.620]   They took a stone, a large stone,
+[01:28:13.620 --> 01:28:15.860]   and typically they have this pattern
+[01:28:15.860 --> 01:28:18.980]   where it says we take an uncut stone,
+[01:28:18.980 --> 01:28:22.740]   not set up by the tools of men
+[01:28:22.740 --> 01:28:26.220]   because just to signify that this is a God thing.
+[01:28:26.220 --> 01:28:30.940]   But Joshua says something really ridiculous.
+[01:28:30.940 --> 01:28:34.440]   I wanna make sure that you do not deny your God.
+[01:28:34.440 --> 01:28:37.580]   So let this stone be a witness against you.
+[01:28:37.580 --> 01:28:39.820]   This stone heard everything.
+[01:28:41.140 --> 01:28:41.980]   Isn't that weird?
+[01:28:41.980 --> 01:28:45.500]   It's kinda like me saying, hey guys,
+[01:28:45.500 --> 01:28:47.220]   you guys are gonna represent Ebal,
+[01:28:47.220 --> 01:28:49.100]   you're gonna represent Charism,
+[01:28:49.100 --> 01:28:51.660]   we're gonna make a decision today, let's do it.
+[01:28:51.660 --> 01:28:53.580]   And all of you said, yes, amen.
+[01:28:53.580 --> 01:28:56.780]   And I said, see, this table heard you.
+[01:28:56.780 --> 01:29:01.480]   How does that empower us to not deny God?
+[01:29:01.480 --> 01:29:03.460]   Because that, typically, that stone
+[01:29:03.460 --> 01:29:05.740]   represents the witness of law.
+[01:29:05.740 --> 01:29:09.380]   Covenant is setting a binding contract.
+[01:29:09.380 --> 01:29:10.420]   It's kinda like a will.
+[01:29:10.420 --> 01:29:14.700]   It's a binding, it's a instructional contract, yes?
+[01:29:14.700 --> 01:29:18.620]   The Old Testament saints,
+[01:29:18.620 --> 01:29:21.820]   I sometimes criticize them, but I shouldn't.
+[01:29:21.820 --> 01:29:25.920]   They were responding to the sermon and it was good.
+[01:29:25.920 --> 01:29:28.700]   But the power that they had to do it
+[01:29:28.700 --> 01:29:30.340]   was outside of them by the law,
+[01:29:30.340 --> 01:29:32.500]   the witness of a stone.
+[01:29:32.500 --> 01:29:38.180]   You and me, we have the sealing, the empowering,
+[01:29:38.180 --> 01:29:41.220]   and the very presence of the life of Christ.
+[01:29:41.220 --> 01:29:45.540]   You and me, we have the indwelling of the Spirit
+[01:29:45.540 --> 01:29:48.700]   that does not leave, it does not abide outside of us,
+[01:29:48.700 --> 01:29:50.220]   it's in us.
+[01:29:50.220 --> 01:29:52.420]   And by that Spirit, we don't have the law
+[01:29:52.420 --> 01:29:56.940]   outside of my heart, we have the law in our hearts.
+[01:29:56.940 --> 01:30:03.020]   We have so much more power, and that's an understatement.
+[01:30:03.020 --> 01:30:06.500]   We have so much more power that God has gifted to us
+[01:30:06.500 --> 01:30:08.400]   than the saints that we read of here.
+[01:30:08.400 --> 01:30:11.100]   It is a sad state of affairs, though,
+[01:30:11.100 --> 01:30:14.380]   that it sometimes just feels like I, myself,
+[01:30:14.380 --> 01:30:17.300]   and the people of our day, we're more afraid
+[01:30:17.300 --> 01:30:20.800]   of making outwardly expressions of commitment
+[01:30:20.800 --> 01:30:23.880]   and dedication to God than Old Testament saints.
+[01:30:23.880 --> 01:30:26.660]   You know what I mean?
+[01:30:26.660 --> 01:30:31.260]   We are afraid of saying, Lord, I wanna serve you,
+[01:30:31.260 --> 01:30:35.220]   I dedicate myself, I'm decided today in my heart and soul,
+[01:30:35.220 --> 01:30:37.100]   no matter what all my friends say,
+[01:30:37.100 --> 01:30:39.540]   no matter what all the people around me do,
+[01:30:39.540 --> 01:30:42.620]   I will serve you, God.
+[01:30:42.620 --> 01:30:45.020]   We're afraid to say stuff like that.
+[01:30:45.020 --> 01:30:45.940]   But why?
+[01:30:45.940 --> 01:30:49.660]   We have so much more than them.
+[01:30:49.660 --> 01:30:53.980]   And so I challenge you, you can say,
+[01:30:53.980 --> 01:30:58.500]   in the name of Christ, not me, but the life of Christ in me,
+[01:30:58.500 --> 01:31:00.080]   I will serve God.
+[01:31:00.080 --> 01:31:04.980]   I am decided, not me, but the Spirit in me.
+[01:31:04.980 --> 01:31:08.460]   Anything that is an offense to my God, I'll put away,
+[01:31:08.460 --> 01:31:10.060]   I'll kill it, actually.
+[01:31:10.060 --> 01:31:13.360]   And this day and the days to come,
+[01:31:13.360 --> 01:31:17.220]   I am decided in my heart to serve you.
+[01:31:17.220 --> 01:31:18.060]   Let's pray.
+[01:31:18.060 --> 01:31:26.060]   Lord, thank you.
+[01:31:26.060 --> 01:31:32.860]   We know, God, that from past events of history,
+[01:31:32.960 --> 01:31:35.160]   we learned valuable lessons,
+[01:31:35.160 --> 01:31:37.800]   that you as good father, good shepherd,
+[01:31:37.800 --> 01:31:40.240]   you always instructed in the right way.
+[01:31:40.240 --> 01:31:46.440]   But the law was powerless to make sinners,
+[01:31:46.440 --> 01:31:51.000]   to make the leopard lose its spots.
+[01:31:51.000 --> 01:31:53.280]   And in the end, they kept choosing sin,
+[01:31:53.280 --> 01:31:54.960]   and they kept choosing sin.
+[01:31:54.960 --> 01:31:59.320]   But Lord, we're encouraged today
+[01:31:59.320 --> 01:32:03.920]   that the call to remove ourselves from the stain of sin,
+[01:32:03.920 --> 01:32:05.960]   to be renewed in our minds,
+[01:32:05.960 --> 01:32:08.880]   and by the transforming of our hearts,
+[01:32:08.880 --> 01:32:12.640]   that we should offer up ourselves no longer to sin,
+[01:32:12.640 --> 01:32:15.040]   but God, completely to you, we hear that today,
+[01:32:15.040 --> 01:32:18.240]   and we know that for this incredible calling,
+[01:32:18.240 --> 01:32:20.540]   you have empowered us by the life of Christ.
+[01:32:20.540 --> 01:32:25.700]   So God, thank you so much for all the provisions
+[01:32:25.700 --> 01:32:28.400]   you give to us by your love and grace.
+[01:32:28.400 --> 01:32:30.120]   And by saying that then, God,
+[01:32:30.120 --> 01:32:33.280]   it's sometimes embarrassing and humbling
+[01:32:33.280 --> 01:32:37.200]   to think that even with all this,
+[01:32:37.200 --> 01:32:39.280]   Lord, temptation exists,
+[01:32:39.280 --> 01:32:40.920]   and we can feel our heart waver,
+[01:32:40.920 --> 01:32:44.560]   sometimes wanting the best of all things.
+[01:32:44.560 --> 01:32:48.200]   But Lord, help us to make a decisive choice.
+[01:32:48.200 --> 01:32:50.320]   God, we want your blessings and nothing more.
+[01:32:50.320 --> 01:32:52.120]   We thank you in Christ's name, amen.
+[01:32:52.120 --> 01:32:55.680]   - Let us stand together for the final song.
+[01:32:57.080 --> 01:32:59.660]   (gentle music)
+[01:32:59.660 --> 01:33:20.000]   ♪ Christ the sure steady anchor ♪
+[01:33:20.000 --> 01:33:24.640]   ♪ In the fury of the storm ♪
+[01:33:24.640 --> 01:33:29.400]   ♪ When the winds of doubt blow through me ♪
+[01:33:29.400 --> 01:33:34.120]   ♪ And my sails have all been torn ♪
+[01:33:34.120 --> 01:33:38.880]   ♪ In the suffering, in the sorrow ♪
+[01:33:38.880 --> 01:33:43.640]   ♪ When my sinking hopes are few ♪
+[01:33:43.640 --> 01:33:48.360]   ♪ I will hold fast to the anchor ♪
+[01:33:48.360 --> 01:33:53.360]   ♪ Which shall never be removed ♪
+[01:33:53.360 --> 01:33:55.940]   (gentle music)
+[01:33:55.940 --> 01:34:04.880]   ♪ Christ the sure steady anchor ♪
+[01:34:04.880 --> 01:34:09.640]   ♪ While the tempest rages on ♪
+[01:34:09.640 --> 01:34:14.400]   ♪ When temptation claims the battle ♪
+[01:34:14.400 --> 01:34:19.080]   ♪ And it seems the night has won ♪
+[01:34:19.080 --> 01:34:23.720]   ♪ We will still then cross the anchor ♪
+[01:34:23.720 --> 01:34:28.520]   ♪ Though I justly stand accused ♪
+[01:34:28.520 --> 01:34:33.160]   ♪ I will hold fast to the anchor ♪
+[01:34:33.160 --> 01:34:37.080]   ♪ Which shall never be removed ♪
+[01:34:37.080 --> 01:34:39.660]   (gentle music)
+[01:34:39.660 --> 01:34:48.840]   ♪ Christ the sure steady anchor ♪
+[01:34:49.800 --> 01:34:54.560]   ♪ Through the floods of unbelief ♪
+[01:34:54.560 --> 01:34:59.320]   ♪ Hopeless somehow, oh my soul now ♪
+[01:34:59.320 --> 01:35:04.040]   ♪ Lift your eyes to Calvary ♪
+[01:35:04.040 --> 01:35:08.760]   ♪ This my ballast of assurance ♪
+[01:35:08.760 --> 01:35:13.600]   ♪ See His love forever prove ♪
+[01:35:13.600 --> 01:35:18.240]   ♪ I will hold fast to the anchor ♪
+[01:35:18.240 --> 01:35:23.240]   ♪ Which shall never be removed ♪
+[01:35:23.240 --> 01:35:29.760]   ♪ Shall never be removed ♪
+[01:35:29.760 --> 01:35:32.760]   ♪ Never be removed ♪
+[01:35:32.760 --> 01:35:35.340]   (gentle music)
+[01:35:35.340 --> 01:35:44.320]   ♪ Christ the sure steady anchor ♪
+[01:35:44.320 --> 01:35:48.960]   ♪ As we face the wave of death ♪
+[01:35:48.960 --> 01:35:53.760]   ♪ When He strides with way to glory ♪
+[01:35:53.760 --> 01:35:58.480]   ♪ As we draw our final breath ♪
+[01:35:58.480 --> 01:36:03.200]   ♪ We will cross that great horizon ♪
+[01:36:03.200 --> 01:36:08.200]   ♪ Just behind Him I'm secure ♪
+[01:36:08.200 --> 01:36:12.720]   ♪ The calm in the bed ♪
+[01:36:12.720 --> 01:36:17.720]   ♪ Before the storms now we do ♪
+[01:36:17.720 --> 01:36:22.400]   ♪ Christ the sure of our salvation ♪
+[01:36:22.400 --> 01:36:27.400]   ♪ Ever faithful, ever true ♪
+[01:36:27.400 --> 01:36:32.560]   ♪ We will hold fast to the anchor ♪
+[01:36:32.560 --> 01:36:36.480]   ♪ It shall never be removed ♪
+[01:36:36.480 --> 01:36:42.280]   - Amen.
+[01:36:42.280 --> 01:36:44.120]   Let's bow our heads and pray together.
+[01:36:44.120 --> 01:36:48.240]   Our God, we again want to thank you
+[01:36:48.240 --> 01:36:51.520]   that you are truly good and we know this.
+[01:36:51.520 --> 01:36:54.080]   Thank you that your word stands firm
+[01:36:54.080 --> 01:36:57.680]   and you by your character, you never waver.
+[01:36:57.680 --> 01:36:59.920]   And so God, it only makes sense
+[01:36:59.920 --> 01:37:02.040]   and it's truly to our great benefit
+[01:37:02.040 --> 01:37:04.040]   that we would cling to you.
+[01:37:04.040 --> 01:37:06.880]   Help us, Father God, whether in this scenario
+[01:37:06.880 --> 01:37:10.760]   or that circumstance, whether we have a lot or little,
+[01:37:10.760 --> 01:37:13.800]   help us, God, to desire to be close to you
+[01:37:13.800 --> 01:37:16.520]   and to pursue you with all of our hearts.
+[01:37:16.520 --> 01:37:18.520]   And I now also with our heads bow,
+[01:37:18.520 --> 01:37:21.800]   pray for anybody in the room who is struggling,
+[01:37:21.800 --> 01:37:24.120]   perhaps at a fork in the road,
+[01:37:24.120 --> 01:37:26.480]   perhaps tempted to make choices
+[01:37:26.480 --> 01:37:29.360]   that they know will take them away from you.
+[01:37:29.360 --> 01:37:31.200]   Help them, Father God, to be strengthened
+[01:37:31.200 --> 01:37:34.840]   by the words that we found today this morning,
+[01:37:34.840 --> 01:37:38.280]   that God, even though we may have fears,
+[01:37:38.280 --> 01:37:40.880]   we may have our own reservations,
+[01:37:40.880 --> 01:37:42.920]   that when we do things your way
+[01:37:42.920 --> 01:37:44.440]   and in the end when we're close to you,
+[01:37:44.440 --> 01:37:46.160]   you will be our prize.
+[01:37:46.160 --> 01:37:51.040]   And God, as we decide, as we choose to serve you,
+[01:37:51.040 --> 01:37:52.840]   you will be our reward.
+[01:37:52.840 --> 01:37:55.600]   Now to him who is able to keep you from stumbling
+[01:37:55.600 --> 01:37:57.760]   and to make you stand in the presence of his glory,
+[01:37:57.760 --> 01:37:59.680]   blame us in great joy,
+[01:37:59.680 --> 01:38:01.240]   for the only God, our Savior,
+[01:38:01.240 --> 01:38:03.440]   through Jesus Christ, our Lord,
+[01:38:03.440 --> 01:38:06.400]   be glory, majesty, dominion, and authority
+[01:38:06.400 --> 01:38:08.880]   before all time and now and forever.
+[01:38:08.880 --> 01:38:09.720]   Amen.
+[01:38:09.720 --> 01:38:15.800]   ♪ God sent his Son ♪
+[01:38:15.800 --> 01:38:20.840]   ♪ They called him Jesus ♪
+[01:38:20.840 --> 01:38:25.920]   ♪ He came to love ♪
+[01:38:25.920 --> 01:38:30.800]   ♪ He went for gifts ♪
+[01:38:30.800 --> 01:38:35.600]   ♪ He lived and died ♪
+[01:38:35.600 --> 01:38:40.600]   ♪ To buy my heart ♪
+[01:38:40.600 --> 01:38:45.640]   ♪ An empty grave is there to prove ♪
+[01:38:45.640 --> 01:38:50.520]   ♪ My Savior lived ♪
+[01:38:50.520 --> 01:38:55.520]   ♪ Because he lived ♪
+[01:38:55.520 --> 01:39:00.400]   ♪ I can face tomorrow ♪
+[01:39:00.400 --> 01:39:05.320]   ♪ Because he lived ♪
+[01:39:05.320 --> 01:39:10.320]   ♪ All fear is gone ♪
+[01:39:10.320 --> 01:39:15.360]   ♪ Because I know ♪
+[01:39:15.360 --> 01:39:20.360]   ♪ He holds the future ♪
+[01:39:20.360 --> 01:39:24.960]   ♪ And life is worth the living ♪
+[01:39:24.960 --> 01:39:28.280]   ♪ Just because he lived ♪
+[01:39:28.280 --> 01:39:31.480]   Amen.
+[01:39:32.480 --> 01:39:35.640]   (audience chattering)
+[01:39:35.800 --> 01:39:38.120]   ♪ There is no more ♪
+[01:39:38.120 --> 01:39:42.480]   ♪ A whole heaven now to give ♪
+[01:39:42.480 --> 01:39:44.920]   ♪ He is my joy ♪
+[01:39:44.920 --> 01:39:49.000]   ♪ My righteousness and freedom ♪
+[01:39:49.000 --> 01:39:51.480]   ♪ My steadfast love ♪
+[01:39:51.480 --> 01:39:54.440]   ♪ My true love ♪
+[01:39:54.440 --> 01:39:55.840]   - Fasting Mark's birthday today.
+[01:39:55.840 --> 01:39:56.680]   - Hi.
+[01:39:56.680 --> 01:39:59.040]   Oh yeah, today.
+

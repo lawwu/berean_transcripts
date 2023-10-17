@@ -1,0 +1,1813 @@
+
+[00:00:00.000 --> 00:00:03.480]   [INTERPOSING VOICES]
+[00:00:03.480 --> 00:00:06.960]   [INTERPOSING VOICES]
+[00:00:06.960 --> 00:00:10.440]   [INTERPOSING VOICES]
+[00:00:10.440 --> 00:00:13.920]   [INTERPOSING VOICES]
+[00:00:13.920 --> 00:00:17.400]   [INTERPOSING VOICES]
+[00:00:17.400 --> 00:00:20.880]   [INTERPOSING VOICES]
+[00:00:20.880 --> 00:00:24.360]   [INTERPOSING VOICES]
+[00:00:24.360 --> 00:00:27.840]   [INTERPOSING VOICES]
+[00:00:27.840 --> 00:00:31.320]   [INTERPOSING VOICES]
+[00:00:31.320 --> 00:00:34.800]   [INTERPOSING VOICES]
+[00:00:34.800 --> 00:00:38.280]   [INTERPOSING VOICES]
+[00:00:38.280 --> 00:00:41.760]   [INTERPOSING VOICES]
+[00:00:41.760 --> 00:00:45.240]   [INTERPOSING VOICES]
+[00:00:45.240 --> 00:00:48.720]   [INTERPOSING VOICES]
+[00:00:48.720 --> 00:00:52.200]   [INTERPOSING VOICES]
+[00:00:52.200 --> 00:00:55.680]   [INTERPOSING VOICES]
+[00:00:55.680 --> 00:00:59.160]   [INTERPOSING VOICES]
+[00:00:59.160 --> 00:01:02.160]   [INTERPOSING VOICES]
+[00:01:02.160 --> 00:01:05.640]   [INTERPOSING VOICES]
+[00:01:05.640 --> 00:01:09.120]   [INTERPOSING VOICES]
+[00:01:09.120 --> 00:01:12.600]   [INTERPOSING VOICES]
+[00:01:12.600 --> 00:01:16.080]   [INTERPOSING VOICES]
+[00:01:16.080 --> 00:01:19.080]   [INTERPOSING VOICES]
+[00:01:19.080 --> 00:01:22.080]   [INTERPOSING VOICES]
+[00:01:22.080 --> 00:01:25.080]   [INTERPOSING VOICES]
+[00:01:25.080 --> 00:01:28.080]   [INTERPOSING VOICES]
+[00:01:28.080 --> 00:01:31.080]   [INTERPOSING VOICES]
+[00:01:31.080 --> 00:01:34.080]   [INTERPOSING VOICES]
+[00:01:35.080 --> 00:01:38.080]   [INTERPOSING VOICES]
+[00:01:38.080 --> 00:01:41.080]   [INTERPOSING VOICES]
+[00:01:41.080 --> 00:01:44.080]   [INTERPOSING VOICES]
+[00:01:44.080 --> 00:01:47.080]   [INTERPOSING VOICES]
+[00:01:47.080 --> 00:01:50.080]   [INTERPOSING VOICES]
+[00:01:50.080 --> 00:01:53.080]   [INTERPOSING VOICES]
+[00:01:53.080 --> 00:01:56.080]   [INTERPOSING VOICES]
+[00:01:56.080 --> 00:01:59.080]   [INTERPOSING VOICES]
+[00:01:59.080 --> 00:02:02.080]   [INTERPOSING VOICES]
+[00:02:03.080 --> 00:02:06.080]   [INTERPOSING VOICES]
+[00:02:06.080 --> 00:02:09.080]   [INTERPOSING VOICES]
+[00:02:09.080 --> 00:02:12.080]   [INTERPOSING VOICES]
+[00:02:12.080 --> 00:02:15.080]   [INTERPOSING VOICES]
+[00:02:15.080 --> 00:02:18.080]   [INTERPOSING VOICES]
+[00:02:18.080 --> 00:02:21.080]   [INTERPOSING VOICES]
+[00:02:21.080 --> 00:02:24.080]   [INTERPOSING VOICES]
+[00:02:24.080 --> 00:02:27.080]   [INTERPOSING VOICES]
+[00:02:27.080 --> 00:02:33.080]   [INTERPOSING VOICES]
+[00:02:33.080 --> 00:02:37.080]   [INTERPOSING VOICES]
+[00:02:37.080 --> 00:02:42.080]   [INTERPOSING VOICES]
+[00:02:42.080 --> 00:02:46.080]   [INTERPOSING VOICES]
+[00:02:46.080 --> 00:02:50.080]   [INTERPOSING VOICES]
+[00:02:51.080 --> 00:02:54.080]   [INTERPOSING VOICES]
+[00:02:54.080 --> 00:03:08.080]   [INTERPOSING VOICES]
+[00:03:08.080 --> 00:03:12.080]   [INTERPOSING VOICES]
+[00:03:12.080 --> 00:03:16.080]   [INTERPOSING VOICES]
+[00:03:16.080 --> 00:03:20.080]   [INTERPOSING VOICES]
+[00:03:20.080 --> 00:03:23.080]   [INTERPOSING VOICES]
+[00:03:23.080 --> 00:03:27.080]   [INTERPOSING VOICES]
+[00:03:27.080 --> 00:03:31.080]   [INTERPOSING VOICES]
+[00:03:31.080 --> 00:03:35.080]   [INTERPOSING VOICES]
+[00:03:35.080 --> 00:03:39.080]   [INTERPOSING VOICES]
+[00:03:39.080 --> 00:03:43.080]   [INTERPOSING VOICES]
+[00:03:43.080 --> 00:03:47.080]   [INTERPOSING VOICES]
+[00:03:48.080 --> 00:03:51.080]   [INTERPOSING VOICES]
+[00:03:51.080 --> 00:03:55.080]   [INTERPOSING VOICES]
+[00:03:55.080 --> 00:03:59.080]   [INTERPOSING VOICES]
+[00:03:59.080 --> 00:04:03.080]   [INTERPOSING VOICES]
+[00:04:03.080 --> 00:04:07.080]   [INTERPOSING VOICES]
+[00:04:07.080 --> 00:04:11.080]   [INTERPOSING VOICES]
+[00:04:11.080 --> 00:04:15.080]   [INTERPOSING VOICES]
+[00:04:16.080 --> 00:04:19.080]   [INTERPOSING VOICES]
+[00:04:19.080 --> 00:04:23.080]   [INTERPOSING VOICES]
+[00:04:23.080 --> 00:04:27.080]   [INTERPOSING VOICES]
+[00:04:27.080 --> 00:04:31.080]   [INTERPOSING VOICES]
+[00:04:31.080 --> 00:04:35.080]   [INTERPOSING VOICES]
+[00:04:35.080 --> 00:04:39.080]   [INTERPOSING VOICES]
+[00:04:39.080 --> 00:04:43.080]   [INTERPOSING VOICES]
+[00:04:44.080 --> 00:04:47.080]   [INTERPOSING VOICES]
+[00:04:47.080 --> 00:04:51.080]   [INTERPOSING VOICES]
+[00:04:51.080 --> 00:04:55.080]   [INTERPOSING VOICES]
+[00:04:55.080 --> 00:04:59.080]   [INTERPOSING VOICES]
+[00:04:59.080 --> 00:05:03.080]   [INTERPOSING VOICES]
+[00:05:03.080 --> 00:05:07.080]   [INTERPOSING VOICES]
+[00:05:07.080 --> 00:05:11.080]   [INTERPOSING VOICES]
+[00:05:12.080 --> 00:05:15.080]   [INTERPOSING VOICES]
+[00:05:15.080 --> 00:05:19.080]   [INTERPOSING VOICES]
+[00:05:19.080 --> 00:05:23.080]   [INTERPOSING VOICES]
+[00:05:23.080 --> 00:05:27.080]   [INTERPOSING VOICES]
+[00:05:27.080 --> 00:05:31.080]   [INTERPOSING VOICES]
+[00:05:31.080 --> 00:05:35.080]   [INTERPOSING VOICES]
+[00:05:35.080 --> 00:05:39.080]   [INTERPOSING VOICES]
+[00:05:40.080 --> 00:05:43.080]   [INTERPOSING VOICES]
+[00:05:43.080 --> 00:05:47.080]   [INTERPOSING VOICES]
+[00:05:47.080 --> 00:05:51.080]   [INTERPOSING VOICES]
+[00:05:51.080 --> 00:05:55.080]   [INTERPOSING VOICES]
+[00:05:55.080 --> 00:05:59.080]   [INTERPOSING VOICES]
+[00:05:59.080 --> 00:06:03.080]   [INTERPOSING VOICES]
+[00:06:03.080 --> 00:06:07.080]   [INTERPOSING VOICES]
+[00:06:08.080 --> 00:06:11.080]   [INTERPOSING VOICES]
+[00:06:11.080 --> 00:06:15.080]   [INTERPOSING VOICES]
+[00:06:15.080 --> 00:06:19.080]   [INTERPOSING VOICES]
+[00:06:19.080 --> 00:06:23.080]   [INTERPOSING VOICES]
+[00:06:23.080 --> 00:06:27.080]   [INTERPOSING VOICES]
+[00:06:27.080 --> 00:06:31.080]   [INTERPOSING VOICES]
+[00:06:31.080 --> 00:06:35.080]   [INTERPOSING VOICES]
+[00:06:36.080 --> 00:06:39.080]   [INTERPOSING VOICES]
+[00:06:39.080 --> 00:06:43.080]   [INTERPOSING VOICES]
+[00:06:43.080 --> 00:06:47.080]   [INTERPOSING VOICES]
+[00:06:47.080 --> 00:06:53.080]   All righty. Let's go ahead and bow our heads and go to prayer. Let's pray.
+[00:06:53.080 --> 00:07:04.080]   Heavenly Father, we each week desire to give to you our worship and God our appreciation.
+[00:07:05.080 --> 00:07:14.080]   As we gather in the midweek and the busyness of our schedules, we are so privileged and grateful that we get to hear your instruction,
+[00:07:14.080 --> 00:07:21.080]   be refreshed by your truth, and also God in the fellowship of observing your word and challenging one another,
+[00:07:21.080 --> 00:07:26.080]   we recognize God this is a true, true privilege for us, so thank you.
+[00:07:26.080 --> 00:07:33.080]   We pray also, knowing God that we have our own weaknesses, may it truly be times of strengthening for us.
+[00:07:34.080 --> 00:07:42.080]   And God, as in the word, Lord, you describe our walk through this life, as often, God, that sometimes we are stained
+[00:07:42.080 --> 00:07:50.080]   and often we become tainted by the things that are in the world, we pray for renewal and washing each day.
+[00:07:50.080 --> 00:07:56.080]   And so, God, we are again thankful and pray that that kind of spiritual work would happen in our time.
+[00:07:56.080 --> 00:08:01.080]   Lord, we thank you again and we lift these songs to you. It's in Christ's name. Amen.
+[00:08:01.080 --> 00:08:15.080]   [Music]
+[00:08:15.080 --> 00:08:17.080]   I will offer up my life.
+[00:08:19.080 --> 00:08:22.080]   I will offer up my life.
+[00:08:22.080 --> 00:08:25.080]   In spirit and truth.
+[00:08:25.080 --> 00:08:29.080]   Pouring out the oil of love.
+[00:08:29.080 --> 00:08:32.080]   As my worship to you.
+[00:08:32.080 --> 00:08:36.080]   In surrender I must give.
+[00:08:36.080 --> 00:08:39.080]   My every part.
+[00:08:39.080 --> 00:08:43.080]   Lord, receive the sacrifice.
+[00:08:43.080 --> 00:08:46.080]   Of a broken heart.
+[00:08:47.080 --> 00:08:50.080]   Jesus, what can I give?
+[00:08:50.080 --> 00:08:53.080]   What can I bring?
+[00:08:53.080 --> 00:08:56.080]   To so faithful a friend.
+[00:08:56.080 --> 00:09:00.080]   To so loving a King.
+[00:09:00.080 --> 00:09:04.080]   Savior, what can be said?
+[00:09:04.080 --> 00:09:07.080]   What can be sung?
+[00:09:07.080 --> 00:09:10.080]   As a praise of your name.
+[00:09:10.080 --> 00:09:14.080]   For the things you have done.
+[00:09:15.080 --> 00:09:18.080]   Though my words could not tell.
+[00:09:18.080 --> 00:09:22.080]   Not even in part.
+[00:09:22.080 --> 00:09:28.080]   Of the debt of love that is owed.
+[00:09:28.080 --> 00:09:32.080]   By this thankful heart.
+[00:09:32.080 --> 00:09:42.080]   [Music]
+[00:09:42.080 --> 00:09:43.080]   You deserve it.
+[00:09:44.080 --> 00:09:46.080]   [Music]
+[00:09:46.080 --> 00:09:49.080]   You deserve my every breath.
+[00:09:49.080 --> 00:09:52.080]   For you pay the great cost.
+[00:09:52.080 --> 00:09:56.080]   Giving up your life to die.
+[00:09:56.080 --> 00:09:59.080]   Even death on a cross.
+[00:09:59.080 --> 00:10:03.080]   You took all my shame away.
+[00:10:03.080 --> 00:10:06.080]   Bare defeat in my sin.
+[00:10:06.080 --> 00:10:10.080]   Open up the gates of heaven.
+[00:10:10.080 --> 00:10:13.080]   And have beckoned me in.
+[00:10:13.080 --> 00:10:17.080]   Jesus, what can I give?
+[00:10:17.080 --> 00:10:20.080]   What can I bring?
+[00:10:20.080 --> 00:10:24.080]   To so faithful a friend.
+[00:10:24.080 --> 00:10:27.080]   To so loving a King.
+[00:10:27.080 --> 00:10:31.080]   Savior, what can be said?
+[00:10:31.080 --> 00:10:34.080]   What can be sung?
+[00:10:34.080 --> 00:10:38.080]   As a praise of your name.
+[00:10:38.080 --> 00:10:41.080]   For the things you have done.
+[00:10:42.080 --> 00:10:45.080]   Though my words could not tell.
+[00:10:45.080 --> 00:10:49.080]   Not even in part.
+[00:10:49.080 --> 00:10:55.080]   Of the debt of love that is owed.
+[00:10:55.080 --> 00:10:59.080]   By this thankful heart.
+[00:10:59.080 --> 00:11:03.080]   Jesus, what can I give?
+[00:11:03.080 --> 00:11:06.080]   What can I bring?
+[00:11:06.080 --> 00:11:10.080]   To so faithful a friend.
+[00:11:11.080 --> 00:11:13.080]   To so loving a King.
+[00:11:13.080 --> 00:11:17.080]   Savior, what can be said?
+[00:11:17.080 --> 00:11:20.080]   What can be sung?
+[00:11:20.080 --> 00:11:24.080]   As a praise of your name.
+[00:11:24.080 --> 00:11:27.080]   For the things you have done.
+[00:11:27.080 --> 00:11:31.080]   Though my words could not tell.
+[00:11:31.080 --> 00:11:35.080]   Not even in part.
+[00:11:37.080 --> 00:11:42.080]   Of the debt of love that is owed.
+[00:11:42.080 --> 00:11:46.080]   By this thankful heart.
+[00:12:03.080 --> 00:12:09.080]   Jesus, I my cross have taken.
+[00:12:09.080 --> 00:12:16.080]   All to leave and follow thee.
+[00:12:16.080 --> 00:12:23.080]   Dusted to despise, forsaken.
+[00:12:23.080 --> 00:12:30.080]   Thou from hence my all shalt be.
+[00:12:31.080 --> 00:12:37.080]   Perish every fond ambition.
+[00:12:37.080 --> 00:12:44.080]   All I sought or hoped or known.
+[00:12:44.080 --> 00:12:50.080]   Yet how rich is my condition.
+[00:12:50.080 --> 00:13:00.080]   God and heaven are still my own.
+[00:13:01.080 --> 00:13:03.080]   Let the world.
+[00:13:03.080 --> 00:13:11.080]   Let the world despise and leave me.
+[00:13:11.080 --> 00:13:18.080]   They have left my Savior too.
+[00:13:18.080 --> 00:13:25.080]   Human hearts and looks deceive me.
+[00:13:26.080 --> 00:13:32.080]   Thou art not like them, assured.
+[00:13:32.080 --> 00:13:39.080]   O how loud a smile upon me.
+[00:13:39.080 --> 00:13:46.080]   God of wisdom, love and might.
+[00:13:46.080 --> 00:13:53.080]   Fools may hate and friends disown me.
+[00:13:54.080 --> 00:14:03.080]   Though thy face and all is bright.
+[00:14:03.080 --> 00:14:07.080]   Man may trouble.
+[00:14:07.080 --> 00:14:14.080]   Man may trouble and distress me.
+[00:14:14.080 --> 00:14:21.080]   Twill but drive me to thy breast.
+[00:14:22.080 --> 00:14:28.080]   Life with trials hard may press me.
+[00:14:28.080 --> 00:14:35.080]   Heaven will bring me sweeter rest.
+[00:14:35.080 --> 00:14:42.080]   Hope is not in grief to haunt me.
+[00:14:42.080 --> 00:14:48.080]   While thy love is left to me.
+[00:14:49.080 --> 00:14:55.080]   Oats were not in joy to charm me.
+[00:14:55.080 --> 00:15:05.080]   Were thy joy unmissed with thee.
+[00:15:05.080 --> 00:15:16.080]   Haste thee on from grace to glory.
+[00:15:17.080 --> 00:15:23.080]   Armed by faith and winged by prayer.
+[00:15:23.080 --> 00:15:30.080]   Heaven's eternal days before thee.
+[00:15:30.080 --> 00:15:37.080]   God's own hand shall guide thee there.
+[00:15:37.080 --> 00:15:44.080]   Soon shall close thy earthly mission.
+[00:15:45.080 --> 00:15:51.080]   Soon shall pass thy pilgrim days.
+[00:15:51.080 --> 00:15:58.080]   Hope shall change to glad fruition.
+[00:15:58.080 --> 00:16:08.080]   Faith to sigh and prayer to praise.
+[00:16:08.080 --> 00:16:13.080]   (upbeat music)
+[00:16:13.080 --> 00:16:22.080]   - Amen.
+[00:16:22.080 --> 00:16:24.080]   All right, at this time,
+[00:16:24.080 --> 00:16:26.080]   I just have a couple of announcements for everyone.
+[00:16:26.080 --> 00:16:30.080]   So you've, last week I announced
+[00:16:30.080 --> 00:16:32.080]   that this Bible study session
+[00:16:32.080 --> 00:16:34.080]   is gonna be ending on the 14th.
+[00:16:34.080 --> 00:16:36.080]   So be sure to review.
+[00:16:36.080 --> 00:16:38.080]   Pastor Peter's gonna give instruction
+[00:16:38.080 --> 00:16:40.080]   on reviewing the entire letter.
+[00:16:40.080 --> 00:16:41.080]   And please make sure to come ready
+[00:16:41.080 --> 00:16:44.080]   to just kind of finish off strong, okay?
+[00:16:44.080 --> 00:16:46.080]   And then today we're gonna start
+[00:16:46.080 --> 00:16:50.080]   and open up our Bible study sign up for the next session.
+[00:16:50.080 --> 00:16:52.080]   It would be really helpful if you guys
+[00:16:52.080 --> 00:16:54.080]   just go ahead and sign up today.
+[00:16:54.080 --> 00:16:57.080]   So one, we're gonna post it on our Facebook
+[00:16:57.080 --> 00:16:59.080]   and you're gonna get a direct email
+[00:16:59.080 --> 00:17:01.080]   as participants of this study.
+[00:17:01.080 --> 00:17:03.080]   Make sure you just sign up.
+[00:17:03.080 --> 00:17:08.080]   You do have the option of requesting the same group
+[00:17:08.080 --> 00:17:10.080]   or sometimes people wanna mix it up
+[00:17:10.080 --> 00:17:11.080]   and fellowship with different people.
+[00:17:11.080 --> 00:17:14.080]   So you can request that on the sign up itself, okay?
+[00:17:14.080 --> 00:17:15.080]   All right, at this time,
+[00:17:15.080 --> 00:17:17.080]   please go ahead and jump into your discussion time.
+[00:17:17.080 --> 00:17:18.080]   Thank you.
+[00:17:19.080 --> 00:17:23.080]   (audience chattering)
+[00:17:23.080 --> 00:17:26.080]   (audience chattering)
+[00:17:27.080 --> 00:17:30.080]   (audience chattering)
+[00:17:30.080 --> 00:17:33.080]   (audience chattering)
+[00:17:34.080 --> 00:17:37.080]   (audience chattering)
+[00:17:37.080 --> 00:17:42.080]   (audience chattering)
+[00:17:42.080 --> 00:17:48.080]   (audience chattering)
+[00:17:48.080 --> 00:17:53.080]   (audience chattering)
+[00:17:53.080 --> 00:18:00.080]   (audience chattering)
+[00:18:01.080 --> 00:18:04.080]   (audience chattering)
+[00:18:04.080 --> 00:18:14.080]   (audience chattering)
+[00:18:14.080 --> 00:18:24.080]   (audience chattering)
+[00:18:25.080 --> 00:18:28.080]   (audience chattering)
+[00:18:28.080 --> 00:18:36.080]   (audience chattering)
+[00:18:36.080 --> 00:18:42.080]   (audience chattering)
+[00:18:42.080 --> 00:18:47.080]   (audience chattering)
+[00:18:47.080 --> 00:18:52.080]   (audience chattering)
+[00:18:53.080 --> 00:18:56.080]   (audience chattering)
+[00:18:56.080 --> 00:19:01.080]   (audience chattering)
+[00:19:01.080 --> 00:19:07.080]   (audience chattering)
+[00:19:07.080 --> 00:19:12.080]   (audience chattering)
+[00:19:12.080 --> 00:19:17.080]   (audience chattering)
+[00:19:19.080 --> 00:19:22.080]   (audience chattering)
+[00:19:22.080 --> 00:19:27.080]   (audience chattering)
+[00:19:27.080 --> 00:19:32.080]   (audience chattering)
+[00:19:32.080 --> 00:19:37.080]   (audience chattering)
+[00:19:37.080 --> 00:19:42.080]   (audience chattering)
+[00:19:42.080 --> 00:19:46.080]   (audience chattering)
+[00:19:48.080 --> 00:19:51.080]   (audience chattering)
+[00:19:51.080 --> 00:19:56.080]   (audience chattering)
+[00:19:56.080 --> 00:20:01.080]   (audience chattering)
+[00:20:01.080 --> 00:20:07.080]   (audience chattering)
+[00:20:07.080 --> 00:20:13.080]   (audience chattering)
+[00:20:15.080 --> 00:20:18.080]   (audience chattering)
+[00:20:18.080 --> 00:20:25.080]   (audience chattering)
+[00:20:25.080 --> 00:20:30.080]   (audience chattering)
+[00:20:30.080 --> 00:20:35.080]   (audience chattering)
+[00:20:35.080 --> 00:20:41.080]   (audience chattering)
+[00:20:43.080 --> 00:20:46.080]   (audience chattering)
+[00:20:46.080 --> 00:20:53.080]   (audience chattering)
+[00:20:53.080 --> 00:20:59.080]   (audience chattering)
+[00:20:59.080 --> 00:21:04.080]   (audience chattering)
+[00:21:04.080 --> 00:21:09.080]   (audience chattering)
+[00:21:11.080 --> 00:21:14.080]   (audience chattering)
+[00:21:14.080 --> 00:21:20.080]   (audience chattering)
+[00:21:20.080 --> 00:21:26.080]   (audience chattering)
+[00:21:26.080 --> 00:21:31.080]   (audience chattering)
+[00:21:31.080 --> 00:21:36.080]   (audience chattering)
+[00:21:38.080 --> 00:21:41.080]   (audience chattering)
+[00:21:41.080 --> 00:21:46.080]   (audience chattering)
+[00:21:46.080 --> 00:21:50.080]   (audience chattering)
+[00:21:50.080 --> 00:21:55.080]   (audience chattering)
+[00:21:55.080 --> 00:22:00.080]   (audience chattering)
+[00:22:00.080 --> 00:22:05.080]   (audience chattering)
+[00:22:07.080 --> 00:22:10.080]   (audience chattering)
+[00:22:10.080 --> 00:22:15.080]   (audience chattering)
+[00:22:15.080 --> 00:22:20.080]   (audience chattering)
+[00:22:20.080 --> 00:22:25.080]   (audience chattering)
+[00:22:25.080 --> 00:22:32.080]   (audience chattering)
+[00:22:35.080 --> 00:22:38.080]   (audience chattering)
+[00:22:38.080 --> 00:22:43.080]   (audience chattering)
+[00:22:43.080 --> 00:22:46.080]   (audience chattering)
+[00:22:46.080 --> 00:22:49.080]   (audience chattering)
+[00:22:49.080 --> 00:22:52.080]   (audience chattering)
+[00:22:52.080 --> 00:22:55.080]   (audience chattering)
+[00:22:55.080 --> 00:22:58.080]   (audience chattering)
+[00:22:58.080 --> 00:23:01.080]   (audience chattering)
+[00:23:01.080 --> 00:23:04.080]   (audience chattering)
+[00:23:04.080 --> 00:23:07.080]   (audience chattering)
+[00:23:07.080 --> 00:23:10.080]   (audience chattering)
+[00:23:10.080 --> 00:23:13.080]   (audience chattering)
+[00:23:13.080 --> 00:23:16.080]   (audience chattering)
+[00:23:16.080 --> 00:23:19.080]   (audience chattering)
+[00:23:19.080 --> 00:23:22.080]   (audience chattering)
+[00:23:22.080 --> 00:23:25.080]   (audience chattering)
+[00:23:25.080 --> 00:23:28.080]   (audience chattering)
+[00:23:28.080 --> 00:23:31.080]   (audience chattering)
+[00:23:31.080 --> 00:23:34.080]   (audience chattering)
+[00:23:34.080 --> 00:23:37.080]   (audience chattering)
+[00:23:37.080 --> 00:23:40.080]   (audience chattering)
+[00:23:40.080 --> 00:23:43.080]   (audience chattering)
+[00:23:43.080 --> 00:23:46.080]   (audience chattering)
+[00:23:46.080 --> 00:23:49.080]   (audience chattering)
+[00:23:49.080 --> 00:23:52.080]   (audience chattering)
+[00:23:52.080 --> 00:23:55.080]   (audience chattering)
+[00:23:55.080 --> 00:23:58.080]   (audience chattering)
+[00:23:58.080 --> 00:24:01.080]   (audience chattering)
+[00:24:01.080 --> 00:24:04.080]   (audience chattering)
+[00:24:04.080 --> 00:24:07.080]   (audience chattering)
+[00:24:07.080 --> 00:24:10.080]   (audience chattering)
+[00:24:10.080 --> 00:24:13.080]   (audience chattering)
+[00:24:13.080 --> 00:24:16.080]   (audience chattering)
+[00:24:16.080 --> 00:24:19.080]   (audience chattering)
+[00:24:19.080 --> 00:24:22.080]   (audience chattering)
+[00:24:22.080 --> 00:24:25.080]   (audience chattering)
+[00:24:25.080 --> 00:24:28.080]   (audience chattering)
+[00:24:28.080 --> 00:24:31.080]   (audience chattering)
+[00:24:31.080 --> 00:24:34.080]   (audience chattering)
+[00:24:34.080 --> 00:24:37.080]   (audience chattering)
+[00:24:37.080 --> 00:24:40.080]   (audience chattering)
+[00:24:40.080 --> 00:24:43.080]   (audience chattering)
+[00:24:43.080 --> 00:24:46.080]   (audience chattering)
+[00:24:46.080 --> 00:24:49.080]   (audience chattering)
+[00:24:49.080 --> 00:24:52.080]   (audience chattering)
+[00:24:52.080 --> 00:24:55.080]   (audience chattering)
+[00:24:55.080 --> 00:24:58.080]   (audience chattering)
+[00:24:58.080 --> 00:25:01.080]   (audience chattering)
+[00:25:01.080 --> 00:25:04.080]   (audience chattering)
+[00:25:04.080 --> 00:25:07.080]   (audience chattering)
+[00:25:07.080 --> 00:25:10.080]   (audience chattering)
+[00:25:10.080 --> 00:25:13.080]   (audience chattering)
+[00:25:13.080 --> 00:25:16.080]   (audience chattering)
+[00:25:16.080 --> 00:25:19.080]   (audience chattering)
+[00:25:19.080 --> 00:25:22.080]   (audience chattering)
+[00:25:22.080 --> 00:25:25.080]   (audience chattering)
+[00:25:25.080 --> 00:25:28.080]   (audience chattering)
+[00:25:28.080 --> 00:25:31.080]   (audience chattering)
+[00:25:31.080 --> 00:25:34.080]   (audience chattering)
+[00:25:34.080 --> 00:25:37.080]   (audience chattering)
+[00:25:37.080 --> 00:25:40.080]   (audience chattering)
+[00:25:40.080 --> 00:25:43.080]   (audience chattering)
+[00:25:43.080 --> 00:25:46.080]   (audience chattering)
+[00:25:46.080 --> 00:25:49.080]   (audience chattering)
+[00:25:49.080 --> 00:25:52.080]   (audience chattering)
+[00:25:52.080 --> 00:25:55.080]   (audience chattering)
+[00:25:55.080 --> 00:25:58.080]   (audience chattering)
+[00:25:58.080 --> 00:26:01.080]   (audience chattering)
+[00:26:01.080 --> 00:26:04.080]   (audience chattering)
+[00:26:04.080 --> 00:26:07.080]   (audience chattering)
+[00:26:07.080 --> 00:26:10.080]   (audience chattering)
+[00:26:10.080 --> 00:26:13.080]   (audience chattering)
+[00:26:13.080 --> 00:26:16.080]   (audience chattering)
+[00:26:16.080 --> 00:26:19.080]   (audience chattering)
+[00:26:19.080 --> 00:26:22.080]   (audience chattering)
+[00:26:22.080 --> 00:26:25.080]   (audience chattering)
+[00:26:25.080 --> 00:26:28.080]   (audience chattering)
+[00:26:28.080 --> 00:26:31.080]   (audience chattering)
+[00:26:31.080 --> 00:26:34.080]   (audience chattering)
+[00:26:34.080 --> 00:26:37.080]   (audience chattering)
+[00:26:37.080 --> 00:26:40.080]   (audience chattering)
+[00:26:40.080 --> 00:26:43.080]   (audience chattering)
+[00:26:43.080 --> 00:26:46.080]   (audience chattering)
+[00:26:46.080 --> 00:26:49.080]   (audience chattering)
+[00:26:49.080 --> 00:26:52.080]   (audience chattering)
+[00:26:52.080 --> 00:26:55.080]   (audience chattering)
+[00:26:55.080 --> 00:26:58.080]   (audience chattering)
+[00:26:58.080 --> 00:27:01.080]   (audience chattering)
+[00:27:01.080 --> 00:27:04.080]   (audience chattering)
+[00:27:04.080 --> 00:27:07.080]   (audience chattering)
+[00:27:07.080 --> 00:27:10.080]   (audience chattering)
+[00:27:10.080 --> 00:27:13.080]   (audience chattering)
+[00:27:13.080 --> 00:27:16.080]   (audience chattering)
+[00:27:16.080 --> 00:27:19.080]   (audience chattering)
+[00:27:19.080 --> 00:27:22.080]   (audience chattering)
+[00:27:22.080 --> 00:27:25.080]   (audience chattering)
+[00:27:25.080 --> 00:27:28.080]   (audience chattering)
+[00:27:28.080 --> 00:27:31.080]   (audience chattering)
+[00:27:31.080 --> 00:27:34.080]   (audience chattering)
+[00:27:34.080 --> 00:27:37.080]   (audience chattering)
+[00:27:37.080 --> 00:27:40.080]   (audience chattering)
+[00:27:40.080 --> 00:27:43.080]   (audience chattering)
+[00:27:43.080 --> 00:27:46.080]   (audience chattering)
+[00:27:46.080 --> 00:27:49.080]   (audience chattering)
+[00:27:49.080 --> 00:27:52.080]   (audience chattering)
+[00:27:52.080 --> 00:27:55.080]   (audience chattering)
+[00:27:55.080 --> 00:27:58.080]   (audience chattering)
+[00:27:58.080 --> 00:28:01.080]   (audience chattering)
+[00:28:01.080 --> 00:28:04.080]   (audience chattering)
+[00:28:04.080 --> 00:28:07.080]   (audience chattering)
+[00:28:07.080 --> 00:28:10.080]   (audience chattering)
+[00:28:10.080 --> 00:28:13.080]   (audience chattering)
+[00:28:13.080 --> 00:28:16.080]   (audience chattering)
+[00:28:16.080 --> 00:28:19.080]   (audience chattering)
+[00:28:19.080 --> 00:28:22.080]   (audience chattering)
+[00:28:22.080 --> 00:28:25.080]   (audience chattering)
+[00:28:25.080 --> 00:28:28.080]   (audience chattering)
+[00:28:28.080 --> 00:28:31.080]   (audience chattering)
+[00:28:31.080 --> 00:28:34.080]   (audience chattering)
+[00:28:34.080 --> 00:28:37.080]   (audience chattering)
+[00:28:37.080 --> 00:28:40.080]   (audience chattering)
+[00:28:40.080 --> 00:28:43.080]   (audience chattering)
+[00:28:43.080 --> 00:28:46.080]   (audience chattering)
+[00:28:46.080 --> 00:28:49.080]   (audience chattering)
+[00:28:49.080 --> 00:28:52.080]   (audience chattering)
+[00:28:52.080 --> 00:28:55.080]   (audience chattering)
+[00:28:55.080 --> 00:28:58.080]   (audience chattering)
+[00:28:58.080 --> 00:29:01.080]   (audience chattering)
+[00:29:01.080 --> 00:29:04.080]   (audience chattering)
+[00:29:04.080 --> 00:29:07.080]   (audience chattering)
+[00:29:07.080 --> 00:29:10.080]   (audience chattering)
+[00:29:10.080 --> 00:29:13.080]   (audience chattering)
+[00:29:13.080 --> 00:29:16.080]   (audience chattering)
+[00:29:16.080 --> 00:29:19.080]   (audience chattering)
+[00:29:19.080 --> 00:29:22.080]   (audience chattering)
+[00:29:22.080 --> 00:29:25.080]   (audience chattering)
+[00:29:25.080 --> 00:29:28.080]   (audience chattering)
+[00:29:28.080 --> 00:29:31.080]   (audience chattering)
+[00:29:31.080 --> 00:29:34.080]   (audience chattering)
+[00:29:34.080 --> 00:29:37.080]   (audience chattering)
+[00:29:37.080 --> 00:29:40.080]   (audience chattering)
+[00:29:40.080 --> 00:29:43.080]   (audience chattering)
+[00:29:43.080 --> 00:29:46.080]   (audience chattering)
+[00:29:46.080 --> 00:29:49.080]   (audience chattering)
+[00:29:49.080 --> 00:29:52.080]   (audience chattering)
+[00:29:52.080 --> 00:29:55.080]   (audience chattering)
+[00:29:55.080 --> 00:29:58.080]   (audience chattering)
+[00:29:58.080 --> 00:30:01.080]   (audience chattering)
+[00:30:01.080 --> 00:30:04.080]   (audience chattering)
+[00:30:04.080 --> 00:30:07.080]   (audience chattering)
+[00:30:07.080 --> 00:30:10.080]   (audience chattering)
+[00:30:10.080 --> 00:30:13.080]   (audience chattering)
+[00:30:13.080 --> 00:30:16.080]   (audience chattering)
+[00:30:16.080 --> 00:30:19.080]   (audience chattering)
+[00:30:19.080 --> 00:30:22.080]   (audience chattering)
+[00:30:22.080 --> 00:30:25.080]   (audience chattering)
+[00:30:25.080 --> 00:30:28.080]   (audience chattering)
+[00:30:28.080 --> 00:30:31.080]   (audience chattering)
+[00:30:31.080 --> 00:30:34.080]   (audience chattering)
+[00:30:34.080 --> 00:30:37.080]   (audience chattering)
+[00:30:37.080 --> 00:30:40.080]   (audience chattering)
+[00:30:40.080 --> 00:30:43.080]   (audience chattering)
+[00:30:43.080 --> 00:30:46.080]   (audience chattering)
+[00:30:46.080 --> 00:30:49.080]   (audience chattering)
+[00:30:49.080 --> 00:30:52.080]   (audience chattering)
+[00:30:52.080 --> 00:30:55.080]   (audience chattering)
+[00:30:55.080 --> 00:30:58.080]   (audience chattering)
+[00:30:58.080 --> 00:31:01.080]   (audience chattering)
+[00:31:01.080 --> 00:31:04.080]   (audience chattering)
+[00:31:04.080 --> 00:31:07.080]   (audience chattering)
+[00:31:07.080 --> 00:31:10.080]   (audience chattering)
+[00:31:10.080 --> 00:31:13.080]   (audience chattering)
+[00:31:13.080 --> 00:31:16.080]   (audience chattering)
+[00:31:16.080 --> 00:31:19.080]   (audience chattering)
+[00:31:19.080 --> 00:31:22.080]   (audience chattering)
+[00:31:22.080 --> 00:31:25.080]   (audience chattering)
+[00:31:25.080 --> 00:31:28.080]   (audience chattering)
+[00:31:28.080 --> 00:31:31.080]   (audience chattering)
+[00:31:31.080 --> 00:31:34.080]   (audience chattering)
+[00:31:34.080 --> 00:31:37.080]   (audience chattering)
+[00:31:37.080 --> 00:31:40.080]   (audience chattering)
+[00:31:40.080 --> 00:31:43.080]   (audience chattering)
+[00:31:43.080 --> 00:31:46.080]   (audience chattering)
+[00:31:46.080 --> 00:31:49.080]   (audience chattering)
+[00:31:49.080 --> 00:31:52.080]   (audience chattering)
+[00:31:52.080 --> 00:31:55.080]   (audience chattering)
+[00:31:55.080 --> 00:31:58.080]   (audience chattering)
+[00:31:58.080 --> 00:32:01.080]   (audience chattering)
+[00:32:01.080 --> 00:32:04.080]   (audience chattering)
+[00:32:04.080 --> 00:32:07.080]   (audience chattering)
+[00:32:07.080 --> 00:32:10.080]   (audience chattering)
+[00:32:10.080 --> 00:32:13.080]   (audience chattering)
+[00:32:13.080 --> 00:32:16.080]   (audience chattering)
+[00:32:16.080 --> 00:32:19.080]   (audience chattering)
+[00:32:19.080 --> 00:32:22.080]   (audience chattering)
+[00:32:22.080 --> 00:32:25.080]   (audience chattering)
+[00:32:25.080 --> 00:32:28.080]   (audience chattering)
+[00:32:28.080 --> 00:32:31.080]   (audience chattering)
+[00:32:31.080 --> 00:32:34.080]   (audience chattering)
+[00:32:34.080 --> 00:32:37.080]   (audience chattering)
+[00:32:37.080 --> 00:32:40.080]   (audience chattering)
+[00:32:40.080 --> 00:32:43.080]   (audience chattering)
+[00:32:43.080 --> 00:32:46.080]   (audience chattering)
+[00:32:46.080 --> 00:32:49.080]   (audience chattering)
+[00:32:49.080 --> 00:32:52.080]   (audience chattering)
+[00:32:52.080 --> 00:32:55.080]   (audience chattering)
+[00:32:55.080 --> 00:32:58.080]   (audience chattering)
+[00:32:58.080 --> 00:33:01.080]   (audience chattering)
+[00:33:01.080 --> 00:33:04.080]   (audience chattering)
+[00:33:04.080 --> 00:33:07.080]   (audience chattering)
+[00:33:07.080 --> 00:33:10.080]   (audience chattering)
+[00:33:10.080 --> 00:33:13.080]   (audience chattering)
+[00:33:13.080 --> 00:33:16.080]   (audience chattering)
+[00:33:16.080 --> 00:33:19.080]   (audience chattering)
+[00:33:19.080 --> 00:33:22.080]   (audience chattering)
+[00:33:22.080 --> 00:33:25.080]   (audience chattering)
+[00:33:25.080 --> 00:33:28.080]   (audience chattering)
+[00:33:28.080 --> 00:33:31.080]   (audience chattering)
+[00:33:31.080 --> 00:33:34.080]   (audience chattering)
+[00:33:34.080 --> 00:33:37.080]   (audience chattering)
+[00:33:37.080 --> 00:33:40.080]   (audience chattering)
+[00:33:40.080 --> 00:33:43.080]   (audience chattering)
+[00:33:43.080 --> 00:33:46.080]   (audience chattering)
+[00:33:46.080 --> 00:33:49.080]   (audience chattering)
+[00:33:49.080 --> 00:33:52.080]   (audience chattering)
+[00:33:52.080 --> 00:33:55.080]   (audience chattering)
+[00:33:55.080 --> 00:33:58.080]   (audience chattering)
+[00:33:58.080 --> 00:34:01.080]   (audience chattering)
+[00:34:01.080 --> 00:34:04.080]   (audience chattering)
+[00:34:04.080 --> 00:34:07.080]   (audience chattering)
+[00:34:07.080 --> 00:34:10.080]   (audience chattering)
+[00:34:10.080 --> 00:34:13.080]   (audience chattering)
+[00:34:13.080 --> 00:34:16.080]   (audience chattering)
+[00:34:16.080 --> 00:34:19.080]   (audience chattering)
+[00:34:19.080 --> 00:34:22.080]   (audience chattering)
+[00:34:22.080 --> 00:34:25.080]   (audience chattering)
+[00:34:25.080 --> 00:34:28.080]   (audience chattering)
+[00:34:28.080 --> 00:34:31.080]   (audience chattering)
+[00:34:31.080 --> 00:34:34.080]   (audience chattering)
+[00:34:34.080 --> 00:34:37.080]   (audience chattering)
+[00:34:37.080 --> 00:34:40.080]   (audience chattering)
+[00:34:40.080 --> 00:34:43.080]   (audience chattering)
+[00:34:43.080 --> 00:34:46.080]   (audience chattering)
+[00:34:46.080 --> 00:34:49.080]   (audience chattering)
+[00:34:49.080 --> 00:34:52.080]   (audience chattering)
+[00:34:52.080 --> 00:34:55.080]   (audience chattering)
+[00:34:55.080 --> 00:34:58.080]   (audience chattering)
+[00:34:58.080 --> 00:35:01.080]   (audience chattering)
+[00:35:01.080 --> 00:35:04.080]   (audience chattering)
+[00:35:04.080 --> 00:35:07.080]   (audience chattering)
+[00:35:07.080 --> 00:35:10.080]   (audience chattering)
+[00:35:10.080 --> 00:35:13.080]   (audience chattering)
+[00:35:13.080 --> 00:35:16.080]   (audience chattering)
+[00:35:16.080 --> 00:35:19.080]   (audience chattering)
+[00:35:19.080 --> 00:35:22.080]   (audience chattering)
+[00:35:22.080 --> 00:35:25.080]   (audience chattering)
+[00:35:25.080 --> 00:35:28.080]   (audience chattering)
+[00:35:28.080 --> 00:35:31.080]   (audience chattering)
+[00:35:31.080 --> 00:35:34.080]   (audience chattering)
+[00:35:34.080 --> 00:35:37.080]   (audience chattering)
+[00:35:37.080 --> 00:35:40.080]   (audience chattering)
+[00:35:40.080 --> 00:35:43.080]   (audience chattering)
+[00:35:43.080 --> 00:35:46.080]   (audience chattering)
+[00:35:46.080 --> 00:35:49.080]   (audience chattering)
+[00:35:49.080 --> 00:35:52.080]   (audience chattering)
+[00:35:52.080 --> 00:35:55.080]   (audience chattering)
+[00:35:55.080 --> 00:35:58.080]   (audience chattering)
+[00:35:58.080 --> 00:36:01.080]   (audience chattering)
+[00:36:01.080 --> 00:36:04.080]   (audience chattering)
+[00:36:04.080 --> 00:36:07.080]   (audience chattering)
+[00:36:07.080 --> 00:36:10.080]   (audience chattering)
+[00:36:10.080 --> 00:36:13.080]   (audience chattering)
+[00:36:13.080 --> 00:36:16.080]   (audience chattering)
+[00:36:16.080 --> 00:36:19.080]   (audience chattering)
+[00:36:19.080 --> 00:36:22.080]   (audience chattering)
+[00:36:22.080 --> 00:36:25.080]   (audience chattering)
+[00:36:25.080 --> 00:36:28.080]   (audience chattering)
+[00:36:28.080 --> 00:36:31.080]   (audience chattering)
+[00:36:31.080 --> 00:36:34.080]   (audience chattering)
+[00:36:34.080 --> 00:36:37.080]   (audience chattering)
+[00:36:37.080 --> 00:36:40.080]   (audience chattering)
+[00:36:40.080 --> 00:36:43.080]   (audience chattering)
+[00:36:43.080 --> 00:36:46.080]   (audience chattering)
+[00:36:46.080 --> 00:36:49.080]   (audience chattering)
+[00:36:49.080 --> 00:36:52.080]   (audience chattering)
+[00:36:52.080 --> 00:36:55.080]   (audience chattering)
+[00:36:55.080 --> 00:36:58.080]   (audience chattering)
+[00:36:58.080 --> 00:37:01.080]   (audience chattering)
+[00:37:01.080 --> 00:37:04.080]   (audience chattering)
+[00:37:04.080 --> 00:37:07.080]   (audience chattering)
+[00:37:07.080 --> 00:37:10.080]   (audience chattering)
+[00:37:10.080 --> 00:37:13.080]   (audience chattering)
+[00:37:13.080 --> 00:37:16.080]   (audience chattering)
+[00:37:16.080 --> 00:37:19.080]   (audience chattering)
+[00:37:19.080 --> 00:37:22.080]   (audience chattering)
+[00:37:22.080 --> 00:37:25.080]   (audience chattering)
+[00:37:25.080 --> 00:37:28.080]   (audience chattering)
+[00:37:28.080 --> 00:37:31.080]   (audience chattering)
+[00:37:31.080 --> 00:37:34.080]   (audience chattering)
+[00:37:34.080 --> 00:37:37.080]   (audience chattering)
+[00:37:37.080 --> 00:37:40.080]   (audience chattering)
+[00:37:40.080 --> 00:37:43.080]   (audience chattering)
+[00:37:43.080 --> 00:37:46.080]   (audience chattering)
+[00:37:46.080 --> 00:37:49.080]   (audience chattering)
+[00:37:49.080 --> 00:37:52.080]   (audience chattering)
+[00:37:52.080 --> 00:37:55.080]   (audience chattering)
+[00:37:55.080 --> 00:37:58.080]   (audience chattering)
+[00:37:58.080 --> 00:38:01.080]   (audience chattering)
+[00:38:01.080 --> 00:38:04.080]   (audience chattering)
+[00:38:04.080 --> 00:38:07.080]   (audience chattering)
+[00:38:07.080 --> 00:38:10.080]   (audience chattering)
+[00:38:10.080 --> 00:38:13.080]   (audience chattering)
+[00:38:13.080 --> 00:38:16.080]   (audience chattering)
+[00:38:16.080 --> 00:38:19.080]   (audience chattering)
+[00:38:19.080 --> 00:38:22.080]   (audience chattering)
+[00:38:22.080 --> 00:38:25.080]   (audience chattering)
+[00:38:25.080 --> 00:38:28.080]   (audience chattering)
+[00:38:28.080 --> 00:38:31.080]   (audience chattering)
+[00:38:31.080 --> 00:38:34.080]   (audience chattering)
+[00:38:34.080 --> 00:38:37.080]   (audience chattering)
+[00:38:37.080 --> 00:38:40.080]   (audience chattering)
+[00:38:40.080 --> 00:38:43.080]   (audience chattering)
+[00:38:43.080 --> 00:38:46.080]   (audience chattering)
+[00:38:46.080 --> 00:38:49.080]   (audience chattering)
+[00:38:49.080 --> 00:38:52.080]   (audience chattering)
+[00:38:52.080 --> 00:38:55.080]   (audience chattering)
+[00:38:55.080 --> 00:38:58.080]   (audience chattering)
+[00:38:58.080 --> 00:39:01.080]   (audience chattering)
+[00:39:01.080 --> 00:39:04.080]   (audience chattering)
+[00:39:04.080 --> 00:39:07.080]   (audience chattering)
+[00:39:07.080 --> 00:39:10.080]   (audience chattering)
+[00:39:10.080 --> 00:39:13.080]   (audience chattering)
+[00:39:13.080 --> 00:39:16.080]   (audience chattering)
+[00:39:16.080 --> 00:39:19.080]   (audience chattering)
+[00:39:19.080 --> 00:39:22.080]   (audience chattering)
+[00:39:22.080 --> 00:39:25.080]   (audience chattering)
+[00:39:25.080 --> 00:39:28.080]   (audience chattering)
+[00:39:28.080 --> 00:39:31.080]   (audience chattering)
+[00:39:31.080 --> 00:39:34.080]   (audience chattering)
+[00:39:34.080 --> 00:39:37.080]   (audience chattering)
+[00:39:37.080 --> 00:39:40.080]   (audience chattering)
+[00:39:40.080 --> 00:39:43.080]   (audience chattering)
+[00:39:43.080 --> 00:39:46.080]   (audience chattering)
+[00:39:46.080 --> 00:39:49.080]   (audience chattering)
+[00:39:49.080 --> 00:39:52.080]   (audience chattering)
+[00:39:52.080 --> 00:39:55.080]   (audience chattering)
+[00:39:55.080 --> 00:39:58.080]   (audience chattering)
+[00:39:58.080 --> 00:40:01.080]   (audience chattering)
+[00:40:01.080 --> 00:40:04.080]   (audience chattering)
+[00:40:04.080 --> 00:40:07.080]   (audience chattering)
+[00:40:07.080 --> 00:40:10.080]   (audience chattering)
+[00:40:10.080 --> 00:40:13.080]   (audience chattering)
+[00:40:13.080 --> 00:40:16.080]   (audience chattering)
+[00:40:16.080 --> 00:40:19.080]   (audience chattering)
+[00:40:19.080 --> 00:40:22.080]   (audience chattering)
+[00:40:22.080 --> 00:40:25.080]   (audience chattering)
+[00:40:25.080 --> 00:40:28.080]   (audience chattering)
+[00:40:28.080 --> 00:40:31.080]   (audience chattering)
+[00:40:31.080 --> 00:40:34.080]   (audience chattering)
+[00:40:34.080 --> 00:40:37.080]   (audience chattering)
+[00:40:37.080 --> 00:40:40.080]   (audience chattering)
+[00:40:40.080 --> 00:40:43.080]   (audience chattering)
+[00:40:43.080 --> 00:40:46.080]   (audience chattering)
+[00:40:46.080 --> 00:40:49.080]   (audience chattering)
+[00:40:49.080 --> 00:40:52.080]   (audience chattering)
+[00:40:52.080 --> 00:40:55.080]   (audience chattering)
+[00:40:55.080 --> 00:40:58.080]   (audience chattering)
+[00:40:58.080 --> 00:41:01.080]   (audience chattering)
+[00:41:01.080 --> 00:41:04.080]   (audience chattering)
+[00:41:04.080 --> 00:41:07.080]   (audience chattering)
+[00:41:07.080 --> 00:41:10.080]   (audience chattering)
+[00:41:10.080 --> 00:41:13.080]   (audience chattering)
+[00:41:13.080 --> 00:41:16.080]   (audience chattering)
+[00:41:16.080 --> 00:41:19.080]   (audience chattering)
+[00:41:19.080 --> 00:41:22.080]   (audience chattering)
+[00:41:22.080 --> 00:41:25.080]   (audience chattering)
+[00:41:25.080 --> 00:41:28.080]   (audience chattering)
+[00:41:28.080 --> 00:41:31.080]   (audience chattering)
+[00:41:31.080 --> 00:41:34.080]   (audience chattering)
+[00:41:34.080 --> 00:41:37.080]   (audience chattering)
+[00:41:37.080 --> 00:41:40.080]   (audience chattering)
+[00:41:40.080 --> 00:41:43.080]   (audience chattering)
+[00:41:43.080 --> 00:41:46.080]   (audience chattering)
+[00:41:46.080 --> 00:41:49.080]   (audience chattering)
+[00:41:49.080 --> 00:41:52.080]   (audience chattering)
+[00:41:52.080 --> 00:41:55.080]   (audience chattering)
+[00:41:55.080 --> 00:41:58.080]   (audience chattering)
+[00:41:58.080 --> 00:42:01.080]   (audience chattering)
+[00:42:01.080 --> 00:42:04.080]   (audience chattering)
+[00:42:04.080 --> 00:42:07.080]   (audience chattering)
+[00:42:07.080 --> 00:42:10.080]   (audience chattering)
+[00:42:10.080 --> 00:42:13.080]   (audience chattering)
+[00:42:13.080 --> 00:42:16.080]   (audience chattering)
+[00:42:16.080 --> 00:42:19.080]   (audience chattering)
+[00:42:19.080 --> 00:42:22.080]   (audience chattering)
+[00:42:22.080 --> 00:42:25.080]   (audience chattering)
+[00:42:25.080 --> 00:42:28.080]   (audience chattering)
+[00:42:28.080 --> 00:42:31.080]   (audience chattering)
+[00:42:31.080 --> 00:42:34.080]   (audience chattering)
+[00:42:34.080 --> 00:42:37.080]   (audience chattering)
+[00:42:37.080 --> 00:42:40.080]   (audience chattering)
+[00:42:40.080 --> 00:42:43.080]   (audience chattering)
+[00:42:43.080 --> 00:42:46.080]   (audience chattering)
+[00:42:46.080 --> 00:42:49.080]   (audience chattering)
+[00:42:49.080 --> 00:42:52.080]   (audience chattering)
+[00:42:52.080 --> 00:42:55.080]   (audience chattering)
+[00:42:55.080 --> 00:42:58.080]   (audience chattering)
+[00:42:58.080 --> 00:43:01.080]   (audience chattering)
+[00:43:01.080 --> 00:43:04.080]   (audience chattering)
+[00:43:04.080 --> 00:43:07.080]   (audience chattering)
+[00:43:07.080 --> 00:43:10.080]   (audience chattering)
+[00:43:10.080 --> 00:43:13.080]   (audience chattering)
+[00:43:13.080 --> 00:43:16.080]   (audience chattering)
+[00:43:16.080 --> 00:43:19.080]   (audience chattering)
+[00:43:19.080 --> 00:43:22.080]   (audience chattering)
+[00:43:22.080 --> 00:43:25.080]   (audience chattering)
+[00:43:25.080 --> 00:43:28.080]   (audience chattering)
+[00:43:28.080 --> 00:43:31.080]   (audience chattering)
+[00:43:31.080 --> 00:43:34.080]   (audience chattering)
+[00:43:34.080 --> 00:43:37.080]   (audience chattering)
+[00:43:37.080 --> 00:43:40.080]   (audience chattering)
+[00:43:40.080 --> 00:43:43.080]   (audience chattering)
+[00:43:43.080 --> 00:43:46.080]   (audience chattering)
+[00:43:46.080 --> 00:43:49.080]   (audience chattering)
+[00:43:49.080 --> 00:43:52.080]   (audience chattering)
+[00:43:52.080 --> 00:43:55.080]   (audience chattering)
+[00:43:55.080 --> 00:43:58.080]   (audience chattering)
+[00:43:58.080 --> 00:44:01.080]   (audience chattering)
+[00:44:01.080 --> 00:44:04.080]   (audience chattering)
+[00:44:04.080 --> 00:44:07.080]   (audience chattering)
+[00:44:07.080 --> 00:44:10.080]   (audience chattering)
+[00:44:10.080 --> 00:44:13.080]   (audience chattering)
+[00:44:13.080 --> 00:44:16.080]   (audience chattering)
+[00:44:16.080 --> 00:44:19.080]   (audience chattering)
+[00:44:19.080 --> 00:44:22.080]   (audience chattering)
+[00:44:22.080 --> 00:44:25.080]   (audience chattering)
+[00:44:25.080 --> 00:44:28.080]   (audience chattering)
+[00:44:28.080 --> 00:44:31.080]   (audience chattering)
+[00:44:31.080 --> 00:44:34.080]   (audience chattering)
+[00:44:34.080 --> 00:44:37.080]   (audience chattering)
+[00:44:37.080 --> 00:44:40.080]   (audience chattering)
+[00:44:40.080 --> 00:44:43.080]   (audience chattering)
+[00:44:43.080 --> 00:44:46.080]   (audience chattering)
+[00:44:46.080 --> 00:44:49.080]   (audience chattering)
+[00:44:49.080 --> 00:44:52.080]   (audience chattering)
+[00:44:52.080 --> 00:44:55.080]   (audience chattering)
+[00:44:55.080 --> 00:44:58.080]   (audience chattering)
+[00:44:58.080 --> 00:45:01.080]   (audience chattering)
+[00:45:01.080 --> 00:45:04.080]   (audience chattering)
+[00:45:04.080 --> 00:45:07.080]   (audience chattering)
+[00:45:07.080 --> 00:45:10.080]   (audience chattering)
+[00:45:10.080 --> 00:45:13.080]   (audience chattering)
+[00:45:13.080 --> 00:45:16.080]   (audience chattering)
+[00:45:16.080 --> 00:45:19.080]   (audience chattering)
+[00:45:19.080 --> 00:45:22.080]   (audience chattering)
+[00:45:22.080 --> 00:45:25.080]   (audience chattering)
+[00:45:25.080 --> 00:45:28.080]   (audience chattering)
+[00:45:28.080 --> 00:45:31.080]   (audience chattering)
+[00:45:31.080 --> 00:45:34.080]   (audience chattering)
+[00:45:34.080 --> 00:45:37.080]   (audience chattering)
+[00:45:37.080 --> 00:45:40.080]   (audience chattering)
+[00:45:40.080 --> 00:45:43.080]   (audience chattering)
+[00:45:43.080 --> 00:45:46.080]   (audience chattering)
+[00:45:46.080 --> 00:45:49.080]   (audience chattering)
+[00:45:49.080 --> 00:45:52.080]   (audience chattering)
+[00:45:52.080 --> 00:45:55.080]   (audience chattering)
+[00:45:55.080 --> 00:45:58.080]   (audience chattering)
+[00:45:58.080 --> 00:46:01.080]   (audience chattering)
+[00:46:01.080 --> 00:46:04.080]   (audience chattering)
+[00:46:04.080 --> 00:46:07.080]   (audience chattering)
+[00:46:07.080 --> 00:46:10.080]   (audience chattering)
+[00:46:10.080 --> 00:46:13.080]   (audience chattering)
+[00:46:13.080 --> 00:46:16.080]   (audience chattering)
+[00:46:16.080 --> 00:46:19.080]   (audience chattering)
+[00:46:19.080 --> 00:46:22.080]   (audience chattering)
+[00:46:22.080 --> 00:46:25.080]   (audience chattering)
+[00:46:25.080 --> 00:46:28.080]   (audience chattering)
+[00:46:28.080 --> 00:46:31.080]   (audience chattering)
+[00:46:31.080 --> 00:46:34.080]   (audience chattering)
+[00:46:34.080 --> 00:46:37.080]   (audience chattering)
+[00:46:37.080 --> 00:46:40.080]   (audience chattering)
+[00:46:40.080 --> 00:46:43.080]   (audience chattering)
+[00:46:43.080 --> 00:46:46.080]   (audience chattering)
+[00:46:46.080 --> 00:46:49.080]   (audience chattering)
+[00:46:49.080 --> 00:46:52.080]   (audience chattering)
+[00:46:52.080 --> 00:46:55.080]   (audience chattering)
+[00:46:55.080 --> 00:46:58.080]   (audience chattering)
+[00:46:58.080 --> 00:47:01.080]   (audience chattering)
+[00:47:01.080 --> 00:47:04.080]   (audience chattering)
+[00:47:04.080 --> 00:47:07.080]   (audience chattering)
+[00:47:07.080 --> 00:47:10.080]   (audience chattering)
+[00:47:10.080 --> 00:47:13.080]   (audience chattering)
+[00:47:13.080 --> 00:47:16.080]   (audience chattering)
+[00:47:16.080 --> 00:47:19.080]   (audience chattering)
+[00:47:19.080 --> 00:47:22.080]   (audience chattering)
+[00:47:22.080 --> 00:47:25.080]   (audience chattering)
+[00:47:25.080 --> 00:47:28.080]   (audience chattering)
+[00:47:28.080 --> 00:47:31.080]   (audience chattering)
+[00:47:31.080 --> 00:47:34.080]   (audience chattering)
+[00:47:34.080 --> 00:47:37.080]   (audience chattering)
+[00:47:37.080 --> 00:47:40.080]   (audience chattering)
+[00:47:40.080 --> 00:47:43.080]   (audience chattering)
+[00:47:43.080 --> 00:47:46.080]   (audience chattering)
+[00:47:46.080 --> 00:47:49.080]   (audience chattering)
+[00:47:49.080 --> 00:47:52.080]   (audience chattering)
+[00:47:52.080 --> 00:47:55.080]   (audience chattering)
+[00:47:55.080 --> 00:47:58.080]   (audience chattering)
+[00:47:58.080 --> 00:48:01.080]   (audience chattering)
+[00:48:01.080 --> 00:48:04.080]   (audience chattering)
+[00:48:04.080 --> 00:48:07.080]   (audience chattering)
+[00:48:07.080 --> 00:48:10.080]   (audience chattering)
+[00:48:10.080 --> 00:48:13.080]   (audience chattering)
+[00:48:13.080 --> 00:48:16.080]   (audience chattering)
+[00:48:16.080 --> 00:48:19.080]   (audience chattering)
+[00:48:19.080 --> 00:48:22.080]   (audience chattering)
+[00:48:22.080 --> 00:48:25.080]   (audience chattering)
+[00:48:25.080 --> 00:48:28.080]   (audience chattering)
+[00:48:28.080 --> 00:48:31.080]   (audience chattering)
+[00:48:31.080 --> 00:48:34.080]   (audience chattering)
+[00:48:34.080 --> 00:48:37.080]   (audience chattering)
+[00:48:37.080 --> 00:48:40.080]   (audience chattering)
+[00:48:40.080 --> 00:48:43.080]   (audience chattering)
+[00:48:43.080 --> 00:48:46.080]   (audience chattering)
+[00:48:46.080 --> 00:48:49.080]   (audience chattering)
+[00:48:49.080 --> 00:48:52.080]   (audience chattering)
+[00:48:52.080 --> 00:48:55.080]   (audience chattering)
+[00:48:55.080 --> 00:48:58.080]   (audience chattering)
+[00:48:58.080 --> 00:49:01.080]   (audience chattering)
+[00:49:01.080 --> 00:49:04.080]   (audience chattering)
+[00:49:04.080 --> 00:49:07.080]   (audience chattering)
+[00:49:07.080 --> 00:49:10.080]   (audience chattering)
+[00:49:10.080 --> 00:49:13.080]   (audience chattering)
+[00:49:13.080 --> 00:49:16.080]   (audience chattering)
+[00:49:16.080 --> 00:49:19.080]   (audience chattering)
+[00:49:19.080 --> 00:49:22.080]   (audience chattering)
+[00:49:22.080 --> 00:49:25.080]   (audience chattering)
+[00:49:25.080 --> 00:49:28.080]   (audience chattering)
+[00:49:28.080 --> 00:49:31.080]   (audience chattering)
+[00:49:31.080 --> 00:49:34.080]   (audience chattering)
+[00:49:34.080 --> 00:49:37.080]   (audience chattering)
+[00:49:37.080 --> 00:49:40.080]   (audience chattering)
+[00:49:40.080 --> 00:49:43.080]   (audience chattering)
+[00:49:43.080 --> 00:49:46.080]   (audience chattering)
+[00:49:46.080 --> 00:49:49.080]   (audience chattering)
+[00:49:49.080 --> 00:49:52.080]   (audience chattering)
+[00:49:52.080 --> 00:49:55.080]   (audience chattering)
+[00:49:55.080 --> 00:49:58.080]   (audience chattering)
+[00:49:58.080 --> 00:50:01.080]   (audience chattering)
+[00:50:01.080 --> 00:50:04.080]   (audience chattering)
+[00:50:04.080 --> 00:50:07.080]   (audience chattering)
+[00:50:07.080 --> 00:50:10.080]   (audience chattering)
+[00:50:10.080 --> 00:50:13.080]   (audience chattering)
+[00:50:13.080 --> 00:50:16.080]   (audience chattering)
+[00:50:16.080 --> 00:50:19.080]   (audience chattering)
+[00:50:19.080 --> 00:50:22.080]   (audience chattering)
+[00:50:22.080 --> 00:50:25.080]   (audience chattering)
+[00:50:25.080 --> 00:50:28.080]   (audience chattering)
+[00:50:28.080 --> 00:50:31.080]   (audience chattering)
+[00:50:31.080 --> 00:50:34.080]   (audience chattering)
+[00:50:34.080 --> 00:50:37.080]   (audience chattering)
+[00:50:37.080 --> 00:50:40.080]   (audience chattering)
+[00:50:40.080 --> 00:50:43.080]   (audience chattering)
+[00:50:43.080 --> 00:50:46.080]   (audience chattering)
+[00:50:46.080 --> 00:50:49.080]   (audience chattering)
+[00:50:49.080 --> 00:50:52.080]   (audience chattering)
+[00:50:52.080 --> 00:50:55.080]   (audience chattering)
+[00:50:55.080 --> 00:50:58.080]   (audience chattering)
+[00:50:58.080 --> 00:51:01.080]   (audience chattering)
+[00:51:01.080 --> 00:51:04.080]   (audience chattering)
+[00:51:04.080 --> 00:51:07.080]   (audience chattering)
+[00:51:07.080 --> 00:51:10.080]   (audience chattering)
+[00:51:10.080 --> 00:51:13.080]   (audience chattering)
+[00:51:13.080 --> 00:51:16.080]   (audience chattering)
+[00:51:16.080 --> 00:51:19.080]   (audience chattering)
+[00:51:19.080 --> 00:51:22.080]   (audience chattering)
+[00:51:22.080 --> 00:51:25.080]   (audience chattering)
+[00:51:25.080 --> 00:51:28.080]   (audience chattering)
+[00:51:28.080 --> 00:51:31.080]   (audience chattering)
+[00:51:31.080 --> 00:51:34.080]   (audience chattering)
+[00:51:34.080 --> 00:51:37.080]   (audience chattering)
+[00:51:37.080 --> 00:51:40.080]   (audience chattering)
+[00:51:40.080 --> 00:51:43.080]   (audience chattering)
+[00:51:43.080 --> 00:51:46.080]   (audience chattering)
+[00:51:46.080 --> 00:51:49.080]   (audience chattering)
+[00:51:49.080 --> 00:51:52.080]   (audience chattering)
+[00:51:52.080 --> 00:51:55.080]   (audience chattering)
+[00:51:55.080 --> 00:51:58.080]   (audience chattering)
+[00:51:58.080 --> 00:52:01.080]   (audience chattering)
+[00:52:01.080 --> 00:52:04.080]   (audience chattering)
+[00:52:04.080 --> 00:52:07.080]   (audience chattering)
+[00:52:07.080 --> 00:52:10.080]   (audience chattering)
+[00:52:10.080 --> 00:52:13.080]   (audience chattering)
+[00:52:13.080 --> 00:52:16.080]   (audience chattering)
+[00:52:16.080 --> 00:52:19.080]   (audience chattering)
+[00:52:19.080 --> 00:52:22.080]   (audience chattering)
+[00:52:22.080 --> 00:52:25.080]   (audience chattering)
+[00:52:25.080 --> 00:52:28.080]   (audience chattering)
+[00:52:28.080 --> 00:52:31.080]   (audience chattering)
+[00:52:31.080 --> 00:52:34.080]   (audience chattering)
+[00:52:34.080 --> 00:52:37.080]   (audience chattering)
+[00:52:37.080 --> 00:52:40.080]   (audience chattering)
+[00:52:40.080 --> 00:52:43.080]   (audience chattering)
+[00:52:43.080 --> 00:52:46.080]   (audience chattering)
+[00:52:46.080 --> 00:52:49.080]   (audience chattering)
+[00:52:49.080 --> 00:52:52.080]   (audience chattering)
+[00:52:52.080 --> 00:52:55.080]   (audience chattering)
+[00:52:55.080 --> 00:52:58.080]   (audience chattering)
+[00:52:58.080 --> 00:53:01.080]   (audience chattering)
+[00:53:01.080 --> 00:53:04.080]   (audience chattering)
+[00:53:04.080 --> 00:53:07.080]   (audience chattering)
+[00:53:07.080 --> 00:53:10.080]   (audience chattering)
+[00:53:10.080 --> 00:53:13.080]   (audience chattering)
+[00:53:13.080 --> 00:53:16.080]   (audience chattering)
+[00:53:16.080 --> 00:53:19.080]   (audience chattering)
+[00:53:19.080 --> 00:53:22.080]   (audience chattering)
+[00:53:22.080 --> 00:53:25.080]   (audience chattering)
+[00:53:25.080 --> 00:53:28.080]   (audience chattering)
+[00:53:28.080 --> 00:53:31.080]   (audience chattering)
+[00:53:31.080 --> 00:53:34.080]   (audience chattering)
+[00:53:34.080 --> 00:53:37.080]   (audience chattering)
+[00:53:37.080 --> 00:53:40.080]   (audience chattering)
+[00:53:40.080 --> 00:53:43.080]   (audience chattering)
+[00:53:43.080 --> 00:53:46.080]   (audience chattering)
+[00:53:46.080 --> 00:53:49.080]   (audience chattering)
+[00:53:49.080 --> 00:53:52.080]   (audience chattering)
+[00:53:52.080 --> 00:53:55.080]   (audience chattering)
+[00:53:55.080 --> 00:53:58.080]   (audience chattering)
+[00:53:58.080 --> 00:54:01.080]   (audience chattering)
+[00:54:01.080 --> 00:54:04.080]   (audience chattering)
+[00:54:04.080 --> 00:54:07.080]   (audience chattering)
+[00:54:07.080 --> 00:54:10.080]   (audience chattering)
+[00:54:10.080 --> 00:54:13.080]   (audience chattering)
+[00:54:13.080 --> 00:54:16.080]   (audience chattering)
+[00:54:16.080 --> 00:54:19.080]   (audience chattering)
+[00:54:19.080 --> 00:54:22.080]   (audience chattering)
+[00:54:22.080 --> 00:54:25.080]   (audience chattering)
+[00:54:25.080 --> 00:54:28.080]   (audience chattering)
+[00:54:28.080 --> 00:54:31.080]   (audience chattering)
+[00:54:31.080 --> 00:54:34.080]   (audience chattering)
+[00:54:34.080 --> 00:54:37.080]   (audience chattering)
+[00:54:37.080 --> 00:54:40.080]   (audience chattering)
+[00:54:40.080 --> 00:54:43.080]   (audience chattering)
+[00:54:43.080 --> 00:54:46.080]   (audience chattering)
+[00:54:46.080 --> 00:54:49.080]   (audience chattering)
+[00:54:49.080 --> 00:54:52.080]   (audience chattering)
+[00:54:52.080 --> 00:54:55.080]   (audience chattering)
+[00:54:55.080 --> 00:54:58.080]   (audience chattering)
+[00:54:58.080 --> 00:55:01.080]   (audience chattering)
+[00:55:01.080 --> 00:55:04.080]   (audience chattering)
+[00:55:04.080 --> 00:55:07.080]   (audience chattering)
+[00:55:07.080 --> 00:55:10.080]   (audience chattering)
+[00:55:10.080 --> 00:55:13.080]   (audience chattering)
+[00:55:13.080 --> 00:55:16.080]   (audience chattering)
+[00:55:16.080 --> 00:55:19.080]   (audience chattering)
+[00:55:19.080 --> 00:55:22.080]   (audience chattering)
+[00:55:22.080 --> 00:55:25.080]   (audience chattering)
+[00:55:25.080 --> 00:55:28.080]   (audience chattering)
+[00:55:28.080 --> 00:55:31.080]   (audience chattering)
+[00:55:31.080 --> 00:55:34.080]   (audience chattering)
+[00:55:34.080 --> 00:55:37.080]   (audience chattering)
+[00:55:37.080 --> 00:55:40.080]   (audience chattering)
+[00:55:40.080 --> 00:55:43.080]   (audience chattering)
+[00:55:43.080 --> 00:55:46.080]   (audience chattering)
+[00:55:46.080 --> 00:55:49.080]   (audience chattering)
+[00:55:49.080 --> 00:55:52.080]   (audience chattering)
+[00:55:52.080 --> 00:55:55.080]   (audience chattering)
+[00:55:55.080 --> 00:55:58.080]   (audience chattering)
+[00:55:58.080 --> 00:56:01.080]   (audience chattering)
+[00:56:01.080 --> 00:56:04.080]   (audience chattering)
+[00:56:04.080 --> 00:56:07.080]   (audience chattering)
+[00:56:07.080 --> 00:56:10.080]   (audience chattering)
+[00:56:10.080 --> 00:56:13.080]   (audience chattering)
+[00:56:13.080 --> 00:56:16.080]   (audience chattering)
+[00:56:16.080 --> 00:56:19.080]   (audience chattering)
+[00:56:19.080 --> 00:56:22.080]   (audience chattering)
+[00:56:22.080 --> 00:56:25.080]   (audience chattering)
+[00:56:25.080 --> 00:56:28.080]   (audience chattering)
+[00:56:28.080 --> 00:56:31.080]   (audience chattering)
+[00:56:31.080 --> 00:56:34.080]   (audience chattering)
+[00:56:34.080 --> 00:56:37.080]   (audience chattering)
+[00:56:37.080 --> 00:56:40.080]   (audience chattering)
+[00:56:40.080 --> 00:56:43.080]   (audience chattering)
+[00:56:43.080 --> 00:56:46.080]   (audience chattering)
+[00:56:46.080 --> 00:56:49.080]   (audience chattering)
+[00:56:49.080 --> 00:56:52.080]   (audience chattering)
+[00:56:52.080 --> 00:56:55.080]   (audience chattering)
+[00:56:55.080 --> 00:56:58.080]   (audience chattering)
+[00:56:58.080 --> 00:57:01.080]   (audience chattering)
+[00:57:01.080 --> 00:57:04.080]   (audience chattering)
+[00:57:04.080 --> 00:57:07.080]   (audience chattering)
+[00:57:07.080 --> 00:57:10.080]   (audience chattering)
+[00:57:10.080 --> 00:57:13.080]   (audience chattering)
+[00:57:13.080 --> 00:57:16.080]   (audience chattering)
+[00:57:16.080 --> 00:57:19.080]   (audience chattering)
+[00:57:19.080 --> 00:57:22.080]   (audience chattering)
+[00:57:22.080 --> 00:57:25.080]   (audience chattering)
+[00:57:25.080 --> 00:57:28.080]   (audience chattering)
+[00:57:28.080 --> 00:57:31.080]   (audience chattering)
+[00:57:31.080 --> 00:57:34.080]   (audience chattering)
+[00:57:34.080 --> 00:57:37.080]   (audience chattering)
+[00:57:37.080 --> 00:57:40.080]   (audience chattering)
+[00:57:40.080 --> 00:57:43.080]   (audience chattering)
+[00:57:43.080 --> 00:57:46.080]   (audience chattering)
+[00:57:46.080 --> 00:57:49.080]   (audience chattering)
+[00:57:49.080 --> 00:57:52.080]   (audience chattering)
+[00:57:52.080 --> 00:57:55.080]   (audience chattering)
+[00:57:55.080 --> 00:57:58.080]   (audience chattering)
+[00:57:58.080 --> 00:58:01.080]   (audience chattering)
+[00:58:01.080 --> 00:58:04.080]   (audience chattering)
+[00:58:04.080 --> 00:58:07.080]   (audience chattering)
+[00:58:07.080 --> 00:58:10.080]   (audience chattering)
+[00:58:10.080 --> 00:58:13.080]   (audience chattering)
+[00:58:13.080 --> 00:58:16.080]   (audience chattering)
+[00:58:16.080 --> 00:58:19.080]   (audience chattering)
+[00:58:19.080 --> 00:58:22.080]   (audience chattering)
+[00:58:22.080 --> 00:58:25.080]   (audience chattering)
+[00:58:25.080 --> 00:58:28.080]   (audience chattering)
+[00:58:28.080 --> 00:58:31.080]   (audience chattering)
+[00:58:31.080 --> 00:58:34.080]   (audience chattering)
+[00:58:34.080 --> 00:58:37.080]   (audience chattering)
+[00:58:37.080 --> 00:58:40.080]   (audience chattering)
+[00:58:40.080 --> 00:58:43.080]   (audience chattering)
+[00:58:43.080 --> 00:58:46.080]   (audience chattering)
+[00:58:46.080 --> 00:58:49.080]   (audience chattering)
+[00:58:49.080 --> 00:58:52.080]   (audience chattering)
+[00:58:52.080 --> 00:58:55.080]   (audience chattering)
+[00:58:55.080 --> 00:58:58.080]   (audience chattering)
+[00:58:58.080 --> 00:59:01.080]   (audience chattering)
+[00:59:01.080 --> 00:59:04.080]   (audience chattering)
+[00:59:04.080 --> 00:59:07.080]   (audience chattering)
+[00:59:07.080 --> 00:59:10.080]   (audience chattering)
+[00:59:10.080 --> 00:59:13.080]   (audience chattering)
+[00:59:13.080 --> 00:59:16.080]   (audience chattering)
+[00:59:16.080 --> 00:59:19.080]   (audience chattering)
+[00:59:19.080 --> 00:59:22.080]   (audience chattering)
+[00:59:22.080 --> 00:59:25.080]   (audience chattering)
+[00:59:25.080 --> 00:59:28.080]   (audience chattering)
+[00:59:28.080 --> 00:59:31.080]   (audience chattering)
+[00:59:31.080 --> 00:59:34.080]   (audience chattering)
+[00:59:34.080 --> 00:59:37.080]   (audience chattering)
+[00:59:37.080 --> 00:59:40.080]   (audience chattering)
+[00:59:40.080 --> 00:59:43.080]   (audience chattering)
+[00:59:43.080 --> 00:59:46.080]   (audience chattering)
+[00:59:46.080 --> 00:59:49.080]   (audience chattering)
+[00:59:49.080 --> 00:59:52.080]   (audience chattering)
+[00:59:52.080 --> 00:59:55.080]   (audience chattering)
+[00:59:55.080 --> 00:59:58.080]   (audience chattering)
+[00:59:58.080 --> 01:00:01.080]   (audience chattering)
+[01:00:01.080 --> 01:00:04.080]   (audience chattering)
+[01:00:04.080 --> 01:00:07.080]   (audience chattering)
+[01:00:07.080 --> 01:00:10.080]   (audience chattering)
+[01:00:10.080 --> 01:00:13.080]   (audience chattering)
+[01:00:13.080 --> 01:00:16.080]   (audience chattering)
+[01:00:16.080 --> 01:00:19.080]   (audience chattering)
+[01:00:19.080 --> 01:00:22.080]   (audience chattering)
+[01:00:22.080 --> 01:00:25.080]   (audience chattering)
+[01:00:25.080 --> 01:00:28.080]   (audience chattering)
+[01:00:28.080 --> 01:00:31.080]   (audience chattering)
+[01:00:31.080 --> 01:00:34.080]   (audience chattering)
+[01:00:34.080 --> 01:00:37.080]   (audience chattering)
+[01:00:37.080 --> 01:00:40.080]   (audience chattering)
+[01:00:40.080 --> 01:00:43.080]   (audience chattering)
+[01:00:43.080 --> 01:00:46.080]   (audience chattering)
+[01:00:46.080 --> 01:00:49.080]   (audience chattering)
+[01:00:49.080 --> 01:00:52.080]   (audience chattering)
+[01:00:52.080 --> 01:00:55.080]   (audience chattering)
+[01:00:55.080 --> 01:00:58.080]   (audience chattering)
+[01:00:58.080 --> 01:01:01.080]   (audience chattering)
+[01:01:27.080 --> 01:01:30.080]   (audience chattering)
+[01:01:30.080 --> 01:01:35.080]   All right.
+[01:01:35.080 --> 01:01:36.080]   (audience chattering)
+[01:01:36.080 --> 01:01:39.080]   If I can get people to come back.
+[01:01:39.080 --> 01:01:41.080]   Ah.
+[01:01:41.080 --> 01:01:42.080]   (audience chattering)
+[01:01:42.080 --> 01:01:43.080]   Ah, it's on.
+[01:01:43.080 --> 01:01:47.080]   (audience chattering)
+[01:01:47.080 --> 01:01:48.080]   Ah.
+[01:01:48.080 --> 01:01:51.080]   (audience chattering)
+[01:01:51.080 --> 01:01:56.080]   Ah, ah.
+[01:01:56.080 --> 01:01:57.080]   (audience chattering)
+[01:01:57.080 --> 01:01:58.080]   Hello?
+[01:01:58.080 --> 01:02:01.080]   (audience chattering)
+[01:02:01.080 --> 01:02:04.080]   Ah, if I can get people in the rooms to come back,
+[01:02:04.080 --> 01:02:06.080]   we're gonna get started.
+[01:02:06.080 --> 01:02:09.080]   (audience chattering)
+[01:02:09.080 --> 01:02:14.080]   (audience chattering)
+[01:02:15.080 --> 01:02:18.080]   (audience chattering)
+[01:02:18.080 --> 01:02:42.080]   (camera shutter clicking)
+[01:02:42.080 --> 01:02:45.080]   (audience chattering)
+[01:02:45.080 --> 01:03:10.080]   All right, if we can get the people in the rooms
+[01:03:10.080 --> 01:03:12.080]   to come out of the rooms,
+[01:03:12.080 --> 01:03:13.080]   we're gonna get started in a minute.
+[01:03:13.080 --> 01:03:16.080]   (audience chattering)
+[01:03:16.080 --> 01:03:22.080]   (audience chattering)
+[01:03:22.080 --> 01:03:27.080]   (audience chattering)
+[01:03:27.080 --> 01:03:35.080]   (audience chattering)
+[01:03:35.080 --> 01:03:38.080]   (audience chattering)
+[01:03:38.080 --> 01:03:47.080]   All right, is everybody out?
+[01:03:47.080 --> 01:03:49.080]   Is anybody else in the rooms?
+[01:03:49.080 --> 01:03:52.080]   (audience chattering)
+[01:03:52.080 --> 01:04:03.080]   Okay.
+[01:04:03.080 --> 01:04:05.080]   Today is the second to the last
+[01:04:05.080 --> 01:04:08.080]   of the Bible studies for this section.
+[01:04:08.080 --> 01:04:11.080]   Next week is gonna be review,
+[01:04:11.080 --> 01:04:13.080]   and so I'll go over some questions
+[01:04:13.080 --> 01:04:15.080]   for you to go over before you come.
+[01:04:15.080 --> 01:04:17.080]   And so next week's gonna be, obviously,
+[01:04:17.080 --> 01:04:20.080]   a little bit different, 'cause you're not gonna be,
+[01:04:20.080 --> 01:04:24.080]   there's not a specific text for you to do.
+[01:04:24.080 --> 01:04:26.080]   But I'll go over that before we get started.
+[01:04:26.080 --> 01:04:30.080]   Okay, let me pray first, and then we'll start.
+[01:04:31.080 --> 01:04:34.080]   Heavenly Father, we pray for your blessing.
+[01:04:34.080 --> 01:04:37.080]   We pray for clear understanding.
+[01:04:37.080 --> 01:04:41.080]   We pray, Father God, that you give us open ears
+[01:04:41.080 --> 01:04:46.080]   and eagerness to hear, to apply all that you have to teach us.
+[01:04:46.080 --> 01:04:48.080]   Help us, Lord God, to be transformed
+[01:04:48.080 --> 01:04:50.080]   by the renewing of our mind according to your word.
+[01:04:50.080 --> 01:04:53.080]   In Jesus' name we pray, amen.
+[01:04:53.080 --> 01:04:55.080]   Is this too loud?
+[01:04:55.080 --> 01:04:56.080]   No?
+[01:04:56.080 --> 01:04:59.080]   Okay, just sounds loud to me.
+[01:04:59.080 --> 01:05:03.080]   All right, so I broke down this text,
+[01:05:03.080 --> 01:05:05.080]   verse 14 to 18, in this way,
+[01:05:05.080 --> 01:05:08.080]   and you'll see in a minute why I did that, okay?
+[01:05:08.080 --> 01:05:13.080]   I wanted you to see the thought flow and application.
+[01:05:13.080 --> 01:05:16.080]   So there's about five things that I've noticed
+[01:05:16.080 --> 01:05:21.080]   as instructional things that we can apply from this text, okay?
+[01:05:21.080 --> 01:05:23.080]   So...
+[01:05:23.080 --> 01:05:25.080]   Oops.
+[01:05:25.080 --> 01:05:27.080]   (coughs)
+[01:05:27.080 --> 01:05:29.080]   Oops.
+[01:05:29.080 --> 01:05:31.080]   Sorry.
+[01:05:31.080 --> 01:05:38.080]   What's going on here?
+[01:05:38.080 --> 01:05:46.080]   Where's that laser pointer?
+[01:05:46.080 --> 01:05:56.080]   Oh, is this dead?
+[01:05:57.080 --> 01:05:59.080]   (coughs)
+[01:05:59.080 --> 01:06:07.080]   I pressed something.
+[01:06:07.080 --> 01:06:09.080]   Oh, sorry.
+[01:06:09.080 --> 01:06:16.080]   Where is Alex? Mr. Alex?
+[01:06:16.080 --> 01:06:18.080]   (laughter)
+[01:06:18.080 --> 01:06:20.080]   Huh?
+[01:06:20.080 --> 01:06:23.080]   This pen is not working.
+[01:06:24.080 --> 01:06:28.080]   Right now it's in the laser pointer mode.
+[01:06:28.080 --> 01:06:30.080]   And...huh?
+[01:06:30.080 --> 01:06:32.080]   Did I turn it?
+[01:06:32.080 --> 01:06:38.080]   If I don't charge it, it just goes to laser pointing mode?
+[01:06:38.080 --> 01:06:40.080]   Huh?
+[01:06:40.080 --> 01:06:49.080]   Is it 'cause it's not charged?
+[01:06:49.080 --> 01:06:52.080]   Well, I don't know if you can charge this.
+[01:06:52.080 --> 01:06:54.080]   This takes a battery.
+[01:06:54.080 --> 01:06:56.080]   (audience chatter)
+[01:06:56.080 --> 01:06:58.080]   Hold on a second.
+[01:06:58.080 --> 01:07:00.080]   I think it takes a battery.
+[01:07:00.080 --> 01:07:02.080]   Do we have a battery?
+[01:07:02.080 --> 01:07:08.080]   This...
+[01:07:08.080 --> 01:07:12.080]   Wow.
+[01:07:12.080 --> 01:07:15.080]   Quadruple A.
+[01:07:15.080 --> 01:07:17.080]   Somebody...
+[01:07:17.080 --> 01:07:19.080]   Yeah.
+[01:07:20.080 --> 01:07:22.080]   Huh?
+[01:07:22.080 --> 01:07:24.080]   We don't have it?
+[01:07:24.080 --> 01:07:27.080]   Anybody carry around quadruple A just for fun?
+[01:07:27.080 --> 01:07:30.080]   Nobody?
+[01:07:30.080 --> 01:07:41.080]   Yeah.
+[01:07:41.080 --> 01:07:44.080]   Hold on.
+[01:07:44.080 --> 01:07:47.080]   Wait, it's this way, right?
+[01:07:47.080 --> 01:07:49.080]   There's the button.
+[01:07:49.080 --> 01:07:51.080]   Right.
+[01:07:51.080 --> 01:07:56.080]   So it's not working.
+[01:07:56.080 --> 01:07:58.080]   So...
+[01:07:58.080 --> 01:08:00.080]   Hold on.
+[01:08:00.080 --> 01:08:08.080]   Oh, okay.
+[01:08:08.080 --> 01:08:10.080]   You gotta...
+[01:08:10.080 --> 01:08:12.080]   You gotta go...
+[01:08:13.080 --> 01:08:15.080]   (audience chatter)
+[01:08:15.080 --> 01:08:17.080]   If it works, it works.
+[01:08:17.080 --> 01:08:19.080]   Damn.
+[01:08:19.080 --> 01:08:21.080]   Did it work?
+[01:08:21.080 --> 01:08:23.080]   You can go back to your black thing.
+[01:08:23.080 --> 01:08:25.080]   Oh, wait, never mind.
+[01:08:25.080 --> 01:08:27.080]   You did it. Boom!
+[01:08:27.080 --> 01:08:29.080]   (audience cheers)
+[01:08:29.080 --> 01:08:31.080]   So easy.
+[01:08:31.080 --> 01:08:33.080]   I don't know why people complain about technology.
+[01:08:33.080 --> 01:08:35.080]   All right.
+[01:08:35.080 --> 01:08:37.080]   Okay, so in this text,
+[01:08:37.080 --> 01:08:39.080]   identify about five things that...
+[01:08:39.080 --> 01:08:42.080]   that we can kind of deduce in application.
+[01:08:42.080 --> 01:08:45.080]   So I just wanted you to see the outline of it.
+[01:08:45.080 --> 01:08:49.080]   This is not necessarily a imperative,
+[01:08:49.080 --> 01:08:52.080]   but basically it's kind of a summary of what we've been saying.
+[01:08:52.080 --> 01:08:55.080]   Therefore, beloved, since you look for these things,
+[01:08:55.080 --> 01:08:58.080]   looking for these things is basically assumed, number one.
+[01:08:58.080 --> 01:09:01.080]   Number two, be diligent to be found in Him
+[01:09:01.080 --> 01:09:03.080]   in peace, spotless, and blameless.
+[01:09:03.080 --> 01:09:05.080]   And then three,
+[01:09:05.080 --> 01:09:08.080]   regard the patience of our Lord as salvation.
+[01:09:08.080 --> 01:09:10.080]   Okay, number four,
+[01:09:10.080 --> 01:09:12.080]   be on your guard
+[01:09:12.080 --> 01:09:14.080]   so that you are not carried away.
+[01:09:14.080 --> 01:09:16.080]   And number five,
+[01:09:16.080 --> 01:09:19.080]   grow in grace and in knowledge.
+[01:09:19.080 --> 01:09:21.080]   Okay?
+[01:09:21.080 --> 01:09:23.080]   So I just did that so that you can kind of see
+[01:09:23.080 --> 01:09:26.080]   the thought flow of Peter
+[01:09:26.080 --> 01:09:28.080]   as he is instructing that these are the things
+[01:09:28.080 --> 01:09:31.080]   that you ought to do, right, in application.
+[01:09:31.080 --> 01:09:34.080]   Okay? So that's kind of how I'm going to follow.
+[01:09:34.080 --> 01:09:36.080]   And then this section here,
+[01:09:36.080 --> 01:09:39.080]   where Peter kind of takes a--
+[01:09:39.080 --> 01:09:42.080]   sidetracks a little bit to describe about Paul's writings,
+[01:09:42.080 --> 01:09:46.080]   okay, which I'll talk about.
+[01:09:46.080 --> 01:09:48.080]   I know you can't see it. You don't have to see it.
+[01:09:48.080 --> 01:09:50.080]   Okay?
+[01:09:50.080 --> 01:09:52.080]   I basically gave you--
+[01:09:52.080 --> 01:09:56.080]   if I was to give a sermon or a Bible study,
+[01:09:56.080 --> 01:09:59.080]   most likely a sermon, like an expositional sermon on this text,
+[01:09:59.080 --> 01:10:01.080]   this is what the outline would look like.
+[01:10:01.080 --> 01:10:03.080]   Okay?
+[01:10:03.080 --> 01:10:05.080]   And the reason why I wanted to show you that
+[01:10:05.080 --> 01:10:08.080]   is because the intent of the text,
+[01:10:08.080 --> 01:10:10.080]   like thought flow, right,
+[01:10:10.080 --> 01:10:13.080]   that if you see it, if you're able to outline it in this way,
+[01:10:13.080 --> 01:10:15.080]   the text is going to make a lot more sense.
+[01:10:15.080 --> 01:10:18.080]   So basically what we do, what the pastors do on Sunday
+[01:10:18.080 --> 01:10:20.080]   is basically taking the text
+[01:10:20.080 --> 01:10:23.080]   and dividing it up into the natural thought flow.
+[01:10:23.080 --> 01:10:26.080]   So this is--all I did was divide it into that.
+[01:10:26.080 --> 01:10:28.080]   So nothing in here is added.
+[01:10:28.080 --> 01:10:30.080]   So normally if I was to give a sermon on this,
+[01:10:30.080 --> 01:10:32.080]   I would have extra notes and, you know,
+[01:10:32.080 --> 01:10:34.080]   cross-references and illustrations
+[01:10:34.080 --> 01:10:36.080]   and all this added to this.
+[01:10:36.080 --> 01:10:38.080]   But looking at the strict text alone,
+[01:10:38.080 --> 01:10:40.080]   this is what the outline would look like.
+[01:10:40.080 --> 01:10:42.080]   So if you look at it first, focus on his coming
+[01:10:42.080 --> 01:10:45.080]   because of the judgment and the restoration that's coming.
+[01:10:45.080 --> 01:10:47.080]   Right? That would be the first thing that I mentioned.
+[01:10:47.080 --> 01:10:50.080]   Two, be diligent to be found in him.
+[01:10:50.080 --> 01:10:52.080]   Right?
+[01:10:52.080 --> 01:10:54.080]   To be found by him in peace.
+[01:10:54.080 --> 01:10:57.080]   And then this would be kind of a description of that.
+[01:10:57.080 --> 01:10:59.080]   Spotless. What does that mean?
+[01:10:59.080 --> 01:11:01.080]   Blameless. What does that mean? Okay?
+[01:11:01.080 --> 01:11:03.080]   That would be my second point.
+[01:11:03.080 --> 01:11:05.080]   Third point, regard patience as salvation.
+[01:11:05.080 --> 01:11:07.080]   And so what does that mean?
+[01:11:07.080 --> 01:11:10.080]   Okay? I'm going to review that later.
+[01:11:10.080 --> 01:11:12.080]   Okay?
+[01:11:12.080 --> 01:11:15.080]   And then four, be on guard and not be carried away by error,
+[01:11:15.080 --> 01:11:19.080]   by unprincipled men and by lawless men.
+[01:11:19.080 --> 01:11:22.080]   And then grow in grace and knowledge for Jesus Christ.
+[01:11:22.080 --> 01:11:24.080]   Right?
+[01:11:24.080 --> 01:11:27.080]   And so I just wanted to show you what a biblical outline
+[01:11:27.080 --> 01:11:29.080]   from the text looks like. Right?
+[01:11:29.080 --> 01:11:31.080]   If it were to teach it and give a sermon,
+[01:11:31.080 --> 01:11:33.080]   this would be the outline that I follow,
+[01:11:33.080 --> 01:11:35.080]   and I would just kind of add to this. Okay?
+[01:11:35.080 --> 01:11:38.080]   And this point, the reason I separated that
+[01:11:38.080 --> 01:11:41.080]   is because he kind of sidetracks and talks about--
+[01:11:41.080 --> 01:11:44.080]   it's not that it's unrelated, but the meaning behind this,
+[01:11:44.080 --> 01:11:46.080]   it really doesn't flow through the thoughts,
+[01:11:46.080 --> 01:11:48.080]   so I separated that. Okay?
+[01:11:48.080 --> 01:11:50.080]   All right. You don't need to take notes on this.
+[01:11:50.080 --> 01:11:54.080]   I just wanted you to show you this so that you can see, like,
+[01:11:54.080 --> 01:11:57.080]   if you're listening to something,
+[01:11:57.080 --> 01:12:02.080]   and this is kind of like--this is what the text would be teaching.
+[01:12:02.080 --> 01:12:03.080]   Okay?
+[01:12:03.080 --> 01:12:05.080]   Now, if I was to give a sermon on this,
+[01:12:05.080 --> 01:12:09.080]   I might break this up into two to three different sermons,
+[01:12:09.080 --> 01:12:11.080]   maybe five.
+[01:12:11.080 --> 01:12:14.080]   Depending on if I--if there's something--
+[01:12:14.080 --> 01:12:16.080]   like, a lot of times what ends up happening with me
+[01:12:16.080 --> 01:12:20.080]   is as I'm studying, I just get deeper and deeper into this hole.
+[01:12:20.080 --> 01:12:23.080]   You know? And then--mainly because I'm curious
+[01:12:23.080 --> 01:12:25.080]   as to what does this mean, what does that mean,
+[01:12:25.080 --> 01:12:27.080]   how does this apply, and then my thoughts
+[01:12:27.080 --> 01:12:29.080]   and certain things kind of lead me down this path,
+[01:12:29.080 --> 01:12:31.080]   and then all this stuff starts coming out,
+[01:12:31.080 --> 01:12:36.080]   so I could just completely ignore it or decide to teach it,
+[01:12:36.080 --> 01:12:38.080]   and usually I just decide to teach it.
+[01:12:38.080 --> 01:12:39.080]   Okay?
+[01:12:39.080 --> 01:12:42.080]   So, anyway, so I just wanted to show you what that looks like.
+[01:12:42.080 --> 01:12:43.080]   Okay?
+[01:12:43.080 --> 01:12:45.080]   So, first of all, I'm going to take that section
+[01:12:45.080 --> 01:12:48.080]   that I talked to you about, this section first, okay,
+[01:12:48.080 --> 01:12:51.080]   and then we'll get to the other ones.
+[01:12:51.080 --> 01:12:54.080]   He said, "Regard patience as of the Lord,"
+[01:12:54.080 --> 01:12:56.080]   and then we'll talk about that next section,
+[01:12:56.080 --> 01:12:59.080]   the other part, "just as also our beloved brother,
+[01:12:59.080 --> 01:13:02.080]   according to the wisdom given to him, wrote to you."
+[01:13:02.080 --> 01:13:03.080]   Right?
+[01:13:03.080 --> 01:13:09.080]   Now, Peter is equating Paul's writings with Scripture, right?
+[01:13:09.080 --> 01:13:10.080]   Clearly.
+[01:13:10.080 --> 01:13:14.080]   He says, "They provided also like the rest of Scripture."
+[01:13:14.080 --> 01:13:17.080]   So he's saying that Paul's writings are equated with Scripture.
+[01:13:17.080 --> 01:13:19.080]   So, in the New Testament, when they say "Scripture,"
+[01:13:19.080 --> 01:13:23.080]   what are they referring to?
+[01:13:23.080 --> 01:13:26.080]   Most likely the Old Testament, right?
+[01:13:26.080 --> 01:13:29.080]   So, Peter is aware, not only his writings,
+[01:13:29.080 --> 01:13:33.080]   but Paul's writings is a direct revelation from God.
+[01:13:33.080 --> 01:13:35.080]   It wasn't just any letter.
+[01:13:35.080 --> 01:13:38.080]   So, right off the bat, so if you've ever heard the argument
+[01:13:38.080 --> 01:13:40.080]   and people say, "Oh, the Bible was not put together
+[01:13:40.080 --> 01:13:44.080]   until 387 AD at some church council,
+[01:13:44.080 --> 01:13:47.080]   and they decided, you know, let's go and gather these material,
+[01:13:47.080 --> 01:13:49.080]   and then we're going to make the Bible,"
+[01:13:49.080 --> 01:13:52.080]   and that's a typical argument that people give
+[01:13:52.080 --> 01:13:54.080]   about the Bible being unreliable,
+[01:13:54.080 --> 01:13:56.080]   that it was just man's work, right?
+[01:13:56.080 --> 01:14:00.080]   Scripture itself tells us that they understood
+[01:14:00.080 --> 01:14:02.080]   that the letters that they were writing
+[01:14:02.080 --> 01:14:04.080]   and the letters they were giving was inspired by God,
+[01:14:04.080 --> 01:14:07.080]   and you can clearly see it here, right?
+[01:14:07.080 --> 01:14:10.080]   Now, do you remember when 2 Peter was written,
+[01:14:10.080 --> 01:14:13.080]   about the time?
+[01:14:13.080 --> 01:14:18.080]   Just off the top of your head?
+[01:14:18.080 --> 01:14:21.080]   AD for sure, right?
+[01:14:21.080 --> 01:14:25.080]   AD what?
+[01:14:25.080 --> 01:14:27.080]   Somewhere around 65, right?
+[01:14:27.080 --> 01:14:30.080]   Maybe about two to three years after 1 Peter was written,
+[01:14:30.080 --> 01:14:33.080]   and what's the significance of AD 65?
+[01:14:33.080 --> 01:14:35.080]   Do you guys remember?
+[01:14:35.080 --> 01:14:42.080]   What was happening historically around AD 65?
+[01:14:42.080 --> 01:14:46.080]   There was somebody.
+[01:14:46.080 --> 01:14:48.080]   Nero, right?
+[01:14:48.080 --> 01:14:51.080]   The Nero persecution, right?
+[01:14:51.080 --> 01:14:55.080]   Nero persecution was in full swing in AD 65,
+[01:14:55.080 --> 01:14:57.080]   and that's when Rome burns down,
+[01:14:57.080 --> 01:14:59.080]   and then people think that he's crazy,
+[01:14:59.080 --> 01:15:02.080]   and then he blames the Christians for what happened in Rome.
+[01:15:02.080 --> 01:15:05.080]   So to this day, no one knows exactly what happened,
+[01:15:05.080 --> 01:15:08.080]   but basically he used Christians as a scapegoat,
+[01:15:08.080 --> 01:15:11.080]   and he ended up rounding up all the Christians,
+[01:15:11.080 --> 01:15:13.080]   so when you see all the movies of the Colosseum
+[01:15:13.080 --> 01:15:15.080]   and Christians being mauled by the lions,
+[01:15:15.080 --> 01:15:18.080]   it's around this time, AD 65, okay?
+[01:15:18.080 --> 01:15:20.080]   So this is his last letter.
+[01:15:20.080 --> 01:15:21.080]   He's writing this.
+[01:15:21.080 --> 01:15:23.080]   Remember when Galatians was written?
+[01:15:23.080 --> 01:15:27.080]   This is a next-level question.
+[01:15:27.080 --> 01:15:30.080]   Anybody?
+[01:15:30.080 --> 01:15:35.080]   Around AD 57, 56, okay?
+[01:15:35.080 --> 01:15:39.080]   So we're talking about anywhere between 6, 7 to--
+[01:15:39.080 --> 01:15:42.080]   no more than 10 years, right?
+[01:15:42.080 --> 01:15:44.080]   But most likely around 6 or 7 years after Galatians.
+[01:15:44.080 --> 01:15:46.080]   So you guys know what happened.
+[01:15:46.080 --> 01:15:48.080]   I mentioned this on Sunday, right?
+[01:15:48.080 --> 01:15:53.080]   Galatians, Peter was embarrassed by Paul, right?
+[01:15:53.080 --> 01:15:55.080]   He publicly calls him out,
+[01:15:55.080 --> 01:15:58.080]   saying, like, "You're perverting the gospel," right?
+[01:15:58.080 --> 01:16:00.080]   And he defends himself in doing that,
+[01:16:00.080 --> 01:16:01.080]   because I don't serve you.
+[01:16:01.080 --> 01:16:02.080]   I don't serve Peter.
+[01:16:02.080 --> 01:16:04.080]   I don't serve Barnabas,
+[01:16:04.080 --> 01:16:07.080]   and even if I make an error, right,
+[01:16:07.080 --> 01:16:09.080]   I let him be anathema.
+[01:16:09.080 --> 01:16:12.080]   And so this is 6, 7 years after he writes that.
+[01:16:12.080 --> 01:16:16.080]   So you could have easily seen how Peter would have been offended.
+[01:16:16.080 --> 01:16:18.080]   If he allowed his flesh to take over,
+[01:16:18.080 --> 01:16:19.080]   he would have been offended,
+[01:16:19.080 --> 01:16:21.080]   and there would have been a strife between Paul and Peter,
+[01:16:21.080 --> 01:16:23.080]   and then Peter could have easily went around,
+[01:16:23.080 --> 01:16:27.080]   started saying, "Man, that guy is saying some whack stuff," right?
+[01:16:27.080 --> 01:16:30.080]   About the kingdom being open to the Jews,
+[01:16:30.080 --> 01:16:32.080]   about atonement, about, you know,
+[01:16:32.080 --> 01:16:34.080]   all these things that he is saying,
+[01:16:34.080 --> 01:16:37.080]   about predestination, election.
+[01:16:37.080 --> 01:16:39.080]   But that didn't happen.
+[01:16:39.080 --> 01:16:43.080]   Peter rebuked, and he knew that Paul was right.
+[01:16:43.080 --> 01:16:46.080]   And so now Peter, several years later,
+[01:16:46.080 --> 01:16:48.080]   is actually defending Paul,
+[01:16:48.080 --> 01:16:51.080]   because there's a lot of criticism about Paul, right?
+[01:16:51.080 --> 01:16:55.080]   And he said, "These people who are untaught and unstable
+[01:16:55.080 --> 01:16:59.080]   "are distorting his writings," right?
+[01:16:59.080 --> 01:17:01.080]   How are they distorting Paul's writings?
+[01:17:01.080 --> 01:17:03.080]   Do you remember?
+[01:17:03.080 --> 01:17:05.080]   We went back at--
+[01:17:05.080 --> 01:17:09.080]   what were they saying about Paul in some of his writings?
+[01:17:09.080 --> 01:17:13.080]   We went over some of that in 1 Thessalonians,
+[01:17:13.080 --> 01:17:18.080]   2 Thessalonians, in Romans.
+[01:17:18.080 --> 01:17:21.080]   Remember? Huh?
+[01:17:21.080 --> 01:17:24.080]   He was talking about salvation by grace,
+[01:17:24.080 --> 01:17:26.080]   not by works, by faith, right?
+[01:17:26.080 --> 01:17:30.080]   In Romans, remember what people were saying about his teaching?
+[01:17:30.080 --> 01:17:35.080]   "As some say, 'Let us sin, that grace may abound.'"
+[01:17:35.080 --> 01:17:38.080]   Right? He says, "By no means."
+[01:17:38.080 --> 01:17:40.080]   So people are perverting him.
+[01:17:40.080 --> 01:17:42.080]   Perverting what he was saying is,
+[01:17:42.080 --> 01:17:44.080]   "Hey, that guy says we don't have to work,
+[01:17:44.080 --> 01:17:46.080]   "we don't have to be righteous in order to be saved.
+[01:17:46.080 --> 01:17:48.080]   "We just need to believe and have faith."
+[01:17:48.080 --> 01:17:50.080]   So these guys are going around telling us
+[01:17:50.080 --> 01:17:52.080]   that we can live lawlessly and it doesn't matter.
+[01:17:52.080 --> 01:17:54.080]   And Paul says, "No, by no means." Right?
+[01:17:54.080 --> 01:17:57.080]   So they are taking salvation by grace,
+[01:17:57.080 --> 01:17:59.080]   and they were perverting, right?
+[01:17:59.080 --> 01:18:00.080]   Perverting his God.
+[01:18:00.080 --> 01:18:03.080]   What's another way that they were distorting what he was saying?
+[01:18:03.080 --> 01:18:04.080]   Do you remember?
+[01:18:04.080 --> 01:18:12.080]   In 1 Thessalonians?
+[01:18:12.080 --> 01:18:16.080]   They're saying that Jesus already came, right?
+[01:18:16.080 --> 01:18:18.080]   He's talking about the second coming of Christ,
+[01:18:18.080 --> 01:18:22.080]   He already came, so He's telling you stuff that you've already missed.
+[01:18:22.080 --> 01:18:26.080]   And so the whole reason why he writes Thessalonians
+[01:18:26.080 --> 01:18:30.080]   is to kind of correct that false teaching that was going around.
+[01:18:30.080 --> 01:18:33.080]   And then, not only were they distorting his message,
+[01:18:33.080 --> 01:18:35.080]   they were distorting the messenger.
+[01:18:35.080 --> 01:18:38.080]   Remember what they were saying about Paul?
+[01:18:38.080 --> 01:18:40.080]   Remember in Thessalonians?
+[01:18:40.080 --> 01:18:45.080]   What was he saying about Paul to discount his message?
+[01:18:45.080 --> 01:18:48.080]   This guy, all he wants is your money.
+[01:18:48.080 --> 01:18:49.080]   Right?
+[01:18:49.080 --> 01:18:51.080]   And that's what the false teachers came in and saying,
+[01:18:51.080 --> 01:18:53.080]   "This guy is saying all these crazy things,
+[01:18:53.080 --> 01:18:55.080]   "and he just wants your money."
+[01:18:55.080 --> 01:18:57.080]   And then, remember Paul defends himself?
+[01:18:57.080 --> 01:19:00.080]   Do you remember how I work night and day, right?
+[01:19:00.080 --> 01:19:02.080]   To not to burden you, right?
+[01:19:02.080 --> 01:19:03.080]   Because he didn't want you.
+[01:19:03.080 --> 01:19:05.080]   Basically, he knew that this was going to come.
+[01:19:05.080 --> 01:19:15.080]   So, these untaught, unstable people were distorting the gospel,
+[01:19:15.080 --> 01:19:20.080]   and of all people that were defending him, it was Apostle Peter, right?
+[01:19:20.080 --> 01:19:23.080]   So, I don't know about you, but this is, to me,
+[01:19:23.080 --> 01:19:27.080]   this is so encouraging because from the early church,
+[01:19:27.080 --> 01:19:28.080]   they're human beings too.
+[01:19:28.080 --> 01:19:31.080]   I'm sure Apostle Peter was very embarrassed,
+[01:19:31.080 --> 01:19:33.080]   and he could have easily called Peter out and said,
+[01:19:33.080 --> 01:19:34.080]   "Who's this guy?"
+[01:19:34.080 --> 01:19:35.080]   Right?
+[01:19:35.080 --> 01:19:40.080]   But the Holy Spirit was moving among these men that now you see Paul, right?
+[01:19:40.080 --> 01:19:43.080]   He's the one defending, right?
+[01:19:43.080 --> 01:19:45.080]   Which is also interesting, the other back story is,
+[01:19:45.080 --> 01:19:50.080]   remember Paul, remember rejected Mark after the first missionary journey?
+[01:19:50.080 --> 01:19:53.080]   And so, Paul and Barnabas split.
+[01:19:53.080 --> 01:19:55.080]   Guess what Mark turns out to be?
+[01:19:55.080 --> 01:19:57.080]   Peter's personal assistant.
+[01:19:57.080 --> 01:20:04.080]   And then, Paul later on admits that Mark had become a very useful servant.
+[01:20:04.080 --> 01:20:08.080]   So, indirectly, he kind of admits that he was wrong about Mark, right?
+[01:20:08.080 --> 01:20:12.080]   So, when you see the back story behind the drama that's taking place,
+[01:20:12.080 --> 01:20:22.080]   even in the midst of human personalities, God is still working, right?
+[01:20:22.080 --> 01:20:27.080]   All right, so we go here to, "Therefore, beloved, since you look for these things," right?
+[01:20:27.080 --> 01:20:31.080]   And the whole previous two sections was about how the heavens and the earth
+[01:20:31.080 --> 01:20:34.080]   is going to be destroyed by fire, right?
+[01:20:34.080 --> 01:20:38.080]   So, knowing that everything that we're tempted by is going to be destroyed,
+[01:20:38.080 --> 01:20:42.080]   and then only the eternal things are going to be coming,
+[01:20:42.080 --> 01:20:45.080]   what kind of people should we be, right?
+[01:20:45.080 --> 01:20:50.080]   Be diligent to be found in Him in peace, spotless, and blameless.
+[01:20:50.080 --> 01:20:54.080]   What does it mean to be found in peace, right?
+[01:20:54.080 --> 01:21:00.080]   This is not simply in reference to your inner chi.
+[01:21:00.080 --> 01:21:01.080]   You know what I mean?
+[01:21:01.080 --> 01:21:04.080]   Like, from meditation, like I have peace.
+[01:21:04.080 --> 01:21:08.080]   One of the most foolish things that you hear people say
+[01:21:08.080 --> 01:21:15.080]   when they're about to do something foolish is, "I have peace," right?
+[01:21:15.080 --> 01:21:19.080]   Like, "Oh, but I have peace," right?
+[01:21:19.080 --> 01:21:22.080]   And you're going to do something completely unbiblical, ungodly,
+[01:21:22.080 --> 01:21:24.080]   but I have peace.
+[01:21:24.080 --> 01:21:27.080]   And that's kind of like their guiding force.
+[01:21:27.080 --> 01:21:30.080]   The inner chi is at peace, right?
+[01:21:30.080 --> 01:21:34.080]   Now, remember the false prophets when God comes and He convicts them
+[01:21:34.080 --> 01:21:35.080]   and He calls them out.
+[01:21:35.080 --> 01:21:37.080]   Remember what God says about the false prophets?
+[01:21:37.080 --> 01:21:40.080]   They say, "Peace, peace," when there is no peace.
+[01:21:40.080 --> 01:21:42.080]   They're selling peace to everybody, right?
+[01:21:42.080 --> 01:21:43.080]   But there's no peace.
+[01:21:43.080 --> 01:21:48.080]   The peace here is talking about is peace with God, right?
+[01:21:48.080 --> 01:21:50.080]   That you're not living any way you want.
+[01:21:50.080 --> 01:21:54.080]   Remember in the book of Amos, these people were very religious
+[01:21:54.080 --> 01:21:56.080]   and they thought they were right with God,
+[01:21:56.080 --> 01:21:59.080]   but He sends a plumb line, the Word of God, right?
+[01:21:59.080 --> 01:22:04.080]   By your own eyes or your own feelings, maybe because you've drifted so far,
+[01:22:04.080 --> 01:22:07.080]   you're not even able to identify.
+[01:22:07.080 --> 01:22:10.080]   You have peace when there is no peace.
+[01:22:10.080 --> 01:22:13.080]   Judgment of God is coming and you say you have peace.
+[01:22:13.080 --> 01:22:16.080]   So He sends a plumb line, right?
+[01:22:16.080 --> 01:22:20.080]   The Word of God to measure so that you can measure where you are with God
+[01:22:20.080 --> 01:22:21.080]   according to the Word of God.
+[01:22:21.080 --> 01:22:25.080]   So here the peace, to be found in peace with Him is not simply talking about
+[01:22:25.080 --> 01:22:27.080]   how you feel inside.
+[01:22:27.080 --> 01:22:30.080]   It's talking about your life in such a way that you have peace with God,
+[01:22:30.080 --> 01:22:32.080]   that you're not living in rebellion, right?
+[01:22:32.080 --> 01:22:35.080]   And then to be spotless and blameless.
+[01:22:35.080 --> 01:22:38.080]   Where do you find this word "spotless" in the Bible?
+[01:22:38.080 --> 01:22:41.080]   Huh?
+[01:22:41.080 --> 01:22:42.080]   Leviticus.
+[01:22:42.080 --> 01:22:45.080]   What is it in reference to?
+[01:22:45.080 --> 01:22:46.080]   Animals, right?
+[01:22:46.080 --> 01:22:48.080]   Lamb without blemish, spotless.
+[01:22:48.080 --> 01:22:52.080]   So this--immediately if you're thinking the Old Testament,
+[01:22:52.080 --> 01:22:55.080]   you would think of the spotless sacrifice, right?
+[01:22:55.080 --> 01:22:59.080]   Nothing impure, nothing defective can be in the presence of God.
+[01:22:59.080 --> 01:23:02.080]   You cannot offer an animal without spot.
+[01:23:02.080 --> 01:23:08.080]   So immediately a Jew would hear this and realize that that's what he's talking about, right?
+[01:23:08.080 --> 01:23:13.080]   So this may be more talking about the character of the individual.
+[01:23:13.080 --> 01:23:16.080]   Because spotless, you're thinking about something on the outside,
+[01:23:16.080 --> 01:23:18.080]   something that people can observe, right?
+[01:23:18.080 --> 01:23:19.080]   Possibly your character.
+[01:23:19.080 --> 01:23:22.080]   Blameless, right?
+[01:23:22.080 --> 01:23:23.080]   It's kind of like above reproach.
+[01:23:23.080 --> 01:23:29.080]   So if you put the two of them together, you'd be talking about your character and your behavior.
+[01:23:29.080 --> 01:23:36.080]   So remember last week we talked about holy conduct and being godly, right?
+[01:23:36.080 --> 01:23:39.080]   And basically put together, it means everything.
+[01:23:39.080 --> 01:23:42.080]   And same thing here, spotless and blameless.
+[01:23:42.080 --> 01:23:50.080]   So have peace with God by being spotless and blameless, inside and out, right?
+[01:23:50.080 --> 01:23:57.080]   That you can present yourself to be spotless, but you're not blameless, right?
+[01:23:57.080 --> 01:24:00.080]   Because of what you're harboring in your heart.
+[01:24:00.080 --> 01:24:03.080]   So what's happening inside of you, right?
+[01:24:03.080 --> 01:24:09.080]   Or you can say, you know, my heart is pure, but your conduct is not, right?
+[01:24:09.080 --> 01:24:10.080]   Your character is not.
+[01:24:10.080 --> 01:24:13.080]   So by saying spotless and blameless, even though it has similar meaning,
+[01:24:13.080 --> 01:24:16.080]   basically it's covering everything.
+[01:24:16.080 --> 01:24:23.080]   Not to excuse your sin because of righteousness in other areas, right?
+[01:24:23.080 --> 01:24:31.080]   Regard patience.
+[01:24:31.080 --> 01:24:36.080]   Regard patience of our Lord as salvation, right?
+[01:24:36.080 --> 01:24:40.080]   What does that mean?
+[01:24:40.080 --> 01:24:44.080]   Regard it as salvation.
+[01:24:44.080 --> 01:24:49.080]   Remember the previous passages, what he said about why is he not coming, right?
+[01:24:49.080 --> 01:24:52.080]   Everything continues to go on like it always did.
+[01:24:52.080 --> 01:24:54.080]   Remember what Peter says.
+[01:24:54.080 --> 01:24:59.080]   Why is he not coming?
+[01:24:59.080 --> 01:25:02.080]   There's two things that he said in the previous passage.
+[01:25:02.080 --> 01:25:09.080]   Why he hasn't come yet.
+[01:25:09.080 --> 01:25:10.080]   Okay.
+[01:25:10.080 --> 01:25:13.080]   For others to repent, right?
+[01:25:13.080 --> 01:25:16.080]   For others to give time for the others to repent.
+[01:25:16.080 --> 01:25:20.080]   He does not desire anyone to be lost, right?
+[01:25:20.080 --> 01:25:26.080]   And then two, time is relative to him, right?
+[01:25:26.080 --> 01:25:32.080]   So to us, a thousand years may sound like a long period of time, but to God, it's nothing, right?
+[01:25:32.080 --> 01:25:37.080]   So when he says regard patience of our Lord as salvation, there's two applications.
+[01:25:37.080 --> 01:25:44.080]   One is how we think, right?
+[01:25:44.080 --> 01:25:47.080]   Which he already talked about, right?
+[01:25:47.080 --> 01:25:54.080]   That don't get anxious, don't let these false prophets tell you, you know, and try to throw it away and lose hope.
+[01:25:54.080 --> 01:26:02.080]   And he says so regard it as salvation because, again, God is being patient so that all that are elect will come into the kingdom.
+[01:26:02.080 --> 01:26:10.080]   And then two, how you live, right?
+[01:26:10.080 --> 01:26:24.080]   Because if the whole reason why he hasn't come is for others to come to Christ, clearly what we're supposed to be doing is to bring other people to Christ, right?
+[01:26:24.080 --> 01:26:26.080]   Because that's the whole reason why we're here.
+[01:26:26.080 --> 01:26:32.080]   The whole reason why he's not here and the whole reason why you and I are here is to get the gospel to other people, right?
+[01:26:32.080 --> 01:26:41.080]   So sometimes if we're not careful, we look at our Christian life as trying very hard not to sin until we get to heaven, right?
+[01:26:41.080 --> 01:26:46.080]   Trying very hard not to sin until we get to heaven, right?
+[01:26:46.080 --> 01:26:55.080]   Which is something we should be working on but the calling for a Christian goes beyond that, far beyond that, right?
+[01:26:55.080 --> 01:26:59.080]   And it's not simply because that's what the Bible says.
+[01:26:59.080 --> 01:27:01.080]   You know, oftentimes, like, what does the Bible say?
+[01:27:01.080 --> 01:27:08.080]   Does the Bible really have to tell us that for us to believe that salvation is only in Christ?
+[01:27:08.080 --> 01:27:17.080]   And then just the natural response to that would be to tell as many people as possible before we go.
+[01:27:17.080 --> 01:27:24.080]   Not simply because the Bible said so, it's just a moral thing to do, right?
+[01:27:24.080 --> 01:27:34.080]   That would be the moral and logical thing to do, that we would live our lives to the best of our ability to share the gospel as many people as possible, right?
+[01:27:34.080 --> 01:27:41.080]   I mean, biblical, I mean, of course it's biblical but it's just common sense.
+[01:27:41.080 --> 01:27:51.080]   It wouldn't make sense, it wouldn't be consistent with our profession of belief about salvation in Christ alone and then to say, well, I don't know if the Bible tells us that.
+[01:27:51.080 --> 01:27:53.080]   Does the Bible really need to tell you that?
+[01:27:53.080 --> 01:27:54.080]   Do you know what I mean?
+[01:27:54.080 --> 01:27:58.080]   If you have a million dollars and somebody's starving next to you and thinking, how can I feed that person?
+[01:27:58.080 --> 01:28:07.080]   Does somebody need to have a discussion with you and train you how to dissect that money and give it to that person and buy the food and pay the whole?
+[01:28:07.080 --> 01:28:09.080]   Nobody ever trained me to do this.
+[01:28:09.080 --> 01:28:11.080]   Does somebody, do you really need training for that?
+[01:28:11.080 --> 01:28:13.080]   You know what I mean?
+[01:28:13.080 --> 01:28:19.080]   Anyway, I'm gonna go off if I don't continue, okay?
+[01:28:19.080 --> 01:28:27.080]   So how we think how you live, right, is what it means to regard patience of our Lord as salvation.
+[01:28:27.080 --> 01:28:32.080]   And then three, be on guard so that you are not carried away, right?
+[01:28:32.080 --> 01:28:43.080]   Be sober because of unprincipled men, right, so that you do not fall from your steadfastness, right?
+[01:28:43.080 --> 01:28:44.080]   Be on guard.
+[01:28:44.080 --> 01:28:46.080]   How are you to be on guard?
+[01:28:46.080 --> 01:28:49.080]   Well, all these things, right?
+[01:28:49.080 --> 01:28:52.080]   All these things.
+[01:28:52.080 --> 01:29:09.080]   If you're not thinking about his coming and you're not actively pursuing being found in peace with God, spotless, blameless, if you're not actively participating in the spread of the gospel, then there's no way you can be on guard, right?
+[01:29:09.080 --> 01:29:13.080]   Being on guard isn't simply memorizing scripture, right?
+[01:29:13.080 --> 01:29:18.080]   Being on guard isn't simply coming to Bible study because you can turn this on and off, right?
+[01:29:18.080 --> 01:29:22.080]   Every Wednesday you can come turn it off and then when Bible study is done, Bible study is done, right?
+[01:29:22.080 --> 01:29:30.080]   The purpose of Bible study is so that you can be on guard every other time, right?
+[01:29:30.080 --> 01:29:37.080]   And then five, grow in the grace and knowledge of our Lord Jesus Christ, right?
+[01:29:37.080 --> 01:29:40.080]   This is interesting here when it says grow in grace, right?
+[01:29:40.080 --> 01:29:48.080]   Because typically when you think of growing, if you're commanded to grow, like what do I have to do?
+[01:29:48.080 --> 01:29:50.080]   What do I need to apply, right?
+[01:29:50.080 --> 01:29:55.080]   When you think about grace, you just receive, right?
+[01:29:55.080 --> 01:29:59.080]   But here it says to grow in grace.
+[01:29:59.080 --> 01:30:01.080]   So what does that mean?
+[01:30:01.080 --> 01:30:11.080]   Because I know like these are the things I need to do in order to grow, but it says that growth has to be in grace.
+[01:30:11.080 --> 01:30:12.080]   What does that mean?
+[01:30:12.080 --> 01:30:28.080]   How do you apply that?
+[01:30:28.080 --> 01:30:40.080]   Sorry.
+[01:30:40.080 --> 01:30:44.080]   I just didn't hear anything you said.
+[01:30:44.080 --> 01:30:47.080]   I was trying to catch certain words and pretend like I heard you.
+[01:30:47.080 --> 01:31:09.080]   I didn't hear you.
+[01:31:09.080 --> 01:31:14.080]   What I heard, yeah.
+[01:31:14.080 --> 01:31:17.080]   Okay.
+[01:31:17.080 --> 01:31:22.080]   I think I heard the gist of basically, yeah, basically to grow in grace, it's not one or the other, right?
+[01:31:22.080 --> 01:31:29.080]   If you are trying to grow and grace is not what's causing you to grow, it's just your hard work.
+[01:31:29.080 --> 01:31:32.080]   I'm going to just, you know, I'm just going to be disciplined.
+[01:31:32.080 --> 01:31:33.080]   I'm going to do this.
+[01:31:33.080 --> 01:31:34.080]   I'm going to have accountability.
+[01:31:34.080 --> 01:31:35.080]   I'm going to memorize scripture.
+[01:31:35.080 --> 01:31:40.080]   What ends up happening?
+[01:31:40.080 --> 01:31:41.080]   Legalism?
+[01:31:41.080 --> 01:31:43.080]   Well, what else happens?
+[01:31:43.080 --> 01:31:46.080]   Pride, judgmentalism, right?
+[01:31:46.080 --> 01:31:49.080]   Because you did it.
+[01:31:49.080 --> 01:31:50.080]   Because you did it.
+[01:31:50.080 --> 01:31:53.080]   Whatever happened is because you worked hard and you did it.
+[01:31:53.080 --> 01:31:55.080]   You applied it, right?
+[01:31:55.080 --> 01:32:00.080]   So there's a danger of growing without grace.
+[01:32:00.080 --> 01:32:05.080]   What happens when you are just embracing grace, right?
+[01:32:05.080 --> 01:32:07.080]   It's all about grace, right?
+[01:32:07.080 --> 01:32:09.080]   It's not about what we do.
+[01:32:09.080 --> 01:32:11.080]   It's about what he did.
+[01:32:11.080 --> 01:32:13.080]   You know, we're not about moralism.
+[01:32:13.080 --> 01:32:16.080]   We just enjoy what he's done.
+[01:32:16.080 --> 01:32:23.080]   What results from that?
+[01:32:23.080 --> 01:32:25.080]   Empty words, right?
+[01:32:25.080 --> 01:32:29.080]   Form of godliness with no power, right?
+[01:32:29.080 --> 01:32:33.080]   Peace when there's no peace, right?
+[01:32:33.080 --> 01:32:36.080]   Licentiousness, right?
+[01:32:36.080 --> 01:32:38.080]   Where you like, law, you kind of pick and choose.
+[01:32:38.080 --> 01:32:40.080]   I love grace.
+[01:32:40.080 --> 01:32:44.080]   But then the judgment, you know, like we're not about that.
+[01:32:44.080 --> 01:32:45.080]   We don't judge.
+[01:32:45.080 --> 01:32:48.080]   Even though the bible says judge.
+[01:32:48.080 --> 01:32:49.080]   Right?
+[01:32:49.080 --> 01:32:51.080]   The judgment needs to start from the household of god.
+[01:32:51.080 --> 01:32:54.080]   The problem is we start judging outside instead of inside first, right?
+[01:32:54.080 --> 01:32:56.080]   That we need to be pure.
+[01:32:56.080 --> 01:33:00.080]   So you can't have one without the other.
+[01:33:00.080 --> 01:33:05.080]   You are to strive to grow but in the grace of god and in the knowledge.
+[01:33:05.080 --> 01:33:07.080]   So how does grace happen?
+[01:33:07.080 --> 01:33:10.080]   Grace happens as you grow in grace.
+[01:33:10.080 --> 01:33:14.080]   Growth happens as you grow in grace.
+[01:33:14.080 --> 01:33:16.080]   Yes?
+[01:33:16.080 --> 01:33:18.080]   Yeah.
+[01:33:18.080 --> 01:33:24.080]   So if you see somebody growing in their faith, you can't have one without the other.
+[01:33:24.080 --> 01:33:29.080]   If somebody is growing in righteousness, they also must be growing in grace.
+[01:33:29.080 --> 01:33:31.080]   And in the knowledge of god, right?
+[01:33:31.080 --> 01:33:34.080]   And in the knowledge of god, he's not just talking about information.
+[01:33:34.080 --> 01:33:36.080]   Like I know more information.
+[01:33:36.080 --> 01:33:38.080]   I studied theology and so I read more books.
+[01:33:38.080 --> 01:33:39.080]   I have more information.
+[01:33:39.080 --> 01:33:45.080]   This knowledge here is not referencing like growing in understanding or more information.
+[01:33:45.080 --> 01:33:48.080]   Growing in knowledge basically is affection for god.
+[01:33:48.080 --> 01:33:49.080]   Right?
+[01:33:49.080 --> 01:33:57.080]   Because the more you understand and embrace and practice grace, the more you are in love with this god.
+[01:33:57.080 --> 01:33:59.080]   The more you experienced him.
+[01:33:59.080 --> 01:34:00.080]   Right?
+[01:34:00.080 --> 01:34:08.080]   So beholding his beauty is what ultimately leads to greater righteousness.
+[01:34:08.080 --> 01:34:09.080]   Right?
+[01:34:09.080 --> 01:34:10.080]   That's the gospel.
+[01:34:10.080 --> 01:34:15.080]   The gospel isn't get yourself right so that you can be right with god.
+[01:34:15.080 --> 01:34:19.080]   The gospel is get right with god so that you can become righteous.
+[01:34:19.080 --> 01:34:20.080]   Right?
+[01:34:20.080 --> 01:34:25.080]   And so getting right with god requires grace and knowledge.
+[01:34:25.080 --> 01:34:29.080]   You cannot get right with god by your own effort.
+[01:34:29.080 --> 01:34:30.080]   Right?
+[01:34:30.080 --> 01:34:34.080]   You can only -- so that's why you can't have one with the other.
+[01:34:34.080 --> 01:34:40.080]   If you're really growing in christ, you must also be growing in grace and knowledge.
+[01:34:40.080 --> 01:34:42.080]   They go hand in hand.
+[01:34:42.080 --> 01:34:48.080]   One without the other falls into two things in the bible that they're constantly fighting.
+[01:34:48.080 --> 01:34:51.080]   One is the judiaizers.
+[01:34:51.080 --> 01:34:52.080]   Right?
+[01:34:52.080 --> 01:34:55.080]   They practice and they said, oh, we got to do all these things.
+[01:34:55.080 --> 01:34:58.080]   You still have to do it in order for you to know god.
+[01:34:58.080 --> 01:35:04.080]   This other part, the gnostics, what you do in the flesh doesn't matter because we're saved.
+[01:35:04.080 --> 01:35:06.080]   And the whole first john is written to that.
+[01:35:06.080 --> 01:35:07.080]   Right?
+[01:35:07.080 --> 01:35:10.080]   You can't say you're a fellowship with god while you're living in darkness.
+[01:35:10.080 --> 01:35:15.080]   So you have these two things on both sides that was constantly competing with the gospel.
+[01:35:15.080 --> 01:35:18.080]   You have legalism and licentiousness.
+[01:35:18.080 --> 01:35:24.080]   So if you grow without grace or you have grace without growth, right, you're falling into
+[01:35:24.080 --> 01:35:28.080]   one of these categories.
+[01:35:28.080 --> 01:35:30.080]   Right?
+[01:35:30.080 --> 01:35:32.080]   And then obviously his conclusion.
+[01:35:32.080 --> 01:35:36.080]   To him be the glory both now and to the day of eternity.
+[01:35:36.080 --> 01:35:38.080]   All right.
+[01:35:38.080 --> 01:35:39.080]   Okay.
+[01:35:39.080 --> 01:35:40.080]   That's the wrap up.
+[01:35:40.080 --> 01:35:44.080]   So this is the review for next week.
+[01:35:44.080 --> 01:35:47.080]   This is exactly what we did I think in Thessalonians.
+[01:35:47.080 --> 01:35:49.080]   I forgot what book it was from.
+[01:35:49.080 --> 01:35:50.080]   Okay.
+[01:35:50.080 --> 01:35:53.080]   So review your notes on all three chapters.
+[01:35:53.080 --> 01:35:54.080]   Okay.
+[01:35:54.080 --> 01:35:55.080]   Go back.
+[01:35:55.080 --> 01:35:57.080]   Hope you didn't throw it away.
+[01:35:57.080 --> 01:35:58.080]   Okay.
+[01:35:58.080 --> 01:35:59.080]   Go back and review your notes.
+[01:35:59.080 --> 01:36:02.080]   Just go through it several times and make sure that you like certain things that you
+[01:36:02.080 --> 01:36:04.080]   kind of highlighted.
+[01:36:04.080 --> 01:36:08.080]   So I'm pretty sure if you go back and read your notes, you're not going to like you've
+[01:36:08.080 --> 01:36:12.080]   probably highlighted different things in second Peter than I did.
+[01:36:12.080 --> 01:36:16.080]   Then maybe your bible study group did because certain things may have made more sense to
+[01:36:16.080 --> 01:36:18.080]   you or hit you harder than before.
+[01:36:18.080 --> 01:36:20.080]   So pay attention to that as you're going.
+[01:36:20.080 --> 01:36:25.080]   Not just a logistical outline but just to go back and remember how what kind of impression,
+[01:36:25.080 --> 01:36:29.080]   what verses, what things that came out that really made an impression on you.
+[01:36:29.080 --> 01:36:32.080]   What's the primary reason apostle Peter wrote second Peter?
+[01:36:32.080 --> 01:36:35.080]   So go back and review that if you forgot.
+[01:36:35.080 --> 01:36:38.080]   What are some repeated phrases or words in all three chapters?
+[01:36:38.080 --> 01:36:44.080]   So I'll bet you now if you go back and you look at your introduction study, it's going
+[01:36:44.080 --> 01:36:46.080]   to be much more precise.
+[01:36:46.080 --> 01:36:50.080]   There are certain words that probably you didn't notice that you'll probably notice
+[01:36:50.080 --> 01:36:54.080]   more this time because now that you've studied it.
+[01:36:54.080 --> 01:36:58.080]   How would you retitle the whole letter in your own words?
+[01:36:58.080 --> 01:37:04.080]   Again, go look back at what you wrote in the beginning and then compare it to how you would
+[01:37:04.080 --> 01:37:05.080]   write it.
+[01:37:05.080 --> 01:37:06.080]   How is it similar?
+[01:37:06.080 --> 01:37:07.080]   How did it change?
+[01:37:07.080 --> 01:37:13.080]   This going in depth, how did it help you or change your perspective or something that
+[01:37:13.080 --> 01:37:18.080]   you kind of saw just superficially in the beginning but how does it affect it now?
+[01:37:18.080 --> 01:37:21.080]   How did you learn about God through this letter?
+[01:37:21.080 --> 01:37:24.080]   These are questions that you should ask every book.
+[01:37:24.080 --> 01:37:28.080]   What did you learn about the gospel through this letter specifically?
+[01:37:28.080 --> 01:37:32.080]   What did you learn about the church specifically, the community?
+[01:37:32.080 --> 01:37:35.080]   What did you learn about yourself?
+[01:37:35.080 --> 01:37:41.080]   So these are reflection questions and this is the end goal of every Bible study.
+[01:37:41.080 --> 01:37:48.080]   Every quiet time, every sermon is to make sure that you come out with this.
+[01:37:48.080 --> 01:37:52.080]   If you didn't, you kind of missed the point.
+[01:37:52.080 --> 01:37:55.080]   What specific applications have you made while studying?
+[01:37:55.080 --> 01:38:01.080]   Not what you should make but during the Bible study, remember what applications were made.
+[01:38:01.080 --> 01:38:05.080]   And then what did you learn about inductive Bible study?
+[01:38:05.080 --> 01:38:08.080]   Or were you an expert already when you came in?
+[01:38:08.080 --> 01:38:12.080]   So if you were an expert already, next week when you come, say, "Expert."
+[01:38:12.080 --> 01:38:15.080]   Otherwise, what did you learn?
+[01:38:15.080 --> 01:38:17.080]   Is there anything new you learned?
+[01:38:17.080 --> 01:38:20.080]   Like, oh, you know, the cross references were really important.
+[01:38:20.080 --> 01:38:22.080]   The word study was really important.
+[01:38:22.080 --> 01:38:25.080]   Outlining was really important.
+[01:38:25.080 --> 01:38:29.080]   In what way can you improve for the next session of inductive Bible study?
+[01:38:29.080 --> 01:38:34.080]   What are some skills that you learned from this section that as we go into the next study
+[01:38:34.080 --> 01:38:37.080]   at the end of January, like how will it help?
+[01:38:37.080 --> 01:38:42.080]   Okay, so these are all things that I'm going to ask you guys to prepare.
+[01:38:42.080 --> 01:38:44.080]   So when you come, these are the questions that you're going to go through.
+[01:38:44.080 --> 01:38:48.080]   And then after you do your initial session, I'll come and I'm going to highlight.
+[01:38:48.080 --> 01:38:50.080]   I'm not going to go through all of this.
+[01:38:50.080 --> 01:38:52.080]   I'm just going to highlight a few things.
+[01:38:52.080 --> 01:38:57.080]   And then at the end, you'll go back and take some time to pray as we end up, wrap up.
+[01:38:57.080 --> 01:39:00.080]   Okay, here's the discussion questions.
+[01:39:00.080 --> 01:39:03.080]   How can you be more mindful of the end times?
+[01:39:03.080 --> 01:39:06.080]   Okay, this is part of what we talked about last time.
+[01:39:06.080 --> 01:39:10.080]   With so many people in different churches claiming to be teaching the truth,
+[01:39:10.080 --> 01:39:16.080]   how can you be sure that what you are learning is the truth rather than a distortion of the truth?
+[01:39:16.080 --> 01:39:18.080]   Right?
+[01:39:18.080 --> 01:39:23.080]   Let me just say this.
+[01:39:23.080 --> 01:39:31.080]   When there's a lot of people saying different things, I see two false responses that people give.
+[01:39:31.080 --> 01:39:39.080]   One is, if they're all saying different things, maybe we can't know the truth.
+[01:39:39.080 --> 01:39:41.080]   Right?
+[01:39:41.080 --> 01:39:47.080]   If everybody is saying that they have the truth, that what we're saying is right, maybe they're all right.
+[01:39:47.080 --> 01:39:48.080]   Right?
+[01:39:48.080 --> 01:39:53.080]   It's just, you know, we don't have to be so harsh because there's different people have different opinions.
+[01:39:53.080 --> 01:39:56.080]   And so you don't really have a conviction about it.
+[01:39:56.080 --> 01:39:59.080]   You shouldn't have conviction about anything because that's a pastor.
+[01:39:59.080 --> 01:40:05.080]   That's a church and this seminary and that's a -- so if they're all saying different things, maybe we're not supposed to.
+[01:40:05.080 --> 01:40:09.080]   And so being confident about something is just arrogance.
+[01:40:09.080 --> 01:40:11.080]   Right?
+[01:40:11.080 --> 01:40:22.080]   Or you say, since everybody is saying the same thing and they all are saying different things, they have different opinions, they must all be wrong.
+[01:40:22.080 --> 01:40:24.080]   Right?
+[01:40:24.080 --> 01:40:26.080]   Why do you have so much opinion?
+[01:40:26.080 --> 01:40:29.080]   Because everybody -- maybe we're not able to know the truth.
+[01:40:29.080 --> 01:40:30.080]   Right?
+[01:40:30.080 --> 01:40:32.080]   Do you understand what I'm saying?
+[01:40:32.080 --> 01:40:39.080]   So the lazy way to respond when there are different opinions is either everybody is right or everybody is wrong.
+[01:40:39.080 --> 01:40:42.080]   Is that the right approach?
+[01:40:42.080 --> 01:40:44.080]   No, it cannot be the right approach.
+[01:40:44.080 --> 01:40:46.080]   Let me give you an example.
+[01:40:46.080 --> 01:40:48.080]   Okay?
+[01:40:48.080 --> 01:41:00.080]   If five people come into the room and all five people say that they are Michael Jordan, do you say, well, they must all be Michael Jordan because they all said they're Michael Jordan.
+[01:41:00.080 --> 01:41:02.080]   Is that how you would respond to that?
+[01:41:02.080 --> 01:41:04.080]   No.
+[01:41:04.080 --> 01:41:06.080]   Or do you say they all said they're Michael Jordan.
+[01:41:06.080 --> 01:41:08.080]   That can't be right.
+[01:41:08.080 --> 01:41:10.080]   So then none of them are Michael Jordan.
+[01:41:10.080 --> 01:41:14.080]   Is that how you would respond to that?
+[01:41:14.080 --> 01:41:16.080]   Right?
+[01:41:16.080 --> 01:41:34.080]   So maybe if they're all 5'6", right, 5'6" Asian American, right, middle-aged, maybe, but maybe one of them has a different skin tone and he's 6'6", right?
+[01:41:34.080 --> 01:41:35.080]   That's not racist.
+[01:41:35.080 --> 01:41:37.080]   That's not racist.
+[01:41:37.080 --> 01:41:40.080]   Don't be overly sensitive.
+[01:41:40.080 --> 01:41:46.080]   And he's 6'6" and he's slender and he's of the age, right?
+[01:41:46.080 --> 01:41:52.080]   Then you would look at that and say, well, they're all saying it, but there's only one that looks like Michael Jordan.
+[01:41:52.080 --> 01:41:56.080]   You see him play basketball and he's the only one that can actually play like Michael Jordan.
+[01:41:56.080 --> 01:42:01.080]   The only one that actually fits all the criteria that a Michael Jordan may have.
+[01:42:01.080 --> 01:42:03.080]   So how would you know?
+[01:42:03.080 --> 01:42:04.080]   Right?
+[01:42:04.080 --> 01:42:06.080]   You would examine closer.
+[01:42:06.080 --> 01:42:08.080]   Look at his driver's license.
+[01:42:08.080 --> 01:42:11.080]   Ask where he lives.
+[01:42:11.080 --> 01:42:13.080]   Look at the pictures maybe, right?
+[01:42:13.080 --> 01:42:16.080]   Then you can come to the conclusion that's got to be Michael Jordan.
+[01:42:16.080 --> 01:42:22.080]   But you don't automatically say because everybody said that they're Michael Jordan, say, oh, they can't all be Michael Jordan.
+[01:42:22.080 --> 01:42:25.080]   Or none of them can be Michael Jordan, right?
+[01:42:25.080 --> 01:42:32.080]   I see a lot of people coming to false conclusions because they hear so many differing opinions.
+[01:42:32.080 --> 01:42:40.080]   And without doing their homework, they come to one or the other conclusion without ever carefully examining.
+[01:42:40.080 --> 01:42:48.080]   At the end of the day, you may do careful examination, maybe come out at the end saying, after I looked at everything carefully,
+[01:42:48.080 --> 01:42:51.080]   clearly none of them are Michael Jordan.
+[01:42:51.080 --> 01:42:56.080]   Or after careful examination, looking at the pictures and everything else, none of them fits this criteria.
+[01:42:56.080 --> 01:42:58.080]   They can all be wrong.
+[01:42:58.080 --> 01:43:02.080]   But they don't come to that conclusion just because they said that.
+[01:43:02.080 --> 01:43:03.080]   Okay?
+[01:43:03.080 --> 01:43:14.080]   The reason why I tell you that is because I am confident that if you take time to examine the Word of God and ask good questions and dig and search for the truth,
+[01:43:14.080 --> 01:43:18.080]   that we will all come out at the same place.
+[01:43:18.080 --> 01:43:20.080]   I'm confident of that.
+[01:43:20.080 --> 01:43:24.080]   I don't need you to believe everything I tell you.
+[01:43:24.080 --> 01:43:29.080]   Because my words, in my opinion, are coming from the Word of God.
+[01:43:29.080 --> 01:43:33.080]   So if you examine it carefully, right, test me.
+[01:43:33.080 --> 01:43:34.080]   Question what I say.
+[01:43:34.080 --> 01:43:36.080]   Examine if it's coming from Scripture.
+[01:43:36.080 --> 01:43:41.080]   And if you test me, we will be more united, not less united.
+[01:43:41.080 --> 01:43:43.080]   And I'm confident of that.
+[01:43:43.080 --> 01:43:47.080]   We may not have that 100% opinion about the exact same thing.
+[01:43:47.080 --> 01:43:55.080]   But part of the reason why there's so much division in our churches and in our generation is because we are not examining the truth.
+[01:43:55.080 --> 01:44:01.080]   We're coming to lazy conclusions about the truth, one way or the other.
+[01:44:01.080 --> 01:44:03.080]   Okay?
+[01:44:03.080 --> 01:44:06.080]   And then finally, what does growing in grace look like in your life?
+[01:44:06.080 --> 01:44:07.080]   Okay?
+[01:44:07.080 --> 01:44:14.080]   So let me pray for us and then I'll get you guys to have your discussion.
+[01:44:14.080 --> 01:44:18.080]   Gracious Father, we pray that you would anoint this time.
+[01:44:18.080 --> 01:44:25.080]   May your Word and your Spirit continue to speak to us, guide us, convict us, renew us.
+[01:44:25.080 --> 01:44:28.080]   May our hearts be fully devoted to you.
+[01:44:28.080 --> 01:44:31.080]   May your grace truly be sufficient.
+[01:44:31.080 --> 01:44:35.080]   Help us, Lord God, that we may grow in grace and in knowledge.
+[01:44:35.080 --> 01:44:36.080]   In Jesus' name we pray.
+[01:44:36.080 --> 01:44:37.080]   Amen.
+[01:44:37.080 --> 01:44:43.080]   [Pause]
+

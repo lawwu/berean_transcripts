@@ -1,0 +1,1177 @@
+
+[00:00:00.000 --> 00:00:03.480]   [SIDE CONVERSATION]
+[00:00:03.480 --> 00:00:06.960]   [SIDE CONVERSATION]
+[00:00:06.960 --> 00:00:10.440]   [SIDE CONVERSATION]
+[00:00:10.440 --> 00:00:13.440]   [SIDE CONVERSATION]
+[00:00:13.440 --> 00:00:16.440]   [SIDE CONVERSATION]
+[00:00:16.440 --> 00:00:19.440]   [SIDE CONVERSATION]
+[00:00:19.440 --> 00:00:22.440]   [SIDE CONVERSATION]
+[00:00:22.440 --> 00:00:25.440]   [SIDE CONVERSATION]
+[00:00:25.440 --> 00:00:28.440]   [SIDE CONVERSATION]
+[00:00:28.440 --> 00:00:31.440]   [SIDE CONVERSATION]
+[00:00:31.440 --> 00:00:34.440]   [SIDE CONVERSATION]
+[00:00:34.440 --> 00:00:37.440]   [SIDE CONVERSATION]
+[00:00:37.440 --> 00:00:40.440]   [SIDE CONVERSATION]
+[00:00:40.440 --> 00:00:43.440]   [SIDE CONVERSATION]
+[00:00:43.440 --> 00:00:46.440]   [SIDE CONVERSATION]
+[00:00:46.440 --> 00:00:49.440]   [SIDE CONVERSATION]
+[00:00:49.440 --> 00:00:52.440]   [SIDE CONVERSATION]
+[00:00:52.440 --> 00:00:55.440]   [SIDE CONVERSATION]
+[00:00:55.440 --> 00:00:58.440]   [SIDE CONVERSATION]
+[00:00:58.440 --> 00:01:01.440]   [SIDE CONVERSATION]
+[00:01:01.440 --> 00:01:04.440]   [SIDE CONVERSATION]
+[00:01:04.440 --> 00:01:07.440]   [SIDE CONVERSATION]
+[00:01:07.440 --> 00:01:10.440]   [SIDE CONVERSATION]
+[00:01:10.440 --> 00:01:13.440]   [SIDE CONVERSATION]
+[00:01:13.440 --> 00:01:16.440]   [SIDE CONVERSATION]
+[00:01:16.440 --> 00:01:19.440]   [SIDE CONVERSATION]
+[00:01:19.440 --> 00:01:22.440]   [SIDE CONVERSATION]
+[00:01:22.440 --> 00:01:25.440]   [SIDE CONVERSATION]
+[00:01:25.440 --> 00:01:28.440]   [SIDE CONVERSATION]
+[00:01:28.440 --> 00:01:31.440]   [SIDE CONVERSATION]
+[00:01:31.440 --> 00:01:34.440]   [SIDE CONVERSATION]
+[00:01:34.440 --> 00:01:37.440]   [SIDE CONVERSATION]
+[00:01:37.440 --> 00:01:40.440]   [SIDE CONVERSATION]
+[00:01:40.440 --> 00:01:43.440]   [SIDE CONVERSATION]
+[00:01:43.440 --> 00:01:46.440]   [SIDE CONVERSATION]
+[00:01:46.440 --> 00:01:49.440]   [SIDE CONVERSATION]
+[00:01:49.440 --> 00:01:52.440]   [SIDE CONVERSATION]
+[00:01:52.440 --> 00:01:55.440]   [SIDE CONVERSATION]
+[00:01:55.440 --> 00:01:58.440]   [SIDE CONVERSATION]
+[00:01:58.440 --> 00:02:01.440]   [SIDE CONVERSATION]
+[00:02:01.440 --> 00:02:04.440]   [SIDE CONVERSATION]
+[00:02:04.440 --> 00:02:07.440]   [SIDE CONVERSATION]
+[00:02:07.440 --> 00:02:10.440]   [SIDE CONVERSATION]
+[00:02:10.440 --> 00:02:13.440]   [SIDE CONVERSATION]
+[00:02:13.440 --> 00:02:16.440]   [SIDE CONVERSATION]
+[00:02:16.440 --> 00:02:19.440]   [SIDE CONVERSATION]
+[00:02:19.440 --> 00:02:22.440]   [SIDE CONVERSATION]
+[00:02:22.440 --> 00:02:25.440]   [SIDE CONVERSATION]
+[00:02:25.440 --> 00:02:28.440]   [SIDE CONVERSATION]
+[00:02:28.440 --> 00:02:31.440]   [SIDE CONVERSATION]
+[00:02:31.440 --> 00:02:34.440]   [SIDE CONVERSATION]
+[00:02:34.440 --> 00:02:37.440]   [SIDE CONVERSATION]
+[00:02:37.440 --> 00:02:40.440]   [SIDE CONVERSATION]
+[00:02:40.440 --> 00:02:43.440]   [SIDE CONVERSATION]
+[00:02:43.440 --> 00:02:46.440]   [SIDE CONVERSATION]
+[00:02:46.440 --> 00:02:49.440]   [SIDE CONVERSATION]
+[00:02:49.440 --> 00:02:52.440]   [SIDE CONVERSATION]
+[00:02:52.440 --> 00:02:55.440]   [SIDE CONVERSATION]
+[00:02:55.440 --> 00:02:58.440]   [SIDE CONVERSATION]
+[00:02:58.440 --> 00:03:01.440]   [SIDE CONVERSATION]
+[00:03:01.440 --> 00:03:04.440]   [SIDE CONVERSATION]
+[00:03:04.440 --> 00:03:07.440]   [SIDE CONVERSATION]
+[00:03:07.440 --> 00:03:10.440]   [SIDE CONVERSATION]
+[00:03:10.440 --> 00:03:13.440]   [SIDE CONVERSATION]
+[00:03:13.440 --> 00:03:16.440]   [SIDE CONVERSATION]
+[00:03:16.440 --> 00:03:19.440]   [SIDE CONVERSATION]
+[00:03:19.440 --> 00:03:22.440]   [SIDE CONVERSATION]
+[00:03:22.440 --> 00:03:25.440]   [SIDE CONVERSATION]
+[00:03:25.440 --> 00:03:28.440]   [SIDE CONVERSATION]
+[00:03:28.440 --> 00:03:31.440]   [SIDE CONVERSATION]
+[00:03:31.440 --> 00:03:34.440]   [SIDE CONVERSATION]
+[00:03:34.440 --> 00:03:37.440]   [SIDE CONVERSATION]
+[00:03:37.440 --> 00:03:40.440]   [SIDE CONVERSATION]
+[00:03:40.440 --> 00:03:43.440]   [SIDE CONVERSATION]
+[00:03:43.440 --> 00:03:46.440]   [SIDE CONVERSATION]
+[00:03:46.440 --> 00:03:49.440]   [SIDE CONVERSATION]
+[00:03:49.440 --> 00:03:52.440]   [SIDE CONVERSATION]
+[00:03:52.440 --> 00:03:55.440]   [SIDE CONVERSATION]
+[00:03:55.440 --> 00:03:58.440]   [SIDE CONVERSATION]
+[00:03:58.440 --> 00:04:01.440]   [SIDE CONVERSATION]
+[00:04:01.440 --> 00:04:04.440]   [SIDE CONVERSATION]
+[00:04:04.440 --> 00:04:07.440]   [SIDE CONVERSATION]
+[00:04:07.440 --> 00:04:10.440]   [SIDE CONVERSATION]
+[00:04:10.440 --> 00:04:13.440]   [SIDE CONVERSATION]
+[00:04:13.440 --> 00:04:16.440]   [SIDE CONVERSATION]
+[00:04:16.440 --> 00:04:19.440]   [SIDE CONVERSATION]
+[00:04:19.440 --> 00:04:22.440]   [SIDE CONVERSATION]
+[00:04:22.440 --> 00:04:25.440]   [SIDE CONVERSATION]
+[00:04:25.440 --> 00:04:28.440]   [SIDE CONVERSATION]
+[00:04:28.440 --> 00:04:31.440]   [SIDE CONVERSATION]
+[00:04:31.440 --> 00:04:34.440]   [SIDE CONVERSATION]
+[00:04:34.440 --> 00:04:37.440]   [SIDE CONVERSATION]
+[00:04:37.440 --> 00:04:40.440]   [SIDE CONVERSATION]
+[00:04:40.440 --> 00:04:43.440]   [SIDE CONVERSATION]
+[00:04:43.440 --> 00:04:46.440]   [SIDE CONVERSATION]
+[00:04:46.440 --> 00:04:49.440]   [SIDE CONVERSATION]
+[00:04:49.440 --> 00:04:52.440]   [SIDE CONVERSATION]
+[00:04:52.440 --> 00:04:55.440]   [SIDE CONVERSATION]
+[00:04:55.440 --> 00:04:58.440]   [SIDE CONVERSATION]
+[00:04:58.440 --> 00:05:01.440]   [SIDE CONVERSATION]
+[00:05:01.440 --> 00:05:04.440]   [SIDE CONVERSATION]
+[00:05:04.440 --> 00:05:07.440]   [SIDE CONVERSATION]
+[00:05:07.440 --> 00:05:10.440]   [SIDE CONVERSATION]
+[00:05:10.440 --> 00:05:13.440]   [SIDE CONVERSATION]
+[00:05:13.440 --> 00:05:16.440]   [SIDE CONVERSATION]
+[00:05:16.440 --> 00:05:19.440]   [SIDE CONVERSATION]
+[00:05:19.440 --> 00:05:22.440]   [SIDE CONVERSATION]
+[00:05:22.440 --> 00:05:25.440]   [SIDE CONVERSATION]
+[00:05:25.440 --> 00:05:28.440]   [SIDE CONVERSATION]
+[00:05:28.440 --> 00:05:31.440]   [SIDE CONVERSATION]
+[00:05:31.440 --> 00:05:34.440]   [SIDE CONVERSATION]
+[00:05:34.440 --> 00:05:37.440]   [SIDE CONVERSATION]
+[00:05:37.440 --> 00:05:40.440]   [SIDE CONVERSATION]
+[00:05:40.440 --> 00:05:43.440]   [SIDE CONVERSATION]
+[00:05:43.440 --> 00:05:46.440]   [SIDE CONVERSATION]
+[00:05:46.440 --> 00:05:49.440]   [SIDE CONVERSATION]
+[00:05:49.440 --> 00:05:52.440]   [SIDE CONVERSATION]
+[00:05:52.440 --> 00:05:55.440]   [SIDE CONVERSATION]
+[00:05:55.440 --> 00:05:58.440]   [SIDE CONVERSATION]
+[00:05:58.440 --> 00:06:01.440]   [SIDE CONVERSATION]
+[00:06:01.440 --> 00:06:04.440]   [SIDE CONVERSATION]
+[00:06:04.440 --> 00:06:07.440]   [SIDE CONVERSATION]
+[00:06:07.440 --> 00:06:10.440]   [SIDE CONVERSATION]
+[00:06:10.440 --> 00:06:13.440]   [SIDE CONVERSATION]
+[00:06:13.440 --> 00:06:16.440]   [SIDE CONVERSATION]
+[00:06:16.440 --> 00:06:19.440]   [SIDE CONVERSATION]
+[00:06:19.440 --> 00:06:22.440]   [SIDE CONVERSATION]
+[00:06:22.440 --> 00:06:25.440]   [SIDE CONVERSATION]
+[00:06:25.440 --> 00:06:28.440]   [SIDE CONVERSATION]
+[00:06:28.440 --> 00:06:31.440]   [SIDE CONVERSATION]
+[00:06:31.440 --> 00:06:34.440]   [SIDE CONVERSATION]
+[00:06:34.440 --> 00:06:37.440]   [SIDE CONVERSATION]
+[00:06:37.440 --> 00:06:40.440]   [SIDE CONVERSATION]
+[00:06:40.440 --> 00:06:43.440]   [SIDE CONVERSATION]
+[00:06:43.440 --> 00:06:46.440]   [SIDE CONVERSATION]
+[00:06:46.440 --> 00:06:49.440]   [SIDE CONVERSATION]
+[00:06:49.440 --> 00:06:52.440]   [SIDE CONVERSATION]
+[00:06:52.440 --> 00:06:55.440]   [SIDE CONVERSATION]
+[00:07:21.440 --> 00:07:24.440]   All right.
+[00:07:24.440 --> 00:07:25.440]   If I can get your attention.
+[00:07:25.440 --> 00:07:31.440]   If you guys are outside and you hear me, can you guys come in now?
+[00:07:31.440 --> 00:07:38.440]   Okay, before we get started, we've already talked about how this got started.
+[00:07:38.440 --> 00:07:44.440]   I mean, I think our sisters ministry, I forgot what the exact date is.
+[00:07:44.440 --> 00:07:46.440]   Let me give a plug right now.
+[00:07:46.440 --> 00:07:49.440]   It's in October 8th.
+[00:07:49.440 --> 00:07:54.440]   And when did the Dropbox movie come out?
+[00:07:54.440 --> 00:07:55.440]   2015.
+[00:07:55.440 --> 00:07:56.440]   So it's been maybe about seven years.
+[00:07:56.440 --> 00:08:01.440]   So I know some of you guys watched it, and I know our family watched it with the Lee family
+[00:08:01.440 --> 00:08:03.440]   when it came out a while back.
+[00:08:03.440 --> 00:08:07.440]   And so how many of you guys have actually seen that documentary?
+[00:08:07.440 --> 00:08:08.440]   Okay, so a lot of you.
+[00:08:08.440 --> 00:08:15.440]   Okay, and so that documentary has been--has came out, and it wasn't just local.
+[00:08:15.440 --> 00:08:16.440]   I mean, it was international.
+[00:08:16.440 --> 00:08:22.440]   People saw it, and God is really using this ministry to affect the pro-life ministry
+[00:08:22.440 --> 00:08:23.440]   all over the world.
+[00:08:23.440 --> 00:08:25.440]   And, you know, I don't have time to get into it.
+[00:08:25.440 --> 00:08:27.440]   Maybe they'll get into it a little bit.
+[00:08:27.440 --> 00:08:30.440]   You know, during the time that we had lunch, we were talking together,
+[00:08:30.440 --> 00:08:33.440]   and they were kind of sharing with us a little bit about the international ministry.
+[00:08:33.440 --> 00:08:37.440]   In fact, Pastor Lee is traveling all over the United States,
+[00:08:37.440 --> 00:08:41.440]   and they're getting rewards and awards for the ministry that they're doing.
+[00:08:41.440 --> 00:08:48.440]   But, again, as he is promoting, obviously, his ministry, there is a ministry to basically
+[00:08:48.440 --> 00:08:53.440]   for pro-life, anti-abortion ministry, and he's able to meet with dignitaries
+[00:08:53.440 --> 00:08:57.440]   and governors and, you know, attorney generals.
+[00:08:57.440 --> 00:09:02.440]   And, again, there's a lot of things that they're directly involved with that I had no idea.
+[00:09:02.440 --> 00:09:06.440]   Obviously, we know about the Baby Box ministry.
+[00:09:06.440 --> 00:09:10.440]   So hopefully we'll have some time to maybe, you know, poke around in that.
+[00:09:10.440 --> 00:09:16.440]   We've already received some questions, but I'm not sure how we're going to do this.
+[00:09:16.440 --> 00:09:22.440]   If you have questions, if you can text that to Pastor Mark or Pastor Nate,
+[00:09:22.440 --> 00:09:26.440]   somebody who's better with technology.
+[00:09:26.440 --> 00:09:28.440]   Okay.
+[00:09:28.440 --> 00:09:33.440]   Can you give me your number?
+[00:09:33.440 --> 00:09:34.440]   Okay.
+[00:09:34.440 --> 00:09:41.440]   So I'm going to have Pastor Mark get the text, and then he'll filter it out
+[00:09:41.440 --> 00:09:46.440]   and maybe send the ones that maybe we might ask later to text me.
+[00:09:46.440 --> 00:09:48.440]   And we already have some questions that we've already forwarded,
+[00:09:48.440 --> 00:09:52.440]   but maybe if there are some other questions that may come up through the presentation,
+[00:09:52.440 --> 00:09:55.440]   we'll try to field a few of those.
+[00:09:55.440 --> 00:09:56.440]   Okay.
+[00:09:56.440 --> 00:09:58.440]   So our Sisters Ministry is watching this.
+[00:09:58.440 --> 00:10:00.440]   So if you haven't signed up for that and you haven't watched it,
+[00:10:00.440 --> 00:10:04.440]   and even if you did watch it, I think it's a great opportunity to fellowship together.
+[00:10:04.440 --> 00:10:09.440]   And, again, Pastor Lee and his associate pastor is here,
+[00:10:09.440 --> 00:10:13.440]   so it would be a great opportunity for us to get to know that a little bit better.
+[00:10:13.440 --> 00:10:15.440]   Okay.
+[00:10:15.440 --> 00:10:19.440]   And it's just, you know, when we announced that, the Lee family, Esther and Lee,
+[00:10:19.440 --> 00:10:21.440]   you know, when they heard that we're going to be watching that movie,
+[00:10:21.440 --> 00:10:24.440]   they said, "Hey, Pastor Lee is going to actually come into town on this date."
+[00:10:24.440 --> 00:10:26.440]   You know, so last minute, it's like, "Oh, it would be great."
+[00:10:26.440 --> 00:10:31.440]   You know, it's like God's providence that they're able to be here and join us.
+[00:10:31.440 --> 00:10:33.440]   And so while they're here, let's milk it.
+[00:10:33.440 --> 00:10:34.440]   You know what I mean?
+[00:10:34.440 --> 00:10:36.440]   So, yeah, let's ask them questions so we can benefit from this.
+[00:10:36.440 --> 00:10:39.440]   And that's why we put this together kind of last minute.
+[00:10:39.440 --> 00:10:41.440]   So I want to thank you for coming.
+[00:10:41.440 --> 00:10:45.440]   So the schedule of this afternoon is going to be this way.
+[00:10:45.440 --> 00:10:50.440]   So I'm going to pray for us, and then afterwards, Pastor Lee, who is the interpreter,
+[00:10:50.440 --> 00:10:54.440]   he's the associate pastor of the church that Pastor Lee --
+[00:10:54.440 --> 00:10:57.440]   Pastor Lee, they're both Pastor Lees.
+[00:10:57.440 --> 00:10:59.440]   So, huh?
+[00:10:59.440 --> 00:11:02.440]   Yeah, so two pastors, Pastor Lee 1, Pastor Lee 2.
+[00:11:02.440 --> 00:11:07.440]   So Pastor Lee 2 is going to come up, and he's going to present the ministry.
+[00:11:07.440 --> 00:11:11.440]   So I think before we do that, we're going to watch the video first, right?
+[00:11:11.440 --> 00:11:12.440]   Yeah.
+[00:11:12.440 --> 00:11:13.440]   So I'm going to pray for us.
+[00:11:13.440 --> 00:11:16.440]   We're going to watch a short presentation on the video.
+[00:11:16.440 --> 00:11:20.440]   And then after the video, Pastor Lee, number 2, is going to come up.
+[00:11:20.440 --> 00:11:22.440]   And then, huh?
+[00:11:22.440 --> 00:11:23.440]   Pastor Jimmy.
+[00:11:23.440 --> 00:11:24.440]   Okay, that's easy.
+[00:11:24.440 --> 00:11:30.440]   Okay, so Pastor Jimmy is going to come up, and he's going to be presenting the ministry,
+[00:11:30.440 --> 00:11:36.440]   obviously because he's the interpreter, so he's going to tell us in English what's going on in the ministry
+[00:11:36.440 --> 00:11:39.440]   and some of the background information and testimony and how it got started.
+[00:11:39.440 --> 00:11:41.440]   So he'll come up and give that presentation.
+[00:11:41.440 --> 00:11:44.440]   Then after that, Pastor Lee and Jimmy will come up.
+[00:11:44.440 --> 00:11:48.440]   Pastor Jimmy will come up, and then I'll ask them the question.
+[00:11:48.440 --> 00:11:53.440]   I'm going to be asking in English so that they can interpret and then present it to you,
+[00:11:53.440 --> 00:11:55.440]   and then they'll interpret for us.
+[00:11:55.440 --> 00:11:56.440]   Okay?
+[00:11:56.440 --> 00:11:57.440]   So that's the schedule for today.
+[00:11:57.440 --> 00:12:04.440]   Again, as the presentation goes on, if you happen to have a question, text Pastor Mark.
+[00:12:04.440 --> 00:12:05.440]   Okay?
+[00:12:05.440 --> 00:12:06.440]   Where's Pastor Mark?
+[00:12:06.440 --> 00:12:09.440]   [Indiscernible]
+[00:12:09.440 --> 00:12:10.440]   Okay.
+[00:12:10.440 --> 00:12:12.440]   [Indiscernible]
+[00:12:12.440 --> 00:12:14.440]   Okay, it's on the Facebook group.
+[00:12:14.440 --> 00:12:17.440]   I know a lot of -- not everybody has a Facebook group.
+[00:12:17.440 --> 00:12:18.440]   Yeah.
+[00:12:18.440 --> 00:12:25.440]   949-231-8323.
+[00:12:25.440 --> 00:12:29.440]   949-231-8323.
+[00:12:29.440 --> 00:12:30.440]   Okay.
+[00:12:30.440 --> 00:12:31.440]   All right.
+[00:12:31.440 --> 00:12:33.440]   So if you happen to have a question -- we're not going to be able to answer all those questions,
+[00:12:33.440 --> 00:12:37.440]   but if there's a pertinent question that comes in after the presentation, we'll try it.
+[00:12:37.440 --> 00:12:38.440]   Okay?
+[00:12:38.440 --> 00:12:39.440]   Then Pastor Mark will forward it to me.
+[00:12:39.440 --> 00:12:41.440]   So everybody just come on.
+[00:12:41.440 --> 00:12:42.440]   Find a seat somewhere.
+[00:12:42.440 --> 00:12:43.440]   There's plenty of seat to the right.
+[00:12:43.440 --> 00:12:45.440]   So come, have a seat.
+[00:12:45.440 --> 00:12:53.440]   Let me pray for us and then we'll begin with watching a movie.
+[00:12:53.440 --> 00:13:00.440]   Heavenly Father, we thank you so much for the privilege that we have to serve you, to gather together,
+[00:13:00.440 --> 00:13:05.440]   to worship you, and especially, Lord God, the ministry that you are doing with Pastor Lee
+[00:13:05.440 --> 00:13:13.440]   and the ministry, Lord, of compassion, of really honoring life as you love us.
+[00:13:13.440 --> 00:13:18.440]   I pray, Father God, that you would bring blessing upon blessing, Lord, that more and more people will know
+[00:13:18.440 --> 00:13:25.440]   not just the preciousness of these children, but how precious life is to you,
+[00:13:25.440 --> 00:13:29.440]   and that your glory, your gospel may spread through this channel.
+[00:13:29.440 --> 00:13:35.440]   I pray, Father God, that this afternoon as we interview and listen to the presentation, Lord God,
+[00:13:35.440 --> 00:13:40.440]   that this would not simply be tickling of the ear, just a tug of heart,
+[00:13:40.440 --> 00:13:45.440]   but that it really would cause us, Lord God, to serve you, to honor you,
+[00:13:45.440 --> 00:13:48.440]   to put into action the things that you convict us.
+[00:13:48.440 --> 00:13:50.440]   So I pray for your spirit's guidance.
+[00:13:50.440 --> 00:13:53.440]   May this time be a blessing, challenge, and encouragement.
+[00:13:53.440 --> 00:14:00.440]   In Jesus' name we pray, amen.
+[00:14:00.440 --> 00:14:13.440]   [music]
+[00:14:13.440 --> 00:14:23.440]   [speaking in Korean]
+[00:14:23.440 --> 00:14:33.440]   [speaking in Korean]
+[00:14:33.440 --> 00:14:43.440]   [speaking in Korean]
+[00:14:43.440 --> 00:14:53.440]   [speaking in Korean]
+[00:14:53.440 --> 00:15:03.440]   [speaking in Korean]
+[00:15:03.440 --> 00:15:13.440]   [speaking in Korean]
+[00:15:13.440 --> 00:15:23.440]   [speaking in Korean]
+[00:15:23.440 --> 00:15:33.440]   [speaking in Korean]
+[00:15:33.440 --> 00:15:43.440]   [speaking in Korean]
+[00:15:43.440 --> 00:15:53.440]   [speaking in Korean]
+[00:15:53.440 --> 00:16:03.440]   [speaking in Korean]
+[00:16:03.440 --> 00:16:13.440]   [speaking in Korean]
+[00:16:13.440 --> 00:16:23.440]   [speaking in Korean]
+[00:16:23.440 --> 00:16:33.440]   [speaking in Korean]
+[00:16:33.440 --> 00:16:43.440]   [speaking in Korean]
+[00:16:43.440 --> 00:16:53.440]   [speaking in Korean]
+[00:16:53.440 --> 00:17:03.440]   [speaking in Korean]
+[00:17:03.440 --> 00:17:13.440]   [speaking in Korean]
+[00:17:13.440 --> 00:17:23.440]   [speaking in Korean]
+[00:17:23.440 --> 00:17:33.440]   [speaking in Korean]
+[00:17:33.440 --> 00:17:43.440]   [speaking in Korean]
+[00:17:43.440 --> 00:17:53.440]   [speaking in Korean]
+[00:17:53.440 --> 00:18:03.440]   [speaking in Korean]
+[00:18:03.440 --> 00:18:13.440]   [speaking in Korean]
+[00:18:13.440 --> 00:18:23.440]   [speaking in Korean]
+[00:18:23.440 --> 00:18:33.440]   [speaking in Korean]
+[00:18:33.440 --> 00:18:43.440]   [speaking in Korean]
+[00:18:43.440 --> 00:18:53.440]   [speaking in Korean]
+[00:18:53.440 --> 00:19:03.440]   [speaking in Korean]
+[00:19:03.440 --> 00:19:13.440]   [speaking in Korean]
+[00:19:13.440 --> 00:19:23.440]   [speaking in Korean]
+[00:19:23.440 --> 00:19:33.440]   [speaking in Korean]
+[00:19:33.440 --> 00:19:43.440]   [speaking in Korean]
+[00:19:43.440 --> 00:19:53.440]   [speaking in Korean]
+[00:19:53.440 --> 00:20:03.440]   [speaking in Korean]
+[00:20:03.440 --> 00:20:13.440]   [speaking in Korean]
+[00:20:13.440 --> 00:20:23.440]   [speaking in Korean]
+[00:20:23.440 --> 00:20:33.440]   [speaking in Korean]
+[00:20:33.440 --> 00:20:43.440]   [speaking in Korean]
+[00:20:43.440 --> 00:20:53.440]   [speaking in Korean]
+[00:20:53.440 --> 00:21:03.440]   [speaking in Korean]
+[00:21:03.440 --> 00:21:13.440]   [speaking in Korean]
+[00:21:13.440 --> 00:21:23.440]   [speaking in Korean]
+[00:21:23.440 --> 00:21:33.440]   [speaking in Korean]
+[00:21:33.440 --> 00:21:43.440]   [speaking in Korean]
+[00:21:43.440 --> 00:21:53.440]   [speaking in Korean]
+[00:21:53.440 --> 00:22:03.440]   [speaking in Korean]
+[00:22:03.440 --> 00:22:13.440]   [speaking in Korean]
+[00:22:13.440 --> 00:22:23.440]   [speaking in Korean]
+[00:22:23.440 --> 00:22:33.440]   [speaking in Korean]
+[00:22:33.440 --> 00:22:43.440]   [speaking in Korean]
+[00:22:43.440 --> 00:22:53.440]   [speaking in Korean]
+[00:22:53.440 --> 00:23:03.440]   [speaking in Korean]
+[00:23:03.440 --> 00:23:13.440]   [speaking in Korean]
+[00:23:13.440 --> 00:23:23.440]   [speaking in Korean]
+[00:23:23.440 --> 00:23:33.440]   [speaking in Korean]
+[00:23:33.440 --> 00:23:43.440]   [speaking in Korean]
+[00:23:43.440 --> 00:23:53.440]   [speaking in Korean]
+[00:23:53.440 --> 00:24:03.440]   [speaking in Korean]
+[00:24:03.440 --> 00:24:13.440]   [speaking in Korean]
+[00:24:13.440 --> 00:24:23.440]   [speaking in Korean]
+[00:24:23.440 --> 00:24:33.440]   [speaking in Korean]
+[00:24:33.440 --> 00:24:39.440]   [music playing]
+[00:24:39.440 --> 00:24:47.440]   [applause]
+[00:24:47.440 --> 00:24:57.440]   [speaking in Korean]
+[00:24:57.440 --> 00:25:07.440]   [speaking in Korean]
+[00:25:07.440 --> 00:25:17.440]   [speaking in Korean]
+[00:25:17.440 --> 00:25:27.440]   [speaking in Korean]
+[00:25:27.440 --> 00:25:37.440]   [speaking in Korean]
+[00:25:37.440 --> 00:25:47.440]   [speaking in Korean]
+[00:25:47.440 --> 00:25:57.440]   [applause]
+[00:25:57.440 --> 00:26:17.440]   [speaking in Korean]
+[00:26:17.440 --> 00:26:27.440]   [speaking in Korean]
+[00:26:27.440 --> 00:26:37.440]   [speaking in Korean]
+[00:26:37.440 --> 00:26:47.440]   [speaking in Korean]
+[00:26:47.440 --> 00:26:57.440]   [speaking in Korean]
+[00:26:57.440 --> 00:27:07.440]   [speaking in Korean]
+[00:27:07.440 --> 00:27:17.440]   [speaking in Korean]
+[00:27:17.440 --> 00:27:27.440]   [speaking in Korean]
+[00:27:27.440 --> 00:27:37.440]   [speaking in Korean]
+[00:27:37.440 --> 00:27:47.440]   [speaking in Korean]
+[00:27:47.440 --> 00:27:57.440]   [speaking in Korean]
+[00:27:57.440 --> 00:28:07.440]   [speaking in Korean]
+[00:28:07.440 --> 00:28:17.440]   [speaking in Korean]
+[00:28:17.440 --> 00:28:27.440]   [speaking in Korean]
+[00:28:27.440 --> 00:28:37.440]   [speaking in Korean]
+[00:28:37.440 --> 00:28:47.440]   [speaking in Korean]
+[00:28:47.440 --> 00:28:57.440]   [speaking in Korean]
+[00:28:57.440 --> 00:29:07.440]   [speaking in Korean]
+[00:29:07.440 --> 00:29:17.440]   [speaking in Korean]
+[00:29:17.440 --> 00:29:27.440]   [speaking in Korean]
+[00:29:27.440 --> 00:29:37.440]   [speaking in Korean]
+[00:29:37.440 --> 00:29:47.440]   [speaking in Korean]
+[00:29:47.440 --> 00:29:57.440]   [speaking in Korean]
+[00:29:57.440 --> 00:30:07.440]   [speaking in Korean]
+[00:30:07.440 --> 00:30:17.440]   [speaking in Korean]
+[00:30:17.440 --> 00:30:27.440]   [speaking in Korean]
+[00:30:27.440 --> 00:30:37.440]   [speaking in Korean]
+[00:30:37.440 --> 00:30:47.440]   [speaking in Korean]
+[00:30:47.440 --> 00:30:57.440]   [speaking in Korean]
+[00:30:57.440 --> 00:31:07.440]   [speaking in Korean]
+[00:31:07.440 --> 00:31:17.440]   [speaking in Korean]
+[00:31:17.440 --> 00:31:27.440]   [speaking in Korean]
+[00:31:27.440 --> 00:31:37.440]   [speaking in Korean]
+[00:31:37.440 --> 00:31:47.440]   [speaking in Korean]
+[00:31:47.440 --> 00:31:57.440]   [speaking in Korean]
+[00:31:57.440 --> 00:32:07.440]   [speaking in Korean]
+[00:32:07.440 --> 00:32:17.440]   [speaking in Korean]
+[00:32:17.440 --> 00:32:27.440]   [speaking in Korean]
+[00:32:27.440 --> 00:32:37.440]   [speaking in Korean]
+[00:32:37.440 --> 00:32:47.440]   [speaking in Korean]
+[00:32:47.440 --> 00:32:57.440]   [speaking in Korean]
+[00:32:57.440 --> 00:33:07.440]   [speaking in Korean]
+[00:33:07.440 --> 00:33:17.440]   [speaking in Korean]
+[00:33:17.440 --> 00:33:27.440]   [speaking in Korean]
+[00:33:27.440 --> 00:33:37.440]   [speaking in Korean]
+[00:33:37.440 --> 00:33:47.440]   [speaking in Korean]
+[00:33:47.440 --> 00:33:57.440]   [speaking in Korean]
+[00:33:57.440 --> 00:34:07.440]   [speaking in Korean]
+[00:34:07.440 --> 00:34:17.440]   [speaking in Korean]
+[00:34:17.440 --> 00:34:27.440]   [speaking in Korean]
+[00:34:27.440 --> 00:34:37.440]   [speaking in Korean]
+[00:34:37.440 --> 00:34:47.440]   [speaking in Korean]
+[00:34:47.440 --> 00:34:57.440]   [speaking in Korean]
+[00:34:57.440 --> 00:35:07.440]   [speaking in Korean]
+[00:35:07.440 --> 00:35:17.440]   [speaking in Korean]
+[00:35:17.440 --> 00:35:27.440]   [speaking in Korean]
+[00:35:27.440 --> 00:35:37.440]   [speaking in Korean]
+[00:35:37.440 --> 00:35:47.440]   [speaking in Korean]
+[00:35:47.440 --> 00:35:57.440]   [speaking in Korean]
+[00:35:57.440 --> 00:36:07.440]   [speaking in Korean]
+[00:36:07.440 --> 00:36:17.440]   [speaking in Korean]
+[00:36:17.440 --> 00:36:27.440]   [speaking in Korean]
+[00:36:27.440 --> 00:36:37.440]   [speaking in Korean]
+[00:36:37.440 --> 00:36:47.440]   [speaking in Korean]
+[00:36:47.440 --> 00:36:57.440]   [speaking in Korean]
+[00:36:57.440 --> 00:37:07.440]   [speaking in Korean]
+[00:37:07.440 --> 00:37:17.440]   [speaking in Korean]
+[00:37:17.440 --> 00:37:27.440]   [speaking in Korean]
+[00:37:27.440 --> 00:37:37.440]   [speaking in Korean]
+[00:37:37.440 --> 00:37:47.440]   [speaking in Korean]
+[00:37:47.440 --> 00:37:57.440]   [speaking in Korean]
+[00:37:57.440 --> 00:38:07.440]   [speaking in Korean]
+[00:38:07.440 --> 00:38:17.440]   [speaking in Korean]
+[00:38:17.440 --> 00:38:27.440]   [speaking in Korean]
+[00:38:27.440 --> 00:38:37.440]   [speaking in Korean]
+[00:38:37.440 --> 00:38:47.440]   [speaking in Korean]
+[00:38:47.440 --> 00:38:57.440]   [speaking in Korean]
+[00:38:57.440 --> 00:39:07.440]   [speaking in Korean]
+[00:39:07.440 --> 00:39:17.440]   [speaking in Korean]
+[00:39:17.440 --> 00:39:27.440]   [speaking in Korean]
+[00:39:27.440 --> 00:39:37.440]   [speaking in Korean]
+[00:39:37.440 --> 00:39:47.440]   [speaking in Korean]
+[00:39:47.440 --> 00:39:57.440]   [speaking in Korean]
+[00:39:57.440 --> 00:40:07.440]   [speaking in Korean]
+[00:40:07.440 --> 00:40:17.440]   [speaking in Korean]
+[00:40:17.440 --> 00:40:27.440]   [speaking in Korean]
+[00:40:27.440 --> 00:40:37.440]   [speaking in Korean]
+[00:40:37.440 --> 00:40:47.440]   [speaking in Korean]
+[00:40:47.440 --> 00:40:57.440]   [speaking in Korean]
+[00:40:57.440 --> 00:41:07.440]   [speaking in Korean]
+[00:41:07.440 --> 00:41:17.440]   [speaking in Korean]
+[00:41:17.440 --> 00:41:27.440]   [speaking in Korean]
+[00:41:27.440 --> 00:41:37.440]   [speaking in Korean]
+[00:41:37.440 --> 00:41:47.440]   [speaking in Korean]
+[00:41:47.440 --> 00:41:57.440]   [speaking in Korean]
+[00:41:57.440 --> 00:42:07.440]   [speaking in Korean]
+[00:42:07.440 --> 00:42:17.440]   [speaking in Korean]
+[00:42:17.440 --> 00:42:27.440]   [speaking in Korean]
+[00:42:27.440 --> 00:42:37.440]   [speaking in Korean]
+[00:42:37.440 --> 00:42:47.440]   [speaking in Korean]
+[00:42:47.440 --> 00:42:57.440]   [speaking in Korean]
+[00:42:57.440 --> 00:43:07.440]   [speaking in Korean]
+[00:43:07.440 --> 00:43:17.440]   [speaking in Korean]
+[00:43:17.440 --> 00:43:27.440]   [speaking in Korean]
+[00:43:27.440 --> 00:43:37.440]   [speaking in Korean]
+[00:43:37.440 --> 00:43:47.440]   [speaking in Korean]
+[00:43:47.440 --> 00:43:57.440]   [speaking in Korean]
+[00:43:57.440 --> 00:44:07.440]   [speaking in Korean]
+[00:44:07.440 --> 00:44:17.440]   [speaking in Korean]
+[00:44:17.440 --> 00:44:27.440]   [speaking in Korean]
+[00:44:27.440 --> 00:44:37.440]   [speaking in Korean]
+[00:44:37.440 --> 00:44:47.440]   [speaking in Korean]
+[00:44:47.440 --> 00:44:57.440]   [speaking in Korean]
+[00:44:57.440 --> 00:45:07.440]   [speaking in Korean]
+[00:45:07.440 --> 00:45:17.440]   [speaking in Korean]
+[00:45:17.440 --> 00:45:27.440]   [speaking in Korean]
+[00:45:27.440 --> 00:45:37.440]   [speaking in Korean]
+[00:45:37.440 --> 00:45:47.440]   [speaking in Korean]
+[00:45:47.440 --> 00:45:57.440]   [speaking in Korean]
+[00:45:57.440 --> 00:46:07.440]   [speaking in Korean]
+[00:46:07.440 --> 00:46:17.440]   [speaking in Korean]
+[00:46:17.440 --> 00:46:27.440]   [speaking in Korean]
+[00:46:27.440 --> 00:46:37.440]   [speaking in Korean]
+[00:46:37.440 --> 00:46:47.440]   [speaking in Korean]
+[00:46:47.440 --> 00:46:57.440]   [speaking in Korean]
+[00:46:57.440 --> 00:47:07.440]   [speaking in Korean]
+[00:47:07.440 --> 00:47:17.440]   [speaking in Korean]
+[00:47:17.440 --> 00:47:27.440]   [speaking in Korean]
+[00:47:27.440 --> 00:47:37.440]   [speaking in Korean]
+[00:47:37.440 --> 00:47:47.440]   [speaking in Korean]
+[00:47:47.440 --> 00:47:57.440]   [speaking in Korean]
+[00:47:57.440 --> 00:48:07.440]   [speaking in Korean]
+[00:48:07.440 --> 00:48:17.440]   [speaking in Korean]
+[00:48:17.440 --> 00:48:27.440]   [speaking in Korean]
+[00:48:27.440 --> 00:48:37.440]   [speaking in Korean]
+[00:48:37.440 --> 00:48:47.440]   [speaking in Korean]
+[00:48:47.440 --> 00:48:57.440]   [speaking in Korean]
+[00:48:57.440 --> 00:49:07.440]   [speaking in Korean]
+[00:49:07.440 --> 00:49:17.440]   [speaking in Korean]
+[00:49:17.440 --> 00:49:27.440]   [speaking in Korean]
+[00:49:27.440 --> 00:49:37.440]   [speaking in Korean]
+[00:49:37.440 --> 00:49:47.440]   [speaking in Korean]
+[00:49:47.440 --> 00:49:57.440]   [speaking in Korean]
+[00:49:57.440 --> 00:50:07.440]   [speaking in Korean]
+[00:50:07.440 --> 00:50:17.440]   [speaking in Korean]
+[00:50:17.440 --> 00:50:27.440]   [speaking in Korean]
+[00:50:27.440 --> 00:50:37.440]   [speaking in Korean]
+[00:50:37.440 --> 00:50:47.440]   [applause]
+[00:50:47.440 --> 00:50:57.440]   [speaking in Korean]
+[00:50:57.440 --> 00:51:07.440]   [speaking in Korean]
+[00:51:07.440 --> 00:51:17.440]   [speaking in Korean]
+[00:51:17.440 --> 00:51:27.440]   [speaking in Korean]
+[00:51:27.440 --> 00:51:37.440]   [speaking in Korean]
+[00:51:37.440 --> 00:51:47.440]   [speaking in Korean]
+[00:51:47.440 --> 00:51:57.440]   [speaking in Korean]
+[00:51:57.440 --> 00:52:07.440]   [speaking in Korean]
+[00:52:07.440 --> 00:52:17.440]   [speaking in Korean]
+[00:52:17.440 --> 00:52:27.440]   [speaking in Korean]
+[00:52:27.440 --> 00:52:37.440]   [speaking in Korean]
+[00:52:37.440 --> 00:52:47.440]   [speaking in Korean]
+[00:52:47.440 --> 00:52:57.440]   [speaking in Korean]
+[00:52:57.440 --> 00:53:07.440]   [speaking in Korean]
+[00:53:07.440 --> 00:53:17.440]   [speaking in Korean]
+[00:53:17.440 --> 00:53:27.440]   [speaking in Korean]
+[00:53:27.440 --> 00:53:37.440]   [speaking in Korean]
+[00:53:37.440 --> 00:53:47.440]   [speaking in Korean]
+[00:53:47.440 --> 00:53:57.440]   [speaking in Korean]
+[00:53:57.440 --> 00:54:07.440]   [speaking in Korean]
+[00:54:07.440 --> 00:54:17.440]   [speaking in Korean]
+[00:54:17.440 --> 00:54:27.440]   [speaking in Korean]
+[00:54:27.440 --> 00:54:37.440]   [speaking in Korean]
+[00:54:37.440 --> 00:54:47.440]   [speaking in Korean]
+[00:54:47.440 --> 00:54:57.440]   [speaking in Korean]
+[00:54:57.440 --> 00:55:07.440]   [speaking in Korean]
+[00:55:07.440 --> 00:55:17.440]   [speaking in Korean]
+[00:55:17.440 --> 00:55:27.440]   [speaking in Korean]
+[00:55:27.440 --> 00:55:37.440]   [speaking in Korean]
+[00:55:37.440 --> 00:55:47.440]   [speaking in Korean]
+[00:55:47.440 --> 00:55:57.440]   [speaking in Korean]
+[00:55:57.440 --> 00:56:07.440]   [speaking in Korean]
+[00:56:07.440 --> 00:56:17.440]   [speaking in Korean]
+[00:56:17.440 --> 00:56:27.440]   [speaking in Korean]
+[00:56:27.440 --> 00:56:37.440]   [speaking in Korean]
+[00:56:37.440 --> 00:56:47.440]   [speaking in Korean]
+[00:56:47.440 --> 00:56:57.440]   [speaking in Korean]
+[00:56:57.440 --> 00:57:07.440]   [speaking in Korean]
+[00:57:07.440 --> 00:57:17.440]   [speaking in Korean]
+[00:57:17.440 --> 00:57:27.440]   [speaking in Korean]
+[00:57:27.440 --> 00:57:37.440]   [speaking in Korean]
+[00:57:37.440 --> 00:57:47.440]   [speaking in Korean]
+[00:57:47.440 --> 00:57:57.440]   [speaking in Korean]
+[00:57:57.440 --> 00:58:07.440]   [speaking in Korean]
+[00:58:07.440 --> 00:58:17.440]   [speaking in Korean]
+[00:58:17.440 --> 00:58:27.440]   [speaking in Korean]
+[00:58:27.440 --> 00:58:37.440]   [speaking in Korean]
+[00:58:37.440 --> 00:58:47.440]   [speaking in Korean]
+[00:58:47.440 --> 00:58:57.440]   [speaking in Korean]
+[00:58:57.440 --> 00:59:07.440]   [speaking in Korean]
+[00:59:07.440 --> 00:59:17.440]   [speaking in Korean]
+[00:59:17.440 --> 00:59:27.440]   [speaking in Korean]
+[00:59:27.440 --> 00:59:37.440]   [speaking in Korean]
+[00:59:37.440 --> 00:59:47.440]   [speaking in Korean]
+[00:59:47.440 --> 00:59:57.440]   [speaking in Korean]
+[00:59:57.440 --> 01:00:07.440]   [speaking in Korean]
+[01:00:07.440 --> 01:00:17.440]   [speaking in Korean]
+[01:00:17.440 --> 01:00:27.440]   [speaking in Korean]
+[01:00:27.440 --> 01:00:37.440]   [speaking in Korean]
+[01:00:37.440 --> 01:00:47.440]   [speaking in Korean]
+[01:00:47.440 --> 01:00:57.440]   [speaking in Korean]
+[01:00:57.440 --> 01:01:07.440]   [speaking in Korean]
+[01:01:07.440 --> 01:01:17.440]   [speaking in Korean]
+[01:01:17.440 --> 01:01:27.440]   [speaking in Korean]
+[01:01:27.440 --> 01:01:37.440]   [speaking in Korean]
+[01:01:37.440 --> 01:01:47.440]   [speaking in Korean]
+[01:01:47.440 --> 01:01:57.440]   [speaking in Korean]
+[01:01:57.440 --> 01:02:07.440]   [speaking in Korean]
+[01:02:07.440 --> 01:02:17.440]   [speaking in Korean]
+[01:02:17.440 --> 01:02:27.440]   [speaking in Korean]
+[01:02:27.440 --> 01:02:37.440]   [speaking in Korean]
+[01:02:37.440 --> 01:02:47.440]   [speaking in Korean]
+[01:02:47.440 --> 01:02:57.440]   [speaking in Korean]
+[01:02:57.440 --> 01:03:07.440]   [speaking in Korean]
+[01:03:07.440 --> 01:03:17.440]   [speaking in Korean]
+[01:03:17.440 --> 01:03:27.440]   [speaking in Korean]
+[01:03:27.440 --> 01:03:37.440]   [speaking in Korean]
+[01:03:37.440 --> 01:03:47.440]   [speaking in Korean]
+[01:03:47.440 --> 01:03:57.440]   [speaking in Korean]
+[01:03:57.440 --> 01:04:07.440]   [speaking in Korean]
+[01:04:07.440 --> 01:04:17.440]   [speaking in Korean]
+[01:04:17.440 --> 01:04:27.440]   [speaking in Korean]
+[01:04:27.440 --> 01:04:37.440]   [speaking in Korean]
+[01:04:37.440 --> 01:04:47.440]   [speaking in Korean]
+[01:04:47.440 --> 01:04:57.440]   [speaking in Korean]
+[01:04:57.440 --> 01:05:07.440]   [speaking in Korean]
+[01:05:07.440 --> 01:05:17.440]   [speaking in Korean]
+[01:05:17.440 --> 01:05:27.440]   [speaking in Korean]
+[01:05:27.440 --> 01:05:37.440]   [speaking in Korean]
+[01:05:37.440 --> 01:05:47.440]   [speaking in Korean]
+[01:05:47.440 --> 01:05:57.440]   [speaking in Korean]
+[01:05:57.440 --> 01:06:07.440]   [speaking in Korean]
+[01:06:07.440 --> 01:06:17.440]   [speaking in Korean]
+[01:06:17.440 --> 01:06:27.440]   [speaking in Korean]
+[01:06:27.440 --> 01:06:37.440]   [speaking in Korean]
+[01:06:37.440 --> 01:06:47.440]   [speaking in Korean]
+[01:06:47.440 --> 01:06:57.440]   [speaking in Korean]
+[01:06:57.440 --> 01:07:07.440]   [speaking in Korean]
+[01:07:07.440 --> 01:07:17.440]   [speaking in Korean]
+[01:07:17.440 --> 01:07:27.440]   [speaking in Korean]
+[01:07:27.440 --> 01:07:37.440]   [speaking in Korean]
+[01:07:37.440 --> 01:07:47.440]   [speaking in Korean]
+[01:07:47.440 --> 01:07:57.440]   [speaking in Korean]
+[01:07:57.440 --> 01:08:07.440]   [speaking in Korean]
+[01:08:07.440 --> 01:08:17.440]   [speaking in Korean]
+[01:08:17.440 --> 01:08:27.440]   [speaking in Korean]
+[01:08:27.440 --> 01:08:37.440]   [speaking in Korean]
+[01:08:37.440 --> 01:08:47.440]   [speaking in Korean]
+[01:08:47.440 --> 01:08:57.440]   [speaking in Korean]
+[01:08:57.440 --> 01:09:07.440]   [speaking in Korean]
+[01:09:07.440 --> 01:09:12.440]   [laughter]
+[01:09:12.440 --> 01:09:15.440]   Some people have a question about that.
+[01:09:15.440 --> 01:09:19.440]   Korea is a kind of developed country already.
+[01:09:19.440 --> 01:09:24.440]   Then, yeah, right. Economically, Korea is one of the developed countries.
+[01:09:24.440 --> 01:09:35.440]   Then, if someone register the newborn baby in the family record,
+[01:09:35.440 --> 01:09:39.440]   there is no problem. In many cases, no problem.
+[01:09:39.440 --> 01:09:43.440]   The social welfare works, is working for them.
+[01:09:43.440 --> 01:09:52.440]   Then, there are some cases, some people who are located
+[01:09:52.440 --> 01:09:56.440]   in the shadow of our society. The authority and public part,
+[01:09:56.440 --> 01:10:05.440]   public government authority have no intention and have no interest
+[01:10:05.440 --> 01:10:09.440]   in the weak, in the poor.
+[01:10:09.440 --> 01:10:19.440]   So, there are kind of a gap, kind of a shadow of the low system
+[01:10:19.440 --> 01:10:24.440]   and public work or social welfare system.
+[01:10:24.440 --> 01:10:26.440]   There is four cases cannot register.
+[01:10:26.440 --> 01:10:32.440]   It is related to the cultural background of Asian.
+[01:10:32.440 --> 01:10:37.440]   I think most of all, all of all can understand about that,
+[01:10:37.440 --> 01:10:43.440]   the value of a family, a bloodline and blood time.
+[01:10:43.440 --> 01:10:49.440]   That is the highest value. So, in Korea, the case of Korea,
+[01:10:49.440 --> 01:10:54.440]   we should register a newborn baby in the family record.
+[01:10:54.440 --> 01:10:58.440]   So, some single mothers, unwed, some single mothers
+[01:10:58.440 --> 01:11:03.440]   cannot make the registration. Some people, why cannot do that?
+[01:11:03.440 --> 01:11:08.440]   Then, they cannot do that because the matter of family.
+[01:11:08.440 --> 01:11:13.440]   So, some people cannot register. Then, there is the second,
+[01:11:13.440 --> 01:11:17.440]   is there any second option? No, there is no option.
+[01:11:17.440 --> 01:11:23.440]   If you cannot register on the family record, there is nothing to do.
+[01:11:23.440 --> 01:11:30.440]   That is the dead end path. So, baby is the only replacement.
+[01:11:30.440 --> 01:11:34.440]   Some people blame the unwed single mothers.
+[01:11:34.440 --> 01:11:39.440]   You choose the abandonment of your baby. How can you do that?
+[01:11:39.440 --> 01:11:43.440]   So cute and adorable baby, then how can you do that?
+[01:11:43.440 --> 01:11:46.440]   You are so bad people. You are so bad woman.
+[01:11:46.440 --> 01:11:51.440]   Then, they cannot anything. They cannot choose nothing.
+[01:11:51.440 --> 01:11:55.440]   There is no option. They cannot choose anything.
+[01:11:55.440 --> 01:12:01.440]   So, they cannot but come to baby box.
+[01:12:01.440 --> 01:12:06.440]   Foreign laborers, illegal foreign laborers, and rape case,
+[01:12:06.440 --> 01:12:21.440]   sexual abuse, and extra marriage, those cases cannot make registration.
+[01:12:21.440 --> 01:12:26.440]   So, for that cases, Korea baby box works for.
+[01:12:26.440 --> 01:12:31.440]   And some people ask him, "Why do you do that?
+[01:12:31.440 --> 01:12:33.440]   Why do you want to do that?"
+[01:12:33.440 --> 01:12:37.440]   He said, "How can I cannot do that?
+[01:12:37.440 --> 01:12:48.440]   How can I not kind of, yeah, I cannot but do this."
+[01:12:48.440 --> 01:12:49.440]   Thank you.
+[01:12:49.440 --> 01:12:51.440]   (speaking in Korean)
+[01:12:51.440 --> 01:12:54.440]   (laughter)
+[01:12:54.440 --> 01:12:57.440]   You know, Pastor Lee actually has never come to the United States.
+[01:12:57.440 --> 01:12:59.440]   This is the first time visiting the United States.
+[01:12:59.440 --> 01:13:02.440]   Yeah. So, considering his English is very good.
+[01:13:02.440 --> 01:13:08.440]   (applause)
+[01:13:08.440 --> 01:13:10.440]   Try to speak a language that you've never even visited,
+[01:13:10.440 --> 01:13:13.440]   just practicing here. That's very good.
+[01:13:13.440 --> 01:13:15.440]   So, this next question is concerned with, you know,
+[01:13:15.440 --> 01:13:19.440]   I was talking to them in private and I learned something about the Korean law.
+[01:13:19.440 --> 01:13:22.440]   You know, the Korean law about abortion has been going back and forth.
+[01:13:22.440 --> 01:13:26.440]   And so, there's been a lot of politicians who's been pushing against abortion.
+[01:13:26.440 --> 01:13:34.440]   And so, two years ago, there was a legislation that passed where they made abortion illegal in Korea.
+[01:13:34.440 --> 01:13:39.440]   But the problem is, there's obviously, there's doctors and different organizations
+[01:13:39.440 --> 01:13:41.440]   who are pushing to keep it legal.
+[01:13:41.440 --> 01:13:46.440]   So, there's a confusion in the Korean law where even though on the books it's illegal,
+[01:13:46.440 --> 01:13:52.440]   they said that there's no description in the law how to punish the people who practice abortion.
+[01:13:52.440 --> 01:13:57.440]   So, even though it's illegal, if you practice it, there's no way to punish them.
+[01:13:57.440 --> 01:14:01.440]   There's no law saying that here's the penalty, you're going to go to jail or nothing like that.
+[01:14:01.440 --> 01:14:05.440]   And so, they basically, in complaint, they sent it up to the legislation
+[01:14:05.440 --> 01:14:09.440]   and it's been sitting there for the last two years with no movement at all.
+[01:14:09.440 --> 01:14:13.440]   So, basically, it's kind of a political movement where they're appeasing the pro-life movement
+[01:14:13.440 --> 01:14:17.440]   by saying that we made it illegal and they're also appeasing the abortion movement
+[01:14:17.440 --> 01:14:20.440]   by keeping it there and not moving it.
+[01:14:20.440 --> 01:14:21.440]   So, they're kind of stuck.
+[01:14:21.440 --> 01:14:24.440]   So, basically, in practical, legally, it's illegal.
+[01:14:24.440 --> 01:14:28.440]   But for practical reasons, it's legal because there's no punishment that comes with it.
+[01:14:28.440 --> 01:14:31.440]   So, people are pushing to try to get this legislation passed.
+[01:14:31.440 --> 01:14:34.440]   So, along with that, the next question is,
+[01:14:34.440 --> 01:14:39.440]   what kind of ministries and activities are there connected to the pro-life movement
+[01:14:39.440 --> 01:14:42.440]   in Korea and the United States and other countries?
+[01:14:42.440 --> 01:14:59.440]   (Korean translation)
+[01:14:59.440 --> 01:15:28.440]   (Korean translation)
+[01:15:28.440 --> 01:15:57.440]   (Korean translation)
+[01:15:57.440 --> 01:16:11.440]   (Korean translation)
+[01:16:11.440 --> 01:16:40.440]   (Korean translation)
+[01:16:40.440 --> 01:16:43.440]   (Korean translation)
+[01:16:43.440 --> 01:17:07.440]   (Korean translation)
+[01:17:07.440 --> 01:17:18.440]   (Korean translation)
+[01:17:18.440 --> 01:17:24.440]   He's saying the point is the perspective and the worldview.
+[01:17:24.440 --> 01:17:28.440]   So many people despise the value of life.
+[01:17:28.440 --> 01:17:39.440]   Some people think about they have a right to choose to live or to die about the existence
+[01:17:39.440 --> 01:17:45.440]   or decision about the baby in the womb of the mother.
+[01:17:45.440 --> 01:17:53.440]   Then he said every single life is valuable because God loves us so much.
+[01:17:53.440 --> 01:17:58.440]   He sent us his only begotten son to save us.
+[01:17:58.440 --> 01:18:01.440]   So, we are beloved people by God.
+[01:18:01.440 --> 01:18:07.440]   So, every single of us, every single person is so valuable,
+[01:18:07.440 --> 01:18:11.440]   as valuable as the blood of Jesus Christ.
+[01:18:11.440 --> 01:18:22.440]   So, we have a kind of possibility and value to live on earth equally.
+[01:18:22.440 --> 01:18:28.440]   So, he said, the point of his saying is the worldview is very important,
+[01:18:28.440 --> 01:18:31.440]   the perspective is very important.
+[01:18:31.440 --> 01:18:40.440]   Under the grace of the Lord, we should grab on hard and firmly the value of life.
+[01:18:40.440 --> 01:18:47.440]   So, I will fight for against and fight for pro-life movement
+[01:18:47.440 --> 01:18:52.440]   and fight against despising the value of life.
+[01:18:52.440 --> 01:18:57.440]   The smallest of all living things on earth is the life of the mother.
+[01:18:57.440 --> 01:19:00.440]   The life in the womb.
+[01:19:00.440 --> 01:19:03.440]   And among the living things in the womb,
+[01:19:03.440 --> 01:19:09.440]   the children with disabilities are just being abandoned.
+[01:19:09.440 --> 01:19:13.440]   In the U.S. and Korea, they are being abandoned.
+[01:19:13.440 --> 01:19:16.440]   But God is not like that.
+[01:19:16.440 --> 01:19:26.440]   God said, "I am the little one who was born with disabilities."
+[01:19:26.440 --> 01:19:33.440]   So, when we kill and save people,
+[01:19:33.440 --> 01:19:41.440]   if we value our own life, we value the lives of others.
+[01:19:41.440 --> 01:19:48.440]   We can enjoy our own lives. This is challenging God.
+[01:19:49.440 --> 01:19:53.440]   Who is the weakest person on the earth?
+[01:19:53.440 --> 01:19:57.440]   I think the baby in the womb is the weakest.
+[01:19:57.440 --> 01:20:05.440]   So, he cannot do nothing to protect himself or herself.
+[01:20:05.440 --> 01:20:13.440]   Then, among the smallest and weakest ones,
+[01:20:13.440 --> 01:20:19.440]   the disabled is weaker than others.
+[01:20:19.440 --> 01:20:25.440]   Then, he said, "The disabled baby is very precious."
+[01:20:25.440 --> 01:20:28.440]   God said like this. Jesus said like this.
+[01:20:28.440 --> 01:20:31.440]   "The smallest one is me."
+[01:20:31.440 --> 01:20:35.440]   So, everyone is very valuable
+[01:20:35.440 --> 01:20:40.440]   and everyone has great possibility to live on the earth.
+[01:20:40.440 --> 01:20:46.440]   So, I think the perspective and worldview is very important.
+[01:20:47.440 --> 01:20:53.440]   A child named Eumman was paralyzed.
+[01:20:53.440 --> 01:20:55.440]   He could not do anything.
+[01:20:55.440 --> 01:20:59.440]   But God wrote the Bible.
+[01:20:59.440 --> 01:21:04.440]   We humans can't do anything because we are lying in bed.
+[01:21:04.440 --> 01:21:06.440]   We can't do anything.
+[01:21:06.440 --> 01:21:08.440]   But God in the child.
+[01:21:08.440 --> 01:21:10.440]   God in the child.
+[01:21:10.440 --> 01:21:13.440]   I saw the Lord in the child.
+[01:21:13.440 --> 01:21:17.440]   I saw the Lord in the child.
+[01:21:17.440 --> 01:21:20.440]   The Lord wrote the Bible.
+[01:21:20.440 --> 01:21:24.440]   Through the son Eumman, the father became a pastor.
+[01:21:24.440 --> 01:21:26.440]   Through the son Eumman,
+[01:21:26.440 --> 01:21:33.440]   the Lord's love embraced the little ones.
+[01:21:33.440 --> 01:21:37.440]   Through the paralyzed child, Kyle,
+[01:21:37.440 --> 01:21:41.440]   the Lord protected and protected the little ones
+[01:21:41.440 --> 01:21:44.440]   and sent them back to their home.
+[01:21:44.440 --> 01:21:47.440]   So, we should not boast of being good, smart,
+[01:21:47.440 --> 01:21:51.440]   capable, and capable.
+[01:21:51.440 --> 01:21:53.440]   When we boast of our weakness
+[01:21:53.440 --> 01:21:56.440]   and give everything to the Lord,
+[01:21:56.440 --> 01:21:59.440]   the Lord will forgive the weak
+[01:21:59.440 --> 01:22:03.440]   and God will write the one who loves the Lord
+[01:22:03.440 --> 01:22:05.440]   and the one who has faith.
+[01:22:05.440 --> 01:22:09.440]   I saw God's writing through my faith
+[01:22:09.440 --> 01:22:14.440]   and I saw it through my life.
+[01:22:14.440 --> 01:22:17.440]   My biological son Eumman,
+[01:22:17.440 --> 01:22:21.440]   he was laid on the bed all his life.
+[01:22:21.440 --> 01:22:24.440]   He could not move his finger even.
+[01:22:24.440 --> 01:22:29.440]   Then he was a minister to teach me.
+[01:22:29.440 --> 01:22:33.440]   He was a minister to open up
+[01:22:33.440 --> 01:22:36.440]   the Jusaran Community Church Ministry.
+[01:22:36.440 --> 01:22:46.440]   So, don't judge others who can do something.
+[01:22:46.440 --> 01:22:49.440]   He's somebody, he's nobody.
+[01:22:49.440 --> 01:22:53.440]   That judgment would be not possible
+[01:22:53.440 --> 01:23:00.440]   because the weakness I saw the Lord in the weak people.
+[01:23:00.440 --> 01:23:06.440]   Even my biological son, I met the Lord in him.
+[01:23:06.440 --> 01:23:10.440]   So, God can do his work.
+[01:23:10.440 --> 01:23:16.440]   God walks his walk through the weak.
+[01:23:16.440 --> 01:23:17.440]   He can do that.
+[01:23:17.440 --> 01:23:22.440]   So, don't judge others and don't judge the disabled
+[01:23:22.440 --> 01:23:30.440]   and don't judge others' personality or else.
+[01:23:30.440 --> 01:23:33.440]   - Yeah, I mean, the fact that this whole ministry
+[01:23:33.440 --> 01:23:36.440]   came out of the suffering of their home
+[01:23:36.440 --> 01:23:39.440]   where he was taking care of a bedridden son
+[01:23:39.440 --> 01:23:42.440]   and for 14 years he was bedridden.
+[01:23:42.440 --> 01:23:45.440]   And imagine, you know, I mean, now, obviously,
+[01:23:45.440 --> 01:23:47.440]   he's getting worldwide attention
+[01:23:47.440 --> 01:23:49.440]   and this ministry has become huge,
+[01:23:49.440 --> 01:23:53.440]   but it all came from decades of suffering in that home,
+[01:23:53.440 --> 01:23:54.440]   of taking care of their child
+[01:23:54.440 --> 01:23:57.440]   and how God has used that and had a plan
+[01:23:57.440 --> 01:23:59.440]   to use all of that to do what he's doing now.
+[01:23:59.440 --> 01:24:01.440]   They didn't answer directly,
+[01:24:01.440 --> 01:24:03.440]   but when I was talking to them privately,
+[01:24:03.440 --> 01:24:06.440]   this ministry, again, out of compassion
+[01:24:06.440 --> 01:24:08.440]   and out of obedience, what he started,
+[01:24:08.440 --> 01:24:11.440]   has triggered a worldwide movement
+[01:24:11.440 --> 01:24:14.440]   like a pro-life movement, even indirectly.
+[01:24:14.440 --> 01:24:16.440]   I don't think that was his goal,
+[01:24:16.440 --> 01:24:18.440]   but just being compassionate for these children
+[01:24:18.440 --> 01:24:22.440]   and so that movie has been seen worldwide
+[01:24:22.440 --> 01:24:26.440]   and he showed me a picture while we were having lunch.
+[01:24:26.440 --> 01:24:30.440]   He took a picture with the attorney general of Mississippi
+[01:24:30.440 --> 01:24:32.440]   and if you've been following what's going on over there,
+[01:24:32.440 --> 01:24:34.440]   the attorney general of Mississippi
+[01:24:34.440 --> 01:24:37.440]   basically outlawed abortion in that state
+[01:24:37.440 --> 01:24:38.440]   and so they're in legal battle
+[01:24:38.440 --> 01:24:40.440]   with the federal government right now
+[01:24:40.440 --> 01:24:46.440]   and so he was there visiting the Mississippi attorney general
+[01:24:46.440 --> 01:24:48.440]   and also he's actively involved
+[01:24:48.440 --> 01:24:50.440]   with the pro-life movement in Korea
+[01:24:50.440 --> 01:24:52.440]   and he also mentioned that there's something going on,
+[01:24:52.440 --> 01:24:53.440]   pro-life movement in Japan,
+[01:24:53.440 --> 01:24:57.440]   and so again, this has given him an opportunity
+[01:24:57.440 --> 01:25:01.440]   to trigger the sanctity of life, you know,
+[01:25:01.440 --> 01:25:02.440]   and it's moving in that way.
+[01:25:02.440 --> 01:25:06.440]   And so, again, all of this came from
+[01:25:06.440 --> 01:25:08.440]   decades of suffering in this home
+[01:25:08.440 --> 01:25:12.440]   that God chose to use as a platform to speak for this
+[01:25:12.440 --> 01:25:14.440]   and because he's a pastor,
+[01:25:14.440 --> 01:25:15.440]   it's not just about the sanctity of life.
+[01:25:15.440 --> 01:25:19.440]   Ultimately, the gospel is being spread as an avenue to do that,
+[01:25:19.440 --> 01:25:21.440]   so we're so blessed to have them here.
+[01:25:21.440 --> 01:25:23.440]   So I have just a couple more questions,
+[01:25:23.440 --> 01:25:27.440]   something, one more that is a bit more personal.
+[01:25:27.440 --> 01:25:31.440]   And so the last question I'd like to ask is coming from
+[01:25:31.440 --> 01:25:35.440]   how would you encourage a parent who has a disabled child
+[01:25:35.440 --> 01:25:38.440]   and for years of struggling that you went through
+[01:25:38.440 --> 01:25:40.440]   and how would you encourage them practically
+[01:25:40.440 --> 01:25:44.440]   to endure and persevere so that they may--
+[01:25:44.440 --> 01:25:47.440]   - Single mothers. - Not just single mothers,
+[01:25:47.440 --> 01:25:49.440]   like parents who have disabled children.
+[01:25:49.440 --> 01:25:52.440]   - Parents and disabled children, yeah.
+[01:25:52.440 --> 01:25:55.440]   - What kind of encouragement can you give?
+[01:25:55.440 --> 01:25:59.440]   (speaking in foreign language)
+[01:25:59.440 --> 01:26:12.440]   (speaking in foreign language)
+[01:26:12.440 --> 01:26:16.440]   (speaking in foreign language)
+[01:26:17.440 --> 01:26:21.440]   (speaking in foreign language)
+[01:26:21.440 --> 01:26:25.440]   (speaking in foreign language)
+[01:26:25.440 --> 01:26:29.440]   (speaking in foreign language)
+[01:26:29.440 --> 01:26:33.440]   (speaking in foreign language)
+[01:26:33.440 --> 01:26:37.440]   (speaking in foreign language)
+[01:26:38.440 --> 01:26:42.440]   (speaking in foreign language)
+[01:26:43.440 --> 01:26:47.440]   (speaking in foreign language)
+[01:27:09.440 --> 01:27:14.440]   - If you, among us, if you have disabled children,
+[01:27:14.440 --> 01:27:19.440]   I think that is kind of a special blessing
+[01:27:19.440 --> 01:27:21.440]   and very specialty.
+[01:27:21.440 --> 01:27:27.440]   Through the week, we can experience
+[01:27:27.440 --> 01:27:31.440]   God's special grace in the family.
+[01:27:31.440 --> 01:27:37.440]   Serve him or her and take care of him with all your heart.
+[01:27:38.440 --> 01:27:41.440]   And you can, yeah, what I experienced.
+[01:27:41.440 --> 01:27:45.440]   My suggestion is not kind of imagine.
+[01:27:45.440 --> 01:27:48.440]   My suggestion is not a theory.
+[01:27:48.440 --> 01:27:52.440]   I experienced that also already.
+[01:27:52.440 --> 01:27:55.440]   So I can firmly tell like this.
+[01:27:55.440 --> 01:27:58.440]   If you have disabled children,
+[01:27:58.440 --> 01:28:00.440]   that is a special blessing from God.
+[01:28:00.440 --> 01:28:03.440]   You can find out the blessing from God
+[01:28:03.440 --> 01:28:07.440]   and you can find out the power of grace of the Lord.
+[01:28:08.440 --> 01:28:09.440]   - Okay, I lied.
+[01:28:09.440 --> 01:28:11.440]   I have actually one more question.
+[01:28:11.440 --> 01:28:12.440]   - No matter.
+[01:28:12.440 --> 01:28:14.440]   - Yeah, so as we close up,
+[01:28:14.440 --> 01:28:18.440]   Pastor Lee, what two prayer requests
+[01:28:18.440 --> 01:28:21.440]   would you leave with us so that we can pray for you
+[01:28:21.440 --> 01:28:22.440]   after this meeting?
+[01:28:22.440 --> 01:28:26.440]   (speaking in foreign language)
+[01:28:26.440 --> 01:28:32.440]   (audience laughing)
+[01:28:32.440 --> 01:28:36.440]   (speaking in foreign language)
+[01:28:37.440 --> 01:28:41.440]   (speaking in foreign language)
+[01:28:42.440 --> 01:28:46.440]   (speaking in foreign language)
+[01:28:46.440 --> 01:28:50.440]   (speaking in foreign language)
+[01:28:50.440 --> 01:28:54.440]   (speaking in foreign language)
+[01:28:54.440 --> 01:28:58.440]   (speaking in foreign language)
+[01:28:59.440 --> 01:29:03.440]   (speaking in foreign language)
+[01:29:03.440 --> 01:29:07.440]   (speaking in foreign language)
+[01:29:08.440 --> 01:29:12.440]   (speaking in foreign language)
+[01:29:13.440 --> 01:29:17.440]   (speaking in foreign language)
+[01:29:17.440 --> 01:29:21.440]   (speaking in foreign language)
+[01:29:21.440 --> 01:29:25.440]   (speaking in foreign language)
+[01:29:25.440 --> 01:29:29.440]   (speaking in foreign language)
+[01:29:29.440 --> 01:29:33.440]   (speaking in foreign language)
+[01:29:33.440 --> 01:29:37.440]   (speaking in foreign language)
+[01:29:37.440 --> 01:29:41.440]   (speaking in foreign language)
+[01:29:42.440 --> 01:29:46.440]   (speaking in foreign language)
+[01:29:46.440 --> 01:29:50.440]   (speaking in foreign language)
+[01:30:14.440 --> 01:30:15.440]   (laughing)
+[01:30:15.440 --> 01:30:16.440]   I'm sorry.
+[01:30:16.440 --> 01:30:23.440]   (speaking in foreign language)
+[01:30:24.440 --> 01:30:28.440]   (speaking in foreign language)
+[01:30:28.440 --> 01:30:32.440]   (speaking in foreign language)
+[01:30:33.440 --> 01:30:37.440]   (speaking in foreign language)
+[01:30:38.440 --> 01:30:42.440]   (speaking in foreign language)
+[01:30:42.440 --> 01:30:46.440]   (speaking in foreign language)
+[01:30:46.440 --> 01:30:50.440]   (speaking in foreign language)
+[01:30:50.440 --> 01:30:54.440]   (speaking in foreign language)
+[01:30:54.440 --> 01:30:58.440]   (speaking in foreign language)
+[01:30:59.440 --> 01:31:03.440]   (speaking in foreign language)
+[01:31:03.440 --> 01:31:07.440]   (speaking in foreign language)
+[01:31:07.440 --> 01:31:11.440]   (speaking in foreign language)
+[01:31:12.440 --> 01:31:16.440]   (speaking in foreign language)
+[01:31:17.440 --> 01:31:21.440]   (speaking in foreign language)
+[01:31:21.440 --> 01:31:25.440]   (speaking in foreign language)
+[01:31:26.440 --> 01:31:30.440]   (speaking in foreign language)
+[01:31:30.440 --> 01:31:34.440]   (speaking in foreign language)
+[01:31:35.440 --> 01:31:39.440]   (speaking in foreign language)
+[01:31:39.440 --> 01:31:43.440]   (speaking in foreign language)
+[01:31:44.440 --> 01:31:48.440]   (speaking in foreign language)
+[01:32:12.440 --> 01:32:16.440]   (speaking in foreign language)
+[01:32:17.440 --> 01:32:21.440]   (speaking in foreign language)
+[01:32:21.440 --> 01:32:25.440]   (speaking in foreign language)
+[01:32:26.440 --> 01:32:30.440]   (speaking in foreign language)
+[01:32:31.440 --> 01:32:35.440]   (speaking in foreign language)
+[01:32:36.440 --> 01:32:40.440]   (speaking in foreign language)
+[01:32:41.440 --> 01:32:45.440]   (speaking in foreign language)
+[01:32:46.440 --> 01:32:50.440]   (speaking in foreign language)
+[01:32:51.440 --> 01:32:55.440]   (speaking in foreign language)
+[01:32:55.440 --> 01:32:59.440]   (speaking in foreign language)
+[01:33:00.440 --> 01:33:04.440]   (speaking in foreign language)
+[01:33:05.440 --> 01:33:09.440]   (speaking in foreign language)
+[01:33:10.440 --> 01:33:14.440]   (speaking in foreign language)
+[01:33:14.440 --> 01:33:18.440]   (speaking in foreign language)
+[01:33:18.440 --> 01:33:22.440]   (speaking in foreign language)
+[01:33:23.440 --> 01:33:27.440]   (speaking in foreign language)
+[01:33:28.440 --> 01:33:32.440]   (speaking in foreign language)
+[01:33:33.440 --> 01:33:37.440]   (speaking in foreign language)
+[01:33:38.440 --> 01:33:42.440]   (speaking in foreign language)
+[01:33:42.440 --> 01:33:46.440]   (speaking in foreign language)
+[01:33:47.440 --> 01:33:51.440]   (speaking in foreign language)
+[01:33:52.440 --> 01:33:56.440]   (speaking in foreign language)
+[01:33:56.440 --> 01:34:00.440]   (speaking in foreign language)
+[01:34:24.440 --> 01:34:27.440]   (audience laughing)
+[01:34:27.440 --> 01:34:31.440]   (speaking in foreign language)
+[01:34:31.440 --> 01:34:36.440]   (audience laughing)
+[01:34:36.440 --> 01:34:38.440]   - I cannot interpret this.
+[01:34:38.440 --> 01:34:42.440]   (speaking in foreign language)
+[01:34:42.440 --> 01:34:43.440]   - One more idea.
+[01:34:43.440 --> 01:34:47.440]   (speaking in foreign language)
+[01:34:47.440 --> 01:34:51.440]   (speaking in foreign language)
+[01:34:51.440 --> 01:35:12.440]   - Yeah.
+[01:35:12.440 --> 01:35:13.440]   (audience laughing)
+[01:35:13.440 --> 01:35:16.440]   Additionally speaking, Pastor Jimmy
+[01:35:16.440 --> 01:35:19.440]   introduced the special regulation
+[01:35:19.440 --> 01:35:22.440]   and he want to additional speaking.
+[01:35:22.440 --> 01:35:26.440]   Pursuit of deliverance,
+[01:35:26.440 --> 01:35:29.440]   delivery,
+[01:35:29.440 --> 01:35:32.440]   pursuit of baby delivery,
+[01:35:32.440 --> 01:35:35.440]   that is the name of the special regulation.
+[01:35:35.440 --> 01:35:39.440]   Indeed, in Germany and France, did it also.
+[01:35:42.440 --> 01:35:45.440]   Some pregnant woman can registration,
+[01:35:45.440 --> 01:35:47.440]   pursue the name.
+[01:35:47.440 --> 01:35:52.440]   Then the real record can be protected in family court,
+[01:35:52.440 --> 01:35:54.440]   not family record.
+[01:35:54.440 --> 01:36:00.440]   So she can do baby delivery safely.
+[01:36:00.440 --> 01:36:04.440]   So it is very good chance and very good option
+[01:36:04.440 --> 01:36:10.440]   for the ladies in crisis.
+[01:36:11.440 --> 01:36:15.440]   (speaking in foreign language)
+[01:36:15.440 --> 01:36:37.440]   - This rule has included the right to recognize
+[01:36:38.440 --> 01:36:40.440]   the biological parents.
+[01:36:40.440 --> 01:36:45.440]   If the adoptee or the pursuit of being born
+[01:36:45.440 --> 01:36:49.440]   under pursuit of name,
+[01:36:49.440 --> 01:36:52.440]   he or she want to find out
+[01:36:52.440 --> 01:36:56.440]   their biological mother or father,
+[01:36:56.440 --> 01:36:59.440]   they can search out in family court.
+[01:36:59.440 --> 01:37:04.440]   So this specialty included protecting the mother side
+[01:37:06.440 --> 01:37:08.440]   and the baby side.
+[01:37:08.440 --> 01:37:11.440]   It's very balanced good law, I think.
+[01:37:11.440 --> 01:37:16.440]   (speaking in foreign language)
+[01:37:17.440 --> 01:37:21.440]   (speaking in foreign language)
+[01:37:22.440 --> 01:37:25.440]   (audience laughing)
+[01:37:25.440 --> 01:37:30.440]   (speaking in foreign language)
+[01:37:30.440 --> 01:37:34.440]   (speaking in foreign language)
+[01:37:34.440 --> 01:37:38.440]   (speaking in foreign language)
+[01:37:39.440 --> 01:37:43.440]   (speaking in foreign language)
+[01:37:44.440 --> 01:37:48.440]   (speaking in foreign language)
+[01:37:48.440 --> 01:37:52.440]   (speaking in foreign language)
+[01:37:53.440 --> 01:37:57.440]   (speaking in foreign language)
+[01:37:57.440 --> 01:38:01.440]   (speaking in foreign language)
+[01:38:02.440 --> 01:38:06.440]   (speaking in foreign language)
+[01:38:30.440 --> 01:38:34.440]   - This regulation included in Korean,
+[01:38:34.440 --> 01:38:35.440]   (speaking in foreign language)
+[01:38:35.440 --> 01:38:40.440]   and that means father side responsibility.
+[01:38:40.440 --> 01:38:47.440]   When I make a counseling in Bay Box with single mothers,
+[01:38:47.440 --> 01:38:50.440]   they say all the same story.
+[01:38:50.440 --> 01:38:54.440]   I can hear from them, same and old story.
+[01:38:54.440 --> 01:38:57.440]   In that story, they're a bad guy.
+[01:38:58.440 --> 01:39:03.440]   When talk to the guy, I'm pregnant,
+[01:39:03.440 --> 01:39:09.440]   and he said, "Oh my God," and he disappeared
+[01:39:09.440 --> 01:39:11.440]   and changing his phone number,
+[01:39:11.440 --> 01:39:14.440]   and he cannot find out him anymore.
+[01:39:14.440 --> 01:39:20.440]   So in the story, there is always a bad guy.
+[01:39:20.440 --> 01:39:22.440]   Then he said, "Yeah."
+[01:39:23.440 --> 01:39:28.440]   Preparing a kind of punishment relating to driving license
+[01:39:28.440 --> 01:39:32.440]   and passport and the salary,
+[01:39:32.440 --> 01:39:36.440]   so he want to put on the responsibility
+[01:39:36.440 --> 01:39:41.440]   to the biological father of the babies in crisis.
+[01:39:41.440 --> 01:39:47.440]   So he insisted that that law could be tuned up
+[01:39:49.440 --> 01:39:54.440]   the property of physical relationship in Korea.
+[01:39:54.440 --> 01:40:01.440]   (speaking in foreign language)
+[01:40:01.440 --> 01:40:05.440]   (speaking in foreign language)
+[01:40:05.440 --> 01:40:09.440]   (speaking in foreign language)
+[01:40:09.440 --> 01:40:13.440]   (speaking in foreign language)
+[01:40:14.440 --> 01:40:18.440]   (speaking in foreign language)
+[01:40:18.440 --> 01:40:22.440]   (speaking in foreign language)
+[01:40:22.440 --> 01:40:26.440]   (speaking in foreign language)
+[01:40:26.440 --> 01:40:30.440]   (speaking in foreign language)
+[01:40:30.440 --> 01:40:34.440]   (speaking in foreign language)
+[01:40:35.440 --> 01:40:39.440]   (speaking in foreign language)
+[01:40:40.440 --> 01:40:44.440]   (speaking in foreign language)
+[01:40:44.440 --> 01:40:48.440]   (speaking in foreign language)
+[01:40:49.440 --> 01:40:53.440]   (speaking in foreign language)
+[01:40:54.440 --> 01:40:58.440]   (speaking in foreign language)
+[01:40:58.440 --> 01:41:02.440]   (speaking in foreign language)
+[01:41:03.440 --> 01:41:07.440]   (speaking in foreign language)
+[01:41:08.440 --> 01:41:12.440]   (speaking in foreign language)
+[01:41:12.440 --> 01:41:28.440]   (speaking in foreign language)
+[01:41:34.440 --> 01:41:38.440]   (speaking in foreign language)
+[01:41:38.440 --> 01:42:02.440]   - Please pray for Babock's Pursuit of Death Ministry.
+[01:42:02.440 --> 01:42:07.440]   I believe that that ministry is very unique and very special
+[01:42:07.440 --> 01:42:12.440]   and different from other Baby Boxes.
+[01:42:12.440 --> 01:42:15.440]   I can help so many countries,
+[01:42:15.440 --> 01:42:18.440]   I can help underdeveloped country
+[01:42:18.440 --> 01:42:23.440]   to protect their people safely.
+[01:42:23.440 --> 01:42:28.440]   So Babock's Ministry would be needed in many countries,
+[01:42:29.440 --> 01:42:34.440]   so pray for to be spread,
+[01:42:34.440 --> 01:42:38.440]   the Baby Box Ministry, in Korean style.
+[01:42:38.440 --> 01:42:44.440]   Counseling and supporting and save the babies in crisis.
+[01:42:44.440 --> 01:42:53.440]   Like that.
+[01:42:53.440 --> 01:42:58.440]   (speaking in foreign language)
+[01:42:59.440 --> 01:43:03.440]   (speaking in foreign language)
+[01:43:03.440 --> 01:43:07.440]   (speaking in foreign language)
+[01:43:07.440 --> 01:43:11.440]   (speaking in foreign language)
+[01:43:11.440 --> 01:43:15.440]   (speaking in foreign language)
+[01:43:15.440 --> 01:43:19.440]   (speaking in foreign language)
+[01:43:44.440 --> 01:43:48.440]   - I have a beloved wife and great co-worker
+[01:43:48.440 --> 01:43:50.440]   in this Pursuit of Death Ministry,
+[01:43:50.440 --> 01:43:55.440]   and a mother of about 2,000 babies.
+[01:43:55.440 --> 01:43:58.440]   Her name is Byung Ok Chung,
+[01:43:58.440 --> 01:44:01.440]   and she's wonderful sister in faith.
+[01:44:01.440 --> 01:44:06.440]   Then she got diagnosis of Alzheimer's disease,
+[01:44:10.440 --> 01:44:15.440]   so she struggled on the disease.
+[01:44:15.440 --> 01:44:19.440]   Please pray for her honestly.
+[01:44:19.440 --> 01:44:22.440]   I beg you, pray for her.
+[01:44:22.440 --> 01:44:29.440]   Pray for her health and beautiful life, blessed life.
+[01:44:29.440 --> 01:44:32.440]   Please pray for her.
+[01:44:32.440 --> 01:44:35.440]   - Okay, as we wrap up,
+[01:44:35.440 --> 01:44:38.440]   the reason why I asked for two so that I wouldn't forget.
+[01:44:38.440 --> 01:44:40.440]   (audience laughing)
+[01:44:40.440 --> 01:44:42.440]   So let me summarize real quick,
+[01:44:42.440 --> 01:44:43.440]   and then we're gonna take a minute,
+[01:44:43.440 --> 01:44:44.440]   and then we're gonna wrap up.
+[01:44:44.440 --> 01:44:47.440]   First of all, the prayer for Korea
+[01:44:47.440 --> 01:44:48.440]   to pass an anti-abortion law,
+[01:44:48.440 --> 01:44:50.440]   which is actively engaged in.
+[01:44:50.440 --> 01:44:53.440]   Second, there's a legislation
+[01:44:53.440 --> 01:44:56.440]   that actually he hired lawyers to make,
+[01:44:56.440 --> 01:45:00.440]   and it's so that they are able to give the birth anonymously,
+[01:45:00.440 --> 01:45:02.440]   because a lot of these babies are being aborted
+[01:45:02.440 --> 01:45:05.440]   because of the shame and the circumstances around it.
+[01:45:05.440 --> 01:45:08.440]   And so if they do that, and then they report it
+[01:45:08.440 --> 01:45:10.440]   in the family court instead of the government court,
+[01:45:10.440 --> 01:45:11.440]   that they will be protected,
+[01:45:11.440 --> 01:45:15.440]   and more children will be able to be alive
+[01:45:15.440 --> 01:45:16.440]   as a result of that.
+[01:45:16.440 --> 01:45:18.440]   And so that was the second one.
+[01:45:18.440 --> 01:45:21.440]   The third one was so that the men who are involved in this,
+[01:45:21.440 --> 01:45:24.440]   there's a tendency that once they find out
+[01:45:24.440 --> 01:45:26.440]   that their girlfriend, whoever is pregnant,
+[01:45:26.440 --> 01:45:27.440]   that they would run off.
+[01:45:27.440 --> 01:45:30.440]   So the second legislation that he's trying to get passed
+[01:45:30.440 --> 01:45:31.440]   is to keep them responsible.
+[01:45:31.440 --> 01:45:33.440]   So they would go after their driver's license,
+[01:45:33.440 --> 01:45:35.440]   passport, and salary,
+[01:45:35.440 --> 01:45:38.440]   and so that they would be engaged in raising this child
+[01:45:38.440 --> 01:45:40.440]   at some point when it's necessary.
+[01:45:40.440 --> 01:45:42.440]   The fourth law that he,
+[01:45:42.440 --> 01:45:45.440]   or fourth thing that he asked for was
+[01:45:45.440 --> 01:45:47.440]   that right now, like Baby Box Ministry
+[01:45:47.440 --> 01:45:48.440]   is a unique ministry in Korea
+[01:45:48.440 --> 01:45:50.440]   because it's not just saving babies,
+[01:45:50.440 --> 01:45:52.440]   but they also take time to counsel
+[01:45:52.440 --> 01:45:54.440]   the young ladies that come,
+[01:45:54.440 --> 01:45:57.440]   and to be able to give support for them
+[01:45:57.440 --> 01:46:00.440]   so that they would continue to be able to do that.
+[01:46:00.440 --> 01:46:04.440]   So he's partnering with officials in high places
+[01:46:04.440 --> 01:46:06.440]   in various countries to bring that
+[01:46:06.440 --> 01:46:08.440]   to a lot of these countries.
+[01:46:08.440 --> 01:46:10.440]   And he said that one of the things
+[01:46:10.440 --> 01:46:12.440]   that really grieves our heart is that
+[01:46:12.440 --> 01:46:13.440]   as he goes to these countries,
+[01:46:13.440 --> 01:46:15.440]   and some of these countries are very wealthy countries
+[01:46:15.440 --> 01:46:18.440]   like Japan, where they have no support
+[01:46:18.440 --> 01:46:21.440]   for children who are being born that's just being abandoned.
+[01:46:21.440 --> 01:46:23.440]   So they said that a lot of these missionaries
+[01:46:23.440 --> 01:46:26.440]   and pastors are walking around seeing abandoned fetuses
+[01:46:26.440 --> 01:46:27.440]   wherever they go.
+[01:46:27.440 --> 01:46:29.440]   And so one of the prayer requests is that
+[01:46:29.440 --> 01:46:31.440]   the contacts that he has with them
+[01:46:31.440 --> 01:46:33.440]   that they will be able to pass laws
+[01:46:33.440 --> 01:46:34.440]   to be able to protect.
+[01:46:34.440 --> 01:46:36.440]   So Baby Box type of ministries
+[01:46:36.440 --> 01:46:38.440]   will pop up all over the world.
+[01:46:38.440 --> 01:46:39.440]   And then fourth and finally,
+[01:46:39.440 --> 01:46:40.440]   as you just heard his wife,
+[01:46:40.440 --> 01:46:42.440]   you know we were talking and he said
+[01:46:42.440 --> 01:46:44.440]   that she was diagnosed with Alzheimer
+[01:46:44.440 --> 01:46:47.440]   not too long ago, very recently.
+[01:46:47.440 --> 01:46:50.440]   And she would have been here if it wasn't the case.
+[01:46:50.440 --> 01:46:52.440]   And so she's there, she has to rest.
+[01:46:52.440 --> 01:46:54.440]   But she's a very crucial part of this ministry.
+[01:46:54.440 --> 01:46:56.440]   So he's asking that God would heal her
+[01:46:56.440 --> 01:46:59.440]   until the day she is called back home
+[01:46:59.440 --> 01:47:01.440]   and to be able to run with him.
+[01:47:01.440 --> 01:47:04.440]   And again, a very important part of his ministry
+[01:47:04.440 --> 01:47:05.440]   is her ministry.
+[01:47:05.440 --> 01:47:07.440]   So if you can, we can pray for that.
+[01:47:07.440 --> 01:47:10.440]   Okay, so I am going to pray and we're going to end it.
+[01:47:10.440 --> 01:47:12.440]   But Pastor Lee brought up this,
+[01:47:12.440 --> 01:47:13.440]   I don't know what this is,
+[01:47:13.440 --> 01:47:14.440]   this is a clarinet flute?
+[01:47:14.440 --> 01:47:16.440]   I don't think it's a comfort stick.
+[01:47:16.440 --> 01:47:17.440]   So he,
+[01:47:17.440 --> 01:47:21.440]   (speaking in foreign language)
+[01:47:21.440 --> 01:47:25.440]   (speaking in foreign language)
+[01:47:25.440 --> 01:47:32.440]   Clarinet, but clarinet little, right?
+[01:47:32.440 --> 01:47:35.440]   (laughing)
+[01:47:35.440 --> 01:47:39.440]   (speaking in foreign language)
+[01:47:39.440 --> 01:47:43.440]   (speaking in foreign language)
+[01:47:43.440 --> 01:47:47.440]   (speaking in foreign language)
+[01:47:47.440 --> 01:48:03.440]   (speaking in foreign language)
+[01:48:04.440 --> 01:48:08.440]   (speaking in foreign language)
+[01:48:08.440 --> 01:48:16.440]   (clarinet music)
+[01:48:17.440 --> 01:48:20.200]   (clarinet music)
+[01:48:21.200 --> 01:48:23.960]   (clarinet music)
+[01:48:24.960 --> 01:48:27.720]   (clarinet music)
+[01:48:27.720 --> 01:48:36.720]   (clarinet music)
+[01:48:36.720 --> 01:48:45.720]   (clarinet music)
+[01:48:45.720 --> 01:48:51.720]   (clarinet music)
+[01:48:52.720 --> 01:48:55.480]   (clarinet music)
+[01:48:55.480 --> 01:49:05.480]   (clarinet music)
+[01:49:05.480 --> 01:49:14.480]   (clarinet music)
+[01:49:14.480 --> 01:49:19.480]   (clarinet music)
+[01:49:19.480 --> 01:49:22.240]   (clarinet music)
+[01:49:22.240 --> 01:49:35.240]   (clarinet music)
+[01:49:35.240 --> 01:49:40.240]   (clarinet music)
+[01:49:47.480 --> 01:49:50.240]   (clarinet music)
+[01:49:50.240 --> 01:50:03.240]   (clarinet music)
+[01:50:03.240 --> 01:50:16.240]   (clarinet music)
+[01:50:17.240 --> 01:50:20.000]   (clarinet music)
+[01:50:20.000 --> 01:50:32.000]   (clarinet music)
+[01:50:32.000 --> 01:50:37.240]   (speaking in foreign language)
+[01:50:37.240 --> 01:50:40.400]   (audience applauding)
+[01:50:40.400 --> 01:50:44.240]   Let's all pray together.
+[01:50:45.240 --> 01:50:49.240]   Heavenly Father, we thank you so much, Lord God,
+[01:50:49.240 --> 01:50:54.240]   to bring your precious servant, Pastor Lee, here with us,
+[01:50:54.240 --> 01:50:57.240]   to encourage us, to remind us, Lord God,
+[01:50:57.240 --> 01:51:00.240]   of your amazing grace,
+[01:51:00.240 --> 01:51:03.240]   that even in the midst of trials and hardship, Lord God,
+[01:51:03.240 --> 01:51:05.240]   how you have turned darkness into light
+[01:51:05.240 --> 01:51:09.240]   in this family, in this home.
+[01:51:09.240 --> 01:51:11.240]   We thank you, Father God, for his sacrifice.
+[01:51:11.240 --> 01:51:13.240]   We thank you more than anything else
+[01:51:13.240 --> 01:51:15.240]   for the grace of his love for you,
+[01:51:15.240 --> 01:51:18.240]   that reflects in the sacrifices that he's made.
+[01:51:18.240 --> 01:51:22.240]   Lord, we pray, Lord God, that as you have established him
+[01:51:22.240 --> 01:51:24.240]   to fight this good fight,
+[01:51:24.240 --> 01:51:26.240]   give him the strength that he needs,
+[01:51:26.240 --> 01:51:28.240]   give him the support that he needs, Lord God,
+[01:51:28.240 --> 01:51:30.240]   give him the courage and the faith and the joy and the life
+[01:51:30.240 --> 01:51:33.240]   that he needs, Lord God, to continue this fight.
+[01:51:33.240 --> 01:51:35.240]   We pray, Father God, for your grace.
+[01:51:35.240 --> 01:51:38.240]   We pray for physical rest.
+[01:51:38.240 --> 01:51:40.240]   We pray for his precious wife, Lord God,
+[01:51:40.240 --> 01:51:42.240]   that you will bring healing.
+[01:51:42.240 --> 01:51:45.240]   Lord, you know, Lord, how much she means to him.
+[01:51:45.240 --> 01:51:48.240]   I pray, Father God, that you would allow her
+[01:51:48.240 --> 01:51:50.240]   to run with him to the end.
+[01:51:50.240 --> 01:51:53.240]   We pray, Father, that your grace truly would be sufficient
+[01:51:53.240 --> 01:51:57.240]   with all the legislation that they are trying to pass,
+[01:51:57.240 --> 01:51:59.240]   with all the connections that they are making
+[01:51:59.240 --> 01:52:01.240]   here and around the world.
+[01:52:01.240 --> 01:52:04.240]   I pray that you, who began a good work, Lord God,
+[01:52:04.240 --> 01:52:07.240]   in him and through him, would carry it onto completion
+[01:52:07.240 --> 01:52:11.240]   by the power of the Holy Spirit until you come.
+[01:52:11.240 --> 01:52:13.240]   So for that end, we pray for strength.
+[01:52:13.240 --> 01:52:17.240]   For that end, we pray for Pastor Lee, for Pastor Jimmy,
+[01:52:17.240 --> 01:52:19.240]   for the people that they are traveling with, Lord God,
+[01:52:19.240 --> 01:52:22.240]   that your anointing would be clear upon them.
+[01:52:22.240 --> 01:52:25.240]   Every connection that they make, Lord, would cause greater fruit.
+[01:52:25.240 --> 01:52:27.240]   And everywhere he speaks, Lord God,
+[01:52:27.240 --> 01:52:31.240]   that there would be your grace and people would be inspired
+[01:52:31.240 --> 01:52:34.240]   to be challenged, Lord God, to move as he has moved,
+[01:52:34.240 --> 01:52:37.240]   to be used by you in a mighty way.
+[01:52:37.240 --> 01:52:39.240]   And so we pray, Father God, that you would give him
+[01:52:39.240 --> 01:52:43.240]   the physical rest that he needs as he is recovering,
+[01:52:43.240 --> 01:52:45.240]   Lord God, from jet lag.
+[01:52:45.240 --> 01:52:48.240]   We ask, Lord, that you would give him good sleep,
+[01:52:48.240 --> 01:52:51.240]   help him, Lord God, to have the energy that he needs.
+[01:52:51.240 --> 01:52:53.240]   And more than anything else, Lord God,
+[01:52:53.240 --> 01:52:56.240]   that your presence would go with him wherever he goes.
+[01:52:56.240 --> 01:52:58.240]   For that end, we lift him up to you, Father.
+[01:52:58.240 --> 01:53:01.240]   In Jesus' name we pray, amen.
+[01:53:01.240 --> 01:53:03.240]   All right, let's thank Pastor Lee and Pastor Jimmy
+[01:53:03.240 --> 01:53:06.240]   for the time that they've given us, okay?
+[01:53:06.240 --> 01:53:13.240]   All right.
+[01:53:13.240 --> 01:53:17.240]   All right, so with that, we'll conclude our session today.
+[01:53:17.240 --> 01:53:19.240]   All right, thank you for coming.
+[01:53:19.240 --> 01:53:20.240]   (applause)
+[01:53:20.240 --> 01:53:21.240]   (applause)
+[01:53:22.240 --> 01:53:23.240]   (applause)
+[01:53:24.240 --> 01:53:25.240]   (applause)
+[01:53:26.240 --> 01:53:27.240]   (applause)
+[01:53:27.240 --> 01:53:37.240]   [BLANK_AUDIO]
+

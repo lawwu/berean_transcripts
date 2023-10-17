@@ -1,0 +1,1694 @@
+
+[00:00:00.000 --> 00:00:02.920]   (soft piano music)
+[00:00:03.720 --> 00:00:06.640]   (soft piano music)
+[00:00:06.640 --> 00:00:09.560]   (soft piano music)
+[00:00:09.560 --> 00:00:12.480]   (soft piano music)
+[00:00:12.480 --> 00:00:15.400]   (soft piano music)
+[00:00:16.240 --> 00:00:19.160]   (soft piano music)
+[00:00:19.160 --> 00:00:22.080]   (soft piano music)
+[00:00:22.080 --> 00:00:25.000]   (soft piano music)
+[00:00:25.000 --> 00:00:27.920]   (soft piano music)
+[00:00:27.920 --> 00:00:30.840]   (soft piano music)
+[00:00:30.840 --> 00:00:33.760]   (soft piano music)
+[00:00:33.760 --> 00:00:38.680]   (soft piano music)
+[00:00:38.680 --> 00:00:43.600]   (soft piano music)
+[00:00:43.600 --> 00:00:48.520]   (soft piano music)
+[00:00:48.520 --> 00:00:53.440]   (soft piano music)
+[00:00:53.440 --> 00:00:58.360]   (soft piano music)
+[00:01:00.360 --> 00:01:03.280]   (soft piano music)
+[00:01:03.280 --> 00:01:08.280]   (soft piano music)
+[00:01:08.280 --> 00:01:14.280]   (soft piano music)
+[00:01:14.280 --> 00:01:20.280]   (soft piano music)
+[00:01:20.280 --> 00:01:26.280]   (soft piano music)
+[00:01:29.360 --> 00:01:32.280]   (soft piano music)
+[00:01:32.280 --> 00:01:37.280]   (soft piano music)
+[00:01:37.280 --> 00:01:45.280]   (soft piano music)
+[00:01:45.280 --> 00:01:51.280]   (soft piano music)
+[00:01:51.280 --> 00:01:58.280]   (soft piano music)
+[00:01:59.280 --> 00:02:02.200]   (soft piano music)
+[00:02:02.200 --> 00:02:11.200]   (soft piano music)
+[00:02:11.200 --> 00:02:18.200]   (soft piano music)
+[00:02:18.200 --> 00:02:25.200]   (soft piano music)
+[00:02:25.200 --> 00:02:28.120]   (soft piano music)
+[00:02:28.120 --> 00:02:38.120]   (soft piano music)
+[00:02:38.120 --> 00:02:48.120]   (soft piano music)
+[00:02:48.120 --> 00:02:51.040]   (soft piano music)
+[00:02:51.040 --> 00:03:01.040]   (soft piano music)
+[00:03:01.040 --> 00:03:11.040]   (soft piano music)
+[00:03:11.040 --> 00:03:13.960]   (soft piano music)
+[00:03:13.960 --> 00:03:25.960]   (soft piano music)
+[00:03:25.960 --> 00:03:38.960]   (soft piano music)
+[00:03:38.960 --> 00:03:41.880]   (soft piano music)
+[00:03:41.880 --> 00:03:53.880]   (soft piano music)
+[00:03:53.880 --> 00:04:03.880]   (soft piano music)
+[00:04:03.880 --> 00:04:06.800]   (soft piano music)
+[00:04:06.800 --> 00:04:25.800]   (soft piano music)
+[00:04:25.800 --> 00:04:28.720]   (soft piano music)
+[00:04:28.720 --> 00:04:39.720]   (soft piano music)
+[00:04:39.720 --> 00:04:51.720]   (soft piano music)
+[00:04:51.720 --> 00:04:54.640]   (soft piano music)
+[00:04:54.640 --> 00:05:06.640]   (soft piano music)
+[00:05:06.640 --> 00:05:19.640]   (soft piano music)
+[00:05:19.640 --> 00:05:22.560]   (soft piano music)
+[00:05:22.560 --> 00:05:33.560]   (soft piano music)
+[00:05:33.560 --> 00:05:44.560]   (soft piano music)
+[00:05:44.560 --> 00:05:47.480]   (soft piano music)
+[00:05:47.480 --> 00:05:59.480]   (soft piano music)
+[00:05:59.480 --> 00:06:12.480]   (soft piano music)
+[00:06:12.480 --> 00:06:15.400]   (soft piano music)
+[00:06:15.400 --> 00:06:26.400]   (soft piano music)
+[00:06:26.400 --> 00:06:39.400]   (soft piano music)
+[00:06:39.400 --> 00:06:42.320]   (soft piano music)
+[00:06:42.320 --> 00:06:57.320]   (soft piano music)
+[00:06:58.320 --> 00:07:01.240]   (soft piano music)
+[00:07:01.240 --> 00:07:15.240]   (soft piano music)
+[00:07:15.240 --> 00:07:18.160]   (soft piano music)
+[00:07:18.160 --> 00:07:33.160]   (soft piano music)
+[00:07:33.160 --> 00:07:36.080]   (soft piano music)
+[00:07:36.080 --> 00:07:53.080]   (soft piano music)
+[00:07:53.080 --> 00:07:56.000]   (soft piano music)
+[00:07:56.000 --> 00:08:11.000]   (soft piano music)
+[00:08:11.000 --> 00:08:13.920]   (soft piano music)
+[00:08:13.920 --> 00:08:33.920]   (soft piano music)
+[00:08:33.920 --> 00:08:36.840]   (soft piano music)
+[00:08:36.840 --> 00:08:58.840]   (soft piano music)
+[00:08:58.840 --> 00:09:01.760]   (soft piano music)
+[00:09:01.760 --> 00:09:21.760]   (soft piano music)
+[00:09:21.760 --> 00:09:24.680]   (soft piano music)
+[00:09:24.680 --> 00:09:39.680]   (soft piano music)
+[00:09:39.680 --> 00:09:42.600]   (soft piano music)
+[00:09:42.600 --> 00:09:57.600]   (soft piano music)
+[00:09:57.600 --> 00:10:00.520]   (soft piano music)
+[00:10:00.520 --> 00:10:19.520]   (soft piano music)
+[00:10:19.520 --> 00:10:22.440]   (soft piano music)
+[00:10:22.440 --> 00:10:37.440]   (soft piano music)
+[00:10:37.440 --> 00:10:40.360]   (soft piano music)
+[00:10:40.360 --> 00:10:55.360]   (soft piano music)
+[00:10:55.360 --> 00:10:58.280]   (soft piano music)
+[00:10:58.280 --> 00:11:17.280]   (soft piano music)
+[00:11:17.280 --> 00:11:20.200]   (soft piano music)
+[00:11:20.200 --> 00:11:28.280]   - All right, good morning, church family.
+[00:11:28.280 --> 00:11:30.280]   Happy Lord's Day and a happy New Year's to you as well.
+[00:11:30.280 --> 00:11:33.280]   And we will now begin with our worship service.
+[00:11:33.280 --> 00:11:37.200]   (soft piano music)
+[00:11:37.200 --> 00:11:42.280]   (upbeat music)
+[00:11:42.280 --> 00:11:45.280]   (upbeat music)
+[00:11:45.280 --> 00:12:09.280]   ♪ Why this fear and unbelief ♪
+[00:12:09.280 --> 00:12:14.280]   ♪ Is not the father but to grieve ♪
+[00:12:14.280 --> 00:12:19.280]   ♪ His father's son for all ♪
+[00:12:19.280 --> 00:12:25.280]   ♪ Will the righteous judge of men ♪
+[00:12:25.280 --> 00:12:30.280]   ♪ Condemn before that dead of sin ♪
+[00:12:30.280 --> 00:12:35.280]   ♪ And cancel that the crime ♪
+[00:12:36.280 --> 00:12:41.280]   ♪ Jesus all my trust is in your blood ♪
+[00:12:41.280 --> 00:12:55.280]   ♪ Jesus you rescued us through your great love ♪
+[00:12:56.280 --> 00:13:01.280]   ♪ You rescued us through your great love ♪
+[00:13:01.280 --> 00:13:15.280]   ♪ And clean atonement you have made ♪
+[00:13:15.280 --> 00:13:20.280]   ♪ By your death have fully paid ♪
+[00:13:20.280 --> 00:13:22.280]   ♪ And at your people ♪
+[00:13:22.280 --> 00:13:25.280]   ♪ No wrath remains ♪
+[00:13:25.280 --> 00:13:30.280]   ♪ No wrath remains for us to face ♪
+[00:13:30.280 --> 00:13:35.280]   ♪ We're sheltered by your saving grace ♪
+[00:13:35.280 --> 00:13:39.280]   ♪ And sprinkled with your blood ♪
+[00:13:39.280 --> 00:13:41.280]   ♪ So Jesus ♪
+[00:13:41.280 --> 00:13:46.280]   ♪ Jesus all my trust is in your blood ♪
+[00:13:46.280 --> 00:13:51.280]   ♪ All my trust is in your blood ♪
+[00:13:51.280 --> 00:14:01.280]   ♪ Jesus you rescued us through your great love ♪
+[00:14:01.280 --> 00:14:14.280]   ♪ How sweet the sound of saving grace ♪
+[00:14:14.280 --> 00:14:18.280]   ♪ How sweet the sound of saving grace ♪
+[00:14:18.280 --> 00:14:23.280]   ♪ Christ died for me ♪
+[00:14:23.280 --> 00:14:28.280]   ♪ How sweet the sound of saving grace ♪
+[00:14:28.280 --> 00:14:32.280]   ♪ How sweet the sound of saving grace ♪
+[00:14:32.280 --> 00:14:35.280]   ♪ Christ died for me ♪
+[00:14:43.280 --> 00:14:48.280]   ♪ Still my soul and know this peace ♪
+[00:14:48.280 --> 00:14:53.280]   ♪ Merits of your great high grace ♪
+[00:14:53.280 --> 00:14:58.280]   ♪ Bought your liberty ♪
+[00:14:58.280 --> 00:15:04.280]   ♪ Lighten on his precious blood ♪
+[00:15:04.280 --> 00:15:08.280]   ♪ Fear your banishment from God ♪
+[00:15:08.280 --> 00:15:11.280]   ♪ Since Jesus set you free ♪
+[00:15:11.280 --> 00:15:15.280]   ♪ Yes he has ♪
+[00:15:15.280 --> 00:15:20.280]   ♪ Jesus all my trust is in your blood ♪
+[00:15:20.280 --> 00:15:34.280]   ♪ Jesus you rescued us through your great love ♪
+[00:15:35.280 --> 00:15:40.280]   ♪ Jesus you rescued us through your great love ♪
+[00:15:40.280 --> 00:15:49.280]   ♪ How sweet the sound of saving grace ♪
+[00:15:49.280 --> 00:15:53.280]   ♪ How sweet the sound of saving grace ♪
+[00:15:53.280 --> 00:15:58.280]   ♪ Christ died for me ♪
+[00:15:58.280 --> 00:16:03.280]   ♪ How sweet the sound of saving grace ♪
+[00:16:03.280 --> 00:16:08.280]   ♪ Christ died for me ♪
+[00:16:08.280 --> 00:16:15.280]   ♪ Jesus all my trust is in your blood ♪
+[00:16:15.280 --> 00:16:29.280]   ♪ Jesus rescued us through your great love ♪
+[00:16:30.280 --> 00:16:35.280]   ♪ Jesus rescued us through your great love ♪
+[00:16:35.280 --> 00:16:50.280]   - Good morning, welcome to 2022.
+[00:16:50.280 --> 00:16:54.280]   Okay, we're celebrating our first Sunday together.
+[00:16:54.280 --> 00:16:57.280]   I can't believe that time is flying by so quickly.
+[00:16:57.280 --> 00:16:59.280]   We have a few announcements before we get started.
+[00:16:59.280 --> 00:17:01.280]   First of all, our outreach team is hosting
+[00:17:01.280 --> 00:17:04.280]   an EB outing on January 8th.
+[00:17:04.280 --> 00:17:06.280]   And so there's two places that they're going to.
+[00:17:06.280 --> 00:17:09.280]   They're going to the Source Mall and also the Spectrum.
+[00:17:09.280 --> 00:17:11.280]   And so if you'd like to participate in that,
+[00:17:11.280 --> 00:17:13.280]   and even if you haven't done this before,
+[00:17:13.280 --> 00:17:17.280]   you're kind of intimidated by going out in the street
+[00:17:17.280 --> 00:17:18.280]   and sharing the gospel.
+[00:17:18.280 --> 00:17:20.280]   It's a good opportunity to maybe pair it up
+[00:17:20.280 --> 00:17:22.280]   with somebody that may be better at it
+[00:17:22.280 --> 00:17:25.280]   and it'd be good for you to kind of participate in that.
+[00:17:25.280 --> 00:17:28.280]   And so no matter how you feel about it,
+[00:17:28.280 --> 00:17:30.280]   if you would like to participate,
+[00:17:30.280 --> 00:17:31.280]   please sign up for that.
+[00:17:31.280 --> 00:17:35.280]   And again, on January 8th at 1 p.m.
+[00:17:35.280 --> 00:17:38.280]   We have a next membership class that's taking place
+[00:17:38.280 --> 00:17:40.280]   starting on January 16th.
+[00:17:40.280 --> 00:17:42.280]   It's at the other building
+[00:17:42.280 --> 00:17:44.280]   where the youth group has their services.
+[00:17:44.280 --> 00:17:47.280]   And so they're going to start at 9 a.m. to 10.20.
+[00:17:47.280 --> 00:17:48.280]   It's an eight-week course
+[00:17:48.280 --> 00:17:50.280]   on the biblical foundation of Christianity
+[00:17:50.280 --> 00:17:53.280]   and what our church believes and represents.
+[00:17:53.280 --> 00:17:55.280]   And so it is a membership class.
+[00:17:55.280 --> 00:17:57.280]   So if you are planning to become a member,
+[00:17:57.280 --> 00:17:59.280]   please see Pastor Nate,
+[00:17:59.280 --> 00:18:01.280]   and he'll give you more instructions on that.
+[00:18:01.280 --> 00:18:04.280]   So the first class for that is starting on January 16th at 9 a.m.
+[00:18:04.280 --> 00:18:06.280]   Also, for First Peter Bible study,
+[00:18:06.280 --> 00:18:08.280]   we're going to pick that up in a few weeks,
+[00:18:08.280 --> 00:18:10.280]   on January 19th.
+[00:18:10.280 --> 00:18:13.280]   And so we'll be studying through the book of First Peter.
+[00:18:13.280 --> 00:18:15.280]   And so if you haven't signed up yet,
+[00:18:15.280 --> 00:18:17.280]   please sign up as soon as possible
+[00:18:17.280 --> 00:18:20.280]   because we're going to start making small groups
+[00:18:20.280 --> 00:18:22.280]   and assigning home groups now.
+[00:18:22.280 --> 00:18:25.280]   So even if you've already been a part of it
+[00:18:25.280 --> 00:18:28.280]   and you're just assuming that you're going to be a part of it
+[00:18:28.280 --> 00:18:30.280]   because we're going to be assigning it now.
+[00:18:30.280 --> 00:18:33.280]   So if you're not signed up, we're going to end up assigning.
+[00:18:33.280 --> 00:18:36.280]   And if that home or if that small group gets too big,
+[00:18:36.280 --> 00:18:38.280]   we're going to end up assigning you to places
+[00:18:38.280 --> 00:18:41.280]   that may be not your first choice.
+[00:18:41.280 --> 00:18:44.280]   And so if you are planning to sign up for it,
+[00:18:44.280 --> 00:18:47.280]   even if you have been doing the same group for so many times,
+[00:18:47.280 --> 00:18:49.280]   we need you guys to do this ASAP.
+[00:18:49.280 --> 00:18:51.280]   So we're going to be getting together
+[00:18:51.280 --> 00:18:53.280]   to start to plug people in the right places.
+[00:18:53.280 --> 00:18:56.280]   So if you haven't done so, please do so as soon as possible.
+[00:18:56.280 --> 00:18:59.280]   And then all church praise and prayer on January 14th
+[00:18:59.280 --> 00:19:02.280]   and also our members meeting, our next members meeting,
+[00:19:02.280 --> 00:19:04.280]   which is usually at the beginning of the year
+[00:19:04.280 --> 00:19:06.280]   where we discuss finances and things like that.
+[00:19:06.280 --> 00:19:10.280]   That's going to be taking place on January 16th at 2.30 p.m.
+[00:19:10.280 --> 00:19:13.280]   And also after our main praise set,
+[00:19:13.280 --> 00:19:16.280]   our sister Christine Chun will come up and give her testimony
+[00:19:16.280 --> 00:19:18.280]   and will be baptized this morning.
+[00:19:18.280 --> 00:19:20.280]   So let me pray for us for our offering.
+[00:19:20.280 --> 00:19:22.280]   Again, those of you who are new to our church,
+[00:19:22.280 --> 00:19:24.280]   we have a physical basket in the back.
+[00:19:24.280 --> 00:19:26.280]   And so on your way out,
+[00:19:26.280 --> 00:19:29.280]   you can drop off whatever physical offering you have there.
+[00:19:29.280 --> 00:19:31.280]   And for the rest of us, we'll give you a minute
+[00:19:31.280 --> 00:19:33.280]   to give your electronic offering.
+[00:19:33.280 --> 00:19:37.280]   Let's pray.
+[00:19:37.280 --> 00:19:39.280]   Gracious and loving Father, we thank you so much
+[00:19:39.280 --> 00:19:43.280]   for your continued grace that you've given to us
+[00:19:43.280 --> 00:19:48.280]   to sustain us, guide us, to teach us, to encourage us.
+[00:19:48.280 --> 00:19:51.280]   And we pray that as we celebrate and worship Lord God
+[00:19:51.280 --> 00:19:54.280]   this first Sunday of 2022,
+[00:19:54.280 --> 00:19:58.280]   that you would direct our hearts, our mind, our thoughts, our lives
+[00:19:58.280 --> 00:20:01.280]   in accord with what you desire for us.
+[00:20:01.280 --> 00:20:04.280]   Help us, Lord God, this morning to give you worship
+[00:20:04.280 --> 00:20:06.280]   that is in spirit and in truth.
+[00:20:06.280 --> 00:20:08.280]   And even the offering that we give,
+[00:20:08.280 --> 00:20:10.280]   help us to give to you, Father God,
+[00:20:10.280 --> 00:20:14.280]   in joy, in clarity, as an act of worship,
+[00:20:14.280 --> 00:20:16.280]   may it be multiplied for your use.
+[00:20:16.280 --> 00:20:19.280]   In Jesus' name we pray, amen.
+[00:20:19.280 --> 00:20:22.280]   [music]
+[00:20:22.280 --> 00:20:25.280]   [music]
+[00:20:26.280 --> 00:20:29.280]   [music]
+[00:20:29.380 --> 00:20:32.460]   (gentle piano music)
+[00:20:32.460 --> 00:20:35.540]   (gentle piano music)
+[00:20:35.540 --> 00:20:38.620]   (gentle piano music)
+[00:20:38.620 --> 00:20:41.700]   (gentle piano music)
+[00:20:41.700 --> 00:20:44.780]   (gentle piano music)
+[00:21:11.660 --> 00:21:12.780]   - For those of us sitting inside,
+[00:21:12.780 --> 00:21:15.020]   would you please stand with us for worship?
+[00:21:15.020 --> 00:21:24.160]   (gentle music)
+[00:21:39.400 --> 00:21:44.400]   ♪ What is our hope in life and death ♪
+[00:21:44.400 --> 00:21:48.820]   ♪ Christ alone, Christ alone ♪
+[00:21:48.820 --> 00:21:53.820]   ♪ What is our only confidence ♪
+[00:21:53.820 --> 00:21:58.280]   ♪ That our souls to Him belong ♪
+[00:21:58.280 --> 00:22:02.980]   ♪ Who holds our days within His hand ♪
+[00:22:02.980 --> 00:22:07.800]   ♪ What comes apart from His command ♪
+[00:22:07.800 --> 00:22:12.520]   ♪ And what will keep you through the end ♪
+[00:22:12.520 --> 00:22:17.520]   ♪ The love of Christ in which we stand ♪
+[00:22:17.520 --> 00:22:24.980]   ♪ Oh, sing hallelujah ♪
+[00:22:24.980 --> 00:22:29.400]   ♪ Our hope springs eternal ♪
+[00:22:29.400 --> 00:22:34.100]   ♪ Oh, sing hallelujah ♪
+[00:22:34.100 --> 00:22:38.100]   ♪ Now and ever we confess ♪
+[00:22:38.100 --> 00:22:43.100]   ♪ Christ our hope in life and death ♪
+[00:22:43.100 --> 00:22:49.020]   ♪ What truth can calm ♪
+[00:22:49.020 --> 00:22:53.900]   ♪ What truth can calm a troubled soul ♪
+[00:22:53.900 --> 00:22:58.640]   ♪ God is good, God is good ♪
+[00:22:58.640 --> 00:23:03.340]   ♪ His is grace and goodness known ♪
+[00:23:03.340 --> 00:23:07.720]   ♪ In our grave, we take His blood ♪
+[00:23:07.720 --> 00:23:12.480]   ♪ Who holds our faith when fears arise ♪
+[00:23:12.480 --> 00:23:17.220]   ♪ Who stands above the stormy trough ♪
+[00:23:17.220 --> 00:23:21.920]   ♪ Who sends the waves that bring us nigh ♪
+[00:23:21.920 --> 00:23:26.920]   ♪ Unto the shore, the rock of Christ ♪
+[00:23:26.920 --> 00:23:32.020]   ♪ Oh, sing hallelujah ♪
+[00:23:32.140 --> 00:23:36.520]   ♪ Our hope springs eternal ♪
+[00:23:36.520 --> 00:23:41.220]   ♪ Oh, sing hallelujah ♪
+[00:23:41.220 --> 00:23:45.220]   ♪ Now and ever we confess ♪
+[00:23:45.220 --> 00:23:49.560]   ♪ Christ our hope in life and death ♪
+[00:23:49.560 --> 00:24:01.100]   ♪ Unto the grave, what will we sing ♪
+[00:24:01.100 --> 00:24:05.680]   ♪ Christ He lives, Christ He lives ♪
+[00:24:05.680 --> 00:24:10.680]   ♪ What reward will heaven bring ♪
+[00:24:10.680 --> 00:24:15.100]   ♪ Everlasting life of Him ♪
+[00:24:15.100 --> 00:24:19.680]   ♪ There we will rise to meet the Lord ♪
+[00:24:19.680 --> 00:24:24.520]   ♪ When sin and death will be destroyed ♪
+[00:24:24.520 --> 00:24:29.140]   ♪ And we will feast in endless joy ♪
+[00:24:29.140 --> 00:24:34.140]   ♪ Christ is ours forevermore ♪
+[00:24:34.140 --> 00:24:41.480]   ♪ Oh, sing hallelujah ♪
+[00:24:41.480 --> 00:24:45.840]   ♪ Our hope springs eternal ♪
+[00:24:45.840 --> 00:24:50.560]   ♪ Oh, sing hallelujah ♪
+[00:24:50.560 --> 00:24:54.560]   ♪ Now and ever we confess ♪
+[00:24:54.560 --> 00:24:57.260]   ♪ Christ our hope in life and death ♪
+[00:24:57.260 --> 00:25:02.260]   ♪ Oh, sing hallelujah ♪
+[00:25:02.260 --> 00:25:08.020]   ♪ Our hope springs eternal ♪
+[00:25:08.020 --> 00:25:12.680]   ♪ Oh, sing hallelujah ♪
+[00:25:12.680 --> 00:25:16.640]   ♪ Now and ever we confess ♪
+[00:25:16.640 --> 00:25:20.640]   ♪ Christ our hope in life and death ♪
+[00:25:20.640 --> 00:25:24.560]   ♪ Now and ever we confess ♪
+[00:25:24.560 --> 00:25:28.900]   ♪ Christ our hope in life and death ♪
+[00:25:28.900 --> 00:25:38.600]   Amen.
+[00:25:38.600 --> 00:25:47.800]   (upbeat music)
+[00:25:47.800 --> 00:25:50.380]   (upbeat music)
+[00:25:50.380 --> 00:26:02.640]   ♪ When I fear my faith will fail ♪
+[00:26:02.640 --> 00:26:06.800]   ♪ Christ will hold me fast ♪
+[00:26:06.800 --> 00:26:11.800]   ♪ When the tempter would prevail ♪
+[00:26:11.800 --> 00:26:16.220]   ♪ He will hold me fast ♪
+[00:26:16.220 --> 00:26:21.220]   ♪ I could never keep my hope ♪
+[00:26:21.220 --> 00:26:25.460]   ♪ Through life's fearful path ♪
+[00:26:25.460 --> 00:26:30.460]   ♪ For my love is often poor ♪
+[00:26:30.460 --> 00:26:35.640]   ♪ He will hold me fast ♪
+[00:26:35.640 --> 00:26:40.960]   ♪ He will hold me fast ♪
+[00:26:40.960 --> 00:26:45.100]   ♪ He will hold me fast ♪
+[00:26:45.100 --> 00:26:50.100]   ♪ For my savior loves me so ♪
+[00:26:50.100 --> 00:26:53.600]   ♪ He will hold me fast ♪
+[00:26:53.600 --> 00:27:09.880]   ♪ Those he saves are his to love ♪
+[00:27:09.880 --> 00:27:14.100]   ♪ Christ will hold me fast ♪
+[00:27:14.100 --> 00:27:19.100]   ♪ Precious in his holy sight ♪
+[00:27:19.100 --> 00:27:23.420]   ♪ He will hold me fast ♪
+[00:27:23.420 --> 00:27:28.420]   ♪ He'll not let my soul be lost ♪
+[00:27:28.420 --> 00:27:32.720]   ♪ His promises shall last ♪
+[00:27:32.720 --> 00:27:37.720]   ♪ Bought by him at such a cost ♪
+[00:27:37.720 --> 00:27:42.880]   ♪ He will hold me fast ♪
+[00:27:44.060 --> 00:27:48.220]   ♪ He will hold me fast ♪
+[00:27:48.220 --> 00:27:52.420]   ♪ He will hold me fast ♪
+[00:27:52.420 --> 00:27:57.420]   ♪ For my savior loves me so ♪
+[00:27:57.420 --> 00:28:00.880]   ♪ He will hold me fast ♪
+[00:28:12.100 --> 00:28:17.100]   ♪ For my life he bled and died ♪
+[00:28:17.100 --> 00:28:21.420]   ♪ Christ will hold me fast ♪
+[00:28:21.420 --> 00:28:26.420]   ♪ Justice has been satisfied ♪
+[00:28:26.420 --> 00:28:30.720]   ♪ He will hold me fast ♪
+[00:28:30.720 --> 00:28:35.720]   ♪ Raised with him to endless life ♪
+[00:28:35.720 --> 00:28:39.980]   ♪ He will hold me fast ♪
+[00:28:39.980 --> 00:28:44.980]   ♪ Till our faith is turned to sigh ♪
+[00:28:44.980 --> 00:28:50.140]   ♪ When he comes at last ♪
+[00:28:50.140 --> 00:28:55.480]   ♪ He will hold me fast ♪
+[00:28:55.480 --> 00:28:59.620]   ♪ He will hold me fast ♪
+[00:28:59.620 --> 00:29:04.620]   ♪ For my savior loves me so ♪
+[00:29:04.620 --> 00:29:08.900]   ♪ He will hold me fast ♪
+[00:29:08.900 --> 00:29:13.900]   ♪ Oh, he will hold me fast ♪
+[00:29:13.900 --> 00:29:19.260]   ♪ He will hold me fast ♪
+[00:29:19.260 --> 00:29:24.260]   ♪ For my savior loves me so ♪
+[00:29:24.260 --> 00:29:27.800]   ♪ He will hold me fast ♪
+[00:29:27.800 --> 00:29:30.220]   ♪ Fast, fast ♪
+[00:29:30.220 --> 00:29:43.240]   - Amen, you may be seated.
+[00:29:43.240 --> 00:29:55.640]   - Good morning, my name is Christine Chan
+[00:29:55.640 --> 00:29:58.120]   and I am a second year at UC Irvine
+[00:29:58.120 --> 00:29:59.860]   and this is my testimony.
+[00:29:59.860 --> 00:30:03.280]   Introduced to Christianity at a young age,
+[00:30:03.280 --> 00:30:04.760]   I followed my parents to church,
+[00:30:04.760 --> 00:30:07.040]   hearing about a God that loves me so much
+[00:30:07.040 --> 00:30:09.900]   that he sent his one and only son to die for our sins.
+[00:30:09.900 --> 00:30:12.440]   However, my desire to even attend
+[00:30:12.440 --> 00:30:14.520]   was always found in my friends.
+[00:30:14.520 --> 00:30:17.400]   Not knowing the true gravity and consequences of sin,
+[00:30:17.400 --> 00:30:19.400]   I chose to ignore the worries about the future
+[00:30:19.400 --> 00:30:20.760]   and live in the present,
+[00:30:20.760 --> 00:30:23.780]   enjoying every moment with the friendships that I have.
+[00:30:23.780 --> 00:30:26.700]   I continued to gain head knowledge about God and the Bible,
+[00:30:26.700 --> 00:30:29.740]   but I never chose to apply any of it into my life.
+[00:30:29.740 --> 00:30:31.780]   In middle school, I joined a Christian ministry
+[00:30:31.780 --> 00:30:35.380]   that meant to sing, dance, and worship every week.
+[00:30:35.380 --> 00:30:37.220]   Throughout high school, I became insecure
+[00:30:37.220 --> 00:30:38.620]   about everything about myself,
+[00:30:38.620 --> 00:30:40.700]   as I put what people thought of me
+[00:30:40.700 --> 00:30:42.520]   before what God thought of me.
+[00:30:42.520 --> 00:30:45.920]   I mimicked other people in the way I dressed,
+[00:30:45.920 --> 00:30:48.180]   talked, walked, and laughed,
+[00:30:48.180 --> 00:30:50.700]   wearing a mask that hid the true me.
+[00:30:50.700 --> 00:30:52.540]   As I learned to say and do the right things
+[00:30:52.540 --> 00:30:55.180]   to be received as a quote-unquote Christian,
+[00:30:55.180 --> 00:30:57.460]   I became two-faced and lived a double life.
+[00:30:57.460 --> 00:31:01.220]   I was even confirmed and therefore proclaimed to the church
+[00:31:01.220 --> 00:31:03.220]   that I had accepted Christ
+[00:31:03.220 --> 00:31:05.540]   and believed that he is Lord and Savior of my life,
+[00:31:05.540 --> 00:31:07.660]   and yet my life was not reflecting Christ's
+[00:31:07.660 --> 00:31:09.140]   when I was alone.
+[00:31:09.140 --> 00:31:11.380]   While those around me had a burning passion for God,
+[00:31:11.380 --> 00:31:13.300]   his love for us, and how he saved them,
+[00:31:13.300 --> 00:31:14.260]   I was faking it.
+[00:31:14.260 --> 00:31:16.700]   And the scariest part of all this
+[00:31:16.700 --> 00:31:18.980]   was that I had done it subconsciously.
+[00:31:18.980 --> 00:31:20.900]   I did not know that I had lost my identity
+[00:31:20.900 --> 00:31:22.580]   in my way to Jesus.
+[00:31:22.580 --> 00:31:24.540]   Being surrounded by believers all my life,
+[00:31:24.540 --> 00:31:25.780]   I was secured in a bubble,
+[00:31:25.780 --> 00:31:27.840]   and my faith had unknowingly become
+[00:31:27.840 --> 00:31:30.140]   something that was not of my own.
+[00:31:30.140 --> 00:31:31.580]   During the quarantine of 2020,
+[00:31:31.580 --> 00:31:34.220]   I realized all this in addition to forgetting
+[00:31:34.220 --> 00:31:35.460]   what it was like to love,
+[00:31:35.460 --> 00:31:38.060]   as I felt apathetic to any love shown to me.
+[00:31:38.060 --> 00:31:41.420]   My heart was hardened to anything my community said to
+[00:31:41.420 --> 00:31:43.020]   and did for me.
+[00:31:43.020 --> 00:31:45.100]   When my cousin invited me out to Berean,
+[00:31:45.100 --> 00:31:46.860]   I was amazed at how rooted in the Bible
+[00:31:46.860 --> 00:31:48.540]   Berean Community Church was,
+[00:31:48.540 --> 00:31:52.100]   for I was never taught how to properly study the Bible,
+[00:31:52.100 --> 00:31:53.620]   let alone directed to read it.
+[00:31:53.620 --> 00:31:56.000]   However, the more I came out,
+[00:31:56.000 --> 00:31:58.980]   I stood in awe and wonder at how marvelous the Lord is,
+[00:31:58.980 --> 00:32:02.620]   and how much he truly loves us despite our imperfections.
+[00:32:02.620 --> 00:32:03.980]   Through some of the leaders and friends
+[00:32:03.980 --> 00:32:05.160]   from college ministry,
+[00:32:05.160 --> 00:32:07.700]   I was able to hear and receive the gospel,
+[00:32:07.700 --> 00:32:08.780]   along with their testimonies
+[00:32:08.780 --> 00:32:11.100]   on how their lives were completely changed.
+[00:32:11.100 --> 00:32:13.340]   It always encouraged me and left me wondering
+[00:32:13.340 --> 00:32:16.820]   when it would happen for me.
+[00:32:16.820 --> 00:32:17.740]   Learning more about God,
+[00:32:17.740 --> 00:32:19.660]   I prayed that he would reveal himself to me
+[00:32:19.660 --> 00:32:21.740]   and truly open my eyes to his glory,
+[00:32:21.740 --> 00:32:23.780]   but I left all the work for God to do.
+[00:32:23.780 --> 00:32:26.700]   I needed to do my part and surrender my everything to him,
+[00:32:26.700 --> 00:32:27.980]   but I couldn't let go of the things
+[00:32:27.980 --> 00:32:29.800]   that I thought were keeping me together,
+[00:32:29.800 --> 00:32:31.660]   but in reality were tearing me apart.
+[00:32:31.660 --> 00:32:35.200]   There was no date or time in which I accepted Christ,
+[00:32:35.200 --> 00:32:37.220]   but gradually within the past year,
+[00:32:37.220 --> 00:32:40.300]   as I participated in small group accountability
+[00:32:40.300 --> 00:32:41.980]   and Friday night Bible study,
+[00:32:41.980 --> 00:32:43.680]   God's love was exposed to me,
+[00:32:43.680 --> 00:32:45.140]   and in turn my love for him
+[00:32:45.140 --> 00:32:47.400]   and desire to know him grew exponentially.
+[00:32:48.200 --> 00:32:50.600]   I learned to love and what it felt like to love.
+[00:32:50.600 --> 00:32:52.360]   I learned that love is different for everyone
+[00:32:52.360 --> 00:32:54.600]   and that I cannot have the same standards
+[00:32:54.600 --> 00:32:56.860]   or expectations of love as the world.
+[00:32:56.860 --> 00:33:00.060]   The more time I spent studying his word,
+[00:33:00.060 --> 00:33:01.960]   the smaller I felt towards God's holiness
+[00:33:01.960 --> 00:33:04.360]   and his magnificence.
+[00:33:04.360 --> 00:33:06.580]   I realized how much sin had invaded my life,
+[00:33:06.580 --> 00:33:08.120]   how it clouded my views on God
+[00:33:08.120 --> 00:33:09.600]   and how much I needed the Lord
+[00:33:09.600 --> 00:33:11.600]   to save me from my hopeless state,
+[00:33:11.600 --> 00:33:14.080]   which led me to true repentance.
+[00:33:14.080 --> 00:33:15.600]   A verse that I've been meditating on
+[00:33:15.600 --> 00:33:19.200]   is 1 John 4, verses seven through eight.
+[00:33:19.200 --> 00:33:20.760]   Beloved, let us love one another,
+[00:33:20.760 --> 00:33:21.920]   for love is from God,
+[00:33:21.920 --> 00:33:24.780]   and everyone who loves is born of God and knows God.
+[00:33:24.780 --> 00:33:28.280]   The one who does not love does not know God,
+[00:33:28.280 --> 00:33:29.580]   for God is love.
+[00:33:29.580 --> 00:33:30.420]   Thank you.
+[00:33:30.420 --> 00:33:34.520]   (audience applauding)
+[00:33:34.520 --> 00:33:35.520]  , - Thank you.
+[00:33:35.520 --> 00:33:38.680]   (audience applauding)
+[00:33:38.680 --> 00:33:43.680]  . - You understand when you go into the water,
+[00:33:43.680 --> 00:33:48.680]   and you look in the mirror, you look twice back,
+[00:33:48.680 --> 00:33:49.600]   and when you come out,
+[00:33:49.600 --> 00:33:50.600]   you look in the mirror, you look twice apart.
+[00:33:50.600 --> 00:33:51.600]   At that second, you look at the water,
+[00:33:51.600 --> 00:33:53.180]   you look at the sun.
+[00:33:53.180 --> 00:33:56.340]   (audience applauding)
+[00:33:56.340 --> 00:33:59.260]   (speaking faintly)
+[00:33:59.260 --> 00:34:09.380]   (audience applauding)
+[00:34:09.380 --> 00:34:21.500]   - All right, thank you, Christine, for that testimony.
+[00:34:21.500 --> 00:34:23.320]   And I know a lot of you college students
+[00:34:23.320 --> 00:34:25.540]   and the college staff have been praying for her for a while,
+[00:34:25.540 --> 00:34:27.900]   and so, 'cause she's friend of my daughter,
+[00:34:27.900 --> 00:34:31.260]   so I've been kinda watching and hoping and praying,
+[00:34:31.260 --> 00:34:34.980]   so it was really rewarding to be able to see that together.
+[00:34:34.980 --> 00:34:36.540]   If you can turn your Bibles with me
+[00:34:36.540 --> 00:34:40.780]   to Ephesians chapter three, verses 14 through 21.
+[00:34:40.780 --> 00:34:43.060]   So we're gonna be taking, again,
+[00:34:43.060 --> 00:34:45.780]   taking a couple weeks in this text
+[00:34:45.780 --> 00:34:48.140]   as we prepare for 2022,
+[00:34:48.140 --> 00:34:50.660]   and we wanna make sure that we understand
+[00:34:50.660 --> 00:34:52.620]   what our priorities are and what are some things
+[00:34:52.660 --> 00:34:55.940]   that we're gonna be focusing on in the new year, in 2022.
+[00:34:55.940 --> 00:35:00.220]   So I wanted to take two weeks to dive into this text,
+[00:35:00.220 --> 00:35:03.100]   and hopefully, we'll get a better footing
+[00:35:03.100 --> 00:35:05.580]   of where we're headed in the next year.
+[00:35:05.580 --> 00:35:09.060]   I'm gonna be looking at verse 14 all the way to verse 21.
+[00:35:09.060 --> 00:35:10.340]   Reading out of the NASB.
+[00:35:10.340 --> 00:35:13.420]   For this reason, I bow my knees before the Father,
+[00:35:13.420 --> 00:35:15.900]   from whom every family in heaven and on earth
+[00:35:15.900 --> 00:35:18.340]   thrives its name, that he would grant you,
+[00:35:18.340 --> 00:35:19.720]   according to the riches of his glory,
+[00:35:19.720 --> 00:35:21.900]   to be strengthened with power through his Spirit
+[00:35:21.900 --> 00:35:24.420]   in the inner man, so that Christ may dwell
+[00:35:24.420 --> 00:35:25.740]   in your hearts through faith,
+[00:35:25.740 --> 00:35:28.180]   and that you, being rooted and grounded in love,
+[00:35:28.180 --> 00:35:30.020]   may be able to comprehend with all the saints
+[00:35:30.020 --> 00:35:32.420]   what is the breadth and length and height and depth,
+[00:35:32.420 --> 00:35:35.660]   and to know the love of Christ, which surpasses knowledge,
+[00:35:35.660 --> 00:35:38.780]   that you may be filled up to all the fullness of God.
+[00:35:38.780 --> 00:35:41.820]   Now to him who is able to do far more abundantly
+[00:35:41.820 --> 00:35:44.180]   beyond all that we ask or think,
+[00:35:44.180 --> 00:35:46.100]   according to the power that works within us,
+[00:35:46.100 --> 00:35:49.300]   to him be the glory in the church and in Christ Jesus
+[00:35:49.300 --> 00:35:52.220]   to all generations forever and ever, amen.
+[00:35:52.220 --> 00:35:53.040]   Let's pray.
+[00:35:53.040 --> 00:35:58.140]   Gracious Father, we ask for your guidance.
+[00:35:58.140 --> 00:36:01.400]   We ask for your Holy Spirit to lead us.
+[00:36:01.400 --> 00:36:07.860]   Lord, we know that we can exposit and we can teach,
+[00:36:07.860 --> 00:36:09.820]   and yet without your Holy Spirit, Lord,
+[00:36:09.820 --> 00:36:11.920]   we can understand nothing.
+[00:36:11.920 --> 00:36:14.940]   And so we are dependent on you,
+[00:36:14.940 --> 00:36:17.220]   asking, Father, for your grace.
+[00:36:17.220 --> 00:36:20.200]   Open our eyes, our ears, soften our hearts toward God,
+[00:36:20.200 --> 00:36:21.780]   that we may receive your word.
+[00:36:21.780 --> 00:36:23.440]   In Jesus' name we pray, amen.
+[00:36:23.440 --> 00:36:28.020]   Some of you guys probably already know
+[00:36:28.020 --> 00:36:31.300]   that the names of each month of the year
+[00:36:31.300 --> 00:36:34.180]   is actually based upon some Roman idol
+[00:36:34.180 --> 00:36:35.980]   or god that they worshiped,
+[00:36:35.980 --> 00:36:38.220]   because our calendar came from that period.
+[00:36:38.220 --> 00:36:43.220]   And so the Roman idol that got the name for January
+[00:36:43.220 --> 00:36:45.260]   is Janus.
+[00:36:45.260 --> 00:36:48.220]   And the reason why they named January Janus
+[00:36:48.220 --> 00:36:53.220]   is because Janus, the god that the Romans worshiped,
+[00:36:53.220 --> 00:36:57.820]   was the guardian of the arches or doors.
+[00:36:57.820 --> 00:37:02.660]   And what it represented was that you would pass
+[00:37:02.660 --> 00:37:04.780]   from the previous year to the new year,
+[00:37:04.780 --> 00:37:08.260]   and so this god Janus guarded that door
+[00:37:08.260 --> 00:37:10.940]   to make sure that the right things are passing through,
+[00:37:10.940 --> 00:37:13.380]   and that's why they named January January.
+[00:37:14.300 --> 00:37:16.460]   Appropriately, obviously,
+[00:37:16.460 --> 00:37:17.900]   because we're making that transition,
+[00:37:17.900 --> 00:37:19.820]   and every year around this time,
+[00:37:19.820 --> 00:37:23.180]   we make New Year's resolutions as we think about the past,
+[00:37:23.180 --> 00:37:25.320]   what happened in 2021,
+[00:37:25.320 --> 00:37:29.100]   and where should we be headed in 2022.
+[00:37:29.100 --> 00:37:31.020]   And so again, we're in this text
+[00:37:31.020 --> 00:37:33.500]   because we wanna make sure that we're grounded
+[00:37:33.500 --> 00:37:36.060]   and we're on the same page going forward.
+[00:37:36.060 --> 00:37:39.940]   You probably heard this quote from Socrates many times,
+[00:37:39.940 --> 00:37:42.980]   "An unexamined life is not worth living."
+[00:37:42.980 --> 00:37:46.180]   And so I know many of you heard this before.
+[00:37:46.180 --> 00:37:48.140]   This is a quote that is quoted quite a bit,
+[00:37:48.140 --> 00:37:50.480]   but I'm not sure how many of you know the context
+[00:37:50.480 --> 00:37:51.660]   in which he said this.
+[00:37:51.660 --> 00:37:55.500]   Socrates actually was executed because of his influence
+[00:37:55.500 --> 00:37:58.020]   on the youth of his generation.
+[00:37:58.020 --> 00:38:02.620]   So he was beginning to question some of the state's mandates
+[00:38:02.620 --> 00:38:04.580]   of what gods that they're supposed to worship,
+[00:38:04.580 --> 00:38:05.860]   what gods they're not supposed to worship,
+[00:38:05.860 --> 00:38:09.200]   and so Socrates in no way was a Christian,
+[00:38:09.200 --> 00:38:11.660]   but he was beginning to influence the youth,
+[00:38:11.660 --> 00:38:14.060]   telling them that some of these idols were worthless,
+[00:38:14.060 --> 00:38:16.180]   and he was introducing idols of his own.
+[00:38:16.180 --> 00:38:18.020]   And so they brought him into court,
+[00:38:18.020 --> 00:38:20.740]   basically saying that if you don't stop teaching these youth
+[00:38:20.740 --> 00:38:23.300]   and begin to have this mass influence,
+[00:38:23.300 --> 00:38:25.620]   that you're gonna be jailed or even executed.
+[00:38:25.620 --> 00:38:29.220]   So it's in that context that Socrates stood up and said,
+[00:38:29.220 --> 00:38:32.220]   "A life that is unexamined is not worth living."
+[00:38:32.220 --> 00:38:36.060]   In other words, I'd rather die than to just give in
+[00:38:36.060 --> 00:38:37.520]   and just you telling me to think
+[00:38:37.520 --> 00:38:38.420]   the way I'm supposed to think
+[00:38:38.420 --> 00:38:41.780]   and do whatever I'm supposed to do, it's not worth living.
+[00:38:41.780 --> 00:38:45.020]   So that's the context in which Socrates says this term,
+[00:38:45.020 --> 00:38:48.120]   an unexamined life is not worth living.
+[00:38:48.120 --> 00:38:51.300]   As we face 2022,
+[00:38:51.300 --> 00:38:55.300]   what is it that we have thought in 2021
+[00:38:55.300 --> 00:38:57.220]   that needs to change?
+[00:38:57.220 --> 00:38:58.980]   What are some things that we're going through
+[00:38:58.980 --> 00:39:01.740]   in the new year that we want to examine?
+[00:39:01.740 --> 00:39:06.700]   Whenever we want to head somewhere,
+[00:39:06.700 --> 00:39:09.220]   we need to make sure that we have three things
+[00:39:09.220 --> 00:39:10.780]   that we need to know.
+[00:39:10.780 --> 00:39:13.340]   First, let's say if you're going to Fashion Island
+[00:39:13.340 --> 00:39:15.860]   and you're looking for Nordstrom, as an example.
+[00:39:15.860 --> 00:39:18.980]   The first thing you do when you get out of your parking lot
+[00:39:18.980 --> 00:39:21.020]   and you get to, before you start walking,
+[00:39:21.020 --> 00:39:23.160]   you need to find out where Nordstrom is.
+[00:39:23.160 --> 00:39:26.460]   So typically you'll look at a map, find out where it is.
+[00:39:26.460 --> 00:39:28.240]   And then once you find out where it is,
+[00:39:28.240 --> 00:39:30.980]   there's a second thing that you need to know.
+[00:39:30.980 --> 00:39:32.940]   What's the second thing you need to know?
+[00:39:32.940 --> 00:39:35.260]   You need to know where you are.
+[00:39:35.260 --> 00:39:37.180]   Knowing where Nordstrom is is useless
+[00:39:37.180 --> 00:39:39.260]   unless you know exactly where you are.
+[00:39:39.260 --> 00:39:42.100]   And so once you find out where you need to go,
+[00:39:42.100 --> 00:39:44.140]   and then you figure out where you are,
+[00:39:44.140 --> 00:39:46.620]   the next step is what's the fastest way to get there?
+[00:39:46.620 --> 00:39:48.460]   What's the most efficient way to get there?
+[00:39:48.460 --> 00:39:51.540]   So whenever we're lost or when we have specific direction,
+[00:39:51.540 --> 00:39:54.580]   we need to first figure out where am I going?
+[00:39:54.580 --> 00:39:58.040]   And so, Apostle Paul actually says this very thing
+[00:39:58.040 --> 00:40:00.960]   in Philippians chapter three, 12 through 15,
+[00:40:00.960 --> 00:40:05.320]   as he is in jail with possibility of execution,
+[00:40:05.320 --> 00:40:08.000]   he says, in summary of his life, he says,
+[00:40:08.000 --> 00:40:10.320]   "Not that I have already obtained it
+[00:40:10.320 --> 00:40:11.680]   "or have already become perfect,
+[00:40:11.680 --> 00:40:14.360]   "but I press on so that I may lay hold
+[00:40:14.360 --> 00:40:19.360]   "of that for which also I was laid hold of by Christ Jesus."
+[00:40:19.360 --> 00:40:22.520]   Apostle Paul says his main goal in his life
+[00:40:22.520 --> 00:40:27.520]   is to possess for himself what Christ has given him.
+[00:40:27.520 --> 00:40:29.440]   Now we all know that we've been purchased
+[00:40:29.440 --> 00:40:31.440]   by the blood of Christ, so we belong to him.
+[00:40:31.440 --> 00:40:34.320]   But Apostle Paul says, as much as I belong to him,
+[00:40:34.320 --> 00:40:36.800]   he says, Christ needs to belong to me.
+[00:40:36.800 --> 00:40:41.680]   And so his life goal was to know Christ,
+[00:40:41.680 --> 00:40:44.280]   know Christ, and then obviously his ministry
+[00:40:44.280 --> 00:40:46.440]   was to make him known.
+[00:40:46.440 --> 00:40:48.600]   So his goal is pretty clear,
+[00:40:48.600 --> 00:40:50.840]   and this is not uniquely to Apostle Paul,
+[00:40:50.840 --> 00:40:55.000]   but for every Christian, that our purpose in life
+[00:40:55.000 --> 00:40:58.760]   is to have Christ, and then to have more of Christ,
+[00:40:58.760 --> 00:41:02.200]   to know him, to love him, to proclaim him,
+[00:41:02.200 --> 00:41:04.560]   to honor him, to glorify him.
+[00:41:04.560 --> 00:41:06.080]   This is nothing new to any Christian.
+[00:41:06.080 --> 00:41:07.800]   If you've been a Christian for any period of time,
+[00:41:07.800 --> 00:41:11.600]   you know that the Bible makes it clear this is our goal.
+[00:41:11.600 --> 00:41:13.960]   But the second thing that we need to know
+[00:41:13.960 --> 00:41:17.000]   is then where are you in that?
+[00:41:17.000 --> 00:41:21.760]   Apostle Paul says, "Not that I have already obtained it."
+[00:41:21.760 --> 00:41:23.080]   He says, "I'm not there yet."
+[00:41:23.080 --> 00:41:24.600]   If Apostle Paul's not there,
+[00:41:24.600 --> 00:41:27.680]   for sure you and I are not there, right?
+[00:41:27.680 --> 00:41:30.000]   Typically we can think of our justification,
+[00:41:30.000 --> 00:41:32.240]   it's like we're saved, so from now on
+[00:41:32.240 --> 00:41:33.760]   we just kind of coast along in life
+[00:41:33.760 --> 00:41:35.520]   and we'll see where this goes.
+[00:41:35.520 --> 00:41:38.120]   Says, "No, Apostle Paul, the man who teaches us
+[00:41:38.120 --> 00:41:41.880]   "about justification says, 'I have not obtained this yet.'"
+[00:41:41.880 --> 00:41:45.480]   In other words, he doesn't have the fullness of Christ.
+[00:41:45.480 --> 00:41:47.240]   And so he says, "I'm not there yet."
+[00:41:47.240 --> 00:41:50.320]   So therefore, he says, "I pressed on,
+[00:41:50.320 --> 00:41:53.520]   "I reach, forgetting what is behind."
+[00:41:53.560 --> 00:41:58.560]   And so for every Christian, as we face the new year,
+[00:41:58.560 --> 00:42:02.060]   and look back at 2021 and the previous years,
+[00:42:02.060 --> 00:42:06.160]   what is it that I need to do in order for me
+[00:42:06.160 --> 00:42:08.380]   to be able to say at the end of my life
+[00:42:08.380 --> 00:42:10.560]   that I lived a good life, right?
+[00:42:10.560 --> 00:42:12.800]   If you have bucket list of places to go,
+[00:42:12.800 --> 00:42:15.080]   if you check off all of that, at the end of your life,
+[00:42:15.080 --> 00:42:16.440]   you're gonna say, "Well, this was a good life
+[00:42:16.440 --> 00:42:19.280]   "because I saw everything I wanted to see.
+[00:42:19.280 --> 00:42:22.000]   "I ate everything I wanted to eat.
+[00:42:22.000 --> 00:42:23.720]   "I made as much money as I could."
+[00:42:23.720 --> 00:42:26.200]   Is that what you would say at the end of your life
+[00:42:26.200 --> 00:42:28.200]   and say, "This was a good life"?
+[00:42:28.200 --> 00:42:31.620]   I don't think any Christian would say that, right?
+[00:42:31.620 --> 00:42:35.840]   Because what we value, at least we profess to value,
+[00:42:35.840 --> 00:42:37.760]   is Christ.
+[00:42:37.760 --> 00:42:42.760]   And so we live based upon what we would be able to say
+[00:42:42.760 --> 00:42:46.640]   was a good life, to honor Christ, to proclaim Christ,
+[00:42:46.640 --> 00:42:48.440]   to have more of Christ.
+[00:42:48.440 --> 00:42:50.920]   And so what is it that we need to do, tangibly,
+[00:42:50.920 --> 00:42:53.520]   when we make applications, right?
+[00:42:53.520 --> 00:42:58.520]   Whenever you make an application that's kind of vague,
+[00:42:58.520 --> 00:43:00.840]   every year you're gonna make the same application,
+[00:43:00.840 --> 00:43:03.560]   I need to be a better Christian, right?
+[00:43:03.560 --> 00:43:06.480]   And so what does that mean, to be a better Christian?
+[00:43:06.480 --> 00:43:08.480]   So at the end of the year, you're gonna look at your life
+[00:43:08.480 --> 00:43:09.600]   and you're gonna have some things
+[00:43:09.600 --> 00:43:10.720]   that you feel guilty about,
+[00:43:10.720 --> 00:43:12.160]   and maybe I shouldn't have done this,
+[00:43:12.160 --> 00:43:13.200]   I should be a better Christian.
+[00:43:13.200 --> 00:43:16.320]   The next year, when the new year comes around,
+[00:43:16.320 --> 00:43:17.160]   you say, "Well, what do you need to do?"
+[00:43:17.160 --> 00:43:19.760]   I say, "Yeah, I should be a better Christian."
+[00:43:19.760 --> 00:43:22.840]   Whenever you make your applications vague,
+[00:43:22.840 --> 00:43:24.360]   you're gonna end up repeating the cycle
+[00:43:24.360 --> 00:43:26.360]   over and over again, right?
+[00:43:26.360 --> 00:43:28.480]   So if we're going to make application,
+[00:43:28.480 --> 00:43:30.240]   we need to be specific.
+[00:43:30.240 --> 00:43:34.940]   What is it that you think needs to be put away?
+[00:43:34.940 --> 00:43:37.480]   What is it that you need to actively pursue and prioritize?
+[00:43:37.480 --> 00:43:40.640]   So if you say, "I'm gonna value my time with Christ,
+[00:43:40.640 --> 00:43:43.260]   "and I'm going to really prioritize that,"
+[00:43:43.260 --> 00:43:44.720]   when is that gonna happen?
+[00:43:44.720 --> 00:43:47.960]   I say, "In the morning."
+[00:43:47.960 --> 00:43:49.160]   Well, what time in the morning?
+[00:43:49.160 --> 00:43:50.720]   What time do you normally wake up?
+[00:43:50.720 --> 00:43:52.960]   And what time should you wake up?
+[00:43:52.960 --> 00:43:54.400]   What is it that you need to do?
+[00:43:54.400 --> 00:43:55.840]   And so you need to put that on the calendar.
+[00:43:55.840 --> 00:43:58.160]   So if you say, "I need to be in better health,"
+[00:43:58.160 --> 00:43:59.100]   what does that mean?
+[00:43:59.100 --> 00:43:59.940]   You're gonna go to the gym?
+[00:43:59.940 --> 00:44:00.780]   How many times?
+[00:44:00.780 --> 00:44:02.360]   What are you gonna do?
+[00:44:02.360 --> 00:44:03.520]   What are the exercises programmed?
+[00:44:03.520 --> 00:44:06.120]   So you take all of that and you apply that,
+[00:44:06.120 --> 00:44:08.420]   and then after you finish, you can look back and say,
+[00:44:08.420 --> 00:44:09.880]   "I did it or I didn't do it."
+[00:44:09.880 --> 00:44:11.800]   But if we're not careful,
+[00:44:11.800 --> 00:44:13.980]   we make these general sweeping things that say,
+[00:44:13.980 --> 00:44:16.400]   "I need to be in better health, I need to do this better,"
+[00:44:16.400 --> 00:44:18.800]   but then there's no specific applications that we make
+[00:44:18.800 --> 00:44:21.600]   in order for us to take this path.
+[00:44:21.600 --> 00:44:24.560]   It's just like going to Fashion Ion,
+[00:44:24.560 --> 00:44:26.400]   it's, "I need to get to Nordstrom,
+[00:44:26.400 --> 00:44:29.480]   I'm way over here, hopefully I can get there."
+[00:44:29.480 --> 00:44:31.720]   And then you just don't look at the path
+[00:44:31.720 --> 00:44:33.360]   and you don't start walking, right?
+[00:44:33.360 --> 00:44:36.240]   And so that's the reason that we wanna make sure
+[00:44:36.240 --> 00:44:38.080]   that as we're headed to 2022,
+[00:44:38.080 --> 00:44:40.080]   what is it that we lack individually,
+[00:44:40.080 --> 00:44:42.320]   but specifically today,
+[00:44:42.320 --> 00:44:44.720]   what is it we lack as a church
+[00:44:44.720 --> 00:44:48.160]   that we wanna make sure that we need to be strengthened in?
+[00:44:48.160 --> 00:44:52.360]   Last year, our theme was Watch and Pray.
+[00:44:52.360 --> 00:44:56.520]   I put today's title of my sermon, Hope and Pray, right?
+[00:44:56.520 --> 00:44:58.880]   So the theme is not much different.
+[00:44:58.880 --> 00:45:00.360]   And the reason why it's not much different
+[00:45:00.360 --> 00:45:01.920]   is because at the end of the year,
+[00:45:01.920 --> 00:45:03.160]   as the elders get together
+[00:45:03.160 --> 00:45:05.960]   and we evaluate where we need to go,
+[00:45:05.960 --> 00:45:09.620]   again, we feel like this is our weakness in the church.
+[00:45:09.620 --> 00:45:12.680]   And so this is not, through the years,
+[00:45:12.680 --> 00:45:15.360]   we probably put this as a theme more than any other theme,
+[00:45:15.360 --> 00:45:16.600]   right, there's a few years where we're saying,
+[00:45:16.600 --> 00:45:18.520]   "We need to build community,
+[00:45:18.520 --> 00:45:20.720]   "we need to have better teaching in this and that area,
+[00:45:20.720 --> 00:45:24.440]   "or evangelism," but probably more than any other theme
+[00:45:24.440 --> 00:45:26.280]   that we've evaluated and said,
+[00:45:26.280 --> 00:45:27.560]   "We need to really be strengthened,"
+[00:45:27.560 --> 00:45:31.040]   and it's probably this topic of discipline of prayer.
+[00:45:31.040 --> 00:45:35.440]   And I don't think it's any different this year.
+[00:45:35.440 --> 00:45:39.000]   I feel like we made some progress,
+[00:45:39.000 --> 00:45:42.640]   but not to the point where we feel like where we ought to be.
+[00:45:42.640 --> 00:45:45.480]   We need to be a church that is not just known
+[00:45:45.480 --> 00:45:49.100]   for Bible teaching, but also for prayer.
+[00:45:49.100 --> 00:45:55.680]   Prayer tends to be weak in Bible-teaching churches,
+[00:45:55.680 --> 00:45:57.600]   and I don't think we're any different,
+[00:45:57.600 --> 00:46:00.680]   if we're being honest with ourselves.
+[00:46:00.680 --> 00:46:04.820]   We have a tendency, because we know our theology,
+[00:46:04.820 --> 00:46:09.140]   we know our Bible, that somehow that gives us an edge
+[00:46:09.140 --> 00:46:10.440]   to everybody else.
+[00:46:11.560 --> 00:46:16.560]   If we are theological, and if we are Bible-centered,
+[00:46:16.560 --> 00:46:21.320]   without prayer, without you knowing it,
+[00:46:21.320 --> 00:46:24.920]   you will easily become proud.
+[00:46:24.920 --> 00:46:26.960]   Even the ones that may be sitting here thinking like,
+[00:46:26.960 --> 00:46:29.020]   "Ah, I don't know about that, you know,
+[00:46:29.020 --> 00:46:30.700]   "I'm pretty good with humility."
+[00:46:30.700 --> 00:46:35.200]   Right, in fact, I dominate in humility, right?
+[00:46:35.200 --> 00:46:36.400]   Maybe some of you are thinking that,
+[00:46:36.400 --> 00:46:39.360]   maybe, you know, obviously I'm exaggerating,
+[00:46:39.360 --> 00:46:43.640]   but almost always, if you commit yourself
+[00:46:43.640 --> 00:46:46.120]   to the Word of God without prayer,
+[00:46:46.120 --> 00:46:49.400]   pride creeps in, whether you know it or not.
+[00:46:49.400 --> 00:46:51.800]   'Cause you think you know, when you really don't.
+[00:46:51.800 --> 00:46:54.800]   You feel like you're in the presence of God,
+[00:46:54.800 --> 00:46:55.640]   when you're not.
+[00:46:55.640 --> 00:46:59.200]   You think you know God, when you do not know him.
+[00:46:59.200 --> 00:47:02.600]   It's just like, it's no different than reading a book
+[00:47:02.600 --> 00:47:04.200]   about somebody and saying, "I know him."
+[00:47:04.200 --> 00:47:05.280]   It's like, no, you don't know him.
+[00:47:05.280 --> 00:47:08.480]   You know about him, you don't know him.
+[00:47:08.480 --> 00:47:10.480]   And that's why a tendency is,
+[00:47:10.480 --> 00:47:14.880]   a strong Bible-teaching church tends to be weak in prayer,
+[00:47:14.880 --> 00:47:18.440]   because we feel confident that we are right with God in this
+[00:47:18.440 --> 00:47:21.120]   and yeah, of course, yeah, of course, prayer is important,
+[00:47:21.120 --> 00:47:24.580]   but we don't realize just how important it is.
+[00:47:24.580 --> 00:47:30.880]   If I teach wrong doctrine, you will be up in arms,
+[00:47:30.880 --> 00:47:32.000]   and I hope you will be.
+[00:47:32.000 --> 00:47:34.640]   If you're not, I'd be very disappointed.
+[00:47:34.640 --> 00:47:37.720]   Right, if I taught something wrong and nobody said this,
+[00:47:37.720 --> 00:47:40.000]   I'd say, "Amen," and then you went home.
+[00:47:40.000 --> 00:47:42.280]   Right, I'm not doing my job.
+[00:47:42.280 --> 00:47:46.440]   But for some reason, Bible-teaching churches,
+[00:47:46.440 --> 00:47:49.740]   when prayer is lacking, there is no up in arms.
+[00:47:49.740 --> 00:47:52.660]   There's no grieving.
+[00:47:52.660 --> 00:47:57.560]   And again, that's because this is our blind spot,
+[00:47:57.560 --> 00:47:58.880]   and we need to work on that.
+[00:47:58.880 --> 00:48:00.080]   We need to emphasize that.
+[00:48:00.080 --> 00:48:03.440]   And even if it takes the rest of my life,
+[00:48:03.440 --> 00:48:04.280]   we need to work on that.
+[00:48:04.280 --> 00:48:06.640]   And I say this not because I've mastered prayer,
+[00:48:06.640 --> 00:48:08.760]   but because I desire to,
+[00:48:08.760 --> 00:48:11.680]   and I want our church to be the same.
+[00:48:11.680 --> 00:48:13.480]   We need to be focused on prayer.
+[00:48:13.480 --> 00:48:17.440]   Ephesians 6, 18-19, we are told,
+[00:48:17.440 --> 00:48:23.280]   we are told to put on the full armor of God,
+[00:48:23.280 --> 00:48:26.040]   helmet of salvation, but breastplate of righteousness.
+[00:48:26.040 --> 00:48:27.720]   And after he goes through all of that,
+[00:48:27.720 --> 00:48:30.000]   saying that our battle is not against flesh and blood,
+[00:48:30.000 --> 00:48:32.760]   it's a spiritual battle, and after he tells us all of this,
+[00:48:32.760 --> 00:48:35.920]   he concludes this statement by saying, in verse 18-19,
+[00:48:35.920 --> 00:48:37.840]   with all prayers and petitions,
+[00:48:37.840 --> 00:48:41.160]   pray at all times in the Spirit.
+[00:48:41.160 --> 00:48:44.100]   And with this in view, be on the alert with all perseverance,
+[00:48:44.100 --> 00:48:46.760]   with petitions for all the saints,
+[00:48:46.760 --> 00:48:50.280]   and pray for me on behalf so that others may be given my ...
+[00:48:50.280 --> 00:48:52.520]   My mouth will be opened to proclaim the gospel.
+[00:48:52.520 --> 00:48:53.720]   And so in other words, what he says,
+[00:48:53.720 --> 00:48:56.320]   after you've done all of that,
+[00:48:56.320 --> 00:49:00.700]   he says, pray, pray, pray, pray, pray, pray, pray.
+[00:49:00.700 --> 00:49:04.480]   That's how he ends that whole section.
+[00:49:04.480 --> 00:49:06.120]   So we shouldn't miss that, the whole point
+[00:49:06.120 --> 00:49:06.960]   that he's trying to get at.
+[00:49:06.960 --> 00:49:11.040]   After you've done all of that, if you do not pray,
+[00:49:11.040 --> 00:49:14.600]   you end up relying upon your own resources,
+[00:49:14.600 --> 00:49:19.120]   your own knowledge, your own experience, your own intellect.
+[00:49:19.120 --> 00:49:21.480]   After you've done everything that God calls you to do,
+[00:49:21.480 --> 00:49:25.680]   humble yourselves and recognize that you need Christ
+[00:49:25.680 --> 00:49:30.720]   in your theology, that you and I need Christ
+[00:49:30.720 --> 00:49:32.800]   in our ability, in our talent,
+[00:49:32.800 --> 00:49:36.880]   because easily we can take every gift that God has given us
+[00:49:36.880 --> 00:49:39.080]   and turn it into a curse,
+[00:49:39.080 --> 00:49:42.620]   because it brings pride inside of us.
+[00:49:42.620 --> 00:49:43.960]   We need to pray.
+[00:49:43.960 --> 00:49:47.760]   Think about Jesus' ministry,
+[00:49:47.760 --> 00:49:50.840]   his disciples who walked with him,
+[00:49:50.840 --> 00:49:52.680]   and all the things that the disciples
+[00:49:52.680 --> 00:49:55.520]   could have asked Jesus to teach them,
+[00:49:55.520 --> 00:49:57.760]   Jesus, that his disciples said,
+[00:49:57.760 --> 00:50:00.400]   "Teach us how to do what?
+[00:50:00.400 --> 00:50:02.440]   Walk on water?"
+[00:50:02.440 --> 00:50:04.800]   You think I would have asked that, right?
+[00:50:04.800 --> 00:50:07.000]   That's a cool trick, you know what I mean?
+[00:50:07.000 --> 00:50:10.400]   Evangelism would be so easy if I just walked on water,
+[00:50:10.400 --> 00:50:11.240]   you know what I mean?
+[00:50:11.240 --> 00:50:12.520]   Just gather people and walk on water,
+[00:50:12.520 --> 00:50:14.960]   and if I was levitating on water and preach the gospel,
+[00:50:14.960 --> 00:50:18.280]   in my mind, I think they'd come to Christ, right?
+[00:50:18.280 --> 00:50:20.040]   You get a bunch of hungry people together
+[00:50:20.040 --> 00:50:22.320]   and feed them miraculously.
+[00:50:22.320 --> 00:50:24.180]   I say, "Man, that might help a little bit,"
+[00:50:24.180 --> 00:50:25.720]   you know what I mean?
+[00:50:25.720 --> 00:50:27.720]   He raised people from the dead.
+[00:50:27.720 --> 00:50:31.580]   He calmed storms that even professional fishermen
+[00:50:31.580 --> 00:50:33.680]   were scared to death because of the storm,
+[00:50:33.680 --> 00:50:36.560]   and he just comes out and says, "Stop!"
+[00:50:36.560 --> 00:50:40.300]   And you want to think, with all the things that Jesus did,
+[00:50:40.300 --> 00:50:44.760]   that the disciples would teach us how to do that,
+[00:50:44.760 --> 00:50:48.740]   teach us how to multiply fish and loaves,
+[00:50:48.740 --> 00:50:50.200]   teach us how to walk on water,
+[00:50:50.200 --> 00:50:52.160]   teach us how to heal the sick, the lame,
+[00:50:52.160 --> 00:50:54.060]   open eyes to the people who are blind.
+[00:50:54.060 --> 00:50:58.900]   Yet they observed, of all the things that Jesus did,
+[00:50:58.900 --> 00:51:02.080]   that what they wanted to be able to do,
+[00:51:02.080 --> 00:51:04.620]   teach us, Lord, how to pray.
+[00:51:04.620 --> 00:51:07.760]   Now, think about it from our perspective.
+[00:51:07.760 --> 00:51:10.280]   Do you not know how to pray?
+[00:51:10.280 --> 00:51:13.660]   Of all the things that Jesus did,
+[00:51:13.660 --> 00:51:16.240]   prayer is the most mundane.
+[00:51:16.240 --> 00:51:17.620]   Prayer is something that they've been doing
+[00:51:17.620 --> 00:51:19.740]   for thousands of years.
+[00:51:19.740 --> 00:51:22.480]   Prayer is something that any one of us can decide to do.
+[00:51:22.480 --> 00:51:25.760]   Is it because they didn't know how to close their eyes?
+[00:51:25.760 --> 00:51:28.120]   Is it because they didn't know the words
+[00:51:28.120 --> 00:51:30.480]   or they weren't articulate enough?
+[00:51:30.480 --> 00:51:32.820]   What was it about Jesus's prayer
+[00:51:32.820 --> 00:51:34.700]   in the midst of all the miracles
+[00:51:34.700 --> 00:51:36.520]   and the power that he demonstrated?
+[00:51:36.520 --> 00:51:39.640]   He says, "Teach us how to pray."
+[00:51:39.640 --> 00:51:43.900]   There was something about his prayer life
+[00:51:43.900 --> 00:51:46.080]   that they recognized that this is something
+[00:51:46.080 --> 00:51:47.600]   that we need to have,
+[00:51:47.600 --> 00:51:50.880]   above everything else that Jesus was doing.
+[00:51:50.880 --> 00:51:53.700]   Teach us how to pray.
+[00:51:53.700 --> 00:51:57.020]   Matthew chapter 7, 7, Jesus says,
+[00:51:57.020 --> 00:51:58.440]   "Ask and it will be given to you.
+[00:51:58.440 --> 00:51:59.760]   Seek and you will find.
+[00:51:59.760 --> 00:52:02.800]   Knock and it will be opened to you."
+[00:52:02.800 --> 00:52:03.960]   I mean, he's a sovereign God.
+[00:52:03.960 --> 00:52:05.400]   Why do we need to ask?
+[00:52:05.400 --> 00:52:07.320]   Why do we need to knock?
+[00:52:07.320 --> 00:52:08.720]   If he's so eager to give it to us,
+[00:52:08.720 --> 00:52:10.320]   why does he wait for us to knock
+[00:52:10.320 --> 00:52:13.940]   and to ask so he can answer us?
+[00:52:13.940 --> 00:52:19.760]   Think about what the point of salvation ultimately is.
+[00:52:19.760 --> 00:52:23.680]   The point of salvation isn't simply to save us
+[00:52:23.680 --> 00:52:25.560]   from the penalty of sin,
+[00:52:25.560 --> 00:52:27.660]   but the power of sin, for what purpose?
+[00:52:27.660 --> 00:52:30.640]   So that we can come to him.
+[00:52:30.640 --> 00:52:35.080]   That's the point of the gospel.
+[00:52:35.080 --> 00:52:38.600]   The point of the gospel is not simply not going to hell.
+[00:52:38.600 --> 00:52:41.460]   That is a byproduct of being reunited
+[00:52:41.460 --> 00:52:45.420]   with our heavenly father, the author of life.
+[00:52:45.420 --> 00:52:47.140]   So the whole point of salvation,
+[00:52:47.140 --> 00:52:48.980]   the whole point of justification
+[00:52:48.980 --> 00:52:51.740]   is to call sinners to himself.
+[00:52:52.980 --> 00:52:55.800]   So when he says, "Your sins have been forgiven,"
+[00:52:55.800 --> 00:52:58.700]   the very next thing is, "Come!"
+[00:52:58.700 --> 00:53:00.960]   Because you couldn't come before.
+[00:53:00.960 --> 00:53:03.160]   Sinners could not come to him.
+[00:53:03.160 --> 00:53:06.040]   In the old covenant, God didn't tell them to come.
+[00:53:06.040 --> 00:53:09.080]   He said to stay away or you will die.
+[00:53:09.080 --> 00:53:10.400]   And if you do want to come,
+[00:53:10.400 --> 00:53:12.480]   here are all these rituals that you need to go.
+[00:53:12.480 --> 00:53:14.520]   Here are the animals that needs to be soldered.
+[00:53:14.520 --> 00:53:17.120]   Here's the blood that needs to be sprinkled all over.
+[00:53:17.120 --> 00:53:19.360]   And he didn't tell them to come.
+[00:53:19.360 --> 00:53:21.440]   Sinners were not welcomed into his presence
+[00:53:21.440 --> 00:53:22.860]   or you will die.
+[00:53:22.860 --> 00:53:26.700]   So now that Christ has come and washed us with his blood
+[00:53:26.700 --> 00:53:28.780]   and he took away the barrier,
+[00:53:28.780 --> 00:53:31.860]   the point of salvation is to come.
+[00:53:31.860 --> 00:53:36.380]   And that's why he says, "Ask, seek, and to knock."
+[00:53:36.380 --> 00:53:38.980]   Because he wants us to take advantage
+[00:53:38.980 --> 00:53:41.020]   of what it is that he has done for us.
+[00:53:41.020 --> 00:53:43.460]   And it says in James chapter 4, 2,
+[00:53:43.460 --> 00:53:47.340]   "You do not have because you do not ask."
+[00:53:48.540 --> 00:53:52.000]   Think about how frustrated we are sometimes with life,
+[00:53:52.000 --> 00:53:53.920]   the people that we complain about,
+[00:53:53.920 --> 00:53:55.520]   the circumstance that we're in.
+[00:53:55.520 --> 00:53:59.760]   Have we been bringing this to the Lord?
+[00:53:59.760 --> 00:54:02.560]   Really bringing this to the Lord?
+[00:54:02.560 --> 00:54:04.640]   Why is this this way?
+[00:54:04.640 --> 00:54:05.480]   Why is that there?
+[00:54:05.480 --> 00:54:06.960]   Why did God allow this?
+[00:54:06.960 --> 00:54:08.500]   Did you bring this to him?
+[00:54:08.500 --> 00:54:11.040]   Or does this apply to you?
+[00:54:11.040 --> 00:54:13.460]   You do not have because you did not ask.
+[00:54:15.480 --> 00:54:19.500]   I don't know how many times I come to the Lord in prayer
+[00:54:19.500 --> 00:54:24.180]   frustrated and even angry about certain things at church
+[00:54:24.180 --> 00:54:25.620]   or maybe even certain people.
+[00:54:25.620 --> 00:54:31.500]   And I would be on my knees being rebuked in prayer.
+[00:54:31.500 --> 00:54:35.660]   And in prayer realizing how gracious God is
+[00:54:35.660 --> 00:54:37.900]   and how loving he is.
+[00:54:37.900 --> 00:54:41.220]   And it was me who was frustrated.
+[00:54:41.220 --> 00:54:42.420]   It was me who was bitter
+[00:54:43.340 --> 00:54:46.080]   that I wasn't practicing the love that he gave to me.
+[00:54:46.080 --> 00:54:49.240]   He was actually much more patient than I was.
+[00:54:49.240 --> 00:54:53.120]   And then there's also times when I'm at perfect peace.
+[00:54:53.120 --> 00:54:55.680]   Everything seems just fine.
+[00:54:55.680 --> 00:54:59.640]   And in prayer realizing that God is not at peace,
+[00:54:59.640 --> 00:55:01.480]   that there is no peace,
+[00:55:01.480 --> 00:55:03.800]   that he wants me to speak on this subject.
+[00:55:03.800 --> 00:55:07.360]   He wants me to say and draw the line and be righteous.
+[00:55:07.360 --> 00:55:11.300]   But I don't know how many times I've thought in my mind
+[00:55:11.300 --> 00:55:14.120]   that because I have a verse to stand on
+[00:55:14.120 --> 00:55:15.840]   that I have righteousness.
+[00:55:15.840 --> 00:55:20.760]   But my heart is corrected when I come
+[00:55:20.760 --> 00:55:22.400]   in the presence of God in prayer.
+[00:55:22.400 --> 00:55:26.040]   I can know all things in my head
+[00:55:26.040 --> 00:55:29.600]   but there's a huge difference between being illuminated
+[00:55:29.600 --> 00:55:30.720]   and having revelation.
+[00:55:30.720 --> 00:55:33.940]   Revelation is just having information.
+[00:55:33.940 --> 00:55:37.200]   You have information about God.
+[00:55:37.200 --> 00:55:38.900]   You can study the gospel.
+[00:55:38.900 --> 00:55:40.120]   You can exposit the text.
+[00:55:40.120 --> 00:55:41.560]   And so you have revelation.
+[00:55:41.560 --> 00:55:44.560]   Illumination is when God takes the revelation
+[00:55:44.560 --> 00:55:45.720]   and he changes your heart.
+[00:55:45.720 --> 00:55:47.020]   He opens your eyes.
+[00:55:47.020 --> 00:55:50.040]   So a sinner is not saved simply
+[00:55:50.040 --> 00:55:51.640]   because he hears the gospel.
+[00:55:51.640 --> 00:55:54.400]   If that's the case the whole world will be saved.
+[00:55:54.400 --> 00:55:56.400]   All we need to do is proclaim the gospel.
+[00:55:56.400 --> 00:55:59.640]   It's the revelation where the Holy Spirit comes
+[00:55:59.640 --> 00:56:02.080]   and he opens our eyes and he illuminates a sinner
+[00:56:02.080 --> 00:56:04.800]   to bring him to repentance.
+[00:56:07.040 --> 00:56:11.080]   And so the Bible tells us that you and I cannot bear fruit
+[00:56:11.080 --> 00:56:12.720]   unless we abide in him.
+[00:56:12.720 --> 00:56:14.120]   So what does abiding mean?
+[00:56:14.120 --> 00:56:18.880]   Abide isn't simply finding more revelation.
+[00:56:18.880 --> 00:56:24.640]   Abiding in him means to be broken in our sins.
+[00:56:24.640 --> 00:56:26.760]   To be utterly dependent upon him.
+[00:56:26.760 --> 00:56:30.600]   To be humble before his presence and to be dependent on him.
+[00:56:30.600 --> 00:56:32.600]   So if you are a man or a woman
+[00:56:32.600 --> 00:56:35.040]   who is very proficient in the word of God
+[00:56:35.040 --> 00:56:37.920]   and weak in prayer, you're just as weak
+[00:56:37.920 --> 00:56:40.520]   as somebody who is not proficient with the word of God
+[00:56:40.520 --> 00:56:43.160]   and who does not pray.
+[00:56:43.160 --> 00:56:45.600]   You are not anymore righteous.
+[00:56:45.600 --> 00:56:49.920]   You do not know Christ anymore than the next person
+[00:56:49.920 --> 00:56:54.240]   who doesn't know anything but doesn't know God in prayer.
+[00:56:54.240 --> 00:56:58.360]   That's how important prayer is.
+[00:56:58.360 --> 00:57:01.520]   Again, I say all of this because you and I
+[00:57:01.520 --> 00:57:02.920]   are in a Bible teaching church,
+[00:57:02.920 --> 00:57:04.920]   which I am the primary teacher.
+[00:57:04.920 --> 00:57:07.600]   And this is something that I recognize
+[00:57:07.600 --> 00:57:09.960]   that we need to continue to strive.
+[00:57:09.960 --> 00:57:14.840]   That prayer is not, as long as we have the right doctrine,
+[00:57:14.840 --> 00:57:16.280]   like prayer is something that we need to work on.
+[00:57:16.280 --> 00:57:19.000]   No, prayer is just as important.
+[00:57:19.000 --> 00:57:23.760]   That if you cannot tolerate wrong teaching,
+[00:57:23.760 --> 00:57:27.040]   you should not tolerate prayerlessness either.
+[00:57:27.040 --> 00:57:29.800]   It is that important.
+[00:57:30.600 --> 00:57:33.360]   And so as a church, as we face 2022,
+[00:57:33.360 --> 00:57:35.480]   this is something that we want to continue
+[00:57:35.480 --> 00:57:36.920]   to emphasize in our church,
+[00:57:36.920 --> 00:57:39.320]   that we don't want to be known just as a church
+[00:57:39.320 --> 00:57:41.920]   that preaches right doctrine.
+[00:57:41.920 --> 00:57:45.360]   We also need to be known as a church
+[00:57:45.360 --> 00:57:47.920]   that is humble before God in prayer.
+[00:57:47.920 --> 00:57:53.160]   The text that we're looking at in verse 14 to 21,
+[00:57:53.160 --> 00:57:57.560]   Paul is summarizing what he's been saying
+[00:57:57.560 --> 00:57:59.840]   in three chapters about who God is,
+[00:57:59.840 --> 00:58:02.000]   and then he kind of leads us into prayer.
+[00:58:02.000 --> 00:58:04.280]   Like this is what he's praying for.
+[00:58:04.280 --> 00:58:06.920]   And so there's five things that I want to point out
+[00:58:06.920 --> 00:58:09.280]   in this text, and so today we're going to cover two,
+[00:58:09.280 --> 00:58:11.840]   and then next week we're going to cover the other three.
+[00:58:11.840 --> 00:58:13.760]   So the first thing that we want to look at,
+[00:58:13.760 --> 00:58:15.120]   why do we need to pray?
+[00:58:15.120 --> 00:58:18.720]   Why do we need to pray?
+[00:58:18.720 --> 00:58:22.640]   And he just simply says in verse 14, "For this reason."
+[00:58:22.640 --> 00:58:26.920]   Well, "For this reason" means that he's been making
+[00:58:26.920 --> 00:58:28.680]   an argument prior to this text.
+[00:58:29.320 --> 00:58:32.080]   So the immediate context of this is, "For this reason,"
+[00:58:32.080 --> 00:58:34.000]   he's talking about his gospel ministry.
+[00:58:34.000 --> 00:58:36.400]   But I believe that Apostle Paul is not just talking
+[00:58:36.400 --> 00:58:37.760]   about this immediate context,
+[00:58:37.760 --> 00:58:39.280]   he's talking about what he's been saying
+[00:58:39.280 --> 00:58:41.320]   all throughout the book of Ephesians.
+[00:58:41.320 --> 00:58:46.000]   And so he's summarizing the whole three chapters,
+[00:58:46.000 --> 00:58:48.160]   and he says, "Everything that I've been telling you
+[00:58:48.160 --> 00:58:50.520]   "about your salvation and what God has done,
+[00:58:50.520 --> 00:58:52.120]   "the love that he poured upon you,
+[00:58:52.120 --> 00:58:55.960]   "for this reason, we need to bow our knees
+[00:58:55.960 --> 00:58:58.600]   "before our heavenly Father for this reason."
+[00:58:58.600 --> 00:59:02.240]   So a quick summary of the first three chapters.
+[00:59:02.240 --> 00:59:07.840]   Ephesians 1, 3-14, and I'm just going to give you
+[00:59:07.840 --> 00:59:09.960]   a cliff note version of this text.
+[00:59:09.960 --> 00:59:16.160]   "He blessed us, he chose us, he predestined us,
+[00:59:16.160 --> 00:59:21.120]   "he adopted us according to his will, by his grace.
+[00:59:21.120 --> 00:59:25.200]   "He redeemed us by his blood, by his grace.
+[00:59:25.200 --> 00:59:27.400]   "He made known the mystery of his will
+[00:59:27.400 --> 00:59:30.240]   "according to his kind intention, he purposed,
+[00:59:30.240 --> 00:59:33.840]   "he gave us inheritance to the praise of his glory."
+[00:59:33.840 --> 00:59:37.360]   This text, I mean, it's so rich in theology.
+[00:59:37.360 --> 00:59:40.240]   If you have any text that you say,
+[00:59:40.240 --> 00:59:42.320]   "You know what, I want to really memorize this
+[00:59:42.320 --> 00:59:44.480]   "and put it to heart," it would be this text
+[00:59:44.480 --> 00:59:46.560]   because it is just rich in theology.
+[00:59:46.560 --> 00:59:50.120]   From predestination to justification to election,
+[00:59:50.120 --> 00:59:51.760]   adoption, inheritance, all of it
+[00:59:51.760 --> 00:59:53.740]   is contained in this short text.
+[00:59:53.740 --> 00:59:56.200]   So whenever we go through this text
+[00:59:56.200 --> 00:59:58.080]   or whenever we study the book of Ephesians,
+[00:59:58.080 --> 01:00:00.360]   we can get wrapped up in, what is predestination?
+[01:00:00.360 --> 01:00:01.380]   What is election?
+[01:00:01.380 --> 01:00:02.300]   What is adoption?
+[01:00:02.300 --> 01:00:03.440]   What is inheritance?
+[01:00:03.440 --> 01:00:06.200]   And every single one of these topics
+[01:00:06.200 --> 01:00:09.320]   are rich in theology that we really should master.
+[01:00:09.320 --> 01:00:12.120]   But if we're not careful, we can miss
+[01:00:12.120 --> 01:00:14.960]   the whole point of this text.
+[01:00:14.960 --> 01:00:18.360]   Because this text, as rich it is in theology,
+[01:00:18.360 --> 01:00:21.760]   what holds it together?
+[01:00:23.480 --> 01:00:28.480]   He says the word he and him over 23 times.
+[01:00:28.480 --> 01:00:32.760]   So when we talk about predestination, election,
+[01:00:32.760 --> 01:00:34.920]   inheritance, adoption, and all this stuff,
+[01:00:34.920 --> 01:00:38.560]   he always emphasizes he did it, he purposed it,
+[01:00:38.560 --> 01:00:41.480]   he provided it, he did it according to his riches
+[01:00:41.480 --> 01:00:44.900]   for his glory, his grace, 23 times.
+[01:00:44.900 --> 01:00:49.080]   So the main point of the text isn't simply
+[01:00:49.080 --> 01:00:50.720]   what we got from that.
+[01:00:50.720 --> 01:00:52.940]   The main point of this text is him.
+[01:00:53.940 --> 01:00:57.180]   He, him, he did it, he did it.
+[01:00:57.180 --> 01:01:00.600]   When a child is adopted into a home,
+[01:01:00.600 --> 01:01:05.300]   the blessing for that child is not a better house
+[01:01:05.300 --> 01:01:10.300]   or a nicer car or better food or nicer room.
+[01:01:10.300 --> 01:01:16.940]   All these things are byproduct, but the main gift is what?
+[01:01:16.940 --> 01:01:22.100]   He got a new father, a new mother.
+[01:01:22.100 --> 01:01:25.980]   And so everything that that child gets is a byproduct
+[01:01:25.980 --> 01:01:30.540]   of being adopted and loved by the mother and the father.
+[01:01:30.540 --> 01:01:35.740]   We can easily mistaken and celebrate predestination
+[01:01:35.740 --> 01:01:38.360]   and election and about eternity in heaven
+[01:01:38.360 --> 01:01:41.020]   and not going to hell and being freed from judgment.
+[01:01:41.020 --> 01:01:43.880]   We can do all of that and completely miss the point.
+[01:01:43.880 --> 01:01:48.100]   Because the whole point of the condemnation of man
+[01:01:48.100 --> 01:01:51.260]   is that we were separated, fallen what, short of what?
+[01:01:52.060 --> 01:01:55.940]   Fallen short of joy, fallen short of the garden of Eden,
+[01:01:55.940 --> 01:01:58.060]   fallen short of heaven, all of these things are true.
+[01:01:58.060 --> 01:01:59.840]   But how is it described?
+[01:01:59.840 --> 01:02:02.820]   We have fallen short of the glory.
+[01:02:02.820 --> 01:02:05.580]   We have fallen short of God's glory.
+[01:02:05.580 --> 01:02:07.620]   We've been separated from the author of life.
+[01:02:07.620 --> 01:02:11.460]   So the whole point of salvation is to bring us back.
+[01:02:11.460 --> 01:02:15.420]   To bring us back for this reason.
+[01:02:17.940 --> 01:02:21.500]   See, if we're not careful, we can spend all our days
+[01:02:21.500 --> 01:02:26.300]   celebrating how awesome the work of Christ is
+[01:02:26.300 --> 01:02:28.660]   by taking away the barrier.
+[01:02:28.660 --> 01:02:33.420]   And we become, the more we study the Bible,
+[01:02:33.420 --> 01:02:38.420]   we become the experts in describing how awesome
+[01:02:38.420 --> 01:02:42.220]   it was for the door to be gone.
+[01:02:42.220 --> 01:02:45.060]   The barrier's gone, how did he do that?
+[01:02:45.060 --> 01:02:47.220]   Well, he suffered for us.
+[01:02:47.220 --> 01:02:49.460]   He took on sin for himself.
+[01:02:49.460 --> 01:02:52.900]   He adopted us, he elected us, he came incarnate,
+[01:02:52.900 --> 01:02:55.260]   became incarnate 100% man, 100% God,
+[01:02:55.260 --> 01:02:57.780]   and so we become so proficient in theology
+[01:02:57.780 --> 01:03:01.620]   and we become experts in describing what happened,
+[01:03:01.620 --> 01:03:06.960]   yet never entering the throne of grace with confidence.
+[01:03:06.960 --> 01:03:09.660]   Because the whole point of salvation
+[01:03:09.660 --> 01:03:11.460]   is not to simply say the wall,
+[01:03:11.460 --> 01:03:14.500]   the barrier has been taken away, yes!
+[01:03:15.860 --> 01:03:17.180]   The whole point of salvation is because
+[01:03:17.180 --> 01:03:19.820]   the barrier's taken away, to come.
+[01:03:19.820 --> 01:03:22.300]   To come.
+[01:03:22.300 --> 01:03:26.860]   That's like receiving a gift and never using it.
+[01:03:26.860 --> 01:03:29.940]   The greatest gift that you and I have,
+[01:03:29.940 --> 01:03:32.940]   you have from the old covenant to new covenant
+[01:03:32.940 --> 01:03:36.380]   is that the curtain to the holy of holies was ripped.
+[01:03:36.380 --> 01:03:40.700]   So the curtain ripping basically meant
+[01:03:40.700 --> 01:03:42.840]   there was a welcome mat.
+[01:03:43.900 --> 01:03:48.520]   Instead of saying return, he said now you can come.
+[01:03:48.520 --> 01:03:51.260]   That's the invitation of the gospel,
+[01:03:51.260 --> 01:03:53.140]   come to me all who are weary and heaven-laden
+[01:03:53.140 --> 01:03:55.500]   and I will give you rest.
+[01:03:55.500 --> 01:03:56.980]   You know why he says I will give you rest?
+[01:03:56.980 --> 01:03:59.700]   Because we're all striving, the whole world
+[01:03:59.700 --> 01:04:02.660]   is striving after event after event,
+[01:04:02.660 --> 01:04:05.600]   job after job, looking for some sort of peace.
+[01:04:05.600 --> 01:04:08.820]   It's like peace of mind for our children,
+[01:04:08.820 --> 01:04:10.860]   peace of mind for retirement,
+[01:04:10.860 --> 01:04:13.800]   peace of mind in our jobs, in our family.
+[01:04:13.800 --> 01:04:17.860]   But he says no, come to me, all you who are weary,
+[01:04:17.860 --> 01:04:22.180]   going from place to place, from stage to stage in life.
+[01:04:22.180 --> 01:04:24.700]   And you shall not find peace there.
+[01:04:24.700 --> 01:04:26.340]   He says I will give you peace.
+[01:04:26.340 --> 01:04:29.620]   And you shall find rest for your souls.
+[01:04:29.620 --> 01:04:33.800]   My yoke is easy and my burden is light.
+[01:04:33.800 --> 01:04:38.200]   So the whole point of our salvation is to come to him.
+[01:04:38.200 --> 01:04:39.980]   So if we study the word of God,
+[01:04:39.980 --> 01:04:42.740]   and we're laboring in the church,
+[01:04:42.740 --> 01:04:45.300]   and we're doing all of these great things, proclaiming,
+[01:04:45.300 --> 01:04:48.180]   and yet we neglect prayer, neglect to come to him,
+[01:04:48.180 --> 01:04:50.020]   then you've neglected not just a small part
+[01:04:50.020 --> 01:04:52.220]   of your salvation, you've neglected the whole point
+[01:04:52.220 --> 01:04:55.800]   of your salvation, to come.
+[01:04:55.800 --> 01:04:58.300]   And that's why he says therefore, come.
+[01:04:58.300 --> 01:05:04.700]   Does your bucket list have anything to do with Christ?
+[01:05:04.700 --> 01:05:09.020]   Ephesians 1, 18 to 19, Paul basically summarizes
+[01:05:09.020 --> 01:05:10.060]   his whole heart.
+[01:05:11.880 --> 01:05:13.940]   And this is something that I think you and I
+[01:05:13.940 --> 01:05:15.220]   need to pay attention to.
+[01:05:15.220 --> 01:05:18.880]   The whole reason why the Bible is taught,
+[01:05:18.880 --> 01:05:23.340]   the whole reason why we do expository preaching,
+[01:05:23.340 --> 01:05:25.000]   is not so that at the end of it you say,
+[01:05:25.000 --> 01:05:27.120]   oh, I've heard a lot of sermon from a lot
+[01:05:27.120 --> 01:05:30.320]   of great preachers, and so I know more than you.
+[01:05:30.320 --> 01:05:34.220]   Hearing and studying of the word of God for you
+[01:05:34.220 --> 01:05:35.540]   has done more damage than good,
+[01:05:35.540 --> 01:05:38.160]   if that's what you think the end result is.
+[01:05:38.160 --> 01:05:41.160]   Come to me.
+[01:05:41.160 --> 01:05:42.960]   Paul says in Ephesians 1, 18 to 19,
+[01:05:42.960 --> 01:05:46.340]   I pray that the eyes of your heart may be enlightened.
+[01:05:46.340 --> 01:05:49.140]   Now why do their eyes need to be enlightened
+[01:05:49.140 --> 01:05:51.540]   when Paul basically revealed everything to them?
+[01:05:51.540 --> 01:05:55.680]   He's like, oh, it's because they're not smart?
+[01:05:55.680 --> 01:05:58.320]   Is he praying for better IQ?
+[01:05:58.320 --> 01:06:00.660]   Is he praying for all of us to be A students
+[01:06:00.660 --> 01:06:03.900]   so that we can exposit the text and understand it better?
+[01:06:03.900 --> 01:06:06.560]   What does he mean for their eyes to be enlightened
+[01:06:06.560 --> 01:06:10.220]   when he's the one who told them?
+[01:06:10.220 --> 01:06:11.940]   No, he's not talking about revelation.
+[01:06:11.940 --> 01:06:13.580]   He's talking about enlightenment.
+[01:06:13.580 --> 01:06:16.820]   He's praying that God would use the word
+[01:06:16.820 --> 01:06:19.460]   that you've heard and break you,
+[01:06:19.460 --> 01:06:24.300]   break me, to humble me,
+[01:06:24.300 --> 01:06:27.560]   to bring us to himself.
+[01:06:27.560 --> 01:06:30.460]   He's calling us.
+[01:06:30.460 --> 01:06:32.060]   When he says, I pray that the eyes of your heart
+[01:06:32.060 --> 01:06:34.140]   may be enlightened, so that you will know
+[01:06:34.140 --> 01:06:35.820]   what is the hope of his calling,
+[01:06:35.820 --> 01:06:38.180]   what are the riches of the glory of his inheritance
+[01:06:38.180 --> 01:06:40.700]   in the saints, and what is the surpassing greatness
+[01:06:40.700 --> 01:06:43.900]   of his power toward us who believe?
+[01:06:43.900 --> 01:06:47.740]   Our churches are filled with people
+[01:06:47.740 --> 01:06:51.940]   who have right theology, who know the verse to quote,
+[01:06:51.940 --> 01:06:55.100]   yet do not know Christ.
+[01:06:55.100 --> 01:06:59.500]   And that's the greatest place of danger.
+[01:06:59.500 --> 01:07:02.380]   The person who does the greatest damage
+[01:07:02.380 --> 01:07:04.580]   is the person who has the greatest knowledge,
+[01:07:04.580 --> 01:07:07.680]   and yet does not know Christ.
+[01:07:08.640 --> 01:07:11.240]   This is why we need to pray.
+[01:07:11.240 --> 01:07:14.080]   We need to couple our efforts in the word of God
+[01:07:14.080 --> 01:07:18.240]   with much prayer, not just prayer sprinkled,
+[01:07:18.240 --> 01:07:20.880]   not just knowing the importance of prayer,
+[01:07:20.880 --> 01:07:21.920]   but we need to pray.
+[01:07:21.920 --> 01:07:24.960]   We need to humble ourselves and pray.
+[01:07:24.960 --> 01:07:27.720]   As much attention we give to the exposition
+[01:07:27.720 --> 01:07:29.040]   of the word of God, we need to give
+[01:07:29.040 --> 01:07:31.860]   equal attention to prayer.
+[01:07:34.080 --> 01:07:38.000]   We pray, ultimately, because we have hope,
+[01:07:38.000 --> 01:07:39.880]   and that's really the summary
+[01:07:39.880 --> 01:07:41.440]   of everything he's been saying.
+[01:07:41.440 --> 01:07:44.720]   Why do we need to know the love
+[01:07:44.720 --> 01:07:46.040]   and the power that we have in Christ?
+[01:07:46.040 --> 01:07:48.160]   Because we have hope, that's what he's saying.
+[01:07:48.160 --> 01:07:49.680]   Because we have hope.
+[01:07:49.680 --> 01:07:52.540]   Remember David, because of his great sin,
+[01:07:52.540 --> 01:07:55.440]   he commits adultery and then he ends up
+[01:07:55.440 --> 01:07:58.920]   killing Bathsheba's husband, and as a result of that,
+[01:07:58.920 --> 01:08:02.000]   God said that your kingdom's gonna be divided,
+[01:08:02.000 --> 01:08:03.960]   and you're gonna lose your first child.
+[01:08:04.800 --> 01:08:07.600]   And just as God said, the prophecy's coming true.
+[01:08:07.600 --> 01:08:10.680]   After Bathsheba has her child,
+[01:08:10.680 --> 01:08:12.800]   the child falls ill and is about to die.
+[01:08:12.800 --> 01:08:17.840]   And David gets on his knees and he begins to pray.
+[01:08:17.840 --> 01:08:21.120]   And he cries out to God and he said he fasted.
+[01:08:21.120 --> 01:08:23.560]   He fasted so much that his subjects
+[01:08:23.560 --> 01:08:25.960]   were actually concerned for him.
+[01:08:25.960 --> 01:08:26.800]   You should eat something.
+[01:08:26.800 --> 01:08:28.320]   He said, I cannot.
+[01:08:28.320 --> 01:08:31.280]   My child is sick and I need to plead to the Lord.
+[01:08:31.280 --> 01:08:36.120]   And as God said, prophecy comes true and his child dies.
+[01:08:36.120 --> 01:08:39.340]   And to the surprise of his subjects,
+[01:08:39.340 --> 01:08:42.280]   he just gets up, he shakes head off,
+[01:08:42.280 --> 01:08:43.920]   and then he just goes back to work.
+[01:08:43.920 --> 01:08:48.360]   And so his disciples are perplexed.
+[01:08:48.360 --> 01:08:51.480]   I mean, you were so passionate praying and fasting.
+[01:08:51.480 --> 01:08:55.360]   How do you just, you know, he dies and then you just move on.
+[01:08:55.360 --> 01:09:00.360]   And David's response was, as long as he lived, I have hope.
+[01:09:01.200 --> 01:09:05.320]   But now that he's gone, I can go to him,
+[01:09:05.320 --> 01:09:06.660]   but he can't come to me.
+[01:09:06.660 --> 01:09:10.480]   In other words, the hope is gone.
+[01:09:10.480 --> 01:09:13.680]   So there's no point to pray.
+[01:09:13.680 --> 01:09:15.160]   That's what David was saying.
+[01:09:15.160 --> 01:09:19.400]   See, that's David.
+[01:09:19.400 --> 01:09:22.600]   He says he prayed as long as there is hope.
+[01:09:22.600 --> 01:09:24.900]   But here's the difference in the new covenant.
+[01:09:24.900 --> 01:09:28.800]   In a new covenant, remember the disciples.
+[01:09:28.800 --> 01:09:30.200]   They were so courageous.
+[01:09:30.200 --> 01:09:34.000]   Like Jesus, the leaders of Israel were trying to get at Jesus
+[01:09:34.000 --> 01:09:35.840]   from the very beginning of his ministry.
+[01:09:35.840 --> 01:09:38.600]   Remember, Jesus would just walk through the crowd.
+[01:09:38.600 --> 01:09:39.900]   Right, he just disappears.
+[01:09:39.900 --> 01:09:42.980]   I mean, they hated him from the beginning
+[01:09:42.980 --> 01:09:46.800]   because from the get-go, it didn't take him a couple years
+[01:09:46.800 --> 01:09:47.760]   for him to call them out.
+[01:09:47.760 --> 01:09:50.160]   As soon as the Pharisees and Sadducees came,
+[01:09:50.160 --> 01:09:53.500]   Jesus said, who told you to come to be baptized?
+[01:09:53.500 --> 01:09:56.520]   Bear fruit in accordance to your repentance.
+[01:09:56.520 --> 01:09:58.660]   Your repentance means nothing.
+[01:09:58.660 --> 01:10:00.720]   If there's no change in your life.
+[01:10:00.720 --> 01:10:03.800]   And so they were angry with him from the get-go.
+[01:10:03.800 --> 01:10:05.960]   And these are powerful men who could literally
+[01:10:05.960 --> 01:10:09.160]   put him in jail and possibly even stone him to death.
+[01:10:09.160 --> 01:10:11.920]   And so the disciples, as long as they walked with him,
+[01:10:11.920 --> 01:10:13.780]   they were safe.
+[01:10:13.780 --> 01:10:15.420]   They were hungry, he was fed.
+[01:10:15.420 --> 01:10:18.520]   In the middle of the storm, he would calm them down.
+[01:10:18.520 --> 01:10:21.440]   But all of a sudden, Jesus comes into Jerusalem
+[01:10:21.440 --> 01:10:23.100]   and he begins to surrender.
+[01:10:23.100 --> 01:10:26.440]   He's the most powerful person that they've ever met.
+[01:10:26.440 --> 01:10:28.820]   He's the Messiah, Son of God.
+[01:10:28.820 --> 01:10:32.580]   And yet he surrenders himself to go to the cross.
+[01:10:32.580 --> 01:10:35.360]   The disciples are watching him from a distance.
+[01:10:35.360 --> 01:10:37.940]   He must have something up his sleeve.
+[01:10:37.940 --> 01:10:40.340]   Maybe he's gonna pretend like he's gonna surrender
+[01:10:40.340 --> 01:10:42.400]   and then right before he's crucified,
+[01:10:42.400 --> 01:10:44.040]   he's just gonna go, bam!
+[01:10:44.040 --> 01:10:46.580]   And the revolution's gonna take place.
+[01:10:46.580 --> 01:10:48.000]   So they're watching him from a distance,
+[01:10:48.000 --> 01:10:49.540]   watching, watching.
+[01:10:49.540 --> 01:10:52.360]   And then when they realized that Jesus
+[01:10:52.360 --> 01:10:55.400]   was going to be handed over and die,
+[01:10:56.400 --> 01:10:58.680]   all of a sudden, they're disillusioned.
+[01:10:58.680 --> 01:11:04.000]   This courageous man, Peter,
+[01:11:04.000 --> 01:11:05.340]   who was willing to take his sword out
+[01:11:05.340 --> 01:11:07.080]   and go on this fight, even though,
+[01:11:07.080 --> 01:11:08.640]   humanly, they were outnumbered,
+[01:11:08.640 --> 01:11:11.360]   all of a sudden becomes a coward.
+[01:11:11.360 --> 01:11:15.160]   And so as Jesus is being crucified,
+[01:11:15.160 --> 01:11:17.640]   all the disciples scattered in fear,
+[01:11:17.640 --> 01:11:20.300]   in locked doors, that maybe that will happen to them.
+[01:11:20.300 --> 01:11:24.920]   As you know, the story doesn't end there.
+[01:11:25.920 --> 01:11:28.880]   Christ comes back and resurrected on the third day.
+[01:11:28.880 --> 01:11:33.120]   And after they meet the resurrected Christ,
+[01:11:33.120 --> 01:11:34.960]   their hope is reignited.
+[01:11:34.960 --> 01:11:39.500]   And it is in this hope, Jesus calls them
+[01:11:39.500 --> 01:11:42.160]   to make disciples of all the nations,
+[01:11:42.160 --> 01:11:43.560]   baptizing them, name of the Father,
+[01:11:43.560 --> 01:11:44.960]   the Son, and the Holy Spirit.
+[01:11:44.960 --> 01:11:46.000]   Behold what?
+[01:11:46.000 --> 01:11:48.960]   I am with you.
+[01:11:48.960 --> 01:11:50.560]   The Christ who was crucified,
+[01:11:50.560 --> 01:11:52.280]   who was resurrected on the third day,
+[01:11:52.280 --> 01:11:53.840]   he is with you.
+[01:11:54.880 --> 01:11:58.520]   And the apostles say that the power of the cross
+[01:11:58.520 --> 01:12:03.000]   says even when you die, he said, you shall live.
+[01:12:03.000 --> 01:12:05.620]   And that's what he means when he says,
+[01:12:05.620 --> 01:12:09.760]   for this reason, we have to pray,
+[01:12:09.760 --> 01:12:11.200]   because we have hope.
+[01:12:11.200 --> 01:12:14.720]   As Christians, it doesn't matter
+[01:12:14.720 --> 01:12:16.240]   how long this pandemic lasts.
+[01:12:16.240 --> 01:12:18.360]   It doesn't matter what kind of government that we have.
+[01:12:18.360 --> 01:12:20.680]   It doesn't matter what kind of economic downturn
+[01:12:20.680 --> 01:12:21.720]   that it may have.
+[01:12:21.720 --> 01:12:24.560]   There is no Christian who is never without hope.
+[01:12:25.400 --> 01:12:28.520]   We have a hope that this world cannot take away
+[01:12:28.520 --> 01:12:31.440]   no matter what circumstance that we're in.
+[01:12:31.440 --> 01:12:33.440]   No matter what happens in 2022,
+[01:12:33.440 --> 01:12:38.440]   our hope remains steadfast and steady.
+[01:12:38.440 --> 01:12:40.000]   And that's what he's trying to say.
+[01:12:40.000 --> 01:12:43.960]   Therefore, he says, we need to pray.
+[01:12:43.960 --> 01:12:47.600]   First Peter 1:36, blessed be the God and Father
+[01:12:47.600 --> 01:12:48.640]   of our Lord Jesus Christ,
+[01:12:48.640 --> 01:12:50.120]   who according to his great mercy
+[01:12:50.120 --> 01:12:54.120]   has caused us to be born again to a living hope.
+[01:12:55.040 --> 01:12:57.840]   Through the resurrection of Jesus Christ from the dead.
+[01:12:57.840 --> 01:13:01.280]   To obtain an inheritance which is imperishable,
+[01:13:01.280 --> 01:13:03.280]   undefiled, will not fade away,
+[01:13:03.280 --> 01:13:04.680]   reserved in heaven for you,
+[01:13:04.680 --> 01:13:06.180]   who are protected by the power of God
+[01:13:06.180 --> 01:13:07.660]   through faith for salvation,
+[01:13:07.660 --> 01:13:09.880]   ready to be revealed in the last time.
+[01:13:09.880 --> 01:13:14.040]   You notice he doesn't say protected by your hard work,
+[01:13:14.040 --> 01:13:15.240]   protected by your church,
+[01:13:15.240 --> 01:13:18.760]   protected by your ingenuity or the right program.
+[01:13:18.760 --> 01:13:20.640]   He says, no, protected by what?
+[01:13:20.640 --> 01:13:23.000]   By the power of God, by faith.
+[01:13:24.000 --> 01:13:26.040]   Despite, right?
+[01:13:26.040 --> 01:13:31.340]   Despite us, God says, you have hope, living hope.
+[01:13:31.340 --> 01:13:33.800]   So for this reason, he says to pray.
+[01:13:33.800 --> 01:13:35.780]   Secondly, how should we pray?
+[01:13:35.780 --> 01:13:38.800]   In this simple statement, he says,
+[01:13:38.800 --> 01:13:43.320]   to kneel down before, kneel down,
+[01:13:43.320 --> 01:13:44.920]   bow my knees before the Father
+[01:13:44.920 --> 01:13:47.240]   from whom every family in heaven and on earth
+[01:13:47.240 --> 01:13:48.080]   derived his name.
+[01:13:48.080 --> 01:13:49.120]   He says to kneel.
+[01:13:51.360 --> 01:13:52.840]   Philippians 2, 10 through 11, he says,
+[01:13:52.840 --> 01:13:55.800]   so that at the name of Jesus, every knee will bow
+[01:13:55.800 --> 01:13:57.280]   of those who are in heaven and on earth
+[01:13:57.280 --> 01:13:59.360]   and under the earth, and that every tongue will confess
+[01:13:59.360 --> 01:14:00.640]   that Jesus Christ is Lord,
+[01:14:00.640 --> 01:14:03.000]   through the glory of God the Father.
+[01:14:03.000 --> 01:14:07.320]   We come to Christ humbled,
+[01:14:07.320 --> 01:14:10.280]   surrendered.
+[01:14:10.280 --> 01:14:13.920]   The word kneel, the posture basically is
+[01:14:13.920 --> 01:14:16.200]   to surrender in awe.
+[01:14:17.560 --> 01:14:21.520]   Last week, Pastor Nate gave a sermon about fear
+[01:14:21.520 --> 01:14:26.520]   and the general thing that was kind of proclaimed
+[01:14:26.520 --> 01:14:28.920]   last week about fear is there's a fear
+[01:14:28.920 --> 01:14:31.000]   that leads to despair.
+[01:14:31.000 --> 01:14:32.380]   And that fear we know.
+[01:14:32.380 --> 01:14:36.600]   So many of us make decisions based upon
+[01:14:36.600 --> 01:14:37.760]   what we're afraid of.
+[01:14:37.760 --> 01:14:42.560]   That if we do this, what will people think of me?
+[01:14:42.560 --> 01:14:45.960]   If we do this, what about the consequence?
+[01:14:45.960 --> 01:14:49.860]   And so we hedge every decision that we make,
+[01:14:49.860 --> 01:14:52.360]   what is the results that's gonna hit.
+[01:14:52.360 --> 01:14:53.840]   So if I do this, am I gonna lose my job?
+[01:14:53.840 --> 01:14:57.200]   Am I not gonna be able to advance in my career?
+[01:14:57.200 --> 01:14:59.640]   And what if I lose my health?
+[01:14:59.640 --> 01:15:01.600]   And what if my children don't get what they want?
+[01:15:01.600 --> 01:15:03.560]   And so everything that we do,
+[01:15:03.560 --> 01:15:06.880]   we hedge it based upon the fear.
+[01:15:06.880 --> 01:15:08.600]   Well, if I say this, what are they gonna think of me?
+[01:15:08.600 --> 01:15:10.380]   If I don't do this, what are they gonna think of me?
+[01:15:10.380 --> 01:15:13.040]   So all of our life is kind of like hedged
+[01:15:14.560 --> 01:15:17.600]   and bound by certain fears that we have.
+[01:15:17.600 --> 01:15:20.720]   So there's fear that leads to despair.
+[01:15:20.720 --> 01:15:24.120]   And then there's fear that leads to worship,
+[01:15:24.120 --> 01:15:27.680]   which is what the world doesn't understand.
+[01:15:27.680 --> 01:15:32.600]   Because the only fear that leads to worship
+[01:15:32.600 --> 01:15:36.000]   is when we are knelt before our holy God.
+[01:15:36.000 --> 01:15:39.560]   Every instance in the Bible when men and women
+[01:15:39.560 --> 01:15:41.840]   are in the presence of God's glory,
+[01:15:41.840 --> 01:15:44.000]   the first response is terror.
+[01:15:44.000 --> 01:15:48.520]   The first response is an, oh God, we were waiting for you.
+[01:15:48.520 --> 01:15:51.160]   You know, you loved us, and so can I come
+[01:15:51.160 --> 01:15:52.000]   and sit near you?
+[01:15:52.000 --> 01:15:54.060]   It's like, that's not the response.
+[01:15:54.060 --> 01:15:55.480]   The immediate response is terror.
+[01:15:55.480 --> 01:15:58.440]   Ezekiel chapter 128, Ezekiel is in the presence
+[01:15:58.440 --> 01:16:00.400]   of God's glory, the incarnate Christ.
+[01:16:00.400 --> 01:16:01.240]   What happens?
+[01:16:01.240 --> 01:16:04.240]   He falls on his face, he's knelt down, terrified.
+[01:16:04.240 --> 01:16:08.240]   Matthew chapter 17, verse six.
+[01:16:08.240 --> 01:16:10.600]   God speaks of his son, he says, this is my son
+[01:16:10.600 --> 01:16:12.040]   in whom I am well pleased.
+[01:16:12.040 --> 01:16:15.720]   And when the disciples see the glory of God,
+[01:16:15.720 --> 01:16:19.560]   their first response is they fell on their faces
+[01:16:19.560 --> 01:16:20.800]   and were terrified.
+[01:16:20.800 --> 01:16:24.820]   In Revelation chapter 117, when Apostle John
+[01:16:24.820 --> 01:16:27.080]   is in the presence of Jesus' glory,
+[01:16:27.080 --> 01:16:31.280]   it says he fell down, and he says he felt like a dead man.
+[01:16:31.280 --> 01:16:36.200]   In Revelation 514, the elders in the presence
+[01:16:36.200 --> 01:16:39.600]   of the glory of the throne, he says they fell down.
+[01:16:40.600 --> 01:16:43.240]   And then look what it says in Revelation 7, 11 to 12.
+[01:16:43.240 --> 01:16:45.640]   And all the angels were standing around the throne,
+[01:16:45.640 --> 01:16:47.560]   around the elders and the four living creatures,
+[01:16:47.560 --> 01:16:52.160]   and they fell on their faces before the throne,
+[01:16:52.160 --> 01:16:56.600]   and then worshipped, saying, amen, blessing and glory
+[01:16:56.600 --> 01:16:58.780]   and wisdom and thanksgiving and honor and power
+[01:16:58.780 --> 01:17:03.160]   and might be to our God forever and ever, amen.
+[01:17:03.160 --> 01:17:08.160]   You don't equate, you and I don't equate fear with joy.
+[01:17:09.160 --> 01:17:14.160]   If something causes fear, we move away from that.
+[01:17:14.160 --> 01:17:17.240]   We don't buy houses where we don't feel safe.
+[01:17:17.240 --> 01:17:20.320]   We don't take vacations where we're fearful.
+[01:17:20.320 --> 01:17:23.380]   Our whole world got shut down because of fear
+[01:17:23.380 --> 01:17:26.120]   of this thing that we can't even see.
+[01:17:26.120 --> 01:17:32.040]   Fear usually does not equate with joy and peace.
+[01:17:32.040 --> 01:17:37.760]   And yet, in every instance, a man or a woman
+[01:17:37.760 --> 01:17:40.640]   in the presence of God, they fall terrified,
+[01:17:40.640 --> 01:17:44.720]   and in their terror, they worship.
+[01:17:44.720 --> 01:17:49.900]   They worship, and worship is equated with joy.
+[01:17:49.900 --> 01:17:54.380]   Worship is equated with life.
+[01:17:54.380 --> 01:17:55.920]   And Jesus said, I have come to give life
+[01:17:55.920 --> 01:17:57.960]   and give this life abundantly.
+[01:17:57.960 --> 01:17:59.960]   And it wasn't until they recognized
+[01:17:59.960 --> 01:18:01.920]   that they were in the presence of God's glory
+[01:18:01.920 --> 01:18:04.760]   that they felt terrified, and then that terror
+[01:18:04.760 --> 01:18:07.280]   led to worship and joy and life.
+[01:18:08.280 --> 01:18:10.880]   So the whole purpose of our salvation
+[01:18:10.880 --> 01:18:13.360]   is to bring us to this holy God,
+[01:18:13.360 --> 01:18:15.720]   covered in the blood of Christ,
+[01:18:15.720 --> 01:18:19.280]   recognizing who we are standing in front of,
+[01:18:19.280 --> 01:18:24.280]   who we are praying to, and experiencing this life
+[01:18:24.280 --> 01:18:25.720]   in his presence.
+[01:18:25.720 --> 01:18:31.540]   One of the most convicting sermons I've heard
+[01:18:31.540 --> 01:18:34.260]   was on this subject of prayer is Martin Lloyd-Jones.
+[01:18:35.880 --> 01:18:37.840]   Martin Lloyd-Jones says, "Prayer is the hardest,
+[01:18:37.840 --> 01:18:41.460]   "one of the hardest things to do as a professing Christian,
+[01:18:41.460 --> 01:18:45.920]   "and it is impossible for an unsurrendered person to pray."
+[01:18:45.920 --> 01:18:51.680]   I mean, prayer as a discipline is easy, physically.
+[01:18:51.680 --> 01:18:52.880]   Close your eyes.
+[01:18:52.880 --> 01:18:55.720]   When other people close their eyes, you close your eyes.
+[01:18:55.720 --> 01:18:57.200]   And you have certain things that you wanna say
+[01:18:57.200 --> 01:18:58.560]   in your head, just say it.
+[01:18:58.560 --> 01:19:00.760]   And say, well, we pray.
+[01:19:00.760 --> 01:19:05.760]   But he said, true prayer, you cannot come to God
+[01:19:05.760 --> 01:19:07.600]   on your own terms.
+[01:19:07.600 --> 01:19:10.960]   An unsurrendered man or woman cannot come
+[01:19:10.960 --> 01:19:12.280]   into the presence of God.
+[01:19:12.280 --> 01:19:17.960]   Jeremiah 29, verse 13, it says,
+[01:19:17.960 --> 01:19:20.520]   "You will seek me and find me when you search me with,"
+[01:19:20.520 --> 01:19:23.560]   what, "all your heart."
+[01:19:23.560 --> 01:19:28.080]   Part of the reason why prayer is ineffective
+[01:19:28.080 --> 01:19:32.240]   in our generation is because our churches are filled
+[01:19:32.240 --> 01:19:35.140]   with people who have not surrendered their lives to Christ.
+[01:19:35.980 --> 01:19:38.340]   And just like Martin Lloyd-Jones says,
+[01:19:38.340 --> 01:19:40.540]   you cannot pray unsurrendered.
+[01:19:40.540 --> 01:19:44.300]   Because the Holy Spirit that is residing in us
+[01:19:44.300 --> 01:19:46.780]   is groaning and interceding on our behalf,
+[01:19:46.780 --> 01:19:50.260]   contradicting your prayers.
+[01:19:50.260 --> 01:19:57.020]   The thing that the Holy Spirit wants for us and from us
+[01:19:57.020 --> 01:20:01.960]   is leading away from what we desire from our flesh.
+[01:20:01.960 --> 01:20:04.820]   So our prayers and the work of the Holy Spirit
+[01:20:04.820 --> 01:20:06.580]   is fighting each other.
+[01:20:06.580 --> 01:20:10.940]   So when we come to the Lord in prayer,
+[01:20:10.940 --> 01:20:12.940]   instead of communing with God,
+[01:20:12.940 --> 01:20:15.340]   we're wrestling with the Spirit.
+[01:20:15.340 --> 01:20:19.140]   And that's why our prayers are so frustrated.
+[01:20:19.140 --> 01:20:22.900]   Because an unsurrendered man cannot pray
+[01:20:22.900 --> 01:20:27.580]   until he has decided for himself that this is what he wants.
+[01:20:27.580 --> 01:20:30.420]   And it was chapter five, four, and six,
+[01:20:30.420 --> 01:20:33.100]   that seek me that you may live.
+[01:20:33.100 --> 01:20:35.100]   He didn't say seek me so that you may have peace.
+[01:20:35.100 --> 01:20:38.020]   He didn't say seek me so that you may experience joy.
+[01:20:38.020 --> 01:20:40.340]   He said seek me that you may live.
+[01:20:40.340 --> 01:20:45.780]   Verse six, seek the Lord that you may live.
+[01:20:45.780 --> 01:20:49.980]   No one casually drifts into the presence of God.
+[01:20:49.980 --> 01:20:52.580]   No one wakes up one morning and says,
+[01:20:52.580 --> 01:20:53.820]   you know what, I'm just gonna pursue life
+[01:20:53.820 --> 01:20:56.740]   and hopefully if I'm around enough Christians
+[01:20:56.740 --> 01:20:58.260]   and if I attend Bible study faithfully
+[01:20:58.260 --> 01:21:00.540]   that I'm gonna wake up at the end of 2022
+[01:21:00.540 --> 01:21:03.060]   and just have this passionate love for Christ.
+[01:21:03.060 --> 01:21:08.500]   Because everything around us is drifting away from Him.
+[01:21:08.500 --> 01:21:12.020]   So if we don't actively anchor ourselves,
+[01:21:12.020 --> 01:21:13.700]   if we don't actively pursue Christ,
+[01:21:13.700 --> 01:21:16.820]   if we don't actively pray before God,
+[01:21:16.820 --> 01:21:20.260]   you will find yourself at the end of 2022
+[01:21:20.260 --> 01:21:24.420]   further away from God than where you are today.
+[01:21:24.420 --> 01:21:28.940]   He says seek me that you may live.
+[01:21:29.700 --> 01:21:34.700]   Even before we pray, we need to make up our mind.
+[01:21:34.700 --> 01:21:37.860]   You can't, bowing the knees here
+[01:21:37.860 --> 01:21:40.500]   is not just talking about physically, right?
+[01:21:40.500 --> 01:21:41.980]   As long as you don't have bad knees,
+[01:21:41.980 --> 01:21:44.940]   any one of us can just get on our knees, right?
+[01:21:44.940 --> 01:21:47.860]   Obviously that's not what he's talking about.
+[01:21:47.860 --> 01:21:49.420]   He's talking about surrendering.
+[01:21:49.420 --> 01:21:52.540]   He's talking about worship.
+[01:21:52.540 --> 01:21:56.580]   He's talking about recognizing who he is to be surrendered.
+[01:21:57.580 --> 01:22:00.380]   Remember Joshua at the end of his life,
+[01:22:00.380 --> 01:22:02.860]   he was so frustrated with the Israelites
+[01:22:02.860 --> 01:22:04.980]   because they kept on going back and forth
+[01:22:04.980 --> 01:22:07.820]   to worshiping God, to worshiping idols.
+[01:22:07.820 --> 01:22:09.660]   And the reason why they were worshiping idols
+[01:22:09.660 --> 01:22:12.860]   is not because they were more attractive.
+[01:22:12.860 --> 01:22:14.860]   I mean, it's just a wood figure that they just carved out.
+[01:22:14.860 --> 01:22:17.100]   It means nothing, there's no power in it.
+[01:22:17.100 --> 01:22:19.180]   But the reason why they kept on worshiping these idols
+[01:22:19.180 --> 01:22:21.900]   is because they were looking at what the Canaanites had
+[01:22:21.900 --> 01:22:24.780]   and thought maybe if I worship it,
+[01:22:24.780 --> 01:22:27.460]   maybe we'll have wealth, maybe we'll have power.
+[01:22:27.460 --> 01:22:30.020]   We'll have more children, maybe we'll have this and that.
+[01:22:30.020 --> 01:22:31.900]   And so they were willing to compromise
+[01:22:31.900 --> 01:22:34.540]   because they weren't surrendered to God.
+[01:22:34.540 --> 01:22:37.820]   And it's at the end of his life, Joshua says,
+[01:22:37.820 --> 01:22:41.740]   "If it is disagreeable in your sight to serve the Lord,
+[01:22:41.740 --> 01:22:45.800]   "choose for yourself today whom you will serve,
+[01:22:45.800 --> 01:22:48.140]   "whether the gods which your father served
+[01:22:48.140 --> 01:22:49.560]   "which were beyond the river,
+[01:22:49.560 --> 01:22:53.840]   "or the gods of the Amorites," I'm gonna say Americans,
+[01:22:55.560 --> 01:22:57.880]   "in whose land you are living,
+[01:22:57.880 --> 01:23:01.400]   "but as for me and my house, we will serve the Lord."
+[01:23:01.400 --> 01:23:04.920]   To bow our knees before the Father,
+[01:23:04.920 --> 01:23:07.180]   we need to make up our mind.
+[01:23:07.180 --> 01:23:13.240]   Have you said this to your family, to yourself?
+[01:23:13.240 --> 01:23:14.900]   I'm not sure where the other people are going,
+[01:23:14.900 --> 01:23:18.880]   but for me and my household, we will serve the Lord.
+[01:23:18.880 --> 01:23:20.820]   He is my Lord.
+[01:23:21.900 --> 01:23:26.560]   Not my safety, not my comfort, not my retirement,
+[01:23:26.560 --> 01:23:29.260]   not my wife, not my children.
+[01:23:29.260 --> 01:23:31.760]   He is my Lord.
+[01:23:31.760 --> 01:23:35.480]   As we go forward in 2022,
+[01:23:35.480 --> 01:23:38.480]   as we focus our attention on prayer,
+[01:23:38.480 --> 01:23:40.700]   because we need to focus on prayer,
+[01:23:40.700 --> 01:23:45.240]   the question we need to ask is, are you surrendered?
+[01:23:45.240 --> 01:23:49.640]   Are you surrendered to Christ?
+[01:23:49.860 --> 01:23:53.580]   When two people get married,
+[01:23:53.580 --> 01:23:55.580]   they're entering into a covenant,
+[01:23:55.580 --> 01:23:59.460]   and it is assumed, you don't have to be a Christian,
+[01:23:59.460 --> 01:24:01.880]   but it is assumed when they enter a covenant,
+[01:24:01.880 --> 01:24:03.500]   Christian or non-Christian,
+[01:24:03.500 --> 01:24:07.140]   that they're going to put aside any other relationship
+[01:24:07.140 --> 01:24:12.340]   outside of this relationship, anything romantic.
+[01:24:12.340 --> 01:24:15.100]   No one comes into the altar and say,
+[01:24:15.100 --> 01:24:17.400]   you know what, I'll try.
+[01:24:19.460 --> 01:24:21.100]   Then you shouldn't get married.
+[01:24:21.100 --> 01:24:21.940]   Why do you need to get married?
+[01:24:21.940 --> 01:24:23.500]   You don't come into the altar and say,
+[01:24:23.500 --> 01:24:25.580]   you know what, I feel strong today,
+[01:24:25.580 --> 01:24:27.340]   but I have no idea tomorrow.
+[01:24:27.340 --> 01:24:31.380]   No, then don't get married.
+[01:24:31.380 --> 01:24:32.500]   There's a covenant relationship.
+[01:24:32.500 --> 01:24:34.440]   Basically, you're publicly professing
+[01:24:34.440 --> 01:24:38.520]   that this wife, this husband, is going to be my sole love
+[01:24:38.520 --> 01:24:40.060]   for the rest of my life.
+[01:24:40.060 --> 01:24:44.660]   So how much more, when we have this covenant relationship
+[01:24:44.660 --> 01:24:48.580]   with this holy God, that we must be committed
+[01:24:49.460 --> 01:24:52.780]   that we will serve no other gods but him?
+[01:24:52.780 --> 01:24:58.020]   So a commitment to prayer is a commitment to surrender,
+[01:24:58.020 --> 01:25:02.060]   to recognize that he's my life, he's my hope,
+[01:25:02.060 --> 01:25:06.180]   that all the pain and sorrow that you may be experiencing
+[01:25:06.180 --> 01:25:09.560]   now, have experienced in the past,
+[01:25:09.560 --> 01:25:12.440]   and may be coming in the future,
+[01:25:12.440 --> 01:25:17.340]   that my hope is in Christ, in Christ alone,
+[01:25:18.460 --> 01:25:20.660]   that we would make this commitment together.
+[01:25:20.660 --> 01:25:22.100]   Commit in 2022.
+[01:25:22.100 --> 01:25:27.020]   So I wanna ask the praise team to come up,
+[01:25:27.020 --> 01:25:28.820]   and as the praise team comes up,
+[01:25:28.820 --> 01:25:32.480]   I wanna sing this song as our closing praise, closing song.
+[01:25:32.480 --> 01:25:33.820]   And you know this song well,
+[01:25:33.820 --> 01:25:35.300]   I Have Decided to Follow Jesus,
+[01:25:35.300 --> 01:25:36.220]   and I've shared this before,
+[01:25:36.220 --> 01:25:38.300]   but I wanna share again before we sing this,
+[01:25:38.300 --> 01:25:39.580]   and as we sing this,
+[01:25:39.580 --> 01:25:42.440]   that'd make this a dedication for our new year.
+[01:25:42.440 --> 01:25:45.420]   I have decided to follow Jesus,
+[01:25:45.420 --> 01:25:46.740]   I have decided to follow Jesus,
+[01:25:46.740 --> 01:25:48.740]   I have decided to follow Jesus,
+[01:25:48.740 --> 01:25:50.740]   no turning back, no turning back.
+[01:25:50.740 --> 01:25:52.660]   This is a very simple song that you probably,
+[01:25:52.660 --> 01:25:53.740]   if you grew up in the church,
+[01:25:53.740 --> 01:25:56.540]   you probably learned it in Sunday school.
+[01:25:56.540 --> 01:25:58.340]   But the background story behind this is,
+[01:25:58.340 --> 01:26:03.340]   it was composed by a missionary in 1889.
+[01:26:03.340 --> 01:26:04.980]   So it's been around a while,
+[01:26:04.980 --> 01:26:07.380]   but the reason why it got so popular,
+[01:26:07.380 --> 01:26:10.500]   is that when Christianity began to sweep through India,
+[01:26:10.500 --> 01:26:13.300]   in the remotest parts of the village,
+[01:26:13.300 --> 01:26:15.580]   this one particular family came to Christ,
+[01:26:15.580 --> 01:26:16.980]   and they were so excited about their faith,
+[01:26:16.980 --> 01:26:21.020]   they began to share it with their friends.
+[01:26:21.020 --> 01:26:22.020]   And so the village leader,
+[01:26:22.020 --> 01:26:24.540]   who was very hostile toward Christianity,
+[01:26:24.540 --> 01:26:28.620]   came out and basically got the crowd to be riled up,
+[01:26:28.620 --> 01:26:30.900]   and took all of his family,
+[01:26:30.900 --> 01:26:32.300]   and in the middle of the village,
+[01:26:32.300 --> 01:26:36.320]   threatened them that if you do not denounce your faith,
+[01:26:36.320 --> 01:26:39.220]   that your children and your wife is gonna give their life.
+[01:26:39.220 --> 01:26:42.380]   Well this man sat there and he said,
+[01:26:42.380 --> 01:26:44.380]   "I cannot deny my faith."
+[01:26:44.380 --> 01:26:46.940]   And he saw his children one by one,
+[01:26:46.940 --> 01:26:49.060]   martyred for their faith.
+[01:26:49.060 --> 01:26:52.320]   And then his wife, martyred for her faith.
+[01:26:52.320 --> 01:26:54.320]   And finally he turned to him and saying,
+[01:26:54.320 --> 01:26:55.580]   "If you do not denounce your faith,
+[01:26:55.580 --> 01:26:58.420]   "you also will lose your life."
+[01:26:58.420 --> 01:27:00.920]   And it is at that moment he began to sing this song,
+[01:27:00.920 --> 01:27:03.220]   "I have decided to follow Jesus."
+[01:27:03.220 --> 01:27:06.260]   "I have decided to follow Jesus."
+[01:27:06.260 --> 01:27:09.260]   No turning back, no turning back.
+[01:27:09.260 --> 01:27:12.380]   So when he said, "I have decided to follow Jesus,"
+[01:27:12.380 --> 01:27:15.080]   he's not saying that I'm gonna go to church on Sunday,
+[01:27:15.080 --> 01:27:20.560]   that I'm gonna give a portion of my wealth,
+[01:27:20.560 --> 01:27:22.160]   that I'm gonna serve the church.
+[01:27:22.160 --> 01:27:24.620]   He was facing death.
+[01:27:24.620 --> 01:27:29.520]   When he says, "No turning back," no turning back,
+[01:27:29.520 --> 01:27:32.540]   that he wasn't gonna surrender this new life,
+[01:27:32.540 --> 01:27:34.840]   in order to hold on to the life
+[01:27:34.840 --> 01:27:36.920]   that was about to be extinguished.
+[01:27:36.920 --> 01:27:40.180]   It was in that context he says,
+[01:27:40.180 --> 01:27:42.980]   "No turning back, no turning back."
+[01:27:42.980 --> 01:27:45.840]   The second verse says,
+[01:27:45.840 --> 01:27:49.620]   "Though none go with me, I still will follow."
+[01:27:49.620 --> 01:27:51.920]   "Though none go with me, I still will follow."
+[01:27:51.920 --> 01:27:56.220]   Lot of us wait until revival breaks out.
+[01:27:56.220 --> 01:28:00.260]   They wait until other people confess their faith.
+[01:28:00.260 --> 01:28:03.220]   That I need to be with other people
+[01:28:03.220 --> 01:28:04.780]   who are passionate for Christ.
+[01:28:04.780 --> 01:28:06.800]   And we're kind of on a holding pattern
+[01:28:06.800 --> 01:28:09.180]   until you see a movement happening,
+[01:28:09.180 --> 01:28:11.300]   and until there's a movement of prayer,
+[01:28:11.300 --> 01:28:13.140]   until there's a movement of revival,
+[01:28:13.140 --> 01:28:17.560]   movement of evangelism, you don't participate.
+[01:28:17.560 --> 01:28:23.700]   Sometimes our greatest hindrances are our own environment,
+[01:28:23.700 --> 01:28:25.720]   sometimes even in our own churches.
+[01:28:25.720 --> 01:28:29.780]   So when he says, "Though none go with me,
+[01:28:29.780 --> 01:28:31.200]   "I still will follow,"
+[01:28:31.200 --> 01:28:36.860]   even if sometimes your greatest hindrance
+[01:28:36.860 --> 01:28:37.940]   is your own husband.
+[01:28:38.500 --> 01:28:42.900]   Because you want to do this with him,
+[01:28:42.900 --> 01:28:45.620]   but he's not coming, so you're waiting.
+[01:28:45.620 --> 01:28:47.220]   Sometimes it's your own wife.
+[01:28:47.220 --> 01:28:49.580]   I want to passionately pursue Christ,
+[01:28:49.580 --> 01:28:54.060]   but I can't do it with her, so you're patiently waiting.
+[01:28:54.060 --> 01:28:56.980]   Or maybe my children are a little bit older,
+[01:28:56.980 --> 01:28:57.940]   and I can do this with them.
+[01:28:57.940 --> 01:29:02.280]   Or maybe my friends, or my church, or my leaders.
+[01:29:02.280 --> 01:29:05.860]   And we're just quietly, passively waiting
+[01:29:05.860 --> 01:29:08.220]   for revival to break out until there's a movement
+[01:29:08.220 --> 01:29:10.120]   so I can participate in this movement.
+[01:29:10.120 --> 01:29:14.860]   But every instance where God calls us,
+[01:29:14.860 --> 01:29:16.300]   he calls us one by one.
+[01:29:16.300 --> 01:29:22.180]   And sometimes it will be many people being called one by one.
+[01:29:22.180 --> 01:29:25.420]   Many times it may just be you.
+[01:29:25.420 --> 01:29:29.860]   Maybe not even with your own family, it may just be you.
+[01:29:29.860 --> 01:29:34.260]   Though none go with me, I still will follow.
+[01:29:34.260 --> 01:29:37.260]   Though none go with me, I still will follow.
+[01:29:37.260 --> 01:29:40.220]   No turning back, no turning back.
+[01:29:40.220 --> 01:29:45.040]   Third verse, the world behind me, though crossed before me.
+[01:29:45.040 --> 01:29:47.960]   As this man was singing this song,
+[01:29:47.960 --> 01:29:49.580]   when he says the world behind me,
+[01:29:49.580 --> 01:29:52.220]   he's talking about his life, his very breath.
+[01:29:52.220 --> 01:29:54.400]   It's behind me now.
+[01:29:54.400 --> 01:29:59.180]   Our greatest desire in this life
+[01:29:59.180 --> 01:30:02.860]   is not to live a long, peaceful, prosperous life.
+[01:30:03.860 --> 01:30:07.860]   That's the rat race that he saved us from.
+[01:30:07.860 --> 01:30:11.860]   It's that rat race that's killing us.
+[01:30:11.860 --> 01:30:14.420]   It's that rat race that's dividing us.
+[01:30:14.420 --> 01:30:16.420]   It's causing contentions in the family.
+[01:30:16.420 --> 01:30:20.380]   Sorrow, bitterness, all comes from a result
+[01:30:20.380 --> 01:30:23.020]   of not letting go of this rat race.
+[01:30:23.020 --> 01:30:26.740]   And so when he says the world behind me,
+[01:30:26.740 --> 01:30:28.800]   he's not simply talking about having nice things,
+[01:30:28.800 --> 01:30:30.340]   and good things, and reputation.
+[01:30:30.340 --> 01:30:32.460]   He says no, this whole thing.
+[01:30:33.020 --> 01:30:35.100]   That is under the judgment of God
+[01:30:35.100 --> 01:30:40.120]   is no longer a pursuit as a priority.
+[01:30:40.120 --> 01:30:42.680]   The world behind me.
+[01:30:42.680 --> 01:30:46.840]   And so now my pursuit is to cross before me.
+[01:30:46.840 --> 01:30:51.820]   No turning back, no turning back.
+[01:30:51.820 --> 01:30:53.700]   So this morning as we sing this song,
+[01:30:53.700 --> 01:30:57.420]   that this would be our confession.
+[01:30:57.420 --> 01:31:00.360]   Even though we may not be practicing it perfectly,
+[01:31:01.700 --> 01:31:04.220]   that this has to be our pursuit.
+[01:31:04.220 --> 01:31:09.340]   To make 2022 a year where you are deliberately,
+[01:31:09.340 --> 01:31:14.340]   specifically, and passionately pursuing Christ
+[01:31:14.340 --> 01:31:16.500]   above everything else.
+[01:31:16.500 --> 01:31:21.820]   Above your job, above your marriage,
+[01:31:21.820 --> 01:31:27.820]   above your children, above your career,
+[01:31:27.860 --> 01:31:32.580]   to make the pursuit of Christ the most important thing
+[01:31:32.580 --> 01:31:34.640]   that I do every single day.
+[01:31:34.640 --> 01:31:38.180]   So why don't we rise up together,
+[01:31:38.180 --> 01:31:42.980]   and as we sing this song, may it be our proclamation,
+[01:31:42.980 --> 01:31:46.760]   may it be our confession for this coming year, 2022.
+[01:31:46.760 --> 01:31:55.640]   (gentle music)
+[01:31:55.640 --> 01:31:58.220]   (gentle music)
+[01:31:58.220 --> 01:32:12.120]   ♪ I have decided to follow Jesus ♪
+[01:32:12.120 --> 01:32:19.720]   ♪ I have decided to follow Jesus ♪
+[01:32:22.480 --> 01:32:27.480]   ♪ I have decided to follow Jesus ♪
+[01:32:27.480 --> 01:32:35.240]   ♪ No turning back, no turning back ♪
+[01:32:35.240 --> 01:32:42.200]   ♪ No turning back, no turning back ♪
+[01:32:42.200 --> 01:32:45.040]   ♪ No turning back ♪
+[01:32:45.040 --> 01:33:02.400]   ♪ Though not go with me, still I will follow ♪
+[01:33:02.400 --> 01:33:10.080]   ♪ Though not go with me, still I will follow ♪
+[01:33:10.600 --> 01:33:15.600]   ♪ Though not go with me, still I will follow ♪
+[01:33:15.600 --> 01:33:25.480]   ♪ No turning back, no turning back ♪
+[01:33:25.480 --> 01:33:32.360]   ♪ No turning back, no turning back ♪
+[01:33:32.520 --> 01:33:35.280]   ♪ No turning back ♪
+[01:33:35.280 --> 01:33:47.760]   ♪ The world behind me ♪
+[01:33:47.760 --> 01:33:52.760]   ♪ The world behind me, the cross before me ♪
+[01:33:52.760 --> 01:34:00.480]   ♪ The world behind me, the cross before me ♪
+[01:34:00.480 --> 01:34:05.480]   ♪ The world behind me, the cross before me ♪
+[01:34:05.480 --> 01:34:15.960]   ♪ No turning back, no turning back ♪
+[01:34:15.960 --> 01:34:22.480]   ♪ No turning back, no turning back ♪
+[01:34:22.480 --> 01:34:25.400]   ♪ No turning back ♪
+[01:34:25.400 --> 01:34:27.400]   Let's pray.
+[01:34:27.400 --> 01:34:29.980]   (gentle music)
+[01:34:29.980 --> 01:34:34.480]   Now to him who is able to do far more abundantly
+[01:34:34.480 --> 01:34:37.520]   beyond all that we ask or think,
+[01:34:37.520 --> 01:34:39.720]   according to the power that works within us,
+[01:34:39.720 --> 01:34:43.200]   to him be the glory in the church and in Christ Jesus
+[01:34:43.200 --> 01:34:47.360]   to all generations forever and ever, amen.
+[01:34:47.360 --> 01:34:54.200]   ♪ God sent his son ♪
+[01:34:54.200 --> 01:34:58.880]   ♪ They called him Jesus ♪
+[01:34:58.880 --> 01:35:03.880]   ♪ He came to love, heal and forgive ♪
+[01:35:03.880 --> 01:35:12.440]   ♪ He lived and died ♪
+[01:35:12.440 --> 01:35:17.080]   ♪ To buy my pardon ♪
+[01:35:17.080 --> 01:35:22.080]   ♪ An empty grave is there to prove my Savior lives ♪
+[01:35:22.080 --> 01:35:26.000]   ♪ Savior lives ♪
+[01:35:26.000 --> 01:35:30.520]   ♪ Because he lives ♪
+[01:35:30.520 --> 01:35:35.000]   ♪ I can face tomorrow ♪
+[01:35:35.000 --> 01:35:39.480]   ♪ Because he lives ♪
+[01:35:39.480 --> 01:35:43.960]   ♪ All fear is gone ♪
+[01:35:43.960 --> 01:35:48.320]   ♪ Because I know ♪
+[01:35:48.320 --> 01:35:52.720]   ♪ He holds the future ♪
+[01:35:52.720 --> 01:35:56.800]   ♪ And life is worth the living ♪
+[01:35:56.800 --> 01:36:00.200]   ♪ Just because he lives ♪
+[01:36:00.200 --> 01:36:03.200]   Amen.
+[01:36:03.200 --> 01:36:09.420]   (gentle music)
+[01:36:09.420 --> 01:36:12.420]   (people chattering)
+[01:36:13.420 --> 01:36:16.000]   (gentle music)
+[01:36:16.960 --> 01:36:19.960]   (people chattering)
+[01:36:20.960 --> 01:36:23.540]   (gentle music)
+[01:36:23.540 --> 01:36:26.540]   ♪ And grace has won ♪
+[01:36:27.540 --> 01:36:30.120]   (gentle music)
+[01:36:30.120 --> 01:36:33.120]   (people chattering)
+[01:36:33.120 --> 01:36:35.700]   (gentle music)
+[01:36:35.700 --> 01:36:38.700]   (people chattering)
+[01:36:38.700 --> 01:36:41.280]   (gentle music)
+[01:36:41.280 --> 01:36:44.280]   (people chattering)
+[01:36:44.280 --> 01:36:46.860]   (gentle music)
+[01:36:46.860 --> 01:36:49.440]   (upbeat music)
+[01:36:49.440 --> 01:36:51.200]   [MUSIC PLAYING]
+

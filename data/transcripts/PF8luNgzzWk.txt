@@ -1,0 +1,919 @@
+
+[00:00:00.000 --> 00:00:10.000]   [BLANK_AUDIO]
+[00:00:10.000 --> 00:00:20.000]   [BLANK_AUDIO]
+[00:00:20.000 --> 00:00:30.000]   [BLANK_AUDIO]
+[00:00:30.000 --> 00:00:40.000]   [BLANK_AUDIO]
+[00:00:40.000 --> 00:00:50.000]   [BLANK_AUDIO]
+[00:00:50.000 --> 00:01:00.000]   [BLANK_AUDIO]
+[00:01:00.000 --> 00:01:10.000]   [BLANK_AUDIO]
+[00:01:10.000 --> 00:01:20.000]   [BLANK_AUDIO]
+[00:01:20.000 --> 00:01:30.000]   [BLANK_AUDIO]
+[00:01:30.000 --> 00:01:40.000]   [BLANK_AUDIO]
+[00:01:40.000 --> 00:01:50.000]   [BLANK_AUDIO]
+[00:01:50.000 --> 00:02:00.000]   [BLANK_AUDIO]
+[00:02:00.000 --> 00:02:10.000]   [BLANK_AUDIO]
+[00:02:10.000 --> 00:02:20.000]   [BLANK_AUDIO]
+[00:02:20.000 --> 00:02:30.000]   [BLANK_AUDIO]
+[00:02:30.000 --> 00:02:40.000]   [BLANK_AUDIO]
+[00:02:40.000 --> 00:02:50.000]   [BLANK_AUDIO]
+[00:02:50.000 --> 00:03:00.000]   [BLANK_AUDIO]
+[00:03:00.000 --> 00:03:10.000]   [BLANK_AUDIO]
+[00:03:10.000 --> 00:03:20.000]   [BLANK_AUDIO]
+[00:03:20.000 --> 00:03:30.000]   [BLANK_AUDIO]
+[00:03:30.000 --> 00:03:40.000]   [BLANK_AUDIO]
+[00:03:40.000 --> 00:03:50.000]   [BLANK_AUDIO]
+[00:03:50.000 --> 00:04:00.000]   [BLANK_AUDIO]
+[00:04:00.000 --> 00:04:10.000]   [BLANK_AUDIO]
+[00:04:10.000 --> 00:04:20.000]   [BLANK_AUDIO]
+[00:04:20.000 --> 00:04:30.000]   [BLANK_AUDIO]
+[00:04:30.000 --> 00:04:40.000]   [BLANK_AUDIO]
+[00:04:40.000 --> 00:04:50.000]   [BLANK_AUDIO]
+[00:04:50.000 --> 00:05:00.000]   [BLANK_AUDIO]
+[00:05:00.000 --> 00:05:10.000]   [BLANK_AUDIO]
+[00:05:10.000 --> 00:05:20.000]   [BLANK_AUDIO]
+[00:05:20.000 --> 00:05:30.000]   [BLANK_AUDIO]
+[00:05:30.000 --> 00:05:40.000]   [BLANK_AUDIO]
+[00:05:40.000 --> 00:05:50.000]   [BLANK_AUDIO]
+[00:05:50.000 --> 00:06:00.000]   [BLANK_AUDIO]
+[00:06:00.000 --> 00:06:10.000]   [BLANK_AUDIO]
+[00:06:10.000 --> 00:06:20.000]   [BLANK_AUDIO]
+[00:06:20.000 --> 00:06:30.000]   [BLANK_AUDIO]
+[00:06:30.000 --> 00:06:40.000]   [BLANK_AUDIO]
+[00:06:40.000 --> 00:06:50.000]   [BLANK_AUDIO]
+[00:06:50.000 --> 00:07:00.000]   [BLANK_AUDIO]
+[00:07:00.000 --> 00:07:10.000]   [BLANK_AUDIO]
+[00:07:10.000 --> 00:07:20.000]   [BLANK_AUDIO]
+[00:07:20.000 --> 00:07:30.000]   [BLANK_AUDIO]
+[00:07:30.000 --> 00:07:40.000]   [BLANK_AUDIO]
+[00:07:40.000 --> 00:07:50.000]   [BLANK_AUDIO]
+[00:07:50.000 --> 00:08:00.000]   [BLANK_AUDIO]
+[00:08:00.000 --> 00:08:10.000]   [BLANK_AUDIO]
+[00:08:10.000 --> 00:08:20.000]   [BLANK_AUDIO]
+[00:08:20.000 --> 00:08:30.000]   [BLANK_AUDIO]
+[00:08:30.000 --> 00:08:40.000]   [BLANK_AUDIO]
+[00:08:40.000 --> 00:08:50.000]   [BLANK_AUDIO]
+[00:08:50.000 --> 00:09:00.000]   [BLANK_AUDIO]
+[00:09:00.000 --> 00:09:10.000]   [BLANK_AUDIO]
+[00:09:10.000 --> 00:09:20.000]   [BLANK_AUDIO]
+[00:09:20.000 --> 00:09:30.000]   [BLANK_AUDIO]
+[00:09:30.000 --> 00:09:40.000]   [BLANK_AUDIO]
+[00:09:40.000 --> 00:09:50.000]   [BLANK_AUDIO]
+[00:09:50.000 --> 00:10:00.000]   [BLANK_AUDIO]
+[00:10:00.000 --> 00:10:10.000]   [BLANK_AUDIO]
+[00:10:10.000 --> 00:10:20.000]   [BLANK_AUDIO]
+[00:10:20.000 --> 00:10:30.000]   [BLANK_AUDIO]
+[00:10:30.000 --> 00:10:40.000]   [BLANK_AUDIO]
+[00:10:40.000 --> 00:10:50.000]   [BLANK_AUDIO]
+[00:10:50.000 --> 00:11:00.000]   [BLANK_AUDIO]
+[00:11:00.000 --> 00:11:10.000]   [BLANK_AUDIO]
+[00:11:10.000 --> 00:11:20.000]   [BLANK_AUDIO]
+[00:11:20.000 --> 00:11:30.000]   [BLANK_AUDIO]
+[00:11:30.000 --> 00:11:40.000]   [BLANK_AUDIO]
+[00:11:40.000 --> 00:11:50.000]   [BLANK_AUDIO]
+[00:11:50.000 --> 00:12:00.000]   [BLANK_AUDIO]
+[00:12:00.000 --> 00:12:10.000]   [BLANK_AUDIO]
+[00:12:10.000 --> 00:12:20.000]   [BLANK_AUDIO]
+[00:12:20.000 --> 00:12:30.000]   [BLANK_AUDIO]
+[00:12:30.000 --> 00:12:40.000]   [BLANK_AUDIO]
+[00:12:40.000 --> 00:12:50.000]   [BLANK_AUDIO]
+[00:12:50.000 --> 00:13:00.000]   [BLANK_AUDIO]
+[00:13:00.000 --> 00:13:10.000]   [BLANK_AUDIO]
+[00:13:10.000 --> 00:13:20.000]   [BLANK_AUDIO]
+[00:13:20.000 --> 00:13:30.000]   [BLANK_AUDIO]
+[00:13:30.000 --> 00:13:40.000]   [BLANK_AUDIO]
+[00:13:40.000 --> 00:13:50.000]   [BLANK_AUDIO]
+[00:13:50.000 --> 00:14:00.000]   [BLANK_AUDIO]
+[00:14:00.000 --> 00:14:10.000]   [BLANK_AUDIO]
+[00:14:10.000 --> 00:14:20.000]   [BLANK_AUDIO]
+[00:14:20.000 --> 00:14:30.000]   [BLANK_AUDIO]
+[00:14:30.000 --> 00:14:40.000]   [BLANK_AUDIO]
+[00:14:40.000 --> 00:14:50.000]   [BLANK_AUDIO]
+[00:14:50.000 --> 00:15:00.000]   [BLANK_AUDIO]
+[00:15:00.000 --> 00:15:10.000]   [BLANK_AUDIO]
+[00:15:10.000 --> 00:15:20.000]   [BLANK_AUDIO]
+[00:15:20.000 --> 00:15:30.000]   [BLANK_AUDIO]
+[00:15:30.000 --> 00:15:37.000]   [BLANK_AUDIO]
+[00:15:37.000 --> 00:15:39.000]   >> Let's all rise together.
+[00:15:39.000 --> 00:15:42.000]   Thank you for joining us.
+[00:15:42.000 --> 00:15:45.000]   It's been a while since we've had our praise and prayer.
+[00:15:45.000 --> 00:15:47.000]   I'm gonna go ahead and pray and we'll get started.
+[00:15:47.000 --> 00:15:48.000]   Let's pray together.
+[00:15:48.000 --> 00:15:57.000]   Gracious God, we thank you for the time where we can gather together to spend worshiping and singing songs,
+[00:15:57.000 --> 00:16:07.000]   listening to your word and really spending time praying for various things going on in our own lives as well as the world around us.
+[00:16:07.000 --> 00:16:16.000]   We thank you, Lord God, that we can come together and still gather freely without the fear of physical harm.
+[00:16:16.000 --> 00:16:20.000]   From persecution or anything like that.
+[00:16:20.000 --> 00:16:26.000]   But Lord, you've given us access to you, Lord, through the blood of Christ.
+[00:16:26.000 --> 00:16:33.000]   We have a restored relationship with you because of your great mercy and grace upon our lives.
+[00:16:33.000 --> 00:16:40.000]   And Lord, we wanna take this evening, Lord God, to honor you with every breath that we breathe.
+[00:16:40.000 --> 00:16:46.000]   I pray, Lord God, that as we sing these songs, as we reflect on the words that we sing,
+[00:16:46.000 --> 00:16:57.000]   as we hear the word of God through Pastor Peter Chung's encouragement and challenge, I pray that you give us softened hearts.
+[00:16:57.000 --> 00:17:04.000]   As well, Lord God, help us to really focus on having softened hearts to pray.
+[00:17:04.000 --> 00:17:11.000]   Lord, we know that is the work, we know, Lord God, that is the effective way of conducting ministry.
+[00:17:11.000 --> 00:17:20.000]   So I pray, Lord God, that as we honor you through this time of at least worship, may it be a sweet sound unto your ear and may you be blessed.
+[00:17:20.000 --> 00:17:22.000]   It's in Christ's name we pray. Amen.
+[00:17:29.000 --> 00:17:32.000]   The lyrics are all in your app, so if you guys can open that.
+[00:17:33.000 --> 00:17:35.000]   So, "Who has held?"
+[00:17:36.000 --> 00:17:42.000]   Who has held the oceans in His hand?
+[00:17:42.000 --> 00:17:49.000]   Who has numbered every grain of sand?
+[00:17:49.000 --> 00:17:56.000]   Kings and nations tremble at His voice.
+[00:17:56.000 --> 00:18:03.000]   All creation rises to rejoice.
+[00:18:03.000 --> 00:18:10.000]   And behold, behold our God.
+[00:18:10.000 --> 00:18:18.000]   Seated on His throne, come let us adore Him.
+[00:18:18.000 --> 00:18:24.000]   Behold our King.
+[00:18:24.000 --> 00:18:27.000]   Nothing can compare.
+[00:18:27.000 --> 00:18:34.000]   Come let us adore Him.
+[00:18:34.000 --> 00:18:46.000]   Who has given counsel to the Lord?
+[00:18:46.000 --> 00:18:53.000]   Who has given counsel to the Lord?
+[00:18:53.000 --> 00:19:00.000]   Who can question any of His words?
+[00:19:00.000 --> 00:19:07.000]   Who can teach the One who knows all things?
+[00:19:07.000 --> 00:19:15.000]   Who can fathom all His wondrous deeds?
+[00:19:15.000 --> 00:19:21.000]   Behold our God.
+[00:19:21.000 --> 00:19:29.000]   Seated on His throne, come let us adore Him.
+[00:19:29.000 --> 00:19:34.000]   Behold our King.
+[00:19:34.000 --> 00:19:38.000]   Nothing can compare.
+[00:19:38.000 --> 00:19:45.000]   Come let us adore Him.
+[00:19:45.000 --> 00:20:03.000]   Who has felt the nails upon His hands?
+[00:20:03.000 --> 00:20:10.000]   Bearing all the guilt of sinful men.
+[00:20:10.000 --> 00:20:17.000]   God eternal, humble to the grave.
+[00:20:17.000 --> 00:20:24.000]   Jesus Savior, risen now to reign.
+[00:20:24.000 --> 00:20:31.000]   And behold, behold our God.
+[00:20:31.000 --> 00:20:39.000]   Seated on His throne, come let us adore Him.
+[00:20:39.000 --> 00:20:44.000]   Behold our King.
+[00:20:44.000 --> 00:20:48.000]   Nothing can compare.
+[00:20:48.000 --> 00:20:53.000]   Come let us adore Him.
+[00:20:53.000 --> 00:20:58.000]   Behold our God.
+[00:20:58.000 --> 00:21:06.000]   Seated on His throne, come let us adore Him.
+[00:21:06.000 --> 00:21:12.000]   Behold our King.
+[00:21:12.000 --> 00:21:15.000]   Nothing can compare.
+[00:21:15.000 --> 00:21:22.000]   Come let us adore Him.
+[00:21:23.000 --> 00:21:26.000]   Amen.
+[00:21:26.000 --> 00:21:43.000]   Light of the world, you step down into darkness.
+[00:21:43.000 --> 00:21:50.000]   Open my eyes, let me see.
+[00:21:50.000 --> 00:21:58.000]   The beauty that made this heart adore you.
+[00:21:58.000 --> 00:22:06.000]   Hope of a life spent with you.
+[00:22:06.000 --> 00:22:10.000]   So here I am to worship.
+[00:22:10.000 --> 00:22:14.000]   Here I am to bow down.
+[00:22:14.000 --> 00:22:21.000]   Here I am to say that you're my God.
+[00:22:21.000 --> 00:22:28.000]   You're altogether lovely, altogether worthy.
+[00:22:28.000 --> 00:22:35.000]   Altogether wonderful to me.
+[00:22:37.000 --> 00:22:44.000]   King of all days, oh so highly exalted.
+[00:22:44.000 --> 00:22:49.000]   Glorious in heaven above.
+[00:22:49.000 --> 00:22:51.000]   Humbly you came.
+[00:22:51.000 --> 00:22:58.000]   Humbly you came to the earth you created.
+[00:22:58.000 --> 00:23:05.000]   All for love's sake became whole.
+[00:23:06.000 --> 00:23:10.000]   So here I am to worship.
+[00:23:10.000 --> 00:23:14.000]   Here I am to bow down.
+[00:23:14.000 --> 00:23:20.000]   Here I am to say that you're my God.
+[00:23:20.000 --> 00:23:28.000]   You're altogether lovely, altogether worthy.
+[00:23:28.000 --> 00:23:35.000]   Altogether wonderful to me.
+[00:23:35.000 --> 00:23:43.000]   I'll never know how much it cost
+[00:23:43.000 --> 00:23:50.000]   to see my sin upon that cross.
+[00:23:50.000 --> 00:23:58.000]   And I'll never know how much it cost
+[00:23:58.000 --> 00:24:05.000]   to see my sin upon that cross.
+[00:24:05.000 --> 00:24:11.000]   So here I am to worship.
+[00:24:11.000 --> 00:24:14.000]   Here I am to bow down.
+[00:24:14.000 --> 00:24:21.000]   Here I am to say that you're my God.
+[00:24:21.000 --> 00:24:28.000]   You're altogether lovely, altogether worthy.
+[00:24:28.000 --> 00:24:33.000]   Altogether wonderful to me.
+[00:24:33.000 --> 00:24:35.000]   One more time, here I am.
+[00:24:35.000 --> 00:24:38.000]   Here I am to worship.
+[00:24:38.000 --> 00:24:42.000]   Here I am to bow down.
+[00:24:42.000 --> 00:24:48.000]   Here I am to say that you're my God.
+[00:24:48.000 --> 00:24:55.000]   You're altogether lovely, altogether worthy.
+[00:24:55.000 --> 00:25:02.000]   Altogether wonderful to me.
+[00:25:02.000 --> 00:25:10.000]   You're altogether lovely, altogether worthy.
+[00:25:10.000 --> 00:25:17.000]   Altogether wonderful to me.
+[00:25:38.000 --> 00:25:45.000]   Worthy of every song we could ever sing.
+[00:25:45.000 --> 00:25:52.000]   Worthy of all the praise we could ever bring.
+[00:25:52.000 --> 00:25:57.000]   Worthy of every breath we could ever breathe.
+[00:25:57.000 --> 00:26:01.000]   We live for you.
+[00:26:06.000 --> 00:26:13.000]   Jesus, the name above every other name.
+[00:26:13.000 --> 00:26:18.000]   Jesus, the only one who could ever sing.
+[00:26:18.000 --> 00:26:20.000]   He's worthy.
+[00:26:20.000 --> 00:26:24.000]   Worthy of every breath we could ever breathe.
+[00:26:24.000 --> 00:26:27.000]   We live for you.
+[00:26:27.000 --> 00:26:30.000]   Oh, we live for you.
+[00:26:32.000 --> 00:26:37.000]   Holy, there is no one like you.
+[00:26:37.000 --> 00:26:41.000]   There is none beside you.
+[00:26:41.000 --> 00:26:46.000]   Open up my eyes in wonder.
+[00:26:46.000 --> 00:26:53.000]   Show me who you are and fill me with your heart.
+[00:26:53.000 --> 00:27:00.000]   And lead me in your love to those who are idle.
+[00:27:00.000 --> 00:27:10.000]   [Guitar playing]
+[00:27:10.000 --> 00:27:12.000]   Sing it out one more time, worthy.
+[00:27:12.000 --> 00:27:16.000]   [Guitar playing]
+[00:27:16.000 --> 00:27:23.000]   Worthy of every song we could ever sing.
+[00:27:23.000 --> 00:27:29.000]   Worthy of all the praise we could ever bring.
+[00:27:29.000 --> 00:27:34.000]   Worthy of every breath we could ever breathe.
+[00:27:34.000 --> 00:27:37.000]   We live for you.
+[00:27:37.000 --> 00:27:41.000]   Sing it out, Jesus, the name.
+[00:27:41.000 --> 00:27:48.000]   Jesus, the name above every other name.
+[00:27:48.000 --> 00:27:55.000]   Jesus, the only one who could ever sing.
+[00:27:55.000 --> 00:27:57.000]   He's worthy.
+[00:27:57.000 --> 00:28:02.000]   Worthy of every breath we could ever breathe.
+[00:28:02.000 --> 00:28:04.000]   We live for you.
+[00:28:04.000 --> 00:28:07.000]   Oh, we live for you.
+[00:28:07.000 --> 00:28:15.000]   Holy, there is no one like you.
+[00:28:15.000 --> 00:28:19.000]   There is none beside you.
+[00:28:19.000 --> 00:28:24.000]   Open up my eyes in wonder.
+[00:28:24.000 --> 00:28:31.000]   Show me who you are and fill me with your heart.
+[00:28:31.000 --> 00:28:38.000]   And lead me in your love to those around me.
+[00:28:38.000 --> 00:28:50.000]   [Guitar playing]
+[00:28:50.000 --> 00:28:52.000]   I will build.
+[00:28:52.000 --> 00:29:00.000]   I will build my life upon your love.
+[00:29:00.000 --> 00:29:06.000]   It is a firm foundation.
+[00:29:06.000 --> 00:29:14.000]   I will put my trust in you alone.
+[00:29:14.000 --> 00:29:18.000]   And I will not be shaken.
+[00:29:18.000 --> 00:29:20.000]   I will build.
+[00:29:20.000 --> 00:29:27.000]   I will build my life upon your love.
+[00:29:27.000 --> 00:29:33.000]   It is a firm foundation.
+[00:29:33.000 --> 00:29:41.000]   I will put my trust in you alone.
+[00:29:41.000 --> 00:29:47.000]   And I will not be shaken.
+[00:29:47.000 --> 00:29:52.000]   Holy, there is no one like you.
+[00:29:52.000 --> 00:29:56.000]   There is none beside you.
+[00:29:56.000 --> 00:30:01.000]   Open up my eyes in wonder.
+[00:30:01.000 --> 00:30:08.000]   Show me who you are and fill me with your heart.
+[00:30:08.000 --> 00:30:16.000]   And lead me in your love to those around me.
+[00:30:17.000 --> 00:30:18.000]   Amen.
+[00:30:18.000 --> 00:30:20.000]   You may be seated.
+[00:30:20.000 --> 00:30:31.000]   All right, good evening, everybody.
+[00:30:31.000 --> 00:30:35.000]   Why don't we go ahead and start with a word of prayer.
+[00:30:45.000 --> 00:30:47.000]   Father, we are so thankful.
+[00:30:47.000 --> 00:31:05.000]   That you allow us to gather.
+[00:31:09.000 --> 00:31:16.000]   We pray that as we gather and as we pray and as we reflect on
+[00:31:16.000 --> 00:31:22.000]   the truths that we see in scripture, Lord,
+[00:31:22.000 --> 00:31:26.000]   that you would be honored.
+[00:31:26.000 --> 00:31:28.000]   That we would be changed.
+[00:31:28.000 --> 00:31:35.000]   And that in our changed lives, Lord,
+[00:31:35.000 --> 00:31:39.000]   that you would receive the glory that you are due.
+[00:31:39.000 --> 00:31:47.000]   We thank you for tonight.
+[00:31:47.000 --> 00:31:50.000]   Would you lead it?
+[00:31:50.000 --> 00:31:56.000]   Would you guide it and help us to pray?
+[00:31:56.000 --> 00:32:01.000]   Lord, we are here longing to draw intimately close to our
+[00:32:01.000 --> 00:32:03.000]   Abba Father.
+[00:32:03.000 --> 00:32:08.000]   So we thank you for an opportunity this evening just to
+[00:32:08.000 --> 00:32:09.000]   worship.
+[00:32:09.000 --> 00:32:11.000]   We love you, Lord.
+[00:32:11.000 --> 00:32:14.000]   We pray these things in Jesus' name.
+[00:32:14.000 --> 00:32:15.000]   Amen.
+[00:32:15.000 --> 00:32:20.000]   Well, welcome to the first praise and prayer we have had since
+[00:32:20.000 --> 00:32:22.000]   March 6th.
+[00:32:22.000 --> 00:32:26.000]   I led the prayer time that night and I gave the devotional.
+[00:32:26.000 --> 00:32:31.000]   And so I remember briefly talking about COVID-19 and it's been a
+[00:32:31.000 --> 00:32:34.000]   very crazy five months since.
+[00:32:34.000 --> 00:32:36.000]   And so for our praise and prayers,
+[00:32:36.000 --> 00:32:40.000]   we were supposed to go through like one point each month of the
+[00:32:40.000 --> 00:32:44.000]   Lord's Prayer, but we only got to the first one.
+[00:32:44.000 --> 00:32:46.000]   Our Father in heaven, hallowed be your name,
+[00:32:46.000 --> 00:32:48.000]   your kingdom come.
+[00:32:48.000 --> 00:32:52.000]   And that night we prayed over being kingdom-centered individuals,
+[00:32:52.000 --> 00:32:54.000]   kingdom-centered affinity groups,
+[00:32:54.000 --> 00:32:56.000]   kingdom-centered church.
+[00:32:56.000 --> 00:33:00.000]   And if you recall, our theme was, for the year,
+[00:33:00.000 --> 00:33:02.000]   was to know him and to make him known.
+[00:33:02.000 --> 00:33:04.000]   And so we prayed for that too.
+[00:33:04.000 --> 00:33:09.000]   We prayed for our gospel night, which has since been postponed.
+[00:33:09.000 --> 00:33:14.000]   We prayed for our missionaries who have since been relocated or have
+[00:33:14.000 --> 00:33:15.000]   returned.
+[00:33:15.000 --> 00:33:18.000]   And we prayed for the children of our church,
+[00:33:18.000 --> 00:33:22.000]   most of whom we haven't seen in person in over five months.
+[00:33:22.000 --> 00:33:26.000]   So since then, everything around us kind of fell out of sorts.
+[00:33:26.000 --> 00:33:31.000]   And needless to say, 2020 hasn't necessarily gone the way we thought it
+[00:33:31.000 --> 00:33:32.000]   would go.
+[00:33:32.000 --> 00:33:35.000]   And here we are in the middle of August in the new normal.
+[00:33:35.000 --> 00:33:39.000]   And all over our media feeds,
+[00:33:39.000 --> 00:33:46.000]   there's so much more noise concerning the upcoming elections,
+[00:33:46.000 --> 00:33:48.000]   COVID-19, racial issues,
+[00:33:48.000 --> 00:33:51.000]   debates over the importance of masks,
+[00:33:51.000 --> 00:33:53.000]   concerns over opening schools,
+[00:33:53.000 --> 00:33:56.000]   concerns over church services.
+[00:33:56.000 --> 00:34:00.000]   And church people are all over the place on all of these things.
+[00:34:00.000 --> 00:34:04.000]   And it's not just for us here in California, but all over the states.
+[00:34:04.000 --> 00:34:08.000]   And I actually have a bunch of Christian friends in the Philippines
+[00:34:08.000 --> 00:34:13.000]   currently arguing over John MacArthur and the Grace Community Church.
+[00:34:13.000 --> 00:34:16.000]   I find it hilarious because they're not even around and they're fighting
+[00:34:16.000 --> 00:34:19.000]   over if this is wise or unwise.
+[00:34:19.000 --> 00:34:22.000]   And I don't know about you,
+[00:34:22.000 --> 00:34:27.000]   but I'm regularly finding myself disheartened when I scroll through
+[00:34:27.000 --> 00:34:29.000]   Facebook or read the news.
+[00:34:29.000 --> 00:34:31.000]   On one particular day,
+[00:34:31.000 --> 00:34:36.000]   I felt very burdened and my heart was very heavy.
+[00:34:36.000 --> 00:34:40.000]   And there was a prayer that I prayed, "Lord, I know you are sovereign.
+[00:34:40.000 --> 00:34:43.000]   I trust you.
+[00:34:43.000 --> 00:34:46.000]   But what is going on?"
+[00:34:46.000 --> 00:34:52.000]   I'm growing weary, I'm sad, and I'm discouraged.
+[00:34:52.000 --> 00:34:56.000]   And he brought to my attention John chapter 14.
+[00:34:56.000 --> 00:35:01.000]   And I want to share a few reflections on John 14 tonight
+[00:35:01.000 --> 00:35:03.000]   before we spend some time praying together.
+[00:35:03.000 --> 00:35:09.000]   And because we don't have the projection screens out here as we normally would,
+[00:35:09.000 --> 00:35:12.000]   you're going to have to keep your Bibles open to John 14
+[00:35:12.000 --> 00:35:14.000]   and kind of follow along with me, okay?
+[00:35:14.000 --> 00:35:17.000]   So I'm going to start with John 14, 1 through 6.
+[00:35:17.000 --> 00:35:23.000]   It reads, "Do not let your heart be troubled.
+[00:35:23.000 --> 00:35:25.000]   Believe in God.
+[00:35:25.000 --> 00:35:28.000]   Believe also in me.
+[00:35:28.000 --> 00:35:32.000]   In my Father's house are many dwelling places, and if it were not so,
+[00:35:32.000 --> 00:35:34.000]   I would have told you.
+[00:35:34.000 --> 00:35:36.000]   For I go to prepare a place for you.
+[00:35:36.000 --> 00:35:41.000]   If I go and prepare a place for you, I will come again and receive you to myself,
+[00:35:41.000 --> 00:35:45.000]   that where I am, there you may be also.
+[00:35:45.000 --> 00:35:49.000]   And you know the way where I am going."
+[00:35:49.000 --> 00:35:52.000]   Thomas said to him, "Lord, we do not know where you are going.
+[00:35:52.000 --> 00:35:54.000]   How do we know the way?"
+[00:35:54.000 --> 00:35:59.000]   And Jesus said to him, "I am the way, the truth, and the life.
+[00:35:59.000 --> 00:36:03.000]   No one comes to the Father but through me."
+[00:36:03.000 --> 00:36:06.000]   So Jesus says, "Do not let your heart be troubled.
+[00:36:06.000 --> 00:36:07.000]   Believe in God.
+[00:36:07.000 --> 00:36:08.000]   Believe also in me."
+[00:36:08.000 --> 00:36:10.000]   And then he says, "I am the way, the truth, and the life.
+[00:36:10.000 --> 00:36:12.000]   No one comes to the Father but through me."
+[00:36:12.000 --> 00:36:15.000]   And you guys know John 14 6, right?
+[00:36:15.000 --> 00:36:18.000]   It's on a lot of, like, gospel tracts.
+[00:36:18.000 --> 00:36:22.000]   It's used to, like, show the exclusivity of Christ.
+[00:36:22.000 --> 00:36:26.000]   But more than being a soteriological, like, salvation-based, like,
+[00:36:26.000 --> 00:36:32.000]   a text statement, John 14 6 is primarily a word of comfort to his troubled
+[00:36:32.000 --> 00:36:36.000]   disciples, as you will see in the overall context of John 14.
+[00:36:36.000 --> 00:36:42.000]   So just, if you're just scanning with your eye, chapter 13 ends with Jesus
+[00:36:42.000 --> 00:36:45.000]   telling his disciples that he's going away.
+[00:36:45.000 --> 00:36:49.000]   And the chapter also ends with the apostle Peter, the leader of the disciples,
+[00:36:49.000 --> 00:36:53.000]   being told that he would deny Jesus three times.
+[00:36:53.000 --> 00:36:59.000]   And all of this behind the backdrop of Judas the betrayer having been sent away.
+[00:36:59.000 --> 00:37:05.000]   So if you and I were there at that time, I believe that we would be troubled too.
+[00:37:05.000 --> 00:37:08.000]   We would be a bit perplexed, a bit sad, a bit confused.
+[00:37:08.000 --> 00:37:10.000]   We know Christ is king.
+[00:37:10.000 --> 00:37:11.000]   We know God is sovereign.
+[00:37:11.000 --> 00:37:18.000]   And yet, our sovereign king foretells that strange things are going to happen
+[00:37:18.000 --> 00:37:23.000]   and that it's actually better for him, amidst all of these strange things,
+[00:37:23.000 --> 00:37:27.000]   that he is physically going away.
+[00:37:27.000 --> 00:37:31.000]   And so you would agree that currently you and I are living in kind of
+[00:37:31.000 --> 00:37:36.000]   unsettling times, and we too aren't quite sure what our sovereign king is doing
+[00:37:36.000 --> 00:37:38.000]   in the world.
+[00:37:38.000 --> 00:37:41.000]   We too have been told through his word that things are going to go from bad to
+[00:37:41.000 --> 00:37:45.000]   worse before the king returns.
+[00:37:45.000 --> 00:37:50.000]   So in light of the disheartening things we may see in the world around us,
+[00:37:50.000 --> 00:37:57.000]   how is it that we press on, comfort ourselves, encourage ourselves, and pray?
+[00:37:57.000 --> 00:38:01.000]   How do we discern how to honor the Lord?
+[00:38:01.000 --> 00:38:05.000]   What is the Christian thing to do in these strange times?
+[00:38:05.000 --> 00:38:09.000]   What is the Christian supposed to be passionate about and endorse in these
+[00:38:09.000 --> 00:38:12.000]   strange times?
+[00:38:12.000 --> 00:38:17.000]   And thinking about everything that has been going on can be very overwhelming.
+[00:38:17.000 --> 00:38:22.000]   And we will see through Christ's very words in John 14 how to make sense of
+[00:38:22.000 --> 00:38:25.000]   everything and maintain our joy.
+[00:38:25.000 --> 00:38:29.000]   So I'm going to lay out John 14, the exhortations up for you in the front.
+[00:38:29.000 --> 00:38:33.000]   First, remember where we're going.
+[00:38:33.000 --> 00:38:35.000]   Remember where we're going.
+[00:38:35.000 --> 00:38:38.000]   Two, remember why we're here.
+[00:38:38.000 --> 00:38:41.000]   And three, remember who's with us.
+[00:38:41.000 --> 00:38:45.000]   So if you're tracking along mentally, remember where we're going,
+[00:38:45.000 --> 00:38:49.000]   remember why we're here, and remember who's with us.
+[00:38:49.000 --> 00:38:56.000]   And I'm going to walk you through John 14 to briefly look at how to pray with
+[00:38:56.000 --> 00:39:00.000]   joy in the midst of our current circumstances.
+[00:39:00.000 --> 00:39:04.000]   So verse 2, "In my Father's house are many dwellings.
+[00:39:04.000 --> 00:39:08.000]   If it were not so, I would have told you, for I go to prepare a place for you.
+[00:39:08.000 --> 00:39:11.000]   If I go and prepare a place for you, I will come again and receive you to
+[00:39:11.000 --> 00:39:15.000]   myself, that where I am, there you may be also."
+[00:39:15.000 --> 00:39:18.000]   So point one, remember where we're going.
+[00:39:18.000 --> 00:39:23.000]   Heaven is where Christ's disciples are all headed.
+[00:39:23.000 --> 00:39:26.000]   So we are sojourners on earth.
+[00:39:26.000 --> 00:39:31.000]   Our home is in heaven with the Lord, and our hearts' affections should be
+[00:39:31.000 --> 00:39:33.000]   heavenward.
+[00:39:33.000 --> 00:39:39.000]   And so our primary aim is not to make this world a better place.
+[00:39:39.000 --> 00:39:43.000]   This place is cursed.
+[00:39:43.000 --> 00:39:48.000]   Our citizenship is in heaven, and we do not belong here.
+[00:39:48.000 --> 00:39:53.000]   So that's why in a place like 1 John 2.15, it says, "Do not love the world or
+[00:39:53.000 --> 00:39:55.000]   anything in the world."
+[00:39:55.000 --> 00:39:57.000]   Now, that doesn't mean we're apathetic to those around us.
+[00:39:57.000 --> 00:40:00.000]   Of course not.
+[00:40:00.000 --> 00:40:04.000]   But we are called to not have our affections placed here.
+[00:40:04.000 --> 00:40:11.000]   And you guys know James 1.27, "What is pure and undefiled religion?"
+[00:40:11.000 --> 00:40:16.000]   While we are sojourning through this world, we are to be compassionate to
+[00:40:16.000 --> 00:40:21.000]   those who are oppressed and struggling, the orphans and the widows, but we are
+[00:40:21.000 --> 00:40:26.000]   also to be unstained by this cursed world.
+[00:40:26.000 --> 00:40:30.000]   So our goal is heaven and not here.
+[00:40:30.000 --> 00:40:33.000]   And the only way to heaven is through Christ.
+[00:40:33.000 --> 00:40:37.000]   The only hope is Christ, and we need to remember where we're going in order to
+[00:40:37.000 --> 00:40:40.000]   be effective while we are here on earth.
+[00:40:40.000 --> 00:40:44.000]   G.S. Lewis once said, "If you read history, you will find that the Christians
+[00:40:44.000 --> 00:40:47.000]   who did most for the present world were precisely those who thought much of the
+[00:40:47.000 --> 00:40:49.000]   next."
+[00:40:49.000 --> 00:40:54.000]   It is since Christians have largely ceased to think of the other world that
+[00:40:54.000 --> 00:40:58.000]   they have become so ineffective in this.
+[00:40:58.000 --> 00:41:01.000]   So remember where we're going.
+[00:41:01.000 --> 00:41:04.000]   He will come again, and will he receive us to himself?
+[00:41:04.000 --> 00:41:08.000]   In John 17.3, "This is eternal life, that they may know you, the only true God,
+[00:41:08.000 --> 00:41:10.000]   Jesus Christ, whom you have sent."
+[00:41:10.000 --> 00:41:14.000]   Eternal life has already started, and right now we only know in part, we only
+[00:41:14.000 --> 00:41:18.000]   see in part, but we will one day see God face to face, and it's going to be
+[00:41:18.000 --> 00:41:20.000]   awesome.
+[00:41:20.000 --> 00:41:22.000]   So remember where we're going.
+[00:41:22.000 --> 00:41:27.000]   It's infinitely much better than this.
+[00:41:27.000 --> 00:41:29.000]   Remember where we're going.
+[00:41:29.000 --> 00:41:34.000]   Secondly, remember then why we're here.
+[00:41:34.000 --> 00:41:39.000]   So the disciples were left behind for a time to do spirit-empowered work and to
+[00:41:39.000 --> 00:41:41.000]   glorify God by keeping his commandments.
+[00:41:41.000 --> 00:41:43.000]   I'm going to say this again.
+[00:41:43.000 --> 00:41:50.000]   The disciples were left behind for a season to do spirit-empowered work and to
+[00:41:50.000 --> 00:41:54.000]   glorify God by keeping his commandments.
+[00:41:54.000 --> 00:41:57.000]   I'm going to skip down to John 14.12-15.
+[00:41:57.000 --> 00:42:02.000]   It reads, "Truly, truly, I say to you, he who believes in me, the works that I do,
+[00:42:02.000 --> 00:42:08.000]   he will do also, and greater works than these he will do, because I go to the
+[00:42:08.000 --> 00:42:09.000]   Father.
+[00:42:09.000 --> 00:42:16.000]   And whatever you ask in my name, that will I do, so that the Father may be
+[00:42:16.000 --> 00:42:18.000]   glorified in the Son.
+[00:42:18.000 --> 00:42:23.000]   If you ask me anything in my name, I will do it.
+[00:42:23.000 --> 00:42:28.000]   If you love me, you will keep my commandments."
+[00:42:28.000 --> 00:42:32.000]   So basically, the disciples were left behind to build Christ's church.
+[00:42:32.000 --> 00:42:37.000]   They were left to carry out the Great Commission and to teach future disciples
+[00:42:37.000 --> 00:42:40.000]   to do everything that is written in the word of God.
+[00:42:40.000 --> 00:42:44.000]   So the church's priority, remember why we're here, the church's priority has
+[00:42:44.000 --> 00:42:48.000]   always been to preach the gospel and to ensure that Christ is honored through
+[00:42:48.000 --> 00:42:50.000]   the proclamation of his word.
+[00:42:50.000 --> 00:42:57.000]   So if you look at verse 15, verses 23-24, it makes clear that the keeping of God's
+[00:42:57.000 --> 00:43:06.000]   word is primarily how we express our love for Christ, especially in these times.
+[00:43:06.000 --> 00:43:11.000]   Don't just know about the word, know it and practice it, because that is our
+[00:43:11.000 --> 00:43:14.000]   expression of love to our Savior.
+[00:43:14.000 --> 00:43:19.000]   And our primary aim in these strange times is to save souls.
+[00:43:19.000 --> 00:43:24.000]   And our first priority is not to change people's circumstances, because we know
+[00:43:24.000 --> 00:43:29.000]   that changed circumstances rarely change people, but changed people always change
+[00:43:29.000 --> 00:43:32.000]   their circumstances.
+[00:43:32.000 --> 00:43:38.000]   And true change happens when God's word is correctly handled, accurately preached,
+[00:43:38.000 --> 00:43:42.000]   and effectively applied.
+[00:43:42.000 --> 00:43:47.000]   True change happens when God's word is correctly handled, accurately preached,
+[00:43:47.000 --> 00:43:48.000]   and effectively applied.
+[00:43:48.000 --> 00:43:54.000]   So our primary obsession while we're here has to be Christ crucified and risen
+[00:43:54.000 --> 00:43:58.000]   again, to know him and to make him known.
+[00:43:58.000 --> 00:44:01.000]   So brothers and sisters, remember why we're here.
+[00:44:01.000 --> 00:44:06.000]   Learn the word, love the word, live the word, lead others to the word, because the
+[00:44:06.000 --> 00:44:13.000]   word of God is sufficient, it always has been, and it always will be.
+[00:44:13.000 --> 00:44:19.000]   Learn the word, love the word, live the word, and lead others to the word,
+[00:44:19.000 --> 00:44:21.000]   because it's sufficient.
+[00:44:21.000 --> 00:44:28.000]   So remember where we're headed, remember why we're still here, but while we are
+[00:44:28.000 --> 00:44:32.000]   here, remember who is with us.
+[00:44:32.000 --> 00:44:39.000]   John 14, 16 to 21 reads, "I will ask the Father, and he will give you another
+[00:44:39.000 --> 00:44:44.000]   helper, that he may be with you forever.
+[00:44:44.000 --> 00:44:49.000]   That is the spirit of truth, whom the world cannot receive, because it does not
+[00:44:49.000 --> 00:44:54.000]   see him or know him, but you know him, because he abides with you and will be in
+[00:44:54.000 --> 00:44:56.000]   you.
+[00:44:56.000 --> 00:45:01.000]   I will not leave you as orphans, I will come to you.
+[00:45:01.000 --> 00:45:06.000]   After a while, the world will no longer see me, but you will see me.
+[00:45:06.000 --> 00:45:10.000]   And because I live, you will live also.
+[00:45:10.000 --> 00:45:15.000]   And in that day, you will know that I am in my Father, and you in me, and I in
+[00:45:15.000 --> 00:45:17.000]   you.
+[00:45:17.000 --> 00:45:21.000]   He who has my commandments and keeps them is the one who loves me.
+[00:45:21.000 --> 00:45:26.000]   And he who loves me will be loved by my Father, and I will love him, and I will
+[00:45:26.000 --> 00:45:31.000]   disclose myself to him."
+[00:45:31.000 --> 00:45:34.000]   Remember where we're headed, remember why we're here, and remember who is with
+[00:45:34.000 --> 00:45:36.000]   us.
+[00:45:36.000 --> 00:45:38.000]   God is with us.
+[00:45:38.000 --> 00:45:44.000]   God is not only with us, he's indwelling in us in the person of the Holy Spirit.
+[00:45:44.000 --> 00:45:50.000]   Thrice holy, creator of the universe, sovereign God who is on his throne.
+[00:45:50.000 --> 00:45:57.000]   And not only is he on his throne, but he is also with us and in us forever.
+[00:45:57.000 --> 00:45:59.000]   So we are not spiritual orphans.
+[00:45:59.000 --> 00:46:04.000]   So for me, I take so much courage in knowing that God is near.
+[00:46:04.000 --> 00:46:08.000]   So that I have nothing to be afraid of, I have nothing to be worried about, there
+[00:46:08.000 --> 00:46:10.000]   is no need for anxiety.
+[00:46:10.000 --> 00:46:17.000]   I can proceed in my life in faith because God is near.
+[00:46:17.000 --> 00:46:24.000]   What is the Holy Spirit who is with us forever according to verse 16, do for you
+[00:46:24.000 --> 00:46:28.000]   and me in these harrowing times?
+[00:46:28.000 --> 00:46:35.000]   Verse 26 of John 14, the Holy Spirit teaches us all things and will bring to
+[00:46:35.000 --> 00:46:39.000]   remembrance all the words of Christ.
+[00:46:39.000 --> 00:46:46.000]   Verse 27, he gives us all surpassing, "Erene," peace.
+[00:46:46.000 --> 00:46:49.000]   In other places in scripture, he is our seal, the guarantor of our
+[00:46:49.000 --> 00:46:51.000]   inheritance.
+[00:46:51.000 --> 00:46:53.000]   He is our intercessor.
+[00:46:53.000 --> 00:46:57.000]   He will enable and empower the building up of his church.
+[00:46:57.000 --> 00:47:02.000]   We don't need to try to figure out how to build his church.
+[00:47:02.000 --> 00:47:07.000]   God will lead and God will guide us, especially during these times.
+[00:47:07.000 --> 00:47:16.000]   2 Timothy 2, 7, it says, "God will give us understanding in everything."
+[00:47:16.000 --> 00:47:21.000]   Right now, the church is growing more and more in like the I don't know's.
+[00:47:21.000 --> 00:47:27.000]   But the word of God says that God in his spirit will give us understanding in
+[00:47:27.000 --> 00:47:31.000]   all things.
+[00:47:31.000 --> 00:47:34.000]   So our theme is to know him and to make him known.
+[00:47:34.000 --> 00:47:38.000]   So the spirit helps us know God and helps us to make God known.
+[00:47:38.000 --> 00:47:41.000]   And that is still our theme for 2020.
+[00:47:41.000 --> 00:47:46.000]   So as spirit-filled people, what are we to do?
+[00:47:46.000 --> 00:47:48.000]   Ask God for wisdom.
+[00:47:48.000 --> 00:47:49.000]   Why?
+[00:47:49.000 --> 00:47:54.000]   He is super eager to give it.
+[00:47:54.000 --> 00:48:01.000]   God wants us to ask him for spiritual wisdom, insight, and understanding, and
+[00:48:01.000 --> 00:48:06.000]   he is willing to lavish it upon us freely.
+[00:48:06.000 --> 00:48:10.000]   John 14, 14, "If you ask me anything in my name, according to my will, I will
+[00:48:10.000 --> 00:48:12.000]   do it."
+[00:48:12.000 --> 00:48:16.000]   And all over the scripture, we see God be more than eager to grant you and me
+[00:48:16.000 --> 00:48:19.000]   eyes to see, spiritual wisdom.
+[00:48:19.000 --> 00:48:23.000]   James 1, 5, "But if any of you lacks wisdom, let him ask of God who gives to
+[00:48:23.000 --> 00:48:32.000]   all," you guys have memorized this, "generously and without reproach."
+[00:48:32.000 --> 00:48:38.000]   And I will say in these times, a truly spirit-filled person spends more time
+[00:48:38.000 --> 00:48:43.000]   fighting his battles on his knees and in front of the word of God than fighting
+[00:48:43.000 --> 00:48:48.000]   his battles online.
+[00:48:48.000 --> 00:48:50.000]   You guys get that?
+[00:48:50.000 --> 00:48:57.000]   A truly spirit-filled, godly wisdom, empowered man of God spends more time
+[00:48:57.000 --> 00:49:03.000]   battling on his knees and in front of the word than online.
+[00:49:03.000 --> 00:49:08.000]   Keyboard warriors are spiritually stupid.
+[00:49:08.000 --> 00:49:10.000]   So don't be that.
+[00:49:10.000 --> 00:49:15.000]   God gives us wisdom.
+[00:49:15.000 --> 00:49:18.000]   The spiritual person understands that our struggle is not against flesh and
+[00:49:18.000 --> 00:49:20.000]   blood.
+[00:49:20.000 --> 00:49:23.000]   The spiritual person understands that our enemy is not another human being or
+[00:49:23.000 --> 00:49:28.000]   that person who contradicted or attacked my comment.
+[00:49:28.000 --> 00:49:34.000]   The spiritual person understands that our enemy is not a political party or a
+[00:49:34.000 --> 00:49:36.000]   national leader.
+[00:49:36.000 --> 00:49:40.000]   The spiritual person understands that though we live in the flesh, we do not
+[00:49:40.000 --> 00:49:44.000]   war according to the flesh.
+[00:49:44.000 --> 00:49:47.000]   So what are you and I to do as we pray tonight?
+[00:49:47.000 --> 00:49:51.000]   First, remember where we're going.
+[00:49:51.000 --> 00:49:55.000]   And one of the problems in Orange County is we are deceived into thinking that
+[00:49:55.000 --> 00:49:58.000]   this is our home, the American dream is it, and then we go to a better heaven
+[00:49:58.000 --> 00:49:59.000]   when we get to heaven.
+[00:49:59.000 --> 00:50:00.000]   That's not it.
+[00:50:00.000 --> 00:50:03.000]   This is not our home.
+[00:50:03.000 --> 00:50:06.000]   The second thing we need to remember is that while we're here, we have a task,
+[00:50:06.000 --> 00:50:08.000]   we have a mission.
+[00:50:08.000 --> 00:50:11.000]   And it's not to make sure our kids get into the best schools.
+[00:50:11.000 --> 00:50:15.000]   It's to proclaim his truth.
+[00:50:15.000 --> 00:50:20.000]   And remember who's with us, that we're not spiritual orphans called to blindly
+[00:50:20.000 --> 00:50:25.000]   navigate this life to try to figure out what God wants from us.
+[00:50:25.000 --> 00:50:29.000]   He has shown you, oh man, what is good.
+[00:50:29.000 --> 00:50:32.000]   It's all over the scriptures.
+[00:50:32.000 --> 00:50:36.000]   So remember where you're going, remember why you're here,
+[00:50:36.000 --> 00:50:38.000]   and remember who's with us.
+[00:50:38.000 --> 00:50:44.000]   So to sum up, basically, how do I encourage myself whenever I get frustrated?
+[00:50:44.000 --> 00:50:49.000]   Remember who's on the throne.
+[00:50:49.000 --> 00:50:51.000]   Remember who's on the throne.
+[00:50:51.000 --> 00:50:55.000]   2020 in our church and our mission, none of these things have been derailed by
+[00:50:55.000 --> 00:50:59.000]   the coronavirus, by BLM, by politics.
+[00:50:59.000 --> 00:51:03.000]   Our sovereign king has not been hampered by 2020.
+[00:51:03.000 --> 00:51:06.000]   He has not lost control.
+[00:51:06.000 --> 00:51:09.000]   These things may have caught us off guard, but God has not been caught off
+[00:51:09.000 --> 00:51:11.000]   guard or taken by surprise.
+[00:51:11.000 --> 00:51:14.000]   His will will not be thwarted.
+[00:51:14.000 --> 00:51:17.000]   Christ is still on his throne.
+[00:51:17.000 --> 00:51:19.000]   Amen?
+[00:51:19.000 --> 00:51:24.000]   Christ is still on his throne.
+[00:51:24.000 --> 00:51:29.000]   So John 14, 1, do not let your heart be troubled.
+[00:51:29.000 --> 00:51:32.000]   Believe in God who is on his throne.
+[00:51:32.000 --> 00:51:37.000]   Believe also in Christ who is seated at the right hand of God.
+[00:51:37.000 --> 00:51:40.000]   Do not let your heart be troubled.
+[00:51:40.000 --> 00:51:44.000]   But what's interesting is we can have joy and peace and abundance and at the
+[00:51:44.000 --> 00:51:48.000]   same time learn how to grieve the things that are going on around us.
+[00:51:48.000 --> 00:51:50.000]   So it's okay to grieve.
+[00:51:50.000 --> 00:51:54.000]   It's okay to lament because our Lord is familiar with grief.
+[00:51:54.000 --> 00:52:00.000]   You know, John 14, what's a little sad and amazing about this whole chapter,
+[00:52:00.000 --> 00:52:05.000]   in the context of John's narrative,
+[00:52:05.000 --> 00:52:12.000]   Jesus is giving his disciples comfort because they're so lost and confused.
+[00:52:12.000 --> 00:52:15.000]   But D.A. Carson writes this.
+[00:52:15.000 --> 00:52:22.000]   It is Jesus who is heading for agony on the cross.
+[00:52:22.000 --> 00:52:27.000]   It is Jesus who is deeply troubled in heart, John 12, 27.
+[00:52:27.000 --> 00:52:30.000]   He's deeply troubled in spirit, John 13, 21.
+[00:52:30.000 --> 00:52:34.000]   Yet on this night of nights when all -- of all times it would have been
+[00:52:34.000 --> 00:52:40.000]   appropriate for Jesus' followers to lend him emotional and spiritual support,
+[00:52:40.000 --> 00:52:45.000]   he is still the one who gives comforts and instructs.
+[00:52:45.000 --> 00:52:49.000]   For they too are troubled, not because they are rushing toward pain,
+[00:52:49.000 --> 00:52:54.000]   ignominy, shame, crucifixion, but because they are confused,
+[00:52:54.000 --> 00:52:58.000]   uncertain of what Jesus means, and threatened by references to his
+[00:52:58.000 --> 00:53:01.000]   imminent departure.
+[00:53:01.000 --> 00:53:07.000]   If you are grieved in your heart by the things that are going on around us,
+[00:53:07.000 --> 00:53:12.000]   God is exponentially more grieved.
+[00:53:12.000 --> 00:53:18.000]   So when we pray to our God, "Thy kingdom come, thy will be done,"
+[00:53:18.000 --> 00:53:26.000]   he is super excited and eager to carry out his plan in his time.
+[00:53:26.000 --> 00:53:31.000]   So it's okay to be frustrated, but remember where we're going,
+[00:53:31.000 --> 00:53:35.000]   remember why we're here, and remember who's with us.
+[00:53:35.000 --> 00:53:38.000]   He is a God of all comfort.
+[00:53:38.000 --> 00:53:43.000]   He is a God who is sovereign and never taken by surprise.
+[00:53:43.000 --> 00:53:50.000]   So when we pray tonight, let's fix our closed eyes on Jesus,
+[00:53:50.000 --> 00:53:54.000]   the author and perfecter of our faith, as we pray according to his word,
+[00:53:54.000 --> 00:53:58.000]   according to his will, "Lord, let your kingdom come,
+[00:53:58.000 --> 00:54:03.000]   let your will be done on earth as it is in heaven," and let us seek his heart
+[00:54:03.000 --> 00:54:12.000]   by praying in the spirit on all occasions and for all things,
+[00:54:12.000 --> 00:54:18.000]   remembering that this is not our home, that while we're here we're on a mission,
+[00:54:18.000 --> 00:54:22.000]   and that God is on his throne, that he is with us.
+[00:54:22.000 --> 00:54:25.000]   Amen?
+[00:54:25.000 --> 00:54:28.000]   He's got this.
+[00:54:28.000 --> 00:54:33.000]   What we're going to do is I'm going to just give you a little bit of time.
+[00:54:33.000 --> 00:54:38.000]   We have five topics to pray for, and we're going to pray for these things.
+[00:54:38.000 --> 00:54:42.000]   But before we do that, I would like to just invite you to take a minute
+[00:54:42.000 --> 00:54:46.000]   just to just adore the Lord and say, "Thank you, God,
+[00:54:46.000 --> 00:54:48.000]   for a reminder of your sovereignty.
+[00:54:48.000 --> 00:54:50.000]   Help my unbelief."
+[00:54:50.000 --> 00:54:52.000]   We believe. Help our unbelief.
+[00:54:52.000 --> 00:54:56.000]   So can we take a minute to pray, and then I will lead us
+[00:54:56.000 --> 00:54:59.000]   in the first prayer topic.
+[00:55:00.000 --> 00:55:03.000]   [Prayer]
+[00:55:03.000 --> 00:55:06.000]   [Prayer]
+[00:55:07.000 --> 00:55:10.000]   [Prayer]
+[00:55:35.000 --> 00:55:39.000]   Lord, we trust you, and as we pray tonight,
+[00:55:39.000 --> 00:55:44.000]   help us to pray in accordance with your purposes and your will.
+[00:55:44.000 --> 00:55:50.000]   And as we pray, would you draw near to us and overflow
+[00:55:50.000 --> 00:55:59.000]   and just fill our hearts with joy, with peace, with confidence and boldness.
+[00:55:59.000 --> 00:56:01.000]   Lord, we believe.
+[00:56:01.000 --> 00:56:03.000]   And help our unbelief.
+[00:56:03.000 --> 00:56:05.000]   We love you, Father.
+[00:56:05.000 --> 00:56:08.000]   We pray this in Jesus' name.
+[00:56:08.000 --> 00:56:14.000]   So we're going to take five minutes first to pray for, one, local leaders,
+[00:56:14.000 --> 00:56:17.000]   national leaders, our upcoming elections.
+[00:56:17.000 --> 00:56:21.000]   This is so touchy, but I feel like we do need to pray.
+[00:56:21.000 --> 00:56:23.000]   It's commanded in Scripture.
+[00:56:23.000 --> 00:56:27.000]   Proverbs 21.1 says, "The king's heart is like channels of water
+[00:56:27.000 --> 00:56:28.000]   in the hand of the Lord.
+[00:56:28.000 --> 00:56:31.000]   He directs it wherever he wants it to go."
+[00:56:31.000 --> 00:56:35.000]   And Exodus 22.28 says, "Do not curse God or the rule over your people."
+[00:56:35.000 --> 00:56:39.000]   So we're never called to blast or just blast our leader,
+[00:56:39.000 --> 00:56:40.000]   but we're called to pray.
+[00:56:40.000 --> 00:56:42.000]   And 1 Timothy 2.4, what does it say?
+[00:56:42.000 --> 00:56:44.000]   "Pray for their salvation."
+[00:56:44.000 --> 00:56:47.000]   And I always feel kind of weird praying for the salvation of someone
+[00:56:47.000 --> 00:56:49.000]   who I'm like, "Yeah, I don't think he's going to come to me."
+[00:56:49.000 --> 00:56:51.000]   But we're called to pray.
+[00:56:51.000 --> 00:56:56.000]   So let's pray for our local leadership, our national leadership, and wisdom,
+[00:56:56.000 --> 00:57:00.000]   especially as things will get heated over the next few months prior to the election.
+[00:57:00.000 --> 00:57:04.000]   So whatever the current climate is that comes to mind and that troubles your
+[00:57:04.000 --> 00:57:06.000]   heart, pray.
+[00:57:06.000 --> 00:57:12.000]   And let's pray that God will give our national leaders wisdom.
+[00:57:12.000 --> 00:57:15.000]   And first and foremost, that they will come to knowledge of Jesus Christ,
+[00:57:15.000 --> 00:57:19.000]   like a true knowledge of the Lord and Savior, Jesus Christ.
+[00:57:19.000 --> 00:57:23.000]   So take five minutes to pray for our leaders in the nation
+[00:57:23.000 --> 00:57:25.000]   and our local communities.
+[00:57:25.000 --> 00:57:35.000]   [Praying in Tongues]
+[00:57:36.000 --> 00:57:41.000]   [Music]
+[00:57:42.000 --> 00:57:45.000]   [Music]
+[00:57:46.000 --> 00:57:49.000]   [Music]
+[00:57:49.000 --> 00:58:02.000]   [Music]
+[00:58:02.000 --> 00:58:05.000]   [Music]
+[00:58:05.000 --> 00:58:15.000]   [Music]
+[00:58:30.000 --> 00:58:33.000]   [Music]
+[00:58:33.000 --> 00:58:53.000]   [Music]
+[00:58:54.000 --> 00:58:57.000]   [Music]
+[00:58:57.000 --> 00:59:10.000]   [Music]
+[00:59:11.000 --> 00:59:14.000]   [Music]
+[00:59:14.000 --> 00:59:27.000]   [Music]
+[00:59:27.000 --> 00:59:30.000]   [Music]
+[00:59:30.000 --> 00:59:44.000]   [Music]
+[00:59:45.000 --> 00:59:48.000]   [Music]
+[00:59:48.000 --> 01:00:01.000]   [Music]
+[01:00:02.000 --> 01:00:05.000]   [Music]
+[01:00:05.000 --> 01:00:18.000]   [Music]
+[01:00:19.000 --> 01:00:22.000]   [Music]
+[01:00:22.000 --> 01:00:35.000]   [Music]
+[01:00:36.000 --> 01:00:39.000]   [Music]
+[01:00:39.000 --> 01:00:48.000]   [Music]
+[01:00:48.000 --> 01:01:04.000]   Secondly, we're going to ask you to pray for our church leadership
+[01:01:04.000 --> 01:01:07.000]   and that God would give us wisdom to know how to lead his church,
+[01:01:07.000 --> 01:01:12.000]   not according to whatever is practical or easy for us,
+[01:01:12.000 --> 01:01:15.000]   but according to his desires and his purpose.
+[01:01:15.000 --> 01:01:24.000]   And just to encourage you guys, our leaders, we talk a lot and we pray a lot
+[01:01:24.000 --> 01:01:28.000]   and we discuss a lot, so there are no unilateral decisions ever made.
+[01:01:28.000 --> 01:01:30.000]   You guys see this whole tenting?
+[01:01:30.000 --> 01:01:35.000]   Like three days prior to us deciding to bring everything outdoors,
+[01:01:35.000 --> 01:01:38.000]   we talked every night for like two, three hours.
+[01:01:38.000 --> 01:01:43.000]   We actually did like mini reflective Bible studies on 1 Corinthians,
+[01:01:43.000 --> 01:01:46.000]   we did Romans 13, 1 Peter 2, 1 Peter 5,
+[01:01:46.000 --> 01:01:49.000]   what does the word of God say in this situation, should we stay inside,
+[01:01:49.000 --> 01:01:50.000]   should we bring it out?
+[01:01:50.000 --> 01:01:52.000]   Pastor Peter even butt dialed us.
+[01:01:52.000 --> 01:01:55.000]   He butt dialed us and he didn't know he had butt dialed us,
+[01:01:55.000 --> 01:01:57.000]   but then there were five of us who picked up and he's like,
+[01:01:57.000 --> 01:02:00.000]   "Oh, since I have you," and then our conversation went for two and a half hours.
+[01:02:00.000 --> 01:02:07.000]   So we were really seeking to know his will through his word.
+[01:02:07.000 --> 01:02:11.000]   And we're all strongly opinionated men,
+[01:02:11.000 --> 01:02:15.000]   but we all submit to the authority of the word of God.
+[01:02:15.000 --> 01:02:22.000]   And can you pray that the leaders will maintain that stance before the Lord,
+[01:02:22.000 --> 01:02:28.000]   that God will give us wisdom to know how to love our flock,
+[01:02:28.000 --> 01:02:35.000]   lead our flock, and really to build his church the way he is pleased by.
+[01:02:35.000 --> 01:02:39.000]   So can you pray for that and pray for future leaders to come forth,
+[01:02:39.000 --> 01:02:43.000]   that God would really raise up godly men and women from our church as well.
+[01:02:43.000 --> 01:02:45.000]   So can you pray for that with me, next five minutes.
+[01:02:45.000 --> 01:02:48.000]   [Praying]
+[01:02:49.000 --> 01:02:52.000]   [Music]
+[01:02:53.000 --> 01:02:56.000]   [Music]
+[01:02:57.000 --> 01:03:00.000]   [Music]
+[01:03:01.000 --> 01:03:04.000]   [Music]
+[01:03:04.000 --> 01:03:13.000]   [Music]
+[01:03:13.000 --> 01:03:23.000]   [Music]
+[01:03:24.000 --> 01:03:27.000]   [Music]
+[01:03:27.000 --> 01:03:40.000]   [Music]
+[01:03:40.000 --> 01:03:43.000]   [Music]
+[01:03:43.000 --> 01:03:56.000]   [Music]
+[01:04:09.000 --> 01:04:12.000]   [Music]
+[01:04:12.000 --> 01:04:26.000]   [Music]
+[01:04:27.000 --> 01:04:30.000]   [Music]
+[01:04:30.000 --> 01:04:42.000]   [Music]
+[01:04:43.000 --> 01:04:46.000]   [Music]
+[01:04:46.000 --> 01:04:59.000]   [Music]
+[01:05:00.000 --> 01:05:03.000]   [Music]
+[01:05:03.000 --> 01:05:16.000]   [Music]
+[01:05:17.000 --> 01:05:20.000]   [Music]
+[01:05:20.000 --> 01:05:32.000]   [Music]
+[01:05:45.000 --> 01:05:48.000]   [Music]
+[01:05:48.000 --> 01:05:58.000]   [Music]
+[01:06:13.000 --> 01:06:16.000]   [Music]
+[01:06:16.000 --> 01:06:34.000]   [Music]
+[01:06:35.000 --> 01:06:38.000]   [Music]
+[01:06:38.000 --> 01:06:55.000]   [Music]
+[01:06:56.000 --> 01:06:59.000]   [Music]
+[01:06:59.000 --> 01:07:20.000]   Third, we're going to be praying for our brothers and sisters
+[01:07:20.000 --> 01:07:26.000]   struggling in other parts of the world, in other parts of the states.
+[01:07:26.000 --> 01:07:31.000]   Some of you guys who've read Pastor Peter's update on the Indian pastors,
+[01:07:31.000 --> 01:07:37.000]   praise God for their strength and their boldness and their courage.
+[01:07:37.000 --> 01:07:41.000]   But let's pray for more.
+[01:07:41.000 --> 01:07:45.000]   That not necessarily that the persecution will stop,
+[01:07:45.000 --> 01:07:51.000]   that that persecution will not be in vain, that there will be much fruit born.
+[01:07:51.000 --> 01:07:54.000]   Pray for China.
+[01:07:54.000 --> 01:07:56.000]   A whole bunch of missionaries all across the board,
+[01:07:56.000 --> 01:07:59.000]   different organizations are all kind of being kicked out,
+[01:07:59.000 --> 01:08:02.000]   and the Chinese church is being persecuted.
+[01:08:02.000 --> 01:08:05.000]   Let's pray that during this persecution,
+[01:08:05.000 --> 01:08:12.000]   that a generation of passionate believers of Christ will be raised up.
+[01:08:12.000 --> 01:08:15.000]   We have, you guys know of churches that are being persecuted here,
+[01:08:15.000 --> 01:08:18.000]   or that are being threatened here.
+[01:08:18.000 --> 01:08:21.000]   So whatever comes to mind, and if you feel like,
+[01:08:21.000 --> 01:08:24.000]   "Oh, I don't have a heart for any of these places,"
+[01:08:24.000 --> 01:08:27.000]   but you have a compassionate child, you could pray for Ecuador
+[01:08:27.000 --> 01:08:30.000]   that's been hit very hard by COVID.
+[01:08:30.000 --> 01:08:34.000]   Pray that in those little communities that God would raise up little spiritual warriors.
+[01:08:34.000 --> 01:08:38.000]   And so just let's take some time to pray for his global cause,
+[01:08:38.000 --> 01:08:43.000]   and that as persecution mounts and oppression mounts in our day and age,
+[01:08:43.000 --> 01:08:47.000]   that God would raise up a next generation of people who will carry that baton.
+[01:08:47.000 --> 01:08:53.000]   So let's pray for just believers that are going through different trials all over the world.
+[01:08:53.000 --> 01:08:56.000]   (Praying in Tongues)
+[01:08:57.000 --> 01:09:00.000]   (Music)
+[01:09:01.000 --> 01:09:04.000]   (Music)
+[01:09:05.000 --> 01:09:08.000]   (Music)
+[01:09:09.000 --> 01:09:12.000]   (Music)
+[01:09:35.000 --> 01:09:38.000]   (Music)
+[01:09:38.000 --> 01:09:41.000]   (Music)
+[01:09:42.000 --> 01:09:45.000]   (Music)
+[01:09:45.000 --> 01:10:09.000]   (Music)
+[01:10:09.000 --> 01:10:12.000]   (Music)
+[01:10:12.000 --> 01:10:30.000]   (Music)
+[01:10:30.000 --> 01:10:33.000]   (Music)
+[01:10:33.000 --> 01:10:51.000]   (Music)
+[01:10:52.000 --> 01:10:55.000]   (Music)
+[01:10:55.000 --> 01:11:08.000]   (Music)
+[01:11:08.000 --> 01:11:11.000]   (Music)
+[01:11:11.000 --> 01:11:29.000]   (Music)
+[01:11:30.000 --> 01:11:33.000]   (Music)
+[01:11:33.000 --> 01:11:49.000]   (Music)
+[01:11:49.000 --> 01:11:52.000]   (Music)
+[01:11:52.000 --> 01:12:10.000]   (Music)
+[01:12:11.000 --> 01:12:14.000]   (Music)
+[01:12:14.000 --> 01:12:27.000]   (Music)
+[01:12:27.000 --> 01:12:30.000]   (Music)
+[01:12:30.000 --> 01:12:48.000]   (Music)
+[01:12:49.000 --> 01:12:52.000]   (Music)
+[01:12:52.000 --> 01:13:05.000]   (Music)
+[01:13:06.000 --> 01:13:09.000]   (Music)
+[01:13:09.000 --> 01:13:31.000]   Our fourth topic of prayer, it really will be for, as you guys may know,
+[01:13:31.000 --> 01:13:35.000]   our church has a lot of people working in healthcare,
+[01:13:35.000 --> 01:13:40.000]   and we have at least half a dozen people in law enforcement,
+[01:13:40.000 --> 01:13:49.000]   and we have first responders who are still at varying degrees of risk because of COVID-19.
+[01:13:49.000 --> 01:13:53.000]   So if you know of our cops and our nurses and our doctors,
+[01:13:53.000 --> 01:13:56.000]   and we have some that are actually working with COVID patients,
+[01:13:56.000 --> 01:13:59.000]   there's degrees of loneliness there,
+[01:13:59.000 --> 01:14:03.000]   because they can't necessarily see their families up close.
+[01:14:03.000 --> 01:14:07.000]   There are anxieties and fears and concerns and worries as well.
+[01:14:07.000 --> 01:14:12.000]   And this overall climate in our country is just --
+[01:14:12.000 --> 01:14:16.000]   it's not friendly toward our law enforcement officers.
+[01:14:16.000 --> 01:14:20.000]   So for those who are Christians in the law enforcement,
+[01:14:20.000 --> 01:14:23.000]   let's pray that God would really use them to shine light.
+[01:14:23.000 --> 01:14:28.000]   So can you pray for the next few minutes for just the healthcare workers that you know,
+[01:14:28.000 --> 01:14:35.000]   first responders, law enforcement officers, and whoever -- whomever to this applies.
+[01:14:35.000 --> 01:14:38.000]   All right, let's pray.
+[01:14:38.000 --> 01:14:41.000]   (Music)
+[01:14:42.000 --> 01:14:45.000]   (Music)
+[01:14:46.000 --> 01:14:49.000]   (Music)
+[01:14:50.000 --> 01:14:53.000]   (Music)
+[01:14:53.000 --> 01:15:04.000]   (Music)
+[01:15:04.000 --> 01:15:17.000]   (Music)
+[01:15:17.000 --> 01:15:20.000]   (Music)
+[01:15:20.000 --> 01:15:34.000]   (Music)
+[01:15:34.000 --> 01:15:37.000]   (Music)
+[01:15:37.000 --> 01:15:51.000]   (Music)
+[01:15:51.000 --> 01:15:54.000]   (Music)
+[01:15:54.000 --> 01:16:08.000]   (Music)
+[01:16:08.000 --> 01:16:11.000]   (Music)
+[01:16:11.000 --> 01:16:25.000]   (Music)
+[01:16:25.000 --> 01:16:28.000]   (Music)
+[01:16:28.000 --> 01:16:42.000]   (Music)
+[01:16:42.000 --> 01:16:45.000]   (Music)
+[01:16:45.000 --> 01:17:03.000]   (Music)
+[01:17:04.000 --> 01:17:07.000]   (Music)
+[01:17:07.000 --> 01:17:20.000]   (Music)
+[01:17:20.000 --> 01:17:23.000]   (Music)
+[01:17:23.000 --> 01:17:41.000]   (Music)
+[01:17:42.000 --> 01:17:45.000]   (Music)
+[01:17:45.000 --> 01:17:58.000]   (Music)
+[01:17:58.000 --> 01:18:01.000]   (Music)
+[01:18:01.000 --> 01:18:15.000]   (Music)
+[01:18:15.000 --> 01:18:18.000]   (Music)
+[01:18:18.000 --> 01:18:44.000]   (Music)
+[01:18:45.000 --> 01:18:49.000]   And this is going to be our last prayer topic for the evening.
+[01:18:49.000 --> 01:18:55.000]   Because of the obvious circumstances, we're not going to be able to break up and pray together.
+[01:18:55.000 --> 01:19:03.000]   So we will close with this prayer request, and then we're going to have the praise team come up and close for us.
+[01:19:03.000 --> 01:19:06.000]   Our theme is still to know him and to make him known.
+[01:19:06.000 --> 01:19:15.000]   And our gospel night, August 29th, not only are we asking you guys to actively, eagerly pray,
+[01:19:15.000 --> 01:19:22.000]   but also to invite your non-Christian friends and family to join in and participate.
+[01:19:22.000 --> 01:19:25.000]   So we'll pray for the gospel night on August 29th.
+[01:19:25.000 --> 01:19:33.000]   Our college ministry, please pray for our college students, as there's still a lot of different things that are up in the air.
+[01:19:33.000 --> 01:19:42.000]   And pray for just wisdom for Pastor Nate and for the staff to know how to best shepherd a lot of our college students who are always,
+[01:19:42.000 --> 01:19:44.000]   they're logging in.
+[01:19:44.000 --> 01:19:46.000]   So pray for wisdom there.
+[01:19:46.000 --> 01:19:48.000]   Pray for our education department.
+[01:19:48.000 --> 01:19:50.000]   We're not sure when we'll be able to meet again.
+[01:19:50.000 --> 01:19:53.000]   So doing children's ministry online is tough.
+[01:19:53.000 --> 01:19:56.000]   You can't do Zoom meetings with four-year-olds and five-year-olds.
+[01:19:56.000 --> 01:19:58.000]   So pray for wisdom.
+[01:19:58.000 --> 01:20:05.000]   And especially for the families who haven't been able to come to church because they have many small kids,
+[01:20:05.000 --> 01:20:10.000]   pray that God would really draw near to them and send them people, really, to remind them of his love.
+[01:20:10.000 --> 01:20:20.000]   So just pray that our church, to know him and to make him known, that that really would apply to our various departments.
+[01:20:20.000 --> 01:20:22.000]   And so let's take a few minutes to pray for that.
+[01:20:22.000 --> 01:20:28.000]   And then just in about five minutes or so, we're going to ask the praise team to come back up and wrap up our time.
+[01:20:28.000 --> 01:20:31.000]   [Prayer]
+[01:20:32.000 --> 01:20:35.000]   [Music]
+[01:20:36.000 --> 01:20:39.000]   [Prayer]
+[01:20:40.000 --> 01:20:43.000]   [Music]
+[01:20:44.000 --> 01:20:47.000]   [Prayer]
+[01:20:47.000 --> 01:20:56.000]   [Music]
+[01:21:12.000 --> 01:21:15.000]   [Prayer]
+[01:21:15.000 --> 01:21:29.000]   [Music]
+[01:21:30.000 --> 01:21:33.000]   [Prayer]
+[01:21:33.000 --> 01:21:46.000]   [Music]
+[01:21:47.000 --> 01:21:50.000]   [Prayer]
+[01:21:50.000 --> 01:22:03.000]   [Music]
+[01:22:04.000 --> 01:22:07.000]   [Prayer]
+[01:22:07.000 --> 01:22:20.000]   [Music]
+[01:22:21.000 --> 01:22:24.000]   [Prayer]
+[01:22:24.000 --> 01:22:37.000]   [Music]
+[01:22:38.000 --> 01:22:41.000]   [Prayer]
+[01:22:41.000 --> 01:22:54.000]   [Music]
+[01:22:55.000 --> 01:22:58.000]   [Prayer]
+[01:22:58.000 --> 01:23:10.000]   [Music]
+[01:23:11.000 --> 01:23:14.000]   [Prayer]
+[01:23:14.000 --> 01:23:23.000]   [Music]
+[01:23:38.000 --> 01:23:41.000]   [Music]
+[01:23:42.000 --> 01:23:45.000]   [Music]
+[01:24:10.000 --> 01:24:15.000]   Alright, Church Family, let's all rise together as we sing this last song.
+[01:24:15.000 --> 01:24:18.000]   [Music]
+[01:24:18.000 --> 01:24:21.000]   [Music]
+[01:24:21.000 --> 01:24:24.000]   [Music]
+[01:24:24.000 --> 01:24:30.000]   [Music]
+[01:24:30.000 --> 01:24:50.000]   [Music]
+[01:24:51.000 --> 01:24:54.000]   [Music]
+[01:24:54.000 --> 01:25:00.000]   [Music]
+[01:25:00.000 --> 01:25:12.000]   [Music]
+[01:25:13.000 --> 01:25:16.000]   [Music]
+[01:25:16.000 --> 01:25:22.000]   [Music]
+[01:25:22.000 --> 01:25:33.000]   [Music]
+[01:25:41.000 --> 01:25:44.000]   [Music]
+[01:25:44.000 --> 01:25:51.000]   [Music]
+[01:25:51.000 --> 01:26:04.000]   [Music]
+[01:26:05.000 --> 01:26:08.000]   [Music]
+[01:26:08.000 --> 01:26:17.000]   [Music]
+[01:26:17.000 --> 01:26:25.000]   [Music]
+[01:26:26.000 --> 01:26:29.000]   [Music]
+[01:26:29.000 --> 01:26:35.000]   [Music]
+[01:26:35.000 --> 01:26:41.000]   [Music]
+[01:26:41.000 --> 01:26:47.000]   [Music]
+[01:26:47.000 --> 01:26:53.000]   [Music]
+[01:26:54.000 --> 01:26:57.000]   [Music]
+[01:26:57.000 --> 01:27:03.000]   [Music]
+[01:27:03.000 --> 01:27:09.000]   [Music]
+[01:27:09.000 --> 01:27:15.000]   [Music]
+[01:27:15.000 --> 01:27:21.000]   [Music]
+[01:27:22.000 --> 01:27:25.000]   [Music]
+[01:27:25.000 --> 01:27:31.000]   [Music]
+[01:27:31.000 --> 01:27:37.000]   [Music]
+[01:27:37.000 --> 01:27:43.000]   [Music]
+[01:27:43.000 --> 01:27:49.000]   [Music]
+[01:27:50.000 --> 01:27:53.000]   [Music]
+[01:27:53.000 --> 01:27:59.000]   [Music]
+[01:27:59.000 --> 01:28:05.000]   [Music]
+[01:28:05.000 --> 01:28:11.000]   [Music]
+[01:28:11.000 --> 01:28:17.000]   [Music]
+[01:28:18.000 --> 01:28:21.000]   [Music]
+[01:28:21.000 --> 01:28:27.000]   [Music]
+[01:28:27.000 --> 01:28:33.000]   [Music]
+[01:28:33.000 --> 01:28:39.000]   [Music]
+[01:28:39.000 --> 01:28:45.000]   [Music]
+[01:28:46.000 --> 01:28:49.000]   [Music]
+[01:28:49.000 --> 01:28:55.000]   [Music]
+[01:28:55.000 --> 01:29:01.000]   [Music]
+[01:29:01.000 --> 01:29:04.000]   [Music]
+[01:29:04.000 --> 01:29:12.000]   [Music]
+[01:29:13.000 --> 01:29:16.000]   [Music]
+[01:29:16.000 --> 01:29:22.000]   [Music]
+[01:29:22.000 --> 01:29:28.000]   [Music]
+[01:29:28.000 --> 01:29:34.000]   [Music]
+[01:29:34.000 --> 01:29:41.000]   [Music]
+[01:29:42.000 --> 01:29:45.000]   [Music]
+[01:29:45.000 --> 01:29:51.000]   [Music]
+[01:29:51.000 --> 01:29:57.000]   [Music]
+[01:29:57.000 --> 01:30:03.000]   [Music]
+[01:30:03.000 --> 01:30:09.000]   [Music]
+[01:30:10.000 --> 01:30:13.000]   [Music]
+[01:30:13.000 --> 01:30:19.000]   [Music]
+[01:30:19.000 --> 01:30:25.000]   [Music]
+[01:30:25.000 --> 01:30:31.000]   [Music]
+[01:30:31.000 --> 01:30:38.000]   [Music]
+[01:30:39.000 --> 01:30:42.000]   [Music]
+[01:30:42.000 --> 01:30:51.000]   [Music]
+[01:30:51.000 --> 01:30:59.000]   [Music]
+

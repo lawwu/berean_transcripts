@@ -1,0 +1,1186 @@
+
+[00:00:00.000 --> 00:00:02.920]   (soft piano music)
+[00:00:02.920 --> 00:00:05.840]   (soft piano music)
+[00:00:05.840 --> 00:00:08.760]   (soft piano music)
+[00:00:08.760 --> 00:00:11.680]   (soft piano music)
+[00:00:11.840 --> 00:00:14.760]   (soft piano music)
+[00:00:15.120 --> 00:00:18.040]   (soft piano music)
+[00:00:18.040 --> 00:00:20.960]   (soft piano music)
+[00:00:20.960 --> 00:00:25.880]   (soft piano music)
+[00:00:25.880 --> 00:00:30.800]   (soft piano music)
+[00:00:30.800 --> 00:00:35.720]   (soft piano music)
+[00:00:35.720 --> 00:00:40.640]   (soft piano music)
+[00:00:40.640 --> 00:00:45.560]   (soft piano music)
+[00:00:47.560 --> 00:00:50.480]   (soft piano music)
+[00:00:50.480 --> 00:00:55.400]   (soft piano music)
+[00:00:55.400 --> 00:01:00.320]   (soft piano music)
+[00:01:00.320 --> 00:01:05.320]   (soft piano music)
+[00:01:05.320 --> 00:01:10.320]   (soft piano music)
+[00:01:10.320 --> 00:01:15.320]   (soft piano music)
+[00:01:17.400 --> 00:01:20.320]   (soft piano music)
+[00:01:20.320 --> 00:01:25.240]   (soft piano music)
+[00:01:25.240 --> 00:01:30.160]   (soft piano music)
+[00:01:30.160 --> 00:01:35.160]   (soft piano music)
+[00:01:35.160 --> 00:01:40.160]   (soft piano music)
+[00:01:40.160 --> 00:01:45.160]   (soft piano music)
+[00:01:47.240 --> 00:01:50.160]   (soft piano music)
+[00:01:50.160 --> 00:01:55.160]   (soft piano music)
+[00:01:55.160 --> 00:02:02.160]   (soft piano music)
+[00:02:02.160 --> 00:02:09.160]   (soft piano music)
+[00:02:09.160 --> 00:02:16.160]   (soft piano music)
+[00:02:17.160 --> 00:02:20.080]   (soft piano music)
+[00:02:20.080 --> 00:02:27.080]   (soft piano music)
+[00:02:27.080 --> 00:02:34.080]   (soft piano music)
+[00:02:34.080 --> 00:02:41.080]   (soft piano music)
+[00:02:44.160 --> 00:02:47.080]   (soft piano music)
+[00:02:47.080 --> 00:02:57.080]   (soft piano music)
+[00:02:57.080 --> 00:03:04.080]   (soft piano music)
+[00:03:04.080 --> 00:03:11.080]   (soft piano music)
+[00:03:11.080 --> 00:03:14.000]   (soft piano music)
+[00:03:14.000 --> 00:03:24.000]   (soft piano music)
+[00:03:24.000 --> 00:03:33.000]   (soft piano music)
+[00:03:33.000 --> 00:03:40.000]   (soft piano music)
+[00:03:40.000 --> 00:03:42.920]   (soft piano music)
+[00:03:42.920 --> 00:03:54.920]   (soft piano music)
+[00:03:54.920 --> 00:04:01.920]   (soft piano music)
+[00:04:07.000 --> 00:04:09.920]   (soft piano music)
+[00:04:09.920 --> 00:04:21.920]   (soft piano music)
+[00:04:36.000 --> 00:04:38.920]   (soft piano music)
+[00:05:05.000 --> 00:05:07.920]   (soft piano music)
+[00:05:07.920 --> 00:05:21.920]   (soft piano music)
+[00:05:21.920 --> 00:05:33.920]   (soft piano music)
+[00:05:33.920 --> 00:05:36.840]   (soft piano music)
+[00:05:36.840 --> 00:05:48.840]   (soft piano music)
+[00:05:48.840 --> 00:06:01.840]   (soft piano music)
+[00:06:01.840 --> 00:06:04.760]   (soft piano music)
+[00:06:04.760 --> 00:06:15.760]   (soft piano music)
+[00:06:15.760 --> 00:06:28.760]   (soft piano music)
+[00:06:28.760 --> 00:06:31.680]   (soft piano music)
+[00:06:31.680 --> 00:06:42.680]   (soft piano music)
+[00:06:42.680 --> 00:06:53.680]   (soft piano music)
+[00:06:53.680 --> 00:06:56.600]   (soft piano music)
+[00:06:56.600 --> 00:07:08.600]   (soft piano music)
+[00:07:08.600 --> 00:07:21.600]   (soft piano music)
+[00:07:21.600 --> 00:07:24.520]   (soft piano music)
+[00:07:24.520 --> 00:07:39.520]   (soft piano music)
+[00:07:40.520 --> 00:07:43.440]   (soft piano music)
+[00:07:43.440 --> 00:07:57.440]   (soft piano music)
+[00:07:58.440 --> 00:08:01.360]   (soft piano music)
+[00:08:01.360 --> 00:08:15.360]   (soft piano music)
+[00:08:15.360 --> 00:08:18.280]   (soft piano music)
+[00:08:18.280 --> 00:08:35.280]   (soft piano music)
+[00:08:35.280 --> 00:08:38.200]   (soft piano music)
+[00:08:38.200 --> 00:08:53.200]   (soft piano music)
+[00:08:53.200 --> 00:08:56.120]   (soft piano music)
+[00:08:56.120 --> 00:09:16.120]   (soft piano music)
+[00:09:16.120 --> 00:09:19.040]   (soft piano music)
+[00:09:19.040 --> 00:09:34.040]   (soft piano music)
+[00:09:34.040 --> 00:09:36.960]   (soft piano music)
+[00:09:36.960 --> 00:09:51.960]   (soft piano music)
+[00:09:52.960 --> 00:09:55.880]   (soft piano music)
+[00:09:55.880 --> 00:10:06.880]   (soft piano music)
+[00:10:06.880 --> 00:10:17.880]   (soft piano music)
+[00:10:18.880 --> 00:10:21.800]   (soft piano music)
+[00:10:21.800 --> 00:10:35.800]   (soft piano music)
+[00:10:35.800 --> 00:10:38.720]   (soft piano music)
+[00:10:38.720 --> 00:10:53.720]   (soft piano music)
+[00:10:54.720 --> 00:10:57.640]   (soft piano music)
+[00:10:57.640 --> 00:11:11.640]   (soft piano music)
+[00:11:11.640 --> 00:11:14.560]   (soft piano music)
+[00:11:14.560 --> 00:11:29.560]   (soft piano music)
+[00:11:29.560 --> 00:11:32.480]   (soft piano music)
+[00:11:32.480 --> 00:11:47.480]   (soft piano music)
+[00:11:48.480 --> 00:11:51.400]   (soft piano music)
+[00:11:51.400 --> 00:12:05.400]   (soft piano music)
+[00:12:06.400 --> 00:12:09.320]   (soft piano music)
+[00:12:09.320 --> 00:12:23.320]   (soft piano music)
+[00:12:24.320 --> 00:12:27.240]   (soft piano music)
+[00:12:27.240 --> 00:12:41.240]   (soft piano music)
+[00:12:41.240 --> 00:12:44.160]   (soft piano music)
+[00:12:44.160 --> 00:12:59.160]   (soft piano music)
+[00:13:00.160 --> 00:13:03.080]   (soft piano music)
+[00:13:03.080 --> 00:13:26.080]   - Good morning, church family.
+[00:13:26.080 --> 00:13:27.080]   Happy Lord's Day.
+[00:13:27.160 --> 00:13:29.080]   We're gonna go ahead and begin our worship
+[00:13:29.080 --> 00:13:30.080]   with this first song,
+[00:13:30.080 --> 00:13:34.080]   "The Precious Blood of Jesus, Sacrifice of Love."
+[00:13:34.080 --> 00:13:39.080]   (soft piano music)
+[00:13:39.080 --> 00:13:51.080]   Sing together, "The Precious."
+[00:13:51.080 --> 00:13:55.080]   ♪ The precious blood of Jesus ♪
+[00:13:56.080 --> 00:14:00.000]   ♪ The only cleansing power ♪
+[00:14:00.000 --> 00:14:08.000]   ♪ My guilt and shame are washed away ♪
+[00:14:08.000 --> 00:14:16.000]   ♪ Beneath its crimson flood ♪
+[00:14:16.000 --> 00:14:18.000]   One more time.
+[00:14:18.000 --> 00:14:23.000]   ♪ The precious blood of Jesus ♪
+[00:14:24.000 --> 00:14:27.920]   ♪ The only cleansing power ♪
+[00:14:27.920 --> 00:14:35.920]   ♪ My guilt and shame are washed away ♪
+[00:14:35.920 --> 00:14:42.920]   ♪ Beneath its crimson flood ♪
+[00:14:42.920 --> 00:14:47.920]   And I'm forever in your heart.
+[00:14:47.920 --> 00:14:51.920]   ♪ The precious blood of Jesus ♪
+[00:14:51.920 --> 00:14:55.840]   ♪ The only cleansing power ♪
+[00:14:55.840 --> 00:14:59.840]   ♪ And I'm forever grateful ♪
+[00:14:59.840 --> 00:15:07.840]   ♪ And I will always trust ♪
+[00:15:07.840 --> 00:15:15.840]   ♪ The precious blood of Jesus ♪
+[00:15:18.920 --> 00:15:22.840]   ♪ The sacrifice of love ♪
+[00:15:22.840 --> 00:15:28.840]   ♪ The sacrifice of love ♪
+[00:15:28.840 --> 00:15:31.840]   The precious name.
+[00:15:31.840 --> 00:15:36.840]   ♪ The precious name of Jesus ♪
+[00:15:36.840 --> 00:15:43.840]   ♪ The name by which we're saved ♪
+[00:15:47.920 --> 00:15:51.840]   ♪ For the cross I should have had ♪
+[00:15:51.840 --> 00:15:57.840]   ♪ A ransom for my sin ♪
+[00:15:57.840 --> 00:16:06.840]   ♪ And I'm forever grateful ♪
+[00:16:06.840 --> 00:16:14.840]   ♪ And I will always trust ♪
+[00:16:15.840 --> 00:16:19.760]   ♪ The precious blood of Jesus ♪
+[00:16:19.760 --> 00:16:27.760]   ♪ The sacrifice of love ♪
+[00:16:27.760 --> 00:16:35.760]   ♪ The sacrifice of love ♪
+[00:16:35.760 --> 00:16:39.180]   ♪ The sacrifice of love ♪
+[00:16:39.180 --> 00:16:46.680]   - All right, good morning.
+[00:16:46.680 --> 00:16:48.680]   Welcome to Berean Community Church.
+[00:16:48.680 --> 00:16:50.680]   Let me jump right in.
+[00:16:50.680 --> 00:16:56.680]   Today at 1 p.m. we have the Seasons Seasoned Fellowship.
+[00:16:56.680 --> 00:17:01.680]   If you are 50 or over, or one of your spouse is 50 or over,
+[00:17:01.680 --> 00:17:04.680]   or you're gonna turn 50 soon, we'll allow it.
+[00:17:04.760 --> 00:17:07.680]   Even if you haven't signed up, you're welcome to come.
+[00:17:07.680 --> 00:17:10.680]   It's gonna be held in the Sprouts Room upstairs.
+[00:17:10.680 --> 00:17:13.680]   The way to get to that is when you go outside
+[00:17:13.680 --> 00:17:14.680]   in the front of the building,
+[00:17:14.680 --> 00:17:15.680]   there's stairs that go upstairs.
+[00:17:15.680 --> 00:17:18.680]   If you go up the stairs, there will be a room there
+[00:17:18.680 --> 00:17:19.680]   and the tables will be set up.
+[00:17:19.680 --> 00:17:20.680]   So 1 p.m.
+[00:17:20.680 --> 00:17:22.680]   After the service, you'll have about 30 minutes
+[00:17:22.680 --> 00:17:25.680]   to kind of visit and maybe put away your stuff.
+[00:17:25.680 --> 00:17:28.680]   Please join us up there and then we'll have lunch
+[00:17:28.680 --> 00:17:31.680]   and fellowship ready at 1 p.m.
+[00:17:32.760 --> 00:17:35.680]   There's a men's prayer breakfast/lunch
+[00:17:35.680 --> 00:17:39.680]   that's taking place at 9.30 on July 23rd.
+[00:17:39.680 --> 00:17:41.680]   So this is something that we kind of had in the past
+[00:17:41.680 --> 00:17:42.680]   and just fizzled out,
+[00:17:42.680 --> 00:17:45.680]   but we're trying to restart men's ministry at the church.
+[00:17:45.680 --> 00:17:48.680]   And so this is going to be most likely a quarterly meeting
+[00:17:48.680 --> 00:17:50.680]   that we're gonna be having addressing certain things
+[00:17:50.680 --> 00:17:53.680]   that pertain to men specifically.
+[00:17:53.680 --> 00:17:57.680]   And it is open from high school all the way up.
+[00:17:57.680 --> 00:17:59.680]   It says open to all ages.
+[00:17:59.680 --> 00:18:01.680]   And so there is no fee for that,
+[00:18:01.760 --> 00:18:04.680]   at least for the first meeting, the lunch, light breakfast,
+[00:18:04.680 --> 00:18:06.680]   and then lunch is going to be provided at that time.
+[00:18:06.680 --> 00:18:10.680]   So please sign up for that on July 23rd at 9.30.
+[00:18:10.680 --> 00:18:13.680]   Again, a members meeting is coming up on the 24th,
+[00:18:13.680 --> 00:18:15.680]   so please mark that.
+[00:18:15.680 --> 00:18:17.680]   Second, Peter, Bible study sign-ups,
+[00:18:17.680 --> 00:18:19.680]   which is, again, we have a little bit of time,
+[00:18:19.680 --> 00:18:21.680]   but at August 31st,
+[00:18:21.680 --> 00:18:24.680]   but we need you to sign up whether you're in a home group
+[00:18:24.680 --> 00:18:27.680]   or whether you're in small group, Wednesday or Thursday group.
+[00:18:27.680 --> 00:18:29.680]   If you are planning to join the Bible study,
+[00:18:29.680 --> 00:18:30.680]   please sign up ahead of time
+[00:18:30.760 --> 00:18:32.680]   because we need to prepare either homes
+[00:18:32.680 --> 00:18:37.680]   or small group sessions, the leaders for that.
+[00:18:37.680 --> 00:18:41.680]   So please sign up for that as soon as you can.
+[00:18:41.680 --> 00:18:43.680]   And then one last thing.
+[00:18:43.680 --> 00:18:46.680]   For family ministry retreat, today is the last day to sign up.
+[00:18:46.680 --> 00:18:48.680]   We have quite a few families who have already signed up,
+[00:18:48.680 --> 00:18:51.680]   but they're telling me today is the last day to sign up.
+[00:18:51.680 --> 00:18:54.680]   So even late registration, I think today is the last day
+[00:18:54.680 --> 00:18:58.680]   because they need to give the final count to the hotel.
+[00:18:58.760 --> 00:19:03.680]   On that Sunday, which is August 14th, on that Sunday,
+[00:19:03.680 --> 00:19:05.680]   we will have regular worship here,
+[00:19:05.680 --> 00:19:06.680]   but only for the second service
+[00:19:06.680 --> 00:19:09.680]   because all the family and children will be up at the retreat,
+[00:19:09.680 --> 00:19:12.680]   most of them.
+[00:19:12.680 --> 00:19:15.680]   We're going to have a service at 11 o'clock,
+[00:19:15.680 --> 00:19:18.680]   but we will not have one at 9.30.
+[00:19:18.680 --> 00:19:21.680]   But there will be normal regular service here
+[00:19:21.680 --> 00:19:24.680]   at 11 o'clock on that Sunday.
+[00:19:24.680 --> 00:19:26.680]   All right.
+[00:19:26.680 --> 00:19:28.680]   I think that's it, but let me pray for the offering.
+[00:19:28.680 --> 00:19:32.600]   Our sister Yun Kang is going to come give her testimony,
+[00:19:32.600 --> 00:19:34.600]   and then she'll be baptized this morning.
+[00:19:34.600 --> 00:19:35.600]   So let me pray for us,
+[00:19:35.600 --> 00:19:37.600]   give you an opportunity to give electronically,
+[00:19:37.600 --> 00:19:39.600]   and then if you have physical offering to give,
+[00:19:39.600 --> 00:19:42.600]   we have, again, our offering box
+[00:19:42.600 --> 00:19:44.600]   that's underneath that big clock on the way out.
+[00:19:44.600 --> 00:19:45.600]   Okay?
+[00:19:45.600 --> 00:19:50.600]   Let's pray.
+[00:19:50.600 --> 00:19:55.600]   Heavenly Father, we thank you for the privilege that we have
+[00:19:55.680 --> 00:19:58.600]   to worship you, to gather together.
+[00:19:58.600 --> 00:20:02.600]   We know that we have many brothers around the world
+[00:20:02.600 --> 00:20:06.600]   that were not able to gather because of various circumstances
+[00:20:06.600 --> 00:20:08.600]   and because of danger.
+[00:20:08.600 --> 00:20:11.600]   I pray that you would give them continued courage, strength,
+[00:20:11.600 --> 00:20:14.600]   and that you would allow these churches to be filled
+[00:20:14.600 --> 00:20:16.600]   with your spirit and your word,
+[00:20:16.600 --> 00:20:19.600]   and that your gospel would not be muzzled, Lord God,
+[00:20:19.600 --> 00:20:21.600]   no matter what.
+[00:20:21.600 --> 00:20:23.600]   And help us, Lord God, to know the privilege that we have
+[00:20:23.680 --> 00:20:26.600]   so that we do not take all that we have for granted,
+[00:20:26.600 --> 00:20:29.600]   that our worship truly would be in spirit and in truth.
+[00:20:29.600 --> 00:20:32.600]   We pray that even our offering, Lord,
+[00:20:32.600 --> 00:20:35.600]   may be given to you as an act of worship,
+[00:20:35.600 --> 00:20:37.600]   overflowing in abundance and joy,
+[00:20:37.600 --> 00:20:40.600]   may it be multiplied for your kingdom and for your glory.
+[00:20:40.600 --> 00:20:41.600]   In Jesus' name we pray.
+[00:20:41.600 --> 00:20:42.600]   Amen.
+[00:20:43.520 --> 00:20:46.520]   [music playing]
+[00:20:47.440 --> 00:20:50.440]   [music playing]
+[00:20:51.360 --> 00:20:54.360]   [music playing]
+[00:20:54.360 --> 00:21:13.360]   [music playing]
+[00:21:14.280 --> 00:21:17.280]   [music playing]
+[00:21:17.280 --> 00:21:26.280]   [music playing]
+[00:21:26.280 --> 00:21:34.280]   [music playing]
+[00:21:34.280 --> 00:21:42.280]   Church family, let's all stand together as we worship.
+[00:21:42.360 --> 00:21:45.280]   [music playing]
+[00:21:45.280 --> 00:22:02.280]   Here is love.
+[00:22:02.280 --> 00:22:11.280]   Here is love, vast as the ocean, loving kindness as the flood.
+[00:22:11.360 --> 00:22:15.280]   And the prince of life, our ransom,
+[00:22:15.280 --> 00:22:19.280]   shed for us his precious blood.
+[00:22:19.280 --> 00:22:24.280]   Who is love will not remember, who
+[00:22:24.280 --> 00:22:28.280]   can cease to sing his praise.
+[00:22:28.280 --> 00:22:35.280]   He can never be forgotten throughout heaven's eternal
+[00:22:35.280 --> 00:22:36.280]   day.
+[00:22:37.200 --> 00:22:40.200]   [music playing]
+[00:22:40.200 --> 00:22:48.200]   On the mount, on the mount of crucifixion,
+[00:22:48.200 --> 00:22:52.200]   fountains open deep and wide.
+[00:22:52.200 --> 00:22:57.200]   Through the floodgates of God's mercy,
+[00:22:57.200 --> 00:23:01.200]   flowed a vast and gracious tide.
+[00:23:01.280 --> 00:23:07.200]   Grace and love, like mighty rivers, poured in sands
+[00:23:07.200 --> 00:23:10.200]   and from above.
+[00:23:10.200 --> 00:23:14.200]   Heaven's peace and perfect justice
+[00:23:14.200 --> 00:23:18.200]   kissed the guilty world in love.
+[00:23:18.200 --> 00:23:21.200]   [music playing]
+[00:23:21.200 --> 00:23:30.200]   Here is love that conquered evil,
+[00:23:30.280 --> 00:23:35.200]   blessed the firstborn from the grave.
+[00:23:35.200 --> 00:23:39.200]   Death has failed to be found equal
+[00:23:39.200 --> 00:23:43.200]   to the life of him who stays.
+[00:23:43.200 --> 00:23:52.200]   In the valley of our darkness, dawned his everlasting light.
+[00:23:52.200 --> 00:23:56.200]   Perfect love in glorious radiance
+[00:23:56.280 --> 00:24:00.200]   has repelled this hellish night.
+[00:24:00.200 --> 00:24:03.200]   [music playing]
+[00:24:03.200 --> 00:24:12.200]   No love is higher.
+[00:24:12.200 --> 00:24:19.200]   No love is higher.
+[00:24:19.200 --> 00:24:21.200]   No love is wider.
+[00:24:21.200 --> 00:24:23.200]   No love is deeper.
+[00:24:23.200 --> 00:24:25.200]   No love is truer.
+[00:24:25.280 --> 00:24:27.200]   No love is higher.
+[00:24:27.200 --> 00:24:29.200]   No love is wider.
+[00:24:29.200 --> 00:24:34.200]   No love is like your love, O Lord.
+[00:24:34.200 --> 00:24:36.200]   No love is higher.
+[00:24:36.200 --> 00:24:38.200]   No love is wider.
+[00:24:38.200 --> 00:24:40.200]   No love is deeper.
+[00:24:40.200 --> 00:24:42.200]   No love is truer.
+[00:24:42.200 --> 00:24:44.200]   No love is higher.
+[00:24:44.200 --> 00:24:46.200]   No love is wider.
+[00:24:46.200 --> 00:24:50.200]   No love is like your love, O Lord.
+[00:24:53.200 --> 00:24:57.200]   Here is love vast as the heavens,
+[00:24:57.200 --> 00:25:03.200]   countless as the stars above, are the souls
+[00:25:03.200 --> 00:25:10.200]   that he has ransomed, precious daughters, treasured sons.
+[00:25:10.200 --> 00:25:19.200]   We are called to feast forever on a love beyond our time.
+[00:25:19.200 --> 00:25:26.200]   Glorious Father, Son, and Spirit, now with man are in.
+[00:25:26.200 --> 00:25:28.200]   We are called.
+[00:25:28.200 --> 00:25:37.200]   We are called to feast forever on a love beyond our time.
+[00:25:37.200 --> 00:25:44.200]   Glorious Father, Son, and Spirit, now with man are in.
+[00:25:44.200 --> 00:25:46.200]   We are one more time.
+[00:25:46.200 --> 00:25:55.200]   We are called to feast forever on a love beyond our time.
+[00:25:55.200 --> 00:26:05.200]   Glorious Father, Son, and Spirit, now with man are intertwined.
+[00:26:05.200 --> 00:26:06.200]   Amen.
+[00:26:07.200 --> 00:26:10.200]   [MUSIC - "THERE'S A PLACE WHERE MERCY REIGNS"]
+[00:26:10.200 --> 00:26:28.200]   There's a place where mercy reigns and never dies.
+[00:26:33.200 --> 00:26:46.200]   There's a place where streams of grace flow deep and wide,
+[00:26:46.200 --> 00:26:52.200]   where all the love I've ever found
+[00:26:52.200 --> 00:26:58.200]   comes like a flood, comes flowing down.
+[00:27:02.200 --> 00:27:09.200]   At the cross, at the cross, I surrender my life.
+[00:27:09.200 --> 00:27:12.200]   I'm in awe of you.
+[00:27:12.200 --> 00:27:16.200]   I'm in awe of you.
+[00:27:16.200 --> 00:27:22.200]   Where your love ran red and my sin washed white,
+[00:27:22.200 --> 00:27:26.200]   I owe all to you.
+[00:27:26.200 --> 00:27:30.200]   I owe all to you, Jesus.
+[00:27:31.200 --> 00:27:49.200]   There's a place where sin and shame are powerless,
+[00:27:49.200 --> 00:28:00.200]   where my heart has peace with God and forgiveness,
+[00:28:00.200 --> 00:28:09.200]   where all the love, where all the love I've ever found
+[00:28:09.200 --> 00:28:16.200]   comes like a flood, comes flowing down.
+[00:28:16.200 --> 00:28:23.200]   At the cross, at the cross, I surrender my life.
+[00:28:23.200 --> 00:28:26.200]   I'm in awe of you.
+[00:28:26.200 --> 00:28:29.200]   I'm in awe of you.
+[00:28:29.200 --> 00:28:36.200]   Where your love ran red and my sin washed white,
+[00:28:36.200 --> 00:28:39.200]   I owe all to you.
+[00:28:39.200 --> 00:28:44.200]   I owe all to you.
+[00:28:44.200 --> 00:28:51.200]   Here my hope is found, here on holy ground,
+[00:28:51.200 --> 00:28:57.200]   here I bow down, here I bow down.
+[00:28:57.200 --> 00:29:04.200]   Here I was hoping, why here you saved my life,
+[00:29:04.200 --> 00:29:10.200]   here I bow down, here I bow.
+[00:29:10.200 --> 00:29:16.200]   At the cross, at the cross, I surrender my life.
+[00:29:16.200 --> 00:29:19.200]   I'm in awe of you.
+[00:29:19.200 --> 00:29:23.200]   I'm in awe of you.
+[00:29:23.200 --> 00:29:30.200]   Where your love ran red and my sin washed white,
+[00:29:30.200 --> 00:29:33.200]   I owe all to you.
+[00:29:33.200 --> 00:29:36.200]   I owe all, one more time, at the cross.
+[00:29:36.200 --> 00:29:43.200]   At the cross, at the cross, I surrender my life.
+[00:29:43.200 --> 00:29:46.200]   I'm in awe of you.
+[00:29:46.200 --> 00:29:49.200]   I'm in awe of you.
+[00:29:49.200 --> 00:29:56.200]   Where your love ran red and my sin washed white,
+[00:29:56.200 --> 00:30:00.200]   I owe all to you.
+[00:30:00.200 --> 00:30:03.200]   I owe all to you.
+[00:30:03.200 --> 00:30:07.200]   Jesus.
+[00:30:07.200 --> 00:30:08.200]   Amen.
+[00:30:08.200 --> 00:30:09.200]   You may be seated.
+[00:30:09.200 --> 00:30:26.200]   Hi, my name is Yoon, and this is my testimony.
+[00:30:26.200 --> 00:30:28.200]   Like many others, I grew up in the church
+[00:30:28.200 --> 00:30:31.200]   and continued to attend until I was about 10 years old.
+[00:30:31.200 --> 00:30:35.200]   During that time, my parents had converted to Catholicism,
+[00:30:35.200 --> 00:30:38.200]   and both of my sisters went and found a different church.
+[00:30:38.200 --> 00:30:41.200]   I continued to attend various churches,
+[00:30:41.200 --> 00:30:43.200]   but eventually my 10-year-old mind concluded
+[00:30:43.200 --> 00:30:45.200]   that there was nothing for me there.
+[00:30:45.200 --> 00:30:48.200]   I had learned that Jesus loved me, died for my sins,
+[00:30:48.200 --> 00:30:50.200]   and that I am saved to go to heaven.
+[00:30:50.200 --> 00:30:53.200]   So why did I have to continue to attend church?
+[00:30:53.200 --> 00:30:57.200]   It was difficult for me to understand the purpose of attending,
+[00:30:57.200 --> 00:31:00.200]   and no one at the church has really explained to me this purpose.
+[00:31:00.200 --> 00:31:03.200]   So I stopped attending.
+[00:31:03.200 --> 00:31:06.200]   And of course, my determination to continue my faith at home
+[00:31:06.200 --> 00:31:10.200]   by praying and reading the Bible was very short-lived.
+[00:31:10.200 --> 00:31:13.200]   I spent all my free time on what most other kids did during that age,
+[00:31:13.200 --> 00:31:16.200]   which was to play and hang out with friends.
+[00:31:16.200 --> 00:31:20.200]   I was diligent in my schoolwork and slowly built up my pride
+[00:31:20.200 --> 00:31:23.200]   upon the worldly knowledge that I have gained throughout the years.
+[00:31:23.200 --> 00:31:25.200]   There was nothing wrong with my life,
+[00:31:25.200 --> 00:31:28.200]   and I should have been perfectly content.
+[00:31:28.200 --> 00:31:31.200]   But for some reason, I felt empty.
+[00:31:31.200 --> 00:31:34.200]   I think puberty hit me a little earlier than most
+[00:31:34.200 --> 00:31:37.200]   because I was already starting to have an existential crisis,
+[00:31:37.200 --> 00:31:40.200]   questioning for what purpose I was working so hard for in school
+[00:31:40.200 --> 00:31:42.200]   and to please other people.
+[00:31:42.200 --> 00:31:45.200]   And I believe it was the grace of God that gave me that empty feeling
+[00:31:45.200 --> 00:31:50.200]   because I started to think about and search for the purpose of my life.
+[00:31:50.200 --> 00:31:53.200]   God started to guide me closer to Christ with the people around me
+[00:31:53.200 --> 00:31:56.200]   who would ask me to come out to church with them.
+[00:31:56.200 --> 00:32:00.200]   I said no in the politest way possible numerous times,
+[00:32:00.200 --> 00:32:03.200]   but they were very persistent.
+[00:32:03.200 --> 00:32:08.200]   What really made me go back to church and turn to Christ was my older sister.
+[00:32:08.200 --> 00:32:10.200]   Ever since she delved deeper into her faith,
+[00:32:10.200 --> 00:32:14.200]   she would go on a lot of missionary trips, do service at her home church,
+[00:32:14.200 --> 00:32:16.200]   and pray at home for our family,
+[00:32:16.200 --> 00:32:19.200]   which I could hear across the thin wall between our rooms.
+[00:32:19.200 --> 00:32:22.200]   It wasn't those things specifically that made me realize
+[00:32:22.200 --> 00:32:24.200]   that her faith in Christ has changed her,
+[00:32:24.200 --> 00:32:28.200]   but it made me recognize the changes in her speech and actions.
+[00:32:28.200 --> 00:32:31.200]   She was a completely different person,
+[00:32:31.200 --> 00:32:34.200]   and she would agree with me when I say that she was not a very nice person before,
+[00:32:34.200 --> 00:32:36.200]   at least to me.
+[00:32:36.200 --> 00:32:39.200]   The changes in her were surprising,
+[00:32:39.200 --> 00:32:43.200]   but she seemed so happy, so content, and so hopeful,
+[00:32:43.200 --> 00:32:45.200]   which was what I was looking for.
+[00:32:45.200 --> 00:32:48.200]   I instinctively knew that it was the work of Christ in her life,
+[00:32:48.200 --> 00:32:51.200]   and I wanted Him to give me that same hope.
+[00:32:51.200 --> 00:32:56.200]   So I started to attend my cousin's home church at the age of 14.
+[00:32:56.200 --> 00:32:58.200]   I was learning about the gospel again,
+[00:32:58.200 --> 00:33:01.200]   filling myself with head knowledge for about a year,
+[00:33:01.200 --> 00:33:03.200]   and there were no specific changes in my view of life,
+[00:33:03.200 --> 00:33:07.200]   but God gave me the heart to continue attending.
+[00:33:07.200 --> 00:33:12.200]   One day, during group prayer, God convicted me of my sins,
+[00:33:12.200 --> 00:33:14.200]   the arrogance, pride, anger, lust,
+[00:33:14.200 --> 00:33:17.200]   all the filth that I filled myself up with in this world,
+[00:33:17.200 --> 00:33:20.200]   and that was when I finally, finally repented
+[00:33:20.200 --> 00:33:23.200]   and accepted Him as my Lord and Savior.
+[00:33:23.200 --> 00:33:27.200]   And I was so grateful that He continued to love me when I was a sinner
+[00:33:27.200 --> 00:33:29.200]   and loved me enough to save me from my sins
+[00:33:29.200 --> 00:33:32.200]   that my life purpose was changed to equip myself with His Word
+[00:33:32.200 --> 00:33:34.200]   so that I may know and do His will.
+[00:33:34.200 --> 00:33:37.200]   I was passionate to learn about Christ and the Father
+[00:33:37.200 --> 00:33:40.200]   and gradually made time to read His Word and pray.
+[00:33:40.200 --> 00:33:43.200]   And His work in my life slowly started to appear in the way I approached sin.
+[00:33:43.200 --> 00:33:46.200]   I was not afraid of the consequences of sin,
+[00:33:46.200 --> 00:33:49.200]   but I was afraid to disappoint the Father who had extended His grace
+[00:33:49.200 --> 00:33:52.200]   so that I may no longer live in sin.
+[00:33:52.200 --> 00:33:54.200]   And during my walk in faith,
+[00:33:54.200 --> 00:33:58.200]   I definitely had many spiritually dry seasons where I had stumbled,
+[00:33:58.200 --> 00:34:00.200]   but God continued to grip me with His faithfulness,
+[00:34:00.200 --> 00:34:05.200]   and I now know that there is nothing that can separate me from His great love.
+[00:34:05.200 --> 00:34:09.200]   Finally, I want to conclude my testimony with an encouraging verse
+[00:34:09.200 --> 00:34:11.200]   that continues to give me strength to persevere.
+[00:34:11.200 --> 00:34:14.200]   It is John 16, 33.
+[00:34:14.200 --> 00:34:18.200]   "These things I have spoken to you so that in me you may have peace.
+[00:34:18.200 --> 00:34:20.200]   In the world you will have tribulations,
+[00:34:20.200 --> 00:34:23.200]   but take courage, I have overcome the world."
+[00:34:23.200 --> 00:34:26.200]   I often find it difficult to continue in steadfast faith,
+[00:34:26.200 --> 00:34:28.200]   especially while living in a sin-corrupted world,
+[00:34:28.200 --> 00:34:32.200]   and I have to regularly remind myself that God works out all things for good
+[00:34:32.200 --> 00:34:34.200]   for those that love Him.
+[00:34:34.200 --> 00:34:38.200]   He works in the most unexpected ways at the most inconceivable time,
+[00:34:38.200 --> 00:34:41.200]   and I find myself badgering Him for answers and solutions
+[00:34:41.200 --> 00:34:44.200]   as I struggle with the things that this world throws at me.
+[00:34:44.200 --> 00:34:48.200]   Even this week has been so far the most stressful and anxiety-ridden week
+[00:34:48.200 --> 00:34:50.200]   I have had in a series of stressful weeks,
+[00:34:50.200 --> 00:34:53.200]   but God spoke to me through the very source of my stress,
+[00:34:53.200 --> 00:34:57.200]   telling me, "Trust my process, my plan, my timing,"
+[00:34:57.200 --> 00:35:02.200]   which was the answer to all the series of anxious and distressed prayers I had given.
+[00:35:02.200 --> 00:35:04.200]   And the simple answer was what I had already known,
+[00:35:04.200 --> 00:35:07.200]   which was, "Trust God's timing, trust God's plan,
+[00:35:07.200 --> 00:35:11.200]   trust God's process, and trust God."
+[00:35:11.200 --> 00:35:13.200]   Thank you for listening.
+[00:35:13.200 --> 00:35:19.200]   [applause]
+[00:35:19.200 --> 00:35:25.200]   [silence]
+[00:35:25.200 --> 00:35:31.200]   [silence]
+[00:35:54.200 --> 00:36:00.200]   [applause]
+[00:36:00.200 --> 00:36:08.200]   All right, thank you, Yun, for your great testimony.
+[00:36:08.200 --> 00:36:12.200]   We were laughing because I kept on getting her name wrong.
+[00:36:12.200 --> 00:36:16.200]   All right, Yun, congratulations.
+[00:36:16.200 --> 00:36:18.200]   [laughter]
+[00:36:18.200 --> 00:36:23.200]   Okay, if you can turn your Bibles with me to Luke 1,
+[00:36:23.200 --> 00:36:27.200]   and I'll be reading from verse 76 to verse 80.
+[00:36:27.200 --> 00:36:38.200]   Luke 1, verse 76 to verse 80.
+[00:36:38.200 --> 00:36:41.200]   "And you, child, will be called the prophet of the Most High,
+[00:36:41.200 --> 00:36:44.200]   for you will go on before the Lord to prepare His ways,
+[00:36:44.200 --> 00:36:49.200]   to give to His people the knowledge of salvation by the forgiveness of their sins,
+[00:36:49.200 --> 00:36:51.200]   because of the tender mercy of our God,
+[00:36:51.200 --> 00:36:55.200]   with which the sunrise from on high will visit us,
+[00:36:55.200 --> 00:36:58.200]   to shine upon those who sit in darkness in the shadow of death,
+[00:36:58.200 --> 00:37:02.200]   to guide our feet into the way of peace.
+[00:37:02.200 --> 00:37:05.200]   And a child continued to grow and to become strong in spirit,
+[00:37:05.200 --> 00:37:10.200]   and he lived in the deserts until the day of his public appearance to Israel."
+[00:37:10.200 --> 00:37:12.200]   Let's pray.
+[00:37:18.200 --> 00:37:24.200]   Father, we thank you so much for being gracious and patient with us.
+[00:37:24.200 --> 00:37:29.200]   Help us, Lord God, to understand your Word more than just knowledge,
+[00:37:29.200 --> 00:37:33.200]   but that you would convict our hearts through your Word.
+[00:37:33.200 --> 00:37:42.200]   Bring us, Lord God, to peace, repentance, to great joy, celebration, and to worship.
+[00:37:42.200 --> 00:37:45.200]   Guide us and lead us. Open our ears that we may understand.
+[00:37:45.200 --> 00:37:48.200]   In Jesus' name we pray. Amen.
+[00:37:48.200 --> 00:37:54.200]   You know, years ago, those of you guys who are on the seasoned fellowship,
+[00:37:54.200 --> 00:37:59.200]   when we were younger, Chinese medicine was almost considered a joke.
+[00:37:59.200 --> 00:38:00.200]   You know what I mean?
+[00:38:00.200 --> 00:38:03.200]   You remember how people saw sushi, right?
+[00:38:03.200 --> 00:38:04.200]   Do you remember that?
+[00:38:04.200 --> 00:38:09.200]   Like, "Oh, you eat raw fish," and now everybody stands in line to get the omakase.
+[00:38:09.200 --> 00:38:11.200]   They got to pay a lot of money to sit there.
+[00:38:11.200 --> 00:38:13.200]   Remember when we were younger?
+[00:38:13.200 --> 00:38:16.200]   It was like, "Oh, my gosh, you eat raw fish," right?
+[00:38:16.200 --> 00:38:19.200]   How time has changed, right?
+[00:38:19.200 --> 00:38:22.200]   There's a lot of things like in the--in particular, the Chinese culture,
+[00:38:22.200 --> 00:38:25.200]   because there's 3,000 years of observation.
+[00:38:25.200 --> 00:38:29.200]   And so, you know, when we were younger, Chinese medicine is like,
+[00:38:29.200 --> 00:38:32.200]   "Oh, from a poor country," at least at that time.
+[00:38:32.200 --> 00:38:34.200]   And so they didn't take it seriously.
+[00:38:34.200 --> 00:38:39.200]   But as now medicine has progressed, and the more in the medical field,
+[00:38:39.200 --> 00:38:42.200]   they're looking more deeply into the Chinese medicine
+[00:38:42.200 --> 00:38:45.200]   because they know there are certain things that they may not have understood
+[00:38:45.200 --> 00:38:47.200]   30, 40 years ago, but now it's starting to make sense.
+[00:38:47.200 --> 00:38:50.200]   So they're kind of trying to decide for what to take serious
+[00:38:50.200 --> 00:38:52.200]   and what not to take serious.
+[00:38:52.200 --> 00:38:55.200]   And, you know, anything that you observe for thousands of years,
+[00:38:55.200 --> 00:38:58.200]   obviously that's something that we need to pay attention to
+[00:38:58.200 --> 00:39:00.200]   because even if we don't understand it,
+[00:39:00.200 --> 00:39:04.200]   clearly there's some wisdom behind it that we may not be able to comprehend.
+[00:39:04.200 --> 00:39:07.200]   If it's been around for thousands of years,
+[00:39:07.200 --> 00:39:10.200]   there must be a reason behind that, right?
+[00:39:10.200 --> 00:39:13.200]   In the same way, there's things that we observe, right?
+[00:39:13.200 --> 00:39:17.200]   Whether it's 10 years, 20 years, or maybe during our lifetime,
+[00:39:17.200 --> 00:39:20.200]   there are certain principles that you see that are consistent.
+[00:39:20.200 --> 00:39:23.200]   And I remember one of the things that my mom used to say
+[00:39:23.200 --> 00:39:26.200]   when I was a young pastor, and she would say,
+[00:39:26.200 --> 00:39:29.200]   "You know, sometimes the people that are harder to get to know
+[00:39:29.200 --> 00:39:32.200]   end up sticking around in your life longer.
+[00:39:32.200 --> 00:39:35.200]   And then the people who warm up really quick,
+[00:39:35.200 --> 00:39:37.200]   they end up getting cold really quick too."
+[00:39:37.200 --> 00:39:40.200]   And when I was younger, I heard that, you know,
+[00:39:40.200 --> 00:39:43.200]   you just kind of hear it, and it's like, "Oh, okay."
+[00:39:43.200 --> 00:39:46.200]   But as time has gone by, again, this is from her observation
+[00:39:46.200 --> 00:39:50.200]   from many years of ministry, and I can say that's one of the truths
+[00:39:50.200 --> 00:39:53.200]   that I remember, you know, that sometimes we can give up
+[00:39:53.200 --> 00:39:56.200]   on relationships easily because it's harder to get to know,
+[00:39:56.200 --> 00:39:59.200]   and sometimes some of the best relationships
+[00:39:59.200 --> 00:40:03.200]   are relationships that take time to develop.
+[00:40:03.200 --> 00:40:06.200]   So all of you probably, as you get older,
+[00:40:06.200 --> 00:40:08.200]   you have certain things that you may have heard,
+[00:40:08.200 --> 00:40:10.200]   and it's proven to be true, and you become more and more
+[00:40:10.200 --> 00:40:12.200]   reliant on that as you get older.
+[00:40:12.200 --> 00:40:15.200]   I say all of this because there's things in the Scripture
+[00:40:15.200 --> 00:40:18.200]   that we read that is like, "Seek ye first the kingdom of God,
+[00:40:18.200 --> 00:40:21.200]   and all these things shall be added unto you."
+[00:40:21.200 --> 00:40:23.200]   And when you first hear it, you have a hard time believing that
+[00:40:23.200 --> 00:40:26.200]   and practicing that because, you know, there's consequences to this,
+[00:40:26.200 --> 00:40:30.200]   but if you've lived by that principle for many years,
+[00:40:30.200 --> 00:40:33.200]   you know how accurate that is.
+[00:40:33.200 --> 00:40:35.200]   You know how consistent God is.
+[00:40:35.200 --> 00:40:38.200]   And not just that, everything that God says,
+[00:40:38.200 --> 00:40:42.200]   if you've been--the longer that you walk with the Lord consistently,
+[00:40:42.200 --> 00:40:46.200]   you know that what he says is proven to be true.
+[00:40:46.200 --> 00:40:49.200]   So a lot of times we look at Scripture, and it's like,
+[00:40:49.200 --> 00:40:51.200]   "Well, what are the archaeological evidence?
+[00:40:51.200 --> 00:40:54.200]   What are the fulfilled prophecies and the manuscripts?"
+[00:40:54.200 --> 00:40:57.200]   And we look at all of this stuff, but really,
+[00:40:57.200 --> 00:40:59.200]   the best evidence is the Bible itself.
+[00:40:59.200 --> 00:41:02.200]   The longer you gaze into it, the longer you walk in it,
+[00:41:02.200 --> 00:41:06.200]   and you practice it, you realize, like, "Wow, there's nothing more truer
+[00:41:06.200 --> 00:41:09.200]   than what the Scripture says."
+[00:41:09.200 --> 00:41:12.200]   So the more we practice it, the more we observe it,
+[00:41:12.200 --> 00:41:15.200]   the more we study it, the longer that we've been walking with the Lord,
+[00:41:15.200 --> 00:41:18.200]   it's not because there's some brand-new truth.
+[00:41:18.200 --> 00:41:20.200]   It's just that the things that we've known,
+[00:41:20.200 --> 00:41:24.200]   it's just proven over and over and over,
+[00:41:24.200 --> 00:41:28.200]   and there's no way a human being could have written this.
+[00:41:28.200 --> 00:41:31.200]   When we look at the fulfilled prospecy, what we talked about last week,
+[00:41:31.200 --> 00:41:34.200]   we said, "I don't know how much of you really understood
+[00:41:34.200 --> 00:41:38.200]   what I was saying last week," but again, even if you didn't understand it,
+[00:41:38.200 --> 00:41:42.200]   it's important enough that hopefully that kind of tickled your mind
+[00:41:42.200 --> 00:41:45.200]   to cause you to look into it deeper,
+[00:41:45.200 --> 00:41:50.200]   because the promise that God made to Abraham 4,000 years ago
+[00:41:50.200 --> 00:41:54.200]   is the same promise that he is continuing to fulfill.
+[00:41:54.200 --> 00:41:57.200]   He made this promise, and a thousand years go by
+[00:41:57.200 --> 00:42:00.200]   before the nation has ever developed, and you would think people are like,
+[00:42:00.200 --> 00:42:03.200]   "A thousand years went by. He didn't fulfill his promise,"
+[00:42:03.200 --> 00:42:05.200]   and yet he shows up and he says, "I'm going to fulfill this,"
+[00:42:05.200 --> 00:42:09.200]   and gives a Davidic covenant, and then another thousand years passes by,
+[00:42:09.200 --> 00:42:12.200]   and then the angel said, "It's because of the promise that God made to Abraham.
+[00:42:12.200 --> 00:42:14.200]   That's why Jesus is here."
+[00:42:14.200 --> 00:42:17.200]   Then 2,000 years have gone by since then,
+[00:42:17.200 --> 00:42:20.200]   and then we see in the book of Revelation how he's going to fulfill all of this
+[00:42:20.200 --> 00:42:24.200]   and the glory that is coming, and so for thousands and thousands of years,
+[00:42:24.200 --> 00:42:28.200]   the promise that he made, he never forgot.
+[00:42:28.200 --> 00:42:31.200]   Over and over again, from generation to generation,
+[00:42:31.200 --> 00:42:35.200]   hundreds and hundreds of years, he is consistently remembering.
+[00:42:35.200 --> 00:42:38.200]   So every time, whether it's a hundred years later or a thousand years later,
+[00:42:38.200 --> 00:42:42.200]   he continues to repeat back, "Because I am the God of Abraham, Isaac, and Jacob,
+[00:42:42.200 --> 00:42:45.200]   because of the covenant that I have made,
+[00:42:45.200 --> 00:42:47.200]   that I will be faithful to myself,
+[00:42:47.200 --> 00:42:52.200]   that I will seek my glory in keeping my promise."
+[00:42:52.200 --> 00:42:56.200]   Even though our life may be short, that we only experience maybe,
+[00:42:56.200 --> 00:42:58.200]   if you live long, a hundred years, right?
+[00:42:58.200 --> 00:43:00.200]   Most of us probably not, right?
+[00:43:00.200 --> 00:43:04.200]   But even if we live long during that hundred years, we see that.
+[00:43:04.200 --> 00:43:09.200]   We see how--what God promised, he does.
+[00:43:09.200 --> 00:43:10.200]   He does.
+[00:43:10.200 --> 00:43:13.200]   God is not man that he should lie, nor the Son of Man that he should repent.
+[00:43:13.200 --> 00:43:16.200]   Has he not said, and will he not do it?
+[00:43:16.200 --> 00:43:19.200]   And over and over again, right?
+[00:43:19.200 --> 00:43:25.200]   So if there's anything that I have more confidence today is in the Word of God, right?
+[00:43:25.200 --> 00:43:27.200]   Everything changes.
+[00:43:27.200 --> 00:43:28.200]   Generation changes.
+[00:43:28.200 --> 00:43:31.200]   We don't know what movement is going to come next.
+[00:43:31.200 --> 00:43:34.200]   The social justice movement, the gospel movement, the reform movement,
+[00:43:34.200 --> 00:43:36.200]   the charismatic movement, right?
+[00:43:36.200 --> 00:43:38.200]   The discipleship movement, the holiness movement,
+[00:43:38.200 --> 00:43:40.200]   and we have movements that come and they go.
+[00:43:40.200 --> 00:43:47.200]   But the Word of God stays consistent, the same, today, yesterday, and forevermore.
+[00:43:47.200 --> 00:43:51.200]   And that's why we can have confidence that we can get involved with various things
+[00:43:51.200 --> 00:43:53.200]   that are coming in our generation,
+[00:43:53.200 --> 00:43:56.200]   but I guarantee you, ten years from now, you're going to look back at that,
+[00:43:56.200 --> 00:43:58.200]   it's like, "Oh, you got caught up in this."
+[00:43:58.200 --> 00:44:00.200]   And another ten years from now, it's like, "Oh, it's gone,
+[00:44:00.200 --> 00:44:02.200]   and it's not in people's psyches anymore."
+[00:44:02.200 --> 00:44:06.200]   But we're going to stick to the Word of God, right?
+[00:44:06.200 --> 00:44:09.200]   Nothing that we say, nothing that we do from this Word,
+[00:44:09.200 --> 00:44:12.200]   you're going to look back at it 50 years later, it's like, "I wish I didn't do that."
+[00:44:12.200 --> 00:44:16.200]   You're going to see how it's proven more and more and more.
+[00:44:16.200 --> 00:44:20.200]   All of this, again, is an introduction to the text that we're looking at,
+[00:44:20.200 --> 00:44:25.200]   starting from verse 76, because now God, 2,000 years after He made His promise,
+[00:44:25.200 --> 00:44:29.200]   He is going to fulfill a portion of that, the central portion of His promise,
+[00:44:29.200 --> 00:44:36.200]   through the Messiah that's coming, specifically through His servant, John.
+[00:44:36.200 --> 00:44:40.200]   And in this praise, this prophecy from Zechariah,
+[00:44:40.200 --> 00:44:44.200]   there's two things that is clarified for us of His ministry.
+[00:44:44.200 --> 00:44:47.200]   One, His call.
+[00:44:47.200 --> 00:44:51.200]   What is He called to do? And two, what is His message?
+[00:44:51.200 --> 00:44:56.200]   So that's pretty much the outline of what we're going to be covering this morning.
+[00:44:56.200 --> 00:45:00.200]   What is John's call, and what is His message?
+[00:45:00.200 --> 00:45:05.200]   One, He is the prophet, it says, of the Most High God.
+[00:45:05.200 --> 00:45:12.200]   Now, today, 2,000 years removed, we have the New Testament written for us,
+[00:45:12.200 --> 00:45:14.200]   we have prophecy of the Old Testament, we read that and say,
+[00:45:14.200 --> 00:45:16.200]   "Oh, He's a prophet of the Most High God."
+[00:45:16.200 --> 00:45:20.200]   But you have to remember, when this is prophesied,
+[00:45:20.200 --> 00:45:23.200]   all the Jews who have heard this knew exactly what was going on,
+[00:45:23.200 --> 00:45:27.200]   because there were how many years of silence?
+[00:45:27.200 --> 00:45:31.200]   400 years. The last time God sent the prophet was 400 years.
+[00:45:31.200 --> 00:45:36.200]   So nobody in that generation ever heard a prophet before.
+[00:45:36.200 --> 00:45:41.200]   There's not a single person who is alive who heard directly from the prophet of God.
+[00:45:41.200 --> 00:45:44.200]   400 years of complete silence.
+[00:45:44.200 --> 00:45:50.200]   The Book of Amos was warning the nation of Israel that if you continue to rebel against God,
+[00:45:50.200 --> 00:45:56.200]   there's going to come a famine in the land, but it's not going to be the famine of food or water.
+[00:45:56.200 --> 00:45:58.200]   He said it's going to be a famine of the Word of God.
+[00:45:58.200 --> 00:46:02.200]   In other words, God's going to withdraw His Spirit, He's going to withdraw His servants,
+[00:46:02.200 --> 00:46:06.200]   and you're going to be staggering from place to place looking to hear from God, He said,
+[00:46:06.200 --> 00:46:09.200]   but you will not hear it, because as a judgment against Israel,
+[00:46:09.200 --> 00:46:11.200]   He said He's going to withhold His Word.
+[00:46:11.200 --> 00:46:16.200]   Now, you may look at that and say, well, how does He withhold His Word?
+[00:46:16.200 --> 00:46:22.200]   Because they had the Word, they had this transcription, right?
+[00:46:22.200 --> 00:46:27.200]   I mean, they might not have it the way that we have it now, but they had access to that.
+[00:46:27.200 --> 00:46:33.200]   So does it mean that God was going to hide His scroll so that people wouldn't know what it says?
+[00:46:33.200 --> 00:46:38.200]   Possibly, but when He says He's going to stop speaking, He's not simply talking about,
+[00:46:38.200 --> 00:46:42.200]   you're not going to have the written Word to go and examine.
+[00:46:42.200 --> 00:46:48.200]   There's a huge difference between what a prophet does.
+[00:46:48.200 --> 00:46:52.200]   A priest is an individual who stands before God and before man,
+[00:46:52.200 --> 00:46:56.200]   and he represents God to the people and people to God.
+[00:46:56.200 --> 00:47:03.200]   So he's a mediator in between through the sacrificial system to kind of stand in between to help this relationship.
+[00:47:03.200 --> 00:47:10.200]   A prophet is a man who has been ordained to represent God to the people, specifically.
+[00:47:10.200 --> 00:47:13.200]   He's not simply a scribe.
+[00:47:13.200 --> 00:47:17.200]   He's not an individual who simply studies the Scripture and then interprets it.
+[00:47:17.200 --> 00:47:21.200]   Oh, this is what Leviticus means, this is what Numbers means, this is what the prophets mean.
+[00:47:21.200 --> 00:47:24.200]   That's not a prophet. That's just an interpreter.
+[00:47:24.200 --> 00:47:28.200]   That's just somebody who's regurgitating information that he gained through study.
+[00:47:28.200 --> 00:47:34.200]   In fact, one of the biggest rebukes during the time of Christ is to the scribes and the Pharisees
+[00:47:34.200 --> 00:47:38.200]   who knew the Scripture, but they weren't speaking for God.
+[00:47:38.200 --> 00:47:43.200]   A prophet is an individual who has a direct message from God to give.
+[00:47:43.200 --> 00:47:49.200]   So typically in our generation, when we say prophet, we think of somebody who's foretelling the future, right?
+[00:47:49.200 --> 00:47:53.200]   Somebody who prophesies saying, "Tomorrow this is going to happen, next year this is going to happen.
+[00:47:53.200 --> 00:47:55.200]   You should marry this person or that person."
+[00:47:55.200 --> 00:48:00.200]   And not to say that that isn't part of the definition, but the bigger definition of what a prophet is
+[00:48:00.200 --> 00:48:06.200]   is simply an individual who's directly speaking as a mouthpiece of God.
+[00:48:06.200 --> 00:48:14.200]   So John, being the first prophet in 400 years, as he is saying,
+[00:48:14.200 --> 00:48:19.200]   and the reason why this is being declared is basically telling the people to listen.
+[00:48:19.200 --> 00:48:22.200]   This is not just an interpreter. He's not just giving you knowledge.
+[00:48:22.200 --> 00:48:26.200]   It's not giving you tradition. God is now breaking through history.
+[00:48:26.200 --> 00:48:28.200]   Now he's going to be speaking to you.
+[00:48:28.200 --> 00:48:33.200]   And the whole reason why he's doing that is obviously for the reason why he's speaking.
+[00:48:33.200 --> 00:48:35.200]   To listen to him.
+[00:48:35.200 --> 00:48:42.200]   But by definition of what a prophet is, a prophet must first know God.
+[00:48:42.200 --> 00:48:45.200]   A prophet must first know God.
+[00:48:45.200 --> 00:48:52.200]   And you know, you know the difference between simple interpretation versus proclamation.
+[00:48:52.200 --> 00:48:58.200]   Interpretation basically is if I spend enough time studying and expositing and dissecting,
+[00:48:58.200 --> 00:49:00.200]   I can tell you what it says. You can learn it.
+[00:49:00.200 --> 00:49:03.200]   You can dissect it and say, "Oh, that's what that means."
+[00:49:03.200 --> 00:49:10.200]   A prophet's call is not simply to represent the Word of God, but his heart.
+[00:49:10.200 --> 00:49:13.200]   See, if a prophet doesn't understand the heart of God,
+[00:49:13.200 --> 00:49:17.200]   you can speak the Word of God to the wrong people at the wrong time.
+[00:49:17.200 --> 00:49:20.200]   You can tell somebody, "Peace, peace," when there is no peace.
+[00:49:20.200 --> 00:49:24.200]   Well, does the Bible talk about peace? Of course the Bible talks about peace.
+[00:49:24.200 --> 00:49:29.200]   And you can take that word and then apply it to people who may need rebuke.
+[00:49:29.200 --> 00:49:34.200]   Or you can take a passage in there where people need the grace of God,
+[00:49:34.200 --> 00:49:40.200]   and you've taken the Word of God and you applied it to the wrong people at the wrong time.
+[00:49:40.200 --> 00:49:44.200]   So a prophet is not simply somebody who is expositing the text.
+[00:49:44.200 --> 00:49:48.200]   A prophet, first and foremost, must know God.
+[00:49:48.200 --> 00:49:54.200]   That's why it says at the end in verse 80, right, after this proclamation happened, he's born.
+[00:49:54.200 --> 00:49:57.200]   And at the end it says he was out in the desert.
+[00:49:57.200 --> 00:50:00.200]   And this is a common theme that we see in the Bible.
+[00:50:00.200 --> 00:50:05.200]   When God is preparing people for ministry, whether it was Joseph,
+[00:50:05.200 --> 00:50:09.200]   he wasn't in maybe literal desert, but he was in a form of a desert.
+[00:50:09.200 --> 00:50:12.200]   He was completely isolated.
+[00:50:12.200 --> 00:50:17.200]   Moses, right, he had to be prepared for the great work that God is calling him to do.
+[00:50:17.200 --> 00:50:23.200]   The nation of Israel wandered in the desert to prepare them to get into the promised land.
+[00:50:23.200 --> 00:50:30.200]   You see, Elijah, Jeremiah, Apostle Paul himself, after he gets converted, he's out in the desert for 12 years.
+[00:50:30.200 --> 00:50:36.200]   And so before God can speak through the man, God has to speak to the man.
+[00:50:36.200 --> 00:50:39.200]   And let me make that clear.
+[00:50:39.200 --> 00:50:46.200]   Expository preaching isn't just telling you the words because I can just give you the commentary.
+[00:50:46.200 --> 00:50:52.200]   Someone who is speaking on behalf of God must also know the heart of God.
+[00:50:52.200 --> 00:50:57.200]   And have been able to know who he is to be able to speak on his behalf.
+[00:50:57.200 --> 00:51:01.200]   And that's what John was. John was the prophet of the most high God.
+[00:51:01.200 --> 00:51:03.200]   In other words, to pay attention.
+[00:51:03.200 --> 00:51:10.200]   And the reason why they were highlighting who he is, he says, in order for him to prepare his way.
+[00:51:10.200 --> 00:51:14.200]   And this was a direct fulfillment of that prophecy. Malachi chapter 3, 1.
+[00:51:14.200 --> 00:51:19.200]   It says, "Behold, I'm going to send my messenger, and he will clear the way before me.
+[00:51:19.200 --> 00:51:24.200]   And the Lord whom you seek will suddenly come to his temple, and the messenger of the covenant whom you delight.
+[00:51:24.200 --> 00:51:26.200]   Behold, he is coming, says the Lord of hosts."
+[00:51:26.200 --> 00:51:30.200]   And again, this declaration of who he is, the prophet of the most high God,
+[00:51:30.200 --> 00:51:33.200]   is a direct fulfillment of Malachi 3, 1.
+[00:51:33.200 --> 00:51:43.200]   400 years later. 400 years later, God is breaking his silence in order to prepare for the coming of Christ.
+[00:51:43.200 --> 00:51:50.200]   In Mark chapter 1, verse 3, Mark declares about John the Baptist a little bit more specific prophecy.
+[00:51:50.200 --> 00:51:54.200]   He says, "The voice of the one crying in the wilderness, 'Make ready the way of the Lord. Make his path straight.'"
+[00:51:54.200 --> 00:52:00.200]   And that is a specific fulfillment of Isaiah 43 to 4.
+[00:52:00.200 --> 00:52:06.200]   Isaiah 43 to 4, in reference to John the Baptist, it says, "A voice is calling, 'Clear the way for the Lord in the wilderness.
+[00:52:06.200 --> 00:52:09.200]   Make smooth in the desert a highway for our God.
+[00:52:09.200 --> 00:52:13.200]   Let every valley be lifted up, and every mountain and hill be made low.
+[00:52:13.200 --> 00:52:20.200]   And let the rough ground become a plain, and the rugged terrain a broad valley."
+[00:52:20.200 --> 00:52:26.200]   Now, when you don't understand the context of this, you read that and say, "OK, prepare the best road."
+[00:52:26.200 --> 00:52:36.200]   Right? And that was John's call. John's call was to prepare the best road so that when Christ comes, the access to him would be paved.
+[00:52:36.200 --> 00:52:40.200]   But there's something so much more going on here than just building right roads.
+[00:52:40.200 --> 00:52:46.200]   Because any Jew at that culture would have known that this is in reference to the city of refuge.
+[00:52:46.200 --> 00:52:54.200]   And the same language is used to describe how to prepare and set up these six separate cities, cities of refuge.
+[00:52:54.200 --> 00:53:01.200]   And the whole purpose of these cities of refuge that God commanded the nation of Israel was to set it upon a hill where everybody can see.
+[00:53:01.200 --> 00:53:09.200]   So they're all spread out. So if you were standing anywhere in Israel, you could look up and see one of these cities from where you were at.
+[00:53:09.200 --> 00:53:18.200]   And God said that the best roads, the best road in the nation of Israel, all are roads that lead to the cities of refuge.
+[00:53:18.200 --> 00:53:28.200]   So obviously, this is very significant. Of all the things that God told them to do, I mean, think about the amount of time, the energy, and money, and manpower
+[00:53:28.200 --> 00:53:38.200]   that must have gone in building this city up on the top, and then cutting down mountains and hills, and if there's valleys to fill it up.
+[00:53:38.200 --> 00:53:41.200]   Now, why did he create that? What is the significance of this?
+[00:53:41.200 --> 00:53:54.200]   He said specifically, if a man accidentally kills somebody, that one of their family members, called the blood avenger,
+[00:53:54.200 --> 00:53:58.200]   he would get angry because he wants to take vengeance, even if it was an accident.
+[00:53:58.200 --> 00:54:05.200]   And so in order to protect that person, they built the best road so that he can run to these cities of refuge and find refuge.
+[00:54:05.200 --> 00:54:13.200]   So once he gets into the gate, the high priest, who is the master over these cities, would basically bring him under his protection.
+[00:54:13.200 --> 00:54:21.200]   So the avenger of blood that is chasing after him cannot come into the city, and as long as the high priest lives, he is safe.
+[00:54:21.200 --> 00:54:25.200]   And so all of these cities were made specifically for that purpose.
+[00:54:25.200 --> 00:54:29.200]   Now think about it. How often do you think that happened?
+[00:54:29.200 --> 00:54:39.200]   The best roads, all that time and energy was built. How often do you think somebody killed by accident was running for their lives,
+[00:54:39.200 --> 00:54:44.200]   and that for those people, that he created these specific cities all over Israel?
+[00:54:44.200 --> 00:54:50.200]   My guess is every once in a while. So you can look at that and say, "He did all of that?"
+[00:54:50.200 --> 00:54:57.200]   Just so that every once in a while, maybe every few years, something might happen by accident,
+[00:54:57.200 --> 00:55:00.200]   and you created this whole system for that purpose?
+[00:55:00.200 --> 00:55:05.200]   Clearly, it wasn't simply to protect those people, even though that's what it said.
+[00:55:05.200 --> 00:55:13.200]   Imagery of the city of refuge is a clear reference to the coming of Christ, that He is our high priest.
+[00:55:13.200 --> 00:55:19.200]   And the best roads that lead to Christ are the ones that lead to the city of refuge.
+[00:55:19.200 --> 00:55:26.200]   So when John is called to say, to fulfill this, to cut down the mountains and fill the valleys,
+[00:55:26.200 --> 00:55:32.200]   it's a clear reference to the fulfillment of the city of refuge, that Christ is coming.
+[00:55:32.200 --> 00:55:36.200]   And that's exactly what he has been called to do, to prepare the way.
+[00:55:36.200 --> 00:55:43.200]   And that's exactly what the gospel does. It takes those who are high and humbles them.
+[00:55:43.200 --> 00:55:48.200]   And it takes those who are low and then gives them hope.
+[00:55:48.200 --> 00:55:56.200]   It is not by accident, and I've mentioned this before, that the gospel of John chapter 3 begins by the introduction of Nicodemus.
+[00:55:56.200 --> 00:56:03.200]   John chapter 3, Nicodemus comes, and he is a member of the Sanhedrin, a Pharisee of Pharisees.
+[00:56:03.200 --> 00:56:08.200]   He's basically a superstar in the nation of Israel.
+[00:56:08.200 --> 00:56:12.200]   Scripture says that he comes to Jesus at night because he's concerned about his reputation,
+[00:56:12.200 --> 00:56:17.200]   because many of his friends are saying that maybe Jesus is not the Messiah, we've got to get rid of this guy.
+[00:56:17.200 --> 00:56:21.200]   And Nicodemus is curious because he thinks that this is not a normal man.
+[00:56:21.200 --> 00:56:26.200]   So he comes for his own safety at night.
+[00:56:26.200 --> 00:56:31.200]   And he has this encounter with Jesus, and Jesus basically, and you would think if he was Nicodemus,
+[00:56:31.200 --> 00:56:35.200]   he'd say, you know what, I obeyed all the laws, I'm a Pharisee among Pharisees.
+[00:56:35.200 --> 00:56:41.200]   He probably thought that if he met the Messiah, that Christ would say, you know what, good and faithful servant,
+[00:56:41.200 --> 00:56:44.200]   you're going to have the first seat in the kingdom of God.
+[00:56:44.200 --> 00:56:51.200]   Instead, Jesus says, you cannot enter the kingdom of heaven until you are born again.
+[00:56:51.200 --> 00:56:57.200]   Born again, how do you do that? I've done everything that God told me to do, so what do you mean born again?
+[00:56:57.200 --> 00:57:00.200]   He said, you cannot enter the kingdom.
+[00:57:00.200 --> 00:57:03.200]   So if you look at that encounter, Jesus basically humbles this man,
+[00:57:03.200 --> 00:57:08.200]   because he thought he was sitting on the top, and he says, no, you have to start over.
+[00:57:08.200 --> 00:57:15.200]   The very next chapter, he runs into a Samaritan woman, and the Samaritan woman is embarrassed for Jesus.
+[00:57:15.200 --> 00:57:20.200]   Jesus is engaging her, all the disciples are out and trying to gather some stuff,
+[00:57:20.200 --> 00:57:24.200]   and the Samaritan woman basically asks Jesus, how can you, being a Jewish rabbi,
+[00:57:24.200 --> 00:57:27.200]   talk to a Samaritan woman in the middle of the day?
+[00:57:27.200 --> 00:57:31.200]   And she was probably there because she was an adulteress.
+[00:57:31.200 --> 00:57:36.200]   And so she's embarrassed, even her own Samaritan neighbors probably shunned her,
+[00:57:36.200 --> 00:57:39.200]   and that's why she was there in the middle of the day.
+[00:57:39.200 --> 00:57:43.200]   And she's concerned for Jesus, and Jesus deliberately encounters her.
+[00:57:43.200 --> 00:57:48.200]   And at the end of this encounter, where Jesus reveals himself to her,
+[00:57:48.200 --> 00:57:52.200]   she drops everything, she forgets, she runs, and she becomes the first evangelist,
+[00:57:52.200 --> 00:57:58.200]   goes back home and tells the other Samaritans, come here, man, who told me everything about my life.
+[00:57:58.200 --> 00:58:04.200]   It is not by accident that you have this Nicodemus who's sitting up on the top of the hill,
+[00:58:04.200 --> 00:58:07.200]   where God just said, I'm going to chop this down.
+[00:58:07.200 --> 00:58:11.200]   And you have this woman who's sitting in the valley thinking she's not worthy
+[00:58:11.200 --> 00:58:18.200]   of even a Jewish rabbi talking to her in the middle of the day, and God brings her up.
+[00:58:18.200 --> 00:58:22.200]   You see, the gospel brings people who are proud.
+[00:58:22.200 --> 00:58:30.200]   We have a generation of people who think that when they die, that their good works is good enough.
+[00:58:30.200 --> 00:58:36.200]   I've done enough. I'm not a bad person. I've paid my taxes, and I was a good citizen,
+[00:58:36.200 --> 00:58:40.200]   I raised good kids, and I didn't steal, I didn't murder.
+[00:58:40.200 --> 00:58:46.200]   I drove the speed limit. And so as a result of that, when I die, God's going to be fair.
+[00:58:46.200 --> 00:58:50.200]   The gospel humbles people who are thinking that their self-righteousness
+[00:58:50.200 --> 00:58:53.200]   is somehow going to get into the kingdom of God.
+[00:58:53.200 --> 00:58:58.200]   And then there's people who are so seeped in their mistakes and their sins
+[00:58:58.200 --> 00:59:02.200]   that God cannot possibly forgive their sins.
+[00:59:02.200 --> 00:59:07.200]   You don't know what I've done. You don't know how far I've gone.
+[00:59:07.200 --> 00:59:10.200]   And God speaks to them and brings them up.
+[00:59:10.200 --> 00:59:21.200]   So that same path that leads to Christ is the same door for Nicodemus and the Samaritan woman.
+[00:59:21.200 --> 00:59:31.200]   See, if our preaching only addresses the haughty, and it only addresses the lowly, that's not God.
+[00:59:31.200 --> 00:59:34.200]   You don't pick a prophet just doesn't pick and choose and say, "You know what?
+[00:59:34.200 --> 00:59:40.200]   My whole goal in life is to humble people, so I'm going to preach harshness and judgment of God
+[00:59:40.200 --> 00:59:42.200]   because that's what I'm going to do."
+[00:59:42.200 --> 00:59:48.200]   Or you err on the other side. You know what? There's too many people hurting.
+[00:59:48.200 --> 00:59:51.200]   I don't want to discourage them.
+[00:59:51.200 --> 00:59:53.200]   So I'm going to have you just encourage me.
+[00:59:53.200 --> 00:59:56.200]   When you come to church, you always be encouraged.
+[00:59:56.200 --> 01:00:02.200]   Either is not from God because God lowers the mountain and raises the valley.
+[01:00:02.200 --> 01:00:06.200]   And that's what John the Baptist was called to do, to prepare the way.
+[01:00:06.200 --> 01:00:11.200]   That's why when the Pharisees came, thinking that, "Oh, if he's the Messiah, let's go to him,"
+[01:00:11.200 --> 01:00:14.200]   Jesus says, "Repent and bear fruit according to repentance."
+[01:00:14.200 --> 01:00:18.200]   And he humbles them, and that's why they turn against him.
+[01:00:18.200 --> 01:00:23.200]   And then he goes to the sinners, the prostitutes, the tax collectors, people that have been shunned,
+[01:00:23.200 --> 01:00:26.200]   would have never been accepted into the Jewish society,
+[01:00:26.200 --> 01:00:32.200]   and he starts hanging with them and make some of them his disciples, and he raises them up.
+[01:00:32.200 --> 01:00:34.200]   He was sent for that purpose.
+[01:00:34.200 --> 01:00:39.200]   His whole purpose of ministry is to prepare for the coming of Christ.
+[01:00:39.200 --> 01:00:41.200]   But what was his message?
+[01:00:41.200 --> 01:00:48.200]   His message is to proclaim the knowledge of salvation, to proclaim the knowledge of salvation.
+[01:00:48.200 --> 01:00:53.200]   Now, let me stop right here and to explain why this is so important.
+[01:00:53.200 --> 01:00:58.200]   Because you notice here he doesn't say he came to save people.
+[01:00:58.200 --> 01:01:00.200]   He has no power to save people.
+[01:01:00.200 --> 01:01:04.200]   His job was to proclaim the knowledge of salvation.
+[01:01:04.200 --> 01:01:06.200]   You know why this is so important?
+[01:01:06.200 --> 01:01:16.200]   It's like people--part of the reason why we are timid in evangelism is because we think that somehow we have to save them.
+[01:01:16.200 --> 01:01:21.200]   And so we end up targeting people that we think that we're able to save.
+[01:01:21.200 --> 01:01:26.200]   Weaker people, broken people, people who are lesser than us.
+[01:01:26.200 --> 01:01:31.200]   Even when we go evangelize, if they seem intimidating, right, they're older than us, so they're not going to listen.
+[01:01:31.200 --> 01:01:33.200]   My boss, they're not going to listen.
+[01:01:33.200 --> 01:01:36.200]   He's more educated, so he's not going to take me seriously.
+[01:01:36.200 --> 01:01:40.200]   And we go and we start to target people that--where we see ourselves.
+[01:01:40.200 --> 01:01:43.200]   Well, we know a little better. We're a little bit more knowledgeable.
+[01:01:43.200 --> 01:01:45.200]   Maybe I'm a little bit richer than they are.
+[01:01:45.200 --> 01:01:55.200]   And so we end up targeting people that we think that we can somehow, by our earthly influence, get them and sell Christ to them and bring them to Christ.
+[01:01:55.200 --> 01:02:05.200]   So we naturally avoid people that we think are richer, are in a better position, or are bosses, or live in a better house.
+[01:02:05.200 --> 01:02:11.200]   Because we have somehow convinced ourselves that God has given us the task to convert people.
+[01:02:11.200 --> 01:02:15.200]   We do not have that power. That power is in God's hands.
+[01:02:15.200 --> 01:02:19.200]   Our calling is to make the knowledge clear.
+[01:02:19.200 --> 01:02:28.200]   Now, when we say that, you say, "Well, Orange County doesn't need that because everywhere we go, there's a mega church down the street."
+[01:02:28.200 --> 01:02:33.200]   I mean, you can drive 10 minutes in every direction and you'll find a mega church, right?
+[01:02:33.200 --> 01:02:37.200]   So clearly, we're not in a place where that needs to be made known.
+[01:02:37.200 --> 01:02:44.200]   Do you remember years ago, we sent out the whole church out in the street for the purpose of informing our church
+[01:02:44.200 --> 01:02:49.200]   how many people actually know the gospel in Orange County, in this area?
+[01:02:49.200 --> 01:02:54.200]   We naturally would think, I mean, there's a mega church here, a mega church there, and clearly there must be gospel.
+[01:02:54.200 --> 01:02:58.200]   Most of the people, even if they don't go to church, must know the gospel.
+[01:02:58.200 --> 01:03:00.200]   Do you remember those of you who participated?
+[01:03:00.200 --> 01:03:06.200]   Most of you were surprised to know how few people actually knew the gospel.
+[01:03:06.200 --> 01:03:09.200]   And we're not even talking about just non-Christians.
+[01:03:09.200 --> 01:03:13.200]   Do you know how often we have people who say that they were raised in the church all their life?
+[01:03:13.200 --> 01:03:17.200]   Some of them Sunday school for many, many years, Sunday school teachers.
+[01:03:17.200 --> 01:03:25.200]   And we asked them, "If a non-Christian asked you how to have assurance of salvation, what would you say to them?"
+[01:03:25.200 --> 01:03:28.200]   And they can't explain.
+[01:03:28.200 --> 01:03:31.200]   They're Sunday school teachers.
+[01:03:31.200 --> 01:03:33.200]   And I'm not exaggerating.
+[01:03:33.200 --> 01:03:35.200]   This is very common.
+[01:03:35.200 --> 01:03:41.200]   And so the common answer that we get is, "You have to go to church. You have to find a good church.
+[01:03:41.200 --> 01:03:44.200]   You have to read your Bible.
+[01:03:44.200 --> 01:03:48.200]   You have to be moral."
+[01:03:48.200 --> 01:03:55.200]   And they'll give you all these answers, and we're kind of waiting for them to say, "Well, you need to repent of your sins and turn to Christ.
+[01:03:55.200 --> 01:03:59.200]   And the blood of Christ atone for your sins."
+[01:03:59.200 --> 01:04:04.200]   And I'm sure they may have heard that somewhere, but they can't articulate it.
+[01:04:04.200 --> 01:04:08.200]   And you know what percentage of people who go to church who can't articulate that?
+[01:04:08.200 --> 01:04:10.200]   At least that's what we found.
+[01:04:10.200 --> 01:04:19.200]   Seventy, eighty percent of people who have proclaimed, have grown up in the church, can't explain what the gospel is.
+[01:04:19.200 --> 01:04:21.200]   Let me ask you.
+[01:04:21.200 --> 01:04:30.200]   You may have friends, family members, coworkers, people, and I'm not even saying go and try to bring them to church or try to have Bible study with them.
+[01:04:30.200 --> 01:04:33.200]   Simply ask them.
+[01:04:33.200 --> 01:04:36.200]   Ask them if they know the gospel.
+[01:04:36.200 --> 01:04:38.200]   A big chunk of them will say they do.
+[01:04:38.200 --> 01:04:40.200]   But don't stop there.
+[01:04:40.200 --> 01:04:42.200]   See if they actually know.
+[01:04:42.200 --> 01:04:45.200]   It's like, "Okay, can you explain what the gospel is?"
+[01:04:45.200 --> 01:04:51.200]   You'll be surprised how many people will tell you, it's like, "Do you have to follow Jesus?
+[01:04:51.200 --> 01:04:54.200]   You have to be a good person?
+[01:04:54.200 --> 01:04:58.200]   Do unto others as you want them to do unto you?"
+[01:04:58.200 --> 01:05:02.200]   You'll be surprised what kind of answers that you get.
+[01:05:02.200 --> 01:05:16.200]   Now the reason why I say this is that God didn't call you and me to convert people, but you and I have the responsibility to make sure that even if they reject Christ, they're rejecting the Christ of the Bible.
+[01:05:16.200 --> 01:05:21.200]   Many people reject the gospel without even knowing what the gospel is.
+[01:05:21.200 --> 01:05:36.200]   And we may be living among them, being around them all their life, and we may have a brother or sister, father or mother, a coworker that you spend every day with, and they don't even know what the gospel is.
+[01:05:36.200 --> 01:05:44.200]   At the minimum, you and I have been called to make it clear, as John has been called to make it clear.
+[01:05:44.200 --> 01:05:52.200]   And you'll find when you ask them that they don't want anything to do with church, that it has nothing to do with the gospel.
+[01:05:52.200 --> 01:05:55.200]   They don't, "I don't want to go to church because they're hypocrites."
+[01:05:55.200 --> 01:05:59.200]   You know, "I've known this Christian this many years ago, and I don't want to go for that reason."
+[01:05:59.200 --> 01:06:04.200]   So they're not even rejecting the gospel, they're rejecting Christians.
+[01:06:04.200 --> 01:06:17.200]   See, John the Baptist was first and foremost called to make the salvation clear, so that whether you receive or you reject, it's a clear knowledge of the gospel that they are receiving.
+[01:06:17.200 --> 01:06:19.200]   But what is this clear knowledge of the gospel?
+[01:06:19.200 --> 01:06:22.200]   He says it's the forgiveness of sins.
+[01:06:22.200 --> 01:06:32.200]   The primary call of the church, and the reason why we desire people to come, is so that their sins may be forgiven.
+[01:06:32.200 --> 01:06:37.200]   It's not so that you can have the best marriage, it's not so that you can have godly children.
+[01:06:37.200 --> 01:06:41.200]   I mean, it'd be great if we had all that, but none of that is guaranteed.
+[01:06:41.200 --> 01:06:44.200]   None of that is guaranteed.
+[01:06:44.200 --> 01:06:48.200]   But the main reason why he calls us is for the forgiveness of sins.
+[01:06:48.200 --> 01:06:51.200]   You know what?
+[01:06:51.200 --> 01:07:00.200]   Orange County Christianity, and this is unique, and again, this is not just Orange County, but we're in Orange County, so I'm going to pick on Orange County.
+[01:07:00.200 --> 01:07:08.200]   Because we live in a culture where we just assume, like, "Oh, it's evangelized already, so we spend all our time focused on our family."
+[01:07:08.200 --> 01:07:14.200]   But the primary call of the Christian is to have godly family, godly marriage.
+[01:07:14.200 --> 01:07:20.200]   And so one of the most popular seminars to give is marriage.
+[01:07:20.200 --> 01:07:23.200]   How to have a godly marriage, and you'll see people coming.
+[01:07:23.200 --> 01:07:28.200]   How to have godly children, and so you'll see people coming.
+[01:07:28.200 --> 01:07:38.200]   The call of the church, the primary call of the church, the primary call of the pulpit, is to bring people to Christ.
+[01:07:38.200 --> 01:07:42.200]   To bring them to repentance and to meet Christ.
+[01:07:42.200 --> 01:07:46.200]   There are no separate set of rules and skills that you have.
+[01:07:46.200 --> 01:07:52.200]   This is what it means to be a good Christian, but these are the things you need to do to be a good father.
+[01:07:52.200 --> 01:07:54.200]   They're the same.
+[01:07:54.200 --> 01:07:56.200]   They're the same.
+[01:07:56.200 --> 01:08:08.200]   The same calling to be a godly Christian is the same calling, same qualities, same character, same activity as a godly individual.
+[01:08:08.200 --> 01:08:09.200]   There are no separate things.
+[01:08:09.200 --> 01:08:13.200]   If you're not walking right with God, you can't be a godly father.
+[01:08:13.200 --> 01:08:25.200]   If you're not sacrificing in serving Christ, there's no separate set of tools that you're going to gain so that you can be a better mother or better father.
+[01:08:25.200 --> 01:08:28.200]   All of it is forgiveness of sins.
+[01:08:28.200 --> 01:08:40.200]   When we are reconciled with the God of life, the author of life, the residual effect of our sins being forgiven affects our marriage.
+[01:08:40.200 --> 01:08:44.200]   The residual effect of walking right with God affects our children.
+[01:08:44.200 --> 01:08:46.200]   It affects our society.
+[01:08:46.200 --> 01:08:57.200]   I'm afraid that in Orange County, the focus has so much been put on families, and people are so eager to learn about being a godly husband, godly father,
+[01:08:57.200 --> 01:09:03.200]   and not so interested in being a faithful follower of Christ himself.
+[01:09:03.200 --> 01:09:09.200]   The primary promise of the gospel is forgiveness of sins.
+[01:09:09.200 --> 01:09:12.200]   Forgiveness of sins.
+[01:09:12.200 --> 01:09:13.200]   And you know what it says?
+[01:09:13.200 --> 01:09:15.200]   It is the kindness of God.
+[01:09:15.200 --> 01:09:18.200]   It is the demonstration of the mercy of God.
+[01:09:18.200 --> 01:09:24.200]   Because we have a tendency to think that since God is merciful, we deal with people with mercy and grace,
+[01:09:24.200 --> 01:09:28.200]   that means that we're not ever harsh to anybody.
+[01:09:28.200 --> 01:09:29.200]   We're not ever judgmental.
+[01:09:29.200 --> 01:09:33.200]   We never pick a point because God is kind.
+[01:09:33.200 --> 01:09:37.200]   Well, the scripture said it is the kindness of God that leads to repentance.
+[01:09:37.200 --> 01:09:44.200]   If somebody is living in sin, and they are not brought to repentance, that is not the kindness of God.
+[01:09:44.200 --> 01:09:50.200]   Because the only way to find true life is to be reconciled with this holy, holy, holy God.
+[01:09:50.200 --> 01:09:54.200]   And that's--they can live in perfect peace the rest of their life.
+[01:09:54.200 --> 01:09:56.200]   They can have a healthy life.
+[01:09:56.200 --> 01:09:57.200]   They can have all the money.
+[01:09:57.200 --> 01:09:59.200]   They can have all the money in retirement.
+[01:09:59.200 --> 01:10:03.200]   You can have godly or obedient children.
+[01:10:03.200 --> 01:10:11.200]   But if you're not reconciled with God, all of that was a smoke screen that leads to condemnation.
+[01:10:11.200 --> 01:10:14.200]   It means nothing.
+[01:10:14.200 --> 01:10:22.200]   The primary call of the gospel is repentance and reconciliation and forgiveness of sins.
+[01:10:22.200 --> 01:10:24.200]   That's why if John the Baptist came in and said, "You know what?
+[01:10:24.200 --> 01:10:29.200]   I'm so concerned about the sinners," and he's constantly encouraging them,
+[01:10:29.200 --> 01:10:35.200]   "God loves you and has a wonderful plan for your life," and if that's all they hear, that's not from God.
+[01:10:35.200 --> 01:10:39.200]   If somebody who's walking haughty is like, "Oh, I don't want to be judgmental.
+[01:10:39.200 --> 01:10:43.200]   I never want to be one of those people," that's not from God either.
+[01:10:43.200 --> 01:10:51.200]   What brings people to repentance is the kindness of God.
+[01:10:51.200 --> 01:10:54.200]   Now, that doesn't mean that God calls us to be jerks.
+[01:10:54.200 --> 01:10:57.200]   It doesn't mean that you need to be yelling at people all the time.
+[01:10:57.200 --> 01:10:59.200]   It doesn't mean you need to be preaching hell all the time.
+[01:10:59.200 --> 01:11:05.200]   But whatever brings people to Christ, that's the mercy of God.
+[01:11:05.200 --> 01:11:07.200]   That's the kindness of God.
+[01:11:07.200 --> 01:11:11.200]   That's the gentleness of God because that's the primary call.
+[01:11:11.200 --> 01:11:15.200]   And that's why when John the Baptist first showed up, remember his primary message?
+[01:11:15.200 --> 01:11:16.200]   What?
+[01:11:16.200 --> 01:11:17.200]   "God loves you"?
+[01:11:17.200 --> 01:11:20.200]   No, that wasn't the primary message.
+[01:11:20.200 --> 01:11:24.200]   What was John the Baptist's primary message that he repeated over and over again?
+[01:11:24.200 --> 01:11:28.200]   "Repent, for the kingdom of heaven is at hand."
+[01:11:28.200 --> 01:11:29.200]   Repent.
+[01:11:29.200 --> 01:11:31.200]   Now, you look at that and say, "Whoa, that's kind of harsh."
+[01:11:31.200 --> 01:11:32.200]   People are having a hard time as it is.
+[01:11:32.200 --> 01:11:34.200]   They're oppressed by the Roman government.
+[01:11:34.200 --> 01:11:37.200]   Some people can't even feed their children.
+[01:11:37.200 --> 01:11:41.200]   There are people who are selling their bodies just to make ends meet.
+[01:11:41.200 --> 01:11:46.200]   And here's a prophet of God, the most high God, who's been called to prepare the way of the Messiah.
+[01:11:46.200 --> 01:11:50.200]   And he's going to bring judgment upon them?
+[01:11:50.200 --> 01:11:52.200]   "Repent, for the kingdom of heaven is at hand"?
+[01:11:52.200 --> 01:11:56.200]   And it turns some people off, especially the Pharisees.
+[01:11:56.200 --> 01:11:58.200]   But it's the kindness of God.
+[01:11:58.200 --> 01:12:06.200]   It's the mercy of God to bring them to repentance because the only true life is found when we have peace with God.
+[01:12:06.200 --> 01:12:11.200]   And the only way that we can have peace with God is forgiveness of sins.
+[01:12:11.200 --> 01:12:14.200]   So it is the most loving thing to do.
+[01:12:14.200 --> 01:12:16.200]   It is the most gracious thing to do.
+[01:12:16.200 --> 01:12:24.200]   It is the most gentle and most merciful thing to do, is to bring a sinner to the loving hands of Christ.
+[01:12:24.200 --> 01:12:28.200]   That's what John was called to do.
+[01:12:28.200 --> 01:12:30.200]   And that's what he says of Jesus.
+[01:12:30.200 --> 01:12:37.200]   "The next day he saw Jesus coming to him and said, 'Behold the Lamb of God who takes away the sin of the world.'"
+[01:12:37.200 --> 01:12:42.200]   And then he describes the coming of Christ as "sunrise from on high will visit us."
+[01:12:42.200 --> 01:12:44.200]   Sunrise.
+[01:12:44.200 --> 01:12:50.200]   Now, we know that in the book of John, Jesus himself said, "I am the light of the world."
+[01:12:50.200 --> 01:12:56.200]   Now, the reason why Jesus says that, the context in which Jesus describes himself as the light of the world,
+[01:12:56.200 --> 01:12:59.200]   was during the Feast of Booths.
+[01:12:59.200 --> 01:13:04.200]   So the Feast of Booths took place right before the Passover.
+[01:13:04.200 --> 01:13:10.200]   And so the Feast of Booths basically was the Israelites commemorating when they had to leave in haste.
+[01:13:10.200 --> 01:13:12.200]   They had to live in tents.
+[01:13:12.200 --> 01:13:16.200]   And as God was leading them through the desert, through the pillar of fire,
+[01:13:16.200 --> 01:13:20.200]   they would set up pillars of fires at the temple, huge pillars of fire.
+[01:13:20.200 --> 01:13:26.200]   And so during the Feast of Booths, as they were remembering how they were nomads out in the desert,
+[01:13:26.200 --> 01:13:31.200]   sleeping in tents, they would look to the fires and say, "One of these days, the Messiah is going to come as a light
+[01:13:31.200 --> 01:13:34.200]   and he's going to lead us into the promised land."
+[01:13:34.200 --> 01:13:40.200]   It was as they were celebrating the Feast of Booths, Jesus stands there and says, "I am that light."
+[01:13:40.200 --> 01:13:42.200]   So the Jews understood when he said that.
+[01:13:42.200 --> 01:13:48.200]   So when they say, "John the Baptist is going to declare the sunrise is going to come and visit us,"
+[01:13:48.200 --> 01:13:54.200]   they knew exactly what they meant, that Jesus is going to come and he's going to fulfill that promise.
+[01:13:54.200 --> 01:14:00.200]   In Malachi 4, it says, "But for you who fear my name, the sun of righteousness will rise with healing in its wings,
+[01:14:00.200 --> 01:14:05.200]   and you will go forth and skip about like calves from a stall."
+[01:14:05.200 --> 01:14:11.200]   You will experience this joy of being able to see the light.
+[01:14:11.200 --> 01:14:15.200]   The sunrise is going to come and open your eyes and you're going to be able to see the light.
+[01:14:15.200 --> 01:14:19.200]   In Isaiah 9, it says, "The people who walk in darkness will see a great light.
+[01:14:19.200 --> 01:14:23.200]   Those who live in a dark land, the light will shine on them."
+[01:14:23.200 --> 01:14:27.200]   And that's exactly how the Bible describes a Christian and a non-Christian.
+[01:14:27.200 --> 01:14:34.200]   Non-Christian is an individual who has been blinded so that they do not see the light or the glory of the gospel of Jesus Christ.
+[01:14:34.200 --> 01:14:37.200]   So a Christian is a one who's opened his eyes.
+[01:14:37.200 --> 01:14:39.200]   Light was turned on.
+[01:14:39.200 --> 01:14:45.200]   And so because the light was turned on, we're able to live.
+[01:14:45.200 --> 01:14:56.200]   You know, one of the greatest benefits of going out to India is seeing the byproduct of what some of the things that we're doing.
+[01:14:56.200 --> 01:15:00.200]   You know, when we first started going out, we didn't know exactly what to emphasize.
+[01:15:00.200 --> 01:15:07.200]   So we had, you know, nurses and doctors and we're going to do wound care and all of a sudden we realized that it's very difficult to do way out in the village.
+[01:15:07.200 --> 01:15:10.200]   So there's still wound care going on, VBS and crafts going on.
+[01:15:10.200 --> 01:15:18.200]   But the main stuff that we kind of honed in is eye care because you don't have to have, you know, you're not doing any kind of surgery.
+[01:15:18.200 --> 01:15:24.200]   And most people who are 50 and over have cataract because they've been working out in the sun without protection.
+[01:15:24.200 --> 01:15:28.200]   So you can see there's kind of a white haze on them.
+[01:15:28.200 --> 01:15:32.200]   So that's why we give them sunglasses so everybody looks like movie stars by the time we leave.
+[01:15:32.200 --> 01:15:33.200]   Right.
+[01:15:33.200 --> 01:15:34.200]   They kind of joke around with each other.
+[01:15:34.200 --> 01:15:36.200]   It's like, "Oh, Bollywood."
+[01:15:36.200 --> 01:15:47.200]   Every once in a while we'll meet an individual who's maybe 50 or 60 and they, the only reason why they can't see is because they don't have glasses.
+[01:15:47.200 --> 01:15:53.200]   And, you know, some of you who've been with us there, you know, they know exactly what I'm talking about.
+[01:15:53.200 --> 01:15:58.200]   So our eye doctors would do the care and then find out what their dosage is.
+[01:15:58.200 --> 01:16:02.200]   And obviously they have pretty bad eyes and almost surprised that they were able to function.
+[01:16:02.200 --> 01:16:05.200]   Obviously if you don't have any other choice, what can you do?
+[01:16:05.200 --> 01:16:06.200]   So they're barely functioning.
+[01:16:06.200 --> 01:16:08.200]   They're barely seeing.
+[01:16:08.200 --> 01:16:10.200]   And then you put their glasses on.
+[01:16:10.200 --> 01:16:19.200]   And literally in minutes they figure out the dosage and they find the right glass and they put it on them and you can see them starting to tear.
+[01:16:19.200 --> 01:16:29.200]   So we don't know how long, how bad their eyes were, but as soon as they put the glasses on, they saw for the first time in years.
+[01:16:29.200 --> 01:16:32.200]   They functioned the way they did because they had no other option.
+[01:16:32.200 --> 01:16:39.200]   But as soon as that simple eyeglass was put on them, all of a sudden, can you imagine not being able to see and all of a sudden, boom, just like that?
+[01:16:39.200 --> 01:16:43.200]   You're able to see and, man, they're the most appreciative.
+[01:16:43.200 --> 01:16:52.200]   They're like holding your hands with tears, hugging us and just the reward of seeing that, just simple work.
+[01:16:52.200 --> 01:16:59.200]   And that's probably why so many people who've been to India want to keep going back because we're so rewarded by that.
+[01:16:59.200 --> 01:17:09.200]   I've never seen anybody who's experienced that and then take off their glasses and say, you know what, I don't like these.
+[01:17:09.200 --> 01:17:11.200]   It makes me look nerdy.
+[01:17:11.200 --> 01:17:13.200]   You know?
+[01:17:13.200 --> 01:17:18.200]   Like I know it's great that I can see, but my friends are making fun of me.
+[01:17:18.200 --> 01:17:22.200]   And I go to school and say, ooh, Bollywood.
+[01:17:22.200 --> 01:17:25.200]   Do you have something else?
+[01:17:25.200 --> 01:17:29.200]   And they may not be the most fashionable.
+[01:17:29.200 --> 01:17:31.200]   It may be from 30 years ago.
+[01:17:31.200 --> 01:17:35.200]   It may look silly because the glasses that they got were like huge on their face.
+[01:17:35.200 --> 01:17:42.200]   And I remember one particular old man, the glass that they put on him was literally like twice the size of his, you know, his fit.
+[01:17:42.200 --> 01:17:46.200]   But not one word of complaining.
+[01:17:46.200 --> 01:17:48.200]   It's kind of too big.
+[01:17:48.200 --> 01:17:50.200]   Do you have something smaller?
+[01:17:50.200 --> 01:17:53.200]   Never.
+[01:17:53.200 --> 01:17:59.200]   Because they gain sight for the first time they are able to see.
+[01:17:59.200 --> 01:18:08.200]   See, an individual who has his eyes open in the middle of living in darkness can never go back.
+[01:18:08.200 --> 01:18:14.200]   Just like that individual can never take his glasses off and say, you know what, I prefer that because it looks silly on me.
+[01:18:14.200 --> 01:18:16.200]   My friends are making fun of me.
+[01:18:16.200 --> 01:18:17.200]   Or it's not fashionable.
+[01:18:17.200 --> 01:18:18.200]   It doesn't match my dress.
+[01:18:18.200 --> 01:18:20.200]   It doesn't match my shirt.
+[01:18:20.200 --> 01:18:21.200]   Never.
+[01:18:21.200 --> 01:18:27.200]   Once that person put that glasses on, no matter how silly it may look on his face, he has that on permanently.
+[01:18:27.200 --> 01:18:31.200]   He will keep that on until the day he dies.
+[01:18:31.200 --> 01:18:40.200]   See, the Bible says once our eyes became open by the light of the gospel of Jesus Christ, you can't close it because you remember what it was like in the darkness.
+[01:18:40.200 --> 01:18:48.200]   How can an individual who sees for the first time look at his previous life and say, you know what, that was better because my friends are making fun of me.
+[01:18:48.200 --> 01:18:50.200]   I don't fit well in this world.
+[01:18:50.200 --> 01:18:52.200]   It's very difficult to be a Christian in my work.
+[01:18:52.200 --> 01:18:54.200]   So I'm going to take these off and I'm going to go back.
+[01:18:54.200 --> 01:18:56.200]   You can't.
+[01:18:56.200 --> 01:18:58.200]   It's not because you're trying harder.
+[01:18:58.200 --> 01:19:00.200]   It's not because you shouldn't.
+[01:19:00.200 --> 01:19:02.200]   You can't.
+[01:19:02.200 --> 01:19:07.200]   How does somebody who gains sight for the first time return back to their old life?
+[01:19:07.200 --> 01:19:09.200]   You can't.
+[01:19:09.200 --> 01:19:16.200]   That's why we believe in the perseverance of the saints because the Bible teaches that once your eyes have been opened, you can never shut it again.
+[01:19:16.200 --> 01:19:18.200]   That's why they're rejoicing.
+[01:19:18.200 --> 01:19:19.200]   That's why they're bouncing.
+[01:19:19.200 --> 01:19:21.200]   That's why they're worshiping.
+[01:19:21.200 --> 01:19:23.200]   So God doesn't simply demand worship.
+[01:19:23.200 --> 01:19:28.200]   He creates a position where we can't but worship.
+[01:19:28.200 --> 01:19:39.200]   I don't remember a single person gaining sight like that and then in tears and then we have to tell them, hey, make sure you're thankful.
+[01:19:39.200 --> 01:19:43.200]   Make sure you thank these foreigners who are here.
+[01:19:43.200 --> 01:19:45.200]   I don't ever remember anybody.
+[01:19:45.200 --> 01:19:50.200]   We actually have to kind of push them out of the door because we have other patients that we got to see.
+[01:19:50.200 --> 01:19:52.200]   We have to actually tell them.
+[01:19:52.200 --> 01:19:55.200]   We I mean, we're filled with joy.
+[01:19:55.200 --> 01:19:56.200]   They're filled with joy.
+[01:19:56.200 --> 01:20:00.200]   This is so worth it.
+[01:20:00.200 --> 01:20:06.200]   How much of our problem is self-created?
+[01:20:06.200 --> 01:20:14.200]   There's a reason why the Bible, the book of Hebrews concludes by saying fix your eyes upon Christ, the author and perfecter of faith.
+[01:20:14.200 --> 01:20:17.200]   Maybe you've forgotten what it is that we have.
+[01:20:17.200 --> 01:20:19.200]   You know what is interesting?
+[01:20:19.200 --> 01:20:22.200]   In verse 80, this is how it ends.
+[01:20:22.200 --> 01:20:26.200]   And the child continued to grow and to become strong in spirit.
+[01:20:26.200 --> 01:20:31.200]   And he lived in the desert until the day of his public appearance to Israel.
+[01:20:31.200 --> 01:20:43.200]   Now you would think after hearing this great prophecy that he's going to, you know, give the knowledge of the of salvation, that the forgiveness of sins.
+[01:20:43.200 --> 01:20:52.200]   You would think that right after the prophecy, John the Baptist is going to pop out of his his mom and then start walking and repent for the kingdom of heaven is at hand.
+[01:20:52.200 --> 01:20:54.200]   Right.
+[01:20:54.200 --> 01:20:58.200]   But for 30 years, he's just in the desert.
+[01:20:58.200 --> 01:20:59.200]   30 years.
+[01:20:59.200 --> 01:21:04.200]   Now, you have to understand who his parents were.
+[01:21:04.200 --> 01:21:07.200]   There were people at the end of their life.
+[01:21:07.200 --> 01:21:12.200]   And miraculously, God allowed them to experience this birth.
+[01:21:12.200 --> 01:21:14.200]   But generally speaking.
+[01:21:14.200 --> 01:21:18.200]   He probably lost his parents pretty early.
+[01:21:18.200 --> 01:21:20.200]   They were already at the tail end of life.
+[01:21:20.200 --> 01:21:28.200]   If he experienced parenting, maybe until he was six, ten, most likely he was orphaned pretty early.
+[01:21:28.200 --> 01:21:34.200]   So most likely the part of the reason maybe he was out in the desert was because of his financial situation.
+[01:21:34.200 --> 01:21:35.200]   It could have been.
+[01:21:35.200 --> 01:21:41.200]   We don't know for sure, but we know that most likely he lost his parents early.
+[01:21:41.200 --> 01:21:45.200]   And then for 30 years, he was in a desert.
+[01:21:45.200 --> 01:21:48.200]   I mean, desert is not where you go to be comfortable.
+[01:21:48.200 --> 01:21:52.200]   Desert is a place where you struggle to eat.
+[01:21:52.200 --> 01:21:53.200]   Community.
+[01:21:53.200 --> 01:22:06.200]   30 years later, after this this grandiose prophecy about him, he's wandering on the desert and then he shows up six months before Christ to prepare the way to come.
+[01:22:06.200 --> 01:22:14.200]   And he experiences the fulfillment of this prophecy probably for no more than six months to a year.
+[01:22:14.200 --> 01:22:18.200]   And as soon as Jesus shows up, that's the man I've been referring to.
+[01:22:18.200 --> 01:22:22.200]   And then as soon as Jesus comes on the scene, he says, I must decrease and he must increase.
+[01:22:22.200 --> 01:22:24.200]   And then he just disappears.
+[01:22:24.200 --> 01:22:25.200]   And then eventually, how does he die?
+[01:22:25.200 --> 01:22:29.200]   He doesn't die with veneration and people celebrating him.
+[01:22:29.200 --> 01:22:35.200]   In fact, if you don't read the Bible carefully, you're like, what happened to John?
+[01:22:35.200 --> 01:22:42.200]   He's just like, oh, this happened and the hair didn't like him, got his head chopped off and it just moves on.
+[01:22:42.200 --> 01:22:46.200]   So if you look at this like, wow, he was chosen, he's the prophet of the most high God.
+[01:22:46.200 --> 01:22:54.200]   He's going to represent he's going to go ahead and he's going to bring the mountains low and then fill up the valley high in order for the Messiah to come.
+[01:22:54.200 --> 01:22:59.200]   And then experiences hardship, poverty, desert.
+[01:22:59.200 --> 01:23:08.200]   And even when he starts to proclaim, Israel begins to treat him weird and then he gets beheaded and then done.
+[01:23:08.200 --> 01:23:13.200]   Who would want to be John the Baptist?
+[01:23:13.200 --> 01:23:21.200]   If the reward for John the Baptist is honor during this life, he didn't get it.
+[01:23:21.200 --> 01:23:26.200]   If it was a large crowd for a long period of time, he didn't get it.
+[01:23:26.200 --> 01:23:30.200]   Long life, he didn't get it. Good health, he didn't get it.
+[01:23:30.200 --> 01:23:35.200]   Community, he didn't get it. A good family, he didn't get it.
+[01:23:35.200 --> 01:23:40.200]   He had none of that. And then he got beheaded.
+[01:23:40.200 --> 01:23:44.200]   If the reward was here.
+[01:23:44.200 --> 01:23:49.200]   It's not worth it. It's not worth it.
+[01:23:49.200 --> 01:23:57.200]   If because we're faithful that God gives us honor during this life, that honor isn't worth it.
+[01:23:57.200 --> 01:24:00.200]   If you get more money, it's not worth it.
+[01:24:00.200 --> 01:24:05.200]   To live a little bit longer than other people, it's not worth it. So that we can have a better retirement, it's not worth it.
+[01:24:05.200 --> 01:24:09.200]   So that we can have more people know our name.
+[01:24:09.200 --> 01:24:13.200]   To do that, for that, it's not worth it.
+[01:24:13.200 --> 01:24:18.200]   But that was not the fulfillment of his promise.
+[01:24:18.200 --> 01:24:21.200]   And neither is it ours.
+[01:24:21.200 --> 01:24:25.200]   Our promise of God's glory isn't here.
+[01:24:25.200 --> 01:24:30.200]   Because you preach the gospel, friends will shun you.
+[01:24:30.200 --> 01:24:34.200]   Because you're faithful to the word, your family will think you're weird.
+[01:24:34.200 --> 01:24:37.200]   Some people will say you're judgmental.
+[01:24:37.200 --> 01:24:43.200]   Because you're faithful to the word of God, you may not be able to live the American dream.
+[01:24:43.200 --> 01:24:48.200]   You may not fit where you fit in, even within your own family.
+[01:24:48.200 --> 01:24:52.200]   But glory is coming.
+[01:24:52.200 --> 01:24:56.200]   Not during this lifetime, but when Christ comes.
+[01:24:56.200 --> 01:24:59.200]   You have been crucified with Christ.
+[01:24:59.200 --> 01:25:04.200]   It is no longer you who live, but Christ who lives in you.
+[01:25:04.200 --> 01:25:09.200]   The life which you now live, you live by faith in the son of God.
+[01:25:09.200 --> 01:25:16.200]   And when he comes, we will experience that glory as he comes in glory.
+[01:25:16.200 --> 01:25:22.200]   John the Baptist, though he was a unique prophet of God,
+[01:25:22.200 --> 01:25:28.200]   the path that he took and the calling that he had is a calling that you and I have.
+[01:25:28.200 --> 01:25:32.200]   To live a life aligned with the purpose of God,
+[01:25:32.200 --> 01:25:37.200]   to prepare this sinful world for the coming of Christ.
+[01:25:37.200 --> 01:25:43.200]   To preach the word, preach the gospel, in season and out of season.
+[01:25:43.200 --> 01:25:50.200]   Let's pray.
+[01:25:50.200 --> 01:26:00.200]   Gracious, merciful, loving, patient, holy, and faithful God.
+[01:26:00.200 --> 01:26:03.200]   You know how easily we get entangled with this world.
+[01:26:03.200 --> 01:26:09.200]   You know how easily we get anxious, Lord God, because we do not have what the world offers.
+[01:26:09.200 --> 01:26:13.200]   Help us to live with eternity in mind.
+[01:26:13.200 --> 01:26:18.200]   Whether we are up in the mountains or whether we are in the valleys.
+[01:26:18.200 --> 01:26:23.200]   That we would run to Christ as our refuge.
+[01:26:23.200 --> 01:26:27.200]   That we would know you and to make you known.
+[01:26:27.200 --> 01:26:30.200]   And for that purpose, help us, Lord God, to live.
+[01:26:30.200 --> 01:26:32.200]   In Jesus' name we pray, amen.
+[01:26:32.200 --> 01:26:50.200]   Let's all stand up for the closing praise.
+[01:26:50.200 --> 01:26:55.200]   Amazing grace, amazing grace, how sweet the sound.
+[01:26:55.200 --> 01:27:02.200]   It saved a wretch like me.
+[01:27:02.200 --> 01:27:05.200]   For I once was lost but now I'm found.
+[01:27:05.200 --> 01:27:07.200]   Was blind but now I see.
+[01:27:07.200 --> 01:27:09.200]   Hallelujah.
+[01:27:09.200 --> 01:27:12.200]   Christ is risen from the grave.
+[01:27:12.200 --> 01:27:15.200]   Hallelujah.
+[01:27:15.200 --> 01:27:33.200]   Christ is risen from the grave.
+[01:27:33.200 --> 01:27:37.200]   The prodigal is welcomed home.
+[01:27:37.200 --> 01:27:40.200]   The sinner now a saint.
+[01:27:40.200 --> 01:27:44.200]   For the God who died came back to life.
+[01:27:44.200 --> 01:27:47.200]   And everything has changed.
+[01:27:47.200 --> 01:27:50.200]   Hallelujah.
+[01:27:50.200 --> 01:27:54.200]   Christ is risen from the grave.
+[01:27:54.200 --> 01:27:57.200]   Hallelujah.
+[01:27:57.200 --> 01:28:00.200]   Christ is risen from the grave.
+[01:28:00.200 --> 01:28:03.200]   Oh, death, where is your sting?
+[01:28:03.200 --> 01:28:06.200]   Oh, death, where is your sting?
+[01:28:06.200 --> 01:28:10.200]   Oh, fear, where is your power?
+[01:28:10.200 --> 01:28:17.200]   The mighty King of kings has disarmed you.
+[01:28:17.200 --> 01:28:20.200]   Delivered and redeemed.
+[01:28:20.200 --> 01:28:24.200]   Eternal life is ours.
+[01:28:24.200 --> 01:28:29.200]   Oh, praise his name forever.
+[01:28:29.200 --> 01:28:32.200]   Hallelujah.
+[01:28:32.200 --> 01:28:36.200]   Christ is risen from the grave.
+[01:28:36.200 --> 01:28:39.200]   Hallelujah.
+[01:28:39.200 --> 01:28:43.200]   Christ is risen from the grave.
+[01:28:43.200 --> 01:28:49.200]   And all throughout eternity, our song will be the same.
+[01:28:49.200 --> 01:28:53.200]   Hallelujah.
+[01:28:53.200 --> 01:28:56.200]   Christ is risen from the grave.
+[01:29:08.200 --> 01:29:11.200]   And on the day.
+[01:29:11.200 --> 01:29:18.200]   And on the day you call me in to heaven's sweet embrace.
+[01:29:18.200 --> 01:29:25.200]   I'll see your scars, your open arms, the beauty of your face.
+[01:29:25.200 --> 01:29:31.200]   Through tears of joy I'll lift my voice in everlasting praise.
+[01:29:31.200 --> 01:29:35.200]   Hallelujah.
+[01:29:35.200 --> 01:29:38.200]   Christ is risen from the grave.
+[01:29:38.200 --> 01:29:40.200]   Oh, death.
+[01:29:40.200 --> 01:29:44.200]   Oh, death, where is your sting?
+[01:29:44.200 --> 01:29:47.200]   Oh, fear, where is your power?
+[01:29:47.200 --> 01:29:54.200]   The mighty King of kings has disarmed you.
+[01:29:54.200 --> 01:29:58.200]   Delivered and redeemed.
+[01:29:58.200 --> 01:30:01.200]   Eternal life is ours.
+[01:30:01.200 --> 01:30:06.200]   Oh, praise his name forever.
+[01:30:06.200 --> 01:30:09.200]   Hallelujah.
+[01:30:09.200 --> 01:30:13.200]   Christ is risen from the grave.
+[01:30:13.200 --> 01:30:16.200]   Hallelujah.
+[01:30:16.200 --> 01:30:21.200]   Christ is risen from the grave.
+[01:30:21.200 --> 01:30:27.200]   And all throughout eternity, our song will be the same.
+[01:30:27.200 --> 01:30:30.200]   Hallelujah.
+[01:30:30.200 --> 01:30:33.200]   Christ is risen from the grave.
+[01:30:33.200 --> 01:30:38.200]   And all throughout, all throughout eternity, our song
+[01:30:38.200 --> 01:30:41.200]   will be the same.
+[01:30:41.200 --> 01:30:44.200]   Hallelujah.
+[01:30:44.200 --> 01:30:47.200]   Christ is risen from the grave.
+[01:30:47.200 --> 01:30:50.200]   [MUSIC PLAYING]
+[01:30:50.200 --> 01:31:09.200]   Now to him who is able to keep you from stumbling
+[01:31:09.200 --> 01:31:12.200]   and to make you stand in the presence of his glory,
+[01:31:12.200 --> 01:31:15.200]   blameless with great joy, to the only God our Savior
+[01:31:15.200 --> 01:31:18.200]   and through Jesus Christ our Lord, be glory, majesty,
+[01:31:18.200 --> 01:31:22.200]   dominion, and authority before all time and now and forever.
+[01:31:22.200 --> 01:31:23.200]   Amen.
+[01:31:23.200 --> 01:31:26.200]   God sent his son.
+[01:31:26.200 --> 01:31:34.200]   They called him Jesus.
+[01:31:34.200 --> 01:31:41.200]   He came to love, heal, and forgive.
+[01:31:44.200 --> 01:31:49.200]   He lived and died.
+[01:31:49.200 --> 01:32:00.200]   To buy my pardon, an empty grave is there to prove
+[01:32:00.200 --> 01:32:05.200]   my Savior lived.
+[01:32:05.200 --> 01:32:16.200]   Because he lives, I can face tomorrow.
+[01:32:16.200 --> 01:32:26.200]   Because he lives, all fear is gone.
+[01:32:26.200 --> 01:32:36.200]   Because I know he holds the future.
+[01:32:36.200 --> 01:32:45.200]   And life is worth the living just because he lives.
+[01:32:45.200 --> 01:32:51.200]   God's justice.
+

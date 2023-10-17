@@ -1,0 +1,1458 @@
+
+[00:00:00.000 --> 00:00:02.420]   (soft music)
+[00:00:02.420 --> 00:00:04.840]   (soft music)
+[00:00:04.840 --> 00:00:07.260]   (soft music)
+[00:00:07.260 --> 00:00:09.680]   (soft music)
+[00:00:09.680 --> 00:00:14.580]   (soft music)
+[00:00:14.580 --> 00:00:20.940]   (soft music)
+[00:00:20.940 --> 00:00:28.000]   (soft music)
+[00:00:28.000 --> 00:00:34.540]   (soft music)
+[00:00:34.540 --> 00:00:36.960]   (soft music)
+[00:00:36.960 --> 00:00:42.820]   (soft music)
+[00:00:42.820 --> 00:00:48.860]   (soft music)
+[00:00:48.860 --> 00:00:55.220]   (soft music)
+[00:00:55.220 --> 00:01:01.740]   (soft music)
+[00:01:01.740 --> 00:01:04.160]   (soft music)
+[00:01:04.160 --> 00:01:11.160]   (soft music)
+[00:01:11.160 --> 00:01:18.160]   (soft music)
+[00:01:18.160 --> 00:01:24.160]   (soft music)
+[00:01:24.160 --> 00:01:31.160]   (soft music)
+[00:01:32.160 --> 00:01:34.580]   (soft music)
+[00:01:34.580 --> 00:01:41.580]   (soft music)
+[00:01:41.580 --> 00:01:48.580]   (soft music)
+[00:01:48.580 --> 00:01:55.580]   (soft music)
+[00:02:00.160 --> 00:02:02.580]   (soft music)
+[00:02:02.580 --> 00:02:10.580]   (soft music)
+[00:02:10.580 --> 00:02:17.580]   (soft music)
+[00:02:17.580 --> 00:02:24.580]   (soft music)
+[00:02:29.160 --> 00:02:31.580]   (soft music)
+[00:02:31.580 --> 00:02:41.580]   (soft music)
+[00:02:41.580 --> 00:02:51.580]   (soft music)
+[00:02:51.580 --> 00:02:54.000]   (soft music)
+[00:02:54.000 --> 00:03:08.000]   (soft music)
+[00:03:08.000 --> 00:03:20.000]   (soft music)
+[00:03:20.000 --> 00:03:22.420]   (soft music)
+[00:03:22.420 --> 00:03:46.420]   (soft music)
+[00:03:46.420 --> 00:03:48.840]   (soft music)
+[00:03:48.840 --> 00:03:58.840]   (soft music)
+[00:03:58.840 --> 00:04:08.840]   (soft music)
+[00:04:08.840 --> 00:04:11.260]   (soft music)
+[00:04:11.260 --> 00:04:24.260]   (soft music)
+[00:04:25.260 --> 00:04:27.680]   (soft music)
+[00:04:27.680 --> 00:04:36.680]   (soft music)
+[00:04:36.680 --> 00:04:46.680]   (soft music)
+[00:04:46.680 --> 00:04:49.100]   (soft music)
+[00:04:49.100 --> 00:04:59.100]   (soft music)
+[00:04:59.100 --> 00:05:09.100]   (soft music)
+[00:05:09.100 --> 00:05:11.520]   (soft music)
+[00:05:11.520 --> 00:05:21.520]   (soft music)
+[00:05:21.520 --> 00:05:31.520]   (soft music)
+[00:05:31.520 --> 00:05:33.940]   (soft music)
+[00:05:33.940 --> 00:05:43.940]   (soft music)
+[00:05:43.940 --> 00:05:53.940]   (soft music)
+[00:05:53.940 --> 00:05:56.360]   (soft music)
+[00:05:56.360 --> 00:06:06.360]   (soft music)
+[00:06:06.360 --> 00:06:16.360]   (soft music)
+[00:06:16.360 --> 00:06:18.780]   (soft music)
+[00:06:18.780 --> 00:06:28.780]   (soft music)
+[00:06:28.780 --> 00:06:38.780]   (soft music)
+[00:06:38.780 --> 00:06:41.200]   (soft music)
+[00:06:41.200 --> 00:06:55.200]   (soft music)
+[00:06:55.200 --> 00:06:57.620]   (soft music)
+[00:06:57.620 --> 00:07:07.620]   (soft music)
+[00:07:07.620 --> 00:07:17.620]   (soft music)
+[00:07:17.620 --> 00:07:20.040]   (soft music)
+[00:07:20.040 --> 00:07:30.040]   (soft music)
+[00:07:30.040 --> 00:07:40.040]   (soft music)
+[00:07:40.040 --> 00:07:42.460]   (soft music)
+[00:07:42.460 --> 00:07:54.460]   (soft music)
+[00:07:54.460 --> 00:07:56.880]   (soft music)
+[00:07:56.880 --> 00:08:06.880]   (soft music)
+[00:08:06.880 --> 00:08:16.880]   (soft music)
+[00:08:16.880 --> 00:08:19.300]   (soft music)
+[00:08:19.300 --> 00:08:29.300]   (soft music)
+[00:08:29.300 --> 00:08:39.300]   (soft music)
+[00:08:39.300 --> 00:08:41.720]   (soft music)
+[00:08:41.720 --> 00:08:51.720]   (soft music)
+[00:08:51.720 --> 00:09:01.720]   (soft music)
+[00:09:01.720 --> 00:09:04.140]   (soft music)
+[00:09:04.140 --> 00:09:14.140]   (soft music)
+[00:09:14.140 --> 00:09:24.140]   (soft music)
+[00:09:24.140 --> 00:09:26.560]   (soft music)
+[00:09:26.560 --> 00:09:53.560]   (soft music)
+[00:09:53.560 --> 00:09:55.980]   (soft music)
+[00:09:55.980 --> 00:10:09.980]   (soft music)
+[00:10:09.980 --> 00:10:12.400]   (soft music)
+[00:10:12.400 --> 00:10:26.400]   (soft music)
+[00:10:26.400 --> 00:10:28.820]   (soft music)
+[00:10:28.820 --> 00:10:38.820]   (soft music)
+[00:10:38.820 --> 00:10:48.820]   (soft music)
+[00:10:48.820 --> 00:10:51.240]   (soft music)
+[00:10:51.240 --> 00:11:05.240]   (soft music)
+[00:11:05.240 --> 00:11:07.660]   (soft music)
+[00:11:07.660 --> 00:11:17.660]   (soft music)
+[00:11:17.660 --> 00:11:27.660]   (soft music)
+[00:11:27.660 --> 00:11:30.080]   (soft music)
+[00:11:30.080 --> 00:11:50.080]   (soft music)
+[00:11:50.080 --> 00:11:52.500]   (soft music)
+[00:11:52.500 --> 00:12:02.500]   (soft music)
+[00:12:02.500 --> 00:12:12.500]   (soft music)
+[00:12:12.500 --> 00:12:14.920]   (soft music)
+[00:12:14.920 --> 00:12:24.920]   (soft music)
+[00:12:24.920 --> 00:12:34.920]   (soft music)
+[00:12:34.920 --> 00:12:37.340]   (soft music)
+[00:12:37.340 --> 00:12:47.340]   (soft music)
+[00:12:47.340 --> 00:12:57.340]   (soft music)
+[00:12:57.340 --> 00:12:59.760]   (soft music)
+[00:12:59.760 --> 00:13:19.760]   (soft music)
+[00:13:19.760 --> 00:13:22.180]   (soft music)
+[00:13:22.180 --> 00:13:36.180]   (soft music)
+[00:13:36.180 --> 00:13:38.600]   (soft music)
+[00:13:38.600 --> 00:13:48.600]   (soft music)
+[00:13:48.600 --> 00:13:58.600]   (soft music)
+[00:13:58.600 --> 00:14:01.020]   (soft music)
+[00:14:01.020 --> 00:14:23.020]   (soft music)
+[00:14:23.020 --> 00:14:25.440]   (soft music)
+[00:14:25.440 --> 00:14:35.440]   (soft music)
+[00:14:35.440 --> 00:14:45.440]   (soft music)
+[00:14:45.440 --> 00:14:47.860]   (soft music)
+[00:14:47.860 --> 00:14:58.860]   - Good morning, church family.
+[00:14:58.860 --> 00:14:59.860]   Happy Lord's Day.
+[00:14:59.860 --> 00:15:01.360]   I hope all of you had a good week in the Lord.
+[00:15:01.360 --> 00:15:03.560]   We're gonna go ahead and start our worship.
+[00:15:03.560 --> 00:15:08.360]   (soft music)
+[00:15:08.360 --> 00:15:10.780]   (soft music)
+[00:15:10.780 --> 00:15:20.780]   ♪ Jesus ♪
+[00:15:20.780 --> 00:15:25.780]   ♪ Jesus ♪
+[00:15:25.780 --> 00:15:33.280]   ♪ Jesus ♪
+[00:15:35.780 --> 00:15:40.780]   ♪ Holy and anointed one ♪
+[00:15:40.780 --> 00:15:47.780]   ♪ Jesus ♪
+[00:15:47.780 --> 00:15:55.280]   ♪ Jesus ♪
+[00:15:55.280 --> 00:15:59.780]   ♪ Jesus ♪
+[00:15:59.780 --> 00:16:03.780]   - Resurrect and exalt.
+[00:16:05.280 --> 00:16:10.280]   ♪ Risen and exalted one ♪
+[00:16:10.280 --> 00:16:17.780]   ♪ Jesus ♪
+[00:16:17.780 --> 00:16:22.780]   ♪ Your name is like honey on my lips ♪
+[00:16:22.780 --> 00:16:30.280]   ♪ Your spirit like water to my soul ♪
+[00:16:32.780 --> 00:16:37.780]   ♪ Your word is a lamp unto my feet ♪
+[00:16:37.780 --> 00:16:44.780]   ♪ Jesus I love you ♪
+[00:16:44.780 --> 00:16:49.780]   ♪ I love you ♪
+[00:16:49.780 --> 00:16:54.780]   ♪ Jesus ♪
+[00:16:54.780 --> 00:16:58.780]   ♪ Jesus ♪
+[00:17:01.780 --> 00:17:04.280]   ♪ Holy and ♪
+[00:17:04.280 --> 00:17:09.280]   ♪ Holy and anointed one ♪
+[00:17:09.280 --> 00:17:15.280]   ♪ Jesus ♪
+[00:17:15.280 --> 00:17:16.780]   ♪ Yeah your name ♪
+[00:17:16.780 --> 00:17:21.780]   ♪ Your name is like honey on my lips ♪
+[00:17:21.780 --> 00:17:29.280]   ♪ Your spirit like water to my soul ♪
+[00:17:30.280 --> 00:17:35.280]   ♪ Your word is a lamp unto my feet ♪
+[00:17:35.280 --> 00:17:42.280]   ♪ Jesus I love you ♪
+[00:17:42.280 --> 00:17:47.280]   ♪ I love you ♪
+[00:17:47.280 --> 00:17:52.280]   ♪ Jesus ♪
+[00:17:55.280 --> 00:18:00.280]   ♪ Jesus ♪
+[00:18:00.280 --> 00:18:08.280]   ♪ Risen and exalted one ♪
+[00:18:08.280 --> 00:18:13.280]   ♪ Jesus ♪
+[00:18:23.280 --> 00:18:25.080]   - All right, good morning everyone.
+[00:18:25.080 --> 00:18:28.280]   Welcome to Berean Community Church.
+[00:18:28.280 --> 00:18:31.280]   We have again, a few announcements before we get started.
+[00:18:31.280 --> 00:18:35.500]   Let me ask Pastor Nate, where's Pastor Nate?
+[00:18:35.500 --> 00:18:37.040]   He's gonna come up and give some announcements
+[00:18:37.040 --> 00:18:40.040]   for our college ministry before we jump into the other stuff.
+[00:18:40.040 --> 00:18:44.780]   - Hello, good morning.
+[00:18:44.780 --> 00:18:47.820]   My name is Nathan, I'm the college pastor here at Berean.
+[00:18:47.820 --> 00:18:49.420]   I know that a lot of us have been seeing
+[00:18:49.420 --> 00:18:52.140]   a lot of the younger kind of students coming through
+[00:18:52.140 --> 00:18:54.240]   and it's because the college school year
+[00:18:54.240 --> 00:18:56.240]   has officially begun for the quarter system.
+[00:18:56.240 --> 00:18:59.600]   And so for those of you who are newer to our church,
+[00:18:59.600 --> 00:19:02.400]   who are visiting for the first or second time,
+[00:19:02.400 --> 00:19:04.320]   we have a lot of things going on,
+[00:19:04.320 --> 00:19:06.540]   especially in the beginning part of the school year
+[00:19:06.540 --> 00:19:09.020]   so that you can kind of acclimate and connect
+[00:19:09.020 --> 00:19:11.220]   and get to know what this church is all about.
+[00:19:11.220 --> 00:19:13.440]   So just three quick things.
+[00:19:13.440 --> 00:19:15.440]   Number one, we have a welcome table
+[00:19:15.440 --> 00:19:17.480]   that's devoted to the college ministry
+[00:19:17.480 --> 00:19:19.480]   that's gonna be up for about two more weeks,
+[00:19:19.480 --> 00:19:20.740]   this week and next week.
+[00:19:20.740 --> 00:19:23.800]   If you have questions, it has a black tablecloth,
+[00:19:23.800 --> 00:19:25.480]   it's pretty clear in signage.
+[00:19:25.480 --> 00:19:28.320]   So go over there, you can sign up for a rides ministry
+[00:19:28.320 --> 00:19:29.840]   if you need rides.
+[00:19:29.840 --> 00:19:32.320]   You can sign up to kind of get more information
+[00:19:32.320 --> 00:19:36.220]   about the church and all the different things going on
+[00:19:36.220 --> 00:19:38.000]   can be told to you there in detail.
+[00:19:38.000 --> 00:19:39.960]   But that brings us to our second announcement,
+[00:19:39.960 --> 00:19:42.700]   which is that this week we will also continue
+[00:19:42.700 --> 00:19:44.680]   to have a few events going on.
+[00:19:44.680 --> 00:19:47.280]   On Tuesday we have a What is Christianity? info night.
+[00:19:47.280 --> 00:19:49.360]   And if you don't know what Christianity is about,
+[00:19:49.360 --> 00:19:51.120]   it's a good place to start.
+[00:19:51.120 --> 00:19:52.920]   So you can come there on Tuesday night.
+[00:19:52.920 --> 00:19:54.320]   On Wednesday we're gonna be kicking off
+[00:19:54.320 --> 00:19:55.880]   Searchlight Campus Ministry,
+[00:19:55.880 --> 00:19:58.800]   which is our on-campus presence over at UCI.
+[00:19:58.800 --> 00:20:00.720]   So please join us there at 8 p.m.
+[00:20:00.720 --> 00:20:03.340]   And then on Thursday we're gonna be having some hangouts
+[00:20:03.340 --> 00:20:05.480]   and our Bible study continues on Friday.
+[00:20:05.480 --> 00:20:08.000]   And so there's a lot of things going on.
+[00:20:08.000 --> 00:20:10.480]   But thirdly and lastly, next week,
+[00:20:10.480 --> 00:20:13.760]   after second service, so this service,
+[00:20:13.760 --> 00:20:16.200]   we're going to be having in this room
+[00:20:16.200 --> 00:20:20.160]   a college lunch devoted to welcoming those of you
+[00:20:20.160 --> 00:20:23.160]   who are kind of here very new.
+[00:20:23.160 --> 00:20:25.600]   And we'll be explaining to you what the church is about.
+[00:20:25.600 --> 00:20:27.240]   You can connect with other students there.
+[00:20:27.240 --> 00:20:30.680]   And hopefully we'll connect you to the weak things as well.
+[00:20:30.680 --> 00:20:31.720]   That's it, thank you.
+[00:20:31.720 --> 00:20:35.880]   - You can clap.
+[00:20:35.880 --> 00:20:38.040]   (audience applauding)
+[00:20:38.040 --> 00:20:38.920]   It's so awkward.
+[00:20:38.920 --> 00:20:42.280]   All right, along with that,
+[00:20:42.280 --> 00:20:45.880]   we actually have a new visitors welcome lunch
+[00:20:45.880 --> 00:20:47.400]   after this service.
+[00:20:47.400 --> 00:20:48.880]   So as soon as the service is over,
+[00:20:48.880 --> 00:20:50.280]   we're gonna clear some of the chairs
+[00:20:50.280 --> 00:20:52.200]   and then we're gonna set up tables here
+[00:20:52.200 --> 00:20:53.780]   and lunch will be provided.
+[00:20:53.780 --> 00:20:55.480]   So even if you haven't signed up
+[00:20:55.480 --> 00:20:56.840]   and you just happen to visit
+[00:20:56.840 --> 00:20:58.720]   and you wanna learn more about the church,
+[00:20:58.720 --> 00:21:00.820]   they told me that there will be plenty of lunch.
+[00:21:00.820 --> 00:21:02.160]   So you're welcome to come.
+[00:21:02.160 --> 00:21:03.880]   If you just stick around this room,
+[00:21:03.880 --> 00:21:06.760]   right afterwards we're gonna be setting up.
+[00:21:06.760 --> 00:21:08.280]   And as soon as we're set up, we're gonna get started.
+[00:21:08.280 --> 00:21:10.680]   So please try not to roam around the church
+[00:21:10.680 --> 00:21:14.200]   'cause we're gonna, if you are attending that luncheon,
+[00:21:14.200 --> 00:21:16.080]   please stick around right afterwards.
+[00:21:16.080 --> 00:21:18.080]   And then if some of you guys can just kind of help us out
+[00:21:18.080 --> 00:21:21.760]   and move some of the chairs, that'd be appreciated.
+[00:21:21.760 --> 00:21:23.920]   Heads up, next Sunday we do have communion.
+[00:21:23.920 --> 00:21:25.520]   So prepare your hearts for that.
+[00:21:25.520 --> 00:21:28.200]   There's a members meeting that's coming up on 10/10.
+[00:21:28.200 --> 00:21:30.040]   So in a couple of weeks at 2/30.
+[00:21:30.040 --> 00:21:32.880]   Again, our members meeting is a quarterly meeting.
+[00:21:32.880 --> 00:21:35.760]   So if you are a member or you are being introduced
+[00:21:35.760 --> 00:21:37.340]   as a new member to the church,
+[00:21:37.340 --> 00:21:39.240]   again, because it is a quarter meeting,
+[00:21:39.240 --> 00:21:41.360]   we're asking all the members to come
+[00:21:41.360 --> 00:21:43.640]   and participate in that.
+[00:21:43.640 --> 00:21:45.840]   ACBC Counseling Mini Conference,
+[00:21:45.840 --> 00:21:48.840]   that's coming up on October 15th and 16th.
+[00:21:48.840 --> 00:21:52.520]   Again, that week, because we want to have you,
+[00:21:52.520 --> 00:21:54.920]   as many of you attend as possible.
+[00:21:54.920 --> 00:21:58.640]   So we are not having regular Bible study this that week
+[00:21:58.640 --> 00:22:00.360]   on Wednesday and then all the home groups.
+[00:22:00.360 --> 00:22:03.760]   Instead, we're having our mini conference on Friday night
+[00:22:03.760 --> 00:22:06.680]   and then it will last until Saturday afternoon.
+[00:22:06.680 --> 00:22:08.400]   And so even if you can't attend all of it
+[00:22:08.400 --> 00:22:09.920]   and if you can attend some of it,
+[00:22:09.920 --> 00:22:12.760]   we're trying to encourage you to attend
+[00:22:12.760 --> 00:22:13.720]   as much as you can.
+[00:22:13.720 --> 00:22:16.320]   So again, if you are attending Bible study,
+[00:22:16.320 --> 00:22:17.920]   whether it's home group and small group,
+[00:22:17.920 --> 00:22:19.680]   please sign up for that
+[00:22:19.680 --> 00:22:21.600]   'cause we're doing it in replacement of that.
+[00:22:21.600 --> 00:22:23.780]   Okay, so please do that as soon as you can.
+[00:22:23.780 --> 00:22:27.440]   All right, after I pray an offering,
+[00:22:27.440 --> 00:22:29.600]   our brother, Jerick Kwong, is gonna come
+[00:22:29.600 --> 00:22:31.000]   and he's gonna give his testimony
+[00:22:31.000 --> 00:22:32.960]   and he'll be baptized this morning.
+[00:22:32.960 --> 00:22:34.760]   So we'll give you a minute after we pray
+[00:22:34.760 --> 00:22:36.360]   to electronically give.
+[00:22:36.360 --> 00:22:38.180]   If you've brought physical offering,
+[00:22:38.180 --> 00:22:40.440]   we do have a box in the back as you're leaving.
+[00:22:40.440 --> 00:22:43.800]   There's a offering box so you can drop it off there, okay?
+[00:22:43.800 --> 00:22:44.900]   All right, let's pray.
+[00:22:44.900 --> 00:22:50.400]   Gracious and loving Father,
+[00:22:50.400 --> 00:22:52.120]   we thank you so much for the privilege
+[00:22:52.120 --> 00:22:54.160]   that we have to worship you this morning.
+[00:22:54.160 --> 00:22:59.160]   We pray that your Holy Spirit would guide and lead us,
+[00:22:59.160 --> 00:23:02.800]   encourage us, exhort us, rebuke us, challenge us,
+[00:23:02.800 --> 00:23:05.360]   that we may truly live lives worthy of the gospel
+[00:23:05.360 --> 00:23:06.260]   that you've given.
+[00:23:07.200 --> 00:23:10.740]   I pray, Father God, that with the offering that we give,
+[00:23:10.740 --> 00:23:14.600]   may it be an act of worship that we give to you,
+[00:23:14.600 --> 00:23:18.040]   that we would give joyfully, intentionally,
+[00:23:18.040 --> 00:23:20.960]   that Christ and the gospel would be exalted,
+[00:23:20.960 --> 00:23:23.040]   that more and more people will know the hope
+[00:23:23.040 --> 00:23:25.080]   that is in Christ and Christ alone.
+[00:23:25.080 --> 00:23:26.880]   So for that end, we pray for your blessing.
+[00:23:26.880 --> 00:23:28.560]   In Jesus' name we pray, amen.
+[00:23:28.560 --> 00:23:32.780]   (gentle music)
+[00:23:33.780 --> 00:23:36.360]   (gentle music)
+[00:23:36.360 --> 00:23:38.940]   (gentle music)
+[00:23:38.940 --> 00:23:41.520]   (gentle music)
+[00:23:42.480 --> 00:23:45.060]   (gentle music)
+[00:23:45.060 --> 00:23:52.600]   (gentle music)
+[00:23:52.600 --> 00:24:04.100]   (gentle music)
+[00:24:05.100 --> 00:24:07.680]   (gentle music)
+[00:24:07.680 --> 00:24:12.680]   (gentle music)
+[00:24:12.680 --> 00:24:18.680]   (gentle music)
+[00:24:18.680 --> 00:24:25.680]   (gentle music)
+[00:24:25.680 --> 00:24:33.300]   Church family, let's all go ahead and rise together
+[00:24:33.300 --> 00:24:35.940]   as we sing this song, the glories of Calvary.
+[00:24:35.940 --> 00:24:41.440]   (gentle music)
+[00:24:41.440 --> 00:24:45.280]   (upbeat music)
+[00:24:45.280 --> 00:24:58.100]   Sing, Lord, you're calling.
+[00:24:58.100 --> 00:25:02.140]   ♪ Lord, you're calling me to come ♪
+[00:25:02.140 --> 00:25:06.220]   ♪ And behold the wondrous cross ♪
+[00:25:06.220 --> 00:25:10.140]   ♪ To explore the depths of grace ♪
+[00:25:10.140 --> 00:25:14.380]   ♪ That came to me at such a cost ♪
+[00:25:14.380 --> 00:25:18.540]   ♪ Where your boundless love ♪
+[00:25:18.540 --> 00:25:22.620]   ♪ Conquered my boundless sin ♪
+[00:25:22.620 --> 00:25:26.580]   ♪ And all of mercy's arms ♪
+[00:25:26.580 --> 00:25:30.660]   ♪ Opened wide, I saw ♪
+[00:25:30.660 --> 00:25:34.740]   ♪ Your heart is filled with a thousand songs ♪
+[00:25:34.740 --> 00:25:38.900]   ♪ Proclaiming the glories of Calvary ♪
+[00:25:38.900 --> 00:25:42.980]   ♪ With every breath, Lord, how I long ♪
+[00:25:42.980 --> 00:25:47.300]   ♪ To sing of Jesus who died for me ♪
+[00:25:47.300 --> 00:25:51.420]   ♪ Lord, take me deeper ♪
+[00:25:51.420 --> 00:25:55.260]   ♪ Into the glories of Calvary ♪
+[00:25:55.260 --> 00:25:59.240]   (upbeat music)
+[00:25:59.240 --> 00:26:01.900]   (upbeat music)
+[00:26:01.900 --> 00:26:08.900]   ♪ Sinners find eternal joy ♪
+[00:26:08.900 --> 00:26:12.900]   ♪ In the triumph of your wounds ♪
+[00:26:12.900 --> 00:26:16.900]   ♪ By our Savior's crucifixion flow ♪
+[00:26:16.900 --> 00:26:20.900]   ♪ Holy wrath has been removed ♪
+[00:26:20.900 --> 00:26:24.900]   ♪ And your saints below ♪
+[00:26:24.900 --> 00:26:28.900]   ♪ The saints of love rejoice ♪
+[00:26:28.900 --> 00:26:32.900]   ♪ Rejoice in the risen last ♪
+[00:26:32.900 --> 00:26:35.900]   ♪ Lord, my heart ♪
+[00:26:35.900 --> 00:26:39.900]   ♪ My heart is filled with a thousand songs ♪
+[00:26:39.900 --> 00:26:43.900]   ♪ Proclaiming the glories of Calvary ♪
+[00:26:43.900 --> 00:26:47.900]   ♪ With every breath, Lord, how I long ♪
+[00:26:47.900 --> 00:26:51.900]   ♪ To sing of Jesus who died for me ♪
+[00:26:51.900 --> 00:26:55.900]   ♪ My heart is filled with a thousand songs ♪
+[00:26:55.900 --> 00:26:59.900]   ♪ Proclaiming the glories of Calvary ♪
+[00:26:59.900 --> 00:27:03.900]   ♪ With every breath, Lord, how I long ♪
+[00:27:03.900 --> 00:27:07.900]   ♪ To sing of Jesus who died for me ♪
+[00:27:07.900 --> 00:27:11.900]   ♪ Lord, take me deeper ♪
+[00:27:11.900 --> 00:27:15.900]   ♪ Into the glories of Calvary ♪
+[00:27:18.900 --> 00:27:23.900]   ♪ Yes, Lord ♪
+[00:27:23.900 --> 00:27:36.740]   - Amen.
+[00:27:36.740 --> 00:27:43.480]   (gentle music)
+[00:27:43.480 --> 00:27:46.060]   (gentle music)
+[00:27:46.060 --> 00:27:53.480]   ♪ Amazing grace ♪
+[00:27:53.480 --> 00:27:57.480]   ♪ Amazing grace, how sweet the sound ♪
+[00:27:57.480 --> 00:28:00.480]   ♪ That saved a wretch like me ♪
+[00:28:00.480 --> 00:28:04.480]   ♪ For I once was lost, but now am found ♪
+[00:28:04.480 --> 00:28:07.480]   ♪ Was blind, but now I see ♪
+[00:28:07.480 --> 00:28:10.480]   ♪ Hallelujah ♪
+[00:28:10.480 --> 00:28:13.480]   ♪ Christ is risen from the grave ♪
+[00:28:13.480 --> 00:28:17.480]   ♪ Hallelujah ♪
+[00:28:17.480 --> 00:28:21.480]   ♪ Christ is risen from the grave ♪
+[00:28:21.480 --> 00:28:34.480]   ♪ The prodigal's welcomed home ♪
+[00:28:34.480 --> 00:28:38.480]   ♪ The prodigal is welcomed home ♪
+[00:28:38.480 --> 00:28:41.480]   ♪ A sinner now a saint ♪
+[00:28:41.480 --> 00:28:45.480]   ♪ For the God who died came back to life ♪
+[00:28:45.480 --> 00:28:48.480]   ♪ And everything has changed ♪
+[00:28:48.480 --> 00:28:51.480]   ♪ Hallelujah ♪
+[00:28:51.480 --> 00:28:55.480]   ♪ Christ is risen from the grave ♪
+[00:28:55.480 --> 00:28:58.480]   ♪ Hallelujah ♪
+[00:28:58.480 --> 00:29:01.480]   ♪ Christ is risen from the grave ♪
+[00:29:01.480 --> 00:29:04.480]   ♪ Oh death ♪
+[00:29:04.480 --> 00:29:07.480]   ♪ Oh death, where is your sting ♪
+[00:29:07.480 --> 00:29:10.480]   ♪ Oh fear, where is your power ♪
+[00:29:10.480 --> 00:29:15.480]   ♪ The mighty King of kings has disarmed you ♪
+[00:29:15.480 --> 00:29:20.480]   ♪ Delivered and redeemed ♪
+[00:29:20.480 --> 00:29:24.480]   ♪ Eternal life is ours ♪
+[00:29:24.480 --> 00:29:29.480]   ♪ Oh praise his name forever ♪
+[00:29:29.480 --> 00:29:32.480]   ♪ Hallelujah ♪
+[00:29:32.480 --> 00:29:35.480]   ♪ Christ is risen from the grave ♪
+[00:29:35.480 --> 00:29:38.480]   ♪ Hallelujah ♪
+[00:29:38.480 --> 00:29:42.480]   ♪ Christ is risen from the grave ♪
+[00:29:42.480 --> 00:29:46.480]   ♪ Oh what eternity ♪
+[00:29:46.480 --> 00:29:49.480]   ♪ Our sorrow be the same ♪
+[00:29:49.480 --> 00:29:52.480]   ♪ Hallelujah ♪
+[00:29:52.480 --> 00:29:56.480]   ♪ Christ is risen from the grave ♪
+[00:29:57.480 --> 00:30:00.480]   (upbeat music)
+[00:30:00.480 --> 00:30:14.480]   ♪ And on the day you come ♪
+[00:30:14.480 --> 00:30:17.480]   ♪ To heaven's sweet embrace ♪
+[00:30:17.480 --> 00:30:21.480]   ♪ I'll see your scars, your open arms ♪
+[00:30:21.480 --> 00:30:24.480]   ♪ The beauty of your face ♪
+[00:30:24.480 --> 00:30:28.480]   ♪ Your tears of joy I'll lift my voice ♪
+[00:30:28.480 --> 00:30:31.480]   ♪ In everlasting praise ♪
+[00:30:31.480 --> 00:30:34.480]   ♪ Hallelujah ♪
+[00:30:34.480 --> 00:30:38.480]   ♪ Christ is risen from the grave ♪
+[00:30:38.480 --> 00:30:40.480]   ♪ Oh death ♪
+[00:30:40.480 --> 00:30:43.480]   ♪ Oh death, where is your sting ♪
+[00:30:43.480 --> 00:30:46.480]   ♪ Oh fear, where is your power ♪
+[00:30:46.480 --> 00:30:51.480]   ♪ The mighty King of kings has disarmed you ♪
+[00:30:53.480 --> 00:30:56.480]   ♪ Delivered and redeemed ♪
+[00:30:56.480 --> 00:31:00.480]   ♪ Eternal life is ours ♪
+[00:31:00.480 --> 00:31:04.480]   ♪ Oh praise his name forever ♪
+[00:31:04.480 --> 00:31:08.480]   ♪ Hallelujah ♪
+[00:31:08.480 --> 00:31:11.480]   ♪ Christ is risen from the grave ♪
+[00:31:11.480 --> 00:31:14.480]   ♪ Hallelujah ♪
+[00:31:14.480 --> 00:31:19.480]   ♪ Christ is risen from the grave ♪
+[00:31:19.480 --> 00:31:22.480]   ♪ Oh what eternity ♪
+[00:31:22.480 --> 00:31:25.480]   ♪ Our sorrow be the same ♪
+[00:31:25.480 --> 00:31:28.480]   ♪ Hallelujah ♪
+[00:31:28.480 --> 00:31:31.480]   ♪ Christ is risen from the grave ♪
+[00:31:31.480 --> 00:31:36.480]   ♪ And on and on throughout eternity ♪
+[00:31:36.480 --> 00:31:39.480]   ♪ Our sorrow be the same ♪
+[00:31:39.480 --> 00:31:42.480]   ♪ Hallelujah ♪
+[00:31:42.480 --> 00:31:46.480]   ♪ Christ is risen from the grave ♪
+[00:31:47.480 --> 00:31:50.480]   (gentle music)
+[00:31:50.480 --> 00:32:02.480]   - Amen, you may be seated.
+[00:32:03.480 --> 00:32:06.480]   (gentle music)
+[00:32:06.480 --> 00:32:19.480]   - Hello everyone, my name is Jared Kwong.
+[00:32:19.480 --> 00:32:22.480]   I'm a fourth year biology major at UCI
+[00:32:22.480 --> 00:32:26.480]   and I will be sharing my testimony with you today.
+[00:32:26.480 --> 00:32:28.480]   My testimony is a little different in that
+[00:32:28.480 --> 00:32:31.480]   I did not have a specific date where I came to know Christ
+[00:32:31.480 --> 00:32:34.480]   but more of a gradual coming to know him.
+[00:32:34.480 --> 00:32:38.480]   I was raised in a Christian family for most of my life.
+[00:32:38.480 --> 00:32:40.480]   I went to church.
+[00:32:40.480 --> 00:32:42.480]   Before coming to know Christ,
+[00:32:42.480 --> 00:32:45.480]   I selfishly desired Christ as a means to get to heaven.
+[00:32:45.480 --> 00:32:48.480]   I was introduced to the gospel at a very young age
+[00:32:48.480 --> 00:32:50.480]   where I was told that I was a sinner
+[00:32:50.480 --> 00:32:53.480]   and if I believed in Jesus, I could go to heaven.
+[00:32:53.480 --> 00:32:56.480]   Out of fear of being punished, I put my faith in Christ
+[00:32:56.480 --> 00:32:58.480]   but not actually understanding the weight of my sin
+[00:32:58.480 --> 00:33:00.480]   and who Christ really was.
+[00:33:00.480 --> 00:33:04.480]   With this very shallow understanding of the gospel,
+[00:33:04.480 --> 00:33:06.480]   I grew up thinking I was a Christian.
+[00:33:06.480 --> 00:33:09.480]   I would remember all the rules and commandments
+[00:33:09.480 --> 00:33:10.480]   I learned in Sunday school
+[00:33:10.480 --> 00:33:13.480]   and follow them as best as possible.
+[00:33:13.480 --> 00:33:15.480]   Anyone who didn't follow them,
+[00:33:15.480 --> 00:33:17.480]   I looked down upon and saw as inferior.
+[00:33:17.480 --> 00:33:19.480]   Throughout high school, I began to indulge
+[00:33:19.480 --> 00:33:23.480]   in an assortment of sins such as lust, pride, and selfishness.
+[00:33:23.480 --> 00:33:26.480]   At the time though, I did not think I was indulging
+[00:33:26.480 --> 00:33:28.480]   in these sins but just struggling.
+[00:33:28.480 --> 00:33:31.480]   I saw these sins as bad but nothing more than that.
+[00:33:31.480 --> 00:33:33.480]   I knew I needed to stop sinning
+[00:33:33.480 --> 00:33:36.480]   but because I did not know the true implications of my sin,
+[00:33:36.480 --> 00:33:37.480]   I did not.
+[00:33:37.480 --> 00:33:41.480]   I would be challenged in my faith that I had in God
+[00:33:41.480 --> 00:33:43.480]   through my home church's youth group.
+[00:33:43.480 --> 00:33:45.480]   I began to doubt my salvation and began to seek counsel
+[00:33:45.480 --> 00:33:47.480]   from an elder from my home church.
+[00:33:47.480 --> 00:33:50.480]   After many meetups, it became evident to me
+[00:33:50.480 --> 00:33:51.480]   that I wasn't saved.
+[00:33:51.480 --> 00:33:54.480]   I again placed my faith in Christ and would be baptized
+[00:33:54.480 --> 00:33:57.480]   but again with a shallow understanding of the gospel
+[00:33:57.480 --> 00:34:00.480]   and only seeing Christ as a means to get to heaven.
+[00:34:00.480 --> 00:34:02.480]   In a span of a year and a half,
+[00:34:02.480 --> 00:34:04.480]   God would work in my heart to break down the gospel
+[00:34:04.480 --> 00:34:07.480]   I created in my head and would work in my heart
+[00:34:07.480 --> 00:34:09.480]   to see his true gospel.
+[00:34:09.480 --> 00:34:13.480]   He would do this through books, meetups, and sermons.
+[00:34:13.480 --> 00:34:15.480]   In the book, The Holiness of God,
+[00:34:15.480 --> 00:34:17.480]   was the first time I understood God's holiness
+[00:34:17.480 --> 00:34:19.480]   and that he is set apart from me.
+[00:34:19.480 --> 00:34:21.480]   Then through the gospel according to Jesus,
+[00:34:21.480 --> 00:34:24.480]   God revealed to me that Christ was not just Savior
+[00:34:24.480 --> 00:34:26.480]   but also Lord over my life.
+[00:34:26.480 --> 00:34:29.480]   Then in a sermon from Pastor Peter
+[00:34:29.480 --> 00:34:31.480]   that broke down my view of the gospel
+[00:34:31.480 --> 00:34:32.480]   was when he mentioned that the gospel
+[00:34:32.480 --> 00:34:36.480]   is not just a safety net or some free ticket out of hell.
+[00:34:36.480 --> 00:34:39.480]   Finally, through a meetup with Pastor Nate,
+[00:34:39.480 --> 00:34:41.480]   God made me see that I saw my sin as bad
+[00:34:41.480 --> 00:34:43.480]   but not sorrowful over my sin.
+[00:34:43.480 --> 00:34:46.480]   This was the final piece that made me realize
+[00:34:46.480 --> 00:34:49.480]   how far I was from God and that I truly did not know him.
+[00:34:49.480 --> 00:34:52.480]   After realizing this, I began to pray to God
+[00:34:52.480 --> 00:34:57.480]   to reveal to me my sin and to understand the magnitude of my sin.
+[00:34:57.480 --> 00:35:00.480]   After some time, God revealed to me
+[00:35:00.480 --> 00:35:02.480]   how great my sin is toward him
+[00:35:02.480 --> 00:35:05.480]   through Isaiah 6, 3-5, which states,
+[00:35:05.480 --> 00:35:07.480]   "And one called out to one another and said,
+[00:35:07.480 --> 00:35:09.480]   'Holy, holy, holy is the Lord of hosts.
+[00:35:09.480 --> 00:35:12.480]   The whole earth is full of his glory.'
+[00:35:12.480 --> 00:35:14.480]   And the foundations of the thresholds
+[00:35:14.480 --> 00:35:16.480]   trembled at the voice of him who called out,
+[00:35:16.480 --> 00:35:18.480]   while the temple was filling with smoke.
+[00:35:18.480 --> 00:35:21.480]   Then I said, 'Woe is me, for I am ruined.
+[00:35:21.480 --> 00:35:23.480]   Because I am a man of unclean lips
+[00:35:23.480 --> 00:35:26.480]   and live among a people of unclean lips.
+[00:35:26.480 --> 00:35:30.480]   For my eyes have seen the King, the Lord of hosts.'"
+[00:35:30.480 --> 00:35:33.480]   From this verse, God revealed to me my need for Christ
+[00:35:33.480 --> 00:35:37.480]   in order to be forgiven because of my sins.
+[00:35:37.480 --> 00:35:42.480]   After recognizing this, I asked for forgiveness for Christ
+[00:35:42.480 --> 00:35:45.480]   to be Lord and Savior over my life
+[00:35:45.480 --> 00:35:48.480]   and to no longer live for myself but for Christ.
+[00:35:48.480 --> 00:35:50.480]   Although I may not be perfect,
+[00:35:50.480 --> 00:35:54.480]   I see God sanctifying me after coming to know him.
+[00:35:54.480 --> 00:35:56.480]   One of the big differences in my desires
+[00:35:56.480 --> 00:35:58.480]   is that I want others to know him and to be saved.
+[00:35:58.480 --> 00:36:00.480]   I see how broken I am,
+[00:36:00.480 --> 00:36:04.480]   but also see the grace of God that has saved me,
+[00:36:04.480 --> 00:36:06.480]   and I want others to know Christ
+[00:36:06.480 --> 00:36:09.480]   and have a personal relationship with him.
+[00:36:09.480 --> 00:36:11.480]   As I reflect on the past,
+[00:36:11.480 --> 00:36:13.480]   I see God's sovereign work being done in my life
+[00:36:13.480 --> 00:36:16.480]   and how he has been so gracious and merciful to me
+[00:36:16.480 --> 00:36:18.480]   no matter how much I sinned.
+[00:36:18.480 --> 00:36:21.480]   This is something I am always going to be grateful for.
+[00:36:21.480 --> 00:36:23.480]   Thank you.
+[00:36:23.480 --> 00:36:25.480]   [applause]
+[00:36:25.480 --> 00:36:28.480]   [no audio]
+[00:36:28.480 --> 00:36:31.480]   [no audio]
+[00:36:56.480 --> 00:36:59.480]   [applause]
+[00:36:59.480 --> 00:37:10.480]   All right, thank you, Jared, for your great testimony.
+[00:37:10.480 --> 00:37:15.480]   If I can ask you guys to turn your Bibles to Hebrews 13,
+[00:37:15.480 --> 00:37:18.480]   and we'll be reading the first three verses together.
+[00:37:18.480 --> 00:37:22.480]   Hebrews 13, verses 1, 2, and 3.
+[00:37:22.480 --> 00:37:24.480]   Okay.
+[00:37:24.480 --> 00:37:31.480]   Hebrews 13, verses 1, 2, and 3.
+[00:37:31.480 --> 00:37:34.480]   Now I'm going to be reading out of the NASB.
+[00:37:34.480 --> 00:37:40.480]   "Let love of brethren continue.
+[00:37:40.480 --> 00:37:43.480]   Do not neglect to show hospitality to strangers,
+[00:37:43.480 --> 00:37:46.480]   for by this some have entertained angels without knowing it.
+[00:37:46.480 --> 00:37:49.480]   Remember the prisoners as though in prison with them,
+[00:37:49.480 --> 00:37:52.480]   and those who are ill-treated,
+[00:37:52.480 --> 00:37:54.480]   since you yourselves also are in the body."
+[00:37:54.480 --> 00:37:56.480]   Let's pray.
+[00:37:56.480 --> 00:38:05.480]   Heavenly Father, we ask the Holy Spirit to anoint this time.
+[00:38:05.480 --> 00:38:11.480]   May your people, your children, hear the voice of Christ
+[00:38:11.480 --> 00:38:14.480]   and follow him and him alone.
+[00:38:14.480 --> 00:38:17.480]   Lord, you warned us that in the end times,
+[00:38:17.480 --> 00:38:19.480]   because the increase in wickedness,
+[00:38:19.480 --> 00:38:23.480]   that love for you will grow cold.
+[00:38:23.480 --> 00:38:26.480]   Help us, Lord God, to not to drift,
+[00:38:26.480 --> 00:38:29.480]   not to neglect this great salvation that you've given,
+[00:38:29.480 --> 00:38:33.480]   that all that we do may be a reflection of your grace in our lives.
+[00:38:33.480 --> 00:38:36.480]   In Jesus' name we pray, amen.
+[00:38:36.480 --> 00:38:39.480]   I'm just going to give you a heads up ahead of time
+[00:38:39.480 --> 00:38:43.480]   that I'm going to be in the introduction a little bit longer than normal today,
+[00:38:43.480 --> 00:38:46.480]   because I feel like this is something that needs to be addressed
+[00:38:46.480 --> 00:38:48.480]   before we jump into the text.
+[00:38:48.480 --> 00:38:51.480]   So this is going to be more like a setup.
+[00:38:51.480 --> 00:38:56.480]   In the past, maybe about six to ten years,
+[00:38:56.480 --> 00:38:59.480]   I don't know exactly when it became prominent,
+[00:38:59.480 --> 00:39:05.480]   but the term "social justice" has spread like wildfire.
+[00:39:05.480 --> 00:39:08.480]   Especially in the last maybe year and a half to two years
+[00:39:08.480 --> 00:39:11.480]   with all the political and social unrest,
+[00:39:11.480 --> 00:39:14.480]   that churches have become divided.
+[00:39:14.480 --> 00:39:17.480]   Are you for this or against this?
+[00:39:17.480 --> 00:39:21.480]   How can you ignore the suffering around us?
+[00:39:21.480 --> 00:39:23.480]   And then you have the other churches who say,
+[00:39:23.480 --> 00:39:25.480]   "No, we're about the gospel."
+[00:39:25.480 --> 00:39:29.480]   And so this has become a hot topic in our generation.
+[00:39:29.480 --> 00:39:32.480]   And I want to point out something before we jump into
+[00:39:32.480 --> 00:39:35.480]   the clear teaching of this text,
+[00:39:35.480 --> 00:39:39.480]   that we need to understand what the Bible says about this particular subject,
+[00:39:39.480 --> 00:39:42.480]   because it is such a hot topic.
+[00:39:42.480 --> 00:39:46.480]   Tim Keller, in his book called "Generous Justice"--
+[00:39:46.480 --> 00:39:48.480]   some of you guys may have read it--
+[00:39:48.480 --> 00:39:51.480]   it has a huge impact.
+[00:39:51.480 --> 00:39:54.480]   It's made a huge impact, especially in the younger generation,
+[00:39:54.480 --> 00:39:58.480]   for the social justice movement in our generation.
+[00:39:58.480 --> 00:40:01.480]   I don't want to talk about what's happening outside the church,
+[00:40:01.480 --> 00:40:03.480]   because movements come and go.
+[00:40:03.480 --> 00:40:07.480]   What's popular in one generation is not popular in the next generation.
+[00:40:07.480 --> 00:40:10.480]   I'm concerned about what's happening inside the church,
+[00:40:10.480 --> 00:40:14.480]   how what is happening outside is penetrating inside the church.
+[00:40:14.480 --> 00:40:17.480]   I want to read you a quote from that book,
+[00:40:17.480 --> 00:40:21.480]   because I've had so many conversations with people about this book
+[00:40:21.480 --> 00:40:23.480]   and certain things that he said in here,
+[00:40:23.480 --> 00:40:26.480]   that I want to make sure that we're on the same page.
+[00:40:26.480 --> 00:40:30.480]   He says in this book, "If you do not actively and generously
+[00:40:30.480 --> 00:40:33.480]   share your resources with the poor,
+[00:40:33.480 --> 00:40:38.480]   you are a robber, you are unjust."
+[00:40:38.480 --> 00:40:41.480]   Now, I'm not taking a phrase out of context,
+[00:40:41.480 --> 00:40:45.480]   because the whole book is about expounding on this thing that he has said.
+[00:40:45.480 --> 00:40:49.480]   That it is not simply a call, but a mandate,
+[00:40:49.480 --> 00:40:52.480]   and if a Christian does not share his wealth,
+[00:40:52.480 --> 00:40:56.480]   you are basically in sin, you are robbing.
+[00:40:56.480 --> 00:41:00.480]   Now, and we're Bereans for a reason.
+[00:41:00.480 --> 00:41:03.480]   We're Bereans because our challenge and encouragement is,
+[00:41:03.480 --> 00:41:06.480]   test everything, even test what I'm saying today.
+[00:41:06.480 --> 00:41:09.480]   Test it with scripture, because especially right now,
+[00:41:09.480 --> 00:41:14.480]   there's so many things that are being said in the general atmosphere
+[00:41:14.480 --> 00:41:18.480]   that has some truth to it,
+[00:41:18.480 --> 00:41:23.480]   and because it's being said in certain contexts,
+[00:41:23.480 --> 00:41:25.480]   and through certain people that are respected,
+[00:41:25.480 --> 00:41:28.480]   that we just assume, well, he said it, it must be true,
+[00:41:28.480 --> 00:41:31.480]   and there's certain things about that that is true, so it must be true.
+[00:41:31.480 --> 00:41:36.480]   Now, does God call us to live justly?
+[00:41:36.480 --> 00:41:38.480]   Absolutely.
+[00:41:38.480 --> 00:41:40.480]   If you've been with us studying the book of Titus,
+[00:41:40.480 --> 00:41:45.480]   it says one of the qualifications of an elder is that he cannot seek sordid gain,
+[00:41:45.480 --> 00:41:50.480]   meaning unjust gain, that he does not cheat people out and cut corners,
+[00:41:50.480 --> 00:41:53.480]   and does not have integrity in the way he makes money.
+[00:41:53.480 --> 00:41:56.480]   Jeremiah 22, 13, God says,
+[00:41:56.480 --> 00:41:59.480]   "Woe to him who builds his house without righteousness,
+[00:41:59.480 --> 00:42:01.480]   and his upper rooms without justice,
+[00:42:01.480 --> 00:42:04.480]   who uses his neighbor's services without pay,
+[00:42:04.480 --> 00:42:07.480]   and does not give him his wages."
+[00:42:07.480 --> 00:42:10.480]   So clearly, the Bible calls us to justice,
+[00:42:10.480 --> 00:42:15.480]   but justice he's referring to are people who are taking advantage of the poor,
+[00:42:15.480 --> 00:42:19.480]   who are causing them to work and not giving them their fair pay.
+[00:42:19.480 --> 00:42:21.480]   Leviticus 19, verse 13 says,
+[00:42:21.480 --> 00:42:24.480]   "You shall not oppress your neighbor, nor rob him.
+[00:42:24.480 --> 00:42:29.480]   The wages of a hired man are not to remain with you all night until morning."
+[00:42:29.480 --> 00:42:36.480]   These are texts that are quoted in this book as an argument for his point,
+[00:42:36.480 --> 00:42:39.480]   that if you do not give to the poor, you are robbing, you are in sin.
+[00:42:39.480 --> 00:42:44.480]   And so that the term social justice is being thrown around in our generation,
+[00:42:44.480 --> 00:42:48.480]   which I believe needs to be corrected,
+[00:42:48.480 --> 00:42:52.480]   because it is not justice that the Bible calls us to
+[00:42:52.480 --> 00:42:55.480]   when it comes to helping the poor,
+[00:42:55.480 --> 00:42:57.480]   unless you actually robbed somebody,
+[00:42:57.480 --> 00:43:00.480]   unless they worked for you and you didn't give them their fair pay,
+[00:43:00.480 --> 00:43:02.480]   then you need to practice justice.
+[00:43:02.480 --> 00:43:07.480]   But what the Bible calls us for is charity.
+[00:43:07.480 --> 00:43:09.480]   Charity.
+[00:43:09.480 --> 00:43:13.480]   Now if you remember, justice is getting what you deserve.
+[00:43:13.480 --> 00:43:15.480]   You earned it, and so you did.
+[00:43:15.480 --> 00:43:18.480]   Whether that is penalty of your sin, that's justice,
+[00:43:18.480 --> 00:43:22.480]   or whether you worked and a certain amount was promised to you,
+[00:43:22.480 --> 00:43:23.480]   that would be justice.
+[00:43:23.480 --> 00:43:24.480]   You're getting what you deserve.
+[00:43:24.480 --> 00:43:27.480]   You worked for it, it belongs to you.
+[00:43:27.480 --> 00:43:29.480]   Mercy is withholding.
+[00:43:29.480 --> 00:43:33.480]   Maybe you deserve to be punished, and God withholds the punishment,
+[00:43:33.480 --> 00:43:35.480]   and so you are receiving mercy.
+[00:43:35.480 --> 00:43:41.480]   Charity, or the word grace, is receiving something that you do not deserve.
+[00:43:41.480 --> 00:43:44.480]   That they are not required to give it to you, but they give it to you.
+[00:43:44.480 --> 00:43:47.480]   And that's the love that you and I have experienced in Christ.
+[00:43:47.480 --> 00:43:52.480]   And so the Bible calls us, the way that we discuss this topic,
+[00:43:52.480 --> 00:43:57.480]   when we use the term justice, there's a confusion in the church
+[00:43:57.480 --> 00:44:02.480]   that if we don't do this, we are in sin.
+[00:44:02.480 --> 00:44:06.480]   Now let me tell you, the first problem that the church experiences
+[00:44:06.480 --> 00:44:10.480]   in the book of Acts is recorded in Acts 5,
+[00:44:10.480 --> 00:44:14.480]   where if you remember, Ananias and Sapphira is inspired,
+[00:44:14.480 --> 00:44:17.480]   for whatever the reason, other people, other rich people,
+[00:44:17.480 --> 00:44:20.480]   who are selling their land, they're giving it to the poor,
+[00:44:20.480 --> 00:44:21.480]   and it's being distributed.
+[00:44:21.480 --> 00:44:26.480]   And so they were being very gracious and generous with the wealth that they had,
+[00:44:26.480 --> 00:44:28.480]   voluntarily.
+[00:44:28.480 --> 00:44:32.480]   Ananias and Sapphira decides that they're going to do the same thing,
+[00:44:32.480 --> 00:44:37.480]   but the problem with them was, instead of selling and then donating it all
+[00:44:37.480 --> 00:44:40.480]   to the church to be distributed, that they kept some of it,
+[00:44:40.480 --> 00:44:45.480]   and they lied to the church, pretending that all this was given to them.
+[00:44:45.480 --> 00:44:48.480]   And as a result of this lie, they are punished.
+[00:44:48.480 --> 00:44:50.480]   So look what it says in Acts 5, 3 to 4.
+[00:44:50.480 --> 00:44:55.480]   "But Peter said, 'Ananias, why has Satan filled your heart to lie to the Holy Spirit
+[00:44:55.480 --> 00:44:58.480]   and to keep back some of the price of the land?
+[00:44:58.480 --> 00:45:02.480]   While it remained unsold, did it not remain your own?
+[00:45:02.480 --> 00:45:06.480]   And after it was sold, was it not under your control?
+[00:45:06.480 --> 00:45:09.480]   Why is it that you have conceived this deed in your heart?
+[00:45:09.480 --> 00:45:12.480]   You have not lied to men but to God.'"
+[00:45:12.480 --> 00:45:16.480]   So this punishment wasn't because that they withheld some.
+[00:45:16.480 --> 00:45:19.480]   The punishment was they lied.
+[00:45:19.480 --> 00:45:22.480]   And the way that he describes it was, when before you sold it,
+[00:45:22.480 --> 00:45:25.480]   the land was yours, meaning it was not required of you.
+[00:45:25.480 --> 00:45:28.480]   When you sold it, nobody commanded you to do it.
+[00:45:28.480 --> 00:45:31.480]   You could have just held on to it, and you wouldn't have been guilty
+[00:45:31.480 --> 00:45:34.480]   because it was not commanded of you.
+[00:45:34.480 --> 00:45:43.480]   So the sin was that he pretended to be generous while lying, holding some back.
+[00:45:43.480 --> 00:45:50.480]   The term "justice" and then using that term to say that this is the mission of the church,
+[00:45:50.480 --> 00:45:53.480]   this has to be one of the missions of the church, is a mistake.
+[00:45:53.480 --> 00:45:58.480]   It sounds godly, but it is a mistake.
+[00:45:58.480 --> 00:46:05.480]   If you study history, you'll know that there has been back and forth
+[00:46:05.480 --> 00:46:10.480]   of the rich people and the poor people, and the poor people rising up
+[00:46:10.480 --> 00:46:14.480]   and overthrowing the rich, and then after a while, the poor people will get rich,
+[00:46:14.480 --> 00:46:17.480]   and then the poor people will come up and rise against them.
+[00:46:17.480 --> 00:46:20.480]   And this social justice movement that we have seen in our generation
+[00:46:20.480 --> 00:46:26.480]   reminds me a lot of what I studied and saw for myself what was happening in China
+[00:46:26.480 --> 00:46:29.480]   during the Cultural Revolution.
+[00:46:29.480 --> 00:46:34.480]   In 1966, after the Communist Party took over,
+[00:46:34.480 --> 00:46:38.480]   they had this thing called the Cultural Revolution under the leadership of Mao Zedong,
+[00:46:38.480 --> 00:46:41.480]   and it was a movement of the poor.
+[00:46:41.480 --> 00:46:47.480]   And so poor farmers got together, and they felt that it was not fair.
+[00:46:47.480 --> 00:46:52.480]   It was unjust to have a certain portion of the population to be filthy rich,
+[00:46:52.480 --> 00:46:57.480]   and then the farmers have such a struggle in paying their bills
+[00:46:57.480 --> 00:46:59.480]   because they were having such a hard time.
+[00:46:59.480 --> 00:47:04.480]   So this Cultural Revolution basically ignited poor young people,
+[00:47:04.480 --> 00:47:10.480]   and they wanted basically to overthrow those who were in power.
+[00:47:10.480 --> 00:47:16.480]   During this period, they went after anybody that represented the previous generation,
+[00:47:16.480 --> 00:47:19.480]   anybody who had wealth, anybody who was religious.
+[00:47:19.480 --> 00:47:22.480]   And so the Communist Party ignited these young people,
+[00:47:22.480 --> 00:47:26.480]   and during this period between 1966 and 1976,
+[00:47:26.480 --> 00:47:31.480]   they said anywhere from several million to up to 40 million people got executed.
+[00:47:31.480 --> 00:47:35.480]   We don't know the exact number because the Communist Party has never reported that,
+[00:47:35.480 --> 00:47:37.480]   and we know that it is always underreported
+[00:47:37.480 --> 00:47:40.480]   because this is not something that they want people to know.
+[00:47:40.480 --> 00:47:45.480]   But the information that leaked out from China, people who were there,
+[00:47:45.480 --> 00:47:51.480]   they said it was probably closer to anywhere from 20 to 40 million people got executed.
+[00:47:51.480 --> 00:47:57.480]   When I was there in 1993, I went to visit major sites
+[00:47:57.480 --> 00:48:01.480]   because part of our trip was a mission trip to kind of have a vision trip toward China
+[00:48:01.480 --> 00:48:06.480]   because at that time Christianity, at least the outsiders, were just starting to come in.
+[00:48:06.480 --> 00:48:10.480]   And so I would visit the Forbidden City.
+[00:48:10.480 --> 00:48:14.480]   So those of you who visited Beijing, you know the Forbidden City is one of the main attractions there.
+[00:48:14.480 --> 00:48:18.480]   And half of the Forbidden City was not open because during the Cultural Revolution,
+[00:48:18.480 --> 00:48:20.480]   it was burned to the ground.
+[00:48:20.480 --> 00:48:24.480]   We would go to the Summer Palace, and the majority of the Summer Palace was not open
+[00:48:24.480 --> 00:48:27.480]   because that was also burned to the ground.
+[00:48:27.480 --> 00:48:30.480]   We would go to the countryside, and any monument that represented
+[00:48:30.480 --> 00:48:33.480]   the previous generation's power was burned to the ground.
+[00:48:33.480 --> 00:48:37.480]   And so it took years for them to rebuild that.
+[00:48:37.480 --> 00:48:41.480]   Since then, they've spent billions of dollars rebuilding the Forbidden City,
+[00:48:41.480 --> 00:48:44.480]   rebuilding the Summer Palace, and all of this.
+[00:48:44.480 --> 00:48:48.480]   But what's ironic about all of this are the people who are rebuilding this
+[00:48:48.480 --> 00:48:51.480]   are the same people who tore it down.
+[00:48:51.480 --> 00:48:56.480]   The young people who went and executed and forced themselves into power
+[00:48:56.480 --> 00:48:59.480]   because they wanted to make it equal, they're the ones who are in power now,
+[00:48:59.480 --> 00:49:04.480]   and they're using billions of dollars to rebuild the very things that they tore down.
+[00:49:04.480 --> 00:49:10.480]   Now I say this because the idea and the practice of justice
+[00:49:10.480 --> 00:49:15.480]   in the eyes of the world always leads to disenfranchisement
+[00:49:15.480 --> 00:49:18.480]   in the next generation and the next generation.
+[00:49:18.480 --> 00:49:23.480]   Does that mean that God doesn't want us to be charitable,
+[00:49:23.480 --> 00:49:26.480]   not to care about the poor, that you can just--
+[00:49:26.480 --> 00:49:31.480]   if you're rich and you have all this money, that you have the freedom to do whatever you want?
+[00:49:31.480 --> 00:49:33.480]   Clearly, the Bible is not teaching that.
+[00:49:33.480 --> 00:49:39.480]   I say all of this not because I'm trying to convince you that you can chase money
+[00:49:39.480 --> 00:49:42.480]   and it doesn't matter. Clearly, the Bible does not teach that.
+[00:49:42.480 --> 00:49:46.480]   But what is happening right now in our generation, in our culture,
+[00:49:46.480 --> 00:49:49.480]   is not a biblical movement.
+[00:49:49.480 --> 00:49:52.480]   I would say it is unbiblical.
+[00:49:52.480 --> 00:49:57.480]   So even the very language that we use to say it is social justice is unbiblical.
+[00:49:57.480 --> 00:50:01.480]   We would say it is social charity that God calls us to.
+[00:50:01.480 --> 00:50:05.480]   Charity. To be generous.
+[00:50:05.480 --> 00:50:08.480]   When I was younger, and I shared this with you before,
+[00:50:08.480 --> 00:50:10.480]   when I first came into ministry,
+[00:50:10.480 --> 00:50:16.480]   Esther and I, we thought we were going to commit to homeless ministry.
+[00:50:16.480 --> 00:50:20.480]   In fact, to this day, my Costco card says "Axe Homeless Ministry"
+[00:50:20.480 --> 00:50:25.480]   because I got the Costco card because it was a cheaper way to buy hot dogs.
+[00:50:25.480 --> 00:50:28.480]   And I would buy me Farmer John hot dogs.
+[00:50:28.480 --> 00:50:32.480]   I don't know how much it is now, but it was for $6 I can get 50 hot dogs.
+[00:50:32.480 --> 00:50:34.480]   They were not the best quality.
+[00:50:34.480 --> 00:50:37.480]   But I bought two packs of those and we were able to feed about 100 homeless every week,
+[00:50:37.480 --> 00:50:42.480]   and then got some hot chocolate, and then some people would donate some old stale donuts,
+[00:50:42.480 --> 00:50:45.480]   and that's what we took out in the street every Tuesday.
+[00:50:45.480 --> 00:50:51.480]   But during that period, I was very upset with the church.
+[00:50:51.480 --> 00:50:56.480]   In fact, I was up in Canada, and we were attending this service,
+[00:50:56.480 --> 00:50:59.480]   and there was a homeless man outside begging for money,
+[00:50:59.480 --> 00:51:02.480]   and I saw all these people, hundreds of people just walked by.
+[00:51:02.480 --> 00:51:08.480]   And I would be angered because I was so wanting to see this ministry take off,
+[00:51:08.480 --> 00:51:11.480]   and I really felt like that's what God wanted me to do.
+[00:51:11.480 --> 00:51:18.480]   And so there was a slogan that I picked up, and I would preach this everywhere I go.
+[00:51:18.480 --> 00:51:22.480]   And the slogan was, "A condemnation to the church,
+[00:51:22.480 --> 00:51:29.480]   how can you worship a homeless man on Sunday and ignore a homeless man on Monday?"
+[00:51:29.480 --> 00:51:31.480]   I mean, that's a great slogan to have.
+[00:51:31.480 --> 00:51:35.480]   If I could make t-shirts, I would have made hundreds of t-shirts and passed it out.
+[00:51:35.480 --> 00:51:44.480]   "How can you worship a homeless man on Sunday and ignore that homeless man on Monday?"
+[00:51:44.480 --> 00:51:49.480]   And my preaching was as angry as you can get because I felt like,
+[00:51:49.480 --> 00:51:55.480]   "How can you take the gospel seriously if you don't care about the poor?
+[00:51:55.480 --> 00:52:00.480]   How can we possibly go out there and represent Christ if you don't actively give attention to this?"
+[00:52:00.480 --> 00:52:04.480]   So that was my passion. I was a youth pastor and then a college pastor,
+[00:52:04.480 --> 00:52:09.480]   but my real passion was to try to help the homeless and try to get as many people involved.
+[00:52:09.480 --> 00:52:18.480]   And that's why I started AXE Ministry, an accented for Alliance of Christians Trained for Service, homeless ministry.
+[00:52:18.480 --> 00:52:26.480]   But after years of trying to help people off the streets, I gathered enough money.
+[00:52:26.480 --> 00:52:31.480]   And I remember Jin, Jin sitting back there, we had a, we had a, I forgot what it was.
+[00:52:31.480 --> 00:52:38.480]   We had this fundraiser and we sold tapes, you know, and Jin was there when we did that.
+[00:52:38.480 --> 00:52:43.480]   And we had bands that performed and we would sell that and the proceeds that came from that,
+[00:52:43.480 --> 00:52:46.480]   we used that for homeless ministry.
+[00:52:46.480 --> 00:52:50.480]   But after years of doing that, I ran into frustration after frustration after frustration
+[00:52:50.480 --> 00:52:55.480]   because I thought, just like probably many of us here think, they're homeless.
+[00:52:55.480 --> 00:52:59.480]   So if I can get them off the street, feed them, help them get a job,
+[00:52:59.480 --> 00:53:04.480]   and then disciple them in the process, that would be great.
+[00:53:04.480 --> 00:53:13.480]   After years of offering and some even, you know, putting them into hotels, paying their bills,
+[00:53:13.480 --> 00:53:17.480]   I would run into moms who had young children living out of their car,
+[00:53:17.480 --> 00:53:21.480]   and then we would put them in a hotel, buy the food, pay for the motel,
+[00:53:21.480 --> 00:53:24.480]   and then try to meet up with them and share the gospel with them.
+[00:53:24.480 --> 00:53:29.480]   After years of doing this, and again, some of them even at our house,
+[00:53:29.480 --> 00:53:33.480]   after years of doing this, I've never seen any progress.
+[00:53:33.480 --> 00:53:40.480]   And the biggest frustration that I ran into is more than that, they didn't want to get off the street.
+[00:53:40.480 --> 00:53:48.480]   I said, I'm offering a place to stay for free, help you get a job, food, discipleship,
+[00:53:48.480 --> 00:53:50.480]   and they didn't want to get off the street.
+[00:53:50.480 --> 00:53:57.480]   And what I learned from that was homelessness was the symptom, not the problem.
+[00:53:57.480 --> 00:54:02.480]   Our natural inclination is because we have homes and we're wealthy and they don't have it,
+[00:54:02.480 --> 00:54:08.480]   so if we give it to them and then they get off the street, problem solved.
+[00:54:08.480 --> 00:54:11.480]   Most of the people that I met out on the street were out on the street
+[00:54:11.480 --> 00:54:15.480]   because they'd lost desire to run this rat race.
+[00:54:15.480 --> 00:54:21.480]   Something happened. Drugs, family tragedy, something happened,
+[00:54:21.480 --> 00:54:25.480]   and they no longer want to run this race and they'd rather be out on the street.
+[00:54:25.480 --> 00:54:29.480]   And what I realized, that this problem was not simple,
+[00:54:29.480 --> 00:54:35.480]   that this problem of homelessness was not financial, it was spiritual.
+[00:54:35.480 --> 00:54:40.480]   And so as much as I didn't want to be involved with the church,
+[00:54:40.480 --> 00:54:45.480]   as much as I was angered with the church, my paradigm started shifting
+[00:54:45.480 --> 00:54:48.480]   because I realized until the church is healthy,
+[00:54:48.480 --> 00:54:53.480]   all we're doing is plugging up holes in a dam that is going to break.
+[00:54:53.480 --> 00:54:57.480]   And we're not fixing any problem, all we're doing is solving surface problems,
+[00:54:57.480 --> 00:54:59.480]   but we're not getting to the core issue.
+[00:54:59.480 --> 00:55:03.480]   1 Corinthians 1, 21-25 says, "For since in the wisdom of God,
+[00:55:03.480 --> 00:55:06.480]   the world through its wisdom did not come to know God."
+[00:55:06.480 --> 00:55:08.480]   And that's the problem.
+[00:55:08.480 --> 00:55:13.480]   The problem with mankind is that we've been separated because of our sins.
+[00:55:13.480 --> 00:55:19.480]   And God, who is the author of life, that mankind has no access to him.
+[00:55:19.480 --> 00:55:24.480]   And he says, "Through all of man's wisdom, all the man's effort could not bring him to God."
+[00:55:24.480 --> 00:55:32.480]   And so homelessness, drug addiction, sex trafficking, family issues,
+[00:55:32.480 --> 00:55:37.480]   all of it is related to this problem because we have been separated from the God of the universe,
+[00:55:37.480 --> 00:55:39.480]   who is the author of life.
+[00:55:39.480 --> 00:55:44.480]   He says, "All through mankind, history through their wisdom could not come to know God.
+[00:55:44.480 --> 00:55:51.480]   God was well pleased through the foolishness of the message preached to save those who believe.
+[00:55:51.480 --> 00:55:55.480]   For indeed, Jews ask for signs, Greeks search for wisdom, but we preach Christ crucified.
+[00:55:55.480 --> 00:55:57.480]   To Jews, a stumbling block, and Gentiles, foolishness,
+[00:55:57.480 --> 00:56:02.480]   but to those who are called, both Jews and Greeks, Christ, the power of God,
+[00:56:02.480 --> 00:56:05.480]   and the wisdom of God, because the foolishness of God is wiser than men,
+[00:56:05.480 --> 00:56:09.480]   and the weakness of God is stronger than men."
+[00:56:09.480 --> 00:56:15.480]   And I realized that until the church is reformed, until the church is healthy,
+[00:56:15.480 --> 00:56:21.480]   that all the work that we're doing, all the mission work, and all the mercy ministry that we do,
+[00:56:21.480 --> 00:56:26.480]   eventually get poured into an unhealthy church.
+[00:56:26.480 --> 00:56:31.480]   And we just recycle the problem that came down from us from generation to generation.
+[00:56:31.480 --> 00:56:35.480]   That's what caused me to commit to the church.
+[00:56:35.480 --> 00:56:41.480]   Because what I wanted to see, not because I've given up on the mercy ministry,
+[00:56:41.480 --> 00:56:45.480]   but until the church is reformed, until the church is healthy,
+[00:56:45.480 --> 00:56:52.480]   like I said, I realized all we're doing is plugging up a hole in a dam that eventually is going to break.
+[00:56:52.480 --> 00:56:57.480]   Does this mean mercy ministry is not important? Absolutely not.
+[00:56:57.480 --> 00:57:03.480]   Everything that I felt at that time was because I was seeing it in Scripture.
+[00:57:03.480 --> 00:57:07.480]   Because I was reading it. It wasn't because I had some sort of special affection for homelessness.
+[00:57:07.480 --> 00:57:11.480]   It wasn't because, "Oh, I was homeless, so now I know how they feel."
+[00:57:11.480 --> 00:57:15.480]   No, I was reading Scripture. I was doing quiet time. I was doing inductive Bible study,
+[00:57:15.480 --> 00:57:22.480]   and I would go passage after passage after passage, the Bible calling us to care for those who are suffering,
+[00:57:22.480 --> 00:57:24.480]   just like the text that we're looking at.
+[00:57:24.480 --> 00:57:34.480]   I want to show you from this text two things that we need to know in order to practice what the Bible says,
+[00:57:34.480 --> 00:57:37.480]   social charity, not necessarily social justice.
+[00:57:37.480 --> 00:57:43.480]   Number one, we practice charity to reflect who God is.
+[00:57:43.480 --> 00:57:50.480]   Remember we talked about Jesus said to his disciples, "They will know you," by what?
+[00:57:50.480 --> 00:57:54.480]   By the love that you practice with them, "as I have loved you."
+[00:57:54.480 --> 00:57:57.480]   And it wasn't just any kind of love. Remember we talked about that last week,
+[00:57:57.480 --> 00:58:02.480]   that this commandment to love your neighbor was not a new commandment in the Old Testament.
+[00:58:02.480 --> 00:58:06.480]   It was not a new commandment that all of a sudden, they've never heard this before.
+[00:58:06.480 --> 00:58:12.480]   No, it's repeated all throughout the Old Testament. The new commandment was, he said, "as I have loved you."
+[00:58:12.480 --> 00:58:16.480]   To love people who are not lovable.
+[00:58:16.480 --> 00:58:23.480]   Love people who may not be able to pay you back. Love people beyond your comfort zone.
+[00:58:23.480 --> 00:58:26.480]   We love because he first loved us.
+[00:58:26.480 --> 00:58:29.480]   Love of Christ is what ought to compel us.
+[00:58:29.480 --> 00:58:35.480]   And so the kind of love that he calls us to is what reflects who he is.
+[00:58:35.480 --> 00:58:41.480]   You and I were created to be what? To be reflectors of his image.
+[00:58:41.480 --> 00:58:45.480]   Right? "Imagio Dei." That's what the theologians call it.
+[00:58:45.480 --> 00:58:47.480]   We are to be image bearers of God.
+[00:58:47.480 --> 00:58:54.480]   And Jesus says, "That image that I want you to bear is the kind of love that I practice with you."
+[00:58:54.480 --> 00:58:59.480]   In Luke chapter 14, 12-14, he says, "And he also went on to say to the one who had invited him,
+[00:58:59.480 --> 00:59:05.480]   'When you give a luncheon or a dinner, do not invite your friends or your brothers or your relatives or rich neighbors.
+[00:59:05.480 --> 00:59:12.480]   Otherwise, they may also invite you in in return, and that will be your repayment.
+[00:59:12.480 --> 00:59:17.480]   But when you give a reception, invite the poor, the crippled, the lame, the blind, and you will be blessed,
+[00:59:17.480 --> 00:59:23.480]   since they do not have the means to repay you, for you will be repaid at the resurrection of the righteous.'"
+[00:59:23.480 --> 00:59:29.480]   The word that he uses here last week was "philadelphia," love of brethren.
+[00:59:29.480 --> 00:59:37.480]   Here it's "philazenia," and the word "zenia" basically means strangers, people who are outside of our comfort zone.
+[00:59:37.480 --> 00:59:44.480]   So the scripture tells us that we practice charity because it reflects his charity for us.
+[00:59:44.480 --> 00:59:50.480]   And it is clear that in the Old Covenant and the New Covenant, it's the same God.
+[00:59:50.480 --> 00:59:57.480]   In Deuteronomy chapter 10, verse 19, it says, "So show your love for the alien, for you are aliens in the land of Egypt.
+[00:59:57.480 --> 01:00:01.480]   Because God was merciful to you, be merciful to the aliens."
+[01:00:01.480 --> 01:00:03.480]   Leviticus 23, 22.
+[01:00:03.480 --> 01:00:08.480]   "When you reap the harvest of your land, moreover, you shall not reap to the very corners of your field,
+[01:00:08.480 --> 01:00:13.480]   nor gather the gleaning of your harvest. You are to leave them for the needy and the alien.
+[01:00:13.480 --> 01:00:16.480]   I am the Lord your God."
+[01:00:16.480 --> 01:00:24.480]   I don't know about you, but I remember the first time reading that, and I was thinking, "Why does he care?"
+[01:00:24.480 --> 01:00:33.480]   I mean, imagine, in his mind, at some point, he's going to have to sacrifice his son to save the lost.
+[01:00:33.480 --> 01:00:41.480]   But in the process of this redemptive history, he gives attention to nobodies, just aliens, strangers.
+[01:00:41.480 --> 01:00:44.480]   They're not anybody significant.
+[01:00:44.480 --> 01:00:51.480]   He said, "When you harvest your field, leave a portion of them so that the poor and the needy and the orphans can have some of that."
+[01:00:51.480 --> 01:00:57.480]   Now, you and I don't farm, so it's kind of the imagery doesn't really hit us like it should.
+[01:00:57.480 --> 01:01:04.480]   I think what's equivalent to now is, if you're getting a paycheck, you give a portion to the government, you pay your tithe,
+[01:01:04.480 --> 01:01:11.480]   and then God says, "Another portion of your paycheck, put it in a bag and leave it outside."
+[01:01:11.480 --> 01:01:15.480]   That makes it more real, right? Because we don't farm.
+[01:01:15.480 --> 01:01:19.480]   So you say, "Oh, what's the big deal? We'll gather this, and this part, we'll give it to them."
+[01:01:19.480 --> 01:01:24.480]   Well, that was their wealth. That's what they harvested to feed their children.
+[01:01:24.480 --> 01:01:27.480]   That's what they used to gather wealth.
+[01:01:27.480 --> 01:01:32.480]   So when he says to leave a portion of that, basically he's saying, "Take a portion of your paycheck and leave it outside."
+[01:01:32.480 --> 01:01:37.480]   For who? Just anybody who's in need.
+[01:01:37.480 --> 01:01:40.480]   This is our God.
+[01:01:40.480 --> 01:01:43.480]   This is not new in the New Testament.
+[01:01:43.480 --> 01:01:46.480]   God had always concern for those who are in need.
+[01:01:46.480 --> 01:01:50.480]   God says God is near to those who are, what, brokenhearted.
+[01:01:50.480 --> 01:01:53.480]   In Psalm 146.9, it says, "The Lord protects the strangers.
+[01:01:53.480 --> 01:01:59.480]   He supports the fatherless and the widow, but he thwarts the way of the wicked."
+[01:01:59.480 --> 01:02:05.480]   When the Bible says that he counts the very hair on our head, he's not just saying that.
+[01:02:05.480 --> 01:02:09.480]   You see it throughout redemptive history, all through it.
+[01:02:09.480 --> 01:02:14.480]   And so he calls us that because you and I were strangers at one point,
+[01:02:14.480 --> 01:02:17.480]   you and I were recipients of this love that you and I didn't deserve.
+[01:02:17.480 --> 01:02:22.480]   He says, he calls us as Christians that we ought to reflect this love.
+[01:02:22.480 --> 01:02:25.480]   Not just the love of your neighbor, not just the love of your children,
+[01:02:25.480 --> 01:02:32.480]   but strangers that you went out to be hospitable deliberately.
+[01:02:32.480 --> 01:02:38.480]   In 1 John 3, 17-18, "But whoever has the world's goods and sees his brother in need
+[01:02:38.480 --> 01:02:43.480]   and closes his heart against him, how does the love of God abide in him?"
+[01:02:43.480 --> 01:02:47.480]   How can you proclaim the love of God and how gracious he's been
+[01:02:47.480 --> 01:02:50.480]   and yet not reflect that in your life?
+[01:02:50.480 --> 01:02:54.480]   How can you say that you won the lottery and be so stingy with your money?
+[01:02:54.480 --> 01:02:56.480]   That's basically what he's saying.
+[01:02:56.480 --> 01:03:02.480]   James 1, verse 27, "Pure and undefiled religion in the sight of our God and Father is this,
+[01:03:02.480 --> 01:03:10.480]   to visit orphans and widows in their distress and to keep oneself unstained by the world."
+[01:03:10.480 --> 01:03:17.480]   That word, philisania, is to invite people into your homes.
+[01:03:17.480 --> 01:03:25.480]   That's literally to love people who cannot help you, love people who can't pay you back.
+[01:03:25.480 --> 01:03:30.480]   You know, one thing that I learned is as I was doing homeless ministry,
+[01:03:30.480 --> 01:03:32.480]   that you are praised.
+[01:03:32.480 --> 01:03:34.480]   If you do mercy ministry, you're praised.
+[01:03:34.480 --> 01:03:39.480]   I've never heard anybody say, "What is wrong with you trying to help the poor?"
+[01:03:39.480 --> 01:03:41.480]   Never.
+[01:03:41.480 --> 01:03:46.480]   And it was never really that hard to raise money, to collect, "Hey, we're going to go feed the homeless.
+[01:03:46.480 --> 01:03:47.480]   We're trying to get them off the street."
+[01:03:47.480 --> 01:03:51.480]   And people are generous, especially if you're doing orphan care.
+[01:03:51.480 --> 01:03:53.480]   People throw money at you.
+[01:03:53.480 --> 01:03:58.480]   "Hey, I want to help. I've been praying about helping the orphans, so can I give you some money?"
+[01:03:58.480 --> 01:04:04.480]   What I realized was as long as I went out on the street to help them,
+[01:04:04.480 --> 01:04:07.480]   I got praise and I got support.
+[01:04:07.480 --> 01:04:11.480]   But when I started getting pushback was when I started bringing them to the church.
+[01:04:11.480 --> 01:04:13.480]   Because it made people feel uncomfortable.
+[01:04:13.480 --> 01:04:15.480]   Initially it was, "Oh, it was great."
+[01:04:15.480 --> 01:04:21.480]   I remember the first guy that I brought to church, you know, and he was hooked on crack.
+[01:04:21.480 --> 01:04:25.480]   And so he would lose his shoes out on the street.
+[01:04:25.480 --> 01:04:31.480]   So our church guys decided to celebrate his birthday, and they bought him $120 Michael Jordan.
+[01:04:31.480 --> 01:04:36.480]   $120 now may not sound like a lot of money, but back then it was like buying this guy who's hooked on crack,
+[01:04:36.480 --> 01:04:39.480]   buying like $250, $300 pair of shoes.
+[01:04:39.480 --> 01:04:41.480]   So it was exciting.
+[01:04:41.480 --> 01:04:43.480]   He was good at basketball, so he fit right in.
+[01:04:43.480 --> 01:04:50.480]   And so we were doing that, but after a while people started feeling uncomfortable because he doesn't have money.
+[01:04:50.480 --> 01:04:54.480]   Every time we went out to eat, somebody had to spot him.
+[01:04:54.480 --> 01:04:58.480]   I mean, it's one thing to have him and do mercy ministry out there,
+[01:04:58.480 --> 01:05:02.480]   but it's another thing when we brought him into the church.
+[01:05:02.480 --> 01:05:08.480]   And then when we brought him into my house, people who were like, "Oh, yeah, Peter, that's great.
+[01:05:08.480 --> 01:05:10.480]   You know, you're doing mercy ministry, homeless ministry."
+[01:05:10.480 --> 01:05:13.480]   And all of a sudden it's like, "What are you doing?
+[01:05:13.480 --> 01:05:18.480]   Is your wife okay with that?"
+[01:05:18.480 --> 01:05:25.480]   As long as we're keeping our home safe, we can be generous.
+[01:05:25.480 --> 01:05:31.480]   As long as we're comfortable, as long as we have all that we need and out of abundance, okay, they can have it.
+[01:05:31.480 --> 01:05:34.480]   And we're the same way when we go to short-term missions.
+[01:05:34.480 --> 01:05:37.480]   We go out there and we're bold for Jesus Christ.
+[01:05:37.480 --> 01:05:39.480]   Out there.
+[01:05:39.480 --> 01:05:44.480]   But we have such a hard time even mentioning Christianity to our coworkers.
+[01:05:44.480 --> 01:05:49.480]   So we have a tendency to practice love from a safe distance.
+[01:05:49.480 --> 01:06:01.480]   But this word, "As Christ in every way being God, did not consider equality with God something to be grasped,
+[01:06:01.480 --> 01:06:05.480]   but he emptied himself, became nothing, and he walked among us."
+[01:06:05.480 --> 01:06:06.480]   Imagine that.
+[01:06:06.480 --> 01:06:10.480]   Imagine how uncomfortable it is for us to come out of our comfort zone
+[01:06:10.480 --> 01:06:15.480]   and to be somewhere that is uncomfortable.
+[01:06:15.480 --> 01:06:18.480]   And so we avoid discomfort like a plague.
+[01:06:18.480 --> 01:06:23.480]   Where we buy our house, where we work, where do we go, where we go on vacation.
+[01:06:23.480 --> 01:06:27.480]   Because we avoid discomfort like a plague.
+[01:06:27.480 --> 01:06:34.480]   This word, "Philisania," is a challenge to go beyond that, as Christ did for us.
+[01:06:34.480 --> 01:06:41.480]   To bring them into not just our homes, but to break beyond our comfort zone,
+[01:06:41.480 --> 01:06:46.480]   so that our love would exceed and go beyond just the superficial.
+[01:06:46.480 --> 01:06:53.480]   Now, the Bible is not, I mean, there's nothing that says, "Oh, we can't help the poor. We can't do this."
+[01:06:53.480 --> 01:06:58.480]   But again, we need to understand biblically what he's talking about.
+[01:06:58.480 --> 01:07:03.480]   Secondly, one, charity is to reflect his nature and who he is.
+[01:07:03.480 --> 01:07:05.480]   And "Philisania" reflects that.
+[01:07:05.480 --> 01:07:09.480]   But number two, and this is the part that I really want you guys to understand.
+[01:07:09.480 --> 01:07:13.480]   Because the way that social justice is being practiced today
+[01:07:13.480 --> 01:07:17.480]   completely misses the mark of what the scripture teaches about this.
+[01:07:17.480 --> 01:07:24.480]   Number two, we practice charity to advance the gospel.
+[01:07:24.480 --> 01:07:27.480]   We practice charity to advance the gospel.
+[01:07:27.480 --> 01:07:32.480]   Never in the New Testament will you find where the church is challenged
+[01:07:32.480 --> 01:07:36.480]   to go look out for homeless people out on the street.
+[01:07:36.480 --> 01:07:37.480]   Right?
+[01:07:37.480 --> 01:07:41.480]   I'm going to explain that, and some of you guys are going to say, "What?"
+[01:07:41.480 --> 01:07:45.480]   Find me one passage in the Bible, and we'll have a conversation,
+[01:07:45.480 --> 01:07:54.480]   where God calls the charity to help the poor outside of the context of the gospel being spread.
+[01:07:54.480 --> 01:07:57.480]   Charity is to be practiced in the context of sharing the gospel.
+[01:07:57.480 --> 01:08:02.480]   He said, "Do not neglect to show hospitality to strangers."
+[01:08:02.480 --> 01:08:04.480]   Now, who are these strangers he's referring to?
+[01:08:04.480 --> 01:08:08.480]   Was it just at that time just a lot of homeless people just walking around,
+[01:08:08.480 --> 01:08:11.480]   and he's saying just generically if you find homeless people,
+[01:08:11.480 --> 01:08:13.480]   that you would open up your home and bring them into your home?
+[01:08:13.480 --> 01:08:16.480]   What is he referring to?
+[01:08:16.480 --> 01:08:19.480]   If you know how things worked at that time,
+[01:08:19.480 --> 01:08:22.480]   today if we were going out of town and we're going into the city,
+[01:08:22.480 --> 01:08:27.480]   the first thing you would do is you would book your flight, book a hotel,
+[01:08:27.480 --> 01:08:30.480]   find out the nice places to visit maybe, and then you find food,
+[01:08:30.480 --> 01:08:31.480]   and then you come back home.
+[01:08:31.480 --> 01:08:32.480]   That's kind of how it works.
+[01:08:32.480 --> 01:08:36.480]   And then if you happen to have a friend there, you might go to their house just to save some money.
+[01:08:36.480 --> 01:08:40.480]   Well, at that time, it was almost impossible to travel
+[01:08:40.480 --> 01:08:44.480]   if you didn't have help from the villages that you went.
+[01:08:44.480 --> 01:08:47.480]   And so when he says to show hospitality to strangers,
+[01:08:47.480 --> 01:08:51.480]   and I'm going to prove my point through scripture,
+[01:08:51.480 --> 01:08:56.480]   that he is specifically referring to people who are coming into town in the context of sharing the gospel,
+[01:08:56.480 --> 01:08:58.480]   just like Apostle Paul,
+[01:08:58.480 --> 01:09:02.480]   just like all the apostles who went from village to village.
+[01:09:02.480 --> 01:09:08.480]   When Jesus sent out his 12 disciples on a short-term mission trip,
+[01:09:08.480 --> 01:09:10.480]   this is what he instructs them.
+[01:09:10.480 --> 01:09:13.480]   He says in Matthew 10, 40-42,
+[01:09:13.480 --> 01:09:19.480]   "He who receives you receives me, and he who receives me receives him who sent me.
+[01:09:19.480 --> 01:09:23.480]   He who receives a prophet in the name of a prophet shall receive a prophet's reward,
+[01:09:23.480 --> 01:09:29.480]   and he who receives a righteous man in the name of the righteous man shall receive a righteous man's reward.
+[01:09:29.480 --> 01:09:35.480]   And whoever in the name of the disciples gives to one of these little ones even a cup of cold water to drink,
+[01:09:35.480 --> 01:09:38.480]   truly I say to you, he shall not lose his reward."
+[01:09:38.480 --> 01:09:42.480]   He told his disciples that when you go on this mission trip, don't take food.
+[01:09:42.480 --> 01:09:47.480]   Don't take things because you're going to go in, and if they receive you, then bless this home.
+[01:09:47.480 --> 01:09:50.480]   And if they don't receive you, shake off your dust and continue to go.
+[01:09:50.480 --> 01:09:52.480]   That was the culture at that time.
+[01:09:52.480 --> 01:09:54.480]   This is not unique to the disciples.
+[01:09:54.480 --> 01:10:02.480]   This is how information and the philosophers ended up spreading the right doctrine and even the wrong doctrine.
+[01:10:02.480 --> 01:10:09.480]   So to receive a stranger means that you are receiving not only the stranger, but what he represents.
+[01:10:09.480 --> 01:10:12.480]   That's what Jesus says.
+[01:10:12.480 --> 01:10:18.480]   Now, the negative part of that in 2 John 10-11, this is what he says.
+[01:10:18.480 --> 01:10:23.480]   "If anyone comes to you and does not bring this teaching, do not receive him into your house,
+[01:10:23.480 --> 01:10:30.480]   and do not give him a greeting, for the one who gives him a greeting participates in his evil deeds."
+[01:10:30.480 --> 01:10:38.480]   So to practice hospitality, meaning you bring somebody into your home, basically means to support their work.
+[01:10:38.480 --> 01:10:40.480]   That's what that meant in that culture.
+[01:10:40.480 --> 01:10:44.480]   So this was not devoid of the spreading of the gospel.
+[01:10:44.480 --> 01:10:49.480]   In fact, he gives the same instruction in Luke 10 when he sends out the 70 disciples,
+[01:10:49.480 --> 01:10:53.480]   and he says, "When you go out, do not carry money or bags or shoes."
+[01:10:53.480 --> 01:10:58.480]   And he says, "If they receive you, bless them, and then receive their help.
+[01:10:58.480 --> 01:11:01.480]   If they don't, shake off your dust and go move on."
+[01:11:01.480 --> 01:11:02.480]   That was the culture.
+[01:11:02.480 --> 01:11:07.480]   So when he says to remember and be hospitable, he's telling within the context.
+[01:11:07.480 --> 01:11:09.480]   Now, this does not negate.
+[01:11:09.480 --> 01:11:13.480]   It's not saying that we shouldn't help the poor whether they're Christians or not.
+[01:11:13.480 --> 01:11:15.480]   It's not negating that.
+[01:11:15.480 --> 01:11:18.480]   But the priority is clear.
+[01:11:18.480 --> 01:11:26.480]   That charity is not a separate ministry from the gospel ministry, the way that it is being practiced today,
+[01:11:26.480 --> 01:11:31.480]   where you have mission department, and then we have a mercy department.
+[01:11:31.480 --> 01:11:34.480]   The church never separated these two things.
+[01:11:34.480 --> 01:11:37.480]   They went together hand in hand.
+[01:11:37.480 --> 01:11:43.480]   I remember years ago when we first started going into India, and I asked Pastor Matthew,
+[01:11:43.480 --> 01:11:47.480]   some of you guys who were with us, and I wanted to find out.
+[01:11:47.480 --> 01:11:51.480]   I wanted to hear about his testimony because I kept on hearing about his testimony through his son.
+[01:11:51.480 --> 01:11:56.480]   So I had an opportunity to talk to him, and I asked him, "What was it like early on?"
+[01:11:56.480 --> 01:12:02.480]   Because he just went from village to village with his four small children to preach the gospel without any support.
+[01:12:02.480 --> 01:12:09.480]   So he said, "Those guys who went to India with us, we're in a remote area in the city,
+[01:12:09.480 --> 01:12:16.480]   but we have to take the van somewhere anywhere between an hour to two hours just to get into the village in a van."
+[01:12:16.480 --> 01:12:20.480]   But with no support, he would walk from village to village.
+[01:12:20.480 --> 01:12:28.480]   So him and his four children, who used to be a Hindu priest, and now he's excommunicated from his family.
+[01:12:28.480 --> 01:12:32.480]   He's just doing this on his own because God laid this burden to preach the gospel.
+[01:12:32.480 --> 01:12:35.480]   He told me that he would go to the village and he would share the gospel.
+[01:12:35.480 --> 01:12:40.480]   If they received him, they would feed them and they would house them.
+[01:12:40.480 --> 01:12:46.480]   If they didn't receive him, sometimes they would be hassans, and they would throw rocks at them to chew them away.
+[01:12:46.480 --> 01:12:49.480]   I would ask him, "So what would you do when that happened?"
+[01:12:49.480 --> 01:12:55.480]   He said, "Well, we would just sleep out in the field, and we weren't able to eat.
+[01:12:55.480 --> 01:12:57.480]   My children weren't able to eat that time."
+[01:12:57.480 --> 01:13:00.480]   And it's like, "This doesn't sound real.
+[01:13:00.480 --> 01:13:03.480]   This is the kind of stuff that you read in history books."
+[01:13:03.480 --> 01:13:10.480]   So I asked his children when I had time, just to kind of--I'm being a detective.
+[01:13:10.480 --> 01:13:13.480]   I'm trying to--like, "Is this guy making this up? Is this real?"
+[01:13:13.480 --> 01:13:21.480]   So I would ask these--and they would tell me, they said, "How much they hated going to these villages with his dad
+[01:13:21.480 --> 01:13:27.480]   because they remember so vividly when they were children sleeping out in the field and going hungry.
+[01:13:27.480 --> 01:13:36.480]   And so when they grew up, they determined not to follow Christ, and all three of them became pastors."
+[01:13:36.480 --> 01:13:41.480]   You guys know Pastor David, he was in pharmacy school.
+[01:13:41.480 --> 01:13:43.480]   In the middle of that, he dropped out and became a pastor.
+[01:13:43.480 --> 01:13:47.480]   And then the youngest daughter ended up marrying a pastor.
+[01:13:47.480 --> 01:13:51.480]   But they were telling me how much they hated going to village to village with their dad.
+[01:13:51.480 --> 01:13:57.480]   And so I went and talked to Pastor Matthew, and I asked him, "Man, that must have been hard."
+[01:13:57.480 --> 01:14:02.480]   And he said, "Yeah, I actually considered taking my life."
+[01:14:02.480 --> 01:14:06.480]   And I said, "That's a weird thing to say as a pastor."
+[01:14:06.480 --> 01:14:07.480]   But he was just being honest with me.
+[01:14:07.480 --> 01:14:14.480]   He said, "At that time, I considered taking my life because this burden to preach the gospel was so heavy on him
+[01:14:14.480 --> 01:14:17.480]   that he saw what it was doing to his family.
+[01:14:17.480 --> 01:14:21.480]   He saw his children not being able to eat, sleeping out in the fields.
+[01:14:21.480 --> 01:14:31.480]   And so he thought that if he disappeared, that this burden would be lifted from his family."
+[01:14:31.480 --> 01:14:35.480]   And I was like, "Wow, I'm skeptical."
+[01:14:35.480 --> 01:14:38.480]   So the first thing is like, "Is this real?"
+[01:14:38.480 --> 01:14:44.480]   We were very slow to get involved with India because of my skepticism.
+[01:14:44.480 --> 01:14:50.480]   Through the years of interacting with these pastors, that's exactly how the gospel spread over there.
+[01:14:50.480 --> 01:14:54.480]   They went from village to village, walking without support.
+[01:14:54.480 --> 01:14:55.480]   Gospel spread.
+[01:14:55.480 --> 01:15:01.480]   In fact, majority of human history, majority of the church history, the gospel spread in that way.
+[01:15:01.480 --> 01:15:07.480]   What you and I have now, just getting on an air-conditioned airplane, sometimes business class,
+[01:15:07.480 --> 01:15:10.480]   to get over there, sleep in a nice hotel while we're texting with our friends,
+[01:15:10.480 --> 01:15:14.480]   and taking selfies and putting it up for people to see way over here.
+[01:15:14.480 --> 01:15:21.480]   I mean, that's fantastic that we have the avenue to do that, but that's not how the gospel spread.
+[01:15:21.480 --> 01:15:26.480]   For majority of human history, people picked up their cross, literally gave their life.
+[01:15:26.480 --> 01:15:32.480]   Some of you guys are old enough to remember when we said bye to missionaries when we were children,
+[01:15:32.480 --> 01:15:34.480]   we said bye.
+[01:15:34.480 --> 01:15:36.480]   It was for good.
+[01:15:36.480 --> 01:15:40.480]   Many of them couldn't afford airplane tickets, so they got on boats.
+[01:15:40.480 --> 01:15:43.480]   Some of you guys are old enough to remember that.
+[01:15:43.480 --> 01:15:47.480]   And when they said bye, we all said bye, thinking we're not going to see them again.
+[01:15:47.480 --> 01:15:50.480]   That's how the gospel spread.
+[01:15:50.480 --> 01:15:56.480]   He's talking within that context, to be hospitable when they come into town.
+[01:15:56.480 --> 01:16:02.480]   And it is in that context he says, he says to them,
+[01:16:02.480 --> 01:16:06.480]   he says, "Remember the prisoners as though in prison with them, and those who are ill-treated,
+[01:16:06.480 --> 01:16:12.480]   since you yourself also are," what? "in the body."
+[01:16:12.480 --> 01:16:16.480]   Who are in prison? Is he just talking about anybody who committed crime who happens to be in prison? No.
+[01:16:16.480 --> 01:16:19.480]   He's referring to Christians who are being dragged in.
+[01:16:19.480 --> 01:16:23.480]   The reason why they were drifting is because it became hard to be a Christian.
+[01:16:23.480 --> 01:16:27.480]   And he's reminding them, remember, in Hebrews chapter 10, 32-35,
+[01:16:27.480 --> 01:16:32.480]   "But remember the former days when after being enlightened, you endured great conflict and suffering,
+[01:16:32.480 --> 01:16:35.480]   partly by being made a public spectacle through reproaches and tribulations,
+[01:16:35.480 --> 01:16:40.480]   and partly by becoming sharers with those who were also mistreated.
+[01:16:40.480 --> 01:16:44.480]   For you showed sympathy to the prisoners, accepted joyfully seizure of your property,
+[01:16:44.480 --> 01:16:47.480]   knowing that you have for yourselves a better possession and a last one.
+[01:16:47.480 --> 01:16:51.480]   Therefore, do not throw away your confidence, which has a great reward."
+[01:16:51.480 --> 01:16:54.480]   So he's not randomly saying, "Go visit prisoners."
+[01:16:54.480 --> 01:16:57.480]   He's talking about Christians who have been caught,
+[01:16:57.480 --> 01:17:03.480]   and they are suffering for the purpose of their faith in the context of sharing the gospel.
+[01:17:03.480 --> 01:17:07.480]   So the show of charity clearly is in the context of the gospel ministry.
+[01:17:07.480 --> 01:17:11.480]   In Acts chapter 11, verse 29, Paul says,
+[01:17:11.480 --> 01:17:14.480]   "And in proportion that any of the disciples had means,
+[01:17:14.480 --> 01:17:20.480]   each of them determined to send a contribution for the relief of the," what? "brethren living in Judea."
+[01:17:20.480 --> 01:17:27.480]   Romans 15, 26, "For Macedonia and Achaia have been pleased to make a contribution for the poor among the saints in Jerusalem."
+[01:17:27.480 --> 01:17:30.480]   1 Corinthians 16, 1, "Now considering the collection for the saints,
+[01:17:30.480 --> 01:17:34.480]   as I directed in churches of Galatia, so you do also the same for the saints."
+[01:17:34.480 --> 01:17:39.480]   2 Corinthians 8, 3-4, "For I testify that according to their ability and beyond their ability,
+[01:17:39.480 --> 01:17:48.480]   they gave of their own accord, begging us with much urging for the favor of participation in the support of," what? "of the saints."
+[01:17:48.480 --> 01:17:58.480]   Repeatedly, over and over and over again, every challenge for us to practice charity is within the context of spreading the gospel.
+[01:17:58.480 --> 01:18:06.480]   They are not two separate events. They are the same thing.
+[01:18:06.480 --> 01:18:11.480]   We are called to be charitable, to reflect who he is.
+[01:18:11.480 --> 01:18:20.480]   One of the texts that we probably use the most to challenge churches to be mindful of those who are in need
+[01:18:20.480 --> 01:18:24.480]   is found in Matthew chapter 25, and you know the text.
+[01:18:24.480 --> 01:18:29.480]   The text goes, "He who has done it unto the least of my children has done it unto me."
+[01:18:29.480 --> 01:18:34.480]   He who has done it, basically, has done it unto me, right?
+[01:18:34.480 --> 01:18:38.480]   And we use that text in saying, like, when you see the poor and you take care of them,
+[01:18:38.480 --> 01:18:43.480]   that this is our way of showing support to our God, right?
+[01:18:43.480 --> 01:18:52.480]   Which is not wrong, but if you remember in Matthew chapter 24, what's Matthew chapter 24?
+[01:18:52.480 --> 01:18:58.480]   It's Jesus' final teaching about the end times, and this is where he says that all the tribulations,
+[01:18:58.480 --> 01:19:02.480]   all these things are coming, and persecution is coming, and he says,
+[01:19:02.480 --> 01:19:06.480]   "Because there's going to be increase in wickedness, the love of most will grow cold,"
+[01:19:06.480 --> 01:19:11.480]   and in chapter 25, he goes into the parable of the end times.
+[01:19:11.480 --> 01:19:16.480]   And so it's in that context, the last thing that he says is here.
+[01:19:16.480 --> 01:19:21.480]   So the context of this parable, the context of this teaching, is preparing for the coming of Christ
+[01:19:21.480 --> 01:19:27.480]   and being faithful and sharing the good news of Jesus Christ, and it's in that context that Jesus says,
+[01:19:27.480 --> 01:19:30.480]   in verse 35, "For I was hungry, and you gave me something to eat.
+[01:19:30.480 --> 01:19:32.480]   I was thirsty, and you gave me something to drink.
+[01:19:32.480 --> 01:19:34.480]   I was stranger, and you invited me in.
+[01:19:34.480 --> 01:19:36.480]   Naked, and you clothed me.
+[01:19:36.480 --> 01:19:37.480]   I was sick, and you visited me.
+[01:19:37.480 --> 01:19:39.480]   I was in prison, and you came to me.
+[01:19:39.480 --> 01:19:43.480]   Then the righteous will answer him, 'Lord, when did we see you hungry and feed you,
+[01:19:43.480 --> 01:19:45.480]   or thirsty and give you something to drink?
+[01:19:45.480 --> 01:19:50.480]   And when did we see you stranger and invite you in, or naked and clothe you?
+[01:19:50.480 --> 01:19:55.480]   When did we see you sick or in prison and come to you?'"
+[01:19:55.480 --> 01:19:58.480]   Jesus responds in verse 30, "The king will answer and say to them,
+[01:19:58.480 --> 01:20:03.480]   'Truly I say to you, to the extent that you did it to one of these," what?
+[01:20:03.480 --> 01:20:10.480]   "Brothers of mine, even the least of them, you did it to me.'"
+[01:20:10.480 --> 01:20:16.480]   He's telling us this in the context of the gospel ministry, being faithful, to be fruitful.
+[01:20:16.480 --> 01:20:21.480]   And at the end, as we are being faithful, he who has received them, our hospital,
+[01:20:21.480 --> 01:20:26.480]   visited them while they were in prison, while they were suffering for his name.
+[01:20:26.480 --> 01:20:30.480]   He says, "Do not forget them."
+[01:20:30.480 --> 01:20:36.480]   Does this mean that he is telling us that we don't need to worry about those who are suffering,
+[01:20:36.480 --> 01:20:40.480]   who aren't Christians? Absolutely not.
+[01:20:40.480 --> 01:20:45.480]   Because we are to reflect his grace. We are to reflect his mercy for us.
+[01:20:45.480 --> 01:20:50.480]   But the primary call to Christians and to the church to be charitable
+[01:20:50.480 --> 01:20:54.480]   is in the context of the gospel going out.
+[01:20:54.480 --> 01:21:01.480]   Because until people are transformed and regenerated with the gospel of Jesus Christ,
+[01:21:01.480 --> 01:21:06.480]   thinking that we are somehow going to move somebody from homelessness to homelessness,
+[01:21:06.480 --> 01:21:09.480]   that we've solved the problem.
+[01:21:09.480 --> 01:21:14.480]   The problem with sex trafficking isn't simply the lust of certain men.
+[01:21:14.480 --> 01:21:17.480]   It's all interconnected.
+[01:21:17.480 --> 01:21:22.480]   Poverty, sex trafficking, homelessness, political unrest,
+[01:21:22.480 --> 01:21:25.480]   these are not disconnected from each other.
+[01:21:25.480 --> 01:21:30.480]   The Bible says that sin, when it came in, it reigns over mankind.
+[01:21:30.480 --> 01:21:33.480]   It has not just affected one thing. It affected our relationships.
+[01:21:33.480 --> 01:21:39.480]   It affected our marriages. It affected our economy, our politics.
+[01:21:39.480 --> 01:21:44.480]   Our sense of right and wrong, the rich and poor, it affected everything.
+[01:21:44.480 --> 01:21:48.480]   Until the gospel comes into an individual's life,
+[01:21:48.480 --> 01:21:53.480]   and there is a transformation that takes place in their heart and in their lives,
+[01:21:53.480 --> 01:21:59.480]   they will not and cannot practice the charity that he calls us to practice.
+[01:21:59.480 --> 01:22:05.480]   We can be slightly generous. We can be good moral people.
+[01:22:05.480 --> 01:22:09.480]   But the love that he tells us to practice can only be practiced
+[01:22:09.480 --> 01:22:16.480]   by those who are recipients of this love.
+[01:22:16.480 --> 01:22:21.480]   We need to be charitable to reflect who he is.
+[01:22:21.480 --> 01:22:29.480]   We also need to be charitable and engage in the ministry that God called us to.
+[01:22:29.480 --> 01:22:35.480]   I have shared with you, like every once in a while I'll share with you,
+[01:22:35.480 --> 01:22:39.480]   about the persecution that's going on around the world.
+[01:22:39.480 --> 01:22:44.480]   And I'm not telling you this just so that you can feel bad,
+[01:22:44.480 --> 01:22:48.480]   or just so that you can have information.
+[01:22:48.480 --> 01:22:51.480]   That the calling that he has given us, that in the context of sharing the gospel,
+[01:22:51.480 --> 01:22:56.480]   that you and I, whether they live in North Korea, whether they live in India or China,
+[01:22:56.480 --> 01:22:58.480]   that we are all connected as brothers in Christ.
+[01:22:58.480 --> 01:23:03.480]   That even though we may not know them, they are our neighbors.
+[01:23:03.480 --> 01:23:05.480]   And as they suffer, we ought to suffer with them.
+[01:23:05.480 --> 01:23:10.480]   As they pray, as they are spreading the gospel, we are to pray with them.
+[01:23:10.480 --> 01:23:17.480]   But our tendency, if we're not careful, is to, "I don't see them."
+[01:23:17.480 --> 01:23:21.480]   And because I don't see them, they're not my neighbor.
+[01:23:21.480 --> 01:23:26.480]   I remember years ago, I had a sister in the church, years ago,
+[01:23:26.480 --> 01:23:31.480]   and I think this is one of the most honest confessions that I've heard.
+[01:23:31.480 --> 01:23:35.480]   We were on this topic of talking about mercy ministry and about caring for the poor
+[01:23:35.480 --> 01:23:37.480]   and how people are suffering.
+[01:23:37.480 --> 01:23:43.480]   And she said to me, honestly, "I didn't know."
+[01:23:43.480 --> 01:23:45.480]   And that was not her confession.
+[01:23:45.480 --> 01:23:47.480]   It was what she said after that.
+[01:23:47.480 --> 01:23:51.480]   She said, "I didn't know because I didn't want to know
+[01:23:51.480 --> 01:23:54.480]   because it made me feel uncomfortable.
+[01:23:54.480 --> 01:23:59.480]   Because every time I hear about the suffering of our brothers and sisters around the world,
+[01:23:59.480 --> 01:24:01.480]   I would feel guilty."
+[01:24:01.480 --> 01:24:04.480]   And so she said, every time information would come,
+[01:24:04.480 --> 01:24:07.480]   she would either ignore it or give a glazed look,
+[01:24:07.480 --> 01:24:09.480]   and then she said, "Well, I didn't. I claim ignorance."
+[01:24:09.480 --> 01:24:12.480]   So ignorance is bliss.
+[01:24:12.480 --> 01:24:14.480]   And so she was confessing that to me.
+[01:24:14.480 --> 01:24:18.480]   She said, "I didn't know, but it was deliberate because I didn't.
+[01:24:18.480 --> 01:24:21.480]   I hardened my heart on purpose."
+[01:24:21.480 --> 01:24:26.480]   You know, I've been preaching long enough to know, and I could be wrong.
+[01:24:26.480 --> 01:24:30.480]   I've been preaching long enough to be able to see in your face
+[01:24:30.480 --> 01:24:34.480]   whether the Word of God is getting into you or not.
+[01:24:34.480 --> 01:24:38.480]   Okay, now all of you are faking it.
+[01:24:38.480 --> 01:24:41.480]   Because you can tell when the Word of God is preached,
+[01:24:41.480 --> 01:24:43.480]   it makes some people uncomfortable,
+[01:24:43.480 --> 01:24:47.480]   and there is a glazed look because they don't want to know.
+[01:24:47.480 --> 01:24:51.480]   And so it's better to kind of have a vague understanding of who God is,
+[01:24:51.480 --> 01:24:53.480]   a vague understanding of mercy and love,
+[01:24:53.480 --> 01:24:57.480]   because we don't want God's Spirit coming into--
+[01:24:57.480 --> 01:25:02.480]   like, I will meet God in the porch, but not inside the house.
+[01:25:02.480 --> 01:25:05.480]   Maybe I'll invite him into the living room,
+[01:25:05.480 --> 01:25:07.480]   but I don't want him to see my bedroom.
+[01:25:07.480 --> 01:25:11.480]   Maybe I'll allow it, but don't open the closet.
+[01:25:11.480 --> 01:25:15.480]   And so we have a tendency to deliberately remain in ignorance
+[01:25:15.480 --> 01:25:21.480]   and keep God at distance because it makes us feel uncomfortable.
+[01:25:21.480 --> 01:25:25.480]   That word, "hospital," "love of strangers," "hospitality,"
+[01:25:25.480 --> 01:25:31.480]   is to go beyond just a superficial band-aid
+[01:25:31.480 --> 01:25:36.480]   and to recognize that He, in every way, God--
+[01:25:36.480 --> 01:25:38.480]   consider equality with God not to be grasped,
+[01:25:38.480 --> 01:25:41.480]   but He emptied Himself, became nothing, He walked among us.
+[01:25:41.480 --> 01:25:44.480]   We usually think about His suffering on the cross,
+[01:25:44.480 --> 01:25:46.480]   but Him, the King of kings and Lord of lords,
+[01:25:46.480 --> 01:25:49.480]   just walking among us, putting on flesh.
+[01:25:49.480 --> 01:25:51.480]   Imagine how uncomfortable that is.
+[01:25:51.480 --> 01:25:53.480]   How much does it take for us to even just get on our knees
+[01:25:53.480 --> 01:25:56.480]   to talk to the little children?
+[01:25:56.480 --> 01:25:59.480]   When we're in neighborhoods that we're not familiar with,
+[01:25:59.480 --> 01:26:03.480]   when we have food that we're not familiar with,
+[01:26:03.480 --> 01:26:04.480]   how uncomfortable.
+[01:26:04.480 --> 01:26:10.480]   It's hard for us to be humble, even with our wives and our husbands.
+[01:26:10.480 --> 01:26:14.480]   Jesus stepped off of His throne and walked among us,
+[01:26:14.480 --> 01:26:21.480]   humiliated Himself, in order that you and I can be saved.
+[01:26:21.480 --> 01:26:28.480]   That's what He's calling us to do--to examine,
+[01:26:28.480 --> 01:26:33.480]   to live in such a way where His love is being reflected above us.
+[01:26:33.480 --> 01:26:36.480]   Non-Christians practice love for their brothers and sisters,
+[01:26:36.480 --> 01:26:41.480]   for their children, for their friends.
+[01:26:41.480 --> 01:26:43.480]   That's not Christian love. That's just love.
+[01:26:43.480 --> 01:26:47.480]   Christian love is what He's talking about here.
+[01:26:47.480 --> 01:26:50.480]   This is why we got involved with India.
+[01:26:50.480 --> 01:26:53.480]   I had a friend who asked me to come out to India.
+[01:26:53.480 --> 01:26:56.480]   You were heavily involved with China, and we're busy here.
+[01:26:56.480 --> 01:26:59.480]   I went to India because he asked me to go and preach
+[01:26:59.480 --> 01:27:02.480]   and to train the pastors who were there, and I happened to go
+[01:27:02.480 --> 01:27:04.480]   because I wanted to connect with him.
+[01:27:04.480 --> 01:27:08.480]   Then while I was in India, my eyes got opened.
+[01:27:08.480 --> 01:27:11.480]   The way it got opened was I found out the heaviest concentration
+[01:27:11.480 --> 01:27:15.480]   of unreached people groups were in India.
+[01:27:15.480 --> 01:27:17.480]   I didn't know that.
+[01:27:17.480 --> 01:27:19.480]   I always thought it was a 1040 window in the Middle East,
+[01:27:19.480 --> 01:27:21.480]   and I found out it was in India.
+[01:27:21.480 --> 01:27:25.480]   The heaviest concentration of poverty was also in India.
+[01:27:25.480 --> 01:27:29.480]   I didn't know that. I thought it was somewhere in Africa.
+[01:27:29.480 --> 01:27:32.480]   Heaviest concentration of illiteracy in the villages--
+[01:27:32.480 --> 01:27:36.480]   there are parts of India that's getting very wealthy,
+[01:27:36.480 --> 01:27:41.480]   but the heaviest concentration of poverty was also in India.
+[01:27:41.480 --> 01:27:45.480]   I found out the heaviest concentration of sex trafficking
+[01:27:45.480 --> 01:27:48.480]   was also in India.
+[01:27:48.480 --> 01:27:53.480]   I wanted to know--even though I didn't have a heart,
+[01:27:53.480 --> 01:27:56.480]   God opened the door and said, "Okay, I could either say no
+[01:27:56.480 --> 01:27:58.480]   or I could at least get engaged."
+[01:27:58.480 --> 01:28:01.480]   It just happened that we had connection with the pastors,
+[01:28:01.480 --> 01:28:03.480]   and we went.
+[01:28:03.480 --> 01:28:05.480]   We went to an area where it was uncovered.
+[01:28:05.480 --> 01:28:08.480]   Some of you guys were with us when we went.
+[01:28:08.480 --> 01:28:11.480]   Since we've gone there, I can honestly tell you
+[01:28:11.480 --> 01:28:14.480]   that some of the things that we've experienced and seen--
+[01:28:14.480 --> 01:28:16.480]   and it helped me to understand what was going on
+[01:28:16.480 --> 01:28:18.480]   in the early church.
+[01:28:18.480 --> 01:28:24.480]   I remember in one village in particular,
+[01:28:24.480 --> 01:28:27.480]   we were doing our work, and I could hear there was a buzz,
+[01:28:27.480 --> 01:28:30.480]   and some of the pastors came and ran to get me,
+[01:28:30.480 --> 01:28:32.480]   said, "We need your prayers."
+[01:28:32.480 --> 01:28:35.480]   So I went with the pastors, and I could see this young lady,
+[01:28:35.480 --> 01:28:38.480]   and she must have been no more than about 25, 26 years old,
+[01:28:38.480 --> 01:28:41.480]   and she had a very limp child in her arms,
+[01:28:41.480 --> 01:28:44.480]   probably no more than about 3 to 4 months old.
+[01:28:44.480 --> 01:28:46.480]   The child was breathing, but you could tell
+[01:28:46.480 --> 01:28:50.480]   it was struggling to breathe, and she's desperate.
+[01:28:50.480 --> 01:28:53.480]   She doesn't know what to do.
+[01:28:53.480 --> 01:28:55.480]   So she basically was asking us to pray,
+[01:28:55.480 --> 01:28:58.480]   pray for this child, for a miracle.
+[01:28:58.480 --> 01:29:00.480]   And as we were trying to hear the story,
+[01:29:00.480 --> 01:29:04.480]   and obviously all of us, the pastors that called me to that,
+[01:29:04.480 --> 01:29:06.480]   we were all, you know, compelled,
+[01:29:06.480 --> 01:29:09.480]   but we were also very saddened because we could tell
+[01:29:09.480 --> 01:29:12.480]   whether the child lives another few days or a few months,
+[01:29:12.480 --> 01:29:14.480]   that it wasn't going to make it.
+[01:29:14.480 --> 01:29:16.480]   It was already too late.
+[01:29:16.480 --> 01:29:21.480]   But what really was heart-wrenching
+[01:29:21.480 --> 01:29:23.480]   was that the problem that this child had
+[01:29:23.480 --> 01:29:26.480]   was a very simple problem,
+[01:29:26.480 --> 01:29:31.480]   that if she had access to the hospital early on,
+[01:29:31.480 --> 01:29:34.480]   the baby would not be in this position.
+[01:29:34.480 --> 01:29:38.480]   And she was in tears, and as we were praying, she was crying.
+[01:29:38.480 --> 01:29:40.480]   The pastors were crying.
+[01:29:40.480 --> 01:29:42.480]   And after we prayed, we gave her the hope,
+[01:29:42.480 --> 01:29:45.480]   but at the end of the day, it was already too late for the child.
+[01:29:45.480 --> 01:29:47.480]   And the whole time I was thinking,
+[01:29:47.480 --> 01:29:49.480]   if this was in the United States,
+[01:29:49.480 --> 01:29:52.480]   it would have just been one run to the hospital, and that's it.
+[01:29:52.480 --> 01:29:57.480]   But because she didn't have access, her child was going to die.
+[01:29:57.480 --> 01:30:01.480]   We were in Romania one year, and we were out in the remotest parts,
+[01:30:01.480 --> 01:30:04.480]   and this older lady came out, and she had--
+[01:30:04.480 --> 01:30:07.480]   we found a big hole in the side of one of her legs
+[01:30:07.480 --> 01:30:09.480]   because of the infection.
+[01:30:09.480 --> 01:30:11.480]   And then she said she had the same problem on the other leg,
+[01:30:11.480 --> 01:30:15.480]   so we opened that up because we had medical workers there with us,
+[01:30:15.480 --> 01:30:18.480]   and the nurse looked at it and said, "This is really bad."
+[01:30:18.480 --> 01:30:23.480]   That most likely, in order to save her, that she has to amputate her legs.
+[01:30:23.480 --> 01:30:25.480]   And so we asked her, "What caused this?"
+[01:30:25.480 --> 01:30:28.480]   And she said it was a mosquito bite.
+[01:30:28.480 --> 01:30:30.480]   She was out in the field, and she got bit by a mosquito.
+[01:30:30.480 --> 01:30:32.480]   She didn't know how to take care of it.
+[01:30:32.480 --> 01:30:34.480]   She had no access to medicine.
+[01:30:34.480 --> 01:30:39.480]   All she probably needed earlier on was some antibiotics,
+[01:30:39.480 --> 01:30:41.480]   but she didn't have any access.
+[01:30:41.480 --> 01:30:46.480]   So we didn't know if she was going to be able to live or not.
+[01:30:46.480 --> 01:30:48.480]   After we left, was she going to be able to go to the hospital?
+[01:30:48.480 --> 01:30:51.480]   Even the amputation is going to cost a lot of money.
+[01:30:51.480 --> 01:30:54.480]   And I remember coming back from that trip thinking,
+[01:30:54.480 --> 01:30:57.480]   "Wow, over here you get bit by a mosquito.
+[01:30:57.480 --> 01:31:01.480]   I mean, it would be a joke."
+[01:31:01.480 --> 01:31:04.480]   But we have brothers and sisters around the world who are dying
+[01:31:04.480 --> 01:31:08.480]   because of mosquito bites.
+[01:31:08.480 --> 01:31:12.480]   We have children dying in their mother's arms
+[01:31:12.480 --> 01:31:18.480]   because they don't have access to a hospital.
+[01:31:18.480 --> 01:31:22.480]   If you remember, also in India, there was this young lady,
+[01:31:22.480 --> 01:31:25.480]   another lady, and they might have been on the same trip.
+[01:31:25.480 --> 01:31:29.480]   The pastor asked me to pray for her again.
+[01:31:29.480 --> 01:31:31.480]   And her story was a little bit different.
+[01:31:31.480 --> 01:31:36.480]   He said that she became a Christian, and she joined the church,
+[01:31:36.480 --> 01:31:41.480]   and her family was infuriated that she became a Christian.
+[01:31:41.480 --> 01:31:43.480]   And soon after she became a Christian,
+[01:31:43.480 --> 01:31:48.480]   her husband fell into some kind of illness, and he ended up dying.
+[01:31:48.480 --> 01:31:52.480]   And as a result of that, the family blamed her.
+[01:31:52.480 --> 01:31:56.480]   They said, "Tragedy came into our home because you disrespected our God."
+[01:31:56.480 --> 01:32:00.480]   And so they disowned her and basically kicked her and her children out.
+[01:32:00.480 --> 01:32:04.480]   So she had no means to live.
+[01:32:04.480 --> 01:32:07.480]   Some of you guys may remember, I came back, and I asked
+[01:32:07.480 --> 01:32:13.480]   and collected some funds to send it over.
+[01:32:13.480 --> 01:32:15.480]   All we did--it wasn't a ton of money.
+[01:32:15.480 --> 01:32:18.480]   Some of you guys were very generous, so we sent the money back
+[01:32:18.480 --> 01:32:21.480]   and asked the pastor to make sure that she's taken care of.
+[01:32:21.480 --> 01:32:24.480]   And because she was taken care of, she had enough to not only feed herself,
+[01:32:24.480 --> 01:32:30.480]   she started feeding her in-laws because her husband was a primary breadwinner.
+[01:32:30.480 --> 01:32:37.480]   And as a result of the generosity, her in-laws not only received their back,
+[01:32:37.480 --> 01:32:40.480]   her in-laws called the pastors.
+[01:32:40.480 --> 01:32:45.480]   They called the pastors and asked, "Tell me about your God."
+[01:32:45.480 --> 01:32:48.480]   And they were able to share the gospel with the in-laws,
+[01:32:48.480 --> 01:32:54.480]   and that whole family came to faith as a result of some of your generosity.
+[01:32:54.480 --> 01:33:00.480]   You guys remember that story?
+[01:33:00.480 --> 01:33:06.480]   The gospel ministry and the mercy ministry are not separate things.
+[01:33:06.480 --> 01:33:13.480]   He calls us to be charitable, to be gracious, to be merciful.
+[01:33:13.480 --> 01:33:21.480]   We cannot live in a world with all the resources that you and I have
+[01:33:21.480 --> 01:33:26.480]   and to plan all of that for our selfish gain
+[01:33:26.480 --> 01:33:30.480]   and somehow think that we are being the aroma of Christ.
+[01:33:30.480 --> 01:33:34.480]   But it is not justice that he calls. It's charity.
+[01:33:34.480 --> 01:33:41.480]   Charity. We must live with charity.
+[01:33:41.480 --> 01:33:46.480]   Not simply because they're hungry, not simply because people are in need,
+[01:33:46.480 --> 01:33:52.480]   because it gives us a platform to tell them about Jesus Christ.
+[01:33:52.480 --> 01:33:57.480]   What's happening right now isn't biblical.
+[01:33:57.480 --> 01:33:59.480]   Let me make that clear.
+[01:33:59.480 --> 01:34:04.480]   What's sweeping the world in our generation that has penetrated into this church
+[01:34:04.480 --> 01:34:09.480]   or churches in general is not biblical.
+[01:34:09.480 --> 01:34:12.480]   And I want to warn you and I want to encourage you,
+[01:34:12.480 --> 01:34:19.480]   because so many false teachings that is only skewed just a little bit,
+[01:34:19.480 --> 01:34:25.480]   that sometimes is hard to tell, is penetrating into the church in every which way,
+[01:34:25.480 --> 01:34:29.480]   that you have to be Bereans. You have to be.
+[01:34:29.480 --> 01:34:31.480]   You have to test everything to make sure.
+[01:34:31.480 --> 01:34:34.480]   Don't quote me. It is not safe.
+[01:34:34.480 --> 01:34:36.480]   Don't quote some pastor.
+[01:34:36.480 --> 01:34:38.480]   Don't tell me you read this in a book.
+[01:34:38.480 --> 01:34:41.480]   Don't tell me that this is what church history practiced.
+[01:34:41.480 --> 01:34:44.480]   Don't tell me all your other Christian friends believe this.
+[01:34:44.480 --> 01:34:50.480]   You must not turn from the Word of God to the left or to the right.
+[01:34:50.480 --> 01:34:52.480]   Test what I say.
+[01:34:52.480 --> 01:34:58.480]   Examine the passage that I quoted and make sure that it's the voice of God that we're following,
+[01:34:58.480 --> 01:35:01.480]   not the movement of our generation.
+[01:35:01.480 --> 01:35:07.480]   So yes, in conclusion, we must be charitable for the sake of his name.
+[01:35:07.480 --> 01:35:11.480]   And I got--remember I told you I had this slogan that I live with,
+[01:35:11.480 --> 01:35:13.480]   and I used to pound the pulpit back then,
+[01:35:13.480 --> 01:35:18.480]   "How can you worship a homeless man on Sunday and not worship him,
+[01:35:18.480 --> 01:35:21.480]   and forget a homeless man on Monday?"
+[01:35:21.480 --> 01:35:23.480]   I got another slogan.
+[01:35:23.480 --> 01:35:26.480]   I picked up from a friend a while back, and this is the slogan.
+[01:35:26.480 --> 01:35:30.480]   And I'm not going to explain it to you, so if you don't get it, let it sink in,
+[01:35:30.480 --> 01:35:31.480]   and then ask somebody.
+[01:35:31.480 --> 01:35:34.480]   So hopefully discussion will take place.
+[01:35:34.480 --> 01:35:42.480]   If your face is bigger than your cause, then your face is too big.
+[01:35:42.480 --> 01:35:45.480]   Let me say that again.
+[01:35:45.480 --> 01:35:52.480]   If your face is bigger than your cause, then your face is too big.
+[01:35:52.480 --> 01:35:56.480]   If you are compelled when you see the poor,
+[01:35:56.480 --> 01:36:00.480]   if you're ignited and you have compassion,
+[01:36:00.480 --> 01:36:05.480]   then preach the gospel in season and out of season.
+[01:36:05.480 --> 01:36:09.480]   Let's pray.
+[01:36:09.480 --> 01:36:12.480]   I'm going to pray for us as our worship team leads,
+[01:36:12.480 --> 01:36:14.480]   and usually I'll just give a few minutes for you,
+[01:36:14.480 --> 01:36:21.480]   but I want to pray for all of us, and then after our worship team comes,
+[01:36:21.480 --> 01:36:23.480]   we'll finish with the final song.
+[01:36:23.480 --> 01:36:24.480]   Let me pray for us.
+[01:36:24.480 --> 01:36:27.480]   Let's pray.
+[01:36:27.480 --> 01:36:32.480]   Heavenly Father, we thank you that we live in a country that's free.
+[01:36:32.480 --> 01:36:36.480]   We thank you that our children are taken care of.
+[01:36:36.480 --> 01:36:42.480]   We thank you, Lord God, that we have wealth that others do not have
+[01:36:42.480 --> 01:36:45.480]   to live in a warm home,
+[01:36:45.480 --> 01:36:49.480]   not to worry about what we're going to feed our children each day,
+[01:36:49.480 --> 01:36:55.480]   to be able to gather in a nice building without concern of a physical threat.
+[01:36:55.480 --> 01:36:59.480]   Help us, Lord God, to be good stewards of everything that you've given us.
+[01:36:59.480 --> 01:37:03.480]   Help us, Lord, to open our eyes to see the suffering around us, Lord God,
+[01:37:03.480 --> 01:37:07.480]   that we do not insulate ourselves from the suffering of the world.
+[01:37:07.480 --> 01:37:11.480]   As you saw the multitudes, Lord, and you had compassion on them
+[01:37:11.480 --> 01:37:15.480]   because they were like sheep without shepherd being tossed back and forth.
+[01:37:15.480 --> 01:37:19.480]   As you pleaded with your disciples, Lord, to beseech the Lord of the harvest
+[01:37:19.480 --> 01:37:23.480]   to send out more workers, Lord, we beseech you that you would raise up men
+[01:37:23.480 --> 01:37:27.480]   and women, Lord God, even in this congregation,
+[01:37:27.480 --> 01:37:31.480]   that you would help us to take our eyes off of ourselves
+[01:37:31.480 --> 01:37:35.480]   and know, Father God, that eternity is coming,
+[01:37:35.480 --> 01:37:39.480]   that we would not be satisfied with our bills being paid,
+[01:37:39.480 --> 01:37:43.480]   with our children being saved, but that we would truly live
+[01:37:43.480 --> 01:37:46.480]   to proclaim the gospel to the fullest.
+[01:37:46.480 --> 01:37:51.480]   Lord, that those who are suffering, those who are lost,
+[01:37:51.480 --> 01:37:55.480]   those who are hungry, those who are orphaned,
+[01:37:55.480 --> 01:37:59.480]   Lord, that they may know that there is hope in your name.
+[01:37:59.480 --> 01:38:03.480]   Lord, ignite our hearts.
+[01:38:03.480 --> 01:38:06.480]   Soften our hearts, Lord God.
+[01:38:06.480 --> 01:38:10.480]   Help us to see our wealth, Lord God, not to be a trap,
+[01:38:10.480 --> 01:38:14.480]   but to be used, Lord God, for the sake of your name.
+[01:38:14.480 --> 01:38:18.480]   I pray for my brothers and sisters who are around the world, Lord God,
+[01:38:18.480 --> 01:38:23.480]   who are suffering because they have boldness and courage to stand up for their faith.
+[01:38:23.480 --> 01:38:26.480]   Give them the faith that they need, strength that they need, Lord God,
+[01:38:26.480 --> 01:38:32.480]   to stand up even for their life, that their testimony would bring others to Christ.
+[01:38:32.480 --> 01:38:36.480]   Lord, we pray for the North Koreans, Lord God,
+[01:38:36.480 --> 01:38:40.480]   who are in secret reading your word and praying to you
+[01:38:40.480 --> 01:38:47.480]   in fear of their own lives. Give them courage to know.
+[01:38:47.480 --> 01:38:52.480]   Give them courage to know, Father God, that you are their refuge,
+[01:38:52.480 --> 01:38:56.480]   that whether they live here for a long time or a short time,
+[01:38:56.480 --> 01:39:00.480]   that eternity is coming, that when you come in glory,
+[01:39:00.480 --> 01:39:03.480]   that they will also be glorified.
+[01:39:03.480 --> 01:39:08.480]   Lord, we pray for our brothers and sisters who are hungry around the world.
+[01:39:08.480 --> 01:39:11.480]   We pray for the young ladies, Lord God, who are being violated, Lord,
+[01:39:11.480 --> 01:39:16.480]   because of this sinful world. Lord, give us compassion for them.
+[01:39:16.480 --> 01:39:22.480]   As you had compassion for us. Help us, Lord God, to intercede on their behalf,
+[01:39:22.480 --> 01:39:29.480]   that we will be broken, that we would be on our knees, Lord God, crying out.
+[01:39:29.480 --> 01:39:36.480]   Lord, help us. Help us, Lord God, to break away from this rat race.
+[01:39:36.480 --> 01:39:40.480]   This temptation to think, Lord, that if we have nice homes and nice cars,
+[01:39:40.480 --> 01:39:45.480]   that we're good. Teach us what it means to love aliens.
+[01:39:45.480 --> 01:39:50.480]   Lord, give us broken hearts, that we may pray effectively,
+[01:39:50.480 --> 01:39:55.480]   we may live purposefully, that your name may be honored,
+[01:39:55.480 --> 01:39:58.480]   that eternity will be more real to us than ever.
+[01:39:58.480 --> 01:40:03.480]   Lord, bring revival. Revive us. Revive this church.
+[01:40:03.480 --> 01:40:08.480]   Revive this generation. May Christ and his name be exalted through us.
+[01:40:08.480 --> 01:40:11.480]   In Jesus' name we pray. Amen.
+[01:40:11.480 --> 01:40:15.480]   Let's all stand up for the closing praise.
+[01:40:15.480 --> 01:40:25.480]   [Music]
+[01:40:25.480 --> 01:40:28.480]   Let's sing "What Love Can Remember."
+[01:40:28.480 --> 01:40:34.480]   What love can remember no wrongs we have done.
+[01:40:34.480 --> 01:40:40.480]   Omniscient, omnowing, he counts not their sum.
+[01:40:40.480 --> 01:40:47.480]   Thrown into a sea without bottom or shore.
+[01:40:47.480 --> 01:40:54.480]   Our sins, they are many, his mercy is more.
+[01:40:54.480 --> 01:41:06.480]   Praise the Lord, his mercy is more.
+[01:41:06.480 --> 01:41:12.480]   Stronger than darkness, new every morn.
+[01:41:12.480 --> 01:41:26.480]   Our sins, they are many, his mercy is more.
+[01:41:26.480 --> 01:41:34.480]   Patience await. Patience will wait as we constantly roam.
+[01:41:34.480 --> 01:41:40.480]   One Father so tender is all we assume.
+[01:41:40.480 --> 01:41:47.480]   He welcomes the weakest, the foulest, the poor.
+[01:41:47.480 --> 01:41:53.480]   Our sins, they are many, his mercy is more.
+[01:41:53.480 --> 01:42:05.480]   Praise the Lord, his mercy is more.
+[01:42:05.480 --> 01:42:12.480]   Stronger than darkness, new every morn.
+[01:42:12.480 --> 01:42:19.480]   Our sins, they are many, his mercy is more.
+[01:42:19.480 --> 01:42:29.480]   [Music]
+[01:42:29.480 --> 01:42:35.480]   For riches of kindness he lavished on us.
+[01:42:35.480 --> 01:42:41.480]   His blood was the payment, his life was the cost.
+[01:42:41.480 --> 01:42:48.480]   We still need not have it, never of all.
+[01:42:48.480 --> 01:42:55.480]   Our sins, they are many, his mercy is more.
+[01:42:55.480 --> 01:42:58.480]   Sing it out, praise the Lord.
+[01:42:58.480 --> 01:43:10.480]   Praise the Lord, his mercy is more.
+[01:43:10.480 --> 01:43:16.480]   Stronger than darkness, new every morn.
+[01:43:16.480 --> 01:43:21.480]   Our sins, they are many, his mercy is more.
+[01:43:21.480 --> 01:43:34.480]   Praise the Lord, his mercy is more.
+[01:43:34.480 --> 01:43:40.480]   Stronger than darkness, new every morn.
+[01:43:40.480 --> 01:43:44.480]   Our sins, they are many, his mercy is more.
+[01:43:44.480 --> 01:43:52.480]   Stronger than darkness, new every morn.
+[01:43:52.480 --> 01:44:01.480]   Our sins, they are many, his mercy is more.
+[01:44:01.480 --> 01:44:04.480]   Let's pray.
+[01:44:04.480 --> 01:44:12.480]   Now to him who is able to keep you from stumbling and to make you stand in the presence of his glory, blameless with great joy.
+[01:44:12.480 --> 01:44:21.480]   To the only God our Savior, through Jesus Christ our Lord, be glory, majesty, dominion and authority before all time and now and forever. Amen.
+[01:44:21.480 --> 01:44:37.480]   And since his son, they called him Jesus, he came to love.
+[01:44:37.480 --> 01:44:48.480]   He'll end all grief, he'll live and die.
+[01:44:48.480 --> 01:45:04.480]   To by my power now an empty grave is there to put my Savior there.
+[01:45:04.480 --> 01:45:15.480]   Because he lived, I can face tomorrow.
+[01:45:15.480 --> 01:45:26.480]   Because he lived, all fear is gone.
+[01:45:26.480 --> 01:45:37.480]   Because I know he holds the future.
+[01:45:37.480 --> 01:45:51.480]   And life is worth the living just because he lived.
+[01:45:51.480 --> 01:45:56.480]   Amen.
+[01:45:56.480 --> 01:46:02.480]   >> Thank you.
+[01:46:02.480 --> 01:46:04.820]   >> If you guys can help us to rearrange the chairs.
+

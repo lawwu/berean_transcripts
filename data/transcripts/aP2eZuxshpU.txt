@@ -1,0 +1,763 @@
+
+[00:00:00.000 --> 00:00:05.000]   Next up is Mara Hershenson, who's going to talk about entrepreneurship.
+[00:00:05.000 --> 00:00:06.000]   Come on out, Mara.
+[00:00:06.000 --> 00:00:09.000]   Mara's going to talk about creating successful founders.
+[00:00:09.000 --> 00:00:10.000]   Please welcome Mara.
+[00:00:10.000 --> 00:00:11.000]   Thank you.
+[00:00:11.000 --> 00:00:25.000]   Well, I have a pretty positive and optimistic talk.
+[00:00:25.000 --> 00:00:30.000]   I know the mood may be a little bearish in general.
+[00:00:30.000 --> 00:00:31.000]   My name is Mara.
+[00:00:31.000 --> 00:00:34.000]   I'm one of the founders of Pair VC.
+[00:00:34.000 --> 00:00:36.000]   And I am very fortunate.
+[00:00:36.000 --> 00:00:39.000]   I actually work with many startups.
+[00:00:39.000 --> 00:00:43.000]   I've worked for the last decade with 100-plus startups.
+[00:00:43.000 --> 00:00:45.000]   They're worth over $100 billion.
+[00:00:45.000 --> 00:00:47.000]   And they all have one thing in common.
+[00:00:47.000 --> 00:00:51.000]   When I invest, there's actually nothing.
+[00:00:51.000 --> 00:00:52.000]   I'm the first check.
+[00:00:52.000 --> 00:00:54.000]   There is no product.
+[00:00:54.000 --> 00:00:55.000]   There's no customers.
+[00:00:55.000 --> 00:00:57.000]   There's just the founders.
+[00:00:57.000 --> 00:01:04.000]   So, it is no surprise that I often wonder, "Are these founders born?
+[00:01:04.000 --> 00:01:08.000]   Are my cards dealt as soon as I invest in one of these founders?
+[00:01:08.000 --> 00:01:11.000]   Or is there anything I can do to change them?"
+[00:01:11.000 --> 00:01:13.000]   That's a big question.
+[00:01:13.000 --> 00:01:17.000]   And I think many of you would say founders are born.
+[00:01:17.000 --> 00:01:20.000]   Take, for example, Palmer Luckey.
+[00:01:20.000 --> 00:01:22.000]   He's talking tomorrow.
+[00:01:22.000 --> 00:01:24.000]   He was a prodigy.
+[00:01:24.000 --> 00:01:28.000]   He created the first prototype of the Oculus Rift at 17.
+[00:01:28.000 --> 00:01:31.000]   And he sold the company to Facebook at 22.
+[00:01:31.000 --> 00:01:34.000]   Clearly, there's something special about him.
+[00:01:34.000 --> 00:01:36.000]   Or Melanie Perkins.
+[00:01:36.000 --> 00:01:40.000]   She started her first business at 14.
+[00:01:40.000 --> 00:01:45.000]   Then at 19, went on to build the largest yearbook business in Australia.
+[00:01:45.000 --> 00:01:50.000]   And now she runs one of the most successful startups.
+[00:01:50.000 --> 00:01:51.000]   And then Elon Musk.
+[00:01:51.000 --> 00:01:53.000]   I don't think I need to say anything.
+[00:01:53.000 --> 00:01:56.000]   He's definitely someone special.
+[00:01:56.000 --> 00:01:58.000]   Something in his DNA, right?
+[00:01:58.000 --> 00:02:00.000]   So, you wouldn't be surprised.
+[00:02:00.000 --> 00:02:03.000]   Many people ask me what makes a good founder.
+[00:02:03.000 --> 00:02:05.000]   And there's a bunch of characteristics.
+[00:02:05.000 --> 00:02:07.000]   You can Google it.
+[00:02:07.000 --> 00:02:13.000]   People come up with a bunch of things like risk-taking, resilience, ambition, etc.
+[00:02:13.000 --> 00:02:19.000]   And, in fact, there's some research by academia that shows that people have some innate properties.
+[00:02:19.000 --> 00:02:25.000]   So, researchers at Northeastern surveyed hundreds of entrepreneurs.
+[00:02:25.000 --> 00:02:29.000]   And they counted that 42% of them had started a business as a kid.
+[00:02:29.000 --> 00:02:33.000]   So, actually, that's a good hint for anybody making angel investments.
+[00:02:33.000 --> 00:02:35.000]   Maybe it's a question you can ask.
+[00:02:35.000 --> 00:02:42.000]   Now, there's also data that shows that founders can be made.
+[00:02:42.000 --> 00:02:49.000]   And while there are 37% of founders, repeat founders in companies today,
+[00:02:49.000 --> 00:02:53.000]   59% repeat founders are in the top unicorns.
+[00:02:53.000 --> 00:02:58.000]   So, that means at least you learned something from your first experience.
+[00:02:58.000 --> 00:03:05.000]   So, it would be reasonable to believe that there is some relationship about, you know,
+[00:03:05.000 --> 00:03:08.000]   what's your chances of being successful to how you're born.
+[00:03:08.000 --> 00:03:13.000]   However, I do believe there is some form, something you can do, right?
+[00:03:13.000 --> 00:03:17.000]   There's some energy or some modification that would put you up in that chart.
+[00:03:17.000 --> 00:03:23.000]   And I think the wider arrow shows that the early parts of that chart, you need a lot of effort.
+[00:03:23.000 --> 00:03:27.000]   And, in fact, this is what I've learned from being an investor.
+[00:03:27.000 --> 00:03:34.000]   Roughly, and these are all rough numbers, out of the 10 companies we back, two will fail.
+[00:03:34.000 --> 00:03:39.000]   No matter what we do, that's just almost their destiny.
+[00:03:39.000 --> 00:03:46.000]   And Jason wrote a blog post in 2015, so that's a long time ago, that's titled,
+[00:03:46.000 --> 00:03:48.000]   "You don't have what it takes. I recommend you reading it."
+[00:03:48.000 --> 00:03:52.000]   And basically, the summary is, some people just don't have what it takes.
+[00:03:52.000 --> 00:03:58.000]   It would take so much effort to change them that you might as well give up, right?
+[00:03:58.000 --> 00:04:04.000]   Okay, so now out of 10 companies we back, two will succeed no matter what.
+[00:04:04.000 --> 00:04:09.000]   You know, us people in venture like to take credit.
+[00:04:09.000 --> 00:04:15.000]   But truly, the founders, there's a percentage of founders that work independently of us.
+[00:04:15.000 --> 00:04:18.000]   We back DoorDash early on. There's a picture of their founders.
+[00:04:18.000 --> 00:04:25.000]   And I can tell you that Tony Hsu, the CEO, would have made it with or without any of his investors.
+[00:04:25.000 --> 00:04:29.000]   And then there are six companies that I think we can influence.
+[00:04:29.000 --> 00:04:32.000]   There's something we can do.
+[00:04:32.000 --> 00:04:37.000]   And the question is, perhaps, what can you do with that 60%?
+[00:04:37.000 --> 00:04:39.000]   How can you make them more successful?
+[00:04:39.000 --> 00:04:46.000]   Or maybe better, if you're at the top 10%, can you accelerate their success?
+[00:04:46.000 --> 00:04:50.000]   That's a big question. And that's what I'm really passionate about.
+[00:04:50.000 --> 00:04:54.000]   Can you create more successful entrepreneurs?
+[00:04:54.000 --> 00:04:57.000]   Why is it important? Why should you care?
+[00:04:57.000 --> 00:05:00.000]   I think this is the right audience. You don't have to say.
+[00:05:00.000 --> 00:05:06.000]   There are many numbers to show that having more entrepreneurs is good for the economy.
+[00:05:06.000 --> 00:05:12.000]   You can read them. But just more entrepreneurs means a better world.
+[00:05:12.000 --> 00:05:16.000]   So the question is, how can you build these entrepreneurs?
+[00:05:16.000 --> 00:05:21.000]   Is there a magic machine where you can actually take a regular founder or a regular person
+[00:05:21.000 --> 00:05:24.000]   and turn them into an outcome successful founder?
+[00:05:24.000 --> 00:05:34.000]   Okay. So at the risk of being elitist, I am going to say that one of the closest machines of entrepreneurship is Stanford University.
+[00:05:34.000 --> 00:05:37.000]   And the numbers actually show it.
+[00:05:37.000 --> 00:05:42.000]   10% of unicorns have founders that attend at Stanford.
+[00:05:42.000 --> 00:05:48.000]   And what's even more, in the All-In Summit, I actually went through all the LinkedIn's,
+[00:05:48.000 --> 00:05:52.000]   but 40% of the speakers attend at Stanford.
+[00:05:52.000 --> 00:06:00.000]   And I think all of us have started something, whether it's 538, like Nate, or a venture firm, or a company, or multiple companies.
+[00:06:00.000 --> 00:06:03.000]   So there's some special gene, right?
+[00:06:03.000 --> 00:06:08.000]   And the question is, what does Stanford have that other people don't have?
+[00:06:08.000 --> 00:06:15.000]   It's a higher ed institution. So for sure, you're going to go and take some classes, gain some skill sets.
+[00:06:15.000 --> 00:06:19.000]   They put you around people that are like you, and they have a brand.
+[00:06:19.000 --> 00:06:23.000]   So you have access to capital, network, etc.
+[00:06:23.000 --> 00:06:28.000]   Having been there, though, I will tell you that the skill set doesn't quite matter as much.
+[00:06:28.000 --> 00:06:31.000]   You can go online and learn some of that.
+[00:06:31.000 --> 00:06:37.000]   But your peers around you and the next degree around you actually really, really matter.
+[00:06:37.000 --> 00:06:41.000]   And in a way, what these people are doing is transforming your character.
+[00:06:41.000 --> 00:06:43.000]   And I can tell you that firsthand.
+[00:06:43.000 --> 00:06:48.000]   Just imagine yourself, you may be a founder or an investor, I don't know.
+[00:06:48.000 --> 00:06:57.000]   You are dropped in a world where you basically are surrounded by people that are constantly thinking about starting new companies.
+[00:06:57.000 --> 00:07:01.000]   These are smart people. The ambition is very, very high.
+[00:07:01.000 --> 00:07:05.000]   There's innovation almost breathing everywhere.
+[00:07:05.000 --> 00:07:07.000]   And nerding out is very OK, right?
+[00:07:07.000 --> 00:07:11.000]   So by doing this throughout years, you actually become one of them.
+[00:07:11.000 --> 00:07:15.000]   And your peers are really fundamentally changing your character.
+[00:07:15.000 --> 00:07:20.000]   You become somebody that starts to believe in themselves. You can do it.
+[00:07:20.000 --> 00:07:24.000]   You learn basically to expand your own ambition, right?
+[00:07:24.000 --> 00:07:29.000]   You may think 100 million exit is good, but if you go to Stanford, you know that's not good enough, right?
+[00:07:29.000 --> 00:07:31.000]   So you're setting your own bar.
+[00:07:31.000 --> 00:07:34.000]   It's a really interesting process.
+[00:07:34.000 --> 00:07:41.000]   And the question is, are there other machines like this? Or is Stanford just the only way to do it?
+[00:07:41.000 --> 00:07:47.000]   But the good news is there are other places that do this or the other forms of doing this, I would say.
+[00:07:47.000 --> 00:07:50.000]   And one of them perhaps is the PayPal mafia.
+[00:07:50.000 --> 00:07:54.000]   I think a lot of them running around here in the next couple of days.
+[00:07:54.000 --> 00:08:06.000]   You all know that they started many successful companies, Tesla, LinkedIn, Palantir, Affirm, YouTube, Yelp, Yammer, etc., etc., etc., right?
+[00:08:06.000 --> 00:08:10.000]   There's something magic about having been there at that point in time.
+[00:08:10.000 --> 00:08:14.000]   I haven't researched them, and I don't have that much direct contact.
+[00:08:14.000 --> 00:08:19.000]   But according to Sarah Lacy, who's a journalist, and she spent a lot of time researching them,
+[00:08:19.000 --> 00:08:23.000]   she concluded there was the confidence that they gained when they were there.
+[00:08:23.000 --> 00:08:28.000]   Now, I'm not sure, but maybe in the Q&A they will reveal the secret.
+[00:08:28.000 --> 00:08:31.000]   There's other mafias. This one I'm more familiar with.
+[00:08:31.000 --> 00:08:38.000]   This is Rappi. Rappi is a company that was founded in 2015, so not that long ago, in Colombia.
+[00:08:38.000 --> 00:08:42.000]   And it really transformed the LATAM startup environment.
+[00:08:42.000 --> 00:08:47.000]   There's been 100-plus companies created by Rappi employees.
+[00:08:47.000 --> 00:08:50.000]   It's crazy. Almost 50 in Colombia.
+[00:08:50.000 --> 00:08:53.000]   It literally changed the country, which is a big deal.
+[00:08:53.000 --> 00:09:00.000]   I have the privilege of working with a few of these founders, and there's something common in them.
+[00:09:00.000 --> 00:09:06.000]   They all have this sense of ambition, that super-fast growth.
+[00:09:06.000 --> 00:09:11.000]   It's really interesting how they're almost cut from the same cloth.
+[00:09:11.000 --> 00:09:14.000]   So there are other places, and I think we had the mayor here earlier.
+[00:09:14.000 --> 00:09:18.000]   I guess he would claim that Miami's on its way to doing some of that.
+[00:09:18.000 --> 00:09:20.000]   So there are places.
+[00:09:20.000 --> 00:09:26.000]   So I want to tell you about a couple of experiments that are personal to me, that I've been running,
+[00:09:26.000 --> 00:09:31.000]   and hopefully will inspire you to do something on your own.
+[00:09:31.000 --> 00:09:33.000]   Okay.
+[00:09:33.000 --> 00:09:39.000]   The first one is I teach a class at Stanford. It's a startup simulation class.
+[00:09:39.000 --> 00:09:42.000]   You have to, for one sec, forget it's at Stanford.
+[00:09:42.000 --> 00:09:45.000]   I'm actually taking it to other colleges as well.
+[00:09:45.000 --> 00:09:48.000]   It's not your usual class.
+[00:09:48.000 --> 00:09:52.000]   It's actually not your usual class in the sense that I never lecture.
+[00:09:52.000 --> 00:09:56.000]   There is no lecture for me. There's almost no communication for me.
+[00:09:56.000 --> 00:09:59.000]   So I've been teaching this class for six years.
+[00:09:59.000 --> 00:10:01.000]   We will take eight teams.
+[00:10:01.000 --> 00:10:08.000]   These teams have four to five people, and you cannot have a startup when you come to this class.
+[00:10:08.000 --> 00:10:11.000]   In fact, you must be way earlier.
+[00:10:11.000 --> 00:10:14.000]   You only have an idea, or you may have a couple of ideas,
+[00:10:14.000 --> 00:10:19.000]   but if you have something that you've been working on for a while, you're automatically disqualified.
+[00:10:19.000 --> 00:10:24.000]   So everybody that comes in knows very, very little.
+[00:10:24.000 --> 00:10:30.000]   And then what the class is designed to do is to just maximize your peers' interaction,
+[00:10:30.000 --> 00:10:36.000]   because I believe that that's the way that you can create founders.
+[00:10:36.000 --> 00:10:37.000]   So how do we do that?
+[00:10:37.000 --> 00:10:41.000]   First, we're very lucky that I can actually craft the class.
+[00:10:41.000 --> 00:10:45.000]   So even within Stanford, you have to get admitted to this class.
+[00:10:45.000 --> 00:10:50.000]   There's only 20% acceptance, so I'm able to figure out who do we want to get in.
+[00:10:50.000 --> 00:10:56.000]   And then the trick is to force each of the teams to present to each other every week.
+[00:10:56.000 --> 00:11:00.000]   And I know it sounds really simple, but just by doing that,
+[00:11:00.000 --> 00:11:04.000]   you're actually motivating and teaching by example.
+[00:11:04.000 --> 00:11:07.000]   And the results are pretty incredible.
+[00:11:07.000 --> 00:11:12.000]   We actually have one to three companies per year that get started.
+[00:11:12.000 --> 00:11:14.000]   I think we have two unicorns.
+[00:11:14.000 --> 00:11:17.000]   There's $600 million capital raised.
+[00:11:17.000 --> 00:11:24.000]   And I think what's really, really interesting is that every year I'll get some pretty nerdy PhD student
+[00:11:24.000 --> 00:11:26.000]   that goes off to be a successful founder.
+[00:11:26.000 --> 00:11:30.000]   So it's very impressive.
+[00:11:30.000 --> 00:11:33.000]   And this one, which is really interesting,
+[00:11:33.000 --> 00:11:39.000]   when I first started, 20% of the kids were females.
+[00:11:39.000 --> 00:11:43.000]   And I said, "Well, I bet we can shape the class."
+[00:11:43.000 --> 00:11:47.000]   So throughout the years, we've been increasing female enrollment.
+[00:11:47.000 --> 00:11:49.000]   And I can tell you that the results have not changed.
+[00:11:49.000 --> 00:11:52.000]   We actually now have more female-founded companies.
+[00:11:52.000 --> 00:11:54.000]   And this is actually something I care about.
+[00:11:54.000 --> 00:11:56.000]   So I went--
+[00:11:56.000 --> 00:11:57.000]   [applause]
+[00:11:57.000 --> 00:12:02.000]   Thank you.
+[00:12:02.000 --> 00:12:05.000]   Okay, so this takes me to my second experiment,
+[00:12:05.000 --> 00:12:10.000]   which is actually even more successful and has nothing to do with Stanford.
+[00:12:10.000 --> 00:12:12.000]   So there's no Stanford involved.
+[00:12:12.000 --> 00:12:16.000]   Okay, so about a year ago, a year and a half ago,
+[00:12:16.000 --> 00:12:21.000]   I decided, "Let's get a group of women together artificially."
+[00:12:21.000 --> 00:12:23.000]   And again, the same idea.
+[00:12:23.000 --> 00:12:25.000]   These women cannot be founders.
+[00:12:25.000 --> 00:12:29.000]   These are women that are just high potential.
+[00:12:29.000 --> 00:12:33.000]   And we actually have 30 to 40 women per cohort.
+[00:12:33.000 --> 00:12:36.000]   We've done it twice.
+[00:12:36.000 --> 00:12:40.000]   And the goal is like, "Hey, can we teach them about being a founder,
+[00:12:40.000 --> 00:12:44.000]   increase their confidence, their ambition, their risk-taking, etc., etc.?"
+[00:12:44.000 --> 00:12:45.000]   So how do we do it?
+[00:12:45.000 --> 00:12:46.000]   Same thing.
+[00:12:46.000 --> 00:12:48.000]   The first thing is we inspire them with great leaders.
+[00:12:48.000 --> 00:12:53.000]   So we would bring women that are successful in their own right
+[00:12:53.000 --> 00:12:56.000]   to tell them that it is possible to be like them.
+[00:12:56.000 --> 00:13:00.000]   And I think in many occasions we just lack that role model.
+[00:13:00.000 --> 00:13:04.000]   And the next is we force them to connect with each other.
+[00:13:04.000 --> 00:13:08.000]   So sometimes it's talks, sometimes it's fun events or dinners.
+[00:13:08.000 --> 00:13:11.000]   We even had a manicure/pedicure session.
+[00:13:11.000 --> 00:13:14.000]   The point is that can you get them to talk to each other.
+[00:13:14.000 --> 00:13:17.000]   And the results are literally insane.
+[00:13:17.000 --> 00:13:21.000]   So we had 78 women through the process.
+[00:13:21.000 --> 00:13:25.000]   I think they've incorporated 45-plus companies.
+[00:13:25.000 --> 00:13:28.000]   35 of them have raised more than a million dollars.
+[00:13:28.000 --> 00:13:32.000]   And they're backed by people like Sequoia, Andreessen, Paradigm,
+[00:13:32.000 --> 00:13:35.000]   Dragonfly, and of course Pair.
+[00:13:35.000 --> 00:13:37.000]   So it's incredible numbers.
+[00:13:37.000 --> 00:13:42.000]   These are not regular numbers that you would see in a random group of people.
+[00:13:42.000 --> 00:13:47.000]   And I think, again, it's important because I think we have something to say
+[00:13:47.000 --> 00:13:48.000]   about what--
+[00:13:48.000 --> 00:13:50.000]   [applause]
+[00:13:50.000 --> 00:13:51.000]   Thank you.
+[00:13:51.000 --> 00:13:53.000]   About what the next generation looks like.
+[00:13:53.000 --> 00:13:59.000]   I mean, for all of us in the audience, 2% of all companies have an all-female
+[00:13:59.000 --> 00:14:00.000]   founder team.
+[00:14:00.000 --> 00:14:04.000]   That is very crazy if you can do the numbers.
+[00:14:04.000 --> 00:14:10.000]   So I think perhaps Richard Branson said it better.
+[00:14:10.000 --> 00:14:14.000]   Everyone is born an entrepreneur, and everyone has the potential to learn
+[00:14:14.000 --> 00:14:15.000]   to be an entrepreneur.
+[00:14:15.000 --> 00:14:17.000]   It's just that not everyone gets the opportunity.
+[00:14:17.000 --> 00:14:22.000]   So I think my quest is about making those opportunities.
+[00:14:22.000 --> 00:14:28.000]   And I will say that you as an individual have your first responsibility about
+[00:14:28.000 --> 00:14:29.000]   doing that.
+[00:14:29.000 --> 00:14:31.000]   You have to create opportunities for yourself.
+[00:14:31.000 --> 00:14:36.000]   And I would say the most important is to surround yourself by the best people.
+[00:14:36.000 --> 00:14:39.000]   So you have to play up and challenge yourself.
+[00:14:39.000 --> 00:14:45.000]   And sometimes people don't go to places that have the best people because
+[00:14:45.000 --> 00:14:50.000]   they have the worst job at the company, and that's the wrong attitude.
+[00:14:50.000 --> 00:14:53.000]   You should go to wherever the best people are so you can learn,
+[00:14:53.000 --> 00:14:56.000]   you know, transform yourself.
+[00:14:56.000 --> 00:15:01.000]   I have two very practical pieces of advice that I give my founders.
+[00:15:01.000 --> 00:15:04.000]   First, this is very simple, but you can actually read.
+[00:15:04.000 --> 00:15:06.000]   You can read a lot.
+[00:15:06.000 --> 00:15:10.000]   One of my founders, Asa Drew, who's the founder of Dropbox, how he became a
+[00:15:10.000 --> 00:15:13.000]   great CEO, and he said, "I read a lot."
+[00:15:13.000 --> 00:15:18.000]   But then I have actually gone and looked at our top 10% of our portfolio,
+[00:15:18.000 --> 00:15:21.000]   and there's one thing those CEOs have in common.
+[00:15:21.000 --> 00:15:23.000]   They are reading machines.
+[00:15:23.000 --> 00:15:29.000]   So I don't know if reading will make you a great CEO, but I know it won't hurt you.
+[00:15:29.000 --> 00:15:32.000]   And the second one is get a coach.
+[00:15:32.000 --> 00:15:34.000]   I say even Steve Jobs had a coach.
+[00:15:34.000 --> 00:15:37.000]   If you don't have money to get a coach, get a peer group because, again,
+[00:15:37.000 --> 00:15:40.000]   it's about character building.
+[00:15:40.000 --> 00:15:45.000]   And I think what investors can do, so if you're an investor in the room,
+[00:15:45.000 --> 00:15:50.000]   I know it's a very ego-high business, but it is not about us, you know.
+[00:15:50.000 --> 00:15:52.000]   We are not the ones who make the companies.
+[00:15:52.000 --> 00:15:58.000]   I think our role is to create opportunities for our founders to grow,
+[00:15:58.000 --> 00:16:01.000]   and that actually will help the portfolio.
+[00:16:01.000 --> 00:16:06.000]   And I think for society, perhaps we should have an early intervention program,
+[00:16:06.000 --> 00:16:08.000]   much like a gifted program in schools.
+[00:16:08.000 --> 00:16:12.000]   If you detect that there are kids that have that gene in them,
+[00:16:12.000 --> 00:16:16.000]   why not pull them aside and create an early intervention program?
+[00:16:16.000 --> 00:16:19.000]   And I'll give you an analogy which you'll understand.
+[00:16:19.000 --> 00:16:21.000]   I'm from Barcelona, Spain.
+[00:16:21.000 --> 00:16:23.000]   My fellow countrywoman is Montserrat Caballé.
+[00:16:23.000 --> 00:16:25.000]   She was a great opera singer.
+[00:16:25.000 --> 00:16:30.000]   And, of course, today probably I'm too old to become a great opera singer,
+[00:16:30.000 --> 00:16:34.000]   but perhaps I would have had some chance, right,
+[00:16:34.000 --> 00:16:39.000]   maybe to just sing opera in the bathroom at some point if I had been taught early on.
+[00:16:39.000 --> 00:16:41.000]   So that's the thought.
+[00:16:41.000 --> 00:16:45.000]   And, you know, just imagine a world where you can actually increase the total founder potential
+[00:16:45.000 --> 00:16:50.000]   by just 10% or even shape who becomes to be a founder.
+[00:16:50.000 --> 00:16:54.000]   So with that, I guess I'll go to the Q&A.
+[00:16:54.000 --> 00:16:57.000]   Wow.
+[00:16:57.000 --> 00:16:58.000]   Awesome.
+[00:16:58.000 --> 00:17:04.000]   Thank you.
+[00:17:04.000 --> 00:17:05.000]   In the middle?
+[00:17:05.000 --> 00:17:06.000]   You're in the middle.
+[00:17:06.000 --> 00:17:07.000]   That's amazing.
+[00:17:07.000 --> 00:17:08.000]   What a great talk.
+[00:17:08.000 --> 00:17:09.000]   That's amazing.
+[00:17:09.000 --> 00:17:12.000]   This is very intimidating.
+[00:17:12.000 --> 00:17:15.000]   I know, but somehow the four of us are going to get through it.
+[00:17:15.000 --> 00:17:16.000]   It was an incredible talk.
+[00:17:16.000 --> 00:17:18.000]   Somehow.
+[00:17:18.000 --> 00:17:23.000]   God, you're good.
+[00:17:23.000 --> 00:17:27.000]   I have to say, you know, we're watching the talk backstage
+[00:17:27.000 --> 00:17:30.000]   and the nodding that we were each having,
+[00:17:30.000 --> 00:17:33.000]   and, you know, collectively we've invested in, you know,
+[00:17:33.000 --> 00:17:36.000]   I would say closer to 1,000 companies now,
+[00:17:36.000 --> 00:17:42.000]   and we're nodding, and thank you for putting my blog post up there from years ago.
+[00:17:42.000 --> 00:17:47.000]   You don't have what it takes, and I just realized, you know, wow.
+[00:17:47.000 --> 00:17:52.000]   One of the fundamental problems we have, and I think having David here from the PayPal mafia speaks volumes,
+[00:17:52.000 --> 00:18:02.000]   one of the fundamental problems in entrepreneurship is that you pointed out is people have to see it in order to be it.
+[00:18:02.000 --> 00:18:08.000]   And, you know, when you look at what happened at PayPal, and I'm really interested in hearing David's perspective on this,
+[00:18:08.000 --> 00:18:14.000]   they got to see each other at Stanford, and 40% of the speakers have been to Stanford here at this event.
+[00:18:14.000 --> 00:18:15.000]   I didn't even know that.
+[00:18:15.000 --> 00:18:17.000]   Thank you for doing that statistic.
+[00:18:17.000 --> 00:18:22.000]   But it seems like the fundamental problem we have in society, you can expand this,
+[00:18:22.000 --> 00:18:24.000]   and then we were talking about how the mayor being on before.
+[00:18:24.000 --> 00:18:25.000]   Are you getting to a question?
+[00:18:25.000 --> 00:18:26.000]   Yeah.
+[00:18:26.000 --> 00:18:29.000]   And the rest of us have questions.
+[00:18:29.000 --> 00:18:31.000]   But this is the fundamental problem.
+[00:18:31.000 --> 00:18:41.000]   We need people to understand that entrepreneurship and opportunity in this country is available to 100% of the people here.
+[00:18:41.000 --> 00:18:47.000]   They have that opportunity, but because they don't see someone like themselves, a woman, a person of color,
+[00:18:47.000 --> 00:18:52.000]   a person of--a woman who is a person of color, et cetera, et cetera, et cetera, they need to see it to be it.
+[00:18:52.000 --> 00:18:54.000]   That's the problem, isn't it?
+[00:18:54.000 --> 00:18:56.000]   Well, you summarized it really well.
+[00:18:56.000 --> 00:18:58.000]   And I'll ask you to do the talk next time.
+[00:18:58.000 --> 00:18:59.000]   Well, I listened.
+[00:18:59.000 --> 00:19:00.000]   I listened to it.
+[00:19:00.000 --> 00:19:01.000]   Yes.
+[00:19:01.000 --> 00:19:04.000]   When you started this program, what was your goal?
+[00:19:04.000 --> 00:19:06.000]   What did you think was going to happen?
+[00:19:06.000 --> 00:19:12.000]   Honestly, I didn't think it was going to be--I didn't think that conclusion was going to be as big, right?
+[00:19:12.000 --> 00:19:16.000]   I mean, if you get 20% of women to start a business, that would have been amazing.
+[00:19:16.000 --> 00:19:22.000]   But we're getting almost, I would say, 60% of them or 70% of them are going off and starting a business.
+[00:19:22.000 --> 00:19:23.000]   It's crazy.
+[00:19:23.000 --> 00:19:28.000]   I mean, when you take both of those two programs together, the results are pretty--
+[00:19:28.000 --> 00:19:29.000]   Crazy.
+[00:19:29.000 --> 00:19:30.000]   --pretty crazy.
+[00:19:30.000 --> 00:19:31.000]   Yes.
+[00:19:31.000 --> 00:19:36.000]   So, okay, take it out of the Stanford context for a second.
+[00:19:36.000 --> 00:19:39.000]   How do people--I'll pick a city.
+[00:19:39.000 --> 00:19:42.000]   You're in Cincinnati.
+[00:19:42.000 --> 00:19:49.000]   What does it mean to have a peer group and a network that can create or catalyze like a PayPal-like mafia there?
+[00:19:49.000 --> 00:19:55.000]   Or even if it's in Miami or in LA or wherever you are, that seems like a really hard--
+[00:19:55.000 --> 00:19:57.000]   It's a really hard problem.
+[00:19:57.000 --> 00:20:00.000]   So, luckily, I'm young enough that I'll be able to iterate.
+[00:20:00.000 --> 00:20:03.000]   But Zoom may make that a little bit easier, too, right?
+[00:20:03.000 --> 00:20:04.000]   It might.
+[00:20:04.000 --> 00:20:09.000]   I think you need that--it's not just enough to get a bunch of people together, right?
+[00:20:09.000 --> 00:20:11.000]   You have to see it the right way.
+[00:20:11.000 --> 00:20:17.000]   So that's why I said, you know, even for the female program, we'll get hundreds of applications,
+[00:20:17.000 --> 00:20:21.000]   and we have to go and interview everybody and see who can have high potential, right?
+[00:20:21.000 --> 00:20:27.000]   So, again, there's a little bit on the choosing of who goes into that program, and then you can shape them.
+[00:20:27.000 --> 00:20:29.000]   So, again, it's that curve.
+[00:20:29.000 --> 00:20:33.000]   If you are too far to the left, then your job is really, really high.
+[00:20:33.000 --> 00:20:39.000]   I used to probably once a week read Business Insider or Insider.
+[00:20:39.000 --> 00:20:44.000]   And then I stopped about seven months ago or--no, maybe like in the last few months.
+[00:20:44.000 --> 00:20:45.000]   And I'll tell you why I stopped.
+[00:20:45.000 --> 00:20:47.000]   It was for two reasons.
+[00:20:47.000 --> 00:20:53.000]   There was this article that they kept running basically bashing the founder of Glossier.
+[00:20:53.000 --> 00:20:58.000]   And to me, it just didn't make any sense because it's like there are lots of people who, you know,
+[00:20:58.000 --> 00:21:00.000]   go through trials and tribulations at startups.
+[00:21:00.000 --> 00:21:03.000]   And when you read about her journey, it didn't seem particularly different than anybody else.
+[00:21:03.000 --> 00:21:07.000]   You try a product, some of them work, some of them fail, and you learn and you move on.
+[00:21:07.000 --> 00:21:11.000]   But they would run it, and they were just hammering, hammering, hammering.
+[00:21:11.000 --> 00:21:13.000]   They did it with the OA founder, too.
+[00:21:13.000 --> 00:21:14.000]   There's a term--
+[00:21:14.000 --> 00:21:15.000]   OA luggage thing, which was the craziest story.
+[00:21:15.000 --> 00:21:16.000]   Unbelievable.
+[00:21:16.000 --> 00:21:18.000]   I read that story, and I was like, "What did she do wrong?
+[00:21:18.000 --> 00:21:20.000]   I never really understood what she did."
+[00:21:20.000 --> 00:21:21.000]   She tells everybody, "Work harder."
+[00:21:21.000 --> 00:21:22.000]   Yeah, she was like, "Work harder.
+[00:21:22.000 --> 00:21:23.000]   Let's make this company a success."
+[00:21:23.000 --> 00:21:24.000]   One of my partners says that I give them a raise.
+[00:21:24.000 --> 00:21:25.000]   Yeah.
+[00:21:25.000 --> 00:21:26.000]   Well, I mean, I think--
+[00:21:26.000 --> 00:21:27.000]   [laughter]
+[00:21:27.000 --> 00:21:28.000]   Can I give you more equity?
+[00:21:28.000 --> 00:21:29.000]   Yeah.
+[00:21:29.000 --> 00:21:31.000]   Well, I think honestly that happens even to me.
+[00:21:31.000 --> 00:21:32.000]   I mean, I'm bored meetings.
+[00:21:32.000 --> 00:21:34.000]   I look, you know, I'm not an asshole.
+[00:21:34.000 --> 00:21:35.000]   I'm a bitch, right?
+[00:21:35.000 --> 00:21:38.000]   That's the summary of the situation.
+[00:21:38.000 --> 00:21:39.000]   Welcome to the club.
+[00:21:39.000 --> 00:21:40.000]   We're assholes.
+[00:21:40.000 --> 00:21:41.000]   Well, I'm not.
+[00:21:41.000 --> 00:21:42.000]   I'm a bitch.
+[00:21:42.000 --> 00:21:43.000]   [laughter]
+[00:21:43.000 --> 00:21:46.000]   Anyway, so that's why I stopped reading it, because I was like, "This is really ridiculous,
+[00:21:46.000 --> 00:21:48.000]   because what is it telling people?"
+[00:21:48.000 --> 00:21:52.000]   And then separately, they kept running this ad promoting this company called Cerebral,
+[00:21:52.000 --> 00:21:57.000]   which last week got a DOJ subpoena for selling Adderall illegally to people.
+[00:21:57.000 --> 00:22:02.000]   And so it's like, this is the imbalance that you see when things are presented that don't
+[00:22:02.000 --> 00:22:03.000]   really make a lot of sense to people.
+[00:22:03.000 --> 00:22:05.000]   There is a term for it in the industry.
+[00:22:05.000 --> 00:22:06.000]   I didn't come up with the term.
+[00:22:06.000 --> 00:22:07.000]   Chicks for clicks.
+[00:22:07.000 --> 00:22:09.000]   And so they will look for a female founder--
+[00:22:09.000 --> 00:22:10.000]   What is it called?
+[00:22:10.000 --> 00:22:11.000]   And know chicks for clicks.
+[00:22:11.000 --> 00:22:12.000]   Chicks for clicks?
+[00:22:12.000 --> 00:22:15.000]   Chicks, as in a word for females.
+[00:22:15.000 --> 00:22:16.000]   Chicks for clicks.
+[00:22:16.000 --> 00:22:17.000]   They're all trying to get clicks.
+[00:22:17.000 --> 00:22:21.000]   If you go after a female founder, you're going to get 10 times as many clicks.
+[00:22:21.000 --> 00:22:22.000]   Oh, really?
+[00:22:22.000 --> 00:22:23.000]   Yeah.
+[00:22:23.000 --> 00:22:24.000]   It's just more exciting.
+[00:22:24.000 --> 00:22:25.000]   Of course.
+[00:22:25.000 --> 00:22:27.000]   The Theranos story, I think, was such a great example of that.
+[00:22:27.000 --> 00:22:29.000]   It was like a failed biotech company.
+[00:22:29.000 --> 00:22:32.000]   I'm not saying that there wasn't fraud and stuff that happened there, but man, I mean,
+[00:22:32.000 --> 00:22:35.000]   the way that that escalated, the storyline.
+[00:22:35.000 --> 00:22:36.000]   Yeah, it was--
+[00:22:36.000 --> 00:22:37.000]   I noticed as well.
+[00:22:37.000 --> 00:22:41.000]   I mean, it's a founder plus a female founder.
+[00:22:41.000 --> 00:22:45.000]   A founder misbehaving, quote unquote, plus a female founder just equals a little more.
+[00:22:45.000 --> 00:22:50.000]   Even the wife of the founder of WeWork is more famous in some circles.
+[00:22:50.000 --> 00:22:51.000]   She seemed more talented.
+[00:22:51.000 --> 00:23:00.000]   I'm curious what your questions are for David about the magical moment of the PayPal mafia.
+[00:23:00.000 --> 00:23:02.000]   Yeah, what was the secret sauce?
+[00:23:02.000 --> 00:23:05.000]   Being the 17th most important guy at PayPal.
+[00:23:05.000 --> 00:23:07.000]   Hey, hey, hey, he's now the ninth.
+[00:23:07.000 --> 00:23:08.000]   He's moving up.
+[00:23:08.000 --> 00:23:10.000]   No, he was clearly the fifth or sixth.
+[00:23:10.000 --> 00:23:12.000]   You tried that joke already during your intros.
+[00:23:12.000 --> 00:23:14.000]   It didn't work.
+[00:23:14.000 --> 00:23:17.000]   Don't try and resuscitate it now.
+[00:23:17.000 --> 00:23:19.000]   You had your chance on the pod.
+[00:23:19.000 --> 00:23:20.000]   That was brutal.
+[00:23:20.000 --> 00:23:21.000]   I know, I felt it.
+[00:23:21.000 --> 00:23:22.000]   No reuse of the same joke.
+[00:23:22.000 --> 00:23:24.000]   I apologize to the entire fan base for Freeberg's intros.
+[00:23:24.000 --> 00:23:25.000]   Come on.
+[00:23:25.000 --> 00:23:26.000]   Come on.
+[00:23:26.000 --> 00:23:27.000]   Look, I'll tell you something.
+[00:23:27.000 --> 00:23:32.000]   Every guy on this stage, no one will ever tell them what I said because everyone works
+[00:23:32.000 --> 00:23:33.000]   for him or wants money from him.
+[00:23:33.000 --> 00:23:35.000]   We can only do it to each other.
+[00:23:35.000 --> 00:23:38.000]   We can only do it to each other.
+[00:23:38.000 --> 00:23:40.000]   All right, what about this?
+[00:23:40.000 --> 00:23:45.000]   The answer is that at PayPal, we recruited our friends to work at the company because
+[00:23:45.000 --> 00:23:50.000]   literally nobody else was willing to come work at this crazy startup.
+[00:23:50.000 --> 00:23:53.000]   Peter recruited his friends who he had gone to college with at Stanford.
+[00:23:53.000 --> 00:23:56.000]   Max recruited his friends from U of I.
+[00:23:56.000 --> 00:24:00.000]   That's how the initial team was recruited is through friendship networks, but it wasn't
+[00:24:00.000 --> 00:24:02.000]   like this was some exclusive club.
+[00:24:02.000 --> 00:24:05.000]   It's just that nobody else wanted to be a member.
+[00:24:05.000 --> 00:24:12.000]   Sorry, can I just say at Facebook early days, it was exactly like that as well.
+[00:24:12.000 --> 00:24:17.000]   We had really qualified people from great schools, but it would not be the people that
+[00:24:17.000 --> 00:24:18.000]   you would have thought.
+[00:24:18.000 --> 00:24:23.000]   It's like the folks that spun out of Microsoft, couldn't succeed, and all of a sudden we were
+[00:24:23.000 --> 00:24:26.000]   like, "Oh," or like, "Boz used to teach Zuck CS."
+[00:24:26.000 --> 00:24:28.000]   It's like, "Yeah, why don't you just come in as the TA of the class?"
+[00:24:28.000 --> 00:24:30.000]   It was very ragtag.
+[00:24:30.000 --> 00:24:34.000]   Did the trust make everyone, because they all knew each other from before, did the trust
+[00:24:34.000 --> 00:24:39.000]   give everyone a stronger sense of being vulnerable and then developing themselves better?
+[00:24:39.000 --> 00:24:40.000]   Because I do see a lot of these-
+[00:24:40.000 --> 00:24:41.000]   Vulnerable.
+[00:24:41.000 --> 00:24:44.000]   Whoa, I mean, I see a lot of these companies and everyone's all ... It's like you see early
+[00:24:44.000 --> 00:24:47.000]   stage companies and it's very political, who's going to last, who's not, because you don't
+[00:24:47.000 --> 00:24:48.000]   really trust each other.
+[00:24:48.000 --> 00:24:49.000]   You never work together.
+[00:24:49.000 --> 00:24:50.000]   You don't know each other.
+[00:24:50.000 --> 00:24:56.000]   Yeah, what I would say is that you would think that the friendships would make it this sort
+[00:24:56.000 --> 00:24:58.000]   of calm, friendly environment.
+[00:24:58.000 --> 00:25:03.000]   PayPal was actually a very frictional, contentious environment.
+[00:25:03.000 --> 00:25:09.000]   But I do think there is a trust element to it, which is we were constantly debating what
+[00:25:09.000 --> 00:25:14.000]   the truth was and what we needed to do and what the big risks to the business were.
+[00:25:14.000 --> 00:25:15.000]   And so we were yelling.
+[00:25:15.000 --> 00:25:19.000]   In fact, Peter, when he hired me, he told some of the other people on the team, "Look,
+[00:25:19.000 --> 00:25:23.000]   I want to hire David because I need someone here who I can yell at."
+[00:25:23.000 --> 00:25:26.000]   Meaning, he didn't have to worry about hurting my feelings.
+[00:25:26.000 --> 00:25:31.000]   He could just say what he really thought and we could have an open conversation about what
+[00:25:31.000 --> 00:25:33.000]   we need to do as a company, even if it meant yelling.
+[00:25:33.000 --> 00:25:35.000]   So was it a culture of brutal honesty?
+[00:25:35.000 --> 00:25:36.000]   Yes, absolutely.
+[00:25:36.000 --> 00:25:38.000]   That's what Vinod talks about a lot, right?
+[00:25:38.000 --> 00:25:39.000]   Yeah.
+[00:25:39.000 --> 00:25:41.000]   Can I ask you guys a question more, David?
+[00:25:41.000 --> 00:25:42.000]   You use Rappi.
+[00:25:42.000 --> 00:25:46.000]   So the last time I was here in Miami was to meet the Rappi founders and I spent a couple
+[00:25:46.000 --> 00:25:47.000]   of days with them.
+[00:25:47.000 --> 00:25:50.000]   And I came away stunned, kind of like what you said.
+[00:25:50.000 --> 00:25:54.000]   I didn't realize it was that extensive, but there's a really special culture there.
+[00:25:54.000 --> 00:25:55.000]   Yes.
+[00:25:55.000 --> 00:25:56.000]   And PayPal obviously had that as well.
+[00:25:56.000 --> 00:26:01.000]   But do you guys, and don't take this the wrong way, but do you have to have somewhat more
+[00:26:01.000 --> 00:26:05.000]   of a bounded outcome for then these networks to really explode?
+[00:26:05.000 --> 00:26:11.000]   Meaning, if you look at a Google or a Facebook or even a Microsoft, when companies become
+[00:26:11.000 --> 00:26:17.000]   almost too successful, it almost just locks these folks in and the incentive to go off
+[00:26:17.000 --> 00:26:22.000]   with that toolkit, the peer network, goes to zero because you're just too incentivized.
+[00:26:22.000 --> 00:26:24.000]   That's an interesting evolutionary trait, right?
+[00:26:24.000 --> 00:26:26.000]   Or people make so much money that they just retire.
+[00:26:26.000 --> 00:26:28.000]   I actually think you're totally right.
+[00:26:28.000 --> 00:26:31.000]   The companies that they come from have to be a little hard.
+[00:26:31.000 --> 00:26:33.000]   I don't think PayPal was easy, right?
+[00:26:33.000 --> 00:26:35.000]   No, it's super hard.
+[00:26:35.000 --> 00:26:40.000]   And when it's hard, you learn to overcome hard things.
+[00:26:40.000 --> 00:26:42.000]   And the whole company learns if there's brutal honesty, right?
+[00:26:42.000 --> 00:26:46.000]   If it's hidden at the top and you think it's all right, nobody learns.
+[00:26:46.000 --> 00:26:48.000]   But if you do, you do.
+[00:26:48.000 --> 00:26:53.000]   And actually, I think the rate of success of people that came out of Google, relatively
+[00:26:53.000 --> 00:26:54.000]   speaking, is not that high.
+[00:26:54.000 --> 00:26:55.000]   Not that high?
+[00:26:55.000 --> 00:26:57.000]   It's not that high because everything works.
+[00:26:57.000 --> 00:26:58.000]   And everything is easy.
+[00:26:58.000 --> 00:26:59.000]   No offense, Freeberg.
+[00:26:59.000 --> 00:27:00.000]   Everything is easy.
+[00:27:00.000 --> 00:27:01.000]   But no, Freeberg, you run...
+[00:27:01.000 --> 00:27:02.000]   Well, he's a Gucci.
+[00:27:02.000 --> 00:27:03.000]   Yeah, you're right.
+[00:27:03.000 --> 00:27:04.000]   Sorry.
+[00:27:04.000 --> 00:27:08.000]   But you're saying the Google people, more to be clear, got very soft because it was
+[00:27:08.000 --> 00:27:09.000]   too easy.
+[00:27:09.000 --> 00:27:10.000]   They just never learned.
+[00:27:10.000 --> 00:27:11.000]   They never learned.
+[00:27:11.000 --> 00:27:12.000]   They never learned anything.
+[00:27:12.000 --> 00:27:13.000]   Like Freeberg.
+[00:27:13.000 --> 00:27:14.000]   They never learned.
+[00:27:14.000 --> 00:27:15.000]   I can overcome quinoa.
+[00:27:15.000 --> 00:27:16.000]   Right.
+[00:27:16.000 --> 00:27:17.000]   This is actually interesting.
+[00:27:17.000 --> 00:27:23.840]   There were more unicorns founded by ex-PayPal people than ex-Google people, even though
+[00:27:23.840 --> 00:27:30.200]   at sort of the PayPal mafia, if you define it as the pre-IPO group of people who worked
+[00:27:30.200 --> 00:27:35.680]   at PayPal, there were only a couple of hundred in the Bay Area, whereas Google had like 10,000.
+[00:27:35.680 --> 00:27:42.120]   So my theory on this, having observed it, the early days of Google, the organization
+[00:27:42.120 --> 00:27:43.120]   grew.
+[00:27:43.120 --> 00:27:45.240]   The success of the company was exponential, out of the fucking gate.
+[00:27:45.240 --> 00:27:49.720]   I mean, like more than most companies we talk about nowadays.
+[00:27:49.720 --> 00:27:52.360]   And as a result, all of the success was baked in.
+[00:27:52.360 --> 00:27:55.360]   The monopoly machine started rolling right away.
+[00:27:55.360 --> 00:27:59.160]   So then the hires started being safer hires, people that could be more analytical, people
+[00:27:59.160 --> 00:28:02.360]   that could be more execution-oriented, not risk-takers.
+[00:28:02.360 --> 00:28:04.560]   And so a lot of people were hired, and I forgive...
+[00:28:04.560 --> 00:28:09.800]   I went to Cal, but forgive me for saying, but all the Stanford people who basically
+[00:28:09.800 --> 00:28:14.120]   had always done really well on their SATs, got great grades, they'd always been successful.
+[00:28:14.120 --> 00:28:17.960]   They'd always kind of been given that thumbs up, "You're awesome, you're smart, come here
+[00:28:17.960 --> 00:28:18.960]   and do this job."
+[00:28:18.960 --> 00:28:20.040]   They weren't the risk-takers.
+[00:28:20.040 --> 00:28:23.260]   They weren't the people who were willing to take risk to fail.
+[00:28:23.260 --> 00:28:27.560]   And so the orientation was build a culture of people that just didn't take a lot of risk,
+[00:28:27.560 --> 00:28:28.560]   executed.
+[00:28:28.560 --> 00:28:32.160]   And then those people, they had this false sense of entrepreneurial success by working
+[00:28:32.160 --> 00:28:34.640]   at Google, 'cause they were already on a rocket ship.
+[00:28:34.640 --> 00:28:37.320]   Then a bunch of them left and tried to start companies, and they're like, "Oh yeah, you
+[00:28:37.320 --> 00:28:39.560]   just build an app and 100 million people use it."
+[00:28:39.560 --> 00:28:43.280]   It's like, dude, failure, failure, failure, failure, failure, failure, failure.
+[00:28:43.280 --> 00:28:46.600]   By the way, if you make it to 87 failures, then you'll have your moment of success, and
+[00:28:46.600 --> 00:28:48.920]   none of them make it past .30.
+[00:28:48.920 --> 00:28:52.440]   And so I think my observation was so many Google people I knew that left and started
+[00:28:52.440 --> 00:28:56.040]   companies, they either weren't risk-takers or they didn't have the grit and persistence
+[00:28:56.040 --> 00:28:58.320]   needed to go through the failure to get there.
+[00:28:58.320 --> 00:29:02.680]   And it was because that culture was defined by early success, and then everyone that joined
+[00:29:02.680 --> 00:29:04.560]   was just execution operations oriented.
+[00:29:04.560 --> 00:29:05.560]   - 100%.
+[00:29:05.560 --> 00:29:06.560]   - Yeah.
+[00:29:06.560 --> 00:29:09.520]   - You mentioned something, maybe you can just speak a little bit more about it, but we used
+[00:29:09.520 --> 00:29:13.600]   to do these things, which you talked about, where every week you would force people basically
+[00:29:13.600 --> 00:29:15.080]   to present.
+[00:29:15.080 --> 00:29:19.740]   And what you're almost doing, and I think what we learned was you're desensitizing people
+[00:29:19.740 --> 00:29:21.200]   to failure itself.
+[00:29:21.200 --> 00:29:25.800]   And it just becomes a nothing burger because you're just seeing this litany of just randomly
+[00:29:25.800 --> 00:29:29.360]   bad ideas almost.
+[00:29:29.360 --> 00:29:33.360]   But that's what becomes so powerful because then these random little things just become
+[00:29:33.360 --> 00:29:34.360]   enormous.
+[00:29:34.360 --> 00:29:35.360]   - They shape you.
+[00:29:35.360 --> 00:29:36.360]   - They shape you.
+[00:29:36.360 --> 00:29:37.360]   - Yes.
+[00:29:37.360 --> 00:29:38.360]   - And you get very, very lucky.
+[00:29:38.360 --> 00:29:41.560]   I remember when at Facebook I created this thing called Growth Circle.
+[00:29:41.560 --> 00:29:46.160]   We used to run thousands of experiments a week, and we used to have folks present every
+[00:29:46.160 --> 00:29:50.320]   week, and it was just three hours of monotonous failure.
+[00:29:50.320 --> 00:29:51.320]   Right?
+[00:29:51.320 --> 00:29:53.840]   It was just after another, after another.
+[00:29:53.840 --> 00:29:59.200]   But I think what it really did was allow people to feel okay trying the crazy idea because
+[00:29:59.200 --> 00:30:02.520]   they would see the 15 people in front of them wouldn't do it.
+[00:30:02.520 --> 00:30:03.520]   - Totally.
+[00:30:03.520 --> 00:30:04.520]   - So was that the key?
+[00:30:04.520 --> 00:30:05.520]   Is that really the key?
+[00:30:05.520 --> 00:30:06.520]   - That is the key.
+[00:30:06.520 --> 00:30:07.520]   That is actually the key.
+[00:30:07.520 --> 00:30:08.520]   It makes a huge difference, right?
+[00:30:08.520 --> 00:30:09.520]   If you hear every...
+[00:30:09.520 --> 00:30:10.520]   - Yeah.
+[00:30:10.520 --> 00:30:12.320]   - And they also inspire you.
+[00:30:12.320 --> 00:30:16.960]   Whoever is actually doing great, you're like, "I don't want to be the last person the next
+[00:30:16.960 --> 00:30:18.240]   week when I have to present.
+[00:30:18.240 --> 00:30:21.480]   I want to be better than the person that presented last week and did great."
+[00:30:21.480 --> 00:30:22.680]   So it motivates you.
+[00:30:22.680 --> 00:30:28.520]   - But how do you get people that are those high SAT, overachiever types to be okay?
+[00:30:28.520 --> 00:30:31.400]   - Yeah, you have to put them in a position.
+[00:30:31.400 --> 00:30:35.960]   So I'll tell you like one, for example, in the class, one exercise you can tell people
+[00:30:35.960 --> 00:30:37.720]   towards the end.
+[00:30:37.720 --> 00:30:42.320]   It's like they're all having some startup or have some users or whatever.
+[00:30:42.320 --> 00:30:43.320]   They don't have a startup.
+[00:30:43.320 --> 00:30:44.320]   They have a project.
+[00:30:44.320 --> 00:30:47.680]   I'll say, "Okay, your homework for next week is to 10X your sales.
+[00:30:47.680 --> 00:30:50.400]   You have one week to do it."
+[00:30:50.400 --> 00:30:55.520]   People get really, really creative when you actually tell them that.
+[00:30:55.520 --> 00:31:00.040]   Maybe they don't get to 10, but they'll get to two or three in a week.
+[00:31:00.040 --> 00:31:03.680]   I think that inspiration is enough for people to make the best of themselves.
+[00:31:03.680 --> 00:31:05.800]   I think great leaders do that, right?
+[00:31:05.800 --> 00:31:09.560]   They ask for more than you think you're capable, people are capable.
+[00:31:09.560 --> 00:31:10.560]   - What about learning failure?
+[00:31:10.560 --> 00:31:12.920]   We were talking about this on the...
+[00:31:12.920 --> 00:31:19.000]   Yesterday, we were having a conversation about how do we make sure that our kids grow up
+[00:31:19.000 --> 00:31:21.320]   and learn failure like we all learned?
+[00:31:21.320 --> 00:31:27.920]   And failure ultimately, I think, and persistent failure, I think really taught me a lot about
+[00:31:27.920 --> 00:31:30.960]   putting up with failure, knowing that as long as you're doing the right thing, you'll get
+[00:31:30.960 --> 00:31:33.480]   there probabilistically.
+[00:31:33.480 --> 00:31:34.640]   How do you teach that?
+[00:31:34.640 --> 00:31:39.320]   Because folks, especially in an environment where they've always been successful, and
+[00:31:39.320 --> 00:31:40.960]   how do you keep them from saying, "You know what?
+[00:31:40.960 --> 00:31:41.960]   I don't want to fail.
+[00:31:41.960 --> 00:31:44.240]   I want to succeed because my orientation is to succeed."
+[00:31:44.240 --> 00:31:47.480]   So when they start to fail, they run and they go do something easy, which they can't succeed
+[00:31:47.480 --> 00:31:48.480]   at.
+[00:31:48.480 --> 00:31:49.480]   - Totally.
+[00:31:49.480 --> 00:31:50.480]   And actually, at Stanford specifically, right?
+[00:31:50.480 --> 00:31:51.480]   - Yeah, exactly.
+[00:31:51.480 --> 00:31:52.480]   - If you made it to Stanford as an undergrad.
+[00:31:52.480 --> 00:31:53.480]   - Not to keep that from Stanford, but yeah.
+[00:31:53.480 --> 00:31:54.480]   - No, yeah.
+[00:31:54.480 --> 00:31:55.480]   I'm a little bit upset.
+[00:31:55.480 --> 00:31:57.360]   - I went to California, too.
+[00:31:57.360 --> 00:31:58.360]   - But you are very...
+[00:31:58.360 --> 00:32:00.840]   I mean, you've been an incredible student.
+[00:32:00.840 --> 00:32:06.920]   You probably cured cancer or something if you got into Stanford today, right?
+[00:32:06.920 --> 00:32:08.320]   They've never really failed at life.
+[00:32:08.320 --> 00:32:16.000]   This is an 18-year-old that has never suffered failure, at least as we understand it.
+[00:32:16.000 --> 00:32:17.160]   You have to put them...
+[00:32:17.160 --> 00:32:21.520]   You have to learn each of the students, what is their weak point, and make them actually
+[00:32:21.520 --> 00:32:22.520]   do that, right?
+[00:32:22.520 --> 00:32:24.160]   So one of the things I will do...
+[00:32:24.160 --> 00:32:25.160]   - To reduce failure.
+[00:32:25.160 --> 00:32:26.160]   - Yeah.
+[00:32:26.160 --> 00:32:28.480]   You provoke failure as quickly as you can.
+[00:32:28.480 --> 00:32:35.800]   So if you're a typical computer science student, you probably can create an app.
+[00:32:35.800 --> 00:32:40.200]   Well, these days, within an hour, you'll have something great, right?
+[00:32:40.200 --> 00:32:43.480]   Try to get 1,000 users without spending a single dollar.
+[00:32:43.480 --> 00:32:44.480]   - Let them fail.
+[00:32:44.480 --> 00:32:45.480]   - Can you do it?
+[00:32:45.480 --> 00:32:46.480]   - Yeah.
+[00:32:46.480 --> 00:32:47.480]   - It's hard.
+[00:32:47.480 --> 00:32:48.480]   - Yeah.
+[00:32:48.480 --> 00:32:49.480]   And then do it again.
+[00:32:49.480 --> 00:32:52.200]   - And some of them, the mental health problem is very high, right?
+[00:32:52.200 --> 00:32:55.320]   I think a lot of these people, the first time they fail, they can't take it.
+[00:32:55.320 --> 00:32:57.040]   Let me ask you one more, because my...
+[00:32:57.040 --> 00:33:02.640]   I'm sorry, Jacob, but my big three predictors of entrepreneurial success are grit, persisting
+[00:33:02.640 --> 00:33:06.360]   through failure, bias to action, like you don't have an orientation to being analytical,
+[00:33:06.360 --> 00:33:11.280]   you have an orientation to taking action, and a narrative.
+[00:33:11.280 --> 00:33:14.840]   Because I think that the greatest entrepreneurs that we all know, Elon's obviously the penultimate
+[00:33:14.840 --> 00:33:15.840]   example.
+[00:33:15.840 --> 00:33:17.840]   Someone told me I used that word wrong, so I won't use it.
+[00:33:17.840 --> 00:33:19.000]   - Yeah, penultimate means second.
+[00:33:19.000 --> 00:33:20.000]   - Ultimate.
+[00:33:20.000 --> 00:33:22.360]   - Ultimate is what you're going for.
+[00:33:22.360 --> 00:33:25.840]   - I feel like you're wrong on that, but I'll accept it.
+[00:33:25.840 --> 00:33:28.840]   - It may be the quinoa getting to your brain, but go ahead.
+[00:33:28.840 --> 00:33:30.200]   You may want some protein.
+[00:33:30.200 --> 00:33:32.640]   - He had the ultimate definition, you had the penultimate definition.
+[00:33:32.640 --> 00:33:34.400]   - I see, he more like mink steaks.
+[00:33:34.400 --> 00:33:37.720]   So how does narrative get learned?
+[00:33:37.720 --> 00:33:41.400]   Because we've seen that the best entrepreneurs are incredible storytellers.
+[00:33:41.400 --> 00:33:45.840]   They tell the story and they tell the vision before it's built as a way of attracting the
+[00:33:45.840 --> 00:33:50.120]   best talent, and then as a way of attracting the capital, and then as a way of attracting
+[00:33:50.120 --> 00:33:51.120]   customers.
+[00:33:51.120 --> 00:33:53.240]   So I think credibility is key to success.
+[00:33:53.240 --> 00:33:54.240]   How do you actually, is there a way to develop narrative?
+[00:33:54.240 --> 00:33:57.480]   - Okay, so that's actually really important.
+[00:33:57.480 --> 00:33:59.240]   And I'm gonna even elevate it one more.
+[00:33:59.240 --> 00:34:01.640]   Sales, you have to be a great salesperson.
+[00:34:01.640 --> 00:34:05.880]   Your narrative, you're selling the story of your company, but you may be selling to an
+[00:34:05.880 --> 00:34:07.880]   employee, to an investor, whatever.
+[00:34:07.880 --> 00:34:11.040]   You need to be a great salesperson.
+[00:34:11.040 --> 00:34:16.320]   Unfortunately, teaching sales at a higher educational institution is considered dirty
+[00:34:16.320 --> 00:34:18.900]   work, so we don't even teach it.
+[00:34:18.900 --> 00:34:24.600]   But it's the most important thing, so I run a little accelerator, and we, just like Jason,
+[00:34:24.600 --> 00:34:28.220]   and we spend the last few weeks just teaching people how to talk.
+[00:34:28.220 --> 00:34:31.040]   How do you explain what you do?
+[00:34:31.040 --> 00:34:33.360]   And I tell people there's nothing like practice.
+[00:34:33.360 --> 00:34:36.580]   You have to practice, practice, get coached, et cetera.
+[00:34:36.580 --> 00:34:39.400]   Some people are born with that, some people you actually have to learn.
+[00:34:39.400 --> 00:34:40.800]   - You think it is learned though?
+[00:34:40.800 --> 00:34:41.800]   - It is.
+[00:34:41.800 --> 00:34:42.800]   - It is learnable.
+[00:34:42.800 --> 00:34:43.800]   - Well, you can definitely get better, right?
+[00:34:43.800 --> 00:34:44.800]   - Yeah.
+[00:34:44.800 --> 00:34:46.800]   - If not, the world would be a better, a sad place.
+[00:34:46.800 --> 00:34:50.640]   - Mar, as we wrap here, we have 10 daughters between the four of us.
+[00:34:50.640 --> 00:34:51.640]   - I love that.
+[00:34:51.640 --> 00:34:52.640]   - We're all grown dads.
+[00:34:52.640 --> 00:34:53.640]   - Yeah.
+[00:34:53.640 --> 00:34:54.640]   - Three, two, two, three.
+[00:34:54.640 --> 00:34:55.640]   - Three.
+[00:34:55.640 --> 00:34:56.640]   - Whatever.
+[00:34:56.640 --> 00:35:04.040]   - You can remind David of the names of his daughters.
+[00:35:04.040 --> 00:35:05.040]   They're on your watch.
+[00:35:05.040 --> 00:35:06.040]   I'll look them up.
+[00:35:06.040 --> 00:35:07.040]   Mar, what can you--
+[00:35:07.040 --> 00:35:08.040]   - He's got a little card in here.
+[00:35:08.040 --> 00:35:09.040]   - I'd like to thank--
+[00:35:09.040 --> 00:35:10.040]   - My wife's name is--
+[00:35:10.040 --> 00:35:11.040]   - He's got a picture, a little picture.
+[00:35:11.040 --> 00:35:12.040]   - Mar, I'm not sure what to say.
+[00:35:12.040 --> 00:35:13.040]   - I'm not sure what to say.
+[00:35:13.040 --> 00:35:14.040]   - I'm not sure what to say.
+[00:35:14.040 --> 00:35:15.040]   - I'm not sure what to say.
+[00:35:15.040 --> 00:35:16.040]   - I'm not sure what to say.
+[00:35:16.040 --> 00:35:17.040]   - I'm not sure what to say.
+[00:35:17.040 --> 00:35:18.040]   - I'm not sure what to say.
+[00:35:18.040 --> 00:35:19.040]   - I'm not sure what to say.
+[00:35:19.040 --> 00:35:20.040]   - I'm not sure what to say.
+[00:35:20.040 --> 00:35:21.040]   - I'm not sure what to say.
+[00:35:21.040 --> 00:35:22.040]   - I'm not sure what to say.
+[00:35:22.040 --> 00:35:23.040]   - I'm not sure what to say.
+[00:35:23.040 --> 00:35:24.040]   - I'm not sure what to say.
+[00:35:24.040 --> 00:35:25.040]   - I'm not sure what to say.
+[00:35:25.040 --> 00:35:26.040]   - I'm not sure what to say.
+[00:35:26.040 --> 00:35:27.040]   - I'm not sure what to say.
+[00:35:27.040 --> 00:35:28.040]   - I'm not sure what to say.
+[00:35:28.040 --> 00:35:29.040]   - I'm not sure what to say.
+[00:35:29.040 --> 00:35:30.040]   - I'm not sure what to say.
+[00:35:30.040 --> 00:35:31.040]   - I'm not sure what to say.
+[00:35:31.040 --> 00:35:32.040]   - I'm not sure what to say.
+[00:35:32.040 --> 00:35:33.040]   - I'm not sure what to say.
+[00:35:33.040 --> 00:35:34.040]   - I'm not sure what to say.
+[00:35:34.040 --> 00:35:35.040]   - I'm not sure what to say.
+[00:35:35.040 --> 00:35:36.040]   - I'm not sure what to say.
+[00:35:37.040 --> 00:35:38.400]   - I think a lot of us don't.
+[00:35:38.400 --> 00:35:41.240]   I think you Google imposter syndrome and we all have it.
+[00:35:41.240 --> 00:35:44.840]   Even myself coming here today, I was probably the person that practiced the most because
+[00:35:44.840 --> 00:35:48.320]   I have that imposter syndrome.
+[00:35:48.320 --> 00:35:49.320]   That is the most important.
+[00:35:49.320 --> 00:35:54.080]   You have to overcome that because for most men it comes naturally, right?
+[00:35:54.080 --> 00:35:56.840]   And us, we have to work a little harder to do that.
+[00:35:56.840 --> 00:36:00.240]   But with confidence, we make amazing founders, I would say.
+[00:36:00.240 --> 00:36:04.040]   I am fortunate to work with many of them.
+[00:36:04.040 --> 00:36:09.120]   This year our accelerator, this session we present on Wednesday will have two-thirds
+[00:36:09.120 --> 00:36:10.360]   of the founders are women.
+[00:36:10.360 --> 00:36:11.360]   That's very impressive.
+[00:36:11.360 --> 00:36:16.240]   And they're amazing.
+[00:36:16.240 --> 00:36:17.240]   There's no cutting corners.
+[00:36:17.240 --> 00:36:18.240]   They're one of the best people.
+[00:36:18.240 --> 00:36:21.840]   - But we as a society have to do a better job of-
+[00:36:21.840 --> 00:36:24.640]   - Stop clicking on those clicks, chicks for clicks.
+[00:36:24.640 --> 00:36:25.640]   - Exactly.
+[00:36:25.640 --> 00:36:26.640]   - Stop clicking.
+[00:36:26.640 --> 00:36:31.640]   I think maybe them seeing more role models like you.
+[00:36:31.640 --> 00:36:35.720]   And I think very specifically we as all Girl Dads
+[00:36:35.720 --> 00:36:37.200]   appreciate the work you're doing.
+[00:36:37.200 --> 00:36:38.040]   - Oh, thank you.
+[00:36:38.040 --> 00:36:39.740]   - Let's give it up for Mark.
+[00:36:39.740 --> 00:36:44.040]   (audience applauds and cheers)
+[00:36:44.040 --> 00:36:46.620]   (upbeat music)
+[00:36:47.100 --> 00:36:48.540]   - Rain Man David Saks.
+[00:36:48.540 --> 00:36:51.460]   ♪ I'm going, I'm going all in ♪
+[00:36:51.460 --> 00:36:53.700]   - And it said we open sourced it to the fans
+[00:36:53.700 --> 00:36:55.540]   and they've just gone crazy with it.
+[00:36:55.540 --> 00:36:56.380]   - Love you, West.
+[00:36:56.380 --> 00:36:57.580]   - The queen of quinoa.
+[00:36:57.580 --> 00:36:58.580]   ♪ I'm going all in ♪
+[00:36:58.580 --> 00:37:00.460]   ♪ What your winners like ♪
+[00:37:00.460 --> 00:37:02.700]   ♪ What your winners like ♪
+[00:37:02.700 --> 00:37:04.340]   ♪ I'm going all in ♪
+[00:37:04.340 --> 00:37:05.540]   - Besties are gone.
+[00:37:05.540 --> 00:37:07.020]   (laughing)
+[00:37:07.020 --> 00:37:09.060]   - That is my dog taking a notice in your driveway.
+[00:37:09.060 --> 00:37:09.900]   - Saks.
+[00:37:09.900 --> 00:37:12.020]   (laughing)
+[00:37:12.020 --> 00:37:12.860]   - Oh, man.
+[00:37:12.860 --> 00:37:14.780]   - My avatar will meet me at the place.
+[00:37:14.780 --> 00:37:15.860]   - We should all just get a room
+[00:37:15.860 --> 00:37:17.460]   and just have one big huge orgy
+[00:37:17.460 --> 00:37:18.660]   'cause they're all just useless.
+[00:37:18.660 --> 00:37:20.180]   It's like this sexual tension
+[00:37:20.180 --> 00:37:22.780]   that they just need to release somehow.
+[00:37:22.780 --> 00:37:24.580]   - What your B?
+[00:37:24.580 --> 00:37:25.420]   What your B?
+[00:37:25.420 --> 00:37:26.460]   - What your B?
+[00:37:26.460 --> 00:37:27.300]   - B.
+[00:37:27.300 --> 00:37:28.140]   - What?
+[00:37:28.140 --> 00:37:28.980]   - We need to get merch.
+[00:37:28.980 --> 00:37:29.800]   - Besties are gone.
+[00:37:29.800 --> 00:37:34.800]   ♪ I'm going all in ♪
+[00:37:34.800 --> 00:37:40.300]   ♪ I'm going all in ♪
+

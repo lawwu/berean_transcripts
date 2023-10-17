@@ -1,0 +1,717 @@
+
+[00:00:00.000 --> 00:00:03.480]   [MUSIC PLAYING]
+[00:00:03.480 --> 00:00:06.960]   [BABY CRYING]
+[00:00:06.960 --> 00:00:10.440]   [MUSIC PLAYING]
+[00:00:10.440 --> 00:00:13.920]   [MUSIC PLAYING]
+[00:00:13.920 --> 00:00:17.400]   [MUSIC PLAYING]
+[00:00:17.400 --> 00:00:20.880]   [MUSIC PLAYING]
+[00:00:20.880 --> 00:00:24.360]   [MUSIC PLAYING]
+[00:00:24.360 --> 00:00:27.840]   [MUSIC PLAYING]
+[00:00:27.840 --> 00:00:30.840]   [MUSIC PLAYING]
+[00:00:30.840 --> 00:00:34.320]   [MUSIC PLAYING]
+[00:00:34.320 --> 00:00:37.320]   [MUSIC PLAYING]
+[00:00:37.320 --> 00:00:40.800]   [MUSIC PLAYING]
+[00:00:40.800 --> 00:00:43.800]   [MUSIC PLAYING]
+[00:00:43.800 --> 00:00:49.280]   [MUSIC PLAYING]
+[00:00:49.280 --> 00:00:57.280]   [MUSIC PLAYING]
+[00:00:57.280 --> 00:01:03.760]   [MUSIC PLAYING]
+[00:01:08.760 --> 00:01:11.760]   [MUSIC PLAYING]
+[00:01:11.760 --> 00:01:17.760]   [MUSIC PLAYING]
+[00:01:17.760 --> 00:01:25.760]   [MUSIC PLAYING]
+[00:01:25.760 --> 00:01:36.760]   [MUSIC PLAYING]
+[00:01:36.760 --> 00:01:39.760]   [MUSIC PLAYING]
+[00:01:39.760 --> 00:01:51.760]   [MUSIC PLAYING]
+[00:01:51.760 --> 00:02:03.760]   [MUSIC PLAYING]
+[00:02:03.760 --> 00:02:06.760]   [MUSIC PLAYING]
+[00:02:06.760 --> 00:02:16.760]   [MUSIC PLAYING]
+[00:02:16.760 --> 00:02:28.760]   [MUSIC PLAYING]
+[00:02:28.760 --> 00:02:31.760]   [MUSIC PLAYING]
+[00:02:31.760 --> 00:02:54.760]   [MUSIC PLAYING]
+[00:02:54.760 --> 00:02:57.760]   [MUSIC PLAYING]
+[00:02:57.760 --> 00:03:07.760]   [MUSIC PLAYING]
+[00:03:07.760 --> 00:03:17.760]   [MUSIC PLAYING]
+[00:03:17.760 --> 00:03:20.760]   [MUSIC PLAYING]
+[00:03:20.760 --> 00:03:35.760]   [MUSIC PLAYING]
+[00:03:35.760 --> 00:03:38.760]   [MUSIC PLAYING]
+[00:03:38.760 --> 00:03:55.760]   [MUSIC PLAYING]
+[00:03:55.760 --> 00:03:58.760]   [MUSIC PLAYING]
+[00:03:58.760 --> 00:04:13.760]   [MUSIC PLAYING]
+[00:04:13.760 --> 00:04:16.760]   [MUSIC PLAYING]
+[00:04:16.760 --> 00:04:27.760]   [MUSIC PLAYING]
+[00:04:42.760 --> 00:04:45.760]   [MUSIC PLAYING]
+[00:04:45.760 --> 00:04:48.760]   [MUSIC PLAYING]
+[00:04:49.760 --> 00:04:52.760]   [MUSIC PLAYING]
+[00:04:52.760 --> 00:04:55.760]   [MUSIC PLAYING]
+[00:04:55.760 --> 00:05:05.760]   [MUSIC PLAYING]
+[00:05:05.760 --> 00:05:15.760]   [MUSIC PLAYING]
+[00:05:15.760 --> 00:05:18.760]   [MUSIC PLAYING]
+[00:05:18.760 --> 00:05:30.760]   [MUSIC PLAYING]
+[00:05:30.760 --> 00:05:41.760]   [MUSIC PLAYING]
+[00:05:41.760 --> 00:05:44.760]   [MUSIC PLAYING]
+[00:05:44.760 --> 00:05:54.760]   [MUSIC PLAYING]
+[00:05:54.760 --> 00:06:06.760]   [MUSIC PLAYING]
+[00:06:06.760 --> 00:06:09.760]   [MUSIC PLAYING]
+[00:06:09.760 --> 00:06:27.760]   [MUSIC PLAYING]
+[00:06:27.760 --> 00:06:30.760]   [MUSIC PLAYING]
+[00:06:30.760 --> 00:06:48.760]   [MUSIC PLAYING]
+[00:06:48.760 --> 00:06:51.760]   [MUSIC PLAYING]
+[00:06:51.760 --> 00:07:01.760]   [MUSIC PLAYING]
+[00:07:01.760 --> 00:07:11.760]   [MUSIC PLAYING]
+[00:07:11.760 --> 00:07:14.760]   [MUSIC PLAYING]
+[00:07:14.760 --> 00:07:28.760]   [MUSIC PLAYING]
+[00:07:28.760 --> 00:07:31.760]   [MUSIC PLAYING]
+[00:07:31.760 --> 00:07:41.760]   [MUSIC PLAYING]
+[00:07:41.760 --> 00:07:53.760]   [MUSIC PLAYING]
+[00:07:53.760 --> 00:07:56.760]   [MUSIC PLAYING]
+[00:07:56.760 --> 00:08:14.760]   [MUSIC PLAYING]
+[00:08:14.760 --> 00:08:17.760]   [MUSIC PLAYING]
+[00:08:17.760 --> 00:08:33.760]   [MUSIC PLAYING]
+[00:08:33.760 --> 00:08:36.760]   [MUSIC PLAYING]
+[00:08:36.760 --> 00:08:46.760]   [MUSIC PLAYING]
+[00:09:02.760 --> 00:09:05.760]   [MUSIC PLAYING]
+[00:09:05.760 --> 00:09:20.760]   [MUSIC PLAYING]
+[00:09:20.760 --> 00:09:23.760]   [MUSIC PLAYING]
+[00:09:23.760 --> 00:09:43.760]   [MUSIC PLAYING]
+[00:09:44.760 --> 00:09:47.760]   [MUSIC PLAYING]
+[00:09:47.760 --> 00:09:58.760]   Good evening, everybody.
+[00:09:58.760 --> 00:10:00.760]   We'll take a moment to get situated
+[00:10:00.760 --> 00:10:02.760]   as people are coming in.
+[00:10:02.760 --> 00:10:04.760]   If you would take a moment to pray,
+[00:10:04.760 --> 00:10:07.760]   prepare your hearts for this evening's praise and prayer.
+[00:10:07.760 --> 00:10:10.760]   In just a few seconds, I'll pray for us to begin our evening.
+[00:10:10.760 --> 00:10:12.760]   Please take a moment to prepare your hearts.
+[00:10:12.760 --> 00:10:31.760]   Let me take a moment to pray for us, our God.
+[00:10:31.760 --> 00:10:35.760]   It is to our absolute blessing and great joy
+[00:10:35.760 --> 00:10:39.760]   to be able to come together and worship and praise you.
+[00:10:39.760 --> 00:10:43.760]   Lord, we recognize that our worship given unto you
+[00:10:43.760 --> 00:10:46.760]   is something, Lord, you have commanded.
+[00:10:46.760 --> 00:10:48.760]   And so we give and lift up to you.
+[00:10:48.760 --> 00:10:50.760]   But also, Lord, our worship to you
+[00:10:50.760 --> 00:10:53.760]   is something that God continues to feed our soul
+[00:10:53.760 --> 00:10:55.760]   because it is done in faith.
+[00:10:55.760 --> 00:10:57.760]   And I pray, Lord, that our faith would
+[00:10:57.760 --> 00:11:01.760]   continue to grow in both knowledge and truth,
+[00:11:01.760 --> 00:11:03.760]   and Lord God in the spirit.
+[00:11:03.760 --> 00:11:06.760]   I pray, Father, that this evening, as we lift up to you
+[00:11:06.760 --> 00:11:09.760]   our services, Lord, may you be honored.
+[00:11:09.760 --> 00:11:12.760]   God, as we lift up to you our meditation and thoughts,
+[00:11:12.760 --> 00:11:14.760]   Lord, help us to truly consider you.
+[00:11:14.760 --> 00:11:16.760]   And God, in all things, Lord, we pray
+[00:11:16.760 --> 00:11:18.760]   that you would be truly pleased.
+[00:11:18.760 --> 00:11:23.760]   Lord, we pray, God, that in our time of communing with you,
+[00:11:23.760 --> 00:11:27.760]   God, lifting up our requests, supplications, Lord,
+[00:11:27.760 --> 00:11:31.760]   God, in all these things, Lord, we would experience your mercy,
+[00:11:31.760 --> 00:11:34.760]   knowing, God, that although you are mighty and high,
+[00:11:34.760 --> 00:11:36.760]   Lord, you hear our prayers.
+[00:11:36.760 --> 00:11:38.760]   Father, we want to thank you this evening.
+[00:11:38.760 --> 00:11:39.760]   It's in Christ's name.
+[00:11:39.760 --> 00:11:42.760]   Amen.
+[00:11:42.760 --> 00:11:44.760]   This evening, we're going to be having
+[00:11:44.760 --> 00:11:47.760]   an intermix of worship songs and prayers.
+[00:11:47.760 --> 00:11:49.760]   And I'll be guiding us through some topics.
+[00:11:49.760 --> 00:11:53.760]   But as you have thoughts in your mind and as you're convicted,
+[00:11:53.760 --> 00:11:56.760]   pray with various topics that is on your heart.
+[00:11:56.760 --> 00:11:58.760]   We're going to begin with songs that
+[00:11:58.760 --> 00:12:00.760]   focus on the greatness of God.
+[00:12:00.760 --> 00:12:03.760]   So would you please rise with me as we sing the first two songs.
+[00:12:03.760 --> 00:12:06.760]   [MUSIC - "WHO MAKES THE POWER"]
+[00:12:06.760 --> 00:12:31.760]   Who makes the power within a darkness?
+[00:12:31.760 --> 00:12:36.760]   Who's love and might is so much stronger?
+[00:12:36.760 --> 00:12:40.760]   The King of glory, the King of our hearts.
+[00:12:40.760 --> 00:12:49.760]   Who shakes the whole earth with holy thunder?
+[00:12:49.760 --> 00:12:54.760]   Who leaves no breathless in awe and wonder?
+[00:12:54.760 --> 00:12:58.760]   The King of glory, the King of our hearts.
+[00:12:59.760 --> 00:13:04.760]   This is amazing grace.
+[00:13:04.760 --> 00:13:13.760]   This is unfailing love that you would take my soul,
+[00:13:13.760 --> 00:13:17.760]   that you would bear my cross.
+[00:13:17.760 --> 00:13:26.760]   You laid down your life that I would be set free.
+[00:13:27.760 --> 00:13:33.760]   You're up to the sussing for all that you've done for me.
+[00:13:33.760 --> 00:13:46.760]   Who brings our chaos back into order?
+[00:13:46.760 --> 00:13:51.760]   Who makes the order, a son and daughter?
+[00:13:51.760 --> 00:13:56.760]   The King of glory, the King of glory.
+[00:13:56.760 --> 00:14:00.760]   Who rules the nation with truth and just grace?
+[00:14:00.760 --> 00:14:04.760]   Shine like the sun and all of its fairness.
+[00:14:04.760 --> 00:14:09.760]   The King of glory, the King of our hearts.
+[00:14:09.760 --> 00:14:16.760]   This is amazing grace.
+[00:14:16.760 --> 00:14:20.760]   This is unfailing love that you would take my soul,
+[00:14:20.760 --> 00:14:23.760]   that you would bear my cross.
+[00:14:23.760 --> 00:14:31.760]   You laid down your life that I would be set free.
+[00:14:31.760 --> 00:14:39.760]   You're up to the sussing for all that you've done for me.
+[00:14:39.760 --> 00:14:42.760]   It's important.
+[00:14:42.760 --> 00:14:44.760]   It's important.
+[00:14:44.760 --> 00:14:46.760]   It's important.
+[00:14:46.760 --> 00:14:57.020]   He's the King to conquer the grave the Lord is the Lamb who was slain
+[00:14:57.020 --> 00:15:12.300]   He's the King to conquer the grave the Lord is the Lamb who was slain
+[00:15:12.300 --> 00:15:21.980]   Worthy is the King to conquer the grave worthy is the Lamb who was laid
+[00:15:21.980 --> 00:15:28.780]   Worthy, worthy, worthy oh this is amazing grace
+[00:15:28.780 --> 00:15:33.660]   This is a failing life
+[00:15:33.660 --> 00:15:43.100]   That You would take my place That You would bear my cross
+[00:15:43.100 --> 00:15:53.500]   You laid down Your life That I would be set free
+[00:15:53.500 --> 00:16:01.020]   Oh, Jesus I sing for all that You've done for me
+[00:16:01.020 --> 00:16:12.380]   Oh, Jesus I sing for all that You've done for me
+[00:16:12.380 --> 00:16:16.780]   We're going to continue singing these songs and we want to begin with just thinking about
+[00:16:16.780 --> 00:16:23.100]   the greatness of our God, lifting Him up for His power, His strength and more.
+[00:16:23.100 --> 00:16:35.260]   You are God alone You are God alone
+[00:16:35.260 --> 00:16:41.900]   Before time began You were on your bed
+[00:16:41.900 --> 00:16:48.060]   You are God alone Right now
+[00:16:48.060 --> 00:16:54.460]   Because I stand out You are on the floor
+[00:16:54.460 --> 00:16:58.300]   You are God alone
+[00:16:58.300 --> 00:17:13.980]   (Guitar solo)
+[00:17:13.980 --> 00:17:27.020]   You are not a God created by You You are not a God created anymore of You
+[00:17:27.020 --> 00:17:36.060]   You are not a God in me Anything we can do by Your love
+[00:17:36.060 --> 00:17:49.500]   You are God alone Before time began
+[00:17:49.500 --> 00:17:57.020]   You were on the floor You are God alone
+[00:17:57.020 --> 00:18:02.700]   Right now Before time came down
+[00:18:02.700 --> 00:18:10.380]   You are on the floor You are God alone
+[00:18:10.380 --> 00:18:25.100]   (Guitar solo)
+[00:18:25.100 --> 00:18:31.660]   You're the only God who's power is nothing but a touch
+[00:18:31.660 --> 00:18:44.780]   You're the only God who's been living You're the only God who's been living
+[00:18:44.780 --> 00:18:53.820]   You are God that's just the way it is
+[00:18:53.820 --> 00:19:00.460]   You are God alone But before time began
+[00:19:00.460 --> 00:19:07.900]   You were on your throne You were God alone
+[00:19:07.900 --> 00:19:13.580]   Right now Before time came down
+[00:19:13.580 --> 00:19:19.180]   You are on your throne You are God alone
+[00:19:19.180 --> 00:19:23.900]   You're unchangeable You're unchangeable
+[00:19:23.900 --> 00:19:29.900]   You're unshakable Unstoppable
+[00:19:29.900 --> 00:19:37.340]   That's what you are You're unchangeable
+[00:19:37.340 --> 00:19:43.340]   You're unshakable And unstoppable
+[00:19:43.340 --> 00:19:49.740]   That's what you are
+[00:19:49.740 --> 00:19:56.300]   You are God alone But before time began
+[00:19:56.300 --> 00:20:03.820]   You were on your throne You are God alone
+[00:20:03.820 --> 00:20:09.420]   Right now In the good times and bad
+[00:20:09.420 --> 00:20:18.940]   You are on your throne You are God alone
+[00:20:18.940 --> 00:20:22.380]   Amen. You may all be seated. At this time
+[00:20:22.380 --> 00:20:26.060]   I want to encourage you with just a word that
+[00:20:26.060 --> 00:20:32.140]   many of the scriptures when it's expressing prayer and supplication it
+[00:20:32.140 --> 00:20:38.300]   begins with first acknowledging God. Amen. We recognize God for who He is and we
+[00:20:38.300 --> 00:20:41.340]   sing and we pray in response to that character.
+[00:20:41.340 --> 00:20:45.500]   I want to read to you a Bible passage from Psalm chapter 66
+[00:20:45.500 --> 00:20:49.020]   and it reads like this. Shout joyfully to God
+[00:20:49.020 --> 00:20:52.540]   all the earth. Sing the glory of His name.
+[00:20:52.540 --> 00:20:59.020]   Make His praise glorious. Say to God how awesome are your works because of the
+[00:20:59.020 --> 00:21:03.740]   greatness of your power. Your enemies will give faint obedience to you but all
+[00:21:03.740 --> 00:21:06.940]   the earth will worship you and will sing praises to you. They will
+[00:21:06.940 --> 00:21:11.340]   sing praises to your name. So as we begin if you
+[00:21:11.340 --> 00:21:16.620]   would take time now thinking about God's greatness. Say a lot
+[00:21:16.620 --> 00:21:20.140]   of prayers that begins not with please give me but begins with
+[00:21:20.140 --> 00:21:25.660]   you are this. Thank you and praise you. I bless you because you're mighty.
+[00:21:25.660 --> 00:21:28.860]   You've been powerful. You've been faithful and more.
+[00:21:28.860 --> 00:21:32.380]   So let's take time to meditate and think about God's greatness, His glory and
+[00:21:32.380 --> 00:21:34.540]   majesty and we're going to give you some time to
+[00:21:34.540 --> 00:21:37.580]   do that now. Let's pray.
+[00:21:38.020 --> 00:21:41.020]   [Music]
+[00:21:41.460 --> 00:21:44.460]   [Music]
+[00:21:44.900 --> 00:21:47.900]   [Music]
+[00:21:47.900 --> 00:21:56.900]   [Music]
+[00:22:11.900 --> 00:22:14.900]   [Music]
+[00:22:14.900 --> 00:22:29.900]   [Music]
+[00:22:30.900 --> 00:22:33.900]   [Music]
+[00:22:33.900 --> 00:22:49.900]   [Music]
+[00:22:50.900 --> 00:22:53.900]   [Music]
+[00:22:53.900 --> 00:23:02.900]   [Music]
+[00:23:02.900 --> 00:23:12.900]   [Music]
+[00:23:13.900 --> 00:23:16.900]   [Music]
+[00:23:16.900 --> 00:23:27.900]   [Music]
+[00:23:27.900 --> 00:23:36.900]   [Music]
+[00:23:37.900 --> 00:23:40.900]   [Music]
+[00:23:40.900 --> 00:23:49.900]   [Music]
+[00:23:49.900 --> 00:24:03.900]   [Music]
+[00:24:04.900 --> 00:24:07.900]   [Music]
+[00:24:07.900 --> 00:24:16.900]   [Music]
+[00:24:16.900 --> 00:24:28.900]   [Music]
+[00:24:29.900 --> 00:24:32.900]   [Music]
+[00:24:32.900 --> 00:24:38.900]   [Music]
+[00:24:38.900 --> 00:24:50.900]   [Music]
+[00:24:51.900 --> 00:24:54.900]   [Music]
+[00:24:54.900 --> 00:25:03.900]   [Music]
+[00:25:03.900 --> 00:25:13.900]   [Music]
+[00:25:14.900 --> 00:25:17.900]   [Music]
+[00:25:17.900 --> 00:25:23.900]   [Music]
+[00:25:23.900 --> 00:25:28.900]   [Music]
+[00:25:28.900 --> 00:25:35.900]   [Music]
+[00:25:35.900 --> 00:25:41.900]   [Music]
+[00:25:42.900 --> 00:25:45.900]   [Music]
+[00:25:45.900 --> 00:25:51.900]   [Music]
+[00:25:51.900 --> 00:25:57.900]   [Music]
+[00:25:57.900 --> 00:26:03.900]   [Music]
+[00:26:03.900 --> 00:26:09.900]   [Music]
+[00:26:10.900 --> 00:26:13.900]   [Music]
+[00:26:13.900 --> 00:26:22.900]   [Music]
+[00:26:22.900 --> 00:26:32.900]   [Music]
+[00:26:33.900 --> 00:26:36.900]   [Music]
+[00:26:36.900 --> 00:26:45.900]   [Music]
+[00:26:45.900 --> 00:26:55.900]   [Music]
+[00:26:55.900 --> 00:26:58.900]   [Music]
+[00:26:58.900 --> 00:27:04.900]   [Music]
+[00:27:04.900 --> 00:27:10.900]   [Music]
+[00:27:10.900 --> 00:27:16.900]   [Music]
+[00:27:16.900 --> 00:27:22.900]   [Music]
+[00:27:23.900 --> 00:27:26.900]   [Music]
+[00:27:26.900 --> 00:27:32.900]   [Music]
+[00:27:32.900 --> 00:27:38.900]   [Music]
+[00:27:38.900 --> 00:27:44.900]   [Music]
+[00:27:44.900 --> 00:27:50.900]   [Music]
+[00:27:51.900 --> 00:27:54.900]   [Music]
+[00:27:54.900 --> 00:28:00.900]   [Music]
+[00:28:00.900 --> 00:28:06.900]   [Music]
+[00:28:06.900 --> 00:28:12.900]   [Music]
+[00:28:12.900 --> 00:28:18.900]   [Music]
+[00:28:19.900 --> 00:28:22.900]   [Music]
+[00:28:22.900 --> 00:28:31.900]   [Music]
+[00:28:31.900 --> 00:28:39.900]   [Music]
+[00:28:39.900 --> 00:28:45.900]   [Music]
+[00:28:45.900 --> 00:28:48.900]   [Music]
+[00:28:48.900 --> 00:28:55.900]   [Music]
+[00:28:55.900 --> 00:29:00.900]   [Music]
+[00:29:00.900 --> 00:29:06.900]   [Music]
+[00:29:06.900 --> 00:29:13.900]   [Music]
+[00:29:14.900 --> 00:29:17.900]   [Music]
+[00:29:17.900 --> 00:29:26.900]   [Music]
+[00:29:26.900 --> 00:29:34.900]   [Music]
+[00:29:34.900 --> 00:29:42.900]   [Music]
+[00:29:43.900 --> 00:29:46.900]   [Music]
+[00:29:46.900 --> 00:29:51.900]   [Music]
+[00:29:51.900 --> 00:29:57.900]   [Music]
+[00:29:57.900 --> 00:30:03.900]   [Music]
+[00:30:03.900 --> 00:30:10.900]   [Music]
+[00:30:11.900 --> 00:30:14.900]   [Music]
+[00:30:14.900 --> 00:30:20.900]   [Music]
+[00:30:20.900 --> 00:30:26.900]   [Music]
+[00:30:26.900 --> 00:30:32.900]   [Music]
+[00:30:32.900 --> 00:30:38.900]   [Music]
+[00:30:39.900 --> 00:30:42.900]   [Music]
+[00:30:42.900 --> 00:30:48.900]   [Music]
+[00:30:48.900 --> 00:30:55.900]   [Music]
+[00:30:55.900 --> 00:31:03.900]   [Music]
+[00:31:04.900 --> 00:31:07.900]   [Music]
+[00:31:07.900 --> 00:31:13.900]   [Music]
+[00:31:13.900 --> 00:31:20.900]   [Music]
+[00:31:20.900 --> 00:31:30.900]   [Music]
+[00:31:31.900 --> 00:31:34.900]   [Music]
+[00:31:34.900 --> 00:31:40.900]   [Music]
+[00:31:40.900 --> 00:31:46.900]   [Music]
+[00:31:46.900 --> 00:31:52.900]   [Music]
+[00:31:52.900 --> 00:31:58.900]   [Music]
+[00:31:59.900 --> 00:32:02.900]   [Music]
+[00:32:02.900 --> 00:32:08.900]   [Music]
+[00:32:08.900 --> 00:32:14.900]   [Music]
+[00:32:14.900 --> 00:32:20.900]   [Music]
+[00:32:20.900 --> 00:32:26.900]   [Music]
+[00:32:27.900 --> 00:32:30.900]   [Music]
+[00:32:30.900 --> 00:32:36.900]   [Music]
+[00:32:36.900 --> 00:32:42.900]   [Music]
+[00:32:42.900 --> 00:32:48.900]   [Music]
+[00:32:48.900 --> 00:32:55.900]   [Music]
+[00:32:56.900 --> 00:32:59.900]   [Music]
+[00:32:59.900 --> 00:33:08.900]   [Music]
+[00:33:08.900 --> 00:33:19.900]   [Music]
+[00:33:20.900 --> 00:33:23.900]   [Music]
+[00:33:23.900 --> 00:33:32.900]   [Music]
+[00:33:32.900 --> 00:33:42.900]   [Music]
+[00:33:43.900 --> 00:33:46.900]   [Music]
+[00:33:46.900 --> 00:33:54.900]   [Music]
+[00:33:54.900 --> 00:34:04.900]   [Music]
+[00:34:11.900 --> 00:34:14.900]   [Music]
+[00:34:14.900 --> 00:34:24.900]   [Music]
+[00:34:24.900 --> 00:34:35.900]   [Music]
+[00:34:36.900 --> 00:34:39.900]   [Music]
+[00:34:39.900 --> 00:34:50.900]   [Music]
+[00:34:50.900 --> 00:35:00.900]   [Music]
+[00:35:01.900 --> 00:35:04.900]   [Music]
+[00:35:04.900 --> 00:35:10.900]   [Music]
+[00:35:10.900 --> 00:35:18.900]   [Music]
+[00:35:18.900 --> 00:35:29.900]   [Music]
+[00:35:30.900 --> 00:35:33.900]   [Music]
+[00:35:33.900 --> 00:35:42.900]   [Music]
+[00:35:42.900 --> 00:35:50.900]   [Music]
+[00:35:50.900 --> 00:35:58.900]   [Music]
+[00:35:59.900 --> 00:36:02.900]   [Music]
+[00:36:02.900 --> 00:36:11.900]   [Music]
+[00:36:11.900 --> 00:36:20.900]   [Music]
+[00:36:25.900 --> 00:36:29.900]   Please join me as I lift up a prayer for that.
+[00:36:29.900 --> 00:36:36.900]   Heavenly Father, we know Lord, that God, you say in your scripture, you are searching for those who would worship you in spirit and in truth.
+[00:36:36.900 --> 00:36:41.900]   That is what you are looking for. That's what you're pleased by.
+[00:36:41.900 --> 00:36:46.900]   And so I pray, Father God, many of us, we try to do private quiet time and devotion.
+[00:36:46.900 --> 00:36:49.900]   Help us to worship in that environment.
+[00:36:49.900 --> 00:36:55.900]   Help us, Father God, never to bow our heads before you and then come out of it thinking, "I got nothing out of that."
+[00:36:55.900 --> 00:37:01.900]   But rather, help us to give to you our hearts, render to you all of our affection and more.
+[00:37:01.900 --> 00:37:04.900]   And I pray that, God, you would grant to us consistency.
+[00:37:04.900 --> 00:37:10.900]   You know, many of us try to do, Lord, times with our families to give service to you.
+[00:37:10.900 --> 00:37:15.900]   And, Lord, sometimes we get busy, sometimes it becomes inconsistent.
+[00:37:15.900 --> 00:37:19.900]   But if there's disappointment about anything, help us, Father God, to be disappointed at that.
+[00:37:19.900 --> 00:37:22.900]   Rather than our homes not being cleaned or whatever it may be.
+[00:37:22.900 --> 00:37:30.900]   And likewise for our church, I pray, Father God, if they're worried about not doing anything well, it would be about worship.
+[00:37:30.900 --> 00:37:33.900]   God, that our hearts would be joined together to lift you up.
+[00:37:33.900 --> 00:37:38.900]   And that the content of our mind would be such wonder of who you are.
+[00:37:38.900 --> 00:37:45.900]   That our heart would be filled with such awe, Lord God, at the greatness of the God that we worship.
+[00:37:45.900 --> 00:37:52.900]   And so I pray, Lord, just the entire tenor, the entire environment of our worship services on Sunday.
+[00:37:52.900 --> 00:37:55.900]   I pray, Father God, that we would not be forgetful or dry.
+[00:37:55.900 --> 00:37:59.900]   But rather, Lord, I pray that we'd be filled with passion for you.
+[00:37:59.900 --> 00:38:02.900]   We thank you, Lord. It's in Christ's name we pray. Amen.
+[00:38:02.900 --> 00:38:16.900]   [Music]
+[00:38:16.900 --> 00:38:22.900]   The sun cannot compare to the glory of your love.
+[00:38:22.900 --> 00:38:29.900]   There is no shadow in your presence.
+[00:38:29.900 --> 00:38:36.900]   No mortal man would dare to stand before your throne.
+[00:38:36.900 --> 00:38:42.900]   Before the Holy One of Heaven.
+[00:38:42.900 --> 00:38:52.900]   It's only by your blood and it's only through your mercy, Lord, I come.
+[00:38:52.900 --> 00:38:59.900]   I bring an offering of worship to my King.
+[00:38:59.900 --> 00:39:05.900]   No one on earth deserves the praises that I sing.
+[00:39:05.900 --> 00:39:13.900]   Jesus, may you receive the honor that you're due.
+[00:39:13.900 --> 00:39:24.900]   And oh Lord, I bring an offering to you.
+[00:39:24.900 --> 00:39:30.900]   The sun cannot compare to the glory of your love.
+[00:39:30.900 --> 00:39:37.900]   There is no shadow in your presence.
+[00:39:37.900 --> 00:39:44.900]   No mortal man would dare to stand before your throne.
+[00:39:44.900 --> 00:39:50.900]   Before the Holy One of Heaven.
+[00:39:50.900 --> 00:40:00.900]   It's only by your blood and it's only through your mercy, Lord, I come.
+[00:40:00.900 --> 00:40:07.900]   I bring an offering of worship to my King.
+[00:40:07.900 --> 00:40:14.900]   No one on earth deserves the praises that I sing.
+[00:40:14.900 --> 00:40:21.900]   Jesus, may you receive the honor that you're due.
+[00:40:21.900 --> 00:40:26.900]   Oh Lord, I bring an offering to you.
+[00:40:26.900 --> 00:40:32.900]   Oh Lord, I bring an offering to you.
+[00:40:32.900 --> 00:40:38.900]   Oh Lord, I bring an offering to you.
+[00:40:38.900 --> 00:40:45.900]   Oh Lord, I bring an offering to you.
+[00:40:45.900 --> 00:40:52.900]   Oh Lord, I bring an offering to you.
+[00:40:52.900 --> 00:41:00.900]   Oh Lord, I bring an offering to you.
+[00:41:00.900 --> 00:41:07.900]   Oh Lord, I bring an offering to you.
+[00:41:07.900 --> 00:41:12.900]   Oh Lord, I bring an offering to you.
+[00:41:12.900 --> 00:41:27.900]   Oh Lord, I bring an offering to you.
+[00:41:27.900 --> 00:41:38.900]   Stand up in the presence of Jesus the Nazarene.
+[00:41:38.900 --> 00:41:44.900]   And wonder how he could love me.
+[00:41:44.900 --> 00:41:51.900]   A sinner condemned unclean.
+[00:41:51.900 --> 00:42:04.900]   How marvelous, how wonderful that my song shall ever be.
+[00:42:04.900 --> 00:42:26.900]   How marvelous, how wonderful is my Savior's love for me.
+[00:42:26.900 --> 00:42:35.900]   He took my sins, He took my sins and my sorrows.
+[00:42:35.900 --> 00:42:41.900]   He made them His very own.
+[00:42:41.900 --> 00:42:54.900]   He bore the burden to Calvary and suffered and died alone.
+[00:42:54.900 --> 00:43:07.900]   How marvelous, how wonderful that my song shall ever be.
+[00:43:07.900 --> 00:43:23.900]   How marvelous, how wonderful is my Savior's love for me.
+[00:43:23.900 --> 00:43:41.900]   When with the ransomed in glory His face I at last shall see.
+[00:43:41.900 --> 00:43:56.900]   It will be my joy through the ages to sing up in love for me.
+[00:43:56.900 --> 00:44:09.900]   How marvelous, how wonderful that my song shall ever be.
+[00:44:09.900 --> 00:44:24.900]   How marvelous, how wonderful is my Savior's love for me.
+[00:44:24.900 --> 00:44:37.900]   How marvelous, how wonderful that my song shall ever be.
+[00:44:37.900 --> 00:44:51.900]   How marvelous, how wonderful is my Savior's love for me.
+[00:44:51.900 --> 00:44:53.900]   Amen.
+[00:44:53.900 --> 00:44:57.900]   At this time, if we can continue to as we pray, there are times
+[00:44:57.900 --> 00:45:00.900]   when we need to really think about the nature of our
+[00:45:00.900 --> 00:45:02.900]   relationship with God.
+[00:45:02.900 --> 00:45:05.900]   I know as we have been praying we are probably already thinking
+[00:45:05.900 --> 00:45:08.900]   about how we have been worshiping and responding.
+[00:45:08.900 --> 00:45:13.900]   But I do think that in our day we have a hard time being
+[00:45:13.900 --> 00:45:16.900]   genuinely expressive and saying the things that make us feel
+[00:45:16.900 --> 00:45:17.900]   awkward.
+[00:45:17.900 --> 00:45:18.900]   Right.
+[00:45:18.900 --> 00:45:23.900]   What I mean by that is there are certain things like, I miss you.
+[00:45:23.900 --> 00:45:26.900]   There are things we just don't say sometimes.
+[00:45:26.900 --> 00:45:30.900]   But some of us have struggled where we spent a week or two
+[00:45:30.900 --> 00:45:33.900]   weeks or three weeks sometimes feeling far from God.
+[00:45:33.900 --> 00:45:37.900]   And at that time in that moment you are able to say, I miss you
+[00:45:37.900 --> 00:45:38.900]   so much.
+[00:45:38.900 --> 00:45:41.900]   Because feeling far from you is the pits.
+[00:45:41.900 --> 00:45:42.900]   Right.
+[00:45:42.900 --> 00:45:45.900]   So I want to ask that you pray in this way.
+[00:45:45.900 --> 00:45:47.900]   Psalm 18...
+[00:45:47.900 --> 00:46:09.900]   In terms of the way you pray, you can pray in silence.
+[00:46:09.900 --> 00:46:12.900]   If you would like to, you can stand up and raise your hands.
+[00:46:12.900 --> 00:46:15.900]   Because many saints before us that's how they prayed every
+[00:46:15.900 --> 00:46:16.900]   time.
+[00:46:16.900 --> 00:46:19.900]   Standing in silence before the Lord and standing in reverence.
+[00:46:19.900 --> 00:46:22.900]   What's more if you want to vocalize your prayer, I know
+[00:46:22.900 --> 00:46:24.900]   there is people all around you but you can.
+[00:46:24.900 --> 00:46:25.900]   Why?
+[00:46:25.900 --> 00:46:28.900]   Because this is a time to express your affection to God.
+[00:46:28.900 --> 00:46:47.900]   And we need you in our prayer time now.
+[00:46:47.900 --> 00:46:59.900]   (Praying in silence)
+[00:46:59.900 --> 00:47:19.900]   (Praying in silence)
+[00:47:19.900 --> 00:47:39.900]   (Praying in silence)
+[00:47:39.900 --> 00:47:59.900]   (Praying in silence)
+[00:47:59.900 --> 00:48:19.900]   (Praying in silence)
+[00:48:19.900 --> 00:48:39.900]   (Praying in silence)
+[00:48:39.900 --> 00:48:59.900]   (Praying in silence)
+[00:48:59.900 --> 00:49:19.900]   (Praying in silence)
+[00:49:19.900 --> 00:49:39.900]   (Praying in silence)
+[00:49:39.900 --> 00:49:59.900]   (Praying in silence)
+[00:49:59.900 --> 00:50:09.900]   (Praying in silence)
+[00:50:09.900 --> 00:50:19.900]   (Praying in silence)
+[00:50:19.900 --> 00:50:39.900]   (Praying in silence)
+[00:50:39.900 --> 00:50:59.900]   (Praying in silence)
+[00:50:59.900 --> 00:51:19.900]   (Praying in silence)
+[00:51:19.900 --> 00:51:39.900]   (Praying in silence)
+[00:51:39.900 --> 00:51:59.900]   (Praying in silence)
+[00:51:59.900 --> 00:52:19.900]   (Praying in silence)
+[00:52:19.900 --> 00:52:39.900]   (Praying in silence)
+[00:52:39.900 --> 00:52:59.900]   (Praying in silence)
+[00:52:59.900 --> 00:53:19.900]   (Praying in silence)
+[00:53:19.900 --> 00:53:39.900]   (Praying in silence)
+[00:53:39.900 --> 00:53:59.900]   (Praying in silence)
+[00:53:59.900 --> 00:54:19.900]   (Praying in silence)
+[00:54:19.900 --> 00:54:39.900]   (Praying in silence)
+[00:54:39.900 --> 00:54:59.900]   (Praying in silence)
+[00:54:59.900 --> 00:55:19.900]   (Praying in silence)
+[00:55:19.900 --> 00:55:39.900]   (Praying in silence)
+[00:55:39.900 --> 00:55:59.900]   (Praying in silence)
+[00:55:59.900 --> 00:56:19.900]   (Praying in silence)
+[00:56:19.900 --> 00:56:39.900]   (Praying in silence)
+[00:56:39.900 --> 00:56:59.900]   (Praying in silence)
+[00:56:59.900 --> 00:57:19.900]   (Praying in silence)
+[00:57:19.900 --> 00:57:39.900]   (Praying in silence)
+[00:57:39.900 --> 00:57:59.900]   (Praying in silence)
+[00:57:59.900 --> 00:58:19.900]   (Praying in silence)
+[00:58:19.900 --> 00:58:39.900]   (Praying in silence)
+[00:58:39.900 --> 00:58:59.900]   (Praying in silence)
+[00:58:59.900 --> 00:59:19.900]   (Praying in silence)
+[00:59:19.900 --> 00:59:39.900]   (Praying in silence)
+[00:59:39.900 --> 00:59:59.900]   (Praying in silence)
+[00:59:59.900 --> 01:00:19.900]   (Praying in silence)
+[01:00:19.900 --> 01:00:39.900]   (Praying in silence)
+[01:00:39.900 --> 01:00:59.900]   (Praying in silence)
+[01:00:59.900 --> 01:01:15.900]   (Music)
+[01:01:15.900 --> 01:01:21.900]   I will offer up my life in spirit and truth
+[01:01:21.900 --> 01:01:27.900]   Pouring out the oil of love as my worship to you
+[01:01:27.900 --> 01:01:33.900]   In surrender I must give my every part
+[01:01:33.900 --> 01:01:41.900]   Lord, receive the sacrifice of a broken heart
+[01:01:41.900 --> 01:01:47.900]   Jesus, what can I give? What can I bring?
+[01:01:47.900 --> 01:01:53.900]   To so faithful a friend, to so loving a King
+[01:01:53.900 --> 01:01:59.900]   Savior, what can be said? What can be sung?
+[01:01:59.900 --> 01:02:07.900]   As the praise of your name for the things you have done
+[01:02:07.900 --> 01:02:15.900]   Oh, my words could not tell, not even impart
+[01:02:15.900 --> 01:02:23.900]   Of the debt of love that is owed by this thankful heart
+[01:02:23.900 --> 01:02:30.900]   (Music)
+[01:02:30.900 --> 01:02:36.900]   You deserve my every breath for you've paid the great cost
+[01:02:36.900 --> 01:02:43.900]   Giving up your life to death, even death on a cross
+[01:02:43.900 --> 01:02:50.900]   You took all my shame away, there defeating my sins
+[01:02:50.900 --> 01:02:57.900]   Open up the gates of hell and have mercy on me
+[01:02:57.900 --> 01:03:03.900]   Jesus, what can I give? What can I bring?
+[01:03:03.900 --> 01:03:10.900]   To so faithful a friend, to so loving a King
+[01:03:10.900 --> 01:03:17.900]   Savior, what can be said? What can be sung?
+[01:03:17.900 --> 01:03:24.900]   As the praise of your name for the things you have done
+[01:03:24.900 --> 01:03:32.900]   Oh, my words could not tell, not even impart
+[01:03:32.900 --> 01:03:40.900]   Of the debt of love that is owed by this thankful heart
+[01:03:40.900 --> 01:03:45.900]   Sing Jesus, what can I give?
+[01:03:45.900 --> 01:03:51.900]   Jesus, what can I give? What can I bring?
+[01:03:51.900 --> 01:03:58.900]   To so faithful a friend, to so loving a King
+[01:03:58.900 --> 01:04:05.900]   Savior, what can be said? What can be sung?
+[01:04:05.900 --> 01:04:12.900]   As the praise of your name for the things you have done
+[01:04:12.900 --> 01:04:20.900]   Oh, my words could not tell, not even impart
+[01:04:20.900 --> 01:04:29.900]   Of the debt of love that is owed by this thankful heart
+[01:04:29.900 --> 01:04:36.900]   (Guitar playing)
+[01:04:36.900 --> 01:04:39.900]   Let's continue to sing about our surrender to God
+[01:04:39.900 --> 01:04:42.900]   in everything and every aspect of our lives.
+[01:04:42.900 --> 01:05:04.900]   (Guitar playing)
+[01:05:04.900 --> 01:05:10.900]   I'm giving you my heart and all that is within
+[01:05:10.900 --> 01:05:17.900]   I lay it all down for the sake of you, my King
+[01:05:17.900 --> 01:05:23.900]   I'm giving you my dreams, laying down my rights
+[01:05:23.900 --> 01:05:31.900]   I'm giving up my pride for the promise of your love
+[01:05:31.900 --> 01:05:44.900]   And I surrender all to you, all to you
+[01:05:44.900 --> 01:05:59.900]   And I surrender all to you, all to you
+[01:05:59.900 --> 01:06:06.900]   I'm giving you this song, waiting at the cross
+[01:06:06.900 --> 01:06:12.900]   And all the world holds dear, I count it all as love
+[01:06:12.900 --> 01:06:19.900]   For the sake of knowing you, the glory of your name
+[01:06:19.900 --> 01:06:27.900]   To know the lasting joy in sharing in your pain
+[01:06:27.900 --> 01:06:40.900]   And I surrender all to you, all to you
+[01:06:40.900 --> 01:06:52.900]   And I surrender all to you, all to you
+[01:06:52.900 --> 01:06:54.900]   One last time
+[01:06:54.900 --> 01:07:07.900]   And I surrender all to you, all to you
+[01:07:07.900 --> 01:07:20.900]   And I surrender all to you, all to you
+[01:07:20.900 --> 01:07:23.900]   (Guitar playing)
+[01:07:23.900 --> 01:07:30.900]   Heavenly Father, we do want to pray, God, that even the surrender of the things that we're attached to,
+[01:07:30.900 --> 01:07:32.900]   we need spiritual strength.
+[01:07:32.900 --> 01:07:38.900]   And so we pray, Father God, that your spirit would use the sharpness of your word
+[01:07:38.900 --> 01:07:43.900]   to convict us, to make sure, Father God, the ministry of your truth
+[01:07:43.900 --> 01:07:46.900]   is producing in us the sanctification that we need.
+[01:07:46.900 --> 01:07:50.900]   So Lord, we lift that up to you in Christ's name. Amen.
+[01:07:50.900 --> 01:07:54.900]   As a final thought for us to continue to pray for,
+[01:07:54.900 --> 01:08:02.900]   is throughout the Sunday sermons, Pastor Peter has been preaching heavily about being of faith.
+[01:08:02.900 --> 01:08:10.900]   And it has radically, radically just made me think about ways in which I'm not thinking of the eternal.
+[01:08:10.900 --> 01:08:16.900]   Ways in which I'm not thinking of the sound, thinking of the things that are heavenly,
+[01:08:16.900 --> 01:08:21.900]   but rather that my thoughts still are circulating around the things that could be shaken.
+[01:08:21.900 --> 01:08:26.900]   And what I'm specifically talking about then, we have to pray and be about our agenda,
+[01:08:26.900 --> 01:08:29.900]   should be the salvation of the lost.
+[01:08:29.900 --> 01:08:33.900]   It should be that we are dedicated to this cause.
+[01:08:33.900 --> 01:08:35.900]   We're going to adorn the gospel.
+[01:08:35.900 --> 01:08:41.900]   We're going to make the light shine on the path to salvation and to the eternal state.
+[01:08:41.900 --> 01:08:45.900]   And so let's pray and lift up that God would use our church,
+[01:08:45.900 --> 01:08:49.900]   all the faith that we exercise, not just simply to have a nice community,
+[01:08:49.900 --> 01:08:54.900]   which is a byproduct and fruit, but that we would be about preaching the message.
+[01:08:54.900 --> 01:09:00.900]   And let's pray that the specific people God has ordained to be in our lives,
+[01:09:00.900 --> 01:09:05.900]   even the people that you feel like are just kind of there,
+[01:09:05.900 --> 01:09:09.900]   churched around the place, that you lift them up by name.
+[01:09:09.900 --> 01:09:11.900]   Even the people that you think are hardened.
+[01:09:11.900 --> 01:09:15.900]   Even the people that you think you've already tried, lift them up.
+[01:09:15.900 --> 01:09:19.900]   And especially I know times like this when we come together corporately
+[01:09:19.900 --> 01:09:25.900]   should be the time we're lifting up our loved ones, our parents, brothers and sisters,
+[01:09:25.900 --> 01:09:27.900]   people who don't know Christ yet.
+[01:09:27.900 --> 01:09:31.900]   So let's take time now to beseech the Lord, ask his spirit to work.
+[01:09:31.900 --> 01:09:37.900]   Let's pray.
+[01:09:37.900 --> 01:09:41.900]   (Piano playing)
+[01:09:41.900 --> 01:09:45.900]   (Piano playing)
+[01:09:45.900 --> 01:09:49.900]   (Piano playing)
+[01:09:49.900 --> 01:09:52.900]   [Music]
+[01:09:52.900 --> 01:09:55.900]   [Music]
+[01:09:55.900 --> 01:09:58.900]   [Music]
+[01:09:58.900 --> 01:10:02.900]   [Music]
+[01:10:02.900 --> 01:10:06.900]   [Music]
+[01:10:06.900 --> 01:10:10.900]   [Music]
+[01:10:10.900 --> 01:10:14.900]   [Music]
+[01:10:14.900 --> 01:10:18.900]   [Music]
+[01:10:18.900 --> 01:10:22.900]   [Music]
+[01:10:23.900 --> 01:10:26.900]   [Music]
+[01:10:26.900 --> 01:10:30.900]   [Music]
+[01:10:30.900 --> 01:10:34.900]   [Music]
+[01:10:34.900 --> 01:10:38.900]   [Music]
+[01:10:38.900 --> 01:10:42.900]   [Music]
+[01:10:42.900 --> 01:10:46.900]   [Music]
+[01:10:46.900 --> 01:10:50.900]   [Music]
+[01:10:51.900 --> 01:10:54.900]   [Music]
+[01:10:54.900 --> 01:10:58.900]   [Music]
+[01:10:58.900 --> 01:11:02.900]   [Music]
+[01:11:02.900 --> 01:11:06.900]   [Music]
+[01:11:06.900 --> 01:11:10.900]   [Music]
+[01:11:10.900 --> 01:11:14.900]   [Music]
+[01:11:14.900 --> 01:11:18.900]   [Music]
+[01:11:19.900 --> 01:11:22.900]   [Music]
+[01:11:22.900 --> 01:11:26.900]   [Music]
+[01:11:26.900 --> 01:11:30.900]   [Music]
+[01:11:30.900 --> 01:11:34.900]   [Music]
+[01:11:34.900 --> 01:11:38.900]   [Music]
+[01:11:38.900 --> 01:11:42.900]   [Music]
+[01:11:42.900 --> 01:11:46.900]   [Music]
+[01:11:47.900 --> 01:11:50.900]   [Music]
+[01:11:50.900 --> 01:11:54.900]   [Music]
+[01:11:54.900 --> 01:11:58.900]   [Music]
+[01:11:58.900 --> 01:12:02.900]   [Music]
+[01:12:02.900 --> 01:12:06.900]   [Music]
+[01:12:06.900 --> 01:12:10.900]   [Music]
+[01:12:10.900 --> 01:12:14.900]   [Music]
+[01:12:15.900 --> 01:12:18.900]   [Music]
+[01:12:18.900 --> 01:12:22.900]   [Music]
+[01:12:22.900 --> 01:12:26.900]   [Music]
+[01:12:26.900 --> 01:12:30.900]   [Music]
+[01:12:30.900 --> 01:12:34.900]   [Music]
+[01:12:34.900 --> 01:12:38.900]   [Music]
+[01:12:38.900 --> 01:12:42.900]   [Music]
+[01:12:43.900 --> 01:12:46.900]   [Music]
+[01:12:46.900 --> 01:12:50.900]   [Music]
+[01:12:50.900 --> 01:12:54.900]   [Music]
+[01:12:54.900 --> 01:12:58.900]   [Music]
+[01:12:58.900 --> 01:13:02.900]   [Music]
+[01:13:02.900 --> 01:13:06.900]   [Music]
+[01:13:06.900 --> 01:13:10.900]   [Music]
+[01:13:11.900 --> 01:13:14.900]   [Music]
+[01:13:14.900 --> 01:13:18.900]   [Music]
+[01:13:18.900 --> 01:13:22.900]   [Music]
+[01:13:22.900 --> 01:13:26.900]   [Music]
+[01:13:26.900 --> 01:13:30.900]   [Music]
+[01:13:30.900 --> 01:13:34.900]   [Music]
+[01:13:34.900 --> 01:13:38.900]   [Music]
+[01:13:39.900 --> 01:13:42.900]   [Music]
+[01:13:42.900 --> 01:13:46.900]   [Music]
+[01:13:46.900 --> 01:13:50.900]   [Music]
+[01:13:50.900 --> 01:13:54.900]   [Music]
+[01:13:54.900 --> 01:13:58.900]   [Music]
+[01:13:58.900 --> 01:14:02.900]   [Music]
+[01:14:02.900 --> 01:14:06.900]   [Music]
+[01:14:07.900 --> 01:14:10.900]   [Music]
+[01:14:10.900 --> 01:14:14.900]   [Music]
+[01:14:14.900 --> 01:14:18.900]   [Music]
+[01:14:18.900 --> 01:14:22.900]   [Music]
+[01:14:22.900 --> 01:14:26.900]   [Music]
+[01:14:26.900 --> 01:14:30.900]   [Music]
+[01:14:30.900 --> 01:14:34.900]   [Music]
+[01:14:35.900 --> 01:14:38.900]   [Music]
+[01:14:38.900 --> 01:14:42.900]   [Music]
+[01:14:42.900 --> 01:14:46.900]   [Music]
+[01:14:46.900 --> 01:14:50.900]   [Music]
+[01:14:50.900 --> 01:14:54.900]   [Music]
+[01:14:54.900 --> 01:14:58.900]   [Music]
+[01:14:58.900 --> 01:15:02.900]   [Music]
+[01:15:03.900 --> 01:15:06.900]   [Music]
+[01:15:06.900 --> 01:15:10.900]   [Music]
+[01:15:10.900 --> 01:15:14.900]   [Music]
+[01:15:14.900 --> 01:15:18.900]   [Music]
+[01:15:18.900 --> 01:15:22.900]   [Music]
+[01:15:22.900 --> 01:15:26.900]   [Music]
+[01:15:26.900 --> 01:15:30.900]   [Music]
+[01:15:31.900 --> 01:15:34.900]   [Music]
+[01:15:34.900 --> 01:15:38.900]   [Music]
+[01:15:38.900 --> 01:15:44.900]   Would you all please take a moment to stand with us. This will be the last song for the evening.
+[01:15:44.900 --> 01:15:48.900]   [Music]
+[01:15:48.900 --> 01:15:52.900]   [Music]
+[01:15:52.900 --> 01:15:56.900]   [Music]
+[01:15:56.900 --> 01:16:00.900]   [Music]
+[01:16:00.900 --> 01:16:03.900]   [Music]
+[01:16:03.900 --> 01:16:07.900]   [Music]
+[01:16:07.900 --> 01:16:11.900]   [Music]
+[01:16:11.900 --> 01:16:15.900]   [Music]
+[01:16:15.900 --> 01:16:19.900]   [Music]
+[01:16:19.900 --> 01:16:23.900]   [Music]
+[01:16:23.900 --> 01:16:27.900]   [Music]
+[01:16:28.900 --> 01:16:31.900]   [Music]
+[01:16:31.900 --> 01:16:35.900]   [Music]
+[01:16:35.900 --> 01:16:39.900]   [Music]
+[01:16:39.900 --> 01:16:43.900]   [Music]
+[01:16:43.900 --> 01:16:47.900]   [Music]
+[01:16:47.900 --> 01:16:51.900]   [Music]
+[01:16:51.900 --> 01:16:55.900]   [Music]
+[01:16:56.900 --> 01:16:59.900]   [Music]
+[01:16:59.900 --> 01:17:03.900]   [Music]
+[01:17:03.900 --> 01:17:07.900]   [Music]
+[01:17:07.900 --> 01:17:11.900]   [Music]
+[01:17:11.900 --> 01:17:15.900]   [Music]
+[01:17:15.900 --> 01:17:19.900]   [Music]
+[01:17:19.900 --> 01:17:23.900]   [Music]
+[01:17:24.900 --> 01:17:27.900]   [Music]
+[01:17:27.900 --> 01:17:31.900]   [Music]
+[01:17:31.900 --> 01:17:35.900]   [Music]
+[01:17:35.900 --> 01:17:39.900]   [Music]
+[01:17:39.900 --> 01:17:43.900]   [Music]
+[01:17:43.900 --> 01:17:47.900]   [Music]
+[01:17:47.900 --> 01:17:51.900]   [Music]
+[01:17:52.900 --> 01:17:55.900]   [Music]
+[01:17:55.900 --> 01:17:59.900]   [Music]
+[01:17:59.900 --> 01:18:03.900]   [Music]
+[01:18:03.900 --> 01:18:07.900]   [Music]
+[01:18:07.900 --> 01:18:11.900]   [Music]
+[01:18:11.900 --> 01:18:15.900]   [Music]
+[01:18:15.900 --> 01:18:19.900]   [Music]
+[01:18:20.900 --> 01:18:23.900]   [Music]
+[01:18:23.900 --> 01:18:27.900]   [Music]
+[01:18:27.900 --> 01:18:31.900]   [Music]
+[01:18:31.900 --> 01:18:35.900]   [Music]
+[01:18:35.900 --> 01:18:39.900]   [Music]
+[01:18:39.900 --> 01:18:43.900]   [Music]
+[01:18:43.900 --> 01:18:47.900]   [Music]
+[01:18:48.900 --> 01:18:51.900]   [Music]
+[01:18:51.900 --> 01:18:55.900]   [Music]
+[01:18:55.900 --> 01:18:59.900]   [Music]
+[01:18:59.900 --> 01:19:03.900]   [Music]
+[01:19:03.900 --> 01:19:07.900]   [Music]
+[01:19:07.900 --> 01:19:11.900]   [Music]
+[01:19:11.900 --> 01:19:15.900]   [Music]
+[01:19:16.900 --> 01:19:19.900]   [Music]
+[01:19:19.900 --> 01:19:23.900]   [Music]
+[01:19:23.900 --> 01:19:27.900]   [Music]
+[01:19:27.900 --> 01:19:31.900]   [Music]
+[01:19:31.900 --> 01:19:35.900]   [Music]
+[01:19:35.900 --> 01:19:39.900]   [Music]
+[01:19:39.900 --> 01:19:43.900]   [Music]
+[01:19:44.900 --> 01:19:47.900]   [Music]
+[01:19:47.900 --> 01:19:51.900]   [Music]
+[01:19:51.900 --> 01:19:55.900]   [Music]
+[01:19:55.900 --> 01:19:59.900]   [Music]
+[01:19:59.900 --> 01:20:03.900]   [Music]
+[01:20:03.900 --> 01:20:07.900]   [Music]
+[01:20:07.900 --> 01:20:11.900]   [Music]
+[01:20:12.900 --> 01:20:15.900]   [Music]
+[01:20:15.900 --> 01:20:19.900]   [Music]
+[01:20:19.900 --> 01:20:23.900]   [Music]
+[01:20:23.900 --> 01:20:27.900]   [Music]
+[01:20:27.900 --> 01:20:31.900]   [Music]
+[01:20:31.900 --> 01:20:35.900]   [Music]
+[01:20:35.900 --> 01:20:39.900]   [Music]
+[01:20:40.900 --> 01:20:43.900]   [Music]
+[01:20:43.900 --> 01:20:47.900]   [Music]
+[01:20:47.900 --> 01:20:51.900]   [Music]
+[01:20:51.900 --> 01:20:55.900]   [Music]
+[01:20:55.900 --> 01:20:59.900]   [Music]
+

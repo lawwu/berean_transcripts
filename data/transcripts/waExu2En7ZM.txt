@@ -1,0 +1,1718 @@
+
+[00:00:00.000 --> 00:00:02.920]   (soft piano music)
+[00:00:02.920 --> 00:00:05.840]   (soft piano music)
+[00:00:05.840 --> 00:00:08.760]   (soft piano music)
+[00:00:08.760 --> 00:00:11.680]   (soft piano music)
+[00:00:11.680 --> 00:00:16.600]   (soft piano music)
+[00:00:16.600 --> 00:00:21.520]   (soft piano music)
+[00:00:21.520 --> 00:00:26.440]   (soft piano music)
+[00:00:26.440 --> 00:00:31.360]   (soft piano music)
+[00:00:31.360 --> 00:00:36.280]   (soft piano music)
+[00:00:38.280 --> 00:00:41.200]   (soft piano music)
+[00:00:41.200 --> 00:00:46.120]   (soft piano music)
+[00:00:46.120 --> 00:00:51.040]   (soft piano music)
+[00:00:51.040 --> 00:00:54.960]   (soft piano music)
+[00:00:54.960 --> 00:00:59.880]   (soft piano music)
+[00:00:59.880 --> 00:01:04.800]   (soft piano music)
+[00:01:06.800 --> 00:01:09.720]   (soft piano music)
+[00:01:09.720 --> 00:01:14.640]   (soft piano music)
+[00:01:14.640 --> 00:01:19.560]   (soft piano music)
+[00:01:19.560 --> 00:01:23.480]   (soft piano music)
+[00:01:23.480 --> 00:01:27.400]   (soft piano music)
+[00:01:27.400 --> 00:01:31.320]   (soft piano music)
+[00:01:31.320 --> 00:01:35.240]   (soft piano music)
+[00:01:36.240 --> 00:01:39.160]   (soft piano music)
+[00:01:39.160 --> 00:01:43.080]   (soft piano music)
+[00:01:43.080 --> 00:01:47.000]   (soft piano music)
+[00:01:47.000 --> 00:01:50.920]   (soft piano music)
+[00:01:50.920 --> 00:01:54.840]   (soft piano music)
+[00:01:54.840 --> 00:01:58.760]   (soft piano music)
+[00:01:58.760 --> 00:02:02.680]   (soft piano music)
+[00:02:03.680 --> 00:02:06.600]   (soft piano music)
+[00:02:06.600 --> 00:02:10.520]   (soft piano music)
+[00:02:10.520 --> 00:02:16.400]   (soft piano music)
+[00:02:16.400 --> 00:02:20.320]   (soft piano music)
+[00:02:20.320 --> 00:02:24.240]   (soft piano music)
+[00:02:24.240 --> 00:02:28.160]   (soft piano music)
+[00:02:28.160 --> 00:02:32.080]   (soft piano music)
+[00:02:33.080 --> 00:02:36.000]   (soft piano music)
+[00:02:36.000 --> 00:02:39.920]   (soft piano music)
+[00:02:39.920 --> 00:02:43.800]   (soft piano music)
+[00:02:43.800 --> 00:02:47.720]   (soft piano music)
+[00:02:47.720 --> 00:02:51.640]   (soft piano music)
+[00:02:51.640 --> 00:02:55.480]   (soft piano music)
+[00:02:55.480 --> 00:02:59.400]   (soft piano music)
+[00:03:00.400 --> 00:03:03.320]   (soft piano music)
+[00:03:03.320 --> 00:03:07.240]   (soft piano music)
+[00:03:07.240 --> 00:03:11.160]   (soft piano music)
+[00:03:11.160 --> 00:03:15.080]   (soft piano music)
+[00:03:15.080 --> 00:03:19.000]   (soft piano music)
+[00:03:19.000 --> 00:03:22.920]   (soft piano music)
+[00:03:22.920 --> 00:03:26.840]   (soft piano music)
+[00:03:27.840 --> 00:03:30.760]   (soft piano music)
+[00:03:30.760 --> 00:03:34.680]   (soft piano music)
+[00:03:34.680 --> 00:03:38.600]   (soft piano music)
+[00:03:38.600 --> 00:03:42.520]   (soft piano music)
+[00:03:42.520 --> 00:03:46.440]   (soft piano music)
+[00:03:46.440 --> 00:03:50.360]   (soft piano music)
+[00:03:50.360 --> 00:03:54.280]   (soft piano music)
+[00:03:55.280 --> 00:03:58.200]   (soft piano music)
+[00:03:58.200 --> 00:04:02.120]   (soft piano music)
+[00:04:02.120 --> 00:04:06.040]   (soft piano music)
+[00:04:06.040 --> 00:04:09.960]   (soft piano music)
+[00:04:09.960 --> 00:04:13.880]   (soft piano music)
+[00:04:13.880 --> 00:04:17.800]   (soft piano music)
+[00:04:17.800 --> 00:04:21.720]   (soft piano music)
+[00:04:22.720 --> 00:04:25.640]   (soft piano music)
+[00:04:25.640 --> 00:04:29.560]   (soft piano music)
+[00:04:29.560 --> 00:04:33.480]   (soft piano music)
+[00:04:33.480 --> 00:04:37.400]   (soft piano music)
+[00:04:37.400 --> 00:04:41.320]   (soft piano music)
+[00:04:41.320 --> 00:04:45.240]   (soft piano music)
+[00:04:45.240 --> 00:04:49.160]   (soft piano music)
+[00:04:50.160 --> 00:04:53.080]   (soft piano music)
+[00:04:53.080 --> 00:04:57.000]   (soft piano music)
+[00:04:57.000 --> 00:05:00.920]   (soft piano music)
+[00:05:00.920 --> 00:05:04.840]   (soft piano music)
+[00:05:04.840 --> 00:05:08.760]   (soft piano music)
+[00:05:08.760 --> 00:05:12.680]   (soft piano music)
+[00:05:12.680 --> 00:05:16.600]   (soft piano music)
+[00:05:17.600 --> 00:05:20.520]   (soft piano music)
+[00:05:20.520 --> 00:05:24.440]   (soft piano music)
+[00:05:24.440 --> 00:05:28.360]   (soft piano music)
+[00:05:28.360 --> 00:05:32.280]   (soft piano music)
+[00:05:32.280 --> 00:05:36.200]   (soft piano music)
+[00:05:36.200 --> 00:05:40.120]   (soft piano music)
+[00:05:40.120 --> 00:05:44.040]   (soft piano music)
+[00:05:45.040 --> 00:05:47.960]   (soft piano music)
+[00:05:47.960 --> 00:05:51.880]   (soft piano music)
+[00:05:51.880 --> 00:05:55.800]   (soft piano music)
+[00:05:55.800 --> 00:05:59.720]   (soft piano music)
+[00:05:59.720 --> 00:06:03.640]   (soft piano music)
+[00:06:03.640 --> 00:06:07.560]   (soft piano music)
+[00:06:07.560 --> 00:06:11.480]   (soft piano music)
+[00:06:12.480 --> 00:06:15.400]   (soft piano music)
+[00:06:15.400 --> 00:06:19.320]   (soft piano music)
+[00:06:19.320 --> 00:06:23.240]   (soft piano music)
+[00:06:23.240 --> 00:06:27.160]   (soft piano music)
+[00:06:27.160 --> 00:06:31.080]   (soft piano music)
+[00:06:31.080 --> 00:06:35.000]   (soft piano music)
+[00:06:35.000 --> 00:06:38.920]   (soft piano music)
+[00:06:39.920 --> 00:06:42.840]   (soft piano music)
+[00:06:42.840 --> 00:06:46.760]   (soft piano music)
+[00:06:46.760 --> 00:06:50.680]   (soft piano music)
+[00:06:50.680 --> 00:06:54.600]   (soft piano music)
+[00:06:54.600 --> 00:06:58.520]   (soft piano music)
+[00:06:58.520 --> 00:07:02.440]   (soft piano music)
+[00:07:02.440 --> 00:07:06.360]   (soft piano music)
+[00:07:07.360 --> 00:07:10.280]   (soft piano music)
+[00:07:10.280 --> 00:07:14.200]   (soft piano music)
+[00:07:14.200 --> 00:07:18.120]   (soft piano music)
+[00:07:18.120 --> 00:07:22.040]   (soft piano music)
+[00:07:22.040 --> 00:07:25.960]   (soft piano music)
+[00:07:25.960 --> 00:07:29.880]   (soft piano music)
+[00:07:29.880 --> 00:07:33.800]   (soft piano music)
+[00:07:34.800 --> 00:07:37.720]   (soft piano music)
+[00:07:37.720 --> 00:07:41.640]   (soft piano music)
+[00:07:41.640 --> 00:07:45.560]   (soft piano music)
+[00:07:45.560 --> 00:07:49.480]   (soft piano music)
+[00:07:49.480 --> 00:07:53.400]   (soft piano music)
+[00:07:53.400 --> 00:07:57.320]   (soft piano music)
+[00:07:57.320 --> 00:08:01.240]   (soft piano music)
+[00:08:02.240 --> 00:08:05.160]   (soft piano music)
+[00:08:05.160 --> 00:08:09.080]   (soft piano music)
+[00:08:09.080 --> 00:08:13.000]   (soft piano music)
+[00:08:13.000 --> 00:08:16.920]   (soft piano music)
+[00:08:16.920 --> 00:08:20.840]   (soft piano music)
+[00:08:20.840 --> 00:08:24.760]   (soft piano music)
+[00:08:24.760 --> 00:08:28.680]   (soft piano music)
+[00:08:29.680 --> 00:08:32.600]   (soft piano music)
+[00:08:32.600 --> 00:08:36.520]   (soft piano music)
+[00:08:36.520 --> 00:08:40.440]   (soft piano music)
+[00:08:40.440 --> 00:08:44.360]   (soft piano music)
+[00:08:44.360 --> 00:08:48.280]   (soft piano music)
+[00:08:48.280 --> 00:08:52.200]   (soft piano music)
+[00:08:52.200 --> 00:08:56.120]   (soft piano music)
+[00:08:57.120 --> 00:09:00.040]   (soft piano music)
+[00:09:00.040 --> 00:09:03.960]   (soft piano music)
+[00:09:03.960 --> 00:09:07.880]   (soft piano music)
+[00:09:07.880 --> 00:09:11.800]   (soft piano music)
+[00:09:11.800 --> 00:09:15.720]   (soft piano music)
+[00:09:15.720 --> 00:09:18.960]   (soft piano music)
+[00:09:18.960 --> 00:09:19.840]   - Good morning, church family.
+[00:09:19.840 --> 00:09:20.680]   Happy Lord's Day.
+[00:09:20.680 --> 00:09:22.000]   We're gonna go ahead and begin our service
+[00:09:22.000 --> 00:09:24.480]   by singing this first song, "Oh Great God."
+[00:09:24.480 --> 00:09:27.920]   We come before a God who's magnificent and great,
+[00:09:27.920 --> 00:09:30.960]   and we wanna reflect that in the songs that we sing.
+[00:09:30.960 --> 00:09:37.520]   (soft piano music)
+[00:09:37.520 --> 00:09:44.840]   ♪ Oh great God of highest heaven ♪
+[00:09:44.840 --> 00:09:49.680]   ♪ Occupy my lowly heart ♪
+[00:09:49.680 --> 00:09:54.440]   ♪ Own it all and reign supreme ♪
+[00:09:54.440 --> 00:09:59.240]   ♪ Conquer every rebel power ♪
+[00:09:59.240 --> 00:10:04.040]   ♪ Let no vice or sin remain ♪
+[00:10:04.040 --> 00:10:08.920]   ♪ That resists your holy war ♪
+[00:10:08.920 --> 00:10:13.640]   ♪ You have loved and purchased me ♪
+[00:10:13.640 --> 00:10:18.640]   ♪ Made me yours forevermore ♪
+[00:10:18.640 --> 00:10:22.320]   (soft piano music)
+[00:10:23.960 --> 00:10:28.960]   ♪ When I was blinded by my sin ♪
+[00:10:28.960 --> 00:10:35.280]   ♪ Had no ears to hear your voice ♪
+[00:10:35.280 --> 00:10:39.920]   ♪ Did not know your love within ♪
+[00:10:39.920 --> 00:10:44.720]   ♪ Had no taste for heaven's joy ♪
+[00:10:44.720 --> 00:10:49.480]   ♪ Then your spirit gave me life ♪
+[00:10:49.480 --> 00:10:54.480]   ♪ Opened up your word to me ♪
+[00:10:54.480 --> 00:10:59.200]   ♪ Through the gospel of your son ♪
+[00:10:59.200 --> 00:11:03.360]   ♪ Gave me endless hope and peace ♪
+[00:11:03.360 --> 00:11:06.280]   (soft piano music)
+[00:11:06.280 --> 00:11:16.000]   ♪ Help me now to live a life ♪
+[00:11:16.000 --> 00:11:20.800]   ♪ That's dependent on your grace ♪
+[00:11:20.800 --> 00:11:25.600]   ♪ Keep my heart and guard my soul ♪
+[00:11:25.600 --> 00:11:30.400]   ♪ From the evils that I face ♪
+[00:11:30.400 --> 00:11:35.200]   ♪ You are worthy to be praised ♪
+[00:11:35.200 --> 00:11:40.040]   ♪ With my every thought and deed ♪
+[00:11:40.040 --> 00:11:44.800]   ♪ Oh great God of highest heaven ♪
+[00:11:44.800 --> 00:11:49.800]   ♪ Glorify your name through mine ♪
+[00:11:49.800 --> 00:11:54.440]   ♪ You are worthy to be praised ♪
+[00:11:54.440 --> 00:11:59.440]   ♪ With my every thought and deed ♪
+[00:11:59.440 --> 00:12:04.560]   ♪ Oh great God of highest heaven ♪
+[00:12:04.560 --> 00:12:08.720]   ♪ Glorify your name through mine ♪
+[00:12:13.520 --> 00:12:14.360]   - All right, good morning.
+[00:12:14.360 --> 00:12:16.440]   Welcome to Breen Community Church.
+[00:12:16.440 --> 00:12:18.040]   We have actually quite a few announcements,
+[00:12:18.040 --> 00:12:20.320]   so I'm gonna just jump in and get started.
+[00:12:20.320 --> 00:12:22.680]   As you guys saw when you were coming on campus
+[00:12:22.680 --> 00:12:25.280]   that we did some construction outside,
+[00:12:25.280 --> 00:12:28.120]   and so there's gonna be a continuing,
+[00:12:28.120 --> 00:12:29.000]   things that are happening,
+[00:12:29.000 --> 00:12:33.280]   so the other side that has been open to us,
+[00:12:33.280 --> 00:12:34.560]   where EBTA, because it left,
+[00:12:34.560 --> 00:12:36.560]   there's construction going in there.
+[00:12:36.560 --> 00:12:38.020]   One part is being used, the other part,
+[00:12:38.020 --> 00:12:40.040]   there's still stuff that needs to be done.
+[00:12:40.040 --> 00:12:42.440]   So we ask that you guys stay out of that area
+[00:12:42.440 --> 00:12:43.640]   because construction is going,
+[00:12:43.640 --> 00:12:45.320]   unless you're a youth group
+[00:12:45.320 --> 00:12:47.040]   and you're using one part of it.
+[00:12:47.040 --> 00:12:47.920]   So other than that,
+[00:12:47.920 --> 00:12:49.800]   we ask that you guys stay out of that area.
+[00:12:49.800 --> 00:12:52.560]   There will continually be things that are going on,
+[00:12:52.560 --> 00:12:54.240]   and then eventually there's gonna be some construction
+[00:12:54.240 --> 00:12:55.720]   that's happening in here as well.
+[00:12:55.720 --> 00:12:57.320]   So I want you guys to be aware of that,
+[00:12:57.320 --> 00:13:00.320]   and if you see any yellow tape or kind of blocking off,
+[00:13:00.320 --> 00:13:02.320]   don't get curious and get in there.
+[00:13:02.320 --> 00:13:05.820]   So just try to avoid that if possible.
+[00:13:05.820 --> 00:13:10.720]   Breen membership class,
+[00:13:10.760 --> 00:13:13.460]   so if you are planning to take the membership class,
+[00:13:13.460 --> 00:13:16.360]   that's gonna be starting next Sunday at 9 a.m.,
+[00:13:16.360 --> 00:13:19.420]   and eventually we're gonna be moving it to our new building,
+[00:13:19.420 --> 00:13:22.260]   but for this session,
+[00:13:22.260 --> 00:13:23.860]   we are gonna still continue to have it
+[00:13:23.860 --> 00:13:26.940]   in our Sprouts room upstairs.
+[00:13:26.940 --> 00:13:27.920]   So starting next week,
+[00:13:27.920 --> 00:13:29.960]   it's an eight-week course, nine to 1020,
+[00:13:29.960 --> 00:13:32.020]   and if you didn't let Pastor Nate know,
+[00:13:32.020 --> 00:13:33.320]   please let him know as soon as possible
+[00:13:33.320 --> 00:13:35.320]   that you're coming next week.
+[00:13:35.320 --> 00:13:39.080]   Seasoned fellowship, so if you are 50 and over,
+[00:13:39.080 --> 00:13:41.240]   we have a lunch fellowship for you
+[00:13:41.240 --> 00:13:44.800]   that's going on next Sunday at 1 p.m., okay?
+[00:13:44.800 --> 00:13:47.680]   And so Elder Phillip is gonna be outside.
+[00:13:47.680 --> 00:13:48.840]   As you're going through the cafe,
+[00:13:48.840 --> 00:13:50.520]   you'll see a little table to the left,
+[00:13:50.520 --> 00:13:52.240]   and so the sign-up is happening there,
+[00:13:52.240 --> 00:13:54.320]   so please let them know that you are coming
+[00:13:54.320 --> 00:13:56.920]   because they need to order food and prepare,
+[00:13:56.920 --> 00:13:59.640]   and so please go there right after and then sign up,
+[00:13:59.640 --> 00:14:02.640]   and the lunch is going to be $10 per person,
+[00:14:02.640 --> 00:14:04.580]   and again, please go and sign up
+[00:14:04.580 --> 00:14:06.420]   as soon as you can after the service.
+[00:14:07.280 --> 00:14:11.840]   On July 23rd, there's gonna be a men's prayer breakfast/lunch
+[00:14:11.840 --> 00:14:14.120]   that's happening at 9.30 a.m.,
+[00:14:14.120 --> 00:14:15.360]   so this is for all the men.
+[00:14:15.360 --> 00:14:16.680]   This is including high school
+[00:14:16.680 --> 00:14:19.120]   to all the way up to seasoned fellowship,
+[00:14:19.120 --> 00:14:22.120]   and so this is specifically targeted for men,
+[00:14:22.120 --> 00:14:23.720]   so we're gonna be praying over
+[00:14:23.720 --> 00:14:25.000]   and we're gonna be talking about things
+[00:14:25.000 --> 00:14:29.400]   just pertaining to men, so please sign up for that.
+[00:14:29.400 --> 00:14:34.160]   Light breakfast, and then lunch is going to be provided,
+[00:14:34.160 --> 00:14:37.000]   so there's no fee, at least for the first one,
+[00:14:37.000 --> 00:14:38.320]   so please sign up for that,
+[00:14:38.320 --> 00:14:41.120]   and again, that's happening on July 23rd.
+[00:14:41.120 --> 00:14:44.240]   Second Peter Bible study sign-up is happening now,
+[00:14:44.240 --> 00:14:47.000]   so the Bible study, obviously,
+[00:14:47.000 --> 00:14:49.680]   we're on break until August 31st,
+[00:14:49.680 --> 00:14:53.400]   and I will be leading the study in Second Peter,
+[00:14:53.400 --> 00:14:55.080]   but whether you're in a home group
+[00:14:55.080 --> 00:14:56.600]   or whether you're in a small group,
+[00:14:56.600 --> 00:14:57.880]   we need you to re-sign up
+[00:14:57.880 --> 00:14:59.780]   because we need to organize the small groups
+[00:14:59.780 --> 00:15:02.920]   and see if we need to add more home groups,
+[00:15:02.920 --> 00:15:06.280]   and so we need you to sign up as soon as possible,
+[00:15:06.280 --> 00:15:08.100]   so that sign-up has opened up already,
+[00:15:08.100 --> 00:15:11.320]   so please go and sign up for that as soon as you can.
+[00:15:11.320 --> 00:15:13.240]   This morning, we have a special announcement
+[00:15:13.240 --> 00:15:15.360]   from Pastor Peter Chung about our BBS,
+[00:15:15.360 --> 00:15:17.400]   so he's gonna come give the announcement now.
+[00:15:17.400 --> 00:15:22.120]   - Well, good morning.
+[00:15:22.120 --> 00:15:23.960]   I have actually two announcements.
+[00:15:23.960 --> 00:15:26.960]   The first one pertains to the family retreat,
+[00:15:26.960 --> 00:15:30.360]   which is gonna be Friday, August 12th to the 14th.
+[00:15:30.360 --> 00:15:32.440]   If you haven't signed up for it,
+[00:15:32.440 --> 00:15:35.520]   next Sunday will be your last Sunday.
+[00:15:35.520 --> 00:15:38.800]   Grace will not be afforded to you
+[00:15:38.800 --> 00:15:40.840]   because we are running out of space, okay?
+[00:15:40.840 --> 00:15:44.200]   So if you have any changes to your plans
+[00:15:44.200 --> 00:15:46.060]   or any questions that you wanna ask,
+[00:15:46.060 --> 00:15:48.340]   there is gonna be a family ministry table
+[00:15:48.340 --> 00:15:50.960]   right outside the cafe entrance,
+[00:15:50.960 --> 00:15:52.680]   so please stop by there.
+[00:15:52.680 --> 00:15:54.880]   So July 10th, next Sunday,
+[00:15:54.880 --> 00:15:58.040]   will be the last day for the sign-ups,
+[00:15:58.040 --> 00:15:59.120]   and as you guys may know,
+[00:15:59.120 --> 00:16:03.740]   VBS will be running starting next Monday, July 11th.
+[00:16:03.740 --> 00:16:05.040]   It's gonna be five to eight,
+[00:16:05.040 --> 00:16:10.040]   and we're gonna try to keep our time pretty set,
+[00:16:10.040 --> 00:16:15.800]   so please do drop off your child before five if you can.
+[00:16:15.800 --> 00:16:18.140]   The doors will open at 4.30,
+[00:16:18.140 --> 00:16:20.520]   and we want to make sure
+[00:16:20.520 --> 00:16:22.320]   that this isn't just a program that we run.
+[00:16:22.320 --> 00:16:25.320]   We wanna make sure that it is covered and bathed in prayer,
+[00:16:25.320 --> 00:16:27.160]   especially from the parents,
+[00:16:27.160 --> 00:16:31.600]   and so for July 11th, Monday, and July 15th, Friday,
+[00:16:31.600 --> 00:16:32.440]   those two nights,
+[00:16:32.440 --> 00:16:35.840]   we're gonna have a prayer time for the parents at 5.30
+[00:16:35.840 --> 00:16:38.960]   to just to pray for the children in attendance of our VBS
+[00:16:38.960 --> 00:16:40.640]   and for just our church in general.
+[00:16:40.640 --> 00:16:42.320]   So that's gonna be next week,
+[00:16:42.320 --> 00:16:45.160]   so just a heads up on that.
+[00:16:45.160 --> 00:16:46.200]   All right, thank you.
+[00:16:46.200 --> 00:16:52.560]   - All right, so before I pray for our offering,
+[00:16:52.560 --> 00:16:54.240]   right after our worship set,
+[00:16:54.240 --> 00:16:55.920]   our sister Judy Kim is gonna come up
+[00:16:55.920 --> 00:16:58.080]   and give her testimony and be baptized this morning,
+[00:16:58.080 --> 00:16:59.560]   and so after I pray,
+[00:16:59.560 --> 00:17:02.000]   we'll give you a minute to give your electronic offering.
+[00:17:02.000 --> 00:17:03.640]   Again, if you are here visiting us
+[00:17:03.640 --> 00:17:06.240]   and you are planning to give a physical offering,
+[00:17:06.240 --> 00:17:08.440]   there is an offering basket underneath that big clock
+[00:17:08.440 --> 00:17:09.920]   as you're exiting, okay?
+[00:17:09.920 --> 00:17:11.000]   All right, let's pray.
+[00:17:11.000 --> 00:17:15.600]   - Heavenly Father, we pray for your blessing.
+[00:17:15.600 --> 00:17:16.680]   We pray, Father God,
+[00:17:16.680 --> 00:17:20.040]   that all the distractions that we brought into this room
+[00:17:20.040 --> 00:17:24.560]   help us to be refocused, Lord, upon Christ,
+[00:17:24.560 --> 00:17:27.800]   help us to have a greater and greater vision of who he is
+[00:17:27.800 --> 00:17:31.080]   and what you have been doing in history, Father God,
+[00:17:31.080 --> 00:17:33.520]   that our worship may be in line
+[00:17:33.520 --> 00:17:36.680]   of us seeing a greater glimpse of your glory.
+[00:17:36.680 --> 00:17:38.680]   Bless this time, Lord, bless this offering.
+[00:17:38.680 --> 00:17:40.440]   May it be multiplied for your use.
+[00:17:40.440 --> 00:17:42.480]   In Jesus' name we pray, amen.
+[00:17:42.480 --> 00:17:45.560]   (gentle piano music)
+[00:17:45.560 --> 00:17:49.480]   (gentle piano music continues)
+[00:17:49.480 --> 00:17:53.400]   (gentle piano music continues)
+[00:17:53.400 --> 00:17:57.320]   (gentle piano music continues)
+[00:17:57.320 --> 00:18:01.240]   (gentle piano music continues)
+[00:18:01.240 --> 00:18:05.160]   (gentle piano music continues)
+[00:18:05.160 --> 00:18:09.080]   (gentle piano music continues)
+[00:18:35.080 --> 00:18:37.080]   - Church family, let's all rise together.
+[00:18:37.080 --> 00:18:43.000]   (upbeat music)
+[00:18:43.000 --> 00:18:45.640]   ♪ Great are you, Lord ♪
+[00:18:45.640 --> 00:18:50.040]   ♪ Mighty and strong ♪
+[00:18:50.040 --> 00:18:52.680]   ♪ You are faithful ♪
+[00:18:52.680 --> 00:18:57.320]   ♪ And you'll ever be ♪
+[00:18:57.320 --> 00:19:00.040]   ♪ We will praise you ♪
+[00:19:00.040 --> 00:19:04.280]   ♪ All of our days ♪
+[00:19:04.280 --> 00:19:06.840]   ♪ For your glory ♪
+[00:19:06.840 --> 00:19:09.720]   ♪ We offer everything ♪
+[00:19:09.720 --> 00:19:13.320]   ♪ Raise your hands, all you nations ♪
+[00:19:13.320 --> 00:19:17.320]   ♪ Shout to God our creation ♪
+[00:19:17.320 --> 00:19:22.120]   ♪ Our Father, Son, and Holy Spirit ♪
+[00:19:22.120 --> 00:19:25.800]   ♪ Where you send us ♪
+[00:19:25.800 --> 00:19:28.440]   ♪ Where you send us ♪
+[00:19:28.440 --> 00:19:32.840]   ♪ God, we will go ♪
+[00:19:32.840 --> 00:19:35.400]   ♪ You're the answer ♪
+[00:19:35.400 --> 00:19:40.040]   ♪ We want the world to know ♪
+[00:19:40.040 --> 00:19:42.600]   ♪ We will trust you ♪
+[00:19:42.600 --> 00:19:47.240]   ♪ When you call our name ♪
+[00:19:47.240 --> 00:19:49.800]   ♪ Where you lead us ♪
+[00:19:49.800 --> 00:19:52.680]   ♪ We'll follow all the way ♪
+[00:19:52.680 --> 00:19:56.200]   ♪ Raise your hands, all you nations ♪
+[00:19:56.200 --> 00:20:00.280]   ♪ Shout to God our creation ♪
+[00:20:00.280 --> 00:20:03.240]   ♪ How awesome is the Lord ♪
+[00:20:03.240 --> 00:20:07.000]   ♪ Most high, yes, Lord, praise ♪
+[00:20:07.000 --> 00:20:11.240]   ♪ We will praise you together ♪
+[00:20:11.240 --> 00:20:14.600]   ♪ For now and forever ♪
+[00:20:14.600 --> 00:20:17.480]   ♪ How awesome is the Lord ♪
+[00:20:17.480 --> 00:20:22.200]   ♪ Most high, hallelujah ♪
+[00:20:22.200 --> 00:20:25.720]   ♪ Hallelujah ♪
+[00:20:25.720 --> 00:20:28.920]   ♪ Hallelujah ♪
+[00:20:28.920 --> 00:20:31.880]   ♪ How awesome is the Lord ♪
+[00:20:31.880 --> 00:20:36.600]   ♪ Most high, sing it out, hallelujah ♪
+[00:20:36.600 --> 00:20:40.200]   ♪ Hallelujah ♪
+[00:20:40.200 --> 00:20:43.320]   ♪ Hallelujah ♪
+[00:20:43.320 --> 00:20:46.120]   ♪ How awesome is the Lord ♪
+[00:20:46.120 --> 00:20:50.440]   ♪ Most high, yes, Lord, praise ♪
+[00:20:50.440 --> 00:20:53.480]   ♪ Raise your hands, all you nations ♪
+[00:20:53.480 --> 00:20:57.560]   ♪ Shout to God our creation ♪
+[00:20:57.560 --> 00:21:00.360]   ♪ How awesome is the Lord ♪
+[00:21:00.360 --> 00:21:04.200]   ♪ Most high, we will praise, Lord ♪
+[00:21:04.200 --> 00:21:08.280]   ♪ We will praise you together ♪
+[00:21:08.280 --> 00:21:11.880]   ♪ For now and forever ♪
+[00:21:11.880 --> 00:21:14.760]   ♪ How awesome is the Lord ♪
+[00:21:14.760 --> 00:21:19.320]   ♪ Most high, yes, Lord, praise ♪
+[00:21:19.320 --> 00:21:21.960]   ♪ How awesome is the Lord ♪
+[00:21:21.960 --> 00:21:24.280]   ♪ Most high ♪
+[00:21:24.280 --> 00:21:26.860]   (gentle music)
+[00:21:26.860 --> 00:21:53.880]   ♪ How I love the force of Jesus ♪
+[00:21:53.880 --> 00:21:58.520]   ♪ On the cross of Calvary ♪
+[00:21:58.520 --> 00:22:03.080]   ♪ He declares his work is finished ♪
+[00:22:03.080 --> 00:22:07.640]   ♪ He has spoken this hope to me ♪
+[00:22:07.640 --> 00:22:12.600]   ♪ Though the sun had ceased its shining ♪
+[00:22:12.600 --> 00:22:16.920]   ♪ Though the war appeared as lost ♪
+[00:22:16.920 --> 00:22:21.560]   ♪ Christ had triumphed over evil ♪
+[00:22:21.560 --> 00:22:25.720]   ♪ It was finished upon that cross ♪
+[00:22:25.720 --> 00:22:33.320]   - The curse of the cross.
+[00:22:33.320 --> 00:22:38.840]   ♪ Now the curse, it has been broken ♪
+[00:22:38.840 --> 00:22:43.480]   ♪ Jesus paid the price for me ♪
+[00:22:43.480 --> 00:22:48.040]   ♪ Will the pardon he has offered ♪
+[00:22:48.040 --> 00:22:52.680]   ♪ Be the welcome that I receive ♪
+[00:22:52.680 --> 00:22:57.640]   ♪ Only I approach my father ♪
+[00:22:57.640 --> 00:23:01.880]   ♪ Calling Jesus righteousness ♪
+[00:23:01.880 --> 00:23:06.520]   ♪ There is no more guilt to give ♪
+[00:23:06.520 --> 00:23:10.680]   ♪ It was finished upon that cross ♪
+[00:23:10.680 --> 00:23:13.260]   (gentle music)
+[00:23:13.260 --> 00:23:33.080]   ♪ Death was once my grip upon it ♪
+[00:23:33.080 --> 00:23:37.640]   ♪ Fear once had a hold on me ♪
+[00:23:37.640 --> 00:23:42.280]   ♪ But the son who died to save us ♪
+[00:23:42.280 --> 00:23:46.680]   ♪ Rose that we might be free indeed ♪
+[00:23:46.680 --> 00:23:49.260]   (gentle music)
+[00:23:49.260 --> 00:23:52.840]   - One more time, death.
+[00:23:52.840 --> 00:23:55.000]   (gentle music)
+[00:23:55.000 --> 00:23:59.560]   ♪ Death was once my grip upon it ♪
+[00:23:59.560 --> 00:24:04.200]   ♪ Fear once had a hold on me ♪
+[00:24:04.200 --> 00:24:08.840]   ♪ But the son who died to save us ♪
+[00:24:08.840 --> 00:24:13.400]   ♪ Rose that we would be free indeed ♪
+[00:24:13.400 --> 00:24:18.120]   ♪ Rose that we would be free indeed ♪
+[00:24:18.120 --> 00:24:23.000]   ♪ Free from every plan of darkness ♪
+[00:24:23.000 --> 00:24:27.240]   ♪ Free to live and free to love ♪
+[00:24:27.240 --> 00:24:31.880]   ♪ Death is dead and Christ is risen ♪
+[00:24:31.880 --> 00:24:36.440]   ♪ It was finished upon that cross ♪
+[00:24:36.440 --> 00:24:41.400]   ♪ Onward to eternal glory ♪
+[00:24:41.400 --> 00:24:45.720]   ♪ To my Savior and my God ♪
+[00:24:45.720 --> 00:24:50.360]   ♪ I rejoice in Jesus' victory ♪
+[00:24:50.360 --> 00:24:54.920]   ♪ It was finished upon that cross ♪
+[00:24:54.920 --> 00:24:59.560]   ♪ It was finished upon that cross ♪
+[00:24:59.560 --> 00:25:03.880]   ♪ It was finished upon that cross ♪
+[00:25:03.880 --> 00:25:06.460]   (gentle music)
+[00:25:06.460 --> 00:25:20.140]   ♪ It was finished ♪
+[00:25:20.140 --> 00:25:24.380]   ♪ It was finished ♪
+[00:25:24.380 --> 00:25:26.960]   (gentle music)
+[00:25:26.960 --> 00:25:47.100]   - Hello, my name is Judy Kim,
+[00:25:47.100 --> 00:25:50.820]   and I've been attending Berean since this past October,
+[00:25:50.820 --> 00:25:52.620]   and I'm grateful to have this opportunity
+[00:25:52.620 --> 00:25:53.900]   to share my testimony.
+[00:25:54.700 --> 00:25:57.500]   I recently moved and ruffled through a box
+[00:25:57.500 --> 00:26:00.220]   of dusty journals from my childhood.
+[00:26:00.220 --> 00:26:01.820]   I read through page after page,
+[00:26:01.820 --> 00:26:04.500]   flooded with worries, discontentment,
+[00:26:04.500 --> 00:26:06.300]   anger, blame, and doubt.
+[00:26:06.300 --> 00:26:08.380]   At first, I laughed at myself
+[00:26:08.380 --> 00:26:10.600]   for being so angsty and dramatic,
+[00:26:10.600 --> 00:26:12.940]   but then I realized I once was imprisoned
+[00:26:12.940 --> 00:26:14.140]   to this way of thinking.
+[00:26:14.140 --> 00:26:17.220]   Although my mom took me to church with her
+[00:26:17.220 --> 00:26:18.340]   since the third grade,
+[00:26:18.340 --> 00:26:21.580]   I felt that the supposed truth that I heard at church
+[00:26:21.580 --> 00:26:24.220]   conflicted so much with the world and circumstances
+[00:26:24.220 --> 00:26:25.800]   that surrounded me.
+[00:26:25.800 --> 00:26:28.020]   Everything is within God's plan,
+[00:26:28.020 --> 00:26:30.100]   yet my parents are fighting,
+[00:26:30.100 --> 00:26:31.940]   my two older brothers were hurting,
+[00:26:31.940 --> 00:26:37.500]   and my mom became sick with a chronic
+[00:26:37.500 --> 00:26:44.720]   illness that would cause her heart and kidneys to fail.
+[00:26:44.720 --> 00:26:48.500]   Saved not by words, yet I felt most loved
+[00:26:48.500 --> 00:26:51.480]   for my achievements and most devastated by my failures.
+[00:26:51.480 --> 00:26:56.260]   I was aimlessly striving for some sort of control and peace,
+[00:26:56.260 --> 00:26:57.880]   but it always quickly faded.
+[00:26:57.880 --> 00:27:03.080]   Sometimes when I needed God, I would run to him,
+[00:27:03.080 --> 00:27:06.460]   but my flesh was unwilling to fully surrender
+[00:27:06.460 --> 00:27:08.260]   the passing pleasures that seemed to subdue
+[00:27:08.260 --> 00:27:10.460]   the turbulence in my home and in my heart.
+[00:27:10.460 --> 00:27:14.600]   My allegiance was wishy-washy, that is,
+[00:27:14.600 --> 00:27:18.280]   until God made clear to me how ugly sin was.
+[00:27:18.560 --> 00:27:20.760]   It wasn't that life was just hard and painful
+[00:27:20.760 --> 00:27:23.940]   and just the way that it was for no reason.
+[00:27:23.940 --> 00:27:25.820]   Sin being the root of all evil
+[00:27:25.820 --> 00:27:28.440]   was the culprit of division in my family
+[00:27:28.440 --> 00:27:30.680]   and the cause for my every empty pursuit.
+[00:27:30.680 --> 00:27:34.020]   I see it as God's mercy that the feeling
+[00:27:34.020 --> 00:27:35.880]   of helplessness persisted,
+[00:27:35.880 --> 00:27:38.400]   and my desperation for a lasting hope
+[00:27:38.400 --> 00:27:40.040]   was intensified by the brokenness
+[00:27:40.040 --> 00:27:43.760]   that I not only saw in myself, but in my family as well.
+[00:27:43.760 --> 00:27:46.080]   By the grace of God, I was fully convinced
+[00:27:46.080 --> 00:27:49.360]   that my soul needed saving and that my hope and salvation
+[00:27:49.360 --> 00:27:52.360]   could only be found in Christ.
+[00:27:52.360 --> 00:27:55.360]   As it says in scripture, Romans 5, 1 to 2,
+[00:27:55.360 --> 00:27:58.400]   "Therefore, since we have been justified by faith,
+[00:27:58.400 --> 00:28:01.360]   "we have peace with God through our Lord Jesus Christ.
+[00:28:01.360 --> 00:28:03.860]   "Through him we have also obtained access by faith
+[00:28:03.860 --> 00:28:06.760]   "into his grace into which we stand,
+[00:28:06.760 --> 00:28:10.380]   "and we rejoice in hope of the glory of God."
+[00:28:10.380 --> 00:28:14.720]   Don't get me wrong, doubt can still be intrusive.
+[00:28:14.720 --> 00:28:16.680]   Working as a nurse for kids with cancer,
+[00:28:16.680 --> 00:28:19.440]   I am tempted to see their sickness and suffering
+[00:28:19.440 --> 00:28:22.960]   as an injustice, as a flaw in God's plan.
+[00:28:22.960 --> 00:28:24.200]   Hardship still comes by,
+[00:28:24.200 --> 00:28:26.660]   and people around me challenge my faith.
+[00:28:26.660 --> 00:28:27.960]   But when I turn to scripture,
+[00:28:27.960 --> 00:28:30.440]   I'm reminded of the sovereign nature of God
+[00:28:30.440 --> 00:28:32.120]   and come to full faith and assurance
+[00:28:32.120 --> 00:28:35.240]   that God's character is impeccably consistent
+[00:28:35.240 --> 00:28:37.680]   and God is always good.
+[00:28:37.680 --> 00:28:41.440]   So good that the holy God did the unfathomable thing
+[00:28:41.440 --> 00:28:43.360]   of coming to this earth in human form
+[00:28:43.360 --> 00:28:45.360]   to pay the cost of my sin
+[00:28:45.360 --> 00:28:47.960]   and dying the death that I deserve.
+[00:28:47.960 --> 00:28:50.040]   So good that the family that I thought
+[00:28:50.040 --> 00:28:51.760]   would eventually crumble
+[00:28:51.760 --> 00:28:54.460]   is held together beautifully in the palm of his hand.
+[00:28:54.460 --> 00:28:58.340]   The old journal entries show that I once was ensnared
+[00:28:58.340 --> 00:29:01.480]   by worries, discontentment, anger, blame, and doubt.
+[00:29:01.480 --> 00:29:04.680]   Page after page exposes failure after failure,
+[00:29:04.680 --> 00:29:08.520]   feeling inadequate as a sister, daughter, and friend.
+[00:29:08.520 --> 00:29:11.160]   And even though these feelings still come by,
+[00:29:11.160 --> 00:29:13.620]   they are always overcome with the hope and joy
+[00:29:13.620 --> 00:29:15.480]   that is in Christ alone.
+[00:29:15.480 --> 00:29:17.840]   It is a joy that I am made alive in Christ
+[00:29:17.840 --> 00:29:19.820]   and that this life is not my own,
+[00:29:19.820 --> 00:29:22.080]   that all things are from him and through him,
+[00:29:22.080 --> 00:29:24.120]   and it is now my fighting desire
+[00:29:24.120 --> 00:29:27.720]   that my entire life be of worship to him and to him alone.
+[00:29:27.720 --> 00:29:29.840]   I would like to conclude with two meaningful verses
+[00:29:29.840 --> 00:29:31.840]   that encourage me a lot.
+[00:29:31.840 --> 00:29:33.240]   Revelation 21, four,
+[00:29:33.240 --> 00:29:35.520]   he will wipe away every tear from their eyes
+[00:29:35.520 --> 00:29:37.120]   and death shall be no more.
+[00:29:37.120 --> 00:29:40.200]   Neither shall there be mourning, nor crying, nor pain,
+[00:29:40.200 --> 00:29:42.960]   for the former things have passed away.
+[00:29:42.960 --> 00:29:47.180]   And Romans 15, 13, sorry,
+[00:29:47.180 --> 00:29:50.040]   be the God of hope, fill you with all joy and peace
+[00:29:50.040 --> 00:29:53.240]   in believing so that by the power of the Holy Spirit
+[00:29:53.240 --> 00:29:54.560]   you may abound in hope.
+[00:29:54.560 --> 00:29:56.160]   Thank you for listening.
+[00:29:56.160 --> 00:29:59.320]   (audience applauding)
+[00:29:59.320 --> 00:30:03.580]   (audience member speaking faintly)
+[00:30:03.580 --> 00:30:06.740]   (audience applauding)
+[00:30:06.740 --> 00:30:11.080]   (audience member speaking faintly)
+[00:30:11.080 --> 00:30:36.180]   (audience applauding)
+[00:30:36.180 --> 00:30:40.440]   (audience member speaking faintly)
+[00:30:40.440 --> 00:30:48.580]   - All right, thank you, Judy, for that great testimony.
+[00:30:48.580 --> 00:30:51.860]   If you can turn your Bibles with me to Luke chapter one.
+[00:30:51.860 --> 00:30:57.940]   I'm gonna be reading starting from verse 57
+[00:30:57.940 --> 00:30:59.940]   all the way down to 74.
+[00:30:59.940 --> 00:31:03.740]   Before we even get started,
+[00:31:03.740 --> 00:31:08.300]   I wanted to encourage you, on Saturday nights,
+[00:31:08.300 --> 00:31:11.780]   usually I put up a post on our Facebook page,
+[00:31:11.780 --> 00:31:14.440]   church Facebook page, give you a heads up
+[00:31:14.440 --> 00:31:16.680]   on what text that we're gonna be going over,
+[00:31:16.680 --> 00:31:18.820]   and then I'll add some questions to that
+[00:31:18.820 --> 00:31:20.660]   so that you can kind of wrestle with
+[00:31:20.660 --> 00:31:23.500]   what are some of the issues that I'm gonna be talking about
+[00:31:23.500 --> 00:31:25.500]   when we get together on Sunday morning.
+[00:31:25.500 --> 00:31:28.500]   When we're going through the epistles,
+[00:31:28.500 --> 00:31:30.820]   you know, we're only going through a few verses at a time,
+[00:31:30.820 --> 00:31:32.320]   so it's easy to just kind of read,
+[00:31:32.320 --> 00:31:33.940]   and it's like, oh, that's what's going on.
+[00:31:33.940 --> 00:31:37.180]   But as we're going through the Gospels,
+[00:31:37.180 --> 00:31:39.980]   obviously we're covering larger text,
+[00:31:39.980 --> 00:31:43.140]   and so it would be beneficial to take some time
+[00:31:43.140 --> 00:31:46.980]   to at least read and know what's in the context
+[00:31:46.980 --> 00:31:48.100]   so that you would come and say,
+[00:31:48.100 --> 00:31:49.460]   oh, I wonder what he means by this,
+[00:31:49.460 --> 00:31:50.820]   I wonder why he says this,
+[00:31:50.820 --> 00:31:52.340]   so that when I refer to it,
+[00:31:52.340 --> 00:31:54.540]   you would be able to get more out of it.
+[00:31:54.540 --> 00:31:56.680]   And you'll know what I'm talking about this morning, okay?
+[00:31:56.680 --> 00:31:58.700]   So those of you who read before you came,
+[00:31:58.700 --> 00:32:00.440]   kind of engaged in the text before you came
+[00:32:00.440 --> 00:32:03.700]   versus those of you who are just hearing it fresh,
+[00:32:03.700 --> 00:32:05.660]   again, you can still understand it,
+[00:32:05.660 --> 00:32:07.660]   but it'll help you a great deal.
+[00:32:07.660 --> 00:32:08.880]   And I'm just gonna give you a heads up.
+[00:32:08.880 --> 00:32:11.160]   Today's message is not one of those messages
+[00:32:11.160 --> 00:32:12.800]   that you can casually listen to,
+[00:32:12.800 --> 00:32:16.600]   because we're gonna go pretty deep
+[00:32:16.600 --> 00:32:20.540]   into the fulfillment of God's prophecy here,
+[00:32:20.540 --> 00:32:23.580]   and so this is not one of those passages
+[00:32:23.580 --> 00:32:26.780]   where you have one theme, that Jesus loves you,
+[00:32:26.780 --> 00:32:31.200]   and here's five different ways that he shows example
+[00:32:31.200 --> 00:32:33.960]   and what does it mean in this text.
+[00:32:33.960 --> 00:32:38.040]   This is one of those texts where Zechariah's prophecy,
+[00:32:38.040 --> 00:32:39.760]   like how does this connect
+[00:32:39.760 --> 00:32:42.720]   to what God has been doing in history?
+[00:32:42.720 --> 00:32:43.840]   How is that being fulfilled?
+[00:32:43.840 --> 00:32:44.840]   Why does he say it now?
+[00:32:44.840 --> 00:32:47.300]   And what is the future fulfillment of this?
+[00:32:47.300 --> 00:32:51.560]   And so therefore, if you don't really make an effort
+[00:32:51.560 --> 00:32:53.960]   to engage, I'm telling you ahead of time,
+[00:32:53.960 --> 00:32:56.040]   it's gonna go over your head, okay?
+[00:32:56.040 --> 00:33:00.560]   So, and what I'm gonna say today is pretty,
+[00:33:00.560 --> 00:33:04.240]   it's pretty, you know, like an overview of you,
+[00:33:04.240 --> 00:33:06.080]   and this is that important,
+[00:33:06.080 --> 00:33:08.920]   that what we're gonna be talking about this morning
+[00:33:08.920 --> 00:33:13.920]   is going to help you put on a particular paradigm lens
+[00:33:13.920 --> 00:33:18.180]   in which you see the whole of scripture.
+[00:33:18.180 --> 00:33:21.120]   So I can't emphasize enough how important this is,
+[00:33:21.120 --> 00:33:22.400]   so this is not one of those Sundays
+[00:33:22.400 --> 00:33:24.780]   where you're just kind of like, okay, feed me, right?
+[00:33:24.780 --> 00:33:27.280]   So I'm gonna make an attempt to feed you,
+[00:33:27.280 --> 00:33:29.480]   and I'm already predicting there's gonna be a percentage
+[00:33:29.480 --> 00:33:31.560]   of you that's gonna go over your head,
+[00:33:31.560 --> 00:33:33.680]   and you may have to revisit this and go back
+[00:33:33.680 --> 00:33:35.980]   and listen to this to kind of really dig through
+[00:33:35.980 --> 00:33:38.480]   what I mean by that, and even if you did understand,
+[00:33:38.480 --> 00:33:40.160]   I'm only giving you a cliff note version
+[00:33:40.160 --> 00:33:41.000]   of what's happening, okay?
+[00:33:41.000 --> 00:33:43.040]   So I don't wanna go milk this too much,
+[00:33:43.040 --> 00:33:44.300]   but I'm just giving you ahead of time,
+[00:33:44.300 --> 00:33:47.160]   so this is, so those of you who already
+[00:33:47.160 --> 00:33:49.480]   are giving me a glazed look, right?
+[00:33:49.480 --> 00:33:51.320]   So I'm like poking at you, so it's like,
+[00:33:51.320 --> 00:33:53.640]   you need to pay attention, especially this morning, okay?
+[00:33:53.640 --> 00:33:55.140]   So let me read this text, and then we'll jump
+[00:33:55.140 --> 00:33:57.540]   into the text this morning, 57.
+[00:33:57.540 --> 00:34:00.860]   Now the time had come for Elizabeth to give birth,
+[00:34:00.860 --> 00:34:02.260]   and she gave birth to a son.
+[00:34:02.260 --> 00:34:03.980]   Her neighbors and her relatives heard
+[00:34:03.980 --> 00:34:06.940]   that the Lord had displayed his great mercy toward her,
+[00:34:06.940 --> 00:34:08.460]   and they were rejoicing with her,
+[00:34:08.460 --> 00:34:10.000]   and it happened that on the eighth day,
+[00:34:10.000 --> 00:34:11.900]   they came to circumcise the child,
+[00:34:11.900 --> 00:34:15.180]   and they were going to call him Zacharias after his father.
+[00:34:15.180 --> 00:34:16.700]   But his mother answered and said,
+[00:34:16.700 --> 00:34:19.020]   "No, indeed, but he shall be called John."
+[00:34:19.020 --> 00:34:21.860]   And they said to her, "There is no one among your relatives
+[00:34:21.860 --> 00:34:24.260]   "who is called by that name," and they made signs
+[00:34:24.260 --> 00:34:26.780]   to his father as to what he wanted him called.
+[00:34:26.780 --> 00:34:30.380]   And he asked for a tablet and wrote as follows,
+[00:34:30.380 --> 00:34:33.260]   "His name is John," and they were all astonished.
+[00:34:33.260 --> 00:34:37.300]   And at once, his mouth was opened and his tongue loose,
+[00:34:37.300 --> 00:34:39.660]   and he began to speak in praise of God.
+[00:34:39.660 --> 00:34:42.320]   Fear came on all those living around them,
+[00:34:42.320 --> 00:34:44.580]   and all these matters were being talked about
+[00:34:44.580 --> 00:34:46.740]   in all the hill country of Judea.
+[00:34:46.740 --> 00:34:48.660]   All who heard them kept them in mind, saying,
+[00:34:48.660 --> 00:34:50.900]   "What then will this child turn out to be?
+[00:34:50.900 --> 00:34:53.460]   "For the hand of the Lord was certainly with him."
+[00:34:53.460 --> 00:34:57.080]   Starting from verse 67, "And his father, Zacharias,
+[00:34:57.080 --> 00:34:59.660]   "was filled with the Holy Spirit and prophesied, saying,
+[00:34:59.660 --> 00:35:01.120]   "Blessed be the Lord God of Israel,
+[00:35:01.120 --> 00:35:03.460]   "for he has visited us and accomplished redemption
+[00:35:03.460 --> 00:35:06.300]   "for his people, and has raised up a horn of salvation
+[00:35:06.300 --> 00:35:09.560]   "for us in the house of David, his servant.
+[00:35:09.560 --> 00:35:12.840]   "As he spoke by his mouth of his holy prophets
+[00:35:12.840 --> 00:35:15.500]   "from of old, salvation from our enemies,
+[00:35:15.500 --> 00:35:17.980]   "and from the hand of all who hate us,
+[00:35:17.980 --> 00:35:19.600]   "to show mercy toward our fathers
+[00:35:19.600 --> 00:35:21.500]   "and to remember his holy covenant,
+[00:35:21.500 --> 00:35:24.320]   "the oath which he swore to Abraham, our father,
+[00:35:24.320 --> 00:35:28.260]   "to grant us that we, being rescued
+[00:35:28.260 --> 00:35:29.740]   "from the hand of our enemies,
+[00:35:29.740 --> 00:35:32.220]   "might serve him without fear."
+[00:35:32.220 --> 00:35:33.320]   All right, let's pray.
+[00:35:33.320 --> 00:35:36.420]   Father, we pray for your blessing,
+[00:35:36.420 --> 00:35:40.420]   we pray for your grace, we pray for deeper understanding,
+[00:35:40.420 --> 00:35:44.020]   that we may see a greater and greater glimpse of your glory
+[00:35:44.020 --> 00:35:47.020]   and what you are doing in redemptive history.
+[00:35:47.020 --> 00:35:49.220]   So we pray for help, Lord God,
+[00:35:49.220 --> 00:35:52.240]   to not only understand but to illuminate our hearts,
+[00:35:52.240 --> 00:35:53.820]   that we may love you, honor you,
+[00:35:53.820 --> 00:35:55.580]   worship you, and follow you.
+[00:35:55.580 --> 00:35:57.380]   In Jesus' name we pray, amen.
+[00:35:57.380 --> 00:36:02.220]   As I mentioned, the beginning,
+[00:36:02.220 --> 00:36:05.180]   the text that we're looking at starting from 57,
+[00:36:05.180 --> 00:36:08.060]   John is born, and on the eighth day,
+[00:36:08.060 --> 00:36:10.100]   just like any other good Jew,
+[00:36:10.100 --> 00:36:12.600]   they came to circumcise him.
+[00:36:12.600 --> 00:36:14.940]   And as you guys know, the circumcision for the Jews
+[00:36:14.940 --> 00:36:17.480]   was a reminder to them that Israelites
+[00:36:17.480 --> 00:36:19.860]   were God's chosen people and it was a covenant symbol
+[00:36:19.860 --> 00:36:20.940]   upon them.
+[00:36:20.940 --> 00:36:23.300]   And so as tradition goes, as on the eighth day,
+[00:36:23.300 --> 00:36:26.620]   they came to circumcise him and they fully expected
+[00:36:26.620 --> 00:36:28.320]   that he was going to be named Zacharias
+[00:36:28.320 --> 00:36:31.160]   because of his father, because that was the tradition.
+[00:36:31.160 --> 00:36:34.380]   Either you were named as a father or a grandfather
+[00:36:34.380 --> 00:36:37.940]   or somebody in that family in order to keep that name going.
+[00:36:37.940 --> 00:36:42.940]   Instead, John's birth obviously is not like any other Jew
+[00:36:42.940 --> 00:36:46.180]   because he was specifically given to an old couple
+[00:36:46.180 --> 00:36:48.660]   to fulfill God's promise.
+[00:36:48.660 --> 00:36:51.060]   And so instead of giving him the name Zacharias,
+[00:36:51.060 --> 00:36:52.860]   he said, no, the name is already determined.
+[00:36:52.860 --> 00:36:55.160]   His name will be John.
+[00:36:55.160 --> 00:36:56.300]   Because it was already given to him.
+[00:36:56.300 --> 00:36:59.100]   God had anointed this, so this was not up to the parents
+[00:36:59.100 --> 00:37:00.600]   to decide.
+[00:37:00.600 --> 00:37:03.220]   So God had already given him his name, John.
+[00:37:03.220 --> 00:37:05.700]   And the reason why the name John was given
+[00:37:05.700 --> 00:37:09.740]   is because his name was a foretelling
+[00:37:09.740 --> 00:37:11.180]   of what God is about to do.
+[00:37:11.180 --> 00:37:14.780]   His name means Yahweh is gracious.
+[00:37:14.780 --> 00:37:16.540]   God is going to demonstrate his grace,
+[00:37:16.540 --> 00:37:20.500]   that through this man that God was going to appear
+[00:37:20.500 --> 00:37:23.500]   in redemptive history at that particular time
+[00:37:23.500 --> 00:37:26.360]   in order to reveal his grace.
+[00:37:26.360 --> 00:37:29.060]   So this morning as we look at the text,
+[00:37:29.060 --> 00:37:32.300]   as he breaks out into this prophecy,
+[00:37:32.300 --> 00:37:34.780]   that he's going to reveal how this grace
+[00:37:34.780 --> 00:37:37.460]   is going to be fulfilled, what God is doing.
+[00:37:37.460 --> 00:37:39.480]   And so this is all an introduction,
+[00:37:39.480 --> 00:37:43.660]   really the text that we're looking at from 67 to 74,
+[00:37:43.660 --> 00:37:46.100]   of how God's grace is being revealed.
+[00:37:46.100 --> 00:37:50.060]   Because when we think about grace,
+[00:37:50.060 --> 00:37:51.500]   when we think about grace,
+[00:37:51.500 --> 00:37:54.820]   because our natural knee-jerk reaction
+[00:37:54.820 --> 00:37:57.740]   to how we understand grace is us.
+[00:37:57.740 --> 00:38:01.960]   How is God gracious to us?
+[00:38:01.960 --> 00:38:03.580]   Or to me in particular?
+[00:38:03.580 --> 00:38:06.180]   So when we ask, like when Thanksgiving comes around,
+[00:38:06.180 --> 00:38:08.380]   we ask, what are you thankful for?
+[00:38:08.380 --> 00:38:11.380]   In other words, how has God been gracious to you?
+[00:38:11.380 --> 00:38:13.820]   We kind of think through, scan through the year,
+[00:38:13.820 --> 00:38:16.340]   and say, you know what, I got a good job,
+[00:38:16.340 --> 00:38:18.220]   God has been gracious.
+[00:38:18.220 --> 00:38:20.400]   Or maybe I was sick and then God answered my prayer,
+[00:38:20.400 --> 00:38:22.140]   so God has been gracious.
+[00:38:22.140 --> 00:38:24.660]   Maybe there's some things that we were praying for,
+[00:38:24.660 --> 00:38:26.420]   and so God shows up in our life,
+[00:38:26.420 --> 00:38:28.540]   and so God has been gracious.
+[00:38:28.540 --> 00:38:32.060]   So our typical thinking of how we see the grace of God
+[00:38:32.060 --> 00:38:34.260]   is really centered on us.
+[00:38:34.260 --> 00:38:36.060]   What have we experienced?
+[00:38:36.060 --> 00:38:39.820]   But here he says, in verse 68,
+[00:38:39.820 --> 00:38:41.780]   "Blessed be the Lord God of Israel,
+[00:38:41.780 --> 00:38:44.420]   "for he has visited us
+[00:38:44.420 --> 00:38:47.940]   "and accomplished redemption for his people."
+[00:38:47.940 --> 00:38:52.660]   See, God's primary revelation of his grace
+[00:38:52.660 --> 00:38:54.140]   is his redemption.
+[00:38:54.140 --> 00:38:56.940]   But we have a tendency to kind of like,
+[00:38:56.940 --> 00:38:58.540]   well, you know, of course God saved us,
+[00:38:58.540 --> 00:39:01.560]   but that's something that has happened.
+[00:39:01.560 --> 00:39:03.500]   But how has he been gracious to me today?
+[00:39:03.500 --> 00:39:05.460]   What's happening now?
+[00:39:05.460 --> 00:39:09.580]   Our natural inclination, as it says in Romans chapter one,
+[00:39:09.580 --> 00:39:13.140]   is to give credit to man rather than to God.
+[00:39:13.140 --> 00:39:16.960]   That's our knee-jerk reaction to everything,
+[00:39:16.960 --> 00:39:19.500]   to give credit to man rather than God.
+[00:39:19.500 --> 00:39:21.460]   Look at the way that we celebrate
+[00:39:21.460 --> 00:39:23.640]   the seven wonders of the world, right?
+[00:39:23.640 --> 00:39:24.900]   I don't know how many of you guys have been
+[00:39:24.900 --> 00:39:26.940]   to the Great Wall of China.
+[00:39:26.940 --> 00:39:28.140]   You know, I remember growing up
+[00:39:28.140 --> 00:39:30.300]   hearing through history books, you know,
+[00:39:30.300 --> 00:39:33.480]   over and over how awesome this structure is
+[00:39:33.480 --> 00:39:36.120]   and how you could see it from outside the earth,
+[00:39:36.120 --> 00:39:39.500]   and it took so many years to build this structure,
+[00:39:39.500 --> 00:39:41.700]   and how many people gave their lives.
+[00:39:41.700 --> 00:39:45.140]   And I remember the years of going in and out of China,
+[00:39:45.140 --> 00:39:46.620]   I probably must have visited that wall
+[00:39:46.620 --> 00:39:47.960]   about at least 20 times.
+[00:39:47.960 --> 00:39:53.240]   And each time I went, it became less and less great,
+[00:39:53.240 --> 00:39:55.620]   and more and more just a wall.
+[00:39:55.620 --> 00:39:56.780]   You know, but when we talk about today,
+[00:39:56.780 --> 00:39:58.540]   it's a great wall, it's so fantastic,
+[00:39:58.540 --> 00:40:01.780]   the achievement of man, and how much time we spend
+[00:40:01.780 --> 00:40:07.580]   being awed by the pile of stones that people put together,
+[00:40:07.580 --> 00:40:10.800]   and then never recognize the mountain that it sits on.
+[00:40:10.800 --> 00:40:15.440]   And if you think about that, how much is written about it,
+[00:40:15.440 --> 00:40:17.380]   how much history, and how people travel
+[00:40:17.380 --> 00:40:20.980]   from all over the world to walk on this wall,
+[00:40:20.980 --> 00:40:23.740]   and then not recognize the mountain that it sits on,
+[00:40:23.740 --> 00:40:25.540]   the rocks that God had created,
+[00:40:25.540 --> 00:40:29.980]   so that they could put it together, the sky above.
+[00:40:29.980 --> 00:40:32.580]   And yet our natural tendency is to look at
+[00:40:32.580 --> 00:40:35.340]   the creation of man and say, wow, isn't that awesome?
+[00:40:36.380 --> 00:40:39.340]   So even when we think about grace,
+[00:40:39.340 --> 00:40:42.080]   we typically think about grace as it pertains to me,
+[00:40:42.080 --> 00:40:44.340]   in particular, in my life.
+[00:40:44.340 --> 00:40:47.060]   Yesterday, today, tomorrow, next year.
+[00:40:47.060 --> 00:40:49.560]   How has God been gracious to me?
+[00:40:49.560 --> 00:40:53.540]   See, this prophecy that Zacharias breaks out, right,
+[00:40:53.540 --> 00:40:57.040]   in response to what angel Gabriel says,
+[00:40:57.040 --> 00:40:58.460]   and in response to what God is doing,
+[00:40:58.460 --> 00:41:01.520]   and his son John, God is gracious.
+[00:41:01.520 --> 00:41:04.420]   The first thing that we remember,
+[00:41:04.420 --> 00:41:07.060]   that he points out in his prophecy,
+[00:41:07.060 --> 00:41:11.900]   is that God is gracious by remembering his covenant.
+[00:41:11.900 --> 00:41:17.780]   God's grace is revealed through remembering his covenant.
+[00:41:17.780 --> 00:41:20.660]   In verse 72, it says, "To show mercy toward our fathers,
+[00:41:20.660 --> 00:41:22.440]   "and to remember his holy covenant,
+[00:41:22.440 --> 00:41:26.340]   "the oath which he swore to Abraham, our father."
+[00:41:26.340 --> 00:41:30.820]   He says, the covenant that God made with Abraham
+[00:41:30.820 --> 00:41:35.820]   was 2,000 years before the showing up of John.
+[00:41:35.820 --> 00:41:41.060]   But he says, John's name, God is gracious,
+[00:41:41.060 --> 00:41:43.800]   is a revelation of God being faithful
+[00:41:43.800 --> 00:41:46.760]   to a covenant that he made 2,000 years ago,
+[00:41:46.760 --> 00:41:49.740]   to be faithful to that covenant.
+[00:41:49.740 --> 00:41:53.660]   You see, it wasn't by accident
+[00:41:53.660 --> 00:41:58.220]   that this prophecy is happening at John's circumcision,
+[00:41:58.220 --> 00:42:00.260]   because the circumcision was a symbol
+[00:42:00.260 --> 00:42:01.780]   to the nation of Israel,
+[00:42:01.780 --> 00:42:05.140]   reminding them of the covenant that he gave to Israel
+[00:42:05.140 --> 00:42:07.540]   in Genesis chapter 12.
+[00:42:07.540 --> 00:42:10.660]   So every time a Jewish child is being circumcised,
+[00:42:10.660 --> 00:42:14.660]   they most likely recited that covenant over and over again,
+[00:42:14.660 --> 00:42:17.300]   that this circumcision is a symbol
+[00:42:17.300 --> 00:42:19.300]   of God's faithfulness to Israel,
+[00:42:19.300 --> 00:42:21.900]   the promise that God made in Genesis chapter 12.
+[00:42:21.900 --> 00:42:25.340]   Now, Genesis chapter 12, one, two, three,
+[00:42:25.340 --> 00:42:26.700]   is the beginning of this covenant
+[00:42:26.700 --> 00:42:28.500]   to Abraham and the nation of Israel.
+[00:42:29.640 --> 00:42:31.300]   If you've ever read through the Old Testament
+[00:42:31.300 --> 00:42:33.900]   and you came across Genesis chapter 12, one, two, three,
+[00:42:33.900 --> 00:42:35.060]   you may have just read that as like,
+[00:42:35.060 --> 00:42:38.140]   oh, God has made these awesome promises to Abraham,
+[00:42:38.140 --> 00:42:39.540]   and then may have just skipped over it,
+[00:42:39.540 --> 00:42:42.020]   not really realizing the significance.
+[00:42:42.020 --> 00:42:45.300]   Genesis chapter 12, one, two, three,
+[00:42:45.300 --> 00:42:48.260]   is the backbone of what God is doing
+[00:42:48.260 --> 00:42:50.140]   all throughout redemptive history.
+[00:42:50.140 --> 00:42:54.780]   So how you understand that and how this is being fulfilled,
+[00:42:54.780 --> 00:42:59.220]   why Book of Jonah, and why David, and why Micah,
+[00:42:59.220 --> 00:43:01.000]   and why all these things are happening,
+[00:43:01.000 --> 00:43:05.340]   it is a fulfillment of God's faithfulness to his covenant.
+[00:43:05.340 --> 00:43:07.240]   If you don't see or read the Bible
+[00:43:07.240 --> 00:43:08.900]   through the lens of this covenant,
+[00:43:08.900 --> 00:43:10.540]   what's gonna end up happening is
+[00:43:10.540 --> 00:43:13.040]   you're gonna see Jonah as a great story
+[00:43:13.040 --> 00:43:15.740]   of don't mess with God, right?
+[00:43:15.740 --> 00:43:16.580]   Don't mess with God.
+[00:43:16.580 --> 00:43:18.260]   If you run from God when God calls you,
+[00:43:18.260 --> 00:43:20.700]   a whale's gonna eat you up, right?
+[00:43:20.700 --> 00:43:22.660]   You're gonna hear the story of David and say,
+[00:43:22.660 --> 00:43:24.860]   well, David, because he was so great
+[00:43:24.860 --> 00:43:27.740]   and practiced throwing his stones,
+[00:43:27.740 --> 00:43:29.580]   and how God was able to use him mightily
+[00:43:29.580 --> 00:43:32.020]   because he became an expert in throwing the stones,
+[00:43:32.020 --> 00:43:35.540]   so don't trivialize the gift that God has given you
+[00:43:35.540 --> 00:43:36.500]   and become an expert.
+[00:43:36.500 --> 00:43:38.860]   And so you end up looking at all of Scripture
+[00:43:38.860 --> 00:43:42.300]   and redemptive history as moral stories
+[00:43:42.300 --> 00:43:43.280]   that you need to pick up
+[00:43:43.280 --> 00:43:46.740]   so that we can become better people and be successful.
+[00:43:46.740 --> 00:43:48.820]   But everything God says in the Old Testament
+[00:43:48.820 --> 00:43:53.460]   and the New Testament is a flow,
+[00:43:53.460 --> 00:43:56.960]   outflow of God fulfilling this promise.
+[00:43:57.840 --> 00:43:59.760]   Why he does, why Israel's the way it is,
+[00:43:59.760 --> 00:44:01.720]   why does the Old Testament end the way it does,
+[00:44:01.720 --> 00:44:02.840]   why is this prophecy here,
+[00:44:02.840 --> 00:44:04.400]   what does it say in the book of Revelation?
+[00:44:04.400 --> 00:44:07.680]   All of it is connected to this promise, Abrahamic promise.
+[00:44:07.680 --> 00:44:09.640]   So how important is this, right?
+[00:44:09.640 --> 00:44:12.500]   I can't emphasize enough.
+[00:44:12.500 --> 00:44:15.120]   So is it important for us to understand what he promised?
+[00:44:15.120 --> 00:44:16.840]   Yes, so there's three things
+[00:44:16.840 --> 00:44:18.960]   that he promised the nation of Israel.
+[00:44:18.960 --> 00:44:22.240]   One, he promised land, right?
+[00:44:22.240 --> 00:44:24.860]   In Genesis chapter 12, one, two, three, he promised land.
+[00:44:24.860 --> 00:44:29.000]   Second, he promised numerous offspring, right?
+[00:44:29.000 --> 00:44:30.600]   These descendants are going to be so numerous
+[00:44:30.600 --> 00:44:31.760]   they're not even gonna be able to count.
+[00:44:31.760 --> 00:44:36.760]   Third, he promised a blessing upon them to the world, right?
+[00:44:36.760 --> 00:44:38.360]   So there's gonna be a clear purpose.
+[00:44:38.360 --> 00:44:41.680]   So just to kind of summarize,
+[00:44:41.680 --> 00:44:44.800]   the promise of land is a specific promise
+[00:44:44.800 --> 00:44:47.240]   of their political nation.
+[00:44:47.240 --> 00:44:49.360]   It wasn't just like Abraham say,
+[00:44:49.360 --> 00:44:50.400]   oh, you're gonna be rich
+[00:44:50.400 --> 00:44:52.060]   and you're gonna have all this land.
+[00:44:52.060 --> 00:44:54.800]   Land, you can have a million people,
+[00:44:54.800 --> 00:44:56.620]   but if you don't have a land, you're not a nation.
+[00:44:56.620 --> 00:44:58.520]   You're just a people group.
+[00:44:58.520 --> 00:45:00.360]   So when he promises land, he says,
+[00:45:00.360 --> 00:45:03.100]   through your descendants, I'm gonna create a nation.
+[00:45:03.100 --> 00:45:05.180]   A nation of Israel is gonna come out of that.
+[00:45:05.180 --> 00:45:08.380]   But it's not gonna be any just ordinary nation.
+[00:45:08.380 --> 00:45:12.060]   Your descendants are going to outnumber even the stars,
+[00:45:12.060 --> 00:45:12.940]   right?
+[00:45:12.940 --> 00:45:15.520]   Today, when we consider who the superpowers are,
+[00:45:15.520 --> 00:45:17.220]   I mean, United States, I think,
+[00:45:17.220 --> 00:45:18.620]   you know, we can argue and say
+[00:45:18.620 --> 00:45:23.320]   it's probably the most powerful nation in the world.
+[00:45:23.320 --> 00:45:25.380]   But we're not the most numerous, right?
+[00:45:25.380 --> 00:45:29.380]   China is, and then after that is India, right?
+[00:45:29.380 --> 00:45:33.300]   And so today, we don't measure the power
+[00:45:33.300 --> 00:45:35.500]   of the nation by its size.
+[00:45:35.500 --> 00:45:40.500]   We measure it by influence, economy, the military, right?
+[00:45:40.500 --> 00:45:42.980]   But back then, to be numerous basically meant
+[00:45:42.980 --> 00:45:44.180]   that you were the superpower.
+[00:45:44.180 --> 00:45:45.980]   So when he says that your descendants
+[00:45:45.980 --> 00:45:47.340]   are going to be outnumbered,
+[00:45:47.340 --> 00:45:49.300]   your nation is not gonna be any other nation.
+[00:45:49.300 --> 00:45:51.240]   It's going to be the superpower,
+[00:45:51.240 --> 00:45:52.340]   more than any other nation.
+[00:45:52.340 --> 00:45:53.660]   And then third and finally,
+[00:45:53.660 --> 00:45:56.800]   that God's anointing is gonna be upon them,
+[00:45:56.800 --> 00:45:59.460]   that if they bless you, they're gonna be blessed.
+[00:45:59.460 --> 00:46:00.820]   And if they curse you, they will be cursed.
+[00:46:00.820 --> 00:46:02.500]   In other words, God's anointing,
+[00:46:02.500 --> 00:46:04.300]   God's redemptive history,
+[00:46:04.300 --> 00:46:06.660]   what he's trying to do to the world,
+[00:46:06.660 --> 00:46:08.500]   through the world, is going to come
+[00:46:08.500 --> 00:46:10.580]   through the nation of Israel, okay?
+[00:46:10.580 --> 00:46:11.940]   So keep that in mind.
+[00:46:11.940 --> 00:46:16.500]   It's a promise of nation, it's promise of power,
+[00:46:16.500 --> 00:46:19.460]   and it's promise of influence, right?
+[00:46:20.340 --> 00:46:25.340]   After he makes this promise, again, all right,
+[00:46:25.340 --> 00:46:29.800]   so if I'm losing any of you, pinch each other, okay?
+[00:46:29.800 --> 00:46:32.100]   Like I said, it's not gonna get any lighter.
+[00:46:32.100 --> 00:46:34.700]   We're gonna go even deeper than this, okay?
+[00:46:34.700 --> 00:46:37.540]   Again, but I can't emphasize enough how important this is.
+[00:46:37.540 --> 00:46:41.300]   After he makes this covenant with Israel,
+[00:46:41.300 --> 00:46:45.380]   Abraham, in Genesis chapter 15,
+[00:46:45.380 --> 00:46:48.900]   he ratifies this with the covenant.
+[00:46:48.900 --> 00:46:50.820]   You know, today, when people get married, right?
+[00:46:50.820 --> 00:46:52.460]   We had a wedding yesterday.
+[00:46:52.460 --> 00:46:55.700]   People typically sit, you have the bride's party
+[00:46:55.700 --> 00:46:57.020]   on one side, and you have the groom's party
+[00:46:57.020 --> 00:47:00.140]   on the other side, and why do we do that, right?
+[00:47:00.140 --> 00:47:02.580]   Is it so that they don't get in a fight, right?
+[00:47:02.580 --> 00:47:04.800]   To identify who's who?
+[00:47:04.800 --> 00:47:07.660]   No, it's a reflection of a biblical covenant,
+[00:47:07.660 --> 00:47:11.860]   because in the time of Christ and prior to Christ,
+[00:47:11.860 --> 00:47:14.060]   the way that they ratify covenants was,
+[00:47:14.060 --> 00:47:16.140]   they would take an animal, split it in two,
+[00:47:16.140 --> 00:47:19.420]   to two, and make an aisle,
+[00:47:19.420 --> 00:47:21.180]   and the people who are entering this covenant
+[00:47:21.180 --> 00:47:22.940]   would go hand in hand and walk through
+[00:47:22.940 --> 00:47:25.340]   between these animals that have been split in half,
+[00:47:25.340 --> 00:47:26.940]   and it was a bloody scene.
+[00:47:26.940 --> 00:47:28.860]   You can imagine the blood dripping everywhere,
+[00:47:28.860 --> 00:47:30.920]   and so basically, what it meant was,
+[00:47:30.920 --> 00:47:33.580]   if two people who are walking down this covenant,
+[00:47:33.580 --> 00:47:35.640]   if any one of them breaks this covenant,
+[00:47:35.640 --> 00:47:37.300]   let it be like these animals.
+[00:47:37.300 --> 00:47:39.020]   That's what it meant.
+[00:47:39.020 --> 00:47:41.260]   That's how serious this covenant, it was a blood covenant,
+[00:47:41.260 --> 00:47:43.540]   that if anyone who enters into this covenant
+[00:47:43.540 --> 00:47:46.140]   and breaks a covenant, let him be like this animal.
+[00:47:46.140 --> 00:47:48.480]   That's how covenants were ratified at that time,
+[00:47:48.480 --> 00:47:52.100]   but in Genesis chapter 15, when God ratifies this covenant
+[00:47:52.100 --> 00:47:54.500]   that he made with the nation of Israel,
+[00:47:54.500 --> 00:47:56.540]   Abraham is put to sleep.
+[00:47:56.540 --> 00:47:59.420]   He doesn't participate in this covenant.
+[00:47:59.420 --> 00:48:01.720]   He falls asleep, and then in verse 18, it says,
+[00:48:01.720 --> 00:48:03.560]   "On that day, the Lord made a covenant with Abram,
+[00:48:03.560 --> 00:48:05.800]   "saying, 'To your descendants, I have given this land
+[00:48:05.800 --> 00:48:08.180]   "'from the river of Egypt, as far as the great river,
+[00:48:08.180 --> 00:48:09.900]   "'the river Euphrates.'
+[00:48:09.980 --> 00:48:13.860]   "God shows up in a pillar of smoke, a flaming torch,
+[00:48:13.860 --> 00:48:16.660]   "and he passes it by himself."
+[00:48:16.660 --> 00:48:19.500]   The significance of that is God
+[00:48:19.500 --> 00:48:21.580]   was making a unilateral covenant.
+[00:48:21.580 --> 00:48:25.020]   This was not a conditional covenant based upon Abraham,
+[00:48:25.020 --> 00:48:26.820]   that if you do your part, I will do my part.
+[00:48:26.820 --> 00:48:30.860]   He is telling Abraham, "I will do this."
+[00:48:30.860 --> 00:48:34.240]   There was no part that Abraham was gonna play.
+[00:48:34.240 --> 00:48:39.240]   Abraham is just going to be a recipient of God's plan.
+[00:48:40.240 --> 00:48:44.480]   Now, keep that in mind, why this is so significant.
+[00:48:44.480 --> 00:48:45.540]   It's gonna get deeper.
+[00:48:45.540 --> 00:48:51.280]   Because this covenant that he makes with Abraham,
+[00:48:51.280 --> 00:48:54.140]   unilateral covenant, is what God is doing
+[00:48:54.140 --> 00:48:56.440]   all throughout redemptive history.
+[00:48:56.440 --> 00:49:01.020]   So every part of the Bible that we read
+[00:49:01.020 --> 00:49:06.020]   is God saving the world through the nation of Israel.
+[00:49:06.480 --> 00:49:09.280]   So if you read any part of the Bible
+[00:49:09.280 --> 00:49:11.400]   disconnected from this covenant,
+[00:49:11.400 --> 00:49:13.740]   you're probably not reading it correctly.
+[00:49:13.740 --> 00:49:18.840]   Or again, you're making David a moral champion,
+[00:49:18.840 --> 00:49:22.040]   or you're making Jonah a prophet,
+[00:49:22.040 --> 00:49:24.200]   and this is what real repentance looks like,
+[00:49:24.200 --> 00:49:26.720]   but you don't really understand why that story is there.
+[00:49:26.720 --> 00:49:27.960]   Why is the book of Esther there?
+[00:49:27.960 --> 00:49:29.280]   Why is Ezra there?
+[00:49:29.280 --> 00:49:30.240]   Why are the prophets there?
+[00:49:30.240 --> 00:49:32.080]   All of this is connected to God
+[00:49:32.080 --> 00:49:33.680]   trying to fulfill this promise.
+[00:49:34.920 --> 00:49:39.080]   Now, he makes this promise, right,
+[00:49:39.080 --> 00:49:40.200]   that you're gonna be a great nation,
+[00:49:40.200 --> 00:49:41.280]   you're gonna be a powerful nation,
+[00:49:41.280 --> 00:49:42.980]   you're gonna be a great influence.
+[00:49:42.980 --> 00:49:45.640]   When does that get fulfilled?
+[00:49:45.640 --> 00:49:52.920]   It takes a thousand years of Israel wandering
+[00:49:52.920 --> 00:49:58.480]   in the desert, going through places in almost periods
+[00:49:58.480 --> 00:49:59.880]   where they feel like they're gonna disappear,
+[00:49:59.880 --> 00:50:03.120]   and then they go into Egypt to survive,
+[00:50:03.120 --> 00:50:05.040]   and then they become slaves for 400 years.
+[00:50:05.040 --> 00:50:07.240]   A thousand years passes by
+[00:50:07.240 --> 00:50:11.480]   before a nation even gets formed.
+[00:50:11.480 --> 00:50:17.800]   A thousand years pass by between Abraham and David.
+[00:50:17.800 --> 00:50:19.960]   And so when David becomes the king,
+[00:50:19.960 --> 00:50:24.300]   the second king of Israel, God steps in,
+[00:50:24.300 --> 00:50:27.240]   and then he clarifies how he was going to fulfill
+[00:50:27.240 --> 00:50:32.240]   this Abrahamic covenant in 2 Samuel 7, verse 12 to 13.
+[00:50:33.240 --> 00:50:34.960]   "When your days are complete
+[00:50:34.960 --> 00:50:36.460]   "and you lie down with your fathers,
+[00:50:36.460 --> 00:50:38.340]   "I will raise up your descendants after you
+[00:50:38.340 --> 00:50:40.160]   "who will come forth from you,
+[00:50:40.160 --> 00:50:41.940]   "and I will establish his kingdom.
+[00:50:41.940 --> 00:50:43.640]   "He shall build a house for my name,
+[00:50:43.640 --> 00:50:46.680]   "and I will establish the throne of his kingdom forever."
+[00:50:46.680 --> 00:50:48.360]   You notice with the Abrahamic covenant,
+[00:50:48.360 --> 00:50:52.200]   he promises a great nation, but then here he says
+[00:50:52.200 --> 00:50:55.160]   the way that's gonna happen is through a king.
+[00:50:55.160 --> 00:50:58.420]   He doesn't say your descendants, but your descendant,
+[00:50:58.420 --> 00:50:59.920]   this king, this messiah.
+[00:51:00.920 --> 00:51:03.680]   Going back to the text that we're looking at,
+[00:51:03.680 --> 00:51:07.920]   Zechariah chapter one, 67 through 74,
+[00:51:07.920 --> 00:51:11.640]   he mentions how he raised up a horn of salvation for us
+[00:51:11.640 --> 00:51:13.040]   in the house of David, his servant.
+[00:51:13.040 --> 00:51:17.020]   In other words, Jesus is the fulfillment of that prophecy.
+[00:51:17.020 --> 00:51:21.640]   Jesus is the fulfillment of that prophecy that he made.
+[00:51:21.640 --> 00:51:23.600]   But the fulfillment of that prophecy,
+[00:51:23.600 --> 00:51:27.460]   how long did it take for Jesus to even show up?
+[00:51:27.460 --> 00:51:29.520]   Another thousand years.
+[00:51:29.520 --> 00:51:31.840]   Thousand years before Abraham and David,
+[00:51:31.840 --> 00:51:33.720]   and then another thousand year passes
+[00:51:33.720 --> 00:51:35.480]   after the promise that he's made.
+[00:51:35.480 --> 00:51:38.440]   This Davidic covenant is so important
+[00:51:38.440 --> 00:51:41.840]   that the Bible mentions this covenant 40 separate times.
+[00:51:41.840 --> 00:51:45.620]   And the reason why they mention it 40 times
+[00:51:45.620 --> 00:51:50.000]   is because every period of darkness in Israel's history,
+[00:51:50.000 --> 00:51:53.500]   they would recite this covenant to remind each other,
+[00:51:53.500 --> 00:51:57.740]   we still have hope, because God made this covenant
+[00:51:57.740 --> 00:51:59.920]   and the king is coming,
+[00:51:59.920 --> 00:52:03.520]   who's going to fulfill God's covenant.
+[00:52:03.520 --> 00:52:06.920]   So can you imagine the people during the time of Christ?
+[00:52:06.920 --> 00:52:09.120]   2,000 years have passed
+[00:52:09.120 --> 00:52:11.200]   since the covenant that he made with Abraham,
+[00:52:11.200 --> 00:52:14.360]   and 2,000 years later, Zechariah says
+[00:52:14.360 --> 00:52:17.880]   that he is going to be gracious
+[00:52:17.880 --> 00:52:22.520]   and he's going to visit us for the purpose of redemption,
+[00:52:22.520 --> 00:52:25.240]   and the promise that he made to David
+[00:52:25.240 --> 00:52:27.880]   is being fulfilled now in Christ,
+[00:52:27.880 --> 00:52:29.040]   and John is going to come
+[00:52:29.040 --> 00:52:31.840]   and he's going to prepare the way for that king to come.
+[00:52:31.840 --> 00:52:35.800]   You can imagine that during the time of Christ,
+[00:52:35.800 --> 00:52:38.100]   many people probably already lost hope.
+[00:52:38.100 --> 00:52:40.600]   I mean, it's been 2,000 years.
+[00:52:40.600 --> 00:52:43.680]   When's the last time somebody made you a promise
+[00:52:43.680 --> 00:52:44.800]   and it didn't happen right away,
+[00:52:44.800 --> 00:52:47.680]   and you're just like, ah, forget it, don't trust that guy.
+[00:52:47.680 --> 00:52:50.560]   How long would you wait before you cling on to this hope?
+[00:52:50.560 --> 00:52:54.720]   2,000 years have passed.
+[00:52:54.720 --> 00:52:57.600]   Many of Israel has already forgotten.
+[00:52:57.600 --> 00:52:59.040]   They moved on.
+[00:52:59.040 --> 00:53:00.200]   They built their own plans.
+[00:53:00.200 --> 00:53:01.920]   Some of them have just completely walked away
+[00:53:01.920 --> 00:53:02.820]   from their faith,
+[00:53:02.820 --> 00:53:08.560]   but the few faithful, like Zacharias and Elizabeth
+[00:53:08.560 --> 00:53:11.000]   and Mary and Joseph,
+[00:53:11.000 --> 00:53:13.680]   they were just clinging on,
+[00:53:13.680 --> 00:53:17.080]   and that's why they, can you imagine the excitement?
+[00:53:17.080 --> 00:53:19.840]   But I can understand why so many people walked away,
+[00:53:19.840 --> 00:53:24.800]   because after God promises to David,
+[00:53:24.800 --> 00:53:26.520]   you would think like, oh, Messiah's going to come,
+[00:53:26.520 --> 00:53:28.720]   and so Israel's going to become a superpower
+[00:53:28.720 --> 00:53:30.400]   and we're going to be an influence to the world
+[00:53:30.400 --> 00:53:32.360]   that we're going to take over the superpower.
+[00:53:32.360 --> 00:53:36.640]   Instead, right after God makes that promise to David,
+[00:53:36.640 --> 00:53:38.800]   David commits a horrendous sin.
+[00:53:38.800 --> 00:53:42.440]   He commits adultery.
+[00:53:42.440 --> 00:53:44.960]   In order to hide that, he commits murder,
+[00:53:44.960 --> 00:53:46.480]   and as a result of his sin,
+[00:53:46.480 --> 00:53:49.960]   God says that the kingdom's going to be divided.
+[00:53:49.960 --> 00:53:52.920]   His son, Solomon, comes into the throne,
+[00:53:52.920 --> 00:53:55.600]   and instead of worshiping God all his life
+[00:53:55.600 --> 00:53:59.480]   with all the wisdom and knowledge that God gave him,
+[00:53:59.480 --> 00:54:01.360]   he uses that to pleasure himself,
+[00:54:01.360 --> 00:54:04.760]   and all his life, and only at the tail end of his life,
+[00:54:04.760 --> 00:54:07.080]   he's like, oh, man, I pursued all these things
+[00:54:07.080 --> 00:54:09.660]   in empty, empty, vanity, vanity, all is vanity,
+[00:54:09.660 --> 00:54:12.800]   and after that, the kingdom splits in half.
+[00:54:12.800 --> 00:54:16.400]   10 kingdom, 10 tribes end up rebelling
+[00:54:16.400 --> 00:54:17.720]   against the nation of Israel.
+[00:54:17.720 --> 00:54:19.160]   They create their own nation,
+[00:54:19.160 --> 00:54:21.920]   and every single one of those kings after that
+[00:54:21.920 --> 00:54:23.080]   were corrupt and evil.
+[00:54:23.080 --> 00:54:27.000]   Only two nations, two tribes remained faithful,
+[00:54:27.000 --> 00:54:30.320]   the Benjamites and the tribe of Judah,
+[00:54:30.320 --> 00:54:32.320]   but even them, majority of them,
+[00:54:32.320 --> 00:54:34.480]   with the exception of maybe about three or four of them,
+[00:54:34.480 --> 00:54:35.640]   remained faithful to God,
+[00:54:35.640 --> 00:54:39.480]   and all of them choose to rebel against God.
+[00:54:39.480 --> 00:54:40.760]   I mean, it's like, God made this promise.
+[00:54:40.760 --> 00:54:41.880]   The kingdom's going to come.
+[00:54:41.880 --> 00:54:43.300]   They're going to become a superpower.
+[00:54:43.300 --> 00:54:46.480]   Instead, the guy who receives this promise
+[00:54:46.480 --> 00:54:48.520]   ends up committing a sin, becomes a murderer.
+[00:54:48.520 --> 00:54:50.120]   His son chases after the world.
+[00:54:50.120 --> 00:54:51.360]   The kingdom is split.
+[00:54:51.360 --> 00:54:54.520]   Every king that represents God to the nation
+[00:54:54.520 --> 00:54:57.440]   is corrupt and leading them to worship idols,
+[00:54:57.440 --> 00:55:03.520]   so every prophet that comes to speak
+[00:55:03.520 --> 00:55:04.840]   to the nation of Israel,
+[00:55:04.840 --> 00:55:09.120]   all the prophets fall into three categories,
+[00:55:09.120 --> 00:55:12.080]   pre-exile, exile, and post-exile.
+[00:55:12.080 --> 00:55:15.080]   The people that God sends before the exile
+[00:55:15.080 --> 00:55:16.400]   is to warn the nation of Israel,
+[00:55:16.400 --> 00:55:18.320]   if you do not repent, you're going to be taken away.
+[00:55:18.320 --> 00:55:20.400]   Your nation's going to be gone.
+[00:55:20.400 --> 00:55:22.440]   Babylonians are going to come.
+[00:55:22.440 --> 00:55:23.360]   The Persians are going to come.
+[00:55:23.360 --> 00:55:24.200]   They're going to take you,
+[00:55:24.200 --> 00:55:25.840]   and all that is precious to you
+[00:55:25.840 --> 00:55:29.160]   are going to be forced into slavery if you do not repent,
+[00:55:29.160 --> 00:55:32.040]   so they don't repent,
+[00:55:32.040 --> 00:55:33.600]   and then you have the prophets
+[00:55:33.600 --> 00:55:36.060]   who come during the period of the exile.
+[00:55:36.060 --> 00:55:38.240]   What has happened to you was not by accident.
+[00:55:38.240 --> 00:55:41.880]   It's because God places hands upon you,
+[00:55:41.880 --> 00:55:45.160]   so if you do not repent, there is no restoration,
+[00:55:45.160 --> 00:55:47.760]   so the prophets come and try to get them
+[00:55:47.760 --> 00:55:49.200]   to repent during the exile,
+[00:55:49.200 --> 00:55:52.280]   and then there's the post-exile.
+[00:55:52.280 --> 00:55:53.840]   They even, after all of that,
+[00:55:53.840 --> 00:55:56.000]   a few remnant come back to Israel.
+[00:55:56.000 --> 00:55:58.960]   Majority of them has already abandoned God,
+[00:55:58.960 --> 00:56:02.560]   and it's period after period after period,
+[00:56:02.560 --> 00:56:06.520]   prophet after prophet after prophet appealing to Israel.
+[00:56:08.040 --> 00:56:09.280]   Have you forgotten God?
+[00:56:09.280 --> 00:56:11.080]   Have you forgotten God?
+[00:56:11.080 --> 00:56:14.360]   Malachi is the last prophet that speaks,
+[00:56:14.360 --> 00:56:17.280]   and after he speaks, for 400 years,
+[00:56:17.280 --> 00:56:21.080]   there's dead silence, no prophet, nothing.
+[00:56:21.080 --> 00:56:23.160]   There's a famine of the word of God,
+[00:56:23.160 --> 00:56:25.080]   and God no longer speaks to them,
+[00:56:25.080 --> 00:56:30.080]   so 1,000 years between Abraham and David,
+[00:56:30.080 --> 00:56:33.720]   and then another 1,000 years of utter chaos
+[00:56:33.720 --> 00:56:36.260]   from David to the time of Christ,
+[00:56:37.440 --> 00:56:39.600]   so we can understand why so many of them
+[00:56:39.600 --> 00:56:41.600]   have already drifted out.
+[00:56:41.600 --> 00:56:43.800]   Maybe we have exhausted his grace.
+[00:56:43.800 --> 00:56:47.400]   Maybe God gave us a chance and we blew it,
+[00:56:47.400 --> 00:56:51.440]   but the few who remain held on.
+[00:56:51.440 --> 00:56:56.120]   But again, remember, the promise of a nation,
+[00:56:56.120 --> 00:57:00.020]   promise of their power, promise of their influence, right?
+[00:57:00.020 --> 00:57:02.840]   But it never happened.
+[00:57:02.840 --> 00:57:06.080]   It never happened, right?
+[00:57:06.080 --> 00:57:09.400]   Nation of Israel was never a superpower, ever.
+[00:57:09.400 --> 00:57:12.400]   Even when they got back, there was a remnant.
+[00:57:12.400 --> 00:57:15.220]   In fact, after this prophecy happened,
+[00:57:15.220 --> 00:57:17.320]   what happens to the nation of Israel?
+[00:57:17.320 --> 00:57:20.160]   God says that Israel, God's gonna be faithful
+[00:57:20.160 --> 00:57:22.120]   to the Abrahamic covenant, to the Davidic covenant,
+[00:57:22.120 --> 00:57:25.000]   the king is going to come, he's gonna squash the enemies,
+[00:57:25.000 --> 00:57:26.880]   and they're gonna be to worship God without fear
+[00:57:26.880 --> 00:57:28.960]   because they're gonna become the superpower.
+[00:57:28.960 --> 00:57:30.020]   Does that ever happen?
+[00:57:30.020 --> 00:57:32.240]   No, it never happens.
+[00:57:32.240 --> 00:57:34.360]   The nation never comes back.
+[00:57:34.360 --> 00:57:39.360]   In fact, they enter into the darkest period of their history.
+[00:57:39.360 --> 00:57:45.600]   In AD 70, they are wiped out, completely, gone.
+[00:57:45.600 --> 00:57:49.640]   You would think that after Zachariah makes his prophecy
+[00:57:49.640 --> 00:57:51.560]   that Israel would be reestablished,
+[00:57:51.560 --> 00:57:53.400]   Jesus is brought on his throne,
+[00:57:53.400 --> 00:57:58.440]   in the end, we enter into eternity,
+[00:57:58.440 --> 00:58:00.920]   that all the promise they've been waiting for 2,000 years
+[00:58:00.920 --> 00:58:01.740]   will be fulfilled.
+[00:58:01.740 --> 00:58:06.740]   Instead, they go into the darkest period of their history.
+[00:58:06.740 --> 00:58:10.140]   You can imagine why the disciples
+[00:58:10.140 --> 00:58:12.500]   were so stuck on this kingdom idea
+[00:58:12.500 --> 00:58:15.900]   because every hope that they had,
+[00:58:15.900 --> 00:58:18.460]   every darkness that they experienced,
+[00:58:18.460 --> 00:58:23.020]   they only had one solution, the Messiah's coming.
+[00:58:23.020 --> 00:58:24.420]   The Messiah's coming.
+[00:58:24.420 --> 00:58:28.060]   He promised us that we're gonna overthrow kingdoms,
+[00:58:28.060 --> 00:58:29.800]   that our nation's gonna be the superpower,
+[00:58:29.800 --> 00:58:31.540]   we're gonna be able to be an influence
+[00:58:31.540 --> 00:58:33.220]   to the rest of the world.
+[00:58:33.220 --> 00:58:36.040]   That's why, as Jesus was going to the cross,
+[00:58:36.040 --> 00:58:38.180]   remember in the Gospel of Mark,
+[00:58:38.180 --> 00:58:40.420]   it says Jesus made it crystal clear,
+[00:58:40.420 --> 00:58:43.060]   he's going to Jerusalem, he's going to be beaten,
+[00:58:43.060 --> 00:58:45.020]   put to death, and then he's gonna resurrect.
+[00:58:45.020 --> 00:58:47.300]   Remember what the disciples were fighting over?
+[00:58:47.300 --> 00:58:50.500]   Well, who's gonna be great in God's kingdom
+[00:58:50.500 --> 00:58:52.180]   when that happens?
+[00:58:52.180 --> 00:58:55.180]   Jesus says, "Well, I'm gonna die and be crucified.
+[00:58:55.180 --> 00:58:56.220]   "I'm gonna be raised on the third day."
+[00:58:56.220 --> 00:58:59.460]   Well, who's gonna sit on your left and to the right?
+[00:58:59.460 --> 00:59:00.740]   Because they were so fixated.
+[00:59:00.740 --> 00:59:03.580]   If he's gonna fulfill the kingdom now,
+[00:59:03.580 --> 00:59:06.020]   and when that kingdom comes,
+[00:59:06.020 --> 00:59:07.460]   when the Davidic covenant,
+[00:59:07.460 --> 00:59:09.780]   when the Abrahamic covenant is ratified,
+[00:59:09.780 --> 00:59:14.460]   it's fulfilled, man, we're his disciples, right?
+[00:59:14.460 --> 00:59:16.260]   We're gonna be the greatest.
+[00:59:16.260 --> 00:59:18.540]   And so they couldn't fathom,
+[00:59:18.540 --> 00:59:21.060]   like why would the Messiah go to the cross?
+[00:59:21.060 --> 00:59:24.340]   He said he's gonna conquer their enemies.
+[00:59:24.340 --> 00:59:27.460]   How is he gonna conquer their enemies if he dies?
+[00:59:27.460 --> 00:59:29.460]   So they heard him, but they didn't understand him.
+[00:59:29.460 --> 00:59:31.040]   So remember the passage in Mark,
+[00:59:31.040 --> 00:59:31.940]   they didn't wanna ask him
+[00:59:31.940 --> 00:59:34.380]   because they felt like they're gonna get rebuked.
+[00:59:34.380 --> 00:59:35.220]   You know what I mean?
+[00:59:35.220 --> 00:59:36.040]   They didn't understand,
+[00:59:36.040 --> 00:59:38.340]   and they didn't wanna even ask him.
+[00:59:38.340 --> 00:59:43.060]   But that question doesn't end there.
+[00:59:43.060 --> 00:59:46.780]   After Jesus dies and he resurrects,
+[00:59:46.780 --> 00:59:49.300]   can you imagine, right?
+[00:59:49.300 --> 00:59:50.620]   They were afraid, it's like,
+[00:59:50.620 --> 00:59:51.580]   why is he going to the cross?
+[00:59:51.580 --> 00:59:53.300]   They don't understand, so he dies and he resurrects.
+[00:59:53.300 --> 00:59:54.720]   It's like, oh my gosh.
+[00:59:54.720 --> 00:59:57.260]   If they had hope before the cross,
+[00:59:57.260 --> 00:59:58.980]   they can't even kill him.
+[00:59:58.980 --> 01:00:02.780]   Even if they kill him, we saw what he did to him.
+[01:00:02.780 --> 01:00:05.580]   They punctured him with a spear.
+[01:00:05.580 --> 01:00:07.900]   It's one thing for him to raise Lazarus,
+[01:00:07.900 --> 01:00:09.440]   but he raises himself.
+[01:00:09.440 --> 01:00:14.060]   On the third day, he comes back in his glorified body.
+[01:00:14.060 --> 01:00:18.220]   So can you imagine the hope that was dashed before the cross
+[01:00:18.220 --> 01:00:20.120]   and after the cross?
+[01:00:20.120 --> 01:00:21.060]   Can you imagine?
+[01:00:21.060 --> 01:00:24.500]   This guy, they can't even kill him.
+[01:00:25.460 --> 01:00:29.140]   And so the disciples, before Jesus ascends,
+[01:00:29.140 --> 01:00:31.100]   this is what happens, Acts chapter one, three.
+[01:00:31.100 --> 01:00:33.420]   To these, he also presented himself alive
+[01:00:33.420 --> 01:00:35.260]   after suffering by many convincing proofs,
+[01:00:35.260 --> 01:00:37.300]   appearing to them over a period of 40 days,
+[01:00:37.300 --> 01:00:39.220]   speaking of the things concerning what?
+[01:00:39.220 --> 01:00:40.500]   The kingdom of God.
+[01:00:40.500 --> 01:00:45.040]   He spent that whole time after the resurrection
+[01:00:45.040 --> 01:00:48.300]   because he knows that the Israelites are fixated on this.
+[01:00:48.300 --> 01:00:50.440]   He knows that his disciples are fixated on this
+[01:00:50.440 --> 01:00:51.860]   because this is what they've been waiting for
+[01:00:51.860 --> 01:00:53.900]   for 2,000 years.
+[01:00:53.900 --> 01:00:55.660]   So now he's explaining to them
+[01:00:55.660 --> 01:00:58.620]   that some things that you're thinking may not be correct.
+[01:00:58.620 --> 01:01:00.440]   And so he's explained the kingdom of God,
+[01:01:00.440 --> 01:01:04.160]   but the whole time, this is, when he says kingdom of God,
+[01:01:04.160 --> 01:01:05.700]   the Jews are thinking Abrahamic covenant,
+[01:01:05.700 --> 01:01:07.420]   the Davidic covenant, right?
+[01:01:07.420 --> 01:01:10.940]   But listen to what he says, verse six.
+[01:01:10.940 --> 01:01:14.200]   So when they, the disciples, had come together,
+[01:01:14.200 --> 01:01:15.260]   they were asking him, saying,
+[01:01:15.260 --> 01:01:16.780]   "Lord, is it at this time
+[01:01:16.780 --> 01:01:18.760]   "you are restoring the kingdom to what?
+[01:01:18.760 --> 01:01:21.980]   "To Israel, right, to Israel."
+[01:01:22.060 --> 01:01:25.460]   He said to them, "It is not for you to know times or epics
+[01:01:25.460 --> 01:01:28.940]   "which the Father has fixed by his own authority."
+[01:01:28.940 --> 01:01:30.680]   The disciples are not thinking kingdom
+[01:01:30.680 --> 01:01:32.000]   as in just a spiritual kingdom.
+[01:01:32.000 --> 01:01:33.460]   He's talking about the fulfillment
+[01:01:33.460 --> 01:01:37.500]   of Abrahamic, Davidic covenant to Israel, right?
+[01:01:37.500 --> 01:01:40.020]   Now this is the part where you guys are kind of like,
+[01:01:40.020 --> 01:01:41.460]   all right, just listen anyway.
+[01:01:41.460 --> 01:01:44.440]   If I already lost you, just listen anyway.
+[01:01:44.440 --> 01:01:47.900]   File it away because when I first heard it in seminary,
+[01:01:47.900 --> 01:01:49.140]   I didn't understand it either.
+[01:01:49.140 --> 01:01:51.780]   It took me a while and it started sinking in.
+[01:01:51.780 --> 01:01:54.420]   But this is that important, right?
+[01:01:54.420 --> 01:01:56.020]   This is not one of those things you're kind of like,
+[01:01:56.020 --> 01:01:57.340]   oh, this is for the theologians
+[01:01:57.340 --> 01:01:59.420]   or these are for the pastors.
+[01:01:59.420 --> 01:02:02.980]   This is the lens in which you see all of scripture.
+[01:02:02.980 --> 01:02:06.580]   So if you have a superficial understanding of this
+[01:02:06.580 --> 01:02:09.200]   and how this is connected to everything that God is doing,
+[01:02:09.200 --> 01:02:10.320]   that you're always going to have
+[01:02:10.320 --> 01:02:12.400]   a superficial understanding, right?
+[01:02:12.400 --> 01:02:14.460]   So understandable in the beginning
+[01:02:14.460 --> 01:02:15.940]   that you're studying the Bible,
+[01:02:15.940 --> 01:02:18.780]   that you're not gonna be able to connect the dots, right?
+[01:02:18.780 --> 01:02:21.780]   But I guarantee you, once you are able to start
+[01:02:21.780 --> 01:02:23.620]   to connect the dots, the Bible is going to make
+[01:02:23.620 --> 01:02:24.920]   so much more sense to you.
+[01:02:24.920 --> 01:02:27.060]   You're gonna see the connection
+[01:02:27.060 --> 01:02:29.340]   between Genesis and Revelation
+[01:02:29.340 --> 01:02:32.460]   and you see why we make a big deal about baptism
+[01:02:32.460 --> 01:02:34.020]   and communion and everything that we do.
+[01:02:34.020 --> 01:02:35.500]   It's all connected to this, okay?
+[01:02:35.500 --> 01:02:37.780]   No, that's just a side point, okay?
+[01:02:37.780 --> 01:02:43.300]   The disciples ask, they've never given up on hope on this.
+[01:02:43.300 --> 01:02:44.860]   We thought you going to the cross
+[01:02:44.860 --> 01:02:47.380]   was going to nullify the covenant
+[01:02:47.380 --> 01:02:48.220]   because you're gonna die.
+[01:02:48.220 --> 01:02:50.420]   If you're the fulfillment of the covenant and you die,
+[01:02:50.420 --> 01:02:51.420]   how is this gonna happen?
+[01:02:51.420 --> 01:02:53.180]   But when he resurrects from the dead,
+[01:02:53.180 --> 01:02:54.660]   the hope is revived again.
+[01:02:54.660 --> 01:02:55.820]   So he said, "Now are you going to,
+[01:02:55.820 --> 01:02:57.540]   "are you now going to fulfill this?"
+[01:02:57.540 --> 01:03:00.340]   And Jesus says, "You do not know the time or the hour."
+[01:03:00.340 --> 01:03:03.260]   If he was talking about the church,
+[01:03:03.260 --> 01:03:06.380]   'cause some people say, "Well, the church fulfilled that."
+[01:03:06.380 --> 01:03:08.660]   Then Jesus knows exactly when this is gonna happen
+[01:03:08.660 --> 01:03:11.700]   because the Pentecost is gonna happen in the next chapter.
+[01:03:11.700 --> 01:03:12.860]   The Holy Spirit's gonna come,
+[01:03:12.860 --> 01:03:14.500]   they're gonna be filled with the Holy Spirit
+[01:03:14.500 --> 01:03:17.280]   and the New Testament church is inaugurated.
+[01:03:18.120 --> 01:03:19.440]   But he doesn't say that.
+[01:03:19.440 --> 01:03:22.080]   He doesn't say, "Oh, it's gonna happen," right?
+[01:03:22.080 --> 01:03:23.720]   The spiritual kingdom of God's gonna happen.
+[01:03:23.720 --> 01:03:25.600]   He says, "No, you do not know the time or the hour.
+[01:03:25.600 --> 01:03:29.240]   "It is appointed by God, but you,
+[01:03:29.240 --> 01:03:31.360]   "the Holy Spirit's gonna come upon you
+[01:03:31.360 --> 01:03:34.400]   "and you will be my witnesses in Jerusalem, Judea, Samaria,
+[01:03:34.400 --> 01:03:36.240]   "to the remotest part of the world."
+[01:03:36.240 --> 01:03:39.720]   Until the time where God has anointed
+[01:03:39.720 --> 01:03:43.360]   that Israel is going to be established,
+[01:03:43.360 --> 01:03:46.480]   until that happens, you go preach the gospel.
+[01:03:47.320 --> 01:03:51.360]   You establish the church in Jerusalem, Judea,
+[01:03:51.360 --> 01:03:55.280]   and outside of Jerusalem to bring the Gentiles in.
+[01:03:55.280 --> 01:03:57.360]   That's the period that we're in, right?
+[01:03:57.360 --> 01:04:02.280]   Are you with me?
+[01:04:02.280 --> 01:04:04.520]   You guys are looking at me like,
+[01:04:04.520 --> 01:04:07.080]   I get it, but I don't get it, right?
+[01:04:07.080 --> 01:04:09.220]   Fathers, this is something that you might have to go back
+[01:04:09.220 --> 01:04:10.680]   and re-listen to, okay?
+[01:04:10.680 --> 01:04:12.520]   So put that mind on.
+[01:04:12.520 --> 01:04:15.320]   The Jews are concerned, the disciples are concerned.
+[01:04:15.320 --> 01:04:17.800]   It says, it's going to happen.
+[01:04:17.800 --> 01:04:19.120]   You just don't know the time or the hour,
+[01:04:19.120 --> 01:04:23.760]   but it's gonna happen, but now you go preach the gospel.
+[01:04:23.760 --> 01:04:29.280]   The whole of the New Testament is written
+[01:04:29.280 --> 01:04:34.280]   to convince the Jews that God's design
+[01:04:34.280 --> 01:04:37.160]   for redemptive history is not just the Jews,
+[01:04:37.160 --> 01:04:39.740]   that God has something much bigger in mind than the Jews,
+[01:04:39.740 --> 01:04:42.920]   but he's going to do it through the Jews, right?
+[01:04:42.920 --> 01:04:47.440]   So in Romans chapter 11, the whole chapter 11,
+[01:04:47.440 --> 01:04:49.480]   is to answer that question.
+[01:04:49.480 --> 01:04:52.840]   If all have sinned, fall short of the glory of God,
+[01:04:52.840 --> 01:04:55.680]   not just the Gentiles, but even the Jews,
+[01:04:55.680 --> 01:04:57.440]   even though they've been obeying the law,
+[01:04:57.440 --> 01:04:59.120]   at least the remnant of them,
+[01:04:59.120 --> 01:05:02.960]   that everyone needs to be forgiven by the blood of Christ.
+[01:05:02.960 --> 01:05:07.160]   If that's the case, what's the benefit of being a Jew?
+[01:05:07.160 --> 01:05:10.040]   Does that mean that God has nullified his promise
+[01:05:10.040 --> 01:05:11.480]   that he made to the nation of Israel?
+[01:05:11.480 --> 01:05:13.360]   Or does that mean that God has somehow fulfilled it
+[01:05:13.360 --> 01:05:15.120]   in the church so there's no longer need
+[01:05:15.120 --> 01:05:17.040]   for the nation of Israel?
+[01:05:17.040 --> 01:05:20.560]   Some people will argue and say, Israel's gone.
+[01:05:20.560 --> 01:05:22.900]   They had their chance and they blew it,
+[01:05:22.900 --> 01:05:27.900]   so God transferred what he was trying to do to the church.
+[01:05:27.900 --> 01:05:31.920]   That everything that God promised the nation of Israel,
+[01:05:31.920 --> 01:05:33.560]   when he said Israel, he didn't really mean Israel,
+[01:05:33.560 --> 01:05:35.300]   he meant the church, right?
+[01:05:35.300 --> 01:05:38.920]   Everything that he promised,
+[01:05:38.920 --> 01:05:41.020]   he was actually just talking figuratively,
+[01:05:41.020 --> 01:05:44.120]   even though that's how the Jews understand it.
+[01:05:44.120 --> 01:05:46.640]   So Paul is answering that question.
+[01:05:46.640 --> 01:05:48.480]   Is God done with Israel?
+[01:05:48.480 --> 01:05:49.320]   He made a promise.
+[01:05:49.320 --> 01:05:51.080]   When Jesus was appearing, he says,
+[01:05:51.080 --> 01:05:52.760]   God is fulfilling the Abrahamic promise.
+[01:05:52.760 --> 01:05:53.760]   He's being faithful.
+[01:05:53.760 --> 01:05:55.640]   He's fulfilling the Davidic covenant,
+[01:05:55.640 --> 01:05:58.800]   and yet now you say that the gospel's going to the Gentiles?
+[01:05:58.800 --> 01:06:03.000]   And that's the question that he answers in Romans 11.
+[01:06:03.000 --> 01:06:06.160]   I say that God has not rejected his people, has he?
+[01:06:06.160 --> 01:06:08.600]   In other words, this covenant that God made with Israel,
+[01:06:08.600 --> 01:06:09.880]   is he done?
+[01:06:09.880 --> 01:06:12.380]   Is he moving on to the Gentiles?
+[01:06:12.380 --> 01:06:16.220]   May it never be, for I too am an Israelite,
+[01:06:16.220 --> 01:06:19.300]   a descendant of Abraham, of the tribe of Benjamin.
+[01:06:19.300 --> 01:06:22.300]   God has not rejected his people whom he foreknew.
+[01:06:22.300 --> 01:06:23.540]   When he says his people,
+[01:06:23.540 --> 01:06:26.740]   he's talking about the Israelites whom he foreknew.
+[01:06:26.740 --> 01:06:28.900]   He had a personal, intimate knowledge and love for them.
+[01:06:28.900 --> 01:06:31.780]   He called them the apple of his eye.
+[01:06:31.780 --> 01:06:33.900]   He did not change his mind.
+[01:06:33.900 --> 01:06:35.500]   They did not fall from God's grace.
+[01:06:35.500 --> 01:06:37.340]   Romans 11, 11 through 15.
+[01:06:37.340 --> 01:06:40.080]   I say then, they did not stumble so as to fall, did they?
+[01:06:40.080 --> 01:06:42.980]   Meaning, did they have their chance and then they blew it,
+[01:06:42.980 --> 01:06:44.400]   and so now God is done with them?
+[01:06:44.400 --> 01:06:47.320]   May it never be, but by their transgression,
+[01:06:47.320 --> 01:06:51.140]   salvation has come to the Gentiles to make them jealous.
+[01:06:51.140 --> 01:06:53.780]   Because of their failure,
+[01:06:53.780 --> 01:06:56.200]   the period of the Gentiles has come in.
+[01:06:56.200 --> 01:06:58.340]   Now, don't you think it's interesting
+[01:06:58.340 --> 01:07:01.000]   that as soon as the church is inaugurated,
+[01:07:01.000 --> 01:07:02.580]   Israel is demolished?
+[01:07:03.640 --> 01:07:08.100]   Exactly the opposite of what it seems like is gonna happen.
+[01:07:08.100 --> 01:07:10.480]   They waited 2,000 years.
+[01:07:10.480 --> 01:07:11.900]   Angel Gabriel comes.
+[01:07:11.900 --> 01:07:13.980]   The Messiah that you've been waiting for is gonna come,
+[01:07:13.980 --> 01:07:16.280]   and he's gonna fulfill the promise that he made with David.
+[01:07:16.280 --> 01:07:18.800]   All the enemies are gonna be squashed,
+[01:07:18.800 --> 01:07:21.060]   and then another 40 years later,
+[01:07:21.060 --> 01:07:24.060]   Israel actually just disappears, AD 70.
+[01:07:24.060 --> 01:07:28.420]   So, I mean, imagine if you're Israel saying,
+[01:07:28.420 --> 01:07:29.720]   "God, it must be done."
+[01:07:29.720 --> 01:07:32.580]   One final hope we had with Jesus,
+[01:07:33.540 --> 01:07:34.980]   and now Israel doesn't even exist,
+[01:07:34.980 --> 01:07:37.260]   at least before we existed with oppression,
+[01:07:37.260 --> 01:07:38.580]   but now we don't even exist,
+[01:07:38.580 --> 01:07:40.820]   and they disappear for how many years?
+[01:07:40.820 --> 01:07:43.140]   2,000 years.
+[01:07:43.140 --> 01:07:47.420]   2,000 years between Abraham to Jesus,
+[01:07:47.420 --> 01:07:50.700]   and then 2,000 years, nation of Israel disappears,
+[01:07:50.700 --> 01:07:55.300]   and then they reappear in 1948 as a nation.
+[01:07:55.300 --> 01:07:59.660]   None of this is by accident.
+[01:08:01.280 --> 01:08:03.640]   Let me continue to read in Romans 11, 24.
+[01:08:03.640 --> 01:08:04.880]   It says, "For if you were cut off
+[01:08:04.880 --> 01:08:07.360]   "from what is by nature a wild olive tree
+[01:08:07.360 --> 01:08:09.580]   "and were grafted contrary to nature
+[01:08:09.580 --> 01:08:11.320]   "into a cultivated olive tree,
+[01:08:11.320 --> 01:08:14.680]   "how much more will these who are the natural branches
+[01:08:14.680 --> 01:08:17.840]   "be grafted into their own olive tree?
+[01:08:17.840 --> 01:08:19.840]   "For I do not want you, brethren,
+[01:08:19.840 --> 01:08:21.280]   "to be uninformed of this mystery
+[01:08:21.280 --> 01:08:24.020]   "so that you will not be wise in your own estimation,
+[01:08:24.020 --> 01:08:26.900]   "that a partial hardening has happened to Israel
+[01:08:26.900 --> 01:08:30.120]   "until the fullness of the Gentiles has come in."
+[01:08:30.120 --> 01:08:32.280]   So during a period of Gentile for the church
+[01:08:32.280 --> 01:08:34.680]   to bring in the non-Jews into the kingdom,
+[01:08:34.680 --> 01:08:37.680]   and so all Israel will be saved.
+[01:08:37.680 --> 01:08:40.640]   In other words, the nation of Israel will be reestablished,
+[01:08:40.640 --> 01:08:41.600]   just as it is written,
+[01:08:41.600 --> 01:08:43.520]   the deliverer will come from Zion,
+[01:08:43.520 --> 01:08:45.920]   he will remove ungodliness from Jacob.
+[01:08:45.920 --> 01:08:48.520]   This is the covenant with them,
+[01:08:48.520 --> 01:08:50.920]   when I take away their sins.
+[01:08:50.920 --> 01:08:52.400]   From the standpoint of the gospel,
+[01:08:52.400 --> 01:08:53.720]   they are enemies for your sake,
+[01:08:53.720 --> 01:08:55.280]   but from the standpoint of God's choice,
+[01:08:55.280 --> 01:08:57.040]   they are beloved for the sake of the fathers,
+[01:08:57.040 --> 01:08:59.880]   and then this is the punchline.
+[01:08:59.880 --> 01:09:04.140]   "For the gifts and the calling of God are irrevocable."
+[01:09:04.140 --> 01:09:10.920]   Now, the scripture clearly says, right?
+[01:09:10.920 --> 01:09:14.220]   Our sanctification is being transformed
+[01:09:14.220 --> 01:09:18.340]   from one set of glory to a greater set of glory.
+[01:09:18.340 --> 01:09:21.840]   The more we see the glory of God
+[01:09:21.840 --> 01:09:24.760]   as we study the scriptures and as we interact with God,
+[01:09:24.760 --> 01:09:27.540]   he says we grow and mature.
+[01:09:27.540 --> 01:09:30.360]   So sanctification isn't just adding more stuff
+[01:09:30.360 --> 01:09:32.000]   and experiencing more stuff,
+[01:09:32.000 --> 01:09:37.000]   it's understanding and recognizing his glory.
+[01:09:37.000 --> 01:09:39.640]   And so when we recognize his glory
+[01:09:39.640 --> 01:09:41.760]   and we begin to reflect that glory,
+[01:09:41.760 --> 01:09:45.920]   he says that's when maturity and sanctification happens.
+[01:09:45.920 --> 01:09:47.340]   Now, why do I say this?
+[01:09:47.340 --> 01:09:50.800]   Because the more you dig through scripture,
+[01:09:50.800 --> 01:09:52.720]   more you understand,
+[01:09:52.720 --> 01:09:53.560]   what I just said was,
+[01:09:53.560 --> 01:09:55.280]   I just gave you a Clipnote version.
+[01:09:56.280 --> 01:10:00.040]   He says, "If the fall of the nation of Israel
+[01:10:00.040 --> 01:10:03.720]   has opened the door, God's own people that he loved,
+[01:10:03.720 --> 01:10:09.140]   because of their fall, we're experiencing his glory."
+[01:10:09.140 --> 01:10:11.900]   He says, "How much more glory will you experience
+[01:10:11.900 --> 01:10:15.420]   and know when Israel is restored to that glory,
+[01:10:15.420 --> 01:10:19.380]   and we experience that glory
+[01:10:19.380 --> 01:10:21.120]   through his faithfulness to the nation of Israel?"
+[01:10:21.120 --> 01:10:22.380]   That's what he says here.
+[01:10:22.380 --> 01:10:24.460]   When will that happen?
+[01:10:24.460 --> 01:10:25.860]   Read the book of Revelation.
+[01:10:26.720 --> 01:10:27.680]   In the book of Revelation,
+[01:10:27.680 --> 01:10:29.320]   God fulfills all that promise
+[01:10:29.320 --> 01:10:30.720]   that he made to the nation of Israel.
+[01:10:30.720 --> 01:10:34.140]   All of that is fulfilled during the period of the millennium.
+[01:10:34.140 --> 01:10:39.040]   Now, I already know a good chunk of this
+[01:10:39.040 --> 01:10:41.300]   has gone over your head, right?
+[01:10:41.300 --> 01:10:44.160]   And I was wrestling back and forth.
+[01:10:44.160 --> 01:10:45.240]   It's like, "Oh, it's Sunday morning,
+[01:10:45.240 --> 01:10:46.280]   we have different people,
+[01:10:46.280 --> 01:10:47.520]   and some of you guys are visiting today."
+[01:10:47.520 --> 01:10:48.800]   And it's like, "Oh my God,
+[01:10:48.800 --> 01:10:50.720]   I didn't understand a word he said."
+[01:10:50.720 --> 01:10:51.560]   Right?
+[01:10:51.560 --> 01:10:52.960]   And some of you guys who may have been here for a while,
+[01:10:52.960 --> 01:10:55.840]   it's just like, "Well, how am I gonna apply this today?"
+[01:10:56.260 --> 01:10:57.100]   Right?
+[01:10:57.100 --> 01:10:59.740]   "How do I be a good father, mother, brother, sister?
+[01:10:59.740 --> 01:11:00.740]   I'm having financial problems.
+[01:11:00.740 --> 01:11:01.900]   What is this gonna help?"
+[01:11:01.900 --> 01:11:02.740]   Right?
+[01:11:02.740 --> 01:11:03.740]   Character issues.
+[01:11:03.740 --> 01:11:05.660]   "I'm having problems with my children.
+[01:11:05.660 --> 01:11:07.100]   I'm struggling with purity.
+[01:11:07.100 --> 01:11:08.340]   Like, how is this gonna help?"
+[01:11:08.340 --> 01:11:09.180]   Right?
+[01:11:09.180 --> 01:11:11.860]   Let me tell you why this is so important,
+[01:11:11.860 --> 01:11:14.540]   and why, even though you didn't understand,
+[01:11:14.540 --> 01:11:17.780]   okay, a lot of it may have gone over your head,
+[01:11:17.780 --> 01:11:19.020]   I wanna give you three reasons
+[01:11:19.020 --> 01:11:21.660]   why everything that I said is crucial.
+[01:11:21.660 --> 01:11:23.380]   Right?
+[01:11:23.380 --> 01:11:26.660]   Hopefully, for the rest of your life,
+[01:11:26.660 --> 01:11:30.680]   that you don't just become hearers of the Word.
+[01:11:30.680 --> 01:11:31.520]   Right?
+[01:11:31.520 --> 01:11:33.360]   You just hear it, and you just teach me, feed me,
+[01:11:33.360 --> 01:11:36.340]   that you become Bereans where you're actually digging.
+[01:11:36.340 --> 01:11:37.720]   That if this confused you,
+[01:11:37.720 --> 01:11:40.400]   and I'm telling you how important this is,
+[01:11:40.400 --> 01:11:45.160]   that this will cause you to study, ask questions.
+[01:11:45.160 --> 01:11:47.640]   'Cause what I gave you was just a ClipTalk version.
+[01:11:47.640 --> 01:11:50.960]   But let me give you three reasons why this is important.
+[01:11:50.960 --> 01:11:52.900]   One, it's in the Bible.
+[01:11:53.880 --> 01:11:55.560]   In fact, it's not just in the Bible.
+[01:11:55.560 --> 01:11:58.040]   This is the backbone of redemptive history.
+[01:11:58.040 --> 01:12:01.160]   Everything God is doing is somehow connected to this.
+[01:12:01.160 --> 01:12:04.060]   There's a reason why, after 2,000 years,
+[01:12:04.060 --> 01:12:05.560]   he said the Abrahamic covenant,
+[01:12:05.560 --> 01:12:07.560]   the Davidic covenant, he is fulfilling.
+[01:12:07.560 --> 01:12:11.480]   There is nothing in the Bible
+[01:12:11.480 --> 01:12:16.320]   that you and I are allowed to take and to add.
+[01:12:16.320 --> 01:12:18.920]   We live in a period right now
+[01:12:18.920 --> 01:12:22.240]   where deconstructing our faith has become popular.
+[01:12:22.240 --> 01:12:24.820]   It's become cool, right?
+[01:12:24.820 --> 01:12:29.100]   The new age people who really are in the cutting edge,
+[01:12:29.100 --> 01:12:30.980]   we're gonna challenge everything that we know,
+[01:12:30.980 --> 01:12:33.440]   and say, oh, this part, I think God said this part,
+[01:12:33.440 --> 01:12:35.020]   I didn't, I don't believe God said,
+[01:12:35.020 --> 01:12:37.060]   and we're deconstructing our faith.
+[01:12:37.060 --> 01:12:40.140]   And by doing so, we ourselves become God.
+[01:12:40.140 --> 01:12:44.520]   We judge God and say, oh, I don't know if a God that I know
+[01:12:44.520 --> 01:12:46.440]   would say such a thing.
+[01:12:46.440 --> 01:12:48.060]   That doesn't happen, that didn't happen.
+[01:12:48.060 --> 01:12:50.620]   And so we made ourselves God.
+[01:12:50.620 --> 01:12:54.020]   If God is God, what he says is true,
+[01:12:54.020 --> 01:12:55.720]   whether we like it or not.
+[01:12:55.720 --> 01:12:59.700]   God is God, if he's the God of truth,
+[01:12:59.700 --> 01:13:01.980]   you and I don't get to sit there and judge him
+[01:13:01.980 --> 01:13:04.060]   because God judges us.
+[01:13:04.060 --> 01:13:05.380]   The word of God judges the thoughts
+[01:13:05.380 --> 01:13:06.340]   and intentions of our hearts.
+[01:13:06.340 --> 01:13:07.820]   So you and I do not have the right
+[01:13:07.820 --> 01:13:09.300]   to take certain parts of the Bible and say,
+[01:13:09.300 --> 01:13:11.260]   I like this and I don't like this,
+[01:13:11.260 --> 01:13:13.980]   'cause you are no longer a worshiper of God.
+[01:13:13.980 --> 01:13:17.620]   So every part of the Bible,
+[01:13:17.620 --> 01:13:18.940]   if there's any part of the Bible,
+[01:13:18.940 --> 01:13:20.780]   we just kind of say, you know what, this part,
+[01:13:20.780 --> 01:13:22.780]   I don't like, this part I like.
+[01:13:22.780 --> 01:13:25.180]   You are no longer following the God of the Bible.
+[01:13:25.180 --> 01:13:29.580]   So one, it's important for us to dig and study
+[01:13:29.580 --> 01:13:32.260]   and ask questions because it's in the Bible, all of it.
+[01:13:32.260 --> 01:13:35.460]   Leviticus, book of Numbers, Revelation, Ezekiel,
+[01:13:35.460 --> 01:13:38.220]   all of it, God has written for us for a reason.
+[01:13:38.220 --> 01:13:43.340]   So if we're in a habit just doing quiet time through John,
+[01:13:43.340 --> 01:13:45.880]   just understanding 1 John, the epistles,
+[01:13:45.880 --> 01:13:48.620]   and stay away from these difficult passages,
+[01:13:48.620 --> 01:13:52.180]   then there's huge chunks of why God said what he said
+[01:13:52.180 --> 01:13:53.180]   that you're missing.
+[01:13:53.180 --> 01:13:58.180]   Two, the Bible warns us not to be caught off guard.
+[01:13:58.180 --> 01:14:04.400]   How much of Jesus' warning before he left
+[01:14:04.400 --> 01:14:06.640]   was to remind us of about his second coming?
+[01:14:06.640 --> 01:14:09.580]   He says to watch carefully.
+[01:14:09.580 --> 01:14:12.300]   He says, do not be caught off guard,
+[01:14:12.300 --> 01:14:14.120]   like the thief in the night.
+[01:14:14.120 --> 01:14:16.000]   So when we're not paying attention, we're not digging,
+[01:14:16.000 --> 01:14:18.140]   we don't understand what's going on,
+[01:14:18.140 --> 01:14:21.780]   we naturally end up pursuing what we see,
+[01:14:21.780 --> 01:14:25.220]   and sometimes even in the church.
+[01:14:25.220 --> 01:14:28.300]   So that's why if you're not eagerly waiting and seeking
+[01:14:28.300 --> 01:14:32.880]   to see what God is doing, we end up pursuing whatever,
+[01:14:32.880 --> 01:14:34.980]   at that moment, that we're attracted to.
+[01:14:34.980 --> 01:14:37.980]   So we travel, we save money, we do,
+[01:14:37.980 --> 01:14:40.640]   and none of this stuff in and of itself is wrong.
+[01:14:40.640 --> 01:14:44.300]   But if that's what characterizes your life,
+[01:14:45.260 --> 01:14:48.120]   I guarantee you, you're not eagerly waiting for the Lord.
+[01:14:48.120 --> 01:14:50.940]   And when he does come,
+[01:14:50.940 --> 01:14:53.020]   he's not gonna be a welcome presence.
+[01:14:53.020 --> 01:14:56.420]   If I told you that Jesus is coming tonight,
+[01:14:56.420 --> 01:15:00.720]   your first reaction may be, not yet, not yet.
+[01:15:00.720 --> 01:15:03.740]   Because your heart is not filled with him coming.
+[01:15:03.740 --> 01:15:05.860]   You're not eagerly waiting for him.
+[01:15:05.860 --> 01:15:07.780]   So you know what, wait a little bit,
+[01:15:07.780 --> 01:15:09.860]   because I have a wedding coming up.
+[01:15:09.860 --> 01:15:12.600]   Wait a little bit, 'cause I have this trip planned.
+[01:15:12.600 --> 01:15:14.460]   Wait a little bit, because I just saved up
+[01:15:14.460 --> 01:15:16.220]   just enough money to retire, and next year,
+[01:15:16.220 --> 01:15:17.940]   I'm gonna be able to retire and do whatever I want.
+[01:15:17.940 --> 01:15:19.900]   And so when you say, Jesus is coming tomorrow,
+[01:15:19.900 --> 01:15:22.620]   your first reaction is, not yet, give me some more time.
+[01:15:22.620 --> 01:15:24.780]   Let me enjoy what I was pursuing.
+[01:15:24.780 --> 01:15:28.700]   But Jesus says not to be caught off guard,
+[01:15:28.700 --> 01:15:31.220]   to watch the signs of the times,
+[01:15:31.220 --> 01:15:35.160]   so that we would live with that in mind.
+[01:15:35.160 --> 01:15:39.420]   That we're not playing tug of war with God
+[01:15:39.420 --> 01:15:43.820]   to get him to submit to our plans and our will,
+[01:15:43.820 --> 01:15:46.980]   but to see what God's doing, so that everything that we do
+[01:15:46.980 --> 01:15:48.780]   is in line with what God's doing.
+[01:15:48.780 --> 01:15:52.540]   But third and finally, why this is important,
+[01:15:52.540 --> 01:15:55.600]   is because this is a revelation of God.
+[01:15:55.600 --> 01:16:02.580]   This reveals God, that even after 1,000 years,
+[01:16:02.580 --> 01:16:05.460]   he never forgot his covenant.
+[01:16:05.460 --> 01:16:09.260]   Even after 2,000 years, the promise he made to Abraham,
+[01:16:09.260 --> 01:16:11.340]   he says, I'm going to fulfill.
+[01:16:11.340 --> 01:16:16.160]   Even after all the trouble, all the chaos, all the rebellion,
+[01:16:16.160 --> 01:16:19.020]   even after all of that, he says, for my glory,
+[01:16:19.020 --> 01:16:24.720]   for my own glory, I will fulfill this.
+[01:16:24.720 --> 01:16:27.220]   What God says, he does.
+[01:16:27.220 --> 01:16:31.620]   Our problem is, we see all of God's doing
+[01:16:31.620 --> 01:16:34.080]   within the parameter that we give him.
+[01:16:34.080 --> 01:16:36.920]   If God's gonna be faithful, he's be faithful today,
+[01:16:36.920 --> 01:16:39.560]   tomorrow, or next year, or God's not faithful.
+[01:16:41.000 --> 01:16:43.600]   But God has something much greater in mind.
+[01:16:43.600 --> 01:16:46.820]   You and I cannot possibly begin to imagine how big God is
+[01:16:46.820 --> 01:16:48.200]   and what he is doing.
+[01:16:48.200 --> 01:16:51.460]   So this is a revelation of God.
+[01:16:51.460 --> 01:16:54.460]   This is who he is.
+[01:16:54.460 --> 01:16:56.740]   What he says, he does.
+[01:16:56.740 --> 01:16:58.900]   Jesus said, there isn't an iota,
+[01:16:58.900 --> 01:17:01.480]   there isn't a single tittle that will disappear
+[01:17:01.480 --> 01:17:03.620]   until it is fulfilled.
+[01:17:03.620 --> 01:17:06.140]   Everything that God has said,
+[01:17:06.140 --> 01:17:08.860]   he is working actively to fulfill.
+[01:17:08.860 --> 01:17:11.540]   It may not happen the way that you and I are imagining,
+[01:17:11.540 --> 01:17:13.660]   but God is fulfilling that.
+[01:17:13.660 --> 01:17:15.140]   It may not happen during our lifetime,
+[01:17:15.140 --> 01:17:17.120]   but God is fulfilling that.
+[01:17:17.120 --> 01:17:19.160]   You and I may not ever see that in our lifetime,
+[01:17:19.160 --> 01:17:21.960]   but God is actively pursuing that.
+[01:17:21.960 --> 01:17:23.460]   This is who God is.
+[01:17:23.460 --> 01:17:28.180]   The question is, do you believe it?
+[01:17:28.180 --> 01:17:30.400]   Do you believe it?
+[01:17:30.400 --> 01:17:34.860]   Like many of the Israelites, after so many years have passed,
+[01:17:34.860 --> 01:17:37.680]   maybe he's not gonna do it.
+[01:17:38.760 --> 01:17:40.960]   So you're just kind of salvaging your faith.
+[01:17:40.960 --> 01:17:44.900]   That passionate pursuit of Christ was years ago,
+[01:17:44.900 --> 01:17:47.940]   but your life didn't quite turn out the way
+[01:17:47.940 --> 01:17:49.800]   that you were hoping that if I invested
+[01:17:49.800 --> 01:17:53.180]   and discipled and disciplined and evangelized and sacrificed
+[01:17:53.180 --> 01:17:54.780]   that you thought certain things were gonna happen,
+[01:17:54.780 --> 01:17:56.680]   and when that didn't happen,
+[01:17:56.680 --> 01:17:59.540]   maybe God isn't going to do what I thought
+[01:17:59.540 --> 01:18:00.440]   he was going to do.
+[01:18:00.440 --> 01:18:03.500]   So like many of the Israelites,
+[01:18:03.500 --> 01:18:08.500]   they just kind of gone and started to salvage what they had.
+[01:18:09.480 --> 01:18:11.480]   Now I'm gonna make money.
+[01:18:11.480 --> 01:18:15.160]   The Sadducees decided to use their political influence
+[01:18:15.160 --> 01:18:17.240]   and gain money and control.
+[01:18:17.240 --> 01:18:18.280]   The Essenes decided, you know,
+[01:18:18.280 --> 01:18:19.160]   we're gonna just do our own thing,
+[01:18:19.160 --> 01:18:21.080]   go into the cave and I don't care what's happening
+[01:18:21.080 --> 01:18:22.760]   over there, we're just gonna do our own thing.
+[01:18:22.760 --> 01:18:23.760]   The zealots says, you know what,
+[01:18:23.760 --> 01:18:25.200]   if God's not gonna come, we're gonna do it.
+[01:18:25.200 --> 01:18:27.440]   We're gonna bear arms and we're gonna fight this
+[01:18:27.440 --> 01:18:29.440]   and we're gonna make this kingdom come.
+[01:18:29.440 --> 01:18:36.000]   How often, after years and years and years,
+[01:18:36.000 --> 01:18:39.140]   because we see God in a limited time frame
+[01:18:39.140 --> 01:18:40.940]   of where you and I exist,
+[01:18:40.940 --> 01:18:45.340]   so many people in the church are simply salvaging
+[01:18:45.340 --> 01:18:49.780]   their faith, not recognizing the promise
+[01:18:49.780 --> 01:18:52.720]   that God has made is irrevocable.
+[01:18:52.720 --> 01:18:55.660]   It is irrevocable.
+[01:18:55.660 --> 01:18:59.900]   God is just as fervently pursuing sinners
+[01:18:59.900 --> 01:19:01.540]   as he did a thousand years ago.
+[01:19:03.100 --> 01:19:07.320]   God is actively inviting as 2,000 years ago.
+[01:19:07.320 --> 01:19:11.480]   God is just as concerned about this lost world
+[01:19:11.480 --> 01:19:15.200]   as 3,000 years ago, 4,000 years ago,
+[01:19:15.200 --> 01:19:17.640]   and 4,000 years from now.
+[01:19:17.640 --> 01:19:22.760]   Let me conclude with this text and I hope
+[01:19:22.760 --> 01:19:27.260]   that this would be the conclusion and application
+[01:19:27.260 --> 01:19:28.620]   of our lives.
+[01:19:28.620 --> 01:19:30.360]   Number 2319.
+[01:19:30.360 --> 01:19:33.420]   God is not man that he should lie,
+[01:19:33.420 --> 01:19:36.740]   nor a son of man that he should repent.
+[01:19:36.740 --> 01:19:39.680]   Has he said and will he not do it?
+[01:19:39.680 --> 01:19:44.560]   Or has he spoken and will he not make it good?
+[01:19:44.560 --> 01:19:50.700]   This is the God that we serve, the God of the covenant.
+[01:19:50.700 --> 01:19:54.840]   He is, he was, and he will be.
+[01:19:54.840 --> 01:19:55.680]   Let's pray.
+[01:19:59.940 --> 01:20:02.060]   Gracious Father, we pray that you would give us
+[01:20:02.060 --> 01:20:03.740]   a greater vision of who you are.
+[01:20:03.740 --> 01:20:08.500]   Help us, Lord God, to dig deep into your word
+[01:20:08.500 --> 01:20:13.740]   that we may see a greater and greater glimpse of your glory.
+[01:20:13.740 --> 01:20:17.860]   We thank you, Father God, for your faithfulness
+[01:20:17.860 --> 01:20:22.100]   to your covenant, to this nation of Israel, Lord God,
+[01:20:22.100 --> 01:20:26.900]   that you have blessed as we eagerly wait
+[01:20:26.900 --> 01:20:30.900]   for your kingdom come, for your will be done
+[01:20:30.900 --> 01:20:32.300]   on earth as it is in heaven.
+[01:20:32.300 --> 01:20:35.740]   Help us, Lord God, to align our faith,
+[01:20:35.740 --> 01:20:40.060]   align our lives, our hope upon the unwavering hope
+[01:20:40.060 --> 01:20:42.160]   of Jesus Christ and Jesus Christ alone.
+[01:20:42.160 --> 01:20:45.500]   We thank you, we love you, we worship you.
+[01:20:45.500 --> 01:20:47.860]   In Jesus' name we pray, amen.
+[01:20:47.860 --> 01:20:50.020]   Let's all stand up for the closing praise.
+[01:20:50.020 --> 01:20:53.640]   (gentle music)
+[01:20:53.640 --> 01:20:56.220]   (gentle music)
+[01:20:56.220 --> 01:21:08.840]   ♪ Father of kindness, you have poured out grace ♪
+[01:21:08.840 --> 01:21:12.760]   ♪ You brought me out of darkness ♪
+[01:21:12.760 --> 01:21:16.760]   ♪ You have filled me with peace ♪
+[01:21:16.760 --> 01:21:21.760]   ♪ Giver of mercy, you're my help in time of need ♪
+[01:21:21.760 --> 01:21:26.760]   ♪ Lord, I cannot but sing ♪
+[01:21:26.760 --> 01:21:32.760]   ♪ Faithful you are ♪
+[01:21:32.760 --> 01:21:38.760]   ♪ Faithful forever you will be ♪
+[01:21:38.760 --> 01:21:44.760]   ♪ Faithful you are ♪
+[01:21:44.760 --> 01:21:50.760]   ♪ Standing all alone ♪
+[01:21:50.760 --> 01:21:53.260]   ♪ Standing all alone ♪
+[01:21:53.260 --> 01:21:58.260]   ♪ All your promises are yes and amen ♪
+[01:21:58.260 --> 01:22:04.100]   ♪ All your promises are yes and amen ♪
+[01:22:04.100 --> 01:22:18.440]   ♪ You are beautiful, Savior ♪
+[01:22:18.440 --> 01:22:23.440]   ♪ Beautiful Savior, you have brought me near ♪
+[01:22:23.440 --> 01:22:27.440]   ♪ You pulled me from the ashes ♪
+[01:22:27.440 --> 01:22:31.440]   ♪ You have broken every curse ♪
+[01:22:31.440 --> 01:22:36.440]   ♪ Blessed Redeemer, you have set this captive free ♪
+[01:22:36.440 --> 01:22:45.940]   ♪ Lord, I cannot but sing ♪
+[01:22:47.440 --> 01:22:52.440]   ♪ Faithful you are ♪
+[01:22:52.440 --> 01:22:58.940]   ♪ Faithful forever you will be ♪
+[01:22:58.940 --> 01:23:05.440]   ♪ Faithful you are ♪
+[01:23:05.440 --> 01:23:07.440]   ♪ Yes, you are ♪
+[01:23:07.440 --> 01:23:12.440]   ♪ All your promises are yes and amen ♪
+[01:23:14.440 --> 01:23:19.440]   ♪ All your promises are yes and amen ♪
+[01:23:19.440 --> 01:23:25.440]   ♪ Faithful you are ♪
+[01:23:25.440 --> 01:23:31.440]   ♪ Faithful forever you will be ♪
+[01:23:31.440 --> 01:23:38.440]   ♪ Faithful you are ♪
+[01:23:38.440 --> 01:23:40.440]   ♪ Yes, you are, Lord ♪
+[01:23:40.440 --> 01:23:45.440]   ♪ All your promises are yes and amen ♪
+[01:23:45.440 --> 01:23:50.940]   ♪ All your promises are yes and amen ♪
+[01:23:50.940 --> 01:24:04.440]   ♪ I will rest in your promises, Lord ♪
+[01:24:04.440 --> 01:24:08.440]   ♪ I will rest ♪
+[01:24:08.440 --> 01:24:13.440]   ♪ In your promises, my confidence ♪
+[01:24:13.440 --> 01:24:19.440]   ♪ It's your faithfulness I will rest ♪
+[01:24:19.440 --> 01:24:26.440]   ♪ In your promises, my confidence ♪
+[01:24:26.440 --> 01:24:32.440]   ♪ It's your faithfulness I will rest ♪
+[01:24:34.440 --> 01:24:39.440]   ♪ In your promises, my confidence ♪
+[01:24:39.440 --> 01:24:44.440]   ♪ It's your faithfulness ♪
+[01:24:44.440 --> 01:24:49.440]   ♪ Faithful you are ♪
+[01:24:49.440 --> 01:24:55.440]   ♪ Faithful forever you will be ♪
+[01:24:55.440 --> 01:25:02.440]   ♪ Faithful you are ♪
+[01:25:03.440 --> 01:25:08.440]   ♪ All your promises are yes and amen ♪
+[01:25:08.440 --> 01:25:15.440]   ♪ All your promises are yes and amen ♪
+[01:25:15.440 --> 01:25:20.940]   ♪ All your promises are yes and amen ♪
+[01:25:20.940 --> 01:25:25.440]   - Let's pray.
+[01:25:25.440 --> 01:25:30.440]   Lord, you truly are the same yesterday,
+[01:25:30.440 --> 01:25:32.440]   today, and forevermore.
+[01:25:32.440 --> 01:25:36.440]   Help us, Lord God, to be anchored to Christ,
+[01:25:36.440 --> 01:25:39.440]   anchored to his work,
+[01:25:39.440 --> 01:25:42.440]   anchored to his promises,
+[01:25:42.440 --> 01:25:46.440]   anchored to the hope, Lord God, that is unwavering.
+[01:25:46.440 --> 01:25:51.440]   Lord, you know, as we experience this life,
+[01:25:51.440 --> 01:25:54.440]   how unstable this whole world is,
+[01:25:54.440 --> 01:25:59.440]   that all things come today and gone tomorrow.
+[01:26:00.440 --> 01:26:03.440]   Help us, Lord God, to put our confidence,
+[01:26:03.440 --> 01:26:07.440]   our lives, our pursuit, our joy, our life,
+[01:26:07.440 --> 01:26:12.440]   upon the unwavering promise of Christ and Christ alone.
+[01:26:12.440 --> 01:26:16.440]   May your name and your name be praised
+[01:26:16.440 --> 01:26:17.440]   wherever you send us this week.
+[01:26:17.440 --> 01:26:19.440]   In Jesus' name we pray, amen.
+[01:26:19.440 --> 01:26:24.440]   ♪ God sent his son ♪
+[01:26:25.440 --> 01:26:30.440]   ♪ They called him Jesus ♪
+[01:26:30.440 --> 01:26:35.440]   ♪ He came to love ♪
+[01:26:35.440 --> 01:26:40.440]   ♪ Heal and forgive ♪
+[01:26:40.440 --> 01:26:46.440]   ♪ He lived and died ♪
+[01:26:46.440 --> 01:26:52.440]   ♪ To buy my poverty ♪
+[01:26:53.440 --> 01:26:58.440]   ♪ An empty grave is there to ♪
+[01:26:58.440 --> 01:27:03.440]   ♪ My Savior live ♪
+[01:27:03.440 --> 01:27:08.440]   ♪ Because he lives ♪
+[01:27:08.440 --> 01:27:14.440]   ♪ I can face tomorrow ♪
+[01:27:14.440 --> 01:27:19.440]   ♪ Because he lives ♪
+[01:27:20.440 --> 01:27:25.440]   ♪ All fear is gone ♪
+[01:27:25.440 --> 01:27:31.440]   ♪ Because I know ♪
+[01:27:31.440 --> 01:27:36.440]   ♪ He holds the future ♪
+[01:27:36.440 --> 01:27:41.440]   ♪ And life is worth the living ♪
+[01:27:41.440 --> 01:27:47.440]   ♪ Just because he lives ♪
+[01:27:48.440 --> 01:27:50.440]   ♪ Amen ♪
+[01:27:50.440 --> 01:28:00.440]   [BLANK_AUDIO]
+

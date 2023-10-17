@@ -1,0 +1,1377 @@
+
+[00:00:00.000 --> 00:00:02.420]   (soft music)
+[00:00:02.420 --> 00:00:04.840]   (soft music)
+[00:00:04.840 --> 00:00:07.260]   (soft music)
+[00:00:07.260 --> 00:00:09.680]   (soft music)
+[00:00:09.680 --> 00:00:14.580]   (soft music)
+[00:00:14.580 --> 00:00:20.680]   (soft music)
+[00:00:20.680 --> 00:00:26.680]   (soft music)
+[00:00:26.680 --> 00:00:32.680]   (soft music)
+[00:00:36.260 --> 00:00:38.680]   (soft music)
+[00:00:38.680 --> 00:00:44.680]   (soft music)
+[00:00:44.680 --> 00:00:50.680]   (soft music)
+[00:00:50.680 --> 00:00:56.680]   (soft music)
+[00:00:56.680 --> 00:01:02.680]   (soft music)
+[00:01:02.680 --> 00:01:05.100]   (soft music)
+[00:01:05.100 --> 00:01:11.100]   (soft music)
+[00:01:11.100 --> 00:01:17.100]   (soft music)
+[00:01:17.100 --> 00:01:23.100]   (soft music)
+[00:01:23.100 --> 00:01:29.100]   (soft music)
+[00:01:29.100 --> 00:01:31.520]   (soft music)
+[00:01:31.520 --> 00:01:43.520]   (soft music)
+[00:01:43.520 --> 00:01:51.520]   (soft music)
+[00:01:51.520 --> 00:01:57.520]   (soft music)
+[00:01:57.520 --> 00:01:59.940]   (soft music)
+[00:01:59.940 --> 00:02:11.940]   (soft music)
+[00:02:11.940 --> 00:02:23.940]   (soft music)
+[00:02:23.940 --> 00:02:26.360]   (soft music)
+[00:02:26.360 --> 00:02:36.360]   (soft music)
+[00:02:36.360 --> 00:02:46.360]   (soft music)
+[00:02:46.360 --> 00:02:48.780]   (soft music)
+[00:02:48.780 --> 00:03:00.780]   (soft music)
+[00:03:00.780 --> 00:03:12.780]   (soft music)
+[00:03:12.780 --> 00:03:15.200]   (soft music)
+[00:03:15.200 --> 00:03:25.200]   (soft music)
+[00:03:25.200 --> 00:03:35.200]   (soft music)
+[00:03:35.200 --> 00:03:37.620]   (soft music)
+[00:03:37.620 --> 00:03:59.620]   (soft music)
+[00:03:59.620 --> 00:04:02.040]   (soft music)
+[00:04:02.040 --> 00:04:12.040]   (soft music)
+[00:04:12.040 --> 00:04:22.040]   (soft music)
+[00:04:22.040 --> 00:04:24.460]   (soft music)
+[00:04:24.460 --> 00:04:34.460]   (soft music)
+[00:04:34.460 --> 00:04:44.460]   (soft music)
+[00:04:44.460 --> 00:04:46.880]   (soft music)
+[00:04:46.880 --> 00:04:56.880]   (soft music)
+[00:04:56.880 --> 00:05:06.880]   (soft music)
+[00:05:06.880 --> 00:05:09.300]   (soft music)
+[00:05:09.300 --> 00:05:19.300]   (soft music)
+[00:05:19.300 --> 00:05:29.300]   (soft music)
+[00:05:29.300 --> 00:05:31.720]   (soft music)
+[00:05:31.720 --> 00:05:41.720]   (soft music)
+[00:05:41.720 --> 00:05:51.720]   (soft music)
+[00:05:51.720 --> 00:05:54.140]   (soft music)
+[00:05:54.140 --> 00:06:14.140]   (soft music)
+[00:06:14.140 --> 00:06:16.560]   (soft music)
+[00:06:16.560 --> 00:06:36.560]   (soft music)
+[00:06:36.560 --> 00:06:38.980]   (soft music)
+[00:06:38.980 --> 00:06:48.980]   (soft music)
+[00:06:48.980 --> 00:06:58.980]   (soft music)
+[00:06:58.980 --> 00:07:01.400]   (soft music)
+[00:07:01.400 --> 00:07:11.400]   (soft music)
+[00:07:11.400 --> 00:07:21.400]   (soft music)
+[00:07:21.400 --> 00:07:23.820]   (soft music)
+[00:07:23.820 --> 00:07:33.820]   (soft music)
+[00:07:33.820 --> 00:07:43.820]   (soft music)
+[00:07:43.820 --> 00:07:46.240]   (soft music)
+[00:07:46.240 --> 00:08:06.240]   (soft music)
+[00:08:06.240 --> 00:08:08.660]   (soft music)
+[00:08:08.660 --> 00:08:22.660]   (soft music)
+[00:08:22.660 --> 00:08:25.080]   (soft music)
+[00:08:25.080 --> 00:08:35.080]   (soft music)
+[00:08:35.080 --> 00:08:45.080]   (soft music)
+[00:08:45.080 --> 00:08:47.500]   (soft music)
+[00:08:47.500 --> 00:08:57.500]   (soft music)
+[00:08:57.500 --> 00:09:07.500]   (soft music)
+[00:09:07.500 --> 00:09:09.920]   (soft music)
+[00:09:09.920 --> 00:09:19.920]   (soft music)
+[00:09:19.920 --> 00:09:29.920]   (soft music)
+[00:09:29.920 --> 00:09:32.340]   (soft music)
+[00:09:32.340 --> 00:09:42.340]   (soft music)
+[00:09:42.340 --> 00:09:52.340]   (soft music)
+[00:09:52.340 --> 00:09:54.760]   (soft music)
+[00:09:54.760 --> 00:10:04.760]   (soft music)
+[00:10:04.760 --> 00:10:14.760]   (soft music)
+[00:10:14.760 --> 00:10:17.180]   (soft music)
+[00:10:17.180 --> 00:10:27.180]   (soft music)
+[00:10:27.180 --> 00:10:37.180]   (soft music)
+[00:10:37.180 --> 00:10:39.600]   (soft music)
+[00:10:39.600 --> 00:10:49.600]   (soft music)
+[00:10:49.600 --> 00:10:59.600]   (soft music)
+[00:10:59.600 --> 00:11:02.020]   (soft music)
+[00:11:02.020 --> 00:11:12.020]   (soft music)
+[00:11:12.020 --> 00:11:22.020]   (soft music)
+[00:11:22.020 --> 00:11:24.440]   (soft music)
+[00:11:24.440 --> 00:11:34.440]   (soft music)
+[00:11:34.440 --> 00:11:44.440]   (soft music)
+[00:11:44.440 --> 00:11:46.860]   (soft music)
+[00:11:46.860 --> 00:11:56.860]   (soft music)
+[00:11:56.860 --> 00:12:06.860]   (soft music)
+[00:12:06.860 --> 00:12:09.280]   (soft music)
+[00:12:09.280 --> 00:12:19.280]   (soft music)
+[00:12:34.860 --> 00:12:37.280]   (soft music)
+[00:12:37.280 --> 00:12:39.700]   (soft music)
+[00:12:39.700 --> 00:12:49.700]   (soft music)
+[00:12:49.700 --> 00:12:59.700]   (soft music)
+[00:12:59.700 --> 00:13:02.120]   (soft music)
+[00:13:02.120 --> 00:13:04.540]   (soft music)
+[00:13:04.540 --> 00:13:06.960]   (soft music)
+[00:13:06.960 --> 00:13:09.380]   (soft music)
+[00:13:09.380 --> 00:13:19.380]   (soft music)
+[00:13:19.380 --> 00:13:29.380]   (soft music)
+[00:13:29.380 --> 00:13:31.800]   (soft music)
+[00:13:31.800 --> 00:13:41.800]   (soft music)
+[00:13:41.800 --> 00:13:51.800]   (soft music)
+[00:13:51.800 --> 00:13:54.220]   (soft music)
+[00:13:54.220 --> 00:14:04.220]   (soft music)
+[00:14:04.220 --> 00:14:14.220]   (soft music)
+[00:14:14.220 --> 00:14:16.640]   (soft music)
+[00:14:16.640 --> 00:14:24.640]   - Good morning, church family.
+[00:14:24.640 --> 00:14:28.220]   We're gonna go ahead and begin our worship.
+[00:14:28.220 --> 00:14:30.640]   (soft music)
+[00:14:30.640 --> 00:14:33.060]   (soft music)
+[00:14:33.060 --> 00:14:52.060]   ♪ Though the nations rage ♪
+[00:14:52.060 --> 00:14:57.060]   ♪ Kingdoms rise and fall ♪
+[00:14:57.060 --> 00:15:01.560]   ♪ There is still one king ♪
+[00:15:01.560 --> 00:15:06.560]   ♪ Reigning over all ♪
+[00:15:06.560 --> 00:15:11.060]   ♪ So I will not fear ♪
+[00:15:11.060 --> 00:15:16.060]   ♪ For this truth remains ♪
+[00:15:16.060 --> 00:15:21.060]   ♪ That my God is the Ancient of Days ♪
+[00:15:25.560 --> 00:15:30.560]   ♪ None above him, none before him ♪
+[00:15:30.560 --> 00:15:35.060]   ♪ All of time in his hands ♪
+[00:15:35.060 --> 00:15:39.060]   ♪ For his throne it shall remain ♪
+[00:15:39.060 --> 00:15:44.060]   ♪ And ever stand ♪
+[00:15:44.060 --> 00:15:49.060]   ♪ All the power, all the glory ♪
+[00:15:49.060 --> 00:15:54.060]   ♪ I will trust in his name ♪
+[00:15:54.060 --> 00:15:59.060]   ♪ For my God is the Ancient of Days ♪
+[00:15:59.060 --> 00:16:08.560]   ♪ Though the dread of night ♪
+[00:16:08.560 --> 00:16:13.060]   ♪ Overwhelms my soul ♪
+[00:16:13.060 --> 00:16:18.060]   ♪ He is here with me ♪
+[00:16:18.060 --> 00:16:22.560]   ♪ I am not alone ♪
+[00:16:22.560 --> 00:16:27.060]   ♪ Oh, his love is sure ♪
+[00:16:27.060 --> 00:16:32.060]   ♪ And he knows my name ♪
+[00:16:32.060 --> 00:16:37.060]   ♪ For my God is the Ancient of Days ♪
+[00:16:37.060 --> 00:16:46.060]   ♪ None above him, none before him ♪
+[00:16:46.060 --> 00:16:51.060]   ♪ All of time in his hands ♪
+[00:16:51.060 --> 00:16:55.060]   ♪ For his throne it shall remain ♪
+[00:16:55.060 --> 00:17:00.060]   ♪ And ever stand ♪
+[00:17:00.060 --> 00:17:05.060]   ♪ All the power, all the glory ♪
+[00:17:05.060 --> 00:17:10.060]   ♪ I will trust in his name ♪
+[00:17:10.060 --> 00:17:15.060]   ♪ For my God is the Ancient of Days ♪
+[00:17:15.060 --> 00:17:20.060]   ♪ Ancient of Days ♪
+[00:17:20.060 --> 00:17:38.060]   ♪ Though I may not see ♪
+[00:17:38.060 --> 00:17:43.060]   ♪ What the future brings ♪
+[00:17:43.060 --> 00:17:48.060]   ♪ I will watch and wait ♪
+[00:17:48.060 --> 00:17:53.060]   ♪ For the Savior, King ♪
+[00:17:53.060 --> 00:17:57.060]   ♪ Then my joy complete ♪
+[00:17:57.060 --> 00:18:02.060]   ♪ Standing face to face ♪
+[00:18:02.060 --> 00:18:07.060]   ♪ In the presence of the Ancient of Days ♪
+[00:18:12.060 --> 00:18:16.060]   ♪ None above him, none before him ♪
+[00:18:16.060 --> 00:18:21.060]   ♪ All of time in his hands ♪
+[00:18:21.060 --> 00:18:25.060]   ♪ For his throne it shall remain ♪
+[00:18:25.060 --> 00:18:30.060]   ♪ And ever stand ♪
+[00:18:30.060 --> 00:18:35.060]   ♪ All the power, all the glory ♪
+[00:18:35.060 --> 00:18:40.060]   ♪ I will trust in his name ♪
+[00:18:40.060 --> 00:18:45.060]   ♪ For my God is the Ancient of Days ♪
+[00:18:45.060 --> 00:18:53.400]   ♪ For my God is the Ancient of Days ♪
+[00:18:53.400 --> 00:19:04.560]   - Well, good morning.
+[00:19:04.560 --> 00:19:06.820]   Welcome to Berean Community Church.
+[00:19:06.820 --> 00:19:09.100]   If you guys are here for the very first time,
+[00:19:09.100 --> 00:19:11.700]   we do have, under the canopies outside,
+[00:19:11.700 --> 00:19:13.300]   there's a welcome table for you guys
+[00:19:13.300 --> 00:19:16.060]   to just find out more information about the church.
+[00:19:16.060 --> 00:19:19.180]   And we will connect you to people if you're interested
+[00:19:19.180 --> 00:19:22.420]   in just getting to learn more about our core values
+[00:19:22.420 --> 00:19:23.940]   and our community.
+[00:19:23.940 --> 00:19:25.820]   I do have a couple announcements for us
+[00:19:25.820 --> 00:19:29.060]   before we actually continue with the service.
+[00:19:29.060 --> 00:19:31.220]   The first one is regarding Thanksgiving dinner.
+[00:19:31.220 --> 00:19:33.140]   Today is Thanksgiving Sunday.
+[00:19:33.140 --> 00:19:36.860]   And we have regional dinners.
+[00:19:36.860 --> 00:19:38.900]   You've probably already signed up for those.
+[00:19:38.900 --> 00:19:43.220]   We are having a live stream service at 6.30
+[00:19:43.220 --> 00:19:46.740]   with praise and with a short message from Pastor Peter.
+[00:19:46.740 --> 00:19:49.020]   And so it's imperative that if you guys are going
+[00:19:49.020 --> 00:19:51.660]   to the dinners, that you guys get there on time
+[00:19:51.660 --> 00:19:54.020]   so that it starts at five, you're eating,
+[00:19:54.020 --> 00:19:57.020]   and then you're done eating and you're ready to go
+[00:19:57.020 --> 00:20:00.060]   because we can't necessarily wait for you.
+[00:20:00.060 --> 00:20:02.660]   And so that's gonna start promptly at 6.30.
+[00:20:02.660 --> 00:20:06.480]   So please do prepare accordingly.
+[00:20:06.480 --> 00:20:09.260]   If you are over the age of 50,
+[00:20:09.260 --> 00:20:10.340]   we're not trying to discriminate,
+[00:20:10.340 --> 00:20:15.340]   but it is a category that we can discern.
+[00:20:15.340 --> 00:20:17.900]   November 27th, which is two Sundays from now,
+[00:20:17.900 --> 00:20:21.620]   there's a lunch for you.
+[00:20:21.620 --> 00:20:24.900]   It's a community called the Jubilee Fellowship.
+[00:20:24.900 --> 00:20:28.020]   And so, and that's for our members and non-members
+[00:20:28.020 --> 00:20:28.860]   who are over 50.
+[00:20:28.860 --> 00:20:30.460]   And so that's gonna be at 1 p.m.
+[00:20:30.460 --> 00:20:33.180]   So kind of keep a eye out for that.
+[00:20:34.060 --> 00:20:36.800]   I do have a very cool announcement.
+[00:20:36.800 --> 00:20:40.060]   For the first time in like three years, I think,
+[00:20:40.060 --> 00:20:43.000]   we're gonna be having communion kind of back to how it was,
+[00:20:43.000 --> 00:20:45.200]   where we're actually coming up toward the front
+[00:20:45.200 --> 00:20:46.480]   instead of the little wafer things.
+[00:20:46.480 --> 00:20:48.240]   And so that's December 4th.
+[00:20:48.240 --> 00:20:50.980]   So please do prepare your hearts accordingly
+[00:20:50.980 --> 00:20:52.920]   and be ready for that.
+[00:20:52.920 --> 00:20:55.800]   And on that day, maybe try to sit in a way
+[00:20:55.800 --> 00:20:58.200]   where we can squeeze more people
+[00:20:58.200 --> 00:21:00.900]   to partake in the communion.
+[00:21:02.060 --> 00:21:05.260]   There are a lot of holiday outreach events
+[00:21:05.260 --> 00:21:06.140]   and things that are going on,
+[00:21:06.140 --> 00:21:08.000]   and some of them are time-sensitive.
+[00:21:08.000 --> 00:21:10.520]   So please do look at our app, look at our website,
+[00:21:10.520 --> 00:21:13.860]   and you'll see whoever you need to contact,
+[00:21:13.860 --> 00:21:15.980]   whatever it is that you're doing.
+[00:21:15.980 --> 00:21:18.100]   And there are also deadlines for the date.
+[00:21:18.100 --> 00:21:20.780]   So please take note of that.
+[00:21:20.780 --> 00:21:22.380]   We're gonna take a time of offering now.
+[00:21:22.380 --> 00:21:24.920]   And if you've brought a physical offering,
+[00:21:24.920 --> 00:21:27.420]   there is a box in the back.
+[00:21:27.420 --> 00:21:29.340]   Otherwise, if you've brought an offering
+[00:21:29.340 --> 00:21:31.460]   that you're ready to send electronically,
+[00:21:31.460 --> 00:21:36.080]   please do so, and we do prioritize just the Zell.
+[00:21:36.080 --> 00:21:38.580]   And so we're gonna, let me pray for us,
+[00:21:38.580 --> 00:21:39.900]   and then we'll take a moment
+[00:21:39.900 --> 00:21:41.880]   to give our offering to the Lord.
+[00:21:41.880 --> 00:21:44.780]   Father, we are very grateful this morning,
+[00:21:44.780 --> 00:21:46.600]   and we're particularly thankful
+[00:21:46.600 --> 00:21:48.100]   that we're able to gather here
+[00:21:48.100 --> 00:21:52.100]   to focus on all the reasons why we ought to give thanks.
+[00:21:52.100 --> 00:21:55.620]   And we pray that you would cause our hearts to be reflective,
+[00:21:55.620 --> 00:21:57.440]   that you would feed us,
+[00:21:57.440 --> 00:21:59.660]   that we would give you the worship that you are due.
+[00:21:59.660 --> 00:22:03.260]   And at this time, we are bringing you, Lord, our offerings,
+[00:22:03.260 --> 00:22:07.340]   just as a physical symbol
+[00:22:07.340 --> 00:22:09.820]   that everything that we have is yours,
+[00:22:09.820 --> 00:22:14.260]   and we're giving back to you what you called us to steward.
+[00:22:14.260 --> 00:22:16.220]   And Lord, we are giving you thanks
+[00:22:16.220 --> 00:22:17.620]   through these offerings as well.
+[00:22:17.620 --> 00:22:21.540]   And so we pray that you would give us wisdom
+[00:22:21.540 --> 00:22:25.540]   to know how to appropriate those well and wisely.
+[00:22:25.540 --> 00:22:27.180]   And we pray that this morning
+[00:22:27.180 --> 00:22:28.780]   that you would take center stage
+[00:22:28.780 --> 00:22:30.620]   and that your word will be clearly preached
+[00:22:30.620 --> 00:22:31.940]   and that you would be honored.
+[00:22:31.940 --> 00:22:34.140]   And we pray all of these things in Jesus' name.
+[00:22:34.140 --> 00:22:38.160]   (gentle piano music)
+[00:22:38.160 --> 00:22:41.240]   (gentle piano music)
+[00:22:41.240 --> 00:22:44.320]   (gentle piano music)
+[00:22:44.320 --> 00:22:47.400]   (gentle piano music)
+[00:22:47.400 --> 00:23:04.480]   (gentle piano music)
+[00:23:04.480 --> 00:23:07.560]   (gentle piano music)
+[00:23:07.560 --> 00:23:16.640]   (gentle piano music)
+[00:23:16.640 --> 00:23:27.600]   Church family, let's all stand together as we worship.
+[00:23:27.600 --> 00:23:30.680]   (gentle piano music)
+[00:23:30.680 --> 00:23:33.760]   (gentle piano music)
+[00:23:33.760 --> 00:23:47.720]   ♪ Son of God ♪
+[00:23:47.720 --> 00:23:51.800]   ♪ Shaper of the stars ♪
+[00:23:51.800 --> 00:23:53.960]   ♪ You alone ♪
+[00:23:53.960 --> 00:23:58.120]   ♪ The dweller of my heart ♪
+[00:23:58.120 --> 00:24:00.120]   ♪ Mighty King ♪
+[00:24:00.120 --> 00:24:05.120]   ♪ How beautiful you are ♪
+[00:24:05.120 --> 00:24:10.760]   ♪ How beautiful ♪
+[00:24:10.760 --> 00:24:12.960]   ♪ Son of God ♪
+[00:24:12.960 --> 00:24:17.080]   ♪ The Father's gift to us ♪
+[00:24:17.080 --> 00:24:19.280]   ♪ You alone ♪
+[00:24:19.280 --> 00:24:23.440]   ♪ We're broken on the altar of love ♪
+[00:24:23.440 --> 00:24:25.360]   ♪ Precious lamb ♪
+[00:24:25.400 --> 00:24:30.400]   ♪ Our freedom's in your blood ♪
+[00:24:30.400 --> 00:24:35.200]   ♪ It's in your blood ♪
+[00:24:35.200 --> 00:24:38.000]   ♪ Jesus ♪
+[00:24:38.000 --> 00:24:41.160]   ♪ Oh, holy one ♪
+[00:24:41.160 --> 00:24:44.280]   ♪ I sing to you ♪
+[00:24:44.280 --> 00:24:47.800]   ♪ Forgiven ♪
+[00:24:47.800 --> 00:24:50.640]   ♪ Savior ♪
+[00:24:50.640 --> 00:24:53.760]   ♪ I'm overcome ♪
+[00:24:53.760 --> 00:24:57.680]   ♪ With your great love for me ♪
+[00:24:57.680 --> 00:25:00.760]   (gentle piano music)
+[00:25:00.760 --> 00:25:06.600]   ♪ Son of God ♪
+[00:25:06.600 --> 00:25:10.640]   ♪ Strength beyond compare ♪
+[00:25:10.640 --> 00:25:12.840]   ♪ You alone ♪
+[00:25:12.840 --> 00:25:17.000]   ♪ The darkness cannot bear ♪
+[00:25:17.000 --> 00:25:18.960]   ♪ Lord of love ♪
+[00:25:19.000 --> 00:25:24.000]   ♪ Your kindness draws me near ♪
+[00:25:24.000 --> 00:25:28.000]   ♪ It draws me ♪
+[00:25:28.000 --> 00:25:29.520]   ♪ Son of God ♪
+[00:25:29.520 --> 00:25:31.920]   ♪ Son of God ♪
+[00:25:31.920 --> 00:25:35.920]   ♪ Prophecy of old ♪
+[00:25:35.920 --> 00:25:38.120]   ♪ You alone ♪
+[00:25:38.120 --> 00:25:42.200]   ♪ Redeemer of my soul ♪
+[00:25:42.200 --> 00:25:44.200]   ♪ Come again ♪
+[00:25:44.200 --> 00:25:48.480]   ♪ And lead your people home ♪
+[00:25:48.480 --> 00:25:50.560]   ♪ Son of God ♪
+[00:25:50.560 --> 00:25:51.400]   ♪ Come ♪
+[00:25:51.400 --> 00:25:54.080]   ♪ Lead us home ♪
+[00:25:54.080 --> 00:25:56.880]   ♪ Jesus ♪
+[00:25:56.880 --> 00:26:00.080]   ♪ Oh, holy one ♪
+[00:26:00.080 --> 00:26:03.240]   ♪ I sing to you ♪
+[00:26:03.240 --> 00:26:06.800]   ♪ Forgiven ♪
+[00:26:06.800 --> 00:26:09.560]   ♪ Savior ♪
+[00:26:09.560 --> 00:26:12.680]   ♪ I'm overcome ♪
+[00:26:12.680 --> 00:26:15.680]   ♪ With your great love for me ♪
+[00:26:15.680 --> 00:26:18.640]   ♪ You are worthy, Lord ♪
+[00:26:18.640 --> 00:26:21.840]   ♪ You are worthy ♪
+[00:26:21.840 --> 00:26:25.000]   ♪ You are worthy ♪
+[00:26:25.000 --> 00:26:30.000]   ♪ You are worthy of all my praise ♪
+[00:26:30.000 --> 00:26:34.400]   ♪ You are beautiful ♪
+[00:26:34.400 --> 00:26:37.600]   ♪ So beautiful ♪
+[00:26:37.600 --> 00:26:42.600]   ♪ I will lift up my hands and sing ♪
+[00:26:43.880 --> 00:26:47.040]   ♪ You are worthy ♪
+[00:26:47.040 --> 00:26:50.240]   ♪ You are worthy ♪
+[00:26:50.240 --> 00:26:55.240]   ♪ You are worthy of all my praise ♪
+[00:26:55.240 --> 00:26:59.680]   ♪ You are beautiful ♪
+[00:26:59.680 --> 00:27:02.840]   ♪ So beautiful ♪
+[00:27:02.840 --> 00:27:07.840]   ♪ I will lift up my hands and sing ♪
+[00:27:07.840 --> 00:27:12.800]   ♪ Jesus ♪
+[00:27:12.800 --> 00:27:15.960]   ♪ Oh, holy one ♪
+[00:27:15.960 --> 00:27:19.280]   ♪ I sing to you ♪
+[00:27:19.280 --> 00:27:23.000]   ♪ Forgiven ♪
+[00:27:23.000 --> 00:27:25.920]   ♪ Savior ♪
+[00:27:25.920 --> 00:27:29.400]   ♪ I'm overcome ♪
+[00:27:29.400 --> 00:27:33.160]   ♪ With your great love for me ♪
+[00:27:33.160 --> 00:27:40.760]   (soft piano music)
+[00:27:40.760 --> 00:27:43.680]   (soft piano music)
+[00:27:43.680 --> 00:27:55.440]   ♪ There is a fountain ♪
+[00:27:55.440 --> 00:27:58.240]   ♪ Filled with blood ♪
+[00:27:58.240 --> 00:28:03.240]   ♪ Drawn from Emmanuel's veins ♪
+[00:28:03.240 --> 00:28:09.000]   ♪ And sinners plunged ♪
+[00:28:09.000 --> 00:28:12.560]   ♪ Beneath that flood ♪
+[00:28:12.560 --> 00:28:17.560]   ♪ Lose all their guilty stains ♪
+[00:28:17.560 --> 00:28:24.760]   ♪ Lose all their guilty stains ♪
+[00:28:24.760 --> 00:28:31.920]   ♪ Lose all their guilty stains ♪
+[00:28:31.920 --> 00:28:37.640]   ♪ And sinners plunged ♪
+[00:28:37.640 --> 00:28:41.200]   ♪ Beneath that flood ♪
+[00:28:41.200 --> 00:28:46.200]   ♪ Lose all their guilty stains ♪
+[00:28:46.200 --> 00:28:51.960]   ♪ The dying thief ♪
+[00:28:51.960 --> 00:28:55.520]   ♪ Rejoiced to see ♪
+[00:28:55.520 --> 00:29:00.520]   ♪ That fountain in his day ♪
+[00:29:00.520 --> 00:29:06.280]   ♪ And there have I ♪
+[00:29:06.280 --> 00:29:09.880]   ♪ Though vile as he ♪
+[00:29:09.880 --> 00:29:14.880]   ♪ Washed all my sins away ♪
+[00:29:14.880 --> 00:29:22.040]   ♪ Washed all my sins away ♪
+[00:29:22.040 --> 00:29:29.240]   ♪ Washed all my sins away ♪
+[00:29:29.240 --> 00:29:35.000]   ♪ And there have I ♪
+[00:29:35.000 --> 00:29:38.560]   ♪ Though vile as he ♪
+[00:29:38.560 --> 00:29:43.560]   ♪ Washed all my sins away ♪
+[00:29:43.560 --> 00:29:49.320]   ♪ Dear dying lamb ♪
+[00:29:49.320 --> 00:29:52.800]   ♪ Thy precious blood ♪
+[00:29:52.800 --> 00:29:57.800]   ♪ Shall never lose its power ♪
+[00:30:00.040 --> 00:30:05.040]   ♪ Till all the ransomed church of God ♪
+[00:30:05.040 --> 00:30:12.200]   ♪ Be saved to sin no more ♪
+[00:30:12.200 --> 00:30:19.400]   ♪ Be saved to sin no more ♪
+[00:30:19.400 --> 00:30:26.600]   ♪ Be saved to sin no more ♪
+[00:30:28.680 --> 00:30:33.680]   ♪ Till all the ransomed church of God ♪
+[00:30:33.680 --> 00:30:40.920]   ♪ Be saved to sin no more ♪
+[00:30:40.920 --> 00:30:48.120]   ♪ E'er since by faith I sought the stream ♪
+[00:30:48.120 --> 00:30:55.240]   ♪ Thy flowing wounds supplied ♪
+[00:30:57.400 --> 00:31:02.400]   ♪ Redeeming love has been my theme ♪
+[00:31:02.400 --> 00:31:09.560]   ♪ And shall be till I die ♪
+[00:31:09.560 --> 00:31:16.720]   ♪ And shall be till I die ♪
+[00:31:16.720 --> 00:31:23.880]   ♪ And shall be till I die ♪
+[00:31:26.080 --> 00:31:31.080]   ♪ Redeeming love has been my theme ♪
+[00:31:31.080 --> 00:31:38.240]   ♪ And shall be till I die ♪
+[00:31:38.240 --> 00:31:45.360]   ♪ When this poor lisping, stammering tongue ♪
+[00:31:45.360 --> 00:31:52.520]   ♪ Lies silent in the grave ♪
+[00:31:54.720 --> 00:31:59.720]   ♪ Then in a nobler, sweeter song ♪
+[00:31:59.720 --> 00:32:06.840]   ♪ I'll sing thy power to save ♪
+[00:32:06.840 --> 00:32:13.960]   ♪ I'll sing thy power to save ♪
+[00:32:13.960 --> 00:32:21.160]   ♪ I'll sing thy power to save ♪
+[00:32:23.360 --> 00:32:28.360]   ♪ Then in a nobler, sweeter song ♪
+[00:32:28.360 --> 00:32:35.520]   ♪ I'll sing thy power to save ♪
+[00:32:35.520 --> 00:32:42.720]   ♪ I'll sing thy power to save ♪
+[00:32:42.720 --> 00:32:49.920]   ♪ I'll sing thy power to save ♪
+[00:32:52.120 --> 00:32:57.120]   ♪ Then in a nobler, sweeter song ♪
+[00:32:57.120 --> 00:33:03.440]   ♪ I'll sing thy power to save ♪
+[00:33:03.440 --> 00:33:09.240]   - You may be seated.
+[00:33:09.240 --> 00:33:15.320]   - All right, good morning.
+[00:33:15.320 --> 00:33:18.200]   Just as a kind of a preface,
+[00:33:18.200 --> 00:33:19.840]   I've been told by several people
+[00:33:19.840 --> 00:33:21.680]   that I look uncomfortable sometimes when I'm preaching,
+[00:33:21.680 --> 00:33:25.800]   and I realize, 'cause the pulpit's a little shorter for me.
+[00:33:25.800 --> 00:33:27.400]   And then my eyes are going bad.
+[00:33:27.400 --> 00:33:28.680]   And then I asked my wife about it,
+[00:33:28.680 --> 00:33:31.680]   and she said, "Yeah, but if you keep stooping down,
+[00:33:31.680 --> 00:33:33.660]   "the light's gonna be reflected off your head,
+[00:33:33.660 --> 00:33:35.040]   "and people are gonna know that you're going bald."
+[00:33:35.040 --> 00:33:37.520]   So I was like, okay, I gotta try something different.
+[00:33:37.520 --> 00:33:39.360]   And then I got here at seven in the morning,
+[00:33:39.360 --> 00:33:41.480]   and I asked Rachel Wong, I put my iPad up,
+[00:33:41.480 --> 00:33:43.040]   and she said, "That looks kind of weird."
+[00:33:43.040 --> 00:33:44.340]   So then I printed it out,
+[00:33:44.340 --> 00:33:46.840]   but then there's a black streak across my manuscript,
+[00:33:46.840 --> 00:33:48.440]   so I'm just gonna go with the iPad, all right?
+[00:33:48.440 --> 00:33:49.800]   So that's just the preface.
+[00:33:50.780 --> 00:33:53.960]   So hopefully it doesn't distract or hinder.
+[00:33:53.960 --> 00:33:56.480]   But let me pray for us,
+[00:33:56.480 --> 00:34:01.480]   and then we're gonna just hear the word of the Lord.
+[00:34:01.480 --> 00:34:03.080]   So let's pray together.
+[00:34:03.080 --> 00:34:08.560]   Father, we ask this morning that you would speak,
+[00:34:08.560 --> 00:34:12.200]   that you would cause our hearts to be reflective,
+[00:34:12.200 --> 00:34:15.320]   and Lord, that you would cause us
+[00:34:15.320 --> 00:34:20.440]   really to know how to worship in spirit and in truth,
+[00:34:20.440 --> 00:34:22.080]   and to give a thanks offering
+[00:34:22.080 --> 00:34:25.560]   that is appropriate to this time,
+[00:34:25.560 --> 00:34:27.600]   and to what you've done.
+[00:34:27.600 --> 00:34:32.600]   So I pray that you would feed your sheep this morning,
+[00:34:32.600 --> 00:34:34.080]   for we are listening.
+[00:34:34.080 --> 00:34:37.180]   I pray all these things in Jesus' name, amen.
+[00:34:37.180 --> 00:34:39.880]   The text comes from Psalm 100,
+[00:34:39.880 --> 00:34:41.840]   and I'm gonna be reading all five verses,
+[00:34:41.840 --> 00:34:43.120]   verses one through five.
+[00:34:43.120 --> 00:34:46.640]   Psalm 100, one through five.
+[00:34:49.120 --> 00:34:53.120]   Shout joyfully to the Lord all the earth.
+[00:34:53.120 --> 00:34:55.840]   Serve the Lord with gladness.
+[00:34:55.840 --> 00:34:58.240]   Come before him with joyful singing.
+[00:34:58.240 --> 00:35:02.080]   Know that the Lord himself is God,
+[00:35:02.080 --> 00:35:06.000]   and it is he who has made us, and not we ourselves.
+[00:35:06.000 --> 00:35:09.220]   We are his people, and the sheep of his pasture.
+[00:35:09.220 --> 00:35:12.920]   Enter his gates with thanksgiving,
+[00:35:12.920 --> 00:35:15.560]   and his courts with praise.
+[00:35:15.560 --> 00:35:18.880]   Give thanks to him, bless his name.
+[00:35:18.880 --> 00:35:24.600]   For the Lord is good, his loving kindness is everlasting,
+[00:35:24.600 --> 00:35:28.080]   and his faithfulness to all generations, amen.
+[00:35:28.080 --> 00:35:31.160]   I'm going to spend a large chunk of this morning
+[00:35:31.160 --> 00:35:33.920]   walking you through Psalm 100,
+[00:35:33.920 --> 00:35:36.480]   but before I do that, I wanna take a little time
+[00:35:36.480 --> 00:35:38.680]   to think through the word thanksgiving.
+[00:35:38.680 --> 00:35:43.200]   I find it appropriate, since we are about four days away
+[00:35:43.200 --> 00:35:44.700]   from the Thanksgiving holiday,
+[00:35:45.660 --> 00:35:48.580]   according to a poll taken in 2021,
+[00:35:48.580 --> 00:35:52.140]   Thanksgiving Day is America's favorite holiday,
+[00:35:52.140 --> 00:35:54.040]   and according to that same poll,
+[00:35:54.040 --> 00:35:57.340]   Christmas comes in second, and coincidentally,
+[00:35:57.340 --> 00:35:59.660]   Valentine's Day, for obvious reasons,
+[00:35:59.660 --> 00:36:01.860]   comes in very last place,
+[00:36:01.860 --> 00:36:04.740]   and if I had to choose a favorite holiday,
+[00:36:04.740 --> 00:36:07.460]   I think it would be Thanksgiving as well.
+[00:36:07.460 --> 00:36:11.300]   For starters, you have at least a four-day weekend,
+[00:36:11.300 --> 00:36:13.520]   and nowadays people get like a whole week.
+[00:36:14.360 --> 00:36:18.320]   There is special food, and I'm not a big fan of turkey,
+[00:36:18.320 --> 00:36:21.660]   but Thanksgiving ham, cream of corn
+[00:36:21.660 --> 00:36:23.720]   are two of my favorite foods,
+[00:36:23.720 --> 00:36:27.680]   and I've always liked like the crispness of the air
+[00:36:27.680 --> 00:36:29.880]   here in California around Thanksgiving,
+[00:36:29.880 --> 00:36:32.960]   and I feel like there's almost a smell of Thanksgiving,
+[00:36:32.960 --> 00:36:35.440]   where you have the cool air, the leaves,
+[00:36:35.440 --> 00:36:38.640]   and the scent of food being cooked,
+[00:36:38.640 --> 00:36:40.880]   and Thanksgiving weekend, for a lot of families,
+[00:36:40.880 --> 00:36:44.520]   is when the Christmas trees go up and the lights go up,
+[00:36:44.520 --> 00:36:47.480]   and you've got Black Friday, Cyber Monday,
+[00:36:47.480 --> 00:36:51.560]   where you can find deals, and in our 10 years abroad,
+[00:36:51.560 --> 00:36:53.320]   Thanksgiving was the only holiday
+[00:36:53.320 --> 00:36:56.880]   that actually would cause some degree of homesickness.
+[00:36:56.880 --> 00:36:59.880]   Tradition has it that the first Thanksgiving
+[00:36:59.880 --> 00:37:03.140]   was held by the pilgrims in 1620,
+[00:37:03.140 --> 00:37:05.100]   and a century and a half later,
+[00:37:05.100 --> 00:37:07.160]   the founding fathers declared Thanksgiving
+[00:37:07.160 --> 00:37:10.680]   to be a day of prayer and fasting,
+[00:37:10.680 --> 00:37:13.880]   especially during the time of the Revolutionary War.
+[00:37:13.880 --> 00:37:16.760]   So interestingly, for a large part of American history,
+[00:37:16.760 --> 00:37:21.540]   Thanksgiving was not a day of feasting, but of fasting,
+[00:37:21.540 --> 00:37:26.440]   and Thanksgiving, for the most part of American history,
+[00:37:26.440 --> 00:37:29.260]   it's been a uniquely Christian holiday,
+[00:37:29.260 --> 00:37:31.560]   as Christianity is the only religion
+[00:37:31.560 --> 00:37:34.240]   founded entirely upon the grace of God
+[00:37:34.240 --> 00:37:36.800]   and not on man's efforts or religiosity.
+[00:37:36.800 --> 00:37:40.360]   Thanksgiving the holiday is a favorite
+[00:37:40.360 --> 00:37:43.480]   of most Americans, but not necessarily
+[00:37:43.480 --> 00:37:46.900]   because they enjoy the giving of thanks.
+[00:37:46.900 --> 00:37:50.840]   And even for us in this room, my guess is
+[00:37:50.840 --> 00:37:53.840]   that there are a lot of things that we're looking forward to
+[00:37:53.840 --> 00:37:57.880]   about this coming week completely unrelated
+[00:37:57.880 --> 00:38:00.240]   to the giving of thanks.
+[00:38:00.240 --> 00:38:01.120]   Now, why is that?
+[00:38:01.120 --> 00:38:05.200]   I don't think it's necessarily because we're like
+[00:38:05.200 --> 00:38:08.840]   an ungrateful or like a discontented people,
+[00:38:08.840 --> 00:38:11.800]   though I'm sure there is an element of that,
+[00:38:11.800 --> 00:38:14.320]   but maybe it's because of our culture.
+[00:38:14.320 --> 00:38:18.480]   In our culture, saying thank you is like good manners.
+[00:38:18.480 --> 00:38:22.000]   It's etiquette, and you don't have to really mean it.
+[00:38:22.000 --> 00:38:23.880]   Take thank you cards, for example.
+[00:38:23.880 --> 00:38:26.040]   We write thank you in them, and we give them out,
+[00:38:26.040 --> 00:38:28.480]   like after a wedding, you give them out,
+[00:38:28.480 --> 00:38:31.140]   but oftentimes, we give them out more out of obligation
+[00:38:31.140 --> 00:38:35.000]   than genuine gratitude, because it's rude
+[00:38:35.000 --> 00:38:39.800]   not to say thank you when someone meets your expectations,
+[00:38:39.800 --> 00:38:43.720]   or when someone is kind, we offer thanks.
+[00:38:43.720 --> 00:38:48.220]   We teach our kids to say please and thank you,
+[00:38:48.220 --> 00:38:51.880]   and we don't always tell them that they have to mean it.
+[00:38:51.880 --> 00:38:55.200]   Saying thank you is the polite thing to do,
+[00:38:55.200 --> 00:38:59.080]   and I think this kind of politeness seeps
+[00:38:59.080 --> 00:39:01.480]   into our churches and our worship as well.
+[00:39:03.040 --> 00:39:07.820]   When God meets an expectation, we say a polite thank you.
+[00:39:07.820 --> 00:39:11.320]   We don't necessarily feel thankful,
+[00:39:11.320 --> 00:39:13.280]   but it's still an acknowledgement
+[00:39:13.280 --> 00:39:17.380]   that God has taken care of us as he's supposed to.
+[00:39:17.380 --> 00:39:23.920]   So in many ways, ours has become a please and thank you
+[00:39:23.920 --> 00:39:27.880]   kind of Christianity with almost a spiritual entitlement
+[00:39:27.880 --> 00:39:29.880]   that's seeped into our Christian culture,
+[00:39:31.380 --> 00:39:35.440]   and an entitled people are rarely
+[00:39:35.440 --> 00:39:37.260]   a genuinely thankful people.
+[00:39:37.260 --> 00:39:41.720]   But more than that, a reading of scripture leads me
+[00:39:41.720 --> 00:39:46.440]   to conclude that innately, you and I are actually hostile
+[00:39:46.440 --> 00:39:48.140]   toward the giving of thanks.
+[00:39:48.140 --> 00:39:53.740]   It's perhaps because a genuine posture of thanks
+[00:39:53.740 --> 00:39:55.460]   is a very uncomfortable one.
+[00:39:55.460 --> 00:39:59.080]   It's a posture of indebtedness,
+[00:40:00.120 --> 00:40:03.240]   and as pride-filled, sin-tainted creatures,
+[00:40:03.240 --> 00:40:05.600]   we do not like to feel indebted.
+[00:40:05.600 --> 00:40:07.920]   It makes us feel weak,
+[00:40:07.920 --> 00:40:13.940]   and real thankfulness offends.
+[00:40:13.940 --> 00:40:16.000]   Take a minute to think about it.
+[00:40:16.000 --> 00:40:18.100]   Take a second to think about that with me.
+[00:40:18.100 --> 00:40:23.960]   Real thankfulness often leaves us feeling inferior
+[00:40:23.960 --> 00:40:26.460]   or somehow helpless.
+[00:40:27.680 --> 00:40:30.620]   When someone treats us out or does something significant
+[00:40:30.620 --> 00:40:33.240]   for us that evokes an attitude of thanks,
+[00:40:33.240 --> 00:40:36.920]   don't we feel like we need to repay that kindness?
+[00:40:36.920 --> 00:40:39.120]   If someone serves us in some way,
+[00:40:39.120 --> 00:40:41.520]   don't we feel obligated to return the favor?
+[00:40:41.520 --> 00:40:45.600]   Thank you for having us over for dinner.
+[00:40:45.600 --> 00:40:48.560]   Next time, come over, let us cook for you.
+[00:40:48.560 --> 00:40:51.760]   Oh, thank you for this gift.
+[00:40:51.760 --> 00:40:53.800]   You really shouldn't have.
+[00:40:53.800 --> 00:40:55.440]   I didn't bring you anything.
+[00:40:55.760 --> 00:40:57.840]   (audience laughs)
+[00:40:57.840 --> 00:41:01.320]   Real thankfulness is offensive to the sin-corrupted heart
+[00:41:01.320 --> 00:41:04.640]   because the heart is forced to take a posture
+[00:41:04.640 --> 00:41:06.160]   of indebtedness and humility,
+[00:41:06.160 --> 00:41:10.140]   and naturally, a genuinely thankful attitude,
+[00:41:10.140 --> 00:41:12.040]   I find, is very, very short-lived.
+[00:41:12.040 --> 00:41:16.160]   So it's understandable that Thanksgiving Day
+[00:41:16.160 --> 00:41:18.280]   here in America has devolved.
+[00:41:18.280 --> 00:41:22.640]   I find that even amongst many of my church-going friends,
+[00:41:22.640 --> 00:41:24.280]   it seems like there's more and more grumbling
+[00:41:24.280 --> 00:41:26.920]   and less and less gratitude with each passing year,
+[00:41:26.920 --> 00:41:28.360]   and that's problematic
+[00:41:28.360 --> 00:41:31.500]   because the scriptures teach us
+[00:41:31.500 --> 00:41:34.880]   that gratitude and thanksgiving are extremely important
+[00:41:34.880 --> 00:41:35.960]   to the Christian life.
+[00:41:35.960 --> 00:41:39.860]   They are to characterize the Christian life.
+[00:41:39.860 --> 00:41:42.960]   They are hallmarks of the Christian life,
+[00:41:42.960 --> 00:41:45.540]   so it's important.
+[00:41:45.540 --> 00:41:49.580]   And let me read 1 Thessalonians 5, 18 for us.
+[00:41:51.160 --> 00:41:54.640]   In everything, give thanks,
+[00:41:54.640 --> 00:41:57.880]   for this is God's will for you in Christ Jesus.
+[00:41:57.880 --> 00:42:00.240]   You wanna know what God's will is for your life?
+[00:42:00.240 --> 00:42:05.240]   He doesn't address career or a spouse or decisions.
+[00:42:05.240 --> 00:42:06.840]   It's that you give thanks.
+[00:42:06.840 --> 00:42:09.680]   And I doubt Paul is talking about
+[00:42:09.680 --> 00:42:12.080]   just a lip-service acknowledgement
+[00:42:12.080 --> 00:42:13.900]   that God has met an expectation.
+[00:42:13.900 --> 00:42:17.880]   Colossians 2, 6-7 reads,
+[00:42:17.880 --> 00:42:21.400]   therefore, as you have received Christ Jesus as Lord,
+[00:42:21.400 --> 00:42:23.280]   the Lord, so walk in him,
+[00:42:23.280 --> 00:42:26.120]   having been firmly rooted and now being built up in him
+[00:42:26.120 --> 00:42:27.840]   and established in your faith,
+[00:42:27.840 --> 00:42:29.720]   just as you were instructed,
+[00:42:29.720 --> 00:42:33.580]   and overflowing with gratitude.
+[00:42:33.580 --> 00:42:35.860]   Colossians 2 informs us
+[00:42:35.860 --> 00:42:40.000]   that an overflowing of gratitude is evidence
+[00:42:40.000 --> 00:42:43.040]   that a person has received Christ Jesus as Lord.
+[00:42:43.040 --> 00:42:45.080]   It's evidence.
+[00:42:45.080 --> 00:42:47.840]   Romans 1, 21, for even though they knew God,
+[00:42:47.840 --> 00:42:50.200]   they did not honor him as God or give thanks,
+[00:42:50.200 --> 00:42:52.880]   but they became futile in their speculations,
+[00:42:52.880 --> 00:42:55.700]   and their foolish heart was darkened.
+[00:42:55.700 --> 00:42:58.240]   So Romans 1 alludes to the fact
+[00:42:58.240 --> 00:43:00.440]   that a lack of thanksgiving
+[00:43:00.440 --> 00:43:03.900]   is actually the root of folly and sin.
+[00:43:03.900 --> 00:43:06.220]   The lack of gratitude,
+[00:43:06.220 --> 00:43:08.640]   if you follow the thought flow of Romans 1,
+[00:43:08.640 --> 00:43:11.420]   is at the heart behind idolatry.
+[00:43:11.420 --> 00:43:15.440]   Lack of thanksgiving always leads to idolatry.
+[00:43:15.440 --> 00:43:18.400]   Idolatry always precludes the giving of thanks,
+[00:43:18.400 --> 00:43:20.640]   and it's not just a vicious cycle,
+[00:43:20.640 --> 00:43:24.180]   it's also evidence of a lack of regeneration.
+[00:43:24.180 --> 00:43:28.160]   So just from these three passages,
+[00:43:28.160 --> 00:43:31.080]   we see that thankfulness is God's will,
+[00:43:31.080 --> 00:43:33.100]   it is evidence of salvation,
+[00:43:33.100 --> 00:43:35.880]   and the absence of it leads to sin.
+[00:43:35.880 --> 00:43:40.260]   So a lack of thanksgiving is sin.
+[00:43:40.260 --> 00:43:44.400]   And thanksgiving that is only lip service
+[00:43:44.400 --> 00:43:47.280]   is actually deception and false humility.
+[00:43:47.280 --> 00:43:50.560]   This week we're gonna be celebrating
+[00:43:50.560 --> 00:43:51.620]   the Thanksgiving holidays,
+[00:43:51.620 --> 00:43:54.540]   and for many of us in this room, it starts tonight.
+[00:43:54.540 --> 00:43:58.320]   This week we'll be enjoying the gatherings
+[00:43:58.320 --> 00:44:01.720]   and the feasting and the time with loved ones,
+[00:44:01.720 --> 00:44:04.180]   and my hope is that we who understand
+[00:44:04.180 --> 00:44:06.000]   the grace and the kindness of God
+[00:44:06.000 --> 00:44:10.960]   will give to God an offering of real thanks, amen?
+[00:44:10.960 --> 00:44:13.100]   So as I mentioned in the beginning,
+[00:44:13.100 --> 00:44:15.360]   I wanna spend this morning feeding off of
+[00:44:15.360 --> 00:44:16.980]   and examining Psalm 100.
+[00:44:16.980 --> 00:44:20.680]   Some of your Bibles may even have the heading
+[00:44:20.680 --> 00:44:24.480]   A Psalm of Giving Thanks written above the psalm.
+[00:44:24.480 --> 00:44:28.360]   Psalm 100 is known as the Jubilate, J-U-B-I-L-A-T-E,
+[00:44:28.360 --> 00:44:32.000]   the Jubilate, which literally means, "Oh, be joyful."
+[00:44:32.000 --> 00:44:34.680]   And it's traditionally been a psalm
+[00:44:34.680 --> 00:44:37.200]   used for liturgical worship,
+[00:44:37.200 --> 00:44:39.960]   and basically it's an instructional guide
+[00:44:39.960 --> 00:44:43.000]   for the corporate giving of thanks.
+[00:44:43.000 --> 00:44:44.900]   So here's the outline for today's sermon
+[00:44:44.900 --> 00:44:46.960]   that's based on Psalm 100,
+[00:44:46.960 --> 00:44:50.720]   and I'm gonna just walk you through Psalm 100
+[00:44:50.720 --> 00:44:53.360]   in kind of a question form, all right?
+[00:44:53.360 --> 00:44:56.720]   The first point, how do we express our thanksgiving?
+[00:44:56.720 --> 00:44:59.320]   What's the prescription of the scriptures?
+[00:44:59.320 --> 00:45:01.480]   How do we express our thanksgiving?
+[00:45:01.480 --> 00:45:05.700]   Second, why do we express our thanksgiving?
+[00:45:05.700 --> 00:45:08.660]   And the most important,
+[00:45:11.160 --> 00:45:13.400]   so that we ensure it's not lip service,
+[00:45:13.400 --> 00:45:15.220]   the most important question is,
+[00:45:15.220 --> 00:45:17.720]   what biblically is thanksgiving?
+[00:45:17.720 --> 00:45:20.120]   And we're gonna have to jump out of Psalm 100 for that,
+[00:45:20.120 --> 00:45:21.200]   but what is it?
+[00:45:21.200 --> 00:45:24.960]   The first two questions will be answered in Psalm 100,
+[00:45:24.960 --> 00:45:26.760]   the how and the why of thanksgiving,
+[00:45:26.760 --> 00:45:28.140]   and they're easy enough to understand.
+[00:45:28.140 --> 00:45:29.520]   It's not that complicated.
+[00:45:29.520 --> 00:45:34.600]   But Psalm 100 doesn't quite explain what it is.
+[00:45:34.600 --> 00:45:39.680]   And defining what thanksgiving is is of supreme importance,
+[00:45:39.680 --> 00:45:41.200]   because you're gonna see in both the Old
+[00:45:41.200 --> 00:45:45.800]   and the New Testaments that the offerings of thanks
+[00:45:45.800 --> 00:45:48.880]   were at times rejected by God.
+[00:45:48.880 --> 00:45:53.380]   So someone goes and gives a thanksgiving offering,
+[00:45:53.380 --> 00:45:55.980]   and there is a no thank you very much.
+[00:45:55.980 --> 00:46:02.880]   We don't wanna say thank you to God and get a divine
+[00:46:02.880 --> 00:46:06.480]   you're not welcome in response.
+[00:46:06.480 --> 00:46:08.920]   So it's very important that we understand biblically
+[00:46:08.920 --> 00:46:10.680]   what thanksgiving is, and remember,
+[00:46:10.680 --> 00:46:13.360]   the Bible says that thanksgiving is God's will,
+[00:46:13.360 --> 00:46:17.060]   it's evidence of salvation, and the absence of it is sin.
+[00:46:17.060 --> 00:46:20.920]   So for this third question, we're gonna leave Psalm 100
+[00:46:20.920 --> 00:46:23.440]   and take a quick survey of the last four chapters
+[00:46:23.440 --> 00:46:28.120]   of Hebrews, and we're gonna see what biblical thanksgiving
+[00:46:28.120 --> 00:46:29.940]   is and what it isn't.
+[00:46:29.940 --> 00:46:32.360]   So here's the first point and first question.
+[00:46:32.360 --> 00:46:35.220]   How do we express our thanksgiving?
+[00:46:35.220 --> 00:46:36.680]   How do we express our thanksgiving?
+[00:46:36.680 --> 00:46:39.520]   And I'm gonna take a look at Psalm 100 once again.
+[00:46:39.520 --> 00:46:42.440]   Shout joyfully to the Lord all the earth.
+[00:46:42.440 --> 00:46:44.720]   Serve the Lord with gladness.
+[00:46:44.720 --> 00:46:47.160]   Come before him with joyful singing.
+[00:46:47.160 --> 00:46:49.760]   Know that the Lord himself is God.
+[00:46:49.760 --> 00:46:52.800]   It is he who has made us and not we ourselves.
+[00:46:52.800 --> 00:46:56.720]   We are his people and the sheep of his pasture.
+[00:46:56.720 --> 00:46:58.960]   Enter his gates with thanksgiving
+[00:46:58.960 --> 00:47:01.000]   and his courts with praise.
+[00:47:01.000 --> 00:47:03.480]   Give thanks to him, bless his name,
+[00:47:03.480 --> 00:47:08.240]   for the Lord is good, his loving kindness is everlasting,
+[00:47:08.240 --> 00:47:11.960]   and his faithfulness to all generations, amen.
+[00:47:11.960 --> 00:47:14.180]   There are seven commands.
+[00:47:14.180 --> 00:47:17.200]   We call them imperatives here in these four verses.
+[00:47:17.200 --> 00:47:18.920]   Seven commands.
+[00:47:18.920 --> 00:47:23.000]   And they are listed in a kind of chiastic order.
+[00:47:23.000 --> 00:47:28.000]   A chi spelled C-H-I is the Greek equivalent of our ex.
+[00:47:28.000 --> 00:47:32.680]   So a chiastic structure is where there are parallels
+[00:47:32.680 --> 00:47:34.440]   between the beginning and the end,
+[00:47:34.440 --> 00:47:36.720]   and then the second section,
+[00:47:36.720 --> 00:47:39.080]   and then the second to last section,
+[00:47:39.080 --> 00:47:41.360]   and so on and so forth.
+[00:47:41.360 --> 00:47:45.640]   It's a literary tool used in biblical writings.
+[00:47:45.640 --> 00:47:48.640]   And the emphasis and the highlight of every chiasm
+[00:47:48.640 --> 00:47:52.840]   falls right at the center, at the point, at the juncture.
+[00:47:52.840 --> 00:47:56.180]   So in English, the main idea or the thought
+[00:47:56.180 --> 00:47:58.240]   is found in either the introduction or the conclusion,
+[00:47:58.240 --> 00:48:00.780]   the first or last sentence of every paragraph.
+[00:48:00.780 --> 00:48:03.560]   But in the chiasm, it's in the middle.
+[00:48:03.560 --> 00:48:06.880]   So I'm going to make it a little easier
+[00:48:06.880 --> 00:48:09.280]   for your eyes to track along.
+[00:48:09.280 --> 00:48:15.240]   So the seven imperatives are there
+[00:48:15.240 --> 00:48:18.520]   in chiastic structure from verses one through four.
+[00:48:18.520 --> 00:48:22.540]   And the imperative found in verse three is the main point,
+[00:48:22.540 --> 00:48:27.540]   the main emphasis and the hinge on which everything turns.
+[00:48:27.720 --> 00:48:30.880]   And then verse five serves as a summary,
+[00:48:30.880 --> 00:48:35.620]   once again elaborating on the point of verse three,
+[00:48:35.620 --> 00:48:38.720]   and it's an exhortation for all of God's people
+[00:48:38.720 --> 00:48:40.940]   to know God and to be known by God.
+[00:48:40.940 --> 00:48:47.040]   So notice also how most of the imperatives here
+[00:48:47.040 --> 00:48:50.820]   have an attitude or some kind of emotion attached to them.
+[00:48:50.820 --> 00:48:53.200]   Remember, what's the question?
+[00:48:53.200 --> 00:48:56.160]   We're trying to discern how we are to give thanks.
+[00:48:56.160 --> 00:49:01.160]   So Psalm 100 says that God's people are to shout joyfully,
+[00:49:01.160 --> 00:49:04.020]   God's people are to serve gladly,
+[00:49:04.020 --> 00:49:07.200]   we are to come with joyful singing,
+[00:49:07.200 --> 00:49:10.820]   we are to enter with thanksgiving and praise,
+[00:49:10.820 --> 00:49:13.260]   we are to give thanks and we are to bless.
+[00:49:13.260 --> 00:49:15.540]   And so these are the imperatives,
+[00:49:15.540 --> 00:49:18.300]   the instructions on how we are to give thanks.
+[00:49:18.300 --> 00:49:23.140]   And this giving of thanks is to be expressive,
+[00:49:23.140 --> 00:49:25.420]   loud and passionate.
+[00:49:26.420 --> 00:49:27.840]   Okay, the Asians in the room
+[00:49:27.840 --> 00:49:29.680]   are already like a little bit uncomfortable, right?
+[00:49:29.680 --> 00:49:33.040]   Expressive, loud, passionate.
+[00:49:33.040 --> 00:49:34.420]   And I'm going to help you visualize
+[00:49:34.420 --> 00:49:36.360]   what this is supposed to look like.
+[00:49:36.360 --> 00:49:41.720]   Think of your favorite stadium, sports arena,
+[00:49:41.720 --> 00:49:46.320]   and you're there, and you're watching your favorite team
+[00:49:46.320 --> 00:49:48.400]   win the World Series, the NBA Finals,
+[00:49:48.400 --> 00:49:50.440]   the Stanley Cup, whatever it is,
+[00:49:50.440 --> 00:49:52.200]   you are in attendance for that.
+[00:49:53.520 --> 00:49:58.360]   The buzzer sounds, and your team has just won it all
+[00:49:58.360 --> 00:50:00.080]   in front of the home crowd.
+[00:50:00.080 --> 00:50:03.960]   So even if you've never been to something like that,
+[00:50:03.960 --> 00:50:08.960]   you can imagine the entire crowd erupting in loud cheers,
+[00:50:08.960 --> 00:50:13.680]   dancing in celebration, high-fiving complete strangers,
+[00:50:13.680 --> 00:50:16.360]   jumping up and down, and hugging it out.
+[00:50:16.360 --> 00:50:21.600]   And this is the visual I get for Psalm 100.
+[00:50:21.600 --> 00:50:25.040]   It's a global celebration,
+[00:50:25.040 --> 00:50:28.600]   and the joy and the energy of it, it's not containable.
+[00:50:28.600 --> 00:50:31.920]   It's just raucous, it's loud.
+[00:50:31.920 --> 00:50:36.780]   So God's people are to erupt into joyful shouting,
+[00:50:36.780 --> 00:50:39.080]   into exultant singing and praise,
+[00:50:39.080 --> 00:50:42.320]   and to serve God in such a way that he is at the center,
+[00:50:42.320 --> 00:50:45.240]   that he is glorified, and he is celebrated.
+[00:50:45.240 --> 00:50:49.680]   So the joy and adulation and the praises and the shouts,
+[00:50:49.680 --> 00:50:51.160]   they're not forced.
+[00:50:51.920 --> 00:50:53.360]   They're not fake.
+[00:50:53.360 --> 00:50:57.800]   They're only a natural response of celebration
+[00:50:57.800 --> 00:51:00.240]   appropriate to the moment.
+[00:51:00.240 --> 00:51:03.400]   So God's people are to just shout, serve,
+[00:51:03.400 --> 00:51:07.280]   joyfully sing, cheer, dance, celebrate.
+[00:51:07.280 --> 00:51:12.180]   And that is the how God's people are to give thanks.
+[00:51:12.180 --> 00:51:16.440]   Now I'm not saying to do this tonight
+[00:51:16.440 --> 00:51:17.640]   at your regional dinner,
+[00:51:18.840 --> 00:51:21.240]   or on Thursday with your relatives.
+[00:51:21.240 --> 00:51:22.400]   It might not go well.
+[00:51:22.400 --> 00:51:26.600]   And my advice, which hopefully is not a contradiction
+[00:51:26.600 --> 00:51:27.800]   to my own sermon point,
+[00:51:27.800 --> 00:51:31.400]   is that you should be careful not to be this expressive
+[00:51:31.400 --> 00:51:33.760]   at dinner, read the room, okay?
+[00:51:33.760 --> 00:51:37.480]   It might unnecessarily weird some people out,
+[00:51:37.480 --> 00:51:42.400]   but take comfort in knowing that many read this psalm
+[00:51:42.400 --> 00:51:43.460]   as prophecy.
+[00:51:43.460 --> 00:51:48.000]   Matthew Henry, a Bible commentator of the early 1700s,
+[00:51:48.000 --> 00:51:49.680]   says this about Psalm 100.
+[00:51:49.680 --> 00:51:56.760]   This song of praise should be considered as a prophecy
+[00:51:56.760 --> 00:52:00.400]   and even used as a prayer for the coming of that time
+[00:52:00.400 --> 00:52:04.820]   when all people shall know that the Lord, he is God,
+[00:52:04.820 --> 00:52:07.320]   and shall become his worshipers
+[00:52:07.320 --> 00:52:08.960]   and the sheep of his pasture.
+[00:52:08.960 --> 00:52:14.320]   Great encouragement is given us in worshiping God
+[00:52:14.320 --> 00:52:16.260]   to do it cheerfully.
+[00:52:16.260 --> 00:52:18.460]   If when we strayed like wandering sheep,
+[00:52:18.460 --> 00:52:21.520]   he has brought us again to his fold,
+[00:52:21.520 --> 00:52:25.020]   we have indeed abundant cause to bless his name.
+[00:52:25.020 --> 00:52:28.040]   The matter of praise and the motives to it
+[00:52:28.040 --> 00:52:30.060]   are very important.
+[00:52:30.060 --> 00:52:35.060]   Know ye what God is in himself and what he is to you,
+[00:52:35.060 --> 00:52:37.800]   know it, consider and apply it,
+[00:52:37.800 --> 00:52:40.420]   and then you will be more close and constant,
+[00:52:40.420 --> 00:52:43.380]   more inward and serious in his worship.
+[00:52:44.780 --> 00:52:46.480]   So most of this will be future,
+[00:52:46.480 --> 00:52:52.260]   but not all of our exuberance should be limited
+[00:52:52.260 --> 00:52:54.040]   to only our worship in heaven.
+[00:52:54.040 --> 00:52:57.980]   Hopefully we get a little taste of it this week,
+[00:52:57.980 --> 00:53:01.700]   and hopefully we have real moments like this
+[00:53:01.700 --> 00:53:03.240]   on this side of eternity.
+[00:53:03.240 --> 00:53:07.460]   The main imperative of Psalm 100 is
+[00:53:07.460 --> 00:53:10.560]   know that the Lord himself is God,
+[00:53:10.560 --> 00:53:14.400]   and this is both an already and a not yet.
+[00:53:15.340 --> 00:53:17.660]   This knowledge of God was initiated
+[00:53:17.660 --> 00:53:20.260]   when you genuinely put your faith
+[00:53:20.260 --> 00:53:22.500]   in the atoning work of Christ on the cross.
+[00:53:22.500 --> 00:53:25.980]   At that moment, you were given a new heart
+[00:53:25.980 --> 00:53:28.900]   and the spirit of God was deposited in you,
+[00:53:28.900 --> 00:53:33.520]   and if that was done to you at some point
+[00:53:33.520 --> 00:53:35.040]   in your personal history,
+[00:53:35.040 --> 00:53:39.680]   you already have a growing knowledge of God.
+[00:53:39.680 --> 00:53:43.800]   On this side of eternity,
+[00:53:43.800 --> 00:53:47.040]   our knowledge of God is going to be imperfect.
+[00:53:47.040 --> 00:53:50.220]   It won't be a face-to-face kind of a knowledge.
+[00:53:50.220 --> 00:53:51.500]   It's going to be limited,
+[00:53:51.500 --> 00:53:56.220]   but if you've placed your faith in Christ,
+[00:53:56.220 --> 00:53:58.500]   eternity has already started for you,
+[00:53:58.500 --> 00:54:03.820]   and eternity spent knowing God has already started,
+[00:54:03.820 --> 00:54:07.360]   and if you are a child of God,
+[00:54:07.360 --> 00:54:10.600]   there will have been moments in this life
+[00:54:10.600 --> 00:54:15.240]   that have been filled with wonder, awe, and praise,
+[00:54:15.240 --> 00:54:18.660]   and you will have erupted in spontaneous worship.
+[00:54:18.660 --> 00:54:20.640]   You will have given thanks,
+[00:54:20.640 --> 00:54:25.400]   not just for the material things that he has given you,
+[00:54:25.400 --> 00:54:29.140]   but you've been awestruck by who he is,
+[00:54:29.140 --> 00:54:32.200]   and you've been dumbfounded and utterly humbled
+[00:54:32.200 --> 00:54:35.020]   that this God of the universe would draw near to you,
+[00:54:35.020 --> 00:54:38.580]   so how do we give thanks in the present?
+[00:54:40.460 --> 00:54:43.100]   By joyfully and actively celebrating
+[00:54:43.100 --> 00:54:46.920]   the growing knowledge of God.
+[00:54:46.920 --> 00:54:50.900]   That's the how, and this brings me to my second point.
+[00:54:50.900 --> 00:54:54.840]   Why do we express our thanksgiving?
+[00:54:54.840 --> 00:54:58.940]   Why do we express our thanksgiving?
+[00:54:58.940 --> 00:55:02.960]   The reasons why we are to give thanks
+[00:55:02.960 --> 00:55:05.140]   are found in verse three and five.
+[00:55:06.540 --> 00:55:11.540]   Verse three, the knowing of God is the main point.
+[00:55:11.540 --> 00:55:15.520]   Verse five is an elaboration
+[00:55:15.520 --> 00:55:19.480]   or a summarization of this main point.
+[00:55:19.480 --> 00:55:21.960]   Okay, so I wanna read verse three and five for you again.
+[00:55:21.960 --> 00:55:25.760]   Know that the Lord himself is God.
+[00:55:25.760 --> 00:55:29.060]   It is he who has made us and not we ourselves.
+[00:55:29.060 --> 00:55:33.720]   We are his people and the sheep of his pasture.
+[00:55:33.720 --> 00:55:37.500]   Verse five, for the Lord is good.
+[00:55:37.500 --> 00:55:40.360]   His lovingkindness is everlasting,
+[00:55:40.360 --> 00:55:43.740]   and his faithfulness to all generations.
+[00:55:43.740 --> 00:55:47.200]   So there are basically six descriptions of God
+[00:55:47.200 --> 00:55:50.240]   which make up the reason why you and I are to give thanks.
+[00:55:50.240 --> 00:55:52.480]   Six reasons, okay?
+[00:55:52.480 --> 00:55:57.480]   So we find in verse three, three descriptions of who he is,
+[00:55:57.480 --> 00:56:01.060]   and then in verse five, three descriptions
+[00:56:01.060 --> 00:56:03.160]   of what he is like.
+[00:56:03.160 --> 00:56:05.760]   Three descriptions of who he is
+[00:56:05.760 --> 00:56:08.080]   and three descriptions of what he is like.
+[00:56:08.080 --> 00:56:13.080]   So he is God, he is creator, he is the shepherd,
+[00:56:13.080 --> 00:56:17.820]   and what is he like?
+[00:56:17.820 --> 00:56:19.000]   He is good.
+[00:56:19.000 --> 00:56:22.540]   His lovingkindness is everlasting,
+[00:56:22.540 --> 00:56:26.000]   and he is eternally faithful.
+[00:56:26.000 --> 00:56:28.900]   This is the why.
+[00:56:32.920 --> 00:56:36.200]   The saint of God is to respond in exultant praise
+[00:56:36.200 --> 00:56:41.200]   and thanksgiving because of who he is and what he is like,
+[00:56:41.200 --> 00:56:44.580]   and that's what you and I have been created for.
+[00:56:44.580 --> 00:56:50.120]   A good and all-powerful God knows us,
+[00:56:50.120 --> 00:56:53.120]   loves us, tends to our every need,
+[00:56:53.120 --> 00:56:56.560]   and we have been created to give thanks.
+[00:56:56.560 --> 00:57:01.160]   That's the very purpose for which we have been created,
+[00:57:01.160 --> 00:57:02.640]   to give thanks.
+[00:57:03.640 --> 00:57:08.640]   If I were to insert a Christian into Romans 121,
+[00:57:08.640 --> 00:57:12.180]   it would read something like this.
+[00:57:12.180 --> 00:57:18.280]   For because they knew God, they honored him as God
+[00:57:18.280 --> 00:57:23.920]   and gave thanks, and they grew in wisdom,
+[00:57:23.920 --> 00:57:28.920]   and the light of Christ shined brightly in their hearts.
+[00:57:31.120 --> 00:57:33.720]   And you notice here in Psalm 100
+[00:57:33.720 --> 00:57:37.680]   that there is no call to respond to what he has given
+[00:57:37.680 --> 00:57:41.080]   or what blessing he has bestowed.
+[00:57:41.080 --> 00:57:45.760]   You guys notice that?
+[00:57:45.760 --> 00:57:49.880]   The what has he done for me lately reasoning
+[00:57:49.880 --> 00:57:54.340]   is nowhere to be found in the thankful Christian heart.
+[00:57:54.340 --> 00:58:00.640]   It's completely unrelated to circumstance.
+[00:58:01.640 --> 00:58:06.280]   He is creation, our creator, we are creation.
+[00:58:06.280 --> 00:58:08.840]   He is sovereign, we are dependent.
+[00:58:08.840 --> 00:58:10.320]   He is king of kings,
+[00:58:10.320 --> 00:58:14.200]   and we have been chosen to be called his people.
+[00:58:14.200 --> 00:58:17.280]   He is the good shepherd, we are his sheep.
+[00:58:17.280 --> 00:58:21.980]   He is fearsome and terrifying and all-powerful
+[00:58:21.980 --> 00:58:25.220]   like Aslan the lion, but he is good.
+[00:58:25.220 --> 00:58:29.920]   He is the good shepherd who lays down his life
+[00:58:29.920 --> 00:58:32.440]   for the sheep, he goes after the sheep
+[00:58:32.440 --> 00:58:36.480]   even when it mathematically does not make sense.
+[00:58:36.480 --> 00:58:39.120]   His loving kindness is everlasting.
+[00:58:39.120 --> 00:58:42.640]   You guys know what everlasting means?
+[00:58:42.640 --> 00:58:46.200]   His loving kindness is the same yesterday,
+[00:58:46.200 --> 00:58:47.840]   today, and forever.
+[00:58:47.840 --> 00:58:54.320]   He is eternally faithful, and his faithfulness to us
+[00:58:54.320 --> 00:58:59.440]   is absolutely not dependent on our faithfulness to him,
+[00:58:59.440 --> 00:59:02.080]   how much we've prayed, how much we've been giving
+[00:59:02.080 --> 00:59:03.920]   and offering, how much we've done devotion,
+[00:59:03.920 --> 00:59:05.520]   how often we've evangelized.
+[00:59:05.520 --> 00:59:10.360]   It is completely unrelated to our faithfulness.
+[00:59:10.360 --> 00:59:13.280]   Second Timothy 2.13 says that if we are faithless,
+[00:59:13.280 --> 00:59:17.480]   he remains faithful, for he cannot deny himself.
+[00:59:17.480 --> 00:59:22.480]   God is faithful, that is who he is.
+[00:59:22.480 --> 00:59:25.880]   And we are his.
+[00:59:28.740 --> 00:59:32.320]   We are, of course, to give thanks for what he does for us.
+[00:59:32.320 --> 00:59:37.720]   But more than being thankful for what he does for us,
+[00:59:37.720 --> 00:59:43.120]   we're supposed to be thankful for who he is to us.
+[00:59:43.120 --> 00:59:48.680]   When I give my kids a gift, I don't get them a toy
+[00:59:48.680 --> 00:59:50.560]   that I know that they're not gonna like.
+[00:59:50.560 --> 00:59:52.400]   If I go to Target, I'll pick out something
+[00:59:52.400 --> 00:59:55.120]   that I know my kids will like 'cause I know them,
+[00:59:55.120 --> 00:59:57.120]   appropriate to their age and situation.
+[00:59:58.440 --> 01:00:02.000]   And when I get them a gift, I want them to enjoy it
+[01:00:02.000 --> 01:00:05.600]   and I love it when they say,
+[01:00:05.600 --> 01:00:07.660]   thank you, Daddy, for this gift.
+[01:00:07.660 --> 01:00:10.440]   I'm very happy about that.
+[01:00:10.440 --> 01:00:12.480]   I don't reject it.
+[01:00:12.480 --> 01:00:16.360]   But what gives me greater joy is when they say
+[01:00:16.360 --> 01:00:18.680]   something like this on a cheesy card,
+[01:00:18.680 --> 01:00:21.640]   you're the best Daddy in the world.
+[01:00:21.640 --> 01:00:25.720]   Obviously, that's not objectively true.
+[01:00:27.720 --> 01:00:30.000]   When they say, you're my favorite Daddy,
+[01:00:30.000 --> 01:00:32.540]   I'm like, well, you have no other options.
+[01:00:32.540 --> 01:00:38.040]   But when they say, you're the best Daddy in the world,
+[01:00:38.040 --> 01:00:43.040]   what they're saying is, I love having you as my Daddy,
+[01:00:43.040 --> 01:00:47.640]   regardless of what I give him.
+[01:00:47.640 --> 01:00:52.520]   We have been created, of course,
+[01:00:52.520 --> 01:00:57.520]   to enjoy all the good gifts that the Creator gives.
+[01:00:57.640 --> 01:01:00.760]   But we've been created to enjoy the Creator
+[01:01:00.760 --> 01:01:04.880]   more than to enjoy the Creator's gifts.
+[01:01:04.880 --> 01:01:08.280]   Hopefully, you're tracking.
+[01:01:08.280 --> 01:01:13.460]   We are to be thankful that we are His
+[01:01:13.460 --> 01:01:15.680]   and that He knows us intimately.
+[01:01:15.680 --> 01:01:19.400]   The people of God know their God.
+[01:01:19.400 --> 01:01:22.240]   Take a look at how Psalm 100 in verse three
+[01:01:22.240 --> 01:01:23.940]   describes the saints.
+[01:01:26.560 --> 01:01:28.000]   We have been created.
+[01:01:28.000 --> 01:01:30.640]   We are His people.
+[01:01:30.640 --> 01:01:32.760]   We are His sheep.
+[01:01:32.760 --> 01:01:35.600]   That's the description.
+[01:01:35.600 --> 01:01:42.040]   We have been created by God and for God
+[01:01:42.040 --> 01:01:44.580]   to love God and to serve God,
+[01:01:44.580 --> 01:01:49.040]   but sin leads us to believe that He exists
+[01:01:49.040 --> 01:01:55.040]   to love us, to serve us, and to do our bidding.
+[01:01:56.040 --> 01:01:59.480]   Sin makes us think we have every right
+[01:01:59.480 --> 01:02:03.840]   to elevate ourselves on equal plane with God
+[01:02:03.840 --> 01:02:06.800]   and that we have every right to reject Him
+[01:02:06.800 --> 01:02:11.240]   if He does not satisfy our needs.
+[01:02:11.240 --> 01:02:14.880]   That's what sin does to our thinking
+[01:02:14.880 --> 01:02:17.960]   and causes us to be foolish and darkened.
+[01:02:17.960 --> 01:02:20.760]   So why do we give thanks to God?
+[01:02:20.760 --> 01:02:23.920]   Let me summarize.
+[01:02:24.920 --> 01:02:29.920]   Because He is good, we're not.
+[01:02:29.920 --> 01:02:37.240]   He is love, we're not lovable.
+[01:02:37.240 --> 01:02:42.960]   He is faithful even when we are not.
+[01:02:42.960 --> 01:02:47.280]   And this good, loving, faithful God
+[01:02:47.280 --> 01:02:50.980]   has intentionally chosen a wicked, unlovable,
+[01:02:50.980 --> 01:02:54.780]   and a faithless people to Himself for Himself.
+[01:02:54.780 --> 01:02:58.200]   He didn't decide only to be merciful,
+[01:02:58.200 --> 01:03:01.120]   but in His grace, He chose to make us
+[01:03:01.120 --> 01:03:04.720]   who were objects, technon, children, spawn,
+[01:03:04.720 --> 01:03:09.720]   targets of wrath, and He elevated us to adopted children,
+[01:03:09.720 --> 01:03:14.680]   judges of even angels, co-heirs with Christ.
+[01:03:14.680 --> 01:03:18.980]   If you understand that, how do you not give thanks?
+[01:03:19.860 --> 01:03:24.860]   He is a God who not only gives help and gives relief,
+[01:03:24.860 --> 01:03:28.920]   I mean, oftentimes we seek Him when we need help, right?
+[01:03:28.920 --> 01:03:34.400]   He is a God who not only changes our circumstances,
+[01:03:34.400 --> 01:03:38.860]   but who can and does change our nature.
+[01:03:38.860 --> 01:03:46.280]   He takes a dead corpse and gives it newness of life.
+[01:03:47.140 --> 01:03:52.140]   Happiness and approval over a favorable change
+[01:03:52.140 --> 01:03:56.540]   of circumstance is not the same thing as thanksgiving.
+[01:03:56.540 --> 01:03:58.820]   I'm gonna repeat that.
+[01:03:58.820 --> 01:04:04.100]   Happiness and approval over a favorable change
+[01:04:04.100 --> 01:04:08.600]   of circumstance is not the same thing as thanksgiving.
+[01:04:08.600 --> 01:04:12.220]   I wanna take a look at Luke 17,
+[01:04:12.220 --> 01:04:15.140]   and this story may be familiar with many of you.
+[01:04:16.080 --> 01:04:17.700]   Luke 17, 11 to 19.
+[01:04:17.700 --> 01:04:21.820]   While He was on the way to Jerusalem,
+[01:04:21.820 --> 01:04:24.860]   He was passing between Samaria and Galilee.
+[01:04:24.860 --> 01:04:28.980]   As He entered a village, 10 leprous men
+[01:04:28.980 --> 01:04:31.180]   who stood at a distance met Him,
+[01:04:31.180 --> 01:04:34.220]   and they raised their voices saying,
+[01:04:34.220 --> 01:04:38.460]   "Jesus, Master, have mercy on us."
+[01:04:38.460 --> 01:04:42.200]   And when He saw them, He said to them,
+[01:04:42.200 --> 01:04:44.460]   "Go and show yourselves to the priests,
+[01:04:45.540 --> 01:04:49.460]   "and as they were going, they were cleansed."
+[01:04:49.460 --> 01:04:50.660]   Now, I wanna pause there.
+[01:04:50.660 --> 01:04:56.060]   Jesus responds to the lepers' requests
+[01:04:56.060 --> 01:04:57.480]   for mercy and for healing.
+[01:04:57.480 --> 01:05:01.220]   He responds.
+[01:05:01.220 --> 01:05:03.460]   They cry, and He responds.
+[01:05:03.460 --> 01:05:07.940]   And remember, leprosy was an incurable disease.
+[01:05:07.940 --> 01:05:12.140]   It separated you from all your friends, all your family,
+[01:05:12.140 --> 01:05:15.380]   but most importantly, you felt separated from God
+[01:05:15.380 --> 01:05:20.380]   because many viewed leprosy as a punishment for some sin.
+[01:05:20.380 --> 01:05:28.020]   But Jesus, He sends them to the priests
+[01:05:28.020 --> 01:05:31.580]   so they could be examined according to Levitical law,
+[01:05:31.580 --> 01:05:34.900]   and then socially accepted back into their communities,
+[01:05:34.900 --> 01:05:37.760]   back at their work, back amongst their friends,
+[01:05:37.760 --> 01:05:42.340]   and the text tells us that they were cleansed on the way.
+[01:05:43.460 --> 01:05:46.700]   And for sure, this was a very favorable
+[01:05:46.700 --> 01:05:49.020]   change of circumstance.
+[01:05:49.020 --> 01:05:51.760]   This changed everything.
+[01:05:51.760 --> 01:05:59.620]   And I assume all 10 lepers were super happy.
+[01:05:59.620 --> 01:06:05.700]   All 10 lepers would probably say to you
+[01:06:05.700 --> 01:06:08.620]   that they are so thankful
+[01:06:08.620 --> 01:06:12.900]   'cause their lives are now improved drastically
+[01:06:12.900 --> 01:06:14.340]   in every way.
+[01:06:14.340 --> 01:06:17.360]   But verse 15 continues.
+[01:06:17.360 --> 01:06:21.660]   Now one of them, when he saw that he had been healed,
+[01:06:21.660 --> 01:06:28.060]   turned back, glorifying God with a loud voice,
+[01:06:28.060 --> 01:06:32.120]   and he fell on his face at his feet,
+[01:06:32.120 --> 01:06:33.420]   giving thanks to Him.
+[01:06:33.420 --> 01:06:35.820]   And he was a Samaritan.
+[01:06:35.820 --> 01:06:39.740]   And then Jesus answered and said,
+[01:06:40.900 --> 01:06:43.980]   were there not 10 cleansed?
+[01:06:43.980 --> 01:06:46.440]   But the nine, where are they?
+[01:06:46.440 --> 01:06:51.460]   Was no one found who returned to give glory to God
+[01:06:51.460 --> 01:06:53.940]   except this foreigner?
+[01:06:53.940 --> 01:06:59.020]   And he said to him, stand up and go.
+[01:06:59.020 --> 01:07:00.460]   Your faith has made you well.
+[01:07:00.460 --> 01:07:06.260]   The Samaritan leper turns back,
+[01:07:06.260 --> 01:07:09.140]   returns to give thanks and glory to God.
+[01:07:09.140 --> 01:07:10.820]   All 10 lepers are happy.
+[01:07:10.820 --> 01:07:14.620]   All 10 are made glad by the change of circumstance,
+[01:07:14.620 --> 01:07:18.980]   but only one returns in faith
+[01:07:18.980 --> 01:07:21.300]   and gives thanks and glory to God.
+[01:07:21.300 --> 01:07:25.420]   All 10 had their circumstances changed,
+[01:07:25.420 --> 01:07:29.280]   but it appears that only one had his nature changed.
+[01:07:29.280 --> 01:07:35.860]   All 10, I'm sure, were ecstatic to be made well,
+[01:07:37.060 --> 01:07:40.860]   but it appears that only one had been truly made whole,
+[01:07:40.860 --> 01:07:43.380]   shalom, wholeness,
+[01:07:43.380 --> 01:07:48.380]   being restored not just to his community and family,
+[01:07:48.380 --> 01:07:49.980]   but to his creator.
+[01:07:49.980 --> 01:07:55.200]   And perhaps this man had an advantage as a Samaritan,
+[01:07:55.200 --> 01:08:00.540]   who believed themselves to be ethnically outside
+[01:08:00.540 --> 01:08:01.780]   of the favor of God.
+[01:08:01.780 --> 01:08:04.860]   On the outside looking in,
+[01:08:06.380 --> 01:08:09.060]   he knew he was unworthy at that time
+[01:08:09.060 --> 01:08:11.660]   simply because of his ethnic makeup.
+[01:08:11.660 --> 01:08:16.500]   But perhaps this gave him an insight
+[01:08:16.500 --> 01:08:20.860]   into truly how unworthy he really was.
+[01:08:20.860 --> 01:08:25.140]   Maybe the Jewish lepers felt entitled
+[01:08:25.140 --> 01:08:29.340]   'cause they had been told from the time that they were born
+[01:08:29.340 --> 01:08:30.900]   that the messianic king of the Jews
+[01:08:30.900 --> 01:08:32.700]   would one day come and redeem his people.
+[01:08:32.700 --> 01:08:37.580]   He would set everything straight for the Jews.
+[01:08:37.580 --> 01:08:40.220]   So perhaps this Samaritan leper
+[01:08:40.220 --> 01:08:42.380]   knew better than the other nine
+[01:08:42.380 --> 01:08:46.020]   that all had sinned and fallen short of the glory of God.
+[01:08:46.020 --> 01:08:48.440]   He cannot compare laterally.
+[01:08:48.440 --> 01:08:50.160]   Everybody's in desperate need of grace,
+[01:08:50.160 --> 01:08:51.840]   and he can only cling,
+[01:08:51.840 --> 01:08:54.820]   not to any earthly merit,
+[01:08:54.820 --> 01:08:58.360]   but only to the mercies of this God.
+[01:09:00.060 --> 01:09:02.920]   There's a reason why Jesus has said in Luke 7
+[01:09:02.920 --> 01:09:05.420]   that those who have been forgiven much love much.
+[01:09:05.420 --> 01:09:11.420]   Maybe when we fail to remember how desperately rotten we are
+[01:09:11.420 --> 01:09:15.620]   we feel entitled to the kindness and favor of God.
+[01:09:15.620 --> 01:09:20.780]   Pride kills gratitude.
+[01:09:20.780 --> 01:09:27.120]   Pride kills gratitude.
+[01:09:27.960 --> 01:09:30.960]   But when we are killed of our pride,
+[01:09:30.960 --> 01:09:34.240]   we understand the grace of God.
+[01:09:34.240 --> 01:09:39.240]   And remember, that makes us incredibly uncomfortable
+[01:09:39.240 --> 01:09:42.000]   because gratitude is an offense
+[01:09:42.000 --> 01:09:44.880]   to the very core of our pride.
+[01:09:44.880 --> 01:09:49.240]   This brings me to one more parable
+[01:09:49.240 --> 01:09:51.560]   which is found in the very next chapter of Luke.
+[01:09:51.560 --> 01:09:55.080]   Jesus tells this parable, Luke 18, nine to 14.
+[01:09:55.080 --> 01:10:00.080]   And he also told this parable to some people
+[01:10:00.080 --> 01:10:04.520]   who trusted in themselves,
+[01:10:04.520 --> 01:10:08.440]   that they were religious and viewed others with contempt.
+[01:10:08.440 --> 01:10:12.080]   Two men went up into the temple to pray,
+[01:10:12.080 --> 01:10:16.500]   one a Pharisee and the other a tax collector.
+[01:10:16.500 --> 01:10:20.360]   I like to imagine Psalm 100 is being obeyed,
+[01:10:20.360 --> 01:10:21.840]   so they're like, "Okay, we should go to the temple."
+[01:10:21.840 --> 01:10:23.240]   All right, so they're there.
+[01:10:24.500 --> 01:10:29.420]   The Pharisee stood and was praying this to himself.
+[01:10:29.420 --> 01:10:35.000]   "God, I thank you
+[01:10:35.000 --> 01:10:39.280]   "that I am not like other people,
+[01:10:39.280 --> 01:10:43.820]   "swindlers, unjust, adulterers,
+[01:10:43.820 --> 01:10:47.300]   "or even like this, that tax collector.
+[01:10:47.300 --> 01:10:51.840]   "I fast twice a week.
+[01:10:51.840 --> 01:10:53.960]   "I pay tithes of all that I get.
+[01:10:54.960 --> 01:10:59.160]   "But the tax collector, standing some distance away,
+[01:10:59.160 --> 01:11:02.760]   "was even unwilling to lift up his eyes to heaven,
+[01:11:02.760 --> 01:11:05.380]   "but was beating his breast, saying,
+[01:11:05.380 --> 01:11:08.520]   "God, be merciful to me, the sinner.
+[01:11:08.520 --> 01:11:13.020]   "I tell you, this man went to his house justified,
+[01:11:13.020 --> 01:11:15.700]   "saved, whole, well, healed.
+[01:11:15.700 --> 01:11:20.160]   "That man went home justified, rather than the other.
+[01:11:20.160 --> 01:11:23.220]   "For everyone who exalts himself will be humbled,
+[01:11:23.220 --> 01:11:25.880]   "but he who humbles himself will be exalted."
+[01:11:25.880 --> 01:11:29.940]   Remember, true thanksgiving is uncomfortable
+[01:11:29.940 --> 01:11:33.300]   because it makes us feel indebted and helpless.
+[01:11:33.300 --> 01:11:38.120]   The text here says that the Pharisee gave thanks.
+[01:11:38.120 --> 01:11:40.960]   Why?
+[01:11:40.960 --> 01:11:45.020]   Because God made him so spiritually sexy.
+[01:11:45.020 --> 01:11:46.280]   That's what he's thinking.
+[01:11:46.280 --> 01:11:47.960]   I'm legit.
+[01:11:47.960 --> 01:11:51.860]   I am a gift to the world.
+[01:11:52.840 --> 01:11:54.460]   There's a phrase in Korean,
+[01:11:54.460 --> 01:11:55.580]   I know most of you guys are not Koreans,
+[01:11:55.580 --> 01:11:57.420]   like jal-la-suh, right?
+[01:11:57.420 --> 01:12:00.120]   That just means like born of good stock,
+[01:12:00.120 --> 01:12:01.840]   and it's kind of like a derogatory way
+[01:12:01.840 --> 01:12:04.080]   of saying someone is proud and pompous.
+[01:12:04.080 --> 01:12:07.500]   This Pharisee was thanking God
+[01:12:07.500 --> 01:12:09.420]   that God had made him so jal-la-suh.
+[01:12:09.420 --> 01:12:15.580]   Maybe if we feel spiritually superior to those around us,
+[01:12:15.580 --> 01:12:19.480]   we've been doing well spiritually,
+[01:12:20.940 --> 01:12:21.860]   unlike that guy.
+[01:12:21.860 --> 01:12:25.380]   It prevents us from giving thanks.
+[01:12:25.380 --> 01:12:29.760]   Lateral comparison is always a surefire way
+[01:12:29.760 --> 01:12:33.220]   to kill gratitude, and in our culture, there's a lot of it.
+[01:12:33.220 --> 01:12:37.960]   So why do we give thanks to God?
+[01:12:37.960 --> 01:12:42.260]   Not primarily because he has given us good circumstances
+[01:12:42.260 --> 01:12:43.540]   or material blessings,
+[01:12:43.540 --> 01:12:48.040]   not primarily because he's met all of our expectations,
+[01:12:49.320 --> 01:12:53.440]   not primarily because he made us better than other people.
+[01:12:53.440 --> 01:12:59.020]   We give thanks to God mainly because he is good,
+[01:12:59.020 --> 01:13:02.700]   he has been good, and he will continue to be good.
+[01:13:02.700 --> 01:13:06.160]   Luke 18, 19, if you keep going down the parable,
+[01:13:06.160 --> 01:13:07.520]   someone says, "Good teacher,"
+[01:13:07.520 --> 01:13:09.000]   and Jesus says, "Why do you call me good?"
+[01:13:09.000 --> 01:13:11.220]   Only God is good.
+[01:13:11.220 --> 01:13:16.080]   Do you know what sorts of people cannot give thanks to God?
+[01:13:17.820 --> 01:13:20.320]   Those who believe themselves to be worthy of God,
+[01:13:20.320 --> 01:13:25.300]   those who believe themselves to be deserving
+[01:13:25.300 --> 01:13:26.660]   of the blessings of God.
+[01:13:26.660 --> 01:13:32.100]   May we be those who humble ourselves
+[01:13:32.100 --> 01:13:33.920]   under the mighty hand of God
+[01:13:33.920 --> 01:13:37.780]   so that he may lift us up in due time.
+[01:13:37.780 --> 01:13:41.980]   1 Thessalonians 5, 18, in everything,
+[01:13:43.580 --> 01:13:48.460]   even if you are going through the gauntlet at the moment,
+[01:13:48.460 --> 01:13:50.720]   in everything, give thanks,
+[01:13:50.720 --> 01:13:54.120]   for this is God's will for you in Christ Jesus.
+[01:13:54.120 --> 01:14:00.660]   Third question, what then is biblical definition
+[01:14:00.660 --> 01:14:01.580]   of thanksgiving?
+[01:14:01.580 --> 01:14:04.420]   What is it?
+[01:14:04.420 --> 01:14:08.300]   'Cause it's still a little bit like vague.
+[01:14:08.300 --> 01:14:09.220]   What is it?
+[01:14:11.340 --> 01:14:14.980]   I was mulling over Hebrews 10 to 13, all four chapters,
+[01:14:14.980 --> 01:14:17.940]   and I was just reading through it again and again,
+[01:14:17.940 --> 01:14:20.860]   and then I put together this definition of thanksgiving.
+[01:14:20.860 --> 01:14:22.020]   And here are some of the elements.
+[01:14:22.020 --> 01:14:23.340]   It requires faith.
+[01:14:23.340 --> 01:14:26.100]   'Cause Hebrews 11, six, "Without faith,
+[01:14:26.100 --> 01:14:27.740]   "it's impossible to please God."
+[01:14:27.740 --> 01:14:31.340]   It's based on a blood sacrifice.
+[01:14:31.340 --> 01:14:33.980]   Abel is mentioned in the beginning
+[01:14:33.980 --> 01:14:36.340]   and at the end of Hebrews 11.
+[01:14:36.340 --> 01:14:38.620]   And then Christ's blood is compared
+[01:14:38.620 --> 01:14:39.620]   to be better than Abel's,
+[01:14:39.620 --> 01:14:41.820]   so there's a blood sacrifice that's given.
+[01:14:41.820 --> 01:14:44.860]   There's a bold confidence in approaching the throne
+[01:14:44.860 --> 01:14:48.020]   of holy, holy, holy God.
+[01:14:48.020 --> 01:14:52.580]   There is a perseverance and a joy,
+[01:14:52.580 --> 01:14:55.420]   and a looking forward to a better city.
+[01:14:55.420 --> 01:15:01.240]   There is nothing looked forward to in this life,
+[01:15:01.240 --> 01:15:03.240]   in Hebrews 10 to 13.
+[01:15:03.240 --> 01:15:06.840]   And that's always been the case.
+[01:15:07.820 --> 01:15:11.620]   We praise God not because he's good to us in this life,
+[01:15:11.620 --> 01:15:13.340]   but because he is good,
+[01:15:13.340 --> 01:15:17.740]   and we will fully know face to face
+[01:15:17.740 --> 01:15:19.940]   that he is supremely good
+[01:15:19.940 --> 01:15:21.820]   when we meet him for all eternity.
+[01:15:21.820 --> 01:15:27.060]   Gratitude is founded and focused upon
+[01:15:27.060 --> 01:15:30.980]   God's eternal throne of grace.
+[01:15:30.980 --> 01:15:34.780]   So I'm looking through Hebrews 10 to 13,
+[01:15:34.780 --> 01:15:37.020]   and I have like a six-sentence definition,
+[01:15:37.020 --> 01:15:40.260]   so I narrowed it down to just like two lines.
+[01:15:40.260 --> 01:15:41.340]   And here it is.
+[01:15:41.340 --> 01:15:43.740]   You don't need to copy this down
+[01:15:43.740 --> 01:15:46.180]   because it could change a little bit tomorrow,
+[01:15:46.180 --> 01:15:47.680]   and it's on the slide, okay?
+[01:15:47.680 --> 01:15:51.620]   The virtue or act of blessing God
+[01:15:51.620 --> 01:15:56.300]   by means of a faith-filled submission
+[01:15:56.300 --> 01:16:00.540]   to his sovereignty and discipline, Hebrews 12,
+[01:16:00.540 --> 01:16:05.460]   and a joy-filled reverence
+[01:16:06.460 --> 01:16:09.820]   in being brought near to his throne of grace.
+[01:16:09.820 --> 01:16:13.740]   That's Thanksgiving.
+[01:16:13.740 --> 01:16:21.940]   And here's a summary verse, Hebrews 12, 28 to 29.
+[01:16:21.940 --> 01:16:24.180]   And I was debating between this and Hebrews 13, five,
+[01:16:24.180 --> 01:16:25.860]   which says, be content.
+[01:16:25.860 --> 01:16:26.940]   Do not be greedy for money,
+[01:16:26.940 --> 01:16:28.060]   be content with what you have,
+[01:16:28.060 --> 01:16:31.100]   because he has said, never will I leave you or forsake you,
+[01:16:31.100 --> 01:16:33.900]   but I felt like this one kind of captured it better.
+[01:16:33.900 --> 01:16:35.940]   Hebrews 12, 28 to 29.
+[01:16:35.940 --> 01:16:40.380]   Therefore, since we receive a kingdom
+[01:16:40.380 --> 01:16:42.300]   which cannot be shaken,
+[01:16:42.300 --> 01:16:46.140]   let us show gratitude
+[01:16:46.140 --> 01:16:49.260]   by which we may offer to God
+[01:16:49.260 --> 01:16:53.900]   an acceptable service with reverence and awe,
+[01:16:53.900 --> 01:16:56.860]   for our God is a consuming fire.
+[01:16:56.860 --> 01:17:00.780]   Our God is a jealous God.
+[01:17:00.780 --> 01:17:02.260]   He's a consuming fire.
+[01:17:02.260 --> 01:17:05.180]   But interestingly enough,
+[01:17:06.180 --> 01:17:09.500]   a heart of genuine gratitude
+[01:17:09.500 --> 01:17:12.420]   appeases and pleases God.
+[01:17:12.420 --> 01:17:16.460]   Why do we show gratitude?
+[01:17:16.460 --> 01:17:21.020]   Because we're receiving a kingdom that cannot be shaken.
+[01:17:21.020 --> 01:17:24.460]   Everything on this side of eternity can easily be shaken.
+[01:17:24.460 --> 01:17:26.540]   Some of you guys are being shaken right now
+[01:17:26.540 --> 01:17:27.780]   in circumstances.
+[01:17:27.780 --> 01:17:30.540]   We've been learning in 2 Peter
+[01:17:30.540 --> 01:17:32.860]   that everything on this side of eternity,
+[01:17:32.860 --> 01:17:35.180]   the heavens and the earth are being reserved
+[01:17:35.180 --> 01:17:36.780]   for fire for the day of judgment
+[01:17:36.780 --> 01:17:39.760]   and destruction of ungodly men, everything.
+[01:17:39.760 --> 01:17:43.420]   But because of the blood of Jesus,
+[01:17:43.420 --> 01:17:46.420]   you and I, we don't have to worry about none of that.
+[01:17:46.420 --> 01:17:50.060]   Nothing that happens here affects us.
+[01:17:50.060 --> 01:17:51.500]   This is just a blip.
+[01:17:51.500 --> 01:17:52.740]   This is temporary.
+[01:17:52.740 --> 01:17:54.860]   This is all crash and burn.
+[01:17:54.860 --> 01:17:57.420]   This is thorns and thistles.
+[01:17:57.420 --> 01:18:00.300]   But we're spending eternity elsewhere.
+[01:18:00.300 --> 01:18:02.620]   So we don't worry about any of that,
+[01:18:02.620 --> 01:18:05.980]   because we're inheriting a kingdom that cannot be shaken.
+[01:18:05.980 --> 01:18:09.260]   We're good.
+[01:18:09.260 --> 01:18:12.300]   'Cause he is good.
+[01:18:12.300 --> 01:18:17.300]   My definition of Thanksgiving may have been a mouthful
+[01:18:17.300 --> 01:18:20.140]   and probably you're not gonna remember,
+[01:18:20.140 --> 01:18:23.300]   but let me emotionally simplify it for you.
+[01:18:23.300 --> 01:18:28.220]   It's an exaltation in this truth.
+[01:18:28.220 --> 01:18:31.500]   And this truth is gonna be easy to memorize
+[01:18:31.500 --> 01:18:33.140]   because we sing this line.
+[01:18:33.140 --> 01:18:39.380]   For God the just is satisfied
+[01:18:39.380 --> 01:18:42.940]   to look on him and pardon me.
+[01:18:42.940 --> 01:18:47.140]   To look on him and pardon me.
+[01:18:47.140 --> 01:18:52.780]   For God the just is satisfied
+[01:18:52.780 --> 01:18:57.740]   to look on him and pardon a wretch like me.
+[01:18:59.580 --> 01:19:01.780]   That's why we give thanks.
+[01:19:01.780 --> 01:19:07.060]   If you go to a baseball game or a basketball game
+[01:19:07.060 --> 01:19:08.460]   in the middle of the season,
+[01:19:08.460 --> 01:19:11.340]   especially if it's like a bad season
+[01:19:11.340 --> 01:19:13.500]   like the Lakers are having right now,
+[01:19:13.500 --> 01:19:15.260]   why are you laughing?
+[01:19:15.260 --> 01:19:16.100]   It hurts.
+[01:19:16.100 --> 01:19:19.660]   Sometimes in those games,
+[01:19:19.660 --> 01:19:21.620]   when things get kind of dry and boring,
+[01:19:21.620 --> 01:19:25.740]   the PA announcer has to try and hype up the crowd.
+[01:19:25.740 --> 01:19:28.380]   You guys ever been to a game in the middle of a season?
+[01:19:28.380 --> 01:19:30.060]   Everybody clap your hands.
+[01:19:30.060 --> 01:19:32.500]   And then people do stuff, right?
+[01:19:32.500 --> 01:19:35.140]   Let's make some noise.
+[01:19:35.140 --> 01:19:35.980]   And people, ah!
+[01:19:35.980 --> 01:19:37.980]   It's fascinating.
+[01:19:37.980 --> 01:19:43.900]   In many ways, every year, Thanksgiving Day
+[01:19:43.900 --> 01:19:47.220]   is kind of like our spiritual PA announcer.
+[01:19:47.220 --> 01:19:52.380]   Everybody clap your hands, right?
+[01:19:52.380 --> 01:19:55.420]   Everybody gain some weight.
+[01:19:55.420 --> 01:19:58.180]   Whatever it is, every year it comes
+[01:19:58.180 --> 01:20:00.660]   to remind us that we need to, at the very least,
+[01:20:00.660 --> 01:20:03.820]   give a lip service offering of thanks.
+[01:20:03.820 --> 01:20:07.700]   Every year, when things are kind of mundane and dry.
+[01:20:07.700 --> 01:20:12.180]   But if a team has just won a championship,
+[01:20:12.180 --> 01:20:16.060]   the ultimate victory,
+[01:20:16.060 --> 01:20:19.620]   the season ended with the ultimate victory,
+[01:20:19.620 --> 01:20:24.260]   the entire arena will erupt in celebration.
+[01:20:25.620 --> 01:20:28.420]   No one needs to be told what to do.
+[01:20:28.420 --> 01:20:31.780]   No further instructions are needed.
+[01:20:31.780 --> 01:20:36.020]   Even the PA announcer is unnecessary.
+[01:20:36.020 --> 01:20:41.900]   He's too busy jumping up and down and cheering himself.
+[01:20:41.900 --> 01:20:44.900]   He's forgetting that that's his work.
+[01:20:44.900 --> 01:20:49.900]   He's a fan, and he's elated like everybody else.
+[01:20:55.340 --> 01:20:57.980]   That's a, we get a taste of heaven
+[01:20:57.980 --> 01:21:03.580]   even during the mundane parts of the year.
+[01:21:03.580 --> 01:21:07.780]   I hope you have a wonderful Thanksgiving week
+[01:21:07.780 --> 01:21:09.020]   filled with reflection.
+[01:21:09.020 --> 01:21:12.900]   And hopefully it whets your appetite
+[01:21:12.900 --> 01:21:16.820]   for the Thanksgiving of all Thanksgivings, amen?
+[01:21:16.820 --> 01:21:21.940]   For God, the just is satisfied
+[01:21:23.300 --> 01:21:25.580]   to look on him and pardon me.
+[01:21:25.580 --> 01:21:29.020]   To look on him and pardon me.
+[01:21:29.020 --> 01:21:31.860]   And I'm gonna close with a familiar passage.
+[01:21:31.860 --> 01:21:34.740]   May it remind you of the real reason
+[01:21:34.740 --> 01:21:39.500]   to give real thanks this morning, Romans 8, 31 to 39.
+[01:21:39.500 --> 01:21:45.380]   What then shall we say to these things?
+[01:21:45.380 --> 01:21:51.060]   If God is for us, who is against us?
+[01:21:51.060 --> 01:21:54.700]   He who did not spare his own son,
+[01:21:54.700 --> 01:21:57.420]   but delivered him over for us all,
+[01:21:57.420 --> 01:22:02.420]   how will he not also with him freely give us all things?
+[01:22:02.420 --> 01:22:05.900]   Who will bring a charge against God's elect?
+[01:22:05.900 --> 01:22:08.180]   God is the one who justifies.
+[01:22:08.180 --> 01:22:10.300]   Who is the one who condemns?
+[01:22:10.300 --> 01:22:15.300]   Christ Jesus is he who died, yes, rather who was raised.
+[01:22:15.300 --> 01:22:17.220]   Who is at the right hand of God.
+[01:22:17.220 --> 01:22:21.300]   Who is also intercedes, present tense, for us.
+[01:22:21.300 --> 01:22:24.180]   Who will separate us from the love of Christ?
+[01:22:24.180 --> 01:22:28.460]   Will tribulation or distress, persecution or famine
+[01:22:28.460 --> 01:22:31.220]   or nakedness or peril or sword,
+[01:22:31.220 --> 01:22:35.260]   all that is in Hebrews as well, just as it is written,
+[01:22:35.260 --> 01:22:39.260]   for your sake we are being put to death all day long.
+[01:22:39.260 --> 01:22:42.100]   We were considered as sheep to be slaughtered,
+[01:22:42.100 --> 01:22:45.020]   but in all these things,
+[01:22:45.020 --> 01:22:49.220]   we overwhelmingly conquer through him who loved us.
+[01:22:49.220 --> 01:22:54.220]   For I am convinced that neither death nor life
+[01:22:54.220 --> 01:22:58.580]   nor angels nor principalities nor things present
+[01:22:58.580 --> 01:23:03.340]   nor things to come nor powers nor height nor depth
+[01:23:03.340 --> 01:23:08.340]   nor any other created thing will be able to separate us
+[01:23:08.340 --> 01:23:11.340]   from the love of God, which is in Christ Jesus,
+[01:23:11.340 --> 01:23:13.420]   our Lord, hallelujah.
+[01:23:13.420 --> 01:23:16.840]   (congregation laughing)
+[01:23:16.840 --> 01:23:19.360]   What are we thankful for?
+[01:23:19.360 --> 01:23:22.220]   Let's pray together.
+[01:23:22.220 --> 01:23:28.260]   I wanna give you a minute to just answer that question,
+[01:23:28.260 --> 01:23:29.560]   what are you thankful for?
+[01:23:29.560 --> 01:23:34.940]   And if you're having a hard time figuring out
+[01:23:34.940 --> 01:23:36.660]   what to be thankful for,
+[01:23:36.660 --> 01:23:40.000]   there is an impediment that is there.
+[01:23:42.180 --> 01:23:46.260]   My encouragement to you is that you ask the Lord
+[01:23:46.260 --> 01:23:47.380]   to draw near,
+[01:23:47.380 --> 01:23:53.280]   to show his character to you.
+[01:23:53.280 --> 01:23:57.640]   And if you've tasted the kindness and the goodness
+[01:23:57.640 --> 01:23:58.620]   of the love of God,
+[01:23:58.620 --> 01:24:03.820]   offer him a genuine prayer of thanksgiving,
+[01:24:03.820 --> 01:24:07.600]   not for what he gives, but for what he has done.
+[01:24:08.600 --> 01:24:11.180]   (gentle music)
+[01:24:11.180 --> 01:24:13.760]   (gentle music)
+[01:24:13.760 --> 01:24:16.340]   (gentle music)
+[01:24:16.340 --> 01:24:18.920]   (gentle music)
+[01:24:18.920 --> 01:24:25.960]   (gentle music)
+[01:24:25.960 --> 01:24:30.800]   (gentle music)
+[01:24:30.800 --> 01:24:36.760]   (gentle music)
+[01:24:36.760 --> 01:24:43.320]   (gentle music)
+[01:24:43.320 --> 01:24:45.900]   (gentle music)
+[01:24:45.900 --> 01:24:59.980]   Father, we give thanks, we bless your name,
+[01:24:59.980 --> 01:25:04.120]   because you are worthy of all praise.
+[01:25:04.120 --> 01:25:09.080]   And we submit ourselves to our purpose,
+[01:25:09.080 --> 01:25:11.720]   which is to give you glory.
+[01:25:12.720 --> 01:25:14.320]   And to give you thanks.
+[01:25:14.320 --> 01:25:17.920]   So thank you, Lord, for the blood of Christ,
+[01:25:17.920 --> 01:25:22.920]   which has given us access to the throne of grace.
+[01:25:22.920 --> 01:25:27.920]   And help us to be a thankful people, a joyful people,
+[01:25:27.920 --> 01:25:29.320]   a compassionate people,
+[01:25:29.320 --> 01:25:34.080]   so that the world will know that you are a good God
+[01:25:34.080 --> 01:25:38.920]   by our testimony in our lives, amen.
+[01:25:40.920 --> 01:25:43.840]   Church family, let's go ahead and stand together
+[01:25:43.840 --> 01:25:44.680]   as we close.
+[01:25:44.680 --> 01:25:49.820]   (gentle music)
+[01:25:49.820 --> 01:25:58.400]   Before the throne.
+[01:25:58.400 --> 01:26:04.520]   ♪ Before the throne of God above ♪
+[01:26:04.520 --> 01:26:09.600]   ♪ I have a strong and perfect place ♪
+[01:26:10.080 --> 01:26:15.080]   ♪ Where I praise to whose name is love ♪
+[01:26:15.080 --> 01:26:20.120]   ♪ Whoever lives and prays for me ♪
+[01:26:20.120 --> 01:26:25.160]   ♪ My name is graven on his hands ♪
+[01:26:25.160 --> 01:26:30.200]   ♪ My name is written on his heart ♪
+[01:26:30.200 --> 01:26:35.520]   ♪ I know that while in heaven he stands ♪
+[01:26:35.560 --> 01:26:40.560]   ♪ No tongue can bear me thus defied ♪
+[01:26:40.560 --> 01:26:45.100]   ♪ No tongue can bear me thus defied ♪
+[01:26:45.100 --> 01:26:53.560]   ♪ When Satan tells ♪
+[01:26:53.560 --> 01:26:58.560]   ♪ When Satan tells me to despair ♪
+[01:26:58.560 --> 01:27:03.600]   ♪ And tells me of the guilt within ♪
+[01:27:03.800 --> 01:27:08.800]   ♪ Upward I look and see him there ♪
+[01:27:08.800 --> 01:27:13.920]   ♪ Who made an end to all my sin ♪
+[01:27:13.920 --> 01:27:19.080]   ♪ Because the sinless Savior died ♪
+[01:27:19.080 --> 01:27:24.200]   ♪ My sinful soul is counted free ♪
+[01:27:24.200 --> 01:27:29.360]   ♪ For God the just is satisfied ♪
+[01:27:29.400 --> 01:27:34.400]   ♪ To look on him and pardon me ♪
+[01:27:34.400 --> 01:27:38.560]   ♪ To look on him and pardon me ♪
+[01:27:38.560 --> 01:27:52.640]   ♪ In golden bed of risen lamb ♪
+[01:27:52.640 --> 01:27:57.640]   ♪ My perfect spotless righteousness ♪
+[01:27:57.760 --> 01:28:02.760]   ♪ The brave unchangeable I am ♪
+[01:28:02.760 --> 01:28:07.880]   ♪ The king of glory and of grace ♪
+[01:28:07.880 --> 01:28:13.000]   ♪ One with himself I cannot die ♪
+[01:28:13.000 --> 01:28:18.120]   ♪ My soul is purchased by his blood ♪
+[01:28:18.120 --> 01:28:23.280]   ♪ My life is given Christ on high ♪
+[01:28:23.440 --> 01:28:28.440]   ♪ With Christ my Savior and my God ♪
+[01:28:28.440 --> 01:28:33.600]   ♪ With Christ my Savior and my God ♪
+[01:28:33.600 --> 01:28:38.720]   ♪ One with himself I cannot die ♪
+[01:28:38.720 --> 01:28:43.880]   ♪ My soul is purchased by his blood ♪
+[01:28:43.880 --> 01:28:49.040]   ♪ My life is given Christ on high ♪
+[01:28:50.000 --> 01:28:55.000]   ♪ With Christ my Savior and my God ♪
+[01:28:55.000 --> 01:29:00.080]   ♪ With Christ my Savior and my God ♪
+[01:29:00.080 --> 01:29:07.720]   - Now may the grace of our Lord Jesus Christ
+[01:29:07.720 --> 01:29:09.320]   and the love of God the Father
+[01:29:09.320 --> 01:29:12.320]   and the fellowship of the Holy Spirit
+[01:29:12.320 --> 01:29:16.080]   be with each and every one of us
+[01:29:16.080 --> 01:29:19.400]   who has tasted and seen the kindness
+[01:29:19.400 --> 01:29:21.120]   and the goodness of the grace of God
+[01:29:21.120 --> 01:29:23.120]   now and forever, amen.
+[01:29:23.120 --> 01:29:29.760]   ♪ God sent his Son ♪
+[01:29:29.760 --> 01:29:35.240]   ♪ They called him Jesus ♪
+[01:29:35.240 --> 01:29:41.160]   ♪ He came to love ♪
+[01:29:41.160 --> 01:29:46.840]   ♪ Heal and forgive ♪
+[01:29:47.520 --> 01:29:52.520]   ♪ He lived and died ♪
+[01:29:52.520 --> 01:29:58.240]   ♪ To buy my pardon ♪
+[01:29:58.240 --> 01:30:04.440]   ♪ An empty grave is there to prove ♪
+[01:30:04.440 --> 01:30:10.680]   ♪ My Savior lived ♪
+[01:30:10.680 --> 01:30:16.320]   ♪ Because he lived ♪
+[01:30:17.200 --> 01:30:22.200]   ♪ I can face tomorrow ♪
+[01:30:22.200 --> 01:30:28.560]   ♪ Because he lived ♪
+[01:30:28.560 --> 01:30:34.520]   ♪ All fear is gone ♪
+[01:30:34.520 --> 01:30:40.360]   ♪ Because I know ♪
+[01:30:40.360 --> 01:30:46.320]   ♪ He holds the future ♪
+[01:30:47.320 --> 01:30:52.320]   ♪ And life is worth the living ♪
+[01:30:52.320 --> 01:30:56.180]   ♪ Just because he lived ♪
+[01:30:56.180 --> 01:31:02.160]   - Amen.
+[01:31:02.160 --> 01:31:13.040]   ♪ Still we are in the worst day ♪
+[01:31:13.040 --> 01:31:17.120]   ♪ 'Cause the world's broken up ♪
+[01:31:17.120 --> 01:31:20.200]   - Elder Joe, you sound like a problem.
+[01:31:20.200 --> 01:31:21.700]   - It's hard, huh?
+[01:31:21.700 --> 01:31:26.700]   ♪ I'm still in the worst day ♪
+[01:31:26.700 --> 01:31:31.220]   ♪ Feel the death so hard to bear ♪
+[01:31:31.220 --> 01:31:35.560]   ♪ Death, you die, the way time goes ♪
+[01:31:35.560 --> 01:31:38.880]   ♪ There ain't a way to go ♪
+[01:31:38.880 --> 01:31:41.880]   ♪ So where do you go ♪
+[01:31:41.880 --> 01:31:44.880]   ♪ Where do you go ♪
+[01:31:44.880 --> 01:31:49.880]   ♪ Jesus Christ, I miss you ♪
+[01:31:49.880 --> 01:31:52.880]   ♪ I miss you ♪
+[01:31:52.880 --> 01:31:56.380]   ♪ I want all of you to be ♪
+[01:31:56.380 --> 01:31:58.000]   ♪ I miss you ♪
+

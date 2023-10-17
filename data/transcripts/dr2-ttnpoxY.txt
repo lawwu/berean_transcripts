@@ -1,0 +1,884 @@
+
+[00:00:00.000 --> 00:00:10.000]   [BLANK_AUDIO]
+[00:00:10.000 --> 00:00:20.000]   [BLANK_AUDIO]
+[00:00:20.000 --> 00:00:30.000]   [BLANK_AUDIO]
+[00:00:30.000 --> 00:00:40.000]   [BLANK_AUDIO]
+[00:00:40.000 --> 00:00:50.000]   [BLANK_AUDIO]
+[00:00:50.000 --> 00:01:00.000]   [BLANK_AUDIO]
+[00:01:00.000 --> 00:01:10.000]   [BLANK_AUDIO]
+[00:01:10.000 --> 00:01:20.000]   [BLANK_AUDIO]
+[00:01:20.000 --> 00:01:30.000]   [BLANK_AUDIO]
+[00:01:30.000 --> 00:01:40.000]   [BLANK_AUDIO]
+[00:01:40.000 --> 00:01:50.000]   [BLANK_AUDIO]
+[00:01:50.000 --> 00:02:00.000]   [BLANK_AUDIO]
+[00:02:00.000 --> 00:02:10.000]   [BLANK_AUDIO]
+[00:02:10.000 --> 00:02:20.000]   [BLANK_AUDIO]
+[00:02:20.000 --> 00:02:30.000]   [BLANK_AUDIO]
+[00:02:30.000 --> 00:02:40.000]   [BLANK_AUDIO]
+[00:02:40.000 --> 00:02:50.000]   [BLANK_AUDIO]
+[00:02:50.000 --> 00:03:00.000]   [BLANK_AUDIO]
+[00:03:00.000 --> 00:03:10.000]   [BLANK_AUDIO]
+[00:03:10.000 --> 00:03:20.000]   [BLANK_AUDIO]
+[00:03:20.000 --> 00:03:30.000]   [BLANK_AUDIO]
+[00:03:30.000 --> 00:03:40.000]   [BLANK_AUDIO]
+[00:03:40.000 --> 00:03:50.000]   [BLANK_AUDIO]
+[00:03:50.000 --> 00:04:00.000]   [BLANK_AUDIO]
+[00:04:00.000 --> 00:04:10.000]   [BLANK_AUDIO]
+[00:04:10.000 --> 00:04:20.000]   [BLANK_AUDIO]
+[00:04:20.000 --> 00:04:30.000]   [BLANK_AUDIO]
+[00:04:30.000 --> 00:04:40.000]   [BLANK_AUDIO]
+[00:04:40.000 --> 00:04:50.000]   [BLANK_AUDIO]
+[00:04:50.000 --> 00:05:00.000]   [BLANK_AUDIO]
+[00:05:00.000 --> 00:05:10.000]   [BLANK_AUDIO]
+[00:05:10.000 --> 00:05:20.000]   [BLANK_AUDIO]
+[00:05:20.000 --> 00:05:30.000]   [BLANK_AUDIO]
+[00:05:30.000 --> 00:05:40.000]   [BLANK_AUDIO]
+[00:05:40.000 --> 00:05:50.000]   [BLANK_AUDIO]
+[00:05:50.000 --> 00:06:00.000]   [BLANK_AUDIO]
+[00:06:00.000 --> 00:06:10.000]   [BLANK_AUDIO]
+[00:06:10.000 --> 00:06:20.000]   [BLANK_AUDIO]
+[00:06:20.000 --> 00:06:30.000]   [BLANK_AUDIO]
+[00:06:30.000 --> 00:06:40.000]   [BLANK_AUDIO]
+[00:06:40.000 --> 00:06:50.000]   [BLANK_AUDIO]
+[00:06:50.000 --> 00:07:00.000]   [BLANK_AUDIO]
+[00:07:00.000 --> 00:07:10.000]   [BLANK_AUDIO]
+[00:07:10.000 --> 00:07:20.000]   [BLANK_AUDIO]
+[00:07:20.000 --> 00:07:30.000]   [BLANK_AUDIO]
+[00:07:30.000 --> 00:07:40.000]   [BLANK_AUDIO]
+[00:07:40.000 --> 00:07:50.000]   [BLANK_AUDIO]
+[00:07:50.000 --> 00:08:00.000]   [BLANK_AUDIO]
+[00:08:00.000 --> 00:08:10.000]   [BLANK_AUDIO]
+[00:08:10.000 --> 00:08:20.000]   [BLANK_AUDIO]
+[00:08:20.000 --> 00:08:30.000]   [BLANK_AUDIO]
+[00:08:30.000 --> 00:08:40.000]   [BLANK_AUDIO]
+[00:08:40.000 --> 00:08:50.000]   [BLANK_AUDIO]
+[00:08:50.000 --> 00:09:00.000]   [BLANK_AUDIO]
+[00:09:00.000 --> 00:09:10.000]   [BLANK_AUDIO]
+[00:09:10.000 --> 00:09:20.000]   [BLANK_AUDIO]
+[00:09:20.000 --> 00:09:30.000]   [BLANK_AUDIO]
+[00:09:30.000 --> 00:09:40.000]   [BLANK_AUDIO]
+[00:09:40.000 --> 00:09:50.000]   [BLANK_AUDIO]
+[00:09:50.000 --> 00:10:00.000]   [BLANK_AUDIO]
+[00:10:00.000 --> 00:10:10.000]   [BLANK_AUDIO]
+[00:10:10.000 --> 00:10:20.000]   [BLANK_AUDIO]
+[00:10:20.000 --> 00:10:30.000]   [BLANK_AUDIO]
+[00:10:30.000 --> 00:10:40.000]   [BLANK_AUDIO]
+[00:10:40.000 --> 00:10:50.000]   [BLANK_AUDIO]
+[00:10:50.000 --> 00:11:00.000]   [BLANK_AUDIO]
+[00:11:00.000 --> 00:11:10.000]   [BLANK_AUDIO]
+[00:11:10.000 --> 00:11:20.000]   [BLANK_AUDIO]
+[00:11:20.000 --> 00:11:30.000]   [BLANK_AUDIO]
+[00:11:30.000 --> 00:11:40.000]   [BLANK_AUDIO]
+[00:11:40.000 --> 00:11:50.000]   [BLANK_AUDIO]
+[00:11:50.000 --> 00:12:00.000]   [BLANK_AUDIO]
+[00:12:00.000 --> 00:12:10.000]   [BLANK_AUDIO]
+[00:12:10.000 --> 00:12:20.000]   [BLANK_AUDIO]
+[00:12:20.000 --> 00:12:30.000]   [BLANK_AUDIO]
+[00:12:30.000 --> 00:12:40.000]   [BLANK_AUDIO]
+[00:12:40.000 --> 00:12:50.000]   [BLANK_AUDIO]
+[00:12:50.000 --> 00:13:00.000]   [BLANK_AUDIO]
+[00:13:00.000 --> 00:13:10.000]   [BLANK_AUDIO]
+[00:13:10.000 --> 00:13:20.000]   [BLANK_AUDIO]
+[00:13:20.000 --> 00:13:30.000]   [BLANK_AUDIO]
+[00:13:30.000 --> 00:13:40.000]   [BLANK_AUDIO]
+[00:13:40.000 --> 00:13:50.000]   [BLANK_AUDIO]
+[00:13:50.000 --> 00:14:00.000]   [BLANK_AUDIO]
+[00:14:00.000 --> 00:14:10.000]   [BLANK_AUDIO]
+[00:14:10.000 --> 00:14:17.000]   [BLANK_AUDIO]
+[00:14:17.000 --> 00:14:18.000]   >> Good morning, church family.
+[00:14:18.000 --> 00:14:19.000]   Happy Lord's Day.
+[00:14:19.000 --> 00:14:21.000]   Hope all of you had a good week in the Lord.
+[00:14:21.000 --> 00:14:25.000]   And we're gonna go ahead and start our service by singing this hymn, Holy, Holy, Holy.
+[00:14:25.000 --> 00:14:30.000]   That as we reflect on his characteristics and his character of holiness,
+[00:14:30.000 --> 00:14:34.000]   that we approach our God in reverence and the honor he's due.
+[00:14:34.000 --> 00:14:44.000]   [BLANK_AUDIO]
+[00:14:44.000 --> 00:14:48.000]   [MUSIC]
+[00:14:48.000 --> 00:14:52.000]   >> Let's sing it together, come on.
+[00:14:52.000 --> 00:15:03.000]   >> Holy, holy, holy, Lord God almighty.
+[00:15:03.000 --> 00:15:15.000]   Early in the morning our song shall rise to thee.
+[00:15:15.000 --> 00:15:26.000]   Holy, holy, holy, merciful and mighty.
+[00:15:26.000 --> 00:15:37.000]   God in three persons, blessed Trinity.
+[00:15:37.000 --> 00:15:47.000]   [MUSIC]
+[00:15:47.000 --> 00:16:01.000]   Holy, holy, holy, all the saints adore thee.
+[00:16:01.000 --> 00:16:12.000]   Casting down their golden crowns around the glassy sea.
+[00:16:12.000 --> 00:16:24.000]   Chubb, womb and seraphim falling down before thee.
+[00:16:24.000 --> 00:16:34.000]   Who was and is and evermore shall be.
+[00:16:34.000 --> 00:16:44.000]   [MUSIC]
+[00:16:44.000 --> 00:16:58.000]   Holy, holy, holy, though the darkness hide thee.
+[00:16:58.000 --> 00:17:08.000]   Though the eye of sinful man thy glory may not see.
+[00:17:08.000 --> 00:17:20.000]   Holy thou art, holy, there is none beside thee.
+[00:17:20.000 --> 00:17:30.000]   Perfect in power, love and fury.
+[00:17:30.000 --> 00:17:40.000]   [MUSIC]
+[00:17:40.000 --> 00:17:50.000]   Holy, holy, holy, holy, holy.
+[00:17:50.000 --> 00:18:02.000]   Lord God almighty, all thy works shall praise thy name.
+[00:18:02.000 --> 00:18:08.000]   In earth and sky and sea.
+[00:18:08.000 --> 00:18:20.000]   Holy, holy, holy, merciful and mighty.
+[00:18:20.000 --> 00:18:28.000]   God in three persons, blessed Trinity.
+[00:18:28.000 --> 00:18:42.000]   God in three persons, blessed Trinity.
+[00:18:42.000 --> 00:18:48.000]   Amen.
+[00:18:48.000 --> 00:18:49.000]   All right, good morning.
+[00:18:49.000 --> 00:18:51.000]   Welcome to Bering Community Church.
+[00:18:51.000 --> 00:18:53.000]   Let me get to a few announcements before we get started.
+[00:18:53.000 --> 00:18:57.000]   First of all, this Friday we have praise and prayer for the whole church.
+[00:18:57.000 --> 00:19:03.000]   And so we'll be meeting at the church here at 730 both inside and out.
+[00:19:03.000 --> 00:19:09.000]   So, again, we highly encourage you guys to come and participate in the corporate time of prayer together.
+[00:19:09.000 --> 00:19:12.000]   As you have noticed, we are no longer enforcing the mask.
+[00:19:12.000 --> 00:19:18.000]   It's going to be voluntary as we are following the guidelines given to us by CDC.
+[00:19:18.000 --> 00:19:22.000]   So, again, if you wish to wear it, again, you're welcome to wear that for your own protection.
+[00:19:22.000 --> 00:19:24.000]   We will continue to have inside and outside.
+[00:19:24.000 --> 00:19:27.000]   And so those of you who are more comfortable, you're welcome to sit outside.
+[00:19:27.000 --> 00:19:32.000]   But, again, we will not be enforcing that anymore according to the guidelines that have been given to us.
+[00:19:32.000 --> 00:19:34.000]   Today is Father's Day.
+[00:19:34.000 --> 00:19:38.000]   Hopefully if this is the first time you're hearing it, shame on you.
+[00:19:38.000 --> 00:19:39.000]   Okay.
+[00:19:39.000 --> 00:19:41.000]   So Father's Day is today.
+[00:19:41.000 --> 00:19:49.000]   So after this service, if you can go to the cafe area as soon as possible, there's going to be a Father's Day lunch.
+[00:19:49.000 --> 00:19:52.000]   So even if you're just here as a guest and you haven't signed up, you're welcome to come.
+[00:19:52.000 --> 00:19:54.000]   I'm sure we'll have plenty of food.
+[00:19:54.000 --> 00:19:57.000]   And so we'll be assigned places to sit.
+[00:19:57.000 --> 00:19:59.000]   And so we'll celebrate Father's Day together.
+[00:19:59.000 --> 00:20:08.000]   If you are waiting for your husband or father, there will be pizza and stuff outside for the moms to wait if you choose to do that.
+[00:20:08.000 --> 00:20:12.000]   And so I think that's going to be set up somewhere out in the courtyard.
+[00:20:12.000 --> 00:20:14.000]   So please stick around for that.
+[00:20:14.000 --> 00:20:19.000]   And then, again, so if you can just help us to go there as soon as the thing is over,
+[00:20:19.000 --> 00:20:22.000]   and that will help us to get started as soon as possible.
+[00:20:22.000 --> 00:20:28.000]   July 4th, another round of membership class is taking place.
+[00:20:28.000 --> 00:20:31.000]   It's an eight-week course from 9 a.m. to 10.20.
+[00:20:31.000 --> 00:20:33.000]   Pastor Nate Kwak, our college pastor, is the one.
+[00:20:33.000 --> 00:20:35.000]   He's our point person for that.
+[00:20:35.000 --> 00:20:41.000]   If you don't know, it's an eight-week course where we go over the fundamental doctrines of the church and what we believe
+[00:20:41.000 --> 00:20:45.000]   and to make sure that people who are coming into the church know exactly what we stand for,
+[00:20:45.000 --> 00:20:48.000]   what doctrines we practice, what are the things that we believe.
+[00:20:48.000 --> 00:20:53.000]   It's an eight-week course that will be taking place also at the other building.
+[00:20:53.000 --> 00:20:57.000]   So if you go in there starting from July 4th during the first service time.
+[00:20:57.000 --> 00:21:01.000]   So please let him know that you're coming, and so they'll be able to prepare for that.
+[00:21:01.000 --> 00:21:06.000]   Registration for VBS, July 19th to 23rd.
+[00:21:06.000 --> 00:21:13.000]   So if your children are the age of three up to sixth grade, so sixth grade meaning your fifth grade going to sixth grade.
+[00:21:13.000 --> 00:21:18.000]   So if you're sixth grade going to seventh grade, there's youth group events and stuff that's prepared for you.
+[00:21:18.000 --> 00:21:24.000]   But for those children who are three who are potty trained, okay, so that's the guidelines that we've been giving.
+[00:21:24.000 --> 00:21:27.000]   Potty trained at three all the way up to sixth grade.
+[00:21:27.000 --> 00:21:31.000]   The VBS is taking place July 19th to 23rd.
+[00:21:31.000 --> 00:21:35.000]   The registration is closing on the 27th, so you only have about a week left to do that.
+[00:21:35.000 --> 00:21:37.000]   Is it a week? Yeah, a week left.
+[00:21:37.000 --> 00:21:43.000]   So if you guys can register as soon as you can, that'll help the people who are preparing to get things ready, the teachers and all that.
+[00:21:43.000 --> 00:21:47.000]   And along with that, if you are able to volunteer for that, please let them know.
+[00:21:47.000 --> 00:21:54.000]   In any capacity, if you want to volunteer, let Jane Shin, our sister, know, and she'll give you some guidelines as what needs to be prepared.
+[00:21:54.000 --> 00:21:55.000]   Okay? All right.
+[00:21:55.000 --> 00:22:00.000]   So let me pray for our offering, and we'll give you a few minutes to prepare for that online.
+[00:22:00.000 --> 00:22:05.000]   And also, if you have a physical check you want to give, there's a box stationed way in the back corner.
+[00:22:05.000 --> 00:22:09.000]   Okay? All right. Let me pray for us.
+[00:22:09.000 --> 00:22:16.000]   Heavenly Father, we thank you so much for the privilege that we have to serve you, especially on this Father's Day.
+[00:22:16.000 --> 00:22:23.000]   We pray, Father God, for your grace, the tremendous responsibility that fathers have been given,
+[00:22:23.000 --> 00:22:28.000]   especially now with what's going on around us and the school systems and the culture.
+[00:22:28.000 --> 00:22:34.000]   I pray that you would help all of us, Lord God, in our weakness to find strength in you.
+[00:22:34.000 --> 00:22:42.000]   We pray today as we give worship to you, even in our giving, help us to give it to you, Lord God, in an act of true worship.
+[00:22:42.000 --> 00:22:49.000]   May it be multiplied 30, 60, 100-fold for the sake of your kingdom. In Jesus' name we pray. Amen.
+[00:22:49.000 --> 00:22:52.000]   [Music]
+[00:22:53.000 --> 00:22:56.000]   [Music]
+[00:22:56.000 --> 00:22:59.000]   [Music]
+[00:22:59.000 --> 00:23:04.000]   [Music]
+[00:23:04.000 --> 00:23:09.000]   [Music]
+[00:23:09.000 --> 00:23:16.000]   [Music]
+[00:23:16.000 --> 00:23:25.000]   [Music]
+[00:23:26.000 --> 00:23:29.000]   [Music]
+[00:23:29.000 --> 00:23:34.000]   [Music]
+[00:23:34.000 --> 00:23:40.000]   [Music]
+[00:23:40.000 --> 00:23:47.000]   [Music]
+[00:23:51.000 --> 00:23:55.000]   Church family, let's all go ahead and rise together.
+[00:23:55.000 --> 00:24:03.000]   [Music]
+[00:24:03.000 --> 00:24:08.000]   [Music]
+[00:24:08.000 --> 00:24:16.000]   [Music]
+[00:24:17.000 --> 00:24:20.000]   [Music]
+[00:24:20.000 --> 00:24:26.000]   [Music]
+[00:24:26.000 --> 00:24:33.000]   [Music]
+[00:24:33.000 --> 00:24:45.000]   [Music]
+[00:24:46.000 --> 00:24:49.000]   [Music]
+[00:24:49.000 --> 00:24:58.000]   [Music]
+[00:24:58.000 --> 00:25:06.000]   [Music]
+[00:25:06.000 --> 00:25:13.000]   [Music]
+[00:25:14.000 --> 00:25:17.000]   [Music]
+[00:25:17.000 --> 00:25:23.000]   [Music]
+[00:25:23.000 --> 00:25:29.000]   [Music]
+[00:25:29.000 --> 00:25:38.000]   [Music]
+[00:25:39.000 --> 00:25:42.000]   [Music]
+[00:25:42.000 --> 00:25:48.000]   [Music]
+[00:25:48.000 --> 00:25:54.000]   [Music]
+[00:25:54.000 --> 00:26:00.000]   [Music]
+[00:26:00.000 --> 00:26:06.000]   [Music]
+[00:26:07.000 --> 00:26:10.000]   [Music]
+[00:26:10.000 --> 00:26:16.000]   [Music]
+[00:26:16.000 --> 00:26:21.000]   [Music]
+[00:26:21.000 --> 00:26:27.000]   [Music]
+[00:26:27.000 --> 00:26:33.000]   [Music]
+[00:26:34.000 --> 00:26:37.000]   [Music]
+[00:26:37.000 --> 00:26:43.000]   [Music]
+[00:26:43.000 --> 00:26:49.000]   [Music]
+[00:26:49.000 --> 00:26:55.000]   [Music]
+[00:26:55.000 --> 00:27:01.000]   [Music]
+[00:27:02.000 --> 00:27:05.000]   [Music]
+[00:27:05.000 --> 00:27:11.000]   [Music]
+[00:27:11.000 --> 00:27:16.000]   [Music]
+[00:27:16.000 --> 00:27:23.000]   [Music]
+[00:27:23.000 --> 00:27:30.000]   [Music]
+[00:27:31.000 --> 00:27:34.000]   [Music]
+[00:27:34.000 --> 00:27:40.000]   [Music]
+[00:27:40.000 --> 00:27:47.000]   [Music]
+[00:27:47.000 --> 00:27:54.000]   [Music]
+[00:27:58.000 --> 00:28:01.000]   [Music]
+[00:28:01.000 --> 00:28:07.000]   [Music]
+[00:28:07.000 --> 00:28:14.000]   [Music]
+[00:28:14.000 --> 00:28:21.000]   [Music]
+[00:28:22.000 --> 00:28:25.000]   [Music]
+[00:28:25.000 --> 00:28:31.000]   [Music]
+[00:28:31.000 --> 00:28:37.000]   [Music]
+[00:28:37.000 --> 00:28:43.000]   [Music]
+[00:28:43.000 --> 00:28:50.000]   [Music]
+[00:28:51.000 --> 00:28:54.000]   [Music]
+[00:28:54.000 --> 00:29:00.000]   [Music]
+[00:29:00.000 --> 00:29:07.000]   [Music]
+[00:29:07.000 --> 00:29:15.000]   [Music]
+[00:29:16.000 --> 00:29:19.000]   [Music]
+[00:29:19.000 --> 00:29:25.000]   [Music]
+[00:29:25.000 --> 00:29:32.000]   [Music]
+[00:29:32.000 --> 00:29:41.000]   [Music]
+[00:29:42.000 --> 00:29:45.000]   [Music]
+[00:29:45.000 --> 00:29:51.000]   [Music]
+[00:29:51.000 --> 00:29:57.000]   [Music]
+[00:29:57.000 --> 00:30:03.000]   [Music]
+[00:30:03.000 --> 00:30:10.000]   [Music]
+[00:30:11.000 --> 00:30:14.000]   [Music]
+[00:30:14.000 --> 00:30:20.000]   [Music]
+[00:30:20.000 --> 00:30:27.000]   [Music]
+[00:30:27.000 --> 00:30:34.000]   [Music]
+[00:30:38.000 --> 00:30:41.000]   [Music]
+[00:30:41.000 --> 00:30:47.000]   [Music]
+[00:30:47.000 --> 00:30:54.000]   [Music]
+[00:30:54.000 --> 00:31:07.000]   [Music]
+[00:31:08.000 --> 00:31:11.000]   [Music]
+[00:31:11.000 --> 00:31:17.000]   [Music]
+[00:31:17.000 --> 00:31:23.000]   [Music]
+[00:31:23.000 --> 00:31:29.000]   [Music]
+[00:31:29.000 --> 00:31:36.000]   [Music]
+[00:31:37.000 --> 00:31:40.000]   [Music]
+[00:31:40.000 --> 00:31:46.000]   [Music]
+[00:31:46.000 --> 00:31:53.000]   [Music]
+[00:31:53.000 --> 00:32:03.000]   [Music]
+[00:32:04.000 --> 00:32:07.000]   [Music]
+[00:32:07.000 --> 00:32:13.000]   [Music]
+[00:32:13.000 --> 00:32:20.000]   [Music]
+[00:32:31.000 --> 00:32:34.000]   All right, please turn your Bibles with me to Hebrews chapter 12.
+[00:32:34.000 --> 00:32:39.000]   We're going to be looking at verses 14, mainly just verse 14 today,
+[00:32:39.000 --> 00:32:43.000]   but I want to read all the way up to verse 17.
+[00:32:43.000 --> 00:32:48.000]   Hebrews chapter 12, verses 14 through 17, reading out of the NASB.
+[00:32:48.000 --> 00:32:58.000]   "Pursue peace with all men, and a sanctification without which no one will see the Lord.
+[00:32:58.000 --> 00:33:01.000]   See to it that no one comes short of the grace of God,
+[00:33:01.000 --> 00:33:06.000]   that no root of bitterness springs up, causes trouble, and by it many defiled.
+[00:33:06.000 --> 00:33:09.000]   That there be no immoral or godless person like Esau,
+[00:33:09.000 --> 00:33:12.000]   who sold his own birthright for a single meal.
+[00:33:12.000 --> 00:33:16.000]   For you know that even afterwards, when he desired to inherit the blessing,
+[00:33:16.000 --> 00:33:19.000]   he was rejected, for he found no place for repentance,
+[00:33:19.000 --> 00:33:21.000]   though he sought for it with tears."
+[00:33:21.000 --> 00:33:23.000]   Let's pray.
+[00:33:23.000 --> 00:33:27.000]   Heavenly Father, we pray for guidance,
+[00:33:27.000 --> 00:33:32.000]   I pray that you would protect this pulpit, that only your word would go forth.
+[00:33:32.000 --> 00:33:39.000]   I pray that the hearers, Lord God, will filter only your word to cherish in their hearts.
+[00:33:39.000 --> 00:33:42.000]   And we ask, Lord God, that your Holy Spirit would guide and lead us,
+[00:33:42.000 --> 00:33:46.000]   that we may understand your word. In Jesus' name we pray, amen.
+[00:33:46.000 --> 00:33:53.000]   Now, I've shared before that, you know, I grew up in a Presbyterian home,
+[00:33:53.000 --> 00:33:58.000]   but I got saved in a very charismatic para-church ministry.
+[00:33:58.000 --> 00:34:02.000]   I was really into discipleship, one-to-one discipleship from navigators.
+[00:34:02.000 --> 00:34:08.000]   And so, when I became a Christian, obviously, like I knew that world well.
+[00:34:08.000 --> 00:34:11.000]   Everybody that I knew was from that charismatic camp,
+[00:34:11.000 --> 00:34:13.000]   and the people that I looked up to.
+[00:34:13.000 --> 00:34:16.000]   So my faith started within that camp.
+[00:34:16.000 --> 00:34:19.000]   But after about four or five years of being in that ministry,
+[00:34:19.000 --> 00:34:21.000]   there are certain things that I noticed,
+[00:34:21.000 --> 00:34:24.000]   that I couldn't reconcile with what I was reading in Scripture.
+[00:34:24.000 --> 00:34:28.000]   And so I began to ask them questions.
+[00:34:28.000 --> 00:34:30.000]   Well, you know, this pastor says this, why do we practice this way?
+[00:34:30.000 --> 00:34:32.000]   This pastor says that, why do we practice that way?
+[00:34:32.000 --> 00:34:36.000]   And so the answers that I was getting was not satisfactory,
+[00:34:36.000 --> 00:34:40.000]   because the typical answer would be, Peter, you're a troublemaker.
+[00:34:40.000 --> 00:34:44.000]   Right? You just accept it. It doesn't bother anybody.
+[00:34:44.000 --> 00:34:46.000]   Right? And so it was kind of brushed under.
+[00:34:46.000 --> 00:34:51.000]   And so, for a while, you know, I lived with, they're more mature than me.
+[00:34:51.000 --> 00:34:54.000]   They pray more than I do. Obviously, they studied more than I do.
+[00:34:54.000 --> 00:34:58.000]   And I was, what, 23 years old at that time, 22, 23.
+[00:34:58.000 --> 00:35:03.000]   And so as I was wrestling with this, after years of trying to find out,
+[00:35:03.000 --> 00:35:06.000]   what does the Bible say and how do we apply this?
+[00:35:06.000 --> 00:35:08.000]   Because I was already a Bible major in undergrad,
+[00:35:08.000 --> 00:35:11.000]   and I was entering into seminary.
+[00:35:11.000 --> 00:35:19.000]   And I came to the conclusion that I can't just put my confidence in these leaders.
+[00:35:19.000 --> 00:35:24.000]   Because historically, the leadership, in certain periods of time,
+[00:35:24.000 --> 00:35:27.000]   have made very poor decisions.
+[00:35:27.000 --> 00:35:32.000]   You and I are called Protestants because people protested what the church was doing.
+[00:35:32.000 --> 00:35:36.000]   And the answer that was given to them is, well, trust us, we know the Bible.
+[00:35:36.000 --> 00:35:39.000]   The Pope knows the Bible. They're closer to God than you are.
+[00:35:39.000 --> 00:35:42.000]   And so we are called Protestants because we protested,
+[00:35:42.000 --> 00:35:45.000]   we tested everything by the Word of God.
+[00:35:45.000 --> 00:35:48.000]   And so I came to the conclusion, as difficult as it was,
+[00:35:48.000 --> 00:35:51.000]   because these were my leaders. These are the people that I respected.
+[00:35:51.000 --> 00:35:54.000]   They're the ones who influenced my spiritual life more than anybody else,
+[00:35:54.000 --> 00:35:57.000]   at least as a Christian.
+[00:35:57.000 --> 00:36:00.000]   But once I made that decision, I knew the ramification of that.
+[00:36:00.000 --> 00:36:05.000]   That all my friends that was in that ministry, all the people that I looked up to,
+[00:36:05.000 --> 00:36:08.000]   people that I gained counsel from, people who loved me and I loved back,
+[00:36:08.000 --> 00:36:12.000]   and I respected that I would end up having to leave that
+[00:36:12.000 --> 00:36:17.000]   and then just walk out into a place where I knew that I was just going to be on my own.
+[00:36:17.000 --> 00:36:22.000]   But I could not reconcile what I was seeing with Scripture with what was being practiced.
+[00:36:22.000 --> 00:36:24.000]   So I made that decision. I broke off.
+[00:36:24.000 --> 00:36:30.000]   And again, that's why even to this day, our church name is Berean Community Church
+[00:36:30.000 --> 00:36:34.000]   because they tested everything that Apostle Paul said.
+[00:36:34.000 --> 00:36:40.000]   And so the reason why I share this is if there was any time in human history
+[00:36:40.000 --> 00:36:47.000]   where bad doctrine can penetrate into the church so quickly, it's today.
+[00:36:47.000 --> 00:36:52.000]   We have a generation of people, we're not just talking about where we are at,
+[00:36:52.000 --> 00:36:58.000]   but just all across the board, where biblical illiteracy is so high
+[00:36:58.000 --> 00:37:05.000]   that almost anything that is said up in the pulpit is not being filtered by Scripture,
+[00:37:05.000 --> 00:37:08.000]   but by the individual's moral compass.
+[00:37:08.000 --> 00:37:10.000]   Does that seem right? Does that seem fair?
+[00:37:10.000 --> 00:37:14.000]   Does that seem like what Jesus would say?
+[00:37:14.000 --> 00:37:17.000]   And based on that, it would come in or out.
+[00:37:17.000 --> 00:37:19.000]   See, Matthew 24, 23, it says,
+[00:37:19.000 --> 00:37:24.000]   "For false Christs and false prophets will arise and will show great signs and wonders
+[00:37:24.000 --> 00:37:28.000]   so as to mislead, if possible, even the elect."
+[00:37:28.000 --> 00:37:32.000]   He says that the greatest destruction of the church, the temptation of the church,
+[00:37:32.000 --> 00:37:37.000]   is going to come through people who are claiming to be speaking for God.
+[00:37:37.000 --> 00:37:42.000]   And then he says the delusion is going to be so great that even the elect, if possible,
+[00:37:42.000 --> 00:37:46.000]   meaning that if you're truly elect, you would not be caught up in this.
+[00:37:46.000 --> 00:37:50.000]   But what he is describing is a mass exodus in the church
+[00:37:50.000 --> 00:37:53.000]   who we thought for sure they were Christians,
+[00:37:53.000 --> 00:37:56.000]   but because of this delusional teaching of these false prophets,
+[00:37:56.000 --> 00:37:58.000]   he says many are going to be dropping out.
+[00:37:58.000 --> 00:38:03.000]   If there's any period of time where the church is prepared for that,
+[00:38:03.000 --> 00:38:08.000]   where we've laid the foundation where this can easily happen is today.
+[00:38:08.000 --> 00:38:13.000]   Before, you'd have to have a seminary degree, have some sort of filter to get on the pulpit,
+[00:38:13.000 --> 00:38:18.000]   and then even if there's bad teaching, it would usually be limited to that church
+[00:38:18.000 --> 00:38:21.000]   or the influence that they are able to have physically.
+[00:38:21.000 --> 00:38:27.000]   Today, you can get on the internet, start a blog, or you can do some video, whatever,
+[00:38:27.000 --> 00:38:32.000]   and you don't know who this person is, but if they have a large following, 100,000, 200,000,
+[00:38:32.000 --> 00:38:38.000]   whatever they say is being absorbed by the new generation of Christians
+[00:38:38.000 --> 00:38:42.000]   without being able to test, is that really true?
+[00:38:42.000 --> 00:38:47.000]   So if you have enough people with influence, enough people who are popular,
+[00:38:47.000 --> 00:38:52.000]   repeat these statements, the only filter that they have is, "I think that's true.
+[00:38:52.000 --> 00:38:55.000]   I like this, and I don't like this."
+[00:38:55.000 --> 00:39:01.000]   And so again, we are in a very dangerous time when bad doctrine can just come in
+[00:39:01.000 --> 00:39:05.000]   and not just spoil one church, but immediately spoil the whole church,
+[00:39:05.000 --> 00:39:07.000]   almost instantaneously.
+[00:39:07.000 --> 00:39:11.000]   So if there's any period in time where the church needs to cling to the Word of God
+[00:39:11.000 --> 00:39:18.000]   and is able to test what is coming off of not just this pulpit, but any pulpit, it is today.
+[00:39:18.000 --> 00:39:24.000]   In Jeremiah 23, 21, it says, "I did not send these prophets, but they ran.
+[00:39:24.000 --> 00:39:28.000]   I did not speak to them, but they prophesied."
+[00:39:28.000 --> 00:39:33.000]   One of the biggest problems that we have in our generation is a typical way
+[00:39:33.000 --> 00:39:38.000]   that somebody would come into ministry and get a pulpit to have an audience is,
+[00:39:38.000 --> 00:39:40.000]   you just have to want it.
+[00:39:40.000 --> 00:39:46.000]   Whatever the motivation is, whatever your desire is, no matter what your life looks like,
+[00:39:46.000 --> 00:39:52.000]   no matter what kind of character that you have, if you desire it and you choose to go to seminary,
+[00:39:52.000 --> 00:39:55.000]   and then once you go to seminary, you are a pastor.
+[00:39:55.000 --> 00:40:00.000]   You'll find some church somewhere to give you a pulpit to preach on, almost anywhere.
+[00:40:00.000 --> 00:40:04.000]   It doesn't matter what kind of background it is because there is almost no filter.
+[00:40:04.000 --> 00:40:10.000]   Once you get into the pulpit and you get that title, you have the same authority as anybody else.
+[00:40:10.000 --> 00:40:15.000]   You have the same authority to be able to say, "This is what the Word of God says because I went to seminary,
+[00:40:15.000 --> 00:40:17.000]   because I have a pulpit, I'm called a pastor."
+[00:40:17.000 --> 00:40:22.000]   And so now, because of the Internet, that individual has an audience.
+[00:40:22.000 --> 00:40:26.000]   If he is talented enough, if he's gifted enough, and if he has enough following,
+[00:40:26.000 --> 00:40:32.000]   all of a sudden he can influence not only his church, but nationally, maybe even internationally.
+[00:40:32.000 --> 00:40:42.000]   So the groundwork has been set for the Antichrist to have its greatest impact in our generation.
+[00:40:42.000 --> 00:40:47.000]   Jeremiah 23, 36, it says, "For you will no longer remember the oracle of the Lord,
+[00:40:47.000 --> 00:40:52.000]   because every man's own word will become the oracle."
+[00:40:52.000 --> 00:40:57.000]   God warns us, even the time of Jeremiah, when people are coming and saying,
+[00:40:57.000 --> 00:41:03.000]   "Thus saith the Lord," but they're actually repeating their own thoughts, their own words.
+[00:41:03.000 --> 00:41:08.000]   "And you have perverted the words of the living God, the Lord of hosts, our God."
+[00:41:08.000 --> 00:41:15.000]   I usually don't do this. I usually don't do this because I don't want to get political.
+[00:41:15.000 --> 00:41:20.000]   That's not the point of a Sunday sermon. Sunday sermon is I want to teach the Word of God plainly,
+[00:41:20.000 --> 00:41:25.000]   and then let you apply it the way God convicts you according to what the Word of God says.
+[00:41:25.000 --> 00:41:32.000]   But I want to give you a quote from a man who has been the head of Southern Baptist Convention.
+[00:41:32.000 --> 00:41:38.000]   And I know this is going to disturb some people, but I feel that necessary, and I'll explain to you why I'm doing this.
+[00:41:38.000 --> 00:41:43.000]   J.D. Greer has been the president of Southern Baptist Convention for several years,
+[00:41:43.000 --> 00:41:50.000]   and he said this in the context of a sermon.
+[00:41:50.000 --> 00:41:56.000]   And I want to read you this quote, and I want to tell you the reason why I'm quoting this to you.
+[00:41:56.000 --> 00:42:00.000]   J.D. Greer says, "We ought to whisper about what the Bible whispers about,
+[00:42:00.000 --> 00:42:03.000]   and we ought to shout about what the Bible shouts about."
+[00:42:03.000 --> 00:42:08.000]   Up to that point, 100% agreement. We need to be faithful to the Word of God.
+[00:42:08.000 --> 00:42:15.000]   Every preacher who's up in the pulpit will be judged according to how well he represents the Word of God.
+[00:42:15.000 --> 00:42:21.000]   So what he says is true. And then he says, and this is the part that shook up a lot of people,
+[00:42:21.000 --> 00:42:31.000]   "The Bible appears more to whisper when it comes to sexual sin compared to it shouts about materialism and religious pride."
+[00:42:31.000 --> 00:42:36.000]   The reason why I share this with you is because most false doctrine comes into the church in this manner,
+[00:42:36.000 --> 00:42:39.000]   through people who are influential.
+[00:42:39.000 --> 00:42:41.000]   Now, what part of this is a problem?
+[00:42:41.000 --> 00:42:46.000]   The second part is not the problem when he says he shouts about materialism and religious pride,
+[00:42:46.000 --> 00:42:50.000]   because the Bible does shout about materialism and religious pride.
+[00:42:50.000 --> 00:42:55.000]   The part that was controversial was, but he whispers when it comes to sexual sin.
+[00:42:55.000 --> 00:42:57.000]   Now, why did he say this?
+[00:42:57.000 --> 00:43:03.000]   He said this in the context of trying to get people who are voting for Trump not to vote for him.
+[00:43:03.000 --> 00:43:12.000]   Because he said that we're choosing a political party based upon our desire,
+[00:43:12.000 --> 00:43:19.000]   because the Democratic Party was pushing the agenda that sexuality is going to be equated with,
+[00:43:19.000 --> 00:43:24.000]   whether you're homosexual or transgender, it's going to be equated with a people group.
+[00:43:24.000 --> 00:43:31.000]   So therefore, if you discriminate, even as a church, if you discriminate and you don't hire a homosexual,
+[00:43:31.000 --> 00:43:37.000]   that they want to pass laws where your non-private status will be taken away, you'll be fine.
+[00:43:37.000 --> 00:43:43.000]   You'll be treated like if we said we're renting a property and we won't give it to the black community or the Hispanic community.
+[00:43:43.000 --> 00:43:49.000]   You'll be treated with the same kind of standard that you would for sexual preference, as they say.
+[00:43:49.000 --> 00:43:54.000]   And so he's saying, what he's saying is not, "I'm okay with that."
+[00:43:54.000 --> 00:44:00.000]   He's saying that the Bible whispers about sexual immorality.
+[00:44:00.000 --> 00:44:03.000]   But it screams about the things that the Democratic Party is pushing.
+[00:44:03.000 --> 00:44:08.000]   Now, the point of my sermon today is not to tell you I am a Republican. I'm a proud Republican.
+[00:44:08.000 --> 00:44:14.000]   But I'm not here to preach about politics. What I'm trying to preach to you about is the word of God.
+[00:44:14.000 --> 00:44:21.000]   When I first read this, my first reaction was, "Are we even reading the same Bible?"
+[00:44:21.000 --> 00:44:30.000]   And this is the common response that I got from most of my friends who, no matter what political party they are in,
+[00:44:30.000 --> 00:44:37.000]   who are into the word of God, is, "Are we reading the same? How can this come out of somebody who's this influential?"
+[00:44:37.000 --> 00:44:48.000]   And 1 Peter 2.11 says, "Beloved, I urge you as aliens and strangers to abstain from fleshly lusts, pornea, which wage war against the soul."
+[00:44:48.000 --> 00:44:54.000]   Wages war against the soul. That does not sound like a whisper.
+[00:44:54.000 --> 00:45:02.000]   1 Corinthians 6.18, "Flee immorality." The word in Greek is pornea, where some of your Bible translation is sexual immorality.
+[00:45:02.000 --> 00:45:08.000]   Flee. Not to fight it, not have discussions about it. He says to flee.
+[00:45:08.000 --> 00:45:15.000]   Every other sin that a man commits is outside the body. You see how he elevates sexual immorality with every other sin?
+[00:45:15.000 --> 00:45:20.000]   That doesn't sound like a whisper. Every other sin that commits is outside the body.
+[00:45:20.000 --> 00:45:24.000]   Immoral man, sexually immoral man sins against his own body.
+[00:45:24.000 --> 00:45:27.000]   1 Thessalonians 4.3, "You struggle with what is the will of God?"
+[00:45:27.000 --> 00:45:36.000]   He said, "Well, here's the will of God, for this is the will of God, your sanctification. That is that you abstain from sexual immorality."
+[00:45:36.000 --> 00:45:44.000]   Now, test me. He picked four verses, three verses in the context to try to make his point.
+[00:45:44.000 --> 00:45:48.000]   How will you know if what I'm saying is true or not?
+[00:45:48.000 --> 00:45:50.000]   If you don't have the word of God, you won't.
+[00:45:50.000 --> 00:45:55.000]   So, truth will depend on how good of a job I do presenting today.
+[00:45:55.000 --> 00:46:01.000]   So, if I'm articulate, tell you some funny stories, and then I say some nice things that maybe you already agree,
+[00:46:01.000 --> 00:46:05.000]   and you'll leave this room thinking like, "Yes! It's confirmed!"
+[00:46:05.000 --> 00:46:09.000]   Or maybe you came into this room with a different bent.
+[00:46:09.000 --> 00:46:13.000]   "Our church is too conservative, and I think those things are right."
+[00:46:13.000 --> 00:46:16.000]   And then what I'm saying is like, "Oh, you're just picking it out of context."
+[00:46:16.000 --> 00:46:23.000]   But you don't have the ability to filter if it's true or not, because you're not testing it with the word of God.
+[00:46:23.000 --> 00:46:26.000]   You're testing it with your own moral center.
+[00:46:26.000 --> 00:46:30.000]   That sounds good to me. That doesn't sound right to me.
+[00:46:30.000 --> 00:46:37.000]   So, everything that bothers me, and everything that I accept is already determined by what we brought into this room.
+[00:46:37.000 --> 00:46:43.000]   Instead of testing it, and filtering it, and allow the word of God to test the thoughts and intentions of my heart,
+[00:46:43.000 --> 00:46:51.000]   and if things that I am thinking and applying is not biblical, we are to change, not the word of God.
+[00:46:51.000 --> 00:47:00.000]   And the reason, again, why I say it, and I even attach his name to it, is because this is how the church gets corrupted.
+[00:47:00.000 --> 00:47:08.000]   This is how a generation of people who are not filtering what is true with the word,
+[00:47:08.000 --> 00:47:14.000]   will easily think that this is what the Bible says, and they will quote this quote.
+[00:47:14.000 --> 00:47:22.000]   They will quote him and other people who say things like that, without actually knowing what the Bible says, and say, "Bible says."
+[00:47:22.000 --> 00:47:24.000]   "The Bible says this. The Bible says that."
+[00:47:24.000 --> 00:47:32.000]   But they're not quoting scripture. They're quoting a man who says he's quoting scripture, but he's not quoting scripture.
+[00:47:32.000 --> 00:47:37.000]   That's not what the Bible says. The Bible does not whisper when it comes to sexual immorality.
+[00:47:37.000 --> 00:47:43.000]   It screams. In fact, it is one of the loudest screams that you will see in the Bible.
+[00:47:43.000 --> 00:47:50.000]   In Joshua 1.8, it says, "This book of the law shall not depart from your mouth, but you shall meditate on it day and night,
+[00:47:50.000 --> 00:47:57.000]   so that you may be careful to do according to all that is written in it, for then you will make your way prosperous, and then you will have success."
+[00:47:57.000 --> 00:48:01.000]   That's a text. That's the commandment that was given to Joshua and the Israelites,
+[00:48:01.000 --> 00:48:05.000]   as they are going into the promised land to establish a new covenant community.
+[00:48:05.000 --> 00:48:10.000]   So this new community that you're going to build, he gave one instruction.
+[00:48:10.000 --> 00:48:18.000]   He said, "Get together. Get all the smartest guys and figure out how you're going to do finances and politics and make decisions."
+[00:48:18.000 --> 00:48:25.000]   None of that. He just says, "All the commandments I gave to you, the ones you understand, the ones you don't understand,
+[00:48:25.000 --> 00:48:32.000]   meditate on it day and night, and do according to exactly as I told you if you want to have success."
+[00:48:32.000 --> 00:48:36.000]   Now, what does this have to do with Hebrews 12.14?
+[00:48:36.000 --> 00:48:45.000]   If you look at this text in Hebrews 14, it says, "Pursue peace with all men, and the sanctification without which no one will see the Lord."
+[00:48:45.000 --> 00:48:49.000]   Whenever we look at a text, we have to read it critically.
+[00:48:49.000 --> 00:48:56.000]   This is the reason why we do inductive Bible study, that we don't just prepare and I tell you, "Hey, this is what the Word of God says. Trust me."
+[00:48:56.000 --> 00:48:59.000]   I said it. I quoted a verse, so it must be true.
+[00:48:59.000 --> 00:49:03.000]   We want you to be able to ask critical questions and test me.
+[00:49:03.000 --> 00:49:07.000]   And I tell you all the time, don't trust it because I said it. Test me.
+[00:49:07.000 --> 00:49:13.000]   If what I said is not biblical, you should have the boldness to come and say, "How did you get that from that text?"
+[00:49:13.000 --> 00:49:19.000]   This is one of those texts that can easily look at it and say, "Pursue peace with all men."
+[00:49:19.000 --> 00:49:27.000]   And so, without thinking, without asking questions, we can apply that and say, "You know, what I did was wrong."
+[00:49:27.000 --> 00:49:32.000]   Because I just quoted JD and I just called him out and said, "That's wrong."
+[00:49:32.000 --> 00:49:35.000]   That doesn't sound like a man who's pursuing peace.
+[00:49:35.000 --> 00:49:40.000]   You just started a war. I mean, he doesn't have no idea who I am.
+[00:49:40.000 --> 00:49:43.000]   You know what I mean? So I don't think it's going to ever escalate.
+[00:49:43.000 --> 00:49:47.000]   But maybe some of you are fans of JD Greer and say, "Hey, you just stirred things up."
+[00:49:47.000 --> 00:49:52.000]   You sound like a man who is not pursuing peace.
+[00:49:52.000 --> 00:49:59.000]   If we want to understand and apply what the Word of God says, we have to ask these critical questions.
+[00:49:59.000 --> 00:50:01.000]   What does this mean?
+[00:50:01.000 --> 00:50:03.000]   So I have some questions.
+[00:50:03.000 --> 00:50:10.000]   Does this mean that we need to jot down everyone we have a relational issue with and reconcile with them,
+[00:50:10.000 --> 00:50:14.000]   or we won't be able to see God? We won't be saved.
+[00:50:14.000 --> 00:50:22.000]   If that's the case, how did Jesus reconcile with his enemies before he went to the cross?
+[00:50:22.000 --> 00:50:31.000]   If this is to commandment, the letter of the law is to find that you should never have any contention with anybody for any reason,
+[00:50:31.000 --> 00:50:37.000]   and you need to either reconcile with them or else you're not going to see God. You're not going to be saved.
+[00:50:37.000 --> 00:50:42.000]   How did Paul reconcile with the Judaizers during his ministry before he was beheaded?
+[00:50:42.000 --> 00:50:44.000]   How did that happen?
+[00:50:44.000 --> 00:50:49.000]   Does this mean that if we keep struggling with certain sins that you won't be saved?
+[00:50:49.000 --> 00:50:54.000]   He said, "Without sanctification." And the word "sanctification" just literally means holiness.
+[00:50:54.000 --> 00:51:01.000]   Without a pursuit of peace with all men, without pursuit or holiness, you're not going to be saved.
+[00:51:01.000 --> 00:51:05.000]   Clearly, that can't be because we know that salvation is by grace.
+[00:51:05.000 --> 00:51:09.000]   There's too many passages that we'd have to write off to say that.
+[00:51:09.000 --> 00:51:14.000]   Then what does this mean? And what does it mean to see God?
+[00:51:14.000 --> 00:51:22.000]   Again, the reason why I ask you to ask these critical questions and don't just kind of digest what I say without filter
+[00:51:22.000 --> 00:51:29.000]   is if you just digest what I say without filtering, you're going to remember the stories that I tell you.
+[00:51:29.000 --> 00:51:34.000]   And all your theology is going to come through whether you like that story or not.
+[00:51:34.000 --> 00:51:40.000]   Whether I was funny or articulate or whether I scratched your ears and you say, "Ah, I like that."
+[00:51:40.000 --> 00:51:45.000]   And then so we have a generation filled with people who are living by cliches.
+[00:51:45.000 --> 00:51:50.000]   "One saved, always saved." "Christian's not perfect, just forgiven."
+[00:51:50.000 --> 00:51:57.000]   And you have these cliches that you've memorized through the years and all your theology comes through the cliches.
+[00:51:57.000 --> 00:52:01.000]   You have to test to see what does the Word of God say?
+[00:52:01.000 --> 00:52:08.000]   Now, the interpretation of this passage, usually if you read the commentaries or you hear sermons about this text,
+[00:52:08.000 --> 00:52:10.000]   it'll go two directions.
+[00:52:10.000 --> 00:52:17.000]   The first direction is to pursue peace with all men, meaning that we have to make sure that we have peace with everybody.
+[00:52:17.000 --> 00:52:20.000]   At least to the best of your ability, if you're reasonable.
+[00:52:20.000 --> 00:52:23.000]   You're not going to make peace with a Taliban.
+[00:52:23.000 --> 00:52:27.000]   You're not going to make peace with certain people you don't even have access to them.
+[00:52:27.000 --> 00:52:29.000]   You're not going to make peace with somebody that you knew 20 years ago.
+[00:52:29.000 --> 00:52:31.000]   You're not going to go find all of them out.
+[00:52:31.000 --> 00:52:34.000]   As far as it depends on you, it says in the Book of Romans.
+[00:52:34.000 --> 00:52:38.000]   So you have that route where he says, "Actually pursue the peace."
+[00:52:38.000 --> 00:52:45.000]   And then the other route is to pursue peace, pursue the peace together with everyone.
+[00:52:45.000 --> 00:52:51.000]   And that peace he's referring to is the peace that we can only have through the blood of Jesus Christ.
+[00:52:51.000 --> 00:52:54.000]   So you will have one or the other.
+[00:52:54.000 --> 00:53:05.000]   My conclusion from this text and from the context of the Book of Hebrews, the primary meaning is both.
+[00:53:05.000 --> 00:53:09.000]   The primary, because you can't have one without the other.
+[00:53:09.000 --> 00:53:13.000]   You can't have peace with mankind unless you have peace with God.
+[00:53:13.000 --> 00:53:18.000]   The priority is you must have peace with God first.
+[00:53:18.000 --> 00:53:20.000]   And that was the whole point of the Book of Hebrews, wasn't it?
+[00:53:20.000 --> 00:53:25.000]   The whole point of the Book of Hebrews was they were drifting.
+[00:53:25.000 --> 00:53:27.000]   They were drifting away, neglecting their salvation.
+[00:53:27.000 --> 00:53:31.000]   And the way to get them back is to fix your eyes upon Jesus.
+[00:53:31.000 --> 00:53:35.000]   And so we have 10 chapters of Christology.
+[00:53:35.000 --> 00:53:40.000]   How Jesus is better than the sacrifice, better than the high priest, better than the angel, better than Moses, better than the high priest.
+[00:53:40.000 --> 00:53:47.000]   And so he was bringing their attention back to Christ so that they would not drift from this great salvation.
+[00:53:47.000 --> 00:53:53.000]   So within that context, what he's saying in Hebrews chapter 12 is what he started in the beginning.
+[00:53:53.000 --> 00:53:55.000]   To fix your eyes upon Jesus.
+[00:53:55.000 --> 00:53:57.000]   To fix your eyes upon Jesus.
+[00:53:57.000 --> 00:54:03.000]   And what he says in the rest of chapter 12 and 13 is really a revelation of what that looks like.
+[00:54:03.000 --> 00:54:09.000]   And that's why we looked at last week, to make your path straight, is primarily, first and foremost,
+[00:54:09.000 --> 00:54:15.000]   the imagery is to have the straight path to the cities of refuge, which is Christ.
+[00:54:15.000 --> 00:54:25.000]   See, even the word for "shalom," the first century Jew, the idea of peace, right?
+[00:54:25.000 --> 00:54:27.000]   You know what "shalom" means, peace.
+[00:54:27.000 --> 00:54:30.000]   It was so important that they used that as a primary greeting.
+[00:54:30.000 --> 00:54:33.000]   "Shalom" when they met each other, and then they said "shalom" when they were leaving.
+[00:54:33.000 --> 00:54:37.000]   The biblical definition of "shalom" says this.
+[00:54:37.000 --> 00:54:46.000]   "Shalom" is a Hebrew word meaning peace, harmony, completeness, prosperity, welfare, and tranquility, to be made whole by God.
+[00:54:46.000 --> 00:54:53.000]   So to a Jew, there was a very specific understanding of this term "peace."
+[00:54:53.000 --> 00:54:59.000]   In fact, their primary pursuit of their nation is peace.
+[00:54:59.000 --> 00:55:01.000]   Because they were saying this to one another.
+[00:55:01.000 --> 00:55:03.000]   "One day we're going to have peace when the Messiah comes. We're going to have peace."
+[00:55:03.000 --> 00:55:05.000]   "Peace to you. Peace to you."
+[00:55:05.000 --> 00:55:09.000]   "May God make you whole in all things."
+[00:55:09.000 --> 00:55:12.000]   Whatever was lost because of our sins, may God make you whole.
+[00:55:12.000 --> 00:55:14.000]   That was what "shalom" meant.
+[00:55:14.000 --> 00:55:21.000]   And this is why when Jesus was coming into Jerusalem, the problem wasn't that they weren't pursuing peace,
+[00:55:21.000 --> 00:55:24.000]   but they were pursuing peace in the wrong place.
+[00:55:24.000 --> 00:55:30.000]   And that's why Jesus weeps over Jerusalem and says, "Only today, if you knew what would truly bring you peace,
+[00:55:30.000 --> 00:55:33.000]   then destruction would not be coming upon you."
+[00:55:33.000 --> 00:55:37.000]   So the problem was not that they were not pursuing peace,
+[00:55:37.000 --> 00:55:43.000]   but they didn't understand that Christ came ultimately to bring them spiritual peace.
+[00:55:43.000 --> 00:55:48.000]   To recreate and regenerate what was lost at the fall.
+[00:55:48.000 --> 00:55:57.000]   In Genesis 3.14-19, it is a description of the ramification of sin that came into mankind.
+[00:55:57.000 --> 00:56:03.000]   So the first part in verse 14-15 is the punishment for the serpent.
+[00:56:03.000 --> 00:56:06.000]   It says, "The Lord God said to the serpent, 'Because you have done this,
+[00:56:06.000 --> 00:56:11.000]   cursed are you more than all the cattle and more than every beast of the field.
+[00:56:11.000 --> 00:56:16.000]   On your belly you will go, and dust you will eat all the days of your life.
+[00:56:16.000 --> 00:56:21.000]   And I will put enmity between you and the woman, and between your seed and her seed.
+[00:56:21.000 --> 00:56:26.000]   He shall bruise you on the head, and you shall bruise him on the heel."
+[00:56:26.000 --> 00:56:33.000]   So the first description of the fall of mankind is that the serpent is going to be in this contention
+[00:56:33.000 --> 00:56:36.000]   with the seed of the woman and all of their followers.
+[00:56:36.000 --> 00:56:41.000]   That's why the Bible describes our enemy, the serpent, as a devil.
+[00:56:41.000 --> 00:56:45.000]   Who is like a roaring lion seeking someone to devour.
+[00:56:45.000 --> 00:56:53.000]   And that's why Paul says in the book of Ephesians that we are in spiritual warfare.
+[00:56:53.000 --> 00:57:03.000]   See, all of mankind, all of human history, since the fall, has been under this constant battle
+[00:57:03.000 --> 00:57:09.000]   between Satan wanting to destroy the worshippers of Christ and Christ himself.
+[00:57:09.000 --> 00:57:15.000]   And so you and I may feel peaceful at times because we're not at war,
+[00:57:15.000 --> 00:57:19.000]   because our bills are paid, we have a good marriage, and our kids are obedient,
+[00:57:19.000 --> 00:57:25.000]   and you may feel at peace, but whatever we feel peaceful at at that time
+[00:57:25.000 --> 00:57:31.000]   is no different than two soldiers in a foxhole in the middle of a war enjoying their coffee.
+[00:57:31.000 --> 00:57:35.000]   They feel peaceful. They feel safe because they're in a foxhole.
+[00:57:35.000 --> 00:57:39.000]   But it's in the context of a war that is raging around them.
+[00:57:39.000 --> 00:57:44.000]   That's how the Bible describes the history of mankind, our experience.
+[00:57:44.000 --> 00:57:48.000]   And every once in a while something reminds us that this world is under God's condemnation.
+[00:57:48.000 --> 00:57:52.000]   It's, "Oh my God, why would God do something like that? Why would a loving God do something like that?"
+[00:57:52.000 --> 00:57:56.000]   The Bible actually describes all of mankind to be under that.
+[00:57:56.000 --> 00:57:59.000]   So it is moments of peace when you and I experience this foxhole.
+[00:57:59.000 --> 00:58:04.000]   That's when we should be asking, "What is going on?"
+[00:58:04.000 --> 00:58:07.000]   Because that Bible describes it that way. Verse 16.
+[00:58:07.000 --> 00:58:13.000]   The fall of woman to the woman he said, "I will greatly multiply your pain in childbirth.
+[00:58:13.000 --> 00:58:20.000]   In pain you will bring forth children, yet your desire will be for your husband and he will rule over you."
+[00:58:20.000 --> 00:58:26.000]   If you notice verse 16, everything about verse 16 is exactly why God created Eve.
+[00:58:26.000 --> 00:58:29.000]   God created Eve because he said it was not good for Adam to be alone.
+[00:58:29.000 --> 00:58:33.000]   It wasn't saying that there was something morally defective about Adam.
+[00:58:33.000 --> 00:58:40.000]   He was saying that he couldn't carry out God's mandate by himself because God didn't make him asexual.
+[00:58:40.000 --> 00:58:47.000]   So he created Eve so that Adam and Eve can be fruitful and multiply.
+[00:58:47.000 --> 00:58:55.000]   And to create her so that she may be a suitable helper so that he can fulfill the creation mandate.
+[00:58:55.000 --> 00:58:59.000]   So if you look at what he says, he says, "You will have children."
+[00:58:59.000 --> 00:59:03.000]   But how will you have children? In pain.
+[00:59:03.000 --> 00:59:08.000]   In pain. You will have a relationship with your husband, but he says, "Your desire will be for your husband."
+[00:59:08.000 --> 00:59:13.000]   And the word for desire here in Hebrew has an idea of conflict.
+[00:59:13.000 --> 00:59:20.000]   So you're going to fulfill why God created you, but you're not going to have peace.
+[00:59:20.000 --> 00:59:23.000]   There's going to be pain in childbearing.
+[00:59:23.000 --> 00:59:28.000]   There's going to be pain in raising these sinners in the sinful world.
+[00:59:28.000 --> 00:59:32.000]   And then there's going to be contention between husband and wife.
+[00:59:32.000 --> 00:59:39.000]   If you ask most people where the greatest pain that they have experienced in life came from,
+[00:59:39.000 --> 00:59:44.000]   majority of people, not 100%, majority of people will say it was from their home.
+[00:59:44.000 --> 00:59:48.000]   Whether it was from the father, it was from the mother, it was the marriage, it was with the relationship.
+[00:59:48.000 --> 00:59:56.000]   Majority of people who live on this earth have experienced what it's like to live with this contention.
+[00:59:56.000 --> 00:59:59.000]   So peace was gone. Peace was gone in human history.
+[00:59:59.000 --> 01:00:03.000]   Peace was gone in the home. And then in verse 17, to Adam he said,
+[01:00:03.000 --> 01:00:09.000]   "Because you have listened to the voice of your wife and have eaten from the tree about which I commanded you,
+[01:00:09.000 --> 01:00:12.000]   saying, 'You shall not eat from it. Cursed is the ground because of you.
+[01:00:12.000 --> 01:00:16.000]   In toil you will eat of it all the days of your life.
+[01:00:16.000 --> 01:00:21.000]   You will do what I commanded you to do, but there will be no peace.
+[01:00:21.000 --> 01:00:27.000]   Both thorns and thistles it shall grow for you, and you will eat the plants of the field.
+[01:00:27.000 --> 01:00:31.000]   By the sweat of your face you will eat bread, till you return to the ground,
+[01:00:31.000 --> 01:00:36.000]   because from it you were taken, for you are dust, and to dust you shall return.
+[01:00:36.000 --> 01:00:41.000]   I created you so that you may be fruitful and multiply, and so that you may subdue the land,
+[01:00:41.000 --> 01:00:46.000]   take care of the land that I created. You will continue to be fruitful in that way.
+[01:00:46.000 --> 01:00:51.000]   You will continue to do the work, but it will create thorns and thistles."
+[01:00:51.000 --> 01:01:01.000]   Now those of you who are in college who are eager to get a job, there's a reason why all the songs are about weekends.
+[01:01:01.000 --> 01:01:08.000]   When's the last time you heard "Monday, so eager for Monday"?
+[01:01:08.000 --> 01:01:16.000]   There's no song. Everything's about Friday or the weekend.
+[01:01:16.000 --> 01:01:22.000]   There's no songs about Monday because there's no joy on Monday.
+[01:01:22.000 --> 01:01:27.000]   They call Wednesday "Hump Day" because you're closer.
+[01:01:27.000 --> 01:01:31.000]   You got through the hump so you can get to the weekend.
+[01:01:31.000 --> 01:01:34.000]   The Bible says God created them, so what has left?
+[01:01:34.000 --> 01:01:38.000]   They're doing what God created them to do, but what's left?
+[01:01:38.000 --> 01:01:41.000]   Peace is gone.
+[01:01:41.000 --> 01:01:46.000]   That's why the Bible describes the seventh day as what? The Sabbath.
+[01:01:46.000 --> 01:01:52.000]   Sabbath is another word for what? Peace, rest.
+[01:01:52.000 --> 01:01:58.000]   After He created all things, He went into the Sabbath and He brought everyone into the Sabbath with Him,
+[01:01:58.000 --> 01:02:01.000]   but when they broke God's commandment, the Sabbath was broken.
+[01:02:01.000 --> 01:02:05.000]   That's why all throughout Scripture, in the Old Testament, why the Sabbath?
+[01:02:05.000 --> 01:02:09.000]   Why keeping this day was so important in the law?
+[01:02:09.000 --> 01:02:18.000]   Because that was pointing to the salvation of mankind, that when Christ comes, that's what He's going to restore.
+[01:02:18.000 --> 01:02:24.000]   Without Christ's Sabbath, there is no peace.
+[01:02:24.000 --> 01:02:32.000]   Until we come into the Sabbath of Christ, we can pretend to have peace with one another, but there is no true peace.
+[01:02:32.000 --> 01:02:36.000]   In Isaiah 9, verse 6, the prophecy about the coming of the Messiah,
+[01:02:36.000 --> 01:02:43.000]   He says He's called the wonderful Counselor, Mighty God, Eternal Father, Prince of Peace.
+[01:02:43.000 --> 01:02:48.000]   Ephesians 2, verse 17 says, "For He Himself is our peace,
+[01:02:48.000 --> 01:02:53.000]   who made both groups into one and broke down the barrier of the dividing wall."
+[01:02:53.000 --> 01:02:56.000]   He is our peace.
+[01:02:56.000 --> 01:03:02.000]   "And He came and preached peace to you who were far away and peace to those who were near.
+[01:03:02.000 --> 01:03:06.000]   For through Him we both have our access in one Spirit to the Father."
+[01:03:06.000 --> 01:03:13.000]   And again, Romans 5, verse 1, "Therefore, having been justified by faith, we have peace with God through our Lord Jesus Christ."
+[01:03:13.000 --> 01:03:20.000]   You notice how righteousness, holiness, and peace are put together.
+[01:03:20.000 --> 01:03:26.000]   It was meant to be put together because you cannot have peace until there is righteousness in Christ.
+[01:03:26.000 --> 01:03:34.000]   So that's why He says, without pursuing peace, without pursuing righteousness, you cannot see God.
+[01:03:34.000 --> 01:03:42.000]   So it is only when we are imputed by His righteousness, and our relationship with God, with Him is restored,
+[01:03:42.000 --> 01:03:50.000]   can we have true peace, and only then can you truly practice peace with one another.
+[01:03:50.000 --> 01:03:55.000]   Until there is peace within, there is no peace without.
+[01:03:55.000 --> 01:04:01.000]   We cannot artificially make peace when we are not in peace with God.
+[01:04:01.000 --> 01:04:07.000]   Because what's causing this anxiety, what's causing this misunderstanding, what's causing these conflicts,
+[01:04:07.000 --> 01:04:12.000]   is a direct result of being separated from the Prince of Peace.
+[01:04:12.000 --> 01:04:17.000]   So the priority is pursuing peace with God.
+[01:04:17.000 --> 01:04:23.000]   And when that happens, He will command us to have peace with one another.
+[01:04:23.000 --> 01:04:32.000]   You know, the world has been trying so hard to bring reconciliation, especially in the last year and a half.
+[01:04:32.000 --> 01:04:39.000]   With all the turmoil of racial injustices and equity, and so we need to have peace.
+[01:04:39.000 --> 01:04:42.000]   In fact, oftentimes nations go to war.
+[01:04:42.000 --> 01:04:45.000]   Saying the only way that we can have true peace is to have war,
+[01:04:45.000 --> 01:04:49.000]   so that we can suppress the people who are impeding our peace.
+[01:04:49.000 --> 01:04:51.000]   So we need to get rid of them.
+[01:04:51.000 --> 01:04:54.000]   But the problem with that is the other side thinks the same thing of us.
+[01:04:54.000 --> 01:04:57.000]   In order for them to have peace, we need to die.
+[01:04:57.000 --> 01:05:00.000]   And usually that's how wars happen.
+[01:05:00.000 --> 01:05:07.000]   In the last year and a half, $1.7 billion have been dedicated to racial reconciliation.
+[01:05:07.000 --> 01:05:10.000]   $1.7 billion from the corporations.
+[01:05:10.000 --> 01:05:18.000]   $250 million was dedicated by the NBA to tackle this racial reconciliation, so that we can have peace.
+[01:05:18.000 --> 01:05:26.000]   Billions were collected by the Black Lives Matter movement, all in the hopes of bringing peace.
+[01:05:26.000 --> 01:05:34.000]   They said that the donations for this cause has gone up 15 times, just in the last year.
+[01:05:34.000 --> 01:05:37.000]   And I'm only talking about the private sector.
+[01:05:37.000 --> 01:05:43.000]   All of this pales in comparison to the money that the government is pouring in, in order to bring peace.
+[01:05:43.000 --> 01:05:49.000]   Now let me ask you, honestly, have you seen the effects of this money?
+[01:05:49.000 --> 01:05:54.000]   Are we at more peace? Are people getting along better because of this?
+[01:05:54.000 --> 01:06:00.000]   I mean, you may have different opinions, but my honest opinion is it's gotten much worse.
+[01:06:00.000 --> 01:06:05.000]   Now, I feel bad for our Caucasian brothers and sisters in this generation.
+[01:06:05.000 --> 01:06:11.000]   I can't imagine every time you turn on TV or radio, get online, and somebody's calling you a racist.
+[01:06:11.000 --> 01:06:18.000]   You know, it's almost like you want to become racist.
+[01:06:18.000 --> 01:06:26.000]   I think there's more true white supremacy today as a result of their efforts to bring reconciliation, to bring peace.
+[01:06:26.000 --> 01:06:29.000]   Let me give you an example.
+[01:06:29.000 --> 01:06:36.000]   When we were younger, you know, I have an older brother and younger brother, and so we would get into fights.
+[01:06:36.000 --> 01:06:42.000]   And this is before, you know, online gaming and TV, and so we had nothing else to do, so we wrestled.
+[01:06:42.000 --> 01:06:48.000]   I think all three of us could have been professional wrestlers at some point because this was our pastime 24/7.
+[01:06:48.000 --> 01:06:50.000]   And then we would get into fights, we would wrestle.
+[01:06:50.000 --> 01:06:58.000]   And so usually the way that my dad would discipline us when we would get into fights was he would have us sit together, face each other, whoever was fighting.
+[01:06:58.000 --> 01:07:01.000]   I would say 9 out of 10 times it was me and Philip.
+[01:07:01.000 --> 01:07:04.000]   Paul was too big, right?
+[01:07:04.000 --> 01:07:06.000]   It usually wasn't a fight.
+[01:07:06.000 --> 01:07:13.000]   But Philip and I, we were the same size most of our life, and then he outgrew me, you know, at some point.
+[01:07:13.000 --> 01:07:15.000]   But we would get into fights.
+[01:07:15.000 --> 01:07:23.000]   The way that my dad would deal with it, he would sit and have us next to each other, and he would give us a lecture how you shouldn't fight, but if you're going to fight, you should do it this way.
+[01:07:23.000 --> 01:07:31.000]   So he would have us sit together, and then he said, "You slap your brother," right, "and then you get to slap him," right?
+[01:07:31.000 --> 01:07:39.000]   "And then you do it like three or four times, and then that's it. You got it out of your system," right?
+[01:07:39.000 --> 01:07:45.000]   So both of us were kind of hesitating who would go first, and then I said, "Okay."
+[01:07:45.000 --> 01:07:48.000]   And then in my mind I was like, "I'll tap him like this," right?
+[01:07:48.000 --> 01:07:51.000]   I don't want to hit him too hard. My dad's there, right?
+[01:07:51.000 --> 01:07:56.000]   If we were alone, it would be a different story, but my dad's sitting there, so I have to, okay, tap him.
+[01:07:56.000 --> 01:08:01.000]   He would hear that, see that tapping, and he said, "Oh, that was harder than what he was expecting."
+[01:08:01.000 --> 01:08:04.000]   So now he's upset.
+[01:08:04.000 --> 01:08:09.000]   So he slaps me a little bit harder, and I'm like, "Oh, I pulled back."
+[01:08:09.000 --> 01:08:12.000]   He didn't pull back.
+[01:08:12.000 --> 01:08:16.000]   And then it's my turn. Boom!
+[01:08:16.000 --> 01:08:25.000]   And now he's full blown, and now my dad's concerned, because I slapped him, and then now he's got to retaliate, so he comes back slapping, and so now we're just slapping each other.
+[01:08:25.000 --> 01:08:28.000]   So my dad has to stop it, and he's like, "Stop!"
+[01:08:28.000 --> 01:08:31.000]   It didn't work.
+[01:08:31.000 --> 01:08:35.000]   I don't remember a single time where that worked.
+[01:08:35.000 --> 01:08:42.000]   And the reason why it didn't work is because both of us have our own definition of what was just.
+[01:08:42.000 --> 01:08:47.000]   And this is the reason why marriages are not 50%.
+[01:08:47.000 --> 01:08:51.000]   You don't come into marriage saying, "You give 50, I give 50."
+[01:08:51.000 --> 01:08:58.000]   It sounds great, but the problem is there's never any agreement at where that 50% is.
+[01:08:58.000 --> 01:09:02.000]   So the wife thinks that she's giving 70, and he's only giving 30.
+[01:09:02.000 --> 01:09:06.000]   And the husband thinks that he's giving 70, and she's giving 30.
+[01:09:06.000 --> 01:09:12.000]   So eventually, she gets frustrated, and she says, "I said something wrong?"
+[01:09:12.000 --> 01:09:15.000]   "Huh? Oh, you said amen? Okay."
+[01:09:15.000 --> 01:09:19.000]   "All right, this is why I'm preaching. Listen."
+[01:09:19.000 --> 01:09:23.000]   Eventually, what ends up happening is that the wife gets frustrated and says,
+[01:09:23.000 --> 01:09:28.000]   "Well, I've been giving 70, you gave me 30. I'm going to pull back and give you 60."
+[01:09:28.000 --> 01:09:30.000]   Because you're not doing your part.
+[01:09:30.000 --> 01:09:35.000]   And the husband sees that and says, "I've been giving 70, you gave me 30, now you're giving me 20."
+[01:09:35.000 --> 01:09:38.000]   "So now I'm going to pull back, and so he's going to give 60."
+[01:09:38.000 --> 01:09:44.000]   And then they get frustrated. Now you get escalated, and eventually it's like, "I'm not going to give you any."
+[01:09:44.000 --> 01:09:50.000]   And that's usually how it works, because they can't come to an agreement where the middle is.
+[01:09:50.000 --> 01:09:59.000]   That's why whenever there's a marriage, the calling for husband and wife is an example of Christ who gave sacrificially 100%.
+[01:09:59.000 --> 01:10:03.000]   You didn't deserve it. That's what a covenant relationship is.
+[01:10:03.000 --> 01:10:09.000]   You commit to give to an individual who doesn't deserve what they're getting, what I'm going to give to them.
+[01:10:09.000 --> 01:10:16.000]   It is a 100% commitment, and the wife is called to honor and to submit 100%, whether he looks like Christ or not.
+[01:10:16.000 --> 01:10:23.000]   So it is a covenant relationship where 100% come together, motivated, not because he's such a great guy,
+[01:10:23.000 --> 01:10:29.000]   not because she's such a great wife, but because of what Christ has done for us.
+[01:10:29.000 --> 01:10:34.000]   Because the Prince of Peace gave us what you and I did not deserve.
+[01:10:34.000 --> 01:10:44.000]   So until there is peace with Christ, the world's idea of reconciliation only causes more war, more contention, more bitterness.
+[01:10:44.000 --> 01:10:50.000]   Because how do you come to peace with somebody that is not in agreement as to where the middle is?
+[01:10:50.000 --> 01:10:58.000]   What is just? Until Christ is at the center, there is no reconciliation.
+[01:10:58.000 --> 01:11:08.000]   That's why in 1 Corinthians 1.10 it says, "Now I exhort you, brethren, by name of our Lord Jesus Christ, that you all agree and that there be no division among you."
+[01:11:08.000 --> 01:11:11.000]   Think about that. That sounds beautiful on paper.
+[01:11:11.000 --> 01:11:18.000]   Have you known anybody, even with your wife, that you have a covenant relationship with?
+[01:11:18.000 --> 01:11:21.000]   That you have a 100% agreement?
+[01:11:21.000 --> 01:11:30.000]   I agree everything. Food, where to eat, how to spend money, how to raise children, where to buy the house, how much money.
+[01:11:30.000 --> 01:11:34.000]   How do you get a 100% agreement? And how do you get a 100% agreement with everybody?
+[01:11:34.000 --> 01:11:38.000]   Is that what you're saying? Is that what we are called to do?
+[01:11:38.000 --> 01:11:44.000]   To be smart and figure out how we're going to all come together so everybody is in agreement?
+[01:11:44.000 --> 01:11:46.000]   I've never seen it.
+[01:11:46.000 --> 01:11:49.000]   Even in the best of marriages, I've never seen it.
+[01:11:49.000 --> 01:11:52.000]   Even in the best of churches, I've never seen it.
+[01:11:52.000 --> 01:12:01.000]   He's not referring to the hard work that causes us to find the middle and to be reconciled to one another.
+[01:12:01.000 --> 01:12:07.000]   He's telling us to pursue Christ, our peace, with all our might.
+[01:12:07.000 --> 01:12:16.000]   Ephesians 4, 1-6, "Therefore I, the prisoner of the Lord, implore you to walk in a manner worthy of the calling with which you have been called,
+[01:12:16.000 --> 01:12:21.000]   with all humility and gentleness, with patience, showing tolerance for one another, in love,
+[01:12:21.000 --> 01:12:27.000]   being diligent to preserve the unity of the Spirit in the bond of peace."
+[01:12:27.000 --> 01:12:30.000]   Let me stop right there. What does he say?
+[01:12:30.000 --> 01:12:35.000]   Preserve the peace that you have.
+[01:12:35.000 --> 01:12:39.000]   Preserve the peace that you already have.
+[01:12:39.000 --> 01:12:46.000]   Because we have one body, one spirit, one hope, one Lord, one faith, one baptism, one God in the Father,
+[01:12:46.000 --> 01:12:50.000]   who is over all and through all and in all.
+[01:12:50.000 --> 01:12:55.000]   The only way that you and I can unite together and to have peace with one another
+[01:12:55.000 --> 01:13:00.000]   is to have peace with God in His righteousness.
+[01:13:00.000 --> 01:13:05.000]   And the only agreement that you and I will ever have together is the one who never changes.
+[01:13:05.000 --> 01:13:10.000]   There is no variation. There is no prejudice in Him.
+[01:13:10.000 --> 01:13:18.000]   He does not change the Word of God. Everything, like grass, will wither, but the Word of God will stand forever.
+[01:13:18.000 --> 01:13:23.000]   And the only way that you and I will have this agreement is to get to the Word of God
+[01:13:23.000 --> 01:13:27.000]   and to agree with the Word of God and to preach the Word of God,
+[01:13:27.000 --> 01:13:32.000]   to filter through the Word of God, to apply the Word of God.
+[01:13:32.000 --> 01:13:36.000]   This is not a pet choice of our church.
+[01:13:36.000 --> 01:13:44.000]   This is the only way that you and I will stand through the trials that are here and are coming.
+[01:13:44.000 --> 01:13:54.000]   Biblical understanding of peace is not not fighting.
+[01:13:54.000 --> 01:13:58.000]   That's not the biblical understanding of peace.
+[01:13:58.000 --> 01:14:03.000]   The biblical understanding of peace at all costs to preserve Christ.
+[01:14:03.000 --> 01:14:07.000]   At all costs, preserve Christ.
+[01:14:07.000 --> 01:14:10.000]   It is the world's definition of peace.
+[01:14:10.000 --> 01:14:15.000]   No fighting, enjoy your coffee in the middle of war, as long as nobody's yelling,
+[01:14:15.000 --> 01:14:20.000]   as long as nobody's screaming, as long as everybody loves one another, we're at peace.
+[01:14:20.000 --> 01:14:25.000]   While people are dying because they do not know Christ,
+[01:14:25.000 --> 01:14:29.000]   while the church is being corrupted by false teachings left and right,
+[01:14:29.000 --> 01:14:31.000]   that is not the biblical understanding of peace.
+[01:14:31.000 --> 01:14:38.000]   When he says to pursue peace, to pursue righteousness, or no one will see God,
+[01:14:38.000 --> 01:14:42.000]   it is a call to every believer to fight for the gospel,
+[01:14:42.000 --> 01:14:46.000]   to preserve Christ at the middle at all costs.
+[01:14:46.000 --> 01:14:54.000]   My encouragement to every single one of you, get into the Word.
+[01:14:54.000 --> 01:14:58.000]   Get into the Word. Don't trust. I mean, everything I said today could be a lie.
+[01:14:58.000 --> 01:15:00.000]   Everything I said could have been made up.
+[01:15:00.000 --> 01:15:04.000]   "Ah, Pastor Peter's conservative, and you know, he said he's a Republican,
+[01:15:04.000 --> 01:15:07.000]   so that's why he's preaching this, and he's doing this and that."
+[01:15:07.000 --> 01:15:10.000]   Maybe you're right.
+[01:15:10.000 --> 01:15:12.000]   Maybe you're right.
+[01:15:12.000 --> 01:15:16.000]   But you would never know until you get into the Word.
+[01:15:16.000 --> 01:15:19.000]   Test me. Test me.
+[01:15:19.000 --> 01:15:24.000]   And I ask you to test me because my foundation is the Word of God,
+[01:15:24.000 --> 01:15:27.000]   and I have confidence.
+[01:15:27.000 --> 01:15:31.000]   So in these last days, as we have been warned,
+[01:15:31.000 --> 01:15:34.000]   don't be caught off like the rest of the world,
+[01:15:34.000 --> 01:15:39.000]   like the thief in the night that's breaking in to destroy everything that we have.
+[01:15:39.000 --> 01:15:43.000]   We don't know exactly what time he is coming,
+[01:15:43.000 --> 01:15:46.000]   but he told us to stay sober. Stay sober.
+[01:15:46.000 --> 01:15:49.000]   Get into the Word of God. Test everything.
+[01:15:49.000 --> 01:15:52.000]   Don't quote people.
+[01:15:52.000 --> 01:15:59.000]   Quote the Word of God. Let's pray.
+[01:15:59.000 --> 01:16:02.000]   Again, take some time to pray.
+[01:16:02.000 --> 01:16:07.000]   Let the Word of God not only be in your mind.
+[01:16:07.000 --> 01:16:10.000]   Let it meditate.
+[01:16:10.000 --> 01:16:13.000]   Let it saturate your hearts and then your lives.
+[01:16:13.000 --> 01:16:19.000]   Anything that you've heard from God's Word has any conviction in your heart.
+[01:16:19.000 --> 01:16:24.000]   Take some time to ask God, "Lord, I believe, help my unbelief,
+[01:16:24.000 --> 01:16:28.000]   and that your Word would judge the thoughts and intentions of my heart,
+[01:16:28.000 --> 01:16:31.000]   that I would not simply be hearers of the Word, but to be doers."
+[01:16:31.000 --> 01:16:34.000]   Let's take some time to pray again as our worship team leads us.
+[01:16:35.000 --> 01:16:38.000]   [music]
+[01:16:39.000 --> 01:16:42.000]   [music]
+[01:16:43.000 --> 01:16:46.000]   [music]
+[01:16:47.000 --> 01:16:50.000]   [music]
+[01:16:50.000 --> 01:16:56.000]   [music]
+[01:16:56.000 --> 01:17:06.000]   [music]
+[01:17:13.000 --> 01:17:16.000]   [music]
+[01:17:16.000 --> 01:17:29.000]   [music]
+[01:17:40.000 --> 01:17:43.000]   [music]
+[01:17:43.000 --> 01:17:57.000]   [music]
+[01:17:57.000 --> 01:18:00.000]   [music]
+[01:18:00.000 --> 01:18:14.000]   [music]
+[01:18:15.000 --> 01:18:18.000]   [music]
+[01:18:18.000 --> 01:18:27.000]   [music]
+[01:18:40.000 --> 01:18:44.000]   Church family, let's all rise together as we sing this closing song.
+[01:18:44.000 --> 01:18:47.000]   This song, for many of you who may have grown up in the church,
+[01:18:47.000 --> 01:18:50.000]   it's a song called "My Peace."
+[01:18:50.000 --> 01:18:54.000]   I just want to go through the lyrics as it's fitting to what Pastor Peter preached.
+[01:18:54.000 --> 01:18:59.000]   "My peace I give unto you. It's a peace that the world cannot give.
+[01:18:59.000 --> 01:19:02.000]   It's a peace that the world cannot understand.
+[01:19:02.000 --> 01:19:07.000]   Peace to know. Peace to live. My peace I give unto you."
+[01:19:07.000 --> 01:19:10.000]   [music]
+[01:19:10.000 --> 01:19:17.000]   [music]
+[01:19:17.000 --> 01:19:27.000]   [music]
+[01:19:34.000 --> 01:19:37.000]   [music]
+[01:19:37.000 --> 01:19:47.000]   [music]
+[01:19:47.000 --> 01:19:57.000]   [music]
+[01:19:57.000 --> 01:20:00.000]   [music]
+[01:20:00.000 --> 01:20:10.000]   [music]
+[01:20:10.000 --> 01:20:20.000]   [music]
+[01:20:20.000 --> 01:20:23.000]   [music]
+[01:20:23.000 --> 01:20:33.000]   [music]
+[01:20:33.000 --> 01:20:43.000]   [music]
+[01:20:44.000 --> 01:20:47.000]   [music]
+[01:20:47.000 --> 01:20:57.000]   [music]
+[01:20:57.000 --> 01:21:07.000]   [music]
+[01:21:07.000 --> 01:21:10.000]   [music]
+[01:21:10.000 --> 01:21:17.000]   [music]
+[01:21:17.000 --> 01:21:28.000]   [music]
+[01:21:34.000 --> 01:21:37.000]   [music]
+[01:21:37.000 --> 01:21:47.000]   [music]
+[01:21:47.000 --> 01:21:58.000]   [music]
+[01:21:59.000 --> 01:22:02.000]   [music]
+[01:22:02.000 --> 01:22:11.000]   [music]
+[01:22:11.000 --> 01:22:16.000]   Let's pray.
+[01:22:16.000 --> 01:22:19.000]   Ephesians 2, 14 and 17.
+[01:22:19.000 --> 01:22:23.000]   "For He Himself is our peace, who made both groups into one
+[01:22:23.000 --> 01:22:26.000]   and broke down the barrier of the dividing wall.
+[01:22:26.000 --> 01:22:29.000]   He came and preached peace to you who are far away
+[01:22:29.000 --> 01:22:31.000]   and peace to those who are near.
+[01:22:31.000 --> 01:22:36.000]   For through Him we both have our access in spirit to the Father."
+[01:22:36.000 --> 01:22:40.000]   Heavenly Father, we pray that the truth of your word, Lord God,
+[01:22:40.000 --> 01:22:44.000]   would resonate in our hearts, especially in these times
+[01:22:44.000 --> 01:22:47.000]   where there is so much confusion in the church, Lord God,
+[01:22:47.000 --> 01:22:50.000]   of what is right, what is biblical.
+[01:22:50.000 --> 01:22:54.000]   Help us, Lord God, to be men and women who are like the Bereans,
+[01:22:54.000 --> 01:22:57.000]   who have tested the word of God to see if it was true.
+[01:22:57.000 --> 01:22:59.000]   Help us, Lord God, to cling to your word,
+[01:22:59.000 --> 01:23:03.000]   not to turn from it to the left or to the right,
+[01:23:03.000 --> 01:23:06.000]   but to do according to all that is written in it,
+[01:23:06.000 --> 01:23:10.000]   that all that we do may be prosperous and that we would have success.
+[01:23:10.000 --> 01:23:14.000]   So wherever you send us, help us, Lord God, to be men and women of your word,
+[01:23:14.000 --> 01:23:17.000]   to proclaim the truth that we have in Christ
+[01:23:17.000 --> 01:23:20.000]   and the hope that can only be found in Him.
+[01:23:20.000 --> 01:23:25.000]   Heavenly Father, God, help us to be makers of peace, Lord God, in this world.
+[01:23:25.000 --> 01:23:27.000]   In Jesus' name we pray, amen.
+[01:23:27.000 --> 01:23:38.000]   God sent His Son, they called Him Jesus.
+[01:23:38.000 --> 01:23:48.000]   He came to do the will and the work.
+[01:23:48.000 --> 01:23:59.000]   He lived and died to buy my pardon.
+[01:23:59.000 --> 01:24:10.000]   An empty grave is there to my Savior lives.
+[01:24:10.000 --> 01:24:21.000]   Because He lives, I can face tomorrow.
+[01:24:21.000 --> 01:24:32.000]   Because He lives, all fear is gone.
+[01:24:32.000 --> 01:24:43.000]   Because I know He holds the future.
+[01:24:43.000 --> 01:24:57.000]   And life is worth the living just because He lives.
+[01:24:57.000 --> 01:24:59.000]   Amen.
+[01:25:00.000 --> 01:25:02.000]   [Applause]
+[01:25:02.000 --> 01:25:11.000]   [Silence]
+[01:25:11.000 --> 01:25:15.000]   If I can ask the fathers to go to the cafe side
+[01:25:15.000 --> 01:25:18.000]   so that they can get started as soon as possible.
+[01:25:18.000 --> 01:25:20.000]   Thank you.
+[01:25:20.000 --> 01:25:30.000]   [Silence]
+

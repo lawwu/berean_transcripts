@@ -1,0 +1,1357 @@
+
+[00:00:00.000 --> 00:00:03.500]   [SIDE CONVERSATION]
+[00:00:03.500 --> 00:00:07.000]   [SIDE CONVERSATION]
+[00:00:07.000 --> 00:00:10.500]   [SIDE CONVERSATION]
+[00:00:10.500 --> 00:00:14.000]   [SIDE CONVERSATION]
+[00:00:14.000 --> 00:00:17.500]   [SIDE CONVERSATION]
+[00:00:17.500 --> 00:00:21.000]   [SIDE CONVERSATION]
+[00:00:21.000 --> 00:00:24.500]   [SIDE CONVERSATION]
+[00:00:24.500 --> 00:00:28.000]   [SIDE CONVERSATION]
+[00:00:28.000 --> 00:00:31.500]   [SIDE CONVERSATION]
+[00:00:31.500 --> 00:00:35.000]   [SIDE CONVERSATION]
+[00:00:35.000 --> 00:00:38.500]   [SIDE CONVERSATION]
+[00:00:38.500 --> 00:00:42.000]   [SIDE CONVERSATION]
+[00:00:42.000 --> 00:00:45.500]   [SIDE CONVERSATION]
+[00:00:45.500 --> 00:00:49.000]   [SIDE CONVERSATION]
+[00:00:49.000 --> 00:00:52.500]   [SIDE CONVERSATION]
+[00:00:52.500 --> 00:00:56.000]   [SIDE CONVERSATION]
+[00:00:56.000 --> 00:00:59.500]   [SIDE CONVERSATION]
+[00:00:59.500 --> 00:01:03.000]   [SIDE CONVERSATION]
+[00:01:03.000 --> 00:01:06.500]   [SIDE CONVERSATION]
+[00:01:06.500 --> 00:01:10.000]   [SIDE CONVERSATION]
+[00:01:10.000 --> 00:01:13.500]   [SIDE CONVERSATION]
+[00:01:13.500 --> 00:01:17.000]   [SIDE CONVERSATION]
+[00:01:17.000 --> 00:01:20.500]   [SIDE CONVERSATION]
+[00:01:20.500 --> 00:01:24.000]   [SIDE CONVERSATION]
+[00:01:24.000 --> 00:01:27.500]   [SIDE CONVERSATION]
+[00:01:27.500 --> 00:01:31.000]   [SIDE CONVERSATION]
+[00:01:31.000 --> 00:01:34.500]   [SIDE CONVERSATION]
+[00:01:34.500 --> 00:01:38.000]   [SIDE CONVERSATION]
+[00:01:39.000 --> 00:01:42.500]   [SIDE CONVERSATION]
+[00:01:42.500 --> 00:01:46.000]   [SIDE CONVERSATION]
+[00:01:46.000 --> 00:01:49.500]   [SIDE CONVERSATION]
+[00:01:49.500 --> 00:01:53.000]   [SIDE CONVERSATION]
+[00:01:53.000 --> 00:01:56.500]   [SIDE CONVERSATION]
+[00:01:56.500 --> 00:02:00.000]   [SIDE CONVERSATION]
+[00:02:00.000 --> 00:02:03.500]   [SIDE CONVERSATION]
+[00:02:04.500 --> 00:02:08.000]   [SIDE CONVERSATION]
+[00:02:08.000 --> 00:02:11.500]   [SIDE CONVERSATION]
+[00:02:35.000 --> 00:02:38.500]   [SIDE CONVERSATION]
+[00:02:38.500 --> 00:02:42.000]   [SIDE CONVERSATION]
+[00:02:42.000 --> 00:02:45.500]   [SIDE CONVERSATION]
+[00:02:45.500 --> 00:02:49.000]   [SIDE CONVERSATION]
+[00:02:49.000 --> 00:02:52.500]   [SIDE CONVERSATION]
+[00:02:53.500 --> 00:02:57.000]   [SIDE CONVERSATION]
+[00:02:57.000 --> 00:03:00.500]   [SIDE CONVERSATION]
+[00:03:00.500 --> 00:03:04.000]   [SIDE CONVERSATION]
+[00:03:04.000 --> 00:03:07.500]   [SIDE CONVERSATION]
+[00:03:07.500 --> 00:03:11.000]   [SIDE CONVERSATION]
+[00:03:11.000 --> 00:03:14.500]   [SIDE CONVERSATION]
+[00:03:15.500 --> 00:03:19.000]   [SIDE CONVERSATION]
+[00:03:19.000 --> 00:03:22.500]   [SIDE CONVERSATION]
+[00:03:23.500 --> 00:03:27.000]   [SIDE CONVERSATION]
+[00:03:27.000 --> 00:03:30.500]   [SIDE CONVERSATION]
+[00:03:30.500 --> 00:03:34.000]   [SIDE CONVERSATION]
+[00:03:34.000 --> 00:03:37.500]   [SIDE CONVERSATION]
+[00:03:37.500 --> 00:03:41.000]   [SIDE CONVERSATION]
+[00:03:41.000 --> 00:03:44.500]   [SIDE CONVERSATION]
+[00:03:44.500 --> 00:03:48.000]   [SIDE CONVERSATION]
+[00:03:48.000 --> 00:03:51.500]   [SIDE CONVERSATION]
+[00:03:51.500 --> 00:03:55.000]   [SIDE CONVERSATION]
+[00:03:55.000 --> 00:03:58.500]   [SIDE CONVERSATION]
+[00:03:58.500 --> 00:04:02.000]   [SIDE CONVERSATION]
+[00:04:02.000 --> 00:04:05.500]   [SIDE CONVERSATION]
+[00:04:05.500 --> 00:04:09.000]   [SIDE CONVERSATION]
+[00:04:09.000 --> 00:04:12.500]   [SIDE CONVERSATION]
+[00:04:12.500 --> 00:04:16.000]   [SIDE CONVERSATION]
+[00:04:16.000 --> 00:04:19.500]   [SIDE CONVERSATION]
+[00:04:19.500 --> 00:04:23.000]   [SIDE CONVERSATION]
+[00:04:23.000 --> 00:04:26.500]   [SIDE CONVERSATION]
+[00:04:26.500 --> 00:04:30.000]   [SIDE CONVERSATION]
+[00:04:30.000 --> 00:04:33.500]   [SIDE CONVERSATION]
+[00:04:33.500 --> 00:04:37.000]   [SIDE CONVERSATION]
+[00:04:37.000 --> 00:04:40.500]   [SIDE CONVERSATION]
+[00:04:40.500 --> 00:04:44.000]   [SIDE CONVERSATION]
+[00:04:44.000 --> 00:04:47.500]   [SIDE CONVERSATION]
+[00:04:47.500 --> 00:04:51.000]   [SIDE CONVERSATION]
+[00:04:51.000 --> 00:04:54.500]   [SIDE CONVERSATION]
+[00:04:54.500 --> 00:04:58.000]   [SIDE CONVERSATION]
+[00:04:59.000 --> 00:05:02.500]   [SIDE CONVERSATION]
+[00:05:02.500 --> 00:05:06.000]   [SIDE CONVERSATION]
+[00:05:06.000 --> 00:05:09.500]   [SIDE CONVERSATION]
+[00:05:09.500 --> 00:05:13.000]   [SIDE CONVERSATION]
+[00:05:13.000 --> 00:05:16.500]   [SIDE CONVERSATION]
+[00:05:16.500 --> 00:05:20.000]   [SIDE CONVERSATION]
+[00:05:20.000 --> 00:05:23.500]   [SIDE CONVERSATION]
+[00:05:23.500 --> 00:05:27.000]   [SIDE CONVERSATION]
+[00:05:27.000 --> 00:05:30.500]   [SIDE CONVERSATION]
+[00:05:30.500 --> 00:05:34.000]   [SIDE CONVERSATION]
+[00:05:34.000 --> 00:05:37.500]   [SIDE CONVERSATION]
+[00:05:37.500 --> 00:05:41.000]   [SIDE CONVERSATION]
+[00:05:41.000 --> 00:05:44.500]   [SIDE CONVERSATION]
+[00:06:08.000 --> 00:06:11.500]   [SIDE CONVERSATION]
+[00:06:11.500 --> 00:06:15.000]   [SIDE CONVERSATION]
+[00:06:15.000 --> 00:06:18.500]   [SIDE CONVERSATION]
+[00:06:18.500 --> 00:06:22.000]   [SIDE CONVERSATION]
+[00:06:22.000 --> 00:06:25.500]   [SIDE CONVERSATION]
+[00:06:25.500 --> 00:06:29.000]   [SIDE CONVERSATION]
+[00:06:29.000 --> 00:06:32.500]   [SIDE CONVERSATION]
+[00:06:32.500 --> 00:06:36.000]   [SIDE CONVERSATION]
+[00:06:36.000 --> 00:06:39.500]   [SIDE CONVERSATION]
+[00:06:39.500 --> 00:06:43.000]   [SIDE CONVERSATION]
+[00:06:43.000 --> 00:06:46.500]   [SIDE CONVERSATION]
+[00:06:46.500 --> 00:06:50.000]   [SIDE CONVERSATION]
+[00:06:50.000 --> 00:06:53.500]   [SIDE CONVERSATION]
+[00:06:53.500 --> 00:06:57.000]   [SIDE CONVERSATION]
+[00:06:57.000 --> 00:07:00.500]   [SIDE CONVERSATION]
+[00:07:00.500 --> 00:07:04.000]   [SIDE CONVERSATION]
+[00:07:04.000 --> 00:07:07.500]   [SIDE CONVERSATION]
+[00:07:07.500 --> 00:07:11.000]   [SIDE CONVERSATION]
+[00:07:11.000 --> 00:07:14.500]   [SIDE CONVERSATION]
+[00:07:14.500 --> 00:07:18.000]   [SIDE CONVERSATION]
+[00:07:18.000 --> 00:07:21.500]   [SIDE CONVERSATION]
+[00:07:21.500 --> 00:07:25.000]   [SIDE CONVERSATION]
+[00:07:25.000 --> 00:07:28.500]   [SIDE CONVERSATION]
+[00:07:28.500 --> 00:07:32.000]   [SIDE CONVERSATION]
+[00:07:32.000 --> 00:07:35.500]   [SIDE CONVERSATION]
+[00:07:35.500 --> 00:07:39.000]   [SIDE CONVERSATION]
+[00:07:39.000 --> 00:07:42.500]   [SIDE CONVERSATION]
+[00:07:42.500 --> 00:07:46.000]   [SIDE CONVERSATION]
+[00:08:10.000 --> 00:08:12.640]   Hello, everybody.
+[00:08:12.640 --> 00:08:15.760]   For those of you guys who are near the cafe bar,
+[00:08:15.760 --> 00:08:17.220]   please come on over.
+[00:08:17.220 --> 00:08:21.160]   We will start our Bible study in just about half a minute.
+[00:08:21.160 --> 00:08:23.520]   So let's make our way and get settled in.
+[00:08:23.520 --> 00:08:24.800]   And we'll begin just shortly.
+[00:08:24.800 --> 00:08:27.800]   [SIDE CONVERSATION]
+[00:08:27.800 --> 00:08:51.560]   OK, good.
+[00:08:51.560 --> 00:08:53.920]   Would you all please join with me in a word of prayer,
+[00:08:53.920 --> 00:08:55.420]   and we'll get our Bible study started
+[00:08:55.420 --> 00:08:57.080]   with a short time of praise.
+[00:08:57.080 --> 00:08:59.480]   Let's pray together.
+[00:08:59.480 --> 00:09:01.680]   Heavenly Father, we want to thank you,
+[00:09:01.680 --> 00:09:03.760]   God, for your grace each day.
+[00:09:03.760 --> 00:09:06.840]   And we also request, Lord, that, Lord,
+[00:09:06.840 --> 00:09:10.520]   you would continue to grant to us sufficient supply, energy
+[00:09:10.520 --> 00:09:12.400]   for the day, that you would help us
+[00:09:12.400 --> 00:09:14.280]   so that we would be walking in faithfulness
+[00:09:14.280 --> 00:09:15.880]   and abiding in you.
+[00:09:15.880 --> 00:09:19.640]   Lord, each week, we have our own troubles, burdens, worries,
+[00:09:19.640 --> 00:09:22.240]   responsibilities, and more.
+[00:09:22.240 --> 00:09:25.400]   But we pray, Father God, that you'd help us to depend on you
+[00:09:25.400 --> 00:09:29.400]   each step, each day, and cause us, Lord, to look to you.
+[00:09:29.400 --> 00:09:31.600]   Lord, we want to thank you for the opportunity to gather
+[00:09:31.600 --> 00:09:33.560]   together to fellowship in your word
+[00:09:33.560 --> 00:09:36.280]   and to fellowship in worship as well.
+[00:09:36.280 --> 00:09:39.240]   And we pray, God, that our joined voices would, again,
+[00:09:39.240 --> 00:09:40.200]   be honoring to you.
+[00:09:40.200 --> 00:09:41.440]   We thank you, Lord, in Christ.
+[00:09:41.440 --> 00:09:42.400]   And we pray, amen.
+[00:09:49.800 --> 00:09:53.240]   [MUSIC - "THERE IS A REDEEMER"]
+[00:09:53.240 --> 00:10:00.120]   There is a Redeemer.
+[00:10:00.120 --> 00:10:13.440]   There is a Redeemer, Jesus, God's own Son,
+[00:10:13.440 --> 00:10:24.120]   precious Lamb of God, Messiah, only one.
+[00:10:24.120 --> 00:10:30.280]   There is a Redeemer.
+[00:10:30.280 --> 00:10:46.200]   There is a Redeemer, Jesus, God's own Son, precious Lamb
+[00:10:46.200 --> 00:10:54.240]   of God, Messiah, only one.
+[00:10:57.080 --> 00:11:10.080]   Thank you, O my Father, for giving us your Son,
+[00:11:10.080 --> 00:11:21.080]   and even your spirit's ill, the work on earth is done.
+[00:11:24.480 --> 00:11:27.080]   Jesus, my Redeemer.
+[00:11:27.080 --> 00:11:40.680]   Jesus, my Redeemer, name above all names,
+[00:11:40.680 --> 00:11:51.200]   precious Lamb of God, Messiah, all for sinners slain.
+[00:11:54.120 --> 00:12:07.120]   Thank you, O my Father, for giving us your Son,
+[00:12:07.120 --> 00:12:18.120]   and even your spirit's ill, the work on earth is done.
+[00:12:21.960 --> 00:12:34.440]   When I stand, when I stand in glory, I will see his face.
+[00:12:34.440 --> 00:12:48.320]   There I'll serve my King forever in that holy place.
+[00:12:51.320 --> 00:13:04.120]   Thank you, O my Father, for giving us your Son,
+[00:13:04.120 --> 00:13:15.080]   and even your spirit's ill, the work on earth is done.
+[00:13:17.960 --> 00:13:30.960]   Thank you, O my Father, for giving us your Son,
+[00:13:30.960 --> 00:13:44.520]   and even your spirit's ill, the work on earth is done.
+[00:13:44.520 --> 00:13:50.520]   The work on earth is done.
+[00:13:50.520 --> 00:13:51.520]   Amen.
+[00:13:51.520 --> 00:14:02.920]   Be Thou my vision.
+[00:14:02.920 --> 00:14:13.320]   Be Thou my vision, O Lord of my heart.
+[00:14:13.320 --> 00:14:23.520]   I'll be all else to Thee, save that Thou art.
+[00:14:23.520 --> 00:14:34.000]   At my best hour, by day or by night,
+[00:14:34.000 --> 00:14:43.480]   waking or sleeping, Thy presence my light.
+[00:14:43.480 --> 00:14:51.960]   Be Thou my wisdom.
+[00:14:51.960 --> 00:15:02.360]   Be Thou my wisdom, and Thou my true word.
+[00:15:02.360 --> 00:15:12.760]   I ever with Thee, and Thou with me, Lord.
+[00:15:12.760 --> 00:15:19.760]   Thou my great Father, and I Thy truce.
+[00:15:23.160 --> 00:15:32.560]   Thou in me dwelling, and I in thee.
+[00:15:32.560 --> 00:15:50.960]   Riches I need not, nor man's empty praise.
+[00:15:50.960 --> 00:15:58.760]   Thou mine inheritance, Thou and always.
+[00:15:58.760 --> 00:16:11.760]   Thou and Thou only, first and I.
+[00:16:11.760 --> 00:16:20.560]   Thy King of heaven, my treasure Thou art.
+[00:16:20.560 --> 00:16:26.960]   Thy King of heaven.
+[00:16:26.960 --> 00:16:37.560]   Thy King of heaven, my victory won.
+[00:16:40.760 --> 00:16:50.160]   I reach heaven's choice, O bright heaven's sun.
+[00:16:50.160 --> 00:16:57.360]   Heart of my own heart, whatever befall.
+[00:16:57.360 --> 00:17:08.760]   Still be my vision, O ruler of all.
+[00:17:09.760 --> 00:17:18.360]   Heart of my own heart, whatever befall.
+[00:17:18.360 --> 00:17:30.560]   Still be my vision, O ruler of all.
+[00:17:30.560 --> 00:17:32.560]   [END PLAYBACK]
+[00:17:32.560 --> 00:17:43.440]   OK, good evening again, everybody.
+[00:17:43.440 --> 00:17:46.200]   I want to just give a couple quick reminders.
+[00:17:46.200 --> 00:17:49.520]   So for all the sisters who signed up for the Sisters
+[00:17:49.520 --> 00:17:51.280]   event this weekend, just a reminder,
+[00:17:51.280 --> 00:17:54.520]   the filmership is happening at 9 AM here at church.
+[00:17:54.520 --> 00:17:56.280]   And so that being the case, there's
+[00:17:56.280 --> 00:17:58.080]   going to be discussion groups and et cetera.
+[00:17:58.080 --> 00:18:00.880]   So those of you guys who are in the cry room currently,
+[00:18:00.880 --> 00:18:03.600]   you can leave your tables there because they're
+[00:18:03.600 --> 00:18:06.720]   going to be using that during the event on the weekend.
+[00:18:06.720 --> 00:18:09.560]   Also for all the guys, the following week on the 15th,
+[00:18:09.560 --> 00:18:12.760]   we have our men's ministry event starting also at 9.
+[00:18:12.760 --> 00:18:15.400]   So please make sure you just carve out a little time
+[00:18:15.400 --> 00:18:16.600]   and sign up for that.
+[00:18:16.600 --> 00:18:19.280]   This Sunday will be the last call on that, OK?
+[00:18:19.280 --> 00:18:22.120]   And then for everybody, Sunday the 16th,
+[00:18:22.120 --> 00:18:24.720]   we're having our members meeting and service fair.
+[00:18:24.720 --> 00:18:26.560]   So make sure you book that on your calendar.
+[00:18:26.560 --> 00:18:28.600]   And you should have received an email.
+[00:18:28.600 --> 00:18:31.320]   If you're going to be absent, please do just
+[00:18:31.320 --> 00:18:35.200]   mark it on the form so that we know where you're at, OK?
+[00:18:35.200 --> 00:18:36.040]   All right, everybody.
+[00:18:36.040 --> 00:18:38.360]   At this time, please go ahead and start your discussions.
+[00:18:38.360 --> 00:18:39.600]   We'll be back in 45 minutes.
+[00:18:39.600 --> 00:18:41.160]   Thanks.
+[00:18:41.160 --> 00:18:51.660]   [ Silence ]
+[00:18:51.660 --> 00:18:57.660]   [ Silence ]
+[00:18:57.660 --> 00:19:03.660]   [ Silence ]
+[00:19:03.660 --> 00:19:09.660]   [ Silence ]
+[00:19:09.660 --> 00:19:15.660]   [ Silence ]
+[00:19:15.660 --> 00:19:21.660]   [ Silence ]
+[00:19:21.660 --> 00:19:27.660]   [ Silence ]
+[00:19:27.660 --> 00:19:33.660]   [ Silence ]
+[00:19:33.660 --> 00:19:39.660]   [ Silence ]
+[00:19:39.660 --> 00:19:45.660]   [ Silence ]
+[00:19:45.660 --> 00:19:51.660]   [ Silence ]
+[00:19:51.660 --> 00:19:57.660]   [ Silence ]
+[00:19:57.660 --> 00:20:03.660]   [ Silence ]
+[00:20:03.660 --> 00:20:09.660]   [ Silence ]
+[00:20:09.660 --> 00:20:15.660]   [ Silence ]
+[00:20:15.660 --> 00:20:21.660]   [ Silence ]
+[00:20:21.660 --> 00:20:27.660]   [ Silence ]
+[00:20:27.660 --> 00:20:33.660]   [ Silence ]
+[00:20:33.660 --> 00:20:39.660]   [ Silence ]
+[00:20:39.660 --> 00:20:45.660]   [ Silence ]
+[00:20:45.660 --> 00:20:51.660]   [ Silence ]
+[00:20:51.660 --> 00:20:57.660]   [ Silence ]
+[00:20:57.660 --> 00:21:03.660]   [ Silence ]
+[00:21:03.660 --> 00:21:09.660]   [ Silence ]
+[00:21:09.660 --> 00:21:15.660]   [ Silence ]
+[00:21:15.660 --> 00:21:21.660]   [ Silence ]
+[00:21:21.660 --> 00:21:27.660]   [ Silence ]
+[00:21:27.660 --> 00:21:33.660]   [ Silence ]
+[00:21:33.660 --> 00:21:39.660]   [ Silence ]
+[00:21:39.660 --> 00:21:45.660]   [ Silence ]
+[00:21:45.660 --> 00:21:51.660]   [ Silence ]
+[00:21:51.660 --> 00:21:57.660]   [ Silence ]
+[00:21:57.660 --> 00:22:03.660]   [ Silence ]
+[00:22:03.660 --> 00:22:09.660]   [ Silence ]
+[00:22:09.660 --> 00:22:15.660]   [ Silence ]
+[00:22:15.660 --> 00:22:21.660]   [ Silence ]
+[00:22:21.660 --> 00:22:27.660]   [ Silence ]
+[00:22:27.660 --> 00:22:33.660]   [ Silence ]
+[00:22:33.660 --> 00:22:39.660]   [ Silence ]
+[00:22:39.660 --> 00:22:45.660]   [ Silence ]
+[00:22:45.660 --> 00:22:51.660]   [ Silence ]
+[00:22:51.660 --> 00:22:57.660]   [ Silence ]
+[00:22:57.660 --> 00:23:03.660]   [ Silence ]
+[00:23:03.660 --> 00:23:09.660]   [ Silence ]
+[00:23:09.660 --> 00:23:15.660]   [ Silence ]
+[00:23:15.660 --> 00:23:21.660]   [ Silence ]
+[00:23:21.660 --> 00:23:27.660]   [ Silence ]
+[00:23:27.660 --> 00:23:33.660]   [ Silence ]
+[00:23:33.660 --> 00:23:39.660]   [ Silence ]
+[00:23:39.660 --> 00:23:45.660]   [ Silence ]
+[00:23:45.660 --> 00:23:51.660]   [ Silence ]
+[00:23:51.660 --> 00:23:57.660]   [ Silence ]
+[00:23:57.660 --> 00:24:03.660]   [ Silence ]
+[00:24:03.660 --> 00:24:09.660]   [ Silence ]
+[00:24:09.660 --> 00:24:15.660]   [ Silence ]
+[00:24:15.660 --> 00:24:21.660]   [ Silence ]
+[00:24:21.660 --> 00:24:27.660]   [ Silence ]
+[00:24:27.660 --> 00:24:33.660]   [ Silence ]
+[00:24:33.660 --> 00:24:39.660]   [ Silence ]
+[00:24:39.660 --> 00:24:45.660]   [ Silence ]
+[00:24:45.660 --> 00:24:51.660]   [ Silence ]
+[00:24:51.660 --> 00:24:57.660]   [ Silence ]
+[00:24:57.660 --> 00:25:03.660]   [ Silence ]
+[00:25:03.660 --> 00:25:09.660]   [ Silence ]
+[00:25:09.660 --> 00:25:15.660]   [ Silence ]
+[00:25:15.660 --> 00:25:21.660]   [ Silence ]
+[00:25:21.660 --> 00:25:27.660]   [ Silence ]
+[00:25:27.660 --> 00:25:33.660]   [ Silence ]
+[00:25:33.660 --> 00:25:39.660]   [ Silence ]
+[00:25:39.660 --> 00:25:45.660]   [ Silence ]
+[00:25:45.660 --> 00:25:51.660]   [ Silence ]
+[00:25:51.660 --> 00:25:57.660]   [ Silence ]
+[00:25:57.660 --> 00:26:03.660]   [ Silence ]
+[00:26:03.660 --> 00:26:09.660]   [ Silence ]
+[00:26:09.660 --> 00:26:15.660]   [ Silence ]
+[00:26:15.660 --> 00:26:21.660]   [ Silence ]
+[00:26:21.660 --> 00:26:27.660]   [ Silence ]
+[00:26:27.660 --> 00:26:33.660]   [ Silence ]
+[00:26:33.660 --> 00:26:39.660]   [ Silence ]
+[00:26:39.660 --> 00:26:45.660]   [ Silence ]
+[00:26:45.660 --> 00:26:51.660]   [ Silence ]
+[00:26:51.660 --> 00:26:57.660]   [ Silence ]
+[00:26:57.660 --> 00:27:03.660]   [ Silence ]
+[00:27:03.660 --> 00:27:09.660]   [ Silence ]
+[00:27:09.660 --> 00:27:15.660]   [ Silence ]
+[00:27:15.660 --> 00:27:21.660]   [ Silence ]
+[00:27:21.660 --> 00:27:27.660]   [ Silence ]
+[00:27:27.660 --> 00:27:33.660]   [ Silence ]
+[00:27:33.660 --> 00:27:39.660]   [ Silence ]
+[00:27:39.660 --> 00:27:45.660]   [ Silence ]
+[00:27:45.660 --> 00:27:51.660]   [ Silence ]
+[00:27:51.660 --> 00:27:57.660]   [ Silence ]
+[00:27:57.660 --> 00:28:03.660]   [ Silence ]
+[00:28:03.660 --> 00:28:09.660]   [ Silence ]
+[00:28:09.660 --> 00:28:15.660]   [ Silence ]
+[00:28:15.660 --> 00:28:21.660]   [ Silence ]
+[00:28:21.660 --> 00:28:27.660]   [ Silence ]
+[00:28:27.660 --> 00:28:33.660]   [ Silence ]
+[00:28:33.660 --> 00:28:39.660]   [ Silence ]
+[00:28:39.660 --> 00:28:45.660]   [ Silence ]
+[00:28:45.660 --> 00:28:51.660]   [ Silence ]
+[00:28:51.660 --> 00:28:57.660]   [ Silence ]
+[00:28:57.660 --> 00:29:03.660]   [ Silence ]
+[00:29:03.660 --> 00:29:09.660]   [ Silence ]
+[00:29:09.660 --> 00:29:15.660]   [ Silence ]
+[00:29:15.660 --> 00:29:21.660]   [ Silence ]
+[00:29:21.660 --> 00:29:27.660]   [ Silence ]
+[00:29:27.660 --> 00:29:33.660]   [ Silence ]
+[00:29:33.660 --> 00:29:39.660]   [ Silence ]
+[00:29:39.660 --> 00:29:45.660]   [ Silence ]
+[00:29:45.660 --> 00:29:51.660]   [ Silence ]
+[00:29:51.660 --> 00:29:57.660]   [ Silence ]
+[00:29:57.660 --> 00:30:03.660]   [ Silence ]
+[00:30:03.660 --> 00:30:09.660]   [ Silence ]
+[00:30:09.660 --> 00:30:15.660]   [ Silence ]
+[00:30:15.660 --> 00:30:21.660]   [ Silence ]
+[00:30:21.660 --> 00:30:27.660]   [ Silence ]
+[00:30:27.660 --> 00:30:33.660]   [ Silence ]
+[00:30:33.660 --> 00:30:39.660]   [ Silence ]
+[00:30:39.660 --> 00:30:45.660]   [ Silence ]
+[00:30:45.660 --> 00:30:51.660]   [ Silence ]
+[00:30:51.660 --> 00:30:57.660]   [ Silence ]
+[00:30:57.660 --> 00:31:03.660]   [ Silence ]
+[00:31:03.660 --> 00:31:09.660]   [ Silence ]
+[00:31:09.660 --> 00:31:15.660]   [ Silence ]
+[00:31:15.660 --> 00:31:21.660]   [ Silence ]
+[00:31:21.660 --> 00:31:27.660]   [ Silence ]
+[00:31:27.660 --> 00:31:33.660]   [ Silence ]
+[00:31:33.660 --> 00:31:39.660]   [ Silence ]
+[00:31:39.660 --> 00:31:45.660]   [ Silence ]
+[00:31:45.660 --> 00:31:51.660]   [ Silence ]
+[00:31:51.660 --> 00:31:57.660]   [ Silence ]
+[00:31:57.660 --> 00:32:03.660]   [ Silence ]
+[00:32:03.660 --> 00:32:09.660]   [ Silence ]
+[00:32:09.660 --> 00:32:15.660]   [ Silence ]
+[00:32:15.660 --> 00:32:21.660]   [ Silence ]
+[00:32:21.660 --> 00:32:27.660]   [ Silence ]
+[00:32:27.660 --> 00:32:33.660]   [ Silence ]
+[00:32:33.660 --> 00:32:39.660]   [ Silence ]
+[00:32:39.660 --> 00:32:45.660]   [ Silence ]
+[00:32:45.660 --> 00:32:51.660]   [ Silence ]
+[00:32:51.660 --> 00:32:57.660]   [ Silence ]
+[00:32:57.660 --> 00:33:03.660]   [ Silence ]
+[00:33:03.660 --> 00:33:09.660]   [ Silence ]
+[00:33:09.660 --> 00:33:15.660]   [ Silence ]
+[00:33:15.660 --> 00:33:21.660]   [ Silence ]
+[00:33:21.660 --> 00:33:27.660]   [ Silence ]
+[00:33:27.660 --> 00:33:33.660]   [ Silence ]
+[00:33:33.660 --> 00:33:39.660]   [ Silence ]
+[00:33:39.660 --> 00:33:45.660]   [ Silence ]
+[00:33:45.660 --> 00:33:51.660]   [ Silence ]
+[00:33:51.660 --> 00:33:57.660]   [ Silence ]
+[00:33:57.660 --> 00:34:03.660]   [ Silence ]
+[00:34:03.660 --> 00:34:09.660]   [ Silence ]
+[00:34:09.660 --> 00:34:15.660]   [ Silence ]
+[00:34:15.660 --> 00:34:21.660]   [ Silence ]
+[00:34:21.660 --> 00:34:27.660]   [ Silence ]
+[00:34:27.660 --> 00:34:33.660]   [ Silence ]
+[00:34:33.660 --> 00:34:39.660]   [ Silence ]
+[00:34:39.660 --> 00:34:45.660]   [ Silence ]
+[00:34:45.660 --> 00:34:51.660]   [ Silence ]
+[00:34:51.660 --> 00:34:57.660]   [ Silence ]
+[00:34:57.660 --> 00:35:03.660]   [ Silence ]
+[00:35:03.660 --> 00:35:09.660]   [ Silence ]
+[00:35:09.660 --> 00:35:15.660]   [ Silence ]
+[00:35:15.660 --> 00:35:21.660]   [ Silence ]
+[00:35:21.660 --> 00:35:27.660]   [ Silence ]
+[00:35:27.660 --> 00:35:33.660]   [ Silence ]
+[00:35:33.660 --> 00:35:39.660]   [ Silence ]
+[00:35:39.660 --> 00:35:45.660]   [ Silence ]
+[00:35:45.660 --> 00:35:51.660]   [ Silence ]
+[00:35:51.660 --> 00:35:57.660]   [ Silence ]
+[00:35:57.660 --> 00:36:03.660]   [ Silence ]
+[00:36:03.660 --> 00:36:09.660]   [ Silence ]
+[00:36:09.660 --> 00:36:15.660]   [ Silence ]
+[00:36:15.660 --> 00:36:21.660]   [ Silence ]
+[00:36:21.660 --> 00:36:27.660]   [ Silence ]
+[00:36:27.660 --> 00:36:33.660]   [ Silence ]
+[00:36:33.660 --> 00:36:39.660]   [ Silence ]
+[00:36:39.660 --> 00:36:45.660]   [ Silence ]
+[00:36:45.660 --> 00:36:51.660]   [ Silence ]
+[00:36:51.660 --> 00:36:57.660]   [ Silence ]
+[00:36:57.660 --> 00:37:03.660]   [ Silence ]
+[00:37:03.660 --> 00:37:09.660]   [ Silence ]
+[00:37:09.660 --> 00:37:15.660]   [ Silence ]
+[00:37:15.660 --> 00:37:21.660]   [ Silence ]
+[00:37:21.660 --> 00:37:27.660]   [ Silence ]
+[00:37:27.660 --> 00:37:33.660]   [ Silence ]
+[00:37:33.660 --> 00:37:39.660]   [ Silence ]
+[00:37:39.660 --> 00:37:45.660]   [ Silence ]
+[00:37:45.660 --> 00:37:51.660]   [ Silence ]
+[00:37:51.660 --> 00:37:57.660]   [ Silence ]
+[00:37:57.660 --> 00:38:03.660]   [ Silence ]
+[00:38:03.660 --> 00:38:09.660]   [ Silence ]
+[00:38:09.660 --> 00:38:15.660]   [ Silence ]
+[00:38:15.660 --> 00:38:21.660]   [ Silence ]
+[00:38:21.660 --> 00:38:27.660]   [ Silence ]
+[00:38:27.660 --> 00:38:33.660]   [ Silence ]
+[00:38:33.660 --> 00:38:39.660]   [ Silence ]
+[00:38:39.660 --> 00:38:45.660]   [ Silence ]
+[00:38:45.660 --> 00:38:51.660]   [ Silence ]
+[00:38:51.660 --> 00:38:57.660]   [ Silence ]
+[00:38:57.660 --> 00:39:03.660]   [ Silence ]
+[00:39:03.660 --> 00:39:09.660]   [ Silence ]
+[00:39:09.660 --> 00:39:15.660]   [ Silence ]
+[00:39:15.660 --> 00:39:21.660]   [ Silence ]
+[00:39:21.660 --> 00:39:27.660]   [ Silence ]
+[00:39:27.660 --> 00:39:33.660]   [ Silence ]
+[00:39:33.660 --> 00:39:39.660]   [ Silence ]
+[00:39:39.660 --> 00:39:45.660]   [ Silence ]
+[00:39:45.660 --> 00:39:51.660]   [ Silence ]
+[00:39:51.660 --> 00:39:57.660]   [ Silence ]
+[00:39:57.660 --> 00:40:03.660]   [ Silence ]
+[00:40:03.660 --> 00:40:09.660]   [ Silence ]
+[00:40:09.660 --> 00:40:15.660]   [ Silence ]
+[00:40:15.660 --> 00:40:21.660]   [ Silence ]
+[00:40:21.660 --> 00:40:27.660]   [ Silence ]
+[00:40:27.660 --> 00:40:33.660]   [ Silence ]
+[00:40:33.660 --> 00:40:39.660]   [ Silence ]
+[00:40:39.660 --> 00:40:45.660]   [ Silence ]
+[00:40:45.660 --> 00:40:51.660]   [ Silence ]
+[00:40:51.660 --> 00:40:57.660]   [ Silence ]
+[00:40:57.660 --> 00:41:03.660]   [ Silence ]
+[00:41:03.660 --> 00:41:09.660]   [ Silence ]
+[00:41:09.660 --> 00:41:15.660]   [ Silence ]
+[00:41:15.660 --> 00:41:21.660]   [ Silence ]
+[00:41:21.660 --> 00:41:27.660]   [ Silence ]
+[00:41:27.660 --> 00:41:33.660]   [ Silence ]
+[00:41:33.660 --> 00:41:39.660]   [ Silence ]
+[00:41:39.660 --> 00:41:45.660]   [ Silence ]
+[00:41:45.660 --> 00:41:51.660]   [ Silence ]
+[00:41:51.660 --> 00:41:57.660]   [ Silence ]
+[00:41:57.660 --> 00:42:03.660]   [ Silence ]
+[00:42:03.660 --> 00:42:09.660]   [ Silence ]
+[00:42:09.660 --> 00:42:15.660]   [ Silence ]
+[00:42:15.660 --> 00:42:21.660]   [ Silence ]
+[00:42:21.660 --> 00:42:27.660]   [ Silence ]
+[00:42:27.660 --> 00:42:33.660]   [ Silence ]
+[00:42:33.660 --> 00:42:39.660]   [ Silence ]
+[00:42:39.660 --> 00:42:45.660]   [ Silence ]
+[00:42:45.660 --> 00:42:51.660]   [ Silence ]
+[00:42:51.660 --> 00:42:57.660]   [ Silence ]
+[00:42:57.660 --> 00:43:03.660]   [ Silence ]
+[00:43:03.660 --> 00:43:09.660]   [ Silence ]
+[00:43:09.660 --> 00:43:15.660]   [ Silence ]
+[00:43:15.660 --> 00:43:21.660]   [ Silence ]
+[00:43:21.660 --> 00:43:27.660]   [ Silence ]
+[00:43:27.660 --> 00:43:33.660]   [ Silence ]
+[00:43:33.660 --> 00:43:39.660]   [ Silence ]
+[00:43:39.660 --> 00:43:45.660]   [ Silence ]
+[00:43:45.660 --> 00:43:51.660]   [ Silence ]
+[00:43:51.660 --> 00:43:57.660]   [ Silence ]
+[00:43:57.660 --> 00:44:03.660]   [ Silence ]
+[00:44:03.660 --> 00:44:09.660]   [ Silence ]
+[00:44:09.660 --> 00:44:15.660]   [ Silence ]
+[00:44:15.660 --> 00:44:21.660]   [ Silence ]
+[00:44:21.660 --> 00:44:27.660]   [ Silence ]
+[00:44:27.660 --> 00:44:33.660]   [ Silence ]
+[00:44:33.660 --> 00:44:39.660]   [ Silence ]
+[00:44:39.660 --> 00:44:45.660]   [ Silence ]
+[00:44:45.660 --> 00:44:51.660]   [ Silence ]
+[00:44:51.660 --> 00:44:57.660]   [ Silence ]
+[00:44:57.660 --> 00:45:03.660]   [ Silence ]
+[00:45:03.660 --> 00:45:09.660]   [ Silence ]
+[00:45:09.660 --> 00:45:15.660]   [ Silence ]
+[00:45:15.660 --> 00:45:21.660]   [ Silence ]
+[00:45:21.660 --> 00:45:27.660]   [ Silence ]
+[00:45:27.660 --> 00:45:33.660]   [ Silence ]
+[00:45:33.660 --> 00:45:39.660]   [ Silence ]
+[00:45:39.660 --> 00:45:45.660]   [ Silence ]
+[00:45:45.660 --> 00:45:51.660]   [ Silence ]
+[00:45:51.660 --> 00:45:57.660]   [ Silence ]
+[00:45:57.660 --> 00:46:03.660]   [ Silence ]
+[00:46:03.660 --> 00:46:09.660]   [ Silence ]
+[00:46:09.660 --> 00:46:15.660]   [ Silence ]
+[00:46:15.660 --> 00:46:21.660]   [ Silence ]
+[00:46:21.660 --> 00:46:27.660]   [ Silence ]
+[00:46:27.660 --> 00:46:33.660]   [ Silence ]
+[00:46:33.660 --> 00:46:39.660]   [ Silence ]
+[00:46:39.660 --> 00:46:45.660]   [ Silence ]
+[00:46:45.660 --> 00:46:51.660]   [ Silence ]
+[00:46:51.660 --> 00:46:57.660]   [ Silence ]
+[00:46:57.660 --> 00:47:03.660]   [ Silence ]
+[00:47:03.660 --> 00:47:09.660]   [ Silence ]
+[00:47:09.660 --> 00:47:15.660]   [ Silence ]
+[00:47:15.660 --> 00:47:21.660]   [ Silence ]
+[00:47:21.660 --> 00:47:27.660]   [ Silence ]
+[00:47:27.660 --> 00:47:33.660]   [ Silence ]
+[00:47:33.660 --> 00:47:39.660]   [ Silence ]
+[00:47:39.660 --> 00:47:45.660]   [ Silence ]
+[00:47:45.660 --> 00:47:51.660]   [ Silence ]
+[00:47:51.660 --> 00:47:57.660]   [ Silence ]
+[00:47:57.660 --> 00:48:03.660]   [ Silence ]
+[00:48:03.660 --> 00:48:09.660]   [ Silence ]
+[00:48:09.660 --> 00:48:15.660]   [ Silence ]
+[00:48:15.660 --> 00:48:21.660]   [ Silence ]
+[00:48:21.660 --> 00:48:27.660]   [ Silence ]
+[00:48:27.660 --> 00:48:33.660]   [ Silence ]
+[00:48:33.660 --> 00:48:39.660]   [ Silence ]
+[00:48:39.660 --> 00:48:45.660]   [ Silence ]
+[00:48:45.660 --> 00:48:51.660]   [ Silence ]
+[00:48:51.660 --> 00:48:57.660]   [ Silence ]
+[00:48:57.660 --> 00:49:03.660]   [ Silence ]
+[00:49:03.660 --> 00:49:09.660]   [ Silence ]
+[00:49:09.660 --> 00:49:15.660]   [ Silence ]
+[00:49:15.660 --> 00:49:21.660]   [ Silence ]
+[00:49:21.660 --> 00:49:27.660]   [ Silence ]
+[00:49:27.660 --> 00:49:33.660]   [ Silence ]
+[00:49:33.660 --> 00:49:39.660]   [ Silence ]
+[00:49:39.660 --> 00:49:45.660]   [ Silence ]
+[00:49:45.660 --> 00:49:51.660]   [ Silence ]
+[00:49:51.660 --> 00:49:57.660]   [ Silence ]
+[00:49:57.660 --> 00:50:03.660]   [ Silence ]
+[00:50:03.660 --> 00:50:09.660]   [ Silence ]
+[00:50:09.660 --> 00:50:15.660]   [ Silence ]
+[00:50:15.660 --> 00:50:21.660]   [ Silence ]
+[00:50:21.660 --> 00:50:27.660]   [ Silence ]
+[00:50:27.660 --> 00:50:33.660]   [ Silence ]
+[00:50:33.660 --> 00:50:39.660]   [ Silence ]
+[00:50:39.660 --> 00:50:45.660]   [ Silence ]
+[00:50:45.660 --> 00:50:51.660]   [ Silence ]
+[00:50:51.660 --> 00:50:57.660]   [ Silence ]
+[00:50:57.660 --> 00:51:03.660]   [ Silence ]
+[00:51:03.660 --> 00:51:09.660]   [ Silence ]
+[00:51:09.660 --> 00:51:15.660]   [ Silence ]
+[00:51:15.660 --> 00:51:21.660]   [ Silence ]
+[00:51:21.660 --> 00:51:27.660]   [ Silence ]
+[00:51:27.660 --> 00:51:33.660]   [ Silence ]
+[00:51:33.660 --> 00:51:39.660]   [ Silence ]
+[00:51:39.660 --> 00:51:45.660]   [ Silence ]
+[00:51:45.660 --> 00:51:51.660]   [ Silence ]
+[00:51:51.660 --> 00:51:57.660]   [ Silence ]
+[00:51:57.660 --> 00:52:03.660]   [ Silence ]
+[00:52:03.660 --> 00:52:09.660]   [ Silence ]
+[00:52:09.660 --> 00:52:15.660]   [ Silence ]
+[00:52:15.660 --> 00:52:21.660]   [ Silence ]
+[00:52:21.660 --> 00:52:27.660]   [ Silence ]
+[00:52:27.660 --> 00:52:33.660]   [ Silence ]
+[00:52:33.660 --> 00:52:39.660]   [ Silence ]
+[00:52:39.660 --> 00:52:45.660]   [ Silence ]
+[00:52:45.660 --> 00:52:51.660]   [ Silence ]
+[00:52:51.660 --> 00:52:57.660]   [ Silence ]
+[00:52:57.660 --> 00:53:03.660]   [ Silence ]
+[00:53:03.660 --> 00:53:09.660]   [ Silence ]
+[00:53:09.660 --> 00:53:15.660]   [ Silence ]
+[00:53:15.660 --> 00:53:21.660]   [ Silence ]
+[00:53:21.660 --> 00:53:27.660]   [ Silence ]
+[00:53:27.660 --> 00:53:33.660]   [ Silence ]
+[00:53:33.660 --> 00:53:39.660]   [ Silence ]
+[00:53:39.660 --> 00:53:45.660]   [ Silence ]
+[00:53:45.660 --> 00:53:51.660]   [ Silence ]
+[00:53:51.660 --> 00:53:57.660]   [ Silence ]
+[00:53:57.660 --> 00:54:03.660]   [ Silence ]
+[00:54:03.660 --> 00:54:09.660]   [ Silence ]
+[00:54:09.660 --> 00:54:15.660]   [ Silence ]
+[00:54:15.660 --> 00:54:21.660]   [ Silence ]
+[00:54:21.660 --> 00:54:27.660]   [ Silence ]
+[00:54:27.660 --> 00:54:33.660]   [ Silence ]
+[00:54:33.660 --> 00:54:39.660]   [ Silence ]
+[00:54:39.660 --> 00:54:45.660]   [ Silence ]
+[00:54:45.660 --> 00:54:51.660]   [ Silence ]
+[00:54:51.660 --> 00:54:57.660]   [ Silence ]
+[00:54:57.660 --> 00:55:03.660]   [ Silence ]
+[00:55:03.660 --> 00:55:09.660]   [ Silence ]
+[00:55:09.660 --> 00:55:15.660]   [ Silence ]
+[00:55:15.660 --> 00:55:21.660]   [ Silence ]
+[00:55:21.660 --> 00:55:27.660]   [ Silence ]
+[00:55:27.660 --> 00:55:33.660]   [ Silence ]
+[00:55:33.660 --> 00:55:39.660]   [ Silence ]
+[00:55:39.660 --> 00:55:45.660]   [ Silence ]
+[00:55:45.660 --> 00:55:51.660]   [ Silence ]
+[00:55:51.660 --> 00:55:57.660]   [ Silence ]
+[00:55:57.660 --> 00:56:03.660]   [ Silence ]
+[00:56:03.660 --> 00:56:09.660]   [ Silence ]
+[00:56:09.660 --> 00:56:15.660]   [ Silence ]
+[00:56:15.660 --> 00:56:21.660]   [ Silence ]
+[00:56:21.660 --> 00:56:27.660]   [ Silence ]
+[00:56:27.660 --> 00:56:33.660]   [ Silence ]
+[00:56:33.660 --> 00:56:39.660]   [ Silence ]
+[00:56:39.660 --> 00:56:45.660]   [ Silence ]
+[00:56:45.660 --> 00:56:51.660]   [ Silence ]
+[00:56:51.660 --> 00:56:57.660]   [ Silence ]
+[00:56:57.660 --> 00:57:03.660]   [ Silence ]
+[00:57:03.660 --> 00:57:09.660]   [ Silence ]
+[00:57:09.660 --> 00:57:15.660]   [ Silence ]
+[00:57:15.660 --> 00:57:21.660]   [ Silence ]
+[00:57:21.660 --> 00:57:27.660]   [ Silence ]
+[00:57:27.660 --> 00:57:33.660]   [ Silence ]
+[00:57:33.660 --> 00:57:39.660]   [ Silence ]
+[00:57:39.660 --> 00:57:45.660]   [ Silence ]
+[00:57:45.660 --> 00:57:51.660]   [ Silence ]
+[00:57:51.660 --> 00:57:57.660]   [ Silence ]
+[00:57:57.660 --> 00:58:03.660]   [ Silence ]
+[00:58:03.660 --> 00:58:09.660]   [ Silence ]
+[00:58:09.660 --> 00:58:15.660]   [ Silence ]
+[00:58:15.660 --> 00:58:21.660]   [ Silence ]
+[00:58:21.660 --> 00:58:27.660]   [ Silence ]
+[00:58:27.660 --> 00:58:33.660]   [ Silence ]
+[00:58:33.660 --> 00:58:39.660]   [ Silence ]
+[00:58:39.660 --> 00:58:45.660]   [ Silence ]
+[00:58:45.660 --> 00:58:51.660]   [ Silence ]
+[00:58:51.660 --> 00:58:57.660]   [ Silence ]
+[00:58:57.660 --> 00:59:03.660]   [ Silence ]
+[00:59:03.660 --> 00:59:09.660]   [ Silence ]
+[00:59:09.660 --> 00:59:15.660]   [ Silence ]
+[00:59:15.660 --> 00:59:21.660]   [ Silence ]
+[00:59:21.660 --> 00:59:27.660]   [ Silence ]
+[00:59:27.660 --> 00:59:33.660]   [ Silence ]
+[00:59:33.660 --> 00:59:39.660]   [ Silence ]
+[00:59:39.660 --> 00:59:45.660]   [ Silence ]
+[00:59:45.660 --> 00:59:51.660]   [ Silence ]
+[00:59:51.660 --> 00:59:57.660]   [ Silence ]
+[00:59:57.660 --> 01:00:03.660]   [ Silence ]
+[01:00:03.660 --> 01:00:09.660]   [ Silence ]
+[01:00:09.660 --> 01:00:15.660]   [ Silence ]
+[01:00:15.660 --> 01:00:21.660]   [ Silence ]
+[01:00:21.660 --> 01:00:27.660]   [ Silence ]
+[01:00:27.660 --> 01:00:33.660]   [ Silence ]
+[01:00:33.660 --> 01:00:39.660]   [ Silence ]
+[01:00:39.660 --> 01:00:45.660]   [ Silence ]
+[01:00:45.660 --> 01:00:51.660]   [ Silence ]
+[01:00:51.660 --> 01:00:55.660]   [ Silence ]
+[01:00:55.660 --> 01:00:59.660]   >> Okay, if we can get back together in two minutes.
+[01:00:59.660 --> 01:01:03.660]   [ Silence ]
+[01:01:03.660 --> 01:01:07.660]   >> All the people in the room can come back out.
+[01:01:07.660 --> 01:01:11.660]   [ Silence ]
+[01:01:11.660 --> 01:01:15.660]   [ Silence ]
+[01:01:15.660 --> 01:01:19.660]   [ Silence ]
+[01:01:19.660 --> 01:01:23.660]   [ Silence ]
+[01:01:23.660 --> 01:01:27.660]   [ Silence ]
+[01:01:27.660 --> 01:01:31.660]   [ Silence ]
+[01:01:31.660 --> 01:01:35.660]   [ Silence ]
+[01:01:35.660 --> 01:01:39.660]   [ Silence ]
+[01:01:39.660 --> 01:01:43.660]   >> Last one, are they okay?
+[01:01:43.660 --> 01:01:47.660]   [ Silence ]
+[01:01:47.660 --> 01:01:51.660]   [ Silence ]
+[01:01:51.660 --> 01:01:55.660]   [ Silence ]
+[01:01:55.660 --> 01:02:23.380]   Okay.
+[01:02:23.380 --> 01:02:37.900]   Can you guys in the back see this?
+[01:02:37.900 --> 01:02:39.660]   You guys are okay?
+[01:02:39.660 --> 01:02:40.660]   Over there?
+[01:02:40.660 --> 01:02:41.660]   Can you guys see?
+[01:02:41.660 --> 01:02:42.660]   Yes?
+[01:02:42.660 --> 01:02:43.660]   Okay.
+[01:02:43.660 --> 01:02:44.660]   All right.
+[01:02:44.660 --> 01:03:00.420]   Okay.
+[01:03:00.420 --> 01:03:26.460]   All right.
+[01:03:26.460 --> 01:03:31.340]   Is everybody back?
+[01:03:31.340 --> 01:03:39.700]   All right.
+[01:03:39.700 --> 01:03:43.460]   Let's pray and get started.
+[01:03:43.460 --> 01:03:53.180]   Dear God, we thank you for giving us as a church to come together and continue to study
+[01:03:53.180 --> 01:03:54.180]   your word.
+[01:03:54.180 --> 01:04:01.220]   I pray that you would help us to truly fix our eyes upon Christ through your word.
+[01:04:01.220 --> 01:04:07.220]   We ask that you would help us to glean from it what your intent is, that you give us understanding
+[01:04:07.220 --> 01:04:10.820]   in context, understanding of your heart and your spirit.
+[01:04:10.820 --> 01:04:12.780]   So I pray for your grace and your guidance.
+[01:04:12.780 --> 01:04:14.780]   In Jesus' name we pray.
+[01:04:14.780 --> 01:04:15.780]   Amen.
+[01:04:15.780 --> 01:04:17.160]   All right.
+[01:04:17.160 --> 01:04:23.100]   So this text actually has quite a few, even though it's only a few verses, there's quite
+[01:04:23.100 --> 01:04:24.780]   a few things going on in here.
+[01:04:24.780 --> 01:04:26.460]   I'm not going to be able to cover all of it.
+[01:04:26.460 --> 01:04:31.120]   Hopefully you are able to cover some of it in your Bible study.
+[01:04:31.120 --> 01:04:39.180]   If you look at the text, I divided it up into what I think is a chiastic structure.
+[01:04:39.180 --> 01:04:40.180]   Okay.
+[01:04:40.180 --> 01:04:43.740]   How many guys know what a chiastic structure is?
+[01:04:43.740 --> 01:04:44.880]   Okay.
+[01:04:44.880 --> 01:04:46.860]   So some of you, most of you, okay.
+[01:04:46.860 --> 01:04:48.980]   Hopefully you had some opportunity to talk about it.
+[01:04:48.980 --> 01:04:53.860]   A chiastic structure, like if you're writing, for those of you who don't know what it is,
+[01:04:53.860 --> 01:04:59.460]   most of us who grew up in the West, when you think of your key point, main point, you'll
+[01:04:59.460 --> 01:05:04.240]   usually find it either in the introduction or in the conclusion, right?
+[01:05:04.240 --> 01:05:08.100]   And then it'll tell you the story and then it'll say the moral of the story is this,
+[01:05:08.100 --> 01:05:11.900]   or it'll say, here's my point, here's my thesis, and this is how I'm going to back it up.
+[01:05:11.900 --> 01:05:16.340]   A chiastic structure, the main point is found right in the middle.
+[01:05:16.340 --> 01:05:22.700]   And so the way that they would argue a point is the first section would make a point and
+[01:05:22.700 --> 01:05:27.260]   then you would have the main point at the center and then it would reiterate the mirror
+[01:05:27.260 --> 01:05:29.460]   the points on the other side.
+[01:05:29.460 --> 01:05:30.460]   Okay.
+[01:05:30.460 --> 01:05:34.980]   So this is kind of like, you see a lot of this, especially in the Old Testament, a lot
+[01:05:34.980 --> 01:05:36.780]   of the structures is done this way.
+[01:05:36.780 --> 01:05:42.020]   And then if you, the more you study the chiastic structure, you can understand why the chiastic
+[01:05:42.020 --> 01:05:48.460]   structure is so effective because it makes, it builds up to the point and then it gives
+[01:05:48.460 --> 01:05:52.980]   the second part of that point kind of builds backwards so that the emphasis on it actually
+[01:05:52.980 --> 01:05:58.580]   has an impact to me, has a greater impact because it's not just making, here's 0.1,
+[01:05:58.580 --> 01:06:00.100]   0.2, 0.3, 0.4.
+[01:06:00.100 --> 01:06:03.640]   It says 0.1, 0.2, 0.3, and this is the reason why.
+[01:06:03.640 --> 01:06:09.460]   And as a result of this 0.1, 0.2, 0.3, and it mirrors the other in other words, right?
+[01:06:09.460 --> 01:06:13.980]   Remember the text that we looked at, a book that we looked at in the Old Testament that
+[01:06:13.980 --> 01:06:16.700]   the whole book was written in chiastic structure?
+[01:06:16.700 --> 01:06:17.700]   Leviticus.
+[01:06:17.700 --> 01:06:18.700]   Leviticus.
+[01:06:18.700 --> 01:06:19.700]   Okay.
+[01:06:19.700 --> 01:06:20.700]   Right.
+[01:06:20.700 --> 01:06:21.700]   The whole book was written in a chiastic structure.
+[01:06:21.700 --> 01:06:30.020]   And remember what was at the center of the chiastic structure in Leviticus?
+[01:06:30.020 --> 01:06:31.020]   Day of Atonement.
+[01:06:31.020 --> 01:06:33.220]   That's what you meant to say, right?
+[01:06:33.220 --> 01:06:34.740]   Day of Atonement, right?
+[01:06:34.740 --> 01:06:38.860]   So everything led up to the Day of Atonement and everything kind of stems from the Day
+[01:06:38.860 --> 01:06:39.860]   of Atonement.
+[01:06:39.860 --> 01:06:43.540]   So if you look at this chiastic structure, you may or may not agree, but I think the
+[01:06:43.540 --> 01:06:50.220]   points are pretty clear, or at least I think it is.
+[01:06:50.220 --> 01:06:59.740]   If you look at it, it starts by saying, "For we did not follow cleverly devised tales when
+[01:06:59.740 --> 01:07:11.580]   we made known to you the power in the coming of our Lord Jesus Christ."
+[01:07:11.580 --> 01:07:17.020]   And then the other side of it is, "For no prophecy was made by an act of human will,
+[01:07:17.020 --> 01:07:19.620]   but men moved by the Holy Spirit spoke from God."
+[01:07:19.620 --> 01:07:20.620]   Okay.
+[01:07:20.620 --> 01:07:21.780]   Do you see that?
+[01:07:21.780 --> 01:07:24.100]   You see it kind of mirrors the opposite side?
+[01:07:24.100 --> 01:07:29.500]   And then he says, "But we were eyewitnesses of His majesty for when we received honor
+[01:07:29.500 --> 01:07:35.060]   and glory from God the Father, such an utterance as this was made to Him by the majestic glory."
+[01:07:35.060 --> 01:07:37.220]   So we were eyewitnesses of this.
+[01:07:37.220 --> 01:07:40.860]   Then he says, "But know this first of all, that no prophecy of scripture is a matter
+[01:07:40.860 --> 01:07:42.420]   of one's own interpretation."
+[01:07:42.420 --> 01:07:43.420]   Okay.
+[01:07:43.420 --> 01:07:44.420]   Do you see that?
+[01:07:44.420 --> 01:07:47.100]   Do you see how he says, "We are eyewitnesses.
+[01:07:47.100 --> 01:07:48.100]   We didn't make this up."
+[01:07:48.100 --> 01:07:53.340]   Do you see the opposite side of this?
+[01:07:53.340 --> 01:07:54.340]   Okay.
+[01:07:54.340 --> 01:07:58.700]   I need you to see it because I need you to agree with me that you see a chiastic structure
+[01:07:58.700 --> 01:07:59.700]   here.
+[01:07:59.700 --> 01:08:00.700]   Okay.
+[01:08:00.700 --> 01:08:02.380]   Or else I'm just making this up.
+[01:08:02.380 --> 01:08:03.380]   All right.
+[01:08:03.380 --> 01:08:09.820]   And then the other part, "This is my beloved Son, whom I am well pleased and we ourselves
+[01:08:09.820 --> 01:08:13.540]   heard this utterance made from heaven when we were with Him on the mountain."
+[01:08:13.540 --> 01:08:18.700]   So this is the actual utterance, right, that was revealed to them.
+[01:08:18.700 --> 01:08:23.380]   "A lamp shining in a dark place until day dawns and the morning star rises."
+[01:08:23.380 --> 01:08:26.060]   So conviction, right?
+[01:08:26.060 --> 01:08:27.540]   Vision, conviction.
+[01:08:27.540 --> 01:08:31.260]   So it seems like it mirrors the other side.
+[01:08:31.260 --> 01:08:32.260]   Yes or no?
+[01:08:32.260 --> 01:08:35.260]   Do you see it or am I milking it?
+[01:08:35.260 --> 01:08:36.260]   Did I make this up?
+[01:08:36.260 --> 01:08:37.260]   Do you see it?
+[01:08:37.260 --> 01:08:38.260]   Yes?
+[01:08:38.260 --> 01:08:39.260]   Okay.
+[01:08:39.260 --> 01:08:40.260]   All right.
+[01:08:40.260 --> 01:08:41.260]   Good.
+[01:08:41.260 --> 01:08:42.260]   All right.
+[01:08:42.260 --> 01:08:46.180]   So it seems like to me it's written in a chiastic structure, which means verse 19 is the main
+[01:08:46.180 --> 01:08:48.180]   point, right?
+[01:08:48.180 --> 01:08:51.740]   And then these are the supporting points.
+[01:08:51.740 --> 01:08:53.380]   Okay?
+[01:08:53.380 --> 01:08:58.220]   So if verse 19 is the main point, the main question in this text is, what does verse
+[01:08:58.220 --> 01:08:59.220]   19 mean?
+[01:08:59.220 --> 01:09:00.220]   Right?
+[01:09:00.220 --> 01:09:01.500]   And I apologize.
+[01:09:01.500 --> 01:09:05.740]   I told you I was going to give some guidance last week and I forgot to post it.
+[01:09:05.740 --> 01:09:08.580]   Once I was done, I focused on the sermon.
+[01:09:08.580 --> 01:09:09.580]   Okay.
+[01:09:09.580 --> 01:09:12.100]   So this week I will give you some guidance.
+[01:09:12.100 --> 01:09:16.380]   If you don't see anything by Saturday, it means I forgot.
+[01:09:16.380 --> 01:09:17.380]   Okay?
+[01:09:17.380 --> 01:09:20.780]   So somebody text me and email me and say, "Hey, you forgot."
+[01:09:20.780 --> 01:09:21.820]   Okay?
+[01:09:21.820 --> 01:09:27.020]   So if 19 is the main thing, if you looked at verse 19, how many of you looked at verse
+[01:09:27.020 --> 01:09:31.980]   19 and compared it with other texts, other translations?
+[01:09:31.980 --> 01:09:35.580]   And if you did, did you notice any difference?
+[01:09:35.580 --> 01:09:38.700]   Okay.
+[01:09:38.700 --> 01:09:42.740]   If you did your homework, right, you should have noticed the difference in the way that
+[01:09:42.740 --> 01:09:44.060]   this was translated.
+[01:09:44.060 --> 01:09:45.060]   Right?
+[01:09:45.060 --> 01:09:48.860]   So Pastor Peter Chung sends you the different translations of these texts and you should
+[01:09:48.860 --> 01:09:54.580]   have noticed the meaning of how it was translated in different translations says something completely
+[01:09:54.580 --> 01:09:55.580]   different.
+[01:09:55.580 --> 01:09:56.580]   Yes?
+[01:09:56.580 --> 01:09:57.580]   Okay.
+[01:09:57.580 --> 01:10:00.580]   Which means you didn't look at it.
+[01:10:00.580 --> 01:10:03.660]   If you did look at it, you would have found this.
+[01:10:03.660 --> 01:10:04.660]   Okay?
+[01:10:04.660 --> 01:10:06.700]   Hopefully you guys in the back can see this.
+[01:10:06.700 --> 01:10:11.900]   So in NASB it says, "So we have the prophetic word made more sure."
+[01:10:11.900 --> 01:10:12.900]   Right?
+[01:10:12.900 --> 01:10:15.220]   "The prophetic word made more sure."
+[01:10:15.220 --> 01:10:20.820]   Meaning, what he said prior to this, which was the transfiguration, transfiguration made
+[01:10:20.820 --> 01:10:22.700]   the word of God more sure.
+[01:10:22.700 --> 01:10:23.700]   Right?
+[01:10:23.700 --> 01:10:26.340]   That's the meaning behind this.
+[01:10:26.340 --> 01:10:28.340]   If you read it, if you translate it this way.
+[01:10:28.340 --> 01:10:34.220]   Okay, I'm going to say it again so you guys can follow.
+[01:10:34.220 --> 01:10:38.220]   So if you translate it, "So we have the prophetic word made more sure."
+[01:10:38.220 --> 01:10:40.400]   So meaning what?
+[01:10:40.400 --> 01:10:42.940]   What he just said, the transfiguration.
+[01:10:42.940 --> 01:10:43.940]   Right?
+[01:10:43.940 --> 01:10:45.540]   He said, "This is my beloved son."
+[01:10:45.540 --> 01:10:46.540]   Right?
+[01:10:46.540 --> 01:10:47.540]   "Who am I?
+[01:10:47.540 --> 01:10:48.540]   I am well pleased."
+[01:10:48.540 --> 01:10:52.580]   And they said, "We heard this utterance and this utterance from God that confirmed for
+[01:10:52.580 --> 01:10:57.260]   us his identity has made the prophetic word more sure."
+[01:10:57.260 --> 01:10:58.260]   Okay?
+[01:10:58.260 --> 01:11:04.220]   If you're looking at this for the first time today, it's going to be going over your head.
+[01:11:04.220 --> 01:11:09.460]   But if you wake up, I think you will be able to know why this is so important.
+[01:11:09.460 --> 01:11:10.460]   Okay?
+[01:11:10.460 --> 01:11:13.980]   So ESV, look at the way ESV translates it.
+[01:11:13.980 --> 01:11:18.820]   And we have something more sure.
+[01:11:18.820 --> 01:11:29.460]   Somebody tell me the difference between NASV and ESV here.
+[01:11:29.460 --> 01:11:33.460]   Okay.
+[01:11:33.460 --> 01:11:37.360]   Huh?
+[01:11:37.360 --> 01:11:44.780]   And some of you ESV says fully confirmed?
+[01:11:44.780 --> 01:11:53.580]   Huh?
+[01:11:53.580 --> 01:11:54.580]   I cut and pasted.
+[01:11:54.580 --> 01:12:01.180]   Did ESV have an update or something?
+[01:12:01.180 --> 01:12:04.220]   Huh?
+[01:12:04.220 --> 01:12:09.060]   I don't even own an LSB.
+[01:12:09.060 --> 01:12:16.260]   LSB says, "And we have something more sure?"
+[01:12:16.260 --> 01:12:20.220]   Okay.
+[01:12:20.220 --> 01:12:28.220]   And read to me what it says in ESV.
+[01:12:28.220 --> 01:12:31.140]   Okay.
+[01:12:31.140 --> 01:12:35.580]   I literally copied and pasted this from my program.
+[01:12:35.580 --> 01:12:42.180]   So maybe the ESV has an updated version and I have the old one.
+[01:12:42.180 --> 01:12:43.680]   Okay.
+[01:12:43.680 --> 01:12:50.820]   Read that to me again, your false version, ESV.
+[01:12:50.820 --> 01:12:54.620]   Okay.
+[01:12:54.620 --> 01:12:57.940]   Okay.
+[01:12:57.940 --> 01:13:12.100]   ESV, this must be the updated version.
+[01:13:12.100 --> 01:13:15.140]   Like I said, I just cut and pasted from my Bible program.
+[01:13:15.140 --> 01:13:16.140]   Okay.
+[01:13:16.140 --> 01:13:18.340]   So they changed their mind then.
+[01:13:18.340 --> 01:13:19.340]   Okay.
+[01:13:19.340 --> 01:13:26.540]   But look at King James.
+[01:13:26.540 --> 01:13:28.780]   Look at King James.
+[01:13:28.780 --> 01:13:30.740]   You have a King James here?
+[01:13:30.740 --> 01:13:32.080]   You do have King James.
+[01:13:32.080 --> 01:13:35.660]   We have also more sure word of prophecy.
+[01:13:35.660 --> 01:13:51.020]   So what is the distinction between NASV and King James?
+[01:13:51.020 --> 01:14:00.300]   What's the difference between the meaning?
+[01:14:00.300 --> 01:14:03.700]   You can't tell the difference?
+[01:14:03.700 --> 01:14:05.700]   Huh?
+[01:14:05.700 --> 01:14:07.700]   Yes.
+[01:14:07.700 --> 01:14:11.700]   All right.
+[01:14:11.700 --> 01:14:12.940]   Okay.
+[01:14:12.940 --> 01:14:15.700]   Maybe it's too late in the night.
+[01:14:15.700 --> 01:14:17.220]   Okay.
+[01:14:17.220 --> 01:14:21.980]   If the ESV translated, I'm going to have to go back and check on this because maybe there
+[01:14:21.980 --> 01:14:22.980]   is an update.
+[01:14:22.980 --> 01:14:23.980]   Huh?
+[01:14:23.980 --> 01:14:24.980]   Anglicized?
+[01:14:24.980 --> 01:14:25.980]   All right.
+[01:14:25.980 --> 01:14:26.980]   I go back.
+[01:14:26.980 --> 01:14:39.780]   Like I said, my Bible program, it just says ESV.
+[01:14:39.780 --> 01:14:40.780]   Okay.
+[01:14:40.780 --> 01:14:43.260]   Anyway, let's pretend like this didn't happen.
+[01:14:43.260 --> 01:14:44.260]   Okay.
+[01:14:44.260 --> 01:14:46.020]   And let's just look at what we have.
+[01:14:46.020 --> 01:14:47.020]   Okay.
+[01:14:47.020 --> 01:14:52.220]   If you look at the two different ways, okay, before it was three different ways, including
+[01:14:52.220 --> 01:14:54.180]   ESV.
+[01:14:54.180 --> 01:14:59.460]   If you look at it, or sorry, two different ways, it says we have also, I'm reading the
+[01:14:59.460 --> 01:15:02.620]   King James, we have also a more sure word of prophecy.
+[01:15:02.620 --> 01:15:07.760]   It may mean that the prophecy is more sure than what?
+[01:15:07.760 --> 01:15:09.660]   Than the transfiguration.
+[01:15:09.660 --> 01:15:10.880]   Right?
+[01:15:10.880 --> 01:15:13.880]   If you read it this way, and we have something more sure.
+[01:15:13.880 --> 01:15:18.740]   If you read the, at least my version of the ESV, right?
+[01:15:18.740 --> 01:15:23.460]   Meaning that the word of God is more sure than the transfiguration.
+[01:15:23.460 --> 01:15:24.460]   Right?
+[01:15:24.460 --> 01:15:29.080]   If you read it this way, if you read it the other way, the transfiguration is making the
+[01:15:29.080 --> 01:15:30.900]   word of God more sure.
+[01:15:30.900 --> 01:15:31.900]   Okay.
+[01:15:31.900 --> 01:15:34.220]   Do you get it?
+[01:15:34.220 --> 01:15:36.580]   I need you to get it so I can make my other point.
+[01:15:36.580 --> 01:15:37.580]   Right?
+[01:15:37.580 --> 01:15:40.660]   If you don't get this, the other stuff's not going to make sense.
+[01:15:40.660 --> 01:15:41.660]   All right.
+[01:15:41.660 --> 01:15:43.220]   So what is the correct translation?
+[01:15:43.220 --> 01:15:46.280]   Well, there's nothing in the Greek that you're going to look at and say, well, the grammar
+[01:15:46.280 --> 01:15:47.280]   says this and that.
+[01:15:47.280 --> 01:15:54.660]   And there's a reason why it was translated different because the word, let me go back
+[01:15:54.660 --> 01:15:55.660]   here.
+[01:15:55.660 --> 01:15:59.060]   The word for greed made more sure is a comparative word.
+[01:15:59.060 --> 01:16:00.160]   Right?
+[01:16:00.160 --> 01:16:05.260]   So if you were to translate it literally, this is what it would sound like.
+[01:16:05.260 --> 01:16:06.960]   Okay.
+[01:16:06.960 --> 01:16:10.860]   Because it was meant to compare.
+[01:16:10.860 --> 01:16:12.660]   And that's the only thing that exists in the Greek.
+[01:16:12.660 --> 01:16:18.340]   But the reason why the NASB and all the other translation, and maybe the updated ESV version,
+[01:16:18.340 --> 01:16:24.460]   maybe translated this way is because it doesn't necessarily fit the context of what Peter
+[01:16:24.460 --> 01:16:25.460]   is saying.
+[01:16:25.460 --> 01:16:31.660]   That he's saying that he has this transfiguration and then he says that he's not discouraging
+[01:16:31.660 --> 01:16:33.040]   them from the transfiguration.
+[01:16:33.040 --> 01:16:37.980]   He's basically telling them to add to, to bolster up the word of God.
+[01:16:37.980 --> 01:16:39.380]   Does that make sense?
+[01:16:39.380 --> 01:16:45.620]   So if we go back here, the word of God, that however you view it, the agreement is the
+[01:16:45.620 --> 01:16:46.620]   same.
+[01:16:46.620 --> 01:16:51.140]   Whether you translate it to NASB or the King James version, the meaning is the same.
+[01:16:51.140 --> 01:16:57.980]   The meaning is that the vision confirmed the word of God and not the word confirming the
+[01:16:57.980 --> 01:16:58.980]   vision.
+[01:16:58.980 --> 01:17:01.540]   The order of this is that the word of God is central.
+[01:17:01.540 --> 01:17:02.780]   Right?
+[01:17:02.780 --> 01:17:06.520]   So he, the only reason why he even mentions the transfiguration is to get to the word
+[01:17:06.520 --> 01:17:07.780]   of God.
+[01:17:07.780 --> 01:17:08.780]   Right?
+[01:17:08.780 --> 01:17:11.900]   However you translate it, the word of God is central.
+[01:17:11.900 --> 01:17:17.020]   The conclusion of the encouragement is to pay attention to the word of God and not to
+[01:17:17.020 --> 01:17:18.020]   pursue vision.
+[01:17:18.020 --> 01:17:19.020]   Right?
+[01:17:19.020 --> 01:17:24.580]   He's not saying don't pursue vision, but the conclusion of this isn't because we saw the
+[01:17:24.580 --> 01:17:29.380]   transfiguration that you guys should have this personal experience of this transfiguration
+[01:17:29.380 --> 01:17:30.380]   yourself.
+[01:17:30.380 --> 01:17:31.380]   That was not his point.
+[01:17:31.380 --> 01:17:37.360]   He said we have this transfiguration to confirm, right, even more the word of God.
+[01:17:37.360 --> 01:17:41.800]   So and then he concludes it, the second part of it is therefore pay much closer attention
+[01:17:41.800 --> 01:17:43.300]   to what you have heard.
+[01:17:43.300 --> 01:17:44.300]   Right?
+[01:17:44.300 --> 01:17:49.700]   And then it doesn't nullify or prohibit your experience, but it must not contradict or
+[01:17:49.700 --> 01:17:53.220]   detract from God's word because the word of God is central.
+[01:17:53.220 --> 01:17:56.060]   Does that make sense?
+[01:17:56.060 --> 01:17:57.060]   Okay.
+[01:17:57.060 --> 01:17:59.700]   Yes, that makes sense?
+[01:17:59.700 --> 01:18:00.700]   Okay.
+[01:18:00.700 --> 01:18:01.700]   All right.
+[01:18:01.700 --> 01:18:03.620]   I'm going to have to recheck the ESV.
+[01:18:03.620 --> 01:18:05.740]   What's going on with, yeah.
+[01:18:05.740 --> 01:18:10.700]   My Bible program is very old, so maybe there is an updated version.
+[01:18:10.700 --> 01:18:20.440]   There's a UK version?
+[01:18:20.440 --> 01:18:29.260]   So why is the UK version different than the?
+[01:18:29.260 --> 01:18:32.500]   Okay.
+[01:18:32.500 --> 01:18:45.060]   But I don't understand why in my Bible program, the only ESV they have is the anglican version.
+[01:18:45.060 --> 01:18:46.060]   That's weird.
+[01:18:46.060 --> 01:18:47.060]   Okay.
+[01:18:47.060 --> 01:18:54.220]   All the more why we need to pay close attention to the word of God.
+[01:18:54.220 --> 01:18:55.220]   Okay.
+[01:18:55.220 --> 01:18:59.660]   So again, these type of things, like while you, if you're taking a closer look at the
+[01:18:59.660 --> 01:19:05.020]   text, can you see how, maybe not in this text, can you see how if you're looking at the text
+[01:19:05.020 --> 01:19:08.940]   and one person looks at one way, another person looks at another way, why they can, two people
+[01:19:08.940 --> 01:19:10.580]   come up with two different conclusions.
+[01:19:10.580 --> 01:19:11.580]   Right?
+[01:19:11.580 --> 01:19:14.540]   And you say, the word of God, I'm sure the word of God says this.
+[01:19:14.540 --> 01:19:18.260]   It's because the translation sounds a bit different.
+[01:19:18.260 --> 01:19:24.540]   And that's why we need to take a closer look and then to see what's actually going on.
+[01:19:24.540 --> 01:19:28.380]   And so when you actually see what's going on, they might, there might not be a slam
+[01:19:28.380 --> 01:19:33.940]   dunk conclusion, but you can decipher and filter to see how much of this is someone's
+[01:19:33.940 --> 01:19:38.060]   opinion and how much is, is a direct quote from the Bible.
+[01:19:38.060 --> 01:19:39.060]   Right?
+[01:19:39.060 --> 01:19:42.340]   So you think about it, like how much of the things that you are taught on a day to day
+[01:19:42.340 --> 01:19:47.700]   basis is somebody who looked at it and interpreted a certain way, but because they're presenting
+[01:19:47.700 --> 01:19:50.620]   you as the word of God, you're looking at it and say, Oh, that's what the Bible says,
+[01:19:50.620 --> 01:19:53.260]   which they're not, they wouldn't be wrong.
+[01:19:53.260 --> 01:19:57.700]   But there's something going on in, in the text that when you look at the different translations,
+[01:19:57.700 --> 01:20:02.420]   you know that even the scholars had some disagreement of how this should sound.
+[01:20:02.420 --> 01:20:03.420]   Okay.
+[01:20:03.420 --> 01:20:07.020]   That's why inductive Bible study is important.
+[01:20:07.020 --> 01:20:08.020]   Okay.
+[01:20:08.020 --> 01:20:14.900]   So the central point here, right, is a prophetic word made more sure, meaning pay attention
+[01:20:14.900 --> 01:20:15.900]   to the word of God.
+[01:20:15.900 --> 01:20:19.660]   The word of God is central, not your experience, right?
+[01:20:19.660 --> 01:20:25.580]   Not how you feel, not your own interpretation, not your denomination, but what does the word
+[01:20:25.580 --> 01:20:26.580]   of God say?
+[01:20:26.580 --> 01:20:27.580]   Right?
+[01:20:27.580 --> 01:20:33.580]   Make sure that your faith and your life is founded upon clear teaching of the word of
+[01:20:33.580 --> 01:20:34.580]   God.
+[01:20:34.580 --> 01:20:35.580]   Right?
+[01:20:35.580 --> 01:20:40.060]   Not, not your church, not your nomination, not some pastor that you like, but what does
+[01:20:40.060 --> 01:20:41.180]   the word of God say?
+[01:20:41.180 --> 01:20:42.180]   Right?
+[01:20:42.180 --> 01:20:43.820]   So having said that, how does he make his argument?
+[01:20:43.820 --> 01:20:45.220]   So let's connect these together.
+[01:20:45.220 --> 01:20:46.220]   Right?
+[01:20:46.220 --> 01:20:49.260]   We do not follow cleverly devised tales.
+[01:20:49.260 --> 01:20:53.040]   Now why does he say that?
+[01:20:53.040 --> 01:20:58.700]   If you remember, if you did cross-referencing, right, how often does it come out where Apostle
+[01:20:58.700 --> 01:21:01.820]   Paul and the apostles, they're saying like, "Oh, this is a myth."
+[01:21:01.820 --> 01:21:02.820]   Right?
+[01:21:02.820 --> 01:21:07.260]   And he cautions Timothy, like, "Don't follow, you know, don't give in to endless genealogies."
+[01:21:07.260 --> 01:21:08.260]   Right?
+[01:21:08.260 --> 01:21:12.460]   So one, one of the ways that they were trying to nullify the gospel is saying, "Oh, that's,
+[01:21:12.460 --> 01:21:14.100]   they just made that up."
+[01:21:14.100 --> 01:21:15.420]   Right?
+[01:21:15.420 --> 01:21:18.940]   And today, even today, people are saying that about the Bible.
+[01:21:18.940 --> 01:21:19.940]   Right?
+[01:21:19.940 --> 01:21:21.740]   All just human beings, they say that Jesus wasn't real.
+[01:21:21.740 --> 01:21:24.900]   They say all of this stuff, even though there's historical evidence.
+[01:21:24.900 --> 01:21:26.060]   Right?
+[01:21:26.060 --> 01:21:32.420]   But especially in the early church, think about how strange this must have sounded.
+[01:21:32.420 --> 01:21:37.020]   That the son of God took on human form and died for you, and if you believe in him, you'll
+[01:21:37.020 --> 01:21:38.020]   have eternal life.
+[01:21:38.020 --> 01:21:40.620]   Think about how crazy that must sound.
+[01:21:40.620 --> 01:21:41.620]   Right?
+[01:21:41.620 --> 01:21:44.980]   And if you grew up in the church, it doesn't sound crazy to you, but think about it from,
+[01:21:44.980 --> 01:21:49.220]   from 2000 years ago, where they're all polytheists.
+[01:21:49.220 --> 01:21:52.580]   They believe in all kinds of God, and all of a sudden, just the fact that you're saying
+[01:21:52.580 --> 01:21:55.460]   there's only one God, you're crazy.
+[01:21:55.460 --> 01:21:58.860]   But on top of that, think carefully about what this means.
+[01:21:58.860 --> 01:21:59.860]   Right?
+[01:21:59.860 --> 01:22:03.380]   And so he's saying, "We didn't follow cleverly devised tales."
+[01:22:03.380 --> 01:22:05.500]   And then the version of that is, "No prophecy."
+[01:22:05.500 --> 01:22:11.540]   Oops.
+[01:22:11.540 --> 01:22:15.420]   No prophecy was by human will.
+[01:22:15.420 --> 01:22:16.420]   Right?
+[01:22:16.420 --> 01:22:20.260]   Do you see the correlation?
+[01:22:20.260 --> 01:22:21.780]   We didn't make this up.
+[01:22:21.780 --> 01:22:22.780]   Right?
+[01:22:22.780 --> 01:22:24.300]   This was not by our will.
+[01:22:24.300 --> 01:22:26.940]   When we made known to you the power.
+[01:22:26.940 --> 01:22:28.860]   Right?
+[01:22:28.860 --> 01:22:31.460]   You notice how he says power, not love?
+[01:22:31.460 --> 01:22:35.100]   Because when we typically think about the gospel, we think about the love of Christ.
+[01:22:35.100 --> 01:22:38.980]   But he says, "We made known to you the power of Christ."
+[01:22:38.980 --> 01:22:40.140]   Right?
+[01:22:40.140 --> 01:22:44.900]   Remember we talked about what is power associated with in the Bible?
+[01:22:44.900 --> 01:22:45.900]   Huh?
+[01:22:45.900 --> 01:22:49.340]   Sorry, I couldn't hear.
+[01:22:49.340 --> 01:22:50.980]   Judgment, yes.
+[01:22:50.980 --> 01:22:55.100]   But I mentioned this a couple of weeks ago.
+[01:22:55.100 --> 01:22:57.780]   Holy Spirit.
+[01:22:57.780 --> 01:22:58.780]   Right?
+[01:22:58.780 --> 01:23:03.700]   Now, do you see the chiastic structure a little bit better?
+[01:23:03.700 --> 01:23:04.700]   Okay?
+[01:23:04.700 --> 01:23:12.420]   He's kind of making a mirror argument here that it wasn't cleverly devised tales when
+[01:23:12.420 --> 01:23:14.100]   he spoke of the power of God.
+[01:23:14.100 --> 01:23:16.660]   It wasn't by human will, but by the Holy Spirit.
+[01:23:16.660 --> 01:23:17.660]   Okay?
+[01:23:17.660 --> 01:23:22.660]   He said, "But we were eyewitnesses of his majesty for when we received honor and glory,
+[01:23:22.660 --> 01:23:27.180]   when he received honor and glory from God the Father, such an utterance as this was
+[01:23:27.180 --> 01:23:29.180]   made to him by the majestic glory."
+[01:23:29.180 --> 01:23:32.780]   You notice how he mentions how Jesus' majesty.
+[01:23:32.780 --> 01:23:34.020]   Right?
+[01:23:34.020 --> 01:23:35.860]   He saw his majesty by who?
+[01:23:35.860 --> 01:23:38.260]   The majesty of his glory.
+[01:23:38.260 --> 01:23:43.780]   So Peter is equating, at least in verbiage, Jesus with God.
+[01:23:43.780 --> 01:23:44.780]   Right?
+[01:23:44.780 --> 01:23:48.220]   And he says, "But know this, that first of all, no prophecy of Scripture is a matter
+[01:23:48.220 --> 01:23:49.660]   of own interpretation."
+[01:23:49.660 --> 01:23:52.700]   He says, "No, we didn't just devise this.
+[01:23:52.700 --> 01:23:53.700]   We didn't just make this up.
+[01:23:53.700 --> 01:23:55.060]   We actually heard him."
+[01:23:55.060 --> 01:23:56.060]   Right?
+[01:23:56.060 --> 01:23:59.180]   "We didn't, this was not by our own interpretation."
+[01:23:59.180 --> 01:24:00.180]   Okay?
+[01:24:00.340 --> 01:24:06.380]   Then lastly, he said, "My beloved son, whom I am well pleased, and we ourselves heard
+[01:24:06.380 --> 01:24:10.340]   the utterance made known from heaven, and we were with him on the holy mountain."
+[01:24:10.340 --> 01:24:11.580]   Right?
+[01:24:11.580 --> 01:24:15.780]   And so basically, this is what his eyes were opened.
+[01:24:15.780 --> 01:24:16.780]   Right?
+[01:24:16.780 --> 01:24:21.420]   Now, did Peter not know this?
+[01:24:21.420 --> 01:24:23.920]   Did Peter not know this?
+[01:24:23.920 --> 01:24:26.780]   When did Peter make that confession?
+[01:24:26.780 --> 01:24:29.900]   Who do men say that I am?
+[01:24:29.900 --> 01:24:33.980]   Was it before the transfiguration or after the transfiguration?
+[01:24:33.980 --> 01:24:36.220]   Before.
+[01:24:36.220 --> 01:24:38.300]   Right?
+[01:24:38.300 --> 01:24:40.820]   The confession happens before the transfiguration.
+[01:24:40.820 --> 01:24:43.900]   So Peter, when he was asked, "Who do men say that I am?"
+[01:24:43.900 --> 01:24:46.500]   He said, "Well, some say you're Elijah, some say you're the prophet."
+[01:24:46.500 --> 01:24:47.980]   He said, "Well, who do you say I am?"
+[01:24:47.980 --> 01:24:53.140]   You are the Christ, right?
+[01:24:53.140 --> 01:24:55.740]   The son of the living God.
+[01:24:55.740 --> 01:24:56.740]   Right?
+[01:24:56.740 --> 01:24:59.420]   So Peter already knew this confession.
+[01:24:59.420 --> 01:25:05.060]   And this was what God said to, remember in last sermon, right?
+[01:25:05.060 --> 01:25:09.260]   At baptism when he came up, the Holy Spirit descends upon Jesus and rests on him like
+[01:25:09.260 --> 01:25:16.140]   a dove and God opens up heaven and says, "You are my beloved son, in whom I am well pleased."
+[01:25:16.140 --> 01:25:17.140]   Right?
+[01:25:17.140 --> 01:25:23.060]   So this was not the first time, but he says this for what purpose?
+[01:25:23.060 --> 01:25:24.660]   For confirmation.
+[01:25:24.660 --> 01:25:26.080]   Right?
+[01:25:26.080 --> 01:25:28.340]   For greater and deeper conviction.
+[01:25:28.340 --> 01:25:29.460]   So what does he say here?
+[01:25:29.460 --> 01:25:33.260]   "A lamp shining in a dark place until the day dawns and the morning star rises in your
+[01:25:33.260 --> 01:25:34.260]   heart."
+[01:25:34.260 --> 01:25:35.260]   Okay?
+[01:25:35.260 --> 01:25:38.740]   So do you see the chaosic structure?
+[01:25:38.740 --> 01:25:40.860]   That's my whole point.
+[01:25:40.860 --> 01:25:41.860]   Okay.
+[01:25:41.860 --> 01:25:46.540]   So you see a clear, to me, there seems to be a clear chaotic structure that Peter must
+[01:25:46.540 --> 01:25:49.820]   have been thinking this in order to get to this point.
+[01:25:49.820 --> 01:25:51.020]   Right?
+[01:25:51.020 --> 01:25:55.180]   To pay much closer attention to the word of God.
+[01:25:55.180 --> 01:25:56.220]   Right?
+[01:25:56.220 --> 01:26:03.060]   So the central point of what he is trying to tell us is do not stray from his word.
+[01:26:03.060 --> 01:26:04.260]   Right?
+[01:26:04.260 --> 01:26:08.020]   It doesn't mean your experiences don't count, but your experiences have to be tested by
+[01:26:08.020 --> 01:26:11.060]   the word of God.
+[01:26:11.060 --> 01:26:15.420]   If sometimes your feelings are going to take you away, sometimes your own convictions are
+[01:26:15.420 --> 01:26:19.900]   going to take you away, sometimes your own prejudices, your paradigm, certain things
+[01:26:19.900 --> 01:26:21.980]   that you've adopted.
+[01:26:21.980 --> 01:26:25.060]   And sometimes simply because it's inconvenient.
+[01:26:25.060 --> 01:26:29.900]   And so instead of judging, allowing the word of God to judge you and change you, what ends
+[01:26:29.900 --> 01:26:30.900]   up happening?
+[01:26:30.900 --> 01:26:32.740]   You end up changing the word of God.
+[01:26:32.740 --> 01:26:33.820]   Right?
+[01:26:33.820 --> 01:26:39.380]   And so the word of God has to be central.
+[01:26:39.380 --> 01:26:41.740]   Right?
+[01:26:41.740 --> 01:26:48.620]   So one thing I want to point out here, he says in verse 20, before I move on, but know
+[01:26:48.620 --> 01:26:54.060]   first of all that no prophecy of scripture is a matter of one's own interpretation.
+[01:26:54.060 --> 01:26:55.140]   Right?
+[01:26:55.140 --> 01:26:59.140]   Know first of all, you notice how he emphasizes first of all, above everything else, that
+[01:26:59.140 --> 01:27:02.580]   you need to know that scripture is not man-made.
+[01:27:02.580 --> 01:27:04.440]   Right?
+[01:27:04.440 --> 01:27:05.440]   This is from God.
+[01:27:05.440 --> 01:27:06.940]   This is the beginning point.
+[01:27:06.940 --> 01:27:07.940]   Right?
+[01:27:07.940 --> 01:27:14.340]   So if you are not confident about the word of God being the word of God, what ends up
+[01:27:14.340 --> 01:27:15.840]   happening?
+[01:27:15.840 --> 01:27:19.880]   How does that, how is that fleshed out in your walk with God?
+[01:27:19.880 --> 01:27:22.920]   Or even Bible study?
+[01:27:22.920 --> 01:27:27.840]   How will it change your approach, your attitude, your application of the word of God, if your
+[01:27:27.840 --> 01:27:32.840]   conviction of this being the word of God is not sure?
+[01:27:32.840 --> 01:27:37.360]   Or it's shaky?
+[01:27:37.360 --> 01:27:39.800]   You understand my question?
+[01:27:39.800 --> 01:27:44.720]   Because he says first of all, before anything else, you have to be convinced that this is
+[01:27:44.720 --> 01:27:48.360]   God's word.
+[01:27:48.360 --> 01:27:51.600]   Because if you're not convinced this is God's word, what are we doing today?
+[01:27:51.600 --> 01:27:52.600]   Huh?
+[01:27:52.600 --> 01:27:58.160]   What did he say?
+[01:27:58.160 --> 01:27:59.160]   Book club.
+[01:27:59.160 --> 01:28:02.560]   Yeah, this is one massive book club.
+[01:28:02.560 --> 01:28:03.560]   Right?
+[01:28:03.560 --> 01:28:07.240]   And we're only doing five verses.
+[01:28:07.240 --> 01:28:09.680]   Yeah, we're just studying.
+[01:28:09.680 --> 01:28:10.680]   Right?
+[01:28:10.680 --> 01:28:13.800]   We're gaining knowledge.
+[01:28:13.800 --> 01:28:14.800]   Will it ever change you?
+[01:28:14.800 --> 01:28:21.200]   No, it's not going to change you because your real reason you're here is not to hear the
+[01:28:21.200 --> 01:28:22.200]   word of God.
+[01:28:22.200 --> 01:28:24.620]   This is where your friends are.
+[01:28:24.620 --> 01:28:29.800]   It just happens you are among friends who are studying the word of God.
+[01:28:29.800 --> 01:28:32.360]   But that's not your main reason why you're here.
+[01:28:32.360 --> 01:28:33.360]   Right?
+[01:28:33.360 --> 01:28:37.420]   If you're not convinced this is the word of God.
+[01:28:37.420 --> 01:28:41.640]   Anything that the Bible says is inconvenient, says your life, you're not going to take it
+[01:28:41.640 --> 01:28:42.640]   seriously.
+[01:28:42.640 --> 01:28:43.640]   Right?
+[01:28:43.640 --> 01:28:44.640]   Because you're not sure if this is the word.
+[01:28:44.640 --> 01:28:47.640]   Because it doesn't come to you with authority.
+[01:28:47.640 --> 01:28:50.480]   Right?
+[01:28:50.480 --> 01:28:54.920]   It's to kind of give you some boundaries of what you should and should not do, or maybe
+[01:28:54.920 --> 01:28:57.400]   to kind of fit into the social group that you're in.
+[01:28:57.400 --> 01:29:00.000]   But it doesn't speak to you like God says this.
+[01:29:00.000 --> 01:29:01.840]   God is telling you this.
+[01:29:01.840 --> 01:29:02.840]   Right?
+[01:29:02.840 --> 01:29:04.960]   It won't come to you with that kind of authority.
+[01:29:04.960 --> 01:29:09.280]   So you'll end up picking and choosing what you think is beneficial in your life, and
+[01:29:09.280 --> 01:29:15.200]   whatever you think isn't going to be beneficial, you just, you're not going to say, "I reject
+[01:29:15.200 --> 01:29:19.080]   it," because rejecting the word of God publicly means you're going to reject the community
+[01:29:19.080 --> 01:29:20.640]   that you belong to.
+[01:29:20.640 --> 01:29:21.640]   Right?
+[01:29:21.640 --> 01:29:23.880]   And you don't want to do that.
+[01:29:23.880 --> 01:29:29.000]   So therefore, you kind of study the word of God, go through the motions, right?
+[01:29:29.000 --> 01:29:31.020]   Even sometimes memorize scripture.
+[01:29:31.020 --> 01:29:35.520]   But it doesn't have the kind of impact that it should.
+[01:29:35.520 --> 01:29:38.560]   Because you're not taking it as God's word.
+[01:29:38.560 --> 01:29:39.840]   God didn't say this.
+[01:29:39.840 --> 01:29:40.840]   Right?
+[01:29:40.840 --> 01:29:45.960]   Imagine if God, these were actually the words of God to you personally.
+[01:29:45.960 --> 01:29:47.100]   Right?
+[01:29:47.100 --> 01:29:48.720]   And that's exactly how it's said.
+[01:29:48.720 --> 01:29:49.720]   Right?
+[01:29:49.720 --> 01:29:52.680]   Every time Paul writes a letter, he said, "I'm an apostle of Jesus Christ."
+[01:29:52.680 --> 01:29:54.680]   This is God's word.
+[01:29:54.680 --> 01:29:55.880]   Right?
+[01:29:55.880 --> 01:29:57.040]   God is speaking.
+[01:29:57.040 --> 01:30:05.040]   Not apostle, not cleverly devised interpretation, not from the will of man, but God is speaking.
+[01:30:05.040 --> 01:30:10.000]   So you and I do not get to choose, "I like this and I don't like this."
+[01:30:10.000 --> 01:30:11.280]   Right?
+[01:30:11.280 --> 01:30:17.520]   If the Bible says women shouldn't preach, we don't stand there and say, "That doesn't
+[01:30:17.520 --> 01:30:18.520]   sound right.
+[01:30:18.520 --> 01:30:20.880]   How can that be fair?
+[01:30:20.880 --> 01:30:22.040]   He must not mean this."
+[01:30:22.040 --> 01:30:23.600]   And we reject that.
+[01:30:23.600 --> 01:30:24.600]   Right?
+[01:30:24.600 --> 01:30:27.680]   Now we can challenge that and then study it.
+[01:30:27.680 --> 01:30:29.680]   Does it actually say that?
+[01:30:29.680 --> 01:30:31.880]   Is that what we're actually supposed to apply?
+[01:30:31.880 --> 01:30:37.880]   But you can't, by your prejudice, say, "I choose not to accept that."
+[01:30:37.880 --> 01:30:41.440]   If this is God speaking, you don't come to God and say, "You know what I mean?
+[01:30:41.440 --> 01:30:45.440]   I know you made me, but I don't know if I agree with this."
+[01:30:45.440 --> 01:30:48.520]   If he's the creator and he said it, it comes with authority.
+[01:30:48.520 --> 01:30:49.560]   Right?
+[01:30:49.560 --> 01:30:52.920]   So the application question is a different question.
+[01:30:52.920 --> 01:30:54.000]   But does it actually say that?
+[01:30:54.000 --> 01:30:55.680]   You and I cannot change that.
+[01:30:55.680 --> 01:30:56.680]   Right?
+[01:30:56.680 --> 01:30:59.140]   The Bible says homosexuality is a sin.
+[01:30:59.140 --> 01:31:01.840]   We don't get to come to the word of God and say, "I'm not sure.
+[01:31:01.840 --> 01:31:02.840]   That doesn't sound fair."
+[01:31:02.840 --> 01:31:04.060]   Right?
+[01:31:04.060 --> 01:31:07.200]   If it's God's word, God changes us.
+[01:31:07.200 --> 01:31:08.200]   We don't change God.
+[01:31:08.200 --> 01:31:09.200]   Right?
+[01:31:09.200 --> 01:31:16.280]   That's why he says, "No first of all, that this prophecy is not a matter of one's own
+[01:31:16.280 --> 01:31:17.280]   interpretation.
+[01:31:17.280 --> 01:31:19.360]   No prophecy was ever made by human will.
+[01:31:19.360 --> 01:31:23.440]   This was not a bunch of people got together who put wise words together.
+[01:31:23.440 --> 01:31:28.680]   But men moved by the Holy Spirit, by the power of God, spoke from God."
+[01:31:28.680 --> 01:31:29.680]   That's his main point.
+[01:31:29.680 --> 01:31:30.680]   Right?
+[01:31:30.680 --> 01:31:38.740]   His main point is he's telling, as Apostle Paul, Peter is facing death, all kinds of challenges
+[01:31:38.740 --> 01:31:43.340]   are coming into the church, persecution, and even the cost of their life.
+[01:31:43.340 --> 01:31:46.080]   And so Peter is telling them, right?
+[01:31:46.080 --> 01:31:49.000]   He says, remember what he said last week?
+[01:31:49.000 --> 01:31:53.760]   He said, "Remember justification by grace, sanctification by grace, glorification by
+[01:31:53.760 --> 01:31:54.760]   grace.
+[01:31:54.760 --> 01:31:55.760]   Therefore," what?
+[01:31:55.840 --> 01:32:01.640]   "Live your life to pursue holiness, love, sanctification.
+[01:32:01.640 --> 01:32:06.280]   And as you're pursuing sanctification, God will supply everything that you need," right?
+[01:32:06.280 --> 01:32:09.320]   "In your journey to glorification in heaven."
+[01:32:09.320 --> 01:32:13.960]   And then now he says, "I've heard all of these things and it makes the word of God even that
+[01:32:13.960 --> 01:32:15.920]   much more precious."
+[01:32:15.920 --> 01:32:21.000]   Because everything that we've seen and experienced, it points to the word of God being the word
+[01:32:21.000 --> 01:32:22.000]   of God.
+[01:32:22.000 --> 01:32:28.000]   Not man's words, not something that we created, not just some fancy history, but this is the
+[01:32:28.000 --> 01:32:29.340]   word of God.
+[01:32:29.340 --> 01:32:34.880]   And because this is the word of God, he said, "Pay very close attention to it.
+[01:32:34.880 --> 01:32:36.640]   Pay very close attention to it.
+[01:32:36.640 --> 01:32:39.720]   This is not just some random letter that you're getting.
+[01:32:39.720 --> 01:32:45.360]   This is a matter of life and death until a lamp shining in the dark places, not just
+[01:32:45.360 --> 01:32:48.080]   in the world, but in your own heart.
+[01:32:48.080 --> 01:32:52.600]   The things that you've allowed darkness into your heart, into your thinking, into your
+[01:32:52.600 --> 01:32:55.000]   coveting, compromises.
+[01:32:55.000 --> 01:32:59.680]   Until the lamp shining in the dark place, until the day dawns, until you see the truth
+[01:32:59.680 --> 01:33:05.480]   and the morning star rises in your own heart, until the word of God changes you.
+[01:33:05.480 --> 01:33:12.000]   And you begin to see the truth as God says it, because this is not made up.
+[01:33:12.000 --> 01:33:15.240]   This is not some fancy story, right?
+[01:33:15.240 --> 01:33:18.440]   You're not studying this like you're studying at school.
+[01:33:18.440 --> 01:33:19.640]   This is not just science.
+[01:33:19.640 --> 01:33:21.600]   This is not history.
+[01:33:21.600 --> 01:33:27.560]   This is God's living word, right?
+[01:33:27.560 --> 01:33:30.640]   All right.
+[01:33:30.640 --> 01:33:33.680]   Here's your discussion questions.
+[01:33:33.680 --> 01:33:39.240]   Does your experiences, do your experiences in life confirm the word of God more, or do
+[01:33:39.240 --> 01:33:42.600]   you have a hard time reconciling the word with your life?
+[01:33:42.600 --> 01:33:43.600]   Okay.
+[01:33:43.600 --> 01:33:47.000]   Does that make sense, right?
+[01:33:47.000 --> 01:33:48.000]   Okay.
+[01:33:48.000 --> 01:33:49.960]   Has some of you guys been Christians for a long time?
+[01:33:49.960 --> 01:33:54.760]   Some of you guys have been Christians for a short period of time, but have you seen
+[01:33:54.760 --> 01:34:00.560]   the word of God confirming it to be true in your life?
+[01:34:00.560 --> 01:34:02.080]   Right?
+[01:34:02.080 --> 01:34:09.160]   Or you're studying these things and then you're living life and it doesn't seem to be true.
+[01:34:09.160 --> 01:34:11.920]   What has your experience said about the word of God?
+[01:34:11.920 --> 01:34:12.920]   Okay.
+[01:34:12.920 --> 01:34:16.120]   How has the word of God caused you to have a complete paradigm shift of something about
+[01:34:16.120 --> 01:34:20.320]   God yourself and the world and et cetera, right?
+[01:34:20.320 --> 01:34:24.800]   If you've been a Christian for any period of time and you've never had any paradigm
+[01:34:24.800 --> 01:34:31.280]   shift of any kind, it probably means you're not either studying the word of God or the
+[01:34:31.280 --> 01:34:34.540]   word of God is having no effect on you, right?
+[01:34:34.540 --> 01:34:35.540]   So that's number two.
+[01:34:35.540 --> 01:34:39.220]   Number three, what gives you the confidence that God's word is God's word and that it's
+[01:34:39.220 --> 01:34:40.220]   inerrant?
+[01:34:40.220 --> 01:34:43.900]   If somebody challenged you about that, well, you say this is the word of God.
+[01:34:43.900 --> 01:34:48.260]   I mean, I heard that it was, you know, the church put it together, right?
+[01:34:48.260 --> 01:34:53.540]   You probably heard some professor somewhere or maybe some atheist or somebody tell you
+[01:34:53.540 --> 01:34:58.460]   that the church just kind of gathered these books together and they stamped it, right?
+[01:34:58.460 --> 01:34:59.460]   Isn't that true?
+[01:34:59.460 --> 01:35:02.180]   If that's so, how can you be so confident?
+[01:35:02.180 --> 01:35:05.020]   Why are you, why do you keep quoting the word of God?
+[01:35:05.020 --> 01:35:08.660]   It's just, it's just a bunch of people who are flawed put it together.
+[01:35:08.660 --> 01:35:12.340]   What makes you so confident this is God's word, right?
+[01:35:12.340 --> 01:35:18.020]   Because until you're convicted that this is the word of God, you're not standing on solid
+[01:35:18.020 --> 01:35:20.340]   ground, right?
+[01:35:20.340 --> 01:35:25.180]   When temptation comes, struggle comes, and when persecution comes and it's going to cost
+[01:35:25.180 --> 01:35:30.940]   something for you to stand with Christ, what's going to cause you to say, even if I die,
+[01:35:30.940 --> 01:35:34.180]   I believe this is true, right?
+[01:35:34.180 --> 01:35:40.820]   But if that's not the case, when your faith starts to cost something, you're not going
+[01:35:40.820 --> 01:35:45.420]   to be able to withstand the test if your conviction doesn't come from here.
+[01:35:45.420 --> 01:35:48.740]   So what, what gives you this confidence, right?
+[01:35:48.740 --> 01:35:51.460]   Now there's probably going to be different degrees of confidence.
+[01:35:51.460 --> 01:35:54.940]   Some of you guys are absolutely convinced for various reasons, right?
+[01:35:54.940 --> 01:35:59.400]   Some of you guys may have, may have conviction, but maybe you can't articulate it.
+[01:35:59.400 --> 01:36:04.060]   But again, maybe in your small group, you can take some time to, to hear, right?
+[01:36:04.060 --> 01:36:07.100]   Sometimes hearing other people's convictions will help you with yours.
+[01:36:07.100 --> 01:36:08.100]   Okay.
+[01:36:08.100 --> 01:36:10.020]   And number four is a practical application question.
+[01:36:10.020 --> 01:36:15.420]   In what way can you better commit to pay closer attention to God's word on a daily basis?
+[01:36:15.420 --> 01:36:16.420]   Okay.
+[01:36:16.420 --> 01:36:20.780]   So as I conclude, before I pray and let you guys go into your group, again, this was a
+[01:36:20.780 --> 01:36:25.700]   struggle that I had early on in my Christian faith because I started running into Jehovah
+[01:36:25.700 --> 01:36:30.220]   Witnesses and Catholics and, and I started to, even though I was already a Christian,
+[01:36:30.220 --> 01:36:35.900]   I started asking myself, how can I be certain that the Jehovah Witnesses Bible isn't true?
+[01:36:35.900 --> 01:36:38.180]   How can I be certain if the Mormons were not true?
+[01:36:38.180 --> 01:36:43.900]   And so as I was wrestling with this, the conclusion that I came to is, is the reliability of the
+[01:36:43.900 --> 01:36:44.900]   word of God, right?
+[01:36:44.900 --> 01:36:46.300]   Where did it come from?
+[01:36:46.300 --> 01:36:47.460]   How did it start?
+[01:36:47.460 --> 01:36:49.980]   How can I be certain that what it says is true?
+[01:36:49.980 --> 01:36:55.940]   So that's why back in college I took, you know, Buddhism, you know, anytime I had an
+[01:36:55.940 --> 01:37:00.860]   opportunity to ask questions and to study on different religions, I did.
+[01:37:00.860 --> 01:37:07.500]   And the end conclusion that I came to was that all the other religions, again, you know,
+[01:37:07.500 --> 01:37:12.100]   if there's more time I will go into detail, but all the other religions, you have to try
+[01:37:12.100 --> 01:37:15.100]   hard to believe, right?
+[01:37:15.100 --> 01:37:19.500]   I mean, you have leaders who went to jail, who are, you know, caught in besiegment, they
+[01:37:19.500 --> 01:37:22.220]   have court records of, of their past.
+[01:37:22.220 --> 01:37:27.020]   I mean, all kinds of stuff and all, and usually it's just one guy came out of the woods and
+[01:37:27.020 --> 01:37:28.620]   saying God spoke to me.
+[01:37:28.620 --> 01:37:34.060]   He just happened to be a very gifted, charismatic guy, but his background is so shady, right?
+[01:37:34.060 --> 01:37:39.380]   Even Buddhism, right off the bat, if you study Buddhism, you go back to Gautama, the last
+[01:37:39.380 --> 01:37:44.140]   Buddha that they say they had, all the disciples say something completely different, right
+[01:37:44.140 --> 01:37:45.140]   off the bat.
+[01:37:45.140 --> 01:37:48.180]   They don't have a central teaching thing that started from the beginning.
+[01:37:48.180 --> 01:37:51.860]   So that's why if you, if you look at Buddhism in Thailand, Buddhism in China, Buddhism in
+[01:37:51.860 --> 01:37:55.420]   Japan, they all sound very different because right off the bat.
+[01:37:55.420 --> 01:37:59.100]   So anyway, I took plenty of time to go and study all of this stuff and the end conclusion
+[01:37:59.100 --> 01:38:07.660]   was word of God, even if you're not a Christian, you end up with a lot of questions.
+[01:38:07.660 --> 01:38:09.100]   How did we get this book?
+[01:38:09.100 --> 01:38:10.660]   How did these things happen?
+[01:38:10.660 --> 01:38:14.940]   How come, how come there's, the things in here are so accurate?
+[01:38:14.940 --> 01:38:19.140]   Why a bunch of people who are trying to tell lies from the beginning, why do they give
+[01:38:19.140 --> 01:38:23.380]   their life, all of them telling the same lie?
+[01:38:23.380 --> 01:38:24.900]   None of them benefited from it.
+[01:38:24.900 --> 01:38:26.580]   None of them got rich from it.
+[01:38:26.580 --> 01:38:28.380]   None of them were venerated.
+[01:38:28.380 --> 01:38:35.460]   Everybody went to jail, got beheaded, crucified upside down if they were telling a lie, right?
+[01:38:35.460 --> 01:38:38.140]   Why are the prophecies so accurate?
+[01:38:38.140 --> 01:38:42.700]   How come if they're telling a lie that every other historical fact, archeology is written
+[01:38:42.700 --> 01:38:43.700]   so accurately?
+[01:38:43.700 --> 01:38:48.180]   I mean, it just piles up one after another and the end conclusion is even if you're not
+[01:38:48.180 --> 01:38:53.300]   a Christian, you come out thinking this is not an ordinary book, right?
+[01:38:53.300 --> 01:38:57.780]   Obviously as Christians, there's reasons why there's so much evidence because this is true,
+[01:38:57.780 --> 01:38:58.780]   okay?
+[01:38:58.780 --> 01:39:04.100]   Again, all of this is, that's the journey that I took but at the end of the day, all
+[01:39:04.100 --> 01:39:05.580]   of that stuff was superficial.
+[01:39:05.580 --> 01:39:08.760]   The real evidence is in the word of God itself, right?
+[01:39:08.760 --> 01:39:14.300]   I can tell you about God but until you meet God, it's just my testimony, right?
+[01:39:14.300 --> 01:39:23.000]   And so because the text is driving us to the word of God, the end conclusion is where do
+[01:39:23.000 --> 01:39:24.160]   you stand with the word of God?
+[01:39:24.160 --> 01:39:25.760]   I know you're at a Bible teaching church.
+[01:39:25.760 --> 01:39:30.440]   I know most of you guys are members of this church and superficially, you may say, "I believe
+[01:39:30.440 --> 01:39:32.940]   in inerrancy," right?
+[01:39:32.940 --> 01:39:35.200]   But how does the word of God impact you?
+[01:39:35.200 --> 01:39:39.960]   Do you actually read it, study it and apply it like God is speaking to you?
+[01:39:39.960 --> 01:39:45.680]   Okay, let me pray for us, okay?
+[01:39:45.680 --> 01:39:50.600]   Gracious Father, we pray that you would bless this time, bless our discussion.
+[01:39:50.600 --> 01:39:53.320]   I pray that it would truly be fruitful.
+[01:39:53.320 --> 01:39:59.520]   Help us to be honest with our struggles, with our doubts so that we would have opportunities,
+[01:39:59.520 --> 01:40:01.600]   Lord, to grow.
+[01:40:01.600 --> 01:40:06.880]   Help us, Lord, not to simply present ourselves to be godly but that we would be seekers of
+[01:40:06.880 --> 01:40:08.640]   truth.
+[01:40:08.640 --> 01:40:13.080]   Whether we are young in our faith or whether we have been walking for a long time, I pray
+[01:40:13.080 --> 01:40:18.600]   that you would reconvict us of these truths that we may be lovers of you and lovers of
+[01:40:18.600 --> 01:40:19.600]   your word.
+[01:40:19.600 --> 01:40:21.120]   In Jesus' name we pray, amen.
+[01:40:21.120 --> 01:40:26.580]   we're going to do a little bit more stretching.
+[01:40:26.580 --> 01:40:36.580]   [BLANK_AUDIO]
+

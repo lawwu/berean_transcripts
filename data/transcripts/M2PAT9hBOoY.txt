@@ -1,0 +1,1590 @@
+
+[00:00:00.000 --> 00:00:03.500]   [MUSIC PLAYING]
+[00:00:03.500 --> 00:00:07.000]   [MUSIC PLAYING]
+[00:00:07.000 --> 00:00:10.500]   [MUSIC PLAYING]
+[00:00:11.500 --> 00:00:15.000]   [MUSIC PLAYING]
+[00:00:15.000 --> 00:00:19.000]   [MUSIC PLAYING]
+[00:00:19.000 --> 00:00:22.500]   [MUSIC PLAYING]
+[00:00:22.500 --> 00:00:26.000]   [MUSIC PLAYING]
+[00:00:26.000 --> 00:00:29.500]   [MUSIC PLAYING]
+[00:00:29.500 --> 00:00:33.000]   [MUSIC PLAYING]
+[00:00:33.000 --> 00:00:36.500]   [MUSIC PLAYING]
+[00:00:37.000 --> 00:00:40.500]   [MUSIC PLAYING]
+[00:00:40.500 --> 00:00:44.000]   [MUSIC PLAYING]
+[00:00:44.000 --> 00:00:47.500]   [MUSIC PLAYING]
+[00:00:47.500 --> 00:00:51.000]   [MUSIC PLAYING]
+[00:00:51.000 --> 00:00:54.500]   [MUSIC PLAYING]
+[00:00:54.500 --> 00:00:58.000]   [MUSIC PLAYING]
+[00:00:58.000 --> 00:01:01.500]   [MUSIC PLAYING]
+[00:01:01.500 --> 00:01:05.000]   [MUSIC PLAYING]
+[00:01:05.500 --> 00:01:08.500]   [MUSIC PLAYING]
+[00:01:08.500 --> 00:01:12.000]   [MUSIC PLAYING]
+[00:01:12.000 --> 00:01:15.500]   [MUSIC PLAYING]
+[00:01:15.500 --> 00:01:19.000]   [MUSIC PLAYING]
+[00:01:19.000 --> 00:01:22.500]   [MUSIC PLAYING]
+[00:01:22.500 --> 00:01:26.000]   [MUSIC PLAYING]
+[00:01:26.000 --> 00:01:29.500]   [MUSIC PLAYING]
+[00:01:29.500 --> 00:01:33.000]   [MUSIC PLAYING]
+[00:01:33.500 --> 00:01:36.500]   [MUSIC PLAYING]
+[00:01:36.500 --> 00:01:40.000]   [MUSIC PLAYING]
+[00:01:40.000 --> 00:01:43.500]   [MUSIC PLAYING]
+[00:01:43.500 --> 00:01:47.000]   [MUSIC PLAYING]
+[00:01:47.000 --> 00:01:50.500]   [MUSIC PLAYING]
+[00:01:50.500 --> 00:01:54.000]   [MUSIC PLAYING]
+[00:01:54.000 --> 00:01:57.500]   [MUSIC PLAYING]
+[00:01:57.500 --> 00:02:01.000]   [MUSIC PLAYING]
+[00:02:01.500 --> 00:02:04.500]   [MUSIC PLAYING]
+[00:02:04.500 --> 00:02:08.000]   [MUSIC PLAYING]
+[00:02:08.000 --> 00:02:11.500]   [MUSIC PLAYING]
+[00:02:11.500 --> 00:02:15.000]   [MUSIC PLAYING]
+[00:02:15.000 --> 00:02:18.500]   [MUSIC PLAYING]
+[00:02:18.500 --> 00:02:22.000]   [MUSIC PLAYING]
+[00:02:22.000 --> 00:02:25.500]   [MUSIC PLAYING]
+[00:02:25.500 --> 00:02:29.000]   [MUSIC PLAYING]
+[00:02:29.500 --> 00:02:32.500]   [MUSIC PLAYING]
+[00:02:32.500 --> 00:02:36.000]   [MUSIC PLAYING]
+[00:02:36.000 --> 00:02:39.500]   [MUSIC PLAYING]
+[00:02:39.500 --> 00:02:43.000]   [MUSIC PLAYING]
+[00:02:43.000 --> 00:02:46.500]   [MUSIC PLAYING]
+[00:02:46.500 --> 00:02:50.000]   [MUSIC PLAYING]
+[00:02:50.000 --> 00:02:53.500]   [MUSIC PLAYING]
+[00:02:53.500 --> 00:02:57.000]   [MUSIC PLAYING]
+[00:02:57.500 --> 00:03:00.500]   [MUSIC PLAYING]
+[00:03:00.500 --> 00:03:04.000]   [MUSIC PLAYING]
+[00:03:04.000 --> 00:03:07.500]   [MUSIC PLAYING]
+[00:03:07.500 --> 00:03:11.000]   [MUSIC PLAYING]
+[00:03:11.000 --> 00:03:14.500]   [MUSIC PLAYING]
+[00:03:14.500 --> 00:03:18.000]   [MUSIC PLAYING]
+[00:03:18.000 --> 00:03:21.500]   [MUSIC PLAYING]
+[00:03:21.500 --> 00:03:25.000]   [MUSIC PLAYING]
+[00:03:25.500 --> 00:03:28.500]   [MUSIC PLAYING]
+[00:03:28.500 --> 00:03:32.000]   [MUSIC PLAYING]
+[00:03:32.000 --> 00:03:35.500]   [MUSIC PLAYING]
+[00:03:35.500 --> 00:03:39.000]   [MUSIC PLAYING]
+[00:03:39.000 --> 00:03:42.500]   [MUSIC PLAYING]
+[00:03:42.500 --> 00:03:46.000]   [MUSIC PLAYING]
+[00:03:46.000 --> 00:03:49.500]   [MUSIC PLAYING]
+[00:03:49.500 --> 00:03:53.000]   [MUSIC PLAYING]
+[00:03:53.500 --> 00:03:56.500]   [MUSIC PLAYING]
+[00:03:56.500 --> 00:04:00.000]   [MUSIC PLAYING]
+[00:04:00.000 --> 00:04:03.500]   [MUSIC PLAYING]
+[00:04:03.500 --> 00:04:07.000]   [MUSIC PLAYING]
+[00:04:07.000 --> 00:04:10.500]   [MUSIC PLAYING]
+[00:04:10.500 --> 00:04:14.000]   [MUSIC PLAYING]
+[00:04:14.000 --> 00:04:17.500]   [MUSIC PLAYING]
+[00:04:17.500 --> 00:04:21.000]   [MUSIC PLAYING]
+[00:04:21.500 --> 00:04:24.500]   [MUSIC PLAYING]
+[00:04:24.500 --> 00:04:28.000]   [MUSIC PLAYING]
+[00:04:28.000 --> 00:04:31.500]   [MUSIC PLAYING]
+[00:04:31.500 --> 00:04:35.000]   [MUSIC PLAYING]
+[00:04:35.000 --> 00:04:38.500]   [MUSIC PLAYING]
+[00:04:38.500 --> 00:04:42.000]   [MUSIC PLAYING]
+[00:04:42.000 --> 00:04:45.500]   [MUSIC PLAYING]
+[00:04:45.500 --> 00:04:49.000]   [MUSIC PLAYING]
+[00:04:49.500 --> 00:04:52.500]   [MUSIC PLAYING]
+[00:04:52.500 --> 00:04:56.000]   [MUSIC PLAYING]
+[00:04:56.000 --> 00:04:59.500]   [MUSIC PLAYING]
+[00:04:59.500 --> 00:05:03.000]   [MUSIC PLAYING]
+[00:05:03.000 --> 00:05:06.500]   [MUSIC PLAYING]
+[00:05:06.500 --> 00:05:10.000]   [MUSIC PLAYING]
+[00:05:10.000 --> 00:05:13.500]   [MUSIC PLAYING]
+[00:05:13.500 --> 00:05:17.000]   [MUSIC PLAYING]
+[00:05:17.500 --> 00:05:20.500]   [MUSIC PLAYING]
+[00:05:20.500 --> 00:05:24.000]   [MUSIC PLAYING]
+[00:05:24.000 --> 00:05:27.500]   [MUSIC PLAYING]
+[00:05:27.500 --> 00:05:31.000]   [MUSIC PLAYING]
+[00:05:31.000 --> 00:05:34.500]   [MUSIC PLAYING]
+[00:05:34.500 --> 00:05:38.000]   [MUSIC PLAYING]
+[00:05:38.000 --> 00:05:41.500]   [MUSIC PLAYING]
+[00:05:41.500 --> 00:05:45.000]   [MUSIC PLAYING]
+[00:05:45.500 --> 00:05:48.500]   [MUSIC PLAYING]
+[00:05:48.500 --> 00:05:52.000]   [MUSIC PLAYING]
+[00:05:52.000 --> 00:05:55.500]   [MUSIC PLAYING]
+[00:05:55.500 --> 00:05:59.000]   [MUSIC PLAYING]
+[00:05:59.000 --> 00:06:02.500]   [MUSIC PLAYING]
+[00:06:02.500 --> 00:06:06.000]   [MUSIC PLAYING]
+[00:06:06.000 --> 00:06:09.500]   [MUSIC PLAYING]
+[00:06:09.500 --> 00:06:13.000]   [MUSIC PLAYING]
+[00:06:13.500 --> 00:06:16.500]   [MUSIC PLAYING]
+[00:06:16.500 --> 00:06:20.000]   [MUSIC PLAYING]
+[00:06:20.000 --> 00:06:23.500]   [MUSIC PLAYING]
+[00:06:23.500 --> 00:06:27.000]   [MUSIC PLAYING]
+[00:06:27.000 --> 00:06:30.500]   [MUSIC PLAYING]
+[00:06:30.500 --> 00:06:34.000]   [MUSIC PLAYING]
+[00:06:34.000 --> 00:06:37.500]   [MUSIC PLAYING]
+[00:06:37.500 --> 00:06:41.000]   [MUSIC PLAYING]
+[00:06:41.500 --> 00:06:44.500]   [MUSIC PLAYING]
+[00:06:44.500 --> 00:06:48.000]   [MUSIC PLAYING]
+[00:06:48.000 --> 00:06:51.500]   [MUSIC PLAYING]
+[00:06:51.500 --> 00:06:55.000]   [MUSIC PLAYING]
+[00:06:55.000 --> 00:06:58.500]   [MUSIC PLAYING]
+[00:06:58.500 --> 00:07:02.000]   [MUSIC PLAYING]
+[00:07:02.000 --> 00:07:05.500]   [MUSIC PLAYING]
+[00:07:05.500 --> 00:07:09.000]   [MUSIC PLAYING]
+[00:07:09.500 --> 00:07:12.500]   [MUSIC PLAYING]
+[00:07:12.500 --> 00:07:16.000]   [MUSIC PLAYING]
+[00:07:16.000 --> 00:07:19.500]   [MUSIC PLAYING]
+[00:07:19.500 --> 00:07:23.000]   [MUSIC PLAYING]
+[00:07:23.000 --> 00:07:26.500]   [MUSIC PLAYING]
+[00:07:26.500 --> 00:07:30.000]   [MUSIC PLAYING]
+[00:07:30.000 --> 00:07:33.500]   [MUSIC PLAYING]
+[00:07:33.500 --> 00:07:37.000]   [MUSIC PLAYING]
+[00:07:37.500 --> 00:07:40.500]   [MUSIC PLAYING]
+[00:07:40.500 --> 00:07:44.000]   [MUSIC PLAYING]
+[00:07:44.000 --> 00:07:47.500]   [MUSIC PLAYING]
+[00:07:47.500 --> 00:07:51.000]   [MUSIC PLAYING]
+[00:07:51.000 --> 00:07:54.500]   [MUSIC PLAYING]
+[00:07:54.500 --> 00:07:58.000]   [MUSIC PLAYING]
+[00:07:58.000 --> 00:08:01.500]   [MUSIC PLAYING]
+[00:08:01.500 --> 00:08:05.000]   [MUSIC PLAYING]
+[00:08:05.500 --> 00:08:08.500]   [MUSIC PLAYING]
+[00:08:08.500 --> 00:08:12.000]   [MUSIC PLAYING]
+[00:08:12.000 --> 00:08:15.500]   [MUSIC PLAYING]
+[00:08:15.500 --> 00:08:19.000]   [MUSIC PLAYING]
+[00:08:19.000 --> 00:08:22.500]   [MUSIC PLAYING]
+[00:08:22.500 --> 00:08:26.000]   [MUSIC PLAYING]
+[00:08:26.000 --> 00:08:29.500]   [MUSIC PLAYING]
+[00:08:29.500 --> 00:08:33.000]   [MUSIC PLAYING]
+[00:08:33.500 --> 00:08:36.500]   [MUSIC PLAYING]
+[00:08:36.500 --> 00:08:40.000]   [MUSIC PLAYING]
+[00:08:40.000 --> 00:08:43.500]   [MUSIC PLAYING]
+[00:08:43.500 --> 00:08:47.000]   [MUSIC PLAYING]
+[00:08:47.000 --> 00:08:50.500]   [MUSIC PLAYING]
+[00:08:50.500 --> 00:08:54.000]   [MUSIC PLAYING]
+[00:08:54.000 --> 00:08:57.500]   [MUSIC PLAYING]
+[00:08:57.500 --> 00:09:01.000]   [MUSIC PLAYING]
+[00:09:01.500 --> 00:09:04.500]   [MUSIC PLAYING]
+[00:09:04.500 --> 00:09:08.000]   [MUSIC PLAYING]
+[00:09:08.000 --> 00:09:11.500]   [MUSIC PLAYING]
+[00:09:11.500 --> 00:09:15.000]   [MUSIC PLAYING]
+[00:09:15.000 --> 00:09:18.500]   [MUSIC PLAYING]
+[00:09:18.500 --> 00:09:22.000]   [MUSIC PLAYING]
+[00:09:22.000 --> 00:09:25.500]   [MUSIC PLAYING]
+[00:09:25.500 --> 00:09:29.000]   [MUSIC PLAYING]
+[00:09:29.500 --> 00:09:32.500]   [MUSIC PLAYING]
+[00:09:32.500 --> 00:09:36.000]   [MUSIC PLAYING]
+[00:09:36.000 --> 00:09:39.500]   [MUSIC PLAYING]
+[00:09:39.500 --> 00:09:43.000]   [MUSIC PLAYING]
+[00:09:43.000 --> 00:09:46.500]   [MUSIC PLAYING]
+[00:09:46.500 --> 00:09:50.000]   [MUSIC PLAYING]
+[00:09:50.000 --> 00:09:53.500]   [MUSIC PLAYING]
+[00:09:53.500 --> 00:09:57.000]   [MUSIC PLAYING]
+[00:09:57.500 --> 00:10:00.500]   [MUSIC PLAYING]
+[00:10:00.500 --> 00:10:04.000]   [MUSIC PLAYING]
+[00:10:04.000 --> 00:10:07.500]   [MUSIC PLAYING]
+[00:10:07.500 --> 00:10:11.000]   [MUSIC PLAYING]
+[00:10:11.000 --> 00:10:14.500]   [MUSIC PLAYING]
+[00:10:14.500 --> 00:10:18.000]   [MUSIC PLAYING]
+[00:10:18.000 --> 00:10:21.500]   [MUSIC PLAYING]
+[00:10:21.500 --> 00:10:25.000]   [MUSIC PLAYING]
+[00:10:25.500 --> 00:10:28.500]   [MUSIC PLAYING]
+[00:10:28.500 --> 00:10:32.000]   [MUSIC PLAYING]
+[00:10:32.000 --> 00:10:35.500]   [MUSIC PLAYING]
+[00:10:35.500 --> 00:10:39.000]   [MUSIC PLAYING]
+[00:10:39.000 --> 00:10:42.500]   [MUSIC PLAYING]
+[00:10:42.500 --> 00:10:46.000]   [MUSIC PLAYING]
+[00:10:46.000 --> 00:10:49.500]   [MUSIC PLAYING]
+[00:10:49.500 --> 00:10:53.000]   [MUSIC PLAYING]
+[00:10:53.500 --> 00:10:56.500]   [MUSIC PLAYING]
+[00:10:56.500 --> 00:11:00.000]   [MUSIC PLAYING]
+[00:11:00.000 --> 00:11:03.500]   [MUSIC PLAYING]
+[00:11:03.500 --> 00:11:07.000]   [MUSIC PLAYING]
+[00:11:07.000 --> 00:11:10.500]   [MUSIC PLAYING]
+[00:11:10.500 --> 00:11:14.000]   [MUSIC PLAYING]
+[00:11:14.000 --> 00:11:17.500]   [MUSIC PLAYING]
+[00:11:17.500 --> 00:11:21.000]   [MUSIC PLAYING]
+[00:11:21.500 --> 00:11:24.500]   [MUSIC PLAYING]
+[00:11:24.500 --> 00:11:28.000]   [MUSIC PLAYING]
+[00:11:28.000 --> 00:11:31.500]   [MUSIC PLAYING]
+[00:11:31.500 --> 00:11:35.000]   [MUSIC PLAYING]
+[00:11:35.000 --> 00:11:38.500]   [MUSIC PLAYING]
+[00:11:38.500 --> 00:11:42.000]   [MUSIC PLAYING]
+[00:11:42.000 --> 00:11:45.500]   [MUSIC PLAYING]
+[00:11:45.500 --> 00:11:49.000]   [MUSIC PLAYING]
+[00:11:49.500 --> 00:11:52.500]   [MUSIC PLAYING]
+[00:11:52.500 --> 00:11:56.000]   [MUSIC PLAYING]
+[00:11:56.000 --> 00:11:59.500]   [MUSIC PLAYING]
+[00:11:59.500 --> 00:12:03.000]   [MUSIC PLAYING]
+[00:12:03.000 --> 00:12:06.500]   [MUSIC PLAYING]
+[00:12:06.500 --> 00:12:10.000]   [MUSIC PLAYING]
+[00:12:10.000 --> 00:12:13.500]   [MUSIC PLAYING]
+[00:12:13.500 --> 00:12:17.000]   [MUSIC PLAYING]
+[00:12:17.500 --> 00:12:20.500]   [MUSIC PLAYING]
+[00:12:20.500 --> 00:12:24.000]   [MUSIC PLAYING]
+[00:12:24.000 --> 00:12:27.500]   [MUSIC PLAYING]
+[00:12:27.500 --> 00:12:31.000]   [MUSIC PLAYING]
+[00:12:31.000 --> 00:12:34.500]   [MUSIC PLAYING]
+[00:12:34.500 --> 00:12:38.000]   [MUSIC PLAYING]
+[00:12:38.000 --> 00:12:41.500]   [MUSIC PLAYING]
+[00:12:41.500 --> 00:12:45.000]   [MUSIC PLAYING]
+[00:12:45.500 --> 00:12:48.500]   [MUSIC PLAYING]
+[00:12:48.500 --> 00:12:52.000]   [MUSIC PLAYING]
+[00:12:52.000 --> 00:12:55.500]   [MUSIC PLAYING]
+[00:12:55.500 --> 00:12:59.000]   [MUSIC PLAYING]
+[00:12:59.000 --> 00:13:02.500]   [MUSIC PLAYING]
+[00:13:02.500 --> 00:13:06.000]   [MUSIC PLAYING]
+[00:13:06.000 --> 00:13:09.500]   [MUSIC PLAYING]
+[00:13:09.500 --> 00:13:13.000]   [MUSIC PLAYING]
+[00:13:13.500 --> 00:13:16.500]   [MUSIC PLAYING]
+[00:13:16.500 --> 00:13:20.000]   [MUSIC PLAYING]
+[00:13:20.000 --> 00:13:23.500]   [MUSIC PLAYING]
+[00:13:23.500 --> 00:13:27.000]   [MUSIC PLAYING]
+[00:13:27.000 --> 00:13:30.500]   [MUSIC PLAYING]
+[00:13:30.500 --> 00:13:34.000]   [MUSIC PLAYING]
+[00:13:34.000 --> 00:13:37.500]   [MUSIC PLAYING]
+[00:13:37.500 --> 00:13:41.000]   [MUSIC PLAYING]
+[00:13:41.500 --> 00:13:44.500]   [MUSIC PLAYING]
+[00:13:44.500 --> 00:13:48.000]   [MUSIC PLAYING]
+[00:13:48.000 --> 00:13:51.500]   [MUSIC PLAYING]
+[00:13:51.500 --> 00:13:55.000]   [MUSIC PLAYING]
+[00:13:55.000 --> 00:13:58.500]   [MUSIC PLAYING]
+[00:13:58.500 --> 00:14:02.000]   [MUSIC PLAYING]
+[00:14:02.000 --> 00:14:05.500]   [MUSIC PLAYING]
+[00:14:05.500 --> 00:14:09.000]   [MUSIC PLAYING]
+[00:14:09.500 --> 00:14:12.500]   [MUSIC PLAYING]
+[00:14:12.500 --> 00:14:16.000]   [MUSIC PLAYING]
+[00:14:16.000 --> 00:14:19.500]   [MUSIC PLAYING]
+[00:14:19.500 --> 00:14:23.000]   [MUSIC PLAYING]
+[00:14:23.000 --> 00:14:26.500]   [MUSIC PLAYING]
+[00:14:26.500 --> 00:14:30.000]   [MUSIC PLAYING]
+[00:14:30.000 --> 00:14:33.500]   [MUSIC PLAYING]
+[00:14:33.500 --> 00:14:37.000]   [MUSIC PLAYING]
+[00:14:37.500 --> 00:14:40.500]   [MUSIC PLAYING]
+[00:14:40.500 --> 00:14:44.000]   [MUSIC PLAYING]
+[00:14:44.000 --> 00:14:47.500]   [MUSIC PLAYING]
+[00:14:47.500 --> 00:14:51.000]   [MUSIC PLAYING]
+[00:14:51.000 --> 00:14:54.500]   [MUSIC PLAYING]
+[00:14:54.500 --> 00:14:58.000]   [MUSIC PLAYING]
+[00:14:58.000 --> 00:15:01.500]   [MUSIC PLAYING]
+[00:15:01.500 --> 00:15:05.000]   [MUSIC PLAYING]
+[00:15:05.500 --> 00:15:08.500]   [MUSIC PLAYING]
+[00:15:08.500 --> 00:15:12.000]   [MUSIC PLAYING]
+[00:15:12.000 --> 00:15:15.500]   [MUSIC PLAYING]
+[00:15:15.500 --> 00:15:19.000]   [MUSIC PLAYING]
+[00:15:19.000 --> 00:15:22.500]   [MUSIC PLAYING]
+[00:15:22.500 --> 00:15:26.000]   [MUSIC PLAYING]
+[00:15:26.000 --> 00:15:29.500]   [MUSIC PLAYING]
+[00:15:29.500 --> 00:15:33.000]   [MUSIC PLAYING]
+[00:15:33.500 --> 00:15:36.500]   [MUSIC PLAYING]
+[00:15:36.500 --> 00:15:40.000]   [MUSIC PLAYING]
+[00:15:40.000 --> 00:15:43.500]   [MUSIC PLAYING]
+[00:15:43.500 --> 00:15:47.000]   [MUSIC PLAYING]
+[00:15:47.000 --> 00:15:50.500]   [MUSIC PLAYING]
+[00:15:50.500 --> 00:15:54.000]   [MUSIC PLAYING]
+[00:15:54.000 --> 00:15:57.500]   [MUSIC PLAYING]
+[00:15:57.500 --> 00:16:01.000]   [MUSIC PLAYING]
+[00:16:01.500 --> 00:16:04.500]   [MUSIC PLAYING]
+[00:16:04.500 --> 00:16:08.000]   [MUSIC PLAYING]
+[00:16:08.000 --> 00:16:11.500]   [MUSIC PLAYING]
+[00:16:11.500 --> 00:16:15.000]   [MUSIC PLAYING]
+[00:16:15.000 --> 00:16:18.500]   [MUSIC PLAYING]
+[00:16:18.500 --> 00:16:22.000]   [MUSIC PLAYING]
+[00:16:22.000 --> 00:16:25.500]   [MUSIC PLAYING]
+[00:16:25.500 --> 00:16:29.000]   [MUSIC PLAYING]
+[00:16:29.500 --> 00:16:32.500]   [MUSIC PLAYING]
+[00:16:32.500 --> 00:16:36.000]   [MUSIC PLAYING]
+[00:16:36.000 --> 00:16:39.500]   [MUSIC PLAYING]
+[00:16:39.500 --> 00:16:43.000]   [MUSIC PLAYING]
+[00:16:43.000 --> 00:16:46.500]   [MUSIC PLAYING]
+[00:16:46.500 --> 00:16:50.000]   [MUSIC PLAYING]
+[00:16:50.000 --> 00:16:53.500]   [MUSIC PLAYING]
+[00:16:53.500 --> 00:16:57.000]   [MUSIC PLAYING]
+[00:16:57.500 --> 00:17:00.500]   [MUSIC PLAYING]
+[00:17:00.500 --> 00:17:04.000]   [MUSIC PLAYING]
+[00:17:04.000 --> 00:17:07.500]   [MUSIC PLAYING]
+[00:17:07.500 --> 00:17:11.000]   [MUSIC PLAYING]
+[00:17:11.000 --> 00:17:14.500]   [MUSIC PLAYING]
+[00:17:14.500 --> 00:17:18.000]   [MUSIC PLAYING]
+[00:17:18.000 --> 00:17:21.500]   [MUSIC PLAYING]
+[00:17:21.500 --> 00:17:25.000]   [MUSIC PLAYING]
+[00:17:25.500 --> 00:17:28.500]   [MUSIC PLAYING]
+[00:17:28.500 --> 00:17:32.000]   [MUSIC PLAYING]
+[00:17:32.000 --> 00:17:35.500]   [MUSIC PLAYING]
+[00:17:35.500 --> 00:17:39.000]   [MUSIC PLAYING]
+[00:17:39.000 --> 00:17:42.500]   [MUSIC PLAYING]
+[00:17:42.500 --> 00:17:46.000]   [MUSIC PLAYING]
+[00:17:46.000 --> 00:17:49.500]   [MUSIC PLAYING]
+[00:17:49.500 --> 00:17:53.000]   [MUSIC PLAYING]
+[00:17:53.500 --> 00:17:56.500]   [MUSIC PLAYING]
+[00:17:56.500 --> 00:18:00.000]   [MUSIC PLAYING]
+[00:18:00.000 --> 00:18:03.500]   [MUSIC PLAYING]
+[00:18:03.500 --> 00:18:07.000]   [MUSIC PLAYING]
+[00:18:07.000 --> 00:18:10.500]   [MUSIC PLAYING]
+[00:18:10.500 --> 00:18:14.000]   [MUSIC PLAYING]
+[00:18:14.000 --> 00:18:17.500]   [MUSIC PLAYING]
+[00:18:17.500 --> 00:18:21.000]   [MUSIC PLAYING]
+[00:18:21.500 --> 00:18:24.500]   [MUSIC PLAYING]
+[00:18:24.500 --> 00:18:28.000]   [MUSIC PLAYING]
+[00:18:28.000 --> 00:18:31.500]   [MUSIC PLAYING]
+[00:18:31.500 --> 00:18:35.000]   [MUSIC PLAYING]
+[00:18:35.000 --> 00:18:38.500]   [MUSIC PLAYING]
+[00:18:38.500 --> 00:18:42.000]   [MUSIC PLAYING]
+[00:18:42.000 --> 00:18:45.500]   [MUSIC PLAYING]
+[00:18:45.500 --> 00:18:49.000]   [MUSIC PLAYING]
+[00:18:49.500 --> 00:18:52.500]   [MUSIC PLAYING]
+[00:18:52.500 --> 00:18:56.000]   [MUSIC PLAYING]
+[00:18:56.000 --> 00:18:59.500]   [MUSIC PLAYING]
+[00:18:59.500 --> 00:19:03.000]   [MUSIC PLAYING]
+[00:19:03.000 --> 00:19:06.500]   [MUSIC PLAYING]
+[00:19:06.500 --> 00:19:10.000]   [MUSIC PLAYING]
+[00:19:10.000 --> 00:19:13.500]   [MUSIC PLAYING]
+[00:19:13.500 --> 00:19:17.000]   [MUSIC PLAYING]
+[00:19:17.500 --> 00:19:20.500]   [MUSIC PLAYING]
+[00:19:20.500 --> 00:19:24.000]   [MUSIC PLAYING]
+[00:19:24.000 --> 00:19:27.500]   [MUSIC PLAYING]
+[00:19:27.500 --> 00:19:31.000]   [MUSIC PLAYING]
+[00:19:31.000 --> 00:19:34.500]   [MUSIC PLAYING]
+[00:19:34.500 --> 00:19:38.000]   [MUSIC PLAYING]
+[00:19:38.000 --> 00:19:41.500]   [MUSIC PLAYING]
+[00:19:41.500 --> 00:19:45.000]   [MUSIC PLAYING]
+[00:19:45.500 --> 00:19:50.500]   He's, you know, one thing that we always ask, just advice.
+[00:19:50.500 --> 00:19:53.000]   And Pastor Peter mentioned it, my parents mentioned it too,
+[00:19:53.000 --> 00:19:58.000]   is that they wish they can go back and enjoy this time.
+[00:19:58.000 --> 00:20:02.000]   Because having three kids, time goes by pretty fast.
+[00:20:02.000 --> 00:20:04.000]   It's kind of hectic.
+[00:20:04.000 --> 00:20:07.000]   It's very easy for us to just try to get through the day
+[00:20:07.000 --> 00:20:10.500]   and put them down and just try to correct things as we go along.
+[00:20:10.500 --> 00:20:14.500]   And our oldest daughter is already four.
+[00:20:14.500 --> 00:20:18.500]   And our prayer request is that we would learn to slow things down
+[00:20:18.500 --> 00:20:20.500]   and be intentional and prayerful.
+[00:20:20.500 --> 00:20:24.500]   Because as much as we try to correct things and their behavior,
+[00:20:24.500 --> 00:20:27.500]   in the end, it's God who changes their heart, right?
+[00:20:27.500 --> 00:20:33.500]   And I've been a recipient of my parents' and grandparents'
+[00:20:33.500 --> 00:20:35.500]   endless amount of prayers.
+[00:20:35.500 --> 00:20:38.500]   And that's what brought me to salvation, I'm confident of,
+[00:20:38.500 --> 00:20:40.500]   after high school.
+[00:20:40.500 --> 00:20:46.500]   So, you know, that's our prayer request, that above all things,
+[00:20:46.500 --> 00:20:49.500]   just remain prayerful, consistent in that,
+[00:20:49.500 --> 00:20:52.500]   and really trust the Lord with their heart and their salvation.
+[00:20:52.500 --> 00:20:54.500]   So, thank you.
+[00:20:54.500 --> 00:20:58.500]   [APPLAUSE]
+[00:20:58.500 --> 00:21:00.500]   All right, hi everyone.
+[00:21:00.500 --> 00:21:01.500]   My name is Aaron.
+[00:21:01.500 --> 00:21:03.500]   This is my wife, Corinne.
+[00:21:03.500 --> 00:21:06.500]   And this is our son, Jonah Theodore Goh.
+[00:21:06.500 --> 00:21:09.500]   He was born pretty much exactly two months ago.
+[00:21:09.500 --> 00:21:12.500]   And, yeah, it's been a good time.
+[00:21:12.500 --> 00:21:14.500]   We're first-time parents.
+[00:21:14.500 --> 00:21:17.500]   So, let's see, why Jonah?
+[00:21:17.500 --> 00:21:22.500]   So, well, he's not necessarily the most admirable person in the Bible.
+[00:21:22.500 --> 00:21:26.500]   But there were no other J names left that weren't taken by other brands.
+[00:21:26.500 --> 00:21:28.500]   [LAUGHTER]
+[00:21:28.500 --> 00:21:30.500]   No, I'm just kidding.
+[00:21:30.500 --> 00:21:34.500]   Actually, Jonah was a name I really liked from the very beginning.
+[00:21:34.500 --> 00:21:36.500]   I don't know, I just like the sound of the name.
+[00:21:36.500 --> 00:21:40.500]   And actually, going into checking into the hospital,
+[00:21:40.500 --> 00:21:43.500]   we still hadn't decided on a name because I had a name I liked,
+[00:21:43.500 --> 00:21:45.500]   and Corinne had a name that she liked.
+[00:21:45.500 --> 00:21:49.500]   And you could say we received a sign from God
+[00:21:49.500 --> 00:21:53.500]   because the room that we were assigned after we checked in
+[00:21:53.500 --> 00:21:57.500]   literally had a sign on the wall that said "Jonah" on it.
+[00:21:57.500 --> 00:21:58.500]   [LAUGHTER]
+[00:21:58.500 --> 00:22:00.500]   So, at that point, it was pretty much decided.
+[00:22:00.500 --> 00:22:03.500]   [LAUGHTER]
+[00:22:03.500 --> 00:22:07.500]   Yeah, so as first-time parents, obviously, we're still learning.
+[00:22:07.500 --> 00:22:13.500]   And things like, you know, don't put sunscreen on your baby before six months.
+[00:22:13.500 --> 00:22:16.500]   Didn't know that one. Learned that after the fact.
+[00:22:16.500 --> 00:22:19.500]   Like how to hold a baby without getting tendinitis.
+[00:22:19.500 --> 00:22:21.500]   Learned that after the fact.
+[00:22:21.500 --> 00:22:25.500]   So, yeah, it's a work in progress, but God's been faithful throughout.
+[00:22:25.500 --> 00:22:27.500]   I'd say two prayer requests that we have.
+[00:22:27.500 --> 00:22:32.500]   One is, I think it's been said, to stay sober-minded.
+[00:22:32.500 --> 00:22:39.500]   To be able to fulfill both our roles as parents, but also as servants of Christ.
+[00:22:39.500 --> 00:22:42.500]   To do those both well and honoring to God.
+[00:22:42.500 --> 00:22:46.500]   And then secondly, just as we raise him,
+[00:22:46.500 --> 00:22:49.500]   in the context of having unbelieving friends and family,
+[00:22:49.500 --> 00:22:54.500]   to be able to share the gospel, share our values.
+[00:22:54.500 --> 00:22:57.500]   Really, that would be a means that they can understand
+[00:22:57.500 --> 00:22:59.500]   why we believe what we believe.
+[00:22:59.500 --> 00:23:02.500]   So, this is our prayer request.
+[00:23:02.500 --> 00:23:08.500]   [applause]
+[00:23:08.500 --> 00:23:09.500]   Hi, I'm Corbin Bossie.
+[00:23:09.500 --> 00:23:13.500]   This is my wife, Jen, and older son, Lucas, sitting down.
+[00:23:13.500 --> 00:23:17.500]   And this little guy is Isaac Blaine Bossie.
+[00:23:17.500 --> 00:23:20.500]   Blaine is my father's name, so we chose that as his middle name.
+[00:23:20.500 --> 00:23:26.500]   And Isaac, we chose because it was one of the few names not taken.
+[00:23:26.500 --> 00:23:31.500]   And also, we know that it means one who rejoices, one who laughs.
+[00:23:31.500 --> 00:23:37.500]   So, our prayer request is that he would be content and find his joy in Christ.
+[00:23:37.500 --> 00:23:41.500]   And that he would be, of course, saved at an early age.
+[00:23:41.500 --> 00:23:48.500]   [applause]
+[00:23:48.500 --> 00:23:50.500]   Good morning, Church family. I'm Sam.
+[00:23:50.500 --> 00:23:54.500]   This is my wife, Ohi, and this is Cannon.
+[00:23:54.500 --> 00:23:57.500]   The reason why we named him Cannon was to try to kind of match
+[00:23:57.500 --> 00:23:59.500]   the other two girls that we have.
+[00:23:59.500 --> 00:24:03.500]   C-named, musical name, Carol and Cadence.
+[00:24:03.500 --> 00:24:05.500]   So, this is Cannon.
+[00:24:05.500 --> 00:24:08.500]   But we also named him Cannon because of Canon of Scripture.
+[00:24:08.500 --> 00:24:12.500]   And our prayer request really is for him to just know God's Word,
+[00:24:12.500 --> 00:24:16.500]   truly believe it, use it to guide his life,
+[00:24:16.500 --> 00:24:21.500]   and just be a follower of God's Word.
+[00:24:21.500 --> 00:24:22.500]   Thanks, everyone.
+[00:24:22.500 --> 00:24:27.500]   [applause]
+[00:24:27.500 --> 00:24:28.500]   Hi, Church family.
+[00:24:28.500 --> 00:24:31.500]   My name is Titus, and this is my wife, Grace.
+[00:24:31.500 --> 00:24:33.500]   And this is Judah James Chu.
+[00:24:33.500 --> 00:24:35.500]   He is our third.
+[00:24:35.500 --> 00:24:40.500]   And the reason why we named him Judah was because I named my--
+[00:24:40.500 --> 00:24:43.500]   or Grace named our first one, and then I named our second one.
+[00:24:43.500 --> 00:24:45.500]   So, she got to name the third one.
+[00:24:45.500 --> 00:24:47.500]   [laughter]
+[00:24:47.500 --> 00:24:49.500]   And we kept all Js.
+[00:24:49.500 --> 00:24:51.500]   It makes our life kind of difficult,
+[00:24:51.500 --> 00:24:55.500]   and we're kind of stuck with it because it would be weird if we didn't go with the third J.
+[00:24:55.500 --> 00:24:59.500]   And--oh, okay.
+[00:24:59.500 --> 00:25:04.500]   And his name means praise, I think.
+[00:25:04.500 --> 00:25:09.500]   [laughter]
+[00:25:09.500 --> 00:25:16.500]   Yeah, so, kind of like everyone else, our prayer request for him is just for him to come to know Christ
+[00:25:16.500 --> 00:25:21.500]   and for God to really use him for his glory and his kingdom.
+[00:25:21.500 --> 00:25:24.500]   So, yeah, that's it.
+[00:25:24.500 --> 00:25:25.500]   All right, thank you.
+[00:25:25.500 --> 00:25:30.500]   [applause]
+[00:25:30.500 --> 00:25:35.500]   Okay, so before we dismiss that, I want to read a passage from Psalm 127, verse 4 and 5.
+[00:25:35.500 --> 00:25:40.500]   It says, "Like arrows in a hand of a warrior, so are the children of one's youth.
+[00:25:40.500 --> 00:25:43.500]   How blessed is a man whose quiver is full of them."
+[00:25:43.500 --> 00:25:50.500]   And so, in Psalm 127, it likens having children at a young age of having many warriors.
+[00:25:50.500 --> 00:25:55.500]   And so, when you first look at it, that's kind of a strange way to describe children in your home.
+[00:25:55.500 --> 00:26:02.500]   But in reality, I believe that this is probably the best reminder in soberness
+[00:26:02.500 --> 00:26:09.500]   that as we try to reach the world with the gospel, that if we don't first start at home with our children,
+[00:26:09.500 --> 00:26:14.500]   then you can save the world, but if you don't save your children, you know, at the end of our lives,
+[00:26:14.500 --> 00:26:16.500]   we're going to have the greatest regret.
+[00:26:16.500 --> 00:26:20.500]   Especially what's going on in our culture right now, where they are deliberately,
+[00:26:20.500 --> 00:26:28.500]   the world is deliberately targeting our children to reprogram them, to move them away from biblical Christianity.
+[00:26:28.500 --> 00:26:31.500]   So we're no longer, and I don't think I'm exaggerating by saying this,
+[00:26:31.500 --> 00:26:35.500]   we're no longer living in a neutral country where our children can go,
+[00:26:35.500 --> 00:26:39.500]   and then it's left to the parents to teach about what we value.
+[00:26:39.500 --> 00:26:46.500]   It is the system and the authorities where we live have deliberately targeted our children
+[00:26:46.500 --> 00:26:51.500]   to be reprogrammed and retaught away from the very core of the things that we believe.
+[00:26:51.500 --> 00:26:55.500]   And if you've been paying attention to the news, and I think most of you will agree with me,
+[00:26:55.500 --> 00:27:01.500]   and all the more, as we have children in our church, that we need to be deliberate about the way we raise our children.
+[00:27:01.500 --> 00:27:07.500]   We don't just assume that if they go to school that they're going to be taught the proper things that we want them to know.
+[00:27:07.500 --> 00:27:14.500]   And so as our children, however each of the parents choose to raise their children,
+[00:27:14.500 --> 00:27:16.500]   that as a community, that we commit together.
+[00:27:16.500 --> 00:27:20.500]   It's not just the Sunday school teachers and the people who are babysitting with the parents,
+[00:27:20.500 --> 00:27:26.500]   that every single person in this church sees the children as if we are living in a village together,
+[00:27:26.500 --> 00:27:28.500]   and that we pray for them.
+[00:27:28.500 --> 00:27:30.500]   That we come alongside with them.
+[00:27:30.500 --> 00:27:33.500]   That if we have an opportunity to share the gospel with these children,
+[00:27:33.500 --> 00:27:36.500]   don't just leave it up to the parents, don't just leave it up to the Sunday school teachers.
+[00:27:36.500 --> 00:27:42.500]   If you happen to be there, to be a great example, and to actually share the gospel with these young children,
+[00:27:42.500 --> 00:27:47.500]   so that when they're older they can say that, you know, maybe they heard it from their parents, obviously,
+[00:27:47.500 --> 00:27:51.500]   they heard it from their Sunday school teachers, but even within the community,
+[00:27:51.500 --> 00:27:54.500]   that the community that they belong to, that we together raise these children,
+[00:27:54.500 --> 00:27:58.500]   that the next generation of believers will be even stronger than we are in this generation.
+[00:27:58.500 --> 00:28:02.500]   So I pray that, again, not only for our parents, but for the rest of the congregation,
+[00:28:02.500 --> 00:28:05.500]   that we would have the same commitment to these children as these parents do.
+[00:28:05.500 --> 00:28:10.500]   Okay? So let me pray for us, and then we'll dismiss them, and then we'll get into our main worship.
+[00:28:10.500 --> 00:28:17.500]   Heavenly Father, we thank you so much, Lord, for blessing these homes with these precious souls.
+[00:28:17.500 --> 00:28:23.500]   And as each one of these parents, Lord, desires so much to see their child come to faith,
+[00:28:23.500 --> 00:28:27.500]   I pray that you would open their eyes and soften their hearts in an early age,
+[00:28:27.500 --> 00:28:31.500]   so that they may have a long life honoring you, glorifying you,
+[00:28:31.500 --> 00:28:34.500]   to being the light that you called all of us to be.
+[00:28:34.500 --> 00:28:38.500]   We pray for courage for the fathers, Lord God, to stand for truth,
+[00:28:38.500 --> 00:28:42.500]   with the shifting foundation, Lord, that is all around us.
+[00:28:42.500 --> 00:28:47.500]   Give them the courage and strength to lead their homes, Lord, to honor and glorify you.
+[00:28:47.500 --> 00:28:50.500]   We pray for moms, Lord God, that you would give them the strength that they need
+[00:28:50.500 --> 00:28:54.500]   in times of discouragement, that they would find encouragement in you.
+[00:28:54.500 --> 00:28:59.500]   I pray, Father God, from a very young age, that the gospel would be clear, Father God,
+[00:28:59.500 --> 00:29:02.500]   in both teaching and in their life.
+[00:29:02.500 --> 00:29:07.500]   And we ask as a community that you would help us, Lord God, to engage together to raise these children, Lord,
+[00:29:07.500 --> 00:29:10.500]   that they would know the love of Christ from an early age.
+[00:29:10.500 --> 00:29:15.500]   Help us truly be a light during our generation, Lord God, as the world becomes darker and darker,
+[00:29:15.500 --> 00:29:19.500]   that your light would shine only brighter and brighter, not just during our lifetime,
+[00:29:19.500 --> 00:29:22.500]   but especially, Lord God, for our children and the next generation.
+[00:29:22.500 --> 00:29:27.500]   So for that end, we pray for your blessing and your grace to be sufficient for all things.
+[00:29:27.500 --> 00:29:30.500]   In Jesus' name we pray, amen.
+[00:29:30.500 --> 00:29:33.500]   All right, let's dismiss them, okay?
+[00:29:33.500 --> 00:29:36.500]   [applause]
+[00:29:36.500 --> 00:29:39.500]   If we can stand up--oh, sorry, I forgot to pray for our offering.
+[00:29:39.500 --> 00:29:42.500]   All right, so as we dismiss them, let me pray for us.
+[00:29:42.500 --> 00:29:45.500]   And again, if you brought a physical offering, it's in the back.
+[00:29:45.500 --> 00:29:49.500]   And then for the rest of us, we can give electronically.
+[00:29:49.500 --> 00:29:51.500]   All right, let's pray.
+[00:29:51.500 --> 00:29:54.500]   Heavenly Father, we pray that in our giving,
+[00:29:54.500 --> 00:29:58.500]   help us, Lord, to give intentionally, joyfully, generously, Lord God,
+[00:29:58.500 --> 00:30:01.500]   that it may be multiplied for your use,
+[00:30:01.500 --> 00:30:06.500]   that more and more people may know that we have hope in Christ, in Christ alone.
+[00:30:06.500 --> 00:30:09.500]   In Jesus' name we pray, amen.
+[00:30:09.500 --> 00:30:12.500]   [music]
+[00:30:13.500 --> 00:30:16.500]   [music]
+[00:30:17.500 --> 00:30:20.500]   [music]
+[00:30:20.500 --> 00:30:22.920]   (soft music)
+[00:30:50.340 --> 00:30:53.840]   - Let's all rise as we sing these praises.
+[00:30:53.840 --> 00:31:00.840]   (soft music)
+[00:31:00.840 --> 00:31:07.100]   Blessed be your name.
+[00:31:07.100 --> 00:31:10.060]   ♪ Blessed be your name ♪
+[00:31:10.060 --> 00:31:14.020]   ♪ In the land that is plentiful ♪
+[00:31:14.020 --> 00:31:18.020]   ♪ Where streams of abundance flow ♪
+[00:31:18.020 --> 00:31:23.020]   ♪ Blessed be your name ♪
+[00:31:23.020 --> 00:31:26.020]   ♪ Blessed be your name ♪
+[00:31:26.020 --> 00:31:30.020]   ♪ When I'm found in the desert place ♪
+[00:31:30.020 --> 00:31:34.020]   ♪ Or walk through the wilderness ♪
+[00:31:34.020 --> 00:31:38.820]   ♪ Blessed be your name ♪
+[00:31:38.820 --> 00:31:41.820]   ♪ Every blessing you pour out ♪
+[00:31:41.820 --> 00:31:46.820]   ♪ I'll turn back to praise ♪
+[00:31:46.820 --> 00:31:50.820]   ♪ When the darkness closes in, Lord ♪
+[00:31:50.820 --> 00:31:53.020]   ♪ Still I will say ♪
+[00:31:53.020 --> 00:31:57.020]   ♪ Blessed be the name of the Lord ♪
+[00:31:57.020 --> 00:32:01.020]   ♪ Blessed be your name ♪
+[00:32:01.020 --> 00:32:05.020]   ♪ Blessed be the name of the Lord ♪
+[00:32:05.020 --> 00:32:10.020]   ♪ Blessed be your glorious name ♪
+[00:32:10.020 --> 00:32:14.020]   ♪ Blessed be your name ♪
+[00:32:14.020 --> 00:32:18.020]   ♪ When the sun's shining down on me ♪
+[00:32:18.020 --> 00:32:22.020]   ♪ When the world's all as it should be ♪
+[00:32:22.020 --> 00:32:27.020]   ♪ Blessed be your name ♪
+[00:32:27.020 --> 00:32:30.020]   ♪ Blessed be your name ♪
+[00:32:30.020 --> 00:32:34.020]   ♪ On the road marked with suffering ♪
+[00:32:34.020 --> 00:32:38.020]   ♪ It is paid in the offering ♪
+[00:32:38.020 --> 00:32:41.020]   ♪ Blessed be your name ♪
+[00:32:41.020 --> 00:32:43.020]   Every blessing.
+[00:32:43.020 --> 00:32:46.020]   ♪ Every blessing you pour out ♪
+[00:32:46.020 --> 00:32:50.020]   ♪ I'll turn back to praise ♪
+[00:32:50.020 --> 00:32:54.020]   ♪ When the darkness closes in, Lord ♪
+[00:32:54.020 --> 00:32:57.020]   ♪ Still I will say ♪
+[00:32:57.020 --> 00:33:01.020]   ♪ Blessed be the name of the Lord ♪
+[00:33:01.020 --> 00:33:05.020]   ♪ Blessed be your name ♪
+[00:33:05.020 --> 00:33:09.020]   ♪ Blessed be the name of the Lord ♪
+[00:33:09.020 --> 00:33:12.020]   ♪ Blessed be your glorious name ♪
+[00:33:12.020 --> 00:33:14.020]   Again.
+[00:33:14.020 --> 00:33:18.020]   ♪ Give and take away ♪
+[00:33:18.020 --> 00:33:22.020]   ♪ Give and take away ♪
+[00:33:22.020 --> 00:33:26.020]   ♪ My heart will choose to say ♪
+[00:33:26.020 --> 00:33:30.020]   ♪ Blessed be your name ♪
+[00:33:30.020 --> 00:33:32.020]   Every blessing.
+[00:33:32.020 --> 00:33:36.020]   ♪ Every blessing you pour out ♪
+[00:33:36.020 --> 00:33:40.020]   ♪ I'll turn back to praise ♪
+[00:33:40.020 --> 00:33:44.020]   ♪ When the darkness closes in, Lord ♪
+[00:33:44.020 --> 00:33:47.020]   ♪ Still I will say ♪
+[00:33:47.020 --> 00:33:51.020]   ♪ Blessed be the name of the Lord ♪
+[00:33:51.020 --> 00:33:55.020]   ♪ Blessed be your name ♪
+[00:33:55.020 --> 00:33:59.020]   ♪ Blessed be the name of the Lord ♪
+[00:33:59.020 --> 00:34:03.020]   ♪ Blessed be your glorious name ♪
+[00:34:03.020 --> 00:34:07.020]   ♪ Blessed be the name of the Lord ♪
+[00:34:07.020 --> 00:34:11.020]   ♪ Blessed be your name ♪
+[00:34:11.020 --> 00:34:15.020]   ♪ Blessed be the name of the Lord ♪
+[00:34:15.020 --> 00:34:19.020]   ♪ Blessed be your glorious name ♪
+[00:34:19.020 --> 00:34:20.020]   Again.
+[00:34:20.020 --> 00:34:24.020]   ♪ Give and take away ♪
+[00:34:24.020 --> 00:34:28.020]   ♪ Give and take away ♪
+[00:34:28.020 --> 00:34:32.020]   ♪ My heart will choose to say ♪
+[00:34:32.020 --> 00:34:37.020]   ♪ Blessed be your name ♪
+[00:34:37.020 --> 00:34:50.020]   (gentle music)
+[00:34:51.020 --> 00:34:54.020]   (upbeat music)
+[00:34:54.020 --> 00:35:05.020]   Oh, boy.
+[00:35:05.020 --> 00:35:10.020]   ♪ I will bury in my Redeemer ♪
+[00:35:10.020 --> 00:35:15.020]   ♪ Whose priceless blood has ransomed me ♪
+[00:35:15.020 --> 00:35:20.020]   ♪ Mine was the sin that drilled the bitter nails ♪
+[00:35:20.020 --> 00:35:26.020]   ♪ And hung Him on that judgment tree ♪
+[00:35:26.020 --> 00:35:33.020]   ♪ I will glory in my Redeemer ♪
+[00:35:33.020 --> 00:35:38.020]   ♪ Who crushed the path of sin and death ♪
+[00:35:38.020 --> 00:35:43.020]   ♪ My only Savior before the Holy Ghost ♪
+[00:35:44.020 --> 00:35:49.020]   ♪ The man who wears my righteous clothes ♪
+[00:35:49.020 --> 00:35:54.020]   ♪ The man who wears my righteous clothes ♪
+[00:35:54.020 --> 00:36:01.020]   I will glory.
+[00:36:01.020 --> 00:36:06.020]   ♪ I will glory in my Redeemer ♪
+[00:36:06.020 --> 00:36:11.020]   ♪ My life He bought, my love He owes ♪
+[00:36:11.020 --> 00:36:16.020]   ♪ I have no longings for another ♪
+[00:36:16.020 --> 00:36:22.020]   ♪ Unsatisfied and made for naught ♪
+[00:36:22.020 --> 00:36:29.020]   ♪ I will glory in my Redeemer ♪
+[00:36:29.020 --> 00:36:34.020]   ♪ His faithfulness by standing grace ♪
+[00:36:34.020 --> 00:36:39.020]   ♪ Though foes are mighty, I'll rush upon Him ♪
+[00:36:40.020 --> 00:36:44.020]   ♪ I'll rush upon Him ♪
+[00:36:44.020 --> 00:36:49.020]   ♪ My feet are firm held by His grace ♪
+[00:36:49.020 --> 00:36:53.520]   ♪ My feet are firm held by His grace ♪
+[00:36:53.520 --> 00:37:07.020]   ♪ I will glory in my Redeemer ♪
+[00:37:07.020 --> 00:37:12.020]   ♪ He carries me on eagle's wings ♪
+[00:37:12.020 --> 00:37:17.020]   ♪ He crowns my life with lovingkindness ♪
+[00:37:17.020 --> 00:37:22.020]   ♪ His triumphs all I'll ever see ♪
+[00:37:22.020 --> 00:37:35.020]   ♪ I will glory in my Redeemer ♪
+[00:37:35.020 --> 00:37:40.020]   ♪ Who waits for me at gates of gold ♪
+[00:37:40.020 --> 00:37:45.020]   ♪ And when He calls me, you will meet paradise ♪
+[00:37:45.020 --> 00:37:52.020]   ♪ His face forever to behold ♪
+[00:37:52.020 --> 00:37:57.020]   ♪ I will glory in my Redeemer ♪
+[00:37:57.020 --> 00:38:02.020]   ♪ Who waits for me at gates of gold ♪
+[00:38:02.020 --> 00:38:07.020]   ♪ And when He calls me, you will meet paradise ♪
+[00:38:07.020 --> 00:38:14.020]   ♪ His face forever to behold ♪
+[00:38:14.020 --> 00:38:18.020]   ♪ His face forever to behold ♪
+[00:38:18.020 --> 00:38:31.020]   - Amen, you may be seated.
+[00:38:32.020 --> 00:38:36.020]   (audience applauding)
+[00:38:36.020 --> 00:38:38.020]   All right, if you can turn your Bibles with me
+[00:38:38.020 --> 00:38:41.020]   to Hebrews chapter 13, and we're gonna be reading
+[00:38:41.020 --> 00:38:43.020]   from verse one through six this morning.
+[00:38:43.020 --> 00:38:48.020]   The proper response to God's grace.
+[00:38:48.020 --> 00:38:51.020]   Hebrews chapter 13, verses one through six.
+[00:38:51.020 --> 00:38:54.020]   Our main focus this morning is gonna be on the first verse.
+[00:38:54.020 --> 00:38:59.020]   Hebrews chapter 13, verses one through six.
+[00:38:59.020 --> 00:39:01.020]   Reading out of the NASB.
+[00:39:01.020 --> 00:39:03.020]   Let love of the brethren continue.
+[00:39:03.020 --> 00:39:05.020]   Do not neglect to show hospitality to strangers,
+[00:39:05.020 --> 00:39:07.020]   for by this some have entertained angels
+[00:39:07.020 --> 00:39:09.020]   without knowing it.
+[00:39:09.020 --> 00:39:11.020]   Remember the prisoners as though in prison with them,
+[00:39:11.020 --> 00:39:13.020]   and those who are ill-treated,
+[00:39:13.020 --> 00:39:16.020]   since you yourselves also are in the body.
+[00:39:16.020 --> 00:39:19.020]   Marriage is to be held in honor among all,
+[00:39:19.020 --> 00:39:21.020]   and the marriage bed is to be undefiled.
+[00:39:21.020 --> 00:39:24.020]   For fornicators and adulterers, God will judge.
+[00:39:24.020 --> 00:39:27.020]   Make sure that your character is free from the love of money,
+[00:39:27.020 --> 00:39:29.020]   being content with what you have.
+[00:39:29.020 --> 00:39:31.020]   For he himself has said, I will never desert you,
+[00:39:31.020 --> 00:39:33.020]   nor will I ever forsake you.
+[00:39:33.020 --> 00:39:36.020]   So that we confidently say, the Lord is my helper,
+[00:39:36.020 --> 00:39:38.020]   I will not be afraid.
+[00:39:38.020 --> 00:39:40.020]   What will man do to me?
+[00:39:40.020 --> 00:39:41.020]   Let's pray.
+[00:39:41.020 --> 00:39:44.020]   Christian loving Father, we pray that you would anoint
+[00:39:44.020 --> 00:39:48.020]   this time that your word, and your word alone, Lord God,
+[00:39:48.020 --> 00:39:52.020]   would be heard, and that our hearts may be softened,
+[00:39:52.020 --> 00:39:55.020]   and that our lives may be changed.
+[00:39:55.020 --> 00:39:57.020]   Encourage us, strengthen us, rebuke us this morning
+[00:39:57.020 --> 00:39:58.020]   by your word.
+[00:39:58.020 --> 00:40:00.020]   In Jesus' name we pray, amen.
+[00:40:00.020 --> 00:40:04.020]   Let me start off this morning by asking a rhetorical question,
+[00:40:04.020 --> 00:40:06.020]   so don't answer it, okay?
+[00:40:06.020 --> 00:40:10.020]   Don't even mumble it, because I don't want you to
+[00:40:10.020 --> 00:40:12.020]   say something wrong, okay?
+[00:40:12.020 --> 00:40:17.020]   So the question is, if you had a choice between
+[00:40:17.020 --> 00:40:19.020]   what kind of church you want to belong to,
+[00:40:19.020 --> 00:40:21.020]   you want to go to a church where they are known
+[00:40:21.020 --> 00:40:24.020]   for their grace, or do you want to go to a church
+[00:40:24.020 --> 00:40:26.020]   that's known for their holiness?
+[00:40:26.020 --> 00:40:29.020]   Okay, don't answer that question.
+[00:40:29.020 --> 00:40:31.020]   Let me ask you again.
+[00:40:31.020 --> 00:40:34.020]   What church would you want to belong to?
+[00:40:34.020 --> 00:40:36.020]   A church that is known for their grace,
+[00:40:36.020 --> 00:40:39.020]   or a church that's known for their holiness?
+[00:40:39.020 --> 00:40:44.020]   I don't want you to answer that question,
+[00:40:44.020 --> 00:40:48.020]   because generally speaking, I already know the answer.
+[00:40:48.020 --> 00:40:52.020]   Because I've had so many conversations in the past
+[00:40:52.020 --> 00:40:56.020]   where even with other pastors that they have said
+[00:40:56.020 --> 00:41:00.020]   that I'd rather err on the side of grace
+[00:41:00.020 --> 00:41:04.020]   than to err on the side of being too harsh.
+[00:41:04.020 --> 00:41:07.020]   It sounds godly on the surface,
+[00:41:07.020 --> 00:41:10.020]   because who wouldn't want to be at a church
+[00:41:10.020 --> 00:41:12.020]   where they're known to be gracious?
+[00:41:12.020 --> 00:41:15.020]   Because when you say, I go to a church where
+[00:41:15.020 --> 00:41:16.020]   they're known for their holiness,
+[00:41:16.020 --> 00:41:20.020]   automatically we think of judgment, right?
+[00:41:21.020 --> 00:41:23.020]   Everybody is like examining one another,
+[00:41:23.020 --> 00:41:24.020]   and you've got to jump through hoops
+[00:41:24.020 --> 00:41:26.020]   to belong to that group.
+[00:41:26.020 --> 00:41:28.020]   And so it sounds godly.
+[00:41:28.020 --> 00:41:30.020]   It almost sounds biblical to say,
+[00:41:30.020 --> 00:41:33.020]   I'd rather err on the side of grace.
+[00:41:33.020 --> 00:41:36.020]   But the biblical truth is,
+[00:41:36.020 --> 00:41:40.020]   to err on the side of grace is error.
+[00:41:40.020 --> 00:41:43.020]   And that's why I say I would rather err.
+[00:41:43.020 --> 00:41:45.020]   No, error is error.
+[00:41:45.020 --> 00:41:48.020]   And the problem is, if you look at
+[00:41:48.020 --> 00:41:50.020]   the Old Testament false prophets,
+[00:41:50.020 --> 00:41:52.020]   the primary rebuke to the false prophets
+[00:41:52.020 --> 00:41:54.020]   was they kept on telling them,
+[00:41:54.020 --> 00:41:57.020]   peace, peace, when there is no peace.
+[00:41:57.020 --> 00:41:59.020]   He was teaching grace.
+[00:41:59.020 --> 00:42:01.020]   God loves you unconditionally.
+[00:42:01.020 --> 00:42:02.020]   He forgives your sins.
+[00:42:02.020 --> 00:42:04.020]   And he kept on saying, peace, peace,
+[00:42:04.020 --> 00:42:05.020]   while the true prophets were coming
+[00:42:05.020 --> 00:42:08.020]   and warning them, if you do not turn from your sin,
+[00:42:08.020 --> 00:42:10.020]   God was going to bring judgment.
+[00:42:10.020 --> 00:42:12.020]   Let me make this very clear.
+[00:42:12.020 --> 00:42:16.020]   There is never a time where God does something
+[00:42:16.020 --> 00:42:21.020]   where he chooses to rather be gracious
+[00:42:21.020 --> 00:42:23.020]   than to be holy.
+[00:42:23.020 --> 00:42:27.020]   God, who cannot lie, cannot change his mind,
+[00:42:27.020 --> 00:42:31.020]   will never do anything that contradicts his nature.
+[00:42:31.020 --> 00:42:35.020]   God is holy, holy, holy, and he is love.
+[00:42:35.020 --> 00:42:37.020]   He is love.
+[00:42:37.020 --> 00:42:41.020]   Nothing that he does will contradict either side.
+[00:42:41.020 --> 00:42:43.020]   And that's the whole point of the cross.
+[00:42:44.020 --> 00:42:47.020]   The whole point of the cross is where God's justice
+[00:42:47.020 --> 00:42:51.020]   and his mercy and love came in to union,
+[00:42:51.020 --> 00:42:53.020]   a perfect union, without contradicting
+[00:42:53.020 --> 00:42:54.020]   one or the other.
+[00:42:54.020 --> 00:42:57.020]   We have a tendency to think that holiness
+[00:42:57.020 --> 00:42:59.020]   and love is on the opposite side
+[00:42:59.020 --> 00:43:01.020]   and we need to somehow balance this.
+[00:43:01.020 --> 00:43:03.020]   Sometimes we emphasize holiness,
+[00:43:03.020 --> 00:43:04.020]   sometimes we emphasize love,
+[00:43:04.020 --> 00:43:06.020]   and then sometimes we get it wrong,
+[00:43:06.020 --> 00:43:07.020]   sometimes we get it right.
+[00:43:07.020 --> 00:43:11.020]   But the accurate biblical understanding
+[00:43:11.020 --> 00:43:14.020]   of God's justice and his love,
+[00:43:14.020 --> 00:43:16.020]   they always go hand in hand.
+[00:43:16.020 --> 00:43:20.020]   The cross, if you err on the side of grace,
+[00:43:20.020 --> 00:43:22.020]   you don't need the cross.
+[00:43:22.020 --> 00:43:24.020]   Because all God has to say is,
+[00:43:24.020 --> 00:43:25.020]   okay, I'm just going to forget it.
+[00:43:25.020 --> 00:43:26.020]   I know you guys have been sinning,
+[00:43:26.020 --> 00:43:28.020]   but this time I'm going to pretend
+[00:43:28.020 --> 00:43:30.020]   like I didn't see it, just sweep it under the rug.
+[00:43:30.020 --> 00:43:31.020]   Right?
+[00:43:31.020 --> 00:43:32.020]   If we err on the side of grace,
+[00:43:32.020 --> 00:43:34.020]   we would allow all kinds of sin and say,
+[00:43:34.020 --> 00:43:36.020]   well, because I'm being gracious.
+[00:43:36.020 --> 00:43:38.020]   Because we're being gentle and merciful.
+[00:43:38.020 --> 00:43:40.020]   We're just going to pretend like it never happened,
+[00:43:40.020 --> 00:43:41.020]   just kind of sweep it under the rug.
+[00:43:41.020 --> 00:43:45.020]   If we err on the side of just justice,
+[00:43:45.020 --> 00:43:47.020]   we don't need the cross either.
+[00:43:47.020 --> 00:43:49.020]   Because as soon as somebody sins,
+[00:43:49.020 --> 00:43:50.020]   they get what they deserve
+[00:43:50.020 --> 00:43:52.020]   and they get punished and the end.
+[00:43:52.020 --> 00:43:56.020]   So the cross is the perfect union
+[00:43:56.020 --> 00:43:58.020]   of God's justice and his mercy
+[00:43:58.020 --> 00:43:59.020]   that came together.
+[00:43:59.020 --> 00:44:02.020]   That God's justice was satisfied
+[00:44:02.020 --> 00:44:04.020]   to magnify his grace.
+[00:44:04.020 --> 00:44:07.020]   So to be gospel-centered
+[00:44:07.020 --> 00:44:10.020]   is not simply to be gracious.
+[00:44:10.020 --> 00:44:11.020]   To be gospel-centered
+[00:44:11.020 --> 00:44:13.020]   is to have the perfect union
+[00:44:13.020 --> 00:44:15.020]   that we see at the cross,
+[00:44:15.020 --> 00:44:18.020]   where God's holiness and his love
+[00:44:18.020 --> 00:44:20.020]   is in perfect display.
+[00:44:20.020 --> 00:44:23.020]   And so we have to make sure
+[00:44:23.020 --> 00:44:25.020]   that we don't embrace one or the other
+[00:44:25.020 --> 00:44:28.020]   simply because of our own personal prejudice.
+[00:44:28.020 --> 00:44:29.020]   That whatever it is that we practice
+[00:44:29.020 --> 00:44:30.020]   in our personal lives
+[00:44:30.020 --> 00:44:32.020]   and in the life of the church
+[00:44:32.020 --> 00:44:36.020]   is a clear reflection of who God is.
+[00:44:37.020 --> 00:44:39.020]   And what he displayed on the cross.
+[00:44:39.020 --> 00:44:42.020]   This morning, we're going to be looking at one verse.
+[00:44:42.020 --> 00:44:44.020]   It's the first verse of many verses
+[00:44:44.020 --> 00:44:46.020]   that are coming in chapter 13.
+[00:44:46.020 --> 00:44:48.020]   We have 13 imperatives here
+[00:44:48.020 --> 00:44:51.020]   in light of all that we have been taught
+[00:44:51.020 --> 00:44:52.020]   about who Jesus is.
+[00:44:52.020 --> 00:44:55.020]   He says, "This is how you ought to live."
+[00:44:55.020 --> 00:44:57.020]   And so in the first line alone,
+[00:44:57.020 --> 00:44:59.020]   I think there are several things
+[00:44:59.020 --> 00:45:00.020]   that I want to highlight here
+[00:45:00.020 --> 00:45:03.020]   because it is so important in application.
+[00:45:04.020 --> 00:45:06.020]   We have 13 chapters in the book of Hebrews.
+[00:45:06.020 --> 00:45:08.020]   12 chapters are telling us
+[00:45:08.020 --> 00:45:10.020]   why we shouldn't drift.
+[00:45:10.020 --> 00:45:12.020]   It will give us motivation
+[00:45:12.020 --> 00:45:13.020]   because I know some of us
+[00:45:13.020 --> 00:45:15.020]   who are impatient with theology.
+[00:45:15.020 --> 00:45:16.020]   Just kind of, you know,
+[00:45:16.020 --> 00:45:18.020]   just tell us, you know,
+[00:45:18.020 --> 00:45:19.020]   just briefly what it means
+[00:45:19.020 --> 00:45:21.020]   and then tell us what we ought to do
+[00:45:21.020 --> 00:45:22.020]   because we're practical people.
+[00:45:22.020 --> 00:45:23.020]   We're type A personality.
+[00:45:23.020 --> 00:45:25.020]   And so we want to get things done.
+[00:45:25.020 --> 00:45:27.020]   So some of us are a little bit impatient
+[00:45:27.020 --> 00:45:30.020]   when we start to get dig too deep into theology.
+[00:45:30.020 --> 00:45:32.020]   Say, "That's for pastors and theologians,
+[00:45:32.020 --> 00:45:33.020]   but for the rest of us,
+[00:45:33.020 --> 00:45:35.020]   just tell us what I'm supposed to do on Monday."
+[00:45:35.020 --> 00:45:36.020]   Right?
+[00:45:36.020 --> 00:45:38.020]   And you probably hated the book of Hebrews
+[00:45:38.020 --> 00:45:40.020]   because it's 12 chapters of telling us
+[00:45:40.020 --> 00:45:42.020]   why we shouldn't drift
+[00:45:42.020 --> 00:45:45.020]   because they were neglecting
+[00:45:45.020 --> 00:45:46.020]   such a great salvation.
+[00:45:46.020 --> 00:45:49.020]   He was re-explaining in 12 chapters
+[00:45:49.020 --> 00:45:51.020]   of this great salvation
+[00:45:51.020 --> 00:45:52.020]   that if you drift,
+[00:45:52.020 --> 00:45:53.020]   this is what you're drifting from.
+[00:45:53.020 --> 00:45:55.020]   And then now that he concluded that,
+[00:45:55.020 --> 00:45:59.020]   therefore, this is how you ought to live.
+[00:45:59.020 --> 00:46:01.020]   And so for the next few weeks,
+[00:46:01.020 --> 00:46:02.020]   maybe a few months,
+[00:46:02.020 --> 00:46:03.020]   we're going to be in this chapter
+[00:46:03.020 --> 00:46:05.020]   describing the application
+[00:46:05.020 --> 00:46:07.020]   of this grace in our lives.
+[00:46:07.020 --> 00:46:09.020]   But the most important of these
+[00:46:09.020 --> 00:46:11.020]   is in verse one,
+[00:46:11.020 --> 00:46:14.020]   "Let love of the brethren continue."
+[00:46:14.020 --> 00:46:16.020]   So there's about five things
+[00:46:16.020 --> 00:46:17.020]   I want to highlight about love in this text.
+[00:46:17.020 --> 00:46:18.020]   First of all,
+[00:46:18.020 --> 00:46:21.020]   love is what sets us apart from the world.
+[00:46:21.020 --> 00:46:23.020]   Do you remember we talked about last week
+[00:46:23.020 --> 00:46:24.020]   the word holy?
+[00:46:24.020 --> 00:46:27.020]   The root basic understanding of the word holy
+[00:46:27.020 --> 00:46:29.020]   is what?
+[00:46:29.020 --> 00:46:30.020]   To be set apart.
+[00:46:30.020 --> 00:46:33.020]   To distinguish from what is common.
+[00:46:33.020 --> 00:46:35.020]   That whether it was an animal,
+[00:46:35.020 --> 00:46:36.020]   whether it was an article,
+[00:46:36.020 --> 00:46:39.020]   once it was taken from the common area
+[00:46:39.020 --> 00:46:41.020]   and then placed at the temple
+[00:46:41.020 --> 00:46:42.020]   for God's use,
+[00:46:42.020 --> 00:46:44.020]   it became holy.
+[00:46:44.020 --> 00:46:46.020]   So clothing became holy.
+[00:46:46.020 --> 00:46:48.020]   Bowls became holy.
+[00:46:48.020 --> 00:46:49.020]   Animals became holy
+[00:46:49.020 --> 00:46:51.020]   because it was set apart.
+[00:46:51.020 --> 00:46:54.020]   What causes us to be holy,
+[00:46:54.020 --> 00:46:55.020]   to be set apart,
+[00:46:55.020 --> 00:46:56.020]   the greatest that sets us apart
+[00:46:56.020 --> 00:46:58.020]   from the rest of the world,
+[00:46:58.020 --> 00:47:00.020]   he says, is love.
+[00:47:00.020 --> 00:47:03.020]   John chapter 13, 34-35,
+[00:47:03.020 --> 00:47:05.020]   Jesus says to his disciples,
+[00:47:05.020 --> 00:47:08.020]   "A new commandment I give to you."
+[00:47:08.020 --> 00:47:09.020]   Right?
+[00:47:09.020 --> 00:47:10.020]   "A new commandment I give to you."
+[00:47:10.020 --> 00:47:12.020]   That in and of itself is strange
+[00:47:12.020 --> 00:47:14.020]   because do you see this commandment
+[00:47:14.020 --> 00:47:15.020]   in the Old Testament
+[00:47:15.020 --> 00:47:18.020]   where he says to love your neighbor?
+[00:47:18.020 --> 00:47:19.020]   Right?
+[00:47:19.020 --> 00:47:20.020]   Yes.
+[00:47:20.020 --> 00:47:22.020]   All throughout the Old Testament,
+[00:47:22.020 --> 00:47:25.020]   God tells his people to love his neighbor.
+[00:47:25.020 --> 00:47:27.020]   In Leviticus 19, 18,
+[00:47:27.020 --> 00:47:30.020]   it says, "You shall not take vengeance
+[00:47:30.020 --> 00:47:33.020]   "nor bear any grudge against the sons of the people,
+[00:47:33.020 --> 00:47:36.020]   "but you shall love your neighbor as yourself.
+[00:47:36.020 --> 00:47:38.020]   "I am the Lord."
+[00:47:38.020 --> 00:47:39.020]   Right?
+[00:47:39.020 --> 00:47:41.020]   And I could give you dozens of passages
+[00:47:41.020 --> 00:47:44.020]   where Jesus or God repeats the same thing,
+[00:47:44.020 --> 00:47:45.020]   to love your neighbor.
+[00:47:45.020 --> 00:47:47.020]   So why does Jesus say to his disciples,
+[00:47:47.020 --> 00:47:50.020]   "A new commandment I give to you"?
+[00:47:50.020 --> 00:47:52.020]   Clearly it's not new.
+[00:47:52.020 --> 00:47:53.020]   This is what was taught.
+[00:47:53.020 --> 00:47:55.020]   But you have to read the rest of what he says.
+[00:47:55.020 --> 00:47:56.020]   "A new commandment I give to you,
+[00:47:56.020 --> 00:47:58.020]   "that you love one another,
+[00:47:58.020 --> 00:48:00.020]   "even as," what?
+[00:48:00.020 --> 00:48:02.020]   "I have loved you,
+[00:48:02.020 --> 00:48:04.020]   "you love one another."
+[00:48:04.020 --> 00:48:05.020]   That's the new commandment.
+[00:48:05.020 --> 00:48:07.020]   The new commandment isn't simply to love one another
+[00:48:07.020 --> 00:48:09.020]   because God's been telling his people
+[00:48:09.020 --> 00:48:10.020]   to love the aliens,
+[00:48:10.020 --> 00:48:11.020]   love the strangers,
+[00:48:11.020 --> 00:48:12.020]   love your neighbors.
+[00:48:12.020 --> 00:48:13.020]   But Jesus is saying,
+[00:48:13.020 --> 00:48:17.020]   "The love that I practice with you."
+[00:48:17.020 --> 00:48:19.020]   But this is the distinguishing mark.
+[00:48:19.020 --> 00:48:21.020]   So it's not simply love
+[00:48:21.020 --> 00:48:23.020]   that distinguishes us from the world.
+[00:48:23.020 --> 00:48:25.020]   It's the quality of this love
+[00:48:25.020 --> 00:48:27.020]   that distinguishes us from the world.
+[00:48:27.020 --> 00:48:30.020]   Because the world practices love.
+[00:48:30.020 --> 00:48:32.020]   Yes or no?
+[00:48:32.020 --> 00:48:34.020]   Yeah, of course they do.
+[00:48:34.020 --> 00:48:37.020]   Your co-workers, they practice love.
+[00:48:37.020 --> 00:48:38.020]   Your non-Christian friends,
+[00:48:38.020 --> 00:48:41.020]   Christian or not, they practice love.
+[00:48:41.020 --> 00:48:44.020]   You didn't have non-Christian friends that loved you?
+[00:48:44.020 --> 00:48:46.020]   Non-Christian mother and father,
+[00:48:46.020 --> 00:48:48.020]   they don't love their children?
+[00:48:48.020 --> 00:48:50.020]   The world practices love.
+[00:48:50.020 --> 00:48:52.020]   But he wasn't saying just any love.
+[00:48:52.020 --> 00:48:55.020]   He says, "As I have loved you."
+[00:48:55.020 --> 00:48:57.020]   The quality of this love
+[00:48:57.020 --> 00:48:59.020]   is what distinguishes you
+[00:48:59.020 --> 00:49:01.020]   and the world will know you are my disciples
+[00:49:01.020 --> 00:49:03.020]   if you practice this love.
+[00:49:03.020 --> 00:49:05.020]   Well, what's the distinction?
+[00:49:05.020 --> 00:49:09.020]   Naturally, we all tend to, in our flesh,
+[00:49:09.020 --> 00:49:11.020]   love those who are lovable.
+[00:49:11.020 --> 00:49:13.020]   Love those who are close to us.
+[00:49:13.020 --> 00:49:15.020]   Love those who can benefit us.
+[00:49:15.020 --> 00:49:17.020]   Love those who don't hurt us.
+[00:49:17.020 --> 00:49:19.020]   But the Bible says in Romans 5:8,
+[00:49:19.020 --> 00:49:22.020]   "God demonstrates his own love toward us
+[00:49:22.020 --> 00:49:24.020]   in that while we were yet sinners,
+[00:49:24.020 --> 00:49:26.020]   Christ loved us."
+[00:49:26.020 --> 00:49:29.020]   He loved us when we didn't deserve it.
+[00:49:29.020 --> 00:49:31.020]   He loved us when we were in rebellion.
+[00:49:31.020 --> 00:49:35.020]   He loved us when we had nothing to give.
+[00:49:35.020 --> 00:49:38.020]   While we were still blaspheming and resisting.
+[00:49:38.020 --> 00:49:41.020]   He said his love,
+[00:49:41.020 --> 00:49:43.020]   he laid down for sinners who did not deserve it.
+[00:49:43.020 --> 00:49:46.020]   And he said, "If you practice that love."
+[00:49:46.020 --> 00:49:48.020]   See, if we practice the love
+[00:49:48.020 --> 00:49:50.020]   that the world practices, we're no different.
+[00:49:50.020 --> 00:49:53.020]   Some of us are better at it than others.
+[00:49:53.020 --> 00:49:56.020]   But the kind of love that distinguishes us
+[00:49:56.020 --> 00:49:58.020]   from the rest of the world,
+[00:49:58.020 --> 00:50:00.020]   the world will not understand.
+[00:50:00.020 --> 00:50:03.020]   Why would you make an effort to love that guy?
+[00:50:03.020 --> 00:50:05.020]   That guy's slandering you.
+[00:50:05.020 --> 00:50:07.020]   That guy hurt you.
+[00:50:07.020 --> 00:50:11.020]   What benefit do you have from doing that?
+[00:50:11.020 --> 00:50:13.020]   And so it's the kind of love
+[00:50:13.020 --> 00:50:15.020]   that the world cannot understand.
+[00:50:15.020 --> 00:50:17.020]   And when they see us practicing that love,
+[00:50:17.020 --> 00:50:19.020]   they will look at us and say,
+[00:50:19.020 --> 00:50:21.020]   "Oh, it's because Jesus did it."
+[00:50:21.020 --> 00:50:24.020]   They're doing what Jesus did for them.
+[00:50:24.020 --> 00:50:26.020]   See, in 1 John 2.10, it says,
+[00:50:26.020 --> 00:50:30.020]   "The one who loves his brother abides in the light,
+[00:50:30.020 --> 00:50:32.020]   and there is no cause for stumbling in him."
+[00:50:32.020 --> 00:50:35.020]   The greatest identifier of a Christian
+[00:50:35.020 --> 00:50:39.020]   is the one who practices this love.
+[00:50:39.020 --> 00:50:41.020]   You know, don't be fooled.
+[00:50:41.020 --> 00:50:43.020]   Just because you love your mom and your dad
+[00:50:43.020 --> 00:50:45.020]   or your children or your good friends,
+[00:50:45.020 --> 00:50:47.020]   it's like, "Okay, I'm practicing love."
+[00:50:47.020 --> 00:50:48.020]   No.
+[00:50:48.020 --> 00:50:50.020]   He said the love he's asking us to practice,
+[00:50:50.020 --> 00:50:52.020]   the love that identifies that's different
+[00:50:52.020 --> 00:50:54.020]   than any other love,
+[00:50:54.020 --> 00:50:57.020]   is to love people that are hard to love.
+[00:50:57.020 --> 00:51:00.020]   Love people that you would not normally love
+[00:51:00.020 --> 00:51:03.020]   if you weren't affected by the love of Christ.
+[00:51:03.020 --> 00:51:09.020]   He said that is evidence that you have met Christ.
+[00:51:09.020 --> 00:51:13.020]   If you remember John, right?
+[00:51:13.020 --> 00:51:16.020]   John, before he met the resurrected Christ,
+[00:51:16.020 --> 00:51:19.020]   do you remember what John and James were known for?
+[00:51:19.020 --> 00:51:22.020]   They were called "sons of thunder."
+[00:51:22.020 --> 00:51:25.020]   And they weren't sons of thunder because they were big guys.
+[00:51:25.020 --> 00:51:27.020]   You know, every time they walked around, the earth shook.
+[00:51:27.020 --> 00:51:29.020]   That wasn't why they were sons of thunder.
+[00:51:29.020 --> 00:51:32.020]   Sons of thunder because they had a bad temper.
+[00:51:32.020 --> 00:51:34.020]   Remember, as they were going through Samaria,
+[00:51:34.020 --> 00:51:36.020]   and the Samaritans wouldn't help, right?
+[00:51:36.020 --> 00:51:38.020]   And he got angry, and he said,
+[00:51:38.020 --> 00:51:44.020]   "Lord, do you want me to pray to kill all these people?"
+[00:51:44.020 --> 00:51:45.020]   Right?
+[00:51:45.020 --> 00:51:48.020]   This guy would have been a mass murderer.
+[00:51:48.020 --> 00:51:52.020]   But in the New Testament, what is Apostle John known for?
+[00:51:52.020 --> 00:51:56.020]   Apostle of love.
+[00:51:56.020 --> 00:51:59.020]   He writes more about love than any other apostle.
+[00:51:59.020 --> 00:52:03.020]   In the Gospel of John, 1 and 2 John, right?
+[00:52:03.020 --> 00:52:06.020]   He writes more about love than any other apostle.
+[00:52:06.020 --> 00:52:08.020]   He's known as the apostle.
+[00:52:08.020 --> 00:52:11.020]   If you want to learn about love, you've got to go to the Gospel of John.
+[00:52:11.020 --> 00:52:14.020]   Because he exposit love in his writings.
+[00:52:14.020 --> 00:52:19.020]   How did the sons of thunder, a potential mass murderer,
+[00:52:19.020 --> 00:52:22.020]   and all they did was they just didn't want to help,
+[00:52:22.020 --> 00:52:26.020]   they said, "Should I kill all these people?"
+[00:52:26.020 --> 00:52:29.020]   It's because he met the resurrected Christ.
+[00:52:29.020 --> 00:52:33.020]   A Christ even after he was crucified and mocked,
+[00:52:33.020 --> 00:52:35.020]   even after his disciples all took off,
+[00:52:35.020 --> 00:52:37.020]   even after one of his disciples betrayed him,
+[00:52:37.020 --> 00:52:39.020]   Jesus resurrects.
+[00:52:39.020 --> 00:52:45.020]   And this was all part of his agape love to save the world.
+[00:52:45.020 --> 00:52:47.020]   You could tell John, you know, the lights going off.
+[00:52:47.020 --> 00:52:49.020]   It's not just John, right?
+[00:52:49.020 --> 00:52:52.020]   Apostle Peter, all the lights are going off.
+[00:52:52.020 --> 00:52:55.020]   Because they could not understand.
+[00:52:55.020 --> 00:53:01.020]   Why would the King of kings and Lord of lords lay down his life for us?
+[00:53:01.020 --> 00:53:06.020]   They could not fathom it until he actually did it.
+[00:53:06.020 --> 00:53:08.020]   And so his disciples began to understand.
+[00:53:08.020 --> 00:53:12.020]   It's like, "Oh, that's what he meant when he got on his knees to serve."
+[00:53:12.020 --> 00:53:14.020]   If you want to be the greatest in the kingdom of God,
+[00:53:14.020 --> 00:53:17.020]   who is the greatest in the kingdom of God but Jesus himself?
+[00:53:17.020 --> 00:53:19.020]   And he got on his knees and he served.
+[00:53:19.020 --> 00:53:21.020]   And so Jesus said, "If you want to follow me,
+[00:53:21.020 --> 00:53:26.020]   you pick up the cross and you do the same."
+[00:53:26.020 --> 00:53:30.020]   You remember apostle Paul, another mass murderer,
+[00:53:30.020 --> 00:53:33.020]   he says, "I'm the worst of sinners."
+[00:53:33.020 --> 00:53:38.020]   And he literally was because he was responsible for the first martyr in the book of Acts.
+[00:53:38.020 --> 00:53:40.020]   If that wasn't enough, he was so angry,
+[00:53:40.020 --> 00:53:44.020]   he got a bunch of soldiers to go collect all these Christians.
+[00:53:44.020 --> 00:53:45.020]   He hated Christians.
+[00:53:45.020 --> 00:53:47.020]   He hated the Gentiles.
+[00:53:47.020 --> 00:53:51.020]   Until he encounters the resurrected Christ
+[00:53:51.020 --> 00:53:55.020]   and the very people that he tried so hard to extinguish,
+[00:53:55.020 --> 00:53:59.020]   he becomes the apostle to the Gentiles
+[00:53:59.020 --> 00:54:04.020]   as a witness to the world that he wanted to destroy.
+[00:54:04.020 --> 00:54:09.020]   Now he became the main mouthpiece to spread God's love to them.
+[00:54:09.020 --> 00:54:14.020]   And so there was evidence that man must have met Christ.
+[00:54:14.020 --> 00:54:21.020]   In fact, the greatest witness in the early church was the church itself.
+[00:54:21.020 --> 00:54:25.020]   In Tertullian, one of the early church fathers,
+[00:54:25.020 --> 00:54:28.020]   this is what he says about how the church was viewed
+[00:54:28.020 --> 00:54:32.020]   and he was quoting a pagan authority, and this is what it says,
+[00:54:32.020 --> 00:54:37.020]   "It is mainly the deeds of a love so noble that lead many to put a brand upon us,
+[00:54:37.020 --> 00:54:40.020]   see how they love one another, they say,
+[00:54:40.020 --> 00:54:43.020]   how they are ready even to die for one another, they say,
+[00:54:43.020 --> 00:54:47.020]   for they themselves will sooner be put to death."
+[00:54:47.020 --> 00:54:51.020]   He says he's just describing their reputation outside of the church.
+[00:54:51.020 --> 00:54:55.020]   In the early church, the greatest evidence of the resurrection of Jesus Christ
+[00:54:55.020 --> 00:54:58.020]   was the makeup of the church itself.
+[00:54:58.020 --> 00:55:04.020]   Do you know how much the Pharisees hated tax collectors?
+[00:55:04.020 --> 00:55:06.020]   Because they were the ones who betrayed their country.
+[00:55:06.020 --> 00:55:09.020]   They were collecting money from their countrymen.
+[00:55:09.020 --> 00:55:14.020]   And Matthew, the tax collector, and you had these fishermen
+[00:55:14.020 --> 00:55:17.020]   who were walking around calling each other brothers in Christ.
+[00:55:17.020 --> 00:55:21.020]   I mean, in a typical setting, they would have killed each other.
+[00:55:21.020 --> 00:55:25.020]   In the early church, you had the tax collectors teaching,
+[00:55:25.020 --> 00:55:29.020]   because he was an apostle, he was teaching converted Pharisees,
+[00:55:29.020 --> 00:55:34.020]   the experts of the law, about the new covenant in Christ.
+[00:55:34.020 --> 00:55:39.020]   You had runaway slaves and slave owners in the same congregation.
+[00:55:39.020 --> 00:55:40.020]   You had the rich and poor.
+[00:55:40.020 --> 00:55:44.020]   They didn't have rich on one side of the neighborhood
+[00:55:44.020 --> 00:55:48.020]   and then poor on the other side because clearly they're not going to be the fellowship
+[00:55:48.020 --> 00:55:52.020]   because if we have home groups, one day you're going to go to the mansion,
+[00:55:52.020 --> 00:55:54.020]   another day you're going to go to a hut.
+[00:55:54.020 --> 00:55:56.020]   So that's practically not going to work.
+[00:55:56.020 --> 00:56:00.020]   But the greatest evidence in the early church was all of them were together
+[00:56:00.020 --> 00:56:03.020]   and they loved one another.
+[00:56:03.020 --> 00:56:08.020]   And so you can look at that and say, "Well, what happened?"
+[00:56:08.020 --> 00:56:13.020]   My, the early leaders must have been fantastic leaders.
+[00:56:13.020 --> 00:56:15.020]   They tapped into the organization.
+[00:56:15.020 --> 00:56:18.020]   They were able to get people to put away their ego,
+[00:56:18.020 --> 00:56:22.020]   and they learned a system where everybody can get along.
+[00:56:22.020 --> 00:56:25.020]   Are you kidding me?
+[00:56:25.020 --> 00:56:27.020]   That's not what happened.
+[00:56:27.020 --> 00:56:30.020]   See, the secular world can't explain the church.
+[00:56:30.020 --> 00:56:33.020]   And if you've ever read anything from the secular world,
+[00:56:33.020 --> 00:56:37.020]   how they describe why Christianity blew up so much, they'll say,
+[00:56:37.020 --> 00:56:41.020]   "Oh, because it was the poor people and there was a desperateness."
+[00:56:41.020 --> 00:56:44.020]   And Jesus described where they started to help each other,
+[00:56:44.020 --> 00:56:48.020]   and that's why the poor people came in droves.
+[00:56:48.020 --> 00:56:50.020]   That's because they didn't study the early church.
+[00:56:50.020 --> 00:56:53.020]   The early church was filled with poor people, rich people,
+[00:56:53.020 --> 00:56:58.020]   slave owners and slaves, Pharisees, Sadducees, tax collectors,
+[00:56:58.020 --> 00:57:01.020]   all in the same church.
+[00:57:01.020 --> 00:57:08.020]   And so the only logical explanation was the resurrection of Jesus Christ.
+[00:57:08.020 --> 00:57:11.020]   That's no different than if we fell asleep one day and the Republicans,
+[00:57:11.020 --> 00:57:16.020]   Democrats, you know, they love each other.
+[00:57:16.020 --> 00:57:20.020]   What was so powerful that they came together, right?
+[00:57:20.020 --> 00:57:25.020]   Something--people who hated--they wouldn't even walk into their town
+[00:57:25.020 --> 00:57:29.020]   because they hated each other, and yet they called each other
+[00:57:29.020 --> 00:57:35.020]   brothers and sisters in Christ because they met the resurrected Christ.
+[00:57:35.020 --> 00:57:38.020]   That's what distinguished them from the rest of the world,
+[00:57:38.020 --> 00:57:44.020]   and that's why it's so hard to understand how that happened in the early church.
+[00:57:44.020 --> 00:57:50.020]   So the greatest mark of holiness that sets us apart from the world is love.
+[00:57:50.020 --> 00:57:54.020]   Second, love is the greatest application of this community.
+[00:57:54.020 --> 00:57:57.020]   There's a reason why love is at the top of this list, and if you--
+[00:57:57.020 --> 00:58:01.020]   I can sit here and go through passage after passage after passage after passage
+[00:58:01.020 --> 00:58:04.020]   of the various lists of the characteristics of a Christian,
+[00:58:04.020 --> 00:58:11.020]   and almost always love is at the top of that list.
+[00:58:11.020 --> 00:58:16.020]   In 1 Corinthians chapter 13, verse 13, it says, "But now faith, hope, love--
+[00:58:16.020 --> 00:58:19.020]   abide these things, but the greatest of these is love."
+[00:58:19.020 --> 00:58:23.020]   I know if you've been raised in the church, you memorize this verse.
+[00:58:23.020 --> 00:58:26.020]   You might have a plaque on this at your home somewhere.
+[00:58:26.020 --> 00:58:30.020]   Your children may have memorized this in Sunday school.
+[00:58:30.020 --> 00:58:35.020]   But have you considered the gravity of this verse?
+[00:58:35.020 --> 00:58:39.020]   We're saved by faith.
+[00:58:39.020 --> 00:58:43.020]   We persevere through all kinds of trial because of hope.
+[00:58:43.020 --> 00:58:50.020]   And yet he says, "Above faith, above hope, love is the greatest."
+[00:58:50.020 --> 00:58:52.020]   Wow.
+[00:58:52.020 --> 00:58:57.020]   I mean, that really should cause us to take a step back and think about this
+[00:58:57.020 --> 00:59:02.020]   because the greatest application of God's holy calling is love.
+[00:59:02.020 --> 00:59:07.020]   Even though my relationship with God is reconciled because of faith,
+[00:59:07.020 --> 00:59:11.020]   and it is because of this hope that I'm able to be sanctified,
+[00:59:11.020 --> 00:59:16.020]   and yet the greatest application of our calling, he says, is love.
+[00:59:16.020 --> 00:59:21.020]   In 2 Peter 1, 5 through 8, Apostle Peter goes through the list of Christian disciplines
+[00:59:21.020 --> 00:59:24.020]   that we ought to strive for, and this is what he says,
+[00:59:24.020 --> 00:59:29.020]   "Now for this very reason also, applying all diligence in your faith, supply moral excellence.
+[00:59:29.020 --> 00:59:32.020]   In your moral excellence, knowledge; and in your knowledge, self-control;
+[00:59:32.020 --> 00:59:36.020]   in your self-control, perseverance; and in your perseverance, godliness;
+[00:59:36.020 --> 00:59:41.020]   and in your godliness, brotherly kindness; and in your brotherly kindness, love."
+[00:59:41.020 --> 00:59:46.020]   You notice here on this list that in descending order,
+[00:59:46.020 --> 00:59:51.020]   that these are the things that Christians who are trying to be sanctified
+[00:59:51.020 --> 00:59:55.020]   should apply themselves in increasing manner to grow in, and he says,
+[00:59:55.020 --> 01:00:00.020]   "Moral excellence, knowledge, self-control, perseverance, godliness,
+[01:00:00.020 --> 01:00:04.020]   brotherly kindness, and ultimately love."
+[01:00:04.020 --> 01:00:08.020]   The reason why love is at the bottom of this list is because all this striving
+[01:00:08.020 --> 01:00:11.020]   is to ultimately get to love.
+[01:00:11.020 --> 01:00:14.020]   The reason why we discipline is to get to love.
+[01:00:14.020 --> 01:00:18.020]   The reason why we apply knowledge is to get to love.
+[01:00:18.020 --> 01:00:23.020]   All the things that we are doing ultimately is to get us to practice the love
+[01:00:23.020 --> 01:00:27.020]   that Christ practiced with us, and that's what it means in 1 Timothy 1-5
+[01:00:27.020 --> 01:00:31.020]   when Paul sends Timothy to go to war in the city of Ephesus
+[01:00:31.020 --> 01:00:35.020]   because the Judaizers were coming and beginning to spread the false gospel,
+[01:00:35.020 --> 01:00:39.020]   and he's telling this young man, "Do not be timid.
+[01:00:39.020 --> 01:00:43.020]   I give you the authority," and the word "command" here is a military command,
+[01:00:43.020 --> 01:00:46.020]   where a commanding officer is telling the subordinate,
+[01:00:46.020 --> 01:00:53.020]   "I'm commanding you to go and command these men to stop teaching false doctrines,
+[01:00:53.020 --> 01:00:59.020]   and I give you the authority as an apostle of Jesus Christ to go and fight."
+[01:00:59.020 --> 01:01:03.020]   And this Timothy, he's concerned, he's timid, he has some ailments,
+[01:01:03.020 --> 01:01:10.020]   and people are falling out, and so Paul is trying to strengthen him up to go fight.
+[01:01:10.020 --> 01:01:17.020]   But as he goes to fight, he says, "But remember, the goal of our instruction is love
+[01:01:17.020 --> 01:01:21.020]   from a pure heart and a good conscience and a sincere faith.
+[01:01:21.020 --> 01:01:26.020]   The reason why I need you to fight is so that you can establish love.
+[01:01:26.020 --> 01:01:30.020]   The reason why doctrine needs to be pure is so that we can have love.
+[01:01:30.020 --> 01:01:37.020]   The reason why you need to make your stand clear is so that you can ultimately have greater love."
+[01:01:37.020 --> 01:01:42.020]   See, in our generation, because of the way that the gospel has been watered down,
+[01:01:42.020 --> 01:01:49.020]   that we somehow think that doctrinal purity and love somehow cannot coexist.
+[01:01:49.020 --> 01:01:56.020]   But the very reason why God calls us to purity in the church is so that we can have greater love.
+[01:01:56.020 --> 01:01:59.020]   These things are not two opposite sides.
+[01:01:59.020 --> 01:02:02.020]   You cannot have one without the other.
+[01:02:02.020 --> 01:02:07.020]   Third, we are called to love as we love ourselves.
+[01:02:07.020 --> 01:02:10.020]   The word here for love is Philadelphia.
+[01:02:10.020 --> 01:02:13.020]   Philadelphia has two words, philo, love.
+[01:02:13.020 --> 01:02:19.020]   Adelphia is brother, but literally the word in Greek means of the same womb.
+[01:02:19.020 --> 01:02:25.020]   So the Greeks used this word Philadelphia to only refer to blood brothers,
+[01:02:25.020 --> 01:02:28.020]   that you actually had a physical brother.
+[01:02:28.020 --> 01:02:33.020]   So the Christians adapted this to apply to all their true believers.
+[01:02:33.020 --> 01:02:38.020]   So this was a, even though the word existed, the way it was applied in the New Testament
+[01:02:38.020 --> 01:02:41.020]   to new covenant people is uniquely Christian.
+[01:02:41.020 --> 01:02:46.020]   And the reason why it was uniquely Christian is because that idea of family
+[01:02:46.020 --> 01:02:53.020]   was applied to all true believers because we were all born by the same spirit.
+[01:02:53.020 --> 01:02:57.020]   So the Greeks used it to refer to people who were born of the same womb.
+[01:02:57.020 --> 01:03:02.020]   And the New Testament believers used it to all who are genuinely born again by the spirit.
+[01:03:02.020 --> 01:03:06.020]   And Jesus himself said when he was hanging on the cross and he was looking at his mother,
+[01:03:06.020 --> 01:03:10.020]   he looked at the disciples and he said to the mother, "Women, behold your son."
+[01:03:10.020 --> 01:03:12.020]   Then he said to the disciples, "Behold your mother."
+[01:03:12.020 --> 01:03:17.020]   From that hour, the disciples took her into his own household.
+[01:03:17.020 --> 01:03:21.020]   He said, "Now you are true brothers. That's your mother. That's your father."
+[01:03:21.020 --> 01:03:26.020]   And so that our community is actually our family.
+[01:03:26.020 --> 01:03:32.020]   Ephesians 4, 4-5, "There is one body, one spirit, just as you also called in one hope of your calling,
+[01:03:32.020 --> 01:03:42.020]   one Lord, one faith, one baptism, and God and Father of all who is over all and through all and in all."
+[01:03:42.020 --> 01:03:48.020]   Now, like the application of all this sounds great, but what is the application of all of this?
+[01:03:48.020 --> 01:03:52.020]   He says we are to love one another as we would love our own family members.
+[01:03:52.020 --> 01:03:54.020]   That's basically what it says.
+[01:03:54.020 --> 01:03:56.020]   Love the Lord your God with all your heart, soul, mind, and spirit.
+[01:03:56.020 --> 01:04:00.020]   Love your neighbor as yourself.
+[01:04:00.020 --> 01:04:04.020]   When we talk about the practice of holiness or practice of grace,
+[01:04:04.020 --> 01:04:07.020]   we somehow detach these two things.
+[01:04:07.020 --> 01:04:12.020]   And I've had a friend tell me years ago that he believes that the greatest problem in our generation
+[01:04:12.020 --> 01:04:15.020]   is that we don't practice church discipline.
+[01:04:15.020 --> 01:04:16.020]   That's the problem.
+[01:04:16.020 --> 01:04:19.020]   That we need to weed out sin. We need to call out people who are in error.
+[01:04:19.020 --> 01:04:22.020]   And so we need to keep the church pure.
+[01:04:22.020 --> 01:04:24.020]   Now, I know what he was saying.
+[01:04:24.020 --> 01:04:26.020]   I know what he was getting at.
+[01:04:26.020 --> 01:04:31.020]   But I don't know if I would phrase it that way because I don't think it's accurate.
+[01:04:31.020 --> 01:04:38.020]   I think the way we should understand is the greatest problem in our generation is that we don't practice true love.
+[01:04:38.020 --> 01:04:44.020]   Because the kind of love that we practice sometimes is no more than indifference.
+[01:04:44.020 --> 01:04:48.020]   We have different degrees of how we practice love.
+[01:04:48.020 --> 01:04:51.020]   We have people that we really care about and we love them.
+[01:04:51.020 --> 01:04:54.020]   We rejoice with them and we suffer with them.
+[01:04:54.020 --> 01:04:56.020]   And so we have that group of people.
+[01:04:56.020 --> 01:04:59.020]   And then we have some groups of people we don't either hate them or love them.
+[01:04:59.020 --> 01:05:01.020]   They're just kind of acquaintances.
+[01:05:01.020 --> 01:05:05.020]   So when good things happen, we high-five.
+[01:05:05.020 --> 01:05:08.020]   And then when they suffer, sad face on Facebook.
+[01:05:08.020 --> 01:05:11.020]   But that's about the engagement that we have.
+[01:05:11.020 --> 01:05:13.020]   And then we have people that annoy us.
+[01:05:13.020 --> 01:05:14.020]   They're acquaintances.
+[01:05:14.020 --> 01:05:20.020]   So when they suffer, we rejoice inwardly, quietly, because we're Christian.
+[01:05:20.020 --> 01:05:25.020]   And then when they celebrate, we're kind of like, "Huh, they don't deserve that."
+[01:05:25.020 --> 01:05:30.020]   So we have different degrees of love that we practice.
+[01:05:30.020 --> 01:05:35.020]   But the people that we really love, we're engaged.
+[01:05:35.020 --> 01:05:42.020]   No mother or father who sees a child deliberately choosing a path that they know is going to hurt them
+[01:05:42.020 --> 01:05:47.020]   and sits there and say, "Well, I want to practice grace and mercy.
+[01:05:47.020 --> 01:05:54.020]   I'm just going to let you do whatever you want to do because I'd rather err on the side of grace."
+[01:05:54.020 --> 01:05:57.020]   No one would look at that and say, "What a great mom. What a great dad."
+[01:05:57.020 --> 01:06:02.020]   If your child is staying up till 4 in the morning playing video games 14 hours
+[01:06:02.020 --> 01:06:05.020]   and ruining their life and hanging out with the wrong crowd
+[01:06:05.020 --> 01:06:09.020]   and they're making decisions that ultimately are going to hurt them,
+[01:06:09.020 --> 01:06:12.020]   no loving mother, no loving father is going to sit there and watch it and say,
+[01:06:12.020 --> 01:06:16.020]   "Well, I'd rather err on the side of grace."
+[01:06:16.020 --> 01:06:22.020]   You'd get involved. If that was your brother, if that was your sister, if that was your mother or father,
+[01:06:22.020 --> 01:06:29.020]   because we love them, we would be more concerned about the damage that they're doing to their life
+[01:06:29.020 --> 01:06:32.020]   than how they would view us.
+[01:06:32.020 --> 01:06:38.020]   So sometimes our idea of practicing grace is being indifferent
+[01:06:38.020 --> 01:06:42.020]   because we're afraid how they will react to what we will say.
+[01:06:42.020 --> 01:06:45.020]   But we don't do that to people we really love.
+[01:06:45.020 --> 01:06:52.020]   People that we really love, we will say something, despite how you may perceive me.
+[01:06:52.020 --> 01:06:58.020]   I will say something to you because I know and I'm convinced that if you keep going down that path,
+[01:06:58.020 --> 01:07:02.020]   that there is destruction, there's no good waiting for you.
+[01:07:02.020 --> 01:07:05.020]   Because we love them, we will speak.
+[01:07:05.020 --> 01:07:13.020]   So the kind of grace that's supposedly being practiced in our generation is not grace at all.
+[01:07:13.020 --> 01:07:17.020]   It's just indifference and we're not doing it for them.
+[01:07:17.020 --> 01:07:20.020]   Even though in the back of our mind we know where,
+[01:07:20.020 --> 01:07:23.020]   say, "Oh, he's going to point out what's wrong."
+[01:07:23.020 --> 01:07:32.020]   So the problem in our generation is not that we don't practice church discipline.
+[01:07:32.020 --> 01:07:37.020]   We don't truly practice agape love.
+[01:07:37.020 --> 01:07:42.020]   Because God's love and His grace cannot be separated.
+[01:07:42.020 --> 01:07:46.020]   If you practice one without the other, it isn't from God.
+[01:07:46.020 --> 01:07:52.020]   If you practice justice without love, you'll get vengeance.
+[01:07:52.020 --> 01:07:56.020]   If you practice grace without justice, you have indifference.
+[01:07:56.020 --> 01:07:59.020]   Just kind of ignore it. Let them be. They're going to do drugs, let them do drugs.
+[01:07:59.020 --> 01:08:02.020]   They're going to run down this path and at the end of it there's a cliff.
+[01:08:02.020 --> 01:08:05.020]   I don't want to bother them. Let them go.
+[01:08:05.020 --> 01:08:12.020]   You see, God's justice and His mercy and His grace can never be separated.
+[01:08:12.020 --> 01:08:16.020]   And that's the community that He calls us to, where the gospel of Jesus Christ,
+[01:08:16.020 --> 01:08:18.020]   where the cross is at the center.
+[01:08:18.020 --> 01:08:25.020]   When the cross is at the center, His holiness and His love will never be compromised.
+[01:08:25.020 --> 01:08:29.020]   Third. Sorry, fourth.
+[01:08:29.020 --> 01:08:32.020]   Love is not in us.
+[01:08:32.020 --> 01:08:35.020]   Love is given to us.
+[01:08:35.020 --> 01:08:38.020]   You notice here He says to continue in my love.
+[01:08:38.020 --> 01:08:42.020]   He doesn't say practice love. He says continue in my love.
+[01:08:42.020 --> 01:08:45.020]   The word for continue is a very theologically rich term.
+[01:08:45.020 --> 01:08:47.020]   And it's the word meno.
+[01:08:47.020 --> 01:08:51.020]   So if you've been at our church, I've given several sermons on this, on John chapter 15,
+[01:08:51.020 --> 01:08:56.020]   when Jesus says, "If you want to bear fruit, you need to remain in me."
+[01:08:56.020 --> 01:08:59.020]   Right? Remain in me. Continue in me.
+[01:08:59.020 --> 01:09:03.020]   That word meno is used over 11 times in that passage.
+[01:09:03.020 --> 01:09:06.020]   And Jesus is telling His disciples as He is going to the cross,
+[01:09:06.020 --> 01:09:08.020]   that where I go, you cannot come.
+[01:09:08.020 --> 01:09:11.020]   But if you want to bear fruit, you need to meno in me.
+[01:09:11.020 --> 01:09:16.020]   The word meno is one of those words that can't be translated with one word.
+[01:09:16.020 --> 01:09:19.020]   So some of your translations, it would say remain.
+[01:09:19.020 --> 01:09:21.020]   Some of your translations, it says to abide.
+[01:09:21.020 --> 01:09:24.020]   Some of your translations, it says to dwell.
+[01:09:24.020 --> 01:09:27.020]   Some of your translations, it says to live.
+[01:09:27.020 --> 01:09:32.020]   But basically that word means to be connected, to continue what God has started.
+[01:09:32.020 --> 01:09:33.020]   That's what that word means.
+[01:09:33.020 --> 01:09:38.020]   So if you notice here, He says, "Let love of the brethren remain."
+[01:09:38.020 --> 01:09:47.020]   To continue. In other words, the love of Christ has given to all genuine believers.
+[01:09:47.020 --> 01:09:48.020]   All genuine believers.
+[01:09:48.020 --> 01:09:52.020]   Because that was the greatest evidence of separation from the world.
+[01:09:52.020 --> 01:09:56.020]   In 1 Thessalonians 4, 9-10, it says, "Now as to love of the brethren,
+[01:09:56.020 --> 01:09:58.020]   you have no need for anyone to write to you,
+[01:09:58.020 --> 01:10:01.020]   for you yourselves are taught by God to love one another.
+[01:10:01.020 --> 01:10:06.020]   For if indeed you do practice it toward all the brethren who are in Macedonia,
+[01:10:06.020 --> 01:10:09.020]   but we urge you, brethren, to excel still more."
+[01:10:09.020 --> 01:10:10.020]   In other words, Apostle Paul is saying,
+[01:10:10.020 --> 01:10:13.020]   "I don't need to teach you this because God already taught you this."
+[01:10:13.020 --> 01:10:15.020]   Now what does he mean by that?
+[01:10:15.020 --> 01:10:19.020]   That God audibly opened up heaven and said, "Love."
+[01:10:19.020 --> 01:10:20.020]   So when Apostle Paul showed up, it's like,
+[01:10:20.020 --> 01:10:23.020]   "Oh, I don't need to teach you because you heard that from heaven."
+[01:10:23.020 --> 01:10:24.020]   Is that what he means?
+[01:10:24.020 --> 01:10:26.020]   Well, that's not what he means.
+[01:10:26.020 --> 01:10:31.020]   He means that the practice of this love is so fundamental to the gospel
+[01:10:31.020 --> 01:10:35.020]   that as Christ loved us, you would naturally love.
+[01:10:35.020 --> 01:10:38.020]   If God was generous to you, you would be generous.
+[01:10:38.020 --> 01:10:39.020]   And that's what he means.
+[01:10:39.020 --> 01:10:42.020]   I don't need to teach you because at the root of the gospel,
+[01:10:42.020 --> 01:10:47.020]   at the root of redemptive history, is God loving sinners.
+[01:10:47.020 --> 01:10:53.020]   It was given to us, and it was given to us to do by the power of the Holy Spirit.
+[01:10:53.020 --> 01:10:59.020]   In 1 John 4:19, it says, "We love because He first loved us."
+[01:10:59.020 --> 01:11:02.020]   We love because He first loved us.
+[01:11:02.020 --> 01:11:07.020]   You know, one of the first things that happens when you begin to stray away from God
+[01:11:07.020 --> 01:11:11.020]   or you begin to drift away from God,
+[01:11:11.020 --> 01:11:14.020]   you start to get annoyed with people.
+[01:11:14.020 --> 01:11:18.020]   That's the first thing because this is impossible to practice.
+[01:11:18.020 --> 01:11:20.020]   This is impossible to practice.
+[01:11:20.020 --> 01:11:24.020]   In the Old Testament, God says, "Eye for an eye, tooth for a tooth."
+[01:11:24.020 --> 01:11:27.020]   What is eye for an eye, tooth for a tooth?
+[01:11:27.020 --> 01:11:30.020]   There's different degrees of relationships that we practice.
+[01:11:30.020 --> 01:11:34.020]   We practice vengeance, justice, mercy, and grace.
+[01:11:34.020 --> 01:11:37.020]   Eye for an eye, tooth for a tooth is what?
+[01:11:37.020 --> 01:11:40.020]   It's not mercy. It's not grace.
+[01:11:40.020 --> 01:11:43.020]   It's justice.
+[01:11:43.020 --> 01:11:46.020]   They took an eye, you take an eye.
+[01:11:46.020 --> 01:11:48.020]   They punch you in the mouth, you punch them in the mouth.
+[01:11:48.020 --> 01:11:50.020]   That's justice.
+[01:11:50.020 --> 01:11:54.020]   The reason why God even has to tell us to practice justice
+[01:11:54.020 --> 01:11:59.020]   is because our natural inclination isn't to practice justice.
+[01:11:59.020 --> 01:12:01.020]   What is our natural inclination?
+[01:12:01.020 --> 01:12:04.020]   To practice vengeance.
+[01:12:04.020 --> 01:12:08.020]   So as much as people are marching and saying, "No justice, no peace,"
+[01:12:08.020 --> 01:12:11.020]   they're not looking for justice.
+[01:12:11.020 --> 01:12:13.020]   They're not looking for justice.
+[01:12:13.020 --> 01:12:15.020]   They're looking for vengeance.
+[01:12:15.020 --> 01:12:19.020]   You hurt me, I want to hurt you.
+[01:12:19.020 --> 01:12:23.020]   You punch me, I'm going to punch your family.
+[01:12:23.020 --> 01:12:26.020]   You slash my tire, I'm going to burn your car.
+[01:12:26.020 --> 01:12:28.020]   You rob from me, I'm going to take your whole bank account.
+[01:12:28.020 --> 01:12:32.020]   That's our natural, in our flesh, our desire.
+[01:12:32.020 --> 01:12:34.020]   It's not to practice justice.
+[01:12:34.020 --> 01:12:39.020]   You have to be a righteous man, a self-controlled disciplined man,
+[01:12:39.020 --> 01:12:41.020]   to practice justice.
+[01:12:41.020 --> 01:12:45.020]   That somebody hurts you and you only hurt them as much as they hurt you.
+[01:12:45.020 --> 01:12:47.020]   That's not our sinful state.
+[01:12:47.020 --> 01:12:51.020]   Our sinful state is, "You hurt me, I'll kill you."
+[01:12:51.020 --> 01:12:58.020]   Make sure you never even entertain messing with me.
+[01:12:58.020 --> 01:13:01.020]   That's our tendency.
+[01:13:01.020 --> 01:13:04.020]   So imagine if that's our flesh.
+[01:13:04.020 --> 01:13:08.020]   That not only does He tell us to practice justice,
+[01:13:08.020 --> 01:13:11.020]   but to have self-control, practice justice.
+[01:13:11.020 --> 01:13:13.020]   To go beyond that, practice mercy.
+[01:13:13.020 --> 01:13:16.020]   It's like not take vengeance and not even justice.
+[01:13:16.020 --> 01:13:19.020]   Just hold it within yourself.
+[01:13:19.020 --> 01:13:22.020]   How hard is that when somebody deliberately tries to hurt you
+[01:13:22.020 --> 01:13:25.020]   and you say, "Eh, whatever."
+[01:13:25.020 --> 01:13:28.020]   You must be emotionally dead.
+[01:13:28.020 --> 01:13:32.020]   Or something is you are in so much fear.
+[01:13:32.020 --> 01:13:34.020]   That's not how we think.
+[01:13:34.020 --> 01:13:39.020]   We don't practice mercy.
+[01:13:39.020 --> 01:13:43.020]   To grace and then go beyond that and then to love them.
+[01:13:43.020 --> 01:13:46.020]   To do what's best for them.
+[01:13:46.020 --> 01:13:52.020]   So tell somebody who may or may not be satisfied with vengeance
+[01:13:52.020 --> 01:13:57.020]   and then command them to practice the love that He gave to us
+[01:13:57.020 --> 01:14:00.020]   while we were yet sinners.
+[01:14:00.020 --> 01:14:03.020]   To love them, give to them, take care of them.
+[01:14:03.020 --> 01:14:07.020]   And He said, "By that love the world will know you are my disciples."
+[01:14:07.020 --> 01:14:12.020]   Because that's not something you can do in your flesh.
+[01:14:12.020 --> 01:14:15.020]   And that's why He says to remain in this love.
+[01:14:15.020 --> 01:14:17.020]   This love I gave you.
+[01:14:17.020 --> 01:14:21.020]   So the moment we begin to stray from Christ,
+[01:14:21.020 --> 01:14:28.020]   it is humanly impossible to even imagine to practice this love.
+[01:14:28.020 --> 01:14:33.020]   See, God's holiness that sets us apart from this world
+[01:14:33.020 --> 01:14:36.020]   is that love that He called us to.
+[01:14:36.020 --> 01:14:38.020]   That's why He says we love because He first loved us.
+[01:14:38.020 --> 01:14:41.020]   And then 2 Corinthians 5, 14-15, it says,
+[01:14:41.020 --> 01:14:44.020]   "For the love of Christ controls us."
+[01:14:44.020 --> 01:14:47.020]   Apostle Paul is talking about himself and his disciples.
+[01:14:47.020 --> 01:14:51.020]   Now understand the context of why he's saying this.
+[01:14:51.020 --> 01:14:53.020]   Do you remember Apostle Paul, he was writing,
+[01:14:53.020 --> 01:14:57.020]   and he begged the Lord three times to take away the thorn on his side?
+[01:14:57.020 --> 01:15:01.020]   And if you read the commentaries, people have done a lot of work
+[01:15:01.020 --> 01:15:03.020]   to try to figure out what is that thorn on his side?
+[01:15:03.020 --> 01:15:05.020]   He begged the Lord to take it away.
+[01:15:05.020 --> 01:15:06.020]   It was so painful for him.
+[01:15:06.020 --> 01:15:09.020]   Some people say that maybe he was sick.
+[01:15:09.020 --> 01:15:11.020]   There's no mention of that anywhere in the Bible.
+[01:15:11.020 --> 01:15:13.020]   So I'm not sure if that's the best interpretation
+[01:15:13.020 --> 01:15:16.020]   because if he was sick, that would have been the only problem.
+[01:15:16.020 --> 01:15:18.020]   Some jokingly said maybe it was his wife.
+[01:15:18.020 --> 01:15:22.020]   His wife just couldn't stand that he's not making enough money.
+[01:15:22.020 --> 01:15:24.020]   You know, he's always away from home.
+[01:15:24.020 --> 01:15:25.020]   That's a joke.
+[01:15:25.020 --> 01:15:27.020]   And I don't think--Paul is pretty clear.
+[01:15:27.020 --> 01:15:29.020]   He says he's not married.
+[01:15:29.020 --> 01:15:32.020]   But if you read the context of 1 Corinthians,
+[01:15:32.020 --> 01:15:36.020]   Paul, when he showed up to the city, he was trembling in fear.
+[01:15:36.020 --> 01:15:41.020]   He was getting beat up, jailed, whooped, almost died, shipwrecked.
+[01:15:41.020 --> 01:15:44.020]   So when he comes into the city, he was in fear.
+[01:15:44.020 --> 01:15:45.020]   He was burnt out.
+[01:15:45.020 --> 01:15:46.020]   He was tired.
+[01:15:46.020 --> 01:15:48.020]   And he looked like he was going to quit.
+[01:15:48.020 --> 01:15:50.020]   That's how he described himself.
+[01:15:50.020 --> 01:15:52.020]   And the Lord, Jesus, spoke to him and said,
+[01:15:52.020 --> 01:15:57.020]   "I want you to continue your work because I have many who follow me in this city."
+[01:15:57.020 --> 01:16:01.020]   So Paul spent a lot of time in this city sharing the gospel,
+[01:16:01.020 --> 01:16:04.020]   bringing people to Christ, and establishing this church.
+[01:16:04.020 --> 01:16:07.020]   So he had a special affection for this church
+[01:16:07.020 --> 01:16:10.020]   because he spent a lot of time at this church.
+[01:16:10.020 --> 01:16:13.020]   And it is that church that was falling apart.
+[01:16:13.020 --> 01:16:15.020]   So if you've ever studied the New Testament,
+[01:16:15.020 --> 01:16:20.020]   you know the 1 and 2 Corinthians is the harshest letter to these churches
+[01:16:20.020 --> 01:16:24.020]   because some people were questioning because they didn't like what he had to say.
+[01:16:24.020 --> 01:16:26.020]   "That guy's an apostle. How can he be an apostle?"
+[01:16:26.020 --> 01:16:30.020]   "I follow Peter. I follow Apollos."
+[01:16:30.020 --> 01:16:32.020]   "Who is this guy?"
+[01:16:32.020 --> 01:16:38.020]   And he was writing letters to change them, to correct them.
+[01:16:38.020 --> 01:16:42.020]   They said, "This guy's letters are weighty, but his presence is weak."
+[01:16:42.020 --> 01:16:48.020]   "He writes with such authority, but when he comes, he's just a tiny little guy, bald-headed guy,"
+[01:16:48.020 --> 01:16:53.020]   according to church tradition.
+[01:16:53.020 --> 01:16:56.020]   I don't know about you, but my inclination would have been,
+[01:16:56.020 --> 01:17:01.020]   "Well, you got Peter. Then go to Peter. That's Peter's problem.
+[01:17:01.020 --> 01:17:04.020]   You want Peter? Go to Peter.
+[01:17:04.020 --> 01:17:09.020]   Apollos is the better speaker. Go. No sweat off my back.
+[01:17:09.020 --> 01:17:11.020]   I got all these other churches I got to attend to.
+[01:17:11.020 --> 01:17:16.020]   If you just take off and leave, no sweat off my back."
+[01:17:16.020 --> 01:17:20.020]   I mean, his anguishing letter that he writes, 1 Corinthians, 2 Corinthians,
+[01:17:20.020 --> 01:17:23.020]   questioning his apostleship, begging them to repent,
+[01:17:23.020 --> 01:17:28.020]   and still them questioning him, "Who is this guy? I don't like his sermons."
+[01:17:28.020 --> 01:17:33.020]   And so he begged. I think him begging the Lord was his opposition
+[01:17:33.020 --> 01:17:36.020]   who were constantly attacking him.
+[01:17:36.020 --> 01:17:39.020]   And as he says in Philippians, there are some people preaching the gospel
+[01:17:39.020 --> 01:17:42.020]   just to make it harder for him to preach the gospel.
+[01:17:42.020 --> 01:17:47.020]   He was not only being attacked by the Judaizers, but within the church
+[01:17:47.020 --> 01:17:49.020]   who hated him when he was calling them out.
+[01:17:49.020 --> 01:17:53.020]   I mean, Galatians starts out, "Am I a servant of man or servant of God?"
+[01:17:53.020 --> 01:17:58.020]   And he was calling out even Apostle Peter and Barnabas, his mentors,
+[01:17:58.020 --> 01:18:03.020]   because he was afraid that their actions were going to pervert the gospel.
+[01:18:03.020 --> 01:18:06.020]   And so because he was bold in preaching the gospel,
+[01:18:06.020 --> 01:18:08.020]   he had opposition even within the church.
+[01:18:08.020 --> 01:18:12.020]   And I believe when he said he begged the Lord to take away the thorn,
+[01:18:12.020 --> 01:18:18.020]   he was having a hard time with those who were criticizing him.
+[01:18:18.020 --> 01:18:25.020]   It is in that context, he writes, because it's so tempting to just let it go.
+[01:18:25.020 --> 01:18:30.020]   It's so tempting to shake off the dust and say, "Good riddance.
+[01:18:30.020 --> 01:18:33.020]   I'm here risking my life, almost died, so that you can have the gospel,
+[01:18:33.020 --> 01:18:37.020]   and this is the way you're going to treat me? Good. Gone."
+[01:18:37.020 --> 01:18:44.020]   But he perseveres. He agonizes. He pleads.
+[01:18:44.020 --> 01:18:49.020]   It is in that context, he says, for the love of Christ controls us.
+[01:18:49.020 --> 01:18:53.020]   It was because of the love of Christ I endured.
+[01:18:53.020 --> 01:18:56.020]   Having concluded this, that one died for all, therefore all died,
+[01:18:56.020 --> 01:19:01.020]   and he died for all so that they who live might no longer live for themselves,
+[01:19:01.020 --> 01:19:04.020]   but for him who died and rose again on their behalf.
+[01:19:04.020 --> 01:19:08.020]   I believe when he was writing this, this was his personal testimony.
+[01:19:08.020 --> 01:19:12.020]   I'm persevering because I'm no longer living for myself.
+[01:19:12.020 --> 01:19:16.020]   It's not about me. It's not about my pain. It's not about my sacrifice.
+[01:19:16.020 --> 01:19:25.020]   But Christ crucified because the love of Christ was compelling him to endure and to love.
+[01:19:25.020 --> 01:19:32.020]   Fifth and finally, love is the ultimate goal. It is the fulfillment of this holy law.
+[01:19:32.020 --> 01:19:36.020]   Romans 13, 8-10 says, "Owe nothing to anyone except the love of one another,
+[01:19:36.020 --> 01:19:40.020]   for he who loves his neighbor has fulfilled the law."
+[01:19:40.020 --> 01:19:45.020]   For this, you shall not commit adultery, you shall not murder, you shall not steal, you shall not covet,
+[01:19:45.020 --> 01:19:50.020]   and he basically gives a brief list of the Ten Commandments, and he says all of this is summarized.
+[01:19:50.020 --> 01:19:53.020]   Therefore, love is the fulfillment of the law.
+[01:19:53.020 --> 01:19:59.020]   So if you look at the Ten Commandments, the first four commandments is about loving God.
+[01:19:59.020 --> 01:20:05.020]   Have no worship of any other God, no graven images, not take the Lord's name in vain to keep the Sabbath holy,
+[01:20:05.020 --> 01:20:09.020]   and then the next six is about the relationship that we have with one another.
+[01:20:09.020 --> 01:20:16.020]   He says, "But the purpose of holy living, to obey these commandments, is ultimately practice of love."
+[01:20:16.020 --> 01:20:21.020]   He's giving us a description of how to love God and how to love one another.
+[01:20:21.020 --> 01:20:25.020]   And that's exactly what he says in Matthew 22, 37-40.
+[01:20:25.020 --> 01:20:29.020]   "And he said to him, 'You shall love the Lord your God with all your heart, soul, mind, and strength.
+[01:20:29.020 --> 01:20:31.020]   This is the great and foremost commandment.
+[01:20:31.020 --> 01:20:36.020]   The second is like it, you shall love your neighbor as yourself.'"
+[01:20:36.020 --> 01:20:40.020]   On these two commandments depend the whole law and the prophets.
+[01:20:40.020 --> 01:20:46.020]   So when we think of the law, we automatically say, "Oh, that goes into the context of holiness."
+[01:20:46.020 --> 01:20:52.020]   And when we think of mercy, we think of God's forgiveness and what he did at the cross.
+[01:20:52.020 --> 01:21:00.020]   But here he says, "The commandment, the holy commandment, the fulfillment of that is love."
+[01:21:00.020 --> 01:21:03.020]   So these are not separate things.
+[01:21:03.020 --> 01:21:06.020]   So if you err in love, if you err in love, you err in the law.
+[01:21:06.020 --> 01:21:09.020]   If you err in the law, you err in grace.
+[01:21:09.020 --> 01:21:15.020]   You cannot practice one without the other.
+[01:21:15.020 --> 01:21:17.020]   Love is the fulfillment of the law.
+[01:21:17.020 --> 01:21:22.020]   1 John 4, 16-17, "We have come to know and have believed the love of God, which has for us,
+[01:21:22.020 --> 01:21:26.020]   God is love, and the one who abides in love abides in God, God abides in him.
+[01:21:26.020 --> 01:21:29.020]   By this, love is perfected with us."
+[01:21:29.020 --> 01:21:31.020]   What does that even mean?
+[01:21:31.020 --> 01:21:33.020]   There's another word that's important in the New Testament.
+[01:21:33.020 --> 01:21:35.020]   The word perfected is teleos.
+[01:21:35.020 --> 01:21:39.020]   And remember, the word teleos doesn't mean that you yourself are morally perfect.
+[01:21:39.020 --> 01:21:41.020]   That's not what that word means.
+[01:21:41.020 --> 01:21:46.020]   Perfected means that whatever was intended for that is finding fulfillment.
+[01:21:46.020 --> 01:21:51.020]   So if a child enters into school, when is he perfected?
+[01:21:51.020 --> 01:21:53.020]   When he gets perfect grades?
+[01:21:53.020 --> 01:21:55.020]   No.
+[01:21:55.020 --> 01:21:58.020]   When he graduates, right?
+[01:21:58.020 --> 01:22:02.020]   I mean, he's not saying when you get straight A's all the time, you never get anything wrong,
+[01:22:02.020 --> 01:22:03.020]   then you are perfected.
+[01:22:03.020 --> 01:22:05.020]   That's not this word.
+[01:22:05.020 --> 01:22:09.020]   This word basically means what God had intended, he's bringing to fulfillment.
+[01:22:09.020 --> 01:22:11.020]   So what does this mean?
+[01:22:11.020 --> 01:22:20.020]   Christ was crucified and he gave his love for us and is perfected in us when we are affected and love one another.
+[01:22:20.020 --> 01:22:32.020]   So his love is perfected in us when we begin to reflect that love in the way that we live.
+[01:22:32.020 --> 01:22:37.020]   Let me end with this.
+[01:22:37.020 --> 01:22:43.020]   You know, years ago I would go to retreats, you know, and usually, four out of five times,
+[01:22:43.020 --> 01:22:47.020]   there's usually somebody I know that asked me to come and speak and I would speak.
+[01:22:47.020 --> 01:22:50.020]   And a lot of these churches are not doing well.
+[01:22:50.020 --> 01:22:52.020]   And so I would come and give a message.
+[01:22:52.020 --> 01:22:57.020]   And one of the most common questions that I was getting at churches, at retreats, was,
+[01:22:57.020 --> 01:23:02.020]   "Pastor Peter, when is the right time to leave a church?"
+[01:23:02.020 --> 01:23:07.020]   This is my friend's church, right, and he's talking about that church.
+[01:23:07.020 --> 01:23:09.020]   And so I would get these questions.
+[01:23:09.020 --> 01:23:15.020]   Eventually, like, you know, I said, "Well, this is one of the most common questions because people are frustrated."
+[01:23:15.020 --> 01:23:19.020]   And so, one, I can't, I'm at my friend's church.
+[01:23:19.020 --> 01:23:22.020]   Yeah, get out of here.
+[01:23:22.020 --> 01:23:26.020]   My friend came to speak so that you guys can benefit and then I said, "Get out of here."
+[01:23:26.020 --> 01:23:31.020]   So I'm thinking, so I would give them the, you know, what you should give, right.
+[01:23:31.020 --> 01:23:34.020]   Well, how much of this is your problem, right?
+[01:23:34.020 --> 01:23:36.020]   Are you the troublemaker?
+[01:23:36.020 --> 01:23:37.020]   What kind of view that you have of it?
+[01:23:37.020 --> 01:23:41.020]   Do you have a high view of the church where you're just going to hop around church to church?
+[01:23:41.020 --> 01:23:44.020]   So I would give them, not knowing the context, not knowing what the problem is,
+[01:23:44.020 --> 01:23:50.020]   and I'm more concerned about this is, I can't, I can't tell him to leave.
+[01:23:50.020 --> 01:23:54.020]   I don't even want to know what the problem is because even if I wanted to tell you to leave,
+[01:23:54.020 --> 01:23:57.020]   I can't because I'm at my friend's church.
+[01:23:57.020 --> 01:24:00.020]   But years would go by and that would be the most common question that they would ask
+[01:24:00.020 --> 01:24:03.020]   and I'm just wrestling with this.
+[01:24:03.020 --> 01:24:08.020]   And so I'm wrestling with this idea of practicing love, love as yourself,
+[01:24:08.020 --> 01:24:10.020]   and I'm just meditating, thinking about this.
+[01:24:10.020 --> 01:24:13.020]   And it's a thought came to me.
+[01:24:13.020 --> 01:24:16.020]   What's the right way to answer this question?
+[01:24:16.020 --> 01:24:21.020]   And I thought, how would I answer if my son asked me this question?
+[01:24:21.020 --> 01:24:27.020]   He went to college and he's struggling, he's not growing, there's stuff happening in the church.
+[01:24:27.020 --> 01:24:31.020]   How would I answer this question?
+[01:24:31.020 --> 01:24:36.020]   Because for my son, I wouldn't be as concerned about what they would think of me
+[01:24:36.020 --> 01:24:38.020]   because I'd be more concerned about him.
+[01:24:38.020 --> 01:24:44.020]   I wouldn't be so concerned about my reputation because I would be more concerned about him.
+[01:24:44.020 --> 01:24:52.020]   So I resolved that I'm going to be honest and answer you exactly the way I would answer my son.
+[01:24:52.020 --> 01:24:56.020]   And so that's the mindset that I have even inside the church.
+[01:24:56.020 --> 01:25:00.020]   If you ask me a question, I'm going to answer you like I would answer my own son.
+[01:25:00.020 --> 01:25:05.020]   Sometimes you may not like it, but that's what I actually believe.
+[01:25:05.020 --> 01:25:09.020]   I'm not going to dress it up so that you won't hate me.
+[01:25:09.020 --> 01:25:13.020]   You might hate me, but that's exactly what I would say to my own son.
+[01:25:13.020 --> 01:25:16.020]   So even if we have to discipline somebody at church, I'd ask my question,
+[01:25:16.020 --> 01:25:19.020]   would I do this to my own son?
+[01:25:19.020 --> 01:25:24.020]   Because I have to believe that this is what's best for him, not because I'm annoyed,
+[01:25:24.020 --> 01:25:27.020]   not because I'm angered, or not because I'm offended,
+[01:25:27.020 --> 01:25:29.020]   because I would never approach my children that way.
+[01:25:29.020 --> 01:25:36.020]   Even if I'm angered, I would make sure that whatever I say and do is for their own good.
+[01:25:36.020 --> 01:25:42.020]   And so that didn't solve all the problems, but it made things much more simpler.
+[01:25:42.020 --> 01:25:49.020]   To practice this love, that I need to practice this love as I would love myself,
+[01:25:49.020 --> 01:25:54.020]   to love my children, to love my wife, to love people that I genuinely love.
+[01:25:54.020 --> 01:26:03.020]   So when a church practices true biblical love, accountability happens.
+[01:26:03.020 --> 01:26:06.020]   We don't just simply look at that and say, "Oh, what are they going to think if I say something?"
+[01:26:06.020 --> 01:26:07.020]   and then sweep it under the rug.
+[01:26:07.020 --> 01:26:11.020]   You would never do that for your child.
+[01:26:11.020 --> 01:26:13.020]   You would speak up.
+[01:26:13.020 --> 01:26:15.020]   You would say something.
+[01:26:15.020 --> 01:26:17.020]   I'm not saying be jerks.
+[01:26:17.020 --> 01:26:20.020]   I'm not saying we're going to create an environment and I see everybody is wrong.
+[01:26:20.020 --> 01:26:23.020]   Because you wouldn't do that with your kids either.
+[01:26:23.020 --> 01:26:29.020]   You wouldn't be so quick to point out every false thing because you know that's not good for your kids either.
+[01:26:29.020 --> 01:26:38.020]   But true biblical love never separates holiness and mercy.
+[01:26:38.020 --> 01:26:41.020]   They go hand in hand.
+[01:26:41.020 --> 01:26:50.020]   So in practice, and I know our natural inclination is I'd rather err on the side of grace.
+[01:26:50.020 --> 01:26:54.020]   Our goal is to not err, period.
+[01:26:54.020 --> 01:26:56.020]   That we want to know who God is.
+[01:26:56.020 --> 01:26:58.020]   We want to know what the gospel is.
+[01:26:58.020 --> 01:27:01.020]   And we want to truly be gospel-centered.
+[01:27:01.020 --> 01:27:05.020]   Not what I want the gospel to be, but what the gospel actually is.
+[01:27:05.020 --> 01:27:10.020]   Let's pray.
+[01:27:10.020 --> 01:27:14.020]   Again, as our worship team comes,
+[01:27:14.020 --> 01:27:21.020]   let's take some time to reflect if there's any areas in our life where we superficially applied love,
+[01:27:21.020 --> 01:27:24.020]   but in reality it was indifference.
+[01:27:24.020 --> 01:27:27.020]   Where maybe we were overly harsh because we really didn't love.
+[01:27:27.020 --> 01:27:31.020]   We said, you know, we're going to speak the truth in love, but it was more truth than love.
+[01:27:31.020 --> 01:27:35.020]   How are we practicing this in our lives?
+[01:27:35.020 --> 01:27:40.020]   So we ask the Lord to show us, search us and know us, see if there's any hurtful ways in us,
+[01:27:40.020 --> 01:27:44.020]   so that our church would truly be identified by the love of Christ,
+[01:27:44.020 --> 01:27:47.020]   that the world would know that we are his disciples.
+[01:27:47.020 --> 01:27:50.020]   So let's take some time to pray as our worship team leads us.
+[01:27:50.020 --> 01:28:00.020]   (Music)
+[01:28:00.020 --> 01:28:10.020]   (Music)
+[01:28:10.020 --> 01:28:20.020]   (Music)
+[01:28:20.020 --> 01:28:30.020]   (Music)
+[01:28:30.020 --> 01:28:40.020]   (Music)
+[01:28:40.020 --> 01:28:50.020]   (Music)
+[01:28:50.020 --> 01:29:00.020]   (Music)
+[01:29:00.020 --> 01:29:10.020]   (Music)
+[01:29:10.020 --> 01:29:17.020]   (Music)
+[01:29:17.020 --> 01:29:20.020]   The closing praise.
+[01:29:20.020 --> 01:29:33.020]   (Music)
+[01:29:33.020 --> 01:29:35.020]   He became sin.
+[01:29:35.020 --> 01:29:40.020]   He became sin, who knew no sin.
+[01:29:40.020 --> 01:29:46.020]   And we might become his righteousness.
+[01:29:46.020 --> 01:29:53.020]   Humbled in song, he carried the cross.
+[01:29:53.020 --> 01:29:59.020]   Love so amazing.
+[01:29:59.020 --> 01:30:04.020]   Love so amazing.
+[01:30:04.020 --> 01:30:11.020]   Jesus, Jesus Messiah.
+[01:30:11.020 --> 01:30:17.020]   Name above all names.
+[01:30:17.020 --> 01:30:28.020]   Blessed Redeemer, Emmanuel.
+[01:30:28.020 --> 01:30:34.020]   The rescue for sinners.
+[01:30:34.020 --> 01:30:40.020]   The ransom from heaven.
+[01:30:40.020 --> 01:30:46.020]   Jesus Messiah.
+[01:30:46.020 --> 01:30:50.020]   Lord of all.
+[01:30:50.020 --> 01:30:53.020]   His body the bread.
+[01:30:53.020 --> 01:30:56.020]   His body the bread.
+[01:30:56.020 --> 01:30:59.020]   His blood the wine.
+[01:30:59.020 --> 01:31:02.020]   Broken and poured out.
+[01:31:02.020 --> 01:31:05.020]   All for love.
+[01:31:05.020 --> 01:31:12.020]   All that trembled, the veil was torn.
+[01:31:12.020 --> 01:31:18.020]   Love so amazing.
+[01:31:18.020 --> 01:31:24.020]   Love so amazing.
+[01:31:24.020 --> 01:31:29.020]   Jesus Messiah.
+[01:31:29.020 --> 01:31:35.020]   Name above all names.
+[01:31:35.020 --> 01:31:46.020]   Blessed Redeemer, Emmanuel.
+[01:31:46.020 --> 01:31:52.020]   The rescue for sinners.
+[01:31:52.020 --> 01:31:58.020]   The ransom from heaven.
+[01:31:58.020 --> 01:32:04.020]   Jesus Messiah.
+[01:32:04.020 --> 01:32:10.020]   Lord of all.
+[01:32:10.020 --> 01:32:16.020]   All our hope is in you.
+[01:32:16.020 --> 01:32:22.020]   All our hope is in you.
+[01:32:22.020 --> 01:32:29.020]   Glory to you, God.
+[01:32:29.020 --> 01:32:35.020]   The light of the world.
+[01:32:35.020 --> 01:32:41.020]   Jesus Messiah.
+[01:32:41.020 --> 01:32:47.020]   Name above all names.
+[01:32:47.020 --> 01:32:58.020]   Blessed Redeemer, Emmanuel.
+[01:32:58.020 --> 01:33:04.020]   The rescue for sinners.
+[01:33:04.020 --> 01:33:10.020]   The ransom from heaven.
+[01:33:10.020 --> 01:33:16.020]   Jesus Messiah.
+[01:33:16.020 --> 01:33:22.020]   Lord of all.
+[01:33:22.020 --> 01:33:28.020]   Jesus Messiah.
+[01:33:28.020 --> 01:33:38.020]   Lord of all.
+[01:33:38.020 --> 01:33:41.020]   Let's pray.
+[01:33:41.020 --> 01:33:45.020]   Psalm 23, the Lord is my shepherd, I shall not want.
+[01:33:45.020 --> 01:33:50.020]   He makes me lie down in green pastures, he leads me beside quiet waters.
+[01:33:50.020 --> 01:33:55.020]   He restores my soul, he guides me in the paths of righteousness for his name's sake.
+[01:33:55.020 --> 01:33:59.020]   Even though I walk through the valley of the shadow of death, I fear no evil.
+[01:33:59.020 --> 01:34:03.020]   For you are with me, your rod and your staff, they comfort me.
+[01:34:03.020 --> 01:34:06.020]   You prepare a table before me in the presence of my enemies.
+[01:34:06.020 --> 01:34:10.020]   You have anointed my head with oil, my cup overflows.
+[01:34:10.020 --> 01:34:18.020]   Surely goodness and loving kindness will follow me all the days of my life, and I will dwell in the house of the Lord forever.
+[01:34:18.020 --> 01:34:24.020]   Lord, help us, Lord God, to make this our true confession of our hearts this week.
+[01:34:24.020 --> 01:34:27.020]   May Christ's name be exalted.
+[01:34:27.020 --> 01:34:35.020]   May the life of your church, Lord God, shine in such a way that more and more people may know that we are disciples of Jesus Christ,
+[01:34:35.020 --> 01:34:41.020]   and that his love will be perfected in us in the presence of this dark world.
+[01:34:41.020 --> 01:34:45.020]   May your name and your Son's name and the Holy Spirit's name be magnified this week.
+[01:34:45.020 --> 01:34:48.020]   In Jesus' name we pray, amen.
+[01:34:48.020 --> 01:34:54.020]   God sent his Son.
+[01:34:54.020 --> 01:34:59.020]   They called him Jesus.
+[01:34:59.020 --> 01:35:05.020]   He came to earth.
+[01:35:05.020 --> 01:35:11.020]   He left for you.
+[01:35:11.020 --> 01:35:22.020]   He laid him down to find a pardon.
+[01:35:22.020 --> 01:35:34.020]   An empty grave is there to find my Savior lays.
+[01:35:34.020 --> 01:35:50.020]   As he lays, I can face tomorrow because he lives.
+[01:35:50.020 --> 01:36:06.020]   All fear is gone because I know he holds the future.
+[01:36:06.020 --> 01:36:21.020]   And life is worth the living just because he lays.
+[01:36:21.020 --> 01:36:24.020]   Amen.
+[01:36:24.020 --> 01:36:27.020]   Amen.
+[01:36:27.020 --> 01:36:30.020]   Amen.
+[01:36:30.020 --> 01:36:33.020]   Amen.
+[01:36:33.020 --> 01:36:36.020]   Amen.
+[01:36:36.020 --> 01:36:46.020]   [BLANK_AUDIO]
+

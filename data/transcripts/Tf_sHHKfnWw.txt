@@ -1,0 +1,1177 @@
+
+[00:00:00.000 --> 00:00:03.500]   [SIDE CONVERSATION]
+[00:00:03.500 --> 00:00:07.000]   [SIDE CONVERSATION]
+[00:00:07.000 --> 00:00:10.500]   [SIDE CONVERSATION]
+[00:00:10.500 --> 00:00:14.000]   [SIDE CONVERSATION]
+[00:00:14.000 --> 00:00:17.500]   [SIDE CONVERSATION]
+[00:00:17.500 --> 00:00:21.000]   [SIDE CONVERSATION]
+[00:00:21.000 --> 00:00:24.500]   [SIDE CONVERSATION]
+[00:00:24.500 --> 00:00:28.000]   [SIDE CONVERSATION]
+[00:00:28.000 --> 00:00:31.500]   [SIDE CONVERSATION]
+[00:00:31.500 --> 00:00:35.000]   [SIDE CONVERSATION]
+[00:00:35.000 --> 00:00:38.500]   [SIDE CONVERSATION]
+[00:00:38.500 --> 00:00:42.000]   [SIDE CONVERSATION]
+[00:00:42.000 --> 00:00:45.500]   [SIDE CONVERSATION]
+[00:00:45.500 --> 00:00:49.000]   [SIDE CONVERSATION]
+[00:00:49.000 --> 00:00:52.500]   [SIDE CONVERSATION]
+[00:00:52.500 --> 00:00:56.000]   [SIDE CONVERSATION]
+[00:00:56.000 --> 00:00:59.500]   [SIDE CONVERSATION]
+[00:00:59.500 --> 00:01:03.000]   [SIDE CONVERSATION]
+[00:01:03.000 --> 00:01:06.500]   [SIDE CONVERSATION]
+[00:01:06.500 --> 00:01:10.000]   [SIDE CONVERSATION]
+[00:01:10.000 --> 00:01:13.500]   [SIDE CONVERSATION]
+[00:01:13.500 --> 00:01:17.000]   [SIDE CONVERSATION]
+[00:01:17.000 --> 00:01:20.500]   [SIDE CONVERSATION]
+[00:01:20.500 --> 00:01:24.000]   [SIDE CONVERSATION]
+[00:01:24.000 --> 00:01:27.500]   [SIDE CONVERSATION]
+[00:01:27.500 --> 00:01:31.000]   [SIDE CONVERSATION]
+[00:01:31.000 --> 00:01:34.500]   [SIDE CONVERSATION]
+[00:01:34.500 --> 00:01:38.000]   [SIDE CONVERSATION]
+[00:01:38.000 --> 00:01:41.500]   [SIDE CONVERSATION]
+[00:01:41.500 --> 00:01:45.000]   [SIDE CONVERSATION]
+[00:01:45.000 --> 00:01:48.500]   [SIDE CONVERSATION]
+[00:01:48.500 --> 00:01:52.000]   [SIDE CONVERSATION]
+[00:01:52.000 --> 00:01:55.500]   [SIDE CONVERSATION]
+[00:01:55.500 --> 00:01:59.000]   [SIDE CONVERSATION]
+[00:01:59.000 --> 00:02:02.500]   [SIDE CONVERSATION]
+[00:02:02.500 --> 00:02:06.000]   [SIDE CONVERSATION]
+[00:02:06.000 --> 00:02:09.500]   [SIDE CONVERSATION]
+[00:02:09.500 --> 00:02:13.000]   [SIDE CONVERSATION]
+[00:02:13.000 --> 00:02:16.500]   [SIDE CONVERSATION]
+[00:02:16.500 --> 00:02:20.000]   [SIDE CONVERSATION]
+[00:02:20.000 --> 00:02:23.500]   [SIDE CONVERSATION]
+[00:02:23.500 --> 00:02:27.000]   [SIDE CONVERSATION]
+[00:02:27.000 --> 00:02:30.500]   [SIDE CONVERSATION]
+[00:02:30.500 --> 00:02:34.000]   [SIDE CONVERSATION]
+[00:02:34.000 --> 00:02:37.500]   [SIDE CONVERSATION]
+[00:02:37.500 --> 00:02:41.000]   [SIDE CONVERSATION]
+[00:02:41.000 --> 00:02:44.500]   [SIDE CONVERSATION]
+[00:02:44.500 --> 00:02:48.000]   [SIDE CONVERSATION]
+[00:02:48.000 --> 00:02:51.500]   [SIDE CONVERSATION]
+[00:02:51.500 --> 00:02:55.000]   [SIDE CONVERSATION]
+[00:02:55.000 --> 00:02:58.500]   [SIDE CONVERSATION]
+[00:02:58.500 --> 00:03:02.000]   [SIDE CONVERSATION]
+[00:03:02.000 --> 00:03:05.500]   [SIDE CONVERSATION]
+[00:03:05.500 --> 00:03:09.000]   [SIDE CONVERSATION]
+[00:03:09.000 --> 00:03:12.500]   [SIDE CONVERSATION]
+[00:03:12.500 --> 00:03:16.000]   [SIDE CONVERSATION]
+[00:03:16.000 --> 00:03:19.500]   [SIDE CONVERSATION]
+[00:03:19.500 --> 00:03:23.000]   [SIDE CONVERSATION]
+[00:03:23.000 --> 00:03:26.500]   [SIDE CONVERSATION]
+[00:03:26.500 --> 00:03:30.000]   [SIDE CONVERSATION]
+[00:03:30.000 --> 00:03:33.500]   [SIDE CONVERSATION]
+[00:03:33.500 --> 00:03:37.000]   [SIDE CONVERSATION]
+[00:03:37.000 --> 00:03:40.500]   [SIDE CONVERSATION]
+[00:03:40.500 --> 00:03:44.000]   [SIDE CONVERSATION]
+[00:03:44.000 --> 00:03:47.500]   [SIDE CONVERSATION]
+[00:03:47.500 --> 00:03:51.000]   [SIDE CONVERSATION]
+[00:03:51.000 --> 00:03:54.500]   [SIDE CONVERSATION]
+[00:04:19.500 --> 00:04:22.500]   [SIDE CONVERSATION]
+[00:04:22.500 --> 00:04:46.740]   Hello, hello, everybody.
+[00:04:46.740 --> 00:04:47.620]   Good evening.
+[00:04:47.620 --> 00:04:51.180]   For those of you guys who are in the far back near the cafe,
+[00:04:51.180 --> 00:04:54.380]   please make your way over to your tables.
+[00:04:54.380 --> 00:04:57.460]   In about 30 seconds to a minute, we
+[00:04:57.460 --> 00:04:59.460]   will get started with our Bible study time.
+[00:04:59.460 --> 00:05:01.780]   So please go ahead and take your seats,
+[00:05:01.780 --> 00:05:03.020]   and we'll get started shortly.
+[00:05:03.020 --> 00:05:03.520]   Thank you.
+[00:05:03.520 --> 00:05:06.520]   [SIDE CONVERSATION]
+[00:05:06.520 --> 00:05:09.520]   [SIDE CONVERSATION]
+[00:05:10.520 --> 00:05:13.520]   [SIDE CONVERSATION]
+[00:05:13.520 --> 00:05:16.520]   [SIDE CONVERSATION]
+[00:05:16.520 --> 00:05:19.520]   [SIDE CONVERSATION]
+[00:05:19.520 --> 00:05:22.520]   [SIDE CONVERSATION]
+[00:05:22.520 --> 00:05:48.760]   OK.
+[00:05:48.760 --> 00:05:51.560]   Again, everyone, go ahead and take your seats at your tables.
+[00:05:51.560 --> 00:05:53.280]   We'll get started with worship soon.
+[00:05:53.280 --> 00:05:56.280]   [SIDE CONVERSATION]
+[00:05:56.280 --> 00:06:04.400]   All right.
+[00:06:04.400 --> 00:06:07.600]   Let's pray together to begin our worship set.
+[00:06:07.600 --> 00:06:09.800]   Let's pray, everyone.
+[00:06:09.800 --> 00:06:14.360]   Lord God, we come to you, Lord, in prayer
+[00:06:14.360 --> 00:06:17.280]   before each Bible study, recognizing, God,
+[00:06:17.280 --> 00:06:20.720]   that there is the exercise and time
+[00:06:20.720 --> 00:06:23.440]   that we need to spend over your word,
+[00:06:23.440 --> 00:06:26.320]   looking it over, observing, asking questions.
+[00:06:26.320 --> 00:06:29.720]   But also, we pray, God, that your spirit will illumine
+[00:06:29.720 --> 00:06:34.280]   and cause us to see powerful and wonderful things in your word.
+[00:06:34.280 --> 00:06:36.920]   We also pray, Father God, that as much as we
+[00:06:36.920 --> 00:06:40.880]   desire to have a learner's spirit and God,
+[00:06:40.880 --> 00:06:43.160]   that we want to glean, Lord, we pray
+[00:06:43.160 --> 00:06:47.520]   that you would help us in our both heart and our mind,
+[00:06:47.520 --> 00:06:50.680]   God, that it would be washed by your word through your spirit.
+[00:06:50.680 --> 00:06:54.720]   And also, Father, as we study the passage this week,
+[00:06:54.720 --> 00:06:57.720]   God, sometimes it's difficult enough just to fight our flesh
+[00:06:57.720 --> 00:07:00.080]   and even say no to our own desires.
+[00:07:00.080 --> 00:07:04.040]   And yet, we recognize there is a host of other distractions,
+[00:07:04.040 --> 00:07:07.720]   temptations, and pressures that come from outside of us, too.
+[00:07:07.720 --> 00:07:11.280]   So in all things, Father, help us to truly be alert, sober,
+[00:07:11.280 --> 00:07:13.280]   and constantly walking with you.
+[00:07:13.280 --> 00:07:14.840]   We thank you for this time once again
+[00:07:14.840 --> 00:07:17.840]   and lift up our song to you and praise and worship to your name.
+[00:07:17.840 --> 00:07:18.840]   It's in Christ's name we pray.
+[00:07:18.840 --> 00:07:19.340]   Amen.
+[00:07:19.340 --> 00:07:29.760]   [MUSIC - "THERE IS A FOUNTAIN"]
+[00:07:33.240 --> 00:07:43.240]   There is a fountain filled with blood drawn from Emmanuel's
+[00:07:43.240 --> 00:07:45.720]   hands.
+[00:07:45.720 --> 00:07:52.720]   And sinners plunge beneath that flood,
+[00:07:52.720 --> 00:07:58.680]   lose all their guilty stains.
+[00:07:58.680 --> 00:08:05.160]   Lose all their guilty stains.
+[00:08:05.160 --> 00:08:11.640]   Lose all their guilty stains.
+[00:08:11.640 --> 00:08:18.120]   And sinners plunge beneath that flood,
+[00:08:18.120 --> 00:08:22.600]   lose all their guilty stains.
+[00:08:23.000 --> 00:08:24.480]   Lose all their guilty stains.
+[00:08:24.480 --> 00:08:34.480]   The dying thief.
+[00:08:34.480 --> 00:08:47.960]   The dying thief rejoiced to see that fountain in his day.
+[00:08:47.960 --> 00:08:58.360]   And there may I, though vile as he, wash all my sins away.
+[00:08:58.360 --> 00:09:07.320]   Wash all my sins away.
+[00:09:07.320 --> 00:09:11.280]   Wash all my sins away.
+[00:09:14.280 --> 00:09:24.760]   And there may I, though vile as he, wash all my sins away.
+[00:09:36.760 --> 00:09:43.240]   Dear dying lamb, thy precious blood
+[00:09:43.240 --> 00:09:50.240]   shall never lose its power.
+[00:09:50.240 --> 00:10:03.240]   Till all the ransomed church of God be safe to sin no more.
+[00:10:03.240 --> 00:10:09.720]   Be safe to sin no more.
+[00:10:09.720 --> 00:10:16.200]   Be safe to sin no more.
+[00:10:16.200 --> 00:10:27.200]   Till all the ransomed church of God be safe to sin no more.
+[00:10:28.160 --> 00:10:31.640]   [MUSIC - "I SAW YOUR SINS"]
+[00:10:52.600 --> 00:10:59.080]   Through sins by faith I saw the stream,
+[00:10:59.080 --> 00:11:02.560]   thy flowing wounds supply.
+[00:11:02.560 --> 00:11:19.040]   Redeeming love has been my theme, and shall be till I die.
+[00:11:19.040 --> 00:11:25.520]   And shall be till I die.
+[00:11:25.520 --> 00:11:32.000]   And shall be till I die.
+[00:11:32.000 --> 00:11:45.480]   Redeeming love has been my theme, and shall be till I die.
+[00:11:45.480 --> 00:11:51.960]   And shall be till I die.
+[00:11:51.960 --> 00:11:58.960]   And shall be till I die.
+[00:11:58.960 --> 00:12:10.920]   Redeeming love has been my theme, and shall be till I die.
+[00:12:10.920 --> 00:12:14.400]   [MUSIC - "LORD OF EVERY AGE"]
+[00:12:14.400 --> 00:12:34.360]   Lord of every age.
+[00:12:34.360 --> 00:12:37.840]   Lord of every age.
+[00:12:37.840 --> 00:12:41.320]   Author of our faith.
+[00:12:41.320 --> 00:12:44.320]   First, the last, the same.
+[00:12:44.320 --> 00:12:47.800]   The name above all names.
+[00:12:47.800 --> 00:12:51.280]   Crown and majesty.
+[00:12:51.280 --> 00:12:54.280]   Glorious prince of peace.
+[00:12:54.280 --> 00:12:57.760]   Throne and God's right hand.
+[00:12:57.760 --> 00:13:00.760]   The world at his command.
+[00:13:00.760 --> 00:13:02.760]   The world at his command.
+[00:13:06.240 --> 00:13:13.720]   Jesus, lamb of God, how great you are.
+[00:13:13.720 --> 00:13:19.200]   There is no other savior.
+[00:13:19.200 --> 00:13:26.680]   Every knee bows down at your renown.
+[00:13:26.680 --> 00:13:31.160]   There is no other savior.
+[00:13:32.080 --> 00:13:35.560]   [MUSIC - "MERCIFUL HIGH PRIEST"]
+[00:13:35.560 --> 00:13:46.920]   Merciful high priest.
+[00:13:46.920 --> 00:13:50.400]   Merciful high priest.
+[00:13:50.400 --> 00:13:53.880]   Lover of the least.
+[00:13:53.880 --> 00:13:56.840]   Generous and meek.
+[00:13:56.840 --> 00:14:00.120]   Protector of the weak.
+[00:14:00.120 --> 00:14:03.080]   Sacrifice to death.
+[00:14:03.080 --> 00:14:06.560]   For us, your final breath.
+[00:14:06.560 --> 00:14:10.040]   You died the world to save.
+[00:14:10.040 --> 00:14:13.040]   To overcome the grave.
+[00:14:13.040 --> 00:14:15.040]   To overcome the grave.
+[00:14:15.040 --> 00:14:26.000]   Jesus, lamb of God, how great you are.
+[00:14:26.000 --> 00:14:31.400]   There is no other savior.
+[00:14:31.400 --> 00:14:39.360]   Every knee bows down at your renown.
+[00:14:39.360 --> 00:14:44.320]   There is no other savior.
+[00:14:44.320 --> 00:14:48.280]   And you will reign forever.
+[00:14:48.280 --> 00:14:50.760]   You reign forever.
+[00:14:50.760 --> 00:14:54.720]   You will reign forever.
+[00:14:54.720 --> 00:14:57.680]   You reign forever.
+[00:14:57.680 --> 00:15:01.160]   You will reign forever.
+[00:15:01.160 --> 00:15:04.160]   You reign forever.
+[00:15:04.160 --> 00:15:07.640]   You will reign forever.
+[00:15:07.640 --> 00:15:09.120]   You reign forever.
+[00:15:09.120 --> 00:15:21.600]   Jesus, lamb of God, how great you are.
+[00:15:21.600 --> 00:15:27.000]   There is no other savior.
+[00:15:27.000 --> 00:15:34.960]   Every knee bows down at your renown.
+[00:15:34.960 --> 00:15:40.440]   There is no other savior.
+[00:15:40.440 --> 00:15:47.920]   Jesus, lamb of God, how great you are.
+[00:15:47.920 --> 00:15:53.320]   There is no other savior.
+[00:15:53.320 --> 00:16:01.280]   Every knee bows down at your renown.
+[00:16:01.280 --> 00:16:05.240]   There is no other savior.
+[00:16:05.440 --> 00:16:07.440]   There is no other savior.
+[00:16:07.440 --> 00:16:26.560]   [Music]
+[00:16:26.560 --> 00:16:33.520]   Okay, good evening again everybody. I just have two brief announcements for you
+[00:16:33.520 --> 00:16:38.040]   guys. You know just as a heads up again that this Sunday we have our members
+[00:16:38.040 --> 00:16:42.520]   meeting and just as a quick note number one if you're a member and you know that
+[00:16:42.520 --> 00:16:47.200]   you can't attend we do have a little absence form. Look it up on your email
+[00:16:47.200 --> 00:16:53.240]   and there'll be a couple links. Secondly because this Sunday is also the service
+[00:16:53.240 --> 00:16:58.000]   fair please note that we're gonna have all of our service booths situated out
+[00:16:58.000 --> 00:17:03.080]   in the courtyard and after the services they're gonna have handouts of
+[00:17:03.080 --> 00:17:07.520]   information that you can just pick up or otherwise like previously after the
+[00:17:07.520 --> 00:17:12.200]   membership meeting is done you can take time to visit with the reps from each
+[00:17:12.200 --> 00:17:17.560]   team. I recommend that even if let's say you're not looking to volunteer for
+[00:17:17.560 --> 00:17:22.320]   something immediately it's good just to be aware and informed about what's going
+[00:17:22.320 --> 00:17:26.000]   on. You're gonna have opportunities if you're a parent to talk to some of the
+[00:17:26.000 --> 00:17:31.640]   you know ministry leads etc etc so see it as a good opportunity to gain
+[00:17:31.640 --> 00:17:35.560]   information and awareness about what's going on at church okay. And then
+[00:17:35.560 --> 00:17:41.480]   secondly starting next week officially the cafe is going to be
+[00:17:41.480 --> 00:17:46.680]   open. Let's give them a big round okay. So the cafe ministry as you guys know
+[00:17:46.680 --> 00:17:54.040]   they've been doing such an amazing job on Sundays but from 530 to 645, 645
+[00:17:54.040 --> 00:17:58.600]   they're gonna do a cutoff. They'll have the cafe here open so that you can come
+[00:17:58.600 --> 00:18:04.080]   to your studies if you want to do meetups etc so 530 to 645 officially
+[00:18:04.080 --> 00:18:07.040]   starting next Wednesday okay. Alright everyone please have a great time with
+[00:18:07.040 --> 00:18:09.800]   your discussion groups.
+[00:18:09.800 --> 00:18:11.800]   [chatter]
+[00:18:11.800 --> 00:18:13.800]   [chatter]
+[00:18:13.800 --> 00:18:15.800]   [chatter]
+[00:18:15.800 --> 00:18:17.800]   [chatter]
+[00:18:17.800 --> 00:18:19.800]   [chatter]
+[00:18:19.800 --> 00:18:22.800]   [indistinct chatter]
+[00:18:22.800 --> 00:18:25.800]   [indistinct chatter]
+[00:18:25.800 --> 00:18:28.800]   [indistinct chatter]
+[00:18:28.800 --> 00:18:31.640]   (people mumbling)
+[00:18:31.640 --> 00:18:34.480]   (people mumbling)
+[00:18:34.480 --> 00:18:37.320]   (people mumbling)
+[00:18:37.320 --> 00:18:40.160]   (people mumbling)
+[00:18:40.160 --> 00:18:43.000]   (people mumbling)
+[00:18:43.000 --> 00:18:45.840]   (people mumbling)
+[00:18:45.840 --> 00:18:48.680]   (people mumbling)
+[00:18:48.680 --> 00:18:51.520]   (people mumbling)
+[00:18:51.520 --> 00:18:54.360]   (people mumbling)
+[00:18:54.360 --> 00:18:57.200]   (people mumbling)
+[00:18:57.200 --> 00:19:00.040]   (people mumbling)
+[00:19:00.540 --> 00:19:03.380]   (people mumbling)
+[00:19:03.380 --> 00:19:06.220]   (people mumbling)
+[00:19:06.220 --> 00:19:09.060]   (people mumbling)
+[00:19:09.060 --> 00:19:11.900]   (people mumbling)
+[00:19:11.940 --> 00:19:14.780]   (people mumbling)
+[00:19:14.780 --> 00:19:17.620]   (people mumbling)
+[00:19:17.620 --> 00:19:20.460]   (people mumbling)
+[00:19:20.460 --> 00:19:23.300]   (people mumbling)
+[00:19:23.300 --> 00:19:26.140]   (people mumbling)
+[00:19:26.140 --> 00:19:28.980]   (people mumbling)
+[00:19:28.980 --> 00:19:31.820]   (people mumbling)
+[00:19:31.820 --> 00:19:34.660]   (people mumbling)
+[00:19:34.660 --> 00:19:37.500]   (people mumbling)
+[00:19:37.500 --> 00:19:47.340]   (people mumbling)
+[00:19:47.340 --> 00:19:54.340]   (people mumbling)
+[00:19:54.340 --> 00:20:03.340]   (people mumbling)
+[00:20:03.340 --> 00:20:06.180]   (people mumbling)
+[00:20:06.180 --> 00:20:10.180]   (people mumbling)
+[00:20:10.180 --> 00:20:15.180]   (people mumbling)
+[00:20:15.180 --> 00:20:20.180]   (people mumbling)
+[00:20:20.180 --> 00:20:24.180]   (people mumbling)
+[00:20:24.180 --> 00:20:29.180]   (people mumbling)
+[00:20:31.340 --> 00:20:34.180]   (people mumbling)
+[00:20:34.180 --> 00:20:39.180]   (people mumbling)
+[00:20:39.180 --> 00:20:44.180]   (people mumbling)
+[00:20:44.180 --> 00:20:51.180]   (people mumbling)
+[00:20:51.180 --> 00:20:56.180]   (people mumbling)
+[00:21:00.340 --> 00:21:03.180]   (people mumbling)
+[00:21:03.180 --> 00:21:06.020]   (people mumbling)
+[00:21:06.020 --> 00:21:08.860]   (people mumbling)
+[00:21:08.860 --> 00:21:11.700]   (people mumbling)
+[00:21:11.700 --> 00:21:14.540]   (people mumbling)
+[00:21:14.540 --> 00:21:17.380]   (people mumbling)
+[00:21:17.380 --> 00:21:20.220]   (people mumbling)
+[00:21:21.220 --> 00:21:24.060]   (people mumbling)
+[00:21:24.060 --> 00:21:26.900]   (people mumbling)
+[00:21:26.900 --> 00:21:34.900]   (people mumbling)
+[00:21:34.900 --> 00:21:40.900]   (people mumbling)
+[00:21:40.900 --> 00:21:45.900]   (people mumbling)
+[00:21:45.900 --> 00:21:50.900]   (people mumbling)
+[00:21:53.060 --> 00:21:55.900]   (people mumbling)
+[00:21:55.900 --> 00:22:00.900]   (people mumbling)
+[00:22:00.900 --> 00:22:06.900]   (people mumbling)
+[00:22:06.900 --> 00:22:11.900]   (people mumbling)
+[00:22:11.900 --> 00:22:16.900]   (people mumbling)
+[00:22:20.060 --> 00:22:22.900]   (people mumbling)
+[00:22:22.900 --> 00:22:33.900]   (people mumbling)
+[00:22:33.900 --> 00:22:38.900]   (people mumbling)
+[00:22:38.900 --> 00:22:44.900]   (people mumbling)
+[00:22:47.060 --> 00:22:49.900]   (people mumbling)
+[00:22:49.900 --> 00:23:03.900]   (people mumbling)
+[00:23:03.900 --> 00:23:06.740]   (people mumbling)
+[00:23:06.740 --> 00:23:09.580]   (people mumbling)
+[00:23:09.580 --> 00:23:22.580]   (people mumbling)
+[00:23:22.580 --> 00:23:27.580]   (people mumbling)
+[00:23:27.580 --> 00:23:32.580]   (people mumbling)
+[00:23:34.740 --> 00:23:37.580]   (people mumbling)
+[00:23:37.580 --> 00:23:48.580]   (people laughing)
+[00:23:48.580 --> 00:23:52.580]   (people mumbling)
+[00:23:52.580 --> 00:23:58.580]   (people mumbling)
+[00:24:03.740 --> 00:24:06.580]   (people mumbling)
+[00:24:06.580 --> 00:24:13.580]   (people mumbling)
+[00:24:13.580 --> 00:24:20.580]   (people mumbling)
+[00:24:20.580 --> 00:24:27.580]   (people mumbling)
+[00:24:32.740 --> 00:24:35.580]   (people mumbling)
+[00:24:36.580 --> 00:24:39.420]   (people mumbling)
+[00:24:39.420 --> 00:24:48.420]   (people mumbling)
+[00:24:48.420 --> 00:24:55.420]   (people mumbling)
+[00:24:55.420 --> 00:25:00.420]   (people mumbling)
+[00:25:01.420 --> 00:25:04.260]   (people mumbling)
+[00:25:04.260 --> 00:25:10.260]   (people laughing)
+[00:25:10.260 --> 00:25:14.260]   (people mumbling)
+[00:25:14.260 --> 00:25:19.260]   (people mumbling)
+[00:25:19.260 --> 00:25:28.260]   (people laughing)
+[00:25:29.420 --> 00:25:32.260]   (people mumbling)
+[00:25:58.420 --> 00:26:01.260]   (people cheering)
+[00:26:01.260 --> 00:26:05.260]   (people mumbling)
+[00:26:05.260 --> 00:26:12.260]   (people mumbling)
+[00:26:12.260 --> 00:26:18.260]   (people mumbling)
+[00:26:25.420 --> 00:26:28.260]   (people mumbling)
+[00:26:28.260 --> 00:26:37.260]   (people laughing)
+[00:26:37.260 --> 00:26:42.260]   (people laughing)
+[00:26:42.260 --> 00:26:49.260]   (people laughing)
+[00:26:52.420 --> 00:26:55.260]   (people mumbling)
+[00:26:55.260 --> 00:27:06.260]   (people mumbling)
+[00:27:06.260 --> 00:27:16.260]   (people mumbling)
+[00:27:17.260 --> 00:27:20.100]   (people laughing)
+[00:27:20.100 --> 00:27:24.100]   (people mumbling)
+[00:27:24.100 --> 00:27:29.100]   (people laughing)
+[00:27:29.100 --> 00:27:33.100]   (people mumbling)
+[00:27:33.100 --> 00:27:38.100]   (people mumbling)
+[00:27:38.100 --> 00:27:43.100]   (people mumbling)
+[00:27:44.100 --> 00:27:46.940]   (people mumbling)
+[00:27:47.940 --> 00:27:50.780]   (people mumbling)
+[00:27:50.780 --> 00:28:00.780]   (people mumbling)
+[00:28:00.780 --> 00:28:06.780]   (people mumbling)
+[00:28:06.780 --> 00:28:11.780]   (people mumbling)
+[00:28:11.780 --> 00:28:14.620]   (people mumbling)
+[00:28:14.620 --> 00:28:19.620]   (people laughing)
+[00:28:19.620 --> 00:28:23.620]   (people mumbling)
+[00:28:23.620 --> 00:28:29.620]   (people mumbling)
+[00:28:29.620 --> 00:28:33.620]   (people mumbling)
+[00:28:33.620 --> 00:28:40.620]   (people mumbling)
+[00:28:41.620 --> 00:28:44.460]   (people mumbling)
+[00:28:44.460 --> 00:28:50.460]   (people mumbling)
+[00:28:50.460 --> 00:28:56.460]   (people mumbling)
+[00:28:56.460 --> 00:29:01.460]   (people mumbling)
+[00:29:01.460 --> 00:29:06.460]   (people mumbling)
+[00:29:08.620 --> 00:29:11.460]   (people mumbling)
+[00:29:11.460 --> 00:29:18.460]   (people mumbling)
+[00:29:18.460 --> 00:29:24.460]   (people mumbling)
+[00:29:24.460 --> 00:29:32.460]   (people mumbling)
+[00:29:33.460 --> 00:29:36.300]   (people mumbling)
+[00:29:36.300 --> 00:29:46.300]   (people mumbling)
+[00:29:46.300 --> 00:29:55.300]   (people mumbling)
+[00:29:56.300 --> 00:29:59.140]   (people mumbling)
+[00:29:59.140 --> 00:30:05.140]   (people mumbling)
+[00:30:05.140 --> 00:30:09.140]   (people mumbling)
+[00:30:09.140 --> 00:30:13.140]   (people mumbling)
+[00:30:13.140 --> 00:30:18.140]   (people mumbling)
+[00:30:18.140 --> 00:30:22.140]   (people mumbling)
+[00:30:24.300 --> 00:30:27.140]   (people mumbling)
+[00:30:28.140 --> 00:30:30.980]   (people mumbling)
+[00:30:30.980 --> 00:30:33.820]   (people mumbling)
+[00:30:33.820 --> 00:30:44.820]   (people mumbling)
+[00:30:44.820 --> 00:30:51.820]   (people mumbling)
+[00:30:51.820 --> 00:30:58.820]   (people mumbling)
+[00:30:59.820 --> 00:31:02.660]   (people mumbling)
+[00:31:02.660 --> 00:31:28.660]   (people laughing)
+[00:31:29.660 --> 00:31:32.500]   (people mumbling)
+[00:31:32.500 --> 00:31:40.500]   (people mumbling)
+[00:31:40.500 --> 00:31:51.500]   (people mumbling)
+[00:31:52.500 --> 00:31:55.340]   (people mumbling)
+[00:31:55.340 --> 00:31:58.180]   (people mumbling)
+[00:31:58.180 --> 00:32:09.180]   (people mumbling)
+[00:32:09.180 --> 00:32:19.180]   (people mumbling)
+[00:32:20.180 --> 00:32:23.020]   (people mumbling)
+[00:32:23.020 --> 00:32:35.020]   (people mumbling)
+[00:32:35.020 --> 00:32:44.020]   (people mumbling)
+[00:32:45.020 --> 00:32:47.860]   (people mumbling)
+[00:32:47.860 --> 00:32:56.860]   (people mumbling)
+[00:32:56.860 --> 00:33:06.860]   (people mumbling)
+[00:33:07.860 --> 00:33:10.700]   (people mumbling)
+[00:33:10.700 --> 00:33:20.700]   (people mumbling)
+[00:33:20.700 --> 00:33:26.700]   (people mumbling)
+[00:33:26.700 --> 00:33:32.700]   (people mumbling)
+[00:33:33.700 --> 00:33:36.540]   (people mumbling)
+[00:33:36.540 --> 00:33:46.540]   (people mumbling)
+[00:33:46.540 --> 00:33:57.540]   (people mumbling)
+[00:33:58.540 --> 00:34:01.380]   (people mumbling)
+[00:34:01.380 --> 00:34:10.380]   (people mumbling)
+[00:34:10.380 --> 00:34:20.380]   (people mumbling)
+[00:34:21.380 --> 00:34:24.220]   (people mumbling)
+[00:34:24.220 --> 00:34:34.220]   (people mumbling)
+[00:34:34.220 --> 00:34:45.220]   (people mumbling)
+[00:34:45.220 --> 00:34:48.060]   (people mumbling)
+[00:34:48.060 --> 00:34:57.060]   (people mumbling)
+[00:34:57.060 --> 00:35:05.060]   (people mumbling)
+[00:35:06.060 --> 00:35:08.900]   (people mumbling)
+[00:35:08.900 --> 00:35:17.900]   (people mumbling)
+[00:35:17.900 --> 00:35:27.900]   (people mumbling)
+[00:35:28.900 --> 00:35:31.740]   (people mumbling)
+[00:35:31.740 --> 00:35:37.740]   (people mumbling)
+[00:35:37.740 --> 00:35:42.740]   (people mumbling)
+[00:35:42.740 --> 00:35:48.740]   (people mumbling)
+[00:35:56.900 --> 00:35:59.740]   (people mumbling)
+[00:35:59.740 --> 00:36:09.740]   (people mumbling)
+[00:36:09.740 --> 00:36:16.740]   (people mumbling)
+[00:36:16.740 --> 00:36:26.740]   (people mumbling)
+[00:36:27.740 --> 00:36:30.580]   (people mumbling)
+[00:36:30.580 --> 00:36:40.580]   (people mumbling)
+[00:36:40.580 --> 00:36:50.580]   (people mumbling)
+[00:36:51.580 --> 00:36:54.420]   (people mumbling)
+[00:36:54.420 --> 00:37:04.420]   (people mumbling)
+[00:37:04.420 --> 00:37:12.420]   (people mumbling)
+[00:37:12.420 --> 00:37:15.260]   (people mumbling)
+[00:37:15.260 --> 00:37:35.260]   (people laughing)
+[00:37:35.260 --> 00:37:38.100]   (people mumbling)
+[00:37:38.100 --> 00:37:49.100]   (people mumbling)
+[00:37:49.100 --> 00:37:59.100]   (people mumbling)
+[00:38:00.100 --> 00:38:02.940]   (people mumbling)
+[00:38:02.940 --> 00:38:12.940]   (people mumbling)
+[00:38:12.940 --> 00:38:22.940]   (people mumbling)
+[00:38:23.940 --> 00:38:26.780]   (people mumbling)
+[00:38:26.780 --> 00:38:36.780]   (people mumbling)
+[00:38:36.780 --> 00:38:46.780]   (people mumbling)
+[00:38:47.780 --> 00:38:50.620]   (people mumbling)
+[00:38:50.620 --> 00:39:00.620]   (people mumbling)
+[00:39:00.620 --> 00:39:10.620]   (people mumbling)
+[00:39:11.620 --> 00:39:14.460]   (people mumbling)
+[00:39:14.460 --> 00:39:23.460]   (people mumbling)
+[00:39:23.460 --> 00:39:31.460]   (people mumbling)
+[00:39:32.460 --> 00:39:35.300]   (people mumbling)
+[00:39:35.300 --> 00:39:45.300]   (people mumbling)
+[00:39:45.300 --> 00:39:55.300]   (people mumbling)
+[00:39:56.300 --> 00:39:59.140]   (people mumbling)
+[00:39:59.140 --> 00:40:11.140]   (people mumbling)
+[00:40:11.140 --> 00:40:21.140]   (people mumbling)
+[00:40:22.140 --> 00:40:24.980]   (people mumbling)
+[00:40:24.980 --> 00:40:36.980]   (people mumbling)
+[00:40:37.980 --> 00:40:40.820]   (people mumbling)
+[00:40:40.820 --> 00:40:50.820]   (people mumbling)
+[00:40:50.820 --> 00:41:00.820]   (people mumbling)
+[00:41:01.820 --> 00:41:04.660]   (people mumbling)
+[00:41:04.660 --> 00:41:18.660]   (people mumbling)
+[00:41:18.660 --> 00:41:22.660]   (people laughing)
+[00:41:22.660 --> 00:41:25.660]   (people mumbling)
+[00:41:26.660 --> 00:41:29.500]   (people mumbling)
+[00:41:29.500 --> 00:41:37.500]   (people mumbling)
+[00:41:37.500 --> 00:41:46.500]   (people mumbling)
+[00:41:47.500 --> 00:41:50.340]   (people mumbling)
+[00:41:50.340 --> 00:42:00.340]   (people mumbling)
+[00:42:00.340 --> 00:42:12.340]   (people mumbling)
+[00:42:13.340 --> 00:42:16.180]   (people mumbling)
+[00:42:16.180 --> 00:42:26.180]   (people mumbling)
+[00:42:26.180 --> 00:42:36.180]   (people mumbling)
+[00:42:37.180 --> 00:42:40.020]   (people mumbling)
+[00:42:40.020 --> 00:42:49.020]   (people mumbling)
+[00:42:49.020 --> 00:43:00.020]   (people mumbling)
+[00:43:01.020 --> 00:43:03.860]   (people mumbling)
+[00:43:03.860 --> 00:43:12.860]   (people mumbling)
+[00:43:12.860 --> 00:43:21.860]   (people mumbling)
+[00:43:22.860 --> 00:43:25.700]   (people mumbling)
+[00:43:25.700 --> 00:43:35.700]   (people mumbling)
+[00:43:35.700 --> 00:43:42.700]   (people mumbling)
+[00:43:43.700 --> 00:43:46.540]   (people mumbling)
+[00:43:46.540 --> 00:43:56.540]   (people mumbling)
+[00:43:56.540 --> 00:44:07.540]   (people mumbling)
+[00:44:07.540 --> 00:44:10.380]   (people mumbling)
+[00:44:10.380 --> 00:44:20.380]   (people laughing)
+[00:44:20.380 --> 00:44:28.380]   (people laughing)
+[00:44:28.380 --> 00:44:31.380]   (people mumbling)
+[00:44:32.380 --> 00:44:35.220]   (people mumbling)
+[00:44:36.220 --> 00:44:39.060]   (people mumbling)
+[00:44:39.060 --> 00:44:49.060]   (people mumbling)
+[00:44:49.060 --> 00:44:59.060]   (people mumbling)
+[00:45:00.060 --> 00:45:02.900]   (people mumbling)
+[00:45:02.900 --> 00:45:16.900]   (people mumbling)
+[00:45:16.900 --> 00:45:24.900]   (people mumbling)
+[00:45:24.900 --> 00:45:27.740]   (people mumbling)
+[00:45:27.740 --> 00:45:46.740]   (people laughing)
+[00:45:46.740 --> 00:45:49.580]   (people mumbling)
+[00:45:49.580 --> 00:46:06.580]   (people mumbling)
+[00:46:07.580 --> 00:46:10.420]   (people mumbling)
+[00:46:10.420 --> 00:46:29.420]   (people laughing)
+[00:46:34.580 --> 00:46:37.420]   (people mumbling)
+[00:46:37.420 --> 00:46:44.420]   (people laughing)
+[00:46:44.420 --> 00:46:48.420]   (people mumbling)
+[00:46:48.420 --> 00:46:54.420]   (people mumbling)
+[00:46:55.420 --> 00:46:58.260]   (people mumbling)
+[00:46:58.260 --> 00:47:07.260]   (people laughing)
+[00:47:07.260 --> 00:47:12.260]   (people mumbling)
+[00:47:12.260 --> 00:47:18.260]   (people mumbling)
+[00:47:19.260 --> 00:47:22.100]   (people mumbling)
+[00:47:22.100 --> 00:47:31.100]   (people mumbling)
+[00:47:31.100 --> 00:47:41.100]   (people mumbling)
+[00:47:42.100 --> 00:47:44.940]   (people mumbling)
+[00:47:44.940 --> 00:47:54.940]   (people mumbling)
+[00:47:54.940 --> 00:48:04.940]   (people mumbling)
+[00:48:05.940 --> 00:48:08.780]   (people mumbling)
+[00:48:08.780 --> 00:48:18.780]   (people mumbling)
+[00:48:18.780 --> 00:48:24.780]   (people mumbling)
+[00:48:24.780 --> 00:48:34.780]   (people mumbling)
+[00:48:35.780 --> 00:48:38.620]   (people mumbling)
+[00:48:38.620 --> 00:48:48.620]   (people mumbling)
+[00:48:48.620 --> 00:48:56.620]   (people mumbling)
+[00:48:57.620 --> 00:49:00.460]   (people mumbling)
+[00:49:00.460 --> 00:49:08.460]   (people mumbling)
+[00:49:08.460 --> 00:49:17.460]   (people mumbling)
+[00:49:17.460 --> 00:49:26.460]   (people mumbling)
+[00:49:27.460 --> 00:49:30.300]   (people mumbling)
+[00:49:31.300 --> 00:49:34.140]   (people mumbling)
+[00:49:34.140 --> 00:49:44.140]   (people mumbling)
+[00:49:44.140 --> 00:49:49.140]   (people laughing)
+[00:49:49.140 --> 00:49:53.140]   (people mumbling)
+[00:49:53.140 --> 00:49:55.980]   (people mumbling)
+[00:49:55.980 --> 00:50:06.980]   (people laughing)
+[00:50:06.980 --> 00:50:16.980]   (people laughing)
+[00:50:16.980 --> 00:50:20.980]   (people mumbling)
+[00:50:21.980 --> 00:50:24.820]   (people mumbling)
+[00:50:24.820 --> 00:50:32.820]   (people mumbling)
+[00:50:32.820 --> 00:50:41.820]   (people mumbling)
+[00:50:49.980 --> 00:50:52.820]   (people mumbling)
+[00:50:52.820 --> 00:51:03.820]   (people mumbling)
+[00:51:03.820 --> 00:51:10.820]   (people mumbling)
+[00:51:11.820 --> 00:51:14.660]   (people mumbling)
+[00:51:14.660 --> 00:51:24.660]   (people laughing)
+[00:51:24.660 --> 00:51:28.660]   (people mumbling)
+[00:51:28.660 --> 00:51:34.660]   (people mumbling)
+[00:51:35.660 --> 00:51:38.500]   (people mumbling)
+[00:51:38.500 --> 00:51:46.500]   (people mumbling)
+[00:51:46.500 --> 00:51:52.500]   (people mumbling)
+[00:51:52.500 --> 00:51:58.500]   (people mumbling)
+[00:52:03.660 --> 00:52:06.500]   (people mumbling)
+[00:52:06.500 --> 00:52:17.500]   (people mumbling)
+[00:52:30.660 --> 00:52:33.500]   (people mumbling)
+[00:52:33.500 --> 00:52:47.500]   (people mumbling)
+[00:52:47.500 --> 00:53:00.500]   (people laughing)
+[00:53:01.500 --> 00:53:04.340]   (people mumbling)
+[00:53:04.340 --> 00:53:14.340]   (people mumbling)
+[00:53:14.340 --> 00:53:23.340]   (people mumbling)
+[00:53:24.340 --> 00:53:27.180]   (people mumbling)
+[00:53:27.180 --> 00:53:36.180]   (people mumbling)
+[00:53:36.180 --> 00:53:46.180]   (people mumbling)
+[00:53:46.180 --> 00:53:49.020]   (people mumbling)
+[00:53:49.020 --> 00:54:00.020]   (people mumbling)
+[00:54:00.020 --> 00:54:10.020]   (people mumbling)
+[00:54:11.020 --> 00:54:13.860]   (people mumbling)
+[00:54:13.860 --> 00:54:21.860]   (people mumbling)
+[00:54:21.860 --> 00:54:27.860]   (people mumbling)
+[00:54:27.860 --> 00:54:34.860]   (people mumbling)
+[00:54:35.860 --> 00:54:38.700]   (people mumbling)
+[00:54:38.700 --> 00:54:46.700]   (people mumbling)
+[00:54:46.700 --> 00:54:56.700]   (people mumbling)
+[00:54:57.700 --> 00:55:00.540]   (people mumbling)
+[00:55:00.540 --> 00:55:10.540]   (people mumbling)
+[00:55:10.540 --> 00:55:20.540]   (people mumbling)
+[00:55:21.540 --> 00:55:24.380]   (people mumbling)
+[00:55:24.380 --> 00:55:34.380]   (people mumbling)
+[00:55:34.380 --> 00:55:42.380]   (people mumbling)
+[00:55:43.380 --> 00:55:46.220]   (people mumbling)
+[00:55:46.220 --> 00:55:56.220]   (people mumbling)
+[00:55:56.220 --> 00:56:02.220]   (people mumbling)
+[00:56:02.220 --> 00:56:07.220]   (people mumbling)
+[00:56:08.220 --> 00:56:11.060]   (people mumbling)
+[00:56:11.060 --> 00:56:21.060]   (people mumbling)
+[00:56:21.060 --> 00:56:28.060]   (people mumbling)
+[00:56:29.060 --> 00:56:31.900]   (people mumbling)
+[00:56:31.900 --> 00:56:39.900]   (people mumbling)
+[00:56:39.900 --> 00:56:47.900]   (people mumbling)
+[00:56:47.900 --> 00:56:57.900]   (people mumbling)
+[00:56:58.900 --> 00:57:01.740]   (people mumbling)
+[00:57:01.740 --> 00:57:09.740]   (people mumbling)
+[00:57:09.740 --> 00:57:13.740]   (people mumbling)
+[00:57:13.740 --> 00:57:19.740]   (people mumbling)
+[00:57:26.900 --> 00:57:29.740]   (people mumbling)
+[00:57:30.740 --> 00:57:33.580]   (people mumbling)
+[00:57:33.580 --> 00:57:43.580]   (people mumbling)
+[00:57:43.580 --> 00:57:53.580]   (people mumbling)
+[00:57:54.580 --> 00:57:57.420]   (people mumbling)
+[00:57:57.420 --> 00:58:14.420]   (people mumbling)
+[00:58:15.420 --> 00:58:18.260]   (people mumbling)
+[00:58:18.260 --> 00:58:26.260]   (people mumbling)
+[00:58:26.260 --> 00:58:37.260]   (people mumbling)
+[00:58:38.260 --> 00:58:41.100]   (people mumbling)
+[00:58:41.100 --> 00:58:51.100]   (people mumbling)
+[00:58:51.100 --> 00:58:59.100]   (people mumbling)
+[00:59:00.100 --> 00:59:02.940]   (people mumbling)
+[00:59:02.940 --> 00:59:10.940]   (people mumbling)
+[00:59:10.940 --> 00:59:19.940]   (people mumbling)
+[00:59:20.940 --> 00:59:23.780]   (people mumbling)
+[00:59:23.780 --> 00:59:33.780]   (people mumbling)
+[00:59:33.780 --> 00:59:43.780]   (people mumbling)
+[00:59:44.780 --> 00:59:47.620]   (people mumbling)
+[00:59:47.620 --> 00:59:55.620]   (people mumbling)
+[00:59:55.620 --> 01:00:01.620]   (people mumbling)
+[01:00:01.620 --> 01:00:07.620]   (people mumbling)
+[01:00:12.780 --> 01:00:15.620]   (people mumbling)
+[01:00:41.780 --> 01:00:44.620]   (people mumbling)
+[01:00:44.620 --> 01:00:55.620]   (people mumbling)
+[01:00:55.620 --> 01:01:05.620]   (people mumbling)
+[01:01:06.620 --> 01:01:09.460]   (people mumbling)
+[01:01:09.460 --> 01:01:18.460]   (people mumbling)
+[01:01:18.460 --> 01:01:27.460]   (people mumbling)
+[01:01:28.460 --> 01:01:31.300]   (people mumbling)
+[01:01:55.460 --> 01:01:58.300]   (people mumbling)
+[01:01:58.300 --> 01:02:12.460]   All right, we're gonna get started in a minute.
+[01:02:12.460 --> 01:02:15.460]   If I can ask the people in the rooms to come back out.
+[01:02:15.460 --> 01:02:18.300]   (people mumbling)
+[01:02:24.460 --> 01:02:27.300]   (people laughing)
+[01:02:27.300 --> 01:02:33.460]   Pastor Mark, Pastor Mark, Pastor Mark,
+[01:02:33.460 --> 01:02:35.460]   do we need to check with them?
+[01:02:35.460 --> 01:02:38.300]   (people mumbling)
+[01:02:39.300 --> 01:02:42.140]   (people mumbling)
+[01:02:43.140 --> 01:02:45.980]   (people mumbling)
+[01:03:11.140 --> 01:03:13.980]   (people mumbling)
+[01:03:13.980 --> 01:03:38.380]   Okay, is everybody out from the rooms?
+[01:03:38.380 --> 01:03:41.220]   (people mumbling)
+[01:03:41.220 --> 01:03:47.220]   Okay.
+[01:03:47.220 --> 01:03:51.020]   All right, so there's 11 verses here,
+[01:03:51.020 --> 01:03:52.520]   so obviously there's a lot to cover.
+[01:03:52.520 --> 01:03:54.980]   We're not gonna be able to get into too much detail.
+[01:03:54.980 --> 01:03:57.580]   I'm gonna just give you a highlight,
+[01:03:57.580 --> 01:04:00.380]   spend most of my time in the first three verses,
+[01:04:00.380 --> 01:04:05.380]   and then just an overview of verse four through 11, okay,
+[01:04:06.380 --> 01:04:08.380]   and highlight some of the stuff that may be
+[01:04:08.380 --> 01:04:11.380]   a little bit more difficult to understand, okay?
+[01:04:11.380 --> 01:04:13.380]   Let me pray for us, and then let's get started.
+[01:04:13.380 --> 01:04:20.380]   Heavenly Father, we ask that you would guide us and lead us,
+[01:04:20.380 --> 01:04:23.380]   that your word would speak to us,
+[01:04:23.380 --> 01:04:26.380]   that you would give us clear understanding,
+[01:04:26.380 --> 01:04:28.380]   that we would not turn from your word
+[01:04:28.380 --> 01:04:29.380]   to the left or to the right.
+[01:04:29.380 --> 01:04:32.380]   I pray that all our judgments, all our thoughts,
+[01:04:32.380 --> 01:04:35.380]   all our emotions, our lives may be submitted to your word,
+[01:04:35.380 --> 01:04:38.380]   so if there is any misunderstandings or our flesh,
+[01:04:38.380 --> 01:04:42.380]   Lord God, that causes us to see things in a way,
+[01:04:42.380 --> 01:04:44.380]   Father, that is not honoring to you,
+[01:04:44.380 --> 01:04:47.380]   help us, Lord God, to be guided by your word and your spirit.
+[01:04:47.380 --> 01:04:49.380]   In Jesus' name we pray, amen.
+[01:04:49.380 --> 01:04:52.380]   All right, so I know you can't see this,
+[01:04:52.380 --> 01:04:54.380]   those of you guys sitting in the back,
+[01:04:54.380 --> 01:04:57.380]   but I wanted to give you a broad outline.
+[01:04:57.380 --> 01:04:59.380]   Okay, you can't see, right?
+[01:04:59.380 --> 01:05:03.380]   Yeah, I didn't want you to see, so it doesn't matter.
+[01:05:04.380 --> 01:05:05.380]   Oops.
+[01:05:05.380 --> 01:05:11.380]   Okay, so this week's text falls into three large categories.
+[01:05:11.380 --> 01:05:14.380]   I mean, you could have divided it into two, but you have...
+[01:05:32.380 --> 01:05:34.380]   All right, give me a second.
+[01:05:34.380 --> 01:05:37.380]   (audience laughing)
+[01:05:37.380 --> 01:05:40.380]   (audience laughing)
+[01:05:40.380 --> 01:05:43.380]   (audience laughing)
+[01:05:43.380 --> 01:05:46.380]   (audience laughing)
+[01:05:46.380 --> 01:05:53.380]   (audience laughing)
+[01:05:53.380 --> 01:05:59.380]   (audience laughing)
+[01:05:59.380 --> 01:06:03.380]   (audience laughing)
+[01:06:03.380 --> 01:06:10.380]   (audience laughing)
+[01:06:10.380 --> 01:06:13.380]   (audience laughing)
+[01:06:13.380 --> 01:06:18.380]   (laughing)
+[01:06:18.380 --> 01:06:19.380]   Every time.
+[01:06:19.380 --> 01:06:22.380]   How do you get rid of the...
+[01:06:22.380 --> 01:06:25.380]   Displace it, displace it.
+[01:06:25.380 --> 01:06:26.380]   Huh?
+[01:06:26.380 --> 01:06:28.380]   (audience laughing)
+[01:06:28.380 --> 01:06:30.380]   What, how did that happen?
+[01:06:30.380 --> 01:06:33.380]   (audience laughing)
+[01:06:38.380 --> 01:06:39.380]   Slideshow.
+[01:06:39.380 --> 01:06:40.380]   Slideshow, right?
+[01:06:40.380 --> 01:06:41.380]   Mm-hmm.
+[01:06:41.380 --> 01:06:50.380]   How do you get rid of this?
+[01:06:50.380 --> 01:06:55.380]   You wanted to just do a...
+[01:06:55.380 --> 01:07:00.380]   So, I think I just go...
+[01:07:00.380 --> 01:07:03.380]   From the beginning.
+[01:07:03.380 --> 01:07:06.380]   Okay, hold on a second, let me...
+[01:07:06.380 --> 01:07:09.380]   (audience laughing)
+[01:07:09.380 --> 01:07:11.380]   All right.
+[01:07:11.380 --> 01:07:13.380]   Hopefully this works.
+[01:07:13.380 --> 01:07:16.380]   Okay, there you go, okay, thank you.
+[01:07:16.380 --> 01:07:20.380]   All right, let's start over.
+[01:07:20.380 --> 01:07:24.380]   Okay, so you can divide this section into...
+[01:07:24.380 --> 01:07:28.380]   Two large views, or three.
+[01:07:28.380 --> 01:07:31.380]   I divided it into three here.
+[01:07:33.380 --> 01:07:36.380]   The first three verses, basically, description of the false prophets.
+[01:07:36.380 --> 01:07:39.380]   Okay, false prophets and false teachers.
+[01:07:39.380 --> 01:07:44.380]   And here, example of God's judgment and...
+[01:07:44.380 --> 01:07:48.380]   Sparing those who are righteous.
+[01:07:48.380 --> 01:07:52.380]   And then, he concludes with an encouragement here,
+[01:07:52.380 --> 01:07:54.380]   "Then the Lord knows how to rescue the temptation."
+[01:07:54.380 --> 01:07:56.380]   Right?
+[01:07:56.380 --> 01:08:00.380]   So, the main point that he's trying to make here is it serves as an encouragement
+[01:08:00.380 --> 01:08:03.380]   to those who are righteous to persevere, to pay attention,
+[01:08:03.380 --> 01:08:07.380]   and it serves as a warning to those who are teaching false doctrines.
+[01:08:07.380 --> 01:08:08.380]   Okay?
+[01:08:08.380 --> 01:08:10.380]   So, that's kind of like the breakdown that I'm going to be going through.
+[01:08:10.380 --> 01:08:12.380]   I'm going to spend most of my time in this section,
+[01:08:12.380 --> 01:08:15.380]   and then I'm going to pretty much hurry through that,
+[01:08:15.380 --> 01:08:17.380]   for the sake of time, okay?
+[01:08:17.380 --> 01:08:22.380]   So, the first part of it, where it says, "False prophets arose among the people,
+[01:08:22.380 --> 01:08:24.380]   just as there will also be false teachers among you."
+[01:08:24.380 --> 01:08:27.380]   So, first thing, the guidance that I gave,
+[01:08:27.380 --> 01:08:29.380]   if you looked at the Facebook last week,
+[01:08:29.380 --> 01:08:33.380]   is whenever you see a list, it's good to kind of put them in order,
+[01:08:33.380 --> 01:08:36.380]   so that you can see them, like, line by line.
+[01:08:36.380 --> 01:08:40.380]   If you put it all in a paragraph form, sometimes it doesn't stand out the way it should.
+[01:08:40.380 --> 01:08:44.380]   So, whenever you see any kind of list of anything,
+[01:08:44.380 --> 01:08:46.380]   put it in a way where it's easier to see.
+[01:08:46.380 --> 01:08:48.380]   Separate each one, one by one,
+[01:08:48.380 --> 01:08:52.380]   and sometimes you'll get better insight when you do that, okay?
+[01:08:52.380 --> 01:08:56.380]   He starts out by identifying false prophets and false teachers.
+[01:08:56.380 --> 01:09:00.380]   What's the difference between false prophets and false teachers?
+[01:09:00.380 --> 01:09:09.380]   [inaudible]
+[01:09:09.380 --> 01:09:12.380]   Okay, didactic. Okay, so false prophets,
+[01:09:12.380 --> 01:09:16.380]   most likely is referring to the Old Testament prophets, right?
+[01:09:16.380 --> 01:09:19.380]   Where they were declaring, say, "God told me this, I had a vision from God."
+[01:09:19.380 --> 01:09:24.380]   False teachers are basically interpreting, like, interpreting the Revelation.
+[01:09:24.380 --> 01:09:28.380]   So, in the Greek, these two words, again, there's a lot of,
+[01:09:28.380 --> 01:09:34.380]   if you have a good word study, I think I gave you a couple as an example.
+[01:09:34.380 --> 01:09:39.380]   If you have a good Bible program, it will save you so much time.
+[01:09:39.380 --> 01:09:42.380]   Instead of flipping through pages, all you have to do is push a, like,
+[01:09:42.380 --> 01:09:44.380]   if you had a Bible program, it says "false prophet,"
+[01:09:44.380 --> 01:09:47.380]   and you just push a button, and then the Greek word would come out.
+[01:09:47.380 --> 01:09:50.380]   Even if you don't know the Greek, there would be English, you know,
+[01:09:50.380 --> 01:09:52.380]   English version of that that would come out,
+[01:09:52.380 --> 01:09:57.380]   and then it will give you the definition of that, word for word.
+[01:09:57.380 --> 01:10:04.380]   So, I would highly recommend, right, don't drink boba for a week, use that.
+[01:10:04.380 --> 01:10:09.380]   One Disneyland ticket could get you two, okay, two Bible programs maybe.
+[01:10:09.380 --> 01:10:12.380]   I would highly, highly invest, right?
+[01:10:12.380 --> 01:10:16.380]   If you are, you're doing an inductive Bible study,
+[01:10:16.380 --> 01:10:21.380]   having a good Bible program would literally save you, like, hours.
+[01:10:21.380 --> 01:10:24.380]   Because you just click of a button, especially the word studies, right,
+[01:10:24.380 --> 01:10:26.380]   or cross-references.
+[01:10:26.380 --> 01:10:29.380]   You just click of a button, and then boom, it will come out, right?
+[01:10:29.380 --> 01:10:31.380]   You'll be able to go much deeper, much faster if you did have it.
+[01:10:31.380 --> 01:10:34.380]   So, if you don't have it, I highly encourage you to get it.
+[01:10:34.380 --> 01:10:41.380]   The Greek words behind these two words is "pseudo-prophetas" and "pseudo-didaskala,"
+[01:10:41.380 --> 01:10:43.380]   teaching, okay?
+[01:10:43.380 --> 01:10:47.380]   So, basically, they're false prophets, false teachers,
+[01:10:47.380 --> 01:10:51.380]   and then he goes into the description of who they are.
+[01:10:51.380 --> 01:10:56.380]   He says they will secretly introduce destructive heresies, first one, right?
+[01:10:56.380 --> 01:11:02.380]   Why is it secret?
+[01:11:02.380 --> 01:11:07.380]   Most likely, it's happening inside the church, right?
+[01:11:07.380 --> 01:11:12.380]   So, if it was obvious that they're coming, that you know who they are,
+[01:11:12.380 --> 01:11:19.380]   especially in our circles, right, you say, "Well, if they're teaching the health and wealth gospel,
+[01:11:19.380 --> 01:11:26.380]   or they're, you know, the pastor or whoever is asking for $320 million airplane
+[01:11:26.380 --> 01:11:27.380]   in order for them to preach the gospel."
+[01:11:27.380 --> 01:11:29.380]   I mean, they're pretty easy to tell.
+[01:11:29.380 --> 01:11:30.380]   They got purple hair.
+[01:11:30.380 --> 01:11:32.380]   They're on certain channels, right?
+[01:11:32.380 --> 01:11:37.380]   So, they're not that hard to identify when they're outside, right?
+[01:11:37.380 --> 01:11:43.380]   But they seek, it says that the dangerous ones are the ones who secretly introduce destructive heresy.
+[01:11:43.380 --> 01:11:49.380]   You know, this word "heresy," right, "hereticus" in the Greek,
+[01:11:49.380 --> 01:11:54.380]   there's a distinction between the two different type of words that describes false doctrine.
+[01:11:54.380 --> 01:12:00.380]   One is "schism," which means where we get the word "to separate," right?
+[01:12:00.380 --> 01:12:06.380]   This one, "heretic," the word itself literally means to have opinion,
+[01:12:06.380 --> 01:12:09.380]   to have your own opinion, the word "heretic."
+[01:12:09.380 --> 01:12:13.380]   So, the word "heretic" itself doesn't necessarily mean it's false.
+[01:12:13.380 --> 01:12:18.380]   But a destructive heresy is somebody who is within the church, right,
+[01:12:18.380 --> 01:12:22.380]   somebody who has doctrines that are off the wall, right,
+[01:12:22.380 --> 01:12:24.380]   that we're going to have to pray to Mary to get to Jesus,
+[01:12:24.380 --> 01:12:28.380]   or you're praying to, you know, Jesus was the brother of Satan.
+[01:12:28.380 --> 01:12:30.380]   Those type of things are not within the church.
+[01:12:30.380 --> 01:12:32.380]   Those are things pretty obvious outside the church.
+[01:12:32.380 --> 01:12:35.380]   Those are like you break off from those type of stuff.
+[01:12:35.380 --> 01:12:41.380]   He's warning about doctrines that seep into the church that seem like they're Christian,
+[01:12:41.380 --> 01:12:43.380]   but they're not, right?
+[01:12:43.380 --> 01:12:47.380]   And that's why it says it's destructive heresies that are secretly introduced, right?
+[01:12:47.380 --> 01:12:51.380]   It creeps into the church, and you have wrong thinking, wrong life,
+[01:12:51.380 --> 01:12:58.380]   and it is completely contrary to sound doctrine, but it creeps in because it sounds right, right?
+[01:12:58.380 --> 01:13:01.380]   That's what he's trying to really get them to pay attention to.
+[01:13:01.380 --> 01:13:08.380]   So the destructive stuff that comes into the church usually are not that obvious
+[01:13:08.380 --> 01:13:11.380]   if you're not really paying attention, right?
+[01:13:11.380 --> 01:13:15.380]   He said even denying the master who bought them.
+[01:13:15.380 --> 01:13:21.380]   So ultimately, all destructive heresies eventually lead to rebellion.
+[01:13:21.380 --> 01:13:25.380]   This word for master literally means a slave owner, right?
+[01:13:25.380 --> 01:13:31.380]   And he's saying that we've been delivered from one master now to serve the other master,
+[01:13:31.380 --> 01:13:39.380]   but a destructive heresy that's secretly introduced usually brings you away from submitting to the true God,
+[01:13:39.380 --> 01:13:42.380]   and you end up ultimately serving yourselves, right,
+[01:13:42.380 --> 01:13:46.380]   which is bringing upon them swift destruction upon themselves.
+[01:13:46.380 --> 01:13:51.380]   So if you notice, one of the things that I ask you to do is look for words that are repeated, right?
+[01:13:51.380 --> 01:13:59.380]   So this word destruction, right, destructive, destruction, or the word judgment.
+[01:13:59.380 --> 01:14:03.380]   Remember, if you go down the list, you probably, if you did this, you probably see, like,
+[01:14:03.380 --> 01:14:06.380]   those are the two words that gets repeated over and over again.
+[01:14:06.380 --> 01:14:14.380]   So throughout this whole text, the 11 verses, it's a warning against those who are bringing destruction into the church secretly, okay?
+[01:14:14.380 --> 01:14:17.380]   And along with them, those who follow.
+[01:14:17.380 --> 01:14:23.380]   He said, this is going to be so effective, he said, many will follow their sensuality.
+[01:14:23.380 --> 01:14:33.380]   This word for sensuality in the English sounds like something sexual, and it could be, but it's a much broader term.
+[01:14:33.380 --> 01:14:39.380]   And so if you have other translations, you probably noticed that some of your translations says shameful, right?
+[01:14:39.380 --> 01:14:42.380]   Or some of your translations says destructive.
+[01:14:42.380 --> 01:14:46.380]   Or the King James basically says a way of perniciousness.
+[01:14:46.380 --> 01:14:53.380]   Any behavior that leads to, leads to destruction, judgment, right?
+[01:14:53.380 --> 01:14:57.380]   He says, but many will follow their sensuality.
+[01:14:57.380 --> 01:15:02.380]   It basically is describing somebody who's led by their flesh and not by the word, right?
+[01:15:02.380 --> 01:15:09.380]   Remember how we talked about that in Romans chapter 7 and 8, and then we talked about that in the book of Galatians, right?
+[01:15:09.380 --> 01:15:15.380]   Those who, those who, what, they invest in the flesh, they're going to bear fruit in the flesh.
+[01:15:15.380 --> 01:15:18.380]   Those who invest in the spirit will bear fruit in the spirit.
+[01:15:18.380 --> 01:15:23.380]   So some people who are following their flesh, whatever they desire, right?
+[01:15:23.380 --> 01:15:28.380]   And they're going to be following them, they're also going to be led into destruction.
+[01:15:28.380 --> 01:15:35.380]   Because of them, many, because of the way of, because of them, way of the truth is maligned, right?
+[01:15:35.380 --> 01:15:39.380]   So, so much of criticism in the church today, right?
+[01:15:39.380 --> 01:15:46.380]   So much, I'm not saying all of it, but so much of it is not against Christians, right?
+[01:15:46.380 --> 01:15:49.380]   And I'm not saying Christians haven't made their mistakes.
+[01:15:49.380 --> 01:15:56.380]   But so much of the criticism in the church are people who have the name of a Christian who are inside the church, right?
+[01:15:56.380 --> 01:16:05.380]   Pseudo-Christians who are being led by their flesh, but especially in our generation where the line has not been drawn for the most part,
+[01:16:05.380 --> 01:16:12.380]   because the churches have been working overtime to get everybody into the church no matter what, without any standards.
+[01:16:12.380 --> 01:16:19.380]   And so some of you guys may have thought when you came to our church, it's so weird to have membership, right?
+[01:16:19.380 --> 01:16:24.380]   Doesn't God welcome everybody? No matter what kind of sin you allow in your life, doesn't God welcome everybody?
+[01:16:24.380 --> 01:16:29.380]   Isn't it about grace? And then, so there's no, there has been no line between the church and the world.
+[01:16:29.380 --> 01:16:37.380]   So, so much of the criticism from outside the world comes not because Christians haven't been living a certain way,
+[01:16:37.380 --> 01:16:39.380]   it's because there's non-Christians inside the church.
+[01:16:39.380 --> 01:16:46.380]   So I'm not saying everybody who sins is a non-Christian, but inside the church, many, right?
+[01:16:46.380 --> 01:16:50.380]   Many have been following destructive thinking, right?
+[01:16:50.380 --> 01:16:53.380]   And I'm going to mention some of that later.
+[01:16:53.380 --> 01:16:59.380]   So we have to be careful that we're not quick to judge and say that guy's a Christian or that guy's not a Christian
+[01:16:59.380 --> 01:17:01.380]   because he's not doing this or he's not doing that.
+[01:17:01.380 --> 01:17:09.380]   But at the same time, if people are living by their flesh, they're denying the master, right?
+[01:17:09.380 --> 01:17:17.380]   And they're following false thinking, it ultimately leads to maligning of the church and his, his, his gospel, right?
+[01:17:17.380 --> 01:17:22.380]   And this is why God calls us to make sure that the church is holy.
+[01:17:22.380 --> 01:17:29.380]   The church has to be a place of grace, but it also has to be a place of holiness, and neither can never be compromised, right?
+[01:17:29.380 --> 01:17:33.380]   You cannot compromise holiness in order to be known as gracious,
+[01:17:33.380 --> 01:17:38.380]   and you cannot compromise graciousness because you want to be known to be holy.
+[01:17:38.380 --> 01:17:41.380]   Neither is ever compromised in God.
+[01:17:41.380 --> 01:17:48.380]   So he says that because of this, the church will be maligned, and their greed, ultimately, is their own greed.
+[01:17:48.380 --> 01:17:52.380]   And the word greed isn't simply talking about money, it's covetousness.
+[01:17:52.380 --> 01:17:58.380]   Somebody who may not be greedy for money can be, can covet fame, honor, right?
+[01:17:58.380 --> 01:18:02.380]   Prestige, notoriety, whatever it may be.
+[01:18:02.380 --> 01:18:05.380]   He says their ultimate greed is themselves.
+[01:18:05.380 --> 01:18:09.380]   They're not seeking to glorify God, they're seeking to glorify themselves in the name of God,
+[01:18:09.380 --> 01:18:12.380]   and they will exploit you, take advantage of you.
+[01:18:12.380 --> 01:18:14.380]   Who will they take advantage of?
+[01:18:14.380 --> 01:18:17.380]   Right, now you can't see anything.
+[01:18:17.380 --> 01:18:19.380]   Who are they taking advantage of?
+[01:18:19.380 --> 01:18:29.380]   People who are living by their sensuality, right?
+[01:18:29.380 --> 01:18:35.380]   How do you get people who are living by their sensuality to follow false doctrine?
+[01:18:35.380 --> 01:18:39.380]   If the false doctrine benefits you, right?
+[01:18:39.380 --> 01:18:46.380]   If I start preaching a gospel that allows you to be comfortable living in your sin,
+[01:18:46.380 --> 01:18:50.380]   who will embrace that?
+[01:18:50.380 --> 01:18:53.380]   People living in sin, right?
+[01:18:53.380 --> 01:18:59.380]   So when you're under guilt, you have two options.
+[01:18:59.380 --> 01:19:02.380]   Either you repent of that guilt and come to Christ,
+[01:19:02.380 --> 01:19:08.380]   or you will change your doctrine so that you don't longer feel guilty.
+[01:19:08.380 --> 01:19:13.380]   So a false teacher will come in, and to do what?
+[01:19:13.380 --> 01:19:15.380]   To tickle your ears.
+[01:19:15.380 --> 01:19:18.380]   In order to leave you alone, right?
+[01:19:18.380 --> 01:19:23.380]   So that you can continue to live in sin and still feel like, you know, everything's right.
+[01:19:23.380 --> 01:19:25.380]   So all you've done is you haven't dealt with the guilt.
+[01:19:25.380 --> 01:19:30.380]   So there's only two ways to get under guilt, right?
+[01:19:30.380 --> 01:19:35.380]   Either you find justification in Christ by true repentance,
+[01:19:35.380 --> 01:19:39.380]   or you justify yourself, right?
+[01:19:39.380 --> 01:19:43.380]   So in order to justify yourself without repenting,
+[01:19:43.380 --> 01:19:48.380]   you have to condemn whoever is causing you to feel guilty, right?
+[01:19:48.380 --> 01:19:51.380]   So there's only two ways to get out of guilt.
+[01:19:51.380 --> 01:19:55.380]   Justification by Christ through true repentance,
+[01:19:55.380 --> 01:19:58.380]   or you start justifying your sin, right?
+[01:19:58.380 --> 01:20:02.380]   And so he says, in their greeting, covetousness,
+[01:20:02.380 --> 01:20:05.380]   they're going to come tickle your ears to exploit you with false words.
+[01:20:05.380 --> 01:20:07.380]   They're not true, right?
+[01:20:07.380 --> 01:20:10.380]   And that's why from the very get-go why we named ourselves Berean
+[01:20:10.380 --> 01:20:14.380]   is because I've noticed, you know, early on,
+[01:20:14.380 --> 01:20:18.380]   that people are not using the Word of God to come to truth, right?
+[01:20:18.380 --> 01:20:22.380]   So we have a generation where we rely on catechism,
+[01:20:22.380 --> 01:20:26.380]   where we rely on tradition, we rely on our discipler,
+[01:20:26.380 --> 01:20:28.380]   we rely on whatever tradition that we came from,
+[01:20:28.380 --> 01:20:30.380]   and we say, "Well, that's what I believe."
+[01:20:30.380 --> 01:20:32.380]   And people are contested, "Why do you believe that?"
+[01:20:32.380 --> 01:20:34.380]   They don't know, right?
+[01:20:34.380 --> 01:20:37.380]   So it's not really you. You're relying on tradition, right?
+[01:20:37.380 --> 01:20:40.380]   You're relying on your group thought,
+[01:20:40.380 --> 01:20:42.380]   but it's not based upon the Word of God.
+[01:20:42.380 --> 01:20:44.380]   Sometimes if you are faithful to the Word of God,
+[01:20:44.380 --> 01:20:47.380]   you will find yourself alone,
+[01:20:47.380 --> 01:20:50.380]   and that's exactly where you should be, right?
+[01:20:50.380 --> 01:20:54.380]   But when you are constantly concerned about staying with the group,
+[01:20:54.380 --> 01:20:59.380]   that in itself is sensuality, right?
+[01:20:59.380 --> 01:21:03.380]   Because your desire to be accepted by the group that you're in
+[01:21:03.380 --> 01:21:08.380]   won't allow you to accept doctrines that will take you away from that, right?
+[01:21:08.380 --> 01:21:11.380]   Sometimes God will take you away from that
+[01:21:11.380 --> 01:21:13.380]   because people are going astray.
+[01:21:13.380 --> 01:21:16.380]   So you have to test the Word of God, right,
+[01:21:16.380 --> 01:21:19.380]   to make sure that every thought you have, every behavior you have,
+[01:21:19.380 --> 01:21:22.380]   is according to God's Word, right?
+[01:21:22.380 --> 01:21:25.380]   It's that their judgment is from long ago, is not idle,
+[01:21:25.380 --> 01:21:28.380]   meaning that God is not just sweeping it away.
+[01:21:28.380 --> 01:21:31.380]   It may seem like they're getting away with it,
+[01:21:31.380 --> 01:21:33.380]   and they may be getting notoriety,
+[01:21:33.380 --> 01:21:35.380]   maybe they're becoming rich and famous,
+[01:21:35.380 --> 01:21:39.380]   but at the end of the day, it says God's hand is on them actively.
+[01:21:39.380 --> 01:21:42.380]   You just may not see it, okay?
+[01:21:42.380 --> 01:21:47.380]   So these are all descriptions, not only of a false prophet or false teacher,
+[01:21:47.380 --> 01:21:49.380]   but those who follow these false teachers,
+[01:21:49.380 --> 01:21:51.380]   and that's why he says to watch out.
+[01:21:51.380 --> 01:21:55.380]   So anybody who's living continually based on his sensuality,
+[01:21:55.380 --> 01:22:01.380]   sensuality doesn't necessarily have to be something evil, right?
+[01:22:01.380 --> 01:22:06.380]   It could be bitterness, anger, right?
+[01:22:06.380 --> 01:22:08.380]   It could be coveting.
+[01:22:08.380 --> 01:22:11.380]   It could be self-righteousness, right?
+[01:22:11.380 --> 01:22:18.380]   All of those things are open doors for satanic presence in your life
+[01:22:18.380 --> 01:22:23.380]   because these are things that God wants us to repent of and put behind us,
+[01:22:23.380 --> 01:22:27.380]   but when we allow it to linger in our lives,
+[01:22:27.380 --> 01:22:34.380]   those things will cause you to accept certain doctrines and reject certain doctrines, right?
+[01:22:34.380 --> 01:22:37.380]   You emphasize certain things and de-emphasize certain things,
+[01:22:37.380 --> 01:22:40.380]   not based upon the Word of God, but based upon your own prejudice,
+[01:22:40.380 --> 01:22:42.380]   that this is what you want to maintain,
+[01:22:42.380 --> 01:22:45.380]   so these things are from God or these things are not from God.
+[01:22:45.380 --> 01:22:51.380]   That's why Jesus says the very first step of truly living is what?
+[01:22:51.380 --> 01:22:54.380]   To die, right? To die.
+[01:22:54.380 --> 01:22:57.380]   If you are seeking to live, you will die,
+[01:22:57.380 --> 01:23:01.380]   but if you die because of Christ, you will really live.
+[01:23:01.380 --> 01:23:09.380]   So the beginning of true life is recognizing our own life needs to be put away, right?
+[01:23:09.380 --> 01:23:11.380]   In order for us to receive new life in Christ.
+[01:23:11.380 --> 01:23:16.380]   Otherwise, whatever it is that you are holding on to blinds you, right?
+[01:23:16.380 --> 01:23:18.380]   And you say, "Well, I don't think I'm blind."
+[01:23:18.380 --> 01:23:20.380]   Of course, if you're blind, you're not going to think you're blind
+[01:23:20.380 --> 01:23:24.380]   or else you wouldn't say you're not blind, right?
+[01:23:24.380 --> 01:23:28.380]   How do you recognize that? What's in your heart?
+[01:23:28.380 --> 01:23:30.380]   What's in your heart? What are you pursuing?
+[01:23:30.380 --> 01:23:32.380]   What will you not let go?
+[01:23:32.380 --> 01:23:36.380]   And that's a source of your weakness, okay?
+[01:23:36.380 --> 01:23:39.380]   The second part where he gives us three examples.
+[01:23:39.380 --> 01:23:42.380]   I said two examples, but they're actually three, right?
+[01:23:42.380 --> 01:23:47.380]   First, he says the angels, and then he says the ancient world,
+[01:23:47.380 --> 01:23:50.380]   and then he says the city of Sodom and Gomorrah, okay?
+[01:23:50.380 --> 01:23:52.380]   So you notice there's three things.
+[01:23:52.380 --> 01:23:54.380]   Like why did he choose these three examples?
+[01:23:54.380 --> 01:23:57.380]   You notice the degree in each one?
+[01:23:57.380 --> 01:24:02.380]   The angels individually is as high as you can go, right?
+[01:24:02.380 --> 01:24:09.380]   So he says if God's not going to spare even an angel when they rebel, what is he saying?
+[01:24:09.380 --> 01:24:12.380]   The point is not look at the angels and study, like, how did they fall?
+[01:24:12.380 --> 01:24:13.380]   What did they get judged?
+[01:24:13.380 --> 01:24:17.380]   What is the point of this, what he's saying here?
+[01:24:17.380 --> 01:24:22.380]   If God didn't even spare angels, of course false prophets aren't going to be spared.
+[01:24:22.380 --> 01:24:24.380]   That's the point, right?
+[01:24:24.380 --> 01:24:26.380]   So judgment is going to be carried out without prejudice.
+[01:24:26.380 --> 01:24:28.380]   That's the point that he's trying to make.
+[01:24:28.380 --> 01:24:30.380]   He says they spare the ancient world.
+[01:24:30.380 --> 01:24:34.380]   The whole world got wiped out, right?
+[01:24:34.380 --> 01:24:40.380]   He's saying clearly, so that's why if you're in a large crowd and you feel safe
+[01:24:40.380 --> 01:24:48.380]   because a large number of people are thinking the same way, right, you should remember this verse, right?
+[01:24:48.380 --> 01:24:55.380]   There have been periods when everybody was wrong, where everybody is under judgment, right?
+[01:24:55.380 --> 01:25:03.380]   So it's kind of hard to imagine when the Bible says that the road to destruction is wide, right,
+[01:25:03.380 --> 01:25:08.380]   and the road to life is narrow and few would be found on it.
+[01:25:08.380 --> 01:25:11.380]   But how few?
+[01:25:11.380 --> 01:25:17.380]   We don't know exactly how few, but we know that when Christ went to the cross,
+[01:25:17.380 --> 01:25:22.380]   majority of the people, even though he spent three years doing public ministry,
+[01:25:22.380 --> 01:25:26.380]   preaching the gospel, and everybody said he must be the Messiah, he raised Lazarus from the dead.
+[01:25:26.380 --> 01:25:31.380]   And when Jesus went to the cross, very few followed him, right?
+[01:25:31.380 --> 01:25:37.380]   Now, would that be, we don't know exactly what the number is, but that is still true today, right?
+[01:25:37.380 --> 01:25:42.380]   He said narrow is the gate that leads to eternal life and few will be found on it.
+[01:25:42.380 --> 01:25:47.380]   So he says the ancient world and then the city itself, Sodom and Gomorrah, right?
+[01:25:47.380 --> 01:25:53.380]   So you see kind of like that individually, the world, and then specifically the city.
+[01:25:53.380 --> 01:25:56.380]   So I think he highlights these for a reason, right?
+[01:25:56.380 --> 01:26:00.380]   The angels, when they sinned, was cast into hell.
+[01:26:00.380 --> 01:26:02.380]   So I'm not going to go into every part of this.
+[01:26:02.380 --> 01:26:06.380]   The word hell here is not Gehenna, is not Sheol.
+[01:26:06.380 --> 01:26:07.380]   Those are the two words.
+[01:26:07.380 --> 01:26:14.380]   The Sheol is the Hebrew word that we typically think of hell, and then the New Testament word is Gehenna, right?
+[01:26:14.380 --> 01:26:18.380]   But this word here for hell is only used here.
+[01:26:18.380 --> 01:26:24.380]   And I'm not going to spell it out because I can't read it.
+[01:26:24.380 --> 01:26:26.380]   Okay, well, let me spell it out for you, okay?
+[01:26:26.380 --> 01:26:31.380]   It's not going to mean anything, but taratao.
+[01:26:31.380 --> 01:26:34.380]   Okay.
+[01:26:34.380 --> 01:26:38.380]   This is the only place in the New Testament where this word is used, right?
+[01:26:38.380 --> 01:26:41.380]   So I'm not going to go back, go into the history.
+[01:26:41.380 --> 01:26:45.380]   Maybe some of you guys read it in your, I don't know.
+[01:26:45.380 --> 01:26:52.380]   You're not supposed to look at your commentary, but if you did, you may have read it that this was a Greek mythological word.
+[01:26:52.380 --> 01:27:00.380]   It was more of a cultural word, kind of like today if I said, you know, like if I said something and I said, "Oh, you know, you're going to end up in purgatory."
+[01:27:00.380 --> 01:27:05.380]   Right? And if I say that, it's like, does he actually believe in purgatory?
+[01:27:05.380 --> 01:27:09.380]   Right? Is he actually saying that he believes in purgatory?
+[01:27:09.380 --> 01:27:12.380]   No, that's not what I'm saying. I'm saying that you're going to be punished.
+[01:27:12.380 --> 01:27:18.380]   But maybe the cultural word that everybody understands what purgatory means, punishment for your sins, right?
+[01:27:18.380 --> 01:27:27.380]   So we don't know exactly what it means, but when you say he was cast into hell, if you were doing this study carefully,
+[01:27:27.380 --> 01:27:33.380]   what's a question that you would have come up with this?
+[01:27:33.380 --> 01:27:40.380]   Anybody had a question on this?
+[01:27:40.380 --> 01:27:46.380]   Are all the demons in hell?
+[01:27:46.380 --> 01:27:50.380]   I think this is inductive study.
+[01:27:50.380 --> 01:27:54.380]   Are the demons in hell today? All of them?
+[01:27:54.380 --> 01:28:02.380]   No. Why? Why not? Where did you get that?
+[01:28:02.380 --> 01:28:08.380]   Okay. No is good, but you could have followed that up, right?
+[01:28:08.380 --> 01:28:14.380]   Huh? One third are in hell. Okay.
+[01:28:14.380 --> 01:28:29.380]   I'm going to say one third fell. I'm going to ask you a third. I don't think they're in hell.
+[01:28:29.380 --> 01:28:35.380]   Satan's the god of this world. He has demons. Right. When Jesus was walking on earth, what did the demons say?
+[01:28:35.380 --> 01:28:40.380]   Why have you come before your time? Right? To torture us. Right?
+[01:28:40.380 --> 01:28:46.380]   To send us to hell. So demons were walking around at that time. Right?
+[01:28:46.380 --> 01:28:52.380]   So this couldn't be referring to all demons, right? All fallen angels who have been sent to hell.
+[01:28:52.380 --> 01:28:56.380]   So this is something a lot more specific than that. Right?
+[01:28:56.380 --> 01:29:01.380]   So we don't know. We don't know exactly what it is. There's a lot of guesses.
+[01:29:01.380 --> 01:29:08.380]   Some believe that this is in reference to Genesis chapter 6, Jude 4, 5, 6, 7, or 8.
+[01:29:08.380 --> 01:29:17.380]   I don't know if you guys read that passage, but if you looked up cross references, my guess is Genesis 6 and Jude probably 4, 5, 6, 7, and 8 came out.
+[01:29:17.380 --> 01:29:23.380]   In fact, I'm going to read Jude 4, 5, 6, 7, and 8, and then you'll see the parallel between this passage and that passage.
+[01:29:23.380 --> 01:29:29.380]   But my goal today is not to get too deep into this. It's just to kind of explain why you're doing inductive Bible study.
+[01:29:29.380 --> 01:29:35.380]   You should be asking these questions. Okay? Today, because of time, we're not going to get too much into it. Right?
+[01:29:35.380 --> 01:29:43.380]   The ancient world, he said, Noah preached the preacher of righteousness. Is there a record of Noah preaching?
+[01:29:43.380 --> 01:29:53.380]   Do you remember? No, there's no record of like Noah's public street preaching, telling everybody get in the boat.
+[01:29:53.380 --> 01:29:57.380]   You know what I mean? Or you're going to die. There's no record of that. Right?
+[01:29:57.380 --> 01:30:05.380]   They mock him. Right? God says to go in, lock up. He locks up. Rain comes. Destruction comes. The end. Right?
+[01:30:05.380 --> 01:30:12.380]   But he's described as a preacher of righteousness. Preacher doesn't necessarily mean he is opening his mouth and preaching.
+[01:30:12.380 --> 01:30:18.380]   His very presence was a witness of God's righteousness and holiness in his generation.
+[01:30:18.380 --> 01:30:22.380]   But they call him the preacher of righteousness because of his life. Right?
+[01:30:22.380 --> 01:30:30.380]   Obviously, there is a need for the physical preaching, the words being proclaimed.
+[01:30:30.380 --> 01:30:38.380]   But sometimes when there isn't preaching in life, the preaching with words is nullified. Right?
+[01:30:38.380 --> 01:30:45.380]   If your life doesn't represent the gospel that you want to preach, they're not going to take the gospel seriously.
+[01:30:45.380 --> 01:30:51.380]   Sometimes your life is much more powerful than any word you can speak. Right?
+[01:30:51.380 --> 01:30:57.380]   Powerful meaning that it causes people to think and open up their heart, especially in our generation.
+[01:30:57.380 --> 01:31:06.380]   Because there is a, there is a, already a prejudice toward the church. Right?
+[01:31:06.380 --> 01:31:10.380]   Hypocrites. Right? You say one thing and you live another.
+[01:31:10.380 --> 01:31:15.380]   And so you have all these prejudices against the church or a lot of people who used to go to church who fell out.
+[01:31:15.380 --> 01:31:20.380]   So we don't have a neutral culture that we're living in. Right?
+[01:31:20.380 --> 01:31:25.380]   Either they're Christian or they have a positive view, some of them, because of their experience with other Christians,
+[01:31:25.380 --> 01:31:30.380]   or many of them, as you probably know, have negative experiences in the church. Right?
+[01:31:30.380 --> 01:31:35.380]   So in that context, there needs to be preaching of righteousness by our life. Right?
+[01:31:35.380 --> 01:31:44.380]   In order that we can preach with our mouth. Here it says, he condemns Sodom and Gomorrah to destruction, having the example. Right?
+[01:31:44.380 --> 01:31:50.380]   Ultimately, Sodom and Gomorrah served as an example. Example to who?
+[01:31:50.380 --> 01:31:53.380]   The rest of humanity. Right?
+[01:31:53.380 --> 01:31:58.380]   That when a society falls that deep into sin, God's judgment comes.
+[01:31:58.380 --> 01:32:04.380]   People are saying that we are either there or getting there real quick. Right?
+[01:32:04.380 --> 01:32:10.380]   As much as we are concerned about the state of, state of the world. Right? Right now.
+[01:32:10.380 --> 01:32:15.380]   Like just the crazy things that are coming out right now. Right? Especially in California.
+[01:32:15.380 --> 01:32:24.380]   I recently found out that they passed a law that young, I don't know how young, is it, correct me if you guys know,
+[01:32:24.380 --> 01:32:29.380]   like five, six, seven, eight, I forget how young, but pretty young, that if they want to get a sex change,
+[01:32:29.380 --> 01:32:33.380]   they can get one without the parent's consent. Right?
+[01:32:33.380 --> 01:32:40.380]   And I heard, and I don't know if this passed yet, but I heard that if a parent refused to give sex change to a child,
+[01:32:40.380 --> 01:32:45.380]   they can actually come, child services can come and take away your children.
+[01:32:45.380 --> 01:32:49.380]   There's crazy stuff going on right now. Right?
+[01:32:49.380 --> 01:32:55.380]   And I've only mentioned one. If we kept on studying, I mean, this is where the time that we're living.
+[01:32:55.380 --> 01:32:59.380]   I don't know if we're that far from Sodom and Gomorrah. Right?
+[01:32:59.380 --> 01:33:04.380]   Maybe, maybe even beyond Sodom and Gomorrah, you know?
+[01:33:04.380 --> 01:33:08.380]   So he says, this is serving as an example. We are living in a culture.
+[01:33:08.380 --> 01:33:16.380]   But here it says, he says, he knows how to rescue a lot. He was oppressed by sensual conduct on principled men.
+[01:33:16.380 --> 01:33:24.380]   Right? And then he says he was, his soul was tormented because of their lawless deeds.
+[01:33:24.380 --> 01:33:33.380]   If we're living in the kind of culture that we're living in now, and our soul is not tormented by what we see,
+[01:33:33.380 --> 01:33:42.380]   or we don't feel a sense of oppression and darkness around us, something's off.
+[01:33:42.380 --> 01:33:52.380]   For us to hear that, to know that, that these are things that are actually happening, and it just doesn't bother us at all.
+[01:33:52.380 --> 01:33:55.380]   Something's off. Right?
+[01:33:55.380 --> 01:34:02.380]   So he says that Sodom, that Lot was a righteous man, and because he was a righteous man,
+[01:34:02.380 --> 01:34:08.380]   he felt the oppression of the darkness around him, and he was tormented.
+[01:34:08.380 --> 01:34:14.380]   Now, why is this important? Right? Because we need to pray.
+[01:34:14.380 --> 01:34:21.380]   And I know that right now, because of this evil in our culture, that there is a lot of movements,
+[01:34:21.380 --> 01:34:26.380]   and a lot of things that are going on, the how do we combat this, that we need to have more people in office.
+[01:34:26.380 --> 01:34:34.380]   All of these things are true, but I believe the very first thing that he calls us to do is to pray. Right?
+[01:34:34.380 --> 01:34:40.380]   If you're tormented, first thing that we do shouldn't be marching. Right?
+[01:34:40.380 --> 01:34:46.380]   If you're tormented by what's going on around us, the first thing that we should do is not simply to try to change legislation,
+[01:34:46.380 --> 01:34:51.380]   although all of those things are important and essential, the first thing that has to happen is to pray.
+[01:34:51.380 --> 01:34:58.380]   Call people to pray. Right? To pray, to fast. Right?
+[01:34:58.380 --> 01:35:05.380]   Because this is not something that we can do simply by getting organized, simply by talking louder,
+[01:35:05.380 --> 01:35:09.380]   because this is a spiritual battle. Right?
+[01:35:09.380 --> 01:35:14.380]   And so, again, I just want to highlight that as he is mentioning all of these things,
+[01:35:14.380 --> 01:35:24.380]   that all of these things are here as an example, that before anything else, he said we need to come before God and pray. Right?
+[01:35:24.380 --> 01:35:28.380]   I'll bring this back up later.
+[01:35:28.380 --> 01:35:33.380]   He said, "And the end conclusion is, the Lord knows how to rescue godly from temptation,
+[01:35:33.380 --> 01:35:45.380]   to keep the unrighteous under punishment until the day of judgment, especially those who indulge in the flesh and its corrupt desires." Right?
+[01:35:45.380 --> 01:35:56.380]   How many people are struggling with routinely going to porn? Right?
+[01:35:56.380 --> 01:36:04.380]   I know this is an issue. I know this is a problem in every generation. I also know this is a problem in our church. Right?
+[01:36:04.380 --> 01:36:10.380]   Because we live in this generation, the temptation is on your phone.
+[01:36:10.380 --> 01:36:19.380]   If you just excuse that and say, "We all struggle. It's so hard." Right?
+[01:36:19.380 --> 01:36:25.380]   You are allowing yourself to continue down that path. Right?
+[01:36:25.380 --> 01:36:32.380]   Your comfort, your ease is more important than your relationship with God. Right?
+[01:36:32.380 --> 01:36:35.380]   There's no other way to say it. Right?
+[01:36:35.380 --> 01:36:44.380]   This is something that if you continue to indulge in your flesh and your corrupt desires, there has to be a sense of urgency in our life.
+[01:36:44.380 --> 01:36:51.380]   That beyond anything else that you're pursuing or you're concerned about, this has to be dealt with. Right?
+[01:36:51.380 --> 01:36:55.380]   And it's not just about feeling guilty. Right?
+[01:36:55.380 --> 01:37:00.380]   Because worldly sorrow, all it does is lead to condemnation.
+[01:37:00.380 --> 01:37:03.380]   Godly sorrow leads to repentance and bears fruit.
+[01:37:03.380 --> 01:37:09.380]   So in order to bear true fruit, we have to figure out how do I overcome this.
+[01:37:09.380 --> 01:37:15.380]   But the worst thing to do as you are indulging in the flesh to excuse this. Right?
+[01:37:15.380 --> 01:37:20.380]   Because basically what you're saying is God is okay with this.
+[01:37:20.380 --> 01:37:23.380]   But he's not okay with it. Okay?
+[01:37:23.380 --> 01:37:34.380]   Because I guarantee you if you are living continually in this, Satan is already influencing your thoughts. Right?
+[01:37:34.380 --> 01:37:44.380]   What you love, hate, how you listen to sermons, how you do Bible study, fellowship, your pursuits, desires, what makes you happy, what makes you sad.
+[01:37:44.380 --> 01:37:50.380]   All of it is being influenced by this, even if you don't recognize it. Right?
+[01:37:50.380 --> 01:37:55.380]   So again, for the sake of time, I'm going to move on. Right?
+[01:37:55.380 --> 01:38:05.380]   But this is not something that a Christian could just excuse because you are actively heading down the wrong path. Right?
+[01:38:05.380 --> 01:38:14.380]   And the Spirit of God cannot, right, guide you if you are constantly grieving the Holy Spirit in this. Okay?
+[01:38:14.380 --> 01:38:22.380]   They despise authority. Usually somebody who's indulging in the flesh, they despise authority because they don't want to hear it. Right?
+[01:38:22.380 --> 01:38:26.380]   Because typically it's the authority that's going to come and say, "Hey, maybe that's wrong."
+[01:38:26.380 --> 01:38:31.380]   You're headed down the wrong path. So you end up despising authority. Right?
+[01:38:31.380 --> 01:38:36.380]   Because people who are not authority are not going to be challenging you. Right?
+[01:38:36.380 --> 01:38:42.380]   The Word of God is not going to come to you. But whoever's bringing the Word of God to you, you don't want to listen.
+[01:38:42.380 --> 01:38:46.380]   They're daring. This means bold. Right? Audacious.
+[01:38:46.380 --> 01:38:53.380]   Meaning, in your sin, right, eventually you're going to despise authority because you don't want to hear it anymore.
+[01:38:53.380 --> 01:38:57.380]   And then you're eventually going to become bold. Right?
+[01:38:57.380 --> 01:39:01.380]   You say, "Oh, why? Why are they doing this? This is so judgmental. You guys are so legalistic."
+[01:39:01.380 --> 01:39:06.380]   And then you double down on living that. Right?
+[01:39:06.380 --> 01:39:13.380]   Self-willed. Another word for this is self-centered.
+[01:39:13.380 --> 01:39:19.380]   Meaning, you don't care how to fix other people. You don't care if the Word of God is being maligned.
+[01:39:19.380 --> 01:39:23.380]   Because you're okay. Right?
+[01:39:23.380 --> 01:39:29.380]   So, self-willed. You see the progression here? Somebody who indulges in the flesh, despises authority, becomes bold,
+[01:39:29.380 --> 01:39:35.380]   and he lives his life self-centered. As long as I'm okay, it's okay. Right?
+[01:39:35.380 --> 01:39:43.380]   They do not tremble when they revile even angelic majesties. In other words, there's no fear.
+[01:39:43.380 --> 01:39:48.380]   Even though your soul should be tormented by the sins around you,
+[01:39:48.380 --> 01:39:54.380]   even though there's sin that has crept in and you've allowed it, there's no sense of fear.
+[01:39:54.380 --> 01:40:00.380]   No sense of urgency. Right? Because your heart has become calloused.
+[01:40:00.380 --> 01:40:06.380]   He says, "Whereas even angels are greater in mind power, do not bring reviling judgment against them before the Lord."
+[01:40:06.380 --> 01:40:13.380]   And again, I'm not going to go too deep into this. I would suggest that you go and read Jude 4 and on
+[01:40:13.380 --> 01:40:18.380]   because it's a reflection of this. But at the end of the day, the application of this is
+[01:40:18.380 --> 01:40:26.380]   there's a spiritual battle going on, and there is no sensitivity to their spiritual battle. Right?
+[01:40:26.380 --> 01:40:32.380]   So we're not fighting against flesh and blood, but against principalities and power in high places. Right?
+[01:40:32.380 --> 01:40:38.380]   And that's why he says to put on the full armor of God, and then he says, "Pray, pray, pray, pray, pray, pray, pray,"
+[01:40:38.380 --> 01:40:46.380]   at the end. Pray above all of this. Right? So either if you are continuing to live in sin,
+[01:40:46.380 --> 01:40:54.380]   that you are, you don't have faith and you're just faking it, right? Or your heart's become so callous.
+[01:40:54.380 --> 01:40:59.380]   Right? And you're embracing, "I like this. I don't like this. This is judgmental. This is not," you know.
+[01:40:59.380 --> 01:41:05.380]   And then you've just kind of like created your own little God that is not consistent with what the Bible teaches.
+[01:41:05.380 --> 01:41:13.380]   Right? And so he says he's warning them. Again, there's one theme in this whole text. Right?
+[01:41:13.380 --> 01:41:21.380]   God never sweeps sin under the rug. He never sweeps sin under the rug.
+[01:41:21.380 --> 01:41:27.380]   Because when God says it's going to be clean, it's going to be truly clean. Not appearance of cleanliness,
+[01:41:27.380 --> 01:41:34.380]   but real cleanliness. Right? But the way he does that is through grace. Right?
+[01:41:34.380 --> 01:41:40.380]   The way he brings us to righteousness is through grace. He says that God will forgive you.
+[01:41:40.380 --> 01:41:45.380]   No matter how deep, no matter how vile, no matter how difficult, he says,
+[01:41:45.380 --> 01:41:51.380]   "If you are willing to fight against it, God will forgive you." Right?
+[01:41:51.380 --> 01:41:59.380]   He's not saying like, "Get right or get out." He said, "No, you need to get right. That's why you need to come to Christ
+[01:41:59.380 --> 01:42:06.380]   and admit it and bring it out. Confess it. Find forgiveness. Find accountability. Find true fellowship."
+[01:42:06.380 --> 01:42:13.380]   Right? And so by the grace of God that we are led to holiness. Right?
+[01:42:13.380 --> 01:42:20.380]   Otherwise, we are all susceptible to all kinds of heresies coming in.
+[01:42:20.380 --> 01:42:26.380]   And usually the heresy that destroys us the most are not the obvious ones.
+[01:42:26.380 --> 01:42:31.380]   Jesus is not God. He was never resurrected from Christ. It's not those heresies.
+[01:42:31.380 --> 01:42:36.380]   It's usually the heresies like, "Oh, we're going to be gospel-centered.
+[01:42:36.380 --> 01:42:41.380]   So therefore, every imperative is legalism or moral teaching."
+[01:42:41.380 --> 01:42:50.380]   Well, that sounds great, but it's not biblical because that's not how the Bible teaches it. Right?
+[01:42:50.380 --> 01:42:58.380]   Social justice. Doesn't Jesus want us to care for the poor? Isn't that pure religion? Right?
+[01:42:58.380 --> 01:43:06.380]   And then you can, "It's not just the gospel. We got Jesus. God sent us here so that we can flip the world upside down,
+[01:43:06.380 --> 01:43:11.380]   you know, and take care of poverty and racial injustice."
+[01:43:11.380 --> 01:43:18.380]   He said, "Oh, doesn't that sound biblical?" He said, "No, God called us to preach the gospel.
+[01:43:18.380 --> 01:43:23.380]   And if we preach the gospel, people's souls are saved.
+[01:43:23.380 --> 01:43:28.380]   And when their souls are saved, saved souls deal with prejudice.
+[01:43:28.380 --> 01:43:36.380]   Saved souls care for the poor. Saved souls, right, will fight for social injustice.
+[01:43:36.380 --> 01:43:41.380]   But our primary call is to preach the gospel." Right?
+[01:43:41.380 --> 01:43:45.380]   And a lot of times the false things that come in, it causes us to say, "Well, it's the gospel.
+[01:43:45.380 --> 01:43:51.380]   Yes, it's the gospel, but it's not just the gospel. It's the gospel and this. It's gospel and that."
+[01:43:51.380 --> 01:43:58.380]   And so when we begin to kind of, you know, turn left or to the right, it's because it seems right. Right?
+[01:43:58.380 --> 01:44:08.380]   It seems right, but it's not. And the only way to be able to discern that is to pay very close attention to the Word of God.
+[01:44:08.380 --> 01:44:13.380]   Right? Test everything. Test if what I just said is true. Right?
+[01:44:13.380 --> 01:44:17.380]   That's why the Bereans were considered more noble in character than the Thessalonians,
+[01:44:17.380 --> 01:44:20.380]   because they tested to see if everything Paul was saying was true.
+[01:44:20.380 --> 01:44:24.380]   They put the Word of God at the highest standard.
+[01:44:24.380 --> 01:44:31.380]   Not people, not their own prejudice, not their denomination, not their church, not their leaders, but the Word of God.
+[01:44:31.380 --> 01:44:39.380]   Okay? All right. So let me give you the discussion questions for today.
+[01:44:39.380 --> 01:44:43.380]   What are some false doctrines that you've seen propagated within the Christian circle?
+[01:44:43.380 --> 01:44:46.380]   How were you able to identify them as being false? Right?
+[01:44:46.380 --> 01:44:54.380]   Worst thing to say is, "I don't agree." Why? "I just don't think it's fair." Right?
+[01:44:54.380 --> 01:45:02.380]   That's the worst way to come to a conclusion, because your sense of fairness is from a fallen point of view. Right?
+[01:45:02.380 --> 01:45:11.380]   Okay. Let me not go off tangent. Okay. I got things to say, but I'm going to hold myself back. Okay.
+[01:45:11.380 --> 01:45:18.380]   If you notice it, if you like something or don't like something, how did you come to that conclusion? Okay?
+[01:45:18.380 --> 01:45:22.380]   Number two, have you had any major doctrinal shifts as a result of carefully studying the Bible?
+[01:45:22.380 --> 01:45:27.380]   What were they, if any? Right? It doesn't have to be recent. It could be many years ago.
+[01:45:27.380 --> 01:45:34.380]   Like, you had a paradigm shift because – not because a sermon that you heard, not because you were a part of a community,
+[01:45:34.380 --> 01:45:39.380]   but you were looking at the Word of God, and the Word of God caused you to think differently. Right?
+[01:45:39.380 --> 01:45:42.380]   Number three, should Christians be fearful of God's judgment?
+[01:45:42.380 --> 01:45:47.380]   We are called to fear God, and yet in 1 John 4:18 it says that love casts out fear.
+[01:45:47.380 --> 01:45:54.380]   How do you reconcile these two thoughts? Right? Clearly the Bible says both. Right?
+[01:45:54.380 --> 01:45:57.380]   How do you reconcile these two things? You understand the question, right?
+[01:45:57.380 --> 01:46:03.380]   And then four, how does the reality of spiritual world affect the way you live your life? Right?
+[01:46:03.380 --> 01:46:12.380]   If you believe God is real, you believe angels are real. If you believe angels are real, you believe the devil is real, and the demons are real.
+[01:46:12.380 --> 01:46:16.380]   If you believe heaven is real, you believe hell is real. Right?
+[01:46:16.380 --> 01:46:23.380]   How does the belief in the reality of the spiritual world affect you?
+[01:46:23.380 --> 01:46:26.380]   Does it cause you to be fearful? Right?
+[01:46:26.380 --> 01:46:35.380]   When I first became a Christian, I lived in terror because I was saved in a charismatic circle, and they attributed everything to the devil. Right?
+[01:46:35.380 --> 01:46:45.380]   The music is devil, the movies are the devil, you know, and I had a hard time waking up in the middle of the night because I was afraid I was going to meet the devil.
+[01:46:45.380 --> 01:46:48.380]   No joke, you know, but it kept me sober.
+[01:46:48.380 --> 01:46:56.380]   And later on, I realized that my fear was more based upon my prejudice of what I thought the devil was.
+[01:46:56.380 --> 01:47:03.380]   And then the more confidence I had in the Spirit of God in me, it started to slowly drive out fear. Right?
+[01:47:03.380 --> 01:47:12.380]   But how does the reality of the spiritual world, the demonic world, the angelic world, does it cause just fear or indifference?
+[01:47:12.380 --> 01:47:17.380]   Right? It just doesn't seem real, so it doesn't really affect you.
+[01:47:17.380 --> 01:47:23.380]   Or soberness. That's why, again, let me just say something real quick, okay?
+[01:47:23.380 --> 01:47:28.380]   That's why these scary movies are not good for your soul.
+[01:47:28.380 --> 01:47:31.380]   Okay? Some of you might not like it.
+[01:47:31.380 --> 01:47:39.380]   This is a… The reason why it's not good for your soul is because it desensitizes you to the demonic world.
+[01:47:39.380 --> 01:47:45.380]   And so, because you're entertained by it, you know, it no longer seems real.
+[01:47:45.380 --> 01:47:49.380]   It's real. It's real.
+[01:47:49.380 --> 01:47:52.380]   If it's not real, what are you doing here?
+[01:47:52.380 --> 01:47:57.380]   Why are you here every Wednesday studying a bunch of stuff that has no effect on you?
+[01:47:57.380 --> 01:48:00.380]   What are you doing? Every Wednesday, what a waste of time. Right?
+[01:48:00.380 --> 01:48:05.380]   Every penny that you spend, you could have had several Teslas. Right?
+[01:48:05.380 --> 01:48:08.380]   Why are you giving that to the church?
+[01:48:08.380 --> 01:48:13.380]   Why are you going to weird places around the world to share the gospel? Right?
+[01:48:13.380 --> 01:48:17.380]   It's because you believe it, right? You believe it. Right?
+[01:48:17.380 --> 01:48:27.380]   But if you become desensitized to the spiritual world, yeah, it affects how you view your spiritual life. Right?
+[01:48:27.380 --> 01:48:32.380]   So, I don't know how many of you guys are going to listen. Right?
+[01:48:32.380 --> 01:48:37.380]   But personally, like, I don't think it's good for your soul. Right?
+[01:48:37.380 --> 01:48:40.380]   Because it does desensitize you.
+[01:48:40.380 --> 01:48:45.380]   All right, let me pray for us, and then I'll get you in your groups.
+[01:48:45.380 --> 01:48:48.380]   Heavenly Father, I pray for your blessing upon the small group time.
+[01:48:48.380 --> 01:48:58.380]   May it be fruitful and practical that all our discussion would not end in theory, but in application, Lord God, of what you convict us.
+[01:48:58.380 --> 01:49:02.380]   In Jesus' name we pray. Amen.
+[01:49:02.380 --> 01:49:10.380]   [Silence]
+

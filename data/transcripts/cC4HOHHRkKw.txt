@@ -1,0 +1,833 @@
+
+[00:00:00.000 --> 00:00:02.420]   (soft music)
+[00:00:02.420 --> 00:00:04.840]   (soft music)
+[00:00:04.840 --> 00:00:07.260]   (soft music)
+[00:00:07.260 --> 00:00:09.680]   (soft music)
+[00:00:10.380 --> 00:00:12.800]   (soft music)
+[00:00:12.800 --> 00:00:15.220]   (soft music)
+[00:00:15.220 --> 00:00:18.640]   (soft music)
+[00:00:18.640 --> 00:00:22.480]   (soft music)
+[00:00:22.480 --> 00:00:26.080]   (soft music)
+[00:00:26.080 --> 00:00:29.660]   (soft music)
+[00:00:29.660 --> 00:00:33.260]   (soft music)
+[00:00:33.260 --> 00:00:36.760]   (soft music)
+[00:00:36.760 --> 00:00:40.260]   (soft music)
+[00:00:41.360 --> 00:00:43.780]   (soft music)
+[00:00:43.780 --> 00:00:47.200]   (soft music)
+[00:00:47.200 --> 00:00:50.620]   (soft music)
+[00:00:50.620 --> 00:00:54.040]   (soft music)
+[00:00:54.040 --> 00:00:57.460]   (soft music)
+[00:00:57.460 --> 00:01:00.880]   (soft music)
+[00:01:00.880 --> 00:01:04.300]   (soft music)
+[00:01:04.300 --> 00:01:07.720]   (soft music)
+[00:01:08.720 --> 00:01:11.300]   (soft music)
+[00:01:11.300 --> 00:01:14.720]   (soft music)
+[00:01:14.720 --> 00:01:18.140]   (soft music)
+[00:01:18.140 --> 00:01:21.560]   (soft music)
+[00:01:21.560 --> 00:01:24.980]   (soft music)
+[00:01:24.980 --> 00:01:28.400]   (soft music)
+[00:01:28.400 --> 00:01:31.820]   (soft music)
+[00:01:31.820 --> 00:01:35.240]   (soft music)
+[00:01:36.120 --> 00:01:38.700]   (soft music)
+[00:01:38.700 --> 00:01:42.200]   (soft music)
+[00:01:42.200 --> 00:01:45.700]   (soft music)
+[00:01:45.700 --> 00:01:49.200]   (soft music)
+[00:01:49.200 --> 00:01:52.700]   (soft music)
+[00:01:52.700 --> 00:01:56.200]   (soft music)
+[00:01:56.200 --> 00:01:59.700]   (soft music)
+[00:01:59.700 --> 00:02:03.200]   (soft music)
+[00:02:04.200 --> 00:02:06.700]   (soft music)
+[00:02:06.700 --> 00:02:10.200]   (soft music)
+[00:02:10.200 --> 00:02:13.700]   (soft music)
+[00:02:13.700 --> 00:02:17.200]   (soft music)
+[00:02:17.200 --> 00:02:20.700]   (soft music)
+[00:02:20.700 --> 00:02:24.200]   (soft music)
+[00:02:24.200 --> 00:02:27.700]   (soft music)
+[00:02:27.700 --> 00:02:31.200]   (soft music)
+[00:02:32.200 --> 00:02:34.700]   (soft music)
+[00:02:34.700 --> 00:02:38.200]   (soft music)
+[00:02:38.200 --> 00:02:41.700]   (soft music)
+[00:02:41.700 --> 00:02:45.200]   (soft music)
+[00:02:45.200 --> 00:02:48.700]   (soft music)
+[00:02:48.700 --> 00:02:51.700]   (soft music)
+[00:02:51.700 --> 00:02:54.700]   (soft music)
+[00:02:54.700 --> 00:02:57.700]   (soft music)
+[00:02:57.700 --> 00:03:00.700]   (soft music)
+[00:03:01.200 --> 00:03:16.440]   [Music]
+[00:03:16.440 --> 00:03:21.440]   [Music]
+[00:03:21.440 --> 00:03:26.440]   [Music]
+[00:03:26.440 --> 00:03:31.440]   [Music]
+[00:03:31.440 --> 00:03:36.440]   [Music]
+[00:03:36.440 --> 00:03:41.440]   [Music]
+[00:03:41.440 --> 00:03:46.440]   [Music]
+[00:03:46.440 --> 00:03:51.440]   [Music]
+[00:03:51.440 --> 00:03:56.440]   [Music]
+[00:03:56.440 --> 00:04:01.440]   [Music]
+[00:04:01.440 --> 00:04:06.440]   [Music]
+[00:04:06.440 --> 00:04:11.440]   [Music]
+[00:04:11.440 --> 00:04:16.440]   [Music]
+[00:04:16.440 --> 00:04:21.440]   [Music]
+[00:04:21.440 --> 00:04:26.440]   [Music]
+[00:04:26.440 --> 00:04:31.440]   [Music]
+[00:04:31.440 --> 00:04:36.440]   [Music]
+[00:04:36.440 --> 00:04:41.440]   [Music]
+[00:04:41.440 --> 00:04:46.440]   [Music]
+[00:04:46.440 --> 00:04:51.440]   [Music]
+[00:04:51.440 --> 00:04:56.440]   [Music]
+[00:04:56.440 --> 00:05:01.440]   [Music]
+[00:05:01.440 --> 00:05:06.440]   [Music]
+[00:05:06.440 --> 00:05:11.440]   [Music]
+[00:05:11.440 --> 00:05:16.440]   [Music]
+[00:05:16.440 --> 00:05:21.440]   [Music]
+[00:05:21.440 --> 00:05:26.440]   [Music]
+[00:05:26.440 --> 00:05:31.440]   [Music]
+[00:05:31.440 --> 00:05:36.440]   [Music]
+[00:05:36.440 --> 00:05:41.440]   [Music]
+[00:05:41.440 --> 00:05:46.440]   [Music]
+[00:05:46.440 --> 00:05:51.440]   [Music]
+[00:05:51.440 --> 00:05:56.440]   [Music]
+[00:05:56.440 --> 00:06:01.440]   [Music]
+[00:06:01.440 --> 00:06:06.440]   [Music]
+[00:06:06.440 --> 00:06:11.440]   [Music]
+[00:06:11.440 --> 00:06:16.440]   [Music]
+[00:06:16.440 --> 00:06:21.440]   [Music]
+[00:06:21.440 --> 00:06:26.440]   [Music]
+[00:06:26.440 --> 00:06:31.440]   [Music]
+[00:06:31.440 --> 00:06:36.440]   [Music]
+[00:06:36.440 --> 00:06:41.440]   [Music]
+[00:06:41.440 --> 00:06:46.440]   [Music]
+[00:06:46.440 --> 00:06:51.440]   [Music]
+[00:06:51.440 --> 00:06:56.440]   [Music]
+[00:06:56.440 --> 00:07:01.440]   [Music]
+[00:07:01.440 --> 00:07:06.440]   [Music]
+[00:07:06.440 --> 00:07:11.440]   [Music]
+[00:07:11.440 --> 00:07:16.440]   [Music]
+[00:07:16.440 --> 00:07:21.440]   [Music]
+[00:07:21.440 --> 00:07:26.440]   [Music]
+[00:07:26.440 --> 00:07:31.440]   [Music]
+[00:07:31.440 --> 00:07:36.440]   [Music]
+[00:07:36.440 --> 00:07:41.440]   [Music]
+[00:07:41.440 --> 00:07:46.440]   [Music]
+[00:07:46.440 --> 00:07:51.440]   [Music]
+[00:07:51.440 --> 00:07:56.440]   [Music]
+[00:07:56.440 --> 00:08:01.440]   [Music]
+[00:08:01.440 --> 00:08:06.440]   [Music]
+[00:08:06.440 --> 00:08:11.440]   [Music]
+[00:08:11.440 --> 00:08:16.440]   [Music]
+[00:08:16.440 --> 00:08:21.440]   [Music]
+[00:08:21.440 --> 00:08:26.440]   [Music]
+[00:08:26.440 --> 00:08:31.440]   [Music]
+[00:08:31.440 --> 00:08:36.440]   [Music]
+[00:08:36.440 --> 00:08:41.440]   [Music]
+[00:08:41.440 --> 00:08:46.440]   [Music]
+[00:08:46.440 --> 00:08:51.440]   [Music]
+[00:08:51.440 --> 00:08:56.440]   [Music]
+[00:08:56.440 --> 00:09:01.440]   [Music]
+[00:09:01.440 --> 00:09:06.440]   [Music]
+[00:09:06.440 --> 00:09:11.440]   [Music]
+[00:09:11.440 --> 00:09:16.440]   [Music]
+[00:09:16.440 --> 00:09:21.440]   [Music]
+[00:09:21.440 --> 00:09:26.440]   [Music]
+[00:09:26.440 --> 00:09:31.440]   [Music]
+[00:09:31.440 --> 00:09:36.440]   [Music]
+[00:09:36.440 --> 00:09:41.440]   [Music]
+[00:09:41.440 --> 00:09:46.440]   [Music]
+[00:09:46.440 --> 00:09:51.440]   [Music]
+[00:09:51.440 --> 00:09:56.440]   [Music]
+[00:09:56.440 --> 00:10:01.440]   [Music]
+[00:10:01.440 --> 00:10:06.440]   [Music]
+[00:10:06.440 --> 00:10:11.440]   [Music]
+[00:10:11.440 --> 00:10:16.440]   [Music]
+[00:10:16.440 --> 00:10:21.440]   [Music]
+[00:10:21.440 --> 00:10:26.440]   [Music]
+[00:10:26.440 --> 00:10:31.440]   [Music]
+[00:10:31.440 --> 00:10:36.440]   [Music]
+[00:10:36.440 --> 00:10:41.440]   [Music]
+[00:10:41.440 --> 00:10:46.440]   [Music]
+[00:10:46.440 --> 00:10:51.440]   >> Heavenly Father, we come singing this song to you.
+[00:10:51.440 --> 00:10:59.440]   Father, recognizing that so often we don't see you in such a light.
+[00:10:59.440 --> 00:11:04.440]   But God, we come to you tonight with a desire as a church to pray,
+[00:11:04.440 --> 00:11:08.440]   entering into your presence, remembering who you are.
+[00:11:08.440 --> 00:11:12.440]   And so, Father, tonight I pray for a fruitful time.
+[00:11:12.440 --> 00:11:21.440]   Not fruitful just based upon how we might feel or whatever just natural sight that we might have.
+[00:11:21.440 --> 00:11:25.440]   But Lord, spiritually, that we'd be engaged.
+[00:11:25.440 --> 00:11:30.440]   And God, that we would have an opportunity tonight to lay all these things down before you.
+[00:11:30.440 --> 00:11:32.440]   So thank you, Lord, for the privilege to pray together.
+[00:11:32.440 --> 00:11:36.440]   In Jesus' name we pray. Amen.
+[00:11:36.440 --> 00:11:39.440]   Okay, well, welcome to All Church Praise and Prayer.
+[00:11:39.440 --> 00:11:42.440]   It's dark. I cannot see a single face right now.
+[00:11:42.440 --> 00:11:47.440]   But we are here gathered every once a month to do this, to pray.
+[00:11:47.440 --> 00:11:50.440]   And I hope that it is a sweet time for all of us.
+[00:11:50.440 --> 00:11:58.440]   And tonight we're going to be giving you as much just unhindered time as possible for you to be praying on your own.
+[00:11:58.440 --> 00:12:04.440]   And so we're going to be starting off with just a call into this passage, 1 Peter 4, verse 7,
+[00:12:04.440 --> 00:12:08.440]   which we'll post up for you here where it says, "The end of all things is near.
+[00:12:08.440 --> 00:12:14.440]   Therefore, be of sound judgment and sober spirit for the purpose of prayer."
+[00:12:14.440 --> 00:12:17.440]   And one more time, just to look at those words, I've broken it down a little bit.
+[00:12:17.440 --> 00:12:21.440]   But it says, "Therefore, be of sound judgment and sober spirit."
+[00:12:21.440 --> 00:12:24.440]   And then it concludes by saying, "For the purpose of prayer."
+[00:12:24.440 --> 00:12:28.440]   And as we've been having that similar theme for the last couple years,
+[00:12:28.440 --> 00:12:33.440]   just recognizing what it is that sometimes we might sit here and pray for soberness.
+[00:12:33.440 --> 00:12:35.440]   We've talked about this now a few times.
+[00:12:35.440 --> 00:12:39.440]   But to recognize that here in this passage it's saying that you don't pray for soberness,
+[00:12:39.440 --> 00:12:42.440]   you need soberness in order to pray properly.
+[00:12:42.440 --> 00:12:47.440]   It's something that we need in order to engage with the Lord.
+[00:12:47.440 --> 00:12:55.440]   And so our effectiveness in prayer is going to be very much based upon our level of soberness.
+[00:12:55.440 --> 00:12:59.440]   Now, sometimes these things become very circular.
+[00:12:59.440 --> 00:13:02.440]   It's not something that we're going to have down all the time.
+[00:13:02.440 --> 00:13:06.440]   It's not going to be--we're in a prayerful attitude and a mood all the time.
+[00:13:06.440 --> 00:13:11.440]   And yet, entering into soberness is something that we can actually do.
+[00:13:11.440 --> 00:13:19.440]   And so tonight, instead of tonight having a bunch of just constant prayer requests going out on the screen,
+[00:13:19.440 --> 00:13:24.440]   what we're going to have for you are four pitfalls to prayer.
+[00:13:24.440 --> 00:13:28.440]   And the reason why I'm going to be putting up four pitfalls to prayer
+[00:13:28.440 --> 00:13:31.440]   is actually to accomplish the very opposite of that.
+[00:13:31.440 --> 00:13:36.440]   So seeing that there are pitfalls in prayer, dangers when it comes to our prayers,
+[00:13:36.440 --> 00:13:43.440]   let's try to be aware of that and then engage in exactly the opposite manner.
+[00:13:43.440 --> 00:13:49.440]   It's usually the way the enemy works is he desires to use whatever advantage that he has
+[00:13:49.440 --> 00:13:54.440]   to kind of manipulate and to provoke and cause us to go down these certain paths.
+[00:13:54.440 --> 00:14:02.440]   If we're aware of some of these pitfalls, then we can be soberly engaging against it.
+[00:14:02.440 --> 00:14:07.440]   So to give a little bit of instruction first before I go into how this is going to look
+[00:14:07.440 --> 00:14:14.440]   means that there's going to be a long, a more extended, maybe about 10, sometimes 15 minutes of prayer
+[00:14:14.440 --> 00:14:20.440]   that's going to be just lengthy where there is going to be no real guidance from me up here
+[00:14:20.440 --> 00:14:24.440]   other than the periodic times I'll take us into some of the prayer requests.
+[00:14:24.440 --> 00:14:29.440]   So during those longer stretches, it is a muscle that you're going to have to build up again tonight.
+[00:14:29.440 --> 00:14:34.440]   That means you will have to fight for soberness tonight because after some time in prayer,
+[00:14:34.440 --> 00:14:39.440]   it might become difficult to continue in prayer, but to wrestle through that.
+[00:14:39.440 --> 00:14:46.440]   Now what the Praise Team is here to do is to help us to be able to actually sing
+[00:14:46.440 --> 00:14:50.440]   and to worship and to pray and to kind of go in and out.
+[00:14:50.440 --> 00:14:54.440]   So without much prompting, sometimes they're going to start singing
+[00:14:54.440 --> 00:14:57.440]   and that's not going to be a cue for you to just stop praying.
+[00:14:57.440 --> 00:15:04.440]   You can continue to pray through those times, or you can join in and sing some more as well
+[00:15:04.440 --> 00:15:06.440]   and then go back into prayer.
+[00:15:06.440 --> 00:15:08.440]   So that's what it's going to look like tonight.
+[00:15:08.440 --> 00:15:14.440]   So there's going to be five prayer topics we're going through, four pitfalls, and then a final prayer.
+[00:15:14.440 --> 00:15:19.440]   So the first two pitfalls, the first one is going to be praying without thought.
+[00:15:19.440 --> 00:15:25.440]   That's the first pitfall, when we pray without really engaging our minds.
+[00:15:25.440 --> 00:15:31.440]   Now that's why if you are aware, sometimes you become very self-aware of prayer
+[00:15:31.440 --> 00:15:36.440]   when you feel like you're kind of saying things without thinking,
+[00:15:36.440 --> 00:15:43.440]   when phrases that are coming up out of your mouth, out of your heart, seem to be repetitious
+[00:15:43.440 --> 00:15:49.440]   or they don't have a ton of content to it, or it just seems like something that you habitually
+[00:15:49.440 --> 00:15:53.440]   have been accustomed now to say these things.
+[00:15:53.440 --> 00:15:57.440]   A lot of maybe Christian phrases, a lot of filler words,
+[00:15:57.440 --> 00:16:03.440]   and this first pitfall to combat it is to say, "Let's try to pray with thought."
+[00:16:03.440 --> 00:16:04.440]   Let's pray with thought.
+[00:16:04.440 --> 00:16:07.440]   Let me read for us Matthew 6, verse 7.
+[00:16:07.440 --> 00:16:11.440]   "And when you are praying, do not use meaningless repetition as the Gentiles do,
+[00:16:11.440 --> 00:16:14.440]   for we suppose that they will be heard for their many words.
+[00:16:14.440 --> 00:16:19.440]   So do not be like them, for your Father knows what you need before you ask Him."
+[00:16:19.440 --> 00:16:25.440]   And so Jesus actually tells this to His disciples, "Don't use meaningless repetition."
+[00:16:25.440 --> 00:16:30.440]   This is an opportunity for us every time we're in prayer to engage with the Lord.
+[00:16:30.440 --> 00:16:37.440]   It's not like the action of prayer in and of itself is anything other than the fact of what it's accomplishing.
+[00:16:37.440 --> 00:16:43.440]   If we just say mindless words, then God would not be pleased with that,
+[00:16:43.440 --> 00:16:46.440]   and that would not be helpful to us.
+[00:16:46.440 --> 00:16:51.440]   And so to pray with thought is to also fill our minds then with content.
+[00:16:51.440 --> 00:16:54.440]   Instead of just saying like, "Thank you for food, thank you for my home,
+[00:16:54.440 --> 00:16:59.440]   thank you for all the things that you've given me, my job, I pray for this person,"
+[00:16:59.440 --> 00:17:03.440]   tonight really to engage in some of the text that I put up here.
+[00:17:03.440 --> 00:17:07.440]   I know that the font is a little small, so if you can't see it and you're in the back,
+[00:17:07.440 --> 00:17:11.440]   you might want to kind of try to move up somewhere down the nighttime.
+[00:17:11.440 --> 00:17:16.440]   But I put up a few passages here, and some of you know what it is to pray through Scripture,
+[00:17:16.440 --> 00:17:19.440]   but that's what I'm going to be asking you to do tonight.
+[00:17:19.440 --> 00:17:25.440]   So to take time in the middle of prayer to look up, read the text,
+[00:17:25.440 --> 00:17:32.440]   and to pray some of the desires that God has for us and pray it right back to Him.
+[00:17:32.440 --> 00:17:35.440]   So for example, in Ephesians 1, verse 18, when it says,
+[00:17:35.440 --> 00:17:38.440]   "I pray that the eyes of your heart may be enlightened,"
+[00:17:38.440 --> 00:17:40.440]   that's something that you can pray to God.
+[00:17:40.440 --> 00:17:43.440]   "God, would you enlighten the eyes of my heart?
+[00:17:43.440 --> 00:17:47.440]   Would you help me to see where I can't see?
+[00:17:47.440 --> 00:17:50.440]   Would you help me in the places where I have grown blind
+[00:17:50.440 --> 00:17:53.440]   or I have turned purposely a blind eye towards?"
+[00:17:53.440 --> 00:17:57.440]   And so to launch off of Scripture and to pray a little bit more content,
+[00:17:57.440 --> 00:18:01.440]   a little bit more what it is that God would desire for us
+[00:18:01.440 --> 00:18:06.440]   because we want to do His will, and He has given us His will.
+[00:18:06.440 --> 00:18:10.440]   And so that ought to be many times how we pray.
+[00:18:10.440 --> 00:18:16.440]   So I just gave two short passages up there that have to deal with just engaging the mind,
+[00:18:16.440 --> 00:18:21.440]   the thought, filling ourselves with understanding,
+[00:18:21.440 --> 00:18:26.440]   and ultimately tonight in this first one to look to God in Scripture
+[00:18:26.440 --> 00:18:30.440]   because if we want to fill our minds with the things of God,
+[00:18:30.440 --> 00:18:35.440]   what else can we actually engage in other than Scripture?
+[00:18:35.440 --> 00:18:39.440]   Everything ought to kind of flow up out of there as a basis.
+[00:18:39.440 --> 00:18:43.440]   And so you don't need to sit there and just pray every line of the Scriptures,
+[00:18:43.440 --> 00:18:47.440]   but let it help become like the propelling agent tonight,
+[00:18:47.440 --> 00:18:49.440]   that the Scriptures would be what you're praying,
+[00:18:49.440 --> 00:18:52.440]   and it would be the rooting factor in your prayer.
+[00:18:52.440 --> 00:18:53.440]   So that's the first pitfall.
+[00:18:53.440 --> 00:18:59.440]   The second one is praying without presence, without God's presence.
+[00:18:59.440 --> 00:19:02.440]   And so then to combat that, to engage in prayer tonight,
+[00:19:02.440 --> 00:19:07.440]   I'm going to be asking you to pray in His presence.
+[00:19:07.440 --> 00:19:12.440]   Now this is such a fascinating thing because we're very much aware that God is an omnipresent God.
+[00:19:12.440 --> 00:19:14.440]   He is here with us in this room.
+[00:19:14.440 --> 00:19:17.440]   He has never been away.
+[00:19:17.440 --> 00:19:25.440]   And yet to recognize what it is that He is near is very important when we pray.
+[00:19:25.440 --> 00:19:31.440]   Even though the first pitfall I mentioned was about just mindlessly or thoughtlessly praying,
+[00:19:31.440 --> 00:19:34.440]   praying is not just thinking either.
+[00:19:34.440 --> 00:19:39.440]   It's not sitting down and closing our eyes and having godly thoughts.
+[00:19:39.440 --> 00:19:48.440]   It's recognizing who He is and then praying to Him as if we are talking to someone.
+[00:19:48.440 --> 00:19:57.440]   Now like prayer has become so much so habitual to us where we can pray minutes of prayer,
+[00:19:57.440 --> 00:20:04.440]   just extended times of prayer without ever really engaging the Lord in His presence.
+[00:20:04.440 --> 00:20:11.440]   So in soberness to see, "God, you're here and I'm talking to you," that would be the second pitfall.
+[00:20:11.440 --> 00:20:16.440]   So the passage I have for you up there is in Psalm 63 that shows us what it would be like
+[00:20:16.440 --> 00:20:24.440]   to be someone like David who sees the absolute hunger and thirst that he has inside,
+[00:20:24.440 --> 00:20:30.440]   the craving he has for God and His very presence.
+[00:20:30.440 --> 00:20:37.440]   And so to pray those things right back to God, to pray these words, this Psalm,
+[00:20:37.440 --> 00:20:43.440]   and say, "God, this is what I desire tonight," to pray in your presence.
+[00:20:43.440 --> 00:20:48.440]   Remember how much God desires a relationship with you.
+[00:20:48.440 --> 00:20:54.440]   Remember how much He's probably been trying to catch your attention today.
+[00:20:54.440 --> 00:21:01.440]   How there has been grace after grace after grace that He's been extending towards you.
+[00:21:01.440 --> 00:21:12.440]   Remember that He wants to engage with you, that He wants to love you and He wants you to love Him.
+[00:21:12.440 --> 00:21:21.440]   Remember that God in His joy and delight, He wants to hear from us.
+[00:21:21.440 --> 00:21:25.440]   He wants us to open ourselves to His presence.
+[00:21:25.440 --> 00:21:28.440]   He wants us to kind of look up at Him, to square our shoulders.
+[00:21:28.440 --> 00:21:34.440]   For you parents, if you've ever had a kid come home after some event and you want to talk to them,
+[00:21:34.440 --> 00:21:38.440]   but they don't want to talk to you, you know what it's like.
+[00:21:38.440 --> 00:21:43.440]   They're not engaging, they're giving one-word answers, they're on their phones.
+[00:21:43.440 --> 00:21:47.440]   But what I mean by praying in His presence is to square your shoulders,
+[00:21:47.440 --> 00:21:52.440]   to lock eyes on God, and to speak to Him,
+[00:21:52.440 --> 00:21:57.440]   and to pray in a manner that is not just worthy of the gospel,
+[00:21:57.440 --> 00:22:02.440]   but in a manner that He so desires of us tonight.
+[00:22:02.440 --> 00:22:06.440]   So those are going to be the first two prayer requests that we're going to be kind of going through.
+[00:22:06.440 --> 00:22:12.440]   I have on the right side there some bullet points if you need a little bit of help,
+[00:22:12.440 --> 00:22:14.440]   but I've kept it very open-ended.
+[00:22:14.440 --> 00:22:17.440]   So it is going to be on you tonight to engage.
+[00:22:17.440 --> 00:22:20.440]   So we're going to now have an extended time of prayer.
+[00:22:20.440 --> 00:22:24.440]   And after that extended time, I'll be coming up to give the next two.
+[00:22:24.440 --> 00:22:28.440]   Let me just pray for us to enter into this time.
+[00:22:28.440 --> 00:22:34.440]   Heavenly Father, according to Your Word, the enemy is very near.
+[00:22:34.440 --> 00:22:39.440]   Father, he desires to take down the believer.
+[00:22:39.440 --> 00:22:47.440]   And Father, he will use whatever is at his disposal to manipulate, to topple over, to devour.
+[00:22:47.440 --> 00:22:52.440]   So God, I pray for a hundred sober hearts in this room tonight.
+[00:22:52.440 --> 00:22:59.440]   Father, I pray for every single one of us to engage, that our minds would be engaged,
+[00:22:59.440 --> 00:23:01.440]   that we'd be ready to wrestle.
+[00:23:01.440 --> 00:23:07.440]   And Father, that we would take a moment to say, "This is worth entering into the presence of our God."
+[00:23:07.440 --> 00:23:14.440]   Father, would You let this then be a time that is both pleasing to You and so good for us.
+[00:23:14.440 --> 00:23:16.440]   In Jesus' name I pray. Amen.
+[00:23:17.440 --> 00:23:19.440]   [music]
+[00:23:20.440 --> 00:23:22.440]   [music]
+[00:23:23.440 --> 00:23:25.440]   [music]
+[00:23:25.440 --> 00:23:35.440]   [music]
+[00:23:35.440 --> 00:23:45.440]   [music]
+[00:23:46.440 --> 00:23:48.440]   [music]
+[00:23:48.440 --> 00:23:54.440]   [music]
+[00:23:54.440 --> 00:24:03.440]   [music]
+[00:24:03.440 --> 00:24:12.440]   [music]
+[00:24:13.440 --> 00:24:15.440]   [music]
+[00:24:15.440 --> 00:24:28.440]   [music]
+[00:24:29.440 --> 00:24:31.440]   [music]
+[00:24:31.440 --> 00:24:40.440]   [music]
+[00:24:40.440 --> 00:24:50.440]   [music]
+[00:24:51.440 --> 00:24:53.440]   [music]
+[00:24:53.440 --> 00:25:04.440]   [music]
+[00:25:04.440 --> 00:25:14.440]   [music]
+[00:25:15.440 --> 00:25:17.440]   [music]
+[00:25:17.440 --> 00:25:26.440]   [music]
+[00:25:26.440 --> 00:25:36.440]   [music]
+[00:25:37.440 --> 00:25:39.440]   [music]
+[00:25:39.440 --> 00:25:52.440]   [music]
+[00:25:53.440 --> 00:25:55.440]   [music]
+[00:25:55.440 --> 00:26:06.440]   [music]
+[00:26:06.440 --> 00:26:16.440]   [music]
+[00:26:17.440 --> 00:26:19.440]   [music]
+[00:26:19.440 --> 00:26:27.440]   [music]
+[00:26:27.440 --> 00:26:37.440]   [music]
+[00:26:38.440 --> 00:26:40.440]   [music]
+[00:26:40.440 --> 00:26:50.440]   [music]
+[00:26:50.440 --> 00:26:58.440]   [music]
+[00:26:59.440 --> 00:27:01.440]   [music]
+[00:27:01.440 --> 00:27:10.440]   [music]
+[00:27:10.440 --> 00:27:20.440]   [music]
+[00:27:21.440 --> 00:27:23.440]   [music]
+[00:27:23.440 --> 00:27:33.440]   [music]
+[00:27:33.440 --> 00:27:41.440]   [music]
+[00:27:42.440 --> 00:27:44.440]   [music]
+[00:27:44.440 --> 00:27:52.440]   [music]
+[00:27:52.440 --> 00:27:58.440]   [music]
+[00:27:58.440 --> 00:28:05.440]   [music]
+[00:28:06.440 --> 00:28:08.440]   [music]
+[00:28:08.440 --> 00:28:16.440]   [music]
+[00:28:16.440 --> 00:28:22.440]   [music]
+[00:28:22.440 --> 00:28:30.440]   [music]
+[00:28:31.440 --> 00:28:33.440]   [music]
+[00:28:33.440 --> 00:28:39.440]   [music]
+[00:28:39.440 --> 00:28:45.440]   [music]
+[00:28:45.440 --> 00:28:51.440]   [music]
+[00:28:51.440 --> 00:28:57.440]   [music]
+[00:28:58.440 --> 00:29:00.440]   [music]
+[00:29:00.440 --> 00:29:06.440]   [music]
+[00:29:06.440 --> 00:29:12.440]   [music]
+[00:29:12.440 --> 00:29:18.440]   [music]
+[00:29:18.440 --> 00:29:24.440]   [music]
+[00:29:25.440 --> 00:29:27.440]   [music]
+[00:29:27.440 --> 00:29:32.440]   [music]
+[00:29:32.440 --> 00:29:38.440]   [music]
+[00:29:38.440 --> 00:29:44.440]   [music]
+[00:29:44.440 --> 00:29:50.440]   [music]
+[00:29:51.440 --> 00:29:53.440]   [music]
+[00:29:53.440 --> 00:29:59.440]   [music]
+[00:29:59.440 --> 00:30:05.440]   [music]
+[00:30:05.440 --> 00:30:11.440]   [music]
+[00:30:11.440 --> 00:30:17.440]   [music]
+[00:30:18.440 --> 00:30:20.440]   [music]
+[00:30:20.440 --> 00:30:26.440]   [music]
+[00:30:26.440 --> 00:30:32.440]   [music]
+[00:30:32.440 --> 00:30:38.440]   [music]
+[00:30:38.440 --> 00:30:44.440]   [music]
+[00:30:45.440 --> 00:30:47.440]   [music]
+[00:30:47.440 --> 00:30:53.440]   [music]
+[00:30:53.440 --> 00:30:59.440]   [music]
+[00:30:59.440 --> 00:31:05.440]   [music]
+[00:31:05.440 --> 00:31:11.440]   [music]
+[00:31:12.440 --> 00:31:14.440]   [music]
+[00:31:14.440 --> 00:31:20.440]   [music]
+[00:31:20.440 --> 00:31:26.440]   [music]
+[00:31:26.440 --> 00:31:32.440]   [music]
+[00:31:32.440 --> 00:31:38.440]   [music]
+[00:31:39.440 --> 00:31:41.440]   [music]
+[00:31:41.440 --> 00:31:47.440]   [music]
+[00:31:47.440 --> 00:31:53.440]   [music]
+[00:31:53.440 --> 00:31:59.440]   [music]
+[00:31:59.440 --> 00:32:05.440]   [music]
+[00:32:06.440 --> 00:32:08.440]   [music]
+[00:32:08.440 --> 00:32:14.440]   [music]
+[00:32:14.440 --> 00:32:20.440]   [music]
+[00:32:20.440 --> 00:32:27.440]   [music]
+[00:32:27.440 --> 00:32:33.440]   [music]
+[00:32:34.440 --> 00:32:36.440]   [music]
+[00:32:36.440 --> 00:32:45.440]   [music]
+[00:32:45.440 --> 00:32:53.440]   [music]
+[00:32:53.440 --> 00:33:01.440]   [music]
+[00:33:02.440 --> 00:33:04.440]   [music]
+[00:33:04.440 --> 00:33:10.440]   [music]
+[00:33:10.440 --> 00:33:16.440]   [music]
+[00:33:16.440 --> 00:33:24.440]   [music]
+[00:33:30.440 --> 00:33:32.440]   [music]
+[00:33:32.440 --> 00:33:39.440]   [music]
+[00:33:39.440 --> 00:33:46.440]   [music]
+[00:33:46.440 --> 00:33:52.440]   [music]
+[00:33:58.440 --> 00:34:00.440]   [music]
+[00:34:00.440 --> 00:34:08.440]   [music]
+[00:34:08.440 --> 00:34:16.440]   [music]
+[00:34:16.440 --> 00:34:24.440]   [music]
+[00:34:25.440 --> 00:34:27.440]   [music]
+[00:34:27.440 --> 00:34:35.440]   [music]
+[00:34:35.440 --> 00:34:42.440]   [music]
+[00:34:42.440 --> 00:34:50.440]   [music]
+[00:34:51.440 --> 00:34:53.440]   [music]
+[00:34:53.440 --> 00:35:01.440]   [music]
+[00:35:01.440 --> 00:35:08.440]   [music]
+[00:35:08.440 --> 00:35:16.440]   [music]
+[00:35:17.440 --> 00:35:19.440]   [music]
+[00:35:19.440 --> 00:35:27.440]   [music]
+[00:35:27.440 --> 00:35:33.440]   [music]
+[00:35:33.440 --> 00:35:41.440]   [music]
+[00:35:42.440 --> 00:35:44.440]   [music]
+[00:35:44.440 --> 00:35:53.440]   [music]
+[00:35:53.440 --> 00:36:01.440]   [music]
+[00:36:01.440 --> 00:36:08.440]   [music]
+[00:36:09.440 --> 00:36:11.440]   [music]
+[00:36:11.440 --> 00:36:17.440]   [music]
+[00:36:17.440 --> 00:36:23.440]   [music]
+[00:36:23.440 --> 00:36:29.440]   [music]
+[00:36:29.440 --> 00:36:36.440]   [music]
+[00:36:36.440 --> 00:36:38.440]   [music]
+[00:36:38.440 --> 00:36:44.440]   [music]
+[00:36:44.440 --> 00:36:50.440]   [music]
+[00:36:50.440 --> 00:36:58.440]   [music]
+[00:37:04.440 --> 00:37:06.440]   [music]
+[00:37:06.440 --> 00:37:12.440]   [music]
+[00:37:12.440 --> 00:37:18.440]   [music]
+[00:37:18.440 --> 00:37:26.440]   [music]
+[00:37:26.440 --> 00:37:32.440]   [music]
+[00:37:33.440 --> 00:37:35.440]   [music]
+[00:37:35.440 --> 00:37:41.440]   [music]
+[00:37:41.440 --> 00:37:46.440]   [music]
+[00:37:46.440 --> 00:37:52.440]   [music]
+[00:37:52.440 --> 00:37:58.440]   [music]
+[00:37:58.440 --> 00:38:00.440]   [music]
+[00:38:00.440 --> 00:38:06.440]   [music]
+[00:38:06.440 --> 00:38:12.440]   [music]
+[00:38:12.440 --> 00:38:18.440]   [music]
+[00:38:18.440 --> 00:38:24.440]   [music]
+[00:38:24.440 --> 00:38:26.440]   [music]
+[00:38:26.440 --> 00:38:32.440]   [music]
+[00:38:32.440 --> 00:38:38.440]   [music]
+[00:38:38.440 --> 00:38:44.440]   [music]
+[00:38:44.440 --> 00:38:50.440]   [music]
+[00:38:50.440 --> 00:38:52.440]   [music]
+[00:38:52.440 --> 00:38:58.440]   [music]
+[00:38:58.440 --> 00:39:04.440]   [music]
+[00:39:04.440 --> 00:39:10.440]   [music]
+[00:39:10.440 --> 00:39:16.440]   [music]
+[00:39:16.440 --> 00:39:18.440]   [music]
+[00:39:18.440 --> 00:39:24.440]   [music]
+[00:39:24.440 --> 00:39:30.440]   [music]
+[00:39:30.440 --> 00:39:36.440]   [music]
+[00:39:36.440 --> 00:39:42.440]   [music]
+[00:39:42.440 --> 00:39:44.440]   [music]
+[00:39:44.440 --> 00:39:50.440]   [music]
+[00:39:50.440 --> 00:39:56.440]   [music]
+[00:39:56.440 --> 00:40:02.440]   [music]
+[00:40:02.440 --> 00:40:08.440]   [music]
+[00:40:08.440 --> 00:40:10.440]   [music]
+[00:40:10.440 --> 00:40:16.440]   [music]
+[00:40:16.440 --> 00:40:22.440]   [music]
+[00:40:22.440 --> 00:40:28.440]   [music]
+[00:40:28.440 --> 00:40:34.440]   [music]
+[00:40:34.440 --> 00:40:36.440]   [music]
+[00:40:36.440 --> 00:40:42.440]   [music]
+[00:40:42.440 --> 00:40:48.440]   [music]
+[00:40:48.440 --> 00:40:54.440]   [music]
+[00:40:54.440 --> 00:41:00.440]   [music]
+[00:41:00.440 --> 00:41:02.440]   [music]
+[00:41:02.440 --> 00:41:08.440]   [music]
+[00:41:08.440 --> 00:41:14.440]   [music]
+[00:41:14.440 --> 00:41:20.440]   [music]
+[00:41:20.440 --> 00:41:26.440]   [music]
+[00:41:26.440 --> 00:41:28.440]   [music]
+[00:41:28.440 --> 00:41:34.440]   [music]
+[00:41:34.440 --> 00:41:40.440]   [music]
+[00:41:40.440 --> 00:41:46.440]   [music]
+[00:41:46.440 --> 00:41:52.440]   [music]
+[00:41:52.440 --> 00:41:54.440]   [music]
+[00:41:54.440 --> 00:42:04.440]   [music]
+[00:42:04.440 --> 00:42:12.440]   [music]
+[00:42:12.440 --> 00:42:14.440]   [music]
+[00:42:14.440 --> 00:42:20.440]   [music]
+[00:42:20.440 --> 00:42:26.440]   [music]
+[00:42:26.440 --> 00:42:34.440]   [music]
+[00:42:34.440 --> 00:42:40.440]   [music]
+[00:42:40.440 --> 00:42:42.440]   [music]
+[00:42:42.440 --> 00:42:54.440]   [music]
+[00:42:54.440 --> 00:43:02.440]   [music]
+[00:43:02.440 --> 00:43:04.440]   [music]
+[00:43:04.440 --> 00:43:14.440]   [music]
+[00:43:14.440 --> 00:43:24.440]   [music]
+[00:43:24.440 --> 00:43:26.440]   [music]
+[00:43:26.440 --> 00:43:36.440]   [music]
+[00:43:36.440 --> 00:43:44.440]   [music]
+[00:43:44.440 --> 00:43:52.440]   [music]
+[00:43:52.440 --> 00:43:54.440]   [music]
+[00:43:54.440 --> 00:44:00.440]   [music]
+[00:44:00.440 --> 00:44:08.440]   [music]
+[00:44:08.440 --> 00:44:16.440]   [music]
+[00:44:16.440 --> 00:44:18.440]   [music]
+[00:44:18.440 --> 00:44:24.440]   [music]
+[00:44:24.440 --> 00:44:30.440]   [music]
+[00:44:30.440 --> 00:44:36.440]   [music]
+[00:44:36.440 --> 00:44:42.440]   [music]
+[00:44:42.440 --> 00:44:44.440]   [music]
+[00:44:44.440 --> 00:44:50.440]   [music]
+[00:44:50.440 --> 00:44:56.440]   [music]
+[00:44:56.440 --> 00:45:04.440]   [music]
+[00:45:10.440 --> 00:45:12.440]   [music]
+[00:45:12.440 --> 00:45:20.440]   [music]
+[00:45:20.440 --> 00:45:28.440]   [music]
+[00:45:28.440 --> 00:45:36.440]   [music]
+[00:45:36.440 --> 00:45:38.440]   [music]
+[00:45:38.440 --> 00:45:44.440]   [music]
+[00:45:44.440 --> 00:45:50.440]   [music]
+[00:45:50.440 --> 00:45:56.440]   [music]
+[00:45:56.440 --> 00:46:02.440]   [music]
+[00:46:02.440 --> 00:46:04.440]   [music]
+[00:46:04.440 --> 00:46:10.440]   [music]
+[00:46:10.440 --> 00:46:16.440]   [music]
+[00:46:16.440 --> 00:46:22.440]   [music]
+[00:46:22.440 --> 00:46:28.440]   [music]
+[00:46:28.440 --> 00:46:30.440]   [music]
+[00:46:30.440 --> 00:46:36.440]   [music]
+[00:46:36.440 --> 00:46:42.440]   [music]
+[00:46:42.440 --> 00:46:48.440]   [music]
+[00:46:48.440 --> 00:46:54.440]   [music]
+[00:46:54.440 --> 00:46:56.440]   [music]
+[00:46:56.440 --> 00:47:02.440]   [music]
+[00:47:02.440 --> 00:47:08.440]   [music]
+[00:47:08.440 --> 00:47:14.440]   [music]
+[00:47:14.440 --> 00:47:20.440]   [music]
+[00:47:20.440 --> 00:47:22.440]   [music]
+[00:47:22.440 --> 00:47:28.440]   [music]
+[00:47:28.440 --> 00:47:34.440]   [music]
+[00:47:34.440 --> 00:47:40.440]   [music]
+[00:47:40.440 --> 00:47:46.440]   [music]
+[00:47:46.440 --> 00:47:48.440]   [music]
+[00:47:48.440 --> 00:47:54.440]   [music]
+[00:47:54.440 --> 00:48:00.440]   [music]
+[00:48:00.440 --> 00:48:06.440]   [music]
+[00:48:06.440 --> 00:48:12.440]   [music]
+[00:48:12.440 --> 00:48:14.440]   [music]
+[00:48:14.440 --> 00:48:20.440]   [music]
+[00:48:20.440 --> 00:48:26.440]   [music]
+[00:48:26.440 --> 00:48:32.440]   [music]
+[00:48:32.440 --> 00:48:38.440]   [music]
+[00:48:38.440 --> 00:48:40.440]   [music]
+[00:48:40.440 --> 00:48:50.440]   [music]
+[00:48:50.440 --> 00:48:58.440]   [music]
+[00:49:06.440 --> 00:49:08.440]   [music]
+[00:49:08.440 --> 00:49:14.440]   [music]
+[00:49:14.440 --> 00:49:20.440]   [music]
+[00:49:20.440 --> 00:49:26.440]   [music]
+[00:49:26.440 --> 00:49:32.440]   [music]
+[00:49:32.440 --> 00:49:34.440]   [music]
+[00:49:34.440 --> 00:49:40.440]   [music]
+[00:49:40.440 --> 00:49:46.440]   [music]
+[00:49:46.440 --> 00:49:52.440]   [music]
+[00:49:52.440 --> 00:49:58.440]   [music]
+[00:49:58.440 --> 00:50:00.440]   [music]
+[00:50:00.440 --> 00:50:06.440]   [music]
+[00:50:06.440 --> 00:50:12.440]   [music]
+[00:50:12.440 --> 00:50:18.440]   [music]
+[00:50:18.440 --> 00:50:24.440]   [music]
+[00:50:24.440 --> 00:50:26.440]   [music]
+[00:50:26.440 --> 00:50:32.440]   [music]
+[00:50:32.440 --> 00:50:38.440]   [music]
+[00:50:38.440 --> 00:50:44.440]   [music]
+[00:50:44.440 --> 00:50:50.440]   [music]
+[00:50:50.440 --> 00:50:52.440]   [music]
+[00:50:52.440 --> 00:50:58.440]   [music]
+[00:50:58.440 --> 00:51:04.440]   [music]
+[00:51:04.440 --> 00:51:10.440]   [music]
+[00:51:10.440 --> 00:51:16.440]   [music]
+[00:51:16.440 --> 00:51:18.440]   [music]
+[00:51:18.440 --> 00:51:24.440]   [music]
+[00:51:24.440 --> 00:51:30.440]   [music]
+[00:51:30.440 --> 00:51:36.440]   [music]
+[00:51:36.440 --> 00:51:42.440]   [music]
+[00:51:42.440 --> 00:51:44.440]   [music]
+[00:51:44.440 --> 00:51:50.440]   [music]
+[00:51:50.440 --> 00:51:56.440]   [music]
+[00:51:56.440 --> 00:52:02.440]   [music]
+[00:52:02.440 --> 00:52:08.440]   [music]
+[00:52:08.440 --> 00:52:10.440]   [music]
+[00:52:10.440 --> 00:52:16.440]   [music]
+[00:52:16.440 --> 00:52:22.440]   [music]
+[00:52:22.440 --> 00:52:28.440]   [music]
+[00:52:28.440 --> 00:52:34.440]   [music]
+[00:52:34.440 --> 00:52:36.440]   [music]
+[00:52:36.440 --> 00:52:42.440]   [music]
+[00:52:42.440 --> 00:52:48.440]   [music]
+[00:52:48.440 --> 00:52:54.440]   [music]
+[00:52:54.440 --> 00:53:00.440]   [music]
+[00:53:00.440 --> 00:53:02.440]   [music]
+[00:53:02.440 --> 00:53:08.440]   [music]
+[00:53:08.440 --> 00:53:14.440]   [music]
+[00:53:14.440 --> 00:53:20.440]   [music]
+[00:53:20.440 --> 00:53:26.440]   [music]
+[00:53:26.440 --> 00:53:28.440]   [music]
+[00:53:28.440 --> 00:53:34.440]   [music]
+[00:53:34.440 --> 00:53:40.440]   [music]
+[00:53:40.440 --> 00:53:46.440]   [music]
+[00:53:46.440 --> 00:53:52.440]   [music]
+[00:53:52.440 --> 00:53:54.440]   [music]
+[00:53:54.440 --> 00:54:00.440]   [music]
+[00:54:00.440 --> 00:54:06.440]   [music]
+[00:54:06.440 --> 00:54:12.440]   [music]
+[00:54:12.440 --> 00:54:18.440]   [music]
+[00:54:18.440 --> 00:54:20.440]   [music]
+[00:54:20.440 --> 00:54:26.440]   [music]
+[00:54:26.440 --> 00:54:32.440]   [music]
+[00:54:32.440 --> 00:54:38.440]   [music]
+[00:54:38.440 --> 00:54:44.440]   [music]
+[00:54:44.440 --> 00:54:46.440]   [music]
+[00:54:46.440 --> 00:54:52.440]   [music]
+[00:54:52.440 --> 00:54:58.440]   [music]
+[00:54:58.440 --> 00:55:04.440]   [music]
+[00:55:04.440 --> 00:55:10.440]   [music]
+[00:55:10.440 --> 00:55:12.440]   [music]
+[00:55:12.440 --> 00:55:18.440]   [music]
+[00:55:18.440 --> 00:55:24.440]   [music]
+[00:55:24.440 --> 00:55:32.440]   [music]
+[00:55:38.440 --> 00:55:40.440]   [music]
+[00:55:40.440 --> 00:55:46.440]   [music]
+[00:55:46.440 --> 00:55:52.440]   [music]
+[00:55:52.440 --> 00:56:00.440]   [music]
+[00:56:06.440 --> 00:56:08.440]   [music]
+[00:56:08.440 --> 00:56:14.440]   [music]
+[00:56:14.440 --> 00:56:20.440]   [music]
+[00:56:20.440 --> 00:56:26.440]   [music]
+[00:56:26.440 --> 00:56:32.440]   [music]
+[00:56:32.440 --> 00:56:34.440]   [music]
+[00:56:34.440 --> 00:56:40.440]   [music]
+[00:56:40.440 --> 00:56:46.440]   [music]
+[00:56:46.440 --> 00:56:52.440]   [music]
+[00:56:52.440 --> 00:56:58.440]   [music]
+[00:56:58.440 --> 00:57:00.440]   [music]
+[00:57:00.440 --> 00:57:06.440]   [music]
+[00:57:06.440 --> 00:57:12.440]   [music]
+[00:57:12.440 --> 00:57:18.440]   [music]
+[00:57:18.440 --> 00:57:24.440]   [music]
+[00:57:24.440 --> 00:57:26.440]   [music]
+[00:57:26.440 --> 00:57:32.440]   [music]
+[00:57:32.440 --> 00:57:38.440]   [music]
+[00:57:38.440 --> 00:57:44.440]   [music]
+[00:57:44.440 --> 00:57:50.440]   [music]
+[00:57:50.440 --> 00:57:52.440]   [music]
+[00:57:52.440 --> 00:57:58.440]   [music]
+[00:57:58.440 --> 00:58:04.440]   [music]
+[00:58:04.440 --> 00:58:10.440]   [music]
+[00:58:10.440 --> 00:58:16.440]   [music]
+[00:58:16.440 --> 00:58:18.440]   [music]
+[00:58:18.440 --> 00:58:30.440]   Our holy, holy God.
+[00:58:30.440 --> 00:58:34.440]   You are the majestic one in power.
+[00:58:34.440 --> 00:58:38.440]   You are, Father, ferocious in your might.
+[00:58:38.440 --> 00:58:42.440]   And God, there is not one like you.
+[00:58:42.440 --> 00:58:45.440]   And Father, we recognize you tonight.
+[00:58:46.440 --> 00:58:47.440]   We give you glory.
+[00:58:47.440 --> 00:58:49.440]   We give you honor and praise.
+[00:58:49.440 --> 00:58:54.440]   Father, in all that you are,
+[00:58:54.440 --> 00:58:58.440]   I want to thank you because
+[00:58:58.440 --> 00:59:05.440]   with the power that you come in, you love us so much.
+[00:59:05.440 --> 00:59:10.440]   And God, you desire to draw near to us as we prayed and sang before.
+[00:59:13.440 --> 00:59:16.440]   Father, that is a staggering truth.
+[00:59:16.440 --> 00:59:20.440]   And I ask you then tonight,
+[00:59:20.440 --> 00:59:23.440]   Father, please don't leave us alone.
+[00:59:23.440 --> 00:59:27.440]   God, there is too much sin in this room.
+[00:59:27.440 --> 00:59:32.440]   Father, there is too much of us
+[00:59:32.440 --> 00:59:36.440]   when this room needs to be filled with you.
+[00:59:36.440 --> 00:59:41.440]   Father, bring discipline because we need you.
+[00:59:42.440 --> 00:59:46.440]   Father, continue to care for us in the way only you can.
+[00:59:46.440 --> 00:59:53.440]   We pray for a church that's filled with people that doesn't just talk.
+[00:59:53.440 --> 00:59:56.440]   But God, that we surrender.
+[00:59:56.440 --> 01:00:01.440]   That we empty ourselves so that you would be seen and that you would be magnified.
+[01:00:01.440 --> 01:00:05.440]   Father, clear away the blindness.
+[01:00:05.440 --> 01:00:10.440]   Clear away, God, the darkness.
+[01:00:11.440 --> 01:00:13.440]   With your steadfast light,
+[01:00:13.440 --> 01:00:17.440]   Father, cause us again to see you.
+[01:00:17.440 --> 01:00:19.440]   In Jesus' name we pray, amen.
+[01:00:19.440 --> 01:00:25.440]   Our last prayer request is going to be just on evangelism.
+[01:00:25.440 --> 01:00:29.440]   And this is a very simple one, and so I didn't add anything to it.
+[01:00:29.440 --> 01:00:32.440]   But everyone that you can think of,
+[01:00:32.440 --> 01:00:35.440]   everyone that comes to your mind,
+[01:00:35.440 --> 01:00:37.440]   even the people you've forgotten,
+[01:00:37.440 --> 01:00:39.440]   the people you've given up on,
+[01:00:39.440 --> 01:00:42.440]   would you bring all of them into prayer tonight?
+[01:00:42.440 --> 01:00:45.440]   We are not going to be concluding service by breaking off into groups.
+[01:00:45.440 --> 01:00:50.440]   So just use the rest of this time here to pray for everyone you can.
+[01:00:50.440 --> 01:00:53.440]   Remember the truths of scripture.
+[01:00:53.440 --> 01:00:55.440]   Remember that tomorrow is not promised to them.
+[01:00:55.440 --> 01:00:57.440]   Pray in urgency.
+[01:00:57.440 --> 01:01:03.440]   Pray remembering all of the might and the fear that we would have of God.
+[01:01:03.440 --> 01:01:07.440]   But also all of the love and the grace that we have in Christ.
+[01:01:08.440 --> 01:01:11.440]   That that is all what we would want for them.
+[01:01:11.440 --> 01:01:17.440]   And to pray with hearts filled with real desire.
+[01:01:17.440 --> 01:01:22.440]   Again, let's remember why we are here.
+[01:01:22.440 --> 01:01:27.440]   Let's take moments to remember the Great Commission.
+[01:01:27.440 --> 01:01:32.440]   When he says that we are called now to go and make disciples of all nations.
+[01:01:32.440 --> 01:01:36.440]   Baptizing, teaching, observing, all of these things.
+[01:01:37.440 --> 01:01:41.440]   That our goal here is actually very simple.
+[01:01:41.440 --> 01:01:46.440]   That our careers, that all our desires,
+[01:01:46.440 --> 01:01:51.440]   a lot of it ought to be shaped by what Christ has called for us to do while we're here.
+[01:01:51.440 --> 01:01:55.440]   Because everything else, our home awaits us.
+[01:01:55.440 --> 01:01:57.440]   So let's take this time.
+[01:01:57.440 --> 01:02:03.440]   And at the end I'll come up and we'll sing a final song and close in prayer for the night.
+[01:02:03.440 --> 01:02:04.440]   So please take this time.
+[01:02:05.440 --> 01:02:08.440]   (Music)
+[01:02:09.440 --> 01:02:12.440]   (Music)
+[01:02:13.440 --> 01:02:16.440]   (Music)
+[01:02:17.440 --> 01:02:20.440]   (Music)
+[01:02:20.440 --> 01:02:38.440]   (Music)
+[01:02:39.440 --> 01:02:42.440]   (Music)
+[01:02:42.440 --> 01:02:58.440]   (Music)
+[01:02:58.440 --> 01:03:01.440]   (Music)
+[01:03:01.440 --> 01:03:15.440]   (Music)
+[01:03:16.440 --> 01:03:19.440]   (Music)
+[01:03:19.440 --> 01:03:32.440]   (Music)
+[01:03:33.440 --> 01:03:36.440]   (Music)
+[01:03:36.440 --> 01:03:49.440]   (Music)
+[01:03:50.440 --> 01:03:53.440]   (Music)
+[01:03:53.440 --> 01:04:04.440]   (Music)
+[01:04:04.440 --> 01:04:17.440]   (Music)
+[01:04:18.440 --> 01:04:21.440]   (Music)
+[01:04:21.440 --> 01:04:34.440]   (Music)
+[01:04:34.440 --> 01:04:37.440]   (Music)
+[01:04:37.440 --> 01:04:51.440]   (Music)
+[01:04:52.440 --> 01:04:55.440]   (Music)
+[01:04:55.440 --> 01:05:08.440]   (Music)
+[01:05:09.440 --> 01:05:12.440]   (Music)
+[01:05:12.440 --> 01:05:25.440]   (Music)
+[01:05:25.440 --> 01:05:28.440]   (Music)
+[01:05:28.440 --> 01:05:41.440]   (Music)
+[01:05:42.440 --> 01:05:45.440]   (Music)
+[01:05:45.440 --> 01:05:58.440]   (Music)
+[01:05:59.440 --> 01:06:02.440]   (Music)
+[01:06:02.440 --> 01:06:15.440]   (Music)
+[01:06:16.440 --> 01:06:19.440]   (Music)
+[01:06:19.440 --> 01:06:32.440]   (Music)
+[01:06:32.440 --> 01:06:35.440]   (Music)
+[01:06:35.440 --> 01:06:48.440]   (Music)
+[01:06:49.440 --> 01:06:52.440]   (Music)
+[01:06:52.440 --> 01:07:05.440]   (Music)
+[01:07:05.440 --> 01:07:08.440]   (Music)
+[01:07:08.440 --> 01:07:18.440]   (Music)
+[01:07:18.440 --> 01:07:30.440]   (Music)
+[01:07:30.440 --> 01:07:33.440]   (Music)
+[01:07:33.440 --> 01:07:47.440]   (Music)
+[01:07:47.440 --> 01:07:50.440]   (Music)
+[01:07:50.440 --> 01:08:00.440]   (Music)
+[01:08:00.440 --> 01:08:12.440]   (Music)
+[01:08:12.440 --> 01:08:15.440]   (Music)
+[01:08:15.440 --> 01:08:25.440]   (Music)
+[01:08:25.440 --> 01:08:37.440]   (Music)
+[01:08:37.440 --> 01:08:40.440]   (Music)
+[01:08:40.440 --> 01:08:58.440]   (Music)
+[01:08:59.440 --> 01:09:02.440]   (Music)
+[01:09:02.440 --> 01:09:13.440]   (Music)
+[01:09:13.440 --> 01:09:26.440]   (Music)
+[01:09:26.440 --> 01:09:29.440]   (Music)
+[01:09:29.440 --> 01:09:39.440]   (Music)
+[01:09:39.440 --> 01:09:52.440]   (Music)
+[01:09:52.440 --> 01:09:55.440]   (Music)
+[01:09:55.440 --> 01:10:05.440]   (Music)
+[01:10:05.440 --> 01:10:15.440]   (Music)
+[01:10:15.440 --> 01:10:18.440]   (Music)
+[01:10:18.440 --> 01:10:30.440]   >> Church family, as we close out our evening, we're going to go ahead and sing this last song together.
+[01:10:30.440 --> 01:10:32.440]   Let's all stand.
+[01:10:32.440 --> 01:10:40.440]   We realize that as we prayed for those who do not know Christ, we know it's only by Christ's power, the Holy Spirit's conviction.
+[01:10:40.440 --> 01:10:46.440]   So as we sing this last song, we're going to reflect that it's through Christ alone.
+[01:10:46.440 --> 01:10:50.440]   (Music)
+[01:10:58.440 --> 01:11:01.440]   (Music)
+[01:11:02.440 --> 01:11:05.440]   (Music)
+[01:11:05.440 --> 01:11:14.440]   (Music)
+[01:11:14.440 --> 01:11:24.440]   (Music)
+[01:11:25.440 --> 01:11:28.440]   (Music)
+[01:11:28.440 --> 01:11:37.440]   (Music)
+[01:11:37.440 --> 01:11:47.440]   (Music)
+[01:11:48.440 --> 01:11:51.440]   (Music)
+[01:11:51.440 --> 01:12:00.440]   (Music)
+[01:12:00.440 --> 01:12:10.440]   (Music)
+[01:12:11.440 --> 01:12:14.440]   (Music)
+[01:12:14.440 --> 01:12:23.440]   (Music)
+[01:12:23.440 --> 01:12:33.440]   (Music)
+[01:12:33.440 --> 01:12:36.440]   (Music)
+[01:12:36.440 --> 01:12:46.440]   (Music)
+[01:12:46.440 --> 01:12:56.440]   (Music)
+[01:12:56.440 --> 01:12:59.440]   (Music)
+[01:12:59.440 --> 01:13:09.440]   (Music)
+[01:13:09.440 --> 01:13:19.440]   (Music)
+[01:13:20.440 --> 01:13:23.440]   (Music)
+[01:13:23.440 --> 01:13:32.440]   (Music)
+[01:13:32.440 --> 01:13:42.440]   (Music)
+[01:13:43.440 --> 01:13:46.440]   (Music)
+[01:13:46.440 --> 01:13:55.440]   (Music)
+[01:13:55.440 --> 01:14:05.440]   (Music)
+[01:14:06.440 --> 01:14:09.440]   (Music)
+[01:14:09.440 --> 01:14:18.440]   (Music)
+[01:14:18.440 --> 01:14:28.440]   (Music)
+[01:14:28.440 --> 01:14:31.440]   (Music)
+[01:14:31.440 --> 01:14:45.440]   Let's close in prayer.
+[01:14:45.440 --> 01:14:50.440]   Father, I pray that we leave with united hearts.
+[01:14:50.440 --> 01:14:55.440]   God, regardless of all the stuff.
+[01:14:55.440 --> 01:15:04.440]   God, that we would leave with the same desire, the same spirit unifying us, the same goals.
+[01:15:04.440 --> 01:15:07.440]   Father, the same destination.
+[01:15:07.440 --> 01:15:18.440]   And God, that there would be something in this church that would be led by prayer, that would be led by your spirit.
+[01:15:18.440 --> 01:15:24.440]   And Father, that all these things that we left up to you, God, that we would continue.
+[01:15:24.440 --> 01:15:32.440]   Father, we pray because we very well know how difficult it is for us to pray.
+[01:15:32.440 --> 01:15:36.440]   Lord, would you teach us to pray.
+[01:15:36.440 --> 01:15:40.440]   Father, would you help us to look forward to prayer.
+[01:15:40.440 --> 01:15:46.440]   God, to look forward to being able to talk to you and to enter into your presence.
+[01:15:46.440 --> 01:15:53.440]   And so Lord, tonight we simply want to lift up to you great gratitude.
+[01:15:53.440 --> 01:15:55.440]   Thank you God.
+[01:15:55.440 --> 01:15:57.440]   Thank you for who you are.
+[01:15:57.440 --> 01:15:59.440]   Thank you for what you've done.
+[01:15:59.440 --> 01:16:01.440]   Thank you Lord for your patience.
+[01:16:01.440 --> 01:16:03.440]   Thank you for your love.
+[01:16:03.440 --> 01:16:07.440]   Thank you God for everything that you are and that you give to us.
+[01:16:07.440 --> 01:16:09.440]   In Jesus' name we pray, Amen.
+[01:16:09.440 --> 01:16:14.440]   Alright, well that's it for tonight. We'll see you on Sunday.
+
