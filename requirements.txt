@@ -5,3 +5,4 @@ yt-dlp
 ffmpeg-python
 whispercpp
 faster-whisper
+pandas

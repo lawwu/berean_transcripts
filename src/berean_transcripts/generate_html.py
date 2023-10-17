@@ -1,8 +1,8 @@
 import argparse
-import os
 import json
 import logging
 import re
+import pandas as pd
 from yt_dlp import YoutubeDL
 from datetime import datetime
 
@@ -66,8 +66,6 @@ def generate_transcript_page(video_id):
     thumbnail_url = details["thumbnail"]
     title = details["title"]
     chapters = details.get("chapters", [])
-    input_file = os.path.join("./berean", f"{video_id}.txt")
-    output_file = os.path.join("./berean", f"{video_id}.html")
     transcript_link = f"transcript_{video_id}.html"
     whisper_transcript_file = f"{video_id}.html"
 
@@ -244,6 +242,32 @@ def generate_html(video_id):
         f.write("</body></html>")
 
 
+def convert_cache_to_dataframe(cache):
+    # Initialize list to store flattened dictionaries
+    flattened_data = []
+
+    # Flatten dictionary structure
+    for video, attributes in cache.items():
+        # print(video)
+        id_ = attributes['id']
+        title = attributes['title']
+        upload_date = attributes['upload_date']
+        upload_date_formatted = datetime.strptime(
+                    upload_date, "%Y%m%d"
+                ).strftime(
+                    "%Y-%m-%d"
+                )
+        flattened_dict = {'id': id_, 
+                        'title': title,
+                        'upload_date': upload_date_formatted
+                        }
+        flattened_data.append(flattened_dict)
+
+    df = pd.DataFrame(flattened_data)
+    df = df.sort_values(['upload_date'], ascending=False)
+    return df
+
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         description="Generate HTML from YouTube transcript"
@@ -256,15 +280,16 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     video_ids = read_ids_from_file(args.file)
+    df_videos = convert_cache_to_dataframe(video_details_cache)
 
     logging.info(f"Found {len(video_ids)} video IDs")
 
-    for video_id in video_ids:
+    for index, row in df_videos.iterrows():
         # Generate individual transcript pages
-        generate_html(video_id)
+        generate_html(row['id'])
         # Generate individual transcript-only pages
-        generate_transcript_page(video_id)
+        generate_transcript_page(row['id'])
 
     # Generate index page
-    generate_index_page(video_ids)
+    generate_index_page(list(df_videos['id']))
     logging.info("All tasks completed")
