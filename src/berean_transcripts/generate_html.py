@@ -284,11 +284,12 @@ if __name__ == "__main__":
 
     logging.info(f"Found {len(video_ids)} video IDs")
 
-    for index, row in df_videos.iterrows():
+    # for index, row in df_videos.iterrows():
+    for id in video_ids:
         # Generate individual transcript pages
-        generate_html(row['id'])
+        generate_html(id)
         # Generate individual transcript-only pages
-        generate_transcript_page(row['id'])
+        generate_transcript_page(id)
 
     # Generate index page
     generate_index_page(list(df_videos['id']))

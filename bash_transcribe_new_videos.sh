@@ -13,7 +13,7 @@ if [ -s "./data/bcc_live_video_ids.txt" ]; then
     git add "./data/*.txt"
     git add "./docs/*.html"
     git add data/video_details_cache.json
-    git commit -m "adding latest messages from $(date +'%Y-%m-%d')"
+    git commit -m "AUTO: adding latest messages from $(date +'%Y-%m-%d')"
     git push
 else
     echo "No new videos found. Exiting script."

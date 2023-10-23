@@ -1,6 +1,7 @@
 import time
 from pathlib import Path
 from functools import wraps
+import json 
 
 project_dir = Path(__file__).resolve().parents[2]
 data_dir = project_dir / "data"
@@ -10,6 +11,7 @@ processed_dir = data_dir / "processed"
 external_dir = data_dir / "external"
 model_dir = project_dir / "models"
 transcripts_dir = data_dir / "transcripts"
+videos_dir = data_dir / "videos"
 html_berean_dir = project_dir / "docs"
 whispercpp_dir = project_dir / "whisper.cpp"
 
@@ -27,3 +29,8 @@ def timeit(func):
         return result
 
     return wrapper
+
+
+def dump_json_to_file(json_object, filename):
+    with open(filename, 'w', encoding='utf-8') as f:
+        json.dump(json_object, f, ensure_ascii=False, indent=4)
