@@ -105,7 +105,6 @@ def main():
     args = parser.parse_args()
 
     # Variable for .wav file name
-    # wav_file_name = "bcc_gal3_trimmed"
     wav_file_name = extract_video_id(args.url)
 
     logging.info("Download audio from YouTube")
@@ -117,6 +116,9 @@ def main():
     logging.info("Run whisper.cpp using Metal")
     run_whisper(wav_file_name)
 
+    # TODO: write function to delete both wav files to be tidy
+    # youtube_id.wav and youtueb_id_16k.wav
+    # e.g. JDI6skt93Ow.wav and JDI6skt93Ow_16k.wav
 
 if __name__ == "__main__":
     main()
