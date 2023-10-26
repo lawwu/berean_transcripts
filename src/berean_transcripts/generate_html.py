@@ -292,5 +292,5 @@ if __name__ == "__main__":
         generate_transcript_page(id)
 
     # Generate index page
-    generate_index_page(list(df_videos['id']))
+    generate_index_page(video_ids)
     logging.info("All tasks completed")
