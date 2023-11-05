@@ -1,0 +1,1780 @@
+
+[00:00:00.000 --> 00:00:02.420]   (soft music)
+[00:00:02.420 --> 00:00:04.840]   (soft music)
+[00:00:05.680 --> 00:00:08.100]   (soft music)
+[00:00:08.100 --> 00:00:10.520]   (soft music)
+[00:00:10.520 --> 00:00:12.940]   (soft music)
+[00:00:12.940 --> 00:00:15.360]   (soft music)
+[00:00:15.360 --> 00:00:17.780]   (soft music)
+[00:00:17.780 --> 00:00:21.780]   (soft music)
+[00:00:21.780 --> 00:00:37.780]   (soft music)
+[00:00:37.780 --> 00:00:40.200]   (soft music)
+[00:00:40.200 --> 00:00:54.200]   (soft music)
+[00:00:54.200 --> 00:01:04.200]   (soft music)
+[00:01:04.200 --> 00:01:06.620]   (soft music)
+[00:01:06.620 --> 00:01:16.620]   (soft music)
+[00:01:16.620 --> 00:01:26.620]   (soft music)
+[00:01:26.620 --> 00:01:29.040]   (soft music)
+[00:01:29.040 --> 00:01:43.040]   (soft music)
+[00:01:43.040 --> 00:01:53.040]   (soft music)
+[00:01:53.040 --> 00:01:55.460]   (soft music)
+[00:01:55.460 --> 00:02:05.460]   (soft music)
+[00:02:05.460 --> 00:02:15.460]   (soft music)
+[00:02:15.460 --> 00:02:17.880]   (soft music)
+[00:02:17.880 --> 00:02:29.880]   (soft music)
+[00:02:29.880 --> 00:02:41.880]   (soft music)
+[00:02:41.880 --> 00:02:44.300]   (soft music)
+[00:02:44.300 --> 00:02:56.300]   (soft music)
+[00:02:56.300 --> 00:03:06.300]   (soft music)
+[00:03:06.300 --> 00:03:08.720]   (soft music)
+[00:03:08.720 --> 00:03:18.720]   (soft music)
+[00:03:18.720 --> 00:03:28.720]   (soft music)
+[00:03:28.720 --> 00:03:31.140]   (soft music)
+[00:03:31.140 --> 00:03:45.140]   (soft music)
+[00:03:45.140 --> 00:03:47.560]   (soft music)
+[00:03:47.560 --> 00:04:08.560]   (soft music)
+[00:04:09.560 --> 00:04:11.980]   (soft music)
+[00:04:11.980 --> 00:04:23.980]   (soft music)
+[00:04:23.980 --> 00:04:35.980]   (soft music)
+[00:04:36.980 --> 00:04:39.400]   (soft music)
+[00:04:39.400 --> 00:04:51.400]   (soft music)
+[00:04:51.400 --> 00:05:03.400]   (soft music)
+[00:05:04.400 --> 00:05:06.820]   (soft music)
+[00:05:06.820 --> 00:05:18.820]   (soft music)
+[00:05:32.400 --> 00:05:34.820]   (soft music)
+[00:05:34.820 --> 00:05:54.820]   (soft music)
+[00:05:54.820 --> 00:05:57.240]   (soft music)
+[00:05:57.240 --> 00:06:17.240]   (soft music)
+[00:06:17.240 --> 00:06:19.660]   (soft music)
+[00:06:19.660 --> 00:06:29.660]   (soft music)
+[00:06:29.660 --> 00:06:39.660]   (soft music)
+[00:06:39.660 --> 00:06:42.080]   (soft music)
+[00:06:42.080 --> 00:06:52.080]   (soft music)
+[00:06:52.080 --> 00:06:54.500]   (soft music)
+[00:06:54.500 --> 00:07:12.500]   (soft music)
+[00:07:12.500 --> 00:07:14.920]   (soft music)
+[00:07:14.920 --> 00:07:24.920]   (soft music)
+[00:07:24.920 --> 00:07:34.920]   (soft music)
+[00:07:34.920 --> 00:07:37.340]   (soft music)
+[00:07:37.340 --> 00:07:47.340]   (soft music)
+[00:07:47.340 --> 00:07:57.340]   (soft music)
+[00:07:57.340 --> 00:07:59.760]   (soft music)
+[00:07:59.760 --> 00:08:09.760]   (soft music)
+[00:08:09.760 --> 00:08:19.760]   (soft music)
+[00:08:19.760 --> 00:08:22.180]   (soft music)
+[00:08:22.180 --> 00:08:32.180]   (soft music)
+[00:08:32.180 --> 00:08:42.180]   (soft music)
+[00:08:43.180 --> 00:08:45.600]   (soft music)
+[00:08:45.600 --> 00:08:54.600]   (soft music)
+[00:08:54.600 --> 00:09:04.600]   (soft music)
+[00:09:04.600 --> 00:09:07.020]   (soft music)
+[00:09:07.020 --> 00:09:17.020]   (soft music)
+[00:09:17.020 --> 00:09:27.020]   (soft music)
+[00:09:27.020 --> 00:09:29.440]   (soft music)
+[00:09:29.440 --> 00:09:39.440]   (soft music)
+[00:09:39.440 --> 00:09:49.440]   (soft music)
+[00:09:49.440 --> 00:09:51.860]   (soft music)
+[00:09:51.860 --> 00:10:05.860]   (soft music)
+[00:10:05.860 --> 00:10:08.280]   (soft music)
+[00:10:08.280 --> 00:10:18.280]   (soft music)
+[00:10:18.280 --> 00:10:28.280]   (soft music)
+[00:10:28.280 --> 00:10:30.700]   (soft music)
+[00:10:30.700 --> 00:10:40.700]   (soft music)
+[00:10:40.700 --> 00:10:50.700]   (soft music)
+[00:10:50.700 --> 00:10:53.120]   (soft music)
+[00:10:53.120 --> 00:11:03.120]   (soft music)
+[00:11:03.120 --> 00:11:13.120]   (soft music)
+[00:11:13.120 --> 00:11:15.540]   (soft music)
+[00:11:15.540 --> 00:11:35.540]   (soft music)
+[00:11:35.540 --> 00:11:37.960]   (soft music)
+[00:11:37.960 --> 00:11:47.960]   (soft music)
+[00:11:47.960 --> 00:11:57.960]   (soft music)
+[00:11:57.960 --> 00:12:00.380]   (soft music)
+[00:12:00.380 --> 00:12:08.380]   - All right, good morning, church family.
+[00:12:08.380 --> 00:12:09.220]   Happy Lord's Day.
+[00:12:09.220 --> 00:12:11.180]   Hope you had a good week from the Lord.
+[00:12:11.180 --> 00:12:13.060]   Before we get started, I'd like to read for us
+[00:12:13.060 --> 00:12:14.380]   from Psalm 121.
+[00:12:14.380 --> 00:12:21.220]   I will lift up my eyes to the mountains
+[00:12:21.220 --> 00:12:23.600]   from where shall my help come?
+[00:12:23.600 --> 00:12:26.800]   My help comes from the Lord who made heaven and earth.
+[00:12:27.720 --> 00:12:30.140]   He will not allow your foot to slip.
+[00:12:30.140 --> 00:12:33.060]   He who keeps you will not slumber.
+[00:12:33.060 --> 00:12:35.300]   Behold, he who keeps Israel
+[00:12:35.300 --> 00:12:37.680]   will neither slumber nor sleep.
+[00:12:37.680 --> 00:12:39.380]   The Lord is your keeper.
+[00:12:39.380 --> 00:12:42.220]   The Lord is your shade on your right hand.
+[00:12:42.220 --> 00:12:46.420]   The sun will not smite you by day, nor the moon by night.
+[00:12:46.420 --> 00:12:48.880]   The Lord will protect you from all evil.
+[00:12:48.880 --> 00:12:50.920]   He will keep your soul.
+[00:12:50.920 --> 00:12:53.300]   The Lord will guard your going out
+[00:12:53.300 --> 00:12:56.460]   and your coming in from this time forth and forever.
+[00:12:56.460 --> 00:12:57.300]   Amen.
+[00:12:57.840 --> 00:13:01.180]   So as we come before God this morning to worship,
+[00:13:01.180 --> 00:13:04.500]   we are worshiping the God who graciously loves us,
+[00:13:04.500 --> 00:13:07.300]   who keeps us, and who protects us.
+[00:13:07.300 --> 00:13:09.460]   So let us sing and let's worship together.
+[00:13:09.460 --> 00:13:16.060]   (soft music)
+[00:13:17.060 --> 00:13:19.480]   (soft music)
+[00:13:19.480 --> 00:13:34.520]   ♪ I lift my eyes up to the mountains ♪
+[00:13:34.520 --> 00:13:42.060]   ♪ Where does my help come from ♪
+[00:13:44.900 --> 00:13:48.780]   ♪ My help comes from you ♪
+[00:13:48.780 --> 00:13:52.600]   ♪ Maker of heaven ♪
+[00:13:52.600 --> 00:13:55.940]   ♪ Creator of the earth ♪
+[00:13:55.940 --> 00:13:59.480]   I lift my eyes.
+[00:13:59.480 --> 00:14:05.400]   ♪ I lift my eyes up to the mountains ♪
+[00:14:05.400 --> 00:14:13.100]   ♪ Where does my help come from ♪
+[00:14:14.100 --> 00:14:19.100]   ♪ My help comes from you ♪
+[00:14:19.100 --> 00:14:23.100]   ♪ Maker of heaven ♪
+[00:14:23.100 --> 00:14:28.100]   ♪ Creator of the earth ♪
+[00:14:28.100 --> 00:14:34.680]   ♪ Oh how I need you Lord ♪
+[00:14:34.680 --> 00:14:39.100]   ♪ You are my only hope ♪
+[00:14:39.100 --> 00:14:44.100]   ♪ You're my only prayer ♪
+[00:14:44.100 --> 00:14:51.380]   ♪ So I will wait for you to come and rescue me ♪
+[00:14:51.380 --> 00:14:58.100]   ♪ Come and give me life ♪
+[00:14:58.100 --> 00:15:04.020]   (soft music)
+[00:15:04.020 --> 00:15:06.440]   (soft music)
+[00:15:06.440 --> 00:15:17.940]   Sing one more time, I lift my eyes.
+[00:15:17.940 --> 00:15:22.940]   ♪ I lift my eyes up to the mountains ♪
+[00:15:22.940 --> 00:15:30.520]   ♪ Where does my help come from ♪
+[00:15:33.300 --> 00:15:37.180]   ♪ My help comes from you ♪
+[00:15:37.180 --> 00:15:41.020]   ♪ Maker of heaven ♪
+[00:15:41.020 --> 00:15:44.260]   ♪ Creator of the earth ♪
+[00:15:44.260 --> 00:15:47.640]   How I need you Lord.
+[00:15:47.640 --> 00:15:52.640]   ♪ Oh how I need you Lord ♪
+[00:15:52.640 --> 00:15:56.980]   ♪ You are my only hope ♪
+[00:15:56.980 --> 00:16:01.980]   ♪ You're my only prayer ♪
+[00:16:02.980 --> 00:16:07.980]   ♪ So I will wait for you to come and rescue me ♪
+[00:16:07.980 --> 00:16:16.700]   ♪ Come and give me life ♪
+[00:16:16.700 --> 00:16:22.900]   ♪ Oh how I need you Lord ♪
+[00:16:22.900 --> 00:16:26.980]   ♪ You are my only hope ♪
+[00:16:26.980 --> 00:16:30.480]   ♪ You're my only prayer ♪
+[00:16:30.480 --> 00:16:35.480]   ♪ So I will wait for you to come and rescue me ♪
+[00:16:35.480 --> 00:16:40.900]   ♪ Come and give me life ♪
+[00:16:40.900 --> 00:16:44.400]   ♪ Oh how I need you Lord ♪
+[00:16:44.400 --> 00:16:49.400]   ♪ You are my only prayer ♪
+[00:16:49.400 --> 00:16:54.400]   ♪ So I will wait for you to come and rescue me ♪
+[00:16:56.480 --> 00:16:59.400]   - All right, good morning.
+[00:16:59.400 --> 00:17:01.980]   Welcome to Bryn Community Church.
+[00:17:01.980 --> 00:17:03.560]   Before we get started, we have an announcement
+[00:17:03.560 --> 00:17:06.360]   from our sister's ministry about our holiday outreach.
+[00:17:06.360 --> 00:17:08.860]   So we'll have Grace come and give an announcement.
+[00:17:08.860 --> 00:17:14.320]   - Good morning, good morning.
+[00:17:14.320 --> 00:17:16.560]   My name is Grace and I have some amazing opportunities
+[00:17:16.560 --> 00:17:18.840]   to share about how this church can get involved
+[00:17:18.840 --> 00:17:20.600]   this holiday season.
+[00:17:20.600 --> 00:17:22.580]   First things first, we have this coming December,
+[00:17:22.580 --> 00:17:26.920]   we have visitation to the Brookdale Anaheim
+[00:17:26.920 --> 00:17:28.720]   assisted living facility.
+[00:17:28.720 --> 00:17:30.760]   This season, this event will be on December 16th
+[00:17:30.760 --> 00:17:32.520]   from 10 a.m. to 12 p.m.
+[00:17:32.520 --> 00:17:33.960]   We'll sing a few Christmas carols
+[00:17:33.960 --> 00:17:35.880]   and do a simple craft with residents.
+[00:17:35.880 --> 00:17:37.480]   Adults and children are both welcome.
+[00:17:37.480 --> 00:17:39.380]   While we're only there for a short time,
+[00:17:39.380 --> 00:17:41.080]   we'll choose to continue this event
+[00:17:41.080 --> 00:17:42.640]   to show Christ's love to the elderly
+[00:17:42.640 --> 00:17:45.320]   and hopefully have meaningful conversations with them.
+[00:17:45.320 --> 00:17:48.280]   Romans 10, 13 through 15 says,
+[00:17:48.280 --> 00:17:52.200]   whoever will call on the name of the Lord will be saved.
+[00:17:52.200 --> 00:17:54.040]   How then will they call on him
+[00:17:54.040 --> 00:17:55.560]   and whom they have not believed?
+[00:17:55.560 --> 00:17:57.640]   How will they believe in him who they have not heard?
+[00:17:57.640 --> 00:17:59.960]   And how will they hear without a preacher?
+[00:17:59.960 --> 00:18:01.800]   How will they preach unless they are sent?
+[00:18:01.800 --> 00:18:04.760]   Just as it's written, how beautiful are the feet of those
+[00:18:04.760 --> 00:18:07.540]   who bring the good news of good things?
+[00:18:07.540 --> 00:18:10.200]   So come join us on December 16th.
+[00:18:10.200 --> 00:18:12.440]   Next up, we have an opportunity to learn more
+[00:18:12.440 --> 00:18:14.280]   and support the Living Well Pregnancy Center
+[00:18:14.280 --> 00:18:15.720]   here in Orange County.
+[00:18:15.720 --> 00:18:18.040]   Living Well provides free pregnancy services for women
+[00:18:18.040 --> 00:18:20.300]   at the crossroads of unplanned pregnancies.
+[00:18:20.300 --> 00:18:21.960]   Their goal is to equip these women and families
+[00:18:21.960 --> 00:18:24.120]   to make life-affirming, informed choices
+[00:18:24.120 --> 00:18:25.900]   through the foundation of truth and hope.
+[00:18:25.900 --> 00:18:27.900]   There are not many pro-life pregnancy clinics
+[00:18:27.900 --> 00:18:30.760]   around the area, so we wanna really rally and support
+[00:18:30.760 --> 00:18:32.520]   those who are on the front lines doing the work
+[00:18:32.520 --> 00:18:35.440]   to reach out to love on these sweet mothers and babies.
+[00:18:35.440 --> 00:18:37.940]   As a church, we'll be hosting a baby bottle drive.
+[00:18:37.940 --> 00:18:40.480]   My other bottle had changed.
+[00:18:40.480 --> 00:18:42.640]   It was so much more dramatic when I shook it up here.
+[00:18:42.640 --> 00:18:43.680]   But here we go.
+[00:18:43.680 --> 00:18:47.200]   If you have any loose change, cash, or checks,
+[00:18:47.200 --> 00:18:49.280]   please, if you would donate to the Pregnancy Center,
+[00:18:49.280 --> 00:18:50.320]   after you receive the bottle,
+[00:18:50.320 --> 00:18:52.680]   please return the bottle within the next few weeks.
+[00:18:52.680 --> 00:18:54.680]   The last day to collect will be December 10th.
+[00:18:54.680 --> 00:18:58.040]   You can donate to the Living Well, excuse me,
+[00:18:58.040 --> 00:19:00.240]   Pregnancy Center directly as well.
+[00:19:00.240 --> 00:19:02.640]   Also, besides the drive, if you have diapers, wipes,
+[00:19:02.640 --> 00:19:05.120]   or baby clothes, they also take that as well.
+[00:19:05.120 --> 00:19:08.960]   In Psalms 139, it says, "For you form my inward parts.
+[00:19:08.960 --> 00:19:11.280]   "You knitted me together in my mother's womb.
+[00:19:11.280 --> 00:19:13.820]   "I praise you, for I am fearfully and wonderfully made.
+[00:19:13.820 --> 00:19:16.780]   "Wonderful are your works, and my soul knows it very well.
+[00:19:16.780 --> 00:19:18.720]   "My frame was not hidden from you
+[00:19:18.720 --> 00:19:20.080]   "when I was being made in secret.
+[00:19:20.080 --> 00:19:22.520]   "Intrincately woven in the depths of the earth.
+[00:19:22.520 --> 00:19:24.880]   "Your eyes saw my unformed substance in your book,
+[00:19:24.880 --> 00:19:26.500]   "were written every one of them,
+[00:19:26.500 --> 00:19:28.240]   "the days that were formed for me,
+[00:19:28.240 --> 00:19:30.040]   "when as yet there were none of them."
+[00:19:30.040 --> 00:19:31.820]   Besides giving of your time and resources,
+[00:19:31.820 --> 00:19:34.640]   the biggest, biggest thing you could do is please pray.
+[00:19:34.640 --> 00:19:36.360]   Please pray for this ministry if they fight
+[00:19:36.360 --> 00:19:38.600]   for the life of the unborn children
+[00:19:38.600 --> 00:19:39.720]   in this battleground state,
+[00:19:39.720 --> 00:19:41.480]   and please help these families navigate
+[00:19:41.480 --> 00:19:43.160]   this new and sweet stage in life.
+[00:19:43.160 --> 00:19:45.720]   I'll see you after service, thank you.
+[00:19:45.720 --> 00:19:48.880]   (audience applauding)
+[00:19:49.600 --> 00:19:54.040]   - Okay, just a few more announcements before I started.
+[00:19:54.040 --> 00:19:58.520]   First of all, the Thanksgiving regional dinners.
+[00:19:58.520 --> 00:19:59.920]   So if you haven't signed up for that,
+[00:19:59.920 --> 00:20:02.340]   that's taking place on November 19th.
+[00:20:02.340 --> 00:20:04.160]   Today is the last day to sign up,
+[00:20:04.160 --> 00:20:07.680]   so there's only, again, a few more spaces available.
+[00:20:07.680 --> 00:20:09.800]   So if you do not sign up by tonight,
+[00:20:09.800 --> 00:20:12.020]   they won't be able to place you in a group.
+[00:20:12.020 --> 00:20:13.560]   So if you are planning to sign up
+[00:20:13.560 --> 00:20:14.400]   and you haven't signed up,
+[00:20:14.400 --> 00:20:16.680]   please do that by today if possible.
+[00:20:16.680 --> 00:20:19.440]   And then along with that, again, on the Saturday
+[00:20:19.440 --> 00:20:22.800]   before that day, our outreach team
+[00:20:22.800 --> 00:20:25.640]   is gonna be having an outreach Thanksgiving dinner.
+[00:20:25.640 --> 00:20:27.540]   So they're gonna be at someone's home,
+[00:20:27.540 --> 00:20:30.440]   and if you have people that you wanna share the gospel with
+[00:20:30.440 --> 00:20:32.680]   or they just have a lot of questions,
+[00:20:32.680 --> 00:20:34.240]   it'd be an opportunity for that night
+[00:20:34.240 --> 00:20:35.540]   to get together with the outreach team.
+[00:20:35.540 --> 00:20:38.560]   Pastor Mark is gonna be leading that in that home group,
+[00:20:38.560 --> 00:20:40.240]   and so he'll be sharing the gospel,
+[00:20:40.240 --> 00:20:41.480]   he'll be answering some questions,
+[00:20:41.480 --> 00:20:43.840]   and there'll be opportunity to interact
+[00:20:43.840 --> 00:20:45.680]   with other believers there.
+[00:20:45.680 --> 00:20:48.160]   So if you are planning to bring somebody,
+[00:20:48.160 --> 00:20:51.080]   that would be a good place to bring them to.
+[00:20:51.080 --> 00:20:52.800]   Again, that's happening on October 18th.
+[00:20:52.800 --> 00:20:55.380]   That's Saturday before the 19th, okay?
+[00:20:55.380 --> 00:20:59.660]   Everything else, you guys can look at it
+[00:20:59.660 --> 00:21:00.880]   for yourselves on the app.
+[00:21:00.880 --> 00:21:02.240]   But I do have one question.
+[00:21:02.240 --> 00:21:07.080]   We are, because of the church growing,
+[00:21:07.080 --> 00:21:10.080]   and as you guys can see, our first and second service
+[00:21:10.080 --> 00:21:11.040]   is starting to get crowded,
+[00:21:11.040 --> 00:21:13.440]   and so we are in the process of thinking through
+[00:21:13.440 --> 00:21:15.560]   possibly a third service.
+[00:21:15.560 --> 00:21:17.920]   And so we're kind of wrestling through
+[00:21:17.920 --> 00:21:20.120]   what's the best time to do that.
+[00:21:20.120 --> 00:21:22.840]   So we haven't come up with a concrete time yet,
+[00:21:22.840 --> 00:21:24.000]   but I just wanted to get a,
+[00:21:24.000 --> 00:21:26.200]   I think this is the fastest way to kind of get an idea
+[00:21:26.200 --> 00:21:27.680]   of where you guys are at.
+[00:21:27.680 --> 00:21:31.720]   If we had a service at 1230, okay,
+[00:21:31.720 --> 00:21:33.640]   that would be our third and final service,
+[00:21:33.640 --> 00:21:36.640]   how many of you are willing to come to the 1230 service?
+[00:21:36.640 --> 00:21:40.360]   (audience laughing)
+[00:21:40.360 --> 00:21:43.320]   All right, so we're gonna have four people in that service.
+[00:21:43.320 --> 00:21:44.240]   (audience laughing)
+[00:21:44.240 --> 00:21:46.800]   Which won't help us at all, okay.
+[00:21:46.800 --> 00:21:51.240]   If we tweaked it and we had an eight o'clock service,
+[00:21:51.240 --> 00:21:52.520]   would be the first one,
+[00:21:52.520 --> 00:21:57.080]   and then this service would be extended to 1130 service,
+[00:21:57.080 --> 00:21:59.800]   or 1145, how many of you would be willing to come
+[00:21:59.800 --> 00:22:03.000]   to the 1130, possibly 1145 service?
+[00:22:03.000 --> 00:22:05.440]   (laughs)
+[00:22:05.440 --> 00:22:06.600]   Okay.
+[00:22:06.600 --> 00:22:08.760]   1130 service, let me say 1130.
+[00:22:08.760 --> 00:22:11.840]   If we had 1130 service, you would come to the 1130 service.
+[00:22:11.840 --> 00:22:13.680]   It's only 30 minutes later than now.
+[00:22:13.680 --> 00:22:18.640]   All right, now we have 20 of you, okay.
+[00:22:18.640 --> 00:22:22.760]   So you would come to the 1030 service, 1030 service.
+[00:22:22.760 --> 00:22:26.280]   10 o'clock service.
+[00:22:26.280 --> 00:22:28.960]   (audience laughing)
+[00:22:28.960 --> 00:22:29.800]   Okay.
+[00:22:29.800 --> 00:22:32.880]   You guys did not help at all.
+[00:22:32.880 --> 00:22:34.360]   (audience laughing)
+[00:22:34.360 --> 00:22:36.800]   I'm more confused now, yeah.
+[00:22:36.800 --> 00:22:38.760]   I asked the first service at nine o'clock
+[00:22:38.760 --> 00:22:40.640]   if they wanted to come at eight,
+[00:22:40.640 --> 00:22:43.520]   and a good chunk of them, about two thirds of them,
+[00:22:43.520 --> 00:22:45.000]   said they would come at eight.
+[00:22:45.000 --> 00:22:47.400]   So I was very happy with that group, but.
+[00:22:47.400 --> 00:22:48.360]   (audience laughing)
+[00:22:48.360 --> 00:22:49.520]   This group didn't help at all.
+[00:22:49.520 --> 00:22:51.920]   All right, so continue to pray for us.
+[00:22:51.920 --> 00:22:53.480]   We're trying to figure out what the best way
+[00:22:53.480 --> 00:22:54.880]   to deal with that.
+[00:22:54.880 --> 00:22:58.040]   I mean, we're trying to maximize the space that we have,
+[00:22:58.040 --> 00:23:00.520]   and it is a good problem that we have
+[00:23:00.520 --> 00:23:01.680]   because we are growing,
+[00:23:01.680 --> 00:23:06.320]   but there's a lot of good things happening at church too,
+[00:23:06.320 --> 00:23:08.880]   and I want you guys to know
+[00:23:08.880 --> 00:23:10.560]   there's a lot of people coming to Christ,
+[00:23:10.560 --> 00:23:12.480]   and ever since the pandemic,
+[00:23:12.480 --> 00:23:14.680]   we've seen more people just walk off the street
+[00:23:14.680 --> 00:23:17.560]   just asking about the gospel and about Christ
+[00:23:17.560 --> 00:23:19.320]   more than we've seen in the previous years.
+[00:23:19.320 --> 00:23:22.600]   So God has used that opportunity to stir up people
+[00:23:22.600 --> 00:23:24.680]   in searching for meaning and purpose,
+[00:23:24.680 --> 00:23:26.520]   and it's not just our church.
+[00:23:26.520 --> 00:23:28.800]   I've been talking to other churches and other Christians
+[00:23:28.800 --> 00:23:30.400]   saying that they see that happening too.
+[00:23:30.400 --> 00:23:32.600]   There is a stirring up of people
+[00:23:32.600 --> 00:23:34.800]   looking for meaning and purpose,
+[00:23:34.800 --> 00:23:36.240]   and so that's a good thing.
+[00:23:36.240 --> 00:23:38.080]   So we wanna be able to accommodate that,
+[00:23:38.080 --> 00:23:39.960]   continue to share the gospel with them,
+[00:23:39.960 --> 00:23:42.080]   and see them come to Christ,
+[00:23:42.080 --> 00:23:43.240]   but in order to do that, obviously,
+[00:23:43.240 --> 00:23:45.400]   we're gonna have to make the best of the space.
+[00:23:45.400 --> 00:23:46.640]   So please be patient with us.
+[00:23:46.640 --> 00:23:48.360]   We don't know exactly what's gonna happen,
+[00:23:48.360 --> 00:23:50.680]   but it may happen sooner than later,
+[00:23:50.680 --> 00:23:53.760]   so just kind of give you a heads up on that.
+[00:23:53.760 --> 00:23:56.640]   All right, after I pray for the offering,
+[00:23:56.640 --> 00:23:58.240]   our brother Oswald is gonna come up,
+[00:23:58.240 --> 00:24:00.440]   and he's gonna give his testimony and be baptized,
+[00:24:00.440 --> 00:24:02.200]   and again, if you brought a physical offering,
+[00:24:02.200 --> 00:24:03.540]   there's a physical offering in the back,
+[00:24:03.540 --> 00:24:04.800]   and the rest of you, again,
+[00:24:04.800 --> 00:24:07.360]   if you can give it to the Zell that's up on the screen.
+[00:24:07.360 --> 00:24:08.480]   All right, let's pray.
+[00:24:08.480 --> 00:24:14.940]   Father, we thank you so much for your goodness,
+[00:24:14.940 --> 00:24:18.420]   your love that you pour upon us.
+[00:24:18.420 --> 00:24:22.640]   Lord, we are in constant, dire need,
+[00:24:22.640 --> 00:24:24.000]   Lord God, of your grace.
+[00:24:24.000 --> 00:24:27.640]   Lord, we pray for help.
+[00:24:27.640 --> 00:24:30.320]   We pray, Father God, that you would give us
+[00:24:30.320 --> 00:24:32.840]   a proper understanding of who you are,
+[00:24:32.840 --> 00:24:35.060]   that all that we do, the worship that we give,
+[00:24:35.060 --> 00:24:36.920]   will be an overflow of the mighty work
+[00:24:36.920 --> 00:24:38.200]   that you are doing in us.
+[00:24:38.200 --> 00:24:41.000]   Help us, Lord God, that even in this giving,
+[00:24:41.000 --> 00:24:43.160]   that it would be an act of worship,
+[00:24:43.160 --> 00:24:46.960]   may it be multiplied 30, 60, 100-fold
+[00:24:46.960 --> 00:24:49.320]   for the purpose of glorifying your name.
+[00:24:49.320 --> 00:24:51.120]   In Jesus' name we pray, amen.
+[00:24:51.120 --> 00:24:56.180]   (gentle music)
+[00:24:56.180 --> 00:24:58.760]   (gentle music)
+[00:24:59.760 --> 00:25:02.340]   (gentle music)
+[00:25:02.340 --> 00:25:13.940]   (gentle music)
+[00:25:13.940 --> 00:25:26.060]   (gentle music)
+[00:25:26.060 --> 00:25:28.640]   (gentle music)
+[00:25:28.640 --> 00:25:46.980]   - All right, church family, let us stand together,
+[00:25:46.980 --> 00:25:49.420]   and I'll take a minute to greet those around you.
+[00:25:49.420 --> 00:25:54.760]   (congregation laughing)
+[00:25:54.760 --> 00:25:58.340]   (congregation chattering)
+[00:25:58.340 --> 00:26:23.100]   (upbeat music)
+[00:26:23.100 --> 00:26:25.680]   (upbeat music)
+[00:26:25.680 --> 00:26:45.920]   ♪ Who breaks the power of sin and darkness ♪
+[00:26:45.920 --> 00:26:50.720]   ♪ Whose love is mighty and so much stronger ♪
+[00:26:50.720 --> 00:26:55.720]   ♪ The King of glory, the King above all kings ♪
+[00:26:55.720 --> 00:27:05.240]   ♪ Who shakes the whole earth with holy thunder ♪
+[00:27:05.240 --> 00:27:10.060]   ♪ Who leaves us breathless in all in wonder ♪
+[00:27:10.060 --> 00:27:15.060]   ♪ The King of glory, the King above all kings ♪
+[00:27:17.360 --> 00:27:22.360]   ♪ This is amazing grace ♪
+[00:27:22.360 --> 00:27:27.160]   ♪ This is unfailing love ♪
+[00:27:27.160 --> 00:27:32.000]   ♪ That you would take my blame ♪
+[00:27:32.000 --> 00:27:36.880]   ♪ That you would bear my cross ♪
+[00:27:36.880 --> 00:27:41.720]   ♪ You laid down your life ♪
+[00:27:41.720 --> 00:27:46.720]   ♪ That I might be set free ♪
+[00:27:47.700 --> 00:27:52.700]   ♪ Jesus, I sing for all that you've done for me ♪
+[00:27:52.700 --> 00:28:03.220]   ♪ Who brings our chaos ♪
+[00:28:03.220 --> 00:28:08.020]   ♪ Who brings our chaos back into order ♪
+[00:28:08.020 --> 00:28:12.860]   ♪ Who makes the orphan a son and daughter ♪
+[00:28:12.860 --> 00:28:17.800]   ♪ The King of glory, the King of glory ♪
+[00:28:17.800 --> 00:28:22.500]   ♪ Who rules the nations with truth and justice ♪
+[00:28:22.500 --> 00:28:27.380]   ♪ Shines like the sun in all of its brilliance ♪
+[00:28:27.380 --> 00:28:32.380]   ♪ The King of glory, the King above all kings ♪
+[00:28:32.380 --> 00:28:35.020]   ♪ This is amazing grace ♪
+[00:28:35.020 --> 00:28:39.680]   ♪ This is amazing grace ♪
+[00:28:39.680 --> 00:28:44.480]   ♪ This is unfailing love ♪
+[00:28:44.480 --> 00:28:49.320]   ♪ That you would take my blame ♪
+[00:28:49.320 --> 00:28:54.200]   ♪ That you would bear my cross ♪
+[00:28:54.200 --> 00:28:59.040]   ♪ You laid down your life ♪
+[00:28:59.040 --> 00:29:04.040]   ♪ That I would be set free ♪
+[00:29:05.420 --> 00:29:10.420]   ♪ Oh, Jesus, I sing for all that you've done for me ♪
+[00:29:10.420 --> 00:29:20.600]   ♪ Worthy is the Lamb who was slain ♪
+[00:29:20.600 --> 00:29:25.440]   ♪ Worthy is the King who conquered the grave ♪
+[00:29:25.440 --> 00:29:30.240]   ♪ Worthy is the Lamb who was slain ♪
+[00:29:30.240 --> 00:29:35.040]   ♪ Worthy is the King who conquered the grave ♪
+[00:29:35.040 --> 00:29:40.040]   ♪ Worthy is the Lamb who was slain ♪
+[00:29:40.040 --> 00:29:44.880]   ♪ Worthy is the King who conquered the grave ♪
+[00:29:44.880 --> 00:29:48.260]   ♪ Worthy is the Lamb who was slain ♪
+[00:29:48.260 --> 00:29:51.920]   ♪ Worthy, worthy, worthy ♪
+[00:29:51.920 --> 00:29:56.920]   ♪ Oh, this is amazing grace ♪
+[00:29:56.920 --> 00:30:02.140]   ♪ This is unfailing love ♪
+[00:30:02.140 --> 00:30:06.980]   ♪ That you would take my blame ♪
+[00:30:06.980 --> 00:30:11.940]   ♪ That you would bear my cross ♪
+[00:30:11.940 --> 00:30:16.720]   ♪ You laid down your life ♪
+[00:30:16.720 --> 00:30:21.720]   ♪ That I would be set free ♪
+[00:30:21.720 --> 00:30:28.120]   ♪ Oh, Jesus, I sing for all that you've done for me ♪
+[00:30:28.120 --> 00:30:30.720]   (upbeat music)
+[00:30:30.720 --> 00:30:39.960]   ♪ All that you've done for me ♪
+[00:30:39.960 --> 00:30:47.860]   (soft piano music)
+[00:30:47.860 --> 00:30:50.760]   (soft piano music)
+[00:30:50.760 --> 00:31:03.060]   ♪ Father of kindness, you have poured out grace ♪
+[00:31:03.060 --> 00:31:07.200]   ♪ You brought me out of darkness ♪
+[00:31:07.200 --> 00:31:11.300]   ♪ You filled me with peace ♪
+[00:31:11.300 --> 00:31:16.320]   ♪ Giver of mercy, you're my help in time of need ♪
+[00:31:16.320 --> 00:31:21.320]   ♪ Lord, I can't help but sing ♪
+[00:31:21.320 --> 00:31:29.320]   ♪ Faithful you are ♪
+[00:31:29.320 --> 00:31:36.320]   ♪ Faithful forever you will be ♪
+[00:31:36.320 --> 00:31:43.320]   ♪ Faithful you are ♪
+[00:31:44.320 --> 00:31:49.320]   ♪ Faithful forever you will be ♪
+[00:31:49.320 --> 00:31:55.320]   ♪ All your promises are yes and amen ♪
+[00:31:55.320 --> 00:32:02.320]   ♪ All your promises are yes and amen ♪
+[00:32:02.320 --> 00:32:05.740]   (soft music)
+[00:32:13.320 --> 00:32:18.320]   ♪ Beautiful Savior, you have brought me near ♪
+[00:32:18.320 --> 00:32:22.320]   ♪ You pulled me from the ashes ♪
+[00:32:22.320 --> 00:32:26.320]   ♪ You have broken every curse ♪
+[00:32:26.320 --> 00:32:31.320]   ♪ Blessed Redeemer, you have set this captive free ♪
+[00:32:31.320 --> 00:32:41.320]   ♪ And I can't help but sing ♪
+[00:32:42.320 --> 00:32:47.320]   ♪ Faithful you are ♪
+[00:32:47.320 --> 00:32:54.320]   ♪ Faithful forever you will be ♪
+[00:32:54.320 --> 00:33:01.320]   ♪ Faithful you are ♪
+[00:33:01.320 --> 00:33:03.320]   ♪ Yes you are ♪
+[00:33:03.320 --> 00:33:08.320]   ♪ All your promises are yes and amen ♪
+[00:33:10.320 --> 00:33:15.320]   ♪ All your promises are yes and amen ♪
+[00:33:15.320 --> 00:33:21.320]   ♪ Faithful you are ♪
+[00:33:21.320 --> 00:33:27.320]   ♪ Faithful forever you will be ♪
+[00:33:27.320 --> 00:33:34.320]   ♪ Faithful you are ♪
+[00:33:34.320 --> 00:33:36.320]   ♪ Yes you are ♪
+[00:33:36.320 --> 00:33:41.320]   ♪ All your promises are yes and amen ♪
+[00:33:41.320 --> 00:33:48.320]   ♪ All your promises are yes and amen ♪
+[00:33:48.320 --> 00:33:51.740]   (soft music)
+[00:34:01.320 --> 00:34:06.320]   ♪ I will rest in your promises ♪
+[00:34:06.320 --> 00:34:12.320]   ♪ My confidence is your faithfulness ♪
+[00:34:12.320 --> 00:34:19.320]   ♪ And I will rest in your promises ♪
+[00:34:19.320 --> 00:34:25.320]   ♪ My confidence is your faithfulness ♪
+[00:34:27.320 --> 00:34:32.320]   ♪ And I will rest in your promises ♪
+[00:34:32.320 --> 00:34:38.320]   ♪ My confidence is your faithfulness ♪
+[00:34:38.320 --> 00:34:45.320]   ♪ And I will rest in your promises ♪
+[00:34:45.320 --> 00:34:51.320]   ♪ My confidence is your faithfulness ♪
+[00:34:54.320 --> 00:34:59.320]   ♪ Faithful you are ♪
+[00:34:59.320 --> 00:35:06.320]   ♪ Faithful forever you will be ♪
+[00:35:06.320 --> 00:35:12.320]   ♪ Faithful you are ♪
+[00:35:12.320 --> 00:35:15.320]   ♪ Yes you are ♪
+[00:35:15.320 --> 00:35:20.320]   ♪ All your promises are yes and amen ♪
+[00:35:21.320 --> 00:35:26.320]   ♪ All your promises are yes and amen ♪
+[00:35:26.320 --> 00:35:28.320]   ♪ All your promises ♪
+[00:35:28.320 --> 00:35:32.820]   ♪ All your promises are yes and amen ♪
+[00:35:32.820 --> 00:35:36.740]   (soft music)
+[00:35:36.740 --> 00:35:49.400]   - Amen, you may be seated.
+[00:35:50.400 --> 00:35:52.820]   (soft music)
+[00:35:52.820 --> 00:36:05.240]   - Good morning, church family.
+[00:36:05.240 --> 00:36:06.320]   My name is Azul Lai.
+[00:36:06.320 --> 00:36:09.940]   I'm a second year at UCI, and this is my testimony.
+[00:36:09.940 --> 00:36:12.240]   Like many other people, I grew up in a Christian household
+[00:36:12.240 --> 00:36:13.480]   with parents and an older brother
+[00:36:13.480 --> 00:36:15.280]   that faithfully walked with the Lord
+[00:36:15.280 --> 00:36:17.880]   and actively served in church.
+[00:36:17.880 --> 00:36:19.560]   And although I knew of who God was,
+[00:36:19.560 --> 00:36:22.200]   and I believe that Jesus had died on the cross for my sins,
+[00:36:22.200 --> 00:36:25.060]   I never fully understood what it meant at the time.
+[00:36:25.060 --> 00:36:26.660]   It was simply something I knew in my head,
+[00:36:26.660 --> 00:36:29.140]   but my life was no truly different because of it,
+[00:36:29.140 --> 00:36:31.760]   and it was not something that was personal to me.
+[00:36:31.760 --> 00:36:33.400]   As I got older in middle school and high school,
+[00:36:33.400 --> 00:36:35.520]   I began to stray further from my faith.
+[00:36:35.520 --> 00:36:37.480]   Having lost my grandparents and other family members
+[00:36:37.480 --> 00:36:40.920]   to various illnesses or other personal struggles,
+[00:36:40.920 --> 00:36:43.240]   I began to become bitter and angry towards God.
+[00:36:43.240 --> 00:36:44.120]   And in my anger,
+[00:36:44.120 --> 00:36:46.640]   I questioned whether God truly cared about me.
+[00:36:46.640 --> 00:36:48.360]   I even began to question if he was real,
+[00:36:48.360 --> 00:36:51.480]   and even if he was, how could I continue to believe in a God
+[00:36:51.480 --> 00:36:54.480]   that seemed to be so indifferent to my life and my problems?
+[00:36:54.480 --> 00:36:57.680]   And although I had completely strayed away from my faith
+[00:36:57.680 --> 00:36:58.960]   at this point in my life,
+[00:36:58.960 --> 00:37:01.720]   I still continued to go to church to appease my parents.
+[00:37:01.720 --> 00:37:03.200]   Church became a habit,
+[00:37:03.200 --> 00:37:05.000]   a place where I could simply go through the motions
+[00:37:05.000 --> 00:37:07.580]   and put on a performance once a week.
+[00:37:07.580 --> 00:37:10.160]   But I had now fully put my faith in academics,
+[00:37:10.160 --> 00:37:12.460]   the hopes of a career, worldly accomplishments,
+[00:37:12.460 --> 00:37:14.900]   and in friendships or relationships with others.
+[00:37:14.900 --> 00:37:16.740]   I believed that accomplishing or gaining these things
+[00:37:16.740 --> 00:37:20.140]   would truly make me happy and cover up all of my problems.
+[00:37:20.140 --> 00:37:22.200]   And as I delved deeper into the things of the world,
+[00:37:22.200 --> 00:37:23.860]   I became consumed in my pride.
+[00:37:23.860 --> 00:37:25.820]   I was selfish and cynical,
+[00:37:25.820 --> 00:37:27.520]   often only caring about what I wanted,
+[00:37:27.520 --> 00:37:29.420]   while being completely indifferent to the cost and effect
+[00:37:29.420 --> 00:37:30.780]   that it had on others.
+[00:37:30.780 --> 00:37:32.540]   Coming into college,
+[00:37:32.540 --> 00:37:34.860]   I had the same selfish and worldly mindset.
+[00:37:34.860 --> 00:37:35.780]   However, for some reason,
+[00:37:35.780 --> 00:37:38.340]   I felt the need to truly examine my faith one last time,
+[00:37:38.340 --> 00:37:39.700]   because with no more parents to appease,
+[00:37:39.700 --> 00:37:42.500]   going to church on Sundays was completely up to me.
+[00:37:42.500 --> 00:37:43.800]   And now looking back on this moment,
+[00:37:43.800 --> 00:37:45.300]   I knew that it was the Holy Spirit
+[00:37:45.300 --> 00:37:47.600]   that was working to soften my heart and heart.
+[00:37:47.600 --> 00:37:49.520]   Coming to Berean,
+[00:37:49.520 --> 00:37:51.520]   I was extremely blessed to have such patient brothers
+[00:37:51.520 --> 00:37:53.520]   and sisters, not only to walk alongside me
+[00:37:53.520 --> 00:37:55.160]   through my questions and struggles,
+[00:37:55.160 --> 00:37:58.140]   but to also constantly point me to Christ through it all.
+[00:37:58.140 --> 00:38:02.460]   And also their passion and desire to seek after the Lord
+[00:38:02.460 --> 00:38:04.980]   was and still is a great encouragement to me.
+[00:38:04.980 --> 00:38:06.700]   And during this time,
+[00:38:06.700 --> 00:38:09.860]   I began to consistently spend time in the word
+[00:38:09.860 --> 00:38:10.960]   for the first time,
+[00:38:10.960 --> 00:38:13.040]   even after attending church for so many years.
+[00:38:13.040 --> 00:38:15.380]   And I also prayed to God that he would soften my heart
+[00:38:15.380 --> 00:38:16.380]   and that the gospel message
+[00:38:16.380 --> 00:38:18.080]   would truly become personal to me.
+[00:38:18.080 --> 00:38:22.380]   However, throughout most of my first year,
+[00:38:22.380 --> 00:38:24.220]   I still held onto the things of the world
+[00:38:24.220 --> 00:38:26.380]   and my own fleshly desires.
+[00:38:26.380 --> 00:38:27.620]   It was not until later in the school year
+[00:38:27.620 --> 00:38:29.220]   that although it seemed that in many ways
+[00:38:29.220 --> 00:38:31.460]   I'd accomplished or gotten everything that I ever wanted,
+[00:38:31.460 --> 00:38:33.180]   it did not give me the joy or satisfaction
+[00:38:33.180 --> 00:38:34.500]   that I thought it would bring.
+[00:38:34.500 --> 00:38:37.500]   I struggled often with stress and anxiousness.
+[00:38:37.500 --> 00:38:38.820]   I remember during this difficult time
+[00:38:38.820 --> 00:38:39.980]   that I was reading through Romans.
+[00:38:39.980 --> 00:38:43.080]   I remember reading Romans five verses one to two.
+[00:38:43.080 --> 00:38:44.680]   Therefore, having been justified by faith,
+[00:38:44.680 --> 00:38:47.320]   we have peace with God through our Lord Jesus Christ,
+[00:38:47.320 --> 00:38:50.000]   through whom also we have obtained our introduction by faith
+[00:38:50.000 --> 00:38:52.000]   into this grace in which we stand
+[00:38:52.000 --> 00:38:54.600]   and we exalt in the hope of the glory of God.
+[00:38:54.600 --> 00:38:56.960]   And in my desperation,
+[00:38:56.960 --> 00:38:58.260]   I prayed to God that I would no longer
+[00:38:58.260 --> 00:38:59.720]   simply keep him at a distance,
+[00:38:59.720 --> 00:39:00.920]   but that I would truly live a life
+[00:39:00.920 --> 00:39:02.480]   that was glorifying to him.
+[00:39:02.480 --> 00:39:03.360]   That he would forgive me
+[00:39:03.360 --> 00:39:05.960]   for how I'd strayed away from him for all those years,
+[00:39:05.960 --> 00:39:09.200]   all the bitterness and anger that I held onto for so long.
+[00:39:09.200 --> 00:39:11.420]   I prayed that I would truly submit to his will for my life
+[00:39:11.420 --> 00:39:12.980]   no matter what it may be.
+[00:39:12.980 --> 00:39:14.980]   And I prayed that I would trust in him throughout everything
+[00:39:14.980 --> 00:39:16.020]   recognizing that my wisdom
+[00:39:16.020 --> 00:39:18.340]   had failed me time and time again.
+[00:39:18.340 --> 00:39:19.980]   Recognizing that throughout my life,
+[00:39:19.980 --> 00:39:21.180]   God had always been faithful
+[00:39:21.180 --> 00:39:23.340]   even though I ran away and rejected him.
+[00:39:23.340 --> 00:39:24.620]   He had loved me through it all
+[00:39:24.620 --> 00:39:25.780]   and he had always remained sovereign
+[00:39:25.780 --> 00:39:27.580]   and provided for me through it all.
+[00:39:27.580 --> 00:39:30.620]   Now after placing my faith in God,
+[00:39:30.620 --> 00:39:31.940]   although my life is not perfect
+[00:39:31.940 --> 00:39:33.620]   and in many ways there are still many struggles
+[00:39:33.620 --> 00:39:34.900]   and ups and downs,
+[00:39:34.900 --> 00:39:37.900]   through it all I'm able to find comfort, joy and hope
+[00:39:37.900 --> 00:39:40.000]   in my identity centered in Christ.
+[00:39:40.000 --> 00:39:41.040]   I wanted to end with reading
+[00:39:41.040 --> 00:39:44.520]   from 1 Peter 1, verses six to seven.
+[00:39:44.520 --> 00:39:46.520]   "And this you greatly rejoice,
+[00:39:46.520 --> 00:39:48.920]   even though now for a little while if necessary
+[00:39:48.920 --> 00:39:51.080]   you have been distressed by various trials,
+[00:39:51.080 --> 00:39:52.280]   so that the proof of your faith,
+[00:39:52.280 --> 00:39:54.480]   being more precious than gold which is perishable,
+[00:39:54.480 --> 00:39:55.720]   even though tested by fire,
+[00:39:55.720 --> 00:39:58.520]   may be found to result in praise and glory and honor
+[00:39:58.520 --> 00:40:00.320]   at the revelation of Jesus Christ."
+[00:40:00.320 --> 00:40:01.500]   Thank you.
+[00:40:01.500 --> 00:40:04.660]   (audience applauding)
+[00:40:04.660 --> 00:40:07.500]   (water trickling)
+[00:40:07.500 --> 00:40:22.620]   - Oswald, do you understand
+[00:40:22.620 --> 00:40:23.640]   when you're going into the water
+[00:40:23.640 --> 00:40:25.400]   you're being guided to Christ's death
+[00:40:25.400 --> 00:40:26.240]   and when you come out
+[00:40:26.240 --> 00:40:27.880]   you're being guided to his resurrected life?
+[00:40:27.880 --> 00:40:28.720]   - I do.
+[00:40:28.720 --> 00:40:30.680]   - And I baptize you in the name of the Father,
+[00:40:30.680 --> 00:40:32.760]   the Son and the Holy Spirit.
+[00:40:32.760 --> 00:40:35.600]   (water trickling)
+[00:40:35.600 --> 00:40:39.780]   (audience laughing)
+[00:40:39.780 --> 00:40:42.940]   (audience applauding)
+[00:40:42.940 --> 00:40:54.900]   - All right, thank you for that great testimony.
+[00:40:54.900 --> 00:40:58.660]   If you can turn your Bibles with me to Luke chapter six,
+[00:40:58.660 --> 00:41:02.920]   we'll be reading from verse 39 to 45.
+[00:41:02.920 --> 00:41:10.120]   Luke chapter six, verse 39 to 45,
+[00:41:10.120 --> 00:41:14.320]   this is the second part that we started from last week,
+[00:41:14.320 --> 00:41:15.780]   reading out of the NASB.
+[00:41:15.780 --> 00:41:18.520]   And he also spoke a parable to them,
+[00:41:18.520 --> 00:41:21.200]   "A blind man cannot guide a blind man, can he?
+[00:41:21.200 --> 00:41:23.600]   Will they not both fall into a pit?
+[00:41:23.600 --> 00:41:25.240]   A pupil is not above his teacher,
+[00:41:25.240 --> 00:41:27.440]   but everyone after he has been fully trained
+[00:41:27.440 --> 00:41:29.320]   will be like his teacher.
+[00:41:29.320 --> 00:41:31.580]   Why do you look at the speck that is in your brother's eye,
+[00:41:31.580 --> 00:41:34.360]   but do not notice the log that is in your own eye?
+[00:41:34.360 --> 00:41:36.560]   Or how can you say to your brother,
+[00:41:36.560 --> 00:41:38.940]   brother, let me take out the speck that is in your eye
+[00:41:38.940 --> 00:41:40.660]   when you yourself do not see the log
+[00:41:40.660 --> 00:41:42.260]   that is in your own eye?
+[00:41:42.260 --> 00:41:45.340]   You hypocrite, first take the log out of your own eye
+[00:41:45.340 --> 00:41:46.740]   and then you will see clearly
+[00:41:46.740 --> 00:41:49.380]   to take out the speck that is in your brother's eye.
+[00:41:49.380 --> 00:41:52.400]   For there's no good tree which produces bad fruit,
+[00:41:52.400 --> 00:41:53.580]   nor on the other hand,
+[00:41:53.580 --> 00:41:55.860]   a bad tree which produces good fruit.
+[00:41:55.860 --> 00:41:58.620]   For each tree is known by its own fruit,
+[00:41:58.620 --> 00:42:01.260]   for men do not gather figs from thorns,
+[00:42:01.260 --> 00:42:04.020]   nor do they pick grapes from a briar bush.
+[00:42:04.020 --> 00:42:06.020]   The good man out of the good treasure of his heart
+[00:42:06.020 --> 00:42:07.620]   brings forth what is good,
+[00:42:07.620 --> 00:42:09.420]   and the evil man out of the evil treasure
+[00:42:09.420 --> 00:42:11.020]   brings forth what is evil,
+[00:42:11.020 --> 00:42:14.060]   for his mouth speaks from that which fills his heart."
+[00:42:14.060 --> 00:42:14.900]   Let's pray.
+[00:42:14.900 --> 00:42:20.740]   Father, we pray for your Holy Spirit's help
+[00:42:20.740 --> 00:42:23.020]   to guide us and lead us,
+[00:42:23.020 --> 00:42:27.100]   give us understanding beyond just mental consent,
+[00:42:27.100 --> 00:42:30.020]   that it is not simply the words, but your very heart.
+[00:42:30.020 --> 00:42:32.500]   I pray, Father God, for your guidance.
+[00:42:32.500 --> 00:42:34.020]   In Jesus' name we pray, amen.
+[00:42:34.020 --> 00:42:40.940]   You know, as a pastor, when I meet other pastors,
+[00:42:40.940 --> 00:42:43.860]   one of the first questions I usually get is,
+[00:42:43.860 --> 00:42:45.580]   what school did you go to, right?
+[00:42:45.580 --> 00:42:46.460]   What seminary?
+[00:42:46.460 --> 00:42:49.060]   And the reason why they ask that question
+[00:42:49.060 --> 00:42:52.460]   is because they say, depending on what seminary you go to,
+[00:42:52.460 --> 00:42:53.580]   they're gonna determine, it's like,
+[00:42:53.580 --> 00:42:56.580]   oh, okay, so you believe these things,
+[00:42:56.580 --> 00:42:58.780]   or they assume certain things.
+[00:42:58.780 --> 00:43:00.460]   Or if I said I went to Master's,
+[00:43:00.460 --> 00:43:02.100]   like, oh, you went to Master's.
+[00:43:02.100 --> 00:43:03.660]   Or I went to Westminster, it's like,
+[00:43:03.660 --> 00:43:05.860]   oh, you went to Westminster.
+[00:43:05.860 --> 00:43:06.940]   So there are certain things that,
+[00:43:06.940 --> 00:43:08.660]   if you're sitting under a certain kind of teaching,
+[00:43:08.660 --> 00:43:10.020]   certain kind of philosophy,
+[00:43:10.020 --> 00:43:12.900]   they would assume that you adhere to that, right?
+[00:43:12.900 --> 00:43:15.300]   Probably as members of the church,
+[00:43:15.300 --> 00:43:16.420]   if you meet other Christians,
+[00:43:16.420 --> 00:43:18.460]   one of the first questions that you may get
+[00:43:18.460 --> 00:43:20.540]   is, what church do you go to, right?
+[00:43:20.540 --> 00:43:22.460]   So if you say, I go to Saddleback,
+[00:43:22.460 --> 00:43:24.340]   say, oh, you go to Saddleback.
+[00:43:24.340 --> 00:43:28.260]   Or if you say, you go to Grace Community Church,
+[00:43:28.260 --> 00:43:30.820]   oh, you're a John MacArthur guy, right?
+[00:43:30.820 --> 00:43:33.180]   Or maybe some people would ask you,
+[00:43:33.180 --> 00:43:34.260]   no, I mean, what church you go to?
+[00:43:34.260 --> 00:43:38.140]   I go to Berean, it's like, oh, you go to Berean, right?
+[00:43:38.140 --> 00:43:40.740]   So whatever church you say that you are,
+[00:43:40.740 --> 00:43:43.420]   there's certain assumptions that people will make about you
+[00:43:43.420 --> 00:43:47.020]   because you're under a certain type of teaching, right?
+[00:43:47.020 --> 00:43:49.140]   And so either you adhere to that
+[00:43:49.140 --> 00:43:51.820]   and become like what you're being taught,
+[00:43:51.820 --> 00:43:55.420]   or you're very frustrated, you want things to change,
+[00:43:55.420 --> 00:43:57.180]   but it's not being changed, it's being changed,
+[00:43:57.180 --> 00:44:00.660]   so you kind of, you know, are not happy where you're at.
+[00:44:00.660 --> 00:44:03.380]   So eventually that'll cause you to leave
+[00:44:03.380 --> 00:44:05.260]   and find a church where you feel like
+[00:44:05.260 --> 00:44:08.420]   you're gonna be able to learn and become like that, right?
+[00:44:08.420 --> 00:44:12.620]   Or you conform and you become whatever is being taught.
+[00:44:12.620 --> 00:44:15.820]   That's exactly what Jesus was saying
+[00:44:15.820 --> 00:44:18.300]   because prior to this text that we're looking at,
+[00:44:18.300 --> 00:44:21.180]   Jesus was teaching his disciples
+[00:44:21.180 --> 00:44:24.620]   that the primary thing that God desires of his disciples
+[00:44:24.620 --> 00:44:27.980]   is to practice the love that he practiced with them.
+[00:44:27.980 --> 00:44:30.220]   He said our identifying mark,
+[00:44:30.220 --> 00:44:34.700]   the highest identifying mark of a genuine believer
+[00:44:34.700 --> 00:44:38.060]   is his love, it's the quality of his love,
+[00:44:38.060 --> 00:44:41.860]   this agape love, to love people the way he loved us,
+[00:44:41.860 --> 00:44:44.220]   to love people that are difficult to love,
+[00:44:44.220 --> 00:44:47.100]   love people that are our enemies,
+[00:44:47.100 --> 00:44:49.180]   who are persecuting us, who are out to harm us,
+[00:44:49.180 --> 00:44:51.900]   to bless them, to do good to them.
+[00:44:51.900 --> 00:44:54.940]   And he says the reason why it's hard for you to understand
+[00:44:54.940 --> 00:44:59.180]   is because the leaders in your life were blind,
+[00:44:59.180 --> 00:45:00.940]   and they were blind leading the blind,
+[00:45:00.940 --> 00:45:04.100]   so that's why they ended up falling into a pit.
+[00:45:04.100 --> 00:45:06.060]   And so all of the things that he's saying here
+[00:45:06.060 --> 00:45:09.660]   was an indictment against these Pharisees,
+[00:45:09.660 --> 00:45:12.200]   that they were under poor leadership.
+[00:45:12.200 --> 00:45:13.900]   In fact, we talked about that last week,
+[00:45:13.900 --> 00:45:18.660]   how much the Bible has to say about leadership in Israel,
+[00:45:18.660 --> 00:45:20.740]   and how much it has to say about leadership
+[00:45:20.740 --> 00:45:22.660]   in the church in general,
+[00:45:22.660 --> 00:45:25.860]   that if you don't take leadership seriously,
+[00:45:25.860 --> 00:45:28.340]   it's just a matter of time that the church
+[00:45:28.340 --> 00:45:31.700]   or the organization will go down as the leader goes down.
+[00:45:31.700 --> 00:45:36.820]   As much as the Bible says about the Pharisees,
+[00:45:36.820 --> 00:45:40.180]   and as much rebuke is given to the Pharisees,
+[00:45:40.180 --> 00:45:41.280]   you know, we talked about last week
+[00:45:41.280 --> 00:45:43.180]   how repeatedly, over and over again,
+[00:45:43.180 --> 00:45:45.940]   you Pharisees, you hypocrites, you hypocrites,
+[00:45:45.940 --> 00:45:48.860]   you hypocrites, you actors,
+[00:45:48.860 --> 00:45:50.580]   you're living up to the role,
+[00:45:50.580 --> 00:45:51.900]   the title that you've been given,
+[00:45:51.900 --> 00:45:53.060]   but you're not actually leading
+[00:45:53.060 --> 00:45:55.480]   because you yourself are blind.
+[00:45:55.480 --> 00:45:59.540]   But before we're too harsh on them,
+[00:45:59.540 --> 00:46:01.340]   we have to understand that the Pharisees,
+[00:46:01.340 --> 00:46:03.700]   when they first started, they didn't start by saying,
+[00:46:03.700 --> 00:46:06.820]   you know, let's organize and become good hypocrites.
+[00:46:06.820 --> 00:46:07.900]   That's not how they started.
+[00:46:07.900 --> 00:46:11.300]   They started out thinking that they're not gonna be
+[00:46:11.300 --> 00:46:13.900]   like the other Jews who kind of compromise
+[00:46:13.900 --> 00:46:17.180]   and become Hellenized and become more and more worldly.
+[00:46:17.180 --> 00:46:19.140]   They knew that God's judgment
+[00:46:19.140 --> 00:46:20.300]   came upon the nation of Israel
+[00:46:20.300 --> 00:46:22.860]   because they didn't take the warning from God seriously.
+[00:46:22.860 --> 00:46:24.780]   So the Pharisees got together,
+[00:46:24.780 --> 00:46:26.980]   and the name itself means to be set apart.
+[00:46:26.980 --> 00:46:28.360]   They wanted to be holy.
+[00:46:28.360 --> 00:46:30.960]   They wanted to be disciplined.
+[00:46:30.960 --> 00:46:32.500]   They wanted to take the law seriously.
+[00:46:32.500 --> 00:46:34.100]   They wanted the Lord's blessing.
+[00:46:34.100 --> 00:46:39.140]   But as time went by, their desire to be holy
+[00:46:39.140 --> 00:46:41.620]   eventually turned into self-righteousness.
+[00:46:41.620 --> 00:46:46.420]   And Jesus explains here the reason why they were blind,
+[00:46:46.420 --> 00:46:49.080]   primarily, is because they were focused
+[00:46:49.080 --> 00:46:52.440]   on other people's unrighteousness instead of their own.
+[00:46:52.440 --> 00:46:54.860]   Next week, we're gonna be talking about
+[00:46:54.860 --> 00:46:56.760]   the second part of that,
+[00:46:56.760 --> 00:47:00.340]   is because their very nature was not changed.
+[00:47:00.340 --> 00:47:03.540]   And all they did was have a checkoff list
+[00:47:03.540 --> 00:47:04.460]   that they were good at,
+[00:47:04.460 --> 00:47:07.360]   and then whoever didn't do what they were doing,
+[00:47:07.360 --> 00:47:08.860]   they needed to fix.
+[00:47:08.860 --> 00:47:14.080]   The text that we're looking at in Luke chapter 6, 41 and 42,
+[00:47:14.080 --> 00:47:18.320]   basically, Jesus is indicting the leaders of Israel.
+[00:47:18.320 --> 00:47:20.360]   The reason why they are blind
+[00:47:20.360 --> 00:47:24.780]   is because they were blind to their own problems.
+[00:47:24.780 --> 00:47:27.200]   Verse 41, "Why do you look at the speck
+[00:47:27.200 --> 00:47:28.460]   "that is in your brother's eye,
+[00:47:28.460 --> 00:47:31.220]   "but do not notice the log that is in your own eye?"
+[00:47:31.220 --> 00:47:33.640]   In other words, you're so concerned
+[00:47:33.640 --> 00:47:35.960]   about this little toothpick that you're trying to pick
+[00:47:35.960 --> 00:47:37.520]   and say, "You know, you got this in your eye,
+[00:47:37.520 --> 00:47:39.180]   "you got this in your eye,
+[00:47:39.180 --> 00:47:40.860]   "but you got a log in your eye."
+[00:47:40.860 --> 00:47:43.980]   Obviously, it's in hyperbole describing
+[00:47:43.980 --> 00:47:45.620]   how blind they are in verse 42.
+[00:47:45.620 --> 00:47:47.660]   Or, "How can you say to your brothers,
+[00:47:47.660 --> 00:47:50.280]   "brothers, let me take out the speck that is in your eye,
+[00:47:50.280 --> 00:47:52.460]   "when you yourself do not see the log
+[00:47:52.460 --> 00:47:54.620]   "that is in your own eye?"
+[00:47:54.620 --> 00:47:57.580]   You notice he's saying, "You're blind."
+[00:47:57.580 --> 00:47:58.980]   The previous verse, he said,
+[00:47:58.980 --> 00:48:02.100]   "You have leaders who are blind who are leading you,
+[00:48:02.100 --> 00:48:03.900]   "who are leading other people who are blind,
+[00:48:03.900 --> 00:48:05.380]   "that's leading you into a pit."
+[00:48:05.380 --> 00:48:08.700]   And so he describes here why they are blind.
+[00:48:08.700 --> 00:48:13.060]   They are blind because they do not see their own sins.
+[00:48:13.060 --> 00:48:16.500]   They're so concerned about sins of other people
+[00:48:16.500 --> 00:48:18.420]   that they became blind themselves.
+[00:48:18.420 --> 00:48:20.060]   When you yourself do not see the log
+[00:48:20.060 --> 00:48:22.120]   that is in your own eye, you hypocrite.
+[00:48:22.120 --> 00:48:24.980]   First, take the log out of your own eye,
+[00:48:24.980 --> 00:48:27.500]   then you will see clearly to take out the speck
+[00:48:27.500 --> 00:48:29.460]   that is in your brother's eye.
+[00:48:29.460 --> 00:48:34.740]   Every single one of us are much better
+[00:48:34.740 --> 00:48:37.380]   at pointing out other people's sin than our own sins.
+[00:48:37.380 --> 00:48:42.400]   Most of you probably don't know what your car smells like.
+[00:48:42.400 --> 00:48:48.260]   Once you bought the car and that new car smell disappears,
+[00:48:48.260 --> 00:48:49.760]   and then after about four or five years,
+[00:48:49.760 --> 00:48:51.860]   and you're the primary driver of that car,
+[00:48:51.860 --> 00:48:57.140]   your car begins to take on your smell.
+[00:48:57.140 --> 00:48:59.040]   And you don't know it because you've become
+[00:48:59.040 --> 00:49:00.780]   so accustomed to this smell
+[00:49:00.780 --> 00:49:03.020]   until somebody new comes into your car
+[00:49:03.020 --> 00:49:04.940]   and they say, "What is this?"
+[00:49:04.940 --> 00:49:07.780]   And you say, "What smell?
+[00:49:07.780 --> 00:49:08.600]   "What are you talking about?"
+[00:49:08.600 --> 00:49:10.980]   Because you've become so accustomed to that smell.
+[00:49:10.980 --> 00:49:14.840]   At our house, we have two cats that I adore.
+[00:49:14.840 --> 00:49:19.700]   If you don't know what sarcasm is, that was sarcasm.
+[00:49:19.700 --> 00:49:23.420]   Every once in a while, somebody will come into our house
+[00:49:23.420 --> 00:49:27.660]   and they say, "Your house smells like cats."
+[00:49:27.660 --> 00:49:30.280]   I don't smell it 'cause I'm in it.
+[00:49:30.280 --> 00:49:33.820]   I've been in it for a long time, so I don't smell it.
+[00:49:33.820 --> 00:49:36.020]   But when people come into our house,
+[00:49:36.020 --> 00:49:39.020]   they'll say it started to take on the smell of the cats,
+[00:49:39.020 --> 00:49:40.680]   which I'm very happy about.
+[00:49:40.680 --> 00:49:44.000]   Again, it's sarcasm.
+[00:49:44.000 --> 00:49:47.700]   I don't recognize it because I'm in it.
+[00:49:47.700 --> 00:49:50.500]   I'm a part of it, so I've become so accustomed to it
+[00:49:50.500 --> 00:49:52.500]   that I don't recognize it.
+[00:49:52.500 --> 00:49:55.680]   And it is in the same way with our own sins.
+[00:49:55.680 --> 00:49:59.700]   We become so accustomed to it
+[00:49:59.700 --> 00:50:04.240]   that we don't realize how it looks to other people.
+[00:50:04.240 --> 00:50:08.880]   So other people see our sins and they wanna take that out,
+[00:50:08.880 --> 00:50:12.620]   but we're so good at seeing other people's sins
+[00:50:12.620 --> 00:50:14.740]   that we think that if we just fix that,
+[00:50:14.740 --> 00:50:16.380]   everything would be so good.
+[00:50:16.380 --> 00:50:22.120]   You say, "A more godly spin to this?"
+[00:50:22.120 --> 00:50:25.700]   Is that, "No, I need to speak the truth in love
+[00:50:25.700 --> 00:50:26.920]   "because I'm doing God's work.
+[00:50:26.920 --> 00:50:28.280]   "How do we ever disciple anybody
+[00:50:28.280 --> 00:50:30.480]   "if I don't point out other people's love?"
+[00:50:30.480 --> 00:50:32.120]   We're cowards.
+[00:50:32.120 --> 00:50:33.540]   We're afraid to point it out,
+[00:50:33.540 --> 00:50:38.540]   so we take on a godly spin to focusing on other people's sins
+[00:50:38.540 --> 00:50:41.840]   for the kingdom of God, right?
+[00:50:41.840 --> 00:50:43.280]   'Cause other people are not willing to do it,
+[00:50:43.280 --> 00:50:45.260]   so I'm gonna go out and point out, "This is sin.
+[00:50:45.260 --> 00:50:46.720]   "This is sin."
+[00:50:46.720 --> 00:50:49.280]   I remember back in college, I was a part of a ministry,
+[00:50:49.280 --> 00:50:50.960]   and it was a charismatic ministry,
+[00:50:50.960 --> 00:50:52.920]   and part of the charismatic thing that they was doing
+[00:50:52.920 --> 00:50:55.980]   was that God told me that you had three sins.
+[00:50:55.980 --> 00:50:57.860]   And the leaders would walk around and say,
+[00:50:57.860 --> 00:50:58.700]   "I have this vision.
+[00:50:58.700 --> 00:51:00.400]   "You have three sins."
+[00:51:00.400 --> 00:51:02.080]   And I remember the people who are under that
+[00:51:02.080 --> 00:51:04.120]   would walk around saying, "I know two of 'em.
+[00:51:04.120 --> 00:51:06.520]   "I don't know what the third one is," right?
+[00:51:06.520 --> 00:51:07.840]   And they were constantly focusing on,
+[00:51:07.840 --> 00:51:10.520]   "What is the other sin I need to do?"
+[00:51:10.520 --> 00:51:12.760]   Now, that's a charismatic spin to that,
+[00:51:12.760 --> 00:51:18.280]   but naturally, we have a tendency to think
+[00:51:18.280 --> 00:51:22.080]   if they change, everything would be better.
+[00:51:22.080 --> 00:51:23.740]   See, that was the problem with the Pharisees.
+[00:51:23.740 --> 00:51:28.200]   Pharisees were constantly focused on other people's sins.
+[00:51:28.200 --> 00:51:30.180]   In Psalm 139, 23-24, it says,
+[00:51:30.180 --> 00:51:33.780]   "Search me, O God, and know my heart.
+[00:51:33.780 --> 00:51:36.340]   "Try me and know my anxious thoughts,
+[00:51:36.340 --> 00:51:38.560]   "and see if there be any hurtful way in me,
+[00:51:38.560 --> 00:51:41.080]   "and lead me in the everlasting way."
+[00:51:41.080 --> 00:51:45.760]   See, an individual who is truly growing in their faith
+[00:51:45.760 --> 00:51:49.200]   is somebody who is broken over their own sins.
+[00:51:51.440 --> 00:51:55.020]   The problem that we have if we're not careful
+[00:51:55.020 --> 00:51:58.520]   is that we get so focused on other people's sins,
+[00:51:58.520 --> 00:52:02.980]   one, it blinds us, and then it exaggerates their sins,
+[00:52:02.980 --> 00:52:04.580]   and so we have a tendency,
+[00:52:04.580 --> 00:52:05.980]   we're living in constant frustration
+[00:52:05.980 --> 00:52:08.820]   that they're not doing what they're supposed to be doing.
+[00:52:08.820 --> 00:52:12.820]   And so it leads to frustration, not only to you,
+[00:52:12.820 --> 00:52:15.660]   but it leads to frustration with everybody else.
+[00:52:15.660 --> 00:52:20.660]   In 1 Timothy 4, 16, as Paul is training this young pastor
+[00:52:21.340 --> 00:52:24.780]   to take over as the pastor of the Church of Ephesus,
+[00:52:24.780 --> 00:52:27.080]   he's training this young pastor up, and he says,
+[00:52:27.080 --> 00:52:31.480]   "Pay close attention to yourself and to your teaching.
+[00:52:31.480 --> 00:52:33.680]   "Persevere in these things, for as you do this,
+[00:52:33.680 --> 00:52:36.220]   "you will ensure salvation both for yourselves
+[00:52:36.220 --> 00:52:39.080]   "and for those who hear you."
+[00:52:39.080 --> 00:52:42.680]   You notice here, he says, "In order to save them,
+[00:52:42.680 --> 00:52:45.660]   "in order to save yourself, to do what?
+[00:52:45.660 --> 00:52:47.680]   "Examine them carefully to make sure
+[00:52:47.680 --> 00:52:49.220]   "what they're doing wrong.
+[00:52:50.340 --> 00:52:52.140]   "Make sure you assess them properly
+[00:52:52.140 --> 00:52:55.040]   "to make sure you can tell them what they're doing wrong
+[00:52:55.040 --> 00:52:57.160]   "so that they can be discipled and be better,
+[00:52:57.160 --> 00:52:58.120]   "they can do things better."
+[00:52:58.120 --> 00:52:59.140]   He says, "No."
+[00:52:59.140 --> 00:53:01.720]   He says, "In order for their salvation
+[00:53:01.720 --> 00:53:05.200]   "and for your salvation," he says, "Watch yourself.
+[00:53:05.200 --> 00:53:11.200]   "Watch yourself, your life, and your doctrines carefully."
+[00:53:11.200 --> 00:53:15.600]   What happens to a community where people are trained
+[00:53:15.600 --> 00:53:18.600]   to constantly examine other people?
+[00:53:18.600 --> 00:53:20.340]   And that's their primary focus.
+[00:53:20.340 --> 00:53:21.500]   What ends up happening?
+[00:53:21.500 --> 00:53:25.780]   You have a community of people who are constantly concerned
+[00:53:25.780 --> 00:53:27.680]   about what other people think.
+[00:53:27.680 --> 00:53:30.520]   See, that's what happened with the Pharisees.
+[00:53:30.520 --> 00:53:32.100]   Pharisees, because they're hypocrites,
+[00:53:32.100 --> 00:53:34.060]   they presented themselves as godly,
+[00:53:34.060 --> 00:53:36.680]   even though they were ungodly behind the scenes,
+[00:53:36.680 --> 00:53:41.060]   created an environment where they were under bondage.
+[00:53:41.060 --> 00:53:43.860]   They were constantly under bondage
+[00:53:43.860 --> 00:53:45.460]   because they knew that they were gonna be judged
+[00:53:45.460 --> 00:53:48.340]   for whatever they did, whatever they said,
+[00:53:48.340 --> 00:53:50.700]   whatever they did, wherever they lived,
+[00:53:50.700 --> 00:53:52.220]   whatever they didn't do,
+[00:53:52.220 --> 00:53:54.220]   they knew they were gonna be called out.
+[00:53:54.220 --> 00:53:57.780]   He says, "The reason why they were blind
+[00:53:57.780 --> 00:54:01.720]   "is because they were so focused on themselves,
+[00:54:01.720 --> 00:54:03.520]   "on other people's sins."
+[00:54:03.520 --> 00:54:07.580]   You know, it's interesting that when it comes to wealth,
+[00:54:07.580 --> 00:54:08.940]   we have a tendency to compare it
+[00:54:08.940 --> 00:54:11.460]   with people who have more than us, right?
+[00:54:11.460 --> 00:54:14.700]   Americans, you know, we're all wealthy,
+[00:54:14.700 --> 00:54:18.100]   but then we always find somebody who's wealthier than us.
+[00:54:18.100 --> 00:54:18.940]   Right?
+[00:54:18.940 --> 00:54:20.020]   If you're making 100,000,
+[00:54:20.020 --> 00:54:21.700]   you know somebody who's making 200,000.
+[00:54:21.700 --> 00:54:23.620]   If you live in a nice house, three-bedroom house,
+[00:54:23.620 --> 00:54:25.780]   you know somebody who has a four-bedroom house.
+[00:54:25.780 --> 00:54:28.700]   You drive a nice car, somebody has a better car than you.
+[00:54:28.700 --> 00:54:32.780]   You have Tesla 3, somebody has Tesla S, right?
+[00:54:32.780 --> 00:54:36.600]   So whenever we come to, come about wealth,
+[00:54:36.600 --> 00:54:41.600]   we have a tendency to justify our pursuit of money
+[00:54:41.600 --> 00:54:44.380]   because we're not rich,
+[00:54:44.380 --> 00:54:46.260]   'cause we have a tendency to always compare
+[00:54:46.260 --> 00:54:48.940]   to the people who are better than us.
+[00:54:48.940 --> 00:54:50.600]   But when it comes to our righteousness,
+[00:54:50.600 --> 00:54:52.860]   for some reason, we do exactly the opposite.
+[00:54:52.860 --> 00:54:55.820]   We look at people who are worse than us.
+[00:54:55.820 --> 00:54:56.740]   We're failing.
+[00:54:56.740 --> 00:54:58.420]   We're not doing what we're doing.
+[00:54:58.420 --> 00:55:00.860]   At least we're not as bad as them.
+[00:55:00.860 --> 00:55:03.980]   So we justify.
+[00:55:03.980 --> 00:55:06.860]   We justify pursuit of riches by saying,
+[00:55:06.860 --> 00:55:08.340]   "We're not really rich like them,"
+[00:55:08.340 --> 00:55:10.980]   and we justify our sins by always comparing
+[00:55:10.980 --> 00:55:12.940]   with people who are worse than us.
+[00:55:12.940 --> 00:55:15.420]   That's exactly what the Pharisees did.
+[00:55:15.420 --> 00:55:17.460]   Luke 18, 11 through 13, the Pharisee stood
+[00:55:17.460 --> 00:55:19.340]   and was praying this to himself.
+[00:55:19.340 --> 00:55:21.880]   "God, I thank you that I am not like other people,
+[00:55:21.880 --> 00:55:23.560]   "swindlers, unjust adulterers,
+[00:55:23.560 --> 00:55:25.580]   "or even like this tax collector.
+[00:55:25.580 --> 00:55:27.020]   "I fast twice a week.
+[00:55:27.020 --> 00:55:29.700]   "I pay tithes of all that I get."
+[00:55:29.700 --> 00:55:34.100]   You notice here he's chosen swindlers, unjust adulterers,
+[00:55:34.100 --> 00:55:36.260]   or even tax collectors, the worst of sinners
+[00:55:36.260 --> 00:55:39.740]   that everybody acknowledges are sinners.
+[00:55:39.740 --> 00:55:41.340]   And he says, "Thank God I'm not like them."
+[00:55:41.340 --> 00:55:43.020]   In other words, I am righteous.
+[00:55:44.260 --> 00:55:47.140]   We have a tendency to always compare our righteousness
+[00:55:47.140 --> 00:55:49.220]   with other people who are more unrighteous,
+[00:55:49.220 --> 00:55:51.220]   and so therefore we don't feel as bad.
+[00:55:51.220 --> 00:55:54.540]   The tax collector, on the other hand, verse 13,
+[00:55:54.540 --> 00:55:56.480]   the tax collector standing some distance away
+[00:55:56.480 --> 00:55:59.240]   was even unwilling to lift up his eyes to heaven,
+[00:55:59.240 --> 00:56:00.800]   but was beating his breast saying,
+[00:56:00.800 --> 00:56:03.640]   "God, be merciful to me, the sinner."
+[00:56:03.640 --> 00:56:06.460]   And Jesus asked the questions to his disciples,
+[00:56:06.460 --> 00:56:07.860]   "Who was justified?"
+[00:56:07.860 --> 00:56:09.980]   Says the tax collector.
+[00:56:09.980 --> 00:56:12.920]   Because he recognized his sin.
+[00:56:13.860 --> 00:56:16.580]   He recognized his need for a savior,
+[00:56:16.580 --> 00:56:18.900]   and he's the one who asked for forgiveness.
+[00:56:18.900 --> 00:56:22.580]   The Pharisees were blind
+[00:56:22.580 --> 00:56:25.220]   because they were focused on other people's sin.
+[00:56:25.220 --> 00:56:28.500]   In fact, in 2 Corinthians 10, 12, it says,
+[00:56:28.500 --> 00:56:30.640]   "For we are not bold to class,
+[00:56:30.640 --> 00:56:32.840]   "to class or compare ourselves
+[00:56:32.840 --> 00:56:36.220]   "with some of those who commend themselves."
+[00:56:36.220 --> 00:56:37.380]   In other words, they look at themselves like,
+[00:56:37.380 --> 00:56:39.680]   "Thank God I'm not like those people.
+[00:56:39.680 --> 00:56:42.300]   "And because I'm not like them,
+[00:56:42.300 --> 00:56:44.580]   "those other people need to get fixed."
+[00:56:44.580 --> 00:56:46.900]   But when they measure themselves,
+[00:56:46.900 --> 00:56:50.060]   by themselves, compare themselves with themselves,
+[00:56:50.060 --> 00:56:53.340]   they are without understanding.
+[00:56:53.340 --> 00:56:57.500]   What's another way of saying they are without understanding?
+[00:56:57.500 --> 00:56:59.100]   They're blind.
+[00:56:59.100 --> 00:57:00.620]   They're blind.
+[00:57:00.620 --> 00:57:03.740]   Because they're so focused on other people's sins,
+[00:57:03.740 --> 00:57:05.420]   other people's unrighteousness,
+[00:57:05.420 --> 00:57:06.820]   that they have become blind,
+[00:57:06.820 --> 00:57:08.780]   so they do not see themselves,
+[00:57:08.780 --> 00:57:11.940]   nor do they see others with correct vision.
+[00:57:12.940 --> 00:57:15.140]   Because they're so focused on other people.
+[00:57:15.140 --> 00:57:18.160]   Matthew 23, 23 says,
+[00:57:18.160 --> 00:57:20.580]   "Woe to you, scribes and Pharisees, hypocrites,
+[00:57:20.580 --> 00:57:23.860]   "for you tithe mint and dill and cumin,
+[00:57:23.860 --> 00:57:26.540]   "and have neglected the weightier provisions of the law,
+[00:57:26.540 --> 00:57:29.420]   "justice and mercy and faithfulness.
+[00:57:29.420 --> 00:57:31.160]   "But these are the things you should have done
+[00:57:31.160 --> 00:57:33.800]   "without neglecting the others."
+[00:57:33.800 --> 00:57:38.300]   When we focus our righteousness,
+[00:57:38.300 --> 00:57:41.380]   and say, "At least I'm not as bad as them."
+[00:57:41.380 --> 00:57:42.860]   The Pharisees were walking around saying,
+[00:57:42.860 --> 00:57:44.700]   "You know, I keep the law, I keep the Sabbath,
+[00:57:44.700 --> 00:57:46.940]   "I tithe, I pray, I evangelize.
+[00:57:46.940 --> 00:57:49.020]   "I do all of these things,
+[00:57:49.020 --> 00:57:50.660]   "and those sinners are not doing
+[00:57:50.660 --> 00:57:52.260]   "what they're supposed to do."
+[00:57:52.260 --> 00:57:56.220]   But he says, "The weightier things of justice,
+[00:57:56.220 --> 00:57:58.260]   "mercy, and faithfulness,
+[00:57:58.260 --> 00:58:01.640]   "which in God's eyes are more important
+[00:58:01.640 --> 00:58:03.340]   "than what they were doing."
+[00:58:03.340 --> 00:58:05.380]   So you completely justify that.
+[00:58:05.380 --> 00:58:08.820]   You don't care about the people who are hurting.
+[00:58:08.820 --> 00:58:11.140]   You don't care people about suffering.
+[00:58:11.140 --> 00:58:14.260]   All you care is that they live up to the standard
+[00:58:14.260 --> 00:58:15.420]   that you've created.
+[00:58:15.420 --> 00:58:17.940]   And as a result of that, what do they say?
+[00:58:17.940 --> 00:58:19.380]   They became blind.
+[00:58:19.380 --> 00:58:24.220]   So everything coming out of their mouth was blind.
+[00:58:24.220 --> 00:58:26.820]   They're not seeing things clearly.
+[00:58:26.820 --> 00:58:28.880]   So if you're not seeing things clearly,
+[00:58:28.880 --> 00:58:30.460]   everything coming out of their mouth
+[00:58:30.460 --> 00:58:32.420]   is coming through a filter of what?
+[00:58:32.420 --> 00:58:34.060]   Of self-righteousness.
+[00:58:34.060 --> 00:58:39.380]   That's why self-righteousness causes you to be blind.
+[00:58:40.440 --> 00:58:43.700]   So everything that you say, everything that you assess
+[00:58:43.700 --> 00:58:47.300]   is coming through a blind filter.
+[00:58:47.300 --> 00:58:51.120]   So if you're wearing a yellow sunglass,
+[00:58:51.120 --> 00:58:52.980]   everybody is gonna look Asian.
+[00:58:52.980 --> 00:58:58.500]   Everybody's gonna look Asian
+[00:58:58.500 --> 00:59:01.420]   because of the sunglass that you have on.
+[00:59:01.420 --> 00:59:03.300]   And you don't realize that you have that sunglass.
+[00:59:03.300 --> 00:59:05.940]   You think everybody else is wearing sunglass but you.
+[00:59:07.340 --> 00:59:10.560]   And because of that, you are blind leading the blind.
+[00:59:10.560 --> 00:59:13.600]   You know what's interesting is in 1853,
+[00:59:13.600 --> 00:59:16.400]   there was a society called American Track Society.
+[00:59:16.400 --> 00:59:21.040]   And they determined that they needed to eradicate
+[00:59:21.040 --> 00:59:23.200]   worldliness in the church.
+[00:59:23.200 --> 00:59:26.000]   So they went on a campaign to eradicate
+[00:59:26.000 --> 00:59:27.340]   drinking and dancing.
+[00:59:27.340 --> 00:59:31.520]   So they went on a campaign that we can't have a church
+[00:59:31.520 --> 00:59:33.360]   that's a centrist that looks out the world,
+[00:59:33.360 --> 00:59:35.120]   who's doing this and doing that.
+[00:59:36.300 --> 00:59:39.300]   And they were going preaching, they wanted to bring revival.
+[00:59:39.300 --> 00:59:42.240]   And then somebody pointed out to them,
+[00:59:42.240 --> 00:59:47.080]   you're so concerned about the drinking and dancing,
+[00:59:47.080 --> 00:59:49.860]   but you're not addressing slavery.
+[00:59:49.860 --> 00:59:53.700]   And in the thick of things, he said,
+[00:59:53.700 --> 00:59:55.500]   why won't you speak against slavery?
+[00:59:55.500 --> 00:59:57.700]   And their response was, it's too divisive.
+[00:59:57.700 --> 01:00:00.180]   It's too divisive.
+[01:00:00.180 --> 01:00:03.820]   That's why we don't wanna touch that, it's too divisive.
+[01:00:04.860 --> 01:00:07.660]   They were focusing on these external things
+[01:00:07.660 --> 01:00:09.500]   that they feel like we're gonna bring revival,
+[01:00:09.500 --> 01:00:13.460]   but the real issue of that generation, they did not touch.
+[01:00:13.460 --> 01:00:17.060]   In Romans 2, 1, it says, therefore, you have no excuse,
+[01:00:17.060 --> 01:00:19.500]   every one of you who pass judgment,
+[01:00:19.500 --> 01:00:22.660]   for in that which you judge another, you condemn yourself,
+[01:00:22.660 --> 01:00:25.880]   for you who judge practice the same things.
+[01:00:25.880 --> 01:00:29.540]   You're so focused on changing the world,
+[01:00:29.540 --> 01:00:33.620]   and changing other people.
+[01:00:34.620 --> 01:00:38.460]   But you're so blind to what other people see so clearly.
+[01:00:38.460 --> 01:00:44.860]   The sin of pride, the sin of neglect,
+[01:00:44.860 --> 01:00:48.140]   sin of licentiousness, you don't see it.
+[01:00:48.140 --> 01:00:49.860]   It's like, what smell?
+[01:00:49.860 --> 01:00:51.740]   I don't smell any smell, right?
+[01:00:51.740 --> 01:00:53.380]   Something's wrong with your nose.
+[01:00:53.380 --> 01:00:58.380]   I remember years ago, when I was a college pastor,
+[01:00:58.380 --> 01:01:00.700]   I remember somebody came to me and they said,
+[01:01:00.700 --> 01:01:04.300]   can you please pray for my parents?
+[01:01:04.300 --> 01:01:05.940]   And they would go, every time they would come home,
+[01:01:05.940 --> 01:01:07.540]   they would share the gospel with the parents,
+[01:01:07.540 --> 01:01:11.220]   and they said every time she would share,
+[01:01:11.220 --> 01:01:12.820]   the parents would kind of like,
+[01:01:12.820 --> 01:01:14.380]   basically, I don't wanna hear it, I don't wanna hear it.
+[01:01:14.380 --> 01:01:15.740]   And one day, she said, you know what,
+[01:01:15.740 --> 01:01:17.440]   I'm just gonna confront my parents.
+[01:01:17.440 --> 01:01:21.380]   She went home and started sharing the gospel,
+[01:01:21.380 --> 01:01:24.360]   and was very aggressive about sharing the gospel.
+[01:01:24.360 --> 01:01:27.140]   And then the mother, she came back to me so discouraged,
+[01:01:27.140 --> 01:01:27.980]   and she said, what happened?
+[01:01:27.980 --> 01:01:31.380]   And she said, when I try to press my parents
+[01:01:31.380 --> 01:01:34.700]   about their claiming to know God,
+[01:01:34.700 --> 01:01:35.940]   and say, no, you don't know God,
+[01:01:35.940 --> 01:01:37.780]   you need to do this, you need to do that.
+[01:01:37.780 --> 01:01:40.740]   And then the mother turned around and said,
+[01:01:40.740 --> 01:01:42.740]   you want me to go to church?
+[01:01:42.740 --> 01:01:46.220]   I said, you need to be a good human being first.
+[01:01:46.220 --> 01:01:49.980]   And she knew exactly what her mother was saying.
+[01:01:49.980 --> 01:01:54.780]   She was disobedient, she was arguing with parents,
+[01:01:54.780 --> 01:01:57.180]   she wasn't doing what her parents wanted her to do,
+[01:01:57.180 --> 01:01:58.900]   and she was just kind of living in rebellion,
+[01:01:58.900 --> 01:01:59.780]   but then she would come home
+[01:01:59.780 --> 01:02:02.340]   and try to share the gospel with her.
+[01:02:02.340 --> 01:02:04.740]   And then I said, I can't hear what you're saying,
+[01:02:04.740 --> 01:02:08.120]   because you're not practicing anything that you're saying.
+[01:02:08.120 --> 01:02:13.940]   When you've talked to people who've left the church,
+[01:02:13.940 --> 01:02:15.900]   how many of them left the church
+[01:02:15.900 --> 01:02:19.120]   because they said that the pastor's wearing a suit,
+[01:02:19.120 --> 01:02:20.040]   he's not hip?
+[01:02:20.040 --> 01:02:25.980]   Or, oh, the songs in the church are so fuddy-duddy
+[01:02:25.980 --> 01:02:28.500]   from the 1970s, I just couldn't sing anymore,
+[01:02:28.500 --> 01:02:30.140]   so I walked away from the church?
+[01:02:30.140 --> 01:02:34.820]   Or the way it was organized, or it's just too,
+[01:02:34.820 --> 01:02:37.260]   how many of you, maybe some of you have that,
+[01:02:37.260 --> 01:02:39.320]   but most people who,
+[01:02:39.320 --> 01:02:40.820]   I'm not talking about people who moved churches,
+[01:02:40.820 --> 01:02:42.340]   I'm talking about people who fell away from the church,
+[01:02:42.340 --> 01:02:44.500]   how many people that have you talked to
+[01:02:44.500 --> 01:02:45.620]   who try to share the gospel with them,
+[01:02:45.620 --> 01:02:46.620]   and he says, I don't want to go to church,
+[01:02:46.620 --> 01:02:48.820]   because the church is what, filled with what?
+[01:02:48.820 --> 01:02:52.400]   Right, you already know, hypocrites.
+[01:02:52.400 --> 01:02:54.860]   Hypocrites.
+[01:02:55.700 --> 01:02:58.260]   Because we have a tendency to be so focused
+[01:02:58.260 --> 01:03:00.620]   on what the world is doing,
+[01:03:00.620 --> 01:03:04.380]   and not focused enough on what we're doing.
+[01:03:04.380 --> 01:03:05.940]   And that's a church version of it,
+[01:03:05.940 --> 01:03:08.500]   but in an individual version,
+[01:03:08.500 --> 01:03:10.500]   we have a tendency to focus all our attention
+[01:03:10.500 --> 01:03:13.620]   on what other people need to fix.
+[01:03:13.620 --> 01:03:18.620]   And we become blind to ourselves.
+[01:03:20.780 --> 01:03:24.960]   When you do Bible study, right,
+[01:03:24.960 --> 01:03:29.500]   what inspires you to do Bible study?
+[01:03:29.500 --> 01:03:32.540]   Now, I can be up here, tell you why it's so important,
+[01:03:32.540 --> 01:03:36.140]   and the leaders of the church can expound upon the passages,
+[01:03:36.140 --> 01:03:37.360]   and the things that we've learned,
+[01:03:37.360 --> 01:03:39.740]   and show you our insight,
+[01:03:39.740 --> 01:03:43.700]   and there's, that's also important in the church,
+[01:03:43.700 --> 01:03:46.020]   but just from even my own personal experience,
+[01:03:46.020 --> 01:03:49.980]   what inspires you to grow in your faith,
+[01:03:49.980 --> 01:03:51.520]   to take the word of God more seriously,
+[01:03:51.520 --> 01:03:54.380]   is you have somebody in your Bible study who is so hungry.
+[01:03:54.380 --> 01:03:57.900]   They are not the most, they're not the experts,
+[01:03:57.900 --> 01:04:00.220]   they're not the best in everything,
+[01:04:00.220 --> 01:04:02.300]   and they just, maybe they just became Christian,
+[01:04:02.300 --> 01:04:04.400]   but they're hungry.
+[01:04:04.400 --> 01:04:06.840]   They're coming in with questions.
+[01:04:06.840 --> 01:04:07.900]   What am I supposed to do?
+[01:04:07.900 --> 01:04:09.020]   What does this mean to me?
+[01:04:09.020 --> 01:04:11.620]   Man, this is so exciting.
+[01:04:11.620 --> 01:04:16.620]   And their hunger to learn, and to grow, is infectious.
+[01:04:16.620 --> 01:04:19.340]   And then you have somebody in the group,
+[01:04:19.340 --> 01:04:21.060]   it's like, yeah, you know, I read this book,
+[01:04:21.060 --> 01:04:22.340]   and I read that book, and I know this,
+[01:04:22.340 --> 01:04:24.540]   I can argue with this, and I can take you on with this,
+[01:04:24.540 --> 01:04:25.740]   and I can do that.
+[01:04:25.740 --> 01:04:27.100]   Who's inspired?
+[01:04:27.100 --> 01:04:33.020]   All it does is like, at best, like, oh, you know a lot.
+[01:04:33.020 --> 01:04:33.980]   The end.
+[01:04:33.980 --> 01:04:37.580]   But you're not inspired, in fact, you get irritated.
+[01:04:37.580 --> 01:04:40.220]   Whenever somebody begins to show off about their knowledge,
+[01:04:40.220 --> 01:04:42.340]   about what they know, about the Greek syntax,
+[01:04:42.340 --> 01:04:45.540]   and you start going off on that,
+[01:04:45.540 --> 01:04:47.860]   and it's like, nobody comes out of that Bible saying,
+[01:04:47.860 --> 01:04:50.180]   oh, I wanna study the Bible.
+[01:04:50.180 --> 01:04:54.760]   What inspires people are other people
+[01:04:54.760 --> 01:04:59.420]   who are just humbly wanting to learn and to grow.
+[01:04:59.420 --> 01:05:04.120]   And that inspires other people to want to grow and to learn.
+[01:05:04.120 --> 01:05:10.620]   It is our constant focus on, we need to change the world.
+[01:05:10.620 --> 01:05:16.100]   We need to change the church, we need to change the people.
+[01:05:16.100 --> 01:05:18.980]   And all you produce are other people
+[01:05:18.980 --> 01:05:20.420]   who are doing the same thing.
+[01:05:20.420 --> 01:05:24.340]   Now, if we ended our sermon here,
+[01:05:24.340 --> 01:05:26.180]   and we said, okay, we should never judge.
+[01:05:26.180 --> 01:05:28.700]   Never, how dare you.
+[01:05:28.700 --> 01:05:30.940]   The Bible says, do not judge, don't ever judge.
+[01:05:30.940 --> 01:05:32.420]   Ever, ever judge.
+[01:05:32.420 --> 01:05:34.660]   Is that what he says here?
+[01:05:34.660 --> 01:05:37.820]   No, what he says here is,
+[01:05:37.820 --> 01:05:42.820]   take the log out of your own eye first, right?
+[01:05:42.820 --> 01:05:46.740]   First, so that you can see clearly,
+[01:05:46.740 --> 01:05:50.460]   to be able to make righteous judgment.
+[01:05:50.460 --> 01:05:55.300]   In fact, in Luke 6.42, it says,
+[01:05:55.300 --> 01:05:56.540]   1 Corinthians 6.3, it says,
+[01:05:56.540 --> 01:05:59.300]   do you not know that we will judge angels?
+[01:05:59.300 --> 01:06:01.740]   How much more matters of this life?
+[01:06:01.740 --> 01:06:04.340]   We are called to judge.
+[01:06:04.340 --> 01:06:06.780]   Our eternity is going to be that we're gonna be
+[01:06:06.780 --> 01:06:09.040]   sitting in the seats of judgment.
+[01:06:09.040 --> 01:06:10.100]   So if we're gonna do that,
+[01:06:10.100 --> 01:06:13.020]   you need to be able to do that well here.
+[01:06:13.020 --> 01:06:14.840]   But there's a difference between judging
+[01:06:14.840 --> 01:06:16.820]   and being judgmental.
+[01:06:16.820 --> 01:06:20.700]   Judgmental is somebody who is unaware of their own sins
+[01:06:20.700 --> 01:06:22.300]   and focus all their attention
+[01:06:22.300 --> 01:06:24.120]   on what other people need to do.
+[01:06:24.120 --> 01:06:28.360]   And all it creates is greater stink.
+[01:06:28.360 --> 01:06:31.340]   'Cause nobody's challenged by that,
+[01:06:31.340 --> 01:06:34.260]   nobody wants that, nobody wants to be around that.
+[01:06:34.260 --> 01:06:39.460]   But he says, take your log out of your own eye.
+[01:06:40.460 --> 01:06:42.620]   Make the focus of sanctification you.
+[01:06:42.620 --> 01:06:46.020]   And when you are sanctified, when you are growing,
+[01:06:46.020 --> 01:06:50.320]   you'll see how much it inspires other people to do the same
+[01:06:50.320 --> 01:06:52.560]   without you saying a single thing.
+[01:06:52.560 --> 01:06:57.900]   If you wanna inspire people to pray, pray.
+[01:06:57.900 --> 01:06:58.900]   Pray hard.
+[01:06:58.900 --> 01:07:02.500]   And when other people see you doing that,
+[01:07:02.500 --> 01:07:04.340]   they will be inspired to do the same.
+[01:07:04.340 --> 01:07:08.260]   In 1 Corinthians 5.12, for what have I to do
+[01:07:08.260 --> 01:07:09.420]   with judging outsiders?
+[01:07:09.420 --> 01:07:12.460]   Do you not judge those who are within the church?
+[01:07:12.460 --> 01:07:15.260]   What are we to do?
+[01:07:15.260 --> 01:07:16.540]   Why are we so concerned
+[01:07:16.540 --> 01:07:18.660]   about what the secular non-Christians are doing
+[01:07:18.660 --> 01:07:21.660]   outside the church and not concerned enough
+[01:07:21.660 --> 01:07:25.980]   about the church, about ourselves?
+[01:07:25.980 --> 01:07:30.620]   The reason why the church needs to be
+[01:07:30.620 --> 01:07:33.580]   what God called us to be is because the primary way
+[01:07:33.580 --> 01:07:36.380]   that we're going to shed the light in the world
+[01:07:36.380 --> 01:07:38.340]   is to become a brighter light.
+[01:07:38.340 --> 01:07:41.740]   Right now, the problem with our generation
+[01:07:41.740 --> 01:07:43.820]   is that the light in the church is so dim
+[01:07:43.820 --> 01:07:47.060]   that you try to take a dim light
+[01:07:47.060 --> 01:07:48.260]   and you go into the darkness
+[01:07:48.260 --> 01:07:50.780]   and they don't even recognize that the light is on
+[01:07:50.780 --> 01:07:53.860]   because they can't see the difference
+[01:07:53.860 --> 01:07:56.140]   between the church and the world.
+[01:07:56.140 --> 01:07:58.860]   So he says, in order for the church
+[01:07:58.860 --> 01:08:02.660]   to be able to see clearly, we need to learn how to judge.
+[01:08:02.660 --> 01:08:05.500]   Again, not being judgmental, to judge.
+[01:08:05.500 --> 01:08:07.540]   And again, how does that start?
+[01:08:07.540 --> 01:08:10.020]   Is with ourselves, right?
+[01:08:10.020 --> 01:08:13.700]   Focus on ourselves, on our own sanctity, on our own growth.
+[01:08:13.700 --> 01:08:17.460]   John 7:24, "Do not judge according to appearance,
+[01:08:17.460 --> 01:08:20.900]   "but judge with righteous judgment."
+[01:08:20.900 --> 01:08:24.700]   He says to judge, but to judge righteously, right?
+[01:08:24.700 --> 01:08:26.980]   Now, some of you guys may be sitting here thinking like,
+[01:08:26.980 --> 01:08:28.780]   yeah, that's what I've been doing.
+[01:08:28.780 --> 01:08:32.060]   This whole time I've been righteous judgment, right?
+[01:08:32.060 --> 01:08:33.060]   What stink?
+[01:08:34.020 --> 01:08:35.260]   You don't see any stink?
+[01:08:35.260 --> 01:08:40.140]   Let me give you some practical things to look at
+[01:08:40.140 --> 01:08:45.540]   to see if you are making righteous judgment, right?
+[01:08:45.540 --> 01:08:50.820]   First of all, if you're not in the word of God, right?
+[01:08:50.820 --> 01:08:52.260]   If you're not in the word of God
+[01:08:52.260 --> 01:08:55.220]   and you don't know what the word of God says,
+[01:08:55.220 --> 01:08:57.660]   don't be overly confident about your opinion
+[01:08:57.660 --> 01:09:00.860]   'cause it's your opinion.
+[01:09:00.860 --> 01:09:02.380]   And all you're saying is,
+[01:09:02.380 --> 01:09:03.940]   my opinion is better than your opinion.
+[01:09:03.940 --> 01:09:05.780]   It's just opinion.
+[01:09:05.780 --> 01:09:07.780]   It doesn't matter, it's your opinion.
+[01:09:07.780 --> 01:09:10.580]   The church is not my church, it's not your church.
+[01:09:10.580 --> 01:09:12.380]   We don't base what's right or wrong
+[01:09:12.380 --> 01:09:14.420]   based upon how I feel or how you feel.
+[01:09:14.420 --> 01:09:16.780]   It's based upon God's word.
+[01:09:16.780 --> 01:09:18.700]   So even if I don't like it,
+[01:09:18.700 --> 01:09:21.340]   if the word of God says something, we obey.
+[01:09:21.340 --> 01:09:23.740]   I obey and you obey.
+[01:09:23.740 --> 01:09:26.660]   I remember years ago, we were doing a Bible study
+[01:09:26.660 --> 01:09:29.260]   on Timothy and we talked about women leadership
+[01:09:29.260 --> 01:09:32.020]   and we said we don't practice women eldership in our church
+[01:09:32.020 --> 01:09:33.020]   and she got so mad.
+[01:09:33.020 --> 01:09:35.140]   She was a graduate of Smith College,
+[01:09:35.140 --> 01:09:38.940]   was known to be hyper-feminist
+[01:09:38.940 --> 01:09:40.500]   and I remember that Bible study,
+[01:09:40.500 --> 01:09:44.100]   she came at me like she was gonna body slam me.
+[01:09:44.100 --> 01:09:49.020]   She said, "How can you pervert the word of God like that?"
+[01:09:49.020 --> 01:09:50.260]   I said, "What are you talking about?
+[01:09:50.260 --> 01:09:51.460]   "We just shared the word."
+[01:09:51.460 --> 01:09:52.740]   It's like, "That's not what the word of God said.
+[01:09:52.740 --> 01:09:54.940]   "You're picking and choosing what you want to
+[01:09:54.940 --> 01:09:55.860]   "and you're perverting that.
+[01:09:55.860 --> 01:09:58.500]   "That's not what the word of God says."
+[01:09:58.500 --> 01:10:03.100]   I said, "Okay, let's actually examine the Bible together."
+[01:10:03.100 --> 01:10:06.740]   If you ask me for a passage,
+[01:10:06.740 --> 01:10:07.740]   obviously you're not gonna trust me.
+[01:10:07.740 --> 01:10:10.540]   So what I want you to do is I'm gonna give you some time
+[01:10:10.540 --> 01:10:12.820]   to go look at the word of God
+[01:10:12.820 --> 01:10:14.900]   and ask people that you respect,
+[01:10:14.900 --> 01:10:16.600]   who you think know the Bible well.
+[01:10:16.600 --> 01:10:21.020]   Ask them for the texts that talk about this issue
+[01:10:21.020 --> 01:10:23.660]   and then I want you to go study it for yourself.
+[01:10:23.660 --> 01:10:25.340]   So I gave her some time, "Yeah, I'll do that."
+[01:10:25.340 --> 01:10:27.980]   So she went and then she never got back to me.
+[01:10:27.980 --> 01:10:30.260]   It took maybe like six weeks, seven weeks
+[01:10:30.260 --> 01:10:31.240]   and she never got back to me.
+[01:10:31.240 --> 01:10:33.260]   So I went and asked her, "So what happened?
+[01:10:33.260 --> 01:10:34.740]   "Did you do that?"
+[01:10:34.740 --> 01:10:36.860]   To her credit, she did her homework.
+[01:10:36.860 --> 01:10:40.540]   She went and looked at all the texts and she said,
+[01:10:40.540 --> 01:10:44.280]   "Well, I guess that's what it says."
+[01:10:44.280 --> 01:10:45.900]   That's what she said.
+[01:10:45.900 --> 01:10:48.380]   Okay, so let me make this clear.
+[01:10:48.380 --> 01:10:51.380]   You said I was perverting the text, right?
+[01:10:51.380 --> 01:10:55.180]   So now you've looked at it unbiasedly
+[01:10:56.420 --> 01:10:59.980]   and you admit that this is what the text says.
+[01:10:59.980 --> 01:11:02.560]   She said, "Yeah, but I don't like it."
+[01:11:02.560 --> 01:11:05.380]   Okay, so let's separate, right?
+[01:11:05.380 --> 01:11:08.740]   Let's separate what the Bible says and you don't like it.
+[01:11:08.740 --> 01:11:13.100]   So one, you say, "Well, that's what the word of God says."
+[01:11:13.100 --> 01:11:14.780]   So let's look at the second part, you don't like it.
+[01:11:14.780 --> 01:11:16.100]   So what don't you like?
+[01:11:16.100 --> 01:11:18.340]   You don't like what I'm saying
+[01:11:18.340 --> 01:11:20.500]   'cause all I'm doing is quoting scripture.
+[01:11:20.500 --> 01:11:23.500]   What you don't like is what God said
+[01:11:23.500 --> 01:11:26.700]   'cause you just admitted that God said it, right?
+[01:11:26.700 --> 01:11:31.580]   She's like, "Yeah, but I still don't like it."
+[01:11:31.580 --> 01:11:35.780]   So I challenged her.
+[01:11:35.780 --> 01:11:39.200]   So now we're, at least we can talk honestly.
+[01:11:39.200 --> 01:11:41.380]   So now the question is, should the word of God change
+[01:11:41.380 --> 01:11:42.520]   or should you change?
+[01:11:42.520 --> 01:11:46.620]   Should the word of God change or should you change?
+[01:11:46.620 --> 01:11:49.460]   If your perspective of what was right and wrong
+[01:11:49.460 --> 01:11:53.180]   contradicted the scripture, should you change
+[01:11:53.180 --> 01:11:54.620]   or should the Bible change?
+[01:11:54.620 --> 01:11:57.700]   To her credit, she gave in.
+[01:11:57.700 --> 01:12:00.020]   To her credit, she gave in.
+[01:12:00.020 --> 01:12:01.980]   She said, "That's what the word of God said."
+[01:12:01.980 --> 01:12:04.940]   And it took her a while for her to accept that.
+[01:12:04.940 --> 01:12:06.440]   And I give you an example of that.
+[01:12:06.440 --> 01:12:11.440]   How much of people's protest in what I say
+[01:12:11.440 --> 01:12:14.380]   or what the church does and what we believe
+[01:12:14.380 --> 01:12:16.460]   is coming from their own bias?
+[01:12:16.460 --> 01:12:19.640]   What they've learned, what they think is right,
+[01:12:19.640 --> 01:12:21.820]   what seems fair, what doesn't seem fair,
+[01:12:21.820 --> 01:12:23.060]   but it's not based on scripture.
+[01:12:23.060 --> 01:12:26.260]   So first and foremost, if you do not know the word of God,
+[01:12:26.260 --> 01:12:29.780]   where you need to focus your primary attention
+[01:12:29.780 --> 01:12:33.780]   is to know the word of God so that what you say
+[01:12:33.780 --> 01:12:36.020]   and how you judge things are not based upon
+[01:12:36.020 --> 01:12:38.100]   your personal bias, but the word of God.
+[01:12:38.100 --> 01:12:42.720]   But secondly, first of all, right?
+[01:12:42.720 --> 01:12:45.580]   So you need to know the word of God.
+[01:12:45.580 --> 01:12:49.540]   But secondly, you need to obey the word of God.
+[01:12:50.860 --> 01:12:54.300]   The word of God, not only do you know it cognitively,
+[01:12:54.300 --> 01:12:56.500]   but the word of God needs to be judging you.
+[01:12:56.500 --> 01:12:59.260]   Hebrew chapter 4.12, "For the word of God
+[01:12:59.260 --> 01:13:01.860]   "is living and active and sharper than any two-edged sword
+[01:13:01.860 --> 01:13:04.820]   "and piercing as far as the division of soul and spirit
+[01:13:04.820 --> 01:13:07.520]   "of both joints and marrow and able to judge
+[01:13:07.520 --> 01:13:10.460]   "the thoughts and intentions of the heart."
+[01:13:10.460 --> 01:13:13.940]   You notice here the word of God, first and foremost,
+[01:13:13.940 --> 01:13:17.480]   is to judge your thoughts and your intentions, right?
+[01:13:17.480 --> 01:13:21.160]   A Pharisee is only focused on what they are doing,
+[01:13:21.160 --> 01:13:24.120]   what can be measured, I did it, I memorized scripture,
+[01:13:24.120 --> 01:13:27.480]   I studied scripture, I evangelized, I do this, I do that,
+[01:13:27.480 --> 01:13:30.080]   so they check it off, but what does he say?
+[01:13:30.080 --> 01:13:31.420]   It judges what?
+[01:13:31.420 --> 01:13:35.620]   Your thoughts and your intentions of your heart.
+[01:13:35.620 --> 01:13:38.840]   We can't measure that.
+[01:13:38.840 --> 01:13:40.180]   We don't know that.
+[01:13:40.180 --> 01:13:42.040]   No one can look at you and say,
+[01:13:42.040 --> 01:13:44.560]   "Your thoughts and intentions are off."
+[01:13:46.120 --> 01:13:49.240]   But you know that, the Holy Spirit knows that.
+[01:13:49.240 --> 01:13:52.440]   So the word of God is open to let it judge me.
+[01:13:52.440 --> 01:13:56.960]   Not how can I use this to judge other people,
+[01:13:56.960 --> 01:13:59.380]   but the word of God is open to judge me.
+[01:13:59.380 --> 01:14:04.520]   I started as a pastor when I shouldn't have, right?
+[01:14:04.520 --> 01:14:07.440]   At 19, the guy who was discipling me said,
+[01:14:07.440 --> 01:14:09.020]   "His friend is planting a church,
+[01:14:09.020 --> 01:14:12.100]   "they need a youth pastor, why don't you go and teach?"
+[01:14:12.100 --> 01:14:14.280]   And at that time, they only had four kids,
+[01:14:14.280 --> 01:14:18.560]   so the worst I can do is to ruin four kids, right?
+[01:14:18.560 --> 01:14:19.720]   So at that, we're safe.
+[01:14:19.720 --> 01:14:23.920]   But because I started teaching so early,
+[01:14:23.920 --> 01:14:26.680]   I was constantly preparing sermons,
+[01:14:26.680 --> 01:14:29.040]   and there was a period when I was like 20, 21 years old,
+[01:14:29.040 --> 01:14:30.720]   I was giving about three or four sermons a week,
+[01:14:30.720 --> 01:14:32.320]   so everything that I was learning
+[01:14:32.320 --> 01:14:34.480]   had to turn into a sermon.
+[01:14:34.480 --> 01:14:36.360]   But I remember a friend of mine doing Bible study
+[01:14:36.360 --> 01:14:39.320]   gave me a Bible, and I was wrestling with this so much
+[01:14:39.320 --> 01:14:43.080]   that at the cover of the Bible, I wrote for myself,
+[01:14:43.080 --> 01:14:45.160]   "Read this for yourself."
+[01:14:45.160 --> 01:14:47.360]   "Read this for yourself,"
+[01:14:47.360 --> 01:14:50.760]   because I was constantly reading it for other people.
+[01:14:50.760 --> 01:14:53.520]   So I have that in my study, even to this day,
+[01:14:53.520 --> 01:14:55.600]   every once in a while, I'll open it up,
+[01:14:55.600 --> 01:14:58.100]   and it's all tethered, it's all broken up,
+[01:14:58.100 --> 01:14:59.200]   so I can't use it anymore,
+[01:14:59.200 --> 01:15:02.000]   but at the very front of that, every time I open it up,
+[01:15:02.000 --> 01:15:05.920]   in my handwriting, I said, "Read this to yourself."
+[01:15:05.920 --> 01:15:10.080]   Because the danger of being a leader
+[01:15:10.080 --> 01:15:13.320]   is you put on a teacher's cap,
+[01:15:13.320 --> 01:15:17.800]   and so you always see things through that lens.
+[01:15:17.800 --> 01:15:19.120]   What do they need?
+[01:15:19.120 --> 01:15:23.560]   And so if you're not ready, you get ruined,
+[01:15:23.560 --> 01:15:26.240]   because you're no longer a student.
+[01:15:26.240 --> 01:15:28.920]   You no longer ask questions, you have the answer.
+[01:15:28.920 --> 01:15:32.760]   So if you, in a room full of pastors, right,
+[01:15:32.760 --> 01:15:35.760]   you have 20 pastors, and somebody asks a question,
+[01:15:35.760 --> 01:15:36.800]   "What does this text mean?"
+[01:15:36.800 --> 01:15:38.100]   You will get 20 answers,
+[01:15:39.440 --> 01:15:42.200]   'cause everybody's used to just giving answers,
+[01:15:42.200 --> 01:15:44.520]   and that's the hard part of being a leader,
+[01:15:44.520 --> 01:15:45.640]   'cause we're supposed to give answers,
+[01:15:45.640 --> 01:15:46.800]   so we have an answer for everything.
+[01:15:46.800 --> 01:15:49.680]   Even if we don't know, we have to give you an answer,
+[01:15:49.680 --> 01:15:51.260]   and it ruins you.
+[01:15:51.260 --> 01:15:54.300]   That's why becoming a leader, when you're not ready,
+[01:15:54.300 --> 01:15:55.440]   doesn't help you.
+[01:15:55.440 --> 01:15:59.680]   It ruins your growth, because you're constantly
+[01:15:59.680 --> 01:16:01.440]   reading things for other people.
+[01:16:01.440 --> 01:16:02.280]   How can I teach?
+[01:16:02.280 --> 01:16:03.660]   What do they need to know?
+[01:16:03.660 --> 01:16:06.000]   And we're not in the word of God
+[01:16:06.000 --> 01:16:08.840]   to let it judge the thoughts and intentions of our heart.
+[01:16:09.440 --> 01:16:10.280]   What is my motive?
+[01:16:10.280 --> 01:16:11.660]   Am I filled with pride?
+[01:16:11.660 --> 01:16:14.920]   Does this make me proud?
+[01:16:14.920 --> 01:16:16.720]   Am I using it to judge other people?
+[01:16:16.720 --> 01:16:19.600]   And that's why I said, don't let a new convert
+[01:16:19.600 --> 01:16:21.640]   become a leader, because he will fall
+[01:16:21.640 --> 01:16:23.640]   under the same judgment as the devil,
+[01:16:23.640 --> 01:16:26.520]   which is wanting glory, wanting his own glory,
+[01:16:26.520 --> 01:16:29.520]   and then he was ruined as a result of that.
+[01:16:29.520 --> 01:16:31.480]   So the word of God, you need to know the word of God,
+[01:16:31.480 --> 01:16:32.760]   you need to have the word of God
+[01:16:32.760 --> 01:16:35.480]   constantly judge the thoughts and intentions of your heart.
+[01:16:35.480 --> 01:16:38.280]   You need to obey the word of God, James 1, 23 to 25,
+[01:16:38.280 --> 01:16:40.800]   for if anyone is a hearer of the word and not a doer,
+[01:16:40.800 --> 01:16:43.640]   he is like a man who looks at his natural face in a mirror.
+[01:16:43.640 --> 01:16:45.800]   For once he has looked at himself and gone away,
+[01:16:45.800 --> 01:16:48.440]   he has immediately forgotten what kind of person he was,
+[01:16:48.440 --> 01:16:50.360]   for one who looks intently at the perfect law,
+[01:16:50.360 --> 01:16:52.680]   the law of liberty, and abides by it,
+[01:16:52.680 --> 01:16:54.720]   not having become a forgetful hearer,
+[01:16:54.720 --> 01:16:57.480]   but an effectual doer, this man will be blessed
+[01:16:57.480 --> 01:16:59.000]   in what he does.
+[01:16:59.000 --> 01:17:01.880]   If you know
+[01:17:01.880 --> 01:17:06.800]   that you have compromise in your life,
+[01:17:07.440 --> 01:17:08.840]   be quiet.
+[01:17:08.840 --> 01:17:12.920]   If you don't have a good grasp of the word of God,
+[01:17:12.920 --> 01:17:14.440]   be quiet.
+[01:17:14.440 --> 01:17:17.240]   You shouldn't be a teacher, you should be a learner.
+[01:17:17.240 --> 01:17:18.960]   If you're compromised,
+[01:17:18.960 --> 01:17:23.360]   don't teach.
+[01:17:23.360 --> 01:17:26.200]   You should ask.
+[01:17:26.200 --> 01:17:29.800]   You should be asking, "Lord, search me and know me.
+[01:17:29.800 --> 01:17:34.560]   "Lord, I'm a sinner that needs your forgiveness."
+[01:17:34.560 --> 01:17:36.920]   That's where we should be.
+[01:17:36.920 --> 01:17:39.760]   Man, we've had people in our church
+[01:17:39.760 --> 01:17:42.840]   literally struggling
+[01:17:42.840 --> 01:17:45.680]   with adultery.
+[01:17:45.680 --> 01:17:48.800]   And I say, "Yeah, yeah, you know, that's really bad.
+[01:17:48.800 --> 01:17:49.800]   "I shouldn't be doing that."
+[01:17:49.800 --> 01:17:53.160]   But what's our view on cessationism?
+[01:17:53.160 --> 01:17:57.160]   What's our view about Calvinism?
+[01:17:57.160 --> 01:18:01.920]   And they're concerned that maybe the proper theology,
+[01:18:01.920 --> 01:18:03.160]   and they want to be a Christian,
+[01:18:03.160 --> 01:18:04.560]   but the proper theology,
+[01:18:04.560 --> 01:18:06.080]   and they want to debate about proper theology.
+[01:18:06.080 --> 01:18:06.920]   Dude,
+[01:18:06.920 --> 01:18:10.520]   you're living in sin,
+[01:18:10.520 --> 01:18:11.760]   in compromise.
+[01:18:11.760 --> 01:18:14.360]   I don't want to have this conversation with you
+[01:18:14.360 --> 01:18:16.520]   because right now that's not your priority.
+[01:18:16.520 --> 01:18:22.560]   Until you are repentant of your sins,
+[01:18:22.560 --> 01:18:25.240]   you shouldn't be concerned about what other people are doing.
+[01:18:25.240 --> 01:18:28.440]   100% of your energy should be on
+[01:18:28.440 --> 01:18:32.960]   asking the Lord for forgiveness and being restored.
+[01:18:33.960 --> 01:18:37.600]   These Pharisees were walking around with all kinds of sins
+[01:18:37.600 --> 01:18:40.280]   and worried about other people's sins
+[01:18:40.280 --> 01:18:42.600]   and sweeping their own sins under the rug.
+[01:18:42.600 --> 01:18:48.040]   We have too many people who are eager to teach
+[01:18:48.040 --> 01:18:50.280]   and not enough people who are eager to learn.
+[01:18:50.280 --> 01:18:53.520]   That's most of the problem with the Pharisees.
+[01:18:53.520 --> 01:18:55.240]   Let me say a third and final thing.
+[01:18:55.240 --> 01:18:59.040]   If you're not praying,
+[01:18:59.040 --> 01:19:01.400]   be quiet.
+[01:19:01.720 --> 01:19:03.120]   Does that sound harsh to you?
+[01:19:03.120 --> 01:19:07.160]   In fact, there's a better word for be quiet
+[01:19:07.160 --> 01:19:08.760]   that I'm choosing not to use
+[01:19:08.760 --> 01:19:10.600]   because they're filming me right now.
+[01:19:10.600 --> 01:19:20.800]   Not praying is no different than if I came up here
+[01:19:20.800 --> 01:19:21.640]   and said, "You know what?
+[01:19:21.640 --> 01:19:24.480]   "I was so busy, I didn't get to pray."
+[01:19:24.480 --> 01:19:25.800]   It's no different than saying, "You know what?
+[01:19:25.800 --> 01:19:27.480]   "I just didn't have time to open up the Bible.
+[01:19:27.480 --> 01:19:29.240]   "I just didn't have time to read the Bible."
+[01:19:29.240 --> 01:19:30.080]   It's no different than saying, "You know what?
+[01:19:30.080 --> 01:19:31.880]   "I just didn't have time to open up the Bible this week,
+[01:19:31.880 --> 01:19:34.640]   "so let's see what the Holy Spirit has to say."
+[01:19:34.640 --> 01:19:36.280]   Let's see.
+[01:19:36.280 --> 01:19:38.240]   Right?
+[01:19:38.240 --> 01:19:40.840]   How many of you are gonna take me serious
+[01:19:40.840 --> 01:19:42.800]   if I approach the Word of God that way?
+[01:19:42.800 --> 01:19:47.560]   That guy's just, he's gonna just wing it.
+[01:19:47.560 --> 01:19:49.800]   He's not speaking the Word of God.
+[01:19:49.800 --> 01:19:51.840]   And yet, in the Western church,
+[01:19:51.840 --> 01:19:54.760]   especially in Bible-preaching churches,
+[01:19:54.760 --> 01:19:57.920]   speak so confidently with authority
+[01:19:58.920 --> 01:20:02.040]   and are readily admit, willing to admit,
+[01:20:02.040 --> 01:20:03.880]   "I don't pray."
+[01:20:03.880 --> 01:20:07.840]   But they speak with such authority,
+[01:20:07.840 --> 01:20:13.200]   with arrogance, that this is God's will,
+[01:20:13.200 --> 01:20:14.800]   this is God's purpose.
+[01:20:14.800 --> 01:20:16.400]   2 Corinthians 2, 10 through 11,
+[01:20:16.400 --> 01:20:18.600]   "For to us God revealed them through the Spirit.
+[01:20:18.600 --> 01:20:19.800]   "For the Spirit searches all things,
+[01:20:19.800 --> 01:20:21.400]   "and even the depths of God.
+[01:20:21.400 --> 01:20:23.400]   "For who among men knows the thoughts of a man
+[01:20:23.400 --> 01:20:25.880]   "except the spirit of the man who is in him?
+[01:20:25.880 --> 01:20:27.800]   "Even so, the thoughts of God no one knows
+[01:20:27.800 --> 01:20:30.320]   "except the Spirit of God."
+[01:20:30.320 --> 01:20:32.720]   If you're not communing with the Spirit,
+[01:20:32.720 --> 01:20:36.160]   you shouldn't be speaking.
+[01:20:36.160 --> 01:20:41.320]   Because the Word of God are not just a statement of facts
+[01:20:41.320 --> 01:20:42.960]   for you to find out.
+[01:20:42.960 --> 01:20:43.800]   If you're not praying,
+[01:20:43.800 --> 01:20:45.280]   you don't understand the heart of God,
+[01:20:45.280 --> 01:20:46.680]   so you've perverted the Word of God
+[01:20:46.680 --> 01:20:47.840]   because you're blind.
+[01:20:47.840 --> 01:20:52.440]   You're not able to see clearly.
+[01:20:52.440 --> 01:20:54.480]   And because you're not able to see clearly,
+[01:20:54.480 --> 01:20:59.480]   your conclusions come from an altered vision.
+[01:20:59.480 --> 01:21:05.880]   Because you're not aware of the thoughts and intentions
+[01:21:05.880 --> 01:21:08.560]   and the arrogance of your own heart
+[01:21:08.560 --> 01:21:12.920]   that causes you to see other people with perverted vision.
+[01:21:12.920 --> 01:21:17.400]   Let's admit, right, let's admit,
+[01:21:17.400 --> 01:21:19.520]   this is something that we need to fix.
+[01:21:19.520 --> 01:21:24.160]   When we see a problem in our generation,
+[01:21:24.680 --> 01:21:27.400]   especially in the conservative Bible-teaching churches,
+[01:21:27.400 --> 01:21:29.520]   we get organized, we have conferences,
+[01:21:29.520 --> 01:21:31.440]   we write books, we write articles,
+[01:21:31.440 --> 01:21:34.240]   but we don't pray.
+[01:21:34.240 --> 01:21:40.640]   We don't pray, but somehow that has become acceptable.
+[01:21:40.640 --> 01:21:42.880]   Even though the Scripture says you're blind,
+[01:21:42.880 --> 01:21:46.360]   you're not capable of seeing truth
+[01:21:46.360 --> 01:21:48.640]   if the Spirit of God is not moving.
+[01:21:48.640 --> 01:21:50.960]   If you're not humbling yourself
+[01:21:50.960 --> 01:21:51.960]   and allowing the Word of God
+[01:21:51.960 --> 01:21:54.040]   to judge the thoughts and intentions of your heart,
+[01:21:54.040 --> 01:21:56.160]   before you go out trying to change the world
+[01:21:56.160 --> 01:21:57.280]   for Jesus Christ,
+[01:21:57.280 --> 01:21:59.600]   then it could be that your whole vision
+[01:21:59.600 --> 01:22:02.320]   of how you look at things is wrong.
+[01:22:02.320 --> 01:22:06.520]   And yet in the Western church,
+[01:22:06.520 --> 01:22:08.760]   it has become perfectly acceptable
+[01:22:08.760 --> 01:22:13.240]   to allow a huge portion
+[01:22:13.240 --> 01:22:16.160]   of what it means to be a true follower of Christ
+[01:22:16.160 --> 01:22:19.840]   and yet be so arrogant and so bold
+[01:22:19.840 --> 01:22:21.560]   to claim that we know the truth.
+[01:22:23.640 --> 01:22:26.880]   If we are not humble before the Lord,
+[01:22:26.880 --> 01:22:30.040]   begging for Him to get involved,
+[01:22:30.040 --> 01:22:33.720]   is this righteous anger that I have,
+[01:22:33.720 --> 01:22:38.400]   is it righteous anger or is that self-righteousness?
+[01:22:38.400 --> 01:22:43.040]   If you're not humbling yourself before the Lord in prayer,
+[01:22:43.040 --> 01:22:43.960]   you would not know.
+[01:22:43.960 --> 01:22:46.760]   What smell?
+[01:22:46.760 --> 01:22:47.920]   I don't smell anything
+[01:22:47.920 --> 01:22:51.760]   because you've gotten accustomed to compromise.
+[01:22:52.760 --> 01:22:56.080]   That was the problem with the nation of Israel.
+[01:22:56.080 --> 01:22:58.840]   It's not saying that we shouldn't judge,
+[01:22:58.840 --> 01:23:00.880]   but we need to judge rightly.
+[01:23:00.880 --> 01:23:02.080]   James 5, 19 to 20,
+[01:23:02.080 --> 01:23:05.080]   "My brethren, if any among you strays from the truth
+[01:23:05.080 --> 01:23:06.720]   "and one turns him back,
+[01:23:06.720 --> 01:23:08.800]   "let him know that he who turns a sinner
+[01:23:08.800 --> 01:23:09.760]   "from the error of his ways
+[01:23:09.760 --> 01:23:11.320]   "will save his soul from death
+[01:23:11.320 --> 01:23:14.200]   "and will cover a multitude of sins."
+[01:23:14.200 --> 01:23:19.920]   We are to judge, but righteous judgment.
+[01:23:21.200 --> 01:23:22.360]   We are to seek the truth.
+[01:23:22.360 --> 01:23:24.640]   We are to speak the truth in love.
+[01:23:24.640 --> 01:23:29.920]   But until we focus our attention on ourselves first,
+[01:23:29.920 --> 01:23:33.520]   your whole vision of what you think is right and wrong
+[01:23:33.520 --> 01:23:34.880]   will easily be perverted.
+[01:23:34.880 --> 01:23:36.760]   And Satan himself will use that
+[01:23:36.760 --> 01:23:39.520]   to pervert your view of righteousness,
+[01:23:39.520 --> 01:23:42.120]   to pervert the church, to pervert discipleship,
+[01:23:42.120 --> 01:23:47.160]   pervert evangelism, pervert prayer, pervert Bible study.
+[01:23:50.560 --> 01:23:52.200]   It says in Galatians 6, 1 to 2,
+[01:23:52.200 --> 01:23:54.800]   "Brethren, even if anyone is caught in any trespass,
+[01:23:54.800 --> 01:23:56.440]   "you who are spiritual,"
+[01:23:56.440 --> 01:24:01.440]   spiritual is an individual who has spent his time
+[01:24:01.440 --> 01:24:06.360]   focusing on his unrighteousness and asking for forgiveness.
+[01:24:06.360 --> 01:24:09.520]   "He who is spiritual restores such a one
+[01:24:09.520 --> 01:24:11.360]   "in a spirit of gentleness."
+[01:24:11.360 --> 01:24:13.800]   Even when you see things clearly,
+[01:24:13.800 --> 01:24:17.280]   he said it ought to be done with gentleness.
+[01:24:17.280 --> 01:24:18.400]   "Each one looking to yourself
+[01:24:18.400 --> 01:24:19.800]   "so that you too will not be tempted.
+[01:24:19.800 --> 01:24:21.080]   "Bear one another burden
+[01:24:21.080 --> 01:24:23.600]   "and thereby fulfill the law of Christ."
+[01:24:23.600 --> 01:24:29.880]   Years ago, somebody got me free tickets, right?
+[01:24:29.880 --> 01:24:33.120]   First class tickets to come from Asia
+[01:24:33.120 --> 01:24:34.560]   to the United States, right?
+[01:24:34.560 --> 01:24:37.040]   I was on a mission trip and I happened to be in Hong Kong
+[01:24:37.040 --> 01:24:39.520]   and somebody was generous enough to say,
+[01:24:39.520 --> 01:24:40.360]   "Hey, I want you to pass.
+[01:24:40.360 --> 01:24:43.160]   "I want you to experience what first class feels like."
+[01:24:43.160 --> 01:24:45.800]   And I got to ride first class, right?
+[01:24:45.800 --> 01:24:47.240]   First time ever in my life.
+[01:24:48.340 --> 01:24:50.400]   And I got in there and then there's, again,
+[01:24:50.400 --> 01:24:53.080]   the first class is usually pretty empty.
+[01:24:53.080 --> 01:24:55.860]   There's only three or four people in there.
+[01:24:55.860 --> 01:24:57.500]   And I've ridden business class before,
+[01:24:57.500 --> 01:25:00.420]   but first class was a different experience.
+[01:25:00.420 --> 01:25:02.180]   And anything that I did,
+[01:25:02.180 --> 01:25:04.140]   and I remember I would drop a napkin
+[01:25:04.140 --> 01:25:06.540]   and they would come running to pick it up for me.
+[01:25:06.540 --> 01:25:10.500]   I dropped it again just to see if they would do it.
+[01:25:10.500 --> 01:25:12.040]   (congregation laughing)
+[01:25:12.040 --> 01:25:13.340]   Sure enough, they came.
+[01:25:13.340 --> 01:25:16.300]   They picked it up and they put it back.
+[01:25:16.300 --> 01:25:18.700]   And I felt so uncomfortable,
+[01:25:18.700 --> 01:25:23.700]   because I was a peasant in first class, right?
+[01:25:23.700 --> 01:25:24.820]   I didn't belong there.
+[01:25:24.820 --> 01:25:26.420]   I didn't earn, I didn't pay for it.
+[01:25:26.420 --> 01:25:28.220]   Somebody just gave it to me.
+[01:25:28.220 --> 01:25:31.220]   Imagine if I was walking around,
+[01:25:31.220 --> 01:25:33.740]   I was like, "Oh, these peasants."
+[01:25:33.740 --> 01:25:34.700]   You know what I mean?
+[01:25:34.700 --> 01:25:37.460]   How dare they look into first class?
+[01:25:37.460 --> 01:25:38.820]   What's wrong with these people?
+[01:25:38.820 --> 01:25:40.900]   Only if they worked as hard as I did
+[01:25:40.900 --> 01:25:44.580]   and they could sit up here, you know?
+[01:25:44.580 --> 01:25:45.600]   Close that curtain.
+[01:25:46.600 --> 01:25:47.760]   You know what I mean?
+[01:25:47.760 --> 01:25:51.560]   I'm eating my food and I'm filled with pride
+[01:25:51.560 --> 01:25:52.600]   because I'm in first class.
+[01:25:52.600 --> 01:25:53.840]   Not the whole time I was there,
+[01:25:53.840 --> 01:25:56.280]   'cause I was fully aware, you know what I mean?
+[01:25:56.280 --> 01:25:58.840]   These people are, I don't know what they're doing in life.
+[01:25:58.840 --> 01:26:00.040]   Maybe CEOs of companies,
+[01:26:00.040 --> 01:26:01.120]   I don't know what they're doing in life,
+[01:26:01.120 --> 01:26:02.120]   but maybe they belong there,
+[01:26:02.120 --> 01:26:05.120]   but I knew I didn't, 'cause I didn't earn this.
+[01:26:05.120 --> 01:26:10.760]   Every single one of us in this room that knows Christ
+[01:26:10.760 --> 01:26:13.720]   was saved by the grace of God.
+[01:26:13.720 --> 01:26:16.920]   We won a spiritual lottery that you and I did not deserve.
+[01:26:16.920 --> 01:26:19.600]   We didn't deserve this.
+[01:26:19.600 --> 01:26:24.320]   So imagine people who are saved by the grace of God,
+[01:26:24.320 --> 01:26:26.280]   nothing that you have done,
+[01:26:26.280 --> 01:26:27.560]   nothing that you will ever do,
+[01:26:27.560 --> 01:26:29.400]   simply by the grace of God
+[01:26:29.400 --> 01:26:31.900]   and live the rest of our lives thinking,
+[01:26:31.900 --> 01:26:33.800]   "Oh my gosh, these guys stink.
+[01:26:33.800 --> 01:26:37.140]   "Why can't they be more righteous?
+[01:26:37.140 --> 01:26:38.340]   "Why can't they know more?
+[01:26:38.340 --> 01:26:40.480]   "Why can't they do this more?"
+[01:26:41.400 --> 01:26:44.120]   Can you imagine what that looks like from God?
+[01:26:44.120 --> 01:26:47.460]   How he saved us by the grace of God
+[01:26:47.460 --> 01:26:49.400]   and we're spending the rest of our time
+[01:26:49.400 --> 01:26:55.880]   disgusted by other people's sins,
+[01:26:55.880 --> 01:26:59.360]   because we have forgotten the disgust
+[01:26:59.360 --> 01:27:00.800]   that he saved us from.
+[01:27:00.800 --> 01:27:04.120]   What do you think the scripture means
+[01:27:04.120 --> 01:27:06.920]   to live up to the gospel of Jesus Christ?
+[01:27:06.920 --> 01:27:10.280]   How do you live up to something
+[01:27:10.280 --> 01:27:12.080]   that you've been given to for free?
+[01:27:12.080 --> 01:27:15.120]   To live up to the gospel of Jesus Christ
+[01:27:15.120 --> 01:27:18.360]   means you've been given this to you for free.
+[01:27:18.360 --> 01:27:23.480]   So that same grace that you were saved from,
+[01:27:23.480 --> 01:27:28.480]   saved for or by, that you live by that same grace.
+[01:27:28.480 --> 01:27:31.940]   You live by that same grace.
+[01:27:31.940 --> 01:27:36.240]   Because every single one of us were lottery winners.
+[01:27:36.240 --> 01:27:38.480]   We didn't have a great idea,
+[01:27:38.480 --> 01:27:39.900]   we didn't come up with a great invention,
+[01:27:39.900 --> 01:27:43.760]   we didn't develop Facebook, right?
+[01:27:43.760 --> 01:27:46.120]   We didn't have a computer.
+[01:27:46.120 --> 01:27:51.640]   We were just given this eternal life, adopted.
+[01:27:51.640 --> 01:27:55.680]   And if we understand that and we live under that grace,
+[01:27:55.680 --> 01:28:00.680]   shouldn't we feel compassion for others who don't have it?
+[01:28:00.680 --> 01:28:05.840]   He said the reason why the Pharisees were blind
+[01:28:05.840 --> 01:28:09.780]   is because they somehow thought they earned
+[01:28:09.780 --> 01:28:10.640]   what they had.
+[01:28:10.640 --> 01:28:15.240]   And as a result of that, they were so impatient
+[01:28:15.240 --> 01:28:19.220]   with others who didn't earn it like they did.
+[01:28:19.220 --> 01:28:24.940]   That's why the beginning of our sanctification
+[01:28:24.940 --> 01:28:28.380]   is recognition of that grace.
+[01:28:28.380 --> 01:28:35.900]   Grace justifies us, grace sanctifies us,
+[01:28:35.900 --> 01:28:38.520]   and it is grace that will glorify us.
+[01:28:39.400 --> 01:28:42.720]   Let's fix our eyes upon our sanctification.
+[01:28:42.720 --> 01:28:48.280]   And I guarantee you that when we are committed to grow,
+[01:28:48.280 --> 01:28:52.680]   you will see the fruit of that in other people
+[01:28:52.680 --> 01:28:56.200]   without having to organize,
+[01:28:56.200 --> 01:28:59.320]   without having to tell everybody, right?
+[01:28:59.320 --> 01:29:03.260]   Just you loving the Lord, you humbly serving the Lord,
+[01:29:03.260 --> 01:29:05.560]   you want other people to worship?
+[01:29:05.560 --> 01:29:06.600]   Don't worry about what other people
+[01:29:06.600 --> 01:29:09.240]   that come into this room and give the best worship
+[01:29:09.240 --> 01:29:10.280]   that you can give.
+[01:29:10.280 --> 01:29:13.520]   I guarantee you, it'll affect the people around you.
+[01:29:13.520 --> 01:29:14.840]   You want other people to serve?
+[01:29:14.840 --> 01:29:18.720]   Serve, serve the best that you can serve.
+[01:29:18.720 --> 01:29:20.960]   I guarantee you, other people will see you serving
+[01:29:20.960 --> 01:29:22.560]   and saying, I'm inspired by you.
+[01:29:22.560 --> 01:29:25.840]   You want other people to take the word of God seriously?
+[01:29:25.840 --> 01:29:28.600]   Be the best student that you can be.
+[01:29:28.600 --> 01:29:30.880]   Be diligent, pour yourself into that,
+[01:29:30.880 --> 01:29:32.400]   and I guarantee you, people will see that
+[01:29:32.400 --> 01:29:34.760]   and say, I wanna be like that.
+[01:29:34.760 --> 01:29:37.720]   And you will see discipling happening
+[01:29:37.720 --> 01:29:39.280]   because of your sanctification,
+[01:29:39.280 --> 01:29:41.520]   because of your growth, because of your love.
+[01:29:41.520 --> 01:29:46.520]   Doesn't that change our paradigm,
+[01:29:46.520 --> 01:29:48.860]   what the church is supposed to be?
+[01:29:48.860 --> 01:29:49.760]   Isn't that the kind of church
+[01:29:49.760 --> 01:29:51.460]   that you and I wanna be a part of?
+[01:29:51.460 --> 01:29:54.280]   I don't wanna be a part of a church
+[01:29:54.280 --> 01:29:56.280]   where everybody's looking and examining each other.
+[01:29:56.280 --> 01:29:59.280]   You're not doing this, you're not doing that.
+[01:29:59.280 --> 01:30:01.280]   No, I wanna be a part of a church
+[01:30:01.280 --> 01:30:06.280]   where even my own mistakes are forgiven
+[01:30:07.320 --> 01:30:10.400]   and your mistakes, mistakes, right?
+[01:30:10.400 --> 01:30:13.200]   That even if we discipline you, it's because we love you.
+[01:30:13.200 --> 01:30:17.120]   I pray that that would be the case
+[01:30:17.120 --> 01:30:21.680]   because Phariseeism doesn't require work.
+[01:30:21.680 --> 01:30:24.720]   It'll creep in, it'll just creep in
+[01:30:24.720 --> 01:30:30.400]   if we do not actively pray, search me, know me,
+[01:30:30.400 --> 01:30:33.520]   see if there's any hurtful way in me.
+[01:30:33.520 --> 01:30:34.360]   Let's pray.
+[01:30:34.360 --> 01:30:38.780]   (pastor and congregation murmuring)
+[01:30:38.780 --> 01:30:44.800]   Gracious Father, help us.
+[01:30:44.800 --> 01:30:47.120]   Help us, Lord God.
+[01:30:47.120 --> 01:30:49.240]   We know the truth,
+[01:30:49.240 --> 01:30:52.980]   and yet we get so easily entangled, Lord God, in ourselves.
+[01:30:52.980 --> 01:30:57.040]   Help us to recognize the gift that we have been given
+[01:30:57.040 --> 01:31:00.800]   so that we would worship you in spirit and in truth
+[01:31:00.800 --> 01:31:03.600]   and that that worship would be infectious
+[01:31:03.600 --> 01:31:05.280]   to all those around us.
+[01:31:05.280 --> 01:31:07.960]   We thank you for your word.
+[01:31:07.960 --> 01:31:10.260]   We thank you for your patience.
+[01:31:10.260 --> 01:31:12.920]   We thank you for your sacrifice.
+[01:31:12.920 --> 01:31:16.500]   May Christ receive the reward of his suffering,
+[01:31:16.500 --> 01:31:21.740]   our praise and our love and our adoration.
+[01:31:21.740 --> 01:31:23.840]   In Jesus' name we pray, amen.
+[01:31:23.840 --> 01:31:25.880]   Let's all stand up for the closing praise.
+[01:31:25.880 --> 01:31:29.300]   (congregation murmuring)
+[01:31:33.240 --> 01:31:35.820]   (gentle music)
+[01:31:35.820 --> 01:31:48.400]   ♪ O great God of highest heaven ♪
+[01:31:48.400 --> 01:31:53.240]   ♪ Occupy my lowly heart ♪
+[01:31:53.240 --> 01:31:57.960]   ♪ Own it all and reign supreme ♪
+[01:31:57.960 --> 01:32:02.760]   ♪ Conquer every rebel power ♪
+[01:32:02.760 --> 01:32:07.600]   ♪ Let no vice or sin remain ♪
+[01:32:07.600 --> 01:32:12.440]   ♪ That resists your holy war ♪
+[01:32:12.440 --> 01:32:17.200]   ♪ You have loved and purchased me ♪
+[01:32:17.200 --> 01:32:22.200]   ♪ Made me yours forevermore ♪
+[01:32:22.200 --> 01:32:29.200]   ♪ I was blinded by my sin ♪
+[01:32:29.200 --> 01:32:34.040]   ♪ Had no ears to hear your voice ♪
+[01:32:34.040 --> 01:32:38.840]   ♪ Did not know your love within ♪
+[01:32:38.840 --> 01:32:43.680]   ♪ Had no taste for heaven's joys ♪
+[01:32:43.680 --> 01:32:48.440]   ♪ Then your spirit gave me life ♪
+[01:32:48.440 --> 01:32:53.240]   ♪ Opened up your word to me ♪
+[01:32:53.240 --> 01:32:58.040]   ♪ Through the gospel of your son ♪
+[01:32:58.040 --> 01:33:02.200]   ♪ Gave me endless hope and peace ♪
+[01:33:02.200 --> 01:33:22.040]   Help me now.
+[01:33:24.400 --> 01:33:29.160]   ♪ Help me now to live a life ♪
+[01:33:29.160 --> 01:33:34.000]   ♪ That's dependent on your grace ♪
+[01:33:34.000 --> 01:33:38.720]   ♪ Keep my heart and guard my soul ♪
+[01:33:38.720 --> 01:33:43.600]   ♪ From the evils that I face ♪
+[01:33:43.600 --> 01:33:48.360]   ♪ You are worthy to be praised ♪
+[01:33:48.360 --> 01:33:53.160]   ♪ With my every thought and deed ♪
+[01:33:53.160 --> 01:33:57.960]   ♪ Oh great God of highest heaven ♪
+[01:33:57.960 --> 01:34:02.760]   ♪ Glorify your name through me ♪
+[01:34:02.760 --> 01:34:07.560]   ♪ You are worthy to be praised ♪
+[01:34:07.560 --> 01:34:12.560]   ♪ With my every thought and deed ♪
+[01:34:12.560 --> 01:34:17.560]   ♪ Oh great God of highest heaven ♪
+[01:34:17.560 --> 01:34:21.560]   ♪ Glorify your name through me ♪
+[01:34:22.560 --> 01:34:23.560]   Let's pray.
+[01:34:23.560 --> 01:34:27.960]   Now the grace of our Lord Jesus Christ
+[01:34:27.960 --> 01:34:30.560]   and the fellowship of the Holy Spirit,
+[01:34:30.560 --> 01:34:33.080]   eternal love of God the Father,
+[01:34:33.080 --> 01:34:37.560]   may reveal the power of that grace in our lives,
+[01:34:37.560 --> 01:34:40.160]   in our speech, in every way,
+[01:34:40.160 --> 01:34:42.920]   that Christ and Christ alone may be exalted,
+[01:34:42.920 --> 01:34:46.160]   loved, worshipped, and followed in this church.
+[01:34:46.160 --> 01:34:49.160]   In Jesus' name we pray, amen.
+[01:34:49.160 --> 01:34:51.760]   (gentle music)
+[01:34:51.760 --> 01:34:55.160]   ♪ My son ♪
+[01:34:55.160 --> 01:35:00.160]   ♪ They called him Jesus ♪
+[01:35:00.160 --> 01:35:05.160]   ♪ He came to love ♪
+[01:35:05.160 --> 01:35:10.160]   ♪ Heal and forgive ♪
+[01:35:10.160 --> 01:35:15.160]   ♪ He lived and died ♪
+[01:35:15.160 --> 01:35:20.160]   ♪ To buy my pardon ♪
+[01:35:20.160 --> 01:35:25.160]   ♪ An empty grave is there to prove ♪
+[01:35:25.160 --> 01:35:30.160]   ♪ My Savior lived ♪
+[01:35:30.160 --> 01:35:35.160]   ♪ Because he lived ♪
+[01:35:35.160 --> 01:35:40.160]   ♪ I can face tomorrow ♪
+[01:35:40.160 --> 01:35:45.160]   ♪ Because he lived ♪
+[01:35:45.160 --> 01:35:50.160]   ♪ All fear is gone ♪
+[01:35:50.160 --> 01:35:55.160]   ♪ Because I know ♪
+[01:35:55.160 --> 01:36:00.160]   ♪ He holds the future ♪
+[01:36:00.160 --> 01:36:05.160]   ♪ And life is worth the living ♪
+[01:36:05.160 --> 01:36:10.160]   ♪ Just because he lived ♪
+[01:36:10.160 --> 01:36:11.160]   Amen.
+[01:36:14.160 --> 01:36:16.760]   (gentle music)
+[01:36:16.760 --> 01:36:40.160]   ♪ For my waking breath ♪
+[01:36:40.160 --> 01:36:45.160]   ♪ For my daily bread ♪
+[01:36:45.160 --> 01:36:51.160]   ♪ I depend on you ♪
+[01:36:51.160 --> 01:36:55.160]   ♪ I depend on you ♪
+[01:36:55.160 --> 01:37:00.160]   ♪ For the sun to rise ♪
+[01:37:00.160 --> 01:37:05.160]   ♪ For my sleep at night ♪
+[01:37:05.160 --> 01:37:10.160]   ♪ I depend on you ♪
+[01:37:10.160 --> 01:37:15.160]   ♪ Yes, I depend on you ♪
+[01:37:15.160 --> 01:37:20.160]   ♪ You're the way, the truth, and the light ♪
+[01:37:20.160 --> 01:37:25.160]   ♪ You're the well and everyone's dry ♪
+[01:37:25.160 --> 01:37:30.160]   ♪ I'm the branch and you are the vine ♪
+[01:37:30.160 --> 01:37:35.160]   ♪ Draw me close and teach me to abide ♪
+[01:37:35.160 --> 01:37:48.160]   ♪ Where the spirit leads ♪
+[01:37:48.160 --> 01:37:53.160]   ♪ As I'm following ♪
+[01:37:53.160 --> 01:37:58.160]   ♪ I depend on you ♪
+[01:37:58.160 --> 01:38:03.160]   ♪ Yes, I depend on you ♪
+[01:38:03.160 --> 01:38:08.160]   ♪ For the victory is still in front of me ♪
+[01:38:08.160 --> 01:38:18.160]   ♪ I depend on you ♪
+[01:38:18.160 --> 01:38:23.160]   ♪ Yes, I depend on you ♪
+[01:38:23.160 --> 01:38:28.160]   ♪ You're the way, the truth, and the light ♪
+[01:38:28.160 --> 01:38:33.160]   ♪ You're the well and everyone's dry ♪
+[01:38:33.160 --> 01:38:38.160]   ♪ I'm the branch and you are the vine ♪
+[01:38:38.160 --> 01:38:43.160]   ♪ Draw me close and teach me to abide ♪
+
