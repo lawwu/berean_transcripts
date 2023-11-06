@@ -1,0 +1,16 @@
+#!/bin/bash
+
+# Read YouTube IDs from the text file and store them in a variable
+youtube_ids=$(cat ./data/bcc_live_video_ids_done.txt)
+
+# Loop through each YouTube ID
+for id in $youtube_ids; do
+  # Create the full YouTube URL
+  youtube_url="https://www.youtube.com/watch?v=$id"
+  
+  # Call your Python script
+  python src/berean_transcripts/get_sermon_sections.py "$youtube_url"
+  
+  # Optionally, sleep for a few seconds to avoid hitting rate limits
+  sleep 2
+done
