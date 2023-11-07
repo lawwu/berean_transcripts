@@ -249,22 +249,21 @@ def convert_cache_to_dataframe(cache):
     # Flatten dictionary structure
     for video, attributes in cache.items():
         # print(video)
-        id_ = attributes['id']
-        title = attributes['title']
-        upload_date = attributes['upload_date']
+        id_ = attributes["id"]
+        title = attributes["title"]
+        upload_date = attributes["upload_date"]
         upload_date_formatted = datetime.strptime(
-                    upload_date, "%Y%m%d"
-                ).strftime(
-                    "%Y-%m-%d"
-                )
-        flattened_dict = {'id': id_, 
-                        'title': title,
-                        'upload_date': upload_date_formatted
-                        }
+            upload_date, "%Y%m%d"
+        ).strftime("%Y-%m-%d")
+        flattened_dict = {
+            "id": id_,
+            "title": title,
+            "upload_date": upload_date_formatted,
+        }
         flattened_data.append(flattened_dict)
 
     df = pd.DataFrame(flattened_data)
-    df = df.sort_values(['upload_date'], ascending=False)
+    df = df.sort_values(["upload_date"], ascending=False)
     return df
 
 

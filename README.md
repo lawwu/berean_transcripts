@@ -21,6 +21,9 @@ cd whisper.cpp
 make clean
 make -j
 
+# setup pre-commit
+pre-commit install
+
 # setup crontab
 crontab -e
 # run at Sundays, 2pm PST and Wednesdays 11pm PST

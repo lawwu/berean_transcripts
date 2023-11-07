@@ -1,7 +1,7 @@
 import time
 from pathlib import Path
 from functools import wraps
-import json 
+import json
 
 project_dir = Path(__file__).resolve().parents[2]
 data_dir = project_dir / "data"
@@ -32,5 +32,5 @@ def timeit(func):
 
 
 def dump_json_to_file(json_object, filename):
-    with open(filename, 'w', encoding='utf-8') as f:
+    with open(filename, "w", encoding="utf-8") as f:
         json.dump(json_object, f, ensure_ascii=False, indent=4)
