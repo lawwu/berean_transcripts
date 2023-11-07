@@ -9,7 +9,8 @@ for id in $ids; do
   url="https://vimeo.com/$id"
   
   # Call your Python script
-  python src/berean_transcripts/transcribe_youtube.py "$url"
+  # python src/berean_transcripts/transcribe_youtube.py "$url" --model_name ggml-large-32-2.en.bin
+  python src/berean_transcripts/transcribe_youtube.py "$url" --model_name ggml-large.bin
   
   # Optionally, sleep for a few seconds to avoid hitting rate limits
   sleep 2

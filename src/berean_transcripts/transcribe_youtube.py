@@ -92,8 +92,8 @@ def ensure_wav_16k(filename):
 
 
 @timeit
-def run_whisper(filename, num_threads=4, num_processors=1):
-    model_path = model_dir / "ggml-large.bin"
+def run_whisper(filename, model_name, num_threads=4, num_processors=1):
+    model_path = model_dir / model_name
     input_path = transcripts_dir / f"{filename}_16k.wav"
     output_path = transcripts_dir / f"{filename}.txt"
 
@@ -102,28 +102,62 @@ def run_whisper(filename, num_threads=4, num_processors=1):
     subprocess.run(command, shell=True)
 
 
+def clean_up_wav_files(base_filename):
+    """
+    Deletes the .wav and _16k.wav files for the given base filename.
+
+    Parameters
+    ----------
+    base_filename : str
+        The base name of the .wav files to delete.
+    """
+    try:
+        wav_path = transcripts_dir / f"{base_filename}.wav"
+        wav_16k_path = transcripts_dir / f"{base_filename}_16k.wav"
+
+        # Remove the original wav file
+        if wav_path.exists():
+            wav_path.unlink()
+            logging.info(f"Deleted {wav_path}")
+
+        # Remove the 16kHz wav file
+        if wav_16k_path.exists():
+            wav_16k_path.unlink()
+            logging.info(f"Deleted {wav_16k_path}")
+
+    except Exception as e:
+        logging.error(f"Error during file cleanup: {e}")
+
+
 def main():
     parser = argparse.ArgumentParser(
-        description="Automate downloading and processing audio from YouTube."
+        description="Automate downloading and processing audio from YouTube/Vimeo."
     )
-    parser.add_argument("url", type=str, help="URL of the YouTube video")
+    parser.add_argument("url", type=str, help="URL of the video")
+    parser.add_argument(
+        "--model_name",
+        type=str,
+        default="ggml-large.bin",
+        help="Name of the whisper model to use",
+    )
     args = parser.parse_args()
 
     # Variable for .wav file name
     wav_file_name = extract_video_id(args.url)
 
-    logging.info("Download audio from YouTube")
+    logging.info("Download audio")
     download_audio(args.url, wav_file_name)
 
     logging.info("Ensure the wav file is 16 kHz")
     ensure_wav_16k(wav_file_name)
 
     logging.info("Run whisper.cpp using Metal")
-    run_whisper(wav_file_name)
+    run_whisper(wav_file_name, args.model_name)
 
-    # TODO: write function to delete both wav files to be tidy
-    # youtube_id.wav and youtueb_id_16k.wav
-    # e.g. JDI6skt93Ow.wav and JDI6skt93Ow_16k.wav
+    # Clean up WAV files after processing
+    clean_up_wav_files(wav_file_name)
+
+    logging.info("WAV files cleanup complete.")
 
 
 if __name__ == "__main__":
