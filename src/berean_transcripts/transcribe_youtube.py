@@ -18,16 +18,22 @@ logger = logging.getLogger(__name__)
 
 
 def extract_video_id(url):
-    match = re.search(r"v=([a-zA-Z0-9_-]+)", url)
-    if match:
-        return match.group(1)
-    else:
-        return "unknown_id"
+    # Check for YouTube URL pattern
+    youtube_match = re.search(r"v=([a-zA-Z0-9_-]+)", url)
+    if youtube_match:
+        return youtube_match.group(1)
+
+    # Check for Vimeo URL pattern
+    vimeo_match = re.search(r"vimeo.com/(\d+)", url)
+    if vimeo_match:
+        return vimeo_match.group(1)
+
+    # If neither pattern is found
+    return "unknown_id"
 
 
 def download_audio(url, outfile_name):
     try:
-        # video_id = extract_video_id(url)
         options = {
             "format": "bestaudio/best",
             "postprocessors": [
@@ -37,8 +43,7 @@ def download_audio(url, outfile_name):
                     "preferredquality": "192",
                 }
             ],
-            "outtmpl": str(transcripts_dir / outfile_name)
-            # "outtmpl": f"./berean/{outfile_name}",
+            "outtmpl": str(transcripts_dir / outfile_name),
         }
         with YoutubeDL(options) as ydl:
             print(f"Downloading: {url}")
@@ -119,6 +124,7 @@ def main():
     # TODO: write function to delete both wav files to be tidy
     # youtube_id.wav and youtueb_id_16k.wav
     # e.g. JDI6skt93Ow.wav and JDI6skt93Ow_16k.wav
+
 
 if __name__ == "__main__":
     main()

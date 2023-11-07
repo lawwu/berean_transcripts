@@ -1,21 +1,16 @@
-import subprocess
 import argparse
 from yt_dlp import YoutubeDL
-import re
-import ffmpeg
 import logging
 import cv2
-import json
-import logging
 import numpy as np
 
 from berean_transcripts.transcribe_youtube import extract_video_id
 from berean_transcripts.utils import (
-    transcripts_dir,
     videos_dir,
     data_dir,
     dump_json_to_file,
 )
+
 
 def frame_difference(prev_frame, curr_frame):
     grayA = cv2.cvtColor(prev_frame, cv2.COLOR_BGR2GRAY)
@@ -24,14 +19,16 @@ def frame_difference(prev_frame, curr_frame):
     return np.sum(diff)
 
 
-def extract_sections(video_file, 
-                     video_file_path=videos_dir,
-                     video_file_ext=".mp4",
-                     threshold=75_000_000, 
-                     min_seconds=2, 
-                     frame_skip=30, 
-                     start_time=None, 
-                     end_time=None):
+def extract_sections(
+    video_file,
+    video_file_path=videos_dir,
+    video_file_ext=".mp4",
+    threshold=75_000_000,
+    min_seconds=2,
+    frame_skip=30,
+    start_time=None,
+    end_time=None,
+):
     """
     Extract sections from sermon video
 
@@ -48,7 +45,7 @@ def extract_sections(video_file,
     # Convert start_time and end_time to start_frame and end_frame
     start_frame = int(start_time * fps) if start_time is not None else 0
     end_frame = int(end_time * fps) if end_time is not None else frame_count
-    
+
     # Set the initial position if start_time is provided
     if start_time is not None:
         cap.set(cv2.CAP_PROP_POS_FRAMES, start_frame)
@@ -65,7 +62,10 @@ def extract_sections(video_file,
         diff = frame_difference(prev_frame, curr_frame)
         timestamp = i / fps
 
-        if diff > threshold and (timestamp - section_transitions[-1][0]) > min_seconds:
+        if (
+            diff > threshold
+            and (timestamp - section_transitions[-1][0]) > min_seconds
+        ):
             section_transitions.append((timestamp, i))
 
         prev_frame = curr_frame
@@ -74,13 +74,15 @@ def extract_sections(video_file,
 
     sections = []
     for start, end in zip(section_transitions[:-1], section_transitions[1:]):
-        sections.append((start[1]/fps, end[1]/fps))
+        sections.append((start[1] / fps, end[1] / fps))
 
-    sections.append((section_transitions[-1][1]/fps, end_frame/fps))
+    sections.append((section_transitions[-1][1] / fps, end_frame / fps))
     sermon_section = max(sections, key=lambda x: x[1] - x[0])
 
-    logging.info(f"Identified {len(sections)} sections, Sermon section is between frames {sermon_section[0]} and {sermon_section[1]}")
-    
+    logging.info(
+        f"Identified {len(sections)} sections, Sermon section is between frames {sermon_section[0]} and {sermon_section[1]}"
+    )
+
     return sections, sermon_section
 
 
@@ -88,7 +90,7 @@ def download_video(url, outfile_name, download_dir=videos_dir):
     try:
         options = {
             # "format": "bestvideo+bestaudio/best",
-            'format': 'mp4',
+            "format": "mp4",
             "outtmpl": str(download_dir / outfile_name),
             # 'postprocessors': [{
             #     'key': 'FFmpegVideoConvertor',
@@ -124,8 +126,9 @@ def main():
     }
 
     logging.info("Dumping sections to json")
-    dump_json_to_file(sections, 
-                      data_dir / "sermon_sections" / f"{video_file_name}.json")
+    dump_json_to_file(
+        sections, data_dir / "sermon_sections" / f"{video_file_name}.json"
+    )
 
 
 if __name__ == "__main__":
