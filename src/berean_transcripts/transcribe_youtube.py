@@ -92,7 +92,7 @@ def ensure_wav_16k(filename):
 
 
 @timeit
-def run_whisper(filename, model_name, num_threads=4, num_processors=1):
+def run_whisper(filename, model_name, num_threads=7, num_processors=1):
     model_path = model_dir / model_name
     input_path = transcripts_dir / f"{filename}_16k.wav"
     output_path = transcripts_dir / f"{filename}.txt"
