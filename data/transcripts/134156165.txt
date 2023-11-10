@@ -1,0 +1,865 @@
+
+[00:00:00.000 --> 00:00:08.560]   I've been telling you that we're going to be in this book for a while, and we're finally
+[00:00:08.560 --> 00:00:10.200]   going to jump into it today.
+[00:00:10.200 --> 00:00:16.240]   We're just doing an overview study, so I'm just going to read the first passage, verses
+[00:00:16.240 --> 00:00:18.640]   1 through 7, where Paul introduces himself.
+[00:00:18.640 --> 00:00:20.800]   We're not going to get into any particular passage today.
+[00:00:20.800 --> 00:00:24.960]   It's going to be a broad study to get you a broad outline of what the Book of Romans
+[00:00:24.960 --> 00:00:29.000]   is so that when we actually jump into the verse by verse, that you'll be able to get
+[00:00:29.000 --> 00:00:30.000]   more out of it.
+[00:00:30.000 --> 00:00:31.000]   Okay?
+[00:00:31.000 --> 00:00:32.980]   But I'm going to read the first seven verses before we jump in.
+[00:00:32.980 --> 00:00:36.000]   Romans chapter 1, verses 1 through 7.
+[00:00:36.000 --> 00:00:40.240]   "Paul, a servant of Christ Jesus, called to be an apostle, set apart for the gospel of
+[00:00:40.240 --> 00:00:44.960]   God, which he promised beforehand through his prophets in the holy scriptures, concerning
+[00:00:44.960 --> 00:00:49.080]   his son, who was descended from David according to the flesh, and was declared to be the Son
+[00:00:49.080 --> 00:00:53.240]   of God in power according to the spirit of holiness by the resurrection of the dead,
+[00:00:53.240 --> 00:00:58.000]   Jesus Christ our Lord, through whom we have received grace and apostleship to bring about
+[00:00:58.000 --> 00:01:02.200]   the obedience of faith for the sake of his name among all the nations, including you
+[00:01:02.200 --> 00:01:07.160]   who are called to belong to Jesus Christ, to all those in Rome who are loved by God
+[00:01:07.160 --> 00:01:11.080]   and are called to be saints, grace to you and peace from God our Father and the Lord
+[00:01:11.080 --> 00:01:12.080]   Jesus Christ."
+[00:01:12.080 --> 00:01:16.440]   Let's pray.
+[00:01:16.440 --> 00:01:19.480]   Gracious Father, we entrust this time to you.
+[00:01:19.480 --> 00:01:24.360]   We ask, Lord God, that you'd open up our hearts and soften it, Lord, that we may hear
+[00:01:24.360 --> 00:01:26.500]   and to apply.
+[00:01:26.500 --> 00:01:31.680]   You are the potter and we are the clay, so we ask that you would mold us, that you would
+[00:01:31.680 --> 00:01:39.000]   sanctify us, help us, Lord God, to hear from you and not from man.
+[00:01:39.000 --> 00:01:43.840]   Protect us, Lord God, from wrong thinking, even wrong feelings.
+[00:01:43.840 --> 00:01:47.880]   And we are utterly dependent upon you to lead and guide us, so help us, Lord God, to be
+[00:01:47.880 --> 00:01:52.840]   humble before your throne and that your word would speak clearly.
+[00:01:52.840 --> 00:01:56.220]   And again, as we begin our new series, we ask for your blessing over this time, Lord
+[00:01:56.220 --> 00:02:01.020]   God, that everything that we study would be more than just simply academics.
+[00:02:01.020 --> 00:02:06.300]   It really would penetrate and judge the thoughts and intentions of our hearts and our lives,
+[00:02:06.300 --> 00:02:10.580]   that our church, our family, and our very lives, Lord God, may be molded according to
+[00:02:10.580 --> 00:02:12.620]   your purpose and your will.
+[00:02:12.620 --> 00:02:14.060]   So we ask for your blessing over this time.
+[00:02:14.060 --> 00:02:18.740]   In Jesus' name we pray, amen.
+[00:02:18.740 --> 00:02:21.940]   You know, I've been telling you we wanted to study through the Book of Romans, or I
+[00:02:21.940 --> 00:02:25.580]   wanted to study through the Book of Romans for a while.
+[00:02:25.580 --> 00:02:31.100]   I personally have benefited tremendously from studying quiet time, scripture memory, small
+[00:02:31.100 --> 00:02:32.660]   groups.
+[00:02:32.660 --> 00:02:37.140]   At the very beginning of the church, there's actually just a handful of you guys who were
+[00:02:37.140 --> 00:02:41.660]   here, maybe about 15, 16 years ago, we were studying through the Book of Romans on every
+[00:02:41.660 --> 00:02:46.360]   Friday evening, and it took us maybe about a couple years.
+[00:02:46.360 --> 00:02:50.060]   And I remember the beginning of the study every Friday, because we weren't able to have
+[00:02:50.060 --> 00:02:51.060]   retreats.
+[00:02:51.060 --> 00:02:54.420]   We were working during the weekday and just didn't have the time in the beginning of the
+[00:02:54.420 --> 00:02:55.420]   church.
+[00:02:55.420 --> 00:02:59.740]   And I remember the grumbling that I heard on some, not everybody, but some of the people
+[00:02:59.740 --> 00:03:03.500]   saying, "All we're doing is Bible study."
+[00:03:03.500 --> 00:03:07.980]   Because some of the youth group students who are now in their mid-30s, I remember, because
+[00:03:07.980 --> 00:03:11.300]   they were in the youth group and there was a lot of activities, and they come to church
+[00:03:11.300 --> 00:03:13.700]   and it's like, "We're just having Bible study."
+[00:03:13.700 --> 00:03:17.020]   And at that time, I really did not have time for anything else.
+[00:03:17.020 --> 00:03:20.020]   So if I'm going to invest in something, I'm going to invest in this.
+[00:03:20.020 --> 00:03:26.300]   And I remember just on Fridays, even though people were attending, they were just attending
+[00:03:26.300 --> 00:03:30.940]   because it's the church that they were at, but I saw a tremendous difference in the beginning
+[00:03:30.940 --> 00:03:33.240]   of the study and at the end.
+[00:03:33.240 --> 00:03:36.540]   Because at the end of the study of the Book of Romans, I could begin to see the seeds
+[00:03:36.540 --> 00:03:41.940]   that were being planted, and not just from the content of the Book of Romans, but I began
+[00:03:41.940 --> 00:03:46.440]   to see people realizing why the study of the Word of God is so important.
+[00:03:46.440 --> 00:03:52.260]   In particular, this book, every part of Scripture is obviously important, but the content in
+[00:03:52.260 --> 00:03:57.740]   the Book of Romans is the foundation upon which we build Christianity.
+[00:03:57.740 --> 00:04:02.020]   Sometimes if the foundation is shaky, and if the foundation is not strong, whatever
+[00:04:02.020 --> 00:04:04.260]   we build upon it is not going to be strong.
+[00:04:04.260 --> 00:04:09.860]   So just like the Scripture says, if you build upon sand, when the storms come, it starts
+[00:04:09.860 --> 00:04:11.700]   to crumble.
+[00:04:11.700 --> 00:04:16.660]   I don't think it's an exaggeration to say that the Book of Romans is the foundation
+[00:04:16.660 --> 00:04:17.860]   of Christianity.
+[00:04:17.860 --> 00:04:24.740]   If you know it superficially, your application in your Christian life is going to be superficial.
+[00:04:24.740 --> 00:04:29.280]   If you appreciate it superficially, your appreciation of Christ and what it is you have in Christ
+[00:04:29.280 --> 00:04:32.940]   is also going to be superficial.
+[00:04:32.940 --> 00:04:36.340]   If there was one book, and again, I know it's an introduction and some of you may think
+[00:04:36.340 --> 00:04:37.800]   like, "Ah, he's milking it."
+[00:04:38.160 --> 00:04:42.680]   But if there was one book, I would say that I would choose to have it memorized.
+[00:04:42.680 --> 00:04:47.320]   If I couldn't have the rest of the Bible, if there's one book that I would put to memory
+[00:04:47.320 --> 00:04:52.080]   so that even if I didn't have Scripture, which book would I choose?
+[00:04:52.080 --> 00:04:53.480]   Without a doubt, it would be the Book of Romans.
+[00:04:53.480 --> 00:04:56.400]   In fact, I probably would not be the only person.
+[00:04:56.400 --> 00:04:59.600]   In fact, many people in history have said that.
+[00:04:59.600 --> 00:05:04.160]   If you study the beginning notes of the Book of Romans in any commentary, there's always
+[00:05:04.160 --> 00:05:07.840]   a history behind the preaching of the Book of Romans.
+[00:05:07.840 --> 00:05:14.000]   And again, I don't think it's an exaggeration to say that the preaching of the Book of Romans,
+[00:05:14.000 --> 00:05:19.680]   the contents that are in the Book of Romans, was credited for a lot of revivals that took
+[00:05:19.680 --> 00:05:21.920]   place in church history.
+[00:05:21.920 --> 00:05:23.480]   Augustine.
+[00:05:23.480 --> 00:05:26.880]   Some of you guys may know who he is or may have heard of Augustine.
+[00:05:26.880 --> 00:05:30.120]   Augustine is a very important figure in church history.
+[00:05:30.120 --> 00:05:36.400]   And he was a fourth century monk who became a Christian as a result of his study in the
+[00:05:36.400 --> 00:05:39.160]   Book of Romans or reading.
+[00:05:39.160 --> 00:05:42.780]   And after studying the Book of Romans, you know, basically the outline of the Book of
+[00:05:42.780 --> 00:05:48.320]   Romans is a detailed teaching of salvation.
+[00:05:48.320 --> 00:05:51.600]   Why we need salvation, how do we get saved, what's the result of salvation.
+[00:05:51.600 --> 00:05:57.360]   And basically by the time you get to Chapter 12, it basically says, "As a result of knowing
+[00:05:57.360 --> 00:05:59.720]   His mercies, this is how you ought to live."
+[00:05:59.720 --> 00:06:06.560]   Well Augustine, who's been a tremendous influence in right thinking and about church and our,
+[00:06:06.560 --> 00:06:10.880]   when we say we're an evangelical Christian, so much of our doctrines and our thinking
+[00:06:10.880 --> 00:06:15.600]   and our church polity comes from the writing of this man Augustine.
+[00:06:15.600 --> 00:06:21.600]   And he says, after reading Romans 13, 13 to 14, where it may not even sound that spectacular
+[00:06:21.600 --> 00:06:28.000]   to you, but this is a result of years of studying and reading this text, he says, this passage
+[00:06:28.000 --> 00:06:32.240]   says this, "Let us walk properly as in the daytime, not in orgies and drunkenness, not
+[00:06:32.240 --> 00:06:36.560]   in sexual immorality and sensuality, not in quarreling, not in jealousy, but put on the
+[00:06:36.560 --> 00:06:41.480]   Lord Jesus Christ and make no provision for the flesh to gratify its desire."
+[00:06:41.480 --> 00:06:45.120]   Now if you look at that text, it's just an imperative saying this is how you ought to
+[00:06:45.120 --> 00:06:46.120]   live.
+[00:06:46.120 --> 00:06:52.280]   But this is after his heart has been cultivated, after his heart has been softened, and when
+[00:06:52.280 --> 00:06:55.760]   he heard these words, he said he was stopped at his track.
+[00:06:55.760 --> 00:07:00.560]   And literally this is what he says in his book, Confession, "No further would I read,
+[00:07:00.560 --> 00:07:03.480]   nor had I any need.
+[00:07:03.480 --> 00:07:07.680]   Instantly, at the end of this sentence, a clear light flooded."
+[00:07:07.680 --> 00:07:11.280]   And that was his testimony of his conversion.
+[00:07:11.280 --> 00:07:16.200]   Martin Luther, who's been heavily influenced by this man Augustine, says of the book of
+[00:07:16.200 --> 00:07:21.360]   Romans, "The Epistle is the chief book of the New Testament, the purest gospel.
+[00:07:21.360 --> 00:07:25.600]   It deserves not only to be known word for word by every Christian, but to be the subject
+[00:07:25.600 --> 00:07:28.080]   of his meditation day by day.
+[00:07:28.080 --> 00:07:32.400]   The daily bread of his soul, the more time one spends in it, the more precious it becomes,
+[00:07:32.400 --> 00:07:35.640]   and the better it appears."
+[00:07:35.640 --> 00:07:40.040]   There's always a danger whenever we get into an academic study of a text where it just
+[00:07:40.040 --> 00:07:41.040]   becomes academic.
+[00:07:41.040 --> 00:07:47.080]   Where at the end of the study you can say, "I know this, but it makes no difference
+[00:07:47.080 --> 00:07:48.360]   whether you know it or don't know it.
+[00:07:48.360 --> 00:07:49.360]   Your life doesn't change.
+[00:07:49.360 --> 00:07:50.360]   Your heart doesn't change.
+[00:07:50.360 --> 00:07:53.200]   How you treat other people do not change."
+[00:07:53.200 --> 00:07:58.880]   In fact, at the end of an academic study of the scripture that doesn't change you, it
+[00:07:58.880 --> 00:08:01.320]   actually does more harm.
+[00:08:01.320 --> 00:08:05.160]   Because all it does is fill you with spiritual pride, thinking, "I know the scriptures."
+[00:08:05.160 --> 00:08:09.680]   And you end up judging people based upon what you know and what they don't know.
+[00:08:09.680 --> 00:08:14.280]   But there's also a danger to think, "Therefore, we don't need this.
+[00:08:14.280 --> 00:08:15.360]   We don't need the scriptures.
+[00:08:15.360 --> 00:08:16.960]   We don't need to get into this theology.
+[00:08:16.960 --> 00:08:19.720]   We're about application."
+[00:08:19.720 --> 00:08:25.400]   If we apply the Word of God without properly knowing the Word of God, you'll end up building
+[00:08:25.400 --> 00:08:29.480]   a Christian life on wrong and shaky foundation.
+[00:08:29.480 --> 00:08:33.600]   So we have to make sure that we understand that the study of the academic study of the
+[00:08:33.600 --> 00:08:40.720]   Word of God, that our ultimate reason for why we study is really revival.
+[00:08:40.720 --> 00:08:44.360]   And that's the main reason why I want to spend time in the Word of God.
+[00:08:44.360 --> 00:08:48.360]   There are some things in the Book of Romans that are highly technical, especially when
+[00:08:48.360 --> 00:08:55.280]   he gets into the relationship between the law and the Spirit, you know, the flesh.
+[00:08:55.280 --> 00:08:59.200]   And when you get into those nuances, by the time we get to chapter 5, chapter 6, chapter
+[00:08:59.200 --> 00:09:03.240]   7, there's going to be a lot of grappling over, "What does this mean?
+[00:09:03.240 --> 00:09:05.280]   How is this applied?"
+[00:09:05.280 --> 00:09:08.200]   And we can easily just kind of get in that mode of, "You know what?
+[00:09:08.200 --> 00:09:09.200]   We're not about this.
+[00:09:09.200 --> 00:09:10.200]   We're about the Holy Spirit."
+[00:09:10.200 --> 00:09:15.560]   Well, the primary way that the Holy Spirit speaks to His people is through the Word of
+[00:09:15.560 --> 00:09:17.120]   God.
+[00:09:17.120 --> 00:09:23.480]   So a church who kind of nonchalantly commits himself to the Word of God is also limiting
+[00:09:23.480 --> 00:09:25.640]   the work of the Holy Spirit.
+[00:09:25.640 --> 00:09:30.560]   Now all of this is to encourage you that, again, maybe some of you guys are in the habit
+[00:09:30.560 --> 00:09:32.760]   of listening to sermons passively.
+[00:09:32.760 --> 00:09:37.120]   And what I mean by that is you come every Sunday to judge me, right?
+[00:09:37.120 --> 00:09:40.720]   You come to judge me to see, "I like the sermon.
+[00:09:40.720 --> 00:09:41.720]   Oh, that story.
+[00:09:41.720 --> 00:09:42.720]   I really like that story.
+[00:09:42.720 --> 00:09:45.560]   That sermon was long, you know?
+[00:09:45.560 --> 00:09:46.560]   I like it.
+[00:09:46.560 --> 00:09:47.560]   I don't like it."
+[00:09:47.560 --> 00:09:48.560]   It's kind of like the Facebook.
+[00:09:48.560 --> 00:09:49.560]   You put a status up there.
+[00:09:49.560 --> 00:09:52.040]   You say, "Like, dislike," you know?
+[00:09:52.040 --> 00:09:56.120]   And just passively listen to see, "What does He have for me?"
+[00:09:56.120 --> 00:10:00.080]   I want to encourage you, especially as we begin to study the Book of Romans, to be active
+[00:10:00.080 --> 00:10:03.920]   listeners, meaning to come prepared with your heart ready.
+[00:10:03.920 --> 00:10:06.720]   You know exactly where we're going to be the next week.
+[00:10:06.720 --> 00:10:10.800]   You know, we're going to say, obviously, we're going to be done with a few verses.
+[00:10:10.800 --> 00:10:13.120]   Next week we're going to be covering the next few verses.
+[00:10:13.120 --> 00:10:18.600]   And what I really want to encourage you to do is to examine these verses before you come.
+[00:10:18.600 --> 00:10:19.600]   Be ready.
+[00:10:19.600 --> 00:10:20.800]   You know, come with the bucket.
+[00:10:20.800 --> 00:10:24.880]   So if you come and say, "Lord, bless me," and all you brought was a little thimble,
+[00:10:24.880 --> 00:10:25.880]   you know what I mean?
+[00:10:25.880 --> 00:10:26.880]   He blesses you and everything falls apart.
+[00:10:26.880 --> 00:10:28.840]   You've got nothing to hold, right?
+[00:10:28.840 --> 00:10:34.240]   So what I'm asking you to do by being an active listener is to bring a bigger container.
+[00:10:34.240 --> 00:10:37.280]   You know, get your heart ready to soften your heart.
+[00:10:37.280 --> 00:10:42.720]   Be prepared and not to see Sunday morning as just, "I went and I went home."
+[00:10:42.720 --> 00:10:46.240]   You know, "I attended this Sunday morning, but I really come to worship."
+[00:10:46.240 --> 00:10:49.720]   Come prepared to worship God, right?
+[00:10:49.720 --> 00:10:53.840]   Again, you can sit in the same service and while somebody hears the Word of God and is
+[00:10:53.840 --> 00:10:57.960]   convicted and broken and life has changed, somebody can sit here year after year after
+[00:10:57.960 --> 00:11:01.120]   year after year and all they hear is, "I heard that."
+[00:11:01.120 --> 00:11:05.920]   I'll bet you there's somebody in this room already thinking, "I know Romans."
+[00:11:05.920 --> 00:11:08.280]   You know, "I've studied it.
+[00:11:08.280 --> 00:11:09.280]   I've done quiet time.
+[00:11:09.280 --> 00:11:10.600]   I've read books, commentaries.
+[00:11:10.600 --> 00:11:11.600]   I know this.
+[00:11:11.600 --> 00:11:12.600]   We'd studied it before.
+[00:11:12.600 --> 00:11:14.840]   But again, it's a waste of time.
+[00:11:14.840 --> 00:11:17.400]   Do something I don't know."
+[00:11:17.400 --> 00:11:20.840]   Maybe some of you are already thinking that, you know.
+[00:11:20.840 --> 00:11:23.040]   But again, the goal of our study is not simply to get you.
+[00:11:23.040 --> 00:11:24.520]   It's like, "Oh, did you hear this?
+[00:11:24.520 --> 00:11:29.280]   I've been preaching at this church for over 18 years.
+[00:11:29.280 --> 00:11:32.360]   Some of you who've been here, there's nothing that comes out of my mouth that hasn't come
+[00:11:32.360 --> 00:11:34.360]   out of my mouth before.
+[00:11:34.360 --> 00:11:37.120]   Guaranteed, right?
+[00:11:37.120 --> 00:11:40.720]   Nothing that I say, even just what I just said right now, I said that about 100 times
+[00:11:40.720 --> 00:11:41.720]   already, right?
+[00:11:41.720 --> 00:11:46.640]   There's nothing I'm going to say that's going to be new, right?
+[00:11:46.640 --> 00:11:53.160]   So if our ability to listen is simply like it's something new, it'll be harder and harder
+[00:11:53.160 --> 00:11:54.160]   and harder.
+[00:11:54.160 --> 00:11:58.160]   The longer you're a Christian, it'll be harder and harder and harder to listen to anything
+[00:11:58.160 --> 00:12:00.440]   new that is going to have any kind of impact in your life.
+[00:12:00.440 --> 00:12:03.080]   Because everything is old.
+[00:12:03.080 --> 00:12:04.880]   Everything is old.
+[00:12:04.880 --> 00:12:11.680]   And the most dangerous place for a Christian to be is when the things of God becomes old.
+[00:12:11.680 --> 00:12:15.880]   Because once it becomes old, your heart becomes hardened.
+[00:12:15.880 --> 00:12:20.520]   Once your heart is hardened, you no longer are a worshiper of God.
+[00:12:20.520 --> 00:12:24.600]   You can attend service, you can study the Bible, you're not worshiping.
+[00:12:24.600 --> 00:12:29.200]   God is not speaking to you, and you're not speaking to God.
+[00:12:29.200 --> 00:12:34.680]   My goal and my desire for the study of the Book of Romans is that as it has impact on
+[00:12:34.680 --> 00:12:39.680]   me, and I'm praying that as we go through it, as we dissect and as we study through
+[00:12:39.680 --> 00:12:44.680]   the detailed nuances of what the Gospel is and what the result of it is and how we ought
+[00:12:44.680 --> 00:12:49.440]   to live as a result of understanding this, that that's exactly what would happen.
+[00:12:49.440 --> 00:12:53.280]   The intent of this letter would not simply be, "I know this."
+[00:12:53.280 --> 00:12:57.600]   The intent of this letter would be the very result that Paul intended, the Holy Spirit
+[00:12:57.600 --> 00:13:02.480]   intended for the recipients.
+[00:13:02.480 --> 00:13:05.980]   And I know that you agree with me, right?
+[00:13:05.980 --> 00:13:16.480]   I think the most difficult place to be in a community is a bunch of people who are fake,
+[00:13:16.480 --> 00:13:17.480]   right?
+[00:13:17.480 --> 00:13:22.320]   No one wants to be a part of that, where we say one thing and do something else.
+[00:13:22.320 --> 00:13:23.520]   No one wants to be fake.
+[00:13:23.520 --> 00:13:25.840]   I don't want to be fake, you don't want to be fake.
+[00:13:25.840 --> 00:13:29.640]   You don't want to listen to a pastor who's fake, nor do I want to lead a congregation
+[00:13:29.640 --> 00:13:30.640]   that's fake.
+[00:13:30.640 --> 00:13:34.920]   Whatever it is, even while we're struggling, even while we're wrestling, even with sin,
+[00:13:34.920 --> 00:13:36.320]   we want to be genuine.
+[00:13:36.320 --> 00:13:37.840]   We want to be honest with our mistakes.
+[00:13:37.840 --> 00:13:41.760]   We want to be honest with our faults.
+[00:13:41.760 --> 00:13:46.720]   No matter where we are in our walk with God, I pray that the study of the Book of Romans,
+[00:13:46.720 --> 00:13:52.920]   and as we, again, to dig in, that we would recognize where we are and then recognize
+[00:13:52.920 --> 00:13:59.320]   what He's given us, and that we would be sanctified, we would mature and grow as God intended.
+[00:13:59.320 --> 00:14:03.760]   So this morning what I want to do is, I'm not going to be jumping into any one particular
+[00:14:03.760 --> 00:14:04.760]   text.
+[00:14:04.760 --> 00:14:05.760]   I'm going to give you a big picture.
+[00:14:05.760 --> 00:14:11.160]   Remember, I think it was about six, seven months ago, remember I asked you to draw stick
+[00:14:11.160 --> 00:14:15.080]   figures, and I said to draw a triangle, draw a square.
+[00:14:15.080 --> 00:14:16.080]   No?
+[00:14:16.080 --> 00:14:17.080]   You guys don't remember that?
+[00:14:17.080 --> 00:14:18.720]   All right, so some of you remember.
+[00:14:18.720 --> 00:14:19.720]   Other people checked out.
+[00:14:19.720 --> 00:14:24.160]   All right, so remember when we did that, and after I drew it, I showed you, like, okay,
+[00:14:24.160 --> 00:14:27.820]   what I intended for you to draw is a house and a tree, right?
+[00:14:27.820 --> 00:14:31.320]   But when you didn't understand what I was asking you to draw, all you drew was triangle
+[00:14:31.320 --> 00:14:33.400]   and some stick figures, and it didn't look like anything.
+[00:14:33.400 --> 00:14:35.200]   What does this mean, right?
+[00:14:35.200 --> 00:14:40.800]   So to study the Book of Romans, or study any text in the Bible, without understanding the
+[00:14:40.800 --> 00:14:44.580]   bigger picture, you're not going to get as much out of it, right?
+[00:14:44.580 --> 00:14:45.600]   You want to see the big picture.
+[00:14:45.600 --> 00:14:49.640]   So the goal of this morning is I want to present to you the big picture of the Book of Romans,
+[00:14:49.640 --> 00:14:50.640]   right?
+[00:14:50.640 --> 00:14:54.440]   I want to give you the big outline, and then we're going to jump into the text itself next
+[00:14:54.440 --> 00:14:56.940]   week, okay?
+[00:14:56.940 --> 00:14:59.640]   How many of you have heard of the term "Romans Road"?
+[00:14:59.640 --> 00:15:04.240]   Raise your hand so I know how many, okay, "Romans Road."
+[00:15:04.240 --> 00:15:09.520]   Okay, so this term, "Romans Road," for those of you who haven't heard it, basically is
+[00:15:09.520 --> 00:15:13.160]   a way of presenting and understanding the Gospel.
+[00:15:13.160 --> 00:15:16.720]   So those of you who've maybe studied it, maybe in Sunday school, maybe you were going out
+[00:15:16.720 --> 00:15:22.320]   to missions and you were memorizing certain texts, you had the Book of Romans and certain
+[00:15:22.320 --> 00:15:27.160]   verses in the Book of Romans that you put to memory, and if you memorize it in sequence,
+[00:15:27.160 --> 00:15:29.880]   it basically is the Gospel message, right?
+[00:15:29.880 --> 00:15:37.720]   And so, Book of Romans is presented very logically, systematically, where Paul builds upon one
+[00:15:37.720 --> 00:15:40.400]   argument over the other argument and the next argument.
+[00:15:40.400 --> 00:15:44.520]   So I know that we have a tendency to memorize scripture, like we'll get a verse like Romans
+[00:15:44.520 --> 00:15:51.680]   3.23, you know, we'll get a 6.23, and we have a tendency to memorize these scriptures, but
+[00:15:51.680 --> 00:15:58.520]   this book in particular is not meant to be studied in isolation of the other texts, because
+[00:15:58.520 --> 00:16:01.080]   Paul builds upon each argument.
+[00:16:01.080 --> 00:16:05.400]   Every argument he makes in Chapter 1, he refers back to and builds on that in Chapter 2 and
+[00:16:05.400 --> 00:16:06.400]   Chapter 3.
+[00:16:06.400 --> 00:16:12.240]   So if you jump in at Chapter 5, of course you can still gain something from that, but
+[00:16:12.240 --> 00:16:18.620]   that is a conclusion of four chapters of theological foundation that he builds, and then he builds
+[00:16:18.620 --> 00:16:19.880]   on top of that.
+[00:16:19.880 --> 00:16:23.920]   So if you jump in at Chapter 5, you're not going to get the full meaning of what he means
+[00:16:23.920 --> 00:16:24.920]   by that.
+[00:16:24.920 --> 00:16:29.880]   You're not going to be able to interpret Chapter 7 without having properly interpreted
+[00:16:29.880 --> 00:16:30.880]   Chapter 6.
+[00:16:30.880 --> 00:16:32.680]   You understand what I'm saying?
+[00:16:32.680 --> 00:16:37.760]   So obviously, all of New Testament should be studied systematically, but this book in
+[00:16:37.760 --> 00:16:44.120]   particular, if you jump in in the middle, you can easily use it out of context, which
+[00:16:44.120 --> 00:16:46.040]   that happens quite a bit, right?
+[00:16:46.040 --> 00:16:51.000]   So I want to give you a big picture of the Book of Romans, and a big outline.
+[00:16:51.000 --> 00:16:54.760]   So basically, the Romans road goes like this, okay?
+[00:16:54.760 --> 00:16:58.000]   And there's different variations of it, and some of you may have studied it and say, you
+[00:16:58.000 --> 00:17:00.680]   know, you're going to come up to me and say, "That's not how I learned it," right?
+[00:17:00.680 --> 00:17:04.520]   But there's different variations of this, but in the end, this is the Gospel message
+[00:17:04.520 --> 00:17:07.460]   presented to us in the Book of Romans.
+[00:17:07.460 --> 00:17:11.520]   So those of you who are taking notes, you can just kind of put that on your notes and
+[00:17:11.520 --> 00:17:14.100]   refer back to it at a later point.
+[00:17:14.100 --> 00:17:21.040]   The first part of it, he spends three chapters talking about the need for salvation.
+[00:17:21.040 --> 00:17:25.640]   And then Chapter 3 and 4, the second part, he talks about after he established the need
+[00:17:25.640 --> 00:17:30.840]   for salvation, he talks about the provision for salvation.
+[00:17:30.840 --> 00:17:33.860]   Here's your need, and here's the answer.
+[00:17:33.860 --> 00:17:34.860]   That's the second part.
+[00:17:34.860 --> 00:17:38.880]   The third part is, here's the need, here's the answer.
+[00:17:38.880 --> 00:17:41.880]   The third part in Chapter 5 through 8 is a result.
+[00:17:41.880 --> 00:17:44.500]   What happened as a result of this salvation?
+[00:17:44.500 --> 00:17:47.260]   That's Chapter 5 through 8.
+[00:17:47.260 --> 00:17:51.660]   And then after, again, so the meat of the Book of Romans is the first eight chapters.
+[00:17:51.660 --> 00:17:54.940]   First eight chapters just kind of gives us, why do you need salvation?
+[00:17:54.940 --> 00:17:57.920]   Well, what did he give so that you can be saved?
+[00:17:57.920 --> 00:18:02.260]   And if you're saved, what happened to you as a result of the salvation?
+[00:18:02.260 --> 00:18:06.840]   And then the fourth part is the scope of salvation.
+[00:18:06.840 --> 00:18:10.020]   Who is affected by this salvation?
+[00:18:10.020 --> 00:18:12.960]   And he talks about the relationship between the Gentiles and the Jews.
+[00:18:12.960 --> 00:18:15.060]   And so he talks about that in Chapter 9 through 11.
+[00:18:15.060 --> 00:18:16.060]   That's the fourth part.
+[00:18:16.060 --> 00:18:20.740]   And then the fifth and final part is Chapter 12 through 16, where he talks about the life
+[00:18:20.740 --> 00:18:23.540]   in view of salvation.
+[00:18:23.540 --> 00:18:29.180]   So if you study, again, carefully the Romans Road, the Gospel presentation basically goes
+[00:18:29.180 --> 00:18:33.060]   from this is why you need Jesus.
+[00:18:33.060 --> 00:18:35.060]   Here's what Jesus has done.
+[00:18:35.060 --> 00:18:39.420]   And as a result of what Jesus has done, this is what you received.
+[00:18:39.420 --> 00:18:42.380]   And it's not just you, it's the whole world.
+[00:18:42.380 --> 00:18:48.500]   And as a result of that, in view of this mercy, this is how you ought to live.
+[00:18:48.500 --> 00:18:51.700]   So it's important for us, before we jump into Chapter 12, say, "Hey, this is what you ought
+[00:18:51.700 --> 00:18:53.740]   to do."
+[00:18:53.740 --> 00:18:58.700]   Let's figure out what Paul, the foundation that he lays on, on the meaning of all of
+[00:18:58.700 --> 00:18:59.700]   this.
+[00:18:59.700 --> 00:19:04.700]   Now, again, some of you guys may sit here and think, "I know this."
+[00:19:04.700 --> 00:19:09.380]   If you're not a brand new Christian, you didn't get baptized yesterday, you've heard
+[00:19:09.380 --> 00:19:12.260]   all of this.
+[00:19:12.260 --> 00:19:16.060]   But studying Scripture is kind of like digging for treasure.
+[00:19:16.060 --> 00:19:20.860]   If you dig just on the surface, there's something there on the surface.
+[00:19:20.860 --> 00:19:22.900]   And then you dig a little bit deeper.
+[00:19:22.900 --> 00:19:24.280]   You've got better tools.
+[00:19:24.280 --> 00:19:28.460]   So you get a little scooper and you scoop in and you dig a little bit more and there's
+[00:19:28.460 --> 00:19:29.460]   more.
+[00:19:29.460 --> 00:19:32.140]   In fact, the more precious stuff is underneath.
+[00:19:32.140 --> 00:19:35.980]   The more precious it is, the deeper it is.
+[00:19:35.980 --> 00:19:39.420]   You might bury it $2 on the surface and somebody finds it, no big deal.
+[00:19:39.420 --> 00:19:42.260]   But if you have real treasure, you want to bury it deep.
+[00:19:42.260 --> 00:19:45.620]   If you have hundreds of thousands of dollars and you don't trust the bank, you're going
+[00:19:45.620 --> 00:19:47.100]   to bury it like six feet deep.
+[00:19:47.100 --> 00:19:48.100]   You know what I'm saying?
+[00:19:48.100 --> 00:19:52.260]   That may be a bad analogy, but you understand what I'm saying.
+[00:19:52.260 --> 00:19:53.660]   Scripture, studying the Scripture is like that.
+[00:19:53.660 --> 00:19:57.100]   So if you sweep it superficially, and you say, "Yeah, I get it.
+[00:19:57.100 --> 00:19:58.100]   I get it superficially.
+[00:19:58.100 --> 00:20:00.220]   But I really want to dig.
+[00:20:00.220 --> 00:20:06.560]   I want to dig and I want to help you see the dots, the connection and how this is a foundation
+[00:20:06.560 --> 00:20:12.160]   not only for Romans, but all of what we know about Christianity."
+[00:20:12.160 --> 00:20:13.860]   So let me jump into it this morning.
+[00:20:13.860 --> 00:20:15.580]   Just give you the broad outline.
+[00:20:15.580 --> 00:20:20.980]   The first, and I'm not going to say the most important, but it is most important because
+[00:20:20.980 --> 00:20:26.280]   if you miss this, all the other parts aren't going to make much sense.
+[00:20:26.280 --> 00:20:30.140]   It may make sense, but it's going to be very superficial.
+[00:20:30.140 --> 00:20:36.540]   Have you ever tried to share the Gospel with somebody and they don't see a need?
+[00:20:36.540 --> 00:20:38.780]   It's like, "Oh, you know, to be saved."
+[00:20:38.780 --> 00:20:40.540]   It's like, "Well, I don't need a Savior."
+[00:20:40.540 --> 00:20:43.660]   "But we're sin, you know, we're sinful."
+[00:20:43.660 --> 00:20:48.740]   It's like, "You know, I know, I know I did some bad stuff, but you know, when I die,
+[00:20:48.740 --> 00:20:51.180]   I think I'm a pretty good person."
+[00:20:51.180 --> 00:20:54.580]   You can never share the Gospel beyond that point.
+[00:20:54.580 --> 00:20:58.260]   If the person says, "I don't think I need a Savior."
+[00:20:58.260 --> 00:21:04.300]   If they don't recognize their sin, if they don't recognize the desperateness before God,
+[00:21:04.300 --> 00:21:07.180]   you can't get to the cross.
+[00:21:07.180 --> 00:21:11.980]   How do you explain to somebody that Jesus is a Savior when they say they don't need
+[00:21:11.980 --> 00:21:14.420]   a Savior?
+[00:21:14.420 --> 00:21:21.140]   How do you, you can have the nicest Lamborghini car and you go to the village and you say,
+[00:21:21.140 --> 00:21:26.180]   "I can give you this Lamborghini if you feed me, but there's no roads."
+[00:21:26.180 --> 00:21:28.420]   They don't need this car.
+[00:21:28.420 --> 00:21:33.820]   So no matter how precious this gift is, if that person doesn't see the need for it, it's
+[00:21:33.820 --> 00:21:36.260]   not precious.
+[00:21:36.260 --> 00:21:41.740]   So what Paul does in the first three chapters, three whole chapters, is to set the foundation
+[00:21:41.740 --> 00:21:45.580]   of why you need Jesus.
+[00:21:45.580 --> 00:21:48.220]   Now we may look at it and say, "Well, I'm talking to a room full of believers and why
+[00:21:48.220 --> 00:21:54.220]   do we need to spend, you know, three chapters, so if we go fast, it might be three months,
+[00:21:54.220 --> 00:21:56.340]   two, three months at best.
+[00:21:56.340 --> 00:21:59.380]   Two, three months I'm going to be telling you, you're a sinner.
+[00:21:59.380 --> 00:22:01.020]   You know what I mean?
+[00:22:01.020 --> 00:22:02.260]   So gear up for it, all right?
+[00:22:02.260 --> 00:22:05.140]   So get ready, right?
+[00:22:05.140 --> 00:22:10.540]   Get ready, you know, because we're going to spend a good chunk of time to go through the
+[00:22:10.540 --> 00:22:15.740]   Romans to recognize what Paul says in need of salvation.
+[00:22:15.740 --> 00:22:20.100]   Even as Christians, you know, the Bible describes us when we fall away from God.
+[00:22:20.100 --> 00:22:23.180]   It typically happens when we're desperate, we cry out to God.
+[00:22:23.180 --> 00:22:28.820]   When God hears us, you know, we're thankful and we become satisfied.
+[00:22:28.820 --> 00:22:31.540]   And then once we become satisfied, we forget God.
+[00:22:31.540 --> 00:22:35.580]   And once we forget God, what happens?
+[00:22:35.580 --> 00:22:39.020]   We start drifting out to idolatry and then judgment comes.
+[00:22:39.020 --> 00:22:41.220]   And then it's that cycle over and over again.
+[00:22:41.220 --> 00:22:45.620]   And where the judgment comes is the moment that we forget that we need God.
+[00:22:45.620 --> 00:22:49.780]   And usually when that happens is when life is going well.
+[00:22:49.780 --> 00:22:54.860]   That's a challenge for all of us because we live in the comforts of Orange County.
+[00:22:54.860 --> 00:22:58.460]   Well, most of us, some of us in other counties, right?
+[00:22:58.460 --> 00:23:00.620]   But most of us are living in Orange County.
+[00:23:00.620 --> 00:23:03.380]   And Orange County, the general environment.
+[00:23:03.380 --> 00:23:09.180]   So sometimes you don't even recognize the spiritual stupor that you and I are all in
+[00:23:09.180 --> 00:23:10.980]   until we leave this area.
+[00:23:10.980 --> 00:23:15.420]   Travel somewhere else, travel to another country and you come back and realize you can actually
+[00:23:15.420 --> 00:23:20.940]   feel and sense there's a different spiritual environment.
+[00:23:20.940 --> 00:23:26.540]   In Orange County, because this is where we live, the greatest challenge that we have
+[00:23:26.540 --> 00:23:31.700]   is that there is no sense of urgency for anything.
+[00:23:31.700 --> 00:23:34.260]   And that includes spiritually.
+[00:23:34.260 --> 00:23:36.940]   So it's nice, you know.
+[00:23:36.940 --> 00:23:40.980]   You know, we talk about all this persecution because of the gay rights and, you know, all
+[00:23:40.980 --> 00:23:41.980]   the stuff that happened.
+[00:23:41.980 --> 00:23:45.900]   We hear about it in liberal parts of the world.
+[00:23:45.900 --> 00:23:50.780]   But to us, it's not real because we live in Orange County.
+[00:23:50.780 --> 00:23:54.940]   You know, Orange County is known for mega churches.
+[00:23:54.940 --> 00:23:59.220]   We have mega churches probably every six to seven minute drive from here, like in any
+[00:23:59.220 --> 00:24:01.460]   direction, there's a mega church.
+[00:24:01.460 --> 00:24:05.940]   And it doesn't mean because there's a mega church that everybody is spiritually good.
+[00:24:05.940 --> 00:24:08.380]   You know, what it means is there's a lot of people go to church.
+[00:24:08.380 --> 00:24:09.940]   That's what that means.
+[00:24:09.940 --> 00:24:14.460]   And as a result of a lot of people going to church and a lot of religious activity, there
+[00:24:14.460 --> 00:24:20.080]   is a false sense of security of being a Christian in Orange County because there's no sense
+[00:24:20.080 --> 00:24:22.820]   of urgency.
+[00:24:22.820 --> 00:24:30.300]   I believe that this part of the Book of Romans is probably one of the most important parts
+[00:24:30.300 --> 00:24:34.060]   that we need to wrestle with.
+[00:24:34.060 --> 00:24:40.820]   Because the moment we forget who we are before God without Christ, the Gospel becomes old.
+[00:24:40.820 --> 00:24:44.140]   Church just becomes a community of people that we hang out with.
+[00:24:44.140 --> 00:24:46.060]   You know, these are friends that we have.
+[00:24:46.060 --> 00:24:48.060]   But there's no sense of urgency.
+[00:24:48.060 --> 00:24:53.620]   When there is no sense of urgency, first thing that happens is we don't pray.
+[00:24:53.620 --> 00:24:54.620]   First thing that happens.
+[00:24:54.620 --> 00:24:55.620]   You'll still come to church.
+[00:24:55.620 --> 00:24:56.860]   You'll still study the Bible.
+[00:24:56.860 --> 00:24:59.320]   You'll still do missions.
+[00:24:59.320 --> 00:25:02.220]   The first thing that happens is we don't pray.
+[00:25:02.220 --> 00:25:06.100]   Because we can do everything without God.
+[00:25:06.100 --> 00:25:14.420]   That's why the first summary and conclusion of what he says in Chapter 3, this is what
+[00:25:14.420 --> 00:25:15.420]   he says.
+[00:25:15.420 --> 00:25:18.500]   And again, in our generation, to say this is very offensive.
+[00:25:18.500 --> 00:25:19.500]   But I'm going to read it to you.
+[00:25:19.500 --> 00:25:21.220]   Romans 3, 9 through 18.
+[00:25:21.220 --> 00:25:24.260]   And later on we're going to go into a little bit more detail of what Paul means.
+[00:25:24.260 --> 00:25:26.960]   This is the conclusion of what he's been trying to say.
+[00:25:26.960 --> 00:25:29.100]   In Chapter 3, 9 through 18, "What then?
+[00:25:29.100 --> 00:25:30.820]   Are we Jews any better off?
+[00:25:30.820 --> 00:25:32.180]   No, not at all.
+[00:25:32.180 --> 00:25:36.180]   For we have already charged that all, both Jews and Greeks, are under sin.
+[00:25:36.180 --> 00:25:40.420]   As it is written, none is righteous, no not one."
+[00:25:40.420 --> 00:25:43.300]   Let me stop right there.
+[00:25:43.300 --> 00:25:45.980]   Don't read it like you're reading history.
+[00:25:45.980 --> 00:25:48.440]   Imagine if you were a Jew.
+[00:25:48.440 --> 00:25:51.760]   You committed all your life to be a faithful Jew.
+[00:25:51.760 --> 00:25:53.620]   You went to the temple, gave sacrifices.
+[00:25:53.620 --> 00:25:56.660]   And when you gave sacrifices, that's financial.
+[00:25:56.660 --> 00:25:57.660]   That's money.
+[00:25:57.660 --> 00:26:00.060]   Because that's how they measured someone's wealth.
+[00:26:00.060 --> 00:26:05.060]   So when you went all your life to give financially, you've fasted.
+[00:26:05.060 --> 00:26:11.540]   In fact, you've traveled long distances to proselytize other people to be a Jew.
+[00:26:11.540 --> 00:26:18.540]   And all your life you've been trying to be faithfully committing and to obey the law.
+[00:26:18.540 --> 00:26:23.540]   Here's Paul when he says, "None is righteous, including you.
+[00:26:23.540 --> 00:26:27.900]   All the things that you've been doing up to this point add nothing to your righteousness.
+[00:26:27.900 --> 00:26:29.580]   Not even one.
+[00:26:29.580 --> 00:26:30.580]   No one understands."
+[00:26:30.580 --> 00:26:32.660]   Wait a second.
+[00:26:32.660 --> 00:26:34.020]   I've been studying the Book of Torah.
+[00:26:34.020 --> 00:26:36.980]   I've had this memorized since I was five years old.
+[00:26:36.980 --> 00:26:38.980]   I've had this written up and down my arm.
+[00:26:38.980 --> 00:26:41.100]   It's written all over my house.
+[00:26:41.100 --> 00:26:42.140]   I meditate on this.
+[00:26:42.140 --> 00:26:43.340]   I memorize all of this.
+[00:26:43.340 --> 00:26:49.340]   I mean, there are some Bible scholars in our generation, but in the Old Testament era,
+[00:26:49.340 --> 00:26:56.540]   you know, a child by the time he was 13 had big chunks of the Torah memorized.
+[00:26:56.540 --> 00:26:59.980]   And that's how they passed it on.
+[00:26:59.980 --> 00:27:00.980]   No one understands.
+[00:27:00.980 --> 00:27:03.820]   How can this not be an exaggeration?
+[00:27:03.820 --> 00:27:06.140]   No one seeks for God.
+[00:27:06.140 --> 00:27:07.140]   Not even one.
+[00:27:07.140 --> 00:27:08.540]   And then he goes, he doesn't end there.
+[00:27:08.540 --> 00:27:10.420]   If he just ended there, it would have already been offensive.
+[00:27:10.420 --> 00:27:13.700]   But he says, "All have turned aside."
+[00:27:13.700 --> 00:27:17.660]   You mean all this time that I've been pursuing God at the temple, you're saying I'm part
+[00:27:17.660 --> 00:27:18.660]   of this?
+[00:27:18.660 --> 00:27:21.780]   You mean I've become worthless?
+[00:27:21.780 --> 00:27:22.780]   Think about that in our generation.
+[00:27:22.780 --> 00:27:26.460]   I mean, you know, kids play what we call the, what do you call it?
+[00:27:26.460 --> 00:27:27.460]   The tee ball.
+[00:27:27.460 --> 00:27:29.700]   They go play football or soccer.
+[00:27:29.700 --> 00:27:33.100]   They all come back with trophies.
+[00:27:33.100 --> 00:27:36.860]   We got trophies in our, I don't know.
+[00:27:36.860 --> 00:27:37.860]   I mean, we have trophies.
+[00:27:37.860 --> 00:27:39.420]   We have a lot of trophies.
+[00:27:39.420 --> 00:27:40.420]   Right?
+[00:27:40.420 --> 00:27:44.100]   And we're so concerned about the self-esteem of our children that we're going to ruin them
+[00:27:44.100 --> 00:27:46.180]   if we don't encourage them.
+[00:27:46.180 --> 00:27:49.660]   And as a result of that, I think that has brought corruption.
+[00:27:49.660 --> 00:27:54.860]   But here he says, "No, everyone has become worthless.
+[00:27:54.860 --> 00:27:56.060]   No one does any good.
+[00:27:56.060 --> 00:27:57.220]   Not even one.
+[00:27:57.220 --> 00:27:58.980]   Their throat is an open grave.
+[00:27:58.980 --> 00:28:00.620]   They use their tongues to deceive.
+[00:28:00.620 --> 00:28:03.620]   The venom of asps is under their lips.
+[00:28:03.620 --> 00:28:05.900]   Their mouth is full of curses and bitterness.
+[00:28:05.900 --> 00:28:07.620]   Their feet are swift to shed blood.
+[00:28:07.620 --> 00:28:09.580]   In their path are ruin and misery.
+[00:28:09.580 --> 00:28:11.580]   And the way of peace they have not known.
+[00:28:11.580 --> 00:28:14.020]   There is no fear of God before their eyes."
+[00:28:14.020 --> 00:28:16.140]   Who are the "they"?
+[00:28:16.140 --> 00:28:17.140]   Who are the "their" people?
+[00:28:17.140 --> 00:28:21.860]   Who are those people that he's referring to?
+[00:28:21.860 --> 00:28:24.060]   He's referring to all of us.
+[00:28:24.060 --> 00:28:29.220]   He's referring to Gentiles, where God made it very plain to them through the creation
+[00:28:29.220 --> 00:28:30.220]   who he was.
+[00:28:30.220 --> 00:28:33.900]   And he says, "The only reason why you don't know God is because you suppress the truth
+[00:28:33.900 --> 00:28:35.020]   by your wickedness.
+[00:28:35.020 --> 00:28:38.860]   You are more comfortable in the darkness."
+[00:28:38.860 --> 00:28:41.260]   And as a result of that, you say you don't understand.
+[00:28:41.260 --> 00:28:42.980]   You say this doesn't make any sense.
+[00:28:42.980 --> 00:28:44.540]   And you reject the truth.
+[00:28:44.540 --> 00:28:48.340]   But God says that was not an intellectual problem.
+[00:28:48.340 --> 00:28:50.980]   It was a moral problem.
+[00:28:50.980 --> 00:28:53.060]   And you Jews who had the law.
+[00:28:53.060 --> 00:28:57.700]   And you're saying that you've been obeying the law, but by the law you are judged.
+[00:28:57.700 --> 00:29:03.700]   If you were judged by the law, you will all be under the curse.
+[00:29:03.700 --> 00:29:06.780]   He's referring to all of us.
+[00:29:06.780 --> 00:29:10.020]   And here's… let me go a step further than that.
+[00:29:10.020 --> 00:29:14.180]   This is who we are the moment we forget Christ.
+[00:29:14.180 --> 00:29:16.980]   The moment that we are not motivated by the love of Christ.
+[00:29:16.980 --> 00:29:20.140]   The moment that we are not affected by the cross.
+[00:29:20.140 --> 00:29:22.180]   This is who we are.
+[00:29:22.180 --> 00:29:24.260]   We drift.
+[00:29:24.260 --> 00:29:26.780]   We're selfish.
+[00:29:26.780 --> 00:29:29.020]   Nobody naturally drifts.
+[00:29:29.020 --> 00:29:32.740]   I've never met somebody who just kind of woke up and did nothing and at the end of the day
+[00:29:32.740 --> 00:29:35.300]   say, "I love Jesus."
+[00:29:35.300 --> 00:29:40.860]   I've never met anybody who just kind of drifted along two, three years like that, just wasn't
+[00:29:40.860 --> 00:29:41.860]   paying attention.
+[00:29:41.860 --> 00:29:47.780]   And I woke up one day and was like, "Man, I love Jesus."
+[00:29:47.780 --> 00:29:51.620]   When we don't pay attention, when we aren't anchored, when we're not pursuing, and we're
+[00:29:51.620 --> 00:29:57.100]   not paying attention, our natural inclination is to drift away from God.
+[00:29:57.100 --> 00:30:04.780]   See, that's why Paul says, "Before I can even tell you about who Jesus is, do you know
+[00:30:04.780 --> 00:30:07.940]   that you need Jesus?"
+[00:30:07.940 --> 00:30:12.860]   We can talk about justification by faith until we're blue to the face and that we become
+[00:30:12.860 --> 00:30:16.540]   experts.
+[00:30:16.540 --> 00:30:17.540]   Justification by faith.
+[00:30:17.540 --> 00:30:24.540]   And we become experts of propitiation, about adoption, about atonement.
+[00:30:24.540 --> 00:30:26.700]   You know?
+[00:30:26.700 --> 00:30:34.540]   We can become experts in all of this, and yet have no effect on us.
+[00:30:34.540 --> 00:30:39.260]   Because the only way that we can be affected by the cross is when we first and foremost
+[00:30:39.260 --> 00:30:40.260]   recognize.
+[00:30:40.260 --> 00:30:46.820]   And the people who are the most deeply affected are the ones who are the most deeply recognizing
+[00:30:46.820 --> 00:30:49.820]   the need for the cross.
+[00:30:49.820 --> 00:30:54.340]   And that's why it's so hard to reach religious people.
+[00:30:54.340 --> 00:31:00.060]   It's so hard to reach people who are at the church doing the right things, and yet it's
+[00:31:00.060 --> 00:31:03.860]   always at the surface level.
+[00:31:03.860 --> 00:31:11.500]   Because we talk about need for Christ, we praise God, and His name is on our lips constantly,
+[00:31:11.500 --> 00:31:15.540]   but we don't really sense the need.
+[00:31:15.540 --> 00:31:19.140]   We don't realize how desperate we are.
+[00:31:19.140 --> 00:31:25.180]   We don't realize, when we look at the cross, that that's the only way that I can possibly
+[00:31:25.180 --> 00:31:26.180]   live.
+[00:31:26.180 --> 00:31:30.180]   And when I talk about live, I'm not just talking about breathing, I'm talking about living.
+[00:31:30.180 --> 00:31:36.460]   We spend so much time and energy and money to pretend like we're living.
+[00:31:36.460 --> 00:31:39.780]   And that's why we get so caught up in entertainment and traveling and all this stuff, and none
+[00:31:39.780 --> 00:31:41.900]   of that stuff is bad in and of itself.
+[00:31:41.900 --> 00:31:45.740]   But so much of that is so that we feel like we're living.
+[00:31:45.740 --> 00:31:55.180]   See, that's why Paul spends so much time trying to convince them, pleading with them, "You
+[00:31:55.180 --> 00:31:58.620]   need a Savior."
+[00:31:58.620 --> 00:32:02.580]   The whole book begins, Romans 1:20, "For the wrath of God is revealed from heaven against
+[00:32:02.580 --> 00:32:07.500]   all ungodliness, unrighteousness of men, who by their unrighteousness suppress the truth."
+[00:32:07.500 --> 00:32:12.180]   Wrath of God is being poured out, and you don't even recognize it.
+[00:32:12.180 --> 00:32:14.020]   All have sinned and fall short of the glory of God.
+[00:32:14.020 --> 00:32:20.780]   That's why Paul, recognizing this, in 2 Corinthians 5:20, he describes his ministry as imploring
+[00:32:20.780 --> 00:32:23.180]   sinners to be reconciled with God.
+[00:32:23.180 --> 00:32:26.940]   He didn't just casually preach.
+[00:32:26.940 --> 00:32:29.740]   He didn't just casually spread the word, you know, "I'm going to spread the seed and see
+[00:32:29.740 --> 00:32:30.740]   what people say."
+[00:32:30.740 --> 00:32:31.740]   He said he was imploring.
+[00:32:31.740 --> 00:32:34.700]   In fact, what does he say later on in the book of Romans?
+[00:32:34.700 --> 00:32:39.260]   He said, "Knowing the judgment that's coming upon my people, the Jews, I wish I could be
+[00:32:39.260 --> 00:32:45.620]   accursed, because I wish that all these countrymen would come to recognize who Jesus is and why
+[00:32:45.620 --> 00:32:47.780]   they need Christ."
+[00:32:47.780 --> 00:32:49.500]   So there was a sense of urgency in him.
+[00:32:49.500 --> 00:32:56.900]   Even as he asked for prayer, in 2 Thessalonians 3, he says, "Finally, brothers, pray for
+[00:32:56.900 --> 00:32:57.900]   us.
+[00:32:57.900 --> 00:33:02.860]   Pray for us that the word of the Lord may be spread rapidly."
+[00:33:02.860 --> 00:33:09.900]   Speed ahead, it says in the ESV, but in the NIV and in the New American Standard, it says
+[00:33:09.900 --> 00:33:12.860]   to spread rapidly.
+[00:33:12.860 --> 00:33:15.660]   Paul didn't simply say, "Can you pray for us that the doors will open?"
+[00:33:15.660 --> 00:33:18.900]   And I just kind of sit casually until the door gets open so that we can do the ministry.
+[00:33:18.900 --> 00:33:22.260]   There was a sense of urgency in him, you know.
+[00:33:22.260 --> 00:33:27.980]   He was kind of watching the world drifting away, and the end of it, the Niagara Falls
+[00:33:27.980 --> 00:33:31.380]   or whatever is coming, and he sees it.
+[00:33:31.380 --> 00:33:33.700]   And so there's a sense of urgency in him in ministry.
+[00:33:33.700 --> 00:33:37.860]   He's not just casually floating along.
+[00:33:37.860 --> 00:33:43.020]   When we don't recognize our need, worship becomes dull.
+[00:33:43.020 --> 00:33:48.100]   Yes, we know justification by faith, but it doesn't inspire worship.
+[00:33:48.100 --> 00:33:50.980]   It doesn't inspire devotion.
+[00:33:50.980 --> 00:33:55.180]   Not only does it not inspire our worship and devotion, there's a sense of urgency to spread
+[00:33:55.180 --> 00:33:56.180]   the Gospel.
+[00:33:56.180 --> 00:33:59.780]   You know, we talked about compassion.
+[00:33:59.780 --> 00:34:02.540]   Where does compassion come from?
+[00:34:02.540 --> 00:34:07.960]   I think everybody here, if you see a hungry child on the street, you'll have compassion.
+[00:34:07.960 --> 00:34:13.220]   If you see people, you know, I told you stories in the Philippines, and these young, young
+[00:34:13.220 --> 00:34:16.980]   teenage girls, barely teenage girls, selling their bodies so they can feed their family.
+[00:34:16.980 --> 00:34:20.540]   I mean, doesn't that just get you right here?
+[00:34:20.540 --> 00:34:22.620]   It's like, we've got to do something.
+[00:34:22.620 --> 00:34:25.700]   Even though you weren't there, even though you didn't meet them, just the thought of
+[00:34:25.700 --> 00:34:31.580]   that, doesn't that instill some compassion in you?
+[00:34:31.580 --> 00:34:36.420]   When compassion is not there, when we see people and we recognize that the wrath of
+[00:34:36.420 --> 00:34:42.500]   God is upon them, and we do not recognize, we don't have compassion, something has definitely
+[00:34:42.500 --> 00:34:44.460]   gone wrong.
+[00:34:44.460 --> 00:34:47.660]   That's why Paul says first and foremost that we need to recognize.
+[00:34:47.660 --> 00:34:51.300]   I'm not just talking about them, us.
+[00:34:51.300 --> 00:34:56.500]   Christians, religious people, committed Christians.
+[00:34:56.500 --> 00:34:58.820]   Do we need a Savior?
+[00:34:58.820 --> 00:35:02.140]   Do you need a Savior?
+[00:35:02.140 --> 00:35:06.820]   After he sets that foundation, the second thing that he goes to is the provision.
+[00:35:06.820 --> 00:35:08.340]   Justification by faith alone.
+[00:35:08.340 --> 00:35:12.100]   And again, I know this is not new to you.
+[00:35:12.100 --> 00:35:14.180]   You've probably heard that term many times before.
+[00:35:14.180 --> 00:35:15.260]   Justification by faith alone.
+[00:35:15.260 --> 00:35:20.220]   Our whole Protestant Reformation was about justification by faith alone.
+[00:35:20.220 --> 00:35:24.940]   Not faith plus works, but faith alone.
+[00:35:24.940 --> 00:35:29.220]   In Romans 3.23, "For all have sinned and fall short of the glory of God and are justified
+[00:35:29.220 --> 00:35:35.620]   by the grace as a gift through the redemption that is in Christ Jesus."
+[00:35:35.620 --> 00:35:39.820]   The Scripture is absolutely crystal clear.
+[00:35:39.820 --> 00:35:45.060]   Again, you may not be challenged in the church, you may not be challenged in this fellowship,
+[00:35:45.060 --> 00:35:50.220]   but I know that the moment you step out of church and you're at work or you're at school,
+[00:35:50.220 --> 00:35:51.220]   you're going to be challenged.
+[00:35:51.220 --> 00:35:55.060]   That's such an arrogant thing to say.
+[00:35:55.060 --> 00:35:59.420]   How can you possibly believe that Jesus is the only way?
+[00:35:59.420 --> 00:36:03.060]   I can accept it if you say Jesus is a way.
+[00:36:03.060 --> 00:36:07.100]   I can accept it if you say Jesus is maybe a God and he was a great man and does great
+[00:36:07.100 --> 00:36:09.660]   things just like a lot of other people have said.
+[00:36:09.660 --> 00:36:14.100]   But to say that Jesus Christ is the only way?
+[00:36:14.100 --> 00:36:21.100]   You see, if our goal is to become better people, I don't know if you've ever read Buddhist
+[00:36:21.100 --> 00:36:22.100]   literature.
+[00:36:22.100 --> 00:36:24.860]   There's a lot of earthly wisdom in Buddhist literature.
+[00:36:24.860 --> 00:36:28.700]   You know, saying, "Hey, he's telling us to be Buddhist."
+[00:36:28.700 --> 00:36:32.660]   Okay, wake up, that's not what I'm saying, right?
+[00:36:32.660 --> 00:36:37.980]   But if you've ever read Buddhist literature, the Buddhists spent a lot of time observing
+[00:36:37.980 --> 00:36:38.980]   truths of life.
+[00:36:38.980 --> 00:36:39.980]   Confucius.
+[00:36:40.380 --> 00:36:47.140]   Some of the best quotes of examination of life I've read from Confucius.
+[00:36:47.140 --> 00:36:48.140]   I mean, Shakespeare.
+[00:36:48.140 --> 00:36:52.220]   I don't know much about Shakespeare, but some of the things that I've read about Shakespeare
+[00:36:52.220 --> 00:36:55.660]   is like, "Man, this guy knows the heart.
+[00:36:55.660 --> 00:36:59.280]   He captures the essence of people."
+[00:36:59.280 --> 00:37:02.140]   If you're looking to be a better person, there's a lot of stuff you can do.
+[00:37:02.140 --> 00:37:03.820]   You can be a Buddhist, you can be a Mormon.
+[00:37:03.820 --> 00:37:06.260]   I mean, those are very moral people.
+[00:37:06.260 --> 00:37:07.580]   There's a lot of things you could do.
+[00:37:07.580 --> 00:37:12.860]   If your goal is to be financially successful, you don't need Jesus.
+[00:37:12.860 --> 00:37:15.380]   Maybe praying to Jesus may be the easiest way.
+[00:37:15.380 --> 00:37:19.540]   Just like if you want to get an A and you didn't study and it was pray.
+[00:37:19.540 --> 00:37:24.340]   Give me an A, Lord, because you blew it.
+[00:37:24.340 --> 00:37:28.980]   But if your goal is financial, if your goal is health, if your goal is social, you don't
+[00:37:28.980 --> 00:37:31.940]   need Jesus.
+[00:37:31.940 --> 00:37:39.980]   One reason why you would need Christ is because you don't know what to do with the sin.
+[00:37:39.980 --> 00:37:45.980]   There is no answer to your guilt that comes from sin, the corruption that comes from deep
+[00:37:45.980 --> 00:37:47.500]   inside.
+[00:37:47.500 --> 00:37:52.540]   If it's financial, just work harder.
+[00:37:52.540 --> 00:37:53.840]   Get a better job.
+[00:37:53.840 --> 00:37:56.020]   See which company has the most potential.
+[00:37:56.020 --> 00:37:59.780]   See which field has more potential to get ahead.
+[00:37:59.780 --> 00:38:02.700]   And go there and work hard.
+[00:38:02.700 --> 00:38:09.860]   If you don't have friends, don't be so awkward.
+[00:38:09.860 --> 00:38:10.860]   Learn some social skills.
+[00:38:10.860 --> 00:38:13.060]   I mean, there's a lot of things we can do.
+[00:38:13.060 --> 00:38:18.020]   If it's just health, run, eat better.
+[00:38:18.020 --> 00:38:21.700]   If that's what we're seeking, you don't need Jesus.
+[00:38:21.700 --> 00:38:27.780]   If Jesus is just an easier, faster way, you don't need justification by faith.
+[00:38:27.780 --> 00:38:30.740]   But that's not what Jesus came to do.
+[00:38:30.740 --> 00:38:31.740]   That's not what he offered.
+[00:38:31.740 --> 00:38:37.700]   He said, "I do all of these things so that you would know that the Son of Man has the
+[00:38:37.700 --> 00:38:42.420]   authority to forgive sins."
+[00:38:42.420 --> 00:38:48.620]   Until we recognize our corruption, justification by faith is just words.
+[00:38:48.620 --> 00:38:49.940]   It's just theology.
+[00:38:49.940 --> 00:38:53.740]   It's just study, knowledge.
+[00:38:53.740 --> 00:39:02.660]   But when you are desperate for holiness, when you're hungering and thirsting for righteousness,
+[00:39:02.660 --> 00:39:08.720]   there's no other name, no name given under heaven by which you and I can be saved.
+[00:39:08.720 --> 00:39:12.500]   There is no other answer but Jesus Christ.
+[00:39:12.500 --> 00:39:19.920]   That's why we establish the need, and then the means, which is Christ and Christ alone.
+[00:39:19.920 --> 00:39:24.020]   And then from there, he talks about the result.
+[00:39:24.020 --> 00:39:30.460]   If you see the need, and you cling to Christ, and if you cling to Christ and you are saved,
+[00:39:30.460 --> 00:39:33.980]   chapters 5 through 8 discusses what it is that you have in Christ.
+[00:39:33.980 --> 00:39:37.820]   And again, sometimes because we forget what it is that we have in Christ, and I think
+[00:39:37.820 --> 00:39:41.860]   again, part of the reason why prayer is so hard for us is because we forget what prayer
+[00:39:41.860 --> 00:39:44.780]   is.
+[00:39:44.780 --> 00:39:45.780]   You're talking to God.
+[00:39:45.780 --> 00:39:52.300]   You heard that so many times, "Of course you're talking to God."
+[00:39:52.300 --> 00:39:55.860]   Let me say it again, okay?
+[00:39:55.860 --> 00:39:56.860]   You're talking to God.
+[00:39:56.860 --> 00:39:57.860]   Okay, let me say it again.
+[00:39:57.860 --> 00:40:02.940]   Some of you guys are looking at me, it's like, "Don't be stupid.
+[00:40:02.940 --> 00:40:03.940]   I heard that before.
+[00:40:03.940 --> 00:40:05.860]   Let me say it again, okay?"
+[00:40:05.860 --> 00:40:10.420]   You know, maybe everything needs to be said three times, so let me say it three times,
+[00:40:10.420 --> 00:40:11.420]   okay?
+[00:40:11.420 --> 00:40:15.020]   You're talking to God.
+[00:40:15.020 --> 00:40:18.100]   You're talking to God.
+[00:40:18.100 --> 00:40:22.020]   The God who formed your inner being.
+[00:40:22.020 --> 00:40:26.620]   The God who stops the ocean from, the water from coming in.
+[00:40:26.620 --> 00:40:33.260]   The God who keeps enough oxygen in this room so that you and I can breathe.
+[00:40:33.260 --> 00:40:36.060]   The God who was there from the beginning of time.
+[00:40:36.060 --> 00:40:39.740]   The God who's going to be there at the end of time.
+[00:40:39.740 --> 00:40:43.900]   You're talking to that God.
+[00:40:43.900 --> 00:40:44.900]   I hope that really sinks in.
+[00:40:44.900 --> 00:40:48.500]   Sometimes we forget what it is that we have in Christ.
+[00:40:48.500 --> 00:40:49.500]   Right?
+[00:40:49.500 --> 00:40:51.060]   It just becomes active.
+[00:40:51.060 --> 00:40:53.180]   We talked about that last week, right?
+[00:40:53.180 --> 00:40:58.300]   And it just becomes a habit, and after it becomes a habit, you become blind, right?
+[00:40:58.300 --> 00:41:01.540]   You don't feel, it's just kind of like, "Oh, I heard this, heard this, heard this."
+[00:41:01.540 --> 00:41:05.220]   I've heard this so many times, you become numb to it.
+[00:41:05.220 --> 00:41:09.260]   I think it's important for us, as we study that, again, that section, like, we have peace
+[00:41:09.260 --> 00:41:11.900]   with God.
+[00:41:11.900 --> 00:41:15.180]   We have peace with God.
+[00:41:15.180 --> 00:41:16.180]   There was hostility.
+[00:41:16.180 --> 00:41:18.940]   It's kind of like North and South Korea, you know, they get together, it's like, "Oh, they
+[00:41:18.940 --> 00:41:23.820]   go one country, and there's a whole country in South Korea just pleading to have peace,
+[00:41:23.820 --> 00:41:24.820]   to come together."
+[00:41:24.820 --> 00:41:26.980]   Right?
+[00:41:26.980 --> 00:41:32.820]   And I can just imagine when North and Korea opens, South and North Korea opens up and
+[00:41:32.820 --> 00:41:38.740]   they become one, if that's within the will of God, I can imagine just, you know, 60,
+[00:41:38.740 --> 00:41:44.900]   70 years of being separated from your cousins and relatives, and I can just imagine the
+[00:41:44.900 --> 00:41:46.620]   joy of celebration.
+[00:41:46.620 --> 00:41:50.820]   I want to be there, if that ever happens, and the day that they open it up, I want to
+[00:41:50.820 --> 00:41:56.820]   be there, just to take pictures, just to take video, right?
+[00:41:56.820 --> 00:42:04.380]   Can you imagine all of human history has been separated from this holy God, and now God
+[00:42:04.380 --> 00:42:07.180]   has opened the door?
+[00:42:07.180 --> 00:42:10.100]   We have peace with God.
+[00:42:10.100 --> 00:42:13.760]   That it would not just be some words that we express, it's not just some theological
+[00:42:13.760 --> 00:42:18.700]   thing that we sign, but we have peace with God.
+[00:42:18.700 --> 00:42:23.060]   And as a result of that, we have peace of God.
+[00:42:23.060 --> 00:42:30.060]   If you have peace with God, the peace of God will guard you in all things.
+[00:42:30.060 --> 00:42:32.140]   Because you know what that means?
+[00:42:32.140 --> 00:42:37.580]   If I have peace with God, everything is good.
+[00:42:37.580 --> 00:42:41.660]   Sometimes I think about what's the most tragic thing that I could imagine in my life?
+[00:42:41.660 --> 00:42:42.660]   You know?
+[00:42:42.660 --> 00:42:47.540]   I could think of me dying too early.
+[00:42:47.540 --> 00:42:52.460]   And not because of me, like I'm ready to go, because my kids and my wife, I don't want
+[00:42:52.460 --> 00:42:57.180]   to leave them, so in my mind, that's probably the worst thing that can possibly happen in
+[00:42:57.180 --> 00:42:58.180]   my life.
+[00:42:58.180 --> 00:43:00.660]   I get sick and I die.
+[00:43:00.660 --> 00:43:03.900]   I worry a little bit about you people, but not as much.
+[00:43:03.900 --> 00:43:04.900]   You know what I mean?
+[00:43:04.900 --> 00:43:11.300]   You guys, I'm pretty sure somebody's going to come up here and do a better job than I
+[00:43:11.300 --> 00:43:14.660]   am able to do, but I'm the only father in my home.
+[00:43:14.660 --> 00:43:22.380]   But even then, when I think about the worst case scenario, I'm at peace.
+[00:43:22.380 --> 00:43:24.600]   Because God is in control.
+[00:43:24.600 --> 00:43:27.740]   I believe in a sovereign God.
+[00:43:27.740 --> 00:43:29.980]   He gave me His Son to save me.
+[00:43:29.980 --> 00:43:32.100]   How will He not, along with Him, give me everything?
+[00:43:32.100 --> 00:43:37.860]   Even if I die early, how will that not be in His control?
+[00:43:37.860 --> 00:43:42.820]   I have peace with God, therefore I have the peace of God, and therefore the scripture
+[00:43:42.820 --> 00:43:45.860]   says you have this new life.
+[00:43:45.860 --> 00:43:46.860]   You and I have this life.
+[00:43:46.860 --> 00:43:48.260]   And Paul's going to expose it.
+[00:43:48.260 --> 00:43:50.260]   What does that mean, to have new life?
+[00:43:50.260 --> 00:43:53.940]   You were once slaves to sin, now you're slaves to righteousness.
+[00:43:53.940 --> 00:43:55.660]   And what does this new life look like?
+[00:43:55.660 --> 00:44:00.900]   In the Spirit, in Romans chapter 8.
+[00:44:00.900 --> 00:44:03.020]   Christianity is about life.
+[00:44:03.020 --> 00:44:05.860]   It's not about Sunday morning.
+[00:44:05.860 --> 00:44:07.720]   It's not about serving and sacrifice.
+[00:44:07.720 --> 00:44:09.260]   It's about life.
+[00:44:09.260 --> 00:44:12.900]   The life that you could not live because of sin, He gave life.
+[00:44:12.900 --> 00:44:13.900]   That's what Christianity is about.
+[00:44:13.900 --> 00:44:18.980]   That's why Jesus says, "I have come to give life, and give this life abundantly."
+[00:44:18.980 --> 00:44:26.180]   So if you're missing out on this life, you're missing out on the benefit of salvation.
+[00:44:26.180 --> 00:44:28.660]   To be alive.
+[00:44:28.660 --> 00:44:35.620]   That the greatest witness of the resurrection of Jesus Christ is the life of the church.
+[00:44:35.620 --> 00:44:40.420]   You have been crucified with Christ, and you were united with Him in His death, but now
+[00:44:40.420 --> 00:44:44.180]   as a result of being united with Him in His death, now you are united with Him in His
+[00:44:44.180 --> 00:44:46.260]   resurrected life.
+[00:44:46.260 --> 00:44:47.260]   Zoe.
+[00:44:47.260 --> 00:44:52.740]   I'm able to live because I don't have to be successful.
+[00:44:52.740 --> 00:44:55.620]   Because Jesus was successful for me.
+[00:44:55.620 --> 00:45:01.200]   I don't have to walk down the street and feel any less than anybody else because somebody
+[00:45:01.200 --> 00:45:02.420]   has better stuff.
+[00:45:02.420 --> 00:45:04.140]   Somebody is playing basketball better than me.
+[00:45:04.140 --> 00:45:05.280]   Somebody has a better job.
+[00:45:05.280 --> 00:45:06.740]   Somebody is smarter than me.
+[00:45:06.740 --> 00:45:08.420]   Because all of this stuff is just fluff.
+[00:45:08.420 --> 00:45:11.940]   In the end, when I die, I'm going to be in heaven in eternity with God.
+[00:45:11.940 --> 00:45:16.460]   God saved me from this rat race.
+[00:45:16.460 --> 00:45:22.100]   This miserable rat race that makes us feel less of a person because we're not doing better
+[00:45:22.100 --> 00:45:23.100]   than the next guy.
+[00:45:23.100 --> 00:45:25.500]   Our family doesn't look better than the next family.
+[00:45:25.500 --> 00:45:28.260]   God saved us from ourselves.
+[00:45:28.260 --> 00:45:31.580]   From our constant need to exalt ourselves.
+[00:45:31.580 --> 00:45:36.980]   As a result of justifying our sins, we have new life in Christ, and as a result, not only
+[00:45:36.980 --> 00:45:40.100]   do we have new life, we are able to call Him our Abba Father.
+[00:45:40.100 --> 00:45:44.140]   He's not just some distant creator that He said, "Here I am, and just worship Me."
+[00:45:44.140 --> 00:45:47.220]   He said, "No, come to Me."
+[00:45:47.220 --> 00:45:50.620]   He has become our Abba Father.
+[00:45:50.620 --> 00:45:53.420]   And then we're going to be, He's going to be talking about the scope in chapter 9 through
+[00:45:53.420 --> 00:45:56.980]   11, and again, we'll get into that more deeper.
+[00:45:56.980 --> 00:45:59.540]   But God is so faithful to His promises.
+[00:45:59.540 --> 00:46:04.460]   What He said to Israel, He has not given up.
+[00:46:04.460 --> 00:46:08.240]   His period of time, He's going to allow the Gentiles to come in, but He has not given
+[00:46:08.240 --> 00:46:09.240]   up on that.
+[00:46:09.240 --> 00:46:12.120]   And again, for the sake of time, we'll jump to the last.
+[00:46:12.120 --> 00:46:19.440]   This life, in view of this salvation, if we quickly jump over all of this and say, "You
+[00:46:19.440 --> 00:46:22.200]   should do this, you should do that," we can change their behavior.
+[00:46:22.200 --> 00:46:27.800]   I mean, peer pressure has a lot of power over us.
+[00:46:27.800 --> 00:46:28.800]   Right?
+[00:46:28.800 --> 00:46:30.320]   And some of you guys are thinking, "No, I'm not."
+[00:46:30.320 --> 00:46:33.440]   You know, it was always interesting to me when I was younger, the punk rockers, when
+[00:46:33.440 --> 00:46:36.160]   they first came in, they're about anarchy.
+[00:46:36.160 --> 00:46:37.160]   You know, "We're just going to do it.
+[00:46:37.160 --> 00:46:38.160]   We're going to rebel."
+[00:46:38.160 --> 00:46:41.160]   And they all rebelled the same way.
+[00:46:41.160 --> 00:46:42.160]   You know what I'm saying?
+[00:46:42.160 --> 00:46:43.520]   That was always interesting to me.
+[00:46:43.520 --> 00:46:48.160]   They all had the mohawk, all dyed their hair the same way, all had a leather jacket with
+[00:46:48.160 --> 00:46:49.160]   spikes.
+[00:46:49.160 --> 00:46:50.160]   Anarchy!
+[00:46:50.160 --> 00:46:51.160]   Right?
+[00:46:51.160 --> 00:46:53.200]   No, you just created another society of anarchists.
+[00:46:53.200 --> 00:46:55.720]   You're just conforming to another group of people.
+[00:46:55.720 --> 00:46:56.720]   Right?
+[00:46:56.720 --> 00:47:03.480]   Even when we don't think that we're being influenced, we're all influenced.
+[00:47:03.480 --> 00:47:07.760]   So if you can come to church, and all it becomes is about change of behavior to fit into this
+[00:47:07.760 --> 00:47:13.240]   church, if we're not careful, we can easily become whitewashed tombs where we're washing
+[00:47:13.240 --> 00:47:18.880]   the outside of the tomb, but inside is the same, filled with dead men's bones.
+[00:47:18.880 --> 00:47:25.240]   What really changes us is when we recognize who we are before God, and what it is that
+[00:47:25.240 --> 00:47:30.240]   Christ has done, and that it is only Christ, and I'm desperate for Christ every single
+[00:47:30.240 --> 00:47:31.560]   day.
+[00:47:31.560 --> 00:47:35.160]   And then we recognize what it is that we have in Christ, which is the reason why I worship
+[00:47:35.160 --> 00:47:36.720]   Him.
+[00:47:36.720 --> 00:47:39.680]   Not because if I don't worship, He's not going to bless my life, He's not going to
+[00:47:39.680 --> 00:47:43.400]   bless my business, He's not going to bless my marriage.
+[00:47:43.400 --> 00:47:47.480]   I don't worship God thinking that if I do some of these things that God's going to make
+[00:47:47.480 --> 00:47:48.480]   my life better.
+[00:47:48.480 --> 00:47:53.320]   I worship because He's given me everything I could possibly think of.
+[00:47:53.320 --> 00:47:59.040]   What more could I ask for than the Son of God Himself?
+[00:47:59.040 --> 00:48:04.840]   And that's what worship is, coming into this sanctuary, living every day, and thank you
+[00:48:04.840 --> 00:48:09.520]   for saving a wretched sinner like me.
+[00:48:09.520 --> 00:48:13.320]   You know, I may not have all the money, I may not have all the blessings, I may not,
+[00:48:13.320 --> 00:48:17.680]   you know, have all these superficial things, but I have Jesus.
+[00:48:17.680 --> 00:48:20.400]   Who can separate you from the love of Christ?
+[00:48:20.400 --> 00:48:25.440]   And so you live a life of worship, and so therefore, chapter 12 through 16 is an explanation.
+[00:48:25.440 --> 00:48:30.600]   When you do this, when you are motivated, when your inwards are changing, and you become
+[00:48:30.600 --> 00:48:35.040]   a genuine worship of God, this is how you ought to express your worship to God.
+[00:48:35.040 --> 00:48:37.920]   That's chapter 12 through 16.
+[00:48:37.920 --> 00:48:42.800]   So again, as I wrap up this morning, that's the big picture of what we're trying to get
+[00:48:42.800 --> 00:48:43.800]   into.
+[00:48:43.800 --> 00:48:47.280]   Now some of these things we're going to go into and spend a lot of time digging through,
+[00:48:47.280 --> 00:48:53.960]   and again, my personal goal for this is not just, obviously it's not just academic.
+[00:48:53.960 --> 00:49:00.800]   I personally desire revival.
+[00:49:00.800 --> 00:49:10.840]   Not because it's fun, not because I see something wrong, because when Christ is close, I experience
+[00:49:10.840 --> 00:49:13.360]   life.
+[00:49:13.360 --> 00:49:16.960]   And I know that that's the same with you.
+[00:49:16.960 --> 00:49:20.540]   No matter how many trips you take, no matter how many shiny things you buy, no matter how
+[00:49:20.540 --> 00:49:27.000]   secure you are, no matter how healthy you are, if you've seen a glimpse of the glory
+[00:49:27.000 --> 00:49:32.080]   of the gospel of Jesus Christ, you know that there is nothing like it.
+[00:49:32.080 --> 00:49:36.880]   So I pray that as we jump into the book of Romans, that the hungering and thirsting for
+[00:49:36.880 --> 00:49:43.480]   righteousness will be stirred up in us, that every time we come, that we would come ready.
+[00:49:43.480 --> 00:49:45.480]   Don't bring a little thimble.
+[00:49:45.480 --> 00:49:47.640]   Fill me up, fill my cup up.
+[00:49:47.640 --> 00:49:50.520]   Bring a bucket.
+[00:49:50.520 --> 00:49:52.480]   Become active listeners and be ready.
+[00:49:52.480 --> 00:49:53.920]   Say, "Lord, here am I.
+[00:49:53.920 --> 00:49:56.040]   Search me and know me."
+[00:49:56.040 --> 00:50:00.640]   Let's take a few minutes to pray before God as we ask the worship team to come up.
+[00:50:00.640 --> 00:50:06.840]   Again, it takes a few minutes to come before the Lord in prayer, examining our own hearts.
+[00:50:06.840 --> 00:50:10.240]   If we've been distracted, to take this time to come before the Lord.
+[00:50:10.240 --> 00:50:15.560]   You know, I pray that our Lordship would not just be words, and that we can honestly pray
+[00:50:15.560 --> 00:50:16.560]   before God.
+[00:50:16.560 --> 00:50:17.560]   "Search me and know me.
+[00:50:17.560 --> 00:50:18.720]   There are hurtful ways in me."
+[00:50:18.720 --> 00:50:21.960]   And be sincere when you ask that prayer.
+[00:50:21.960 --> 00:50:26.120]   I'm weak, but I need your strength.
+[00:50:26.120 --> 00:50:30.440]   So let's take some time to pray before God, that God will soften our hearts to speak to
+[00:50:30.440 --> 00:50:30.760]   us.
+[00:50:30.760 --> 00:50:31.260]   Okay.
+[00:50:31.260 --> 00:50:34.160]   [MUSIC]
+

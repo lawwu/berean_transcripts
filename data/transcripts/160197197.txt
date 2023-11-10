@@ -1,0 +1,1002 @@
+
+[00:00:00.000 --> 00:00:03.000]   [AUDIO OUT]
+[00:00:04.000 --> 00:00:07.000]   [AUDIO OUT]
+[00:00:07.000 --> 00:00:10.000]   [AUDIO OUT]
+[00:00:10.000 --> 00:00:13.000]   [AUDIO OUT]
+[00:00:13.000 --> 00:00:16.000]   [AUDIO OUT]
+[00:00:16.000 --> 00:00:19.000]   [AUDIO OUT]
+[00:00:19.000 --> 00:00:22.000]   [AUDIO OUT]
+[00:00:22.000 --> 00:00:25.000]   [AUDIO OUT]
+[00:00:25.000 --> 00:00:28.000]   [AUDIO OUT]
+[00:00:28.000 --> 00:00:31.000]   [AUDIO OUT]
+[00:00:31.000 --> 00:00:34.000]   [AUDIO OUT]
+[00:00:34.000 --> 00:00:37.000]   [AUDIO OUT]
+[00:00:37.000 --> 00:00:40.000]   [AUDIO OUT]
+[00:00:40.000 --> 00:00:43.000]   [AUDIO OUT]
+[00:00:43.000 --> 00:00:46.000]   [AUDIO OUT]
+[00:00:46.000 --> 00:00:49.000]   [AUDIO OUT]
+[00:00:49.000 --> 00:00:52.000]   [AUDIO OUT]
+[00:00:52.000 --> 00:00:55.000]   [AUDIO OUT]
+[00:00:55.000 --> 00:00:58.000]   [AUDIO OUT]
+[00:00:58.000 --> 00:01:01.000]   [AUDIO OUT]
+[00:01:01.000 --> 00:01:04.000]   [AUDIO OUT]
+[00:01:04.000 --> 00:01:07.000]   [AUDIO OUT]
+[00:01:07.000 --> 00:01:10.000]   [AUDIO OUT]
+[00:01:10.000 --> 00:01:13.000]   [AUDIO OUT]
+[00:01:13.000 --> 00:01:16.000]   [AUDIO OUT]
+[00:01:16.000 --> 00:01:19.000]   [AUDIO OUT]
+[00:01:19.000 --> 00:01:22.000]   [AUDIO OUT]
+[00:01:22.000 --> 00:01:25.000]   [AUDIO OUT]
+[00:01:25.000 --> 00:01:28.000]   [AUDIO OUT]
+[00:01:53.000 --> 00:01:56.000]   [AUDIO OUT]
+[00:01:56.000 --> 00:01:59.000]   [AUDIO OUT]
+[00:01:59.000 --> 00:02:03.000]   [AUDIO OUT]
+[00:02:03.000 --> 00:02:07.000]   [AUDIO OUT]
+[00:02:07.000 --> 00:02:11.000]   [AUDIO OUT]
+[00:02:11.000 --> 00:02:15.000]   [AUDIO OUT]
+[00:02:15.000 --> 00:02:19.000]   [AUDIO OUT]
+[00:02:19.000 --> 00:02:23.000]   [AUDIO OUT]
+[00:02:24.000 --> 00:02:27.000]   [AUDIO OUT]
+[00:02:27.000 --> 00:02:32.000]   [AUDIO OUT]
+[00:02:32.000 --> 00:02:36.000]   [AUDIO OUT]
+[00:02:36.000 --> 00:02:40.000]   [AUDIO OUT]
+[00:02:40.000 --> 00:02:44.000]   [AUDIO OUT]
+[00:02:44.000 --> 00:02:48.000]   [AUDIO OUT]
+[00:02:48.000 --> 00:02:52.000]   [AUDIO OUT]
+[00:02:53.000 --> 00:02:56.000]   [AUDIO OUT]
+[00:02:56.000 --> 00:03:00.000]   [AUDIO OUT]
+[00:03:00.000 --> 00:03:04.000]   [AUDIO OUT]
+[00:03:04.000 --> 00:03:08.000]   [AUDIO OUT]
+[00:03:08.000 --> 00:03:12.000]   [AUDIO OUT]
+[00:03:12.000 --> 00:03:16.000]   [AUDIO OUT]
+[00:03:16.000 --> 00:03:20.000]   [AUDIO OUT]
+[00:03:21.000 --> 00:03:24.000]   [AUDIO OUT]
+[00:03:24.000 --> 00:03:28.000]   [AUDIO OUT]
+[00:03:28.000 --> 00:03:32.000]   [AUDIO OUT]
+[00:03:32.000 --> 00:03:36.000]   [AUDIO OUT]
+[00:03:36.000 --> 00:03:40.000]   [AUDIO OUT]
+[00:03:40.000 --> 00:03:44.000]   [AUDIO OUT]
+[00:03:44.000 --> 00:03:48.000]   [AUDIO OUT]
+[00:03:49.000 --> 00:03:52.000]   [AUDIO OUT]
+[00:03:52.000 --> 00:03:56.000]   [AUDIO OUT]
+[00:03:56.000 --> 00:04:00.000]   [AUDIO OUT]
+[00:04:00.000 --> 00:04:04.000]   [AUDIO OUT]
+[00:04:04.000 --> 00:04:08.000]   [AUDIO OUT]
+[00:04:08.000 --> 00:04:12.000]   [AUDIO OUT]
+[00:04:12.000 --> 00:04:16.000]   [AUDIO OUT]
+[00:04:17.000 --> 00:04:20.000]   [AUDIO OUT]
+[00:04:20.000 --> 00:04:24.000]   [AUDIO OUT]
+[00:04:24.000 --> 00:04:28.000]   [AUDIO OUT]
+[00:04:28.000 --> 00:04:32.000]   [AUDIO OUT]
+[00:04:32.000 --> 00:04:36.000]   [AUDIO OUT]
+[00:04:36.000 --> 00:04:40.000]   [AUDIO OUT]
+[00:04:40.000 --> 00:04:44.000]   [AUDIO OUT]
+[00:04:45.000 --> 00:04:48.000]   [AUDIO OUT]
+[00:04:48.000 --> 00:04:52.000]   [AUDIO OUT]
+[00:04:52.000 --> 00:04:56.000]   [AUDIO OUT]
+[00:04:56.000 --> 00:05:00.000]   [AUDIO OUT]
+[00:05:00.000 --> 00:05:04.000]   [AUDIO OUT]
+[00:05:04.000 --> 00:05:08.000]   [AUDIO OUT]
+[00:05:08.000 --> 00:05:12.000]   [AUDIO OUT]
+[00:05:13.000 --> 00:05:16.000]   [AUDIO OUT]
+[00:05:16.000 --> 00:05:20.000]   [AUDIO OUT]
+[00:05:20.000 --> 00:05:24.000]   [AUDIO OUT]
+[00:05:24.000 --> 00:05:28.000]   [AUDIO OUT]
+[00:05:28.000 --> 00:05:32.000]   [AUDIO OUT]
+[00:05:32.000 --> 00:05:36.000]   [AUDIO OUT]
+[00:05:36.000 --> 00:05:40.000]   [AUDIO OUT]
+[00:05:41.000 --> 00:05:44.000]   [AUDIO OUT]
+[00:05:44.000 --> 00:05:48.000]   [AUDIO OUT]
+[00:05:48.000 --> 00:05:52.000]   [AUDIO OUT]
+[00:05:52.000 --> 00:05:56.000]   [AUDIO OUT]
+[00:05:56.000 --> 00:06:00.000]   [AUDIO OUT]
+[00:06:00.000 --> 00:06:04.000]   [AUDIO OUT]
+[00:06:04.000 --> 00:06:08.000]   [AUDIO OUT]
+[00:06:09.000 --> 00:06:12.000]   [AUDIO OUT]
+[00:06:12.000 --> 00:06:16.000]   [AUDIO OUT]
+[00:06:16.000 --> 00:06:20.000]   [AUDIO OUT]
+[00:06:20.000 --> 00:06:24.000]   [AUDIO OUT]
+[00:06:24.000 --> 00:06:28.000]   [AUDIO OUT]
+[00:06:28.000 --> 00:06:32.000]   [AUDIO OUT]
+[00:06:32.000 --> 00:06:36.000]   [AUDIO OUT]
+[00:06:37.000 --> 00:06:40.000]   [AUDIO OUT]
+[00:06:40.000 --> 00:06:44.000]   [AUDIO OUT]
+[00:06:44.000 --> 00:06:48.000]   [AUDIO OUT]
+[00:06:48.000 --> 00:06:52.000]   [AUDIO OUT]
+[00:06:52.000 --> 00:06:56.000]   [AUDIO OUT]
+[00:06:56.000 --> 00:07:00.000]   [AUDIO OUT]
+[00:07:00.000 --> 00:07:04.000]   [AUDIO OUT]
+[00:07:05.000 --> 00:07:08.000]   [AUDIO OUT]
+[00:07:08.000 --> 00:07:12.000]   [AUDIO OUT]
+[00:07:12.000 --> 00:07:16.000]   [AUDIO OUT]
+[00:07:16.000 --> 00:07:20.000]   [AUDIO OUT]
+[00:07:20.000 --> 00:07:24.000]   [AUDIO OUT]
+[00:07:24.000 --> 00:07:28.000]   [AUDIO OUT]
+[00:07:28.000 --> 00:07:32.000]   [AUDIO OUT]
+[00:07:33.000 --> 00:07:36.000]   [AUDIO OUT]
+[00:07:36.000 --> 00:07:40.000]   [AUDIO OUT]
+[00:07:40.000 --> 00:07:44.000]   [AUDIO OUT]
+[00:07:44.000 --> 00:07:48.000]   [AUDIO OUT]
+[00:07:48.000 --> 00:07:52.000]   [AUDIO OUT]
+[00:07:52.000 --> 00:07:56.000]   [AUDIO OUT]
+[00:07:56.000 --> 00:08:00.000]   [AUDIO OUT]
+[00:08:01.000 --> 00:08:04.000]   [AUDIO OUT]
+[00:08:04.000 --> 00:08:08.000]   [AUDIO OUT]
+[00:08:08.000 --> 00:08:12.000]   [AUDIO OUT]
+[00:08:12.000 --> 00:08:16.000]   [AUDIO OUT]
+[00:08:16.000 --> 00:08:20.000]   [AUDIO OUT]
+[00:08:20.000 --> 00:08:24.000]   [AUDIO OUT]
+[00:08:24.000 --> 00:08:28.000]   [AUDIO OUT]
+[00:08:29.000 --> 00:08:32.000]   [AUDIO OUT]
+[00:08:32.000 --> 00:08:36.000]   [AUDIO OUT]
+[00:08:36.000 --> 00:08:40.000]   [AUDIO OUT]
+[00:08:40.000 --> 00:08:44.000]   [AUDIO OUT]
+[00:08:44.000 --> 00:08:48.000]   [AUDIO OUT]
+[00:08:48.000 --> 00:08:52.000]   [AUDIO OUT]
+[00:08:52.000 --> 00:08:56.000]   [AUDIO OUT]
+[00:08:57.000 --> 00:09:00.000]   [AUDIO OUT]
+[00:09:00.000 --> 00:09:04.000]   [AUDIO OUT]
+[00:09:04.000 --> 00:09:08.000]   [AUDIO OUT]
+[00:09:08.000 --> 00:09:12.000]   [AUDIO OUT]
+[00:09:12.000 --> 00:09:16.000]   [AUDIO OUT]
+[00:09:16.000 --> 00:09:20.000]   [AUDIO OUT]
+[00:09:20.000 --> 00:09:24.000]   [AUDIO OUT]
+[00:09:25.000 --> 00:09:28.000]   [AUDIO OUT]
+[00:09:28.000 --> 00:09:32.000]   [AUDIO OUT]
+[00:09:32.000 --> 00:09:36.000]   [AUDIO OUT]
+[00:09:36.000 --> 00:09:40.000]   [AUDIO OUT]
+[00:09:40.000 --> 00:09:44.000]   [AUDIO OUT]
+[00:09:44.000 --> 00:09:48.000]   [AUDIO OUT]
+[00:09:48.000 --> 00:09:52.000]   [AUDIO OUT]
+[00:09:53.000 --> 00:09:56.000]   [LAUGHTER]
+[00:09:56.000 --> 00:10:00.000]   Now you're all looking at me. Come on. Say something.
+[00:10:00.000 --> 00:10:05.000]   What does he mean by mentioning lions and vipers and...
+[00:10:05.000 --> 00:10:07.000]   Uh-huh?
+[00:10:07.000 --> 00:10:10.000]   Okay. They're being careless?
+[00:10:10.000 --> 00:10:12.000]   Okay.
+[00:10:12.000 --> 00:10:15.000]   Anybody else?
+[00:10:15.000 --> 00:10:21.000]   What are they doing? What is this a description of? Where are they going?
+[00:10:22.000 --> 00:10:25.000]   Is that a reference to the Egyptian gods?
+[00:10:25.000 --> 00:10:30.000]   No.
+[00:10:30.000 --> 00:10:32.000]   [LAUGHTER]
+[00:10:32.000 --> 00:10:37.000]   I was trying to figure out a way to answer that. There's no other in between.
+[00:10:37.000 --> 00:10:39.000]   Is he there? Yes or no? Okay.
+[00:10:39.000 --> 00:10:42.000]   So maybe it's saying that like...
+[00:10:42.000 --> 00:10:45.000]   What it's saying is they're going through a land of trouble in English.
+[00:10:45.000 --> 00:10:48.000]   It's like they're going through so much and they take all their stuff
+[00:10:49.000 --> 00:10:52.000]   and they go through so much trial to go to a place that's not even a prophet.
+[00:10:52.000 --> 00:10:55.000]   That's why you go to UCI.
+[00:10:55.000 --> 00:10:58.000]   Now we're even, okay?
+[00:10:58.000 --> 00:11:00.000]   [LAUGHTER]
+[00:11:00.000 --> 00:11:02.000]   What?
+[00:11:02.000 --> 00:11:04.000]   I went to UCSD.
+[00:11:04.000 --> 00:11:06.000]   [LAUGHTER]
+[00:11:06.000 --> 00:11:09.000]   Come on, UCI. Step it up.
+[00:11:09.000 --> 00:11:11.000]   [LAUGHTER]
+[00:11:11.000 --> 00:11:13.000]   All right.
+[00:11:13.000 --> 00:11:18.000]   So, remember in the beginning he said they're devising all these plans?
+[00:11:18.000 --> 00:11:22.000]   Right? They're devising all these plans but it has nothing to do with me.
+[00:11:22.000 --> 00:11:24.000]   So what are they doing here?
+[00:11:24.000 --> 00:11:29.000]   They're making plans to go all the way to Egypt and that journey to Egypt is not a casual journey.
+[00:11:29.000 --> 00:11:31.000]   They're loaded up with donkeys, right?
+[00:11:31.000 --> 00:11:34.000]   Meaning that this is a long distance you have to travel.
+[00:11:34.000 --> 00:11:36.000]   Remember Egyptians were not neighbors.
+[00:11:36.000 --> 00:11:38.000]   Remember the map?
+[00:11:38.000 --> 00:11:40.000]   The Syrians and the Babylonians are right at the corner
+[00:11:40.000 --> 00:11:43.000]   but the Egyptians you have to travel all the way to the other side.
+[00:11:44.000 --> 00:11:48.000]   So, not only do they have to travel a long distance to get to them,
+[00:11:48.000 --> 00:11:52.000]   that to travel through that you have to go and face lions and vipers
+[00:11:52.000 --> 00:11:54.000]   and go through all this danger to get there.
+[00:11:54.000 --> 00:11:58.000]   In other words, he's saying that you're going through all that trouble
+[00:11:58.000 --> 00:12:01.000]   and facing all that danger thinking that your hope is there
+[00:12:01.000 --> 00:12:03.000]   but you're going to find nothing.
+[00:12:03.000 --> 00:12:05.000]   Right?
+[00:12:05.000 --> 00:12:08.000]   So, basically he's rebuking Israel.
+[00:12:08.000 --> 00:12:13.000]   And when you think about all the comfort and hope that we seek out,
+[00:12:13.000 --> 00:12:16.000]   does money come to us easily?
+[00:12:16.000 --> 00:12:18.000]   It doesn't.
+[00:12:18.000 --> 00:12:20.000]   Right? Does our job security, does that come easily?
+[00:12:20.000 --> 00:12:22.000]   No. It requires a lot of work.
+[00:12:22.000 --> 00:12:24.000]   It requires a lot of planning.
+[00:12:24.000 --> 00:12:26.000]   Right? A lot of risking.
+[00:12:26.000 --> 00:12:30.000]   So, in other words, he's saying it's not that you're not planning,
+[00:12:30.000 --> 00:12:32.000]   it's not that you're not working.
+[00:12:32.000 --> 00:12:37.000]   You're working and planning and devising and pouring so much energy for what purpose?
+[00:12:37.000 --> 00:12:41.000]   At the end of the day, what's waiting for you there?
+[00:12:42.000 --> 00:12:43.000]   Egypt.
+[00:12:43.000 --> 00:12:47.000]   So, why you're laboring, but why labor for something that's going to perish?
+[00:12:47.000 --> 00:12:49.000]   Right?
+[00:12:49.000 --> 00:12:51.000]   So, in essence, that's basically what he's saying.
+[00:12:51.000 --> 00:12:53.000]   It's not because you're not working hard.
+[00:12:53.000 --> 00:12:56.000]   You're working hard, but you're pouring your energy into the wrong thing.
+[00:12:56.000 --> 00:12:58.000]   At the end of the day, Egypt is going to fall.
+[00:12:58.000 --> 00:13:00.000]   Right?
+[00:13:00.000 --> 00:13:05.000]   What are they guilty of? Their lions?
+[00:13:05.000 --> 00:13:07.000]   Right?
+[00:13:11.000 --> 00:13:14.000]   They're willing to go through all these dangers, but did not consider to turn to God.
+[00:13:14.000 --> 00:13:19.000]   And as a result of that, they're going to see shame and humiliation.
+[00:13:19.000 --> 00:13:21.000]   Right?
+[00:13:21.000 --> 00:13:26.000]   And the whole reason why they're doing all of this is to save themselves from shame and humiliation.
+[00:13:26.000 --> 00:13:29.000]   Right? Because they're concerned about the Assyrians.
+[00:13:29.000 --> 00:13:31.000]   Remember what the Assyrians were known for?
+[00:13:31.000 --> 00:13:33.000]   Their brutality.
+[00:13:33.000 --> 00:13:38.000]   Right? They're the ones who are going to publicly humiliate you in front of your family,
+[00:13:38.000 --> 00:13:40.000]   in front of your nation.
+[00:13:40.000 --> 00:13:43.000]   And so, he said, "You went through all of that to prevent that,
+[00:13:43.000 --> 00:13:46.000]   but as a result of unbelief, that's exactly what you're going to get."
+[00:13:46.000 --> 00:13:48.000]   Right?
+[00:13:48.000 --> 00:13:55.000]   And so, neither, Egypt will neither be able to help nor profit Israel, but only shame and disgrace.
+[00:13:55.000 --> 00:13:57.000]   You know?
+[00:13:57.000 --> 00:14:02.000]   And I always think about that, you know, whenever we think about, you know, missionaries who pack their bags
+[00:14:02.000 --> 00:14:06.000]   and they go to, you know, the remotest part of the world to share the Gospel.
+[00:14:07.000 --> 00:14:11.000]   When you get to the remotest part of the world to share the Gospel, do you know who you meet?
+[00:14:11.000 --> 00:14:14.000]   Business people.
+[00:14:14.000 --> 00:14:16.000]   Right?
+[00:14:16.000 --> 00:14:18.000]   Business people.
+[00:14:18.000 --> 00:14:21.000]   Business people will pack up everything, risk everything, and live in strange places
+[00:14:21.000 --> 00:14:24.000]   because they think they're going to make money if they get there first.
+[00:14:24.000 --> 00:14:26.000]   Right?
+[00:14:26.000 --> 00:14:28.000]   So, it's not just the missionaries who are sacrificing everything.
+[00:14:28.000 --> 00:14:30.000]   People in this world sacrifice everything too.
+[00:14:30.000 --> 00:14:34.000]   The only difference is why we're doing it.
+[00:14:34.000 --> 00:14:36.000]   Right?
+[00:14:36.000 --> 00:14:38.000]   So, it's not like, you know, the people who are rich, they risk.
+[00:14:38.000 --> 00:14:40.000]   Right?
+[00:14:40.000 --> 00:14:45.000]   They go through trouble, they go through hardship, but they think the payoff is going to be that they're going to make a lot of money.
+[00:14:45.000 --> 00:14:47.000]   Right?
+[00:14:47.000 --> 00:14:52.000]   So, the difference is, are we putting in that kind of time and effort and sacrificing for the right thing?
+[00:14:52.000 --> 00:14:54.000]   Right?
+[00:14:54.000 --> 00:14:59.000]   It's just always interesting to me, like, you can go to India, you can go to the remotest part of China,
+[00:14:59.000 --> 00:15:04.000]   you always run into another American, and when I run into them, my immediate thought is,
+[00:15:05.000 --> 00:15:07.000]   "Oh, it must be a Christian. Why would they be out here?"
+[00:15:07.000 --> 00:15:10.000]   And then when I go there and talk to them, I find out that they're there for business.
+[00:15:10.000 --> 00:15:12.000]   Right?
+[00:15:12.000 --> 00:15:15.000]   They move their families and their children out there so that they can make more money.
+[00:15:15.000 --> 00:15:17.000]   Right?
+[00:15:17.000 --> 00:15:20.000]   And you say, "You're going to go through all that trouble to get to Egypt,"
+[00:15:20.000 --> 00:15:23.000]   and it keeps saying over and over again that there is no profit.
+[00:15:23.000 --> 00:15:25.000]   You're not going to profit by going there.
+[00:15:25.000 --> 00:15:27.000]   Right?
+[00:15:33.000 --> 00:15:35.000]   What are the qualities of these rebellious people that he says?
+[00:15:35.000 --> 00:15:39.000]   He said, "They are lying children, unwilling to hear instruction from the Lord."
+[00:15:39.000 --> 00:15:41.000]   And he gives specific things that he says.
+[00:15:41.000 --> 00:15:43.000]   So, starting from verse 8.
+[00:15:43.000 --> 00:15:45.000]   Right?
+[00:15:45.000 --> 00:15:50.000]   Verse 9, "They are rebellious people, lying children, children unwilling to hear the instructions of the Lord."
+[00:15:50.000 --> 00:15:53.000]   And he says, "Who say to the seers, 'Do not see.'"
+[00:15:53.000 --> 00:15:59.000]   Why would they say to the seers and the prophets, "Do not see," or "Do not prophesy"?
+[00:16:02.000 --> 00:16:05.000]   Why would they tell the prophets to stop prophesying?
+[00:16:05.000 --> 00:16:10.000]   Right.
+[00:16:10.000 --> 00:16:12.000]   In their heart, they know they're wrong.
+[00:16:12.000 --> 00:16:14.000]   Right?
+[00:16:14.000 --> 00:16:18.000]   In their heart, they know that what God is going to say is going to be against what they're doing.
+[00:16:18.000 --> 00:16:20.000]   So, they don't even want to hear it.
+[00:16:20.000 --> 00:16:23.000]   Which is interesting because they're still going to the temple.
+[00:16:23.000 --> 00:16:25.000]   They're still making sacrifices.
+[00:16:25.000 --> 00:16:27.000]   They just don't want to know the truth.
+[00:16:27.000 --> 00:16:31.000]   They still hold on to religiousness, yet they don't want to know the truth.
+[00:16:31.000 --> 00:16:32.000]   Right?
+[00:16:32.000 --> 00:16:38.000]   I mean, isn't it interesting that you would think that people who are making sacrifices to come to church week after week,
+[00:16:38.000 --> 00:16:42.000]   that at the core, what they would want to hear is the truth?
+[00:16:42.000 --> 00:16:44.000]   Right?
+[00:16:44.000 --> 00:16:48.000]   And yet, hundreds of thousands of people, maybe millions, are flocking to church,
+[00:16:48.000 --> 00:16:52.000]   and yet, they're not interested in the Word of God.
+[00:16:52.000 --> 00:16:54.000]   Right?
+[00:16:54.000 --> 00:16:57.000]   He said, "That's exactly what was happening to the nation of Israel."
+[00:16:58.000 --> 00:17:00.000]   It wasn't because they weren't going to the temples.
+[00:17:00.000 --> 00:17:05.000]   They just chose to listen to the false prophets rather than the true prophets.
+[00:17:05.000 --> 00:17:07.000]   Right?
+[00:17:07.000 --> 00:17:10.000]   So, they tell the prophets not to speak or to see.
+[00:17:10.000 --> 00:17:15.000]   They only want to hear smooth things of illusion.
+[00:17:15.000 --> 00:17:20.000]   They do not want to hear the truth of the Lord.
+[00:17:20.000 --> 00:17:22.000]   What does this passage sound like?
+[00:17:22.000 --> 00:17:24.000]   What warning…
+[00:17:27.000 --> 00:17:28.000]   Right?
+[00:17:28.000 --> 00:17:32.000]   Yeah, Isaiah 6, right?
+[00:17:32.000 --> 00:17:35.000]   These people are going to listen, but they're not going to…
+[00:17:35.000 --> 00:17:37.000]   You know, they're going to hear, but they're not going to listen.
+[00:17:37.000 --> 00:17:39.000]   What other passage?
+[00:17:39.000 --> 00:17:43.000]   Mm-hmm.
+[00:17:43.000 --> 00:17:45.000]   Can you say it for us?
+[00:17:45.000 --> 00:17:55.000]   I'm telling you, they're not going to put up with sound doctrine.
+[00:17:56.000 --> 00:17:57.000]   They're going to gather around themselves, right?
+[00:17:57.000 --> 00:18:08.000]   Mm-hmm. Right.
+[00:18:08.000 --> 00:18:10.000]   Okay.
+[00:18:10.000 --> 00:18:12.000]   So, it says, "At the end time, that's what they're going to be known for."
+[00:18:12.000 --> 00:18:14.000]   It's not that they're not listening to the Word.
+[00:18:14.000 --> 00:18:17.000]   They just have formulated it for themselves.
+[00:18:17.000 --> 00:18:19.000]   Right?
+[00:18:19.000 --> 00:18:21.000]   They're going to want to gather teachers around themselves.
+[00:18:21.000 --> 00:18:23.000]   They're going to tickle their ears.
+[00:18:23.000 --> 00:18:25.000]   In other words, it's like, "Teach me what I want to know."
+[00:18:25.000 --> 00:18:26.000]   Right?
+[00:18:26.000 --> 00:18:27.000]   But I don't want to know the truth.
+[00:18:27.000 --> 00:18:29.000]   Right?
+[00:18:29.000 --> 00:18:31.000]   And so that's exactly how they described the nation of Israel at this time.
+[00:18:31.000 --> 00:18:33.000]   It's not that God didn't send the prophets.
+[00:18:33.000 --> 00:18:35.000]   There were plenty of prophets during this time.
+[00:18:35.000 --> 00:18:37.000]   Right?
+[00:18:37.000 --> 00:18:39.000]   Isaiah, Amos, Hosea.
+[00:18:39.000 --> 00:18:42.000]   What did I miss?
+[00:18:42.000 --> 00:18:44.000]   There's more.
+[00:18:44.000 --> 00:18:46.000]   Right?
+[00:18:46.000 --> 00:18:48.000]   God sent plenty of prophets to talk to them.
+[00:18:48.000 --> 00:18:50.000]   It's just that they didn't want to listen.
+[00:18:50.000 --> 00:18:52.000]   Right?
+[00:18:52.000 --> 00:18:54.000]   And then they cling to the false prophets.
+[00:18:54.000 --> 00:18:55.000]   And what they were saying, "Why would God be angry with you?
+[00:18:55.000 --> 00:18:57.000]   You're the apple of God's eye."
+[00:18:57.000 --> 00:18:59.000]   So they chose to.
+[00:18:59.000 --> 00:19:01.000]   And the reason why they didn't want to hear the truth
+[00:19:01.000 --> 00:19:03.000]   is because they knew they were wrong.
+[00:19:03.000 --> 00:19:05.000]   In their heart.
+[00:19:05.000 --> 00:19:06.000]   Right?
+[00:19:06.000 --> 00:19:09.000]   What will result from their rebelliousness?
+[00:19:09.000 --> 00:19:17.000]   Their very sins, right,
+[00:19:17.000 --> 00:19:22.000]   will eventually become a burden that they can't bear.
+[00:19:23.000 --> 00:19:24.000]   Right?
+[00:19:24.000 --> 00:19:27.000]   The more accustomed to sin we become,
+[00:19:27.000 --> 00:19:30.000]   the more burden that sin will become, eventually.
+[00:19:30.000 --> 00:19:33.000]   Right?
+[00:19:33.000 --> 00:19:40.000]   It's kind of like when your house gets dirty
+[00:19:40.000 --> 00:19:42.000]   and you know you need to clean it, you need to clean it,
+[00:19:42.000 --> 00:19:44.000]   but you keep putting it off.
+[00:19:44.000 --> 00:19:46.000]   The longer you put it off, the harder it becomes to clean it.
+[00:19:46.000 --> 00:19:49.000]   No?
+[00:19:51.000 --> 00:19:52.000]   Basically saying that your sin is eventually going to become a burden.
+[00:19:52.000 --> 00:19:54.000]   Right?
+[00:19:54.000 --> 00:19:57.000]   I hear people say that all the time.
+[00:19:57.000 --> 00:19:59.000]   It's like, "I'm not ready.
+[00:19:59.000 --> 00:20:01.000]   You know, once this period,
+[00:20:01.000 --> 00:20:03.000]   once I have my kid,
+[00:20:03.000 --> 00:20:05.000]   or once I get married,
+[00:20:05.000 --> 00:20:07.000]   once I have this job,
+[00:20:07.000 --> 00:20:09.000]   or once things settle down."
+[00:20:09.000 --> 00:20:11.000]   And eventually you kind of kick it down the road
+[00:20:11.000 --> 00:20:13.000]   thinking like, "Oh, later on."
+[00:20:13.000 --> 00:20:15.000]   But you know, Spirit of God just doesn't work like that.
+[00:20:15.000 --> 00:20:17.000]   You know what I mean?
+[00:20:17.000 --> 00:20:19.000]   Spirit of God just doesn't wait at the door.
+[00:20:20.000 --> 00:20:21.000]   He's not ready.
+[00:20:21.000 --> 00:20:23.000]   You know, He says, "Behold, I stand at the door and knock."
+[00:20:23.000 --> 00:20:25.000]   Right?
+[00:20:25.000 --> 00:20:27.000]   He's not always there knocking 24/7,
+[00:20:27.000 --> 00:20:29.000]   waiting for you to come to the door.
+[00:20:29.000 --> 00:20:31.000]   And then you say, "Okay, now I'm ready."
+[00:20:31.000 --> 00:20:33.000]   Right?
+[00:20:33.000 --> 00:20:35.000]   I see so many people in their 20s
+[00:20:35.000 --> 00:20:37.000]   kicking this responsibility, this conviction down the street.
+[00:20:37.000 --> 00:20:39.000]   And then three, four years later down the line,
+[00:20:39.000 --> 00:20:41.000]   they have no desire.
+[00:20:41.000 --> 00:20:43.000]   They have no desire.
+[00:20:43.000 --> 00:20:45.000]   Not realizing that they've hardened their heart
+[00:20:45.000 --> 00:20:47.000]   to the point where there is no knocking anymore.
+[00:20:47.000 --> 00:20:49.000]   The Holy Spirit isn't softening their hearts.
+[00:20:49.000 --> 00:20:50.000]   Right?
+[00:20:50.000 --> 00:20:52.000]   So it's not like God's grace.
+[00:20:52.000 --> 00:20:54.000]   That's why I keep saying over and over again,
+[00:20:54.000 --> 00:20:56.000]   "Today, if you hear His voice today,
+[00:20:56.000 --> 00:20:58.000]   do not harden your heart."
+[00:20:58.000 --> 00:21:00.000]   Right?
+[00:21:00.000 --> 00:21:02.000]   Because it is not, God is not there
+[00:21:02.000 --> 00:21:04.000]   always softening your heart.
+[00:21:04.000 --> 00:21:06.000]   Now tell me when you're ready.
+[00:21:06.000 --> 00:21:08.000]   Right?
+[00:21:08.000 --> 00:21:10.000]   The devastation caused by their sins
+[00:21:10.000 --> 00:21:12.000]   will be ruthless.
+[00:21:12.000 --> 00:21:14.000]   They will become utterly useless.
+[00:21:14.000 --> 00:21:16.000]   In other words, the very reason why God
+[00:21:16.000 --> 00:21:18.000]   called the nation of Israel
+[00:21:18.000 --> 00:21:19.000]   is that God may bless them
+[00:21:19.000 --> 00:21:21.000]   and that they may bless many others.
+[00:21:21.000 --> 00:21:23.000]   Right?
+[00:21:23.000 --> 00:21:25.000]   So it's kind of like He says in the New Testament,
+[00:21:25.000 --> 00:21:27.000]   "What good is it if the salt loses its flavor?"
+[00:21:27.000 --> 00:21:29.000]   Right?
+[00:21:29.000 --> 00:21:31.000]   Absolutely useless.
+[00:21:31.000 --> 00:21:33.000]   What would salt be good for if it wasn't salty?
+[00:21:33.000 --> 00:21:35.000]   You can't build with it.
+[00:21:35.000 --> 00:21:37.000]   What do you do with it?
+[00:21:37.000 --> 00:21:39.000]   You play, you stand.
+[00:21:39.000 --> 00:21:41.000]   What do you do with salt if it loses its flavor?
+[00:21:41.000 --> 00:21:43.000]   Other than to be thrown onto the ground.
+[00:21:43.000 --> 00:21:45.000]   Okay?
+[00:21:45.000 --> 00:21:46.000]   So,
+[00:21:46.000 --> 00:21:48.000]   they will flee from their enemies.
+[00:21:48.000 --> 00:21:50.000]   Right?
+[00:21:50.000 --> 00:21:52.000]   They're fleeing to Egypt seeking security,
+[00:21:52.000 --> 00:21:54.000]   but instead,
+[00:21:54.000 --> 00:21:56.000]   they're not going to find that.
+[00:21:56.000 --> 00:21:58.000]   Eventually, the very reason why they went over there
+[00:21:58.000 --> 00:22:00.000]   is they're going to end up fleeing anyway.
+[00:22:00.000 --> 00:22:03.000]   And then they said,
+[00:22:03.000 --> 00:22:05.000]   they will fear even small numbers.
+[00:22:05.000 --> 00:22:07.000]   Verse 17.
+[00:22:07.000 --> 00:22:09.000]   Right?
+[00:22:09.000 --> 00:22:11.000]   It says, "A thousand shall flee
+[00:22:11.000 --> 00:22:13.000]   at the threat of one,
+[00:22:14.000 --> 00:22:15.000]   at the threat of five you shall flee
+[00:22:15.000 --> 00:22:17.000]   till you are left
+[00:22:17.000 --> 00:22:19.000]   like a flagstaff on the top of a mountain,
+[00:22:19.000 --> 00:22:22.000]   like a signal on a hill."
+[00:22:22.000 --> 00:22:24.000]   Let me see.
+[00:22:24.000 --> 00:22:27.000]   Can somebody turn to Deuteronomy chapter 32.30?
+[00:22:27.000 --> 00:22:30.000]   Okay.
+[00:22:30.000 --> 00:22:32.000]   And then,
+[00:22:32.000 --> 00:22:38.000]   Mike, can you turn to Joshua 23.10?
+[00:22:38.000 --> 00:22:41.000]   Okay.
+[00:22:41.000 --> 00:22:43.000]   David, can you turn to Judges 7.22?
+[00:22:44.000 --> 00:22:45.000]   And 23.
+[00:22:45.000 --> 00:22:51.000]   And then Lynn.
+[00:22:51.000 --> 00:22:55.000]   Deuteronomy 32.30.
+[00:22:55.000 --> 00:22:57.000]   Okay.
+[00:22:57.000 --> 00:23:02.000]   Can you start with Deuteronomy?
+[00:23:03.000 --> 00:23:04.000]   Okay.
+[00:23:04.000 --> 00:23:06.000]   Next, Joshua.
+[00:23:06.000 --> 00:23:13.000]   Okay.
+[00:23:13.000 --> 00:23:15.000]   Judges.
+[00:23:15.000 --> 00:23:17.000]   When they blew the 300 trumpets,
+[00:23:17.000 --> 00:23:19.000]   the Lord said,
+[00:23:19.000 --> 00:23:21.000]   "Every man swore against his comrade
+[00:23:21.000 --> 00:23:23.000]   and his people,
+[00:23:23.000 --> 00:23:25.000]   and he was a traitor."
+[00:23:25.000 --> 00:23:27.000]   Okay.
+[00:23:27.000 --> 00:23:29.000]   And then,
+[00:23:30.000 --> 00:23:31.000]   "Every man swore against his comrade
+[00:23:31.000 --> 00:23:33.000]   and against all the army.
+[00:23:33.000 --> 00:23:35.000]   The army fled as far as
+[00:23:35.000 --> 00:23:37.000]   Smith, Chittag, Tora, Zerath,
+[00:23:37.000 --> 00:23:39.000]   as far as the border of
+[00:23:39.000 --> 00:23:41.000]   Abel, Jephiel, and Abdullah.
+[00:23:41.000 --> 00:23:43.000]   And the men of Israel were called out
+[00:23:43.000 --> 00:23:45.000]   from Natalia, from Asher,
+[00:23:45.000 --> 00:23:47.000]   and from all Manasseh,
+[00:23:47.000 --> 00:23:49.000]   and they pursued after a medium."
+[00:23:49.000 --> 00:23:51.000]   Okay.
+[00:23:51.000 --> 00:23:53.000]   So, over and over again,
+[00:23:53.000 --> 00:23:55.000]   the Bible illustrates when the Lord is with us,
+[00:23:55.000 --> 00:23:57.000]   a few will chase thousands.
+[00:23:57.000 --> 00:23:59.000]   But when we're not,
+[00:23:59.000 --> 00:24:00.000]   the Lord will scare us.
+[00:24:00.000 --> 00:24:02.000]   What's a perfect example of that?
+[00:24:02.000 --> 00:24:04.000]   Remember when Israel was going into
+[00:24:04.000 --> 00:24:06.000]   the Canaanite land?
+[00:24:06.000 --> 00:24:08.000]   That's like the first lesson
+[00:24:08.000 --> 00:24:10.000]   God taught them.
+[00:24:10.000 --> 00:24:12.000]   (Audience member speaking)
+[00:24:12.000 --> 00:24:14.000]   Mm-hmm.
+[00:24:14.000 --> 00:24:16.000]   (Audience member speaking)
+[00:24:16.000 --> 00:24:18.000]   Right.
+[00:24:18.000 --> 00:24:20.000]   Right.
+[00:24:20.000 --> 00:24:22.000]   So, as soon as they go into
+[00:24:22.000 --> 00:24:24.000]   the Promised Land,
+[00:24:24.000 --> 00:24:26.000]   the very first lesson that they taught
+[00:24:26.000 --> 00:24:28.000]   was this lesson.
+[00:24:28.000 --> 00:24:29.000]   This small, tiny little nation
+[00:24:29.000 --> 00:24:31.000]   who was wandering for 40 years,
+[00:24:31.000 --> 00:24:33.000]   they come in and all they did was obey,
+[00:24:33.000 --> 00:24:35.000]   and then all of a sudden they
+[00:24:35.000 --> 00:24:37.000]   march into this fortified city
+[00:24:37.000 --> 00:24:39.000]   and they conquer it.
+[00:24:39.000 --> 00:24:41.000]   God told them don't touch anything.
+[00:24:41.000 --> 00:24:43.000]   And what was his name?
+[00:24:43.000 --> 00:24:45.000]   Achan, right?
+[00:24:45.000 --> 00:24:47.000]   Achan goes in and he takes some articles,
+[00:24:47.000 --> 00:24:49.000]   and then he keeps it to himself,
+[00:24:49.000 --> 00:24:51.000]   and then they go to fight
+[00:24:51.000 --> 00:24:53.000]   this small little town of Ai.
+[00:24:53.000 --> 00:24:55.000]   And then they go on thinking like,
+[00:24:55.000 --> 00:24:57.000]   "Oh, man, we just conquered Jericho.
+[00:24:57.000 --> 00:24:58.000]   We're going to be a nation."
+[00:24:58.000 --> 00:25:00.000]   Right?
+[00:25:00.000 --> 00:25:02.000]   So that's the very first lesson.
+[00:25:02.000 --> 00:25:04.000]   And so, remember the way God punishes them?
+[00:25:04.000 --> 00:25:06.000]   He gets the whole nation of Israel
+[00:25:06.000 --> 00:25:08.000]   to stand, right?
+[00:25:08.000 --> 00:25:10.000]   All 600,000 of them, maybe more,
+[00:25:10.000 --> 00:25:12.000]   if you include the wives and children, right?
+[00:25:12.000 --> 00:25:14.000]   And then he pulls them out
+[00:25:14.000 --> 00:25:16.000]   by tribe, by clan, by family,
+[00:25:16.000 --> 00:25:18.000]   and then he pulls him out.
+[00:25:18.000 --> 00:25:20.000]   The one guy, right?
+[00:25:20.000 --> 00:25:22.000]   But he's saying because you didn't obey,
+[00:25:22.000 --> 00:25:24.000]   look at the consequences,
+[00:25:24.000 --> 00:25:26.000]   that even a large nation,
+[00:25:26.000 --> 00:25:27.000]   look what you were able to do to Jericho.
+[00:25:27.000 --> 00:25:29.000]   Not because of you,
+[00:25:29.000 --> 00:25:31.000]   but because of me, right?
+[00:25:31.000 --> 00:25:33.000]   So how important is this lesson?
+[00:25:33.000 --> 00:25:35.000]   I mean, isn't this the same lesson
+[00:25:35.000 --> 00:25:37.000]   that God is teaching us over and over?
+[00:25:37.000 --> 00:25:39.000]   I mean, you could think of,
+[00:25:39.000 --> 00:25:41.000]   I could think of two dozen examples
+[00:25:41.000 --> 00:25:43.000]   in the Bible where this exact same lesson
+[00:25:43.000 --> 00:25:45.000]   is over and over again, right?
+[00:25:45.000 --> 00:25:47.000]   When the Holy Spirit is with us,
+[00:25:47.000 --> 00:25:49.000]   like, there's power.
+[00:25:49.000 --> 00:25:51.000]   The Holy Spirit has power.
+[00:25:51.000 --> 00:25:53.000]   But when the Holy Spirit is not with us,
+[00:25:53.000 --> 00:25:55.000]   right, even a few
+[00:25:55.000 --> 00:25:56.000]   can rock our security, right?
+[00:25:56.000 --> 00:25:58.000]   We always think about the disciples,
+[00:25:58.000 --> 00:26:00.000]   how God used these few disciples
+[00:26:00.000 --> 00:26:02.000]   and you're thinking like,
+[00:26:02.000 --> 00:26:04.000]   wow, you know, God can use
+[00:26:04.000 --> 00:26:06.000]   even foolish people.
+[00:26:06.000 --> 00:26:09.000]   Yes, because God is the one working, right?
+[00:26:09.000 --> 00:26:11.000]   It wasn't anything about these two,
+[00:26:11.000 --> 00:26:13.000]   oh, you know, they learn the tricks
+[00:26:13.000 --> 00:26:15.000]   and they learn how to preach
+[00:26:15.000 --> 00:26:17.000]   and they saw all that.
+[00:26:17.000 --> 00:26:19.000]   No, it's despite all of that,
+[00:26:19.000 --> 00:26:21.000]   God still used them in their weakness, right?
+[00:26:21.000 --> 00:26:23.000]   So the same lesson, again,
+[00:26:24.000 --> 00:26:26.000]   this is the lesson of the Bible, right?
+[00:26:26.000 --> 00:26:28.000]   You're strong when you're with the Lord
+[00:26:28.000 --> 00:26:31.000]   and you're weak when you're not, right?
+[00:26:31.000 --> 00:26:36.000]   But even in the midst of all of this judgment
+[00:26:36.000 --> 00:26:38.000]   and all of this fleeing and saying,
+[00:26:38.000 --> 00:26:40.000]   I don't want to listen to your word,
+[00:26:40.000 --> 00:26:42.000]   God is still pleading with the nation of Israel
+[00:26:42.000 --> 00:26:44.000]   that if you would turn,
+[00:26:44.000 --> 00:26:47.000]   you would find rest and be saved, right?
+[00:26:47.000 --> 00:26:49.000]   So basically what that means is,
+[00:26:49.000 --> 00:26:51.000]   as long as you're in sin,
+[00:26:51.000 --> 00:26:53.000]   there is no rest.
+[00:26:53.000 --> 00:26:54.000]   Right?
+[00:26:54.000 --> 00:26:56.000]   Remember we talked about that?
+[00:26:56.000 --> 00:26:58.000]   Sabbath, right?
+[00:26:58.000 --> 00:27:00.000]   The shalom basically is the Sabbath
+[00:27:00.000 --> 00:27:02.000]   that was broken, peace.
+[00:27:02.000 --> 00:27:04.000]   And so when he says this,
+[00:27:04.000 --> 00:27:06.000]   as long as you are in sin,
+[00:27:06.000 --> 00:27:08.000]   there is no Sabbath, right?
+[00:27:08.000 --> 00:27:10.000]   You can't go to church and, you know,
+[00:27:10.000 --> 00:27:12.000]   like, oh, I'm not going to work on Sabbath.
+[00:27:12.000 --> 00:27:14.000]   I'm not going to walk on Sabbath.
+[00:27:14.000 --> 00:27:16.000]   I'm not going to do this on Sabbath.
+[00:27:16.000 --> 00:27:18.000]   That's not what the Sabbath was about.
+[00:27:18.000 --> 00:27:20.000]   The Sabbath was about the rest
+[00:27:20.000 --> 00:27:22.000]   that God took Israel or the world into
+[00:27:22.000 --> 00:27:23.000]   which got broken.
+[00:27:23.000 --> 00:27:25.000]   So he's saying as long as you don't repent,
+[00:27:25.000 --> 00:27:27.000]   as long as you stay in your sin,
+[00:27:27.000 --> 00:27:29.000]   there is no rest, there is no salvation.
+[00:27:29.000 --> 00:27:31.000]   There is no Sabbath.
+[00:27:31.000 --> 00:27:33.000]   Right?
+[00:27:33.000 --> 00:27:35.000]   Quietness and trust will be their strength.
+[00:27:35.000 --> 00:27:38.000]   In other words, it's not your might,
+[00:27:38.000 --> 00:27:40.000]   it's not the soldiers,
+[00:27:40.000 --> 00:27:42.000]   it's not the horses that are pouncing around,
+[00:27:42.000 --> 00:27:44.000]   that in the quietness, right,
+[00:27:44.000 --> 00:27:46.000]   in gentleness,
+[00:27:46.000 --> 00:27:48.000]   even in your gentleness and in meekness,
+[00:27:48.000 --> 00:27:50.000]   you will see power.
+[00:27:51.000 --> 00:28:01.000]   [Pause]
+[00:28:01.000 --> 00:28:03.000]   So he who waits upon the Lord,
+[00:28:03.000 --> 00:28:05.000]   what does it mean to wait?
+[00:28:05.000 --> 00:28:07.000]   Right?
+[00:28:07.000 --> 00:28:09.000]   He waits to be gracious.
+[00:28:09.000 --> 00:28:11.000]   Right?
+[00:28:11.000 --> 00:28:13.000]   In other words, he's not simply saying,
+[00:28:13.000 --> 00:28:15.000]   like, I'm waiting.
+[00:28:15.000 --> 00:28:17.000]   In other words, like, well, let's, you know,
+[00:28:17.000 --> 00:28:19.000]   I'm waiting for Tuesday, it's only Sunday.
+[00:28:20.000 --> 00:28:21.000]   Right?
+[00:28:21.000 --> 00:28:23.000]   So he doesn't mean to sit passively
+[00:28:23.000 --> 00:28:25.000]   and just kind of let time pass.
+[00:28:25.000 --> 00:28:27.000]   To wait means that God is waiting
+[00:28:27.000 --> 00:28:29.000]   for a response from his people,
+[00:28:29.000 --> 00:28:31.000]   right, to repent.
+[00:28:31.000 --> 00:28:33.000]   [Pause]
+[00:28:33.000 --> 00:28:35.000]   So he exalts himself to show mercy,
+[00:28:35.000 --> 00:28:37.000]   verse 18.
+[00:28:37.000 --> 00:28:39.000]   [Pause]
+[00:28:39.000 --> 00:28:41.000]   So therefore the Lord waits to be gracious to you.
+[00:28:41.000 --> 00:28:43.000]   In other words,
+[00:28:43.000 --> 00:28:45.000]   he's giving you opportunity to repent.
+[00:28:45.000 --> 00:28:47.000]   Right?
+[00:28:47.000 --> 00:28:49.000]   And isn't that exactly what he's doing today?
+[00:28:49.000 --> 00:28:50.000]   Right?
+[00:28:50.000 --> 00:28:52.000]   In 1 Peter, say, why is he taking so long to come?
+[00:28:52.000 --> 00:28:54.000]   Right?
+[00:28:54.000 --> 00:28:56.000]   Because he's being gracious.
+[00:28:56.000 --> 00:28:58.000]   He's waiting.
+[00:28:58.000 --> 00:29:00.000]   He's waiting for people to repent and come,
+[00:29:00.000 --> 00:29:02.000]   the Gospel to be spread to the remotest part of the world.
+[00:29:02.000 --> 00:29:04.000]   And therefore he exalts himself
+[00:29:04.000 --> 00:29:06.000]   to show mercy to you.
+[00:29:06.000 --> 00:29:08.000]   Right?
+[00:29:08.000 --> 00:29:10.000]   It is in God's glory that we find mercy.
+[00:29:10.000 --> 00:29:12.000]   To wait for the Lord means
+[00:29:12.000 --> 00:29:14.000]   for his justice to be complete
+[00:29:14.000 --> 00:29:16.000]   and to return to God.
+[00:29:16.000 --> 00:29:18.000]   In other words,
+[00:29:18.000 --> 00:29:19.000]   what God had intended in these judgments
+[00:29:19.000 --> 00:29:21.000]   would have its effect
+[00:29:21.000 --> 00:29:23.000]   and would cause us to come to him.
+[00:29:23.000 --> 00:29:30.000]   [Pause]
+[00:29:30.000 --> 00:29:32.000]   So again, you know, as we've been studying,
+[00:29:32.000 --> 00:29:34.000]   you'll see back and forth, back and forth,
+[00:29:34.000 --> 00:29:36.000]   where God brings judgment,
+[00:29:36.000 --> 00:29:38.000]   and yet he is pleading with his people to return.
+[00:29:38.000 --> 00:29:40.000]   Right?
+[00:29:40.000 --> 00:29:42.000]   In other words, he's disciplining.
+[00:29:42.000 --> 00:29:44.000]   Remember we talked about that last week,
+[00:29:44.000 --> 00:29:46.000]   how he judges the pagan nations
+[00:29:47.000 --> 00:29:48.000]   and Israel is very different.
+[00:29:48.000 --> 00:29:50.000]   Where he says when he judges the pagan nations,
+[00:29:50.000 --> 00:29:52.000]   he crushes them and they're gone.
+[00:29:52.000 --> 00:29:54.000]   But it's the nation of Israel,
+[00:29:54.000 --> 00:29:56.000]   he crushes them, but he never forsakes them.
+[00:29:56.000 --> 00:29:58.000]   Right?
+[00:29:58.000 --> 00:30:00.000]   So we see God again, over and over again,
+[00:30:00.000 --> 00:30:02.000]   pleading with his people.
+[00:30:02.000 --> 00:30:04.000]   Because he's eager to forgive.
+[00:30:04.000 --> 00:30:07.000]   [Pause]
+[00:30:07.000 --> 00:30:09.000]   He says, "When that day comes,
+[00:30:09.000 --> 00:30:11.000]   in that day,
+[00:30:11.000 --> 00:30:13.000]   they will weep no more."
+[00:30:13.000 --> 00:30:15.000]   Again, all of this sounds like
+[00:30:16.000 --> 00:30:17.000]   very familiar to the book of Revelation.
+[00:30:17.000 --> 00:30:21.000]   [Pause]
+[00:30:21.000 --> 00:30:23.000]   "Their eye shall see their teacher
+[00:30:23.000 --> 00:30:25.000]   and hear his guidance."
+[00:30:25.000 --> 00:30:27.000]   What do you think this means?
+[00:30:27.000 --> 00:30:34.000]   [Pause]
+[00:30:34.000 --> 00:30:36.000]   Somebody explain, like,
+[00:30:36.000 --> 00:30:38.000]   in your own words, what does that mean?
+[00:30:39.000 --> 00:30:48.000]   [Pause]
+[00:30:48.000 --> 00:30:50.000]   Is it kind of like one of those,
+[00:30:50.000 --> 00:30:52.000]   like, your way of,
+[00:30:52.000 --> 00:30:54.000]   like looking, kind of,
+[00:30:55.000 --> 00:31:24.000]   [Pause]
+[00:31:24.000 --> 00:31:47.000]   [Pause]
+[00:31:47.000 --> 00:31:49.000]   Yeah, there's going to be a famine
+[00:31:49.000 --> 00:31:51.000]   of the Word of God.
+[00:31:51.000 --> 00:31:53.000]   And so, when he's saying that
+[00:31:53.000 --> 00:31:54.000]   sin is repented of,
+[00:31:54.000 --> 00:31:58.000]   and things are the way it ought to be,
+[00:31:58.000 --> 00:32:00.000]   right, one of the first things that he talks about
+[00:32:00.000 --> 00:32:02.000]   is that you shall see him.
+[00:32:02.000 --> 00:32:04.000]   Right? Isn't that what it says in the Bible?
+[00:32:04.000 --> 00:32:07.000]   That we see him dimly, right?
+[00:32:07.000 --> 00:32:10.000]   But we shall see him as he is.
+[00:32:10.000 --> 00:32:12.000]   In other words,
+[00:32:12.000 --> 00:32:14.000]   sin is what's causing us
+[00:32:14.000 --> 00:32:16.000]   to not to see who God is.
+[00:32:16.000 --> 00:32:18.000]   Because if salvation,
+[00:32:18.000 --> 00:32:20.000]   think about what salvation is.
+[00:32:20.000 --> 00:32:22.000]   Salvation is being able to see
+[00:32:22.000 --> 00:32:23.000]   the glory of the Gospel of Jesus Christ.
+[00:32:23.000 --> 00:32:26.000]   Right? Where you were blind to it,
+[00:32:26.000 --> 00:32:28.000]   and then God convicts you,
+[00:32:28.000 --> 00:32:30.000]   the preaching of the Word of God
+[00:32:30.000 --> 00:32:32.000]   causes you to open your eyes to see the glory,
+[00:32:32.000 --> 00:32:34.000]   and when you see his glory,
+[00:32:34.000 --> 00:32:36.000]   you're changed. Right?
+[00:32:36.000 --> 00:32:39.000]   We're changed. Right?
+[00:32:39.000 --> 00:32:41.000]   Think about a particular event
+[00:32:41.000 --> 00:32:43.000]   that happened in your life,
+[00:32:43.000 --> 00:32:45.000]   or something that you've experienced
+[00:32:45.000 --> 00:32:47.000]   that just utterly changed you.
+[00:32:47.000 --> 00:32:49.000]   Maybe think about, you know,
+[00:32:49.000 --> 00:32:51.000]   the first time you laid eyes on your wife,
+[00:32:51.000 --> 00:32:52.000]   or your child,
+[00:32:52.000 --> 00:32:54.000]   or maybe you visited somewhere
+[00:32:54.000 --> 00:32:56.000]   that was like,
+[00:32:56.000 --> 00:32:58.000]   scenery was so awesome,
+[00:32:58.000 --> 00:33:00.000]   and you got changed. Right?
+[00:33:00.000 --> 00:33:02.000]   We're creatures of worship.
+[00:33:02.000 --> 00:33:04.000]   When we're in the presence
+[00:33:04.000 --> 00:33:06.000]   of something beyond us,
+[00:33:06.000 --> 00:33:08.000]   and the more beyond us it is,
+[00:33:08.000 --> 00:33:10.000]   the greater effect that it has on us.
+[00:33:10.000 --> 00:33:12.000]   Right?
+[00:33:12.000 --> 00:33:14.000]   Am I right?
+[00:33:14.000 --> 00:33:16.000]   The more spectacular
+[00:33:16.000 --> 00:33:18.000]   the thing that we are exposed to,
+[00:33:18.000 --> 00:33:20.000]   the more impact it has on us.
+[00:33:20.000 --> 00:33:21.000]   Right?
+[00:33:21.000 --> 00:33:23.000]   So in other words,
+[00:33:23.000 --> 00:33:25.000]   what he's saying is that
+[00:33:25.000 --> 00:33:27.000]   when our sins are taken away,
+[00:33:27.000 --> 00:33:29.000]   we're able to see
+[00:33:29.000 --> 00:33:31.000]   the magnificence of who he is.
+[00:33:31.000 --> 00:33:33.000]   That's salvation.
+[00:33:33.000 --> 00:33:35.000]   We are changed. Right?
+[00:33:35.000 --> 00:33:37.000]   And part of the reason why
+[00:33:37.000 --> 00:33:39.000]   sanctification is difficult,
+[00:33:39.000 --> 00:33:41.000]   if sanctification is just
+[00:33:41.000 --> 00:33:43.000]   changing your behavior,
+[00:33:43.000 --> 00:33:45.000]   and you're not really being changed
+[00:33:45.000 --> 00:33:47.000]   because you're observing
+[00:33:47.000 --> 00:33:49.000]   the glory of God,
+[00:33:49.000 --> 00:33:50.000]   you don't have motivation.
+[00:33:50.000 --> 00:33:52.000]   Right?
+[00:33:52.000 --> 00:33:54.000]   So he says salvation,
+[00:33:54.000 --> 00:33:56.000]   again, often is described
+[00:33:56.000 --> 00:33:58.000]   as seeing God's glory as he is.
+[00:33:58.000 --> 00:34:00.000]   Right?
+[00:34:00.000 --> 00:34:02.000]   And you just change.
+[00:34:02.000 --> 00:34:04.000]   It's not something like,
+[00:34:04.000 --> 00:34:06.000]   "Oh, I gotta change, I gotta change."
+[00:34:06.000 --> 00:34:08.000]   You're just changed.
+[00:34:08.000 --> 00:34:10.000]   You can't help the change,
+[00:34:10.000 --> 00:34:12.000]   because you're being affected
+[00:34:12.000 --> 00:34:14.000]   by what you're seeing,
+[00:34:14.000 --> 00:34:16.000]   what you're observing.
+[00:34:16.000 --> 00:34:18.000]   And then he says,
+[00:34:18.000 --> 00:34:19.000]   "It's a comparison."
+[00:34:19.000 --> 00:34:24.000]   And I remember,
+[00:34:24.000 --> 00:34:26.000]   I was talking to somebody,
+[00:34:26.000 --> 00:34:28.000]   I think it was last week,
+[00:34:28.000 --> 00:34:30.000]   about this, right?
+[00:34:30.000 --> 00:34:32.000]   I mean, if you really think about it,
+[00:34:32.000 --> 00:34:34.000]   salvation and life and freedom
+[00:34:34.000 --> 00:34:36.000]   that Jesus talks about
+[00:34:36.000 --> 00:34:38.000]   ultimately is
+[00:34:38.000 --> 00:34:40.000]   dying to yourself.
+[00:34:40.000 --> 00:34:42.000]   Right?
+[00:34:42.000 --> 00:34:44.000]   Think about how much of stress
+[00:34:44.000 --> 00:34:46.000]   and relational issue happens
+[00:34:47.000 --> 00:34:48.000]   when you're thinking about yourself.
+[00:34:48.000 --> 00:34:50.000]   Right?
+[00:34:50.000 --> 00:34:52.000]   You're thinking too much
+[00:34:52.000 --> 00:34:54.000]   about yourself.
+[00:34:54.000 --> 00:34:56.000]   If I do this, what will they think?
+[00:34:56.000 --> 00:34:58.000]   If I do this, am I going to be happy?
+[00:34:58.000 --> 00:35:00.000]   Am I going to be okay with this?
+[00:35:00.000 --> 00:35:02.000]   And even when we don't think
+[00:35:02.000 --> 00:35:04.000]   we're not thinking about ourselves,
+[00:35:04.000 --> 00:35:06.000]   even in our humility,
+[00:35:06.000 --> 00:35:08.000]   we're thinking too much
+[00:35:08.000 --> 00:35:10.000]   about ourselves.
+[00:35:10.000 --> 00:35:12.000]   You know what I mean?
+[00:35:12.000 --> 00:35:14.000]   You're thinking too much
+[00:35:14.000 --> 00:35:16.000]   about ourselves,
+[00:35:17.000 --> 00:35:18.000]   something beyond you
+[00:35:18.000 --> 00:35:20.000]   that is so magnificent
+[00:35:20.000 --> 00:35:22.000]   that you forget.
+[00:35:22.000 --> 00:35:24.000]   Right?
+[00:35:24.000 --> 00:35:26.000]   I mean, you know,
+[00:35:26.000 --> 00:35:28.000]   I always revert back to sports
+[00:35:28.000 --> 00:35:30.000]   because that's the greatest illustration.
+[00:35:30.000 --> 00:35:32.000]   Right?
+[00:35:32.000 --> 00:35:34.000]   You see something beyond yourselves
+[00:35:34.000 --> 00:35:36.000]   and people pay money
+[00:35:36.000 --> 00:35:38.000]   and they want to get closer to it
+[00:35:38.000 --> 00:35:40.000]   because it affects them.
+[00:35:40.000 --> 00:35:42.000]   They talk about it for days,
+[00:35:42.000 --> 00:35:44.000]   sometimes years,
+[00:35:45.000 --> 00:35:46.000]   and it's not just a basketball game
+[00:35:46.000 --> 00:35:48.000]   or a baseball game.
+[00:35:48.000 --> 00:35:50.000]   It affects people.
+[00:35:50.000 --> 00:35:52.000]   They talk about it, you know,
+[00:35:52.000 --> 00:35:54.000]   when they're 60s,
+[00:35:54.000 --> 00:35:56.000]   like, "Oh, I was there when I was 19."
+[00:35:56.000 --> 00:35:58.000]   They talk about a silly baseball game
+[00:35:58.000 --> 00:36:00.000]   or a basketball game
+[00:36:00.000 --> 00:36:02.000]   that was so spectacular
+[00:36:02.000 --> 00:36:04.000]   that people talk about it for years.
+[00:36:04.000 --> 00:36:06.000]   Imagine seeing the glory
+[00:36:06.000 --> 00:36:08.000]   of the Gospel of Jesus Christ
+[00:36:08.000 --> 00:36:10.000]   as He intended.
+[00:36:10.000 --> 00:36:12.000]   Like, what saves us from ourselves?
+[00:36:12.000 --> 00:36:14.000]   Something so beyond us
+[00:36:14.000 --> 00:36:15.000]   that we forget.
+[00:36:15.000 --> 00:36:17.000]   Right?
+[00:36:17.000 --> 00:36:19.000]   We forget who we are.
+[00:36:19.000 --> 00:36:21.000]   We forget what we wore.
+[00:36:21.000 --> 00:36:23.000]   We forget who we're sitting next to.
+[00:36:23.000 --> 00:36:25.000]   We forget that we're hungry.
+[00:36:25.000 --> 00:36:27.000]   You know what I mean?
+[00:36:27.000 --> 00:36:29.000]   You ever been in a situation
+[00:36:29.000 --> 00:36:31.000]   where you felt sick
+[00:36:31.000 --> 00:36:33.000]   until something spectacular happened
+[00:36:33.000 --> 00:36:35.000]   and then you just forgot you were sick?
+[00:36:35.000 --> 00:36:37.000]   Does that ever happen to you?
+[00:36:37.000 --> 00:36:39.000]   Yeah.
+[00:36:39.000 --> 00:36:41.000]   I think you guys know what I'm talking about.
+[00:36:41.000 --> 00:36:43.000]   Like, something that magnificent,
+[00:36:43.000 --> 00:36:44.000]   you forget that you don't have any bills.
+[00:36:44.000 --> 00:36:46.000]   You don't have money to pay your bills.
+[00:36:46.000 --> 00:36:48.000]   You forget.
+[00:36:48.000 --> 00:36:50.000]   You just forget.
+[00:36:50.000 --> 00:36:52.000]   Right?
+[00:36:52.000 --> 00:36:54.000]   I mean, I'm going off,
+[00:36:54.000 --> 00:36:56.000]   but in the end,
+[00:36:56.000 --> 00:36:58.000]   summary of salvation is
+[00:36:58.000 --> 00:37:00.000]   beholding His glory.
+[00:37:00.000 --> 00:37:02.000]   Right?
+[00:37:02.000 --> 00:37:04.000]   That's why He says
+[00:37:04.000 --> 00:37:06.000]   when He is glorified, we live.
+[00:37:06.000 --> 00:37:08.000]   When He's magnified, we live.
+[00:37:08.000 --> 00:37:10.000]   Right?
+[00:37:10.000 --> 00:37:12.000]   When we try to magnify ourselves,
+[00:37:12.000 --> 00:37:13.000]   we forget about ourselves.
+[00:37:13.000 --> 00:37:15.000]   Right?
+[00:37:15.000 --> 00:37:19.000]   And then ultimately,
+[00:37:19.000 --> 00:37:21.000]   He will provide for their daily needs.
+[00:37:21.000 --> 00:37:23.000]   Right?
+[00:37:23.000 --> 00:37:25.000]   Something that every human being
+[00:37:25.000 --> 00:37:27.000]   is laboring, planning, working.
+[00:37:27.000 --> 00:37:29.000]   Right?
+[00:37:29.000 --> 00:37:31.000]   Scheming,
+[00:37:31.000 --> 00:37:33.000]   so that we can have a better life.
+[00:37:33.000 --> 00:37:35.000]   We can have all of these things.
+[00:37:35.000 --> 00:37:37.000]   But He says,
+[00:37:37.000 --> 00:37:39.000]   but if you return to the Lord,
+[00:37:39.000 --> 00:37:41.000]   all of these things will happen.
+[00:37:41.000 --> 00:37:42.000]   Your weeping will turn to joy.
+[00:37:42.000 --> 00:37:44.000]   You will see who He is.
+[00:37:44.000 --> 00:37:46.000]   Sanctification happens.
+[00:37:46.000 --> 00:37:48.000]   Your needs are met.
+[00:37:48.000 --> 00:37:50.000]   Right?
+[00:37:50.000 --> 00:37:52.000]   All of it.
+[00:37:52.000 --> 00:37:54.000]   Seek ye first the kingdom of God,
+[00:37:54.000 --> 00:37:56.000]   and all these things shall be added unto you.
+[00:37:56.000 --> 00:37:58.000]   Right?
+[00:37:58.000 --> 00:38:00.000]   Oops, what did I forget?
+[00:38:00.000 --> 00:38:08.000]   Why is depending on Egypt for help so foolish?
+[00:38:08.000 --> 00:38:10.000]   According to this passage,
+[00:38:10.000 --> 00:38:11.000]   according to this passage,
+[00:38:11.000 --> 00:38:13.000]   right?
+[00:38:13.000 --> 00:38:15.000]   I did?
+[00:38:15.000 --> 00:38:17.000]   Huh?
+[00:38:17.000 --> 00:38:19.000]   This one?
+[00:38:19.000 --> 00:38:22.000]   This one you're talking about?
+[00:38:22.000 --> 00:38:24.000]   Oh, you just needed more time to fill it out.
+[00:38:24.000 --> 00:38:26.000]   Okay.
+[00:38:38.000 --> 00:38:39.000]   Because they're just mere men.
+[00:38:39.000 --> 00:38:41.000]   Right?
+[00:38:41.000 --> 00:38:59.000]   You think about it,
+[00:38:59.000 --> 00:39:01.000]   if you're having financial problems,
+[00:39:01.000 --> 00:39:03.000]   you're going to go to somebody who has more money than you
+[00:39:03.000 --> 00:39:05.000]   to help you out.
+[00:39:05.000 --> 00:39:07.000]   You're going to go to the bank.
+[00:39:07.000 --> 00:39:08.000]   You're going to go to the bank.
+[00:39:08.000 --> 00:39:10.000]   You're going to go to the bank.
+[00:39:10.000 --> 00:39:12.000]   You're going to go to the bank.
+[00:39:12.000 --> 00:39:14.000]   You're going to go to the bank.
+[00:39:14.000 --> 00:39:16.000]   You're going to go to the bank.
+[00:39:16.000 --> 00:39:18.000]   You're going to go to the bank.
+[00:39:18.000 --> 00:39:20.000]   You're going to go to the bank.
+[00:39:20.000 --> 00:39:22.000]   You're going to go to the bank.
+[00:39:22.000 --> 00:39:24.000]   You're going to go to the bank.
+[00:39:24.000 --> 00:39:26.000]   You're going to go to the bank.
+[00:39:26.000 --> 00:39:28.000]   You're going to go to the bank.
+[00:39:28.000 --> 00:39:30.000]   You're going to go to the bank.
+[00:39:30.000 --> 00:39:32.000]   You're going to go to the bank.
+[00:39:32.000 --> 00:39:34.000]   You're going to go to the bank.
+[00:39:34.000 --> 00:39:36.000]   You're going to go to the bank.
+[00:39:36.000 --> 00:39:37.000]   And ultimately, because they're men,
+[00:39:37.000 --> 00:39:39.000]   when the Lord judges, they will fall.
+[00:39:39.000 --> 00:39:47.000]   Who were the Egyptians in history?
+[00:39:47.000 --> 00:39:49.000]   I mean, you really think about it?
+[00:39:49.000 --> 00:39:51.000]   By this time, they probably already forgot.
+[00:39:51.000 --> 00:39:53.000]   They were the oppressors at one point, right?
+[00:39:53.000 --> 00:39:56.000]   They were the ones who were oppressing them.
+[00:39:56.000 --> 00:40:01.000]   And they forgot it was the Lord who delivered them from Egypt.
+[00:40:01.000 --> 00:40:03.000]   So why would you go back?
+[00:40:03.000 --> 00:40:05.000]   Right?
+[00:40:05.000 --> 00:40:06.000]   Doesn't the Bible say that?
+[00:40:06.000 --> 00:40:09.000]   The one who repents and returns, what is he like?
+[00:40:09.000 --> 00:40:11.000]   It's like a dog returning to its vomit.
+[00:40:11.000 --> 00:40:13.000]   Right?
+[00:40:13.000 --> 00:40:15.000]   God saves us from an empty way of life.
+[00:40:15.000 --> 00:40:18.000]   And then, instead of praising and worshipping him,
+[00:40:18.000 --> 00:40:22.000]   you keep longing for the empty things that he saved us from.
+[00:40:22.000 --> 00:40:24.000]   Right?
+[00:40:24.000 --> 00:40:30.000]   Went through all that drama to deliver them from Egypt,
+[00:40:30.000 --> 00:40:33.000]   and then now they're going through all that drama to go back to Egypt.
+[00:40:33.000 --> 00:40:44.000]   In that day, everyone will cast away his idols of silver and of gold.
+[00:40:44.000 --> 00:40:56.000]   Even in the Lord's greatest judgment, he pleads for his people.
+[00:40:56.000 --> 00:40:59.000]   So over and over again, even as he is pronouncing judgment,
+[00:40:59.000 --> 00:41:02.000]   he's pleading with his people to return.
+[00:41:03.000 --> 00:41:04.000]   Right?
+[00:41:04.000 --> 00:41:06.000]   Too fast?
+[00:41:06.000 --> 00:41:08.000]   Okay, I hear groaning.
+[00:41:08.000 --> 00:41:10.000]   I don't know what that is.
+[00:41:10.000 --> 00:41:12.000]   Right?
+[00:41:12.000 --> 00:41:17.000]   So when he says that the Syrians will fall by the sword, not by man,
+[00:41:17.000 --> 00:41:20.000]   in other words, when you see this happening,
+[00:41:20.000 --> 00:41:23.000]   it wasn't the might of the Babylonians.
+[00:41:23.000 --> 00:41:25.000]   Right?
+[00:41:25.000 --> 00:41:28.000]   It wasn't the might of the Babylonians.
+[00:41:28.000 --> 00:41:31.000]   It wasn't the might of the Babylonians.
+[00:41:31.000 --> 00:41:32.000]   Right?
+[00:41:32.000 --> 00:41:36.000]   Obviously Assyria falls because Babylonians come into power.
+[00:41:36.000 --> 00:41:40.000]   But when they fall, you'll know that it wasn't men.
+[00:41:40.000 --> 00:41:42.000]   It was God.
+[00:41:42.000 --> 00:41:43.000]   Right?
+[00:41:58.000 --> 00:42:01.000]   As terrifying as the Assyrians were known to be,
+[00:42:01.000 --> 00:42:06.000]   when God's judgment comes, that even their most mightiest of men are going to flee.
+[00:42:06.000 --> 00:42:19.000]   I remember when I was a little kid in Korea,
+[00:42:19.000 --> 00:42:22.000]   there was this kid in our neighborhood who was a bully.
+[00:42:23.000 --> 00:42:28.000]   Nobody like my age, like when I was like, I was like five or six years old,
+[00:42:28.000 --> 00:42:33.000]   we could not roam around our streets in peace because there was one bully.
+[00:42:33.000 --> 00:42:37.000]   But I had an older brother who was three years older,
+[00:42:37.000 --> 00:42:40.000]   and so everybody was scared of my brother.
+[00:42:40.000 --> 00:42:44.000]   People are still scared of him today, but everybody was scared of my brother.
+[00:42:44.000 --> 00:42:50.000]   So because of him, I was the only one in that neighborhood who was able to do whatever I wanted.
+[00:42:51.000 --> 00:42:53.000]   Because everybody knew I had an older brother.
+[00:42:53.000 --> 00:42:56.000]   Right? He didn't play with the little kids. Right?
+[00:42:56.000 --> 00:42:59.000]   But because of him, I lived free.
+[00:42:59.000 --> 00:43:01.000]   Right?
+[00:43:01.000 --> 00:43:03.000]   Kind of made me think about this.
+[00:43:03.000 --> 00:43:07.000]   Obviously on a larger scale, but God is basically saying like,
+[00:43:07.000 --> 00:43:09.000]   I'm your protector. Why would you worry about them?
+[00:43:09.000 --> 00:43:14.000]   Why are you going from one bully to the next bully to the next bully
+[00:43:14.000 --> 00:43:16.000]   when you have God behind you? Right?
+[00:43:16.000 --> 00:43:18.000]   And so God keeps playing.
+[00:43:19.000 --> 00:43:24.000]   You're running from Syria to us Syria to the Babylonians to the Egyptians over and over again.
+[00:43:24.000 --> 00:43:28.000]   And then why would you not return to me? I can crush these people.
+[00:43:28.000 --> 00:43:30.000]   I made these people. Right?
+[00:43:30.000 --> 00:43:34.000]   If I show up, even their mightiest of soldiers are going to run in terror.
+[00:43:34.000 --> 00:43:37.000]   Why would you keep going to them? Right?
+[00:43:37.000 --> 00:43:41.000]   So what God is pleading with the nation of Israel is take your eyes off of them and look at me.
+[00:43:41.000 --> 00:43:43.000]   Right? Don't forget who I am.
+[00:43:43.000 --> 00:43:48.000]   Because the moment you lose faith in me, you're going to be surrounded by bullies.
+[00:43:48.000 --> 00:43:49.000]   Right?
+[00:43:49.000 --> 00:43:54.000]   And that's why, again, over and over again, all of this, like,
+[00:43:54.000 --> 00:43:58.000]   again, what I want to encourage you guys to do is we study the book of Isaiah and any other book.
+[00:43:58.000 --> 00:44:02.000]   You know, I know Isaiah is not the easiest book to study because
+[00:44:02.000 --> 00:44:07.000]   the theme kind of sometimes seems like it jumps around and it's hard to figure out the historical context
+[00:44:07.000 --> 00:44:11.000]   and there's not a clear continuity to some of the things that he's saying.
+[00:44:11.000 --> 00:44:15.000]   But don't ever forget what the purpose of the Bible is.
+[00:44:15.000 --> 00:44:17.000]   Right?
+[00:44:17.000 --> 00:44:18.000]   What is it?
+[00:44:18.000 --> 00:44:22.000]   The Bible is a revelation of God in the end.
+[00:44:22.000 --> 00:44:24.000]   This is who he is. Right?
+[00:44:24.000 --> 00:44:27.000]   He said his very breath is in the Word of God.
+[00:44:27.000 --> 00:44:31.000]   So all of these things, even if you don't understand all the historical context
+[00:44:31.000 --> 00:44:36.000]   and how the prophecies are going to be fulfilled, in the end, this is about him.
+[00:44:36.000 --> 00:44:38.000]   Right?
+[00:44:38.000 --> 00:44:42.000]   So if there's anything that you're able to get from Isaiah, you clearly see the heart of God.
+[00:44:43.000 --> 00:44:46.000]   Because in the end, that's the ultimate purpose of why we studied the Bible.
+[00:44:46.000 --> 00:44:48.000]   Right?
+[00:44:48.000 --> 00:44:50.000]   So that we can understand and know the heart of God.
+[00:44:50.000 --> 00:44:54.000]   And you can clearly see, right, how much he cares for his people,
+[00:44:54.000 --> 00:45:00.000]   how much he hates sin, that, but even in the context of judgment,
+[00:45:00.000 --> 00:45:04.000]   he's eager to be gracious, eager to forgive.
+[00:45:04.000 --> 00:45:06.000]   Right?
+[00:45:06.000 --> 00:45:08.000]   So again, I want to leave with this encouragement.
+[00:45:08.000 --> 00:45:12.000]   You know, sometimes we can repeat the same thing over and over again.
+[00:45:12.000 --> 00:45:16.000]   We can repeat sins and we can fall short so often
+[00:45:16.000 --> 00:45:21.000]   that we feel like, you know, like we've exhausted his grace,
+[00:45:21.000 --> 00:45:26.000]   that I can't possibly come to him again after what I've done, after what I did.
+[00:45:26.000 --> 00:45:28.000]   That is not possible.
+[00:45:28.000 --> 00:45:30.000]   Right?
+[00:45:30.000 --> 00:45:34.000]   Like our God, if we are his children,
+[00:45:34.000 --> 00:45:37.000]   you know, even in the context, when he says, "Forgive seven times seven,"
+[00:45:37.000 --> 00:45:39.000]   as long as your repentance is genuine,
+[00:45:40.000 --> 00:45:42.000]   it's not like, "Okay, I'm going to ask for forgiveness,
+[00:45:42.000 --> 00:45:44.000]   he's going to forgive and I'm going to go back and sin."
+[00:45:44.000 --> 00:45:46.000]   That's not repentance.
+[00:45:46.000 --> 00:45:48.000]   Right?
+[00:45:48.000 --> 00:45:50.000]   That's not repentance.
+[00:45:50.000 --> 00:45:52.000]   As long as repentance is genuine, you're genuinely broken over your sin,
+[00:45:52.000 --> 00:45:55.000]   genuinely desire for forgiveness, God forgives.
+[00:45:55.000 --> 00:45:57.000]   He's eager to forgive.
+[00:45:57.000 --> 00:45:59.000]   Right?
+[00:45:59.000 --> 00:46:01.000]   I'm not just saying that to tickle your ears.
+[00:46:01.000 --> 00:46:03.000]   That's the God that we see in the Bible.
+[00:46:03.000 --> 00:46:05.000]   Right?
+[00:46:05.000 --> 00:46:07.000]   So any thought or anything that causes you to think
+[00:46:08.000 --> 00:46:10.000]   that you cannot possibly come to God in your sins,
+[00:46:10.000 --> 00:46:12.000]   that's not from God.
+[00:46:12.000 --> 00:46:14.000]   That's when you need God the most.
+[00:46:14.000 --> 00:46:16.000]   Right?
+[00:46:16.000 --> 00:46:18.000]   So not to add sin upon sin.
+[00:46:18.000 --> 00:46:20.000]   Right?
+[00:46:20.000 --> 00:46:22.000]   Sometimes we let sin be the cause of more sin.
+[00:46:22.000 --> 00:46:24.000]   Because we sin, we can't go to God,
+[00:46:24.000 --> 00:46:26.000]   and then that causes us to spiral out of control.
+[00:46:26.000 --> 00:46:29.000]   The time that we need his grace the most is when we are in sin.
+[00:46:29.000 --> 00:46:31.000]   That's why he started this passage by saying,
+[00:46:31.000 --> 00:46:33.000]   "Don't add sin upon sin."
+[00:46:33.000 --> 00:46:35.000]   When you sin, turn to God.
+[00:46:35.000 --> 00:46:37.000]   Right?
+[00:46:37.000 --> 00:46:39.000]   All right. Take some time.
+
