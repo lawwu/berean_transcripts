@@ -6,8 +6,6 @@ import pandas as pd
 from yt_dlp import YoutubeDL
 from datetime import datetime
 
-# TODO modify paths to transcript_dir
-
 from berean_transcripts.utils import (
     transcripts_dir,
     data_dir,
@@ -121,13 +119,27 @@ def fetch_video_details(video_id):
         return video_details_cache[video_id]
 
     ydl_opts = {"quiet": True}
-    with YoutubeDL(ydl_opts) as ydl:
-        info_dict = ydl.extract_info(
-            f"https://www.youtube.com/watch?v={video_id}", download=False
-        )
-        video_details_cache[video_id] = info_dict
-        save_cache()
-        return info_dict
+    # Check for YouTube-like pattern (11 alphanumeric characters)
+    youtube_match = re.search(r"([a-zA-Z0-9_-]{11})", video_id)
+    if youtube_match:
+        with YoutubeDL(ydl_opts) as ydl:
+            info_dict = ydl.extract_info(
+                f"https://www.youtube.com/watch?v={video_id}", download=False
+            )
+            video_details_cache[video_id] = info_dict
+            save_cache()
+            return info_dict
+
+    # Check for Vimeo URL pattern
+    vimeo_match = re.search(r"(\d+)", video_id)
+    if vimeo_match:
+        with YoutubeDL(ydl_opts) as ydl:
+            info_dict = ydl.extract_info(
+                f"https://www.vimeo.com/{video_id}", download=False
+            )
+            video_details_cache[video_id] = info_dict
+            save_cache()
+            return info_dict
 
 
 def generate_index_page(video_ids):
@@ -137,6 +149,7 @@ def generate_index_page(video_ids):
         f.write(
             '<html><head><title>Berean Community Church Transcripts</title></head><body><h1>Berean Community Church Transcripts</h1><table style="width:100%; border-collapse: collapse;">'
         )
+        f.write("These transcripts are automatically generated using Whisper.")
         f.write(
             "<tr><th>Date</th><th>Title</th><th>Duration</th><th>Whisper Transcript</th><th>Transcript Only</th></tr>"
         )  # Added a new table header for "Transcript Only"
@@ -179,12 +192,20 @@ def generate_index_page(video_ids):
 
 def generate_html(video_id):
     logging.info(f"Generating HTML for video ID {video_id}")
+    youtube_match = re.search(r"([a-zA-Z0-9_-]{11})", video_id)
 
     details = fetch_video_details(video_id)
     video_url = details["webpage_url"]
-    thumbnail_url = details["thumbnail"]
+    if youtube_match:
+        thumbnail_url = details["thumbnail"]
+    # else is just vimeo
+    else:
+        thumbnail_url = details["thumbnails"][0]["url"]
     title = details["title"]
-    chapters = details.get("chapters", [])
+    if youtube_match:
+        chapters = details.get("chapters", [])
+    else:
+        chapters = None
     input_file = transcripts_dir / f"{video_id}.txt"
     output_file = html_berean_dir / f"{video_id}.html"
     transcript_link = f"transcript_{video_id}.html"
@@ -223,6 +244,7 @@ def generate_html(video_id):
         f.write(
             '<div style="max-width: 800px;">'
         )  # Limit the width for readability
+        # TODO modify this to include logic to handle vimeo urls
         for line in lines:
             if "-->" in line:
                 timestamp, content = re.split(r"]\s+", line, maxsplit=1)
@@ -230,11 +252,19 @@ def generate_html(video_id):
                 start_timestamp, end_timestamp = timestamp.split(" --> ")
                 total_seconds = timestamp_to_seconds(start_timestamp[:-4])
                 f.write('<div class="c">')
-                f.write(
-                    '<span class="s"><a href="{}&t={}">{}</a></span> | '.format(
-                        video_url, total_seconds, start_timestamp
+                if youtube_match:
+                    f.write(
+                        '<span class="s"><a href="{}&t={}">{}</a></span> | '.format(
+                            video_url, total_seconds, start_timestamp
+                        )
                     )
-                )
+                else:
+                    f.write(
+                        # vimeo url looks like: https://vimeo.com/24690039#t=90s
+                        '<span class="s"><a href="{}#t={}s">{}</a></span> | '.format(
+                            video_url, total_seconds, start_timestamp
+                        )
+                    )
                 f.write(
                     '<span class="t">{}</span></div>'.format(content.strip())
                 )
@@ -283,13 +313,22 @@ if __name__ == "__main__":
 
     logging.info(f"Found {len(video_ids)} video IDs")
 
-    # for index, row in df_videos.iterrows():
+    # generate html for youtube videos
     for id in video_ids:
         # Generate individual transcript pages
         generate_html(id)
         # Generate individual transcript-only pages
         generate_transcript_page(id)
 
-    # Generate index page
-    generate_index_page(video_ids)
+    # generate html for vimeo videos
+    with open(data_dir / "bcc_vimeo_ids_done.txt", "r") as f:
+        vimeo_ids = [line.strip() for line in f.readlines()]
+    for id in vimeo_ids:
+        # Generate individual transcript pages
+        generate_html(id)
+        # Generate individual transcript-only pages
+        generate_transcript_page(id)
+
+    logging.info("Generate index page")
+    generate_index_page(video_ids + vimeo_ids)
     logging.info("All tasks completed")
