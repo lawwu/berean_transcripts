@@ -345,9 +345,8 @@ if __name__ == "__main__":
 
     all_ids = video_ids + vimeo_ids
     # exclude videos in exclude list
-    if id in exclude_list:
-        all_ids.remove(id)
+    filtered_ids = [id for id in all_ids if id not in exclude_list]
 
     logging.info("Generate index page")
-    generate_index_page(all_ids)
+    generate_index_page(filtered_ids)
     logging.info("All tasks completed")
