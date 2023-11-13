@@ -329,6 +329,25 @@ if __name__ == "__main__":
         # Generate individual transcript-only pages
         generate_transcript_page(id)
 
+    exclude_list = [
+        # 2023 Galatians Bible Study
+        "pbkvqQVDHGQ",
+        "7G8wKRmBaiA",
+        "JDI6skt93Ow",
+        "GTKTFjQReno",
+        "TJqmuLfW3qE",
+        "EscJyBR04_8",
+        "Qrb7KnWcpos",
+        "gfMnwnb8Jh8",
+        # test videos
+        "44005314",
+    ]
+
+    all_ids = video_ids + vimeo_ids
+    # exclude videos in exclude list
+    if id in exclude_list:
+        all_ids.remove(id)
+
     logging.info("Generate index page")
-    generate_index_page(video_ids + vimeo_ids)
+    generate_index_page(all_ids)
     logging.info("All tasks completed")
