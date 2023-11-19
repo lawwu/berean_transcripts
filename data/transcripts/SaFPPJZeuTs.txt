@@ -68,3 +68,410 @@
 [00:03:52.000 --> 00:03:55.500]   [MUSIC - "THE BEST OF MY WORLD"]
 [00:03:55.500 --> 00:03:59.000]   [MUSIC - "THE BEST OF MY WORLD"]
 [00:03:59.000 --> 00:04:02.500]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:04:02.500 --> 00:04:06.000]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:04:06.000 --> 00:04:09.500]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:04:09.500 --> 00:04:13.000]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:04:13.000 --> 00:04:16.500]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:04:16.500 --> 00:04:20.000]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:04:20.000 --> 00:04:23.500]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:04:23.500 --> 00:04:27.000]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:04:27.000 --> 00:04:30.500]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:04:30.500 --> 00:04:34.000]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:04:34.000 --> 00:04:37.500]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:04:37.500 --> 00:04:41.000]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:04:41.000 --> 00:04:44.500]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:04:44.500 --> 00:04:48.000]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:04:48.000 --> 00:04:51.500]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:04:51.500 --> 00:04:55.000]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:04:55.000 --> 00:04:58.500]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:04:58.500 --> 00:05:02.000]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:05:02.000 --> 00:05:05.500]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:05:05.500 --> 00:05:09.000]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:05:09.000 --> 00:05:12.500]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:05:12.500 --> 00:05:16.000]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:05:16.000 --> 00:05:19.500]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:05:19.500 --> 00:05:23.000]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:05:23.000 --> 00:05:26.500]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:05:26.500 --> 00:05:30.000]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:05:30.000 --> 00:05:33.500]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:05:33.500 --> 00:05:37.000]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:05:37.000 --> 00:05:40.500]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:05:40.500 --> 00:05:44.000]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:05:44.000 --> 00:05:47.500]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:05:47.500 --> 00:05:51.000]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:05:51.000 --> 00:05:54.500]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:05:54.500 --> 00:05:58.000]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:05:58.000 --> 00:06:01.500]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:06:01.500 --> 00:06:05.000]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:06:05.000 --> 00:06:08.500]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:06:08.500 --> 00:06:12.000]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:06:12.000 --> 00:06:15.500]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:06:15.500 --> 00:06:19.000]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:06:19.000 --> 00:06:22.500]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:06:22.500 --> 00:06:26.000]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:06:26.000 --> 00:06:29.500]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:06:29.500 --> 00:06:33.000]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:06:33.000 --> 00:06:36.500]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:06:36.500 --> 00:06:40.000]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:06:40.000 --> 00:06:43.500]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:06:43.500 --> 00:06:47.000]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:06:47.000 --> 00:06:50.500]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:06:50.500 --> 00:06:54.000]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:06:54.000 --> 00:06:57.500]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:06:57.500 --> 00:07:01.000]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:07:01.000 --> 00:07:04.500]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:07:04.500 --> 00:07:08.000]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:07:08.000 --> 00:07:11.500]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:07:11.500 --> 00:07:15.000]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:07:15.000 --> 00:07:18.500]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:07:18.500 --> 00:07:22.000]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:07:22.000 --> 00:07:25.500]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:07:25.500 --> 00:07:29.000]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:07:29.000 --> 00:07:32.500]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:07:32.500 --> 00:07:36.000]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:07:36.000 --> 00:07:39.500]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:07:39.500 --> 00:07:43.000]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:07:43.000 --> 00:07:46.500]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:07:46.500 --> 00:07:50.000]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:07:50.000 --> 00:07:53.500]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:07:53.500 --> 00:07:57.000]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:07:57.000 --> 00:08:00.500]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:08:00.500 --> 00:08:04.000]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:08:04.000 --> 00:08:07.500]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:08:07.500 --> 00:08:11.000]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:08:11.000 --> 00:08:14.500]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:08:14.500 --> 00:08:18.000]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:08:18.000 --> 00:08:21.500]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:08:21.500 --> 00:08:25.000]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:08:25.000 --> 00:08:28.500]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:08:28.500 --> 00:08:32.000]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:08:32.000 --> 00:08:35.500]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:08:35.500 --> 00:08:39.000]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:08:39.000 --> 00:08:42.500]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:08:42.500 --> 00:08:46.000]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:08:46.000 --> 00:08:47.500]   [MUSIC - "THE BEST OF MY WORLD"]
+[00:08:47.500 --> 00:08:51.000]   Father, you are worthy of praise and worthy of all glory
+[00:08:51.000 --> 00:08:52.000]   and honor.
+[00:08:52.000 --> 00:08:58.000]   And Lord, we sing and we proclaim that we depend on you.
+[00:08:58.000 --> 00:09:01.000]   We need thee every hour.
+[00:09:01.000 --> 00:09:06.000]   Lord, we need your grace and your mercy every hour.
+[00:09:06.000 --> 00:09:09.500]   And Lord, for all who confess and call upon your name,
+[00:09:09.500 --> 00:09:13.500]   we know that you give and you show mercy
+[00:09:13.500 --> 00:09:16.000]   and you give and you show grace.
+[00:09:16.000 --> 00:09:20.000]   And Lord, we know in Christ we are truly free from the curse
+[00:09:20.000 --> 00:09:29.000]   of sin, from anything that binds us to hell.
+[00:09:29.000 --> 00:09:30.500]   We are free in Christ.
+[00:09:30.500 --> 00:09:31.500]   So we thank you.
+[00:09:31.500 --> 00:09:32.500]   We worship you.
+[00:09:32.500 --> 00:09:34.000]   We lift up your name.
+[00:09:34.000 --> 00:09:37.500]   We pray that the word that goes forth and studied today
+[00:09:37.500 --> 00:09:41.000]   may it be rooted in our hearts and may it
+[00:09:41.000 --> 00:09:44.500]   translate to giving you worship in spirit
+[00:09:44.500 --> 00:09:48.000]   and in truth in our actions and in our thoughts.
+[00:09:48.000 --> 00:09:49.500]   We thank you in Christ's name.
+[00:09:49.500 --> 00:09:50.000]   Amen.
+[00:09:50.000 --> 00:09:56.000]   Well, good evening.
+[00:10:03.000 --> 00:10:08.500]   Before we get into the text, just a word of caution
+[00:10:08.500 --> 00:10:12.500]   for tonight, because we are actually
+[00:10:12.500 --> 00:10:17.500]   going into a passage that has so much to do with our testimony
+[00:10:17.500 --> 00:10:21.000]   and our identity.
+[00:10:21.000 --> 00:10:22.500]   I feel like tonight actually should
+[00:10:22.500 --> 00:10:25.500]   feel like Good Friday service, right?
+[00:10:25.500 --> 00:10:29.000]   Where on Good Friday in the Passion Week,
+[00:10:29.000 --> 00:10:33.500]   when we have it at church, everyone's coming very somber,
+[00:10:33.500 --> 00:10:39.000]   very eager to reflect on the death of our Lord
+[00:10:39.000 --> 00:10:41.000]   and for our sins.
+[00:10:41.000 --> 00:10:47.500]   And Easter hasn't come yet, but we have that sobriety
+[00:10:47.500 --> 00:10:49.500]   on a Good Friday.
+[00:10:49.500 --> 00:10:54.500]   And so as we look at this text, just the weightiness
+[00:10:54.500 --> 00:10:56.500]   should feel like that.
+[00:10:56.500 --> 00:11:00.000]   So my word of caution is that we don't treat this just
+[00:11:00.000 --> 00:11:02.000]   like an academic exercise tonight,
+[00:11:02.000 --> 00:11:05.000]   as much as there are Old Testament passages
+[00:11:05.000 --> 00:11:06.500]   that we need to look at.
+[00:11:06.500 --> 00:11:07.500]   It's very fascinating.
+[00:11:07.500 --> 00:11:11.000]   You can end up in rabbit holes of what's
+[00:11:11.000 --> 00:11:14.000]   being shared in the law and the prophets and stuff like that.
+[00:11:14.000 --> 00:11:17.500]   But at the end of the day, if you're a Christian,
+[00:11:17.500 --> 00:11:23.500]   we're looking at the cost and the price of our redemption.
+[00:11:23.500 --> 00:11:27.000]   And so my hope is that each and every one of us,
+[00:11:27.000 --> 00:11:31.500]   this really stirs within us greater affection,
+[00:11:31.500 --> 00:11:33.500]   that this isn't just like, oh, Bible study,
+[00:11:33.500 --> 00:11:35.000]   oh, when is it going to be done?
+[00:11:35.000 --> 00:11:38.000]   But we're looking at the God of the universe
+[00:11:38.000 --> 00:11:41.000]   dying on our behalf.
+[00:11:41.000 --> 00:11:45.500]   And so I want to read this passage and then pray for us.
+[00:11:45.500 --> 00:11:48.500]   And I'm going to take it back a little bit to verse 6.
+[00:11:48.500 --> 00:11:53.000]   "Even so, Abraham believed God, and it was reckoned to him
+[00:11:53.000 --> 00:11:55.000]   as righteousness.
+[00:11:55.000 --> 00:11:58.000]   Therefore, be sure that it is those who are of faith who
+[00:11:58.000 --> 00:12:00.000]   are sons of Abraham.
+[00:12:00.000 --> 00:12:03.000]   The scripture, foreseeing that God would justify the Gentiles
+[00:12:03.000 --> 00:12:07.000]   by faith, preached the gospel beforehand to Abraham,
+[00:12:07.000 --> 00:12:11.500]   saying, all the nations will be blessed in you.
+[00:12:11.500 --> 00:12:14.000]   So then, those who are of faith are blessed
+[00:12:14.000 --> 00:12:17.000]   with Abraham, the believer.
+[00:12:17.000 --> 00:12:21.000]   For as many as are of the works of the law are under a curse,
+[00:12:21.000 --> 00:12:25.000]   for it is written, cursed is everyone who does not abide
+[00:12:25.000 --> 00:12:29.500]   by all things written in the book of the law to perform them.
+[00:12:29.500 --> 00:12:33.500]   Now, that no one is justified by law before God is evident,
+[00:12:33.500 --> 00:12:36.500]   for the righteous man shall live by faith.
+[00:12:36.500 --> 00:12:38.500]   However, the law is not of faith.
+[00:12:38.500 --> 00:12:43.500]   On the contrary, he who practices them shall live by them.
+[00:12:43.500 --> 00:12:46.500]   Christ redeemed us from the curse of the law,
+[00:12:46.500 --> 00:12:50.000]   having become a curse for us.
+[00:12:50.000 --> 00:12:54.500]   For it is written, cursed is everyone who hangs on a tree,
+[00:12:54.500 --> 00:12:58.500]   in order that in Christ Jesus the blessing of Abraham
+[00:12:58.500 --> 00:13:03.000]   might come to the Gentiles, so that you and I also would
+[00:13:03.000 --> 00:13:07.500]   receive the promise of the Spirit through faith.
+[00:13:07.500 --> 00:13:09.500]   So, here are the questions for tonight.
+[00:13:09.500 --> 00:13:11.500]   What does it mean to be cursed by God?
+[00:13:11.500 --> 00:13:14.500]   What does it mean to be blessed by God?
+[00:13:14.500 --> 00:13:16.500]   And the more you dive into the curse,
+[00:13:16.500 --> 00:13:18.500]   the more the gospel becomes good news, right?
+[00:13:18.500 --> 00:13:20.500]   So, take your time with that.
+[00:13:20.500 --> 00:13:23.500]   And three, what is this curse of the law?
+[00:13:23.500 --> 00:13:28.500]   And what's the relationship between Abraham and the Spirit?
+[00:13:28.500 --> 00:13:32.500]   And like I shared before, don't treat this just as academics.
+[00:13:32.500 --> 00:13:37.000]   Treat this as your ransom having been paid, okay?
+[00:13:37.000 --> 00:13:39.500]   Let me pray for us, and then we'll reconvene at 8 o'clock,
+[00:13:39.500 --> 00:13:41.500]   or at 810.
+[00:13:41.500 --> 00:13:48.000]   Father, help us tonight really to appreciate deeply
+[00:13:48.000 --> 00:13:53.500]   this passage that speaks about the change of our eternity,
+[00:13:53.500 --> 00:13:57.500]   which speaks of the great cost that you paid.
+[00:13:57.500 --> 00:14:02.500]   And Lord, I pray the great reward that we have,
+[00:14:02.500 --> 00:14:05.500]   simply because we believe.
+[00:14:05.500 --> 00:14:08.500]   I pray that every single one of us, as we dive into this text,
+[00:14:08.500 --> 00:14:14.500]   will leave here not just astonished, but humbled and grateful.
+[00:14:14.500 --> 00:14:19.000]   Would you remove from us every ounce of grumbling?
+[00:14:19.000 --> 00:14:23.000]   Would you take away from us every desire to boast?
+[00:14:23.000 --> 00:14:25.000]   Would you remove from each and every one of us,
+[00:14:25.000 --> 00:14:31.000]   as we dive into your word, complacency?
+[00:14:31.000 --> 00:14:35.000]   Would you feed our souls and ignite our hearts afresh tonight
+[00:14:35.000 --> 00:14:37.000]   through your word?
+[00:14:37.000 --> 00:14:39.000]   I'm going to pray this in Jesus' name.
+[00:14:39.500 --> 00:14:42.500]   [SIDE CONVERSATION]
+[00:15:07.500 --> 00:15:14.500]   Can someone from the AV team switch--it got unlinked.
+[00:15:14.500 --> 00:15:18.500]   Can we switch it to the slide?
+[00:15:19.500 --> 00:15:22.500]   [SIDE CONVERSATION]
+[00:15:22.500 --> 00:15:25.500]   [SIDE CONVERSATION]
+[00:15:25.500 --> 00:15:28.500]   [SIDE CONVERSATION]
+[00:15:28.500 --> 00:15:31.500]   [SIDE CONVERSATION]
+[00:15:32.500 --> 00:15:35.500]   [SIDE CONVERSATION]
+[00:15:35.500 --> 00:15:38.500]   [SIDE CONVERSATION]
+[00:15:39.500 --> 00:15:42.500]   [SIDE CONVERSATION]
+[00:15:42.500 --> 00:15:45.500]   [SIDE CONVERSATION]
+[00:15:45.500 --> 00:15:48.500]   [SIDE CONVERSATION]
+[00:15:49.500 --> 00:15:52.500]   [SIDE CONVERSATION]
+[00:15:53.500 --> 00:15:56.500]   [SIDE CONVERSATION]
+[00:15:56.500 --> 00:15:59.500]   [SIDE CONVERSATION]
+[00:15:59.500 --> 00:16:02.500]   [SIDE CONVERSATION]
+[00:16:02.500 --> 00:16:05.500]   [SIDE CONVERSATION]
+[00:16:31.500 --> 00:16:34.500]   [SIDE CONVERSATION]
+[00:16:34.500 --> 00:16:37.500]   [SIDE CONVERSATION]
+[00:16:37.500 --> 00:16:40.500]   [SIDE CONVERSATION]
+[00:16:40.500 --> 00:16:43.500]   [SIDE CONVERSATION]
+[00:16:44.500 --> 00:16:47.500]   [SIDE CONVERSATION]
+[00:16:47.500 --> 00:16:50.500]   [SIDE CONVERSATION]
+[00:16:50.500 --> 00:16:53.500]   [SIDE CONVERSATION]
+[00:16:53.500 --> 00:16:56.500]   [SIDE CONVERSATION]
+[00:16:56.500 --> 00:16:59.500]   [SIDE CONVERSATION]
+[00:16:59.500 --> 00:17:02.500]   [SIDE CONVERSATION]
+[00:17:02.500 --> 00:17:05.500]   [SIDE CONVERSATION]
+[00:17:05.500 --> 00:17:08.500]   [SIDE CONVERSATION]
+[00:17:08.500 --> 00:17:11.500]   [SIDE CONVERSATION]
+[00:17:11.500 --> 00:17:14.500]   [SIDE CONVERSATION]
+[00:17:14.500 --> 00:17:17.500]   [SIDE CONVERSATION]
+[00:17:17.500 --> 00:17:20.500]   [SIDE CONVERSATION]
+[00:17:20.500 --> 00:17:23.500]   [SIDE CONVERSATION]
+[00:17:23.500 --> 00:17:26.500]   [SIDE CONVERSATION]
+[00:17:26.500 --> 00:17:29.500]   [SIDE CONVERSATION]
+[00:17:29.500 --> 00:17:32.500]   [SIDE CONVERSATION]
+[00:17:32.500 --> 00:17:35.500]   [SIDE CONVERSATION]
+[00:17:35.500 --> 00:17:53.500]   [SIDE CONVERSATION]
+[00:17:53.500 --> 00:17:56.500]   [SIDE CONVERSATION]
+[00:17:56.500 --> 00:17:59.500]   [SIDE CONVERSATION]
+[00:17:59.500 --> 00:18:02.500]   [SIDE CONVERSATION]
+[00:18:02.500 --> 00:18:05.500]   [SIDE CONVERSATION]
+[00:18:05.500 --> 00:18:08.500]   [SIDE CONVERSATION]
+[00:18:08.500 --> 00:18:11.500]   [SIDE CONVERSATION]
+[00:18:11.500 --> 00:18:14.500]   [SIDE CONVERSATION]
+[00:18:14.500 --> 00:18:17.500]   [SIDE CONVERSATION]
+[00:18:17.500 --> 00:18:20.500]   [SIDE CONVERSATION]
+[00:18:21.500 --> 00:18:24.500]   [SIDE CONVERSATION]
+[00:18:24.500 --> 00:18:27.500]   [SIDE CONVERSATION]
+[00:18:27.500 --> 00:18:30.500]   [SIDE CONVERSATION]
+[00:18:30.500 --> 00:18:33.500]   [SIDE CONVERSATION]
+[00:18:33.500 --> 00:18:36.500]   [SIDE CONVERSATION]
+[00:18:36.500 --> 00:18:39.500]   [SIDE CONVERSATION]
+[00:18:40.500 --> 00:18:43.500]   [SIDE CONVERSATION]
+[00:18:43.500 --> 00:18:46.500]   [SIDE CONVERSATION]
+[00:18:46.500 --> 00:18:49.500]   [SIDE CONVERSATION]
+[00:18:49.500 --> 00:18:52.500]   [SIDE CONVERSATION]
+[00:18:52.500 --> 00:18:55.500]   [SIDE CONVERSATION]
+[00:18:55.500 --> 00:18:58.500]   [SIDE CONVERSATION]
+[00:18:58.500 --> 00:19:01.500]   [SIDE CONVERSATION]
+[00:19:01.500 --> 00:19:04.500]   [SIDE CONVERSATION]
+[00:19:04.500 --> 00:19:07.500]   [SIDE CONVERSATION]
+[00:19:07.500 --> 00:19:10.500]   [SIDE CONVERSATION]
+[00:19:10.500 --> 00:19:13.500]   [SIDE CONVERSATION]
+[00:19:13.500 --> 00:19:17.500]   [SIDE CONVERSATION]
+[00:19:17.500 --> 00:19:21.500]   [SIDE CONVERSATION]
+[00:19:21.500 --> 00:19:25.500]   [SIDE CONVERSATION]
+[00:19:25.500 --> 00:19:29.500]   [SIDE CONVERSATION]
+[00:19:29.500 --> 00:19:33.500]   [SIDE CONVERSATION]
+[00:19:33.500 --> 00:19:37.500]   [SIDE CONVERSATION]
+[00:19:38.500 --> 00:19:41.500]   [SIDE CONVERSATION]
+[00:19:41.500 --> 00:19:45.500]   [SIDE CONVERSATION]
+[00:19:45.500 --> 00:19:49.500]   [SIDE CONVERSATION]
+[00:19:49.500 --> 00:19:53.500]   [SIDE CONVERSATION]
+[00:19:53.500 --> 00:19:57.500]   [SIDE CONVERSATION]
+[00:19:57.500 --> 00:20:01.500]   [SIDE CONVERSATION]
+[00:20:01.500 --> 00:20:05.500]   [SIDE CONVERSATION]
+[00:20:06.500 --> 00:20:09.500]   [SIDE CONVERSATION]
+[00:20:09.500 --> 00:20:13.500]   [SIDE CONVERSATION]
+[00:20:13.500 --> 00:20:17.500]   [SIDE CONVERSATION]
+[00:20:17.500 --> 00:20:21.500]   [SIDE CONVERSATION]
+[00:20:21.500 --> 00:20:25.500]   [SIDE CONVERSATION]
+[00:20:25.500 --> 00:20:29.500]   [SIDE CONVERSATION]
+[00:20:29.500 --> 00:20:33.500]   [SIDE CONVERSATION]
+[00:20:34.500 --> 00:20:37.500]   [SIDE CONVERSATION]
+[00:20:37.500 --> 00:20:41.500]   [SIDE CONVERSATION]
+[00:20:41.500 --> 00:20:45.500]   [SIDE CONVERSATION]
+[00:20:45.500 --> 00:20:49.500]   [SIDE CONVERSATION]
+[00:20:49.500 --> 00:20:53.500]   [SIDE CONVERSATION]
+[00:20:53.500 --> 00:20:57.500]   [SIDE CONVERSATION]
+[00:20:57.500 --> 00:21:01.500]   [SIDE CONVERSATION]
+[00:21:02.500 --> 00:21:05.500]   [SIDE CONVERSATION]
+[00:21:05.500 --> 00:21:09.500]   [SIDE CONVERSATION]
+[00:21:09.500 --> 00:21:13.500]   [SIDE CONVERSATION]
+[00:21:13.500 --> 00:21:17.500]   [SIDE CONVERSATION]
+[00:21:17.500 --> 00:21:21.500]   [SIDE CONVERSATION]
+[00:21:21.500 --> 00:21:25.500]   [SIDE CONVERSATION]
+[00:21:25.500 --> 00:21:29.500]   [SIDE CONVERSATION]
+[00:21:30.500 --> 00:21:33.500]   [SIDE CONVERSATION]
+[00:21:33.500 --> 00:21:37.500]   [SIDE CONVERSATION]
+[00:21:37.500 --> 00:21:41.500]   [SIDE CONVERSATION]
+[00:21:41.500 --> 00:21:45.500]   [SIDE CONVERSATION]
+[00:21:45.500 --> 00:21:49.500]   [SIDE CONVERSATION]
+[00:21:49.500 --> 00:21:53.500]   [SIDE CONVERSATION]
+[00:21:53.500 --> 00:21:57.500]   [SIDE CONVERSATION]
+[00:21:58.500 --> 00:22:01.500]   [SIDE CONVERSATION]
+[00:22:01.500 --> 00:22:05.500]   [SIDE CONVERSATION]
+[00:22:05.500 --> 00:22:09.500]   [SIDE CONVERSATION]
+[00:22:09.500 --> 00:22:13.500]   [SIDE CONVERSATION]
+[00:22:13.500 --> 00:22:17.500]   [SIDE CONVERSATION]
+[00:22:17.500 --> 00:22:21.500]   [SIDE CONVERSATION]
+[00:22:21.500 --> 00:22:25.500]   [SIDE CONVERSATION]
+[00:22:26.500 --> 00:22:29.500]   [SIDE CONVERSATION]
+[00:22:29.500 --> 00:22:33.500]   [SIDE CONVERSATION]
+[00:22:33.500 --> 00:22:37.500]   [SIDE CONVERSATION]
+[00:22:37.500 --> 00:22:41.500]   [SIDE CONVERSATION]
+[00:22:41.500 --> 00:22:45.500]   [SIDE CONVERSATION]
+[00:22:45.500 --> 00:22:49.500]   [SIDE CONVERSATION]
+[00:22:49.500 --> 00:22:53.500]   [SIDE CONVERSATION]
+[00:22:54.500 --> 00:22:57.500]   [SIDE CONVERSATION]
+[00:22:57.500 --> 00:23:01.500]   [SIDE CONVERSATION]
+[00:23:01.500 --> 00:23:05.500]   [SIDE CONVERSATION]
+[00:23:05.500 --> 00:23:09.500]   [SIDE CONVERSATION]
+[00:23:09.500 --> 00:23:13.500]   [SIDE CONVERSATION]
+[00:23:13.500 --> 00:23:17.500]   [SIDE CONVERSATION]
+[00:23:17.500 --> 00:23:21.500]   [SIDE CONVERSATION]
+[00:23:22.500 --> 00:23:25.500]   [SIDE CONVERSATION]
+[00:23:25.500 --> 00:23:29.500]   [SIDE CONVERSATION]
+[00:23:29.500 --> 00:23:33.500]   [SIDE CONVERSATION]
+[00:23:33.500 --> 00:23:37.500]   [SIDE CONVERSATION]
+[00:23:37.500 --> 00:23:41.500]   [SIDE CONVERSATION]
+[00:23:41.500 --> 00:23:45.500]   [SIDE CONVERSATION]
+[00:23:45.500 --> 00:23:49.500]   [SIDE CONVERSATION]
+[00:23:50.500 --> 00:23:53.500]   [SIDE CONVERSATION]
+[00:23:53.500 --> 00:23:57.500]   [SIDE CONVERSATION]
+[00:23:57.500 --> 00:24:01.500]   [SIDE CONVERSATION]
+[00:24:01.500 --> 00:24:05.500]   [SIDE CONVERSATION]
+[00:24:05.500 --> 00:24:09.500]   [SIDE CONVERSATION]
+[00:24:09.500 --> 00:24:13.500]   [SIDE CONVERSATION]
+[00:24:13.500 --> 00:24:17.500]   [SIDE CONVERSATION]
+[00:24:18.500 --> 00:24:21.500]   [SIDE CONVERSATION]
+[00:24:21.500 --> 00:24:25.500]   [SIDE CONVERSATION]
+[00:24:25.500 --> 00:24:29.500]   [SIDE CONVERSATION]
+[00:24:29.500 --> 00:24:33.500]   [SIDE CONVERSATION]
+[00:24:33.500 --> 00:24:37.500]   [SIDE CONVERSATION]
+[00:24:37.500 --> 00:24:41.500]   [SIDE CONVERSATION]
+[00:24:41.500 --> 00:24:45.500]   [SIDE CONVERSATION]
+[00:24:46.500 --> 00:24:49.500]   [SIDE CONVERSATION]
+[00:24:49.500 --> 00:24:53.500]   [SIDE CONVERSATION]
+[00:24:53.500 --> 00:24:57.500]   [SIDE CONVERSATION]
+[00:24:57.500 --> 00:25:01.500]   [SIDE CONVERSATION]
+[00:25:01.500 --> 00:25:05.500]   [SIDE CONVERSATION]
+[00:25:05.500 --> 00:25:09.500]   [SIDE CONVERSATION]
+[00:25:09.500 --> 00:25:13.500]   [SIDE CONVERSATION]
+[00:25:14.500 --> 00:25:17.500]   [SIDE CONVERSATION]
+[00:25:17.500 --> 00:25:21.500]   [SIDE CONVERSATION]
+[00:25:21.500 --> 00:25:25.500]   [SIDE CONVERSATION]
+[00:25:25.500 --> 00:25:29.500]   [SIDE CONVERSATION]
+[00:25:29.500 --> 00:25:33.500]   [SIDE CONVERSATION]
+[00:25:33.500 --> 00:25:37.500]   [SIDE CONVERSATION]
+[00:25:37.500 --> 00:25:41.500]   [SIDE CONVERSATION]
+[00:25:42.500 --> 00:25:45.500]   [SIDE CONVERSATION]
+[00:25:45.500 --> 00:25:49.500]   [SIDE CONVERSATION]
+[00:25:49.500 --> 00:25:53.500]   [SIDE CONVERSATION]
+[00:25:53.500 --> 00:25:57.500]   [SIDE CONVERSATION]
+[00:25:57.500 --> 00:26:01.500]   [SIDE CONVERSATION]
+[00:26:01.500 --> 00:26:05.500]   [SIDE CONVERSATION]
+[00:26:05.500 --> 00:26:09.500]   [SIDE CONVERSATION]
+[00:26:10.500 --> 00:26:13.500]   [SIDE CONVERSATION]
+[00:26:13.500 --> 00:26:17.500]   [SIDE CONVERSATION]
+[00:26:17.500 --> 00:26:21.500]   [SIDE CONVERSATION]
+[00:26:21.500 --> 00:26:25.500]   [SIDE CONVERSATION]
+[00:26:25.500 --> 00:26:29.500]   [SIDE CONVERSATION]
+[00:26:29.500 --> 00:26:33.500]   [SIDE CONVERSATION]
+[00:26:33.500 --> 00:26:37.500]   [SIDE CONVERSATION]
+[00:26:38.500 --> 00:26:41.500]   [SIDE CONVERSATION]
+[00:26:41.500 --> 00:26:45.500]   [SIDE CONVERSATION]
+[00:26:45.500 --> 00:26:49.500]   [SIDE CONVERSATION]
+[00:26:49.500 --> 00:26:53.500]   [SIDE CONVERSATION]
+[00:26:53.500 --> 00:26:57.500]   [SIDE CONVERSATION]
+[00:26:57.500 --> 00:27:01.500]   [SIDE CONVERSATION]
+[00:27:01.500 --> 00:27:05.500]   [SIDE CONVERSATION]
+[00:27:06.500 --> 00:27:09.500]   [SIDE CONVERSATION]
+[00:27:09.500 --> 00:27:13.500]   [SIDE CONVERSATION]
+[00:27:13.500 --> 00:27:17.500]   [SIDE CONVERSATION]
+[00:27:17.500 --> 00:27:21.500]   [SIDE CONVERSATION]
+[00:27:21.500 --> 00:27:25.500]   [SIDE CONVERSATION]
+[00:27:25.500 --> 00:27:29.500]   [SIDE CONVERSATION]
+[00:27:29.500 --> 00:27:33.500]   [SIDE CONVERSATION]
+[00:27:34.500 --> 00:27:37.500]   [SIDE CONVERSATION]
+[00:27:37.500 --> 00:27:41.500]   [SIDE CONVERSATION]
+[00:27:41.500 --> 00:27:45.500]   [SIDE CONVERSATION]
+[00:27:45.500 --> 00:27:49.500]   [SIDE CONVERSATION]
+[00:27:49.500 --> 00:27:53.500]   [SIDE CONVERSATION]
+[00:27:53.500 --> 00:27:57.500]   [SIDE CONVERSATION]
+[00:27:57.500 --> 00:28:01.500]   [SIDE CONVERSATION]
+[00:28:02.500 --> 00:28:05.500]   [SIDE CONVERSATION]
+[00:28:05.500 --> 00:28:09.500]   [SIDE CONVERSATION]
+[00:28:09.500 --> 00:28:13.500]   [SIDE CONVERSATION]
+[00:28:13.500 --> 00:28:17.500]   [SIDE CONVERSATION]
+[00:28:17.500 --> 00:28:21.500]   [SIDE CONVERSATION]
+[00:28:21.500 --> 00:28:25.500]   [SIDE CONVERSATION]
+[00:28:25.500 --> 00:28:29.500]   [SIDE CONVERSATION]
+[00:28:30.500 --> 00:28:33.500]   [SIDE CONVERSATION]
+[00:28:33.500 --> 00:28:37.500]   [SIDE CONVERSATION]
+[00:28:37.500 --> 00:28:41.500]   [SIDE CONVERSATION]
+[00:28:41.500 --> 00:28:45.500]   [SIDE CONVERSATION]
+[00:28:45.500 --> 00:28:49.500]   [SIDE CONVERSATION]
+[00:28:49.500 --> 00:28:53.500]   [SIDE CONVERSATION]
+[00:28:53.500 --> 00:28:57.500]   [SIDE CONVERSATION]
+[00:28:58.500 --> 00:29:01.500]   [SIDE CONVERSATION]
+[00:29:01.500 --> 00:29:05.500]   [SIDE CONVERSATION]
+[00:29:05.500 --> 00:29:09.500]   [SIDE CONVERSATION]
+[00:29:09.500 --> 00:29:13.500]   [SIDE CONVERSATION]
+[00:29:13.500 --> 00:29:17.500]   [SIDE CONVERSATION]
+[00:29:17.500 --> 00:29:21.500]   [SIDE CONVERSATION]
+[00:29:21.500 --> 00:29:25.500]   [SIDE CONVERSATION]
+[00:29:26.500 --> 00:29:29.500]   [SIDE CONVERSATION]
+[00:29:29.500 --> 00:29:33.500]   [SIDE CONVERSATION]
+[00:29:33.500 --> 00:29:37.500]   [SIDE CONVERSATION]
+[00:29:37.500 --> 00:29:41.500]   [SIDE CONVERSATION]
+[00:29:41.500 --> 00:29:45.500]   [SIDE CONVERSATION]
+[00:29:45.500 --> 00:29:49.500]   [SIDE CONVERSATION]
+
