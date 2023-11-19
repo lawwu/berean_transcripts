@@ -349,4 +349,5 @@ if __name__ == "__main__":
 
     logging.info("Generate index page")
     generate_index_page(filtered_ids)
+    logging.info(f"Total videos: {len(filtered_ids)}")
     logging.info("All tasks completed")

@@ -1,0 +1,1448 @@
+
+[00:00:00.000 --> 00:00:03.480]   [MUSIC PLAYING]
+[00:00:03.480 --> 00:00:06.980]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:00:06.980 --> 00:00:10.480]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:00:10.480 --> 00:00:13.980]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:00:13.980 --> 00:00:17.480]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:00:18.480 --> 00:00:21.980]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:00:21.980 --> 00:00:34.460]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:00:35.440 --> 00:00:38.940]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:00:39.920 --> 00:00:43.420]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:00:44.400 --> 00:00:47.900]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:00:48.880 --> 00:00:52.380]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:00:53.360 --> 00:00:56.860]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:00:57.840 --> 00:01:01.340]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:01:02.320 --> 00:01:05.820]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:01:06.800 --> 00:01:10.300]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:01:11.280 --> 00:01:14.780]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:01:15.760 --> 00:01:19.260]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:01:20.240 --> 00:01:23.740]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:01:24.720 --> 00:01:28.220]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:01:29.200 --> 00:01:32.700]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:01:33.680 --> 00:01:37.180]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:01:38.160 --> 00:01:41.660]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:01:42.640 --> 00:01:46.140]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:01:47.120 --> 00:01:50.620]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:01:51.600 --> 00:01:55.100]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:01:55.100 --> 00:02:04.100]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:02:04.100 --> 00:02:13.100]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:02:14.080 --> 00:02:17.580]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:02:18.560 --> 00:02:22.060]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:02:23.040 --> 00:02:26.540]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:02:27.520 --> 00:02:31.020]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:02:32.000 --> 00:02:35.500]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:02:36.480 --> 00:02:39.980]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:02:40.960 --> 00:02:44.460]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:02:45.440 --> 00:02:48.940]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:02:49.920 --> 00:02:53.420]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:02:54.400 --> 00:02:57.900]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:02:58.880 --> 00:03:02.380]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:03:03.360 --> 00:03:06.860]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:03:07.840 --> 00:03:11.340]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:03:12.320 --> 00:03:15.820]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:03:16.800 --> 00:03:20.300]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:03:21.280 --> 00:03:24.780]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:03:25.760 --> 00:03:29.260]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:03:30.240 --> 00:03:33.740]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:03:34.720 --> 00:03:38.220]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:03:39.200 --> 00:03:42.700]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:03:43.680 --> 00:03:47.180]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:03:48.160 --> 00:03:51.660]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:03:52.640 --> 00:03:56.140]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:03:57.120 --> 00:04:00.620]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:04:00.620 --> 00:04:10.620]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:04:10.620 --> 00:04:19.620]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:04:20.600 --> 00:04:24.100]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:04:24.100 --> 00:04:45.100]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:04:46.080 --> 00:04:49.580]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:04:50.560 --> 00:04:54.060]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:04:55.040 --> 00:04:58.540]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:04:59.520 --> 00:05:03.020]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:05:04.000 --> 00:05:07.500]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:05:08.480 --> 00:05:11.980]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:05:12.960 --> 00:05:16.460]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:05:17.440 --> 00:05:20.940]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:05:21.920 --> 00:05:25.420]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:05:26.400 --> 00:05:29.900]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:05:30.880 --> 00:05:34.380]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:05:35.360 --> 00:05:38.860]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:05:39.840 --> 00:05:43.340]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:05:44.320 --> 00:05:47.820]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:06:13.320 --> 00:06:16.820]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:06:17.820 --> 00:06:21.320]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:06:22.320 --> 00:06:25.820]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:06:26.820 --> 00:06:30.320]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:06:30.320 --> 00:06:33.820]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:06:34.820 --> 00:06:38.320]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:06:39.320 --> 00:06:42.820]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:06:42.820 --> 00:06:46.320]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:06:47.320 --> 00:06:50.820]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:06:51.820 --> 00:06:55.320]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:06:56.320 --> 00:06:59.820]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:07:00.820 --> 00:07:04.320]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:07:05.320 --> 00:07:08.820]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:07:08.820 --> 00:07:12.320]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:07:12.320 --> 00:07:15.820]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:07:15.820 --> 00:07:19.320]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:07:20.320 --> 00:07:23.820]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:07:23.820 --> 00:07:38.820]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:07:39.820 --> 00:07:43.320]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:07:44.320 --> 00:07:47.820]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:07:48.820 --> 00:07:52.320]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:07:53.320 --> 00:07:56.820]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:07:57.820 --> 00:08:01.320]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:08:02.320 --> 00:08:05.820]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:08:06.820 --> 00:08:10.320]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:08:10.320 --> 00:08:19.320]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:08:20.320 --> 00:08:23.820]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:08:24.820 --> 00:08:28.320]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:08:29.320 --> 00:08:32.820]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:08:32.820 --> 00:08:36.320]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:08:37.320 --> 00:08:40.820]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:08:40.820 --> 00:09:05.820]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:09:06.320 --> 00:09:09.820]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:09:10.820 --> 00:09:14.320]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:09:15.320 --> 00:09:18.820]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:09:18.820 --> 00:09:22.320]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:09:23.320 --> 00:09:26.820]   [MUSIC - "POMP AND CIRCUMSTANCE"]
+[00:09:51.320 --> 00:09:52.320]   Good morning, church family.
+[00:09:52.320 --> 00:09:53.320]   Happy Lord's Day.
+[00:09:53.320 --> 00:09:55.820]   We're going to go ahead and begin our worship service.
+[00:09:55.820 --> 00:09:59.320]   [MUSIC - "FORGIVEN"]
+[00:09:59.320 --> 00:10:16.820]   (SINGING) I'm forgiven because you are forsaken.
+[00:10:16.820 --> 00:10:20.320]   I'm accepted.
+[00:10:20.320 --> 00:10:23.820]   You are condemned.
+[00:10:23.820 --> 00:10:26.320]   I'm a loving one.
+[00:10:26.320 --> 00:10:31.820]   Your spirit lives within me because you
+[00:10:31.820 --> 00:10:34.820]   died and rose again.
+[00:10:34.820 --> 00:10:38.320]   I'm forgiven.
+[00:10:38.320 --> 00:10:45.320]   I'm forgiven because you are forsaken.
+[00:10:45.320 --> 00:10:48.320]   I'm accepted.
+[00:10:48.320 --> 00:10:52.320]   You are condemned.
+[00:10:52.320 --> 00:10:54.820]   I'm a loving one.
+[00:10:54.820 --> 00:10:59.820]   Your spirit lives within me because you
+[00:10:59.820 --> 00:11:02.320]   died and rose again.
+[00:11:02.320 --> 00:11:03.320]   It's enough.
+[00:11:03.320 --> 00:11:08.820]   It's enough.
+[00:11:08.820 --> 00:11:13.320]   How can it be?
+[00:11:13.320 --> 00:11:16.820]   My King would die for me.
+[00:11:16.820 --> 00:11:27.320]   Please, Lord, I know it's true.
+[00:11:27.320 --> 00:11:32.320]   It's my joy to honor you.
+[00:11:32.320 --> 00:11:35.820]   You know I'm waiting.
+[00:11:35.820 --> 00:11:38.320]   I know it's the first time I'm forgiven.
+[00:11:41.820 --> 00:11:48.820]   I'm forgiven because you are forsaken.
+[00:11:48.820 --> 00:11:51.820]   I'm accepted.
+[00:11:51.820 --> 00:11:55.820]   You are condemned.
+[00:11:55.820 --> 00:11:58.320]   I'm a loving one.
+[00:11:58.320 --> 00:12:03.320]   Your spirit lives within me because you
+[00:12:03.320 --> 00:12:05.820]   died and rose again.
+[00:12:09.820 --> 00:12:16.820]   Amazing Mother, how can it be?
+[00:12:16.820 --> 00:12:20.320]   My King would die for me.
+[00:12:20.320 --> 00:12:30.820]   Amazing Mother, I know it's true.
+[00:12:30.820 --> 00:12:34.820]   It's my joy to honor you.
+[00:12:37.820 --> 00:12:44.820]   Amazing Mother, how can it be?
+[00:12:44.820 --> 00:12:48.820]   My King would die for me.
+[00:12:48.820 --> 00:12:58.820]   Amazing Mother, I know it's true.
+[00:12:58.820 --> 00:13:03.820]   It's my joy to honor you.
+[00:13:03.820 --> 00:13:07.820]   It's enough that I do.
+[00:13:07.820 --> 00:13:11.320]   I honor you.
+[00:13:11.320 --> 00:13:14.820]   It's enough that I do.
+[00:13:14.820 --> 00:13:17.320]   I honor you.
+[00:13:17.320 --> 00:13:25.820]   Good morning, everybody.
+[00:13:25.820 --> 00:13:27.320]   Welcome to this morning's service.
+[00:13:27.320 --> 00:13:29.320]   If you are visiting us for the very first time,
+[00:13:29.320 --> 00:13:31.820]   I want to extend a warm welcome to you.
+[00:13:31.820 --> 00:13:34.820]   When the service is done, please visit us at our welcome booth.
+[00:13:34.820 --> 00:13:37.320]   You'll see the blue canopy out by the parking lot
+[00:13:37.320 --> 00:13:39.820]   that you probably passed on the way in.
+[00:13:39.820 --> 00:13:42.820]   I do have a very important announcement.
+[00:13:42.820 --> 00:13:46.320]   Over the last several weeks, we have been hinting
+[00:13:46.320 --> 00:13:49.820]   and communicating about the need for a third service.
+[00:13:49.820 --> 00:13:53.820]   We want to officially announce to you that on January 7th,
+[00:13:53.820 --> 00:13:56.320]   the start of the new year, we're going to be implementing
+[00:13:56.320 --> 00:13:58.820]   three services on Sunday mornings.
+[00:13:58.820 --> 00:14:04.820]   The time for these services is going to be 8 a.m., 9.30, and 11.30 a.m.
+[00:14:04.820 --> 00:14:07.820]   So all pretty much in the morning time.
+[00:14:07.820 --> 00:14:10.320]   Importantly, for those of you with children,
+[00:14:10.320 --> 00:14:14.820]   our education department at 9.30 a.m. will have seeds,
+[00:14:14.820 --> 00:14:16.820]   which is our nursery for the little ones,
+[00:14:16.820 --> 00:14:19.820]   and we'll also have our sprouts ministry, but a portion,
+[00:14:19.820 --> 00:14:23.820]   so from K through second grade.
+[00:14:23.820 --> 00:14:26.320]   The year after that, the group will grow,
+[00:14:26.320 --> 00:14:29.320]   but it will begin with a smaller portion of the group.
+[00:14:29.320 --> 00:14:32.320]   The full force of the education department with the youth group,
+[00:14:32.320 --> 00:14:36.320]   sprouts elementary ministry, and the seeds nursery
+[00:14:36.320 --> 00:14:40.820]   will be at the 11.30 service, and so please note that
+[00:14:40.820 --> 00:14:44.820]   that in January, we're going to start implementing that.
+[00:14:44.820 --> 00:14:48.820]   As you'd expect, in order to have those three services,
+[00:14:48.820 --> 00:14:53.320]   we are going to need additional volunteers in various aspects of ministry,
+[00:14:53.320 --> 00:14:56.820]   everything from welcome team to parking ministry,
+[00:14:56.820 --> 00:14:59.320]   but from the parking ministry, we have a special video
+[00:14:59.320 --> 00:15:02.320]   to encourage you to sign up,
+[00:15:02.320 --> 00:15:05.320]   and this video is going to go down in history as a classic,
+[00:15:05.320 --> 00:15:07.320]   so here you go. Please enjoy.
+[00:15:07.320 --> 00:15:10.320]   [Video plays]
+[00:15:11.320 --> 00:15:14.320]   [Video ends]
+[00:15:14.320 --> 00:15:27.320]   [Music]
+[00:15:28.320 --> 00:15:31.320]   [Music]
+[00:15:32.320 --> 00:15:35.320]   [Music]
+[00:16:00.320 --> 00:16:01.820]   Who is that person?
+[00:16:01.820 --> 00:16:04.320]   I see him out here every week directing traffic.
+[00:16:04.320 --> 00:16:07.320]   You don't know? You haven't heard the stories?
+[00:16:07.320 --> 00:16:08.820]   Should I have?
+[00:16:08.820 --> 00:16:11.320]   There's a reason why he's always out there.
+[00:16:11.320 --> 00:16:14.320]   [Music]
+[00:16:14.320 --> 00:16:21.320]   [Message alert]
+[00:16:29.320 --> 00:16:30.320]   [Message alert]
+[00:16:30.320 --> 00:16:34.320]   [Message alert]
+[00:16:34.320 --> 00:16:48.320]   [Tires screech]
+[00:16:48.320 --> 00:16:51.320]   [Music]
+[00:16:52.320 --> 00:16:55.320]   [Music]
+[00:17:18.320 --> 00:17:20.320]   And ever since that day, he's been out there every week,
+[00:17:20.320 --> 00:17:22.320]   making sure people cross the street safely.
+[00:17:22.320 --> 00:17:24.320]   By himself?
+[00:17:24.320 --> 00:17:26.320]   No one else wants to do it.
+[00:17:26.320 --> 00:17:29.320]   [Music]
+[00:17:30.320 --> 00:17:33.320]   [Music]
+[00:17:56.320 --> 00:17:59.320]   [Applause]
+[00:17:59.320 --> 00:18:01.320]   All right.
+[00:18:01.320 --> 00:18:03.320]   Well, thank you to our media team once again.
+[00:18:03.320 --> 00:18:05.320]   You may have seen that video,
+[00:18:05.320 --> 00:18:07.320]   and then thank you to our wonderful actors.
+[00:18:07.320 --> 00:18:09.320]   Happy to say they're actually happily married.
+[00:18:09.320 --> 00:18:12.320]   You know, that's proud to them getting married.
+[00:18:12.320 --> 00:18:14.320]   That was a dramatic way of saying
+[00:18:14.320 --> 00:18:16.320]   we're going to have various needs to sign up,
+[00:18:16.320 --> 00:18:21.320]   so good opportunities for us to get involved there.
+[00:18:21.320 --> 00:18:25.320]   I do have just a couple other announcements.
+[00:18:25.320 --> 00:18:27.320]   Please make sure that you are checking your app
+[00:18:27.320 --> 00:18:28.320]   and the calendar.
+[00:18:28.320 --> 00:18:30.320]   As we approach the end of the year,
+[00:18:30.320 --> 00:18:31.320]   there are a lot of events,
+[00:18:31.320 --> 00:18:34.320]   and including our affinity ministries,
+[00:18:34.320 --> 00:18:36.320]   our single adults, college ministry,
+[00:18:36.320 --> 00:18:38.320]   and family ministry,
+[00:18:38.320 --> 00:18:40.320]   there are going to be various fellowship opportunities.
+[00:18:40.320 --> 00:18:44.320]   One I would like to highlight is that on December 10th,
+[00:18:44.320 --> 00:18:45.320]   that's a Sunday,
+[00:18:45.320 --> 00:18:47.320]   we're going to be having an all-family ministry
+[00:18:47.320 --> 00:18:49.320]   Christmas lunch party.
+[00:18:49.320 --> 00:18:51.320]   And so because that involves all of the family ministry,
+[00:18:51.320 --> 00:18:53.320]   not just a portion,
+[00:18:53.320 --> 00:18:56.320]   make sure you mark that on your calendar and sign up.
+[00:18:56.320 --> 00:18:57.320]   There is going to be a booth outside
+[00:18:57.320 --> 00:18:59.320]   to make that very easy for you to do so,
+[00:18:59.320 --> 00:19:01.320]   or you can do it on your app.
+[00:19:01.320 --> 00:19:05.320]   Additionally, as the tail end of the year is approaching
+[00:19:05.320 --> 00:19:06.320]   and Christmas is approaching,
+[00:19:06.320 --> 00:19:09.320]   we do have holiday outreach opportunities.
+[00:19:09.320 --> 00:19:11.320]   There are several that you can take a look at,
+[00:19:11.320 --> 00:19:13.320]   again, on our website or app.
+[00:19:13.320 --> 00:19:15.320]   One of the ones I like to highlight
+[00:19:15.320 --> 00:19:17.320]   is Operation Christmas Child
+[00:19:17.320 --> 00:19:19.320]   was providing a shoebox gift.
+[00:19:19.320 --> 00:19:22.320]   This week was the final week to submit one of those.
+[00:19:22.320 --> 00:19:24.320]   If you took one home to fill
+[00:19:24.320 --> 00:19:26.320]   and you still have questions about it
+[00:19:26.320 --> 00:19:28.320]   or you need to talk to someone,
+[00:19:28.320 --> 00:19:30.320]   please message Grace Kim.
+[00:19:30.320 --> 00:19:33.320]   Her email is, again, available on the app and web,
+[00:19:33.320 --> 00:19:35.320]   and then you can find out how you can submit that.
+[00:19:35.320 --> 00:19:37.320]   Or they have a booth outside again,
+[00:19:37.320 --> 00:19:39.320]   and you can visit to drop off your boxes,
+[00:19:39.320 --> 00:19:42.320]   and then they'll take that submission.
+[00:19:42.320 --> 00:19:43.320]   For the other announcements,
+[00:19:43.320 --> 00:19:46.320]   please make sure to, again, check.
+[00:19:46.320 --> 00:19:48.320]   We're going to go into a time of offering,
+[00:19:48.320 --> 00:19:50.320]   and then today we have the privilege of hearing
+[00:19:50.320 --> 00:19:52.320]   our brother Justin King give his testimony
+[00:19:52.320 --> 00:19:54.320]   and be baptized after our worship set.
+[00:19:54.320 --> 00:19:57.320]   If you have a physical check for the offering,
+[00:19:57.320 --> 00:19:59.320]   please visit the offering box there by the entrance.
+[00:19:59.320 --> 00:20:03.320]   Let's take a moment to pray for our service and our offering.
+[00:20:03.320 --> 00:20:06.320]   Lord, Heavenly Father,
+[00:20:06.320 --> 00:20:10.320]   you are so good to us and so gracious,
+[00:20:10.320 --> 00:20:13.320]   and we appreciate from our hearts your lavishing love.
+[00:20:13.320 --> 00:20:15.320]   We also want to thank you that each time,
+[00:20:15.320 --> 00:20:17.320]   each Sunday we come here to worship,
+[00:20:17.320 --> 00:20:22.320]   what a privilege it is for us to be able to express our faith,
+[00:20:22.320 --> 00:20:24.320]   to, Lord, connect with you,
+[00:20:24.320 --> 00:20:26.320]   commune with the fellowship of the body,
+[00:20:26.320 --> 00:20:28.320]   and then hear your word of instruction.
+[00:20:28.320 --> 00:20:30.320]   So in all this, God, we praise and thank you,
+[00:20:30.320 --> 00:20:33.320]   and it is our prayer that not only just this week,
+[00:20:33.320 --> 00:20:36.320]   but regularly each time we give offering,
+[00:20:36.320 --> 00:20:39.320]   that the expression of our appreciation to you
+[00:20:39.320 --> 00:20:41.320]   would come forth and we'd be honoring in your sight.
+[00:20:41.320 --> 00:20:45.320]   We ask, God, that you would bless this time of service we have.
+[00:20:45.320 --> 00:20:48.320]   The Lord may it be glorifying and exalting to you.
+[00:20:48.320 --> 00:20:50.320]   We thank you, Lord, in Christ's name. Amen.
+[00:20:51.320 --> 00:20:54.320]   (soft piano music)
+[00:20:54.320 --> 00:20:57.320]   (soft piano music)
+[00:20:58.320 --> 00:21:01.320]   (soft piano music)
+[00:21:02.320 --> 00:21:05.320]   (soft piano music)
+[00:21:05.320 --> 00:21:10.320]   (soft piano music)
+[00:21:10.320 --> 00:21:17.320]   (soft piano music)
+[00:21:17.320 --> 00:21:26.320]   (soft piano music)
+[00:21:26.320 --> 00:21:29.320]   (soft piano music)
+[00:21:29.320 --> 00:21:39.320]   - Church family, why don't we stand and say hello,
+[00:21:39.320 --> 00:21:41.320]   just a minute, around,
+[00:21:41.320 --> 00:21:43.320]   the people around you.
+[00:21:43.320 --> 00:21:46.320]   (congregation chattering)
+[00:21:46.320 --> 00:21:49.820]   (congregation chattering)
+[00:21:49.820 --> 00:22:15.320]   (soft piano music)
+[00:22:15.320 --> 00:22:35.000]   ♪ MUSIC ♪
+[00:22:35.000 --> 00:22:36.660]   Sing it together, just in line.
+[00:22:36.660 --> 00:22:39.380]   ♪ MUSIC ♪
+[00:22:39.380 --> 00:22:44.020]   ♪ Make a fine fight of a thousand burning suns ♪
+[00:22:44.020 --> 00:22:47.120]   ♪ Raise his head and glance ♪
+[00:22:47.120 --> 00:22:52.120]   ♪ There is only one, he is our God ♪
+[00:22:52.120 --> 00:22:53.620]   Who commands?
+[00:22:53.620 --> 00:22:55.820]   ♪ MUSIC ♪
+[00:22:55.820 --> 00:22:58.120]   ♪ Who commands the nations ♪
+[00:22:58.120 --> 00:23:01.120]   ♪ Building up and tearing down ♪
+[00:23:01.120 --> 00:23:04.120]   ♪ Siding to meet his rivals ♪
+[00:23:04.120 --> 00:23:08.620]   ♪ There is only one, he is our God ♪
+[00:23:08.620 --> 00:23:09.620]   Sing it.
+[00:23:09.620 --> 00:23:12.120]   ♪ MUSIC ♪
+[00:23:12.120 --> 00:23:16.120]   ♪ He is our God ♪
+[00:23:16.120 --> 00:23:19.120]   ♪ MUSIC ♪
+[00:23:19.120 --> 00:23:27.120]   ♪ Holy, you alone are holy ♪
+[00:23:27.120 --> 00:23:33.120]   ♪ Passed with sin your glory ♪
+[00:23:33.120 --> 00:23:36.120]   ♪ Holy God ♪
+[00:23:36.120 --> 00:23:43.120]   ♪ MUSIC ♪
+[00:23:43.120 --> 00:23:47.120]   Who would come to save us?
+[00:23:47.120 --> 00:23:49.120]   ♪ Who would come to save us ♪
+[00:23:49.120 --> 00:23:52.120]   ♪ When we turned away his love ♪
+[00:23:52.120 --> 00:23:55.120]   ♪ Conquer us with kindness ♪
+[00:23:55.120 --> 00:24:00.120]   ♪ There is only one, he is our God ♪
+[00:24:00.120 --> 00:24:03.120]   Sing it, he is our God.
+[00:24:03.120 --> 00:24:09.120]   ♪ MUSIC ♪
+[00:24:09.120 --> 00:24:17.120]   ♪ Holy, you alone are holy ♪
+[00:24:17.120 --> 00:24:23.120]   ♪ Passed with sin your glory ♪
+[00:24:23.120 --> 00:24:26.120]   ♪ No one is like you ♪
+[00:24:26.120 --> 00:24:35.120]   ♪ You alone are holy ♪
+[00:24:35.120 --> 00:24:40.120]   ♪ We adore you only ♪
+[00:24:40.120 --> 00:24:44.120]   ♪ Holy God ♪
+[00:24:44.120 --> 00:24:47.120]   ♪ MUSIC ♪
+[00:24:47.120 --> 00:24:48.120]   Now to the king.
+[00:24:48.120 --> 00:24:49.120]   ♪ MUSIC ♪
+[00:24:49.120 --> 00:24:52.120]   ♪ Now to the king on the throne ♪
+[00:24:52.120 --> 00:24:55.120]   ♪ Who was and is to come ♪
+[00:24:55.120 --> 00:24:58.120]   ♪ And to the lamb who was slain ♪
+[00:24:58.120 --> 00:25:01.120]   ♪ Be glory ♪
+[00:25:01.120 --> 00:25:03.120]   ♪ Now to the king on the throne ♪
+[00:25:03.120 --> 00:25:06.120]   ♪ Who was and is to come ♪
+[00:25:06.120 --> 00:25:09.120]   ♪ And to the lamb who was slain ♪
+[00:25:09.120 --> 00:25:12.120]   ♪ Be glory ♪
+[00:25:12.120 --> 00:25:15.120]   ♪ Now to the king on the throne ♪
+[00:25:15.120 --> 00:25:18.120]   ♪ Who was and is to come ♪
+[00:25:18.120 --> 00:25:20.120]   ♪ And to the lamb who was slain ♪
+[00:25:20.120 --> 00:25:24.120]   ♪ Be glory ♪
+[00:25:24.120 --> 00:25:32.120]   ♪ Holy, you alone are holy ♪
+[00:25:32.120 --> 00:25:38.120]   ♪ Passed with sin your glory ♪
+[00:25:38.120 --> 00:25:43.120]   ♪ No one is like you ♪
+[00:25:43.120 --> 00:25:49.120]   ♪ You alone are holy ♪
+[00:25:49.120 --> 00:25:55.120]   ♪ We adore you only ♪
+[00:25:55.120 --> 00:25:59.120]   ♪ Holy God ♪
+[00:25:59.120 --> 00:26:17.120]   ♪ MUSIC ♪
+[00:26:17.120 --> 00:26:31.120]   ♪ MUSIC ♪
+[00:26:31.120 --> 00:26:36.120]   ♪ From the brightness of his glory ♪
+[00:26:36.120 --> 00:26:44.120]   ♪ Jesus, the son of God, descends ♪
+[00:26:44.120 --> 00:26:49.120]   ♪ Takes on the nature of a servant ♪
+[00:26:49.120 --> 00:26:57.120]   ♪ Jesus, obedient to death ♪
+[00:26:57.120 --> 00:27:03.120]   ♪ The father willed to put a shield ♪
+[00:27:03.120 --> 00:27:10.120]   ♪ As a sacrifice for sin ♪
+[00:27:10.120 --> 00:27:16.120]   ♪ To be satisfied God's justice ♪
+[00:27:16.120 --> 00:27:22.120]   ♪ And victory rose again ♪
+[00:27:22.120 --> 00:27:27.120]   ♪ You are highly exalted ♪
+[00:27:27.120 --> 00:27:30.120]   ♪ In the name of the Lord ♪
+[00:27:30.120 --> 00:27:35.120]   ♪ Worthy of all praise ♪
+[00:27:35.120 --> 00:27:40.120]   ♪ You are reigning in glory ♪
+[00:27:40.120 --> 00:27:46.120]   ♪ Jesus, your name over everything ♪
+[00:27:46.120 --> 00:27:54.120]   ♪ Exalted to the highest praise ♪
+[00:27:54.120 --> 00:28:00.120]   ♪ In the name of our Father ♪
+[00:28:00.120 --> 00:28:05.120]   ♪ In the name of our Father ♪
+[00:28:05.120 --> 00:28:14.120]   ♪ MUSIC ♪
+[00:28:14.120 --> 00:28:19.120]   ♪ The tomb is empty, Christ is risen ♪
+[00:28:19.120 --> 00:28:27.120]   ♪ Jesus, the lamb once crucified ♪
+[00:28:27.120 --> 00:28:32.120]   ♪ Angels never cease to worship ♪
+[00:28:32.120 --> 00:28:39.120]   ♪ Jesus, in heaven glorifies the tomb ♪
+[00:28:39.120 --> 00:28:45.120]   ♪ To him belongs the power ♪
+[00:28:45.120 --> 00:28:52.120]   ♪ His throne of high and strength ♪
+[00:28:52.120 --> 00:28:57.120]   ♪ On glory and dominion ♪
+[00:28:57.120 --> 00:29:04.120]   ♪ To the Lord, all men are free ♪
+[00:29:04.120 --> 00:29:09.120]   ♪ You are highly exalted ♪
+[00:29:09.120 --> 00:29:12.120]   ♪ In the name of the Lord ♪
+[00:29:12.120 --> 00:29:17.120]   ♪ Worthy of all praise ♪
+[00:29:17.120 --> 00:29:22.120]   ♪ You are reigning in glory ♪
+[00:29:22.120 --> 00:29:27.120]   ♪ Jesus, your name over everything ♪
+[00:29:27.120 --> 00:29:36.120]   ♪ Exalted to the highest praise ♪
+[00:29:36.120 --> 00:29:42.120]   ♪ In the name of our Father ♪
+[00:29:42.120 --> 00:29:47.120]   ♪ In the name of our Father ♪
+[00:29:47.120 --> 00:29:52.120]   ♪ MUSIC ♪
+[00:29:52.120 --> 00:29:59.120]   ♪ Our knees will bow, our tongues proclaim ♪
+[00:29:59.120 --> 00:30:05.120]   ♪ That you are Lord of all ♪
+[00:30:05.120 --> 00:30:11.120]   ♪ Our knees will bow, our tongues proclaim ♪
+[00:30:11.120 --> 00:30:16.120]   ♪ That you are Lord of all ♪
+[00:30:16.120 --> 00:30:23.120]   ♪ Our knees will bow, our tongues proclaim ♪
+[00:30:23.120 --> 00:30:30.120]   ♪ That you are Lord of all ♪
+[00:30:30.120 --> 00:30:35.120]   ♪ You are highly exalted ♪
+[00:30:35.120 --> 00:30:41.120]   ♪ Worthy of all praise ♪
+[00:30:41.120 --> 00:30:46.120]   ♪ You are reigning in glory ♪
+[00:30:46.120 --> 00:30:54.120]   ♪ Jesus, your name over everything ♪
+[00:30:54.120 --> 00:30:56.120]   Amen. You may be seated.
+[00:30:57.120 --> 00:30:59.120]   (Bell)
+[00:30:59.120 --> 00:31:13.120]   Hello, I'm Justin, and I'll be giving my testimony.
+[00:31:13.120 --> 00:31:19.120]   I've been raised going to church, so from a young age,
+[00:31:19.120 --> 00:31:23.120]   I've known Bible stories and was aware of church culture.
+[00:31:23.120 --> 00:31:27.120]   I knew that in order to fit in, I just had to respect my elders,
+[00:31:27.120 --> 00:31:30.120]   sing worship songs, and memorize Bible verses.
+[00:31:30.120 --> 00:31:33.120]   So I attended church doing those things in attempts to convince
+[00:31:33.120 --> 00:31:37.120]   myself and others that I was a faithful Christian.
+[00:31:37.120 --> 00:31:40.120]   I became caught up in being known and well thought of,
+[00:31:40.120 --> 00:31:44.120]   neglecting whether I truly believed and loved Christ.
+[00:31:44.120 --> 00:31:47.120]   This way of living for self and feeding my pride
+[00:31:47.120 --> 00:31:50.120]   continued all throughout middle school and high school.
+[00:31:50.120 --> 00:31:53.120]   I became very good at figuring out what people liked,
+[00:31:53.120 --> 00:31:56.120]   and I strived to be well known in the world.
+[00:31:56.120 --> 00:31:59.120]   If family and friends were impressed with dance moves,
+[00:31:59.120 --> 00:32:01.120]   I would become a dancer.
+[00:32:01.120 --> 00:32:04.120]   If the world started following a certain hairstyle,
+[00:32:04.120 --> 00:32:06.120]   I would get Justin Bieber's hair.
+[00:32:06.120 --> 00:32:09.120]   If my youth pastor told me to kiss dating goodbye,
+[00:32:09.120 --> 00:32:12.120]   I would kiss dating goodbye in high school.
+[00:32:12.120 --> 00:32:15.120]   Because I'm married now, sorry.
+[00:32:15.120 --> 00:32:18.120]   I did whatever it took to make much of myself,
+[00:32:18.120 --> 00:32:21.120]   all the while deceiving myself and others that I was a good Christian
+[00:32:21.120 --> 00:32:24.120]   based on my outward appearance.
+[00:32:24.120 --> 00:32:30.120]   My destructive way of living continued until a time at retreat
+[00:32:30.120 --> 00:32:33.120]   when I heard what Christ went through on the cross in detail.
+[00:32:33.120 --> 00:32:37.120]   While I've grown up hearing that Christ died because he loved me,
+[00:32:37.120 --> 00:32:40.120]   I was shocked by the extent of his suffering.
+[00:32:40.120 --> 00:32:43.120]   I remember thinking, "Why does a holy God become a man to die
+[00:32:43.120 --> 00:32:46.120]   an excruciating death that was meant for criminals?
+[00:32:46.120 --> 00:32:49.120]   What is the reason for this kind of sacrifice?"
+[00:32:49.120 --> 00:32:53.120]   It was then that God started to slowly peel back my perception of church
+[00:32:53.120 --> 00:32:55.120]   and the way that I was living.
+[00:32:55.120 --> 00:32:57.120]   While I strove to be well liked in the world
+[00:32:57.120 --> 00:33:00.120]   and pursued what I thought would make me happy,
+[00:33:00.120 --> 00:33:04.120]   my life was purchased and given ultimate meaning to make him known.
+[00:33:04.120 --> 00:33:07.120]   As I continued attending my local church, studying his word,
+[00:33:07.120 --> 00:33:09.120]   and spending time with his people,
+[00:33:09.120 --> 00:33:14.120]   I couldn't escape the truth that following Christ looked like dying to self.
+[00:33:14.120 --> 00:33:17.120]   Matthew 16, 24-25,
+[00:33:17.120 --> 00:33:21.120]   "Then Jesus said to his disciples, 'If anyone wishes to come after me,
+[00:33:21.120 --> 00:33:24.120]   he must deny himself and take up his cross and follow me.
+[00:33:24.120 --> 00:33:27.120]   For whoever wishes to save his life will lose it,
+[00:33:27.120 --> 00:33:30.120]   but whoever loses his life for my sake will find it.'"
+[00:33:30.120 --> 00:33:32.120]   After being convicted through his word,
+[00:33:32.120 --> 00:33:35.120]   I was unwilling to fully surrender to Christ
+[00:33:35.120 --> 00:33:38.120]   and thought that I'd be able to pursue my life of sin.
+[00:33:38.120 --> 00:33:41.120]   Upon entering college, I joined different social clubs
+[00:33:41.120 --> 00:33:44.120]   hoping that I'd be able to have my relationship with Christ
+[00:33:44.120 --> 00:33:46.120]   and my sinful way of living.
+[00:33:46.120 --> 00:33:48.120]   The Lord gave me over to my sin,
+[00:33:48.120 --> 00:33:51.120]   and I quickly found myself looking for drugs, relationships,
+[00:33:51.120 --> 00:33:53.120]   and alcohol to fulfill me.
+[00:33:53.120 --> 00:33:56.120]   When I found myself in my lowest moments of intoxication
+[00:33:56.120 --> 00:33:58.120]   and broken relationships,
+[00:33:58.120 --> 00:34:03.120]   I began to blame God for allowing me to live this way.
+[00:34:03.120 --> 00:34:06.120]   I found my sinful heart becoming so lost
+[00:34:06.120 --> 00:34:10.120]   that I accused the holy God for the sin that was within me.
+[00:34:10.120 --> 00:34:13.120]   It wasn't until I reflected on how empty my life was
+[00:34:13.120 --> 00:34:15.120]   that I began to repent for my sin.
+[00:34:15.120 --> 00:34:18.120]   I lived my life actively pursuing what was right in my own eyes,
+[00:34:18.120 --> 00:34:21.120]   and I actively rejected obedience to Christ.
+[00:34:21.120 --> 00:34:23.120]   Romans 5:8 writes,
+[00:34:23.120 --> 00:34:26.120]   "But God demonstrates his own love towards us
+[00:34:26.120 --> 00:34:29.120]   in that while we were yet sinners, Christ died for us."
+[00:34:29.120 --> 00:34:33.120]   Feeling the weight of my sin, I cried out to God, and he forgave me.
+[00:34:33.120 --> 00:34:36.120]   I felt immense peace in the fact that there was nothing I could do
+[00:34:36.120 --> 00:34:39.120]   to deserve God's grace.
+[00:34:39.120 --> 00:34:42.120]   Concentrated by the gospel, I was able to cut off ties
+[00:34:42.120 --> 00:34:45.120]   with all relationships that I had built for myself.
+[00:34:45.120 --> 00:34:48.120]   I knew that my life was purchased by Christ's blood,
+[00:34:48.120 --> 00:34:51.120]   and I no longer wanted to live for myself.
+[00:34:51.120 --> 00:34:54.120]   Galatians 2:20, "I have been crucified with Christ,
+[00:34:54.120 --> 00:34:57.120]   and it is no longer I who live, but Christ lives in me.
+[00:34:57.120 --> 00:35:00.120]   And the life which I now live in the flesh,
+[00:35:00.120 --> 00:35:03.120]   I live by faith in the Son of God, who loved me and gave himself up for me."
+[00:35:03.120 --> 00:35:06.120]   After I gave up all my friendships and pursuits,
+[00:35:06.120 --> 00:35:09.120]   I continued my ministry through local church and campus ministry.
+[00:35:09.120 --> 00:35:13.120]   I was an enemy of God, but he met me in my brokenness and disobedience.
+[00:35:13.120 --> 00:35:17.120]   The life I am now able to live is abundant and free.
+[00:35:17.120 --> 00:35:21.120]   The ultimate reason for living has been given to me--
+[00:35:21.120 --> 00:35:24.120]   glorifying God and enjoying him forever.
+[00:35:24.120 --> 00:35:28.120]   It is only by his grace that I am able to live in surrender and obedience.
+[00:35:28.120 --> 00:35:30.120]   Thank you.
+[00:35:30.120 --> 00:35:37.120]   [applause]
+[00:35:37.120 --> 00:35:47.120]   Thank you for your testimony.
+[00:35:47.120 --> 00:35:50.120]   Justin, I appreciate your testimony.
+[00:35:50.120 --> 00:35:53.120]   As we enter into the water,
+[00:35:53.120 --> 00:35:56.120]   do you understand that you symbolize your union with Christ in his death?
+[00:35:56.120 --> 00:35:58.120]   And when you rise from the water,
+[00:35:58.120 --> 00:36:00.120]   you realize that your life is united with Christ's resurrected life?
+[00:36:00.120 --> 00:36:02.120]   Yes.
+[00:36:02.120 --> 00:36:07.120]   I baptize you now in the name of the Father, of the Son, and of the Holy Spirit.
+[00:36:07.120 --> 00:36:15.120]   [applause]
+[00:36:26.120 --> 00:36:29.120]   Praise God.
+[00:36:29.120 --> 00:36:33.120]   Please take your Bible to 1 Samuel 8.
+[00:36:33.120 --> 00:36:38.120]   We will be taking a break from the study that we've been doing
+[00:36:38.120 --> 00:36:43.120]   that Pastor Peter Kim has been preaching in the Gospel of Luke.
+[00:36:43.120 --> 00:36:48.120]   We'll take a moment to pray for him as he is in Atlanta,
+[00:36:48.120 --> 00:36:54.120]   preaching, edifying another community there for a retreat.
+[00:36:54.120 --> 00:37:00.120]   But here, let's read the passage that we will be studying this morning.
+[00:37:00.120 --> 00:37:03.120]   It comes from 1 Samuel 8.
+[00:37:03.120 --> 00:37:06.120]   I'll read the first several verses.
+[00:37:06.120 --> 00:37:09.120]   It says, "And it came about when Samuel was old
+[00:37:09.120 --> 00:37:12.120]   that he appointed his sons judge over Israel.
+[00:37:12.120 --> 00:37:16.120]   The name of his firstborn was Joel, and the name of his second, Abijah.
+[00:37:16.120 --> 00:37:19.120]   They were judging in Beersheba.
+[00:37:19.120 --> 00:37:22.120]   His sons, however, did not walk in his ways,
+[00:37:22.120 --> 00:37:27.120]   but turned aside after dishonest gain, and took bribes and perverted justice.
+[00:37:27.120 --> 00:37:32.120]   Then all the elders of Israel gathered together and came to Samuel at Ramah.
+[00:37:32.120 --> 00:37:36.120]   And they said to him, 'Behold, you have grown old,
+[00:37:36.120 --> 00:37:38.120]   and your sons do not walk in your ways.
+[00:37:38.120 --> 00:37:42.120]   Now appoint a king for us to judge us like all the nations.'
+[00:37:42.120 --> 00:37:45.120]   But the thing was displeasing in the sight of Samuel
+[00:37:45.120 --> 00:37:50.120]   when they said, 'Give us a king to judge us.'
+[00:37:50.120 --> 00:37:52.120]   And Samuel prayed to the Lord.
+[00:37:52.120 --> 00:37:54.120]   And the Lord said to Samuel, 'Listen to the voice of the people
+[00:37:54.120 --> 00:37:57.120]   in regard to all that they say to you,
+[00:37:57.120 --> 00:37:59.120]   for they have not rejected you,
+[00:37:59.120 --> 00:38:03.120]   but they have rejected me from being king over them.'"
+[00:38:03.120 --> 00:38:05.120]   Let's pray.
+[00:38:05.120 --> 00:38:13.120]   Father, we ask for your blessing on the reading and hearing of your Word.
+[00:38:13.120 --> 00:38:17.120]   We pray, Father God, that it would bring to us deep conviction,
+[00:38:17.120 --> 00:38:22.120]   that it would constantly help us to see from your perspective and your angle.
+[00:38:22.120 --> 00:38:27.120]   We pray for Pastor Peter as he also preaches and ministers to the people through the Word.
+[00:38:27.120 --> 00:38:31.120]   We ask, God, that we would be given strength and boldness and clarity,
+[00:38:31.120 --> 00:38:34.120]   that we may communicate your Word to all the people.
+[00:38:34.120 --> 00:38:37.120]   We thank you in Christ's name. Amen.
+[00:38:37.120 --> 00:38:42.120]   Now, just a brief note, I hope you guys are excited about the schedule change,
+[00:38:42.120 --> 00:38:45.120]   that we're going to be having three services.
+[00:38:45.120 --> 00:38:48.120]   I want to also extend a thank you in advance,
+[00:38:48.120 --> 00:38:52.120]   because we know that that's going to be a level of adjustment for all of you, right?
+[00:38:52.120 --> 00:38:57.120]   For those of you who are here, if you try to go to the third service,
+[00:38:57.120 --> 00:39:01.120]   then that's pretty late into the afternoon and your stomachs may growl.
+[00:39:01.120 --> 00:39:06.120]   Thank you in advance for being in the service time while you're, you know,
+[00:39:06.120 --> 00:39:09.120]   typically maybe through a little bit of the lunch time.
+[00:39:09.120 --> 00:39:11.120]   And there's going to be an 8 a.m. service,
+[00:39:11.120 --> 00:39:14.120]   and those of you guys who normally attend at 9 a.m.,
+[00:39:14.120 --> 00:39:16.120]   you might have to go to the earlier one at 8,
+[00:39:16.120 --> 00:39:18.120]   which means you'll have to get up earlier.
+[00:39:18.120 --> 00:39:20.120]   It's going to be a little bit of an inconvenience.
+[00:39:20.120 --> 00:39:23.120]   Thank you in advance for all the adjustments that you will have to make.
+[00:39:23.120 --> 00:39:26.120]   As you'd imagine, to make a decision like that,
+[00:39:26.120 --> 00:39:29.120]   we went through tons of iterations and options.
+[00:39:29.120 --> 00:39:32.120]   We had a document with just a list, a laundry list,
+[00:39:32.120 --> 00:39:35.120]   of almost 15 different time schedules.
+[00:39:35.120 --> 00:39:37.120]   We even did some Internet research.
+[00:39:37.120 --> 00:39:40.120]   We talked to friends who've had, you know, multiple service--
+[00:39:40.120 --> 00:39:42.120]   multiple services at their churches.
+[00:39:42.120 --> 00:39:46.120]   Please know after a lot of deliberation, we're going to be going this way.
+[00:39:46.120 --> 00:39:49.120]   But just for fun, I know Pastor Peter Kim in the previous week
+[00:39:49.120 --> 00:39:52.120]   did like a quick survey, but I just wanted to see just for fun.
+[00:39:52.120 --> 00:39:57.120]   How many of you guys would actually consider a much later midday service?
+[00:39:57.120 --> 00:40:01.120]   So raise your hand if you'd be down for a 1.30 start service,
+[00:40:01.120 --> 00:40:03.120]   and then that would probably go till about 3,
+[00:40:03.120 --> 00:40:05.120]   but that would just be kind of--you do your lunch,
+[00:40:05.120 --> 00:40:07.120]   and then you come in for service.
+[00:40:07.120 --> 00:40:10.120]   How many of you guys would prefer that?
+[00:40:10.120 --> 00:40:12.120]   Very little. Okay.
+[00:40:12.120 --> 00:40:13.120]   Here's another fun question.
+[00:40:13.120 --> 00:40:17.120]   How many of you guys are voting for Joe Biden next year?
+[00:40:17.120 --> 00:40:19.120]   Oh, very--I'm kidding.
+[00:40:19.120 --> 00:40:20.120]   I'm kidding. It's a joke.
+[00:40:20.120 --> 00:40:23.120]   I wanted to kind of tease you into a quick survey.
+[00:40:23.120 --> 00:40:27.120]   The reason why I did that wasn't because I'm trying to get political,
+[00:40:27.120 --> 00:40:31.120]   but because we're dropping down into a scenario in the Bible
+[00:40:31.120 --> 00:40:36.120]   where there is in some sense a crisis of leadership.
+[00:40:36.120 --> 00:40:38.120]   We're dropping down into an interesting situation
+[00:40:38.120 --> 00:40:41.120]   where the people demand a king.
+[00:40:41.120 --> 00:40:44.120]   So I naturally thought of, oh, we are currently in a situation
+[00:40:44.120 --> 00:40:49.120]   in our American history where the decision of who to pick for president
+[00:40:49.120 --> 00:40:53.120]   has become incredibly intense.
+[00:40:53.120 --> 00:40:54.120]   People have said, "You know what?
+[00:40:54.120 --> 00:40:57.120]   Long time ago, Democrats and Republicans, they could be friends."
+[00:40:57.120 --> 00:41:00.120]   But it seems as though the divide has become so intense
+[00:41:00.120 --> 00:41:05.120]   that it feels like they can't be, and that's very unfortunate.
+[00:41:05.120 --> 00:41:08.120]   In some sense, it's just maybe people have--
+[00:41:08.120 --> 00:41:13.120]   their anger has become more increased over the years.
+[00:41:13.120 --> 00:41:16.120]   Maybe people and their conflict, their social divide,
+[00:41:16.120 --> 00:41:19.120]   people have kind of hypothesized that we live in a generation
+[00:41:19.120 --> 00:41:23.120]   that's very easy through the Internet to have a distance enough
+[00:41:23.120 --> 00:41:25.120]   where you can't have that kind of conflict.
+[00:41:25.120 --> 00:41:27.120]   That may be all true.
+[00:41:27.120 --> 00:41:30.120]   But it may be also true that the actual issues at hand,
+[00:41:30.120 --> 00:41:38.120]   whether it be things like abortion, border control, safety, taxation,
+[00:41:38.120 --> 00:41:40.120]   all of these laws matter.
+[00:41:40.120 --> 00:41:42.120]   Now, my point isn't to get into all that,
+[00:41:42.120 --> 00:41:46.120]   although I do think that it's not thus says the Lord,
+[00:41:46.120 --> 00:41:49.120]   but the Scripture actually has a lot to say about good laws.
+[00:41:49.120 --> 00:41:52.120]   So I believe it's a good, wise thing for Christians
+[00:41:52.120 --> 00:41:55.120]   to know about what laws are in their country,
+[00:41:55.120 --> 00:41:59.120]   what policies are fair and just, and that's just a side note.
+[00:41:59.120 --> 00:42:03.120]   But I want to raise all this because I have a fun question for you,
+[00:42:03.120 --> 00:42:08.120]   and that question is, what if on the ballot, on the federal level,
+[00:42:08.120 --> 00:42:11.120]   they said, "We have a new initiative."
+[00:42:11.120 --> 00:42:14.120]   You know, with all of this back and forth,
+[00:42:14.120 --> 00:42:16.120]   changing of guard and administrations,
+[00:42:16.120 --> 00:42:19.120]   having this great divide of Republicans and Democrats,
+[00:42:19.120 --> 00:42:24.120]   we think a better solution would be to have more power in the government.
+[00:42:24.120 --> 00:42:28.120]   Let's go back to having a monarch.
+[00:42:28.120 --> 00:42:30.120]   Let's have a king.
+[00:42:30.120 --> 00:42:34.120]   Someone who could go in there and they could make changes today,
+[00:42:34.120 --> 00:42:37.120]   not this long, drawn-out deliberation,
+[00:42:37.120 --> 00:42:40.120]   the bill goes to the House and then the Senate and all these different places
+[00:42:40.120 --> 00:42:42.120]   and then it gets vetoed and nothing's being done.
+[00:42:42.120 --> 00:42:44.120]   Let's just have a king.
+[00:42:44.120 --> 00:42:46.120]   I'll confess to you, there were one day,
+[00:42:46.120 --> 00:42:49.120]   there were a couple of days when I started to daydream and thought,
+[00:42:49.120 --> 00:42:51.120]   "What if I was king?"
+[00:42:51.120 --> 00:42:53.120]   You know, what would I do?
+[00:42:53.120 --> 00:42:56.120]   Would I go in there and say, "You, you, you're fired."
+[00:42:56.120 --> 00:42:59.120]   You know, and would I go in there clean house?
+[00:42:59.120 --> 00:43:03.120]   Would I start making implementation about policy and such?
+[00:43:03.120 --> 00:43:06.120]   Now, I say that because when we read this passage,
+[00:43:06.120 --> 00:43:11.120]   you saw that they were demanding a king.
+[00:43:11.120 --> 00:43:15.120]   And I want to say, for us as believers, yes, in wisdom,
+[00:43:15.120 --> 00:43:19.120]   we should care about what's going on in our country,
+[00:43:19.120 --> 00:43:25.120]   but we as believers, we have a king.
+[00:43:25.120 --> 00:43:29.120]   The country may see us as a little bit strange
+[00:43:29.120 --> 00:43:34.120]   because we operate as though we have the king of kings,
+[00:43:34.120 --> 00:43:39.120]   a monarch who has actually a say into every single facet of our lives.
+[00:43:39.120 --> 00:43:43.120]   As a matter of fact, there is no realm or dominion of my life
+[00:43:43.120 --> 00:43:47.120]   where I have so much liberty God doesn't have his hand in.
+[00:43:47.120 --> 00:43:50.120]   He has his voice in everything.
+[00:43:50.120 --> 00:43:53.120]   So in actuality, against, I guess you could even say,
+[00:43:53.120 --> 00:43:57.120]   the liberties of American culture, we would be seen as strange.
+[00:43:57.120 --> 00:44:00.120]   We already abide under a king.
+[00:44:00.120 --> 00:44:03.120]   And that's going to be the main thrust of the sermon.
+[00:44:03.120 --> 00:44:06.120]   And then I want to just give you an advance just apology.
+[00:44:06.120 --> 00:44:10.120]   The tone of the sermon is going to feel a little bit like frustration.
+[00:44:10.120 --> 00:44:13.120]   And I'm going to do this motion quite a bit.
+[00:44:13.120 --> 00:44:15.120]   What? Okay.
+[00:44:15.120 --> 00:44:19.120]   Because we jump down into a context in which the people
+[00:44:19.120 --> 00:44:24.120]   who already have the Lord demand a king.
+[00:44:24.120 --> 00:44:27.120]   So let's together jump down into the context.
+[00:44:27.120 --> 00:44:30.120]   First, we're going to move down through the story in movements,
+[00:44:30.120 --> 00:44:33.120]   but first we have to lay the context and the demand.
+[00:44:33.120 --> 00:44:37.120]   And what we see actually in the context of the story
+[00:44:37.120 --> 00:44:40.120]   is not just that everything was going fine, the people were obeying,
+[00:44:40.120 --> 00:44:43.120]   and then the people thought, you know, it would be really great
+[00:44:43.120 --> 00:44:46.120]   to add to our society is an amazing king.
+[00:44:46.120 --> 00:44:53.120]   No, the history of this nation is riddled with sin, suffering, and oppression.
+[00:44:53.120 --> 00:44:57.120]   You can call it a vicious cycle, so much so the book of Judges
+[00:44:57.120 --> 00:45:01.120]   has this rotating circle of incredible pain.
+[00:45:01.120 --> 00:45:06.120]   The scripture said that the people kept on doing whatever was right in their eyes,
+[00:45:06.120 --> 00:45:10.120]   and therefore God judged them by bringing a foreign pagan nation
+[00:45:10.120 --> 00:45:13.120]   to come over them and oppress them, sometimes seven years,
+[00:45:13.120 --> 00:45:18.120]   sometimes 15, sometimes even as long as 40 years of oppression.
+[00:45:18.120 --> 00:45:23.120]   The people would cry out in angst, "Lord, have mercy on us.
+[00:45:23.120 --> 00:45:27.120]   Save us and deliver us." God would raise up a judge.
+[00:45:27.120 --> 00:45:30.120]   They were not always that good.
+[00:45:30.120 --> 00:45:33.120]   They would be delivered, they would have victory in military battles,
+[00:45:33.120 --> 00:45:36.120]   but then they would fall over to the same sin.
+[00:45:36.120 --> 00:45:41.120]   In that context, the scripture has actually set up a crisis moment
+[00:45:41.120 --> 00:45:44.120]   and drama in the story because the book of Judges would repeat
+[00:45:44.120 --> 00:45:48.120]   over and over again, and there was no king in Israel.
+[00:45:48.120 --> 00:45:52.120]   There was no king in Israel, and people did whatever that was right
+[00:45:52.120 --> 00:45:56.120]   in their own eyes. That's the context.
+[00:45:56.120 --> 00:46:02.120]   And then, so please read with me verses 1 through 3 of 1 Samuel 8,
+[00:46:02.120 --> 00:46:07.120]   and what we find is that there are plenty of excuses.
+[00:46:07.120 --> 00:46:10.120]   What do I mean? Verse 1, "And it came about when Samuel
+[00:46:10.120 --> 00:46:15.120]   was old that he appointed his sons judges over Israel.
+[00:46:15.120 --> 00:46:19.120]   Now the name of his son, firstborn, was Joel, and the name of his second,
+[00:46:19.120 --> 00:46:22.120]   Abijah. They were judging in Beersheba.
+[00:46:22.120 --> 00:46:26.120]   His sons, however, did not walk in his ways, but turned aside
+[00:46:26.120 --> 00:46:30.120]   after dishonest gain and took bribes and perverted justice."
+[00:46:30.120 --> 00:46:34.120]   The first excuse that people could have for why they made this demand
+[00:46:34.120 --> 00:46:38.120]   was that Samuel, the great judge, Samuel was essentially set up
+[00:46:38.120 --> 00:46:42.120]   as the last judge of Israel before the kings.
+[00:46:42.120 --> 00:46:48.120]   He's getting old now, and in similar ways, when the leader is old,
+[00:46:48.120 --> 00:46:52.120]   we start feeling this level of diminishing confidence.
+[00:46:52.120 --> 00:46:56.120]   It's not the same having a young man with gusto and passion wanting to go
+[00:46:56.120 --> 00:47:00.120]   and conquer or having this vibrancy, but rather you have an individual
+[00:47:00.120 --> 00:47:04.120]   who is soon to pass. That was their first excuse.
+[00:47:04.120 --> 00:47:10.120]   Samuel, you're old. Excuse number two, Samuel essentially
+[00:47:10.120 --> 00:47:14.120]   took his sons--my guess is that he had his sons be with him
+[00:47:14.120 --> 00:47:18.120]   when he was giving the judgments, when he was making decisions,
+[00:47:18.120 --> 00:47:22.120]   giving counsel, all that kind of stuff, and in some sense, there's always
+[00:47:22.120 --> 00:47:25.120]   a risk. He placed his sons as judges.
+[00:47:25.120 --> 00:47:28.120]   The position of judge is not like kingship.
+[00:47:28.120 --> 00:47:32.120]   It doesn't happen where, "Oh, since you're the son of the king,
+[00:47:32.120 --> 00:47:36.120]   you're the prince next to the throne." That's not how judges work.
+[00:47:36.120 --> 00:47:41.120]   They're appointed by God. Through the previous judge,
+[00:47:41.120 --> 00:47:44.120]   they're appointed, and he set up his sons.
+[00:47:44.120 --> 00:47:48.120]   The excuse was, "Man, Samuel, your plan failed.
+[00:47:48.120 --> 00:47:52.120]   You set up your sons, and they are now wicked."
+[00:47:52.120 --> 00:47:57.120]   I just want to make a side point. In some sense, each and every single one
+[00:47:57.120 --> 00:48:01.120]   of us is susceptible to this temptation. We have to be incredibly careful
+[00:48:01.120 --> 00:48:06.120]   with leadership and authority. Why? Because it corrupts.
+[00:48:06.120 --> 00:48:12.120]   Power corrupts. We're not so strong that if we had the authority
+[00:48:12.120 --> 00:48:17.120]   and the power and the backing of God behind us, that we would not use
+[00:48:17.120 --> 00:48:21.120]   our authority for our own gain. In our day today, we have that.
+[00:48:21.120 --> 00:48:24.120]   Are there politicians who use their power, position, and authority
+[00:48:24.120 --> 00:48:29.120]   for selfish gain? We even see it in leadership positions at church.
+[00:48:29.120 --> 00:48:35.120]   We see it perhaps in our workplaces. People are susceptible to this kind of sin.
+[00:48:35.120 --> 00:48:39.120]   Yes? But then when that happens, the reason why I bring it up
+[00:48:39.120 --> 00:48:46.120]   is the people suffer. The unmentioned excuse is if they are being taxed this way,
+[00:48:46.120 --> 00:48:50.120]   if the people are under bad leadership, what ends up happening is they suffer.
+[00:48:50.120 --> 00:48:54.120]   And so not only in this situation, but in many situations before,
+[00:48:54.120 --> 00:48:58.120]   the nation, the people would say, "The priests you have set up,
+[00:48:58.120 --> 00:49:03.120]   they keep demanding the best. They say it's for God, and then they take it home.
+[00:49:03.120 --> 00:49:07.120]   The priests are essentially leeching off of us."
+[00:49:07.120 --> 00:49:10.120]   And so the unspoken excuse is, "Samuel, not only are you old,
+[00:49:10.120 --> 00:49:15.120]   but your sons are untrustworthy. We have been suffering under this."
+[00:49:15.120 --> 00:49:20.120]   And so with those excuses, they demand a king.
+[00:49:20.120 --> 00:49:26.120]   Within that, what would you say? If you were Samuel and you were giving advice,
+[00:49:26.120 --> 00:49:32.120]   would you say, "Yeah, I know," because you feel guilty that it was your decision that caused this?
+[00:49:32.120 --> 00:49:36.120]   Would you say, "I know, I get it, I get it, it's hard."
+[00:49:36.120 --> 00:49:40.120]   May I give you a reminder that to us, yes, there are reasons,
+[00:49:40.120 --> 00:49:47.120]   and maybe legitimate reasons, sometimes to have a desire to have some false solution,
+[00:49:47.120 --> 00:49:51.120]   but excuses are excuses for a reason.
+[00:49:51.120 --> 00:49:57.120]   To us, there is no legitimate excuse to doubt God Almighty.
+[00:49:57.120 --> 00:50:02.120]   There is no legitimate excuse to go and doubt the king.
+[00:50:02.120 --> 00:50:08.120]   Here, the way we should read it is, "Samuel was old, and therefore they stopped trusting God.
+[00:50:08.120 --> 00:50:14.120]   The nation had two sons who were bad judges, and therefore they lost sight of the king."
+[00:50:14.120 --> 00:50:17.120]   Why is that even an excuse?
+[00:50:17.120 --> 00:50:22.120]   This is bogus to think that because we had two judges who were young, and they were corrupt,
+[00:50:22.120 --> 00:50:29.120]   and they were after dishonest gain, let's go ahead and give more power to another man.
+[00:50:29.120 --> 00:50:35.120]   It's so humanistic. It's so humanistic.
+[00:50:35.120 --> 00:50:39.120]   And so by way of conviction, we realize this is an absolutely foolish demand.
+[00:50:39.120 --> 00:50:44.120]   What in the world are you asking when you already have a king?
+[00:50:44.120 --> 00:50:52.120]   And so the people say to Samuel, "Appoint us a king who will judge us like all the nations."
+[00:50:52.120 --> 00:50:54.120]   That's verse 5.
+[00:50:54.120 --> 00:50:59.120]   And I'm still trying to set up the context for you, but now we look at this foolish demand,
+[00:50:59.120 --> 00:51:04.120]   and in just that short sentence that the people raise up to Samuel, we get two things.
+[00:51:04.120 --> 00:51:09.120]   Not only do we get, yes, they're looking humanistically to a man who would have power,
+[00:51:09.120 --> 00:51:12.120]   but it also tells us why.
+[00:51:12.120 --> 00:51:14.120]   What is the reason?
+[00:51:14.120 --> 00:51:18.120]   Well, first, when we think of what is it they want, they say in an interesting and strange way,
+[00:51:18.120 --> 00:51:21.120]   "Appoint us a king who will judge us."
+[00:51:21.120 --> 00:51:23.120]   We don't normally talk like that, right?
+[00:51:23.120 --> 00:51:28.120]   "Give us a president. In our next term, we have to have a president who's going to judge me.
+[00:51:28.120 --> 00:51:32.120]   I want him to evaluate me and tell me what I did wrong.
+[00:51:32.120 --> 00:51:37.120]   I want him to give critical analysis and constructive criticism so I can be better."
+[00:51:37.120 --> 00:51:39.120]   Is that what he's saying? No.
+[00:51:39.120 --> 00:51:42.120]   What they want is one who's a ruler.
+[00:51:42.120 --> 00:51:47.120]   If you want somebody who's a judge, you want that person to institute laws.
+[00:51:47.120 --> 00:51:49.120]   You want that person to represent you.
+[00:51:49.120 --> 00:51:52.120]   You want that person to fight for you.
+[00:51:52.120 --> 00:51:55.120]   Isn't that what we want?
+[00:51:55.120 --> 00:52:00.120]   And in a sense, what that means is we want to set up our own laws,
+[00:52:00.120 --> 00:52:03.120]   because these people already have their laws.
+[00:52:03.120 --> 00:52:06.120]   Don't you guys have the Torah?
+[00:52:06.120 --> 00:52:09.120]   They want their own policies. They want their own way.
+[00:52:09.120 --> 00:52:13.120]   Why? Because they want to be like the other nations.
+[00:52:13.120 --> 00:52:16.120]   They say it. "We want to be like the other nations."
+[00:52:16.120 --> 00:52:20.120]   And then you realize, "What in the world?
+[00:52:20.120 --> 00:52:23.120]   Why would you want to be like the other nations?
+[00:52:23.120 --> 00:52:27.120]   You're the people of God," for crying out loud.
+[00:52:27.120 --> 00:52:29.120]   You have your own identity.
+[00:52:29.120 --> 00:52:33.120]   Why in the world would you like the other nations?
+[00:52:33.120 --> 00:52:36.120]   If you meditate on it, could it be?
+[00:52:36.120 --> 00:52:42.120]   Could it be precisely because God wanted His nation to be different?
+[00:52:42.120 --> 00:52:44.120]   In what way?
+[00:52:44.120 --> 00:52:46.120]   God wanted His nation, in some sense,
+[00:52:46.120 --> 00:52:49.120]   comparative to the other nations, to be small.
+[00:52:49.120 --> 00:52:51.120]   You are a small people.
+[00:52:51.120 --> 00:52:55.120]   God wanted His army to be small. You have a small army.
+[00:52:55.120 --> 00:52:57.120]   Do you remember the story of Gideon?
+[00:52:57.120 --> 00:53:01.120]   He gathered all these armies of God, and they were about to go into battle,
+[00:53:01.120 --> 00:53:04.120]   and God said, "You know what? I want you to dwindle that down."
+[00:53:04.120 --> 00:53:06.120]   "Really? Are you going to be with us?"
+[00:53:06.120 --> 00:53:09.120]   "You know what? Since you said that, I want you to dwindle it down even more."
+[00:53:09.120 --> 00:53:13.120]   Why? Because they're a nation with a mighty king.
+[00:53:13.120 --> 00:53:15.120]   They're not a nation with a huge army.
+[00:53:15.120 --> 00:53:19.120]   They're a nation with a mighty Lord.
+[00:53:19.120 --> 00:53:21.120]   And maybe just for that very reason,
+[00:53:21.120 --> 00:53:24.120]   the nation of Israel completely lost sight of that and said,
+[00:53:24.120 --> 00:53:27.120]   "Dude, that nation over there, that huge army,
+[00:53:27.120 --> 00:53:30.120]   we want a king that will build us an army."
+[00:53:30.120 --> 00:53:33.120]   You know what else? That nation over there has a huge cattle.
+[00:53:33.120 --> 00:53:36.120]   This nation, our nation, the nation of Israel,
+[00:53:36.120 --> 00:53:39.120]   we've got to sacrifice lambs, cows, birds,
+[00:53:39.120 --> 00:53:42.120]   every time we sin, every year on Yom Kippur, and more.
+[00:53:42.120 --> 00:53:44.120]   But look at them.
+[00:53:44.120 --> 00:53:48.120]   So many. So prosperous.
+[00:53:48.120 --> 00:53:51.120]   They wanted to be like the other nations.
+[00:53:51.120 --> 00:53:54.120]   They wanted to look like them. They wanted to have their own laws.
+[00:53:54.120 --> 00:53:58.120]   And all of that was an absolute rejection of God.
+[00:53:58.120 --> 00:54:01.120]   And so for us, imagine if you were Samuel,
+[00:54:01.120 --> 00:54:05.120]   what would you say to these people who are demanding a king?
+[00:54:05.120 --> 00:54:08.120]   Turn your Bibles over to Leviticus chapter 20,
+[00:54:08.120 --> 00:54:12.120]   verse 20-24. How shall we respond to this?
+[00:54:12.120 --> 00:54:15.120]   I'm going to read a little larger portion here.
+[00:54:15.120 --> 00:54:18.120]   In Leviticus 20, verse 20-24,
+[00:54:18.120 --> 00:54:21.120]   God's going to talk about His law and His intent,
+[00:54:21.120 --> 00:54:24.120]   and He has said it so clearly.
+[00:54:24.120 --> 00:54:27.120]   He says, "You, therefore, are to keep all My statutes
+[00:54:27.120 --> 00:54:30.120]   and My ordinances and to do them,
+[00:54:30.120 --> 00:54:34.120]   so that the land to which I am bringing you to live will not spew you out.
+[00:54:34.120 --> 00:54:37.120]   Moreover, you shall not follow the customs of the nations
+[00:54:37.120 --> 00:54:39.120]   which I will drive out before you,
+[00:54:39.120 --> 00:54:44.120]   for they did all these things, and therefore I have abhorred them."
+[00:54:44.120 --> 00:54:49.120]   What? You want to be like the nations that God hates?
+[00:54:49.120 --> 00:54:53.120]   Clearly, God is not in their consideration.
+[00:54:53.120 --> 00:54:55.120]   Verse 24, "Hence I have said to you,
+[00:54:55.120 --> 00:55:00.120]   you are to possess their land, and I Myself will give it to you to possess it,
+[00:55:00.120 --> 00:55:02.120]   a land flowing with milk and honey.
+[00:55:02.120 --> 00:55:05.120]   I am the Lord your God."
+[00:55:05.120 --> 00:55:08.120]   God is the provider. He's going to deliver the land.
+[00:55:08.120 --> 00:55:12.120]   He's going to make them successful. He's their warrior.
+[00:55:12.120 --> 00:55:15.120]   So then, verse 26, "Thus you are to be holy to Me,
+[00:55:15.120 --> 00:55:17.120]   for I the Lord am holy,
+[00:55:17.120 --> 00:55:22.120]   and I have set you apart from the peoples to be Mine.
+[00:55:22.120 --> 00:55:25.120]   Likewise, you and I, we are told in the New Testament,
+[00:55:25.120 --> 00:55:28.120]   do not be conformed to this world.
+[00:55:28.120 --> 00:55:33.120]   This world will tell you all sorts of things that you need, you must have.
+[00:55:33.120 --> 00:55:36.120]   Don't be conformed by that."
+[00:55:36.120 --> 00:55:40.120]   You know, there was a thing I did see when I was looking at news,
+[00:55:40.120 --> 00:55:46.120]   when I was looking at who people are selecting for their president and stuff.
+[00:55:46.120 --> 00:55:49.120]   I have seen in years where there's an election,
+[00:55:49.120 --> 00:55:55.120]   people cry and weep because their candidate didn't win.
+[00:55:55.120 --> 00:55:58.120]   I have seen people literally bawl.
+[00:55:58.120 --> 00:56:03.120]   Why? Because it felt like their warrior was dead.
+[00:56:03.120 --> 00:56:05.120]   And I have seen people on the other side,
+[00:56:05.120 --> 00:56:07.120]   their president wins, and they're elated.
+[00:56:07.120 --> 00:56:09.120]   They'll go out in the streets.
+[00:56:09.120 --> 00:56:11.120]   It looks like they're riding, but they're just celebrating.
+[00:56:11.120 --> 00:56:13.120]   They're high-fiving strangers.
+[00:56:13.120 --> 00:56:18.120]   They're just elated to have their king win.
+[00:56:18.120 --> 00:56:22.120]   In some sense, that's a strange conformity to this world.
+[00:56:22.120 --> 00:56:30.120]   It would be eerie for a Christian who has a king to behave like the world.
+[00:56:30.120 --> 00:56:35.120]   Now, this is the exact point I want to make.
+[00:56:35.120 --> 00:56:40.120]   We're going back to this idea that the nation was complaining,
+[00:56:40.120 --> 00:56:42.120]   but Samuel is old. There's a crisis.
+[00:56:42.120 --> 00:56:46.120]   There's like unrighteousness. All true.
+[00:56:46.120 --> 00:56:49.120]   And what's more, there isn't any kind of plan for the future.
+[00:56:49.120 --> 00:56:51.120]   What are we supposed to do?
+[00:56:51.120 --> 00:56:55.120]   And then their idea was, then set up this king.
+[00:56:55.120 --> 00:56:58.120]   But as you recall, this would be entirely wrong
+[00:56:58.120 --> 00:57:02.120]   because God has said, "I've always been on the throne."
+[00:57:02.120 --> 00:57:06.120]   Take your Bibles to Isaiah 6,
+[00:57:06.120 --> 00:57:11.120]   and God is going to say with emphatic vision,
+[00:57:11.120 --> 00:57:15.120]   "You always have the king."
+[00:57:15.120 --> 00:57:20.120]   In Isaiah 6, this is where we get many of our songs of "Holy, holy, holy is the Lord."
+[00:57:20.120 --> 00:57:28.120]   And what actually is the scenario is that it's the year of King Uzziah's death.
+[00:57:28.120 --> 00:57:32.120]   Eventually, King Uzziah's son will become king, but he's not a very good king.
+[00:57:32.120 --> 00:57:35.120]   As you know, the history of the Israelites,
+[00:57:35.120 --> 00:57:39.120]   there are many kings who are absolute dunce.
+[00:57:39.120 --> 00:57:42.120]   So then, in the year of King Uzziah's death, he says,
+[00:57:42.120 --> 00:57:45.120]   "I saw the Lord sitting on the throne, lofty and exalted,
+[00:57:45.120 --> 00:57:50.120]   with the train of His robe, filling the temple."
+[00:57:50.120 --> 00:57:53.120]   And then turn your eyes to later down in verse 5,
+[00:57:53.120 --> 00:57:57.120]   and then he said, "Then I said, 'Woe is me! I am ruined,
+[00:57:57.120 --> 00:58:01.120]   because I'm a man of unclean lips, and I live amongst a people of unclean lips,
+[00:58:01.120 --> 00:58:05.120]   for my eyes have seen the king.'"
+[00:58:05.120 --> 00:58:09.120]   And God is going to say emphatically to these people who make this request,
+[00:58:09.120 --> 00:58:12.120]   "Give us a king who's going to make good laws for us.
+[00:58:12.120 --> 00:58:14.120]   Give us a king who's going to represent us and fight for us."
+[00:58:14.120 --> 00:58:19.120]   He's going to say, "But I'm still on the throne."
+[00:58:19.120 --> 00:58:24.120]   Jot this down as it passes. Isaiah 33, verse 22.
+[00:58:24.120 --> 00:58:28.120]   The Lord says that He is our judge.
+[00:58:28.120 --> 00:58:30.120]   The Lord is our lawgiver.
+[00:58:30.120 --> 00:58:35.120]   The Lord is our king, and He will save us.
+[00:58:35.120 --> 00:58:38.120]   You know, the people, the nation of Israel is interesting
+[00:58:38.120 --> 00:58:43.120]   because there are so many times when they forcibly try to make people king.
+[00:58:43.120 --> 00:58:46.120]   They're totally walking by sight and not by faith,
+[00:58:46.120 --> 00:58:50.120]   and they try to push mighty warriors into kingship.
+[00:58:50.120 --> 00:58:54.120]   A passage in Judges 8, verses 22-23,
+[00:58:54.120 --> 00:58:57.120]   it says that the men of Israel said to Gideon,
+[00:58:57.120 --> 00:59:02.120]   "Rule over us, both you and your son, also your sons' sons,
+[00:59:02.120 --> 00:59:07.120]   for you have delivered us from the hand of the Midians."
+[00:59:07.120 --> 00:59:11.120]   As soon as he said that, the answer is, "Wrong."
+[00:59:11.120 --> 00:59:15.120]   Gideon was a nervous wreck. Gideon did not know.
+[00:59:15.120 --> 00:59:19.120]   Gideon, yes, he's a good warrior, but remember, he's the guy who's like,
+[00:59:19.120 --> 00:59:22.120]   "God, are you really going to go with us? How are we supposed to know?
+[00:59:22.120 --> 00:59:24.120]   You know what I'm going to do? I'm going to put out this fleece,
+[00:59:24.120 --> 00:59:27.120]   and if it's wet, then I know you're going to be with us."
+[00:59:27.120 --> 00:59:30.120]   In some sense, he was filled with doubt, anxiety, and fear,
+[00:59:30.120 --> 00:59:32.120]   but he followed the Lord.
+[00:59:32.120 --> 00:59:36.120]   And so the story is not that, "Oh, Gideon, good job. You delivered us."
+[00:59:36.120 --> 00:59:42.120]   Wrong. God used you. God delivered us.
+[00:59:42.120 --> 00:59:45.120]   And so look what Gideon says, verse 23,
+[00:59:45.120 --> 00:59:49.120]   "But Gideon said to them, 'I will not rule over you,
+[00:59:49.120 --> 00:59:53.120]   nor shall my son rule over you; the Lord shall rule over you.'
+[00:59:53.120 --> 00:59:57.120]   When they said, 'You, your sons, and your sons after, rule over us,'
+[00:59:57.120 --> 00:59:59.120]   they wanted a king."
+[00:59:59.120 --> 01:00:01.120]   Gideon knew exactly what they were asking for,
+[01:00:01.120 --> 01:00:08.120]   and so he said, "No, it's not me. You have a king.
+[01:00:08.120 --> 01:00:12.120]   I hope I did a good job belaboring this point with you.
+[01:00:12.120 --> 01:00:14.120]   You have a king, you have a king.
+[01:00:14.120 --> 01:00:18.120]   You have a fighter, you have the warrior in God."
+[01:00:18.120 --> 01:00:23.120]   Why? Because this is a unique passage in our story here in 1 Samuel 8
+[01:00:23.120 --> 01:00:28.120]   where God tells us how He feels about this demand.
+[01:00:28.120 --> 01:00:33.120]   And I wanted you to feel it, the frustration, the audacity,
+[01:00:33.120 --> 01:00:36.120]   the ridiculousness of it all.
+[01:00:36.120 --> 01:00:39.120]   If you take a look, going back to 1 Samuel 8,
+[01:00:39.120 --> 01:00:43.120]   now we're going to move to the next portion of the movement of the story,
+[01:00:43.120 --> 01:00:46.120]   God's word on the matter.
+[01:00:46.120 --> 01:00:50.120]   Chapter 8, verse 7-9, this is what the Lord says,
+[01:00:50.120 --> 01:00:55.120]   "Listen to the voice of the people in regard to all that they say to you,
+[01:00:55.120 --> 01:01:00.120]   for," look at this, "they have not rejected you,
+[01:01:00.120 --> 01:01:05.120]   but they have rejected me from being king over them.
+[01:01:05.120 --> 01:01:10.120]   Like all the deeds which they have done since the day that I brought them up from Egypt,
+[01:01:10.120 --> 01:01:14.120]   even to this day, in that they have forsaken me and served other gods,
+[01:01:14.120 --> 01:01:19.120]   so they are doing to you also."
+[01:01:19.120 --> 01:01:24.120]   Brothers and sisters, that is like a sad statement.
+[01:01:24.120 --> 01:01:29.120]   To have God evaluate and summarize their journey since the days of Egypt,
+[01:01:29.120 --> 01:01:33.120]   this is hundreds of years now, since the days of Egypt to this very moment,
+[01:01:33.120 --> 01:01:37.120]   God says, "You know what? This has been the same old story.
+[01:01:37.120 --> 01:01:41.120]   You keep rejecting me.
+[01:01:41.120 --> 01:01:44.120]   That's tragedy."
+[01:01:44.120 --> 01:01:50.120]   And then God tells us, "This is incredible offense of repeat rejection.
+[01:01:50.120 --> 01:01:54.120]   You disregard God's laws. You want somebody to judge over you,
+[01:01:54.120 --> 01:01:58.120]   to make your laws and your policies, while I have already given you the Torah,
+[01:01:58.120 --> 01:02:02.120]   I've given you the Ten Commandments, I've given you good instructions."
+[01:02:02.120 --> 01:02:06.120]   Later on, the kings and queens of the world will look at the nation of Israel and say,
+[01:02:06.120 --> 01:02:09.120]   "Oh my gosh, you have a God who gave you this?
+[01:02:09.120 --> 01:02:13.120]   You have protections for the poor, you have provisions for the weak.
+[01:02:13.120 --> 01:02:17.120]   You have a God who gave you this good law?"
+[01:02:17.120 --> 01:02:22.120]   But instead, they're going to say, "Nope, we want our own."
+[01:02:22.120 --> 01:02:26.120]   What offense for God who provides, God who fights.
+[01:02:26.120 --> 01:02:31.120]   Scan your eyes down to verse 19, chapter 8, verse 19.
+[01:02:31.120 --> 01:02:34.120]   God gives them warning, "Do you have any idea what you're asking for?
+[01:02:34.120 --> 01:02:36.120]   It's going to ruin you."
+[01:02:36.120 --> 01:02:41.120]   And then it says, "Nevertheless, the people refused to listen to the voice of Samuel.
+[01:02:41.120 --> 01:02:45.120]   And they said, 'No, but there shall be a king over us,
+[01:02:45.120 --> 01:02:49.120]   that we also may be like all the nations, that our king may judge us.'"
+[01:02:49.120 --> 01:02:54.120]   And then he adds, "And go out before us and fight our battles."
+[01:02:54.120 --> 01:02:57.120]   What?
+[01:02:57.120 --> 01:03:01.120]   We should feel how offensive this is.
+[01:03:01.120 --> 01:03:05.120]   You want men to go fight your battles?
+[01:03:05.120 --> 01:03:10.120]   I have a montage of passages for you to show you just how ridiculous this demand is.
+[01:03:10.120 --> 01:03:14.120]   Exodus chapter 14, verse 13 through 14.
+[01:03:14.120 --> 01:03:17.120]   In Exodus 14, Moses said to the people,
+[01:03:17.120 --> 01:03:23.120]   "Do not fear. Stand by and see the salvation of the Lord, which we'll accomplish before you today.
+[01:03:23.120 --> 01:03:27.120]   For the Egyptians whom you have seen today, you will never see them again."
+[01:03:27.120 --> 01:03:28.120]   Why?
+[01:03:28.120 --> 01:03:34.120]   "The Lord will fight for you while you keep silent."
+[01:03:34.120 --> 01:03:36.120]   You're walking?
+[01:03:36.120 --> 01:03:39.120]   You're not shouting?
+[01:03:39.120 --> 01:03:44.120]   "But God is going to win the battle for you and deliver them all into your hands."
+[01:03:44.120 --> 01:03:46.120]   Deuteronomy chapter 3, verse 22.
+[01:03:46.120 --> 01:03:50.120]   "So do not fear them, for the Lord your God is the one fighting for you."
+[01:03:50.120 --> 01:03:52.120]   This next one is important.
+[01:03:52.120 --> 01:03:55.120]   Deuteronomy chapter 1, verse 30 through 35.
+[01:03:55.120 --> 01:03:58.120]   In Deuteronomy chapter 1, verse 30 through 35,
+[01:03:58.120 --> 01:04:03.120]   "The Lord your God, who goes before you, will himself fight on your behalf,
+[01:04:03.120 --> 01:04:07.120]   just as he did for you in Egypt before your eyes.
+[01:04:07.120 --> 01:04:13.120]   And in the wilderness where you saw how the Lord your God carried you,
+[01:04:13.120 --> 01:04:16.120]   just as a man carries his son,
+[01:04:16.120 --> 01:04:20.120]   in all the way which you have walked until you came to this place.
+[01:04:20.120 --> 01:04:24.120]   But for all this, you didn't trust the Lord your God,
+[01:04:24.120 --> 01:04:27.120]   who goes before you on your way to seek out a place for you to camp,
+[01:04:27.120 --> 01:04:32.120]   in the fire by night and cloud by day, and to show you the way in which you should go.
+[01:04:32.120 --> 01:04:37.120]   So the Lord heard the sound of your words, and he was angry and took an oath, saying,
+[01:04:37.120 --> 01:04:45.120]   'Not one of these men, this evil generation, shall see the good which I swore to give to your fathers.'"
+[01:04:45.120 --> 01:04:47.120]   Oh my goodness.
+[01:04:47.120 --> 01:04:52.120]   God saw himself as a father.
+[01:04:52.120 --> 01:04:54.120]   How horrible is this?
+[01:04:54.120 --> 01:04:59.120]   He saw himself as their warrior, as their deliverer.
+[01:04:59.120 --> 01:05:03.120]   He went before them, he covered them with cloud, with fire.
+[01:05:03.120 --> 01:05:06.120]   He prepared the place they should inhabit.
+[01:05:06.120 --> 01:05:10.120]   And then for them to be like, "Yeah, I don't know, we don't trust you."
+[01:05:10.120 --> 01:05:12.120]   This is horrendous.
+[01:05:12.120 --> 01:05:17.120]   I want you to imagine with me the sheer feeling of rejection,
+[01:05:17.120 --> 01:05:20.120]   by imagining a ridiculous scene.
+[01:05:20.120 --> 01:05:23.120]   Imagine you're a parent of a young child.
+[01:05:23.120 --> 01:05:26.120]   He's just seven years old, he's in the elementary department.
+[01:05:26.120 --> 01:05:29.120]   And in the morning you decide, "You know what, we're going to get up together,
+[01:05:29.120 --> 01:05:31.120]   and then we're going to get ready, and we're going to take you there."
+[01:05:31.120 --> 01:05:34.120]   So early in the morning you get him up, and he's got his hair all bed hair,
+[01:05:34.120 --> 01:05:37.120]   so you have to spray his hair, you comb your hair.
+[01:05:37.120 --> 01:05:40.120]   He gets all dressed, but it's all wrinkly and ugly, so you go, "Oh, you can't wear that."
+[01:05:40.120 --> 01:05:43.120]   And so you put him in Sunday's best.
+[01:05:43.120 --> 01:05:47.120]   He tries to head out, but he didn't eat yet, so you make the eggs, you make the bacon,
+[01:05:47.120 --> 01:05:50.120]   and you feed him, you give him milk.
+[01:05:50.120 --> 01:05:53.120]   And then he can't even tie his own shoes, so you're like, "Like fish, you make the loopy loop,
+[01:05:53.120 --> 01:05:55.120]   and you put it together."
+[01:05:55.120 --> 01:05:58.120]   You bring him into the education department, and there's a new volunteer he doesn't know,
+[01:05:58.120 --> 01:06:01.120]   and he goes, "Oh, who are you? Who are your parents?"
+[01:06:01.120 --> 01:06:05.120]   And he looks up, and he goes, "I have no parents."
+[01:06:05.120 --> 01:06:08.120]   How would you feel?
+[01:06:08.120 --> 01:06:14.120]   And then so the volunteer worker, our dear teacher, he's like, "Oh, come on.
+[01:06:14.120 --> 01:06:16.120]   Who are your parents, right? Stop messing with me."
+[01:06:16.120 --> 01:06:21.120]   And he goes, "Yeah, I have parents, but no one really loves me at my house."
+[01:06:21.120 --> 01:06:23.120]   How would you feel as a father?
+[01:06:23.120 --> 01:06:26.120]   How would you feel as a mother?
+[01:06:26.120 --> 01:06:28.120]   What did you say?
+[01:06:28.120 --> 01:06:30.120]   Right?
+[01:06:30.120 --> 01:06:35.120]   What is going on right now that you would say that?
+[01:06:35.120 --> 01:06:38.120]   Like it's flabbergasting. Like I don't understand what just happened here.
+[01:06:38.120 --> 01:06:42.120]   Why would you say that? Why would you sit there, be dropped off by your parents,
+[01:06:42.120 --> 01:06:44.120]   and then say, "I have no parents"?
+[01:06:44.120 --> 01:06:45.120]   That's literally what happened.
+[01:06:45.120 --> 01:06:48.120]   You were delivered, you were carried, he carried you on his back,
+[01:06:48.120 --> 01:06:52.120]   and then he dropped you off into a good promise land flowing with milk and honey,
+[01:06:52.120 --> 01:06:56.120]   and then you go, "Give me a king," as though you don't have one.
+[01:06:56.120 --> 01:06:59.120]   How could you do that to him?
+[01:06:59.120 --> 01:07:02.120]   That's the tone here.
+[01:07:02.120 --> 01:07:05.120]   How could you do that to God Almighty?
+[01:07:05.120 --> 01:07:07.120]   What am I hearing?
+[01:07:07.120 --> 01:07:10.120]   And so I want to remind us by way--
+[01:07:10.120 --> 01:07:16.120]   it's flabbergasting because they would have to be so blind, so self-consumed,
+[01:07:16.120 --> 01:07:18.120]   and I want to remind us by way of application.
+[01:07:18.120 --> 01:07:20.120]   Our enemy wants to blind us that much.
+[01:07:20.120 --> 01:07:22.120]   "Your God's not here for you."
+[01:07:22.120 --> 01:07:24.120]   That's what he says.
+[01:07:24.120 --> 01:07:28.120]   "Your God's not here for you, so that's why you need this."
+[01:07:28.120 --> 01:07:32.120]   And ever since you were young, our enemy, the world, wants to convince us,
+[01:07:32.120 --> 01:07:37.120]   "Oh, you need--you need, you know, an Ivy League degree.
+[01:07:37.120 --> 01:07:39.120]   You need a proper job.
+[01:07:39.120 --> 01:07:42.120]   You need this person. You need that person.
+[01:07:42.120 --> 01:07:44.120]   You need this and this," and then it gets frivolous.
+[01:07:44.120 --> 01:07:47.120]   "Oh, you need to do makeup. You needed to do this. You need to wear that."
+[01:07:47.120 --> 01:07:51.120]   And then you have these car companies like, "Around here, you got to love what you drive."
+[01:07:51.120 --> 01:07:54.120]   "No, I don't."
+[01:07:54.120 --> 01:07:58.120]   You know, I teach my young children to not say certain words because it's too harsh.
+[01:07:58.120 --> 01:08:02.120]   They're not allowed to say, "Shut up," to each other.
+[01:08:02.120 --> 01:08:05.120]   But in rare circumstances, you should be able to do it.
+[01:08:05.120 --> 01:08:10.120]   If a young child looks his parent in the eye and says, "I have no parents,"
+[01:08:10.120 --> 01:08:13.120]   you could tell that child, "You need to shut up."
+[01:08:13.120 --> 01:08:15.120]   How dare you?
+[01:08:15.120 --> 01:08:18.120]   Very offensive, right?
+[01:08:18.120 --> 01:08:25.120]   What's more, for you and I, if the world keeps telling us, "You have to have this,"
+[01:08:25.120 --> 01:08:26.120]   who said?
+[01:08:26.120 --> 01:08:28.120]   My God said, "He's my all in all."
+[01:08:28.120 --> 01:08:31.120]   Who is telling me that I need that?
+[01:08:31.120 --> 01:08:33.120]   It's not God.
+[01:08:33.120 --> 01:08:36.120]   If somebody tells you, "You have to be here. You have to live there.
+[01:08:36.120 --> 01:08:41.120]   You have to have this person," and this world is chock full of overly romanticized,
+[01:08:41.120 --> 01:08:43.120]   like, "I can't live without this girl.
+[01:08:43.120 --> 01:08:46.120]   I have to have this man in my life."
+[01:08:46.120 --> 01:08:48.120]   Who said that?
+[01:08:48.120 --> 01:08:50.120]   My God said, "You are complete in Christ."
+[01:08:50.120 --> 01:08:52.120]   My God said, "You have a King."
+[01:08:52.120 --> 01:08:55.120]   My God said, "He provides for you.
+[01:08:55.120 --> 01:08:59.120]   He sees after you're going in and coming out, and He watches you over everything
+[01:08:59.120 --> 01:09:02.120]   to such a degree we see the Lord is my shepherd.
+[01:09:02.120 --> 01:09:06.120]   I will have no want."
+[01:09:06.120 --> 01:09:10.120]   And yet the world keeps telling us, "No, no, no."
+[01:09:10.120 --> 01:09:12.120]   And that's what got into the people's heart.
+[01:09:12.120 --> 01:09:14.120]   We've got to be like them.
+[01:09:14.120 --> 01:09:17.120]   We're falling behind.
+[01:09:17.120 --> 01:09:23.120]   It's so dangerous because the incredible ridiculousness of what they're saying
+[01:09:23.120 --> 01:09:27.120]   they did not see, and they were relentless in demanding it.
+[01:09:27.120 --> 01:09:31.120]   I want to give you another thought by way of application is you don't really have to say,
+[01:09:31.120 --> 01:09:34.120]   "You know what, God? I hate you.
+[01:09:34.120 --> 01:09:36.120]   You know what, God? You're a horrible father."
+[01:09:36.120 --> 01:09:40.120]   You do not have to say those things to offend Him deeply.
+[01:09:40.120 --> 01:09:42.120]   Some of you guys are complainers.
+[01:09:42.120 --> 01:09:44.120]   You're just a Debbie Downer, as they say.
+[01:09:44.120 --> 01:09:45.120]   You're just grumbling.
+[01:09:45.120 --> 01:09:47.120]   "Oh, my gosh, life is so hard.
+[01:09:47.120 --> 01:09:48.120]   No one loves me here.
+[01:09:48.120 --> 01:09:50.120]   This church stinks.
+[01:09:50.120 --> 01:09:52.120]   My family stinks, and my work stinks."
+[01:09:52.120 --> 01:09:55.120]   And you're just constantly looking for the next job, the next family,
+[01:09:55.120 --> 01:09:57.120]   the next group of friends.
+[01:09:57.120 --> 01:10:01.120]   Mind you, when you keep saying that, God, your provider, is on their side like,
+[01:10:01.120 --> 01:10:04.120]   "What's going on here?
+[01:10:04.120 --> 01:10:06.120]   What's happening?"
+[01:10:06.120 --> 01:10:07.120]   Another example.
+[01:10:07.120 --> 01:10:11.120]   This idea of God being your king and your provider, your protector, your warrior,
+[01:10:11.120 --> 01:10:13.120]   it has applications everywhere.
+[01:10:13.120 --> 01:10:15.120]   Some of you are just raw with worry.
+[01:10:15.120 --> 01:10:18.120]   "Oh, my gosh, I'm never going to make it.
+[01:10:18.120 --> 01:10:20.120]   Oh, my gosh, what's going to happen?"
+[01:10:20.120 --> 01:10:21.120]   You're just scared.
+[01:10:21.120 --> 01:10:22.120]   You can't do things.
+[01:10:22.120 --> 01:10:26.120]   Sometimes when I counsel, you know what one of the most often heard things,
+[01:10:26.120 --> 01:10:28.120]   little statements are?
+[01:10:28.120 --> 01:10:30.120]   "I can't."
+[01:10:30.120 --> 01:10:32.120]   "Oh, I want you to go and reconcile with God."
+[01:10:32.120 --> 01:10:33.120]   "I can't."
+[01:10:33.120 --> 01:10:35.120]   "You know, I want you to go step out and try."
+[01:10:35.120 --> 01:10:37.120]   "I can't."
+[01:10:37.120 --> 01:10:39.120]   There were some times when I thought about,
+[01:10:39.120 --> 01:10:42.120]   "What do I say to somebody who is so fearful like that?"
+[01:10:42.120 --> 01:10:45.120]   Do I say something all silly like, "No, you can do it."
+[01:10:45.120 --> 01:10:49.120]   You know, like, "What am I supposed to do?"
+[01:10:49.120 --> 01:10:54.120]   What I want to say to them now is, "But you have a king.
+[01:10:54.120 --> 01:10:57.120]   Don't you have the Almighty in your life?
+[01:10:57.120 --> 01:11:00.120]   Why do you act like nobody is on your side?
+[01:11:00.120 --> 01:11:03.120]   And it's not going to help you to be like, 'I'm here for you.
+[01:11:03.120 --> 01:11:05.120]   I'm your pastor.'"
+[01:11:05.120 --> 01:11:07.120]   Like that's not going to help you.
+[01:11:07.120 --> 01:11:12.120]   You have the Lord of Lords, Christ who is going to rule with an iron scepter.
+[01:11:12.120 --> 01:11:19.120]   He's going to come with blazing eyes of fire and with a word he's going to slay.
+[01:11:19.120 --> 01:11:22.120]   You have a king.
+[01:11:22.120 --> 01:11:25.120]   And what's more, sometimes we have people who struggle deeply with like,
+[01:11:25.120 --> 01:11:27.120]   "I don't know if I have a purpose.
+[01:11:27.120 --> 01:11:29.120]   I don't know what I'm living for.
+[01:11:29.120 --> 01:11:31.120]   I don't know what I'm supposed to be doing."
+[01:11:31.120 --> 01:11:34.120]   And then so they just describe like, "What's the use?"
+[01:11:34.120 --> 01:11:38.120]   No motivation, no gusto, no passions.
+[01:11:38.120 --> 01:11:41.120]   They go home, they play video games and just wasting their time.
+[01:11:41.120 --> 01:11:43.120]   What?
+[01:11:43.120 --> 01:11:45.120]   You have a king.
+[01:11:45.120 --> 01:11:48.120]   At what point did this king stop being king?
+[01:11:48.120 --> 01:11:51.120]   When you leave this place, you leave church, you leave the service,
+[01:11:51.120 --> 01:11:54.120]   you leave the fellowship, and you walk into your house,
+[01:11:54.120 --> 01:11:58.120]   you walked into his domain.
+[01:11:58.120 --> 01:12:00.120]   That's his.
+[01:12:00.120 --> 01:12:02.120]   You're on his time.
+[01:12:02.120 --> 01:12:04.120]   You're under his rule.
+[01:12:04.120 --> 01:12:09.120]   And you have an incredible purpose to live for your king.
+[01:12:09.120 --> 01:12:12.120]   Why do people act like there's no king?
+[01:12:12.120 --> 01:12:14.120]   We have marching orders.
+[01:12:14.120 --> 01:12:17.120]   We have everything in this king.
+[01:12:17.120 --> 01:12:21.120]   And so I want to remind us there is so much writing here
+[01:12:21.120 --> 01:12:27.120]   in just the fact that these people lost sight of the one who's on the throne.
+[01:12:27.120 --> 01:12:32.120]   And then as a final reminder, I want to give you this sobering reminder
+[01:12:32.120 --> 01:12:36.120]   that if we keep complaining, if we keep griping, if we keep in fear,
+[01:12:36.120 --> 01:12:40.120]   if we keep in discouragement, and if we keep in lackadaisical like,
+[01:12:40.120 --> 01:12:42.120]   "Yeah, I don't know."
+[01:12:42.120 --> 01:12:48.120]   At some point, God is going to say, "Okay, is that what you want to live by?"
+[01:12:48.120 --> 01:12:51.120]   Here, more specifically for this nation, they saw the other nations
+[01:12:51.120 --> 01:12:55.120]   and they're like, "Oh my goodness, look at them."
+[01:12:55.120 --> 01:12:57.120]   Is that really what you want?
+[01:12:57.120 --> 01:13:01.120]   You want to be under their care?
+[01:13:01.120 --> 01:13:04.120]   You do realize one of the scariest things comes to us from Scripture.
+[01:13:04.120 --> 01:13:07.120]   It doesn't initially sound scary, but it is.
+[01:13:07.120 --> 01:13:10.120]   God says, "Then have it."
+[01:13:10.120 --> 01:13:14.120]   God says, "You want that reward? Then that's all you get."
+[01:13:14.120 --> 01:13:16.120]   If you think about it, that's one of the scariest things.
+[01:13:16.120 --> 01:13:18.120]   God is holding our lives.
+[01:13:18.120 --> 01:13:20.120]   He says He sustains everything.
+[01:13:20.120 --> 01:13:23.120]   He prevents things from going into complete chaos.
+[01:13:23.120 --> 01:13:30.120]   He prevents things from going into this vicious cycle to arrive at the pit of the bottom.
+[01:13:30.120 --> 01:13:36.120]   For God to say, "I release you," it's a frightening thing.
+[01:13:36.120 --> 01:13:38.120]   It really is.
+[01:13:38.120 --> 01:13:41.120]   And what's more, God is going to warn us.
+[01:13:41.120 --> 01:13:43.120]   And when you realize and you look up and you say,
+[01:13:43.120 --> 01:13:46.120]   "Oh my gosh, we didn't want this. Our king is horrible,"
+[01:13:46.120 --> 01:13:49.120]   He's going to say, "I will not hear you."
+[01:13:49.120 --> 01:13:53.120]   In the New Testament, in Romans 1, God says, "You knew just enough.
+[01:13:53.120 --> 01:13:58.120]   You knew just enough to look over and you knew I was paternal, you knew I was powerful,
+[01:13:58.120 --> 01:14:00.120]   but you traded it."
+[01:14:00.120 --> 01:14:02.120]   What does He say?
+[01:14:02.120 --> 01:14:05.120]   He says, "So I'll give you over to your depraved mind.
+[01:14:05.120 --> 01:14:09.120]   You want to commit to your lust? Then have it.
+[01:14:09.120 --> 01:14:11.120]   You want to commit to your whims?
+[01:14:11.120 --> 01:14:15.120]   You're going to set your own beliefs, your own rules, and your own laws?
+[01:14:15.120 --> 01:14:17.120]   Then have it."
+[01:14:17.120 --> 01:14:22.120]   That is such a scary place to be, brothers and sisters.
+[01:14:22.120 --> 01:14:26.120]   What God does in the next movement in the story is just that.
+[01:14:26.120 --> 01:14:31.120]   Go over back to 1 Samuel 8, verses 9 and 10.
+[01:14:31.120 --> 01:14:33.120]   And this is what the Scripture says.
+[01:14:33.120 --> 01:14:38.120]   God gave Samuel orders to listen, to warn, and then to give it.
+[01:14:38.120 --> 01:14:43.120]   So in 1 Samuel 8, 9, He says, "Then listen to their voice.
+[01:14:43.120 --> 01:14:51.120]   However, you shall solemnly warn them and tell them of the procedures of the king who will reign over them."
+[01:14:51.120 --> 01:14:53.120]   And that reads kind of funny.
+[01:14:53.120 --> 01:14:58.120]   And I will say, just as a side note, please don't think, "Oh yeah, this is what I should do."
+[01:14:58.120 --> 01:15:03.120]   If you're parents in here, this is not to be like, "Yeah, you know what? My kids want that candy."
+[01:15:03.120 --> 01:15:07.120]   Well, you want it? Then have it and just like shove it in their mouth, you know?
+[01:15:07.120 --> 01:15:11.120]   God in His infinite fatherly wisdom is testing them.
+[01:15:11.120 --> 01:15:17.120]   God in His infinite sovereignty and His prerogative is giving to them their just dessert.
+[01:15:17.120 --> 01:15:23.120]   But part of His heart is being revealed because He says, "Solemnly," and it's very emphatic.
+[01:15:23.120 --> 01:15:29.120]   It's like a strange wordplay where He just repeats the same thing in a beautiful way three times.
+[01:15:29.120 --> 01:15:34.120]   What He says is, "Warning, you shall warn and speak."
+[01:15:34.120 --> 01:15:37.120]   That's the literal way that it reads.
+[01:15:37.120 --> 01:15:42.120]   "And inform them the consequences by telling them the procedure of the king," and that reads funny too.
+[01:15:42.120 --> 01:15:48.120]   The way we should understand that is, tell them exactly how this is going to play out.
+[01:15:48.120 --> 01:15:54.120]   If God's giving you warning, He is being so real with you, He says, "Tell them what the future holds."
+[01:15:54.120 --> 01:15:56.120]   And so let's walk through that together.
+[01:15:56.120 --> 01:16:04.120]   Starting from verse 10, He says, "So Samuel spoke all the words of the Lord to the people who had asked him for a king."
+[01:16:04.120 --> 01:16:08.120]   He said, "This will be the procedure of the king who will reign over you.
+[01:16:08.120 --> 01:16:15.120]   He will take your sons and place them for himself in his chariots among his horsemen, and they will run before his chariots."
+[01:16:15.120 --> 01:16:16.120]   Whoa.
+[01:16:16.120 --> 01:16:21.120]   That king, when you set him up and give him power, he's going to have your sons fight in his battles,
+[01:16:21.120 --> 01:16:24.120]   and some of your sons will be like bumper cars.
+[01:16:24.120 --> 01:16:27.120]   Some of your sons will be the bumper for his car.
+[01:16:27.120 --> 01:16:30.120]   He's going to put them in front of his chariot.
+[01:16:30.120 --> 01:16:36.120]   Verse 12, "He will appoint for himself commanders of thousands and of fifties, and some to do his plowing and reap his harvest,
+[01:16:36.120 --> 01:16:40.120]   and to make his weapons of war the equipment for his chariots."
+[01:16:40.120 --> 01:16:47.120]   He's going to make people fight his battles all for his own benefit to do his work and bidding.
+[01:16:47.120 --> 01:16:53.120]   Verse 13, "He will also take your daughters for perfumers and cooks and bakers.
+[01:16:53.120 --> 01:16:59.120]   He will take the best of your fields and your vineyards and your olive groves and give them to his servants."
+[01:16:59.120 --> 01:17:02.120]   And you're thinking, "Oh my gosh, it's like taxation right now."
+[01:17:02.120 --> 01:17:09.120]   Well, he mentions it later, "He will take a tenth of your seed and all your vineyards and give to his officers and his servants."
+[01:17:09.120 --> 01:17:11.120]   He's going to take a tithe.
+[01:17:11.120 --> 01:17:18.120]   "He will also take your male servants and your female servants and your best young men and your donkeys and use them for his work.
+[01:17:18.120 --> 01:17:23.120]   He will take a tenth of your flock, and you yourselves will become his servants."
+[01:17:23.120 --> 01:17:25.120]   You're going to become his slaves.
+[01:17:25.120 --> 01:17:28.120]   You thought he was going to provide for you?
+[01:17:28.120 --> 01:17:29.120]   Who is he?
+[01:17:29.120 --> 01:17:30.120]   Who is this man?
+[01:17:30.120 --> 01:17:31.120]   Give us a king.
+[01:17:31.120 --> 01:17:34.120]   Oh really, who?
+[01:17:34.120 --> 01:17:36.120]   It's ridiculous.
+[01:17:36.120 --> 01:17:38.120]   And he tells you the future.
+[01:17:38.120 --> 01:17:44.120]   You're going to give that much trust, that much power to a man instead of God?
+[01:17:44.120 --> 01:17:48.120]   You're going to rely on one who is feeble?
+[01:17:48.120 --> 01:17:50.120]   There's internal conflict in every man.
+[01:17:50.120 --> 01:17:52.120]   We're battling our selfishness.
+[01:17:52.120 --> 01:17:54.120]   Give him power.
+[01:17:54.120 --> 01:17:57.120]   That battle is so hard to win.
+[01:17:57.120 --> 01:17:59.120]   Watch what he says, verse 18.
+[01:17:59.120 --> 01:18:15.120]   "Then, once you realize, then you will cry out in that day because your king whom you have chosen for yourselves, but the Lord will not answer you in that day."
+[01:18:15.120 --> 01:18:18.120]   That's what he says in warning.
+[01:18:18.120 --> 01:18:23.120]   The king, who is a greedy man, will become your oppressor.
+[01:18:23.120 --> 01:18:26.120]   And he's going to do all of these crazy things.
+[01:18:26.120 --> 01:18:33.120]   If you observe what those things are, it sounds like a person who thinks he is God.
+[01:18:33.120 --> 01:18:34.120]   Right?
+[01:18:34.120 --> 01:18:41.120]   It sounds like a person who thinks he is the focal point of why these creatures remain.
+[01:18:41.120 --> 01:18:46.120]   It's a man who thinks he is at the pinnacle top.
+[01:18:46.120 --> 01:18:56.120]   That's why when God says, "Do you understand what you're doing? You are rejecting me. And just as you have always done, you reject me to serve other gods."
+[01:18:56.120 --> 01:19:03.120]   Don't think, "Oh, yeah, we just have these political preferences and ideas, etc, etc."
+[01:19:03.120 --> 01:19:09.120]   There are forms of government that exist now and here that sound like we want a God.
+[01:19:09.120 --> 01:19:13.120]   I get disturbed when I hear political pundits.
+[01:19:13.120 --> 01:19:20.120]   We've got candidates saying, "You know what we need is? America needs spiritual healing. I'm going to unite all of us together."
+[01:19:20.120 --> 01:19:25.120]   I'm like, "Uh-uh. You ain't my God. You're not Jesus."
+[01:19:25.120 --> 01:19:27.120]   But you hear them talk like that.
+[01:19:27.120 --> 01:19:37.120]   "We need to have a revival." I've heard people say that. "We need to have a revival. We've lost our identity. I'm going to give to us a sense of identity and purpose. We need all the..."
+[01:19:37.120 --> 01:19:41.120]   Who are you? Who do you think you are?
+[01:19:41.120 --> 01:19:46.120]   I don't see you that way. That's what I want to say to them. I talk to my TV screen sometimes.
+[01:19:46.120 --> 01:19:49.120]   I don't see you that way. You know why?
+[01:19:49.120 --> 01:19:52.120]   I have a king. Thank you very much.
+[01:19:52.120 --> 01:19:55.120]   Thanks, but no thanks. I have a king.
+[01:19:55.120 --> 01:19:58.120]   And my king is good. Amen?
+[01:19:58.120 --> 01:20:00.120]   My king is perfect.
+[01:20:00.120 --> 01:20:02.120]   I don't trust you that much.
+[01:20:02.120 --> 01:20:05.120]   My king I trust wholeheartedly.
+[01:20:05.120 --> 01:20:08.120]   He's trustworthy. He has never failed me.
+[01:20:08.120 --> 01:20:11.120]   And he is patient with me.
+[01:20:11.120 --> 01:20:17.120]   It's strange to me when I hear people talk about the grand old visions they have of political ideologies.
+[01:20:17.120 --> 01:20:21.120]   Again, I don't mean to get into all that, but I don't know if some of you guys are fans of socialism.
+[01:20:21.120 --> 01:20:25.120]   But socialism essentially is kingship in multiple forms.
+[01:20:25.120 --> 01:20:27.120]   If you have a government that is king, that's socialism.
+[01:20:27.120 --> 01:20:29.120]   They're going to provide for you. They're going to collect all your goods.
+[01:20:29.120 --> 01:20:32.120]   And then they're going to distribute it so that everybody has an equal share.
+[01:20:32.120 --> 01:20:34.120]   Bogus.
+[01:20:34.120 --> 01:20:39.120]   No king has ever done that. No king body will ever do that.
+[01:20:39.120 --> 01:20:42.120]   Who can do that? That's our God.
+[01:20:42.120 --> 01:20:45.120]   But after all of this warning, their hearts are so set.
+[01:20:45.120 --> 01:20:51.120]   Take a look at 1 Samuel 8:19-22.
+[01:20:51.120 --> 01:20:56.120]   1 Samuel 8:19-22 says, "Nevertheless," this is so sad, you guys,
+[01:20:56.120 --> 01:21:01.120]   "the people refused to listen to the voice of Samuel, and they said, 'No!'
+[01:21:01.120 --> 01:21:05.120]   But there shall be a king over us."
+[01:21:05.120 --> 01:21:10.120]   I just, I can't imagine God hearing that.
+[01:21:10.120 --> 01:21:13.120]   After he gives them the warning, like, I know the future.
+[01:21:13.120 --> 01:21:16.120]   Let me tell you exactly how it's going to be, and they say that.
+[01:21:16.120 --> 01:21:21.120]   Verse 20, "That we also may be like all the other nations, that our king may judge us,
+[01:21:21.120 --> 01:21:23.120]   and go out before us, and fight our battles.
+[01:21:23.120 --> 01:21:29.120]   Now after Samuel had heard all the words of the people, he repeated them in the Lord's hearing.
+[01:21:29.120 --> 01:21:34.120]   The Lord said to Samuel, 'Listen to their voice. Appoint them a king.'
+[01:21:34.120 --> 01:21:38.120]   So Samuel said to the men of Israel, 'Go, every man, to his city.'
+[01:21:38.120 --> 01:21:41.120]   When I read that, I cried."
+[01:21:41.120 --> 01:21:48.120]   What, question, what do you think God should say to these people, right?
+[01:21:48.120 --> 01:21:52.120]   The reason why I cried is because the impression that I got with was,
+[01:21:52.120 --> 01:21:56.120]   "Okay, the scariest thing happened. God is done with them.
+[01:21:56.120 --> 01:21:59.120]   Go, go home."
+[01:21:59.120 --> 01:22:01.120]   And rightly so, what would you say?
+[01:22:01.120 --> 01:22:06.120]   Thank goodness I am not God, but if I were, I would say, "I'm done.
+[01:22:06.120 --> 01:22:08.120]   I've had it with you guys. This is the last time.
+[01:22:08.120 --> 01:22:11.120]   That's enough. That's enough out of you.
+[01:22:11.120 --> 01:22:14.120]   All this complaining, all this griping, every time I let you pray to me,
+[01:22:14.120 --> 01:22:16.120]   that's all you have to say?
+[01:22:16.120 --> 01:22:19.120]   I deliver you, I protect you?
+[01:22:19.120 --> 01:22:22.120]   Why do I have to be the dummy here? Am I a dunce?
+[01:22:22.120 --> 01:22:27.120]   Do I have to keep reaching out like this, like, 'Hello, hello, hello?'
+[01:22:27.120 --> 01:22:29.120]   I'm God.
+[01:22:29.120 --> 01:22:34.120]   Why do I have to ever, even once, feel your rejection?
+[01:22:34.120 --> 01:22:36.120]   Forget you."
+[01:22:36.120 --> 01:22:40.120]   Because I falsely thought, when he said, "Go home,"
+[01:22:40.120 --> 01:22:43.120]   like every man went to his city, I cried.
+[01:22:43.120 --> 01:22:46.120]   Because then they're done.
+[01:22:46.120 --> 01:22:48.120]   We're done.
+[01:22:48.120 --> 01:22:53.120]   Because we foolishly look to so many things for our protection, provision, and grace,
+[01:22:53.120 --> 01:22:58.120]   and we forget we have this lovely King.
+[01:22:58.120 --> 01:23:03.120]   But as you know, our King is good. Amen?
+[01:23:03.120 --> 01:23:08.120]   Turn your Bibles over to 1 Samuel chapter 12.
+[01:23:08.120 --> 01:23:17.120]   I think it's appropriate to say that it is fitting for God to be done with His people.
+[01:23:17.120 --> 01:23:20.120]   It is fitting for God to have such an annoyance and frustration to say,
+[01:23:20.120 --> 01:23:24.120]   "I don't want to deal with you anymore."
+[01:23:24.120 --> 01:23:28.120]   But God reveals His heart in the midst of this great rejection.
+[01:23:28.120 --> 01:23:31.120]   And look at what it says. 1 Samuel chapter 12.
+[01:23:31.120 --> 01:23:33.120]   Samuel is speaking to the people, and he says,
+[01:23:33.120 --> 01:23:38.120]   "Well, when you saw in Nahash the king of the sons of Ammon came against you,
+[01:23:38.120 --> 01:23:42.120]   you said to me, 'No, but a king shall reign over us.'"
+[01:23:42.120 --> 01:23:45.120]   I'm sure he didn't say it like that, but I'm just saying, putting some...
+[01:23:45.120 --> 01:23:49.120]   "You shall have a king, although the Lord your God was your king.
+[01:23:49.120 --> 01:23:54.120]   Now therefore, here is the king you have chosen, whom you have asked for,
+[01:23:54.120 --> 01:23:59.120]   and behold, the Lord has set a king over you, so you got what you asked for," he says.
+[01:23:59.120 --> 01:24:00.120]   Verse 14.
+[01:24:00.120 --> 01:24:04.120]   "If you will fear the Lord and serve Him, and listen to His voice,
+[01:24:04.120 --> 01:24:06.120]   and not rebel against the command of the Lord,
+[01:24:06.120 --> 01:24:11.120]   then both you and also the king who reigns over you will follow the Lord your God.
+[01:24:11.120 --> 01:24:13.120]   If you will not listen to the voice of the Lord,
+[01:24:13.120 --> 01:24:15.120]   and not rebel against the commandment of the Lord,
+[01:24:15.120 --> 01:24:19.120]   then the hand of the Lord will be against you, as it was against your fathers.
+[01:24:19.120 --> 01:24:21.120]   But even now..."
+[01:24:21.120 --> 01:24:23.120]   Say what?
+[01:24:23.120 --> 01:24:25.120]   "But even now."
+[01:24:25.120 --> 01:24:29.120]   That means you have a second chance.
+[01:24:29.120 --> 01:24:32.120]   That means you still have time.
+[01:24:32.120 --> 01:24:38.120]   Take your stand and see this great thing which the Lord will do before your eyes.
+[01:24:38.120 --> 01:24:41.120]   Is it not wheat harvest today?
+[01:24:41.120 --> 01:24:44.120]   Is it not time?
+[01:24:44.120 --> 01:24:48.120]   He said, "I'll call the Lord, that He may send thunder and rain.
+[01:24:48.120 --> 01:24:50.120]   Then you will know and see that your wickedness is great,
+[01:24:50.120 --> 01:24:54.120]   which you have done in the sight of the Lord by asking yourself for a king."
+[01:24:54.120 --> 01:24:58.120]   So Samuel called to the Lord, and the Lord sent thunder and rain that day.
+[01:24:58.120 --> 01:25:01.120]   And all the people greatly feared the Lord and Samuel.
+[01:25:01.120 --> 01:25:03.120]   Then all the people said to Samuel,
+[01:25:03.120 --> 01:25:07.120]   "Oh, please pray for your servants to the Lord your God,
+[01:25:07.120 --> 01:25:10.120]   so that we may die, for we have added to all of our sins
+[01:25:10.120 --> 01:25:15.120]   this evil by asking for ourselves a king."
+[01:25:15.120 --> 01:25:18.120]   Pause there. Amen.
+[01:25:18.120 --> 01:25:20.120]   They start to kind of get it.
+[01:25:20.120 --> 01:25:23.120]   But honestly, it's kind of.
+[01:25:23.120 --> 01:25:27.120]   I don't want to be too harsh on the nation of Israel because we are such.
+[01:25:27.120 --> 01:25:30.120]   In many ways, we're the same.
+[01:25:30.120 --> 01:25:32.120]   But when they say, "Oh, pray for your servants."
+[01:25:32.120 --> 01:25:33.120]   Oh, really?
+[01:25:33.120 --> 01:25:35.120]   And when were you acting like good servants?
+[01:25:35.120 --> 01:25:37.120]   Anyway, I'm just being bitter.
+[01:25:37.120 --> 01:25:42.120]   But what they say is, "We did sin."
+[01:25:42.120 --> 01:25:46.120]   But just as a side note, when we repent to God,
+[01:25:46.120 --> 01:25:48.120]   maybe repent thoroughly.
+[01:25:48.120 --> 01:25:52.120]   If you cling to your idol and you say, "God, God, I'm so sorry.
+[01:25:52.120 --> 01:25:55.120]   I added to my sin," and then you just cuddle your idol,
+[01:25:55.120 --> 01:25:57.120]   that's not repentance, is it?
+[01:25:57.120 --> 01:26:00.120]   That's not repentance.
+[01:26:00.120 --> 01:26:02.120]   But look at what the Lord says.
+[01:26:02.120 --> 01:26:05.120]   That's for another sermon, but look at what the Lord says, okay?
+[01:26:05.120 --> 01:26:10.120]   "And Israel, speaking, said to the people, 'Do not fear.
+[01:26:10.120 --> 01:26:15.120]   You have committed all this evil, yet do not turn aside from following the Lord,
+[01:26:15.120 --> 01:26:17.120]   but serve the Lord with all your heart.
+[01:26:17.120 --> 01:26:21.120]   You must not turn aside, for then you would go after futile things,
+[01:26:21.120 --> 01:26:25.120]   which cannot profit or deliver because they're futile.'"
+[01:26:25.120 --> 01:26:27.120]   We want kings and futile things.
+[01:26:27.120 --> 01:26:31.120]   We want stuff that looks all fancy, but they never deliver.
+[01:26:31.120 --> 01:26:33.120]   They're always going to bust.
+[01:26:33.120 --> 01:26:34.120]   And we have friends that we love.
+[01:26:34.120 --> 01:26:37.120]   It's like, "Oh, my gosh, why do you want that?
+[01:26:37.120 --> 01:26:38.120]   It's only going to hurt you in the end.
+[01:26:38.120 --> 01:26:42.120]   Why do you keep going down that path?"
+[01:26:42.120 --> 01:26:44.120]   And it's the same frustration here.
+[01:26:44.120 --> 01:26:49.120]   But verse 22, "For the Lord will not abandon His people on account of His great name,
+[01:26:49.120 --> 01:26:54.120]   because the Lord has been pleased to make you a people for Himself.
+[01:26:54.120 --> 01:26:58.120]   Moreover, as for me, far be it from me that I should sin against the Lord
+[01:26:58.120 --> 01:27:01.120]   by ceasing to pray for you.
+[01:27:01.120 --> 01:27:05.120]   But I will instruct you in the good and right way."
+[01:27:05.120 --> 01:27:07.120]   That's amazing, isn't it?
+[01:27:07.120 --> 01:27:10.120]   Praise God.
+[01:27:10.120 --> 01:27:13.120]   If the story ended with, "Yes, you have sinned," period,
+[01:27:13.120 --> 01:27:17.120]   it could have ended just there.
+[01:27:17.120 --> 01:27:22.120]   But the heart of our king, it's so good, isn't it?
+[01:27:22.120 --> 01:27:25.120]   He says He loves us.
+[01:27:25.120 --> 01:27:29.120]   And what's more, on the account of His own great name,
+[01:27:29.120 --> 01:27:36.120]   by the account of His own good pleasure, our king's will is perfect.
+[01:27:36.120 --> 01:27:39.120]   It's perfect towards us.
+[01:27:39.120 --> 01:27:45.120]   Praise God that I am not the Lord, I am not God, and I'm not His counselor.
+[01:27:45.120 --> 01:27:46.120]   Because guess what?
+[01:27:46.120 --> 01:27:49.120]   If I was His counselor, I would have advised Him differently.
+[01:27:49.120 --> 01:27:54.120]   I would have said, "Hey, you know this relationship you have with these people?
+[01:27:54.120 --> 01:27:58.120]   How long have you been doing the same thing, expecting different results, huh?
+[01:27:58.120 --> 01:28:00.120]   How about you leave?"
+[01:28:00.120 --> 01:28:03.120]   I would have counseled Him otherwise.
+[01:28:03.120 --> 01:28:05.120]   Why?
+[01:28:05.120 --> 01:28:07.120]   He's incurring too much.
+[01:28:07.120 --> 01:28:12.120]   But praise the Lord that we have a king who persists with us.
+[01:28:12.120 --> 01:28:14.120]   Praise the Lord who provides us everything.
+[01:28:14.120 --> 01:28:15.120]   Amen?
+[01:28:15.120 --> 01:28:22.120]   Let's pray.
+[01:28:22.120 --> 01:28:25.120]   Heavenly Father,
+[01:28:25.120 --> 01:28:29.120]   You are the good Father who carried Your people,
+[01:28:29.120 --> 01:28:33.120]   and we know that You sustain us now and today.
+[01:28:33.120 --> 01:28:37.120]   Lord God, we confess sometimes we have no idea what we're asking for.
+[01:28:37.120 --> 01:28:42.120]   Sometimes we think some things are so good and we want it so bad, and we want it now.
+[01:28:42.120 --> 01:28:49.120]   Lord, we confess, God, that those are just foolish things we say in our ignorance.
+[01:28:49.120 --> 01:28:54.120]   But what we know for certain is, God, that with You there is assurance.
+[01:28:54.120 --> 01:28:58.120]   With You there is provision, power, strength, and more.
+[01:28:58.120 --> 01:29:01.120]   So, God, we thank You, and we praise You as our king.
+[01:29:01.120 --> 01:29:09.120]   Help us to learn what it means to walk our day as those who truly have the king of the universe in our midst,
+[01:29:09.120 --> 01:29:13.120]   inside of our hearts, inside of our minds, and by faith that we dwell with You,
+[01:29:13.120 --> 01:29:15.120]   so that, God, we will live this life with power.
+[01:29:15.120 --> 01:29:18.120]   It's in Christ's name we pray. Amen.
+[01:29:18.120 --> 01:29:22.120]   Let's all rise together.
+[01:29:22.120 --> 01:29:41.120]   [music]
+[01:29:41.120 --> 01:29:52.120]   Created one, the author of salvation,
+[01:29:52.120 --> 01:29:58.120]   Who fought the laws of space and time,
+[01:29:58.120 --> 01:30:04.120]   And fashioned worlds to His design.
+[01:30:04.120 --> 01:30:12.120]   The One who made your host reveal, Hung the stars like chandeliers,
+[01:30:12.120 --> 01:30:19.120]   Now burn every grain of sand, Knows the heart of every man.
+[01:30:19.120 --> 01:30:30.120]   He is King forever.
+[01:30:30.120 --> 01:30:44.120]   [music]
+[01:30:44.120 --> 01:30:50.120]   The fortress and our strength,
+[01:30:50.120 --> 01:30:57.120]   The rock on which we bend the end,
+[01:30:57.120 --> 01:31:03.120]   Is gracious to His majesty.
+[01:31:03.120 --> 01:31:09.120]   His power and authority's unshaken.
+[01:31:09.120 --> 01:31:13.120]   Unshaken by the sins of man,
+[01:31:13.120 --> 01:31:17.120]   Never changing, here I am.
+[01:31:17.120 --> 01:31:20.120]   Kingdoms rise and kingdoms fall,
+[01:31:20.120 --> 01:31:24.120]   His faithful unit all.
+[01:31:24.120 --> 01:31:35.120]   Crown Him King forever.
+[01:31:35.120 --> 01:31:50.120]   [music]
+[01:31:50.120 --> 01:31:54.120]   Immortal flesh,
+[01:31:54.120 --> 01:32:01.120]   Forsaken by a traitor's curse,
+[01:32:01.120 --> 01:32:07.120]   The curse of sin and centuries,
+[01:32:07.120 --> 01:32:11.120]   Did pierce full, holy Prince of Peace.
+[01:32:11.120 --> 01:32:13.120]   Lift it up!
+[01:32:13.120 --> 01:32:17.120]   Lift it high, as to the sky,
+[01:32:17.120 --> 01:32:21.120]   Crucified, the Son of Man,
+[01:32:21.120 --> 01:32:24.120]   Buried by the sons of man,
+[01:32:24.120 --> 01:32:28.120]   Rescued by the Mother's hand,
+[01:32:28.120 --> 01:32:31.120]   To reign as King forever.
+[01:32:31.120 --> 01:32:35.120]   Reign as King forever.
+[01:32:35.120 --> 01:32:43.120]   Reign as King forevermore.
+[01:32:43.120 --> 01:32:48.120]   Eternal God of grace,
+[01:32:48.120 --> 01:32:55.120]   We crown You with the highest praise.
+[01:32:55.120 --> 01:33:01.120]   Sharks and saints adore,
+[01:33:01.120 --> 01:33:04.120]   Your holy, holy, holy,
+[01:33:04.120 --> 01:33:07.120]   One joy, one joy,
+[01:33:07.120 --> 01:33:11.120]   One joy everlasting,
+[01:33:11.120 --> 01:33:14.120]   All is love and good beside.
+[01:33:14.120 --> 01:33:18.120]   Justice rolls and praises rise,
+[01:33:18.120 --> 01:33:21.120]   At the Name of Jesus Christ.
+[01:33:21.120 --> 01:33:32.120]   King of Kings forever.
+[01:33:32.120 --> 01:33:34.120]   Gracias.
+[01:33:34.120 --> 01:33:47.120]   King of Kings forever.
+[01:33:47.120 --> 01:34:03.120]   [music]
+[01:34:03.120 --> 01:34:05.120]   Now let's pray together.
+[01:34:05.120 --> 01:34:07.120]   Our God, thank You.
+[01:34:07.120 --> 01:34:09.120]   This morning we are reminded
+[01:34:09.120 --> 01:34:11.120]   that our citizenship is with You,
+[01:34:11.120 --> 01:34:13.120]   underneath Your great reign.
+[01:34:13.120 --> 01:34:15.120]   Lord, it is our prayer that You would help us
+[01:34:15.120 --> 01:34:18.120]   walk each day that is different.
+[01:34:18.120 --> 01:34:20.120]   Help us walk differently from the world,
+[01:34:20.120 --> 01:34:22.120]   for we have such hope
+[01:34:22.120 --> 01:34:24.120]   in the eternity that You provide,
+[01:34:24.120 --> 01:34:26.120]   under Your grace and mercies.
+[01:34:26.120 --> 01:34:30.120]   And so I ask God that in the way that we live each day,
+[01:34:30.120 --> 01:34:32.120]   from down to each worry,
+[01:34:32.120 --> 01:34:35.120]   down to each issue or problems we face,
+[01:34:35.120 --> 01:34:38.120]   God, we know that we walk with the King.
+[01:34:38.120 --> 01:34:41.120]   And so now, may the love of God the Father,
+[01:34:41.120 --> 01:34:44.120]   the everlasting grace of Christ our Savior,
+[01:34:44.120 --> 01:34:46.120]   and the fellowship of the Holy Spirit
+[01:34:46.120 --> 01:34:49.120]   be with you now and forever. Amen.
+[01:34:49.120 --> 01:34:54.120]   God sent His Son,
+[01:34:54.120 --> 01:34:59.120]   they called Him Jesus.
+[01:34:59.120 --> 01:35:04.120]   He came to do love,
+[01:35:04.120 --> 01:35:09.120]   heal and forgive.
+[01:35:09.120 --> 01:35:14.120]   He lived and died
+[01:35:14.120 --> 01:35:19.120]   to buy my pardon.
+[01:35:19.120 --> 01:35:24.120]   An empty grave is there to
+[01:35:24.120 --> 01:35:30.120]   prove my Savior lives.
+[01:35:30.120 --> 01:35:35.120]   Because He lives,
+[01:35:35.120 --> 01:35:40.120]   I can face tomorrow.
+[01:35:40.120 --> 01:35:45.120]   Because He lives,
+[01:35:45.120 --> 01:35:50.120]   all fear is gone.
+[01:35:50.120 --> 01:35:55.120]   Because I know
+[01:35:55.120 --> 01:36:00.120]   He holds the future
+[01:36:00.120 --> 01:36:04.120]   and life is worth the living
+[01:36:04.120 --> 01:36:09.120]   just because He lives.
+[01:36:09.120 --> 01:36:15.120]   Spoke Your name into the night,
+[01:36:15.120 --> 01:36:21.120]   and through the darkness, Your loving kindness
+[01:36:21.120 --> 01:36:28.120]   saw through the shadows of my soul.
+[01:36:28.120 --> 01:36:35.120]   The work is finished, the end is written.
+
