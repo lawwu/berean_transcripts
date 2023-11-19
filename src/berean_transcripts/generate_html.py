@@ -339,6 +339,8 @@ if __name__ == "__main__":
         "EscJyBR04_8",
         "Qrb7KnWcpos",
         "gfMnwnb8Jh8",
+        "SaFPPJZeuTs",
+        "Da_eeD-q0NI",
         # test videos
         "44005314",
     ]
