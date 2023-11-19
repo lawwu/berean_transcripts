@@ -16,6 +16,66 @@ logging.basicConfig(
     level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
 )
 
+# used for everything except index.html
+css_styles = """
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #f4f4f4;
+        color: #333;
+    }
+    .container {
+        width: 80%;
+        margin: auto;
+        overflow: hidden;
+    }
+    h2, h3 {
+        color: #333;
+        text-align: center;
+    }
+    a {
+        color: #0000FF;  /* Traditional blue color for links */
+        text-decoration: none;
+    }
+    a:hover {
+        text-decoration: underline;
+    }
+    img {
+        display: block;
+        margin: auto;
+        max-width: 100%;
+    }
+    .c {
+        margin: 10px 0;
+    }
+    .s, .t {
+        display: inline-block;
+        margin-right: 5px;
+    }
+    .max-width {
+        max-width: 800px;
+        margin: auto;
+        padding-left: 20px;
+    }
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    th, td {
+        border: 1px solid #ddd;
+        padding: 8px;
+    }
+    tr:nth-child(even) {
+        background-color: #f2f2f2;
+    }
+    tr:nth-child(odd) {
+        background-color: #e6e6e6;
+    }
+</style>
+"""
+
 # Initialize or load the cache
 cache_file = data_dir / "video_details_cache.json"
 try:
@@ -55,6 +115,20 @@ def read_and_clean_whisper_file(file_path):
     return " ".join(cleaned_text).strip()
 
 
+def add_google_analytics():
+    return """
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q2VFLKEDDC"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-Q2VFLKEDDC');
+    </script>
+    """
+
+
 # Additional function to generate standalone transcript pages.
 def generate_transcript_page(video_id):
     logging.info(f"Generating Transcript page for video ID {video_id}")
@@ -73,10 +147,11 @@ def generate_transcript_page(video_id):
     clean_transcript = read_and_clean_whisper_file(input_file)
 
     with open(output_file, "w") as f:
-        f.write("<html><head><title>{}</title></head><body>".format(title))
-        f.write(
-            '<a href="index.html">back to index</a><h2>{}</h2>'.format(title)
-        )
+        f.write(f"<html><head><title>{title}</title>")
+        f.write(css_styles)
+        f.write(add_google_analytics())
+        f.write("</head><body>")
+        f.write(f'<a href="index.html">back to index</a><h2>{title}</h2>')
         f.write(
             f'<a href="{video_url}"><img src="{thumbnail_url}" style="width:50%;"></a><div><br></div>'
         )
@@ -147,7 +222,12 @@ def generate_index_page(video_ids):
     berean_index_html = html_berean_dir / "index.html"
     with open(berean_index_html, "w") as f:
         f.write(
-            '<html><head><title>Berean Community Church Transcripts</title></head><body><h1>Berean Community Church Transcripts</h1><table style="width:100%; border-collapse: collapse;">'
+            "<html><head><title>Berean Community Church Transcripts</title>"
+        )
+        f.write(css_styles)
+        f.write(add_google_analytics())
+        f.write(
+            '</head><body><h1>Berean Community Church Transcripts</h1><table style="width:100%; border-collapse: collapse;">'
         )
         f.write("These transcripts are automatically generated using Whisper.")
         f.write(
@@ -215,7 +295,10 @@ def generate_html(video_id):
         lines = f.readlines()
 
     with open(output_file, "w") as f:
-        f.write("<html><head><title>{}</title></head><body>".format(title))
+        f.write(f"<html><head><title>{title}</title>")
+        f.write(css_styles)
+        f.write(add_google_analytics())
+        f.write("</head><body>")
         f.write(
             '<a href="index.html">back to index</a><h2>{}</h2>'.format(title)
         )
