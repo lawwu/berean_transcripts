@@ -129,6 +129,19 @@ def add_google_analytics():
     """
 
 
+def get_minimum_info_dict(info_dict):
+    return {
+        "id": info_dict.get("id", None),
+        "title": info_dict.get("title", None),
+        "upload_date": info_dict.get("upload_date", None),
+        "duration": info_dict.get("duration", None),
+        "webpage_url": info_dict.get("webpage_url", None),
+        "thumbnail": info_dict.get("thumbnail", None),
+        "thumbnails": info_dict.get("thumbnails", None),
+        "chapters": info_dict.get("chapters", []),
+    }
+
+
 # Additional function to generate standalone transcript pages.
 def generate_transcript_page(video_id):
     logging.info(f"Generating Transcript page for video ID {video_id}")
@@ -137,6 +150,9 @@ def generate_transcript_page(video_id):
     video_url = details["webpage_url"]
     thumbnail_url = details["thumbnail"]
     title = details["title"]
+    # remove "Berean Community Church " from the title since it's redundant
+    title = title.replace("Berean Community Church ", "")
+
     chapters = details.get("chapters", [])
     transcript_link = f"transcript_{video_id}.html"
     whisper_transcript_file = f"{video_id}.html"
@@ -201,6 +217,7 @@ def fetch_video_details(video_id):
             info_dict = ydl.extract_info(
                 f"https://www.youtube.com/watch?v={video_id}", download=False
             )
+            info_dict = get_minimum_info_dict(info_dict)
             video_details_cache[video_id] = info_dict
             save_cache()
             return info_dict
@@ -212,6 +229,7 @@ def fetch_video_details(video_id):
             info_dict = ydl.extract_info(
                 f"https://www.vimeo.com/{video_id}", download=False
             )
+            info_dict = get_minimum_info_dict(info_dict)
             video_details_cache[video_id] = info_dict
             save_cache()
             return info_dict
@@ -257,7 +275,9 @@ def generate_index_page(video_ids):
                 )
             )
             f.write(f"<td>{formatted_date}</td>")  # Using the new date format
-            f.write(f'<td>{details["title"]}</td>')
+            f.write(
+                f'<td>{details["title"].replace("Berean Community Church ", "")}</td>'
+            )
             f.write(f"<td>{duration_in_minutes} min</td>")
             f.write(
                 f'<td><a href="./{whisper_transcript_file}">Whisper Transcript</a></td>'
@@ -392,7 +412,6 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     video_ids = read_ids_from_file(args.file)
-    df_videos = convert_cache_to_dataframe(video_details_cache)
 
     logging.info(f"Found {len(video_ids)} video IDs")
 
