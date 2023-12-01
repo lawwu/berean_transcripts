@@ -37,6 +37,7 @@ crontab -e
 
 - [x] ~~can transfer rest of Berean's Vimeo videos to Youtube: https://github.com/hichamelkaddioui/vimeo-to-youtube and then transcribe~~ Decided to leave Vimeo videos alone and transcribe them in place
 - [x] don't use JSON cache, use a slimmer CSV with id, title, upload_date, url, and other necessary fields
+- [ ] for the transcript only pages, automatically detect paragraph breaks for readability
 - [ ] automatically tag the beginning and end of the sermons and clip this out
 - [ ] Whisper thinks some sections of the sermon are praise
 - [ ] Use python bindings instead of calling whisper.cpp directly, can use https://github.com/aarnphm/whispercpp
