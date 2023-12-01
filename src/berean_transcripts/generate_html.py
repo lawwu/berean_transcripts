@@ -181,7 +181,7 @@ def generate_transcript_page(video_id):
                 )
 
         f.write(
-            '<div style="text-align: left;">'
+            '<div style="text-align: center;">'
         )  # Start a div with left-aligned text
         f.write(
             f'<a href="./{whisper_transcript_file}">Whisper Transcript</a> | <a href="./{transcript_link}">Transcript Only Page</a>'
@@ -191,9 +191,9 @@ def generate_transcript_page(video_id):
 
         f.write("<h3>Transcript</h3>")
         f.write(
-            '<div style="max-width: 600px;">'
-        )  # Limit the width for readability
-        f.write("<p>{}</p>".format(clean_transcript))
+            '<div style="max-width: 650px; margin: auto;">'  # Added margin: auto to center the div
+        )
+        f.write(f"<p>{clean_transcript}</p>")
         f.write("</div>")  # Close the max-width div
         f.write("</body></html>")
 
@@ -443,7 +443,7 @@ if __name__ == "__main__":
         "gfMnwnb8Jh8",
         "SaFPPJZeuTs",
         "Da_eeD-q0NI",
-        "hKORWmYZyJI",
+        "hKORWmYZyJI"
         # test videos
         "44005314",
     ]
