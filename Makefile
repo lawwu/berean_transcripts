@@ -27,6 +27,9 @@ install:
 html:
 	python3 src/berean_transcripts/generate_html.py --file data/bcc_live_video_ids_done.txt
 
+transcribe_new:
+	./bash_transcribe_new_videos.sh
+
 #################################################################################
 # Self Documenting Commands                                                     #
 #################################################################################

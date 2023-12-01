@@ -1,3 +1,6 @@
+# activate venv
+source ./venv/bin/activate
+
 # get new video ideas
 python src/berean_transcripts/get_new_video_ids.py
 
