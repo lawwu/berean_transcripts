@@ -1,23 +1,34 @@
-import subprocess
+"""
+This module contains functions to automate the process of downloading and transcribing audio from YouTube/Vimeo videos.
+"""
 import argparse
-from yt_dlp import YoutubeDL
-import re
-import ffmpeg
 import logging
+import re
+import subprocess
 
-from berean_transcripts.utils import (
-    transcripts_dir,
-    model_dir,
-    whispercpp_dir,
-    timeit,
-)
+import ffmpeg
+from berean_transcripts.utils import (model_dir, timeit, transcripts_dir,
+                                      whispercpp_dir)
+from yt_dlp import YoutubeDL
 
 log_fmt = "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
 logging.basicConfig(level=logging.INFO, format=log_fmt)
 logger = logging.getLogger(__name__)
 
-
 def extract_video_id(url):
+    """
+    Extracts the video ID from a given URL.
+
+    Parameters
+    ----------
+    url : str
+        The URL from which to extract the video ID.
+
+    Returns
+    -------
+    str
+        The extracted video ID, or "unknown_id" if the URL does not match the expected patterns.
+    """
     # Check for YouTube URL pattern
     youtube_match = re.search(r"v=([a-zA-Z0-9_-]+)", url)
     if youtube_match:
@@ -33,6 +44,20 @@ def extract_video_id(url):
 
 
 def download_audio(url, outfile_name):
+    """
+    Downloads the audio from a given URL and saves it to a specified output file.
+
+    Parameters
+    ----------
+    url : str
+        The URL from which to download the audio.
+    outfile_name : str
+        The name of the file to which the downloaded audio should be saved.
+
+    Returns
+    -------
+    None
+    """
     try:
         options = {
             "format": "bestaudio/best",
@@ -84,6 +109,18 @@ def extract_audio(video_file, audio_file):
 
 
 def ensure_wav_16k(filename):
+    """
+    Ensures that a given .wav file is at a 16 kHz sample rate.
+
+    Parameters
+    ----------
+    filename : str
+        The name of the .wav file to process.
+
+    Returns
+    -------
+    None
+    """
     input_path = transcripts_dir / f"{filename}.wav"
     output_path = transcripts_dir / f"{filename}_16k.wav"
     # always override with yes
@@ -93,6 +130,24 @@ def ensure_wav_16k(filename):
 
 @timeit
 def run_whisper(filename, model_name, num_threads=7, num_processors=1):
+    """
+    Runs the whisper.cpp program on a given .wav file using a specified model.
+
+    Parameters
+    ----------
+    filename : str
+        The name of the .wav file to process.
+    model_name : str
+        The name of the model to use for processing.
+    num_threads : int, optional
+        The number of threads to use for processing (default is 7).
+    num_processors : int, optional
+        The number of processors to use for processing (default is 1).
+
+    Returns
+    -------
+    None
+    """
     model_path = model_dir / model_name
     input_path = transcripts_dir / f"{filename}_16k.wav"
     output_path = transcripts_dir / f"{filename}.txt"
