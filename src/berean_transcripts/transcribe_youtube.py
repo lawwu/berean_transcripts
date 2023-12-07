@@ -1,164 +1,51 @@
-import subprocess
-import argparse
-from yt_dlp import YoutubeDL
-import re
-import ffmpeg
-import logging
+import os
+import unittest
+import wave
 
-from berean_transcripts.utils import (
-    transcripts_dir,
-    model_dir,
-    whispercpp_dir,
-    timeit,
-)
-
-log_fmt = "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
-logging.basicConfig(level=logging.INFO, format=log_fmt)
-logger = logging.getLogger(__name__)
+from berean_transcripts import transcribe_youtube
 
 
-def extract_video_id(url):
-    # Check for YouTube URL pattern
-    youtube_match = re.search(r"v=([a-zA-Z0-9_-]+)", url)
-    if youtube_match:
-        return youtube_match.group(1)
+class TestEnsureWav16k(unittest.TestCase):
+    def setUp(self):
+        self.test_file = "test.wav"
+        with wave.open(self.test_file, 'w') as f:
+            f.setnchannels(1)
+            f.setsampwidth(2)
+            f.setframerate(44100)
+            f.writeframes(b'\x00\x00' * 44100 * 10)
 
-    # Check for Vimeo URL pattern
-    vimeo_match = re.search(r"vimeo.com/(\d+)", url)
-    if vimeo_match:
-        return vimeo_match.group(1)
+    def tearDown(self):
+        os.remove(self.test_file)
+        if os.path.exists("test_16k.wav"):
+            os.remove("test_16k.wav")
+        if os.path.exists("invalid_test.wav"):
+            os.remove("invalid_test.wav")
+        if os.path.exists("invalid_test_16k.wav"):
+            os.remove("invalid_test_16k.wav")
+            os.remove("test_16k.wav")
 
-    # If neither pattern is found
-    return "unknown_id"
+    def test_ensure_wav_16k_converts_audio_correctly(self):
+        transcribe_youtube.ensure_wav_16k("test")
+        self.assertTrue(os.path.exists("test_16k.wav"))
+        with wave.open("test_16k.wav", 'r') as f:
+            self.assertEqual(f.getframerate(), 16000)
 
-
-def download_audio(url, outfile_name):
-    try:
-        options = {
-            "format": "bestaudio/best",
-            "postprocessors": [
-                {
-                    "key": "FFmpegExtractAudio",
-                    "preferredcodec": "wav",
-                    "preferredquality": "192",
-                }
-            ],
-            "outtmpl": str(transcripts_dir / outfile_name),
-        }
-        with YoutubeDL(options) as ydl:
-            print(f"Downloading: {url}")
-            ydl.download([url])
-    except Exception as e:
-        print(f"Error in download_audio: {e}")
-
-
-# Extract audio from video
-def extract_audio(video_file, audio_file):
-    """
-    Extract audio from video
-
-    Parameters
-    ----------
-    video_file : str
-        Path to video file
-    audio_file : str
-        Path to audio file
-
-    Returns
-    -------
-    None
-    """
-    logging.info(
-        f"Using ffmpeg to extract audio from {video_file} to {audio_file}"
-    )
-    try:
-        (
-            ffmpeg.input(video_file)
-            .output(audio_file, acodec="mp3", ac=2, ar="48k", ab="192k")
-            .run(overwrite_output=True)
-        )
-        return audio_file
-    except Exception as e:
-        print(f"Error extracting audio: {e}")
-        return None
-
-
-def ensure_wav_16k(filename):
-    input_path = transcripts_dir / f"{filename}.wav"
-    output_path = transcripts_dir / f"{filename}_16k.wav"
-    # always override with yes
-    command = ["ffmpeg", "-y", "-i", input_path, "-ar", "16000", output_path]
-    subprocess.run(command)
-
-
-@timeit
-def run_whisper(filename, model_name, num_threads=7, num_processors=1):
-    model_path = model_dir / model_name
-    input_path = transcripts_dir / f"{filename}_16k.wav"
-    output_path = transcripts_dir / f"{filename}.txt"
-
-    whisper_main = whispercpp_dir / "main"
-    command = f"{whisper_main} -m {model_path} -t {num_threads} -p {num_processors} -f {input_path} > {output_path}"
-    subprocess.run(command, shell=True)
-
-
-def clean_up_wav_files(base_filename):
-    """
-    Deletes the .wav and _16k.wav files for the given base filename.
-
-    Parameters
-    ----------
-    base_filename : str
-        The base name of the .wav files to delete.
-    """
-    try:
-        wav_path = transcripts_dir / f"{base_filename}.wav"
-        wav_16k_path = transcripts_dir / f"{base_filename}_16k.wav"
-
-        # Remove the original wav file
-        if wav_path.exists():
-            wav_path.unlink()
-            logging.info(f"Deleted {wav_path}")
-
-        # Remove the 16kHz wav file
-        if wav_16k_path.exists():
-            wav_16k_path.unlink()
-            logging.info(f"Deleted {wav_16k_path}")
-
-    except Exception as e:
-        logging.error(f"Error during file cleanup: {e}")
-
-
-def main():
-    parser = argparse.ArgumentParser(
-        description="Automate downloading and processing audio from YouTube/Vimeo."
-    )
-    parser.add_argument("url", type=str, help="URL of the video")
-    parser.add_argument(
-        "--model_name",
-        type=str,
-        default="ggml-large-v2.bin",
-        help="Name of the whisper model to use",
-    )
-    args = parser.parse_args()
-
-    # Variable for .wav file name
-    wav_file_name = extract_video_id(args.url)
-
-    logging.info("Download audio")
-    download_audio(args.url, wav_file_name)
-
-    logging.info("Ensure the wav file is 16 kHz")
-    ensure_wav_16k(wav_file_name)
-
-    logging.info("Run whisper.cpp using Metal")
-    run_whisper(wav_file_name, args.model_name)
-
-    # Clean up WAV files after processing
-    clean_up_wav_files(wav_file_name)
-
-    logging.info("WAV files cleanup complete.")
-
+    def test_ensure_wav_16k_handles_invalid_file(self):
+        # Create an invalid 'wav' file that is actually a text file
+        self.invalid_test_file = "invalid_test.wav"
+        with open(self.invalid_test_file, 'w') as f:
+            f.write("This is not a valid wave file.")
+        
+        # Run ensure_wav_16k and expect it to fail
+        with self.assertRaises(Exception):
+            transcribe_youtube.ensure_wav_16k("invalid_test")
+        
+        self.assertFalse(os.path.exists("invalid_test_16k.wav"))
+        
+    def test_ensure_wav_16k_handles_nonexistent_file(self):
+        with self.assertRaises(FileNotFoundError):
+            transcribe_youtube.ensure_wav_16k("nonexistent")
 
 if __name__ == "__main__":
-    main()
+    unittest.main()
+
