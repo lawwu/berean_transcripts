@@ -1,20 +1,36 @@
 import argparse
-from yt_dlp import YoutubeDL
 import logging
+
 import cv2
 import numpy as np
-
 from berean_transcripts.transcribe_youtube import extract_video_id
-from berean_transcripts.utils import (
-    videos_dir,
-    data_dir,
-    dump_json_to_file,
-)
+from berean_transcripts.utils import data_dir, dump_json_to_file, videos_dir
+from yt_dlp import YoutubeDL
 
 
 def frame_difference(prev_frame, curr_frame):
+    """
+    Calculates the difference between two frames.
+
+    Parameters
+    ----------
+    prev_frame : ndarray
+        The previous frame in a video.
+    curr_frame : ndarray
+        The current frame in a video.
+
+    Returns
+    -------
+    int
+        The sum of the absolute differences between the two frames.
+    """
     grayA = cv2.cvtColor(prev_frame, cv2.COLOR_BGR2GRAY)
     grayB = cv2.cvtColor(curr_frame, cv2.COLOR_BGR2GRAY)
+    diff = cv2.absdiff(grayA, grayB)
+    return np.sum(diff)
+
+
+def extract_sections(
     diff = cv2.absdiff(grayA, grayB)
     return np.sum(diff)
 
@@ -33,6 +49,29 @@ def extract_sections(
     Extract sections from sermon video
 
     Threshold of 75_000_000 works for sunday sermon videos
+    """
+    logging.info("Identifying sections from sermon video")
+    video_file_name = str(video_file_path) + "/" + str(video_file)
+    cap = cv2.VideoCapture(video_file_name)
+    fps = int(cap.get(cv2.CAP_PROP_FPS))
+    frame_count = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
+    threshold : int, optional
+        The threshold for determining a section transition (default is 75_000_000).
+    min_seconds : int, optional
+        The minimum number of seconds between section transitions (default is 2).
+    frame_skip : int, optional
+        The number of frames to skip between checks for section transitions (default is 30).
+    start_time : float, optional
+        The start time of the video in seconds (default is None).
+    end_time : float, optional
+        The end time of the video in seconds (default is None).
+
+    Returns
+    -------
+    list of tuple
+        A list of tuples where each tuple represents a section and contains the start and end times in seconds.
+    tuple
+        A tuple representing the sermon section and containing the start and end times in seconds.
     """
     logging.info("Identifying sections from sermon video")
     video_file_name = str(video_file_path) + "/" + str(video_file)
@@ -87,15 +126,26 @@ def extract_sections(
 
 
 def download_video(url, outfile_name, download_dir=videos_dir):
+    """
+    Downloads a video from a given URL and saves it to a specified output file.
+
+    Parameters
+    ----------
+    url : str
+        The URL from which to download the video.
+    outfile_name : str
+        The name of the file to which the downloaded video should be saved.
+    download_dir : str, optional
+        The directory to which the downloaded video should be saved (default is videos_dir).
+
+    Returns
+    -------
+    None
+    """
     try:
         options = {
-            # "format": "bestvideo+bestaudio/best",
             "format": "mp4",
             "outtmpl": str(download_dir / outfile_name),
-            # 'postprocessors': [{
-            #     'key': 'FFmpegVideoConvertor',
-            #     'preferedformat': 'mp4',
-            # }]
         }
         with YoutubeDL(options) as ydl:
             print(f"Downloading: {url}")
