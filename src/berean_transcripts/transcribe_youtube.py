@@ -74,13 +74,21 @@ def extract_audio(video_file, audio_file):
     try:
         (
             ffmpeg.input(video_file)
-            .output(audio_file, acodec="mp3", ac=2, ar="16k", ab="192k")
+            .output(audio_file, acodec="mp3", ac=2, ar="48k", ab="192k")
             .run(overwrite_output=True)
         )
         return audio_file
     except Exception as e:
         print(f"Error extracting audio: {e}")
         return None
+
+
+def ensure_wav_16k(filename):
+    input_path = transcripts_dir / f"{filename}.wav"
+    output_path = transcripts_dir / f"{filename}_16k.wav"
+    # always override with yes
+    command = ["ffmpeg", "-y", "-i", input_path, "-ar", "16000", output_path]
+    subprocess.run(command)
 
 
 @timeit
@@ -140,7 +148,9 @@ def main():
     logging.info("Download audio")
     download_audio(args.url, wav_file_name)
 
-    
+    logging.info("Ensure the wav file is 16 kHz")
+    ensure_wav_16k(wav_file_name)
+
     logging.info("Run whisper.cpp using Metal")
     run_whisper(wav_file_name, args.model_name)
 
