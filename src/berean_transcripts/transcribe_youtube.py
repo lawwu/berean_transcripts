@@ -3,6 +3,9 @@ import argparse
 from yt_dlp import YoutubeDL
 import re
 import ffmpeg
+'''
+This script, transcribe_youtube.py, automates the downloading and processing of audio from YouTube and Vimeo for transcription purposes. It includes functionality for extracting video identifiers, downloading audio as WAV, converting the audio to a 16 kHz sample rate, and transcribing the audio using whispercpp.
+'''
 import logging
 
 from berean_transcripts.utils import (
@@ -55,7 +58,14 @@ def download_audio(url, outfile_name):
 # Extract audio from video
 def extract_audio(video_file, audio_file):
     """
-    Extract audio from video
+    Extracts audio from a video file and saves it as an MP3 file.
+
+    Args:
+        video_file (str): Path to the video file.
+        audio_file (str): Path to save the extracted audio file.
+
+    Returns:
+        str: Path to the extracted audio file.
 
     Parameters
     ----------
@@ -84,6 +94,15 @@ def extract_audio(video_file, audio_file):
 
 
 def ensure_wav_16k(filename):
+    """
+    Converts a WAV file to 16 kHz sample rate.
+
+    Args:
+        filename (str): Path to the input WAV file.
+
+    Returns:
+        None
+    """
     input_path = transcripts_dir / f"{filename}.wav"
     output_path = transcripts_dir / f"{filename}_16k.wav"
     # always override with yes
