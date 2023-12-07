@@ -84,14 +84,19 @@ def extract_audio(video_file, audio_file):
 
 
 @timeit
-def run_whisper(filename, model_name, num_threads=7, num_processors=1):
+def define_paths(filename, model_name):
     model_path = model_dir / model_name
     input_path = transcripts_dir / f"{filename}_16k.wav"
     output_path = transcripts_dir / f"{filename}.txt"
+    return model_path, input_path, output_path
 
+
+@timeit
+def run_whisper(filename, model_name, num_threads=7, num_processors=1):
+    model_path, input_path, output_path = define_paths(filename, model_name)
     whisper_main = whispercpp_dir / "main"
     command = f"{whisper_main} -m {model_path} -t {num_threads} -p {num_processors} -f {input_path} > {output_path}"
-    subprocess.run(command, shell=True)
+    run_subprocess(command)
 
 
 def clean_up_wav_files(base_filename):
@@ -152,3 +157,21 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+def test_define_paths():
+    model_name = "test-model"
+    filename = "test-file"
+    assert define_paths(filename, model_name) == (
+        model_dir / model_name,
+        transcripts_dir / f"{filename}_16k.wav",
+        transcripts_dir / f"{filename}.txt"
+    )
+
+
+def test_run_subprocess(mocker):
+    command = "echo 'Hello, World!'"
+    mock_run = mocker.patch('subprocess.run')
+    run_subprocess(command)
+    mock_run.assert_called_once_with(command, shell=True)
+
