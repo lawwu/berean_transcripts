@@ -1,0 +1,1390 @@
+
+[00:00:00.000 --> 00:00:02.920]   (soft piano music)
+[00:00:02.920 --> 00:00:05.840]   (soft piano music)
+[00:00:05.840 --> 00:00:08.760]   (soft piano music)
+[00:00:08.800 --> 00:00:11.720]   (soft piano music)
+[00:00:11.720 --> 00:00:14.640]   (soft piano music)
+[00:00:15.640 --> 00:00:18.560]   (soft piano music)
+[00:00:18.560 --> 00:00:25.600]   (soft piano music)
+[00:00:25.600 --> 00:00:32.480]   (soft piano music)
+[00:00:32.480 --> 00:00:41.560]   (soft piano music)
+[00:00:41.560 --> 00:00:44.480]   (soft piano music)
+[00:00:44.480 --> 00:00:53.400]   (soft piano music)
+[00:00:53.400 --> 00:01:02.400]   (soft piano music)
+[00:01:02.400 --> 00:01:10.480]   (soft piano music)
+[00:01:11.400 --> 00:01:14.400]   (soft piano music)
+[00:01:14.400 --> 00:01:23.400]   (soft piano music)
+[00:01:23.400 --> 00:01:33.400]   (soft piano music)
+[00:01:40.400 --> 00:01:43.400]   (soft piano music)
+[00:01:43.400 --> 00:01:50.400]   (soft piano music)
+[00:01:50.400 --> 00:01:57.400]   (soft piano music)
+[00:01:57.400 --> 00:02:08.400]   (soft piano music)
+[00:02:08.400 --> 00:02:11.400]   (soft piano music)
+[00:02:11.400 --> 00:02:22.400]   (soft piano music)
+[00:02:22.400 --> 00:02:34.400]   (soft piano music)
+[00:02:34.400 --> 00:02:37.400]   (soft piano music)
+[00:02:37.400 --> 00:02:49.400]   (soft piano music)
+[00:02:49.400 --> 00:03:02.400]   (soft piano music)
+[00:03:03.400 --> 00:03:06.400]   (soft piano music)
+[00:03:06.400 --> 00:03:17.400]   (soft piano music)
+[00:03:17.400 --> 00:03:27.400]   (soft piano music)
+[00:03:27.400 --> 00:03:30.400]   (soft piano music)
+[00:03:30.400 --> 00:03:42.400]   (soft piano music)
+[00:03:42.400 --> 00:03:55.400]   (soft piano music)
+[00:03:56.400 --> 00:03:59.400]   (soft piano music)
+[00:03:59.400 --> 00:04:09.400]   (soft piano music)
+[00:04:09.400 --> 00:04:21.400]   (soft piano music)
+[00:04:21.400 --> 00:04:24.400]   (soft piano music)
+[00:04:24.400 --> 00:04:35.400]   (soft piano music)
+[00:04:35.400 --> 00:04:45.400]   (soft piano music)
+[00:04:45.400 --> 00:04:48.400]   (soft piano music)
+[00:04:48.400 --> 00:04:59.400]   (soft piano music)
+[00:04:59.400 --> 00:05:08.400]   (soft piano music)
+[00:05:09.400 --> 00:05:12.400]   (soft piano music)
+[00:05:12.400 --> 00:05:28.400]   (soft piano music)
+[00:05:28.400 --> 00:05:31.400]   (soft piano music)
+[00:05:31.400 --> 00:05:43.400]   (soft piano music)
+[00:05:43.400 --> 00:05:53.400]   (soft piano music)
+[00:05:53.400 --> 00:05:56.400]   (soft piano music)
+[00:05:56.400 --> 00:06:11.400]   (soft piano music)
+[00:06:11.400 --> 00:06:14.400]   (soft piano music)
+[00:06:14.400 --> 00:06:27.400]   (soft piano music)
+[00:06:27.400 --> 00:06:30.400]   (soft piano music)
+[00:06:30.400 --> 00:06:45.400]   (soft piano music)
+[00:06:46.400 --> 00:06:49.400]   (soft piano music)
+[00:06:49.400 --> 00:06:58.400]   (soft piano music)
+[00:06:58.400 --> 00:07:11.400]   (soft piano music)
+[00:07:12.400 --> 00:07:15.400]   (soft piano music)
+[00:07:15.400 --> 00:07:24.400]   (soft piano music)
+[00:07:24.400 --> 00:07:34.400]   (soft piano music)
+[00:07:34.400 --> 00:07:37.400]   (soft piano music)
+[00:07:37.400 --> 00:07:47.400]   (soft piano music)
+[00:07:47.400 --> 00:07:59.400]   (soft piano music)
+[00:07:59.400 --> 00:08:02.400]   (soft piano music)
+[00:08:02.400 --> 00:08:13.400]   (soft piano music)
+[00:08:13.400 --> 00:08:22.400]   (soft piano music)
+[00:08:22.400 --> 00:08:25.400]   (soft piano music)
+[00:08:25.400 --> 00:08:35.400]   (soft piano music)
+[00:08:35.400 --> 00:08:47.400]   (soft piano music)
+[00:08:47.400 --> 00:08:50.400]   (soft piano music)
+[00:08:50.400 --> 00:09:07.400]   (soft piano music)
+[00:09:07.400 --> 00:09:10.400]   (soft piano music)
+[00:09:10.400 --> 00:09:26.400]   (soft piano music)
+[00:09:26.400 --> 00:09:29.400]   (soft piano music)
+[00:09:29.400 --> 00:09:39.400]   (soft piano music)
+[00:09:39.400 --> 00:09:49.400]   (soft piano music)
+[00:09:49.400 --> 00:09:52.400]   (soft piano music)
+[00:09:52.400 --> 00:10:07.400]   (soft piano music)
+[00:10:07.400 --> 00:10:10.400]   (soft piano music)
+[00:10:10.400 --> 00:10:22.400]   (soft piano music)
+[00:10:22.400 --> 00:10:36.400]   (soft piano music)
+[00:10:36.400 --> 00:10:39.400]   (soft piano music)
+[00:10:39.400 --> 00:10:54.400]   (soft piano music)
+[00:10:54.400 --> 00:10:57.400]   (soft piano music)
+[00:10:57.400 --> 00:11:17.400]   (soft piano music)
+[00:11:17.400 --> 00:11:20.400]   (soft piano music)
+[00:11:20.400 --> 00:11:28.400]   - Good morning, church family.
+[00:11:28.400 --> 00:11:29.400]   Happy Lord's Day.
+[00:11:29.400 --> 00:11:33.120]   As we get closer and closer to Christmas,
+[00:11:33.120 --> 00:11:36.080]   may we stay thoughtful of its meaning
+[00:11:36.080 --> 00:11:38.520]   to celebrate the birth of our Savior, Jesus,
+[00:11:38.520 --> 00:11:42.680]   and how he would bring true hope of salvation,
+[00:11:42.680 --> 00:11:44.120]   how he would die for our sins,
+[00:11:44.120 --> 00:11:46.760]   forgive us, and make us right with God the Father.
+[00:11:47.520 --> 00:11:49.640]   Hebrews 7, verse 25, it reads,
+[00:11:49.640 --> 00:11:52.040]   "Therefore he is able also to save forever
+[00:11:52.040 --> 00:11:54.640]   "those who draw near to God through him,
+[00:11:54.640 --> 00:11:57.720]   "since he always lives to make intercession for them."
+[00:11:57.720 --> 00:12:01.440]   Today, may we rejoice that we have a great high priest
+[00:12:01.440 --> 00:12:04.120]   who is Jesus, who advocates for us,
+[00:12:04.120 --> 00:12:06.160]   and who is our righteousness,
+[00:12:06.160 --> 00:12:08.520]   and that eternal life is secure through him.
+[00:12:14.040 --> 00:12:16.960]   (soft piano music)
+[00:12:16.960 --> 00:12:23.160]   Sing before the throne.
+[00:12:23.160 --> 00:12:28.160]   ♪ Before the throne of God above ♪
+[00:12:28.160 --> 00:12:33.360]   ♪ I have a strong man, perfectly ♪
+[00:12:33.360 --> 00:12:38.720]   ♪ A great high priest whose name is love ♪
+[00:12:38.720 --> 00:12:43.760]   ♪ Whoever lives and bleeds for me ♪
+[00:12:44.000 --> 00:12:49.000]   ♪ My name is graven on his hands ♪
+[00:12:49.000 --> 00:12:54.120]   ♪ My name is written on his heart ♪
+[00:12:54.120 --> 00:12:59.400]   ♪ I know that while in heaven he stands ♪
+[00:12:59.400 --> 00:13:04.600]   ♪ No tongue can bid me dance depart ♪
+[00:13:04.600 --> 00:13:09.380]   ♪ No tongue can bid me dance depart ♪
+[00:13:09.500 --> 00:13:12.420]   (soft piano music)
+[00:13:12.420 --> 00:13:21.380]   ♪ When Satan tempts me to despair ♪
+[00:13:21.380 --> 00:13:28.020]   ♪ It tells me of the guilt within ♪
+[00:13:28.020 --> 00:13:33.220]   ♪ But I look and see it there ♪
+[00:13:33.220 --> 00:13:38.420]   ♪ Who made an end to all my sin ♪
+[00:13:38.620 --> 00:13:43.620]   ♪ Because the sinless Savior died ♪
+[00:13:43.620 --> 00:13:48.780]   ♪ My sinful soul is counted free ♪
+[00:13:48.780 --> 00:13:53.980]   ♪ For God the justice satisfied ♪
+[00:13:53.980 --> 00:13:59.220]   ♪ To look on him and praise him ♪
+[00:13:59.220 --> 00:14:03.420]   ♪ To look on him and praise him ♪
+[00:14:03.420 --> 00:14:05.540]   Amen.
+[00:14:06.140 --> 00:14:09.060]   (soft piano music)
+[00:14:09.060 --> 00:14:12.740]   Behold him there.
+[00:14:12.740 --> 00:14:17.740]   ♪ Behold him there, the risen lamb ♪
+[00:14:17.740 --> 00:14:22.900]   ♪ My perfect smallest righteousness ♪
+[00:14:22.900 --> 00:14:28.140]   ♪ The great outchanger of all I am ♪
+[00:14:28.140 --> 00:14:33.300]   ♪ The king of glory and of grace ♪
+[00:14:33.580 --> 00:14:38.580]   ♪ One with himself I cannot die ♪
+[00:14:38.580 --> 00:14:43.780]   ♪ My soul is purchased by his blood ♪
+[00:14:43.780 --> 00:14:49.020]   ♪ My life is healed with Christ on high ♪
+[00:14:49.020 --> 00:14:54.220]   ♪ With Christ my Savior, with my God ♪
+[00:14:54.220 --> 00:14:58.460]   ♪ With Christ my Savior, with my God ♪
+[00:14:58.460 --> 00:15:03.460]   ♪ Because the sinless, because the sinless Savior died ♪
+[00:15:03.500 --> 00:15:08.500]   ♪ My sinful soul is counted free ♪
+[00:15:08.500 --> 00:15:13.860]   ♪ For God the justice satisfied ♪
+[00:15:13.860 --> 00:15:19.380]   ♪ To look on him and praise him ♪
+[00:15:19.380 --> 00:15:23.540]   ♪ To look on him and praise him ♪
+[00:15:24.540 --> 00:15:27.460]   (soft piano music)
+[00:15:27.460 --> 00:15:38.620]   All right, good morning, everyone.
+[00:15:38.620 --> 00:15:41.340]   Some announcements for today.
+[00:15:41.340 --> 00:15:44.860]   Well, a reminder, we have a big thing coming up soon.
+[00:15:44.860 --> 00:15:46.580]   The three services that are gonna be happening
+[00:15:46.580 --> 00:15:50.620]   in about three Sundays, yeah, three Sundays.
+[00:15:50.620 --> 00:15:52.380]   We're gonna be starting three services.
+[00:15:52.380 --> 00:15:54.780]   So make sure that you keep that in mind
+[00:15:54.780 --> 00:15:58.020]   and stay tuned for any additional opportunities to serve
+[00:15:58.020 --> 00:16:00.060]   or different announcements that might come up
+[00:16:00.060 --> 00:16:01.180]   as a result of that.
+[00:16:01.180 --> 00:16:04.380]   So if you could pay attention in the future to things,
+[00:16:04.380 --> 00:16:05.380]   that might be very helpful.
+[00:16:05.380 --> 00:16:07.300]   It's not gonna be the same.
+[00:16:07.300 --> 00:16:10.140]   Next week is our Christmas Eve service.
+[00:16:10.140 --> 00:16:11.740]   We have these flyers.
+[00:16:11.740 --> 00:16:13.500]   We wanna make sure these are all gone.
+[00:16:13.500 --> 00:16:16.540]   So pick up as many as you'd like.
+[00:16:16.540 --> 00:16:19.540]   We have a stack there and also in the cafe.
+[00:16:19.540 --> 00:16:23.260]   And it's the best time of the year to invite people
+[00:16:23.260 --> 00:16:25.540]   because it's just an easy, natural thing
+[00:16:25.540 --> 00:16:28.780]   as we're already celebrating something called Christmas.
+[00:16:28.780 --> 00:16:31.500]   To share this, there's going to be an outreach table
+[00:16:31.500 --> 00:16:34.500]   right after the service where you can bring them.
+[00:16:34.500 --> 00:16:36.180]   There'll be some material there.
+[00:16:36.180 --> 00:16:38.500]   Outreach members will be there to talk to them
+[00:16:38.500 --> 00:16:40.340]   and pray with them if needed.
+[00:16:40.340 --> 00:16:42.500]   So please keep that in mind.
+[00:16:42.500 --> 00:16:44.300]   Along with that service is going to be
+[00:16:44.300 --> 00:16:46.460]   our Lottie Moon offering.
+[00:16:46.460 --> 00:16:48.300]   So if you would like to give to that,
+[00:16:48.300 --> 00:16:50.500]   please prepare for that.
+[00:16:50.500 --> 00:16:52.660]   In two weeks' time, we're going to be having
+[00:16:52.660 --> 00:16:55.340]   our New Year's Eve service as well as a ping pong tournament.
+[00:16:55.340 --> 00:16:58.180]   So sign up for that ping pong tournament if you would like.
+[00:16:58.180 --> 00:16:59.700]   And then the New Year's Eve service
+[00:16:59.700 --> 00:17:02.180]   is gonna be at 11 p.m. right here.
+[00:17:02.180 --> 00:17:04.860]   So join us as we ring in the New Year together.
+[00:17:04.860 --> 00:17:08.900]   And then just a reminder, coming up for the members
+[00:17:08.900 --> 00:17:13.060]   on January 14th, there's a members meeting at 2 p.m.
+[00:17:13.060 --> 00:17:18.140]   Now for next week, for our Christmas service,
+[00:17:18.140 --> 00:17:20.540]   we're not sure what the parking is going to be like.
+[00:17:20.540 --> 00:17:23.740]   Take note that there'll be additional visitors parking,
+[00:17:23.740 --> 00:17:27.100]   but we've also been granted this parking lot right here.
+[00:17:27.100 --> 00:17:28.980]   So not this one right behind us,
+[00:17:28.980 --> 00:17:31.340]   not the one right over the basketball wall,
+[00:17:31.340 --> 00:17:32.540]   but the one next to that.
+[00:17:32.540 --> 00:17:33.780]   It's called Xylem.
+[00:17:33.780 --> 00:17:35.700]   So there's gonna be an additional parking lot
+[00:17:35.700 --> 00:17:36.700]   open for that.
+[00:17:36.700 --> 00:17:40.340]   So if you need that, please do take advantage of it, okay?
+[00:17:40.340 --> 00:17:43.060]   Our offering box is in the back there.
+[00:17:43.060 --> 00:17:44.540]   You can zelle as well.
+[00:17:44.540 --> 00:17:45.540]   I'll pray for us.
+[00:17:47.860 --> 00:17:49.380]   Heavenly Father, we pray, God,
+[00:17:49.380 --> 00:17:54.380]   for you to guide us and lead us into offering.
+[00:17:54.380 --> 00:17:57.660]   Father, that we would do our best
+[00:17:57.660 --> 00:17:58.980]   to fight against temptation,
+[00:17:58.980 --> 00:18:02.940]   to just repetitively, constantly,
+[00:18:02.940 --> 00:18:05.340]   habitually do the same things,
+[00:18:05.340 --> 00:18:07.580]   and yet our hearts aren't there.
+[00:18:07.580 --> 00:18:10.020]   Father, would you remind us of why it is that we give?
+[00:18:10.020 --> 00:18:11.700]   Would you remind us, Lord, that we give
+[00:18:11.700 --> 00:18:14.820]   because you are good, and we want your purposes,
+[00:18:14.820 --> 00:18:16.740]   your kingdom to come.
+[00:18:16.740 --> 00:18:18.140]   In Jesus' name we pray, amen.
+[00:18:18.140 --> 00:18:22.420]   (soft piano music)
+[00:18:22.420 --> 00:18:25.340]   (soft piano music)
+[00:18:25.340 --> 00:18:28.260]   (soft piano music)
+[00:18:29.060 --> 00:18:31.980]   (soft piano music)
+[00:18:31.980 --> 00:18:34.900]   (soft piano music)
+[00:18:34.900 --> 00:18:37.820]   (soft piano music)
+[00:18:37.820 --> 00:18:40.740]   (soft piano music)
+[00:19:07.580 --> 00:19:09.660]   - Let's all rise as we continue our service,
+[00:19:09.660 --> 00:19:12.180]   but before we do, if we could spend a few moments
+[00:19:12.180 --> 00:19:13.820]   to greet the neighbors around us.
+[00:19:13.820 --> 00:19:18.820]   (coughing)
+[00:19:19.420 --> 00:19:21.660]   (coughing)
+[00:19:21.660 --> 00:19:43.180]   (coughing)
+[00:19:47.060 --> 00:19:49.980]   (soft piano music)
+[00:19:49.980 --> 00:20:11.500]   (soft piano music)
+[00:20:14.860 --> 00:20:17.780]   (soft piano music)
+[00:20:17.780 --> 00:20:22.940]   (upbeat music)
+[00:20:22.940 --> 00:20:32.940]   ♪ I was an orphan ♪
+[00:20:32.940 --> 00:20:36.100]   ♪ I was an orphan lost at the fall ♪
+[00:20:36.100 --> 00:20:39.900]   ♪ Running away when I'd hear you call ♪
+[00:20:39.900 --> 00:20:44.740]   ♪ But Father, you worked your will ♪
+[00:20:44.740 --> 00:20:48.140]   ♪ I had no righteousness of my own ♪
+[00:20:48.140 --> 00:20:52.060]   ♪ I had no right to draw near your throne ♪
+[00:20:52.060 --> 00:20:56.860]   ♪ But Father, you loved me still ♪
+[00:20:56.860 --> 00:21:01.860]   ♪ And in love before you laid the world's foundation ♪
+[00:21:01.860 --> 00:21:08.220]   ♪ You predestined to adopt me as your own ♪
+[00:21:08.220 --> 00:21:14.500]   ♪ You have raised me up so high above my station ♪
+[00:21:15.500 --> 00:21:20.500]   ♪ I'm a child of God by grace, grace alone ♪
+[00:21:20.500 --> 00:21:25.620]   (upbeat music)
+[00:21:25.620 --> 00:21:35.500]   ♪ You left your home ♪
+[00:21:35.500 --> 00:21:38.620]   ♪ You left your home to seek out the lost ♪
+[00:21:38.620 --> 00:21:42.500]   ♪ You knew the great and terrible cost ♪
+[00:21:42.500 --> 00:21:47.500]   ♪ But Jesus, your face was set ♪
+[00:21:47.500 --> 00:21:51.500]   ♪ I worked my fingers down to the bone ♪
+[00:21:51.500 --> 00:21:55.500]   ♪ Nothing I did could ever atone ♪
+[00:21:55.500 --> 00:22:00.500]   ♪ But Jesus, you paid my debt ♪
+[00:22:00.500 --> 00:22:05.500]   ♪ By your blood, I have redemption and salvation ♪
+[00:22:05.500 --> 00:22:11.500]   ♪ Lord, you died that I might rework you, my soul ♪
+[00:22:12.500 --> 00:22:17.500]   ♪ And you rose that I might be a new creation ♪
+[00:22:17.500 --> 00:22:24.500]   ♪ I am born again by grace, grace alone ♪
+[00:22:24.500 --> 00:22:29.500]   ♪ I was in darkness all of my life ♪
+[00:22:29.500 --> 00:22:33.500]   ♪ I never knew the day from the night ♪
+[00:22:33.500 --> 00:22:38.500]   ♪ Spirit, you made me see ♪
+[00:22:39.500 --> 00:22:42.500]   ♪ I knew the way of my own ♪
+[00:22:42.500 --> 00:22:46.500]   ♪ And full of rocks, a heart made of stone ♪
+[00:22:46.500 --> 00:22:49.500]   ♪ Spirit, you moved it ♪
+[00:22:49.500 --> 00:22:52.500]   ♪ And at your touch, and at your touch ♪
+[00:22:52.500 --> 00:22:57.500]   ♪ This weeping spirit was awakened ♪
+[00:22:57.500 --> 00:23:02.500]   ♪ All my dark came out and manifested ♪
+[00:23:03.500 --> 00:23:09.500]   ♪ Falling to a kingdom that did not prevail ♪
+[00:23:09.500 --> 00:23:14.500]   ♪ Heaven said, I stand by grace, grace alone ♪
+[00:23:14.500 --> 00:23:20.500]   ♪ So I'll stand and go by grace, grace alone ♪
+[00:23:20.500 --> 00:23:27.500]   ♪ I will not lose by grace, grace alone ♪
+[00:23:28.500 --> 00:23:33.500]   ♪ I will stand and stand by grace, grace alone ♪
+[00:23:33.500 --> 00:23:41.500]   ♪ I will reach the end by grace, grace alone ♪
+[00:23:41.500 --> 00:23:46.500]   ♪ Oh, oh, oh, oh ♪
+[00:23:46.500 --> 00:23:53.500]   (soft piano music)
+[00:23:53.500 --> 00:24:05.500]   ♪ There is no song we could sing ♪
+[00:24:05.500 --> 00:24:10.500]   ♪ To honor the weight of your glory ♪
+[00:24:10.500 --> 00:24:15.500]   ♪ There are no words we could speak ♪
+[00:24:15.500 --> 00:24:20.500]   ♪ To capture the depth of your beauty ♪
+[00:24:20.500 --> 00:24:27.500]   ♪ Jesus, there's no one like you ♪
+[00:24:27.500 --> 00:24:32.500]   ♪ Jesus, we love you, ever adore you ♪
+[00:24:32.500 --> 00:24:37.500]   ♪ There's no one like you ♪
+[00:24:37.500 --> 00:24:44.500]   ♪ Jesus, we love you, ever adore you, Lord ♪
+[00:24:44.500 --> 00:24:47.500]   (soft piano music)
+[00:24:47.500 --> 00:24:57.500]   ♪ There is no sin I could know ♪
+[00:24:57.500 --> 00:25:02.500]   ♪ The infinite stretch of your mercy ♪
+[00:25:02.500 --> 00:25:07.500]   ♪ How can we thank you enough ♪
+[00:25:07.500 --> 00:25:12.500]   ♪ For how you have loved us completely ♪
+[00:25:12.500 --> 00:25:20.500]   ♪ Jesus, there's no one like you ♪
+[00:25:20.500 --> 00:25:25.500]   ♪ Jesus, we love you, ever adore you ♪
+[00:25:25.500 --> 00:25:30.500]   ♪ There's no one like you ♪
+[00:25:30.500 --> 00:25:35.500]   ♪ Jesus, we love you, ever adore you ♪
+[00:25:35.500 --> 00:25:40.500]   ♪ There's no one like you ♪
+[00:25:40.500 --> 00:25:45.500]   ♪ Jesus, we love you, ever adore you ♪
+[00:25:45.500 --> 00:25:50.500]   ♪ There's no one like you ♪
+[00:25:50.500 --> 00:25:57.500]   ♪ Jesus, we love you, ever adore you, Lord ♪
+[00:25:57.500 --> 00:26:00.500]   (soft piano music)
+[00:26:00.500 --> 00:26:06.500]   ♪ All we have ♪
+[00:26:06.500 --> 00:26:11.500]   ♪ All we need ♪
+[00:26:11.500 --> 00:26:19.500]   ♪ All we want is you ♪
+[00:26:21.500 --> 00:26:26.500]   ♪ All we have ♪
+[00:26:26.500 --> 00:26:31.500]   ♪ All we need ♪
+[00:26:31.500 --> 00:26:39.500]   ♪ All we want is you ♪
+[00:26:39.500 --> 00:26:46.500]   ♪ All we have ♪
+[00:26:46.500 --> 00:26:51.500]   ♪ All we need ♪
+[00:26:51.500 --> 00:27:00.500]   ♪ All we want is you ♪
+[00:27:00.500 --> 00:27:06.500]   ♪ Jesus, there's no one like you ♪
+[00:27:06.500 --> 00:27:11.500]   ♪ Jesus, we love you, ever adore you ♪
+[00:27:11.500 --> 00:27:17.500]   ♪ There's no one like you ♪
+[00:27:17.500 --> 00:27:22.500]   ♪ Jesus, we love you, ever adore you ♪
+[00:27:22.500 --> 00:27:27.500]   ♪ There's no one like you ♪
+[00:27:27.500 --> 00:27:33.500]   ♪ Jesus, we love you, ever adore you, Lord ♪
+[00:27:33.500 --> 00:27:37.500]   ♪ No one like you ♪
+[00:27:37.500 --> 00:27:44.500]   ♪ Jesus, we love you, ever adore you, Lord ♪
+[00:27:44.500 --> 00:27:47.500]   (soft piano music)
+[00:27:47.500 --> 00:27:56.500]   - Amen, you may be seated.
+[00:27:57.500 --> 00:28:00.500]   (soft piano music)
+[00:28:00.500 --> 00:28:18.500]   - Good morning, my name is Alex,
+[00:28:18.500 --> 00:28:21.500]   and I'd like to share my testimony with you.
+[00:28:24.500 --> 00:28:27.500]   As a child, I did not regularly attend church.
+[00:28:27.500 --> 00:28:29.500]   In middle school, I followed a few classmates
+[00:28:29.500 --> 00:28:32.500]   to their churches, mainly to make friends.
+[00:28:32.500 --> 00:28:37.500]   I heard about God, sin, the cross, the resurrection,
+[00:28:37.500 --> 00:28:39.500]   but my understanding of Christianity
+[00:28:39.500 --> 00:28:42.500]   was spotty and superficial.
+[00:28:42.500 --> 00:28:44.500]   I rarely opened my Bible.
+[00:28:44.500 --> 00:28:49.500]   I was just a churchgoer, a consumer of church culture.
+[00:28:49.500 --> 00:28:51.500]   The things I learned led to no authentic belief
+[00:28:51.500 --> 00:28:54.500]   or lasting change in character.
+[00:28:54.500 --> 00:28:56.500]   I continued that way through my youth,
+[00:28:56.500 --> 00:28:58.500]   as I hopped from church to church
+[00:28:58.500 --> 00:29:01.500]   with each new group of friends.
+[00:29:01.500 --> 00:29:03.500]   In high school and college, I started thinking more
+[00:29:03.500 --> 00:29:05.500]   about the rationality of Christian faith
+[00:29:05.500 --> 00:29:10.500]   and listened to talks from some prominent Christian apologists.
+[00:29:10.500 --> 00:29:14.500]   I understood on a rational level that if God did not exist,
+[00:29:14.500 --> 00:29:16.500]   there could be no absolute truth
+[00:29:16.500 --> 00:29:18.500]   or ultimate standard of morality.
+[00:29:18.500 --> 00:29:20.500]   I knew that if life was to mean anything,
+[00:29:20.500 --> 00:29:23.500]   God must exist.
+[00:29:23.500 --> 00:29:28.500]   However, my problem was that I loved the pleasures of sin.
+[00:29:28.500 --> 00:29:32.500]   Thus, I opted for the absurd but convenient lie
+[00:29:32.500 --> 00:29:34.500]   that God does not exist
+[00:29:34.500 --> 00:29:37.500]   and that life is without meaning or purpose.
+[00:29:37.500 --> 00:29:39.500]   After college, I stopped going to church
+[00:29:39.500 --> 00:29:41.500]   and chose to believe that all things
+[00:29:41.500 --> 00:29:44.500]   had come into existence by chance.
+[00:29:44.500 --> 00:29:46.500]   In the words of Romans,
+[00:29:46.500 --> 00:29:48.500]   "Even though that which is known about God
+[00:29:48.500 --> 00:29:50.500]   had been made evident to me,
+[00:29:50.500 --> 00:29:53.500]   I suppressed the truth and unrighteousness.
+[00:29:53.500 --> 00:29:56.500]   I loved the darkness rather than the light
+[00:29:56.500 --> 00:29:59.500]   because my deeds were evil."
+[00:29:59.500 --> 00:30:01.500]   Thinking myself free of God,
+[00:30:01.500 --> 00:30:04.500]   my mind descended into futility.
+[00:30:04.500 --> 00:30:06.500]   Ultimately, there was no right or wrong.
+[00:30:06.500 --> 00:30:09.500]   When we die, we simply cease to exist.
+[00:30:09.500 --> 00:30:12.500]   If life ever gets too difficult or painful,
+[00:30:12.500 --> 00:30:14.500]   I can just end my life.
+[00:30:14.500 --> 00:30:16.500]   In the meantime, I should live
+[00:30:16.500 --> 00:30:19.500]   to maximize my experience of pleasure.
+[00:30:19.500 --> 00:30:22.500]   Like the Israelites in the time of the judges,
+[00:30:22.500 --> 00:30:24.500]   I acknowledged no king
+[00:30:24.500 --> 00:30:28.500]   and did what was right in my own eyes.
+[00:30:28.500 --> 00:30:32.500]   In John 8.34, the Lord Jesus declared,
+[00:30:32.500 --> 00:30:35.500]   "Truly, truly, I say to you,
+[00:30:35.500 --> 00:30:39.500]   everyone who commits sin is a slave of sin."
+[00:30:39.500 --> 00:30:42.500]   My life bore testimony to this truth.
+[00:30:42.500 --> 00:30:45.500]   I squandered my young adulthood in slavery.
+[00:30:45.500 --> 00:30:48.500]   A slave to all manner of uncleanness,
+[00:30:48.500 --> 00:30:53.500]   immorality, lust, self-pity, and greed.
+[00:30:53.500 --> 00:30:56.500]   Living to satisfy my selfish desires
+[00:30:56.500 --> 00:30:59.500]   and numbing my conscience through substance abuse.
+[00:30:59.500 --> 00:31:02.500]   Loving money and chasing wealth
+[00:31:02.500 --> 00:31:05.500]   through dishonest business practices.
+[00:31:05.500 --> 00:31:08.500]   I was an uncaring son,
+[00:31:08.500 --> 00:31:10.500]   an indifferent brother,
+[00:31:10.500 --> 00:31:13.500]   a poor role model to my nephews,
+[00:31:13.500 --> 00:31:18.500]   and an unloving companion to my wife-to-be.
+[00:31:18.500 --> 00:31:21.500]   Aside from momentary escapes
+[00:31:21.500 --> 00:31:24.500]   into drunkenness and other vices,
+[00:31:24.500 --> 00:31:27.500]   I became deeply unhappy and lost,
+[00:31:27.500 --> 00:31:30.500]   not knowing the points of living.
+[00:31:30.500 --> 00:31:33.500]   If God had left me to perish in that state,
+[00:31:33.500 --> 00:31:35.500]   I would have fully deserved it.
+[00:31:35.500 --> 00:31:38.500]   Being a mere worm before him,
+[00:31:38.500 --> 00:31:40.500]   I had had the audacious effrontery
+[00:31:40.500 --> 00:31:43.500]   to treat the Most High God with insolent contempt,
+[00:31:43.500 --> 00:31:45.500]   profaning his name
+[00:31:45.500 --> 00:31:48.500]   and making a shameful mockery of the precious gift of life
+[00:31:48.500 --> 00:31:52.500]   he had granted me and entrusted me to steward.
+[00:31:52.500 --> 00:31:55.500]   How can I answer for the 34 years of life
+[00:31:55.500 --> 00:31:59.500]   I lived in open rebellion against my Maker?
+[00:31:59.500 --> 00:32:01.500]   It is a mystery to me
+[00:32:01.500 --> 00:32:04.500]   why God determined to show me mercy.
+[00:32:04.500 --> 00:32:08.500]   For me, God's mercy came with fury,
+[00:32:08.500 --> 00:32:10.500]   like a whirlwind.
+[00:32:10.500 --> 00:32:14.500]   In 2018, by his good providence,
+[00:32:14.500 --> 00:32:18.500]   God smashed into pieces the idols in my life.
+[00:32:18.500 --> 00:32:21.500]   The business I had been working at tirelessly fell apart
+[00:32:21.500 --> 00:32:25.500]   as I became embroiled in a lawsuit with my business partner.
+[00:32:25.500 --> 00:32:28.500]   Meanwhile, my health was rapidly deteriorating
+[00:32:28.500 --> 00:32:30.500]   from the substance abuse.
+[00:32:30.500 --> 00:32:33.500]   At the same time, I could not control my selfishness,
+[00:32:33.500 --> 00:32:35.500]   anger, and lust,
+[00:32:35.500 --> 00:32:39.500]   which were destroying my relationships.
+[00:32:39.500 --> 00:32:42.500]   In misery, I sought solace in books.
+[00:32:42.500 --> 00:32:45.500]   One of the authors I came across was a Christian
+[00:32:45.500 --> 00:32:49.500]   whose writings began to open my eyes to the truth.
+[00:32:49.500 --> 00:32:51.500]   He asserted,
+[00:32:51.500 --> 00:32:55.500]   "God can't give us peace and happiness apart from himself
+[00:32:55.500 --> 00:32:58.500]   because there is no such thing.
+[00:32:58.500 --> 00:33:01.500]   The stamp of the saint is that he can waive his own rights
+[00:33:01.500 --> 00:33:05.500]   from the Lord Jesus."
+[00:33:05.500 --> 00:33:06.500]   Finally, he said,
+[00:33:06.500 --> 00:33:10.500]   "For you will certainly carry out God's purposes however you act,
+[00:33:10.500 --> 00:33:12.500]   but it makes a difference to you
+[00:33:12.500 --> 00:33:17.500]   whether you serve like Judas or like John."
+[00:33:17.500 --> 00:33:20.500]   I soon purchased the Bible and began to read it.
+[00:33:20.500 --> 00:33:24.500]   I also started listening to the preaching of God's Word.
+[00:33:24.500 --> 00:33:27.500]   I don't know how I knew which preachers to listen to,
+[00:33:27.500 --> 00:33:30.500]   but I attribute to the watchful superintendence of God
+[00:33:30.500 --> 00:33:33.500]   that my searching led to the preaching of faithful pastors
+[00:33:33.500 --> 00:33:36.500]   who revere God's Word.
+[00:33:36.500 --> 00:33:38.500]   The immediate effect of these sermons
+[00:33:38.500 --> 00:33:40.500]   was to bring me to the terrifying realization
+[00:33:40.500 --> 00:33:43.500]   that I was going to hell.
+[00:33:43.500 --> 00:33:47.500]   Out of dread, I confessed my sins and repented,
+[00:33:47.500 --> 00:33:50.500]   resolved to turn over a new leaf in life as a Christian.
+[00:33:50.500 --> 00:33:52.500]   Over the next couple of years,
+[00:33:52.500 --> 00:33:56.500]   I learned through many failed attempts to put away my sinful ways
+[00:33:56.500 --> 00:34:00.500]   that I had not the power nor the will to give them up.
+[00:34:00.500 --> 00:34:04.500]   During those dark years, I experienced much despair
+[00:34:04.500 --> 00:34:07.500]   and questioned my salvation many times,
+[00:34:07.500 --> 00:34:09.500]   wondering if I would die in my sins
+[00:34:09.500 --> 00:34:14.500]   because of my unwillingness to give them up.
+[00:34:14.500 --> 00:34:20.500]   One day, I read John Owens on the mortification of sin.
+[00:34:20.500 --> 00:34:23.500]   It helped me see that I could not hope to defeat sin
+[00:34:23.500 --> 00:34:27.500]   if I only intended to live a half-life with God,
+[00:34:27.500 --> 00:34:29.500]   just enough to keep me out of hell,
+[00:34:29.500 --> 00:34:33.500]   but in all other ways pursuing my own ends.
+[00:34:33.500 --> 00:34:39.500]   To be saved and to live would mean first to die,
+[00:34:39.500 --> 00:34:44.500]   to relinquish all claims to myself and give full allegiance to the King,
+[00:34:44.500 --> 00:34:50.500]   to have Him enthroned in my heart and exercise dominion in my life,
+[00:34:50.500 --> 00:34:57.500]   to freely and gladly live to do His will for the glory of His name.
+[00:34:57.500 --> 00:35:02.500]   I am learning that the power to live the Christian life lies not within me,
+[00:35:02.500 --> 00:35:06.500]   but in God's grace, which perfects power and weakness,
+[00:35:06.500 --> 00:35:09.500]   received with a believing heart in unceasing prayer,
+[00:35:09.500 --> 00:35:12.500]   in the renewing of the mind and transforming of the heart
+[00:35:12.500 --> 00:35:15.500]   by the Holy Spirit through His Word,
+[00:35:15.500 --> 00:35:18.500]   and in the living by faith in the Son of God
+[00:35:18.500 --> 00:35:21.500]   who loved me and gave Himself for me.
+[00:35:21.500 --> 00:35:26.500]   Through many humbling failures, yet continuing to strive,
+[00:35:26.500 --> 00:35:30.500]   learning not to trust in myself but in God who strengthens,
+[00:35:30.500 --> 00:35:34.500]   God has granted me victory in my battles with sin,
+[00:35:34.500 --> 00:35:41.500]   given me an abiding peace that daily guards my heart and mind,
+[00:35:41.500 --> 00:35:44.500]   and put in my heart a growing love for Christ
+[00:35:44.500 --> 00:35:49.500]   that treasures His surpassing worth, beauty, and majesty.
+[00:35:49.500 --> 00:35:52.500]   My prayer is that He would cause this love to continue to grow
+[00:35:52.500 --> 00:35:56.500]   and abound toward Him and toward others.
+[00:35:56.500 --> 00:36:00.500]   Not that I have already obtained it or have already become perfect,
+[00:36:00.500 --> 00:36:03.500]   but I press on so that I may lay hold of that
+[00:36:03.500 --> 00:36:07.500]   for which also I was laid hold of by Christ Jesus.
+[00:36:07.500 --> 00:36:09.500]   Thank you.
+[00:36:09.500 --> 00:36:16.500]   [applause]
+[00:36:16.500 --> 00:36:30.500]   Alex, do you understand that by going into the water
+[00:36:30.500 --> 00:36:32.500]   you're uniting with Christ in His death?
+[00:36:32.500 --> 00:36:34.500]   And coming up out of the water,
+[00:36:34.500 --> 00:36:36.500]   you're uniting with Him in His resurrected life?
+[00:36:36.500 --> 00:36:37.500]   I do.
+[00:36:37.500 --> 00:36:43.500]   I baptize you now in the name of the Father, the Son, and the Holy Spirit.
+[00:36:43.500 --> 00:36:49.500]   [applause]
+[00:36:49.500 --> 00:36:59.500]   All right.
+[00:36:59.500 --> 00:37:01.500]   Thank you, Alex, so much.
+[00:37:01.500 --> 00:37:07.500]   This is actually the very specific picture of the sermon
+[00:37:07.500 --> 00:37:10.500]   that we're going to be going through today in Matthew 16
+[00:37:10.500 --> 00:37:14.500]   about what it means to find death and life in Christ.
+[00:37:14.500 --> 00:37:17.500]   And so let me go ahead and read for us this passage,
+[00:37:17.500 --> 00:37:19.500]   and we'll go into a passage that will kind of describe
+[00:37:19.500 --> 00:37:22.500]   what Alex was talking about.
+[00:37:22.500 --> 00:37:31.500]   In Matthew 16, verse 24-27,
+[00:37:31.500 --> 00:37:34.500]   "Then Jesus said to His disciples, 'If anyone wishes to come after Me,
+[00:37:34.500 --> 00:37:38.500]   he must deny himself and take up his cross and follow Me.
+[00:37:38.500 --> 00:37:41.500]   For whoever wishes to save his life will lose it,
+[00:37:41.500 --> 00:37:44.500]   but whoever loses his life for My sake will find it.
+[00:37:44.500 --> 00:37:47.500]   For what will it profit a man if he gains the whole world
+[00:37:47.500 --> 00:37:49.500]   and forfeits his soul?
+[00:37:49.500 --> 00:37:53.500]   Or what will a man give in exchange for his soul?
+[00:37:53.500 --> 00:37:57.500]   For the Son of Man is going to come in the glory of His Father with His angels
+[00:37:57.500 --> 00:38:02.500]   and will then repay every man according to his deeds.'"
+[00:38:02.500 --> 00:38:09.500]   Father, we thank You week to week as we see these baptisms,
+[00:38:09.500 --> 00:38:12.500]   what we are witnessing.
+[00:38:12.500 --> 00:38:14.500]   It's not just something a church does.
+[00:38:14.500 --> 00:38:17.500]   It's not something that a man chooses.
+[00:38:17.500 --> 00:38:23.500]   Father, we're seeing a miracle at work in action,
+[00:38:23.500 --> 00:38:30.500]   that You'd go into our hearts and open them to see our great need for You,
+[00:38:30.500 --> 00:38:37.500]   and subsequently call us to die to our old lives and to live to Yours.
+[00:38:37.500 --> 00:38:41.500]   And Father, I pray that as we read Your Word,
+[00:38:41.500 --> 00:38:45.500]   as we look at words perhaps that we've seen many times,
+[00:38:45.500 --> 00:38:50.500]   that Your Spirit would again come into the heart of every believer
+[00:38:50.500 --> 00:38:53.500]   to open again perhaps what has grown dim.
+[00:38:53.500 --> 00:38:58.500]   In Jesus' name we pray, Amen.
+[00:38:58.500 --> 00:39:03.500]   Well, contrary to what people think today, some people,
+[00:39:03.500 --> 00:39:05.500]   when we think about what it is to follow Christ,
+[00:39:05.500 --> 00:39:08.500]   it's not just a set of moral teaching.
+[00:39:08.500 --> 00:39:12.500]   And there's a very specific time in my life,
+[00:39:12.500 --> 00:39:14.500]   especially because I am the college pastor here.
+[00:39:14.500 --> 00:39:16.500]   If you didn't know who I was, you're like, "Where's Pastor Peter?"
+[00:39:16.500 --> 00:39:19.500]   I'm Nathan. I'm the college pastor at this church.
+[00:39:19.500 --> 00:39:24.500]   And I get to have that privilege of seeing college students come in every year.
+[00:39:24.500 --> 00:39:26.500]   And because of that, we have constant conversations
+[00:39:26.500 --> 00:39:29.500]   and people coming from every which background
+[00:39:29.500 --> 00:39:31.500]   talking about what it means to follow Jesus.
+[00:39:31.500 --> 00:39:34.500]   And that's a very common one we receive,
+[00:39:34.500 --> 00:39:42.500]   that it's to not sin and it's to be good as a person.
+[00:39:42.500 --> 00:39:45.500]   But that's not what it is to follow Jesus.
+[00:39:45.500 --> 00:39:50.500]   It's not following an explicit set of morals.
+[00:39:50.500 --> 00:39:53.500]   Following Jesus isn't just trying to be a better person.
+[00:39:53.500 --> 00:39:56.500]   It's not just trying to be nicer to your mother
+[00:39:56.500 --> 00:39:59.500]   or to be kinder to your coworkers
+[00:39:59.500 --> 00:40:01.500]   or to be more patient with your children
+[00:40:01.500 --> 00:40:06.500]   or to stop the vices or to stop living in certain ways.
+[00:40:06.500 --> 00:40:10.500]   It's more than that.
+[00:40:10.500 --> 00:40:15.500]   I know this because Jesus tells us what it means to follow.
+[00:40:15.500 --> 00:40:20.500]   Jesus tells us so that we are not then afforded the right or the luxury
+[00:40:20.500 --> 00:40:24.500]   to define what it means to follow Jesus.
+[00:40:24.500 --> 00:40:26.500]   He has already defined it.
+[00:40:26.500 --> 00:40:28.500]   He sets the standards.
+[00:40:28.500 --> 00:40:31.500]   He sets the rules. He is the authority.
+[00:40:31.500 --> 00:40:37.500]   All the stipulations come from Him and only Him.
+[00:40:37.500 --> 00:40:41.500]   We don't get to hijack it and tell Him what it means to follow Him.
+[00:40:41.500 --> 00:40:43.500]   There will come a time at the very end,
+[00:40:43.500 --> 00:40:45.500]   that's what the end of this passage said,
+[00:40:45.500 --> 00:40:48.500]   there will come a time at the very end where regardless of what it is
+[00:40:48.500 --> 00:40:50.500]   that we think that we've accomplished,
+[00:40:50.500 --> 00:40:52.500]   whether we think that we have followed Christ or not,
+[00:40:52.500 --> 00:40:56.500]   there is only by one standard that will be judged.
+[00:40:56.500 --> 00:40:59.500]   No amount of wishful thinking is going to change the reality
+[00:40:59.500 --> 00:41:02.500]   as we stand before this Holy God
+[00:41:02.500 --> 00:41:05.500]   of what it meant to follow Him.
+[00:41:05.500 --> 00:41:07.500]   Today we're going to be asking that one question,
+[00:41:07.500 --> 00:41:10.500]   what does it mean to follow Jesus?
+[00:41:10.500 --> 00:41:14.500]   I came across this more so because of the season.
+[00:41:14.500 --> 00:41:17.500]   Jesus is the reason for the season.
+[00:41:17.500 --> 00:41:19.500]   We look around and we look at the Advent season
+[00:41:19.500 --> 00:41:23.500]   and it's very easy to come back to traditions that we've set up.
+[00:41:23.500 --> 00:41:27.500]   Even as a parent, looking through the eyes of my young children,
+[00:41:27.500 --> 00:41:29.500]   that I'm telling them, it's not about the lights,
+[00:41:29.500 --> 00:41:33.500]   it's not about the gifts, and yet I feel sometimes so helpless
+[00:41:33.500 --> 00:41:35.500]   in stopping them from going down that path.
+[00:41:35.500 --> 00:41:38.500]   Regardless of whatever word it is that I kind of shape and say,
+[00:41:38.500 --> 00:41:41.500]   it's about Jesus, I wonder, do they understand?
+[00:41:41.500 --> 00:41:45.500]   Do they see? Do they know?
+[00:41:45.500 --> 00:41:50.500]   And squarely at that place, I wonder what kind of testimony that I set.
+[00:41:50.500 --> 00:41:54.500]   Not just a theological concept I might impart upon my children,
+[00:41:54.500 --> 00:41:58.500]   but do I really believe this?
+[00:41:58.500 --> 00:42:01.500]   It's very, very important.
+[00:42:01.500 --> 00:42:03.500]   We get lost in the vibes and we tell them,
+[00:42:03.500 --> 00:42:07.500]   don't get lost in the gifts, the lights, the hot chocolate.
+[00:42:07.500 --> 00:42:12.500]   We tell them, don't get lost in the vacation and in these things.
+[00:42:12.500 --> 00:42:17.500]   And I find myself just giving it to them.
+[00:42:17.500 --> 00:42:20.500]   What does it mean to follow Jesus?
+[00:42:20.500 --> 00:42:24.500]   It's the very same question that's being answered
+[00:42:24.500 --> 00:42:28.500]   of what does it mean to be Christian?
+[00:42:28.500 --> 00:42:31.500]   So we're going to be going into this passage,
+[00:42:31.500 --> 00:42:36.500]   and because it's a passage, I'm certain most of us know.
+[00:42:36.500 --> 00:42:40.500]   I didn't do very much preparation in terms of organization.
+[00:42:40.500 --> 00:42:42.500]   We're just going to go straight through.
+[00:42:42.500 --> 00:42:46.500]   So you're going to see, we're just going to go word by word.
+[00:42:46.500 --> 00:42:48.500]   So we're going to have four points today,
+[00:42:48.500 --> 00:42:52.500]   and the first one is desire Jesus.
+[00:42:52.500 --> 00:42:55.500]   Remember, our question is what does it look like to follow Jesus?
+[00:42:55.500 --> 00:42:58.500]   What does it mean to follow Jesus?
+[00:42:58.500 --> 00:43:01.500]   It's to desire Jesus, first point.
+[00:43:01.500 --> 00:43:05.500]   Then Jesus said to his disciples, "If anyone wishes to come after me,"
+[00:43:05.500 --> 00:43:06.500]   and we stop right there.
+[00:43:06.500 --> 00:43:11.500]   "If anyone wishes, if anyone desires, if anyone wants to,"
+[00:43:11.500 --> 00:43:19.500]   and we sing a song today that's very, very dangerous.
+[00:43:19.500 --> 00:43:22.500]   Jesus, there's no one like you.
+[00:43:22.500 --> 00:43:23.500]   I love you.
+[00:43:23.500 --> 00:43:28.500]   I adore you.
+[00:43:28.500 --> 00:43:31.500]   Because we have to ask ourselves, before we got lost in the music
+[00:43:31.500 --> 00:43:37.500]   and in the drums and in the song and just the instrumentality of it all,
+[00:43:37.500 --> 00:43:41.500]   of the fact that we're here away from our homes, from our jobs,
+[00:43:41.500 --> 00:43:44.500]   that we're sitting here in a place that's structured for worship,
+[00:43:44.500 --> 00:43:48.500]   that we sing these songs and yet do it so flippantly,
+[00:43:48.500 --> 00:43:50.500]   that our words would be so empty.
+[00:43:50.500 --> 00:43:55.500]   Because Jesus asks not just the common crowd but his disciples,
+[00:43:55.500 --> 00:43:58.500]   and he says this statement, "If anyone wishes to come after me,"
+[00:43:58.500 --> 00:44:01.500]   there's a great temptation to leapfrog this statement,
+[00:44:01.500 --> 00:44:03.500]   to get into the what does he say next.
+[00:44:03.500 --> 00:44:06.500]   Because we think it's an obvious thing as a Christian.
+[00:44:06.500 --> 00:44:07.500]   Of course I desire you.
+[00:44:07.500 --> 00:44:08.500]   Of course I love you.
+[00:44:08.500 --> 00:44:09.500]   Of course I want to follow you.
+[00:44:09.500 --> 00:44:10.500]   I'm a Christian.
+[00:44:10.500 --> 00:44:14.500]   And he, by this conditional statement, that if is circled.
+[00:44:14.500 --> 00:44:19.500]   It's blaring towards us that we are not allowed to leapfrog it.
+[00:44:19.500 --> 00:44:22.500]   It's actually possible for many of us to read this and think,
+[00:44:22.500 --> 00:44:24.500]   "What has to be done?
+[00:44:24.500 --> 00:44:26.500]   What are the things that I have to do?"
+[00:44:26.500 --> 00:44:29.500]   And like what were presented in Scripture at the core of things
+[00:44:29.500 --> 00:44:34.500]   is that desire is meant to proceed at all.
+[00:44:34.500 --> 00:44:36.500]   The commands are all about loving God.
+[00:44:36.500 --> 00:44:39.500]   We follow why?
+[00:44:39.500 --> 00:44:42.500]   Because we adore.
+[00:44:42.500 --> 00:44:43.500]   We follow why?
+[00:44:43.500 --> 00:44:44.500]   Because we love.
+[00:44:44.500 --> 00:44:45.500]   Why do we follow?
+[00:44:45.500 --> 00:44:47.500]   Because we want.
+[00:44:47.500 --> 00:44:48.500]   Why do we follow?
+[00:44:48.500 --> 00:44:51.500]   Because we desire.
+[00:44:51.500 --> 00:44:55.500]   We take a look at our lives and we see an absence of that kind of following
+[00:44:55.500 --> 00:44:57.500]   and we say, "Okay, so what do I have to do?"
+[00:44:57.500 --> 00:44:59.500]   Well, it's desire.
+[00:44:59.500 --> 00:45:03.500]   If anyone wishes, if anyone desires, if anyone wants to what?
+[00:45:03.500 --> 00:45:06.500]   To follow me is what he says.
+[00:45:06.500 --> 00:45:10.500]   If this is not set, then nothing that comes afterwards matters.
+[00:45:10.500 --> 00:45:12.500]   None of the rest of this passage matters.
+[00:45:12.500 --> 00:45:14.500]   The question needs to be answered, "Do I?
+[00:45:14.500 --> 00:45:16.500]   Do I desire Christ?
+[00:45:16.500 --> 00:45:17.500]   Do I want Christ?
+[00:45:17.500 --> 00:45:20.500]   Do I want to follow him?
+[00:45:20.500 --> 00:45:25.500]   Have I?"
+[00:45:25.500 --> 00:45:29.500]   It's desire, this difference that needs to be wrestled with.
+[00:45:29.500 --> 00:45:32.500]   Because we love Jesus, we want our love for him to grow.
+[00:45:32.500 --> 00:45:37.500]   It's because we love Jesus that we are not comfortable with lukewarm desire.
+[00:45:37.500 --> 00:45:41.500]   Again, these were disciples, if you look there, that Jesus said to his disciples.
+[00:45:41.500 --> 00:45:46.500]   These were people who were already following after him.
+[00:45:46.500 --> 00:45:47.500]   He had to stop and define it for them.
+[00:45:47.500 --> 00:45:49.500]   He had to describe it.
+[00:45:49.500 --> 00:45:51.500]   He had to bring to clarity what it means to follow him.
+[00:45:51.500 --> 00:45:55.500]   Because not all supposed followers are what?
+[00:45:55.500 --> 00:45:59.500]   Are followers.
+[00:45:59.500 --> 00:46:05.500]   Because not all supposed followers actually desires.
+[00:46:05.500 --> 00:46:10.500]   Actually loves.
+[00:46:10.500 --> 00:46:13.500]   It's dangerous.
+[00:46:13.500 --> 00:46:17.500]   We might want to follow Christ without a desire for Christ.
+[00:46:17.500 --> 00:46:23.500]   Even for believers that we might have forgotten along the way the whole point of our faith.
+[00:46:23.500 --> 00:46:25.500]   We find ourselves getting lost in career.
+[00:46:25.500 --> 00:46:30.500]   Lost in our growing families in the midst of sleepless nights and birthdays to be celebrated.
+[00:46:30.500 --> 00:46:33.500]   Experiences to be had.
+[00:46:33.500 --> 00:46:36.500]   We get lost in games and Netflix.
+[00:46:36.500 --> 00:46:42.500]   Winter break season, I feel like people line up, "Netflix, what am I going to binge next?"
+[00:46:42.500 --> 00:46:45.500]   We get lost in sports seasons.
+[00:46:45.500 --> 00:46:49.500]   In watching the stocks.
+[00:46:49.500 --> 00:46:51.500]   Getting lost in the pleasures of the world.
+[00:46:51.500 --> 00:46:52.500]   In comfort.
+[00:46:52.500 --> 00:46:54.500]   In rest.
+[00:46:54.500 --> 00:46:58.500]   Simply getting lost in getting to an end of a day where we could watch something, eat something.
+[00:46:58.500 --> 00:47:02.500]   Even in Christianity, getting lost in the tenets of religion and talking points.
+[00:47:02.500 --> 00:47:07.500]   All of which might matter but to lose yourself in it and you find yourself taking one step back.
+[00:47:07.500 --> 00:47:14.500]   Looking at the heart, examining yourself and see that Christ has vanished.
+[00:47:14.500 --> 00:47:18.500]   Where is he?
+[00:47:18.500 --> 00:47:24.500]   In all these things, only where our love for Christ is growing can we point to something that is of worth.
+[00:47:24.500 --> 00:47:26.500]   That matters.
+[00:47:26.500 --> 00:47:28.500]   That we would call religion that is true.
+[00:47:28.500 --> 00:47:33.500]   All other places we have to be careful of growing the wrong things.
+[00:47:33.500 --> 00:47:38.500]   We have to ask ourselves, "Do I desire Jesus?"
+[00:47:38.500 --> 00:47:41.500]   Because that will answer the conditional statement Christ has brought to us.
+[00:47:41.500 --> 00:47:44.500]   Ask yourself, "Do I want to follow Jesus?"
+[00:47:44.500 --> 00:47:46.500]   Don't say yes to this too quickly.
+[00:47:46.500 --> 00:47:58.500]   Otherwise you will find yourself in a place where you are leapfrogging the very scenario, the very landscape in which we need to wrestle.
+[00:47:58.500 --> 00:48:00.500]   This is the place where deep examination is needed.
+[00:48:00.500 --> 00:48:03.500]   "Is Jesus truly what I want?"
+[00:48:03.500 --> 00:48:08.500]   If your answer to this is no, then that is our starting point.
+[00:48:08.500 --> 00:48:11.500]   We cannot move on until we answer this.
+[00:48:11.500 --> 00:48:18.500]   "Jesus is not all I want."
+[00:48:18.500 --> 00:48:21.500]   There are many things that I want.
+[00:48:21.500 --> 00:48:24.500]   There are many things competing for my heart's affections.
+[00:48:24.500 --> 00:48:26.500]   An acceptance of this reality.
+[00:48:26.500 --> 00:48:28.500]   Of this battle.
+[00:48:28.500 --> 00:48:29.500]   This is the starting point.
+[00:48:29.500 --> 00:48:31.500]   To stop playing with the semantics of it all.
+[00:48:31.500 --> 00:48:34.500]   To stop hiding behind sophisticated philosophy of theology.
+[00:48:34.500 --> 00:48:40.500]   Or just saying, "I am able to say and point to things in my life that show something."
+[00:48:40.500 --> 00:48:44.500]   And to come down to a childlike, simple question that is not difficult to answer.
+[00:48:44.500 --> 00:48:48.500]   "Do you love Jesus? Yes or no?"
+[00:48:48.500 --> 00:48:53.500]   Circle one.
+[00:48:53.500 --> 00:48:56.500]   Desire is what must be kindled.
+[00:48:56.500 --> 00:48:57.500]   What is desire?
+[00:48:57.500 --> 00:49:03.500]   Desire means to wish, to want, to long for.
+[00:49:03.500 --> 00:49:04.500]   It's not a hard word to know.
+[00:49:04.500 --> 00:49:05.500]   We all know it.
+[00:49:05.500 --> 00:49:07.500]   We use it very flippantly.
+[00:49:07.500 --> 00:49:09.500]   We use it for many things.
+[00:49:09.500 --> 00:49:12.500]   And so it could be used in many ways.
+[00:49:12.500 --> 00:49:19.500]   In Matthew chapter 20 verse 20, "Then the mother of the sons of Zebedee came to Jesus with her sons, bowing down and making a request of him.
+[00:49:19.500 --> 00:49:21.500]   And he said to her, 'What do you wish?'"
+[00:49:21.500 --> 00:49:24.500]   Oh, can you imagine coming before Jesus and he asked you that question?
+[00:49:24.500 --> 00:49:27.500]   Wow, what would you say?
+[00:49:27.500 --> 00:49:29.500]   He says, "What do you wish?"
+[00:49:29.500 --> 00:49:30.500]   What do you want?
+[00:49:30.500 --> 00:49:31.500]   That's not the same word.
+[00:49:31.500 --> 00:49:32.500]   It's desire.
+[00:49:32.500 --> 00:49:33.500]   What do you want?
+[00:49:33.500 --> 00:49:36.500]   What is your heart's affections?
+[00:49:36.500 --> 00:49:41.500]   "She said to him, 'Command that in your kingdom these two sons of mine may sit, one on your right and one on your left.'"
+[00:49:41.500 --> 00:49:43.500]   Listen, that doesn't sound so bad.
+[00:49:43.500 --> 00:49:45.500]   It has something to do with the kingdom.
+[00:49:45.500 --> 00:49:46.500]   It has something to do with Jesus.
+[00:49:46.500 --> 00:49:47.500]   And it's not even about herself.
+[00:49:47.500 --> 00:49:51.500]   It's about her sons.
+[00:49:51.500 --> 00:49:59.500]   Man, ask any parent how your idolatries change when you go from not having kids to having kids.
+[00:49:59.500 --> 00:50:00.500]   It just gets substituted.
+[00:50:00.500 --> 00:50:01.500]   It just gets moved.
+[00:50:01.500 --> 00:50:02.500]   It just gets changed.
+[00:50:02.500 --> 00:50:05.500]   She's being exposed here in her desires.
+[00:50:05.500 --> 00:50:08.500]   Her greatest idolatries are being exposed here.
+[00:50:08.500 --> 00:50:11.500]   That's what she wants.
+[00:50:11.500 --> 00:50:14.500]   Look at the desire of the scribes and the Pharisees in Matthew 12.
+[00:50:14.500 --> 00:50:18.500]   "Then some of the scribes and Pharisees said to him, 'Teacher, we want'"
+[00:50:18.500 --> 00:50:19.500]   It's the same word there.
+[00:50:19.500 --> 00:50:23.500]   "'We want to see a sign from you.'"
+[00:50:23.500 --> 00:50:28.500]   That's their desire.
+[00:50:28.500 --> 00:50:32.500]   In John 6, the bread multiplied to the 5,000.
+[00:50:32.500 --> 00:50:36.500]   Their great desire was for the bread.
+[00:50:36.500 --> 00:50:39.500]   Blind Bartimaeus, Jesus asked him, "What is it that you want?"
+[00:50:39.500 --> 00:50:45.500]   And Bartimaeus responded, "I want to regain my sight."
+[00:50:45.500 --> 00:50:50.500]   There are very many ways in which this could be expressed, all coming before Jesus with the wrong conclusions.
+[00:50:50.500 --> 00:50:54.500]   A proper one, perhaps, seen in Luke 19, verse 3, with Zacchaeus.
+[00:50:54.500 --> 00:50:59.500]   "Zacchaeus was trying to see who Jesus was and was unable because of the crowd, for he was small in stature.
+[00:50:59.500 --> 00:51:07.500]   So he ran on ahead and climbed up into a sycamore tree in order to see him, for he was about to pass through that way."
+[00:51:07.500 --> 00:51:09.500]   This desire must be for Jesus himself.
+[00:51:09.500 --> 00:51:12.500]   Not the things that simply point to him, but Jesus.
+[00:51:12.500 --> 00:51:22.500]   And he asks, he places that statement, "If anyone wishes to follow after me, that resounds in us."
+[00:51:22.500 --> 00:51:30.500]   Don't think that our desire is even supposedly for Christ, hasn't been compromised.
+[00:51:30.500 --> 00:51:40.500]   This statement Jesus pulls at the head of such a powerful verse is the starting point to ask ourselves of our hearts' affections and desires.
+[00:51:40.500 --> 00:51:46.500]   It's at this point we're able to begin dealing with the problems of our hearts.
+[00:51:46.500 --> 00:51:48.500]   This is the beginning point of repentance.
+[00:51:48.500 --> 00:51:55.500]   If we jump over this, "If anyone desires to follow me," we jump over that and say, "Yes, yes, yes, so tell me what I need to do."
+[00:51:55.500 --> 00:52:02.500]   If we jump that, we miss the very point God is trying to bring us into, to sanctify us.
+[00:52:02.500 --> 00:52:06.500]   It's the beginning point of true confession of our present state.
+[00:52:06.500 --> 00:52:10.500]   It's the point of seeing where our hearts are half-hearted and heart-divided.
+[00:52:10.500 --> 00:52:16.500]   It's a place where there's a true calling out for God, that when we meet him in that place, then we would actually cry out,
+[00:52:16.500 --> 00:52:22.500]   "God, we need you, we want you, we adore you, we love you."
+[00:52:22.500 --> 00:52:25.500]   In urgency, in desperation, this is desire.
+[00:52:25.500 --> 00:52:30.500]   "If anyone desires me," which brings us to our second point.
+[00:52:30.500 --> 00:52:36.500]   "If anyone wishes to come after me, he must deny self."
+[00:52:36.500 --> 00:52:44.500]   Okay, must deny self.
+[00:52:44.500 --> 00:52:54.500]   If you were to propel yourself to the end of his sentence, you're going to see this call to come after me.
+[00:52:54.500 --> 00:52:56.500]   He places two more things in between.
+[00:52:56.500 --> 00:53:04.500]   If you desire to follow Jesus, then follow Jesus.
+[00:53:04.500 --> 00:53:07.500]   He says, "Deny yourself."
+[00:53:07.500 --> 00:53:10.500]   And so it's important.
+[00:53:10.500 --> 00:53:13.500]   The Lord Jesus himself said it.
+[00:53:13.500 --> 00:53:18.500]   The Lord Jesus, who knows so much about us, who knows the heart of man.
+[00:53:18.500 --> 00:53:22.500]   We live in a self-esteem culture today that more must be done for us.
+[00:53:22.500 --> 00:53:25.500]   That the problem is not internal, it's external.
+[00:53:25.500 --> 00:53:29.500]   That the things that have happened to you, that we need to appreciate self more.
+[00:53:29.500 --> 00:53:31.500]   We need to appreciate who we are.
+[00:53:31.500 --> 00:53:32.500]   We need to value ourselves.
+[00:53:32.500 --> 00:53:34.500]   We need to love ourselves.
+[00:53:34.500 --> 00:53:36.500]   We need to take a deep down inside.
+[00:53:36.500 --> 00:53:37.500]   Hug yourself.
+[00:53:37.500 --> 00:53:39.500]   Love yourself.
+[00:53:39.500 --> 00:53:41.500]   And it's not just the culture, this is the definition of sin.
+[00:53:41.500 --> 00:53:44.500]   That it's not me, it's the things outside.
+[00:53:44.500 --> 00:53:46.500]   It's that person you placed into my life.
+[00:53:46.500 --> 00:53:48.500]   It's that thing you put into my life.
+[00:53:48.500 --> 00:53:50.500]   That there is good in me.
+[00:53:50.500 --> 00:53:53.500]   There's always good, there's always an excuse in this.
+[00:53:53.500 --> 00:53:55.500]   It's the way I was raised.
+[00:53:55.500 --> 00:53:57.500]   It was my parents.
+[00:53:57.500 --> 00:53:59.500]   It was this bully.
+[00:53:59.500 --> 00:54:00.500]   It was a teacher.
+[00:54:00.500 --> 00:54:02.500]   It was a culture.
+[00:54:02.500 --> 00:54:05.500]   And so it is that you search deep down inside and you'll find a way.
+[00:54:05.500 --> 00:54:06.500]   Listen to your heart.
+[00:54:06.500 --> 00:54:09.500]   Listen to yourself.
+[00:54:09.500 --> 00:54:13.500]   This is sin at its core.
+[00:54:13.500 --> 00:54:16.500]   Because self is the center.
+[00:54:16.500 --> 00:54:19.500]   Because self is the beginning or the middle of orbit.
+[00:54:19.500 --> 00:54:23.500]   Obviously I'm not saying that there weren't external factors at play in your life.
+[00:54:23.500 --> 00:54:28.500]   Obviously I'm not saying that sin doesn't exist outside of us in this broken world.
+[00:54:28.500 --> 00:54:32.500]   But no matter how much rationale would dictate that we are a tiny speck.
+[00:54:32.500 --> 00:54:35.500]   That clearly in a world with 8 billion people we are but one.
+[00:54:35.500 --> 00:54:37.500]   We're tiny.
+[00:54:37.500 --> 00:54:39.500]   It's ridiculous to think that we're in the center.
+[00:54:39.500 --> 00:54:46.500]   This sinfulness exudes in us and it is close to you and me this morning.
+[00:54:46.500 --> 00:54:52.500]   And so Jesus says you must deny yourself.
+[00:54:52.500 --> 00:54:56.500]   We go into a room entirely revolving around us.
+[00:54:56.500 --> 00:54:59.500]   We go to work, clock in with everything revolving around us.
+[00:54:59.500 --> 00:55:03.500]   We get into a car yelling at traffic and people because we're at the center.
+[00:55:03.500 --> 00:55:05.500]   We go into a store as customers.
+[00:55:05.500 --> 00:55:08.500]   Into restaurants and even into this church.
+[00:55:08.500 --> 00:55:11.500]   Me, me, me.
+[00:55:11.500 --> 00:55:13.500]   We wake up thinking about me.
+[00:55:13.500 --> 00:55:16.500]   Every time we complain it's about me.
+[00:55:16.500 --> 00:55:18.500]   It may manifest in different ways.
+[00:55:18.500 --> 00:55:24.500]   But fallen flesh is so programmed to act as God in any given situation.
+[00:55:24.500 --> 00:55:29.500]   Though we know theologically that we are able to express and articulate what it means
+[00:55:29.500 --> 00:55:32.500]   that all attention and glory is meant to be given to God.
+[00:55:32.500 --> 00:55:35.500]   Though we are but image bearers of God meant to point to his existence.
+[00:55:35.500 --> 00:55:39.500]   That sin would move us into the entirely opposite direction.
+[00:55:39.500 --> 00:55:42.500]   It is not what comes out of our mouth, it is what comes out of our heart
+[00:55:42.500 --> 00:55:46.500]   that tells the truth of our lives.
+[00:55:46.500 --> 00:55:47.500]   Think about this.
+[00:55:47.500 --> 00:55:51.500]   Think about why the first point is so central.
+[00:55:51.500 --> 00:55:54.500]   If Jesus is entirely our desire.
+[00:55:54.500 --> 00:55:56.500]   If Jesus is entirely what we want.
+[00:55:56.500 --> 00:55:57.500]   Undivided.
+[00:55:57.500 --> 00:55:58.500]   Wholehearted.
+[00:55:58.500 --> 00:56:01.500]   Then we no longer occupy that throne.
+[00:56:01.500 --> 00:56:02.500]   He does.
+[00:56:02.500 --> 00:56:04.500]   And so it is with this statement from Christ.
+[00:56:04.500 --> 00:56:14.500]   If anyone wishes to come after me, he must deny himself.
+[00:56:14.500 --> 00:56:19.500]   The definition of deny is to refuse to give thought to or express concern for.
+[00:56:19.500 --> 00:56:22.500]   To disregard or pay no attention to.
+[00:56:22.500 --> 00:56:23.500]   To say no to.
+[00:56:23.500 --> 00:56:28.500]   So he, if the words of your shepherd is calling out to you today.
+[00:56:28.500 --> 00:56:29.500]   To deny.
+[00:56:29.500 --> 00:56:32.500]   That understand what he is saying.
+[00:56:32.500 --> 00:56:35.500]   That we are called to refuse to give thought to ourselves.
+[00:56:35.500 --> 00:56:37.500]   To disregard ourselves.
+[00:56:37.500 --> 00:56:39.500]   Pay no attention to ourselves.
+[00:56:39.500 --> 00:56:42.500]   To say no to ourselves.
+[00:56:42.500 --> 00:56:43.500]   Note the language.
+[00:56:43.500 --> 00:56:47.500]   When someone must deny something it means that inside this person there is a longing.
+[00:56:47.500 --> 00:56:48.500]   That is why we have to deny it.
+[00:56:48.500 --> 00:56:52.500]   Otherwise that word denial does not mean so much.
+[00:56:52.500 --> 00:56:54.500]   There is something I want but we are called to deny that.
+[00:56:54.500 --> 00:57:00.500]   Which is funny in a statement like this because he says if anyone desires me.
+[00:57:00.500 --> 00:57:09.500]   Then deny the very thing that you desire.
+[00:57:09.500 --> 00:57:10.500]   We have already established that.
+[00:57:10.500 --> 00:57:12.500]   Our desire is to follow Christ.
+[00:57:12.500 --> 00:57:14.500]   Then there must be a denial of self.
+[00:57:14.500 --> 00:57:15.500]   This is understandable.
+[00:57:15.500 --> 00:57:17.500]   We all understand that there are layers to desire.
+[00:57:17.500 --> 00:57:20.500]   Stare long enough at some chocolate cake that you have.
+[00:57:20.500 --> 00:57:22.500]   And you will understand the complexities of desire.
+[00:57:22.500 --> 00:57:23.500]   You are like I don't want that.
+[00:57:23.500 --> 00:57:26.500]   Yes I do want it.
+[00:57:26.500 --> 00:57:29.500]   I was going to say lyrics of a song but it was inappropriate.
+[00:57:29.500 --> 00:57:31.500]   So I am not going to.
+[00:57:31.500 --> 00:57:37.500]   But sometimes our mind says that we want something.
+[00:57:37.500 --> 00:57:40.500]   This idea of deny has to be fully grappled with.
+[00:57:40.500 --> 00:57:43.500]   Perhaps we have forgotten this elementary principle.
+[00:57:43.500 --> 00:57:45.500]   Maybe we have grown too comfortable.
+[00:57:45.500 --> 00:57:48.500]   Simply giving to what we want.
+[00:57:48.500 --> 00:57:50.500]   What we view to be our rights.
+[00:57:50.500 --> 00:57:57.500]   Perhaps we have grown too comfortable by how everyone around us has been living their lives.
+[00:57:57.500 --> 00:58:00.500]   Just because something is permissible does not make it therefore beneficial.
+[00:58:00.500 --> 00:58:02.500]   So this is how the Christian is to think and live.
+[00:58:02.500 --> 00:58:11.500]   Not for the permissible but for the beneficial.
+[00:58:11.500 --> 00:58:17.500]   There comes a point where the permissible things in our lives are not beneficial.
+[00:58:17.500 --> 00:58:20.500]   Giving to that enough. Pointing to permissible, permissible, permissible.
+[00:58:20.500 --> 00:58:22.500]   It is okay for me to do.
+[00:58:22.500 --> 00:58:26.500]   If we continue to point to those things in our lives long enough.
+[00:58:26.500 --> 00:58:28.500]   What we perceive to be our rights.
+[00:58:28.500 --> 00:58:29.500]   That I deserve this.
+[00:58:29.500 --> 00:58:31.500]   That it is okay for me to enjoy this.
+[00:58:31.500 --> 00:58:33.500]   That there is nothing wrong with this.
+[00:58:33.500 --> 00:58:39.500]   And we forget that if anyone were to follow Christ we must learn to deny ourselves.
+[00:58:39.500 --> 00:58:43.500]   That the very things this world offers might be the very things we are cultivating.
+[00:58:43.500 --> 00:58:46.500]   Fruit against Christ.
+[00:58:46.500 --> 00:58:48.500]   We say these things are okay.
+[00:58:48.500 --> 00:58:53.500]   It is not a bad thing.
+[00:58:53.500 --> 00:58:55.500]   So we are cultivating harmful fruit.
+[00:58:55.500 --> 00:59:01.500]   Toxic, lazy, entitled fruit.
+[00:59:01.500 --> 00:59:04.500]   This is supposed to be common to the Christian.
+[00:59:04.500 --> 00:59:08.500]   That from day to day living our desire is for Christ.
+[00:59:08.500 --> 00:59:11.500]   And that we take note that the fleshly desires are so near.
+[00:59:11.500 --> 00:59:15.500]   There is not one of us that needs to be reminded or told or enlightened of that.
+[00:59:15.500 --> 00:59:20.500]   The fleshly desires lie so close to us.
+[00:59:20.500 --> 00:59:22.500]   We are not talking about asceticism here.
+[00:59:22.500 --> 00:59:25.500]   We are not talking about just not doing bad things.
+[00:59:25.500 --> 00:59:31.500]   Trying to strip away things that are going to make everything well.
+[00:59:31.500 --> 00:59:35.500]   We are talking about what we know, the reality of our flesh.
+[00:59:35.500 --> 00:59:39.500]   And we begin to mimic what people without Christ look like.
+[00:59:39.500 --> 00:59:43.500]   So we are exposed.
+[00:59:43.500 --> 00:59:46.500]   We look exactly like our coworker except we just don't curse.
+[00:59:46.500 --> 00:59:48.500]   We don't cheat on our taxes.
+[00:59:48.500 --> 00:59:50.500]   We go to church and we try to serve.
+[00:59:50.500 --> 00:59:54.500]   Try to be kinder.
+[00:59:54.500 --> 00:59:56.500]   That is not the difference between the Christian and the non-Christian.
+[00:59:56.500 --> 01:00:05.500]   The difference between a Christian and a non-Christian is love for Christ.
+[01:00:05.500 --> 01:00:10.500]   Denying is very, very healthy for the Christian.
+[01:00:10.500 --> 01:00:14.500]   I wonder how many of us in this room are doing intermittent fasting right now.
+[01:00:14.500 --> 01:00:17.500]   Or you will do it after the holidays.
+[01:00:17.500 --> 01:00:18.500]   Intermittent fasting.
+[01:00:18.500 --> 01:00:19.500]   Have you ever done it?
+[01:00:19.500 --> 01:00:21.500]   You are like, oh, this is helpful.
+[01:00:21.500 --> 01:00:22.500]   Denying yourself is helpful.
+[01:00:22.500 --> 01:00:25.500]   Not snacking around the clock is helpful.
+[01:00:25.500 --> 01:00:28.500]   Fasting in general is helpful.
+[01:00:28.500 --> 01:00:32.500]   And we see the self-control that is built up by denying ourselves.
+[01:00:32.500 --> 01:00:35.500]   Denying self is part of discipline.
+[01:00:35.500 --> 01:00:38.500]   Denying is a part of buffeting our bodies and making it our own
+[01:00:38.500 --> 01:00:43.500]   because we know that which we actually want.
+[01:00:43.500 --> 01:00:46.500]   Denying ourselves is cutting off the hand.
+[01:00:46.500 --> 01:00:48.500]   It's gouging out the eye.
+[01:00:48.500 --> 01:00:52.500]   Denying ourselves is moving forward to the point even of shedding blood in obedience,
+[01:00:52.500 --> 01:00:54.500]   as it says in Hebrews.
+[01:00:54.500 --> 01:00:57.500]   Denying is what we do when we really want something in life.
+[01:00:57.500 --> 01:01:04.500]   When we desire for something that is so great that denial becomes appropriated by us
+[01:01:04.500 --> 01:01:11.500]   so that we can have a true heart's desire.
+[01:01:11.500 --> 01:01:13.500]   But it's more than just being healthy.
+[01:01:13.500 --> 01:01:17.500]   Jesus puts this very problematic word up front in this passage,
+[01:01:17.500 --> 01:01:24.500]   which is the word -- I circled it for you before -- "if."
+[01:01:24.500 --> 01:01:29.500]   You could flip that conditional statement around, in other words.
+[01:01:29.500 --> 01:01:32.500]   If you want to follow Christ, then you must deny yourself.
+[01:01:32.500 --> 01:01:37.500]   But the other way is if you do not deny yourself, you cannot follow Christ.
+[01:01:37.500 --> 01:01:39.500]   That's why he put "if."
+[01:01:39.500 --> 01:01:47.500]   If you want to follow me, you must deny yourself.
+[01:01:47.500 --> 01:01:51.500]   The Christian is identified by being drawn into Christ in all of his life.
+[01:01:51.500 --> 01:01:54.500]   Imperative to understand is that the Scriptures begin to describe us
+[01:01:54.500 --> 01:01:58.500]   as the body of Christ, with Christ ahead.
+[01:01:58.500 --> 01:02:01.500]   You can't pull the identities apart.
+[01:02:01.500 --> 01:02:04.500]   We no longer have an identity that is apart from who Jesus is.
+[01:02:04.500 --> 01:02:10.500]   We no longer have a will, desire, that is apart.
+[01:02:10.500 --> 01:02:13.500]   That's how it's described.
+[01:02:13.500 --> 01:02:15.500]   Denial is not simply behavior modification.
+[01:02:15.500 --> 01:02:21.500]   It's what we employ to ensure we go after what we truly desire.
+[01:02:21.500 --> 01:02:23.500]   So what must we deny?
+[01:02:23.500 --> 01:02:25.500]   That's the application point.
+[01:02:25.500 --> 01:02:28.500]   There are so many ways it can go.
+[01:02:28.500 --> 01:02:31.500]   You see where permissibility gets misinterpreted.
+[01:02:31.500 --> 01:02:33.500]   Or in other words, as PPK put it a couple weeks ago,
+[01:02:33.500 --> 01:02:36.500]   if we begin to confuse wants and needs,
+[01:02:36.500 --> 01:02:40.500]   we can see places where denial must regularly take place.
+[01:02:40.500 --> 01:02:44.500]   And so there are big places.
+[01:02:44.500 --> 01:02:45.500]   Very, very difficult places.
+[01:02:45.500 --> 01:02:48.500]   Denial is because we want something.
+[01:02:48.500 --> 01:02:49.500]   So we need to deny ourselves.
+[01:02:49.500 --> 01:02:54.500]   That means, by nature of that word "deny," this is going to be very, very hard.
+[01:02:54.500 --> 01:02:57.500]   It's going to be difficult.
+[01:02:57.500 --> 01:03:01.500]   So we have to walk into difficult application.
+[01:03:01.500 --> 01:03:06.500]   And this application, I come humble before you.
+[01:03:06.500 --> 01:03:09.500]   I tremble sometimes even just saying, flippantly,
+[01:03:09.500 --> 01:03:11.500]   some of the hardships that we might all go through.
+[01:03:11.500 --> 01:03:15.500]   And yet we know as Christians today, we can amen today,
+[01:03:15.500 --> 01:03:19.500]   that we must deny fleshly things.
+[01:03:19.500 --> 01:03:22.500]   Marriage.
+[01:03:22.500 --> 01:03:23.500]   Marriage is a huge one.
+[01:03:23.500 --> 01:03:29.500]   This is something some of us are unwilling to ever let go of.
+[01:03:29.500 --> 01:03:31.500]   You can say all you want about contentment in Christ alone.
+[01:03:31.500 --> 01:03:37.500]   You can point a finger at me and say, "You're married, so you can say that."
+[01:03:37.500 --> 01:03:43.500]   We all understand how hard it is, and so I say it very humbly.
+[01:03:43.500 --> 01:03:46.500]   You know, we also believe the same thing.
+[01:03:46.500 --> 01:03:50.500]   That nothing can get in between me and Christ.
+[01:03:50.500 --> 01:03:55.500]   I must deny.
+[01:03:55.500 --> 01:04:02.500]   We cannot confuse permissible things with something I must have.
+[01:04:02.500 --> 01:04:04.500]   We can't say that all things in this world are passing away.
+[01:04:04.500 --> 01:04:07.500]   We can't say these are temporal pleasures, temporal things,
+[01:04:07.500 --> 01:04:14.500]   and yet say that I have to have it.
+[01:04:14.500 --> 01:04:19.500]   It's a painful place of conversation, sensitive places to traverse.
+[01:04:19.500 --> 01:04:22.500]   Having a certain lifestyle.
+[01:04:22.500 --> 01:04:24.500]   Having children.
+[01:04:24.500 --> 01:04:29.500]   Having a career that satisfies.
+[01:04:29.500 --> 01:04:34.500]   If anything is kept out of reach from God, if there is refusal on our end to surrender,
+[01:04:34.500 --> 01:04:41.500]   then our affection for Christ is threatened.
+[01:04:41.500 --> 01:04:44.500]   The problem is not that we wrestle and struggle.
+[01:04:44.500 --> 01:04:50.500]   The problem is when we say that we refuse to give it up.
+[01:04:50.500 --> 01:04:52.500]   Deny.
+[01:04:52.500 --> 01:04:57.500]   If anyone wishes to follow me, deny.
+[01:04:57.500 --> 01:05:00.500]   Deny.
+[01:05:00.500 --> 01:05:02.500]   We think just the big places, deny.
+[01:05:02.500 --> 01:05:03.500]   It's the little places too.
+[01:05:03.500 --> 01:05:07.500]   I think most of the times, the little places of denial is where it begins.
+[01:05:07.500 --> 01:05:11.500]   Because what is seemingly little actually makes up our will.
+[01:05:11.500 --> 01:05:16.500]   It's how we treat the time at the end of our day, after a long day of work.
+[01:05:16.500 --> 01:05:21.500]   You deserve some rest, and then what happens? Your kid begins to cry.
+[01:05:21.500 --> 01:05:23.500]   It's what we decide to do when we wake up.
+[01:05:23.500 --> 01:05:24.500]   It's what we decide to watch.
+[01:05:24.500 --> 01:05:26.500]   It's what we decide to listen to.
+[01:05:26.500 --> 01:05:29.500]   It's what we decide to do with our vacation time, our holidays.
+[01:05:29.500 --> 01:05:31.500]   It's who we decide to invest in.
+[01:05:31.500 --> 01:05:32.500]   It's who we decide to talk to.
+[01:05:32.500 --> 01:05:35.500]   It's what we decide to eat.
+[01:05:35.500 --> 01:05:41.500]   Deny.
+[01:05:41.500 --> 01:05:44.500]   The little things add up.
+[01:05:44.500 --> 01:05:47.500]   We think that as long as we're giving up the big things, we're winning.
+[01:05:47.500 --> 01:05:49.500]   And little do we know that it's the little things that we deny and give up
+[01:05:49.500 --> 01:05:58.500]   that ultimately strengthens us when we get to those positions of denying the big.
+[01:05:58.500 --> 01:06:01.500]   We have to say no.
+[01:06:01.500 --> 01:06:02.500]   This has to be tangible.
+[01:06:02.500 --> 01:06:03.500]   This is measurable.
+[01:06:03.500 --> 01:06:05.500]   We have to say no.
+[01:06:05.500 --> 01:06:08.500]   Remember the rich young ruler who proclaimed that he was doing everything to follow God
+[01:06:08.500 --> 01:06:13.500]   and yet by his actions showed that he had no affection for the Lord.
+[01:06:13.500 --> 01:06:17.500]   As a giant side point, remember that we are not saying that we're called to live like monks,
+[01:06:17.500 --> 01:06:22.500]   that we are not allowed any of the good things that this present world affords.
+[01:06:22.500 --> 01:06:25.500]   We know that every good and perfect gift is from above,
+[01:06:25.500 --> 01:06:30.500]   and yet we also understand our flesh that we will take any good gift God gives,
+[01:06:30.500 --> 01:06:32.500]   and we will pervert it.
+[01:06:32.500 --> 01:06:37.500]   And we will use it to sin.
+[01:06:37.500 --> 01:06:39.500]   We know that.
+[01:06:39.500 --> 01:06:41.500]   We have to be aware of that.
+[01:06:41.500 --> 01:06:45.500]   And so we have responsibility to live rightly in that.
+[01:06:45.500 --> 01:06:49.500]   Again, we are reminded against living as civilians in a war and to take off not only sin,
+[01:06:49.500 --> 01:06:54.500]   but even that which obstructs us in this race.
+[01:06:54.500 --> 01:06:58.500]   Anyone with a half-hearted, divided heart cannot follow Jesus.
+[01:06:58.500 --> 01:07:04.500]   If anyone desires, if anyone wishes, if anyone wants to come after me, he must deny himself.
+[01:07:04.500 --> 01:07:08.500]   Brings us to our third point.
+[01:07:08.500 --> 01:07:13.500]   If anyone wishes to come after me, he must deny himself and take up his cross.
+[01:07:13.500 --> 01:07:19.500]   That take up cross part is closing the loophole.
+[01:07:19.500 --> 01:07:21.500]   The denial part is really easy.
+[01:07:21.500 --> 01:07:24.500]   We're very, very good attorneys.
+[01:07:24.500 --> 01:07:26.500]   We're very, very good lawyers.
+[01:07:26.500 --> 01:07:30.500]   We're very good at looking at contracts and finding the escape clauses.
+[01:07:30.500 --> 01:07:33.500]   We're very good at perverting what the spirit was supposed to mean.
+[01:07:33.500 --> 01:07:37.500]   And so if he had just said, "Deny yourself," we'd be like, "Oh, I am doing that."
+[01:07:37.500 --> 01:07:42.500]   And we can just substitute that with our statements.
+[01:07:42.500 --> 01:07:47.500]   Because I am denying this, I am denying that, when he meant denial of self.
+[01:07:47.500 --> 01:07:53.500]   And so he closes it by saying something that cannot be closed as a loophole.
+[01:07:53.500 --> 01:07:59.500]   It's so explicit in its imagery.
+[01:07:59.500 --> 01:08:06.500]   If you want to follow me, you have to take up your cross.
+[01:08:06.500 --> 01:08:09.500]   Wow.
+[01:08:09.500 --> 01:08:12.500]   What's the difference between denying yourself and taking up your cross?
+[01:08:12.500 --> 01:08:14.500]   Is it subtle?
+[01:08:14.500 --> 01:08:18.500]   Is there a little difference?
+[01:08:18.500 --> 01:08:23.500]   This is astronomical difference.
+[01:08:23.500 --> 01:08:25.500]   He was trying to paint this picture.
+[01:08:25.500 --> 01:08:28.500]   Here's a definition I found of the crucifix.
+[01:08:28.500 --> 01:08:31.500]   "There were various methods of performing the execution.
+[01:08:31.500 --> 01:08:34.500]   Usually the condemned man, after being whipped or scourged,
+[01:08:34.500 --> 01:08:37.500]   dragged the crossbeam of his cross to the place of punishment
+[01:08:37.500 --> 01:08:40.500]   where the upright shaft was already fixed in the ground,
+[01:08:40.500 --> 01:08:43.500]   stripped of his clothing either then or earlier at his scourging.
+[01:08:43.500 --> 01:08:46.500]   He was bound fast with outstretched arms to the crossbeam
+[01:08:46.500 --> 01:08:48.500]   and nailed firmly to it through the wrists.
+[01:08:48.500 --> 01:08:51.500]   The crossbeam was then raised high above the upright shaft
+[01:08:51.500 --> 01:08:55.500]   and made fast to it about 9 to 12 feet from the ground.
+[01:08:55.500 --> 01:08:59.500]   Next, the feet were tightly bound or nailed to the upright shaft.
+[01:08:59.500 --> 01:09:03.500]   A ledge inserted about halfway up the upright shaft gave some support to the body.
+[01:09:03.500 --> 01:09:07.500]   Evidence for a similar ledge for the feet is rare and late.
+[01:09:07.500 --> 01:09:11.500]   Over the criminal's head was placed a notice stating his name and his crime.
+[01:09:11.500 --> 01:09:16.500]   Death ultimately occurred through a combination of constrained blood circulation,
+[01:09:16.500 --> 01:09:21.500]   organ failure, and asphyxiation as the body strained under its own weight.
+[01:09:21.500 --> 01:09:25.500]   It could be hastened by shattering the legs with an iron club,
+[01:09:25.500 --> 01:09:27.500]   which prevented them from supporting the body's weight
+[01:09:27.500 --> 01:09:33.500]   and made inhalation more difficult, accelerating both asphyxiation and shock."
+[01:09:37.500 --> 01:09:41.500]   And we can be so thankful that Jesus took the cross so that we did not have to,
+[01:09:41.500 --> 01:09:46.500]   and yet we are staring down a very concerning statement from Christ here.
+[01:09:46.500 --> 01:09:51.500]   We are not absolved of the crucifix.
+[01:09:51.500 --> 01:09:55.500]   You have to take up your cross, he says.
+[01:09:55.500 --> 01:09:58.500]   We have to figure out what that means,
+[01:09:58.500 --> 01:10:03.500]   because there is a very great joy at the end of this rainbow.
+[01:10:03.500 --> 01:10:08.500]   He did not absolve us of something that has to do with this cross.
+[01:10:08.500 --> 01:10:10.500]   Obviously, when you take up the account of Christ,
+[01:10:10.500 --> 01:10:13.500]   there is so much more even than the brief description that I gave.
+[01:10:13.500 --> 01:10:15.500]   When Jesus made this statement in Matthew 16,
+[01:10:15.500 --> 01:10:18.500]   he is not just talking about superficial following of Jesus.
+[01:10:18.500 --> 01:10:23.500]   It's more than just a superficial denying of self as a healthy and productive lifestyle.
+[01:10:23.500 --> 01:10:25.500]   It's not just an assuaging of guilt.
+[01:10:25.500 --> 01:10:30.500]   It's not just so that I can be a better person.
+[01:10:30.500 --> 01:10:32.500]   Jesus says that you must take up the cross,
+[01:10:32.500 --> 01:10:35.500]   this vivid image of what the cross bearer had to endure,
+[01:10:35.500 --> 01:10:39.500]   that this is what must occur in order to follow Christ.
+[01:10:39.500 --> 01:10:42.500]   So Alex gave us a statement from John 1, I'll give you another.
+[01:10:42.500 --> 01:10:46.500]   "The choiceless believers who are assuredly freed from the condemning power of sin
+[01:10:46.500 --> 01:10:53.500]   ought yet to make it their business all the days to mortify the indwelling power of sin."
+[01:10:53.500 --> 01:10:58.500]   One of his most famous statements, "Be killing sin or it will be killing you."
+[01:10:58.500 --> 01:11:09.500]   Everything about the Christian is mortification, it's crucifixion, it's extermination, it's death.
+[01:11:09.500 --> 01:11:20.500]   Just in case we've forgotten, the believer is not meant an easy existence.
+[01:11:20.500 --> 01:11:26.500]   He has already told us it will feel like death.
+[01:11:26.500 --> 01:11:31.500]   It will feel like death to live as a Christian here in this world.
+[01:11:31.500 --> 01:11:37.500]   Thank God we live for another, that our hope and joy can be found presently because of another.
+[01:11:37.500 --> 01:11:40.500]   But right now, this is a dying world.
+[01:11:40.500 --> 01:11:46.500]   We do not partake, we do not participate, we do not fellowship with a dying world.
+[01:11:46.500 --> 01:11:52.500]   We die to it.
+[01:11:52.500 --> 01:11:56.500]   Denial of self was not enough of a description, it was not enough of a command.
+[01:11:56.500 --> 01:12:02.500]   We look at a world like denial and we do our best imitation of an attorney looking for every loophole.
+[01:12:02.500 --> 01:12:07.500]   Jesus closes it all and says, "Absolute death, torturous death, the crucifix."
+[01:12:07.500 --> 01:12:12.500]   Crucifix lending meaning to this word that we have for it, excruciating.
+[01:12:12.500 --> 01:12:16.500]   All out struggle, all out battle, war.
+[01:12:16.500 --> 01:12:18.500]   It's so easy to justify.
+[01:12:18.500 --> 01:12:24.500]   That's my fear, that we use each other as justifying, justifications for our lifestyles to live in comfort.
+[01:12:24.500 --> 01:12:34.500]   In Colossians 3, 5, he says, "Therefore, consider the members of your earthly body as dead to immorality, impurity, passion, evil desire, and greed, which amounts to idolatry."
+[01:12:34.500 --> 01:12:42.500]   Have we started out our races saying that I will die to myself only to find myself picking up my old life again?
+[01:12:42.500 --> 01:12:47.500]   Only to find myself mimicking what I used to look like, mimicking what the world looks like?
+[01:12:47.500 --> 01:12:52.500]   Forgetting what it is to follow Christ here in this world.
+[01:12:52.500 --> 01:12:56.500]   Over time, I'm finding that in myself.
+[01:12:56.500 --> 01:12:59.500]   I'm finding it in the vestiges of my heart.
+[01:12:59.500 --> 01:13:02.500]   I'm finding it in the deep, dark recesses in me.
+[01:13:02.500 --> 01:13:06.500]   I'm finding it in deeper qualities than I ever knew existed.
+[01:13:06.500 --> 01:13:22.500]   That would make it very difficult for me to walk up these steps and sit behind a pulpit and say lofty things about God.
+[01:13:22.500 --> 01:13:26.500]   Over time, I'm finding more and more of it.
+[01:13:26.500 --> 01:13:32.500]   All the more the need to mortify, to exterminate, and to crucify.
+[01:13:32.500 --> 01:13:40.500]   Galatians 2.20 says, "I have been crucified with Christ."
+[01:13:40.500 --> 01:13:49.500]   We don't go, "Oh God, thank you that Jesus was crucified so I did not have to be."
+[01:13:49.500 --> 01:13:56.500]   I have been crucified with Christ. It is no longer I who live, but Christ who lives in me.
+[01:13:56.500 --> 01:14:01.500]   I have been crucified. I no longer live. Christ lives in me.
+[01:14:01.500 --> 01:14:03.500]   We look at ourselves. What do we need to deny?
+[01:14:03.500 --> 01:14:14.500]   We look at ourselves. Where have our desires and affections and love and want of Christ been replaced by temporal, shadowy, ridiculous, honestly, things?
+[01:14:14.500 --> 01:14:19.500]   We cannot coast. We cannot relax. We cannot quit.
+[01:14:19.500 --> 01:14:25.500]   We have to endure. We have to persevere. This has to be torturous. We need to die.
+[01:14:25.500 --> 01:14:32.500]   That was the call if you want to follow Christ.
+[01:14:32.500 --> 01:14:36.500]   We did not leave that life behind at the moment of salvation.
+[01:14:36.500 --> 01:14:41.500]   It is our daily death to be sanctified.
+[01:14:41.500 --> 01:14:45.500]   For his desires, for his wants, his wills, because we love him.
+[01:14:45.500 --> 01:14:48.500]   The cross was for criminals to atone for the sins they committed.
+[01:14:48.500 --> 01:14:56.500]   And though Jesus took the cross for the believer, it is because sin still resides in our flesh that in sanctification we have to die.
+[01:14:56.500 --> 01:15:03.500]   When there is sin, we have to treat sin with the severity that it deserves.
+[01:15:03.500 --> 01:15:07.500]   We can't coddle it. We cannot sweep it under the rug.
+[01:15:07.500 --> 01:15:11.500]   We cannot put it aside. We cannot say, "We hope it gets better."
+[01:15:11.500 --> 01:15:16.500]   We cannot pray to God and say, "Just zap it away."
+[01:15:16.500 --> 01:15:22.500]   We need to fight. Complete eradication.
+[01:15:22.500 --> 01:15:27.500]   Pray to God for the wisdom to first see it for what it is and then to know how to apply this into our lives.
+[01:15:27.500 --> 01:15:34.500]   In a taking up of our crosses, we don't flippantly abuse the fact that he paid for it.
+[01:15:34.500 --> 01:15:38.500]   To not excuse sin.
+[01:15:38.500 --> 01:15:43.500]   Let the words of Christ, as simple as it is this morning, "If you desire me."
+[01:15:43.500 --> 01:15:46.500]   "If you desire to follow me, deny yourself, take up your cross."
+[01:15:46.500 --> 01:15:57.500]   Let those simple words examine your heart and see where the sin lays in the deep recesses of your heart that you have yet refused to surrender.
+[01:15:57.500 --> 01:16:04.500]   This is not a suggestion. This is the Christian.
+[01:16:04.500 --> 01:16:15.500]   There is no other choice if we love Christ.
+[01:16:15.500 --> 01:16:21.500]   It's the very reason Paul was able to say, "I count all things lost compared to the surpassing worth of knowing Christ."
+[01:16:21.500 --> 01:16:27.500]   That's why.
+[01:16:27.500 --> 01:16:29.500]   Our final point.
+[01:16:29.500 --> 01:16:31.500]   And then it says, "Go after Jesus."
+[01:16:31.500 --> 01:16:34.500]   I think it's a hilarious statement.
+[01:16:34.500 --> 01:16:40.500]   "If anyone wishes to come after me, he must deny himself, take up his cross, and follow me."
+[01:16:40.500 --> 01:16:44.500]   What was the point of two and three?
+[01:16:44.500 --> 01:16:48.500]   "If anyone wishes to come after me, then follow me."
+[01:16:48.500 --> 01:16:52.500]   That's all that should be said.
+[01:16:52.500 --> 01:16:59.500]   But Jesus, knowing the heart of man, says, "He must deny himself, take up his cross, follow me."
+[01:16:59.500 --> 01:17:02.500]   See how we like to jump it?
+[01:17:02.500 --> 01:17:05.500]   That we get to redefine what it means to follow him.
+[01:17:05.500 --> 01:17:09.500]   And he says, "You do not get to redefine it this morning."
+[01:17:09.500 --> 01:17:14.500]   "I will tell you what it looks like to follow me."
+[01:17:14.500 --> 01:17:18.500]   "Die."
+[01:17:18.500 --> 01:17:22.500]   Then and only then does Jesus mention going after Christ.
+[01:17:22.500 --> 01:17:34.500]   Because if we do not have a desire for Christ set, then all other things we do is simple religious motion.
+[01:17:34.500 --> 01:17:39.500]   The most applicable way is through his word and to treat the word as an intimate listening to the voice of our God.
+[01:17:39.500 --> 01:17:42.500]   We have to pursue Christ.
+[01:17:42.500 --> 01:17:44.500]   We have to be dead set on Christ.
+[01:17:44.500 --> 01:17:45.500]   We want to follow Christ.
+[01:17:45.500 --> 01:17:46.500]   Have you ever tried to follow someone?
+[01:17:46.500 --> 01:17:49.500]   I follow the leader, I do that with my kids sometimes.
+[01:17:49.500 --> 01:17:52.500]   Sometimes they're really terrible at it, you know.
+[01:17:52.500 --> 01:17:53.500]   Getting better.
+[01:17:53.500 --> 01:17:57.500]   Have you ever tried to follow someone in a caravan?
+[01:17:57.500 --> 01:18:00.500]   You know what happens when you're caravaning and there's stuck traffic?
+[01:18:00.500 --> 01:18:01.500]   You're trying to follow.
+[01:18:01.500 --> 01:18:02.500]   You don't have directions.
+[01:18:02.500 --> 01:18:04.500]   Only the person in front of you has directions.
+[01:18:04.500 --> 01:18:06.500]   And so you're trying to follow that car in front of you.
+[01:18:06.500 --> 01:18:10.500]   And so what happens if somebody cuts in between you?
+[01:18:10.500 --> 01:18:11.500]   Anger?
+[01:18:11.500 --> 01:18:12.500]   "Get out, what are you doing?"
+[01:18:12.500 --> 01:18:14.500]   "Get out of the way, I'm trying to follow this car."
+[01:18:14.500 --> 01:18:16.500]   And you start to panic.
+[01:18:16.500 --> 01:18:17.500]   "Where's the car?"
+[01:18:17.500 --> 01:18:18.500]   "Hey, everybody, keep your eye on the car."
+[01:18:18.500 --> 01:18:19.500]   "Stop playing games."
+[01:18:19.500 --> 01:18:21.500]   "Keep your eye on that car, we need to find it."
+[01:18:21.500 --> 01:18:22.500]   And you start to speed up.
+[01:18:22.500 --> 01:18:24.500]   You try to find it, catch it.
+[01:18:24.500 --> 01:18:26.500]   Any glimpse of it, your career.
+[01:18:26.500 --> 01:18:29.500]   There is no other thought.
+[01:18:29.500 --> 01:18:31.500]   Until you get behind that car, you are not comfortable.
+[01:18:31.500 --> 01:18:33.500]   You are not at peace.
+[01:18:33.500 --> 01:18:38.500]   And when you're there, you're like, "Oh, okay, whew."
+[01:18:38.500 --> 01:18:39.500]   To follow Christ.
+[01:18:39.500 --> 01:18:41.500]   Colossians chapter 3 verse 1, it says,
+[01:18:41.500 --> 01:18:43.500]   "Therefore, if you have been raised up with Christ,
+[01:18:43.500 --> 01:18:44.500]   "keep seeking the things above,
+[01:18:44.500 --> 01:18:46.500]   "for Christ is seated at the right hand of God.
+[01:18:46.500 --> 01:18:48.500]   "Set your mind on the things above,
+[01:18:48.500 --> 01:18:49.500]   "not on the things that are on earth."
+[01:18:49.500 --> 01:18:51.500]   This is not just saying, like,
+[01:18:51.500 --> 01:18:52.500]   keep your eyes on the things of heaven.
+[01:18:52.500 --> 01:18:54.500]   This is not just saying, keep your eyes,
+[01:18:54.500 --> 01:18:57.500]   things that are good in the heavenly realm.
+[01:18:57.500 --> 01:18:59.500]   It says, defining it.
+[01:18:59.500 --> 01:19:04.500]   Keep your eyes on Jesus Christ himself.
+[01:19:04.500 --> 01:19:06.500]   Like your caravan.
+[01:19:06.500 --> 01:19:08.500]   Like you never want to miss a glimpse of him.
+[01:19:08.500 --> 01:19:15.500]   That it will be, you will be lost without him.
+[01:19:15.500 --> 01:19:17.500]   We must persevere in this.
+[01:19:17.500 --> 01:19:19.500]   It is not going to be easy,
+[01:19:19.500 --> 01:19:20.500]   but one day we will get to the destination,
+[01:19:20.500 --> 01:19:22.500]   and we will party.
+[01:19:22.500 --> 01:19:24.500]   We will get to our destination,
+[01:19:24.500 --> 01:19:26.500]   and it will be a time of tremendous joy
+[01:19:26.500 --> 01:19:28.500]   when we're at that banqueting table.
+[01:19:28.500 --> 01:19:29.500]   At the end of our passage,
+[01:19:29.500 --> 01:19:32.500]   it says that he is going to come down with the angels,
+[01:19:32.500 --> 01:19:35.500]   and we will sing hallelujah.
+[01:19:35.500 --> 01:19:39.500]   It is going to come.
+[01:19:39.500 --> 01:19:41.500]   In this moment, we have to persevere.
+[01:19:41.500 --> 01:19:43.500]   We cannot give up.
+[01:19:43.500 --> 01:19:44.500]   If we've grown distracted,
+[01:19:44.500 --> 01:19:45.500]   we have to get back on.
+[01:19:45.500 --> 01:19:46.500]   If we are his sheep,
+[01:19:46.500 --> 01:19:48.500]   listen to the voice of your shepherd today.
+[01:19:48.500 --> 01:19:50.500]   He calls back out to you.
+[01:19:50.500 --> 01:19:51.500]   He says, "Follow me."
+[01:19:51.500 --> 01:19:54.500]   He says, "Renew yourself in me."
+[01:19:54.500 --> 01:19:55.500]   He is telling you.
+[01:19:55.500 --> 01:19:57.500]   He is commanding you.
+[01:19:57.500 --> 01:19:58.500]   He is urging you.
+[01:19:58.500 --> 01:20:02.500]   He is pleading with you.
+[01:20:02.500 --> 01:20:03.500]   Deny yourself.
+[01:20:03.500 --> 01:20:05.500]   Re-examine your life.
+[01:20:05.500 --> 01:20:06.500]   Re-commit.
+[01:20:06.500 --> 01:20:08.500]   Remember your love for Christ,
+[01:20:08.500 --> 01:20:10.500]   and that there is no one more worthy,
+[01:20:10.500 --> 01:20:13.500]   no one more worth it.
+[01:20:13.500 --> 01:20:17.500]   The rest of the passage, Matthew 16, 25,
+[01:20:17.500 --> 01:20:19.500]   goes, "For whoever wishes to save his life will lose it,
+[01:20:19.500 --> 01:20:21.500]   but whoever loses his life for my sake will find it.
+[01:20:21.500 --> 01:20:23.500]   For what will it profit a man if he gains the whole world
+[01:20:23.500 --> 01:20:25.500]   and forfeits his soul?
+[01:20:25.500 --> 01:20:27.500]   Or what will a man give in exchange for his soul?
+[01:20:27.500 --> 01:20:28.500]   For the Son of Man is going to come
+[01:20:28.500 --> 01:20:30.500]   in the glory of his Father with his angels,
+[01:20:30.500 --> 01:20:33.500]   and will then repay every man according to his deeds."
+[01:20:33.500 --> 01:20:35.500]   If we're to look at this passage,
+[01:20:35.500 --> 01:20:37.500]   and if we're not careful,
+[01:20:37.500 --> 01:20:40.500]   we start to do this weird reversal effect
+[01:20:40.500 --> 01:20:41.500]   where you're just looking at,
+[01:20:41.500 --> 01:20:42.500]   "What do I need to do?
+[01:20:42.500 --> 01:20:45.500]   I need to lose my life."
+[01:20:45.500 --> 01:20:47.500]   And it's just like just the fear of hell
+[01:20:47.500 --> 01:20:48.500]   or something like that,
+[01:20:48.500 --> 01:20:55.500]   or something that isn't the proper motivation.
+[01:20:55.500 --> 01:20:56.500]   I think for the Christian,
+[01:20:56.500 --> 01:20:59.500]   and I'm telling you that I read it wrong.
+[01:20:59.500 --> 01:21:00.500]   I think for the Christian,
+[01:21:00.500 --> 01:21:03.500]   the proper way to read this is when you read,
+[01:21:03.500 --> 01:21:05.500]   "For the Son of Man is going to come
+[01:21:05.500 --> 01:21:10.500]   in the glory of his Father."
+[01:21:10.500 --> 01:21:13.500]   Like that's the highlight.
+[01:21:13.500 --> 01:21:15.500]   That's the excitement.
+[01:21:15.500 --> 01:21:19.500]   That's the motivator.
+[01:21:19.500 --> 01:21:24.500]   Everything before that, without that,
+[01:21:24.500 --> 01:21:26.500]   what does it mean?
+[01:21:26.500 --> 01:21:33.500]   What are we doing?
+[01:21:33.500 --> 01:21:35.500]   In order to receive Christ,
+[01:21:35.500 --> 01:21:37.500]   you must lose your life.
+[01:21:37.500 --> 01:21:38.500]   Today, if we're not denying,
+[01:21:38.500 --> 01:21:40.500]   if we're not dying,
+[01:21:40.500 --> 01:21:41.500]   if we go down that road long enough,
+[01:21:41.500 --> 01:21:43.500]   if we continue to be comfortable
+[01:21:43.500 --> 01:21:44.500]   just living in the places
+[01:21:44.500 --> 01:21:48.500]   that we just think is okay,
+[01:21:48.500 --> 01:21:50.500]   you say, "Tomorrow, tomorrow, tomorrow,
+[01:21:50.500 --> 01:21:52.500]   tomorrow, tomorrow," long enough,
+[01:21:52.500 --> 01:21:56.500]   you'll find yourself at the end
+[01:21:56.500 --> 01:21:57.500]   and maybe even find yourself
+[01:21:57.500 --> 01:22:01.500]   to not be a Christian.
+[01:22:01.500 --> 01:22:02.500]   But for the Christian today,
+[01:22:02.500 --> 01:22:05.500]   we hear his words.
+[01:22:05.500 --> 01:22:07.500]   We hear his word from the Scriptures.
+[01:22:07.500 --> 01:22:08.500]   This is not some man on a pulpit.
+[01:22:08.500 --> 01:22:11.500]   This is Jesus' words himself.
+[01:22:11.500 --> 01:22:15.500]   We hear it and the Christian says, "Yes."
+[01:22:15.500 --> 01:22:16.500]   In the beginning of the sermon,
+[01:22:16.500 --> 01:22:18.500]   maybe we had a lot of question marks,
+[01:22:18.500 --> 01:22:19.500]   "What do I desire?
+[01:22:19.500 --> 01:22:20.500]   What do I desire?"
+[01:22:20.500 --> 01:22:21.500]   I hope at the end,
+[01:22:21.500 --> 01:22:22.500]   when we consider his words,
+[01:22:22.500 --> 01:22:23.500]   all our hearts are the same.
+[01:22:23.500 --> 01:22:29.500]   We want Christ.
+[01:22:29.500 --> 01:22:30.500]   We have to stop placing condition
+[01:22:30.500 --> 01:22:31.500]   on what this death
+[01:22:31.500 --> 01:22:35.500]   and crucifixion looks like.
+[01:22:35.500 --> 01:22:37.500]   We have to exert the attention
+[01:22:37.500 --> 01:22:41.500]   and the fervor and urgency
+[01:22:41.500 --> 01:22:43.500]   that this requires.
+[01:22:43.500 --> 01:22:47.500]   I'll conclude with Romans 6.
+[01:22:47.500 --> 01:22:48.500]   This is the best passage.
+[01:22:48.500 --> 01:22:53.500]   This had to do with baptism.
+[01:22:53.500 --> 01:22:54.500]   "What shall we say then?
+[01:22:54.500 --> 01:22:55.500]   Are we to continue in sin
+[01:22:55.500 --> 01:22:57.500]   so that grace may increase?
+[01:22:57.500 --> 01:22:59.500]   May it never be.
+[01:22:59.500 --> 01:23:01.500]   How shall we who died to sin
+[01:23:01.500 --> 01:23:04.500]   still live in it?
+[01:23:04.500 --> 01:23:05.500]   Or do you not know
+[01:23:05.500 --> 01:23:06.500]   that all of us who have been baptized
+[01:23:06.500 --> 01:23:07.500]   into Christ Jesus
+[01:23:07.500 --> 01:23:09.500]   have been baptized into his death?
+[01:23:09.500 --> 01:23:10.500]   Therefore, we have been buried with him
+[01:23:10.500 --> 01:23:11.500]   through baptism into death
+[01:23:11.500 --> 01:23:13.500]   so that as Christ was raised from the dead
+[01:23:13.500 --> 01:23:14.500]   through the glory of the Father,
+[01:23:14.500 --> 01:23:18.500]   so we too might walk in newness of life.
+[01:23:18.500 --> 01:23:19.500]   For if we have become united with him
+[01:23:19.500 --> 01:23:20.500]   in the likeness of his death,
+[01:23:20.500 --> 01:23:22.500]   certainly we shall also be
+[01:23:22.500 --> 01:23:24.500]   in the likeness of his resurrection,
+[01:23:24.500 --> 01:23:25.500]   knowing this,
+[01:23:25.500 --> 01:23:27.500]   that our old self was crucified with him
+[01:23:27.500 --> 01:23:28.500]   in order that our body of sin
+[01:23:28.500 --> 01:23:30.500]   might be done away with
+[01:23:30.500 --> 01:23:33.500]   so that we would no longer be slaves to sin.
+[01:23:33.500 --> 01:23:38.500]   For he who has died is freed from sin."
+[01:23:38.500 --> 01:23:40.500]   Let's take a moment to pray together.
+[01:23:40.500 --> 01:23:43.500]   Would you confess and examine your hearts
+[01:23:43.500 --> 01:23:44.500]   and look at those places
+[01:23:44.500 --> 01:23:46.500]   where you have refused to surrender
+[01:23:46.500 --> 01:23:49.500]   and use this time to surrender
+[01:23:49.500 --> 01:23:52.500]   and to say yes to the Lord Jesus
+[01:23:52.500 --> 01:23:53.500]   who is commanding,
+[01:23:53.500 --> 01:23:54.500]   urging us this morning
+[01:23:54.500 --> 01:23:55.500]   to let go of our lives
+[01:23:55.500 --> 01:23:57.500]   so that we might live.
+[01:23:57.500 --> 01:24:20.500]   [Silence]
+[01:24:20.500 --> 01:24:27.500]   [Music]
+[01:24:27.500 --> 01:24:37.500]   [Music]
+[01:24:37.500 --> 01:24:47.500]   [Music]
+[01:24:47.500 --> 01:24:57.500]   [Music]
+[01:24:57.500 --> 01:25:07.500]   [Music]
+[01:25:07.500 --> 01:25:17.500]   [Music]
+[01:25:17.500 --> 01:25:27.500]   [Music]
+[01:25:27.500 --> 01:25:42.500]   [Music]
+[01:25:42.500 --> 01:25:46.500]   Let us all rise as we sing our closing praise.
+[01:25:46.500 --> 01:25:59.500]   [Music]
+[01:25:59.500 --> 01:26:02.500]   When I survey,
+[01:26:02.500 --> 01:26:13.500]   when I survey the wondrous cross
+[01:26:13.500 --> 01:26:24.500]   on which the Prince of Glory died,
+[01:26:24.500 --> 01:26:35.500]   my richest gain I count but loss,
+[01:26:35.500 --> 01:26:46.500]   and poor content on all my pride.
+[01:26:46.500 --> 01:26:50.500]   Safe from His hand,
+[01:26:50.500 --> 01:26:53.500]   His hands,
+[01:26:53.500 --> 01:26:57.500]   His feet,
+[01:26:57.500 --> 01:27:08.500]   sorrow and love blow me gold down.
+[01:27:08.500 --> 01:27:19.500]   Did e'er such love and sorrow meet,
+[01:27:19.500 --> 01:27:28.500]   or thoughts compose so rich a crown?
+[01:27:28.500 --> 01:27:33.500]   O my wonderful cross,
+[01:27:33.500 --> 01:27:38.500]   O my wonderful cross,
+[01:27:38.500 --> 01:27:42.500]   face me come and die,
+[01:27:42.500 --> 01:27:49.500]   but that I may truly die.
+[01:27:49.500 --> 01:27:55.500]   O my wonderful cross,
+[01:27:55.500 --> 01:28:00.500]   O my wonderful cross,
+[01:28:00.500 --> 01:28:04.500]   all who gather here
+[01:28:04.500 --> 01:28:10.500]   and praise from you bless your name.
+[01:28:10.500 --> 01:28:13.500]   [Music]
+[01:28:13.500 --> 01:28:24.500]   In the whole realm of nature mild,
+[01:28:24.500 --> 01:28:35.500]   power and offering far too small,
+[01:28:35.500 --> 01:28:41.500]   love so amazing,
+[01:28:41.500 --> 01:28:46.500]   so divine,
+[01:28:46.500 --> 01:28:50.500]   deep as my soul,
+[01:28:50.500 --> 01:28:55.500]   my life, my all.
+[01:28:55.500 --> 01:29:01.500]   O my wonderful cross,
+[01:29:01.500 --> 01:29:06.500]   O my wonderful cross,
+[01:29:06.500 --> 01:29:10.500]   face me come and die,
+[01:29:10.500 --> 01:29:17.500]   but that I may truly die.
+[01:29:17.500 --> 01:29:22.500]   O my wonderful cross,
+[01:29:22.500 --> 01:29:27.500]   O my wonderful cross,
+[01:29:27.500 --> 01:29:31.500]   all who gather here
+[01:29:31.500 --> 01:29:37.500]   and praise from you bless your name.
+[01:29:37.500 --> 01:29:40.500]   O my wonderful cross,
+[01:29:40.500 --> 01:29:45.500]   O my wonderful cross,
+[01:29:45.500 --> 01:29:50.500]   O my wonderful cross,
+[01:29:50.500 --> 01:29:54.500]   face me come and die,
+[01:29:54.500 --> 01:30:01.500]   but that I may truly die.
+[01:30:01.500 --> 01:30:06.500]   O my wonderful cross,
+[01:30:06.500 --> 01:30:11.500]   O my wonderful cross,
+[01:30:11.500 --> 01:30:15.500]   all who gather here
+[01:30:15.500 --> 01:30:21.500]   and praise from you bless your name.
+[01:30:21.500 --> 01:30:24.500]   [Music]
+[01:30:24.500 --> 01:30:30.500]   Love so amazing,
+[01:30:30.500 --> 01:30:35.500]   so divine,
+[01:30:35.500 --> 01:30:39.500]   deep as my soul,
+[01:30:39.500 --> 01:30:45.500]   my life, my all.
+[01:30:45.500 --> 01:30:49.500]   [Music]
+[01:30:49.500 --> 01:30:53.500]   Father, I thank you this morning that because of the cross,
+[01:30:53.500 --> 01:30:55.500]   or wherever it is,
+[01:30:55.500 --> 01:30:57.500]   we are proclaimers of Christ,
+[01:30:57.500 --> 01:31:00.500]   who have his blood justifying and covering over us.
+[01:31:00.500 --> 01:31:04.500]   You have forgiven us for our unfaithfulness.
+[01:31:04.500 --> 01:31:07.500]   You love us.
+[01:31:07.500 --> 01:31:09.500]   As much as I would love my son,
+[01:31:09.500 --> 01:31:11.500]   you would love so much more.
+[01:31:11.500 --> 01:31:14.500]   You care for us.
+[01:31:14.500 --> 01:31:17.500]   And Father, so thank you for your word
+[01:31:17.500 --> 01:31:19.500]   that would put us back on the right path
+[01:31:19.500 --> 01:31:21.500]   into the arms of our Father.
+[01:31:21.500 --> 01:31:22.500]   Would you teach us, Lord,
+[01:31:22.500 --> 01:31:25.500]   to trust in you in all aspects of our lives.
+[01:31:25.500 --> 01:31:28.500]   May the grace of the Lord Jesus Christ,
+[01:31:28.500 --> 01:31:30.500]   the love of God our Father,
+[01:31:30.500 --> 01:31:32.500]   and the fellowship of the Holy Spirit
+[01:31:32.500 --> 01:31:35.500]   be with us all both now and forevermore.
+[01:31:35.500 --> 01:31:37.500]   Amen.
+[01:31:37.500 --> 01:31:38.500]   [Music]
+[01:31:38.500 --> 01:31:43.500]   God sent his Son.
+[01:31:43.500 --> 01:31:49.500]   They called him Jesus.
+[01:31:49.500 --> 01:31:54.500]   He came to love,
+[01:31:54.500 --> 01:31:59.500]   heal and forgive.
+[01:31:59.500 --> 01:32:04.500]   He lived and died
+[01:32:04.500 --> 01:32:10.500]   to buy my heart.
+[01:32:10.500 --> 01:32:15.500]   An empty grave is there to prove
+[01:32:15.500 --> 01:32:20.500]   I've saved your land.
+[01:32:20.500 --> 01:32:26.500]   Because he lives,
+[01:32:26.500 --> 01:32:31.500]   I can face tomorrow.
+[01:32:31.500 --> 01:32:36.500]   Because he lives,
+[01:32:36.500 --> 01:32:42.500]   all fear is gone.
+[01:32:42.500 --> 01:32:47.500]   Because I know
+[01:32:47.500 --> 01:32:52.500]   he holds the future
+[01:32:52.500 --> 01:32:57.500]   and life is worth the living
+[01:32:57.500 --> 01:33:03.500]   just because he lives.
+[01:33:04.500 --> 01:33:07.500]   [Music]
+[01:33:08.500 --> 01:33:11.500]   [Music]
+[01:33:12.500 --> 01:33:15.500]   [Music]
+[01:33:16.500 --> 01:33:19.500]   [Music]
+[01:33:19.500 --> 01:33:24.500]   [Music]
+
