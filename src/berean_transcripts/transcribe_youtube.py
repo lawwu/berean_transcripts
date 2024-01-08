@@ -55,18 +55,18 @@ def download_audio(url, outfile_name):
 # Extract audio from video
 def extract_audio(video_file, audio_file):
     """
-    Extract audio from video
+    Extracts the audio from a video file and saves it as an MP3 file.
 
-    Parameters
-    ----------
-    video_file : str
-        Path to video file
-    audio_file : str
-        Path to audio file
+    Args:
+        video_file (str): Path to the input video file.
+        audio_file (str): Path to save the extracted audio file.
 
-    Returns
-    -------
-    None
+    Returns:
+        str: Path to the saved audio file.
+
+    Raises:
+        FileNotFoundError: If the input video file does not exist.
+        Exception: If the audio extraction fails.
     """
     logging.info(
         f"Using ffmpeg to extract audio from {video_file} to {audio_file}"
@@ -93,6 +93,15 @@ def ensure_wav_16k(filename):
 
 @timeit
 def run_whisper(filename, model_name, num_threads=7, num_processors=1):
+    """
+    Runs the whisper.cpp using Metal.
+
+    Args:
+        filename: The base name of the file to process.
+        model_name: The name of the Whisper model to use.
+        num_threads: The number of CPU threads to use.
+        num_processors: The number of processors to use.
+    """
     model_path = model_dir / model_name
     input_path = transcripts_dir / f"{filename}_16k.wav"
     output_path = transcripts_dir / f"{filename}.txt"
@@ -130,6 +139,14 @@ def clean_up_wav_files(base_filename):
 
 
 def main():
+    """
+    Entry point of the script that orchestrates the entire process of
+    downloading and processing audio from YouTube/Vimeo.
+
+    Command-line arguments:
+    - url: URL of the video to process.
+    - model_name: Name of the whisper model to use (optional, with default).
+    """
     parser = argparse.ArgumentParser(
         description="Automate downloading and processing audio from YouTube/Vimeo."
     )
