@@ -408,6 +408,7 @@ if __name__ == "__main__":
         "--file",
         type=str,
         help="Text file containing YouTube video IDs, one per line",
+        default=data_dir / "bcc_live_video_ids_done.txt",
     )
     args = parser.parse_args()
 
@@ -445,6 +446,7 @@ if __name__ == "__main__":
         "Da_eeD-q0NI",
         "hKORWmYZyJI",
         "uQIKw7drHps",
+        "O0TJ4k9ukHs",
         # test videos
         "44005314",
     ]
