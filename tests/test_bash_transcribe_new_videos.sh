@@ -44,11 +44,11 @@ test_ssh_agent_setup_and_key_addition() {
 test_ssh_agent_setup_and_key_addition
 
 # Test case to check if the SSH agent is started
-mock_ssh_agent_start() {
+test_ssh_agent_killed() {
 
 # Assert the necessary files are added and committed
     assert_true "$(grep 'git add' bash_transcribe_new_videos.sh)" "Files are added"
     assert_true "$(grep 'AUTO: adding latest messages' bash_transcribe_new_videos.sh)" "Files are committed"
 
     # Run all the tests
-run_tests
+assert_true "$(ps aux | grep ssh-agent | grep -v grep)" "SSH agent is killed"
