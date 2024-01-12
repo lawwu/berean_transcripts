@@ -1,4 +1,4 @@
-def extract_video_id(url):
+def extract_video_id(url):\n    """\n    Extracts the video ID from a given URL.\n\n    Parameters:\n    - url (str): The URL of the video.\n\n    Returns:\n    - str: The extracted video ID.\n    """
     """
     Extracts the video ID from a given URL.
 
