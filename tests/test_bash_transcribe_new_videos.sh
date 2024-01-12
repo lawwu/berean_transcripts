@@ -3,6 +3,9 @@
 # Import necessary functions and variables from bash_transcribe_new_videos.sh
 source "../bash_transcribe_new_videos.sh"
 
+# Import necessary functions and variables from bash_transcribe_new_videos.sh
+source "../bash_transcribe_new_videos.sh"
+
 # Test SSH agent setup and key addition
 test_ssh_agent_setup_and_key_addition() {
     # Mock SSH agent setup and key addition
@@ -14,7 +17,7 @@ test_ssh_agent_setup_and_key_addition() {
     }
 
     # Call the function to be tested
-    start_ssh_agent_and_add_ssh_key
+    start_ssh_agent_and_add_ssh_key()
 
     # Assert the expected output
     # Replace with appropriate assertions based on the expected behavior of the function
