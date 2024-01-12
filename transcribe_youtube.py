@@ -20,3 +20,13 @@ def extract_video_id(url):
 
     # If neither pattern is found
     return "unknown_id"
+def download_audio(url):
+    """
+    Downloads audio from the given URL.
+
+    Parameters:
+    - url (str): The URL of the video.
+
+    Returns:
+    - str: The extracted video ID.
+    """
