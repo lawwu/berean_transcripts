@@ -1,4 +1,13 @@
-def extract_video_id(url):
+def download_audio(url):
+    """
+    Downloads audio from the given URL.
+
+    Parameters:
+    - url (str): The URL of the video.
+
+    Returns:
+    - str: The extracted video ID.
+    """
     """
     Extracts the video ID from a given URL.
 
