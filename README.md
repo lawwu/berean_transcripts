@@ -24,12 +24,24 @@ git clone https://github.com/ggerganov/whisper.cpp
 cd whisper.cpp
 make clean
 make -j
+```
 
-# setup crontab
+# Setup crontab
+
+Start ssh agent
+
+```bash
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_rsa
+```
+
+Create crontab
+
+```bash
 crontab -e
-# run at Sundays, 11pm PST and Wednesdays 11pm PST
-0 14 * * SUN /Users/lawrencewu/Github/berean_transcripts/bash_transcribe_new_videos.sh >> /Users/lawrencewu/Github/berean_transcripts/crontab.log
-0 23 * * WED /Users/lawrencewu/Github/berean_transcripts/bash_transcribe_new_videos.sh >> /Users/lawrencewu/Github/berean_transcripts/crontab.log
+# run at Sundays, 2pm PST and Wednesdays 11pm PST
+0 14 * * SUN /Users/lawrencewu/Github/berean_transcripts/bash_transcribe_new_videos.sh >> /Users/lawrencewu/Github/berean_transcripts/crontab_sun.log
+0 23 * * WED /Users/lawrencewu/Github/berean_transcripts/bash_transcribe_new_videos.sh >> /Users/lawrencewu/Github/berean_transcripts/crontab_wed.log
 ```
 
 
