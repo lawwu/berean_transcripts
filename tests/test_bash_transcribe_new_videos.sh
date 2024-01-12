@@ -9,7 +9,7 @@ source "../bash_transcribe_new_videos.sh"
 # Test SSH agent setup and key addition
 test_ssh_agent_setup_and_key_addition() {
     # Mock SSH agent setup and key addition
-    eval() {
+    mock_ssh_agent_start() {
         echo "SSH agent setup"
     }
     ssh-add() {
