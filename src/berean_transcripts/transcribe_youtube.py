@@ -32,7 +32,7 @@ def extract_video_id(url):
     return "unknown_id"
 
 
-def download_audio(url, outfile_name):
+def download_audio(url, outfile_name, ffmpeg_path="/opt/homebrew/bin/ffmpeg"):
     try:
         options = {
             "format": "bestaudio/best",
@@ -43,6 +43,7 @@ def download_audio(url, outfile_name):
                     "preferredquality": "192",
                 }
             ],
+            "ffmpeg_location": ffmpeg_path,
             "outtmpl": str(transcripts_dir / outfile_name),
         }
         with YoutubeDL(options) as ydl:
@@ -83,11 +84,11 @@ def extract_audio(video_file, audio_file):
         return None
 
 
-def ensure_wav_16k(filename):
+def ensure_wav_16k(filename, ffmpeg_path="/opt/homebrew/bin/ffmpeg"):
     input_path = transcripts_dir / f"{filename}.wav"
     output_path = transcripts_dir / f"{filename}_16k.wav"
     # always override with yes
-    command = ["ffmpeg", "-y", "-i", input_path, "-ar", "16000", output_path]
+    command = [ffmpeg_path, "-y", "-i", input_path, "-ar", "16000", output_path]
     subprocess.run(command)
 
 
@@ -108,6 +109,7 @@ def run_whisper(filename, model_name, num_threads=7, num_processors=1):
 
     whisper_main = whispercpp_dir / "main"
     command = f"{whisper_main} -m {model_path} -t {num_threads} -p {num_processors} -f {input_path} > {output_path}"
+    logging.info(f"Running whisper command: {command}")
     subprocess.run(command, shell=True)
 
 

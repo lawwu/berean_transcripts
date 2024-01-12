@@ -30,6 +30,9 @@ html:
 transcribe_new:
 	./bash_transcribe_new_videos.sh
 
+update_whispercpp:
+	cd whisper.cpp && git pull && make
+
 #################################################################################
 # Self Documenting Commands                                                     #
 #################################################################################

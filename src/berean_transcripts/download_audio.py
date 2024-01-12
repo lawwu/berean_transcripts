@@ -83,11 +83,11 @@ def extract_audio(video_file, audio_file):
         return None
 
 
-def ensure_wav_16k(filename):
+def ensure_wav_16k(filename, ffmpeg_path="/opt/homebrew/bin/ffmpeg"):
     input_path = transcripts_dir / f"{filename}.wav"
     output_path = transcripts_dir / f"{filename}_16k.wav"
     # always override with yes
-    command = ["ffmpeg", "-y", "-i", input_path, "-ar", "16000", output_path]
+    command = [ffmpeg_path, "-y", "-i", input_path, "-ar", "16000", output_path]
     subprocess.run(command)
 
 

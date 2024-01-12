@@ -5,7 +5,6 @@ Sermon transcripts for <https://bereancc.com/> inspired by <https://karpathy.ai/
 # Setup
 
 ```bash
-pyenv local 3.11
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
@@ -22,22 +21,18 @@ cd whisper.cpp
 make clean
 make -j
 
-# setup pre-commit
-pre-commit install
-
 # setup crontab
 crontab -e
-# run at Sundays, 2pm PST and Wednesdays 11pm PST
-# 0 14 * * 0 /Users/lawrencewu/Github/berean_transcripts/bash_transcribe_new_videos.sh
-# 0 23 * * 3 /Users/lawrencewu/Github/berean_transcripts/bash_transcribe_new_videos.sh
+# run at Sundays, 11pm PST and Wednesdays 11pm PST
+0 14 * * 0 TZ=":America/Los_Angeles" /Users/lawrencewu/Github/berean_transcripts/bash_transcribe_new_videos.sh
+# 0 23 * * 3 TZ=":America/Los_Angeles" /Users/lawrencewu/Github/berean_transcripts/bash_transcribe_new_videos.sh
 ```
 
 
 # TODO
 
-- [x] ~~can transfer rest of Berean's Vimeo videos to Youtube: https://github.com/hichamelkaddioui/vimeo-to-youtube and then transcribe~~ Decided to leave Vimeo videos alone and transcribe them in place
 - [x] don't use JSON cache, use a slimmer CSV with id, title, upload_date, url, and other necessary fields
-- [ ] for the transcript only pages, automatically detect paragraph breaks for readability
+- [ ] Use python bindings instead of calling whisper.cpp directly, can use https://github.com/abdeladim-s/pywhispercpp or https://github.com/aarnphm/whispercpp 
 - [ ] automatically tag the beginning and end of the sermons and clip this out
 - [ ] Whisper thinks some sections of the sermon are praise
-- [ ] Use python bindings instead of calling whisper.cpp directly, can use https://github.com/aarnphm/whispercpp
+- [ ] check does whisper remove ums and ahs?
