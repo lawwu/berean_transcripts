@@ -24,8 +24,8 @@ make -j
 # setup crontab
 crontab -e
 # run at Sundays, 11pm PST and Wednesdays 11pm PST
-0 14 * * 0 TZ=":America/Los_Angeles" /Users/lawrencewu/Github/berean_transcripts/bash_transcribe_new_videos.sh
-# 0 23 * * 3 TZ=":America/Los_Angeles" /Users/lawrencewu/Github/berean_transcripts/bash_transcribe_new_videos.sh
+0 14 * * SUN /Users/lawrencewu/Github/berean_transcripts/bash_transcribe_new_videos.sh >> /Users/lawrencewu/Github/berean_transcripts/crontab.log
+0 23 * * WED /Users/lawrencewu/Github/berean_transcripts/bash_transcribe_new_videos.sh >> /Users/lawrencewu/Github/berean_transcripts/crontab.log
 ```
 
 
