@@ -30,3 +30,12 @@ def download_audio(url):
     Returns:
     - str: The extracted video ID.
     """
+    """
+    Downloads audio from the given URL.
+
+    Parameters:
+    - url (str): The URL of the video.
+
+    Returns:
+    - str: The extracted video ID.
+    """
