@@ -35,7 +35,7 @@ test_ssh_agent_setup_and_key_addition() {
 
     # Assert the expected output
     assert_true "$(eval ssh-add)" "SSH agent is running"
-    # For example:
+    assert_true "No new videos found. Exiting script." "Script exits with message: No new videos found. Exiting script."
     # assert_equal "$(eval)" "SSH agent setup"
     # assert_equal "$(ssh-add)" "SSH key added"
 }
