@@ -14,6 +14,7 @@ pip install -e .
 
 # initialize git-lfs
 git lfs install
+git lfs pull data/video_details_cache.json
 
 # build whisper.cpp
 git clone https://github.com/ggerganov/whisper.cpp
