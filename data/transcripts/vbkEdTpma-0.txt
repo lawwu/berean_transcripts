@@ -2,885 +2,1158 @@
 [00:00:00.000 --> 00:00:02.920]   (soft piano music)
 [00:00:02.920 --> 00:00:05.840]   (soft piano music)
 [00:00:05.840 --> 00:00:08.760]   (soft piano music)
-[00:00:09.760 --> 00:00:12.680]   (soft piano music)
-[00:00:12.680 --> 00:00:15.600]   (soft piano music)
-[00:00:15.600 --> 00:00:18.520]   (soft piano music)
-[00:00:18.520 --> 00:00:26.480]   (soft piano music)
-[00:00:26.480 --> 00:00:31.400]   (soft piano music)
-[00:00:31.400 --> 00:00:37.360]   (soft piano music)
-[00:00:37.360 --> 00:00:42.360]   (soft piano music)
-[00:00:43.200 --> 00:00:46.200]   (soft piano music)
-[00:00:46.200 --> 00:00:51.200]   (soft piano music)
-[00:00:51.200 --> 00:00:58.200]   (soft piano music)
-[00:00:58.200 --> 00:01:04.200]   (soft piano music)
-[00:01:04.200 --> 00:01:10.200]   (soft piano music)
-[00:01:12.200 --> 00:01:15.200]   (soft piano music)
-[00:01:15.200 --> 00:01:22.200]   (soft piano music)
-[00:01:22.200 --> 00:01:27.200]   (soft piano music)
-[00:01:27.200 --> 00:01:33.200]   (soft piano music)
-[00:01:33.200 --> 00:01:39.200]   (soft piano music)
-[00:01:39.200 --> 00:01:42.120]   (soft piano music)
-[00:01:43.120 --> 00:01:46.040]   (soft piano music)
-[00:01:46.040 --> 00:02:06.720]   (soft piano music)
-[00:02:06.720 --> 00:02:09.640]   (soft piano music)
-[00:02:09.640 --> 00:02:12.560]   (soft piano music)
-[00:02:12.600 --> 00:02:15.520]   (soft piano music)
-[00:02:15.520 --> 00:02:23.440]   (soft piano music)
-[00:02:23.440 --> 00:02:34.360]   (soft piano music)
-[00:02:34.360 --> 00:02:37.280]   (soft piano music)
-[00:02:37.280 --> 00:02:57.760]   - All righty.
-[00:02:57.760 --> 00:02:58.600]   Good morning, church family.
-[00:02:58.600 --> 00:02:59.440]   Happy Lord's Day.
-[00:02:59.440 --> 00:03:01.360]   I hope you had a good week in the Lord.
-[00:03:02.520 --> 00:03:05.280]   In Psalm 92, it reads,
-[00:03:05.280 --> 00:03:07.360]   "It is good to give thanks to the Lord
-[00:03:07.360 --> 00:03:10.660]   "and to sing praises to your name, O Most High,
-[00:03:10.660 --> 00:03:13.560]   "to declare your lovingkindness in the morning
-[00:03:13.560 --> 00:03:16.120]   "and your faithfulness by night.
-[00:03:16.120 --> 00:03:19.140]   "With a 10-stringed lute and with the harp,
-[00:03:19.140 --> 00:03:22.180]   "with resounding music upon the lyre.
-[00:03:22.180 --> 00:03:25.980]   "For you, O Lord, have made me glad by what you have done,
-[00:03:25.980 --> 00:03:29.280]   "and I will sing for joy at the works of your hands.
-[00:03:29.280 --> 00:03:30.120]   "Amen."
-[00:03:30.120 --> 00:03:33.040]   (soft piano music)
-[00:03:33.040 --> 00:03:36.880]   We're gonna begin our worship by singing a song,
-[00:03:36.880 --> 00:03:38.300]   "It is Good to Praise the Lord."
-[00:03:38.300 --> 00:03:41.220]   (soft piano music)
-[00:03:41.220 --> 00:03:52.880]   ♪ It is good to praise the Lord ♪
-[00:03:52.880 --> 00:03:59.760]   ♪ It is good to gaze upon his face ♪
-[00:03:59.760 --> 00:04:02.400]   ♪ His majesty ♪
-[00:04:02.400 --> 00:04:07.400]   ♪ To proclaim his love in the morning ♪
-[00:04:07.400 --> 00:04:14.520]   ♪ And his faithfulness at night ♪
-[00:04:14.520 --> 00:04:20.260]   ♪ Oh, it is good to worship and praise the Lord ♪
-[00:04:20.260 --> 00:04:28.280]   (soft piano music)
-[00:04:29.260 --> 00:04:34.260]   ♪ It is good to praise the Lord ♪
-[00:04:34.260 --> 00:04:41.260]   ♪ It is good to gaze upon his majesty ♪
-[00:04:41.260 --> 00:04:48.740]   ♪ To proclaim his love in the morning ♪
-[00:04:48.740 --> 00:04:55.900]   ♪ And his faithfulness at night ♪
-[00:04:56.620 --> 00:05:01.620]   ♪ Oh, it is good to worship and praise the Lord ♪
-[00:05:01.620 --> 00:05:09.300]   (soft piano music)
-[00:05:09.300 --> 00:05:23.140]   One more time, it is good.
-[00:05:23.140 --> 00:05:28.140]   ♪ It is good to praise the Lord ♪
-[00:05:28.140 --> 00:05:35.060]   ♪ It is good to gaze upon his majesty ♪
-[00:05:35.060 --> 00:05:42.480]   ♪ To proclaim his love in the morning ♪
-[00:05:42.480 --> 00:05:49.640]   ♪ And his faithfulness at night ♪
-[00:05:50.380 --> 00:05:55.380]   ♪ Oh, it is good to worship and praise the Lord ♪
-[00:05:55.380 --> 00:06:02.380]   ♪ Oh, it is good to worship and praise the Lord ♪
-[00:06:02.380 --> 00:06:09.400]   ♪ Oh, it is good to worship and praise the Lord ♪
-[00:06:09.400 --> 00:06:14.400]   ♪ Oh, it is good to worship and praise the Lord ♪
-[00:06:14.400 --> 00:06:24.840]   - All right, good morning.
-[00:06:24.840 --> 00:06:26.880]   Welcome to Friend Community Church.
+[00:00:08.760 --> 00:00:11.680]   (soft piano music)
+[00:00:11.680 --> 00:00:14.600]   (soft piano music)
+[00:00:14.800 --> 00:00:17.720]   (soft piano music)
+[00:00:17.720 --> 00:00:26.160]   (soft piano music)
+[00:00:26.160 --> 00:00:34.760]   (soft piano music)
+[00:00:34.760 --> 00:00:41.520]   (soft piano music)
+[00:00:41.640 --> 00:00:44.560]   (soft piano music)
+[00:00:44.560 --> 00:00:53.480]   (soft piano music)
+[00:00:53.480 --> 00:01:02.400]   (soft piano music)
+[00:01:02.400 --> 00:01:10.440]   (soft piano music)
+[00:01:11.440 --> 00:01:14.360]   (soft piano music)
+[00:01:14.360 --> 00:01:22.360]   (soft piano music)
+[00:01:22.360 --> 00:01:33.360]   (soft piano music)
+[00:01:33.360 --> 00:01:36.280]   (soft piano music)
+[00:01:36.280 --> 00:01:46.280]   (soft piano music)
+[00:01:46.280 --> 00:01:55.280]   (soft piano music)
+[00:01:55.280 --> 00:01:58.200]   (soft piano music)
+[00:01:58.200 --> 00:02:08.200]   (soft piano music)
+[00:02:08.200 --> 00:02:18.200]   (soft piano music)
+[00:02:18.200 --> 00:02:21.120]   (soft piano music)
+[00:02:21.120 --> 00:02:35.120]   (soft piano music)
+[00:02:35.120 --> 00:02:46.120]   (soft piano music)
+[00:02:46.120 --> 00:02:49.040]   (soft piano music)
+[00:02:49.040 --> 00:02:58.520]   - All righty, good morning, church family.
+[00:02:58.520 --> 00:02:59.440]   Happy Lord's Day.
+[00:02:59.440 --> 00:03:01.400]   I hope you had a good week in the Lord.
+[00:03:01.400 --> 00:03:05.320]   In Psalm 92, it reads,
+[00:03:05.320 --> 00:03:07.400]   it is good to give thanks to the Lord
+[00:03:07.400 --> 00:03:10.720]   and to sing praises to your name, O Most High,
+[00:03:10.720 --> 00:03:13.640]   to declare your loving kindness in the morning
+[00:03:13.640 --> 00:03:15.240]   and your faithfulness by night.
+[00:03:16.160 --> 00:03:19.200]   With a 10-stringed lute and with the harp,
+[00:03:19.200 --> 00:03:22.240]   with resounding music upon the lyre.
+[00:03:22.240 --> 00:03:26.040]   For you, O Lord, have made me glad by what you have done,
+[00:03:26.040 --> 00:03:29.360]   and I will sing for joy at the works of your hands.
+[00:03:29.360 --> 00:03:30.200]   Amen.
+[00:03:30.200 --> 00:03:35.320]   (soft piano music)
+[00:03:35.320 --> 00:03:36.800]   We're gonna begin our worship by singing a song.
+[00:03:36.800 --> 00:03:38.200]   It is good to praise the Lord.
+[00:03:38.200 --> 00:03:41.120]   (soft piano music)
+[00:03:41.120 --> 00:03:44.040]   (soft piano music)
+[00:03:44.040 --> 00:03:52.840]   ♪ It is good to praise the Lord ♪
+[00:03:52.840 --> 00:03:59.760]   ♪ It is good to gaze upon his majesty ♪
+[00:03:59.760 --> 00:04:07.240]   ♪ To proclaim his love in the morning ♪
+[00:04:09.320 --> 00:04:14.320]   ♪ And his faithfulness at night ♪
+[00:04:14.320 --> 00:04:20.040]   ♪ Oh, it is good to worship and praise the Lord ♪
+[00:04:20.040 --> 00:04:35.080]   ♪ It is good to praise the Lord ♪
+[00:04:36.960 --> 00:04:41.960]   ♪ Oh, it is good to gaze upon his majesty ♪
+[00:04:41.960 --> 00:04:49.600]   ♪ To proclaim his love in the morning ♪
+[00:04:49.600 --> 00:04:56.720]   ♪ And his faithfulness at night ♪
+[00:04:56.720 --> 00:05:02.480]   ♪ Oh, it is good to worship and praise the Lord ♪
+[00:05:02.480 --> 00:05:05.640]   ♪ And praise the Lord ♪
+[00:05:05.640 --> 00:05:23.200]   One more time, it is good.
+[00:05:23.200 --> 00:05:28.200]   ♪ It is good to praise the Lord ♪
+[00:05:30.040 --> 00:05:35.040]   ♪ It is good to gaze upon his majesty ♪
+[00:05:35.040 --> 00:05:42.480]   ♪ To proclaim his love in the morning ♪
+[00:05:42.480 --> 00:05:49.600]   ♪ And his faithfulness at night ♪
+[00:05:49.600 --> 00:05:55.400]   ♪ Oh, it is good to worship and praise the Lord ♪
+[00:05:57.400 --> 00:06:02.400]   ♪ Oh, it is good to worship and praise ♪
+[00:06:02.400 --> 00:06:09.400]   ♪ Oh, it is good to worship and praise the Lord ♪
+[00:06:09.400 --> 00:06:24.840]   - All right, good morning.
+[00:06:24.840 --> 00:06:26.880]   Welcome to Brain Community Church.
 [00:06:26.880 --> 00:06:29.920]   And I'm sure as some of you guys may have already noticed
 [00:06:29.920 --> 00:06:32.800]   as you're coming in to find parking,
 [00:06:32.800 --> 00:06:35.760]   the Ortho parking lot that's on the corner
 [00:06:35.760 --> 00:06:37.280]   of Mitchell and Red Hill,
-[00:06:37.280 --> 00:06:39.320]   it's one of the bigger ones that we've been using
-[00:06:39.320 --> 00:06:40.160]   for a while.
-[00:06:40.160 --> 00:06:42.200]   The church, the building was sold
-[00:06:42.200 --> 00:06:43.480]   and they have new owners in there.
-[00:06:43.480 --> 00:06:47.000]   And so we need to figure out a way to renegotiate
-[00:06:47.000 --> 00:06:48.840]   the exchange that we have between them and us.
-[00:06:48.840 --> 00:06:51.640]   And for the time being, that parking lot is shut down
-[00:06:51.640 --> 00:06:53.000]   until further notice.
-[00:06:53.000 --> 00:06:54.440]   So when you come in, we encourage you
-[00:06:54.440 --> 00:06:55.280]   to use all the other lots.
-[00:06:55.280 --> 00:06:57.480]   If you are a family with small children,
-[00:06:57.480 --> 00:07:00.960]   again, the lot behind us is reserved for you.
-[00:07:00.960 --> 00:07:04.120]   So it may be a little bit tricky to go find it
-[00:07:04.120 --> 00:07:06.840]   for the first time, but there is plenty of parking there
-[00:07:06.840 --> 00:07:10.120]   that a lot of the parents have not utilized yet.
-[00:07:10.120 --> 00:07:11.360]   And so if you're looking for parking
-[00:07:11.360 --> 00:07:12.240]   and you have small children,
-[00:07:12.240 --> 00:07:14.040]   that's the first place we'd want you to park.
-[00:07:14.040 --> 00:07:15.800]   And then obviously across the street.
-[00:07:15.800 --> 00:07:17.880]   And we have plenty of parking.
-[00:07:17.880 --> 00:07:20.680]   If you drive around, you'll see.
-[00:07:20.680 --> 00:07:22.880]   Especially if you're gonna park and then get shuttled here,
-[00:07:22.880 --> 00:07:24.800]   we have more than enough parking for that.
-[00:07:24.800 --> 00:07:27.520]   But again, for the time being, the Ortho parking lot,
-[00:07:27.520 --> 00:07:29.440]   again, at the corner of Mitchell,
-[00:07:29.440 --> 00:07:31.160]   at the end of the street and Red Hill,
-[00:07:31.160 --> 00:07:32.640]   that will be shut down for the time being.
-[00:07:32.640 --> 00:07:33.920]   We are trying to communicate with them,
-[00:07:33.920 --> 00:07:36.120]   but we don't know if that's gonna open up again.
-[00:07:36.120 --> 00:07:37.960]   So just give you a heads up on that.
-[00:07:37.960 --> 00:07:42.640]   Babysitting, there's a new ministry that's starting
-[00:07:42.640 --> 00:07:44.680]   and the name of it is babysitting.
-[00:07:44.680 --> 00:07:48.360]   So this is a new name that I forgot who came up with,
-[00:07:48.360 --> 00:07:49.440]   but very clever.
-[00:07:49.440 --> 00:07:52.220]   So it's babysitting, but it's babysitting.
-[00:07:52.220 --> 00:07:54.480]   So those of you who have children,
-[00:07:54.480 --> 00:07:58.240]   one year to 17 months before you send them
-[00:07:58.240 --> 00:08:00.440]   to the Seeds Ministry for babysitting
-[00:08:00.440 --> 00:08:02.120]   and program that they have there.
-[00:08:02.120 --> 00:08:05.020]   But in order for us to have space
-[00:08:05.020 --> 00:08:07.480]   and so that the program that they're running
-[00:08:07.480 --> 00:08:11.880]   for that service, they're gonna target some of the older kids
-[00:08:11.880 --> 00:08:13.320]   who are able to participate.
-[00:08:13.320 --> 00:08:16.280]   So babysitting ministry is gonna be happening
-[00:08:16.280 --> 00:08:18.580]   starting from March 3rd.
-[00:08:18.580 --> 00:08:20.400]   Okay, sorry, is it March 3rd?
-[00:08:20.400 --> 00:08:21.280]   Yeah, March 3rd.
-[00:08:21.280 --> 00:08:23.320]   So not this Sunday, but then Sunday afternoon.
-[00:08:23.320 --> 00:08:25.760]   And it's relevant only to this service, okay?
-[00:08:25.760 --> 00:08:28.080]   And so if you have children that age,
-[00:08:28.080 --> 00:08:31.960]   between one and 17 months, you drop off the kids over there
-[00:08:31.960 --> 00:08:35.060]   and they'll be, volunteers will be out babysitting.
-[00:08:35.060 --> 00:08:37.220]   They've already carpeted the floor,
-[00:08:37.220 --> 00:08:39.820]   so it's cushiony, so it's not on solid ground.
-[00:08:39.820 --> 00:08:41.240]   And so they're gonna be decorating
-[00:08:41.240 --> 00:08:42.260]   and getting that room ready.
-[00:08:42.260 --> 00:08:43.840]   So it's not this, it's coming Sunday,
-[00:08:43.840 --> 00:08:47.340]   but Sunday afterwards, that ministry will be open, okay?
-[00:08:47.340 --> 00:08:49.720]   Then obviously after 17 months,
+[00:06:37.280 --> 00:06:38.240]   it's one of the bigger ones
+[00:06:38.240 --> 00:06:40.180]   that we've been using for a while.
+[00:06:40.180 --> 00:06:42.240]   The church, the building was sold
+[00:06:42.240 --> 00:06:43.520]   and they have new owners in there.
+[00:06:43.520 --> 00:06:47.040]   And so we need to figure out a way to renegotiate
+[00:06:47.040 --> 00:06:48.880]   the exchange that we have between them and us.
+[00:06:48.880 --> 00:06:49.960]   And for the time being,
+[00:06:49.960 --> 00:06:53.040]   that parking lot is shut down until further notice.
+[00:06:53.040 --> 00:06:53.920]   So when you come in,
+[00:06:53.920 --> 00:06:55.320]   we encourage you to use all the other lots.
+[00:06:55.320 --> 00:06:57.520]   If you are a family with small children,
+[00:06:57.520 --> 00:07:01.000]   again, the lot behind us is reserved for you.
+[00:07:01.000 --> 00:07:03.400]   So it may be a little bit tricky
+[00:07:03.400 --> 00:07:04.800]   to go find it for the first time,
+[00:07:04.800 --> 00:07:06.880]   but there is plenty of parking there
+[00:07:06.880 --> 00:07:10.160]   that a lot of the parents have not utilized yet.
+[00:07:10.160 --> 00:07:11.400]   And so if you're looking for parking
+[00:07:11.400 --> 00:07:12.280]   and you have small children,
+[00:07:12.280 --> 00:07:14.080]   that's the first place we want you to park.
+[00:07:14.080 --> 00:07:15.800]   And then obviously across the street,
+[00:07:15.800 --> 00:07:17.920]   and we have plenty of parking.
+[00:07:17.920 --> 00:07:20.720]   If you drive around, you'll see.
+[00:07:20.720 --> 00:07:21.800]   Especially if you're gonna park
+[00:07:21.800 --> 00:07:22.920]   and then get shuttled here,
+[00:07:22.920 --> 00:07:24.840]   we have more than enough parking for that.
+[00:07:24.840 --> 00:07:26.040]   But again, for the time being,
+[00:07:26.040 --> 00:07:27.840]   the ortho parking lot, again,
+[00:07:27.840 --> 00:07:29.480]   at the corner of Mitchell,
+[00:07:29.480 --> 00:07:31.200]   at the end of the street and Red Hill,
+[00:07:31.200 --> 00:07:32.680]   that will be shut down for the time being.
+[00:07:32.680 --> 00:07:33.960]   We are trying to communicate with them,
+[00:07:33.960 --> 00:07:36.160]   but we don't know if that's gonna open up again.
+[00:07:36.160 --> 00:07:38.120]   So just to give you a heads up on that.
+[00:07:38.120 --> 00:07:41.080]   Baby seating.
+[00:07:41.080 --> 00:07:42.680]   There's a new ministry that's starting,
+[00:07:42.680 --> 00:07:44.720]   and the name of it is Baby Seating.
+[00:07:44.720 --> 00:07:48.440]   So this is a new name that I forgot who came up with,
+[00:07:48.440 --> 00:07:49.520]   but very clever.
+[00:07:49.520 --> 00:07:52.280]   So it's Baby Sitting, but it's Baby Seating.
+[00:07:52.280 --> 00:07:54.520]   So those of you who have children,
+[00:07:54.520 --> 00:07:57.040]   one year to 17 months,
+[00:07:57.040 --> 00:07:59.720]   before you send them to the Seeds Ministry
+[00:07:59.720 --> 00:08:02.160]   for babysitting and program that they have there,
+[00:08:02.160 --> 00:08:05.040]   but in order for us to have space
+[00:08:05.040 --> 00:08:07.520]   and so that the program that they're running
+[00:08:07.520 --> 00:08:09.680]   for that service,
+[00:08:09.680 --> 00:08:11.920]   they're gonna target some of the older kids
+[00:08:11.920 --> 00:08:13.360]   who are able to participate.
+[00:08:13.360 --> 00:08:16.320]   So Baby Seating Ministry is gonna be happening
+[00:08:16.320 --> 00:08:18.640]   starting from March 3rd.
+[00:08:18.640 --> 00:08:20.440]   Okay, sorry, is it March 3rd?
+[00:08:20.440 --> 00:08:21.320]   Yeah, March 3rd.
+[00:08:21.320 --> 00:08:23.240]   So not this Sunday, but the Sunday after.
+[00:08:23.240 --> 00:08:25.720]   And it's relevant only to this service, okay?
+[00:08:25.720 --> 00:08:28.080]   And so if you have children that age,
+[00:08:28.080 --> 00:08:30.280]   between one and 17 months,
+[00:08:30.280 --> 00:08:31.960]   you drop off the kids over there,
+[00:08:31.960 --> 00:08:35.040]   and there'll be, volunteers will be babysitting.
+[00:08:35.040 --> 00:08:38.040]   They've already carpeted the floor so it's cushiony,
+[00:08:38.040 --> 00:08:39.840]   so it's not on solid ground.
+[00:08:39.840 --> 00:08:41.240]   And so they're gonna be decorating
+[00:08:41.240 --> 00:08:42.240]   and getting that room ready.
+[00:08:42.240 --> 00:08:43.840]   So it's not this, it's coming Sunday,
+[00:08:43.840 --> 00:08:47.320]   but Sunday afterwards, that ministry will be open, okay?
+[00:08:47.320 --> 00:08:49.720]   Then obviously after 17 months,
 [00:08:49.720 --> 00:08:52.720]   they'll be coming to the Seeds Ministry after that.
-[00:08:52.720 --> 00:08:54.760]   Old Testament Survey, as I already mentioned,
+[00:08:52.720 --> 00:08:54.760]   Old Testament Survey, as I have already mentioned,
 [00:08:54.760 --> 00:08:56.920]   on March 3rd, for six weeks,
 [00:08:56.920 --> 00:08:59.360]   Pastor Peter Chung is going to be leading our church
-[00:08:59.360 --> 00:09:01.100]   in the study of the Old Testament Survey.
-[00:09:01.100 --> 00:09:03.000]   And if you haven't taken that class
+[00:08:59.360 --> 00:09:01.120]   in the study of the Old Testament Survey.
+[00:09:01.120 --> 00:09:03.000]   And if you haven't taken that class,
 [00:09:03.000 --> 00:09:06.320]   or you need a refresher on the general outline
-[00:09:06.320 --> 00:09:08.280]   of how the Old Testament is put together
+[00:09:06.320 --> 00:09:08.280]   of how the Old Testament is put together,
 [00:09:08.280 --> 00:09:09.760]   and how it relates to the New Testament,
-[00:09:09.760 --> 00:09:11.880]   that's a class I strongly recommend you to take.
-[00:09:11.880 --> 00:09:13.440]   And so please sign up for that,
-[00:09:13.440 --> 00:09:15.500]   and that's starting on March 3rd.
-[00:09:15.500 --> 00:09:17.680]   Again, on March 9th, 9 a.m.,
-[00:09:17.680 --> 00:09:20.160]   we have an all-church cleaning maintenance day.
-[00:09:20.160 --> 00:09:22.720]   So the more people sign up, the quicker it'll go
-[00:09:22.720 --> 00:09:25.000]   and more we're able to clean the church.
-[00:09:25.000 --> 00:09:28.520]   And I know that, you know, we've had a lot of questions.
-[00:09:28.520 --> 00:09:30.240]   I got a church our size, wouldn't it be better
-[00:09:30.240 --> 00:09:32.320]   if we just hired janitors to do that?
-[00:09:32.320 --> 00:09:33.620]   But I think there is a benefit.
-[00:09:33.620 --> 00:09:35.060]   It's not because of finances,
-[00:09:35.060 --> 00:09:37.100]   but there is a benefit for the church
-[00:09:37.100 --> 00:09:39.940]   to take ownership of the church that we're attending,
-[00:09:39.940 --> 00:09:42.760]   that even though our church is a certain size,
-[00:09:42.760 --> 00:09:44.300]   it would be beneficial to have,
-[00:09:44.300 --> 00:09:46.660]   I think it's beneficial for our church members
-[00:09:46.660 --> 00:09:49.140]   to take ownership of the building that we're using.
-[00:09:49.140 --> 00:09:50.740]   And so if you're able to come out,
-[00:09:50.740 --> 00:09:53.420]   we highly encourage you to come and help us clean.
-[00:09:53.420 --> 00:09:56.900]   That's happening on March 9th, Saturday at 9 a.m.
-[00:09:56.900 --> 00:09:58.580]   And then one last announcement.
-[00:09:58.580 --> 00:10:00.520]   If you are part of the FAM 245,
-[00:10:00.520 --> 00:10:02.440]   and this is a ministry for young couples
-[00:10:02.440 --> 00:10:04.680]   who've been married for three years or less,
-[00:10:04.680 --> 00:10:06.360]   there is a men's hiking fellowship
-[00:10:06.360 --> 00:10:10.200]   that's taking place on March 9th from 7.30 to 1 p.m.
-[00:10:10.200 --> 00:10:12.940]   And they're gonna be reviewing the design,
-[00:10:12.940 --> 00:10:16.360]   divine design for marriage from MacArthur, John MacArthur.
-[00:10:16.360 --> 00:10:19.160]   And then the fellowship is gonna center around that topic
-[00:10:19.160 --> 00:10:21.320]   and they're gonna be going hiking, having fellowship.
-[00:10:21.320 --> 00:10:24.120]   And so if you're a part of that ministry,
-[00:10:24.120 --> 00:10:27.200]   please sign up for that with our brother, Jason Choi.
-[00:10:27.200 --> 00:10:29.020]   All the other announcements, I'm just gonna refer you
-[00:10:29.020 --> 00:10:32.380]   to our website and to our app.
-[00:10:32.380 --> 00:10:33.620]   But let me pray for us for the offering.
-[00:10:33.620 --> 00:10:36.860]   Again, if you haven't transitioned to Subsplash,
-[00:10:36.860 --> 00:10:38.260]   we wanna encourage you to do that.
-[00:10:38.260 --> 00:10:41.500]   We're gonna keep the Zelle open for just a little bit longer,
-[00:10:41.500 --> 00:10:42.980]   maybe about a month longer,
-[00:10:42.980 --> 00:10:45.580]   to give you more time to transition.
-[00:10:45.580 --> 00:10:46.820]   And if you choose not to,
-[00:10:46.820 --> 00:10:48.460]   you can always bring a physical offering
-[00:10:48.460 --> 00:10:49.920]   that you can bring in the back.
-[00:10:49.920 --> 00:10:52.940]   But again, it will only be open for a little bit longer
-[00:10:52.940 --> 00:10:55.900]   to give you a little bit more time to transition.
-[00:10:55.900 --> 00:10:58.980]   But let me pray for us and give you an opportunity to give,
-[00:10:58.980 --> 00:11:01.640]   and then we'll enter into the main worship.
-[00:11:01.640 --> 00:11:02.480]   Let's pray.
-[00:11:02.480 --> 00:11:08.460]   Father, we've gathered here together
-[00:11:08.460 --> 00:11:10.780]   to corporately worship you, Lord God,
-[00:11:10.780 --> 00:11:12.340]   with our brothers and sisters.
-[00:11:12.340 --> 00:11:17.600]   Help us to give you what is sincere in our hearts,
-[00:11:17.600 --> 00:11:21.980]   not simply our time, not simply out of obligation.
-[00:11:21.980 --> 00:11:24.260]   I pray, Father, that you would fill our hearts
-[00:11:24.260 --> 00:11:26.740]   with joy and gratitude,
-[00:11:26.740 --> 00:11:29.140]   that what we give you will be an overflow
-[00:11:29.140 --> 00:11:32.260]   of the worship that you're creating inside of us.
-[00:11:32.260 --> 00:11:34.220]   Help us to lift up our eyes
-[00:11:34.220 --> 00:11:36.480]   to know where our true help comes from.
-[00:11:36.480 --> 00:11:39.300]   Help us to be committed to the cause
-[00:11:39.300 --> 00:11:41.020]   that you're committed to,
-[00:11:41.020 --> 00:11:42.180]   that even in our giving,
-[00:11:42.180 --> 00:11:45.660]   it would be in reflection of our dedication to you.
-[00:11:45.660 --> 00:11:47.220]   May your name be honored and glorified
-[00:11:47.220 --> 00:11:49.620]   through this time, in Jesus' name we pray, amen.
-[00:11:49.620 --> 00:11:53.240]   (gentle music)
-[00:11:53.240 --> 00:11:56.660]   (gentle music continues)
-[00:11:56.660 --> 00:12:00.080]   (gentle music continues)
-[00:12:00.080 --> 00:12:03.500]   (gentle music continues)
-[00:12:03.500 --> 00:12:06.920]   (gentle music continues)
-[00:12:06.920 --> 00:12:10.340]   (gentle music continues)
-[00:12:10.340 --> 00:12:13.760]   (gentle music continues)
-[00:12:39.920 --> 00:12:41.280]   At this time, let us stand together,
-[00:12:41.280 --> 00:12:43.840]   and as always, take a minute to greet each other,
-[00:12:43.840 --> 00:12:45.840]   and we will continue our worship.
-[00:12:45.840 --> 00:12:49.260]   (gentle music continues)
-[00:12:49.260 --> 00:13:09.440]   (gentle music continues)
-[00:13:09.440 --> 00:13:12.860]   (gentle music continues)
-[00:13:13.580 --> 00:13:18.580]   ♪ How has the sinner been forgiven ♪
-[00:13:18.580 --> 00:13:22.900]   ♪ How has the rebel been made clean ♪
-[00:13:22.900 --> 00:13:27.760]   ♪ Or blinded eyes been made to see ♪
+[00:09:09.760 --> 00:09:11.840]   that's a class I strongly recommend you to take.
+[00:09:11.840 --> 00:09:13.440]   And so please sign up for that,
+[00:09:13.440 --> 00:09:15.480]   and that's starting on March 3rd.
+[00:09:15.480 --> 00:09:17.680]   Again, on March 9th, 9 a.m.,
+[00:09:17.680 --> 00:09:20.160]   we have an All-Church Cleaning Maintenance Day.
+[00:09:20.160 --> 00:09:22.720]   So the more people sign up, the quicker it'll go,
+[00:09:22.720 --> 00:09:25.000]   and the more we're able to clean the church.
+[00:09:25.000 --> 00:09:28.480]   And I know that, you know, we've had a lot of questions,
+[00:09:28.480 --> 00:09:29.600]   like at a church our size,
+[00:09:29.600 --> 00:09:32.280]   wouldn't it be better if we just hired janitors to do that?
+[00:09:32.280 --> 00:09:33.600]   But I think there is a benefit.
+[00:09:33.600 --> 00:09:35.040]   It's not because of finances,
+[00:09:35.040 --> 00:09:37.040]   but there is a benefit for the church
+[00:09:37.040 --> 00:09:39.900]   to take ownership of the church that we're attending,
+[00:09:39.900 --> 00:09:42.720]   that even though our church is a certain size,
+[00:09:42.720 --> 00:09:44.280]   it would be beneficial to have,
+[00:09:44.280 --> 00:09:46.620]   I think it's beneficial for our church members
+[00:09:46.620 --> 00:09:49.160]   to take ownership of the building that we're using.
+[00:09:49.160 --> 00:09:50.680]   And so if you're able to come out,
+[00:09:50.680 --> 00:09:53.360]   we highly encourage you to come and help us clean.
+[00:09:53.360 --> 00:09:57.000]   That's happening on March 9th, Saturday at 9 a.m.
+[00:09:57.000 --> 00:09:58.520]   And then one last announcement.
+[00:09:58.520 --> 00:10:00.480]   If you are part of the FAM 245,
+[00:10:00.480 --> 00:10:02.400]   and this is a ministry for young couples
+[00:10:02.400 --> 00:10:04.640]   who've been married for three years or less,
+[00:10:04.640 --> 00:10:06.300]   there is a Men's Hiking Fellowship
+[00:10:06.300 --> 00:10:10.160]   that's taking place on March 9th, from 7.30 to 1 p.m.,
+[00:10:10.160 --> 00:10:11.960]   and they're gonna be reviewing
+[00:10:11.960 --> 00:10:15.360]   the Divine Design for Marriage from MacArthur,
+[00:10:15.360 --> 00:10:17.560]   John MacArthur, and then the fellowship
+[00:10:17.560 --> 00:10:19.120]   is gonna center around that topic,
+[00:10:19.120 --> 00:10:21.280]   and they're gonna be going hiking, having fellowship.
+[00:10:21.280 --> 00:10:24.080]   And so if you're a part of that ministry,
+[00:10:24.080 --> 00:10:27.160]   please sign up for that with our brother, Jason Choi.
+[00:10:27.160 --> 00:10:28.000]   All the other announcements,
+[00:10:28.000 --> 00:10:32.340]   I'm just gonna refer you to our website and to our app.
+[00:10:32.340 --> 00:10:33.600]   But let me pray for us for the offering.
+[00:10:33.600 --> 00:10:36.820]   Again, if you haven't transitioned to Subsplash,
+[00:10:36.820 --> 00:10:38.240]   we wanna encourage you to do that.
+[00:10:38.240 --> 00:10:41.480]   We're gonna keep the Zelle open for just a little bit longer,
+[00:10:41.480 --> 00:10:42.940]   maybe about a month longer,
+[00:10:42.940 --> 00:10:45.560]   to give you more time to transition.
+[00:10:45.560 --> 00:10:46.800]   And if you choose not to,
+[00:10:46.800 --> 00:10:48.440]   you can always bring a physical offering
+[00:10:48.440 --> 00:10:49.880]   that you can bring in the back.
+[00:10:49.880 --> 00:10:52.920]   But again, it will only be open for a little bit longer
+[00:10:52.920 --> 00:10:55.860]   to give you a little bit more time to transition.
+[00:10:55.860 --> 00:10:58.960]   But let me pray for us and give you an opportunity to give,
+[00:10:58.960 --> 00:11:01.620]   and then we'll enter into the main worship.
+[00:11:01.620 --> 00:11:02.460]   Let's pray.
+[00:11:02.460 --> 00:11:08.440]   Father, we've gathered here together
+[00:11:08.440 --> 00:11:10.760]   to corporately worship you, Lord God,
+[00:11:10.760 --> 00:11:12.320]   with our brothers and sisters.
+[00:11:12.320 --> 00:11:17.560]   Help us to give you what is sincere in our hearts,
+[00:11:17.560 --> 00:11:21.920]   not simply our time, not simply out of obligation.
+[00:11:21.920 --> 00:11:24.200]   I pray, Father, that you would fill our hearts
+[00:11:24.200 --> 00:11:26.680]   with joy and gratitude,
+[00:11:26.680 --> 00:11:29.080]   that what we give you will be an overflow
+[00:11:29.080 --> 00:11:32.240]   of the worship that you're creating inside of us.
+[00:11:32.240 --> 00:11:34.200]   Help us to lift up our eyes
+[00:11:34.200 --> 00:11:36.440]   to know where our true help comes from.
+[00:11:36.440 --> 00:11:39.280]   Help us to be committed to the cause
+[00:11:39.280 --> 00:11:41.000]   that you're committed to,
+[00:11:41.000 --> 00:11:42.160]   that even in our giving,
+[00:11:42.160 --> 00:11:45.640]   it would be in reflection of our dedication to you.
+[00:11:45.640 --> 00:11:47.200]   May your name be honored and glorified
+[00:11:47.200 --> 00:11:48.040]   through this time.
+[00:11:48.040 --> 00:11:50.180]   In Jesus' name we pray, amen.
+[00:11:50.180 --> 00:11:53.080]   (soft piano music)
+[00:11:53.080 --> 00:11:56.000]   (soft piano music)
+[00:11:56.000 --> 00:11:58.920]   (soft piano music)
+[00:11:58.920 --> 00:12:01.840]   (soft piano music)
+[00:12:02.440 --> 00:12:05.360]   (soft piano music)
+[00:12:05.360 --> 00:12:12.840]   (soft piano music)
+[00:12:12.840 --> 00:12:19.840]   (soft piano music)
+[00:12:19.840 --> 00:12:26.520]   (soft piano music)
+[00:12:30.280 --> 00:12:33.200]   (soft piano music)
+[00:12:33.200 --> 00:12:41.280]   - At this time, let us stand together,
+[00:12:41.280 --> 00:12:43.720]   and as always, I'll take a minute to greet each other,
+[00:12:43.720 --> 00:12:45.520]   and we will continue our worship.
+[00:12:45.520 --> 00:12:48.440]   (soft piano music)
+[00:12:49.280 --> 00:12:52.200]   (soft piano music)
+[00:12:52.200 --> 00:13:09.360]   (soft piano music)
+[00:13:13.680 --> 00:13:18.680]   ♪ How has the sinner been forgiven ♪
+[00:13:18.680 --> 00:13:22.840]   ♪ How has the rebel been made clean ♪
+[00:13:22.840 --> 00:13:27.760]   ♪ Or blinded eyes been made to see ♪
 [00:13:27.760 --> 00:13:32.760]   ♪ How have the orphans been adopted ♪
-[00:13:32.760 --> 00:13:37.020]   ♪ Who hated your love and ran from grace ♪
-[00:13:37.020 --> 00:13:42.020]   ♪ Despised and rejected all your ways ♪
-[00:13:42.040 --> 00:13:44.780]   ♪ How wonderful the Father's love ♪
-[00:13:44.780 --> 00:13:49.420]   ♪ The Father's love for us ♪
-[00:13:49.420 --> 00:13:54.420]   ♪ He would send his only Son to come and rescue us ♪
-[00:13:54.420 --> 00:14:00.260]   ♪ He has saved us from us faithless ♪
-[00:14:00.260 --> 00:14:03.860]   ♪ Binds us now and will sustain us ♪
-[00:14:03.860 --> 00:14:08.860]   ♪ Oh how wonderful the Father's love ♪
-[00:14:08.940 --> 00:14:12.360]   (gentle music continues)
-[00:14:12.360 --> 00:14:15.880]   ♪ Your mercy, Lord ♪
-[00:14:15.880 --> 00:14:20.880]   ♪ Your mercy, Lord, surprise and kindness ♪
-[00:14:20.880 --> 00:14:25.160]   ♪ Your grace has covered all we see ♪
-[00:14:25.160 --> 00:14:30.100]   ♪ You have our promise not to leave ♪
-[00:14:30.100 --> 00:14:35.100]   ♪ You really gave your spirit to us ♪
-[00:14:35.700 --> 00:14:39.220]   ♪ We can be sure the sons of God ♪
-[00:14:39.220 --> 00:14:44.220]   ♪ Rest in the hope of once divine ♪
-[00:14:44.220 --> 00:14:46.780]   ♪ How wonderful the Father's love ♪
-[00:14:46.780 --> 00:14:51.280]   ♪ The Father's love for us ♪
-[00:14:51.280 --> 00:14:56.280]   ♪ He would send his only Son to come and rescue us ♪
-[00:14:56.280 --> 00:15:02.360]   ♪ He has saved us from us faithless ♪
-[00:15:02.360 --> 00:15:06.080]   ♪ Binds us now and will sustain us ♪
-[00:15:06.080 --> 00:15:11.080]   ♪ Oh how wonderful the Father's love ♪
-[00:15:11.080 --> 00:15:19.960]   ♪ Victory in the light of confidence ♪
-[00:15:19.960 --> 00:15:25.040]   ♪ For there's a price, a price on the Father ♪
-[00:15:29.160 --> 00:15:34.160]   ♪ Victory in the light of faith ♪
-[00:15:34.160 --> 00:15:39.200]   ♪ For there's a price, a price on the Father ♪
-[00:15:39.200 --> 00:15:43.700]   ♪ How wonderful the Father's love ♪
-[00:15:43.700 --> 00:15:48.180]   ♪ The Father's love for us ♪
-[00:15:48.180 --> 00:15:53.180]   ♪ That he would send his only Son to rescue us ♪
-[00:15:55.320 --> 00:15:57.900]   ♪ How wonderful the Father's love ♪
-[00:15:57.900 --> 00:16:02.640]   ♪ The Father's love for us ♪
+[00:13:32.760 --> 00:13:37.000]   ♪ Who hated your love and ran from grace ♪
+[00:13:37.000 --> 00:13:42.000]   ♪ Despised and rejected all your ways ♪
+[00:13:42.000 --> 00:13:44.800]   ♪ How wonderful the Father's love ♪
+[00:13:44.800 --> 00:13:49.360]   ♪ The Father's love for us ♪
+[00:13:49.360 --> 00:13:54.360]   ♪ He would send his only Son to come and rescue us ♪
+[00:13:54.360 --> 00:14:00.240]   ♪ He has saved us from us faithless ♪
+[00:14:00.240 --> 00:14:03.800]   ♪ Binds us now and will sustain us ♪
+[00:14:03.800 --> 00:14:08.800]   ♪ Oh, how wonderful the Father's love ♪
+[00:14:08.800 --> 00:14:11.720]   (soft piano music)
+[00:14:11.720 --> 00:14:16.080]   ♪ Your mercy, Lord ♪
+[00:14:16.080 --> 00:14:21.080]   ♪ Your mercy was a rising tide ♪
+[00:14:21.080 --> 00:14:25.240]   ♪ Your grace has covered all we see ♪
+[00:14:25.240 --> 00:14:29.920]   ♪ You have a promise not to leave ♪
+[00:14:29.920 --> 00:14:31.960]   ♪ You can't break it ♪
+[00:14:31.960 --> 00:14:33.200]   ♪ You can't steal it ♪
+[00:14:33.200 --> 00:14:35.720]   ♪ It's you who has it ♪
+[00:14:35.720 --> 00:14:39.240]   ♪ You can be sure the Son's a God ♪
+[00:14:39.240 --> 00:14:44.240]   ♪ Rest in the home of one divine ♪
+[00:14:44.240 --> 00:14:46.800]   ♪ How wonderful the Father's love ♪
+[00:14:46.800 --> 00:14:51.320]   ♪ The Father's love for us ♪
+[00:14:51.320 --> 00:14:56.320]   ♪ He would send his only Son to come and rescue us ♪
+[00:14:56.320 --> 00:15:02.400]   ♪ He has saved us from us faithless ♪
+[00:15:02.400 --> 00:15:06.040]   ♪ Binds us now and will sustain us ♪
+[00:15:06.040 --> 00:15:11.040]   ♪ Oh, how wonderful the Father's love ♪
+[00:15:11.040 --> 00:15:18.320]   ♪ Victory is our life ♪
+[00:15:18.320 --> 00:15:21.920]   ♪ We're confident we'll answer Christ ♪
+[00:15:21.920 --> 00:15:26.920]   ♪ So we cry, "Father, Father" ♪
+[00:15:29.200 --> 00:15:32.600]   ♪ Victory is our life ♪
+[00:15:32.600 --> 00:15:36.080]   ♪ We're confident we'll answer Christ ♪
+[00:15:36.080 --> 00:15:41.080]   ♪ So we cry, "Father, Father" ♪
+[00:15:41.080 --> 00:15:43.680]   ♪ How wonderful the Father's love ♪
+[00:15:43.680 --> 00:15:48.200]   ♪ The Father's love for us ♪
+[00:15:48.200 --> 00:15:53.200]   ♪ That he would send his only Son to rescue us ♪
+[00:15:55.280 --> 00:15:57.920]   ♪ How wonderful the Father's love ♪
+[00:15:57.920 --> 00:16:02.640]   ♪ The Father's love for us ♪
 [00:16:02.640 --> 00:16:07.640]   ♪ He would send his only Son to come and rescue us ♪
-[00:16:07.640 --> 00:16:13.460]   ♪ He has saved us from us faithless ♪
-[00:16:13.460 --> 00:16:17.020]   ♪ Binds us now and will sustain us ♪
-[00:16:17.020 --> 00:16:22.020]   ♪ Oh how wonderful the Father's love ♪
-[00:16:22.020 --> 00:16:27.020]  ,
-[00:16:27.020 --> 00:16:31.860]   ♪ Oh how wonderful the Father's love ♪
-[00:16:31.860 --> 00:16:36.860]   ♪ For there's a price, a price on the Father ♪
-[00:16:36.860 --> 00:16:41.920]   ♪ For there's a price on the Father's love ♪
-[00:16:41.920 --> 00:16:47.020]   ♪ For there's a price on the Father's love ♪
-[00:16:47.020 --> 00:16:52.020]   ♪ For there's a price on the Father's love ♪
-[00:16:52.020 --> 00:16:56.720]   ♪ For there's a price on the Father's love ♪
-[00:16:56.720 --> 00:17:01.720]   ♪ For there's a price on the Father's love ♪
-[00:17:01.720 --> 00:17:06.720]   ♪ For there's a price on the Father's love ♪
-[00:17:06.720 --> 00:17:11.720]   ♪ For there's a price on the Father's love ♪
-[00:17:11.720 --> 00:17:16.740]   ♪ For there's a price on the Father's love ♪
-[00:17:16.740 --> 00:17:21.960]   ♪ For there's a price on the Father's love ♪
-[00:17:21.960 --> 00:17:26.460]   ♪ For there's a price on the Father's love ♪
-[00:17:26.460 --> 00:17:31.460]   ♪ For there's a price on the Father's love ♪
-[00:17:31.460 --> 00:17:36.460]   ♪ For there's a price on the Father's love ♪
-[00:17:36.460 --> 00:17:41.460]   ♪ For there's a price on the Father's love ♪
-[00:17:41.460 --> 00:17:46.460]   ♪ For there's a price on the Father's love ♪
-[00:17:46.460 --> 00:17:51.460]   ♪ For there's a price on the Father's love ♪
-[00:17:51.460 --> 00:17:56.460]   ♪ For there's a price on the Father's love ♪
-[00:17:56.460 --> 00:18:01.460]   ♪ For there's a price on the Father's love ♪
-[00:18:01.460 --> 00:18:06.460]   ♪ For there's a price on the Father's love ♪
-[00:18:06.460 --> 00:18:11.460]   ♪ For there's a price on the Father's love ♪
-[00:18:11.460 --> 00:18:16.460]   ♪ For there's a price on the Father's love ♪
-[00:18:16.460 --> 00:18:21.460]   ♪ For there's a price on the Father's love ♪
-[00:18:21.460 --> 00:18:26.460]   ♪ For there's a price on the Father's love ♪
-[00:18:26.460 --> 00:18:31.460]   ♪ For there's a price on the Father's love ♪
-[00:18:31.460 --> 00:18:36.460]   ♪ For there's a price on the Father's love ♪
-[00:18:36.460 --> 00:18:41.460]   ♪ For there's a price on the Father's love ♪
-[00:18:41.460 --> 00:18:46.460]   ♪ For there's a price on the Father's love ♪
-[00:18:46.460 --> 00:18:51.460]   ♪ For there's a price on the Father's love ♪
-[00:18:51.460 --> 00:18:56.460]   ♪ For there's a price on the Father's love ♪
-[00:18:56.460 --> 00:19:01.460]   ♪ For there's a price on the Father's love ♪
-[00:19:01.460 --> 00:19:06.460]   ♪ For there's a price on the Father's love ♪
-[00:19:06.460 --> 00:19:11.460]   ♪ For there's a price on the Father's love ♪
-[00:19:11.460 --> 00:19:16.460]   ♪ For there's a price on the Father's love ♪
-[00:19:16.460 --> 00:19:21.460]   ♪ For there's a price on the Father's love ♪
-[00:19:21.460 --> 00:19:26.460]   ♪ For there's a price on the Father's love ♪
-[00:19:26.460 --> 00:19:31.460]   ♪ For there's a price on the Father's love ♪
-[00:19:31.460 --> 00:19:36.460]   ♪ For there's a price on the Father's love ♪
-[00:19:36.460 --> 00:19:41.460]   ♪ For there's a price on the Father's love ♪
-[00:19:41.460 --> 00:19:46.460]   ♪ For there's a price on the Father's love ♪
-[00:19:46.460 --> 00:19:51.460]   ♪ For there's a price on the Father's love ♪
-[00:19:51.460 --> 00:19:56.460]   ♪ For there's a price on the Father's love ♪
-[00:19:56.460 --> 00:20:01.460]   ♪ For there's a price on the Father's love ♪
-[00:20:01.460 --> 00:20:06.460]   ♪ For there's a price on the Father's love ♪
-[00:20:06.460 --> 00:20:11.460]   ♪ For there's a price on the Father's love ♪
-[00:20:11.460 --> 00:20:16.460]   ♪ For there's a price on the Father's love ♪
-[00:20:16.460 --> 00:20:21.460]   ♪ For there's a price on the Father's love ♪
-[00:20:21.460 --> 00:20:26.460]   ♪ For there's a price on the Father's love ♪
-[00:20:26.460 --> 00:20:31.460]   ♪ For there's a price on the Father's love ♪
-[00:20:31.460 --> 00:20:36.460]   ♪ For there's a price on the Father's love ♪
-[00:20:36.460 --> 00:20:41.460]   ♪ For there's a price on the Father's love ♪
-[00:20:41.460 --> 00:20:46.460]   ♪ For there's a price on the Father's love ♪
-[00:20:46.460 --> 00:20:51.460]   ♪ For there's a price on the Father's love ♪
-[00:20:51.460 --> 00:20:56.460]   ♪ For there's a price on the Father's love ♪
-[00:20:56.460 --> 00:21:01.460]   ♪ For there's a price on the Father's love ♪
-[00:21:01.460 --> 00:21:06.460]   ♪ For there's a price on the Father's love ♪
-[00:21:06.460 --> 00:21:11.460]   ♪ For there's a price on the Father's love ♪
-[00:21:11.460 --> 00:21:16.460]   ♪ For there's a price on the Father's love ♪
-[00:21:16.460 --> 00:21:21.460]   ♪ For there's a price on the Father's love ♪
-[00:21:21.460 --> 00:21:26.460]   ♪ For there's a price on the Father's love ♪
-[00:21:26.460 --> 00:21:31.460]   ♪ For there's a price on the Father's love ♪
-[00:21:31.460 --> 00:21:36.460]   ♪ For there's a price on the Father's love ♪
-[00:21:36.460 --> 00:21:41.460]   ♪ For there's a price on the Father's love ♪
-[00:21:41.460 --> 00:21:46.460]   ♪ For there's a price on the Father's love ♪
-[00:21:46.460 --> 00:21:51.460]   ♪ For there's a price on the Father's love ♪
-[00:21:51.460 --> 00:21:56.460]   ♪ For there's a price on the Father's love ♪
-[00:21:56.460 --> 00:22:01.460]   ♪ For there's a price on the Father's love ♪
-[00:22:01.460 --> 00:22:06.460]   ♪ For there's a price on the Father's love ♪
-[00:22:06.460 --> 00:22:11.460]   ♪ For there's a price on the Father's love ♪
-[00:22:11.460 --> 00:22:16.460]   ♪ For there's a price on the Father's love ♪
-[00:22:16.460 --> 00:22:21.460]   ♪ For there's a price on the Father's love ♪
-[00:22:21.460 --> 00:22:26.460]   ♪ For there's a price on the Father's love ♪
-[00:22:26.460 --> 00:22:31.460]   ♪ For there's a price on the Father's love ♪
-[00:22:31.460 --> 00:22:36.460]   ♪ For there's a price on the Father's love ♪
-[00:22:36.460 --> 00:22:41.460]   ♪ For there's a price on the Father's love ♪
-[00:22:41.460 --> 00:22:46.460]   ♪ For there's a price on the Father's love ♪
-[00:22:46.460 --> 00:22:51.460]   ♪ For there's a price on the Father's love ♪
-[00:22:51.460 --> 00:22:56.460]   ♪ For there's a price on the Father's love ♪
-[00:22:56.460 --> 00:23:01.460]   ♪ For there's a price on the Father's love ♪
-[00:23:01.460 --> 00:23:06.460]   ♪ For there's a price on the Father's love ♪
-[00:23:06.460 --> 00:23:11.460]   ♪ For there's a price on the Father's love ♪
-[00:23:11.460 --> 00:23:16.460]   ♪ For there's a price on the Father's love ♪
-[00:23:16.460 --> 00:23:21.460]   ♪ For there's a price on the Father's love ♪
-[00:23:21.460 --> 00:23:26.460]   ♪ For there's a price on the Father's love ♪
-[00:23:26.460 --> 00:23:31.460]   ♪ For there's a price on the Father's love ♪
-[00:23:31.460 --> 00:23:36.460]   ♪ For there's a price on the Father's love ♪
-[00:23:36.460 --> 00:23:41.460]   ♪ For there's a price on the Father's love ♪
-[00:23:41.460 --> 00:23:46.460]   ♪ For there's a price on the Father's love ♪
-[00:23:46.460 --> 00:23:51.460]   ♪ For there's a price on the Father's love ♪
-[00:23:51.460 --> 00:23:56.460]   ♪ For there's a price on the Father's love ♪
-[00:23:56.460 --> 00:24:01.460]   ♪ For there's a price on the Father's love ♪
-[00:24:01.460 --> 00:24:06.460]   ♪ For there's a price on the Father's love ♪
-[00:24:06.460 --> 00:24:11.460]   ♪ For there's a price on the Father's love ♪
-[00:24:11.460 --> 00:24:16.460]   ♪ For there's a price on the Father's love ♪
-[00:24:16.460 --> 00:24:21.460]   ♪ For there's a price on the Father's love ♪
-[00:24:21.460 --> 00:24:26.460]   ♪ For there's a price on the Father's love ♪
-[00:24:26.460 --> 00:24:31.460]   ♪ For there's a price on the Father's love ♪
-[00:24:31.460 --> 00:24:36.460]   ♪ For there's a price on the Father's love ♪
-[00:24:36.460 --> 00:24:41.460]   ♪ For there's a price on the Father's love ♪
-[00:24:41.460 --> 00:24:46.460]   ♪ For there's a price on the Father's love ♪
-[00:24:46.460 --> 00:24:51.460]   ♪ For there's a price on the Father's love ♪
-[00:24:51.460 --> 00:24:56.460]   ♪ For there's a price on the Father's love ♪
-[00:24:56.460 --> 00:25:01.460]   ♪ For there's a price on the Father's love ♪
-[00:25:01.460 --> 00:25:06.460]   ♪ For there's a price on the Father's love ♪
-[00:25:06.460 --> 00:25:11.460]   ♪ For there's a price on the Father's love ♪
-[00:25:11.460 --> 00:25:16.460]   ♪ For there's a price on the Father's love ♪
-[00:25:16.460 --> 00:25:21.460]   ♪ For there's a price on the Father's love ♪
-[00:25:21.460 --> 00:25:26.460]   ♪ For there's a price on the Father's love ♪
-[00:25:26.460 --> 00:25:31.460]   ♪ For there's a price on the Father's love ♪
-[00:25:31.460 --> 00:25:36.460]   ♪ For there's a price on the Father's love ♪
-[00:25:36.460 --> 00:25:41.460]   ♪ For there's a price on the Father's love ♪
-[00:25:41.460 --> 00:25:46.460]   ♪ For there's a price on the Father's love ♪
-[00:25:46.460 --> 00:25:51.460]   ♪ For there's a price on the Father's love ♪
-[00:25:51.460 --> 00:25:56.460]   ♪ For there's a price on the Father's love ♪
-[00:25:56.460 --> 00:26:01.460]   ♪ For there's a price on the Father's love ♪
-[00:26:01.460 --> 00:26:06.460]   ♪ For there's a price on the Father's love ♪
-[00:26:06.460 --> 00:26:11.460]   ♪ For there's a price on the Father's love ♪
-[00:26:11.460 --> 00:26:16.460]   ♪ For there's a price on the Father's love ♪
-[00:26:16.460 --> 00:26:21.460]   ♪ For there's a price on the Father's love ♪
-[00:26:21.460 --> 00:26:26.460]   ♪ For there's a price on the Father's love ♪
-[00:26:26.460 --> 00:26:31.460]   ♪ For there's a price on the Father's love ♪
-[00:26:31.460 --> 00:26:36.460]   ♪ For there's a price on the Father's love ♪
-[00:26:36.460 --> 00:26:41.460]   ♪ For there's a price on the Father's love ♪
-[00:26:41.460 --> 00:26:46.460]   ♪ For there's a price on the Father's love ♪
-[00:26:46.460 --> 00:26:51.460]   ♪ For there's a price on the Father's love ♪
-[00:26:51.460 --> 00:26:56.460]   ♪ For there's a price on the Father's love ♪
-[00:26:56.460 --> 00:27:01.460]   ♪ For there's a price on the Father's love ♪
-[00:27:01.460 --> 00:27:06.460]   ♪ For there's a price on the Father's love ♪
-[00:27:06.460 --> 00:27:11.460]   ♪ For there's a price on the Father's love ♪
-[00:27:11.460 --> 00:27:16.460]   ♪ For there's a price on the Father's love ♪
-[00:27:16.460 --> 00:27:21.460]   ♪ For there's a price on the Father's love ♪
-[00:27:21.460 --> 00:27:26.460]   ♪ For there's a price on the Father's love ♪
-[00:27:26.460 --> 00:27:31.460]   ♪ For there's a price on the Father's love ♪
-[00:27:31.460 --> 00:27:36.460]   ♪ For there's a price on the Father's love ♪
-[00:27:36.460 --> 00:27:41.460]   ♪ For there's a price on the Father's love ♪
-[00:27:41.460 --> 00:27:46.460]   ♪ For there's a price on the Father's love ♪
-[00:27:46.460 --> 00:27:51.460]   ♪ For there's a price on the Father's love ♪
-[00:27:51.460 --> 00:27:56.460]   ♪ For there's a price on the Father's love ♪
-[00:27:56.460 --> 00:28:01.460]   ♪ For there's a price on the Father's love ♪
-[00:28:01.460 --> 00:28:06.460]   ♪ For there's a price on the Father's love ♪
-[00:28:06.460 --> 00:28:11.460]   ♪ For there's a price on the Father's love ♪
-[00:28:11.460 --> 00:28:16.460]   ♪ For there's a price on the Father's love ♪
-[00:28:16.460 --> 00:28:21.460]   ♪ For there's a price on the Father's love ♪
-[00:28:21.460 --> 00:28:26.460]   ♪ For there's a price on the Father's love ♪
-[00:28:26.460 --> 00:28:31.460]   ♪ For there's a price on the Father's love ♪
-[00:28:31.460 --> 00:28:36.460]   ♪ For there's a price on the Father's love ♪
-[00:28:36.460 --> 00:28:41.460]   ♪ For there's a price on the Father's love ♪
-[00:28:41.460 --> 00:28:46.460]   ♪ For there's a price on the Father's love ♪
-[00:28:46.460 --> 00:28:51.460]   ♪ For there's a price on the Father's love ♪
-[00:28:51.460 --> 00:28:56.460]   ♪ For there's a price on the Father's love ♪
-[00:28:56.460 --> 00:29:01.460]   ♪ For there's a price on the Father's love ♪
-[00:29:01.460 --> 00:29:06.460]   ♪ For there's a price on the Father's love ♪
-[00:29:06.460 --> 00:29:11.460]   ♪ For there's a price on the Father's love ♪
-[00:29:11.460 --> 00:29:16.460]   ♪ For there's a price on the Father's love ♪
-[00:29:16.460 --> 00:29:21.460]   ♪ For there's a price on the Father's love ♪
-[00:29:21.460 --> 00:29:26.460]   ♪ For there's a price on the Father's love ♪
-[00:29:26.460 --> 00:29:31.460]   ♪ For there's a price on the Father's love ♪
-[00:29:31.460 --> 00:29:36.460]   ♪ For there's a price on the Father's love ♪
-[00:29:36.460 --> 00:29:41.460]   ♪ For there's a price on the Father's love ♪
-[00:29:41.460 --> 00:29:46.460]   ♪ For there's a price on the Father's love ♪
-[00:29:46.460 --> 00:29:51.460]   ♪ For there's a price on the Father's love ♪
-[00:29:51.460 --> 00:29:56.460]   ♪ For there's a price on the Father's love ♪
-[00:29:56.460 --> 00:30:01.460]   ♪ For there's a price on the Father's love ♪
-[00:30:01.460 --> 00:30:06.460]   ♪ For there's a price on the Father's love ♪
-[00:30:06.460 --> 00:30:11.460]   ♪ For there's a price on the Father's love ♪
-[00:30:11.460 --> 00:30:16.460]   ♪ For there's a price on the Father's love ♪
-[00:30:16.460 --> 00:30:21.460]   ♪ For there's a price on the Father's love ♪
-[00:30:21.460 --> 00:30:26.460]   ♪ For there's a price on the Father's love ♪
-[00:30:26.460 --> 00:30:31.460]   ♪ For there's a price on the Father's love ♪
-[00:30:31.460 --> 00:30:36.460]   ♪ For there's a price on the Father's love ♪
-[00:30:36.460 --> 00:30:41.460]   ♪ For there's a price on the Father's love ♪
-[00:30:41.460 --> 00:30:46.460]   ♪ For there's a price on the Father's love ♪
-[00:30:46.460 --> 00:30:51.460]   ♪ For there's a price on the Father's love ♪
-[00:30:51.460 --> 00:30:56.460]   ♪ For there's a price on the Father's love ♪
-[00:30:56.460 --> 00:31:01.460]   ♪ For there's a price on the Father's love ♪
-[00:31:01.460 --> 00:31:06.460]   ♪ For there's a price on the Father's love ♪
-[00:31:06.460 --> 00:31:11.460]   ♪ For there's a price on the Father's love ♪
-[00:31:11.460 --> 00:31:16.460]   ♪ For there's a price on the Father's love ♪
-[00:31:16.460 --> 00:31:21.460]   ♪ For there's a price on the Father's love ♪
-[00:31:21.460 --> 00:31:26.460]   ♪ For there's a price on the Father's love ♪
-[00:31:26.460 --> 00:31:31.460]   ♪ For there's a price on the Father's love ♪
-[00:31:31.460 --> 00:31:36.460]   ♪ For there's a price on the Father's love ♪
-[00:31:36.460 --> 00:31:41.460]   ♪ For there's a price on the Father's love ♪
-[00:31:41.460 --> 00:31:46.460]   ♪ For there's a price on the Father's love ♪
-[00:31:46.460 --> 00:31:51.460]   ♪ For there's a price on the Father's love ♪
-[00:31:51.460 --> 00:31:56.460]   ♪ For there's a price on the Father's love ♪
-[00:31:56.460 --> 00:32:01.460]   ♪ For there's a price on the Father's love ♪
-[00:32:01.460 --> 00:32:06.460]   ♪ For there's a price on the Father's love ♪
-[00:32:06.460 --> 00:32:11.460]   ♪ For there's a price on the Father's love ♪
-[00:32:11.460 --> 00:32:16.460]   ♪ For there's a price on the Father's love ♪
-[00:32:16.460 --> 00:32:21.460]   ♪ For there's a price on the Father's love ♪
-[00:32:21.460 --> 00:32:26.460]   ♪ For there's a price on the Father's love ♪
-[00:32:26.460 --> 00:32:31.460]   ♪ For there's a price on the Father's love ♪
-[00:32:31.460 --> 00:32:36.460]   ♪ For there's a price on the Father's love ♪
-[00:32:36.460 --> 00:32:41.460]   ♪ For there's a price on the Father's love ♪
-[00:32:41.460 --> 00:32:46.460]   ♪ For there's a price on the Father's love ♪
-[00:32:46.460 --> 00:32:51.460]   ♪ For there's a price on the Father's love ♪
-[00:32:51.460 --> 00:32:56.460]   ♪ For there's a price on the Father's love ♪
-[00:32:56.460 --> 00:33:01.460]   ♪ For there's a price on the Father's love ♪
-[00:33:01.460 --> 00:33:06.460]   ♪ For there's a price on the Father's love ♪
-[00:33:06.460 --> 00:33:11.460]   ♪ For there's a price on the Father's love ♪
-[00:33:11.460 --> 00:33:16.460]   ♪ For there's a price on the Father's love ♪
-[00:33:16.460 --> 00:33:21.460]   ♪ For there's a price on the Father's love ♪
-[00:33:21.460 --> 00:33:26.460]   ♪ For there's a price on the Father's love ♪
-[00:33:26.460 --> 00:33:31.460]   ♪ For there's a price on the Father's love ♪
-[00:33:31.460 --> 00:33:36.460]   ♪ For there's a price on the Father's love ♪
-[00:33:36.460 --> 00:33:41.460]   ♪ For there's a price on the Father's love ♪
-[00:33:41.460 --> 00:33:46.460]   ♪ For there's a price on the Father's love ♪
-[00:33:46.460 --> 00:33:51.460]   ♪ For there's a price on the Father's love ♪
-[00:33:51.460 --> 00:33:56.460]   ♪ For there's a price on the Father's love ♪
-[00:33:56.460 --> 00:34:01.460]   ♪ For there's a price on the Father's love ♪
-[00:34:01.460 --> 00:34:06.460]   ♪ For there's a price on the Father's love ♪
-[00:34:06.460 --> 00:34:11.460]   ♪ For there's a price on the Father's love ♪
-[00:34:11.460 --> 00:34:16.460]   ♪ For there's a price on the Father's love ♪
-[00:34:16.460 --> 00:34:21.460]   ♪ For there's a price on the Father's love ♪
-[00:34:21.460 --> 00:34:26.460]   ♪ For there's a price on the Father's love ♪
-[00:34:26.460 --> 00:34:31.460]   ♪ For there's a price on the Father's love ♪
-[00:34:31.460 --> 00:34:36.460]   ♪ For there's a price on the Father's love ♪
-[00:34:36.460 --> 00:34:41.460]   ♪ For there's a price on the Father's love ♪
-[00:34:41.460 --> 00:34:46.460]   ♪ For there's a price on the Father's love ♪
-[00:34:46.460 --> 00:34:51.460]   ♪ For there's a price on the Father's love ♪
-[00:34:51.460 --> 00:34:56.460]   ♪ For there's a price on the Father's love ♪
-[00:34:56.460 --> 00:35:01.460]   ♪ For there's a price on the Father's love ♪
-[00:35:01.460 --> 00:35:06.460]   ♪ For there's a price on the Father's love ♪
-[00:35:06.460 --> 00:35:11.460]   ♪ For there's a price on the Father's love ♪
-[00:35:11.460 --> 00:35:16.460]   ♪ For there's a price on the Father's love ♪
-[00:35:16.460 --> 00:35:21.460]   ♪ For there's a price on the Father's love ♪
-[00:35:21.460 --> 00:35:26.460]   ♪ For there's a price on the Father's love ♪
-[00:35:26.460 --> 00:35:31.460]   ♪ For there's a price on the Father's love ♪
-[00:35:31.460 --> 00:35:36.460]   ♪ For there's a price on the Father's love ♪
-[00:35:36.460 --> 00:35:41.460]   ♪ For there's a price on the Father's love ♪
-[00:35:41.460 --> 00:35:46.460]   ♪ For there's a price on the Father's love ♪
-[00:35:46.460 --> 00:35:51.460]   ♪ For there's a price on the Father's love ♪
-[00:35:51.460 --> 00:35:56.460]   ♪ For there's a price on the Father's love ♪
-[00:35:56.460 --> 00:36:01.460]   ♪ For there's a price on the Father's love ♪
-[00:36:01.460 --> 00:36:06.460]   ♪ For there's a price on the Father's love ♪
-[00:36:06.460 --> 00:36:11.460]   ♪ For there's a price on the Father's love ♪
-[00:36:11.460 --> 00:36:16.460]   ♪ For there's a price on the Father's love ♪
-[00:36:16.460 --> 00:36:21.460]   ♪ For there's a price on the Father's love ♪
-[00:36:21.460 --> 00:36:26.460]   ♪ For there's a price on the Father's love ♪
-[00:36:26.460 --> 00:36:31.460]   ♪ For there's a price on the Father's love ♪
-[00:36:31.460 --> 00:36:36.460]   ♪ For there's a price on the Father's love ♪
-[00:36:36.460 --> 00:36:41.460]   ♪ For there's a price on the Father's love ♪
-[00:36:41.460 --> 00:36:46.460]   ♪ For there's a price on the Father's love ♪
-[00:36:46.460 --> 00:36:51.460]   ♪ For there's a price on the Father's love ♪
-[00:36:51.460 --> 00:36:56.460]   ♪ For there's a price on the Father's love ♪
-[00:36:56.460 --> 00:37:01.460]   ♪ For there's a price on the Father's love ♪
-[00:37:01.460 --> 00:37:06.460]   ♪ For there's a price on the Father's love ♪
-[00:37:06.460 --> 00:37:11.460]   ♪ For there's a price on the Father's love ♪
-[00:37:11.460 --> 00:37:16.460]   ♪ For there's a price on the Father's love ♪
-[00:37:16.460 --> 00:37:21.460]   ♪ For there's a price on the Father's love ♪
-[00:37:21.460 --> 00:37:26.460]   ♪ For there's a price on the Father's love ♪
-[00:37:26.460 --> 00:37:31.460]   ♪ For there's a price on the Father's love ♪
-[00:37:31.460 --> 00:37:36.460]   ♪ For there's a price on the Father's love ♪
-[00:37:36.460 --> 00:37:41.460]   ♪ For there's a price on the Father's love ♪
-[00:37:41.460 --> 00:37:46.460]   ♪ For there's a price on the Father's love ♪
-[00:37:46.460 --> 00:37:51.460]   ♪ For there's a price on the Father's love ♪
-[00:37:51.460 --> 00:37:56.460]   ♪ For there's a price on the Father's love ♪
-[00:37:56.460 --> 00:38:01.460]   ♪ For there's a price on the Father's love ♪
-[00:38:01.460 --> 00:38:06.460]   ♪ For there's a price on the Father's love ♪
-[00:38:06.460 --> 00:38:11.460]   ♪ For there's a price on the Father's love ♪
-[00:38:11.460 --> 00:38:16.460]   ♪ For there's a price on the Father's love ♪
-[00:38:16.460 --> 00:38:21.460]   ♪ For there's a price on the Father's love ♪
-[00:38:21.460 --> 00:38:26.460]   ♪ For there's a price on the Father's love ♪
-[00:38:26.460 --> 00:38:31.460]   ♪ For there's a price on the Father's love ♪
-[00:38:31.460 --> 00:38:36.460]   ♪ For there's a price on the Father's love ♪
-[00:38:36.460 --> 00:38:41.460]   ♪ For there's a price on the Father's love ♪
-[00:38:41.460 --> 00:38:46.460]   ♪ For there's a price on the Father's love ♪
-[00:38:46.460 --> 00:38:51.460]   ♪ For there's a price on the Father's love ♪
-[00:38:51.460 --> 00:38:56.460]   ♪ For there's a price on the Father's love ♪
-[00:38:56.460 --> 00:39:01.460]   ♪ For there's a price on the Father's love ♪
-[00:39:01.460 --> 00:39:06.460]   ♪ For there's a price on the Father's love ♪
-[00:39:06.460 --> 00:39:11.460]   ♪ For there's a price on the Father's love ♪
-[00:39:11.460 --> 00:39:16.460]   ♪ For there's a price on the Father's love ♪
-[00:39:16.460 --> 00:39:21.460]   ♪ For there's a price on the Father's love ♪
-[00:39:21.460 --> 00:39:26.460]   ♪ For there's a price on the Father's love ♪
-[00:39:26.460 --> 00:39:31.460]   ♪ For there's a price on the Father's love ♪
-[00:39:31.460 --> 00:39:36.460]   ♪ For there's a price on the Father's love ♪
-[00:39:36.460 --> 00:39:41.460]   ♪ For there's a price on the Father's love ♪
-[00:39:41.460 --> 00:39:46.460]   ♪ For there's a price on the Father's love ♪
-[00:39:46.460 --> 00:39:51.460]   ♪ For there's a price on the Father's love ♪
-[00:39:51.460 --> 00:39:56.460]   ♪ For there's a price on the Father's love ♪
-[00:39:56.460 --> 00:40:01.460]   ♪ For there's a price on the Father's love ♪
-[00:40:01.460 --> 00:40:06.460]   ♪ For there's a price on the Father's love ♪
-[00:40:06.460 --> 00:40:11.460]   ♪ For there's a price on the Father's love ♪
-[00:40:11.460 --> 00:40:16.460]   ♪ For there's a price on the Father's love ♪
-[00:40:16.460 --> 00:40:21.460]   ♪ For there's a price on the Father's love ♪
-[00:40:21.460 --> 00:40:26.460]   ♪ For there's a price on the Father's love ♪
-[00:40:26.460 --> 00:40:31.460]   ♪ For there's a price on the Father's love ♪
-[00:40:31.460 --> 00:40:36.460]   ♪ For there's a price on the Father's love ♪
-[00:40:36.460 --> 00:40:41.460]   ♪ For there's a price on the Father's love ♪
-[00:40:41.460 --> 00:40:46.460]   ♪ For there's a price on the Father's love ♪
-[00:40:46.460 --> 00:40:51.460]   ♪ For there's a price on the Father's love ♪
-[00:40:51.460 --> 00:40:56.460]   ♪ For there's a price on the Father's love ♪
-[00:40:56.460 --> 00:41:01.460]   ♪ For there's a price on the Father's love ♪
-[00:41:01.460 --> 00:41:06.460]   ♪ For there's a price on the Father's love ♪
-[00:41:06.460 --> 00:41:11.460]   ♪ For there's a price on the Father's love ♪
-[00:41:11.460 --> 00:41:16.460]   ♪ For there's a price on the Father's love ♪
-[00:41:16.460 --> 00:41:21.460]   ♪ For there's a price on the Father's love ♪
-[00:41:21.460 --> 00:41:26.460]   ♪ For there's a price on the Father's love ♪
-[00:41:26.460 --> 00:41:31.460]   ♪ For there's a price on the Father's love ♪
-[00:41:31.460 --> 00:41:36.460]   ♪ For there's a price on the Father's love ♪
-[00:41:36.460 --> 00:41:41.460]   ♪ For there's a price on the Father's love ♪
-[00:41:41.460 --> 00:41:46.460]   ♪ For there's a price on the Father's love ♪
-[00:41:46.460 --> 00:41:51.460]   ♪ For there's a price on the Father's love ♪
-[00:41:51.460 --> 00:41:56.460]   ♪ For there's a price on the Father's love ♪
-[00:41:56.460 --> 00:42:01.460]   ♪ For there's a price on the Father's love ♪
-[00:42:01.460 --> 00:42:06.460]   ♪ For there's a price on the Father's love ♪
-[00:42:06.460 --> 00:42:11.460]   ♪ For there's a price on the Father's love ♪
-[00:42:11.460 --> 00:42:16.460]   ♪ For there's a price on the Father's love ♪
-[00:42:16.460 --> 00:42:21.460]   ♪ For there's a price on the Father's love ♪
-[00:42:21.460 --> 00:42:26.460]   ♪ For there's a price on the Father's love ♪
-[00:42:26.460 --> 00:42:31.460]   ♪ For there's a price on the Father's love ♪
-[00:42:31.460 --> 00:42:36.460]   ♪ For there's a price on the Father's love ♪
-[00:42:36.460 --> 00:42:41.460]   ♪ For there's a price on the Father's love ♪
-[00:42:41.460 --> 00:42:46.460]   ♪ For there's a price on the Father's love ♪
-[00:42:46.460 --> 00:42:51.460]   ♪ For there's a price on the Father's love ♪
-[00:42:51.460 --> 00:42:56.460]   ♪ For there's a price on the Father's love ♪
-[00:42:56.460 --> 00:43:01.460]   ♪ For there's a price on the Father's love ♪
-[00:43:01.460 --> 00:43:06.460]   ♪ For there's a price on the Father's love ♪
-[00:43:06.460 --> 00:43:11.460]   ♪ For there's a price on the Father's love ♪
-[00:43:11.460 --> 00:43:16.460]   ♪ For there's a price on the Father's love ♪
-[00:43:16.460 --> 00:43:21.460]   ♪ For there's a price on the Father's love ♪
-[00:43:21.460 --> 00:43:26.460]   ♪ For there's a price on the Father's love ♪
-[00:43:26.460 --> 00:43:31.460]   ♪ For there's a price on the Father's love ♪
-[00:43:31.460 --> 00:43:36.460]   ♪ For there's a price on the Father's love ♪
-[00:43:36.460 --> 00:43:41.460]   ♪ For there's a price on the Father's love ♪
-[00:43:41.460 --> 00:43:46.460]   ♪ For there's a price on the Father's love ♪
-[00:43:46.460 --> 00:43:51.460]   ♪ For there's a price on the Father's love ♪
-[00:43:51.460 --> 00:43:56.460]   ♪ For there's a price on the Father's love ♪
-[00:43:56.460 --> 00:44:01.460]   ♪ For there's a price on the Father's love ♪
-[00:44:01.460 --> 00:44:06.460]   ♪ For there's a price on the Father's love ♪
-[00:44:06.460 --> 00:44:11.460]   ♪ For there's a price on the Father's love ♪
-[00:44:11.460 --> 00:44:16.460]   ♪ For there's a price on the Father's love ♪
-[00:44:16.460 --> 00:44:21.460]   ♪ For there's a price on the Father's love ♪
-[00:44:21.460 --> 00:44:26.460]   ♪ For there's a price on the Father's love ♪
-[00:44:26.460 --> 00:44:31.460]   ♪ For there's a price on the Father's love ♪
-[00:44:31.460 --> 00:44:36.460]   ♪ For there's a price on the Father's love ♪
-[00:44:36.460 --> 00:44:41.460]   ♪ For there's a price on the Father's love ♪
-[00:44:41.460 --> 00:44:46.460]   ♪ For there's a price on the Father's love ♪
-[00:44:46.460 --> 00:44:51.460]   ♪ For there's a price on the Father's love ♪
-[00:44:51.460 --> 00:44:56.460]   ♪ For there's a price on the Father's love ♪
-[00:44:56.460 --> 00:45:01.460]   ♪ For there's a price on the Father's love ♪
-[00:45:01.460 --> 00:45:06.460]   ♪ For there's a price on the Father's love ♪
-[00:45:06.460 --> 00:45:11.460]   ♪ For there's a price on the Father's love ♪
-[00:45:11.460 --> 00:45:16.460]   ♪ For there's a price on the Father's love ♪
-[00:45:16.460 --> 00:45:21.460]   ♪ For there's a price on the Father's love ♪
-[00:45:21.460 --> 00:45:26.460]   ♪ For there's a price on the Father's love ♪
-[00:45:26.460 --> 00:45:31.460]   ♪ For there's a price on the Father's love ♪
-[00:45:31.460 --> 00:45:36.460]   ♪ For there's a price on the Father's love ♪
-[00:45:36.460 --> 00:45:41.460]   ♪ For there's a price on the Father's love ♪
-[00:45:41.460 --> 00:45:46.460]   ♪ For there's a price on the Father's love ♪
-[00:45:46.460 --> 00:45:51.460]   ♪ For there's a price on the Father's love ♪
-[00:45:51.460 --> 00:45:56.460]   ♪ For there's a price on the Father's love ♪
-[00:45:56.460 --> 00:46:01.460]   ♪ For there's a price on the Father's love ♪
-[00:46:01.460 --> 00:46:06.460]   ♪ For there's a price on the Father's love ♪
-[00:46:06.460 --> 00:46:11.460]   ♪ For there's a price on the Father's love ♪
-[00:46:11.460 --> 00:46:16.460]   ♪ For there's a price on the Father's love ♪
-[00:46:16.460 --> 00:46:21.460]   ♪ For there's a price on the Father's love ♪
-[00:46:21.460 --> 00:46:26.460]   ♪ For there's a price on the Father's love ♪
-[00:46:26.460 --> 00:46:31.460]   ♪ For there's a price on the Father's love ♪
-[00:46:31.460 --> 00:46:36.460]   ♪ For there's a price on the Father's love ♪
-[00:46:36.460 --> 00:46:41.460]   ♪ For there's a price on the Father's love ♪
-[00:46:41.460 --> 00:46:46.460]   ♪ For there's a price on the Father's love ♪
-[00:46:46.460 --> 00:46:51.460]   ♪ For there's a price on the Father's love ♪
-[00:46:51.460 --> 00:46:56.460]   ♪ For there's a price on the Father's love ♪
-[00:46:56.460 --> 00:47:01.460]   ♪ For there's a price on the Father's love ♪
-[00:47:01.460 --> 00:47:06.460]   ♪ For there's a price on the Father's love ♪
-[00:47:06.460 --> 00:47:11.460]   ♪ For there's a price on the Father's love ♪
-[00:47:11.460 --> 00:47:16.460]   ♪ For there's a price on the Father's love ♪
-[00:47:16.460 --> 00:47:21.460]   ♪ For there's a price on the Father's love ♪
-[00:47:21.460 --> 00:47:26.460]   ♪ For there's a price on the Father's love ♪
-[00:47:26.460 --> 00:47:31.460]   ♪ For there's a price on the Father's love ♪
-[00:47:31.460 --> 00:47:36.460]   ♪ For there's a price on the Father's love ♪
-[00:47:36.460 --> 00:47:41.460]   ♪ For there's a price on the Father's love ♪
-[00:47:41.460 --> 00:47:46.460]   ♪ For there's a price on the Father's love ♪
-[00:47:46.460 --> 00:47:51.460]   ♪ For there's a price on the Father's love ♪
-[00:47:51.460 --> 00:47:56.460]   ♪ For there's a price on the Father's love ♪
-[00:47:56.460 --> 00:48:01.460]   ♪ For there's a price on the Father's love ♪
-[00:48:01.460 --> 00:48:06.460]   ♪ For there's a price on the Father's love ♪
-[00:48:06.460 --> 00:48:11.460]   ♪ For there's a price on the Father's love ♪
-[00:48:11.460 --> 00:48:16.460]   ♪ For there's a price on the Father's love ♪
-[00:48:16.460 --> 00:48:21.460]   ♪ For there's a price on the Father's love ♪
-[00:48:21.460 --> 00:48:26.460]   ♪ For there's a price on the Father's love ♪
-[00:48:26.460 --> 00:48:31.460]   ♪ For there's a price on the Father's love ♪
-[00:48:31.460 --> 00:48:36.460]   ♪ For there's a price on the Father's love ♪
-[00:48:36.460 --> 00:48:41.460]   ♪ For there's a price on the Father's love ♪
-[00:48:41.460 --> 00:48:46.460]   ♪ For there's a price on the Father's love ♪
-[00:48:46.460 --> 00:48:51.460]   ♪ For there's a price on the Father's love ♪
-[00:48:51.460 --> 00:48:56.460]   ♪ For there's a price on the Father's love ♪
-[00:48:56.460 --> 00:49:01.460]   ♪ For there's a price on the Father's love ♪
-[00:49:01.460 --> 00:49:06.460]   ♪ For there's a price on the Father's love ♪
-[00:49:06.460 --> 00:49:11.460]   ♪ For there's a price on the Father's love ♪
-[00:49:11.460 --> 00:49:16.460]   ♪ For there's a price on the Father's love ♪
-[00:49:16.460 --> 00:49:21.460]   ♪ For there's a price on the Father's love ♪
-[00:49:21.460 --> 00:49:26.460]   ♪ For there's a price on the Father's love ♪
-[00:49:26.460 --> 00:49:31.460]   ♪ For there's a price on the Father's love ♪
-[00:49:31.460 --> 00:49:36.460]   ♪ For there's a price on the Father's love ♪
-[00:49:36.460 --> 00:49:41.460]   ♪ For there's a price on the Father's love ♪
-[00:49:41.460 --> 00:49:46.460]   ♪ For there's a price on the Father's love ♪
-[00:49:46.460 --> 00:49:51.460]   ♪ For there's a price on the Father's love ♪
-[00:49:51.460 --> 00:49:56.460]   ♪ For there's a price on the Father's love ♪
-[00:49:56.460 --> 00:50:01.460]   ♪ For there's a price on the Father's love ♪
-[00:50:01.460 --> 00:50:06.460]   ♪ For there's a price on the Father's love ♪
-[00:50:06.460 --> 00:50:11.460]   ♪ For there's a price on the Father's love ♪
-[00:50:11.460 --> 00:50:16.460]   ♪ For there's a price on the Father's love ♪
-[00:50:16.460 --> 00:50:21.460]   ♪ For there's a price on the Father's love ♪
-[00:50:21.460 --> 00:50:26.460]   ♪ For there's a price on the Father's love ♪
-[00:50:26.460 --> 00:50:31.460]   ♪ For there's a price on the Father's love ♪
-[00:50:31.460 --> 00:50:36.460]   ♪ For there's a price on the Father's love ♪
-[00:50:36.460 --> 00:50:41.460]   ♪ For there's a price on the Father's love ♪
-[00:50:41.460 --> 00:50:46.460]   ♪ For there's a price on the Father's love ♪
-[00:50:46.460 --> 00:50:51.460]   ♪ For there's a price on the Father's love ♪
-[00:50:51.460 --> 00:50:56.460]   ♪ For there's a price on the Father's love ♪
-[00:50:56.460 --> 00:51:01.460]   ♪ For there's a price on the Father's love ♪
-[00:51:01.460 --> 00:51:06.460]   ♪ For there's a price on the Father's love ♪
-[00:51:06.460 --> 00:51:11.460]   ♪ For there's a price on the Father's love ♪
-[00:51:11.460 --> 00:51:16.460]   ♪ For there's a price on the Father's love ♪
-[00:51:16.460 --> 00:51:21.460]   ♪ For there's a price on the Father's love ♪
-[00:51:21.460 --> 00:51:26.460]   ♪ For there's a price on the Father's love ♪
-[00:51:26.460 --> 00:51:31.460]   ♪ For there's a price on the Father's love ♪
-[00:51:31.460 --> 00:51:36.460]   ♪ For there's a price on the Father's love ♪
-[00:51:36.460 --> 00:51:41.460]   ♪ For there's a price on the Father's love ♪
-[00:51:41.460 --> 00:51:46.460]   ♪ For there's a price on the Father's love ♪
-[00:51:46.460 --> 00:51:51.460]   ♪ For there's a price on the Father's love ♪
-[00:51:51.460 --> 00:51:56.460]   ♪ For there's a price on the Father's love ♪
-[00:51:56.460 --> 00:52:01.460]   ♪ For there's a price on the Father's love ♪
-[00:52:01.460 --> 00:52:06.460]   ♪ For there's a price on the Father's love ♪
-[00:52:06.460 --> 00:52:11.460]   ♪ For there's a price on the Father's love ♪
-[00:52:11.460 --> 00:52:16.460]   ♪ For there's a price on the Father's love ♪
-[00:52:16.460 --> 00:52:21.460]   ♪ For there's a price on the Father's love ♪
-[00:52:21.460 --> 00:52:26.460]   ♪ For there's a price on the Father's love ♪
-[00:52:26.460 --> 00:52:31.460]   ♪ For there's a price on the Father's love ♪
-[00:52:31.460 --> 00:52:36.460]   ♪ For there's a price on the Father's love ♪
-[00:52:36.460 --> 00:52:41.460]   ♪ For there's a price on the Father's love ♪
-[00:52:41.460 --> 00:52:46.460]   ♪ For there's a price on the Father's love ♪
-[00:52:46.460 --> 00:52:51.460]   ♪ For there's a price on the Father's love ♪
-[00:52:51.460 --> 00:52:56.460]   ♪ For there's a price on the Father's love ♪
-[00:52:56.460 --> 00:53:01.460]   ♪ For there's a price on the Father's love ♪
-[00:53:01.460 --> 00:53:06.460]   ♪ For there's a price on the Father's love ♪
-[00:53:06.460 --> 00:53:11.460]   ♪ For there's a price on the Father's love ♪
-[00:53:11.460 --> 00:53:16.460]   ♪ For there's a price on the Father's love ♪
-[00:53:16.460 --> 00:53:21.460]   ♪ For there's a price on the Father's love ♪
-[00:53:21.460 --> 00:53:26.460]   ♪ For there's a price on the Father's love ♪
-[00:53:26.460 --> 00:53:31.460]   ♪ For there's a price on the Father's love ♪
-[00:53:31.460 --> 00:53:36.460]   ♪ For there's a price on the Father's love ♪
-[00:53:36.460 --> 00:53:41.460]   ♪ For there's a price on the Father's love ♪
-[00:53:41.460 --> 00:53:46.460]   ♪ For there's a price on the Father's love ♪
-[00:53:46.460 --> 00:53:51.460]   ♪ For there's a price on the Father's love ♪
-[00:53:51.460 --> 00:53:56.460]   ♪ For there's a price on the Father's love ♪
-[00:53:56.460 --> 00:54:01.460]   ♪ For there's a price on the Father's love ♪
-[00:54:01.460 --> 00:54:06.460]   ♪ For there's a price on the Father's love ♪
-[00:54:06.460 --> 00:54:11.460]   ♪ For there's a price on the Father's love ♪
-[00:54:11.460 --> 00:54:16.460]   ♪ For there's a price on the Father's love ♪
-[00:54:16.460 --> 00:54:21.460]   ♪ For there's a price on the Father's love ♪
-[00:54:21.460 --> 00:54:26.460]   ♪ For there's a price on the Father's love ♪
-[00:54:26.460 --> 00:54:31.460]   ♪ For there's a price on the Father's love ♪
-[00:54:31.460 --> 00:54:36.460]   ♪ For there's a price on the Father's love ♪
-[00:54:36.460 --> 00:54:41.460]   ♪ For there's a price on the Father's love ♪
-[00:54:41.460 --> 00:54:46.460]   ♪ For there's a price on the Father's love ♪
-[00:54:46.460 --> 00:54:51.460]   ♪ For there's a price on the Father's love ♪
-[00:54:51.460 --> 00:54:56.460]   ♪ For there's a price on the Father's love ♪
-[00:54:56.460 --> 00:55:01.460]   ♪ For there's a price on the Father's love ♪
-[00:55:01.460 --> 00:55:06.460]   ♪ For there's a price on the Father's love ♪
-[00:55:06.460 --> 00:55:11.460]   ♪ For there's a price on the Father's love ♪
-[00:55:11.460 --> 00:55:16.460]   ♪ For there's a price on the Father's love ♪
-[00:55:16.460 --> 00:55:21.460]   ♪ For there's a price on the Father's love ♪
-[00:55:21.460 --> 00:55:26.460]   ♪ For there's a price on the Father's love ♪
-[00:55:26.460 --> 00:55:31.460]   ♪ For there's a price on the Father's love ♪
-[00:55:31.460 --> 00:55:36.460]   ♪ For there's a price on the Father's love ♪
-[00:55:36.460 --> 00:55:41.460]   ♪ For there's a price on the Father's love ♪
-[00:55:41.460 --> 00:55:46.460]   ♪ For there's a price on the Father's love ♪
-[00:55:46.460 --> 00:55:51.460]   ♪ For there's a price on the Father's love ♪
-[00:55:51.460 --> 00:55:56.460]   ♪ For there's a price on the Father's love ♪
-[00:55:56.460 --> 00:56:01.460]   ♪ For there's a price on the Father's love ♪
-[00:56:01.460 --> 00:56:06.460]   ♪ For there's a price on the Father's love ♪
-[00:56:06.460 --> 00:56:11.460]   ♪ For there's a price on the Father's love ♪
-[00:56:11.460 --> 00:56:16.460]   ♪ For there's a price on the Father's love ♪
-[00:56:16.460 --> 00:56:21.460]   ♪ For there's a price on the Father's love ♪
-[00:56:21.460 --> 00:56:26.460]   ♪ For there's a price on the Father's love ♪
-[00:56:26.460 --> 00:56:31.460]   ♪ For there's a price on the Father's love ♪
-[00:56:31.460 --> 00:56:36.460]   ♪ For there's a price on the Father's love ♪
-[00:56:36.460 --> 00:56:41.460]   ♪ For there's a price on the Father's love ♪
-[00:56:41.460 --> 00:56:46.460]   ♪ For there's a price on the Father's love ♪
-[00:56:46.460 --> 00:56:51.460]   ♪ For there's a price on the Father's love ♪
-[00:56:51.460 --> 00:56:56.460]   ♪ For there's a price on the Father's love ♪
-[00:56:56.460 --> 00:57:01.460]   ♪ For there's a price on the Father's love ♪
-[00:57:01.460 --> 00:57:06.460]   ♪ For there's a price on the Father's love ♪
-[00:57:06.460 --> 00:57:11.460]   ♪ For there's a price on the Father's love ♪
-[00:57:11.460 --> 00:57:16.460]   ♪ For there's a price on the Father's love ♪
-[00:57:16.460 --> 00:57:21.460]   ♪ For there's a price on the Father's love ♪
-[00:57:21.460 --> 00:57:26.460]   ♪ For there's a price on the Father's love ♪
-[00:57:26.460 --> 00:57:31.460]   ♪ For there's a price on the Father's love ♪
-[00:57:31.460 --> 00:57:36.460]   ♪ For there's a price on the Father's love ♪
-[00:57:36.460 --> 00:57:41.460]   ♪ For there's a price on the Father's love ♪
-[00:57:41.460 --> 00:57:46.460]   ♪ For there's a price on the Father's love ♪
-[00:57:46.460 --> 00:57:51.460]   ♪ For there's a price on the Father's love ♪
-[00:57:51.460 --> 00:57:56.460]   ♪ For there's a price on the Father's love ♪
-[00:57:56.460 --> 00:58:01.460]   ♪ For there's a price on the Father's love ♪
-[00:58:01.460 --> 00:58:06.460]   ♪ For there's a price on the Father's love ♪
-[00:58:06.460 --> 00:58:11.460]   ♪ For there's a price on the Father's love ♪
-[00:58:11.460 --> 00:58:16.460]   ♪ For there's a price on the Father's love ♪
-[00:58:16.460 --> 00:58:21.460]   ♪ For there's a price on the Father's love ♪
-[00:58:21.460 --> 00:58:26.460]   ♪ For there's a price on the Father's love ♪
-[00:58:26.460 --> 00:58:31.460]   ♪ For there's a price on the Father's love ♪
-[00:58:31.460 --> 00:58:36.460]   ♪ For there's a price on the Father's love ♪
-[00:58:36.460 --> 00:58:41.460]   ♪ For there's a price on the Father's love ♪
-[00:58:41.460 --> 00:58:46.460]   ♪ For there's a price on the Father's love ♪
-[00:58:46.460 --> 00:58:51.460]   ♪ For there's a price on the Father's love ♪
-[00:58:51.460 --> 00:58:56.460]   ♪ For there's a price on the Father's love ♪
-[00:58:56.460 --> 00:59:01.460]   ♪ For there's a price on the Father's love ♪
-[00:59:01.460 --> 00:59:06.460]   ♪ For there's a price on the Father's love ♪
-[00:59:06.460 --> 00:59:11.460]   ♪ For there's a price on the Father's love ♪
-[00:59:11.460 --> 00:59:16.460]   ♪ For there's a price on the Father's love ♪
-[00:59:16.460 --> 00:59:21.460]   ♪ For there's a price on the Father's love ♪
-[00:59:21.460 --> 00:59:26.460]   ♪ For there's a price on the Father's love ♪
-[00:59:26.460 --> 00:59:31.460]   ♪ For there's a price on the Father's love ♪
-[00:59:31.460 --> 00:59:36.460]   ♪ For there's a price on the Father's love ♪
-[00:59:36.460 --> 00:59:41.460]   ♪ For there's a price on the Father's love ♪
-[00:59:41.460 --> 00:59:46.460]   ♪ For there's a price on the Father's love ♪
-[00:59:46.460 --> 00:59:51.460]   ♪ For there's a price on the Father's love ♪
-[00:59:51.460 --> 00:59:56.460]   ♪ For there's a price on the Father's love ♪
-[00:59:56.460 --> 01:00:01.460]   ♪ For there's a price on the Father's love ♪
-[01:00:01.460 --> 01:00:06.460]   ♪ For there's a price on the Father's love ♪
-[01:00:06.460 --> 01:00:11.460]   ♪ For there's a price on the Father's love ♪
-[01:00:11.460 --> 01:00:16.460]   ♪ For there's a price on the Father's love ♪
-[01:00:16.460 --> 01:00:21.460]   ♪ For there's a price on the Father's love ♪
-[01:00:21.460 --> 01:00:24.460]   Why did John ask the question?
-[01:00:24.460 --> 01:00:30.460]   Why aren't more people asking, seeking, and knocking
-[01:00:30.460 --> 01:00:34.460]   that we also may follow the path of Christ?
-[01:00:34.460 --> 01:00:36.460]   Let's pray.
-[01:00:47.460 --> 01:00:53.460]   Father, you are worthy of our praise.
-[01:00:53.460 --> 01:00:59.460]   More than simple lip service, but our very lives.
-[01:00:59.460 --> 01:01:04.460]   Help us, Lord God, to confess and to believe and to practice
-[01:01:04.460 --> 01:01:08.460]   that we have been crucified with Christ.
-[01:01:08.460 --> 01:01:15.460]   It is no longer us that live, but Christ living in us.
-[01:01:15.460 --> 01:01:20.460]   Help us, Lord God, that that may not be empty confession,
-[01:01:20.460 --> 01:01:23.460]   but it would be our very lives, Lord.
-[01:01:23.460 --> 01:01:31.460]   As John gave his life preparing for Christ's path,
-[01:01:31.460 --> 01:01:36.460]   call us, Lord God, as you have planted the church,
-[01:01:36.460 --> 01:01:39.460]   that the gates of Hades would not be able to prevail against it,
-[01:01:39.460 --> 01:01:43.460]   that we would not live our lives in mediocrity,
-[01:01:43.460 --> 01:01:48.460]   that we would be a community fully convicted of this truth,
-[01:01:48.460 --> 01:01:53.460]   that wherever you lead us, that we would follow and glorify you.
-[01:01:53.460 --> 01:01:55.460]   In Jesus' name we pray, amen.
-[01:01:55.460 --> 01:01:58.460]   Let's all stand up for the closing praise.
-[01:01:59.460 --> 01:02:02.460]   [music]
-[01:02:02.460 --> 01:02:07.460]   [music]
-[01:02:07.460 --> 01:02:12.460]   [music]
-[01:02:12.460 --> 01:02:17.460]   [music]
-[01:02:17.460 --> 01:02:22.460]   [music]
-[01:02:22.460 --> 01:02:27.460]   [music]
-[01:02:27.460 --> 01:02:32.460]   [music]
-[01:02:32.460 --> 01:02:37.460]   [music]
-[01:02:37.460 --> 01:02:42.460]   [music]
-[01:02:42.460 --> 01:02:47.460]   [music]
-[01:02:47.460 --> 01:02:52.460]   [music]
-[01:02:52.460 --> 01:02:57.460]   [music]
-[01:02:57.460 --> 01:03:02.460]   [music]
-[01:03:02.460 --> 01:03:07.460]   [music]
-[01:03:07.460 --> 01:03:12.460]   [music]
-[01:03:12.460 --> 01:03:17.460]   [music]
-[01:03:17.460 --> 01:03:22.460]   [music]
-[01:03:22.460 --> 01:03:27.460]   [music]
-[01:03:27.460 --> 01:03:32.460]   [music]
-[01:03:32.460 --> 01:03:37.460]   [music]
-[01:03:37.460 --> 01:03:42.460]   [music]
-[01:03:42.460 --> 01:03:47.460]   [music]
-[01:03:47.460 --> 01:03:52.460]   [music]
-[01:03:52.460 --> 01:03:57.460]   [music]
-[01:03:57.460 --> 01:04:02.460]   [music]
-[01:04:02.460 --> 01:04:07.460]   [music]
-[01:04:07.460 --> 01:04:12.460]   [music]
-[01:04:12.460 --> 01:04:17.460]   [music]
-[01:04:17.460 --> 01:04:22.460]   [music]
-[01:04:22.460 --> 01:04:27.460]   [music]
-[01:04:27.460 --> 01:04:32.460]   [music]
-[01:04:32.460 --> 01:04:37.460]   [music]
-[01:04:37.460 --> 01:04:42.460]   [music]
-[01:04:42.460 --> 01:04:47.460]   [music]
-[01:04:47.460 --> 01:04:52.460]   [music]
-[01:04:52.460 --> 01:04:57.460]   [music]
-[01:04:57.460 --> 01:05:02.460]   [music]
-[01:05:02.460 --> 01:05:07.460]   [music]
-[01:05:07.460 --> 01:05:12.460]   [music]
-[01:05:12.460 --> 01:05:17.460]   [music]
-[01:05:17.460 --> 01:05:22.460]   [music]
-[01:05:22.460 --> 01:05:27.460]   [music]
-[01:05:27.460 --> 01:05:32.460]   [music]
-[01:05:32.460 --> 01:05:37.460]   [music]
-[01:05:37.460 --> 01:05:42.460]   [music]
-[01:05:42.460 --> 01:05:47.460]   [music]
-[01:05:47.460 --> 01:05:52.460]   [music]
-[01:05:52.460 --> 01:05:57.460]   [music]
-[01:05:57.460 --> 01:06:02.460]   [music]
-[01:06:02.460 --> 01:06:07.460]   [music]
-[01:06:07.460 --> 01:06:12.460]   [music]
-[01:06:12.460 --> 01:06:17.460]   [music]
-[01:06:17.460 --> 01:06:22.460]   [music]
-[01:06:22.460 --> 01:06:27.460]   [music]
-[01:06:27.460 --> 01:06:32.460]   [music]
-[01:06:32.460 --> 01:06:37.460]   [music]
-[01:06:37.460 --> 01:06:42.460]   [music]
-[01:06:42.460 --> 01:06:47.460]   [music]
-[01:06:47.460 --> 01:06:52.460]   [music]
-[01:06:52.460 --> 01:06:57.460]   [music]
-[01:06:57.460 --> 01:07:02.460]   [music]
-[01:07:02.460 --> 01:07:07.460]   [music]
-[01:07:07.460 --> 01:07:12.460]   [music]
-[01:07:12.460 --> 01:07:17.460]   [music]
-[01:07:17.460 --> 01:07:22.460]   [music]
-[01:07:22.460 --> 01:07:27.460]   [music]
-[01:07:27.460 --> 01:07:32.460]   [music]
-[01:07:32.460 --> 01:07:37.460]   [music]
-[01:07:37.460 --> 01:07:42.460]   [music]
-[01:07:42.460 --> 01:07:47.460]   [music]
-[01:07:47.460 --> 01:07:52.460]   [music]
-[01:07:52.460 --> 01:07:57.460]   [music]
-[01:07:57.460 --> 01:08:02.460]   [music]
-[01:08:02.460 --> 01:08:07.460]   [music]
-[01:08:07.460 --> 01:08:12.460]   [music]
-[01:08:12.460 --> 01:08:19.460]   [music]
+[00:16:07.640 --> 00:16:13.440]   ♪ He has saved us from us faithless ♪
+[00:16:13.440 --> 00:16:17.040]   ♪ Binds us now and will sustain us ♪
+[00:16:17.040 --> 00:16:22.040]   ♪ Oh, how wonderful the Father's love ♪
+[00:16:22.040 --> 00:16:27.040]  , ♪ Oh, how wonderful the Father's love ♪
+[00:16:27.040 --> 00:16:32.040]   ♪ Oh, how wonderful the Father's love ♪
+[00:16:32.040 --> 00:16:37.680]   ♪ Oh, how wonderful the Father's love ♪
+[00:16:37.680 --> 00:16:43.680]   ♪ Oh, how wonderful the Father's love ♪
+[00:16:43.680 --> 00:16:50.360]   ♪ Oh, how wonderful the Father's love ♪
+[00:16:50.360 --> 00:16:56.440]   ♪ Oh, how wonderful the Father's love ♪
+[00:16:56.480 --> 00:17:01.480]   ♪ Oh, how wonderful the Father's love ♪
+[00:17:01.480 --> 00:17:08.480]   ♪ Oh, how wonderful the Father's love ♪
+[00:17:08.480 --> 00:17:15.480]   ♪ Oh, how wonderful the Father's love ♪
+[00:17:15.480 --> 00:17:22.480]   ♪ Oh, how wonderful the Father's love ♪
+[00:17:23.480 --> 00:17:28.480]   ♪ Oh, how wonderful the Father's love ♪
+[00:17:28.480 --> 00:17:34.480]   ♪ Oh, how wonderful the Father's love ♪
+[00:17:34.480 --> 00:17:40.480]   ♪ Oh, how wonderful the Father's love ♪
+[00:17:40.480 --> 00:17:46.480]   ♪ Oh, how wonderful the Father's love ♪
+[00:17:46.480 --> 00:17:52.480]   ♪ Oh, how wonderful the Father's love ♪
+[00:17:52.480 --> 00:17:57.480]   ♪ Oh, how wonderful the Father's love ♪
+[00:17:57.480 --> 00:18:03.480]   ♪ Oh, how wonderful the Father's love ♪
+[00:18:03.480 --> 00:18:09.480]   ♪ Oh, how wonderful the Father's love ♪
+[00:18:09.480 --> 00:18:15.480]   ♪ Oh, how wonderful the Father's love ♪
+[00:18:15.480 --> 00:18:21.480]   ♪ Oh, how wonderful the Father's love ♪
+[00:18:21.480 --> 00:18:26.480]   ♪ Oh, how wonderful the Father's love ♪
+[00:18:26.480 --> 00:18:32.480]   ♪ Oh, how wonderful the Father's love ♪
+[00:18:32.480 --> 00:18:38.480]   ♪ Oh, how wonderful the Father's love ♪
+[00:18:38.480 --> 00:18:44.480]   ♪ Oh, how wonderful the Father's love ♪
+[00:18:44.480 --> 00:18:50.480]   ♪ Oh, how wonderful the Father's love ♪
+[00:18:51.480 --> 00:18:56.480]   ♪ You will love me all the time, baby ♪
+[00:18:56.480 --> 00:19:03.480]   ♪ You'll be just as fine as the brightest star in the sky ♪
+[00:19:03.480 --> 00:19:10.480]   ♪ You will love me all the time, baby ♪
+[00:19:17.480 --> 00:19:22.480]   ♪ You will love me all the time, baby ♪
+[00:19:22.480 --> 00:19:28.480]   ♪ You will love me all the time, baby ♪
+[00:19:28.480 --> 00:19:35.480]   ♪ You will love me all the time, baby ♪
+[00:19:35.480 --> 00:19:42.480]   ♪ You will love me all the time, baby ♪
+[00:19:46.480 --> 00:19:49.480]   ♪ You alone can rescue ♪
+[00:19:49.480 --> 00:19:52.480]   ♪ You alone can save ♪
+[00:19:52.480 --> 00:19:57.480]   ♪ You alone can lift us from the grave ♪
+[00:19:57.480 --> 00:20:02.480]   ♪ You came down to find us ♪
+[00:20:02.480 --> 00:20:06.480]   ♪ Let us out of death ♪
+[00:20:06.480 --> 00:20:11.480]   ♪ You alone belongs the highest praise ♪
+[00:20:13.480 --> 00:20:18.480]   ♪ You alone belongs the highest praise ♪
+[00:20:18.480 --> 00:20:25.480]   ♪ You alone belongs the highest praise ♪
+[00:20:25.480 --> 00:20:35.480]   Amen, you may be seated.
+[00:20:35.480 --> 00:20:39.480]   All right, if you can turn your Bibles with me
+[00:20:39.480 --> 00:20:41.480]   to Luke chapter seven,
+[00:20:41.480 --> 00:20:45.480]   and we will be reading from verse 18 to 23.
+[00:20:45.480 --> 00:20:47.480]   For the next about three weeks,
+[00:20:47.480 --> 00:20:50.480]   the message is going to center around John the Baptist,
+[00:20:50.480 --> 00:20:53.480]   and so this is gonna be the first part of it.
+[00:20:53.480 --> 00:20:55.480]   They're not necessarily directly related,
+[00:20:55.480 --> 00:20:57.480]   but we're gonna be on the subject of John the Baptist
+[00:20:57.480 --> 00:20:58.480]   for the next few weeks.
+[00:20:58.480 --> 00:21:01.480]   Luke chapter seven, verse 18 to 23,
+[00:21:01.480 --> 00:21:03.480]   reading out of the NASB,
+[00:21:03.480 --> 00:21:06.480]   "The disciples of John reported to him
+[00:21:06.480 --> 00:21:09.480]   "about all these things, summoning two of his disciples.
+[00:21:09.480 --> 00:21:11.480]   "John sent them to the Lord, saying,
+[00:21:11.480 --> 00:21:13.480]   "'Are you the expected one,
+[00:21:13.480 --> 00:21:15.480]   "'or do we look for someone else?'
+[00:21:15.480 --> 00:21:18.480]   "When the men came to him, they said to John the Baptist,
+[00:21:18.480 --> 00:21:21.480]   "'Has sent us to you to ask, are you the expected one,
+[00:21:21.480 --> 00:21:23.480]   "'or do we look for someone else?'
+[00:21:23.480 --> 00:21:25.480]   "At that very time, he cured many people of diseases
+[00:21:25.480 --> 00:21:27.480]   "and afflictions and evil spirits,
+[00:21:27.480 --> 00:21:30.480]   "and he gave sight to many who were blind.
+[00:21:30.480 --> 00:21:32.480]   "And he answered and said to them,
+[00:21:32.480 --> 00:21:35.480]   "'Go and report to John what you have seen,'
+[00:21:35.480 --> 00:21:37.480]   "and her, the blind, received sight, the lame walked,
+[00:21:37.480 --> 00:21:40.480]   "the lepers are cleansed, and the deaf hear.
+[00:21:40.480 --> 00:21:41.480]   "The dead are raised up,
+[00:21:41.480 --> 00:21:43.480]   "the poor have the gospel preached to them.
+[00:21:43.480 --> 00:21:46.480]   "Blessed is he who does not take offense at me."
+[00:21:46.480 --> 00:21:49.480]   Let's pray.
+[00:21:49.480 --> 00:21:52.480]   Lord, we pray for wisdom.
+[00:21:52.480 --> 00:21:54.480]   We pray for insight.
+[00:21:54.480 --> 00:21:57.480]   We pray for the Holy Spirit to guide and lead us,
+[00:21:57.480 --> 00:21:59.480]   convict us,
+[00:21:59.480 --> 00:22:04.480]   that we may do more than just listen and to learn,
+[00:22:04.480 --> 00:22:06.480]   but that we may live lives, Lord God,
+[00:22:06.480 --> 00:22:08.480]   truly worthy of the calling that you've given.
+[00:22:08.480 --> 00:22:10.480]   We love you, Lord.
+[00:22:10.480 --> 00:22:12.480]   We desire to worship you.
+[00:22:12.480 --> 00:22:15.480]   In Jesus' name we pray, amen.
+[00:22:15.480 --> 00:22:18.480]   Let me ask you a question that I want you to think about
+[00:22:18.480 --> 00:22:21.480]   just for a few seconds.
+[00:22:21.480 --> 00:22:27.480]   How sure are you about your faith?
+[00:22:27.480 --> 00:22:30.480]   How convicted are you that what we sing,
+[00:22:30.480 --> 00:22:34.480]   what we study is true?
+[00:22:34.480 --> 00:22:37.480]   That heaven and hell is real?
+[00:22:37.480 --> 00:22:41.480]   That the Son of God came and walked on this earth
+[00:22:41.480 --> 00:22:45.480]   and he gave his life so that you and I, sinners, can be saved?
+[00:22:45.480 --> 00:22:50.480]   How assured are you of this truth?
+[00:22:50.480 --> 00:22:53.480]   For whatever the reason,
+[00:22:53.480 --> 00:22:58.480]   the beginning of our faith begins by confessing we believe that.
+[00:22:58.480 --> 00:23:01.480]   We repent, we receive Christ,
+[00:23:01.480 --> 00:23:04.480]   but for whatever the reason, after we become Christian,
+[00:23:04.480 --> 00:23:08.480]   we don't ask, we don't seek.
+[00:23:08.480 --> 00:23:11.480]   And so we go through various periods of our life
+[00:23:11.480 --> 00:23:14.480]   where we come to a crisis of faith,
+[00:23:14.480 --> 00:23:16.480]   but we don't seek, we don't ask.
+[00:23:16.480 --> 00:23:20.480]   And so as a result of that, sometimes we remain in our doubt,
+[00:23:20.480 --> 00:23:24.480]   and that doubt causes us to remain distant from God.
+[00:23:24.480 --> 00:23:27.480]   Some people have certain crises.
+[00:23:27.480 --> 00:23:30.480]   Maybe you've had somebody that you dearly loved,
+[00:23:30.480 --> 00:23:32.480]   and they passed away, and you cried out to God,
+[00:23:32.480 --> 00:23:34.480]   and God didn't answer.
+[00:23:34.480 --> 00:23:36.480]   So why didn't he answer?
+[00:23:36.480 --> 00:23:38.480]   Or certain things that are happening in your life,
+[00:23:38.480 --> 00:23:40.480]   you thought it was going to be a one-way,
+[00:23:40.480 --> 00:23:42.480]   but it didn't happen that way,
+[00:23:42.480 --> 00:23:44.480]   and so you start having a crisis of faith.
+[00:23:44.480 --> 00:23:47.480]   It's like, is this real?
+[00:23:47.480 --> 00:23:49.480]   I know that the congregation can wrestle with that,
+[00:23:49.480 --> 00:23:52.480]   because I know many pastors who wrestle with that.
+[00:23:52.480 --> 00:23:55.480]   Is this all real?
+[00:23:55.480 --> 00:23:59.480]   Is this just something that I'm wishful thinking?
+[00:23:59.480 --> 00:24:02.480]   As some people may face crisis,
+[00:24:02.480 --> 00:24:05.480]   and they get to that point and they never move beyond that,
+[00:24:05.480 --> 00:24:10.480]   most people have a crisis of faith simply out of neglect.
+[00:24:10.480 --> 00:24:12.480]   They began with a bang.
+[00:24:12.480 --> 00:24:15.480]   It's like, I met Christ, and initially I didn't go to church,
+[00:24:15.480 --> 00:24:17.480]   and now I go to church.
+[00:24:17.480 --> 00:24:19.480]   But outside of going to church
+[00:24:19.480 --> 00:24:22.480]   and have made the church your community,
+[00:24:22.480 --> 00:24:26.480]   the passionate pursuit of Christ no longer exists in your life.
+[00:24:26.480 --> 00:24:29.480]   You just learn to play the church game.
+[00:24:29.480 --> 00:24:31.480]   And so you have lingering doubts,
+[00:24:31.480 --> 00:24:34.480]   and many people simply out of neglect.
+[00:24:34.480 --> 00:24:37.480]   They didn't pursue it, they didn't seek it, they didn't ask.
+[00:24:37.480 --> 00:24:41.480]   Now, everyone at some point in their walk with God
+[00:24:41.480 --> 00:24:44.480]   will have some sort of crisis of faith.
+[00:24:44.480 --> 00:24:47.480]   But every once in a while, we run into somebody
+[00:24:47.480 --> 00:24:51.480]   where we are surprised, maybe even shocked,
+[00:24:51.480 --> 00:24:54.480]   that they struggled with this.
+[00:24:54.480 --> 00:24:57.480]   In the last few years, we've run into some people,
+[00:24:57.480 --> 00:24:59.480]   without mentioning any specific names,
+[00:24:59.480 --> 00:25:01.480]   I think many of us would know,
+[00:25:01.480 --> 00:25:04.480]   that people who have lived and did ministry
+[00:25:04.480 --> 00:25:07.480]   and bore so much fruit, and then after they die,
+[00:25:07.480 --> 00:25:09.480]   found out that their faith didn't match
+[00:25:09.480 --> 00:25:12.480]   what they were presenting up in the public.
+[00:25:12.480 --> 00:25:15.480]   That their private life, they were completely different people.
+[00:25:15.480 --> 00:25:20.480]   And maybe most people, their difference may not be as drastic.
+[00:25:20.480 --> 00:25:22.480]   But we wonder, how can somebody
+[00:25:22.480 --> 00:25:24.480]   who seemed to have everything together,
+[00:25:24.480 --> 00:25:27.480]   who seemed to be used by God so powerfully,
+[00:25:27.480 --> 00:25:31.480]   be so bankrupt in his faith?
+[00:25:31.480 --> 00:25:35.480]   Today, we're going to be dealing with John the Baptist.
+[00:25:35.480 --> 00:25:37.480]   John the Baptist.
+[00:25:37.480 --> 00:25:40.480]   In Luke chapter 7, 18-20,
+[00:25:40.480 --> 00:25:42.480]   it says the disciples of John reported to him
+[00:25:42.480 --> 00:25:44.480]   about all these things.
+[00:25:44.480 --> 00:25:46.480]   Summoning two of his disciples, John sent them to the Lord,
+[00:25:46.480 --> 00:25:48.480]   asking, "Are you the expected one,
+[00:25:48.480 --> 00:25:51.480]   or do we look for someone else?"
+[00:25:51.480 --> 00:25:53.480]   When the men came to him, they said,
+[00:25:53.480 --> 00:25:55.480]   "John the Baptist has sent us to you to ask,
+[00:25:55.480 --> 00:25:59.480]   are you the expected one, or do we look for someone else?"
+[00:25:59.480 --> 00:26:05.480]   It says, Luke's recording has two separate, same statement,
+[00:26:05.480 --> 00:26:07.480]   "Are you the expected one? Are you the one?
+[00:26:07.480 --> 00:26:09.480]   Are you the Messiah?"
+[00:26:09.480 --> 00:26:12.480]   Again, any time you see something repeated,
+[00:26:12.480 --> 00:26:15.480]   you know that it's for the purpose of emphasis.
+[00:26:15.480 --> 00:26:17.480]   The fact that Luke records the same question twice
+[00:26:17.480 --> 00:26:21.480]   means the significance of what he is asking.
+[00:26:21.480 --> 00:26:23.480]   But the fact that he asks this question,
+[00:26:23.480 --> 00:26:25.480]   many people ask this question.
+[00:26:25.480 --> 00:26:27.480]   Many people during that time asked the question.
+[00:26:27.480 --> 00:26:29.480]   Many people today will ask the same question.
+[00:26:29.480 --> 00:26:31.480]   Can this be true?
+[00:26:31.480 --> 00:26:36.480]   Is this real? Is Jesus really the Son of God?
+[00:26:36.480 --> 00:26:41.480]   But the reason why we're perplexed is because it's John.
+[00:26:41.480 --> 00:26:43.480]   How could John ask this question?
+[00:26:43.480 --> 00:26:47.480]   John is the last prophet of the Old Covenant.
+[00:26:47.480 --> 00:26:49.480]   In fact, in the next text, we're going to see that Jesus says,
+[00:26:49.480 --> 00:26:51.480]   "Of all the people who were born of a woman,
+[00:26:51.480 --> 00:26:53.480]   John is the greatest."
+[00:26:53.480 --> 00:26:56.480]   He is the greatest of all the prophets.
+[00:26:56.480 --> 00:27:00.480]   Think about that. Elijah, Elisha, Jonah,
+[00:27:00.480 --> 00:27:02.480]   all the prophets that we know, Daniel.
+[00:27:02.480 --> 00:27:04.480]   He said, "Of all the prophets,
+[00:27:04.480 --> 00:27:09.480]   John's the greatest of all the prophets."
+[00:27:09.480 --> 00:27:13.480]   John was the one who, from the very get-go,
+[00:27:13.480 --> 00:27:15.480]   God had personally ordained.
+[00:27:15.480 --> 00:27:17.480]   He's going to be the one who's going to go
+[00:27:17.480 --> 00:27:20.480]   and prepare the way for my Son to come.
+[00:27:20.480 --> 00:27:22.480]   Even before he was born.
+[00:27:22.480 --> 00:27:24.480]   In fact, in Luke chapter 144,
+[00:27:24.480 --> 00:27:26.480]   when the two mothers, Mary and Elizabeth,
+[00:27:26.480 --> 00:27:28.480]   they get together with the children in their womb,
+[00:27:28.480 --> 00:27:30.480]   it says that John the Baptist leaped
+[00:27:30.480 --> 00:27:35.480]   because he recognized the Savior in Mary's womb.
+[00:27:35.480 --> 00:27:38.480]   Even before he ever set eyes on Jesus,
+[00:27:38.480 --> 00:27:40.480]   he recognized Him.
+[00:27:40.480 --> 00:27:43.480]   It's that John that's asking this question.
+[00:27:43.480 --> 00:27:46.480]   "Are you the one?"
+[00:27:46.480 --> 00:27:48.480]   He's the one, when Jesus showed up on the scene
+[00:27:48.480 --> 00:27:50.480]   and told everybody,
+[00:27:50.480 --> 00:27:52.480]   "That's the one we've been preparing for
+[00:27:52.480 --> 00:27:53.480]   that's greater than none.
+[00:27:53.480 --> 00:27:55.480]   My whole life was dedicated for His coming."
+[00:27:55.480 --> 00:27:58.480]   And so he diverted all the attention to Christ.
+[00:27:58.480 --> 00:28:00.480]   When Jesus came to get baptized,
+[00:28:00.480 --> 00:28:01.480]   He said, "How can you baptize me?
+[00:28:01.480 --> 00:28:03.480]   You are so much greater than that.
+[00:28:03.480 --> 00:28:06.480]   The whole reason why I exist is to prepare for you."
+[00:28:06.480 --> 00:28:09.480]   Jesus says, "It is good to do this now
+[00:28:09.480 --> 00:28:12.480]   to fulfill all righteousness."
+[00:28:12.480 --> 00:28:14.480]   So John reluctantly baptized Jesus,
+[00:28:14.480 --> 00:28:16.480]   and then when he comes out of the water,
+[00:28:16.480 --> 00:28:18.480]   he hears the audible voice of God that says,
+[00:28:18.480 --> 00:28:23.480]   "This is my beloved Son, who I am well pleased."
+[00:28:23.480 --> 00:28:25.480]   John saw all this. He heard all of this.
+[00:28:25.480 --> 00:28:30.480]   He's the one who dedicated his life for this purpose.
+[00:28:30.480 --> 00:28:33.480]   And yet, it's that John who's asking,
+[00:28:33.480 --> 00:28:39.480]   "Are you the one? Are you the one?"
+[00:28:39.480 --> 00:28:43.480]   Why is John asking this question?
+[00:28:43.480 --> 00:28:45.480]   Just to kind of give you a background
+[00:28:45.480 --> 00:28:47.480]   behind what was happening,
+[00:28:47.480 --> 00:28:51.480]   John has become extremely popular.
+[00:28:51.480 --> 00:28:53.480]   So many people were leaving everything
+[00:28:53.480 --> 00:28:55.480]   and they were coming to follow Jesus
+[00:28:55.480 --> 00:28:57.480]   because they clearly understood he was a prophet from God
+[00:28:57.480 --> 00:28:59.480]   and he was speaking the truth.
+[00:28:59.480 --> 00:29:02.480]   And even though he lived a difficult life,
+[00:29:02.480 --> 00:29:06.480]   by the time Christ shows up, he was the superstar.
+[00:29:06.480 --> 00:29:08.480]   He was the main guy.
+[00:29:08.480 --> 00:29:11.480]   He was the closest thing that they've heard of a prophet
+[00:29:11.480 --> 00:29:13.480]   in hundreds of years.
+[00:29:13.480 --> 00:29:16.480]   And so John, the Baptist disciples,
+[00:29:16.480 --> 00:29:19.480]   see that Jesus' ministry is starting to flourish
+[00:29:19.480 --> 00:29:21.480]   and all the disciples who were coming to John
+[00:29:21.480 --> 00:29:23.480]   were starting to transition to Jesus,
+[00:29:23.480 --> 00:29:26.480]   and it looked like it bothered some of them.
+[00:29:26.480 --> 00:29:30.480]   And so in John chapter 3, 26,
+[00:29:30.480 --> 00:29:32.480]   "And they came to John and said to him, 'Rabbi,
+[00:29:32.480 --> 00:29:34.480]   he who was with you beyond the Jordan
+[00:29:34.480 --> 00:29:36.480]   to whom you have testified,
+[00:29:36.480 --> 00:29:40.480]   behold, he is baptizing and all are coming to him.'"
+[00:29:40.480 --> 00:29:43.480]   So there's some coveting that's going on.
+[00:29:43.480 --> 00:29:45.480]   Why are we losing all our disciples
+[00:29:45.480 --> 00:29:48.480]   that you've worked so hard to garner?
+[00:29:48.480 --> 00:29:50.480]   They're all going to him.
+[00:29:50.480 --> 00:29:53.480]   John, I don't have the text for you for the sake of time,
+[00:29:53.480 --> 00:29:55.480]   but John basically corrects them in saying,
+[00:29:55.480 --> 00:29:57.480]   "I am not the bride.
+[00:29:57.480 --> 00:30:02.480]   I told you that I came to prepare the way for the bride,
+[00:30:02.480 --> 00:30:03.480]   that they should be going,
+[00:30:03.480 --> 00:30:05.480]   and I've been preparing you for this,
+[00:30:05.480 --> 00:30:07.480]   that when he comes that you ought to follow him."
+[00:30:07.480 --> 00:30:11.480]   And he ends that passage in John 3, 30 by saying,
+[00:30:11.480 --> 00:30:16.480]   "He must increase, but I must decrease."
+[00:30:16.480 --> 00:30:18.480]   All this is from John.
+[00:30:18.480 --> 00:30:20.480]   John's the one who told us who he is.
+[00:30:20.480 --> 00:30:21.480]   John's the one who identified.
+[00:30:21.480 --> 00:30:23.480]   John's the one who prepared and sacrificed
+[00:30:23.480 --> 00:30:26.480]   for the coming of Christ.
+[00:30:26.480 --> 00:30:31.480]   And yet he's sitting and asking the disciples.
+[00:30:31.480 --> 00:30:35.480]   And you go ask him, "Are you the one?"
+[00:30:35.480 --> 00:30:36.480]   It tells us in Matthew 11,
+[00:30:36.480 --> 00:30:39.480]   the parallel passage to the text that we're looking at,
+[00:30:39.480 --> 00:30:40.480]   it doesn't tell us here,
+[00:30:40.480 --> 00:30:45.480]   but in that text it tells us that John is sitting in prison.
+[00:30:45.480 --> 00:30:48.480]   Most commentators believe that John has been in prison
+[00:30:48.480 --> 00:30:52.480]   for at least a year, possibly up to two years.
+[00:30:52.480 --> 00:30:54.480]   And so during the two years that he's sitting in prison,
+[00:30:54.480 --> 00:30:57.480]   just waiting for his execution,
+[00:30:57.480 --> 00:31:01.480]   because he ended up calling out King Agrippa
+[00:31:01.480 --> 00:31:04.480]   for marrying his brother's wife.
+[00:31:04.480 --> 00:31:06.480]   So that angered somebody who was in great power
+[00:31:06.480 --> 00:31:08.480]   and put him in jail.
+[00:31:08.480 --> 00:31:10.480]   And then eventually, as you guys know,
+[00:31:10.480 --> 00:31:13.480]   he ends up getting beheaded for him calling out
+[00:31:13.480 --> 00:31:16.480]   the sin of the king.
+[00:31:16.480 --> 00:31:20.480]   During the two years that he's sitting in prison,
+[00:31:20.480 --> 00:31:25.480]   it seems like his faith started to get questioned.
+[00:31:25.480 --> 00:31:28.480]   Because what he was experiencing
+[00:31:28.480 --> 00:31:30.480]   and what he dedicated his life to, it just didn't fit.
+[00:31:30.480 --> 00:31:34.480]   His idea of the Messiah didn't fit what he was seeing.
+[00:31:34.480 --> 00:31:37.480]   In fact, in Matthew 3, 10 through 12,
+[00:31:37.480 --> 00:31:40.480]   John the Baptist, introducing Christ,
+[00:31:40.480 --> 00:31:44.480]   describes what Jesus' ministry was going to be like.
+[00:31:44.480 --> 00:31:47.480]   He says, "The ax is already laid at the root of the trees.
+[00:31:47.480 --> 00:31:50.480]   "Therefore, every tree that does not bear good fruit
+[00:31:50.480 --> 00:31:52.480]   "is cut down and thrown into the fire.
+[00:31:52.480 --> 00:31:55.480]   "As for me, I baptize you with water for repentance,
+[00:31:55.480 --> 00:31:58.480]   "but he who is coming after me is mightier than I,
+[00:31:58.480 --> 00:32:00.480]   "and I am not fit to remove his sandals.
+[00:32:00.480 --> 00:32:04.480]   "He will baptize you with the Holy Spirit and fire."
+[00:32:04.480 --> 00:32:06.480]   He says, "I am preaching to you,
+[00:32:06.480 --> 00:32:08.480]   "repent, for the kingdom of heaven is at hand."
+[00:32:08.480 --> 00:32:10.480]   But because he's just a mere man,
+[00:32:10.480 --> 00:32:13.480]   all he can do is lead them into baptism,
+[00:32:13.480 --> 00:32:15.480]   a physical ceremony.
+[00:32:15.480 --> 00:32:18.480]   But he said, "The one who's coming, when Jesus comes,
+[00:32:18.480 --> 00:32:19.480]   "he's going to baptize you
+[00:32:19.480 --> 00:32:21.480]   "with the power of the Holy Spirit and fire."
+[00:32:21.480 --> 00:32:24.480]   And fire, in the Old Testament and in the New Testament,
+[00:32:24.480 --> 00:32:26.480]   is referred to as judgment.
+[00:32:26.480 --> 00:32:29.480]   It's a cleansing agent.
+[00:32:29.480 --> 00:32:31.480]   And so when he comes,
+[00:32:31.480 --> 00:32:33.480]   he's not simply going to take you through a ceremony.
+[00:32:33.480 --> 00:32:37.480]   Real judgment, real cleansing is going to happen
+[00:32:37.480 --> 00:32:40.480]   because of the sins of Israel,
+[00:32:40.480 --> 00:32:42.480]   because of the oppression of the enemies.
+[00:32:42.480 --> 00:32:45.480]   Real power is coming, and he will make things right.
+[00:32:45.480 --> 00:32:48.480]   In verse 12, it says, "His winnowing fork is in his hand,
+[00:32:48.480 --> 00:32:50.480]   "and he will thoroughly clear his threshing floor,
+[00:32:50.480 --> 00:32:52.480]   "and he will gather his wheat into the barn,
+[00:32:52.480 --> 00:32:56.480]   "but he will burn up the chaff with unquenchable fire."
+[00:32:56.480 --> 00:32:59.480]   This is how he understood the Messiah's ministry.
+[00:32:59.480 --> 00:33:04.480]   He said, "When Jesus comes, he's going to bring this fire."
+[00:33:04.480 --> 00:33:09.480]   But after he says this, he spends two years in prison,
+[00:33:09.480 --> 00:33:12.480]   and it didn't make sense.
+[00:33:12.480 --> 00:33:16.480]   Why would a man who was handpicked by God himself
+[00:33:16.480 --> 00:33:19.480]   to prepare the way of the coming of Christ,
+[00:33:19.480 --> 00:33:25.480]   and as soon as Jesus appears, his life is over?
+[00:33:25.480 --> 00:33:28.480]   Not only did the judgment not come,
+[00:33:28.480 --> 00:33:32.480]   not only did the judgment and the fire
+[00:33:32.480 --> 00:33:35.480]   and the separating of the wheat and the chaff did not happen,
+[00:33:35.480 --> 00:33:37.480]   because they're still sitting in power,
+[00:33:37.480 --> 00:33:40.480]   that power put him in jail,
+[00:33:40.480 --> 00:33:45.480]   and that power is about to behead him.
+[00:33:45.480 --> 00:33:47.480]   And so John the Baptist sitting in prison
+[00:33:47.480 --> 00:33:51.480]   is asking an honest question.
+[00:33:51.480 --> 00:33:54.480]   Are you the one?
+[00:33:54.480 --> 00:33:56.480]   Because what's happening, what he's seeing,
+[00:33:56.480 --> 00:33:59.480]   just doesn't fit what he thought.
+[00:33:59.480 --> 00:34:03.480]   In fact, we know that this was not just a problem
+[00:34:03.480 --> 00:34:05.480]   with John the Baptist.
+[00:34:05.480 --> 00:34:07.480]   We know that all the Pharisees
+[00:34:07.480 --> 00:34:09.480]   and the people who were crying out, "Hosanna, Hosanna,"
+[00:34:09.480 --> 00:34:12.480]   turned against him because he didn't come to conquer.
+[00:34:12.480 --> 00:34:14.480]   His idea of conquering was giving up his life,
+[00:34:14.480 --> 00:34:17.480]   and even the disciples, even though Jesus made it very clear
+[00:34:17.480 --> 00:34:19.480]   he's going to go to the cross, he's going to be beaten,
+[00:34:19.480 --> 00:34:21.480]   and then put to death and be resurrected,
+[00:34:21.480 --> 00:34:24.480]   they didn't understand because what they understood
+[00:34:24.480 --> 00:34:28.480]   to be the Messiah didn't fit what Jesus was doing.
+[00:34:28.480 --> 00:34:33.480]   So they also had a crisis of faith.
+[00:34:33.480 --> 00:34:38.480]   This is a common experience of most people,
+[00:34:38.480 --> 00:34:42.480]   where we imagine what our life is going to be like,
+[00:34:42.480 --> 00:34:45.480]   and when life doesn't turn out exactly the way
+[00:34:45.480 --> 00:34:47.480]   that we thought it was going to work out,
+[00:34:47.480 --> 00:34:50.480]   that if I followed Christ, if I'm faithful,
+[00:34:50.480 --> 00:34:52.480]   that God will provide this and that,
+[00:34:52.480 --> 00:34:55.480]   and this will happen, and that you will bear so much fruit.
+[00:34:55.480 --> 00:34:59.480]   And when things just don't fit,
+[00:34:59.480 --> 00:35:04.480]   our honest crisis of faith is, "Where are you?
+[00:35:04.480 --> 00:35:06.480]   "Why aren't you answering my prayer?
+[00:35:06.480 --> 00:35:07.480]   "Why did it turn out this way?
+[00:35:07.480 --> 00:35:09.480]   "Why did these things happen?"
+[00:35:09.480 --> 00:35:14.480]   In fact, if you read Psalms,
+[00:35:14.480 --> 00:35:18.480]   so much of the Psalms is a godly man
+[00:35:18.480 --> 00:35:21.480]   complaining before God or questioning.
+[00:35:21.480 --> 00:35:23.480]   "Where are you?"
+[00:35:23.480 --> 00:35:24.480]   Typically, when we read Psalms,
+[00:35:24.480 --> 00:35:26.480]   you kind of pick and choose the favorites,
+[00:35:26.480 --> 00:35:27.480]   and so you don't really get to see
+[00:35:27.480 --> 00:35:30.480]   the whole experience of Psalms.
+[00:35:30.480 --> 00:35:33.480]   But one of the beauty of the Bible,
+[00:35:33.480 --> 00:35:35.480]   and in particular, Psalm,
+[00:35:35.480 --> 00:35:39.480]   is that it's just an honest expression.
+[00:35:39.480 --> 00:35:41.480]   So it doesn't hide.
+[00:35:41.480 --> 00:35:42.480]   It doesn't just say, "Oh, God is so good.
+[00:35:42.480 --> 00:35:43.480]   "He's so wonderful.
+[00:35:43.480 --> 00:35:45.480]   "He's worthy of praise."
+[00:35:45.480 --> 00:35:46.480]   Again, Psalm is filled with that,
+[00:35:46.480 --> 00:35:51.480]   but it's also filled with grumbling
+[00:35:51.480 --> 00:35:53.480]   and complaining before God.
+[00:35:53.480 --> 00:35:54.480]   "Where are you?"
+[00:35:54.480 --> 00:35:56.480]   In Psalms chapter 13, one and two,
+[00:35:56.480 --> 00:35:59.480]   David, a man who was handpicked
+[00:35:59.480 --> 00:36:02.480]   as the king of Israel,
+[00:36:02.480 --> 00:36:03.480]   considered even to this day
+[00:36:03.480 --> 00:36:05.480]   the greatest king of Israel,
+[00:36:05.480 --> 00:36:07.480]   man after God's own heart,
+[00:36:07.480 --> 00:36:09.480]   he says, "How long, O Lord,
+[00:36:09.480 --> 00:36:11.480]   "will you forget me forever?
+[00:36:11.480 --> 00:36:13.480]   "How long will you hide your face from me?
+[00:36:13.480 --> 00:36:16.480]   "How long shall I take counsel in my soul?
+[00:36:16.480 --> 00:36:19.480]   "Having sorrow in my heart all day long,
+[00:36:19.480 --> 00:36:24.480]   "how long will my enemy be exalted over me?"
+[00:36:24.480 --> 00:36:26.480]   Even though this is a man after God's own heart,
+[00:36:26.480 --> 00:36:31.480]   what he was experiencing just did not fit.
+[00:36:31.480 --> 00:36:32.480]   And so we have Psalm after Psalm,
+[00:36:32.480 --> 00:36:34.480]   this man of God coming before God,
+[00:36:34.480 --> 00:36:39.480]   "Why are you allowing the wicked to prosper?
+[00:36:39.480 --> 00:36:42.480]   "And I've sacrificed so much to honor you,
+[00:36:42.480 --> 00:36:44.480]   "and why are the enemies still after me?
+[00:36:44.480 --> 00:36:45.480]   "Where are you?
+[00:36:45.480 --> 00:36:47.480]   "How long are you going to let this happen?"
+[00:36:47.480 --> 00:36:49.480]   Psalm 10, one through five,
+[00:36:49.480 --> 00:36:51.480]   "Why do you stand afar off, O Lord?
+[00:36:51.480 --> 00:36:53.480]   "Why do you hide yourself in times of trouble?
+[00:36:53.480 --> 00:36:56.480]   "In pride the wicked hotly pursue the afflicted.
+[00:36:56.480 --> 00:36:58.480]   "Let them be caught in their places
+[00:36:58.480 --> 00:37:00.480]   "which they have devised.
+[00:37:00.480 --> 00:37:02.480]   "For the wicked boasts of his heart's desire,
+[00:37:02.480 --> 00:37:04.480]   "and the greedy man curses and spurns the Lord.
+[00:37:04.480 --> 00:37:07.480]   "The wicked, in haughtiness of his countenance,
+[00:37:07.480 --> 00:37:08.480]   "does not seek him.
+[00:37:08.480 --> 00:37:11.480]   "All his thoughts are, 'There's no God.'
+[00:37:11.480 --> 00:37:13.480]   "His ways prosper at all times.
+[00:37:13.480 --> 00:37:16.480]   "Your judgments are on high out of his sight,
+[00:37:16.480 --> 00:37:21.480]   "as for all of his adversary, he snorts at them."
+[00:37:21.480 --> 00:37:23.480]   He says, "I've lived my life righteously to follow you,
+[00:37:23.480 --> 00:37:25.480]   "and here's these wicked people
+[00:37:25.480 --> 00:37:27.480]   "who are basically blaspheming your name.
+[00:37:27.480 --> 00:37:28.480]   "I don't even believe you."
+[00:37:28.480 --> 00:37:30.480]   And they said, "There's no judgment coming upon me."
+[00:37:30.480 --> 00:37:32.480]   And yet they continue to prosper.
+[00:37:32.480 --> 00:37:36.480]   Why do you do this, God?
+[00:37:36.480 --> 00:37:40.480]   There are things that happen in our life.
+[00:37:40.480 --> 00:37:43.480]   If you live long enough,
+[00:37:43.480 --> 00:37:46.480]   multiple times you may have asked the question,
+[00:37:46.480 --> 00:37:49.480]   "Why didn't God answer that prayer?
+[00:37:49.480 --> 00:37:52.480]   "Why did he allow this to happen?"
+[00:37:52.480 --> 00:37:55.480]   And we get to that crisis of faith,
+[00:37:55.480 --> 00:37:58.480]   and when we get to that crisis of faith,
+[00:37:58.480 --> 00:38:02.480]   many of us just linger.
+[00:38:02.480 --> 00:38:05.480]   Just linger.
+[00:38:05.480 --> 00:38:09.480]   And we allow that doubt and that crisis to linger,
+[00:38:09.480 --> 00:38:13.480]   just to affect the way you live your life.
+[00:38:13.480 --> 00:38:15.480]   You'll come to church.
+[00:38:15.480 --> 00:38:16.480]   You'll give.
+[00:38:16.480 --> 00:38:19.480]   You'll serve a little.
+[00:38:19.480 --> 00:38:23.480]   But when Christ says to pick up your cross and follow me,
+[00:38:23.480 --> 00:38:28.480]   that I cannot do because I'm not sure.
+[00:38:28.480 --> 00:38:34.480]   And we are okay with not being sure.
+[00:38:34.480 --> 00:38:39.480]   See, John wasn't simply doubting.
+[00:38:39.480 --> 00:38:41.480]   John was asking a question.
+[00:38:41.480 --> 00:38:44.480]   And there is a huge difference between questioning
+[00:38:44.480 --> 00:38:47.480]   and asking questions.
+[00:38:47.480 --> 00:38:50.480]   Questioning is somebody who's already come to a conclusion,
+[00:38:50.480 --> 00:38:53.480]   and they're presenting to you their concerns
+[00:38:53.480 --> 00:38:55.480]   or their opinions in the form of a question,
+[00:38:55.480 --> 00:38:58.480]   but they're not asking you any questions.
+[00:38:58.480 --> 00:38:59.480]   They're questioning.
+[00:38:59.480 --> 00:39:00.480]   "Why does your God do this?
+[00:39:00.480 --> 00:39:01.480]   "Why is God like that?
+[00:39:01.480 --> 00:39:02.480]   "Why is he this way?"
+[00:39:02.480 --> 00:39:05.480]   And he's already come to the conclusion.
+[00:39:05.480 --> 00:39:07.480]   Someone who is asking questions
+[00:39:07.480 --> 00:39:10.480]   simply has a crisis of faith in asking,
+[00:39:10.480 --> 00:39:12.480]   "God, what is happening?"
+[00:39:12.480 --> 00:39:14.480]   Maybe there's things that you don't understand.
+[00:39:14.480 --> 00:39:17.480]   Maybe you had an idea of God that was wrong.
+[00:39:17.480 --> 00:39:20.480]   Maybe your perception, your goals, your dreams
+[00:39:20.480 --> 00:39:24.480]   were all founded upon something that God desires to destroy.
+[00:39:24.480 --> 00:39:27.480]   And God leads you to this place of crisis
+[00:39:27.480 --> 00:39:29.480]   so that you would seek him.
+[00:39:29.480 --> 00:39:33.480]   In fact, the Bible says, "Seek, ask, and knock,
+[00:39:33.480 --> 00:39:34.480]   "and he will answer.
+[00:39:34.480 --> 00:39:37.480]   "You'll open the door, and he will be found."
+[00:39:37.480 --> 00:39:38.480]   He wants us to seek.
+[00:39:38.480 --> 00:39:41.480]   He wants us to ask.
+[00:39:41.480 --> 00:39:44.480]   John wasn't simply questioning God.
+[00:39:44.480 --> 00:39:48.480]   He had to confirm his faith.
+[00:39:48.480 --> 00:39:50.480]   He had to confirm his faith because, one,
+[00:39:50.480 --> 00:39:52.480]   it didn't fit what he thought,
+[00:39:52.480 --> 00:39:56.480]   but, two, he's about to give his life.
+[00:39:56.480 --> 00:40:00.480]   So he's asking, "Is this true?"
+[00:40:00.480 --> 00:40:05.480]   Somebody who's never sacrificed anything to follow Christ
+[00:40:05.480 --> 00:40:10.480]   can remain in the crisis of his faith the rest of his life
+[00:40:10.480 --> 00:40:14.480]   because you lose nothing.
+[00:40:14.480 --> 00:40:20.480]   A nominal Christian neither wants to be shaken in his faith
+[00:40:20.480 --> 00:40:23.480]   and then have to walk away from his faith,
+[00:40:23.480 --> 00:40:27.480]   nor does he want to be challenged and be convicted
+[00:40:27.480 --> 00:40:30.480]   because either his faith gets shaken
+[00:40:30.480 --> 00:40:32.480]   or either his faith gets challenged,
+[00:40:32.480 --> 00:40:36.480]   it will force him to move beyond his mediocre life.
+[00:40:36.480 --> 00:40:40.480]   It will force him to sacrifice what is important to him,
+[00:40:40.480 --> 00:40:42.480]   and what is important to that person
+[00:40:42.480 --> 00:40:47.480]   is the Christian life that he has created for himself
+[00:40:47.480 --> 00:40:50.480]   that cannot be shaken.
+[00:40:50.480 --> 00:40:54.480]   So if he pursues the question of his faith
+[00:40:54.480 --> 00:40:57.480]   and the conclusion that he comes up with is,
+[00:40:57.480 --> 00:41:00.480]   "I'm not sure if I believe this,"
+[00:41:00.480 --> 00:41:04.480]   and as a result of that, you may have to leave the church.
+[00:41:04.480 --> 00:41:07.480]   I mean, I can't keep coming to church if I don't believe this.
+[00:41:07.480 --> 00:41:09.480]   You're going to lose all the friends that you've created.
+[00:41:09.480 --> 00:41:10.480]   What about your parents?
+[00:41:10.480 --> 00:41:12.480]   What about the community that you've built?
+[00:41:12.480 --> 00:41:13.480]   What about the expectation?
+[00:41:13.480 --> 00:41:16.480]   I mean, you became a Sunday school teacher
+[00:41:16.480 --> 00:41:20.480]   or even a pastor or an elder in the church.
+[00:41:20.480 --> 00:41:22.480]   Everything that I built up has to be sacrificed.
+[00:41:22.480 --> 00:41:25.480]   If I pursue this and I come to the conclusion
+[00:41:25.480 --> 00:41:28.480]   that maybe I don't believe this,
+[00:41:28.480 --> 00:41:30.480]   and so as a result of that,
+[00:41:30.480 --> 00:41:34.480]   they come to a crisis of faith and they remain
+[00:41:34.480 --> 00:41:36.480]   because they don't want to face the consequences,
+[00:41:36.480 --> 00:41:39.480]   nor does that person pursue this
+[00:41:39.480 --> 00:41:41.480]   because if they come to the conclusion
+[00:41:41.480 --> 00:41:44.480]   and they are convicted that this is true,
+[00:41:44.480 --> 00:41:47.480]   they also need to move beyond where they are,
+[00:41:47.480 --> 00:41:49.480]   that this nominal Christian life,
+[00:41:49.480 --> 00:41:52.480]   this cultural Christianity that they've embraced
+[00:41:52.480 --> 00:41:53.480]   is not enough,
+[00:41:53.480 --> 00:41:56.480]   that you've never truly surrendered your life to Christ,
+[00:41:56.480 --> 00:41:59.480]   that you've admired Him from a distance.
+[00:41:59.480 --> 00:42:01.480]   You sang about Him, but you never followed Him.
+[00:42:01.480 --> 00:42:04.480]   You never gave your life to Christ,
+[00:42:04.480 --> 00:42:08.480]   and so you've pursued your life in mediocre Christian life,
+[00:42:08.480 --> 00:42:12.480]   pursuing your own pleasure, pursuing your own life,
+[00:42:12.480 --> 00:42:14.480]   but when the Scripture says that this life
+[00:42:14.480 --> 00:42:17.480]   no longer belongs to you, what is your career?
+[00:42:17.480 --> 00:42:20.480]   It no longer matters.
+[00:42:20.480 --> 00:42:21.480]   What is your reputation?
+[00:42:21.480 --> 00:42:24.480]   It no longer matters because you have been crucified with Christ.
+[00:42:24.480 --> 00:42:26.480]   The Bible says that you have been purchased
+[00:42:26.480 --> 00:42:30.480]   by the blood of Christ and you now belong to Him.
+[00:42:30.480 --> 00:42:32.480]   God didn't die for you and then said,
+[00:42:32.480 --> 00:42:34.480]   "Now go live the way you desire."
+[00:42:34.480 --> 00:42:36.480]   He says, "No, your life is mine."
+[00:42:36.480 --> 00:42:40.480]   Your life will come when Christ comes in His glory,
+[00:42:40.480 --> 00:42:43.480]   and when Jesus said, "He who wants to come after me
+[00:42:43.480 --> 00:42:46.480]   must deny himself and pick up his cross, follow me,"
+[00:42:46.480 --> 00:42:49.480]   if you are convicted by this truth,
+[00:42:49.480 --> 00:42:52.480]   you are forced to face that reality.
+[00:42:52.480 --> 00:42:55.480]   Am I following Christ?
+[00:42:55.480 --> 00:43:03.480]   I've heard people say that if you reject Christ,
+[00:43:03.480 --> 00:43:06.480]   the consequence of that is that
+[00:43:06.480 --> 00:43:10.480]   if heaven and hell is real, you'll go to hell.
+[00:43:10.480 --> 00:43:13.480]   And I've heard people say, "But if I'm wrong,
+[00:43:13.480 --> 00:43:17.480]   I've lost nothing because I have family, friends,
+[00:43:17.480 --> 00:43:20.480]   and I have purpose, and I have the Bible,
+[00:43:20.480 --> 00:43:23.480]   and I have community.
+[00:43:23.480 --> 00:43:26.480]   But if I'm right, I get to go to heaven.
+[00:43:26.480 --> 00:43:30.480]   If I'm wrong, I've lost nothing."
+[00:43:30.480 --> 00:43:34.480]   That sounds like wisdom initially,
+[00:43:34.480 --> 00:43:40.480]   but there's nothing further from what we see in Scripture.
+[00:43:40.480 --> 00:43:45.480]   Paul, in 1 Corinthians 15, 17, 19, it says,
+[00:43:45.480 --> 00:43:47.480]   "And if Christ has not been raised,
+[00:43:47.480 --> 00:43:49.480]   your faith is worthless.
+[00:43:49.480 --> 00:43:50.480]   You are still in your sins.
+[00:43:50.480 --> 00:43:53.480]   Then those also who have fallen asleep in Christ have perished.
+[00:43:53.480 --> 00:43:56.480]   If we have hoped in Christ, in this life only,
+[00:43:56.480 --> 00:44:02.480]   we are all men most to be pitied."
+[00:44:02.480 --> 00:44:07.480]   If this is not real, we are to be pitied.
+[00:44:07.480 --> 00:44:09.480]   And the reason why we are to be pitied
+[00:44:09.480 --> 00:44:14.480]   is because Christ requires our life.
+[00:44:14.480 --> 00:44:17.480]   He didn't simply say, "If you don't have a community,
+[00:44:17.480 --> 00:44:19.480]   if you feel lonely, if you need purpose,
+[00:44:19.480 --> 00:44:22.480]   you want to be a righteous person rather than unrighteous,
+[00:44:22.480 --> 00:44:24.480]   you want a place where your children are going to be
+[00:44:24.480 --> 00:44:26.480]   raised with good morals."
+[00:44:26.480 --> 00:44:29.480]   No, he said, "Pick up your cross.
+[00:44:29.480 --> 00:44:33.480]   Your career no longer matters.
+[00:44:33.480 --> 00:44:37.480]   Your bank account no longer matters to God.
+[00:44:37.480 --> 00:44:39.480]   It no longer matters."
+[00:44:39.480 --> 00:44:43.480]   Because our whole life is to be dedicated to follow Jesus,
+[00:44:43.480 --> 00:44:48.480]   and he went to the cross, and he told us all,
+[00:44:48.480 --> 00:44:52.480]   "If you believe me, follow me."
+[00:44:52.480 --> 00:44:55.480]   See, John wasn't simply tickling his ears.
+[00:44:55.480 --> 00:44:59.480]   He needed confirmation because he's about to give his life.
+[00:44:59.480 --> 00:45:01.480]   Are you the one?
+[00:45:01.480 --> 00:45:04.480]   Those who have never surrendered their life to Christ
+[00:45:04.480 --> 00:45:08.480]   can live with doubts.
+[00:45:08.480 --> 00:45:11.480]   Can live in mediocrity because you already have
+[00:45:11.480 --> 00:45:14.480]   what you desire in Christ.
+[00:45:14.480 --> 00:45:18.480]   You have everything that you have desired in Christ already.
+[00:45:18.480 --> 00:45:23.480]   So you don't want your faith to be bothered
+[00:45:23.480 --> 00:45:26.480]   and force you to make a decision out of the church,
+[00:45:26.480 --> 00:45:31.480]   nor do you want to be bothered to force you to question,
+[00:45:31.480 --> 00:45:37.480]   "Are you really surrendered to Christ?"
+[00:45:37.480 --> 00:45:45.480]   So we oftentimes embrace the crisis and stay there
+[00:45:45.480 --> 00:45:49.480]   because of the consequence one way or the other.
+[00:45:49.480 --> 00:45:53.480]   The person who has sacrificed the most
+[00:45:53.480 --> 00:45:57.480]   has to be convicted the most.
+[00:45:57.480 --> 00:46:02.480]   The person who is picking up his cross needs to know for sure
+[00:46:02.480 --> 00:46:05.480]   that when Jesus says that there's life on the other side of this cross,
+[00:46:05.480 --> 00:46:08.480]   that this is true.
+[00:46:08.480 --> 00:46:10.480]   You can admire him.
+[00:46:10.480 --> 00:46:13.480]   You can be a fanboy of Jesus,
+[00:46:13.480 --> 00:46:16.480]   but you cannot follow Christ
+[00:46:16.480 --> 00:46:20.480]   if you're not convicted that this is true.
+[00:46:20.480 --> 00:46:23.480]   The way that Jesus even answers this question,
+[00:46:23.480 --> 00:46:26.480]   he answers them, he says, "Go and report to John
+[00:46:26.480 --> 00:46:28.480]   what you have seen and heard.
+[00:46:28.480 --> 00:46:30.480]   Blind receive sight, lame walk, the lepers are cleansed,
+[00:46:30.480 --> 00:46:32.480]   and the deaf hear, and the dead are raised up.
+[00:46:32.480 --> 00:46:35.480]   The poor have the gospel preached to them."
+[00:46:35.480 --> 00:46:37.480]   Now this is nothing new.
+[00:46:37.480 --> 00:46:39.480]   In fact, in Matthew 11, 2-3,
+[00:46:39.480 --> 00:46:41.480]   it tells us that he was already hearing this,
+[00:46:41.480 --> 00:46:43.480]   and he's sitting in prison.
+[00:46:43.480 --> 00:46:46.480]   Can you confirm?
+[00:46:46.480 --> 00:46:49.480]   Can you confirm if this is true?
+[00:46:49.480 --> 00:46:52.480]   And Jesus, all he does is confirm to John
+[00:46:52.480 --> 00:46:54.480]   what you have heard your disciples have seen.
+[00:46:54.480 --> 00:47:02.480]   Go tell him that the true evidence of the one is in me.
+[00:47:02.480 --> 00:47:05.480]   You see, people who've endured in their faith
+[00:47:05.480 --> 00:47:08.480]   are not people who understood.
+[00:47:08.480 --> 00:47:10.480]   I understand God. I understand why he's doing it.
+[00:47:10.480 --> 00:47:12.480]   I understand what he's doing now in our culture. I understand.
+[00:47:12.480 --> 00:47:14.480]   It's not because they understood.
+[00:47:14.480 --> 00:47:16.480]   It's because they believed.
+[00:47:16.480 --> 00:47:18.480]   Even the disciples, when Jesus began to say,
+[00:47:18.480 --> 00:47:20.480]   "If you don't drink of my blood and eat of my flesh,
+[00:47:20.480 --> 00:47:22.480]   there's no relationship with you,"
+[00:47:22.480 --> 00:47:25.480]   they didn't understand.
+[00:47:25.480 --> 00:47:27.480]   But Jesus turned to them and said, "Are you going to go too?"
+[00:47:27.480 --> 00:47:29.480]   And he said, "Where am I going to go?
+[00:47:29.480 --> 00:47:31.480]   We believe you are the Son of God, and you have the words of life.
+[00:47:31.480 --> 00:47:33.480]   Where else are we going to go?"
+[00:47:33.480 --> 00:47:35.480]   It's not because they understood.
+[00:47:35.480 --> 00:47:38.480]   It's because they believed.
+[00:47:38.480 --> 00:47:40.480]   They believed.
+[00:47:40.480 --> 00:47:42.480]   There are things that often happen in our lives
+[00:47:42.480 --> 00:47:44.480]   that we can't make sense of.
+[00:47:44.480 --> 00:47:46.480]   Why did God do that?
+[00:47:46.480 --> 00:47:48.480]   Why is he allowing him to do that?
+[00:47:48.480 --> 00:47:50.480]   Well, what causes us to persevere
+[00:47:50.480 --> 00:47:52.480]   is a conviction that this is true,
+[00:47:52.480 --> 00:47:54.480]   that he is the Son of God,
+[00:47:54.480 --> 00:47:56.480]   that this is the Word of God.
+[00:47:56.480 --> 00:47:59.480]   Even if I don't understand what he is doing,
+[00:47:59.480 --> 00:48:02.480]   even if I don't understand where he is leading me to,
+[00:48:02.480 --> 00:48:05.480]   I believe him.
+[00:48:05.480 --> 00:48:07.480]   That's exactly what the Scripture tells us,
+[00:48:07.480 --> 00:48:10.480]   that Jesus left this evidence.
+[00:48:10.480 --> 00:48:13.480]   In John 3, 2, when Nicodemus comes to him at night,
+[00:48:13.480 --> 00:48:15.480]   this man came to Jesus by night and said to him,
+[00:48:15.480 --> 00:48:18.480]   "Rabbi, we know that you have come from God as a teacher,
+[00:48:18.480 --> 00:48:23.480]   for no one can do these signs that you do unless God is with him."
+[00:48:23.480 --> 00:48:25.480]   They recognized these signs, and Nicodemus says,
+[00:48:25.480 --> 00:48:27.480]   "Clearly, you must be the one."
+[00:48:27.480 --> 00:48:30.480]   John 7, 31, many of the crowds believed in him,
+[00:48:30.480 --> 00:48:32.480]   and they were saying, "When the Christ comes,
+[00:48:32.480 --> 00:48:36.480]   he will not perform more signs than those which this man has.
+[00:48:36.480 --> 00:48:38.480]   Will he?"
+[00:48:38.480 --> 00:48:40.480]   So they believed because of the many miracles,
+[00:48:40.480 --> 00:48:43.480]   because they knew it was a clear sign that he's the one.
+[00:48:43.480 --> 00:48:45.480]   And then in John 15, 24, it says,
+[00:48:45.480 --> 00:48:48.480]   "If I had not done among them the works which no one else did,
+[00:48:48.480 --> 00:48:50.480]   they would not have sinned.
+[00:48:50.480 --> 00:48:56.480]   But now they have both seen and hated me and my father as well."
+[00:48:56.480 --> 00:48:59.480]   In other words, they do not reject me
+[00:48:59.480 --> 00:49:03.480]   because I have not given them enough evidence.
+[00:49:03.480 --> 00:49:05.480]   Plenty of evidence has been given to them,
+[00:49:05.480 --> 00:49:08.480]   but yet they chose to reject me.
+[00:49:08.480 --> 00:49:11.480]   So therefore, they are guilty.
+[00:49:11.480 --> 00:49:13.480]   We may look at that and say, you know,
+[00:49:13.480 --> 00:49:16.480]   we're 2,000 years removed from these miracles.
+[00:49:16.480 --> 00:49:18.480]   So if Jesus said, "I'm going to leave you these miracles
+[00:49:18.480 --> 00:49:23.480]   as a clear sign of who he is," what about us?
+[00:49:23.480 --> 00:49:27.480]   When we come to crisis of faith, what do we do?
+[00:49:27.480 --> 00:49:30.480]   If Jesus' answer to the crisis of faith that John the Baptist had,
+[00:49:30.480 --> 00:49:32.480]   and he says, "Look at all the miracles
+[00:49:32.480 --> 00:49:34.480]   because it's a clear sign of who I am,"
+[00:49:34.480 --> 00:49:37.480]   well, if you're asking that question, good,
+[00:49:37.480 --> 00:49:40.480]   because people of that generation asked the same question.
+[00:49:40.480 --> 00:49:42.480]   Even though they had front-row seats of his miracles,
+[00:49:42.480 --> 00:49:45.480]   they kept on asking him, "We need signs, we need signs."
+[00:49:45.480 --> 00:49:47.480]   Remember what Jesus said, this wicked and evil generation,
+[00:49:47.480 --> 00:49:51.480]   "I will give no sign except for the sign of Jonah,"
+[00:49:51.480 --> 00:49:53.480]   referring to his death and resurrection.
+[00:49:53.480 --> 00:49:57.480]   I will leave that sign until I come.
+[00:49:57.480 --> 00:50:00.480]   So if anybody doubts, anybody has crisis of faith,
+[00:50:00.480 --> 00:50:03.480]   you can look into that, and I will leave that as a proof
+[00:50:03.480 --> 00:50:06.480]   to everything that I have said.
+[00:50:06.480 --> 00:50:10.480]   For 2,000 years, even though we're 2,000 years removed
+[00:50:10.480 --> 00:50:13.480]   from these miracles that Jesus is referring to,
+[00:50:13.480 --> 00:50:16.480]   people have dissected, studied, questioned
+[00:50:16.480 --> 00:50:19.480]   the resurrection of Christ,
+[00:50:19.480 --> 00:50:23.480]   and even those who reject Jesus as God
+[00:50:23.480 --> 00:50:26.480]   will tell you that something spectacular
+[00:50:26.480 --> 00:50:29.480]   happened in the first century.
+[00:50:29.480 --> 00:50:31.480]   The fact that the Jews and Gentiles got together,
+[00:50:31.480 --> 00:50:34.480]   the fact that this obscure small group of fishermen
+[00:50:34.480 --> 00:50:37.480]   turned the world upside down in the first 100 years,
+[00:50:37.480 --> 00:50:41.480]   the fact that we have Scripture that's been copied
+[00:50:41.480 --> 00:50:43.480]   and recopied thousands of times,
+[00:50:43.480 --> 00:50:46.480]   more than any other historical document that we have,
+[00:50:46.480 --> 00:50:49.480]   people have questioned the validity,
+[00:50:49.480 --> 00:50:51.480]   historical validity of the resurrection of Christ,
+[00:50:51.480 --> 00:50:54.480]   and so many have come to the conclusion
+[00:50:54.480 --> 00:50:58.480]   that this must have happened.
+[00:50:58.480 --> 00:51:01.480]   I've had so many people throughout the years come to me
+[00:51:01.480 --> 00:51:03.480]   in crisis of faith, telling me
+[00:51:03.480 --> 00:51:06.480]   that they're not sure if they believe.
+[00:51:06.480 --> 00:51:09.480]   And so I would ask them, "What is it that you have a hard time?"
+[00:51:09.480 --> 00:51:12.480]   "You know, these miracles and these things, I'm not sure if I believe."
+[00:51:12.480 --> 00:51:15.480]   And they're about to walk away from their faith,
+[00:51:15.480 --> 00:51:18.480]   and I would suggest to them to read this book,
+[00:51:18.480 --> 00:51:20.480]   "Who Moved the Stone?"
+[00:51:20.480 --> 00:51:22.480]   There's so many things that you can read.
+[00:51:22.480 --> 00:51:24.480]   And at the end of it, you can read that and say,
+[00:51:24.480 --> 00:51:26.480]   "I don't believe it," and walk away.
+[00:51:26.480 --> 00:51:29.480]   But you don't know how many people that have come to me and asked me,
+[00:51:29.480 --> 00:51:31.480]   when I pointed them to the evidence,
+[00:51:31.480 --> 00:51:36.480]   that they wouldn't even take time to read that.
+[00:51:36.480 --> 00:51:40.480]   So were you really asking a question?
+[00:51:40.480 --> 00:51:44.480]   You've already come to a conclusion without even searching.
+[00:51:44.480 --> 00:51:48.480]   You've already made the conclusion that Christ is not what you want.
+[00:51:48.480 --> 00:51:51.480]   So even though the Bible says, and God said,
+[00:51:51.480 --> 00:51:54.480]   that He left enough evidence that anybody who is
+[00:51:54.480 --> 00:51:56.480]   searching and asking and knocking,
+[00:51:56.480 --> 00:52:01.480]   He says He left evidence for you at least to come to the conclusion
+[00:52:01.480 --> 00:52:03.480]   that something spectacular must have happened.
+[00:52:03.480 --> 00:52:06.480]   And the most logical, reasonable thing
+[00:52:06.480 --> 00:52:11.480]   is the conclusion that Jesus must have been resurrected from the dead.
+[00:52:11.480 --> 00:52:15.480]   Yet so many people who will never search, ask, and knock
+[00:52:15.480 --> 00:52:17.480]   simply walk away from their faith and say,
+[00:52:17.480 --> 00:52:19.480]   "It doesn't make any sense."
+[00:52:19.480 --> 00:52:20.480]   Well, how do you know it makes any sense?
+[00:52:20.480 --> 00:52:21.480]   How do you know if there's any evidence?
+[00:52:21.480 --> 00:52:25.480]   You've never researched. You've never searched.
+[00:52:25.480 --> 00:52:28.480]   And just as it says in Romans 1 that they suppress the truth
+[00:52:28.480 --> 00:52:32.480]   because they love darkness more than the truth,
+[00:52:32.480 --> 00:52:37.480]   so many nominal Christians will come to a crisis of faith
+[00:52:37.480 --> 00:52:41.480]   and have doubts that they never share with anybody else.
+[00:52:41.480 --> 00:52:44.480]   But you can see it in their life.
+[00:52:44.480 --> 00:52:48.480]   They doubt if this is real, but you can see by the decisions that they make.
+[00:52:48.480 --> 00:52:50.480]   They doubt if God is going to take care of them
+[00:52:50.480 --> 00:52:53.480]   because of the way that they make decisions about finances,
+[00:52:53.480 --> 00:52:55.480]   but they'll never share that.
+[00:52:55.480 --> 00:52:57.480]   They'll live it.
+[00:52:57.480 --> 00:53:00.480]   And they will never pursue because if you pursue this,
+[00:53:00.480 --> 00:53:03.480]   either you will conclude that you don't believe
+[00:53:03.480 --> 00:53:06.480]   and everything that you've built up is destroyed,
+[00:53:06.480 --> 00:53:12.480]   or you will come to the conclusion that this is absolutely true
+[00:53:12.480 --> 00:53:16.480]   and it will destroy your nominal Christian life that you've built up.
+[00:53:16.480 --> 00:53:26.480]   And you can no longer embrace cultural Christianity and be okay.
+[00:53:26.480 --> 00:53:32.480]   Neither option is acceptable to a nominal Christian.
+[00:53:32.480 --> 00:53:37.480]   The question isn't, "Why did John ask?"
+[00:53:37.480 --> 00:53:43.480]   The real question is, "How come more people don't ask?"
+[00:53:43.480 --> 00:53:47.480]   It isn't that John asked to clarify because he's about to give his life.
+[00:53:47.480 --> 00:53:51.480]   I need to be sure that this is the right path.
+[00:53:51.480 --> 00:53:54.480]   But so many people come to that conclusion
+[00:53:54.480 --> 00:53:59.480]   and they're perfectly okay with living with their doubts,
+[00:53:59.480 --> 00:54:05.480]   but they're unwilling to face the consequence of that question.
+[00:54:05.480 --> 00:54:08.480]   Jesus ends this interaction in Luke 7:23 by saying,
+[00:54:08.480 --> 00:54:14.480]   "Blessed is he who does not take offense at me."
+[00:54:14.480 --> 00:54:21.480]   He's reconfirming for John that what is happening to you is ordained.
+[00:54:21.480 --> 00:54:28.480]   You are hated because they've hated me, just like Jesus said.
+[00:54:28.480 --> 00:54:32.480]   They will reject you because they rejected me.
+[00:54:32.480 --> 00:54:36.480]   In fact, over and over again, this was the prophecy given to us clearly
+[00:54:36.480 --> 00:54:41.480]   in Luke 2.34-35, "And Simeon blessed them and said to Mary his mother,
+[00:54:41.480 --> 00:54:46.480]   'Behold, this child is appointed for the fall and rise of many in Israel.'"
+[00:54:46.480 --> 00:54:50.480]   The fall and rise of many in Israel.
+[00:54:50.480 --> 00:54:55.480]   He understood the rise of Israel, but he didn't understand the fall of Israel,
+[00:54:55.480 --> 00:55:01.480]   which was prophesied from the get-go and for a sign to be what? Opposed.
+[00:55:01.480 --> 00:55:05.480]   When Jesus reveals the sign of who he is, he said many will oppose him.
+[00:55:05.480 --> 00:55:07.480]   They will hate him. They will be offended by him.
+[00:55:07.480 --> 00:55:10.480]   "And a sword will pierce even your own soul to the end
+[00:55:10.480 --> 00:55:15.480]   that thoughts from many hearts may be revealed."
+[00:55:15.480 --> 00:55:19.480]   When he is revealed, the opposition will be revealed.
+[00:55:19.480 --> 00:55:23.480]   What's truly in their heart, he says, will be revealed.
+[00:55:23.480 --> 00:55:27.480]   And he will be the cause of the rise and fall of many in Israel.
+[00:55:27.480 --> 00:55:32.480]   1 Peter 2.7-8, Peter says, "This precious value then is for you who believe,
+[00:55:32.480 --> 00:55:36.480]   but for those who disbelieve. The stone which the builders rejected
+[00:55:36.480 --> 00:55:41.480]   became the very cornerstone and a stone of a stumbling and a rock of offense.
+[00:55:41.480 --> 00:55:44.480]   For they stumble because they are disobedient to the word,
+[00:55:44.480 --> 00:55:50.480]   and to this doom they were also appointed."
+[00:55:50.480 --> 00:55:53.480]   That this cornerstone, which the church is built upon,
+[00:55:53.480 --> 00:56:02.480]   is an offense to those who do not recognize him.
+[00:56:02.480 --> 00:56:06.480]   We live in a culture where we try to make Christianity
+[00:56:06.480 --> 00:56:10.480]   as palatable to as many people as possible.
+[00:56:10.480 --> 00:56:15.480]   And you know who hates true Christianity more than anybody else?
+[00:56:15.480 --> 00:56:18.480]   Fake Christians.
+[00:56:18.480 --> 00:56:24.480]   If you read the book of Revelation carefully, the Antichrist figure is a religious figure
+[00:56:24.480 --> 00:56:31.480]   who is going to unite all religious people under his umbrella.
+[00:56:31.480 --> 00:56:37.480]   And the people who oppose that are the ones who have embraced the true gospel
+[00:56:37.480 --> 00:56:42.480]   that is the cause of rise and fall of many.
+[00:56:42.480 --> 00:56:48.480]   And so the greatest opposition is going to come within the church of nominal Christians
+[00:56:48.480 --> 00:56:52.480]   who does not desire to be represented to the world
+[00:56:52.480 --> 00:56:57.480]   by hateful speech of saying Christ is exclusive.
+[00:56:57.480 --> 00:57:00.480]   There's only one way of salvation and his name is Jesus Christ.
+[00:57:00.480 --> 00:57:04.480]   And it is that message that they hate.
+[00:57:04.480 --> 00:57:07.480]   And we have churches after churches, pastors after pastors,
+[00:57:07.480 --> 00:57:13.480]   who are more afraid of the opinion of men than they are of the judgment of God.
+[00:57:13.480 --> 00:57:19.480]   And as a result, we created a Christianity that doesn't look anything like what we see in the scripture.
+[00:57:19.480 --> 00:57:25.480]   Jesus is reaffirming to John the Baptist, "Blessed is he who does not take offense at me."
+[00:57:25.480 --> 00:57:28.480]   In fact, Paul describes his ministry in this way,
+[00:57:28.480 --> 00:57:35.480]   "For we are a fragrance of Christ to God among those who are being saved, among those who are perishing.
+[00:57:35.480 --> 00:57:42.480]   To the one an aroma from death to death, to the other an aroma from life to life.
+[00:57:42.480 --> 00:57:44.480]   Who is adequate for these things?
+[00:57:44.480 --> 00:57:49.480]   For we are not like many, peddling the word of God, but ask from sincerity, but ask from God.
+[00:57:49.480 --> 00:57:53.480]   We speak in Christ, in the sight of God."
+[00:57:53.480 --> 00:57:57.480]   The question is not, "Why did John ask this question?"
+[00:57:57.480 --> 00:58:01.480]   The question is, "Why are we not pursuing this?"
+[00:58:01.480 --> 00:58:04.480]   Are you certain?
+[00:58:04.480 --> 00:58:11.480]   Is the gospel that you embrace worth giving your life for?
+[00:58:11.480 --> 00:58:14.480]   Be honest.
+[00:58:14.480 --> 00:58:18.480]   Have you given your life to be a follower of Jesus Christ?
+[00:58:18.480 --> 00:58:21.480]   Do you just admire him from a distance?
+[00:58:21.480 --> 00:58:26.480]   Do you give praise for other people that seem to be going hard?
+[00:58:26.480 --> 00:58:32.480]   But by the decisions we make, by the life that we choose, by the priorities that we have in life,
+[00:58:32.480 --> 00:58:37.480]   we have crises of faith that we're not dealing with.
+[00:58:37.480 --> 00:58:41.480]   So the challenge this morning is not to figure out why John asked the question,
+[00:58:41.480 --> 00:58:46.480]   because we can clearly understand why John asked the question.
+[00:58:46.480 --> 00:58:51.480]   Jesus said to pick up your cross, and he has his cross on his shoulder.
+[00:58:51.480 --> 00:58:55.480]   He said, "They hated me, so they're going to hate you," so he's experiencing this hate.
+[00:58:55.480 --> 00:59:07.480]   He's about to end his life in ministry, proclaiming Christ, so he needed to know, "Are you the one?"
+[00:59:07.480 --> 00:59:16.480]   How many of us have come to that point and just embraced nominal Christianity?
+[00:59:16.480 --> 00:59:28.480]   How many of us have chosen to embrace mediocrity and blamed our doubt for not giving all to Christ?
+[00:59:28.480 --> 00:59:33.480]   This message of the cross requires us to come to a conclusion.
+[00:59:33.480 --> 00:59:36.480]   Do you believe this?
+[00:59:36.480 --> 00:59:41.480]   If you do, it is worth everything that you have.
+[00:59:41.480 --> 00:59:45.480]   Everything that you have.
+[00:59:45.480 --> 00:59:51.480]   If it cuts your life short, if it ruins your business,
+[00:59:51.480 --> 01:00:00.480]   if you get fired, if you can't get the job, and your life gets cut short,
+[01:00:00.480 --> 01:00:06.480]   it's worth everything that God has called us to sacrifice.
+[01:00:06.480 --> 01:00:09.480]   And that's why we need to be sure.
+[01:00:09.480 --> 01:00:11.480]   That's why we need to be sure.
+[01:00:11.480 --> 01:00:13.480]   Are you sure?
+[01:00:13.480 --> 01:00:16.480]   Are you sure that this is true?
+[01:00:16.480 --> 01:00:20.480]   So I want to conclude with the challenge.
+[01:00:20.480 --> 01:00:24.480]   Not, "Why did John ask the question?"
+[01:00:24.480 --> 01:00:30.480]   Why aren't more people asking, seeking, and knocking?
+[01:00:30.480 --> 01:00:34.480]   That we also may follow the path of Christ.
+[01:00:34.480 --> 01:00:47.480]   Let's pray.
+[01:00:47.480 --> 01:00:53.480]   Father, you are worthy of our praise.
+[01:00:53.480 --> 01:00:59.480]   More than simple lip service, but our very lives.
+[01:00:59.480 --> 01:01:04.480]   Help us, Lord God, to confess and to believe and to practice
+[01:01:04.480 --> 01:01:09.480]   that we have been crucified with Christ.
+[01:01:09.480 --> 01:01:15.480]   It is no longer us that live, but Christ living in us.
+[01:01:15.480 --> 01:01:20.480]   Help us, Lord God, that that may not be empty confession,
+[01:01:20.480 --> 01:01:23.480]   but it would be our very lives, Lord.
+[01:01:23.480 --> 01:01:31.480]   As John gave his life preparing for Christ's path,
+[01:01:31.480 --> 01:01:36.480]   call us, Lord God, as you have planned to the church,
+[01:01:36.480 --> 01:01:39.480]   that the gates of Hades would not be able to prevail against it,
+[01:01:39.480 --> 01:01:43.480]   that we would not live our lives in mediocrity,
+[01:01:43.480 --> 01:01:48.480]   but that we would be a community fully convicted of this truth,
+[01:01:48.480 --> 01:01:53.480]   that wherever you lead us, that we would follow and glorify you.
+[01:01:53.480 --> 01:01:56.480]   In Jesus' name we pray, amen.
+[01:01:56.480 --> 01:02:01.480]   Let's all stand up for the closing praise.
+[01:02:01.480 --> 01:02:26.480]   ♪
+[01:02:26.480 --> 01:02:32.480]   ♪ The grace that leads the sinner home ♪
+[01:02:32.480 --> 01:02:38.480]   ♪ From death to life forever ♪
+[01:02:38.480 --> 01:02:44.480]   ♪ And sings the song of righteousness ♪
+[01:02:44.480 --> 01:03:01.480]   ♪ That matter not by name ♪
+[01:03:01.480 --> 01:03:07.480]   ♪ The grace that reaches far and wide ♪
+[01:03:07.480 --> 01:03:13.480]   ♪ To every tribe and nation ♪
+[01:03:13.480 --> 01:03:19.480]   ♪ Has called my heart to enter in ♪
+[01:03:19.480 --> 01:03:25.480]   ♪ The joy of your salvation ♪
+[01:03:25.480 --> 01:03:30.480]   ♪ By grace I am redeemed ♪
+[01:03:30.480 --> 01:03:35.480]   ♪ By grace I am restored ♪
+[01:03:35.480 --> 01:03:45.480]   ♪ And now I freely walk into the arms of Christ again ♪
+[01:03:45.480 --> 01:03:55.480]   ♪
+[01:03:55.480 --> 01:04:01.480]   ♪ The grace that I could not explain ♪
+[01:04:01.480 --> 01:04:07.480]   ♪ Not by my earthly ways, no ♪
+[01:04:07.480 --> 01:04:13.480]   ♪ But with some light without a stain ♪
+[01:04:13.480 --> 01:04:20.480]   ♪ Was strained for this sin ♪
+[01:04:20.480 --> 01:04:25.480]   ♪ By grace I am redeemed ♪
+[01:04:25.480 --> 01:04:30.480]   ♪ By grace I am restored ♪
+[01:04:30.480 --> 01:04:40.480]   ♪ And now I freely walk into the arms of Christ again ♪
+[01:04:40.480 --> 01:05:03.480]   ♪
+[01:05:03.480 --> 01:05:09.480]   ♪ Let praise rise up and overflow ♪
+[01:05:09.480 --> 01:05:15.480]   ♪ My song resound forevermore ♪
+[01:05:15.480 --> 01:05:21.480]   ♪ For praise will sing the open door ♪
+[01:05:21.480 --> 01:05:28.480]   ♪ To life eternal saved ♪
+[01:05:28.480 --> 01:05:33.480]   ♪ By grace I am redeemed ♪
+[01:05:33.480 --> 01:05:38.480]   ♪ By grace I am restored ♪
+[01:05:38.480 --> 01:05:48.480]   ♪ And now I freely walk into the arms of Christ again ♪
+[01:05:48.480 --> 01:05:53.480]   ♪ By grace I am redeemed ♪
+[01:05:53.480 --> 01:05:58.480]   ♪ By grace I am restored ♪
+[01:05:58.480 --> 01:06:08.480]   ♪ And now I freely walk into the arms of Christ, my Lord ♪
+[01:06:08.480 --> 01:06:20.480]   ♪ And now I freely walk into the arms of Christ, my Lord ♪
+[01:06:20.480 --> 01:06:22.480]   Let's pray.
+[01:06:22.480 --> 01:06:26.480]   Now the grace of our Lord Jesus Christ,
+[01:06:26.480 --> 01:06:29.480]   the fellowship of the Holy Spirit,
+[01:06:29.480 --> 01:06:32.480]   the eternal love of God the Father,
+[01:06:32.480 --> 01:06:37.480]   strengthen, rebuke, encourage, and build up the church
+[01:06:37.480 --> 01:06:41.480]   that we may be the aroma of Christ wherever you send us.
+[01:06:41.480 --> 01:06:43.480]   Amen.
+[01:06:43.480 --> 01:06:48.480]   ♪ God sent his Son ♪
+[01:06:48.480 --> 01:06:53.480]   ♪ They called him Jesus ♪
+[01:06:53.480 --> 01:06:57.480]   ♪ He came to love ♪
+[01:06:57.480 --> 01:07:02.480]   ♪ He went forth to heal ♪
+[01:07:02.480 --> 01:07:06.480]   ♪ He lived and died ♪
+[01:07:06.480 --> 01:07:11.480]   ♪ To buy my pardon ♪
+[01:07:11.480 --> 01:07:20.480]   ♪ An empty grave is there to put my Savior last ♪
+[01:07:20.480 --> 01:07:25.480]   ♪ Because he lives ♪
+[01:07:25.480 --> 01:07:29.480]   ♪ I can face tomorrow ♪
+[01:07:29.480 --> 01:07:34.480]   ♪ Because he lives ♪
+[01:07:34.480 --> 01:07:39.480]   ♪ All fear is gone ♪
+[01:07:39.480 --> 01:07:43.480]   ♪ Because I know ♪
+[01:07:43.480 --> 01:07:48.480]   ♪ He holds the future ♪
+[01:07:48.480 --> 01:07:52.480]   ♪ And life is worth the living ♪
+[01:07:52.480 --> 01:07:58.480]   ♪ Just because he lives ♪
+[01:07:58.480 --> 01:08:01.480]   ♪ He lives ♪
+[01:08:01.480 --> 01:08:06.480]   ♪ He lives ♪
+[01:08:06.480 --> 01:08:09.480]   ♪ He lives ♪
+[01:08:09.480 --> 01:08:12.480]   ♪ He lives ♪
+[01:08:12.480 --> 01:08:15.480]   ♪ He lives ♪
+[01:08:15.480 --> 01:08:18.480]   ♪ He lives ♪
 
