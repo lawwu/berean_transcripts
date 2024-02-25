@@ -1,0 +1,1562 @@
+
+[00:00:00.000 --> 00:00:02.920]   (soft piano music)
+[00:00:02.920 --> 00:00:05.840]   (soft piano music)
+[00:00:05.980 --> 00:00:08.900]   (soft piano music)
+[00:00:08.900 --> 00:00:11.800]   (soft piano music)
+[00:00:11.800 --> 00:00:14.720]   (soft piano music)
+[00:00:14.720 --> 00:00:17.640]   (soft piano music)
+[00:00:17.640 --> 00:00:20.540]   (soft piano music)
+[00:00:20.540 --> 00:00:23.460]   (soft piano music)
+[00:00:23.460 --> 00:00:26.360]   (soft piano music)
+[00:00:26.360 --> 00:00:29.280]   (soft piano music)
+[00:00:29.280 --> 00:00:32.200]   (soft piano music)
+[00:00:32.200 --> 00:00:35.120]   (soft piano music)
+[00:00:35.120 --> 00:00:38.020]   (soft piano music)
+[00:00:38.020 --> 00:00:40.940]   (soft piano music)
+[00:00:40.940 --> 00:00:43.860]   (soft piano music)
+[00:00:43.860 --> 00:00:46.780]   (soft piano music)
+[00:00:46.780 --> 00:00:49.700]   (soft piano music)
+[00:00:49.700 --> 00:00:52.620]   (soft piano music)
+[00:00:53.620 --> 00:00:56.540]   (soft piano music)
+[00:00:56.540 --> 00:00:59.460]   (soft piano music)
+[00:00:59.460 --> 00:01:02.380]   (soft piano music)
+[00:01:02.380 --> 00:01:05.300]   (soft piano music)
+[00:01:05.300 --> 00:01:10.300]   (soft piano music)
+[00:01:10.300 --> 00:01:16.300]   (soft piano music)
+[00:01:16.300 --> 00:01:21.300]   (soft piano music)
+[00:01:21.300 --> 00:01:26.300]   (soft piano music)
+[00:01:26.300 --> 00:01:31.300]   (soft piano music)
+[00:01:31.300 --> 00:01:34.220]   (soft piano music)
+[00:01:34.220 --> 00:01:39.220]   (soft piano music)
+[00:01:39.220 --> 00:01:43.220]   (soft piano music)
+[00:01:43.220 --> 00:01:47.220]   (soft piano music)
+[00:01:47.220 --> 00:01:51.220]   (soft piano music)
+[00:01:51.220 --> 00:01:55.220]   (soft piano music)
+[00:01:55.220 --> 00:01:59.220]   (soft piano music)
+[00:02:00.300 --> 00:02:03.220]   (soft piano music)
+[00:02:03.220 --> 00:02:07.220]   (soft piano music)
+[00:02:07.220 --> 00:02:11.220]   (soft piano music)
+[00:02:11.220 --> 00:02:14.220]   (soft piano music)
+[00:02:14.220 --> 00:02:17.220]   (soft piano music)
+[00:02:17.220 --> 00:02:20.220]   (soft piano music)
+[00:02:20.220 --> 00:02:23.220]   (soft piano music)
+[00:02:23.220 --> 00:02:26.220]   (soft piano music)
+[00:02:26.220 --> 00:02:29.220]   (soft piano music)
+[00:02:29.300 --> 00:02:32.220]   (soft piano music)
+[00:02:32.220 --> 00:02:35.220]   (soft piano music)
+[00:02:35.220 --> 00:02:38.220]   (soft piano music)
+[00:02:38.220 --> 00:02:41.220]   (soft piano music)
+[00:02:41.220 --> 00:02:44.220]   (soft piano music)
+[00:02:44.220 --> 00:02:47.220]   (soft piano music)
+[00:02:47.220 --> 00:02:50.220]   (soft piano music)
+[00:02:50.220 --> 00:02:53.220]   (soft piano music)
+[00:02:53.220 --> 00:02:56.220]   (soft piano music)
+[00:02:56.300 --> 00:02:59.220]   (soft piano music)
+[00:02:59.220 --> 00:03:02.220]   (soft piano music)
+[00:03:02.220 --> 00:03:05.220]   (soft piano music)
+[00:03:05.220 --> 00:03:08.220]   (soft piano music)
+[00:03:08.220 --> 00:03:11.220]   (soft piano music)
+[00:03:11.220 --> 00:03:14.220]   (soft piano music)
+[00:03:14.220 --> 00:03:17.220]   (soft piano music)
+[00:03:17.220 --> 00:03:20.220]   (soft piano music)
+[00:03:20.220 --> 00:03:23.220]   (soft piano music)
+[00:03:23.300 --> 00:03:26.220]   (soft piano music)
+[00:03:26.220 --> 00:03:29.220]   (soft piano music)
+[00:03:29.220 --> 00:03:32.220]   (soft piano music)
+[00:03:32.220 --> 00:03:35.220]   (soft piano music)
+[00:03:35.220 --> 00:03:38.220]   (soft piano music)
+[00:03:38.220 --> 00:03:41.220]   (soft piano music)
+[00:03:41.220 --> 00:03:44.220]   (soft piano music)
+[00:03:44.220 --> 00:03:47.220]   (soft piano music)
+[00:03:47.220 --> 00:03:50.220]   (soft piano music)
+[00:03:50.300 --> 00:03:53.220]   (soft piano music)
+[00:03:53.220 --> 00:03:56.220]   (soft piano music)
+[00:03:56.220 --> 00:03:59.220]   (soft piano music)
+[00:03:59.220 --> 00:04:02.220]   (soft piano music)
+[00:04:02.220 --> 00:04:05.220]   (soft piano music)
+[00:04:05.220 --> 00:04:08.220]   (soft piano music)
+[00:04:08.220 --> 00:04:11.220]   (soft piano music)
+[00:04:11.220 --> 00:04:14.220]   (soft piano music)
+[00:04:14.220 --> 00:04:17.220]   (soft piano music)
+[00:04:17.300 --> 00:04:20.220]   (soft piano music)
+[00:04:20.220 --> 00:04:23.220]   (soft piano music)
+[00:04:23.220 --> 00:04:26.220]   (soft piano music)
+[00:04:26.220 --> 00:04:29.220]   (soft piano music)
+[00:04:29.220 --> 00:04:32.220]   (soft piano music)
+[00:04:32.220 --> 00:04:35.220]   (soft piano music)
+[00:04:35.220 --> 00:04:38.220]   (soft piano music)
+[00:04:38.220 --> 00:04:41.220]   (soft piano music)
+[00:04:41.220 --> 00:04:44.220]   (soft piano music)
+[00:04:44.300 --> 00:04:47.220]   (soft piano music)
+[00:04:47.220 --> 00:04:50.220]   (soft piano music)
+[00:04:50.220 --> 00:04:53.220]   (soft piano music)
+[00:04:53.220 --> 00:04:56.220]   (soft piano music)
+[00:04:56.220 --> 00:04:59.220]   (soft piano music)
+[00:04:59.220 --> 00:05:02.220]   (soft piano music)
+[00:05:02.220 --> 00:05:05.220]   (soft piano music)
+[00:05:05.220 --> 00:05:08.220]   (soft piano music)
+[00:05:08.220 --> 00:05:11.220]   (soft piano music)
+[00:05:11.300 --> 00:05:14.220]   (soft piano music)
+[00:05:14.220 --> 00:05:17.220]   (soft piano music)
+[00:05:17.220 --> 00:05:20.220]   (soft piano music)
+[00:05:20.220 --> 00:05:23.220]   (soft piano music)
+[00:05:23.220 --> 00:05:26.220]   (soft piano music)
+[00:05:26.220 --> 00:05:29.220]   (soft piano music)
+[00:05:29.220 --> 00:05:32.220]   (soft piano music)
+[00:05:32.220 --> 00:05:33.220]   - Good morning, church family.
+[00:05:33.220 --> 00:05:34.220]   Happy Lentist Day.
+[00:05:34.220 --> 00:05:36.220]   We will now begin our service.
+[00:05:39.300 --> 00:05:42.220]   (soft piano music)
+[00:05:42.220 --> 00:05:45.220]   (soft piano music)
+[00:05:45.220 --> 00:05:48.220]   (soft piano music)
+[00:05:48.220 --> 00:05:53.220]   ♪ We were ruined in our sin ♪
+[00:05:53.220 --> 00:05:57.220]   ♪ We were guilty and undone ♪
+[00:05:57.220 --> 00:06:02.220]   ♪ When your love reached out with sovereign hands ♪
+[00:06:02.220 --> 00:06:07.220]   ♪ And beckoned us to come ♪
+[00:06:07.300 --> 00:06:12.220]   ♪ You sought out the wonders ♪
+[00:06:12.220 --> 00:06:17.220]   ♪ Made the radicals comply ♪
+[00:06:17.220 --> 00:06:22.220]   ♪ With the lavishness you welcomed us ♪
+[00:06:22.220 --> 00:06:27.220]   ♪ For you made us your own ♪
+[00:06:27.220 --> 00:06:29.220]   (soft piano music)
+[00:06:29.220 --> 00:06:33.220]   ♪ You have loved us like ♪
+[00:06:33.300 --> 00:06:38.220]   ♪ You love your Son ♪
+[00:06:38.220 --> 00:06:42.220]   ♪ We are raised with Christ ♪
+[00:06:42.220 --> 00:06:47.220]   ♪ Bought by his blood ♪
+[00:06:47.220 --> 00:06:51.220]   ♪ Oh, how great the love ♪
+[00:06:51.220 --> 00:06:56.220]   ♪ That we've been shown ♪
+[00:06:56.220 --> 00:07:01.220]   ♪ We're your children now ♪
+[00:07:01.300 --> 00:07:05.220]   ♪ You've made us your own ♪
+[00:07:05.220 --> 00:07:08.220]   (soft piano music)
+[00:07:08.220 --> 00:07:11.220]   (soft piano music)
+[00:07:11.220 --> 00:07:16.220]   ♪ We are strangers to the world ♪
+[00:07:16.220 --> 00:07:21.220]   ♪ But no strangers to your throne ♪
+[00:07:21.220 --> 00:07:26.220]   ♪ We draw near you now with confidence ♪
+[00:07:26.220 --> 00:07:30.220]   ♪ For all our fears are gone ♪
+[00:07:30.300 --> 00:07:34.220]   ♪ When Christ our King returns ♪
+[00:07:34.220 --> 00:07:39.220]   ♪ We'll meet saints we've never known ♪
+[00:07:39.220 --> 00:07:44.220]   ♪ And forever we will be amazed ♪
+[00:07:44.220 --> 00:07:49.220]   ♪ That you've made us your own ♪
+[00:07:49.220 --> 00:07:51.220]   (soft piano music)
+[00:07:51.220 --> 00:07:55.220]   ♪ You have loved us like ♪
+[00:07:55.300 --> 00:08:00.220]   ♪ You love your Son ♪
+[00:08:00.220 --> 00:08:04.220]   ♪ We are raised with Christ ♪
+[00:08:04.220 --> 00:08:09.220]   ♪ Bought by his blood ♪
+[00:08:09.220 --> 00:08:14.220]   ♪ Oh, how great the love ♪
+[00:08:14.220 --> 00:08:19.220]   ♪ That we've been shown ♪
+[00:08:19.220 --> 00:08:23.220]   ♪ We're your children now ♪
+[00:08:23.300 --> 00:08:28.220]   ♪ You've made us your own ♪
+[00:08:28.220 --> 00:08:32.220]   ♪ You have loved us like ♪
+[00:08:32.220 --> 00:08:37.220]   ♪ You love your Son ♪
+[00:08:37.220 --> 00:08:42.220]   ♪ We are raised with Christ ♪
+[00:08:42.220 --> 00:08:47.220]   ♪ Bought by his blood ♪
+[00:08:47.220 --> 00:08:51.220]   ♪ Oh, how great the love ♪
+[00:08:51.300 --> 00:08:56.220]   ♪ That we've been shown ♪
+[00:08:56.220 --> 00:09:01.220]   ♪ We're your children now ♪
+[00:09:01.220 --> 00:09:05.220]   ♪ We're your children now ♪
+[00:09:05.220 --> 00:09:09.220]   ♪ You've made us your own ♪
+[00:09:09.220 --> 00:09:17.220]   - All right, good morning.
+[00:09:17.220 --> 00:09:19.220]   Welcome to Breen Community Church.
+[00:09:19.300 --> 00:09:24.220]   I think as you guys can see, you notice that we are BAM.
+[00:09:24.220 --> 00:09:26.220]   Our singles ministry is up at a retreat,
+[00:09:26.220 --> 00:09:28.220]   and so they'll be there,
+[00:09:28.220 --> 00:09:29.220]   and they're having their own service there,
+[00:09:29.220 --> 00:09:31.220]   and they'll be coming down this afternoon,
+[00:09:31.220 --> 00:09:34.220]   and that's part of the reason why you'll see less people.
+[00:09:34.220 --> 00:09:37.220]   There's over 220, 230 people up there.
+[00:09:37.220 --> 00:09:39.220]   Was the cafe open?
+[00:09:39.220 --> 00:09:40.220]   Oh, it was open.
+[00:09:40.220 --> 00:09:42.220]   Oh, okay, okay, that's good.
+[00:09:42.220 --> 00:09:43.220]   They were threatening us
+[00:09:43.220 --> 00:09:45.220]   that they didn't have enough workers, so, okay.
+[00:09:45.220 --> 00:09:47.220]   They were able to find more workers.
+[00:09:47.300 --> 00:09:50.220]   We have an announcement from our brother, Teddy,
+[00:09:50.220 --> 00:09:54.220]   for the fundraiser that's coming.
+[00:09:54.220 --> 00:09:55.220]   - Good morning.
+[00:09:55.220 --> 00:09:57.220]   My name's Teddy Shea from the BAM Logistics Team.
+[00:09:57.220 --> 00:09:59.220]   We are happy to announce
+[00:09:59.220 --> 00:10:01.220]   that the Breen Service Auction this year
+[00:10:01.220 --> 00:10:04.220]   is taking place April 21st to April 27th,
+[00:10:04.220 --> 00:10:05.220]   and the proceeds from this year's auction
+[00:10:05.220 --> 00:10:09.220]   is going to the Korean Missions Fund for the summer.
+[00:10:09.220 --> 00:10:10.220]   So just like in past years,
+[00:10:10.220 --> 00:10:12.220]   we're excited to see what sorts of talents,
+[00:10:12.220 --> 00:10:15.220]   what sorts of items, special boxes, baked goods,
+[00:10:15.300 --> 00:10:19.220]   whatever you can think of that will be available for bid.
+[00:10:19.220 --> 00:10:21.220]   Just want to let you know and remind you
+[00:10:21.220 --> 00:10:24.220]   that it's the Breen members only,
+[00:10:24.220 --> 00:10:26.220]   so if you want additional details,
+[00:10:26.220 --> 00:10:29.220]   make sure you check out the Breen members Facebook group.
+[00:10:29.220 --> 00:10:32.220]   So we will be sending out an email later today
+[00:10:32.220 --> 00:10:34.220]   for you to be able to fill out the form
+[00:10:34.220 --> 00:10:36.220]   and add all your details and your pictures.
+[00:10:36.220 --> 00:10:38.220]   Also, note about the pictures.
+[00:10:38.220 --> 00:10:41.220]   If you don't attach a picture, just like last year,
+[00:10:41.300 --> 00:10:45.220]   I may attach a meme instead to represent your item
+[00:10:45.220 --> 00:10:49.220]   if I can't figure out what picture you actually wanted.
+[00:10:49.220 --> 00:10:51.220]   So just letting you all know that.
+[00:10:51.220 --> 00:10:54.220]   Thanks.
+[00:10:54.220 --> 00:10:56.220]   All right, just to give a quick recap,
+[00:10:56.220 --> 00:10:59.220]   those of you who don't know what we do annually,
+[00:10:59.220 --> 00:11:02.220]   we have a service auction, so it can be a product
+[00:11:02.220 --> 00:11:04.220]   or it can be a service or talent
+[00:11:04.220 --> 00:11:06.220]   or even babysitting or whatever it may be,
+[00:11:06.220 --> 00:11:10.220]   and then the church members will bid for that,
+[00:11:10.300 --> 00:11:12.220]   and then the funds that are coming in for that
+[00:11:12.220 --> 00:11:14.220]   will be used for summer missions
+[00:11:14.220 --> 00:11:16.220]   that's going on this summer in Korea,
+[00:11:16.220 --> 00:11:18.220]   just to give you a heads up.
+[00:11:18.220 --> 00:11:20.220]   This week, we have all church praise and prayer,
+[00:11:20.220 --> 00:11:22.220]   so we won't have regular Bible study during the weekday,
+[00:11:22.220 --> 00:11:24.220]   but at 7:30, and again, our theme this year
+[00:11:24.220 --> 00:11:26.220]   is praying in the Spirit,
+[00:11:26.220 --> 00:11:28.220]   and so we really want to encourage you
+[00:11:28.220 --> 00:11:30.220]   that this year, not just leadership,
+[00:11:30.220 --> 00:11:32.220]   but the church as a whole
+[00:11:32.220 --> 00:11:35.220]   really focuses on growing in prayer.
+[00:11:35.220 --> 00:11:37.220]   And so even this Friday, as you come,
+[00:11:37.220 --> 00:11:39.220]   we want to encourage you to prepare to pray,
+[00:11:39.300 --> 00:11:41.220]   not just come to pray,
+[00:11:41.220 --> 00:11:43.220]   but I know there are some people who fast dinner
+[00:11:43.220 --> 00:11:45.220]   or pray over other things,
+[00:11:45.220 --> 00:11:47.220]   or sometimes they'll have a prayer meeting
+[00:11:47.220 --> 00:11:49.220]   even before they come just so that they can have
+[00:11:49.220 --> 00:11:51.220]   a better time of prayer when they come,
+[00:11:51.220 --> 00:11:53.220]   and so we want to encourage you to do your best
+[00:11:53.220 --> 00:11:56.220]   to try to come to that for corporate prayer at 7:30.
+[00:11:56.220 --> 00:11:59.220]   This coming Sunday, not this Sunday,
+[00:11:59.220 --> 00:12:01.220]   but next Sunday, at this time at 9:30,
+[00:12:01.220 --> 00:12:03.220]   bring in babysitting, okay?
+[00:12:03.220 --> 00:12:05.220]   So this is for children
+[00:12:05.220 --> 00:12:07.220]   who are 12 months to 17 months old,
+[00:12:07.300 --> 00:12:09.220]   so there's a new babysitting ministry
+[00:12:09.220 --> 00:12:11.220]   that's going to be happening on the other side,
+[00:12:11.220 --> 00:12:13.220]   and so if you come to the other side of the building,
+[00:12:13.220 --> 00:12:15.220]   there's two glass doors
+[00:12:15.220 --> 00:12:17.220]   that you enter through.
+[00:12:17.220 --> 00:12:19.220]   That's the room that they'll be using,
+[00:12:19.220 --> 00:12:22.220]   so they have, again, cushioned carpet,
+[00:12:22.220 --> 00:12:25.220]   and all the other stuff is being prepared for that.
+[00:12:25.220 --> 00:12:27.220]   So if you have children during this service
+[00:12:27.220 --> 00:12:30.220]   between 12 and 17 months, next Sunday.
+[00:12:30.220 --> 00:12:32.220]   And so if you have any questions about that,
+[00:12:32.220 --> 00:12:34.220]   you can contact Sarah De Los Santos,
+[00:12:34.220 --> 00:12:36.220]   and she'll give you more information about that.
+[00:12:36.300 --> 00:12:38.220]   Next Sunday, at 2 o'clock,
+[00:12:38.220 --> 00:12:40.220]   they're starting their Old Testament survey,
+[00:12:40.220 --> 00:12:42.220]   so if you've signed up for that after lunch,
+[00:12:42.220 --> 00:12:44.220]   come back at 2 o'clock to 3.30,
+[00:12:44.220 --> 00:12:46.220]   and this is a six-weeks course,
+[00:12:46.220 --> 00:12:48.220]   and again, if you haven't taken this,
+[00:12:48.220 --> 00:12:51.220]   it will tremendously help you to understand the Bible,
+[00:12:51.220 --> 00:12:53.220]   so I encourage you to take that class.
+[00:12:53.220 --> 00:12:57.220]   And then finally, on March 9th at 9 a.m.,
+[00:12:57.220 --> 00:12:59.220]   we have all-church cleaning and maintenance day,
+[00:12:59.220 --> 00:13:01.220]   so as I mentioned, more people come out,
+[00:13:01.220 --> 00:13:04.220]   the quicker and more thorough we can clean the church,
+[00:13:04.300 --> 00:13:06.220]   so if you're able to come,
+[00:13:06.220 --> 00:13:08.220]   even if you can just come for a partial part of the day,
+[00:13:08.220 --> 00:13:11.220]   most likely it will last from 9 to maybe about 12 o'clock,
+[00:13:11.220 --> 00:13:13.220]   so you have the rest of the day to do something else,
+[00:13:13.220 --> 00:13:15.220]   so if you can come,
+[00:13:15.220 --> 00:13:17.220]   they'll have a quick meeting to assign you
+[00:13:17.220 --> 00:13:20.220]   to different things that need to be done in the church,
+[00:13:20.220 --> 00:13:22.220]   so if you can come, please sign up for that
+[00:13:22.220 --> 00:13:24.220]   on March 9th at 9 a.m.
+[00:13:24.220 --> 00:13:28.220]   Everything else, I'm just going to refer you to our website.
+[00:13:28.220 --> 00:13:31.220]   Okay, this morning, after our offering,
+[00:13:31.220 --> 00:13:33.220]   after I prayed for our offering,
+[00:13:33.300 --> 00:13:35.220]   and after our praise time,
+[00:13:35.220 --> 00:13:37.220]   our sister Tasha is going to come up,
+[00:13:37.220 --> 00:13:39.220]   and she's going to give her testimony,
+[00:13:39.220 --> 00:13:41.220]   and she'll be baptized this morning,
+[00:13:41.220 --> 00:13:43.220]   so let me pray for us, and again,
+[00:13:43.220 --> 00:13:45.220]   if you are not transitioning to subsplash,
+[00:13:45.220 --> 00:13:47.220]   we encourage you to do that.
+[00:13:47.220 --> 00:13:49.220]   We have one more month.
+[00:13:49.220 --> 00:13:51.220]   We're going to give you a grace period in March,
+[00:13:51.220 --> 00:13:53.220]   and then at the end of March,
+[00:13:53.220 --> 00:13:56.220]   we will no longer be able to accept things through Zelle,
+[00:13:56.220 --> 00:13:58.220]   at least on the main offering,
+[00:13:58.220 --> 00:14:00.220]   or again, our offering box is in the back,
+[00:14:00.220 --> 00:14:02.220]   and there's envelopes there,
+[00:14:02.300 --> 00:14:04.220]   so you can drop off your offering there, all right?
+[00:14:04.220 --> 00:14:06.220]   Let me pray for us.
+[00:14:06.220 --> 00:14:10.220]   Father, we thank you so much
+[00:14:10.220 --> 00:14:12.220]   for the privilege that we have
+[00:14:12.220 --> 00:14:15.220]   to be able to come and call you our Abba Father.
+[00:14:15.220 --> 00:14:18.220]   We especially want to lift up our singles ministry
+[00:14:18.220 --> 00:14:20.220]   as they are up at the retreat,
+[00:14:20.220 --> 00:14:22.220]   and I pray that you will continue
+[00:14:22.220 --> 00:14:24.220]   to bless them and unite them,
+[00:14:24.220 --> 00:14:26.220]   that there will be true fellowship, Lord God,
+[00:14:26.220 --> 00:14:28.220]   where they are partnering together
+[00:14:28.220 --> 00:14:30.220]   for the purpose of your kingdom,
+[00:14:30.300 --> 00:14:33.220]   that your grace truly will be sufficient,
+[00:14:33.220 --> 00:14:35.220]   and that they would be sanctified,
+[00:14:35.220 --> 00:14:38.220]   encouraged, and equipped for every good work, Lord,
+[00:14:38.220 --> 00:14:40.220]   that you have called us to.
+[00:14:40.220 --> 00:14:42.220]   We pray this morning for our offering,
+[00:14:42.220 --> 00:14:44.220]   that you would help us, Lord God,
+[00:14:44.220 --> 00:14:46.220]   to give it to you intentionally, joyfully,
+[00:14:46.220 --> 00:14:48.220]   and may it be multiplied, Lord God,
+[00:14:48.220 --> 00:14:50.220]   that it may be used for your kingdom.
+[00:14:50.220 --> 00:14:52.220]   In Jesus' name we pray. Amen.
+[00:14:53.140 --> 00:14:56.140]   (gentle piano music)
+[00:14:57.060 --> 00:15:01.060]   (gentle piano music continues)
+[00:15:01.980 --> 00:15:05.980]   (gentle piano music continues)
+[00:15:06.900 --> 00:15:10.900]   (gentle piano music continues)
+[00:15:10.900 --> 00:15:27.900]   (gentle piano music continues)
+[00:15:28.820 --> 00:15:32.820]   (gentle piano music continues)
+[00:15:32.820 --> 00:15:49.820]   - Let us all rise as we continue our service,
+[00:15:49.820 --> 00:15:51.820]   but before we do, if we could spend a few moments
+[00:15:51.820 --> 00:15:53.820]   to greet our neighbors.
+[00:15:53.820 --> 00:15:56.820]   (gentle piano music)
+[00:15:57.740 --> 00:16:01.740]   (gentle piano music continues)
+[00:16:01.740 --> 00:16:13.740]   (gentle piano music continues)
+[00:16:13.740 --> 00:16:25.740]   (gentle piano music continues)
+[00:16:26.660 --> 00:16:30.660]   (gentle piano music continues)
+[00:16:30.660 --> 00:16:32.660]   - Let's sing "Old Sovereign God."
+[00:16:32.660 --> 00:16:35.660]   ♪ Old Sovereign God ♪
+[00:16:35.660 --> 00:16:38.660]   ♪ O matchless King ♪
+[00:16:38.660 --> 00:16:40.660]   ♪ The saints adore ♪
+[00:16:40.660 --> 00:16:43.660]   ♪ The angels sing ♪
+[00:16:43.660 --> 00:16:46.660]   ♪ And fall before ♪
+[00:16:46.660 --> 00:16:49.660]   ♪ The throne of grace ♪
+[00:16:49.660 --> 00:16:51.660]   ♪ To you belongs ♪
+[00:16:51.660 --> 00:16:54.660]   ♪ The highest praise ♪
+[00:16:54.740 --> 00:16:57.660]   (gentle piano music)
+[00:16:57.660 --> 00:16:59.660]   ♪ These sufferings ♪
+[00:16:59.660 --> 00:17:02.660]   ♪ This passing time ♪
+[00:17:02.660 --> 00:17:05.660]   ♪ Under your wings ♪
+[00:17:05.660 --> 00:17:08.660]   ♪ I will abide ♪
+[00:17:08.660 --> 00:17:13.660]   ♪ And every enemy shall flee ♪
+[00:17:13.660 --> 00:17:16.660]   ♪ You are my hope ♪
+[00:17:16.660 --> 00:17:19.660]   ♪ And victory ♪
+[00:17:19.660 --> 00:17:21.660]   - Praise the Father.
+[00:17:21.740 --> 00:17:24.660]   ♪ Praise the Father ♪
+[00:17:24.660 --> 00:17:27.660]   ♪ Praise the Son ♪
+[00:17:27.660 --> 00:17:30.660]   ♪ Praise the Spirit ♪
+[00:17:30.660 --> 00:17:32.660]   ♪ Three in one ♪
+[00:17:32.660 --> 00:17:35.660]   ♪ Loathe and power ♪
+[00:17:35.660 --> 00:17:37.660]   ♪ And embrace ♪
+[00:17:37.660 --> 00:17:40.660]   ♪ The name above ♪
+[00:17:40.660 --> 00:17:44.660]   ♪ All other names ♪
+[00:17:44.660 --> 00:17:46.660]   - To the valley.
+[00:17:46.660 --> 00:17:49.660]   ♪ To the valley ♪
+[00:17:49.740 --> 00:17:51.660]   ♪ For my soul ♪
+[00:17:51.660 --> 00:17:54.660]   ♪ Thy great descent ♪
+[00:17:54.660 --> 00:17:57.660]   ♪ Has made me whole ♪
+[00:17:57.660 --> 00:17:59.660]   ♪ Your word by heart ♪
+[00:17:59.660 --> 00:18:02.660]   ♪ Has welcomed home ♪
+[00:18:02.660 --> 00:18:05.660]   ♪ Now peace like water ♪
+[00:18:05.660 --> 00:18:08.660]   ♪ Ever flows ♪
+[00:18:08.660 --> 00:18:11.660]   ♪ Praise the Father ♪
+[00:18:11.660 --> 00:18:13.660]   ♪ Praise the Son ♪
+[00:18:13.660 --> 00:18:16.660]   ♪ Praise the Spirit ♪
+[00:18:16.660 --> 00:18:19.660]   ♪ Three in one ♪
+[00:18:19.660 --> 00:18:22.580]   ♪ Loathe and power ♪
+[00:18:22.580 --> 00:18:24.580]   ♪ And embrace ♪
+[00:18:24.580 --> 00:18:27.580]   ♪ The name above ♪
+[00:18:27.580 --> 00:18:30.580]   ♪ All other names ♪
+[00:18:30.580 --> 00:18:33.580]   ♪ Praise the Father ♪
+[00:18:33.580 --> 00:18:35.580]   ♪ Praise the Son ♪
+[00:18:35.580 --> 00:18:38.580]   ♪ Praise the Spirit ♪
+[00:18:38.580 --> 00:18:41.580]   ♪ Three in one ♪
+[00:18:41.580 --> 00:18:44.580]   ♪ Loathe and power ♪
+[00:18:44.580 --> 00:18:46.580]   ♪ And embrace ♪
+[00:18:46.580 --> 00:18:49.580]   ♪ The name above ♪
+[00:18:49.580 --> 00:18:53.500]   ♪ All other names ♪
+[00:18:53.500 --> 00:18:55.500]   - Yours is.
+[00:18:55.500 --> 00:19:01.500]   ♪ Yours is the kingdom ♪
+[00:19:01.500 --> 00:19:06.500]   ♪ Yours is the power ♪
+[00:19:06.500 --> 00:19:11.500]   ♪ Yours is the glory ♪
+[00:19:11.500 --> 00:19:17.500]   ♪ Forever ♪
+[00:19:17.580 --> 00:19:22.500]   ♪ Yours is the kingdom ♪
+[00:19:22.500 --> 00:19:28.500]   ♪ Yours is the power ♪
+[00:19:28.500 --> 00:19:33.500]   ♪ Yours is the glory ♪
+[00:19:33.500 --> 00:19:39.500]   ♪ Forever ♪
+[00:19:39.500 --> 00:19:43.500]   ♪ Praise the Father ♪
+[00:19:43.500 --> 00:19:46.500]   ♪ Praise the Son ♪
+[00:19:46.580 --> 00:19:49.500]   ♪ Praise the Spirit ♪
+[00:19:49.500 --> 00:19:51.500]   ♪ Three in one ♪
+[00:19:51.500 --> 00:19:54.500]   ♪ Loathe and power ♪
+[00:19:54.500 --> 00:19:56.500]   ♪ And embrace ♪
+[00:19:56.500 --> 00:19:59.500]   ♪ The name above ♪
+[00:19:59.500 --> 00:20:02.500]   ♪ All other names ♪
+[00:20:02.500 --> 00:20:05.500]   ♪ The name above ♪
+[00:20:05.500 --> 00:20:08.500]   ♪ All other names ♪
+[00:20:08.500 --> 00:20:12.500]   - Amen.
+[00:20:12.500 --> 00:20:13.500]   This next song is a new song
+[00:20:13.500 --> 00:20:15.500]   called "Behold Him."
+[00:20:15.580 --> 00:20:16.500]   And as we sing it,
+[00:20:16.500 --> 00:20:17.500]   you will see that
+[00:20:17.500 --> 00:20:18.500]   at the end of each verse
+[00:20:18.500 --> 00:20:19.500]   and chorus
+[00:20:19.500 --> 00:20:22.500]   is a call to behold our God.
+[00:20:22.500 --> 00:20:23.500]   And to behold
+[00:20:23.500 --> 00:20:24.500]   is more than just to notice,
+[00:20:24.500 --> 00:20:26.500]   but it is rather to gaze
+[00:20:26.500 --> 00:20:28.500]   and to look intently upon.
+[00:20:28.500 --> 00:20:29.500]   So as we sing
+[00:20:29.500 --> 00:20:31.500]   about His everlasting nature,
+[00:20:31.500 --> 00:20:32.500]   His humble
+[00:20:32.500 --> 00:20:33.500]   and compassionate love,
+[00:20:33.500 --> 00:20:35.500]   about who He is,
+[00:20:35.500 --> 00:20:36.500]   and His victorious triumph
+[00:20:36.500 --> 00:20:37.500]   over sin
+[00:20:37.500 --> 00:20:38.500]   through His death
+[00:20:38.500 --> 00:20:39.500]   and resurrection,
+[00:20:39.500 --> 00:20:40.500]   may it cause in us
+[00:20:40.500 --> 00:20:41.500]   greater praise
+[00:20:41.500 --> 00:20:43.500]   and honor to Him.
+[00:20:44.420 --> 00:20:47.420]   (gentle piano music)
+[00:20:47.420 --> 00:21:01.420]   ♪ He who was before there was life ♪
+[00:21:01.420 --> 00:21:06.420]   ♪ Walked across the pages of time ♪
+[00:21:06.420 --> 00:21:11.420]   ♪ He who made every living thing ♪
+[00:21:11.500 --> 00:21:15.420]   ♪ Behold Him ♪
+[00:21:15.420 --> 00:21:20.420]   ♪ He who heard humanity's cry ♪
+[00:21:20.420 --> 00:21:24.420]   ♪ Left His throne to wake as a child ♪
+[00:21:24.420 --> 00:21:29.420]   ♪ He became like the least of us ♪
+[00:21:29.420 --> 00:21:32.420]   ♪ Behold Him ♪
+[00:21:32.420 --> 00:21:38.420]   ♪ Jesus, Son of God, Messiah ♪
+[00:21:38.500 --> 00:21:43.420]   ♪ The Lamb, the Roaring Lion ♪
+[00:21:43.420 --> 00:21:47.420]   ♪ Oh, be still ♪
+[00:21:47.420 --> 00:21:50.420]   ♪ And behold Him ♪
+[00:21:50.420 --> 00:21:53.420]   (gentle piano music)
+[00:21:53.420 --> 00:22:04.420]   ♪ He who died with sinners and saints ♪
+[00:22:04.500 --> 00:22:09.420]   ♪ Who healed the blind, the lost, and the lame ♪
+[00:22:09.420 --> 00:22:14.420]   ♪ Even now He is in our midst ♪
+[00:22:14.420 --> 00:22:18.420]   ♪ Behold Him ♪
+[00:22:18.420 --> 00:22:22.420]   ♪ He who chose a criminal's end ♪
+[00:22:22.420 --> 00:22:27.420]   ♪ Made with blood to settle our debt ♪
+[00:22:27.420 --> 00:22:32.420]   ♪ Buried death as He rose to life ♪
+[00:22:32.500 --> 00:22:35.420]   ♪ Behold Him ♪
+[00:22:35.420 --> 00:22:41.420]   ♪ Jesus, Son of God, Messiah ♪
+[00:22:41.420 --> 00:22:46.420]   ♪ The Lamb, the Roaring Lion ♪
+[00:22:46.420 --> 00:22:50.420]   ♪ Oh, be still ♪
+[00:22:50.420 --> 00:22:53.420]   ♪ And behold Him ♪
+[00:22:53.420 --> 00:22:59.420]   ♪ Jesus, Alpha and Omega ♪
+[00:22:59.500 --> 00:23:04.420]   ♪ Our God, the risen Savior ♪
+[00:23:04.420 --> 00:23:08.420]   ♪ Oh, be still ♪
+[00:23:08.420 --> 00:23:11.420]   ♪ And behold Him ♪
+[00:23:11.420 --> 00:23:14.420]   (gentle guitar music)
+[00:23:14.420 --> 00:23:24.420]   ♪ Holy, holy, holy ♪
+[00:23:24.420 --> 00:23:29.420]   ♪ Is the Lord God Almighty ♪
+[00:23:29.420 --> 00:23:33.340]   ♪ Worthy, worthy, worthy ♪
+[00:23:33.340 --> 00:23:38.340]   ♪ To receive all praise ♪
+[00:23:38.340 --> 00:23:42.340]   ♪ Holy, holy, holy ♪
+[00:23:42.340 --> 00:23:47.340]   ♪ Is the Lord God Almighty ♪
+[00:23:47.340 --> 00:23:51.340]   ♪ Worthy, worthy, worthy ♪
+[00:23:51.340 --> 00:23:56.340]   ♪ To receive all praise ♪
+[00:23:56.420 --> 00:24:00.340]   ♪ Holy, holy, holy ♪
+[00:24:00.340 --> 00:24:05.340]   ♪ Is the Lord God Almighty ♪
+[00:24:05.340 --> 00:24:09.340]   ♪ Worthy, worthy, worthy ♪
+[00:24:09.340 --> 00:24:14.340]   ♪ To receive all praise ♪
+[00:24:14.340 --> 00:24:20.340]   ♪ Jesus, Son of God, Messiah ♪
+[00:24:20.340 --> 00:24:25.340]   ♪ The Lamb, the Roaring Lion ♪
+[00:24:25.420 --> 00:24:29.340]   ♪ Oh, be still ♪
+[00:24:29.340 --> 00:24:32.340]   ♪ And behold Him ♪
+[00:24:32.340 --> 00:24:38.340]   ♪ Jesus, Alpha and Omega ♪
+[00:24:38.340 --> 00:24:43.340]   ♪ Our God, the risen Savior ♪
+[00:24:43.340 --> 00:24:47.340]   ♪ Oh, be still ♪
+[00:24:47.340 --> 00:24:51.340]   ♪ And behold Him ♪
+[00:24:51.420 --> 00:24:55.340]   (gentle guitar music)
+[00:24:55.340 --> 00:25:03.340]   - Amen, you may be seated.
+[00:25:03.340 --> 00:25:06.260]   (gentle guitar music)
+[00:25:06.260 --> 00:25:24.260]   - Hello, my name is Tasha.
+[00:25:24.260 --> 00:25:27.260]   I am a student at CSU Long Beach.
+[00:25:27.260 --> 00:25:32.260]   My testimony starts off like a lot of people.
+[00:25:32.340 --> 00:25:34.260]   I grew up going to church,
+[00:25:34.260 --> 00:25:36.260]   serving in the children's ministry,
+[00:25:36.260 --> 00:25:38.260]   going to youth groups and youth camps.
+[00:25:38.260 --> 00:25:40.260]   I was doing all the right things
+[00:25:40.260 --> 00:25:43.260]   and believed that Jesus came down to save us from our sin,
+[00:25:43.260 --> 00:25:45.260]   but it was all just mindless believing.
+[00:25:45.260 --> 00:25:47.260]   I have gotten baptized before,
+[00:25:47.260 --> 00:25:49.260]   the summer between seventh and eighth grade,
+[00:25:49.260 --> 00:25:51.260]   but looking back, I did not truly understand
+[00:25:51.260 --> 00:25:53.260]   what it meant to be baptized
+[00:25:53.260 --> 00:25:56.260]   and the most important factor, I had yet to call Jesus,
+[00:25:56.260 --> 00:25:58.260]   not only my Savior, but Lord over my life.
+[00:25:58.260 --> 00:26:00.260]   High school came and I was constantly trying
+[00:26:00.340 --> 00:26:04.260]   to find things to blame God for and avoiding my own sin.
+[00:26:04.260 --> 00:26:07.260]   I blamed Him for why I didn't have the perfect family
+[00:26:07.260 --> 00:26:10.260]   with two parents, why He let my biological parents give me up,
+[00:26:10.260 --> 00:26:12.260]   money like all of my friends' families did,
+[00:26:12.260 --> 00:26:14.260]   the list goes on.
+[00:26:14.260 --> 00:26:17.260]   I was extremely ungrateful for what God had provided me with,
+[00:26:17.260 --> 00:26:19.260]   allowing me to even grow up
+[00:26:19.260 --> 00:26:21.260]   in a loving home that taught God's word.
+[00:26:21.260 --> 00:26:24.260]   Going to college, God placed wonderful people in my life,
+[00:26:24.260 --> 00:26:27.260]   exemplifying His love and mercy.
+[00:26:27.260 --> 00:26:30.260]   I was learning not only that I needed to have faith
+[00:26:30.260 --> 00:26:33.180]   but also what it means to walk with the Lord
+[00:26:33.180 --> 00:26:35.180]   and surrender all things to Him.
+[00:26:35.180 --> 00:26:37.180]   I was doing all these things
+[00:26:37.180 --> 00:26:39.180]   and wanted to seem like the perfect Christian,
+[00:26:39.180 --> 00:26:41.180]   but in the back of my mind, it still felt artificial.
+[00:26:41.180 --> 00:26:43.180]   However, in my avoidance of self,
+[00:26:43.180 --> 00:26:45.180]   I pushed it back and kept going on.
+[00:26:45.180 --> 00:26:47.180]   I was comfortable with where I was.
+[00:26:47.180 --> 00:26:49.180]   I desired things like relationships,
+[00:26:49.180 --> 00:26:51.180]   praise from peers, money,
+[00:26:51.180 --> 00:26:53.180]   and still cared about what others thought of me
+[00:26:53.180 --> 00:26:55.180]   rather than God.
+[00:26:55.180 --> 00:26:57.180]   I recognized all these things I desired but not of God
+[00:26:57.180 --> 00:27:00.180]   and it was sin, but I still could not completely understand
+[00:27:00.180 --> 00:27:03.100]   or forgive all the terrible things I had done.
+[00:27:03.100 --> 00:27:06.100]   Talking with older sisters in church and AACF,
+[00:27:06.100 --> 00:27:09.100]   I was challenged for the first time in my faith.
+[00:27:09.100 --> 00:27:12.100]   I spent a lot of time reflecting over and asking questions.
+[00:27:12.100 --> 00:27:14.100]   I was finally able to be in the Word,
+[00:27:14.100 --> 00:27:16.100]   not just to gain head knowledge
+[00:27:16.100 --> 00:27:18.100]   for when I'm talking to others,
+[00:27:18.100 --> 00:27:20.100]   but to truly know who God is.
+[00:27:20.100 --> 00:27:22.100]   Romans 3, 23, 24 says,
+[00:27:22.100 --> 00:27:25.100]   "For all have sinned and fall short of the glory of God
+[00:27:25.100 --> 00:27:27.100]   "and all are justified freely by His grace
+[00:27:27.100 --> 00:27:30.100]   "through the freedom that came by Jesus Christ."
+[00:27:30.100 --> 00:27:32.020]   At this point, I was focusing so much
+[00:27:32.020 --> 00:27:35.020]   on how I was a sinner and forgot the whole reason
+[00:27:35.020 --> 00:27:37.020]   God sent down His Son to live on earth
+[00:27:37.020 --> 00:27:39.020]   and eventually die on the cross.
+[00:27:39.020 --> 00:27:41.020]   It was to save us from our sin.
+[00:27:41.020 --> 00:27:43.020]   I had to die to myself and recognize
+[00:27:43.020 --> 00:27:45.020]   how much I needed God.
+[00:27:45.020 --> 00:27:47.020]   As I move on with life, I am constantly learning
+[00:27:47.020 --> 00:27:49.020]   what it means to walk a Christian life
+[00:27:49.020 --> 00:27:51.020]   as a daughter of the Father
+[00:27:51.020 --> 00:27:53.020]   and I can rejoice in His love
+[00:27:53.020 --> 00:27:55.020]   and the promises that He has fulfilled.
+[00:27:55.020 --> 00:27:57.020]   He has shown me so much of my sin
+[00:27:57.020 --> 00:27:59.020]   by constantly humbling me
+[00:27:59.100 --> 00:28:01.020]   to what true confession and repentance is.
+[00:28:01.020 --> 00:28:03.020]   I can say with full confidence
+[00:28:03.020 --> 00:28:05.020]   that my hope is in the Lord
+[00:28:05.020 --> 00:28:07.020]   and He is not only my Savior,
+[00:28:07.020 --> 00:28:09.020]   but Lord over my life.
+[00:28:09.020 --> 00:28:12.020]   [cheers and applause]
+[00:28:12.020 --> 00:28:14.940]   [cheers and applause]
+[00:28:15.860 --> 00:28:18.860]   [cheers and applause]
+[00:28:18.860 --> 00:28:21.780]   [cheers and applause]
+[00:28:21.780 --> 00:28:24.780]   [cheers and applause]
+[00:28:24.780 --> 00:28:27.780]   [cheers and applause]
+[00:28:27.780 --> 00:28:30.780]   [cheers and applause]
+[00:28:30.780 --> 00:28:33.780]   [cheers and applause]
+[00:28:33.780 --> 00:28:36.780]   [cheers and applause]
+[00:28:36.780 --> 00:28:39.780]   [cheers and applause]
+[00:28:39.780 --> 00:28:42.780]   [cheers and applause]
+[00:28:42.780 --> 00:28:45.780]   [cheers and applause]
+[00:28:45.860 --> 00:28:48.780]   [cheers and applause]
+[00:28:48.780 --> 00:28:51.780]   [cheers and applause]
+[00:28:51.780 --> 00:28:54.780]   [cheers and applause]
+[00:28:54.780 --> 00:28:57.780]   [cheers and applause]
+[00:28:57.780 --> 00:29:00.780]   [cheers and applause]
+[00:29:00.780 --> 00:29:03.780]   [cheers and applause]
+[00:29:03.780 --> 00:29:06.780]   [cheers and applause]
+[00:29:06.780 --> 00:29:09.780]   [cheers and applause]
+[00:29:09.780 --> 00:29:12.780]   [cheers and applause]
+[00:29:12.860 --> 00:29:15.780]   [cheers and applause]
+[00:29:15.780 --> 00:29:18.780]   [cheers and applause]
+[00:29:18.780 --> 00:29:21.780]   [cheers and applause]
+[00:29:21.780 --> 00:29:24.780]   [cheers and applause]
+[00:29:24.780 --> 00:29:27.780]   [cheers and applause]
+[00:29:27.780 --> 00:29:30.780]   [cheers and applause]
+[00:29:30.780 --> 00:29:33.780]   [cheers and applause]
+[00:29:33.780 --> 00:29:36.780]   [cheers and applause]
+[00:29:36.780 --> 00:29:39.780]   [cheers and applause]
+[00:29:39.860 --> 00:29:42.780]   [cheers and applause]
+[00:29:42.780 --> 00:29:45.780]   [cheers and applause]
+[00:29:45.780 --> 00:29:48.780]   [cheers and applause]
+[00:29:48.780 --> 00:29:51.780]   [cheers and applause]
+[00:29:51.780 --> 00:29:54.780]   [cheers and applause]
+[00:29:54.780 --> 00:29:57.780]   [cheers and applause]
+[00:29:57.780 --> 00:30:00.780]   [cheers and applause]
+[00:30:00.780 --> 00:30:03.780]   [cheers and applause]
+[00:30:03.780 --> 00:30:06.780]   [cheers and applause]
+[00:30:06.860 --> 00:30:09.780]   [cheers and applause]
+[00:30:09.780 --> 00:30:12.780]   [cheers and applause]
+[00:30:12.780 --> 00:30:15.780]   [cheers and applause]
+[00:30:15.780 --> 00:30:18.780]   [cheers and applause]
+[00:30:18.780 --> 00:30:21.780]   [cheers and applause]
+[00:30:21.780 --> 00:30:24.780]   [cheers and applause]
+[00:30:24.780 --> 00:30:27.780]   [cheers and applause]
+[00:30:27.780 --> 00:30:30.780]   [cheers and applause]
+[00:30:30.780 --> 00:30:33.780]   [cheers and applause]
+[00:30:33.860 --> 00:30:36.780]   [cheers and applause]
+[00:30:36.780 --> 00:30:39.780]   [cheers and applause]
+[00:30:39.780 --> 00:30:42.780]   [cheers and applause]
+[00:30:42.780 --> 00:30:45.780]   [cheers and applause]
+[00:30:45.780 --> 00:30:48.780]   [cheers and applause]
+[00:30:48.780 --> 00:30:51.780]   [cheers and applause]
+[00:30:51.780 --> 00:30:54.780]   [cheers and applause]
+[00:30:54.780 --> 00:30:57.780]   [cheers and applause]
+[00:30:57.780 --> 00:31:00.780]   [cheers and applause]
+[00:31:00.860 --> 00:31:03.780]   [cheers and applause]
+[00:31:03.780 --> 00:31:06.780]   [cheers and applause]
+[00:31:06.780 --> 00:31:09.780]   [cheers and applause]
+[00:31:09.780 --> 00:31:12.780]   [cheers and applause]
+[00:31:12.780 --> 00:31:15.780]   [cheers and applause]
+[00:31:15.780 --> 00:31:18.780]   [cheers and applause]
+[00:31:18.780 --> 00:31:21.780]   [cheers and applause]
+[00:31:21.780 --> 00:31:24.780]   [cheers and applause]
+[00:31:24.780 --> 00:31:27.780]   [cheers and applause]
+[00:31:27.860 --> 00:31:30.780]   [cheers and applause]
+[00:31:30.780 --> 00:31:33.780]   [cheers and applause]
+[00:31:33.780 --> 00:31:36.780]   [cheers and applause]
+[00:31:36.780 --> 00:31:39.780]   [cheers and applause]
+[00:31:39.780 --> 00:31:42.780]   [cheers and applause]
+[00:31:42.780 --> 00:31:45.780]   [cheers and applause]
+[00:31:45.780 --> 00:31:48.780]   [cheers and applause]
+[00:31:48.780 --> 00:31:51.780]   [cheers and applause]
+[00:31:51.780 --> 00:31:54.780]   [cheers and applause]
+[00:31:54.860 --> 00:31:57.780]   [cheers and applause]
+[00:31:57.780 --> 00:32:00.780]   [cheers and applause]
+[00:32:00.780 --> 00:32:03.780]   [cheers and applause]
+[00:32:03.780 --> 00:32:06.780]   [cheers and applause]
+[00:32:06.780 --> 00:32:09.780]   [cheers and applause]
+[00:32:09.780 --> 00:32:12.780]   [cheers and applause]
+[00:32:12.780 --> 00:32:15.780]   [cheers and applause]
+[00:32:15.780 --> 00:32:18.780]   [cheers and applause]
+[00:32:18.780 --> 00:32:21.780]   [cheers and applause]
+[00:32:21.860 --> 00:32:24.780]   [cheers and applause]
+[00:32:24.780 --> 00:32:27.780]   [cheers and applause]
+[00:32:27.780 --> 00:32:30.780]   [cheers and applause]
+[00:32:30.780 --> 00:32:33.780]   [cheers and applause]
+[00:32:33.780 --> 00:32:36.780]   [cheers and applause]
+[00:32:36.780 --> 00:32:39.780]   [cheers and applause]
+[00:32:39.780 --> 00:32:42.780]   [cheers and applause]
+[00:32:42.780 --> 00:32:45.780]   [cheers and applause]
+[00:32:45.780 --> 00:32:48.780]   [cheers and applause]
+[00:32:48.860 --> 00:32:51.780]   [cheers and applause]
+[00:32:51.780 --> 00:32:54.780]   [cheers and applause]
+[00:32:54.780 --> 00:32:57.780]   [cheers and applause]
+[00:32:57.780 --> 00:33:00.780]   [cheers and applause]
+[00:33:00.780 --> 00:33:03.780]   [cheers and applause]
+[00:33:03.780 --> 00:33:06.780]   [cheers and applause]
+[00:33:06.780 --> 00:33:09.780]   [cheers and applause]
+[00:33:09.780 --> 00:33:12.780]   [cheers and applause]
+[00:33:12.780 --> 00:33:15.780]   [cheers and applause]
+[00:33:15.860 --> 00:33:18.780]   [cheers and applause]
+[00:33:18.780 --> 00:33:21.780]   [cheers and applause]
+[00:33:21.780 --> 00:33:24.780]   [cheers and applause]
+[00:33:24.780 --> 00:33:27.780]   [cheers and applause]
+[00:33:27.780 --> 00:33:30.780]   [cheers and applause]
+[00:33:30.780 --> 00:33:33.780]   [cheers and applause]
+[00:33:33.780 --> 00:33:36.780]   [cheers and applause]
+[00:33:36.780 --> 00:33:39.780]   [cheers and applause]
+[00:33:39.780 --> 00:33:42.780]   [cheers and applause]
+[00:33:42.860 --> 00:33:45.780]   [cheers and applause]
+[00:33:45.780 --> 00:33:48.780]   [cheers and applause]
+[00:33:48.780 --> 00:33:51.780]   [cheers and applause]
+[00:33:51.780 --> 00:33:54.780]   [cheers and applause]
+[00:33:54.780 --> 00:33:57.780]   [cheers and applause]
+[00:33:57.780 --> 00:34:00.780]   [cheers and applause]
+[00:34:00.780 --> 00:34:03.780]   [cheers and applause]
+[00:34:03.780 --> 00:34:06.780]   [cheers and applause]
+[00:34:06.780 --> 00:34:09.780]   [cheers and applause]
+[00:34:09.860 --> 00:34:12.780]   [cheers and applause]
+[00:34:12.780 --> 00:34:15.780]   [cheers and applause]
+[00:34:15.780 --> 00:34:18.780]   [cheers and applause]
+[00:34:18.780 --> 00:34:21.780]   [cheers and applause]
+[00:34:21.780 --> 00:34:24.780]   [cheers and applause]
+[00:34:24.780 --> 00:34:27.780]   [cheers and applause]
+[00:34:27.780 --> 00:34:30.780]   [cheers and applause]
+[00:34:30.780 --> 00:34:33.780]   [cheers and applause]
+[00:34:33.780 --> 00:34:36.780]   [cheers and applause]
+[00:34:36.860 --> 00:34:39.780]   [cheers and applause]
+[00:34:39.780 --> 00:34:42.780]   [cheers and applause]
+[00:34:42.780 --> 00:34:45.780]   [cheers and applause]
+[00:34:45.780 --> 00:34:48.780]   [cheers and applause]
+[00:34:48.780 --> 00:34:51.780]   [cheers and applause]
+[00:34:51.780 --> 00:34:54.780]   [cheers and applause]
+[00:34:54.780 --> 00:34:57.780]   [cheers and applause]
+[00:34:57.780 --> 00:35:00.780]   [cheers and applause]
+[00:35:00.780 --> 00:35:03.780]   [cheers and applause]
+[00:35:03.860 --> 00:35:06.780]   [cheers and applause]
+[00:35:06.780 --> 00:35:09.780]   [cheers and applause]
+[00:35:09.780 --> 00:35:12.780]   [cheers and applause]
+[00:35:12.780 --> 00:35:15.780]   [cheers and applause]
+[00:35:15.780 --> 00:35:18.780]   [cheers and applause]
+[00:35:18.780 --> 00:35:21.780]   [cheers and applause]
+[00:35:21.780 --> 00:35:24.780]   [cheers and applause]
+[00:35:24.780 --> 00:35:27.780]   [cheers and applause]
+[00:35:27.780 --> 00:35:30.780]   [cheers and applause]
+[00:35:30.860 --> 00:35:33.780]   [cheers and applause]
+[00:35:33.780 --> 00:35:36.780]   [cheers and applause]
+[00:35:36.780 --> 00:35:39.780]   [cheers and applause]
+[00:35:39.780 --> 00:35:42.780]   [cheers and applause]
+[00:35:42.780 --> 00:35:45.780]   [cheers and applause]
+[00:35:45.780 --> 00:35:48.780]   [cheers and applause]
+[00:35:48.780 --> 00:35:51.780]   [cheers and applause]
+[00:35:51.780 --> 00:35:54.780]   [cheers and applause]
+[00:35:54.780 --> 00:35:57.780]   [cheers and applause]
+[00:35:57.860 --> 00:36:00.780]   [cheers and applause]
+[00:36:00.780 --> 00:36:03.780]   [cheers and applause]
+[00:36:03.780 --> 00:36:06.780]   [cheers and applause]
+[00:36:06.780 --> 00:36:09.780]   [cheers and applause]
+[00:36:09.780 --> 00:36:12.780]   [cheers and applause]
+[00:36:12.780 --> 00:36:15.780]   [cheers and applause]
+[00:36:15.780 --> 00:36:18.780]   [cheers and applause]
+[00:36:18.780 --> 00:36:21.780]   [cheers and applause]
+[00:36:21.780 --> 00:36:24.780]   [cheers and applause]
+[00:36:24.860 --> 00:36:27.780]   [cheers and applause]
+[00:36:27.780 --> 00:36:30.780]   [cheers and applause]
+[00:36:30.780 --> 00:36:33.780]   [cheers and applause]
+[00:36:33.780 --> 00:36:36.780]   [cheers and applause]
+[00:36:36.780 --> 00:36:39.780]   [cheers and applause]
+[00:36:39.780 --> 00:36:42.780]   [cheers and applause]
+[00:36:42.780 --> 00:36:45.780]   [cheers and applause]
+[00:36:45.780 --> 00:36:48.780]   [cheers and applause]
+[00:36:48.780 --> 00:36:51.780]   [cheers and applause]
+[00:36:51.860 --> 00:36:54.780]   [cheers and applause]
+[00:36:54.780 --> 00:36:57.780]   [cheers and applause]
+[00:36:57.780 --> 00:37:00.780]   [cheers and applause]
+[00:37:00.780 --> 00:37:03.780]   [cheers and applause]
+[00:37:03.780 --> 00:37:06.780]   [cheers and applause]
+[00:37:06.780 --> 00:37:09.780]   [cheers and applause]
+[00:37:09.780 --> 00:37:12.780]   [cheers and applause]
+[00:37:12.780 --> 00:37:15.780]   [cheers and applause]
+[00:37:15.780 --> 00:37:18.780]   [cheers and applause]
+[00:37:18.860 --> 00:37:21.780]   [cheers and applause]
+[00:37:21.780 --> 00:37:24.780]   [cheers and applause]
+[00:37:24.780 --> 00:37:27.780]   [cheers and applause]
+[00:37:27.780 --> 00:37:30.780]   [cheers and applause]
+[00:37:30.780 --> 00:37:33.780]   [cheers and applause]
+[00:37:33.780 --> 00:37:36.780]   [cheers and applause]
+[00:37:36.780 --> 00:37:39.780]   [cheers and applause]
+[00:37:39.780 --> 00:37:42.780]   [cheers and applause]
+[00:37:42.780 --> 00:37:45.780]   [cheers and applause]
+[00:37:45.860 --> 00:37:48.780]   [cheers and applause]
+[00:37:48.780 --> 00:37:51.780]   [cheers and applause]
+[00:37:51.780 --> 00:37:54.780]   [cheers and applause]
+[00:37:54.780 --> 00:37:57.780]   [cheers and applause]
+[00:37:57.780 --> 00:38:00.780]   [cheers and applause]
+[00:38:00.780 --> 00:38:03.780]   [cheers and applause]
+[00:38:03.780 --> 00:38:06.780]   [cheers and applause]
+[00:38:06.780 --> 00:38:09.780]   [cheers and applause]
+[00:38:09.780 --> 00:38:12.780]   [cheers and applause]
+[00:38:12.860 --> 00:38:15.780]   [cheers and applause]
+[00:38:15.780 --> 00:38:18.780]   [cheers and applause]
+[00:38:18.780 --> 00:38:21.780]   [cheers and applause]
+[00:38:21.780 --> 00:38:24.780]   [cheers and applause]
+[00:38:24.780 --> 00:38:27.780]   [cheers and applause]
+[00:38:27.780 --> 00:38:30.780]   [cheers and applause]
+[00:38:30.780 --> 00:38:33.780]   [cheers and applause]
+[00:38:33.780 --> 00:38:36.780]   [cheers and applause]
+[00:38:36.780 --> 00:38:39.780]   [cheers and applause]
+[00:38:39.860 --> 00:38:42.780]   [cheers and applause]
+[00:38:42.780 --> 00:38:45.780]   [cheers and applause]
+[00:38:45.780 --> 00:38:48.780]   [cheers and applause]
+[00:38:48.780 --> 00:38:51.780]   [cheers and applause]
+[00:38:51.780 --> 00:38:54.780]   [cheers and applause]
+[00:38:54.780 --> 00:38:57.780]   [cheers and applause]
+[00:38:57.780 --> 00:39:00.780]   [cheers and applause]
+[00:39:00.780 --> 00:39:03.780]   [cheers and applause]
+[00:39:03.780 --> 00:39:06.780]   [cheers and applause]
+[00:39:06.860 --> 00:39:09.780]   [cheers and applause]
+[00:39:09.780 --> 00:39:12.780]   [cheers and applause]
+[00:39:12.780 --> 00:39:15.780]   [cheers and applause]
+[00:39:15.780 --> 00:39:18.780]   [cheers and applause]
+[00:39:18.780 --> 00:39:21.780]   [cheers and applause]
+[00:39:21.780 --> 00:39:24.780]   [cheers and applause]
+[00:39:24.780 --> 00:39:27.780]   [cheers and applause]
+[00:39:27.780 --> 00:39:30.780]   [cheers and applause]
+[00:39:30.780 --> 00:39:33.780]   [cheers and applause]
+[00:39:33.860 --> 00:39:36.780]   [cheers and applause]
+[00:39:36.780 --> 00:39:39.780]   [cheers and applause]
+[00:39:39.780 --> 00:39:42.780]   [cheers and applause]
+[00:39:42.780 --> 00:39:45.780]   [cheers and applause]
+[00:39:45.780 --> 00:39:48.780]   [cheers and applause]
+[00:39:48.780 --> 00:39:51.780]   [cheers and applause]
+[00:39:51.780 --> 00:39:54.780]   [cheers and applause]
+[00:39:54.780 --> 00:39:57.780]   [cheers and applause]
+[00:39:57.780 --> 00:40:00.780]   [cheers and applause]
+[00:40:00.860 --> 00:40:03.780]   [cheers and applause]
+[00:40:03.780 --> 00:40:06.780]   [cheers and applause]
+[00:40:06.780 --> 00:40:09.780]   [cheers and applause]
+[00:40:09.780 --> 00:40:12.780]   [cheers and applause]
+[00:40:12.780 --> 00:40:15.780]   [cheers and applause]
+[00:40:15.780 --> 00:40:18.780]   [cheers and applause]
+[00:40:18.780 --> 00:40:21.780]   [cheers and applause]
+[00:40:21.780 --> 00:40:24.780]   [cheers and applause]
+[00:40:24.780 --> 00:40:27.780]   [cheers and applause]
+[00:40:27.860 --> 00:40:30.780]   [cheers and applause]
+[00:40:30.780 --> 00:40:33.780]   [cheers and applause]
+[00:40:33.780 --> 00:40:36.780]   [cheers and applause]
+[00:40:36.780 --> 00:40:39.780]   [cheers and applause]
+[00:40:39.780 --> 00:40:42.780]   [cheers and applause]
+[00:40:42.780 --> 00:40:45.780]   [cheers and applause]
+[00:40:45.780 --> 00:40:48.780]   [cheers and applause]
+[00:40:48.780 --> 00:40:51.780]   [cheers and applause]
+[00:40:51.780 --> 00:40:54.780]   [cheers and applause]
+[00:40:54.860 --> 00:40:57.780]   [cheers and applause]
+[00:40:57.780 --> 00:41:00.780]   [cheers and applause]
+[00:41:00.780 --> 00:41:03.780]   [cheers and applause]
+[00:41:03.780 --> 00:41:06.780]   [cheers and applause]
+[00:41:06.780 --> 00:41:09.780]   [cheers and applause]
+[00:41:09.780 --> 00:41:12.780]   [cheers and applause]
+[00:41:12.780 --> 00:41:15.780]   [cheers and applause]
+[00:41:15.780 --> 00:41:18.780]   [cheers and applause]
+[00:41:18.780 --> 00:41:21.780]   [cheers and applause]
+[00:41:21.860 --> 00:41:24.780]   [cheers and applause]
+[00:41:24.780 --> 00:41:27.780]   [cheers and applause]
+[00:41:27.780 --> 00:41:30.780]   [cheers and applause]
+[00:41:30.780 --> 00:41:33.780]   [cheers and applause]
+[00:41:33.780 --> 00:41:36.780]   [cheers and applause]
+[00:41:36.780 --> 00:41:39.780]   [cheers and applause]
+[00:41:39.780 --> 00:41:42.780]   [cheers and applause]
+[00:41:42.780 --> 00:41:45.780]   [cheers and applause]
+[00:41:45.780 --> 00:41:48.780]   [cheers and applause]
+[00:41:48.860 --> 00:41:51.780]   [cheers and applause]
+[00:41:51.780 --> 00:41:54.780]   [cheers and applause]
+[00:41:54.780 --> 00:41:57.780]   [cheers and applause]
+[00:41:57.780 --> 00:42:00.780]   [cheers and applause]
+[00:42:00.780 --> 00:42:03.780]   [cheers and applause]
+[00:42:03.780 --> 00:42:06.780]   [cheers and applause]
+[00:42:06.780 --> 00:42:09.780]   [cheers and applause]
+[00:42:09.780 --> 00:42:12.780]   [cheers and applause]
+[00:42:12.780 --> 00:42:15.780]   [cheers and applause]
+[00:42:15.860 --> 00:42:18.780]   [cheers and applause]
+[00:42:18.780 --> 00:42:21.780]   [cheers and applause]
+[00:42:21.780 --> 00:42:24.780]   [cheers and applause]
+[00:42:24.780 --> 00:42:27.780]   [cheers and applause]
+[00:42:27.780 --> 00:42:30.780]   [cheers and applause]
+[00:42:30.780 --> 00:42:33.780]   [cheers and applause]
+[00:42:33.780 --> 00:42:36.780]   [cheers and applause]
+[00:42:36.780 --> 00:42:39.780]   [cheers and applause]
+[00:42:39.780 --> 00:42:42.780]   [cheers and applause]
+[00:42:42.860 --> 00:42:45.780]   [cheers and applause]
+[00:42:45.780 --> 00:42:48.780]   [cheers and applause]
+[00:42:48.780 --> 00:42:51.780]   [cheers and applause]
+[00:42:51.780 --> 00:42:54.780]   [cheers and applause]
+[00:42:54.780 --> 00:42:57.780]   [cheers and applause]
+[00:42:57.780 --> 00:43:00.780]   [cheers and applause]
+[00:43:00.780 --> 00:43:03.780]   [cheers and applause]
+[00:43:03.780 --> 00:43:06.780]   [cheers and applause]
+[00:43:06.780 --> 00:43:09.780]   [cheers and applause]
+[00:43:09.860 --> 00:43:12.780]   [cheers and applause]
+[00:43:12.780 --> 00:43:15.780]   [cheers and applause]
+[00:43:15.780 --> 00:43:18.780]   [cheers and applause]
+[00:43:18.780 --> 00:43:21.780]   [cheers and applause]
+[00:43:21.780 --> 00:43:24.780]   [cheers and applause]
+[00:43:24.780 --> 00:43:27.780]   [cheers and applause]
+[00:43:27.780 --> 00:43:30.780]   [cheers and applause]
+[00:43:30.780 --> 00:43:33.780]   [cheers and applause]
+[00:43:33.780 --> 00:43:36.780]   [cheers and applause]
+[00:43:36.860 --> 00:43:39.780]   [cheers and applause]
+[00:43:39.780 --> 00:43:42.780]   [cheers and applause]
+[00:43:42.780 --> 00:43:45.780]   [cheers and applause]
+[00:43:45.780 --> 00:43:48.780]   [cheers and applause]
+[00:43:48.780 --> 00:43:51.780]   [cheers and applause]
+[00:43:51.780 --> 00:43:54.780]   [cheers and applause]
+[00:43:54.780 --> 00:43:57.780]   [cheers and applause]
+[00:43:57.780 --> 00:44:00.780]   [cheers and applause]
+[00:44:00.780 --> 00:44:03.780]   [cheers and applause]
+[00:44:03.860 --> 00:44:06.780]   [cheers and applause]
+[00:44:06.780 --> 00:44:09.780]   [cheers and applause]
+[00:44:09.780 --> 00:44:12.780]   [cheers and applause]
+[00:44:12.780 --> 00:44:15.780]   [cheers and applause]
+[00:44:15.780 --> 00:44:18.780]   [cheers and applause]
+[00:44:18.780 --> 00:44:21.780]   [cheers and applause]
+[00:44:21.780 --> 00:44:24.780]   [cheers and applause]
+[00:44:24.780 --> 00:44:27.780]   [cheers and applause]
+[00:44:27.780 --> 00:44:30.780]   [cheers and applause]
+[00:44:30.860 --> 00:44:33.780]   [cheers and applause]
+[00:44:33.780 --> 00:44:36.780]   [cheers and applause]
+[00:44:36.780 --> 00:44:39.780]   [cheers and applause]
+[00:44:39.780 --> 00:44:42.780]   [cheers and applause]
+[00:44:42.780 --> 00:44:45.780]   [cheers and applause]
+[00:44:45.780 --> 00:44:48.780]   [cheers and applause]
+[00:44:48.780 --> 00:44:51.780]   [cheers and applause]
+[00:44:51.780 --> 00:44:54.780]   [cheers and applause]
+[00:44:54.780 --> 00:44:57.780]   [cheers and applause]
+[00:44:57.860 --> 00:45:00.780]   [cheers and applause]
+[00:45:00.780 --> 00:45:03.780]   [cheers and applause]
+[00:45:03.780 --> 00:45:06.780]   [cheers and applause]
+[00:45:06.780 --> 00:45:09.780]   [cheers and applause]
+[00:45:09.780 --> 00:45:12.780]   [cheers and applause]
+[00:45:12.780 --> 00:45:15.780]   [cheers and applause]
+[00:45:15.780 --> 00:45:18.780]   [cheers and applause]
+[00:45:18.780 --> 00:45:21.780]   [cheers and applause]
+[00:45:21.780 --> 00:45:24.780]   [cheers and applause]
+[00:45:24.860 --> 00:45:27.780]   [cheers and applause]
+[00:45:27.780 --> 00:45:30.780]   [cheers and applause]
+[00:45:30.780 --> 00:45:33.780]   [cheers and applause]
+[00:45:33.780 --> 00:45:36.780]   [cheers and applause]
+[00:45:36.780 --> 00:45:39.780]   [cheers and applause]
+[00:45:39.780 --> 00:45:42.780]   [cheers and applause]
+[00:45:42.780 --> 00:45:45.780]   [cheers and applause]
+[00:45:45.780 --> 00:45:48.780]   [cheers and applause]
+[00:45:48.780 --> 00:45:51.780]   [cheers and applause]
+[00:45:51.860 --> 00:45:54.780]   [cheers and applause]
+[00:45:54.780 --> 00:45:57.780]   [cheers and applause]
+[00:45:57.780 --> 00:46:00.780]   [cheers and applause]
+[00:46:00.780 --> 00:46:03.780]   [cheers and applause]
+[00:46:03.780 --> 00:46:06.780]   [cheers and applause]
+[00:46:06.780 --> 00:46:09.780]   [cheers and applause]
+[00:46:09.780 --> 00:46:12.780]   [cheers and applause]
+[00:46:12.780 --> 00:46:15.780]   [cheers and applause]
+[00:46:15.780 --> 00:46:18.780]   [cheers and applause]
+[00:46:18.860 --> 00:46:21.780]   [cheers and applause]
+[00:46:21.780 --> 00:46:24.780]   [cheers and applause]
+[00:46:24.780 --> 00:46:27.780]   [cheers and applause]
+[00:46:27.780 --> 00:46:30.780]   [cheers and applause]
+[00:46:30.780 --> 00:46:33.780]   [cheers and applause]
+[00:46:33.780 --> 00:46:36.780]   [cheers and applause]
+[00:46:36.780 --> 00:46:39.780]   [cheers and applause]
+[00:46:39.780 --> 00:46:42.780]   [cheers and applause]
+[00:46:42.780 --> 00:46:45.780]   [cheers and applause]
+[00:46:45.860 --> 00:46:48.780]   [cheers and applause]
+[00:46:48.780 --> 00:46:51.780]   [cheers and applause]
+[00:46:51.780 --> 00:46:54.780]   [cheers and applause]
+[00:46:54.780 --> 00:46:57.780]   [cheers and applause]
+[00:46:57.780 --> 00:47:00.780]   [cheers and applause]
+[00:47:00.780 --> 00:47:03.780]   [cheers and applause]
+[00:47:03.780 --> 00:47:06.780]   [cheers and applause]
+[00:47:06.780 --> 00:47:09.780]   [cheers and applause]
+[00:47:09.780 --> 00:47:12.780]   [cheers and applause]
+[00:47:12.860 --> 00:47:15.780]   [cheers and applause]
+[00:47:15.780 --> 00:47:18.780]   [cheers and applause]
+[00:47:18.780 --> 00:47:21.780]   [cheers and applause]
+[00:47:21.780 --> 00:47:24.780]   [cheers and applause]
+[00:47:24.780 --> 00:47:27.780]   [cheers and applause]
+[00:47:27.780 --> 00:47:30.780]   [cheers and applause]
+[00:47:30.780 --> 00:47:33.780]   [cheers and applause]
+[00:47:33.780 --> 00:47:36.780]   [cheers and applause]
+[00:47:36.780 --> 00:47:39.780]   [cheers and applause]
+[00:47:39.860 --> 00:47:42.780]   [cheers and applause]
+[00:47:42.780 --> 00:47:45.780]   [cheers and applause]
+[00:47:45.780 --> 00:47:48.780]   [cheers and applause]
+[00:47:48.780 --> 00:47:51.780]   [cheers and applause]
+[00:47:51.780 --> 00:47:54.780]   [cheers and applause]
+[00:47:54.780 --> 00:47:57.780]   [cheers and applause]
+[00:47:57.780 --> 00:48:00.780]   [cheers and applause]
+[00:48:00.780 --> 00:48:03.780]   [cheers and applause]
+[00:48:03.780 --> 00:48:06.780]   [cheers and applause]
+[00:48:06.860 --> 00:48:09.780]   [cheers and applause]
+[00:48:09.780 --> 00:48:12.780]   [cheers and applause]
+[00:48:12.780 --> 00:48:15.780]   [cheers and applause]
+[00:48:15.780 --> 00:48:18.780]   [cheers and applause]
+[00:48:18.780 --> 00:48:21.780]   [cheers and applause]
+[00:48:21.780 --> 00:48:24.780]   [cheers and applause]
+[00:48:24.780 --> 00:48:27.780]   [cheers and applause]
+[00:48:27.780 --> 00:48:30.780]   [cheers and applause]
+[00:48:30.780 --> 00:48:33.780]   [cheers and applause]
+[00:48:33.860 --> 00:48:36.780]   [cheers and applause]
+[00:48:36.780 --> 00:48:39.780]   [cheers and applause]
+[00:48:39.780 --> 00:48:42.780]   [cheers and applause]
+[00:48:42.780 --> 00:48:45.780]   [cheers and applause]
+[00:48:45.780 --> 00:48:48.780]   [cheers and applause]
+[00:48:48.780 --> 00:48:51.780]   [cheers and applause]
+[00:48:51.780 --> 00:48:54.780]   [cheers and applause]
+[00:48:54.780 --> 00:48:57.780]   [cheers and applause]
+[00:48:57.780 --> 00:49:00.780]   [cheers and applause]
+[00:49:00.860 --> 00:49:03.780]   [cheers and applause]
+[00:49:03.780 --> 00:49:06.780]   [cheers and applause]
+[00:49:06.780 --> 00:49:09.780]   [cheers and applause]
+[00:49:09.780 --> 00:49:12.780]   [cheers and applause]
+[00:49:12.780 --> 00:49:15.780]   [cheers and applause]
+[00:49:15.780 --> 00:49:18.780]   [cheers and applause]
+[00:49:18.780 --> 00:49:21.780]   [cheers and applause]
+[00:49:21.780 --> 00:49:24.780]   [cheers and applause]
+[00:49:24.780 --> 00:49:27.780]   [cheers and applause]
+[00:49:27.860 --> 00:49:30.780]   [cheers and applause]
+[00:49:30.780 --> 00:49:33.780]   [cheers and applause]
+[00:49:33.780 --> 00:49:36.780]   [cheers and applause]
+[00:49:36.780 --> 00:49:39.780]   [cheers and applause]
+[00:49:39.780 --> 00:49:42.780]   [cheers and applause]
+[00:49:42.780 --> 00:49:45.780]   [cheers and applause]
+[00:49:45.780 --> 00:49:48.780]   [cheers and applause]
+[00:49:48.780 --> 00:49:51.780]   [cheers and applause]
+[00:49:51.780 --> 00:49:54.780]   [cheers and applause]
+[00:49:54.860 --> 00:49:57.780]   [cheers and applause]
+[00:49:57.780 --> 00:50:00.780]   [cheers and applause]
+[00:50:00.780 --> 00:50:03.780]   [cheers and applause]
+[00:50:03.780 --> 00:50:06.780]   [cheers and applause]
+[00:50:06.780 --> 00:50:09.780]   [cheers and applause]
+[00:50:09.780 --> 00:50:12.780]   [cheers and applause]
+[00:50:12.780 --> 00:50:15.780]   [cheers and applause]
+[00:50:15.780 --> 00:50:18.780]   [cheers and applause]
+[00:50:18.780 --> 00:50:21.780]   [cheers and applause]
+[00:50:21.860 --> 00:50:24.780]   [cheers and applause]
+[00:50:24.780 --> 00:50:27.780]   [cheers and applause]
+[00:50:27.780 --> 00:50:30.780]   [cheers and applause]
+[00:50:30.780 --> 00:50:33.780]   [cheers and applause]
+[00:50:33.780 --> 00:50:36.780]   [cheers and applause]
+[00:50:36.780 --> 00:50:39.780]   [cheers and applause]
+[00:50:39.780 --> 00:50:42.780]   [cheers and applause]
+[00:50:42.780 --> 00:50:45.780]   [cheers and applause]
+[00:50:45.780 --> 00:50:48.780]   [cheers and applause]
+[00:50:48.860 --> 00:50:51.780]   [cheers and applause]
+[00:50:51.780 --> 00:50:54.780]   [cheers and applause]
+[00:50:54.780 --> 00:50:57.780]   [cheers and applause]
+[00:50:57.780 --> 00:51:00.780]   [cheers and applause]
+[00:51:00.780 --> 00:51:03.780]   [cheers and applause]
+[00:51:03.780 --> 00:51:06.780]   [cheers and applause]
+[00:51:06.780 --> 00:51:09.780]   [cheers and applause]
+[00:51:09.780 --> 00:51:12.780]   [cheers and applause]
+[00:51:12.780 --> 00:51:15.780]   [cheers and applause]
+[00:51:15.860 --> 00:51:18.780]   [cheers and applause]
+[00:51:18.780 --> 00:51:21.780]   [cheers and applause]
+[00:51:21.780 --> 00:51:24.780]   [cheers and applause]
+[00:51:24.780 --> 00:51:27.780]   [cheers and applause]
+[00:51:27.780 --> 00:51:30.780]   [cheers and applause]
+[00:51:30.780 --> 00:51:33.780]   [cheers and applause]
+[00:51:33.780 --> 00:51:36.780]   [cheers and applause]
+[00:51:36.780 --> 00:51:39.780]   [cheers and applause]
+[00:51:39.780 --> 00:51:42.780]   [cheers and applause]
+[00:51:42.860 --> 00:51:45.780]   [cheers and applause]
+[00:51:45.780 --> 00:51:48.780]   [cheers and applause]
+[00:51:48.780 --> 00:51:51.780]   [cheers and applause]
+[00:51:51.780 --> 00:51:54.780]   [cheers and applause]
+[00:51:54.780 --> 00:51:57.780]   [cheers and applause]
+[00:51:57.780 --> 00:52:00.780]   [cheers and applause]
+[00:52:00.780 --> 00:52:03.780]   [cheers and applause]
+[00:52:03.780 --> 00:52:06.780]   [cheers and applause]
+[00:52:06.780 --> 00:52:09.780]   [cheers and applause]
+[00:52:09.860 --> 00:52:12.780]   [cheers and applause]
+[00:52:12.780 --> 00:52:15.780]   [cheers and applause]
+[00:52:15.780 --> 00:52:18.780]   [cheers and applause]
+[00:52:18.780 --> 00:52:21.780]   [cheers and applause]
+[00:52:21.780 --> 00:52:24.780]   [cheers and applause]
+[00:52:24.780 --> 00:52:27.780]   [cheers and applause]
+[00:52:27.780 --> 00:52:30.780]   [cheers and applause]
+[00:52:30.780 --> 00:52:33.780]   [cheers and applause]
+[00:52:33.780 --> 00:52:36.780]   [cheers and applause]
+[00:52:36.860 --> 00:52:39.780]   [cheers and applause]
+[00:52:39.780 --> 00:52:42.780]   [cheers and applause]
+[00:52:42.780 --> 00:52:45.780]   [cheers and applause]
+[00:52:45.780 --> 00:52:48.780]   [cheers and applause]
+[00:52:48.780 --> 00:52:51.780]   [cheers and applause]
+[00:52:51.780 --> 00:52:54.780]   [cheers and applause]
+[00:52:54.780 --> 00:52:57.780]   [cheers and applause]
+[00:52:57.780 --> 00:53:00.780]   [cheers and applause]
+[00:53:00.780 --> 00:53:03.780]   [cheers and applause]
+[00:53:03.860 --> 00:53:06.780]   [cheers and applause]
+[00:53:06.780 --> 00:53:09.780]   [cheers and applause]
+[00:53:09.780 --> 00:53:12.780]   [cheers and applause]
+[00:53:12.780 --> 00:53:15.780]   [cheers and applause]
+[00:53:15.780 --> 00:53:18.780]   [cheers and applause]
+[00:53:18.780 --> 00:53:21.780]   [cheers and applause]
+[00:53:21.780 --> 00:53:24.780]   [cheers and applause]
+[00:53:24.780 --> 00:53:27.780]   [cheers and applause]
+[00:53:27.780 --> 00:53:30.780]   [cheers and applause]
+[00:53:30.860 --> 00:53:33.780]   [cheers and applause]
+[00:53:33.780 --> 00:53:36.780]   [cheers and applause]
+[00:53:36.780 --> 00:53:39.780]   [cheers and applause]
+[00:53:39.780 --> 00:53:42.780]   [cheers and applause]
+[00:53:42.780 --> 00:53:45.780]   [cheers and applause]
+[00:53:45.780 --> 00:53:48.780]   [cheers and applause]
+[00:53:48.780 --> 00:53:51.780]   [cheers and applause]
+[00:53:51.780 --> 00:53:54.780]   [cheers and applause]
+[00:53:54.780 --> 00:53:57.780]   [cheers and applause]
+[00:53:57.860 --> 00:54:00.780]   [cheers and applause]
+[00:54:00.780 --> 00:54:03.780]   [cheers and applause]
+[00:54:03.780 --> 00:54:06.780]   [cheers and applause]
+[00:54:06.780 --> 00:54:09.780]   [cheers and applause]
+[00:54:09.780 --> 00:54:12.780]   [cheers and applause]
+[00:54:12.780 --> 00:54:15.780]   [cheers and applause]
+[00:54:15.780 --> 00:54:18.780]   [cheers and applause]
+[00:54:18.780 --> 00:54:21.780]   [cheers and applause]
+[00:54:21.780 --> 00:54:24.780]   [cheers and applause]
+[00:54:24.860 --> 00:54:27.780]   [cheers and applause]
+[00:54:27.780 --> 00:54:30.780]   [cheers and applause]
+[00:54:30.780 --> 00:54:33.780]   [cheers and applause]
+[00:54:33.780 --> 00:54:36.780]   [cheers and applause]
+[00:54:36.780 --> 00:54:39.780]   [cheers and applause]
+[00:54:39.780 --> 00:54:42.780]   [cheers and applause]
+[00:54:42.780 --> 00:54:45.780]   [cheers and applause]
+[00:54:45.780 --> 00:54:48.780]   [cheers and applause]
+[00:54:48.780 --> 00:54:51.780]   [cheers and applause]
+[00:54:51.860 --> 00:54:54.780]   [cheers and applause]
+[00:54:54.780 --> 00:54:57.780]   [cheers and applause]
+[00:54:57.780 --> 00:55:00.780]   [cheers and applause]
+[00:55:00.780 --> 00:55:03.780]   [cheers and applause]
+[00:55:03.780 --> 00:55:06.780]   [cheers and applause]
+[00:55:06.780 --> 00:55:09.780]   [cheers and applause]
+[00:55:09.780 --> 00:55:12.780]   [cheers and applause]
+[00:55:12.780 --> 00:55:15.780]   [cheers and applause]
+[00:55:15.780 --> 00:55:18.780]   [cheers and applause]
+[00:55:18.860 --> 00:55:21.780]   [cheers and applause]
+[00:55:21.780 --> 00:55:24.780]   [cheers and applause]
+[00:55:24.780 --> 00:55:27.780]   [cheers and applause]
+[00:55:27.780 --> 00:55:30.780]   [cheers and applause]
+[00:55:30.780 --> 00:55:33.780]   [cheers and applause]
+[00:55:33.780 --> 00:55:36.780]   [cheers and applause]
+[00:55:36.780 --> 00:55:39.780]   [cheers and applause]
+[00:55:39.780 --> 00:55:42.780]   [cheers and applause]
+[00:55:42.780 --> 00:55:45.780]   [cheers and applause]
+[00:55:45.860 --> 00:55:48.780]   [cheers and applause]
+[00:55:48.780 --> 00:55:51.780]   [cheers and applause]
+[00:55:51.780 --> 00:55:54.780]   [cheers and applause]
+[00:55:54.780 --> 00:55:57.780]   [cheers and applause]
+[00:55:57.780 --> 00:56:00.780]   [cheers and applause]
+[00:56:00.780 --> 00:56:03.780]   [cheers and applause]
+[00:56:03.780 --> 00:56:06.780]   [cheers and applause]
+[00:56:06.780 --> 00:56:09.780]   [cheers and applause]
+[00:56:09.780 --> 00:56:12.780]   [cheers and applause]
+[00:56:12.860 --> 00:56:15.780]   [cheers and applause]
+[00:56:15.780 --> 00:56:18.780]   [cheers and applause]
+[00:56:18.780 --> 00:56:21.780]   [cheers and applause]
+[00:56:21.780 --> 00:56:24.780]   [cheers and applause]
+[00:56:24.780 --> 00:56:27.780]   [cheers and applause]
+[00:56:27.780 --> 00:56:30.780]   [cheers and applause]
+[00:56:30.780 --> 00:56:33.780]   [cheers and applause]
+[00:56:33.780 --> 00:56:36.780]   [cheers and applause]
+[00:56:36.780 --> 00:56:39.780]   [cheers and applause]
+[00:56:39.860 --> 00:56:42.780]   [cheers and applause]
+[00:56:42.780 --> 00:56:45.780]   [cheers and applause]
+[00:56:45.780 --> 00:56:48.780]   [cheers and applause]
+[00:56:48.780 --> 00:56:51.780]   [cheers and applause]
+[00:56:51.780 --> 00:56:54.780]   [cheers and applause]
+[00:56:54.780 --> 00:56:57.780]   [cheers and applause]
+[00:56:57.780 --> 00:57:00.780]   [cheers and applause]
+[00:57:00.780 --> 00:57:03.780]   [cheers and applause]
+[00:57:03.780 --> 00:57:06.780]   [cheers and applause]
+[00:57:06.860 --> 00:57:09.780]   [cheers and applause]
+[00:57:09.780 --> 00:57:12.780]   [cheers and applause]
+[00:57:12.780 --> 00:57:15.780]   [cheers and applause]
+[00:57:15.780 --> 00:57:18.780]   [cheers and applause]
+[00:57:18.780 --> 00:57:21.780]   [cheers and applause]
+[00:57:21.780 --> 00:57:24.780]   [cheers and applause]
+[00:57:24.780 --> 00:57:27.780]   [cheers and applause]
+[00:57:27.780 --> 00:57:30.780]   [cheers and applause]
+[00:57:30.780 --> 00:57:33.780]   [cheers and applause]
+[00:57:33.860 --> 00:57:36.780]   [cheers and applause]
+[00:57:36.780 --> 00:57:39.780]   [cheers and applause]
+[00:57:39.780 --> 00:57:42.780]   [cheers and applause]
+[00:57:42.780 --> 00:57:45.780]   [cheers and applause]
+[00:57:45.780 --> 00:57:48.780]   [cheers and applause]
+[00:57:48.780 --> 00:57:51.780]   [cheers and applause]
+[00:57:51.780 --> 00:57:54.780]   [cheers and applause]
+[00:57:54.780 --> 00:57:57.780]   [cheers and applause]
+[00:57:57.780 --> 00:58:00.780]   [cheers and applause]
+[00:58:00.860 --> 00:58:03.780]   [cheers and applause]
+[00:58:03.780 --> 00:58:06.780]   [cheers and applause]
+[00:58:06.780 --> 00:58:09.780]   [cheers and applause]
+[00:58:09.780 --> 00:58:12.780]   [cheers and applause]
+[00:58:12.780 --> 00:58:15.780]   [cheers and applause]
+[00:58:15.780 --> 00:58:18.780]   [cheers and applause]
+[00:58:18.780 --> 00:58:21.780]   [cheers and applause]
+[00:58:21.780 --> 00:58:24.780]   [cheers and applause]
+[00:58:24.780 --> 00:58:27.780]   [cheers and applause]
+[00:58:27.860 --> 00:58:30.780]   [cheers and applause]
+[00:58:30.780 --> 00:58:33.780]   [cheers and applause]
+[00:58:33.780 --> 00:58:36.780]   [cheers and applause]
+[00:58:36.780 --> 00:58:39.780]   [cheers and applause]
+[00:58:39.780 --> 00:58:42.780]   [cheers and applause]
+[00:58:42.780 --> 00:58:45.780]   [cheers and applause]
+[00:58:45.780 --> 00:58:48.780]   [cheers and applause]
+[00:58:48.780 --> 00:58:51.780]   [cheers and applause]
+[00:58:51.780 --> 00:58:54.780]   [cheers and applause]
+[00:58:54.860 --> 00:58:57.780]   [cheers and applause]
+[00:58:57.780 --> 00:59:00.780]   [cheers and applause]
+[00:59:00.780 --> 00:59:03.780]   [cheers and applause]
+[00:59:03.780 --> 00:59:06.780]   [cheers and applause]
+[00:59:06.780 --> 00:59:09.780]   [cheers and applause]
+[00:59:09.780 --> 00:59:12.780]   [cheers and applause]
+[00:59:12.780 --> 00:59:15.780]   [cheers and applause]
+[00:59:15.780 --> 00:59:18.780]   [cheers and applause]
+[00:59:18.780 --> 00:59:21.780]   [cheers and applause]
+[00:59:21.860 --> 00:59:24.780]   [cheers and applause]
+[00:59:24.780 --> 00:59:27.780]   [cheers and applause]
+[00:59:27.780 --> 00:59:30.780]   [cheers and applause]
+[00:59:30.780 --> 00:59:33.780]   [cheers and applause]
+[00:59:33.780 --> 00:59:36.780]   [cheers and applause]
+[00:59:36.780 --> 00:59:39.780]   [cheers and applause]
+[00:59:39.780 --> 00:59:42.780]   [cheers and applause]
+[00:59:42.780 --> 00:59:45.780]   [cheers and applause]
+[00:59:45.780 --> 00:59:48.780]   [cheers and applause]
+[00:59:48.860 --> 00:59:51.780]   [cheers and applause]
+[00:59:51.780 --> 00:59:54.780]   [cheers and applause]
+[00:59:54.780 --> 00:59:57.780]   [cheers and applause]
+[00:59:57.780 --> 01:00:00.780]   [cheers and applause]
+[01:00:00.780 --> 01:00:03.780]   [cheers and applause]
+[01:00:03.780 --> 01:00:06.780]   [cheers and applause]
+[01:00:06.780 --> 01:00:09.780]   [cheers and applause]
+[01:00:09.780 --> 01:00:12.780]   [cheers and applause]
+[01:00:12.780 --> 01:00:15.780]   [cheers and applause]
+[01:00:15.860 --> 01:00:18.780]   [cheers and applause]
+[01:00:18.780 --> 01:00:21.780]   [cheers and applause]
+[01:00:21.780 --> 01:00:24.780]   [cheers and applause]
+[01:00:24.780 --> 01:00:27.780]   [cheers and applause]
+[01:00:27.780 --> 01:00:30.780]   [cheers and applause]
+[01:00:30.780 --> 01:00:33.780]   [cheers and applause]
+[01:00:33.780 --> 01:00:36.780]   [cheers and applause]
+[01:00:36.780 --> 01:00:39.780]   [cheers and applause]
+[01:00:39.780 --> 01:00:42.780]   [cheers and applause]
+[01:00:42.860 --> 01:00:45.780]   [cheers and applause]
+[01:00:45.780 --> 01:00:48.780]   [cheers and applause]
+[01:00:48.780 --> 01:00:51.780]   [cheers and applause]
+[01:00:51.780 --> 01:00:54.780]   [cheers and applause]
+[01:00:54.780 --> 01:00:57.780]   [cheers and applause]
+[01:00:57.780 --> 01:01:00.780]   [cheers and applause]
+[01:01:00.780 --> 01:01:03.780]   [cheers and applause]
+[01:01:03.780 --> 01:01:06.780]   [cheers and applause]
+[01:01:06.780 --> 01:01:09.780]   [cheers and applause]
+[01:01:09.860 --> 01:01:12.780]   [cheers and applause]
+[01:01:12.780 --> 01:01:15.780]   [cheers and applause]
+[01:01:15.780 --> 01:01:18.780]   [cheers and applause]
+[01:01:18.780 --> 01:01:21.780]   [cheers and applause]
+[01:01:21.780 --> 01:01:24.780]   [cheers and applause]
+[01:01:24.780 --> 01:01:27.780]   [cheers and applause]
+[01:01:27.780 --> 01:01:30.780]   [cheers and applause]
+[01:01:30.780 --> 01:01:33.780]   [cheers and applause]
+[01:01:33.780 --> 01:01:36.780]   [cheers and applause]
+[01:01:36.860 --> 01:01:39.780]   [cheers and applause]
+[01:01:39.780 --> 01:01:42.780]   [cheers and applause]
+[01:01:42.780 --> 01:01:45.780]   [cheers and applause]
+[01:01:45.780 --> 01:01:48.780]   [cheers and applause]
+[01:01:48.780 --> 01:01:51.780]   [cheers and applause]
+[01:01:51.780 --> 01:01:54.780]   [cheers and applause]
+[01:01:54.780 --> 01:01:57.780]   [cheers and applause]
+[01:01:57.780 --> 01:02:00.780]   [cheers and applause]
+[01:02:00.780 --> 01:02:03.780]   [cheers and applause]
+[01:02:03.860 --> 01:02:06.780]   [cheers and applause]
+[01:02:06.780 --> 01:02:09.780]   [cheers and applause]
+[01:02:09.780 --> 01:02:12.780]   [cheers and applause]
+[01:02:12.780 --> 01:02:15.780]   [cheers and applause]
+[01:02:15.780 --> 01:02:18.780]   [cheers and applause]
+[01:02:18.780 --> 01:02:21.780]   [cheers and applause]
+[01:02:21.780 --> 01:02:24.780]   [cheers and applause]
+[01:02:24.780 --> 01:02:27.780]   [cheers and applause]
+[01:02:27.780 --> 01:02:30.780]   [cheers and applause]
+[01:02:30.860 --> 01:02:33.780]   [cheers and applause]
+[01:02:33.780 --> 01:02:36.780]   [cheers and applause]
+[01:02:36.780 --> 01:02:39.780]   [cheers and applause]
+[01:02:39.780 --> 01:02:42.780]   [cheers and applause]
+[01:02:42.780 --> 01:02:45.780]   [cheers and applause]
+[01:02:45.780 --> 01:02:48.780]   [cheers and applause]
+[01:02:48.780 --> 01:02:51.780]   [cheers and applause]
+[01:02:51.780 --> 01:02:54.780]   [cheers and applause]
+[01:02:54.780 --> 01:02:57.780]   [cheers and applause]
+[01:02:57.860 --> 01:03:00.780]   [cheers and applause]
+[01:03:00.780 --> 01:03:03.780]   [cheers and applause]
+[01:03:03.780 --> 01:03:06.780]   [cheers and applause]
+[01:03:06.780 --> 01:03:09.780]   [cheers and applause]
+[01:03:09.780 --> 01:03:12.780]   [cheers and applause]
+[01:03:12.780 --> 01:03:15.780]   [cheers and applause]
+[01:03:15.780 --> 01:03:18.780]   [cheers and applause]
+[01:03:18.780 --> 01:03:21.780]   [cheers and applause]
+[01:03:21.780 --> 01:03:24.780]   [cheers and applause]
+[01:03:24.860 --> 01:03:27.780]   [cheers and applause]
+[01:03:27.780 --> 01:03:30.780]   [cheers and applause]
+[01:03:30.780 --> 01:03:33.780]   [cheers and applause]
+[01:03:33.780 --> 01:03:36.780]   [cheers and applause]
+[01:03:36.780 --> 01:03:39.780]   [cheers and applause]
+[01:03:39.780 --> 01:03:42.780]   [cheers and applause]
+[01:03:42.780 --> 01:03:45.780]   [cheers and applause]
+[01:03:45.780 --> 01:03:48.780]   [cheers and applause]
+[01:03:48.780 --> 01:03:51.780]   [cheers and applause]
+[01:03:51.860 --> 01:03:54.780]   [cheers and applause]
+[01:03:54.780 --> 01:03:57.780]   [cheers and applause]
+[01:03:57.780 --> 01:04:00.780]   [cheers and applause]
+[01:04:00.780 --> 01:04:03.780]   [cheers and applause]
+[01:04:03.780 --> 01:04:06.780]   [cheers and applause]
+[01:04:06.780 --> 01:04:09.780]   [cheers and applause]
+[01:04:09.780 --> 01:04:12.780]   [cheers and applause]
+[01:04:12.780 --> 01:04:15.780]   [cheers and applause]
+[01:04:15.780 --> 01:04:18.780]   [cheers and applause]
+[01:04:18.860 --> 01:04:21.780]   [cheers and applause]
+[01:04:21.780 --> 01:04:24.780]   [cheers and applause]
+[01:04:24.780 --> 01:04:27.780]   [cheers and applause]
+[01:04:27.780 --> 01:04:30.780]   [cheers and applause]
+[01:04:30.780 --> 01:04:33.780]   [cheers and applause]
+[01:04:33.780 --> 01:04:36.780]   [cheers and applause]
+[01:04:36.780 --> 01:04:39.780]   [cheers and applause]
+[01:04:39.780 --> 01:04:42.780]   [cheers and applause]
+[01:04:42.780 --> 01:04:45.780]   [cheers and applause]
+[01:04:45.860 --> 01:04:48.780]   [cheers and applause]
+[01:04:48.780 --> 01:04:51.780]   [cheers and applause]
+[01:04:51.780 --> 01:04:54.780]   [cheers and applause]
+[01:04:54.780 --> 01:04:57.780]   [cheers and applause]
+[01:04:57.780 --> 01:05:00.780]   [cheers and applause]
+[01:05:00.780 --> 01:05:03.780]   [cheers and applause]
+[01:05:03.780 --> 01:05:06.780]   [cheers and applause]
+[01:05:06.780 --> 01:05:09.780]   [cheers and applause]
+[01:05:09.780 --> 01:05:12.780]   [cheers and applause]
+[01:05:12.860 --> 01:05:15.780]   [cheers and applause]
+[01:05:15.780 --> 01:05:18.780]   [cheers and applause]
+[01:05:18.780 --> 01:05:21.780]   [cheers and applause]
+[01:05:21.780 --> 01:05:24.780]   [cheers and applause]
+[01:05:24.780 --> 01:05:27.780]   [cheers and applause]
+[01:05:27.780 --> 01:05:30.780]   [cheers and applause]
+[01:05:30.780 --> 01:05:33.780]   [cheers and applause]
+[01:05:33.780 --> 01:05:36.780]   [cheers and applause]
+[01:05:36.780 --> 01:05:39.780]   [cheers and applause]
+[01:05:39.860 --> 01:05:42.780]   [cheers and applause]
+[01:05:42.780 --> 01:05:45.780]   [cheers and applause]
+[01:05:45.780 --> 01:05:48.780]   [cheers and applause]
+[01:05:48.780 --> 01:05:51.780]   [cheers and applause]
+[01:05:51.780 --> 01:05:54.780]   [cheers and applause]
+[01:05:54.780 --> 01:05:57.780]   [cheers and applause]
+[01:05:57.780 --> 01:06:00.780]   [cheers and applause]
+[01:06:00.780 --> 01:06:03.780]   [cheers and applause]
+[01:06:03.780 --> 01:06:06.780]   [cheers and applause]
+[01:06:06.860 --> 01:06:09.780]   [cheers and applause]
+[01:06:09.780 --> 01:06:12.780]   [cheers and applause]
+[01:06:12.780 --> 01:06:15.780]   [cheers and applause]
+[01:06:15.780 --> 01:06:18.780]   [cheers and applause]
+[01:06:18.780 --> 01:06:21.780]   [cheers and applause]
+[01:06:21.780 --> 01:06:24.780]   [cheers and applause]
+[01:06:24.780 --> 01:06:27.780]   [cheers and applause]
+[01:06:27.780 --> 01:06:30.780]   [cheers and applause]
+[01:06:30.780 --> 01:06:33.780]   [cheers and applause]
+[01:06:33.860 --> 01:06:36.780]   [cheers and applause]
+[01:06:36.780 --> 01:06:39.780]   [cheers and applause]
+[01:06:39.780 --> 01:06:42.780]   [cheers and applause]
+[01:06:42.780 --> 01:06:45.780]   [cheers and applause]
+[01:06:45.780 --> 01:06:48.780]   [cheers and applause]
+[01:06:48.780 --> 01:06:51.780]   [cheers and applause]
+[01:06:51.780 --> 01:06:54.780]   [cheers and applause]
+[01:06:54.780 --> 01:06:57.780]   [cheers and applause]
+[01:06:57.780 --> 01:07:00.780]   [cheers and applause]
+[01:07:00.860 --> 01:07:03.780]   [cheers and applause]
+[01:07:03.780 --> 01:07:06.780]   [cheers and applause]
+[01:07:06.780 --> 01:07:09.780]   [cheers and applause]
+[01:07:09.780 --> 01:07:12.780]   [cheers and applause]
+[01:07:12.780 --> 01:07:15.780]   [cheers and applause]
+[01:07:15.780 --> 01:07:18.780]   [cheers and applause]
+[01:07:18.780 --> 01:07:21.780]   [cheers and applause]
+[01:07:21.780 --> 01:07:24.780]   [cheers and applause]
+[01:07:24.780 --> 01:07:27.780]   [cheers and applause]
+[01:07:27.860 --> 01:07:30.780]   [cheers and applause]
+[01:07:30.780 --> 01:07:33.780]   [cheers and applause]
+[01:07:33.780 --> 01:07:36.780]   [cheers and applause]
+[01:07:36.780 --> 01:07:39.780]   [cheers and applause]
+[01:07:39.780 --> 01:07:42.780]   [cheers and applause]
+[01:07:42.780 --> 01:07:45.780]   [cheers and applause]
+[01:07:45.780 --> 01:07:48.780]   [cheers and applause]
+[01:07:48.780 --> 01:07:51.780]   [cheers and applause]
+[01:07:51.780 --> 01:07:54.780]   [cheers and applause]
+[01:07:54.860 --> 01:07:57.780]   [cheers and applause]
+[01:07:57.780 --> 01:08:00.780]   [cheers and applause]
+[01:08:00.780 --> 01:08:03.780]   [cheers and applause]
+[01:08:03.780 --> 01:08:06.780]   [cheers and applause]
+[01:08:06.780 --> 01:08:09.780]   [cheers and applause]
+[01:08:09.780 --> 01:08:12.780]   [cheers and applause]
+[01:08:12.780 --> 01:08:15.780]   [cheers and applause]
+[01:08:15.780 --> 01:08:18.780]   [cheers and applause]
+[01:08:18.780 --> 01:08:21.780]   [cheers and applause]
+[01:08:21.860 --> 01:08:24.780]   [cheers and applause]
+[01:08:24.780 --> 01:08:27.780]   [cheers and applause]
+[01:08:27.780 --> 01:08:30.780]   [cheers and applause]
+[01:08:30.780 --> 01:08:33.780]   [cheers and applause]
+[01:08:33.780 --> 01:08:36.780]   [cheers and applause]
+[01:08:36.780 --> 01:08:39.780]   [cheers and applause]
+[01:08:39.780 --> 01:08:42.780]   [cheers and applause]
+[01:08:42.780 --> 01:08:45.780]   [cheers and applause]
+[01:08:45.780 --> 01:08:48.780]   [cheers and applause]
+[01:08:48.860 --> 01:08:51.780]   [cheers and applause]
+[01:08:51.780 --> 01:08:54.780]   [cheers and applause]
+[01:08:54.780 --> 01:08:57.780]   [cheers and applause]
+[01:08:57.780 --> 01:09:00.780]   [cheers and applause]
+[01:09:00.780 --> 01:09:03.780]   [cheers and applause]
+[01:09:03.780 --> 01:09:06.780]   [cheers and applause]
+[01:09:06.780 --> 01:09:09.780]   [cheers and applause]
+[01:09:09.780 --> 01:09:12.780]   [cheers and applause]
+[01:09:12.780 --> 01:09:15.780]   [cheers and applause]
+[01:09:15.860 --> 01:09:18.780]   [cheers and applause]
+[01:09:18.780 --> 01:09:21.780]   [cheers and applause]
+[01:09:21.780 --> 01:09:24.780]   [cheers and applause]
+[01:09:24.780 --> 01:09:27.780]   [cheers and applause]
+[01:09:27.780 --> 01:09:30.780]   [cheers and applause]
+[01:09:30.780 --> 01:09:33.780]   [cheers and applause]
+[01:09:33.780 --> 01:09:36.780]   [cheers and applause]
+[01:09:36.780 --> 01:09:39.780]   [cheers and applause]
+[01:09:39.780 --> 01:09:42.780]   [cheers and applause]
+[01:09:42.860 --> 01:09:45.780]   [cheers and applause]
+[01:09:45.780 --> 01:09:48.780]   [cheers and applause]
+[01:09:48.780 --> 01:09:51.780]   [cheers and applause]
+[01:09:51.780 --> 01:09:54.780]   [cheers and applause]
+[01:09:54.780 --> 01:09:57.780]   [cheers and applause]
+[01:09:57.780 --> 01:10:00.780]   [cheers and applause]
+[01:10:00.780 --> 01:10:03.780]   [cheers and applause]
+[01:10:03.780 --> 01:10:06.780]   [cheers and applause]
+[01:10:06.780 --> 01:10:09.780]   [cheers and applause]
+[01:10:09.860 --> 01:10:12.780]   [cheers and applause]
+[01:10:12.780 --> 01:10:15.780]   [cheers and applause]
+[01:10:15.780 --> 01:10:18.780]   [cheers and applause]
+[01:10:18.780 --> 01:10:21.780]   [cheers and applause]
+[01:10:21.780 --> 01:10:24.780]   [cheers and applause]
+[01:10:24.780 --> 01:10:27.780]   [cheers and applause]
+[01:10:27.780 --> 01:10:30.780]   [cheers and applause]
+[01:10:30.780 --> 01:10:33.780]   [cheers and applause]
+[01:10:33.780 --> 01:10:36.780]   [cheers and applause]
+[01:10:36.860 --> 01:10:39.780]   [cheers and applause]
+[01:10:39.780 --> 01:10:42.780]   [cheers and applause]
+[01:10:42.780 --> 01:10:45.780]   [cheers and applause]
+[01:10:45.780 --> 01:10:48.780]   [cheers and applause]
+[01:10:48.780 --> 01:10:51.780]   [cheers and applause]
+[01:10:51.780 --> 01:10:54.780]   [cheers and applause]
+[01:10:54.780 --> 01:10:57.780]   [cheers and applause]
+[01:10:57.780 --> 01:11:00.780]   [cheers and applause]
+[01:11:00.780 --> 01:11:03.780]   [cheers and applause]
+[01:11:03.860 --> 01:11:06.780]   [cheers and applause]
+[01:11:06.780 --> 01:11:09.780]   [cheers and applause]
+[01:11:09.780 --> 01:11:12.780]   [cheers and applause]
+[01:11:12.780 --> 01:11:15.780]   [cheers and applause]
+[01:11:15.780 --> 01:11:18.780]   [cheers and applause]
+[01:11:18.780 --> 01:11:21.780]   [cheers and applause]
+[01:11:21.780 --> 01:11:24.780]   [cheers and applause]
+[01:11:24.780 --> 01:11:27.780]   [cheers and applause]
+[01:11:27.780 --> 01:11:30.780]   [cheers and applause]
+[01:11:30.860 --> 01:11:33.780]   [cheers and applause]
+[01:11:33.780 --> 01:11:36.780]   [cheers and applause]
+[01:11:36.780 --> 01:11:39.780]   [cheers and applause]
+[01:11:39.780 --> 01:11:42.780]   [cheers and applause]
+[01:11:42.780 --> 01:11:45.780]   [cheers and applause]
+[01:11:45.780 --> 01:11:48.780]   [cheers and applause]
+[01:11:48.780 --> 01:11:51.780]   [cheers and applause]
+[01:11:51.780 --> 01:11:54.780]   [cheers and applause]
+[01:11:54.780 --> 01:11:57.780]   [cheers and applause]
+[01:11:57.860 --> 01:12:00.780]   [cheers and applause]
+[01:12:00.780 --> 01:12:03.780]   [cheers and applause]
+[01:12:03.780 --> 01:12:06.780]   [cheers and applause]
+[01:12:06.780 --> 01:12:09.780]   [cheers and applause]
+[01:12:09.780 --> 01:12:12.780]   [cheers and applause]
+[01:12:12.780 --> 01:12:15.780]   [cheers and applause]
+[01:12:15.780 --> 01:12:18.780]   [cheers and applause]
+[01:12:18.780 --> 01:12:21.780]   [cheers and applause]
+[01:12:21.780 --> 01:12:24.780]   [cheers and applause]
+[01:12:24.860 --> 01:12:27.780]   [piano music]
+[01:12:27.780 --> 01:12:30.780]   ♪
+[01:12:30.780 --> 01:12:33.780]   ♪
+[01:12:33.780 --> 01:12:36.780]   ♪
+[01:12:36.780 --> 01:12:39.780]   ♪
+[01:12:39.780 --> 01:12:42.780]   ♪
+[01:12:42.780 --> 01:12:45.780]   ♪
+[01:12:45.780 --> 01:12:48.780]   ♪
+[01:12:48.780 --> 01:12:51.780]   ♪
+[01:12:51.780 --> 01:12:54.780]   ♪
+[01:12:54.780 --> 01:12:57.700]   ♪
+[01:12:57.700 --> 01:13:00.700]   ♪
+[01:13:00.700 --> 01:13:03.700]   ♪
+[01:13:03.700 --> 01:13:06.700]   ♪
+[01:13:06.700 --> 01:13:09.700]   ♪
+[01:13:09.700 --> 01:13:12.700]   ♪
+[01:13:12.700 --> 01:13:15.700]   ♪
+[01:13:15.700 --> 01:13:18.700]   ♪
+[01:13:18.700 --> 01:13:21.700]   ♪
+[01:13:21.780 --> 01:13:24.700]   ♪
+[01:13:24.700 --> 01:13:27.700]   ♪
+[01:13:27.700 --> 01:13:30.700]   ♪
+[01:13:30.700 --> 01:13:33.700]   ♪
+[01:13:33.700 --> 01:13:36.700]   ♪
+[01:13:36.700 --> 01:13:39.700]   ♪
+[01:13:39.700 --> 01:13:42.700]   ♪
+[01:13:42.700 --> 01:13:45.700]   ♪
+[01:13:45.700 --> 01:13:48.700]   ♪
+[01:13:48.780 --> 01:13:51.700]   ♪
+[01:13:51.700 --> 01:13:54.700]   ♪
+[01:13:54.700 --> 01:13:57.700]   ♪
+[01:13:57.700 --> 01:14:00.700]   ♪
+[01:14:00.700 --> 01:14:03.700]   ♪
+[01:14:03.700 --> 01:14:06.700]   ♪
+[01:14:06.700 --> 01:14:09.700]   ♪
+[01:14:09.700 --> 01:14:12.700]   ♪
+[01:14:12.700 --> 01:14:15.700]   ♪
+[01:14:15.780 --> 01:14:18.700]   ♪
+[01:14:18.700 --> 01:14:21.700]   ♪
+[01:14:21.700 --> 01:14:24.700]   ♪
+[01:14:24.700 --> 01:14:27.700]   ♪
+[01:14:27.700 --> 01:14:30.700]   ♪
+[01:14:30.700 --> 01:14:33.700]   ♪
+[01:14:33.700 --> 01:14:36.700]   ♪
+[01:14:36.700 --> 01:14:39.700]   ♪
+[01:14:39.700 --> 01:14:42.700]   ♪
+[01:14:42.780 --> 01:14:45.700]   ♪
+[01:14:45.700 --> 01:14:48.700]   ♪
+[01:14:48.700 --> 01:14:51.700]   ♪
+[01:14:51.700 --> 01:14:54.700]   ♪
+[01:14:54.700 --> 01:14:57.700]   ♪
+[01:14:57.700 --> 01:15:00.700]   ♪
+[01:15:00.700 --> 01:15:03.700]   ♪
+[01:15:03.700 --> 01:15:06.700]   ♪
+[01:15:06.700 --> 01:15:09.700]   ♪
+[01:15:09.780 --> 01:15:12.700]   ♪
+[01:15:12.700 --> 01:15:15.700]   ♪
+[01:15:15.700 --> 01:15:18.700]   ♪
+[01:15:18.700 --> 01:15:21.700]   ♪
+[01:15:21.700 --> 01:15:24.700]   ♪
+[01:15:24.700 --> 01:15:27.700]   ♪
+[01:15:27.700 --> 01:15:30.700]   ♪
+[01:15:30.700 --> 01:15:33.700]   ♪
+[01:15:33.700 --> 01:15:36.700]   ♪
+[01:15:36.780 --> 01:15:39.700]   ♪
+[01:15:39.700 --> 01:15:42.700]   ♪
+[01:15:42.700 --> 01:15:45.700]   ♪
+[01:15:45.700 --> 01:15:48.700]   ♪
+[01:15:48.700 --> 01:15:51.700]   ♪
+[01:15:51.700 --> 01:15:54.700]   ♪
+[01:15:54.700 --> 01:15:57.700]   ♪
+[01:15:57.700 --> 01:16:00.700]   ♪
+[01:16:00.700 --> 01:16:03.700]   ♪
+[01:16:03.780 --> 01:16:06.700]   ♪
+[01:16:06.700 --> 01:16:09.700]   ♪
+[01:16:09.700 --> 01:16:12.700]   ♪
+[01:16:12.700 --> 01:16:15.700]   ♪
+[01:16:15.700 --> 01:16:18.700]   ♪
+[01:16:18.700 --> 01:16:21.700]   ♪
+[01:16:21.700 --> 01:16:24.700]   ♪
+[01:16:24.700 --> 01:16:27.700]   ♪
+[01:16:27.700 --> 01:16:30.700]   ♪
+[01:16:30.780 --> 01:16:33.700]   ♪
+[01:16:33.700 --> 01:16:36.700]   ♪
+[01:16:36.700 --> 01:16:39.700]   ♪
+[01:16:39.700 --> 01:16:42.700]   ♪
+[01:16:42.700 --> 01:16:45.700]   ♪
+[01:16:45.700 --> 01:16:48.700]   ♪
+[01:16:48.700 --> 01:16:51.700]   ♪
+[01:16:51.700 --> 01:16:54.700]   ♪
+[01:16:54.700 --> 01:16:57.700]   ♪
+[01:16:57.780 --> 01:17:00.700]   ♪
+[01:17:00.700 --> 01:17:03.700]   ♪
+[01:17:03.700 --> 01:17:06.700]   ♪
+[01:17:06.700 --> 01:17:09.700]   ♪
+[01:17:09.700 --> 01:17:12.700]   ♪
+[01:17:12.700 --> 01:17:15.700]   ♪
+[01:17:15.700 --> 01:17:18.700]   ♪
+[01:17:18.700 --> 01:17:21.700]   ♪
+[01:17:21.700 --> 01:17:24.700]   ♪
+[01:17:24.780 --> 01:17:27.700]   ♪
+[01:17:27.700 --> 01:17:30.700]   ♪
+[01:17:30.700 --> 01:17:33.700]   ♪
+[01:17:33.700 --> 01:17:36.700]   ♪
+[01:17:36.700 --> 01:17:39.700]   ♪
+[01:17:39.700 --> 01:17:42.700]   ♪
+[01:17:42.700 --> 01:17:45.700]   ♪
+[01:17:45.700 --> 01:17:48.700]   ♪
+[01:17:48.700 --> 01:17:51.700]   ♪
+[01:17:51.780 --> 01:17:54.700]   ♪
+[01:17:54.700 --> 01:17:57.700]   ♪
+[01:17:57.700 --> 01:18:00.700]   ♪
+[01:18:00.700 --> 01:18:03.700]   ♪
+[01:18:03.700 --> 01:18:06.700]   ♪
+[01:18:06.700 --> 01:18:09.700]   ♪
+[01:18:09.700 --> 01:18:12.700]   ♪
+[01:18:12.700 --> 01:18:15.700]   ♪
+[01:18:15.700 --> 01:18:18.700]   ♪
+[01:18:18.780 --> 01:18:21.700]   ♪
+[01:18:21.700 --> 01:18:24.700]   ♪
+[01:18:24.700 --> 01:18:27.700]   ♪
+[01:18:27.700 --> 01:18:30.700]   ♪
+[01:18:30.700 --> 01:18:33.700]   ♪
+[01:18:33.700 --> 01:18:36.700]   ♪
+[01:18:36.700 --> 01:18:39.700]   ♪
+[01:18:39.700 --> 01:18:42.700]   ♪
+[01:18:42.700 --> 01:18:45.700]   ♪
+[01:18:45.780 --> 01:18:48.700]   ♪
+[01:18:48.700 --> 01:18:51.700]   ♪
+[01:18:51.700 --> 01:18:54.700]   ♪
+[01:18:54.700 --> 01:18:57.700]   ♪
+[01:18:57.700 --> 01:19:00.700]   ♪
+[01:19:00.700 --> 01:19:03.700]   ♪
+[01:19:03.700 --> 01:19:06.700]   ♪
+[01:19:06.700 --> 01:19:09.700]   ♪
+[01:19:09.700 --> 01:19:12.700]   ♪
+[01:19:12.780 --> 01:19:16.700]   ♪
+[01:19:16.700 --> 01:19:20.700]   ♪
+[01:19:20.700 --> 01:19:24.700]   ♪
+
