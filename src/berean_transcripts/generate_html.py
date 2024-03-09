@@ -193,7 +193,18 @@ def generate_transcript_page(video_id):
         f.write(
             '<div style="max-width: 650px; margin: auto;">'  # Added margin: auto to center the div
         )
-        f.write(f"<p>{clean_transcript}</p>")
+        sentences = re.split(r"(?<=[.!?]) +", clean_transcript)
+        paragraph = ""
+        for sentence in sentences:
+            paragraph += sentence + " "
+            # Optionally, define a condition to group sentences into paragraphs more naturally
+            if (
+                len(paragraph.split()) > 50
+            ):  # For example, group by number of words
+                f.write(f"<p>{paragraph.strip()}</p>")
+                paragraph = ""
+        if paragraph:  # Add any remaining text as a paragraph
+            f.write(f"<p>{paragraph.strip()}</p>")
         f.write("</div>")  # Close the max-width div
         f.write("</body></html>")
 
