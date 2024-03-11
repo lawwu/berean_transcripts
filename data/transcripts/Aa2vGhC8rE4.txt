@@ -1,0 +1,1728 @@
+
+[00:00:00.000 --> 00:00:03.160]   (audience chattering)
+[00:00:03.160 --> 00:00:07.240]   (audience chattering continues)
+[00:00:07.240 --> 00:00:11.320]   (audience chattering continues)
+[00:00:11.320 --> 00:00:15.400]   (audience chattering continues)
+[00:00:15.400 --> 00:00:19.480]   (audience chattering continues)
+[00:00:19.480 --> 00:00:23.560]   (audience chattering continues)
+[00:00:23.560 --> 00:00:27.640]   (audience chattering continues)
+[00:00:27.640 --> 00:00:31.720]   (audience chattering continues)
+[00:00:31.720 --> 00:00:35.800]   (audience chattering continues)
+[00:00:35.800 --> 00:00:39.880]   (audience chattering continues)
+[00:00:39.880 --> 00:00:43.960]   (audience chattering continues)
+[00:00:43.960 --> 00:00:48.040]   (audience chattering continues)
+[00:00:48.040 --> 00:00:52.120]   (audience chattering continues)
+[00:00:52.120 --> 00:00:56.120]   (audience chattering continues)
+[00:00:56.120 --> 00:01:00.120]   (audience chattering continues)
+[00:01:00.120 --> 00:01:04.120]   (audience chattering continues)
+[00:01:04.120 --> 00:01:08.120]   (audience chattering continues)
+[00:01:08.120 --> 00:01:12.120]   (audience chattering continues)
+[00:01:12.120 --> 00:01:16.120]   (audience chattering continues)
+[00:01:16.120 --> 00:01:20.120]   (audience chattering continues)
+[00:01:20.120 --> 00:01:24.120]   (audience chattering continues)
+[00:01:24.120 --> 00:01:28.120]   (audience chattering continues)
+[00:01:28.120 --> 00:01:32.120]   (audience chattering continues)
+[00:01:32.120 --> 00:01:36.120]   (audience chattering continues)
+[00:01:36.120 --> 00:01:40.120]   (audience chattering continues)
+[00:01:40.120 --> 00:01:44.120]   (audience chattering continues)
+[00:01:44.120 --> 00:01:48.120]   (audience chattering continues)
+[00:01:48.120 --> 00:01:52.120]   (audience chattering continues)
+[00:01:52.120 --> 00:01:56.120]   (audience chattering continues)
+[00:01:56.120 --> 00:02:00.120]   (audience chattering continues)
+[00:02:00.120 --> 00:02:04.120]   (audience chattering continues)
+[00:02:04.120 --> 00:02:08.120]   (audience chattering continues)
+[00:02:08.120 --> 00:02:12.120]   (audience chattering continues)
+[00:02:12.120 --> 00:02:16.120]   (audience chattering continues)
+[00:02:16.120 --> 00:02:20.120]   (audience chattering continues)
+[00:02:20.120 --> 00:02:24.120]   (audience chattering continues)
+[00:02:24.120 --> 00:02:28.120]   (audience chattering continues)
+[00:02:28.120 --> 00:02:32.120]   (audience chattering continues)
+[00:02:32.120 --> 00:02:36.120]   (audience chattering continues)
+[00:02:36.120 --> 00:02:40.120]   (audience chattering continues)
+[00:02:40.120 --> 00:02:48.120]   (audience chattering continues)
+[00:03:04.120 --> 00:03:08.120]   (audience chattering continues)
+[00:03:08.120 --> 00:03:12.120]   (audience chattering continues)
+[00:03:12.120 --> 00:03:16.120]   (audience chattering continues)
+[00:03:16.120 --> 00:03:20.120]   (audience chattering continues)
+[00:03:20.120 --> 00:03:24.120]   (audience chattering continues)
+[00:03:24.120 --> 00:03:28.120]   (audience chattering continues)
+[00:03:28.120 --> 00:03:32.120]   (audience chattering continues)
+[00:03:32.120 --> 00:03:36.120]   (audience chattering continues)
+[00:03:36.120 --> 00:03:40.120]   (audience chattering continues)
+[00:03:40.120 --> 00:03:44.120]   (audience chattering continues)
+[00:03:44.120 --> 00:03:48.120]   (audience chattering continues)
+[00:03:48.120 --> 00:03:52.120]   (audience chattering continues)
+[00:03:52.120 --> 00:03:56.120]   (audience chattering continues)
+[00:03:56.120 --> 00:04:00.120]   (audience chattering continues)
+[00:04:00.120 --> 00:04:04.120]   (audience chattering continues)
+[00:04:04.120 --> 00:04:08.120]   (audience chattering continues)
+[00:04:08.120 --> 00:04:12.120]   (audience chattering continues)
+[00:04:12.120 --> 00:04:16.120]   (audience chattering continues)
+[00:04:16.120 --> 00:04:20.120]   (audience chattering continues)
+[00:04:20.120 --> 00:04:24.120]   (audience chattering continues)
+[00:04:24.120 --> 00:04:28.120]   (audience chattering continues)
+[00:04:28.120 --> 00:04:32.120]   (audience chattering continues)
+[00:04:32.120 --> 00:04:36.120]   (audience chattering continues)
+[00:04:36.120 --> 00:04:40.120]   (audience chattering continues)
+[00:04:40.120 --> 00:04:44.120]   (audience chattering continues)
+[00:04:44.120 --> 00:04:48.120]   (audience chattering continues)
+[00:04:48.120 --> 00:04:52.120]   (audience chattering continues)
+[00:04:52.120 --> 00:04:56.120]   (audience chattering continues)
+[00:04:56.120 --> 00:05:00.120]   (audience chattering continues)
+[00:05:00.120 --> 00:05:04.120]   (audience chattering continues)
+[00:05:04.120 --> 00:05:08.120]   (audience chattering continues)
+[00:05:08.120 --> 00:05:12.120]   (audience chattering continues)
+[00:05:12.120 --> 00:05:16.120]   (audience chattering continues)
+[00:05:16.120 --> 00:05:36.120]   (audience chattering continues)
+[00:05:36.120 --> 00:05:40.120]   (audience chattering continues)
+[00:05:40.120 --> 00:05:44.120]   (audience chattering continues)
+[00:05:44.120 --> 00:06:02.120]   (audience chattering continues)
+[00:06:02.120 --> 00:06:06.120]   (audience chattering continues)
+[00:06:06.120 --> 00:06:10.120]   (audience chattering continues)
+[00:06:10.120 --> 00:06:14.120]   (audience chattering continues)
+[00:06:14.120 --> 00:06:18.120]   (audience chattering continues)
+[00:06:18.120 --> 00:06:22.120]   (audience chattering continues)
+[00:06:22.120 --> 00:06:26.120]   (audience chattering continues)
+[00:06:26.120 --> 00:06:30.120]   (audience chattering continues)
+[00:06:30.120 --> 00:06:34.120]   (audience chattering continues)
+[00:06:34.120 --> 00:06:38.120]   (audience chattering continues)
+[00:06:38.120 --> 00:06:42.120]   (audience chattering continues)
+[00:06:42.120 --> 00:06:46.120]   (audience chattering continues)
+[00:06:46.120 --> 00:06:50.120]   (audience chattering continues)
+[00:06:50.120 --> 00:06:54.120]   (audience chattering continues)
+[00:06:54.120 --> 00:06:58.120]   (audience chattering continues)
+[00:06:58.120 --> 00:07:02.120]   (audience chattering continues)
+[00:07:02.120 --> 00:07:06.120]   (audience chattering continues)
+[00:07:06.120 --> 00:07:10.120]   (audience chattering continues)
+[00:07:10.120 --> 00:07:14.120]   (audience chattering continues)
+[00:07:14.120 --> 00:07:18.120]   (audience chattering continues)
+[00:07:18.120 --> 00:07:22.120]   (audience chattering continues)
+[00:07:22.120 --> 00:07:26.120]   (audience chattering continues)
+[00:07:26.120 --> 00:07:30.120]   (audience chattering continues)
+[00:07:30.120 --> 00:07:34.120]   (audience chattering continues)
+[00:07:34.120 --> 00:07:38.120]   (audience chattering continues)
+[00:07:38.120 --> 00:07:42.120]   (audience chattering continues)
+[00:07:42.120 --> 00:07:46.120]   (audience chattering continues)
+[00:07:46.120 --> 00:07:50.120]   (audience chattering continues)
+[00:07:50.120 --> 00:07:54.120]   (audience chattering continues)
+[00:07:54.120 --> 00:07:58.120]   (audience chattering continues)
+[00:07:58.120 --> 00:08:02.120]   (audience chattering continues)
+[00:08:02.120 --> 00:08:06.120]   (audience chattering continues)
+[00:08:06.120 --> 00:08:10.120]   (audience chattering continues)
+[00:08:10.120 --> 00:08:14.120]   (audience chattering continues)
+[00:08:14.120 --> 00:08:18.120]   (audience chattering continues)
+[00:08:18.120 --> 00:08:22.120]   (audience chattering continues)
+[00:08:22.120 --> 00:08:26.120]   (audience chattering continues)
+[00:08:26.120 --> 00:08:30.120]   (audience chattering continues)
+[00:08:30.120 --> 00:08:34.120]   (audience chattering continues)
+[00:08:34.120 --> 00:08:52.120]   (audience chattering continues)
+[00:08:52.120 --> 00:08:56.120]   (audience chattering continues)
+[00:08:56.120 --> 00:09:00.120]   (audience chattering continues)
+[00:09:00.120 --> 00:09:04.120]   (audience chattering continues)
+[00:09:04.120 --> 00:09:08.120]   (audience chattering continues)
+[00:09:08.120 --> 00:09:12.120]   (audience chattering continues)
+[00:09:12.120 --> 00:09:16.120]   (audience chattering continues)
+[00:09:16.120 --> 00:09:20.120]   (audience chattering continues)
+[00:09:20.120 --> 00:09:24.120]   (audience chattering continues)
+[00:09:24.120 --> 00:09:28.120]   (audience chattering continues)
+[00:09:28.120 --> 00:09:32.120]   (audience chattering continues)
+[00:09:32.120 --> 00:09:36.120]   (audience chattering continues)
+[00:09:36.120 --> 00:09:40.120]   (audience chattering continues)
+[00:09:40.120 --> 00:09:44.120]   (audience chattering continues)
+[00:09:44.120 --> 00:09:48.120]   (audience chattering continues)
+[00:09:48.120 --> 00:09:52.120]   (audience chattering continues)
+[00:09:52.120 --> 00:09:56.120]   (audience chattering continues)
+[00:09:56.120 --> 00:10:00.120]   (audience chattering continues)
+[00:10:00.120 --> 00:10:04.120]   (audience chattering continues)
+[00:10:04.120 --> 00:10:08.120]   (audience chattering continues)
+[00:10:08.120 --> 00:10:12.120]   (audience chattering continues)
+[00:10:36.120 --> 00:10:40.120]   (audience chattering continues)
+[00:10:40.120 --> 00:10:44.120]   (audience chattering continues)
+[00:10:44.120 --> 00:10:48.120]   (audience chattering continues)
+[00:10:48.120 --> 00:10:52.120]   (audience chattering continues)
+[00:10:52.120 --> 00:10:55.120]   - All right, good evening, everybody.
+[00:10:55.120 --> 00:10:59.120]   I know it was raining hard, treacherous terrain outside.
+[00:10:59.120 --> 00:11:01.120]   I'm glad you guys are all here.
+[00:11:01.120 --> 00:11:03.120]   Let's take a moment to have everybody settle
+[00:11:03.120 --> 00:11:06.120]   to their tables, and then we'll pray
+[00:11:06.120 --> 00:11:08.120]   to begin our Bible study.
+[00:11:08.120 --> 00:11:10.120]   Please join me in prayer.
+[00:11:10.120 --> 00:11:13.120]   Lord, Heavenly Father, we want to thank you
+[00:11:13.120 --> 00:11:15.120]   for your amazing grace.
+[00:11:15.120 --> 00:11:18.120]   God, we are so grateful when we think about you
+[00:11:18.120 --> 00:11:22.120]   and your holiness and your absolute grandeur
+[00:11:22.120 --> 00:11:28.120]   looking upon us with both pity, kindness, and love.
+[00:11:28.120 --> 00:11:30.120]   And God, knowing who we are, Lord,
+[00:11:30.120 --> 00:11:34.120]   we're oftentimes slow to learn, oftentimes resistant,
+[00:11:34.120 --> 00:11:36.120]   and yet with your perfect patience,
+[00:11:36.120 --> 00:11:38.120]   you continue to instruct us and teach us.
+[00:11:38.120 --> 00:11:40.120]   We thank you, God.
+[00:11:40.120 --> 00:11:42.120]   And Lord, as we participate in another Bible study,
+[00:11:42.120 --> 00:11:45.120]   we pray with that kind of gratitude.
+[00:11:45.120 --> 00:11:48.120]   We would be longing, Lord, to receive your instruction.
+[00:11:48.120 --> 00:11:50.120]   We would long for conviction from your truth, Lord,
+[00:11:50.120 --> 00:11:52.120]   that we would grow.
+[00:11:52.120 --> 00:11:55.120]   We want to now join our voices to praise you.
+[00:11:55.120 --> 00:11:57.120]   We want to lift you up on high as you deserve,
+[00:11:57.120 --> 00:12:01.120]   and we ask, God, that as we give to you the worship,
+[00:12:01.120 --> 00:12:04.120]   Lord, ultimately, it would be pleasing unto you.
+[00:12:04.120 --> 00:12:06.120]   It's in Christ's name, amen.
+[00:12:06.120 --> 00:12:08.120]   - Amen.
+[00:12:08.120 --> 00:12:11.120]   (gentle music)
+[00:12:11.120 --> 00:12:17.120]   Sing "I Stand."
+[00:12:22.120 --> 00:12:28.120]   ♪ I stand amazed in the presence ♪
+[00:12:28.120 --> 00:12:34.120]   ♪ Of Jesus the Nazarene ♪
+[00:12:34.120 --> 00:12:42.120]   ♪ And wonder how he could love me ♪
+[00:12:42.120 --> 00:12:48.120]   ♪ A sinner condemned unclean ♪
+[00:12:49.120 --> 00:12:56.120]   ♪ Singing how marvelous, how wonderful ♪
+[00:12:56.120 --> 00:13:02.120]   ♪ And my song shall ever be ♪
+[00:13:02.120 --> 00:13:09.120]   ♪ How marvelous, how wonderful ♪
+[00:13:09.120 --> 00:13:16.120]   ♪ Is my Savior's love for me ♪
+[00:13:17.120 --> 00:13:19.120]   (gentle music)
+[00:13:19.120 --> 00:13:20.120]   He took my sin.
+[00:13:20.120 --> 00:13:27.120]   ♪ He took my sin and my sorrows ♪
+[00:13:27.120 --> 00:13:33.120]   ♪ And made them his very own ♪
+[00:13:33.120 --> 00:13:41.120]   ♪ And bore the burdens of calvary ♪
+[00:13:42.120 --> 00:13:47.120]   ♪ Suffered and died alone ♪
+[00:13:47.120 --> 00:13:55.120]   ♪ Singing how marvelous, how wonderful ♪
+[00:13:55.120 --> 00:14:01.120]   ♪ And my song shall ever be ♪
+[00:14:01.120 --> 00:14:08.120]   ♪ How marvelous, how wonderful ♪
+[00:14:09.120 --> 00:14:15.120]   ♪ Is my Savior's love for me ♪
+[00:14:15.120 --> 00:14:19.120]   (gentle music)
+[00:14:19.120 --> 00:14:26.120]   ♪ And with the ransomed in glory ♪
+[00:14:26.120 --> 00:14:32.120]   ♪ His face I at last shall see ♪
+[00:14:33.120 --> 00:14:39.120]   ♪ And with my joy through the ages ♪
+[00:14:39.120 --> 00:14:45.120]   ♪ To sing of his love for me ♪
+[00:14:45.120 --> 00:14:53.120]   ♪ Singing how marvelous, how wonderful ♪
+[00:14:53.120 --> 00:15:00.120]   ♪ And my song shall ever be ♪
+[00:15:01.120 --> 00:15:07.120]   ♪ How marvelous, how wonderful ♪
+[00:15:07.120 --> 00:15:14.120]   ♪ Is my Savior's love for me ♪
+[00:15:14.120 --> 00:15:26.120]   (gentle music)
+[00:15:26.120 --> 00:15:28.120]   Sing I will trust.
+[00:15:29.120 --> 00:15:34.120]   ♪ I will trust my Savior Jesus ♪
+[00:15:34.120 --> 00:15:39.120]   ♪ When my darkest hours befall ♪
+[00:15:39.120 --> 00:15:44.120]   ♪ And trust him when to simply trust him ♪
+[00:15:44.120 --> 00:15:49.120]   ♪ Seems the hardest thing of all ♪
+[00:15:49.120 --> 00:15:55.120]   ♪ I will trust my Savior Jesus ♪
+[00:15:56.120 --> 00:16:00.120]   ♪ Trust him when my strength is small ♪
+[00:16:00.120 --> 00:16:05.120]   ♪ For I know the shield of Jesus ♪
+[00:16:05.120 --> 00:16:11.120]   ♪ Is the safest place of all ♪
+[00:16:11.120 --> 00:16:16.120]   ♪ Jesus, only Jesus ♪
+[00:16:16.120 --> 00:16:21.120]   ♪ Help me trust you more and more ♪
+[00:16:22.120 --> 00:16:26.120]   ♪ Jesus, only Jesus ♪
+[00:16:26.120 --> 00:16:31.120]   ♪ May my heart be ever yours ♪
+[00:16:31.120 --> 00:16:34.120]   (gentle music)
+[00:16:34.120 --> 00:16:39.120]   ♪ I will trust my Savior Jesus ♪
+[00:16:39.120 --> 00:16:44.120]   ♪ He has set his way as best ♪
+[00:16:44.120 --> 00:16:49.120]   ♪ And I know the path he's chosen ♪
+[00:16:50.120 --> 00:16:54.120]   ♪ Leads to everlasting rest ♪
+[00:16:54.120 --> 00:16:59.120]   ♪ Jesus, only Jesus ♪
+[00:16:59.120 --> 00:17:04.120]   ♪ Help me trust you more and more ♪
+[00:17:04.120 --> 00:17:09.120]   ♪ Jesus, only Jesus ♪
+[00:17:09.120 --> 00:17:15.120]   ♪ May my heart be ever yours ♪
+[00:17:15.120 --> 00:17:17.120]   Sing oh.
+[00:17:18.120 --> 00:17:22.120]   ♪ Oh on that cross ♪
+[00:17:22.120 --> 00:17:27.120]   ♪ How it was seen ♪
+[00:17:27.120 --> 00:17:32.120]   ♪ I can go now ever trusting ♪
+[00:17:32.120 --> 00:17:38.120]   ♪ In the one who died for me ♪
+[00:17:38.120 --> 00:17:42.120]   ♪ What could I bring ♪
+[00:17:43.120 --> 00:17:48.120]   ♪ For your gift is complete ♪
+[00:17:48.120 --> 00:17:53.120]   ♪ And so I trust you, simply trust you ♪
+[00:17:53.120 --> 00:17:57.120]   ♪ Lord with every part of me ♪
+[00:17:57.120 --> 00:17:59.120]   Sing that again.
+[00:17:59.120 --> 00:18:03.120]   ♪ Oh on that cross ♪
+[00:18:03.120 --> 00:18:07.120]   ♪ How it was seen ♪
+[00:18:08.120 --> 00:18:13.120]   ♪ I can go now ever trusting ♪
+[00:18:13.120 --> 00:18:18.120]   ♪ In the one who died for me ♪
+[00:18:18.120 --> 00:18:22.120]   ♪ What could I bring ♪
+[00:18:22.120 --> 00:18:27.120]   ♪ For your gift is complete ♪
+[00:18:27.120 --> 00:18:32.120]   ♪ And so I trust you, simply trust you ♪
+[00:18:33.120 --> 00:18:38.120]   ♪ Lord with every part of me ♪
+[00:18:38.120 --> 00:18:40.120]   Sing Jesus.
+[00:18:40.120 --> 00:18:45.120]   ♪ Jesus, only Jesus ♪
+[00:18:45.120 --> 00:18:50.120]   ♪ Help me trust you more and more ♪
+[00:18:50.120 --> 00:18:55.120]   ♪ Jesus, only Jesus ♪
+[00:18:55.120 --> 00:19:00.120]   ♪ May my heart be ever yours ♪
+[00:19:01.120 --> 00:19:05.120]   ♪ Jesus, only Jesus ♪
+[00:19:05.120 --> 00:19:10.120]   ♪ Help me trust you more and more ♪
+[00:19:10.120 --> 00:19:15.120]   ♪ Jesus, only Jesus ♪
+[00:19:15.120 --> 00:19:20.120]   ♪ May my heart be ever yours ♪
+[00:19:20.120 --> 00:19:26.120]   ♪ May my heart be ever yours ♪
+[00:19:26.120 --> 00:19:29.120]   Okay, let's pray.
+[00:19:30.120 --> 00:19:33.120]   Father, we just thank you for this time of worship.
+[00:19:33.120 --> 00:19:35.120]   And as we just sang, God,
+[00:19:35.120 --> 00:19:36.120]   we wanna trust in you, Lord,
+[00:19:36.120 --> 00:19:39.120]   and we wanna trust in you more and more each day.
+[00:19:39.120 --> 00:19:41.120]   Lord, as you just remind us, God,
+[00:19:41.120 --> 00:19:42.120]   that you are the same God
+[00:19:42.120 --> 00:19:44.120]   that made those promises to Abraham.
+[00:19:44.120 --> 00:19:47.120]   We're the same God that we worshiped here today.
+[00:19:47.120 --> 00:19:49.120]   So God, as we just continue through the study
+[00:19:49.120 --> 00:19:52.120]   and just continue to reflect on the cross, Lord,
+[00:19:52.120 --> 00:19:56.120]   we pray that we would continue to just grow in amazement,
+[00:19:56.120 --> 00:19:58.120]   Lord, of the beauty of the cross
+[00:19:58.120 --> 00:20:00.120]   and what you've done for us, God.
+[00:20:00.120 --> 00:20:02.120]   I would just thank you for this time once again,
+[00:20:02.120 --> 00:20:04.120]   and it's in Christ's name we pray, amen.
+[00:20:04.120 --> 00:20:06.120]   So we'll just break off into our small groups
+[00:20:06.120 --> 00:20:08.120]   and then meet back at eight o'clock.
+[00:20:08.120 --> 00:20:09.120]   Thanks.
+[00:20:09.120 --> 00:20:10.120]   - Thanks.
+[00:20:11.120 --> 00:20:13.120]   (indistinct)
+[00:20:13.120 --> 00:20:18.120]   (indistinct)
+[00:20:18.120 --> 00:20:23.120]   (indistinct)
+[00:20:23.120 --> 00:20:28.120]   (indistinct)
+[00:20:28.120 --> 00:20:33.120]   (indistinct)
+[00:20:33.120 --> 00:20:38.120]   (indistinct)
+[00:20:38.120 --> 00:20:43.120]   (indistinct)
+[00:20:43.120 --> 00:20:48.120]   (indistinct)
+[00:20:48.120 --> 00:20:53.120]   (indistinct)
+[00:20:53.120 --> 00:20:58.120]   (indistinct)
+[00:20:58.120 --> 00:21:03.120]   (indistinct)
+[00:21:03.120 --> 00:21:08.120]   (indistinct)
+[00:21:08.120 --> 00:21:13.120]   (indistinct)
+[00:21:13.120 --> 00:21:18.120]   (indistinct)
+[00:21:18.120 --> 00:21:23.120]   (indistinct)
+[00:21:23.120 --> 00:21:28.120]   (indistinct)
+[00:21:28.120 --> 00:21:33.120]   (indistinct)
+[00:21:33.120 --> 00:21:38.120]   (indistinct)
+[00:21:38.120 --> 00:21:43.120]   (indistinct)
+[00:21:43.120 --> 00:21:48.120]   (indistinct)
+[00:21:48.120 --> 00:21:53.120]   (indistinct)
+[00:21:53.120 --> 00:21:58.120]   (indistinct)
+[00:21:58.120 --> 00:22:03.120]   (indistinct)
+[00:22:03.120 --> 00:22:08.120]   (indistinct)
+[00:22:08.120 --> 00:22:13.120]   (indistinct)
+[00:22:13.120 --> 00:22:18.120]   (indistinct)
+[00:22:18.120 --> 00:22:23.120]   (indistinct)
+[00:22:23.120 --> 00:22:28.120]   (indistinct)
+[00:22:28.120 --> 00:22:33.120]   (indistinct)
+[00:22:33.120 --> 00:22:38.120]   (indistinct)
+[00:22:38.120 --> 00:22:43.120]   (indistinct)
+[00:22:43.120 --> 00:22:48.120]   (indistinct)
+[00:22:48.120 --> 00:22:53.120]   (indistinct)
+[00:22:53.120 --> 00:22:58.120]   (indistinct)
+[00:22:58.120 --> 00:23:03.120]   (indistinct)
+[00:23:03.120 --> 00:23:08.120]   (indistinct)
+[00:23:08.120 --> 00:23:13.120]   (indistinct)
+[00:23:13.120 --> 00:23:18.120]   (indistinct)
+[00:23:18.120 --> 00:23:23.120]   (indistinct)
+[00:23:23.120 --> 00:23:28.120]   (indistinct)
+[00:23:28.120 --> 00:23:33.120]   (indistinct)
+[00:23:33.120 --> 00:23:38.120]   (indistinct)
+[00:23:38.120 --> 00:23:43.120]   (indistinct)
+[00:23:43.120 --> 00:23:48.120]   (indistinct)
+[00:23:48.120 --> 00:23:53.120]   (indistinct)
+[00:23:53.120 --> 00:23:58.120]   (indistinct)
+[00:23:58.120 --> 00:24:03.120]   (indistinct)
+[00:24:03.120 --> 00:24:08.120]   (indistinct)
+[00:24:08.120 --> 00:24:13.120]   (indistinct)
+[00:24:13.120 --> 00:24:18.120]   (indistinct)
+[00:24:18.120 --> 00:24:23.120]   (indistinct)
+[00:24:23.120 --> 00:24:28.120]   (indistinct)
+[00:24:28.120 --> 00:24:33.120]   (indistinct)
+[00:24:33.120 --> 00:24:38.120]   (indistinct)
+[00:24:38.120 --> 00:24:43.120]   (indistinct)
+[00:24:43.120 --> 00:24:48.120]   (indistinct)
+[00:24:48.120 --> 00:24:53.120]   (indistinct)
+[00:24:53.120 --> 00:24:58.120]   (indistinct)
+[00:24:58.120 --> 00:25:03.120]   (indistinct)
+[00:25:03.120 --> 00:25:08.120]   (indistinct)
+[00:25:08.120 --> 00:25:13.120]   (indistinct)
+[00:25:13.120 --> 00:25:18.120]   (indistinct)
+[00:25:18.120 --> 00:25:23.120]   (indistinct)
+[00:25:23.120 --> 00:25:28.120]   (indistinct)
+[00:25:28.120 --> 00:25:33.120]   (indistinct)
+[00:25:33.120 --> 00:25:38.120]   (indistinct)
+[00:25:38.120 --> 00:25:43.120]   (indistinct)
+[00:25:43.120 --> 00:25:48.120]   (indistinct)
+[00:25:48.120 --> 00:25:53.120]   (indistinct)
+[00:25:53.120 --> 00:25:58.120]   (indistinct)
+[00:25:58.120 --> 00:26:03.120]   (indistinct)
+[00:26:03.120 --> 00:26:08.120]   (indistinct)
+[00:26:08.120 --> 00:26:13.120]   (indistinct)
+[00:26:13.120 --> 00:26:18.120]   (indistinct)
+[00:26:18.120 --> 00:26:23.120]   (indistinct)
+[00:26:23.120 --> 00:26:28.120]   (indistinct)
+[00:26:28.120 --> 00:26:33.120]   (indistinct)
+[00:26:33.120 --> 00:26:38.120]   (indistinct)
+[00:26:38.120 --> 00:26:43.120]   (indistinct)
+[00:26:43.120 --> 00:26:48.120]   (indistinct)
+[00:26:48.120 --> 00:26:53.120]   (indistinct)
+[00:26:53.120 --> 00:26:58.120]   (indistinct)
+[00:26:58.120 --> 00:27:03.120]   (indistinct)
+[00:27:03.120 --> 00:27:08.120]   (indistinct)
+[00:27:08.120 --> 00:27:13.120]   (indistinct)
+[00:27:13.120 --> 00:27:18.120]   (indistinct)
+[00:27:18.120 --> 00:27:23.120]   (indistinct)
+[00:27:23.120 --> 00:27:28.120]   (indistinct)
+[00:27:28.120 --> 00:27:33.120]   (indistinct)
+[00:27:33.120 --> 00:27:38.120]   (indistinct)
+[00:27:38.120 --> 00:27:43.120]   (indistinct)
+[00:27:43.120 --> 00:27:48.120]   (indistinct)
+[00:27:48.120 --> 00:27:53.120]   (indistinct)
+[00:27:53.120 --> 00:27:58.120]   (indistinct)
+[00:27:58.120 --> 00:28:03.120]   (indistinct)
+[00:28:03.120 --> 00:28:08.120]   (indistinct)
+[00:28:08.120 --> 00:28:13.120]   (indistinct)
+[00:28:13.120 --> 00:28:18.120]   (indistinct)
+[00:28:18.120 --> 00:28:23.120]   (indistinct)
+[00:28:23.120 --> 00:28:28.120]   (indistinct)
+[00:28:28.120 --> 00:28:33.120]   (indistinct)
+[00:28:33.120 --> 00:28:38.120]   (indistinct)
+[00:28:38.120 --> 00:28:43.120]   (indistinct)
+[00:28:43.120 --> 00:28:48.120]   (indistinct)
+[00:28:48.120 --> 00:28:53.120]   (indistinct)
+[00:28:53.120 --> 00:28:58.120]   (indistinct)
+[00:28:58.120 --> 00:29:03.120]   (indistinct)
+[00:29:03.120 --> 00:29:08.120]   (indistinct)
+[00:29:08.120 --> 00:29:13.120]   (indistinct)
+[00:29:13.120 --> 00:29:18.120]   (indistinct)
+[00:29:18.120 --> 00:29:23.120]   (indistinct)
+[00:29:23.120 --> 00:29:28.120]   (indistinct)
+[00:29:28.120 --> 00:29:33.120]   (indistinct)
+[00:29:33.120 --> 00:29:38.120]   (indistinct)
+[00:29:38.120 --> 00:29:43.120]   (indistinct)
+[00:29:43.120 --> 00:29:48.120]   (indistinct)
+[00:29:48.120 --> 00:29:53.120]   (indistinct)
+[00:29:53.120 --> 00:29:58.120]   (indistinct)
+[00:29:58.120 --> 00:30:03.120]   (indistinct)
+[00:30:03.120 --> 00:30:08.120]   (indistinct)
+[00:30:08.120 --> 00:30:13.120]   (indistinct)
+[00:30:13.120 --> 00:30:18.120]   (indistinct)
+[00:30:18.120 --> 00:30:23.120]   (indistinct)
+[00:30:23.120 --> 00:30:28.120]   (indistinct)
+[00:30:28.120 --> 00:30:33.120]   (indistinct)
+[00:30:33.120 --> 00:30:38.120]   (indistinct)
+[00:30:38.120 --> 00:30:43.120]   (indistinct)
+[00:30:43.120 --> 00:30:48.120]   (indistinct)
+[00:30:48.120 --> 00:30:53.120]   (indistinct)
+[00:30:53.120 --> 00:30:58.120]   (indistinct)
+[00:30:58.120 --> 00:31:03.120]   (indistinct)
+[00:31:03.120 --> 00:31:08.120]   (indistinct)
+[00:31:08.120 --> 00:31:13.120]   (indistinct)
+[00:31:13.120 --> 00:31:18.120]   (indistinct)
+[00:31:18.120 --> 00:31:23.120]   (indistinct)
+[00:31:23.120 --> 00:31:28.120]   (indistinct)
+[00:31:28.120 --> 00:31:33.120]   (indistinct)
+[00:31:33.120 --> 00:31:38.120]   (indistinct)
+[00:31:38.120 --> 00:31:43.120]   (indistinct)
+[00:31:43.120 --> 00:31:48.120]   (indistinct)
+[00:31:48.120 --> 00:31:53.120]   (indistinct)
+[00:31:53.120 --> 00:31:58.120]   (indistinct)
+[00:31:58.120 --> 00:32:03.120]   (indistinct)
+[00:32:03.120 --> 00:32:08.120]   (indistinct)
+[00:32:08.120 --> 00:32:13.120]   (indistinct)
+[00:32:13.120 --> 00:32:18.120]   (indistinct)
+[00:32:18.120 --> 00:32:23.120]   (indistinct)
+[00:32:23.120 --> 00:32:28.120]   (indistinct)
+[00:32:28.120 --> 00:32:33.120]   (indistinct)
+[00:32:33.120 --> 00:32:38.120]   (indistinct)
+[00:32:38.120 --> 00:32:43.120]   (indistinct)
+[00:32:43.120 --> 00:32:48.120]   (indistinct)
+[00:32:48.120 --> 00:32:53.120]   (indistinct)
+[00:32:53.120 --> 00:32:58.120]   (indistinct)
+[00:32:58.120 --> 00:33:03.120]   (indistinct)
+[00:33:03.120 --> 00:33:08.120]   (indistinct)
+[00:33:08.120 --> 00:33:13.120]   (indistinct)
+[00:33:13.120 --> 00:33:18.120]   (indistinct)
+[00:33:18.120 --> 00:33:23.120]   (indistinct)
+[00:33:23.120 --> 00:33:28.120]   (indistinct)
+[00:33:28.120 --> 00:33:33.120]   (indistinct)
+[00:33:33.120 --> 00:33:38.120]   (indistinct)
+[00:33:38.120 --> 00:33:43.120]   (indistinct)
+[00:33:43.120 --> 00:33:48.120]   (indistinct)
+[00:33:48.120 --> 00:33:53.120]   (indistinct)
+[00:33:53.120 --> 00:33:58.120]   (indistinct)
+[00:33:58.120 --> 00:34:03.120]   (indistinct)
+[00:34:03.120 --> 00:34:08.120]   (indistinct)
+[00:34:08.120 --> 00:34:13.120]   (indistinct)
+[00:34:13.120 --> 00:34:18.120]   (indistinct)
+[00:34:18.120 --> 00:34:23.120]   (indistinct)
+[00:34:23.120 --> 00:34:28.120]   (indistinct)
+[00:34:28.120 --> 00:34:33.120]   (indistinct)
+[00:34:33.120 --> 00:34:38.120]   (indistinct)
+[00:34:38.120 --> 00:34:43.120]   (indistinct)
+[00:34:43.120 --> 00:34:48.120]   (indistinct)
+[00:34:48.120 --> 00:34:53.120]   (indistinct)
+[00:34:53.120 --> 00:34:58.120]   (indistinct)
+[00:34:58.120 --> 00:35:03.120]   (indistinct)
+[00:35:03.120 --> 00:35:08.120]   (indistinct)
+[00:35:08.120 --> 00:35:13.120]   (indistinct)
+[00:35:13.120 --> 00:35:18.120]   (indistinct)
+[00:35:18.120 --> 00:35:23.120]   (indistinct)
+[00:35:23.120 --> 00:35:28.120]   (indistinct)
+[00:35:28.120 --> 00:35:33.120]   (indistinct)
+[00:35:33.120 --> 00:35:38.120]   (indistinct)
+[00:35:38.120 --> 00:35:43.120]   (indistinct)
+[00:35:43.120 --> 00:35:48.120]   (indistinct)
+[00:35:48.120 --> 00:35:53.120]   (indistinct)
+[00:35:53.120 --> 00:35:58.120]   (indistinct)
+[00:35:58.120 --> 00:36:03.120]   (indistinct)
+[00:36:03.120 --> 00:36:08.120]   (indistinct)
+[00:36:08.120 --> 00:36:13.120]   (indistinct)
+[00:36:13.120 --> 00:36:18.120]   (indistinct)
+[00:36:18.120 --> 00:36:23.120]   (indistinct)
+[00:36:23.120 --> 00:36:28.120]   (indistinct)
+[00:36:28.120 --> 00:36:33.120]   (indistinct)
+[00:36:33.120 --> 00:36:38.120]   (indistinct)
+[00:36:38.120 --> 00:36:43.120]   (indistinct)
+[00:36:43.120 --> 00:36:48.120]   (indistinct)
+[00:36:48.120 --> 00:36:53.120]   (indistinct)
+[00:36:53.120 --> 00:36:58.120]   (indistinct)
+[00:36:58.120 --> 00:37:03.120]   (indistinct)
+[00:37:03.120 --> 00:37:08.120]   (indistinct)
+[00:37:08.120 --> 00:37:13.120]   (indistinct)
+[00:37:13.120 --> 00:37:18.120]   (indistinct)
+[00:37:18.120 --> 00:37:23.120]   (indistinct)
+[00:37:23.120 --> 00:37:28.120]   (indistinct)
+[00:37:28.120 --> 00:37:33.120]   (indistinct)
+[00:37:33.120 --> 00:37:38.120]   (indistinct)
+[00:37:38.120 --> 00:37:43.120]   (indistinct)
+[00:37:43.120 --> 00:37:48.120]   (indistinct)
+[00:37:48.120 --> 00:37:53.120]   (indistinct)
+[00:37:53.120 --> 00:37:58.120]   (indistinct)
+[00:37:58.120 --> 00:38:03.120]   (indistinct)
+[00:38:03.120 --> 00:38:08.120]   (indistinct)
+[00:38:08.120 --> 00:38:13.120]   (indistinct)
+[00:38:13.120 --> 00:38:18.120]   (indistinct)
+[00:38:18.120 --> 00:38:23.120]   (indistinct)
+[00:38:23.120 --> 00:38:28.120]   (indistinct)
+[00:38:28.120 --> 00:38:33.120]   (indistinct)
+[00:38:33.120 --> 00:38:38.120]   (indistinct)
+[00:38:38.120 --> 00:38:43.120]   (indistinct)
+[00:38:43.120 --> 00:38:48.120]   (indistinct)
+[00:38:48.120 --> 00:38:53.120]   (indistinct)
+[00:38:53.120 --> 00:38:58.120]   (indistinct)
+[00:38:58.120 --> 00:39:03.120]   (indistinct)
+[00:39:03.120 --> 00:39:08.120]   (indistinct)
+[00:39:08.120 --> 00:39:13.120]   (indistinct)
+[00:39:13.120 --> 00:39:18.120]   (indistinct)
+[00:39:18.120 --> 00:39:23.120]   (indistinct)
+[00:39:23.120 --> 00:39:28.120]   (indistinct)
+[00:39:28.120 --> 00:39:33.120]   (indistinct)
+[00:39:33.120 --> 00:39:38.120]   (indistinct)
+[00:39:38.120 --> 00:39:43.120]   (indistinct)
+[00:39:43.120 --> 00:39:48.120]   (indistinct)
+[00:39:48.120 --> 00:39:53.120]   (indistinct)
+[00:39:53.120 --> 00:39:58.120]   (indistinct)
+[00:39:58.120 --> 00:40:03.120]   (indistinct)
+[00:40:03.120 --> 00:40:08.120]   (indistinct)
+[00:40:08.120 --> 00:40:13.120]   (indistinct)
+[00:40:13.120 --> 00:40:18.120]   (indistinct)
+[00:40:18.120 --> 00:40:23.120]   (indistinct)
+[00:40:23.120 --> 00:40:28.120]   (indistinct)
+[00:40:28.120 --> 00:40:33.120]   (indistinct)
+[00:40:33.120 --> 00:40:38.120]   (indistinct)
+[00:40:38.120 --> 00:40:43.120]   (indistinct)
+[00:40:43.120 --> 00:40:48.120]   (indistinct)
+[00:40:48.120 --> 00:40:53.120]   (indistinct)
+[00:40:53.120 --> 00:40:58.120]   (indistinct)
+[00:40:58.120 --> 00:41:03.120]   (indistinct)
+[00:41:03.120 --> 00:41:08.120]   (indistinct)
+[00:41:08.120 --> 00:41:13.120]   (indistinct)
+[00:41:13.120 --> 00:41:18.120]   (indistinct)
+[00:41:18.120 --> 00:41:23.120]   (indistinct)
+[00:41:23.120 --> 00:41:28.120]   (indistinct)
+[00:41:28.120 --> 00:41:33.120]   (indistinct)
+[00:41:33.120 --> 00:41:38.120]   (indistinct)
+[00:41:38.120 --> 00:41:43.120]   (indistinct)
+[00:41:43.120 --> 00:41:48.120]   (indistinct)
+[00:41:48.120 --> 00:41:53.120]   (indistinct)
+[00:41:53.120 --> 00:41:58.120]   (indistinct)
+[00:41:58.120 --> 00:42:03.120]   (indistinct)
+[00:42:03.120 --> 00:42:08.120]   (indistinct)
+[00:42:08.120 --> 00:42:13.120]   (indistinct)
+[00:42:13.120 --> 00:42:18.120]   (indistinct)
+[00:42:18.120 --> 00:42:23.120]   (indistinct)
+[00:42:23.120 --> 00:42:28.120]   (indistinct)
+[00:42:28.120 --> 00:42:33.120]   (indistinct)
+[00:42:33.120 --> 00:42:38.120]   (indistinct)
+[00:42:38.120 --> 00:42:43.120]   (indistinct)
+[00:42:43.120 --> 00:42:48.120]   (indistinct)
+[00:42:48.120 --> 00:42:53.120]   (indistinct)
+[00:42:53.120 --> 00:42:58.120]   (indistinct)
+[00:42:58.120 --> 00:43:03.120]   (indistinct)
+[00:43:03.120 --> 00:43:08.120]   (indistinct)
+[00:43:08.120 --> 00:43:13.120]   (indistinct)
+[00:43:13.120 --> 00:43:18.120]   (indistinct)
+[00:43:18.120 --> 00:43:23.120]   (indistinct)
+[00:43:23.120 --> 00:43:28.120]   (indistinct)
+[00:43:28.120 --> 00:43:33.120]   (indistinct)
+[00:43:33.120 --> 00:43:38.120]   (indistinct)
+[00:43:38.120 --> 00:43:43.120]   (indistinct)
+[00:43:43.120 --> 00:43:48.120]   (indistinct)
+[00:43:48.120 --> 00:43:53.120]   (indistinct)
+[00:43:53.120 --> 00:43:58.120]   (indistinct)
+[00:43:58.120 --> 00:44:03.120]   (indistinct)
+[00:44:03.120 --> 00:44:08.120]   (indistinct)
+[00:44:08.120 --> 00:44:13.120]   (indistinct)
+[00:44:13.120 --> 00:44:18.120]   (indistinct)
+[00:44:18.120 --> 00:44:23.120]   (indistinct)
+[00:44:23.120 --> 00:44:28.120]   (indistinct)
+[00:44:28.120 --> 00:44:33.120]   (indistinct)
+[00:44:33.120 --> 00:44:38.120]   (indistinct)
+[00:44:38.120 --> 00:44:43.120]   (indistinct)
+[00:44:43.120 --> 00:44:48.120]   (indistinct)
+[00:44:48.120 --> 00:44:53.120]   (indistinct)
+[00:44:53.120 --> 00:44:58.120]   (indistinct)
+[00:44:58.120 --> 00:45:03.120]   (indistinct)
+[00:45:03.120 --> 00:45:08.120]   (indistinct)
+[00:45:08.120 --> 00:45:13.120]   (indistinct)
+[00:45:13.120 --> 00:45:18.120]   (indistinct)
+[00:45:18.120 --> 00:45:23.120]   (indistinct)
+[00:45:23.120 --> 00:45:28.120]   (indistinct)
+[00:45:28.120 --> 00:45:33.120]   (indistinct)
+[00:45:33.120 --> 00:45:38.120]   (indistinct)
+[00:45:38.120 --> 00:45:43.120]   (indistinct)
+[00:45:43.120 --> 00:45:48.120]   (indistinct)
+[00:45:48.120 --> 00:45:53.120]   (indistinct)
+[00:45:53.120 --> 00:45:58.120]   (indistinct)
+[00:45:58.120 --> 00:46:03.120]   (indistinct)
+[00:46:03.120 --> 00:46:08.120]   (indistinct)
+[00:46:08.120 --> 00:46:13.120]   (indistinct)
+[00:46:13.120 --> 00:46:18.120]   (indistinct)
+[00:46:18.120 --> 00:46:23.120]   (indistinct)
+[00:46:23.120 --> 00:46:28.120]   (indistinct)
+[00:46:28.120 --> 00:46:33.120]   (indistinct)
+[00:46:33.120 --> 00:46:38.120]   (indistinct)
+[00:46:38.120 --> 00:46:43.120]   (indistinct)
+[00:46:43.120 --> 00:46:48.120]   (indistinct)
+[00:46:48.120 --> 00:46:53.120]   (indistinct)
+[00:46:53.120 --> 00:46:58.120]   (indistinct)
+[00:46:58.120 --> 00:47:03.120]   (indistinct)
+[00:47:03.120 --> 00:47:08.120]   (indistinct)
+[00:47:08.120 --> 00:47:13.120]   (indistinct)
+[00:47:13.120 --> 00:47:18.120]   (indistinct)
+[00:47:18.120 --> 00:47:23.120]   (indistinct)
+[00:47:23.120 --> 00:47:28.120]   (indistinct)
+[00:47:28.120 --> 00:47:33.120]   (indistinct)
+[00:47:33.120 --> 00:47:38.120]   (indistinct)
+[00:47:38.120 --> 00:47:43.120]   (indistinct)
+[00:47:43.120 --> 00:47:48.120]   (indistinct)
+[00:47:48.120 --> 00:47:53.120]   (indistinct)
+[00:47:53.120 --> 00:47:58.120]   (indistinct)
+[00:47:58.120 --> 00:48:03.120]   (indistinct)
+[00:48:03.120 --> 00:48:08.120]   (indistinct)
+[00:48:08.120 --> 00:48:13.120]   (indistinct)
+[00:48:13.120 --> 00:48:18.120]   (indistinct)
+[00:48:18.120 --> 00:48:23.120]   (indistinct)
+[00:48:23.120 --> 00:48:28.120]   (indistinct)
+[00:48:28.120 --> 00:48:33.120]   (indistinct)
+[00:48:33.120 --> 00:48:38.120]   (indistinct)
+[00:48:38.120 --> 00:48:43.120]   (indistinct)
+[00:48:43.120 --> 00:48:48.120]   (indistinct)
+[00:48:48.120 --> 00:48:53.120]   (indistinct)
+[00:48:53.120 --> 00:48:58.120]   (indistinct)
+[00:48:58.120 --> 00:49:03.120]   (indistinct)
+[00:49:03.120 --> 00:49:08.120]   (indistinct)
+[00:49:08.120 --> 00:49:13.120]   (indistinct)
+[00:49:13.120 --> 00:49:18.120]   (indistinct)
+[00:49:18.120 --> 00:49:23.120]   (indistinct)
+[00:49:23.120 --> 00:49:28.120]   (indistinct)
+[00:49:28.120 --> 00:49:33.120]   (indistinct)
+[00:49:33.120 --> 00:49:38.120]   (indistinct)
+[00:49:38.120 --> 00:49:43.120]   (indistinct)
+[00:49:43.120 --> 00:49:48.120]   (indistinct)
+[00:49:48.120 --> 00:49:53.120]   (indistinct)
+[00:49:53.120 --> 00:49:58.120]   (indistinct)
+[00:49:58.120 --> 00:50:03.120]   (indistinct)
+[00:50:03.120 --> 00:50:08.120]   (indistinct)
+[00:50:08.120 --> 00:50:13.120]   (indistinct)
+[00:50:13.120 --> 00:50:18.120]   (indistinct)
+[00:50:18.120 --> 00:50:23.120]   (indistinct)
+[00:50:23.120 --> 00:50:28.120]   (indistinct)
+[00:50:28.120 --> 00:50:33.120]   (indistinct)
+[00:50:33.120 --> 00:50:38.120]   (indistinct)
+[00:50:38.120 --> 00:50:43.120]   (indistinct)
+[00:50:43.120 --> 00:50:48.120]   (indistinct)
+[00:50:48.120 --> 00:50:53.120]   (indistinct)
+[00:50:53.120 --> 00:50:58.120]   (indistinct)
+[00:50:58.120 --> 00:51:03.120]   (indistinct)
+[00:51:03.120 --> 00:51:08.120]   (indistinct)
+[00:51:08.120 --> 00:51:13.120]   (indistinct)
+[00:51:13.120 --> 00:51:18.120]   (indistinct)
+[00:51:18.120 --> 00:51:23.120]   (indistinct)
+[00:51:23.120 --> 00:51:28.120]   (indistinct)
+[00:51:28.120 --> 00:51:33.120]   (indistinct)
+[00:51:33.120 --> 00:51:38.120]   (indistinct)
+[00:51:38.120 --> 00:51:43.120]   (indistinct)
+[00:51:43.120 --> 00:51:48.120]   (indistinct)
+[00:51:48.120 --> 00:51:53.120]   (indistinct)
+[00:51:53.120 --> 00:51:58.120]   (indistinct)
+[00:51:58.120 --> 00:52:03.120]   (indistinct)
+[00:52:03.120 --> 00:52:08.120]   (indistinct)
+[00:52:08.120 --> 00:52:13.120]   (indistinct)
+[00:52:13.120 --> 00:52:18.120]   (indistinct)
+[00:52:18.120 --> 00:52:23.120]   (indistinct)
+[00:52:23.120 --> 00:52:28.120]   (indistinct)
+[00:52:28.120 --> 00:52:33.120]   (indistinct)
+[00:52:33.120 --> 00:52:38.120]   (indistinct)
+[00:52:38.120 --> 00:52:43.120]   (indistinct)
+[00:52:43.120 --> 00:52:48.120]   (indistinct)
+[00:52:48.120 --> 00:52:53.120]   (indistinct)
+[00:52:53.120 --> 00:52:58.120]   (indistinct)
+[00:52:58.120 --> 00:53:03.120]   (indistinct)
+[00:53:03.120 --> 00:53:08.120]   (indistinct)
+[00:53:08.120 --> 00:53:13.120]   (indistinct)
+[00:53:13.120 --> 00:53:18.120]   (indistinct)
+[00:53:18.120 --> 00:53:23.120]   (indistinct)
+[00:53:23.120 --> 00:53:28.120]   (indistinct)
+[00:53:28.120 --> 00:53:33.120]   (indistinct)
+[00:53:33.120 --> 00:53:38.120]   (indistinct)
+[00:53:38.120 --> 00:53:43.120]   (indistinct)
+[00:53:43.120 --> 00:53:48.120]   (indistinct)
+[00:53:48.120 --> 00:53:53.120]   (indistinct)
+[00:53:53.120 --> 00:53:58.120]   (indistinct)
+[00:53:58.120 --> 00:54:03.120]   (indistinct)
+[00:54:03.120 --> 00:54:08.120]   (indistinct)
+[00:54:08.120 --> 00:54:13.120]   (indistinct)
+[00:54:13.120 --> 00:54:18.120]   (indistinct)
+[00:54:18.120 --> 00:54:23.120]   (indistinct)
+[00:54:23.120 --> 00:54:28.120]   (indistinct)
+[00:54:28.120 --> 00:54:33.120]   (indistinct)
+[00:54:33.120 --> 00:54:38.120]   (indistinct)
+[00:54:38.120 --> 00:54:43.120]   (indistinct)
+[00:54:43.120 --> 00:54:48.120]   (indistinct)
+[00:54:48.120 --> 00:54:53.120]   (indistinct)
+[00:54:53.120 --> 00:54:58.120]   (indistinct)
+[00:54:58.120 --> 00:55:03.120]   (indistinct)
+[00:55:03.120 --> 00:55:08.120]   (indistinct)
+[00:55:08.120 --> 00:55:13.120]   (indistinct)
+[00:55:13.120 --> 00:55:18.120]   (indistinct)
+[00:55:18.120 --> 00:55:23.120]   (indistinct)
+[00:55:23.120 --> 00:55:28.120]   (indistinct)
+[00:55:28.120 --> 00:55:33.120]   (indistinct)
+[00:55:33.120 --> 00:55:38.120]   (indistinct)
+[00:55:38.120 --> 00:55:43.120]   (indistinct)
+[00:55:43.120 --> 00:55:48.120]   (indistinct)
+[00:55:48.120 --> 00:55:53.120]   (indistinct)
+[00:55:53.120 --> 00:55:58.120]   (indistinct)
+[00:55:58.120 --> 00:56:03.120]   (indistinct)
+[00:56:03.120 --> 00:56:08.120]   (indistinct)
+[00:56:08.120 --> 00:56:13.120]   (indistinct)
+[00:56:13.120 --> 00:56:18.120]   (indistinct)
+[00:56:18.120 --> 00:56:23.120]   (indistinct)
+[00:56:23.120 --> 00:56:28.120]   (indistinct)
+[00:56:28.120 --> 00:56:33.120]   (indistinct)
+[00:56:33.120 --> 00:56:38.120]   (indistinct)
+[00:56:38.120 --> 00:56:43.120]   (indistinct)
+[00:56:43.120 --> 00:56:48.120]   (indistinct)
+[00:56:48.120 --> 00:56:53.120]   (indistinct)
+[00:56:53.120 --> 00:56:58.120]   (indistinct)
+[00:56:58.120 --> 00:57:03.120]   (indistinct)
+[00:57:03.120 --> 00:57:08.120]   (indistinct)
+[00:57:08.120 --> 00:57:13.120]   (indistinct)
+[00:57:13.120 --> 00:57:18.120]   (indistinct)
+[00:57:18.120 --> 00:57:23.120]   (indistinct)
+[00:57:23.120 --> 00:57:28.120]   (indistinct)
+[00:57:28.120 --> 00:57:33.120]   (indistinct)
+[00:57:33.120 --> 00:57:38.120]   (indistinct)
+[00:57:38.120 --> 00:57:43.120]   (indistinct)
+[00:57:43.120 --> 00:57:48.120]   (indistinct)
+[00:57:48.120 --> 00:57:53.120]   (indistinct)
+[00:57:53.120 --> 00:57:58.120]   (indistinct)
+[00:57:58.120 --> 00:58:03.120]   (indistinct)
+[00:58:03.120 --> 00:58:08.120]   (indistinct)
+[00:58:08.120 --> 00:58:13.120]   (indistinct)
+[00:58:13.120 --> 00:58:18.120]   (indistinct)
+[00:58:18.120 --> 00:58:23.120]   (indistinct)
+[00:58:23.120 --> 00:58:28.120]   (indistinct)
+[00:58:28.120 --> 00:58:33.120]   (indistinct)
+[00:58:33.120 --> 00:58:38.120]   (indistinct)
+[00:58:38.120 --> 00:58:43.120]   (indistinct)
+[00:58:43.120 --> 00:58:48.120]   (indistinct)
+[00:58:48.120 --> 00:58:53.120]   (indistinct)
+[00:58:53.120 --> 00:58:58.120]   (indistinct)
+[00:58:58.120 --> 00:59:03.120]   (indistinct)
+[00:59:03.120 --> 00:59:08.120]   (indistinct)
+[00:59:08.120 --> 00:59:13.120]   (indistinct)
+[00:59:13.120 --> 00:59:18.120]   (indistinct)
+[00:59:18.120 --> 00:59:23.120]   (indistinct)
+[00:59:23.120 --> 00:59:28.120]   (indistinct)
+[00:59:28.120 --> 00:59:33.120]   (indistinct)
+[00:59:33.120 --> 00:59:38.120]   (indistinct)
+[00:59:38.120 --> 00:59:43.120]   (indistinct)
+[00:59:43.120 --> 00:59:48.120]   (indistinct)
+[00:59:48.120 --> 00:59:53.120]   (indistinct)
+[00:59:53.120 --> 00:59:58.120]   (indistinct)
+[00:59:58.120 --> 01:00:03.120]   (indistinct)
+[01:00:03.120 --> 01:00:08.120]   (indistinct)
+[01:00:08.120 --> 01:00:13.120]   (indistinct)
+[01:00:13.120 --> 01:00:18.120]   (indistinct)
+[01:00:18.120 --> 01:00:23.120]   (indistinct)
+[01:00:23.120 --> 01:00:28.120]   (indistinct)
+[01:00:28.120 --> 01:00:33.120]   (indistinct)
+[01:00:33.120 --> 01:00:38.120]   (indistinct)
+[01:00:38.120 --> 01:00:43.120]   (indistinct)
+[01:00:43.120 --> 01:00:48.120]   (indistinct)
+[01:00:48.120 --> 01:00:53.120]   (indistinct)
+[01:00:53.120 --> 01:00:58.120]   (indistinct)
+[01:00:58.120 --> 01:01:03.120]   (indistinct)
+[01:01:03.120 --> 01:01:08.120]   (indistinct)
+[01:01:08.120 --> 01:01:13.120]   (indistinct)
+[01:01:13.120 --> 01:01:18.120]   (indistinct)
+[01:01:18.120 --> 01:01:23.120]   (indistinct)
+[01:01:23.120 --> 01:01:28.120]   (indistinct)
+[01:01:28.120 --> 01:01:33.120]   (indistinct)
+[01:01:33.120 --> 01:01:38.120]   (indistinct)
+[01:01:38.120 --> 01:01:43.120]   (indistinct)
+[01:01:43.120 --> 01:01:48.120]   (indistinct)
+[01:01:48.120 --> 01:01:53.120]   (indistinct)
+[01:01:53.120 --> 01:01:58.120]   (indistinct)
+[01:01:58.120 --> 01:02:03.120]   (indistinct)
+[01:02:03.120 --> 01:02:08.120]   (indistinct)
+[01:02:08.120 --> 01:02:13.120]   (indistinct)
+[01:02:13.120 --> 01:02:18.120]   (indistinct)
+[01:02:18.120 --> 01:02:23.120]   (indistinct)
+[01:02:23.120 --> 01:02:28.120]   (indistinct)
+[01:02:28.120 --> 01:02:33.120]   (indistinct)
+[01:02:33.120 --> 01:02:38.120]   (indistinct)
+[01:02:38.120 --> 01:02:43.120]   (indistinct)
+[01:02:43.120 --> 01:02:48.120]   (indistinct)
+[01:02:48.120 --> 01:02:53.120]   (indistinct)
+[01:02:53.120 --> 01:02:58.120]   (indistinct)
+[01:02:58.120 --> 01:03:03.120]   (indistinct)
+[01:03:03.120 --> 01:03:08.120]   (indistinct)
+[01:03:08.120 --> 01:03:13.120]   (indistinct)
+[01:03:13.120 --> 01:03:18.120]   (indistinct)
+[01:03:18.120 --> 01:03:23.120]   (indistinct)
+[01:03:23.120 --> 01:03:28.120]   (indistinct)
+[01:03:28.120 --> 01:03:33.120]   (indistinct)
+[01:03:33.120 --> 01:03:38.120]   (indistinct)
+[01:03:38.120 --> 01:03:43.120]   (indistinct)
+[01:03:43.120 --> 01:03:48.120]   (indistinct)
+[01:03:48.120 --> 01:03:53.120]   (indistinct)
+[01:03:53.120 --> 01:03:58.120]   (indistinct)
+[01:03:58.120 --> 01:04:03.120]   (indistinct)
+[01:04:03.120 --> 01:04:08.120]   (indistinct)
+[01:04:08.120 --> 01:04:13.120]   (indistinct)
+[01:04:13.120 --> 01:04:18.120]   (indistinct)
+[01:04:18.120 --> 01:04:23.120]   (indistinct)
+[01:04:23.120 --> 01:04:28.120]   (indistinct)
+[01:04:28.120 --> 01:04:33.120]   (indistinct)
+[01:04:33.120 --> 01:04:38.120]   (indistinct)
+[01:04:38.120 --> 01:04:43.120]   (indistinct)
+[01:04:43.120 --> 01:04:48.120]   (indistinct)
+[01:04:48.120 --> 01:04:53.120]   (indistinct)
+[01:04:53.120 --> 01:04:58.120]   (indistinct)
+[01:04:58.120 --> 01:05:03.120]   (indistinct)
+[01:05:03.120 --> 01:05:08.120]   (indistinct)
+[01:05:08.120 --> 01:05:13.120]   (indistinct)
+[01:05:13.120 --> 01:05:18.120]   (indistinct)
+[01:05:18.120 --> 01:05:23.120]   (indistinct)
+[01:05:23.120 --> 01:05:28.120]   (indistinct)
+[01:05:28.120 --> 01:05:33.120]   (indistinct)
+[01:05:33.120 --> 01:05:38.120]   (indistinct)
+[01:05:38.120 --> 01:05:43.120]   (indistinct)
+[01:05:43.120 --> 01:05:48.120]   (indistinct)
+[01:05:48.120 --> 01:05:53.120]   (indistinct)
+[01:05:53.120 --> 01:05:58.120]   (indistinct)
+[01:05:58.120 --> 01:06:03.120]   (indistinct)
+[01:06:03.120 --> 01:06:08.120]   (indistinct)
+[01:06:08.120 --> 01:06:13.120]   (indistinct)
+[01:06:13.120 --> 01:06:18.120]   (indistinct)
+[01:06:18.120 --> 01:06:23.120]   (indistinct)
+[01:06:23.120 --> 01:06:28.120]   (indistinct)
+[01:06:28.120 --> 01:06:33.120]   (indistinct)
+[01:06:33.120 --> 01:06:38.120]   (indistinct)
+[01:06:38.120 --> 01:06:43.120]   (indistinct)
+[01:06:43.120 --> 01:06:48.120]   (indistinct)
+[01:06:48.120 --> 01:06:53.120]   (indistinct)
+[01:06:53.120 --> 01:06:58.120]   (indistinct)
+[01:06:58.120 --> 01:07:03.120]   (indistinct)
+[01:07:03.120 --> 01:07:08.120]   (indistinct)
+[01:07:08.120 --> 01:07:13.120]   (indistinct)
+[01:07:13.120 --> 01:07:18.120]   (indistinct)
+[01:07:18.120 --> 01:07:23.120]   (indistinct)
+[01:07:23.120 --> 01:07:28.120]   (indistinct)
+[01:07:28.120 --> 01:07:33.120]   (indistinct)
+[01:07:33.120 --> 01:07:35.120]   - Hello, hello, good.
+[01:07:35.120 --> 01:07:37.120]   It looks like everybody's coming back into the main room.
+[01:07:37.120 --> 01:07:40.120]   If you're in a classroom, please make your way over
+[01:07:40.120 --> 01:07:42.120]   so we can start our review.
+[01:07:42.120 --> 01:07:47.120]   (indistinct)
+[01:07:47.120 --> 01:07:52.120]   (indistinct)
+[01:07:52.120 --> 01:07:57.120]   (indistinct)
+[01:07:57.120 --> 01:08:02.120]   (indistinct)
+[01:08:02.120 --> 01:08:07.120]   (indistinct)
+[01:08:07.120 --> 01:08:12.120]   (indistinct)
+[01:08:12.120 --> 01:08:17.120]   (indistinct)
+[01:08:17.120 --> 01:08:22.120]   (indistinct)
+[01:08:22.120 --> 01:08:27.120]   (indistinct)
+[01:08:27.120 --> 01:08:29.120]   (indistinct)
+[01:08:29.120 --> 01:08:31.120]   Okay.
+[01:08:31.120 --> 01:08:35.120]   So as we're thinking about that or getting situated,
+[01:08:35.120 --> 01:08:38.120]   if you have questions about the passage,
+[01:08:38.120 --> 01:08:40.120]   you can shoot me a text.
+[01:08:40.120 --> 01:08:43.120]   I will try to peer over at my phone
+[01:08:43.120 --> 01:08:46.120]   and if I can address the question in lesson,
+[01:08:46.120 --> 01:08:48.120]   we can go ahead and try and do that.
+[01:08:48.120 --> 01:08:50.120]   Okay.
+[01:08:50.120 --> 01:08:54.120]   Well, let's take a moment to pray
+[01:08:54.120 --> 01:08:59.120]   and we'll begin the review.
+[01:08:59.120 --> 01:09:02.120]   Let's pray together.
+[01:09:02.120 --> 01:09:07.120]   Lord God, we do want to just understand more
+[01:09:07.120 --> 01:09:10.120]   of how you've worked in history
+[01:09:10.120 --> 01:09:14.120]   and God, just how faithful you have proven to be,
+[01:09:14.120 --> 01:09:16.120]   how sovereign you have proven to be.
+[01:09:16.120 --> 01:09:18.120]   And we know, God, that that is such a challenge
+[01:09:18.120 --> 01:09:21.120]   for us to trust, but I ask that, God,
+[01:09:21.120 --> 01:09:23.120]   you would cause us to grow in it,
+[01:09:23.120 --> 01:09:26.120]   to have such a confidence in your character,
+[01:09:26.120 --> 01:09:28.120]   in your work, and who you are to us.
+[01:09:28.120 --> 01:09:30.120]   We thank you in Christ's name.
+[01:09:30.120 --> 01:09:31.120]   Amen.
+[01:09:31.120 --> 01:09:32.120]   Okay.
+[01:09:32.120 --> 01:09:34.120]   So this is just a quick review
+[01:09:34.120 --> 01:09:37.120]   that if you guys kind of think about it,
+[01:09:37.120 --> 01:09:39.120]   there's a sense in which this is one letter
+[01:09:39.120 --> 01:09:41.120]   and we're chopping it up,
+[01:09:41.120 --> 01:09:43.120]   so it'll feel pretty repetitive.
+[01:09:43.120 --> 01:09:46.120]   At the same time, he is repetitive.
+[01:09:46.120 --> 01:09:48.120]   Within the letter, essentially,
+[01:09:48.120 --> 01:09:51.120]   he is highlighting and then restating
+[01:09:51.120 --> 01:09:54.120]   and then now giving example
+[01:09:54.120 --> 01:09:56.120]   of the point that he's been already making,
+[01:09:56.120 --> 01:09:59.120]   which is, whoops,
+[01:09:59.120 --> 01:10:02.120]   in the previous section, he said,
+[01:10:02.120 --> 01:10:06.120]   "Before, you didn't know God, right?
+[01:10:06.120 --> 01:10:08.120]   Before, you were a slave.
+[01:10:08.120 --> 01:10:10.120]   You were a child slave.
+[01:10:10.120 --> 01:10:11.120]   You had no freedoms
+[01:10:11.120 --> 01:10:13.120]   and you were underneath
+[01:10:13.120 --> 01:10:15.120]   a strict, strict disciplinarian.
+[01:10:15.120 --> 01:10:16.120]   How in the world is it
+[01:10:16.120 --> 01:10:19.120]   that you would go back, right?"
+[01:10:19.120 --> 01:10:21.120]   There was a frustration.
+[01:10:21.120 --> 01:10:23.120]   There was a perplexity
+[01:10:23.120 --> 01:10:24.120]   to such a degree
+[01:10:24.120 --> 01:10:27.120]   where he made a very personal plea saying,
+[01:10:27.120 --> 01:10:30.120]   "I beg you, be like me."
+[01:10:30.120 --> 01:10:31.120]   Yes?
+[01:10:31.120 --> 01:10:33.120]   So when we think about that,
+[01:10:33.120 --> 01:10:36.120]   the last, last time that we studied,
+[01:10:36.120 --> 01:10:37.120]   he moved from there
+[01:10:37.120 --> 01:10:40.120]   to just highlight his relationship, right?
+[01:10:40.120 --> 01:10:42.120]   His relationship with the church and say,
+[01:10:42.120 --> 01:10:45.120]   "You guys know that we were good.
+[01:10:45.120 --> 01:10:46.120]   You guys know that I had
+[01:10:46.120 --> 01:10:48.120]   no false ulterior motives
+[01:10:48.120 --> 01:10:50.120]   and you were good to me.
+[01:10:50.120 --> 01:10:52.120]   What in the world happened?"
+[01:10:52.120 --> 01:10:54.120]   From that, he comes back
+[01:10:54.120 --> 01:10:55.120]   to highlight this idea
+[01:10:55.120 --> 01:10:57.120]   of how can you go back?
+[01:10:57.120 --> 01:10:59.120]   How can you go back to slavery
+[01:10:59.120 --> 01:11:03.120]   by talking about this illustration?
+[01:11:03.120 --> 01:11:05.120]   So our passage today,
+[01:11:05.120 --> 01:11:06.120]   if you took a look,
+[01:11:06.120 --> 01:11:09.120]   you had to essentially read all of it
+[01:11:09.120 --> 01:11:10.120]   down to verse 31,
+[01:11:10.120 --> 01:11:13.120]   maybe even to verse 1 of chapter 5
+[01:11:13.120 --> 01:11:16.120]   to get the full thrust of the argument.
+[01:11:16.120 --> 01:11:17.120]   Look at the contrast
+[01:11:17.120 --> 01:11:20.120]   between slavery and freedom.
+[01:11:20.120 --> 01:11:21.120]   Look at the contrast
+[01:11:21.120 --> 01:11:24.120]   of the two lines, the two sons, okay?
+[01:11:24.120 --> 01:11:26.120]   Look at what's happened.
+[01:11:26.120 --> 01:11:27.120]   And so today,
+[01:11:27.120 --> 01:11:30.120]   we're looking at an illustration, okay?
+[01:11:30.120 --> 01:11:32.120]   An illustration,
+[01:11:32.120 --> 01:11:33.120]   sorry, give me a second here,
+[01:11:33.120 --> 01:11:36.120]   an illustration of that point.
+[01:11:36.120 --> 01:11:40.120]   And by way of just quick like outline,
+[01:11:40.120 --> 01:11:43.120]   okay, you don't need to copy
+[01:11:43.120 --> 01:11:44.120]   this down and stuff.
+[01:11:44.120 --> 01:11:45.120]   This is just for--
+[01:11:45.120 --> 01:11:46.120]   it's good for us to think
+[01:11:46.120 --> 01:11:48.120]   about the flow of thought
+[01:11:48.120 --> 01:11:52.120]   that Apostle Paul is leading us down, okay?
+[01:11:52.120 --> 01:11:54.120]   So in verse 21,
+[01:11:54.120 --> 01:11:56.120]   he is giving this poignant rebuke,
+[01:11:56.120 --> 01:11:59.120]   "You who want to be under the law."
+[01:11:59.120 --> 01:12:01.120]   And then in 22 to 23,
+[01:12:01.120 --> 01:12:03.120]   he gives just the setup of the story.
+[01:12:03.120 --> 01:12:05.120]   There are two sons, okay?
+[01:12:05.120 --> 01:12:06.120]   One was of the flesh,
+[01:12:06.120 --> 01:12:08.120]   one was of the promise.
+[01:12:08.120 --> 01:12:11.120]   And then in verse 24 to 30,
+[01:12:11.120 --> 01:12:14.120]   he actually explains that this is this,
+[01:12:14.120 --> 01:12:15.120]   this is that, et cetera, et cetera.
+[01:12:15.120 --> 01:12:16.120]   And then for today,
+[01:12:16.120 --> 01:12:18.120]   it is a little bit awkward
+[01:12:18.120 --> 01:12:20.120]   because we cut it right in the half
+[01:12:20.120 --> 01:12:24.120]   just simply talking about the bondwoman, yes?
+[01:12:24.120 --> 01:12:26.120]   And then verse 31 is the conclusion.
+[01:12:26.120 --> 01:12:28.120]   It's like, "Therefore, you need to know
+[01:12:28.120 --> 01:12:31.120]   we're of freedom," okay?
+[01:12:31.120 --> 01:12:33.120]   Now, by way of review then,
+[01:12:33.120 --> 01:12:35.120]   remember that whenever you're trying
+[01:12:35.120 --> 01:12:36.120]   to outline a passage,
+[01:12:36.120 --> 01:12:39.120]   whenever you're trying to study,
+[01:12:39.120 --> 01:12:40.120]   it's good for you to follow
+[01:12:40.120 --> 01:12:41.120]   essentially the flow of thought,
+[01:12:41.120 --> 01:12:42.120]   and the flow of thought really
+[01:12:42.120 --> 01:12:44.120]   is constantly just contrasting.
+[01:12:44.120 --> 01:12:45.120]   Look at this, look at this,
+[01:12:45.120 --> 01:12:46.120]   look at this, look at this,
+[01:12:46.120 --> 01:12:48.120]   and that's how it's been so far.
+[01:12:48.120 --> 01:12:49.120]   This, again, you don't have
+[01:12:49.120 --> 01:12:51.120]   to write down a copy
+[01:12:51.120 --> 01:12:52.120]   because this is all review
+[01:12:52.120 --> 01:12:54.120]   of the stuff you know,
+[01:12:54.120 --> 01:12:57.120]   but we just want to feel
+[01:12:57.120 --> 01:12:59.120]   how he is feeling about all this
+[01:12:59.120 --> 01:13:01.120]   because in the illustration,
+[01:13:01.120 --> 01:13:02.120]   even setting up the illustration,
+[01:13:02.120 --> 01:13:05.120]   it comes at us with just that
+[01:13:05.120 --> 01:13:07.120]   poignant kind of rebuke like,
+[01:13:07.120 --> 01:13:09.120]   "Do you even know the law," right?
+[01:13:09.120 --> 01:13:10.120]   And what he's saying is
+[01:13:10.120 --> 01:13:12.120]   the works of the law,
+[01:13:12.120 --> 01:13:14.120]   it's causing you to be cursed.
+[01:13:14.120 --> 01:13:16.120]   It's leaving you in ignorance.
+[01:13:16.120 --> 01:13:18.120]   It's leaving you in bondage,
+[01:13:18.120 --> 01:13:20.120]   whereas by the sovereignty of God,
+[01:13:20.120 --> 01:13:22.120]   in faith in Jesus Christ
+[01:13:22.120 --> 01:13:23.120]   through the grace of God,
+[01:13:23.120 --> 01:13:26.120]   there is blessing upon blessing,
+[01:13:26.120 --> 01:13:27.120]   the blessing of justification,
+[01:13:27.120 --> 01:13:29.120]   the blessing of righteousness,
+[01:13:29.120 --> 01:13:30.120]   blessing of receiving the Spirit,
+[01:13:30.120 --> 01:13:33.120]   and all the blessings that come
+[01:13:33.120 --> 01:13:37.120]   just like with Abraham, okay?
+[01:13:37.120 --> 01:13:39.120]   And so he is contrasting for us,
+[01:13:39.120 --> 01:13:42.120]   this side is all flesh.
+[01:13:42.120 --> 01:13:45.120]   This side is by the promise of God.
+[01:13:45.120 --> 01:13:46.120]   Let me show you.
+[01:13:46.120 --> 01:13:47.120]   And that, he says,
+[01:13:47.120 --> 01:13:49.120]   is let me show you by the example
+[01:13:49.120 --> 01:13:51.120]   of the bondwoman
+[01:13:51.120 --> 01:13:53.120]   and of the free woman, okay?
+[01:13:53.120 --> 01:13:55.120]   So that's just all kind of intro
+[01:13:55.120 --> 01:13:57.120]   and overview of the paragraph.
+[01:13:57.120 --> 01:14:00.120]   Let's now take part one.
+[01:14:00.120 --> 01:14:02.120]   He begins with, "Tell me,
+[01:14:02.120 --> 01:14:04.120]   "you who want to be under the law,
+[01:14:04.120 --> 01:14:06.120]   "do you not listen to the law?"
+[01:14:06.120 --> 01:14:09.120]   What is Apostle Paul really asking here?
+[01:14:09.120 --> 01:14:11.120]   Now, there was a temptation in me
+[01:14:11.120 --> 01:14:13.120]   just to say, "Hey, we've already
+[01:14:13.120 --> 01:14:15.120]   "talked about his tone.
+[01:14:15.120 --> 01:14:17.120]   "We've actually asked the question,
+[01:14:17.120 --> 01:14:20.120]   "'Guys, why do we keep falling
+[01:14:20.120 --> 01:14:23.120]   "'to these kinds of errors
+[01:14:23.120 --> 01:14:24.120]   "'over and over again?'"
+[01:14:24.120 --> 01:14:26.120]   And we talked about how sometimes
+[01:14:26.120 --> 01:14:29.120]   we can fall into a just rote
+[01:14:29.120 --> 01:14:32.120]   like ritual of going to services,
+[01:14:32.120 --> 01:14:34.120]   having specific times of worship,
+[01:14:34.120 --> 01:14:36.120]   and that's the only time I go.
+[01:14:36.120 --> 01:14:37.120]   We have talked about times
+[01:14:37.120 --> 01:14:38.120]   when our hearts aren't right
+[01:14:38.120 --> 01:14:40.120]   and we just kind of lazily fall
+[01:14:40.120 --> 01:14:44.120]   into giving God just our meager offerings
+[01:14:44.120 --> 01:14:45.120]   of the 30 minutes to an hour,
+[01:14:45.120 --> 01:14:46.120]   whatever it may be,
+[01:14:46.120 --> 01:14:49.120]   and we think he's going to accept that.
+[01:14:49.120 --> 01:14:51.120]   We talked about this and that.
+[01:14:51.120 --> 01:14:52.120]   But even though there's a temptation
+[01:14:52.120 --> 01:14:55.120]   to say, "Hey, I don't want to repeat this,"
+[01:14:55.120 --> 01:14:56.120]   I actually realized, "Oh, I shouldn't,"
+[01:14:56.120 --> 01:14:59.120]   because Apostle Paul is doing just that.
+[01:14:59.120 --> 01:15:02.120]   He's already pounded the point,
+[01:15:02.120 --> 01:15:05.120]   and to use an idiom of beat the dead horse,
+[01:15:05.120 --> 01:15:08.120]   but not only is he beating the dead horse,
+[01:15:08.120 --> 01:15:10.120]   he's giving a visual example
+[01:15:10.120 --> 01:15:12.120]   of let's beat it again.
+[01:15:12.120 --> 01:15:14.120]   And the reason why he's doing that,
+[01:15:14.120 --> 01:15:18.120]   I realized, is because how pervasive
+[01:15:18.120 --> 01:15:20.120]   is actually the reasons why we fall
+[01:15:20.120 --> 01:15:24.120]   to things like wanting to be under the law.
+[01:15:24.120 --> 01:15:26.120]   So we have to ask that question,
+[01:15:26.120 --> 01:15:28.120]   and I think, essentially,
+[01:15:28.120 --> 01:15:30.120]   when we think about wanting to be under the law,
+[01:15:30.120 --> 01:15:34.120]   I want to highlight Galatians 6, 12.
+[01:15:34.120 --> 01:15:37.120]   Apostle Paul describes why the false leaders
+[01:15:37.120 --> 01:15:39.120]   want to be under the law,
+[01:15:39.120 --> 01:15:43.120]   because they love making a good showing of the flesh.
+[01:15:43.120 --> 01:15:45.120]   How many of us struggle
+[01:15:45.120 --> 01:15:48.120]   with wanting to have a sentiment of,
+[01:15:48.120 --> 01:15:50.120]   "At least I did it."
+[01:15:50.120 --> 01:15:51.120]   Another way to put it is,
+[01:15:51.120 --> 01:15:54.120]   how many of us struggle with the value of self?
+[01:15:54.120 --> 01:15:56.120]   How many of us struggle
+[01:15:56.120 --> 01:15:58.120]   with wanting to be valued by others,
+[01:15:58.120 --> 01:16:02.120]   because we can do what everybody else does?
+[01:16:02.120 --> 01:16:04.120]   Stuff like that,
+[01:16:04.120 --> 01:16:07.120]   we don't just wrestle with it one time,
+[01:16:07.120 --> 01:16:09.120]   we wrestle with it over and over again.
+[01:16:09.120 --> 01:16:11.120]   Stuff like our own pride,
+[01:16:11.120 --> 01:16:12.120]   where we don't want to feel like
+[01:16:12.120 --> 01:16:14.120]   we're falling behind anybody else,
+[01:16:14.120 --> 01:16:17.120]   that we're not meeting up to somebody's expectation,
+[01:16:17.120 --> 01:16:20.120]   stuff like that, we struggle all the time.
+[01:16:20.120 --> 01:16:22.120]   Stuff like fear of man,
+[01:16:22.120 --> 01:16:23.120]   stuff like wanting to make a good showing
+[01:16:23.120 --> 01:16:25.120]   in front of others,
+[01:16:25.120 --> 01:16:27.120]   to the degree that men need to be told,
+[01:16:27.120 --> 01:16:30.120]   "Do not lust, flee from sexual immorality."
+[01:16:30.120 --> 01:16:33.120]   The pervasiveness and subtleness of pride
+[01:16:33.120 --> 01:16:37.120]   is something we need to hear over and over again, amen?
+[01:16:37.120 --> 01:16:39.120]   Now that being said,
+[01:16:39.120 --> 01:16:42.120]   Apostle Paul asks this question,
+[01:16:42.120 --> 01:16:45.120]   "Do you not listen to the law?"
+[01:16:45.120 --> 01:16:47.120]   And in asking the question of like,
+[01:16:47.120 --> 01:16:48.120]   "What is he really asking?"
+[01:16:48.120 --> 01:16:50.120]   He's not really asking, is he?
+[01:16:50.120 --> 01:16:52.120]   He's more so just making an accusation.
+[01:16:52.120 --> 01:16:54.120]   You don't know the law.
+[01:16:54.120 --> 01:16:56.120]   Even though you try to bind other people,
+[01:16:56.120 --> 01:16:59.120]   even though you try to get everybody within the system,
+[01:16:59.120 --> 01:17:01.120]   you have no idea the demand of the law,
+[01:17:01.120 --> 01:17:03.120]   you have no idea the purpose of the law,
+[01:17:03.120 --> 01:17:04.120]   and obviously you have no idea
+[01:17:04.120 --> 01:17:07.120]   how the law set us up
+[01:17:07.120 --> 01:17:11.120]   for Christ and freedom in the Lord, right?
+[01:17:11.120 --> 01:17:13.120]   So we move forward to
+[01:17:13.120 --> 01:17:15.120]   the example that Apostle Paul is giving,
+[01:17:15.120 --> 01:17:19.120]   and the example is of Abraham and Sarah,
+[01:17:19.120 --> 01:17:21.120]   and so for that, it's story time.
+[01:17:21.120 --> 01:17:23.120]   Please turn your Bible over to Genesis.
+[01:17:23.120 --> 01:17:26.120]   I hope that in your own personal study,
+[01:17:26.120 --> 01:17:29.120]   you read the passage because you really had
+[01:17:29.120 --> 01:17:31.120]   to rehearse and review the story
+[01:17:31.120 --> 01:17:34.120]   in order to get the points, okay?
+[01:17:34.120 --> 01:17:37.120]   So please turn to Genesis 15,
+[01:17:37.120 --> 01:17:39.120]   verses one through six,
+[01:17:39.120 --> 01:17:40.120]   and we are going to be hitting
+[01:17:40.120 --> 01:17:43.120]   several large portions of the text,
+[01:17:43.120 --> 01:17:45.120]   so make sure that you're following along
+[01:17:45.120 --> 01:17:49.120]   in your own Bibles, okay?
+[01:17:49.120 --> 01:17:51.120]   So let's remember the narrative
+[01:17:51.120 --> 01:17:53.120]   that Genesis chapter 12,
+[01:17:53.120 --> 01:17:57.120]   God had already given Abraham promises of blessing,
+[01:17:57.120 --> 01:17:59.120]   incredible blessing, okay?
+[01:17:59.120 --> 01:18:02.120]   And then in chapter 15, it says,
+[01:18:02.120 --> 01:18:04.120]   "After these things, the word of the Lord
+[01:18:04.120 --> 01:18:06.120]   "came to Abram in a vision, saying,
+[01:18:06.120 --> 01:18:08.120]   "'Do not fear, Abram.
+[01:18:08.120 --> 01:18:10.120]   "'I am a shield to you.
+[01:18:10.120 --> 01:18:13.120]   "'Your reward shall be very great.'"
+[01:18:13.120 --> 01:18:14.120]   Amen.
+[01:18:14.120 --> 01:18:17.120]   What an incredible promise of blessing from God.
+[01:18:17.120 --> 01:18:21.120]   Verse two, "Abram said, 'Oh, Lord God,
+[01:18:21.120 --> 01:18:24.120]   "'what will you give me, since I am childless,
+[01:18:24.120 --> 01:18:27.120]   "'and the heir of my house is Eliezer of Damascus?'
+[01:18:27.120 --> 01:18:29.120]   "And Abram said, 'Since you have
+[01:18:29.120 --> 01:18:31.120]   "'given no offspring to me,
+[01:18:31.120 --> 01:18:34.120]   "'one born in my house is my heir.'
+[01:18:34.120 --> 01:18:36.120]   "Then behold, the word of the Lord
+[01:18:36.120 --> 01:18:38.120]   "came to him, saying, 'This man
+[01:18:38.120 --> 01:18:40.120]   "'will not be your heir, but one
+[01:18:40.120 --> 01:18:42.120]   "'who will come forth from your own body
+[01:18:42.120 --> 01:18:43.120]   "'shall be your heir.'
+[01:18:43.120 --> 01:18:45.120]   "And he took him outside and said,
+[01:18:45.120 --> 01:18:48.120]   "'Now look toward the heaven and count the stars,
+[01:18:48.120 --> 01:18:50.120]   "'if you are able to count them.'
+[01:18:50.120 --> 01:18:54.120]   "And he said to him, 'So shall your descendants be.'
+[01:18:54.120 --> 01:18:56.120]   "Then he believed in the Lord,
+[01:18:56.120 --> 01:18:59.120]   "and he reckoned it to him as righteousness."
+[01:18:59.120 --> 01:19:01.120]   What a beautiful scene, right?
+[01:19:01.120 --> 01:19:04.120]   He takes him outside and looks at the stars and says,
+[01:19:04.120 --> 01:19:07.120]   look, your descendants will be like this.
+[01:19:07.120 --> 01:19:08.120]   What a beautiful scene.
+[01:19:08.120 --> 01:19:10.120]   And praise God, at that moment,
+[01:19:10.120 --> 01:19:12.120]   Abram exercised faith.
+[01:19:12.120 --> 01:19:16.120]   And so Abram's righteousness was
+[01:19:16.120 --> 01:19:20.120]   that he walked miles and miles from the Ur of Chaldeans
+[01:19:20.120 --> 01:19:22.120]   and all the way through Canaanite land
+[01:19:22.120 --> 01:19:24.120]   and went through Egypt and all that kind of stuff?
+[01:19:24.120 --> 01:19:27.120]   Was this righteousness that he did amazing things
+[01:19:27.120 --> 01:19:29.120]   and was victorious and stuff like that?
+[01:19:29.120 --> 01:19:32.120]   It's kind of crazy to think his righteousness
+[01:19:32.120 --> 01:19:36.120]   is just staying still and being amazed at the stars
+[01:19:36.120 --> 01:19:39.120]   and saying, God, I believe you
+[01:19:39.120 --> 01:19:41.120]   when you say you're gonna bless me.
+[01:19:41.120 --> 01:19:45.120]   Take that as a point of conviction for us.
+[01:19:45.120 --> 01:19:48.120]   Righteousness in this moment for Abram
+[01:19:48.120 --> 01:19:50.120]   is for him to be able to sit still,
+[01:19:50.120 --> 01:19:54.120]   to trust and wait beyond what he sees with his situation.
+[01:19:54.120 --> 01:19:56.120]   He's getting old, his wife is getting old,
+[01:19:56.120 --> 01:20:00.120]   and he has nothing to show for it in the physical flesh.
+[01:20:00.120 --> 01:20:04.120]   His righteousness is to say, but I still trust you.
+[01:20:04.120 --> 01:20:05.120]   Amen?
+[01:20:05.120 --> 01:20:07.120]   The story continues.
+[01:20:07.120 --> 01:20:10.120]   Go over to verse 12 of chapter 15.
+[01:20:10.120 --> 01:20:11.120]   Verse 12.
+[01:20:11.120 --> 01:20:16.120]   God decides to show Abram it was enough.
+[01:20:16.120 --> 01:20:17.120]   Hebrews says it would be enough
+[01:20:17.120 --> 01:20:21.120]   for God to just say the word because God never lies.
+[01:20:21.120 --> 01:20:25.120]   But God expresses, visually expresses his sovereignty
+[01:20:25.120 --> 01:20:28.120]   by giving Abram this covenant expression.
+[01:20:28.120 --> 01:20:31.120]   Verse 12 says, "Now when the sun was going down,
+[01:20:31.120 --> 01:20:33.120]   "a deep sleep fell upon Abram,
+[01:20:33.120 --> 01:20:39.120]   "and behold, terror and great darkness fell upon him."
+[01:20:39.120 --> 01:20:41.120]   Jump down to verse 17.
+[01:20:41.120 --> 01:20:44.120]   Verse 17 says, "It came about when the sun had set
+[01:20:44.120 --> 01:20:46.120]   "that it was very dark, and behold,
+[01:20:46.120 --> 01:20:49.120]   "there appeared a smoking oven and a flaming torch
+[01:20:49.120 --> 01:20:51.120]   "which passed between these pieces.
+[01:20:51.120 --> 01:20:54.120]   "And on that day, the Lord made a covenant with Abram,
+[01:20:54.120 --> 01:20:57.120]   "saying, 'To your descendants, I have given this land
+[01:20:57.120 --> 01:21:00.120]   "'from the river of Egypt as far as the great river,
+[01:21:00.120 --> 01:21:02.120]   "'the river Euphrates.'"
+[01:21:02.120 --> 01:21:03.120]   Okay?
+[01:21:03.120 --> 01:21:06.120]   Now, the reason why I'm reading these passages
+[01:21:06.120 --> 01:21:09.120]   is because by God's great expression,
+[01:21:09.120 --> 01:21:13.120]   he was showing visually so that we could all see.
+[01:21:13.120 --> 01:21:14.120]   Yes?
+[01:21:14.120 --> 01:21:16.120]   But what's more, as you know, in our passage,
+[01:21:16.120 --> 01:21:17.120]   it talks about covenants,
+[01:21:17.120 --> 01:21:21.120]   and this is one of the more profound biblical covenants
+[01:21:21.120 --> 01:21:25.120]   that we need to know God plans to fulfill
+[01:21:25.120 --> 01:21:28.120]   all that he has promised to Abraham.
+[01:21:28.120 --> 01:21:30.120]   And not a single one of his promises will fail,
+[01:21:30.120 --> 01:21:31.120]   and we believe it.
+[01:21:31.120 --> 01:21:33.120]   We trust it.
+[01:21:33.120 --> 01:21:34.120]   Why?
+[01:21:34.120 --> 01:21:35.120]   That's his character.
+[01:21:35.120 --> 01:21:36.120]   Okay?
+[01:21:36.120 --> 01:21:37.120]   And when we think covenant, then,
+[01:21:37.120 --> 01:21:41.120]   I want you to think a gift of God's will,
+[01:21:41.120 --> 01:21:43.120]   a gift of God's blessing.
+[01:21:43.120 --> 01:21:44.120]   Yes?
+[01:21:44.120 --> 01:21:46.120]   It's not just simply a contractual agreement.
+[01:21:46.120 --> 01:21:49.120]   You do this, then you do this, and then you do that,
+[01:21:49.120 --> 01:21:52.120]   and when you fulfill it, then I will keep my part.
+[01:21:52.120 --> 01:21:56.120]   This here is God's will and testament.
+[01:21:56.120 --> 01:21:57.120]   Okay?
+[01:21:57.120 --> 01:21:58.120]   Now, the story continues to the part
+[01:21:58.120 --> 01:22:01.120]   that we are all probably very familiar with
+[01:22:01.120 --> 01:22:07.120]   when Abraham and Sarai is met with doubt.
+[01:22:07.120 --> 01:22:12.120]   Go over to chapter 16, verses 1 through 6.
+[01:22:12.120 --> 01:22:16.120]   Chapter 16, 1 through 6.
+[01:22:16.120 --> 01:22:17.120]   Chapter 16, 1 through 6 says,
+[01:22:17.120 --> 01:22:20.120]   "Now Sarai, Abraham's wife, had borne him no children,
+[01:22:20.120 --> 01:22:26.120]   "and she had an Egyptian maid whose name was Hagar.
+[01:22:26.120 --> 01:22:29.120]   "So Sarai said to Abraham, 'Now behold,
+[01:22:29.120 --> 01:22:32.120]   "'the Lord has prevented me from bearing children.'"
+[01:22:32.120 --> 01:22:34.120]   You know, before reviewing this passage,
+[01:22:34.120 --> 01:22:37.120]   I had forgotten two elements of the story,
+[01:22:37.120 --> 01:22:39.120]   that Hagar wasn't just, you know,
+[01:22:39.120 --> 01:22:41.120]   just like a maid servant.
+[01:22:41.120 --> 01:22:43.120]   She was an Egyptian servant.
+[01:22:43.120 --> 01:22:44.120]   She was an Egyptian slave.
+[01:22:44.120 --> 01:22:50.120]   And what's more, Sarai, in trying to convince Abraham,
+[01:22:50.120 --> 01:22:52.120]   she invokes the name of God saying,
+[01:22:52.120 --> 01:22:55.120]   "Maybe this is God's doing."
+[01:22:55.120 --> 01:22:56.120]   Now, we continue and it says,
+[01:22:56.120 --> 01:22:59.120]   "Please go into my maid.
+[01:22:59.120 --> 01:23:01.120]   "Perhaps I will attain children through her."
+[01:23:01.120 --> 01:23:04.120]   And Abraham listened to the voice of Sarai.
+[01:23:04.120 --> 01:23:06.120]   No, right?
+[01:23:06.120 --> 01:23:09.120]   Don't listen to her.
+[01:23:09.120 --> 01:23:12.120]   Now, by way of giving some sympathy,
+[01:23:12.120 --> 01:23:15.120]   like I remember from the past that, like,
+[01:23:15.120 --> 01:23:19.120]   it was 25 years since the time God promised him children,
+[01:23:19.120 --> 01:23:23.120]   and then when they finally received Isaac, 25 years.
+[01:23:23.120 --> 01:23:27.120]   And as you guys know, but it wasn't just any 25 years.
+[01:23:27.120 --> 01:23:30.120]   It was 25 years at the tail end
+[01:23:30.120 --> 01:23:34.120]   when Abraham was essentially 100 years old
+[01:23:34.120 --> 01:23:36.120]   and Sarai was 90.
+[01:23:36.120 --> 01:23:39.120]   Imagine that, right?
+[01:23:39.120 --> 01:23:43.120]   Imagine visually seeing that at that age.
+[01:23:43.120 --> 01:23:45.120]   And what's more, periodically, in certain moments,
+[01:23:45.120 --> 01:23:47.120]   there was these struggles.
+[01:23:47.120 --> 01:23:50.120]   These struggles where, like, you know,
+[01:23:50.120 --> 01:23:52.120]   from year to year, I'm guessing.
+[01:23:52.120 --> 01:23:54.120]   Can you imagine, like, bragging?
+[01:23:54.120 --> 01:23:56.120]   For example, if you were bragging, like,
+[01:23:56.120 --> 01:23:59.120]   "Oh, my goodness, I've got this incredible master plan
+[01:23:59.120 --> 01:24:00.120]   "to invest in stocks,
+[01:24:00.120 --> 01:24:03.120]   "and I'm going to make millions, millions.
+[01:24:03.120 --> 01:24:04.120]   "Just watch."
+[01:24:04.120 --> 01:24:05.120]   And you're so excited.
+[01:24:05.120 --> 01:24:07.120]   I could imagine him doing that
+[01:24:07.120 --> 01:24:09.120]   and the people around you saying, like,
+[01:24:09.120 --> 01:24:11.120]   "Okay, it's been a year.
+[01:24:11.120 --> 01:24:12.120]   "Where's the money?"
+[01:24:12.120 --> 01:24:14.120]   It's like, "Just watch."
+[01:24:14.120 --> 01:24:16.120]   Ten years later, "Just watch."
+[01:24:16.120 --> 01:24:18.120]   You know, like, I could imagine him
+[01:24:18.120 --> 01:24:20.120]   just getting smaller and smaller.
+[01:24:20.120 --> 01:24:21.120]   You know what I'm saying?
+[01:24:21.120 --> 01:24:24.120]   Just to sympathize with the weakness of our hearts
+[01:24:24.120 --> 01:24:27.120]   to continue to wait with trust.
+[01:24:27.120 --> 01:24:29.120]   Now, we read the story continuing on in verse 3,
+[01:24:29.120 --> 01:24:31.120]   and it says, "After Abraham had lived
+[01:24:31.120 --> 01:24:33.120]   "ten years in the land of Canaan,
+[01:24:33.120 --> 01:24:35.120]   "Abraham's wife, Sarai, took Hagar,
+[01:24:35.120 --> 01:24:37.120]   "the Egyptian, her maid,
+[01:24:37.120 --> 01:24:39.120]   "and gave her to her husband Abram as his wife.
+[01:24:39.120 --> 01:24:42.120]   "He went into Hagar, and she conceived.
+[01:24:42.120 --> 01:24:44.120]   "And when she," that is Sarai,
+[01:24:44.120 --> 01:24:47.120]   "saw that she," Hagar, "had conceived,
+[01:24:47.120 --> 01:24:50.120]   "her mistress was despised in her sight."
+[01:24:50.120 --> 01:24:51.120]   Jealousy.
+[01:24:51.120 --> 01:24:53.120]   Green monster.
+[01:24:53.120 --> 01:24:54.120]   And then it says,
+[01:24:54.120 --> 01:24:56.120]   "May the Lord judge,"
+[01:24:56.120 --> 01:24:58.120]   oh, sorry.
+[01:24:58.120 --> 01:24:59.120]   Did I just, oh, I skipped it.
+[01:24:59.120 --> 01:25:00.120]   In verse 5,
+[01:25:00.120 --> 01:25:01.120]   "And Sarai said to Abram,
+[01:25:01.120 --> 01:25:05.120]   "'May the wrong done to me be upon you.
+[01:25:05.120 --> 01:25:07.120]   "'I gave my maid into your arms,
+[01:25:07.120 --> 01:25:09.120]   "'but when she saw that she had conceived,
+[01:25:09.120 --> 01:25:11.120]   "'I was despised in her sight.
+[01:25:11.120 --> 01:25:13.120]   "'May the Lord judge between you and me.'
+[01:25:13.120 --> 01:25:15.120]   "But Abram said to Sarai,
+[01:25:15.120 --> 01:25:18.120]   "'Behold, your maid is in your power.
+[01:25:18.120 --> 01:25:20.120]   "'Do to her what is good in your sight.'
+[01:25:20.120 --> 01:25:22.120]   "So Sarai treated her harshly,
+[01:25:22.120 --> 01:25:25.120]   "and she fled from her presence."
+[01:25:25.120 --> 01:25:26.120]   Wow.
+[01:25:26.120 --> 01:25:28.120]   This is like the craziest Korean drama.
+[01:25:28.120 --> 01:25:32.120]   You know, like, I can just picture it now.
+[01:25:32.120 --> 01:25:35.120]   It's like she's screaming at the top of her lungs,
+[01:25:35.120 --> 01:25:37.120]   like, "You did this!"
+[01:25:37.120 --> 01:25:40.120]   And he's like, "What are you talking about?
+[01:25:40.120 --> 01:25:42.120]   "It was your idea."
+[01:25:42.120 --> 01:25:43.120]   And then she's like,
+[01:25:43.120 --> 01:25:45.120]   "No, look, she's mistreating me."
+[01:25:45.120 --> 01:25:46.120]   Now, I don't know if she is.
+[01:25:46.120 --> 01:25:48.120]   Like, if Hagar was actually like,
+[01:25:48.120 --> 01:25:49.120]   "Yeah, that's right.
+[01:25:49.120 --> 01:25:50.120]   "Like, I'm pregnant.
+[01:25:50.120 --> 01:25:51.120]   "You're not."
+[01:25:51.120 --> 01:25:52.120]   You know, like, I don't know.
+[01:25:52.120 --> 01:25:55.120]   I can't read into the lines.
+[01:25:55.120 --> 01:25:57.120]   But what I can imagine is the two of them
+[01:25:57.120 --> 01:25:59.120]   just blaming each other.
+[01:25:59.120 --> 01:26:01.120]   You know what I mean?
+[01:26:01.120 --> 01:26:05.120]   And then I do think this is a moment of weakness.
+[01:26:05.120 --> 01:26:09.120]   And the Scripture is so real about the weakness of man.
+[01:26:09.120 --> 01:26:11.120]   Straight up, he's just like, "Not my problem.
+[01:26:11.120 --> 01:26:13.120]   "It's not my problem.
+[01:26:13.120 --> 01:26:14.120]   "It's your problem."
+[01:26:14.120 --> 01:26:15.120]   You know?
+[01:26:15.120 --> 01:26:18.120]   Like, that is just cowardice.
+[01:26:18.120 --> 01:26:20.120]   It's complete, like, you know,
+[01:26:20.120 --> 01:26:23.120]   error of not owning up to what's happened.
+[01:26:23.120 --> 01:26:25.120]   And the problem with this, as you know,
+[01:26:25.120 --> 01:26:27.120]   is not only does it genuinely--
+[01:26:27.120 --> 01:26:29.120]   like, they turn to this solution.
+[01:26:29.120 --> 01:26:32.120]   It created division between Sarai and her servant.
+[01:26:32.120 --> 01:26:34.120]   It creates division between the two of them.
+[01:26:34.120 --> 01:26:37.120]   And as you know, this has lasting consequence
+[01:26:37.120 --> 01:26:41.120]   for generations to come.
+[01:26:41.120 --> 01:26:44.120]   It just wreaks a snowball of havoc,
+[01:26:44.120 --> 01:26:48.120]   and more and more sin ends up being produced.
+[01:26:48.120 --> 01:26:50.120]   And this is how we know
+[01:26:50.120 --> 01:26:52.120]   every idol you have in your life,
+[01:26:52.120 --> 01:26:55.120]   it becomes to us first a fortress where you think,
+[01:26:55.120 --> 01:26:57.120]   "Oh, this is where I'm going to receive blessing."
+[01:26:57.120 --> 01:26:59.120]   But it becomes your prison,
+[01:26:59.120 --> 01:27:01.120]   and then it becomes your death.
+[01:27:01.120 --> 01:27:03.120]   That is the way of Satan.
+[01:27:03.120 --> 01:27:05.120]   That is the schemes of our enemy.
+[01:27:05.120 --> 01:27:07.120]   And so we ask, like,
+[01:27:07.120 --> 01:27:10.120]   "Why did Apostle Paul use this analogy?"
+[01:27:10.120 --> 01:27:11.120]   Right?
+[01:27:11.120 --> 01:27:13.120]   When we think about this analogy,
+[01:27:13.120 --> 01:27:15.120]   what are the points, and what are the stuff?
+[01:27:15.120 --> 01:27:16.120]   When we think about it, it's like,
+[01:27:16.120 --> 01:27:18.120]   "Dude, I could totally see why,
+[01:27:18.120 --> 01:27:21.120]   "because Apostle Paul was first perplexed.
+[01:27:21.120 --> 01:27:24.120]   "I don't understand how you could do this."
+[01:27:24.120 --> 01:27:26.120]   Same thing we would say to Abram.
+[01:27:26.120 --> 01:27:28.120]   "I don't understand how you could listen
+[01:27:28.120 --> 01:27:30.120]   "to your wife at that moment.
+[01:27:30.120 --> 01:27:32.120]   "She tells you to go into another woman
+[01:27:32.120 --> 01:27:35.120]   "and commit adultery.
+[01:27:35.120 --> 01:27:37.120]   "How does that make sense?"
+[01:27:37.120 --> 01:27:41.120]   And then we have a moment of sympathy,
+[01:27:41.120 --> 01:27:44.120]   because if we're desperate for something we want
+[01:27:44.120 --> 01:27:46.120]   so badly, we'll compromise,
+[01:27:46.120 --> 01:27:50.120]   because sometimes all it requires is a little lie.
+[01:27:50.120 --> 01:27:52.120]   Sometimes all it requires is just like,
+[01:27:52.120 --> 01:27:53.120]   "Just do it.
+[01:27:53.120 --> 01:27:55.120]   "No one's gonna notice."
+[01:27:55.120 --> 01:27:56.120]   Right?
+[01:27:56.120 --> 01:27:58.120]   Sometimes you just turn to whatever recourse
+[01:27:58.120 --> 01:28:00.120]   you have right in front of you,
+[01:28:00.120 --> 01:28:02.120]   because the means don't matter
+[01:28:02.120 --> 01:28:04.120]   as long as you get the blessing.
+[01:28:04.120 --> 01:28:09.120]   How many of us have been compromised that way?
+[01:28:09.120 --> 01:28:10.120]   Right?
+[01:28:10.120 --> 01:28:12.120]   This analogy is perfect,
+[01:28:12.120 --> 01:28:14.120]   because we could see ourselves.
+[01:28:14.120 --> 01:28:16.120]   It's perplexing, it's dumbfounding,
+[01:28:16.120 --> 01:28:18.120]   and yet we could see it.
+[01:28:18.120 --> 01:28:23.120]   How many of us would turn to our own measures
+[01:28:23.120 --> 01:28:25.120]   to receive blessing?
+[01:28:25.120 --> 01:28:27.120]   Now I know in the context of Galatians,
+[01:28:27.120 --> 01:28:30.120]   what he's talking about primarily is justification.
+[01:28:30.120 --> 01:28:35.120]   You cannot be justified by your works through the law,
+[01:28:35.120 --> 01:28:37.120]   but neither can you receive God's promises
+[01:28:37.120 --> 01:28:39.120]   and blessings in your life
+[01:28:39.120 --> 01:28:41.120]   by you somehow coercing it.
+[01:28:41.120 --> 01:28:44.120]   You can't force God's blessing on you.
+[01:28:44.120 --> 01:28:46.120]   That's crazy.
+[01:28:46.120 --> 01:28:48.120]   Were you gonna barter with him?
+[01:28:48.120 --> 01:28:49.120]   No, no, no, no.
+[01:28:49.120 --> 01:28:52.120]   The blessings of God were his promises,
+[01:28:52.120 --> 01:28:54.120]   and it's going to come by his glory,
+[01:28:54.120 --> 01:28:56.120]   it's going to come by his grace,
+[01:28:56.120 --> 01:28:58.120]   and by his sovereignty he has ordained it
+[01:28:58.120 --> 01:29:01.120]   that it's going to be by grace through faith,
+[01:29:01.120 --> 01:29:04.120]   that when we receive with humility,
+[01:29:04.120 --> 01:29:06.120]   he's going to in his glory bless.
+[01:29:06.120 --> 01:29:09.120]   No other way.
+[01:29:09.120 --> 01:29:11.120]   No show of your flesh,
+[01:29:11.120 --> 01:29:13.120]   no dealing with him,
+[01:29:13.120 --> 01:29:15.120]   no bartering,
+[01:29:15.120 --> 01:29:18.120]   and definitely no going around the back.
+[01:29:18.120 --> 01:29:21.120]   And so this analogy then,
+[01:29:21.120 --> 01:29:23.120]   when he says,
+[01:29:23.120 --> 01:29:28.120]   look, in the earlier passage,
+[01:29:28.120 --> 01:29:32.120]   that this bondwoman was born,
+[01:29:32.120 --> 01:29:34.120]   the son by the bondwoman was born
+[01:29:34.120 --> 01:29:36.120]   according to the flesh.
+[01:29:36.120 --> 01:29:38.120]   What is he highlighting?
+[01:29:38.120 --> 01:29:41.120]   Well, it's not as though Sarai had like,
+[01:29:41.120 --> 01:29:43.120]   Sarah had like a immaculate conception
+[01:29:43.120 --> 01:29:45.120]   and the Holy Spirit impregnated her.
+[01:29:45.120 --> 01:29:47.120]   Both were through the flesh.
+[01:29:47.120 --> 01:29:49.120]   But obviously what we're talking about is
+[01:29:49.120 --> 01:29:52.120]   through selfish motive and by fleshly means,
+[01:29:52.120 --> 01:29:55.120]   trying to get God to move
+[01:29:55.120 --> 01:29:57.120]   is completely of the world.
+[01:29:57.120 --> 01:30:00.120]   It's completely of the dark forces.
+[01:30:00.120 --> 01:30:01.120]   Okay.
+[01:30:01.120 --> 01:30:05.120]   Now, in saying this,
+[01:30:05.120 --> 01:30:07.120]   I want to continue reading the story
+[01:30:07.120 --> 01:30:09.120]   a little bit more.
+[01:30:09.120 --> 01:30:12.120]   Can you turn your eyes to chapter 17, verse 1?
+[01:30:12.120 --> 01:30:16.120]   Chapter 17, verse 1.
+[01:30:16.120 --> 01:30:17.120]   What's crazy is,
+[01:30:17.120 --> 01:30:19.120]   I do believe in some sense,
+[01:30:19.120 --> 01:30:21.120]   perhaps it doesn't say explicitly,
+[01:30:21.120 --> 01:30:24.120]   but that their lack of faith
+[01:30:24.120 --> 01:30:27.120]   and their doubting caused the delay.
+[01:30:27.120 --> 01:30:31.120]   It says that now when Abram was 99 years old,
+[01:30:31.120 --> 01:30:33.120]   still no children,
+[01:30:33.120 --> 01:30:35.120]   the Lord appeared to Abram and said to him,
+[01:30:35.120 --> 01:30:36.120]   I am God Almighty.
+[01:30:36.120 --> 01:30:39.120]   Walk before me and be blameless.
+[01:30:39.120 --> 01:30:41.120]   I will establish my covenant between me and you,
+[01:30:41.120 --> 01:30:44.120]   and I will multiply you exceedingly.
+[01:30:44.120 --> 01:30:46.120]   Abram fell on his face,
+[01:30:46.120 --> 01:30:48.120]   and God talked to him saying,
+[01:30:48.120 --> 01:30:51.120]   As for me, behold, my covenant is with you,
+[01:30:51.120 --> 01:30:55.120]   and you will be the father of a multitude of nations.
+[01:30:55.120 --> 01:30:57.120]   No longer shall your name be called Abram,
+[01:30:57.120 --> 01:30:59.120]   but your name shall be Abraham,
+[01:30:59.120 --> 01:31:02.120]   for I will make you the father of a multitude of nations.
+[01:31:02.120 --> 01:31:04.120]   I have made you exceedingly fruitful,
+[01:31:04.120 --> 01:31:06.120]   and I will make nations of you.
+[01:31:06.120 --> 01:31:07.120]   Kings will come forth from you.
+[01:31:07.120 --> 01:31:10.120]   I will establish my covenant between me and you
+[01:31:10.120 --> 01:31:12.120]   and your descendants after you
+[01:31:12.120 --> 01:31:13.120]   throughout their generations
+[01:31:13.120 --> 01:31:15.120]   for an everlasting covenant
+[01:31:15.120 --> 01:31:19.120]   to be God to you and to your descendants after you.
+[01:31:19.120 --> 01:31:21.120]   And then he says,
+[01:31:21.120 --> 01:31:23.120]   I will give to you and to your descendants after you
+[01:31:23.120 --> 01:31:25.120]   the land of your sojourning
+[01:31:25.120 --> 01:31:27.120]   and all the land of Canaan
+[01:31:27.120 --> 01:31:28.120]   for an everlasting possession,
+[01:31:28.120 --> 01:31:31.120]   and I will bless their God,
+[01:31:31.120 --> 01:31:33.120]   and I will be their God.
+[01:31:33.120 --> 01:31:34.120]   Verse 15.
+[01:31:34.120 --> 01:31:35.120]   Then God said to Abraham,
+[01:31:35.120 --> 01:31:37.120]   As for Sarai your wife,
+[01:31:37.120 --> 01:31:39.120]   you shall not call her name Sarai,
+[01:31:39.120 --> 01:31:41.120]   but Sarah shall be her name.
+[01:31:41.120 --> 01:31:42.120]   I will bless her,
+[01:31:42.120 --> 01:31:44.120]   and indeed I will give you a son by her.
+[01:31:44.120 --> 01:31:46.120]   Then I will bless her,
+[01:31:46.120 --> 01:31:49.120]   and she shall be a mother of nations.
+[01:31:49.120 --> 01:31:51.120]   Kings of peoples will come from her.
+[01:31:51.120 --> 01:31:55.120]   Then Abraham fell on his face and laughed
+[01:31:55.120 --> 01:31:57.120]   and said in his heart,
+[01:31:57.120 --> 01:32:00.120]   Will a child be born to a man one hundred years old?
+[01:32:00.120 --> 01:32:03.120]   And will Sarah, who is ninety years old,
+[01:32:03.120 --> 01:32:04.120]   bear a child?
+[01:32:04.120 --> 01:32:05.120]   And Abraham said to God,
+[01:32:05.120 --> 01:32:09.120]   Oh, that Ishmael might live before you.
+[01:32:09.120 --> 01:32:10.120]   Okay.
+[01:32:10.120 --> 01:32:12.120]   There's a reason why I read that long section.
+[01:32:12.120 --> 01:32:14.120]   God is just like,
+[01:32:14.120 --> 01:32:16.120]   for a long section telling him,
+[01:32:16.120 --> 01:32:17.120]   this is what's happening,
+[01:32:17.120 --> 01:32:19.120]   this is what's happening,
+[01:32:19.120 --> 01:32:23.120]   and this is how I will hold my covenant with you.
+[01:32:23.120 --> 01:32:25.120]   But you notice how that segment
+[01:32:25.120 --> 01:32:29.120]   comes with Abraham's response.
+[01:32:29.120 --> 01:32:31.120]   Abraham's response is,
+[01:32:31.120 --> 01:32:35.120]   Why don't you just bless Ishmael?
+[01:32:35.120 --> 01:32:38.120]   What do you think God's answer to that is?
+[01:32:38.120 --> 01:32:42.120]   Why can't God just bless Ishmael?
+[01:32:42.120 --> 01:32:45.120]   Why can't just God be like,
+[01:32:45.120 --> 01:32:47.120]   Fine, Abraham.
+[01:32:47.120 --> 01:32:49.120]   Right?
+[01:32:49.120 --> 01:32:51.120]   Take some time to think about that,
+[01:32:51.120 --> 01:32:58.120]   and I think this is to where I said earlier,
+[01:32:58.120 --> 01:33:01.120]   what is to us the greatest matter
+[01:33:01.120 --> 01:33:04.120]   is the blessing.
+[01:33:04.120 --> 01:33:07.120]   To God, beyond just simply the blessing,
+[01:33:07.120 --> 01:33:10.120]   it's always His glory.
+[01:33:10.120 --> 01:33:11.120]   Right?
+[01:33:11.120 --> 01:33:13.120]   It's always His glory.
+[01:33:13.120 --> 01:33:16.120]   God had designed that through the way
+[01:33:16.120 --> 01:33:19.120]   that He was going to bless Abraham,
+[01:33:19.120 --> 01:33:21.120]   that God would be honored and glorified
+[01:33:21.120 --> 01:33:23.120]   because He was going to be their God
+[01:33:23.120 --> 01:33:26.120]   and by God's sovereign choice.
+[01:33:26.120 --> 01:33:29.120]   Just like in Romans chapter 9 through 11,
+[01:33:29.120 --> 01:33:30.120]   Scripture says,
+[01:33:30.120 --> 01:33:33.120]   Salvation is not by the will of man,
+[01:33:33.120 --> 01:33:35.120]   is not by the running of man,
+[01:33:35.120 --> 01:33:37.120]   but is by God's choice.
+[01:33:37.120 --> 01:33:39.120]   This passage is essentially saying
+[01:33:39.120 --> 01:33:43.120]   the exact same thing.
+[01:33:43.120 --> 01:33:45.120]   Yes?
+[01:33:45.120 --> 01:33:47.120]   Why does it have to be
+[01:33:47.120 --> 01:33:51.120]   that we have to go through this means?
+[01:33:51.120 --> 01:33:53.120]   It's because God's glory is at stake.
+[01:33:53.120 --> 01:33:54.120]   That's my point.
+[01:33:54.120 --> 01:33:58.120]   Okay, now moving to the last portion
+[01:33:58.120 --> 01:34:01.120]   of our segment for today,
+[01:34:01.120 --> 01:34:04.120]   Apostle Paul describes this kind of
+[01:34:04.120 --> 01:34:05.120]   allegorical thing where he says,
+[01:34:05.120 --> 01:34:07.120]   now you see the story,
+[01:34:07.120 --> 01:34:08.120]   but I'm going to identify
+[01:34:08.120 --> 01:34:10.120]   certain reference points for you.
+[01:34:10.120 --> 01:34:12.120]   You guys know how an allegory works.
+[01:34:12.120 --> 01:34:16.120]   You tell a story like Pilgrim's Progress,
+[01:34:16.120 --> 01:34:18.120]   and then it kind of coincides
+[01:34:18.120 --> 01:34:21.120]   or has correspondence to a spiritual reality.
+[01:34:21.120 --> 01:34:24.120]   It's essentially a big illustration, right?
+[01:34:24.120 --> 01:34:26.120]   And he talks about the fact that
+[01:34:26.120 --> 01:34:31.120]   Sarai, Sarah, and Hagar are two covenants.
+[01:34:31.120 --> 01:34:33.120]   For us, we're just going to focus on Hagar,
+[01:34:33.120 --> 01:34:37.120]   and he says here that one is proceeding
+[01:34:37.120 --> 01:34:39.120]   from Mount Sinai,
+[01:34:39.120 --> 01:34:41.120]   bearing children who are slaves,
+[01:34:41.120 --> 01:34:43.120]   and she is Hagar.
+[01:34:43.120 --> 01:34:45.120]   What's really interesting is
+[01:34:45.120 --> 01:34:47.120]   you would think that the illustration
+[01:34:47.120 --> 01:34:50.120]   or the allegory has some really far
+[01:34:50.120 --> 01:34:52.120]   spiritual reality,
+[01:34:52.120 --> 01:34:55.120]   but it's actually like he's just restating.
+[01:34:55.120 --> 01:34:59.120]   He says, now Hagar is Mount Sinai in Arabia
+[01:34:59.120 --> 01:35:01.120]   and corresponds with current Jerusalem
+[01:35:01.120 --> 01:35:04.120]   for she is in slavery with her children.
+[01:35:04.120 --> 01:35:06.120]   What do I mean by,
+[01:35:06.120 --> 01:35:08.120]   okay, you have these two things.
+[01:35:08.120 --> 01:35:11.120]   Hagar is Mount Sinai
+[01:35:11.120 --> 01:35:14.120]   in present Jerusalem and in slavery.
+[01:35:14.120 --> 01:35:18.120]   I want us to follow this, I guess,
+[01:35:18.120 --> 01:35:20.120]   this line of thought, right?
+[01:35:20.120 --> 01:35:22.120]   And I don't think it's so complicated
+[01:35:22.120 --> 01:35:26.120]   that we need hours and hours to discuss.
+[01:35:26.120 --> 01:35:28.120]   For us, when we think Hagar,
+[01:35:28.120 --> 01:35:30.120]   she is an Egyptian slave.
+[01:35:30.120 --> 01:35:32.120]   From her comes Ishmael,
+[01:35:32.120 --> 01:35:37.120]   and Ishmael is then underneath as a slave, right?
+[01:35:37.120 --> 01:35:39.120]   That was the whole point.
+[01:35:39.120 --> 01:35:42.120]   But then she points to this idea of Mount Sinai,
+[01:35:42.120 --> 01:35:44.120]   which is in Arabia.
+[01:35:44.120 --> 01:35:45.120]   So guess what?
+[01:35:45.120 --> 01:35:48.120]   In terms of the lineage of Ishmael,
+[01:35:48.120 --> 01:35:51.120]   history has it that the lineage of Ishmael,
+[01:35:51.120 --> 01:35:53.120]   if you continue to trace it down,
+[01:35:53.120 --> 01:35:56.120]   are those who are adversaries of the nation of Israel
+[01:35:56.120 --> 01:35:58.120]   generation to generation,
+[01:35:58.120 --> 01:36:02.120]   and now comprise of the majority of the Arabs in that area.
+[01:36:02.120 --> 01:36:04.120]   What you would think as current like Saudi Arabia
+[01:36:04.120 --> 01:36:07.120]   and that whole peninsula,
+[01:36:07.120 --> 01:36:09.120]   that's the people of Ishmael.
+[01:36:09.120 --> 01:36:12.120]   And what's more, Mount Sinai is in there.
+[01:36:12.120 --> 01:36:13.120]   Okay?
+[01:36:13.120 --> 01:36:14.120]   And then what he says is,
+[01:36:14.120 --> 01:36:17.120]   and corresponds to the present Jerusalem.
+[01:36:17.120 --> 01:36:19.120]   What is he talking about here?
+[01:36:19.120 --> 01:36:20.120]   What are the reference point,
+[01:36:20.120 --> 01:36:24.120]   and what is this analogy really pointing to?
+[01:36:24.120 --> 01:36:26.120]   Okay.
+[01:36:26.120 --> 01:36:29.120]   What I'd like to say about this is,
+[01:36:29.120 --> 01:36:32.120]   let's see if I can boil it down so that it doesn't get too long,
+[01:36:32.120 --> 01:36:34.120]   because I've already gone 30 minutes.
+[01:36:34.120 --> 01:36:36.120]   What I'd like to say about this is,
+[01:36:36.120 --> 01:36:41.120]   one, we understand that what he's trying to point at
+[01:36:41.120 --> 01:36:47.120]   is she represents that line that is to be rejected.
+[01:36:47.120 --> 01:36:52.120]   But what's more, there is a spiritual reality to this analogy.
+[01:36:52.120 --> 01:36:55.120]   Maybe another way to think about it is,
+[01:36:55.120 --> 01:36:58.120]   if you take a look at verse 26, okay?
+[01:36:58.120 --> 01:37:03.120]   Okay.
+[01:37:03.120 --> 01:37:06.120]   He makes this reference in comparison.
+[01:37:06.120 --> 01:37:08.120]   There is a present Jerusalem,
+[01:37:08.120 --> 01:37:11.120]   and then there is a Jerusalem above.
+[01:37:11.120 --> 01:37:12.120]   Yes?
+[01:37:12.120 --> 01:37:14.120]   Okay.
+[01:37:14.120 --> 01:37:17.120]   Earlier, we were just describing the contrast between
+[01:37:17.120 --> 01:37:19.120]   what is fleshly and earthly,
+[01:37:19.120 --> 01:37:21.120]   and that's all he's trying to refer to.
+[01:37:21.120 --> 01:37:22.120]   Right?
+[01:37:22.120 --> 01:37:26.120]   Haggad represents that which is condemnation.
+[01:37:26.120 --> 01:37:29.120]   Here's a passage for you that you'd want to jot down,
+[01:37:29.120 --> 01:37:33.120]   and it comes from Hebrews 12, verse 18 through 24.
+[01:37:33.120 --> 01:37:34.120]   Okay?
+[01:37:34.120 --> 01:37:37.120]   Hebrews 12, verse 18 through 24.
+[01:37:37.120 --> 01:37:42.120]   In comparison, the author of Hebrews says in verse 18,
+[01:37:42.120 --> 01:37:45.120]   "For you have not come to a mountain that can be touched
+[01:37:45.120 --> 01:37:51.120]   "and to a blazing fire, and to darkness and gloom and whirlwind,
+[01:37:51.120 --> 01:37:54.120]   "and to the blast of a trumpet and the sound of words,
+[01:37:54.120 --> 01:37:57.120]   "which sound as such that those who heard beg
+[01:37:57.120 --> 01:38:00.120]   "that no further word be spoken to them.
+[01:38:00.120 --> 01:38:02.120]   "For they could not bear the command,
+[01:38:02.120 --> 01:38:06.120]   "if even a beast touches the mountain, it will be stoned.
+[01:38:06.120 --> 01:38:09.120]   "And so terrible was the sight that Moses said,
+[01:38:09.120 --> 01:38:12.120]   "'I am full of fear and trembling.'
+[01:38:12.120 --> 01:38:16.120]   "But you have come to Mount Zion, to the city of the living God,
+[01:38:16.120 --> 01:38:19.120]   "the heavenly Jerusalem."
+[01:38:19.120 --> 01:38:20.120]   Okay?
+[01:38:20.120 --> 01:38:26.120]   So I think my way of conclusion--
+[01:38:26.120 --> 01:38:27.120]   I'm going to just--
+[01:38:27.120 --> 01:38:30.120]   you know, I realize I probably, like, have a better way
+[01:38:30.120 --> 01:38:33.120]   of trying to explain the thought,
+[01:38:33.120 --> 01:38:36.120]   but what I'm going to just say by summary is,
+[01:38:36.120 --> 01:38:39.120]   you have on one side, earlier,
+[01:38:39.120 --> 01:38:43.120]   everything that resonated with man's resources,
+[01:38:43.120 --> 01:38:46.120]   flesh, turning away and down.
+[01:38:46.120 --> 01:38:50.120]   You had everything in relation to turning to slavery again,
+[01:38:50.120 --> 01:38:54.120]   turning to things that would cause us to be imprisoned, yes?
+[01:38:54.120 --> 01:38:58.120]   And then, here, he corresponds that and says,
+[01:38:58.120 --> 01:39:03.120]   to this present Jerusalem, that is still earthly.
+[01:39:03.120 --> 01:39:06.120]   If you think that being in Jerusalem is causing you to be free,
+[01:39:06.120 --> 01:39:10.120]   he's saying, no, spiritually, you're still enslaved, yes?
+[01:39:10.120 --> 01:39:13.120]   And so this sets us up for the contrast to say,
+[01:39:13.120 --> 01:39:16.120]   what we're looking forward to is nothing earthly.
+[01:39:16.120 --> 01:39:20.120]   We're looking forward to the Jerusalem above, okay?
+[01:39:20.120 --> 01:39:21.120]   All right.
+[01:39:21.120 --> 01:39:24.120]   So let's take a moment to conclude there,
+[01:39:24.120 --> 01:39:28.120]   and we'll pray over this teaching.
+[01:39:28.120 --> 01:39:34.120]   Let's pray.
+[01:39:34.120 --> 01:39:38.120]   Heavenly Father, we are challenged today
+[01:39:38.120 --> 01:39:42.120]   as we remember a very familiar story,
+[01:39:42.120 --> 01:39:45.120]   that, God, we can so easily turn away from trusting
+[01:39:45.120 --> 01:39:49.120]   the God of the universe to trusting our own hands.
+[01:39:49.120 --> 01:39:53.120]   And what's more, we keep trusting the things that we can see.
+[01:39:53.120 --> 01:39:57.120]   We trust kings, we trust nations, we trust all these other things.
+[01:39:57.120 --> 01:40:00.120]   But, God, we want to be trusting you.
+[01:40:00.120 --> 01:40:04.120]   So I pray, Father God, that you would continue to challenge us
+[01:40:04.120 --> 01:40:07.120]   to not walk by sight, but walk by faith,
+[01:40:07.120 --> 01:40:10.120]   and to, therefore, invest all the more,
+[01:40:10.120 --> 01:40:12.120]   invest in the things that are spiritual,
+[01:40:12.120 --> 01:40:14.120]   no longer in the things that are earthly,
+[01:40:14.120 --> 01:40:17.120]   but, God, to have such an eternal perspective.
+[01:40:17.120 --> 01:40:21.120]   This we pray in Christ's name, amen.
+[01:40:21.120 --> 01:40:25.120]   Okay, we'll do some announcements.
+[01:40:25.120 --> 01:40:46.120]   [silence]
+[01:40:46.120 --> 01:40:51.120]   How do I get to the--ah.
+[01:40:51.120 --> 01:40:55.120]   All right, if you guys are--
+[01:40:55.120 --> 01:40:57.120]   have been kind of following along with all the announcements,
+[01:40:57.120 --> 01:40:59.120]   Passion Week is just three weeks away.
+[01:40:59.120 --> 01:41:03.120]   And, as you guys know, that Monday to Wednesday on 730,
+[01:41:03.120 --> 01:41:07.120]   we're going to be having Passion Week devotionals.
+[01:41:07.120 --> 01:41:09.120]   Tuesday, this is for the BAM,
+[01:41:09.120 --> 01:41:13.120]   we're going to have a dinner fasting, just a time just to pray
+[01:41:13.120 --> 01:41:17.120]   for unsaved loved ones and family members and for the church.
+[01:41:17.120 --> 01:41:19.120]   So that's Tuesday.
+[01:41:19.120 --> 01:41:23.120]   So Monday through Wednesday, we have our Passion Week devotionals.
+[01:41:23.120 --> 01:41:26.120]   Thursday, we have a Passover meal.
+[01:41:26.120 --> 01:41:29.120]   And it starts at 630, and it's going to be in here,
+[01:41:29.120 --> 01:41:35.120]   and it's 160 seating maximum capacity.
+[01:41:35.120 --> 01:41:37.120]   And Pastor Mark's going to be leading us through
+[01:41:37.120 --> 01:41:42.120]   just how the disciples would have had the Last Supper with Jesus,
+[01:41:42.120 --> 01:41:48.120]   and how the Jewish people for many years conducted the Passover meal.
+[01:41:48.120 --> 01:41:52.120]   And so if you haven't done so and you are a member and you sign up,
+[01:41:52.120 --> 01:41:55.120]   you will be given priority.
+[01:41:55.120 --> 01:41:58.120]   And so if you sign up, just know that.
+[01:41:58.120 --> 01:42:04.120]   Like, priority will be given to first-time participants who are members.
+[01:42:04.120 --> 01:42:08.120]   It's not quite yet open for non-members, so just kind of keep that in mind.
+[01:42:08.120 --> 01:42:15.120]   Just because of seating, it's $10 per adult and then $5 per child.
+[01:42:15.120 --> 01:42:19.120]   If the child is under four, obviously it's going to be free.
+[01:42:19.120 --> 01:42:22.120]   Friday of the Passion Week, we have a Good Friday service.
+[01:42:22.120 --> 01:42:24.120]   This is going to be an overflow room.
+[01:42:24.120 --> 01:42:28.120]   That part of the youth room is going to be an overflow room.
+[01:42:28.120 --> 01:42:31.120]   So we're expecting it to be a little bit chaotic.
+[01:42:31.120 --> 01:42:35.120]   So what we're asking everybody to do for the Passion Week,
+[01:42:35.120 --> 01:42:39.120]   but especially Good Friday, is to get here early.
+[01:42:39.120 --> 01:42:41.120]   Last Friday, we had All-Church Praise and Prayer,
+[01:42:41.120 --> 01:42:46.120]   and then the shuttle team, they said between 7:20 to 7:45,
+[01:42:46.120 --> 01:42:48.120]   like two-thirds of the church came all at once.
+[01:42:48.120 --> 01:42:54.120]   So it just threw everything into a little bit of a clump.
+[01:42:54.120 --> 01:42:58.120]   So if you can, on Good Friday, come early.
+[01:42:58.120 --> 01:43:02.120]   And the cafe will be open every day that week from 5:30 and on.
+[01:43:02.120 --> 01:43:08.120]   And so we're going to need a lot of help that week just to get everything running.
+[01:43:08.120 --> 01:43:12.120]   So there are sign-ups available, so please do take note of that
+[01:43:12.120 --> 01:43:17.120]   and then sign up as the Lord leads your heart.
+[01:43:17.120 --> 01:43:22.120]   And then Sunday morning, we have early sunrise service in the courtyard,
+[01:43:22.120 --> 01:43:24.120]   followed by our 8 a.m. service.
+[01:43:24.120 --> 01:43:25.120]   It's a quicker turnaround.
+[01:43:25.120 --> 01:43:29.120]   And then if you are here, you can pick up a Hawaiian barbecue lunch
+[01:43:29.120 --> 01:43:32.120]   and eat it here or take it home.
+[01:43:32.120 --> 01:43:33.120]   Happy Easter.
+[01:43:33.120 --> 01:43:36.120]   But it's three weeks away, so just kind of keep that in mind
+[01:43:36.120 --> 01:43:42.120]   and start preparing your hearts for all that's to come.
+[01:43:42.120 --> 01:43:47.120]   We're going to be having, this coming Saturday, starting at 9 a.m.,
+[01:43:47.120 --> 01:43:49.120]   All Church Cleaning and Maintenance Day.
+[01:43:49.120 --> 01:43:53.120]   There's a lot of stuff, a lot of little corners and crevices to organize
+[01:43:53.120 --> 01:43:54.120]   and to clean up.
+[01:43:54.120 --> 01:43:59.120]   So if you can sign up, please do sign up like Josh Yoon is doing right now.
+[01:43:59.120 --> 01:44:02.120]   And then if you show up, you can show up,
+[01:44:02.120 --> 01:44:05.120]   but there's no guarantee you're going to get a specific task.
+[01:44:05.120 --> 01:44:10.120]   So there will be refreshments, and by about noon, we typically finish.
+[01:44:10.120 --> 01:44:14.120]   All right, so that's this coming Saturday.
+[01:44:14.120 --> 01:44:19.120]   And then, as I mentioned, we do need volunteers for the Passion Week signup.
+[01:44:19.120 --> 01:44:25.120]   And this is not up here, but just for all the ladies, April 13th, Saturday,
+[01:44:25.120 --> 01:44:30.120]   there's going to be a women's conference, just morning until about lunchtime,
+[01:44:30.120 --> 01:44:32.120]   in the sanctuary.
+[01:44:32.120 --> 01:44:36.120]   So if you guys can, just kind of start clearing your schedule for that
+[01:44:36.120 --> 01:44:38.120]   to save the date.
+[01:44:38.120 --> 01:44:41.120]   All right, and then here are the discussion questions,
+[01:44:41.120 --> 01:44:45.120]   and have a good discussion time with your groups.
+[01:44:45.120 --> 01:44:48.120]   Thank you.
+[01:44:48.120 --> 01:44:51.120]   [no audio]
+[01:44:52.120 --> 01:44:55.120]   [no audio]
+[01:44:55.120 --> 01:44:58.120]   [no audio]
+[01:44:58.120 --> 01:45:01.120]   [no audio]
+[01:45:01.120 --> 01:45:04.120]   [no audio]
+[01:45:04.120 --> 01:45:06.120]   [no audio]
+[01:45:06.120 --> 01:45:16.120]   [BLANK_AUDIO]
+[01:45:16.120 --> 01:45:26.120]   [BLANK_AUDIO]
+[01:45:26.120 --> 01:45:36.120]   [BLANK_AUDIO]
+[01:45:36.120 --> 01:45:46.120]   [BLANK_AUDIO]
+[01:45:46.120 --> 01:45:56.120]   [BLANK_AUDIO]
+[01:45:56.120 --> 01:46:06.120]   [BLANK_AUDIO]
+[01:46:06.120 --> 01:46:16.120]   [BLANK_AUDIO]
+[01:46:16.120 --> 01:46:26.120]   [BLANK_AUDIO]
+[01:46:26.120 --> 01:46:36.120]   [BLANK_AUDIO]
+[01:46:36.120 --> 01:46:46.120]   [BLANK_AUDIO]
+[01:46:46.120 --> 01:46:56.120]   [BLANK_AUDIO]
+[01:46:56.120 --> 01:47:06.120]   [BLANK_AUDIO]
+[01:47:06.120 --> 01:47:16.120]   [BLANK_AUDIO]
+[01:47:16.120 --> 01:47:26.120]   [BLANK_AUDIO]
+[01:47:26.120 --> 01:47:36.120]   [BLANK_AUDIO]
+[01:47:36.120 --> 01:47:46.120]   [BLANK_AUDIO]
+[01:47:46.120 --> 01:47:56.120]   [BLANK_AUDIO]
+[01:47:56.120 --> 01:48:06.120]   [BLANK_AUDIO]
+[01:48:06.120 --> 01:48:16.120]   [BLANK_AUDIO]
+[01:48:16.120 --> 01:48:26.120]   [BLANK_AUDIO]
+[01:48:26.120 --> 01:48:36.120]   [BLANK_AUDIO]
+
