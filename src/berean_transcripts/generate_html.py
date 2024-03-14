@@ -458,6 +458,7 @@ if __name__ == "__main__":
         "hKORWmYZyJI",
         "uQIKw7drHps",
         "O0TJ4k9ukHs",
+        "wpzyOO9YmE0", #2023-03-14 gal 4:26-31, duplicate issue "It was a party"
         # test videos
         "44005314",
     ]
