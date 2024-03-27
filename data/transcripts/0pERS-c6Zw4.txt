@@ -1,0 +1,1447 @@
+
+[00:00:00.000 --> 00:00:02.920]   (soft piano music)
+[00:00:02.920 --> 00:00:05.840]   (soft piano music)
+[00:00:05.840 --> 00:00:08.760]   (soft piano music)
+[00:00:08.760 --> 00:00:11.680]   (soft piano music)
+[00:00:11.680 --> 00:00:29.560]   (soft piano music)
+[00:00:29.560 --> 00:00:32.440]   (soft piano music)
+[00:00:32.440 --> 00:00:35.340]   (soft piano music)
+[00:00:35.340 --> 00:00:38.240]   (soft piano music)
+[00:00:38.240 --> 00:00:41.160]   (soft piano music)
+[00:00:41.160 --> 00:00:44.080]   (soft piano music)
+[00:00:44.080 --> 00:00:47.000]   (soft piano music)
+[00:00:47.000 --> 00:00:49.920]   (soft piano music)
+[00:00:49.920 --> 00:00:52.840]   (soft piano music)
+[00:00:52.840 --> 00:00:55.760]   (soft piano music)
+[00:00:55.760 --> 00:00:58.680]   (soft piano music)
+[00:00:58.680 --> 00:01:01.600]   (soft piano music)
+[00:01:01.600 --> 00:01:04.520]   (soft piano music)
+[00:01:04.520 --> 00:01:07.520]   (soft piano music)
+[00:01:07.520 --> 00:01:10.520]   (soft piano music)
+[00:01:10.520 --> 00:01:13.520]   (soft piano music)
+[00:01:13.520 --> 00:01:16.520]   (soft piano music)
+[00:01:16.520 --> 00:01:19.520]   (soft piano music)
+[00:01:19.520 --> 00:01:22.520]   (soft piano music)
+[00:01:22.520 --> 00:01:25.520]   (soft piano music)
+[00:01:25.520 --> 00:01:28.520]   (soft piano music)
+[00:01:28.520 --> 00:01:31.520]   (soft piano music)
+[00:01:31.520 --> 00:01:34.520]   (soft piano music)
+[00:01:34.520 --> 00:01:37.520]   (soft piano music)
+[00:01:37.520 --> 00:01:40.520]   (soft piano music)
+[00:01:40.520 --> 00:01:43.520]   (soft piano music)
+[00:01:43.520 --> 00:01:46.520]   (soft piano music)
+[00:01:46.520 --> 00:01:49.520]   (soft piano music)
+[00:01:49.520 --> 00:01:52.520]   (soft piano music)
+[00:01:52.520 --> 00:01:55.520]   (soft piano music)
+[00:01:55.520 --> 00:01:58.520]   (soft piano music)
+[00:01:58.520 --> 00:02:01.520]   (soft piano music)
+[00:02:01.520 --> 00:02:04.520]   (soft piano music)
+[00:02:04.520 --> 00:02:07.520]   (soft piano music)
+[00:02:07.520 --> 00:02:10.520]   (soft piano music)
+[00:02:10.520 --> 00:02:13.520]   (soft piano music)
+[00:02:13.520 --> 00:02:16.520]   (soft piano music)
+[00:02:16.520 --> 00:02:19.520]   (soft piano music)
+[00:02:19.520 --> 00:02:22.440]   (soft piano music)
+[00:02:22.440 --> 00:02:25.360]   (soft piano music)
+[00:02:25.360 --> 00:02:28.280]   (soft piano music)
+[00:02:28.280 --> 00:02:31.200]   (soft piano music)
+[00:02:31.200 --> 00:02:34.120]   (soft piano music)
+[00:02:34.120 --> 00:02:38.440]   (soft piano music)
+[00:02:38.440 --> 00:02:42.800]   (soft piano music)
+[00:02:42.800 --> 00:02:49.160]   (soft piano music)
+[00:02:49.160 --> 00:02:53.200]   (soft piano music)
+[00:02:53.200 --> 00:02:57.480]   (soft piano music)
+[00:02:59.320 --> 00:03:02.240]   (soft piano music)
+[00:03:02.240 --> 00:03:06.200]   (soft piano music)
+[00:03:06.200 --> 00:03:10.160]   (soft piano music)
+[00:03:10.160 --> 00:03:14.160]   (soft piano music)
+[00:03:14.160 --> 00:03:18.200]   (soft piano music)
+[00:03:18.200 --> 00:03:22.240]   (soft piano music)
+[00:03:22.240 --> 00:03:26.160]   (soft piano music)
+[00:03:27.160 --> 00:03:30.080]   (soft piano music)
+[00:03:30.080 --> 00:03:33.960]   (soft piano music)
+[00:03:33.960 --> 00:03:37.960]   (soft piano music)
+[00:03:37.960 --> 00:03:41.880]   (soft piano music)
+[00:03:41.880 --> 00:03:45.880]   (soft piano music)
+[00:03:45.880 --> 00:03:49.880]   (soft piano music)
+[00:03:49.880 --> 00:03:53.880]   (soft piano music)
+[00:03:54.960 --> 00:03:57.880]   (soft piano music)
+[00:03:57.880 --> 00:04:01.760]   (soft piano music)
+[00:04:01.760 --> 00:04:05.760]   (soft piano music)
+[00:04:05.760 --> 00:04:09.760]   (soft piano music)
+[00:04:09.760 --> 00:04:13.760]   (soft piano music)
+[00:04:13.760 --> 00:04:17.760]   (soft piano music)
+[00:04:17.760 --> 00:04:21.760]   (soft piano music)
+[00:04:22.760 --> 00:04:25.760]   (soft piano music)
+[00:04:25.760 --> 00:04:29.760]   (soft piano music)
+[00:04:29.760 --> 00:04:33.760]   (soft piano music)
+[00:04:33.760 --> 00:04:37.760]   (soft piano music)
+[00:04:37.760 --> 00:04:41.760]   (soft piano music)
+[00:04:41.760 --> 00:04:45.760]   (soft piano music)
+[00:04:45.760 --> 00:04:49.760]   (soft piano music)
+[00:04:50.760 --> 00:04:53.760]   (soft piano music)
+[00:04:53.760 --> 00:04:57.760]   (soft piano music)
+[00:04:57.760 --> 00:05:01.760]   (soft piano music)
+[00:05:01.760 --> 00:05:05.760]   (soft piano music)
+[00:05:05.760 --> 00:05:09.760]   (soft piano music)
+[00:05:09.760 --> 00:05:13.760]   (soft piano music)
+[00:05:13.760 --> 00:05:17.760]   (soft piano music)
+[00:05:18.760 --> 00:05:21.760]   (soft piano music)
+[00:05:21.760 --> 00:05:25.760]   (soft piano music)
+[00:05:25.760 --> 00:05:29.760]   (soft piano music)
+[00:05:29.760 --> 00:05:33.760]   (soft piano music)
+[00:05:33.760 --> 00:05:37.760]   (soft piano music)
+[00:05:37.760 --> 00:05:41.760]   (soft piano music)
+[00:05:41.760 --> 00:05:44.760]   (soft piano music)
+[00:05:45.760 --> 00:05:47.760]   - We're gonna go ahead and get started.
+[00:05:47.760 --> 00:05:51.760]   So why don't we just take a minute to just quiet our hearts
+[00:05:51.760 --> 00:05:53.760]   as we go into a time of praise.
+[00:05:53.760 --> 00:05:56.760]   (soft piano music)
+[00:05:56.760 --> 00:06:00.760]   (soft piano music)
+[00:06:00.760 --> 00:06:04.760]   (soft piano music)
+[00:06:04.760 --> 00:06:08.760]   (soft piano music)
+[00:06:08.760 --> 00:06:12.760]   (soft piano music)
+[00:06:13.760 --> 00:06:16.760]   (soft piano music)
+[00:06:16.760 --> 00:06:20.760]   (soft piano music)
+[00:06:20.760 --> 00:06:24.760]   (soft piano music)
+[00:06:24.760 --> 00:06:28.760]   (soft piano music)
+[00:06:28.760 --> 00:06:32.760]   (soft piano music)
+[00:06:32.760 --> 00:06:36.760]   (soft piano music)
+[00:06:36.760 --> 00:06:40.760]   (soft piano music)
+[00:06:41.760 --> 00:06:44.760]   (soft piano music)
+[00:06:44.760 --> 00:06:48.760]   (soft piano music)
+[00:06:48.760 --> 00:06:52.760]   (soft piano music)
+[00:06:52.760 --> 00:06:56.760]   (soft piano music)
+[00:06:56.760 --> 00:07:00.760]   (soft piano music)
+[00:07:00.760 --> 00:07:04.760]   (soft piano music)
+[00:07:04.760 --> 00:07:08.760]   (soft piano music)
+[00:07:09.760 --> 00:07:12.760]   (soft piano music)
+[00:07:12.760 --> 00:07:16.760]   (soft piano music)
+[00:07:16.760 --> 00:07:20.760]   (soft piano music)
+[00:07:20.760 --> 00:07:24.760]   (soft piano music)
+[00:07:24.760 --> 00:07:28.760]   (soft piano music)
+[00:07:28.760 --> 00:07:32.760]   (soft piano music)
+[00:07:32.760 --> 00:07:36.760]   (soft piano music)
+[00:07:37.760 --> 00:07:40.760]   (soft piano music)
+[00:07:40.760 --> 00:07:44.760]   (soft piano music)
+[00:07:44.760 --> 00:07:48.760]   (soft piano music)
+[00:07:48.760 --> 00:07:52.760]   (soft piano music)
+[00:07:52.760 --> 00:07:56.760]   (soft piano music)
+[00:07:56.760 --> 00:08:00.760]   (soft piano music)
+[00:08:00.760 --> 00:08:04.760]   (soft piano music)
+[00:08:05.760 --> 00:08:08.760]   (soft piano music)
+[00:08:08.760 --> 00:08:12.760]   (soft piano music)
+[00:08:12.760 --> 00:08:16.760]   (soft piano music)
+[00:08:16.760 --> 00:08:20.760]   (soft piano music)
+[00:08:20.760 --> 00:08:24.760]   (soft piano music)
+[00:08:24.760 --> 00:08:28.760]   (soft piano music)
+[00:08:28.760 --> 00:08:32.760]   (soft piano music)
+[00:08:33.760 --> 00:08:36.760]   (soft piano music)
+[00:08:36.760 --> 00:08:40.760]   (soft piano music)
+[00:08:40.760 --> 00:08:44.760]   (soft piano music)
+[00:08:44.760 --> 00:08:48.760]   (soft piano music)
+[00:08:48.760 --> 00:08:52.760]   (soft piano music)
+[00:08:52.760 --> 00:08:56.760]   (soft piano music)
+[00:08:56.760 --> 00:09:00.760]   (soft piano music)
+[00:09:01.760 --> 00:09:04.760]   (soft piano music)
+[00:09:04.760 --> 00:09:08.760]   (soft piano music)
+[00:09:08.760 --> 00:09:12.760]   (soft piano music)
+[00:09:12.760 --> 00:09:16.760]   (soft piano music)
+[00:09:16.760 --> 00:09:20.760]   (soft piano music)
+[00:09:20.760 --> 00:09:24.760]   (soft piano music)
+[00:09:24.760 --> 00:09:28.760]   (soft piano music)
+[00:09:29.760 --> 00:09:32.760]   (soft piano music)
+[00:09:32.760 --> 00:09:36.760]   (soft piano music)
+[00:09:36.760 --> 00:09:40.760]   (soft piano music)
+[00:09:40.760 --> 00:09:44.760]   (soft piano music)
+[00:09:44.760 --> 00:09:48.760]   (soft piano music)
+[00:09:48.760 --> 00:09:52.760]   (soft piano music)
+[00:09:52.760 --> 00:09:56.760]   (soft piano music)
+[00:09:57.760 --> 00:10:00.760]   (soft piano music)
+[00:10:00.760 --> 00:10:04.760]   (soft piano music)
+[00:10:04.760 --> 00:10:08.760]   (soft piano music)
+[00:10:08.760 --> 00:10:12.760]   (soft piano music)
+[00:10:12.760 --> 00:10:16.760]   (soft piano music)
+[00:10:16.760 --> 00:10:20.760]   (soft piano music)
+[00:10:20.760 --> 00:10:24.760]   (soft piano music)
+[00:10:25.760 --> 00:10:28.760]   (soft piano music)
+[00:10:28.760 --> 00:10:32.760]   (soft piano music)
+[00:10:32.760 --> 00:10:36.760]   (soft piano music)
+[00:10:36.760 --> 00:10:40.760]   (soft piano music)
+[00:10:40.760 --> 00:10:44.760]   (soft piano music)
+[00:10:44.760 --> 00:10:48.760]   (soft piano music)
+[00:10:48.760 --> 00:10:52.760]   (soft piano music)
+[00:10:53.760 --> 00:10:56.760]   (soft piano music)
+[00:10:56.760 --> 00:11:00.760]   (soft piano music)
+[00:11:00.760 --> 00:11:04.760]   (soft piano music)
+[00:11:04.760 --> 00:11:08.760]   (soft piano music)
+[00:11:08.760 --> 00:11:12.760]   (soft piano music)
+[00:11:12.760 --> 00:11:16.760]   (soft piano music)
+[00:11:16.760 --> 00:11:20.760]   (soft piano music)
+[00:11:21.760 --> 00:11:24.760]   (soft piano music)
+[00:11:24.760 --> 00:11:28.760]   (soft piano music)
+[00:11:28.760 --> 00:11:32.760]   (soft piano music)
+[00:11:32.760 --> 00:11:36.760]   (soft piano music)
+[00:11:36.760 --> 00:11:40.760]   (soft piano music)
+[00:11:40.760 --> 00:11:44.760]   (soft piano music)
+[00:11:44.760 --> 00:11:48.760]   (soft piano music)
+[00:11:49.760 --> 00:11:52.760]   (soft piano music)
+[00:11:52.760 --> 00:11:56.760]   (soft piano music)
+[00:11:56.760 --> 00:12:00.760]   (soft piano music)
+[00:12:00.760 --> 00:12:04.760]   (soft piano music)
+[00:12:04.760 --> 00:12:08.760]   (soft piano music)
+[00:12:08.760 --> 00:12:12.760]   (soft piano music)
+[00:12:12.760 --> 00:12:16.760]   (soft piano music)
+[00:12:17.760 --> 00:12:20.760]   (soft piano music)
+[00:12:20.760 --> 00:12:24.760]   (soft piano music)
+[00:12:24.760 --> 00:12:28.760]   (soft piano music)
+[00:12:28.760 --> 00:12:32.760]   (soft piano music)
+[00:12:32.760 --> 00:12:36.760]   (soft piano music)
+[00:12:36.760 --> 00:12:40.760]   (soft piano music)
+[00:12:40.760 --> 00:12:44.760]   (soft piano music)
+[00:12:45.760 --> 00:12:48.760]   (soft piano music)
+[00:12:48.760 --> 00:12:52.760]   (soft piano music)
+[00:12:52.760 --> 00:12:56.760]   (soft piano music)
+[00:12:56.760 --> 00:13:00.760]   (soft piano music)
+[00:13:00.760 --> 00:13:04.760]   (soft piano music)
+[00:13:04.760 --> 00:13:08.760]   (soft piano music)
+[00:13:08.760 --> 00:13:12.760]   (soft piano music)
+[00:13:13.760 --> 00:13:16.760]   (soft piano music)
+[00:13:16.760 --> 00:13:20.760]   (soft piano music)
+[00:13:20.760 --> 00:13:24.760]   (soft piano music)
+[00:13:24.760 --> 00:13:28.760]   (soft piano music)
+[00:13:28.760 --> 00:13:32.760]   (soft piano music)
+[00:13:32.760 --> 00:13:36.760]   (soft piano music)
+[00:13:36.760 --> 00:13:40.760]   (soft piano music)
+[00:13:41.760 --> 00:13:44.760]   (soft piano music)
+[00:13:44.760 --> 00:13:48.760]   (soft piano music)
+[00:13:48.760 --> 00:13:52.760]   (soft piano music)
+[00:13:52.760 --> 00:13:56.760]   (soft piano music)
+[00:13:56.760 --> 00:14:00.760]   (soft piano music)
+[00:14:00.760 --> 00:14:04.760]   (soft piano music)
+[00:14:04.760 --> 00:14:08.760]   (soft piano music)
+[00:14:09.760 --> 00:14:12.760]   (soft piano music)
+[00:14:12.760 --> 00:14:16.760]   (soft piano music)
+[00:14:16.760 --> 00:14:20.760]   (soft piano music)
+[00:14:20.760 --> 00:14:24.760]   (soft piano music)
+[00:14:24.760 --> 00:14:28.760]   (soft piano music)
+[00:14:28.760 --> 00:14:32.760]   (soft piano music)
+[00:14:32.760 --> 00:14:36.760]   (soft piano music)
+[00:14:37.760 --> 00:14:40.760]   (soft piano music)
+[00:14:40.760 --> 00:14:44.760]   (soft piano music)
+[00:14:44.760 --> 00:14:48.760]   (soft piano music)
+[00:14:48.760 --> 00:14:52.760]   (soft piano music)
+[00:14:52.760 --> 00:14:56.760]   (soft piano music)
+[00:14:56.760 --> 00:15:00.760]   (soft piano music)
+[00:15:00.760 --> 00:15:04.760]   (soft piano music)
+[00:15:05.760 --> 00:15:08.760]   (soft piano music)
+[00:15:08.760 --> 00:15:12.760]   (soft piano music)
+[00:15:12.760 --> 00:15:16.760]   (soft piano music)
+[00:15:16.760 --> 00:15:20.760]   (soft piano music)
+[00:15:20.760 --> 00:15:24.760]   (soft piano music)
+[00:15:24.760 --> 00:15:28.760]   (soft piano music)
+[00:15:28.760 --> 00:15:32.760]   (soft piano music)
+[00:15:33.760 --> 00:15:36.760]   (soft piano music)
+[00:15:36.760 --> 00:15:40.760]   (soft piano music)
+[00:15:40.760 --> 00:15:44.760]   (soft piano music)
+[00:15:44.760 --> 00:15:48.760]   (soft piano music)
+[00:15:48.760 --> 00:15:52.760]   (soft piano music)
+[00:15:52.760 --> 00:15:56.760]   (soft piano music)
+[00:15:56.760 --> 00:16:00.760]   (soft piano music)
+[00:16:01.760 --> 00:16:04.760]   (soft piano music)
+[00:16:04.760 --> 00:16:08.760]   (soft piano music)
+[00:16:08.760 --> 00:16:12.760]   (soft piano music)
+[00:16:12.760 --> 00:16:16.760]   (soft piano music)
+[00:16:16.760 --> 00:16:20.760]   (soft piano music)
+[00:16:20.760 --> 00:16:24.760]   (soft piano music)
+[00:16:24.760 --> 00:16:28.760]   (soft piano music)
+[00:16:29.760 --> 00:16:32.760]   (soft piano music)
+[00:16:32.760 --> 00:16:36.760]   (soft piano music)
+[00:16:36.760 --> 00:16:40.760]   (soft piano music)
+[00:16:40.760 --> 00:16:44.760]   (soft piano music)
+[00:16:44.760 --> 00:16:48.760]   (soft piano music)
+[00:16:48.760 --> 00:16:52.760]   (soft piano music)
+[00:16:52.760 --> 00:16:56.760]   (soft piano music)
+[00:16:57.760 --> 00:17:00.760]   (soft piano music)
+[00:17:00.760 --> 00:17:04.760]   (soft piano music)
+[00:17:04.760 --> 00:17:08.760]   (soft piano music)
+[00:17:08.760 --> 00:17:12.760]   (soft piano music)
+[00:17:12.760 --> 00:17:16.760]   (soft piano music)
+[00:17:16.760 --> 00:17:20.760]   (soft piano music)
+[00:17:20.760 --> 00:17:24.760]   (soft piano music)
+[00:17:25.760 --> 00:17:28.760]   (soft piano music)
+[00:17:28.760 --> 00:17:32.760]   (soft piano music)
+[00:17:32.760 --> 00:17:36.760]   (soft piano music)
+[00:17:36.760 --> 00:17:40.760]   (soft piano music)
+[00:17:40.760 --> 00:17:44.760]   (soft piano music)
+[00:17:44.760 --> 00:17:48.760]   (soft piano music)
+[00:17:48.760 --> 00:17:52.760]   (soft piano music)
+[00:17:53.760 --> 00:17:56.760]   (soft piano music)
+[00:17:56.760 --> 00:18:00.760]   (soft piano music)
+[00:18:00.760 --> 00:18:04.760]   (soft piano music)
+[00:18:04.760 --> 00:18:08.760]   (soft piano music)
+[00:18:08.760 --> 00:18:12.760]   (soft piano music)
+[00:18:12.760 --> 00:18:16.760]   (soft piano music)
+[00:18:16.760 --> 00:18:20.760]   (soft piano music)
+[00:18:21.760 --> 00:18:24.760]   (soft piano music)
+[00:18:24.760 --> 00:18:28.760]   (soft piano music)
+[00:18:28.760 --> 00:18:32.760]   (soft piano music)
+[00:18:32.760 --> 00:18:36.760]   (soft piano music)
+[00:18:36.760 --> 00:18:40.760]   (soft piano music)
+[00:18:40.760 --> 00:18:44.760]   (soft piano music)
+[00:18:44.760 --> 00:18:48.760]   (soft piano music)
+[00:18:49.760 --> 00:18:52.760]   (soft piano music)
+[00:18:52.760 --> 00:18:56.760]   (soft piano music)
+[00:18:56.760 --> 00:19:00.760]   (soft piano music)
+[00:19:00.760 --> 00:19:04.760]   (soft piano music)
+[00:19:04.760 --> 00:19:08.760]   (soft piano music)
+[00:19:08.760 --> 00:19:12.760]   (soft piano music)
+[00:19:12.760 --> 00:19:16.760]   (soft piano music)
+[00:19:17.760 --> 00:19:20.760]   (soft piano music)
+[00:19:20.760 --> 00:19:24.760]   (soft piano music)
+[00:19:24.760 --> 00:19:28.760]   (soft piano music)
+[00:19:28.760 --> 00:19:32.760]   (soft piano music)
+[00:19:32.760 --> 00:19:36.760]   (soft piano music)
+[00:19:36.760 --> 00:19:40.760]   (soft piano music)
+[00:19:40.760 --> 00:19:44.760]   (soft piano music)
+[00:19:45.760 --> 00:19:48.760]   (soft piano music)
+[00:19:48.760 --> 00:19:52.760]   (soft piano music)
+[00:19:52.760 --> 00:19:56.760]   (soft piano music)
+[00:19:56.760 --> 00:20:00.760]   (soft piano music)
+[00:20:00.760 --> 00:20:04.760]   (soft piano music)
+[00:20:04.760 --> 00:20:08.760]   (soft piano music)
+[00:20:08.760 --> 00:20:12.760]   (soft piano music)
+[00:20:13.760 --> 00:20:16.760]   (soft piano music)
+[00:20:16.760 --> 00:20:20.760]   (soft piano music)
+[00:20:20.760 --> 00:20:24.760]   (soft piano music)
+[00:20:24.760 --> 00:20:28.760]   (soft piano music)
+[00:20:28.760 --> 00:20:32.760]   (soft piano music)
+[00:20:32.760 --> 00:20:36.760]   (soft piano music)
+[00:20:36.760 --> 00:20:40.760]   (soft piano music)
+[00:20:41.760 --> 00:20:44.760]   (soft piano music)
+[00:20:44.760 --> 00:20:48.760]   (soft piano music)
+[00:20:48.760 --> 00:20:52.760]   (soft piano music)
+[00:20:52.760 --> 00:20:56.760]   (soft piano music)
+[00:20:56.760 --> 00:21:00.760]   (soft piano music)
+[00:21:00.760 --> 00:21:04.760]   (soft piano music)
+[00:21:04.760 --> 00:21:08.760]   (soft piano music)
+[00:21:09.760 --> 00:21:12.760]   (soft piano music)
+[00:21:12.760 --> 00:21:16.760]   (soft piano music)
+[00:21:16.760 --> 00:21:20.760]   (soft piano music)
+[00:21:20.760 --> 00:21:24.760]   (soft piano music)
+[00:21:24.760 --> 00:21:28.760]   (soft piano music)
+[00:21:28.760 --> 00:21:32.760]   (soft piano music)
+[00:21:32.760 --> 00:21:36.760]   (soft piano music)
+[00:21:37.760 --> 00:21:40.760]   (soft piano music)
+[00:21:40.760 --> 00:21:44.760]   (soft piano music)
+[00:21:44.760 --> 00:21:48.760]   (soft piano music)
+[00:21:48.760 --> 00:21:52.760]   (soft piano music)
+[00:21:52.760 --> 00:21:56.760]   (soft piano music)
+[00:21:56.760 --> 00:22:00.760]   (soft piano music)
+[00:22:00.760 --> 00:22:04.760]   (soft piano music)
+[00:22:05.760 --> 00:22:08.760]   (soft piano music)
+[00:22:08.760 --> 00:22:12.760]   (soft piano music)
+[00:22:12.760 --> 00:22:16.760]   (soft piano music)
+[00:22:16.760 --> 00:22:20.760]   (soft piano music)
+[00:22:20.760 --> 00:22:24.760]   (soft piano music)
+[00:22:24.760 --> 00:22:28.760]   (soft piano music)
+[00:22:28.760 --> 00:22:32.760]   (soft piano music)
+[00:22:33.760 --> 00:22:36.760]   (soft piano music)
+[00:22:36.760 --> 00:22:40.760]   (soft piano music)
+[00:22:40.760 --> 00:22:44.760]   (soft piano music)
+[00:22:44.760 --> 00:22:48.760]   (soft piano music)
+[00:22:48.760 --> 00:22:52.760]   (soft piano music)
+[00:22:52.760 --> 00:22:56.760]   (soft piano music)
+[00:22:56.760 --> 00:23:00.760]   (soft piano music)
+[00:23:01.760 --> 00:23:04.760]   (soft piano music)
+[00:23:04.760 --> 00:23:08.760]   (soft piano music)
+[00:23:08.760 --> 00:23:12.760]   (soft piano music)
+[00:23:12.760 --> 00:23:16.760]   (soft piano music)
+[00:23:16.760 --> 00:23:20.760]   (soft piano music)
+[00:23:20.760 --> 00:23:24.760]   (soft piano music)
+[00:23:24.760 --> 00:23:28.760]   (soft piano music)
+[00:23:29.760 --> 00:23:32.760]   (soft piano music)
+[00:23:32.760 --> 00:23:36.760]   (soft piano music)
+[00:23:36.760 --> 00:23:40.760]   (soft piano music)
+[00:23:40.760 --> 00:23:44.760]   (soft piano music)
+[00:23:44.760 --> 00:23:48.760]   (soft piano music)
+[00:23:48.760 --> 00:23:52.760]   (soft piano music)
+[00:23:52.760 --> 00:23:56.760]   (soft piano music)
+[00:23:57.760 --> 00:24:00.760]   (soft piano music)
+[00:24:00.760 --> 00:24:04.760]   (soft piano music)
+[00:24:04.760 --> 00:24:08.760]   (soft piano music)
+[00:24:08.760 --> 00:24:12.760]   (soft piano music)
+[00:24:12.760 --> 00:24:16.760]   (soft piano music)
+[00:24:16.760 --> 00:24:20.760]   (soft piano music)
+[00:24:20.760 --> 00:24:24.760]   (soft piano music)
+[00:24:25.760 --> 00:24:28.760]   (soft piano music)
+[00:24:28.760 --> 00:24:32.760]   (soft piano music)
+[00:24:32.760 --> 00:24:36.760]   (soft piano music)
+[00:24:36.760 --> 00:24:40.760]   (soft piano music)
+[00:24:40.760 --> 00:24:44.760]   (soft piano music)
+[00:24:44.760 --> 00:24:48.760]   (soft piano music)
+[00:24:48.760 --> 00:24:52.760]   (soft piano music)
+[00:24:53.760 --> 00:24:57.760]   The India mission trip was a response to God speaking to my heart.
+[00:24:57.760 --> 00:25:01.760]   No longer reluctant, I wanted to obey.
+[00:25:01.760 --> 00:25:05.760]   There were so many reasons why I shouldn't have been on the team.
+[00:25:05.760 --> 00:25:10.760]   For one, I suffer from severe motion sickness.
+[00:25:10.760 --> 00:25:15.760]   I used to get sick swimming in our own pool.
+[00:25:15.760 --> 00:25:18.760]   And I think I still do.
+[00:25:18.760 --> 00:25:22.760]   In our past travels, especially when flying,
+[00:25:22.760 --> 00:25:26.760]   you can be sure that I will be in bed, out of commission,
+[00:25:26.760 --> 00:25:29.760]   for at least 24 hours after we land.
+[00:25:29.760 --> 00:25:34.760]   So the length of travel and number of connecting flights to India
+[00:25:34.760 --> 00:25:37.760]   was a huge obstacle and fear for me.
+[00:25:37.760 --> 00:25:41.760]   When I was asked how the church could pray for me,
+[00:25:41.760 --> 00:25:45.760]   my prayer request was that I don't get motion sick.
+[00:25:45.760 --> 00:25:48.760]   I know that wasn't very spiritual.
+[00:25:49.760 --> 00:25:54.760]   Usually people ask for God's mighty work to be done to them.
+[00:25:54.760 --> 00:25:58.760]   Mine was motion sickness, and that was real.
+[00:25:58.760 --> 00:26:09.760]   But I am here to tell you that our God does hear not so spiritual prayers too.
+[00:26:09.760 --> 00:26:13.760]   He showed me that he is God who meets all of our needs,
+[00:26:13.760 --> 00:26:17.760]   no matter how small and insignificant.
+[00:26:18.760 --> 00:26:21.760]   Lord has been working in many areas of my life,
+[00:26:21.760 --> 00:26:25.760]   areas in life where he wants me to grow.
+[00:26:25.760 --> 00:26:28.760]   And witnessing Indian pastors
+[00:26:28.760 --> 00:26:35.760]   living their lives with singular focus
+[00:26:35.760 --> 00:26:40.760]   in the midst of heavy persecution
+[00:26:40.760 --> 00:26:45.760]   really challenged and encouraged me to grow and to seek after God.
+[00:26:45.760 --> 00:26:51.760]   One of my favorite pastors once said,
+[00:26:51.760 --> 00:26:54.760]   "We are all a work in progress,
+[00:26:54.760 --> 00:26:58.760]   and in my life there are construction signs everywhere."
+[00:26:58.760 --> 00:27:02.760]   For me, those signs are my grumbling heart,
+[00:27:02.760 --> 00:27:06.760]   my critical spirit, and my reluctance to serve,
+[00:27:06.760 --> 00:27:10.760]   using the excuses that I am an introvert,
+[00:27:10.760 --> 00:27:13.760]   that I don't do well meeting new people,
+[00:27:14.760 --> 00:27:16.760]   and I don't have any gifts.
+[00:27:16.760 --> 00:27:20.760]   While there may be some truth to all these,
+[00:27:20.760 --> 00:27:25.760]   the fact that I am standing here speaking to you is nothing short of a miracle.
+[00:27:25.760 --> 00:27:31.760]   I would never in my right mind come up here to speak to such a large group like this,
+[00:27:31.760 --> 00:27:36.760]   something that only God can do as I try to obey.
+[00:27:36.760 --> 00:27:41.760]   I want to obey as I desire to hear him more.
+[00:27:42.760 --> 00:27:47.760]   One of the verses that comforted me all these years is Philippians 1.6,
+[00:27:47.760 --> 00:27:50.760]   "Being confident of this very thing,
+[00:27:50.760 --> 00:27:57.760]   that he who has begun a good work in you will complete it until the day of Jesus Christ."
+[00:27:57.760 --> 00:28:01.760]   Even with my reluctance, resistance, and rebellion,
+[00:28:01.760 --> 00:28:07.760]   it's comforting to know he will complete the work he has begun
+[00:28:07.760 --> 00:28:11.760]   because our Lord is so faithful.
+[00:28:12.760 --> 00:28:16.760]   Galatians 2.20 says, "I have been crucified with Christ.
+[00:28:16.760 --> 00:28:20.760]   It is no longer I who live, but Christ lives in me.
+[00:28:20.760 --> 00:28:23.760]   And the life which I now live in the flesh,
+[00:28:23.760 --> 00:28:29.760]   I live by faith in the Son of God who loved me and gave himself for me.
+[00:28:29.760 --> 00:28:32.760]   Today, I'm living my best life.
+[00:28:32.760 --> 00:28:35.760]   I'm the happiest I've ever been.
+[00:28:35.760 --> 00:28:40.760]   It's all because I am seeking to live in obedience to him.
+[00:28:40.760 --> 00:28:43.760]   I still have a long, long way to go,
+[00:28:43.760 --> 00:28:49.760]   but my desire is to grow, to have a greater affection for him."
+[00:28:49.760 --> 00:28:54.760]   I want to encourage you that you are never too old to change,
+[00:28:54.760 --> 00:28:58.760]   never too old to grow in the Lord,
+[00:28:58.760 --> 00:29:02.760]   and never too old to live for him in obedience.
+[00:29:02.760 --> 00:29:04.760]   Thank you.
+[00:29:05.760 --> 00:29:14.760]   [applause]
+[00:29:14.760 --> 00:29:18.760]   Okay, thank you so much for that encouraging testimony.
+[00:29:18.760 --> 00:29:20.760]   Would you take a brief moment to pray
+[00:29:20.760 --> 00:29:22.760]   as we walk through some of the Scriptures tonight?
+[00:29:22.760 --> 00:29:27.760]   Father, our desire and hope is to remember
+[00:29:27.760 --> 00:29:31.760]   and then to consider your amazing work through Christ,
+[00:29:32.760 --> 00:29:36.760]   but also then to consider your heart, your desire,
+[00:29:36.760 --> 00:29:38.760]   and then to praise and worship you.
+[00:29:38.760 --> 00:29:41.760]   And God, as we were encouraged by that testimony,
+[00:29:41.760 --> 00:29:44.760]   to live our lives in such a way where it's yours,
+[00:29:44.760 --> 00:29:46.760]   and that, God, we would honor and glorify you.
+[00:29:46.760 --> 00:29:49.760]   We thank you. It's in Christ's name. Amen.
+[00:29:49.760 --> 00:29:55.760]   So as we do a walkthrough of the events of Tuesday of Passion Week,
+[00:29:55.760 --> 00:29:59.760]   I do want to give us just a brief, brief review
+[00:30:00.760 --> 00:30:03.760]   that on Saturday, just an easy way to remember
+[00:30:03.760 --> 00:30:06.760]   is that Jesus was anointed, okay?
+[00:30:06.760 --> 00:30:10.760]   That in John chapter 12, it speaks of how
+[00:30:10.760 --> 00:30:13.760]   six days before the Passover, he was at Mary's house,
+[00:30:13.760 --> 00:30:17.760]   Lazarus was serving, and then Mary anointed him,
+[00:30:17.760 --> 00:30:20.760]   and he commented that he's being prepared for the burial.
+[00:30:20.760 --> 00:30:25.760]   And then on Palm Sunday, this is Jesus' entry.
+[00:30:25.760 --> 00:30:28.760]   What we well know is that though Christ was looking
+[00:30:29.760 --> 00:30:32.760]   at the whole city, crying and weeping at its condition,
+[00:30:32.760 --> 00:30:35.760]   the people were singing "Hosanna, Hosanna," and rightly so,
+[00:30:35.760 --> 00:30:38.760]   but they didn't fully understand.
+[00:30:38.760 --> 00:30:41.760]   And then on Monday, we learned yesterday night
+[00:30:41.760 --> 00:30:44.760]   that Jesus curses the fig tree,
+[00:30:44.760 --> 00:30:47.760]   and he clears the temple of all the merchants.
+[00:30:47.760 --> 00:30:49.760]   If you think about the kind of commotion,
+[00:30:49.760 --> 00:30:52.760]   if you try to envision what kind of stir,
+[00:30:52.760 --> 00:30:55.760]   recall that it wasn't just a small pocket of people.
+[00:30:56.760 --> 00:30:58.760]   If you imagine South Coast Plaza,
+[00:30:58.760 --> 00:31:00.760]   or if you imagine the spectrum,
+[00:31:00.760 --> 00:31:03.760]   and you think that it was in that kind of scenario,
+[00:31:03.760 --> 00:31:05.760]   in the merchant's hall that Jesus threw the tables,
+[00:31:05.760 --> 00:31:07.760]   you're thinking too small.
+[00:31:07.760 --> 00:31:11.760]   We're talking about such degree of the whole
+[00:31:11.760 --> 00:31:13.760]   of the Israelite nation coming together
+[00:31:13.760 --> 00:31:16.760]   for this incredible moment of sacrifice,
+[00:31:16.760 --> 00:31:18.760]   worship, and ritual, right?
+[00:31:18.760 --> 00:31:21.760]   We're talking about a scale much bigger than that.
+[00:31:21.760 --> 00:31:23.760]   So imagine the kind of news,
+[00:31:24.760 --> 00:31:28.760]   the kind of commotion Christ made just last night, okay?
+[00:31:28.760 --> 00:31:30.760]   And then so we come to Tuesday,
+[00:31:30.760 --> 00:31:34.760]   and on Tuesday, let's see here.
+[00:31:34.760 --> 00:31:37.760]   Sorry, brothers, I'm gonna have to ask you
+[00:31:37.760 --> 00:31:39.760]   to do the clicker for me.
+[00:31:39.760 --> 00:31:41.760]   Thank you.
+[00:31:41.760 --> 00:31:43.760]   I'm just gonna ask you guys to do it, okay?
+[00:31:43.760 --> 00:31:45.760]   Appreciate it, I don't know why it's not going.
+[00:31:45.760 --> 00:31:47.760]   On Tuesday, I wanna give you a brief overview
+[00:31:47.760 --> 00:31:49.760]   that actually a lot happens.
+[00:31:49.760 --> 00:31:52.760]   But if you imagine, Pastor Peter Chong explained
+[00:31:53.760 --> 00:31:54.760]   that you have to think about it as
+[00:31:54.760 --> 00:31:57.760]   Christ goes to Bethany, home base.
+[00:31:57.760 --> 00:31:59.760]   Then he walks with the disciples to Jerusalem,
+[00:31:59.760 --> 00:32:01.760]   has a lot of things happen,
+[00:32:01.760 --> 00:32:03.760]   comes back to home base, et cetera, et cetera.
+[00:32:03.760 --> 00:32:05.760]   And so Tuesday morning,
+[00:32:05.760 --> 00:32:07.760]   they walk from Bethany to Jerusalem,
+[00:32:07.760 --> 00:32:10.760]   and on route, they have a reaction
+[00:32:10.760 --> 00:32:12.760]   with the fig tree that was withered.
+[00:32:12.760 --> 00:32:14.760]   The second part is that
+[00:32:14.760 --> 00:32:16.760]   when Jesus arrives at the temple,
+[00:32:16.760 --> 00:32:19.760]   he has a confrontation with the religious leaders,
+[00:32:19.760 --> 00:32:22.760]   and that's where I'll spend the bulk of tonight
+[00:32:22.760 --> 00:32:24.760]   reviewing and rehearsing and remembering.
+[00:32:24.760 --> 00:32:26.760]   I also believe that the situation
+[00:32:26.760 --> 00:32:29.760]   where Jesus watches the rich give,
+[00:32:29.760 --> 00:32:31.760]   just a small portion of the riches,
+[00:32:31.760 --> 00:32:34.760]   but sees the poor woman give out of her poverty,
+[00:32:34.760 --> 00:32:36.760]   that also takes place on this day.
+[00:32:36.760 --> 00:32:38.760]   And then finally, in the afternoon,
+[00:32:38.760 --> 00:32:41.760]   the late afternoon, as they're leaving Jerusalem,
+[00:32:41.760 --> 00:32:44.760]   they stop on the Mount of Olives,
+[00:32:44.760 --> 00:32:46.760]   and they look at the temple,
+[00:32:46.760 --> 00:32:48.760]   and there he takes the opportunity
+[00:32:48.760 --> 00:32:50.760]   to teach the disciples something
+[00:32:51.760 --> 00:32:53.760]   incredibly important about what's to expect.
+[00:32:53.760 --> 00:32:56.760]   So let's walk through these one by one.
+[00:32:56.760 --> 00:32:58.760]   Click.
+[00:32:58.760 --> 00:33:02.760]   The first is gonna be the reaction to the fig tree.
+[00:33:02.760 --> 00:33:04.760]   (coughs)
+[00:33:04.760 --> 00:33:07.760]   I'll take a brief moment to comment on it,
+[00:33:07.760 --> 00:33:10.760]   that Jesus and the disciples, as they're walking,
+[00:33:10.760 --> 00:33:13.760]   pass by the same tree that Jesus cursed.
+[00:33:13.760 --> 00:33:15.760]   Why?
+[00:33:15.760 --> 00:33:18.760]   He cursed it because it was in full bloom.
+[00:33:18.760 --> 00:33:20.760]   And then why?
+[00:33:20.760 --> 00:33:21.760]   Because even though it was in full bloom,
+[00:33:21.760 --> 00:33:23.760]   there was no fruit.
+[00:33:23.760 --> 00:33:25.760]   And he cursed it and said,
+[00:33:25.760 --> 00:33:27.760]   "Never again will you bear."
+[00:33:27.760 --> 00:33:29.760]   Now, what happens in this story
+[00:33:29.760 --> 00:33:32.760]   is in Mark chapter 11, verse 20 through 25,
+[00:33:32.760 --> 00:33:34.760]   I'll read the portion for us, okay?
+[00:33:34.760 --> 00:33:37.760]   It says, "As they were passing by in the morning,
+[00:33:37.760 --> 00:33:40.760]   "they saw the fig tree withered up from the roots.
+[00:33:40.760 --> 00:33:42.760]   "Being reminded, Peter said to him,
+[00:33:42.760 --> 00:33:44.760]   "'Rabbi, look!
+[00:33:44.760 --> 00:33:47.760]   "'The fig tree which you cursed has withered!'"
+[00:33:48.760 --> 00:33:50.760]   And then Jesus answered them,
+[00:33:50.760 --> 00:33:53.760]   saying, "Have faith in God."
+[00:33:53.760 --> 00:33:56.760]   This interaction is quite strange in some ways
+[00:33:56.760 --> 00:33:59.760]   because Apostle Peter, he's surprised.
+[00:33:59.760 --> 00:34:01.760]   He is impressed.
+[00:34:01.760 --> 00:34:03.760]   He's saying, "Wow, look!
+[00:34:03.760 --> 00:34:05.760]   "It didn't just wither from the branches
+[00:34:05.760 --> 00:34:07.760]   "or any of the rotten fruit.
+[00:34:07.760 --> 00:34:09.760]   "It withered from the ground."
+[00:34:09.760 --> 00:34:11.760]   Something completely unusual.
+[00:34:11.760 --> 00:34:14.760]   And then Jesus' answer is, "Have faith."
+[00:34:14.760 --> 00:34:16.760]   Okay, so what's happening here?
+[00:34:17.760 --> 00:34:18.760]   There are two things happening here
+[00:34:18.760 --> 00:34:20.760]   and I just wanna highlight them for you.
+[00:34:20.760 --> 00:34:22.760]   Next, please.
+[00:34:22.760 --> 00:34:24.760]   The two things are that Jesus has challenged
+[00:34:24.760 --> 00:34:26.760]   the disciples to have more faith
+[00:34:26.760 --> 00:34:28.760]   because that is what is at hand
+[00:34:28.760 --> 00:34:32.760]   with this case study and the story at large.
+[00:34:32.760 --> 00:34:34.760]   Specifically for the disciples,
+[00:34:34.760 --> 00:34:36.760]   I mean, just on Saturday,
+[00:34:36.760 --> 00:34:38.760]   they had a meal with Mary
+[00:34:38.760 --> 00:34:41.760]   and the brother Lazarus who was dead.
+[00:34:41.760 --> 00:34:45.760]   That story ran through the whole city.
+[00:34:46.760 --> 00:34:49.760]   They experienced miracles after miracles
+[00:34:49.760 --> 00:34:52.760]   and then here he is, surprised and shocked.
+[00:34:52.760 --> 00:34:55.760]   Now, giving him sympathy, any miracle is surprising.
+[00:34:55.760 --> 00:34:57.760]   Anything outside of the norm is shocking.
+[00:34:57.760 --> 00:35:01.760]   But Jesus says, "What I want you to have is faith
+[00:35:01.760 --> 00:35:03.760]   "because much greater things are going to happen."
+[00:35:03.760 --> 00:35:07.760]   And secondly, the main problem then, Jesus shows,
+[00:35:07.760 --> 00:35:09.760]   is that there is a deadness.
+[00:35:09.760 --> 00:35:13.760]   There is an absolute void of faith within Jerusalem,
+[00:35:13.760 --> 00:35:15.760]   especially its leaders.
+[00:35:15.760 --> 00:35:16.760]   And so walking into Jerusalem,
+[00:35:16.760 --> 00:35:20.760]   he is going to show them just how dead it is.
+[00:35:20.760 --> 00:35:22.760]   It's absolutely Ichabod.
+[00:35:22.760 --> 00:35:24.760]   There is no spirit.
+[00:35:24.760 --> 00:35:28.760]   So the tension started to arise from the previous section
+[00:35:28.760 --> 00:35:30.760]   and then we go into the second part
+[00:35:30.760 --> 00:35:32.760]   of the events of this day.
+[00:35:32.760 --> 00:35:34.760]   So as they're walking, they walk into Jerusalem
+[00:35:34.760 --> 00:35:36.760]   and once they enter,
+[00:35:36.760 --> 00:35:39.760]   my guess is there are already crowds waiting for him.
+[00:35:39.760 --> 00:35:41.760]   There was a commotion.
+[00:35:41.760 --> 00:35:43.760]   There was a stir.
+[00:35:44.760 --> 00:35:45.760]   People were already planning, remember?
+[00:35:45.760 --> 00:35:47.760]   It said that they were seeking for opportunities
+[00:35:47.760 --> 00:35:50.760]   and so they were gearing up.
+[00:35:50.760 --> 00:35:52.760]   They had schemes to talk to each other
+[00:35:52.760 --> 00:35:54.760]   and plan their words and have prosecutors
+[00:35:54.760 --> 00:35:56.760]   and lawyers and everybody
+[00:35:56.760 --> 00:35:58.760]   and they were challenging Jesus.
+[00:35:58.760 --> 00:36:00.760]   Now, what I'd like to do is ask you
+[00:36:00.760 --> 00:36:02.760]   to turn your Bibles to Matthew 21
+[00:36:02.760 --> 00:36:06.760]   and we'll together walk through this segment of scripture,
+[00:36:06.760 --> 00:36:09.760]   walking through the many challenges
+[00:36:09.760 --> 00:36:12.760]   that they threw at our Lord Jesus Christ.
+[00:36:13.760 --> 00:36:14.760]   The many challenges.
+[00:36:14.760 --> 00:36:16.760]   And so as you turn there,
+[00:36:16.760 --> 00:36:18.760]   I want us to think on Tuesday,
+[00:36:18.760 --> 00:36:20.760]   if you're thinking about one thing,
+[00:36:20.760 --> 00:36:22.760]   even though there's a lot,
+[00:36:22.760 --> 00:36:24.760]   essentially what you have is the confrontation
+[00:36:24.760 --> 00:36:26.760]   as a main bulk
+[00:36:26.760 --> 00:36:29.760]   and then as they leave, his teaching.
+[00:36:29.760 --> 00:36:32.760]   So this part here is very important
+[00:36:32.760 --> 00:36:34.760]   about the challenges that the leaders,
+[00:36:34.760 --> 00:36:36.760]   the religious leaders give
+[00:36:36.760 --> 00:36:38.760]   and the very first challenge
+[00:36:38.760 --> 00:36:40.760]   is a challenge to his authority.
+[00:36:40.760 --> 00:36:42.760]   If you look, starting from verse 23,
+[00:36:42.760 --> 00:36:43.760]   I'm just going to read small bits of it
+[00:36:43.760 --> 00:36:45.760]   just for the sake of time.
+[00:36:45.760 --> 00:36:47.760]   It says in verse 23,
+[00:36:47.760 --> 00:36:49.760]   when he entered the temple,
+[00:36:49.760 --> 00:36:51.760]   the chief priests,
+[00:36:51.760 --> 00:36:53.760]   so we're talking about the head honchos, okay,
+[00:36:53.760 --> 00:36:55.760]   and the elders of the people came to him
+[00:36:55.760 --> 00:36:57.760]   while he was teaching and said,
+[00:36:57.760 --> 00:36:59.760]   by what authority are you doing these things
+[00:36:59.760 --> 00:37:02.760]   and who gave you this authority?
+[00:37:02.760 --> 00:37:04.760]   Do you think their tone was,
+[00:37:04.760 --> 00:37:06.760]   by the way, who gave you the authority?
+[00:37:06.760 --> 00:37:08.760]   Where did you learn this stuff?
+[00:37:08.760 --> 00:37:10.760]   No, no, no.
+[00:37:11.760 --> 00:37:12.760]   It was a confrontation
+[00:37:12.760 --> 00:37:14.760]   because they wanted Jesus to stop.
+[00:37:14.760 --> 00:37:16.760]   They wanted him to stop the worship.
+[00:37:16.760 --> 00:37:18.760]   They wanted him to stop the people following
+[00:37:18.760 --> 00:37:20.760]   because he was a threat
+[00:37:20.760 --> 00:37:22.760]   to both their authority and their livelihood.
+[00:37:22.760 --> 00:37:24.760]   What's interesting about this
+[00:37:24.760 --> 00:37:26.760]   is as they were scheming,
+[00:37:26.760 --> 00:37:28.760]   you know that Jesus replied and said,
+[00:37:28.760 --> 00:37:30.760]   you know what, you guys aren't going to answer me,
+[00:37:30.760 --> 00:37:32.760]   I'm not going to answer you either, right?
+[00:37:32.760 --> 00:37:34.760]   This is not a real conversation
+[00:37:34.760 --> 00:37:36.760]   because the point is,
+[00:37:36.760 --> 00:37:38.760]   the point that they're making
+[00:37:38.760 --> 00:37:40.760]   is he has no spiritual authority,
+[00:37:40.760 --> 00:37:41.760]   he's not one of them.
+[00:37:41.760 --> 00:37:43.760]   So then,
+[00:37:43.760 --> 00:37:45.760]   from that confrontation,
+[00:37:45.760 --> 00:37:47.760]   he starts to teach
+[00:37:47.760 --> 00:37:49.760]   what he gets right up in their face
+[00:37:49.760 --> 00:37:51.760]   with several parables.
+[00:37:51.760 --> 00:37:53.760]   He uses several parables
+[00:37:53.760 --> 00:37:55.760]   to confront the religious leaders.
+[00:37:55.760 --> 00:37:57.760]   Thank you, that's the slide I wanted.
+[00:37:57.760 --> 00:37:59.760]   There's three parables he uses
+[00:37:59.760 --> 00:38:01.760]   and the first one I'm going to read in full.
+[00:38:01.760 --> 00:38:04.760]   Please take a look at Matthew 21 verse 28.
+[00:38:04.760 --> 00:38:06.760]   Verse 28.
+[00:38:06.760 --> 00:38:08.760]   And as you scan their eyes there,
+[00:38:09.760 --> 00:38:10.760]   look at the parable of the two sons
+[00:38:10.760 --> 00:38:13.760]   and think about how
+[00:38:13.760 --> 00:38:16.760]   poignant and confrontational the tone is.
+[00:38:16.760 --> 00:38:18.760]   But what do you think?
+[00:38:18.760 --> 00:38:20.760]   A man has two sons
+[00:38:20.760 --> 00:38:22.760]   and he came to the first and said,
+[00:38:22.760 --> 00:38:24.760]   "Son, go work today in the vineyard."
+[00:38:24.760 --> 00:38:26.760]   And he answered, "I will not."
+[00:38:26.760 --> 00:38:29.760]   But afterward, he regretted it and went.
+[00:38:29.760 --> 00:38:31.760]   The man came to the second
+[00:38:31.760 --> 00:38:33.760]   and said the same thing.
+[00:38:33.760 --> 00:38:35.760]   And he answered, "I will, sir."
+[00:38:35.760 --> 00:38:37.760]   But he did not go.
+[00:38:38.760 --> 00:38:39.760]   He went to the will of his father
+[00:38:39.760 --> 00:38:42.760]   and they said the first.
+[00:38:42.760 --> 00:38:44.760]   Jesus said to them,
+[00:38:44.760 --> 00:38:46.760]   "Truly I say to you that the tax collectors
+[00:38:46.760 --> 00:38:48.760]   and the prostitutes
+[00:38:48.760 --> 00:38:50.760]   will get into the kingdom of God
+[00:38:50.760 --> 00:38:52.760]   before the son?"
+[00:38:52.760 --> 00:38:54.760]   No, he said, "Before you."
+[00:38:54.760 --> 00:38:56.760]   For John came to you
+[00:38:56.760 --> 00:38:58.760]   in the way of righteousness
+[00:38:58.760 --> 00:39:00.760]   and you did not believe him.
+[00:39:00.760 --> 00:39:02.760]   But the tax collectors and the prostitutes
+[00:39:02.760 --> 00:39:04.760]   did believe him and you seeing this
+[00:39:04.760 --> 00:39:06.760]   did not even feel remorse afterward
+[00:39:07.760 --> 00:39:08.760]   as to believe him.
+[00:39:08.760 --> 00:39:10.760]   Wow!
+[00:39:10.760 --> 00:39:12.760]   Straight up saying,
+[00:39:12.760 --> 00:39:14.760]   you are brazen in your sin.
+[00:39:14.760 --> 00:39:16.760]   Even after knowing that
+[00:39:16.760 --> 00:39:18.760]   John the Baptist is of God,
+[00:39:18.760 --> 00:39:20.760]   that he's a prophet,
+[00:39:20.760 --> 00:39:22.760]   that he's a forerunner,
+[00:39:22.760 --> 00:39:24.760]   you didn't even remorse.
+[00:39:24.760 --> 00:39:26.760]   You didn't even turn red.
+[00:39:26.760 --> 00:39:28.760]   And so what Jesus is doing
+[00:39:28.760 --> 00:39:30.760]   is such a poignant confrontation
+[00:39:30.760 --> 00:39:32.760]   against the religious leaders.
+[00:39:32.760 --> 00:39:34.760]   In the next parable,
+[00:39:34.760 --> 00:39:36.760]   starting from verse 33,
+[00:39:36.760 --> 00:39:37.760]   Jesus tells the parable
+[00:39:37.760 --> 00:39:39.760]   of the landowner.
+[00:39:39.760 --> 00:39:41.760]   Maybe another way to put it is
+[00:39:41.760 --> 00:39:43.760]   Jesus tells the parable
+[00:39:43.760 --> 00:39:45.760]   of the vicious and wicked tenants.
+[00:39:45.760 --> 00:39:47.760]   The story goes that the landowner
+[00:39:47.760 --> 00:39:49.760]   rented his land
+[00:39:49.760 --> 00:39:51.760]   and upon sending his servants
+[00:39:51.760 --> 00:39:53.760]   to go and collect,
+[00:39:53.760 --> 00:39:55.760]   upon sending his servants
+[00:39:55.760 --> 00:39:57.760]   to go and scope out the land,
+[00:39:57.760 --> 00:39:59.760]   they mocked them,
+[00:39:59.760 --> 00:40:01.760]   they roughhoused them
+[00:40:01.760 --> 00:40:03.760]   and some of them they killed.
+[00:40:03.760 --> 00:40:05.760]   Now take a look over at verse 42.
+[00:40:05.760 --> 00:40:06.760]   Jesus says,
+[00:40:06.760 --> 00:40:08.760]   "The stone which the builders rejected,
+[00:40:08.760 --> 00:40:10.760]   "this became the chief cornerstone.
+[00:40:10.760 --> 00:40:12.760]   "This came about from the Lord
+[00:40:12.760 --> 00:40:14.760]   "and it is marvelous in our eyes.
+[00:40:14.760 --> 00:40:16.760]   "Therefore I say to you,
+[00:40:16.760 --> 00:40:18.760]   "the kingdom of God will be taken away from you
+[00:40:18.760 --> 00:40:20.760]   "and given to a people
+[00:40:20.760 --> 00:40:22.760]   "producing fruit of it.
+[00:40:22.760 --> 00:40:24.760]   "And he who falls on this stone
+[00:40:24.760 --> 00:40:26.760]   "will be broken to pieces.
+[00:40:26.760 --> 00:40:28.760]   "But on whomever it falls,
+[00:40:28.760 --> 00:40:30.760]   "it will scatter him like dust."
+[00:40:30.760 --> 00:40:32.760]   When the chief priests
+[00:40:32.760 --> 00:40:34.760]   and the Pharisees heard his parables,
+[00:40:34.760 --> 00:40:35.760]   they were speaking about them.
+[00:40:35.760 --> 00:40:37.760]   When they sought to seize him,
+[00:40:37.760 --> 00:40:39.760]   they feared the people
+[00:40:39.760 --> 00:40:41.760]   because they considered him
+[00:40:41.760 --> 00:40:43.760]   to be a prophet.
+[00:40:43.760 --> 00:40:45.760]   Take a moment right there
+[00:40:45.760 --> 00:40:47.760]   and see just the ridiculousness.
+[00:40:47.760 --> 00:40:49.760]   The religious leaders,
+[00:40:49.760 --> 00:40:51.760]   they know that they themselves
+[00:40:51.760 --> 00:40:53.760]   feel this man is a prophet.
+[00:40:53.760 --> 00:40:55.760]   What's more,
+[00:40:55.760 --> 00:40:57.760]   they know that the people,
+[00:40:57.760 --> 00:40:59.760]   the mass at large
+[00:40:59.760 --> 00:41:01.760]   know that this man is a prophet.
+[00:41:01.760 --> 00:41:03.760]   But their hearts are filled
+[00:41:03.760 --> 00:41:04.760]   with this man.
+[00:41:04.760 --> 00:41:06.760]   Take a moment now
+[00:41:06.760 --> 00:41:08.760]   to pause and say wow.
+[00:41:08.760 --> 00:41:10.760]   Just a sheer determination of Christ.
+[00:41:10.760 --> 00:41:12.760]   One of the things that
+[00:41:12.760 --> 00:41:14.760]   just boils our insides
+[00:41:14.760 --> 00:41:16.760]   is to see hypocrisy.
+[00:41:16.760 --> 00:41:18.760]   Arrogance.
+[00:41:18.760 --> 00:41:20.760]   People who are on the outside
+[00:41:20.760 --> 00:41:22.760]   have a veneer of righteousness
+[00:41:22.760 --> 00:41:24.760]   but inside they have wicked intention.
+[00:41:24.760 --> 00:41:26.760]   Jesus sees all of it.
+[00:41:26.760 --> 00:41:28.760]   Okay, the next parable.
+[00:41:28.760 --> 00:41:30.760]   The parable starts in chapter 22
+[00:41:31.760 --> 00:41:32.760]   and I'm just going to give you a summary of it.
+[00:41:32.760 --> 00:41:34.760]   You guys know the parable goes
+[00:41:34.760 --> 00:41:36.760]   God prepares a feast.
+[00:41:36.760 --> 00:41:39.760]   The master prepares the wedding banquet
+[00:41:39.760 --> 00:41:41.760]   and then he sends his servants to call
+[00:41:41.760 --> 00:41:43.760]   but they are unwilling.
+[00:41:43.760 --> 00:41:45.760]   They pay no attention
+[00:41:45.760 --> 00:41:47.760]   and then ultimately they rough house
+[00:41:47.760 --> 00:41:49.760]   and kill those servants too.
+[00:41:49.760 --> 00:41:51.760]   And therefore Jesus ends that parable
+[00:41:51.760 --> 00:41:53.760]   with many are called
+[00:41:53.760 --> 00:41:55.760]   but few are chosen.
+[00:41:55.760 --> 00:41:57.760]   And all of this he was saying
+[00:41:57.760 --> 00:41:59.760]   because he was pointing the finger at them
+[00:42:00.760 --> 00:42:01.760]   Take a moment
+[00:42:01.760 --> 00:42:03.760]   to think if you were one of the disciples.
+[00:42:03.760 --> 00:42:05.760]   Right?
+[00:42:05.760 --> 00:42:07.760]   You're hearing this
+[00:42:07.760 --> 00:42:09.760]   and you're probably feeling all weird
+[00:42:09.760 --> 00:42:11.760]   like oh my gosh he said what
+[00:42:11.760 --> 00:42:13.760]   to the leaders.
+[00:42:13.760 --> 00:42:15.760]   Doesn't he know they can throw us out?
+[00:42:15.760 --> 00:42:17.760]   Doesn't he know they can kill us?
+[00:42:17.760 --> 00:42:19.760]   Maybe one of them tugged on his sleeve
+[00:42:19.760 --> 00:42:21.760]   like too much, too much, right?
+[00:42:21.760 --> 00:42:23.760]   But what Jesus is doing
+[00:42:23.760 --> 00:42:25.760]   is he is calling out
+[00:42:25.760 --> 00:42:28.760]   all of the emptiness of faith.
+[00:42:29.760 --> 00:42:30.760]   We began talking about
+[00:42:30.760 --> 00:42:32.760]   the tree that bore no fruit of faith
+[00:42:32.760 --> 00:42:34.760]   and here Jesus is just revealing
+[00:42:34.760 --> 00:42:37.760]   look how empty it truly is.
+[00:42:37.760 --> 00:42:40.760]   Now I think about this a little bit
+[00:42:40.760 --> 00:42:42.760]   and I take a moment to
+[00:42:42.760 --> 00:42:44.760]   again just appreciate Jesus'
+[00:42:44.760 --> 00:42:46.760]   sheer determination.
+[00:42:46.760 --> 00:42:48.760]   Now again I know that
+[00:42:48.760 --> 00:42:50.760]   or I know that Jesus
+[00:42:50.760 --> 00:42:52.760]   he has the mind of the Lord
+[00:42:52.760 --> 00:42:54.760]   he has the words of God
+[00:42:54.760 --> 00:42:56.760]   he has the spirit, all of that.
+[00:42:56.760 --> 00:42:58.760]   But as I was studying
+[00:42:58.760 --> 00:42:59.760]   I remember thinking man
+[00:42:59.760 --> 00:43:01.760]   Jesus is 33, right?
+[00:43:01.760 --> 00:43:04.760]   He is looked upon from the elders
+[00:43:04.760 --> 00:43:06.760]   as just a young man.
+[00:43:06.760 --> 00:43:08.760]   I'm only 41.
+[00:43:08.760 --> 00:43:11.760]   I look at 30 year olds as young men, right?
+[00:43:11.760 --> 00:43:13.760]   Here he is standing up
+[00:43:13.760 --> 00:43:15.760]   to the chief priest
+[00:43:15.760 --> 00:43:17.760]   the scribes, the Pharisees, and more
+[00:43:17.760 --> 00:43:20.760]   saying you, this is you, right?
+[00:43:20.760 --> 00:43:23.760]   And so we appreciate his determination.
+[00:43:23.760 --> 00:43:25.760]   Now there is another layer
+[00:43:25.760 --> 00:43:27.760]   just adding it on
+[00:43:27.760 --> 00:43:28.760]   there is another layer of the confrontation
+[00:43:28.760 --> 00:43:30.760]   between him and the leaders.
+[00:43:30.760 --> 00:43:32.760]   The leaders turn their strategy
+[00:43:32.760 --> 00:43:34.760]   and now they have poignant tests
+[00:43:34.760 --> 00:43:36.760]   and examinations of this prophet.
+[00:43:36.760 --> 00:43:38.760]   First come the Pharisees.
+[00:43:38.760 --> 00:43:40.760]   As you know there is actually
+[00:43:40.760 --> 00:43:42.760]   a lot of different sects of leaders
+[00:43:42.760 --> 00:43:44.760]   within the Jewish tradition.
+[00:43:44.760 --> 00:43:46.760]   You have the Pharisees who can be seen as
+[00:43:46.760 --> 00:43:48.760]   the most, most religious.
+[00:43:48.760 --> 00:43:50.760]   And then you can almost think
+[00:43:50.760 --> 00:43:52.760]   there are liberals who are religious
+[00:43:52.760 --> 00:43:54.760]   but they kind of compromise
+[00:43:54.760 --> 00:43:56.760]   with civilian politics
+[00:43:56.760 --> 00:43:57.760]   they are more aristocratic
+[00:43:57.760 --> 00:43:59.760]   they are just wealthy, ruling class
+[00:43:59.760 --> 00:44:01.760]   and that's the Sadducees.
+[00:44:01.760 --> 00:44:03.760]   They threw out a bunch of their tradition
+[00:44:03.760 --> 00:44:05.760]   they threw out a bunch of their religious belief
+[00:44:05.760 --> 00:44:07.760]   they didn't believe in the resurrection
+[00:44:07.760 --> 00:44:09.760]   they didn't believe in the heavenlies
+[00:44:09.760 --> 00:44:11.760]   but both of them essentially take turns
+[00:44:11.760 --> 00:44:13.760]   challenging Christ.
+[00:44:13.760 --> 00:44:15.760]   First comes the challenge of the Pharisees.
+[00:44:15.760 --> 00:44:17.760]   In their rage, in their desire
+[00:44:17.760 --> 00:44:19.760]   to just trap him
+[00:44:19.760 --> 00:44:21.760]   they have this test.
+[00:44:21.760 --> 00:44:23.760]   Starting from chapter 2
+[00:44:23.760 --> 00:44:25.760]   sorry, 22 verse 15.
+[00:44:25.760 --> 00:44:26.760]   Chapter 22 verse 15.
+[00:44:26.760 --> 00:44:28.760]   It says in verse 15
+[00:44:28.760 --> 00:44:30.760]   "Then the Pharisees went and plotted together
+[00:44:30.760 --> 00:44:32.760]   how they might trap him
+[00:44:32.760 --> 00:44:34.760]   and what he said."
+[00:44:34.760 --> 00:44:36.760]   Scan your eyes to verse 17
+[00:44:36.760 --> 00:44:38.760]   "Tell us then, what do you think?
+[00:44:38.760 --> 00:44:40.760]   Is it lawful to give a poll tax
+[00:44:40.760 --> 00:44:42.760]   to Caesar or not?"
+[00:44:42.760 --> 00:44:45.760]   But Jesus perceived their malice
+[00:44:45.760 --> 00:44:47.760]   and said, "Why are you testing me
+[00:44:47.760 --> 00:44:49.760]   you hypocrites?"
+[00:44:49.760 --> 00:44:51.760]   These guys were playing the sides
+[00:44:51.760 --> 00:44:53.760]   the sides of the masses.
+[00:44:54.760 --> 00:44:55.760]   They knew what the people would say
+[00:44:55.760 --> 00:44:57.760]   right?
+[00:44:57.760 --> 00:44:59.760]   But then they also knew
+[00:44:59.760 --> 00:45:01.760]   what the religious people would say.
+[00:45:01.760 --> 00:45:03.760]   But Jesus gives such a poignant response.
+[00:45:03.760 --> 00:45:05.760]   Then the next group, the Sadducees come
+[00:45:05.760 --> 00:45:07.760]   starting from verse 23
+[00:45:07.760 --> 00:45:09.760]   and they ask a sequence of two questions.
+[00:45:09.760 --> 00:45:11.760]   The first, they've got this long story.
+[00:45:11.760 --> 00:45:13.760]   They ask
+[00:45:13.760 --> 00:45:15.760]   in verse 23
+[00:45:15.760 --> 00:45:17.760]   "On the day, some Sadducees
+[00:45:17.760 --> 00:45:19.760]   who say there is no resurrection
+[00:45:19.760 --> 00:45:21.760]   came to Jesus and questioned him
+[00:45:21.760 --> 00:45:23.760]   asking
+[00:45:23.760 --> 00:45:24.760]   "Teacher,
+[00:45:24.760 --> 00:45:26.760]   Moses said if a man dies
+[00:45:26.760 --> 00:45:28.760]   having no children
+[00:45:28.760 --> 00:45:30.760]   his brother as next of kin
+[00:45:30.760 --> 00:45:32.760]   shall marry his wife
+[00:45:32.760 --> 00:45:34.760]   and raise up children for his brothers."
+[00:45:34.760 --> 00:45:36.760]   And then the whole scenario
+[00:45:36.760 --> 00:45:38.760]   hypothetical scenario goes
+[00:45:38.760 --> 00:45:40.760]   "What happens if that brother dies
+[00:45:40.760 --> 00:45:42.760]   and that brother dies
+[00:45:42.760 --> 00:45:44.760]   and there's seven brothers?
+[00:45:44.760 --> 00:45:46.760]   Whose wife is she?"
+[00:45:46.760 --> 00:45:48.760]   And Jesus is looking at them
+[00:45:48.760 --> 00:45:50.760]   as you don't even believe in the resurrection.
+[00:45:50.760 --> 00:45:52.760]   You don't even know the scriptures.
+[00:45:52.760 --> 00:45:53.760]   You don't even know the commandment.
+[00:45:53.760 --> 00:45:55.760]   You guys know that well
+[00:45:55.760 --> 00:45:57.760]   that on verse 35
+[00:45:57.760 --> 00:45:59.760]   one of them, a lawyer
+[00:45:59.760 --> 00:46:01.760]   asked him a question testing him
+[00:46:01.760 --> 00:46:03.760]   "Teacher, what is the greatest commandment in the law?"
+[00:46:03.760 --> 00:46:05.760]   Right?
+[00:46:05.760 --> 00:46:07.760]   And then he in such succinct
+[00:46:07.760 --> 00:46:09.760]   and powerful
+[00:46:09.760 --> 00:46:11.760]   and authoritative way
+[00:46:11.760 --> 00:46:13.760]   gave answers to all of their questions.
+[00:46:13.760 --> 00:46:15.760]   And then in verse 46
+[00:46:15.760 --> 00:46:17.760]   it says "No one was able to answer him a word
+[00:46:17.760 --> 00:46:19.760]   nor did anyone dare
+[00:46:19.760 --> 00:46:21.760]   from that day on
+[00:46:21.760 --> 00:46:22.760]   to answer him."
+[00:46:22.760 --> 00:46:24.760]   I think about what Jesus is doing
+[00:46:24.760 --> 00:46:26.760]   and again I want to highlight
+[00:46:26.760 --> 00:46:28.760]   he is in the face
+[00:46:28.760 --> 00:46:30.760]   of great great depravity
+[00:46:30.760 --> 00:46:32.760]   and an absence of faith
+[00:46:32.760 --> 00:46:34.760]   amongst people
+[00:46:34.760 --> 00:46:36.760]   who claim the name of Yahweh.
+[00:46:36.760 --> 00:46:38.760]   There is great disappointment
+[00:46:38.760 --> 00:46:40.760]   in his heart
+[00:46:40.760 --> 00:46:42.760]   but he's still determined to teach.
+[00:46:42.760 --> 00:46:44.760]   There is incredible
+[00:46:44.760 --> 00:46:46.760]   animosity that he's receiving
+[00:46:46.760 --> 00:46:48.760]   confrontation
+[00:46:48.760 --> 00:46:50.760]   jealousy
+[00:46:50.760 --> 00:46:51.760]   hypocrisy
+[00:46:51.760 --> 00:46:53.760]   and then yet he's so determined
+[00:46:53.760 --> 00:46:55.760]   to keep on going.
+[00:46:55.760 --> 00:46:57.760]   One of the thoughts that came to my mind
+[00:46:57.760 --> 00:46:59.760]   and it was
+[00:46:59.760 --> 00:47:01.760]   you know that kind of
+[00:47:01.760 --> 00:47:03.760]   just pensive question
+[00:47:03.760 --> 00:47:05.760]   if I were Jesus
+[00:47:05.760 --> 00:47:07.760]   if I walked into Jerusalem
+[00:47:07.760 --> 00:47:09.760]   where the temple is there
+[00:47:09.760 --> 00:47:11.760]   the people are gathered
+[00:47:11.760 --> 00:47:13.760]   there's hordes and hordes
+[00:47:13.760 --> 00:47:15.760]   and masses of people
+[00:47:15.760 --> 00:47:17.760]   giving sacrifice
+[00:47:17.760 --> 00:47:18.760]   and yet all of this is fake
+[00:47:19.760 --> 00:47:20.760]   right?
+[00:47:20.760 --> 00:47:22.760]   Forget this.
+[00:47:22.760 --> 00:47:24.760]   I don't have to answer to you
+[00:47:24.760 --> 00:47:26.760]   but our Lord is determined
+[00:47:26.760 --> 00:47:28.760]   and he continues to go.
+[00:47:28.760 --> 00:47:30.760]   Near the end of the day
+[00:47:30.760 --> 00:47:32.760]   I'm going to move now to
+[00:47:32.760 --> 00:47:34.760]   the last element of the day
+[00:47:34.760 --> 00:47:36.760]   after all of his teaching
+[00:47:36.760 --> 00:47:38.760]   after all of the discourse
+[00:47:38.760 --> 00:47:40.760]   he's walking out with the disciples
+[00:47:40.760 --> 00:47:42.760]   and if you turn to a passage
+[00:47:42.760 --> 00:47:44.760]   oh gosh
+[00:47:44.760 --> 00:47:46.760]   my numbering is off
+[00:47:46.760 --> 00:47:48.760]   and the last one
+[00:47:48.760 --> 00:47:49.760]   the second number three
+[00:47:49.760 --> 00:47:51.760]   Matthew 23
+[00:47:51.760 --> 00:47:53.760]   if I almost skipped it
+[00:47:53.760 --> 00:47:55.760]   but Matthew 23
+[00:47:55.760 --> 00:47:57.760]   is such a
+[00:47:57.760 --> 00:47:59.760]   incredibly
+[00:47:59.760 --> 00:48:00.760]   both scary
+[00:48:00.760 --> 00:48:02.760]   both intense
+[00:48:02.760 --> 00:48:03.760]   rebuke of the religious leaders
+[00:48:03.760 --> 00:48:05.760]   and that is when he declares
+[00:48:05.760 --> 00:48:06.760]   a woes on them
+[00:48:06.760 --> 00:48:08.760]   for what they do
+[00:48:08.760 --> 00:48:09.760]   for all the hypocrisy
+[00:48:09.760 --> 00:48:11.760]   now I do want to move
+[00:48:11.760 --> 00:48:13.760]   into the last element
+[00:48:13.760 --> 00:48:14.760]   the Olivet Discourse
+[00:48:14.760 --> 00:48:16.760]   so here next slide
+[00:48:17.760 --> 00:48:18.760]   Olivet Discourse
+[00:48:18.760 --> 00:48:19.760]   and one more
+[00:48:19.760 --> 00:48:21.760]   I wanted you to show
+[00:48:21.760 --> 00:48:22.760]   that
+[00:48:22.760 --> 00:48:24.760]   that little quick picture
+[00:48:24.760 --> 00:48:26.760]   if you guys can do a quick
+[00:48:26.760 --> 00:48:29.760]   if you notice this
+[00:48:29.760 --> 00:48:31.760]   there was high pillars
+[00:48:31.760 --> 00:48:32.760]   in the temple
+[00:48:32.760 --> 00:48:33.760]   and it would be filled
+[00:48:33.760 --> 00:48:34.760]   with people
+[00:48:34.760 --> 00:48:35.760]   and as they're walking
+[00:48:35.760 --> 00:48:36.760]   my imagination is
+[00:48:36.760 --> 00:48:37.760]   people would want
+[00:48:37.760 --> 00:48:38.760]   a piece of Jesus
+[00:48:38.760 --> 00:48:40.760]   even prior to coming
+[00:48:40.760 --> 00:48:41.760]   to this event
+[00:48:41.760 --> 00:48:42.760]   if you remember
+[00:48:42.760 --> 00:48:43.760]   it was hard for him
+[00:48:43.760 --> 00:48:44.760]   to move around
+[00:48:44.760 --> 00:48:45.760]   but as they're leaving
+[00:48:46.760 --> 00:48:47.760]   go to the next slide please
+[00:48:47.760 --> 00:48:51.760]   and one more
+[00:48:51.760 --> 00:48:52.760]   if you take a look at
+[00:48:52.760 --> 00:48:53.760]   Mark chapter 13
+[00:48:53.760 --> 00:48:54.760]   verses 1 through 6
+[00:48:54.760 --> 00:48:56.760]   Mark chapter 13
+[00:48:56.760 --> 00:48:57.760]   1 through 6
+[00:48:57.760 --> 00:49:00.760]   the disciples were there
+[00:49:00.760 --> 00:49:01.760]   hearing the confrontation
+[00:49:01.760 --> 00:49:03.760]   hearing all of the
+[00:49:03.760 --> 00:49:04.760]   back and forth
+[00:49:04.760 --> 00:49:05.760]   between the religious leaders
+[00:49:05.760 --> 00:49:06.760]   and Jesus
+[00:49:06.760 --> 00:49:08.760]   and yet I think
+[00:49:08.760 --> 00:49:09.760]   in some ways
+[00:49:09.760 --> 00:49:10.760]   they were still
+[00:49:10.760 --> 00:49:11.760]   distracted by
+[00:49:11.760 --> 00:49:12.760]   the masses
+[00:49:12.760 --> 00:49:14.760]   by the people
+[00:49:14.760 --> 00:49:15.760]   the crowds
+[00:49:15.760 --> 00:49:16.760]   and also
+[00:49:16.760 --> 00:49:17.760]   the glory
+[00:49:17.760 --> 00:49:18.760]   of the physical Jerusalem
+[00:49:18.760 --> 00:49:21.760]   in 13 verse 1
+[00:49:21.760 --> 00:49:23.760]   Mark 13 1
+[00:49:23.760 --> 00:49:24.760]   it says
+[00:49:24.760 --> 00:49:25.760]   as he was going out
+[00:49:25.760 --> 00:49:26.760]   of the temple
+[00:49:26.760 --> 00:49:27.760]   one of the disciples
+[00:49:27.760 --> 00:49:28.760]   said to him
+[00:49:28.760 --> 00:49:29.760]   teacher
+[00:49:29.760 --> 00:49:30.760]   behold
+[00:49:30.760 --> 00:49:31.760]   what wonderful
+[00:49:31.760 --> 00:49:32.760]   stones
+[00:49:32.760 --> 00:49:33.760]   and what wonderful
+[00:49:33.760 --> 00:49:34.760]   buildings
+[00:49:34.760 --> 00:49:35.760]   okay
+[00:49:35.760 --> 00:49:36.760]   so
+[00:49:36.760 --> 00:49:37.760]   you kind of get my drift
+[00:49:37.760 --> 00:49:38.760]   like
+[00:49:38.760 --> 00:49:39.760]   they were in there
+[00:49:39.760 --> 00:49:40.760]   seeing what
+[00:49:40.760 --> 00:49:41.760]   all Jesus was doing
+[00:49:41.760 --> 00:49:42.760]   rebuking
+[00:49:42.760 --> 00:49:43.760]   the entire institution
+[00:49:43.760 --> 00:49:44.760]   rebuking
+[00:49:44.760 --> 00:49:45.760]   the familiar practice
+[00:49:45.760 --> 00:49:46.760]   coming in
+[00:49:46.760 --> 00:49:47.760]   just having
+[00:49:47.760 --> 00:49:48.760]   a bazaar
+[00:49:48.760 --> 00:49:49.760]   of people trading goods
+[00:49:49.760 --> 00:49:50.760]   giving sacrifice
+[00:49:50.760 --> 00:49:51.760]   and leaving
+[00:49:51.760 --> 00:49:53.760]   and then the disciples
+[00:49:53.760 --> 00:49:54.760]   as they're leaving
+[00:49:54.760 --> 00:49:55.760]   they're just
+[00:49:55.760 --> 00:49:56.760]   enamored by all of it
+[00:49:56.760 --> 00:49:57.760]   look at this place
+[00:49:57.760 --> 00:49:59.760]   it's beautiful
+[00:49:59.760 --> 00:50:01.760]   what is Jesus' response
+[00:50:01.760 --> 00:50:03.760]   verse 2
+[00:50:03.760 --> 00:50:04.760]   Jesus' response
+[00:50:04.760 --> 00:50:05.760]   he said to them
+[00:50:05.760 --> 00:50:06.760]   do you see
+[00:50:06.760 --> 00:50:07.760]   these great buildings
+[00:50:07.760 --> 00:50:09.760]   not one stone
+[00:50:09.760 --> 00:50:10.760]   will be left
+[00:50:10.760 --> 00:50:11.760]   upon another
+[00:50:11.760 --> 00:50:12.760]   which will not be
+[00:50:12.760 --> 00:50:13.760]   torn down
+[00:50:13.760 --> 00:50:14.760]   as he was sitting
+[00:50:14.760 --> 00:50:15.760]   on the Mount of Olives
+[00:50:15.760 --> 00:50:16.760]   opposite the temple
+[00:50:16.760 --> 00:50:17.760]   Peter
+[00:50:17.760 --> 00:50:18.760]   and James
+[00:50:18.760 --> 00:50:19.760]   and John
+[00:50:19.760 --> 00:50:20.760]   and Andrew
+[00:50:20.760 --> 00:50:21.760]   were questioning him privately
+[00:50:21.760 --> 00:50:22.760]   please tell us
+[00:50:22.760 --> 00:50:23.760]   when will these things be
+[00:50:23.760 --> 00:50:24.760]   and what will be the sign
+[00:50:24.760 --> 00:50:25.760]   when all these things
+[00:50:25.760 --> 00:50:26.760]   are going to be fulfilled
+[00:50:26.760 --> 00:50:28.760]   and Jesus began
+[00:50:28.760 --> 00:50:29.760]   to say to them
+[00:50:29.760 --> 00:50:30.760]   see to it
+[00:50:30.760 --> 00:50:31.760]   that no one
+[00:50:31.760 --> 00:50:32.760]   misleads you
+[00:50:32.760 --> 00:50:33.760]   many will come
+[00:50:33.760 --> 00:50:34.760]   in my name
+[00:50:34.760 --> 00:50:35.760]   saying
+[00:50:35.760 --> 00:50:36.760]   I
+[00:50:36.760 --> 00:50:37.760]   am
+[00:50:37.760 --> 00:50:38.760]   he
+[00:50:38.760 --> 00:50:39.760]   and will mislead
+[00:50:39.760 --> 00:50:40.760]   many
+[00:50:40.760 --> 00:50:42.760]   think about that
+[00:50:43.760 --> 00:50:44.760]   I mean
+[00:50:44.760 --> 00:50:45.760]   my guess is
+[00:50:45.760 --> 00:50:46.760]   again the disciples
+[00:50:46.760 --> 00:50:47.760]   had anticipation
+[00:50:47.760 --> 00:50:48.760]   we know
+[00:50:48.760 --> 00:50:49.760]   there's glory to come
+[00:50:49.760 --> 00:50:51.760]   we know there's
+[00:50:51.760 --> 00:50:52.760]   victory
+[00:50:52.760 --> 00:50:53.760]   in the Messiah
+[00:50:53.760 --> 00:50:54.760]   when is it going to happen
+[00:50:54.760 --> 00:50:55.760]   even though
+[00:50:55.760 --> 00:50:56.760]   he's literally saying
+[00:50:56.760 --> 00:50:57.760]   the stones
+[00:50:57.760 --> 00:50:58.760]   will be unturned
+[00:50:58.760 --> 00:50:59.760]   and then
+[00:50:59.760 --> 00:51:00.760]   Jesus' next words
+[00:51:00.760 --> 00:51:01.760]   are so many
+[00:51:01.760 --> 00:51:02.760]   are going to fall away
+[00:51:02.760 --> 00:51:04.760]   turn your Bibles over
+[00:51:04.760 --> 00:51:05.760]   to Matthew 24
+[00:51:05.760 --> 00:51:07.760]   so
+[00:51:07.760 --> 00:51:08.760]   that
+[00:51:08.760 --> 00:51:09.760]   section
+[00:51:09.760 --> 00:51:10.760]   you know
+[00:51:10.760 --> 00:51:11.760]   in Matthew
+[00:51:11.760 --> 00:51:12.760]   the discourse
+[00:51:12.760 --> 00:51:13.760]   is quite long
+[00:51:13.760 --> 00:51:14.760]   but I want to read to us
+[00:51:14.760 --> 00:51:15.760]   a portion of it
+[00:51:15.760 --> 00:51:16.760]   in Matthew 24
+[00:51:16.760 --> 00:51:17.760]   starting from
+[00:51:17.760 --> 00:51:18.760]   verse 6 through 14
+[00:51:18.760 --> 00:51:21.760]   and it says
+[00:51:21.760 --> 00:51:22.760]   you will be hearing
+[00:51:22.760 --> 00:51:23.760]   of wars
+[00:51:23.760 --> 00:51:24.760]   and rumors of wars
+[00:51:24.760 --> 00:51:26.760]   see that you are not
+[00:51:26.760 --> 00:51:27.760]   frightened
+[00:51:27.760 --> 00:51:28.760]   for those things
+[00:51:28.760 --> 00:51:29.760]   must take place
+[00:51:29.760 --> 00:51:30.760]   but that is
+[00:51:30.760 --> 00:51:31.760]   not yet the end
+[00:51:31.760 --> 00:51:32.760]   for nation
+[00:51:32.760 --> 00:51:33.760]   will rise against nation
+[00:51:33.760 --> 00:51:34.760]   and kingdom
+[00:51:34.760 --> 00:51:35.760]   against kingdom
+[00:51:35.760 --> 00:51:36.760]   and in various places
+[00:51:36.760 --> 00:51:37.760]   there will be famines
+[00:51:37.760 --> 00:51:38.760]   and earthquakes
+[00:51:38.760 --> 00:51:39.760]   but all these things
+[00:51:39.760 --> 00:51:40.760]   are merely
+[00:51:40.760 --> 00:51:41.760]   warnings of birth pains
+[00:51:41.760 --> 00:51:43.760]   then they will deliver you
+[00:51:43.760 --> 00:51:44.760]   to tribulation
+[00:51:44.760 --> 00:51:45.760]   and will kill you
+[00:51:45.760 --> 00:51:46.760]   and you will be hated
+[00:51:46.760 --> 00:51:47.760]   by all the nations
+[00:51:47.760 --> 00:51:48.760]   because of my name
+[00:51:48.760 --> 00:51:50.760]   at that time
+[00:51:50.760 --> 00:51:51.760]   many will fall away
+[00:51:51.760 --> 00:51:52.760]   and will betray one another
+[00:51:52.760 --> 00:51:53.760]   and hate one another
+[00:51:53.760 --> 00:51:54.760]   many false prophets
+[00:51:54.760 --> 00:51:55.760]   will arise
+[00:51:55.760 --> 00:51:56.760]   and will mislead many
+[00:51:56.760 --> 00:51:58.760]   because lawlessness
+[00:51:58.760 --> 00:51:59.760]   has increased
+[00:51:59.760 --> 00:52:00.760]   most people's love
+[00:52:00.760 --> 00:52:01.760]   will go cold
+[00:52:01.760 --> 00:52:03.760]   but the one who endures
+[00:52:03.760 --> 00:52:04.760]   to the end
+[00:52:04.760 --> 00:52:05.760]   will be saved
+[00:52:05.760 --> 00:52:07.760]   this gospel of the kingdom
+[00:52:07.760 --> 00:52:08.760]   shall be preached
+[00:52:08.760 --> 00:52:09.760]   in the whole world
+[00:52:09.760 --> 00:52:10.760]   as a testimony
+[00:52:10.760 --> 00:52:11.760]   to all the nations
+[00:52:11.760 --> 00:52:13.760]   and then the end
+[00:52:13.760 --> 00:52:14.760]   will come
+[00:52:14.760 --> 00:52:16.760]   I want you guys
+[00:52:16.760 --> 00:52:17.760]   to think about the fact
+[00:52:17.760 --> 00:52:18.760]   that this is
+[00:52:18.760 --> 00:52:20.760]   such a pivotal
+[00:52:20.760 --> 00:52:21.760]   massive sermon
+[00:52:21.760 --> 00:52:22.760]   out of love
+[00:52:22.760 --> 00:52:23.760]   for his disciples
+[00:52:23.760 --> 00:52:24.760]   and out of love
+[00:52:24.760 --> 00:52:25.760]   for the disciples
+[00:52:25.760 --> 00:52:26.760]   who would come after them
+[00:52:26.760 --> 00:52:28.760]   to prepare the way
+[00:52:28.760 --> 00:52:30.760]   what is life
+[00:52:30.760 --> 00:52:31.760]   going to be like
+[00:52:31.760 --> 00:52:32.760]   for us in our generation
+[00:52:32.760 --> 00:52:36.760]   these words
+[00:52:36.760 --> 00:52:37.760]   to some of us
+[00:52:37.760 --> 00:52:38.760]   obviously seem
+[00:52:38.760 --> 00:52:39.760]   too intense
+[00:52:39.760 --> 00:52:41.760]   too far fetched
+[00:52:41.760 --> 00:52:44.760]   but let it be a reminder
+[00:52:44.760 --> 00:52:45.760]   that this is actually
+[00:52:45.760 --> 00:52:46.760]   the generation
+[00:52:46.760 --> 00:52:47.760]   we are in
+[00:52:47.760 --> 00:52:49.760]   and on the next slide
+[00:52:49.760 --> 00:52:50.760]   I want to summarize
+[00:52:50.760 --> 00:52:51.760]   some of the themes
+[00:52:51.760 --> 00:52:52.760]   for us
+[00:52:52.760 --> 00:52:53.760]   when we have
+[00:52:53.760 --> 00:52:54.760]   expectation
+[00:52:54.760 --> 00:52:56.760]   how is life
+[00:52:56.760 --> 00:52:57.760]   going to be like
+[00:52:57.760 --> 00:52:58.760]   moving forward
+[00:52:58.760 --> 00:52:59.760]   what is the next
+[00:52:59.760 --> 00:53:00.760]   20 years
+[00:53:00.760 --> 00:53:01.760]   30 years
+[00:53:01.760 --> 00:53:02.760]   40 years
+[00:53:02.760 --> 00:53:03.760]   what is the generation
+[00:53:03.760 --> 00:53:04.760]   going to look like
+[00:53:04.760 --> 00:53:05.760]   for our children
+[00:53:05.760 --> 00:53:06.760]   yes it is a blessing
+[00:53:06.760 --> 00:53:07.760]   to be able to live
+[00:53:07.760 --> 00:53:08.760]   in peace
+[00:53:08.760 --> 00:53:09.760]   prosperity
+[00:53:09.760 --> 00:53:11.760]   to not be at
+[00:53:11.760 --> 00:53:12.760]   animosity
+[00:53:12.760 --> 00:53:13.760]   or enmity
+[00:53:13.760 --> 00:53:14.760]   with the nations around you
+[00:53:14.760 --> 00:53:15.760]   when there is no wars
+[00:53:15.760 --> 00:53:16.760]   etc
+[00:53:16.760 --> 00:53:17.760]   but is that
+[00:53:17.760 --> 00:53:18.760]   what Christ
+[00:53:18.760 --> 00:53:19.760]   told us would come
+[00:53:19.760 --> 00:53:21.760]   no Christ said
+[00:53:21.760 --> 00:53:23.760]   I want you to be ready
+[00:53:23.760 --> 00:53:25.760]   I am going to empower you
+[00:53:25.760 --> 00:53:26.760]   with the spirit
+[00:53:26.760 --> 00:53:27.760]   and I want you to be ready
+[00:53:27.760 --> 00:53:29.760]   anticipate the fatigue
+[00:53:29.760 --> 00:53:30.760]   and the tiredness
+[00:53:30.760 --> 00:53:32.760]   anticipate the fruitlessness
+[00:53:32.760 --> 00:53:34.760]   anticipate many people
+[00:53:34.760 --> 00:53:35.760]   falling away
+[00:53:35.760 --> 00:53:36.760]   anticipate people's
+[00:53:36.760 --> 00:53:37.760]   love growing cold
+[00:53:37.760 --> 00:53:38.760]   anticipate lawlessness
+[00:53:38.760 --> 00:53:39.760]   to go up
+[00:53:39.760 --> 00:53:40.760]   and yes
+[00:53:40.760 --> 00:53:41.760]   even painful persecution
+[00:53:41.760 --> 00:53:42.760]   for you
+[00:53:42.760 --> 00:53:44.760]   but the question is
+[00:53:44.760 --> 00:53:46.760]   are we so surprised
+[00:53:46.760 --> 00:53:47.760]   by any failure
+[00:53:47.760 --> 00:53:49.760]   so shocked
+[00:53:49.760 --> 00:53:50.760]   by disappointment
+[00:53:50.760 --> 00:53:51.760]   so shocked
+[00:53:51.760 --> 00:53:52.760]   that we are not being
+[00:53:52.760 --> 00:53:53.760]   as fruitful as we ought to be
+[00:53:53.760 --> 00:53:55.760]   I mean
+[00:53:55.760 --> 00:53:56.760]   when we go out
+[00:53:56.760 --> 00:53:57.760]   and evangelize
+[00:53:57.760 --> 00:53:58.760]   to the world
+[00:53:58.760 --> 00:53:59.760]   to marketers
+[00:53:59.760 --> 00:54:00.760]   to business people
+[00:54:00.760 --> 00:54:01.760]   we look like
+[00:54:01.760 --> 00:54:02.760]   another failure right
+[00:54:02.760 --> 00:54:04.760]   because Christ has said
+[00:54:05.760 --> 00:54:06.760]   we are going to glorify God
+[00:54:06.760 --> 00:54:07.760]   by going and preaching
+[00:54:07.760 --> 00:54:08.760]   his name
+[00:54:08.760 --> 00:54:09.760]   but we know
+[00:54:09.760 --> 00:54:11.760]   that underneath the power of God
+[00:54:11.760 --> 00:54:12.760]   the kingdom will endure
+[00:54:12.760 --> 00:54:14.760]   amen
+[00:54:14.760 --> 00:54:15.760]   and though it be a remnant
+[00:54:15.760 --> 00:54:17.760]   though it be a small people
+[00:54:17.760 --> 00:54:19.760]   God said
+[00:54:19.760 --> 00:54:20.760]   he is going to cause
+[00:54:20.760 --> 00:54:21.760]   his gospel to go forth
+[00:54:21.760 --> 00:54:23.760]   and part of that will be
+[00:54:23.760 --> 00:54:24.760]   a judgment against them
+[00:54:24.760 --> 00:54:26.760]   and so by way of conclusion
+[00:54:26.760 --> 00:54:28.760]   we think about this day
+[00:54:28.760 --> 00:54:29.760]   Tuesday
+[00:54:29.760 --> 00:54:31.760]   and in some sense
+[00:54:31.760 --> 00:54:32.760]   there is a lot
+[00:54:32.760 --> 00:54:33.760]   of communication
+[00:54:33.760 --> 00:54:34.760]   dialogue
+[00:54:34.760 --> 00:54:35.760]   preaching
+[00:54:35.760 --> 00:54:36.760]   parables
+[00:54:36.760 --> 00:54:37.760]   and then a special sermon
+[00:54:37.760 --> 00:54:38.760]   to his own disciples
+[00:54:38.760 --> 00:54:39.760]   on the Mount of Olives
+[00:54:39.760 --> 00:54:41.760]   but all this day
+[00:54:41.760 --> 00:54:42.760]   has such
+[00:54:42.760 --> 00:54:44.760]   a tone
+[00:54:44.760 --> 00:54:45.760]   of where Christ
+[00:54:45.760 --> 00:54:46.760]   is at conflict
+[00:54:46.760 --> 00:54:47.760]   with the world
+[00:54:47.760 --> 00:54:49.760]   Christ is at conflict
+[00:54:49.760 --> 00:54:50.760]   with the religious system
+[00:54:50.760 --> 00:54:51.760]   Christ is at conflict
+[00:54:51.760 --> 00:54:52.760]   with the
+[00:54:52.760 --> 00:54:53.760]   hypocritical leaders
+[00:54:53.760 --> 00:54:54.760]   of the day
+[00:54:54.760 --> 00:54:56.760]   and then Christ says
+[00:54:56.760 --> 00:54:57.760]   I want you to know
+[00:54:57.760 --> 00:54:59.760]   then what's coming for you
+[00:54:59.760 --> 00:55:01.760]   I want you to understand
+[00:55:01.760 --> 00:55:02.760]   how to anticipate
+[00:55:02.760 --> 00:55:03.760]   well
+[00:55:03.760 --> 00:55:04.760]   and be prepared
+[00:55:04.760 --> 00:55:05.760]   for all the things to come
+[00:55:05.760 --> 00:55:06.760]   let's take a moment
+[00:55:06.760 --> 00:55:07.760]   to pray
+[00:55:07.760 --> 00:55:15.760]   Heavenly Father
+[00:55:15.760 --> 00:55:17.760]   you have said
+[00:55:17.760 --> 00:55:18.760]   multiple times
+[00:55:18.760 --> 00:55:19.760]   in the scriptures
+[00:55:19.760 --> 00:55:21.760]   that those
+[00:55:21.760 --> 00:55:23.760]   who desire
+[00:55:23.760 --> 00:55:24.760]   and long for the kingdom
+[00:55:24.760 --> 00:55:25.760]   of heaven
+[00:55:25.760 --> 00:55:26.760]   will see themselves
+[00:55:26.760 --> 00:55:27.760]   lose their lives
+[00:55:27.760 --> 00:55:30.760]   and what's more
+[00:55:30.760 --> 00:55:31.760]   that there is going to be
+[00:55:31.760 --> 00:55:32.760]   great suffering
+[00:55:32.760 --> 00:55:33.760]   for every generation
+[00:55:33.760 --> 00:55:34.760]   has been
+[00:55:34.760 --> 00:55:35.760]   a dark
+[00:55:35.760 --> 00:55:36.760]   and perverted generation
+[00:55:36.760 --> 00:55:38.760]   and so God
+[00:55:38.760 --> 00:55:39.760]   I pray that this will cause us
+[00:55:39.760 --> 00:55:40.760]   to be so sober
+[00:55:40.760 --> 00:55:41.760]   as we walk
+[00:55:41.760 --> 00:55:43.760]   knowing Lord
+[00:55:43.760 --> 00:55:44.760]   that
+[00:55:44.760 --> 00:55:45.760]   you
+[00:55:45.760 --> 00:55:46.760]   through your determination
+[00:55:46.760 --> 00:55:47.760]   through your power
+[00:55:47.760 --> 00:55:48.760]   and strength
+[00:55:48.760 --> 00:55:49.760]   you blaze this trail
+[00:55:49.760 --> 00:55:51.760]   and as we long
+[00:55:51.760 --> 00:55:52.760]   to follow in your footsteps
+[00:55:52.760 --> 00:55:54.760]   yes sometimes
+[00:55:54.760 --> 00:55:56.760]   suffering will come
+[00:55:56.760 --> 00:55:57.760]   and persecution will come
+[00:55:57.760 --> 00:55:59.760]   I pray Father God
+[00:55:59.760 --> 00:56:00.760]   that we not
+[00:56:00.760 --> 00:56:01.760]   look for strength
+[00:56:01.760 --> 00:56:02.760]   from the world
+[00:56:02.760 --> 00:56:03.760]   where
+[00:56:03.760 --> 00:56:04.760]   money
+[00:56:04.760 --> 00:56:05.760]   resources
+[00:56:05.760 --> 00:56:06.760]   and people
+[00:56:06.760 --> 00:56:07.760]   become our safety
+[00:56:07.760 --> 00:56:08.760]   but I pray God
+[00:56:08.760 --> 00:56:09.760]   that we would have
+[00:56:09.760 --> 00:56:10.760]   the power of Christ
+[00:56:10.760 --> 00:56:12.760]   and I pray Lord
+[00:56:12.760 --> 00:56:13.760]   we would be strong
+[00:56:13.760 --> 00:56:14.760]   in truth
+[00:56:14.760 --> 00:56:15.760]   in the gospel
+[00:56:15.760 --> 00:56:16.760]   in the spirit
+[00:56:16.760 --> 00:56:17.760]   in prayer
+[00:56:17.760 --> 00:56:18.760]   and everything that comes
+[00:56:18.760 --> 00:56:19.760]   from our God
+[00:56:19.760 --> 00:56:21.760]   I ask Lord that as we remember
+[00:56:21.760 --> 00:56:22.760]   Christ's journey
+[00:56:22.760 --> 00:56:23.760]   you would help us
+[00:56:23.760 --> 00:56:24.760]   to appreciate him
+[00:56:24.760 --> 00:56:26.760]   Lord that he
+[00:56:26.760 --> 00:56:27.760]   did not cower
+[00:56:27.760 --> 00:56:28.760]   from
+[00:56:28.760 --> 00:56:29.760]   the masses
+[00:56:29.760 --> 00:56:30.760]   and he did not cower
+[00:56:30.760 --> 00:56:31.760]   from those in authority
+[00:56:31.760 --> 00:56:32.760]   but God
+[00:56:32.760 --> 00:56:33.760]   he proved himself
+[00:56:33.760 --> 00:56:34.760]   to be one
+[00:56:34.760 --> 00:56:35.760]   high above
+[00:56:35.760 --> 00:56:36.760]   we thank you it's in Christ's name we pray
+[00:56:36.760 --> 00:56:37.760]   amen
+[00:56:37.760 --> 00:56:40.760]   why don't we all stand
+[00:56:40.760 --> 00:56:41.760]   for our closing praise
+[00:56:41.760 --> 00:57:05.760]   (music)
+[00:57:05.760 --> 00:57:09.760]   I hear the Savior say
+[00:57:10.760 --> 00:57:15.760]   thy strength indeed is small
+[00:57:15.760 --> 00:57:18.760]   child of weakness
+[00:57:18.760 --> 00:57:20.760]   watch and pray
+[00:57:20.760 --> 00:57:22.760]   find in me
+[00:57:22.760 --> 00:57:25.760]   thine all in all
+[00:57:25.760 --> 00:57:31.760]   cause Jesus paid it all
+[00:57:31.760 --> 00:57:36.760]   all to him I owe
+[00:57:37.760 --> 00:57:41.760]   sin had left a crimson stain
+[00:57:41.760 --> 00:57:46.760]   he washed it white as snow
+[00:57:46.760 --> 00:58:04.760]   (music)
+[00:58:04.760 --> 00:58:08.760]   Lord now indeed I find
+[00:58:08.760 --> 00:58:13.760]   thy power in thine alone
+[00:58:13.760 --> 00:58:18.760]   can change the leper's spots
+[00:58:18.760 --> 00:58:23.760]   and melt the heart of stone
+[00:58:23.760 --> 00:58:29.760]   cause Jesus paid it all
+[00:58:30.760 --> 00:58:34.760]   all to him I owe
+[00:58:34.760 --> 00:58:39.760]   sin had left a crimson stain
+[00:58:39.760 --> 00:58:44.760]   he washed it white as snow
+[00:58:44.760 --> 00:59:02.760]   (music)
+[00:59:02.760 --> 00:59:06.760]   and when before the throne
+[00:59:06.760 --> 00:59:11.760]   I stand in him complete
+[00:59:12.760 --> 00:59:16.760]   Jesus died my soul to save
+[00:59:16.760 --> 00:59:22.760]   my lips shall still repeat
+[00:59:22.760 --> 00:59:27.760]   cause Jesus paid it all
+[00:59:27.760 --> 00:59:32.760]   all to him I owe
+[00:59:32.760 --> 00:59:37.760]   sin had left a crimson stain
+[00:59:38.760 --> 00:59:42.760]   he washed it white as snow
+[00:59:42.760 --> 00:59:47.760]   sin had left a crimson stain
+[00:59:47.760 --> 00:59:52.760]   he washed it white as snow
+[00:59:52.760 --> 00:59:57.760]   he washed it white as snow
+[00:59:57.760 --> 01:00:02.760]   he washed it white as snow
+[01:00:03.760 --> 01:00:10.760]   (music)
+[01:00:10.760 --> 01:00:15.760]   Oh praise the one who paid my debt
+[01:00:15.760 --> 01:00:20.760]   and raised this life up from the dead
+[01:00:20.760 --> 01:00:25.760]   Oh praise the one who paid my debt
+[01:00:25.760 --> 01:00:30.760]   and raised this life up from the dead
+[01:00:31.760 --> 01:00:35.760]   Oh praise the one who paid my debt
+[01:00:35.760 --> 01:00:40.760]   and raised this life up from the dead
+[01:00:40.760 --> 01:00:45.760]   Oh praise the one who paid my debt
+[01:00:45.760 --> 01:00:52.760]   and raised this life up from the dead
+[01:00:52.760 --> 01:00:58.760]   cause Jesus paid it all
+[01:00:59.760 --> 01:01:03.760]   all to him I owe
+[01:01:03.760 --> 01:01:08.760]   sin had left a crimson stain
+[01:01:08.760 --> 01:01:13.760]   he washed it white as snow
+[01:01:13.760 --> 01:01:19.760]   sin had left a crimson stain
+[01:01:19.760 --> 01:01:24.760]   he washed it white as snow
+[01:01:28.760 --> 01:01:30.760]   Amen. Let's pray together to close.
+[01:01:30.760 --> 01:01:35.760]   Our God, first and foremost we again want to say thank you, thank you.
+[01:01:35.760 --> 01:01:40.760]   I thank you God that you meticulously accomplished your will.
+[01:01:40.760 --> 01:01:45.760]   Both confronting and stirring up those who are the enemies of God
+[01:01:45.760 --> 01:01:50.760]   and that ultimately that even at their hand you'd be persecuted and to give up your life.
+[01:01:50.760 --> 01:01:54.760]   We know God that all of this is under your sovereignty.
+[01:01:55.760 --> 01:01:59.760]   You're so sovereign that God you use all of that to your glory.
+[01:01:59.760 --> 01:02:04.760]   And so help us to have faith that no matter what's going on in our lives
+[01:02:04.760 --> 01:02:09.760]   and even if we cannot give reason or rationale for the things that happen
+[01:02:09.760 --> 01:02:13.760]   help us to have so much trust in your sovereignty that we are strong.
+[01:02:13.760 --> 01:02:16.760]   That we can walk with the Lord.
+[01:02:16.760 --> 01:02:20.760]   And though God we sometimes feel weakness and we walk by sight
+[01:02:20.760 --> 01:02:23.760]   would you have mercy on us and help us Lord God to persevere.
+[01:02:24.760 --> 01:02:26.760]   We thank you this day it's in Christ's name. Amen.
+[01:02:26.760 --> 01:02:29.760]   If you would take a moment to just sit down
+[01:02:29.760 --> 01:02:33.760]   and then I do have just a couple announcements, important announcements for the week.
+[01:02:33.760 --> 01:02:38.760]   That number one for those of you guys who still are thinking about the Passover dinner
+[01:02:38.760 --> 01:02:41.760]   that's happening on Thursday night.
+[01:02:41.760 --> 01:02:45.760]   There is still room for about 15 to 20 people.
+[01:02:45.760 --> 01:02:51.760]   And so you can sign up now and then our team will put you into tables
+[01:02:52.760 --> 01:02:54.760]   for this coming Thursday. Okay.
+[01:02:54.760 --> 01:02:57.760]   So that's for the Passover dinner.
+[01:02:57.760 --> 01:03:01.760]   And then please note that specifically for Sunday, Easter Sunday
+[01:03:01.760 --> 01:03:04.760]   we still have need for some helping hands for volunteers.
+[01:03:04.760 --> 01:03:07.760]   Particularly with the lunch prep.
+[01:03:07.760 --> 01:03:10.760]   And then also for table, chair setup.
+[01:03:10.760 --> 01:03:13.760]   And then at the end of the day to help out with cleaning. Okay.
+[01:03:13.760 --> 01:03:16.760]   So if you just for a period want to help out
+[01:03:16.760 --> 01:03:19.760]   please make sure to use this QR code.
+[01:03:20.760 --> 01:03:24.760]   And if you have any questions you can hit up Justin and the logistics team
+[01:03:24.760 --> 01:03:27.760]   for any questions about how to help serve that day. Okay.
+[01:03:27.760 --> 01:03:30.760]   Alright everybody. Thank you. We'll see you guys tomorrow.
+[01:03:30.760 --> 01:03:40.760]   [BLANK_AUDIO]
+
