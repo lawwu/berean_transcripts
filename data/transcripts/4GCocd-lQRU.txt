@@ -1,0 +1,755 @@
+
+[00:00:00.000 --> 00:00:03.160]   (audience chattering)
+[00:00:03.160 --> 00:00:07.240]   (audience chattering continues)
+[00:00:07.240 --> 00:00:11.320]   (audience chattering continues)
+[00:00:11.480 --> 00:00:15.560]   (audience chattering continues)
+[00:00:15.560 --> 00:00:19.640]   (audience chattering continues)
+[00:00:19.640 --> 00:00:23.720]   (audience chattering continues)
+[00:00:23.720 --> 00:00:27.800]   (audience chattering continues)
+[00:00:27.800 --> 00:00:31.880]   (audience chattering continues)
+[00:00:31.880 --> 00:00:35.960]   (audience chattering continues)
+[00:00:35.960 --> 00:00:40.040]   (audience chattering continues)
+[00:00:40.040 --> 00:00:44.120]   (audience chattering continues)
+[00:00:44.120 --> 00:00:48.200]   (audience chattering continues)
+[00:00:48.200 --> 00:00:52.200]   (audience chattering continues)
+[00:00:52.200 --> 00:00:56.200]   (audience chattering continues)
+[00:00:56.200 --> 00:01:00.200]   (audience chattering continues)
+[00:01:00.200 --> 00:01:04.200]   (audience chattering continues)
+[00:01:04.200 --> 00:01:08.200]   (audience chattering continues)
+[00:01:08.200 --> 00:01:12.200]   (audience chattering continues)
+[00:01:12.200 --> 00:01:16.200]   (audience chattering continues)
+[00:01:16.200 --> 00:01:20.200]   (audience chattering continues)
+[00:01:20.200 --> 00:01:24.200]   (audience chattering continues)
+[00:01:24.200 --> 00:01:28.200]   (audience chattering continues)
+[00:01:28.200 --> 00:01:32.200]   (audience chattering continues)
+[00:01:32.200 --> 00:01:36.200]   (audience chattering continues)
+[00:01:36.200 --> 00:01:40.200]   (audience chattering continues)
+[00:01:40.200 --> 00:01:44.200]   (audience chattering continues)
+[00:01:44.200 --> 00:01:48.200]   (audience chattering continues)
+[00:01:49.200 --> 00:01:53.200]   (audience chattering continues)
+[00:01:53.200 --> 00:01:57.200]   (audience chattering continues)
+[00:01:57.200 --> 00:02:01.200]   (audience chattering continues)
+[00:02:01.200 --> 00:02:05.200]   (audience chattering continues)
+[00:02:05.200 --> 00:02:09.200]   (audience chattering continues)
+[00:02:09.200 --> 00:02:13.200]   (audience chattering continues)
+[00:02:13.200 --> 00:02:17.200]   (audience chattering continues)
+[00:02:17.200 --> 00:02:21.200]   (audience chattering continues)
+[00:02:21.200 --> 00:02:25.200]   (audience chattering continues)
+[00:02:25.200 --> 00:02:29.200]   (audience chattering continues)
+[00:02:29.200 --> 00:02:33.200]   (audience chattering continues)
+[00:02:33.200 --> 00:02:37.200]   (audience chattering continues)
+[00:02:37.200 --> 00:02:41.200]   (audience chattering continues)
+[00:02:41.200 --> 00:02:45.200]   (audience chattering continues)
+[00:02:45.200 --> 00:02:49.200]   (audience chattering continues)
+[00:02:49.200 --> 00:03:11.200]   (audience chattering continues)
+[00:03:11.200 --> 00:03:15.200]   (audience chattering continues)
+[00:03:15.200 --> 00:03:19.200]   (audience chattering continues)
+[00:03:19.200 --> 00:03:23.200]   (audience chattering continues)
+[00:03:23.200 --> 00:03:27.200]   (audience chattering continues)
+[00:03:27.200 --> 00:03:31.200]   (audience chattering continues)
+[00:03:31.200 --> 00:03:35.200]   (audience chattering continues)
+[00:03:35.200 --> 00:03:39.200]   (audience chattering continues)
+[00:03:39.200 --> 00:03:43.200]   (audience chattering continues)
+[00:03:43.200 --> 00:03:47.200]   (audience chattering continues)
+[00:03:47.200 --> 00:03:51.200]   (audience chattering continues)
+[00:03:51.200 --> 00:03:55.200]   (audience chattering continues)
+[00:03:55.200 --> 00:03:59.200]   (audience chattering continues)
+[00:03:59.200 --> 00:04:03.200]   (audience chattering continues)
+[00:04:03.200 --> 00:04:07.200]   (audience chattering continues)
+[00:04:07.200 --> 00:04:11.200]   (audience chattering continues)
+[00:04:11.200 --> 00:04:15.200]   (audience chattering continues)
+[00:04:15.200 --> 00:04:19.200]   (audience chattering continues)
+[00:04:19.200 --> 00:04:23.200]   (audience chattering continues)
+[00:04:23.200 --> 00:04:27.200]   (audience chattering continues)
+[00:04:27.200 --> 00:04:31.200]   (audience chattering continues)
+[00:04:31.200 --> 00:04:35.200]   (audience chattering continues)
+[00:04:35.200 --> 00:04:39.200]   (audience chattering continues)
+[00:04:39.200 --> 00:04:43.200]   (audience chattering continues)
+[00:04:43.200 --> 00:04:47.200]   (audience chattering continues)
+[00:04:47.200 --> 00:04:51.200]   (audience chattering continues)
+[00:04:51.200 --> 00:04:55.200]   (audience chattering continues)
+[00:04:55.200 --> 00:04:59.200]   (audience chattering continues)
+[00:04:59.200 --> 00:05:03.200]   (audience chattering continues)
+[00:05:03.200 --> 00:05:07.200]   (audience chattering continues)
+[00:05:07.200 --> 00:05:11.200]   (audience chattering continues)
+[00:05:11.200 --> 00:05:15.200]   (audience chattering continues)
+[00:05:15.200 --> 00:05:19.200]   (audience chattering continues)
+[00:05:19.200 --> 00:05:23.200]   (audience chattering continues)
+[00:05:23.200 --> 00:05:27.200]   (audience chattering continues)
+[00:05:27.200 --> 00:05:31.200]   (audience chattering continues)
+[00:05:31.200 --> 00:05:35.200]   (audience chattering continues)
+[00:05:35.200 --> 00:05:39.200]   (audience chattering continues)
+[00:05:39.200 --> 00:05:43.200]   (audience chattering continues)
+[00:05:43.200 --> 00:05:47.200]   (audience chattering continues)
+[00:05:47.200 --> 00:05:51.200]   (audience chattering continues)
+[00:05:51.200 --> 00:05:55.200]   (audience chattering continues)
+[00:05:55.200 --> 00:05:59.200]   (audience chattering continues)
+[00:05:59.200 --> 00:06:03.200]   (audience chattering continues)
+[00:06:03.200 --> 00:06:07.200]   (audience chattering continues)
+[00:06:07.200 --> 00:06:11.200]   (audience chattering continues)
+[00:06:11.200 --> 00:06:15.200]   (audience chattering continues)
+[00:06:15.200 --> 00:06:19.200]   (audience chattering continues)
+[00:06:19.200 --> 00:06:23.200]   (audience chattering continues)
+[00:06:23.200 --> 00:06:27.200]   (audience chattering continues)
+[00:06:27.200 --> 00:06:31.200]   (audience chattering continues)
+[00:06:31.200 --> 00:06:35.200]   (audience chattering continues)
+[00:06:35.200 --> 00:06:39.200]   (audience chattering continues)
+[00:06:39.200 --> 00:06:43.200]   (audience chattering continues)
+[00:06:43.200 --> 00:06:47.200]   (audience chattering continues)
+[00:06:48.200 --> 00:06:52.200]   (audience chattering continues)
+[00:06:52.200 --> 00:06:56.200]   (audience chattering continues)
+[00:06:56.200 --> 00:07:00.200]   (audience chattering continues)
+[00:07:00.200 --> 00:07:20.200]   (audience chattering continues)
+[00:07:20.200 --> 00:07:24.200]   (audience chattering continues)
+[00:07:24.200 --> 00:07:28.200]   (audience chattering continues)
+[00:07:28.200 --> 00:07:32.200]   (audience chattering continues)
+[00:07:32.200 --> 00:07:36.200]   (audience chattering continues)
+[00:07:36.200 --> 00:07:40.200]   (audience chattering continues)
+[00:07:40.200 --> 00:07:44.200]   (audience chattering continues)
+[00:07:45.200 --> 00:07:49.200]   (audience chattering continues)
+[00:07:49.200 --> 00:07:53.200]   (audience chattering continues)
+[00:07:54.200 --> 00:07:58.200]   (audience chattering continues)
+[00:07:59.200 --> 00:08:03.200]   (audience chattering continues)
+[00:08:03.200 --> 00:08:07.200]   (audience chattering continues)
+[00:08:08.200 --> 00:08:12.200]   (audience chattering continues)
+[00:08:13.200 --> 00:08:17.200]   (audience chattering continues)
+[00:08:17.200 --> 00:08:24.200]   (audience chattering continues)
+[00:08:39.200 --> 00:08:43.200]   (audience chattering continues)
+[00:08:43.200 --> 00:08:47.200]   (audience chattering continues)
+[00:08:48.200 --> 00:08:52.200]   (audience chattering continues)
+[00:08:52.200 --> 00:08:56.200]   (audience chattering continues)
+[00:08:56.200 --> 00:09:00.200]   (audience chattering continues)
+[00:09:00.200 --> 00:09:04.200]   (audience chattering continues)
+[00:09:04.200 --> 00:09:26.200]   (audience chattering continues)
+[00:09:27.200 --> 00:09:31.200]   (audience chattering continues)
+[00:09:31.200 --> 00:09:35.200]   (audience chattering continues)
+[00:09:35.200 --> 00:09:39.200]   (audience chattering continues)
+[00:09:39.200 --> 00:09:43.200]   (audience chattering continues)
+[00:09:44.200 --> 00:09:48.200]   (audience chattering continues)
+[00:09:49.200 --> 00:09:53.200]   (audience chattering continues)
+[00:09:54.200 --> 00:09:58.200]   (audience chattering continues)
+[00:09:58.200 --> 00:10:02.200]   (audience chattering continues)
+[00:10:02.200 --> 00:10:06.200]   (audience chattering continues)
+[00:10:07.200 --> 00:10:11.200]   (audience chattering continues)
+[00:10:11.200 --> 00:10:15.200]   (audience chattering continues)
+[00:10:15.200 --> 00:10:19.200]   (audience chattering continues)
+[00:10:19.200 --> 00:10:23.200]   (audience chattering continues)
+[00:10:24.200 --> 00:10:28.200]   (audience chattering continues)
+[00:10:28.200 --> 00:10:40.200]   (audience chattering continues)
+[00:10:41.200 --> 00:10:45.200]   (audience chattering continues)
+[00:10:45.200 --> 00:11:02.200]   (audience chattering continues)
+[00:11:03.200 --> 00:11:07.200]   (audience chattering continues)
+[00:11:08.200 --> 00:11:12.200]   (audience chattering continues)
+[00:11:12.200 --> 00:11:27.200]   (audience chattering continues)
+[00:11:28.200 --> 00:11:32.200]   (audience chattering continues)
+[00:11:32.200 --> 00:11:43.200]   - Okay, can we start finding our seats?
+[00:11:43.200 --> 00:11:45.200]   We're gonna get started in a few seconds.
+[00:11:56.200 --> 00:11:58.200]   All right, I'll pray real quick.
+[00:11:58.200 --> 00:12:01.200]   Father, we just thank you for this opportunity, once again,
+[00:12:01.200 --> 00:12:03.200]   to just gather as a church body,
+[00:12:03.200 --> 00:12:05.200]   to just lift up worship to you,
+[00:12:05.200 --> 00:12:07.200]   to just be obedient to you and your word.
+[00:12:07.200 --> 00:12:10.200]   We pray that as we sing these songs
+[00:12:10.200 --> 00:12:11.200]   and worship through a song,
+[00:12:11.200 --> 00:12:14.200]   that your spirit would just move in our hearts
+[00:12:14.200 --> 00:12:16.200]   to just not be distracted,
+[00:12:16.200 --> 00:12:18.200]   to just recognize and be thankful
+[00:12:18.200 --> 00:12:20.200]   for your grace, your mercy, your love,
+[00:12:20.200 --> 00:12:22.200]   everything you've done for us as we're studying, Lord,
+[00:12:22.200 --> 00:12:24.200]   that we can truly humble ourselves
+[00:12:24.200 --> 00:12:26.200]   and to give you, lift up this worship
+[00:12:26.200 --> 00:12:28.200]   that you truly deserve, you and you alone, Lord.
+[00:12:28.200 --> 00:12:30.200]   So I pray, I thank you for this time
+[00:12:30.200 --> 00:12:32.200]   and I pray all this in Christ's name, amen.
+[00:12:32.200 --> 00:12:37.200]   (soft piano music)
+[00:12:37.200 --> 00:12:44.200]   - Sing great is the Lord.
+[00:12:44.200 --> 00:12:50.200]   ♪ Great is the Lord ♪
+[00:12:50.200 --> 00:12:55.200]   ♪ Most worthy of praise ♪
+[00:12:55.200 --> 00:13:00.200]   ♪ In the city of our God, the holy place ♪
+[00:13:00.200 --> 00:13:07.200]   ♪ The joy of the whole earth ♪
+[00:13:07.200 --> 00:13:12.200]   ♪ Great is the Lord ♪
+[00:13:12.200 --> 00:13:16.200]   ♪ And great is the Lord ♪
+[00:13:16.200 --> 00:13:21.200]   ♪ In whom we have the victory ♪
+[00:13:21.200 --> 00:13:27.200]   ♪ He aids us against the enemy ♪
+[00:13:27.200 --> 00:13:34.200]   ♪ We bow down on our knees ♪
+[00:13:39.200 --> 00:13:44.200]   ♪ And Lord, we want to lift your name on high ♪
+[00:13:44.200 --> 00:13:49.200]   ♪ And Lord, we want to thank you ♪
+[00:13:49.200 --> 00:13:53.200]   ♪ For the works you've done in our lives ♪
+[00:13:53.200 --> 00:13:58.200]   ♪ And Lord, we trust in your unfailing love ♪
+[00:13:58.200 --> 00:14:04.200]   ♪ For you alone are God eternal ♪
+[00:14:04.200 --> 00:14:09.200]   ♪ Throughout earth and heaven above ♪
+[00:14:09.200 --> 00:14:14.200]   Sing that one more time, great is the Lord.
+[00:14:14.200 --> 00:14:19.200]   ♪ And great is the Lord ♪
+[00:14:19.200 --> 00:14:24.200]   ♪ Most worthy of praise ♪
+[00:14:24.200 --> 00:14:29.200]   ♪ In the city of our God, the holy place ♪
+[00:14:31.200 --> 00:14:36.200]   ♪ The joy of the whole earth ♪
+[00:14:36.200 --> 00:14:46.200]   ♪ And great is the Lord ♪
+[00:14:46.200 --> 00:14:51.200]   ♪ In whom we have the victory ♪
+[00:14:51.200 --> 00:14:56.200]   ♪ He aids us against the enemy ♪
+[00:14:58.200 --> 00:15:03.200]   ♪ We bow down on our knees ♪
+[00:15:03.200 --> 00:15:13.200]   ♪ And Lord, we want to lift your name on high ♪
+[00:15:13.200 --> 00:15:18.200]   ♪ And Lord, we want to thank you ♪
+[00:15:18.200 --> 00:15:22.200]   ♪ For the works you've done in our lives ♪
+[00:15:22.200 --> 00:15:28.200]   ♪ And Lord, we trust in your unfailing love ♪
+[00:15:28.200 --> 00:15:32.200]   ♪ For you alone are God eternal ♪
+[00:15:32.200 --> 00:15:35.200]   ♪ Throughout earth and heaven ♪
+[00:15:35.200 --> 00:15:40.200]   ♪ And Lord, we want to lift your name on high ♪
+[00:15:40.200 --> 00:15:45.200]   ♪ And Lord, we want to thank you ♪
+[00:15:45.200 --> 00:15:49.200]   ♪ For the works you've done in our lives ♪
+[00:15:49.200 --> 00:15:54.200]   ♪ And Lord, we trust in your unfailing love ♪
+[00:15:54.200 --> 00:15:59.200]   ♪ For you alone are God eternal ♪
+[00:15:59.200 --> 00:16:04.200]   ♪ Throughout earth and heaven above ♪
+[00:16:18.200 --> 00:16:21.200]   ♪ I lift my eyes ♪
+[00:16:21.200 --> 00:16:26.200]   ♪ I lift my eyes and see ♪
+[00:16:26.200 --> 00:16:33.200]   ♪ I need not be afraid ♪
+[00:16:33.200 --> 00:16:39.200]   ♪ All my help comes from the Lord ♪
+[00:16:39.200 --> 00:16:46.200]   ♪ Who the earth and sky has made ♪
+[00:16:47.200 --> 00:16:53.200]   ♪ He will keep you from all evils ♪
+[00:16:53.200 --> 00:16:59.200]   ♪ Behind you and before ♪
+[00:16:59.200 --> 00:17:06.200]   ♪ He will sustain you through this journey ♪
+[00:17:06.200 --> 00:17:13.200]   ♪ From now and evermore ♪
+[00:17:14.200 --> 00:17:16.200]   ♪ The Lord will never sleep ♪
+[00:17:16.200 --> 00:17:21.200]   ♪ The Lord will never sleep ♪
+[00:17:21.200 --> 00:17:28.200]   ♪ My steps he has ordained ♪
+[00:17:28.200 --> 00:17:35.200]   ♪ For the one who holds the knife ♪
+[00:17:35.200 --> 00:17:41.200]   ♪ Is the sovereign of my soul ♪
+[00:17:41.200 --> 00:17:45.200]   ♪ Of my days ♪
+[00:17:45.200 --> 00:17:51.200]   ♪ He will keep you from all evils ♪
+[00:17:51.200 --> 00:17:57.200]   ♪ Behind you and before ♪
+[00:17:57.200 --> 00:18:04.200]   ♪ He will sustain you through this journey ♪
+[00:18:06.200 --> 00:18:11.200]   ♪ From now and evermore ♪
+[00:18:11.200 --> 00:18:18.200]   ♪ And he will keep you from all evils ♪
+[00:18:18.200 --> 00:18:24.200]   ♪ Behind you and before ♪
+[00:18:24.200 --> 00:18:31.200]   ♪ He will sustain you through this journey ♪
+[00:18:32.200 --> 00:18:38.200]   ♪ From now and evermore ♪
+[00:18:38.200 --> 00:18:45.200]   ♪ He will keep you from all evils ♪
+[00:18:45.200 --> 00:18:51.200]   ♪ Behind you and before ♪
+[00:18:51.200 --> 00:18:58.200]   ♪ He will sustain you through this journey ♪
+[00:18:59.200 --> 00:19:05.200]   ♪ From now and evermore ♪
+[00:19:05.200 --> 00:19:09.200]   Let's pray.
+[00:19:09.200 --> 00:19:14.200]   Father, we just thank you once again for this time of worship.
+[00:19:14.200 --> 00:19:19.200]   God, as we just study your word through Galatians,
+[00:19:19.200 --> 00:19:22.200]   especially just, Lord, how we aim to walk by the spirit
+[00:19:22.200 --> 00:19:24.200]   and live by the spirit, Lord.
+[00:19:24.200 --> 00:19:28.200]   We realize even doing that, God, we can't do that on our own.
+[00:19:28.200 --> 00:19:30.200]   So we just depend on you for your guidance,
+[00:19:30.200 --> 00:19:33.200]   for your help to grow us, Lord.
+[00:19:33.200 --> 00:19:37.200]   And as we continue our worship through the studying of your word,
+[00:19:37.200 --> 00:19:39.200]   through our discussions, Lord,
+[00:19:39.200 --> 00:19:43.200]   that I just pray that only your truth will be spoken.
+[00:19:43.200 --> 00:19:46.200]   No distortions in any way will be said.
+[00:19:46.200 --> 00:19:50.200]   And that this time will just be encouraging, edifying, convicting.
+[00:19:50.200 --> 00:19:53.200]   And ultimately, Lord, that you would just grow our faith
+[00:19:53.200 --> 00:19:55.200]   and that you would be glorified, Lord.
+[00:19:55.200 --> 00:19:57.200]   We pray all this in Jesus' name, amen.
+[00:19:58.200 --> 00:20:00.200]   We'll see you guys all at 8 o'clock.
+[00:20:00.200 --> 00:20:01.200]   Amen.
+[00:20:01.200 --> 00:20:06.200]   Thank you, guys.
+[00:20:06.200 --> 00:20:07.200]   Amen.
+[00:20:07.200 --> 00:20:08.200]   Amen.
+[00:20:08.200 --> 00:20:09.200]   Amen.
+[00:20:09.200 --> 00:20:10.200]   Amen.
+[00:20:11.200 --> 00:20:12.200]   Amen.
+[00:20:12.200 --> 00:20:13.200]   Amen.
+[00:20:13.200 --> 00:20:14.200]   Amen.
+[00:20:15.200 --> 00:20:16.200]   Amen.
+[00:20:16.200 --> 00:20:17.200]   [END]
+[00:20:18.200 --> 00:20:19.200]   [END]
+[00:20:19.200 --> 00:20:20.200]   [END]
+[00:20:21.200 --> 00:20:22.200]   [END]
+[00:20:22.200 --> 00:20:23.200]   [END]
+[00:20:24.200 --> 00:20:25.200]   [END]
+[00:20:25.200 --> 00:20:26.200]   [END]
+[00:20:26.200 --> 00:20:27.200]   [END]
+[00:20:27.200 --> 00:20:28.200]   [END]
+[00:20:28.200 --> 00:20:29.200]   [END]
+[00:20:29.200 --> 00:20:30.200]   [END]
+[00:20:30.200 --> 00:20:31.200]   [END]
+[00:20:31.200 --> 00:20:31.200]   [END]
+[00:20:31.200 --> 00:20:32.200]   [END]
+[00:20:32.200 --> 00:20:32.200]   [END]
+[00:20:33.200 --> 00:20:34.200]   [END]
+[00:20:34.200 --> 00:20:35.200]   [END]
+[00:20:35.200 --> 00:20:35.200]   [END]
+[00:20:35.200 --> 00:20:45.200]   [END]
+[00:20:45.200 --> 00:20:55.200]   [END]
+[00:20:55.200 --> 00:21:05.200]   [END]
+[00:21:05.200 --> 00:21:15.200]   [END]
+[00:21:15.200 --> 00:21:25.200]   [END]
+[00:21:25.200 --> 00:21:35.200]   [END]
+[00:21:35.200 --> 00:21:45.200]   [END]
+[00:21:45.200 --> 00:21:55.200]   [END]
+[00:21:55.200 --> 00:22:05.200]   [END]
+[00:22:05.200 --> 00:22:15.200]   [END]
+[00:22:15.200 --> 00:22:25.200]   [END]
+[00:22:25.200 --> 00:22:35.200]   [END]
+[00:22:35.200 --> 00:22:45.200]   [END]
+[00:22:45.200 --> 00:22:55.200]   [END]
+[00:22:55.200 --> 00:23:05.200]   [END]
+[00:23:05.200 --> 00:23:15.200]   [END]
+[00:23:15.200 --> 00:23:25.200]   [END]
+[00:23:25.200 --> 00:23:35.200]   [END]
+[00:23:35.200 --> 00:23:45.200]   [END]
+[00:23:45.200 --> 00:24:05.200]   [END]
+[00:24:05.200 --> 00:24:25.200]   [END]
+[00:24:25.200 --> 00:24:45.200]   [END]
+[00:24:45.200 --> 00:25:05.200]   [END]
+[00:25:05.200 --> 00:25:25.200]   [END]
+[00:25:25.200 --> 00:25:45.200]   [END]
+[00:25:45.200 --> 00:26:05.200]   [END]
+[00:26:05.200 --> 00:26:25.200]   [END]
+[00:26:25.200 --> 00:26:45.200]   [END]
+[00:26:45.200 --> 00:27:05.200]   [END]
+[00:27:05.200 --> 00:27:25.200]   [END]
+[00:27:25.200 --> 00:27:45.200]   [END]
+[00:27:45.200 --> 00:28:05.200]   [END]
+[00:28:05.200 --> 00:28:25.200]   [END]
+[00:28:25.200 --> 00:28:45.200]   [END]
+[00:28:45.200 --> 00:29:05.200]   [END]
+[00:29:05.200 --> 00:29:25.200]   [END]
+[00:29:25.200 --> 00:29:45.200]   [END]
+[00:29:45.200 --> 00:30:05.200]   [END]
+[00:30:05.200 --> 00:30:25.200]   [END]
+[00:30:25.200 --> 00:30:45.200]   [END]
+[00:30:45.200 --> 00:31:05.200]   [END]
+[00:31:05.200 --> 00:31:25.200]   [END]
+[00:31:25.200 --> 00:31:45.200]   [END]
+[00:31:45.200 --> 00:32:05.200]   [END]
+[00:32:05.200 --> 00:32:25.200]   [END]
+[00:32:25.200 --> 00:32:45.200]   [END]
+[00:32:45.200 --> 00:33:05.200]   [END]
+[00:33:05.200 --> 00:33:25.200]   [END]
+[00:33:25.200 --> 00:33:45.200]   [END]
+[00:33:45.200 --> 00:34:05.200]   [END]
+[00:34:06.200 --> 00:34:26.200]   [END]
+[00:34:26.200 --> 00:34:36.200]   [END]
+[00:34:36.200 --> 00:34:56.200]   [END]
+[00:34:56.200 --> 00:35:16.200]   [END]
+[00:35:16.200 --> 00:35:36.200]   [END]
+[00:35:36.200 --> 00:35:56.200]   [END]
+[00:35:56.200 --> 00:36:16.200]   [END]
+[00:36:16.200 --> 00:36:36.200]   [END]
+[00:36:36.200 --> 00:36:56.200]   [END]
+[00:36:56.200 --> 00:37:16.200]   [END]
+[00:37:16.200 --> 00:37:36.200]   [END]
+[00:37:36.200 --> 00:37:56.200]   [END]
+[00:37:56.200 --> 00:38:16.200]   [END]
+[00:38:16.200 --> 00:38:36.200]   [END]
+[00:38:36.200 --> 00:38:56.200]   [END]
+[00:38:56.200 --> 00:39:16.200]   [END]
+[00:39:16.200 --> 00:39:36.200]   [END]
+[00:39:36.200 --> 00:39:56.220]   [END]
+[00:39:57.220 --> 00:40:05.220]   [END]
+[00:40:05.220 --> 00:40:15.220]   [END]
+[00:40:15.220 --> 00:40:35.220]   [END]
+[00:40:35.220 --> 00:40:55.220]   [END]
+[00:40:55.220 --> 00:41:15.220]   [END]
+[00:41:15.220 --> 00:41:35.220]   [END]
+[00:41:35.220 --> 00:41:55.220]   [END]
+[00:41:55.220 --> 00:42:15.220]   [END]
+[00:42:15.220 --> 00:42:35.220]   [END]
+[00:42:35.220 --> 00:42:55.220]   [END]
+[00:42:55.220 --> 00:43:15.220]   [END]
+[00:43:15.220 --> 00:43:35.220]   [END]
+[00:43:35.220 --> 00:43:55.220]   [END]
+[00:43:55.220 --> 00:44:15.220]   [END]
+[00:44:15.220 --> 00:44:35.220]   [END]
+[00:44:35.220 --> 00:44:55.220]   [END]
+[00:44:55.220 --> 00:45:15.220]   [END]
+[00:45:15.220 --> 00:45:35.220]   [END]
+[00:45:35.220 --> 00:45:55.220]   [END]
+[00:45:55.220 --> 00:46:15.220]   [END]
+[00:46:15.220 --> 00:46:35.220]   [END]
+[00:46:35.220 --> 00:46:55.220]   [END]
+[00:46:55.220 --> 00:47:15.220]   [END]
+[00:47:15.220 --> 00:47:35.220]   [END]
+[00:47:35.220 --> 00:47:55.220]   [END]
+[00:47:55.220 --> 00:48:15.220]   [END]
+[00:48:15.220 --> 00:48:35.220]   [END]
+[00:48:35.220 --> 00:48:55.220]   [END]
+[00:48:55.220 --> 00:49:15.220]   [END]
+[00:49:15.220 --> 00:49:35.220]   [END]
+[00:49:35.220 --> 00:49:55.220]   [END]
+[00:49:55.220 --> 00:50:15.220]   [END]
+[00:50:15.220 --> 00:50:35.220]   [END]
+[00:50:35.220 --> 00:50:55.220]   [END]
+[00:50:55.220 --> 00:51:15.220]   [END]
+[00:51:15.220 --> 00:51:35.220]   [END]
+[00:51:35.220 --> 00:51:55.220]   [END]
+[00:51:55.220 --> 00:52:15.220]   [END]
+[00:52:15.220 --> 00:52:35.220]   [END]
+[00:52:35.220 --> 00:52:55.220]   [END]
+[00:52:55.220 --> 00:53:15.220]   [END]
+[00:53:15.220 --> 00:53:35.220]   [END]
+[00:53:35.220 --> 00:53:55.220]   [END]
+[00:53:55.220 --> 00:54:15.220]   [END]
+[00:54:15.220 --> 00:54:35.220]   [END]
+[00:54:35.220 --> 00:54:55.220]   [END]
+[00:54:55.220 --> 00:55:15.220]   [END]
+[00:55:16.220 --> 00:55:16.220]   [END]
+[00:55:16.220 --> 00:55:16.220]   [END]
+[00:55:16.220 --> 00:55:26.220]   [END]
+[00:55:26.220 --> 00:55:36.220]   [END]
+[00:55:36.220 --> 00:55:46.220]   [END]
+[00:55:46.220 --> 00:55:56.220]   [END]
+[00:55:56.220 --> 00:56:06.220]   [END]
+[00:56:06.220 --> 00:56:16.220]   [END]
+[00:56:16.220 --> 00:56:36.220]   [END]
+[00:56:36.220 --> 00:56:56.220]   [END]
+[00:56:56.220 --> 00:57:16.220]   [END]
+[00:57:16.220 --> 00:57:36.220]   [END]
+[00:57:36.220 --> 00:57:56.220]   [END]
+[00:57:56.220 --> 00:58:16.220]   [END]
+[00:58:16.220 --> 00:58:36.220]   [END]
+[00:58:36.220 --> 00:58:56.220]   [END]
+[00:58:56.220 --> 00:59:16.220]   [END]
+[00:59:16.220 --> 00:59:36.220]   [END]
+[00:59:36.220 --> 00:59:56.220]   [END]
+[00:59:56.220 --> 01:00:16.220]   [END]
+[01:00:16.220 --> 01:00:36.220]   [END]
+[01:00:36.220 --> 01:00:56.220]   [END]
+[01:00:56.220 --> 01:01:16.220]   [END]
+[01:01:16.220 --> 01:01:36.220]   [END]
+[01:01:36.220 --> 01:01:56.220]   [END]
+[01:01:56.220 --> 01:02:16.220]   [END]
+[01:02:16.220 --> 01:02:36.220]   [END]
+[01:02:36.220 --> 01:02:56.220]   [END]
+[01:02:56.220 --> 01:03:16.220]   [END]
+[01:03:16.220 --> 01:03:36.220]   [END]
+[01:03:36.220 --> 01:03:56.220]   [END]
+[01:03:56.220 --> 01:04:16.220]   [END]
+[01:04:16.220 --> 01:04:36.220]   [END]
+[01:04:36.220 --> 01:04:56.220]   [END]
+[01:04:56.220 --> 01:05:16.220]   [END]
+[01:05:16.220 --> 01:05:36.220]   [END]
+[01:05:36.220 --> 01:05:56.220]   [END]
+[01:05:56.220 --> 01:06:16.220]   [END]
+[01:06:16.220 --> 01:06:36.220]   [END]
+[01:06:36.220 --> 01:06:56.220]   [END]
+[01:06:56.220 --> 01:07:04.220]   >> All right. For those of you guys who are in the rooms at this time, please take a moment to come on out to the main area. We'll get situated for the review.
+[01:07:04.220 --> 01:07:32.220]   [SIDE CONVERSATION]
+[01:07:32.220 --> 01:07:46.220]   [SIDE CONVERSATION]
+[01:07:46.220 --> 01:08:12.220]   >> Okay. Let's take a moment to briefly go before the Lord to ask God to bless our time, and then we'll jump right in. Let's pray. Heavenly Father, we ask you, Lord, for spiritual strength and fervor. We ask you, God, for the blessing of conviction, deeper faith and understanding, and ultimately, God, the blessing of having a sanctified life that looks more and more like Christ.
+[01:08:12.220 --> 01:08:32.220]   And Lord, particularly today, as we look upon a passage that has much to do with the kind of ministry Christ would do, I pray, Lord, that we would have a Christ-like spirit and attitude, one that is willing truly to love in a sacrificial way. We thank you for this time. It's in Christ's name. Amen.
+[01:08:32.220 --> 01:09:01.220]   So, as we take a look at this passage, I want to do a quick review, because it's been two weeks since our previous time in the Galatians, that if you recall, actually, the whole line of thought, I mean, it's technically supposed to be just read all together, but the command was for you and me to live in the Spirit, to walk every single day faithfully.
+[01:09:01.220 --> 01:09:04.220]   Every single day, filled with the Spirit of God, right?
+[01:09:04.220 --> 01:09:26.220]   And in so doing, He defined for us what are the deeds of the flesh, with all of its lusts, all of its – and then the primary one that was really, really heavy was the kind of dissensions, the fits of anger, and the kind of malice, and the envying one another, and the biting each other, that kind of thing, versus bearing the fruit of the Spirit.
+[01:09:26.220 --> 01:09:35.220]   Interestingly, right at the tail end of chapter 5, He told us, "Let us not become boastful, challenging one another, envying one another."
+[01:09:35.220 --> 01:09:51.220]   So, in contrast, today, we're looking at a passage where He is calling for a kind of love that applies itself in a gentle restoration of even the weak, and a humble service where we're bearing each other's burdens, okay?
+[01:09:51.220 --> 01:09:57.220]   So, again, each week I show you this kind of colorful breakdown of the passage.
+[01:09:57.220 --> 01:10:07.220]   I do it just so that I can see what are the key terms I want to identify, define, and cross-reference, etc.
+[01:10:07.220 --> 01:10:26.220]   But if you look, I see three sections, okay, here, where the command to restore is at the center of the first verse, telling us how we ought to do so, that we're supposed to do so even to those who are in trespass, but to do it gently and very carefully, looking for ourselves.
+[01:10:26.220 --> 01:10:33.220]   The second part of it I see here in verse 2, where it says, "Bear one another's burdens, and thereby fulfill the law of Christ."
+[01:10:33.220 --> 01:10:36.220]   So, we're supposed to do this as an imperative, as a command.
+[01:10:36.220 --> 01:10:51.220]   And then, thirdly, there is this thought, starting from verse 3 all the way through verse 5, we're not supposed to be conceited or prideful, but rather we have to examine ourselves, to test ourselves, right, to put ourselves to the scrutiny.
+[01:10:51.220 --> 01:10:59.220]   And so, as a quick overview, if I were just wanting to hit three major points, I would hit the imperatives, okay?
+[01:10:59.220 --> 01:11:04.220]   I would hit the command words, to restore, to bear, and to examine.
+[01:11:04.220 --> 01:11:11.220]   But the way we do that is supposed to be with incredible caution, humility, and faithfulness to our own responsibility, okay?
+[01:11:11.220 --> 01:11:13.220]   So, that would be the overview of the passage.
+[01:11:13.220 --> 01:11:16.220]   Let's jump right into verse 1.
+[01:11:16.220 --> 01:11:29.220]   So, in verse 1, it commands us that even if anybody is caught in any trespass, okay, you who are spiritual, you should restore such a one, right?
+[01:11:29.220 --> 01:11:30.220]   You should restore such a one.
+[01:11:30.220 --> 01:11:34.220]   And so, we want to focus in on this command term.
+[01:11:34.220 --> 01:11:41.220]   It is an imperative to us that we should restore somebody who is caught in sin, okay?
+[01:11:41.220 --> 01:11:53.220]   And this term is really rich just because if you look into how many different ways this word has been translated, not just in the Bible, but in Koine Greek, it has a robust meaning, okay?
+[01:11:53.220 --> 01:11:55.220]   I don't want to read to you some of these.
+[01:11:55.220 --> 01:12:02.220]   That to restore means to also adjust, to fit and finish, and to complete, okay?
+[01:12:02.220 --> 01:12:12.220]   The fundamental meaning is to put a thing in its appropriate condition to establish, set up, equip, arrange, prepare, or amend, okay?
+[01:12:12.220 --> 01:12:16.220]   And so, if you think about it, that's a lot.
+[01:12:16.220 --> 01:12:20.220]   And so, automatically, it raises this question to us.
+[01:12:20.220 --> 01:12:26.220]   For us, when we think about somebody who's caught in sin, our primary thought is I just need to go tell him.
+[01:12:26.220 --> 01:12:28.220]   Is that what the Scripture is expecting of us?
+[01:12:28.220 --> 01:12:31.220]   And the answer is so much more than that, right?
+[01:12:31.220 --> 01:12:32.220]   So much more.
+[01:12:32.220 --> 01:12:47.220]   Do we have a kind of mentality where we are willing to go above and beyond that an individual would be not just like corrected, but made complete from the kind of deficiency or the sin that they're caught in?
+[01:12:47.220 --> 01:12:50.220]   What do they need that they would be sanctified?
+[01:12:50.220 --> 01:12:53.220]   That should be in my heart, a heart to restore.
+[01:12:53.220 --> 01:12:58.220]   So, here's another passage in 2 Thessalonians 5, 14 through 15.
+[01:12:58.220 --> 01:13:11.220]   A passage I try to think about and memorize every time I do counseling, every time I'm doing ministry here at church, that there are actually so many different things different people need, right?
+[01:13:11.220 --> 01:13:16.220]   Than just simply, "Oh, everybody, I'm just going to be dishing out word of correction from the Bible."
+[01:13:16.220 --> 01:13:17.220]   It's like, no.
+[01:13:17.220 --> 01:13:19.220]   There are so many more things that we can be doing.
+[01:13:19.220 --> 01:13:29.220]   It says, "We urge you, brethren, admonish the unruly, encourage the fainthearted, help the weak, be patient with everyone.
+[01:13:29.220 --> 01:13:44.220]   See that no one repays another with evil for evil, but always speak after that which is good for one another and for all people, considering what's good for the individual who is in front of me, considering what's good for the church collectively, and more."
+[01:13:44.220 --> 01:13:45.220]   Okay?
+[01:13:45.220 --> 01:13:56.220]   And so, as we think about that, I want us to just, by way of application, ask the question of like, "Okay, so what is the danger here, especially when somebody sins?"
+[01:13:56.220 --> 01:14:00.220]   And notice how it said like, "Any kind of sin, any trespass," right?
+[01:14:00.220 --> 01:14:03.220]   That includes trespasses against us, offenses against us.
+[01:14:03.220 --> 01:14:05.220]   Okay?
+[01:14:05.220 --> 01:14:07.220]   What are some of the fleshly ways that we react?
+[01:14:07.220 --> 01:14:22.220]   And I want to take a moment just to meditate on the fact that I do think, for most people, the immediate reaction typically, yes, if you get offended or somebody is caught in sin, is either frustration or anger and retaliation.
+[01:14:22.220 --> 01:14:27.220]   But most of the time, people will simply judge from afar.
+[01:14:27.220 --> 01:14:28.220]   Right?
+[01:14:28.220 --> 01:14:32.220]   Most people will simply judge from afar, and that's why things like gossip exist.
+[01:14:32.220 --> 01:14:39.220]   That's why things like bitterness in your heart, because you fight the person, but you fight the person inside your own heart.
+[01:14:39.220 --> 01:14:40.220]   Okay?
+[01:14:40.220 --> 01:14:46.220]   But the Scripture says and challenges us, "No, the command is to restore."
+[01:14:46.220 --> 01:14:54.220]   Sometimes we have a reaction where if somebody sins, maybe the first thought of like what this person needs is to get exposed.
+[01:14:54.220 --> 01:14:55.220]   Right?
+[01:14:55.220 --> 01:15:03.220]   And so sometimes there's this thought in our minds like the thing that we should do is point the finger, and we don't want to be like that.
+[01:15:03.220 --> 01:15:08.220]   To give an example, I mean, right now, the NBA playoffs are going on.
+[01:15:08.220 --> 01:15:16.220]   I don't know why that's funny, but we don't want to be post-game analysts.
+[01:15:16.220 --> 01:15:17.220]   Okay?
+[01:15:17.220 --> 01:15:18.220]   What went wrong?
+[01:15:18.220 --> 01:15:19.220]   Look at the coach.
+[01:15:19.220 --> 01:15:20.220]   Lazy bum.
+[01:15:20.220 --> 01:15:22.220]   You know, he's just walking around with his hand in his pocket.
+[01:15:22.220 --> 01:15:24.220]   Look at this guy going zero for ten.
+[01:15:24.220 --> 01:15:25.220]   Look at this guy too old.
+[01:15:25.220 --> 01:15:26.220]   Da-da-da-da-da.
+[01:15:26.220 --> 01:15:27.220]   Right?
+[01:15:27.220 --> 01:15:35.220]   Because all you've done so far is you've just criticized, critiqued, and pointed at all the flaws, and then you think your job is done.
+[01:15:35.220 --> 01:15:37.220]   We are not analysts.
+[01:15:37.220 --> 01:15:39.220]   Amen?
+[01:15:39.220 --> 01:15:41.220]   We are counselors.
+[01:15:41.220 --> 01:15:43.220]   We're brothers and sisters.
+[01:15:43.220 --> 01:15:45.220]   We're more like the shooting coach.
+[01:15:45.220 --> 01:15:46.220]   It's like, "Oh, my goodness.
+[01:15:46.220 --> 01:15:47.220]   Now I got work.
+[01:15:47.220 --> 01:15:48.220]   The game's over.
+[01:15:48.220 --> 01:15:50.220]   Now I have work to do with you."
+[01:15:50.220 --> 01:15:54.220]   Like, that's the mentality that we should have.
+[01:15:54.220 --> 01:16:03.220]   And so, did you know that God, in Ezekiel chapter 34, He talks about His heart and the desire to restore, and He says, "I will seek the lost.
+[01:16:03.220 --> 01:16:05.220]   I will bring back the scattered.
+[01:16:05.220 --> 01:16:06.220]   I will bind up the broken.
+[01:16:06.220 --> 01:16:09.220]   I will strengthen the sick."
+[01:16:09.220 --> 01:16:13.220]   Those are God's words for His heart of restoration.
+[01:16:13.220 --> 01:16:28.220]   In James chapter 5, it says, "My brethren, if any among you strays from the truth and one turns him back, let him know that he who turns a sinner from the error of his way will save his soul from death and will cover a multitude of sins."
+[01:16:28.220 --> 01:16:29.220]   Amen.
+[01:16:29.220 --> 01:16:37.220]   What a glorious thing that we would be part of if in ministry we find somebody in sin, and we put ourselves completely aside.
+[01:16:37.220 --> 01:16:43.220]   Whatever offense came to our direction, we put that aside, and we seek this individual's restoration.
+[01:16:43.220 --> 01:16:44.220]   Amen.
+[01:16:44.220 --> 01:16:50.220]   So, in thinking about that, we have also the manner in which this restoration should be done.
+[01:16:50.220 --> 01:16:53.220]   And again, He talks about even those who trespass.
+[01:16:53.220 --> 01:16:59.220]   And I want to make mention of the fact that the various translations, it has it in different words.
+[01:16:59.220 --> 01:17:07.220]   There's like, there's both transgression, and then there was fault, and you're caught in sin, like that kind of thing.
+[01:17:07.220 --> 01:17:13.220]   This term is, I guess for lack of better words, like a lesser term.
+[01:17:13.220 --> 01:17:18.220]   There are other Greek words that mean more of like a flagrant foul.
+[01:17:18.220 --> 01:17:21.220]   It's all basketball terminology right now.
+[01:17:21.220 --> 01:17:30.220]   But this is more, there is still culpability, there's still guilt, it's transgression, but it's not as severe as some of these other terms.
+[01:17:30.220 --> 01:17:38.220]   But nevertheless, I mean, we think about how we should think about restoration and seeking to bring somebody along.
+[01:17:38.220 --> 01:17:44.220]   And look at this passage, it says, "Refuse foolish and ignorant speculations, knowing that they produce quarrels.
+[01:17:44.220 --> 01:17:49.220]   The Lord's bonds of it must not be quarrelsome, but be kind to all.
+[01:17:49.220 --> 01:17:55.220]   Be able to teach, patient when wronged, with gentleness correcting those who are in opposition,
+[01:17:55.220 --> 01:18:01.220]   if perhaps God may grant them repentance leading to the knowledge of truth."
+[01:18:01.220 --> 01:18:11.220]   So you see this passage just reiterating our passage, showing us the manner of restoration should not always firsthand be the hammer.
+[01:18:11.220 --> 01:18:21.220]   Because even when you're talking to somebody who is opposed to you, flat out like enemy, we're actually not to treat them like an enemy.
+[01:18:21.220 --> 01:18:32.220]   Another passage says, "If anyone does not obey our instruction in this letter, take special note of that person and do not associate with him so that he will be put to shame."
+[01:18:32.220 --> 01:18:41.220]   Pause there. Gentleness obviously does not mean that you are, "Oh, it's okay," like you're just soft-spoken, okay?
+[01:18:41.220 --> 01:18:46.220]   That's not what gentleness means. Gentleness for sure does not mean permissiveness.
+[01:18:46.220 --> 01:18:52.220]   I've heard horror stories that churches sometimes have youth group teachers who are like abusing their kids,
+[01:18:52.220 --> 01:18:59.220]   panning them in the behind, all this stuff. One time, they should be done, okay?
+[01:18:59.220 --> 01:19:10.220]   Sin cannot be allowed to permit. However, even in this, verse 15, "Yet do not regard him as an enemy, but admonish him as a brother," okay?
+[01:19:10.220 --> 01:19:20.220]   So we take a look at our passage, and we go back to this idea that the passage of Scripture commands us to restore, yes, even one who is in trespass,
+[01:19:20.220 --> 01:19:25.220]   but also to do it with gentleness, yes? To do it with meekness.
+[01:19:25.220 --> 01:19:30.220]   And what does that mean? What does that mean to do so in meekness?
+[01:19:30.220 --> 01:19:42.220]   And again, I think people nowadays have confused meekness to mean, "Oh, if a person needs fifth chance, sixth chance, seventh chance."
+[01:19:42.220 --> 01:19:54.220]   God is a God of chances. But from another person's angle, you just look like completely soul-tolerant, you're just being permissive, right?
+[01:19:54.220 --> 01:19:58.220]   That's not the thought behind gentleness at all.
+[01:19:58.220 --> 01:20:09.220]   Gentleness has much to do with a kind of humility and wisdom to exercise what God wants, but with a cool spirit, right?
+[01:20:09.220 --> 01:20:15.220]   Not trying to use your anger to manipulate, because the anger of man does not accomplish the righteousness of God.
+[01:20:15.220 --> 01:20:22.220]   But here's an important passage. In James chapter 3, it says, "Who among you is wise and understanding?
+[01:20:22.220 --> 01:20:28.220]   Let him show by his good behavior his deeds in the gentleness of wisdom.
+[01:20:28.220 --> 01:20:36.220]   But if you have bitter jealousy, selfish ambition in your heart, do not be arrogant and so lie against the truth.
+[01:20:36.220 --> 01:20:42.220]   This wisdom is not that which comes from above, but is earthly, natural, demonic.
+[01:20:42.220 --> 01:20:47.220]   For where jealousy and selfish ambition exist, there is disorder in every evil thing.
+[01:20:47.220 --> 01:20:59.220]   But the wisdom from above is pure, it's peaceable, it's gentle, it's reasonable, it's full of mercy, good fruits, unwavering and without hypocrisy.
+[01:20:59.220 --> 01:21:07.220]   And the seed of whose fruit is righteousness is sown in peace by those who make peace."
+[01:21:07.220 --> 01:21:18.220]   So in another way, here's an individual who's so calm, collect, and confident in the truth of God, he's able to bring order.
+[01:21:18.220 --> 01:21:21.220]   Like, that's the way I see gentleness. Does that make sense?
+[01:21:21.220 --> 01:21:28.220]   Here's a really interesting excerpt from the Complete Word Study Dictionary of the New Testament.
+[01:21:28.220 --> 01:21:38.220]   Gentleness, used in other Greek literature, like for example Aristotle, is in the middle, standing between two extremes.
+[01:21:38.220 --> 01:21:43.220]   Getting angry without reason and getting angry at all, or not getting angry at all.
+[01:21:43.220 --> 01:21:49.220]   So you have two extremes. Some of you think godliness means I will never ever raise my voice.
+[01:21:49.220 --> 01:21:51.220]   Sometimes you have to.
+[01:21:51.220 --> 01:22:03.220]   Do you guys remember the Old Testament story of Phineas, where somebody was committing idolatry and taking a mole by a woman right in front of the tabernacle worship?
+[01:22:03.220 --> 01:22:06.220]   And he speared them in his zeal, pleased God.
+[01:22:06.220 --> 01:22:11.220]   For us to be faithful to God, sometimes we will have to raise our voice.
+[01:22:11.220 --> 01:22:21.220]   But this term, this translated gentleness, is not doing either of those things without reason.
+[01:22:21.220 --> 01:22:28.220]   But rather, it says, "Therefore, protes, is getting angry at the right time in the right measure for the right reason."
+[01:22:28.220 --> 01:22:33.220]   This word is not readily expressed in English, since the term meekness suggests weakness,
+[01:22:33.220 --> 01:22:40.220]   but it is a condition of mind and heart which demonstrates gentleness not in weakness, but in power.
+[01:22:40.220 --> 01:22:45.220]   It is a balance born in strength of character. How cool is that?
+[01:22:45.220 --> 01:22:51.220]   And so I made it a point to take extra time on this first verse,
+[01:22:51.220 --> 01:22:56.220]   because essentially it's the theme of this paragraph that we have is,
+[01:22:56.220 --> 01:23:04.220]   there is a huge difference between a kind of, "I know this is right! Why don't you listen to me? What is wrong with you?"
+[01:23:04.220 --> 01:23:15.220]   Versus having such a goal in mind, "I'm genuinely concerned for your good. My ambition is your completeness.
+[01:23:15.220 --> 01:23:21.220]   And everything that I need to say, even if it hurts you, is all calculated love."
+[01:23:21.220 --> 01:23:25.220]   And it comes with strength. And it comes with humility.
+[01:23:25.220 --> 01:23:31.220]   As this passage tells us to be so cautious not to think of yourself above the temptation.
+[01:23:31.220 --> 01:23:37.220]   That you who are keeping others accountable, you who are going in to talk to somebody to correct them,
+[01:23:37.220 --> 01:23:43.220]   you're not above the temptation. You walk in there with complete humility before this individual.
+[01:23:43.220 --> 01:23:49.220]   So with that said, with that kind of heart, with that kind of tone, with that kind of manner,
+[01:23:49.220 --> 01:23:55.220]   he says, reiterating, "Bear one another's burdens, and thereby fulfill the law of Christ."
+[01:23:55.220 --> 01:24:03.220]   This is verse 2. And so, we see the command here and the point. It reminds me of, again, what he's been talking about is,
+[01:24:03.220 --> 01:24:11.220]   in the law of Christ, if you remember, in chapter 5, he said, "You were given freedom. You were blessed through and through.
+[01:24:11.220 --> 01:24:17.220]   You're free! So then use it to serve one another and fulfill the law of Christ."
+[01:24:17.220 --> 01:24:27.220]   And what's more, when I think about this passage then, I think about, you know, kind of like a band of brothers kind of situation.
+[01:24:27.220 --> 01:24:34.220]   Soldiers who are walking together. I mean, we know there are going to be moments, if we are actually in battle,
+[01:24:34.220 --> 01:24:41.220]   there are going to be moments when we're hurting. And what the Scripture tells us, let's see here,
+[01:24:41.220 --> 01:24:50.220]   in Romans 15, is, "Now we who are strong ought to bear the weaknesses of those without strength and not just please ourselves.
+[01:24:50.220 --> 01:24:57.220]   Each of us is to please his neighbor for his good, to his edification. For even Christ did not please himself,
+[01:24:57.220 --> 01:25:04.220]   but as it is written, 'The reproaches of those who reproached you fell on me.'" Okay?
+[01:25:04.220 --> 01:25:19.220]   This, what a challenge, okay? For some of you guys, for me at certain situations, the hardest thing to do is be patient with incompetence.
+[01:25:19.220 --> 01:25:24.220]   My guess is, you guys have worked with people who are just like, for lack of better words, inept.
+[01:25:24.220 --> 01:25:30.220]   You know, like they just can't do the job. There's like this meme, they're like, "All right, we know who lied on the application."
+[01:25:30.220 --> 01:25:39.220]   Like that kind of thing, right? This passage is challenging us. Within the church, amongst your brothers,
+[01:25:39.220 --> 01:25:44.220]   we do not have this mentality of like, "Dude, only the strong are the soldiers," right?
+[01:25:44.220 --> 01:25:53.220]   But you bear with the weaknesses and you voluntarily carry the weight of their weakness, right?
+[01:25:53.220 --> 01:26:02.220]   And so we think about this and I want to challenge us, like, when I think about my kind of journey into parenthood,
+[01:26:02.220 --> 01:26:10.220]   I actually remember times when, because I did a lot of tutoring, I did a lot of like teaching at the academy and working with children, you know?
+[01:26:10.220 --> 01:26:18.220]   When I wasn't married and didn't have my own kids, I got to be honest, as a teacher, very critical, right?
+[01:26:18.220 --> 01:26:25.220]   Talking about some kids like, "This guy, he's just not going to get it," right? Like, "This guy, too slow," et cetera, et cetera.
+[01:26:25.220 --> 01:26:31.220]   Now, obviously, just out of consideration, I would never like say that in front of a parent because that would hurt the parent so much.
+[01:26:31.220 --> 01:26:39.220]   But if you're the parent, obviously, so easy to criticize and point out some kid's deficiencies, like, "Man, he can't catch the ball."
+[01:26:39.220 --> 01:26:45.220]   The parent's thinking, "We got to do drills," right? "I'm going to buy him a glove. I need to spend more time with him."
+[01:26:45.220 --> 01:26:58.220]   Why? Because the parent's heart is to make sure that your love carries the burden of whatever it takes, cost, time, like driving the kid to X, Y, and Z.
+[01:26:58.220 --> 01:27:01.220]   And that is the kind of mentality that we need to have.
+[01:27:01.220 --> 01:27:09.220]   And so, here, I want us to now transition over to the next last part by asking this.
+[01:27:09.220 --> 01:27:20.220]   If this is hard for us to be patient with those who are weak, if we have an attitude where it's like, "You know what? Sometimes, I just straight don't like dealing with people.
+[01:27:20.220 --> 01:27:28.220]   They're irritating, and you have a hard time loving because they're disappointing. They kind of get in the way of your ambitions.
+[01:27:28.220 --> 01:27:35.220]   They're kind of in your mind like a waste of time," et cetera, et cetera, the next passage is very rebuking, right?
+[01:27:35.220 --> 01:27:41.220]   Because it says, "For if anyone thinks he is something when he is nothing, then he deceives himself.
+[01:27:41.220 --> 01:27:50.220]   But each one must examine his own work, and then he will have reason for boasting in regard to himself alone, and not in regard to another.
+[01:27:50.220 --> 01:27:54.220]   For each one will bear his own load."
+[01:27:54.220 --> 01:28:03.220]   As we take a look at this passage, again, we see what he's saying here, that as he has challenged us to walk by the Spirit, to serve one another,
+[01:28:03.220 --> 01:28:13.220]   to restore even the ones who have fallen to sin, and to bear each other's burden, the great antithesis to this kind of love is your own pride.
+[01:28:13.220 --> 01:28:25.220]   And the question to me is pretty evident. If you have a hard time being patient with people, the big question is, who do you think you are, right?
+[01:28:25.220 --> 01:28:31.220]   Who do you think you are that you get to choose your brothers and sisters?
+[01:28:31.220 --> 01:28:34.220]   Who do you think you are that you deserve better friends?
+[01:28:34.220 --> 01:28:39.220]   Who do you think you are that you can only work with those who are professionals?
+[01:28:39.220 --> 01:28:43.220]   Who do you think you are that you can demand competence from all?
+[01:28:43.220 --> 01:28:52.220]   It's like a very challenging question, like, if you think you are something, then you deceive yourself, right?
+[01:28:52.220 --> 01:28:57.220]   And so, the application to that kind of arrogance is verse 4.
+[01:28:57.220 --> 01:29:04.220]   The command here in this passage is one must examine his own work, okay?
+[01:29:04.220 --> 01:29:11.220]   An individual must see himself accurately, objectively, and that is a sign of spiritual maturity,
+[01:29:11.220 --> 01:29:16.220]   where an individual is open to self-scrutiny, willing to put themselves out on the table,
+[01:29:16.220 --> 01:29:20.220]   willing to hear other people's criticism, willing to hear God's rebuke,
+[01:29:20.220 --> 01:29:28.220]   and come to some truthful conclusions about where they are, and sometimes maybe even happy to see.
+[01:29:28.220 --> 01:29:33.220]   I knew there were deeper levels of sin in my heart. I'm happy to see it exposed.
+[01:29:33.220 --> 01:29:36.220]   Why? Because I'm ready to repent of it. Yes?
+[01:29:36.220 --> 01:29:44.220]   If I'm proven to be with greater lust, greater, like, ambition for money, greater ambition for glory, etc., etc.,
+[01:29:44.220 --> 01:29:48.220]   praise God. He's refining me. Amen?
+[01:29:48.220 --> 01:29:52.220]   That would be the kind of examination we should be put under.
+[01:29:52.220 --> 01:30:05.220]   In Romans chapter 12, verses 1 through 6, there is a passage given to us that tells us to continue to see ourselves in the right way.
+[01:30:05.220 --> 01:30:11.220]   It says, "Therefore, I urge you, brethren, by the mercies of God, to present your bodies a living and holy sacrifice
+[01:30:11.220 --> 01:30:15.220]   acceptable to God, which is your spiritual service of worship.
+[01:30:15.220 --> 01:30:20.220]   And do not be conformed to this world, but be transformed by the renewing of your mind,
+[01:30:20.220 --> 01:30:25.220]   so that you may prove what the will of God is, that which is good and acceptable and perfect.
+[01:30:25.220 --> 01:30:32.220]   For through the grace given to me, I say to everyone among you not to think more highly of himself than he ought to think,
+[01:30:32.220 --> 01:30:41.220]   but to think so that as to have sound judgment, as God had allotted to each a measure of faith." Yes?
+[01:30:41.220 --> 01:30:52.220]   So, the command here is to test yourself and realize that there is a sense to which, yes, you can have an objective conclusion.
+[01:30:52.220 --> 01:30:56.220]   You may be more spiritually mature than the person sitting next to you.
+[01:30:56.220 --> 01:31:00.220]   And that's why when we go back to this passage, it reads a little weird, right?
+[01:31:00.220 --> 01:31:05.220]   It says, "Examine your work, then you will have reason to boast in regard to yourself."
+[01:31:05.220 --> 01:31:08.220]   That is not a command, "Work hard so you can boast."
+[01:31:08.220 --> 01:31:13.220]   What he's saying is, just like a parent would tell a kid, "Dude, focus on your own work."
+[01:31:13.220 --> 01:31:16.220]   Stop comparing your drawing to the kid next to you.
+[01:31:16.220 --> 01:31:22.220]   You can sit there and mock little Timmy next to you and be like, "Look at him. He drew outside the line.
+[01:31:22.220 --> 01:31:24.220]   Look at me. I drew inside the line." Right?
+[01:31:24.220 --> 01:31:28.220]   But in the end, you're just a kid drawing lines. Okay?
+[01:31:28.220 --> 01:31:39.220]   We have such a tendency in our old mind to grade ourselves on a curve, but grade everybody else on a perfect standard of righteousness. Right?
+[01:31:39.220 --> 01:31:45.220]   And he's saying, "No, you focus on you and you focus on your work.
+[01:31:45.220 --> 01:31:49.220]   Then you would have an objective conclusion." Right?
+[01:31:49.220 --> 01:31:50.220]   That's what he's saying.
+[01:31:50.220 --> 01:31:59.220]   And therefore, the command is, "You need to examine yourself in this way."
+[01:31:59.220 --> 01:32:05.220]   In so saying, I want to conclude by that last verse where it says, "For each one will bear his own load."
+[01:32:05.220 --> 01:32:10.220]   Now, at first reading, it's kind of weird because he's like, "Everybody, bear each other's burdens." You know?
+[01:32:10.220 --> 01:32:14.220]   And then he says, "But you're going to bear your own." Right?
+[01:32:14.220 --> 01:32:16.220]   Excuse me.
+[01:32:16.220 --> 01:32:24.220]   And I want to give this imagery of, again, a military individual.
+[01:32:24.220 --> 01:32:26.220]   Each one will carry his own load.
+[01:32:26.220 --> 01:32:28.220]   This is a military rucksack.
+[01:32:28.220 --> 01:32:36.220]   Within it, a soldier will carry, right, provision for the next two, three days, whatever he needs on the field. Okay?
+[01:32:36.220 --> 01:32:44.220]   And that, his commander will make sure is exactly the way it should be, contains exactly what it should contain,
+[01:32:44.220 --> 01:32:46.220]   and it is his responsibility.
+[01:32:46.220 --> 01:32:51.220]   And when it's not there, he will be punished and reprimanded for it. Right?
+[01:32:51.220 --> 01:33:01.220]   But then, the whole idea is, so you, you have your own responsibility designed by God to carry. Yes?
+[01:33:01.220 --> 01:33:09.220]   But God wants you to be in such a way where you are not focused on everybody else's flaws,
+[01:33:09.220 --> 01:33:15.220]   and not focused on everybody else's, you know, like, "Why aren't they doing this, and why aren't they doing that?"
+[01:33:15.220 --> 01:33:17.220]   But that you're focused on your own.
+[01:33:17.220 --> 01:33:23.220]   You know what Scripture says in Ephesians, that if a man who was fleshly, used to steal, you know what he should do?
+[01:33:23.220 --> 01:33:28.220]   He should work hard with his hands, so that what? So that he can really, really enjoy himself? No.
+[01:33:28.220 --> 01:33:32.220]   He should work hard with his hands, so that he might have something to share.
+[01:33:32.220 --> 01:33:39.220]   The way and path of Christianity, and the way of Christ, is that we would make sure that we, ourselves,
+[01:33:39.220 --> 01:33:46.220]   would be walking filled with faith, that we might, therefore, be able to carry the burdens of others. Right?
+[01:33:46.220 --> 01:33:50.220]   And I want to say, when I was studying this, I asked, "Huh."
+[01:33:50.220 --> 01:33:56.220]   There is an application question of, "Who needs to hear this idea of each one will carry his own load?" Right?
+[01:33:56.220 --> 01:34:01.220]   And initially, you would think, like, or I thought, "Oh, it's the lazy guy."
+[01:34:01.220 --> 01:34:04.220]   It's the guy who keeps asking for favors.
+[01:34:04.220 --> 01:34:08.220]   A guy who keeps asking, like, "Hey, can you lend me some money, so I can buy some food?" Right?
+[01:34:08.220 --> 01:34:11.220]   After Sunday, he's always asking you to cover.
+[01:34:11.220 --> 01:34:14.220]   Is that the guy who needs to hear this?
+[01:34:14.220 --> 01:34:15.220]   No.
+[01:34:15.220 --> 01:34:18.220]   The person who needs to hear this is me.
+[01:34:18.220 --> 01:34:19.220]   Why?
+[01:34:19.220 --> 01:34:26.220]   Because, I will be honest with you, I am a better critique of sermons than a sermon giver.
+[01:34:26.220 --> 01:34:31.220]   Like, people have asked me to critique their sermons, and I can do a good job ripping it up.
+[01:34:31.220 --> 01:34:32.220]   This doesn't flow.
+[01:34:32.220 --> 01:34:34.220]   This doesn't make sense.
+[01:34:34.220 --> 01:34:37.220]   Why is your point so wiggly wiggly right here? Right?
+[01:34:37.220 --> 01:34:41.220]   And then, sometimes, I look at my sermons, and I'm like, "Well."
+[01:34:41.220 --> 01:34:47.220]   But, likewise, you guys know, for me, I'm obviously, like, regularly counseling people.
+[01:34:47.220 --> 01:34:53.220]   What do I have a much easier time with, giving counsel or taking it?
+[01:34:53.220 --> 01:34:55.220]   Yeah.
+[01:34:55.220 --> 01:34:59.220]   Like, what do I have a much easier time figuring out and problem-solving?
+[01:34:59.220 --> 01:35:02.220]   Someone else's heart issues or my own?
+[01:35:02.220 --> 01:35:04.220]   I need to hear this.
+[01:35:04.220 --> 01:35:08.220]   I have my walk with God that I need to pay attention to.
+[01:35:08.220 --> 01:35:13.220]   I want to make sure that I am humble enough, that rather than judging one another,
+[01:35:13.220 --> 01:35:19.220]   rather than putting, you know, high expectations and high criticism on other people,
+[01:35:19.220 --> 01:35:21.220]   may it start with my own heart.
+[01:35:21.220 --> 01:35:22.220]   Amen.
+[01:35:22.220 --> 01:35:28.220]   Let's pray.
+[01:35:28.220 --> 01:35:32.220]   Heavenly Father, we thank you so much for your word.
+[01:35:32.220 --> 01:35:39.220]   Thank you, God, that in all of these things, Lord, you are right to say
+[01:35:39.220 --> 01:35:43.220]   that oftentimes our pride gets in the way of love.
+[01:35:43.220 --> 01:35:50.220]   But also, thank you, God, that all these things, Lord, you have already exemplified.
+[01:35:50.220 --> 01:35:55.220]   The heart of restoration and redemption, the heart that pursues the lost,
+[01:35:55.220 --> 01:35:59.220]   the heart that's willing to sacrifice and carry the load.
+[01:35:59.220 --> 01:36:02.220]   Lord, all of these things you have done.
+[01:36:02.220 --> 01:36:08.220]   And I pray, Father, that we truly will be extensions of your grace and love to everyone around us.
+[01:36:08.220 --> 01:36:26.220]   It's in Christ's name, amen.
+[01:36:26.220 --> 01:36:30.220]   Just a couple of announcements that pertain to us.
+[01:36:30.220 --> 01:36:35.220]   This coming Saturday, we've been announcing this for probably the last seven weeks.
+[01:36:35.220 --> 01:36:39.220]   We have the abortion, birth control, and then IVF seminar.
+[01:36:39.220 --> 01:36:46.220]   If you haven't already signed up and you're bringing a child, we do need you to do that
+[01:36:46.220 --> 01:36:48.220]   so that it helps us to kind of get a good head count.
+[01:36:48.220 --> 01:36:53.220]   And just by way of reminder, we will have snacks and refreshments and coffee.
+[01:36:53.220 --> 01:36:55.220]   It's 9 to 12.
+[01:36:55.220 --> 01:37:00.220]   But we are not allowing you to eat or drink in the sanctuary.
+[01:37:00.220 --> 01:37:02.220]   And we're going to be packed in there anyway.
+[01:37:02.220 --> 01:37:07.220]   So just all our refreshments are going to be in the courtyard.
+[01:37:07.220 --> 01:37:09.220]   So there will be signs, and we'll remind you again.
+[01:37:09.220 --> 01:37:15.220]   But if you haven't done so already, please sign up so that we can get an accurate head count.
+[01:37:15.220 --> 01:37:19.220]   If you are a young adult, we have a few things that are coming up.
+[01:37:19.220 --> 01:37:23.220]   We have the BAM prayer meeting, which is on Sunday at 2.30 in here.
+[01:37:23.220 --> 01:37:34.220]   And also if you are just a non-member young adult who's kind of new-ish, we have a welcome event.
+[01:37:34.220 --> 01:37:37.220]   It says 6 here, but it's actually at 7.
+[01:37:37.220 --> 01:37:43.220]   So if you are building it across the way upstairs, if you make your way up, we'll have --
+[01:37:43.220 --> 01:37:47.220]   I don't think it will be a full-out dinner, but we'll have snacks and refreshments
+[01:37:47.220 --> 01:37:52.220]   and a time for you to get to know some of the members of our church.
+[01:37:52.220 --> 01:37:58.220]   A couple of fundraising -- or one fundraising thing is our men's softball tournament.
+[01:37:58.220 --> 01:38:00.220]   It's a fundraiser for the summer missions team.
+[01:38:00.220 --> 01:38:07.220]   It's going to be at Whittier Narrows pretty much all day on Saturday, May 18th,
+[01:38:07.220 --> 01:38:12.220]   which is the 60 Freeway off of Rosemead Boulevard, okay, and the 626, all right?
+[01:38:12.220 --> 01:38:13.220]   So it's going to be all day.
+[01:38:13.220 --> 01:38:18.220]   And if you guys want to help cheer on our, I think, like four teams of the brothers,
+[01:38:18.220 --> 01:38:23.220]   that's an opportunity for you guys to come fellowship as well.
+[01:38:23.220 --> 01:38:39.220]   And then the family ministry, you have a picnic at Sunday the 19th -- Sunday the 19th at 1130, I think.
+[01:38:39.220 --> 01:38:41.220]   But let's check that, okay?
+[01:38:41.220 --> 01:38:44.220]   So there's a picnic coming up, okay?
+[01:38:44.220 --> 01:38:52.220]   We have three weeks of Bible study left, and you're going to start hearing announcements for the next Bible study.
+[01:38:52.220 --> 01:38:54.220]   We haven't determined the book.
+[01:38:54.220 --> 01:39:01.220]   We haven't determined too many of the details outside of the fact that it's going to start on August 28th, okay?
+[01:39:01.220 --> 01:39:08.220]   So if you have wanderlust and you want to travel and you want to use your summer vacation, do that before the 28th, okay?
+[01:39:08.220 --> 01:39:14.220]   So for the August 28th, for 13 weeks, we're going to be having our next round of Bible studies.
+[01:39:14.220 --> 01:39:23.220]   And some of you guys really wait until the last minute to sign up for small group, and it's a logistical hassle, all right?
+[01:39:23.220 --> 01:39:28.220]   So if you guys can sign up as soon as -- if you're a member, you should sign up for it
+[01:39:28.220 --> 01:39:33.220]   because that's kind of an expectation on our part that we have for you.
+[01:39:33.220 --> 01:39:39.220]   But the sign-ups are going to start coming out, so please do sign up way sooner than way later
+[01:39:39.220 --> 01:39:47.220]   so that we can situate -- we can put you in the group that best suits your situation, all right?
+[01:39:47.220 --> 01:39:52.220]   Okay, and here are the questions for the discussion.
+[01:39:52.220 --> 01:39:56.220]   Thank you.
+[01:39:56.220 --> 01:40:01.220]   [ Silence ]
+
