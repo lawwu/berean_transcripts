@@ -1,0 +1,1563 @@
+
+[00:00:00.000 --> 00:00:02.920]   (soft piano music)
+[00:00:02.920 --> 00:00:06.080]   (audience chattering)
+[00:00:06.080 --> 00:00:09.000]   (soft piano music)
+[00:00:09.000 --> 00:00:12.160]   (audience chattering)
+[00:00:12.160 --> 00:00:15.080]   (soft piano music)
+[00:00:15.080 --> 00:00:18.240]   (audience chattering)
+[00:00:18.240 --> 00:00:21.160]   (soft piano music)
+[00:00:21.160 --> 00:00:24.320]   (audience chattering)
+[00:00:24.320 --> 00:00:27.220]   (soft piano music)
+[00:00:27.220 --> 00:00:30.380]   (audience chattering)
+[00:00:30.380 --> 00:00:33.300]   (soft piano music)
+[00:00:33.460 --> 00:00:36.620]   (audience chattering)
+[00:00:36.620 --> 00:00:39.520]   (soft piano music)
+[00:00:39.520 --> 00:00:42.700]   (audience chattering)
+[00:00:42.700 --> 00:00:45.600]   (soft piano music)
+[00:00:45.600 --> 00:00:48.760]   (audience chattering)
+[00:00:48.760 --> 00:00:51.680]   (soft piano music)
+[00:00:51.680 --> 00:00:54.840]   (audience chattering)
+[00:00:54.840 --> 00:00:57.760]   (soft piano music)
+[00:00:57.760 --> 00:01:00.920]   (audience chattering)
+[00:01:00.920 --> 00:01:03.840]   (soft piano music)
+[00:01:03.840 --> 00:01:07.000]   (audience chattering)
+[00:01:07.000 --> 00:01:09.920]   (soft piano music)
+[00:01:09.920 --> 00:01:13.080]   (audience chattering)
+[00:01:13.080 --> 00:01:16.000]   (soft piano music)
+[00:01:16.000 --> 00:01:19.180]   (audience chattering)
+[00:01:19.180 --> 00:01:22.100]   (soft piano music)
+[00:01:22.100 --> 00:01:25.280]   (audience chattering)
+[00:01:25.280 --> 00:01:28.200]   (soft piano music)
+[00:01:28.200 --> 00:01:31.380]   (audience chattering)
+[00:01:31.380 --> 00:01:34.300]   (soft piano music)
+[00:01:34.300 --> 00:01:37.460]   (audience chattering)
+[00:01:37.460 --> 00:01:40.380]   (soft piano music)
+[00:01:40.380 --> 00:01:43.560]   (audience chattering)
+[00:01:43.560 --> 00:01:46.480]   (soft piano music)
+[00:01:46.480 --> 00:01:49.660]   (audience chattering)
+[00:01:49.660 --> 00:01:52.580]   (soft piano music)
+[00:01:52.580 --> 00:01:55.680]   (audience chattering)
+[00:01:55.680 --> 00:01:58.580]   (soft piano music)
+[00:01:58.580 --> 00:02:01.760]   (audience chattering)
+[00:02:01.760 --> 00:02:04.680]   (soft piano music)
+[00:02:04.680 --> 00:02:07.840]   (audience chattering)
+[00:02:07.840 --> 00:02:10.760]   (soft piano music)
+[00:02:10.760 --> 00:02:14.020]   (audience chattering)
+[00:02:14.020 --> 00:02:16.940]   (soft piano music)
+[00:02:16.940 --> 00:02:20.200]   (audience chattering)
+[00:02:20.200 --> 00:02:23.120]   (soft piano music)
+[00:02:23.120 --> 00:02:26.280]   (audience chattering)
+[00:02:26.280 --> 00:02:29.200]   (soft piano music)
+[00:02:29.200 --> 00:02:32.360]   (audience chattering)
+[00:02:32.360 --> 00:02:35.280]   (soft piano music)
+[00:02:35.280 --> 00:02:38.460]   (audience chattering)
+[00:02:38.460 --> 00:02:41.380]   (soft piano music)
+[00:02:41.380 --> 00:02:44.460]   (audience chattering)
+[00:02:44.460 --> 00:02:47.380]   (soft piano music)
+[00:02:47.380 --> 00:02:50.460]   (audience chattering)
+[00:02:50.460 --> 00:02:53.380]   (soft piano music)
+[00:02:53.380 --> 00:02:56.560]   (audience chattering)
+[00:02:56.560 --> 00:02:59.480]   (soft piano music)
+[00:02:59.480 --> 00:03:02.640]   (audience chattering)
+[00:03:02.640 --> 00:03:05.540]   (soft piano music)
+[00:03:05.540 --> 00:03:08.740]   (audience chattering)
+[00:03:08.740 --> 00:03:11.660]   (soft piano music)
+[00:03:11.660 --> 00:03:14.740]   (audience chattering)
+[00:03:14.740 --> 00:03:17.660]   (soft piano music)
+[00:03:17.660 --> 00:03:20.740]   (audience chattering)
+[00:03:20.740 --> 00:03:23.660]   (soft piano music)
+[00:03:23.660 --> 00:03:26.580]   (soft piano music)
+[00:03:26.580 --> 00:03:29.500]   (soft piano music)
+[00:03:29.500 --> 00:03:32.420]   (soft piano music)
+[00:03:32.420 --> 00:03:35.340]   (soft piano music)
+[00:03:35.340 --> 00:03:38.260]   (soft piano music)
+[00:03:39.100 --> 00:03:42.020]   (soft piano music)
+[00:03:42.020 --> 00:03:44.940]   (soft piano music)
+[00:03:45.040 --> 00:03:47.960]   (soft piano music)
+[00:03:47.960 --> 00:03:50.880]   (soft piano music)
+[00:03:50.880 --> 00:03:53.800]   (soft piano music)
+[00:03:53.800 --> 00:03:56.720]   (soft piano music)
+[00:03:56.720 --> 00:03:59.640]   (soft piano music)
+[00:04:00.560 --> 00:04:03.480]   (soft piano music)
+[00:04:03.480 --> 00:04:06.400]   (soft piano music)
+[00:04:06.400 --> 00:04:09.320]   (soft piano music)
+[00:04:10.240 --> 00:04:13.160]   (soft piano music)
+[00:04:13.160 --> 00:04:20.080]   (soft piano music)
+[00:04:20.080 --> 00:04:25.920]   (soft piano music)
+[00:04:25.920 --> 00:04:31.960]   (soft piano music)
+[00:04:31.960 --> 00:04:38.720]   (soft piano music)
+[00:04:39.720 --> 00:04:42.640]   (soft piano music)
+[00:04:42.640 --> 00:04:49.640]   (soft piano music)
+[00:04:49.640 --> 00:04:58.560]   (soft piano music)
+[00:04:58.560 --> 00:05:06.480]   (soft piano music)
+[00:05:06.480 --> 00:05:09.400]   (soft piano music)
+[00:05:09.400 --> 00:05:19.320]   (soft piano music)
+[00:05:19.320 --> 00:05:31.240]   (soft piano music)
+[00:05:32.080 --> 00:05:35.080]   (soft piano music)
+[00:05:35.080 --> 00:05:45.080]   (soft piano music)
+[00:05:45.080 --> 00:05:54.080]   (soft piano music)
+[00:05:54.920 --> 00:05:57.920]   (soft piano music)
+[00:05:57.920 --> 00:06:00.840]   (soft piano music)
+[00:06:00.840 --> 00:06:03.760]   (soft piano music)
+[00:06:03.760 --> 00:06:06.680]   (soft piano music)
+[00:06:06.680 --> 00:06:09.600]   (soft piano music)
+[00:06:09.600 --> 00:06:12.520]   (soft piano music)
+[00:06:12.520 --> 00:06:32.440]   (soft piano music)
+[00:06:33.360 --> 00:06:36.280]   (soft piano music)
+[00:06:36.280 --> 00:07:02.200]   (soft piano music)
+[00:07:02.200 --> 00:07:05.120]   (soft piano music)
+[00:07:05.120 --> 00:07:09.640]   - Good evening, church family.
+[00:07:09.640 --> 00:07:12.360]   Welcome to our praise and prayer night.
+[00:07:12.360 --> 00:07:14.240]   Let me open us up in a word of prayer
+[00:07:14.240 --> 00:07:15.640]   and then we can get started.
+[00:07:15.640 --> 00:07:21.280]   Father God, we come before you, Lord,
+[00:07:21.280 --> 00:07:24.640]   and we thank you for your sustaining grace in our lives,
+[00:07:24.640 --> 00:07:27.880]   your kindness, your faithfulness, your sovereign hand
+[00:07:27.880 --> 00:07:29.520]   over every season of our lives.
+[00:07:31.200 --> 00:07:32.080]   We thank you for this night
+[00:07:32.080 --> 00:07:34.880]   that we get to come as a church to pray to you.
+[00:07:34.880 --> 00:07:39.000]   And despite or regardless of how each of our weeks have been
+[00:07:39.000 --> 00:07:40.400]   may we come before you now,
+[00:07:40.400 --> 00:07:45.080]   desiring to come before you humbly
+[00:07:45.080 --> 00:07:46.840]   and to seek you with our whole heart
+[00:07:46.840 --> 00:07:50.960]   to come before you, Lord, with an undivided attention
+[00:07:50.960 --> 00:07:52.400]   and devotion to you, Lord.
+[00:07:52.400 --> 00:07:56.120]   I pray for tonight, even if some of us may be tired
+[00:07:56.120 --> 00:08:00.240]   or whatnot, that we would be engaged in prayer
+[00:08:00.240 --> 00:08:02.720]   and in these praises, Lord, to you,
+[00:08:02.720 --> 00:08:04.360]   both in our mind and our hearts.
+[00:08:04.360 --> 00:08:09.000]   Father, that our true desire would be to seek you,
+[00:08:09.000 --> 00:08:11.520]   to know you, to have a deeper affection
+[00:08:11.520 --> 00:08:13.000]   for Christ in all things.
+[00:08:13.000 --> 00:08:16.760]   We thank you, Lord, in Christ's name we pray, amen.
+[00:08:16.760 --> 00:08:20.280]   - Let us all rise as we sing these praises.
+[00:08:20.280 --> 00:08:27.400]   (soft piano music)
+[00:08:27.400 --> 00:08:31.160]   (soft piano music continues)
+[00:08:31.160 --> 00:08:46.920]   - May the words.
+[00:08:46.920 --> 00:08:53.280]   ♪ May the words of my mouth ♪
+[00:08:53.640 --> 00:08:58.640]   ♪ And the meditations of my heart ♪
+[00:08:58.640 --> 00:09:05.920]   ♪ Be pleasing to you ♪
+[00:09:05.920 --> 00:09:12.440]   ♪ Pleasing to you ♪
+[00:09:12.440 --> 00:09:17.840]   ♪ May the words of my mouth ♪
+[00:09:17.840 --> 00:09:23.200]   ♪ And the meditations of my heart ♪
+[00:09:24.200 --> 00:09:28.040]   ♪ Be pleasing to you, my God ♪
+[00:09:28.040 --> 00:09:36.720]   - You're my rock.
+[00:09:36.720 --> 00:09:41.720]   ♪ You're my rock and my redeemer ♪
+[00:09:41.720 --> 00:09:47.960]   ♪ You're the reason that I sing ♪
+[00:09:49.080 --> 00:09:54.080]   ♪ I desire to be a blessing in your eyes ♪
+[00:09:54.080 --> 00:10:06.400]   ♪ Every hour and every moment ♪
+[00:10:06.400 --> 00:10:12.520]   ♪ Lord, I want to be your servant ♪
+[00:10:12.520 --> 00:10:18.680]   ♪ I desire to be a blessing in your eyes ♪
+[00:10:19.680 --> 00:10:24.680]   ♪ In your eyes ♪
+[00:10:24.680 --> 00:10:28.600]   ♪ In your eyes ♪
+[00:10:28.600 --> 00:10:31.640]   - May the words.
+[00:10:31.640 --> 00:10:37.800]   ♪ May the words of my mouth ♪
+[00:10:37.800 --> 00:10:43.200]   ♪ And the meditations of my heart ♪
+[00:10:45.520 --> 00:10:50.520]   ♪ Be pleasing to you ♪
+[00:10:50.520 --> 00:10:57.040]   ♪ Pleasing to you ♪
+[00:10:57.040 --> 00:11:02.400]   ♪ May the words of my mouth ♪
+[00:11:02.400 --> 00:11:07.800]   ♪ And the meditations of my heart ♪
+[00:11:07.800 --> 00:11:15.120]   ♪ Be pleasing to you, my God ♪
+[00:11:15.160 --> 00:11:20.160]   ♪ My God ♪
+[00:11:20.160 --> 00:11:26.320]   ♪ You're my rock and my redeemer ♪
+[00:11:26.320 --> 00:11:32.520]   ♪ You're the reason that I sing ♪
+[00:11:32.520 --> 00:11:38.100]   ♪ I desire to be a blessing in your eyes ♪
+[00:11:38.660 --> 00:11:43.660]   ♪ A blessing in your eyes ♪
+[00:11:43.660 --> 00:11:51.220]   ♪ Every hour and every moment ♪
+[00:11:51.220 --> 00:11:57.300]   ♪ Lord, I want to be your servant ♪
+[00:11:57.300 --> 00:12:03.500]   ♪ I desire to be a blessing in your eyes ♪
+[00:12:03.500 --> 00:12:08.500]   ♪ A blessing in your eyes ♪
+[00:12:08.500 --> 00:12:11.180]   ♪ You're my rock ♪
+[00:12:11.180 --> 00:12:16.180]   ♪ You're my rock and my redeemer ♪
+[00:12:16.180 --> 00:12:22.220]   ♪ You're the reason that I sing ♪
+[00:12:22.220 --> 00:12:28.340]   ♪ I desire to be a blessing in your eyes ♪
+[00:12:28.360 --> 00:12:33.360]   ♪ A blessing in your eyes ♪
+[00:12:33.360 --> 00:12:40.420]   ♪ Every hour and every moment ♪
+[00:12:40.420 --> 00:12:46.540]   ♪ Lord, I want to be your servant ♪
+[00:12:46.540 --> 00:12:52.740]   ♪ I desire to be a blessing in your eyes ♪
+[00:12:53.680 --> 00:12:58.680]   ♪ In your eyes ♪
+[00:12:58.680 --> 00:13:02.400]   ♪ In your eyes ♪
+[00:13:02.400 --> 00:13:13.480]   (upbeat music)
+[00:13:13.480 --> 00:13:16.060]   (upbeat music)
+[00:13:16.060 --> 00:13:29.640]   ♪ Lord, you're calling ♪
+[00:13:29.640 --> 00:13:34.640]   ♪ Lord, you're calling to come ♪
+[00:13:34.640 --> 00:13:39.560]   ♪ And behold the wondrous cross ♪
+[00:13:39.560 --> 00:13:44.520]   ♪ To explore the depths of grace ♪
+[00:13:44.520 --> 00:13:49.520]   ♪ You came to me at such a cost ♪
+[00:13:49.520 --> 00:13:54.560]   ♪ Where your boundless love ♪
+[00:13:54.560 --> 00:13:59.600]   ♪ Conquered my boundless sin ♪
+[00:13:59.600 --> 00:14:05.620]   ♪ And mercy's arms were open wide ♪
+[00:14:08.040 --> 00:14:13.040]   ♪ My heart, my heart is filled with a thousand songs ♪
+[00:14:13.040 --> 00:14:19.280]   ♪ Proclaiming the glories of Calvary ♪
+[00:14:19.280 --> 00:14:24.280]   ♪ With every breath, Lord, how I long ♪
+[00:14:24.280 --> 00:14:29.280]   ♪ To sing of Jesus who died for me ♪
+[00:14:29.280 --> 00:14:34.600]   ♪ Lord, take me deeper ♪
+[00:14:34.680 --> 00:14:38.600]   ♪ Into the glories of Calvary ♪
+[00:14:38.600 --> 00:14:49.580]   ♪ Sinners find ♪
+[00:14:49.580 --> 00:14:54.580]   ♪ Sinners find eternal joy ♪
+[00:14:54.580 --> 00:14:59.600]   ♪ In the triumph of your wounds ♪
+[00:14:59.600 --> 00:15:04.600]   ♪ By our Savior's crimson flow ♪
+[00:15:04.640 --> 00:15:09.640]   ♪ Holy wrath has been removed ♪
+[00:15:09.640 --> 00:15:14.660]   ♪ And your saints below ♪
+[00:15:14.660 --> 00:15:19.680]   ♪ Join with your saints above ♪
+[00:15:19.680 --> 00:15:25.680]   ♪ Rejoice, sing in the risen lamb ♪
+[00:15:25.680 --> 00:15:34.360]   ♪ My heart is filled with a thousand songs ♪
+[00:15:34.360 --> 00:15:39.360]   ♪ Proclaiming the glories of Calvary ♪
+[00:15:39.360 --> 00:15:44.320]   ♪ With every breath, Lord, how I long ♪
+[00:15:44.320 --> 00:15:49.320]   ♪ To sing of Jesus who died for me ♪
+[00:15:49.320 --> 00:15:54.280]   ♪ My heart is filled with a thousand songs ♪
+[00:15:54.280 --> 00:15:59.280]   ♪ Proclaiming the glories of Calvary ♪
+[00:15:59.360 --> 00:16:04.360]   ♪ With every breath, Lord, how I long ♪
+[00:16:04.360 --> 00:16:09.400]   ♪ To sing of Jesus who died for me ♪
+[00:16:09.400 --> 00:16:14.580]   ♪ Lord, take me deeper ♪
+[00:16:14.580 --> 00:16:19.580]   ♪ Into the glories ♪
+[00:16:19.580 --> 00:16:24.640]   ♪ Lord, take me deeper ♪
+[00:16:24.720 --> 00:16:29.720]   ♪ Into the glories of Calvary ♪
+[00:16:29.720 --> 00:16:51.160]   (upbeat music)
+[00:16:51.160 --> 00:16:53.740]   (upbeat music)
+[00:16:53.740 --> 00:17:01.180]   ♪ You are beautiful ♪
+[00:17:01.180 --> 00:17:06.180]   ♪ You are beautiful beyond description ♪
+[00:17:06.180 --> 00:17:13.120]   ♪ Too marvelous for words ♪
+[00:17:13.120 --> 00:17:20.000]   ♪ Too wonderful for comprehension ♪
+[00:17:21.000 --> 00:17:26.000]   ♪ Like nothing ever seen or heard ♪
+[00:17:26.000 --> 00:17:32.560]   ♪ Who can grasp your infinite wisdom ♪
+[00:17:32.560 --> 00:17:39.280]   ♪ Who can fathom the depths of your love ♪
+[00:17:39.280 --> 00:17:46.140]   ♪ You are beautiful beyond description ♪
+[00:17:47.840 --> 00:17:52.840]   ♪ Majesty enthroned above ♪
+[00:17:52.840 --> 00:18:00.260]   ♪ I stand, I stand in awe of you ♪
+[00:18:00.260 --> 00:18:06.980]   ♪ I stand, I stand in awe of you ♪
+[00:18:06.980 --> 00:18:13.320]   ♪ Holy God to whom all praise is due ♪
+[00:18:15.480 --> 00:18:18.900]   ♪ I stand in awe of you ♪
+[00:18:18.900 --> 00:18:37.220]   ♪ You are beautiful beyond description ♪
+[00:18:37.220 --> 00:18:44.260]   ♪ Yet God crushed you for thy sin ♪
+[00:18:45.260 --> 00:18:50.260]   ♪ In agony and deep affliction ♪
+[00:18:50.260 --> 00:18:57.240]   ♪ Cut off that I might enter in ♪
+[00:18:57.240 --> 00:19:03.620]   ♪ Who can grasp such tender compassion ♪
+[00:19:03.620 --> 00:19:10.380]   ♪ Who can fathom such mercy so free ♪
+[00:19:12.120 --> 00:19:17.120]   ♪ You are beautiful beyond description ♪
+[00:19:17.120 --> 00:19:24.140]   ♪ Lamb of God who died for me ♪
+[00:19:24.140 --> 00:19:31.360]   ♪ I stand, I stand in awe of you ♪
+[00:19:31.360 --> 00:19:38.120]   ♪ I stand, I stand in awe of you ♪
+[00:19:39.460 --> 00:19:44.460]   ♪ Holy God to whom all praise is due ♪
+[00:19:44.460 --> 00:19:51.700]   ♪ I stand in awe of you ♪
+[00:19:51.700 --> 00:19:56.720]   ♪ I stand, I stand, I stand in awe of you ♪
+[00:19:56.720 --> 00:20:05.240]   ♪ I stand, I stand in awe of you ♪
+[00:20:06.540 --> 00:20:11.540]   ♪ Holy God to whom all praise is due ♪
+[00:20:11.540 --> 00:20:17.180]   ♪ I stand in awe of you ♪
+[00:20:33.200 --> 00:20:35.360]   - Amen, you may be seated.
+[00:20:35.360 --> 00:20:53.680]   - I wanna give us plenty of time to pray,
+[00:20:53.680 --> 00:20:57.620]   but I wanted to pray along with the Lord's Prayer
+[00:20:57.620 --> 00:20:59.700]   because it is a pattern that's set before us
+[00:20:59.700 --> 00:21:01.160]   and I know we've gone through it many times
+[00:21:01.160 --> 00:21:04.400]   and you guys are very familiar with the Lord's Prayer,
+[00:21:04.400 --> 00:21:08.780]   but I wanted to read the Lord's Prayer
+[00:21:08.780 --> 00:21:11.580]   and give some guidance and basically to give a structure
+[00:21:11.580 --> 00:21:13.620]   of how we're gonna be praying tonight.
+[00:21:13.620 --> 00:21:17.260]   In Matthew 6, nine, sorry, let me read.
+[00:21:17.260 --> 00:21:19.660]   Let me just read it off here.
+[00:21:19.660 --> 00:21:22.680]   Matthew 6, five through 15,
+[00:21:22.680 --> 00:21:26.420]   it begins by telling us what not to do
+[00:21:26.420 --> 00:21:28.180]   and Jesus says, "When you pray,
+[00:21:28.180 --> 00:21:30.440]   "you are not to be like the hypocrites,
+[00:21:30.440 --> 00:21:32.700]   "for they love to stand and pray in the synagogues
+[00:21:32.700 --> 00:21:33.740]   "and on the street corners
+[00:21:33.740 --> 00:21:35.160]   "so that they may be seen by men.
+[00:21:35.160 --> 00:21:38.480]   "Truly I say to you, they have their reward in full."
+[00:21:38.480 --> 00:21:41.100]   And so basically, he's saying there's a pattern of prayer
+[00:21:41.100 --> 00:21:43.220]   that they pray and their prayer is not effective,
+[00:21:43.220 --> 00:21:47.060]   even though the Pharisees are actually known
+[00:21:47.060 --> 00:21:50.180]   for their prayer, but their prayers were ineffective
+[00:21:50.180 --> 00:21:52.140]   because they were doing it for themselves.
+[00:21:52.140 --> 00:21:55.220]   So there is a way to pray where God does not answer.
+[00:21:55.220 --> 00:21:58.380]   Just because we pray doesn't mean that God is pleased.
+[00:21:58.380 --> 00:22:01.400]   So first, he tells us how not to pray.
+[00:22:01.400 --> 00:22:04.240]   But you, when you pray, go into your inner room,
+[00:22:04.240 --> 00:22:07.320]   close your door and pray to your father who is in secret
+[00:22:07.320 --> 00:22:09.880]   and your father who sees what is done in secret
+[00:22:09.880 --> 00:22:11.280]   will reward you.
+[00:22:11.280 --> 00:22:14.840]   So the natural question is, what are we doing here, right?
+[00:22:14.840 --> 00:22:16.760]   So why are we praying in public?
+[00:22:16.760 --> 00:22:21.360]   They focus on prayer so that they can be seen by others.
+[00:22:21.360 --> 00:22:26.680]   We have the exact opposite problem.
+[00:22:26.680 --> 00:22:29.940]   Our tendency is because people don't see,
+[00:22:29.940 --> 00:22:30.940]   we tend to not pray.
+[00:22:30.940 --> 00:22:34.060]   We tend to focus on things that people can see
+[00:22:34.060 --> 00:22:36.840]   because they can't see that whether we prayed or not,
+[00:22:36.840 --> 00:22:38.760]   we have a tendency to not to do it.
+[00:22:38.760 --> 00:22:40.900]   So the reason why we gather together for corporate prayer,
+[00:22:40.900 --> 00:22:44.020]   obviously, God tells us to make this a house of prayer.
+[00:22:44.020 --> 00:22:45.460]   But secondly, we pray corporately
+[00:22:45.460 --> 00:22:48.580]   so that you can pray in private, right?
+[00:22:48.580 --> 00:22:50.620]   Sometimes we have to exercise our muscles
+[00:22:50.620 --> 00:22:52.220]   to be able to use that when we're at home.
+[00:22:52.220 --> 00:22:55.740]   And so our corporate prayer hopefully will help us
+[00:22:55.740 --> 00:22:57.460]   so that we can pray in private.
+[00:22:57.460 --> 00:22:59.920]   But ultimately, this is not,
+[00:22:59.920 --> 00:23:02.540]   if this is all your prayer life is,
+[00:23:02.540 --> 00:23:04.140]   obviously, you don't have a prayer life.
+[00:23:04.140 --> 00:23:07.040]   You can't say that because we gather once a month
+[00:23:07.040 --> 00:23:08.980]   and we pray that this is my prayer life.
+[00:23:08.980 --> 00:23:10.020]   This is not your prayer life.
+[00:23:10.020 --> 00:23:12.800]   It can't be your prayer life once a month.
+[00:23:12.800 --> 00:23:14.680]   This is only to encourage us
+[00:23:14.680 --> 00:23:16.700]   so that we can have a habit of prayer,
+[00:23:16.700 --> 00:23:19.060]   that we can have a life, a pattern of prayer.
+[00:23:19.060 --> 00:23:22.260]   And when you are praying, do not use meaningless repetition
+[00:23:22.260 --> 00:23:25.540]   as the Gentiles do for they suppose that they will be heard
+[00:23:25.540 --> 00:23:26.460]   for their many words.
+[00:23:26.460 --> 00:23:29.500]   So do not be like them for your father knows what you need
+[00:23:29.500 --> 00:23:30.740]   before you ask him.
+[00:23:30.740 --> 00:23:34.620]   You don't need to pray a lot or a lot of words.
+[00:23:34.620 --> 00:23:35.900]   You don't need to be articulate.
+[00:23:35.900 --> 00:23:38.360]   You don't need to quote the Bible, right?
+[00:23:38.360 --> 00:23:40.380]   You just need to be sincere.
+[00:23:40.380 --> 00:23:45.380]   Sometimes the best prayer is, Lord, help me.
+[00:23:45.380 --> 00:23:47.940]   If that's the situation you're in,
+[00:23:47.940 --> 00:23:49.740]   and sometimes you lack words,
+[00:23:49.740 --> 00:23:53.960]   and because you can't put articulate sentences together,
+[00:23:53.960 --> 00:23:55.340]   you say, well, I'm not praying.
+[00:23:55.340 --> 00:23:57.060]   Sometimes those are the worst prayers
+[00:23:57.060 --> 00:23:59.620]   because it's not coming from your heart.
+[00:23:59.620 --> 00:24:02.280]   You're saying things because you think
+[00:24:02.280 --> 00:24:04.100]   that those things ought to be said.
+[00:24:04.100 --> 00:24:06.140]   The most effective prayers are the ones
+[00:24:06.140 --> 00:24:07.380]   that are coming from your heart.
+[00:24:07.380 --> 00:24:10.460]   And sometimes when you are desperate,
+[00:24:10.460 --> 00:24:13.340]   the only words that come out of your mouth are help me.
+[00:24:13.340 --> 00:24:16.280]   So if that's where you are,
+[00:24:16.280 --> 00:24:18.380]   don't worry about length of prayer.
+[00:24:18.380 --> 00:24:20.680]   Don't worry about articulation of prayer.
+[00:24:20.680 --> 00:24:22.340]   Just be honest in your prayer.
+[00:24:22.340 --> 00:24:25.780]   If you were standing before God, what would you say?
+[00:24:25.780 --> 00:24:27.980]   Maybe you're in a situation, you're caught in sin,
+[00:24:27.980 --> 00:24:29.700]   and you don't know how to get out,
+[00:24:29.700 --> 00:24:31.100]   and you come before the Lord,
+[00:24:31.100 --> 00:24:33.180]   and you don't need to explain the intricate details
+[00:24:33.180 --> 00:24:34.580]   of what's going on in your heart
+[00:24:34.580 --> 00:24:37.580]   and how to survive this and quote scripture.
+[00:24:37.580 --> 00:24:40.100]   You just need to come before the Lord and say, help me.
+[00:24:40.100 --> 00:24:41.200]   Help me.
+[00:24:41.200 --> 00:24:42.220]   I need your help.
+[00:24:42.220 --> 00:24:43.680]   Help me, right?
+[00:24:43.680 --> 00:24:46.540]   So God doesn't hear us because of many prayer
+[00:24:46.540 --> 00:24:48.820]   or because of articulation of prayer,
+[00:24:48.820 --> 00:24:50.420]   but the sincerity of our heart.
+[00:24:50.420 --> 00:24:52.580]   So tonight, maybe some of you,
+[00:24:52.580 --> 00:24:55.980]   all you will do all night is to ask for help.
+[00:24:55.980 --> 00:24:56.820]   I need help.
+[00:24:56.820 --> 00:24:57.960]   I need help.
+[00:24:57.960 --> 00:24:58.860]   My mom needs help.
+[00:24:58.860 --> 00:24:59.860]   My brother needs help.
+[00:24:59.860 --> 00:25:01.220]   My sisters need help.
+[00:25:01.220 --> 00:25:04.460]   And just come before the Lord and be sincere
+[00:25:04.460 --> 00:25:07.060]   and cry out to God in prayer, okay?
+[00:25:07.060 --> 00:25:08.700]   You can go to the next.
+[00:25:08.700 --> 00:25:10.180]   And then he says, don't pray that way,
+[00:25:10.180 --> 00:25:11.820]   and then pray this way.
+[00:25:11.820 --> 00:25:14.620]   Pray then in this way, our Father who is in heaven,
+[00:25:14.620 --> 00:25:16.820]   hallowed be your name, your kingdom come,
+[00:25:16.820 --> 00:25:19.260]   your will be done on earth as it is in heaven.
+[00:25:19.260 --> 00:25:20.900]   Give us this day our daily bread
+[00:25:20.900 --> 00:25:23.820]   and forgive us our debts as we also forgive our debtors.
+[00:25:23.820 --> 00:25:25.580]   And do not lead us into temptation,
+[00:25:25.580 --> 00:25:27.180]   but deliver us from evil.
+[00:25:27.180 --> 00:25:28.500]   And let me just stop right there.
+[00:25:28.500 --> 00:25:30.140]   If you can go to the next screen.
+[00:25:30.140 --> 00:25:35.020]   The lines vertical and horizontal,
+[00:25:35.020 --> 00:25:36.820]   the lines are a little bit too thin,
+[00:25:36.820 --> 00:25:39.060]   but that's basically what those lines are.
+[00:25:39.060 --> 00:25:40.220]   If you look at the Lord's Prayer,
+[00:25:40.220 --> 00:25:42.300]   it's broken down into two categories.
+[00:25:42.300 --> 00:25:44.820]   You have a vertical prayer between us and God,
+[00:25:44.820 --> 00:25:48.980]   and then it prays for a horizontal relationship
+[00:25:48.980 --> 00:25:52.380]   between others and ourselves, right?
+[00:25:52.380 --> 00:25:54.940]   Just like in anything that we do,
+[00:25:54.940 --> 00:25:58.500]   unless our vertical line with God is connected,
+[00:25:58.500 --> 00:26:01.660]   our horizontal line, you can't be fixed.
+[00:26:01.660 --> 00:26:03.780]   Oftentimes what we end up doing is,
+[00:26:03.780 --> 00:26:05.820]   we feel the sense of urgency
+[00:26:05.820 --> 00:26:08.900]   when our horizontal line is broken.
+[00:26:08.900 --> 00:26:11.180]   Relational issues, family issues,
+[00:26:11.180 --> 00:26:13.220]   we have temptation falling to sin,
+[00:26:13.220 --> 00:26:16.100]   and we have a tendency to come to the Lord
+[00:26:16.100 --> 00:26:19.500]   in the horizontal line, right?
+[00:26:19.500 --> 00:26:22.460]   But the first thing, no matter what situation is,
+[00:26:22.460 --> 00:26:24.420]   is our vertical line.
+[00:26:24.420 --> 00:26:25.780]   Am I connected right with God?
+[00:26:25.780 --> 00:26:27.340]   Before you're concerned about anything else,
+[00:26:27.340 --> 00:26:29.260]   am I connected right with God?
+[00:26:29.260 --> 00:26:31.020]   So the two things that he mentions,
+[00:26:31.020 --> 00:26:33.060]   and we're gonna start praying with this first,
+[00:26:33.060 --> 00:26:34.860]   and I'm gonna give you a chunk of time to pray,
+[00:26:34.860 --> 00:26:37.880]   and then we'll deal with the horizontal afterwards.
+[00:26:37.880 --> 00:26:41.480]   When he says, "Our Father who is in heaven,
+[00:26:41.480 --> 00:26:43.500]   "hallowed be your name."
+[00:26:43.500 --> 00:26:44.780]   If you look at the first part of it,
+[00:26:44.780 --> 00:26:46.180]   it says, "Hallowed be your name.
+[00:26:46.180 --> 00:26:48.580]   "Your kingdom come, your will be done
+[00:26:48.580 --> 00:26:50.340]   "on earth as it is in heaven."
+[00:26:50.340 --> 00:26:53.340]   So if you look at, go back to the line.
+[00:26:53.340 --> 00:26:58.900]   So the first part of the prayer is lordship, right?
+[00:26:58.900 --> 00:27:01.680]   Is to pray that he would be Lord.
+[00:27:01.680 --> 00:27:02.840]   Now in the New Testament,
+[00:27:02.840 --> 00:27:04.900]   the word Lord is used in various ways.
+[00:27:04.900 --> 00:27:09.900]   Lord could be a way of just expressing honor, like sir,
+[00:27:09.900 --> 00:27:12.980]   right, and so you can call just some stranger,
+[00:27:12.980 --> 00:27:16.860]   just in an honorific way, saying sir, sir this, sir that.
+[00:27:16.860 --> 00:27:19.420]   Is that the way he's using the word Lord here?
+[00:27:19.420 --> 00:27:22.700]   Or another way to say Lord is Lord is in somebody
+[00:27:22.700 --> 00:27:24.760]   who is above you, right?
+[00:27:24.760 --> 00:27:29.160]   They may not have legal authority over you,
+[00:27:29.160 --> 00:27:32.820]   but it's just a way of expressing somebody like a rabbi,
+[00:27:32.820 --> 00:27:36.180]   or maybe somebody higher than that, a governor or king.
+[00:27:36.180 --> 00:27:37.700]   Is that the way he's using it?
+[00:27:37.700 --> 00:27:41.700]   The way that the word Lord is being used here
+[00:27:41.700 --> 00:27:44.340]   is the way that the Jews used the word Adonai
+[00:27:44.340 --> 00:27:45.740]   of the Old Testament,
+[00:27:45.740 --> 00:27:49.440]   and basically it's to express masterhood.
+[00:27:49.440 --> 00:27:55.660]   To say your name, hallowed be your name, not my name, right?
+[00:27:55.660 --> 00:28:01.660]   How much of my prayer is about my reputation?
+[00:28:01.660 --> 00:28:04.180]   You know, sometimes we think like what kind of,
+[00:28:04.180 --> 00:28:07.220]   what kind of legacy would you want to leave when you die?
+[00:28:07.220 --> 00:28:09.540]   That thought in itself is self-centered.
+[00:28:10.440 --> 00:28:11.900]   You don't need a legacy.
+[00:28:11.900 --> 00:28:13.860]   Nobody needs to remember you,
+[00:28:13.860 --> 00:28:16.400]   other than the fact that you loved the Lord,
+[00:28:16.400 --> 00:28:18.000]   and then you went with the Lord, that's it.
+[00:28:18.000 --> 00:28:19.420]   Oh, I want to be known as a humble man.
+[00:28:19.420 --> 00:28:20.780]   I want to be known as this man.
+[00:28:20.780 --> 00:28:23.780]   I want to be known as a man who strove for God.
+[00:28:23.780 --> 00:28:26.780]   No, you don't need to be remembered, you're a servant.
+[00:28:26.780 --> 00:28:29.880]   If you did a good job, they'll remember Christ,
+[00:28:29.880 --> 00:28:32.100]   and then that's it.
+[00:28:32.100 --> 00:28:34.300]   He said, hallowed be your name, not my name.
+[00:28:34.300 --> 00:28:38.020]   How much of the headaches do we incur on ourselves
+[00:28:38.020 --> 00:28:41.660]   because we're so concerned about my life?
+[00:28:41.660 --> 00:28:43.500]   What kind of life, what kind of meaning,
+[00:28:43.500 --> 00:28:45.060]   what would I leave behind?
+[00:28:45.060 --> 00:28:47.140]   Don't worry about any of that.
+[00:28:47.140 --> 00:28:50.220]   Our single goal is hallowed be your name.
+[00:28:50.220 --> 00:28:54.300]   If because of you, other people love Christ,
+[00:28:54.300 --> 00:28:55.860]   and they don't even remember your name,
+[00:28:55.860 --> 00:28:56.860]   then you've done your job.
+[00:28:56.860 --> 00:28:58.980]   Then that's the best servant.
+[00:28:58.980 --> 00:29:02.060]   A servant is not somebody who leaves behind his name,
+[00:29:02.060 --> 00:29:05.820]   and his legacy, and they make a monument for you.
+[00:29:05.820 --> 00:29:06.820]   That's not a good servant.
+[00:29:06.820 --> 00:29:10.380]   A good servant basically points to his master,
+[00:29:10.380 --> 00:29:11.780]   and his master gets a credit
+[00:29:11.780 --> 00:29:13.820]   for everything that you've done.
+[00:29:13.820 --> 00:29:16.500]   The first beginning of the Lord's Prayer
+[00:29:16.500 --> 00:29:20.640]   is a surrender of lordship to him, that he's my master.
+[00:29:20.640 --> 00:29:24.220]   Hallowed be your name, not my name,
+[00:29:24.220 --> 00:29:27.420]   not other people's name, not our church's name,
+[00:29:27.420 --> 00:29:31.300]   but hallowed be your name, and your kingdom come.
+[00:29:31.300 --> 00:29:33.020]   Your kingdom come.
+[00:29:33.020 --> 00:29:35.380]   He's my master, and so it is his kingdom,
+[00:29:35.380 --> 00:29:37.260]   his will, his purpose, his glory,
+[00:29:37.260 --> 00:29:40.660]   his joy that we are praying for.
+[00:29:40.660 --> 00:29:44.340]   So first and foremost, we need to remember when we pray,
+[00:29:44.340 --> 00:29:47.060]   how much of the content of my prayer
+[00:29:47.060 --> 00:29:48.940]   is about my will being done?
+[00:29:48.940 --> 00:29:50.660]   How much of the content of my prayer
+[00:29:50.660 --> 00:29:54.380]   is a concern that my name is remembered,
+[00:29:54.380 --> 00:29:56.620]   and my reputation is built up?
+[00:29:56.620 --> 00:30:00.580]   Your will be done on earth as it is in heaven.
+[00:30:00.580 --> 00:30:02.020]   Repeatedly, over and over again,
+[00:30:02.020 --> 00:30:04.460]   the Bible reminds us that Jesus Christ
+[00:30:04.460 --> 00:30:06.540]   is Savior and Lord.
+[00:30:06.540 --> 00:30:08.700]   Luke 2:11, "For today in the city of David,
+[00:30:08.700 --> 00:30:11.420]   "there has been born for you a Savior
+[00:30:11.420 --> 00:30:14.580]   "who is Christ the Lord."
+[00:30:14.580 --> 00:30:16.700]   There's no other Lord above him, he is the Lord.
+[00:30:16.700 --> 00:30:19.060]   Romans 10:9, "If you confess with your mouth
+[00:30:19.060 --> 00:30:22.420]   "that Jesus as Lord," right?
+[00:30:22.420 --> 00:30:25.540]   "Not just Jesus as Savior, but Jesus as Lord,
+[00:30:25.540 --> 00:30:27.380]   "and believe in your heart that God raised him
+[00:30:27.380 --> 00:30:30.800]   "from the dead, you will be saved."
+[00:30:30.800 --> 00:30:32.860]   Now one of the core books that we have at our church,
+[00:30:32.860 --> 00:30:34.820]   we're reading it through the Bible study,
+[00:30:34.820 --> 00:30:37.240]   but again, another core book that we have
+[00:30:37.240 --> 00:30:38.820]   is Gospel According to Jesus,
+[00:30:38.820 --> 00:30:40.660]   which if you haven't read it,
+[00:30:40.660 --> 00:30:42.500]   I highly encourage you to read that,
+[00:30:42.500 --> 00:30:44.300]   because again, our generation,
+[00:30:44.300 --> 00:30:48.340]   the concept of Lord is offensive, right?
+[00:30:48.340 --> 00:30:50.700]   Because it's our will, it's our purpose,
+[00:30:50.700 --> 00:30:53.740]   it's our joy, but salvation comes
+[00:30:53.740 --> 00:30:55.420]   when we recognize his Lordship,
+[00:30:55.420 --> 00:30:59.420]   and it can't be just empty words, right?
+[00:30:59.420 --> 00:31:02.500]   So the question is, is he Lord?
+[00:31:02.500 --> 00:31:07.500]   Am I seeking his glory, his will, his honor, right?
+[00:31:07.500 --> 00:31:09.780]   Or am I concerned, am I using God
+[00:31:09.780 --> 00:31:11.300]   so that my family can be better?
+[00:31:11.300 --> 00:31:12.860]   Am I using God in prayer
+[00:31:12.860 --> 00:31:14.860]   so that my children will be taken care of?
+[00:31:14.860 --> 00:31:18.780]   Am I using God for my peace, for my marriage?
+[00:31:18.780 --> 00:31:21.660]   Or how much of our prayer is coming before the Lord,
+[00:31:21.660 --> 00:31:23.700]   seeking his will, his glory?
+[00:31:23.700 --> 00:31:27.060]   Acts 2:36, "Therefore, let all the house of Israel
+[00:31:27.060 --> 00:31:28.940]   "know for certain that God has made him
+[00:31:28.940 --> 00:31:33.380]   "both Lord and Christ, this Jesus whom you crucify."
+[00:31:33.380 --> 00:31:37.140]   Christ is Lord, repeated over and over again.
+[00:31:37.140 --> 00:31:40.020]   2 Corinthians 4, 5, "For we do not preach ourselves,
+[00:31:40.020 --> 00:31:42.620]   "but Christ Jesus as Lord."
+[00:31:42.620 --> 00:31:45.420]   Even the gospel preaching wasn't simply,
+[00:31:45.420 --> 00:31:48.020]   God loves you and wants to save you.
+[00:31:48.020 --> 00:31:50.460]   He says, no, he preached Christ as Lord.
+[00:31:50.460 --> 00:31:52.460]   He must be your Lord.
+[00:31:52.460 --> 00:31:54.380]   That's why we're in the condition that we're in,
+[00:31:54.380 --> 00:31:57.420]   because we rebelled against his Lordship.
+[00:31:57.420 --> 00:31:59.260]   So the whole purpose of preaching the gospel
+[00:31:59.260 --> 00:32:02.340]   is to bring a fallen, rebellious world
+[00:32:02.340 --> 00:32:04.580]   under his Lordship, right?
+[00:32:04.580 --> 00:32:06.680]   And that can't be just empty words.
+[00:32:06.680 --> 00:32:10.180]   It has to be the life of the church.
+[00:32:10.180 --> 00:32:12.740]   It has to be the content of our prayer,
+[00:32:12.740 --> 00:32:17.500]   that we wrestle with our flesh to make him our Lord, right?
+[00:32:17.500 --> 00:32:20.620]   Not simply with words, not simply in theology,
+[00:32:20.620 --> 00:32:22.780]   but is he really Lord?
+[00:32:24.380 --> 00:32:27.760]   1 Corinthians 6, 20 says, "You have been purchased
+[00:32:27.760 --> 00:32:31.740]   "with a price, therefore honor God with your body."
+[00:32:31.740 --> 00:32:33.780]   This is not our body.
+[00:32:33.780 --> 00:32:36.020]   This is not our life.
+[00:32:36.020 --> 00:32:38.380]   This is not my family.
+[00:32:38.380 --> 00:32:39.780]   This is not my future.
+[00:32:39.780 --> 00:32:41.680]   These are not my kids.
+[00:32:41.680 --> 00:32:42.780]   We have been purchased.
+[00:32:42.780 --> 00:32:44.780]   So everything that belongs to me
+[00:32:44.780 --> 00:32:48.060]   has been given to me as a steward.
+[00:32:48.060 --> 00:32:49.540]   I'm a steward of my family.
+[00:32:49.540 --> 00:32:51.360]   I'm a steward of my children.
+[00:32:51.360 --> 00:32:53.780]   I'm a steward of my possessions.
+[00:32:53.780 --> 00:32:55.180]   Then none of that belongs to me.
+[00:32:55.180 --> 00:32:57.260]   No servant stands before his master
+[00:32:57.260 --> 00:33:00.100]   and says, "That's yours, but this is mine."
+[00:33:00.100 --> 00:33:02.340]   If he's my master and he's my Lord,
+[00:33:02.340 --> 00:33:04.340]   everything I have belongs to him.
+[00:33:04.340 --> 00:33:06.380]   My children are his.
+[00:33:06.380 --> 00:33:07.380]   My family is his.
+[00:33:07.380 --> 00:33:08.400]   My future is his.
+[00:33:08.400 --> 00:33:10.540]   I belong to him, right?
+[00:33:10.540 --> 00:33:14.440]   So the first and foremost, he says, "Pray in this way.
+[00:33:14.440 --> 00:33:15.940]   "Pray to surrender."
+[00:33:15.940 --> 00:33:18.860]   Before you pray for anything,
+[00:33:18.860 --> 00:33:20.760]   no matter what's going on in your life,
+[00:33:20.760 --> 00:33:22.460]   the question we need to come before the Lord
+[00:33:22.460 --> 00:33:24.740]   and wrestle with is, "Am I surrendered?"
+[00:33:24.740 --> 00:33:27.740]   Am I surrendered?
+[00:33:27.740 --> 00:33:30.220]   And we're gonna go over what specific areas
+[00:33:30.220 --> 00:33:32.900]   that you need to surrender after.
+[00:33:32.900 --> 00:33:35.700]   Second part, he says, "Give us this day our daily bread."
+[00:33:35.700 --> 00:33:36.940]   This is a prayer, again,
+[00:33:36.940 --> 00:33:39.480]   in the vertical line of dependence.
+[00:33:39.480 --> 00:33:43.940]   You notice how he doesn't say, "Give me this day enough
+[00:33:43.940 --> 00:33:45.900]   "so that I don't have to worry about retirement."
+[00:33:45.900 --> 00:33:47.540]   There's nothing wrong with putting money away
+[00:33:47.540 --> 00:33:49.500]   for retirement, but you know that the contents
+[00:33:49.500 --> 00:33:51.640]   of his prayer is that, "Give me this day
+[00:33:51.640 --> 00:33:56.020]   "our my daily bread, my daily bread."
+[00:33:56.020 --> 00:33:59.380]   This is also a prayer of surrender, that I will trust you.
+[00:33:59.380 --> 00:34:01.300]   It doesn't mean that you shouldn't be responsible.
+[00:34:01.300 --> 00:34:04.560]   It doesn't mean that you shouldn't be good with money,
+[00:34:04.560 --> 00:34:07.220]   but the content of prayer is a prayer of surrender,
+[00:34:07.220 --> 00:34:13.140]   that my life, my decisions, what I do, that I rely on him,
+[00:34:13.140 --> 00:34:16.420]   not to collect more than what I need
+[00:34:16.420 --> 00:34:17.620]   so that I will be comfortable.
+[00:34:17.620 --> 00:34:19.860]   I don't wanna have to depend on him every day.
+[00:34:19.860 --> 00:34:22.360]   I wanna pray hard today, and then I collect enough
+[00:34:22.360 --> 00:34:24.520]   so I don't have to pray to him tomorrow,
+[00:34:24.520 --> 00:34:26.500]   so I don't have to rely on him next year.
+[00:34:26.500 --> 00:34:30.000]   That's our tendency, but he tells us
+[00:34:30.000 --> 00:34:31.480]   to pray specifically this way
+[00:34:31.480 --> 00:34:34.920]   because he wants us to depend on him every single day,
+[00:34:34.920 --> 00:34:36.800]   because we may depend on him tomorrow
+[00:34:36.800 --> 00:34:39.480]   and drift today and drift tomorrow.
+[00:34:39.480 --> 00:34:42.880]   We may depend on him this year and then drift the next year,
+[00:34:42.880 --> 00:34:46.000]   and so the principle that he was teaching the Israelites
+[00:34:46.000 --> 00:34:49.520]   when he told them to only collect manna for that day
+[00:34:49.520 --> 00:34:52.140]   is because he was trying to teach them,
+[00:34:52.140 --> 00:34:56.260]   trust me for tomorrow, be faithful today.
+[00:34:56.260 --> 00:34:57.900]   Trust me for tomorrow, be faithful.
+[00:34:57.900 --> 00:34:59.420]   How long do I do this?
+[00:34:59.420 --> 00:35:03.320]   Until I come, until I come.
+[00:35:03.320 --> 00:35:04.900]   Not until you have enough for retirement,
+[00:35:04.900 --> 00:35:08.460]   not until you have a nice house, but every single day.
+[00:35:08.460 --> 00:35:11.680]   So this is a prayer of dependence.
+[00:35:11.680 --> 00:35:14.580]   Do I really depend on him, or do I pray
+[00:35:14.580 --> 00:35:17.060]   so that I no longer have to depend on him?
+[00:35:17.060 --> 00:35:18.640]   I will not answer that prayer.
+[00:35:19.480 --> 00:35:24.480]   He's not going to self-defeat his main purpose,
+[00:35:24.480 --> 00:35:26.640]   because his primary purpose is
+[00:35:26.640 --> 00:35:28.340]   so that you will depend on him.
+[00:35:28.340 --> 00:35:33.480]   So if making you wealthy causes you to be independent,
+[00:35:33.480 --> 00:35:35.820]   he's going against his own will.
+[00:35:35.820 --> 00:35:38.440]   He cannot answer that prayer,
+[00:35:38.440 --> 00:35:42.840]   because if he answers that prayer, you will drift.
+[00:35:42.840 --> 00:35:44.440]   You will not pray.
+[00:35:44.440 --> 00:35:45.520]   You will not come to him.
+[00:35:45.520 --> 00:35:46.880]   You will become proud.
+[00:35:47.780 --> 00:35:50.160]   So that prayer is against his will.
+[00:35:50.160 --> 00:35:53.360]   His will is so that you and I would surrender.
+[00:35:53.360 --> 00:35:57.840]   Give us this day our daily bread.
+[00:35:57.840 --> 00:35:59.920]   Seek ye first the kingdom of God,
+[00:35:59.920 --> 00:36:02.820]   and all these things shall be added unto you.
+[00:36:02.820 --> 00:36:04.320]   He who did not spare his own son,
+[00:36:04.320 --> 00:36:06.400]   how will he not along with him give us all things?
+[00:36:06.400 --> 00:36:08.720]   Do you actually believe that?
+[00:36:08.720 --> 00:36:10.360]   It's easy to say Christ died for me.
+[00:36:10.360 --> 00:36:14.200]   I love God because he gave his only begotten son for me,
+[00:36:14.200 --> 00:36:17.860]   and then the very next minute we turn around,
+[00:36:17.860 --> 00:36:21.720]   I'm not sure if he will provide for my finances.
+[00:36:21.720 --> 00:36:24.740]   If you really believe and confess
+[00:36:24.740 --> 00:36:26.180]   that he gave his only begotten son,
+[00:36:26.180 --> 00:36:27.660]   how will he not along with him
+[00:36:27.660 --> 00:36:29.420]   give him everything that you need?
+[00:36:29.420 --> 00:36:34.660]   Why are we so anxious about what we don't have?
+[00:36:34.660 --> 00:36:37.340]   Does God not have the power to give it to you?
+[00:36:37.340 --> 00:36:40.380]   Is it because he doesn't love you enough?
+[00:36:40.380 --> 00:36:42.340]   How can you believe that he loved you so much
+[00:36:42.340 --> 00:36:44.960]   that he would give his only begotten son
+[00:36:44.960 --> 00:36:49.160]   and wrestle so much with trivial things in our lives?
+[00:36:49.160 --> 00:36:50.360]   He who did not spare his own things,
+[00:36:50.360 --> 00:36:53.040]   how will he not along with him give you all things?
+[00:36:53.040 --> 00:36:55.640]   So it says in James, do not say today or tomorrow
+[00:36:55.640 --> 00:36:58.400]   I will do this or that because we do not know
+[00:36:58.400 --> 00:37:00.600]   where we're gonna be tomorrow.
+[00:37:00.600 --> 00:37:02.960]   So this line, first and foremost,
+[00:37:02.960 --> 00:37:05.880]   is a prayer of dependence, prayer of lordship.
+[00:37:05.880 --> 00:37:07.640]   So if you can go to the next slide.
+[00:37:07.640 --> 00:37:11.640]   So this is what we're gonna be praying for specifically.
+[00:37:12.620 --> 00:37:16.000]   Is Christ lord over your finances?
+[00:37:16.000 --> 00:37:22.140]   We can talk about time, people, decisions,
+[00:37:22.140 --> 00:37:24.660]   but where the rubber meets the road is your money.
+[00:37:24.660 --> 00:37:27.660]   This is the reason why Jesus talks about this subject
+[00:37:27.660 --> 00:37:30.100]   so much because he says where your treasure is,
+[00:37:30.100 --> 00:37:32.620]   there your heart is.
+[00:37:32.620 --> 00:37:36.000]   So if Christ is not lord over your finances,
+[00:37:36.000 --> 00:37:37.680]   he probably isn't your lord.
+[00:37:37.680 --> 00:37:41.180]   You make him your lord, you'd say he's lord,
+[00:37:41.180 --> 00:37:44.380]   but he's not actually lord because lordship
+[00:37:44.380 --> 00:37:48.600]   is expressed through finances, right?
+[00:37:48.600 --> 00:37:53.020]   So is he lord over your finances, first and foremost, right?
+[00:37:53.020 --> 00:37:58.180]   Secondly, your time, look at the way you use your time.
+[00:37:58.180 --> 00:38:01.580]   Is he lord over your time?
+[00:38:01.580 --> 00:38:03.600]   Now I'm not saying that every single waking minute
+[00:38:03.600 --> 00:38:06.540]   that you have to be reading the Bible and studying,
+[00:38:06.540 --> 00:38:11.540]   but is worship of God something you do on Sunday
+[00:38:11.540 --> 00:38:16.420]   in a Bible study and then the rest of the time is yours?
+[00:38:16.420 --> 00:38:19.820]   Or is my whole life dedicated for his glory, right?
+[00:38:19.820 --> 00:38:25.200]   The use of your concern for future, right?
+[00:38:25.200 --> 00:38:27.700]   How much of what we choose not to do today
+[00:38:27.700 --> 00:38:31.040]   is because we're afraid we're not gonna get it tomorrow.
+[00:38:31.040 --> 00:38:32.780]   So he's not lord over your future.
+[00:38:32.780 --> 00:38:36.340]   Whatever tomorrow may bring, because of the decisions
+[00:38:36.340 --> 00:38:37.820]   and the things that I do today,
+[00:38:37.820 --> 00:38:40.620]   he's lord over today and tomorrow.
+[00:38:40.620 --> 00:38:44.400]   So if he is lord today, whatever that leads me to tomorrow,
+[00:38:44.400 --> 00:38:46.420]   he is also lord.
+[00:38:46.420 --> 00:38:48.700]   But oftentimes we don't wanna obey today
+[00:38:48.700 --> 00:38:51.940]   or we compromise today because we're concerned
+[00:38:51.940 --> 00:38:54.700]   that tomorrow we're not gonna get what we want.
+[00:38:54.700 --> 00:38:57.820]   Is he lord over your future?
+[00:38:57.820 --> 00:39:01.720]   Are you living your life today fully confident
+[00:39:01.720 --> 00:39:04.960]   that he is also lord over tomorrow, whatever that may be?
+[00:39:06.060 --> 00:39:08.620]   Your career, right?
+[00:39:08.620 --> 00:39:12.140]   How much of you are striving, praying, working,
+[00:39:12.140 --> 00:39:15.860]   compromising to get ahead in your career,
+[00:39:15.860 --> 00:39:18.260]   living in fear that you might lose your job
+[00:39:18.260 --> 00:39:20.860]   or you might not be able to advance in your job?
+[00:39:20.860 --> 00:39:27.660]   Or do you not believe that he is also lord over your career?
+[00:39:27.660 --> 00:39:31.860]   That what you have and don't have is in his hands, right?
+[00:39:31.860 --> 00:39:36.060]   I do what he wants me to do and whatever that leads to,
+[00:39:36.060 --> 00:39:39.420]   whether that leads to poverty, whether that leads to wealth,
+[00:39:39.420 --> 00:39:40.780]   he is lord.
+[00:39:40.780 --> 00:39:42.580]   Is he your lord?
+[00:39:42.580 --> 00:39:45.020]   Is he lord over your family and your children?
+[00:39:45.020 --> 00:39:49.200]   I can be, I don't have a problem making him lord
+[00:39:49.200 --> 00:39:51.900]   over my life, but is he also lord over your children?
+[00:39:51.900 --> 00:39:58.060]   That if you commit your children to the lord,
+[00:39:58.060 --> 00:39:59.860]   you're afraid that they might not be able to get
+[00:39:59.860 --> 00:40:01.000]   to the school that they want to.
+[00:40:01.000 --> 00:40:02.460]   They might not get married to the person
+[00:40:02.460 --> 00:40:03.700]   that you want them to get married to.
+[00:40:03.700 --> 00:40:06.620]   You may not have the career or the future
+[00:40:06.620 --> 00:40:08.300]   that maybe you want.
+[00:40:08.300 --> 00:40:11.180]   And so you don't have a problem surrendering yourself,
+[00:40:11.180 --> 00:40:13.760]   but maybe he's not lord over your children.
+[00:40:13.760 --> 00:40:18.240]   If he's lord, he's also lord over your children.
+[00:40:18.240 --> 00:40:21.700]   Wherever God takes you and wherever God takes you,
+[00:40:21.700 --> 00:40:25.420]   wherever God takes your children, he is also lord, right?
+[00:40:25.420 --> 00:40:29.920]   Is he lord over your reputation?
+[00:40:30.840 --> 00:40:31.940]   Right?
+[00:40:31.940 --> 00:40:34.420]   What other people think of you.
+[00:40:34.420 --> 00:40:37.580]   Are you paralyzed because you're concerned
+[00:40:37.580 --> 00:40:39.740]   that if you do certain things or not do certain things
+[00:40:39.740 --> 00:40:41.280]   that people will view you a certain way
+[00:40:41.280 --> 00:40:43.660]   and you do certain things because you're concerned
+[00:40:43.660 --> 00:40:46.040]   about the reputation of how people view you.
+[00:40:46.040 --> 00:40:50.940]   You want to be known as a godly man, a man of the Bible.
+[00:40:50.940 --> 00:40:52.420]   You want to be known as a gracious man.
+[00:40:52.420 --> 00:40:55.100]   You want to be known as a hard worker.
+[00:40:55.100 --> 00:40:58.380]   And so much of you is being driven
+[00:40:58.380 --> 00:41:02.320]   because of your reputation or how people will think of you,
+[00:41:02.320 --> 00:41:03.800]   whether good or bad.
+[00:41:03.800 --> 00:41:07.040]   That's not up to you to decide.
+[00:41:07.040 --> 00:41:08.860]   We just obey.
+[00:41:08.860 --> 00:41:10.640]   We just obey.
+[00:41:10.640 --> 00:41:13.900]   And even if you obey, you may get a bad reputation.
+[00:41:13.900 --> 00:41:18.440]   Even if you obey, people may criticize you,
+[00:41:18.440 --> 00:41:20.400]   question your motive.
+[00:41:20.400 --> 00:41:23.060]   How much of our lives are paralyzed
+[00:41:23.060 --> 00:41:24.800]   because we're concerned about what other people
+[00:41:24.800 --> 00:41:27.180]   will think of us and we can't live in full obedience.
+[00:41:27.180 --> 00:41:29.560]   We can only obey in the things
+[00:41:29.560 --> 00:41:31.340]   that keeps us in a safe zone.
+[00:41:31.340 --> 00:41:33.620]   Is he Lord?
+[00:41:33.620 --> 00:41:37.760]   So the first part of prayer is established lordship.
+[00:41:37.760 --> 00:41:42.760]   Am I seeking his glory, his will, not mine?
+[00:41:42.760 --> 00:41:45.120]   Am I depending on him?
+[00:41:45.120 --> 00:41:47.480]   So when he says, if you abide in me,
+[00:41:47.480 --> 00:41:50.160]   in my words abide in you, ask whatever you wish,
+[00:41:50.160 --> 00:41:51.040]   it shall be done for you.
+[00:41:51.040 --> 00:41:53.480]   In other words, there's a condition to effective prayer.
+[00:41:53.480 --> 00:41:56.500]   We can be here all night crying out
+[00:41:56.500 --> 00:42:00.480]   and praying passionately and God does not hear
+[00:42:00.480 --> 00:42:04.880]   a single word because it has nothing to do with his will.
+[00:42:04.880 --> 00:42:07.980]   We're praying against his will
+[00:42:07.980 --> 00:42:09.820]   and God will not answer that prayer
+[00:42:09.820 --> 00:42:13.580]   because God knows what is best for you
+[00:42:13.580 --> 00:42:15.940]   and what is best for me and what is best for our church
+[00:42:15.940 --> 00:42:20.340]   is for his will to be done, for his glory to shine
+[00:42:20.340 --> 00:42:23.200]   because the moment we seek our glory,
+[00:42:23.200 --> 00:42:26.460]   we will drift from him and that is the worst place
+[00:42:26.460 --> 00:42:28.760]   for any child of God to be.
+[00:42:28.760 --> 00:42:31.540]   So first and foremost, as we surrender these things,
+[00:42:31.540 --> 00:42:34.180]   as we pray, let's be honest with ourselves.
+[00:42:34.180 --> 00:42:36.660]   Don't skim over these things.
+[00:42:36.660 --> 00:42:41.300]   As you think about these areas, is he truly Lord?
+[00:42:41.300 --> 00:42:43.000]   Maybe you focus so much energy
+[00:42:43.000 --> 00:42:44.560]   on what other people are not doing
+[00:42:44.560 --> 00:42:47.300]   and you become blind to the areas
+[00:42:47.300 --> 00:42:51.060]   and you just kind of excused certain things
+[00:42:51.060 --> 00:42:54.480]   because certain things you deemed more important.
+[00:42:54.480 --> 00:43:00.180]   Don't focus your prayer on what other people need to do.
+[00:43:00.180 --> 00:43:02.300]   Tonight, when we pray, at least for the first part,
+[00:43:02.300 --> 00:43:04.540]   pray along these lines.
+[00:43:04.540 --> 00:43:06.340]   If there's any part of it that I'm wrestling with
+[00:43:06.340 --> 00:43:08.820]   that I did not give to the Lord, come before the Lord.
+[00:43:08.820 --> 00:43:13.740]   Lord, hallowed be your name, that your kingdom come,
+[00:43:13.740 --> 00:43:15.980]   your will be done on earth as it is in heaven.
+[00:43:15.980 --> 00:43:19.060]   So let's pray for the next about 15 minutes
+[00:43:19.060 --> 00:43:20.460]   and then I'll come back and I'll get us
+[00:43:20.460 --> 00:43:23.540]   to the horizontal line and then we'll bring us
+[00:43:23.540 --> 00:43:24.460]   back together, okay?
+[00:43:24.460 --> 00:43:25.820]   So let's pray for about 15 minutes
+[00:43:25.820 --> 00:43:27.420]   and I'll bring us back together.
+[00:43:27.420 --> 00:43:33.580]   (gentle music)
+[00:43:33.580 --> 00:43:41.120]   (gentle music)
+[00:43:41.120 --> 00:43:43.700]   (gentle music)
+[00:43:43.700 --> 00:43:46.280]   (gentle music)
+[00:43:46.440 --> 00:43:49.020]   (gentle music)
+[00:43:49.020 --> 00:43:53.760]   (gentle music)
+[00:43:53.760 --> 00:43:59.900]   (gentle music)
+[00:43:59.900 --> 00:44:06.160]   (gentle music)
+[00:44:06.160 --> 00:44:12.320]   (gentle music)
+[00:44:12.320 --> 00:44:14.900]   (gentle music)
+[00:44:15.380 --> 00:44:17.960]   (gentle music)
+[00:44:17.960 --> 00:44:35.780]   (gentle music)
+[00:44:35.780 --> 00:44:42.680]   (gentle music)
+[00:44:42.880 --> 00:44:45.460]   (gentle music)
+[00:44:45.460 --> 00:44:54.800]   (gentle music)
+[00:44:54.800 --> 00:45:02.600]   (gentle music)
+[00:45:10.360 --> 00:45:12.940]   (gentle music)
+[00:45:12.940 --> 00:45:24.920]   (gentle music)
+[00:45:24.920 --> 00:45:34.840]   (gentle music)
+[00:45:35.340 --> 00:45:37.920]   (gentle music)
+[00:45:37.920 --> 00:45:55.500]   (gentle music)
+[00:45:55.500 --> 00:45:58.080]   (gentle music)
+[00:45:58.080 --> 00:46:18.380]   (gentle music)
+[00:46:19.380 --> 00:46:21.960]   (gentle music)
+[00:46:21.960 --> 00:46:34.200]   (gentle music)
+[00:46:34.200 --> 00:46:47.740]   (gentle music)
+[00:46:47.740 --> 00:46:50.320]   (gentle music)
+[00:46:50.320 --> 00:47:02.960]   (gentle music)
+[00:47:02.960 --> 00:47:05.540]   (gentle music)
+[00:47:05.540 --> 00:47:20.180]   (gentle music)
+[00:47:20.340 --> 00:47:22.920]   (gentle music)
+[00:47:22.920 --> 00:47:39.900]   (gentle music)
+[00:47:39.900 --> 00:47:42.480]   (gentle music)
+[00:47:42.480 --> 00:47:45.060]   (gentle music)
+[00:47:45.420 --> 00:47:48.000]   (gentle music)
+[00:47:48.000 --> 00:48:08.020]   (gentle music)
+[00:48:08.020 --> 00:48:10.600]   (gentle music)
+[00:48:10.600 --> 00:48:13.180]   (gentle music)
+[00:48:13.180 --> 00:48:15.760]   (gentle music)
+[00:48:15.760 --> 00:48:18.340]   (gentle music)
+[00:48:18.340 --> 00:48:20.920]   (gentle music)
+[00:48:21.500 --> 00:48:24.080]   (gentle music)
+[00:48:24.080 --> 00:48:38.580]   (gentle music)
+[00:48:38.660 --> 00:48:41.240]   (gentle music)
+[00:48:41.240 --> 00:48:58.240]   (gentle music)
+[00:48:58.320 --> 00:49:00.900]   (gentle music)
+[00:49:00.900 --> 00:49:15.860]   (gentle music)
+[00:49:15.860 --> 00:49:26.900]   (gentle music)
+[00:49:26.980 --> 00:49:29.560]   (gentle music)
+[00:49:29.560 --> 00:49:45.560]   (gentle music)
+[00:49:45.640 --> 00:49:48.220]   (gentle music)
+[00:49:48.220 --> 00:50:02.220]   (gentle music)
+[00:50:02.300 --> 00:50:04.880]   (gentle music)
+[00:50:04.880 --> 00:50:18.880]   (gentle music)
+[00:50:18.880 --> 00:50:28.880]   (gentle music)
+[00:50:28.960 --> 00:50:31.540]   (gentle music)
+[00:50:31.540 --> 00:50:45.540]   (gentle music)
+[00:50:45.540 --> 00:50:55.540]   (gentle music)
+[00:50:55.620 --> 00:50:58.200]   (gentle music)
+[00:50:58.200 --> 00:51:08.200]   (gentle music)
+[00:51:08.200 --> 00:51:16.200]   (gentle music)
+[00:51:16.280 --> 00:51:18.860]   (gentle music)
+[00:51:18.860 --> 00:51:32.860]   (gentle music)
+[00:51:32.860 --> 00:51:42.860]   (gentle music)
+[00:51:42.940 --> 00:51:45.520]   (gentle music)
+[00:51:45.520 --> 00:51:58.520]   (gentle music)
+[00:51:58.520 --> 00:52:12.520]   (gentle music)
+[00:52:12.600 --> 00:52:15.180]   (gentle music)
+[00:52:15.180 --> 00:52:26.180]   (gentle music)
+[00:52:26.180 --> 00:52:39.180]   (gentle music)
+[00:52:39.260 --> 00:52:41.840]   (gentle music)
+[00:52:41.840 --> 00:52:52.840]   (gentle music)
+[00:52:52.840 --> 00:53:05.840]   (gentle music)
+[00:53:05.920 --> 00:53:08.500]   (gentle music)
+[00:53:08.500 --> 00:53:21.500]   (gentle music)
+[00:53:21.500 --> 00:53:31.500]   (gentle music)
+[00:53:31.580 --> 00:53:34.160]   (gentle music)
+[00:53:34.160 --> 00:53:47.160]   (gentle music)
+[00:53:47.160 --> 00:53:57.160]   (gentle music)
+[00:53:57.240 --> 00:53:59.820]   (gentle music)
+[00:53:59.820 --> 00:54:10.820]   (gentle music)
+[00:54:10.820 --> 00:54:20.820]   (gentle music)
+[00:54:20.900 --> 00:54:23.480]   (gentle music)
+[00:54:23.480 --> 00:54:36.480]   (gentle music)
+[00:54:36.480 --> 00:54:46.480]   (gentle music)
+[00:54:46.560 --> 00:54:49.140]   (gentle music)
+[00:54:49.140 --> 00:55:00.140]   (gentle music)
+[00:55:00.140 --> 00:55:10.140]   (gentle music)
+[00:55:10.220 --> 00:55:12.800]   (gentle music)
+[00:55:12.800 --> 00:55:39.800]   (gentle music)
+[00:55:39.880 --> 00:55:42.460]   (gentle music)
+[00:55:42.460 --> 00:55:55.460]   (gentle music)
+[00:55:55.460 --> 00:56:05.460]   (gentle music)
+[00:56:05.540 --> 00:56:08.120]   (gentle music)
+[00:56:08.120 --> 00:56:19.120]   (gentle music)
+[00:56:19.120 --> 00:56:29.120]   (gentle music)
+[00:56:29.200 --> 00:56:31.780]   (gentle music)
+[00:56:31.780 --> 00:56:44.780]   (gentle music)
+[00:56:44.780 --> 00:56:54.780]   (gentle music)
+[00:56:54.860 --> 00:56:57.440]   (gentle music)
+[00:56:57.440 --> 00:57:15.440]   (gentle music)
+[00:57:15.520 --> 00:57:18.100]   (gentle music)
+[00:57:18.100 --> 00:57:28.100]   (gentle music)
+[00:57:28.100 --> 00:57:38.100]   (gentle music)
+[00:57:38.180 --> 00:57:40.760]   (gentle music)
+[00:57:40.760 --> 00:57:54.760]   (gentle music)
+[00:57:54.760 --> 00:58:04.760]   (gentle music)
+[00:58:04.840 --> 00:58:07.420]   (gentle music)
+[00:58:07.420 --> 00:58:18.420]   (gentle music)
+[00:58:18.420 --> 00:58:31.420]   (gentle music)
+[00:58:31.500 --> 00:58:34.080]   (gentle music)
+[00:58:34.080 --> 00:58:44.080]   (gentle music)
+[00:58:44.080 --> 00:58:54.080]   (gentle music)
+[00:58:54.160 --> 00:58:56.740]   (gentle music)
+[00:58:56.740 --> 00:59:13.740]   - Let's get to the second part.
+[00:59:13.740 --> 00:59:19.120]   If you can go back, yeah, to the second part.
+[00:59:19.120 --> 00:59:21.240]   First part of the prayer is our
+[00:59:21.240 --> 00:59:22.860]   horizontal relationship with God.
+[00:59:22.860 --> 00:59:24.320]   And then the second part where it says,
+[00:59:24.320 --> 00:59:28.240]   "And forgive us our debts as we also forgive our debtors."
+[00:59:28.240 --> 00:59:30.860]   And so this is a prayer of our relationship
+[00:59:30.860 --> 00:59:33.160]   with other people to practice grace.
+[00:59:33.160 --> 00:59:35.040]   And then, "Do not lead us into temptation,
+[00:59:35.040 --> 00:59:36.540]   "but deliver us from evil."
+[00:59:36.540 --> 00:59:39.500]   And this is a practice of self-control.
+[00:59:39.500 --> 00:59:42.040]   And so, first and foremost,
+[00:59:42.040 --> 00:59:43.660]   if we're not surrendered before God,
+[00:59:43.660 --> 00:59:46.160]   whatever horizontal relationship that we have,
+[00:59:46.160 --> 00:59:49.200]   it may be a result of not surrendering.
+[00:59:49.200 --> 00:59:51.200]   It may be a result of being selfish
+[00:59:51.200 --> 00:59:52.880]   and seeking our own glory.
+[00:59:52.880 --> 00:59:55.540]   And sometimes, even as we're doing God's work,
+[00:59:55.540 --> 00:59:59.000]   so much of it is we want our face to be seen.
+[00:59:59.000 --> 01:00:00.700]   And even as we are preaching,
+[01:00:00.700 --> 01:00:03.460]   even as we are doing God's work,
+[01:00:03.460 --> 01:00:05.380]   so much of it, if we're not careful,
+[01:00:05.380 --> 01:00:06.920]   is seeking our own glory.
+[01:00:06.920 --> 01:00:11.340]   But as that is established, the other part of it is,
+[01:00:11.340 --> 01:00:13.460]   he says, "Ask for forgiveness."
+[01:00:13.460 --> 01:00:17.340]   But there's a condition to that, right?
+[01:00:17.400 --> 01:00:20.060]   Don't ask God to be gracious
+[01:00:20.060 --> 01:00:23.640]   if you refuse to be gracious, right?
+[01:00:23.640 --> 01:00:25.640]   Don't expect grace from others
+[01:00:25.640 --> 01:00:27.220]   if that's not what you're practicing.
+[01:00:27.220 --> 01:00:30.140]   He says, "Forgive us our debts
+[01:00:30.140 --> 01:00:32.680]   "as we also have forgiven our debtors."
+[01:00:32.680 --> 01:00:36.760]   This is a practice of love with one another, right?
+[01:00:36.760 --> 01:00:39.180]   If you have a habit of surrounding yourself
+[01:00:39.180 --> 01:00:41.340]   with people that you like,
+[01:00:41.340 --> 01:00:43.100]   you're not practicing Jesus' love.
+[01:00:43.100 --> 01:00:45.980]   You're practicing love that the world practices.
+[01:00:45.980 --> 01:00:48.400]   It's no different than the world, right?
+[01:00:48.400 --> 01:00:51.520]   But this is a love that makes us different
+[01:00:51.520 --> 01:00:52.520]   from the rest of the world.
+[01:00:52.520 --> 01:00:54.240]   The world will know we are his disciples
+[01:00:54.240 --> 01:00:57.040]   if we have love for one another as Jesus loved us.
+[01:00:57.040 --> 01:00:59.280]   Then they will know we're his disciples.
+[01:00:59.280 --> 01:01:01.400]   So if all we practice is love
+[01:01:01.400 --> 01:01:03.680]   toward people who are lovable,
+[01:01:03.680 --> 01:01:05.360]   that's not a Christian love.
+[01:01:05.360 --> 01:01:07.600]   That's just love that the world practices.
+[01:01:07.600 --> 01:01:09.980]   So he says, "First and foremost,
+[01:01:09.980 --> 01:01:11.020]   "we have to make an effort,
+[01:01:11.020 --> 01:01:13.440]   "and nothing will kill your pride
+[01:01:14.440 --> 01:01:15.640]   "more than loving somebody
+[01:01:15.640 --> 01:01:17.560]   "that you don't think deserves it."
+[01:01:17.560 --> 01:01:21.160]   Nothing will kill your pride and your will
+[01:01:21.160 --> 01:01:24.480]   more than when you are actively pursuing somebody
+[01:01:24.480 --> 01:01:25.560]   who doesn't like you.
+[01:01:25.560 --> 01:01:30.280]   But that's what he tells us to do, right?
+[01:01:30.280 --> 01:01:34.720]   "Forgive us our debts as we have forgiven our debtors."
+[01:01:34.720 --> 01:01:36.340]   Maybe some of you are just nice people
+[01:01:36.340 --> 01:01:37.600]   and you don't know a single person
+[01:01:37.600 --> 01:01:40.840]   that they don't like you or you don't like them, right?
+[01:01:40.840 --> 01:01:43.640]   That may be, that may be,
+[01:01:43.640 --> 01:01:45.020]   again, I'm not saying that it is,
+[01:01:45.020 --> 01:01:49.540]   that may be because you live in fear of a man, right?
+[01:01:49.540 --> 01:01:52.180]   That you're speaking love,
+[01:01:52.180 --> 01:01:54.620]   but you're not speaking the truth in love.
+[01:01:54.620 --> 01:01:56.660]   I don't know anybody who lives,
+[01:01:56.660 --> 01:01:58.740]   tries to live a righteous life
+[01:01:58.740 --> 01:02:01.340]   who doesn't have conflict with some people,
+[01:02:01.340 --> 01:02:03.420]   even with good intentions.
+[01:02:03.420 --> 01:02:04.860]   And so if we're not in the habit
+[01:02:04.860 --> 01:02:07.980]   of practicing grace with one another,
+[01:02:07.980 --> 01:02:10.460]   there's no way that you can have a relationship
+[01:02:10.460 --> 01:02:12.260]   with other sinners.
+[01:02:12.260 --> 01:02:16.180]   And so this is not a prayer for just a few people
+[01:02:16.180 --> 01:02:18.580]   who happen to have hard personalities.
+[01:02:18.580 --> 01:02:20.660]   Anybody who wants to live a righteous life,
+[01:02:20.660 --> 01:02:22.820]   anybody who is living in a sinful world
+[01:02:22.820 --> 01:02:24.380]   is gonna have conflicts with people.
+[01:02:24.380 --> 01:02:25.820]   Some of it may be genuine,
+[01:02:25.820 --> 01:02:27.660]   some of it may be misunderstanding,
+[01:02:27.660 --> 01:02:29.460]   some of it, they may deserve it.
+[01:02:29.460 --> 01:02:34.000]   But he calls us, he says, "Forgive us our debts
+[01:02:34.000 --> 01:02:36.260]   "as we have forgiven others."
+[01:02:36.260 --> 01:02:38.540]   In other words, you've done that first.
+[01:02:38.540 --> 01:02:40.020]   Before you come to the altar,
+[01:02:40.020 --> 01:02:43.700]   he says, "To reconcile with your brother first."
+[01:02:43.700 --> 01:02:47.140]   Get that right, if anything, in your heart
+[01:02:47.140 --> 01:02:52.100]   that you are committing to be gracious, to be loving.
+[01:02:52.100 --> 01:02:54.540]   So the question naturally is,
+[01:02:54.540 --> 01:02:56.380]   if you're gonna ask God for forgiveness,
+[01:02:56.380 --> 01:02:58.980]   we have to remember what he's forgiven us for.
+[01:02:58.980 --> 01:03:00.740]   How faithful have you been?
+[01:03:00.740 --> 01:03:03.180]   If you're concerned about the faithfulness of other people,
+[01:03:03.180 --> 01:03:05.540]   how faithful have you been?
+[01:03:05.540 --> 01:03:07.580]   Did you deserve, when you asked for forgiveness,
+[01:03:07.580 --> 01:03:11.340]   were you asking for something that you deserve?
+[01:03:11.340 --> 01:03:12.180]   Did you earn that?
+[01:03:12.180 --> 01:03:13.920]   No, you're begging for mercy.
+[01:03:13.920 --> 01:03:16.500]   So there's somebody in our lives
+[01:03:16.500 --> 01:03:19.100]   that don't deserve your forgiveness.
+[01:03:19.100 --> 01:03:21.000]   They don't deserve your grace,
+[01:03:21.000 --> 01:03:23.460]   just as you and I did not deserve it.
+[01:03:23.460 --> 01:03:25.900]   If we think long and hard about our position
+[01:03:25.900 --> 01:03:28.660]   before this holy God, every single one of us
+[01:03:28.660 --> 01:03:31.100]   is here because God showed mercy to us.
+[01:03:31.100 --> 01:03:32.900]   All he's telling us to do
+[01:03:32.900 --> 01:03:36.420]   is to practice what we preach with other people.
+[01:03:36.420 --> 01:03:38.860]   And then he says, do not lead us into temptation,
+[01:03:38.860 --> 01:03:41.020]   but deliver us from evil.
+[01:03:41.020 --> 01:03:46.940]   So the question is, usually the temptation comes
+[01:03:46.940 --> 01:03:49.360]   often because what we covet.
+[01:03:49.360 --> 01:03:54.620]   We covet, if you're struggling with purity,
+[01:03:54.620 --> 01:03:57.980]   you're coveting something that God didn't give you.
+[01:03:57.980 --> 01:04:01.900]   Belongs to somebody else, and you want that.
+[01:04:01.900 --> 01:04:03.780]   And that's where lust comes from.
+[01:04:04.740 --> 01:04:07.020]   God didn't give it to you, that's not yours
+[01:04:07.020 --> 01:04:11.660]   until God says she is yours at the altar.
+[01:04:11.660 --> 01:04:13.620]   But until that happens, she's not yours,
+[01:04:13.620 --> 01:04:15.700]   God didn't give that person to you.
+[01:04:15.700 --> 01:04:17.660]   And so usually temptation comes
+[01:04:17.660 --> 01:04:20.140]   when we covet what other people have.
+[01:04:20.140 --> 01:04:21.980]   That could be money, that could be time,
+[01:04:21.980 --> 01:04:23.900]   that could be reputation.
+[01:04:23.900 --> 01:04:25.900]   But when we covet what other people have,
+[01:04:25.900 --> 01:04:27.940]   some people are married, some people have children,
+[01:04:27.940 --> 01:04:30.820]   some people have good jobs, some people have a nice house.
+[01:04:30.860 --> 01:04:34.780]   And so the temptation comes when we begin to compare.
+[01:04:34.780 --> 01:04:37.660]   If you're living out in the desert with nobody around you,
+[01:04:37.660 --> 01:04:39.940]   none of that matters.
+[01:04:39.940 --> 01:04:42.940]   If you're living out in the desert and you're doing fine,
+[01:04:42.940 --> 01:04:44.500]   you have food to eat and you have a shelter,
+[01:04:44.500 --> 01:04:47.720]   you're not freezing to death and you can take a bath,
+[01:04:47.720 --> 01:04:50.220]   you're not coveting to have a nice car,
+[01:04:50.220 --> 01:04:51.860]   you're not coveting to have a nice house.
+[01:04:51.860 --> 01:04:55.380]   You covet because you live among other people who have it.
+[01:04:55.380 --> 01:04:57.260]   And so we watch those things
+[01:04:57.260 --> 01:04:59.460]   and then we allow it to come into our eyes
+[01:04:59.460 --> 01:05:01.340]   and then we allow it to percolate
+[01:05:01.340 --> 01:05:03.220]   and then we convince ourselves
+[01:05:03.220 --> 01:05:05.940]   something that we want is a need.
+[01:05:05.940 --> 01:05:08.760]   And then that's what leads us to temptation.
+[01:05:08.760 --> 01:05:11.660]   And so the self-control part of it is one,
+[01:05:11.660 --> 01:05:15.300]   the natural question is, what are you doing
+[01:05:15.300 --> 01:05:20.300]   that causes you to allow coveting to be normal in your life?
+[01:05:20.300 --> 01:05:22.180]   You know, we talk about window shopping.
+[01:05:22.180 --> 01:05:23.740]   Like long time ago, people would go to the mall
+[01:05:23.740 --> 01:05:24.860]   and say, "We're gonna window shopping."
+[01:05:24.860 --> 01:05:28.740]   Window shopping basically is going to see what I want.
+[01:05:28.740 --> 01:05:30.540]   I have no intention to buy it,
+[01:05:30.540 --> 01:05:32.420]   but I'm gonna fill my heart and my mind
+[01:05:32.420 --> 01:05:36.740]   with things that I'm not intending to buy, right?
+[01:05:36.740 --> 01:05:37.940]   But I'm gonna go take a look
+[01:05:37.940 --> 01:05:40.780]   and put it all in my mind and in my heart.
+[01:05:40.780 --> 01:05:42.460]   Of course, you're gonna eventually buy it.
+[01:05:42.460 --> 01:05:44.180]   When you come home, you're gonna be thinking about it,
+[01:05:44.180 --> 01:05:45.900]   you're gonna be saving money with it,
+[01:05:45.900 --> 01:05:48.260]   you're gonna watch if they have it.
+[01:05:48.260 --> 01:05:50.660]   And so you deliberately placed yourself in a place
+[01:05:50.660 --> 01:05:52.060]   where you're gonna end up coveting things
+[01:05:52.060 --> 01:05:54.120]   that you're telling yourself you're not gonna get it,
+[01:05:54.120 --> 01:05:56.860]   of course you're gonna get it, or at least try to get it.
+[01:05:56.860 --> 01:06:00.300]   The problem with today is the coveting is on your phone.
+[01:06:00.300 --> 01:06:01.140]   Right?
+[01:06:01.140 --> 01:06:03.420]   It's on Instagram, you see what other people are doing,
+[01:06:03.420 --> 01:06:05.500]   and they're highlighting the best parts of their life,
+[01:06:05.500 --> 01:06:07.100]   and then you watch that and you covet it,
+[01:06:07.100 --> 01:06:08.340]   and the next thing you know,
+[01:06:08.340 --> 01:06:10.940]   you convince yourself that you also need it.
+[01:06:10.940 --> 01:06:12.940]   They went to this place, I need to go there.
+[01:06:12.940 --> 01:06:15.260]   They ate that food, I need to eat that.
+[01:06:15.260 --> 01:06:19.100]   And so we fill ourselves with coveting.
+[01:06:19.100 --> 01:06:23.320]   And so we live every single day coveting.
+[01:06:23.320 --> 01:06:26.020]   And so the natural question that we need to ask ourselves
+[01:06:26.020 --> 01:06:29.140]   is what am I doing to allow the coveting
+[01:06:29.140 --> 01:06:31.520]   to be normal in my life?
+[01:06:31.520 --> 01:06:32.700]   What am I watching?
+[01:06:32.700 --> 01:06:35.580]   What am I comparing with?
+[01:06:35.580 --> 01:06:39.660]   So this next part of it, the prayer, next one.
+[01:06:39.660 --> 01:06:43.860]   No.
+[01:06:43.860 --> 01:06:50.100]   Yeah, so pray, pray that God will give you strength
+[01:06:50.100 --> 01:06:52.820]   to forgive anyone who may have wronged you.
+[01:06:52.820 --> 01:06:55.680]   My guess is almost anybody in this room
+[01:06:55.680 --> 01:06:58.060]   will have somebody that you have been harboring
+[01:06:58.060 --> 01:07:00.260]   some kind of bitterness, okay?
+[01:07:00.260 --> 01:07:02.160]   Maybe you just swept it under the rug,
+[01:07:02.160 --> 01:07:04.580]   but when you think long and hard about it,
+[01:07:04.580 --> 01:07:06.820]   I think almost everybody in this room
+[01:07:06.820 --> 01:07:09.580]   could think of somebody that we feel like,
+[01:07:09.580 --> 01:07:12.460]   maybe I need to let this go, right?
+[01:07:12.460 --> 01:07:16.060]   Ask God for strength to practice
+[01:07:16.060 --> 01:07:17.820]   what we're asking him to do for us.
+[01:07:17.820 --> 01:07:20.260]   Pray that God will deliver you from grudges or bitterness
+[01:07:20.260 --> 01:07:23.540]   that you have been harboring in your heart towards someone.
+[01:07:23.540 --> 01:07:25.760]   And you do not realize when you harbor bitterness
+[01:07:25.760 --> 01:07:26.840]   and you don't let it go,
+[01:07:26.840 --> 01:07:30.120]   how much of that affects the way you look at scripture,
+[01:07:30.120 --> 01:07:31.820]   how much of that affects your evangelism,
+[01:07:31.820 --> 01:07:33.480]   how much of that affects your theology.
+[01:07:33.480 --> 01:07:35.200]   You don't even know.
+[01:07:35.200 --> 01:07:38.240]   That it taints, it's like reading the Bible
+[01:07:38.240 --> 01:07:42.120]   with sunglasses on, and everything is seen through that lens
+[01:07:42.120 --> 01:07:45.680]   when you allow bitterness and hatred
+[01:07:45.680 --> 01:07:48.480]   to harbor in our hearts, okay?
+[01:07:48.480 --> 01:07:51.800]   So ask the Lord to remove that,
+[01:07:51.800 --> 01:07:54.360]   and you would actively try to remove that.
+[01:07:54.360 --> 01:07:55.720]   Pray for deliverance against anything
+[01:07:55.720 --> 01:07:57.120]   that you have been coveting.
+[01:07:57.120 --> 01:08:01.160]   What is it in your heart right now that you're coveting,
+[01:08:01.160 --> 01:08:03.920]   that you somehow convince, I need to have that?
+[01:08:03.920 --> 01:08:05.880]   I need to have that house, I need to have that car,
+[01:08:05.880 --> 01:08:07.400]   I need to have this vacation,
+[01:08:07.400 --> 01:08:11.560]   and it's always in the back of your mind, right?
+[01:08:11.560 --> 01:08:14.080]   And you're looking at it, you're looking at advertisement,
+[01:08:14.080 --> 01:08:17.020]   you're looking at online, you're making jotting notes,
+[01:08:17.020 --> 01:08:19.600]   and you don't realize how much of that has filled your heart
+[01:08:19.600 --> 01:08:21.880]   and you don't realize how much of that is affecting
+[01:08:21.880 --> 01:08:24.400]   the way you're looking at scripture.
+[01:08:24.400 --> 01:08:25.680]   You don't realize how much of that
+[01:08:25.680 --> 01:08:29.680]   is affecting you bearing fruit, right?
+[01:08:29.680 --> 01:08:30.680]   And you think, well, I'm coveting,
+[01:08:30.680 --> 01:08:33.320]   nobody knows, it's in my heart, right?
+[01:08:33.320 --> 01:08:35.480]   But the Holy Spirit illuminates us,
+[01:08:35.480 --> 01:08:37.360]   and if we have blinders on
+[01:08:37.360 --> 01:08:39.720]   because we allow coveting to be normal,
+[01:08:39.720 --> 01:08:42.040]   you don't even realize how much of that
+[01:08:42.040 --> 01:08:43.660]   is causing you to be blind.
+[01:08:43.660 --> 01:08:45.920]   You're not seeing scripture,
+[01:08:45.920 --> 01:08:48.960]   you're not seeing God with pure eyes.
+[01:08:48.960 --> 01:08:52.300]   You're seeing God through a lens of coveting.
+[01:08:52.300 --> 01:08:53.920]   And even the way that you project
+[01:08:53.920 --> 01:08:55.600]   what is right and what is wrong
+[01:08:55.600 --> 01:08:58.160]   is coming through your desire for something
+[01:08:58.160 --> 01:09:00.240]   that has nothing to do with God.
+[01:09:00.240 --> 01:09:03.320]   Pray that God would deliver you from whatever coveting
+[01:09:03.320 --> 01:09:04.800]   that you recognize in your heart.
+[01:09:04.800 --> 01:09:06.760]   Pray for deliverance of specific temptations
+[01:09:06.760 --> 01:09:08.920]   that you need victory over, right?
+[01:09:08.920 --> 01:09:11.200]   At a young church, and even in an old church,
+[01:09:11.200 --> 01:09:15.120]   sexual sin is always at the top of the list.
+[01:09:15.120 --> 01:09:18.580]   Don't ever normalize.
+[01:09:18.580 --> 01:09:21.640]   Don't ever normalize sexual sin
+[01:09:21.640 --> 01:09:23.840]   just because we all struggle with it.
+[01:09:23.840 --> 01:09:27.840]   Don't ever let anybody tell you that that's okay.
+[01:09:27.840 --> 01:09:30.080]   It is not okay, right?
+[01:09:30.080 --> 01:09:32.280]   All other sins, you sin outside your body,
+[01:09:32.280 --> 01:09:34.680]   but this sexual sin, he said, you sin against your body.
+[01:09:34.680 --> 01:09:36.680]   Do you not know that you are a temple of God,
+[01:09:36.680 --> 01:09:39.220]   and the Spirit of God dwells in you?
+[01:09:39.220 --> 01:09:42.440]   God says he made this his dwelling,
+[01:09:42.440 --> 01:09:45.360]   and we cannot use this, right?
+[01:09:45.360 --> 01:09:48.660]   You cannot use this in an unholy manner,
+[01:09:48.660 --> 01:09:52.020]   and so struggle, fight.
+[01:09:52.020 --> 01:09:55.900]   Like Jesus said, even if you have to cut off your left hand
+[01:09:55.900 --> 01:09:57.940]   and gouge out your eyes, he said, to that extent,
+[01:09:57.940 --> 01:10:00.360]   we should be fighting against this sin.
+[01:10:00.360 --> 01:10:03.740]   In your struggles against sin, you have not shed blood.
+[01:10:03.740 --> 01:10:04.580]   You did not shed.
+[01:10:04.580 --> 01:10:08.660]   In other words, this sin, in particular this sin,
+[01:10:08.660 --> 01:10:10.540]   you must fight, even if you have to fight,
+[01:10:10.540 --> 01:10:12.940]   even if you can only gain an inch, you have to fight.
+[01:10:12.940 --> 01:10:17.340]   Don't ever, don't ever allow anybody,
+[01:10:17.340 --> 01:10:19.540]   any pastor, any friend, any church,
+[01:10:19.540 --> 01:10:21.940]   to ever tell you that that's okay.
+[01:10:21.940 --> 01:10:22.900]   It is not okay.
+[01:10:22.900 --> 01:10:24.460]   It taints us in our prayer.
+[01:10:24.460 --> 01:10:25.820]   It taints us in our witness.
+[01:10:25.820 --> 01:10:28.000]   It taints us in the way we see Scripture.
+[01:10:28.000 --> 01:10:31.380]   So any temptation, especially this sin, right?
+[01:10:31.380 --> 01:10:33.780]   Struggle, struggle.
+[01:10:33.780 --> 01:10:35.740]   Say, well, I feel guilty all the time.
+[01:10:35.740 --> 01:10:37.120]   You should feel guilty.
+[01:10:37.120 --> 01:10:40.680]   That guilt should lead you to repentance.
+[01:10:40.680 --> 01:10:43.240]   Don't normalize sin, right?
+[01:10:43.240 --> 01:10:44.080]   It's sin.
+[01:10:44.080 --> 01:10:45.940]   Don't call it anything else but sin.
+[01:10:45.940 --> 01:10:48.360]   And sin is something that we need to struggle,
+[01:10:48.360 --> 01:10:51.640]   even if we struggle to the day we die, right?
+[01:10:51.640 --> 01:10:54.520]   'Cause perfection's gonna come when he comes.
+[01:10:54.520 --> 01:10:58.740]   But don't ever, in between now and the time we get to heaven
+[01:10:58.740 --> 01:11:01.540]   that we somehow, because it's hard,
+[01:11:01.540 --> 01:11:04.280]   we somehow change the title of what we do
+[01:11:04.280 --> 01:11:06.600]   so that we can normalize this and be accepted
+[01:11:06.600 --> 01:11:08.080]   so we can live in peace.
+[01:11:08.080 --> 01:11:09.860]   You cannot have peace with sin.
+[01:11:10.740 --> 01:11:12.060]   Period.
+[01:11:12.060 --> 01:11:14.740]   So pray that the Lord will deliver you
+[01:11:14.740 --> 01:11:15.860]   from whatever you're struggling,
+[01:11:15.860 --> 01:11:17.020]   that God will give you the strength
+[01:11:17.020 --> 01:11:19.200]   to continue to fight, fight, fight.
+[01:11:19.200 --> 01:11:21.780]   And pray that God will give you a heart of contentment
+[01:11:21.780 --> 01:11:22.860]   in all circumstances.
+[01:11:22.860 --> 01:11:26.100]   Coveting comes when you're not content, right?
+[01:11:26.100 --> 01:11:28.780]   Coveting comes when you're not content.
+[01:11:28.780 --> 01:11:29.620]   Think about it.
+[01:11:29.620 --> 01:11:32.860]   Even sexual sin oftentimes creeps in
+[01:11:32.860 --> 01:11:34.780]   when you're not content about something
+[01:11:34.780 --> 01:11:37.300]   and you start looking for something else to satisfy you,
+[01:11:37.300 --> 01:11:39.340]   and that's how temptation comes.
+[01:11:39.340 --> 01:11:44.220]   So if your heart is not content with what God has given you,
+[01:11:44.220 --> 01:11:47.860]   coveting, grumbling, complaining, bitterness,
+[01:11:47.860 --> 01:11:49.920]   all creeps in, right?
+[01:11:49.920 --> 01:11:52.700]   So pray, ultimately, that God will give you
+[01:11:52.700 --> 01:11:54.320]   a heart of contentment,
+[01:11:54.320 --> 01:11:57.860]   that you would be a man and woman of worship
+[01:11:57.860 --> 01:12:02.020]   because what God has given me is enough.
+[01:12:02.020 --> 01:12:04.300]   Period, right?
+[01:12:04.300 --> 01:12:06.060]   Everything I need for the life of God
+[01:12:06.060 --> 01:12:07.260]   has been given to me in the knowledge
+[01:12:07.260 --> 01:12:08.540]   of his son, Jesus Christ.
+[01:12:08.540 --> 01:12:11.020]   I have everything.
+[01:12:11.020 --> 01:12:12.460]   I have everything today.
+[01:12:12.460 --> 01:12:14.540]   Not tomorrow, not if I work hard,
+[01:12:14.540 --> 01:12:17.280]   but I have everything today in Christ.
+[01:12:17.280 --> 01:12:18.620]   That's where contentment comes from.
+[01:12:18.620 --> 01:12:19.660]   Can you say that?
+[01:12:19.660 --> 01:12:23.140]   And if you can't say that, that's where we need to pray.
+[01:12:23.140 --> 01:12:25.500]   Pray that God would give us, open our eyes,
+[01:12:25.500 --> 01:12:27.540]   so that I would live a life of contentment,
+[01:12:27.540 --> 01:12:31.340]   so that I would be delivered from temptation and coveting.
+[01:12:31.340 --> 01:12:33.020]   So for the next 15 minutes,
+[01:12:33.020 --> 01:12:35.380]   let's take some time to pray over these topics.
+[01:12:35.380 --> 01:12:37.780]   Then afterwards, we have some group prayer
+[01:12:37.780 --> 01:12:39.020]   that I want to pray for,
+[01:12:39.020 --> 01:12:41.180]   and then we'll wrap up this evening.
+[01:12:41.180 --> 01:12:42.220]   Okay, let's pray.
+[01:12:42.220 --> 01:12:49.540]   (soft piano music)
+[01:12:49.540 --> 01:12:52.460]   (soft piano music)
+[01:12:52.460 --> 01:13:16.140]   (soft piano music)
+[01:13:16.140 --> 01:13:19.060]   (soft piano music)
+[01:13:19.060 --> 01:13:21.980]   (soft piano music)
+[01:13:22.700 --> 01:13:25.620]   (soft piano music)
+[01:13:25.620 --> 01:13:38.540]   (soft piano music)
+[01:13:38.820 --> 01:13:41.740]   (soft piano music)
+[01:13:41.740 --> 01:13:55.740]   (soft piano music)
+[01:13:55.740 --> 01:14:06.660]   (soft piano music)
+[01:14:07.020 --> 01:14:09.940]   (soft piano music)
+[01:14:09.940 --> 01:14:23.820]   (soft piano music)
+[01:14:23.820 --> 01:14:35.660]   (soft piano music)
+[01:14:36.660 --> 01:14:39.580]   (soft piano music)
+[01:14:39.580 --> 01:14:51.740]   (soft piano music)
+[01:14:52.020 --> 01:14:54.940]   (soft piano music)
+[01:14:54.940 --> 01:15:10.700]   (soft piano music)
+[01:15:10.700 --> 01:15:13.620]   (soft piano music)
+[01:15:13.620 --> 01:15:31.700]   (soft piano music)
+[01:15:31.740 --> 01:15:34.660]   (soft piano music)
+[01:15:34.660 --> 01:15:52.500]   (soft piano music)
+[01:15:52.500 --> 01:15:55.420]   (soft piano music)
+[01:15:55.420 --> 01:16:10.380]   (soft piano music)
+[01:16:10.380 --> 01:16:13.300]   (soft piano music)
+[01:16:13.300 --> 01:16:31.180]   (soft piano music)
+[01:16:31.180 --> 01:16:34.100]   (soft piano music)
+[01:16:34.100 --> 01:16:49.980]   (soft piano music)
+[01:16:50.860 --> 01:16:53.780]   (soft piano music)
+[01:16:53.780 --> 01:17:10.780]   (soft piano music)
+[01:17:11.660 --> 01:17:14.580]   (soft piano music)
+[01:17:14.580 --> 01:17:27.580]   (soft piano music)
+[01:17:28.460 --> 01:17:31.380]   (soft piano music)
+[01:17:31.380 --> 01:17:50.380]   (soft piano music)
+[01:17:51.260 --> 01:17:54.180]   (soft piano music)
+[01:17:54.180 --> 01:18:06.180]   (soft piano music)
+[01:18:06.180 --> 01:18:19.180]   (soft piano music)
+[01:18:20.060 --> 01:18:22.980]   (soft piano music)
+[01:18:22.980 --> 01:18:38.980]   (soft piano music)
+[01:18:38.980 --> 01:18:48.980]   (soft piano music)
+[01:18:49.860 --> 01:18:52.780]   (soft piano music)
+[01:18:52.780 --> 01:19:03.780]   (soft piano music)
+[01:19:03.780 --> 01:19:12.780]   (soft piano music)
+[01:19:13.660 --> 01:19:16.580]   (soft piano music)
+[01:19:16.580 --> 01:19:35.580]   (soft piano music)
+[01:19:36.460 --> 01:19:39.380]   (soft piano music)
+[01:19:39.380 --> 01:19:52.380]   (soft piano music)
+[01:19:52.380 --> 01:20:03.380]   (soft piano music)
+[01:20:04.260 --> 01:20:07.180]   (soft piano music)
+[01:20:07.180 --> 01:20:18.180]   (soft piano music)
+[01:20:18.180 --> 01:20:33.180]   (soft piano music)
+[01:20:34.060 --> 01:20:36.980]   (soft piano music)
+[01:20:36.980 --> 01:20:53.980]   (soft piano music)
+[01:20:54.860 --> 01:20:57.780]   (soft piano music)
+[01:20:57.780 --> 01:21:09.780]   (soft piano music)
+[01:21:09.780 --> 01:21:21.780]   (soft piano music)
+[01:21:22.660 --> 01:21:25.580]   (soft piano music)
+[01:21:25.580 --> 01:21:43.580]   (soft piano music)
+[01:21:51.660 --> 01:21:54.660]   (soft piano music)
+[01:21:54.660 --> 01:22:16.660]   (soft piano music)
+[01:22:16.660 --> 01:22:19.660]   (soft piano music)
+[01:22:19.660 --> 01:22:29.660]   (soft piano music)
+[01:22:29.660 --> 01:22:41.660]   (soft piano music)
+[01:22:41.660 --> 01:22:44.660]   (soft piano music)
+[01:22:44.660 --> 01:22:53.660]   (soft piano music)
+[01:22:53.660 --> 01:23:04.660]   (soft piano music)
+[01:23:04.660 --> 01:23:07.660]   (soft piano music)
+[01:23:07.660 --> 01:23:17.660]   (soft piano music)
+[01:23:17.660 --> 01:23:29.660]   (soft piano music)
+[01:23:29.660 --> 01:23:32.660]   (soft piano music)
+[01:23:32.660 --> 01:23:45.660]   - Okay, if I can have your attention.
+[01:23:45.660 --> 01:23:48.660]   If I can get you guys to be in groups of three people,
+[01:23:48.660 --> 01:23:53.660]   and there's three specific prayer I'm going to be dividing,
+[01:23:53.660 --> 01:23:56.660]   and to just to pray for those topics,
+[01:23:56.660 --> 01:23:58.660]   and afterwards if our praise team can come up
+[01:23:58.660 --> 01:24:00.660]   and they'll wrap us up for tonight,
+[01:24:00.660 --> 01:24:02.660]   and those three topics is one,
+[01:24:02.660 --> 01:24:04.660]   tomorrow there's an outreach volleyball
+[01:24:04.660 --> 01:24:08.660]   that's being sponsored by our outreach team,
+[01:24:08.660 --> 01:24:11.660]   and I heard that there's over 20 non-Christians
+[01:24:11.660 --> 01:24:13.660]   that are being brought to the park,
+[01:24:13.660 --> 01:24:15.660]   and so last time when they did this,
+[01:24:15.660 --> 01:24:17.660]   they had a lot of great conversations
+[01:24:17.660 --> 01:24:20.660]   and a lot of interest.
+[01:24:20.660 --> 01:24:22.660]   There's a lot of stirring of interest
+[01:24:22.660 --> 01:24:24.660]   for the things of God,
+[01:24:24.660 --> 01:24:27.660]   and so if you can pray for them, pray for our outreach team,
+[01:24:27.660 --> 01:24:29.660]   pray for the people who are coming,
+[01:24:29.660 --> 01:24:31.660]   pray for the people who are there
+[01:24:31.660 --> 01:24:33.660]   to be able to share the gospel with them,
+[01:24:33.660 --> 01:24:35.660]   that we'll have very deep conversations with them
+[01:24:35.660 --> 01:24:37.660]   about Christ and that these conversations
+[01:24:37.660 --> 01:24:39.660]   would lead them to Christ.
+[01:24:39.660 --> 01:24:41.660]   So if you can pray for the team,
+[01:24:41.660 --> 01:24:43.660]   pray for the people who are coming, number one.
+[01:24:43.660 --> 01:24:46.660]   Number two, pray for our Taiwan missions.
+[01:24:46.660 --> 01:24:49.660]   Our Taiwan mission team is having our first meeting
+[01:24:49.660 --> 01:24:51.660]   in a few weeks to prepare for,
+[01:24:51.660 --> 01:24:55.660]   to connect with the church out in Taiwan.
+[01:24:55.660 --> 01:25:00.660]   So Pastor Alex and Jen are leading the church over there,
+[01:25:00.660 --> 01:25:03.660]   so if you can pray for the team, pray for the work,
+[01:25:03.660 --> 01:25:05.660]   that the Lord would open the door
+[01:25:05.660 --> 01:25:08.660]   so that we can come alongside what they're doing
+[01:25:08.660 --> 01:25:10.660]   and to be able to support their ministry.
+[01:25:10.660 --> 01:25:12.660]   And so if you can pray for the team,
+[01:25:12.660 --> 01:25:14.660]   pray for the work that we're going to be starting
+[01:25:14.660 --> 01:25:16.660]   over there in Taiwan.
+[01:25:16.660 --> 01:25:19.660]   And then three, pray for our pastors who are out in India.
+[01:25:19.660 --> 01:25:22.660]   As I've mentioned, every letter I get now
+[01:25:22.660 --> 01:25:27.660]   is some sort of information
+[01:25:27.660 --> 01:25:29.660]   about how they've been attacked,
+[01:25:29.660 --> 01:25:31.660]   how they're actively doing work,
+[01:25:31.660 --> 01:25:33.660]   but they're being attacked wherever they go.
+[01:25:33.660 --> 01:25:35.660]   So it's a common thing now.
+[01:25:35.660 --> 01:25:37.660]   I mean, this happened before, but now it's happening
+[01:25:37.660 --> 01:25:39.660]   every time I receive a letter.
+[01:25:39.660 --> 01:25:41.660]   So if you guys can keep them in prayer.
+[01:25:41.660 --> 01:25:43.660]   We are planning to go.
+[01:25:43.660 --> 01:25:45.660]   A small team of us are still planning to go in January.
+[01:25:45.660 --> 01:25:48.660]   So if you can pray for our Indian pastors
+[01:25:48.660 --> 01:25:50.660]   and for the work that they're doing.
+[01:25:50.660 --> 01:25:52.660]   So if you can get together with a group of three
+[01:25:52.660 --> 01:25:54.660]   and just designate who's going to pray for what,
+[01:25:54.660 --> 01:25:56.660]   and then once you're done,
+[01:25:56.660 --> 01:25:58.660]   again, if a praise team can just come up
+[01:25:58.660 --> 01:26:00.660]   and they're going to wrap us up in the worship,
+[01:26:00.660 --> 01:26:03.660]   and then I'll pray for us, and then we'll end the meeting.
+[01:26:03.660 --> 01:26:08.660]   So just grab three people around you.
+[01:26:09.660 --> 01:26:12.660]   [indistinct chatter]
+[01:26:13.660 --> 01:26:16.660]   [indistinct chatter]
+[01:26:16.660 --> 01:26:19.660]   [indistinct chatter]
+[01:26:19.660 --> 01:26:22.660]   [indistinct chatter]
+[01:26:22.660 --> 01:26:25.820]   (audience chattering)
+[01:26:25.820 --> 01:26:29.900]   (audience chattering continues)
+[01:26:29.900 --> 01:26:33.980]   (audience chattering continues)
+[01:26:34.820 --> 01:26:38.980]   (audience chattering continues)
+[01:26:38.980 --> 01:26:43.060]   (audience chattering continues)
+[01:26:43.060 --> 01:26:47.140]   (audience chattering continues)
+[01:26:47.140 --> 01:26:51.220]   (audience chattering continues)
+[01:26:51.220 --> 01:26:55.300]   (audience chattering continues)
+[01:26:55.300 --> 01:26:59.380]   (audience chattering continues)
+[01:26:59.380 --> 01:27:03.460]   (audience chattering continues)
+[01:27:03.460 --> 01:27:07.540]   (audience chattering continues)
+[01:27:07.540 --> 01:27:11.620]   (audience chattering continues)
+[01:27:11.620 --> 01:27:15.700]   (audience chattering continues)
+[01:27:15.700 --> 01:27:19.700]   (audience chattering continues)
+[01:27:19.700 --> 01:27:23.700]   (audience chattering continues)
+[01:27:23.700 --> 01:27:27.700]   (audience chattering continues)
+[01:27:27.700 --> 01:27:31.700]   (audience chattering continues)
+[01:27:31.700 --> 01:27:35.700]   (audience chattering continues)
+[01:27:35.720 --> 01:27:39.720]   (audience chattering continues)
+[01:27:39.720 --> 01:27:43.720]   (audience chattering continues)
+[01:27:43.720 --> 01:27:47.720]   (audience chattering continues)
+[01:27:47.760 --> 01:27:51.760]   (audience chattering continues)
+[01:27:51.760 --> 01:27:55.760]   (audience chattering continues)
+[01:27:55.760 --> 01:27:59.760]   (audience chattering continues)
+[01:27:59.760 --> 01:28:03.760]   (audience chattering continues)
+[01:28:03.760 --> 01:28:07.760]   (audience chattering continues)
+[01:28:07.760 --> 01:28:11.760]   (audience chattering continues)
+[01:28:11.760 --> 01:28:15.760]   (audience chattering continues)
+[01:28:15.760 --> 01:28:19.760]   (audience chattering continues)
+[01:28:19.760 --> 01:28:23.760]   (audience chattering continues)
+[01:28:23.760 --> 01:28:27.760]   (audience chattering continues)
+[01:28:27.760 --> 01:28:31.760]   (audience chattering continues)
+[01:28:31.760 --> 01:28:35.760]   (audience chattering continues)
+[01:28:35.760 --> 01:28:39.760]   (audience chattering continues)
+[01:28:39.760 --> 01:28:43.760]   (audience chattering continues)
+[01:28:43.760 --> 01:28:47.760]   (audience chattering continues)
+[01:28:47.760 --> 01:28:51.760]   (audience chattering continues)
+[01:28:51.760 --> 01:28:55.760]   (audience chattering continues)
+[01:28:55.760 --> 01:28:59.760]   (audience chattering continues)
+[01:28:59.760 --> 01:29:03.760]   (audience chattering continues)
+[01:29:03.760 --> 01:29:07.760]   (audience chattering continues)
+[01:29:07.760 --> 01:29:11.760]   (audience chattering continues)
+[01:29:11.760 --> 01:29:15.760]   (audience chattering continues)
+[01:29:15.760 --> 01:29:19.760]   (audience chattering continues)
+[01:29:20.760 --> 01:29:24.760]   (audience chattering continues)
+[01:29:25.760 --> 01:29:29.760]   (audience chattering continues)
+[01:29:29.760 --> 01:29:33.760]   (audience chattering continues)
+[01:29:33.760 --> 01:29:37.760]   (audience chattering continues)
+[01:29:37.760 --> 01:29:41.760]   (audience chattering continues)
+[01:29:41.760 --> 01:29:45.760]   (audience chattering continues)
+[01:29:45.760 --> 01:29:49.760]   (audience chattering continues)
+[01:29:49.760 --> 01:29:53.760]   (audience chattering continues)
+[01:29:53.760 --> 01:29:57.760]   (audience chattering continues)
+[01:29:57.760 --> 01:30:01.760]   (audience chattering continues)
+[01:30:01.760 --> 01:30:05.760]   (audience chattering continues)
+[01:30:05.760 --> 01:30:09.760]   (audience chattering continues)
+[01:30:09.760 --> 01:30:13.760]   (audience chattering continues)
+[01:30:14.760 --> 01:30:18.760]   (audience chattering continues)
+[01:30:18.760 --> 01:30:22.760]   (audience chattering continues)
+[01:30:22.760 --> 01:30:26.760]   (audience chattering continues)
+[01:30:26.760 --> 01:30:30.760]   (audience chattering continues)
+[01:30:30.760 --> 01:30:34.760]   (audience chattering continues)
+[01:30:35.760 --> 01:30:39.760]   (audience chattering continues)
+[01:30:39.760 --> 01:30:43.760]   (audience chattering continues)
+[01:30:43.760 --> 01:30:47.760]   (audience chattering continues)
+[01:30:47.760 --> 01:30:51.760]   (audience chattering continues)
+[01:30:51.760 --> 01:30:55.760]   (audience chattering continues)
+[01:30:55.760 --> 01:30:59.760]   (audience chattering continues)
+[01:30:59.760 --> 01:31:03.760]   (audience chattering continues)
+[01:31:03.760 --> 01:31:07.760]   (audience chattering continues)
+[01:31:07.760 --> 01:31:11.760]   (audience chattering continues)
+[01:31:11.760 --> 01:31:15.760]   (audience chattering continues)
+[01:31:15.760 --> 01:31:19.760]   (audience chattering continues)
+[01:31:19.760 --> 01:31:23.760]   (audience chattering continues)
+[01:31:23.760 --> 01:31:27.760]   (audience chattering continues)
+[01:31:27.760 --> 01:31:31.760]   (audience chattering continues)
+[01:31:31.760 --> 01:31:35.760]   (audience chattering continues)
+[01:31:35.760 --> 01:31:39.760]   (audience chattering continues)
+[01:31:39.760 --> 01:31:43.760]   (audience chattering continues)
+[01:31:43.760 --> 01:31:47.760]   (audience chattering continues)
+[01:31:47.760 --> 01:31:51.760]   (audience chattering continues)
+[01:31:51.760 --> 01:31:55.760]   (audience chattering continues)
+[01:31:55.760 --> 01:31:59.760]   (audience chattering continues)
+[01:31:59.760 --> 01:32:03.760]   (audience chattering continues)
+[01:32:03.760 --> 01:32:07.760]   (audience chattering continues)
+[01:32:07.760 --> 01:32:11.760]   (audience chattering continues)
+[01:32:11.760 --> 01:32:15.760]   (audience chattering continues)
+[01:32:15.760 --> 01:32:19.760]   (audience chattering continues)
+[01:32:19.760 --> 01:32:23.760]   (audience chattering continues)
+[01:32:23.760 --> 01:32:27.760]   (audience chattering continues)
+[01:32:27.760 --> 01:32:31.760]   (audience chattering continues)
+[01:32:31.760 --> 01:32:35.760]   (audience chattering continues)
+[01:32:36.760 --> 01:32:40.760]   (audience chattering continues)
+[01:32:40.760 --> 01:32:44.760]   (audience chattering continues)
+[01:32:44.760 --> 01:32:48.760]   (audience chattering continues)
+[01:32:48.760 --> 01:32:52.760]   (audience chattering continues)
+[01:32:52.760 --> 01:32:56.760]   (audience chattering continues)
+[01:32:56.760 --> 01:33:00.760]   (audience chattering continues)
+[01:33:00.760 --> 01:33:04.760]   (audience chattering continues)
+[01:33:04.760 --> 01:33:08.760]   (audience chattering continues)
+[01:33:08.760 --> 01:33:12.760]   (audience chattering continues)
+[01:33:12.760 --> 01:33:16.760]   (audience chattering continues)
+[01:33:16.760 --> 01:33:20.760]   (audience chattering continues)
+[01:33:20.760 --> 01:33:24.760]   (audience chattering continues)
+[01:33:24.760 --> 01:33:28.760]   (audience chattering continues)
+[01:33:28.760 --> 01:33:32.760]   (audience chattering continues)
+[01:33:32.760 --> 01:33:36.760]   (audience chattering continues)
+[01:34:00.760 --> 01:34:03.760]   If we can begin to wrap up our prayers.
+[01:34:03.760 --> 01:34:07.760]   (audience chattering continues)
+[01:34:08.760 --> 01:34:12.760]   (audience chattering continues)
+[01:34:12.760 --> 01:34:16.760]   (audience chattering continues)
+[01:34:40.760 --> 01:34:44.760]   Okay, if we can stand up for our closing praise.
+[01:34:44.760 --> 01:34:55.760]   Let's sing "He Who Was."
+[01:34:55.760 --> 01:35:02.760]   ♪ He who was before there was light ♪
+[01:35:02.760 --> 01:35:06.760]   ♪ Walked across the pages of time ♪
+[01:35:06.760 --> 01:35:11.760]   ♪ He who made every living thing ♪
+[01:35:11.760 --> 01:35:15.760]   ♪ Behold Him ♪
+[01:35:15.760 --> 01:35:20.760]   ♪ He who heard humanity's cry ♪
+[01:35:20.760 --> 01:35:24.760]   ♪ Left His throne to wake as a child ♪
+[01:35:24.760 --> 01:35:29.760]   ♪ He became like the least of us ♪
+[01:35:29.760 --> 01:35:32.760]   ♪ Behold Him ♪
+[01:35:32.760 --> 01:35:38.760]   ♪ Jesus, Son of God, Messiah ♪
+[01:35:38.760 --> 01:35:43.760]   ♪ The Lamb, the Roaring Lion ♪
+[01:35:43.760 --> 01:35:47.760]   ♪ Oh, be still ♪
+[01:35:47.760 --> 01:35:50.760]   ♪ Behold Him ♪
+[01:36:00.760 --> 01:36:05.760]   ♪ He who dined with sinners and saints ♪
+[01:36:05.760 --> 01:36:09.760]   ♪ Healed the blind, the lost, and the lame ♪
+[01:36:09.760 --> 01:36:14.760]   ♪ Even now He is in our midst ♪
+[01:36:14.760 --> 01:36:18.760]   ♪ Behold Him ♪
+[01:36:18.760 --> 01:36:23.760]   ♪ He who chose a criminal's end ♪
+[01:36:23.760 --> 01:36:27.760]   ♪ Paid with blood to settle our debt ♪
+[01:36:27.760 --> 01:36:32.760]   ♪ Buried death as He rose to life ♪
+[01:36:32.760 --> 01:36:35.760]   ♪ Behold Him ♪
+[01:36:35.760 --> 01:36:41.760]   ♪ Jesus, Son of God, Messiah ♪
+[01:36:41.760 --> 01:36:46.760]   ♪ The Lamb, the Roaring Lion ♪
+[01:36:46.760 --> 01:36:50.760]   ♪ Oh, be still ♪
+[01:36:50.760 --> 01:36:53.760]   ♪ Behold Him ♪
+[01:36:53.760 --> 01:36:59.760]   ♪ Jesus, Alpha and Omega ♪
+[01:36:59.760 --> 01:37:04.760]   ♪ Our God, the Risen Savior ♪
+[01:37:04.760 --> 01:37:08.760]   ♪ Oh, be still ♪
+[01:37:08.760 --> 01:37:11.760]   ♪ Behold Him ♪
+[01:37:20.760 --> 01:37:24.760]   ♪ Holy, holy, holy ♪
+[01:37:24.760 --> 01:37:29.760]   ♪ Is the Lord God Almighty ♪
+[01:37:29.760 --> 01:37:33.760]   ♪ Worthy, worthy, worthy ♪
+[01:37:33.760 --> 01:37:38.760]   ♪ To receive all praise ♪
+[01:37:38.760 --> 01:37:42.760]   ♪ Holy, holy, holy ♪
+[01:37:42.760 --> 01:37:47.760]   ♪ Is the Lord God Almighty ♪
+[01:37:47.760 --> 01:37:51.760]   ♪ Worthy, worthy, worthy ♪
+[01:37:51.760 --> 01:37:56.760]   ♪ To receive all praise ♪
+[01:37:56.760 --> 01:38:02.760]   ♪ Jesus, Son of God, Messiah ♪
+[01:38:02.760 --> 01:38:07.760]   ♪ The Lamb, the Roaring Lion ♪
+[01:38:07.760 --> 01:38:11.760]   ♪ Oh, be still ♪
+[01:38:11.760 --> 01:38:14.760]   ♪ Behold Him ♪
+[01:38:14.760 --> 01:38:21.760]   ♪ Jesus, Alpha and Omega ♪
+[01:38:21.760 --> 01:38:26.760]   ♪ Our God, the Risen Savior ♪
+[01:38:26.760 --> 01:38:30.760]   ♪ Oh, be still ♪
+[01:38:30.760 --> 01:38:33.760]   ♪ And behold Him ♪
+[01:38:43.760 --> 01:38:45.760]   Let's pray.
+[01:38:45.760 --> 01:38:52.760]   Father, we thank you so much for your patience with us.
+[01:38:52.760 --> 01:38:54.760]   We thank you for persevering.
+[01:38:54.760 --> 01:38:57.760]   We thank you for the grace that sustains us.
+[01:38:57.760 --> 01:39:00.760]   Help us, Lord God, to know each day
+[01:39:00.760 --> 01:39:03.760]   what it is that we have in you,
+[01:39:03.760 --> 01:39:07.760]   that we would not fill our hearts with coveting or discontent.
+[01:39:07.760 --> 01:39:10.760]   Help us, Lord God, to be worshipers,
+[01:39:10.760 --> 01:39:13.760]   both in speech and in conduct,
+[01:39:13.760 --> 01:39:15.760]   that the world would know, Father God,
+[01:39:15.760 --> 01:39:17.760]   that there is new life in us
+[01:39:17.760 --> 01:39:21.760]   and that this life that you've given us abundantly, Lord God,
+[01:39:21.760 --> 01:39:23.760]   would be a witness to the world, Lord,
+[01:39:23.760 --> 01:39:26.760]   what it truly looks like
+[01:39:26.760 --> 01:39:30.760]   when people function the way, God, you have intended.
+[01:39:30.760 --> 01:39:36.760]   So we pray as the wickedness around us is increasing
+[01:39:36.760 --> 01:39:39.760]   and our love would not grow cold.
+[01:39:39.760 --> 01:39:41.760]   Help us, Lord God, to be a church
+[01:39:41.760 --> 01:39:43.760]   that is passionate for your name,
+[01:39:43.760 --> 01:39:47.760]   to be able to confess that we love you above everything else,
+[01:39:47.760 --> 01:39:49.760]   and that our love for you, Lord God,
+[01:39:49.760 --> 01:39:52.760]   would be a catalyst for everything that we do.
+[01:39:52.760 --> 01:39:56.760]   So we pray that you would help us as a church to pray,
+[01:39:56.760 --> 01:39:59.760]   continue to pray, to be devoted to prayer,
+[01:39:59.760 --> 01:40:02.760]   both in public and in private,
+[01:40:02.760 --> 01:40:05.760]   when we are resting, when we are weary,
+[01:40:05.760 --> 01:40:08.760]   and when we are hurt and we are desperate,
+[01:40:08.760 --> 01:40:11.760]   that you would be the first one that we turn to,
+[01:40:11.760 --> 01:40:13.760]   that you would be our refuge.
+[01:40:13.760 --> 01:40:17.760]   Lord, we pray that you would help us in our weakness.
+[01:40:17.760 --> 01:40:20.760]   Lord, we, in various ways with different people,
+[01:40:20.760 --> 01:40:23.760]   we wrestle with different sins and different things,
+[01:40:23.760 --> 01:40:25.760]   but in the midst of all of this, Lord God,
+[01:40:25.760 --> 01:40:27.760]   we know that you are our hope.
+[01:40:27.760 --> 01:40:32.760]   Help us, Lord God, to fix our eyes upon Christ,
+[01:40:32.760 --> 01:40:35.760]   the author and the perfecter of our faith,
+[01:40:35.760 --> 01:40:38.760]   that each one of us would long for the day
+[01:40:38.760 --> 01:40:40.760]   that we would be delivered from this body,
+[01:40:40.760 --> 01:40:43.760]   that we would be with you in eternity,
+[01:40:43.760 --> 01:40:46.760]   that all our hope, that all our energy,
+[01:40:46.760 --> 01:40:51.760]   and all our striving, Lord God, would be for that day.
+[01:40:51.760 --> 01:40:52.760]   So we pray, Father God,
+[01:40:52.760 --> 01:40:54.760]   that whatever it is that we have been entangled with,
+[01:40:54.760 --> 01:40:57.760]   help us, Lord God, to be untangled,
+[01:40:57.760 --> 01:41:01.760]   that we may live lives worthy of the gospel that you have given.
+[01:41:01.760 --> 01:41:06.760]   Bless us, Lord God, that we may in turn bless you,
+[01:41:06.760 --> 01:41:09.760]   that we may be a blessing wherever you send us.
+[01:41:09.760 --> 01:41:13.760]   In Jesus' name we pray, amen.
+[01:41:13.760 --> 01:41:17.760]   Oh, I forgot to make an announcement.
+[01:41:17.760 --> 01:41:19.760]   The books that we're reading,
+[01:41:19.760 --> 01:41:23.760]   book that we're reading for our Bible study,
+[01:41:23.760 --> 01:41:25.760]   it's going to be sold on Sunday as well,
+[01:41:25.760 --> 01:41:27.760]   but if you need to get one,
+[01:41:27.760 --> 01:41:29.760]   there is a station that is stationed outside.
+[01:41:29.760 --> 01:41:31.760]   So if you visit that table,
+[01:41:31.760 --> 01:41:33.760]   they'll be able to take your Venmo or Zelle.
+[01:41:33.760 --> 01:41:34.760]   I forgot what they're taking.
+[01:41:34.760 --> 01:41:36.760]   But you can go there and pick one up.
+[01:41:36.760 --> 01:41:37.760]   It's for $10.
+[01:41:37.760 --> 01:41:38.760]   If you pick it up on your own,
+[01:41:38.760 --> 01:41:40.760]   it's going to be about $16, $17.
+[01:41:40.760 --> 01:41:42.760]   So if you pick it up here, it'll be $10, okay?
+[01:41:42.760 --> 01:41:47.760]   Those of you who have old books from 1991 or 1993,
+[01:41:47.760 --> 01:41:51.760]   the original one, it has been updated,
+[01:41:51.760 --> 01:41:53.760]   so the pages are not exactly the same.
+[01:41:53.760 --> 01:41:56.760]   The chapters are the same, but the pages are not the same.
+[01:41:56.760 --> 01:41:58.760]   So you can still use the old one,
+[01:41:58.760 --> 01:42:00.760]   except when we say page 75,
+[01:42:00.760 --> 01:42:02.760]   you might be page 71, okay?
+[01:42:02.760 --> 01:42:03.760]   So other than that,
+[01:42:03.760 --> 01:42:05.760]   you can still use that other book if you have it.
+[01:42:05.760 --> 01:42:08.760]   Otherwise, you can go visit the table.
+[01:42:08.760 --> 01:42:09.760]   And if you can't get it today,
+[01:42:09.760 --> 01:42:11.760]   it will also be sold on Sunday.
+[01:42:11.760 --> 01:42:13.760]   We're trying to make it so that the traffic--
+[01:42:13.760 --> 01:42:14.760]   we don't get a traffic jam out there.
+[01:42:14.760 --> 01:42:16.760]   So if you're able to get it today,
+[01:42:16.760 --> 01:42:18.760]   we encourage you to get it today, okay?
+[01:42:18.760 --> 01:42:28.760]   [BLANK_AUDIO]
+
