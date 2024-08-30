@@ -2,86 +2,1313 @@
 [00:00:00.000 --> 00:00:03.160]   (audience chattering)
 [00:00:03.160 --> 00:00:07.240]   (audience chattering continues)
 [00:00:07.240 --> 00:00:11.320]   (audience chattering continues)
-[00:00:12.160 --> 00:00:16.320]   (audience chattering continues)
-[00:00:16.320 --> 00:00:20.400]   (audience chattering continues)
-[00:00:20.400 --> 00:00:24.480]   (audience chattering continues)
-[00:00:24.480 --> 00:00:28.560]   (audience chattering continues)
-[00:00:28.560 --> 00:00:32.640]   (audience chattering continues)
-[00:00:32.640 --> 00:00:36.720]   (audience chattering continues)
-[00:00:36.720 --> 00:00:40.800]   (audience chattering continues)
-[00:00:40.800 --> 00:00:44.880]   (audience chattering continues)
-[00:00:44.900 --> 00:00:48.980]   (audience chattering continues)
-[00:00:48.980 --> 00:00:53.060]   (audience chattering continues)
-[00:00:53.060 --> 00:00:57.060]   (audience chattering continues)
-[00:00:57.100 --> 00:01:01.100]   (audience chattering continues)
-[00:01:01.100 --> 00:01:05.100]   (audience chattering continues)
-[00:01:05.100 --> 00:01:09.100]   (audience chattering continues)
-[00:01:09.100 --> 00:01:13.100]   (audience chattering continues)
-[00:01:13.100 --> 00:01:17.100]   (audience chattering continues)
-[00:01:17.100 --> 00:01:21.100]   (audience chattering continues)
-[00:01:21.100 --> 00:01:25.100]   (audience chattering continues)
-[00:01:25.100 --> 00:01:29.100]   (audience chattering continues)
-[00:01:29.100 --> 00:01:33.100]   (audience chattering continues)
-[00:01:34.100 --> 00:01:38.100]   (audience chattering continues)
-[00:01:38.100 --> 00:01:42.100]   (audience chattering continues)
-[00:01:42.100 --> 00:01:46.100]   (audience chattering continues)
-[00:01:46.100 --> 00:01:50.100]   (audience chattering continues)
-[00:01:50.100 --> 00:01:54.100]   (audience chattering continues)
-[00:01:54.100 --> 00:01:58.100]   (audience chattering continues)
-[00:01:58.100 --> 00:02:02.100]   (audience chattering continues)
-[00:02:02.100 --> 00:02:06.100]   (audience chattering continues)
-[00:02:06.100 --> 00:02:10.100]   (audience chattering continues)
-[00:02:10.100 --> 00:02:14.100]   (audience chattering continues)
-[00:02:14.100 --> 00:02:18.100]   (audience chattering continues)
-[00:02:18.100 --> 00:02:38.100]   (audience chattering continues)
-[00:02:39.100 --> 00:02:43.100]   (audience chattering continues)
-[00:02:43.100 --> 00:02:47.100]   (audience chattering continues)
-[00:02:47.100 --> 00:02:51.100]   (audience chattering continues)
-[00:02:52.100 --> 00:02:56.100]   (audience chattering continues)
-[00:02:57.100 --> 00:03:01.100]   (audience chattering continues)
-[00:03:02.100 --> 00:03:06.100]   (audience chattering continues)
-[00:03:07.100 --> 00:03:11.100]   (audience chattering continues)
-[00:03:11.100 --> 00:03:15.100]   (audience chattering continues)
-[00:03:15.100 --> 00:03:19.100]   (audience chattering continues)
-[00:03:20.100 --> 00:03:24.100]   (audience chattering continues)
-[00:03:24.100 --> 00:03:39.100]   (audience chattering continues)
-[00:03:39.100 --> 00:03:43.100]   (audience chattering continues)
-[00:03:44.100 --> 00:03:48.100]   (audience chattering continues)
-[00:03:48.100 --> 00:03:52.100]   (audience chattering continues)
-[00:03:53.100 --> 00:03:57.100]   (audience chattering continues)
-[00:03:58.100 --> 00:04:02.100]   (audience chattering continues)
-[00:04:03.100 --> 00:04:07.100]   (audience chattering continues)
-[00:04:07.100 --> 00:04:20.100]   (audience chattering continues)
-[00:04:20.100 --> 00:04:24.100]   (audience chattering continues)
-[00:04:25.100 --> 00:04:29.100]   (audience chattering continues)
-[00:04:30.100 --> 00:04:34.100]   (audience chattering continues)
-[00:04:35.100 --> 00:04:39.100]   (audience chattering continues)
-[00:04:40.100 --> 00:04:44.100]   (audience chattering continues)
-[00:04:45.100 --> 00:04:49.100]   (audience chattering continues)
-[00:04:50.100 --> 00:04:54.100]   (audience chattering continues)
-[00:04:55.100 --> 00:04:59.100]   (audience chattering continues)
-[00:04:59.100 --> 00:05:06.100]   (audience chattering continues)
-[00:05:06.100 --> 00:05:15.100]   (audience chattering continues)
-[00:05:23.100 --> 00:05:27.100]   (audience chattering continues)
-[00:05:27.100 --> 00:05:42.100]   (audience chattering continues)
-[00:05:43.100 --> 00:05:47.100]   (audience chattering continues)
-[00:05:48.100 --> 00:05:52.100]   (audience chattering continues)
-[00:05:53.100 --> 00:05:57.100]   (audience chattering continues)
-[00:05:57.100 --> 00:06:20.100]   (audience chattering continues)
-[00:06:21.100 --> 00:06:25.100]   (audience chattering continues)
-[00:06:26.100 --> 00:06:30.100]   (audience chattering continues)
-[00:06:31.100 --> 00:06:35.100]   (audience chattering continues)
-[00:06:35.100 --> 00:06:39.100]   (audience chattering continues)
-[00:06:39.100 --> 00:06:43.100]   (audience chattering continues)
-[00:06:44.100 --> 00:06:48.100]   (audience chattering continues)
-[00:06:49.100 --> 00:06:53.100]   (audience chattering continues)
-[00:06:53.100 --> 00:06:57.100]   (audience chattering continues)
-[00:06:57.100 --> 00:07:01.100]   (audience chattering continues)
-[00:07:01.100 --> 00:07:05.100]   (audience chattering continues)
-[00:07:06.100 --> 00:07:10.100]   (audience chattering continues)
-[00:07:11.100 --> 00:07:15.100]   (audience chattering continues)
-[00:07:39.100 --> 00:07:43.100]   (audience chattering continues)
-[00:07:43.100 --> 00:07:47.100]   (audience chattering continues)
-[00:07:47.100 --> 00:07:51.100]   (audience chattering continues)
-[00:07:51.100 --> 00:08:01.100]   [BLANK_AUDIO]
+[00:00:12.320 --> 00:00:16.400]   (audience chattering continues)
+[00:00:16.400 --> 00:00:20.480]   (audience chattering continues)
+[00:00:20.480 --> 00:00:24.560]   (audience chattering continues)
+[00:00:24.560 --> 00:00:28.640]   (audience chattering continues)
+[00:00:28.640 --> 00:00:32.720]   (audience chattering continues)
+[00:00:32.720 --> 00:00:36.800]   (audience chattering continues)
+[00:00:36.800 --> 00:00:40.880]   (audience chattering continues)
+[00:00:40.880 --> 00:00:44.960]   (audience chattering continues)
+[00:00:45.120 --> 00:00:49.200]   (audience chattering continues)
+[00:00:49.200 --> 00:00:53.200]   (audience chattering continues)
+[00:00:53.200 --> 00:00:57.200]   (audience chattering continues)
+[00:00:57.760 --> 00:01:01.840]   (audience chattering continues)
+[00:01:01.840 --> 00:01:05.840]   (audience chattering continues)
+[00:01:05.840 --> 00:01:09.840]   (audience chattering continues)
+[00:01:09.840 --> 00:01:13.840]   (audience chattering continues)
+[00:01:13.840 --> 00:01:17.840]   (audience chattering continues)
+[00:01:17.840 --> 00:01:21.840]   (audience chattering continues)
+[00:01:21.840 --> 00:01:25.840]   (audience chattering continues)
+[00:01:25.840 --> 00:01:29.840]   (audience chattering continues)
+[00:01:29.840 --> 00:01:33.840]   (audience chattering continues)
+[00:01:34.840 --> 00:01:38.840]   (audience chattering continues)
+[00:01:38.840 --> 00:01:42.760]   (audience chattering continues)
+[00:01:42.760 --> 00:01:46.760]   (audience chattering continues)
+[00:01:46.760 --> 00:01:50.760]   (audience chattering continues)
+[00:01:50.760 --> 00:01:54.760]   (audience chattering continues)
+[00:01:54.760 --> 00:01:58.760]   (audience chattering continues)
+[00:01:58.760 --> 00:02:02.760]   (audience chattering continues)
+[00:02:02.760 --> 00:02:06.760]   (audience chattering continues)
+[00:02:06.760 --> 00:02:10.760]   (audience chattering continues)
+[00:02:10.760 --> 00:02:14.760]   (audience chattering continues)
+[00:02:14.760 --> 00:02:18.760]   (audience chattering continues)
+[00:02:18.760 --> 00:02:22.760]   (audience chattering continues)
+[00:02:22.760 --> 00:02:26.760]   (audience chattering continues)
+[00:02:26.760 --> 00:02:30.760]   (audience chattering continues)
+[00:02:30.760 --> 00:02:34.760]   (audience chattering continues)
+[00:02:34.760 --> 00:02:38.760]   (audience chattering continues)
+[00:02:39.760 --> 00:02:43.760]   (audience chattering continues)
+[00:02:44.760 --> 00:02:48.760]   (audience chattering continues)
+[00:02:48.760 --> 00:02:52.760]   (audience chattering continues)
+[00:02:53.760 --> 00:02:57.760]   (audience chattering continues)
+[00:02:57.760 --> 00:03:14.760]   (audience chattering continues)
+[00:03:14.760 --> 00:03:18.760]   (audience chattering continues)
+[00:03:18.760 --> 00:03:33.760]   (audience chattering continues)
+[00:03:34.760 --> 00:03:38.760]   (audience chattering continues)
+[00:03:38.760 --> 00:03:50.760]   (audience chattering continues)
+[00:03:50.760 --> 00:03:54.760]   (audience chattering continues)
+[00:03:54.760 --> 00:04:02.760]   (audience chattering continues)
+[00:04:02.760 --> 00:04:12.760]   (audience chattering continues)
+[00:04:15.760 --> 00:04:19.760]   (audience chattering continues)
+[00:04:19.760 --> 00:04:30.760]   (audience chattering continues)
+[00:04:31.760 --> 00:04:35.760]   (audience chattering continues)
+[00:04:35.760 --> 00:04:48.760]   (audience chattering continues)
+[00:04:49.760 --> 00:04:53.760]   (audience chattering continues)
+[00:04:53.760 --> 00:05:06.760]   (audience chattering continues)
+[00:05:06.760 --> 00:05:10.760]   (audience chattering continues)
+[00:05:10.760 --> 00:05:26.760]   (audience chattering continues)
+[00:05:26.760 --> 00:05:30.760]   (audience chattering continues)
+[00:05:30.760 --> 00:05:40.760]   (audience chattering continues)
+[00:05:40.760 --> 00:05:50.760]   (audience chattering continues)
+[00:05:50.760 --> 00:05:54.760]   (audience chattering continues)
+[00:05:54.760 --> 00:06:10.760]   (audience chattering continues)
+[00:06:10.760 --> 00:06:14.760]   (audience chattering continues)
+[00:06:14.760 --> 00:06:31.760]   (audience chattering continues)
+[00:06:32.760 --> 00:06:36.760]   (audience chattering continues)
+[00:06:36.760 --> 00:06:49.760]   (audience chattering continues)
+[00:06:49.760 --> 00:06:53.760]   (audience chattering continues)
+[00:06:53.760 --> 00:07:15.760]   (audience chattering continues)
+[00:07:16.760 --> 00:07:20.760]   (audience chattering continues)
+[00:07:20.760 --> 00:07:35.760]   (audience chattering continues)
+[00:07:35.760 --> 00:07:39.760]   (audience chattering continues)
+[00:07:39.760 --> 00:07:56.760]   (audience chattering continues)
+[00:07:56.760 --> 00:08:00.760]   (audience chattering continues)
+[00:08:01.760 --> 00:08:05.760]   (audience chattering continues)
+[00:08:05.760 --> 00:08:22.760]   (audience chattering continues)
+[00:08:22.760 --> 00:08:26.760]   (audience chattering continues)
+[00:08:26.760 --> 00:08:40.760]   (audience chattering continues)
+[00:08:40.760 --> 00:08:44.760]   (audience chattering continues)
+[00:08:44.760 --> 00:08:48.760]   (audience chattering continues)
+[00:08:49.760 --> 00:08:53.760]   (audience chattering continues)
+[00:08:53.760 --> 00:09:14.760]   (audience chattering continues)
+[00:09:14.760 --> 00:09:18.760]   (audience chattering continues)
+[00:09:19.760 --> 00:09:23.760]   (audience chattering continues)
+[00:09:23.760 --> 00:09:27.760]   (audience chattering continues)
+[00:09:27.760 --> 00:09:31.760]   (audience chattering continues)
+[00:09:32.760 --> 00:09:36.760]   (audience chattering continues)
+[00:09:36.760 --> 00:09:40.760]   (audience chattering continues)
+[00:09:40.760 --> 00:09:44.760]   (audience chattering continues)
+[00:09:44.760 --> 00:09:48.760]   (audience chattering continues)
+[00:09:48.760 --> 00:09:52.760]   (audience chattering continues)
+[00:09:53.760 --> 00:09:57.760]   (audience chattering continues)
+[00:09:57.760 --> 00:10:19.760]   (audience chattering continues)
+[00:10:20.760 --> 00:10:24.760]   (audience chattering continues)
+[00:10:46.760 --> 00:10:48.760]   Good evening, everybody.
+[00:10:48.760 --> 00:10:51.760]   As it is about five past seven,
+[00:10:51.760 --> 00:10:53.760]   we're gonna get started in just about 30 seconds.
+[00:10:53.760 --> 00:10:56.760]   If you are there far by the entry,
+[00:10:56.760 --> 00:10:58.760]   please make your way over to your tables,
+[00:10:58.760 --> 00:11:00.760]   and we'll go ahead and get started
+[00:11:00.760 --> 00:11:01.760]   in just about 30 seconds, okay?
+[00:11:01.760 --> 00:11:02.760]   Thanks, everyone.
+[00:11:02.760 --> 00:11:06.760]   (audience chattering continues)
+[00:11:07.760 --> 00:11:11.760]   (audience chattering continues)
+[00:11:11.760 --> 00:11:15.760]   (audience chattering continues)
+[00:11:16.760 --> 00:11:20.760]   (audience chattering continues)
+[00:11:20.760 --> 00:11:40.760]   (audience chattering continues)
+[00:11:41.760 --> 00:11:45.760]   (audience chattering continues)
+[00:11:45.760 --> 00:12:00.760]   Okay.
+[00:12:00.760 --> 00:12:02.760]   Well, thanks again, everybody.
+[00:12:02.760 --> 00:12:05.760]   We are glad to see all of you.
+[00:12:05.760 --> 00:12:08.760]   To see everybody come together, this is exciting.
+[00:12:08.760 --> 00:12:10.760]   Feels like first day of school.
+[00:12:10.760 --> 00:12:13.760]   People are excited with food and snacks.
+[00:12:13.760 --> 00:12:16.760]   We are excited for this particular Bible study.
+[00:12:16.760 --> 00:12:20.760]   Pastor Peter's gonna explain the topic, the theme,
+[00:12:20.760 --> 00:12:23.760]   and how we're gonna really join our minds and our hearts
+[00:12:23.760 --> 00:12:26.760]   as we think about how God desires us
+[00:12:26.760 --> 00:12:28.760]   to build and edify his church.
+[00:12:28.760 --> 00:12:31.760]   Now, for the structure of the Bible study,
+[00:12:31.760 --> 00:12:33.760]   you guys know in the previous session,
+[00:12:33.760 --> 00:12:35.760]   we come together for worship like this.
+[00:12:35.760 --> 00:12:37.760]   We have discussion, teaching, and more discussion
+[00:12:37.760 --> 00:12:38.760]   for application.
+[00:12:38.760 --> 00:12:40.760]   We're gonna keep it that same structure,
+[00:12:40.760 --> 00:12:43.760]   so please know coming in, we'll always begin with worship,
+[00:12:43.760 --> 00:12:47.760]   and we want you guys just to come in with worshipful hearts,
+[00:12:47.760 --> 00:12:49.760]   and then we'll begin with the fruit of our labor
+[00:12:49.760 --> 00:12:52.760]   during the week when we study passages and read the book,
+[00:12:52.760 --> 00:12:54.760]   where we can begin with the discussions, okay?
+[00:12:54.760 --> 00:12:57.760]   Let's take a moment now to join our hearts in prayer.
+[00:12:57.760 --> 00:13:00.760]   Our God, we are so grateful.
+[00:13:00.760 --> 00:13:03.760]   We're grateful because we know it's a huge privilege
+[00:13:03.760 --> 00:13:05.760]   to study your word together,
+[00:13:05.760 --> 00:13:08.760]   huge privilege to join in the fellowship,
+[00:13:08.760 --> 00:13:13.760]   privileged Father God to be able to be fed upon your teaching,
+[00:13:13.760 --> 00:13:16.760]   and so with grateful hearts, Lord, we want to lift you up.
+[00:13:16.760 --> 00:13:19.760]   We ask God that each opportunity we get
+[00:13:19.760 --> 00:13:21.760]   to join with our brothers and sisters,
+[00:13:21.760 --> 00:13:23.760]   we pray, Lord, that it will be spirit-filled,
+[00:13:23.760 --> 00:13:26.760]   we would fellowship, Lord, in the spirit and truth.
+[00:13:26.760 --> 00:13:29.760]   We want to take time now to sing to you, God,
+[00:13:29.760 --> 00:13:32.760]   to join our voices for you, Lord, and to lift you up.
+[00:13:32.760 --> 00:13:35.760]   It's in Christ's name, amen.
+[00:13:35.760 --> 00:13:54.760]   The love of God.
+[00:13:54.760 --> 00:13:57.760]   ♪ The love of God ♪
+[00:13:57.760 --> 00:14:00.760]   ♪ Is greater far ♪
+[00:14:00.760 --> 00:14:03.760]   ♪ Than tongue or pen ♪
+[00:14:03.760 --> 00:14:07.760]   ♪ Can ever tell ♪
+[00:14:07.760 --> 00:14:10.760]   ♪ It goes beyond ♪
+[00:14:10.760 --> 00:14:14.760]   ♪ The highest star ♪
+[00:14:14.760 --> 00:14:17.760]   ♪ And reaches to ♪
+[00:14:17.760 --> 00:14:21.760]   ♪ The lowest hell ♪
+[00:14:21.760 --> 00:14:24.760]   ♪ A guilty pair ♪
+[00:14:24.760 --> 00:14:27.760]   ♪ Bowed down with care ♪
+[00:14:27.760 --> 00:14:31.760]   ♪ God gave his Son ♪
+[00:14:31.760 --> 00:14:34.760]   ♪ To win ♪
+[00:14:34.760 --> 00:14:38.760]   ♪ His erring child ♪
+[00:14:38.760 --> 00:14:41.760]   ♪ He reconciled ♪
+[00:14:41.760 --> 00:14:45.760]   ♪ And pardoned from ♪
+[00:14:45.760 --> 00:14:48.760]   ♪ His sin ♪
+[00:14:48.760 --> 00:14:52.760]   Years of time.
+[00:14:52.760 --> 00:14:55.760]   ♪ When years of time ♪
+[00:14:55.760 --> 00:14:59.760]   ♪ Shall pass away ♪
+[00:14:59.760 --> 00:15:02.760]   ♪ And earthly thrones ♪
+[00:15:02.760 --> 00:15:06.760]   ♪ And kingdoms fall ♪
+[00:15:06.760 --> 00:15:09.760]   ♪ When men who hear ♪
+[00:15:09.760 --> 00:15:13.760]   ♪ Refuse to pray ♪
+[00:15:13.760 --> 00:15:16.760]   ♪ On rocks and hills ♪
+[00:15:16.760 --> 00:15:19.760]   ♪ And mountains go ♪
+[00:15:19.760 --> 00:15:23.760]   ♪ God's love so sure ♪
+[00:15:23.760 --> 00:15:26.760]   ♪ Shall still endure ♪
+[00:15:26.760 --> 00:15:30.760]   ♪ On measureless ♪
+[00:15:30.760 --> 00:15:33.760]   ♪ And strong ♪
+[00:15:33.760 --> 00:15:36.760]   ♪ Redeeming grace ♪
+[00:15:36.760 --> 00:15:40.760]   ♪ To Adam's race ♪
+[00:15:40.760 --> 00:15:44.760]   ♪ The saints and angels ♪
+[00:15:44.760 --> 00:15:45.760]   ♪ Song ♪
+[00:15:45.760 --> 00:15:47.760]   Oh, love of God.
+[00:15:47.760 --> 00:15:50.760]   ♪ Oh, love of God ♪
+[00:15:50.760 --> 00:15:53.760]   ♪ How rich and pure ♪
+[00:15:53.760 --> 00:15:57.760]   ♪ How measureless ♪
+[00:15:57.760 --> 00:16:00.760]   ♪ And strong ♪
+[00:16:00.760 --> 00:16:07.760]   ♪ It shall forevermore endure ♪
+[00:16:07.760 --> 00:16:11.760]   ♪ The saints and angels ♪
+[00:16:11.760 --> 00:16:13.760]   ♪ Song ♪
+[00:16:13.760 --> 00:16:17.760]   Could we with him.
+[00:16:17.760 --> 00:16:20.760]   ♪ Could we with him ♪
+[00:16:20.760 --> 00:16:24.760]   ♪ The ocean fill ♪
+[00:16:24.760 --> 00:16:27.760]   ♪ And were the skies ♪
+[00:16:27.760 --> 00:16:31.760]   ♪ Of parchment made ♪
+[00:16:31.760 --> 00:16:34.760]   ♪ Were every stock ♪
+[00:16:34.760 --> 00:16:38.760]   ♪ On earth the quill ♪
+[00:16:38.760 --> 00:16:41.760]   ♪ And every man ♪
+[00:16:41.760 --> 00:16:44.760]   ♪ A scribe by trade ♪
+[00:16:44.760 --> 00:16:48.760]   ♪ To write the love ♪
+[00:16:48.760 --> 00:16:51.760]   ♪ Of God above ♪
+[00:16:51.760 --> 00:16:58.760]   ♪ Or drink the ocean dry ♪
+[00:16:58.760 --> 00:17:01.760]   ♪ Nor could the scroll ♪
+[00:17:01.760 --> 00:17:05.760]   ♪ Contain the whole ♪
+[00:17:05.760 --> 00:17:09.760]   ♪ Though stretched from sky ♪
+[00:17:09.760 --> 00:17:12.760]   ♪ To sky ♪
+[00:17:12.760 --> 00:17:15.760]   ♪ Oh, love of God ♪
+[00:17:15.760 --> 00:17:18.760]   ♪ How rich and pure ♪
+[00:17:18.760 --> 00:17:22.760]   ♪ How measureless ♪
+[00:17:22.760 --> 00:17:25.760]   ♪ And strong ♪
+[00:17:25.760 --> 00:17:32.760]   ♪ It shall forevermore endure ♪
+[00:17:32.760 --> 00:17:37.760]   ♪ The saints and angels ♪
+[00:17:37.760 --> 00:17:39.760]   ♪ Song ♪
+[00:17:39.760 --> 00:17:43.760]   ♪ Oh, love of God ♪
+[00:17:43.760 --> 00:17:46.760]   ♪ How rich and pure ♪
+[00:17:46.760 --> 00:17:50.760]   ♪ How measureless ♪
+[00:17:50.760 --> 00:17:53.760]   ♪ And strong ♪
+[00:17:53.760 --> 00:18:01.760]   ♪ It shall forevermore endure ♪
+[00:18:01.760 --> 00:18:06.760]   ♪ The saints and angels ♪
+[00:18:06.760 --> 00:18:09.760]   ♪ Song ♪
+[00:18:09.760 --> 00:18:19.760]   ♪ ♪
+[00:18:19.760 --> 00:18:22.760]   ♪ All that I am ♪
+[00:18:22.760 --> 00:18:26.760]   ♪ All that I have ♪
+[00:18:26.760 --> 00:18:31.760]   ♪ I lay them down before you ♪
+[00:18:31.760 --> 00:18:33.760]   ♪ Oh, Lord ♪
+[00:18:33.760 --> 00:18:37.760]   ♪ All my regrets ♪
+[00:18:37.760 --> 00:18:41.760]   ♪ All my acclaim ♪
+[00:18:41.760 --> 00:18:44.760]   ♪ The joy and the pain ♪
+[00:18:44.760 --> 00:18:51.760]   ♪ I'm making them yours ♪
+[00:18:51.760 --> 00:18:54.760]   ♪ All that I am ♪
+[00:18:54.760 --> 00:18:57.760]   ♪ All that I am ♪
+[00:18:57.760 --> 00:19:01.760]   ♪ All that I have ♪
+[00:19:01.760 --> 00:19:06.760]   ♪ I lay them down before you ♪
+[00:19:06.760 --> 00:19:08.760]   ♪ Oh, Lord ♪
+[00:19:08.760 --> 00:19:12.760]   ♪ All my regrets ♪
+[00:19:12.760 --> 00:19:15.760]   ♪ All my acclaim ♪
+[00:19:15.760 --> 00:19:18.760]   ♪ The joy and the pain ♪
+[00:19:18.760 --> 00:19:24.760]   ♪ I'm making them yours ♪
+[00:19:24.760 --> 00:19:30.760]   ♪ Lord, I offer my life to you ♪
+[00:19:30.760 --> 00:19:35.760]   ♪ Everything I do ♪
+[00:19:35.760 --> 00:19:39.760]   ♪ Is it for your glory ♪
+[00:19:39.760 --> 00:19:44.760]   ♪ Lord, I offer my days to you ♪
+[00:19:44.760 --> 00:19:49.760]   ♪ Lifting my praise to you ♪
+[00:19:49.760 --> 00:19:56.760]   ♪ As a pleasing sacrifice ♪
+[00:19:56.760 --> 00:20:04.760]   ♪ Lord, I offer you my life ♪
+[00:20:04.760 --> 00:20:07.760]   ♪ Things in the past ♪
+[00:20:07.760 --> 00:20:10.760]   ♪ Things in the past ♪
+[00:20:10.760 --> 00:20:14.760]   ♪ Things yet unseen ♪
+[00:20:14.760 --> 00:20:16.760]   ♪ Wishes and dreams ♪
+[00:20:16.760 --> 00:20:21.760]   ♪ That are yet to come true ♪
+[00:20:21.760 --> 00:20:24.760]   ♪ All of my hopes ♪
+[00:20:24.760 --> 00:20:28.760]   ♪ All of my plans ♪
+[00:20:28.760 --> 00:20:31.760]   ♪ My heart and my knees ♪
+[00:20:31.760 --> 00:20:37.760]   ♪ Are lifted to you ♪
+[00:20:37.760 --> 00:20:42.760]   ♪ Lord, I offer my life to you ♪
+[00:20:42.760 --> 00:20:47.760]   ♪ Everything I do ♪
+[00:20:47.760 --> 00:20:51.760]   ♪ Is it for your glory ♪
+[00:20:51.760 --> 00:20:56.760]   ♪ Lord, I offer my days to you ♪
+[00:20:56.760 --> 00:21:01.760]   ♪ Lifting my praise to you ♪
+[00:21:01.760 --> 00:21:08.760]   ♪ As a pleasing sacrifice ♪
+[00:21:08.760 --> 00:21:12.760]   ♪ Lord, I offer you my ♪
+[00:21:12.760 --> 00:21:17.760]   ♪ Lord, I offer my life to you ♪
+[00:21:17.760 --> 00:21:22.760]   ♪ Everything I do ♪
+[00:21:22.760 --> 00:21:26.760]   ♪ Is it for your glory ♪
+[00:21:26.760 --> 00:21:31.760]   ♪ Lord, I offer my days to you ♪
+[00:21:31.760 --> 00:21:36.760]   ♪ Lifting my praise to you ♪
+[00:21:36.760 --> 00:21:43.760]   ♪ As a pleasing sacrifice ♪
+[00:21:43.760 --> 00:21:50.760]   ♪ Lord, I offer you my life ♪
+[00:21:50.760 --> 00:21:53.760]   Let's pray.
+[00:21:53.760 --> 00:21:57.760]   Father, we thank you, Lord, so much
+[00:21:57.760 --> 00:22:00.760]   for the opportunity to worship you.
+[00:22:00.760 --> 00:22:05.760]   We pray, Lord, as we come before you as a body,
+[00:22:05.760 --> 00:22:09.760]   we would remember Christ in all things,
+[00:22:09.760 --> 00:22:12.760]   remember Christ's sacrifice for us on the cross,
+[00:22:12.760 --> 00:22:15.760]   that through him we're able to know you.
+[00:22:15.760 --> 00:22:20.760]   We pray as we go into a time of a new Bible study session,
+[00:22:20.760 --> 00:22:23.760]   would you teach us and remind us
+[00:22:23.760 --> 00:22:27.760]   of what it looks like to be part of your church,
+[00:22:27.760 --> 00:22:29.760]   what a healthy church looks like,
+[00:22:29.760 --> 00:22:32.760]   that we would be faithful,
+[00:22:32.760 --> 00:22:36.760]   that we would serve you with all of our hearts, Lord.
+[00:22:36.760 --> 00:22:39.760]   So we thank you, we love you, pray all this in your name.
+[00:22:39.760 --> 00:22:41.760]   Amen.
+[00:22:41.760 --> 00:22:57.760]   Okay, for those of you guys coming in,
+[00:22:57.760 --> 00:23:00.760]   please go ahead and try to find your tables.
+[00:23:00.760 --> 00:23:02.760]   The tables do have their numbers on there,
+[00:23:02.760 --> 00:23:04.760]   so you can go get situated.
+[00:23:04.760 --> 00:23:06.760]   But while I have all of your attentions,
+[00:23:06.760 --> 00:23:09.760]   I wanna cover a couple really important announcements.
+[00:23:09.760 --> 00:23:12.760]   So we're just super thankful for an active body,
+[00:23:12.760 --> 00:23:15.760]   and as you know, for us, we just carry the burden
+[00:23:15.760 --> 00:23:17.760]   of cleaning our church together.
+[00:23:17.760 --> 00:23:21.760]   Your small group is going to be assigned a specific month,
+[00:23:21.760 --> 00:23:24.760]   and then we're gonna try to coordinate
+[00:23:24.760 --> 00:23:27.760]   with our cleaning team, led by Martin Mao,
+[00:23:27.760 --> 00:23:30.760]   so that we can really divvy up the load
+[00:23:30.760 --> 00:23:32.760]   on when to do cleaning.
+[00:23:32.760 --> 00:23:35.760]   So really fast, I know the wording is small,
+[00:23:35.760 --> 00:23:37.760]   but one, check your email,
+[00:23:37.760 --> 00:23:39.760]   because you're gonna get a reminder.
+[00:23:39.760 --> 00:23:41.760]   But just reading off really fast now,
+[00:23:41.760 --> 00:23:45.760]   for the month of September, Daniel Eo, Alexi, Melissa,
+[00:23:45.760 --> 00:23:49.760]   Grace Yellow, Keith Young, and Melanie Yi,
+[00:23:49.760 --> 00:23:53.760]   these are the groups that's going to be assigned
+[00:23:53.760 --> 00:23:55.760]   for the month of September.
+[00:23:55.760 --> 00:23:57.760]   Please do sign up, though,
+[00:23:57.760 --> 00:24:00.760]   because we need to see who's available which month, okay?
+[00:24:00.760 --> 00:24:02.760]   I'm not gonna read the other months,
+[00:24:02.760 --> 00:24:04.760]   but you'll get an email with a reminder
+[00:24:04.760 --> 00:24:06.760]   that we're gonna be coordinating
+[00:24:06.760 --> 00:24:08.760]   and doing a rotation for the cleaning service.
+[00:24:08.760 --> 00:24:10.760]   Next slide.
+[00:24:10.760 --> 00:24:16.760]   What? Oh, it's up here. My bad.
+[00:24:16.760 --> 00:24:18.760]   Thank you.
+[00:24:18.760 --> 00:24:20.760]   My fault.
+[00:24:20.760 --> 00:24:22.760]   Hey, would you--oh, thank you.
+[00:24:22.760 --> 00:24:28.760]   So, one, this is for specifically babysitting parents.
+[00:24:28.760 --> 00:24:33.760]   For students who are in the Sprouts Elementary Ministry,
+[00:24:33.760 --> 00:24:35.760]   there is a PTA meeting this Sunday.
+[00:24:35.760 --> 00:24:38.760]   We need some extra hands to do babysitting during that time.
+[00:24:38.760 --> 00:24:41.760]   It's Sunday, 1:45 to 4 p.m.
+[00:24:41.760 --> 00:24:45.760]   It should be more like, yeah, 3:30, the little end.
+[00:24:45.760 --> 00:24:47.760]   So if you're available, please sign up for that.
+[00:24:47.760 --> 00:24:50.760]   Some of you guys have questions about babysitting.
+[00:24:50.760 --> 00:24:54.760]   Again, for the duration of the Bible study series,
+[00:24:54.760 --> 00:24:56.760]   we do need hands,
+[00:24:56.760 --> 00:24:58.760]   and we really appreciate you guys' sacrifice
+[00:24:58.760 --> 00:25:00.760]   to take care of the children.
+[00:25:00.760 --> 00:25:02.760]   A lot of the parents of children
+[00:25:02.760 --> 00:25:04.760]   are actually small group leaders here tonight,
+[00:25:04.760 --> 00:25:06.760]   and so we want to, you know, afford them the time
+[00:25:06.760 --> 00:25:08.760]   and flexibility to serve in that way.
+[00:25:08.760 --> 00:25:10.760]   Please make sure you sign up for that.
+[00:25:10.760 --> 00:25:12.760]   Again, check your emails.
+[00:25:12.760 --> 00:25:14.760]   If you have any questions about babysitting,
+[00:25:14.760 --> 00:25:16.760]   see our brother, Alex Coe.
+[00:25:16.760 --> 00:25:18.760]   Next slide. Thank you, Eugene.
+[00:25:18.760 --> 00:25:20.760]   For the sisters,
+[00:25:20.760 --> 00:25:22.760]   this is an important announcement for you,
+[00:25:22.760 --> 00:25:24.760]   that Women's Ministry is hosting an event
+[00:25:24.760 --> 00:25:26.760]   called "This is My Story, This is My Song."
+[00:25:26.760 --> 00:25:29.760]   Please make sure to mark your calendars for Saturday.
+[00:25:29.760 --> 00:25:32.760]   That's October 19th from 8 a.m.--
+[00:25:32.760 --> 00:25:34.760]   8.30 a.m. in the main sanctuary.
+[00:25:34.760 --> 00:25:36.760]   So you guys can do it now
+[00:25:36.760 --> 00:25:38.760]   if you think you're going to forget,
+[00:25:38.760 --> 00:25:40.760]   but mark your calendar for that.
+[00:25:40.760 --> 00:25:42.760]   It's a sweet opportunity for all the sisters
+[00:25:42.760 --> 00:25:44.760]   across various affinity groups to come together
+[00:25:44.760 --> 00:25:46.760]   and fellowship that way, okay?
+[00:25:46.760 --> 00:25:48.760]   Okay, so I think-- can you hit the next slide
+[00:25:48.760 --> 00:25:50.760]   to see if there's anything else?
+[00:25:50.760 --> 00:25:52.760]   I think that may be it. Okay, great.
+[00:25:52.760 --> 00:25:54.760]   So with that said,
+[00:25:54.760 --> 00:25:57.760]   we're going to switch over to our discussion questions.
+[00:25:57.760 --> 00:25:59.760]   Do I need to hit the button, Alex?
+[00:25:59.760 --> 00:26:01.760]   He's got it? Okay.
+[00:26:01.760 --> 00:26:03.760]   So this first portion,
+[00:26:03.760 --> 00:26:05.760]   because it's the, you know, beginning portion,
+[00:26:05.760 --> 00:26:07.760]   and a lot of you guys
+[00:26:07.760 --> 00:26:09.760]   may see new faces within your group,
+[00:26:09.760 --> 00:26:12.760]   please take this time to get to know each other,
+[00:26:12.760 --> 00:26:14.760]   get acquainted and familiarized,
+[00:26:14.760 --> 00:26:17.760]   and use these discussion questions
+[00:26:17.760 --> 00:26:19.760]   about how you came to church,
+[00:26:19.760 --> 00:26:22.760]   how you became a Christian, et cetera,
+[00:26:22.760 --> 00:26:24.760]   and some factoids about yourself
+[00:26:24.760 --> 00:26:26.760]   that people may not know.
+[00:26:26.760 --> 00:26:28.760]   Share openly, you know, share intimately.
+[00:26:28.760 --> 00:26:30.760]   Get close.
+[00:26:30.760 --> 00:26:32.760]   Tonight we'll get back together, usual time,
+[00:26:32.760 --> 00:26:34.760]   which is 8 o'clock.
+[00:26:34.760 --> 00:26:36.760]   Please make sure if you're going off or to a room
+[00:26:36.760 --> 00:26:38.760]   to come back just a little bit early
+[00:26:38.760 --> 00:26:40.760]   so we can start promptly at 8.
+[00:26:40.760 --> 00:26:42.760]   All right, we'll see you guys in a little bit.
+[00:26:42.760 --> 00:26:44.760]   Thank you.
+[00:26:44.760 --> 00:26:46.760]   Oh.
+[00:26:46.760 --> 00:26:48.760]   Oh, sorry.
+[00:26:48.760 --> 00:26:50.760]   For anyone who is assigned to the newcomers group,
+[00:26:50.760 --> 00:26:52.760]   you're with me right here
+[00:26:52.760 --> 00:26:54.760]   in the front conference room.
+[00:26:54.760 --> 00:26:56.760]   So make your way over here at this time.
+[00:26:56.760 --> 00:26:58.760]   Thank you.
+[00:26:58.760 --> 00:27:00.760]   Thank you.
+[00:27:00.760 --> 00:27:02.760]   Thank you.
+[00:27:02.760 --> 00:27:04.760]   Thank you.
+[00:27:04.760 --> 00:27:06.760]   Thank you.
+[00:27:06.760 --> 00:27:08.760]   Thank you.
+[00:27:08.760 --> 00:27:11.760]   Thank you.
+[00:27:11.760 --> 00:27:14.760]   Thank you.
+[00:27:15.760 --> 00:27:18.760]   Thank you.
+[00:27:18.760 --> 00:27:21.760]   Thank you.
+[00:27:21.760 --> 00:27:24.760]   Thank you.
+[00:27:25.760 --> 00:27:28.760]   Thank you.
+[00:27:28.760 --> 00:27:31.760]   Thank you.
+[00:27:31.760 --> 00:27:34.760]   [ Indistinct conversations ]
+[00:27:35.760 --> 00:27:38.760]   [ Indistinct conversations ]
+[00:27:38.760 --> 00:27:41.760]   [ Indistinct conversations ]
+[00:27:41.760 --> 00:27:44.760]   [ Indistinct conversations ]
+[00:27:44.760 --> 00:27:59.760]   [ Indistinct conversations ]
+[00:28:09.760 --> 00:28:12.760]   [ Indistinct conversations ]
+[00:28:12.760 --> 00:28:15.760]   [ Indistinct conversations ]
+[00:28:15.760 --> 00:28:18.760]   [ Indistinct conversations ]
+[00:28:18.760 --> 00:28:21.760]   [ Indistinct conversations ]
+[00:28:21.760 --> 00:28:44.760]   [ Indistinct conversations ]
+[00:28:44.760 --> 00:28:47.760]   [ Indistinct conversations ]
+[00:28:47.760 --> 00:29:05.760]   [ Indistinct conversations ]
+[00:29:05.760 --> 00:29:08.760]   [ Indistinct conversations ]
+[00:29:08.760 --> 00:29:31.760]   [ Indistinct conversations ]
+[00:29:31.760 --> 00:29:34.760]   [ Indistinct conversations ]
+[00:29:34.760 --> 00:29:57.760]   [ Indistinct conversations ]
+[00:29:57.760 --> 00:30:00.760]   [ Indistinct conversations ]
+[00:30:00.760 --> 00:30:23.760]   [ Indistinct conversations ]
+[00:30:23.760 --> 00:30:26.760]   [ Indistinct conversations ]
+[00:30:26.760 --> 00:30:29.760]   [ Indistinct conversations ]
+[00:30:29.760 --> 00:30:32.760]   [ Indistinct conversations ]
+[00:30:58.760 --> 00:31:01.760]   [ Indistinct conversations ]
+[00:31:01.760 --> 00:31:04.760]   [ Indistinct conversations ]
+[00:31:04.760 --> 00:31:07.760]   [ Indistinct conversations ]
+[00:31:07.760 --> 00:31:10.760]   [ Indistinct conversations ]
+[00:31:10.760 --> 00:31:13.760]   [ Indistinct conversations ]
+[00:31:13.760 --> 00:31:16.760]   [ Indistinct conversations ]
+[00:31:16.760 --> 00:31:19.760]   [ Indistinct conversations ]
+[00:31:19.760 --> 00:31:28.760]   [ Indistinct conversations ]
+[00:31:28.760 --> 00:31:31.760]   [ Indistinct conversations ]
+[00:31:31.760 --> 00:31:47.760]   [ Indistinct conversations ]
+[00:31:47.760 --> 00:31:50.760]   [ Indistinct conversations ]
+[00:31:50.760 --> 00:32:08.760]   [ Indistinct conversations ]
+[00:32:08.760 --> 00:32:11.760]   [ Indistinct conversations ]
+[00:32:11.760 --> 00:32:25.760]   [ Indistinct conversations ]
+[00:32:25.760 --> 00:32:28.760]   [ Indistinct conversations ]
+[00:32:28.760 --> 00:32:44.760]   [ Indistinct conversations ]
+[00:32:44.760 --> 00:32:47.760]   [ Indistinct conversations ]
+[00:32:47.760 --> 00:32:56.760]   [ Indistinct conversations ]
+[00:32:56.760 --> 00:33:09.760]   [ Indistinct conversations ]
+[00:33:09.760 --> 00:33:12.760]   [ Indistinct conversations ]
+[00:33:12.760 --> 00:33:33.760]   [ Indistinct conversations ]
+[00:33:33.760 --> 00:33:36.760]   [ Indistinct conversations ]
+[00:33:36.760 --> 00:33:56.760]   [ Indistinct conversations ]
+[00:33:56.760 --> 00:33:59.760]   [ Indistinct conversations ]
+[00:33:59.760 --> 00:34:22.760]   [ Indistinct conversations ]
+[00:34:22.760 --> 00:34:25.760]   [ Indistinct conversations ]
+[00:34:25.760 --> 00:34:40.760]   [ Indistinct conversations ]
+[00:34:40.760 --> 00:34:43.760]   [ Indistinct conversations ]
+[00:34:43.760 --> 00:35:01.760]   [ Indistinct conversations ]
+[00:35:01.760 --> 00:35:04.760]   [ Indistinct conversations ]
+[00:35:04.760 --> 00:35:26.760]   [ Indistinct conversations ]
+[00:35:26.760 --> 00:35:29.760]   [ Indistinct conversations ]
+[00:35:29.760 --> 00:35:41.760]   [ Indistinct conversations ]
+[00:35:41.760 --> 00:35:44.760]   [ Indistinct conversations ]
+[00:35:44.760 --> 00:36:04.760]   [ Indistinct conversations ]
+[00:36:04.760 --> 00:36:07.760]   [ Indistinct conversations ]
+[00:36:07.760 --> 00:36:16.760]   [ Indistinct conversations ]
+[00:36:16.760 --> 00:36:31.760]   [ Indistinct conversations ]
+[00:36:31.760 --> 00:36:34.760]   [ Indistinct conversations ]
+[00:36:34.760 --> 00:36:52.760]   [ Indistinct conversations ]
+[00:36:52.760 --> 00:36:55.760]   [ Indistinct conversations ]
+[00:36:55.760 --> 00:37:18.760]   [ Indistinct conversations ]
+[00:37:18.760 --> 00:37:21.760]   [ Indistinct conversations ]
+[00:37:21.760 --> 00:37:44.760]   [ Indistinct conversations ]
+[00:37:44.760 --> 00:37:47.760]   [ Indistinct conversations ]
+[00:37:47.760 --> 00:38:09.760]   [ Indistinct conversations ]
+[00:38:09.760 --> 00:38:12.760]   [ Indistinct conversations ]
+[00:38:12.760 --> 00:38:15.760]   [ Indistinct conversations ]
+[00:38:15.760 --> 00:38:33.760]   [ Indistinct conversations ]
+[00:38:33.760 --> 00:38:36.760]   [ Indistinct conversations ]
+[00:38:36.760 --> 00:38:52.760]   [ Indistinct conversations ]
+[00:38:52.760 --> 00:38:55.760]   [ Indistinct conversations ]
+[00:38:55.760 --> 00:38:58.760]   [ Indistinct conversations ]
+[00:39:24.760 --> 00:39:27.760]   [ Indistinct conversations ]
+[00:39:27.760 --> 00:39:30.760]   [ Indistinct conversations ]
+[00:39:30.760 --> 00:39:33.760]   [ Indistinct conversations ]
+[00:39:33.760 --> 00:39:36.760]   [ Indistinct conversations ]
+[00:39:36.760 --> 00:39:39.760]   [ Indistinct conversations ]
+[00:39:39.760 --> 00:39:42.760]   [ Indistinct conversations ]
+[00:39:42.760 --> 00:39:58.760]   [ Indistinct conversations ]
+[00:39:58.760 --> 00:40:01.760]   [ Indistinct conversations ]
+[00:40:01.760 --> 00:40:13.760]   [ Indistinct conversations ]
+[00:40:13.760 --> 00:40:23.760]   [ Indistinct conversations ]
+[00:40:23.760 --> 00:40:26.760]   [ Indistinct conversations ]
+[00:40:26.760 --> 00:40:42.760]   [ Indistinct conversations ]
+[00:40:42.760 --> 00:40:45.760]   [ Indistinct conversations ]
+[00:40:45.760 --> 00:41:00.760]   [ Indistinct conversations ]
+[00:41:00.760 --> 00:41:03.760]   [ Indistinct conversations ]
+[00:41:03.760 --> 00:41:21.760]   [ Indistinct conversations ]
+[00:41:21.760 --> 00:41:24.760]   [ Indistinct conversations ]
+[00:41:24.760 --> 00:41:38.760]   [ Indistinct conversations ]
+[00:41:38.760 --> 00:41:41.760]   [ Indistinct conversations ]
+[00:41:41.760 --> 00:42:01.760]   [ Indistinct conversations ]
+[00:42:01.760 --> 00:42:04.760]   [ Indistinct conversations ]
+[00:42:04.760 --> 00:42:26.760]   [ Indistinct conversations ]
+[00:42:26.760 --> 00:42:29.760]   [ Indistinct conversations ]
+[00:42:29.760 --> 00:42:50.760]   [ Indistinct conversations ]
+[00:42:51.760 --> 00:42:54.760]   [ Indistinct conversations ]
+[00:42:54.760 --> 00:43:13.760]   [ Indistinct conversations ]
+[00:43:13.760 --> 00:43:16.760]   [ Indistinct conversations ]
+[00:43:16.760 --> 00:43:27.760]   [ Indistinct conversations ]
+[00:43:27.760 --> 00:43:30.760]   [ Indistinct conversations ]
+[00:43:30.760 --> 00:43:51.760]   [ Indistinct conversations ]
+[00:43:51.760 --> 00:43:54.760]   [ Indistinct conversations ]
+[00:43:54.760 --> 00:44:17.760]   [ Indistinct conversations ]
+[00:44:17.760 --> 00:44:20.760]   [ Indistinct conversations ]
+[00:44:20.760 --> 00:44:38.760]   [ Indistinct conversations ]
+[00:44:38.760 --> 00:44:41.760]   [ Indistinct conversations ]
+[00:44:41.760 --> 00:45:06.760]   [ Indistinct conversations ]
+[00:45:06.760 --> 00:45:09.760]   [ Indistinct conversations ]
+[00:45:09.760 --> 00:45:31.760]   [ Indistinct conversations ]
+[00:45:31.760 --> 00:45:34.760]   [ Indistinct conversations ]
+[00:45:34.760 --> 00:45:48.760]   [ Indistinct conversations ]
+[00:45:48.760 --> 00:45:51.760]   [ Indistinct conversations ]
+[00:45:51.760 --> 00:46:15.760]   [ Indistinct conversations ]
+[00:46:15.760 --> 00:46:18.760]   [ Indistinct conversations ]
+[00:46:18.760 --> 00:46:21.760]   [ Indistinct conversations ]
+[00:46:21.760 --> 00:46:24.760]   [ Indistinct conversations ]
+[00:46:24.760 --> 00:46:49.760]   [ Indistinct conversations ]
+[00:46:49.760 --> 00:46:52.760]   [ Indistinct conversations ]
+[00:46:52.760 --> 00:47:11.760]   [ Indistinct conversations ]
+[00:47:11.760 --> 00:47:14.760]   [ Indistinct conversations ]
+[00:47:14.760 --> 00:47:17.760]   [ Indistinct conversations ]
+[00:47:17.760 --> 00:47:34.760]   [ Indistinct conversations ]
+[00:47:34.760 --> 00:47:37.760]   [ Indistinct conversations ]
+[00:47:37.760 --> 00:47:52.760]   [ Indistinct conversations ]
+[00:47:52.760 --> 00:47:55.760]   [ Indistinct conversations ]
+[00:47:55.760 --> 00:48:17.760]   [ Indistinct conversations ]
+[00:48:17.760 --> 00:48:20.760]   [ Indistinct conversations ]
+[00:48:20.760 --> 00:48:38.760]   [ Indistinct conversations ]
+[00:48:39.760 --> 00:48:42.760]   [ Indistinct conversations ]
+[00:48:42.760 --> 00:48:45.760]   [ Indistinct conversations ]
+[00:48:45.760 --> 00:48:48.760]   [ Indistinct conversations ]
+[00:48:48.760 --> 00:49:08.760]   [ Indistinct conversations ]
+[00:49:08.760 --> 00:49:11.760]   [ Indistinct conversations ]
+[00:49:11.760 --> 00:49:28.760]   [ Indistinct conversations ]
+[00:49:28.760 --> 00:49:31.760]   [ Indistinct conversations ]
+[00:49:31.760 --> 00:49:46.760]   [ Indistinct conversations ]
+[00:49:46.760 --> 00:49:49.760]   [ Indistinct conversations ]
+[00:49:49.760 --> 00:50:05.760]   [ Indistinct conversations ]
+[00:50:05.760 --> 00:50:08.760]   [ Indistinct conversations ]
+[00:50:08.760 --> 00:50:19.760]   [ Indistinct conversations ]
+[00:50:19.760 --> 00:50:22.760]   [ Indistinct conversations ]
+[00:50:22.760 --> 00:50:25.760]   [ Indistinct conversations ]
+[00:50:25.760 --> 00:50:49.760]   [ Indistinct conversations ]
+[00:50:49.760 --> 00:50:52.760]   [ Indistinct conversations ]
+[00:50:52.760 --> 00:51:08.760]   [ Indistinct conversations ]
+[00:51:08.760 --> 00:51:11.760]   [ Indistinct conversations ]
+[00:51:11.760 --> 00:51:29.760]   [ Indistinct conversations ]
+[00:51:29.760 --> 00:51:32.760]   [ Indistinct conversations ]
+[00:51:32.760 --> 00:51:51.760]   [ Indistinct conversations ]
+[00:51:51.760 --> 00:51:54.760]   [ Indistinct conversations ]
+[00:51:54.760 --> 00:52:16.760]   [ Indistinct conversations ]
+[00:52:16.760 --> 00:52:19.760]   [ Indistinct conversations ]
+[00:52:19.760 --> 00:52:37.760]   [ Indistinct conversations ]
+[00:52:37.760 --> 00:52:40.760]   [ Indistinct conversations ]
+[00:52:40.760 --> 00:52:58.760]   [ Indistinct conversations ]
+[00:52:59.760 --> 00:53:02.760]   [ Indistinct conversations ]
+[00:53:02.760 --> 00:53:05.760]   [ Indistinct conversations ]
+[00:53:05.760 --> 00:53:08.760]   [ Indistinct conversations ]
+[00:53:08.760 --> 00:53:11.760]   [ Indistinct conversations ]
+[00:53:11.760 --> 00:53:14.760]   [ Indistinct conversations ]
+[00:53:14.760 --> 00:53:32.760]   [ Indistinct conversations ]
+[00:53:32.760 --> 00:53:35.760]   [ Indistinct conversations ]
+[00:53:35.760 --> 00:53:55.760]   [ Indistinct conversations ]
+[00:53:55.760 --> 00:53:58.760]   [ Indistinct conversations ]
+[00:53:58.760 --> 00:54:16.760]   [ Indistinct conversations ]
+[00:54:16.760 --> 00:54:19.760]   [ Indistinct conversations ]
+[00:54:19.760 --> 00:54:34.760]   [ Indistinct conversations ]
+[00:54:34.760 --> 00:54:37.760]   [ Indistinct conversations ]
+[00:54:37.760 --> 00:54:55.760]   [ Indistinct conversations ]
+[00:54:55.760 --> 00:54:58.760]   [ Indistinct conversations ]
+[00:54:58.760 --> 00:55:20.760]   [ Indistinct conversations ]
+[00:55:20.760 --> 00:55:23.760]   [ Indistinct conversations ]
+[00:55:23.760 --> 00:55:43.760]   [ Indistinct conversations ]
+[00:55:43.760 --> 00:55:46.760]   [ Indistinct conversations ]
+[00:55:46.760 --> 00:56:08.760]   [ Indistinct conversations ]
+[00:56:08.760 --> 00:56:11.760]   [ Indistinct conversations ]
+[00:56:11.760 --> 00:56:14.760]   [ Indistinct conversations ]
+[00:56:14.760 --> 00:56:26.760]   [ Indistinct conversations ]
+[00:56:26.760 --> 00:56:29.760]   [ Indistinct conversations ]
+[00:56:29.760 --> 00:56:32.760]   [ Indistinct conversations ]
+[00:56:32.760 --> 00:56:35.760]   [ Indistinct conversations ]
+[00:56:35.760 --> 00:56:38.760]   [ Indistinct conversations ]
+[00:56:38.760 --> 00:56:41.760]   [ Indistinct conversations ]
+[00:56:41.760 --> 00:56:59.760]   [ Indistinct conversations ]
+[00:56:59.760 --> 00:57:02.760]   [ Indistinct conversations ]
+[00:57:02.760 --> 00:57:17.760]   [ Indistinct conversations ]
+[00:57:17.760 --> 00:57:20.760]   [ Indistinct conversations ]
+[00:57:20.760 --> 00:57:42.760]   [ Indistinct conversations ]
+[00:57:42.760 --> 00:57:45.760]   [ Indistinct conversations ]
+[00:57:45.760 --> 00:58:03.760]   [ Indistinct conversations ]
+[00:58:03.760 --> 00:58:06.760]   [ Indistinct conversations ]
+[00:58:06.760 --> 00:58:23.760]   [ Indistinct conversations ]
+[00:58:23.760 --> 00:58:26.760]   [ Indistinct conversations ]
+[00:58:26.760 --> 00:58:44.760]   [ Indistinct conversations ]
+[00:58:44.760 --> 00:58:47.760]   [ Indistinct conversations ]
+[00:58:47.760 --> 00:59:02.760]   [ Indistinct conversations ]
+[00:59:02.760 --> 00:59:05.760]   [ Indistinct conversations ]
+[00:59:05.760 --> 00:59:30.760]   [ Indistinct conversations ]
+[00:59:30.760 --> 00:59:33.760]   [ Indistinct conversations ]
+[00:59:33.760 --> 00:59:51.760]   [ Indistinct conversations ]
+[00:59:51.760 --> 00:59:54.760]   [ Indistinct conversations ]
+[00:59:54.760 --> 01:00:05.760]   [ Indistinct conversations ]
+[01:00:05.760 --> 01:00:08.760]   [ Indistinct conversations ]
+[01:00:08.760 --> 01:00:31.760]   [ Indistinct conversations ]
+[01:00:32.760 --> 01:00:35.760]   [ Indistinct conversations ]
+[01:00:58.760 --> 01:01:01.760]   [ Indistinct conversations ]
+[01:01:01.760 --> 01:01:04.760]   [ Indistinct conversations ]
+[01:01:04.760 --> 01:01:07.760]   [ Indistinct conversations ]
+[01:01:07.760 --> 01:01:25.760]   [ Indistinct conversations ]
+[01:01:25.760 --> 01:01:28.760]   [ Indistinct conversations ]
+[01:01:29.760 --> 01:01:32.760]   [ Indistinct conversations ]
+[01:01:32.760 --> 01:01:35.760]   [ Indistinct conversations ]
+[01:01:35.760 --> 01:01:50.760]   [ Indistinct conversations ]
+[01:01:50.760 --> 01:01:53.760]   [ Indistinct conversations ]
+[01:01:53.760 --> 01:02:11.760]   [ Indistinct conversations ]
+[01:02:11.760 --> 01:02:14.760]   [ Indistinct conversations ]
+[01:02:14.760 --> 01:02:32.760]   [ Indistinct conversations ]
+[01:02:32.760 --> 01:02:35.760]   [ Indistinct conversations ]
+[01:02:35.760 --> 01:02:38.760]   [ Indistinct conversations ]
+[01:02:39.760 --> 01:02:42.760]   [ Indistinct conversations ]
+[01:02:42.760 --> 01:02:45.760]   [ Laughter ]
+[01:02:45.760 --> 01:02:48.760]   [ Laughter ]
+[01:02:48.760 --> 01:02:51.760]   [ Laughter ]
+[01:02:51.760 --> 01:02:57.760]   [ Laughter ]
+[01:02:57.760 --> 01:03:06.760]   [ Laughter ]
+[01:03:06.760 --> 01:03:14.760]   [ Laughter ]
+[01:03:14.760 --> 01:03:17.760]   [ Laughter ]
+[01:03:17.760 --> 01:03:28.760]   [ Laughter ]
+[01:03:28.760 --> 01:03:37.760]   [ Laughter ]
+[01:03:37.760 --> 01:03:40.760]   [ Laughter ]
+[01:03:40.760 --> 01:04:06.760]   [ Indistinct conversations ]
+[01:04:06.760 --> 01:04:09.760]   If I can have all the groups to begin to wrap up,
+[01:04:09.760 --> 01:04:11.760]   if you're not done, right at 8 o'clock,
+[01:04:11.760 --> 01:04:14.760]   we're going to get started.
+[01:04:14.760 --> 01:04:17.760]   [ Indistinct conversations ]
+[01:04:17.760 --> 01:04:20.760]   [ Indistinct conversations ]
+[01:04:20.760 --> 01:04:38.760]   [ Indistinct conversations ]
+[01:04:38.760 --> 01:04:41.760]   [ Indistinct conversations ]
+[01:04:41.760 --> 01:04:48.760]   [ Indistinct conversations ]
+[01:04:48.760 --> 01:04:51.760]   [ Indistinct conversations ]
+[01:05:15.760 --> 01:05:19.760]   All right, it's 8 o'clock. We're going to get started.
+[01:05:19.760 --> 01:05:24.760]   Please grab your seats if you're not ready yet.
+[01:05:24.760 --> 01:05:26.760]   Okay.
+[01:05:26.760 --> 01:05:29.760]   Obviously, today's Bible study or this session of Bible study
+[01:05:29.760 --> 01:05:32.760]   is going to be a little bit different than what we had before
+[01:05:32.760 --> 01:05:34.760]   because it is topical.
+[01:05:34.760 --> 01:05:36.760]   We're not doing inductive Bible study.
+[01:05:36.760 --> 01:05:39.760]   I want to explain what we're doing today
+[01:05:39.760 --> 01:05:41.760]   and then to give you an idea
+[01:05:41.760 --> 01:05:45.760]   of what the schedule is going to look like starting from next week.
+[01:05:45.760 --> 01:05:46.760]   Okay?
+[01:05:46.760 --> 01:05:50.760]   So, as I said, how many of you have been --
+[01:05:50.760 --> 01:05:53.760]   this is the first time being in weekday Bible study?
+[01:05:53.760 --> 01:05:55.760]   Raise your hand.
+[01:05:55.760 --> 01:05:57.760]   Okay.
+[01:05:57.760 --> 01:06:00.760]   I cannot -- yeah, can you raise it all the way up so I can see?
+[01:06:00.760 --> 01:06:04.760]   How many of you -- for you, this is the first time attending Bible study?
+[01:06:04.760 --> 01:06:06.760]   Okay, that's that whole group over there, I know it is,
+[01:06:06.760 --> 01:06:08.760]   and then there's a bunch of them over there.
+[01:06:08.760 --> 01:06:10.760]   Okay, so there's quite a few of you.
+[01:06:10.760 --> 01:06:12.760]   All right.
+[01:06:12.760 --> 01:06:15.760]   So as you guys are attending the first time doing this Bible study,
+[01:06:15.760 --> 01:06:17.760]   this is not normally the way we do Bible study.
+[01:06:17.760 --> 01:06:24.760]   We usually go through a text, through a book, passage by passage,
+[01:06:24.760 --> 01:06:26.760]   and you have to do the study and then come back and share,
+[01:06:26.760 --> 01:06:29.760]   and then we give you an overview of that text.
+[01:06:29.760 --> 01:06:32.760]   But this session of Bible study, we're doing this,
+[01:06:32.760 --> 01:06:34.760]   and let me explain why we're doing it.
+[01:06:34.760 --> 01:06:41.760]   So let me pray for us and then we'll get started.
+[01:06:41.760 --> 01:06:45.760]   Father, we thank you so much for being gracious to us.
+[01:06:45.760 --> 01:06:51.760]   Thank you for the opportunity for us to engage in this Bible study, Lord God,
+[01:06:51.760 --> 01:06:56.760]   where we would learn and that you would really bring our mind and our hearts together,
+[01:06:56.760 --> 01:06:59.760]   that we would be united in faith, united in commitment,
+[01:06:59.760 --> 01:07:02.760]   and united in our love for you.
+[01:07:02.760 --> 01:07:04.760]   We pray that you would bless this time,
+[01:07:04.760 --> 01:07:07.760]   and may your word and your instructions have its effect on us.
+[01:07:07.760 --> 01:07:10.760]   In Jesus' name we pray. Amen.
+[01:07:10.760 --> 01:07:15.760]   All right, so let me explain again, to give you kind of a background.
+[01:07:15.760 --> 01:07:19.760]   In Judges chapter 21-25, this is a period of Israel's history,
+[01:07:19.760 --> 01:07:22.760]   right before King Saul is established.
+[01:07:22.760 --> 01:07:26.760]   And during this period, Israel had no king, and it was very deliberate,
+[01:07:26.760 --> 01:07:30.760]   because God established Israel, and God himself was the king.
+[01:07:30.760 --> 01:07:33.760]   So he didn't want them to be like any other nation.
+[01:07:33.760 --> 01:07:36.760]   But what ended up happening during this period is summarized,
+[01:07:36.760 --> 01:07:39.760]   and this phrase is repeated over and over again.
+[01:07:39.760 --> 01:07:41.760]   So if you've ever read the book of Judges,
+[01:07:41.760 --> 01:07:46.760]   they would keep on this cycle of getting into trouble, forgetting God,
+[01:07:46.760 --> 01:07:50.760]   and then the foreign nations would come and conquer them.
+[01:07:50.760 --> 01:07:54.760]   God would raise up a judge, and then through that judge,
+[01:07:54.760 --> 01:07:56.760]   revival would come into the nation of Israel.
+[01:07:56.760 --> 01:07:59.760]   And that period is described this way.
+[01:07:59.760 --> 01:08:02.760]   In those days, there was no king in Israel.
+[01:08:02.760 --> 01:08:06.760]   Everyone did what was right in his own eyes.
+[01:08:06.760 --> 01:08:10.760]   If you notice here, it wasn't that they were doing what was wrong in their own eyes.
+[01:08:10.760 --> 01:08:13.760]   They were doing what they thought was right in their own eyes, right?
+[01:08:13.760 --> 01:08:15.760]   Everybody thought that they were doing what was right.
+[01:08:15.760 --> 01:08:18.760]   But the problem was they didn't have a king.
+[01:08:18.760 --> 01:08:24.760]   They didn't have a central king instructing them to unite them under God.
+[01:08:24.760 --> 01:08:28.760]   So in their attempt to do what they thought was right,
+[01:08:28.760 --> 01:08:32.760]   the nation began to each individually just kind of go off on their own,
+[01:08:32.760 --> 01:08:34.760]   and they were weakened, right?
+[01:08:34.760 --> 01:08:39.760]   The reason why I read this is I think this explains
+[01:08:39.760 --> 01:08:42.760]   what is happening in our generation with churches.
+[01:08:42.760 --> 01:08:46.760]   Everyone is trying to do what is right in their own eyes.
+[01:08:46.760 --> 01:08:48.760]   They're not doing what they think is wrong,
+[01:08:48.760 --> 01:08:51.760]   but they're just trying to figure out what is the purpose of the church.
+[01:08:51.760 --> 01:08:53.760]   Why do we do this? Why do we preach this way?
+[01:08:53.760 --> 01:08:55.760]   Why do we have Bible studies this way?
+[01:08:55.760 --> 01:08:58.760]   But where do they get that?
+[01:08:58.760 --> 01:09:01.760]   Paul says in Corinthians 9, 24-27,
+[01:09:01.760 --> 01:09:05.760]   "Do not know that those who run in a race all run, but only one receives a prize.
+[01:09:05.760 --> 01:09:08.760]   Run in such a way that you may win."
+[01:09:08.760 --> 01:09:11.760]   Everyone who competes in the games exercises self-control in all things.
+[01:09:11.760 --> 01:09:14.760]   They then do it to receive a perishable wreath, but we an imperishable.
+[01:09:14.760 --> 01:09:18.760]   Therefore, I run in such a way as not without aim.
+[01:09:18.760 --> 01:09:20.760]   I box in such a way as not beating the air.
+[01:09:20.760 --> 01:09:23.760]   But I discipline my body, make it my slave,
+[01:09:23.760 --> 01:09:27.760]   so that after I have preached to others, I myself will not be disqualified.
+[01:09:27.760 --> 01:09:31.760]   I read these texts to you because everything that we're doing at church,
+[01:09:31.760 --> 01:09:34.760]   we're doing it for a particular reason, right?
+[01:09:34.760 --> 01:09:37.760]   You may have come from maybe a Presbyterian background,
+[01:09:37.760 --> 01:09:40.760]   and you come to church and say, "How come our church doesn't do this?
+[01:09:40.760 --> 01:09:42.760]   Why don't we do the Lord's Prayer or the Apostles' Creed?"
+[01:09:42.760 --> 01:09:44.760]   There's a reason behind that.
+[01:09:44.760 --> 01:09:46.760]   We're not Presbyterian. We're Baptist church.
+[01:09:46.760 --> 01:09:52.760]   And so we have Baptist doctrine that guides us in what we believe, right?
+[01:09:52.760 --> 01:09:54.760]   What we believe that's according to Scripture.
+[01:09:54.760 --> 01:09:57.760]   Maybe some of you guys come from a charismatic background,
+[01:09:57.760 --> 01:09:59.760]   and you ask, "How come we don't pray out loud?
+[01:09:59.760 --> 01:10:01.760]   How come we don't do this during worship? How come we don't do that?"
+[01:10:01.760 --> 01:10:07.760]   Because you have a charismatic framework of how the Holy Spirit should be working,
+[01:10:07.760 --> 01:10:11.760]   and so you're trying to project that, "Well, isn't this what the Spirit is like?"
+[01:10:11.760 --> 01:10:13.760]   It's because we're not a charismatic church.
+[01:10:13.760 --> 01:10:18.760]   There are certain things that we believe the work of the Holy Spirit is and is not.
+[01:10:18.760 --> 01:10:24.760]   And so that's why even the way we pray, even the way we sing, is very deliberate, right?
+[01:10:24.760 --> 01:10:28.760]   So whatever background you may come from, you may come from a different church,
+[01:10:28.760 --> 01:10:30.760]   and all of it, we're not saying in and of itself,
+[01:10:30.760 --> 01:10:34.760]   obviously we're not in agreement, is wrong in and of itself,
+[01:10:34.760 --> 01:10:37.760]   but there's a particular reason why we do things at church.
+[01:10:37.760 --> 01:10:40.760]   Why do we pray this way? Why do we preach this way, right?
+[01:10:40.760 --> 01:10:43.760]   Some of you may come from a Bible teaching background.
+[01:10:43.760 --> 01:10:48.760]   So you project, "Because I went to this Bible teaching background, church,
+[01:10:48.760 --> 01:10:51.760]   so we should be doing it this way," right?
+[01:10:51.760 --> 01:10:55.760]   Even that, we need to ask ourselves, "Where does that come from?
+[01:10:55.760 --> 01:11:00.760]   From Scripture, or does that come from the culture that you came from?"
+[01:11:00.760 --> 01:11:05.760]   And so we want to make sure, as a church, that as our church continues to grow,
+[01:11:05.760 --> 01:11:08.760]   that we are bringing everybody together to understand
+[01:11:08.760 --> 01:11:11.760]   this is the reason why we do it.
+[01:11:11.760 --> 01:11:14.760]   And if you ask us why we do it, we want to show you where in the Scripture,
+[01:11:14.760 --> 01:11:18.760]   while we were studying in the 27, 28 years that we've been around,
+[01:11:18.760 --> 01:11:22.760]   what caused us to do ministry this way.
+[01:11:22.760 --> 01:11:26.760]   It doesn't mean that we're getting everything that we're doing, we're doing perfectly.
+[01:11:26.760 --> 01:11:29.760]   There are some things that we're still trying to work on, we need to grow in.
+[01:11:29.760 --> 01:11:32.760]   But there are certain things that we do and don't do specifically
+[01:11:32.760 --> 01:11:35.760]   because this is what we see the Scripture teaching us.
+[01:11:35.760 --> 01:11:38.760]   And so we want to make sure that as our church grows,
+[01:11:38.760 --> 01:11:40.760]   that we're not just adding number,
+[01:11:40.760 --> 01:11:43.760]   that we, as a church, at least are together in understanding.
+[01:11:43.760 --> 01:11:46.760]   And so at the end of this, you might come and say,
+[01:11:46.760 --> 01:11:50.760]   "You know what? I don't agree with that. I don't see where you got that in Scripture."
+[01:11:50.760 --> 01:11:55.760]   But we can't ask or demand of the church because I prefer this,
+[01:11:55.760 --> 01:11:58.760]   or I came from that culture, or the church that I went to.
+[01:11:58.760 --> 01:12:01.760]   It's because we have different doctrines, we're viewing things differently.
+[01:12:01.760 --> 01:12:06.760]   The difference, even the fundamental thing is that as a seeker-friendly church,
+[01:12:06.760 --> 01:12:09.760]   and maybe a reformed church like we are,
+[01:12:09.760 --> 01:12:11.760]   is because our doctrines are different.
+[01:12:11.760 --> 01:12:14.760]   It's not simply the method, right?
+[01:12:14.760 --> 01:12:16.760]   We want to reach the lost and so we have different methods.
+[01:12:16.760 --> 01:12:19.760]   We have different methods because we have different doctrines that we believe in.
+[01:12:19.760 --> 01:12:23.760]   So part of the reason why we're going to go over the Covenant this session
+[01:12:23.760 --> 01:12:26.760]   is so that we can bring you on the same page.
+[01:12:26.760 --> 01:12:30.760]   And if you have questions while we're studying through the Ten Covenants,
+[01:12:30.760 --> 01:12:33.760]   hopefully you'll have an opportunity to discuss it in your small group,
+[01:12:33.760 --> 01:12:38.760]   or even ask us so that we can clarify it, so that we can be on the same page.
+[01:12:38.760 --> 01:12:41.760]   When our church was smaller, this happened organically.
+[01:12:41.760 --> 01:12:44.760]   We'd have Bible study, or we'd have lunch, or fellowship, hang out at the park,
+[01:12:44.760 --> 01:12:49.760]   and so we'd be able to explain how we came to this decision, why we're doing it this way.
+[01:12:49.760 --> 01:12:52.760]   But because the church is getting bigger, we're not able to interact with you that way.
+[01:12:52.760 --> 01:12:57.760]   And so, again, that's why we felt the need to do this, to bring everybody together.
+[01:12:57.760 --> 01:12:59.760]   Even though you've taken membership class,
+[01:12:59.760 --> 01:13:02.760]   membership class only covers it like a very short period,
+[01:13:02.760 --> 01:13:05.760]   and you're not able to go in-depth.
+[01:13:05.760 --> 01:13:08.760]   And even those of you who've been here for a while,
+[01:13:08.760 --> 01:13:11.760]   you may have had conversations, but it's been a while,
+[01:13:11.760 --> 01:13:13.760]   so it may be a refresher for you.
+[01:13:13.760 --> 01:13:16.760]   So this is the reason why we're doing that.
+[01:13:16.760 --> 01:13:19.760]   The three core books, the book that we're going to be reading this session
+[01:13:19.760 --> 01:13:21.760]   is Master's Plan for the Church.
+[01:13:21.760 --> 01:13:25.760]   But there's three books that our church requires.
+[01:13:25.760 --> 01:13:28.760]   At one point in church history, every single member,
+[01:13:28.760 --> 01:13:30.760]   as they were coming in, read these books.
+[01:13:30.760 --> 01:13:32.760]   We had discussion. Make sure you understood.
+[01:13:32.760 --> 01:13:35.760]   And if you had to have any kind of paradigm shift,
+[01:13:35.760 --> 01:13:37.760]   it happened as you were reading these books.
+[01:13:37.760 --> 01:13:39.760]   But because the church is getting bigger,
+[01:13:39.760 --> 01:13:42.760]   it's hard for us to even track who read it and who didn't read it.
+[01:13:42.760 --> 01:13:44.760]   The reason why we have these three books,
+[01:13:44.760 --> 01:13:49.760]   and this was started maybe about second or third year into the church.
+[01:13:49.760 --> 01:13:51.760]   One, holiness of God.
+[01:13:51.760 --> 01:13:54.760]   And again, for the sake of time, I'm not going to go too deep into it.
+[01:13:54.760 --> 01:13:59.760]   Holiness of God basically reorients our understanding of who God is.
+[01:13:59.760 --> 01:14:02.760]   If you grew up in a church where the primary teaching
+[01:14:02.760 --> 01:14:05.760]   and the focus was how can we meet your needs,
+[01:14:05.760 --> 01:14:07.760]   how can we speak in a way where you're encouraged
+[01:14:07.760 --> 01:14:11.760]   so you can be a better husband, better community,
+[01:14:11.760 --> 01:14:15.760]   and you--again, in and of itself, it's not wrong.
+[01:14:15.760 --> 01:14:19.760]   But the central teaching of the Bible is about God before us.
+[01:14:19.760 --> 01:14:21.760]   It's not about us. It's about God.
+[01:14:21.760 --> 01:14:24.760]   And to reconcile people to this holy God.
+[01:14:24.760 --> 01:14:29.760]   So if we have an incomplete and inaccurate understanding of who God is,
+[01:14:29.760 --> 01:14:35.760]   everything that you learn about the Bible, the gospel, the church, community, evangelism,
+[01:14:35.760 --> 01:14:38.760]   all is going to be misunderstood.
+[01:14:38.760 --> 01:14:42.760]   It's kind of like taking a gift and putting it into the wrong basket, right?
+[01:14:42.760 --> 01:14:46.760]   So if you have a basket that's clean, then that thing's going to be clean.
+[01:14:46.760 --> 01:14:48.760]   If you have a basket that's dirty,
+[01:14:48.760 --> 01:14:52.760]   then everything putting into that basket is also going to be tainted, right?
+[01:14:52.760 --> 01:14:54.760]   So it starts with the right view of God.
+[01:14:54.760 --> 01:14:58.760]   So this book, Holiness of God, helps us to understand who God is, that God is holy.
+[01:14:58.760 --> 01:15:03.760]   So if you look at all of the Old Testament, two-thirds of the Bible,
+[01:15:03.760 --> 01:15:08.760]   the main theme of the two-thirds of the Bible is to teach us
+[01:15:08.760 --> 01:15:13.760]   that sinners cannot have a relationship with this holy God,
+[01:15:13.760 --> 01:15:16.760]   that there is a chasm between this holy God and sinful man,
+[01:15:16.760 --> 01:15:21.760]   so that when Christ came, that they would have already been prepared
+[01:15:21.760 --> 01:15:25.760]   that they are desperate without some sort of savior, right?
+[01:15:25.760 --> 01:15:29.760]   And that's why the Pharisees were so rebuked, because they took what God was doing
+[01:15:29.760 --> 01:15:33.760]   and they created a system of righteousness of their own.
+[01:15:33.760 --> 01:15:37.760]   So in some way, if number one, the holiness of God,
+[01:15:37.760 --> 01:15:42.760]   if our view of God is off or tainted or incomplete,
+[01:15:42.760 --> 01:15:45.760]   everything you're going to be learning about the church,
+[01:15:45.760 --> 01:15:48.760]   how you evaluate if a church is good or bad,
+[01:15:48.760 --> 01:15:52.760]   it's all going to stem from a wrong understanding of who God is, right?
+[01:15:52.760 --> 01:15:54.760]   So if you haven't read that, I encourage you to read that.
+[01:15:54.760 --> 01:15:58.760]   The second book, Gospel According to Jesus, if you have a wrong view of God,
+[01:15:58.760 --> 01:16:00.760]   you're going to have a wrong view of salvation.
+[01:16:00.760 --> 01:16:05.760]   If your whole perspective of salvation is God loves you, has a wonderful plan for your life,
+[01:16:05.760 --> 01:16:10.760]   so once you're saved, you're free, and now he wants you to be happy, right?
+[01:16:10.760 --> 01:16:16.760]   And so if that's your paradigm, you're not going to have a right understanding of the gospel.
+[01:16:16.760 --> 01:16:22.760]   Because a holy God has been offended, Christ appeased his wrath,
+[01:16:22.760 --> 01:16:26.760]   and so when he makes us his children,
+[01:16:26.760 --> 01:16:30.760]   he says, "Be holy, for your heavenly Father is holy."
+[01:16:30.760 --> 01:16:33.760]   So salvation isn't simply wiping away sin.
+[01:16:33.760 --> 01:16:37.760]   Salvation is delivering us from the bondage of sin
+[01:16:37.760 --> 01:16:41.760]   so that we can be free to be righteous.
+[01:16:41.760 --> 01:16:46.760]   So an individual who is saved from the penalty of sin,
+[01:16:46.760 --> 01:16:49.760]   but has not been saved from the power of sin,
+[01:16:49.760 --> 01:16:52.760]   has not understood his salvation, period.
+[01:16:52.760 --> 01:16:55.760]   Because he doesn't understand who God is, right?
+[01:16:55.760 --> 01:16:57.760]   That's the second book, Gospel According to Jesus.
+[01:16:57.760 --> 01:17:00.760]   Third book, the one that we're going to be covering over,
+[01:17:00.760 --> 01:17:04.760]   is the Master's Plan for the Church, is where is this applied?
+[01:17:04.760 --> 01:17:10.760]   If God is holy, and our salvation is to deliver us from the bondage of sin,
+[01:17:10.760 --> 01:17:12.760]   to be slaves of righteousness,
+[01:17:12.760 --> 01:17:15.760]   where is that new life to be practiced?
+[01:17:15.760 --> 01:17:17.760]   Is it just between you and God?
+[01:17:17.760 --> 01:17:19.760]   No. You hear a lot of people say that.
+[01:17:19.760 --> 01:17:22.760]   During the pandemic, so many people fell out,
+[01:17:22.760 --> 01:17:24.760]   and they have no need to go back to church,
+[01:17:24.760 --> 01:17:27.760]   because they thought, their understanding of their faith is,
+[01:17:27.760 --> 01:17:31.760]   "I'm saved, Jesus loves me, and when I die, I go to heaven,
+[01:17:31.760 --> 01:17:33.760]   so it would be nice to go to church."
+[01:17:33.760 --> 01:17:37.760]   It'd be good to go to church, but it's not necessary.
+[01:17:37.760 --> 01:17:39.760]   Again, it stems from a wrong view of God,
+[01:17:39.760 --> 01:17:41.760]   and a wrong view of salvation.
+[01:17:41.760 --> 01:17:45.760]   If Christ is Lord, where is Lordship practiced?
+[01:17:45.760 --> 01:17:47.760]   Lordship is not practiced by yourself.
+[01:17:47.760 --> 01:17:50.760]   Lordship is practiced in the community where God reigns,
+[01:17:50.760 --> 01:17:51.760]   which is His church.
+[01:17:51.760 --> 01:17:55.760]   And so, even the church, the problem that we have in churches,
+[01:17:55.760 --> 01:17:56.760]   people don't know.
+[01:17:56.760 --> 01:18:00.760]   If I ask an average Christian, "What is a church?"
+[01:18:00.760 --> 01:18:02.760]   And if you know even a little bit about the Bible,
+[01:18:02.760 --> 01:18:05.760]   you'll say, "Where two or three are gathered in my name."
+[01:18:05.760 --> 01:18:07.760]   Wouldn't be wrong.
+[01:18:07.760 --> 01:18:12.760]   It wouldn't be wrong, but that's like a first-grader's answer.
+[01:18:12.760 --> 01:18:15.760]   It's not wrong, but it is very superficial,
+[01:18:15.760 --> 01:18:17.760]   where two or three are gathered in my name.
+[01:18:17.760 --> 01:18:21.760]   So, if I gather me and Holly, and we go over here, that's a church.
+[01:18:21.760 --> 01:18:24.760]   Every small table here, that's a church.
+[01:18:24.760 --> 01:18:28.760]   And then you jump into a pool, get wet, that's baptism.
+[01:18:28.760 --> 01:18:31.760]   You have dinner, eat some grape juice, that's communion.
+[01:18:31.760 --> 01:18:36.760]   So, because people don't have a biblical understanding of church,
+[01:18:36.760 --> 01:18:39.760]   churches practice whatever each church thinks.
+[01:18:39.760 --> 01:18:42.760]   You know, we want our church to be this way.
+[01:18:42.760 --> 01:18:43.760]   We want our church to emphasize this.
+[01:18:43.760 --> 01:18:44.760]   Our church is going to be our mission.
+[01:18:44.760 --> 01:18:46.760]   Our church is going to be our social justice.
+[01:18:46.760 --> 01:18:52.760]   And so, they're picking and choosing what they think is going to help the people.
+[01:18:52.760 --> 01:18:57.760]   Our primary calling for the church is given to us in the Bible.
+[01:18:57.760 --> 01:18:59.760]   We don't make that up.
+[01:18:59.760 --> 01:19:03.760]   No church has the right to say, "Our church is going to be about this."
+[01:19:03.760 --> 01:19:08.760]   Our church is about the Bible because the Bible teaches us about what He wants.
+[01:19:08.760 --> 01:19:11.760]   We didn't just pick and choose, like, "That church is going to be about prayer.
+[01:19:11.760 --> 01:19:12.760]   This church is going to be about evangelism.
+[01:19:12.760 --> 01:19:14.760]   This church is going to be about social justice."
+[01:19:14.760 --> 01:19:21.760]   No, we emphasize the Bible because Bible is where we learn what God tells us what He wants, right?
+[01:19:21.760 --> 01:19:23.760]   And so, it's not that we're just committed to the Bible.
+[01:19:23.760 --> 01:19:27.760]   It's just that the Bible is the starting point of what God desires.
+[01:19:27.760 --> 01:19:32.760]   So, the master's plan for the church is, I think, does the best job and is more thorough.
+[01:19:32.760 --> 01:19:34.760]   It's not the most easy reading.
+[01:19:34.760 --> 01:19:39.760]   That's why next week, you're going to be reading two chapters because the first one is just an introduction.
+[01:19:39.760 --> 01:19:41.760]   And then, second one, there's 13 chapters.
+[01:19:41.760 --> 01:19:45.760]   So, because today's introduction, starting from tomorrow, we're going to do two chapters.
+[01:19:45.760 --> 01:19:48.760]   Then, after that, we're going to do one chapter each.
+[01:19:48.760 --> 01:19:52.760]   So, when you come in and we sing our song and you get into your small group,
+[01:19:52.760 --> 01:19:56.760]   the first thing you're going to be doing is to discuss the book, right?
+[01:19:56.760 --> 01:19:59.760]   Then, I'll give you a quiet time passages, and I'll explain that a little bit later.
+[01:19:59.760 --> 01:20:05.760]   Okay. Now, having said that, because today is an introduction,
+[01:20:05.760 --> 01:20:09.760]   I want you guys to maximize the small group time that you have.
+[01:20:09.760 --> 01:20:14.760]   There's nine different types of small group members, okay?
+[01:20:14.760 --> 01:20:20.760]   And as I explain this, I want you to ask yourself, "Is this you?"
+[01:20:20.760 --> 01:20:27.760]   Because after we're done, I'm going to ask you in your small group to confess, right?
+[01:20:27.760 --> 01:20:29.760]   Which is you, right?
+[01:20:29.760 --> 01:20:36.760]   And if you're not sure, we're going to ask people to judge you, okay?
+[01:20:36.760 --> 01:20:40.760]   So, it's better if you're honest, okay?
+[01:20:40.760 --> 01:20:45.760]   The first one is the dominator, right?
+[01:20:45.760 --> 01:20:51.760]   If you have a dominator in your group, everybody is frustrated, okay?
+[01:20:51.760 --> 01:20:56.760]   The dominator can turn any question into an opportunity to talk about themselves, right?
+[01:20:56.760 --> 01:20:58.760]   This is somebody that no matter what the question is,
+[01:20:58.760 --> 01:21:02.760]   you can be a male and talking about rearing children and giving childbirth,
+[01:21:02.760 --> 01:21:07.760]   and he's like, "Oh, yeah, I know what that's like," and then he'll go off, right?
+[01:21:07.760 --> 01:21:09.760]   So, that's a dominator.
+[01:21:09.760 --> 01:21:13.760]   It's like no matter what the question is, you know, eventually, he'll soak up the attention.
+[01:21:13.760 --> 01:21:17.760]   The dominators suffocate any discussion by monopolizing the small group
+[01:21:17.760 --> 01:21:21.760]   where others are not given opportunity to speak because he speaks too much.
+[01:21:21.760 --> 01:21:28.760]   So, again, ask yourself, "When's the last time you heard somebody else's voice in a small group?"
+[01:21:28.760 --> 01:21:29.760]   Okay?
+[01:21:29.760 --> 01:21:32.760]   So, in the context of talking, you say, "You know what?
+[01:21:32.760 --> 01:21:36.760]   I don't know what that person's voice sounds like."
+[01:21:36.760 --> 01:21:38.760]   Then stop.
+[01:21:38.760 --> 01:21:43.760]   Take a breath, go to the bathroom, and come back and give other people a chance, okay?
+[01:21:43.760 --> 01:21:48.760]   If you have a dominator, one dominator could ruin the small group, right?
+[01:21:48.760 --> 01:21:52.760]   So, if you're like, "Am I a dominator?"
+[01:21:52.760 --> 01:21:54.760]   Ask somebody if you're not sure.
+[01:21:54.760 --> 01:21:56.760]   "Do you think I talk too much?"
+[01:21:56.760 --> 01:21:59.760]   Before they come to you, say, "Do you think I'm a dominator?"
+[01:21:59.760 --> 01:22:03.760]   And if they say yes, that's you, okay?
+[01:22:03.760 --> 01:22:07.760]   Dominators tend to disengage when they are not the ones talking.
+[01:22:07.760 --> 01:22:13.760]   So, because you're not getting an opportunity to talk or you're so eager to talk,
+[01:22:13.760 --> 01:22:15.760]   you're just waiting for an opportunity for somebody to stop.
+[01:22:15.760 --> 01:22:18.760]   So, when you're not talking, you don't listen.
+[01:22:18.760 --> 01:22:19.760]   You disengage.
+[01:22:19.760 --> 01:22:20.760]   You don't make eye contact.
+[01:22:20.760 --> 01:22:22.760]   You seem bored until it's your turn to talk.
+[01:22:22.760 --> 01:22:23.760]   That's the dominator.
+[01:22:23.760 --> 01:22:28.760]   Dominators tend to sidetrack the small group to whatever topic they think needs to be addressed.
+[01:22:28.760 --> 01:22:31.760]   So, even though other people are sharing, the whole time they're thinking, "You know what?
+[01:22:31.760 --> 01:22:35.760]   I think we need to talk about this," and you're already thinking about how to change this topic.
+[01:22:35.760 --> 01:22:40.760]   Dominators genuinely feel like they are helping by keeping the discussion alive and interesting.
+[01:22:40.760 --> 01:22:45.760]   That's how they excuse themselves, right?
+[01:22:45.760 --> 01:22:52.760]   That's how they articulate in their own mind, "I'm doing this for the glory of God," you know what I mean?
+[01:22:52.760 --> 01:22:57.760]   Because our group needs somebody like me to keep this discussion going, right?
+[01:22:57.760 --> 01:23:02.760]   So, if you're not sure, ask somebody, okay?
+[01:23:02.760 --> 01:23:08.760]   Because this person, I mean, maybe there's nobody in your table, but there's somebody, right?
+[01:23:08.760 --> 01:23:09.760]   There's somebody at your table.
+[01:23:09.760 --> 01:23:14.760]   One of the most common, when we have small group discussions and we ask, you know,
+[01:23:14.760 --> 01:23:16.760]   "What are you struggling with in your small group?"
+[01:23:16.760 --> 01:23:21.760]   You know, it's almost every session, there's somebody who's dominating some group
+[01:23:21.760 --> 01:23:24.760]   and makes it hard for everybody else.
+[01:23:24.760 --> 01:23:26.760]   Make sure that's not you, okay?
+[01:23:26.760 --> 01:23:30.760]   Two is the professor.
+[01:23:30.760 --> 01:23:35.760]   The professor has an answer to almost every question that is asked, right?
+[01:23:35.760 --> 01:23:36.760]   He knows the Greek.
+[01:23:36.760 --> 01:23:37.760]   He knows the Hebrew.
+[01:23:37.760 --> 01:23:42.760]   He's, you know, read every book, whatever topic.
+[01:23:42.760 --> 01:23:45.760]   So, whatever topic we have, he has something to contribute,
+[01:23:45.760 --> 01:23:48.760]   and he needs to make sure that you know about it.
+[01:23:48.760 --> 01:23:52.760]   The professor believes that he has more knowledge and insight than the rest of the group,
+[01:23:52.760 --> 01:23:56.760]   so he is morally obligated to educate everyone about what he knows to be true.
+[01:23:56.760 --> 01:24:01.760]   It wouldn't be right for him to stay quiet, or else you're going to leave in ignorance, right?
+[01:24:01.760 --> 01:24:04.760]   So, the professor has to constantly be teaching,
+[01:24:04.760 --> 01:24:06.760]   and you don't have to be a small group leader.
+[01:24:06.760 --> 01:24:08.760]   You could have been a Christian for three months,
+[01:24:08.760 --> 01:24:12.760]   but if you have a professor's attitude, right, you have to talk.
+[01:24:12.760 --> 01:24:17.760]   So, that's why the professor and the dominator don't get along,
+[01:24:17.760 --> 01:24:19.760]   but it's usually the same person.
+[01:24:19.760 --> 01:24:25.760]   [laughter]
+[01:24:25.760 --> 01:24:28.760]   So, the professor believes that he is doing God's work by speaking the truth,
+[01:24:28.760 --> 01:24:31.760]   speaking in love, part, he is working to improve,
+[01:24:31.760 --> 01:24:34.760]   but speaking truth, he has mastered.
+[01:24:34.760 --> 01:24:39.760]   He believes that if he doesn't speak the truth, then no one else will or can.
+[01:24:39.760 --> 01:24:40.760]   So, he's doing God's work.
+[01:24:40.760 --> 01:24:44.760]   So, if you're not sure if you're the professor, ask somebody, right,
+[01:24:44.760 --> 01:24:50.760]   somebody that will be gentle, caring, right, but ask them, "What is your honest opinion?
+[01:24:50.760 --> 01:24:52.760]   Do you think I dominate?
+[01:24:52.760 --> 01:24:55.760]   Do you think I'm kind of like—do I come off as a know-it-all?"
+[01:24:55.760 --> 01:24:59.760]   And if they say yes, stop it.
+[01:24:59.760 --> 01:25:02.760]   [laughter]
+[01:25:02.760 --> 01:25:05.760]   The next one is the feeler, okay?
+[01:25:05.760 --> 01:25:11.760]   Feelers tend to think all this theology and study can lead to legalism, right?
+[01:25:11.760 --> 01:25:14.760]   We're getting too much into this.
+[01:25:14.760 --> 01:25:17.760]   Aren't we just supposed to love Jesus and that's all he cares about?
+[01:25:17.760 --> 01:25:20.760]   And so, anytime we go too deep into theology, it's legalism.
+[01:25:20.760 --> 01:25:24.760]   They believe that if the discussions don't lead to more love and grace toward one another,
+[01:25:24.760 --> 01:25:26.760]   it is a useless endeavor.
+[01:25:26.760 --> 01:25:28.760]   What is the point, right?
+[01:25:28.760 --> 01:25:35.760]   Jesus says he is looking for worshipers who will worship him in spirit and in truth, right?
+[01:25:35.760 --> 01:25:40.760]   It's not just as long as my heart is right, it doesn't matter what kind of theology you believe.
+[01:25:40.760 --> 01:25:42.760]   No, it's spirit and in truth, right?
+[01:25:42.760 --> 01:25:49.760]   But the feelers tend to be so heavily focused on the feeling that theology seems to not matter, right?
+[01:25:49.760 --> 01:25:52.760]   It's not like they're not going to say that theology doesn't matter at all,
+[01:25:52.760 --> 01:25:57.760]   but theology is like two or three where emotions are like nine or ten.
+[01:25:57.760 --> 01:26:02.760]   The feelers tend to tune out when deeper theological discussions are taking place.
+[01:26:02.760 --> 01:26:05.760]   So, inwardly, you're judging the non-feelers.
+[01:26:05.760 --> 01:26:10.760]   They tend to come alive during sharing and check out during Bible studies.
+[01:26:10.760 --> 01:26:15.760]   You have a tendency to kind of like stay quiet until there's like sharing or somebody's in tears
+[01:26:15.760 --> 01:26:19.760]   or you're sharing something very personal and then they come alive.
+[01:26:19.760 --> 01:26:23.760]   But any time you go a little bit deeper digging, asking theological questions,
+[01:26:23.760 --> 01:26:25.760]   they kind of tend to zone out, right?
+[01:26:25.760 --> 01:26:27.760]   They're looking at you, but they're not looking at you, right?
+[01:26:27.760 --> 01:26:29.760]   These are the feelers.
+[01:26:29.760 --> 01:26:34.760]   So, if you're not sure if that's you, feelers will tend to admit they're feelers, right?
+[01:26:34.760 --> 01:26:38.760]   So, you probably kind of know because you're in tune with your feelings.
+[01:26:38.760 --> 01:26:42.760]   So, you might not have to ask, but if that's you, right?
+[01:26:42.760 --> 01:26:46.760]   I was looking for people who worship spirit and in truth, okay?
+[01:26:46.760 --> 01:26:48.760]   Directors, okay?
+[01:26:48.760 --> 01:26:51.760]   What I mean by directors are not people who are directing movies.
+[01:26:51.760 --> 01:26:56.760]   This is the type of person who communicates everything very direct, right?
+[01:26:56.760 --> 01:27:02.760]   Directors are people who tend to be direct and tend to come off as brash or insensitive.
+[01:27:02.760 --> 01:27:07.760]   So, if you say something that they may not agree with, they'll just say, "That's dumb.
+[01:27:07.760 --> 01:27:08.760]   Where'd you get that?
+[01:27:08.760 --> 01:27:10.760]   Did you read?"
+[01:27:10.760 --> 01:27:11.760]   Right?
+[01:27:11.760 --> 01:27:13.760]   "Are you doing your homework?"
+[01:27:13.760 --> 01:27:15.760]   And so, these are the directors.
+[01:27:15.760 --> 01:27:21.760]   Directors tend to be truth-tellers, but have not mastered the art of being tactful, right?
+[01:27:21.760 --> 01:27:26.760]   And so, they don't realize that they're creating an environment that's hostile.
+[01:27:26.760 --> 01:27:32.760]   And so, it creates the feelers to feel unsafe, to talk, right?
+[01:27:32.760 --> 01:27:37.760]   And oftentimes, the directors are professors and the dominators.
+[01:27:37.760 --> 01:27:43.760]   It's the same person usually, okay?
+[01:27:43.760 --> 01:27:48.760]   So, when you ask, ask them, "Am I too direct?"
+[01:27:48.760 --> 01:27:49.760]   Right?
+[01:27:49.760 --> 01:27:51.760]   "Do I tend to be a professor?
+[01:27:51.760 --> 01:27:52.760]   Am I a dominator?"
+[01:27:52.760 --> 01:27:57.760]   And if they say yes, what's the solution?
+[01:27:57.760 --> 01:27:58.760]   Stop it.
+[01:27:58.760 --> 01:28:00.760]   Okay.
+[01:28:00.760 --> 01:28:03.760]   Directors tend to be--this tends to be me.
+[01:28:03.760 --> 01:28:07.760]   Directors tend to be impatient and want to communicate clearly without wasting any time.
+[01:28:07.760 --> 01:28:11.760]   So, we know that people who tend to be direct, they're not trying to be hurtful to you.
+[01:28:11.760 --> 01:28:13.760]   It's just that they're not patient.
+[01:28:13.760 --> 01:28:19.760]   So, they don't have time to go around and take five minutes to tell something that you
+[01:28:19.760 --> 01:28:22.760]   can get to the point in two seconds, right?
+[01:28:22.760 --> 01:28:27.760]   I don't agree with that, period, and then move on, right?
+[01:28:27.760 --> 01:28:30.760]   So, it makes the feelers uncomfortable, right?
+[01:28:30.760 --> 01:28:33.760]   Is that you?
+[01:28:33.760 --> 01:28:34.760]   Devil's advocate.
+[01:28:34.760 --> 01:28:38.760]   This is a person that has a rebuttal for anything and everything.
+[01:28:38.760 --> 01:28:40.760]   They have to be the advocate.
+[01:28:40.760 --> 01:28:44.760]   Their position in the argument will always lean toward whatever position is not being
+[01:28:44.760 --> 01:28:45.760]   represented.
+[01:28:45.760 --> 01:28:47.760]   So, it doesn't mean that they believe this.
+[01:28:47.760 --> 01:28:51.760]   They just think that the other side needs to be spoken.
+[01:28:51.760 --> 01:28:56.760]   So, if all your group tends to say one thing, they tend to be the opposite.
+[01:28:56.760 --> 01:28:59.760]   And then if they change their position, they'll go, "Well, you know, I'm not sure if that's
+[01:28:59.760 --> 01:29:02.760]   all true either," right?
+[01:29:02.760 --> 01:29:06.760]   They tend to disagree simply because there seems to be a consensus of something.
+[01:29:06.760 --> 01:29:10.760]   They enjoy stirring the pot even if it tends to turn into a heated discussion.
+[01:29:10.760 --> 01:29:14.760]   So, if you are a devil's advocate, right, this person is not going to spoil the group.
+[01:29:14.760 --> 01:29:20.760]   It sometimes helps the discussion, but oftentimes you will frustrate the group, right?
+[01:29:20.760 --> 01:29:23.760]   You'll frustrate the group because you're not seeking truth.
+[01:29:23.760 --> 01:29:24.760]   You don't seem to be seeking truth.
+[01:29:24.760 --> 01:29:27.760]   You just want to have a good discussion, right?
+[01:29:27.760 --> 01:29:29.760]   So, sometimes it could be good.
+[01:29:29.760 --> 01:29:30.760]   Sometimes it could be frustrating.
+[01:29:30.760 --> 01:29:32.760]   So, just be mindful of that.
+[01:29:32.760 --> 01:29:33.760]   Is this you?
+[01:29:33.760 --> 01:29:35.760]   Peacemakers.
+[01:29:35.760 --> 01:29:39.760]   Peacemakers are people who will never disagree with anything, right?
+[01:29:39.760 --> 01:29:42.760]   If somebody says, "I agree with that," it's like, "Yeah, you know."
+[01:29:42.760 --> 01:29:43.760]   Then, "No, no, no, no.
+[01:29:43.760 --> 01:29:44.760]   That's not right."
+[01:29:44.760 --> 01:29:47.760]   It's like, "Yeah, I can see that too," right?
+[01:29:47.760 --> 01:29:49.760]   They don't have a clear position on anything.
+[01:29:49.760 --> 01:29:53.760]   Peacemakers tend to think that the worst thing to do in a small group is to make someone
+[01:29:53.760 --> 01:29:55.760]   feel bad, right?
+[01:29:55.760 --> 01:29:58.760]   Even at times, maybe certain things need to be said.
+[01:29:58.760 --> 01:30:01.760]   It's like just the fact that you hurt somebody's feeling, that was wrong.
+[01:30:01.760 --> 01:30:07.760]   Peacemakers think that any lively discussion is not godly, prefers avoiding any discussion
+[01:30:07.760 --> 01:30:10.760]   that may lead to anyone feeling uncomfortable.
+[01:30:10.760 --> 01:30:15.760]   This person has mastered speaking in love but is always struggling to speak the truth,
+[01:30:15.760 --> 01:30:18.760]   that this is somebody that everybody likes.
+[01:30:18.760 --> 01:30:22.760]   Everybody loves this person, but they're all frustrated with this person too, right?
+[01:30:22.760 --> 01:30:24.760]   Because there's no movement.
+[01:30:24.760 --> 01:30:30.760]   They're overly concerned about how other people feel where they're not able to tackle truth,
+[01:30:30.760 --> 01:30:31.760]   okay?
+[01:30:31.760 --> 01:30:35.760]   Again, this person is well-liked in the group, and people love that person.
+[01:30:35.760 --> 01:30:41.760]   They make other people feel good, but oftentimes, it's very difficult to have honest and deep
+[01:30:41.760 --> 01:30:45.760]   discussions with this person because they're always kind of pushing against any kind of
+[01:30:45.760 --> 01:30:48.760]   lively discussion, okay?
+[01:30:48.760 --> 01:30:53.760]   Critiquers are always looking for opportunities to correct any little thing that needs correcting,
+[01:30:53.760 --> 01:30:54.760]   right?
+[01:30:54.760 --> 01:30:57.760]   Again, usually, these are the same people.
+[01:30:57.760 --> 01:31:02.760]   The dominators, the professors, the critiquers, they're usually the same people.
+[01:31:02.760 --> 01:31:06.760]   Critiquers usually are ignited during discussions that require critical thinking.
+[01:31:06.760 --> 01:31:11.760]   Critiquers and dominators tend to clash since neither have the patience to put up with the
+[01:31:11.760 --> 01:31:13.760]   rhetoric of others, okay?
+[01:31:13.760 --> 01:31:16.760]   Is that you, okay?
+[01:31:16.760 --> 01:31:18.760]   Then the hiders.
+[01:31:18.760 --> 01:31:23.760]   Hiders tend to stay silent and in the background unless they are personally called upon.
+[01:31:23.760 --> 01:31:29.760]   There's always just as much as there is a dominator, like in a lot of groups, there's
+[01:31:29.760 --> 01:31:30.760]   always a hider.
+[01:31:30.760 --> 01:31:33.760]   In fact, we have more hiders than dominators.
+[01:31:33.760 --> 01:31:40.760]   For every one dominator, I think there's four hiders from my experience, right?
+[01:31:40.760 --> 01:31:41.760]   Hiders tend to stay quiet.
+[01:31:41.760 --> 01:31:46.760]   They don't like conflict for two opposite reasons.
+[01:31:46.760 --> 01:31:50.760]   One, they have a low self-esteem or however you want to call it.
+[01:31:50.760 --> 01:31:55.760]   I don't want to psychologize it, but they think, "I'm going to say something dumb,"
+[01:31:55.760 --> 01:32:01.760]   and then the critiquer and then the dominator, the professor is going to correct me, so I
+[01:32:01.760 --> 01:32:03.760]   don't want to make myself vulnerable.
+[01:32:03.760 --> 01:32:06.760]   They just kind of stay quiet.
+[01:32:06.760 --> 01:32:11.760]   These are the people who will never talk if you have somebody who's a dominator or professor
+[01:32:11.760 --> 01:32:13.760]   or critiquer in the group, okay?
+[01:32:13.760 --> 01:32:17.760]   Or the other part of it, hiders tend to be quiet because they don't think the other people
+[01:32:17.760 --> 01:32:20.760]   will care, so they're judging you, right?
+[01:32:20.760 --> 01:32:23.760]   They're saying, "If you don't care, why should I share with you?
+[01:32:23.760 --> 01:32:25.760]   You don't care if I share with you."
+[01:32:25.760 --> 01:32:30.760]   You have either, "I don't know anything enough to share," or a bunch of, "You guys are not
+[01:32:30.760 --> 01:32:32.760]   worth sharing to," right?
+[01:32:32.760 --> 01:32:34.760]   Sometimes it's both.
+[01:32:34.760 --> 01:32:40.760]   Hiders, again, you don't make trouble in the group, but you're very frustrated because
+[01:32:40.760 --> 01:32:43.760]   the part of the small group is you want to get to know each other better, but if you're
+[01:32:43.760 --> 01:32:49.760]   there and you're in the habit of disengaging or not talking, you may be doing that because
+[01:32:49.760 --> 01:32:53.760]   you think, "I don't have anything to share," or maybe they're not going to care.
+[01:32:53.760 --> 01:32:56.760]   The way you'll come across is you don't care.
+[01:32:56.760 --> 01:32:59.760]   They'll come across like you don't care, right?
+[01:32:59.760 --> 01:33:02.760]   You may be projecting that to other people, but actually what's happening is they're going
+[01:33:02.760 --> 01:33:06.760]   to see that you don't seem to care because you're not engaging, okay?
+[01:33:06.760 --> 01:33:08.760]   Is that you, right?
+[01:33:08.760 --> 01:33:14.760]   So any one of these people, and probably there's a mixture of all of this in our groups and
+[01:33:14.760 --> 01:33:16.760]   in your personalities.
+[01:33:16.760 --> 01:33:21.760]   I share this because we have so many small groups and we want you to get the most out
+[01:33:21.760 --> 01:33:23.760]   of the small groups as possible.
+[01:33:23.760 --> 01:33:28.760]   And so the next session, I'm going to ask you, "Which one are you?"
+[01:33:28.760 --> 01:33:31.760]   And then I have one more left, okay?
+[01:33:31.760 --> 01:33:36.760]   And the last one is the Flakers, right?
+[01:33:36.760 --> 01:33:41.760]   Frosted Flake, okay?
+[01:33:41.760 --> 01:33:44.760]   Flakers could be any one of those personality types.
+[01:33:44.760 --> 01:33:47.760]   Flakers are those who see the small group as something to be taken seriously only when
+[01:33:47.760 --> 01:33:49.760]   it is convenient, right?
+[01:33:49.760 --> 01:33:55.760]   You have a member in your group where any little thing, like some of you guys have work
+[01:33:55.760 --> 01:33:59.760]   that conflicts with this time, so obviously that's understandable.
+[01:33:59.760 --> 01:34:01.760]   There's things, emergencies that happen.
+[01:34:01.760 --> 01:34:03.760]   You get sick, that's understandable.
+[01:34:03.760 --> 01:34:08.760]   But I'm talking about Flakers where, you know, your favorite show is on and so I can't make
+[01:34:08.760 --> 01:34:10.760]   it, you know?
+[01:34:10.760 --> 01:34:15.760]   The Dodgers are playing today, so, you know, so this is not a high priority for you.
+[01:34:15.760 --> 01:34:18.760]   So you'll make it when you can and you miss when you don't.
+[01:34:18.760 --> 01:34:25.760]   So what happens is if you are a chronic Flaker, it creates, you have, you need to be aware
+[01:34:25.760 --> 01:34:28.760]   of how it affects other people, right?
+[01:34:28.760 --> 01:34:35.760]   It's very selfish if you don't consider that you not taking that group seriously makes
+[01:34:35.760 --> 01:34:38.760]   it difficult for that whole group, right?
+[01:34:38.760 --> 01:34:43.760]   And right now because our small groups are so impacted that if we have one group and
+[01:34:43.760 --> 01:34:48.760]   we have half of them not showing up half the time, we're not able to hold the group because
+[01:34:48.760 --> 01:34:50.760]   we have so many people that we need to add.
+[01:34:50.760 --> 01:34:54.760]   And so that's why Pastor Peter Trunk, I think it was the last one or the one before, he
+[01:34:54.760 --> 01:34:57.760]   said, "If you miss more than three, we're going to pull you out," and he said it very
+[01:34:57.760 --> 01:35:01.760]   firmly, and it worked for like two months, right?
+[01:35:01.760 --> 01:35:04.760]   Even in the home group, the attendance was a lot better for like two months, and then
+[01:35:04.760 --> 01:35:06.760]   it went right back, okay?
+[01:35:06.760 --> 01:35:11.760]   So I'm not going to say three times or two times or four times, but generally speaking,
+[01:35:11.760 --> 01:35:16.760]   if you're the Flaker, right, if you feel like, "I don't think I'm going to be able to be
+[01:35:16.760 --> 01:35:22.760]   here for this many times," please let us know ahead of time, okay?
+[01:35:22.760 --> 01:35:23.760]   That at least it's calculated.
+[01:35:23.760 --> 01:35:29.760]   It's because you see a schedule, you see something coming up, but if you're in the habit of,
+[01:35:29.760 --> 01:35:30.760]   "My leg hurts.
+[01:35:30.760 --> 01:35:31.760]   The weather's no good.
+[01:35:31.760 --> 01:35:33.760]   There's a football game on.
+[01:35:33.760 --> 01:35:34.760]   You know what I mean?
+[01:35:34.760 --> 01:35:40.760]   My best friend, you know, wanted to have dinner tonight," that means that level of small group
+[01:35:40.760 --> 01:35:45.760]   is going to go down to your level of commitment for everybody, and so it ruins it for everybody,
+[01:35:45.760 --> 01:35:46.760]   okay?
+[01:35:46.760 --> 01:35:52.760]   So because this is our first session, if you're going to commit to it, commit to it.
+[01:35:52.760 --> 01:35:54.760]   Do your best to come to every Bible study prepared.
+[01:35:54.760 --> 01:35:59.760]   If you know that you cannot commit to that, please let us know ahead of time, okay?
+[01:35:59.760 --> 01:36:06.760]   So either we will put you in a new members group or a Flake group, all right, where you
+[01:36:06.760 --> 01:36:12.760]   will be with other Flakers, so you don't have to feel guilty, okay?
+[01:36:12.760 --> 01:36:16.760]   We're doing it for you, so you won't be judged, okay?
+[01:36:16.760 --> 01:36:17.760]   All right.
+[01:36:17.760 --> 01:36:22.760]   So these are the things, again, as we're starting, hopefully you understand.
+[01:36:22.760 --> 01:36:29.760]   I'm going to give you, you may have known this before, but in your small group, to actively
+[01:36:29.760 --> 01:36:32.760]   share, and I'm just going to go over this real quick.
+[01:36:32.760 --> 01:36:34.760]   There's four areas in people's lives.
+[01:36:34.760 --> 01:36:37.760]   Me and others is a public life.
+[01:36:37.760 --> 01:36:40.760]   This is like, you know, what people can obviously see.
+[01:36:40.760 --> 01:36:43.760]   After you spend a little time, they say, "Hey, you're outgoing.
+[01:36:43.760 --> 01:36:44.760]   You talk.
+[01:36:44.760 --> 01:36:45.760]   You're quiet.
+[01:36:45.760 --> 01:36:46.760]   You're introvert."
+[01:36:46.760 --> 01:36:47.760]   These are things that are obvious.
+[01:36:47.760 --> 01:36:55.760]   So what ends up happening is people who tend to put up a front are good at that part, right?
+[01:36:55.760 --> 01:36:57.760]   Because that's where everybody sees.
+[01:36:57.760 --> 01:37:02.760]   But if you're only sanctified in that area, what do you become?
+[01:37:02.760 --> 01:37:04.760]   A hypocrite, right?
+[01:37:04.760 --> 01:37:09.760]   Because you're only good on the facade, and who you are behind the scene is not consistent,
+[01:37:09.760 --> 01:37:10.760]   right?
+[01:37:10.760 --> 01:37:14.760]   So if you want to really be sanctified, your outer person that people can see and your
+[01:37:14.760 --> 01:37:17.760]   inner person is much closer, right?
+[01:37:17.760 --> 01:37:18.760]   That's me, others.
+[01:37:18.760 --> 01:37:20.760]   Others only is your what?
+[01:37:20.760 --> 01:37:22.760]   Blind spot.
+[01:37:22.760 --> 01:37:25.760]   These are people who are dominators, and they think they're the feelers, right?
+[01:37:25.760 --> 01:37:27.760]   That's your blind spot.
+[01:37:27.760 --> 01:37:29.760]   And so how do you know that?
+[01:37:29.760 --> 01:37:33.760]   When you're surrounded by people who are praying for you, caring for you, discipling you, they
+[01:37:33.760 --> 01:37:35.760]   are the ones who will tell you.
+[01:37:35.760 --> 01:37:40.760]   Usually, your family has already told you, but you don't like them because they told
+[01:37:40.760 --> 01:37:41.760]   you.
+[01:37:41.760 --> 01:37:43.760]   But there's probably some truth to it.
+[01:37:43.760 --> 01:37:48.760]   You have a tendency, and when your family tells you, they are usually direct.
+[01:37:48.760 --> 01:37:53.760]   They don't care about your family, and usually it gets exposed when people are angry, right?
+[01:37:53.760 --> 01:37:56.760]   If you get in a fight with your husband and wife, they'll keep it to themselves for a
+[01:37:56.760 --> 01:37:58.760]   while, and then you tick them off.
+[01:37:58.760 --> 01:37:59.760]   It's like, "How come you always do this?"
+[01:37:59.760 --> 01:38:00.760]   And they go, "What?"
+[01:38:00.760 --> 01:38:04.760]   And then you realize that your sister, your brother, your mom, or dad probably, or somebody
+[01:38:04.760 --> 01:38:10.760]   has already told you this, but this is a blind spot that you kind of are trying to hide.
+[01:38:10.760 --> 01:38:14.760]   But in a small group context, when you spend time with a lot of people for a long period
+[01:38:14.760 --> 01:38:16.760]   of time, it gets exposed.
+[01:38:16.760 --> 01:38:21.760]   But that area, if you're not willing to receive instruction, you're not going to grow either.
+[01:38:21.760 --> 01:38:24.760]   Your blind spot is going to become bigger and bigger and bigger.
+[01:38:24.760 --> 01:38:28.760]   That's why these small groups are good, because you're in a context where you can share, and
+[01:38:28.760 --> 01:38:33.760]   people who are praying for you are able to come alongside you, and hopefully, tactfully,
+[01:38:33.760 --> 01:38:36.760]   lovingly, help you to see that and to grow in that.
+[01:38:36.760 --> 01:38:40.760]   And then, me only is your private.
+[01:38:40.760 --> 01:38:44.760]   It could be your private sins, things that you don't want other people to know, and they
+[01:38:44.760 --> 01:38:47.760]   will only know if you share it with them.
+[01:38:47.760 --> 01:38:50.760]   And so, this part, you have to commit.
+[01:38:50.760 --> 01:38:53.760]   Others, you have to commit to people who are committed to you.
+[01:38:53.760 --> 01:38:55.760]   Me only, you have to commit.
+[01:38:55.760 --> 01:38:59.760]   So, the best place to do that is in your small group.
+[01:38:59.760 --> 01:39:04.760]   If there are certain things maybe you don't feel comfortable in, even in that small group,
+[01:39:04.760 --> 01:39:05.760]   ask your small group leader.
+[01:39:05.760 --> 01:39:11.760]   If you have something that you're wrestling with, you want to confess something, to be
+[01:39:11.760 --> 01:39:15.760]   committed to confess your sins, or confess other things.
+[01:39:15.760 --> 01:39:17.760]   And then, the God only are things that God does.
+[01:39:17.760 --> 01:39:21.760]   When you are sanctified in the other areas, you tend to be sanctified in the areas that
+[01:39:21.760 --> 01:39:24.760]   you may not even know, and other people may not know.
+[01:39:24.760 --> 01:39:31.760]   So, small group is the best place to wrestle with this, and to commit to grow in all areas
+[01:39:31.760 --> 01:39:33.760]   of our life.
+[01:39:33.760 --> 01:39:34.760]   All right.
+[01:39:34.760 --> 01:39:38.760]   Finally, starting from next week, starting from this week, next week we're going to be
+[01:39:38.760 --> 01:39:39.760]   covering the first covenant.
+[01:39:39.760 --> 01:39:43.760]   We're going to, I'm going to briefly review the chapter one and two that you guys discussed,
+[01:39:43.760 --> 01:39:47.760]   and then we're going to go into the covenant, and along with the covenant, I'm going to
+[01:39:47.760 --> 01:39:52.760]   be giving you five quiet time verses for that week.
+[01:39:52.760 --> 01:39:57.760]   So, these are the verses that pertain to covenant one that I'm going to be teaching next week.
+[01:39:57.760 --> 01:39:58.760]   You understand?
+[01:39:58.760 --> 01:40:01.760]   Okay, so, you should have gotten an email.
+[01:40:01.760 --> 01:40:04.760]   This is already on Facebook or Messenger.
+[01:40:04.760 --> 01:40:05.760]   Okay?
+[01:40:05.760 --> 01:40:07.760]   If you didn't get one, make sure you get it.
+[01:40:07.760 --> 01:40:11.760]   And so, there's five passages, and I don't want you to read all five before you come
+[01:40:11.760 --> 01:40:13.760]   on Wednesday morning.
+[01:40:13.760 --> 01:40:14.760]   Spread this out.
+[01:40:14.760 --> 01:40:15.760]   Do it like you're doing quiet time.
+[01:40:15.760 --> 01:40:17.760]   So, tomorrow morning when you wake up, do one.
+[01:40:17.760 --> 01:40:18.760]   And do it in this order.
+[01:40:18.760 --> 01:40:19.760]   Okay?
+[01:40:19.760 --> 01:40:21.760]   Because I'm going to be teaching in this order.
+[01:40:21.760 --> 01:40:26.760]   And so, when you come next week, and I start to teach about the first covenant, and it's
+[01:40:26.760 --> 01:40:30.760]   going to be about the church, that you'll have some basis of understanding of the text
+[01:40:30.760 --> 01:40:32.760]   that I'm going to be looking at.
+[01:40:32.760 --> 01:40:33.760]   Okay?
+[01:40:33.760 --> 01:40:35.760]   So, these are quiet time passages.
+[01:40:35.760 --> 01:40:39.760]   So, some of you guys in your small group who are memorizing Scripture, this would be a
+[01:40:39.760 --> 01:40:43.760]   good place to do your memory verses.
+[01:40:43.760 --> 01:40:46.760]   You don't have to memorize the whole thing, but maybe like one or two key verses in those
+[01:40:46.760 --> 01:40:50.760]   texts that you could memorize that and then check up on each other, if you choose to do
+[01:40:50.760 --> 01:40:51.760]   that.
+[01:40:51.760 --> 01:40:52.760]   Okay?
+[01:40:52.760 --> 01:40:53.760]   Any questions about this?
+[01:40:53.760 --> 01:40:54.760]   Okay.
+[01:40:54.760 --> 01:41:02.760]   So, for the rest of the time for tonight, okay, which one are you?
+[01:41:02.760 --> 01:41:03.760]   Okay?
+[01:41:03.760 --> 01:41:08.760]   Are you the dominator, professor, the feeler, the director, devil's advocate, peacemaker,
+[01:41:08.760 --> 01:41:10.760]   critiquer, or the hider?
+[01:41:10.760 --> 01:41:11.760]   Right?
+[01:41:11.760 --> 01:41:12.760]   So, choose one.
+[01:41:12.760 --> 01:41:13.760]   Don't say, "I don't know."
+[01:41:13.760 --> 01:41:14.760]   Choose one.
+[01:41:14.760 --> 01:41:15.760]   Okay?
+[01:41:15.760 --> 01:41:22.760]   And then, how can you, if you're one of those things, how can you improve going forward
+[01:41:22.760 --> 01:41:23.760]   in your small group?
+[01:41:23.760 --> 01:41:31.760]   If you have a tendency to never talk unless you're picked on, like, how can you commit
+[01:41:31.760 --> 01:41:33.760]   to participate in this small group?
+[01:41:33.760 --> 01:41:34.760]   Okay?
+[01:41:34.760 --> 01:41:38.760]   If you're the dominator, give other people a chance.
+[01:41:38.760 --> 01:41:39.760]   Right?
+[01:41:39.760 --> 01:41:40.760]   Let them talk.
+[01:41:40.760 --> 01:41:42.760]   How can you improve on your tendency?
+[01:41:42.760 --> 01:41:45.760]   Number two, what is the biggest weakness in your spiritual life?
+[01:41:45.760 --> 01:41:46.760]   Okay?
+[01:41:46.760 --> 01:41:50.760]   And what are you hoping to get out of this small group, socially and spiritually, and
+[01:41:50.760 --> 01:41:54.760]   do you think you will be able to commit to the whole 13 sessions of the Bible study?
+[01:41:54.760 --> 01:41:55.760]   Okay?
+[01:41:55.760 --> 01:42:00.760]   So, for the next 30, 40 minutes, however long it takes, get into your small group and then
+[01:42:00.760 --> 01:42:06.760]   discuss this, and then please do your five-verse quiet time and the first two chapters before
+[01:42:06.760 --> 01:42:07.760]   you come next Wednesday.
+[01:42:07.760 --> 01:42:08.760]   All right?
+[01:42:08.760 --> 01:42:13.760]   Let me pray for us, and then we'll wrap up.
+[01:42:13.760 --> 01:42:19.760]   Father, we thank you so much for this new session of Bible study, and we pray that you
+[01:42:19.760 --> 01:42:25.760]   would help us to use this time to really learn and to come together to be on the same page,
+[01:42:25.760 --> 01:42:31.760]   Lord God, as we are doing our best to be deliberate about the church that you desire to build.
+[01:42:31.760 --> 01:42:35.760]   Lord, as you remind us over and over again that Christ is the head of the church, not
+[01:42:35.760 --> 01:42:40.760]   any man, not any purpose, so we pray, Father God, that these sessions will help us to be
+[01:42:40.760 --> 01:42:42.760]   united together under Christ.
+[01:42:42.760 --> 01:42:46.760]   We pray for these small groups and the small group leaders and all the hard work that they
+[01:42:46.760 --> 01:42:47.760]   are putting into it.
+[01:42:47.760 --> 01:42:51.760]   We pray that you would reward them to be able to see tangible fruit, and we ask for all
+[01:42:51.760 --> 01:42:57.760]   the participants, Lord God, that not only knowledge-wise, but relationally, spiritually,
+[01:42:57.760 --> 01:43:02.760]   in every way, Lord God, that we would become a tighter, more united community as a result
+[01:43:02.760 --> 01:43:04.760]   of the Bible study we will have.
+[01:43:04.760 --> 01:43:05.760]   We thank you, Father.
+[01:43:05.760 --> 01:43:06.760]   In Jesus' name we pray.
+[01:43:06.760 --> 01:43:07.760]   Amen.
+[01:43:07.760 --> 01:43:17.760]   [BLANK_AUDIO]
 
