@@ -1,0 +1,2451 @@
+
+[00:00:00.000 --> 00:00:03.160]   (audience chattering)
+[00:00:03.160 --> 00:00:06.320]   (audience chattering)
+[00:00:06.320 --> 00:00:09.480]   (audience chattering)
+[00:00:09.480 --> 00:00:12.640]   (audience chattering)
+[00:00:12.640 --> 00:00:15.800]   (audience chattering)
+[00:00:15.800 --> 00:00:20.920]   (audience chattering)
+[00:00:20.920 --> 00:00:25.120]   (audience chattering)
+[00:00:25.120 --> 00:00:30.320]   (audience chattering)
+[00:00:30.320 --> 00:00:36.800]   (audience chattering)
+[00:00:36.800 --> 00:00:40.960]   (audience chattering)
+[00:00:42.040 --> 00:00:45.200]   (audience chattering)
+[00:00:45.200 --> 00:00:49.760]   (audience chattering)
+[00:00:49.760 --> 00:00:54.360]   (audience chattering)
+[00:00:54.360 --> 00:00:59.080]   (audience chattering)
+[00:00:59.080 --> 00:01:03.720]   (audience chattering)
+[00:01:03.720 --> 00:01:07.880]   (audience chattering)
+[00:01:09.240 --> 00:01:12.400]   (audience chattering)
+[00:01:12.400 --> 00:01:16.880]   (audience chattering)
+[00:01:16.880 --> 00:01:21.440]   (audience chattering)
+[00:01:21.440 --> 00:01:25.880]   (audience chattering)
+[00:01:25.880 --> 00:01:30.240]   (audience chattering)
+[00:01:30.240 --> 00:01:34.600]   (audience chattering)
+[00:01:34.600 --> 00:01:39.000]   (audience chattering)
+[00:01:39.920 --> 00:01:43.080]   (audience chattering)
+[00:01:43.080 --> 00:01:49.880]   (audience chattering)
+[00:01:49.880 --> 00:01:55.800]   (audience chattering)
+[00:01:55.800 --> 00:02:00.520]   (audience chattering)
+[00:02:00.520 --> 00:02:07.840]   (audience chattering)
+[00:02:07.880 --> 00:02:11.040]   (audience chattering)
+[00:02:11.200 --> 00:02:14.360]   (audience chattering)
+[00:02:14.360 --> 00:02:17.520]   (audience chattering)
+[00:02:17.520 --> 00:02:20.680]   (audience chattering)
+[00:02:20.680 --> 00:02:23.840]   (audience chattering)
+[00:02:23.840 --> 00:02:29.000]   (audience chattering)
+[00:02:29.000 --> 00:02:33.680]   (audience chattering)
+[00:02:33.680 --> 00:02:38.160]   (audience chattering)
+[00:02:38.160 --> 00:02:42.680]   (audience chattering)
+[00:02:42.680 --> 00:02:47.200]   (audience chattering)
+[00:02:48.400 --> 00:02:51.560]   (audience chattering)
+[00:02:51.560 --> 00:02:56.520]   (audience chattering)
+[00:02:56.520 --> 00:03:00.960]   (audience chattering)
+[00:03:00.960 --> 00:03:05.440]   (audience chattering)
+[00:03:05.440 --> 00:03:10.040]   (audience chattering)
+[00:03:10.040 --> 00:03:14.280]   (audience chattering)
+[00:03:15.600 --> 00:03:18.760]   (audience chattering)
+[00:03:18.760 --> 00:03:23.640]   (audience chattering)
+[00:03:23.640 --> 00:03:28.040]   (audience chattering)
+[00:03:28.040 --> 00:03:32.640]   (audience chattering)
+[00:03:32.640 --> 00:03:37.200]   (audience chattering)
+[00:03:37.200 --> 00:03:41.600]   (audience chattering)
+[00:03:42.800 --> 00:03:45.960]   (audience chattering)
+[00:03:45.960 --> 00:03:50.880]   (audience chattering)
+[00:03:50.880 --> 00:03:56.080]   (audience chattering)
+[00:03:56.080 --> 00:04:01.120]   (audience chattering)
+[00:04:01.120 --> 00:04:06.120]   (audience chattering)
+[00:04:06.120 --> 00:04:10.520]   (audience chattering)
+[00:04:11.560 --> 00:04:14.720]   (audience chattering)
+[00:04:14.720 --> 00:04:22.000]   (audience chattering)
+[00:04:22.000 --> 00:04:26.960]   (audience chattering)
+[00:04:26.960 --> 00:04:31.600]   (audience chattering)
+[00:04:31.600 --> 00:04:36.200]   (audience chattering)
+[00:04:36.200 --> 00:04:40.800]   (audience chattering)
+[00:04:40.920 --> 00:04:44.080]   (audience chattering)
+[00:04:44.080 --> 00:04:53.360]   (audience chattering)
+[00:04:53.360 --> 00:04:58.480]   (audience chattering)
+[00:04:58.480 --> 00:05:03.600]   (audience chattering)
+[00:05:03.600 --> 00:05:10.120]   (audience chattering)
+[00:05:10.560 --> 00:05:13.720]   (audience chattering)
+[00:05:13.720 --> 00:05:18.240]   (audience chattering)
+[00:05:18.240 --> 00:05:22.440]   (audience chattering)
+[00:05:22.440 --> 00:05:26.800]   (audience chattering)
+[00:05:26.800 --> 00:05:31.360]   (audience chattering)
+[00:05:31.360 --> 00:05:35.680]   (audience chattering)
+[00:05:37.200 --> 00:05:40.360]   (audience chattering)
+[00:05:40.360 --> 00:05:45.280]   (audience chattering)
+[00:05:45.280 --> 00:05:49.720]   (audience chattering)
+[00:05:49.720 --> 00:05:54.720]   (audience chattering)
+[00:05:54.720 --> 00:05:59.160]   (audience chattering)
+[00:05:59.160 --> 00:06:03.920]   (audience chattering)
+[00:06:05.480 --> 00:06:08.640]   (audience chattering)
+[00:06:08.640 --> 00:06:13.800]   (audience chattering)
+[00:06:13.800 --> 00:06:18.320]   (audience chattering)
+[00:06:18.320 --> 00:06:22.920]   (audience chattering)
+[00:06:22.920 --> 00:06:27.040]   (audience chattering)
+[00:06:27.040 --> 00:06:31.400]   (audience chattering)
+[00:06:32.640 --> 00:06:35.800]   (audience chattering)
+[00:06:35.800 --> 00:06:42.400]   (audience chattering)
+[00:06:42.400 --> 00:06:46.800]   (audience chattering)
+[00:06:46.800 --> 00:06:51.680]   (audience chattering)
+[00:06:51.680 --> 00:06:56.120]   (audience chattering)
+[00:06:56.120 --> 00:07:00.640]   (audience chattering)
+[00:07:00.680 --> 00:07:03.840]   (audience chattering)
+[00:07:03.840 --> 00:07:08.640]   (audience chattering)
+[00:07:08.640 --> 00:07:13.160]   (audience chattering)
+[00:07:13.160 --> 00:07:17.760]   (audience chattering)
+[00:07:17.760 --> 00:07:22.160]   (audience chattering)
+[00:07:22.160 --> 00:07:26.640]   (audience chattering)
+[00:07:27.720 --> 00:07:30.880]   (audience chattering)
+[00:07:30.880 --> 00:07:35.520]   (audience chattering)
+[00:07:35.520 --> 00:07:40.080]   (audience chattering)
+[00:07:40.080 --> 00:07:44.360]   (audience chattering)
+[00:07:44.360 --> 00:07:48.720]   (audience chattering)
+[00:07:48.720 --> 00:07:53.160]   (audience chattering)
+[00:07:54.600 --> 00:07:57.760]   (audience chattering)
+[00:07:57.760 --> 00:08:02.400]   (audience chattering)
+[00:08:02.400 --> 00:08:07.000]   (audience chattering)
+[00:08:07.000 --> 00:08:11.600]   (audience chattering)
+[00:08:11.600 --> 00:08:16.080]   (audience chattering)
+[00:08:16.080 --> 00:08:20.480]   (audience chattering)
+[00:08:21.640 --> 00:08:24.800]   (audience chattering)
+[00:08:24.800 --> 00:08:29.960]   (audience chattering)
+[00:08:29.960 --> 00:08:34.440]   (audience chattering)
+[00:08:34.440 --> 00:08:38.920]   (audience chattering)
+[00:08:38.920 --> 00:08:43.200]   (audience chattering)
+[00:08:43.200 --> 00:08:47.520]   (audience chattering)
+[00:08:48.720 --> 00:08:51.880]   (audience chattering)
+[00:08:51.880 --> 00:08:56.400]   (audience chattering)
+[00:08:56.400 --> 00:09:00.920]   (audience chattering)
+[00:09:00.920 --> 00:09:05.400]   (audience chattering)
+[00:09:05.400 --> 00:09:09.840]   (audience chattering)
+[00:09:09.840 --> 00:09:14.560]   (audience chattering)
+[00:09:16.560 --> 00:09:19.720]   (audience chattering)
+[00:09:19.720 --> 00:09:24.400]   (audience chattering)
+[00:09:24.400 --> 00:09:29.360]   (audience chattering)
+[00:09:29.360 --> 00:09:33.880]   (audience chattering)
+[00:09:33.880 --> 00:09:38.240]   (audience chattering)
+[00:09:38.240 --> 00:09:42.480]   (audience chattering)
+[00:09:43.400 --> 00:09:46.560]   (audience chattering)
+[00:09:46.560 --> 00:09:51.200]   (audience chattering)
+[00:09:51.200 --> 00:09:55.760]   (audience chattering)
+[00:09:55.760 --> 00:10:00.120]   (audience chattering)
+[00:10:00.120 --> 00:10:04.400]   (audience chattering)
+[00:10:04.400 --> 00:10:08.880]   (audience chattering)
+[00:10:10.240 --> 00:10:13.400]   (audience chattering)
+[00:10:13.400 --> 00:10:18.040]   (audience chattering)
+[00:10:18.040 --> 00:10:22.640]   (audience chattering)
+[00:10:22.640 --> 00:10:26.920]   (audience chattering)
+[00:10:26.920 --> 00:10:31.480]   (audience chattering)
+[00:10:31.480 --> 00:10:35.760]   (audience chattering)
+[00:10:37.320 --> 00:10:40.480]   (audience chattering)
+[00:10:40.480 --> 00:10:45.360]   (audience chattering)
+[00:10:45.360 --> 00:10:49.880]   (audience chattering)
+[00:10:49.880 --> 00:10:54.280]   (audience chattering)
+[00:10:54.280 --> 00:10:58.360]   (audience chattering)
+[00:10:58.360 --> 00:11:02.720]   (audience chattering)
+[00:11:04.160 --> 00:11:07.320]   (audience chattering)
+[00:11:07.320 --> 00:11:29.120]   All right, good evening, everybody.
+[00:11:29.120 --> 00:11:31.400]   Let's get settled into our tables.
+[00:11:31.400 --> 00:11:34.080]   And we'll take a moment to pray.
+[00:11:34.080 --> 00:11:36.040]   To start off our Bible study.
+[00:11:36.040 --> 00:11:40.600]   All right, please join with me in a word of prayer.
+[00:11:40.600 --> 00:11:45.560]   Our Heavenly Father, we are so grateful to you.
+[00:11:45.560 --> 00:11:48.080]   And God, we acknowledge that you are in the heavens
+[00:11:48.080 --> 00:11:50.480]   and you are deserving of all praise.
+[00:11:50.480 --> 00:11:54.520]   We ask, Father God, that as we come together as a church
+[00:11:54.520 --> 00:11:57.280]   centered around your word and your truth,
+[00:11:57.280 --> 00:11:58.840]   that this will be pleasing in your sight,
+[00:11:58.840 --> 00:12:03.120]   but also fruitful for us, for our growth and our faith.
+[00:12:03.120 --> 00:12:06.000]   And we pray now that as we join our voices to lift you up,
+[00:12:06.000 --> 00:12:08.480]   would you be praised, it's in Christ's name, amen.
+[00:12:08.480 --> 00:12:20.600]   (gentle music)
+[00:12:31.760 --> 00:12:35.360]   ♪ You are my strength ♪
+[00:12:35.360 --> 00:12:39.040]   ♪ You are my strength when I am weak ♪
+[00:12:39.040 --> 00:12:42.760]   ♪ You are the treasure that I seek ♪
+[00:12:42.760 --> 00:12:47.760]   ♪ You are my all in all ♪
+[00:12:47.760 --> 00:12:53.720]   ♪ Seeking you as a precious jewel ♪
+[00:12:53.720 --> 00:12:57.440]   ♪ Won't you give up, I'd be a fool ♪
+[00:12:57.440 --> 00:13:02.440]   ♪ You are my all in all ♪
+[00:13:02.440 --> 00:13:08.760]   ♪ Jesus, Lamb of God ♪
+[00:13:08.760 --> 00:13:16.040]   ♪ Worthy is your name ♪
+[00:13:16.040 --> 00:13:23.320]   ♪ Jesus, Lamb of God ♪
+[00:13:25.600 --> 00:13:28.840]   ♪ Worthy is your name ♪
+[00:13:28.840 --> 00:13:31.320]   Taking my sin.
+[00:13:31.320 --> 00:13:37.240]   ♪ Taking my sin, my cross, my shame ♪
+[00:13:37.240 --> 00:13:40.920]   ♪ Rising again, I bless your name ♪
+[00:13:40.920 --> 00:13:45.920]   ♪ You are my all in all ♪
+[00:13:45.920 --> 00:13:51.760]   ♪ When I fall down, you pick me up ♪
+[00:13:51.760 --> 00:13:55.440]   ♪ When I am dry, you fill my cup ♪
+[00:13:55.440 --> 00:14:00.440]   ♪ You are my all in all ♪
+[00:14:00.440 --> 00:14:06.760]   ♪ Jesus, Lamb of God ♪
+[00:14:06.760 --> 00:14:13.960]   ♪ Worthy is your name ♪
+[00:14:13.960 --> 00:14:21.200]   ♪ Jesus, Lamb of God ♪
+[00:14:23.360 --> 00:14:28.360]   ♪ Worthy is your name ♪
+[00:14:28.360 --> 00:14:29.520]   Jesus.
+[00:14:29.520 --> 00:14:35.480]   ♪ Jesus, Lamb of God ♪
+[00:14:35.480 --> 00:14:42.680]   ♪ Worthy is your name ♪
+[00:14:42.680 --> 00:14:49.880]   ♪ Jesus, Lamb of God ♪
+[00:14:52.080 --> 00:14:57.080]   ♪ Worthy is your name ♪
+[00:14:57.080 --> 00:15:02.560]   ♪ Worthy is your name ♪
+[00:15:02.560 --> 00:15:16.720]   Sing worthy.
+[00:15:19.440 --> 00:15:24.440]   ♪ You're worthy of every song we could ever sing ♪
+[00:15:24.440 --> 00:15:31.600]   ♪ You're worthy of all the praise we could ever bring ♪
+[00:15:31.600 --> 00:15:38.760]   ♪ You're worthy of every breath we could ever breathe ♪
+[00:15:38.760 --> 00:15:41.520]   ♪ We live for you ♪
+[00:15:48.440 --> 00:15:53.440]   ♪ Jesus, the name above every other name ♪
+[00:15:53.440 --> 00:16:00.640]   ♪ Jesus, the only one who could ever save ♪
+[00:16:00.640 --> 00:16:07.640]   ♪ Worthy of every breath we could ever breathe ♪
+[00:16:07.640 --> 00:16:11.040]   ♪ We live for you ♪
+[00:16:11.040 --> 00:16:15.720]   ♪ We live for you ♪
+[00:16:15.720 --> 00:16:20.720]   ♪ Holy, there is no one like you ♪
+[00:16:20.720 --> 00:16:24.760]   ♪ There is none beside you ♪
+[00:16:24.760 --> 00:16:29.760]   ♪ Open up my eyes in wonder ♪
+[00:16:29.760 --> 00:16:35.080]   ♪ Show me who you are and fill me with your heart ♪
+[00:16:35.080 --> 00:16:42.080]   ♪ And lead me in your love to those around me ♪
+[00:16:42.080 --> 00:16:45.000]   ♪ Those around me ♪
+[00:16:45.000 --> 00:17:05.520]   ♪ You're worthy of every song we could ever sing ♪
+[00:17:07.560 --> 00:17:12.560]   ♪ You're worthy of all the praise we could ever bring ♪
+[00:17:12.560 --> 00:17:19.640]   ♪ Worthy of every breath we could ever breathe ♪
+[00:17:19.640 --> 00:17:22.480]   ♪ We live for you ♪
+[00:17:22.480 --> 00:17:26.200]   Jesus.
+[00:17:26.200 --> 00:17:34.240]   ♪ Jesus, the name above every other name ♪
+[00:17:36.400 --> 00:17:41.400]   ♪ Jesus, the only one who could ever save ♪
+[00:17:41.400 --> 00:17:48.240]   ♪ Worthy of every breath we could ever breathe ♪
+[00:17:48.240 --> 00:17:51.800]   ♪ We live for you ♪
+[00:17:51.800 --> 00:17:56.320]   ♪ We live for you ♪
+[00:17:56.320 --> 00:18:01.320]   ♪ Holy, there is no one like you ♪
+[00:18:01.320 --> 00:18:05.240]   ♪ There is none beside you ♪
+[00:18:05.240 --> 00:18:10.240]   ♪ Open up my eyes in wonder ♪
+[00:18:10.240 --> 00:18:15.560]   ♪ Show me who you are and fill me with your heart ♪
+[00:18:15.560 --> 00:18:22.400]   ♪ And lead me in your love to those around me ♪
+[00:18:22.400 --> 00:18:25.320]   ♪ Those around me ♪
+[00:18:25.320 --> 00:18:38.720]   I will build my life.
+[00:18:38.720 --> 00:18:44.880]   ♪ And I will build my life upon your love ♪
+[00:18:48.200 --> 00:18:53.200]   ♪ It is a firm foundation ♪
+[00:18:53.200 --> 00:18:59.520]   ♪ And I will put my trust in you alone ♪
+[00:18:59.520 --> 00:19:07.760]   ♪ And I will not be shaken ♪
+[00:19:07.760 --> 00:19:14.000]   ♪ And I will build my life upon your love ♪
+[00:19:17.280 --> 00:19:22.280]   ♪ It is a firm foundation ♪
+[00:19:22.280 --> 00:19:28.560]   ♪ I will put my trust in you alone ♪
+[00:19:28.560 --> 00:19:36.720]   ♪ And I will not be shaken ♪
+[00:19:36.720 --> 00:19:42.720]   ♪ Holy, there is no one like you ♪
+[00:19:42.720 --> 00:19:46.800]   ♪ There is none beside you ♪
+[00:19:46.800 --> 00:19:51.800]   ♪ Open up my eyes in wonder ♪
+[00:19:51.800 --> 00:19:57.040]   ♪ And show me who you are and fill me with your heart ♪
+[00:19:57.040 --> 00:20:04.040]   ♪ And lead me in your love to those around me ♪
+[00:20:04.040 --> 00:20:11.320]   ♪ And I will build my life upon your love ♪
+[00:20:14.560 --> 00:20:19.560]   ♪ It is a firm foundation ♪
+[00:20:19.560 --> 00:20:25.640]   ♪ And I will put my trust in you alone ♪
+[00:20:25.640 --> 00:20:33.800]   ♪ And I will not be shaken ♪
+[00:20:33.800 --> 00:20:39.840]   ♪ And I will build my life upon your love ♪
+[00:20:43.200 --> 00:20:48.200]   ♪ It is a firm foundation ♪
+[00:20:48.200 --> 00:20:54.640]   ♪ I will put my trust in you alone ♪
+[00:20:54.640 --> 00:21:01.620]   ♪ And I will not be shaken ♪
+[00:21:01.620 --> 00:21:07.400]   Let's pray.
+[00:21:07.400 --> 00:21:13.180]   Lord God, we just thank you for just the privilege it is
+[00:21:13.180 --> 00:21:16.300]   for us to gather here freely as a body
+[00:21:16.300 --> 00:21:19.800]   and to just have this time of fellowship, God,
+[00:21:19.800 --> 00:21:22.960]   to have this time of where we're able to just worship you.
+[00:21:22.960 --> 00:21:25.440]   We pray, Lord, that this time of just singing songs
+[00:21:25.440 --> 00:21:27.280]   would have been honoring to you,
+[00:21:27.280 --> 00:21:28.920]   that it would not have just been words,
+[00:21:28.920 --> 00:21:32.880]   but it would be coming from hearts of worship, God.
+[00:21:32.880 --> 00:21:35.680]   And I pray, Lord, as we continue to discuss
+[00:21:35.680 --> 00:21:37.960]   just what a healthy church looks like,
+[00:21:37.960 --> 00:21:39.520]   I pray that you'll be with our discussions,
+[00:21:39.520 --> 00:21:41.960]   that we would be able to encourage one another
+[00:21:41.960 --> 00:21:43.620]   and that we would be able to challenge one another
+[00:21:43.620 --> 00:21:45.300]   and just have fruitful time, God.
+[00:21:45.300 --> 00:21:47.340]   Thank you and in your name we pray, amen.
+[00:21:47.340 --> 00:21:54.340]   - Okay, good evening again.
+[00:21:54.340 --> 00:21:56.580]   I've got some important announcements
+[00:21:56.580 --> 00:21:59.140]   for you guys this evening.
+[00:21:59.140 --> 00:22:01.260]   Please note on your calendars
+[00:22:01.260 --> 00:22:05.140]   that next week is going to be all church praise and prayer,
+[00:22:05.140 --> 00:22:07.980]   Friday at 7.30 p.m.
+[00:22:07.980 --> 00:22:09.780]   So hope all of you guys can join us
+[00:22:09.780 --> 00:22:11.640]   for extended time of worship
+[00:22:11.640 --> 00:22:13.120]   and praying together corporately.
+[00:22:13.120 --> 00:22:15.000]   So please make sure you guys note
+[00:22:15.000 --> 00:22:17.280]   that Bible study takes a break
+[00:22:17.280 --> 00:22:18.960]   for those of you guys who are newer.
+[00:22:18.960 --> 00:22:20.320]   Next slide, please.
+[00:22:20.320 --> 00:22:26.480]   And then for the band ministry, surprise, surprise.
+[00:22:26.480 --> 00:22:31.160]   We're gonna be here Friday night
+[00:22:31.160 --> 00:22:35.400]   for our first session of our retreat, okay?
+[00:22:35.400 --> 00:22:39.600]   Now we're super thankful for all the firefighters.
+[00:22:39.600 --> 00:22:42.100]   As you guys see the clouds and stuff
+[00:22:42.100 --> 00:22:42.940]   and you see the maps,
+[00:22:42.940 --> 00:22:44.540]   there's actually like four or five fires
+[00:22:44.540 --> 00:22:46.220]   that are happening at the same time.
+[00:22:46.220 --> 00:22:48.460]   So we're not gonna be able to make it up to the mountains.
+[00:22:48.460 --> 00:22:51.260]   That means on Friday night, it's gonna be busy here.
+[00:22:51.260 --> 00:22:53.340]   So we're requesting that those of you guys
+[00:22:53.340 --> 00:22:56.060]   who can carpool together on Friday night,
+[00:22:56.060 --> 00:22:58.700]   please make sure that you're joining with somebody
+[00:22:58.700 --> 00:22:59.520]   and coming to church.
+[00:22:59.520 --> 00:23:01.660]   There's gonna be youth group and college group
+[00:23:01.660 --> 00:23:04.160]   in our first session here, okay?
+[00:23:04.160 --> 00:23:07.100]   On Friday night, therefore,
+[00:23:07.100 --> 00:23:10.440]   please know that there are various parking spaces
+[00:23:10.440 --> 00:23:12.040]   that we can use.
+[00:23:12.040 --> 00:23:15.200]   There are the two far ones, FNG on Fitch Road,
+[00:23:15.200 --> 00:23:17.740]   and then there are the ones that are our two lots
+[00:23:17.740 --> 00:23:19.520]   and the lot across, okay?
+[00:23:19.520 --> 00:23:20.880]   So just take note of that.
+[00:23:20.880 --> 00:23:23.600]   It'll kind of be messaged out
+[00:23:23.600 --> 00:23:26.440]   and you'll see it that Friday night, since we'll be busy,
+[00:23:26.440 --> 00:23:27.440]   you'll try to make sure
+[00:23:27.440 --> 00:23:29.600]   that we'll manage the parking and shuttles.
+[00:23:29.600 --> 00:23:32.340]   We'll be operating like it does on a praise and prayer.
+[00:23:32.340 --> 00:23:35.280]   Okay, next slide, please.
+[00:23:35.280 --> 00:23:37.880]   For those of you who are newer to church,
+[00:23:37.880 --> 00:23:40.520]   please note that there is a membership class
+[00:23:40.520 --> 00:23:44.880]   that is taking place starting from September 29th,
+[00:23:44.880 --> 00:23:47.440]   and that starts at 9.30 a.m.
+[00:23:47.440 --> 00:23:49.000]   It's an eight-week course
+[00:23:49.000 --> 00:23:51.420]   that covers our foundational beliefs,
+[00:23:51.420 --> 00:23:53.080]   and it's our membership process
+[00:23:53.080 --> 00:23:54.960]   that you go through for church.
+[00:23:54.960 --> 00:23:58.060]   Any questions about that, please contact Justin Wu.
+[00:23:58.060 --> 00:24:00.360]   Next slide, please.
+[00:24:01.280 --> 00:24:05.440]   The next slide is that Reformation Night is coming up,
+[00:24:05.440 --> 00:24:08.680]   okay, in just about month and a half, two months,
+[00:24:08.680 --> 00:24:13.080]   and volunteers are needed to run both trunk spaces,
+[00:24:13.080 --> 00:24:15.080]   fun activities, but also everything
+[00:24:15.080 --> 00:24:17.680]   from craft time to snacks and et cetera.
+[00:24:17.680 --> 00:24:19.760]   If you'd like to participate in that,
+[00:24:19.760 --> 00:24:23.800]   please use this QR code and sign up to volunteer.
+[00:24:23.800 --> 00:24:24.640]   Next slide.
+[00:24:24.640 --> 00:24:29.680]   The next slide is that we are looking for volunteers
+[00:24:29.680 --> 00:24:32.980]   to host a Thanksgiving regional dinner,
+[00:24:32.980 --> 00:24:35.640]   so if you have a home that you'd like to open up,
+[00:24:35.640 --> 00:24:40.160]   and it could house 15 or so plus people,
+[00:24:40.160 --> 00:24:41.040]   please sign up.
+[00:24:41.040 --> 00:24:43.920]   We would love to have as many groups as possible.
+[00:24:43.920 --> 00:24:47.160]   Last year, we had upwards of 600-plus participants
+[00:24:47.160 --> 00:24:48.560]   in that regional dinner,
+[00:24:48.560 --> 00:24:52.060]   and so we will need people to volunteer their homes.
+[00:24:52.060 --> 00:24:54.400]   Even groups of people can come together,
+[00:24:54.400 --> 00:24:58.360]   clean their house, and open it up for a gathering as well.
+[00:24:58.360 --> 00:24:59.880]   Please use the QR code to sign up.
+[00:24:59.880 --> 00:25:03.480]   All of these signups will be on both our Linktree
+[00:25:03.480 --> 00:25:07.840]   and in our app for where the events are,
+[00:25:07.840 --> 00:25:10.680]   so please make sure you take note of those things.
+[00:25:10.680 --> 00:25:11.920]   I believe that may be it.
+[00:25:11.920 --> 00:25:12.860]   Next slide.
+[00:25:12.860 --> 00:25:17.680]   Okay, so that's it for us in terms of announcements.
+[00:25:17.680 --> 00:25:19.360]   Please go ahead and do your discussion
+[00:25:19.360 --> 00:25:21.760]   over the QT passages and the book,
+[00:25:21.760 --> 00:25:23.920]   and we'll see you guys back here at eight.
+[00:25:23.920 --> 00:25:24.760]   Thank you.
+[00:25:24.760 --> 00:25:28.000]   (microphone feedback)
+[00:25:28.000 --> 00:25:31.000]   (audience laughing)
+[00:25:31.000 --> 00:25:34.000]   (audience laughing)
+[00:25:34.360 --> 00:25:37.360]   (audience laughing)
+[00:25:37.360 --> 00:25:40.360]   (audience laughing)
+[00:25:40.480 --> 00:25:43.480]   (audience laughing)
+[00:25:43.480 --> 00:25:46.480]   (audience laughing)
+[00:25:46.480 --> 00:25:49.480]   (audience laughing)
+[00:25:49.480 --> 00:25:52.480]   (audience laughing)
+[00:25:52.480 --> 00:25:55.480]   (audience laughing)
+[00:25:55.480 --> 00:25:58.480]   (audience laughing)
+[00:25:58.480 --> 00:26:01.480]   (audience laughing)
+[00:26:01.480 --> 00:26:04.480]   (audience laughing)
+[00:26:04.480 --> 00:26:07.480]   (audience laughing)
+[00:26:07.480 --> 00:26:10.480]   (audience laughing)
+[00:26:10.480 --> 00:26:13.480]   (audience laughing)
+[00:26:13.480 --> 00:26:16.480]   (audience laughing)
+[00:26:16.480 --> 00:26:19.480]   (audience laughing)
+[00:26:19.480 --> 00:26:22.480]   (audience laughing)
+[00:26:22.480 --> 00:26:25.480]   (audience laughing)
+[00:26:25.480 --> 00:26:28.480]   (audience laughing)
+[00:26:28.480 --> 00:26:31.480]   (audience laughing)
+[00:26:31.480 --> 00:26:34.480]   (audience laughing)
+[00:26:34.480 --> 00:26:37.480]   (audience laughing)
+[00:26:37.480 --> 00:26:40.480]   (audience laughing)
+[00:26:40.480 --> 00:26:43.480]   (audience laughing)
+[00:26:43.480 --> 00:26:46.480]   (audience laughing)
+[00:26:46.480 --> 00:26:49.480]   (audience laughing)
+[00:26:49.480 --> 00:26:52.480]   (audience laughing)
+[00:26:52.480 --> 00:26:55.480]   (audience laughing)
+[00:26:55.480 --> 00:26:58.480]   (audience laughing)
+[00:26:58.480 --> 00:27:01.480]   (audience laughing)
+[00:27:01.480 --> 00:27:04.480]   (audience laughing)
+[00:27:04.480 --> 00:27:07.480]   (audience laughing)
+[00:27:07.480 --> 00:27:10.480]   (audience laughing)
+[00:27:10.480 --> 00:27:13.480]   (audience laughing)
+[00:27:13.480 --> 00:27:16.480]   (audience laughing)
+[00:27:16.480 --> 00:27:19.480]   (audience laughing)
+[00:27:19.480 --> 00:27:22.480]   (audience laughing)
+[00:27:22.480 --> 00:27:25.480]   (audience laughing)
+[00:27:25.480 --> 00:27:28.480]   (audience laughing)
+[00:27:28.480 --> 00:27:31.480]   (audience laughing)
+[00:27:31.480 --> 00:27:34.480]   (audience laughing)
+[00:27:34.480 --> 00:27:37.480]   (audience laughing)
+[00:27:37.480 --> 00:27:40.480]   (audience laughing)
+[00:27:40.480 --> 00:27:43.480]   (audience laughing)
+[00:27:43.480 --> 00:27:46.480]   (audience laughing)
+[00:27:46.480 --> 00:27:49.480]   (audience laughing)
+[00:27:49.480 --> 00:27:54.480]   (audience laughing)
+[00:27:54.480 --> 00:27:59.480]   (audience laughing)
+[00:27:59.480 --> 00:28:04.480]   (audience laughing)
+[00:28:04.480 --> 00:28:10.480]   (audience laughing)
+[00:28:13.480 --> 00:28:16.480]   (audience laughing)
+[00:28:16.480 --> 00:28:19.480]   (audience laughing)
+[00:28:19.480 --> 00:28:22.480]   (audience laughing)
+[00:28:22.480 --> 00:28:25.480]   (audience laughing)
+[00:28:25.480 --> 00:28:28.480]   (audience laughing)
+[00:28:28.480 --> 00:28:31.480]   (audience laughing)
+[00:28:31.480 --> 00:28:34.480]   (audience laughing)
+[00:28:34.480 --> 00:28:37.480]   (audience laughing)
+[00:28:37.480 --> 00:28:40.480]   (audience laughing)
+[00:28:40.480 --> 00:28:43.480]   (audience laughing)
+[00:28:43.480 --> 00:28:46.480]   (audience laughing)
+[00:28:46.480 --> 00:28:49.480]   (audience laughing)
+[00:28:49.480 --> 00:28:52.480]   (audience laughing)
+[00:28:52.480 --> 00:28:55.480]   (audience laughing)
+[00:28:55.480 --> 00:28:58.480]   (audience laughing)
+[00:28:58.480 --> 00:29:01.480]   (audience laughing)
+[00:29:01.480 --> 00:29:04.480]   (audience laughing)
+[00:29:04.480 --> 00:29:07.480]   (audience laughing)
+[00:29:07.480 --> 00:29:10.480]   (audience laughing)
+[00:29:10.480 --> 00:29:13.480]   (audience laughing)
+[00:29:13.480 --> 00:29:16.480]   (audience laughing)
+[00:29:16.480 --> 00:29:19.480]   (audience laughing)
+[00:29:19.480 --> 00:29:22.480]   (audience laughing)
+[00:29:22.480 --> 00:29:25.480]   (audience laughing)
+[00:29:25.480 --> 00:29:28.480]   (audience laughing)
+[00:29:28.480 --> 00:29:31.480]   (audience laughing)
+[00:29:31.480 --> 00:29:34.480]   (audience laughing)
+[00:29:34.480 --> 00:29:37.480]   (audience laughing)
+[00:29:37.480 --> 00:29:40.480]   (audience laughing)
+[00:29:40.480 --> 00:29:43.480]   (audience laughing)
+[00:29:43.480 --> 00:29:46.480]   (audience laughing)
+[00:29:46.480 --> 00:29:49.480]   (audience laughing)
+[00:29:49.480 --> 00:29:52.480]   (audience laughing)
+[00:29:52.480 --> 00:29:55.480]   (audience laughing)
+[00:29:55.480 --> 00:29:58.480]   (audience laughing)
+[00:29:58.480 --> 00:30:01.480]   (audience laughing)
+[00:30:01.480 --> 00:30:04.480]   (audience laughing)
+[00:30:04.480 --> 00:30:07.480]   (audience laughing)
+[00:30:07.480 --> 00:30:10.480]   (audience laughing)
+[00:30:10.480 --> 00:30:13.480]   (audience laughing)
+[00:30:13.480 --> 00:30:16.480]   (audience laughing)
+[00:30:16.480 --> 00:30:19.480]   (audience laughing)
+[00:30:19.480 --> 00:30:22.480]   (audience laughing)
+[00:30:22.480 --> 00:30:25.480]   (audience laughing)
+[00:30:25.480 --> 00:30:28.480]   (audience laughing)
+[00:30:28.480 --> 00:30:31.480]   (audience laughing)
+[00:30:31.480 --> 00:30:34.480]   (audience laughing)
+[00:30:34.480 --> 00:30:37.480]   (audience laughing)
+[00:30:37.480 --> 00:30:40.480]   (audience laughing)
+[00:30:40.480 --> 00:30:43.480]   (audience laughing)
+[00:30:43.480 --> 00:30:46.480]   (audience laughing)
+[00:30:46.480 --> 00:30:49.480]   (audience laughing)
+[00:30:49.480 --> 00:30:52.480]   (audience laughing)
+[00:30:52.480 --> 00:30:55.480]   (audience laughing)
+[00:30:55.480 --> 00:30:58.480]   (audience laughing)
+[00:30:58.480 --> 00:31:01.480]   (audience laughing)
+[00:31:01.480 --> 00:31:04.480]   (audience laughing)
+[00:31:04.480 --> 00:31:07.480]   (audience laughing)
+[00:31:07.480 --> 00:31:10.480]   (audience laughing)
+[00:31:10.480 --> 00:31:13.480]   (audience laughing)
+[00:31:13.480 --> 00:31:16.480]   (audience laughing)
+[00:31:16.480 --> 00:31:19.480]   (audience laughing)
+[00:31:19.480 --> 00:31:22.480]   (audience laughing)
+[00:31:22.480 --> 00:31:25.480]   (audience laughing)
+[00:31:25.480 --> 00:31:28.480]   (audience laughing)
+[00:31:28.480 --> 00:31:31.480]   (audience laughing)
+[00:31:31.480 --> 00:31:34.480]   (audience laughing)
+[00:31:34.480 --> 00:31:37.480]   (audience laughing)
+[00:31:37.480 --> 00:31:40.480]   (audience laughing)
+[00:31:40.480 --> 00:31:43.480]   (audience laughing)
+[00:31:43.480 --> 00:31:46.480]   (audience laughing)
+[00:31:46.480 --> 00:31:49.480]   (audience laughing)
+[00:31:49.480 --> 00:31:52.480]   (audience laughing)
+[00:31:52.480 --> 00:31:55.480]   (audience laughing)
+[00:31:55.480 --> 00:31:58.480]   (audience laughing)
+[00:31:58.480 --> 00:32:01.480]   (audience laughing)
+[00:32:01.480 --> 00:32:04.480]   (audience laughing)
+[00:32:04.480 --> 00:32:07.480]   (audience laughing)
+[00:32:07.480 --> 00:32:10.480]   (audience laughing)
+[00:32:10.480 --> 00:32:13.480]   (audience laughing)
+[00:32:13.480 --> 00:32:16.480]   (audience laughing)
+[00:32:16.480 --> 00:32:19.480]   (audience laughing)
+[00:32:19.480 --> 00:32:22.480]   (audience laughing)
+[00:32:22.480 --> 00:32:25.480]   (audience laughing)
+[00:32:25.480 --> 00:32:28.480]   (audience laughing)
+[00:32:28.480 --> 00:32:31.480]   (audience laughing)
+[00:32:31.480 --> 00:32:34.480]   (audience laughing)
+[00:32:34.480 --> 00:32:37.480]   (audience laughing)
+[00:32:37.480 --> 00:32:40.480]   (audience laughing)
+[00:32:40.480 --> 00:32:43.480]   (audience laughing)
+[00:32:43.480 --> 00:32:46.480]   (audience laughing)
+[00:32:46.480 --> 00:32:49.480]   (audience laughing)
+[00:32:49.480 --> 00:32:52.480]   (audience laughing)
+[00:32:52.480 --> 00:32:55.480]   (audience laughing)
+[00:32:55.480 --> 00:32:58.480]   (audience laughing)
+[00:32:58.480 --> 00:33:01.480]   (audience laughing)
+[00:33:01.480 --> 00:33:04.480]   (audience laughing)
+[00:33:04.480 --> 00:33:07.480]   (audience laughing)
+[00:33:07.480 --> 00:33:10.480]   (audience laughing)
+[00:33:10.480 --> 00:33:13.480]   (audience laughing)
+[00:33:13.480 --> 00:33:16.480]   (audience laughing)
+[00:33:16.480 --> 00:33:19.480]   (audience laughing)
+[00:33:19.480 --> 00:33:23.480]   (audience laughing)
+[00:33:23.480 --> 00:33:27.480]   (audience laughing)
+[00:33:27.480 --> 00:33:31.480]   (audience laughing)
+[00:33:31.480 --> 00:33:35.480]   (audience laughing)
+[00:33:35.480 --> 00:33:39.480]   (audience laughing)
+[00:33:39.480 --> 00:33:43.480]   (audience laughing)
+[00:33:44.480 --> 00:33:47.480]   (audience laughing)
+[00:33:47.480 --> 00:33:50.480]   (audience laughing)
+[00:33:50.480 --> 00:33:53.480]   (audience laughing)
+[00:33:53.480 --> 00:33:56.480]   (audience laughing)
+[00:33:56.480 --> 00:33:59.480]   (audience laughing)
+[00:33:59.480 --> 00:34:02.480]   (audience laughing)
+[00:34:02.480 --> 00:34:05.480]   (audience laughing)
+[00:34:05.480 --> 00:34:08.480]   (audience laughing)
+[00:34:08.480 --> 00:34:11.480]   (audience laughing)
+[00:34:11.480 --> 00:34:14.480]   (audience laughing)
+[00:34:14.480 --> 00:34:17.480]   (audience laughing)
+[00:34:17.480 --> 00:34:20.480]   (audience laughing)
+[00:34:20.480 --> 00:34:23.480]   (audience laughing)
+[00:34:23.480 --> 00:34:26.480]   (audience laughing)
+[00:34:26.480 --> 00:34:29.480]   (audience laughing)
+[00:34:29.480 --> 00:34:33.480]   (audience laughing)
+[00:34:33.480 --> 00:34:37.480]   (audience laughing)
+[00:34:37.480 --> 00:34:41.480]   (audience laughing)
+[00:34:41.480 --> 00:34:45.480]   (audience laughing)
+[00:34:45.480 --> 00:34:49.480]   (audience laughing)
+[00:34:49.480 --> 00:34:53.480]   (audience laughing)
+[00:34:54.480 --> 00:34:57.480]   (audience laughing)
+[00:34:57.480 --> 00:35:00.480]   (audience laughing)
+[00:35:00.480 --> 00:35:03.480]   (audience laughing)
+[00:35:03.480 --> 00:35:06.480]   (audience laughing)
+[00:35:06.480 --> 00:35:09.480]   (audience laughing)
+[00:35:09.480 --> 00:35:12.480]   (audience laughing)
+[00:35:12.480 --> 00:35:15.480]   (audience laughing)
+[00:35:15.480 --> 00:35:19.480]   (audience laughing)
+[00:35:19.480 --> 00:35:23.480]   (audience laughing)
+[00:35:23.480 --> 00:35:27.480]   (audience laughing)
+[00:35:27.480 --> 00:35:31.480]   (audience laughing)
+[00:35:31.480 --> 00:35:35.480]   (audience laughing)
+[00:35:35.480 --> 00:35:39.480]   (audience laughing)
+[00:35:40.480 --> 00:35:43.480]   (audience laughing)
+[00:35:43.480 --> 00:35:47.480]   (audience laughing)
+[00:35:47.480 --> 00:35:51.480]   (audience laughing)
+[00:35:51.480 --> 00:35:55.480]   (audience laughing)
+[00:35:55.480 --> 00:35:59.480]   (audience laughing)
+[00:35:59.480 --> 00:36:03.480]   (audience laughing)
+[00:36:03.480 --> 00:36:07.480]   (audience laughing)
+[00:36:08.480 --> 00:36:11.480]   (audience laughing)
+[00:36:11.480 --> 00:36:14.480]   (audience laughing)
+[00:36:14.480 --> 00:36:17.480]   (audience laughing)
+[00:36:17.480 --> 00:36:21.480]   (audience laughing)
+[00:36:21.480 --> 00:36:25.480]   (audience laughing)
+[00:36:25.480 --> 00:36:29.480]   (audience laughing)
+[00:36:29.480 --> 00:36:33.480]   (audience laughing)
+[00:36:33.480 --> 00:36:37.480]   (audience laughing)
+[00:36:37.480 --> 00:36:41.480]   (audience laughing)
+[00:36:42.480 --> 00:36:45.480]   (audience laughing)
+[00:36:45.480 --> 00:36:49.480]   (audience laughing)
+[00:36:49.480 --> 00:36:53.480]   (audience laughing)
+[00:36:53.480 --> 00:36:57.480]   (audience laughing)
+[00:36:57.480 --> 00:37:01.480]   (audience laughing)
+[00:37:01.480 --> 00:37:05.480]   (audience laughing)
+[00:37:05.480 --> 00:37:09.480]   (audience laughing)
+[00:37:10.480 --> 00:37:13.480]   (audience laughing)
+[00:37:13.480 --> 00:37:16.480]   (audience laughing)
+[00:37:16.480 --> 00:37:20.480]   (audience laughing)
+[00:37:20.480 --> 00:37:24.480]   (audience laughing)
+[00:37:24.480 --> 00:37:28.480]   (audience laughing)
+[00:37:28.480 --> 00:37:32.480]   (audience laughing)
+[00:37:32.480 --> 00:37:36.480]   (audience laughing)
+[00:37:36.480 --> 00:37:40.480]   (audience laughing)
+[00:37:41.480 --> 00:37:44.480]   (audience laughing)
+[00:37:44.480 --> 00:37:48.480]   (audience laughing)
+[00:37:48.480 --> 00:37:52.480]   (audience laughing)
+[00:37:52.480 --> 00:37:56.480]   (audience laughing)
+[00:37:56.480 --> 00:38:00.480]   (audience laughing)
+[00:38:00.480 --> 00:38:04.480]   (audience laughing)
+[00:38:04.480 --> 00:38:08.480]   (audience laughing)
+[00:38:09.480 --> 00:38:12.480]   (audience laughing)
+[00:38:12.480 --> 00:38:16.480]   (audience laughing)
+[00:38:16.480 --> 00:38:20.480]   (audience laughing)
+[00:38:20.480 --> 00:38:24.480]   (audience laughing)
+[00:38:24.480 --> 00:38:28.480]   (audience laughing)
+[00:38:28.480 --> 00:38:32.480]   (audience laughing)
+[00:38:32.480 --> 00:38:36.480]   (audience laughing)
+[00:38:37.480 --> 00:38:40.480]   (audience laughing)
+[00:38:40.480 --> 00:38:43.480]   (audience laughing)
+[00:38:43.480 --> 00:38:47.480]   (audience laughing)
+[00:38:47.480 --> 00:38:51.480]   (audience laughing)
+[00:38:51.480 --> 00:38:55.480]   (audience laughing)
+[00:38:55.480 --> 00:38:59.480]   (audience laughing)
+[00:38:59.480 --> 00:39:03.480]   (audience laughing)
+[00:39:03.480 --> 00:39:07.480]   (audience laughing)
+[00:39:08.480 --> 00:39:11.480]   (audience laughing)
+[00:39:11.480 --> 00:39:15.480]   (audience laughing)
+[00:39:15.480 --> 00:39:19.480]   (audience laughing)
+[00:39:19.480 --> 00:39:23.480]   (audience laughing)
+[00:39:23.480 --> 00:39:27.480]   (audience laughing)
+[00:39:27.480 --> 00:39:31.480]   (audience laughing)
+[00:39:31.480 --> 00:39:35.480]   (audience laughing)
+[00:39:36.480 --> 00:39:39.480]   (audience laughing)
+[00:39:39.480 --> 00:39:43.480]   (audience laughing)
+[00:39:43.480 --> 00:39:47.480]   (audience laughing)
+[00:39:47.480 --> 00:39:51.480]   (audience laughing)
+[00:39:51.480 --> 00:39:55.480]   (audience laughing)
+[00:39:55.480 --> 00:39:59.480]   (audience laughing)
+[00:39:59.480 --> 00:40:03.480]   (audience laughing)
+[00:40:04.480 --> 00:40:07.480]   (audience laughing)
+[00:40:07.480 --> 00:40:11.480]   (audience laughing)
+[00:40:11.480 --> 00:40:15.480]   (audience laughing)
+[00:40:15.480 --> 00:40:19.480]   (audience laughing)
+[00:40:19.480 --> 00:40:23.480]   (audience laughing)
+[00:40:23.480 --> 00:40:27.480]   (audience laughing)
+[00:40:27.480 --> 00:40:31.480]   (audience laughing)
+[00:40:32.480 --> 00:40:35.480]   (audience laughing)
+[00:40:35.480 --> 00:40:39.480]   (audience laughing)
+[00:40:39.480 --> 00:40:43.480]   (audience laughing)
+[00:40:43.480 --> 00:40:47.480]   (audience laughing)
+[00:40:47.480 --> 00:40:51.480]   (audience laughing)
+[00:40:51.480 --> 00:40:55.480]   (audience laughing)
+[00:40:55.480 --> 00:40:59.480]   (audience laughing)
+[00:41:00.480 --> 00:41:03.480]   (audience laughing)
+[00:41:03.480 --> 00:41:07.480]   (audience laughing)
+[00:41:07.480 --> 00:41:11.480]   (audience laughing)
+[00:41:11.480 --> 00:41:15.480]   (audience laughing)
+[00:41:15.480 --> 00:41:19.480]   (audience laughing)
+[00:41:19.480 --> 00:41:23.480]   (audience laughing)
+[00:41:23.480 --> 00:41:27.480]   (audience laughing)
+[00:41:28.480 --> 00:41:31.480]   (audience laughing)
+[00:41:31.480 --> 00:41:35.480]   (audience laughing)
+[00:41:35.480 --> 00:41:39.480]   (audience laughing)
+[00:41:39.480 --> 00:41:43.480]   (audience laughing)
+[00:41:43.480 --> 00:41:47.480]   (audience laughing)
+[00:41:47.480 --> 00:41:51.480]   (audience laughing)
+[00:41:51.480 --> 00:41:55.480]   (audience laughing)
+[00:41:56.480 --> 00:41:59.480]   (audience laughing)
+[00:41:59.480 --> 00:42:03.480]   (audience laughing)
+[00:42:03.480 --> 00:42:07.480]   (audience laughing)
+[00:42:07.480 --> 00:42:11.480]   (audience laughing)
+[00:42:11.480 --> 00:42:15.480]   (audience laughing)
+[00:42:15.480 --> 00:42:19.480]   (audience laughing)
+[00:42:19.480 --> 00:42:23.480]   (audience laughing)
+[00:42:24.480 --> 00:42:27.480]   (audience laughing)
+[00:42:27.480 --> 00:42:31.480]   (audience laughing)
+[00:42:31.480 --> 00:42:35.480]   (audience laughing)
+[00:42:35.480 --> 00:42:39.480]   (audience laughing)
+[00:42:39.480 --> 00:42:43.480]   (audience laughing)
+[00:42:43.480 --> 00:42:47.480]   (audience laughing)
+[00:42:47.480 --> 00:42:51.480]   (audience laughing)
+[00:42:52.480 --> 00:42:55.480]   (audience laughing)
+[00:42:55.480 --> 00:42:59.480]   (audience laughing)
+[00:42:59.480 --> 00:43:03.480]   (audience laughing)
+[00:43:03.480 --> 00:43:07.480]   (audience laughing)
+[00:43:07.480 --> 00:43:11.480]   (audience laughing)
+[00:43:11.480 --> 00:43:15.480]   (audience laughing)
+[00:43:15.480 --> 00:43:19.480]   (audience laughing)
+[00:43:20.480 --> 00:43:23.480]   (audience laughing)
+[00:43:23.480 --> 00:43:27.480]   (audience laughing)
+[00:43:27.480 --> 00:43:31.480]   (audience laughing)
+[00:43:31.480 --> 00:43:35.480]   (audience laughing)
+[00:43:35.480 --> 00:43:39.480]   (audience laughing)
+[00:43:39.480 --> 00:43:43.480]   (audience laughing)
+[00:43:43.480 --> 00:43:47.480]   (audience laughing)
+[00:43:48.480 --> 00:43:51.480]   (audience laughing)
+[00:43:51.480 --> 00:43:55.480]   (audience laughing)
+[00:43:55.480 --> 00:43:59.480]   (audience laughing)
+[00:43:59.480 --> 00:44:03.480]   (audience laughing)
+[00:44:03.480 --> 00:44:07.480]   (audience laughing)
+[00:44:07.480 --> 00:44:11.480]   (audience laughing)
+[00:44:11.480 --> 00:44:15.480]   (audience laughing)
+[00:44:16.480 --> 00:44:19.480]   (audience laughing)
+[00:44:19.480 --> 00:44:23.480]   (audience laughing)
+[00:44:23.480 --> 00:44:27.480]   (audience laughing)
+[00:44:27.480 --> 00:44:31.480]   (audience laughing)
+[00:44:31.480 --> 00:44:35.480]   (audience laughing)
+[00:44:35.480 --> 00:44:39.480]   (audience laughing)
+[00:44:39.480 --> 00:44:43.480]   (audience laughing)
+[00:44:44.480 --> 00:44:47.480]   (audience laughing)
+[00:44:47.480 --> 00:44:51.480]   (audience laughing)
+[00:44:51.480 --> 00:44:55.480]   (audience laughing)
+[00:44:55.480 --> 00:44:59.480]   (audience laughing)
+[00:44:59.480 --> 00:45:03.480]   (audience laughing)
+[00:45:03.480 --> 00:45:07.480]   (audience laughing)
+[00:45:07.480 --> 00:45:11.480]   (audience laughing)
+[00:45:12.480 --> 00:45:15.480]   (audience laughing)
+[00:45:15.480 --> 00:45:19.480]   (audience laughing)
+[00:45:19.480 --> 00:45:23.480]   (audience laughing)
+[00:45:23.480 --> 00:45:27.480]   (audience laughing)
+[00:45:27.480 --> 00:45:31.480]   (audience laughing)
+[00:45:31.480 --> 00:45:35.480]   (audience laughing)
+[00:45:35.480 --> 00:45:39.480]   (audience laughing)
+[00:45:40.480 --> 00:45:43.480]   (audience laughing)
+[00:45:43.480 --> 00:45:47.480]   (audience laughing)
+[00:45:47.480 --> 00:45:51.480]   (audience laughing)
+[00:45:51.480 --> 00:45:55.480]   (audience laughing)
+[00:45:55.480 --> 00:45:59.480]   (audience laughing)
+[00:45:59.480 --> 00:46:03.480]   (audience laughing)
+[00:46:03.480 --> 00:46:07.480]   (audience laughing)
+[00:46:08.480 --> 00:46:11.480]   (audience laughing)
+[00:46:11.480 --> 00:46:15.480]   (audience laughing)
+[00:46:15.480 --> 00:46:19.480]   (audience laughing)
+[00:46:19.480 --> 00:46:23.480]   (audience laughing)
+[00:46:23.480 --> 00:46:27.480]   (audience laughing)
+[00:46:27.480 --> 00:46:31.480]   (audience laughing)
+[00:46:31.480 --> 00:46:35.480]   (audience laughing)
+[00:46:36.480 --> 00:46:39.480]   (audience laughing)
+[00:46:39.480 --> 00:46:42.480]   (audience laughing)
+[00:46:42.480 --> 00:46:46.480]   (audience laughing)
+[00:46:46.480 --> 00:46:50.480]   (audience laughing)
+[00:46:50.480 --> 00:46:54.480]   (audience laughing)
+[00:46:54.480 --> 00:46:58.480]   (audience laughing)
+[00:46:58.480 --> 00:47:02.480]   (audience laughing)
+[00:47:02.480 --> 00:47:06.480]   (audience laughing)
+[00:47:07.480 --> 00:47:10.480]   (audience laughing)
+[00:47:10.480 --> 00:47:14.480]   (audience laughing)
+[00:47:14.480 --> 00:47:18.480]   (audience laughing)
+[00:47:18.480 --> 00:47:22.480]   (audience laughing)
+[00:47:22.480 --> 00:47:26.480]   (audience laughing)
+[00:47:26.480 --> 00:47:30.480]   (audience laughing)
+[00:47:30.480 --> 00:47:34.480]   (audience laughing)
+[00:47:35.480 --> 00:47:38.480]   (audience laughing)
+[00:47:38.480 --> 00:47:42.480]   (audience laughing)
+[00:47:42.480 --> 00:47:46.480]   (audience laughing)
+[00:47:46.480 --> 00:47:50.480]   (audience laughing)
+[00:47:50.480 --> 00:47:54.480]   (audience laughing)
+[00:47:54.480 --> 00:47:58.480]   (audience laughing)
+[00:47:58.480 --> 00:48:02.480]   (audience laughing)
+[00:48:03.480 --> 00:48:06.480]   (audience laughing)
+[00:48:06.480 --> 00:48:10.480]   (audience laughing)
+[00:48:10.480 --> 00:48:14.480]   (audience laughing)
+[00:48:14.480 --> 00:48:18.480]   (audience laughing)
+[00:48:18.480 --> 00:48:22.480]   (audience laughing)
+[00:48:22.480 --> 00:48:26.480]   (audience laughing)
+[00:48:26.480 --> 00:48:30.480]   (audience laughing)
+[00:48:31.480 --> 00:48:34.480]   (audience laughing)
+[00:48:34.480 --> 00:48:37.480]   (audience laughing)
+[00:48:37.480 --> 00:48:41.480]   (audience laughing)
+[00:48:41.480 --> 00:48:45.480]   (audience laughing)
+[00:48:45.480 --> 00:48:49.480]   (audience laughing)
+[00:48:49.480 --> 00:48:53.480]   (audience laughing)
+[00:48:53.480 --> 00:48:57.480]   (audience laughing)
+[00:48:57.480 --> 00:49:01.480]   (audience laughing)
+[00:49:02.480 --> 00:49:05.480]   (audience laughing)
+[00:49:05.480 --> 00:49:09.480]   (audience laughing)
+[00:49:09.480 --> 00:49:13.480]   (audience laughing)
+[00:49:13.480 --> 00:49:17.480]   (audience laughing)
+[00:49:17.480 --> 00:49:21.480]   (audience laughing)
+[00:49:21.480 --> 00:49:25.480]   (audience laughing)
+[00:49:25.480 --> 00:49:29.480]   (audience laughing)
+[00:49:30.480 --> 00:49:33.480]   (audience laughing)
+[00:49:33.480 --> 00:49:37.480]   (audience laughing)
+[00:49:37.480 --> 00:49:41.480]   (audience laughing)
+[00:49:41.480 --> 00:49:45.480]   (audience laughing)
+[00:49:45.480 --> 00:49:49.480]   (audience laughing)
+[00:49:49.480 --> 00:49:53.480]   (audience laughing)
+[00:49:53.480 --> 00:49:57.480]   (audience laughing)
+[00:49:58.480 --> 00:50:01.480]   (audience laughing)
+[00:50:01.480 --> 00:50:05.480]   (audience laughing)
+[00:50:05.480 --> 00:50:09.480]   (audience laughing)
+[00:50:09.480 --> 00:50:13.480]   (audience laughing)
+[00:50:13.480 --> 00:50:17.480]   (audience laughing)
+[00:50:17.480 --> 00:50:21.480]   (audience laughing)
+[00:50:21.480 --> 00:50:25.480]   (audience laughing)
+[00:50:26.480 --> 00:50:29.480]   (audience laughing)
+[00:50:29.480 --> 00:50:32.480]   (audience laughing)
+[00:50:32.480 --> 00:50:36.480]   (audience laughing)
+[00:50:36.480 --> 00:50:40.480]   (audience laughing)
+[00:50:40.480 --> 00:50:44.480]   (audience laughing)
+[00:50:44.480 --> 00:50:48.480]   (audience laughing)
+[00:50:48.480 --> 00:50:52.480]   (audience laughing)
+[00:50:52.480 --> 00:50:56.480]   (audience laughing)
+[00:50:57.480 --> 00:51:00.480]   (audience laughing)
+[00:51:00.480 --> 00:51:03.480]   (audience laughing)
+[00:51:03.480 --> 00:51:06.480]   (audience laughing)
+[00:51:06.480 --> 00:51:10.480]   (audience laughing)
+[00:51:10.480 --> 00:51:14.480]   (audience laughing)
+[00:51:14.480 --> 00:51:18.480]   (audience laughing)
+[00:51:18.480 --> 00:51:22.480]   (audience laughing)
+[00:51:22.480 --> 00:51:26.480]   (audience laughing)
+[00:51:26.480 --> 00:51:30.480]   (audience laughing)
+[00:51:31.480 --> 00:51:34.480]   (audience laughing)
+[00:51:34.480 --> 00:51:38.480]   (audience laughing)
+[00:51:38.480 --> 00:51:42.480]   (audience laughing)
+[00:51:42.480 --> 00:51:46.480]   (audience laughing)
+[00:51:46.480 --> 00:51:50.480]   (audience laughing)
+[00:51:50.480 --> 00:51:54.480]   (audience laughing)
+[00:51:54.480 --> 00:51:58.480]   (audience laughing)
+[00:51:59.480 --> 00:52:02.480]   (audience laughing)
+[00:52:02.480 --> 00:52:05.480]   (audience laughing)
+[00:52:05.480 --> 00:52:09.480]   (audience laughing)
+[00:52:09.480 --> 00:52:13.480]   (audience laughing)
+[00:52:13.480 --> 00:52:17.480]   (audience laughing)
+[00:52:17.480 --> 00:52:21.480]   (audience laughing)
+[00:52:21.480 --> 00:52:25.480]   (audience laughing)
+[00:52:25.480 --> 00:52:29.480]   (audience laughing)
+[00:52:30.480 --> 00:52:33.480]   (audience laughing)
+[00:52:33.480 --> 00:52:36.480]   (audience laughing)
+[00:52:36.480 --> 00:52:40.480]   (audience laughing)
+[00:52:40.480 --> 00:52:44.480]   (audience laughing)
+[00:52:44.480 --> 00:52:48.480]   (audience laughing)
+[00:52:48.480 --> 00:52:52.480]   (audience laughing)
+[00:52:52.480 --> 00:52:56.480]   (audience laughing)
+[00:52:56.480 --> 00:53:00.480]   (audience laughing)
+[00:53:01.480 --> 00:53:04.480]   (audience laughing)
+[00:53:04.480 --> 00:53:07.480]   (audience laughing)
+[00:53:07.480 --> 00:53:11.480]   (audience laughing)
+[00:53:11.480 --> 00:53:15.480]   (audience laughing)
+[00:53:15.480 --> 00:53:19.480]   (audience laughing)
+[00:53:19.480 --> 00:53:23.480]   (audience laughing)
+[00:53:23.480 --> 00:53:27.480]   (audience laughing)
+[00:53:27.480 --> 00:53:31.480]   (audience laughing)
+[00:53:32.480 --> 00:53:35.480]   (audience laughing)
+[00:53:35.480 --> 00:53:38.480]   (audience laughing)
+[00:53:38.480 --> 00:53:42.480]   (audience laughing)
+[00:53:42.480 --> 00:53:46.480]   (audience laughing)
+[00:53:46.480 --> 00:53:50.480]   (audience laughing)
+[00:53:50.480 --> 00:53:54.480]   (audience laughing)
+[00:53:54.480 --> 00:53:58.480]   (audience laughing)
+[00:53:58.480 --> 00:54:02.480]   (audience laughing)
+[00:54:03.480 --> 00:54:06.480]   (audience laughing)
+[00:54:06.480 --> 00:54:09.480]   (audience laughing)
+[00:54:09.480 --> 00:54:13.480]   (audience laughing)
+[00:54:13.480 --> 00:54:17.480]   (audience laughing)
+[00:54:17.480 --> 00:54:21.480]   (audience laughing)
+[00:54:21.480 --> 00:54:25.480]   (audience laughing)
+[00:54:25.480 --> 00:54:29.480]   (audience laughing)
+[00:54:29.480 --> 00:54:33.480]   (audience laughing)
+[00:54:34.480 --> 00:54:37.480]   (audience laughing)
+[00:54:37.480 --> 00:54:40.480]   (audience laughing)
+[00:54:40.480 --> 00:54:44.480]   (audience laughing)
+[00:54:44.480 --> 00:54:48.480]   (audience laughing)
+[00:54:48.480 --> 00:54:52.480]   (audience laughing)
+[00:54:52.480 --> 00:54:56.480]   (audience laughing)
+[00:54:56.480 --> 00:55:00.480]   (audience laughing)
+[00:55:00.480 --> 00:55:04.480]   (audience laughing)
+[00:55:05.480 --> 00:55:08.480]   (audience laughing)
+[00:55:08.480 --> 00:55:11.480]   (audience laughing)
+[00:55:11.480 --> 00:55:15.480]   (audience laughing)
+[00:55:15.480 --> 00:55:19.480]   (audience laughing)
+[00:55:19.480 --> 00:55:23.480]   (audience laughing)
+[00:55:23.480 --> 00:55:27.480]   (audience laughing)
+[00:55:27.480 --> 00:55:31.480]   (audience laughing)
+[00:55:31.480 --> 00:55:35.480]   (audience laughing)
+[00:55:36.480 --> 00:55:39.480]   (audience laughing)
+[00:55:39.480 --> 00:55:43.480]   (audience laughing)
+[00:55:43.480 --> 00:55:47.480]   (audience laughing)
+[00:55:47.480 --> 00:55:51.480]   (audience laughing)
+[00:55:51.480 --> 00:55:55.480]   (audience laughing)
+[00:55:55.480 --> 00:55:59.480]   (audience laughing)
+[00:55:59.480 --> 00:56:03.480]   (audience laughing)
+[00:56:04.480 --> 00:56:07.480]   (audience laughing)
+[00:56:07.480 --> 00:56:10.480]   (audience laughing)
+[00:56:10.480 --> 00:56:14.480]   (audience laughing)
+[00:56:14.480 --> 00:56:18.480]   (audience laughing)
+[00:56:18.480 --> 00:56:22.480]   (audience laughing)
+[00:56:22.480 --> 00:56:26.480]   (audience laughing)
+[00:56:26.480 --> 00:56:30.480]   (audience laughing)
+[00:56:30.480 --> 00:56:34.480]   (audience laughing)
+[00:56:35.480 --> 00:56:38.480]   (audience laughing)
+[00:56:38.480 --> 00:56:41.480]   (audience laughing)
+[00:56:41.480 --> 00:56:45.480]   (audience laughing)
+[00:56:45.480 --> 00:56:49.480]   (audience laughing)
+[00:56:49.480 --> 00:56:53.480]   (audience laughing)
+[00:56:53.480 --> 00:56:57.480]   (audience laughing)
+[00:56:57.480 --> 00:57:01.480]   (audience laughing)
+[00:57:01.480 --> 00:57:05.480]   (audience laughing)
+[00:57:06.480 --> 00:57:09.480]   (audience laughing)
+[00:57:09.480 --> 00:57:12.480]   (audience laughing)
+[00:57:12.480 --> 00:57:15.480]   (audience laughing)
+[00:57:15.480 --> 00:57:19.480]   (audience laughing)
+[00:57:19.480 --> 00:57:23.480]   (audience laughing)
+[00:57:23.480 --> 00:57:27.480]   (audience laughing)
+[00:57:27.480 --> 00:57:31.480]   (audience laughing)
+[00:57:31.480 --> 00:57:35.480]   (audience laughing)
+[00:57:35.480 --> 00:57:39.480]   (audience laughing)
+[00:57:40.480 --> 00:57:43.480]   (audience laughing)
+[00:57:43.480 --> 00:57:46.480]   (audience laughing)
+[00:57:46.480 --> 00:57:49.480]   (audience laughing)
+[00:57:49.480 --> 00:57:53.480]   (audience laughing)
+[00:57:53.480 --> 00:57:57.480]   (audience laughing)
+[00:57:57.480 --> 00:58:01.480]   (audience laughing)
+[00:58:01.480 --> 00:58:05.480]   (audience laughing)
+[00:58:05.480 --> 00:58:09.480]   (audience laughing)
+[00:58:09.480 --> 00:58:13.480]   (audience laughing)
+[00:58:14.480 --> 00:58:17.480]   (audience laughing)
+[00:58:17.480 --> 00:58:21.480]   (audience laughing)
+[00:58:21.480 --> 00:58:25.480]   (audience laughing)
+[00:58:25.480 --> 00:58:29.480]   (audience laughing)
+[00:58:29.480 --> 00:58:33.480]   (audience laughing)
+[00:58:33.480 --> 00:58:37.480]   (audience laughing)
+[00:58:37.480 --> 00:58:41.480]   (audience laughing)
+[00:58:42.480 --> 00:58:45.480]   (audience laughing)
+[00:58:45.480 --> 00:58:48.480]   (audience laughing)
+[00:58:48.480 --> 00:58:52.480]   (audience laughing)
+[00:58:52.480 --> 00:58:56.480]   (audience laughing)
+[00:58:56.480 --> 00:59:00.480]   (audience laughing)
+[00:59:00.480 --> 00:59:04.480]   (audience laughing)
+[00:59:04.480 --> 00:59:08.480]   (audience laughing)
+[00:59:08.480 --> 00:59:12.480]   (audience laughing)
+[00:59:13.480 --> 00:59:16.480]   (audience laughing)
+[00:59:16.480 --> 00:59:19.480]   (audience laughing)
+[00:59:19.480 --> 00:59:23.480]   (audience laughing)
+[00:59:23.480 --> 00:59:27.480]   (audience laughing)
+[00:59:27.480 --> 00:59:31.480]   (audience laughing)
+[00:59:31.480 --> 00:59:35.480]   (audience laughing)
+[00:59:35.480 --> 00:59:39.480]   (audience laughing)
+[00:59:39.480 --> 00:59:43.480]   (audience laughing)
+[00:59:44.480 --> 00:59:47.480]   (audience laughing)
+[00:59:47.480 --> 00:59:50.480]   (audience laughing)
+[00:59:50.480 --> 00:59:54.480]   (audience laughing)
+[00:59:54.480 --> 00:59:58.480]   (audience laughing)
+[00:59:58.480 --> 01:00:02.480]   (audience laughing)
+[01:00:02.480 --> 01:00:06.480]   (audience laughing)
+[01:00:06.480 --> 01:00:10.480]   (audience laughing)
+[01:00:10.480 --> 01:00:14.480]   (audience laughing)
+[01:00:15.480 --> 01:00:18.480]   (audience laughing)
+[01:00:18.480 --> 01:00:21.480]   (audience laughing)
+[01:00:21.480 --> 01:00:25.480]   (audience laughing)
+[01:00:25.480 --> 01:00:29.480]   (audience laughing)
+[01:00:29.480 --> 01:00:33.480]   (audience laughing)
+[01:00:33.480 --> 01:00:37.480]   (audience laughing)
+[01:00:37.480 --> 01:00:41.480]   (audience laughing)
+[01:00:41.480 --> 01:00:45.480]   (audience laughing)
+[01:00:46.480 --> 01:00:49.480]   (audience laughing)
+[01:00:49.480 --> 01:00:53.480]   (audience laughing)
+[01:00:53.480 --> 01:00:57.480]   (audience laughing)
+[01:00:57.480 --> 01:01:01.480]   (audience laughing)
+[01:01:01.480 --> 01:01:05.480]   (audience laughing)
+[01:01:05.480 --> 01:01:09.480]   (audience laughing)
+[01:01:09.480 --> 01:01:13.480]   (audience laughing)
+[01:01:14.480 --> 01:01:17.480]   (audience laughing)
+[01:01:17.480 --> 01:01:20.480]   (audience laughing)
+[01:01:20.480 --> 01:01:23.480]   (audience laughing)
+[01:01:23.480 --> 01:01:27.480]   (audience laughing)
+[01:01:27.480 --> 01:01:31.480]   (audience laughing)
+[01:01:31.480 --> 01:01:35.480]   (audience laughing)
+[01:01:35.480 --> 01:01:39.480]   (audience laughing)
+[01:01:39.480 --> 01:01:43.480]   (audience laughing)
+[01:01:43.480 --> 01:01:47.480]   (audience laughing)
+[01:01:48.480 --> 01:01:51.480]   (audience laughing)
+[01:01:51.480 --> 01:01:54.480]   (audience laughing)
+[01:01:54.480 --> 01:01:58.480]   (audience laughing)
+[01:01:58.480 --> 01:02:02.480]   (audience laughing)
+[01:02:02.480 --> 01:02:06.480]   (audience laughing)
+[01:02:06.480 --> 01:02:10.480]   (audience laughing)
+[01:02:10.480 --> 01:02:14.480]   (audience laughing)
+[01:02:14.480 --> 01:02:18.480]   (audience laughing)
+[01:02:19.480 --> 01:02:22.480]   (audience laughing)
+[01:02:22.480 --> 01:02:25.480]   (audience laughing)
+[01:02:25.480 --> 01:02:29.480]   (audience laughing)
+[01:02:29.480 --> 01:02:33.480]   (audience laughing)
+[01:02:33.480 --> 01:02:37.480]   (audience laughing)
+[01:02:37.480 --> 01:02:41.480]   (audience laughing)
+[01:02:41.480 --> 01:02:45.480]   (audience laughing)
+[01:02:45.480 --> 01:02:49.480]   (audience laughing)
+[01:02:50.480 --> 01:02:53.480]   (audience laughing)
+[01:02:53.480 --> 01:02:56.480]   (audience laughing)
+[01:02:56.480 --> 01:02:59.480]   (audience laughing)
+[01:02:59.480 --> 01:03:03.480]   (audience laughing)
+[01:03:03.480 --> 01:03:07.480]   (audience laughing)
+[01:03:07.480 --> 01:03:11.480]   (audience laughing)
+[01:03:11.480 --> 01:03:15.480]   (audience laughing)
+[01:03:15.480 --> 01:03:19.480]   (audience laughing)
+[01:03:19.480 --> 01:03:23.480]   (audience laughing)
+[01:03:24.480 --> 01:03:27.480]   (audience laughing)
+[01:03:27.480 --> 01:03:31.480]   (audience laughing)
+[01:03:31.480 --> 01:03:35.480]   (audience laughing)
+[01:03:35.480 --> 01:03:39.480]   (audience laughing)
+[01:03:39.480 --> 01:03:43.480]   (audience laughing)
+[01:03:43.480 --> 01:03:47.480]   (audience laughing)
+[01:03:47.480 --> 01:03:51.480]   (audience laughing)
+[01:03:52.480 --> 01:03:55.480]   (audience laughing)
+[01:03:55.480 --> 01:03:58.480]   (audience laughing)
+[01:03:58.480 --> 01:04:02.480]   (audience laughing)
+[01:04:02.480 --> 01:04:06.480]   (audience laughing)
+[01:04:06.480 --> 01:04:10.480]   (audience laughing)
+[01:04:10.480 --> 01:04:14.480]   (audience laughing)
+[01:04:14.480 --> 01:04:18.480]   (audience laughing)
+[01:04:18.480 --> 01:04:22.480]   (audience laughing)
+[01:04:23.480 --> 01:04:26.480]   (audience laughing)
+[01:04:26.480 --> 01:04:29.480]   (audience laughing)
+[01:04:29.480 --> 01:04:33.480]   (audience laughing)
+[01:04:33.480 --> 01:04:37.480]   (audience laughing)
+[01:04:37.480 --> 01:04:41.480]   (audience laughing)
+[01:04:41.480 --> 01:04:45.480]   (audience laughing)
+[01:04:45.480 --> 01:04:49.480]   (audience laughing)
+[01:04:49.480 --> 01:04:53.480]   (audience laughing)
+[01:04:54.480 --> 01:04:57.480]   (audience laughing)
+[01:04:57.480 --> 01:05:00.480]   (audience laughing)
+[01:05:00.480 --> 01:05:04.480]   (audience laughing)
+[01:05:04.480 --> 01:05:08.480]   (audience laughing)
+[01:05:08.480 --> 01:05:12.480]   (audience laughing)
+[01:05:12.480 --> 01:05:16.480]   (audience laughing)
+[01:05:16.480 --> 01:05:20.480]   (audience laughing)
+[01:05:20.480 --> 01:05:24.480]   (audience laughing)
+[01:05:25.480 --> 01:05:28.480]   (audience laughing)
+[01:05:28.480 --> 01:05:50.480]   - Okay, if you can hear me, if you can begin to wrap up
+[01:05:50.480 --> 01:05:53.480]   and get back into the room, please.
+[01:05:54.480 --> 01:05:57.480]   (audience laughing)
+[01:05:57.480 --> 01:06:01.480]   (audience laughing)
+[01:06:01.480 --> 01:06:05.480]   (audience laughing)
+[01:06:05.480 --> 01:06:09.480]   (audience laughing)
+[01:06:09.480 --> 01:06:13.480]   (audience laughing)
+[01:06:13.480 --> 01:06:17.480]   (audience laughing)
+[01:06:17.480 --> 01:06:21.480]   (audience laughing)
+[01:06:22.480 --> 01:06:25.480]   (audience laughing)
+[01:06:25.480 --> 01:06:29.480]   (audience laughing)
+[01:06:29.480 --> 01:06:33.480]   (audience laughing)
+[01:06:33.480 --> 01:06:37.480]   (audience laughing)
+[01:06:37.480 --> 01:06:41.480]   (audience laughing)
+[01:06:41.480 --> 01:06:45.480]   (audience laughing)
+[01:06:45.480 --> 01:06:49.480]   (audience laughing)
+[01:06:50.480 --> 01:06:53.480]   (audience laughing)
+[01:06:53.480 --> 01:06:57.480]   (audience laughing)
+[01:06:57.480 --> 01:07:01.480]   (audience laughing)
+[01:07:01.480 --> 01:07:05.480]   (audience laughing)
+[01:07:05.480 --> 01:07:09.480]   (audience laughing)
+[01:07:09.480 --> 01:07:13.480]   (audience laughing)
+[01:07:13.480 --> 01:07:17.480]   (audience laughing)
+[01:07:18.480 --> 01:07:21.480]   (audience laughing)
+[01:07:21.480 --> 01:07:25.480]   (audience laughing)
+[01:07:25.480 --> 01:07:29.480]   (audience laughing)
+[01:07:29.480 --> 01:07:33.480]   (audience laughing)
+[01:07:33.480 --> 01:07:37.480]   (audience laughing)
+[01:07:37.480 --> 01:07:41.480]   (audience laughing)
+[01:07:41.480 --> 01:07:45.480]   (audience laughing)
+[01:07:46.480 --> 01:07:49.480]   (audience laughing)
+[01:07:49.480 --> 01:07:54.480]   All right, we're gonna get started.
+[01:07:54.480 --> 01:07:57.480]   So if you're still in the room and you're not out yet,
+[01:07:57.480 --> 01:07:59.480]   we're gonna get started.
+[01:07:59.480 --> 01:08:03.480]   (audience laughing)
+[01:08:03.480 --> 01:08:07.480]   (audience laughing)
+[01:08:07.480 --> 01:08:13.480]   All right, I see a couple tables not here yet.
+[01:08:13.480 --> 01:08:14.480]   All right.
+[01:08:14.480 --> 01:08:21.480]   All right, let's pray.
+[01:08:21.480 --> 01:08:25.480]   Father, we thank you for this evening.
+[01:08:25.480 --> 01:08:28.480]   We thank you for the material that we're covering.
+[01:08:28.480 --> 01:08:31.480]   Help us to have deeper understanding,
+[01:08:31.480 --> 01:08:33.480]   not just of knowledge, but how to apply it
+[01:08:33.480 --> 01:08:36.480]   in our personal lives and in the church.
+[01:08:36.480 --> 01:08:40.480]   We pray that you would bless the sessions that we have,
+[01:08:40.480 --> 01:08:42.480]   that it would help us to be on the same page
+[01:08:42.480 --> 01:08:46.480]   as we pursue you, to build a church that honors you,
+[01:08:46.480 --> 01:08:48.480]   glorifies you in a way, Father,
+[01:08:48.480 --> 01:08:53.480]   that will be the greatest light that you desire us to be.
+[01:08:53.480 --> 01:08:55.480]   We ask for your blessing and your grace
+[01:08:55.480 --> 01:08:56.480]   and your Holy Spirit to lead us.
+[01:08:56.480 --> 01:08:58.480]   In Jesus' name we pray, amen.
+[01:08:58.480 --> 01:09:00.480]   All right.
+[01:09:00.480 --> 01:09:05.480]   Come on in, grab a seat somewhere, wherever you're at.
+[01:09:05.480 --> 01:09:09.480]   All right.
+[01:09:10.480 --> 01:09:11.480]   The weather is getting cooler.
+[01:09:11.480 --> 01:09:15.480]   I'm assuming that our warmest days are behind us for now.
+[01:09:15.480 --> 01:09:20.480]   Found out part of the reason why this room was getting hot
+[01:09:20.480 --> 01:09:24.480]   is because the fans are turning the wrong direction.
+[01:09:24.480 --> 01:09:26.480]   So when we put the fans in,
+[01:09:26.480 --> 01:09:28.480]   when they were doing some construction in here,
+[01:09:28.480 --> 01:09:30.480]   they put the fans in, so most of the fans
+[01:09:30.480 --> 01:09:33.480]   are actually sucking the cold air up, that we found out.
+[01:09:33.480 --> 01:09:38.480]   So if you are an engineer or you're a construction worker
+[01:09:39.480 --> 01:09:40.480]   or you're an electrician
+[01:09:40.480 --> 01:09:43.480]   or you know how to flip this thing back the other way,
+[01:09:43.480 --> 01:09:45.480]   we're kind of in the process of trying to do that.
+[01:09:45.480 --> 01:09:47.480]   Please come let us know, all right?
+[01:09:47.480 --> 01:09:50.480]   We'll provide the ladder and then you can do the rest.
+[01:09:50.480 --> 01:09:52.480]   All right.
+[01:09:52.480 --> 01:09:54.480]   Yeah, there's only like one there and two here
+[01:09:54.480 --> 01:09:56.480]   that's turning the right way.
+[01:09:56.480 --> 01:09:58.480]   And then everything else is sucking.
+[01:09:58.480 --> 01:10:00.480]   That's why we're not turning the fans on, okay?
+[01:10:00.480 --> 01:10:03.480]   Again, if you, Justin's been looking into it,
+[01:10:03.480 --> 01:10:07.480]   but if you have any deeper insight about it
+[01:10:08.480 --> 01:10:09.480]   that can help us with that, let us know, okay?
+[01:10:09.480 --> 01:10:13.480]   All right, today's that we're covering
+[01:10:13.480 --> 01:10:15.480]   is covenant number two.
+[01:10:15.480 --> 01:10:17.480]   I confess that the Bible is the inerrant word of God
+[01:10:17.480 --> 01:10:21.480]   which has ultimate authority over my life.
+[01:10:21.480 --> 01:10:23.480]   And as we mentioned, the tenfold covenant,
+[01:10:23.480 --> 01:10:26.480]   each one of them were not just something
+[01:10:26.480 --> 01:10:28.480]   that we just kind of decided to put in.
+[01:10:28.480 --> 01:10:32.480]   These are very well thought out years and years
+[01:10:32.480 --> 01:10:34.480]   of wrestling and struggling through
+[01:10:34.480 --> 01:10:36.480]   what we see in scripture.
+[01:10:37.480 --> 01:10:39.480]   Number two, one, to be a member of the church,
+[01:10:39.480 --> 01:10:42.480]   you need to be a genuine born again Christian.
+[01:10:42.480 --> 01:10:45.480]   Number two is that the highest authority
+[01:10:45.480 --> 01:10:48.480]   in the church priority is the Bible.
+[01:10:48.480 --> 01:10:51.480]   And so if that's what we believe,
+[01:10:51.480 --> 01:10:53.480]   the doctrine of inerrancy means that
+[01:10:53.480 --> 01:10:56.480]   in its original manuscript, there are no,
+[01:10:56.480 --> 01:11:02.480]   there are no, there are no errors
+[01:11:02.480 --> 01:11:04.480]   since the author is God himself.
+[01:11:04.480 --> 01:11:06.480]   That's what the doctrine of inerrancy means.
+[01:11:06.480 --> 01:11:11.480]   Years ago, probably maybe back in the '70s
+[01:11:11.480 --> 01:11:13.480]   or earlier than that,
+[01:11:13.480 --> 01:11:15.480]   they used to use the term infallible.
+[01:11:15.480 --> 01:11:18.480]   So if you read older books and they say
+[01:11:18.480 --> 01:11:20.480]   we believe in the infallibility of the word of God,
+[01:11:20.480 --> 01:11:22.480]   it means the same thing.
+[01:11:22.480 --> 01:11:25.480]   But because it's just like today,
+[01:11:25.480 --> 01:11:27.480]   you know, the term evangelical
+[01:11:27.480 --> 01:11:31.480]   meant a gathering of like genuine born again Christians.
+[01:11:31.480 --> 01:11:33.480]   But today evangelical has lost its meaning
+[01:11:34.480 --> 01:11:36.480]   because evangelical has widened to the point
+[01:11:36.480 --> 01:11:38.480]   where there's non-Christian liberals
+[01:11:38.480 --> 01:11:40.480]   and people rejecting inerrancy
+[01:11:40.480 --> 01:11:42.480]   all consider themselves evangelical.
+[01:11:42.480 --> 01:11:44.480]   So when somebody says they're evangelical,
+[01:11:44.480 --> 01:11:46.480]   it no longer means what we used to mean.
+[01:11:46.480 --> 01:11:49.480]   So in the same way, if you read old books
+[01:11:49.480 --> 01:11:51.480]   and when they say infallible, it means the same thing.
+[01:11:51.480 --> 01:11:53.480]   It is without error.
+[01:11:53.480 --> 01:11:55.480]   But at some point in church history,
+[01:11:55.480 --> 01:11:58.480]   in the last 30 years, the word infallible
+[01:11:58.480 --> 01:12:00.480]   began to be interjected with certain meanings
+[01:12:00.480 --> 01:12:02.480]   and what it means and what it doesn't mean.
+[01:12:03.480 --> 01:12:04.480]   And it kind of watered down the meaning.
+[01:12:04.480 --> 01:12:07.480]   And so some of the more conservative schools
+[01:12:07.480 --> 01:12:09.480]   came up with the term inerrancy.
+[01:12:09.480 --> 01:12:11.480]   And it is without error, right?
+[01:12:11.480 --> 01:12:14.480]   So today when somebody says
+[01:12:14.480 --> 01:12:16.480]   they believe in infallibility,
+[01:12:16.480 --> 01:12:18.480]   they mean that the Bible
+[01:12:18.480 --> 01:12:20.480]   in its original meaning is infallible.
+[01:12:20.480 --> 01:12:22.480]   But the words in itself
+[01:12:22.480 --> 01:12:24.480]   specifically can be fallible.
+[01:12:24.480 --> 01:12:26.480]   Again, it depends on which circle
+[01:12:26.480 --> 01:12:28.480]   is using that term.
+[01:12:28.480 --> 01:12:31.480]   So we're specifically using the term inerrant meaning
+[01:12:32.480 --> 01:12:33.480]   in its original manuscript,
+[01:12:33.480 --> 01:12:35.480]   not the translations, right?
+[01:12:35.480 --> 01:12:37.480]   Not the study Bibles,
+[01:12:37.480 --> 01:12:39.480]   not the English Bibles,
+[01:12:39.480 --> 01:12:41.480]   but in its original Greek and Hebrew,
+[01:12:41.480 --> 01:12:43.480]   Aramaic manuscript,
+[01:12:43.480 --> 01:12:45.480]   there is no error because the author is God.
+[01:12:45.480 --> 01:12:47.480]   That's what we mean by inerrant.
+[01:12:47.480 --> 01:12:50.480]   So any church or any person
+[01:12:50.480 --> 01:12:52.480]   that believes in the inerrancy of the word of God
+[01:12:52.480 --> 01:12:54.480]   means it is without error.
+[01:12:54.480 --> 01:12:56.480]   So therefore, the doctrine means
+[01:12:56.480 --> 01:13:00.480]   that it has final authority over all things.
+[01:13:01.480 --> 01:13:02.480]   Everything that we do,
+[01:13:02.480 --> 01:13:04.480]   that's the final authority.
+[01:13:04.480 --> 01:13:06.480]   It doesn't matter even if
+[01:13:06.480 --> 01:13:08.480]   99.9% of the world says
+[01:13:08.480 --> 01:13:10.480]   we don't believe that anymore.
+[01:13:10.480 --> 01:13:12.480]   If we believe that's what the Bible says,
+[01:13:12.480 --> 01:13:14.480]   that's what we believe.
+[01:13:14.480 --> 01:13:16.480]   That's where the church stands.
+[01:13:16.480 --> 01:13:18.480]   If by believing in inerrancy
+[01:13:18.480 --> 01:13:20.480]   that the church no longer grows,
+[01:13:20.480 --> 01:13:22.480]   no longer popular,
+[01:13:22.480 --> 01:13:24.480]   and everybody in this church
+[01:13:24.480 --> 01:13:26.480]   leaves as a result of that,
+[01:13:26.480 --> 01:13:28.480]   we cannot change.
+[01:13:28.480 --> 01:13:30.480]   Because you are not the final authority,
+[01:13:30.480 --> 01:13:31.480]   I'm not the final authority
+[01:13:31.480 --> 01:13:33.480]   of the word of God.
+[01:13:33.480 --> 01:13:35.480]   That's what we mean by saying
+[01:13:35.480 --> 01:13:37.480]   that we believe in inerrancy of the Bible.
+[01:13:37.480 --> 01:13:39.480]   That's the final authority.
+[01:13:39.480 --> 01:13:42.480]   So all things must be established
+[01:13:42.480 --> 01:13:44.480]   by the word of God
+[01:13:44.480 --> 01:13:46.480]   rather than tradition or preference.
+[01:13:46.480 --> 01:13:49.480]   Now what do I mean by that?
+[01:13:49.480 --> 01:13:51.480]   How much of,
+[01:13:51.480 --> 01:13:53.480]   especially those of you
+[01:13:53.480 --> 01:13:55.480]   who grew up in a church.
+[01:13:55.480 --> 01:13:57.480]   I grew up, again nominally,
+[01:13:57.480 --> 01:13:59.480]   in a Presbyterian home
+[01:13:59.480 --> 01:14:00.480]   because my dad was a Presbyterian pastor.
+[01:14:00.480 --> 01:14:02.480]   And then I got saved
+[01:14:02.480 --> 01:14:04.480]   at a charismatic background.
+[01:14:04.480 --> 01:14:06.480]   And then I went to Talbot.
+[01:14:06.480 --> 01:14:08.480]   And they were Bible-leaning,
+[01:14:08.480 --> 01:14:10.480]   more conservative,
+[01:14:10.480 --> 01:14:12.480]   at least when I was in school.
+[01:14:12.480 --> 01:14:14.480]   And then I became more reformed in my faith
+[01:14:14.480 --> 01:14:16.480]   as I came out of seminary.
+[01:14:16.480 --> 01:14:18.480]   So I went through the whole gamut.
+[01:14:18.480 --> 01:14:21.480]   And I know the various things
+[01:14:21.480 --> 01:14:23.480]   that I thought when I was younger,
+[01:14:23.480 --> 01:14:25.480]   as I was studying the Bible,
+[01:14:25.480 --> 01:14:27.480]   not because I went to a certain school
+[01:14:28.480 --> 01:14:29.480]   or because I was in a certain Bible study.
+[01:14:29.480 --> 01:14:31.480]   But as I started teaching the Bible,
+[01:14:31.480 --> 01:14:33.480]   many of the things just stopped,
+[01:14:33.480 --> 01:14:35.480]   just didn't fit.
+[01:14:35.480 --> 01:14:37.480]   And one of the first things
+[01:14:37.480 --> 01:14:39.480]   that I came across is baptism.
+[01:14:39.480 --> 01:14:41.480]   Because I was infant baptized.
+[01:14:41.480 --> 01:14:43.480]   And as I was studying it,
+[01:14:43.480 --> 01:14:45.480]   I realized that how I understood church
+[01:14:45.480 --> 01:14:48.480]   and baptism came more from tradition
+[01:14:48.480 --> 01:14:51.480]   than what I was seeing in Scripture.
+[01:14:51.480 --> 01:14:53.480]   And so as a pastor,
+[01:14:53.480 --> 01:14:55.480]   nobody told me I should be baptized.
+[01:14:55.480 --> 01:14:57.480]   I went to my pastor and I said,
+[01:14:57.480 --> 01:14:59.480]   "Is it okay if I get baptized?"
+[01:14:59.480 --> 01:15:01.480]   And I asked him if he would baptize me.
+[01:15:01.480 --> 01:15:03.480]   The reason why I did that
+[01:15:03.480 --> 01:15:05.480]   is because I was trying to be faithful
+[01:15:05.480 --> 01:15:07.480]   to what I see in Scripture.
+[01:15:07.480 --> 01:15:09.480]   And how can I teach this
+[01:15:09.480 --> 01:15:11.480]   if I didn't do this myself?
+[01:15:11.480 --> 01:15:13.480]   And so that was one of many things
+[01:15:13.480 --> 01:15:16.480]   that I went through to test.
+[01:15:16.480 --> 01:15:18.480]   Is this tradition
+[01:15:18.480 --> 01:15:21.480]   or is it actually biblical?
+[01:15:21.480 --> 01:15:23.480]   Another thing,
+[01:15:23.480 --> 01:15:25.480]   because I was saved in a charismatic background,
+[01:15:26.480 --> 01:15:27.480]   seeing visions, speaking in tongues,
+[01:15:27.480 --> 01:15:29.480]   saying that people have healing gifts,
+[01:15:29.480 --> 01:15:31.480]   it was a given.
+[01:15:31.480 --> 01:15:33.480]   Because that's where I got saved.
+[01:15:33.480 --> 01:15:35.480]   That was my introduction to Christianity.
+[01:15:35.480 --> 01:15:37.480]   As I started studying the Bible,
+[01:15:37.480 --> 01:15:39.480]   I began to realize
+[01:15:39.480 --> 01:15:41.480]   that there were specific restrictions given
+[01:15:41.480 --> 01:15:44.480]   on how to practice these gifts.
+[01:15:44.480 --> 01:15:46.480]   And so I would go
+[01:15:46.480 --> 01:15:48.480]   and ask the leaders,
+[01:15:48.480 --> 01:15:50.480]   "Hey, in Corinthians it says
+[01:15:50.480 --> 01:15:53.480]   "not to pray in tongues in public
+[01:15:54.480 --> 01:15:55.480]   "unless there's an interpreter
+[01:15:55.480 --> 01:15:57.480]   "for every two or three people."
+[01:15:57.480 --> 01:15:59.480]   And so every time I would ask them,
+[01:15:59.480 --> 01:16:01.480]   and these people knew the Bible way better than I did,
+[01:16:01.480 --> 01:16:03.480]   but every time I asked them,
+[01:16:03.480 --> 01:16:05.480]   their answer was,
+[01:16:05.480 --> 01:16:07.480]   "You're making a big deal out of nothing."
+[01:16:07.480 --> 01:16:09.480]   And in fact, some of them actually told me,
+[01:16:09.480 --> 01:16:11.480]   "You need to be humble.
+[01:16:11.480 --> 01:16:13.480]   "Nobody's bothered by it but you."
+[01:16:13.480 --> 01:16:15.480]   And it took me years
+[01:16:15.480 --> 01:16:17.480]   of wrestling through that.
+[01:16:17.480 --> 01:16:19.480]   Do I just submit to them?
+[01:16:19.480 --> 01:16:21.480]   Is that the right thing to do,
+[01:16:21.480 --> 01:16:23.480]   just be humble and accept what they say?
+[01:16:23.480 --> 01:16:25.480]   When I clearly see what the Bible is saying?
+[01:16:25.480 --> 01:16:27.480]   And so it took me four or five years
+[01:16:27.480 --> 01:16:30.480]   because these are the people that led me to Christ.
+[01:16:30.480 --> 01:16:32.480]   These are the people who are discipling me.
+[01:16:32.480 --> 01:16:34.480]   These are the people that I looked up to.
+[01:16:34.480 --> 01:16:37.480]   And they were telling me that I was wrong.
+[01:16:37.480 --> 01:16:39.480]   But that was not what I was seeing in Scripture.
+[01:16:39.480 --> 01:16:41.480]   And so it took me a long time
+[01:16:41.480 --> 01:16:43.480]   to be able to question that.
+[01:16:43.480 --> 01:16:46.480]   And then I had to come to a conclusion.
+[01:16:46.480 --> 01:16:49.480]   I cannot put my confidence in man.
+[01:16:49.480 --> 01:16:52.480]   I have to put it in what I see in the Bible.
+[01:16:52.480 --> 01:16:55.480]   So it took me years of coming away.
+[01:16:55.480 --> 01:16:58.480]   And then once my paradigm started shifting,
+[01:16:58.480 --> 01:17:02.480]   even the people that I really looked up to
+[01:17:02.480 --> 01:17:04.480]   could be in error.
+[01:17:04.480 --> 01:17:07.480]   And so I had to test everything through Scripture.
+[01:17:07.480 --> 01:17:10.480]   And once I started testing everything through Scripture,
+[01:17:10.480 --> 01:17:12.480]   I began to realize there's so many things
+[01:17:12.480 --> 01:17:16.480]   that we do in church that, again,
+[01:17:16.480 --> 01:17:18.480]   scripturally doesn't make any sense.
+[01:17:18.480 --> 01:17:20.480]   Because it was passed down to us
+[01:17:21.480 --> 01:17:23.480]   that you just accept it.
+[01:17:23.480 --> 01:17:26.480]   And let me give you an example.
+[01:17:26.480 --> 01:17:28.480]   And this is not a wrong thing.
+[01:17:28.480 --> 01:17:30.480]   I hope you do believe in this.
+[01:17:30.480 --> 01:17:34.480]   How many of you can defend the doctrine of Trinity?
+[01:17:34.480 --> 01:17:39.480]   Most of you probably cannot.
+[01:17:39.480 --> 01:17:41.480]   Yet you're convicted of it.
+[01:17:41.480 --> 01:17:43.480]   And you will defend it.
+[01:17:43.480 --> 01:17:45.480]   You will fight other people.
+[01:17:45.480 --> 01:17:47.480]   You won't go to a church that doesn't believe in Trinity.
+[01:17:47.480 --> 01:17:49.480]   What is that based on though?
+[01:17:50.480 --> 01:17:53.480]   Is it based upon your careful study of the Bible?
+[01:17:53.480 --> 01:17:56.480]   If you can't defend it from the Scripture,
+[01:17:56.480 --> 01:17:58.480]   it's not really yours.
+[01:17:58.480 --> 01:18:02.480]   I'm starting off with something hard,
+[01:18:02.480 --> 01:18:06.480]   because I know this is disturbing to a lot of you.
+[01:18:06.480 --> 01:18:08.480]   But I'm trying to challenge you.
+[01:18:08.480 --> 01:18:12.480]   Loving the idea of being in love with the Bible
+[01:18:12.480 --> 01:18:14.480]   is not the same as being in love with the Bible.
+[01:18:14.480 --> 01:18:16.480]   It's not the same.
+[01:18:16.480 --> 01:18:18.480]   Sometimes if you're in a Bible-teaching church,
+[01:18:19.480 --> 01:18:22.480]   you feel confident that because you're in a Bible-teaching church,
+[01:18:22.480 --> 01:18:24.480]   whatever we teach must be biblical.
+[01:18:24.480 --> 01:18:27.480]   And that you test everything outside the church
+[01:18:27.480 --> 01:18:29.480]   based upon what you heard.
+[01:18:29.480 --> 01:18:31.480]   But it's not from the Bible itself.
+[01:18:31.480 --> 01:18:33.480]   Do you understand what I'm saying?
+[01:18:33.480 --> 01:18:35.480]   So just because you heard it here,
+[01:18:35.480 --> 01:18:37.480]   just because I taught it,
+[01:18:37.480 --> 01:18:39.480]   and other people who seem to know the Bible taught it,
+[01:18:39.480 --> 01:18:42.480]   doesn't mean that you know it.
+[01:18:42.480 --> 01:18:44.480]   Right?
+[01:18:44.480 --> 01:18:47.480]   You have to test where did you get this from Scripture.
+[01:18:48.480 --> 01:18:49.480]   And the reason why I start with that,
+[01:18:49.480 --> 01:18:51.480]   the hardest one,
+[01:18:51.480 --> 01:18:56.480]   is because if even at the core of the identity of God,
+[01:18:56.480 --> 01:18:58.480]   you may have a hard time defending.
+[01:18:58.480 --> 01:19:01.480]   Imagine how many other things that you say you're convicted about.
+[01:19:01.480 --> 01:19:04.480]   This is biblical, this is not biblical.
+[01:19:04.480 --> 01:19:07.480]   How much of that comes from your confidence
+[01:19:07.480 --> 01:19:09.480]   in the church that you belong to?
+[01:19:09.480 --> 01:19:11.480]   Or somebody that you looked up to?
+[01:19:11.480 --> 01:19:13.480]   Or a book you read?
+[01:19:13.480 --> 01:19:15.480]   Or a conference that you went to?
+[01:19:15.480 --> 01:19:17.480]   Or somebody told you this?
+[01:19:17.480 --> 01:19:18.480]   This is truth.
+[01:19:18.480 --> 01:19:20.480]   But if you're challenged,
+[01:19:20.480 --> 01:19:22.480]   where did you get that from the Bible?
+[01:19:22.480 --> 01:19:25.480]   You wouldn't be able to defend it.
+[01:19:25.480 --> 01:19:27.480]   The reason why I'm challenging you,
+[01:19:27.480 --> 01:19:30.480]   is because there's going to come a time
+[01:19:30.480 --> 01:19:33.480]   when you are going to be challenged.
+[01:19:33.480 --> 01:19:37.480]   And if it was confidence based upon your surrounding,
+[01:19:37.480 --> 01:19:40.480]   it won't stand up to the test.
+[01:19:40.480 --> 01:19:42.480]   And when it doesn't stand up to the test,
+[01:19:42.480 --> 01:19:44.480]   you're going to end up questioning your own faith.
+[01:19:45.480 --> 01:19:47.480]   Thinking that, oh, maybe the Bible isn't this way.
+[01:19:47.480 --> 01:19:49.480]   Maybe my church was wrong.
+[01:19:49.480 --> 01:19:51.480]   Maybe that guy was wrong.
+[01:19:51.480 --> 01:19:54.480]   In reality, it's because you never really were educated.
+[01:19:54.480 --> 01:19:56.480]   You understand what I'm saying?
+[01:19:56.480 --> 01:19:59.480]   So, I know you're probably already disturbed.
+[01:19:59.480 --> 01:20:01.480]   And I meant to do that.
+[01:20:01.480 --> 01:20:04.480]   If the Bible is going to be the final authority,
+[01:20:04.480 --> 01:20:06.480]   the Bible has to be the final authority.
+[01:20:06.480 --> 01:20:08.480]   Not me, not the church.
+[01:20:08.480 --> 01:20:10.480]   The Bible.
+[01:20:10.480 --> 01:20:12.480]   You need to be Bereans.
+[01:20:13.480 --> 01:20:14.480]   What's coming off of here.
+[01:20:14.480 --> 01:20:16.480]   What's coming off the pulpit.
+[01:20:16.480 --> 01:20:18.480]   Even the book you're reading.
+[01:20:18.480 --> 01:20:20.480]   You need to test it.
+[01:20:20.480 --> 01:20:22.480]   Is that true?
+[01:20:22.480 --> 01:20:24.480]   Is what he's saying really from the Bible?
+[01:20:24.480 --> 01:20:26.480]   Or MacArthur said it, so it must be true.
+[01:20:26.480 --> 01:20:28.480]   All things must be tested,
+[01:20:28.480 --> 01:20:32.480]   if it stands the test of Biblical scrutiny.
+[01:20:32.480 --> 01:20:34.480]   I had a...
+[01:20:34.480 --> 01:20:37.480]   I can tell you story after story,
+[01:20:37.480 --> 01:20:39.480]   so many years of people who challenged me
+[01:20:39.480 --> 01:20:41.480]   on this particular subject
+[01:20:42.480 --> 01:20:43.480]   of women in leadership.
+[01:20:43.480 --> 01:20:45.480]   We've had people come,
+[01:20:45.480 --> 01:20:47.480]   and even recently have left our church
+[01:20:47.480 --> 01:20:49.480]   saying that that's not Biblical.
+[01:20:49.480 --> 01:20:51.480]   They don't like it.
+[01:20:51.480 --> 01:20:53.480]   I had a girl, no longer a girl,
+[01:20:53.480 --> 01:20:55.480]   she's in her 40s, but a long time ago,
+[01:20:55.480 --> 01:20:57.480]   she graduated from a very liberal women's college,
+[01:20:57.480 --> 01:20:59.480]   came back,
+[01:20:59.480 --> 01:21:01.480]   and it just happened that we were teaching,
+[01:21:01.480 --> 01:21:03.480]   we were going through the Bible,
+[01:21:03.480 --> 01:21:05.480]   and we happened to land on a particular subject
+[01:21:05.480 --> 01:21:07.480]   of women leadership.
+[01:21:07.480 --> 01:21:09.480]   And we said we don't practice women leadership
+[01:21:09.480 --> 01:21:11.480]   at our church,
+[01:21:11.480 --> 01:21:12.480]   and she stood up to me after the Bible study
+[01:21:12.480 --> 01:21:14.480]   and saying, "You're twisting Scripture.
+[01:21:14.480 --> 01:21:16.480]   "You're picking and choosing
+[01:21:16.480 --> 01:21:18.480]   "based upon what you want."
+[01:21:18.480 --> 01:21:20.480]   And I remember having a conversation with her.
+[01:21:20.480 --> 01:21:22.480]   Whether that's true or not,
+[01:21:22.480 --> 01:21:24.480]   let's see if that's what you're saying is true.
+[01:21:24.480 --> 01:21:26.480]   So I challenged her.
+[01:21:26.480 --> 01:21:28.480]   Find two or three people
+[01:21:28.480 --> 01:21:30.480]   outside of the church,
+[01:21:30.480 --> 01:21:32.480]   I have no contact with them,
+[01:21:32.480 --> 01:21:34.480]   that you are confident they know the Bible.
+[01:21:34.480 --> 01:21:37.480]   And you ask them where these passages are.
+[01:21:37.480 --> 01:21:40.480]   And then you go look at it yourself.
+[01:21:40.480 --> 01:21:41.480]   And I'm going to give you time to go look at it.
+[01:21:41.480 --> 01:21:43.480]   And then so based upon
+[01:21:43.480 --> 01:21:45.480]   what you find in the next three months,
+[01:21:45.480 --> 01:21:47.480]   you come back to me
+[01:21:47.480 --> 01:21:50.480]   and challenge me where I am twisting the Scripture.
+[01:21:50.480 --> 01:21:52.480]   Two, three months go by,
+[01:21:52.480 --> 01:21:54.480]   she's still at church,
+[01:21:54.480 --> 01:21:56.480]   but she's not talking to me.
+[01:21:56.480 --> 01:21:58.480]   So one day I decided to pull her aside
+[01:21:58.480 --> 01:22:00.480]   after Sunday worship.
+[01:22:00.480 --> 01:22:02.480]   I said, "So what happened?
+[01:22:02.480 --> 01:22:04.480]   "Did you find anything?"
+[01:22:04.480 --> 01:22:06.480]   You could tell she was very uncomfortable.
+[01:22:06.480 --> 01:22:08.480]   She said, "Yes, I talked to them."
+[01:22:09.480 --> 01:22:10.480]   She just completely ignored me.
+[01:22:10.480 --> 01:22:12.480]   She went, did her study, came back.
+[01:22:12.480 --> 01:22:14.480]   She said, "Well,
+[01:22:14.480 --> 01:22:17.480]   "I guess that's what the Bible teaches."
+[01:22:17.480 --> 01:22:19.480]   And she admitted that.
+[01:22:19.480 --> 01:22:21.480]   She said, "From what I read,
+[01:22:21.480 --> 01:22:23.480]   "I don't know how else to interpret that.
+[01:22:23.480 --> 01:22:25.480]   "It seems like that's what the Bible says."
+[01:22:25.480 --> 01:22:27.480]   And then she said,
+[01:22:27.480 --> 01:22:29.480]   "I'm not sure if I like it."
+[01:22:29.480 --> 01:22:31.480]   She was being honest.
+[01:22:31.480 --> 01:22:33.480]   I said, "Okay.
+[01:22:33.480 --> 01:22:35.480]   "At least we got that squared away.
+[01:22:35.480 --> 01:22:37.480]   "Because because you didn't like it,
+[01:22:38.480 --> 01:22:39.480]   "it means that I was twisting the scripture, right?
+[01:22:39.480 --> 01:22:41.480]   "So we need to first establish,
+[01:22:41.480 --> 01:22:43.480]   "does the Bible teach it?
+[01:22:43.480 --> 01:22:45.480]   "You and I agree that's what the Bible says.
+[01:22:45.480 --> 01:22:47.480]   "Now the issue of whether you like it or not
+[01:22:47.480 --> 01:22:49.480]   "is a separate issue.
+[01:22:49.480 --> 01:22:51.480]   "So is it safer for you
+[01:22:51.480 --> 01:22:53.480]   "to reject something in the Bible
+[01:22:53.480 --> 01:22:55.480]   "because you don't like it,
+[01:22:55.480 --> 01:22:57.480]   "or is it safer that maybe
+[01:22:57.480 --> 01:22:59.480]   "the fact that you don't like it,
+[01:22:59.480 --> 01:23:01.480]   "maybe something has gone wrong with you?
+[01:23:01.480 --> 01:23:04.480]   "Maybe something in the way that you've been trained,
+[01:23:04.480 --> 01:23:06.480]   "maybe it's in the way that you understand
+[01:23:07.480 --> 01:23:08.480]   "what true leadership is,
+[01:23:08.480 --> 01:23:10.480]   "what's right and wrong.
+[01:23:10.480 --> 01:23:12.480]   "Maybe because we've been influenced
+[01:23:12.480 --> 01:23:14.480]   "by the secular world,
+[01:23:14.480 --> 01:23:16.480]   "that somehow that doesn't sit well with us,
+[01:23:16.480 --> 01:23:18.480]   "and that's why the Lord God is here
+[01:23:18.480 --> 01:23:20.480]   "sanctifying us,
+[01:23:20.480 --> 01:23:22.480]   "what he meant, right?"
+[01:23:22.480 --> 01:23:24.480]   And so I can tell you story after story after story.
+[01:23:24.480 --> 01:23:26.480]   And even today,
+[01:23:26.480 --> 01:23:28.480]   I have people challenging me,
+[01:23:28.480 --> 01:23:30.480]   "This is biblical, not biblical."
+[01:23:30.480 --> 01:23:32.480]   And I said, "Okay, tell me,
+[01:23:32.480 --> 01:23:34.480]   "where in the Bible did you get that?"
+[01:23:34.480 --> 01:23:36.480]   And a lot of times,
+[01:23:36.480 --> 01:23:37.480]   it's not a text,
+[01:23:37.480 --> 01:23:39.480]   it's something they heard,
+[01:23:39.480 --> 01:23:41.480]   or the church that you used to go to,
+[01:23:41.480 --> 01:23:43.480]   or a group,
+[01:23:43.480 --> 01:23:44.480]   or somebody that they respect,
+[01:23:44.480 --> 01:23:46.480]   or they went to some seminar,
+[01:23:46.480 --> 01:23:48.480]   or some conference,
+[01:23:48.480 --> 01:23:49.480]   and they came back and they said,
+[01:23:49.480 --> 01:23:51.480]   "Based upon what they said,
+[01:23:51.480 --> 01:23:53.480]   "you're not doing this.
+[01:23:53.480 --> 01:23:55.480]   "So show me where in the Bible."
+[01:23:55.480 --> 01:23:57.480]   So if your authority is going to come from the Bible,
+[01:23:57.480 --> 01:23:59.480]   it needs to be from the Bible.
+[01:23:59.480 --> 01:24:01.480]   So there's a lot of people
+[01:24:01.480 --> 01:24:03.480]   who are in love with the idea
+[01:24:03.480 --> 01:24:05.480]   of being in love with the Bible.
+[01:24:05.480 --> 01:24:06.480]   They're not in love with the Bible.
+[01:24:06.480 --> 01:24:08.480]   They're not studying it for themselves.
+[01:24:08.480 --> 01:24:10.480]   And I say this because
+[01:24:10.480 --> 01:24:12.480]   a lot of people
+[01:24:12.480 --> 01:24:14.480]   who are in Bible-teaching churches
+[01:24:14.480 --> 01:24:16.480]   are like that.
+[01:24:16.480 --> 01:24:18.480]   And that's why you become critical.
+[01:24:18.480 --> 01:24:20.480]   Let me tell you another story, okay?
+[01:24:20.480 --> 01:24:22.480]   As you guys know,
+[01:24:22.480 --> 01:24:24.480]   we're not a charismatic church.
+[01:24:24.480 --> 01:24:26.480]   I've moved away from that.
+[01:24:26.480 --> 01:24:28.480]   I had a guy who went to UCLA,
+[01:24:28.480 --> 01:24:30.480]   and then went to some seminar,
+[01:24:30.480 --> 01:24:33.480]   and he was fully convinced
+[01:24:34.480 --> 01:24:36.480]   that the Bible was teaching cessationism.
+[01:24:36.480 --> 01:24:38.480]   And he came back excited
+[01:24:38.480 --> 01:24:40.480]   to tell me, encourage me,
+[01:24:40.480 --> 01:24:42.480]   and say, "You know what?
+[01:24:42.480 --> 01:24:44.480]   "I agree with you.
+[01:24:44.480 --> 01:24:46.480]   "I'm open but cautious."
+[01:24:46.480 --> 01:24:48.480]   But he came and was sharing this with me,
+[01:24:48.480 --> 01:24:50.480]   and nothing he said I was offended by.
+[01:24:50.480 --> 01:24:52.480]   In fact, I agreed with
+[01:24:52.480 --> 01:24:54.480]   almost everything that he said.
+[01:24:54.480 --> 01:24:56.480]   But my concern was
+[01:24:56.480 --> 01:24:58.480]   that he became so convicted,
+[01:24:58.480 --> 01:25:00.480]   he said, "Charismatics are like this.
+[01:25:00.480 --> 01:25:02.480]   "Charismatics are like that."
+[01:25:03.480 --> 01:25:04.480]   And I said, "You know,
+[01:25:04.480 --> 01:25:06.480]   "it's not because I don't agree with you."
+[01:25:06.480 --> 01:25:08.480]   I asked him,
+[01:25:08.480 --> 01:25:10.480]   "Where did you get that from the Bible?"
+[01:25:10.480 --> 01:25:12.480]   He got surprised.
+[01:25:12.480 --> 01:25:14.480]   "Oh," I said, "you'd be happy that I became it."
+[01:25:14.480 --> 01:25:16.480]   "Well, I want to first find out
+[01:25:16.480 --> 01:25:18.480]   "how you came to that conclusion.
+[01:25:18.480 --> 01:25:20.480]   "What text were you wrestling with
+[01:25:20.480 --> 01:25:22.480]   "that caused you to come to that conclusion?"
+[01:25:22.480 --> 01:25:25.480]   He couldn't point to a single text.
+[01:25:25.480 --> 01:25:28.480]   And so that's why I said I cautioned him.
+[01:25:28.480 --> 01:25:30.480]   I said, "If you come to a conclusion,
+[01:25:30.480 --> 01:25:32.480]   "and you're so convicted
+[01:25:32.480 --> 01:25:33.480]   "that you're condemning all these people,
+[01:25:33.480 --> 01:25:35.480]   "and you don't even have a single text,
+[01:25:35.480 --> 01:25:37.480]   "and your condemnation is
+[01:25:37.480 --> 01:25:39.480]   "they don't know the Bible, but you do.
+[01:25:39.480 --> 01:25:41.480]   "But when I ask you where you got that from the Bible,
+[01:25:41.480 --> 01:25:43.480]   "you don't know.
+[01:25:43.480 --> 01:25:45.480]   "So where is your confidence coming from?
+[01:25:45.480 --> 01:25:47.480]   "From the seminar.
+[01:25:47.480 --> 01:25:50.480]   "Whoever told you that, right?"
+[01:25:50.480 --> 01:25:52.480]   So if the Bible is going to be your authority,
+[01:25:52.480 --> 01:25:54.480]   the Bible has to be the authority.
+[01:25:54.480 --> 01:25:56.480]   Not the culture,
+[01:25:56.480 --> 01:25:58.480]   not a group, not a denomination,
+[01:25:58.480 --> 01:26:00.480]   not some book, not some conference,
+[01:26:01.480 --> 01:26:03.480]   but somebody that you trust with the Bible.
+[01:26:03.480 --> 01:26:05.480]   Does that make sense?
+[01:26:05.480 --> 01:26:07.480]   Yeah.
+[01:26:07.480 --> 01:26:12.480]   So that's why it doesn't matter who said it.
+[01:26:12.480 --> 01:26:14.480]   It doesn't matter what book.
+[01:26:14.480 --> 01:26:16.480]   "Oh, but all the people who take the Bible seriously
+[01:26:16.480 --> 01:26:18.480]   "say the same thing."
+[01:26:18.480 --> 01:26:20.480]   That's not where the authority comes from.
+[01:26:20.480 --> 01:26:22.480]   Authority has to come from the Bible.
+[01:26:22.480 --> 01:26:24.480]   I hope that's sinking in.
+[01:26:24.480 --> 01:26:28.480]   We must clearly separate what is preferable,
+[01:26:29.480 --> 01:26:30.480]   or another way to put it is,
+[01:26:30.480 --> 01:26:32.480]   what is profitable,
+[01:26:32.480 --> 01:26:34.480]   or not profitable,
+[01:26:34.480 --> 01:26:36.480]   versus what is biblical.
+[01:26:36.480 --> 01:26:40.480]   Do you understand what I'm saying here?
+[01:26:40.480 --> 01:26:43.480]   If you say it's biblical,
+[01:26:43.480 --> 01:26:46.480]   there's no argument, right?
+[01:26:46.480 --> 01:26:48.480]   That there's no wiggle room.
+[01:26:48.480 --> 01:26:50.480]   That you have to do this
+[01:26:50.480 --> 01:26:53.480]   because God says you have to do this.
+[01:26:53.480 --> 01:26:55.480]   Profitable and unprofitable
+[01:26:55.480 --> 01:26:58.480]   is in application of something God said.
+[01:26:58.480 --> 01:26:59.480]   Okay?
+[01:26:59.480 --> 01:27:01.480]   And let me give you an example.
+[01:27:01.480 --> 01:27:03.480]   Are topical sermons
+[01:27:03.480 --> 01:27:07.480]   biblical or unbiblical?
+[01:27:07.480 --> 01:27:13.480]   Think about that.
+[01:27:13.480 --> 01:27:15.480]   Some of you guys might think
+[01:27:15.480 --> 01:27:17.480]   that you know what I would say.
+[01:27:17.480 --> 01:27:21.480]   Are topical sermons biblical or unbiblical?
+[01:27:26.480 --> 01:27:27.480]   Good question.
+[01:27:27.480 --> 01:27:29.480]   Nobody's confident in them?
+[01:27:29.480 --> 01:27:32.480]   Say what you think.
+[01:27:32.480 --> 01:27:38.480]   Well, that's safe.
+[01:27:38.480 --> 01:27:44.480]   That is the correct answer.
+[01:27:44.480 --> 01:27:54.480]   That's not a biblical or unbiblical question.
+[01:27:55.480 --> 01:27:58.480]   Is that profitable or unprofitable?
+[01:27:58.480 --> 01:28:00.480]   Where in the Bible
+[01:28:00.480 --> 01:28:02.480]   did you find where it says
+[01:28:02.480 --> 01:28:04.480]   topical sermons are unbiblical?
+[01:28:04.480 --> 01:28:07.480]   Where in the Bible did you find that?
+[01:28:07.480 --> 01:28:09.480]   Doesn't exist.
+[01:28:09.480 --> 01:28:11.480]   Doesn't exist.
+[01:28:11.480 --> 01:28:14.480]   There is no text you're going to look at
+[01:28:14.480 --> 01:28:16.480]   that's going to say
+[01:28:16.480 --> 01:28:18.480]   this is how sermons should look like.
+[01:28:18.480 --> 01:28:20.480]   This is what the outline should look like.
+[01:28:20.480 --> 01:28:22.480]   This is what the content should look like.
+[01:28:23.480 --> 01:28:25.480]   You should go through the syntax
+[01:28:25.480 --> 01:28:27.480]   and the grammar and the historical documents
+[01:28:27.480 --> 01:28:29.480]   and all the stuff you should put out
+[01:28:29.480 --> 01:28:31.480]   in every single sermon.
+[01:28:31.480 --> 01:28:33.480]   Where did you get that?
+[01:28:33.480 --> 01:28:35.480]   It's not in the Bible.
+[01:28:35.480 --> 01:28:37.480]   Now, is it profitable
+[01:28:37.480 --> 01:28:39.480]   to have topics?
+[01:28:39.480 --> 01:28:42.480]   Can you have a biblical topical sermon?
+[01:28:42.480 --> 01:28:44.480]   Yes.
+[01:28:44.480 --> 01:28:46.480]   We're going to teach on the subject of Trinity
+[01:28:46.480 --> 01:28:48.480]   and you're skipping from passage to passage
+[01:28:48.480 --> 01:28:50.480]   or maybe the doctrine of election
+[01:28:50.480 --> 01:28:52.480]   and you're going through different passages
+[01:28:52.480 --> 01:28:53.480]   to teach the idea of election.
+[01:28:53.480 --> 01:28:55.480]   But if somebody says,
+[01:28:55.480 --> 01:28:57.480]   this is how to be a good father.
+[01:28:57.480 --> 01:28:59.480]   You must hug your daughter.
+[01:28:59.480 --> 01:29:01.480]   You need to take her out to dates.
+[01:29:01.480 --> 01:29:03.480]   You know what I mean?
+[01:29:03.480 --> 01:29:05.480]   That has nothing to do with the Bible.
+[01:29:05.480 --> 01:29:07.480]   It's a topical sermon
+[01:29:07.480 --> 01:29:09.480]   but it's not necessarily a biblical sermon.
+[01:29:09.480 --> 01:29:11.480]   A topical sermon that's teaching the Bible
+[01:29:11.480 --> 01:29:13.480]   could be biblical.
+[01:29:13.480 --> 01:29:15.480]   When I ask is a topical sermon
+[01:29:15.480 --> 01:29:17.480]   biblical or unbiblical,
+[01:29:17.480 --> 01:29:19.480]   that's not the right answer
+[01:29:19.480 --> 01:29:21.480]   because you can't find the text
+[01:29:21.480 --> 01:29:22.480]   in the Bible.
+[01:29:22.480 --> 01:29:24.480]   So the question is
+[01:29:24.480 --> 01:29:26.480]   the application
+[01:29:26.480 --> 01:29:28.480]   of things that we see in the scripture
+[01:29:28.480 --> 01:29:30.480]   but it does not have that final authority
+[01:29:30.480 --> 01:29:32.480]   where it says, "Thus saith the Lord."
+[01:29:32.480 --> 01:29:34.480]   "Thus saith the Lord," you can't preach topical.
+[01:29:34.480 --> 01:29:36.480]   "Thus saith the Lord," you can't do this.
+[01:29:36.480 --> 01:29:38.480]   You understand what I'm saying?
+[01:29:38.480 --> 01:29:40.480]   Is owning a gun
+[01:29:40.480 --> 01:29:42.480]   biblical or unbiblical?
+[01:29:42.480 --> 01:29:47.480]   Some of you may say
+[01:29:47.480 --> 01:29:49.480]   it's biblical.
+[01:29:50.480 --> 01:29:51.480]   But I'm from Texas.
+[01:29:51.480 --> 01:29:56.480]   Again, that's not a biblical
+[01:29:56.480 --> 01:29:58.480]   or unbiblical question.
+[01:29:58.480 --> 01:30:00.480]   There's nothing in the scripture
+[01:30:00.480 --> 01:30:02.480]   that says all true believers
+[01:30:02.480 --> 01:30:04.480]   in Jesus Christ must own a gun
+[01:30:04.480 --> 01:30:06.480]   or all true believers can't own a gun.
+[01:30:06.480 --> 01:30:09.480]   That's a matter of profitable
+[01:30:09.480 --> 01:30:11.480]   or unprofitable
+[01:30:11.480 --> 01:30:13.480]   and you may have very strong opinions.
+[01:30:13.480 --> 01:30:15.480]   Is drinking biblical or unbiblical?
+[01:30:16.480 --> 01:30:17.480]   I want you to squirm.
+[01:30:17.480 --> 01:30:19.480]   I can tell who it is
+[01:30:19.480 --> 01:30:21.480]   that's squirming.
+[01:30:21.480 --> 01:30:23.480]   That's not a biblical
+[01:30:23.480 --> 01:30:25.480]   or unbiblical question.
+[01:30:25.480 --> 01:30:27.480]   Is it profitable or unprofitable?
+[01:30:27.480 --> 01:30:29.480]   So the reason why I'm saying all of this
+[01:30:29.480 --> 01:30:31.480]   is you need to separate
+[01:30:31.480 --> 01:30:33.480]   what is a biblical argument
+[01:30:33.480 --> 01:30:35.480]   versus what is an
+[01:30:35.480 --> 01:30:37.480]   application argument.
+[01:30:37.480 --> 01:30:39.480]   So if you're making an application argument,
+[01:30:39.480 --> 01:30:41.480]   you're talking about what you think
+[01:30:41.480 --> 01:30:43.480]   is the best way to apply
+[01:30:44.480 --> 01:30:45.480]   what the Bible clearly teaches.
+[01:30:45.480 --> 01:30:48.480]   And there may be different opinions on that
+[01:30:48.480 --> 01:30:50.480]   for different reasons.
+[01:30:50.480 --> 01:30:52.480]   But if you give final authority
+[01:30:52.480 --> 01:30:54.480]   to an opinion that you have
+[01:30:54.480 --> 01:30:56.480]   in your application,
+[01:30:56.480 --> 01:30:58.480]   you don't strengthen the Bible.
+[01:30:58.480 --> 01:31:00.480]   You weaken the Bible.
+[01:31:00.480 --> 01:31:02.480]   You understand what I'm saying?
+[01:31:02.480 --> 01:31:04.480]   Because you're giving authority
+[01:31:04.480 --> 01:31:06.480]   to something that doesn't exist.
+[01:31:06.480 --> 01:31:08.480]   If you're going to say
+[01:31:08.480 --> 01:31:10.480]   that the Bible has final authority,
+[01:31:10.480 --> 01:31:12.480]   the Bible has to have the final authority.
+[01:31:13.480 --> 01:31:14.480]   Not your opinion,
+[01:31:14.480 --> 01:31:16.480]   not your application.
+[01:31:16.480 --> 01:31:18.480]   I'll give you another thing.
+[01:31:18.480 --> 01:31:20.480]   It may not apply as much here
+[01:31:20.480 --> 01:31:22.480]   as to the home groups.
+[01:31:22.480 --> 01:31:24.480]   Is homeschooling biblical
+[01:31:24.480 --> 01:31:26.480]   or unbiblical?
+[01:31:26.480 --> 01:31:28.480]   That's an applicational question.
+[01:31:28.480 --> 01:31:30.480]   Some people may feel strong about it
+[01:31:30.480 --> 01:31:32.480]   one way or the other.
+[01:31:32.480 --> 01:31:34.480]   But that's not a biblical
+[01:31:34.480 --> 01:31:36.480]   or unbiblical argument.
+[01:31:36.480 --> 01:31:38.480]   That is an applicational question.
+[01:31:38.480 --> 01:31:40.480]   Is it wise or unwise
+[01:31:40.480 --> 01:31:42.480]   to send kids to public schools?
+[01:31:42.480 --> 01:31:43.480]   Is it wise or unwise
+[01:31:43.480 --> 01:31:45.480]   to homeschool?
+[01:31:45.480 --> 01:31:47.480]   You're taking a principle
+[01:31:47.480 --> 01:31:49.480]   that is taught in scripture
+[01:31:49.480 --> 01:31:51.480]   to disciple your children.
+[01:31:51.480 --> 01:31:53.480]   Then how should that be applied?
+[01:31:53.480 --> 01:31:55.480]   How should that be applied?
+[01:31:55.480 --> 01:31:57.480]   It doesn't mean
+[01:31:57.480 --> 01:31:59.480]   that it doesn't have any authority.
+[01:31:59.480 --> 01:32:01.480]   But don't give it that final authority
+[01:32:01.480 --> 01:32:03.480]   like everything else.
+[01:32:03.480 --> 01:32:05.480]   If every application that you have
+[01:32:05.480 --> 01:32:07.480]   is thus saith the Lord,
+[01:32:07.480 --> 01:32:09.480]   you're going to find somebody else
+[01:32:09.480 --> 01:32:11.480]   who says thus saith the Lord
+[01:32:11.480 --> 01:32:12.480]   and there's no way to resolve that
+[01:32:12.480 --> 01:32:14.480]   other than to say I know better than you.
+[01:32:14.480 --> 01:32:16.480]   It doesn't strengthen your argument.
+[01:32:16.480 --> 01:32:18.480]   It weakens your argument.
+[01:32:18.480 --> 01:32:20.480]   There's so many things
+[01:32:20.480 --> 01:32:22.480]   that we argue about in the church
+[01:32:22.480 --> 01:32:24.480]   saying the Bible says the Bible.
+[01:32:24.480 --> 01:32:26.480]   The Bible doesn't say anything about that.
+[01:32:26.480 --> 01:32:28.480]   It just gives you principles.
+[01:32:28.480 --> 01:32:30.480]   And I'm going to get to that.
+[01:32:30.480 --> 01:32:35.480]   So therefore,
+[01:32:35.480 --> 01:32:38.480]   biblical authority
+[01:32:38.480 --> 01:32:40.480]   must come in this chronological order.
+[01:32:40.480 --> 01:32:41.480]   And if you've been in our church
+[01:32:41.480 --> 01:32:43.480]   for any given time,
+[01:32:43.480 --> 01:32:45.480]   you know that this is something
+[01:32:45.480 --> 01:32:47.480]   I will repeat over and over again
+[01:32:47.480 --> 01:32:49.480]   up to the point it's like,
+[01:32:49.480 --> 01:32:51.480]   oh man, you're going to do this again.
+[01:32:51.480 --> 01:32:53.480]   Yes, I'm going to do this again.
+[01:32:53.480 --> 01:32:55.480]   It needs to be in this order.
+[01:32:55.480 --> 01:32:57.480]   Final authority comes
+[01:32:57.480 --> 01:32:59.480]   from exegesis of the text.
+[01:32:59.480 --> 01:33:01.480]   That's why we do
+[01:33:01.480 --> 01:33:03.480]   inductive Bible.
+[01:33:03.480 --> 01:33:05.480]   I know a lot of people
+[01:33:05.480 --> 01:33:07.480]   who were raised
+[01:33:07.480 --> 01:33:09.480]   in a Bible teaching church
+[01:33:09.480 --> 01:33:10.480]   but does not know how to interpret
+[01:33:10.480 --> 01:33:12.480]   the Bible for themselves.
+[01:33:12.480 --> 01:33:15.480]   They know the Bible from commentary.
+[01:33:15.480 --> 01:33:17.480]   They know the Bible from preaching.
+[01:33:17.480 --> 01:33:20.480]   They know the Bible from seminars.
+[01:33:20.480 --> 01:33:22.480]   But they don't know the Bible itself.
+[01:33:22.480 --> 01:33:24.480]   It's just like that.
+[01:33:24.480 --> 01:33:26.480]   If you learn the Bible that way,
+[01:33:26.480 --> 01:33:29.480]   go sit down with a cult member,
+[01:33:29.480 --> 01:33:31.480]   the local church,
+[01:33:31.480 --> 01:33:33.480]   the Church of Christ.
+[01:33:33.480 --> 01:33:35.480]   I mean, go sit down with them
+[01:33:35.480 --> 01:33:37.480]   and argue with them biblically.
+[01:33:38.480 --> 01:33:39.480]   And what happens is
+[01:33:39.480 --> 01:33:41.480]   they have more Bible memorized
+[01:33:41.480 --> 01:33:43.480]   than you do.
+[01:33:43.480 --> 01:33:45.480]   And they're absolutely convinced
+[01:33:45.480 --> 01:33:47.480]   because they've been taught,
+[01:33:47.480 --> 01:33:49.480]   whether it was from Joseph Smith
+[01:33:49.480 --> 01:33:52.480]   or whoever was teaching.
+[01:33:52.480 --> 01:33:54.480]   Whoever was the main teacher
+[01:33:54.480 --> 01:33:56.480]   that started this cult,
+[01:33:56.480 --> 01:33:58.480]   they take what they taught
+[01:33:58.480 --> 01:34:00.480]   and because they have a lot of Bible verses,
+[01:34:00.480 --> 01:34:02.480]   they say, oh, this must be the Bible.
+[01:34:02.480 --> 01:34:04.480]   But if you sit down long with them
+[01:34:04.480 --> 01:34:06.480]   and you start going over the context,
+[01:34:07.480 --> 01:34:08.480]   what he was saying in chapter one
+[01:34:08.480 --> 01:34:10.480]   and that argument led to chapter three.
+[01:34:10.480 --> 01:34:12.480]   And so how that particular word
+[01:34:12.480 --> 01:34:14.480]   is being used in this verse
+[01:34:14.480 --> 01:34:16.480]   and in that context,
+[01:34:16.480 --> 01:34:18.480]   they don't know any of that.
+[01:34:18.480 --> 01:34:20.480]   All they know is that
+[01:34:20.480 --> 01:34:22.480]   here's some verses that talk about
+[01:34:22.480 --> 01:34:24.480]   this particular subject
+[01:34:24.480 --> 01:34:26.480]   and then they connected the dots.
+[01:34:26.480 --> 01:34:28.480]   So therefore, Jesus isn't God.
+[01:34:28.480 --> 01:34:30.480]   He is a God.
+[01:34:30.480 --> 01:34:33.480]   But you can't get that from the text.
+[01:34:33.480 --> 01:34:35.480]   So that's why
+[01:34:36.480 --> 01:34:38.480]   the text of Jesus has the highest authority
+[01:34:38.480 --> 01:34:40.480]   is the text itself,
+[01:34:40.480 --> 01:34:42.480]   that you're going verse by verse,
+[01:34:42.480 --> 01:34:44.480]   word for word, from chapter to chapter,
+[01:34:44.480 --> 01:34:46.480]   and then you figure out what that means.
+[01:34:46.480 --> 01:34:48.480]   And then if you do enough of that,
+[01:34:48.480 --> 01:34:50.480]   what does that lead to?
+[01:34:50.480 --> 01:34:52.480]   If you do enough of this,
+[01:34:52.480 --> 01:34:58.480]   it leads to this.
+[01:34:58.480 --> 01:35:00.480]   This thematic theology
+[01:35:00.480 --> 01:35:02.480]   is accumulation
+[01:35:02.480 --> 01:35:04.480]   of the knowledge of the Bible
+[01:35:05.480 --> 01:35:06.480]   to teach you about a particular subject.
+[01:35:06.480 --> 01:35:08.480]   So Trinity, right?
+[01:35:08.480 --> 01:35:10.480]   Where do you get the doctrine of Trinity?
+[01:35:10.480 --> 01:35:12.480]   From enough exegesis
+[01:35:12.480 --> 01:35:14.480]   and then as you study
+[01:35:14.480 --> 01:35:16.480]   from text to text to text to text
+[01:35:16.480 --> 01:35:18.480]   and you put it all together,
+[01:35:18.480 --> 01:35:20.480]   we have the doctrine of Trinity.
+[01:35:20.480 --> 01:35:22.480]   The doctrine of Trinity
+[01:35:22.480 --> 01:35:24.480]   is not taught in a text.
+[01:35:24.480 --> 01:35:26.480]   It's taught in the Bible.
+[01:35:26.480 --> 01:35:28.480]   Sovereignty of God.
+[01:35:28.480 --> 01:35:30.480]   It's not just in one text.
+[01:35:30.480 --> 01:35:32.480]   You look at the totality of it.
+[01:35:32.480 --> 01:35:34.480]   But you cannot start here.
+[01:35:34.480 --> 01:35:35.480]   You can say, you know what,
+[01:35:35.480 --> 01:35:37.480]   I'm convinced about this particular doctrine,
+[01:35:37.480 --> 01:35:39.480]   but where did you get it?
+[01:35:39.480 --> 01:35:41.480]   Show me where.
+[01:35:41.480 --> 01:35:43.480]   Let's open up the Bible.
+[01:35:43.480 --> 01:35:45.480]   Tell me, where did you get it?
+[01:35:45.480 --> 01:35:48.480]   If you can't argue your position
+[01:35:48.480 --> 01:35:50.480]   from the scripture, right,
+[01:35:50.480 --> 01:35:53.480]   then you're relying on somebody,
+[01:35:53.480 --> 01:35:55.480]   some other human tradition,
+[01:35:55.480 --> 01:35:57.480]   and you can be dead wrong.
+[01:35:57.480 --> 01:35:59.480]   Now the reason why this is so important,
+[01:35:59.480 --> 01:36:02.480]   that's how heresy comes into the church.
+[01:36:03.480 --> 01:36:04.480]   That's how bad doctrine,
+[01:36:04.480 --> 01:36:06.480]   that's how deception comes.
+[01:36:06.480 --> 01:36:08.480]   You're deceived
+[01:36:08.480 --> 01:36:10.480]   when you are confident about something
+[01:36:10.480 --> 01:36:12.480]   that you shouldn't be.
+[01:36:12.480 --> 01:36:14.480]   Right?
+[01:36:14.480 --> 01:36:16.480]   That's what deception is.
+[01:36:16.480 --> 01:36:18.480]   You are confident, you're vocal,
+[01:36:18.480 --> 01:36:20.480]   you're judgmental
+[01:36:20.480 --> 01:36:22.480]   when you shouldn't be
+[01:36:22.480 --> 01:36:24.480]   because you don't know what you're talking about.
+[01:36:24.480 --> 01:36:26.480]   So if you're going to be confident about something,
+[01:36:26.480 --> 01:36:28.480]   make sure your authority
+[01:36:28.480 --> 01:36:30.480]   is coming from the Bible itself.
+[01:36:30.480 --> 01:36:32.480]   Not your opinion, not your upbringing,
+[01:36:32.480 --> 01:36:33.480]   not from the background,
+[01:36:33.480 --> 01:36:35.480]   not from the previous church you came from,
+[01:36:35.480 --> 01:36:37.480]   from the Bible itself.
+[01:36:37.480 --> 01:36:39.480]   If you have enough of this,
+[01:36:39.480 --> 01:36:41.480]   then you can compare with historical theology.
+[01:36:41.480 --> 01:36:43.480]   Historical theology
+[01:36:43.480 --> 01:36:45.480]   is what the church has been debating,
+[01:36:45.480 --> 01:36:47.480]   arguing, written down through history.
+[01:36:47.480 --> 01:36:49.480]   So you have systems of Calvinism.
+[01:36:49.480 --> 01:36:51.480]   Right?
+[01:36:51.480 --> 01:36:53.480]   And so that was passed down to us
+[01:36:53.480 --> 01:36:55.480]   from generation to generation to generation.
+[01:36:55.480 --> 01:36:57.480]   It was tested.
+[01:36:57.480 --> 01:36:59.480]   But you don't start with this.
+[01:36:59.480 --> 01:37:01.480]   You don't go learn theology
+[01:37:01.480 --> 01:37:02.480]   and say, "Oh, I can tell you about this,"
+[01:37:02.480 --> 01:37:04.480]   and then assume that it's in the Bible.
+[01:37:04.480 --> 01:37:06.480]   Right?
+[01:37:06.480 --> 01:37:08.480]   The correct way to do it is
+[01:37:08.480 --> 01:37:10.480]   pour all your energy into this
+[01:37:10.480 --> 01:37:12.480]   and it will lead to this.
+[01:37:12.480 --> 01:37:14.480]   Then you can test historical theology
+[01:37:14.480 --> 01:37:16.480]   to see which camp you belong to.
+[01:37:16.480 --> 01:37:18.480]   Right?
+[01:37:18.480 --> 01:37:20.480]   You can't,
+[01:37:20.480 --> 01:37:22.480]   "Oh, I was raised in a Presbyterian church
+[01:37:22.480 --> 01:37:24.480]   so therefore I'm a Calvinist."
+[01:37:24.480 --> 01:37:26.480]   Even though I'm a Calvinist,
+[01:37:26.480 --> 01:37:28.480]   that's not why you should be a Calvinist.
+[01:37:29.480 --> 01:37:30.480]   You're not going to a church
+[01:37:30.480 --> 01:37:32.480]   that taught Arminianism
+[01:37:32.480 --> 01:37:34.480]   so therefore I'm an Arminian.
+[01:37:34.480 --> 01:37:36.480]   You shouldn't be an Arminian
+[01:37:36.480 --> 01:37:38.480]   because of a church you went to.
+[01:37:38.480 --> 01:37:40.480]   It should be coming from exegesis,
+[01:37:40.480 --> 01:37:42.480]   systematic theology, historical theology.
+[01:37:42.480 --> 01:37:44.480]   And in philosophical theology,
+[01:37:44.480 --> 01:37:46.480]   it's basically, what do you make of it?
+[01:37:46.480 --> 01:37:48.480]   Well, if God is sovereign
+[01:37:48.480 --> 01:37:50.480]   and the Bible teaches us that we're responsible,
+[01:37:50.480 --> 01:37:52.480]   how do these two things mesh together?
+[01:37:52.480 --> 01:37:54.480]   That's philosophical theology.
+[01:37:54.480 --> 01:37:56.480]   Or a question of,
+[01:37:56.480 --> 01:37:58.480]   we have this woman
+[01:37:58.480 --> 01:37:59.480]   who's a great teacher
+[01:37:59.480 --> 01:38:01.480]   and the Bible says
+[01:38:01.480 --> 01:38:03.480]   that she shouldn't be teaching in church.
+[01:38:03.480 --> 01:38:05.480]   How do we reconcile?
+[01:38:05.480 --> 01:38:07.480]   Why did God make her such a great teacher
+[01:38:07.480 --> 01:38:09.480]   and prohibit her from teaching the church?
+[01:38:09.480 --> 01:38:12.480]   Is that a biblical question?
+[01:38:12.480 --> 01:38:14.480]   That's a philosophical question.
+[01:38:14.480 --> 01:38:16.480]   Right?
+[01:38:16.480 --> 01:38:18.480]   An application.
+[01:38:18.480 --> 01:38:20.480]   There's good answers to that.
+[01:38:20.480 --> 01:38:22.480]   But typically, if you're not careful,
+[01:38:22.480 --> 01:38:24.480]   what happens is,
+[01:38:24.480 --> 01:38:26.480]   you hear something,
+[01:38:27.480 --> 01:38:28.480]   but you don't hear it.
+[01:38:28.480 --> 01:38:30.480]   And so, if it doesn't seem fair
+[01:38:30.480 --> 01:38:32.480]   and I don't like it,
+[01:38:32.480 --> 01:38:35.480]   then we begin to alter all this.
+[01:38:35.480 --> 01:38:38.480]   The Bible cannot be saying this.
+[01:38:38.480 --> 01:38:40.480]   Look at the people
+[01:38:40.480 --> 01:38:42.480]   who are trying to push homosexuality
+[01:38:42.480 --> 01:38:44.480]   in our community.
+[01:38:44.480 --> 01:38:46.480]   Sometimes in the church,
+[01:38:46.480 --> 01:38:48.480]   they'll tell you the Bible says this,
+[01:38:48.480 --> 01:38:50.480]   the Bible said that.
+[01:38:50.480 --> 01:38:52.480]   And next time they say that,
+[01:38:52.480 --> 01:38:54.480]   read what they say carefully.
+[01:38:54.480 --> 01:38:56.480]   Read their argument carefully
+[01:38:56.480 --> 01:38:57.480]   because they're going to take a text
+[01:38:57.480 --> 01:38:59.480]   and they're going to butcher it.
+[01:38:59.480 --> 01:39:01.480]   And you don't have to be a pastor
+[01:39:01.480 --> 01:39:03.480]   to be able to see that.
+[01:39:03.480 --> 01:39:05.480]   Just follow their argument.
+[01:39:05.480 --> 01:39:07.480]   When they quote a verse,
+[01:39:07.480 --> 01:39:09.480]   go and look at that text.
+[01:39:09.480 --> 01:39:11.480]   See if what they're saying
+[01:39:11.480 --> 01:39:13.480]   is actually coming from that text.
+[01:39:13.480 --> 01:39:15.480]   It's not that difficult.
+[01:39:15.480 --> 01:39:17.480]   Women in ministry issue
+[01:39:17.480 --> 01:39:19.480]   is right there.
+[01:39:19.480 --> 01:39:22.480]   Majority of the argument
+[01:39:22.480 --> 01:39:24.480]   for women in ministry
+[01:39:25.480 --> 01:39:26.480]   comes from exegetical studies.
+[01:39:26.480 --> 01:39:29.480]   It's coming from fairness.
+[01:39:29.480 --> 01:39:31.480]   Why would God give gifts
+[01:39:31.480 --> 01:39:34.480]   if he's not going to allow them to use it?
+[01:39:34.480 --> 01:39:36.480]   Therefore, they're going back
+[01:39:36.480 --> 01:39:38.480]   and reinterpreting everything
+[01:39:38.480 --> 01:39:40.480]   so it'll fit.
+[01:39:40.480 --> 01:39:42.480]   That's a very dangerous thing to do.
+[01:39:42.480 --> 01:39:44.480]   We have to see what does the Bible say
+[01:39:44.480 --> 01:39:47.480]   and then however you may feel about it,
+[01:39:47.480 --> 01:39:49.480]   the authority comes from the Bible,
+[01:39:49.480 --> 01:39:51.480]   not me, not you, not the culture.
+[01:39:51.480 --> 01:39:53.480]   Does that make sense?
+[01:39:54.480 --> 01:39:55.480]   If you don't like anything that I said,
+[01:39:55.480 --> 01:39:57.480]   find it in the text
+[01:39:57.480 --> 01:39:59.480]   and then come challenge me from the Bible.
+[01:39:59.480 --> 01:40:03.480]   Whatever I said,
+[01:40:03.480 --> 01:40:05.480]   it's like, "Oh, he's saying things I don't like."
+[01:40:05.480 --> 01:40:07.480]   Go find it in the text.
+[01:40:07.480 --> 01:40:09.480]   That's why I'm saying it.
+[01:40:09.480 --> 01:40:11.480]   Go find it in the text.
+[01:40:11.480 --> 01:40:13.480]   Study it for yourself and then come.
+[01:40:13.480 --> 01:40:15.480]   But don't sit there and say, "I don't like it."
+[01:40:15.480 --> 01:40:17.480]   That's your problem.
+[01:40:17.480 --> 01:40:19.480]   That's not my problem
+[01:40:19.480 --> 01:40:21.480]   because the authority doesn't come from you,
+[01:40:21.480 --> 01:40:23.480]   it doesn't come from me.
+[01:40:23.480 --> 01:40:24.480]   The Bible is sufficient.
+[01:40:24.480 --> 01:40:27.480]   The Bible is sufficient to know God
+[01:40:27.480 --> 01:40:29.480]   in general revelation.
+[01:40:29.480 --> 01:40:31.480]   I'm going to go a little bit longer than normal today.
+[01:40:31.480 --> 01:40:40.480]   General revelation is the imprint
+[01:40:40.480 --> 01:40:42.480]   that he's made
+[01:40:42.480 --> 01:40:44.480]   of himself in creation.
+[01:40:44.480 --> 01:40:46.480]   That because that which is known about God
+[01:40:46.480 --> 01:40:48.480]   is evident with them,
+[01:40:48.480 --> 01:40:50.480]   for God made it evident to them.
+[01:40:50.480 --> 01:40:52.480]   For since the creation of the world
+[01:40:52.480 --> 01:40:53.480]   his invisible attributes,
+[01:40:53.480 --> 01:40:55.480]   his eternal power and divine nature
+[01:40:55.480 --> 01:40:57.480]   have been clearly seen,
+[01:40:57.480 --> 01:40:59.480]   being understood through what has been made
+[01:40:59.480 --> 01:41:01.480]   so that they are without excuse.
+[01:41:01.480 --> 01:41:03.480]   So this is what's called general revelation.
+[01:41:03.480 --> 01:41:05.480]   He put enough evidence of himself
+[01:41:05.480 --> 01:41:07.480]   in creation
+[01:41:07.480 --> 01:41:09.480]   to draw people to himself.
+[01:41:09.480 --> 01:41:17.480]   Okay.
+[01:41:17.480 --> 01:41:19.480]   That symbol means draw.
+[01:41:19.480 --> 01:41:21.480]   Okay.
+[01:41:22.480 --> 01:41:23.480]   To draw people.
+[01:41:23.480 --> 01:41:25.480]   But general revelation cannot save you.
+[01:41:25.480 --> 01:41:28.480]   General revelation can only draw you.
+[01:41:28.480 --> 01:41:30.480]   Okay.
+[01:41:30.480 --> 01:41:32.480]   So general revelation will lead you
+[01:41:32.480 --> 01:41:34.480]   to special revelation,
+[01:41:34.480 --> 01:41:36.480]   which is the Bible.
+[01:41:36.480 --> 01:41:38.480]   Bible will,
+[01:41:38.480 --> 01:41:40.480]   general revelation will draw you to Christ,
+[01:41:40.480 --> 01:41:42.480]   special revelation will introduce you.
+[01:41:42.480 --> 01:41:44.480]   You cannot be saved
+[01:41:44.480 --> 01:41:46.480]   unless you are introduced to Christ.
+[01:41:46.480 --> 01:41:48.480]   Does that make sense?
+[01:41:49.480 --> 01:41:50.480]   So it is sufficient to know God.
+[01:41:50.480 --> 01:41:52.480]   So if somebody says God is like this,
+[01:41:52.480 --> 01:41:54.480]   God is like that,
+[01:41:54.480 --> 01:41:56.480]   where did you get that from?
+[01:41:56.480 --> 01:41:58.480]   From creation we can say God is powerful,
+[01:41:58.480 --> 01:42:00.480]   he is creative,
+[01:42:00.480 --> 01:42:02.480]   he is intelligent.
+[01:42:02.480 --> 01:42:04.480]   We can get that from creation,
+[01:42:04.480 --> 01:42:06.480]   but can you get that from creation
+[01:42:06.480 --> 01:42:08.480]   that he's loving?
+[01:42:08.480 --> 01:42:10.480]   That he's merciful?
+[01:42:10.480 --> 01:42:12.480]   Maybe.
+[01:42:12.480 --> 01:42:14.480]   But the specifics of his nature,
+[01:42:14.480 --> 01:42:16.480]   that he is holy,
+[01:42:17.480 --> 01:42:18.480]   we can get that from scripture.
+[01:42:18.480 --> 01:42:20.480]   Okay.
+[01:42:20.480 --> 01:42:24.480]   So not only the Bible teaches us
+[01:42:24.480 --> 01:42:26.480]   about who God is,
+[01:42:26.480 --> 01:42:28.480]   the Bible teaches us
+[01:42:28.480 --> 01:42:30.480]   how we are saved.
+[01:42:30.480 --> 01:42:32.480]   And that from childhood
+[01:42:32.480 --> 01:42:34.480]   you have known the sacred writings
+[01:42:34.480 --> 01:42:36.480]   which are able to give you the wisdom
+[01:42:36.480 --> 01:42:38.480]   that leads to salvation through faith
+[01:42:38.480 --> 01:42:40.480]   which is in Christ.
+[01:42:40.480 --> 01:42:42.480]   All scripture is inspired by God
+[01:42:43.480 --> 01:42:44.480]   it says sacred writings
+[01:42:44.480 --> 01:42:46.480]   which wisdom
+[01:42:46.480 --> 01:42:48.480]   that leads to salvation.
+[01:42:48.480 --> 01:42:51.480]   Sacred writings
+[01:42:51.480 --> 01:42:53.480]   that lead to salvation.
+[01:42:53.480 --> 01:42:55.480]   That's special revelation.
+[01:42:55.480 --> 01:42:57.480]   You know, this word is so interesting,
+[01:42:57.480 --> 01:42:59.480]   inspired.
+[01:42:59.480 --> 01:43:01.480]   How many of you in this room
+[01:43:01.480 --> 01:43:03.480]   use the LSP?
+[01:43:03.480 --> 01:43:07.480]   How many of you use
+[01:43:07.480 --> 01:43:10.480]   the old version of the NSP?
+[01:43:10.480 --> 01:43:12.480]   The old version, not the 93,
+[01:43:12.480 --> 01:43:13.480]   the one before that.
+[01:43:13.480 --> 01:43:15.480]   95.
+[01:43:15.480 --> 01:43:18.480]   Not the 95, not the revised 95,
+[01:43:18.480 --> 01:43:20.480]   but the one before that.
+[01:43:20.480 --> 01:43:23.480]   Anyway, if you look at the LSP
+[01:43:23.480 --> 01:43:25.480]   or the old NSP,
+[01:43:25.480 --> 01:43:27.480]   this word is translated
+[01:43:27.480 --> 01:43:29.480]   God breathe.
+[01:43:29.480 --> 01:43:31.480]   That's literally, that's what it says.
+[01:43:31.480 --> 01:43:33.480]   God breathe.
+[01:43:33.480 --> 01:43:35.480]   And then the newer version of the NSP
+[01:43:35.480 --> 01:43:37.480]   translated inspired by God.
+[01:43:37.480 --> 01:43:39.480]   You know why this is so,
+[01:43:39.480 --> 01:43:41.480]   to me it was interesting was
+[01:43:41.480 --> 01:43:43.480]   where else do you see the term breathe?
+[01:43:43.480 --> 01:43:46.480]   When God created man,
+[01:43:46.480 --> 01:43:48.480]   he said he breathed his breath
+[01:43:48.480 --> 01:43:50.480]   into the man, right?
+[01:43:50.480 --> 01:43:52.480]   But when man fell,
+[01:43:52.480 --> 01:43:54.480]   what happened? He died.
+[01:43:54.480 --> 01:43:56.480]   When we come to the New Testament,
+[01:43:56.480 --> 01:43:58.480]   how does he breathe his breath
+[01:43:58.480 --> 01:44:00.480]   back into us?
+[01:44:00.480 --> 01:44:02.480]   Through the word of God.
+[01:44:02.480 --> 01:44:06.480]   Doesn't blow your mind?
+[01:44:06.480 --> 01:44:08.480]   It blows my mind.
+[01:44:08.480 --> 01:44:10.480]   I remember when I was doing
+[01:44:10.480 --> 01:44:11.480]   my PhD,
+[01:44:11.480 --> 01:44:13.480]   like the breath that we lost
+[01:44:13.480 --> 01:44:15.480]   because of our sin,
+[01:44:15.480 --> 01:44:17.480]   God has ordained his word.
+[01:44:17.480 --> 01:44:19.480]   He said he put his very breath
+[01:44:19.480 --> 01:44:21.480]   into the word of God.
+[01:44:21.480 --> 01:44:23.480]   And he said faith comes from
+[01:44:23.480 --> 01:44:25.480]   hearing and hearing of the word of Christ.
+[01:44:25.480 --> 01:44:27.480]   He has ordained his very breath
+[01:44:27.480 --> 01:44:29.480]   into the word.
+[01:44:29.480 --> 01:44:31.480]   So the way that the breath
+[01:44:31.480 --> 01:44:33.480]   is going to go back into us
+[01:44:33.480 --> 01:44:35.480]   is the word of God.
+[01:44:35.480 --> 01:44:37.480]   And that's why he tells Timothy
+[01:44:37.480 --> 01:44:39.480]   to preach the word in season
+[01:44:39.480 --> 01:44:40.480]   of what's been lost.
+[01:44:40.480 --> 01:44:42.480]   Okay?
+[01:44:42.480 --> 01:44:44.480]   I don't know, you guys don't seem impressed.
+[01:44:44.480 --> 01:44:46.480]   I was so blown out of the water
+[01:44:46.480 --> 01:44:48.480]   when I noticed it.
+[01:44:48.480 --> 01:44:53.480]   Bible is sufficient to know God's will.
+[01:44:53.480 --> 01:44:55.480]   Now let me take a few minutes
+[01:44:55.480 --> 01:44:57.480]   talking about this.
+[01:44:57.480 --> 01:44:59.480]   This is where I think a lot of people
+[01:44:59.480 --> 01:45:02.480]   who are in Bible teaching churches
+[01:45:02.480 --> 01:45:04.480]   go astray.
+[01:45:04.480 --> 01:45:06.480]   Because
+[01:45:06.480 --> 01:45:08.480]   if you think
+[01:45:08.480 --> 01:45:09.480]   that knowing the Bible
+[01:45:09.480 --> 01:45:11.480]   is simply an intellectual exercise,
+[01:45:11.480 --> 01:45:13.480]   you're going to get into trouble.
+[01:45:13.480 --> 01:45:15.480]   The Bible,
+[01:45:15.480 --> 01:45:17.480]   God is not somebody that you can study
+[01:45:17.480 --> 01:45:19.480]   through syntax
+[01:45:19.480 --> 01:45:21.480]   and doing, asking questions
+[01:45:21.480 --> 01:45:23.480]   and putting together.
+[01:45:23.480 --> 01:45:25.480]   It's like, oh, I know him.
+[01:45:25.480 --> 01:45:27.480]   You cannot approach God
+[01:45:27.480 --> 01:45:29.480]   until we are humble before God.
+[01:45:29.480 --> 01:45:32.480]   It doesn't matter how much Bible you know.
+[01:45:32.480 --> 01:45:34.480]   Bible teaches us about God,
+[01:45:34.480 --> 01:45:36.480]   but you cannot know God
+[01:45:37.480 --> 01:45:38.480]   until you are humble before God.
+[01:45:38.480 --> 01:45:40.480]   Hebrews 4.12, it says,
+[01:45:40.480 --> 01:45:42.480]   "For the word of God is living and active,
+[01:45:42.480 --> 01:45:44.480]   sharper than any two-edged sword,
+[01:45:44.480 --> 01:45:46.480]   piercing as far as the division of soul and spirit
+[01:45:46.480 --> 01:45:48.480]   of both joints and marrow,
+[01:45:48.480 --> 01:45:50.480]   and able to judge the thoughts
+[01:45:50.480 --> 01:45:52.480]   and intentions of the heart."
+[01:45:52.480 --> 01:45:54.480]   So the word of God is, does what?
+[01:45:54.480 --> 01:45:56.480]   First and foremost,
+[01:45:56.480 --> 01:45:58.480]   to judge what's right and wrong?
+[01:45:58.480 --> 01:46:00.480]   Yes, but where?
+[01:46:00.480 --> 01:46:02.480]   You and me.
+[01:46:02.480 --> 01:46:04.480]   When the word of God is open,
+[01:46:04.480 --> 01:46:06.480]   first and foremost,
+[01:46:06.480 --> 01:46:07.480]   before we judge outside,
+[01:46:07.480 --> 01:46:09.480]   before we judge anybody else,
+[01:46:09.480 --> 01:46:11.480]   it needs to judge
+[01:46:11.480 --> 01:46:13.480]   the thoughts and intentions of your heart.
+[01:46:13.480 --> 01:46:15.480]   Because if it doesn't judge
+[01:46:15.480 --> 01:46:17.480]   the thoughts and intentions of your heart,
+[01:46:17.480 --> 01:46:20.480]   the filter in which you're going to see
+[01:46:20.480 --> 01:46:22.480]   and interpret the Bible
+[01:46:22.480 --> 01:46:24.480]   is going to come from a sinful, proud heart.
+[01:46:24.480 --> 01:46:26.480]   Does that make sense?
+[01:46:26.480 --> 01:46:28.480]   That's why somebody
+[01:46:28.480 --> 01:46:30.480]   who is looking to the Bible
+[01:46:30.480 --> 01:46:32.480]   for proof text
+[01:46:32.480 --> 01:46:34.480]   to prove homosexuality will find it.
+[01:46:35.480 --> 01:46:36.480]   And he'll point to verses.
+[01:46:36.480 --> 01:46:38.480]   Right?
+[01:46:38.480 --> 01:46:41.480]   If you approach the Bible
+[01:46:41.480 --> 01:46:43.480]   thinking that somehow
+[01:46:43.480 --> 01:46:45.480]   the heart is evil,
+[01:46:45.480 --> 01:46:47.480]   but the intellect
+[01:46:47.480 --> 01:46:50.480]   has not been tainted by sin.
+[01:46:50.480 --> 01:46:52.480]   No.
+[01:46:52.480 --> 01:46:54.480]   We've all been in every part
+[01:46:54.480 --> 01:46:56.480]   of our will, our intellect,
+[01:46:56.480 --> 01:46:58.480]   and our heart was tainted.
+[01:46:58.480 --> 01:47:00.480]   So if your being
+[01:47:00.480 --> 01:47:02.480]   is not being sanctified,
+[01:47:02.480 --> 01:47:04.480]   even the way you look at Scripture
+[01:47:04.480 --> 01:47:05.480]   is going to come through a sinful lens.
+[01:47:05.480 --> 01:47:08.480]   I'm going to try to prove that person wrong.
+[01:47:08.480 --> 01:47:10.480]   I'm right and you're wrong.
+[01:47:10.480 --> 01:47:12.480]   So everything you're going to see
+[01:47:12.480 --> 01:47:14.480]   and interpret in the verses that you find
+[01:47:14.480 --> 01:47:16.480]   is going to bolster up the position
+[01:47:16.480 --> 01:47:18.480]   that you want to find.
+[01:47:18.480 --> 01:47:20.480]   Does that make sense?
+[01:47:20.480 --> 01:47:22.480]   First and foremost,
+[01:47:22.480 --> 01:47:24.480]   the Word of God has to judge
+[01:47:24.480 --> 01:47:26.480]   the thoughts and intentions of our heart.
+[01:47:26.480 --> 01:47:28.480]   What's the judge of thoughts and intentions?
+[01:47:28.480 --> 01:47:30.480]   It's internal.
+[01:47:30.480 --> 01:47:32.480]   Not judge what you're doing with your life,
+[01:47:33.480 --> 01:47:34.480]   right?
+[01:47:34.480 --> 01:47:36.480]   Why is this important?
+[01:47:36.480 --> 01:47:38.480]   Romans 12.2,
+[01:47:38.480 --> 01:47:40.480]   "Do not be conformed to this world,
+[01:47:40.480 --> 01:47:42.480]   but be transformed by the renewing of your mind,
+[01:47:42.480 --> 01:47:44.480]   so that you may prove what the will of God is,
+[01:47:44.480 --> 01:47:46.480]   that which is good and acceptable and perfect."
+[01:47:46.480 --> 01:47:48.480]   So how do we come to understand the will of God?
+[01:47:48.480 --> 01:47:52.480]   Now there are texts that it says,
+[01:47:52.480 --> 01:47:55.480]   clearly, do this and don't do this.
+[01:47:55.480 --> 01:47:58.480]   But 99% of the things that you're asking,
+[01:47:58.480 --> 01:48:00.480]   the Bible doesn't have a clear saying.
+[01:48:00.480 --> 01:48:02.480]   Like, should I go to this school or that?
+[01:48:02.480 --> 01:48:03.480]   Marry this lady.
+[01:48:03.480 --> 01:48:05.480]   Where did you find that in the Bible?
+[01:48:05.480 --> 01:48:07.480]   You can go seek counsel,
+[01:48:07.480 --> 01:48:09.480]   but that's another human's counsel.
+[01:48:09.480 --> 01:48:11.480]   He says,
+[01:48:11.480 --> 01:48:13.480]   "Not to be conformed,
+[01:48:13.480 --> 01:48:15.480]   but be transformed by the renewing of your mind."
+[01:48:15.480 --> 01:48:17.480]   So how does your mind get renewed?
+[01:48:17.480 --> 01:48:19.480]   By the Word of God.
+[01:48:19.480 --> 01:48:21.480]   By allowing it to judge
+[01:48:21.480 --> 01:48:23.480]   the thoughts and intentions of my heart.
+[01:48:23.480 --> 01:48:25.480]   Do I have any idols in my heart?
+[01:48:25.480 --> 01:48:27.480]   Do I have any bitterness in my heart?
+[01:48:27.480 --> 01:48:29.480]   Do I have any pride in my heart?
+[01:48:29.480 --> 01:48:31.480]   And if you are being transformed
+[01:48:31.480 --> 01:48:32.480]   by the will of God,
+[01:48:32.480 --> 01:48:34.480]   then you will be able to prove
+[01:48:34.480 --> 01:48:36.480]   the will of God.
+[01:48:36.480 --> 01:48:38.480]   He doesn't say,
+[01:48:38.480 --> 01:48:40.480]   "Then you will be able to know
+[01:48:40.480 --> 01:48:42.480]   all the will of God."
+[01:48:42.480 --> 01:48:44.480]   He says, "You will be able to test and prove
+[01:48:44.480 --> 01:48:46.480]   the will of God."
+[01:48:46.480 --> 01:48:47.480]   Does that make sense?
+[01:48:47.480 --> 01:48:49.480]   In other words, the filter,
+[01:48:49.480 --> 01:48:51.480]   the sinful filter that's getting in the way,
+[01:48:51.480 --> 01:48:53.480]   sinful paradigm that's getting in the way
+[01:48:53.480 --> 01:48:55.480]   of you being able to discern
+[01:48:55.480 --> 01:48:57.480]   what is right and wrong
+[01:48:57.480 --> 01:48:59.480]   is getting removed,
+[01:49:00.480 --> 01:49:01.480]   right?
+[01:49:01.480 --> 01:49:03.480]   So if your heart and your intentions
+[01:49:03.480 --> 01:49:05.480]   are not being sanctified,
+[01:49:05.480 --> 01:49:07.480]   the way you're looking at Scripture
+[01:49:07.480 --> 01:49:09.480]   is going to come through a sinful lens.
+[01:49:09.480 --> 01:49:11.480]   I can give you a perfect example.
+[01:49:11.480 --> 01:49:13.480]   If you and your wife get in a fight
+[01:49:13.480 --> 01:49:15.480]   and you're angry at her,
+[01:49:15.480 --> 01:49:17.480]   right,
+[01:49:17.480 --> 01:49:19.480]   and she, to you,
+[01:49:19.480 --> 01:49:21.480]   that she's so selfish
+[01:49:21.480 --> 01:49:23.480]   and everything that she says
+[01:49:23.480 --> 01:49:25.480]   is going to sound selfish,
+[01:49:25.480 --> 01:49:27.480]   everything she says is going to sound selfish
+[01:49:27.480 --> 01:49:29.480]   because I'm angry
+[01:49:29.480 --> 01:49:30.480]   and I'm unable to deal with my anger.
+[01:49:30.480 --> 01:49:32.480]   I can't hear.
+[01:49:32.480 --> 01:49:35.480]   You understand what I'm saying?
+[01:49:35.480 --> 01:49:37.480]   I can't hear
+[01:49:37.480 --> 01:49:39.480]   because I'm angry.
+[01:49:39.480 --> 01:49:41.480]   I want to see you a certain way.
+[01:49:41.480 --> 01:49:43.480]   I'm trying to prove to you
+[01:49:43.480 --> 01:49:45.480]   that you're wrong.
+[01:49:45.480 --> 01:49:47.480]   But everything that you say
+[01:49:47.480 --> 01:49:49.480]   is going to be evidence
+[01:49:49.480 --> 01:49:51.480]   for what I want you to be saying.
+[01:49:51.480 --> 01:49:53.480]   And so, so many,
+[01:49:53.480 --> 01:49:55.480]   like if you get in a fight,
+[01:49:55.480 --> 01:49:57.480]   you're fighting over what you're saying,
+[01:49:58.480 --> 01:49:59.480]   you understand what I'm saying?
+[01:49:59.480 --> 01:50:01.480]   You'll get in a fight and you say you said this,
+[01:50:01.480 --> 01:50:03.480]   but I didn't mean that, but you said it.
+[01:50:03.480 --> 01:50:05.480]   I'm just telling you that's not what I meant.
+[01:50:05.480 --> 01:50:07.480]   I don't care what you meant,
+[01:50:07.480 --> 01:50:09.480]   but you said it.
+[01:50:09.480 --> 01:50:11.480]   So you're not trying to get to the truth.
+[01:50:11.480 --> 01:50:13.480]   You're just trying to win an argument.
+[01:50:13.480 --> 01:50:15.480]   In that context, you can't come to the truth
+[01:50:15.480 --> 01:50:17.480]   because you're not looking for truth.
+[01:50:17.480 --> 01:50:19.480]   You're looking for evidence.
+[01:50:19.480 --> 01:50:21.480]   Does that happen in the way we interpret Scripture?
+[01:50:21.480 --> 01:50:23.480]   Yes.
+[01:50:23.480 --> 01:50:25.480]   If your heart and your intention
+[01:50:25.480 --> 01:50:27.480]   is not being dealt with
+[01:50:27.480 --> 01:50:28.480]   and your mind and your heart
+[01:50:28.480 --> 01:50:30.480]   is not being renewed,
+[01:50:30.480 --> 01:50:32.480]   you don't have the tools to be able to discern
+[01:50:32.480 --> 01:50:34.480]   what is God's perfect will.
+[01:50:34.480 --> 01:50:36.480]   That's why sanctification
+[01:50:36.480 --> 01:50:38.480]   must happen internally first.
+[01:50:38.480 --> 01:50:40.480]   Before you figure out,
+[01:50:40.480 --> 01:50:42.480]   should I do this, should I not do this?
+[01:50:42.480 --> 01:50:44.480]   Who are you in that context
+[01:50:44.480 --> 01:50:46.480]   that needs to be sanctified?
+[01:50:46.480 --> 01:50:50.480]   Is this too late?
+[01:50:50.480 --> 01:50:52.480]   Is this going over your head?
+[01:50:52.480 --> 01:50:54.480]   Okay.
+[01:50:54.480 --> 01:50:56.480]   I hope it's sinking in.
+[01:50:57.480 --> 01:50:58.480]   You grow in faith.
+[01:50:58.480 --> 01:51:00.480]   Long for the pure mickle of the Word
+[01:51:00.480 --> 01:51:02.480]   so that by it you may grow
+[01:51:02.480 --> 01:51:04.480]   in respect to salvation.
+[01:51:04.480 --> 01:51:06.480]   Now, I'm going to say something
+[01:51:06.480 --> 01:51:08.480]   because this is a common thing that I hear.
+[01:51:08.480 --> 01:51:10.480]   Training.
+[01:51:10.480 --> 01:51:12.480]   We need discipleship.
+[01:51:12.480 --> 01:51:14.480]   You know what discipleship is?
+[01:51:14.480 --> 01:51:17.480]   Discipleship is getting the Word in you.
+[01:51:17.480 --> 01:51:21.480]   Getting the Word in you is discipleship.
+[01:51:21.480 --> 01:51:23.480]   Now, I can model it.
+[01:51:23.480 --> 01:51:25.480]   I should model it.
+[01:51:25.480 --> 01:51:26.480]   Right?
+[01:51:26.480 --> 01:51:28.480]   But the primary source of your growth
+[01:51:28.480 --> 01:51:31.480]   is getting the Word of God in you.
+[01:51:31.480 --> 01:51:34.480]   Because there's so much attention and time
+[01:51:34.480 --> 01:51:37.480]   given into the structure and relationship,
+[01:51:37.480 --> 01:51:39.480]   finding somebody older,
+[01:51:39.480 --> 01:51:41.480]   somebody with somebody younger,
+[01:51:41.480 --> 01:51:43.480]   an older couple with younger couple.
+[01:51:43.480 --> 01:51:45.480]   All of that stuff, there's nothing wrong with it.
+[01:51:45.480 --> 01:51:47.480]   Those are tools that we can use.
+[01:51:47.480 --> 01:51:49.480]   But the source of true growth
+[01:51:49.480 --> 01:51:51.480]   is always going to be exposure to the Word of God.
+[01:51:51.480 --> 01:51:53.480]   If your heart and intention
+[01:51:54.480 --> 01:51:55.480]   are committed to God,
+[01:51:55.480 --> 01:51:57.480]   all you need is the Word.
+[01:51:57.480 --> 01:51:59.480]   All you need is the Word.
+[01:51:59.480 --> 01:52:01.480]   All you need to know
+[01:52:01.480 --> 01:52:03.480]   is to know which direction to go.
+[01:52:03.480 --> 01:52:05.480]   Right?
+[01:52:05.480 --> 01:52:07.480]   But if you're resistant,
+[01:52:07.480 --> 01:52:09.480]   if you're not surrendered,
+[01:52:09.480 --> 01:52:11.480]   you need to have the perfect temperature,
+[01:52:11.480 --> 01:52:13.480]   you need to have the perfect person,
+[01:52:13.480 --> 01:52:15.480]   the words need to be perfect,
+[01:52:15.480 --> 01:52:17.480]   it needs to be a certain personality,
+[01:52:17.480 --> 01:52:19.480]   you need to connect with that person.
+[01:52:19.480 --> 01:52:21.480]   You know, it needs to be a small group,
+[01:52:21.480 --> 01:52:23.480]   it needs to be people of my age,
+[01:52:23.480 --> 01:52:24.480]   it needs to be people who are married,
+[01:52:24.480 --> 01:52:26.480]   who have children,
+[01:52:26.480 --> 01:52:28.480]   you need to be a middle child too.
+[01:52:28.480 --> 01:52:30.480]   So many things that's required
+[01:52:30.480 --> 01:52:32.480]   to get somebody who is not bending,
+[01:52:32.480 --> 01:52:34.480]   to get them to bend.
+[01:52:34.480 --> 01:52:37.480]   But if somebody's already bent toward God,
+[01:52:37.480 --> 01:52:39.480]   all you need is the Word of God.
+[01:52:39.480 --> 01:52:42.480]   All you need is the Word of God.
+[01:52:42.480 --> 01:52:44.480]   Because they're ready to go,
+[01:52:44.480 --> 01:52:46.480]   they just need direction.
+[01:52:46.480 --> 01:52:48.480]   But so much attention is given
+[01:52:48.480 --> 01:52:50.480]   to the human created structure
+[01:52:51.480 --> 01:52:52.480]   in order for people
+[01:52:52.480 --> 01:52:54.480]   who have not surrendered to God
+[01:52:54.480 --> 01:52:56.480]   to come a little closer.
+[01:52:56.480 --> 01:52:58.480]   But if you are committed to Christ
+[01:52:58.480 --> 01:53:00.480]   and your heart and your intention
+[01:53:00.480 --> 01:53:02.480]   and being renewed by the Word of God,
+[01:53:02.480 --> 01:53:04.480]   you just need somebody
+[01:53:04.480 --> 01:53:06.480]   to open up the Bible to you.
+[01:53:06.480 --> 01:53:08.480]   Now, I'm not knocking all this other stuff.
+[01:53:08.480 --> 01:53:10.480]   Those are tools that we have,
+[01:53:10.480 --> 01:53:12.480]   but that's not the final source
+[01:53:12.480 --> 01:53:14.480]   of spiritual growth.
+[01:53:14.480 --> 01:53:16.480]   And then obviously to be equipped,
+[01:53:16.480 --> 01:53:18.480]   and even this, to be equipped.
+[01:53:18.480 --> 01:53:20.480]   There's a lot of things,
+[01:53:20.480 --> 01:53:21.480]   how to share the Gospel,
+[01:53:21.480 --> 01:53:23.480]   and all of these things
+[01:53:23.480 --> 01:53:25.480]   are very useful tools to have.
+[01:53:25.480 --> 01:53:27.480]   But ultimately, what will equip you
+[01:53:27.480 --> 01:53:29.480]   is God's Word.
+[01:53:29.480 --> 01:53:31.480]   All scripture is inspired by God,
+[01:53:31.480 --> 01:53:33.480]   proper for teaching, reproof,
+[01:53:33.480 --> 01:53:35.480]   correction, training, and righteousness, right?
+[01:53:35.480 --> 01:53:37.480]   So that the man of God may be adequate,
+[01:53:37.480 --> 01:53:39.480]   equipped for every good work.
+[01:53:39.480 --> 01:53:41.480]   What equips you for every good work?
+[01:53:41.480 --> 01:53:43.480]   Older brother?
+[01:53:43.480 --> 01:53:45.480]   Older sister?
+[01:53:45.480 --> 01:53:47.480]   Small group?
+[01:53:47.480 --> 01:53:49.480]   No, Word of God.
+[01:53:49.480 --> 01:53:50.480]   Word of God equips you.
+[01:53:50.480 --> 01:53:52.480]   How does it equip you?
+[01:53:52.480 --> 01:53:56.480]   Because what causes you
+[01:53:56.480 --> 01:53:58.480]   to be the closest to God
+[01:53:58.480 --> 01:54:00.480]   is your best training.
+[01:54:00.480 --> 01:54:03.480]   Because he said he was going to do it, right?
+[01:54:03.480 --> 01:54:05.480]   You get somebody who knows very little
+[01:54:05.480 --> 01:54:07.480]   about the Bible, who's in love with Christ,
+[01:54:07.480 --> 01:54:09.480]   and they for some reason share their testimony,
+[01:54:09.480 --> 01:54:11.480]   and somebody comes to Christ with that person.
+[01:54:11.480 --> 01:54:13.480]   You get somebody who has a PhD in the Bible
+[01:54:13.480 --> 01:54:15.480]   and give you all the arguments that they can give,
+[01:54:15.480 --> 01:54:17.480]   and at the end of the day,
+[01:54:18.480 --> 01:54:19.480]   it's more hardened than ever.
+[01:54:19.480 --> 01:54:23.480]   Until the Holy Spirit is ignited through you,
+[01:54:23.480 --> 01:54:25.480]   what you do is only going to be frustrating.
+[01:54:25.480 --> 01:54:27.480]   So God never,
+[01:54:27.480 --> 01:54:29.480]   God is not waiting for us
+[01:54:29.480 --> 01:54:31.480]   so that we can master our ability
+[01:54:31.480 --> 01:54:33.480]   so he can use us.
+[01:54:33.480 --> 01:54:35.480]   He just said to submit, abide.
+[01:54:35.480 --> 01:54:37.480]   Abide by what?
+[01:54:37.480 --> 01:54:39.480]   Abide his Word, right?
+[01:54:39.480 --> 01:54:42.480]   So if you are abiding in his Word,
+[01:54:42.480 --> 01:54:44.480]   you are the most equipped.
+[01:54:44.480 --> 01:54:46.480]   You are the most equipped.
+[01:54:47.480 --> 01:54:48.480]   You have a PhD.
+[01:54:48.480 --> 01:54:50.480]   Not the guy who's been doing this for 30 years,
+[01:54:50.480 --> 01:54:52.480]   because you have all this knowledge,
+[01:54:52.480 --> 01:54:54.480]   but the one who abides.
+[01:54:54.480 --> 01:54:56.480]   So even if you're a brand new Christian
+[01:54:56.480 --> 01:54:58.480]   who is abiding closer to Christ,
+[01:54:58.480 --> 01:55:00.480]   that person can be more fruitful
+[01:55:00.480 --> 01:55:02.480]   than somebody who's been walking with Christ
+[01:55:02.480 --> 01:55:04.480]   for 30 years and is not abiding.
+[01:55:04.480 --> 01:55:06.480]   Understand?
+[01:55:06.480 --> 01:55:08.480]   Right?
+[01:55:08.480 --> 01:55:11.480]   So I hope our paradigm is being shifted
+[01:55:11.480 --> 01:55:13.480]   by the Word of God,
+[01:55:13.480 --> 01:55:16.480]   because so much of how things are being practiced,
+[01:55:16.480 --> 01:55:18.480]   we suddenly give confidence to man,
+[01:55:18.480 --> 01:55:20.480]   and we take away authority and confidence
+[01:55:20.480 --> 01:55:22.480]   of the Word of God.
+[01:55:22.480 --> 01:55:24.480]   The Word of God is sufficient.
+[01:55:24.480 --> 01:55:26.480]   Sufficient.
+[01:55:26.480 --> 01:55:30.480]   And Joshua, he says,
+[01:55:30.480 --> 01:55:32.480]   "The book of the law shall not depart from your mouth,
+[01:55:32.480 --> 01:55:34.480]   "but you shall meditate day and night
+[01:55:34.480 --> 01:55:36.480]   "so that you may be careful to do
+[01:55:36.480 --> 01:55:38.480]   "according to all that is written in it,
+[01:55:38.480 --> 01:55:40.480]   "for then you will make your way prosperous
+[01:55:40.480 --> 01:55:42.480]   "and then you will have success.
+[01:55:42.480 --> 01:55:44.480]   "Just do what I say," he said.
+[01:55:45.480 --> 01:55:46.480]   So I hope this experience,
+[01:55:46.480 --> 01:55:48.480]   you're a young general who's going to fight
+[01:55:48.480 --> 01:55:50.480]   a fortified city, right,
+[01:55:50.480 --> 01:55:53.480]   with battle-seasoned soldiers
+[01:55:53.480 --> 01:55:56.480]   behind the pronged tower,
+[01:55:56.480 --> 01:55:58.480]   and all you guys have been doing
+[01:55:58.480 --> 01:56:00.480]   was walking 40 years,
+[01:56:00.480 --> 01:56:02.480]   and all the adults who led you in the desert,
+[01:56:02.480 --> 01:56:04.480]   they all died.
+[01:56:04.480 --> 01:56:06.480]   And these young families and young kids
+[01:56:06.480 --> 01:56:08.480]   with a young leader is going to go,
+[01:56:08.480 --> 01:56:10.480]   and all God has to say to them was,
+[01:56:10.480 --> 01:56:12.480]   "Do what I tell you.
+[01:56:12.480 --> 01:56:14.480]   "When I tell you to walk, you walk.
+[01:56:14.480 --> 01:56:15.480]   "When I tell you to pick up the box,
+[01:56:15.480 --> 01:56:17.480]   "you pick up the box.
+[01:56:17.480 --> 01:56:19.480]   "When I tell you to blow the horn, blow the horn.
+[01:56:19.480 --> 01:56:21.480]   "Then when I tell you to blow the horn,
+[01:56:21.480 --> 01:56:23.480]   "you walk in and you just walk in
+[01:56:23.480 --> 01:56:25.480]   "and do exactly what I say."
+[01:56:25.480 --> 01:56:27.480]   None of that has changed today.
+[01:56:27.480 --> 01:56:29.480]   None of that has changed today.
+[01:56:29.480 --> 01:56:31.480]   Whether you're a brand-new Christian,
+[01:56:31.480 --> 01:56:33.480]   you feel like,
+[01:56:33.480 --> 01:56:35.480]   "I don't really know the Bible that well,"
+[01:56:35.480 --> 01:56:37.480]   but what you do know are you abiding.
+[01:56:37.480 --> 01:56:40.480]   All right, I'm not going to read the whole thing,
+[01:56:40.480 --> 01:56:42.480]   but this is a verse that I,
+[01:56:43.480 --> 01:56:44.480]   I'm going to read to myself constantly.
+[01:56:44.480 --> 01:56:46.480]   Actually, I'm going to read it.
+[01:56:46.480 --> 01:56:48.480]   "For as the heavens are higher than the earth,
+[01:56:48.480 --> 01:56:50.480]   "so are my ways higher than your ways,
+[01:56:50.480 --> 01:56:52.480]   "and my thoughts than your thoughts.
+[01:56:52.480 --> 01:56:54.480]   "For as the rain and the snow
+[01:56:54.480 --> 01:56:56.480]   "come down from heaven and do not return there
+[01:56:56.480 --> 01:56:58.480]   "without watering the earth
+[01:56:58.480 --> 01:57:00.480]   "and making it bear and sprout,
+[01:57:00.480 --> 01:57:02.480]   "furnishing feed to the soul and bread to the eater,
+[01:57:02.480 --> 01:57:04.480]   "so will my word be which goes forth from my mouth.
+[01:57:04.480 --> 01:57:06.480]   "It will not return to me empty
+[01:57:06.480 --> 01:57:08.480]   "without accomplishing what I desire
+[01:57:08.480 --> 01:57:10.480]   "and without succeeding in the matter
+[01:57:10.480 --> 01:57:12.480]   "for which I sent it."
+[01:57:12.480 --> 01:57:13.480]   The Word of God is going to do
+[01:57:13.480 --> 01:57:15.480]   what the Word of God is ordained to do.
+[01:57:15.480 --> 01:57:17.480]   It will bear fruit, it will judge,
+[01:57:17.480 --> 01:57:19.480]   it will build, it will tear down,
+[01:57:19.480 --> 01:57:21.480]   whatever He had intended.
+[01:57:21.480 --> 01:57:23.480]   So all He told us to do
+[01:57:23.480 --> 01:57:25.480]   is to teach the Word in season,
+[01:57:25.480 --> 01:57:27.480]   now the season.
+[01:57:27.480 --> 01:57:29.480]   That's what we're committed to.
+[01:57:29.480 --> 01:57:31.480]   Not committed to about the Bible,
+[01:57:31.480 --> 01:57:33.480]   we're not committed to a set of theology,
+[01:57:33.480 --> 01:57:35.480]   we're just committed to the Bible.
+[01:57:35.480 --> 01:57:39.480]   All right, I'm done.
+[01:57:39.480 --> 01:57:41.480]   Final discussion question.
+[01:57:41.480 --> 01:57:42.480]   Between one to 10,
+[01:57:42.480 --> 01:57:44.480]   how well do you think you know the Bible?
+[01:57:44.480 --> 01:57:46.480]   Between one to 10,
+[01:57:46.480 --> 01:57:48.480]   how well do you think you'll be able
+[01:57:48.480 --> 01:57:50.480]   to discern false doctrine?
+[01:57:50.480 --> 01:57:53.480]   I'm not talking about the obvious stuff,
+[01:57:53.480 --> 01:57:55.480]   things that are subtle.
+[01:57:55.480 --> 01:57:58.480]   Obviously, if you're low on number one,
+[01:57:58.480 --> 01:58:00.480]   then you're probably going to be
+[01:58:00.480 --> 01:58:02.480]   low on number two.
+[01:58:02.480 --> 01:58:04.480]   Are there any doctrines you feel convicted about
+[01:58:04.480 --> 01:58:06.480]   but confess that you can't adequately
+[01:58:06.480 --> 01:58:08.480]   defend from the Bible?
+[01:58:08.480 --> 01:58:10.480]   Trinity is probably one of the top ones.
+[01:58:10.480 --> 01:58:11.480]   In my experience with a lot of people.
+[01:58:11.480 --> 01:58:13.480]   Are there any other doctrines
+[01:58:13.480 --> 01:58:15.480]   that you feel like the Bible needs to be,
+[01:58:15.480 --> 01:58:17.480]   church has to be this way?
+[01:58:17.480 --> 01:58:19.480]   Where did you get that from the Bible?
+[01:58:19.480 --> 01:58:21.480]   Can you defend that from the Bible?
+[01:58:21.480 --> 01:58:23.480]   Not about the Bible,
+[01:58:23.480 --> 01:58:25.480]   not something you heard.
+[01:58:25.480 --> 01:58:27.480]   Where did you get that from the Bible?
+[01:58:27.480 --> 01:58:29.480]   When was the last time that the Word of God
+[01:58:29.480 --> 01:58:31.480]   really convicted you in how you viewed God
+[01:58:31.480 --> 01:58:33.480]   or how you ought to live your life
+[01:58:33.480 --> 01:58:35.480]   as a Christian?
+[01:58:35.480 --> 01:58:37.480]   You personally.
+[01:58:37.480 --> 01:58:39.480]   And I'm not talking about
+[01:58:39.480 --> 01:58:40.480]   some book you read
+[01:58:40.480 --> 01:58:42.480]   or somebody else told you.
+[01:58:42.480 --> 01:58:44.480]   Like the Word of God itself
+[01:58:44.480 --> 01:58:46.480]   has convicted you.
+[01:58:46.480 --> 01:58:48.480]   All right, let me pray for us
+[01:58:48.480 --> 01:58:50.480]   and then I'll let you get to your decision.
+[01:58:50.480 --> 01:58:52.480]   Father, we thank you for
+[01:58:52.480 --> 01:58:54.480]   this time.
+[01:58:54.480 --> 01:58:56.480]   We thank you for my brothers and sisters
+[01:58:56.480 --> 01:58:58.480]   in this room.
+[01:58:58.480 --> 01:59:00.480]   We're spread across in the home groups.
+[01:59:00.480 --> 01:59:02.480]   Help us, Lord God,
+[01:59:02.480 --> 01:59:04.480]   to put our full confidence in your Word
+[01:59:04.480 --> 01:59:06.480]   as you told us
+[01:59:06.480 --> 01:59:08.480]   to abide in your Word
+[01:59:08.480 --> 01:59:09.480]   and not to turn from it
+[01:59:09.480 --> 01:59:11.480]   to the left or to the right,
+[01:59:11.480 --> 01:59:13.480]   not to add to it,
+[01:59:13.480 --> 01:59:15.480]   not to take away from it.
+[01:59:15.480 --> 01:59:17.480]   But ultimately, Lord God,
+[01:59:17.480 --> 01:59:19.480]   for the sake of your glory,
+[01:59:19.480 --> 01:59:21.480]   help us to be humble servants,
+[01:59:21.480 --> 01:59:23.480]   Lord God,
+[01:59:23.480 --> 01:59:25.480]   with searching for ignoble things
+[01:59:25.480 --> 01:59:27.480]   in our lives that we may be useful
+[01:59:27.480 --> 01:59:29.480]   for noble things for your kingdom.
+[01:59:29.480 --> 01:59:31.480]   Bless our time of discussion.
+[01:59:31.480 --> 01:59:33.480]   May it be a fruitful,
+[01:59:33.480 --> 01:59:35.480]   open, and honest time.
+[01:59:35.480 --> 01:59:37.480]   In Jesus' name we pray.
+[01:59:37.480 --> 01:59:47.480]   [BLANK_AUDIO]
+
