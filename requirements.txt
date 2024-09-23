@@ -1,5 +1,5 @@
 pre-commit>=3.5.0
-yt-dlp
+yt-dlp>=2024.8.6
 ffmpeg-python
 whispercpp
 faster-whisper
