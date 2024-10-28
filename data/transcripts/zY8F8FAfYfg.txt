@@ -1,0 +1,1389 @@
+
+[00:00:00.000 --> 00:00:02.920]   (soft piano music)
+[00:00:02.920 --> 00:00:05.840]   (soft piano music)
+[00:00:05.840 --> 00:00:08.760]   (soft piano music)
+[00:00:08.760 --> 00:00:11.680]   (soft piano music)
+[00:00:11.680 --> 00:00:14.600]   (soft piano music)
+[00:00:14.600 --> 00:00:17.520]   (soft piano music)
+[00:00:17.520 --> 00:00:25.360]   (soft piano music)
+[00:00:25.360 --> 00:00:33.440]   (soft piano music)
+[00:00:33.440 --> 00:00:41.320]   (soft piano music)
+[00:00:41.360 --> 00:00:44.280]   (soft piano music)
+[00:00:44.280 --> 00:00:55.120]   (soft piano music)
+[00:00:55.120 --> 00:01:02.160]   (soft piano music)
+[00:01:02.160 --> 00:01:09.240]   (soft piano music)
+[00:01:10.120 --> 00:01:13.120]   (soft piano music)
+[00:01:13.120 --> 00:01:24.120]   (soft piano music)
+[00:01:24.120 --> 00:01:31.120]   (soft piano music)
+[00:01:31.120 --> 00:01:39.120]   (soft piano music)
+[00:01:40.000 --> 00:01:43.000]   (soft piano music)
+[00:01:43.000 --> 00:01:52.000]   (soft piano music)
+[00:01:52.000 --> 00:02:00.000]   (soft piano music)
+[00:02:00.000 --> 00:02:07.000]   (soft piano music)
+[00:02:07.880 --> 00:02:10.880]   (soft piano music)
+[00:02:10.880 --> 00:02:21.880]   (soft piano music)
+[00:02:21.880 --> 00:02:28.880]   (soft piano music)
+[00:02:28.880 --> 00:02:36.880]   (soft piano music)
+[00:02:37.760 --> 00:02:40.760]   (soft piano music)
+[00:02:40.760 --> 00:02:46.760]   (soft piano music)
+[00:02:46.760 --> 00:02:52.760]   (soft piano music)
+[00:02:52.760 --> 00:02:58.760]   (soft piano music)
+[00:02:58.760 --> 00:03:06.760]   (soft piano music)
+[00:03:07.640 --> 00:03:10.640]   (soft piano music)
+[00:03:10.640 --> 00:03:21.640]   (soft piano music)
+[00:03:21.640 --> 00:03:30.640]   (soft piano music)
+[00:03:30.640 --> 00:03:36.640]   (soft piano music)
+[00:03:37.520 --> 00:03:40.520]   (soft piano music)
+[00:03:40.520 --> 00:03:45.520]   (soft piano music)
+[00:03:45.520 --> 00:03:49.520]   (soft piano music)
+[00:03:49.520 --> 00:03:53.520]   (soft piano music)
+[00:03:53.520 --> 00:03:57.520]   (soft piano music)
+[00:03:57.520 --> 00:04:01.520]   (soft piano music)
+[00:04:01.520 --> 00:04:05.520]   (soft piano music)
+[00:04:06.520 --> 00:04:09.520]   (soft piano music)
+[00:04:09.520 --> 00:04:13.520]   (soft piano music)
+[00:04:13.520 --> 00:04:17.520]   (soft piano music)
+[00:04:17.520 --> 00:04:21.520]   (soft piano music)
+[00:04:21.520 --> 00:04:25.520]   (soft piano music)
+[00:04:25.520 --> 00:04:29.520]   (soft piano music)
+[00:04:29.520 --> 00:04:33.520]   (soft piano music)
+[00:04:34.520 --> 00:04:37.520]   (soft piano music)
+[00:04:37.520 --> 00:04:41.520]   (soft piano music)
+[00:04:41.520 --> 00:04:47.520]   (soft piano music)
+[00:04:47.520 --> 00:04:51.520]   (soft piano music)
+[00:04:51.520 --> 00:04:55.520]   (soft piano music)
+[00:04:55.520 --> 00:04:59.520]   (soft piano music)
+[00:04:59.520 --> 00:05:03.520]   (soft piano music)
+[00:05:03.520 --> 00:05:06.520]   (soft piano music)
+[00:05:06.520 --> 00:05:10.520]   (soft piano music)
+[00:05:10.520 --> 00:05:14.520]   (soft piano music)
+[00:05:14.520 --> 00:05:18.520]   (soft piano music)
+[00:05:18.520 --> 00:05:22.520]   (soft piano music)
+[00:05:22.520 --> 00:05:26.520]   (soft piano music)
+[00:05:26.520 --> 00:05:30.520]   (soft piano music)
+[00:05:31.520 --> 00:05:34.520]   (soft piano music)
+[00:05:34.520 --> 00:05:38.520]   (soft piano music)
+[00:05:38.520 --> 00:05:42.520]   (soft piano music)
+[00:05:42.520 --> 00:05:46.520]   (soft piano music)
+[00:05:46.520 --> 00:05:50.520]   (soft piano music)
+[00:05:50.520 --> 00:05:54.520]   (soft piano music)
+[00:05:54.520 --> 00:05:58.520]   (soft piano music)
+[00:05:59.520 --> 00:06:02.520]   (soft piano music)
+[00:06:02.520 --> 00:06:06.520]   (soft piano music)
+[00:06:06.520 --> 00:06:10.520]   (soft piano music)
+[00:06:10.520 --> 00:06:14.520]   (soft piano music)
+[00:06:14.520 --> 00:06:18.520]   (soft piano music)
+[00:06:18.520 --> 00:06:22.520]   (soft piano music)
+[00:06:22.520 --> 00:06:26.520]   (soft piano music)
+[00:06:27.520 --> 00:06:30.520]   (soft piano music)
+[00:06:30.520 --> 00:06:34.520]   (soft piano music)
+[00:06:34.520 --> 00:06:38.520]   (soft piano music)
+[00:06:38.520 --> 00:06:42.520]   (soft piano music)
+[00:06:42.520 --> 00:06:46.520]   (soft piano music)
+[00:06:46.520 --> 00:06:50.520]   (soft piano music)
+[00:06:50.520 --> 00:06:54.520]   (soft piano music)
+[00:06:55.520 --> 00:06:58.520]   (soft piano music)
+[00:06:58.520 --> 00:07:02.520]   (soft piano music)
+[00:07:02.520 --> 00:07:06.520]   (soft piano music)
+[00:07:06.520 --> 00:07:10.520]   (soft piano music)
+[00:07:10.520 --> 00:07:14.520]   (soft piano music)
+[00:07:14.520 --> 00:07:18.520]   (soft piano music)
+[00:07:18.520 --> 00:07:22.520]   (soft piano music)
+[00:07:23.520 --> 00:07:26.520]   (soft piano music)
+[00:07:26.520 --> 00:07:30.520]   (soft piano music)
+[00:07:30.520 --> 00:07:34.520]   (soft piano music)
+[00:07:34.520 --> 00:07:38.520]   (soft piano music)
+[00:07:38.520 --> 00:07:42.520]   (soft piano music)
+[00:07:42.520 --> 00:07:46.520]   (soft piano music)
+[00:07:46.520 --> 00:07:50.520]   (soft piano music)
+[00:07:51.520 --> 00:07:54.520]   (soft piano music)
+[00:07:54.520 --> 00:07:58.520]   (soft piano music)
+[00:07:58.520 --> 00:08:02.520]   (soft piano music)
+[00:08:02.520 --> 00:08:06.520]   (soft piano music)
+[00:08:06.520 --> 00:08:10.520]   (soft piano music)
+[00:08:10.520 --> 00:08:14.520]   (soft piano music)
+[00:08:14.520 --> 00:08:18.520]   (soft piano music)
+[00:08:19.520 --> 00:08:22.520]   (soft piano music)
+[00:08:22.520 --> 00:08:26.520]   (soft piano music)
+[00:08:26.520 --> 00:08:30.520]   (soft piano music)
+[00:08:30.520 --> 00:08:34.520]   (soft piano music)
+[00:08:34.520 --> 00:08:38.520]   (soft piano music)
+[00:08:38.520 --> 00:08:42.520]   (soft piano music)
+[00:08:42.520 --> 00:08:46.520]   (soft piano music)
+[00:08:47.520 --> 00:08:50.520]   (soft piano music)
+[00:08:50.520 --> 00:08:54.520]   (soft piano music)
+[00:08:54.520 --> 00:08:58.520]   (soft piano music)
+[00:08:58.520 --> 00:09:02.520]   (soft piano music)
+[00:09:02.520 --> 00:09:06.520]   (soft piano music)
+[00:09:06.520 --> 00:09:10.520]   (soft piano music)
+[00:09:10.520 --> 00:09:14.520]   (soft piano music)
+[00:09:15.520 --> 00:09:18.520]   (soft piano music)
+[00:09:18.520 --> 00:09:22.520]   (soft piano music)
+[00:09:22.520 --> 00:09:26.520]   (soft piano music)
+[00:09:26.520 --> 00:09:30.520]   (soft piano music)
+[00:09:30.520 --> 00:09:34.520]   (soft piano music)
+[00:09:34.520 --> 00:09:38.520]   (soft piano music)
+[00:09:38.520 --> 00:09:42.520]   (soft piano music)
+[00:09:43.520 --> 00:09:46.520]   (soft piano music)
+[00:09:46.520 --> 00:09:50.520]   (soft piano music)
+[00:09:50.520 --> 00:09:54.520]   (soft piano music)
+[00:09:54.520 --> 00:09:58.520]   (soft piano music)
+[00:09:58.520 --> 00:10:02.520]   (soft piano music)
+[00:10:02.520 --> 00:10:06.520]   (soft piano music)
+[00:10:06.520 --> 00:10:10.520]   (soft piano music)
+[00:10:11.520 --> 00:10:14.520]   (soft piano music)
+[00:10:14.520 --> 00:10:18.520]   (soft piano music)
+[00:10:18.520 --> 00:10:22.520]   (soft piano music)
+[00:10:22.520 --> 00:10:26.520]   (soft piano music)
+[00:10:26.520 --> 00:10:30.520]   (soft piano music)
+[00:10:30.520 --> 00:10:34.520]   (soft piano music)
+[00:10:34.520 --> 00:10:38.520]   (soft piano music)
+[00:10:39.520 --> 00:10:42.520]   (soft piano music)
+[00:10:42.520 --> 00:10:46.520]   (soft piano music)
+[00:10:46.520 --> 00:10:50.520]   - All right.
+[00:10:50.520 --> 00:10:53.520]   Good evening, everyone.
+[00:10:53.520 --> 00:10:56.520]   Welcome to Praise and Prayer.
+[00:10:56.520 --> 00:10:58.520]   We're going to be doing something,
+[00:10:58.520 --> 00:10:59.520]   like every once in a while,
+[00:10:59.520 --> 00:11:01.520]   we will kind of change it up
+[00:11:01.520 --> 00:11:04.520]   just to make sure that our prayer
+[00:11:04.520 --> 00:11:06.520]   and all of this, we're staying engaged.
+[00:11:06.520 --> 00:11:08.520]   And so something we're gonna be doing tonight,
+[00:11:08.520 --> 00:11:09.520]   we haven't done this in,
+[00:11:09.520 --> 00:11:11.520]   I feel like it's been a year or two,
+[00:11:11.520 --> 00:11:13.520]   but we are going to be spending some time
+[00:11:13.520 --> 00:11:14.520]   looking through something
+[00:11:14.520 --> 00:11:16.520]   and kind of filling some stuff out
+[00:11:16.520 --> 00:11:18.520]   in order to be able to help jog
+[00:11:18.520 --> 00:11:22.520]   our thought process, our examination of heart,
+[00:11:22.520 --> 00:11:25.520]   and then we'll follow that with some prayer.
+[00:11:25.520 --> 00:11:27.520]   But before we begin,
+[00:11:27.520 --> 00:11:30.520]   if I could ask you to bow your heads with me.
+[00:11:30.520 --> 00:11:34.520]   I'll give you a quick moment to prepare your hearts
+[00:11:34.520 --> 00:11:37.520]   and to lay down whatever you need to before the Lord
+[00:11:37.520 --> 00:11:41.520]   to come into praising Him with a proper surrendered heart.
+[00:11:41.520 --> 00:11:44.520]   And then I'll open us up in prayer after a moment.
+[00:11:44.520 --> 00:12:13.520]   (silence)
+[00:12:13.520 --> 00:12:23.520]   (silence)
+[00:12:23.520 --> 00:12:27.520]   Holy God, as we come before you to engage with you,
+[00:12:27.520 --> 00:12:29.520]   I pray, Lord, that we would come
+[00:12:29.520 --> 00:12:31.520]   with the proper fear and reverence,
+[00:12:31.520 --> 00:12:35.520]   but God, also remembering that you beckon us to come.
+[00:12:35.520 --> 00:12:39.520]   You desire an intimate relationship with us.
+[00:12:39.520 --> 00:12:41.520]   And so, Lord, I pray that you would help us
+[00:12:41.520 --> 00:12:43.520]   as we sing these songs,
+[00:12:43.520 --> 00:12:45.520]   as we spend time praying to you.
+[00:12:45.520 --> 00:12:47.520]   That it wouldn't be done flippantly,
+[00:12:47.520 --> 00:12:49.520]   but God, it would be filled with joy and hope
+[00:12:49.520 --> 00:12:54.520]   and a desire, Father, for a heart that yearns for you.
+[00:12:54.520 --> 00:12:57.520]   I pray, God, that our love for you
+[00:12:57.520 --> 00:12:58.520]   would flow into our prayers.
+[00:12:58.520 --> 00:13:00.520]   I pray, God, that you'd be pleased.
+[00:13:00.520 --> 00:13:02.520]   In Jesus' name I pray, amen.
+[00:13:02.520 --> 00:13:16.520]   Let us all rise as we sing these songs.
+[00:13:16.520 --> 00:13:18.520]   Let's sing "What Can Wash."
+[00:13:18.520 --> 00:13:24.520]   What can wash away our sins?
+[00:13:24.520 --> 00:13:30.520]   What can make us whole again?
+[00:13:30.520 --> 00:13:33.520]   Nothing but the blood,
+[00:13:33.520 --> 00:13:42.520]   nothing but the blood of Jesus.
+[00:13:42.520 --> 00:13:48.520]   What can wash us pure as snow?
+[00:13:48.520 --> 00:13:54.520]   What comes as the friends of God?
+[00:13:54.520 --> 00:14:10.520]   Nothing but your blood, nothing but your blood, King Jesus.
+[00:14:10.520 --> 00:14:16.520]   Your blood, your blood speaks a better word.
+[00:14:16.520 --> 00:14:22.520]   All the empty prayers occur upon this earth.
+[00:14:22.520 --> 00:14:28.520]   His righteousness for me stands above the facts.
+[00:14:28.520 --> 00:14:33.520]   Jesus, it's your blood.
+[00:14:33.520 --> 00:14:35.520]   It's in your blood.
+[00:14:35.520 --> 00:14:40.520]   Your blood speaks a better word.
+[00:14:40.520 --> 00:14:46.520]   All the empty prayers occur upon this earth.
+[00:14:46.520 --> 00:14:52.520]   His righteousness for me stands above the facts.
+[00:14:52.520 --> 00:14:57.520]   Jesus, it's your blood.
+[00:14:57.520 --> 00:15:00.520]   What can wash?
+[00:15:00.520 --> 00:15:06.520]   What can wash away our sins?
+[00:15:06.520 --> 00:15:12.520]   What can make us whole again?
+[00:15:12.520 --> 00:15:15.520]   Nothing but the blood,
+[00:15:15.520 --> 00:15:24.520]   nothing but the blood of Jesus.
+[00:15:24.520 --> 00:15:30.520]   What can wash us pure as snow?
+[00:15:30.520 --> 00:15:36.520]   What comes as the friends of God?
+[00:15:36.520 --> 00:15:46.520]   Nothing but your blood, nothing but your blood, King Jesus.
+[00:15:46.520 --> 00:15:52.520]   Your cross, your cross testifies a grace
+[00:15:52.520 --> 00:15:55.520]   to preserve a father's heart.
+[00:15:55.520 --> 00:15:58.520]   You can't go with no one else.
+[00:15:58.520 --> 00:16:01.520]   Only we go alone.
+[00:16:01.520 --> 00:16:09.520]   Our perfect confidence is only by your blood.
+[00:16:09.520 --> 00:16:12.520]   What can wash?
+[00:16:12.520 --> 00:16:18.520]   What can wash away our sins?
+[00:16:18.520 --> 00:16:24.520]   What can make us whole again?
+[00:16:24.520 --> 00:16:27.520]   Nothing but the blood,
+[00:16:27.520 --> 00:16:36.520]   nothing but the blood of Jesus.
+[00:16:36.520 --> 00:16:42.520]   What can wash us pure as snow?
+[00:16:42.520 --> 00:16:48.520]   What comes as the friends of God?
+[00:16:48.520 --> 00:16:57.520]   Nothing but your blood, nothing but your blood, King Jesus.
+[00:16:57.520 --> 00:17:00.520]   What can wash us pure?
+[00:17:00.520 --> 00:17:06.520]   What can wash us pure as snow?
+[00:17:06.520 --> 00:17:12.520]   What comes as the friends of God?
+[00:17:12.520 --> 00:17:22.520]   Nothing but your blood, nothing but your blood, King Jesus.
+[00:17:22.520 --> 00:17:35.520]   My heart is cold.
+[00:17:35.520 --> 00:17:38.520]   My heart is cold in my face.
+[00:17:38.520 --> 00:17:48.520]   I think I wonder if God is in pursuit of me.
+[00:17:48.520 --> 00:17:51.520]   And before the world was green,
+[00:17:51.520 --> 00:17:54.520]   He had chosen to redeem me.
+[00:17:54.520 --> 00:17:57.520]   Lord, you love me.
+[00:17:57.520 --> 00:18:00.520]   Lord, you love me.
+[00:18:00.520 --> 00:18:03.520]   I know you are worthy.
+[00:18:03.520 --> 00:18:12.520]   All things, all things for your glory and my good.
+[00:18:12.520 --> 00:18:18.520]   Lord, you will accomplish everything you promised.
+[00:18:18.520 --> 00:18:23.520]   All things for your glory and my good.
+[00:18:28.520 --> 00:18:33.520]   Lord, everything is mine.
+[00:18:33.520 --> 00:18:38.520]   The clouds have all decided to defend me.
+[00:18:38.520 --> 00:18:46.520]   When the world ends in darkness,
+[00:18:46.520 --> 00:18:49.520]   then we'll hear the way of darkness.
+[00:18:49.520 --> 00:18:52.520]   You are with me.
+[00:18:52.520 --> 00:18:54.520]   You are with me.
+[00:18:54.520 --> 00:18:57.520]   I know you are worthy.
+[00:18:57.520 --> 00:18:59.520]   You are worthy.
+[00:18:59.520 --> 00:19:07.520]   All things, all things for your glory and my good.
+[00:19:07.520 --> 00:19:14.520]   Lord, you will accomplish everything you promised.
+[00:19:14.520 --> 00:19:19.520]   All things for your glory and my good.
+[00:19:19.520 --> 00:19:24.520]   All things for your glory and my good.
+[00:19:24.520 --> 00:19:30.520]   All things for your glory and my good.
+[00:19:30.520 --> 00:19:34.520]   Until the day, until the day of power,
+[00:19:34.520 --> 00:19:37.520]   or I reach my final hour,
+[00:19:37.520 --> 00:19:40.520]   you will keep me.
+[00:19:40.520 --> 00:19:47.520]   You're the author of my story.
+[00:19:47.520 --> 00:19:50.520]   You are faithful, you are worthy.
+[00:19:50.520 --> 00:19:53.520]   I will praise you.
+[00:19:53.520 --> 00:19:56.520]   I will praise you.
+[00:19:56.520 --> 00:19:59.520]   I know you are worthy.
+[00:19:59.520 --> 00:20:01.520]   You are worthy.
+[00:20:01.520 --> 00:20:09.520]   All things, all things for your glory and my good.
+[00:20:09.520 --> 00:20:15.520]   Lord, you will accomplish everything you promised.
+[00:20:15.520 --> 00:20:21.520]   All things for your glory and my good.
+[00:20:21.520 --> 00:20:25.520]   I know you, I know you are worthy.
+[00:20:25.520 --> 00:20:27.520]   You are worthy.
+[00:20:27.520 --> 00:20:35.520]   All things, all things for your glory and my good.
+[00:20:35.520 --> 00:20:41.520]   Lord, you will accomplish everything you promised.
+[00:20:41.520 --> 00:20:47.520]   All things for your glory and my good.
+[00:20:47.520 --> 00:20:54.520]   All things for your glory and my good.
+[00:20:54.520 --> 00:21:06.520]   Okay.
+[00:21:06.520 --> 00:21:11.520]   Well, we do praise and prayer once a month.
+[00:21:11.520 --> 00:21:15.520]   This is actually probably going to be our last praise and prayer
+[00:21:15.520 --> 00:21:18.520]   for the remainder of the year as November, December,
+[00:21:18.520 --> 00:21:21.520]   we'll be taking those off with the holidays approaching.
+[00:21:21.520 --> 00:21:23.520]   And as you've known,
+[00:21:23.520 --> 00:21:27.520]   we've been having prayer as our main theme for the last four years.
+[00:21:27.520 --> 00:21:31.520]   And moving forward, I don't know if that's going to change.
+[00:21:31.520 --> 00:21:34.520]   I think we're going to continue to focus on this idea of prayer.
+[00:21:34.520 --> 00:21:42.520]   Now prayer is such a tricky thing because sometimes it's like the more we try to structure,
+[00:21:42.520 --> 00:21:48.520]   the more we try to schedule, it has a possibility of backfiring.
+[00:21:48.520 --> 00:21:52.520]   And so when we come to places like this,
+[00:21:52.520 --> 00:22:00.520]   we have to remember that the prayer that we're engaging in needs to be flowing
+[00:22:00.520 --> 00:22:02.520]   and stemming out of a life of prayer.
+[00:22:02.520 --> 00:22:07.520]   If we have not been praying, if we have not been praying in our closets,
+[00:22:07.520 --> 00:22:10.520]   praying on our own, if we have not been praying with each other,
+[00:22:10.520 --> 00:22:14.520]   and this is just going to be one of those unique times where we spend extra time in prayer,
+[00:22:14.520 --> 00:22:19.520]   hopefully our desires moving forward, again,
+[00:22:19.520 --> 00:22:23.520]   it's not out of guilt to say like I have to create another checkbox that needs to be marked day after day,
+[00:22:23.520 --> 00:22:28.520]   but that our desires would awaken and our desire to commune with the Lord will be great.
+[00:22:28.520 --> 00:22:35.520]   Okay, well it seems like, okay, are we going to be okay?
+[00:22:35.520 --> 00:22:37.520]   I don't know if I printed out enough of those papers.
+[00:22:37.520 --> 00:22:39.520]   There should have been some papers around.
+[00:22:39.520 --> 00:22:42.520]   If there are people around you who don't have it,
+[00:22:42.520 --> 00:22:47.520]   maybe you can kind of take a snapshot of that paper that was sitting on your chair,
+[00:22:47.520 --> 00:22:51.520]   or someone else's chair maybe, so that you at least have something in front of you.
+[00:22:51.520 --> 00:22:54.520]   So I don't know if the papers made it into the cry room,
+[00:22:54.520 --> 00:22:58.520]   but if some papers have, oh, thank you, Andrew.
+[00:22:58.520 --> 00:23:01.520]   So if the papers have, you guys can kind of take a photo of it.
+[00:23:01.520 --> 00:23:03.520]   If you have your own pens, great.
+[00:23:03.520 --> 00:23:05.520]   If not, you can kind of look at it.
+[00:23:05.520 --> 00:23:06.520]   You don't have to write anything down.
+[00:23:06.520 --> 00:23:10.520]   But we are going to be taking a moment tonight to pen down some thoughts.
+[00:23:10.520 --> 00:23:15.520]   All right, so if you could turn with me to Ephesians chapter 5,
+[00:23:15.520 --> 00:23:28.520]   and it would be helpful to actually turn to the passage, Ephesians chapter 5.
+[00:23:28.520 --> 00:23:32.520]   Because of the size of the font, the PowerPoints are going to move a little bit faster.
+[00:23:32.520 --> 00:23:34.520]   But keep this open tonight.
+[00:23:34.520 --> 00:23:39.520]   Keep this open tonight so that you can reference it.
+[00:23:39.520 --> 00:23:44.520]   And it's okay, even in prayer, to open your eyes, to go back into the text,
+[00:23:44.520 --> 00:23:48.520]   to look again, and to go back into prayer.
+[00:23:48.520 --> 00:23:51.520]   So it says in Ephesians chapter 5, verse 1 and 2,
+[00:23:51.520 --> 00:23:54.520]   "Therefore be imitators of God as beloved children,
+[00:23:54.520 --> 00:23:59.520]   and walk in love just as Christ also loved you and gave himself up for us,
+[00:23:59.520 --> 00:24:04.520]   an offering and a sacrifice to God as a fragrant aroma."
+[00:24:04.520 --> 00:24:07.520]   Now Ephesians is broken in six chapters.
+[00:24:07.520 --> 00:24:11.520]   Chapters 1 through 3 has plenty of indicatives.
+[00:24:11.520 --> 00:24:14.520]   And starting from chapter 4, you get a lot of the imperatives.
+[00:24:14.520 --> 00:24:18.520]   So there's a lot of truths and promises that are given up front.
+[00:24:18.520 --> 00:24:23.520]   And chapter 4, 5, and 6 are filled with now how are we called to live as a result.
+[00:24:23.520 --> 00:24:28.520]   And so chapter 5 is a continuation of chapter 4
+[00:24:28.520 --> 00:24:31.520]   that has been telling you how to live as a Christian,
+[00:24:31.520 --> 00:24:33.520]   what it looks like to live as a Christian.
+[00:24:33.520 --> 00:24:36.520]   That is to put away the old and to put on the new.
+[00:24:36.520 --> 00:24:39.520]   And so it's given a lot of instructions.
+[00:24:39.520 --> 00:24:45.520]   And it says, chapter 5, verse 1 here, "Therefore be imitators of God."
+[00:24:45.520 --> 00:24:48.520]   Because what Paul is doing is he's reminding his people,
+[00:24:48.520 --> 00:24:51.520]   he's reminding God's people that at the end of this day,
+[00:24:51.520 --> 00:24:56.520]   it's not again a list of things that you are called to robotically and dutifully follow,
+[00:24:56.520 --> 00:25:00.520]   but that there is some imitation that happens here.
+[00:25:00.520 --> 00:25:09.520]   And if imitation is the call, if imitation is kind of the thing that Paul is calling on the church to have,
+[00:25:09.520 --> 00:25:13.520]   then what comes first is to see God.
+[00:25:13.520 --> 00:25:17.520]   So in order to imitate, we need to see the original.
+[00:25:17.520 --> 00:25:20.520]   And so that's what he starts this part off with in chapter 5.
+[00:25:20.520 --> 00:25:22.520]   Imitate God.
+[00:25:22.520 --> 00:25:26.520]   To imitate God means that we need to know who he is.
+[00:25:26.520 --> 00:25:31.520]   And so we're not able to, in a place where we're seeing him and imitating him,
+[00:25:31.520 --> 00:25:36.520]   to hijack and take control of what it means to live a Christian life.
+[00:25:36.520 --> 00:25:40.520]   To live a Christian life means to actually live in a godly manner.
+[00:25:40.520 --> 00:25:43.520]   To be the way God is.
+[00:25:43.520 --> 00:25:48.520]   These ideas of be perfect as God is perfect, be holy as God is holy,
+[00:25:48.520 --> 00:25:54.520]   is this idea that is given to us as an example set in imitation that is being called for in us.
+[00:25:54.520 --> 00:25:59.520]   So we have to see God for all of who he is.
+[00:25:59.520 --> 00:26:04.520]   And so if we just look at this text and go, "Okay, I'll try to imitate God,"
+[00:26:04.520 --> 00:26:08.520]   then we'll do our very best of whatever image of God that we have,
+[00:26:08.520 --> 00:26:12.520]   but unless we're regularly walking with God in communion,
+[00:26:12.520 --> 00:26:15.520]   with him in his word, with him in prayer,
+[00:26:15.520 --> 00:26:20.520]   we're just going to have a shape, we're just going to have an outline or shadow of who God is.
+[00:26:20.520 --> 00:26:23.520]   And so we might have some truths floating around,
+[00:26:23.520 --> 00:26:29.520]   but the heaviness and weightiness of everything that God is and all his holiness
+[00:26:29.520 --> 00:26:33.520]   and everything that that kind of produces and gratitude that comes
+[00:26:33.520 --> 00:26:37.520]   when we see his love and his grace and his kindness towards us,
+[00:26:37.520 --> 00:26:42.520]   we will not be able to imitate God unless we're properly seeing him.
+[00:26:42.520 --> 00:26:49.520]   This idea of becoming what we behold is something that theologians have talked about for many, many years.
+[00:26:49.520 --> 00:26:56.520]   That unless we're actually seeing God, there's going to be something else taking that place.
+[00:26:56.520 --> 00:26:59.520]   So what is that image for us?
+[00:26:59.520 --> 00:27:02.520]   It could be an image of what we think a Christian is supposed to look like
+[00:27:02.520 --> 00:27:05.520]   or what a Christian culture has given to us
+[00:27:05.520 --> 00:27:09.520]   or what it is at a certain point in time that I'm just kind of reading this part of scripture
+[00:27:09.520 --> 00:27:11.520]   that kind of encouraged my heart.
+[00:27:11.520 --> 00:27:19.520]   But all of who God is, we have to see God because he calls us here to imitate God.
+[00:27:19.520 --> 00:27:24.520]   Next year, it's not only just God, but he kind of zooms in in verse 2.
+[00:27:24.520 --> 00:27:30.520]   He says, "Just as Christ also loved you and gave himself up for us."
+[00:27:30.520 --> 00:27:33.520]   So it's this call to see Christ.
+[00:27:33.520 --> 00:27:41.520]   So in seeing God, seeing Christ, it's very easy to kind of separate that and put that back together.
+[00:27:41.520 --> 00:27:45.520]   And there is some of that that is required of us.
+[00:27:45.520 --> 00:27:50.520]   He says, "Walk in love just as Christ also loved."
+[00:27:50.520 --> 00:27:55.520]   And so very specifically, Christ is the very image of God.
+[00:27:55.520 --> 00:28:02.520]   Christ comes down into the world and he, in his incarnation, shows us who he is.
+[00:28:02.520 --> 00:28:06.520]   God walks amongst us.
+[00:28:06.520 --> 00:28:10.520]   And so it's not a God simply high and lifted up,
+[00:28:10.520 --> 00:28:17.520]   a God who is simply just content and satisfied sitting at heaven's heights on his throne.
+[00:28:17.520 --> 00:28:23.520]   The image of God that we're supposed to have is one who in his lofty and holy state,
+[00:28:23.520 --> 00:28:27.520]   in his state being set apart from all of creation,
+[00:28:27.520 --> 00:28:33.520]   would have a love that is so great that he would come into the world,
+[00:28:33.520 --> 00:28:35.520]   walk amongst the people,
+[00:28:35.520 --> 00:28:38.520]   touch the dust of creation,
+[00:28:38.520 --> 00:28:42.520]   and to give himself for us.
+[00:28:42.520 --> 00:28:46.520]   So seeing God actually means we need to see Christ.
+[00:28:46.520 --> 00:28:52.520]   And so all of what we're going to see after this passage now is going to be coming and stemming.
+[00:28:52.520 --> 00:28:56.520]   It's anchored around these two verses.
+[00:28:56.520 --> 00:28:59.520]   And so there is a third part here.
+[00:28:59.520 --> 00:29:04.520]   We're called to then see ourselves.
+[00:29:04.520 --> 00:29:07.520]   This is the only proper time,
+[00:29:07.520 --> 00:29:11.520]   the only appropriate way that we can see ourselves.
+[00:29:11.520 --> 00:29:15.520]   This world tries to tell you what you ought to feel about yourself,
+[00:29:15.520 --> 00:29:17.520]   how you ought to see yourself,
+[00:29:17.520 --> 00:29:23.520]   that there is value and worth and all of these kinds of things.
+[00:29:23.520 --> 00:29:25.520]   We'll try to compare our sins with others.
+[00:29:25.520 --> 00:29:28.520]   We'll try to compare our good works with others.
+[00:29:28.520 --> 00:29:32.520]   And all of it is going to be inappropriate
+[00:29:32.520 --> 00:29:36.520]   unless our eyes are locked squarely on the Lord.
+[00:29:36.520 --> 00:29:38.520]   But if we see God in all of his holiness,
+[00:29:38.520 --> 00:29:41.520]   if we see Christ in all of his love for us,
+[00:29:41.520 --> 00:29:44.520]   then we're going to see very clearly,
+[00:29:44.520 --> 00:29:47.520]   if you are a Christian sitting in this room,
+[00:29:47.520 --> 00:29:52.520]   the greatest comfort that just changes everything about your life.
+[00:29:52.520 --> 00:29:56.520]   And he says, he calls us beloved children.
+[00:29:56.520 --> 00:29:58.520]   And before we go into all the imperatives
+[00:29:58.520 --> 00:30:00.520]   that we're going to just kind of knock out,
+[00:30:00.520 --> 00:30:01.520]   and I'm not going to be teaching.
+[00:30:01.520 --> 00:30:03.520]   I'm just going to be teaching on this portion here.
+[00:30:03.520 --> 00:30:06.520]   And everything else, I'm just going to be reading it out.
+[00:30:06.520 --> 00:30:08.520]   But before we go into it,
+[00:30:08.520 --> 00:30:12.520]   I want to remind you that if you are a Christian,
+[00:30:12.520 --> 00:30:16.520]   that you need to pray to God as your father,
+[00:30:16.520 --> 00:30:18.520]   a father who loves you,
+[00:30:18.520 --> 00:30:21.520]   a father who cares about you.
+[00:30:21.520 --> 00:30:24.520]   I think too often it is easy for us
+[00:30:24.520 --> 00:30:29.520]   to kind of see our shortcomings and our weaknesses.
+[00:30:29.520 --> 00:30:35.520]   And it's very, very simple for us to run off of guilt and duty.
+[00:30:35.520 --> 00:30:39.520]   But he calls us here to see God, to see Christ,
+[00:30:39.520 --> 00:30:44.520]   and he wants to tell us that you are beloved children.
+[00:30:44.520 --> 00:30:46.520]   That he wants you to cry out to him
+[00:30:46.520 --> 00:30:50.520]   as a child would cry out to his father.
+[00:30:50.520 --> 00:30:56.520]   So prayer tonight, I hope that it feels like that.
+[00:30:56.520 --> 00:31:01.520]   He is holy God who created all things.
+[00:31:01.520 --> 00:31:05.520]   He has set apart and he is otherly.
+[00:31:05.520 --> 00:31:08.520]   But he has ushered us into his kingdom.
+[00:31:08.520 --> 00:31:10.520]   He has adopted us as his own.
+[00:31:10.520 --> 00:31:13.520]   And so a lot of this passage, if you go to the next slide here,
+[00:31:13.520 --> 00:31:16.520]   he even tells us that he loved you, he gave himself up.
+[00:31:16.520 --> 00:31:20.520]   Jesus gave himself up for us.
+[00:31:20.520 --> 00:31:22.520]   That it's not just a small love,
+[00:31:22.520 --> 00:31:25.520]   that he felt some kind of pity and compassion.
+[00:31:25.520 --> 00:31:29.520]   He loved us so much that he would give his only begotten son
+[00:31:29.520 --> 00:31:33.520]   to purchase us.
+[00:31:33.520 --> 00:31:36.520]   So try to, sometime in the night,
+[00:31:36.520 --> 00:31:39.520]   I'm going to give you 20 minutes of a chunk of prayer
+[00:31:39.520 --> 00:31:42.520]   after we go through the rest of this passage here.
+[00:31:42.520 --> 00:31:47.520]   If you need to, come back and it's okay to cycle through the passage
+[00:31:47.520 --> 00:31:49.520]   every once in a while.
+[00:31:49.520 --> 00:31:52.520]   To remember how it is that we ought to pray.
+[00:31:52.520 --> 00:31:53.520]   Okay.
+[00:31:53.520 --> 00:31:57.520]   If we go to the next slide here.
+[00:31:57.520 --> 00:31:58.520]   Let's read.
+[00:31:58.520 --> 00:32:00.520]   It says in verse 3, "But immorality or any impurity or greed
+[00:32:00.520 --> 00:32:04.520]   must not even be named among you, as is proper among saints.
+[00:32:04.520 --> 00:32:07.520]   And there must be no filthiness and silly talk or coarse jesting,
+[00:32:07.520 --> 00:32:11.520]   which are not fitting, but rather giving of thanks.
+[00:32:11.520 --> 00:32:14.520]   For this you know with certainty, that no immoral or impure person
+[00:32:14.520 --> 00:32:17.520]   or covetous man who is an idolater has an inheritance
+[00:32:17.520 --> 00:32:22.520]   in the kingdom of Christ and God."
+[00:32:22.520 --> 00:32:26.520]   Continuing in verse 6, "Let no one deceive you with empty words.
+[00:32:26.520 --> 00:32:28.520]   For because of these things, the wrath of God comes upon
+[00:32:28.520 --> 00:32:30.520]   the sons of disobedience."
+[00:32:30.520 --> 00:32:33.520]   And notice how he uses the word "sons" here.
+[00:32:33.520 --> 00:32:35.520]   He's talking about the sons of disobedience,
+[00:32:35.520 --> 00:32:37.520]   not his adopted children.
+[00:32:37.520 --> 00:32:39.520]   These are different people.
+[00:32:39.520 --> 00:32:42.520]   And so verse 7 says, "Therefore do not be partakers with them.
+[00:32:42.520 --> 00:32:46.520]   For you were formerly darkness, but now you are light in the Lord.
+[00:32:46.520 --> 00:32:49.520]   Walk as children of light, for the fruit of the light consists
+[00:32:49.520 --> 00:32:52.520]   in all goodness and righteousness and truth.
+[00:32:52.520 --> 00:32:54.520]   Trying to learn what is pleasing to the Lord.
+[00:32:54.520 --> 00:32:58.520]   Do not participate in the unfruitful deeds of darkness,
+[00:32:58.520 --> 00:33:01.520]   but instead even expose them.
+[00:33:01.520 --> 00:33:03.520]   For it is disgraceful even to speak of the things
+[00:33:03.520 --> 00:33:05.520]   which are done by them in secret.
+[00:33:05.520 --> 00:33:08.520]   But all things become visible when they are exposed by the light.
+[00:33:08.520 --> 00:33:12.520]   For everything that becomes visible is light."
+[00:33:12.520 --> 00:33:14.520]   So when you look at these two slides,
+[00:33:14.520 --> 00:33:18.520]   you're going to see, again, a litany, a list of things.
+[00:33:18.520 --> 00:33:20.520]   And as you look at each of these things,
+[00:33:20.520 --> 00:33:25.520]   we have to take proper care to look at each element.
+[00:33:25.520 --> 00:33:28.520]   This is a good list to pray through.
+[00:33:28.520 --> 00:33:33.520]   This is a good list to use to scrutinize and examine our own hearts.
+[00:33:33.520 --> 00:33:37.520]   If we are indeed children of God, beloved children,
+[00:33:37.520 --> 00:33:41.520]   and we know who he is, and we're seeing him,
+[00:33:41.520 --> 00:33:43.520]   not only in the love that he's given to us,
+[00:33:43.520 --> 00:33:46.520]   but in all his holiness.
+[00:33:46.520 --> 00:33:49.520]   If we remember what it was, if we remember the Old Testament God,
+[00:33:49.520 --> 00:33:52.520]   that they would not even be able to set foot near him
+[00:33:52.520 --> 00:33:58.520]   without fear of death instantly.
+[00:33:58.520 --> 00:34:03.520]   That there is some repercussion into our lives.
+[00:34:03.520 --> 00:34:06.520]   And so if we go to the next slide here,
+[00:34:06.520 --> 00:34:08.520]   there are a lot of the negative things.
+[00:34:08.520 --> 00:34:10.520]   Negative not as in a bad way,
+[00:34:10.520 --> 00:34:13.520]   but that there are things that we are called not to do.
+[00:34:13.520 --> 00:34:15.520]   Or here, I kind of listed them out.
+[00:34:15.520 --> 00:34:21.520]   In verse 3, he says, "No immorality."
+[00:34:21.520 --> 00:34:24.520]   And rather than just look at this,
+[00:34:24.520 --> 00:34:27.520]   and just cling on to these words of truth,
+[00:34:27.520 --> 00:34:29.520]   this is the call into our lives.
+[00:34:29.520 --> 00:34:31.520]   That if it is true that God is who he is,
+[00:34:31.520 --> 00:34:33.520]   and we are who we are before him,
+[00:34:33.520 --> 00:34:38.520]   then this is what needs to happen in our lives.
+[00:34:38.520 --> 00:34:41.520]   That this is the only correct response.
+[00:34:41.520 --> 00:34:43.520]   No immorality.
+[00:34:43.520 --> 00:34:44.520]   And so ask yourself that question,
+[00:34:44.520 --> 00:34:47.520]   "Am I living in sexual sin?"
+[00:34:47.520 --> 00:34:53.520]   It's talking about sexual immorality, sexual impurity.
+[00:34:53.520 --> 00:34:58.520]   There must not be any of that in our lives.
+[00:34:58.520 --> 00:35:00.520]   It's not lessen it.
+[00:35:00.520 --> 00:35:02.520]   It's not try to do better.
+[00:35:02.520 --> 00:35:07.520]   It's eliminate, mortify.
+[00:35:07.520 --> 00:35:10.520]   Sexual sin cannot be there tomorrow.
+[00:35:10.520 --> 00:35:16.520]   We cannot come into the presence of a holy God with that.
+[00:35:16.520 --> 00:35:20.520]   We need to come and surrender.
+[00:35:20.520 --> 00:35:22.520]   Verse 3, it continues by saying,
+[00:35:22.520 --> 00:35:23.520]   "There should be no impurity."
+[00:35:23.520 --> 00:35:24.520]   And we ask ourselves that question,
+[00:35:24.520 --> 00:35:27.520]   "Is there any filthiness in our lives?"
+[00:35:27.520 --> 00:35:29.520]   A lot of people would say that many of these things
+[00:35:29.520 --> 00:35:31.520]   actually deal with the sexual realm,
+[00:35:31.520 --> 00:35:35.520]   but there are different kind of angles to this.
+[00:35:35.520 --> 00:35:38.520]   Is there any impurity in our lives?
+[00:35:38.520 --> 00:35:42.520]   Anything that would cause us to feel filth?
+[00:35:42.520 --> 00:35:44.520]   Anything that we would understand?
+[00:35:44.520 --> 00:35:46.520]   Maybe not by our standards of filth,
+[00:35:46.520 --> 00:35:48.520]   but God's standards of filth.
+[00:35:48.520 --> 00:35:53.520]   Doesn't that change the whole idea of filth?
+[00:35:53.520 --> 00:35:57.520]   You guys know what I'm talking about, right?
+[00:35:57.520 --> 00:36:00.520]   I want us to really engage in the text.
+[00:36:00.520 --> 00:36:05.520]   There's some people who have very low standards of filth.
+[00:36:05.520 --> 00:36:07.520]   You've met those people.
+[00:36:07.520 --> 00:36:10.520]   You go into an apartment, and their standards are low,
+[00:36:10.520 --> 00:36:12.520]   and you go, "Oh, this place is nasty."
+[00:36:12.520 --> 00:36:14.520]   They're okay with it, you know why?
+[00:36:14.520 --> 00:36:17.520]   Because their standards of filth is low.
+[00:36:17.520 --> 00:36:19.520]   But if you've ever gone to the next apartment
+[00:36:19.520 --> 00:36:22.520]   and seen that there's people who have a high standard of filth,
+[00:36:22.520 --> 00:36:24.520]   and you go, "Whoa, it's sparkling clean in here."
+[00:36:24.520 --> 00:36:26.520]   What is God's standard of filth?
+[00:36:26.520 --> 00:36:29.520]   And so ask yourself, "Am I living in filthiness?"
+[00:36:29.520 --> 00:36:32.520]   Verse 3 continues, "No greed."
+[00:36:32.520 --> 00:36:33.520]   He says, "No greed."
+[00:36:33.520 --> 00:36:34.520]   So ask yourself this question.
+[00:36:34.520 --> 00:36:39.520]   I think greed is one of those very subtle sins
+[00:36:39.520 --> 00:36:40.520]   that kind of creep in.
+[00:36:40.520 --> 00:36:42.520]   We think it's okay.
+[00:36:42.520 --> 00:36:45.520]   Am I sinfully desiring to possess more of the world?
+[00:36:45.520 --> 00:36:48.520]   Because I think we use standards that we see around us
+[00:36:48.520 --> 00:36:52.520]   to assess whether I'm greedy or not.
+[00:36:52.520 --> 00:36:54.520]   So what other people have--cars they have,
+[00:36:54.520 --> 00:36:56.520]   homes they have, how much money they have to spend,
+[00:36:56.520 --> 00:36:58.520]   what they can eat, what they can do,
+[00:36:58.520 --> 00:36:59.520]   what vacations they can go on,
+[00:36:59.520 --> 00:37:01.520]   and then we use that as a standard and say,
+[00:37:01.520 --> 00:37:04.520]   "I am not like that, and so, therefore,
+[00:37:04.520 --> 00:37:06.520]   I don't think I'm greedy."
+[00:37:06.520 --> 00:37:08.520]   I might need to work on this a bit,
+[00:37:08.520 --> 00:37:10.520]   but we have to ask ourselves the question,
+[00:37:10.520 --> 00:37:14.520]   "Am I mortifying greed?"
+[00:37:14.520 --> 00:37:16.520]   Eliminating this.
+[00:37:16.520 --> 00:37:19.520]   Is there any place in my heart where I desire to possess
+[00:37:19.520 --> 00:37:23.520]   more and more and more of the world?
+[00:37:23.520 --> 00:37:26.520]   Verse 4, "Let there be no filthy talk,
+[00:37:26.520 --> 00:37:28.520]   no silly and coarse talk."
+[00:37:28.520 --> 00:37:30.520]   Ask yourself the question, "Am I acting shamefully,
+[00:37:30.520 --> 00:37:32.520]   speaking impurely, using my words
+[00:37:32.520 --> 00:37:37.520]   to bring dishonor to God?"
+[00:37:37.520 --> 00:37:38.520]   Am I cursing?
+[00:37:38.520 --> 00:37:43.520]   I know some people think, "Cursing is no big deal."
+[00:37:43.520 --> 00:37:47.520]   No, is there anything that--like, before God,
+[00:37:47.520 --> 00:37:49.520]   there would be something that would cause us
+[00:37:49.520 --> 00:37:51.520]   to lose reputation,
+[00:37:51.520 --> 00:37:54.520]   and there would be a lessening of our above-reproachedness
+[00:37:54.520 --> 00:37:57.520]   or something like that.
+[00:37:57.520 --> 00:37:59.520]   That when--perhaps when we're with church people,
+[00:37:59.520 --> 00:38:00.520]   we speak in a certain way,
+[00:38:00.520 --> 00:38:02.520]   and then when we're with coworkers or other people,
+[00:38:02.520 --> 00:38:03.520]   we speak in another way.
+[00:38:03.520 --> 00:38:05.520]   We have to ask ourselves these questions.
+[00:38:05.520 --> 00:38:06.520]   If we go to the next slide,
+[00:38:06.520 --> 00:38:07.520]   we'll go a little faster here.
+[00:38:07.520 --> 00:38:09.520]   Continuing in verse 5, he says, "No covening.
+[00:38:09.520 --> 00:38:10.520]   Let there be no covening in you.
+[00:38:10.520 --> 00:38:13.520]   Am I sinfully desiring what other people possess?"
+[00:38:13.520 --> 00:38:15.520]   And so, not just a greed in general,
+[00:38:15.520 --> 00:38:19.520]   but you want what that person wants.
+[00:38:19.520 --> 00:38:22.520]   Your friend, your family member,
+[00:38:22.520 --> 00:38:24.520]   the people you see on social media,
+[00:38:24.520 --> 00:38:29.520]   that's what I want, that I'm coveting actively.
+[00:38:29.520 --> 00:38:31.520]   Verse 5, "No idolatry."
+[00:38:31.520 --> 00:38:33.520]   If there's anything that's going to just
+[00:38:33.520 --> 00:38:34.520]   blanket-statement everything else,
+[00:38:34.520 --> 00:38:36.520]   he says, "Okay, if there's anything left,
+[00:38:36.520 --> 00:38:38.520]   is there any idolatry?
+[00:38:38.520 --> 00:38:39.520]   Let there be no idolatry."
+[00:38:39.520 --> 00:38:40.520]   Is there something that you're setting up
+[00:38:40.520 --> 00:38:43.520]   and that you're bowing down before?
+[00:38:43.520 --> 00:38:45.520]   Do you have any idols in your heart,
+[00:38:45.520 --> 00:38:48.520]   any idols that have to do with relationships,
+[00:38:48.520 --> 00:38:52.520]   career, reputation, money, security,
+[00:38:52.520 --> 00:38:55.520]   desires for rest?
+[00:38:55.520 --> 00:38:56.520]   What idols are there?
+[00:38:56.520 --> 00:38:57.520]   Are they your children?
+[00:38:57.520 --> 00:38:59.520]   Are they your spouse?
+[00:38:59.520 --> 00:39:00.520]   Is it something to do with your future?
+[00:39:00.520 --> 00:39:03.520]   Is it something to do with pleasures of this world?
+[00:39:03.520 --> 00:39:05.520]   Are there idols?
+[00:39:05.520 --> 00:39:08.520]   Verse 6, "Don't be deceived."
+[00:39:08.520 --> 00:39:11.520]   Am I willfully allowing myself to be deceived?
+[00:39:11.520 --> 00:39:14.520]   The interesting thing about the way it's put in Ephesians
+[00:39:14.520 --> 00:39:17.520]   is that it is a choice that you're making.
+[00:39:17.520 --> 00:39:19.520]   It's not someone's trying to lie to you
+[00:39:19.520 --> 00:39:22.520]   and you're like, "Oh, I'm just a helpless victim."
+[00:39:22.520 --> 00:39:25.520]   You're allowing yourself to be deceived.
+[00:39:25.520 --> 00:39:26.520]   You know what's right.
+[00:39:26.520 --> 00:39:28.520]   Are you deceiving yourselves?
+[00:39:28.520 --> 00:39:29.520]   Next slide here.
+[00:39:29.520 --> 00:39:31.520]   And then we have the positive side.
+[00:39:31.520 --> 00:39:32.520]   "Grow in love for God and others."
+[00:39:32.520 --> 00:39:34.520]   In verse 4, he says, "Do," so not know,
+[00:39:34.520 --> 00:39:36.520]   "but do give thanks."
+[00:39:36.520 --> 00:39:37.520]   Ask yourself the question,
+[00:39:37.520 --> 00:39:39.520]   am I actively, genuinely expressing gratitude
+[00:39:39.520 --> 00:39:41.520]   towards God?
+[00:39:41.520 --> 00:39:44.520]   Are there more complaints coming out of me?
+[00:39:44.520 --> 00:39:46.520]   When people see us, do they see somebody
+[00:39:46.520 --> 00:39:50.520]   who is thankful?
+[00:39:50.520 --> 00:39:54.520]   If I were to ask your parents, your spouse,
+[00:39:54.520 --> 00:39:56.520]   your children, your co-workers,
+[00:39:56.520 --> 00:40:00.520]   will they say, "That's a thankful person"?
+[00:40:00.520 --> 00:40:02.520]   What will they say?
+[00:40:02.520 --> 00:40:03.520]   Verse 9, "Do what is good."
+[00:40:03.520 --> 00:40:06.520]   Am I doing what is good for others?
+[00:40:06.520 --> 00:40:11.520]   We're so good at doing good for ourselves.
+[00:40:11.520 --> 00:40:15.520]   Do I give as much pressure and weight
+[00:40:15.520 --> 00:40:17.520]   into the place of doing good for others?
+[00:40:17.520 --> 00:40:20.520]   Do I consider others' interests greater than my own?
+[00:40:20.520 --> 00:40:22.520]   In verse 9, "Do what is righteous."
+[00:40:22.520 --> 00:40:23.520]   So ask yourself that question.
+[00:40:23.520 --> 00:40:25.520]   Am I doing what is righteous?
+[00:40:25.520 --> 00:40:28.520]   Am I living a holy life as God is holy?
+[00:40:28.520 --> 00:40:30.520]   So this is not just a denial of sin.
+[00:40:30.520 --> 00:40:32.520]   This is not just a mortification of sin.
+[00:40:32.520 --> 00:40:34.520]   This is, am I living in every way
+[00:40:34.520 --> 00:40:37.520]   in which God is righteous?
+[00:40:37.520 --> 00:40:40.520]   Doing what is right and good in God's sight.
+[00:40:40.520 --> 00:40:42.520]   Next slide.
+[00:40:42.520 --> 00:40:44.520]   Verse 9, "Do what is true."
+[00:40:44.520 --> 00:40:47.520]   Am I living in accordance to what is true?
+[00:40:47.520 --> 00:40:50.520]   Do I live shining the truth of Christ's love,
+[00:40:50.520 --> 00:40:53.520]   Christ's work, and Christ's glorious return?
+[00:40:53.520 --> 00:40:55.520]   So it's not just me being truthful,
+[00:40:55.520 --> 00:40:59.520]   but me living in the truth.
+[00:40:59.520 --> 00:41:01.520]   This is when our theology and our life
+[00:41:01.520 --> 00:41:03.520]   starts to separate.
+[00:41:03.520 --> 00:41:05.520]   We can know what is right to do,
+[00:41:05.520 --> 00:41:08.520]   but we know that we are living in the truth
+[00:41:08.520 --> 00:41:10.520]   when we're surrendering to the truth
+[00:41:10.520 --> 00:41:13.520]   that we believe and proclaim.
+[00:41:13.520 --> 00:41:14.520]   So people might say, like,
+[00:41:14.520 --> 00:41:17.520]   "You're saying with your lips all of these things,
+[00:41:17.520 --> 00:41:21.520]   but your lifestyle shows a different truth."
+[00:41:21.520 --> 00:41:22.520]   So are we living in truth?
+[00:41:22.520 --> 00:41:24.520]   Verse 10, "Do try to learn
+[00:41:24.520 --> 00:41:26.520]   what is pleasing to the Lord."
+[00:41:26.520 --> 00:41:29.520]   Am I making an effort to examine my decisions
+[00:41:29.520 --> 00:41:32.520]   and see if they are pleasing to the Lord?
+[00:41:32.520 --> 00:41:34.520]   Do we examine our decisions?
+[00:41:34.520 --> 00:41:36.520]   Or do we live kind of in the permissible?
+[00:41:36.520 --> 00:41:38.520]   Like, these things are okay to do,
+[00:41:38.520 --> 00:41:39.520]   and so I'm just going to do it
+[00:41:39.520 --> 00:41:41.520]   because it's not sin.
+[00:41:41.520 --> 00:41:43.520]   And so our lifestyle becomes
+[00:41:43.520 --> 00:41:45.520]   just trying not to sin,
+[00:41:45.520 --> 00:41:47.520]   and everything else is fair game.
+[00:41:47.520 --> 00:41:50.520]   And by the way, I'm going to use these things
+[00:41:50.520 --> 00:41:52.520]   to try to honor God,
+[00:41:52.520 --> 00:41:57.520]   but the decision in and of itself was for me.
+[00:41:57.520 --> 00:41:59.520]   In 1 Corinthians 10.31, it says,
+[00:41:59.520 --> 00:42:01.520]   "Whether then you eat or drink or whatever you do,
+[00:42:01.520 --> 00:42:05.520]   do all things all to the glory of God."
+[00:42:05.520 --> 00:42:06.520]   Everything is not--
+[00:42:06.520 --> 00:42:09.520]   there is no neutral zone to this.
+[00:42:09.520 --> 00:42:11.520]   Every decision we make, do you examine it?
+[00:42:11.520 --> 00:42:14.520]   Do you scrutinize it?
+[00:42:14.520 --> 00:42:16.520]   Do I live in the permissible or beneficial?
+[00:42:16.520 --> 00:42:17.520]   Am I growing and learning
+[00:42:17.520 --> 00:42:18.520]   what is pleasing to the Lord?
+[00:42:18.520 --> 00:42:20.520]   Is there a growth?
+[00:42:20.520 --> 00:42:22.520]   Is there a growth in this?
+[00:42:22.520 --> 00:42:23.520]   Am I learning?
+[00:42:23.520 --> 00:42:25.520]   If you've learned something,
+[00:42:25.520 --> 00:42:27.520]   then you will employ it, right?
+[00:42:27.520 --> 00:42:29.520]   If you've learned something,
+[00:42:29.520 --> 00:42:30.520]   then there is going to be
+[00:42:30.520 --> 00:42:31.520]   some growth on top of that.
+[00:42:31.520 --> 00:42:34.520]   That becomes your new floor.
+[00:42:34.520 --> 00:42:36.520]   Or am I constantly just kind of
+[00:42:36.520 --> 00:42:39.520]   going back to the same place?
+[00:42:39.520 --> 00:42:40.520]   Verse 11, "Do expose darkness."
+[00:42:40.520 --> 00:42:42.520]   Am I filled with the light of Christ
+[00:42:42.520 --> 00:42:44.520]   as to expose darkness wherever I walk?
+[00:42:44.520 --> 00:42:47.520]   Have I been putting a basket over the light?
+[00:42:47.520 --> 00:42:51.520]   Am I regularly exposing darkness in my life?
+[00:42:51.520 --> 00:42:54.520]   Exposing darkness in this world?
+[00:42:54.520 --> 00:42:56.520]   Sometimes we have to make our opinions,
+[00:42:56.520 --> 00:42:58.520]   which, if they're biblical,
+[00:42:58.520 --> 00:43:01.520]   are not just opinions.
+[00:43:01.520 --> 00:43:02.520]   This is God's truth.
+[00:43:02.520 --> 00:43:04.520]   We need to shed light on these things,
+[00:43:04.520 --> 00:43:07.520]   to talk to people.
+[00:43:07.520 --> 00:43:08.520]   Everywhere we walk,
+[00:43:08.520 --> 00:43:10.520]   we shed light on who God is,
+[00:43:10.520 --> 00:43:13.520]   on His truths.
+[00:43:13.520 --> 00:43:15.520]   Okay, if we go to the next slide here.
+[00:43:15.520 --> 00:43:16.520]   We'll finish this passage
+[00:43:16.520 --> 00:43:19.520]   and go through one more slide.
+[00:43:19.520 --> 00:43:23.520]   Verse 15 says, "Therefore,
+[00:43:23.520 --> 00:43:24.520]   be careful how you walk,
+[00:43:24.520 --> 00:43:26.520]   not as unwise men, but as wise,
+[00:43:26.520 --> 00:43:27.520]   making the most of your time
+[00:43:27.520 --> 00:43:28.520]   because the days are evil.
+[00:43:28.520 --> 00:43:30.520]   So then, do not be foolish,
+[00:43:30.520 --> 00:43:32.520]   but understand what the will of the Lord is.
+[00:43:32.520 --> 00:43:34.520]   And do not get drunk with wine,
+[00:43:34.520 --> 00:43:35.520]   for that is dissipation,
+[00:43:35.520 --> 00:43:36.520]   but be filled with the Spirit,
+[00:43:36.520 --> 00:43:38.520]   speaking to one another in psalms and hymns
+[00:43:38.520 --> 00:43:40.520]   and spiritual songs,
+[00:43:40.520 --> 00:43:41.520]   singing and making melody
+[00:43:41.520 --> 00:43:42.520]   with your heart to the Lord,
+[00:43:42.520 --> 00:43:44.520]   always giving thanks for all things
+[00:43:44.520 --> 00:43:46.520]   in the name of our Lord Jesus Christ to God,
+[00:43:46.520 --> 00:43:47.520]   even the Father,
+[00:43:47.520 --> 00:43:48.520]   and be subject to one another
+[00:43:48.520 --> 00:43:51.520]   in the fear of Christ."
+[00:43:51.520 --> 00:43:53.520]   So I'm going to not go through this one as much,
+[00:43:53.520 --> 00:43:54.520]   but if we go to the next slide here,
+[00:43:54.520 --> 00:43:57.520]   there's another list.
+[00:43:57.520 --> 00:43:58.520]   When he says, "Be careful how you walk,"
+[00:43:58.520 --> 00:44:01.520]   ask yourself, "What have I been doing lately?"
+[00:44:01.520 --> 00:44:03.520]   And sit there and think,
+[00:44:03.520 --> 00:44:05.520]   "What have I been doing lately?
+[00:44:05.520 --> 00:44:07.520]   What have I been spending my time in?"
+[00:44:07.520 --> 00:44:08.520]   Verse 15, "Walk wisely."
+[00:44:08.520 --> 00:44:11.520]   Where have I been living wisely?
+[00:44:11.520 --> 00:44:13.520]   In the decisions I've been making.
+[00:44:13.520 --> 00:44:16.520]   What has shown a wise Christian living?
+[00:44:16.520 --> 00:44:18.520]   Versus, the next one, "Do not walk unwisely,"
+[00:44:18.520 --> 00:44:20.520]   where I've been living foolishly.
+[00:44:20.520 --> 00:44:22.520]   If I've been investing in the things of this world,
+[00:44:22.520 --> 00:44:24.520]   then I've been living foolishly.
+[00:44:24.520 --> 00:44:25.520]   If I've been investing in the kingdom,
+[00:44:25.520 --> 00:44:27.520]   then I'm living wisely.
+[00:44:27.520 --> 00:44:29.520]   Verse 16, "Make the most of your time."
+[00:44:29.520 --> 00:44:30.520]   Have I been spending my time?
+[00:44:30.520 --> 00:44:32.520]   How have I been spending my time?
+[00:44:32.520 --> 00:44:33.520]   Write it down.
+[00:44:33.520 --> 00:44:34.520]   Actually, if you need to,
+[00:44:34.520 --> 00:44:36.520]   write down how many hours you spent
+[00:44:36.520 --> 00:44:40.520]   doing things that were just time wasters.
+[00:44:40.520 --> 00:44:42.520]   Verse 16, "Remember the days are evil."
+[00:44:42.520 --> 00:44:44.520]   Have I been living like I'm in a war,
+[00:44:44.520 --> 00:44:47.520]   that the evil and the enemy is prowling?
+[00:44:47.520 --> 00:44:50.520]   Have I been actually been actively engaged
+[00:44:50.520 --> 00:44:52.520]   in the fact that danger is near us?
+[00:44:52.520 --> 00:44:54.520]   Verse 17, "Understand God's will."
+[00:44:54.520 --> 00:44:58.520]   Do I know what God wants me to do today?
+[00:44:58.520 --> 00:45:04.520]   And really sit and ask God if you need to,
+[00:45:04.520 --> 00:45:06.520]   but there are things that we know
+[00:45:06.520 --> 00:45:08.520]   God wants us to do today
+[00:45:08.520 --> 00:45:12.520]   and not to put it off for tomorrow.
+[00:45:12.520 --> 00:45:15.520]   Tomorrow is the devil's word.
+[00:45:15.520 --> 00:45:17.520]   God calls us today to let go, to surrender.
+[00:45:17.520 --> 00:45:19.520]   Do I know what God wants me to do?
+[00:45:19.520 --> 00:45:22.520]   Do I understand God's will?
+[00:45:22.520 --> 00:45:27.520]   Does understanding link to obedience?
+[00:45:27.520 --> 00:45:31.520]   If you do not obey, there is no understanding.
+[00:45:31.520 --> 00:45:34.520]   And so take time tonight to go through this.
+[00:45:34.520 --> 00:45:36.520]   So you should have a sheet of paper.
+[00:45:36.520 --> 00:45:38.520]   You can write things down,
+[00:45:38.520 --> 00:45:40.520]   or you can just kind of look at it
+[00:45:40.520 --> 00:45:41.520]   and think about it in your heart.
+[00:45:41.520 --> 00:45:43.520]   But 10 minutes, you don't have to pray
+[00:45:43.520 --> 00:45:44.520]   during these 10 minutes.
+[00:45:44.520 --> 00:45:47.520]   Just take time, okay?
+[00:45:47.520 --> 00:45:51.520]   'Til about 8.18 or so, we'll do that.
+[00:45:51.520 --> 00:45:53.520]   And then at 8.18, I'm gonna come up,
+[00:45:53.520 --> 00:45:56.520]   and then we're gonna go into a time of prayer,
+[00:45:56.520 --> 00:45:58.520]   personal prayer all together, okay?
+[00:45:58.520 --> 00:46:01.520]   All right, so for 10 minutes, you can take that time.
+[00:46:03.520 --> 00:46:28.520]   (soft piano music)
+[00:46:28.520 --> 00:46:31.520]   (music drowns out voice)
+[00:46:31.520 --> 00:46:36.520]   (music drowns out voice)
+[00:46:36.520 --> 00:46:39.520]   (music drowns out voice)
+[00:46:39.520 --> 00:46:42.520]   (music drowns out voice)
+[00:46:42.520 --> 00:46:45.520]   (music drowns out voice)
+[00:46:45.520 --> 00:46:48.520]   (music drowns out voice)
+[00:46:48.520 --> 00:46:51.520]   (music drowns out voice)
+[00:46:51.520 --> 00:46:54.520]   (music drowns out voice)
+[00:46:54.520 --> 00:46:57.520]   (music drowns out voice)
+[00:46:57.520 --> 00:47:00.520]   (music drowns out voice)
+[00:47:00.520 --> 00:47:03.520]   (music drowns out voice)
+[00:47:03.520 --> 00:47:06.520]   (music drowns out voice)
+[00:47:06.520 --> 00:47:09.520]   (music drowns out voice)
+[00:47:09.520 --> 00:47:12.520]   (soft piano music)
+[00:47:12.520 --> 00:47:15.520]   (music drowns out voice)
+[00:47:15.520 --> 00:47:18.520]   (music drowns out voice)
+[00:47:18.520 --> 00:47:21.520]   (music drowns out voice)
+[00:47:21.520 --> 00:47:42.520]   (music drowns out voice)
+[00:47:42.520 --> 00:48:05.520]   (music drowns out voice)
+[00:48:05.520 --> 00:48:12.520]   (music drowns out voice)
+[00:48:12.520 --> 00:48:15.520]   (music drowns out voice)
+[00:48:15.520 --> 00:48:18.520]   (music drowns out voice)
+[00:48:18.520 --> 00:48:21.520]   (music drowns out voice)
+[00:48:21.520 --> 00:48:42.520]   (music drowns out voice)
+[00:48:42.520 --> 00:48:53.520]   (music drowns out voice)
+[00:48:53.520 --> 00:48:56.520]   (music drowns out voice)
+[00:48:56.520 --> 00:49:11.520]   (music drowns out voice)
+[00:49:11.520 --> 00:49:27.520]   (music drowns out voice)
+[00:49:27.520 --> 00:49:41.520]   (music drowns out voice)
+[00:49:41.520 --> 00:49:44.520]   (music drowns out voice)
+[00:49:44.520 --> 00:49:58.520]   (music drowns out voice)
+[00:49:58.520 --> 00:50:26.520]   (music drowns out voice)
+[00:50:26.520 --> 00:50:29.520]   (music drowns out voice)
+[00:50:29.520 --> 00:50:32.520]   (music drowns out voice)
+[00:50:32.520 --> 00:50:46.520]   (music drowns out voice)
+[00:50:46.520 --> 00:51:09.520]   (music drowns out voice)
+[00:51:09.520 --> 00:51:38.520]   (music drowns out voice)
+[00:51:38.520 --> 00:51:41.520]   (music drowns out voice)
+[00:51:41.520 --> 00:52:10.520]   (music drowns out voice)
+[00:52:10.520 --> 00:52:13.520]   (music drowns out voice)
+[00:52:13.520 --> 00:52:32.520]   (music drowns out voice)
+[00:52:32.520 --> 00:53:00.520]   (music drowns out voice)
+[00:53:00.520 --> 00:53:10.520]   (music drowns out voice)
+[00:53:10.520 --> 00:53:39.520]   (music drowns out voice)
+[00:53:39.520 --> 00:53:41.520]   (music drowns out voice)
+[00:53:41.520 --> 00:53:44.520]   (music drowns out voice)
+[00:53:44.520 --> 00:53:47.520]   (music drowns out voice)
+[00:53:47.520 --> 00:53:50.520]   (music drowns out voice)
+[00:53:50.520 --> 00:54:19.520]   (music drowns out voice)
+[00:54:19.520 --> 00:54:22.520]   (music drowns out voice)
+[00:54:22.520 --> 00:54:25.520]   (music drowns out voice)
+[00:54:25.520 --> 00:54:28.520]   (music drowns out voice)
+[00:54:28.520 --> 00:54:57.520]   (music drowns out voice)
+[00:54:57.520 --> 00:55:00.520]   (music drowns out voice)
+[00:55:00.520 --> 00:55:03.520]   (music drowns out voice)
+[00:55:03.520 --> 00:55:06.520]   (music drowns out voice)
+[00:55:06.520 --> 00:55:35.520]   (music drowns out voice)
+[00:55:35.520 --> 00:55:38.520]   All right, well if we go to that next slide,
+[00:55:38.520 --> 00:55:43.520]   Ephesians 5, verse 1 through 2,
+[00:55:43.520 --> 00:55:45.520]   to remind you of what it says there.
+[00:55:45.520 --> 00:55:47.520]   It says, "Therefore, be imitators of God
+[00:55:47.520 --> 00:55:49.520]   "as beloved children,
+[00:55:49.520 --> 00:55:51.520]   "and walk in love just as Christ also loved you
+[00:55:51.520 --> 00:55:53.520]   "and gave himself up for us,
+[00:55:53.520 --> 00:55:57.520]   "an offering and a sacrifice to God as a fragrant aroma."
+[00:55:57.520 --> 00:56:01.520]   It's a reminder that all that you've been meditating on
+[00:56:01.520 --> 00:56:04.520]   is a call to imitate God,
+[00:56:04.520 --> 00:56:06.520]   to be as God is,
+[00:56:06.520 --> 00:56:10.520]   and to respond in a way that would be appropriate to that call.
+[00:56:10.520 --> 00:56:13.520]   And so, you don't have to pray
+[00:56:13.520 --> 00:56:15.520]   through everything that you wrote down tonight.
+[00:56:15.520 --> 00:56:18.520]   I hope that at least produced a little bit of fuel
+[00:56:18.520 --> 00:56:20.520]   for you to be able to pray on your own.
+[00:56:20.520 --> 00:56:22.520]   But for a little bit of help,
+[00:56:22.520 --> 00:56:25.520]   we're gonna go through the Acts method tonight of prayer.
+[00:56:25.520 --> 00:56:28.520]   And if you have never prayed the Acts method,
+[00:56:28.520 --> 00:56:31.520]   this is adoration, confession, thanksgiving, and supplication.
+[00:56:31.520 --> 00:56:33.520]   And so this is one of the ways,
+[00:56:33.520 --> 00:56:35.520]   there's many ways that you can pray.
+[00:56:35.520 --> 00:56:36.520]   This is one of them.
+[00:56:36.520 --> 00:56:38.520]   And so adoration, if we go to the first one there,
+[00:56:38.520 --> 00:56:42.520]   "Pray after a moment of reflecting on who God is.
+[00:56:42.520 --> 00:56:45.520]   "Reflect on his holiness, justice, and wrath,
+[00:56:45.520 --> 00:56:49.520]   "and then reflect on his love, patience, kindness, and grace."
+[00:56:49.520 --> 00:56:54.520]   You can pray truths of who God is back to God,
+[00:56:54.520 --> 00:56:57.520]   that there is something in that proclamation.
+[00:56:57.520 --> 00:57:00.520]   If you think about how David sometimes prays in his psalms,
+[00:57:00.520 --> 00:57:03.520]   it kind of just calls out who he is, what he's like,
+[00:57:03.520 --> 00:57:05.520]   what he loves, what he hates.
+[00:57:05.520 --> 00:57:09.520]   You can pray these things back to God in adoration to God.
+[00:57:09.520 --> 00:57:12.520]   The second one is confession.
+[00:57:12.520 --> 00:57:15.520]   And you can pray in repentance over anything in your life
+[00:57:15.520 --> 00:57:17.520]   that you need to pray over.
+[00:57:17.520 --> 00:57:20.520]   And so you pray actually surrendering.
+[00:57:20.520 --> 00:57:22.520]   I hope that you are a little bit more specific
+[00:57:22.520 --> 00:57:24.520]   in what you were writing or what you were kind of thinking about
+[00:57:24.520 --> 00:57:26.520]   as you examined your heart.
+[00:57:26.520 --> 00:57:29.520]   That it's not just wide swaths of things in our lives,
+[00:57:29.520 --> 00:57:33.520]   but there is something that actually needs to break,
+[00:57:33.520 --> 00:57:37.520]   something that actually needs to be given up in our hearts.
+[00:57:37.520 --> 00:57:41.520]   It's an actual person, it's an actual thing,
+[00:57:41.520 --> 00:57:45.520]   an actual whatever it is that we're holding on to.
+[00:57:45.520 --> 00:57:47.520]   Confess to God and pray in repentance.
+[00:57:47.520 --> 00:57:51.520]   Repentance means not just saying sorry to God,
+[00:57:51.520 --> 00:57:55.520]   but committing to live in a way that is opposite,
+[00:57:55.520 --> 00:57:58.520]   committing to live in a way that is honoring to him,
+[00:57:58.520 --> 00:58:00.520]   that is not just forsaking the evil,
+[00:58:00.520 --> 00:58:04.520]   but it is pursuing God and the good.
+[00:58:04.520 --> 00:58:07.520]   T is thanksgiving.
+[00:58:07.520 --> 00:58:10.520]   I think this should be more of a regular part of our prayers
+[00:58:10.520 --> 00:58:13.520]   than I think we might make it sometimes.
+[00:58:13.520 --> 00:58:15.520]   We have a lot of confession, a lot of supplication.
+[00:58:15.520 --> 00:58:18.520]   I wonder how much thanksgiving there is.
+[00:58:18.520 --> 00:58:21.520]   But pray thanking God for things in your life
+[00:58:21.520 --> 00:58:25.520]   you have not said thank you to him for.
+[00:58:25.520 --> 00:58:27.520]   Pray thanking him for good things,
+[00:58:27.520 --> 00:58:29.520]   but also pray for things that are difficult
+[00:58:29.520 --> 00:58:31.520]   and troublesome in your life right now.
+[00:58:31.520 --> 00:58:34.520]   Pray thanking God for difficult people,
+[00:58:34.520 --> 00:58:37.520]   for difficult situations at work,
+[00:58:37.520 --> 00:58:40.520]   difficult things that we know we can be thankful
+[00:58:40.520 --> 00:58:43.520]   because we can count it all joy even when all these trials come,
+[00:58:43.520 --> 00:58:46.520]   knowing that he's bringing it there for our good.
+[00:58:46.520 --> 00:58:47.520]   So thank him for it.
+[00:58:47.520 --> 00:58:50.520]   Find the good things and thank him.
+[00:58:50.520 --> 00:58:53.520]   And then lastly, pray all your supplications,
+[00:58:53.520 --> 00:58:55.520]   all of the requests that you have.
+[00:58:55.520 --> 00:58:58.520]   This incorporates everything else.
+[00:58:58.520 --> 00:59:04.520]   You can ask God as his child for what it is that your heart desires,
+[00:59:04.520 --> 00:59:08.520]   provided that you are going after his will and you love him,
+[00:59:08.520 --> 00:59:11.520]   that you can ask him for his help.
+[00:59:11.520 --> 00:59:14.520]   You can ask him to change situations.
+[00:59:14.520 --> 00:59:19.520]   You can pray for people that he might change their hearts.
+[00:59:19.520 --> 00:59:21.520]   It's the supplication time.
+[00:59:21.520 --> 00:59:25.520]   You can also pray for supplications that other people have.
+[00:59:25.520 --> 00:59:27.520]   In our small groups, in our home groups,
+[00:59:27.520 --> 00:59:29.520]   they have shared with you their prayer requests.
+[00:59:29.520 --> 00:59:31.520]   Pray on behalf of them.
+[00:59:31.520 --> 00:59:35.520]   Pray supplication prayers for them.
+[00:59:35.520 --> 00:59:38.520]   And so this time could take quite a bit of time.
+[00:59:38.520 --> 00:59:42.520]   So we're going to give you 20 minutes tonight to do this.
+[00:59:42.520 --> 00:59:45.520]   It's going to be 20 minutes of pure time.
+[00:59:45.520 --> 00:59:47.520]   If you are easily distractible,
+[00:59:47.520 --> 00:59:50.520]   the first time to praise and prayer, you're like, "Whoa, 20 minutes.
+[00:59:50.520 --> 00:59:52.520]   This is going to be very hard."
+[00:59:52.520 --> 00:59:54.520]   You can do things to help.
+[00:59:54.520 --> 00:59:59.520]   Go back into the text, read it again, and remind yourself of things,
+[00:59:59.520 --> 01:00:01.520]   and then go back into prayer.
+[01:00:01.520 --> 01:00:03.520]   You can separate yourselves out.
+[01:00:03.520 --> 01:00:06.520]   Sometimes I know it's hard to pray when there's a stranger next to you.
+[01:00:06.520 --> 01:00:10.520]   As always, there's a place up here you can sit or kneel.
+[01:00:10.520 --> 01:00:12.520]   You can go to the sides of the rooms.
+[01:00:12.520 --> 01:00:16.520]   Find a space that you can pray.
+[01:00:16.520 --> 01:00:18.520]   You can take time.
+[01:00:18.520 --> 01:00:20.520]   You don't have to pray rigid.
+[01:00:20.520 --> 01:00:22.520]   Pray out loud if you want to pray out loud.
+[01:00:22.520 --> 01:00:25.520]   Pray in silence if you want to pray in silence.
+[01:00:25.520 --> 01:00:28.520]   Spend this time to do whatever it is that you need.
+[01:00:28.520 --> 01:00:31.520]   If we go to the next and last slide here,
+[01:00:31.520 --> 01:00:35.520]   I just wrote out some things that if you run out of things to pray for,
+[01:00:35.520 --> 01:00:37.520]   that you can pray for.
+[01:00:37.520 --> 01:00:41.520]   But pray all of this.
+[01:00:41.520 --> 01:00:50.520]   Pray really remembering that God is listening
+[01:00:50.520 --> 01:00:56.520]   and that God is desiring to commune with you as a believer, as his child.
+[01:00:56.520 --> 01:01:02.520]   After 20 minutes, without prompting, the Praise Team is going to play a third song.
+[01:01:02.520 --> 01:01:08.520]   Once they start playing, you're welcome to join us in singing,
+[01:01:08.520 --> 01:01:10.520]   or you can continue to pray.
+[01:01:10.520 --> 01:01:12.520]   Then after that song, I'm going to come back up,
+[01:01:12.520 --> 01:01:15.520]   and then we're going to go into a final time of corporate prayer.
+[01:01:15.520 --> 01:01:19.520]   20 minutes from now, we'll be reconvening here.
+[01:01:20.520 --> 01:01:23.520]   [music]
+[01:01:24.520 --> 01:01:27.520]   [music]
+[01:01:28.520 --> 01:01:31.520]   [music]
+[01:01:32.520 --> 01:01:35.520]   [music]
+[01:01:35.520 --> 01:01:43.520]   [music]
+[01:01:43.520 --> 01:01:53.520]   [music]
+[01:01:53.520 --> 01:01:56.520]   [music]
+[01:01:56.520 --> 01:02:13.520]   [music]
+[01:02:14.520 --> 01:02:17.520]   [music]
+[01:02:17.520 --> 01:02:29.520]   [music]
+[01:02:29.520 --> 01:02:41.520]   [music]
+[01:02:42.520 --> 01:02:45.520]   [music]
+[01:02:45.520 --> 01:02:58.520]   [music]
+[01:02:58.520 --> 01:03:10.520]   [music]
+[01:03:11.520 --> 01:03:14.520]   [music]
+[01:03:14.520 --> 01:03:27.520]   [music]
+[01:03:27.520 --> 01:03:35.520]   [music]
+[01:03:36.520 --> 01:03:39.520]   [music]
+[01:03:39.520 --> 01:03:48.520]   [music]
+[01:03:48.520 --> 01:04:00.520]   [music]
+[01:04:00.520 --> 01:04:03.520]   [music]
+[01:04:03.520 --> 01:04:13.520]   [music]
+[01:04:13.520 --> 01:04:24.520]   [music]
+[01:04:25.520 --> 01:04:28.520]   [music]
+[01:04:28.520 --> 01:04:43.520]   [music]
+[01:04:44.520 --> 01:04:47.520]   [music]
+[01:04:47.520 --> 01:05:00.520]   [music]
+[01:05:00.520 --> 01:05:03.520]   [music]
+[01:05:03.520 --> 01:05:14.520]   [music]
+[01:05:14.520 --> 01:05:25.520]   [music]
+[01:05:25.520 --> 01:05:28.520]   [music]
+[01:05:28.520 --> 01:05:41.520]   [music]
+[01:05:41.520 --> 01:05:54.520]   [music]
+[01:05:55.520 --> 01:05:58.520]   [music]
+[01:05:58.520 --> 01:06:07.520]   [music]
+[01:06:07.520 --> 01:06:18.520]   [music]
+[01:06:19.520 --> 01:06:22.520]   [music]
+[01:06:22.520 --> 01:06:34.520]   [music]
+[01:06:34.520 --> 01:06:41.520]   [music]
+[01:06:41.520 --> 01:06:44.520]   [music]
+[01:06:44.520 --> 01:06:51.520]   [music]
+[01:06:51.520 --> 01:06:59.520]   [music]
+[01:06:59.520 --> 01:07:08.520]   [music]
+[01:07:09.520 --> 01:07:12.520]   [music]
+[01:07:12.520 --> 01:07:21.520]   [music]
+[01:07:21.520 --> 01:07:31.520]   [music]
+[01:07:32.520 --> 01:07:35.520]   [music]
+[01:07:35.520 --> 01:07:44.520]   [music]
+[01:07:44.520 --> 01:07:54.520]   [music]
+[01:07:55.520 --> 01:07:58.520]   [music]
+[01:07:58.520 --> 01:08:07.520]   [music]
+[01:08:07.520 --> 01:08:19.520]   [music]
+[01:08:19.520 --> 01:08:22.520]   [music]
+[01:08:22.520 --> 01:08:34.520]   [music]
+[01:08:34.520 --> 01:08:47.520]   [music]
+[01:08:48.520 --> 01:08:51.520]   [music]
+[01:08:51.520 --> 01:09:10.520]   [music]
+[01:09:11.520 --> 01:09:14.520]   [music]
+[01:09:14.520 --> 01:09:23.520]   [music]
+[01:09:23.520 --> 01:09:32.520]   [music]
+[01:09:33.520 --> 01:09:36.520]   [music]
+[01:09:36.520 --> 01:09:50.520]   [music]
+[01:09:51.520 --> 01:09:54.520]   [music]
+[01:09:54.520 --> 01:10:09.520]   [music]
+[01:10:10.520 --> 01:10:13.520]   [music]
+[01:10:13.520 --> 01:10:21.520]   [music]
+[01:10:21.520 --> 01:10:31.520]   [music]
+[01:10:32.520 --> 01:10:35.520]   [music]
+[01:10:35.520 --> 01:10:47.520]   [music]
+[01:10:47.520 --> 01:11:00.520]   [music]
+[01:11:01.520 --> 01:11:04.520]   [music]
+[01:11:04.520 --> 01:11:13.520]   [music]
+[01:11:13.520 --> 01:11:23.520]   [music]
+[01:11:24.520 --> 01:11:27.520]   [music]
+[01:11:27.520 --> 01:11:36.520]   [music]
+[01:11:36.520 --> 01:11:48.520]   [music]
+[01:11:48.520 --> 01:11:51.520]   [music]
+[01:11:51.520 --> 01:12:00.520]   [music]
+[01:12:00.520 --> 01:12:10.520]   [music]
+[01:12:11.520 --> 01:12:14.520]   [music]
+[01:12:14.520 --> 01:12:22.520]   [music]
+[01:12:22.520 --> 01:12:32.520]   [music]
+[01:12:33.520 --> 01:12:36.520]   [music]
+[01:12:36.520 --> 01:12:45.520]   [music]
+[01:12:45.520 --> 01:12:54.520]   [music]
+[01:12:55.520 --> 01:12:58.520]   [music]
+[01:12:58.520 --> 01:13:07.520]   [music]
+[01:13:07.520 --> 01:13:17.520]   [music]
+[01:13:18.520 --> 01:13:21.520]   [music]
+[01:13:21.520 --> 01:13:30.520]   [music]
+[01:13:30.520 --> 01:13:38.520]   [music]
+[01:13:38.520 --> 01:13:46.520]   [music]
+[01:13:46.520 --> 01:13:49.520]   [music]
+[01:13:49.520 --> 01:13:59.520]   [music]
+[01:13:59.520 --> 01:14:09.520]   [music]
+[01:14:09.520 --> 01:14:12.520]   [music]
+[01:14:12.520 --> 01:14:25.520]   [music]
+[01:14:25.520 --> 01:14:35.520]   [music]
+[01:14:36.520 --> 01:14:39.520]   [music]
+[01:14:39.520 --> 01:14:45.520]   [music]
+[01:14:45.520 --> 01:14:52.520]   [music]
+[01:14:52.520 --> 01:15:00.520]   [music]
+[01:15:01.520 --> 01:15:04.520]   [music]
+[01:15:04.520 --> 01:15:16.520]   [music]
+[01:15:16.520 --> 01:15:26.520]   [music]
+[01:15:27.520 --> 01:15:30.520]   [music]
+[01:15:30.520 --> 01:15:39.520]   [music]
+[01:15:39.520 --> 01:15:48.520]   [music]
+[01:15:49.520 --> 01:15:52.520]   [music]
+[01:15:52.520 --> 01:16:02.520]   [music]
+[01:16:02.520 --> 01:16:10.520]   [music]
+[01:16:17.520 --> 01:16:20.520]   [music]
+[01:16:20.520 --> 01:16:39.520]   [music]
+[01:16:40.520 --> 01:16:43.520]   [music]
+[01:16:43.520 --> 01:16:59.520]   [music]
+[01:17:00.520 --> 01:17:03.520]   [music]
+[01:17:03.520 --> 01:17:14.520]   [music]
+[01:17:14.520 --> 01:17:26.520]   [music]
+[01:17:27.520 --> 01:17:30.520]   [music]
+[01:17:30.520 --> 01:17:39.520]   [music]
+[01:17:39.520 --> 01:17:51.520]   [music]
+[01:17:52.520 --> 01:17:55.520]   [music]
+[01:17:55.520 --> 01:18:14.520]   [music]
+[01:18:15.520 --> 01:18:18.520]   [music]
+[01:18:18.520 --> 01:18:32.520]   [music]
+[01:18:33.520 --> 01:18:36.520]   [music]
+[01:18:36.520 --> 01:18:46.520]   [music]
+[01:18:46.520 --> 01:18:59.520]   [music]
+[01:19:00.520 --> 01:19:03.520]   [music]
+[01:19:03.520 --> 01:19:14.520]   [music]
+[01:19:14.520 --> 01:19:24.520]   [music]
+[01:19:24.520 --> 01:19:27.520]   [music]
+[01:19:27.520 --> 01:19:37.520]   [music]
+[01:19:37.520 --> 01:19:47.520]   [music]
+[01:19:52.520 --> 01:19:55.520]   In about a minute, the praise team will be coming up to play a final song.
+[01:19:55.520 --> 01:19:59.520]   So continue to pray if you would like to, and join us in song if you can.
+[01:19:59.520 --> 01:20:02.520]   [music]
+[01:20:02.520 --> 01:20:21.520]   [music]
+[01:20:21.520 --> 01:20:24.520]   [music]
+[01:20:24.520 --> 01:20:38.520]   [music]
+[01:20:39.520 --> 01:20:42.520]   [music]
+[01:20:42.520 --> 01:20:55.520]   [music]
+[01:20:56.520 --> 01:20:59.520]   [music]
+[01:20:59.520 --> 01:21:13.520]   [music]
+[01:21:14.520 --> 01:21:17.520]   [music]
+[01:21:17.520 --> 01:21:25.520]   [music]
+[01:21:25.520 --> 01:21:36.520]   [music]
+[01:21:37.520 --> 01:21:40.520]   [music]
+[01:21:40.520 --> 01:21:49.520]   [music]
+[01:21:49.520 --> 01:21:59.520]   [music]
+[01:22:00.520 --> 01:22:03.520]   [music]
+[01:22:03.520 --> 01:22:14.520]   [music]
+[01:22:14.520 --> 01:22:27.520]   [music]
+[01:22:28.520 --> 01:22:31.520]   [music]
+[01:22:31.520 --> 01:22:44.520]   [music]
+[01:22:44.520 --> 01:22:55.520]   [music]
+[01:22:56.520 --> 01:22:59.520]   [music]
+[01:22:59.520 --> 01:23:05.520]   [music]
+[01:23:05.520 --> 01:23:11.520]   [music]
+[01:23:11.520 --> 01:23:20.520]   [music]
+[01:23:21.520 --> 01:23:24.520]   [music]
+[01:23:24.520 --> 01:23:34.520]   [music]
+[01:23:34.520 --> 01:23:44.520]   [music]
+[01:23:44.520 --> 01:23:47.520]   [music]
+[01:23:47.520 --> 01:23:54.520]   If we could put those supplications back up, the list of prayer requests.
+[01:23:54.520 --> 01:23:59.520]   What we're going to be doing now, before we end in the final song at the end,
+[01:23:59.520 --> 01:24:02.520]   is we're going to be spending some time grouping up and praying.
+[01:24:02.520 --> 01:24:05.520]   We're pretty used to doing this at Praise and Prayers now.
+[01:24:05.520 --> 01:24:08.520]   I know that initial time is a little bit awkward to do this,
+[01:24:08.520 --> 01:24:12.520]   but break off into maybe about three or four people and go right into prayer.
+[01:24:12.520 --> 01:24:15.520]   If you don't know each other's names, at least say your names.
+[01:24:15.520 --> 01:24:21.520]   Do a real quick introduction, but don't spend more than one minute doing that.
+[01:24:21.520 --> 01:24:24.520]   Let's spend time praying tonight.
+[01:24:24.520 --> 01:24:29.520]   How about we pray, and then afterwards you guys could go get some food or something.
+[01:24:29.520 --> 01:24:33.520]   There's a whole list of things in that group.
+[01:24:33.520 --> 01:24:36.520]   Everybody just pick one thing that you would like to pray for,
+[01:24:36.520 --> 01:24:38.520]   and just go around in a circle and pray.
+[01:24:38.520 --> 01:24:41.520]   We're going to be concluding this time in about 15 minutes,
+[01:24:41.520 --> 01:24:43.520]   so it's not a lot of time.
+[01:24:43.520 --> 01:24:45.520]   Just go break up right away.
+[01:24:45.520 --> 01:24:47.520]   Don't take too much time doing that awkward thing.
+[01:24:47.520 --> 01:24:50.520]   Just grab people and just go right into prayer.
+[01:24:50.520 --> 01:24:53.520]   I'll be back up here, and we'll close in the final song after.
+[01:24:53.520 --> 01:24:55.520]   All right.
+[01:24:56.520 --> 01:24:59.520]   [music]
+[01:24:59.520 --> 01:25:04.520]   [music]
+[01:25:04.520 --> 01:25:09.520]   [music]
+[01:25:09.520 --> 01:25:14.520]   [music]
+[01:25:14.520 --> 01:25:19.520]   [music]
+[01:25:19.520 --> 01:25:24.520]   [music]
+[01:25:24.520 --> 01:25:29.520]   [music]
+[01:25:29.520 --> 01:25:34.520]   [music]
+[01:25:34.520 --> 01:25:39.520]   [music]
+[01:25:39.520 --> 01:25:44.520]   [music]
+[01:25:44.520 --> 01:25:49.520]   [music]
+[01:25:49.520 --> 01:25:54.520]   [music]
+[01:25:54.520 --> 01:25:59.520]   [music]
+[01:25:59.520 --> 01:26:04.520]   [music]
+[01:26:04.520 --> 01:26:09.520]   [music]
+[01:26:09.520 --> 01:26:14.520]   [music]
+[01:26:14.520 --> 01:26:19.520]   [music]
+[01:26:19.520 --> 01:26:24.520]   [music]
+[01:26:24.520 --> 01:26:29.520]   [music]
+[01:26:29.520 --> 01:26:34.520]   [music]
+[01:26:34.520 --> 01:26:39.520]   [music]
+[01:26:39.520 --> 01:26:44.520]   [music]
+[01:26:44.520 --> 01:26:49.520]   [music]
+[01:26:49.520 --> 01:26:54.520]   [music]
+[01:26:54.520 --> 01:26:59.520]   [music]
+[01:26:59.520 --> 01:27:04.520]   [music]
+[01:27:04.520 --> 01:27:09.520]   [music]
+[01:27:09.520 --> 01:27:14.520]   [music]
+[01:27:14.520 --> 01:27:19.520]   [music]
+[01:27:19.520 --> 01:27:24.520]   [music]
+[01:27:24.520 --> 01:27:29.520]   [music]
+[01:27:29.520 --> 01:27:34.520]   [music]
+[01:27:34.520 --> 01:27:39.520]   [music]
+[01:27:39.520 --> 01:27:44.520]   [music]
+[01:27:44.520 --> 01:27:49.520]   [music]
+[01:27:49.520 --> 01:27:54.520]   [music]
+[01:27:54.520 --> 01:27:59.520]   [music]
+[01:27:59.520 --> 01:28:04.520]   [music]
+[01:28:04.520 --> 01:28:09.520]   [music]
+[01:28:09.520 --> 01:28:14.520]   [music]
+[01:28:14.520 --> 01:28:19.520]   [music]
+[01:28:19.520 --> 01:28:24.520]   [music]
+[01:28:24.520 --> 01:28:29.520]   [music]
+[01:28:29.520 --> 01:28:34.520]   [music]
+[01:28:34.520 --> 01:28:39.520]   [music]
+[01:28:39.520 --> 01:28:44.520]   [music]
+[01:28:44.520 --> 01:28:49.520]   [music]
+[01:28:49.520 --> 01:28:54.520]   [music]
+[01:28:54.520 --> 01:28:59.520]   [music]
+[01:28:59.520 --> 01:29:04.520]   [music]
+[01:29:04.520 --> 01:29:09.520]   [music]
+[01:29:09.520 --> 01:29:14.520]   [music]
+[01:29:14.520 --> 01:29:19.520]   [music]
+[01:29:19.520 --> 01:29:24.520]   [music]
+[01:29:24.520 --> 01:29:29.520]   [music]
+[01:29:29.520 --> 01:29:34.520]   [music]
+[01:29:34.520 --> 01:29:39.520]   [music]
+[01:29:39.520 --> 01:29:44.520]   [music]
+[01:29:44.520 --> 01:29:49.520]   [music]
+[01:29:49.520 --> 01:29:54.520]   [music]
+[01:29:54.520 --> 01:29:59.520]   [music]
+[01:29:59.520 --> 01:30:04.520]   [music]
+[01:30:04.520 --> 01:30:09.520]   [music]
+[01:30:09.520 --> 01:30:14.520]   [music]
+[01:30:14.520 --> 01:30:19.520]   [music]
+[01:30:19.520 --> 01:30:24.520]   [music]
+[01:30:24.520 --> 01:30:29.520]   [music]
+[01:30:29.520 --> 01:30:34.520]   [music]
+[01:30:34.520 --> 01:30:39.520]   [music]
+[01:30:39.520 --> 01:30:44.520]   [music]
+[01:30:44.520 --> 01:30:49.520]   [music]
+[01:30:49.520 --> 01:30:54.520]   [music]
+[01:30:54.520 --> 01:30:59.520]   [music]
+[01:30:59.520 --> 01:31:04.520]   [music]
+[01:31:04.520 --> 01:31:09.520]   [music]
+[01:31:09.520 --> 01:31:14.520]   [music]
+[01:31:14.520 --> 01:31:19.520]   [music]
+[01:31:19.520 --> 01:31:24.520]   [music]
+[01:31:24.520 --> 01:31:29.520]   [music]
+[01:31:29.520 --> 01:31:34.520]   [music]
+[01:31:34.520 --> 01:31:39.520]   [music]
+[01:31:39.520 --> 01:31:44.520]   [music]
+[01:31:44.520 --> 01:31:49.520]   [music]
+[01:31:49.520 --> 01:31:54.520]   [music]
+[01:31:54.520 --> 01:31:59.520]   [music]
+[01:31:59.520 --> 01:32:04.520]   [music]
+[01:32:04.520 --> 01:32:09.520]   [music]
+[01:32:09.520 --> 01:32:14.520]   [music]
+[01:32:14.520 --> 01:32:19.520]   [music]
+[01:32:19.520 --> 01:32:24.520]   [music]
+[01:32:24.520 --> 01:32:29.520]   [music]
+[01:32:29.520 --> 01:32:34.520]   [music]
+[01:32:34.520 --> 01:32:39.520]   [music]
+[01:32:39.520 --> 01:32:44.520]   [music]
+[01:32:44.520 --> 01:32:49.520]   [music]
+[01:32:49.520 --> 01:32:54.520]   [music]
+[01:32:54.520 --> 01:32:59.520]   [music]
+[01:32:59.520 --> 01:33:04.520]   [music]
+[01:33:04.520 --> 01:33:09.520]   [music]
+[01:33:09.520 --> 01:33:14.520]   [music]
+[01:33:14.520 --> 01:33:19.520]   [music]
+[01:33:19.520 --> 01:33:24.520]   [music]
+[01:33:24.520 --> 01:33:29.520]   [music]
+[01:33:29.520 --> 01:33:34.520]   [music]
+[01:33:34.520 --> 01:33:39.520]   [music]
+[01:33:39.520 --> 01:33:44.520]   [music]
+[01:33:44.520 --> 01:33:49.520]   [music]
+[01:33:49.520 --> 01:33:54.520]   [music]
+[01:33:54.520 --> 01:33:59.520]   [music]
+[01:33:59.520 --> 01:34:04.520]   [music]
+[01:34:04.520 --> 01:34:09.520]   [music]
+[01:34:09.520 --> 01:34:14.520]   [music]
+[01:34:14.520 --> 01:34:19.520]   [music]
+[01:34:19.520 --> 01:34:24.520]   [music]
+[01:34:24.520 --> 01:34:29.520]   [music]
+[01:34:29.520 --> 01:34:34.520]   [music]
+[01:34:34.520 --> 01:34:39.520]   [music]
+[01:34:39.520 --> 01:34:44.520]   [music]
+[01:34:44.520 --> 01:34:49.520]   [music]
+[01:34:49.520 --> 01:34:54.520]   [music]
+[01:34:54.520 --> 01:34:59.520]   [music]
+[01:34:59.520 --> 01:35:04.520]   [music]
+[01:35:04.520 --> 01:35:09.520]   [music]
+[01:35:09.520 --> 01:35:14.520]   [music]
+[01:35:14.520 --> 01:35:19.520]   [music]
+[01:35:19.520 --> 01:35:24.520]   [music]
+[01:35:24.520 --> 01:35:29.520]   [music]
+[01:35:29.520 --> 01:35:34.520]   [music]
+[01:35:34.520 --> 01:35:39.520]   [music]
+[01:35:39.520 --> 01:35:44.520]   [music]
+[01:35:44.520 --> 01:35:49.520]   [music]
+[01:35:49.520 --> 01:35:54.520]   [music]
+[01:35:54.520 --> 01:35:59.520]   [music]
+[01:35:59.520 --> 01:36:04.520]   [music]
+[01:36:04.520 --> 01:36:09.520]   [music]
+[01:36:09.520 --> 01:36:14.520]   [music]
+[01:36:14.520 --> 01:36:19.520]   [music]
+[01:36:19.520 --> 01:36:24.520]   [music]
+[01:36:24.520 --> 01:36:29.520]   [music]
+[01:36:29.520 --> 01:36:34.520]   [music]
+[01:36:34.520 --> 01:36:39.520]   [music]
+[01:36:39.520 --> 01:36:44.520]   [music]
+[01:36:44.520 --> 01:36:49.520]   [music]
+[01:36:49.520 --> 01:36:54.520]   [music]
+[01:36:54.520 --> 01:36:59.520]   [music]
+[01:36:59.520 --> 01:37:04.520]   [music]
+[01:37:04.520 --> 01:37:09.520]   [music]
+[01:37:09.520 --> 01:37:14.520]   [music]
+[01:37:14.520 --> 01:37:19.520]   [music]
+[01:37:19.520 --> 01:37:24.520]   [music]
+[01:37:24.520 --> 01:37:29.520]   [music]
+[01:37:29.520 --> 01:37:34.520]   [music]
+[01:37:34.520 --> 01:37:39.520]   [music]
+[01:37:39.520 --> 01:37:44.520]   [music]
+[01:37:44.520 --> 01:37:49.520]   [music]
+[01:37:49.520 --> 01:37:54.520]   [music]
+[01:37:54.520 --> 01:37:59.520]   [music]
+[01:37:59.520 --> 01:38:04.520]   [music]
+[01:38:04.520 --> 01:38:09.520]   [music]
+[01:38:09.520 --> 01:38:14.520]   [music]
+[01:38:14.520 --> 01:38:19.520]   [music]
+[01:38:19.520 --> 01:38:24.520]   [music]
+[01:38:24.520 --> 01:38:29.520]   [music]
+[01:38:29.520 --> 01:38:34.520]   [music]
+[01:38:34.520 --> 01:38:39.520]   [music]
+[01:38:39.520 --> 01:38:44.520]   [music]
+[01:38:44.520 --> 01:38:49.520]   [music]
+[01:38:49.520 --> 01:38:54.520]   [music]
+[01:38:54.520 --> 01:38:59.520]   [music]
+[01:38:59.520 --> 01:39:04.520]   [music]
+[01:39:04.520 --> 01:39:09.520]   [music]
+[01:39:09.520 --> 01:39:14.520]   [music]
+[01:39:14.520 --> 01:39:19.520]   [music]
+[01:39:19.520 --> 01:39:24.520]   [music]
+[01:39:24.520 --> 01:39:29.520]   [music]
+[01:39:29.520 --> 01:39:34.520]   [music]
+[01:39:34.520 --> 01:39:39.520]   [music]
+[01:39:39.520 --> 01:39:44.520]   [music]
+[01:39:44.520 --> 01:39:49.520]   [music]
+[01:39:49.520 --> 01:39:54.520]   [music]
+[01:39:54.520 --> 01:39:59.520]   [music]
+[01:39:59.520 --> 01:40:04.520]   [music]
+[01:40:04.520 --> 01:40:09.520]   [music]
+[01:40:09.520 --> 01:40:14.520]   [music]
+[01:40:14.520 --> 01:40:19.520]   [music]
+[01:40:19.520 --> 01:40:24.520]   [music]
+[01:40:24.520 --> 01:40:29.520]   [music]
+[01:40:29.520 --> 01:40:34.520]   [music]
+[01:40:34.520 --> 01:40:39.520]   [music]
+[01:40:39.520 --> 01:40:44.520]   [music]
+[01:40:44.520 --> 01:40:49.520]   [music]
+[01:40:49.520 --> 01:40:54.520]   [music]
+[01:40:54.520 --> 01:40:59.520]   [music]
+[01:40:59.520 --> 01:41:04.520]   [music]
+[01:41:04.520 --> 01:41:09.520]   [music]
+[01:41:09.520 --> 01:41:14.520]   [music]
+[01:41:14.520 --> 01:41:19.520]   [music]
+[01:41:19.520 --> 01:41:24.520]   [music]
+[01:41:24.520 --> 01:41:29.520]   [music]
+[01:41:29.520 --> 01:41:34.520]   [music]
+[01:41:34.520 --> 01:41:39.520]   [music]
+[01:41:39.520 --> 01:41:44.520]   [music]
+[01:41:44.520 --> 01:41:49.520]   [music]
+[01:41:49.520 --> 01:41:54.520]   [music]
+[01:41:54.520 --> 01:41:59.520]   [music]
+[01:41:59.520 --> 01:42:04.520]   [music]
+[01:42:04.520 --> 01:42:09.520]   [music]
+[01:42:09.520 --> 01:42:14.520]   [music]
+[01:42:14.520 --> 01:42:19.520]   [music]
+[01:42:19.520 --> 01:42:24.520]   [music]
+[01:42:24.520 --> 01:42:29.520]   [music]
+[01:42:29.520 --> 01:42:34.520]   [music]
+[01:42:34.520 --> 01:42:39.520]   [music]
+[01:42:39.520 --> 01:42:44.520]   [music]
+[01:42:44.520 --> 01:42:49.520]   [music]
+[01:42:49.520 --> 01:42:54.520]   [music]
+[01:42:54.520 --> 01:42:59.520]   [music]
+[01:42:59.520 --> 01:43:04.520]   [music]
+[01:43:04.520 --> 01:43:09.520]   [music]
+[01:43:09.520 --> 01:43:14.520]   [music]
+[01:43:14.520 --> 01:43:19.520]   [music]
+[01:43:19.520 --> 01:43:24.520]   [music]
+[01:43:24.520 --> 01:43:29.520]   [music]
+[01:43:29.520 --> 01:43:34.520]   [music]
+[01:43:34.520 --> 01:43:39.520]   [music]
+[01:43:39.520 --> 01:43:44.520]   [music]
+[01:43:44.520 --> 01:43:49.520]   [music]
+[01:43:49.520 --> 01:43:54.520]   [music]
+[01:43:54.520 --> 01:43:59.520]   [music]
+[01:43:59.520 --> 01:44:04.520]   [music]
+[01:44:04.520 --> 01:44:09.520]   [music]
+[01:44:09.520 --> 01:44:14.520]   [music]
+[01:44:14.520 --> 01:44:19.520]   [music]
+[01:44:19.520 --> 01:44:24.520]   [music]
+[01:44:24.520 --> 01:44:29.520]   [music]
+[01:44:29.520 --> 01:44:34.520]   [music]
+[01:44:34.520 --> 01:44:39.520]   [music]
+[01:44:39.520 --> 01:44:44.520]   [music]
+[01:44:44.520 --> 01:44:49.520]   Father, we pray to you because we understand
+[01:44:49.520 --> 01:44:54.520]   and recognize how utterly helpless we are. Father, we come to you tonight and lift
+[01:44:54.520 --> 01:44:59.520]   up these things, the Sovereign One, the One who loves and cares far
+[01:44:59.520 --> 01:45:04.520]   more than we can, and we lay these things in your hands, and we ask you, Father,
+[01:45:04.520 --> 01:45:09.520]   to do your will. God, we pray for the privilege to do your will through us,
+[01:45:09.520 --> 01:45:14.520]   that we might obey you, follow and pursue you, that these prayers would be done
+[01:45:14.520 --> 01:45:19.520]   not as something we just complete and move on, but, Father, that it be an extension
+[01:45:19.520 --> 01:45:24.520]   of our hearts, that we would continue in movement towards all the things that we prayed for.
+[01:45:24.520 --> 01:45:29.520]   Lord, that we would live and surrender to you, that we would not pray empty
+[01:45:29.520 --> 01:45:34.520]   prayers by allowing our lives now, God, to not reflect the things that we've
+[01:45:34.520 --> 01:45:39.520]   asked. Help us, God, to do what we need to do. Help us, God,
+[01:45:39.520 --> 01:45:44.520]   to believe so much that these desires would be awakened in us.
+[01:45:44.520 --> 01:45:49.520]   Father, help us to continue in prayer, to battle, to wrestle
+[01:45:49.520 --> 01:45:54.520]   in prayer. Thank you so much, God, for the gift of it. In Jesus' name we pray. Amen.
+[01:45:54.520 --> 01:45:59.520]   Alright, well, that concludes tonight. Just two things. If you could help us out by
+[01:45:59.520 --> 01:46:04.520]   putting the chairs back in the front couple rows and also returning the pens.
+[01:46:04.520 --> 01:46:09.520]   There will be people collecting them, or you can put it somewhere as you're leaving
+[01:46:09.520 --> 01:46:14.520]   in the back. Thank you.
+[01:46:14.520 --> 01:46:19.520]   [background chatter]
+[01:46:19.520 --> 01:46:24.520]   [background chatter]
+[01:46:24.520 --> 01:46:29.520]   [background chatter]
+[01:46:29.520 --> 01:46:34.520]   [background chatter]
+[01:46:34.520 --> 01:46:39.520]   [background chatter]
+

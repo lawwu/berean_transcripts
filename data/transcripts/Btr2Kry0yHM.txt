@@ -1,0 +1,1566 @@
+
+[00:00:00.000 --> 00:00:02.920]   (soft piano music)
+[00:00:02.920 --> 00:00:05.840]   (soft piano music)
+[00:00:05.840 --> 00:00:08.760]   (soft piano music)
+[00:00:08.760 --> 00:00:11.680]   (soft piano music)
+[00:00:11.680 --> 00:00:16.600]   (soft piano music)
+[00:00:16.600 --> 00:00:19.520]   (soft piano music)
+[00:00:19.520 --> 00:00:24.440]   (soft piano music)
+[00:00:24.440 --> 00:00:28.360]   (soft piano music)
+[00:00:28.360 --> 00:00:32.200]   (soft piano music)
+[00:00:32.200 --> 00:00:36.360]   (soft piano music)
+[00:00:37.480 --> 00:00:40.400]   (soft piano music)
+[00:00:40.400 --> 00:00:44.440]   (soft piano music)
+[00:00:44.440 --> 00:00:48.360]   (soft piano music)
+[00:00:48.360 --> 00:00:52.280]   (soft piano music)
+[00:00:52.280 --> 00:00:56.200]   (soft piano music)
+[00:00:56.200 --> 00:01:00.120]   (soft piano music)
+[00:01:00.120 --> 00:01:04.040]   (soft piano music)
+[00:01:05.040 --> 00:01:07.960]   (soft piano music)
+[00:01:07.960 --> 00:01:11.880]   (soft piano music)
+[00:01:11.880 --> 00:01:15.800]   (soft piano music)
+[00:01:15.800 --> 00:01:19.720]   (soft piano music)
+[00:01:19.720 --> 00:01:23.640]   (soft piano music)
+[00:01:23.640 --> 00:01:27.520]   (soft piano music)
+[00:01:27.520 --> 00:01:31.440]   (soft piano music)
+[00:01:32.440 --> 00:01:35.360]   (soft piano music)
+[00:01:35.360 --> 00:01:39.280]   (soft piano music)
+[00:01:39.280 --> 00:01:43.200]   (soft piano music)
+[00:01:43.200 --> 00:01:47.200]   (soft piano music)
+[00:01:47.200 --> 00:01:51.120]   (soft piano music)
+[00:01:51.120 --> 00:01:55.040]   (soft piano music)
+[00:01:55.040 --> 00:01:58.960]   (soft piano music)
+[00:01:59.960 --> 00:02:02.880]   (soft piano music)
+[00:02:02.880 --> 00:02:06.800]   (soft piano music)
+[00:02:06.800 --> 00:02:10.720]   (soft piano music)
+[00:02:10.720 --> 00:02:14.640]   (soft piano music)
+[00:02:14.640 --> 00:02:18.640]   (soft piano music)
+[00:02:18.640 --> 00:02:22.640]   (soft piano music)
+[00:02:22.640 --> 00:02:26.640]   (soft piano music)
+[00:02:27.640 --> 00:02:30.640]   (soft piano music)
+[00:02:30.640 --> 00:02:34.640]   (soft piano music)
+[00:02:34.640 --> 00:02:38.640]   (soft piano music)
+[00:02:38.640 --> 00:02:42.640]   (soft piano music)
+[00:02:42.640 --> 00:02:46.640]   (soft piano music)
+[00:02:46.640 --> 00:02:50.640]   (soft piano music)
+[00:02:50.640 --> 00:02:54.640]   (soft piano music)
+[00:02:55.640 --> 00:02:58.640]   (soft piano music)
+[00:02:58.640 --> 00:03:02.640]   (soft piano music)
+[00:03:02.640 --> 00:03:06.640]   (soft piano music)
+[00:03:06.640 --> 00:03:10.640]   (soft piano music)
+[00:03:10.640 --> 00:03:14.640]   (soft piano music)
+[00:03:14.640 --> 00:03:18.640]   (soft piano music)
+[00:03:18.640 --> 00:03:22.640]   (soft piano music)
+[00:03:23.640 --> 00:03:26.640]   (soft piano music)
+[00:03:26.640 --> 00:03:30.640]   (soft piano music)
+[00:03:30.640 --> 00:03:34.640]   (soft piano music)
+[00:03:34.640 --> 00:03:38.640]   (soft piano music)
+[00:03:38.640 --> 00:03:42.640]   (soft piano music)
+[00:03:42.640 --> 00:03:46.640]   (soft piano music)
+[00:03:46.640 --> 00:03:50.640]   (soft piano music)
+[00:03:51.640 --> 00:03:54.640]   (soft piano music)
+[00:03:54.640 --> 00:03:58.640]   (soft piano music)
+[00:03:58.640 --> 00:04:02.640]   (soft piano music)
+[00:04:02.640 --> 00:04:06.640]   (soft piano music)
+[00:04:06.640 --> 00:04:10.640]   (soft piano music)
+[00:04:10.640 --> 00:04:14.640]   (soft piano music)
+[00:04:14.640 --> 00:04:18.640]   (soft piano music)
+[00:04:19.640 --> 00:04:22.640]   (soft piano music)
+[00:04:22.640 --> 00:04:26.640]   (soft piano music)
+[00:04:26.640 --> 00:04:30.640]   (soft piano music)
+[00:04:30.640 --> 00:04:34.640]   (soft piano music)
+[00:04:34.640 --> 00:04:38.640]   (soft piano music)
+[00:04:38.640 --> 00:04:42.640]   (soft piano music)
+[00:04:42.640 --> 00:04:46.640]   (soft piano music)
+[00:04:47.640 --> 00:04:50.640]   (soft piano music)
+[00:04:50.640 --> 00:04:54.640]   (soft piano music)
+[00:04:54.640 --> 00:04:58.640]   (soft piano music)
+[00:04:58.640 --> 00:05:02.640]   (soft piano music)
+[00:05:02.640 --> 00:05:06.640]   (soft piano music)
+[00:05:06.640 --> 00:05:10.640]   (soft piano music)
+[00:05:10.640 --> 00:05:14.640]   (soft piano music)
+[00:05:15.640 --> 00:05:18.640]   (soft piano music)
+[00:05:18.640 --> 00:05:22.640]   (soft piano music)
+[00:05:22.640 --> 00:05:26.640]   (soft piano music)
+[00:05:26.640 --> 00:05:30.640]   (soft piano music)
+[00:05:30.640 --> 00:05:34.640]   (soft piano music)
+[00:05:34.640 --> 00:05:38.640]   (soft piano music)
+[00:05:38.640 --> 00:05:42.640]   (soft piano music)
+[00:05:43.640 --> 00:05:46.640]   (soft piano music)
+[00:05:46.640 --> 00:05:50.640]   (soft piano music)
+[00:05:50.640 --> 00:05:54.640]   (soft piano music)
+[00:05:54.640 --> 00:05:58.640]   (soft piano music)
+[00:05:58.640 --> 00:06:02.640]   (soft piano music)
+[00:06:02.640 --> 00:06:06.640]   (soft piano music)
+[00:06:06.640 --> 00:06:10.640]   (soft piano music)
+[00:06:11.640 --> 00:06:14.640]   (soft piano music)
+[00:06:14.640 --> 00:06:18.640]   (soft piano music)
+[00:06:18.640 --> 00:06:22.640]   (soft piano music)
+[00:06:22.640 --> 00:06:26.640]   (soft piano music)
+[00:06:26.640 --> 00:06:30.640]   (soft piano music)
+[00:06:30.640 --> 00:06:34.640]   (soft piano music)
+[00:06:34.640 --> 00:06:38.640]   (soft piano music)
+[00:06:39.640 --> 00:06:42.640]   (soft piano music)
+[00:06:42.640 --> 00:06:46.640]   (soft piano music)
+[00:06:46.640 --> 00:06:50.640]   (soft piano music)
+[00:06:50.640 --> 00:06:54.640]   (soft piano music)
+[00:06:54.640 --> 00:06:58.640]   (soft piano music)
+[00:06:58.640 --> 00:07:02.640]   (soft piano music)
+[00:07:02.640 --> 00:07:06.640]   (soft piano music)
+[00:07:07.640 --> 00:07:10.640]   (soft piano music)
+[00:07:10.640 --> 00:07:14.640]   (soft piano music)
+[00:07:14.640 --> 00:07:18.640]   (soft piano music)
+[00:07:18.640 --> 00:07:22.640]   (soft piano music)
+[00:07:22.640 --> 00:07:26.640]   (soft piano music)
+[00:07:26.640 --> 00:07:30.640]   (soft piano music)
+[00:07:30.640 --> 00:07:34.640]   (soft piano music)
+[00:07:35.640 --> 00:07:38.640]   (soft piano music)
+[00:07:38.640 --> 00:07:42.640]   (soft piano music)
+[00:07:42.640 --> 00:07:46.640]   (soft piano music)
+[00:07:46.640 --> 00:07:50.640]   (soft piano music)
+[00:07:50.640 --> 00:07:54.640]   (soft piano music)
+[00:07:54.640 --> 00:07:58.640]   (soft piano music)
+[00:07:58.640 --> 00:08:02.640]   (soft piano music)
+[00:08:03.640 --> 00:08:06.640]   (soft piano music)
+[00:08:06.640 --> 00:08:10.640]   (soft piano music)
+[00:08:10.640 --> 00:08:14.640]   (soft piano music)
+[00:08:14.640 --> 00:08:18.640]   (soft piano music)
+[00:08:18.640 --> 00:08:22.640]   (soft piano music)
+[00:08:22.640 --> 00:08:26.640]   (soft piano music)
+[00:08:26.640 --> 00:08:30.640]   (soft piano music)
+[00:08:31.640 --> 00:08:34.640]   (soft piano music)
+[00:08:34.640 --> 00:08:38.640]   (soft piano music)
+[00:08:38.640 --> 00:08:42.640]   (soft piano music)
+[00:08:42.640 --> 00:08:46.640]   (soft piano music)
+[00:08:46.640 --> 00:08:50.640]   (soft piano music)
+[00:08:50.640 --> 00:08:54.640]   (soft piano music)
+[00:08:54.640 --> 00:08:58.640]   (soft piano music)
+[00:08:59.640 --> 00:09:02.640]   (soft piano music)
+[00:09:02.640 --> 00:09:06.640]   (soft piano music)
+[00:09:06.640 --> 00:09:10.640]   (soft piano music)
+[00:09:10.640 --> 00:09:14.640]   (soft piano music)
+[00:09:14.640 --> 00:09:18.640]   (soft piano music)
+[00:09:18.640 --> 00:09:22.640]   (soft piano music)
+[00:09:22.640 --> 00:09:26.640]   (soft piano music)
+[00:09:27.640 --> 00:09:30.640]   (soft piano music)
+[00:09:30.640 --> 00:09:34.640]   (soft piano music)
+[00:09:34.640 --> 00:09:38.640]   (soft piano music)
+[00:09:38.640 --> 00:09:42.640]   (soft piano music)
+[00:09:42.640 --> 00:09:46.640]   (soft piano music)
+[00:09:46.640 --> 00:09:50.640]   (soft piano music)
+[00:09:50.640 --> 00:09:54.640]   (soft piano music)
+[00:09:55.640 --> 00:09:58.640]   (soft piano music)
+[00:09:58.640 --> 00:10:02.640]   (soft piano music)
+[00:10:02.640 --> 00:10:06.640]   (soft piano music)
+[00:10:06.640 --> 00:10:10.640]   (soft piano music)
+[00:10:10.640 --> 00:10:14.640]   (soft piano music)
+[00:10:14.640 --> 00:10:18.640]   (soft piano music)
+[00:10:18.640 --> 00:10:22.640]   (soft piano music)
+[00:10:23.640 --> 00:10:26.640]   (soft piano music)
+[00:10:26.640 --> 00:10:30.640]   (soft piano music)
+[00:10:30.640 --> 00:10:34.640]   (soft piano music)
+[00:10:34.640 --> 00:10:38.640]   (soft piano music)
+[00:10:38.640 --> 00:10:42.640]   (soft piano music)
+[00:10:42.640 --> 00:10:46.640]   (soft piano music)
+[00:10:46.640 --> 00:10:50.640]   (soft piano music)
+[00:10:51.640 --> 00:10:54.640]   (soft piano music)
+[00:10:54.640 --> 00:10:58.640]   (soft piano music)
+[00:10:58.640 --> 00:11:02.640]   (soft piano music)
+[00:11:02.640 --> 00:11:06.640]   (soft piano music)
+[00:11:06.640 --> 00:11:10.640]   (soft piano music)
+[00:11:10.640 --> 00:11:14.640]   (soft piano music)
+[00:11:14.640 --> 00:11:18.640]   (soft piano music)
+[00:11:19.640 --> 00:11:22.640]   (soft piano music)
+[00:11:22.640 --> 00:11:26.640]   (soft piano music)
+[00:11:26.640 --> 00:11:30.640]   (soft piano music)
+[00:11:30.640 --> 00:11:34.640]   (soft piano music)
+[00:11:34.640 --> 00:11:38.640]   (soft piano music)
+[00:11:38.640 --> 00:11:42.640]   (soft piano music)
+[00:11:42.640 --> 00:11:46.640]   (soft piano music)
+[00:11:47.640 --> 00:11:50.640]   (soft piano music)
+[00:11:50.640 --> 00:11:54.640]   (soft piano music)
+[00:11:54.640 --> 00:11:58.640]   (soft piano music)
+[00:11:58.640 --> 00:12:02.640]   (soft piano music)
+[00:12:02.640 --> 00:12:06.640]   (soft piano music)
+[00:12:06.640 --> 00:12:10.640]   (soft piano music)
+[00:12:10.640 --> 00:12:14.640]   (soft piano music)
+[00:12:15.640 --> 00:12:18.640]   (soft piano music)
+[00:12:18.640 --> 00:12:22.640]   (soft piano music)
+[00:12:22.640 --> 00:12:26.640]   (soft piano music)
+[00:12:26.640 --> 00:12:30.640]   (soft piano music)
+[00:12:30.640 --> 00:12:34.640]   (soft piano music)
+[00:12:34.640 --> 00:12:38.640]   (soft piano music)
+[00:12:38.640 --> 00:12:42.640]   (soft piano music)
+[00:12:43.640 --> 00:12:46.640]   (soft piano music)
+[00:12:46.640 --> 00:12:50.640]   (soft piano music)
+[00:12:50.640 --> 00:12:54.640]   (soft piano music)
+[00:12:54.640 --> 00:12:58.640]   (soft piano music)
+[00:12:58.640 --> 00:13:02.640]   (soft piano music)
+[00:13:02.640 --> 00:13:06.640]   (soft piano music)
+[00:13:06.640 --> 00:13:10.640]   (soft piano music)
+[00:13:11.640 --> 00:13:14.640]   (soft piano music)
+[00:13:14.640 --> 00:13:18.640]   (soft piano music)
+[00:13:18.640 --> 00:13:22.640]   (soft piano music)
+[00:13:22.640 --> 00:13:26.640]   (soft piano music)
+[00:13:26.640 --> 00:13:30.640]   (soft piano music)
+[00:13:30.640 --> 00:13:34.640]   (soft piano music)
+[00:13:34.640 --> 00:13:38.640]   (soft piano music)
+[00:13:39.640 --> 00:13:42.640]   (soft piano music)
+[00:13:42.640 --> 00:13:46.640]   (soft piano music)
+[00:13:46.640 --> 00:13:50.640]   (soft piano music)
+[00:13:50.640 --> 00:13:54.640]   (soft piano music)
+[00:13:54.640 --> 00:13:58.640]   (soft piano music)
+[00:13:58.640 --> 00:14:02.640]   (soft piano music)
+[00:14:02.640 --> 00:14:06.640]   (soft piano music)
+[00:14:07.640 --> 00:14:10.640]   (soft piano music)
+[00:14:10.640 --> 00:14:14.640]   (soft piano music)
+[00:14:14.640 --> 00:14:18.640]   (soft piano music)
+[00:14:18.640 --> 00:14:22.640]   (soft piano music)
+[00:14:22.640 --> 00:14:26.640]   (soft piano music)
+[00:14:26.640 --> 00:14:30.640]   (soft piano music)
+[00:14:30.640 --> 00:14:34.640]   (soft piano music)
+[00:14:35.640 --> 00:14:38.640]   (soft piano music)
+[00:14:38.640 --> 00:14:42.640]   (soft piano music)
+[00:14:42.640 --> 00:14:46.640]   (soft piano music)
+[00:14:46.640 --> 00:14:50.640]   (soft piano music)
+[00:14:50.640 --> 00:14:54.640]   (soft piano music)
+[00:14:54.640 --> 00:14:58.640]   (soft piano music)
+[00:14:58.640 --> 00:15:02.640]   (soft piano music)
+[00:15:03.640 --> 00:15:06.640]   (soft piano music)
+[00:15:06.640 --> 00:15:10.640]   (soft piano music)
+[00:15:10.640 --> 00:15:14.640]   (soft piano music)
+[00:15:14.640 --> 00:15:18.640]   (soft piano music)
+[00:15:18.640 --> 00:15:22.640]   (soft piano music)
+[00:15:22.640 --> 00:15:26.640]   (soft piano music)
+[00:15:26.640 --> 00:15:30.640]   (soft piano music)
+[00:15:31.640 --> 00:15:34.640]   (soft piano music)
+[00:15:34.640 --> 00:15:38.640]   (soft piano music)
+[00:15:38.640 --> 00:15:42.640]   (soft piano music)
+[00:15:42.640 --> 00:15:46.640]   (soft piano music)
+[00:15:46.640 --> 00:15:50.640]   (soft piano music)
+[00:15:50.640 --> 00:15:54.640]   (soft piano music)
+[00:15:54.640 --> 00:15:58.640]   (soft piano music)
+[00:15:59.640 --> 00:16:02.640]   (soft piano music)
+[00:16:02.640 --> 00:16:06.640]   (soft piano music)
+[00:16:06.640 --> 00:16:10.640]   (soft piano music)
+[00:16:10.640 --> 00:16:14.640]   (soft piano music)
+[00:16:14.640 --> 00:16:18.640]   (soft piano music)
+[00:16:18.640 --> 00:16:22.640]   (soft piano music)
+[00:16:22.640 --> 00:16:26.640]   (soft piano music)
+[00:16:27.640 --> 00:16:30.640]   (soft piano music)
+[00:16:30.640 --> 00:16:34.640]   (soft piano music)
+[00:16:34.640 --> 00:16:38.640]   (soft piano music)
+[00:16:38.640 --> 00:16:42.640]   (soft piano music)
+[00:16:42.640 --> 00:16:46.640]   (soft piano music)
+[00:16:46.640 --> 00:16:50.640]   (soft piano music)
+[00:16:50.640 --> 00:16:54.640]   (soft piano music)
+[00:16:55.640 --> 00:16:58.640]   (soft piano music)
+[00:16:58.640 --> 00:17:02.640]   (soft piano music)
+[00:17:02.640 --> 00:17:06.640]   (soft piano music)
+[00:17:06.640 --> 00:17:10.640]   (soft piano music)
+[00:17:10.640 --> 00:17:14.640]   (soft piano music)
+[00:17:14.640 --> 00:17:18.640]   (soft piano music)
+[00:17:18.640 --> 00:17:22.640]   (soft piano music)
+[00:17:23.640 --> 00:17:26.640]   (soft piano music)
+[00:17:26.640 --> 00:17:30.640]   (soft piano music)
+[00:17:30.640 --> 00:17:34.640]   (soft piano music)
+[00:17:34.640 --> 00:17:38.640]   (soft piano music)
+[00:17:38.640 --> 00:17:42.640]   (soft piano music)
+[00:17:42.640 --> 00:17:46.640]   (soft piano music)
+[00:17:46.640 --> 00:17:50.640]   (soft piano music)
+[00:17:51.640 --> 00:17:54.640]   (soft piano music)
+[00:17:54.640 --> 00:17:58.640]   (soft piano music)
+[00:17:58.640 --> 00:18:02.640]   (soft piano music)
+[00:18:02.640 --> 00:18:06.640]   (soft piano music)
+[00:18:06.640 --> 00:18:10.640]   (soft piano music)
+[00:18:10.640 --> 00:18:14.640]   (soft piano music)
+[00:18:14.640 --> 00:18:18.640]   (soft piano music)
+[00:18:19.640 --> 00:18:22.640]   (soft piano music)
+[00:18:22.640 --> 00:18:26.640]   (soft piano music)
+[00:18:26.640 --> 00:18:30.640]   (soft piano music)
+[00:18:30.640 --> 00:18:34.640]   (soft piano music)
+[00:18:34.640 --> 00:18:38.640]   (soft piano music)
+[00:18:38.640 --> 00:18:42.640]   (soft piano music)
+[00:18:42.640 --> 00:18:46.640]   (soft piano music)
+[00:18:47.640 --> 00:18:50.640]   (soft piano music)
+[00:18:50.640 --> 00:18:54.640]   (soft piano music)
+[00:18:54.640 --> 00:18:58.640]   (soft piano music)
+[00:18:58.640 --> 00:19:02.640]   (soft piano music)
+[00:19:02.640 --> 00:19:06.640]   (soft piano music)
+[00:19:06.640 --> 00:19:10.640]   (soft piano music)
+[00:19:10.640 --> 00:19:14.640]   (soft piano music)
+[00:19:15.640 --> 00:19:18.640]   (soft piano music)
+[00:19:18.640 --> 00:19:22.640]   (soft piano music)
+[00:19:22.640 --> 00:19:26.640]   (soft piano music)
+[00:19:26.640 --> 00:19:30.640]   (soft piano music)
+[00:19:30.640 --> 00:19:34.640]   (soft piano music)
+[00:19:34.640 --> 00:19:38.640]   (soft piano music)
+[00:19:38.640 --> 00:19:42.640]   (soft piano music)
+[00:19:43.640 --> 00:19:46.640]   (soft piano music)
+[00:19:46.640 --> 00:19:50.640]   (soft piano music)
+[00:19:50.640 --> 00:19:54.640]   (soft piano music)
+[00:19:54.640 --> 00:19:58.640]   (soft piano music)
+[00:19:58.640 --> 00:20:02.640]   (soft piano music)
+[00:20:02.640 --> 00:20:06.640]   (soft piano music)
+[00:20:06.640 --> 00:20:10.640]   (soft piano music)
+[00:20:11.640 --> 00:20:14.640]   (soft piano music)
+[00:20:14.640 --> 00:20:18.640]   (soft piano music)
+[00:20:18.640 --> 00:20:22.640]   (soft piano music)
+[00:20:22.640 --> 00:20:26.640]   (soft piano music)
+[00:20:26.640 --> 00:20:30.640]   (soft piano music)
+[00:20:30.640 --> 00:20:34.640]   (soft piano music)
+[00:20:34.640 --> 00:20:38.640]   (soft piano music)
+[00:20:39.640 --> 00:20:42.640]   (soft piano music)
+[00:20:42.640 --> 00:20:46.640]   (soft piano music)
+[00:20:46.640 --> 00:20:50.640]   (soft piano music)
+[00:20:50.640 --> 00:20:54.640]   (soft piano music)
+[00:20:54.640 --> 00:20:58.640]   (soft piano music)
+[00:20:58.640 --> 00:21:02.640]   (soft piano music)
+[00:21:02.640 --> 00:21:06.640]   (soft piano music)
+[00:21:07.640 --> 00:21:10.640]   (soft piano music)
+[00:21:10.640 --> 00:21:14.640]   (soft piano music)
+[00:21:14.640 --> 00:21:18.640]   (soft piano music)
+[00:21:18.640 --> 00:21:22.640]   (soft piano music)
+[00:21:22.640 --> 00:21:26.640]   (soft piano music)
+[00:21:26.640 --> 00:21:30.640]   (soft piano music)
+[00:21:30.640 --> 00:21:34.640]   (soft piano music)
+[00:21:35.640 --> 00:21:38.640]   (soft piano music)
+[00:21:38.640 --> 00:21:42.640]   (soft piano music)
+[00:21:42.640 --> 00:21:46.640]   (soft piano music)
+[00:21:46.640 --> 00:21:50.640]   (soft piano music)
+[00:21:50.640 --> 00:21:54.640]   (soft piano music)
+[00:21:54.640 --> 00:21:58.640]   (soft piano music)
+[00:21:58.640 --> 00:22:02.640]   (soft piano music)
+[00:22:03.640 --> 00:22:06.640]   (soft piano music)
+[00:22:06.640 --> 00:22:10.640]   (soft piano music)
+[00:22:10.640 --> 00:22:14.640]   (soft piano music)
+[00:22:14.640 --> 00:22:18.640]   (soft piano music)
+[00:22:18.640 --> 00:22:22.640]   (soft piano music)
+[00:22:22.640 --> 00:22:26.640]   (soft piano music)
+[00:22:26.640 --> 00:22:30.640]   (soft piano music)
+[00:22:31.640 --> 00:22:34.640]   (soft piano music)
+[00:22:34.640 --> 00:22:38.640]   (soft piano music)
+[00:22:38.640 --> 00:22:42.640]   (soft piano music)
+[00:22:42.640 --> 00:22:46.640]   (soft piano music)
+[00:22:46.640 --> 00:22:50.640]   (soft piano music)
+[00:22:50.640 --> 00:22:54.640]   (soft piano music)
+[00:22:54.640 --> 00:22:58.640]   (soft piano music)
+[00:22:59.640 --> 00:23:02.640]   (soft piano music)
+[00:23:02.640 --> 00:23:06.640]   (soft piano music)
+[00:23:06.640 --> 00:23:10.640]   (soft piano music)
+[00:23:10.640 --> 00:23:14.640]   (soft piano music)
+[00:23:14.640 --> 00:23:18.640]   (soft piano music)
+[00:23:18.640 --> 00:23:22.640]   (soft piano music)
+[00:23:22.640 --> 00:23:26.640]   (soft piano music)
+[00:23:27.640 --> 00:23:30.640]   (soft piano music)
+[00:23:30.640 --> 00:23:34.640]   (soft piano music)
+[00:23:34.640 --> 00:23:38.640]   (soft piano music)
+[00:23:38.640 --> 00:23:42.640]   (soft piano music)
+[00:23:42.640 --> 00:23:46.640]   (soft piano music)
+[00:23:46.640 --> 00:23:50.640]   (soft piano music)
+[00:23:50.640 --> 00:23:54.640]   (soft piano music)
+[00:23:55.640 --> 00:23:58.640]   (soft piano music)
+[00:23:58.640 --> 00:24:02.640]   (soft piano music)
+[00:24:02.640 --> 00:24:06.640]   (soft piano music)
+[00:24:06.640 --> 00:24:10.640]   (soft piano music)
+[00:24:10.640 --> 00:24:14.640]   (soft piano music)
+[00:24:14.640 --> 00:24:18.640]   (soft piano music)
+[00:24:18.640 --> 00:24:22.640]   (soft piano music)
+[00:24:23.640 --> 00:24:26.640]   (soft piano music)
+[00:24:26.640 --> 00:24:30.640]   (soft piano music)
+[00:24:30.640 --> 00:24:34.640]   (soft piano music)
+[00:24:34.640 --> 00:24:38.640]   (soft piano music)
+[00:24:38.640 --> 00:24:42.640]   (soft piano music)
+[00:24:42.640 --> 00:24:46.640]   (soft piano music)
+[00:24:46.640 --> 00:24:50.640]   (soft piano music)
+[00:24:51.640 --> 00:24:54.640]   (soft piano music)
+[00:24:54.640 --> 00:24:58.640]   (soft piano music)
+[00:24:58.640 --> 00:25:02.640]   (soft piano music)
+[00:25:02.640 --> 00:25:06.640]   (soft piano music)
+[00:25:06.640 --> 00:25:10.640]   (soft piano music)
+[00:25:10.640 --> 00:25:14.640]   (soft piano music)
+[00:25:14.640 --> 00:25:18.640]   (soft piano music)
+[00:25:19.640 --> 00:25:22.640]   (soft piano music)
+[00:25:22.640 --> 00:25:26.640]   (soft piano music)
+[00:25:26.640 --> 00:25:30.640]   (soft piano music)
+[00:25:30.640 --> 00:25:34.640]   (soft piano music)
+[00:25:34.640 --> 00:25:38.640]   (soft piano music)
+[00:25:38.640 --> 00:25:42.640]   (soft piano music)
+[00:25:42.640 --> 00:25:46.640]   (soft piano music)
+[00:25:47.640 --> 00:25:50.640]   (soft piano music)
+[00:25:50.640 --> 00:25:54.640]   (soft piano music)
+[00:25:54.640 --> 00:25:58.640]   (soft piano music)
+[00:25:58.640 --> 00:26:02.640]   (soft piano music)
+[00:26:02.640 --> 00:26:06.640]   (soft piano music)
+[00:26:06.640 --> 00:26:10.640]   (soft piano music)
+[00:26:10.640 --> 00:26:14.640]   (soft piano music)
+[00:26:15.640 --> 00:26:18.640]   (soft piano music)
+[00:26:18.640 --> 00:26:22.640]   (soft piano music)
+[00:26:22.640 --> 00:26:26.640]   (soft piano music)
+[00:26:26.640 --> 00:26:30.640]   (soft piano music)
+[00:26:30.640 --> 00:26:34.640]   (soft piano music)
+[00:26:34.640 --> 00:26:38.640]   (soft piano music)
+[00:26:38.640 --> 00:26:42.640]   (soft piano music)
+[00:26:43.640 --> 00:26:46.640]   (soft piano music)
+[00:26:46.640 --> 00:26:50.640]   (soft piano music)
+[00:26:50.640 --> 00:26:54.640]   (soft piano music)
+[00:26:54.640 --> 00:26:56.640]   - Good morning.
+[00:26:56.640 --> 00:26:59.640]   (soft piano music)
+[00:26:59.640 --> 00:27:02.640]   Hello, good morning, everyone.
+[00:27:02.640 --> 00:27:04.640]   Welcome to our Women's Ministry event.
+[00:27:04.640 --> 00:27:07.640]   This is our first and hopefully not last.
+[00:27:07.640 --> 00:27:09.640]   This is my story, this is my song.
+[00:27:09.640 --> 00:27:13.640]   We're gonna start off the morning with a time of praise,
+[00:27:13.640 --> 00:27:15.640]   a time of worship, and then we're going to be hearing
+[00:27:15.640 --> 00:27:18.640]   from a few of our very own Burian sisters
+[00:27:18.640 --> 00:27:21.640]   as they recount on God's transformative work in their lives
+[00:27:21.640 --> 00:27:24.640]   and how God has been so faithful.
+[00:27:24.640 --> 00:27:26.640]   We have four sisters who are going to be sharing,
+[00:27:26.640 --> 00:27:28.640]   and after that, we will be in our groups
+[00:27:28.640 --> 00:27:31.640]   sharing with one another our testimonies
+[00:27:31.640 --> 00:27:33.640]   and how God has been working.
+[00:27:33.640 --> 00:27:35.640]   So we are very excited for that.
+[00:27:35.640 --> 00:27:37.640]   This is such a special time.
+[00:27:37.640 --> 00:27:39.640]   I've talked to many people,
+[00:27:39.640 --> 00:27:41.640]   and everyone was so excited for this
+[00:27:41.640 --> 00:27:43.640]   because we've been talking about doing something like this
+[00:27:43.640 --> 00:27:45.640]   but haven't quite done it yet.
+[00:27:45.640 --> 00:27:49.640]   And so we hope and we pray that as we are sharing
+[00:27:49.640 --> 00:27:50.640]   and hearing and listening,
+[00:27:50.640 --> 00:27:53.640]   that God would really be glorified and exalted
+[00:27:53.640 --> 00:27:55.640]   and that we would be encouraged.
+[00:27:55.640 --> 00:27:57.640]   So let me pray for us, and then we'll begin.
+[00:27:57.640 --> 00:28:02.640]   God, we just thank you so much
+[00:28:02.640 --> 00:28:05.640]   for being so good and so faithful.
+[00:28:05.640 --> 00:28:08.640]   Lord, you are deserving and worthy
+[00:28:08.640 --> 00:28:11.640]   of all of our praise and all of our worship.
+[00:28:11.640 --> 00:28:14.640]   What a blessing it is that we can gather together
+[00:28:14.640 --> 00:28:17.640]   as sisters to share our testimonies
+[00:28:17.640 --> 00:28:21.640]   and share how you have been mightily working in our lives.
+[00:28:21.640 --> 00:28:24.640]   Lord, we pray that this time of worship
+[00:28:24.640 --> 00:28:27.640]   would be acceptable and pleasing to you.
+[00:28:27.640 --> 00:28:29.640]   May your name and your name alone
+[00:28:29.640 --> 00:28:31.640]   be exalted and lifted high
+[00:28:31.640 --> 00:28:33.640]   during our time of sharing,
+[00:28:33.640 --> 00:28:36.640]   during our time of worship and fellowship even.
+[00:28:36.640 --> 00:28:40.640]   As we hear these testimonies of our sisters
+[00:28:40.640 --> 00:28:42.640]   and as we share our own stories,
+[00:28:42.640 --> 00:28:45.640]   may it be a reminder of the powerful
+[00:28:45.640 --> 00:28:47.640]   and transformative work of the cross.
+[00:28:47.640 --> 00:28:50.640]   May we be bold in sharing
+[00:28:50.640 --> 00:28:53.640]   and finding our confidence in only in you.
+[00:28:53.640 --> 00:28:57.640]   Lord, we pray that we can be honest and vulnerable
+[00:28:57.640 --> 00:29:00.640]   as we share how you have been working in our lives.
+[00:29:00.640 --> 00:29:03.640]   Lord, may you be exalted, may you be glorified.
+[00:29:03.640 --> 00:29:06.640]   In your son's name we pray, amen.
+[00:29:06.640 --> 00:29:11.640]   Why don't we stand and prepare our hearts for worship.
+[00:29:11.640 --> 00:29:34.640]   [music]
+[00:29:34.640 --> 00:29:38.640]   I sing praises to your name
+[00:29:38.640 --> 00:29:45.640]   O Lord, praises to your name
+[00:29:45.640 --> 00:29:52.640]   O Lord, for your name is great
+[00:29:52.640 --> 00:29:58.640]   and greatly to be praised
+[00:29:58.640 --> 00:30:00.640]   I sing praises
+[00:30:00.640 --> 00:30:05.640]   I sing praises to your name
+[00:30:05.640 --> 00:30:12.640]   O Lord, praises to your name
+[00:30:12.640 --> 00:30:19.640]   O Lord, for your name is great
+[00:30:19.640 --> 00:30:25.640]   and greatly to be praised
+[00:30:25.640 --> 00:30:46.640]   [music]
+[00:30:46.640 --> 00:30:50.640]   I give glory to your name
+[00:30:50.640 --> 00:30:57.640]   O Lord, glory to your name
+[00:30:57.640 --> 00:31:04.640]   O Lord, for your name is great
+[00:31:04.640 --> 00:31:12.640]   and greatly to be praised
+[00:31:12.640 --> 00:31:17.640]   I give glory to your name
+[00:31:17.640 --> 00:31:23.640]   O Lord, glory to your name
+[00:31:23.640 --> 00:31:30.640]   O Lord, for your name is great
+[00:31:30.640 --> 00:31:36.640]   and greatly to be praised
+[00:31:36.640 --> 00:31:40.640]   One more time, for your name
+[00:31:40.640 --> 00:31:44.640]   For your name is great
+[00:31:44.640 --> 00:31:50.640]   and greatly to be praised
+[00:31:50.640 --> 00:32:19.640]   [music]
+[00:32:19.640 --> 00:32:39.640]   [music]
+[00:32:39.640 --> 00:32:44.640]   Marvelous grace of our loving Lord
+[00:32:44.640 --> 00:32:49.640]   Grace that exceeds our sin and our guilt
+[00:32:49.640 --> 00:32:54.640]   Yonder on Calvary's mount upon
+[00:32:54.640 --> 00:33:00.640]   There where the blood of the Lamb was spilled
+[00:33:00.640 --> 00:33:05.640]   Grace, grace, God's grace
+[00:33:05.640 --> 00:33:10.640]   Grace that will pardon and cleanse within
+[00:33:10.640 --> 00:33:15.640]   Grace, grace, God's grace
+[00:33:15.640 --> 00:33:21.640]   Grace that is greater than all our sin
+[00:33:21.640 --> 00:33:29.640]   [music]
+[00:33:29.640 --> 00:33:34.640]   Sin and despair like the sea waves cold
+[00:33:34.640 --> 00:33:39.640]   Threaten the soul with infinite loss
+[00:33:39.640 --> 00:33:44.640]   Grace that is greater, yes, grace untold
+[00:33:44.640 --> 00:33:49.640]   Points to the refuge, the mighty cross
+[00:33:49.640 --> 00:33:55.640]   Grace, grace, God's grace
+[00:33:55.640 --> 00:34:00.640]   Grace that will pardon and cleanse within
+[00:34:00.640 --> 00:34:05.640]   Grace, grace, God's grace
+[00:34:05.640 --> 00:34:10.640]   Grace that is greater than all our sin
+[00:34:10.640 --> 00:34:19.640]   [music]
+[00:34:19.640 --> 00:34:24.640]   Marvelous, infinite, matchless grace
+[00:34:24.640 --> 00:34:29.640]   Freely bestowed on all who believe
+[00:34:29.640 --> 00:34:34.640]   You that are longing to see His face
+[00:34:34.640 --> 00:34:43.640]   Will you this moment His grace receive?
+[00:34:43.640 --> 00:34:48.640]   Grace, grace, God's grace
+[00:34:48.640 --> 00:34:53.640]   Grace that will pardon and cleanse within
+[00:34:53.640 --> 00:34:58.640]   Grace, grace, God's grace
+[00:34:58.640 --> 00:35:04.640]   Grace that is greater than all our sin
+[00:35:04.640 --> 00:35:09.640]   Grace, grace, grace, God's grace
+[00:35:09.640 --> 00:35:14.640]   Grace that will pardon and cleanse within
+[00:35:14.640 --> 00:35:19.640]   Grace, grace, God's grace
+[00:35:19.640 --> 00:35:25.640]   Grace that is greater than all our sin
+[00:35:25.640 --> 00:35:51.640]   [music]
+[00:35:51.640 --> 00:35:54.640]   Let's sing "Blessed is Shrine"
+[00:35:54.640 --> 00:35:59.640]   Blessed is Shrine
+[00:35:59.640 --> 00:36:04.640]   Jesus is mine
+[00:36:04.640 --> 00:36:09.640]   Oh, what a foretaste
+[00:36:09.640 --> 00:36:15.640]   Of glory divine
+[00:36:15.640 --> 00:36:20.640]   Heir of salvation
+[00:36:20.640 --> 00:36:26.640]   Purchased of God
+[00:36:26.640 --> 00:36:31.640]   Born of His Spirit
+[00:36:31.640 --> 00:36:34.640]   Lost in His love
+[00:36:34.640 --> 00:36:36.640]   Yeah, this is my story
+[00:36:36.640 --> 00:36:41.640]   This is my story
+[00:36:41.640 --> 00:36:46.640]   This is my song
+[00:36:46.640 --> 00:36:51.640]   Praising my Savior
+[00:36:51.640 --> 00:36:57.640]   All the day long
+[00:36:57.640 --> 00:37:02.640]   This is my story
+[00:37:02.640 --> 00:37:07.640]   This is my song
+[00:37:07.640 --> 00:37:12.640]   Praising my Savior
+[00:37:12.640 --> 00:37:17.640]   All the day long
+[00:37:17.640 --> 00:37:23.640]   [music]
+[00:37:23.640 --> 00:37:28.640]   Perfect salvation
+[00:37:28.640 --> 00:37:33.640]   All is at one
+[00:37:33.640 --> 00:37:38.640]   I am my Savior
+[00:37:38.640 --> 00:37:44.640]   And happy am I
+[00:37:44.640 --> 00:37:49.640]   Watching and waiting
+[00:37:49.640 --> 00:37:54.640]   Looking above
+[00:37:54.640 --> 00:37:59.640]   Filled with His goodness
+[00:37:59.640 --> 00:38:04.640]   I stand here
+[00:38:04.640 --> 00:38:09.640]   This is my story
+[00:38:09.640 --> 00:38:14.640]   This is my song
+[00:38:14.640 --> 00:38:19.640]   Praising my Savior
+[00:38:19.640 --> 00:38:24.640]   All the day long
+[00:38:24.640 --> 00:38:29.640]   This is my story
+[00:38:29.640 --> 00:38:34.640]   This is my song
+[00:38:34.640 --> 00:38:39.640]   Praising my Savior
+[00:38:39.640 --> 00:39:00.640]   All the day long
+[00:39:00.640 --> 00:39:05.640]   This is my story
+[00:39:05.640 --> 00:39:10.640]   This is my song
+[00:39:10.640 --> 00:39:15.640]   Praising my Savior
+[00:39:15.640 --> 00:39:19.640]   All the day long
+[00:39:19.640 --> 00:39:27.640]   [music]
+[00:39:27.640 --> 00:39:31.640]   Can you wait, Jen?
+[00:39:31.640 --> 00:39:38.640]   Okay.
+[00:39:38.640 --> 00:39:41.640]   So next we're going to have four of our sisters,
+[00:39:41.640 --> 00:39:45.640]   our very own sisters, share their testimonies with us.
+[00:39:45.640 --> 00:39:47.640]   I'm going to introduce them.
+[00:39:47.640 --> 00:39:50.640]   The first one will be our sister Jen Choi,
+[00:39:50.640 --> 00:39:55.640]   and then it'll be Bia Lim, Helen Shin, and Cheryl Tang.
+[00:39:55.640 --> 00:39:59.640]   It's never easy to speak in front of a large crowd of people,
+[00:39:59.640 --> 00:40:02.640]   so if you can please keep them in your prayers
+[00:40:02.640 --> 00:40:05.640]   and be attentive as they share their stories,
+[00:40:05.640 --> 00:40:08.640]   may we be encouraged by all that they have to share.
+[00:40:08.640 --> 00:40:11.640]   Okay, thank you.
+[00:40:11.640 --> 00:40:18.640]   [applause]
+[00:40:18.640 --> 00:40:26.640]   Hello. Okay.
+[00:40:26.640 --> 00:40:28.640]   Hi, everyone. My name is Jen Choi.
+[00:40:28.640 --> 00:40:30.640]   I'm part of the family ministry.
+[00:40:30.640 --> 00:40:33.640]   My husband Jason and I have been married for 14 years,
+[00:40:33.640 --> 00:40:36.640]   and we have one son, Ethan, who is 5 years old,
+[00:40:36.640 --> 00:40:38.640]   and this is my story.
+[00:40:38.640 --> 00:40:40.640]   As long as I can remember,
+[00:40:40.640 --> 00:40:43.640]   I've always been a very shy and insecure person
+[00:40:43.640 --> 00:40:46.640]   who was always worried about what other people thought of her.
+[00:40:46.640 --> 00:40:50.640]   I'm also naturally a very pessimistic and anxious person,
+[00:40:50.640 --> 00:40:53.640]   and if I had to describe my life in one word before Christ,
+[00:40:53.640 --> 00:40:55.640]   it would be "sad."
+[00:40:55.640 --> 00:40:58.640]   I grew up for most of my life going to church on and off with my family,
+[00:40:58.640 --> 00:41:01.640]   but I never thought too much of what I actually believed.
+[00:41:01.640 --> 00:41:03.640]   When I was in 5th grade,
+[00:41:03.640 --> 00:41:06.640]   my mom passed away from cancer when she was 41 years old,
+[00:41:06.640 --> 00:41:08.640]   and I didn't know how to process it,
+[00:41:08.640 --> 00:41:11.640]   so I just went right back to school and wouldn't talk about it.
+[00:41:11.640 --> 00:41:14.640]   I didn't have faith or an understanding of who God was in my life
+[00:41:14.640 --> 00:41:16.640]   and would break down and cry
+[00:41:16.640 --> 00:41:18.640]   any time I tried to talk about what happened.
+[00:41:18.640 --> 00:41:20.640]   My dad remarried when I was 13,
+[00:41:20.640 --> 00:41:23.640]   and thankfully my stepmom really loved and committed to me and my sister
+[00:41:23.640 --> 00:41:25.640]   and helped me navigate through my teenage years.
+[00:41:25.640 --> 00:41:28.640]   She instilled in us the importance of church and reading the Bible,
+[00:41:28.640 --> 00:41:30.640]   which God used to guide me to bring in
+[00:41:30.640 --> 00:41:33.640]   even after I moved out of the house for college.
+[00:41:33.640 --> 00:41:35.640]   I'm so grateful God has given me loving parents,
+[00:41:35.640 --> 00:41:38.640]   including both my moms who love me so much,
+[00:41:38.640 --> 00:41:41.640]   and through this I can see that family is more than being blood-related,
+[00:41:41.640 --> 00:41:43.640]   which ties into the later part of my story.
+[00:41:43.640 --> 00:41:46.640]   When I was in high school, I started serving at my church
+[00:41:46.640 --> 00:41:49.640]   and thought that I was a Christian because I did the right things,
+[00:41:49.640 --> 00:41:51.640]   but if you were to ask me, "What is the gospel?"
+[00:41:51.640 --> 00:41:53.640]   or "Why did Jesus have to die for you?"
+[00:41:53.640 --> 00:41:55.640]   I really had no idea because I never thought about it.
+[00:41:55.640 --> 00:41:59.640]   I was just religious but had no personal relationship with Christ.
+[00:41:59.640 --> 00:42:01.640]   I decided to go to college at UCI
+[00:42:01.640 --> 00:42:03.640]   and move away from my home in NorCal.
+[00:42:03.640 --> 00:42:07.640]   My main goal at that time was just to make friends and do well in school.
+[00:42:07.640 --> 00:42:10.640]   But by God's grace, I still wanted to go to church.
+[00:42:10.640 --> 00:42:12.640]   I ended up joining a campus ministry
+[00:42:12.640 --> 00:42:14.640]   where older sisters and brothers invited me to Bible study
+[00:42:14.640 --> 00:42:17.640]   and would pick me up every week for church.
+[00:42:17.640 --> 00:42:19.640]   I felt very out of place at first
+[00:42:19.640 --> 00:42:21.640]   because I wasn't used to being around people
+[00:42:21.640 --> 00:42:23.640]   who were so excited to talk about God
+[00:42:23.640 --> 00:42:26.640]   and want to worship Him and know Him and His word.
+[00:42:26.640 --> 00:42:28.640]   It made me actually feel really uncomfortable
+[00:42:28.640 --> 00:42:30.640]   because I didn't think about those things,
+[00:42:30.640 --> 00:42:32.640]   but it made me wonder why I didn't.
+[00:42:32.640 --> 00:42:35.640]   Throughout my freshman year, I was growing in my understanding of the Bible
+[00:42:35.640 --> 00:42:39.640]   and I was learning more about God's holiness and calling for His people.
+[00:42:39.640 --> 00:42:41.640]   I realized how sinful I was
+[00:42:41.640 --> 00:42:44.640]   and why I was in need of God's forgiveness through Christ's sacrifice.
+[00:42:44.640 --> 00:42:47.640]   But throughout my freshman year, even though I was learning so much,
+[00:42:47.640 --> 00:42:50.640]   I was still living a life focused on very self-centered things
+[00:42:50.640 --> 00:42:53.640]   and prioritizing relationships and my own future plans.
+[00:42:53.640 --> 00:42:56.640]   I wasn't living according to the calling I saw in Scripture,
+[00:42:56.640 --> 00:42:58.640]   and I was really unsettled in my heart.
+[00:42:58.640 --> 00:43:01.640]   I knew deep down that the worldly things I was pursuing didn't fulfill me,
+[00:43:01.640 --> 00:43:04.640]   but at the same time, I couldn't let them go.
+[00:43:04.640 --> 00:43:07.640]   Because of this, I wasn't very open with other sisters at church,
+[00:43:07.640 --> 00:43:10.640]   and I felt a lot of guilt and shame.
+[00:43:10.640 --> 00:43:12.640]   But thankfully, in God's perfect timing,
+[00:43:12.640 --> 00:43:16.640]   He brought me to repentance and a desire to pursue Him wholeheartedly.
+[00:43:16.640 --> 00:43:18.640]   I continued to grow and be a part of the church,
+[00:43:18.640 --> 00:43:20.640]   learning from older sisters' examples
+[00:43:20.640 --> 00:43:23.640]   and learning what it meant to live a sanctified life under Christ's Lordship.
+[00:43:23.640 --> 00:43:27.640]   I also realized that God was sovereign over every event and circumstance in my life,
+[00:43:27.640 --> 00:43:30.640]   and I came to have a joy, thankfulness, peace, and contentment
+[00:43:30.640 --> 00:43:33.640]   that was never possible for me before.
+[00:43:33.640 --> 00:43:35.640]   This was 21 years ago, and I wish I could share
+[00:43:35.640 --> 00:43:37.640]   that since then I've always been faithful to the Lord,
+[00:43:37.640 --> 00:43:41.640]   but it has truly been a growing process to remember God's promises every day.
+[00:43:41.640 --> 00:43:44.640]   When I first graduated from college and moved back home to NorCal,
+[00:43:44.640 --> 00:43:48.640]   it was the first time I had been away from my church community since God saved me.
+[00:43:48.640 --> 00:43:50.640]   I had pride that I would not struggle,
+[00:43:50.640 --> 00:43:53.640]   but I quickly realized how weak I was by my own strength,
+[00:43:53.640 --> 00:43:56.640]   and I found myself questioning my own salvation.
+[00:43:56.640 --> 00:43:59.640]   In my pride, I didn't openly share these feelings with others
+[00:43:59.640 --> 00:44:03.640]   and would tell myself that once I was doing better that I would share with them,
+[00:44:03.640 --> 00:44:06.640]   but that led me to feeling more hopeless and isolated.
+[00:44:06.640 --> 00:44:10.640]   God used that period to humble me and remind me why Christ had to die on the cross for me.
+[00:44:10.640 --> 00:44:13.640]   He helped me see that I really could not do anything on my own
+[00:44:13.640 --> 00:44:16.640]   and truly I need a repentance daily and an honesty with my struggles
+[00:44:16.640 --> 00:44:19.640]   because only then could I lift them up to him
+[00:44:19.640 --> 00:44:23.640]   and be able to start again knowing that he is the one who will carry me to completion until the end.
+[00:44:23.640 --> 00:44:28.640]   This season of life carried into the early years of my marriage after I finished nursing school.
+[00:44:28.640 --> 00:44:32.640]   I'm so thankful that God has given me a godly, loving husband
+[00:44:32.640 --> 00:44:35.640]   who genuinely desires to live faithfully and humbly before the Lord,
+[00:44:35.640 --> 00:44:38.640]   but we did go through a time of drifting earlier in our marriage
+[00:44:38.640 --> 00:44:41.640]   when we were living in L.A. and working really high-stress jobs.
+[00:44:41.640 --> 00:44:44.640]   I could feel that my heart was distant from God
+[00:44:44.640 --> 00:44:47.640]   and I couldn't honestly say that I was seeking his kingdom over my own.
+[00:44:47.640 --> 00:44:50.640]   I thank God that in his grace he caused our hearts to repent
+[00:44:50.640 --> 00:44:54.640]   and see that we need to abide in him and obey when he convicts us in his word.
+[00:44:54.640 --> 00:44:58.640]   Throughout the years, we like many couples had plans for our lives,
+[00:44:58.640 --> 00:45:02.640]   finishing school, finding jobs, starting a home and a family together,
+[00:45:02.640 --> 00:45:05.640]   and it wasn't until our life didn't go according to our timeline
+[00:45:05.640 --> 00:45:10.640]   that I realized I was constantly waiting for that next season of life to be more faithful.
+[00:45:10.640 --> 00:45:13.640]   God, in his grace, convicted us through his word
+[00:45:13.640 --> 00:45:16.640]   to see that he alone is worthy of our worship and pursuits
+[00:45:16.640 --> 00:45:18.640]   and we needed to change our priorities.
+[00:45:18.640 --> 00:45:22.640]   During that time, Jason and I had already been open to having children for a few years
+[00:45:22.640 --> 00:45:25.640]   and I had switched my nursing job to a mother-baby postpartum unit.
+[00:45:25.640 --> 00:45:29.640]   In God's plan for me, I never actually ended up getting pregnant,
+[00:45:29.640 --> 00:45:32.640]   but during those years, he opened our hearts to adoption.
+[00:45:32.640 --> 00:45:36.640]   Honestly speaking, it was not easy waiting on God's plan for our family
+[00:45:36.640 --> 00:45:40.640]   and I would have moments of sadness, stress, and impatience.
+[00:45:40.640 --> 00:45:43.640]   I wrestled with comparing myself with my peers,
+[00:45:43.640 --> 00:45:47.640]   feeling behind, not feeling in the same season of life as them.
+[00:45:47.640 --> 00:45:50.640]   I wrestled with my identity and if I could still live a fulfilled life
+[00:45:50.640 --> 00:45:52.640]   even if I couldn't have children.
+[00:45:52.640 --> 00:45:54.640]   I kept coming back to the same question,
+[00:45:54.640 --> 00:45:57.640]   "Can I bring glory to God without having kids?"
+[00:45:57.640 --> 00:46:00.640]   and my answer that God gave me was always yes.
+[00:46:00.640 --> 00:46:03.640]   During those years, God gave us many opportunities to read through scripture
+[00:46:03.640 --> 00:46:05.640]   in various small groups.
+[00:46:05.640 --> 00:46:08.640]   I saw God's sovereignty and faithfulness to his promises throughout all of time
+[00:46:08.640 --> 00:46:11.640]   and in particular, I remember meditating on Sarah's life
+[00:46:11.640 --> 00:46:13.640]   when she was waiting on God's promise for children
+[00:46:13.640 --> 00:46:18.640]   and Joseph when he was wronged and forgotten through the prime years of his life.
+[00:46:18.640 --> 00:46:21.640]   And yet, God was always working and desired for them to trust him
+[00:46:21.640 --> 00:46:24.640]   and live faithfully in the circumstances he had ordained.
+[00:46:24.640 --> 00:46:29.640]   Jason and I asked God to help us trust him during those times of waiting and uncertainty
+[00:46:29.640 --> 00:46:31.640]   and he opened our hearts to adoption.
+[00:46:31.640 --> 00:46:35.640]   During those years of waiting, I worked in a department where all my coworkers were women
+[00:46:35.640 --> 00:46:37.640]   and could sympathize with infertility
+[00:46:37.640 --> 00:46:40.640]   which allowed me to more clearly share my hope in joining Christ alone.
+[00:46:40.640 --> 00:46:42.640]   And through being familiar with prenatal records
+[00:46:42.640 --> 00:46:46.640]   and meeting birth moms, foster moms, adoptive moms at work,
+[00:46:46.640 --> 00:46:49.640]   I grew a heart for them as we started our own adoption journey.
+[00:46:49.640 --> 00:46:51.640]   God truly wastes nothing.
+[00:46:51.640 --> 00:46:54.640]   As many of you know, we adopted our son Ethan almost four years ago
+[00:46:54.640 --> 00:46:57.640]   and he is such a gift and blessing and joy to our family.
+[00:46:57.640 --> 00:47:00.640]   Each step of the adoption process was truly in God's perfect plan
+[00:47:00.640 --> 00:47:04.640]   which I would love to share with you one day when we have more time.
+[00:47:04.640 --> 00:47:08.640]   God has continually been growing me to see in our salvation.
+[00:47:08.640 --> 00:47:10.640]   He has purposed good works for us to do in this life
+[00:47:10.640 --> 00:47:15.640]   and I hope to trust in him in the ways he has planned out for my life, for his glory.
+[00:47:15.640 --> 00:47:19.640]   I was also asked to share about God's faithfulness
+[00:47:19.640 --> 00:47:22.640]   in teaching me to be the wife that he calls us to be
+[00:47:22.640 --> 00:47:24.640]   and to share an encouragement with you all.
+[00:47:24.640 --> 00:47:29.640]   Before I was a Christian, my thoughts were always around how could I benefit myself.
+[00:47:29.640 --> 00:47:33.640]   I wanted to have a successful career, be financially stable
+[00:47:33.640 --> 00:47:36.640]   and if I were ever to get married, it would definitely have to be 50/50.
+[00:47:36.640 --> 00:47:39.640]   I couldn't stand the thought of being taken advantage of or being mistreated
+[00:47:39.640 --> 00:47:42.640]   and I had fears of commitment.
+[00:47:42.640 --> 00:47:45.640]   There were many marriages and relationships around me that were broken
+[00:47:45.640 --> 00:47:49.640]   and I had dated before and knew that relationships don't always last.
+[00:47:49.640 --> 00:47:53.640]   At one of my first Bible studies at Berean, they were going over Ephesians 5
+[00:47:53.640 --> 00:47:56.640]   and I remember feeling really, really upset about the passage
+[00:47:56.640 --> 00:47:58.640]   calling wives to submit to their husbands.
+[00:47:58.640 --> 00:48:04.640]   I believe that submission could never work because of the subjective experiences I had been around
+[00:48:04.640 --> 00:48:09.640]   but I grew in my understanding that God is the creator and sovereign
+[00:48:09.640 --> 00:48:13.640]   and that he intended all things including marriage for good and for a specific purpose.
+[00:48:13.640 --> 00:48:18.640]   I had to reconsider and objectively think about what marriage was intended for
+[00:48:18.640 --> 00:48:21.640]   and thankfully God allowed me to observe godly marriages at this church
+[00:48:21.640 --> 00:48:26.640]   and I was surprised to see that their obedience and desire to honor God first,
+[00:48:26.640 --> 00:48:31.640]   that their marriages were actually more joyful and peaceful than what I had observed in the world.
+[00:48:31.640 --> 00:48:36.640]   When I considered marriage while I was dating Jason, I had a lot of fears.
+[00:48:36.640 --> 00:48:40.640]   Fears if one of us died early, what if we had a lot of difficulties,
+[00:48:40.640 --> 00:48:42.640]   what if we went through hardships.
+[00:48:42.640 --> 00:48:46.640]   I wrestled with so many things but ultimately I realized I could trust God with any outcome
+[00:48:46.640 --> 00:48:49.640]   because he is good and perfect in his plan.
+[00:48:49.640 --> 00:48:54.640]   He calls us to seek his kingdom first and to lift up any anxieties or worries to him in prayer.
+[00:48:54.640 --> 00:48:57.640]   Jason and I have been married for 14 years now
+[00:48:57.640 --> 00:49:00.640]   and I can honestly say that marriage is such a gift and a blessing
+[00:49:00.640 --> 00:49:03.640]   which comes a long way from how I thought before.
+[00:49:03.640 --> 00:49:07.640]   It wasn't always easy though as our marriage revealed a lot of my own sins,
+[00:49:07.640 --> 00:49:10.640]   selfishness and ways of thinking that I needed to change.
+[00:49:10.640 --> 00:49:15.640]   Philippians 2 is a passage that I cling to often and pray and meditate over
+[00:49:15.640 --> 00:49:18.640]   when I selfishly want to think in marriage, what about me?
+[00:49:18.640 --> 00:49:21.640]   Because when I see the humble servant love of Christ,
+[00:49:21.640 --> 00:49:24.640]   though he was God yet would choose to love simple people like us,
+[00:49:24.640 --> 00:49:27.640]   how can I say that I cannot give more or forgive more
+[00:49:27.640 --> 00:49:30.640]   or serve more when I myself am a sinner too?
+[00:49:30.640 --> 00:49:34.640]   I see more clearly that being a wife is simply being a Christian in a marriage context.
+[00:49:34.640 --> 00:49:37.640]   Being a faithful wife is not only a blessing to our husbands
+[00:49:37.640 --> 00:49:41.640]   but it is a building up of the church and a testimony to the world
+[00:49:41.640 --> 00:49:45.640]   that God's covenant, love and promises are so good and better than the world has to offer.
+[00:49:45.640 --> 00:49:49.640]   I have not lived perfectly but in repentance and obedience
+[00:49:49.640 --> 00:49:52.640]   I've experienced the sweetness and joy of living in God's will as a wife.
+[00:49:52.640 --> 00:49:55.640]   I see that I'm called to be Jason's helper to pray for him
+[00:49:55.640 --> 00:49:58.640]   and see how I can be a blessing to him.
+[00:49:58.640 --> 00:50:01.640]   In opposition to what the world tells us, as Christian wives
+[00:50:01.640 --> 00:50:04.640]   we are called to seek the benefit of others above ourselves.
+[00:50:04.640 --> 00:50:07.640]   Even at times I may feel justified in my anger or frustration
+[00:50:07.640 --> 00:50:10.640]   or when I may feel discontent, God has shown me that ultimately
+[00:50:10.640 --> 00:50:13.640]   my own sins are what he wants to change.
+[00:50:13.640 --> 00:50:16.640]   I see that being a good helper is not a passive thing but very active
+[00:50:16.640 --> 00:50:20.640]   and I cannot be a good helper if I myself am not right with the Lord
+[00:50:20.640 --> 00:50:24.640]   and I need to know God's word to get biblical input when we make decisions together.
+[00:50:24.640 --> 00:50:29.640]   I hope that I and all the wives in this room can pray and be guided by God's word
+[00:50:29.640 --> 00:50:32.640]   as we seek to help our husbands so that we can be a blessing to them
+[00:50:32.640 --> 00:50:35.640]   and know that God's will for us is to be their suitable helper.
+[00:50:35.640 --> 00:50:38.640]   There are many godly women in this room
+[00:50:38.640 --> 00:50:43.640]   and I have personally been so blessed to have examples for me to learn from
+[00:50:43.640 --> 00:50:46.640]   and I hope that we can all run this race together
+[00:50:46.640 --> 00:50:49.640]   to be women of God pleasing in his sight.
+[00:50:49.640 --> 00:50:53.640]   As I was reflecting on a song to sing together with you all
+[00:50:53.640 --> 00:50:57.640]   I chose one where the lyrics reflect how I see God's goodness in my life
+[00:50:57.640 --> 00:51:01.640]   and this is my song, "Yet not I, but through Christ in me."
+[00:51:01.640 --> 00:51:03.640]   Thank you.
+[00:51:03.640 --> 00:51:14.640]   [applause]
+[00:51:14.640 --> 00:51:21.640]   What gift of grace is Jesus mighty to give me?
+[00:51:21.640 --> 00:51:28.640]   There is no more for heaven and earth to give.
+[00:51:28.640 --> 00:51:35.640]   He is my joy, my righteousness and freedom,
+[00:51:35.640 --> 00:51:42.640]   my steadfast love, my deep and boundless peace.
+[00:51:42.640 --> 00:51:50.640]   To this I hold, my hope is only Jesus,
+[00:51:50.640 --> 00:51:58.640]   for my life is wholly bound to him.
+[00:51:58.640 --> 00:52:03.640]   Oh, how strange and divine I can see,
+[00:52:03.640 --> 00:52:20.640]   oh, it's mighty yet not I, but through Christ in me.
+[00:52:20.640 --> 00:52:27.640]   The night is dark, but I am not forsaken,
+[00:52:27.640 --> 00:52:34.640]   for by my side the Savior he will stay.
+[00:52:34.640 --> 00:52:41.640]   I'll never run in weakness and rejoicing,
+[00:52:41.640 --> 00:52:48.640]   for in my need his power is displayed.
+[00:52:48.640 --> 00:52:56.640]   To this I hold, my shepherd will defend me,
+[00:52:56.640 --> 00:53:03.640]   through the deepest valley he will lead me.
+[00:53:03.640 --> 00:53:07.640]   All that I have has been mine,
+[00:53:07.640 --> 00:53:17.640]   and I shall overcome, yet not I, but through Christ in me.
+[00:53:17.640 --> 00:53:26.640]   [music]
+[00:53:26.640 --> 00:53:33.640]   No fate I tread, I know I am forgiven.
+[00:53:33.640 --> 00:53:40.640]   The future sure, the present has been paid.
+[00:53:40.640 --> 00:53:47.640]   For Jesus bled and suffered for my blood,
+[00:53:47.640 --> 00:53:54.640]   and he was raised to overthrow the grave.
+[00:53:54.640 --> 00:54:02.640]   To this I hold, my sin has been defeated.
+[00:54:02.640 --> 00:54:09.640]   Jesus, now and ever, is my plea.
+[00:54:09.640 --> 00:54:16.640]   All the chains are released, I can see I am free,
+[00:54:16.640 --> 00:54:22.640]   yet not I, but through Christ in me.
+[00:54:22.640 --> 00:54:31.640]   [music]
+[00:54:31.640 --> 00:54:38.640]   With every breath I long to follow Jesus,
+[00:54:38.640 --> 00:54:45.640]   for he has said that he will bring me home.
+[00:54:45.640 --> 00:54:52.640]   And day by day I know he will renew me,
+[00:54:52.640 --> 00:54:59.640]   until I stand with joy before the throne.
+[00:54:59.640 --> 00:55:07.640]   To this I hold, my hope is only Jesus.
+[00:55:07.640 --> 00:55:14.640]   All the glory evermore to him.
+[00:55:14.640 --> 00:55:21.640]   When the race is complete, still my lips shall repeat,
+[00:55:21.640 --> 00:55:29.640]   yet not I, but through Christ in me.
+[00:55:29.640 --> 00:55:36.640]   And not I, but through Christ in me.
+[00:55:36.640 --> 00:55:46.640]   [music]
+[00:55:46.640 --> 00:56:02.640]   [applause]
+[00:56:02.640 --> 00:56:04.640]   Hello.
+[00:56:04.640 --> 00:56:09.640]   Hello, I'm Beatrice Lim, a.k.a. Bia.
+[00:56:09.640 --> 00:56:14.640]   I'm in family ministry, and I am married to Mark,
+[00:56:14.640 --> 00:56:17.640]   and I have two sons, Josiah, who is in 8th grade,
+[00:56:17.640 --> 00:56:20.640]   and Emmett, who is in 6th grade.
+[00:56:20.640 --> 00:56:25.640]   And this is my story of God's faithfulness to me.
+[00:56:25.640 --> 00:56:29.640]   That statement, "God is faithful to me," is so humbling.
+[00:56:29.640 --> 00:56:31.640]   To think that the God of this universe,
+[00:56:31.640 --> 00:56:33.640]   the God who created all things,
+[00:56:33.640 --> 00:56:36.640]   the King who is above all other kings,
+[00:56:36.640 --> 00:56:39.640]   that he would humbly tie himself to me
+[00:56:39.640 --> 00:56:42.640]   and work all things for my good.
+[00:56:42.640 --> 00:56:46.640]   That is so mind-blowing, and it is at times unbelievable.
+[00:56:46.640 --> 00:56:49.640]   Yet he has been faithful.
+[00:56:49.640 --> 00:56:51.640]   Similarly, his loving kindness
+[00:56:51.640 --> 00:56:55.640]   is increasingly more and more evident in my life.
+[00:56:55.640 --> 00:56:58.640]   Loving kindness is a description of God's love,
+[00:56:58.640 --> 00:57:01.640]   but not the sacrificial love,
+[00:57:01.640 --> 00:57:05.640]   but a love that is loyal, steadfast, and persistent,
+[00:57:05.640 --> 00:57:08.640]   a persistent kindness.
+[00:57:08.640 --> 00:57:10.640]   People say that hindsight is 20/20,
+[00:57:10.640 --> 00:57:12.640]   and indeed, looking back,
+[00:57:12.640 --> 00:57:14.640]   the Lord's faithfulness and loving kindness
+[00:57:14.640 --> 00:57:17.640]   is more clearly seen.
+[00:57:17.640 --> 00:57:19.640]   I was born into a Christian home,
+[00:57:19.640 --> 00:57:22.640]   so my entire life I have attended church
+[00:57:22.640 --> 00:57:25.640]   and have been around Christian things.
+[00:57:25.640 --> 00:57:27.640]   Despite being surrounded by religion,
+[00:57:27.640 --> 00:57:32.640]   I had absolutely no interest in God or the things of God.
+[00:57:32.640 --> 00:57:36.640]   If I showed any interest, it was for my own gain,
+[00:57:36.640 --> 00:57:41.640]   to get a ticket, a prize, to brag of my accomplishments.
+[00:57:41.640 --> 00:57:46.640]   By his grace, this all changed the summer before I turned 12.
+[00:57:46.640 --> 00:57:51.640]   One day that summer, my tummy was in extreme pain.
+[00:57:51.640 --> 00:57:54.640]   I had appendicitis.
+[00:57:54.640 --> 00:57:59.640]   No problem; it's a simple outpatient surgery, usually.
+[00:57:59.640 --> 00:58:02.640]   Long story short, after three operations,
+[00:58:02.640 --> 00:58:06.640]   I lay on the hospital bed, filled with gratitude.
+[00:58:06.640 --> 00:58:08.640]   For some reason unknown to me,
+[00:58:08.640 --> 00:58:11.640]   my mind and my heart turned to God.
+[00:58:11.640 --> 00:58:15.640]   At that moment, I knew God saved me,
+[00:58:15.640 --> 00:58:19.640]   and I knew that he didn't just save my physical body from death,
+[00:58:19.640 --> 00:58:22.640]   but he saved me from my sin.
+[00:58:22.640 --> 00:58:26.640]   I prayed a simple prayer, "Thank you, God."
+[00:58:26.640 --> 00:58:30.640]   As I felt a heavy burden lift off my shoulders, I wept.
+[00:58:30.640 --> 00:58:33.640]   From my perspective, this is when I started to see
+[00:58:33.640 --> 00:58:36.640]   God's loving kindness towards me.
+[00:58:36.640 --> 00:58:39.640]   To highlight some evidence of his loving kindness in my life,
+[00:58:39.640 --> 00:58:41.640]   I turned to his discipline.
+[00:58:41.640 --> 00:58:44.640]   As it's written in Hebrews 12,
+[00:58:44.640 --> 00:58:48.640]   "For those whom the Lord loves, he disciplines,
+[00:58:48.640 --> 00:58:51.640]   "and he scourges every son whom he receives.
+[00:58:51.640 --> 00:58:56.640]   "He disciplines us for our good, so that we may share his holiness.
+[00:58:56.640 --> 00:58:59.640]   "All discipline for the moment seems not to be joyful,
+[00:58:59.640 --> 00:59:01.640]   "but sorrowful.
+[00:59:01.640 --> 00:59:03.640]   "Yet to those who have been trained by it,
+[00:59:03.640 --> 00:59:08.640]   "afterwards it yields the peaceful fruit of righteousness."
+[00:59:08.640 --> 00:59:11.640]   A couple of years after being saved,
+[00:59:11.640 --> 00:59:14.640]   I grew extremely frustrated at myself.
+[00:59:14.640 --> 00:59:17.640]   My sins were ever before me.
+[00:59:17.640 --> 00:59:24.640]   I still got angry so easily and did not so smart things in my anger.
+[00:59:24.640 --> 00:59:28.640]   I had learned of his commands, and yet I continued to fail them.
+[00:59:28.640 --> 00:59:30.640]   I couldn't sleep.
+[00:59:30.640 --> 00:59:33.640]   My mind kept circling back to doubt.
+[00:59:33.640 --> 00:59:36.640]   How can God love me?
+[00:59:36.640 --> 00:59:41.640]   There's no way a holy God can actually love me.
+[00:59:41.640 --> 00:59:45.640]   And if that's the case, what's the point of living?
+[00:59:45.640 --> 00:59:49.640]   I got out of bed, went downstairs,
+[00:59:49.640 --> 00:59:53.640]   opened the knife drawer, grasped the knife,
+[00:59:53.640 --> 00:59:56.640]   and fell on my knees.
+[00:59:56.640 --> 00:59:58.640]   God didn't love me.
+[00:59:58.640 --> 01:00:01.640]   There was no point in living.
+[01:00:01.640 --> 01:00:06.640]   But I also knew that God will not be pleased if I take my own life.
+[01:00:06.640 --> 01:00:10.640]   I was stuck. What do I do?
+[01:00:10.640 --> 01:00:14.640]   At that exact moment, my pager goes off.
+[01:00:14.640 --> 01:00:18.640]   If you don't know what a pager is, ask someone older.
+[01:00:18.640 --> 01:00:22.640]   The pager code read, "God loves you."
+[01:00:22.640 --> 01:00:24.640]   I broke down in tears.
+[01:00:24.640 --> 01:00:27.640]   God does love me.
+[01:00:27.640 --> 01:00:30.640]   Why, I don't know, but he does.
+[01:00:30.640 --> 01:00:35.640]   His love for me is steadfast despite all my failures.
+[01:00:35.640 --> 01:00:40.640]   The teen years, need I say more?
+[01:00:40.640 --> 01:00:45.640]   Yeah, there were some battles of the heart that I was forced to fight.
+[01:00:45.640 --> 01:00:49.640]   While many of my friends were starting to wear makeup and dress to impress,
+[01:00:49.640 --> 01:00:52.640]   I had a moment of crisis.
+[01:00:52.640 --> 01:00:55.640]   I began to think I was less valuable,
+[01:00:55.640 --> 01:00:59.640]   that I didn't have what my friends had.
+[01:00:59.640 --> 01:01:02.640]   I wanted to be prettier,
+[01:01:02.640 --> 01:01:05.640]   but I began to believe that I was ugly,
+[01:01:05.640 --> 01:01:09.640]   to the point I couldn't even look at myself in a mirror.
+[01:01:09.640 --> 01:01:14.640]   He was disciplining me, and I had a choice to make.
+[01:01:14.640 --> 01:01:18.640]   Will I allow my worth to be measured by my looks,
+[01:01:18.640 --> 01:01:20.640]   how I dressed myself up,
+[01:01:20.640 --> 01:01:24.640]   or will I believe that God fearfully and wonderfully made me?
+[01:01:24.640 --> 01:01:27.640]   Finally, I found the courage to look in the mirror,
+[01:01:27.640 --> 01:01:32.640]   and the words that came to mind was, "Jesus loves me."
+[01:01:32.640 --> 01:01:36.640]   Yes, Jesus loves me.
+[01:01:36.640 --> 01:01:39.640]   During my high school years, I grew in confidence,
+[01:01:39.640 --> 01:01:43.640]   and shortly after, arrogance.
+[01:01:43.640 --> 01:01:46.640]   I pointed fingers and rebuked.
+[01:01:46.640 --> 01:01:49.640]   I thought I knew my right from wrong.
+[01:01:49.640 --> 01:01:52.640]   I even rebuked my youth group pastor
+[01:01:52.640 --> 01:01:56.640]   and had theological debates with him.
+[01:01:56.640 --> 01:01:58.640]   In my self-righteousness,
+[01:01:58.640 --> 01:02:02.640]   I yelled at my brother all the time for being foolish.
+[01:02:02.640 --> 01:02:05.640]   And one day, he had enough.
+[01:02:05.640 --> 01:02:07.640]   He broke his silence.
+[01:02:07.640 --> 01:02:10.640]   "You're a hypocrite," he said.
+[01:02:10.640 --> 01:02:12.640]   I was taken aback.
+[01:02:12.640 --> 01:02:15.640]   But in my heart, I knew he was right.
+[01:02:15.640 --> 01:02:17.640]   Why was I lecturing everyone?
+[01:02:17.640 --> 01:02:22.640]   It was certainly not driven by the love of Christ.
+[01:02:22.640 --> 01:02:24.640]   I was crushed.
+[01:02:24.640 --> 01:02:26.640]   I forgot God.
+[01:02:26.640 --> 01:02:30.640]   I forgot about His love and His mercy toward me.
+[01:02:30.640 --> 01:02:36.640]   I forgot that I only stand because of His love for me.
+[01:02:36.640 --> 01:02:40.640]   My mom would say that I finally bloomed in college.
+[01:02:40.640 --> 01:02:43.640]   Apparently, I was a late bloomer.
+[01:02:43.640 --> 01:02:46.640]   I'm not entirely sure what that means,
+[01:02:46.640 --> 01:02:49.640]   but I did become more social during that time.
+[01:02:49.640 --> 01:02:51.640]   I had lots of friends--
+[01:02:51.640 --> 01:02:53.640]   or I had lots of friendships
+[01:02:53.640 --> 01:02:55.640]   and began to build a reputation,
+[01:02:55.640 --> 01:02:58.640]   some good and maybe some not so good,
+[01:02:58.640 --> 01:03:00.640]   depending on who you ask.
+[01:03:00.640 --> 01:03:04.640]   As the reputations formed, a battle began.
+[01:03:04.640 --> 01:03:06.640]   I wanted to impress.
+[01:03:06.640 --> 01:03:10.640]   I wanted to prove or disprove my reputation.
+[01:03:10.640 --> 01:03:14.640]   I began to get obsessed with how people viewed me,
+[01:03:14.640 --> 01:03:17.640]   the fear of disappointing my friends grew.
+[01:03:17.640 --> 01:03:20.640]   Their view of me, their love for me,
+[01:03:20.640 --> 01:03:22.640]   was of great importance.
+[01:03:22.640 --> 01:03:24.640]   The friends were disappointed.
+[01:03:24.640 --> 01:03:27.640]   Some close friendships grew distant.
+[01:03:27.640 --> 01:03:30.640]   And again, I was confronted.
+[01:03:30.640 --> 01:03:33.640]   If all my friends left me,
+[01:03:33.640 --> 01:03:37.640]   will "Jesus loves me" be enough?
+[01:03:37.640 --> 01:03:40.640]   Yes, Jesus loves me.
+[01:03:40.640 --> 01:03:43.640]   My parents got married young.
+[01:03:43.640 --> 01:03:45.640]   My sister got married young.
+[01:03:45.640 --> 01:03:48.640]   And I was still single.
+[01:03:48.640 --> 01:03:51.640]   Everyone close to me were worried.
+[01:03:51.640 --> 01:03:54.640]   My mom set me up with friends' sons
+[01:03:54.640 --> 01:03:57.640]   and friends' friends' sons and so forth.
+[01:03:57.640 --> 01:03:59.640]   My sister kept asking me
+[01:03:59.640 --> 01:04:01.640]   what I thought about certain guys.
+[01:04:01.640 --> 01:04:04.640]   They were all worried that I began--
+[01:04:04.640 --> 01:04:08.640]   they were so worried that I began to get worried.
+[01:04:08.640 --> 01:04:09.640]   I want to date.
+[01:04:09.640 --> 01:04:12.640]   I want to have a lovey-dovey relationship with someone.
+[01:04:12.640 --> 01:04:15.640]   Should I be worried?
+[01:04:15.640 --> 01:04:17.640]   Am I too chill about this?
+[01:04:17.640 --> 01:04:20.640]   Should I be more out there?
+[01:04:20.640 --> 01:04:23.640]   What if I never get married?
+[01:04:23.640 --> 01:04:25.640]   Will I be okay?
+[01:04:25.640 --> 01:04:27.640]   Yeah, I'll be okay.
+[01:04:27.640 --> 01:04:31.640]   Jesus has and is and will continue to love me.
+[01:04:31.640 --> 01:04:34.640]   He is enough.
+[01:04:34.640 --> 01:04:37.640]   While God's plan for me did include marriage--
+[01:04:37.640 --> 01:04:39.640]   I got married in 2008--
+[01:04:39.640 --> 01:04:42.640]   the first year was rough, to say the least.
+[01:04:42.640 --> 01:04:46.640]   It was not the lovey-dovey relationship I imagined.
+[01:04:46.640 --> 01:04:49.640]   There were lots of days I didn't feel understood.
+[01:04:49.640 --> 01:04:51.640]   I felt lonely.
+[01:04:51.640 --> 01:04:54.640]   In those moments, I didn't know it at the time.
+[01:04:54.640 --> 01:04:57.640]   But God was disciplining me again.
+[01:04:57.640 --> 01:05:00.640]   I was tempted and had succumbed to the temptation
+[01:05:00.640 --> 01:05:03.640]   that my husband was going to satisfy all my needs.
+[01:05:03.640 --> 01:05:05.640]   I forgot.
+[01:05:05.640 --> 01:05:07.640]   Jesus loves me.
+[01:05:07.640 --> 01:05:11.640]   Jesus is always more than enough.
+[01:05:11.640 --> 01:05:15.640]   The Lord has also been faithful to me as a mom.
+[01:05:15.640 --> 01:05:17.640]   Being a mom is tough.
+[01:05:17.640 --> 01:05:20.640]   It's most physically and mentally exhausting at first.
+[01:05:20.640 --> 01:05:25.640]   Then sometime around 2, they discover their will,
+[01:05:25.640 --> 01:05:29.640]   and they begin to explore how to express that will
+[01:05:29.640 --> 01:05:32.640]   through various means, such as tantrums,
+[01:05:32.640 --> 01:05:38.640]   crying, pulling, pushing, punching, biting, etc.
+[01:05:38.640 --> 01:05:41.640]   Often it turns into a battle of wills--
+[01:05:41.640 --> 01:05:44.640]   mine versus theirs.
+[01:05:44.640 --> 01:05:47.640]   In the frustration, you realize--or I realize--
+[01:05:47.640 --> 01:05:51.640]   my child is a sinner.
+[01:05:51.640 --> 01:05:53.640]   With urgency and desperation,
+[01:05:53.640 --> 01:05:55.640]   I tried to shower them with the Word.
+[01:05:55.640 --> 01:05:57.640]   I played praise songs all the time.
+[01:05:57.640 --> 01:05:59.640]   I got angry to try to control them
+[01:05:59.640 --> 01:06:02.640]   and make them stop sinning.
+[01:06:02.640 --> 01:06:06.640]   I was losing my mind, literally trying to pull my hair out.
+[01:06:06.640 --> 01:06:09.640]   "Let go," is what God said.
+[01:06:09.640 --> 01:06:11.640]   "You can't save them.
+[01:06:11.640 --> 01:06:13.640]   Even if you were a perfect mom,
+[01:06:13.640 --> 01:06:16.640]   you wouldn't be able to save them."
+[01:06:16.640 --> 01:06:18.640]   But I want to save them.
+[01:06:18.640 --> 01:06:21.640]   I want them to be saved.
+[01:06:21.640 --> 01:06:24.640]   God was disciplining me again.
+[01:06:24.640 --> 01:06:26.640]   Salvation is not yours to give.
+[01:06:26.640 --> 01:06:29.640]   You just need to be faithful.
+[01:06:29.640 --> 01:06:32.640]   Then the question came.
+[01:06:32.640 --> 01:06:35.640]   "Even if I don't save your sons,
+[01:06:35.640 --> 01:06:38.640]   will you still love me?"
+[01:06:38.640 --> 01:06:43.640]   "Yes, Lord. You are all I want."
+[01:06:43.640 --> 01:06:45.640]   I'm thankful for opportunities like this
+[01:06:45.640 --> 01:06:48.640]   to look back and see God's faithfulness to me.
+[01:06:48.640 --> 01:06:51.640]   I do not have a perfect record, but God does.
+[01:06:51.640 --> 01:06:54.640]   He has and always will be faithful.
+[01:06:54.640 --> 01:06:56.640]   And it makes me say with confidence,
+[01:06:56.640 --> 01:06:59.640]   as David said in Psalm 23,
+[01:06:59.640 --> 01:07:01.640]   "Surely, goodness and lovingkindness
+[01:07:01.640 --> 01:07:03.640]   will follow me all the days of my life,
+[01:07:03.640 --> 01:07:07.640]   and I will dwell in the house of the Lord forever."
+[01:07:07.640 --> 01:07:10.640]   His love for His children is persistent,
+[01:07:10.640 --> 01:07:13.640]   relentless, steadfast, loyal.
+[01:07:13.640 --> 01:07:16.640]   Jesus is always more than enough.
+[01:07:16.640 --> 01:07:20.640]   The more I trust Jesus, the more awesome He is,
+[01:07:20.640 --> 01:07:22.640]   and the more I want to know Him.
+[01:07:22.640 --> 01:07:26.640]   And the closest I'll ever be to Jesus is in heaven,
+[01:07:26.640 --> 01:07:30.640]   so I can't wait to meet my Jesus face-to-face on that day.
+[01:07:30.640 --> 01:07:36.640]   And so this is my song, "I Want to Know You."
+[01:07:36.640 --> 01:07:40.640]   [applause]
+[01:07:40.640 --> 01:07:58.640]   ♪ ♪
+[01:07:58.640 --> 01:08:02.640]   ♪ I've tried in a thousand ways ♪
+[01:08:02.640 --> 01:08:07.640]   ♪ My fears to quell, my hopes to raise ♪
+[01:08:07.640 --> 01:08:12.640]   ♪ But what I need, Your Word has said ♪
+[01:08:12.640 --> 01:08:16.640]   ♪ Is ever only Jesus ♪
+[01:08:16.640 --> 01:08:18.640]   Let's try that one more time, "I've tried."
+[01:08:18.640 --> 01:08:23.640]   ♪ I've tried in vain a thousand ways ♪
+[01:08:23.640 --> 01:08:28.640]   ♪ My fears to quell, my hopes to raise ♪
+[01:08:28.640 --> 01:08:33.640]   ♪ But what I need, Your Word has said ♪
+[01:08:33.640 --> 01:08:38.640]   ♪ Is ever only Jesus ♪
+[01:08:38.640 --> 01:08:40.640]   ♪ ♪
+[01:08:40.640 --> 01:08:45.640]   ♪ You die, You reign, You preach ♪
+[01:08:45.640 --> 01:08:49.640]   ♪ There's love in all Your words ♪
+[01:08:49.640 --> 01:08:54.640]   ♪ And this weary heart finds all in You ♪
+[01:08:54.640 --> 01:09:00.640]   ♪ In ever only Jesus ♪
+[01:09:00.640 --> 01:09:05.640]   ♪ I want to know You ♪
+[01:09:05.640 --> 01:09:09.640]   ♪ Jesus, my Lord ♪
+[01:09:09.640 --> 01:09:14.640]   ♪ King of the heavens ♪
+[01:09:14.640 --> 01:09:19.640]   ♪ King of my soul ♪
+[01:09:19.640 --> 01:09:23.640]   ♪ I'd trade my treasure ♪
+[01:09:23.640 --> 01:09:28.640]   ♪ All my reward ♪
+[01:09:28.640 --> 01:09:33.640]   ♪ Jesus, to know You ♪
+[01:09:33.640 --> 01:09:37.640]   ♪ And know You more ♪
+[01:09:37.640 --> 01:09:43.640]   ♪ ♪
+[01:09:43.640 --> 01:09:47.640]   ♪ The sun should curse before Your name ♪
+[01:09:47.640 --> 01:09:52.640]   ♪ I have no fear, I have no shame ♪
+[01:09:52.640 --> 01:09:56.640]   ♪ You stand with me for all my days ♪
+[01:09:56.640 --> 01:10:02.640]   ♪ My ever only Jesus ♪
+[01:10:02.640 --> 01:10:07.640]   ♪ I want to know You ♪
+[01:10:07.640 --> 01:10:11.640]   ♪ Jesus, my Lord ♪
+[01:10:11.640 --> 01:10:16.640]   ♪ King of the heavens ♪
+[01:10:16.640 --> 01:10:21.640]   ♪ King of my soul ♪
+[01:10:21.640 --> 01:10:25.640]   ♪ I'd trade my treasure ♪
+[01:10:25.640 --> 01:10:30.640]   ♪ All my reward ♪
+[01:10:30.640 --> 01:10:34.640]   ♪ Jesus, to know You ♪
+[01:10:34.640 --> 01:10:37.640]   ♪ And know You more ♪
+[01:10:37.640 --> 01:10:39.640]   Sing just the voices.
+[01:10:39.640 --> 01:10:43.640]   ♪ I want to know You ♪
+[01:10:43.640 --> 01:10:48.640]   ♪ Jesus, my Lord ♪
+[01:10:48.640 --> 01:10:52.640]   ♪ King of the heavens ♪
+[01:10:52.640 --> 01:10:57.640]   ♪ King of my soul ♪
+[01:10:57.640 --> 01:11:01.640]   ♪ I'd trade my treasure ♪
+[01:11:01.640 --> 01:11:06.640]   ♪ All my reward ♪
+[01:11:06.640 --> 01:11:10.640]   ♪ Jesus, to know You ♪
+[01:11:10.640 --> 01:11:14.640]   ♪ And know You more ♪
+[01:11:14.640 --> 01:11:23.640]   ♪ ♪
+[01:11:23.640 --> 01:11:28.640]   ♪ ♪
+[01:11:28.640 --> 01:11:33.640]   ♪ ♪
+[01:11:33.640 --> 01:11:36.640]   [applause]
+[01:11:43.640 --> 01:11:45.640]   - Good morning.
+[01:11:45.640 --> 01:11:47.640]   My name is Helen Shin,
+[01:11:47.640 --> 01:11:49.640]   and I'm in the family ministry,
+[01:11:49.640 --> 01:11:51.640]   more precisely, Jubilee.
+[01:11:51.640 --> 01:11:53.640]   And my husband's name is Dean,
+[01:11:53.640 --> 01:11:55.640]   and we have three kids,
+[01:11:55.640 --> 01:11:57.640]   two adult sons and a third son
+[01:11:57.640 --> 01:11:59.640]   in his senior year of high school.
+[01:11:59.640 --> 01:12:02.640]   We've been at Berean for over nine years now,
+[01:12:02.640 --> 01:12:04.640]   and this is my story.
+[01:12:04.640 --> 01:12:07.640]   It's always a challenge to share my salvation story.
+[01:12:07.640 --> 01:12:09.640]   I don't have a specific date or time
+[01:12:09.640 --> 01:12:12.640]   that I can trace my regeneration to,
+[01:12:12.640 --> 01:12:14.640]   but like many of you, it was a journey
+[01:12:14.640 --> 01:12:16.640]   to rebirth in Christ.
+[01:12:16.640 --> 01:12:19.640]   I grew up attending an immigrant church,
+[01:12:19.640 --> 01:12:22.640]   my family having four generations of churchgoers.
+[01:12:22.640 --> 01:12:24.640]   My maternal grandmother told me
+[01:12:24.640 --> 01:12:26.640]   she used to play with American missionaries
+[01:12:26.640 --> 01:12:28.640]   when she was a child.
+[01:12:28.640 --> 01:12:31.640]   And I'm so thankful that God used the obedience of others
+[01:12:31.640 --> 01:12:34.640]   to bring the gospel to Korea.
+[01:12:34.640 --> 01:12:36.640]   While I read the Bible,
+[01:12:36.640 --> 01:12:38.640]   faithfully attended Sunday school,
+[01:12:38.640 --> 01:12:40.640]   and was always at church,
+[01:12:40.640 --> 01:12:43.640]   my understanding of God was very conceptual
+[01:12:43.640 --> 01:12:45.640]   and not very personal.
+[01:12:45.640 --> 01:12:49.640]   Church was community, where my closest friends were.
+[01:12:49.640 --> 01:12:51.640]   And from an early age,
+[01:12:51.640 --> 01:12:54.640]   the Lord made his presence known to me.
+[01:12:54.640 --> 01:12:56.640]   I never doubted God's existence
+[01:12:56.640 --> 01:12:58.640]   or that what he said was true,
+[01:12:58.640 --> 01:13:01.640]   but my understanding was incomplete.
+[01:13:01.640 --> 01:13:04.640]   Thankfully, though, because of his hedge of protection,
+[01:13:04.640 --> 01:13:07.640]   my childhood was generally peaceful and content,
+[01:13:07.640 --> 01:13:10.640]   even with financial hardships like bankruptcy,
+[01:13:10.640 --> 01:13:12.640]   a lot of moving.
+[01:13:12.640 --> 01:13:15.640]   Our family was always fed, clothed, and housed,
+[01:13:15.640 --> 01:13:18.640]   no matter how dire the finances got.
+[01:13:18.640 --> 01:13:21.640]   And I remember distinctly my dad telling me
+[01:13:21.640 --> 01:13:24.640]   while his business failures were difficult,
+[01:13:24.640 --> 01:13:26.640]   he knew that God used them to humble him
+[01:13:26.640 --> 01:13:29.640]   and remind him that his hope should only be in God
+[01:13:29.640 --> 01:13:32.640]   and not in his own abilities.
+[01:13:32.640 --> 01:13:34.640]   I remember in eighth grade,
+[01:13:34.640 --> 01:13:38.640]   just feeling very plagued with where I would go
+[01:13:38.640 --> 01:13:39.640]   if I should die,
+[01:13:39.640 --> 01:13:42.640]   and that led me to make a confession of faith
+[01:13:42.640 --> 01:13:44.640]   to be saved.
+[01:13:44.640 --> 01:13:46.640]   But my understanding of my true need for Christ
+[01:13:46.640 --> 01:13:48.640]   was incomplete.
+[01:13:48.640 --> 01:13:50.640]   I continued to be dutiful in church,
+[01:13:50.640 --> 01:13:51.640]   serving in many capacities
+[01:13:51.640 --> 01:13:54.640]   with the sense of responsibility to follow God,
+[01:13:54.640 --> 01:13:56.640]   but something key was still missing.
+[01:13:56.640 --> 01:13:58.640]   Then once I left for college,
+[01:13:58.640 --> 01:14:01.640]   it was the first time out of my safe bubble,
+[01:14:01.640 --> 01:14:05.640]   and my eyes were open to this world and its depravity.
+[01:14:05.640 --> 01:14:06.640]   But more than that,
+[01:14:06.640 --> 01:14:09.640]   God was causing me to examine my own heart,
+[01:14:09.640 --> 01:14:11.640]   to question what my core beliefs were,
+[01:14:11.640 --> 01:14:13.640]   and to question my foundation.
+[01:14:13.640 --> 01:14:15.640]   I struggled because I thought I knew
+[01:14:15.640 --> 01:14:16.640]   what it meant to be a Christian,
+[01:14:16.640 --> 01:14:18.640]   but my efforts seemed to fall short,
+[01:14:18.640 --> 01:14:21.640]   and everything felt more like a burden than a joy.
+[01:14:21.640 --> 01:14:24.640]   This is when God revealed and confronted me
+[01:14:24.640 --> 01:14:27.640]   with my core pride and my sin.
+[01:14:27.640 --> 01:14:30.640]   The fact that I still had hope in myself
+[01:14:30.640 --> 01:14:32.640]   revealed that fundamentally,
+[01:14:32.640 --> 01:14:37.640]   I still thought there was something redeemable about me.
+[01:14:37.640 --> 01:14:40.640]   Because I was raised up in a loving and God-fearing home,
+[01:14:40.640 --> 01:14:43.640]   there were many circumstances I was never placed in,
+[01:14:43.640 --> 01:14:46.640]   so where the true realities of my heart were not tested.
+[01:14:46.640 --> 01:14:48.640]   My brother had asked me,
+[01:14:48.640 --> 01:14:51.640]   "Wouldn't I lie, cheat, steal, and even murder
+[01:14:51.640 --> 01:14:53.640]   if my life circumstances were different?"
+[01:14:53.640 --> 01:14:56.640]   And back then, I self-righteously said,
+[01:14:56.640 --> 01:14:58.640]   "I don't think so."
+[01:14:58.640 --> 01:15:01.640]   God had been preparing me to face my true self.
+[01:15:01.640 --> 01:15:03.640]   I remember my senior year in college
+[01:15:03.640 --> 01:15:06.640]   lying to my Russian class TA that I was sick
+[01:15:06.640 --> 01:15:09.640]   because I had not properly prepared for an exam.
+[01:15:09.640 --> 01:15:13.640]   And that lie really, really bothered me.
+[01:15:13.640 --> 01:15:14.640]   I couldn't sleep,
+[01:15:14.640 --> 01:15:17.640]   and so I had to muster up the guts to go confess
+[01:15:17.640 --> 01:15:19.640]   and come clean with the truth,
+[01:15:19.640 --> 01:15:22.640]   and by grace, he still let me retake that exam.
+[01:15:22.640 --> 01:15:25.640]   But that was just one of several promptings from the Lord
+[01:15:25.640 --> 01:15:28.640]   to help me confront my true self.
+[01:15:28.640 --> 01:15:30.640]   Now I had to honestly answer,
+[01:15:30.640 --> 01:15:35.640]   not only would I lie, cheat, steal, and murder,
+[01:15:35.640 --> 01:15:40.640]   but I already had it in my heart.
+[01:15:40.640 --> 01:15:42.640]   In my blindness, I had compared myself
+[01:15:42.640 --> 01:15:46.640]   to select "worse people" than I,
+[01:15:46.640 --> 01:15:49.640]   but when confronted with the truth of who I was,
+[01:15:49.640 --> 01:15:52.640]   I had to confess that I could not even hold
+[01:15:52.640 --> 01:15:56.640]   to my own standards of right and wrong.
+[01:15:56.640 --> 01:15:59.640]   I told myself I wasn't going to cry,
+[01:15:59.640 --> 01:16:03.640]   let alone stand before God's standard of holiness.
+[01:16:03.640 --> 01:16:06.640]   And, in fact, I had in actuality
+[01:16:06.640 --> 01:16:09.640]   already committed all those wrongs against God.
+[01:16:09.640 --> 01:16:13.640]   So, where I had previously been self-deceived
+[01:16:13.640 --> 01:16:17.640]   to believe I was worthy of being called by him,
+[01:16:17.640 --> 01:16:18.640]   God, in his love and kindness,
+[01:16:18.640 --> 01:16:22.640]   prompted me by his grace and helped me to see,
+[01:16:22.640 --> 01:16:25.640]   as Romans 3, 10-12 says,
+[01:16:25.640 --> 01:16:28.640]   that there is nothing righteous in me.
+[01:16:28.640 --> 01:16:30.640]   No part of me sought after God,
+[01:16:30.640 --> 01:16:33.640]   and in myself, I was useless.
+[01:16:33.640 --> 01:16:35.640]   There was nothing I could contribute
+[01:16:35.640 --> 01:16:38.640]   to being worthy for Christ to choose me.
+[01:16:38.640 --> 01:16:42.640]   It was because of my complete fallenness,
+[01:16:42.640 --> 01:16:45.640]   not general humanity's, but mine,
+[01:16:45.640 --> 01:16:52.640]   my own, that Christ had to die.
+[01:16:52.640 --> 01:16:56.640]   God, in his goodness, gave me a new liberty.
+[01:16:56.640 --> 01:16:59.640]   He freed me of my Pharisaic entrapments
+[01:16:59.640 --> 01:17:03.640]   to be free and being fully known and covered by him.
+[01:17:03.640 --> 01:17:06.640]   His righteousness now covered my shamefulness,
+[01:17:06.640 --> 01:17:09.640]   something I could never do with any amount of effort.
+[01:17:09.640 --> 01:17:12.640]   Titus 2 says he saved us,
+[01:17:12.640 --> 01:17:15.640]   not on the basis of deeds,
+[01:17:15.640 --> 01:17:18.640]   which we have done in righteousness,
+[01:17:18.640 --> 01:17:20.640]   but according to his mercy,
+[01:17:20.640 --> 01:17:22.640]   by the washing of regeneration
+[01:17:22.640 --> 01:17:24.640]   and renewing by the Holy Spirit.
+[01:17:24.640 --> 01:17:28.640]   And that truly only comes as a gift from the Lord.
+[01:17:28.640 --> 01:17:32.640]   Since that time, sorry, I'm getting a napkin.
+[01:17:32.640 --> 01:17:35.640]   Since that time of regeneration,
+[01:17:35.640 --> 01:17:44.640]   there have been many milestones.
+[01:17:44.640 --> 01:17:48.640]   Since that time of regeneration,
+[01:17:48.640 --> 01:17:51.640]   there are many milestones in my Jordan River
+[01:17:51.640 --> 01:17:53.640]   that I fondly look back on and praise.
+[01:17:53.640 --> 01:17:57.640]   I call them my Jacob wrestling with God times.
+[01:17:57.640 --> 01:17:59.640]   Some of the hardest times where God brought me
+[01:17:59.640 --> 01:18:01.640]   to submit and obey and trust,
+[01:18:01.640 --> 01:18:04.640]   while unpleasant or painful at the time,
+[01:18:04.640 --> 01:18:08.640]   became some of the biggest reasons to praise and honor him.
+[01:18:08.640 --> 01:18:11.640]   It was his active pulling off of the leaves,
+[01:18:11.640 --> 01:18:13.640]   whittling, refining, and shaping
+[01:18:13.640 --> 01:18:16.640]   that he needed to do to bring himself glory.
+[01:18:16.640 --> 01:18:18.640]   And I think Bia and I were thinking on this.
+[01:18:18.640 --> 01:18:22.640]   So as Hebrews 12 speaks of the father's discipline,
+[01:18:22.640 --> 01:18:24.640]   while I often kicked back in resistance
+[01:18:24.640 --> 01:18:27.640]   because I was his child,
+[01:18:27.640 --> 01:18:31.640]   I experienced the blessing of his love as the father
+[01:18:31.640 --> 01:18:34.640]   that kept his hand on me to subdue me.
+[01:18:34.640 --> 01:18:39.640]   Some examples of those times include my dating season,
+[01:18:39.640 --> 01:18:41.640]   when God exposed the wrong value
+[01:18:41.640 --> 01:18:44.640]   and hope I had tied up in my future marriage
+[01:18:44.640 --> 01:18:47.640]   and showed me that only Christ is the true husband
+[01:18:47.640 --> 01:18:49.640]   I should put all my trust in.
+[01:18:49.640 --> 01:18:52.640]   Or the time after I had two kids
+[01:18:52.640 --> 01:18:55.640]   and following Christ felt really burdensome.
+[01:18:55.640 --> 01:18:58.640]   I got caught up in the lie of the comfort trap,
+[01:18:58.640 --> 01:19:01.640]   eating into the lie that Satan posed
+[01:19:01.640 --> 01:19:04.640]   that this "normal life" shouldn't be so hard.
+[01:19:04.640 --> 01:19:07.640]   God wrestled with me over a year
+[01:19:07.640 --> 01:19:10.640]   and convinced me not to give up the best life for the easier one.
+[01:19:10.640 --> 01:19:13.640]   And he convinced me that existing rather than living
+[01:19:13.640 --> 01:19:15.640]   would be a huge mistake.
+[01:19:15.640 --> 01:19:20.640]   There was the sweet season of obedience and abandon for his gospel,
+[01:19:20.640 --> 01:19:24.640]   moving to Central Asia with our two young children for missions,
+[01:19:24.640 --> 01:19:27.640]   then pivoting after just six months to move
+[01:19:27.640 --> 01:19:30.640]   and serve him to minister in New York City.
+[01:19:30.640 --> 01:19:34.640]   There were also the several times my husband got laid off
+[01:19:34.640 --> 01:19:38.640]   and we repeatedly learned to be on the receiving end of generosity
+[01:19:38.640 --> 01:19:40.640]   rather than giving,
+[01:19:40.640 --> 01:19:43.640]   resting on God's provision, being humbled and stretched.
+[01:19:43.640 --> 01:19:46.640]   There was the season when my first child
+[01:19:46.640 --> 01:19:49.640]   was diagnosed to be on the autism spectrum
+[01:19:49.640 --> 01:19:52.640]   and we wondered whether he'd be able to hold a pencil properly
+[01:19:52.640 --> 01:19:54.640]   or button his buttons,
+[01:19:54.640 --> 01:19:57.640]   or speak, let alone go on to college
+[01:19:57.640 --> 01:19:59.640]   or be able to get a job.
+[01:19:59.640 --> 01:20:01.640]   There was a very long season
+[01:20:01.640 --> 01:20:04.640]   where our church network of 25 years, for me,
+[01:20:04.640 --> 01:20:08.640]   crumbled into broken expectations and big disappointments.
+[01:20:08.640 --> 01:20:11.640]   But then God led us to bring in and solidify
+[01:20:11.640 --> 01:20:15.640]   that Christ is to be the center of all worship, not man.
+[01:20:15.640 --> 01:20:18.640]   And most recently, or more recently,
+[01:20:18.640 --> 01:20:22.640]   there was the season when God led me out of despair
+[01:20:22.640 --> 01:20:24.640]   over our three unsaved sons,
+[01:20:24.640 --> 01:20:28.640]   where God's comfort and conviction truly gave me peace,
+[01:20:28.640 --> 01:20:30.640]   that he loves them more than I do
+[01:20:30.640 --> 01:20:34.640]   and that I can actively wait and pray with hope.
+[01:20:34.640 --> 01:20:37.640]   And these days, there are times daily
+[01:20:37.640 --> 01:20:40.640]   when I'm caring for my mother with advanced Alzheimer's,
+[01:20:40.640 --> 01:20:43.640]   changing her diapers and feeding her
+[01:20:43.640 --> 01:20:45.640]   while struggling with my own aging,
+[01:20:45.640 --> 01:20:49.640]   where God reminds me in points to how he has proven his love
+[01:20:49.640 --> 01:20:53.640]   and his full sufficiency in this fallen and broken world.
+[01:20:53.640 --> 01:20:56.640]   He continues to prove that his ways are good,
+[01:20:56.640 --> 01:20:59.640]   that he has plans for a hope and a future,
+[01:20:59.640 --> 01:21:01.640]   and that he is the only one I can bank on
+[01:21:01.640 --> 01:21:03.640]   in this life and the next.
+[01:21:03.640 --> 01:21:07.640]   So this is my reason to sing.
+[01:21:07.640 --> 01:21:11.640]   I was also asked to share how God's faithfulness--
+[01:21:11.640 --> 01:21:14.640]   share God's faithfulness in teaching you--
+[01:21:14.640 --> 01:21:16.640]   teaching me to serve him
+[01:21:16.640 --> 01:21:18.640]   and to provide some encouragement.
+[01:21:18.640 --> 01:21:24.640]   So one big light bulb period during college
+[01:21:24.640 --> 01:21:28.640]   was when the Lord really provoked me to consider,
+[01:21:28.640 --> 01:21:30.640]   if I call Jesus Savior and Lord,
+[01:21:30.640 --> 01:21:33.640]   then my life must demonstrate this, right?
+[01:21:33.640 --> 01:21:35.640]   So if the evidence is not there,
+[01:21:35.640 --> 01:21:39.640]   can I truly say that he's my Savior and my Lord?
+[01:21:39.640 --> 01:21:43.640]   Having a lot of head knowledge, yet flaccid spiritual muscles,
+[01:21:43.640 --> 01:21:45.640]   led ongoing to ask the question,
+[01:21:45.640 --> 01:21:49.640]   "Am I truly willing to obey and follow the Lord?"
+[01:21:49.640 --> 01:21:54.640]   So I spoke to some of that in what I just shared,
+[01:21:54.640 --> 01:21:57.640]   but verses like James 2, 14,
+[01:21:57.640 --> 01:22:00.640]   about faith without deeds being dead,
+[01:22:00.640 --> 01:22:02.640]   and 1 John 3, 17 through 18,
+[01:22:02.640 --> 01:22:08.640]   convicted me that love must be in action and in truth,
+[01:22:08.640 --> 01:22:09.640]   not just words.
+[01:22:09.640 --> 01:22:13.640]   So he's continually prompted me to check and repent
+[01:22:13.640 --> 01:22:17.640]   if my service to him is just an empty lip service
+[01:22:17.640 --> 01:22:19.640]   or an action in deed.
+[01:22:19.640 --> 01:22:22.640]   This is not about salvation through works,
+[01:22:22.640 --> 01:22:26.640]   but rather his accountability toward my obedience and fruit
+[01:22:26.640 --> 01:22:28.640]   after being redeemed,
+[01:22:28.640 --> 01:22:31.640]   where he checked me by asking if Christ is my Lord
+[01:22:31.640 --> 01:22:35.640]   over and over and reminding me that he owns me,
+[01:22:35.640 --> 01:22:40.640]   that he can and he will call the shots without negotiation
+[01:22:40.640 --> 01:22:43.640]   and regardless of my resistance on my end.
+[01:22:43.640 --> 01:22:47.640]   If he's my Lord, then he must win every time.
+[01:22:47.640 --> 01:22:52.640]   Dean and I often chuckle about one of our marriage mottos.
+[01:22:52.640 --> 01:22:55.640]   We say if there's a choice to be had,
+[01:22:55.640 --> 01:22:58.640]   God is likely almost always usually telling us
+[01:22:58.640 --> 01:23:00.640]   to do the harder thing,
+[01:23:00.640 --> 01:23:04.640]   and it usually isn't really a choice.
+[01:23:04.640 --> 01:23:07.640]   So it isn't a suggestion, it's not a request,
+[01:23:07.640 --> 01:23:13.640]   but in fact, you know, since I'm redeemed by Christ,
+[01:23:13.640 --> 01:23:16.640]   the rights to my life have been relinquished
+[01:23:16.640 --> 01:23:20.640]   and turned over to the one who knows me best as my master.
+[01:23:20.640 --> 01:23:25.640]   So this may have at times graded against my desire
+[01:23:25.640 --> 01:23:28.640]   not to do anything unwillingly or half-hearted,
+[01:23:28.640 --> 01:23:30.640]   but I'm so thankful for the Holy Spirit
+[01:23:30.640 --> 01:23:32.640]   who makes it repeatedly clear
+[01:23:32.640 --> 01:23:35.640]   that Jesus' call was to consider the cost
+[01:23:35.640 --> 01:23:37.640]   and take up my cross and follow him.
+[01:23:37.640 --> 01:23:40.640]   So it was an invitation and command
+[01:23:40.640 --> 01:23:43.640]   to take the same pathway of self-denial and death,
+[01:23:43.640 --> 01:23:47.640]   and as I'm now currently likely past
+[01:23:47.640 --> 01:23:49.640]   the midpoint of my earthly life,
+[01:23:49.640 --> 01:23:52.640]   maybe really only like 20 semi-good years
+[01:23:52.640 --> 01:23:56.640]   of walking and actively serving the Lord,
+[01:23:56.640 --> 01:23:59.640]   I can't help but think, you know, what will I say
+[01:23:59.640 --> 01:24:02.640]   when I have to give an account of my life before God?
+[01:24:02.640 --> 01:24:05.640]   And he asked me, "Why did I not serve him with my whole life
+[01:24:05.640 --> 01:24:09.640]   "and waste away the time, talent, and resources he lent me
+[01:24:09.640 --> 01:24:13.640]   "on frivolous, ungodly, and temporary pleasures and pursuits?"
+[01:24:13.640 --> 01:24:16.640]   I know these sound like words from an old person,
+[01:24:16.640 --> 01:24:18.640]   which I have become,
+[01:24:18.640 --> 01:24:21.640]   but, you know, this life truly is a blink.
+[01:24:21.640 --> 01:24:23.640]   It's a mist, a vapor,
+[01:24:23.640 --> 01:24:26.640]   and I do wish I could redeem time from the past
+[01:24:26.640 --> 01:24:29.640]   to serve him and others with more abandon
+[01:24:29.640 --> 01:24:31.640]   and less reserve for myself,
+[01:24:31.640 --> 01:24:34.640]   to be generous to others and frugal to myself.
+[01:24:34.640 --> 01:24:36.640]   So to do the harder things in trust,
+[01:24:36.640 --> 01:24:38.640]   I want to expend the life that I've been extended
+[01:24:38.640 --> 01:24:40.640]   to serve the Lord in my workplace,
+[01:24:40.640 --> 01:24:43.640]   in my neighborhood, with my friends and my family,
+[01:24:43.640 --> 01:24:46.640]   pointing them to the liberating truth of the gospel of Christ
+[01:24:46.640 --> 01:24:49.640]   and demonstrating concretely the love of Christ
+[01:24:49.640 --> 01:24:52.640]   by following the steps of my servant, King.
+[01:24:52.640 --> 01:24:55.640]   So my song--this is my song.
+[01:24:55.640 --> 01:24:58.640]   I chose "All the Way My Savior Leads Me,"
+[01:24:58.640 --> 01:25:01.640]   and this song is often sung at funerals
+[01:25:01.640 --> 01:25:05.640]   as a testimony of God's faithfulness
+[01:25:05.640 --> 01:25:07.640]   through all of life's journey.
+[01:25:07.640 --> 01:25:09.640]   So as I reflected on the lyrics,
+[01:25:09.640 --> 01:25:11.640]   it's just such a great summary
+[01:25:11.640 --> 01:25:13.640]   of how God's faithfulness led me to himself,
+[01:25:13.640 --> 01:25:16.640]   and he continues to lead me through the joys and difficulties
+[01:25:16.640 --> 01:25:18.640]   and obedience in this life,
+[01:25:18.640 --> 01:25:20.640]   and how it is he who leads me
+[01:25:20.640 --> 01:25:23.640]   to the fulfillment of his promise in eternity
+[01:25:23.640 --> 01:25:26.640]   and reminds me to only hope in him,
+[01:25:26.640 --> 01:25:29.640]   for he is the sovereign one
+[01:25:29.640 --> 01:25:31.640]   leading me every step of the way.
+[01:25:31.640 --> 01:25:33.640]   So thank you.
+[01:25:33.640 --> 01:25:35.640]   [applause]
+[01:25:35.640 --> 01:25:38.640]   [piano playing]
+[01:25:50.640 --> 01:25:55.640]   # All the way my savior leads me #
+[01:25:55.640 --> 01:26:03.640]   # Who have I to ask beside me? #
+[01:26:03.640 --> 01:26:10.640]   # How could I doubt his tender mercy? #
+[01:26:10.640 --> 01:26:17.640]   # Who throughout has been my guide? #
+[01:26:18.640 --> 01:26:23.640]   # All the way my savior leads me #
+[01:26:23.640 --> 01:26:31.640]   # Cheers each winding path I tread #
+[01:26:31.640 --> 01:26:39.640]   # Gives me grace for every trial #
+[01:26:41.640 --> 01:26:46.640]   # Feeds me with the living bread #
+[01:26:46.640 --> 01:26:49.640]   You lead me.
+[01:26:49.640 --> 01:26:54.640]   # You lead me and keep me from falling #
+[01:26:54.640 --> 01:27:01.640]   # You carry me close to your heart #
+[01:27:01.640 --> 01:27:09.640]   # And surely your goodness and mercy #
+[01:27:09.640 --> 01:27:14.640]   # Your goodness and mercy will follow #
+[01:27:14.640 --> 01:27:27.640]   # All the way my savior leads me #
+[01:27:27.640 --> 01:27:34.640]   # Oh, the fullness of his love #
+[01:27:37.640 --> 01:27:42.640]   # Oh, the sureness of his promise #
+[01:27:42.640 --> 01:27:50.640]   # In the triumph of his blood #
+[01:27:50.640 --> 01:27:57.640]   # When my spirit clouds the mortal #
+[01:27:57.640 --> 01:28:05.640]   # Winged his flight around the earth #
+[01:28:06.640 --> 01:28:11.640]   # This my song through endless ages #
+[01:28:11.640 --> 01:28:19.640]   # Jesus led me all the way #
+[01:28:19.640 --> 01:28:25.640]   # You lead me and keep me from falling #
+[01:28:25.640 --> 01:28:32.640]   # You carry me close to your heart #
+[01:28:32.640 --> 01:28:35.640]   # Close to your heart #
+[01:28:35.640 --> 01:28:40.640]   # And surely your goodness and mercy #
+[01:28:40.640 --> 01:28:48.640]   # Will follow #
+[01:28:48.640 --> 01:28:50.640]   Will follow me.
+[01:28:50.640 --> 01:28:55.640]   # Will follow me #
+[01:28:59.640 --> 01:29:04.640]   # All the way my savior leads me #
+[01:29:04.640 --> 01:29:12.640]   # All the way my savior leads me #
+[01:29:12.640 --> 01:29:22.640]   Okay, next is me.
+[01:29:26.640 --> 01:29:31.640]   (applause)
+[01:29:31.640 --> 01:29:33.640]   Good morning.
+[01:29:33.640 --> 01:29:35.640]   My name is Cheryl Tang,
+[01:29:35.640 --> 01:29:38.640]   and I've had the privilege of leading you all in song this morning.
+[01:29:38.640 --> 01:29:41.640]   For those of you who don't know me,
+[01:29:41.640 --> 01:29:44.640]   I am the wife of Mike Tang and mother of three kids
+[01:29:44.640 --> 01:29:47.640]   who are seven, five, and two.
+[01:29:47.640 --> 01:29:49.640]   And this is my story.
+[01:29:49.640 --> 01:29:51.640]   I grew up in church,
+[01:29:51.640 --> 01:29:55.640]   and by God's mercy and the faithful labors of those around me,
+[01:29:55.640 --> 01:29:57.640]   in junior high,
+[01:29:57.640 --> 01:30:01.640]   I came to understand that I was a sinner and needed a savior.
+[01:30:01.640 --> 01:30:03.640]   I was baptized then,
+[01:30:03.640 --> 01:30:08.640]   but meandered my way into the thick woods of the world in high school,
+[01:30:08.640 --> 01:30:12.640]   questioning the Christian faith and God himself.
+[01:30:12.640 --> 01:30:14.640]   I succumbed to the devil's lies
+[01:30:14.640 --> 01:30:17.640]   and struggled with insecurity and identity,
+[01:30:17.640 --> 01:30:21.640]   forgetting the gospel and the truth that had freed me.
+[01:30:21.640 --> 01:30:24.640]   Right before college, by God's faithful hand,
+[01:30:24.640 --> 01:30:28.640]   I reluctantly attended a Christian conference,
+[01:30:28.640 --> 01:30:32.640]   and there the Lord spoke to me through the worship and prayer time.
+[01:30:32.640 --> 01:30:36.640]   I had denied him for so long, but he had never left me.
+[01:30:36.640 --> 01:30:40.640]   I had seeked validation from peers and performance.
+[01:30:40.640 --> 01:30:44.640]   I came out empty, and he was calling me back to him.
+[01:30:44.640 --> 01:30:49.640]   I repented of my willful ignorance and sought to follow after him,
+[01:30:49.640 --> 01:30:53.640]   and it has been 19 years since then.
+[01:30:53.640 --> 01:30:56.640]   I have been asked to share about God's faithfulness
+[01:30:56.640 --> 01:30:59.640]   in teaching me to worship him.
+[01:30:59.640 --> 01:31:03.640]   William Temple defined worship as
+[01:31:03.640 --> 01:31:07.640]   the submission of all our nature to God.
+[01:31:07.640 --> 01:31:11.640]   It is the quickening of conscience by his holiness,
+[01:31:11.640 --> 01:31:15.640]   the nourishment of mind with his truth,
+[01:31:15.640 --> 01:31:18.640]   the purifying of imagination by his beauty,
+[01:31:18.640 --> 01:31:21.640]   the opening of the heart to his love,
+[01:31:21.640 --> 01:31:24.640]   the surrender of will to his purpose,
+[01:31:24.640 --> 01:31:28.640]   and all of this gathered up in adoration,
+[01:31:28.640 --> 01:31:31.640]   the most selfless emotion of which our nature is capable,
+[01:31:31.640 --> 01:31:35.640]   and therefore the chief remedy for that self-centeredness,
+[01:31:35.640 --> 01:31:41.640]   which is our original sin and the source of all actual sin.
+[01:31:41.640 --> 01:31:45.640]   In short, worship is the posture of abandoned pride,
+[01:31:45.640 --> 01:31:49.640]   and in the past few years, the Lord has led me through the deepest valleys
+[01:31:49.640 --> 01:31:53.640]   to see my sin for what it is and to humble me.
+[01:31:53.640 --> 01:31:56.640]   Before traversing the darkness, I thought I had a good grasp
+[01:31:56.640 --> 01:32:00.640]   on the sufficiency of Christ in all things,
+[01:32:00.640 --> 01:32:04.640]   but when I was met face to face with the parasitic weeds of bitterness
+[01:32:04.640 --> 01:32:07.640]   that had grown large and thick in my heart,
+[01:32:07.640 --> 01:32:11.640]   I realized I had no idea.
+[01:32:11.640 --> 01:32:15.640]   I attempted to resolve difficulties by my own strength,
+[01:32:15.640 --> 01:32:20.640]   not knowing that I was just sowing poisonous seeds of self-reliance.
+[01:32:20.640 --> 01:32:25.640]   My time with God was lacking, and maybe it's because, deep down,
+[01:32:25.640 --> 01:32:29.640]   I was afraid of being honest before him.
+[01:32:29.640 --> 01:32:33.640]   I knew I could always go to him, but did I believe it?
+[01:32:33.640 --> 01:32:36.640]   My actions showed that I thought that I had to get myself right,
+[01:32:36.640 --> 01:32:39.640]   to be diligent in my disciplines first,
+[01:32:39.640 --> 01:32:43.640]   so that I could go guiltlessly before him and say,
+[01:32:43.640 --> 01:32:47.640]   "Look, Lord, here I am, your faithful servant."
+[01:32:47.640 --> 01:32:50.640]   But when I was left with the ruins of what was supposed to be good,
+[01:32:50.640 --> 01:32:54.640]   I had no more time to borrow.
+[01:32:54.640 --> 01:32:57.640]   I entered his presence day after day in brokenness,
+[01:32:57.640 --> 01:33:12.640]   with feeble breath.
+[01:33:12.640 --> 01:33:16.640]   Even before there is a word on my tongue before,
+[01:33:16.640 --> 01:33:19.640]   "Behold, O Lord, you know it all,"
+[01:33:19.640 --> 01:33:22.640]   I did not need to be afraid.
+[01:33:22.640 --> 01:33:49.640]   He already knew it all.
+[01:33:49.640 --> 01:33:53.640]   He knew every doubt and every pain,
+[01:33:53.640 --> 01:33:56.640]   and he saw every hurtful way.
+[01:33:56.640 --> 01:33:59.640]   And then he assured me that if we confess our sins,
+[01:33:59.640 --> 01:34:03.640]   he is faithful and righteous to forgive our sins
+[01:34:03.640 --> 01:34:07.640]   and to cleanse us from all unrighteousness.
+[01:34:07.640 --> 01:34:16.640]   God looked upon me with compassion and turned my eyes to the cross.
+[01:34:16.640 --> 01:34:25.640]   His steady hand led me to still water safe.
+[01:34:25.640 --> 01:34:31.640]   It was through his loving kindness that I came out of the valley saying,
+[01:34:31.640 --> 01:34:35.640]   "Whom have I in heaven but you?
+[01:34:35.640 --> 01:34:51.640]   For besides you, I desire nothing on earth."
+[01:34:51.640 --> 01:34:59.640]   My heart and my flesh may say,
+[01:34:59.640 --> 01:35:06.640]   "You are the strength of my heart and my portion forever."
+[01:35:06.640 --> 01:35:16.640]   I have beheld his glory and been consoled by his tender mercy.
+[01:35:16.640 --> 01:35:20.640]   And it is because of this that I worship him,
+[01:35:20.640 --> 01:35:24.640]   my comforter and deliverer.
+[01:35:24.640 --> 01:35:27.640]   This is my song.
+[01:35:27.640 --> 01:35:50.640]   [silence]
+[01:35:51.640 --> 01:36:06.640]   [music]
+[01:36:06.640 --> 01:36:10.640]   As your grief brought you low,
+[01:36:10.640 --> 01:36:13.640]   as your faith lost its hold,
+[01:36:13.640 --> 01:36:21.640]   your deliverer knows what your need is.
+[01:36:21.640 --> 01:36:25.640]   He endured every test.
+[01:36:25.640 --> 01:36:28.640]   He has felt your distress.
+[01:36:28.640 --> 01:36:32.640]   As you weep, he has wept.
+[01:36:32.640 --> 01:36:41.640]   Run to Jesus.
+[01:36:41.640 --> 01:36:44.640]   Is your shame all you see?
+[01:36:44.640 --> 01:36:47.640]   Are your sins dark and teary?
+[01:36:47.640 --> 01:36:51.640]   Your high priest lives to plead.
+[01:36:51.640 --> 01:36:55.640]   He'll forgive you.
+[01:36:55.640 --> 01:36:59.640]   What you owed, he has paid.
+[01:36:59.640 --> 01:37:02.640]   What was dead, he has raised.
+[01:37:02.640 --> 01:37:11.640]   All your guilt for his grace, run to Jesus.
+[01:37:11.640 --> 01:37:18.640]   He will lift your head.
+[01:37:18.640 --> 01:37:26.640]   He will be your rest.
+[01:37:26.640 --> 01:37:30.640]   What you owed, he has paid.
+[01:37:30.640 --> 01:37:33.640]   What was dead, he has raised.
+[01:37:33.640 --> 01:37:40.640]   All your guilt for his grace, run to Jesus.
+[01:37:40.640 --> 01:37:53.640]   [music]
+[01:37:53.640 --> 01:37:57.640]   Though the journey is long,
+[01:37:57.640 --> 01:38:00.640]   though the night carries on,
+[01:38:00.640 --> 01:38:08.640]   your redeemer is strong in your making.
+[01:38:08.640 --> 01:38:12.640]   He will carry us through.
+[01:38:12.640 --> 01:38:15.640]   He is faithful and true.
+[01:38:15.640 --> 01:38:19.640]   He will make all things new.
+[01:38:19.640 --> 01:38:24.640]   Run to Jesus.
+[01:38:24.640 --> 01:38:31.640]   He will lift your head.
+[01:38:31.640 --> 01:38:39.640]   He will be your rest.
+[01:38:39.640 --> 01:38:46.640]   He will lift your head.
+[01:38:46.640 --> 01:38:54.640]   He will be your rest.
+[01:38:54.640 --> 01:38:58.640]   He will carry us through.
+[01:38:58.640 --> 01:39:01.640]   He is faithful and true.
+[01:39:01.640 --> 01:39:05.640]   He will make all things new.
+[01:39:05.640 --> 01:39:34.640]   Run to Jesus.
+[01:39:34.640 --> 01:39:42.640]   Oh, thank you, Jen, Bia, Helen, Cheryl.
+[01:39:42.640 --> 01:39:47.640]   These four sisters have been such a huge encouragement to me,
+[01:39:47.640 --> 01:39:50.640]   and I'm sure they've been the same for all of you.
+[01:39:50.640 --> 01:39:55.640]   Thank you for sharing the ways that God has been faithfully using you
+[01:39:55.640 --> 01:40:00.640]   to be a wife, a mom, and the ways you serve him,
+[01:40:00.640 --> 01:40:04.640]   and the ways that you worship him.
+[01:40:04.640 --> 01:40:08.640]   I was reminded that it is truly by the transformative work of the gospel
+[01:40:08.640 --> 01:40:10.640]   that we can be saved.
+[01:40:10.640 --> 01:40:18.640]   And it's really a humble reminder how God chose to save us.
+[01:40:18.640 --> 01:40:25.640]   We're so undeserving, but God still chose to love us and call us his own.
+[01:40:25.640 --> 01:40:30.640]   So something that I was thinking was how am I living in response to this?
+[01:40:30.640 --> 01:40:34.640]   Do we believe that God is our true Lord and our Savior,
+[01:40:34.640 --> 01:40:38.640]   or is this something that we just say because that's what we've been taught?
+[01:40:38.640 --> 01:40:43.640]   How often do we try to live our lives as if we're the author of it,
+[01:40:43.640 --> 01:40:45.640]   as if we control it?
+[01:40:45.640 --> 01:40:51.640]   So I really pray and I hope that we could continue to lay down our lives for God
+[01:40:51.640 --> 01:40:55.640]   and fully entrust our lives in his hands.
+[01:40:55.640 --> 01:40:57.640]   And thank you so much again for sharing.
+[01:40:57.640 --> 01:41:03.640]   It really blessed me, and I'm sure it blessed a lot of you guys as well.
+[01:41:03.640 --> 01:41:09.640]   The second part of our event, it's now our turn to share our stories with our group.
+[01:41:09.640 --> 01:41:12.640]   And if you also have a worship song that you have in mind,
+[01:41:12.640 --> 01:41:15.640]   please feel free to share that as well.
+[01:41:15.640 --> 01:41:21.640]   There is a facilitator assigned to your group who can help guide the time together.
+[01:41:21.640 --> 01:41:26.640]   I think we have--can we get the--yes.
+[01:41:26.640 --> 01:41:32.640]   So some of the groups here will be moved to the cafe so that we'll have more room
+[01:41:32.640 --> 01:41:35.640]   and the tables won't be so close together.
+[01:41:35.640 --> 01:41:39.640]   This is--oh, the other one, the numbers--oh, no, this is right now.
+[01:41:39.640 --> 01:41:45.640]   The next slide shows--that's in the fellowship hall or the cafe.
+[01:41:45.640 --> 01:41:49.640]   This is the front of the stage, so the numbers will snake like this.
+[01:41:49.640 --> 01:41:52.640]   And then 27, 29, and 31 are the rooms.
+[01:41:52.640 --> 01:41:56.640]   And there are table numbers there, so you can use those table numbers
+[01:41:56.640 --> 01:41:59.640]   and go with your group over there.
+[01:41:59.640 --> 01:42:03.640]   I believe--do we have a little break right now?
+[01:42:03.640 --> 01:42:07.640]   Yes, so we have a 10-minute break, I believe.
+[01:42:07.640 --> 01:42:12.640]   And then you can go into your groups in around 1140.
+[01:42:12.640 --> 01:42:15.640]   I'm going to--maybe around 1135, I'll call you guys back,
+[01:42:15.640 --> 01:42:22.640]   and then 1140 is when we'll meet again for our last time, our closing praise.
+[01:42:22.640 --> 01:42:24.640]   And I think that's it.
+[01:42:24.640 --> 01:42:25.640]   Oh, sorry.
+[01:42:25.640 --> 01:42:29.640]   Oh, and there's also snacks, so you can get snacks from the back during your break
+[01:42:29.640 --> 01:42:31.640]   and then go off into your groups.
+[01:42:31.640 --> 01:42:35.640]   Thank you so--1040, I'm sorry.
+[01:42:35.640 --> 01:42:37.640]   Oh, no, no.
+[01:42:37.640 --> 01:42:42.640]   Sorry, us meeting again at the very end is 1140.
+[01:42:42.640 --> 01:42:44.640]   Do I have that wrong?
+[01:42:44.640 --> 01:42:49.640]   I don't think so.
+[01:42:49.640 --> 01:42:51.640]   It is 1140, okay.
+[01:42:51.640 --> 01:42:53.640]   And then I will come back with announcements then.
+[01:42:53.640 --> 01:42:54.640]   Thank you so much.
+[01:42:54.640 --> 01:43:22.640]   Enjoy your time together.
+[01:43:22.640 --> 01:43:25.640]   [Break taken]
+[01:43:26.640 --> 01:43:29.640]   [Break taken]
+[01:43:29.640 --> 01:43:32.640]   [Break taken]
+[01:43:32.640 --> 01:43:35.640]   [Break taken]
+[01:43:35.640 --> 01:43:45.640]   [BLANK_AUDIO]
+[01:43:45.640 --> 01:43:55.640]   [BLANK_AUDIO]
+[01:43:55.640 --> 01:44:05.640]   [BLANK_AUDIO]
+
