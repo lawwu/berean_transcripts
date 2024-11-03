@@ -1,0 +1,1232 @@
+
+[00:00:00.000 --> 00:00:02.920]   (soft piano music)
+[00:00:02.920 --> 00:00:05.840]   (soft piano music)
+[00:00:05.840 --> 00:00:08.760]   (soft piano music)
+[00:00:08.760 --> 00:00:11.680]   (soft piano music)
+[00:00:11.680 --> 00:00:14.600]   (soft piano music)
+[00:00:14.600 --> 00:00:17.520]   (soft piano music)
+[00:00:17.520 --> 00:00:20.440]   (soft piano music)
+[00:00:20.440 --> 00:00:25.580]   (soft piano music)
+[00:00:25.580 --> 00:00:31.460]   (soft piano music)
+[00:00:31.460 --> 00:00:37.440]   (soft piano music)
+[00:00:37.440 --> 00:00:44.380]   (soft piano music)
+[00:00:44.400 --> 00:00:47.300]   (soft piano music)
+[00:00:47.300 --> 00:00:53.280]   (soft piano music)
+[00:00:53.280 --> 00:01:00.300]   (soft piano music)
+[00:01:00.300 --> 00:01:07.300]   (soft piano music)
+[00:01:11.300 --> 00:01:14.300]   (soft piano music)
+[00:01:14.300 --> 00:01:21.200]   (soft piano music)
+[00:01:21.200 --> 00:01:28.200]   (soft piano music)
+[00:01:28.200 --> 00:01:34.220]   (soft piano music)
+[00:01:34.220 --> 00:01:41.200]   (soft piano music)
+[00:01:41.200 --> 00:01:44.120]   (soft piano music)
+[00:01:44.120 --> 00:01:54.100]   (soft piano music)
+[00:01:54.100 --> 00:02:04.100]   (soft piano music)
+[00:02:11.180 --> 00:02:14.100]   (soft piano music)
+[00:02:14.100 --> 00:02:25.100]   (soft piano music)
+[00:02:25.100 --> 00:02:34.100]   (soft piano music)
+[00:02:34.120 --> 00:02:37.020]   (soft piano music)
+[00:02:37.020 --> 00:02:47.020]   (soft piano music)
+[00:02:47.020 --> 00:02:59.020]   (soft piano music)
+[00:02:59.040 --> 00:03:01.940]   (soft piano music)
+[00:03:01.940 --> 00:03:18.940]   (soft piano music)
+[00:03:18.960 --> 00:03:21.860]   (soft piano music)
+[00:03:21.860 --> 00:03:33.860]   (soft piano music)
+[00:03:33.860 --> 00:03:43.860]   (soft piano music)
+[00:03:43.880 --> 00:03:46.780]   (soft piano music)
+[00:03:46.780 --> 00:03:56.780]   (soft piano music)
+[00:03:56.780 --> 00:04:08.780]   (soft piano music)
+[00:04:08.800 --> 00:04:11.700]   (soft piano music)
+[00:04:11.700 --> 00:04:23.700]   (soft piano music)
+[00:04:23.700 --> 00:04:31.700]   (soft piano music)
+[00:04:31.720 --> 00:04:34.620]   (soft piano music)
+[00:04:34.620 --> 00:04:51.620]   (soft piano music)
+[00:04:51.640 --> 00:04:54.540]   (soft piano music)
+[00:04:54.540 --> 00:05:14.540]   (soft piano music)
+[00:05:14.560 --> 00:05:17.460]   (soft piano music)
+[00:05:17.460 --> 00:05:27.460]   (soft piano music)
+[00:05:27.460 --> 00:05:39.460]   (soft piano music)
+[00:05:39.480 --> 00:05:42.380]   (soft piano music)
+[00:05:42.380 --> 00:05:57.380]   (soft piano music)
+[00:05:57.380 --> 00:06:08.380]   (soft piano music)
+[00:06:08.400 --> 00:06:11.300]   (soft piano music)
+[00:06:11.300 --> 00:06:27.300]   (soft piano music)
+[00:06:27.320 --> 00:06:30.220]   (soft piano music)
+[00:06:30.220 --> 00:06:45.220]   (soft piano music)
+[00:06:45.220 --> 00:06:54.220]   (soft piano music)
+[00:06:54.240 --> 00:06:57.140]   (soft piano music)
+[00:06:57.140 --> 00:07:09.140]   (soft piano music)
+[00:07:09.140 --> 00:07:17.140]   (soft piano music)
+[00:07:17.160 --> 00:07:20.060]   (soft piano music)
+[00:07:20.060 --> 00:07:31.060]   (soft piano music)
+[00:07:45.160 --> 00:07:48.060]   (soft piano music)
+[00:07:48.060 --> 00:07:58.060]   (soft piano music)
+[00:07:58.060 --> 00:08:08.060]   (soft piano music)
+[00:08:08.060 --> 00:08:10.960]   (soft piano music)
+[00:08:10.960 --> 00:08:25.960]   (soft piano music)
+[00:08:25.960 --> 00:08:36.960]   (soft piano music)
+[00:08:36.980 --> 00:08:39.860]   (soft piano music)
+[00:08:39.860 --> 00:08:49.860]   (soft piano music)
+[00:08:49.860 --> 00:08:59.860]   (soft piano music)
+[00:08:59.880 --> 00:09:02.760]   (soft piano music)
+[00:09:02.760 --> 00:09:12.760]   (soft piano music)
+[00:09:12.760 --> 00:09:22.760]   (soft piano music)
+[00:09:22.780 --> 00:09:25.660]   (soft piano music)
+[00:09:25.660 --> 00:09:41.660]   (soft piano music)
+[00:09:41.660 --> 00:09:51.660]   (soft piano music)
+[00:09:51.680 --> 00:09:54.560]   (soft piano music)
+[00:09:54.560 --> 00:10:08.560]   (soft piano music)
+[00:10:08.560 --> 00:10:16.560]   (soft piano music)
+[00:10:16.580 --> 00:10:19.460]   (soft piano music)
+[00:10:19.460 --> 00:10:29.460]   (soft piano music)
+[00:10:29.460 --> 00:10:39.460]   (soft piano music)
+[00:10:39.480 --> 00:10:42.360]   (soft piano music)
+[00:10:42.360 --> 00:10:52.360]   (soft piano music)
+[00:10:52.360 --> 00:11:03.360]   (soft piano music)
+[00:11:03.380 --> 00:11:06.260]   (soft piano music)
+[00:11:06.260 --> 00:11:15.260]   (soft piano music)
+[00:11:15.260 --> 00:11:25.260]   (soft piano music)
+[00:11:25.280 --> 00:11:28.160]   (soft piano music)
+[00:11:28.160 --> 00:11:38.160]   (soft piano music)
+[00:11:38.160 --> 00:11:46.160]   (soft piano music)
+[00:11:46.160 --> 00:11:50.160]   (soft piano music)
+[00:11:50.180 --> 00:11:53.060]   (soft piano music)
+[00:11:53.060 --> 00:12:05.060]   (soft piano music)
+[00:12:05.060 --> 00:12:15.060]   (soft piano music)
+[00:12:15.080 --> 00:12:17.960]   (soft piano music)
+[00:12:17.960 --> 00:12:33.960]   (soft piano music)
+[00:12:33.960 --> 00:12:41.960]   (soft piano music)
+[00:12:41.980 --> 00:12:44.860]   (soft piano music)
+[00:12:44.860 --> 00:13:03.060]   - Good morning, church family.
+[00:13:03.060 --> 00:13:04.180]   Happy Lord's Day.
+[00:13:04.180 --> 00:13:05.680]   We will now begin our service.
+[00:13:05.680 --> 00:13:10.100]   (soft music)
+[00:13:10.100 --> 00:13:15.100]   ♪ O for a thousand tongues to sing ♪
+[00:13:15.100 --> 00:13:20.100]   ♪ My great Redeemer's praise ♪
+[00:13:20.100 --> 00:13:25.100]   ♪ The glories of my God and King ♪
+[00:13:25.100 --> 00:13:29.100]   ♪ The triumphs of His grace ♪
+[00:13:29.100 --> 00:13:31.520]   (soft music)
+[00:13:38.100 --> 00:13:43.100]   ♪ O for a thousand tongues to sing ♪
+[00:13:43.100 --> 00:13:47.100]   ♪ My great Redeemer's praise ♪
+[00:13:47.100 --> 00:13:52.100]   ♪ The glories of my God and King ♪
+[00:13:52.100 --> 00:13:56.100]   ♪ The triumphs of His grace ♪
+[00:13:56.100 --> 00:14:01.100]   ♪ My gracious Master and my God ♪
+[00:14:01.100 --> 00:14:05.100]   ♪ Assist me to proclaim ♪
+[00:14:05.100 --> 00:14:09.100]   ♪ To spread through all the earth ♪
+[00:14:09.100 --> 00:14:13.100]   ♪ The wonders of thy name ♪
+[00:14:13.100 --> 00:14:15.520]   (soft music)
+[00:14:15.520 --> 00:14:25.100]   ♪ Jesus, the name that calms our fears ♪
+[00:14:25.100 --> 00:14:30.100]   ♪ That bids our sorrows cease ♪
+[00:14:30.100 --> 00:14:34.100]   ♪ 'Tis music in the sinner's ears ♪
+[00:14:34.100 --> 00:14:39.100]   ♪ 'Tis my comforter when He is near ♪
+[00:14:39.100 --> 00:14:43.100]   ♪ O praise the power of His holy Spirit ♪
+[00:14:43.100 --> 00:14:48.100]   ♪ He sets the prisoner free ♪
+[00:14:48.100 --> 00:14:52.100]   ♪ His blood can make the bowels clear ♪
+[00:14:52.100 --> 00:14:56.100]   ♪ His blood availed for me ♪
+[00:14:56.100 --> 00:14:58.520]   (soft music)
+[00:14:59.520 --> 00:15:01.940]   (soft music)
+[00:15:01.940 --> 00:15:14.520]   ♪ Jesus, Jesus ♪
+[00:15:14.520 --> 00:15:17.520]   ♪ Listening to His voice ♪
+[00:15:17.520 --> 00:15:22.520]   ♪ You like the dead receive ♪
+[00:15:22.520 --> 00:15:26.520]   ♪ The mortal broken hearts rejoice ♪
+[00:15:26.520 --> 00:15:31.520]   ♪ The humble born revealed ♪
+[00:15:31.520 --> 00:15:33.520]   (soft music)
+[00:15:33.520 --> 00:15:37.520]   ♪ O praise to God and praise and love ♪
+[00:15:37.520 --> 00:15:42.520]   ♪ Be ever, ever given ♪
+[00:15:42.520 --> 00:15:46.520]   ♪ Thy saints below and saints above ♪
+[00:15:46.520 --> 00:15:51.520]   ♪ The church and earth and heaven ♪
+[00:15:51.520 --> 00:15:53.520]   (soft music)
+[00:15:53.520 --> 00:15:58.520]   ♪ O a thousand tongues to sing ♪
+[00:15:58.520 --> 00:16:02.520]   ♪ My great Redeemer's praise ♪
+[00:16:02.520 --> 00:16:07.520]   ♪ The glories of my God and King ♪
+[00:16:07.520 --> 00:16:11.520]   ♪ The triumphs of His grace ♪
+[00:16:22.520 --> 00:16:24.520]   (soft music)
+[00:16:24.520 --> 00:16:26.520]   (soft music)
+[00:16:26.520 --> 00:16:31.520]   (soft music)
+[00:16:31.520 --> 00:16:35.520]   (singing in foreign language)
+[00:16:35.520 --> 00:16:39.520]   (singing in foreign language)
+[00:16:39.520 --> 00:16:43.520]   (singing in foreign language)
+[00:16:43.520 --> 00:16:46.520]   (soft music)
+[00:16:46.520 --> 00:16:50.520]   (singing in foreign language)
+[00:16:51.520 --> 00:16:55.520]   (singing in foreign language)
+[00:16:55.520 --> 00:16:59.520]   (singing in foreign language)
+[00:16:59.520 --> 00:17:04.520]   (singing in foreign language)
+[00:17:04.520 --> 00:17:08.520]   (singing in foreign language)
+[00:17:08.520 --> 00:17:13.520]   (singing in foreign language)
+[00:17:13.520 --> 00:17:20.520]   (singing in foreign language)
+[00:17:20.520 --> 00:17:26.520]   (singing in foreign language)
+[00:17:26.520 --> 00:17:34.520]   (singing in foreign language)
+[00:17:35.520 --> 00:17:40.520]   (singing in foreign language)
+[00:17:40.520 --> 00:17:49.520]   (singing in foreign language)
+[00:17:49.520 --> 00:17:55.520]   (singing in foreign language)
+[00:17:55.520 --> 00:18:01.520]   (singing in foreign language)
+[00:18:02.520 --> 00:18:05.520]   (soft music)
+[00:18:05.520 --> 00:18:12.520]   (singing in foreign language)
+[00:18:12.520 --> 00:18:18.520]   (singing in foreign language)
+[00:18:18.520 --> 00:18:26.520]   (singing in foreign language)
+[00:18:27.520 --> 00:18:32.520]   (singing in foreign language)
+[00:18:32.520 --> 00:18:39.520]   (singing in foreign language)
+[00:18:39.520 --> 00:18:45.520]   (soft music)
+[00:18:45.520 --> 00:18:51.520]   (singing in foreign language)
+[00:18:52.520 --> 00:18:57.520]   (singing in foreign language)
+[00:18:57.520 --> 00:19:05.520]   (singing in foreign language)
+[00:19:05.520 --> 00:19:13.520]   (singing in foreign language)
+[00:19:13.520 --> 00:19:19.520]   (soft music)
+[00:19:20.520 --> 00:19:25.520]   (soft music)
+[00:19:25.520 --> 00:19:33.520]   - Hi everyone, my name is Tiffany
+[00:19:33.520 --> 00:19:34.520]   and today I'll be sharing a little bit
+[00:19:34.520 --> 00:19:36.520]   about what we did in Taiwan.
+[00:19:36.520 --> 00:19:38.520]   This past week has been so sweet
+[00:19:38.520 --> 00:19:40.520]   as God graciously allowed us to see him working
+[00:19:40.520 --> 00:19:42.520]   starting from our very first day.
+[00:19:42.520 --> 00:19:43.520]   We landed around 4 a.m.
+[00:19:43.520 --> 00:19:46.520]   and we went straight to Pastor Alex's apartment
+[00:19:46.520 --> 00:19:48.520]   where we had a brief introduction
+[00:19:48.520 --> 00:19:50.520]   and overview for the trip.
+[00:19:50.520 --> 00:19:52.520]   That afternoon we also went to Hope Church
+[00:19:52.520 --> 00:19:53.520]   where we met Stephen,
+[00:19:53.520 --> 00:19:55.520]   a seminary student and member of Hope Church.
+[00:19:55.520 --> 00:19:57.520]   Throughout this week I was so encouraged by Stephen
+[00:19:57.520 --> 00:19:59.520]   in the way he serves the church,
+[00:19:59.520 --> 00:20:00.520]   spends time with the youth,
+[00:20:00.520 --> 00:20:02.520]   and just loves on people in action.
+[00:20:02.520 --> 00:20:05.520]   We spent some time flying at two nearby elementary schools
+[00:20:05.520 --> 00:20:07.520]   for the children's game night
+[00:20:07.520 --> 00:20:09.520]   that would be taking place later on in the week.
+[00:20:09.520 --> 00:20:11.520]   Several families did end up coming out to the game night
+[00:20:11.520 --> 00:20:14.520]   and for many of them it was actually their first time
+[00:20:14.520 --> 00:20:16.520]   ever stepping foot into the church.
+[00:20:16.520 --> 00:20:18.520]   That first night we also went to NKUST
+[00:20:18.520 --> 00:20:20.520]   which stands for National Kaohsiung University
+[00:20:20.520 --> 00:20:22.520]   of Science and Technology
+[00:20:22.520 --> 00:20:25.520]   to meet Sherry and the first group of students in her class.
+[00:20:25.520 --> 00:20:28.520]   Sherry is one of the English professors at NKUST
+[00:20:28.520 --> 00:20:30.520]   and she's also a member of Hope Church.
+[00:20:30.520 --> 00:20:33.520]   Throughout this week we were able to go to NKUST four times
+[00:20:33.520 --> 00:20:35.520]   and Yixiu University once
+[00:20:35.520 --> 00:20:37.520]   where we led English presentations,
+[00:20:37.520 --> 00:20:38.520]   had discussion times,
+[00:20:38.520 --> 00:20:41.520]   and just spent time with the students in smaller groups.
+[00:20:41.520 --> 00:20:44.520]   The goal of these campus tours was to build connections
+[00:20:44.520 --> 00:20:45.520]   and get to know the students,
+[00:20:45.520 --> 00:20:47.520]   ultimately trying to invite them out to Hope Church
+[00:20:47.520 --> 00:20:50.520]   for English corners and church activities.
+[00:20:50.520 --> 00:20:52.520]   For the most part the students were surprisingly
+[00:20:52.520 --> 00:20:54.520]   very open and honest about their struggles.
+[00:20:54.520 --> 00:20:57.520]   A common theme that I noticed was the overwhelming pressures
+[00:20:57.520 --> 00:20:59.520]   of going to after school academies
+[00:20:59.520 --> 00:21:02.520]   and preparing for college exams their whole life.
+[00:21:02.520 --> 00:21:05.520]   And even now as college students
+[00:21:05.520 --> 00:21:07.520]   they still face the pressures of academics
+[00:21:07.520 --> 00:21:09.520]   and wanting to do well so that they could find a good job
+[00:21:09.520 --> 00:21:11.520]   and escape from this life.
+[00:21:11.520 --> 00:21:14.520]   The fight for a better future weighs heavily on a lot of them.
+[00:21:14.520 --> 00:21:17.520]   We only had a couple hours with each group
+[00:21:17.520 --> 00:21:20.520]   and a part of me did wonder if the short time we had together
+[00:21:20.520 --> 00:21:22.520]   would actually make a difference.
+[00:21:22.520 --> 00:21:24.520]   However, God graciously showed us
+[00:21:24.520 --> 00:21:27.520]   how he is already moving in the hearts of several of them.
+[00:21:27.520 --> 00:21:29.520]   Many of them did come out to the English corners
+[00:21:29.520 --> 00:21:31.520]   and activities such as our hot pot night
+[00:21:31.520 --> 00:21:33.520]   and the night market outing that we had.
+[00:21:33.520 --> 00:21:35.520]   It was encouraging to see their openness
+[00:21:35.520 --> 00:21:37.520]   and several of them asked very good questions.
+[00:21:37.520 --> 00:21:40.520]   One of them even came out to Sunday service for the first time
+[00:21:40.520 --> 00:21:42.520]   and although he didn't understand
+[00:21:42.520 --> 00:21:44.520]   all the lyrics to the worship songs we sang
+[00:21:44.520 --> 00:21:46.520]   he said he felt touched for some reason.
+[00:21:46.520 --> 00:21:49.520]   I think we all felt touched during that worship service
+[00:21:49.520 --> 00:21:52.520]   as we reflected on the brokenness of Taiwan
+[00:21:52.520 --> 00:21:54.520]   but found comfort in Christ's sovereignty
+[00:21:54.520 --> 00:21:56.520]   knowing that he is working as we worship
+[00:21:56.520 --> 00:21:59.520]   alongside fellow faithful believers at Hope Church.
+[00:21:59.520 --> 00:22:02.520]   I believe that God is working in several of their hearts already
+[00:22:02.520 --> 00:22:05.520]   and he will continue to do so long after we leave.
+[00:22:05.520 --> 00:22:07.520]   My prayer for them is that they will continue to seek the Lord
+[00:22:07.520 --> 00:22:11.520]   and he would reveal himself to them bit by bit in his perfect timing.
+[00:22:11.520 --> 00:22:14.520]   During this trip we also had the pleasure of meeting Wei Wei,
+[00:22:14.520 --> 00:22:18.520]   a nine years old boy who lives about five minutes away from the church
+[00:22:18.520 --> 00:22:22.520]   and randomly walked in one day as Pastor Alex was preparing for his sermon.
+[00:22:22.520 --> 00:22:25.520]   His parents neglect him and they often fight about finances.
+[00:22:25.520 --> 00:22:28.520]   Wei Wei is a sweet kid and is honestly a pretty good kid
+[00:22:28.520 --> 00:22:30.520]   considering his circumstances
+[00:22:30.520 --> 00:22:32.520]   but he's also formed some bad habits already.
+[00:22:32.520 --> 00:22:35.520]   It touched my heart to see the way Hope Church has welcomed him in
+[00:22:35.520 --> 00:22:39.520]   and loved on him, providing him with food and loving
+[00:22:39.520 --> 00:22:41.520]   and showing him the love of Christ.
+[00:22:41.520 --> 00:22:43.520]   My heart breaks for Wei Wei but at the same time
+[00:22:43.520 --> 00:22:46.520]   I'm also reminded that God sees each one of his tears
+[00:22:46.520 --> 00:22:48.520]   and he loves Wei Wei and desires to save him
+[00:22:48.520 --> 00:22:51.520]   even more than any of us want that.
+[00:22:51.520 --> 00:22:54.520]   I know and trust that God is working something out for Wei Wei,
+[00:22:54.520 --> 00:22:57.520]   something better than I can imagine in my limited mind.
+[00:22:57.520 --> 00:23:00.520]   I came into the trip not knowing exactly what to expect
+[00:23:00.520 --> 00:23:04.520]   and to be quite honest there were so many things to do leading up to the trip.
+[00:23:04.520 --> 00:23:06.520]   Even on the morning we boarded the airplane.
+[00:23:06.520 --> 00:23:09.520]   My prayer going into it was that my heart would be in the right place
+[00:23:09.520 --> 00:23:11.520]   and for God to use me in some way.
+[00:23:11.520 --> 00:23:13.520]   And God really did answer that prayer
+[00:23:13.520 --> 00:23:17.520]   because when we got there the things of this world did become strangely dim.
+[00:23:17.520 --> 00:23:21.520]   The trivial things in my day-to-day life that I tend to get so caught up in
+[00:23:21.520 --> 00:23:23.520]   do not seem to matter anymore.
+[00:23:23.520 --> 00:23:26.520]   I found myself just wanting to love on the students we were interacting with,
+[00:23:26.520 --> 00:23:28.520]   just wanting to spend time with those in the church
+[00:23:28.520 --> 00:23:31.520]   and just wanting to get to know the people there.
+[00:23:31.520 --> 00:23:34.520]   Because really each person has been created so beautifully in his image,
+[00:23:34.520 --> 00:23:36.520]   so how could we not love on them?
+[00:23:36.520 --> 00:23:39.520]   To be honest, Taiwan is a place that is very spiritually dark.
+[00:23:39.520 --> 00:23:43.520]   There's so much brokenness and just a sense of a loss of direction in life.
+[00:23:43.520 --> 00:23:46.520]   And the brokenness may manifest itself in different ways
+[00:23:46.520 --> 00:23:48.520]   and look different over in Taiwan,
+[00:23:48.520 --> 00:23:51.520]   but at the end of the day the root of it is still the same.
+[00:23:51.520 --> 00:23:54.520]   It's sin and the pursuit of life apart from Christ.
+[00:23:54.520 --> 00:23:56.520]   But at the same time I'm also reminded
+[00:23:56.520 --> 00:23:59.520]   that it's the same God who loves each beautiful soul he created
+[00:23:59.520 --> 00:24:02.520]   and he desires to save them and he can save them.
+[00:24:02.520 --> 00:24:04.520]   I came in wanting to serve the people of Taiwan,
+[00:24:04.520 --> 00:24:06.520]   but it was them who showed me God's love.
+[00:24:06.520 --> 00:24:10.520]   And I'm reminded that the only thing that matters in this life is the cross.
+[00:24:10.520 --> 00:24:14.520]   I'm reminded that God, I want to live for you and I want to be spent for you.
+[00:24:14.520 --> 00:24:18.520]   And I can also have peace knowing that it's not man who saves but God who saves.
+[00:24:18.520 --> 00:24:22.520]   And he has been working and he will continue to work and I can trust in that.
+[00:24:22.520 --> 00:24:24.520]   Thank you.
+[00:24:24.520 --> 00:24:30.520]   [applause]
+[00:24:30.520 --> 00:24:32.520]   Again, we want to thank you for your prayers.
+[00:24:32.520 --> 00:24:37.520]   I think this trip was to pray and to see if the doors would get open
+[00:24:37.520 --> 00:24:39.520]   for us to continue to work there.
+[00:24:39.520 --> 00:24:44.520]   And I think we all agree that this is an opportunity that's been given to us.
+[00:24:44.520 --> 00:24:47.520]   And we are planning to return in October.
+[00:24:47.520 --> 00:24:51.520]   And we apologize that there were quite a few of you who wanted to go but couldn't
+[00:24:51.520 --> 00:24:54.520]   because we lacked space and we didn't even open it up
+[00:24:54.520 --> 00:24:56.520]   because so many people contacted me.
+[00:24:56.520 --> 00:24:58.520]   Somehow the word went out through the grapevine.
+[00:24:58.520 --> 00:25:01.520]   And so don't come to me now because I will completely forget.
+[00:25:01.520 --> 00:25:04.520]   So don't send me an email and say, "Hey, put me on the list."
+[00:25:04.520 --> 00:25:06.520]   I'm not going to remember.
+[00:25:06.520 --> 00:25:11.520]   So when the time comes and we are near and we say we're going to take sign-ups for that,
+[00:25:11.520 --> 00:25:14.520]   just be praying for it.
+[00:25:14.520 --> 00:25:17.520]   As Tiffany shared, the need there is tremendous.
+[00:25:17.520 --> 00:25:22.520]   There are churches there, but for whatever the reason, evangelism is not part of their culture.
+[00:25:22.520 --> 00:25:28.520]   And so just like Korea, when you go on campus, the Christianity is 2% or less.
+[00:25:28.520 --> 00:25:31.520]   And that's across the board in the country.
+[00:25:31.520 --> 00:25:34.520]   And we found that they are more open.
+[00:25:34.520 --> 00:25:36.520]   They are open--they're very intrigued.
+[00:25:36.520 --> 00:25:38.520]   Because of the struggles that they're having within the country,
+[00:25:38.520 --> 00:25:40.520]   they're intrigued with what's happening outside the country.
+[00:25:40.520 --> 00:25:45.520]   So they're eager to talk to foreigners, especially the college students, the younger ones.
+[00:25:45.520 --> 00:25:50.520]   And so we're going to use the manpower that we have.
+[00:25:50.520 --> 00:25:52.520]   And we have so many Taiwanese-American.
+[00:25:52.520 --> 00:25:55.520]   And the majority of our team was able to speak some Chinese,
+[00:25:55.520 --> 00:25:58.520]   so we didn't have much problem communicating with them.
+[00:25:58.520 --> 00:26:02.520]   And so we're going to continue to pray that as the door has been opened,
+[00:26:02.520 --> 00:26:04.520]   that what God will do through this channel.
+[00:26:04.520 --> 00:26:06.520]   So please continue to keep that in your prayers.
+[00:26:06.520 --> 00:26:07.520]   A few announcements.
+[00:26:07.520 --> 00:26:12.520]   First of all, this coming Saturday we have Men's Fellowship, November 9, 9 a.m.
+[00:26:12.520 --> 00:26:15.520]   And so please sign up as soon as possible.
+[00:26:15.520 --> 00:26:19.520]   We are making small groups this week, and so we need to know exactly who's able to come.
+[00:26:19.520 --> 00:26:24.520]   This coming Saturday we have some of the older men in our church that are going to be interviewed.
+[00:26:24.520 --> 00:26:28.520]   We're going to have some Q&A about their struggles in marriage early on.
+[00:26:28.520 --> 00:26:32.520]   And, you know, most of them--all of them have been married for many, many years.
+[00:26:32.520 --> 00:26:35.520]   And then all of them have grown children.
+[00:26:35.520 --> 00:26:40.520]   And so it will be an opportunity to have Q&A for the people in our church to be able to interact with them.
+[00:26:40.520 --> 00:26:42.520]   And so please sign up for that.
+[00:26:42.520 --> 00:26:45.520]   Thanksgiving Outreach Dinner that's happening on November 16 at 6 p.m.
+[00:26:45.520 --> 00:26:49.520]   If you have people that you want to invite to that where they're going to be able to share the gospel with them
+[00:26:49.520 --> 00:26:53.520]   and meet some of our outreach team members, please sign up for that.
+[00:26:53.520 --> 00:26:56.520]   Cleanup and Maintenance Day on November 23, 9 a.m.
+[00:26:56.520 --> 00:27:00.520]   So please, again, out in the courtyard the sign-ups will be there.
+[00:27:00.520 --> 00:27:02.520]   Regional Thanksgiving Dinner.
+[00:27:02.520 --> 00:27:04.520]   Please sign up for that if you are participating.
+[00:27:04.520 --> 00:27:08.520]   So we're going to put you in whatever region that you're a part of.
+[00:27:08.520 --> 00:27:10.520]   And so please sign up for that.
+[00:27:10.520 --> 00:27:15.520]   And then you'll get notice through the e-mail of which group that you're going to participate in.
+[00:27:15.520 --> 00:27:19.520]   And then lastly, our Sisters Ministry is sponsoring Operation Christmas Child.
+[00:27:19.520 --> 00:27:28.520]   And so you will need to turn that in by--if you've taken the shoebox, you'll need to turn that in by next Sunday.
+[00:27:28.520 --> 00:27:32.520]   So if you are going out there--if you visit the table, there's more information on that.
+[00:27:32.520 --> 00:27:34.520]   So please go visit that.
+[00:27:34.520 --> 00:27:36.520]   And then they'll give you more information about that.
+[00:27:36.520 --> 00:27:38.520]   All right, let me pray for us.
+[00:27:38.520 --> 00:27:43.520]   And then after our offering, our Sister Clara is going to come up and give her testimony and be baptized this morning.
+[00:27:43.520 --> 00:27:46.520]   All right, let's pray.
+[00:27:46.520 --> 00:27:54.520]   Father, we thank you for the privilege and the grace that allows us to be here together to worship you.
+[00:27:54.520 --> 00:27:59.520]   I pray that you would search us and know us and see if there's any hurtful ways in us,
+[00:27:59.520 --> 00:28:05.520]   that if we in any way are living in some form of rebellion against you,
+[00:28:05.520 --> 00:28:09.520]   I pray that your Word and your Spirit would convict us, guide us,
+[00:28:09.520 --> 00:28:14.520]   and that this worship truly would be given to you in a way that honors you.
+[00:28:14.520 --> 00:28:19.520]   I pray that the offering that we give would be an overflow of gratitude in our hearts
+[00:28:19.520 --> 00:28:21.520]   and may it be multiplied for the sake of your kingdom.
+[00:28:21.520 --> 00:28:23.520]   In Jesus' name we pray. Amen.
+[00:28:23.520 --> 00:28:26.520]   [MUSIC PLAYING]
+[00:28:27.520 --> 00:28:30.520]   [MUSIC PLAYING]
+[00:28:31.520 --> 00:28:34.520]   [MUSIC PLAYING]
+[00:28:34.520 --> 00:28:37.520]   [MUSIC PLAYING]
+[00:28:37.520 --> 00:28:40.520]   [MUSIC PLAYING]
+[00:28:40.520 --> 00:28:50.520]   [MUSIC PLAYING]
+[00:28:50.520 --> 00:29:00.520]   [MUSIC PLAYING]
+[00:29:00.520 --> 00:29:03.520]   [MUSIC PLAYING]
+[00:29:03.520 --> 00:29:14.520]   Let us all rise and let's spend a few moments to greet the neighbors around us.
+[00:29:14.520 --> 00:29:17.520]   [MUSIC PLAYING]
+[00:29:17.520 --> 00:29:20.520]   [MUSIC PLAYING]
+[00:29:20.520 --> 00:29:23.520]   [MUSIC PLAYING]
+[00:29:23.520 --> 00:29:26.520]   [MUSIC PLAYING]
+[00:29:26.520 --> 00:29:29.520]   [MUSIC PLAYING]
+[00:29:29.520 --> 00:29:32.520]   [MUSIC PLAYING]
+[00:29:32.520 --> 00:29:35.520]   [MUSIC PLAYING]
+[00:29:35.520 --> 00:29:38.520]   [MUSIC PLAYING]
+[00:29:38.520 --> 00:29:41.520]   [MUSIC PLAYING]
+[00:29:41.520 --> 00:29:44.520]   [MUSIC PLAYING]
+[00:29:44.520 --> 00:29:47.520]   [MUSIC PLAYING]
+[00:29:47.520 --> 00:29:50.520]   [MUSIC PLAYING]
+[00:29:50.520 --> 00:29:53.520]   [MUSIC PLAYING]
+[00:29:53.520 --> 00:29:58.520]   ♪ ♪
+[00:29:58.520 --> 00:30:03.520]   ♪ ♪
+[00:30:03.520 --> 00:30:05.520]   ♪ We can fly ♪
+[00:30:05.520 --> 00:30:07.520]   ♪ We can fly on the clouds ♪
+[00:30:07.520 --> 00:30:10.520]   ♪ A hundred thousand birds and suns ♪
+[00:30:10.520 --> 00:30:13.520]   ♪ Wings of paper planes ♪
+[00:30:13.520 --> 00:30:18.520]   ♪ There is one and one in the sky ♪
+[00:30:18.520 --> 00:30:22.520]   ♪ ♪
+[00:30:22.520 --> 00:30:27.520]   ♪ ♪
+[00:30:27.520 --> 00:30:32.520]   ♪ ♪
+[00:30:32.520 --> 00:30:37.520]   ♪ ♪
+[00:30:37.520 --> 00:30:42.520]   ♪ ♪
+[00:30:42.520 --> 00:30:47.520]   ♪ ♪
+[00:30:47.520 --> 00:30:52.520]   ♪ ♪
+[00:30:52.520 --> 00:30:57.520]   ♪ ♪
+[00:30:57.520 --> 00:31:02.520]   ♪ ♪
+[00:31:02.520 --> 00:31:07.520]   ♪ ♪
+[00:31:07.520 --> 00:31:12.520]   ♪ ♪
+[00:31:12.520 --> 00:31:17.520]   ♪ ♪
+[00:31:17.520 --> 00:31:22.520]   ♪ ♪
+[00:31:22.520 --> 00:31:27.520]   ♪ ♪
+[00:31:27.520 --> 00:31:32.520]   ♪ ♪
+[00:31:32.520 --> 00:31:37.520]   ♪ ♪
+[00:31:37.520 --> 00:31:42.520]   ♪ ♪
+[00:31:42.520 --> 00:31:47.520]   ♪ ♪
+[00:31:47.520 --> 00:31:52.520]   ♪ ♪
+[00:31:52.520 --> 00:31:57.520]   ♪ ♪
+[00:31:57.520 --> 00:32:02.520]   ♪ ♪
+[00:32:02.520 --> 00:32:07.520]   ♪ ♪
+[00:32:07.520 --> 00:32:12.520]   ♪ ♪
+[00:32:12.520 --> 00:32:17.520]   ♪ ♪
+[00:32:17.520 --> 00:32:22.520]   ♪ ♪
+[00:32:22.520 --> 00:32:27.520]   ♪ ♪
+[00:32:27.520 --> 00:32:32.520]   ♪ ♪
+[00:32:32.520 --> 00:32:37.520]   ♪ ♪
+[00:32:37.520 --> 00:32:42.520]   ♪ ♪
+[00:32:42.520 --> 00:32:47.520]   ♪ ♪
+[00:32:47.520 --> 00:32:52.520]   ♪ ♪
+[00:32:52.520 --> 00:32:57.520]   ♪ ♪
+[00:32:57.520 --> 00:33:02.520]   ♪ ♪
+[00:33:02.520 --> 00:33:07.520]   ♪ ♪
+[00:33:07.520 --> 00:33:12.520]   ♪ ♪
+[00:33:12.520 --> 00:33:17.520]   ♪ ♪
+[00:33:17.520 --> 00:33:22.520]   ♪ ♪
+[00:33:22.520 --> 00:33:27.520]   ♪ ♪
+[00:33:27.520 --> 00:33:32.520]   ♪ ♪
+[00:33:32.520 --> 00:33:37.520]   ♪ ♪
+[00:33:37.520 --> 00:33:42.520]   ♪ ♪
+[00:33:42.520 --> 00:33:47.520]   ♪ ♪
+[00:33:47.520 --> 00:33:52.520]   ♪ ♪
+[00:33:52.520 --> 00:33:55.520]   ♪ ♪
+[00:33:55.520 --> 00:34:02.520]   ♪ Oh Lord, you're rock and my redeemer ♪
+[00:34:02.520 --> 00:34:09.520]   ♪ Greatest treasure of my longing soul ♪
+[00:34:09.520 --> 00:34:16.520]   ♪ My God, like you there is no other ♪
+[00:34:16.520 --> 00:34:24.520]   ♪ True delight is found in you alone ♪
+[00:34:24.520 --> 00:34:32.520]   ♪ Your grace a well too deep to fathom ♪
+[00:34:32.520 --> 00:34:40.520]   ♪ Your love sees the heavens reach ♪
+[00:34:40.520 --> 00:34:47.520]   ♪ Your truth a fount of perfect wisdom ♪
+[00:34:47.520 --> 00:34:54.520]   ♪ My highest good and my unending ♪
+[00:34:54.520 --> 00:35:07.520]   ♪ ♪
+[00:35:07.520 --> 00:35:14.520]   ♪ Oh Lord, you're rock and my redeemer ♪
+[00:35:14.520 --> 00:35:22.520]   ♪ Strong defender of my weary heart ♪
+[00:35:22.520 --> 00:35:29.520]   ♪ My sword to fight the cruel deceiver ♪
+[00:35:29.520 --> 00:35:37.520]   ♪ And my shield against his hateful dark ♪
+[00:35:37.520 --> 00:35:44.520]   ♪ My song when enemies surround me ♪
+[00:35:44.520 --> 00:35:52.520]   ♪ My hope when tides of sorrow rise ♪
+[00:35:52.520 --> 00:35:58.520]   ♪ My joy when trials are abound ♪
+[00:35:58.520 --> 00:36:05.520]   ♪ Your faithfulness my refuge in divine ♪
+[00:36:05.520 --> 00:36:17.520]   ♪ ♪
+[00:36:17.520 --> 00:36:24.520]   ♪ Oh Lord, my rock and my redeemer ♪
+[00:36:24.520 --> 00:36:32.520]   ♪ Gracious savior of my ruined life ♪
+[00:36:32.520 --> 00:36:39.520]   ♪ My guilt and cross laid on your shoulders ♪
+[00:36:39.520 --> 00:36:47.520]   ♪ In my place you suffered, bled, and died ♪
+[00:36:47.520 --> 00:36:55.520]   ♪ You wrought the grave and death of hunger ♪
+[00:36:55.520 --> 00:37:03.520]   ♪ You broke the bonds of sin and shame ♪
+[00:37:03.520 --> 00:37:10.520]   ♪ You wrought the grave and death of hunger ♪
+[00:37:10.520 --> 00:37:18.520]   ♪ You broke the bonds of sin and shame ♪
+[00:37:18.520 --> 00:37:24.520]   ♪ Oh Lord, you're rock and my redeemer ♪
+[00:37:24.520 --> 00:37:31.520]   ♪ May all my days bring glory to your name ♪
+[00:37:31.520 --> 00:37:41.520]   ♪ May all my days bring glory to your name ♪
+[00:37:41.520 --> 00:37:43.520]   Amen. May be seated.
+[00:37:51.520 --> 00:37:55.520]   Hello, my name is Clara, and this is my testimony.
+[00:37:55.520 --> 00:37:59.520]   I grew up in the church, but I also grew up in a broken family.
+[00:37:59.520 --> 00:38:04.520]   In the first grade, I was introduced to my home church where I first witnessed God's grace.
+[00:38:04.520 --> 00:38:08.520]   I scared away the kids around me because of my angry nature.
+[00:38:08.520 --> 00:38:13.520]   However, I was surprised how each teacher loved all of us equally, despite how I was.
+[00:38:13.520 --> 00:38:16.520]   I had never been treated like this anywhere else.
+[00:38:16.520 --> 00:38:20.520]   I fell in love with the church because of these benefits I received.
+[00:38:20.520 --> 00:38:23.520]   I never liked being home because of all the sin and brokenness,
+[00:38:23.520 --> 00:38:27.520]   and I didn't have many friends at school, so church was my comfort.
+[00:38:27.520 --> 00:38:32.520]   I never skipped a children's Bible study and did whatever I could to attend church.
+[00:38:32.520 --> 00:38:34.520]   I still did not know who God was.
+[00:38:34.520 --> 00:38:40.520]   I simply thought that since God is love, I must receive it, but I was never willing to give it.
+[00:38:40.520 --> 00:38:43.520]   I first learned what it meant to be a sinner in sixth grade
+[00:38:43.520 --> 00:38:46.520]   when I was challenged by my youth pastor at the time.
+[00:38:46.520 --> 00:38:49.520]   I started seeking God simply because I didn't want to go to hell,
+[00:38:49.520 --> 00:38:52.520]   and I saw a life full of gifts ahead of me.
+[00:38:52.520 --> 00:38:57.520]   Throughout middle school, I had so many youth teachers praying for me and sacrificing so much for me.
+[00:38:57.520 --> 00:39:01.520]   I was never truly grateful for them, but I thought I deserved them.
+[00:39:01.520 --> 00:39:06.520]   I took advantage of them, relying on them to be my walking Bible.
+[00:39:06.520 --> 00:39:09.520]   I never once sought after the word on my own.
+[00:39:09.520 --> 00:39:12.520]   The more my knowledge grew, so did my pride.
+[00:39:12.520 --> 00:39:16.520]   I said all the right answers in my small group, but my heart was always the same.
+[00:39:16.520 --> 00:39:20.520]   In my freshman year of high school, my church split.
+[00:39:20.520 --> 00:39:22.520]   These youth teachers I clung to were gone.
+[00:39:22.520 --> 00:39:26.520]   I had no source of the word without them, and I was lost.
+[00:39:26.520 --> 00:39:30.520]   I turned to my friends in my youth group, trying to find security in them,
+[00:39:30.520 --> 00:39:34.520]   but I also chased them away with my anger during times of conflict.
+[00:39:34.520 --> 00:39:38.520]   At the end of tenth grade, I was alone, bitter, and blamed God.
+[00:39:38.520 --> 00:39:42.520]   I stopped actively seeking God during my last two years of high school
+[00:39:42.520 --> 00:39:45.520]   to the point where I don't even remember if I went to church.
+[00:39:45.520 --> 00:39:50.520]   I planned on returning to God once I was satisfied with my life at a certain point,
+[00:39:50.520 --> 00:39:52.520]   but this plan backfired.
+[00:39:52.520 --> 00:39:54.520]   My life was the opposite of what I'd planned.
+[00:39:54.520 --> 00:39:57.520]   By the end of high school, I was broken.
+[00:39:57.520 --> 00:39:59.520]   I started to take God seriously after graduation
+[00:39:59.520 --> 00:40:03.520]   because I saw that this life I planned was not working out on my own,
+[00:40:03.520 --> 00:40:06.520]   so I sought after God as an avenue for my plans.
+[00:40:06.520 --> 00:40:09.520]   When I first came to Berean, I met with P'Ne,
+[00:40:09.520 --> 00:40:12.520]   and I learned that I only ever wanted God for what he could give me.
+[00:40:12.520 --> 00:40:15.520]   I didn't see how I could ever be undeserving
+[00:40:15.520 --> 00:40:18.520]   because I never asked to be born into my life.
+[00:40:18.520 --> 00:40:21.520]   I thought God owed me for everything I went through,
+[00:40:21.520 --> 00:40:24.520]   but God continued working in this selfish heart
+[00:40:24.520 --> 00:40:27.520]   without me realizing it at the time.
+[00:40:27.520 --> 00:40:31.520]   As I kept--oh, sorry.
+[00:40:31.520 --> 00:40:34.520]   As I kept learning more about his holiness,
+[00:40:34.520 --> 00:40:37.520]   the Lord started to humble my heart.
+[00:40:37.520 --> 00:40:39.520]   During our last college retreat,
+[00:40:39.520 --> 00:40:42.520]   I felt that I needed to have all the answers about God.
+[00:40:42.520 --> 00:40:46.520]   I needed to understand predestination and why he created us.
+[00:40:46.520 --> 00:40:50.520]   I felt that once I knew all these things, only then would I trust him.
+[00:40:50.520 --> 00:40:52.520]   But through God's grace and mercy,
+[00:40:52.520 --> 00:40:58.520]   he reminded me that part of faith is believing what we cannot see.
+[00:40:58.520 --> 00:41:00.520]   Hebrews 11:3 says, "By faith we understand
+[00:41:00.520 --> 00:41:02.520]   that the words were prepared by the word of God
+[00:41:02.520 --> 00:41:06.520]   so that what is seen was not made out of things which are visible."
+[00:41:06.520 --> 00:41:09.520]   Shortly after, I went to gospel night.
+[00:41:09.520 --> 00:41:11.520]   During PPK's presentation,
+[00:41:11.520 --> 00:41:14.520]   I truly thought that this life I sought after had no meaning.
+[00:41:14.520 --> 00:41:17.520]   As Matthew 10:39 echoed in my head,
+[00:41:17.520 --> 00:41:19.520]   "Whoever finds his life will lose it,
+[00:41:19.520 --> 00:41:23.520]   and whoever finds his life for my sake will find it."
+[00:41:23.520 --> 00:41:26.520]   PPK then presented a picture of a nuclear power plant,
+[00:41:26.520 --> 00:41:29.520]   saying how it is similar to who God is.
+[00:41:29.520 --> 00:41:35.520]   It serves a great purpose, but we would die if we got near it.
+[00:41:35.520 --> 00:41:41.520]   So we have to be dressed in a suit to survive being in its presence.
+[00:41:41.520 --> 00:41:43.520]   Similarly, God has allowed us to be in his presence
+[00:41:43.520 --> 00:41:46.520]   by dressing us in his righteousness.
+[00:41:46.520 --> 00:41:48.520]   The following morning, I panicked.
+[00:41:48.520 --> 00:41:50.520]   I started to feel the weight of my sins.
+[00:41:50.520 --> 00:41:53.520]   I knew that if I died, I would go to hell because God is righteous,
+[00:41:53.520 --> 00:41:56.520]   and he is right to send me to hell for my sins,
+[00:41:56.520 --> 00:41:59.520]   and I was incapable of being in his presence.
+[00:41:59.520 --> 00:42:02.520]   Just then, I remembered what was said on gospel night,
+[00:42:02.520 --> 00:42:06.520]   which is the exact reason why God dresses us in his righteousness.
+[00:42:06.520 --> 00:42:09.520]   However, I saw that I was not dressed in a simple suit.
+[00:42:09.520 --> 00:42:17.520]   God sent his only son to die on the cross for my sins and suffered for me.
+[00:42:17.520 --> 00:42:20.520]   And through his blood, I have been forgiven.
+[00:42:20.520 --> 00:42:22.520]   I couldn't believe it.
+[00:42:22.520 --> 00:42:25.520]   I tried to make sense of why God did this,
+[00:42:25.520 --> 00:42:28.520]   but no matter how much I tried, I couldn't.
+[00:42:28.520 --> 00:42:30.520]   I tried to ask God if there was a reason,
+[00:42:30.520 --> 00:42:32.520]   but Ephesians 2, 8 through 9 says,
+[00:42:32.520 --> 00:42:36.520]   "For by grace you have been saved through faith and not that of yourselves.
+[00:42:36.520 --> 00:42:41.520]   It is the gift of God, not as a result of works so that no one may boast."
+[00:42:41.520 --> 00:42:44.520]   It was then that I truly realized that God has forgiven me
+[00:42:44.520 --> 00:42:48.520]   for every single one of my sins through the blood of Jesus Christ.
+[00:42:48.520 --> 00:42:50.520]   Even all those times when I stood before him
+[00:42:50.520 --> 00:42:54.520]   and pointed the finger at him or intentionally hurt someone.
+[00:42:54.520 --> 00:42:56.520]   I knew this truth for almost my whole life,
+[00:42:56.520 --> 00:42:59.520]   but the Lord finally opened my eyes.
+[00:42:59.520 --> 00:43:02.520]   There were many times when I questioned my faith due to the present sin in me,
+[00:43:02.520 --> 00:43:07.520]   but God is faithful and he constantly gives me assurance of my salvation.
+[00:43:07.520 --> 00:43:11.520]   The hatred I once had for God has turned into love and gratitude.
+[00:43:11.520 --> 00:43:14.520]   I am made for him, not the other way around.
+[00:43:14.520 --> 00:43:18.520]   He has helped me forgive those I told myself I would never forgive.
+[00:43:18.520 --> 00:43:21.520]   I know that I will continue to struggle with my sins,
+[00:43:21.520 --> 00:43:23.520]   and I know that life will not go as planned.
+[00:43:23.520 --> 00:43:28.520]   But if all my joy and even suffering brings joy to my creator and fulfills his will,
+[00:43:28.520 --> 00:43:31.520]   there is nothing more I could ask for.
+[00:43:31.520 --> 00:43:33.520]   Thank you.
+[00:43:33.520 --> 00:43:55.520]   As you understand, when you go into the water, you're being united with Christ's death.
+[00:43:55.520 --> 00:43:58.520]   When you come out, you're being united with his resurrected life.
+[00:43:58.520 --> 00:44:02.520]   And I baptize you in the name of the Father, the Son, and the Holy Spirit.
+[00:44:02.520 --> 00:44:22.520]   All right. Thank you, Claire, for that very encouraging testimony.
+[00:44:22.520 --> 00:44:26.520]   If you can turn your Bibles with me to Luke chapter 9.
+[00:44:26.520 --> 00:44:30.520]   I'll be reading from verse 37 all the way to verse 45.
+[00:44:30.520 --> 00:44:34.520]   Luke chapter 9, verse 37 to 45.
+[00:44:34.520 --> 00:44:36.520]   Reading the NASB.
+[00:44:36.520 --> 00:44:40.520]   On the next day, when they came down from the mountain, a large crowd met him,
+[00:44:40.520 --> 00:44:42.520]   and a man from the crowd shouted, saying,
+[00:44:42.520 --> 00:44:47.520]   "Teacher, I beg you to look at my son, for he is my only boy."
+[00:44:47.520 --> 00:44:49.520]   And a spirit seizes him, and he suddenly screams,
+[00:44:49.520 --> 00:44:52.520]   and it throws him into a convulsion with foaming at the mouth,
+[00:44:52.520 --> 00:44:57.520]   and only difficulty does it leave him, mauling him as it leaves.
+[00:44:57.520 --> 00:45:00.520]   I begged your disciples to cast it out, and they could not.
+[00:45:00.520 --> 00:45:03.520]   And Jesus answered and said, "You unbelieving and perverted generation,
+[00:45:03.520 --> 00:45:08.520]   how long shall I be with you and put up with you? Bring your son here."
+[00:45:08.520 --> 00:45:11.520]   While he was still approaching, the demon slammed him to the ground
+[00:45:11.520 --> 00:45:13.520]   and threw him into a convulsion.
+[00:45:13.520 --> 00:45:17.520]   But Jesus rebuked the unclean spirit and healed the boy and gave him back to his father.
+[00:45:17.520 --> 00:45:20.520]   And they were all amazed at the greatness of God.
+[00:45:20.520 --> 00:45:23.520]   But while everyone was marveling at all that he was doing,
+[00:45:23.520 --> 00:45:27.520]   he said to his disciples, "Let these words sink into your ears,
+[00:45:27.520 --> 00:45:30.520]   for the Son of Man is going to be delivered into the hands of men."
+[00:45:30.520 --> 00:45:32.520]   But they did not understand his statement,
+[00:45:32.520 --> 00:45:35.520]   and it was concealed from them so that they would not perceive it,
+[00:45:35.520 --> 00:45:38.520]   and they were afraid to ask him about this statement.
+[00:45:38.520 --> 00:45:41.520]   Let's pray.
+[00:45:41.520 --> 00:45:45.520]   Father, we pray that your word would speak to us,
+[00:45:45.520 --> 00:45:49.520]   guide us, lead us, encourage us, rebuke us, and strengthen us,
+[00:45:49.520 --> 00:45:54.520]   that we may be obedient, that we may worship you in spirit and in truth.
+[00:45:54.520 --> 00:45:57.520]   In Jesus' name we pray. Amen.
+[00:45:57.520 --> 00:46:02.520]   As our Taiwan team comes back, there's always--
+[00:46:02.520 --> 00:46:05.520]   when there's a spiritual high,
+[00:46:05.520 --> 00:46:09.520]   there's always a caution for the valleys that usually follow.
+[00:46:09.520 --> 00:46:13.520]   I remember as a young pastor being warned
+[00:46:13.520 --> 00:46:17.520]   that whenever I'm at a conference or speaking at some retreat,
+[00:46:17.520 --> 00:46:20.520]   that when you come back, that's when you're kind of the most vulnerable.
+[00:46:20.520 --> 00:46:25.520]   And many pastors usually fail after a spiritual high.
+[00:46:25.520 --> 00:46:27.520]   And I've noticed that through the years.
+[00:46:27.520 --> 00:46:30.520]   People come back from short-term mission trips,
+[00:46:30.520 --> 00:46:34.520]   and then from that high, because they were so encouraged and challenged,
+[00:46:34.520 --> 00:46:37.520]   there's a tendency to kind of relax.
+[00:46:37.520 --> 00:46:41.520]   And then when you relax, you have the discouragement that comes in.
+[00:46:41.520 --> 00:46:45.520]   What we're looking at this morning is right after the transfiguration.
+[00:46:45.520 --> 00:46:47.520]   A couple weeks ago we looked at that,
+[00:46:47.520 --> 00:46:51.520]   and that was kind of like the spiritual high of Jesus' ministry,
+[00:46:51.520 --> 00:46:55.520]   the transfiguration, Moses and Elijah coming in glory,
+[00:46:55.520 --> 00:46:58.520]   God the Father saying, "This is my son. Listen to him."
+[00:46:58.520 --> 00:47:01.520]   And so the three disciples see the transfiguration,
+[00:47:01.520 --> 00:47:04.520]   and they saw the glory of Jesus Christ,
+[00:47:04.520 --> 00:47:07.520]   and heard the direct, audible voice of God,
+[00:47:07.520 --> 00:47:11.520]   and they come down from the mountain, and they find this discouragement.
+[00:47:11.520 --> 00:47:15.520]   They come down, and they find a man who is desperate
+[00:47:15.520 --> 00:47:19.520]   because his son is demon-possessed, and the disciples couldn't do anything.
+[00:47:19.520 --> 00:47:22.520]   And you could sense frustration in Jesus' tone.
+[00:47:22.520 --> 00:47:25.520]   "How long will I be with you?"
+[00:47:25.520 --> 00:47:28.520]   This morning I want to look at what Jesus is doing here.
+[00:47:28.520 --> 00:47:31.520]   And again, I want all of us to understand the context of this,
+[00:47:31.520 --> 00:47:35.520]   where Jesus has now turned his face toward the cross.
+[00:47:35.520 --> 00:47:38.520]   He's preparing primarily his disciples.
+[00:47:38.520 --> 00:47:40.520]   He's revealing himself to them,
+[00:47:40.520 --> 00:47:44.520]   because they needed to know why he was doing what he was doing.
+[00:47:44.520 --> 00:47:46.520]   They didn't fully understand,
+[00:47:46.520 --> 00:47:49.520]   and even at the end of this text it says they don't fully understand,
+[00:47:49.520 --> 00:47:51.520]   but they needed to know who he is,
+[00:47:51.520 --> 00:47:53.520]   so that they would understand why he came,
+[00:47:53.520 --> 00:47:56.520]   and what he was going to do on the cross.
+[00:47:56.520 --> 00:48:00.520]   First thing that we come into, that Luke reminds us,
+[00:48:00.520 --> 00:48:03.520]   is just the desperate situation of this man.
+[00:48:03.520 --> 00:48:06.520]   For the sake of time, I won't read the text, because we just read it.
+[00:48:06.520 --> 00:48:10.520]   But the man's situation is highlighted for us about his son,
+[00:48:10.520 --> 00:48:13.520]   that "This was my only boy."
+[00:48:13.520 --> 00:48:16.520]   Not to say that if he had ten children that it wouldn't have mattered,
+[00:48:16.520 --> 00:48:19.520]   but Luke highlights the fact that it was his only boy,
+[00:48:19.520 --> 00:48:22.520]   meaning how desperate he was.
+[00:48:22.520 --> 00:48:24.520]   You have to understand, at this particular time,
+[00:48:24.520 --> 00:48:28.520]   children was directly related to their wealth.
+[00:48:28.520 --> 00:48:31.520]   So the fact that he only had the only son,
+[00:48:31.520 --> 00:48:34.520]   meaning that it wasn't just because he loved his son.
+[00:48:34.520 --> 00:48:37.520]   His whole family was tied to this son.
+[00:48:37.520 --> 00:48:41.520]   His whole generation, the inheritance, all of it was tied to this son.
+[00:48:41.520 --> 00:48:46.520]   So if this son is ruined, the family line will end here.
+[00:48:46.520 --> 00:48:50.520]   Highlighting the desperateness of his situation.
+[00:48:50.520 --> 00:48:52.520]   And then it goes into detail.
+[00:48:52.520 --> 00:48:54.520]   I don't think there's any other demon possession
+[00:48:54.520 --> 00:48:59.520]   that has gone through this much detail of what it was doing to this child.
+[00:48:59.520 --> 00:49:02.520]   In Luke 9.39 it says, "The demon seizes the boy."
+[00:49:02.520 --> 00:49:05.520]   And then again it says, "The child is screaming."
+[00:49:05.520 --> 00:49:08.520]   Again in verse 39 and 42, "The spirit slammed him to the ground
+[00:49:08.520 --> 00:49:11.520]   in convulsion so that he foams at the mouth."
+[00:49:11.520 --> 00:49:15.520]   And then in the other Gospels, Matthew 9.18,
+[00:49:15.520 --> 00:49:18.520]   "He grinds his teeth and becomes stiff as a board."
+[00:49:18.520 --> 00:49:22.520]   Matthew 17.15, "Many times he had been cast into the fire and water
+[00:49:22.520 --> 00:49:24.520]   by evil spirits."
+[00:49:24.520 --> 00:49:26.520]   Mark 9.25, "He's covered with scars."
+[00:49:26.520 --> 00:49:32.520]   And then Mark 9.25, "The spirit has made him deaf and dumb."
+[00:49:32.520 --> 00:49:36.520]   We look at this, and again, it's to highlight the desperateness of his situation.
+[00:49:36.520 --> 00:49:39.520]   And then on top of that, he said, "The disciples did everything that they could
+[00:49:39.520 --> 00:49:44.520]   to help this boy, but they could not cast this demon out."
+[00:49:44.520 --> 00:49:48.520]   So in desperation, they're running to Christ.
+[00:49:48.520 --> 00:49:50.520]   First thing that we look at, we see, I mean, clearly,
+[00:49:50.520 --> 00:49:55.520]   if we look at this to today's lens, he has epilepsy.
+[00:49:55.520 --> 00:49:59.520]   He's having severe seizures.
+[00:49:59.520 --> 00:50:01.520]   So we may look at that, and some people may look at that as because,
+[00:50:01.520 --> 00:50:04.520]   you know, 2,000 years ago, they didn't have the medicine.
+[00:50:04.520 --> 00:50:08.520]   They didn't have the sophistication, so they just attributed to the demons.
+[00:50:08.520 --> 00:50:12.520]   And so people may look at certain things that are happening and say,
+[00:50:12.520 --> 00:50:15.520]   "Oh, that's a--medically, this, and medically, this is happening."
+[00:50:15.520 --> 00:50:18.520]   And it may not be wrong.
+[00:50:18.520 --> 00:50:21.520]   And so if we're not careful, we may look at that and say,
+[00:50:21.520 --> 00:50:24.520]   "We are more sophisticated than the first century,
+[00:50:24.520 --> 00:50:29.520]   so therefore, they're just simply diagnosing it as demonic."
+[00:50:29.520 --> 00:50:33.520]   But I want to give you a different perspective on that.
+[00:50:33.520 --> 00:50:39.520]   Because the Bible clearly says that our fight is not against flesh and blood.
+[00:50:39.520 --> 00:50:44.520]   There is a demonic world that all of us live under.
+[00:50:44.520 --> 00:50:50.520]   And so everything has been tainted and is in the influence of Satan.
+[00:50:50.520 --> 00:50:55.520]   So if we're not careful, we can easily dissect--Satanic? Not Satanic.
+[00:50:55.520 --> 00:50:58.520]   Of God? Not of God.
+[00:50:58.520 --> 00:51:07.520]   How much of what we consider to be medical possibly is also demonic?
+[00:51:07.520 --> 00:51:10.520]   That you and I clearly distinguish,
+[00:51:10.520 --> 00:51:13.520]   because we can identify physically what's going wrong,
+[00:51:13.520 --> 00:51:17.520]   because we've come with medicine to deal with the symptoms of epilepsy,
+[00:51:17.520 --> 00:51:20.520]   we found the cure.
+[00:51:20.520 --> 00:51:26.520]   But in the first century, when maybe the medical and the medicine that they have,
+[00:51:26.520 --> 00:51:31.520]   the chemicals that may reduce the symptoms, and we suppress the symptoms,
+[00:51:31.520 --> 00:51:35.520]   but the problem that was caused by the demonic presence,
+[00:51:35.520 --> 00:51:39.520]   oftentimes we ignore because we think we've come up with the answer.
+[00:51:39.520 --> 00:51:43.520]   And all that medicine could do, at least for this, is to hide the symptoms
+[00:51:43.520 --> 00:51:46.520]   so that we can survive.
+[00:51:46.520 --> 00:51:51.520]   How much of what we think is the answer is simply just covering up the problem?
+[00:51:51.520 --> 00:51:54.520]   How much of the medical things that we identify
+[00:51:54.520 --> 00:52:00.520]   is also because it is being influenced by demonic powers?
+[00:52:00.520 --> 00:52:04.520]   The Bible clearly tells us that the god of this age is Satan.
+[00:52:04.520 --> 00:52:08.520]   And the Bible says that all have sinned and fall short of the glory of God.
+[00:52:08.520 --> 00:52:13.520]   And so this generation is influenced and under the power of Satan.
+[00:52:13.520 --> 00:52:19.520]   And it is a very powerful, very knowledgeable,
+[00:52:19.520 --> 00:52:26.520]   and it is actively pursuing to devour us.
+[00:52:26.520 --> 00:52:29.520]   In Ezekiel 28, 13-17, I'm not going to read all of it.
+[00:52:29.520 --> 00:52:34.520]   Most scholars believe that this prophecy about the king of Tyre
+[00:52:34.520 --> 00:52:37.520]   is ultimately in reference to the fall of Satan.
+[00:52:37.520 --> 00:52:40.520]   I'm not going to read all of it, but I'm going to read verse 14 and 15.
+[00:52:40.520 --> 00:52:43.520]   It says, "You were the anointed cherub who covers, and I placed you there.
+[00:52:43.520 --> 00:52:45.520]   You were on the holy mountain of God.
+[00:52:45.520 --> 00:52:47.520]   You walked in the midst of the stones of fire.
+[00:52:47.520 --> 00:52:50.520]   You were blameless in your ways from the day you were created
+[00:52:50.520 --> 00:52:53.520]   until unrighteousness was found in you."
+[00:52:53.520 --> 00:52:55.520]   And then you skip to verse 17.
+[00:52:55.520 --> 00:52:59.520]   "Your heart was lifted up because of your beauty."
+[00:52:59.520 --> 00:53:02.520]   In other words, because God has exalted you, because you were beautiful,
+[00:53:02.520 --> 00:53:05.520]   you started to become arrogant.
+[00:53:05.520 --> 00:53:09.520]   "You corrupted your wisdom by reason of your splendor."
+[00:53:09.520 --> 00:53:13.520]   Because you are wise, because you are knowledgeable, you became arrogant.
+[00:53:13.520 --> 00:53:15.520]   And as a result, "I cast you to the ground.
+[00:53:15.520 --> 00:53:20.520]   I put you before kings that they may see you."
+[00:53:20.520 --> 00:53:24.520]   In fact, in that text, it also describes how he walked in the Garden of Eden.
+[00:53:24.520 --> 00:53:27.520]   That could not be king of Tyre.
+[00:53:27.520 --> 00:53:32.520]   Jesus himself says in Luke 10-18, and he said to them,
+[00:53:32.520 --> 00:53:36.520]   "I was watching Satan fall from heaven like lightning."
+[00:53:36.520 --> 00:53:40.520]   Again, many commentators believe that that, Luke 10-18,
+[00:53:40.520 --> 00:53:44.520]   is in reference to the prophecy in Ezekiel.
+[00:53:44.520 --> 00:53:48.520]   That what Jesus was saying was the fall of Satan.
+[00:53:48.520 --> 00:53:54.520]   Now, I say all of this because in our generation,
+[00:53:54.520 --> 00:53:57.520]   especially in our circles,
+[00:53:57.520 --> 00:54:03.520]   predominantly we're not aware how much, how active Satan is
+[00:54:03.520 --> 00:54:07.520]   to hinder us, to defile us.
+[00:54:07.520 --> 00:54:11.520]   The schemes that he is constantly scheming to divide the church,
+[00:54:11.520 --> 00:54:14.520]   whether it is in your personal life or in the church,
+[00:54:14.520 --> 00:54:16.520]   and oftentimes in the name of righteousness,
+[00:54:16.520 --> 00:54:19.520]   oftentimes in the name of being biblical.
+[00:54:19.520 --> 00:54:23.520]   Satan is constantly scheming to destroy the church.
+[00:54:23.520 --> 00:54:28.520]   And if we're not paying attention, we can easily fall.
+[00:54:28.520 --> 00:54:32.520]   The people who are in the most danger are the ones who are not aware.
+[00:54:32.520 --> 00:54:36.520]   They're resolved, they're educated, they read,
+[00:54:36.520 --> 00:54:40.520]   and they're passionate, but they don't realize
+[00:54:40.520 --> 00:54:45.520]   that there is Satanic scheming behind all that is happening.
+[00:54:45.520 --> 00:54:51.520]   If Satan is the god of this age, as it says in the Bible,
+[00:54:51.520 --> 00:54:54.520]   where do you see the Satanic influence the most?
+[00:54:54.520 --> 00:54:57.520]   How does it come into our culture?
+[00:54:57.520 --> 00:55:00.520]   It's a rhetorical question, but I want you to think for a second.
+[00:55:00.520 --> 00:55:05.520]   How does Satanic influence come into our culture in general,
+[00:55:05.520 --> 00:55:08.520]   and probably even into the church?
+[00:55:08.520 --> 00:55:12.520]   Because he does it through scheming.
+[00:55:12.520 --> 00:55:14.520]   He doesn't come in the devil's suit.
+[00:55:14.520 --> 00:55:17.520]   He doesn't come in and say, "I'm Satan. Worship me."
+[00:55:17.520 --> 00:55:21.520]   It comes in scheming. It crawls in. It creeps in.
+[00:55:21.520 --> 00:55:26.520]   And people are not aware that they're being influenced by Satan.
+[00:55:26.520 --> 00:55:31.520]   I would say, probably through entertainment, for the most part.
+[00:55:31.520 --> 00:55:36.520]   We tend to think that we have things that are of God, things that are of Satan,
+[00:55:36.520 --> 00:55:39.520]   and then we have a bunch of neutral things.
+[00:55:39.520 --> 00:55:44.520]   It's neither sinful, nor is it godly, but it's a bunch of neutral things.
+[00:55:44.520 --> 00:55:50.520]   The gray areas that we have the freedom to enjoy, and to pursue, and to have,
+[00:55:50.520 --> 00:55:53.520]   as long as it's not explicitly sinful.
+[00:55:53.520 --> 00:55:57.520]   What I don't identify is this is clearly wrong in the Bible.
+[00:55:57.520 --> 00:56:00.520]   There is no such realm.
+[00:56:00.520 --> 00:56:02.520]   Either it is of God or of the devil.
+[00:56:02.520 --> 00:56:06.520]   The Bible doesn't say there's things that are of God, things of the devil,
+[00:56:06.520 --> 00:56:09.520]   and then a bunch of neutral things in the middle.
+[00:56:09.520 --> 00:56:14.520]   Either it is in the kingdom of Satan, or it's under the kingdom of God.
+[00:56:14.520 --> 00:56:20.520]   If somebody's living in the gray area, it means that you're allowing some sin.
+[00:56:20.520 --> 00:56:26.520]   Acceptable. It's just not as bad as the other obvious sins.
+[00:56:26.520 --> 00:56:32.520]   A person who is pursuing holiness is not somebody who is pursuing the middle ground.
+[00:56:32.520 --> 00:56:38.520]   Somebody who is pursuing holiness is you want it as close to God as possible.
+[00:56:38.520 --> 00:56:44.520]   And I want you to see how it creeps in, and I can give you example after example after example.
+[00:56:44.520 --> 00:56:47.520]   But there's a song called "New York."
+[00:56:47.520 --> 00:56:50.520]   How many of you know this song?
+[00:56:50.520 --> 00:56:52.520]   Don't be embarrassed.
+[00:56:52.520 --> 00:56:55.520]   We all know this song, "New York, New York."
+[00:56:55.520 --> 00:56:58.520]   Jay-Z and Alicia Keys sings this song.
+[00:56:58.520 --> 00:57:02.520]   In New York, the concrete jungle where dreams are made of, there's nothing you can't do.
+[00:57:02.520 --> 00:57:05.520]   Now you're in New York. These streets will make you feel brand new.
+[00:57:05.520 --> 00:57:09.520]   The lights will inspire you. Let's hear it for New York, New York, New York.
+[00:57:09.520 --> 00:57:12.520]   They're probably not singing it this week.
+[00:57:12.520 --> 00:57:15.520]   [laughter]
+[00:57:15.520 --> 00:57:19.520]   Some of you guys know what I'm talking about, right?
+[00:57:19.520 --> 00:57:23.520]   But I want to continue to read the rest of it.
+[00:57:23.520 --> 00:57:27.520]   Girls need blinders so they can step out of bounds quick.
+[00:57:27.520 --> 00:57:29.520]   The sidelines is blind with casualties.
+[00:57:29.520 --> 00:57:32.520]   Who's sipping the life casually then gradually becomes worse.
+[00:57:32.520 --> 00:57:35.520]   Don't bite the apple, Eve. Caught up in the crowd.
+[00:57:35.520 --> 00:57:40.520]   Now you're in style, and in the winter gets cold and vogue with your skin out.
+[00:57:40.520 --> 00:57:43.520]   The city of sin is a pity on whim.
+[00:57:43.520 --> 00:57:45.520]   Good girls gone bad. City's filled with them.
+[00:57:45.520 --> 00:57:48.520]   Miami took a bus trip, and now she got her bust out.
+[00:57:48.520 --> 00:57:52.520]   Everybody rides her just as a bus route.
+[00:57:52.520 --> 00:57:54.520]   I mean, did you know that that was in there?
+[00:57:54.520 --> 00:57:56.520]   But I want you to pay attention to this.
+[00:57:56.520 --> 00:58:01.520]   Hail Mary to the city, you're a virgin, and Jesus can't save you.
+[00:58:01.520 --> 00:58:06.520]   Life starts when the church ends.
+[00:58:06.520 --> 00:58:09.520]   Did you know that that was in there?
+[00:58:09.520 --> 00:58:14.520]   We know the first part because we sing that, and it's on TV, it's on radio.
+[00:58:14.520 --> 00:58:17.520]   So many people have memorized, but did you know that that was in there?
+[00:58:17.520 --> 00:58:24.520]   How many of the songs that you listen to have satanic lyrics?
+[00:58:24.520 --> 00:58:28.520]   Directly blaspheming the name of God.
+[00:58:28.520 --> 00:58:31.520]   And yet, through entertainment, it's creeping in.
+[00:58:31.520 --> 00:58:39.520]   Some of you may have been aware that Taylor Swift, that's made a huge news.
+[00:58:39.520 --> 00:58:45.520]   And some of you may have been aware, not aware, why she has satanic symbols at her concerts.
+[00:58:45.520 --> 00:58:49.520]   You know, I'm not being crazy, go look it up yourself if you haven't been paying attention.
+[00:58:49.520 --> 00:58:53.520]   Why does she push satanic symbolism?
+[00:58:53.520 --> 00:58:56.520]   Why was there satanic symbolism at the Super Bowl?
+[00:58:56.520 --> 00:58:59.520]   And at the Grammys?
+[00:58:59.520 --> 00:59:03.520]   Why are they blatantly putting satanic symbols out?
+[00:59:03.520 --> 00:59:10.520]   And we have people, maybe even in this room, our children,
+[00:59:10.520 --> 00:59:16.520]   are just kind of casually led into this without much thought.
+[00:59:16.520 --> 00:59:22.520]   If the god of this age is Satan, Satan is scheming to introduce thoughts and ideas.
+[00:59:22.520 --> 00:59:29.520]   And we are not aware, many times, that Satan is a roaring lion seeking someone to devour.
+[00:59:29.520 --> 00:59:33.520]   There's a reason why the Bible describes him as a roaring lion.
+[00:59:33.520 --> 00:59:35.520]   Because typically, when we see lions, they're in the zoo.
+[00:59:35.520 --> 00:59:39.520]   They're already well-fed. They're under the shade just sleeping.
+[00:59:39.520 --> 00:59:43.520]   Can you imagine if a roaring lion was just roaring around here?
+[00:59:43.520 --> 00:59:48.520]   And some of you guys get scared because you saw a little coyote walking around, right?
+[00:59:48.520 --> 00:59:52.520]   Now, that's dangerous too. We have to watch our children. We don't want coyotes coming around.
+[00:59:52.520 --> 00:59:56.520]   But the coyote is scared of human adults.
+[00:59:56.520 --> 01:00:01.520]   Can you imagine a hungry lion walking around?
+[01:00:01.520 --> 01:00:06.520]   There's a reason why Peter describes the spiritual battle that we're in.
+[01:00:06.520 --> 01:00:14.520]   There's a roaring lion, a hungry lion, that is eagerly waiting and looking to devour.
+[01:00:14.520 --> 01:00:17.520]   And yet we're not aware.
+[01:00:17.520 --> 01:00:23.520]   I want you to see the seven satanic creeds of the satanic temple.
+[01:00:23.520 --> 01:00:26.520]   I'm assuming most of you don't know what they are.
+[01:00:26.520 --> 01:00:29.520]   There's a separate creed of the Satanists.
+[01:00:29.520 --> 01:00:33.520]   And the central creed of the Satanists is "There is no God but you."
+[01:00:33.520 --> 01:00:36.520]   "Do whatever makes you happy." That's the satanic creed.
+[01:00:36.520 --> 01:00:39.520]   This is the satanic creed. You can look it up yourself.
+[01:00:39.520 --> 01:00:44.520]   In order to participate in the temple of Satan, these are the seven creeds.
+[01:00:44.520 --> 01:00:51.520]   "One should strive to act with compassion and empathy toward all creatures in accordance with reason."
+[01:00:51.520 --> 01:00:55.520]   Now, that sounds great, compassion and empathy.
+[01:00:55.520 --> 01:01:00.520]   But pay close attention to the wording, "to all creatures."
+[01:01:00.520 --> 01:01:06.520]   So much of evil is coming into our generation under the guise of compassion and empathy.
+[01:01:06.520 --> 01:01:11.520]   That's the first creed of the satanic temple.
+[01:01:11.520 --> 01:01:20.520]   Second, "The struggle for justice is an ongoing necessary pursuit that should prevail over laws and institutions."
+[01:01:20.520 --> 01:01:22.520]   Does that sound familiar?
+[01:01:22.520 --> 01:01:28.520]   Just in our last two, three years, in the name of demanding justice, buildings are burned down.
+[01:01:28.520 --> 01:01:32.520]   People are shot. Our economy is ruined.
+[01:01:32.520 --> 01:01:36.520]   All in the name of justice.
+[01:01:36.520 --> 01:01:45.520]   Look at number three, "One's body is inviolable subject to one's own will alone."
+[01:01:45.520 --> 01:01:48.520]   What does that sound like?
+[01:01:48.520 --> 01:01:50.520]   What does that sound like?
+[01:01:50.520 --> 01:01:54.520]   Even before I point it out to you, I hope you can make the connection.
+[01:01:54.520 --> 01:01:57.520]   This is the mantra of the abortionist.
+[01:01:57.520 --> 01:02:02.520]   My body, my choice. Evil is being propagated in our generation.
+[01:02:02.520 --> 01:02:08.520]   Murdering of children is propagated in the name that this is my body, my choice.
+[01:02:08.520 --> 01:02:12.520]   If I kill the baby, that's my freedom.
+[01:02:12.520 --> 01:02:17.520]   This is part of the creed of the satanic temple.
+[01:02:17.520 --> 01:02:23.520]   And it is unconscionable that this is creeping into the church.
+[01:02:23.520 --> 01:02:29.520]   We made this part of the essential doctrines of our church.
+[01:02:29.520 --> 01:02:35.520]   And I remember when we were discussing this in our leadership meeting, it sounded so ridiculous.
+[01:02:35.520 --> 01:02:39.520]   That we even have to put this in as distinctive in our church.
+[01:02:39.520 --> 01:02:42.520]   Because we're a church.
+[01:02:42.520 --> 01:02:45.520]   This is the body of Christ.
+[01:02:45.520 --> 01:02:51.520]   Why would a professing Christian ever need to be convinced that this is evil?
+[01:02:51.520 --> 01:02:56.520]   This is part of the satanic creed.
+[01:02:56.520 --> 01:03:01.520]   And people are creeping into this, people are accepting this, propagating this.
+[01:03:01.520 --> 01:03:06.520]   Not realizing that they are doing satanic work.
+[01:03:06.520 --> 01:03:11.520]   And then in number seven, every tenet is a guiding principle designed to inspire nobility in action and thought.
+[01:03:11.520 --> 01:03:19.520]   The spirit of compassion, wisdom, and justice should always prevail over the written or spoken word.
+[01:03:19.520 --> 01:03:22.520]   Does that sound familiar?
+[01:03:22.520 --> 01:03:30.520]   Your compassion, your wisdom, your sense of justice should prevail over anything written or spoken.
+[01:03:30.520 --> 01:03:33.520]   What does that sound like?
+[01:03:33.520 --> 01:03:38.520]   Where your sense of right and wrong is not determined by the word of God.
+[01:03:38.520 --> 01:03:41.520]   But you, because you're God.
+[01:03:41.520 --> 01:03:44.520]   You determine what is right, you determine what is wrong.
+[01:03:44.520 --> 01:03:48.520]   You determine if somebody lives, you determine if somebody dies.
+[01:03:48.520 --> 01:03:53.520]   As you guys know, we have an election coming up this Tuesday.
+[01:03:53.520 --> 01:03:59.520]   I've gone through maybe, but I counted about ten or eleven different elections after I became a Christian.
+[01:03:59.520 --> 01:04:08.520]   I've never felt, and even now, the answer is not Republicans.
+[01:04:08.520 --> 01:04:14.520]   Because they are also sinful and falling short of the glory of God.
+[01:04:14.520 --> 01:04:31.520]   And I've never seen evil be so highlighted and celebrated by one party and demanding that others submit in my life until now.
+[01:04:31.520 --> 01:04:39.520]   I don't think any Christian can see the agenda that's being pushed by the Democratic Party.
+[01:04:39.520 --> 01:04:46.520]   They have a clear conscience that they are practicing compassion and righteousness.
+[01:04:46.520 --> 01:04:49.520]   This is part of the satanic creed.
+[01:04:49.520 --> 01:04:53.520]   Satan has duped the church.
+[01:04:53.520 --> 01:04:58.520]   And it's shocking to me that it is penetrating into the church.
+[01:04:58.520 --> 01:05:05.520]   I'm not as concerned about what's happening over there because Christ came because of that.
+[01:05:05.520 --> 01:05:09.520]   The world has always been in rebellion. They've always blasphemed God.
+[01:05:09.520 --> 01:05:13.520]   The concern I have is what's happening inside the church.
+[01:05:13.520 --> 01:05:22.520]   When we're not aware of what is happening and the satanic power that it has, and it's beginning to creep into the church,
+[01:05:22.520 --> 01:05:28.520]   that's when the alarm and the bells need to be rung, which I believe it is today.
+[01:05:28.520 --> 01:05:31.520]   Look at what Jesus says, Luke 9, 41.
+[01:05:31.520 --> 01:05:41.520]   Jesus answered and said, "You unbelieving and perverted generation, how long shall I be with you and put up with you? Bring your son here."
+[01:05:41.520 --> 01:05:50.520]   He looks at the problem and the desperate situation they're in, and Jesus declares a very simple answer.
+[01:05:50.520 --> 01:05:55.520]   "You couldn't cast it out because you didn't believe."
+[01:05:55.520 --> 01:06:00.520]   "You didn't cast it out, you unbelieving, perverted generation. How long will I be with you?"
+[01:06:00.520 --> 01:06:05.520]   In other words, how much more miracles do you need to see? How much glory do you need to see?
+[01:06:05.520 --> 01:06:10.520]   How much more do I have to give you before you really start to believe?
+[01:06:10.520 --> 01:06:15.520]   The problem under Satan's rule has always been the case.
+[01:06:15.520 --> 01:06:18.520]   Some are more severe, some are more obvious than the others.
+[01:06:18.520 --> 01:06:24.520]   He didn't say, "Hey, I took you to training. I showed you how to cast out demons. I gave you the authority."
+[01:06:24.520 --> 01:06:27.520]   You didn't use the right technique.
+[01:06:27.520 --> 01:06:35.520]   Instead of doing it by yourself, take him up to the mountain, anoint him with oil, say some words.
+[01:06:35.520 --> 01:06:40.520]   He directly rebukes the disciples.
+[01:06:40.520 --> 01:06:43.520]   "It's because you didn't believe."
+[01:06:43.520 --> 01:06:49.520]   "You didn't believe. How much more do you have to see?"
+[01:06:49.520 --> 01:06:57.520]   How many people in the church have convinced themselves the problem of this world is lack of manpower?
+[01:06:57.520 --> 01:07:06.520]   That if we march, if we speak, if we do this, that this is somehow, we're going to match evil with good.
+[01:07:06.520 --> 01:07:11.520]   And we're just going to march, we're going to speak, we're going to write, we're going to call people out.
+[01:07:11.520 --> 01:07:17.520]   And if we can match their energy, that we can somehow conquer demonic forces.
+[01:07:17.520 --> 01:07:20.520]   Jesus didn't see that.
+[01:07:20.520 --> 01:07:25.520]   He said, "The reason why you don't have any power is because you're doing it by your own strength."
+[01:07:25.520 --> 01:07:28.520]   "You don't have the power to do that."
+[01:07:28.520 --> 01:07:37.520]   Hebrews 11, 6 says, "Without faith, it is impossible to please Him, for he who comes to God must believe that He is and that He is a rewarder of those who seek Him."
+[01:07:37.520 --> 01:07:44.520]   Without faith, it is impossible to please Him. Without faith, it is impossible to engage in the spiritual battle.
+[01:07:44.520 --> 01:07:50.520]   Without faith, you have no power over Satan. Without faith.
+[01:07:50.520 --> 01:07:59.520]   He said, "If you have faith and you seek Him, it's because you believe that He is the rewarder."
+[01:07:59.520 --> 01:08:05.520]   "He is the answer. He is the power that you need to tap into."
+[01:08:05.520 --> 01:08:10.520]   But without that, you're completely helpless. You cannot please Him.
+[01:08:10.520 --> 01:08:15.520]   Unbelief and a perverted generation is tied together.
+[01:08:15.520 --> 01:08:22.520]   We see that in Matthew 24. He said, "Because of the increase in wickedness, love of most will grow cold."
+[01:08:22.520 --> 01:08:27.520]   Now, why do most people's love grow cold? Because of wickedness. I think it's pretty simple.
+[01:08:27.520 --> 01:08:32.520]   Because of the increase of wickedness, our sins don't seem that bad.
+[01:08:32.520 --> 01:08:38.520]   We look at the sin of Hollywood. We look at the sin in the internet. We're not as bad as that.
+[01:08:38.520 --> 01:08:45.520]   You hear stories of perversion to the extent that even non-Christians are shocked.
+[01:08:45.520 --> 01:08:49.520]   So, as a result, sin is not utterly sinful.
+[01:08:49.520 --> 01:08:56.520]   The whole reason why God waited all this time in the Old Testament is so that, through the law, that sin would become utterly sinful.
+[01:08:56.520 --> 01:09:04.520]   And so, when you live in a society when utter sinfulness becomes normal, it negates what the law has done.
+[01:09:04.520 --> 01:09:09.520]   And so, the sin doesn't seem as utterly sinful. It's a mistake.
+[01:09:09.520 --> 01:09:14.520]   This is what everybody struggles with, but we're not at a state where we believe that we are desperate.
+[01:09:14.520 --> 01:09:18.520]   And as a result of that, grace becomes cheap.
+[01:09:18.520 --> 01:09:26.520]   We don't realize what it is that we've been saved from, so because grace becomes cheap grace, it taints our worship.
+[01:09:26.520 --> 01:09:31.520]   Because worship is an overflow of gratitude with what God has done and what He saved me from.
+[01:09:31.520 --> 01:09:41.520]   But if I don't see sin as utterly sinful, and grace becomes cheap grace, what is it that we are worshiping?
+[01:09:41.520 --> 01:09:45.520]   We worship what is great, whatever that may be.
+[01:09:45.520 --> 01:09:53.520]   Whether that's music, whether that's location, whether that's sports, whatever it is, we worship what is great.
+[01:09:53.520 --> 01:09:59.520]   But when we don't understand what it is that we've been saved from, we don't see the glory of God that saved us,
+[01:09:59.520 --> 01:10:01.520]   it naturally taints worship.
+[01:10:01.520 --> 01:10:07.520]   You can come to worship, you can sing the songs, you can cry if you want, but you don't see.
+[01:10:07.520 --> 01:10:12.520]   You're just doing what you think you should do.
+[01:10:12.520 --> 01:10:16.520]   And because you don't worship, you don't hear from God.
+[01:10:16.520 --> 01:10:20.520]   And the Scripture says, "Faith comes from hearing, and the hearing of the Word of Christ."
+[01:10:20.520 --> 01:10:25.520]   Now you say, "Well, the Bible has been opened, we have inducted Bible study."
+[01:10:25.520 --> 01:10:29.520]   Hearing from God is not simply coming and studying.
+[01:10:29.520 --> 01:10:35.520]   How many university professors do you know who have a PhD in New Testament and hate God?
+[01:10:35.520 --> 01:10:43.520]   So the Bible isn't simply saying, "Hearing from God, hearing from Christ is just reading the Bible, studying the books, knowing all the theology."
+[01:10:43.520 --> 01:10:47.520]   There's a difference between revelation and illumination.
+[01:10:47.520 --> 01:10:53.520]   God has given us the revelation, and through the revelation, He illuminates where He opens our ears, softens our hearts,
+[01:10:53.520 --> 01:10:56.520]   and we hear from God through His Word.
+[01:10:56.520 --> 01:11:03.520]   But because we are not worshiping God, because grace has become cheap, because sin is not utterly sinful,
+[01:11:03.520 --> 01:11:07.520]   our faith becomes atrophied.
+[01:11:07.520 --> 01:11:14.520]   And the greatest evidence of an atrophied faith is we become self-reliant.
+[01:11:14.520 --> 01:11:19.520]   The most tangible expression of faith is prayer.
+[01:11:19.520 --> 01:11:25.520]   Because prayer is us saying, "I need you. I am helpless.
+[01:11:25.520 --> 01:11:29.520]   Whatever it is that I'm endeavoring in, I cannot do it myself."
+[01:11:29.520 --> 01:11:37.520]   The danger that you and I are in is that we think that if we march, if we speak, if we shake our fist,
+[01:11:37.520 --> 01:11:42.520]   if we can rally, if we can get more willpower, and more people gather together,
+[01:11:42.520 --> 01:11:47.520]   that we're going to match evil with goodness, and somehow we're going to conquer.
+[01:11:47.520 --> 01:11:55.520]   You cannot fight spiritual warfare with fleshy weapons.
+[01:11:55.520 --> 01:12:02.520]   Jesus Himself said in Matthew 17, 19-20, and then the disciples came to Jesus privately and said, "Why could we not drive it up?"
+[01:12:02.520 --> 01:12:05.520]   He said to them, "Because of the littleness of your faith.
+[01:12:05.520 --> 01:12:09.520]   For truly, I say to you, if you have faith the size of a mustard seed,
+[01:12:09.520 --> 01:12:14.520]   you will say to this mountain, 'Move from here to there,' and it will move, and nothing will be impossible for you.
+[01:12:14.520 --> 01:12:18.520]   But this kind does not go out except by prayer and fasting."
+[01:12:18.520 --> 01:12:20.520]   There's two rebukes that He says.
+[01:12:20.520 --> 01:12:24.520]   One, "Your faith is smaller than a mustard seed."
+[01:12:24.520 --> 01:12:31.520]   After everything that they've seen, after everything that Jesus showed them.
+[01:12:31.520 --> 01:12:38.520]   If you've ever seen a mustard seed, a friend of mine went to Jerusalem and picked one up and gave it to me.
+[01:12:38.520 --> 01:12:40.520]   It looks like lint.
+[01:12:40.520 --> 01:12:42.520]   That's how tiny it is.
+[01:12:42.520 --> 01:12:47.520]   So he put it in a bookmarker, and I was kind of trying to scrape it off because I thought lint went into the bookmark.
+[01:12:47.520 --> 01:12:49.520]   He said, "No, that's the mustard seed."
+[01:12:49.520 --> 01:12:51.520]   I said, "Oh."
+[01:12:51.520 --> 01:12:56.520]   Jesus was using the smallest seed that He could possibly think of and said, "If your faith is even this small,
+[01:12:56.520 --> 01:13:01.520]   that faith that connects you to a gigantic God, it gives you power."
+[01:13:01.520 --> 01:13:06.520]   So one, He said, "You couldn't pass it out because you don't even have faith of a mustard seed yet."
+[01:13:06.520 --> 01:13:10.520]   And He'll explain why at the end of this.
+[01:13:10.520 --> 01:13:12.520]   It says they did not understand.
+[01:13:12.520 --> 01:13:15.520]   And because they didn't understand, because they didn't understand the cross,
+[01:13:15.520 --> 01:13:19.520]   everything that Jesus was saying didn't make a lot of sense to them.
+[01:13:19.520 --> 01:13:23.520]   And two, they weren't praying.
+[01:13:23.520 --> 01:13:26.520]   That this was not going to be by your might.
+[01:13:26.520 --> 01:13:29.520]   That if you have a faith of a mustard seed as tiny as that,
+[01:13:29.520 --> 01:13:36.520]   and that little tiny seed that connects you to this powerful God when you pray is what's needed,
+[01:13:36.520 --> 01:13:43.520]   but your faith is too small, and as a result, you're not praying.
+[01:13:43.520 --> 01:13:50.520]   We cannot engage in this spiritual warfare with more might.
+[01:13:50.520 --> 01:13:57.520]   Some of you guys know in the last ten years, there's been a lot of fights between MMA fighters and boxers.
+[01:13:57.520 --> 01:14:02.520]   So when the professional boxer gets in the ring, and he may be a mediocre boxer,
+[01:14:02.520 --> 01:14:07.520]   but you have a champion MMA, and then the MMA fighter gets whooped
+[01:14:07.520 --> 01:14:10.520]   because he has to fight according to the rules of the boxer.
+[01:14:10.520 --> 01:14:13.520]   The boxer knows how to punch. He knows how to take a punch.
+[01:14:13.520 --> 01:14:15.520]   He can't use his legs.
+[01:14:15.520 --> 01:14:17.520]   So he's not going to be effective with those rules.
+[01:14:17.520 --> 01:14:20.520]   And in the same way, the other way.
+[01:14:20.520 --> 01:14:23.520]   You can be a champion boxer, and you have a mediocre MMA fighter,
+[01:14:23.520 --> 01:14:29.520]   but you go in there, they put you to the ground, and use the jiu-jitsu to put you in a lock.
+[01:14:29.520 --> 01:14:32.520]   It doesn't matter how powerful your punch is.
+[01:14:32.520 --> 01:14:36.520]   In that arena, you're not going to be effective.
+[01:14:36.520 --> 01:14:42.520]   He says, "Our struggle is not against flesh and blood.
+[01:14:42.520 --> 01:14:45.520]   For our struggle is not against flesh and blood, but against the rulers, against the powers,
+[01:14:45.520 --> 01:14:50.520]   against the world forces of darkness, against the spiritual forces of wickedness and heavenly places.
+[01:14:50.520 --> 01:14:54.520]   Therefore, take up the full armor of God."
+[01:14:54.520 --> 01:14:57.520]   1 Peter 5.8, "Be of sober spirit. Be on the alert.
+[01:14:57.520 --> 01:15:02.520]   Your adversary, the devil, prowls around like a roaring lion, seeking someone to devour."
+[01:15:02.520 --> 01:15:05.520]   And then finally, 2 Corinthians 10.3-4,
+[01:15:05.520 --> 01:15:09.520]   "For though we walk in the flesh, we do not war according to the flesh.
+[01:15:09.520 --> 01:15:12.520]   For the weapons of warfare are not of the flesh,
+[01:15:12.520 --> 01:15:18.520]   but divinely powerful for the destruction of fortresses."
+[01:15:18.520 --> 01:15:26.520]   We cannot fight a spiritual warfare by matching pound for pound our will, our power, our voice.
+[01:15:26.520 --> 01:15:30.520]   It is not the flesh that we're fighting.
+[01:15:30.520 --> 01:15:33.520]   This is a spiritual warfare.
+[01:15:33.520 --> 01:15:38.520]   So he says to have faith, and if you have faith, to come to him.
+[01:15:38.520 --> 01:15:41.520]   That's why Jesus says to his disciples,
+[01:15:41.520 --> 01:15:46.520]   "Your spirit is willing, but your flesh is weak.
+[01:15:46.520 --> 01:15:49.520]   So therefore, pray." Pray.
+[01:15:49.520 --> 01:15:53.520]   Prayer is the most tangible expression of what we believe.
+[01:15:53.520 --> 01:15:56.520]   If we believe that Christ is our answer, we need to go to Christ.
+[01:15:56.520 --> 01:16:02.520]   If we believe that man is the answer, you need to mobilize men.
+[01:16:02.520 --> 01:16:08.520]   If we believe Christ is the answer, anything that leads me to Christ is the answer.
+[01:16:08.520 --> 01:16:14.520]   If you think man is the answer, mobilize men, as many men as possible.
+[01:16:14.520 --> 01:16:22.520]   Influential men, wealthy men, educated men, articulate men, influential men.
+[01:16:22.520 --> 01:16:25.520]   But that's where we're going to focus our attention.
+[01:16:25.520 --> 01:16:30.520]   If we can just gather a large group of people who are outraged and march with us,
+[01:16:30.520 --> 01:16:36.520]   that we can match their evil with our goodness, and we're going to conquer this evil.
+[01:16:36.520 --> 01:16:41.520]   And we fall right into the devil's trap.
+[01:16:41.520 --> 01:16:48.520]   We cannot engage in spiritual warfare outside of spiritual weapons.
+[01:16:48.520 --> 01:16:51.520]   And that's why we must pray.
+[01:16:51.520 --> 01:16:54.520]   Look what happens in Luke 9, 42-43.
+[01:16:54.520 --> 01:16:58.520]   "While he was still approaching, the demons slammed him to the ground and threw him into the convulsion.
+[01:16:58.520 --> 01:17:02.520]   But Jesus rebuked the unclean spirit and healed the boy and gave him back to his father."
+[01:17:02.520 --> 01:17:10.520]   One sentence with all the things that have been described about this boy.
+[01:17:10.520 --> 01:17:14.520]   The effort that they made, the disciples coming and trying to cast out the demons.
+[01:17:14.520 --> 01:17:19.520]   And how elaborate description of the mess that they are in.
+[01:17:19.520 --> 01:17:23.520]   And all Jesus says, "I rebuke you."
+[01:17:23.520 --> 01:17:27.520]   One sentence of his deliverance.
+[01:17:27.520 --> 01:17:32.520]   There's no paragraph, there's no chapters devoted to what technique he used,
+[01:17:32.520 --> 01:17:35.520]   or how many people that was gathered, what kind of training was given to them.
+[01:17:35.520 --> 01:17:39.520]   He just showed up and he said, "I rebuke you."
+[01:17:39.520 --> 01:17:42.520]   And in verse 43, "And they were all amazed at the greatness of God,
+[01:17:42.520 --> 01:17:45.520]   but while everyone was marveling at all that he was doing."
+[01:17:45.520 --> 01:17:48.520]   One sentence.
+[01:17:48.520 --> 01:17:52.520]   With our effort, with our strength, we are constantly frustrated.
+[01:17:52.520 --> 01:17:57.520]   We don't have enough manpower, we don't have enough know-how, we don't have enough training.
+[01:17:57.520 --> 01:18:01.520]   But God is not depending on us.
+[01:18:01.520 --> 01:18:08.520]   He's not looking for men who are strong enough, powerful enough, articulated enough.
+[01:18:08.520 --> 01:18:11.520]   He's looking for men who will depend on him.
+[01:18:11.520 --> 01:18:14.520]   God is not depending on us.
+[01:18:14.520 --> 01:18:19.520]   He's looking for men who will depend on him.
+[01:18:19.520 --> 01:18:22.520]   James 4, 2, it says, "You lust and you do not have, so you commit murder.
+[01:18:22.520 --> 01:18:25.520]   You are envious and cannot obtain, so you fight and quarrel.
+[01:18:25.520 --> 01:18:29.520]   You do not have because you do not ask."
+[01:18:29.520 --> 01:18:32.520]   All the problems in the church and quarrels and divisions,
+[01:18:32.520 --> 01:18:35.520]   "Why don't we organize this way? Why don't we do small groups this way?"
+[01:18:35.520 --> 01:18:37.520]   And all of these things are tools that God has given us.
+[01:18:37.520 --> 01:18:41.520]   But he says, "The primary problem is because you did not pray."
+[01:18:41.520 --> 01:18:43.520]   Why is there division in the church?
+[01:18:43.520 --> 01:18:45.520]   Why is there grumbling? Why is there complaining?
+[01:18:45.520 --> 01:18:47.520]   Why are people not getting along?
+[01:18:47.520 --> 01:18:50.520]   It's because you did not pray.
+[01:18:50.520 --> 01:18:55.520]   So you can implement all the solutions in the world.
+[01:18:55.520 --> 01:18:57.520]   If we did this, if we did that.
+[01:18:57.520 --> 01:19:02.520]   But he said, "But God says the primary problem is you did not pray."
+[01:19:02.520 --> 01:19:08.520]   In other words, if you did not pray,
+[01:19:08.520 --> 01:19:12.520]   your greatest problem is you did not pray.
+[01:19:12.520 --> 01:19:18.520]   Not the people, not the organization, not anything else.
+[01:19:18.520 --> 01:19:22.520]   Your biggest frustration is coming from the fact that you did not pray.
+[01:19:22.520 --> 01:19:24.520]   Whatever frustration. You're frustrated with people,
+[01:19:24.520 --> 01:19:28.520]   you're frustrated with organization, you're frustrated with leadership.
+[01:19:28.520 --> 01:19:36.520]   If you ever are convinced, "I cannot grow because..."
+[01:19:36.520 --> 01:19:38.520]   "I cannot grow because..."
+[01:19:38.520 --> 01:19:40.520]   Because I don't have fellowship, because I don't have mentors,
+[01:19:40.520 --> 01:19:43.520]   because I don't have this, because I don't have that.
+[01:19:43.520 --> 01:19:46.520]   And then God says, "Everything you need for life of godliness"
+[01:19:46.520 --> 01:19:49.520]   "has been given to you in the knowledge of His Son, Jesus Christ."
+[01:19:49.520 --> 01:19:54.520]   "You do not have because you did not ask."
+[01:19:54.520 --> 01:19:57.520]   And you see from God's perspective, "How long do I need to be here?"
+[01:19:57.520 --> 01:20:00.520]   "How much more do you have to be given?"
+[01:20:00.520 --> 01:20:02.520]   "I gave you the Word of God. I gave you the Holy Spirit."
+[01:20:02.520 --> 01:20:04.520]   "I gave you the church. I gave you fellowship."
+[01:20:04.520 --> 01:20:08.520]   "What more do you have? How long do I have to be here?"
+[01:20:08.520 --> 01:20:12.520]   You unbelieving and perverted generation.
+[01:20:12.520 --> 01:20:17.520]   Our primary problem is not more know-how, more willpower.
+[01:20:17.520 --> 01:20:22.520]   If we did not pray, it's because we did not pray.
+[01:20:22.520 --> 01:20:25.520]   Matthew 7, 7-8, "Ask, and it will be given to you."
+[01:20:25.520 --> 01:20:27.520]   "Seek, and you will find." "Knock, and it will be opened to you."
+[01:20:27.520 --> 01:20:30.520]   "For everyone who asks receives, and who seeks finds."
+[01:20:30.520 --> 01:20:33.520]   "And to him who knocks, it will be opened."
+[01:20:33.520 --> 01:20:38.520]   Take your frustration to God.
+[01:20:38.520 --> 01:20:43.520]   First and foremost, before you bring it to leadership, before you bring it to your small group leaders,
+[01:20:43.520 --> 01:20:46.520]   take your frustration to God.
+[01:20:46.520 --> 01:20:49.520]   Seek me and know me. See if there's any hurtful ways in me.
+[01:20:49.520 --> 01:20:52.520]   If I believe that He is, and He is a rewarder of those who seek Him,
+[01:20:52.520 --> 01:20:55.520]   why am I not going to Him?
+[01:20:55.520 --> 01:20:57.520]   Why am I going to the world?
+[01:20:57.520 --> 01:20:59.520]   Why am I going to training?
+[01:20:59.520 --> 01:21:04.520]   First and foremost, did you ask Him?
+[01:21:04.520 --> 01:21:06.520]   Did you plead with Him?
+[01:21:06.520 --> 01:21:08.520]   Do you actually believe?
+[01:21:08.520 --> 01:21:14.520]   Jeremiah 29-13, "You will seek me and find me when you search me with all your heart."
+[01:21:14.520 --> 01:21:18.520]   The primary reason why the church is in the condition that it is in
+[01:21:18.520 --> 01:21:23.520]   is we are half-heartedly devoted to our Christ.
+[01:21:23.520 --> 01:21:27.520]   There's a part of us that desperately wants to be something in the world,
+[01:21:27.520 --> 01:21:30.520]   and there's a part of us that wants to be in Christ.
+[01:21:30.520 --> 01:21:34.520]   And it is that frustration within our own body
+[01:21:34.520 --> 01:21:38.520]   that we have not determined that, "I want Christ and Christ alone,"
+[01:21:38.520 --> 01:21:44.520]   that's causing our prayer to be weak and faint.
+[01:21:44.520 --> 01:21:48.520]   This is why Jesus said, "It is difficult for a rich man to enter the kingdom of heaven
+[01:21:48.520 --> 01:21:53.520]   because rich people never feel anything desperate."
+[01:21:53.520 --> 01:21:56.520]   And you say, "Well, I'm not rich."
+[01:21:56.520 --> 01:22:00.520]   Well, if you make more than $30,000 a year, you're rich.
+[01:22:00.520 --> 01:22:03.520]   You're the top 5%, 4% in the world.
+[01:22:03.520 --> 01:22:05.520]   If you woke up and you didn't struggle,
+[01:22:05.520 --> 01:22:08.520]   it's like, "I don't have enough money to buy breakfast," you're rich.
+[01:22:08.520 --> 01:22:10.520]   After this is over, you have a home to go,
+[01:22:10.520 --> 01:22:13.520]   and you have a nice bed to sleep on, you're rich.
+[01:22:13.520 --> 01:22:17.520]   Is there anybody in this room that struggled with that?
+[01:22:17.520 --> 01:22:22.520]   In comparison with what 99% of the world experiences according to wealth,
+[01:22:22.520 --> 01:22:27.520]   you and I are not just rich, we are filthy rich.
+[01:22:27.520 --> 01:22:32.520]   And so when He warns the rich that it is difficult to enter the kingdom of heaven,
+[01:22:32.520 --> 01:22:35.520]   it's because we don't feel a sense of urgency.
+[01:22:35.520 --> 01:22:38.520]   We want Christ. We don't need Christ.
+[01:22:38.520 --> 01:22:41.520]   So we feel guilty when we don't pray,
+[01:22:41.520 --> 01:22:45.520]   but we don't recognize the desperate situation that you're in.
+[01:22:45.520 --> 01:22:49.520]   You don't realize that it's a roaring lion about to devour you.
+[01:22:49.520 --> 01:22:52.520]   If you heard the news that there is a mountain lion up on the hills,
+[01:22:52.520 --> 01:22:54.520]   you're probably going to stay away from that,
+[01:22:54.520 --> 01:22:57.520]   or you're going to have some form of protection,
+[01:22:57.520 --> 01:23:02.520]   or for sure you're not going to allow your children to go there.
+[01:23:02.520 --> 01:23:07.520]   It's because we think that we have found the answer,
+[01:23:07.520 --> 01:23:11.520]   and we don't have a sense of urgency.
+[01:23:11.520 --> 01:23:13.520]   We feel guilty.
+[01:23:13.520 --> 01:23:19.520]   I should be holy. I should be praying. I should be.
+[01:23:19.520 --> 01:23:26.520]   But we don't realize the demonic power that's constantly scheming.
+[01:23:26.520 --> 01:23:30.520]   We don't even realize the thoughts that you have may have been planted by the enemy,
+[01:23:30.520 --> 01:23:35.520]   and you're not even aware of it.
+[01:23:35.520 --> 01:23:40.520]   But this is how this section ends, Luke 9, 43-45.
+[01:23:40.520 --> 01:23:43.520]   "They were all amazed at the greatness of God,
+[01:23:43.520 --> 01:23:45.520]   but while everyone was marveling at all that he was doing,
+[01:23:45.520 --> 01:23:48.520]   he said to his disciples, 'Let these words sink into your ears,
+[01:23:48.520 --> 01:23:54.520]   for the Son of Man is going to be delivered into the hands of men.'"
+[01:23:54.520 --> 01:23:56.520]   He said, "Let these words sink in."
+[01:23:56.520 --> 01:23:58.520]   That's a huge thing that we need to understand.
+[01:23:58.520 --> 01:24:01.520]   After doing everything that he's done, people are amazed.
+[01:24:01.520 --> 01:24:06.520]   Again, he casts out these demons just simply by his word.
+[01:24:06.520 --> 01:24:13.520]   He says, "You're marveling, but while everyone was marveling at it,
+[01:24:13.520 --> 01:24:16.520]   he said, 'The Son of Man will be delivered into the hands of men.'"
+[01:24:16.520 --> 01:24:19.520]   It says in verse 45, "They did not understand the statement
+[01:24:19.520 --> 01:24:22.520]   because it was concealed from them that they would not perceive it,
+[01:24:22.520 --> 01:24:24.520]   and they were afraid to ask him about this statement."
+[01:24:24.520 --> 01:24:27.520]   And the reason why the disciples didn't understand
+[01:24:27.520 --> 01:24:31.520]   is because they didn't understand the cross.
+[01:24:31.520 --> 01:24:34.520]   They saw Jesus' glory, and we're going to see next week,
+[01:24:34.520 --> 01:24:38.520]   if Jesus is glorified and we're the closest companion to him,
+[01:24:38.520 --> 01:24:40.520]   we're going to benefit from this.
+[01:24:40.520 --> 01:24:44.520]   And so we see in the next text, after Jesus says he's going to be murdered,
+[01:24:44.520 --> 01:24:47.520]   well, who's going to stand to the left and to the right?
+[01:24:47.520 --> 01:24:48.520]   Who's the greatest?
+[01:24:48.520 --> 01:24:51.520]   I mean, as ridiculous as this is, this is what they were wrestling with,
+[01:24:51.520 --> 01:24:56.520]   because they did not understand the cross.
+[01:24:56.520 --> 01:25:00.520]   How many people in the church do not understand the cross?
+[01:25:00.520 --> 01:25:05.520]   That you see the cross as a get-out-of-jail card?
+[01:25:05.520 --> 01:25:09.520]   And so I want to believe. I believe.
+[01:25:09.520 --> 01:25:15.520]   But you do not realize that following Christ is going to lead you to the cross.
+[01:25:15.520 --> 01:25:20.520]   That the life that he has promised is on the other side of the cross.
+[01:25:20.520 --> 01:25:24.520]   And because of that, the idea of suffering and persecution doesn't make sense.
+[01:25:24.520 --> 01:25:26.520]   There's no room for that in your life.
+[01:25:26.520 --> 01:25:30.520]   That's for those people.
+[01:25:30.520 --> 01:25:37.520]   We know very well that he was speaking to all of us.
+[01:25:37.520 --> 01:25:45.520]   And once we have determined that that's not for us, you have rejected Christ.
+[01:25:45.520 --> 01:25:49.520]   You cannot say you're following Christ if Christ is going to the cross.
+[01:25:49.520 --> 01:25:51.520]   Up to this point, they didn't understand,
+[01:25:51.520 --> 01:25:54.520]   because they saw everything that Jesus was doing,
+[01:25:54.520 --> 01:25:56.520]   that somehow they're going to receive glory.
+[01:25:56.520 --> 01:25:59.520]   And then when glory didn't come, and Jesus actually went to the cross,
+[01:25:59.520 --> 01:26:01.520]   they abandoned him.
+[01:26:01.520 --> 01:26:05.520]   As many people today abandon Christ as soon as things go wrong.
+[01:26:05.520 --> 01:26:07.520]   He doesn't answer our prayers.
+[01:26:07.520 --> 01:26:10.520]   We don't get married in a timely manner.
+[01:26:10.520 --> 01:26:13.520]   We pray for our business, our relationship, our marriage, our children,
+[01:26:13.520 --> 01:26:15.520]   and it doesn't turn out the way we want.
+[01:26:15.520 --> 01:26:20.520]   They say, "How come God is not gracious to me? He doesn't answer my prayers."
+[01:26:20.520 --> 01:26:25.520]   Just like the disciples, they didn't understand
+[01:26:25.520 --> 01:26:30.520]   that God's blessing was going to come at the other side of the cross.
+[01:26:30.520 --> 01:26:32.520]   That's why Paul says in 1 Corinthians 1:22,
+[01:26:32.520 --> 01:26:35.520]   "For indeed, Jews ask for signs, Greeks search for wisdom,
+[01:26:35.520 --> 01:26:38.520]   but we preach Christ crucified.
+[01:26:38.520 --> 01:26:40.520]   To the Jews, a stumbling block, Gentile foolishness,
+[01:26:40.520 --> 01:26:42.520]   but to those who are called, both Jews and Greeks,
+[01:26:42.520 --> 01:26:48.520]   Christ, the power of God, and the wisdom of God."
+[01:26:48.520 --> 01:26:56.520]   The answer to man's problem is the cross.
+[01:26:56.520 --> 01:27:03.520]   No matter who sits in the office, no matter who sits in the office,
+[01:27:03.520 --> 01:27:14.520]   if Christ is not king, it doesn't matter who the president is.
+[01:27:14.520 --> 01:27:21.520]   Do you believe that? Do you believe that?
+[01:27:21.520 --> 01:27:28.520]   I mean, I pray that the truth of the Word of God would sober us
+[01:27:28.520 --> 01:27:34.520]   and examine how much of the world we have allowed to creep into us.
+[01:27:34.520 --> 01:27:36.520]   That even in the name of righteousness,
+[01:27:36.520 --> 01:27:41.520]   even in the name of fighting what is wrong,
+[01:27:41.520 --> 01:27:45.520]   how much of that is our own flesh?
+[01:27:45.520 --> 01:27:55.520]   Pray, believe, pray, believe, and pray, believe, and then pray.
+[01:27:55.520 --> 01:28:07.520]   Let's pray.
+[01:28:07.520 --> 01:28:14.520]   Father, open our eyes, soften our hearts,
+[01:28:14.520 --> 01:28:17.520]   that we may fix our eyes upon Christ,
+[01:28:17.520 --> 01:28:20.520]   the author and perfecter of our faith.
+[01:28:20.520 --> 01:28:24.520]   May Christ's name be exalted, adored, loved, obeyed,
+[01:28:24.520 --> 01:28:29.520]   and followed, and depended upon.
+[01:28:29.520 --> 01:28:33.520]   Lead us, guide us. In Jesus' name we pray, amen.
+[01:28:33.520 --> 01:28:37.520]   Let's all stand up for the closing praise.
+[01:28:37.520 --> 01:29:05.520]   [music]
+[01:29:05.520 --> 01:29:11.520]   A voice was lost, a voice was lost in darkest night.
+[01:29:11.520 --> 01:29:15.520]   I thought I knew the way.
+[01:29:15.520 --> 01:29:25.520]   The sin that promised royal blood had led me to the grave.
+[01:29:25.520 --> 01:29:29.520]   I had no hope that you would own.
+[01:29:29.520 --> 01:29:34.520]   A rebel to go wrong.
+[01:29:34.520 --> 01:29:44.520]   And if you have come at me first, I will refuse to stop.
+[01:29:44.520 --> 01:29:55.520]   [music]
+[01:29:55.520 --> 01:30:04.520]   But as I let my doubt pass, indifferent to the cost,
+[01:30:04.520 --> 01:30:13.520]   you looked upon my helpless soul and led me to the cross.
+[01:30:13.520 --> 01:30:22.520]   Guide me now, God's love displayed, you suffered in my place.
+[01:30:22.520 --> 01:30:34.520]   You bore the wrath, you served for me, now all I know is grace.
+[01:30:34.520 --> 01:30:53.520]   Hallelujah, all I have is Christ. Hallelujah, Jesus is my life.
+[01:30:53.520 --> 01:31:11.520]   Hallelujah, all I have is Christ. Hallelujah, Jesus is my life.
+[01:31:11.520 --> 01:31:30.520]   [music]
+[01:31:30.520 --> 01:31:39.520]   I would have loved to be yours alone, and this all might seem.
+[01:31:39.520 --> 01:31:48.520]   The strength to follow your commands could never come from me.
+[01:31:48.520 --> 01:31:57.520]   Oh, Father, use my words of life in any way you choose.
+[01:31:57.520 --> 01:32:09.520]   And when my soul will never be, I only trust in you.
+[01:32:09.520 --> 01:32:27.520]   Hallelujah, all I have is Christ. Hallelujah, Jesus is my life.
+[01:32:27.520 --> 01:32:45.520]   Hallelujah, all I have is Christ. Hallelujah, Jesus is my life.
+[01:32:45.520 --> 01:33:05.520]   Hallelujah, all I have is Christ. Hallelujah, Jesus is my life.
+[01:33:05.520 --> 01:33:07.520]   Let's pray.
+[01:33:07.520 --> 01:33:13.520]   Now the grace of our Lord Jesus Christ, the fellowship of the Holy Spirit,
+[01:33:13.520 --> 01:33:20.520]   the eternal love of God the Father, rest, restore, equip the children of God
+[01:33:20.520 --> 01:33:26.520]   that we may be the light wherever you send us. Amen.
+[01:33:26.520 --> 01:33:48.520]   God sent his Son. They called him Jesus. He came to love, heal, and forgive.
+[01:33:48.520 --> 01:34:10.520]   Every day and hour, to my, my calling, an empty grave is there to my Savior rest.
+[01:34:10.520 --> 01:34:32.520]   Because he rests, I can face tomorrow. Because he rests, all fear is gone.
+[01:34:32.520 --> 01:34:57.520]   Because I know he holds the future, and life is worth the living just because he lives.
+[01:34:57.520 --> 01:35:10.520]   The love of God is greater far than tongue or pen can ever tell.
+[01:35:10.520 --> 01:35:23.520]   It goes beyond the highest star and reaches to the lowest hell.
+[01:35:23.520 --> 01:35:36.520]   The guilty bear bowed down with care. God gave his Son to win.
+[01:35:36.520 --> 01:35:49.520]   His erring child he reconciled and pardoned from his sin.
+[01:35:49.520 --> 01:35:58.520]   The love of God, how rich and pure, how measureless.
+
