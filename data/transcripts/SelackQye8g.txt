@@ -1,0 +1,758 @@
+
+[00:00:00.000 --> 00:00:02.060]   you
+[00:00:02.060 --> 00:00:04.120]   you
+[00:00:04.120 --> 00:00:06.180]   you
+[00:00:06.180 --> 00:00:08.240]   you
+[00:00:08.240 --> 00:00:10.300]   you
+[00:00:10.300 --> 00:00:12.360]   you
+[00:00:12.360 --> 00:00:14.420]   you
+[00:00:14.420 --> 00:00:16.480]   you
+[00:00:16.480 --> 00:00:18.540]   you
+[00:00:18.540 --> 00:00:20.600]   you
+[00:00:20.600 --> 00:00:22.660]   you
+[00:00:22.660 --> 00:00:24.720]   you
+[00:00:24.720 --> 00:00:26.780]   you
+[00:00:26.780 --> 00:00:28.840]   you
+[00:00:28.840 --> 00:00:30.900]   you
+[00:00:30.900 --> 00:00:32.960]   you
+[00:00:32.960 --> 00:00:35.020]   you
+[00:00:35.020 --> 00:00:37.080]   you
+[00:00:37.080 --> 00:00:39.140]   you
+[00:00:39.140 --> 00:00:41.200]   you
+[00:00:41.200 --> 00:00:43.260]   you
+[00:00:43.260 --> 00:00:45.320]   you
+[00:00:45.320 --> 00:00:47.380]   you
+[00:00:47.380 --> 00:00:49.440]   you
+[00:00:49.440 --> 00:00:51.500]   you
+[00:00:51.500 --> 00:00:53.560]   you
+[00:00:53.560 --> 00:00:55.620]   you
+[00:00:55.620 --> 00:00:57.680]   you
+[00:00:57.680 --> 00:00:59.740]   you
+[00:00:59.740 --> 00:01:01.800]   you
+[00:01:01.800 --> 00:01:03.860]   you
+[00:01:03.860 --> 00:01:05.920]   you
+[00:01:05.920 --> 00:01:08.920]   you
+[00:01:08.920 --> 00:01:12.920]   you
+[00:01:12.920 --> 00:01:16.920]   you
+[00:01:16.920 --> 00:01:20.920]   you
+[00:01:20.920 --> 00:01:28.860]   ♪ Holy, holy is the Son of God ♪
+[00:01:30.860 --> 00:01:36.860]   ♪ None can stand before His majesty ♪
+[00:01:36.860 --> 00:01:42.860]   ♪ Beautiful beyond our highest thought ♪
+[00:01:42.860 --> 00:01:48.860]   ♪ Worthy, He is worthy ♪
+[00:01:48.860 --> 00:01:54.860]   ♪ Holy, holy is the Word made flesh ♪
+[00:01:54.860 --> 00:02:00.860]   ♪ King who bore our pain and poverty ♪
+[00:02:00.860 --> 00:02:06.860]   ♪ Come to claim the rebel and the wretch ♪
+[00:02:06.860 --> 00:02:12.860]   ♪ Worthy, He is worthy ♪
+[00:02:12.860 --> 00:02:18.860]   ♪ All glory and honor, all power and praise ♪
+[00:02:18.860 --> 00:02:24.860]   ♪ Be to Your name, be to Your name ♪
+[00:02:24.860 --> 00:02:30.860]   ♪ For none can rival Your glory and fame ♪
+[00:02:30.860 --> 00:02:36.860]   ♪ We lift high the name of Jesus ♪
+[00:02:36.860 --> 00:02:47.860]   ♪
+[00:02:47.860 --> 00:02:53.860]   ♪ Holy, holy is the Lamb who died ♪
+[00:02:53.860 --> 00:02:59.860]   ♪ Canceling our dead at Calvary ♪
+[00:02:59.860 --> 00:03:05.860]   ♪ Rising from the grave to reign on high ♪
+[00:03:05.860 --> 00:03:11.860]   ♪ Worthy, He is worthy ♪
+[00:03:11.860 --> 00:03:17.860]   ♪ All glory and honor, all power and praise ♪
+[00:03:17.860 --> 00:03:23.860]   ♪ Be to Your name, be to Your name ♪
+[00:03:23.860 --> 00:03:29.860]   ♪ For none can rival Your glory and fame ♪
+[00:03:29.860 --> 00:03:36.860]   ♪ We lift high the name of Jesus ♪
+[00:03:36.860 --> 00:03:41.860]   ♪
+[00:03:41.860 --> 00:03:47.860]   ♪ Holy, holy, Lord Almighty ♪
+[00:03:47.860 --> 00:03:53.860]   ♪ Worthy is Your name ♪
+[00:03:53.860 --> 00:03:59.860]   ♪ Holy, holy, none beside You ♪
+[00:03:59.860 --> 00:04:05.860]   ♪ Greatly to be praised ♪
+[00:04:05.860 --> 00:04:11.860]   ♪ Holy, holy, Lord Almighty ♪
+[00:04:11.860 --> 00:04:17.860]   ♪ Worthy is Your name ♪
+[00:04:17.860 --> 00:04:23.860]   ♪ Holy, holy, none beside You ♪
+[00:04:23.860 --> 00:04:28.860]   ♪ Greatly to be praised ♪
+[00:04:28.860 --> 00:04:35.860]   ♪ All glory and honor, all power and praise ♪
+[00:04:35.860 --> 00:04:41.860]   ♪ Be to Your name, be to Your name ♪
+[00:04:41.860 --> 00:04:47.860]   ♪ For none can rival Your glory and fame ♪
+[00:04:47.860 --> 00:04:53.860]   ♪ We lift high the name of Jesus ♪
+[00:04:53.860 --> 00:04:59.860]   ♪ For none can rival Your glory and fame ♪
+[00:04:59.860 --> 00:05:07.860]   ♪ We lift high the name of Jesus ♪
+[00:05:07.860 --> 00:05:11.860]   ♪
+[00:05:11.860 --> 00:05:17.860]   ♪ Holy, holy, Lord Almighty ♪
+[00:05:17.860 --> 00:05:23.860]   ♪ Worthy is Your name ♪
+[00:05:23.860 --> 00:05:30.860]   ♪ Holy, holy, none beside You ♪
+[00:05:30.860 --> 00:05:38.860]   ♪ Greatly to be praised ♪
+[00:05:38.860 --> 00:05:48.860]   [applause]
+[00:05:52.860 --> 00:06:02.860]   ♪♪♪
+[00:06:02.860 --> 00:06:12.860]   ♪♪♪
+[00:06:12.860 --> 00:06:22.860]   ♪♪♪
+[00:06:22.860 --> 00:06:32.860]   ♪♪♪
+[00:06:32.860 --> 00:06:37.860]   ♪♪♪
+[00:06:37.860 --> 00:06:41.860]   ♪ This life is an altar ♪
+[00:06:41.860 --> 00:06:44.860]   ♪ Where I wanna offer ♪
+[00:06:44.860 --> 00:06:50.860]   ♪ My soul and my mind and strength ♪
+[00:06:50.860 --> 00:06:53.860]   ♪♪♪
+[00:06:53.860 --> 00:06:57.860]   ♪ Cleansed by Your mercy ♪
+[00:06:57.860 --> 00:07:00.860]   ♪ To live a life worthy ♪
+[00:07:00.860 --> 00:07:08.860]   ♪ Of the One who called my name ♪
+[00:07:08.860 --> 00:07:12.860]   ♪ Jesus, be glorified ♪
+[00:07:12.860 --> 00:07:16.860]   ♪ Jesus, be magnified ♪
+[00:07:16.860 --> 00:07:24.860]   ♪ Let me be a pleasing sacrifice ♪
+[00:07:24.860 --> 00:07:28.860]   ♪ Jesus, be glorified ♪
+[00:07:28.860 --> 00:07:32.860]   ♪ Jesus, be magnified ♪
+[00:07:32.860 --> 00:07:36.860]   ♪ Here at the altar ♪
+[00:07:36.860 --> 00:07:42.860]   ♪ My life is an offering ♪
+[00:07:42.860 --> 00:07:57.860]   ♪♪♪
+[00:07:57.860 --> 00:08:01.860]   ♪ How could I not love You? ♪
+[00:08:01.860 --> 00:08:04.860]   ♪ You offered my rescue ♪
+[00:08:04.860 --> 00:08:13.860]   ♪ Raised me up from death to life ♪
+[00:08:13.860 --> 00:08:18.860]   ♪ Your Spirit is in me ♪
+[00:08:18.860 --> 00:08:20.860]   ♪ Revealing Your glory ♪
+[00:08:20.860 --> 00:08:28.860]   ♪ Oh, what joy as I give my life ♪
+[00:08:28.860 --> 00:08:32.860]   ♪ Jesus, be glorified ♪
+[00:08:32.860 --> 00:08:36.860]   ♪ Jesus, be magnified ♪
+[00:08:36.860 --> 00:08:44.860]   ♪ Let me be a pleasing sacrifice ♪
+[00:08:44.860 --> 00:08:48.860]   ♪ Jesus, be glorified ♪
+[00:08:48.860 --> 00:08:52.860]   ♪ Jesus, be magnified ♪
+[00:08:52.860 --> 00:08:56.860]   ♪ Here at the altar ♪
+[00:08:56.860 --> 00:09:01.860]   ♪ My life is an offering ♪
+[00:09:01.860 --> 00:09:16.860]   ♪♪♪
+[00:09:16.860 --> 00:09:21.860]   ♪ I choose to lose my life, Lord ♪
+[00:09:21.860 --> 00:09:25.860]   ♪ And find it in You ♪
+[00:09:25.860 --> 00:09:29.860]   ♪ I choose to lose my life, Lord ♪
+[00:09:29.860 --> 00:09:33.860]   ♪ And find it in You ♪
+[00:09:33.860 --> 00:09:37.860]   ♪ I choose to lose my life, Lord ♪
+[00:09:37.860 --> 00:09:41.860]   ♪ And find it in You ♪
+[00:09:41.860 --> 00:09:45.860]   ♪ I choose to lose my life, Lord ♪
+[00:09:45.860 --> 00:09:50.860]   ♪ And find it in You ♪
+[00:09:50.860 --> 00:10:02.860]   ♪♪♪
+[00:10:02.860 --> 00:10:09.860]   ♪ Oh, I give my life for the glory of Your name ♪
+[00:10:09.860 --> 00:10:13.860]   ♪♪♪
+[00:10:13.860 --> 00:10:19.860]   ♪ My life is an altar ♪
+[00:10:19.860 --> 00:10:23.860]   ♪♪♪
+[00:10:23.860 --> 00:10:27.860]   ♪ Jesus, be glorified ♪
+[00:10:27.860 --> 00:10:31.860]   ♪ Jesus, be magnified ♪
+[00:10:31.860 --> 00:10:39.860]   ♪ Let me be a pleasing sacrifice ♪
+[00:10:39.860 --> 00:10:43.860]   ♪ Jesus, be glorified ♪
+[00:10:43.860 --> 00:10:47.860]   ♪ Jesus, be magnified ♪
+[00:10:47.860 --> 00:10:51.860]   ♪ Here at the altar ♪
+[00:10:51.860 --> 00:10:57.860]   ♪ My life is an offering ♪
+[00:10:57.860 --> 00:11:00.860]   ♪♪♪
+[00:11:00.860 --> 00:11:08.860]   ♪ Oh, Jesus, be glorified ♪
+[00:11:08.860 --> 00:11:14.860]   ♪♪♪
+[00:11:24.860 --> 00:11:36.860]   ♪♪♪
+[00:11:36.860 --> 00:11:39.860]   ♪ Father of kindness ♪
+[00:11:39.860 --> 00:11:42.860]   ♪ You have poured out grace ♪
+[00:11:42.860 --> 00:11:45.860]   ♪ You brought me out of darkness ♪
+[00:11:45.860 --> 00:11:49.860]   ♪ You have filled me with peace ♪
+[00:11:49.860 --> 00:11:51.860]   ♪ Giver of mercy ♪
+[00:11:51.860 --> 00:11:57.860]   ♪ You're my help in time of need ♪
+[00:11:57.860 --> 00:12:04.860]   ♪ Lord, I can't help but sing ♪
+[00:12:04.860 --> 00:12:10.860]   ♪ Faithful You are ♪
+[00:12:10.860 --> 00:12:17.860]   ♪ Faithful forever You will be ♪
+[00:12:17.860 --> 00:12:24.860]   ♪ Faithful You are ♪
+[00:12:24.860 --> 00:12:30.860]   ♪ All Your promises are yes and amen ♪
+[00:12:30.860 --> 00:12:36.860]   ♪ All Your promises are yes and amen ♪
+[00:12:36.860 --> 00:12:49.860]   ♪♪♪
+[00:12:49.860 --> 00:12:51.860]   ♪ Beautiful Savior ♪
+[00:12:51.860 --> 00:12:55.860]   ♪ You have brought me near ♪
+[00:12:55.860 --> 00:12:58.860]   ♪ You pulled me from the ashes ♪
+[00:12:58.860 --> 00:13:02.860]   ♪ You have broken every curse ♪
+[00:13:02.860 --> 00:13:04.860]   ♪ Blessed Redeemer ♪
+[00:13:04.860 --> 00:13:11.860]   ♪ You have set this captive free ♪
+[00:13:11.860 --> 00:13:18.860]   ♪ Lord, I can't help but sing ♪
+[00:13:18.860 --> 00:13:24.860]   ♪ Faithful You are ♪
+[00:13:24.860 --> 00:13:30.860]   ♪ Faithful forever You will be ♪
+[00:13:30.860 --> 00:13:37.860]   ♪ Faithful You are ♪
+[00:13:37.860 --> 00:13:43.860]   ♪ All Your promises are yes and amen ♪
+[00:13:43.860 --> 00:13:49.860]   ♪ All Your promises are yes and amen ♪
+[00:13:49.860 --> 00:13:55.860]   ♪ Faithful You are, yeah ♪
+[00:13:55.860 --> 00:14:01.860]   ♪ Faithful forever You will be ♪
+[00:14:01.860 --> 00:14:08.860]   ♪ Faithful You are, yes You are ♪
+[00:14:08.860 --> 00:14:14.860]   ♪ All Your promises are yes and amen ♪
+[00:14:14.860 --> 00:14:26.860]   ♪♪♪
+[00:14:26.860 --> 00:14:32.860]   ♪ I will rest in Your promises ♪
+[00:14:32.860 --> 00:14:39.860]   ♪ My confidence is Your faithfulness ♪
+[00:14:39.860 --> 00:14:45.860]   ♪ I will rest in Your promises ♪
+[00:14:45.860 --> 00:14:51.860]   ♪ My confidence is Your faithfulness ♪
+[00:14:51.860 --> 00:14:57.860]   ♪ I will rest in Your promises ♪
+[00:14:57.860 --> 00:15:04.860]   ♪ My confidence is Your faithfulness ♪
+[00:15:04.860 --> 00:15:10.860]   ♪ I will rest in Your promises ♪
+[00:15:10.860 --> 00:15:17.860]   ♪ My confidence is Your faithfulness ♪
+[00:15:17.860 --> 00:15:22.860]   ♪ Faithful You are ♪
+[00:15:22.860 --> 00:15:24.860]   ♪ My heart is singing ♪
+[00:15:24.860 --> 00:15:30.860]   ♪ Faithful forever You will be ♪
+[00:15:30.860 --> 00:15:37.860]   ♪ Faithful You are, yes You are ♪
+[00:15:37.860 --> 00:15:43.860]   ♪ All Your promises are yes and amen ♪
+[00:15:43.860 --> 00:15:47.860]   ♪ Faithful You are ♪
+[00:15:47.860 --> 00:15:49.860]   ♪ My Father is faithful ♪
+[00:15:49.860 --> 00:15:53.860]   ♪ Faithful forever You will be ♪
+[00:15:53.860 --> 00:15:56.860]   ♪ My Father is faithful ♪
+[00:15:56.860 --> 00:16:00.860]   ♪ Faithful You are ♪
+[00:16:00.860 --> 00:16:03.860]   ♪ My Father You're faithful ♪
+[00:16:03.860 --> 00:16:07.860]   ♪ All Your promises are yes and amen ♪
+[00:16:07.860 --> 00:16:13.860]   ♪ All Your promises, all Your promises are yes and amen ♪
+[00:16:13.860 --> 00:16:21.860]   ♪ All Your promises, all Your promises are yes and amen ♪
+[00:16:21.860 --> 00:16:26.860]   ♪♪
+[00:16:26.860 --> 00:16:36.860]   ♪♪
+[00:16:36.860 --> 00:16:41.860]   ♪♪
+[00:16:41.860 --> 00:16:46.860]   ♪♪
+[00:16:46.860 --> 00:16:51.860]   ♪♪
+[00:16:51.860 --> 00:16:55.860]   ♪ I will trust my Savior Jesus ♪
+[00:16:55.860 --> 00:17:00.860]   ♪ When my darkest hours befall ♪
+[00:17:00.860 --> 00:17:05.860]   ♪ Trust Him when to simply trust Him ♪
+[00:17:05.860 --> 00:17:10.860]   ♪ Seems the hardest thing of all ♪
+[00:17:10.860 --> 00:17:17.860]   ♪♪
+[00:17:17.860 --> 00:17:22.860]   ♪ I will trust my Savior Jesus ♪
+[00:17:22.860 --> 00:17:27.860]   ♪ Trust Him when my strength is small ♪
+[00:17:27.860 --> 00:17:32.860]   ♪ For I know the shield of Jesus ♪
+[00:17:32.860 --> 00:17:37.860]   ♪ Is the safest place of all ♪
+[00:17:37.860 --> 00:17:40.860]   ♪♪
+[00:17:40.860 --> 00:17:44.860]   ♪ Jesus, only Jesus ♪
+[00:17:44.860 --> 00:17:50.860]   ♪ Help me trust You more and more ♪
+[00:17:50.860 --> 00:17:54.860]   ♪ Jesus, only Jesus ♪
+[00:17:54.860 --> 00:17:59.860]   ♪ May my heart be ever Yours ♪
+[00:17:59.860 --> 00:18:02.860]   ♪♪
+[00:18:02.860 --> 00:18:06.860]   ♪ I will trust my Savior Jesus ♪
+[00:18:06.860 --> 00:18:11.860]   ♪ He has set His way His best ♪
+[00:18:11.860 --> 00:18:16.860]   ♪ And I know the path He's chosen ♪
+[00:18:16.860 --> 00:18:21.860]   ♪ Leads to everlasting rest ♪
+[00:18:21.860 --> 00:18:22.860]   ♪♪
+[00:18:22.860 --> 00:18:26.860]   ♪ Jesus, only Jesus ♪
+[00:18:26.860 --> 00:18:31.860]   ♪ Help me trust You more and more ♪
+[00:18:31.860 --> 00:18:36.860]   ♪ Jesus, only Jesus ♪
+[00:18:36.860 --> 00:18:41.860]   ♪ May my heart be ever Yours ♪
+[00:18:41.860 --> 00:18:46.860]   ♪ Jesus, only Jesus ♪
+[00:18:46.860 --> 00:18:51.860]   ♪ Help me trust You more and more ♪
+[00:18:51.860 --> 00:18:56.860]   ♪ Jesus, only Jesus ♪
+[00:18:56.860 --> 00:19:01.860]   ♪ May my heart be ever Yours ♪
+[00:19:01.860 --> 00:19:24.860]   ♪♪
+[00:19:24.860 --> 00:19:29.860]   ♪ Oh, on that cross ♪
+[00:19:29.860 --> 00:19:33.860]   ♪ How it was seen ♪
+[00:19:33.860 --> 00:19:38.860]   ♪ I can go now ever trusting ♪
+[00:19:38.860 --> 00:19:44.860]   ♪ In the One who died for me ♪
+[00:19:44.860 --> 00:19:48.860]   ♪ What could I bring ♪
+[00:19:48.860 --> 00:19:53.860]   ♪ For Your gift is complete ♪
+[00:19:53.860 --> 00:19:58.860]   ♪ So I trust You, simply trust You ♪
+[00:19:58.860 --> 00:20:04.860]   ♪ Lord, with every part of me ♪
+[00:20:04.860 --> 00:20:09.860]   ♪ Oh, on that cross ♪
+[00:20:09.860 --> 00:20:13.860]   ♪ How it was seen ♪
+[00:20:13.860 --> 00:20:18.860]   ♪ I can go now ever trusting ♪
+[00:20:18.860 --> 00:20:23.860]   ♪ In the One who died for me ♪
+[00:20:23.860 --> 00:20:27.860]   ♪ What could I bring ♪
+[00:20:27.860 --> 00:20:32.860]   ♪ For Your gift is complete ♪
+[00:20:32.860 --> 00:20:37.860]   ♪ So I trust You, simply trust You ♪
+[00:20:37.860 --> 00:20:43.860]   ♪ Lord, with every part of me ♪
+[00:20:43.860 --> 00:20:48.860]   ♪ Oh, on that cross ♪
+[00:20:48.860 --> 00:20:52.860]   ♪ How it was seen ♪
+[00:20:52.860 --> 00:20:57.860]   ♪ I can go now ever trusting ♪
+[00:20:57.860 --> 00:21:03.860]   ♪ In the One who died for me ♪
+[00:21:03.860 --> 00:21:07.860]   ♪ What could I bring ♪
+[00:21:07.860 --> 00:21:12.860]   ♪ For Your gift is complete ♪
+[00:21:12.860 --> 00:21:17.860]   ♪ So I trust You, simply trust You ♪
+[00:21:17.860 --> 00:21:21.860]   ♪ Lord, with every part of me ♪
+[00:21:21.860 --> 00:21:25.860]   ♪♪
+[00:21:25.860 --> 00:21:29.860]   ♪ Jesus, only Jesus ♪
+[00:21:29.860 --> 00:21:35.860]   ♪ Help me trust You more and more ♪
+[00:21:35.860 --> 00:21:39.860]   ♪ Jesus, only Jesus ♪
+[00:21:39.860 --> 00:21:45.860]   ♪ May my heart be with Yours ♪
+[00:21:45.860 --> 00:21:49.860]   ♪ Jesus, only Jesus ♪
+[00:21:49.860 --> 00:21:55.860]   ♪ Help me trust You more and more ♪
+[00:21:55.860 --> 00:21:59.860]   ♪ Jesus, only Jesus ♪
+[00:21:59.860 --> 00:22:04.860]   ♪ May my heart be with Yours ♪
+[00:22:04.860 --> 00:22:10.860]   ♪♪
+[00:22:10.860 --> 00:22:18.860]   [ Applause ]
+[00:22:18.860 --> 00:22:26.860]   ♪♪
+[00:22:26.860 --> 00:22:32.860]   ♪♪
+[00:22:32.860 --> 00:22:38.860]   ♪♪
+[00:22:38.860 --> 00:22:44.860]   ♪ Who else commands all the hosts of heaven? ♪
+[00:22:44.860 --> 00:22:50.860]   ♪ Who else can make every king bow down? ♪
+[00:22:50.860 --> 00:22:56.860]   ♪ Who else can whisper when darkness trembles? ♪
+[00:22:56.860 --> 00:23:00.860]   ♪ Only Your holy God ♪
+[00:23:00.860 --> 00:23:03.860]   ♪♪
+[00:23:03.860 --> 00:23:09.860]   ♪ What other beauty demands such praises? ♪
+[00:23:09.860 --> 00:23:15.860]   ♪ What other splendor outshines the sun? ♪
+[00:23:15.860 --> 00:23:21.860]   ♪ What other majesty rules with justice? ♪
+[00:23:21.860 --> 00:23:26.860]   ♪ Only Your holy God ♪
+[00:23:26.860 --> 00:23:29.860]   ♪♪
+[00:23:29.860 --> 00:23:33.860]   ♪ Come and behold ♪
+[00:23:33.860 --> 00:23:38.860]   ♪ The one and the only ♪
+[00:23:38.860 --> 00:23:40.860]   -All right.
+[00:23:40.860 --> 00:23:42.860]   Well, good evening, everyone.
+[00:23:42.860 --> 00:23:45.860]   Hope you enjoyed the meal that you had together
+[00:23:45.860 --> 00:23:48.860]   and you were able to share in the Thanksgiving Feast
+[00:23:48.860 --> 00:23:51.860]   and in the company that we had together.
+[00:23:51.860 --> 00:23:53.860]   I think many years ago, we used to do it.
+[00:23:53.860 --> 00:23:55.860]   It wasn't that many years ago, actually,
+[00:23:55.860 --> 00:23:57.860]   when we probably did it here at church,
+[00:23:57.860 --> 00:23:58.860]   but as the church has grown,
+[00:23:58.860 --> 00:24:00.860]   to be able to separate like this
+[00:24:00.860 --> 00:24:03.860]   so that we can have the more tight-knit community,
+[00:24:03.860 --> 00:24:06.860]   it is hopefully a sweet time for everybody.
+[00:24:06.860 --> 00:24:08.860]   So thank you especially to the hosts
+[00:24:08.860 --> 00:24:09.860]   who opened up their homes.
+[00:24:09.860 --> 00:24:12.860]   Tonight, we're going to be spending just a little bit of time
+[00:24:12.860 --> 00:24:14.860]   singing some praises together.
+[00:24:14.860 --> 00:24:16.860]   So even from home, please do sing along,
+[00:24:16.860 --> 00:24:19.860]   and afterwards, there will be a brief time of sharing
+[00:24:19.860 --> 00:24:20.860]   followed by some discussion.
+[00:24:20.860 --> 00:24:21.860]   So I'll pray for us,
+[00:24:21.860 --> 00:24:25.860]   and then we'll move into some singing together.
+[00:24:25.860 --> 00:24:29.860]   Heavenly Father, we thank You for drawing us together.
+[00:24:29.860 --> 00:24:31.860]   Lord, for those of us who already know each other
+[00:24:31.860 --> 00:24:35.860]   and especially for those we were just able to meet,
+[00:24:35.860 --> 00:24:38.860]   God, I pray that our hearts would overflow together
+[00:24:38.860 --> 00:24:40.860]   with gratitude towards You.
+[00:24:40.860 --> 00:24:42.860]   God, we pray that You'd be honored
+[00:24:42.860 --> 00:24:44.860]   in the way that we would speak to each other,
+[00:24:44.860 --> 00:24:46.860]   that we would speak of You.
+[00:24:46.860 --> 00:24:50.860]   And Father, that it would be something that we treasure,
+[00:24:50.860 --> 00:24:53.860]   God, that we are marked by being joyful people.
+[00:24:53.860 --> 00:24:55.860]   And so, Lord, as we sing these praises to You,
+[00:24:55.860 --> 00:24:58.860]   we do pray that You'd be honored, You'd be glorified,
+[00:24:58.860 --> 00:25:00.860]   and Lord, would You affect our hearts.
+[00:25:00.860 --> 00:25:02.860]   In Jesus' name I pray, amen.
+[00:25:07.860 --> 00:25:10.860]   (gentle music)
+[00:25:10.860 --> 00:25:26.860]   ♪ The mystery of the cross I cannot comprehend ♪
+[00:25:26.860 --> 00:25:33.860]   ♪ The agonies of Calvary ♪
+[00:25:35.860 --> 00:25:40.860]   ♪ You, the perfect Holy One, I trust Your Son ♪
+[00:25:40.860 --> 00:25:47.860]   ♪ You drink the bitter cup reserved for me ♪
+[00:25:47.860 --> 00:25:54.860]   ♪ Your blood has washed away my sin ♪
+[00:25:54.860 --> 00:25:56.860]   ♪ Jesus, thank You ♪
+[00:25:56.860 --> 00:26:01.860]   ♪ Our Father's wrath completely satisfied ♪
+[00:26:01.860 --> 00:26:04.860]   ♪ Jesus, thank You ♪
+[00:26:04.860 --> 00:26:09.860]   ♪ Once Your enemy was seated at Your table ♪
+[00:26:09.860 --> 00:26:13.860]   ♪ Jesus, thank You ♪
+[00:26:13.860 --> 00:26:29.860]   ♪ By Your perfect sacrifice ♪
+[00:26:29.860 --> 00:26:34.860]   ♪ By Your perfect sacrifice I've been brought near ♪
+[00:26:34.860 --> 00:26:41.860]   ♪ Your enemy, You've made Your friend ♪
+[00:26:41.860 --> 00:26:48.860]   ♪ You're pouring out the riches of Your glorious grace ♪
+[00:26:48.860 --> 00:26:53.860]   ♪ Your mercy and Your kindness ♪
+[00:26:53.860 --> 00:26:58.860]   ♪ Jesus, thank You ♪
+[00:26:58.860 --> 00:27:03.860]   ♪ Your blood has washed away my sin ♪
+[00:27:03.860 --> 00:27:05.860]   ♪ Jesus, thank You ♪
+[00:27:05.860 --> 00:27:10.860]   ♪ Our Father's wrath completely satisfied ♪
+[00:27:10.860 --> 00:27:13.860]   ♪ Jesus, thank You ♪
+[00:27:13.860 --> 00:27:18.860]   ♪ Once Your enemy was seated at Your table ♪
+[00:27:19.860 --> 00:27:24.860]   ♪ Jesus, thank You ♪
+[00:27:24.860 --> 00:27:37.860]   ♪ Lover of my soul ♪
+[00:27:37.860 --> 00:27:42.860]   ♪ Lover of my soul ♪
+[00:27:43.860 --> 00:27:48.860]   ♪ I want to live for You ♪
+[00:27:48.860 --> 00:27:57.860]   ♪ Lover of my soul ♪
+[00:27:57.860 --> 00:28:02.860]   ♪ I want to live for You ♪
+[00:28:02.860 --> 00:28:11.860]   ♪ Lover of my soul ♪
+[00:28:11.860 --> 00:28:16.860]   ♪ I want to live for You ♪
+[00:28:16.860 --> 00:28:25.860]   ♪ Your blood has washed away my sin ♪
+[00:28:25.860 --> 00:28:27.860]   ♪ Jesus, thank You ♪
+[00:28:27.860 --> 00:28:32.860]   ♪ Our Father's wrath completely satisfied ♪
+[00:28:32.860 --> 00:28:34.860]   ♪ Jesus, thank You ♪
+[00:28:34.860 --> 00:28:39.860]   ♪ Your blood has washed away my sin ♪
+[00:28:39.860 --> 00:28:41.860]   ♪ Jesus, thank You ♪
+[00:28:41.860 --> 00:28:46.860]   ♪ Our Father's wrath completely satisfied ♪
+[00:28:46.860 --> 00:28:48.860]   ♪ Jesus, thank You ♪
+[00:28:48.860 --> 00:28:53.860]   ♪ Once Your enemy was seated at Your table ♪
+[00:28:53.860 --> 00:28:58.860]   ♪ Jesus, thank You ♪
+[00:28:58.860 --> 00:29:01.860]   ♪ Jesus, thank You ♪
+[00:29:01.860 --> 00:29:06.860]   (gentle music)
+[00:29:06.860 --> 00:29:25.860]   (upbeat music)
+[00:29:26.860 --> 00:29:31.860]   (gentle music)
+[00:29:31.860 --> 00:29:38.860]   ♪ Here is love ♪
+[00:29:38.860 --> 00:29:42.860]   ♪ Here is love vast as the ocean ♪
+[00:29:42.860 --> 00:29:47.860]   ♪ Loving kindness as a flood ♪
+[00:29:47.860 --> 00:29:51.860]   ♪ When the prince of life, our ransom ♪
+[00:29:51.860 --> 00:29:56.860]   ♪ Shed for us His precious blood ♪
+[00:29:56.860 --> 00:30:00.860]   ♪ Who is love will not remember ♪
+[00:30:00.860 --> 00:30:05.860]   ♪ Who can cease to sing His praise ♪
+[00:30:05.860 --> 00:30:09.860]   ♪ He can never be forgotten ♪
+[00:30:09.860 --> 00:30:14.860]   ♪ Throughout heaven's eternal days ♪
+[00:30:14.860 --> 00:30:19.860]   (upbeat music)
+[00:30:20.860 --> 00:30:25.860]   ♪ On the mount of crucifixion ♪
+[00:30:25.860 --> 00:30:29.860]   ♪ Fountains open deep and wide ♪
+[00:30:29.860 --> 00:30:34.860]   ♪ Where the floodgates of God's mercy ♪
+[00:30:34.860 --> 00:30:38.860]   ♪ Float a vast and gracious tide ♪
+[00:30:38.860 --> 00:30:43.860]   ♪ Grace and love like mighty rivers ♪
+[00:30:43.860 --> 00:30:47.860]   ♪ Poured incessant from above ♪
+[00:30:47.860 --> 00:30:52.860]   ♪ Heaven's peace and perfect justice ♪
+[00:30:52.860 --> 00:30:56.860]   ♪ Is the guilty world in love ♪
+[00:30:56.860 --> 00:31:01.860]   (upbeat music)
+[00:31:01.860 --> 00:31:08.860]   ♪ Here is love that conquered evil ♪
+[00:31:08.860 --> 00:31:12.860]   ♪ Bites the bruise born from the grain ♪
+[00:31:12.860 --> 00:31:17.860]   ♪ That thus failed to be found equal ♪
+[00:31:17.860 --> 00:31:22.860]   ♪ To the life of Him who saves ♪
+[00:31:22.860 --> 00:31:26.860]   ♪ In the valley of our darkness ♪
+[00:31:26.860 --> 00:31:31.860]   ♪ Longed is everlasting light ♪
+[00:31:31.860 --> 00:31:35.860]   ♪ Perfect love in glorious radiance ♪
+[00:31:35.860 --> 00:31:40.860]   ♪ Has repelled this valiant fight ♪
+[00:31:40.860 --> 00:31:45.860]   (upbeat music)
+[00:31:45.860 --> 00:32:02.860]   ♪ No love is higher, no love is wider ♪
+[00:32:02.860 --> 00:32:07.860]   ♪ No love is deeper, no love is truer ♪
+[00:32:07.860 --> 00:32:11.860]   ♪ No love is higher, no love is wider ♪
+[00:32:11.860 --> 00:32:16.860]   ♪ No love is like your love of old ♪
+[00:32:16.860 --> 00:32:20.860]   ♪ No love is higher, no love is wider ♪
+[00:32:20.860 --> 00:32:25.860]   ♪ No love is deeper, no love is truer ♪
+[00:32:25.860 --> 00:32:29.860]   ♪ No love is wider, no love is wider ♪
+[00:32:29.860 --> 00:32:34.860]   ♪ No love is like your love of old ♪
+[00:32:35.860 --> 00:32:40.860]   ♪ Here is love as dazzling heavens ♪
+[00:32:40.860 --> 00:32:44.860]   ♪ Countless as the stars above ♪
+[00:32:44.860 --> 00:32:49.860]   ♪ Are the souls that He has ransomed ♪
+[00:32:49.860 --> 00:32:54.860]   ♪ Precious daughters, treasured sons ♪
+[00:32:54.860 --> 00:32:58.860]   ♪ We are called to feast forever ♪
+[00:32:58.860 --> 00:33:03.860]   ♪ On a love beyond our time ♪
+[00:33:03.860 --> 00:33:08.860]   ♪ Glorious Father, Son, and Spirit ♪
+[00:33:08.860 --> 00:33:12.860]   ♪ Now with man are intertwined ♪
+[00:33:12.860 --> 00:33:23.860]   - All right.
+[00:33:23.860 --> 00:33:26.860]   Well, again, welcome back everybody
+[00:33:26.860 --> 00:33:29.860]   to our Thanksgiving annual dinner that we do.
+[00:33:29.860 --> 00:33:31.860]   We do this every year.
+[00:33:31.860 --> 00:33:34.860]   And something that we wanna take the day
+[00:33:34.860 --> 00:33:37.860]   and the season to remember, even as was preached today,
+[00:33:37.860 --> 00:33:39.860]   to be thankful together.
+[00:33:39.860 --> 00:33:43.860]   Why it is that we have so much to have a great gratitude over
+[00:33:43.860 --> 00:33:46.860]   and as we're eating, as we're spending company
+[00:33:46.860 --> 00:33:49.860]   with each other, I hope that that is what ultimately
+[00:33:49.860 --> 00:33:52.860]   kind of overwhelms us, to be thankful as believers.
+[00:33:52.860 --> 00:33:55.860]   Even as we're singing, the first song that we sang
+[00:33:55.860 --> 00:33:58.860]   talked about the gratitude, that we're saying thank you
+[00:33:58.860 --> 00:33:59.860]   to our God.
+[00:33:59.860 --> 00:34:02.860]   And it's not very difficult to take a moment
+[00:34:02.860 --> 00:34:06.860]   and look at a passage like Romans 8:31,
+[00:34:06.860 --> 00:34:09.860]   a very, very familiar passage to all of us,
+[00:34:09.860 --> 00:34:12.860]   where it says, "What then shall we say to these things?
+[00:34:12.860 --> 00:34:14.860]   "If God is for us, who is against us?
+[00:34:14.860 --> 00:34:16.860]   "He who did not spare His own Son,
+[00:34:16.860 --> 00:34:18.860]   "but delivered Him over for us all,
+[00:34:18.860 --> 00:34:23.860]   "how will He not also with Him freely give us all things?"
+[00:34:23.860 --> 00:34:25.860]   And so when we're saying thank you to God,
+[00:34:25.860 --> 00:34:28.860]   it's easy as Christians to be able to
+[00:34:28.860 --> 00:34:30.860]   kind of say these things out loud,
+[00:34:30.860 --> 00:34:34.860]   that we're so thankful to God for what He has given to us.
+[00:34:34.860 --> 00:34:36.860]   Namely, this is His Son.
+[00:34:36.860 --> 00:34:39.860]   It says, "He did not even spare His own Son.
+[00:34:39.860 --> 00:34:42.860]   "He delivered His Son over to us.
+[00:34:42.860 --> 00:34:45.860]   "And so in this, He will then with Him
+[00:34:45.860 --> 00:34:47.860]   "give us all things freely."
+[00:34:47.860 --> 00:34:49.860]   That is God's heart for us.
+[00:34:49.860 --> 00:34:52.860]   We have much to be thankful for.
+[00:34:52.860 --> 00:34:56.860]   In James 1:17, it says, "Every good thing given
+[00:34:56.860 --> 00:34:58.860]   "and every perfect gift is from above,
+[00:34:58.860 --> 00:35:00.860]   "coming down from the Father of lights,
+[00:35:00.860 --> 00:35:03.860]   "with whom there is no variation or shifting shadow.
+[00:35:03.860 --> 00:35:04.860]   "In the exercise of His will,
+[00:35:04.860 --> 00:35:06.860]   "He brought us forth by the word of truth
+[00:35:06.860 --> 00:35:08.860]   "so that we would be a kind of firstfruits
+[00:35:08.860 --> 00:35:10.860]   "among His creatures."
+[00:35:10.860 --> 00:35:12.860]   So anything that is good,
+[00:35:12.860 --> 00:35:14.860]   anything that is given as a gift,
+[00:35:14.860 --> 00:35:16.860]   is perfectly given from God.
+[00:35:16.860 --> 00:35:18.860]   And this God is a Father of lights.
+[00:35:18.860 --> 00:35:19.860]   He doesn't change.
+[00:35:19.860 --> 00:35:22.860]   He can only exercise this giving in accordance
+[00:35:22.860 --> 00:35:24.860]   to who He is.
+[00:35:24.860 --> 00:35:27.860]   So tonight, we'll go through two main things,
+[00:35:27.860 --> 00:35:29.860]   but I wanted to ask that question.
+[00:35:29.860 --> 00:35:31.860]   If we are to be beyond grateful
+[00:35:31.860 --> 00:35:33.860]   for all that He has given,
+[00:35:33.860 --> 00:35:36.860]   then what is causing in us a complaining
+[00:35:36.860 --> 00:35:38.860]   and a grumbling spirit?
+[00:35:38.860 --> 00:35:41.860]   So why are we not perpetually grateful people
+[00:35:41.860 --> 00:35:44.860]   when we've been given such a great gift?
+[00:35:44.860 --> 00:35:47.860]   So our first point here is that we are not grateful
+[00:35:47.860 --> 00:35:50.860]   because we confuse desires with needs.
+[00:35:50.860 --> 00:35:52.860]   And this is something I'm sure many of us
+[00:35:52.860 --> 00:35:53.860]   have thought about.
+[00:35:53.860 --> 00:35:56.860]   We're confusing our desires with needs.
+[00:35:56.860 --> 00:35:57.860]   I think there should be a, okay, good.
+[00:35:57.860 --> 00:35:58.860]   There's a picture.
+[00:35:58.860 --> 00:36:00.860]   This one is a shout-out to PPK,
+[00:36:00.860 --> 00:36:02.860]   his favorite place.
+[00:36:02.860 --> 00:36:03.860]   But when you look at it,
+[00:36:03.860 --> 00:36:05.860]   you don't have to turn very far
+[00:36:05.860 --> 00:36:08.860]   to see faces like this at amusement parks.
+[00:36:08.860 --> 00:36:10.860]   It doesn't have to be Disneyland.
+[00:36:10.860 --> 00:36:11.860]   It could be anywhere.
+[00:36:11.860 --> 00:36:13.860]   And you can see these children
+[00:36:13.860 --> 00:36:16.860]   who are crying at these parks,
+[00:36:16.860 --> 00:36:20.860]   and perhaps it's very, very simple
+[00:36:20.860 --> 00:36:24.860]   to kind of look into why they might be crying.
+[00:36:24.860 --> 00:36:25.860]   They're crying because they've confused
+[00:36:25.860 --> 00:36:27.860]   the desire with the need.
+[00:36:27.860 --> 00:36:29.860]   So it's okay for somebody to have something
+[00:36:29.860 --> 00:36:30.860]   that they would want,
+[00:36:30.860 --> 00:36:33.860]   but when they say, "I must have it,"
+[00:36:33.860 --> 00:36:35.860]   or else, and you fill in the blanks,
+[00:36:35.860 --> 00:36:38.860]   there's going to be many teary-eyed children
+[00:36:38.860 --> 00:36:40.860]   at these kinds of amusement parks.
+[00:36:40.860 --> 00:36:41.860]   Essentially, in their tears,
+[00:36:41.860 --> 00:36:42.860]   and they're crying,
+[00:36:42.860 --> 00:36:44.860]   they're saying, "I must have it.
+[00:36:44.860 --> 00:36:48.860]   I need to have this."
+[00:36:48.860 --> 00:36:50.860]   And so this is the opposite of gratitude,
+[00:36:50.860 --> 00:36:52.860]   this grumbling and complaining spirit
+[00:36:52.860 --> 00:36:54.860]   where someone says, "I need it.
+[00:36:54.860 --> 00:36:55.860]   I must have it."
+[00:36:55.860 --> 00:36:59.860]   In essence, one is saying that, "I deserve it.
+[00:36:59.860 --> 00:37:03.860]   I'm supposed to have this thing."
+[00:37:03.860 --> 00:37:06.860]   And sadly, we look much more like this crying child
+[00:37:06.860 --> 00:37:08.860]   than we'd like to think.
+[00:37:08.860 --> 00:37:11.860]   We confuse our desires and see them as needs,
+[00:37:11.860 --> 00:37:13.860]   and in that, we will not be grateful people
+[00:37:13.860 --> 00:37:16.860]   if we think of so many things in our lives
+[00:37:16.860 --> 00:37:18.860]   as something that I must have,
+[00:37:18.860 --> 00:37:21.860]   I deserve to have, and I need to have.
+[00:37:21.860 --> 00:37:24.860]   So we could go down a laundry list of things.
+[00:37:24.860 --> 00:37:28.860]   In our careers, be honest with yourselves.
+[00:37:28.860 --> 00:37:33.860]   We have to be honest with self and our hearts.
+[00:37:33.860 --> 00:37:37.860]   I need to have this career.
+[00:37:37.860 --> 00:37:39.860]   I need to get this raise.
+[00:37:39.860 --> 00:37:42.860]   I need to climb this ladder.
+[00:37:42.860 --> 00:37:46.860]   And we confuse our desires and needs.
+[00:37:46.860 --> 00:37:49.860]   I need to have control, then comes into the picture.
+[00:37:49.860 --> 00:37:52.860]   In our relationships, I need to be respected.
+[00:37:52.860 --> 00:37:54.860]   I need to be loved.
+[00:37:54.860 --> 00:37:55.860]   I need to be known.
+[00:37:55.860 --> 00:37:58.860]   There are many things that our hearts might demand
+[00:37:58.860 --> 00:38:01.860]   as something that we deserve, as something that we need,
+[00:38:01.860 --> 00:38:04.860]   and we confuse our desires with needs.
+[00:38:04.860 --> 00:38:07.860]   In our leisure, I need to have my own time.
+[00:38:07.860 --> 00:38:09.860]   I need to have this vacation.
+[00:38:09.860 --> 00:38:11.860]   I need to have work-life balance.
+[00:38:11.860 --> 00:38:12.860]   It needs to look a certain way.
+[00:38:12.860 --> 00:38:18.860]   All of these things are when we confuse desires and needs.
+[00:38:18.860 --> 00:38:20.860]   And just like this child back here, the two--
+[00:38:20.860 --> 00:38:22.860]   I forget how many there are.
+[00:38:22.860 --> 00:38:23.860]   There's two.
+[00:38:23.860 --> 00:38:25.860]   There's probably many more in that park.
+[00:38:25.860 --> 00:38:27.860]   They're saying that.
+[00:38:27.860 --> 00:38:28.860]   We're saying that.
+[00:38:28.860 --> 00:38:30.860]   In our hearts, when we grumble and complain,
+[00:38:30.860 --> 00:38:36.860]   we're saying, "I need, I must have, I deserve."
+[00:38:36.860 --> 00:38:38.860]   This is the opposite of gratitude.
+[00:38:38.860 --> 00:38:42.860]   If you can imagine any person who's just incredibly entitled,
+[00:38:42.860 --> 00:38:45.860]   if you've come across anybody that just feels so entitled
+[00:38:45.860 --> 00:38:48.860]   to something in their lives,
+[00:38:48.860 --> 00:38:52.860]   you can see a person who confuses desires and needs,
+[00:38:52.860 --> 00:38:54.860]   that they're saying, essentially, "I deserve these things.
+[00:38:54.860 --> 00:38:57.860]   "I must have this.
+[00:38:57.860 --> 00:38:58.860]   "And I'll be angry.
+[00:38:58.860 --> 00:38:59.860]   "I'll be upset.
+[00:38:59.860 --> 00:39:01.860]   "I'll do whatever I need to do with my words,
+[00:39:01.860 --> 00:39:04.860]   "with my behavior to manipulate the situation,"
+[00:39:04.860 --> 00:39:06.860]   versus if you've come across a genuinely humble
+[00:39:06.860 --> 00:39:08.860]   and grateful person.
+[00:39:08.860 --> 00:39:15.860]   They can desire, but they'll be grateful when they receive.
+[00:39:15.860 --> 00:39:18.860]   Needs are something that we cannot do without.
+[00:39:18.860 --> 00:39:20.860]   It's essential.
+[00:39:20.860 --> 00:39:22.860]   We can go to the next slide for this one.
+[00:39:22.860 --> 00:39:25.860]   So when we're talking about, "I need something,"
+[00:39:25.860 --> 00:39:28.860]   we're saying that we cannot do without it.
+[00:39:28.860 --> 00:39:32.860]   It is an essential thing in my life.
+[00:39:32.860 --> 00:39:35.860]   So when we look at needs and desires,
+[00:39:35.860 --> 00:39:38.860]   we have to ask ourselves, honestly speaking,
+[00:39:38.860 --> 00:39:41.860]   "What are we saying I need to?"
+[00:39:41.860 --> 00:39:43.860]   So Philippians 4:19, it says,
+[00:39:43.860 --> 00:39:47.860]   "And my God will supply all your needs
+[00:39:47.860 --> 00:39:52.860]   "according to His riches and glory in Christ Jesus."
+[00:39:52.860 --> 00:39:54.860]   So that ends our case.
+[00:39:54.860 --> 00:39:56.860]   It's done.
+[00:39:56.860 --> 00:39:58.860]   What this passage is saying, in other words,
+[00:39:58.860 --> 00:40:01.860]   there is nothing that we can complain about ever again.
+[00:40:01.860 --> 00:40:03.860]   All our needs are met.
+[00:40:03.860 --> 00:40:07.860]   We have everything that we need.
+[00:40:07.860 --> 00:40:09.860]   And so there's nothing that we can be grumbling
+[00:40:09.860 --> 00:40:12.860]   and complaining over.
+[00:40:12.860 --> 00:40:14.860]   Just as we might look at those children and say,
+[00:40:14.860 --> 00:40:16.860]   "You have everything.
+[00:40:16.860 --> 00:40:18.860]   "You've been given such a great gift.
+[00:40:18.860 --> 00:40:21.860]   "This is such a happy place to be at,"
+[00:40:21.860 --> 00:40:26.860]   and for them to be weeping because they don't have something more.
+[00:40:26.860 --> 00:40:30.860]   Many of us look more like that.
+[00:40:30.860 --> 00:40:33.860]   In this place where we have these needs
+[00:40:33.860 --> 00:40:36.860]   that are met by our God,
+[00:40:36.860 --> 00:40:40.860]   present-day circumstance then doesn't dictate our contentment.
+[00:40:40.860 --> 00:40:42.860]   In Philippians 4:11, it says,
+[00:40:42.860 --> 00:40:45.860]   "Not that I speak from want, for I have learned to be content
+[00:40:45.860 --> 00:40:47.860]   "in whatever circumstances I am.
+[00:40:47.860 --> 00:40:49.860]   "I know how to get along with humble means,
+[00:40:49.860 --> 00:40:52.860]   "and I also know how to live in prosperity.
+[00:40:52.860 --> 00:40:54.860]   "In any and every circumstance,
+[00:40:54.860 --> 00:40:57.860]   "I have learned the secret of being filled and going hungry,
+[00:40:57.860 --> 00:41:02.860]   "both of having abundance and suffering need."
+[00:41:02.860 --> 00:41:06.860]   You can have somebody that has so much,
+[00:41:06.860 --> 00:41:08.860]   and they could be unhappy.
+[00:41:08.860 --> 00:41:10.860]   And on the flip side, you can come across somebody
+[00:41:10.860 --> 00:41:14.860]   who has so little, and yet they are so content.
+[00:41:14.860 --> 00:41:18.860]   So it has very little to do with that present circumstance.
+[00:41:18.860 --> 00:41:20.860]   I'm sure we've heard of fellow believers
+[00:41:20.860 --> 00:41:22.860]   who have gone on mission trips
+[00:41:22.860 --> 00:41:24.860]   and witnessed how sometimes Christians around the world
+[00:41:24.860 --> 00:41:28.860]   have so little in comparison to what we have,
+[00:41:28.860 --> 00:41:30.860]   and yet because they have Christ, the same Christ we have,
+[00:41:30.860 --> 00:41:33.860]   they are so content.
+[00:41:33.860 --> 00:41:36.860]   They are so happy.
+[00:41:36.860 --> 00:41:39.860]   Materialism really has decimated the church.
+[00:41:39.860 --> 00:41:41.860]   Elizabeth Elliot says,
+[00:41:41.860 --> 00:41:45.860]   "God has promised to supply all our needs.
+[00:41:45.860 --> 00:41:48.860]   "What we don't have now, we don't need now."
+[00:41:48.860 --> 00:41:51.860]   I thought that quote was very short and succinct,
+[00:41:51.860 --> 00:41:53.860]   but very clear.
+[00:41:53.860 --> 00:41:56.860]   "What we don't have now, we don't need now."
+[00:41:56.860 --> 00:41:58.860]   Why? Because we have Christ.
+[00:41:58.860 --> 00:42:00.860]   We have all that we need in Christ.
+[00:42:00.860 --> 00:42:02.860]   We are content forever,
+[00:42:02.860 --> 00:42:04.860]   and there is no grumbling or complaining
+[00:42:04.860 --> 00:42:09.860]   that can come out of the mouth of a Christian.
+[00:42:09.860 --> 00:42:12.860]   Contentment is something we have to shoot for
+[00:42:12.860 --> 00:42:14.860]   because it goes hand-in-hand with gratitude.
+[00:42:14.860 --> 00:42:16.860]   This is what Jerry Bridges says.
+[00:42:16.860 --> 00:42:19.860]   "Gratitude is a handmaiden of contentment.
+[00:42:19.860 --> 00:42:22.860]   "An ever-growing attitude of gratitude
+[00:42:22.860 --> 00:42:24.860]   "will certainly make us more content
+[00:42:24.860 --> 00:42:26.860]   "since we will be focusing more on what we do have,
+[00:42:26.860 --> 00:42:28.860]   "both spiritually and materially,
+[00:42:28.860 --> 00:42:30.860]   "than on what we do not have.
+[00:42:30.860 --> 00:42:32.860]   "But contentment is more than focusing on what we have.
+[00:42:32.860 --> 00:42:36.860]   "It is focusing on the fact that all we do have,
+[00:42:36.860 --> 00:42:39.860]   "we have by the grace of God.
+[00:42:39.860 --> 00:42:42.860]   "We do not deserve anything we have,
+[00:42:42.860 --> 00:42:44.860]   "materially or spiritually.
+[00:42:44.860 --> 00:42:48.860]   "It is all by His grace."
+[00:42:48.860 --> 00:42:50.860]   So there is no grumbling or complaining
+[00:42:50.860 --> 00:42:53.860]   that can come out of the mouth of the believer.
+[00:42:53.860 --> 00:42:55.860]   We are marked by being grateful people,
+[00:42:55.860 --> 00:42:59.860]   filled with joy, filled with contentment.
+[00:42:59.860 --> 00:43:01.860]   And essentially, this is what worship is.
+[00:43:01.860 --> 00:43:04.860]   And this is our second point, our last point.
+[00:43:04.860 --> 00:43:09.860]   Gratitude is the natural fruit of worship.
+[00:43:09.860 --> 00:43:11.860]   Very, very interconnected.
+[00:43:11.860 --> 00:43:15.860]   Gratitude, worship.
+[00:43:15.860 --> 00:43:17.860]   God is the only place--
+[00:43:17.860 --> 00:43:20.860]   when you think of these two questions that I have up here,
+[00:43:20.860 --> 00:43:22.860]   what is our greatest need?
+[00:43:22.860 --> 00:43:24.860]   And what is our greatest desire?
+[00:43:24.860 --> 00:43:26.860]   If you were to answer these two questions,
+[00:43:26.860 --> 00:43:28.860]   what is our greatest need?
+[00:43:28.860 --> 00:43:30.860]   And we would say, without blinking an eye,
+[00:43:30.860 --> 00:43:33.860]   as quick as we can, that it is God that is our greatest need.
+[00:43:33.860 --> 00:43:35.860]   He is our greatest need.
+[00:43:35.860 --> 00:43:37.860]   And if we were to answer the second question,
+[00:43:37.860 --> 00:43:39.860]   what is our greatest desire,
+[00:43:39.860 --> 00:43:43.860]   then we would say God is our greatest desire.
+[00:43:43.860 --> 00:43:46.860]   God is supposed to be our greatest desire.
+[00:43:46.860 --> 00:43:50.860]   Both of these questions have already been answered for the Christian,
+[00:43:50.860 --> 00:43:52.860]   and it's true to us, and we say amen to this,
+[00:43:52.860 --> 00:43:54.860]   because God is our greatest need.
+[00:43:54.860 --> 00:43:56.860]   God is our greatest desire.
+[00:43:56.860 --> 00:43:58.860]   God is the only place, in effect,
+[00:43:58.860 --> 00:44:02.860]   where needs and wants really converge.
+[00:44:02.860 --> 00:44:05.860]   Needs and desires converge in this place with God,
+[00:44:05.860 --> 00:44:08.860]   and this is where genuine worship is born.
+[00:44:08.860 --> 00:44:10.860]   It's the essence of worship.
+[00:44:10.860 --> 00:44:13.860]   When we cry out our need for God,
+[00:44:13.860 --> 00:44:16.860]   when we cry out our desire for God,
+[00:44:16.860 --> 00:44:19.860]   this is the place where God meets us,
+[00:44:19.860 --> 00:44:24.860]   and it is His desire to give all of Himself to us.
+[00:44:24.860 --> 00:44:27.860]   It's this idea of abide that we've talked about.
+[00:44:27.860 --> 00:44:29.860]   In John chapter 15, verse 5, it says,
+[00:44:29.860 --> 00:44:31.860]   "I am the vine, you are the branches.
+[00:44:31.860 --> 00:44:33.860]   "He who abides in me and I in him,
+[00:44:33.860 --> 00:44:38.860]   "he bears much fruit, for apart from me you can do nothing.
+[00:44:38.860 --> 00:44:41.860]   "Just as the Father has loved me, I have also loved you.
+[00:44:41.860 --> 00:44:43.860]   "Abide in my love.
+[00:44:43.860 --> 00:44:45.860]   "If you keep my commandments, you will abide in my love,
+[00:44:45.860 --> 00:44:47.860]   "just as I have kept my Father's commandments,
+[00:44:47.860 --> 00:44:48.860]   "abide in His love.
+[00:44:48.860 --> 00:44:51.860]   "These things I have spoken to you so that my joy may be in you
+[00:44:51.860 --> 00:44:55.860]   "and that your joy may be made full."
+[00:44:55.860 --> 00:45:00.860]   All of this is going to be found in our communion with the Lord,
+[00:45:00.860 --> 00:45:04.860]   that He is our desire, that He is our contentment,
+[00:45:04.860 --> 00:45:08.860]   He is our need, He is everything that we can want and have.
+[00:45:08.860 --> 00:45:12.860]   Pastor Mark preached on that today.
+[00:45:12.860 --> 00:45:15.860]   We're joyful people because of this.
+[00:45:15.860 --> 00:45:20.860]   This passage shows us that all that we desire is found in God,
+[00:45:20.860 --> 00:45:22.860]   that He is our heart's cry,
+[00:45:22.860 --> 00:45:24.860]   and all of our needs have been met in God.
+[00:45:24.860 --> 00:45:26.860]   There is nothing else that can be done to us.
+[00:45:26.860 --> 00:45:28.860]   You can take away everything that we have.
+[00:45:28.860 --> 00:45:30.860]   You can take away our very lives.
+[00:45:30.860 --> 00:45:36.860]   And as believers, we would communally say amen to that.
+[00:45:36.860 --> 00:45:39.860]   Tonight, I hope that we can remember that together.
+[00:45:39.860 --> 00:45:42.860]   J.I. Packer says, "We need to discover all over again
+[00:45:42.860 --> 00:45:44.860]   "that worship is natural to the Christian,
+[00:45:44.860 --> 00:45:47.860]   "as it was to the godly Israelites who wrote the Psalms,
+[00:45:47.860 --> 00:45:51.860]   "and that the habit of celebrating the greatness and graciousness of God
+[00:45:51.860 --> 00:45:56.860]   "yields an endless flow of thankfulness, joy, and zeal."
+[00:45:56.860 --> 00:46:00.860]   So we're going to go through some discussion questions tonight,
+[00:46:00.860 --> 00:46:02.860]   and I hope that you can be honest with these
+[00:46:02.860 --> 00:46:08.860]   and ask yourself all throughout, "Am I a content child
+[00:46:08.860 --> 00:46:11.860]   "who is happy because I have God,
+[00:46:11.860 --> 00:46:15.860]   "who understands the great gift of salvation that has been given,
+[00:46:15.860 --> 00:46:17.860]   "that Jesus Christ has been given,
+[00:46:17.860 --> 00:46:20.860]   "and that then we are able to understand that God is not somebody
+[00:46:20.860 --> 00:46:22.860]   "who keeps those things away.
+[00:46:22.860 --> 00:46:24.860]   "He will give every good gift.
+[00:46:24.860 --> 00:46:27.860]   "He will not withhold anything good from us."
+[00:46:27.860 --> 00:46:32.860]   And so while many things ultimately is going to be realized in the kingdom,
+[00:46:32.860 --> 00:46:38.860]   that today, all that we have, events up and down, good or bad,
+[00:46:38.860 --> 00:46:42.860]   are good gifts from our God, and so we can be joyful.
+[00:46:42.860 --> 00:46:45.860]   God loves a content child.
+[00:46:45.860 --> 00:46:49.860]   Hebrews 13.5 says, "Make sure that your character is free from the love of money,
+[00:46:49.860 --> 00:46:51.860]   "being content with what you have.
+[00:46:51.860 --> 00:46:54.860]   "For he himself has said, 'I will never desert you,
+[00:46:54.860 --> 00:46:56.860]   "'nor will I ever forsake you.'"
+[00:46:56.860 --> 00:47:00.860]   Notice that he doesn't say here that he will give more money.
+[00:47:00.860 --> 00:47:03.860]   Although he can, he says, "I will never desert you.
+[00:47:03.860 --> 00:47:05.860]   "I will never forsake you."
+[00:47:05.860 --> 00:47:07.860]   It's him.
+[00:47:07.860 --> 00:47:10.860]   Colossians 3.15 says, "Let the peace of Christ rule in your hearts,
+[00:47:10.860 --> 00:47:12.860]   "to which indeed you are called in one body, and be thankful.
+[00:47:12.860 --> 00:47:15.860]   "Whatever you do in word or deed, do all in the name of the Lord Jesus,
+[00:47:15.860 --> 00:47:18.860]   "giving thanks through him to God the Father."
+[00:47:18.860 --> 00:47:24.860]   Our gratitude is going to be a testimony to the world.
+[00:47:24.860 --> 00:47:28.860]   To any unbeliever, our gratitude shows how precious God is.
+[00:47:28.860 --> 00:47:32.860]   If we are not content with God, if we are grumbling and complaining,
+[00:47:32.860 --> 00:47:36.860]   it will mar our witness to the world.
+[00:47:36.860 --> 00:47:40.860]   We're called to be content people, and that's our light.
+[00:47:40.860 --> 00:47:45.860]   So I conclude with Psalm 23.1, and it's just the first part of this verse,
+[00:47:45.860 --> 00:47:50.860]   where it says, "The Lord is my shepherd, I shall not want."
+[00:47:50.860 --> 00:47:52.860]   That is our light.
+[00:47:52.860 --> 00:47:55.860]   It's not going around to people just preaching this.
+[00:47:55.860 --> 00:47:59.860]   It's that this is our realized, true desire.
+[00:47:59.860 --> 00:48:02.860]   That I have nothing that I want.
+[00:48:02.860 --> 00:48:04.860]   There is nothing more that can be added to me,
+[00:48:04.860 --> 00:48:06.860]   and nothing that can be taken away.
+[00:48:06.860 --> 00:48:09.860]   That is going to cause in me any kind of shifting.
+[00:48:09.860 --> 00:48:14.860]   And so when we are struggling and wrestling with these things,
+[00:48:14.860 --> 00:48:17.860]   and we all are, that as we come together,
+[00:48:17.860 --> 00:48:19.860]   and especially tonight as we discuss these things,
+[00:48:19.860 --> 00:48:23.860]   I hope that our hearts can come together in this kind of gratitude.
+[00:48:23.860 --> 00:48:27.860]   Reminding each other, pushing each other, regardless of wherever we are,
+[00:48:27.860 --> 00:48:31.860]   whether we're in a time of abounding or a time of need,
+[00:48:31.860 --> 00:48:33.860]   that we're filled with joy.
+[00:48:33.860 --> 00:48:36.860]   I'll pray for us to close.
+[00:48:36.860 --> 00:48:40.860]   Heavenly Father, God, wherever we are here in Southern California,
+[00:48:40.860 --> 00:48:42.860]   wherever we're gathered,
+[00:48:42.860 --> 00:48:48.860]   I pray that it is your people who are going to be raising worship to you,
+[00:48:48.860 --> 00:48:50.860]   who are going to be reminding each other
+[00:48:50.860 --> 00:48:53.860]   that we will remind each other of how great you are,
+[00:48:53.860 --> 00:48:56.860]   how sweet you are, how good you are,
+[00:48:56.860 --> 00:49:00.860]   that you are our shepherd and we have nothing that we want.
+[00:49:00.860 --> 00:49:06.860]   God, please, I know that we are so grumbling and complaining.
+[00:49:06.860 --> 00:49:09.860]   God, we look just like those Israelites.
+[00:49:09.860 --> 00:49:11.860]   Be gracious to us, Lord.
+[00:49:11.860 --> 00:49:17.860]   Open our eyes to see what a great gift we have in you.
+[00:49:17.860 --> 00:49:22.860]   Teach us again to open our mouths only to worship,
+[00:49:22.860 --> 00:49:24.860]   to give you glory and honor,
+[00:49:24.860 --> 00:49:28.860]   and that your church then would be a great testimony, witness, and light
+[00:49:28.860 --> 00:49:33.860]   to the incredible value and preciousness of the great God that we serve.
+[00:49:33.860 --> 00:49:35.860]   So thank you, Lord.
+[00:49:35.860 --> 00:49:38.860]   Thank you that you gave us tonight to be able to, with a smaller group,
+[00:49:38.860 --> 00:49:40.860]   eat together, share together,
+[00:49:40.860 --> 00:49:43.860]   and we pray for genuine fellowship and communion now.
+[00:49:43.860 --> 00:49:46.860]   In Jesus' name we pray. Amen.
+[00:49:46.860 --> 00:49:49.860]   There should be some discussion questions provided to everybody,
+[00:49:49.860 --> 00:49:52.860]   so go ahead and go through that however the group see fit.
+[00:49:52.860 --> 00:49:54.860]   Other than that, that concludes tonight.
+[00:49:54.860 --> 00:49:58.860]   So we hope that you have an enjoyable rest of the night.
+[00:49:59.860 --> 00:50:08.860]   [applause]
+[00:50:08.860 --> 00:50:14.860]   [silence]
+[00:50:14.860 --> 00:50:18.860]   [silence]
+[00:50:18.860 --> 00:50:24.860]   [silence]
+[00:50:24.860 --> 00:50:30.860]   [silence]
+[00:50:30.860 --> 00:50:36.860]   [silence]
+[00:50:36.860 --> 00:50:42.860]   [silence]
+[00:50:42.860 --> 00:50:48.860]   [silence]
+
