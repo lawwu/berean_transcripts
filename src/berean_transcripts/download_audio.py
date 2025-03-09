@@ -137,7 +137,7 @@ def main():
     parser.add_argument(
         "--model_name",
         type=str,
-        default="ggml-large.bin",
+        default="ggml-large-v3-turbo.bin",
         help="Name of the whisper model to use",
     )
     args = parser.parse_args()
