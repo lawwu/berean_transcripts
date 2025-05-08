@@ -10,7 +10,7 @@ for id in $ids; do
   
   # Call your Python script
   # python src/berean_transcripts/transcribe_youtube.py "$url" --model_name ggml-large-32-2.en.bin
-  python src/berean_transcripts/transcribe_youtube.py "$url" --model_name ggml-large-v2.bin
+  python src/berean_transcripts/transcribe_youtube.py "$url" --model_name ggml-large-v3.bin
   
   # Optionally, sleep for a few seconds to avoid hitting rate limits
   sleep 2
