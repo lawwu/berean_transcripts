@@ -92,10 +92,12 @@ def download_video(url, outfile_name, download_dir=videos_dir):
             # "format": "bestvideo+bestaudio/best",
             "format": "mp4",
             "outtmpl": str(download_dir / outfile_name),
-            # 'postprocessors': [{
-            #     'key': 'FFmpegVideoConvertor',
-            #     'preferedformat': 'mp4',
-            # }]
+            # 'postprocessors': [
+            #     {
+            #         'key': 'FFmpegVideoConvertor',
+            #         'preferredformat': 'mp4',
+            #     }
+            # ]
         }
         with YoutubeDL(options) as ydl:
             print(f"Downloading: {url}")
