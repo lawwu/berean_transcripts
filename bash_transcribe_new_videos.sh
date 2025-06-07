@@ -21,7 +21,7 @@ source "$SCRIPT_DIR/venv/bin/activate"
 eval "$(ssh-agent -s)"
 ssh-add "$SSH_KEY_PATH"
 
-# Get new video ideas
+# Get new video IDs
 python "$SCRIPT_DIR/src/berean_transcripts/get_new_video_ids.py"
 
 # Check if bcc_live_video_ids.txt is empty
