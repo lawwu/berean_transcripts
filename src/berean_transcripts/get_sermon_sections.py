@@ -40,7 +40,7 @@ def extract_sections(
     fps = int(cap.get(cv2.CAP_PROP_FPS))
     frame_count = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
 
-    logging(f"Frame rate of the video is: {fps} FPS")
+    logging.info(f"Frame rate of the video is: {fps} FPS")
 
     # Convert start_time and end_time to start_frame and end_frame
     start_frame = int(start_time * fps) if start_time is not None else 0
