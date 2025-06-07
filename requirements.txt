@@ -4,3 +4,4 @@ ffmpeg-python
 whispercpp
 faster-whisper
 pandas
+pytest
