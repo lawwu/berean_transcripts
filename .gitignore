@@ -128,3 +128,10 @@ target/
 
 # NPM
 src/transcripts/yt_cookie.txt
+
+# Audio downloads and partial files are pipeline intermediates; only transcripts are tracked
+data/transcripts/*
+!data/transcripts/*.txt
+
+# The sharded transcript DBs are published site content on GitHub Pages
+!docs/db/*.db

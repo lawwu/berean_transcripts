@@ -1,1 +1,3 @@
 *.json filter=lfs diff=lfs merge=lfs -text
+# GitHub Pages serves LFS pointer files, not content — keep site assets as plain files
+docs/**/*.json -filter -diff -merge text

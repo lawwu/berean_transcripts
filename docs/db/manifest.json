@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "entries": [
+    {
+      "year": "2011",
+      "count": 2,
+      "db": "transcripts_2011.db",
+      "bytes": 159744
+    },
+    {
+      "year": "2012",
+      "count": 7,
+      "db": "transcripts_2012.db",
+      "bytes": 364544
+    },
+    {
+      "year": "2013",
+      "count": 3,
+      "db": "transcripts_2013.db",
+      "bytes": 135168
+    },
+    {
+      "year": "2014",
+      "count": 12,
+      "db": "transcripts_2014.db",
+      "bytes": 765952
+    },
+    {
+      "year": "2015",
+      "count": 71,
+      "db": "transcripts_2015.db",
+      "bytes": 4149248
+    },
+    {
+      "year": "2016",
+      "count": 94,
+      "db": "transcripts_2016.db",
+      "bytes": 5185536
+    },
+    {
+      "year": "2017",
+      "count": 113,
+      "db": "transcripts_2017.db",
+      "bytes": 6418432
+    },
+    {
+      "year": "2018",
+      "count": 103,
+      "db": "transcripts_2018.db",
+      "bytes": 6225920
+    },
+    {
+      "year": "2019",
+      "count": 116,
+      "db": "transcripts_2019.db",
+      "bytes": 6381568
+    },
+    {
+      "year": "2020",
+      "count": 165,
+      "db": "transcripts_2020.db",
+      "bytes": 9039872
+    },
+    {
+      "year": "2021",
+      "count": 166,
+      "db": "transcripts_2021.db",
+      "bytes": 9060352
+    },
+    {
+      "year": "2022",
+      "count": 134,
+      "db": "transcripts_2022.db",
+      "bytes": 7630848
+    },
+    {
+      "year": "2023",
+      "count": 98,
+      "db": "transcripts_2023.db",
+      "bytes": 6365184
+    },
+    {
+      "year": "2024",
+      "count": 97,
+      "db": "transcripts_2024.db",
+      "bytes": 5931008
+    },
+    {
+      "year": "2025",
+      "count": 80,
+      "db": "transcripts_2025.db",
+      "bytes": 5394432
+    },
+    {
+      "year": "2026",
+      "count": 3,
+      "db": "transcripts_2026.db",
+      "bytes": 294912
+    }
+  ]
+}
