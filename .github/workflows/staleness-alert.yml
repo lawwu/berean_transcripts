@@ -1,0 +1,46 @@
+name: Staleness alert
+
+# Dead-man's switch for the local transcription pipeline: the Mac pushes
+# AUTO commits twice a week, so if none have landed in 10 days, something
+# on the local side has silently stopped. Opens an issue to make it loud.
+
+on:
+  schedule:
+    - cron: "0 17 * * 1" # Mondays 17:00 UTC (9am PT)
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Open issue if last AUTO commit is older than 10 days
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          last=$(git log -1 --format=%ct --grep='^AUTO:')
+          if [ -z "$last" ]; then
+            echo "No AUTO commits found; nothing to check."
+            exit 0
+          fi
+          age_days=$(( ( $(date +%s) - last ) / 86400 ))
+          echo "Last AUTO commit was $age_days days ago."
+          if [ "$age_days" -le 10 ]; then
+            exit 0
+          fi
+          title="Transcript pipeline is stale"
+          existing=$(gh issue list --repo "$GITHUB_REPOSITORY" --state open \
+            --search "\"$title\" in:title" --json number --jq length)
+          if [ "$existing" -gt 0 ]; then
+            echo "An open staleness issue already exists; not creating another."
+            exit 0
+          fi
+          gh issue create --repo "$GITHUB_REPOSITORY" \
+            --title "$title" \
+            --body "$(printf 'No AUTO commit has been pushed in %s days (expected twice weekly from the local launchd job).\n\nThings to check on the Mac:\n- Is the machine on and logged in?\n- launchctl print gui/501/com.lawrencewu.berean-transcribe\n- tail ~/Library/Logs/berean_transcribe.log\n- Did yt-dlp break? (YouTube changes often require a yt-dlp upgrade)\n\nThis issue was opened automatically by .github/workflows/staleness-alert.yml.' "$age_days")"

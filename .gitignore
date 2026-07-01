@@ -135,3 +135,7 @@ data/transcripts/*
 
 # The sharded transcript DBs are published site content on GitHub Pages
 !docs/db/*.db
+
+# Local-only: whisper model weights and whisper.cpp build
+models/
+whisper.cpp/

@@ -29,12 +29,12 @@ if [ -s "$SCRIPT_DIR/data/bcc_live_video_ids.txt" ]; then
     # Transcribe new videos
     "$SCRIPT_DIR/bash_transcribe.sh" "$SCRIPT_DIR/data/bcc_live_video_ids.txt"
     
-    # Generate HTML and output to docs/
-    python "$SCRIPT_DIR/src/berean_transcripts/generate_html.py"
-    
+    # Rebuild sharded SQLite DBs for the static search/viewer app in docs/
+    python "$SCRIPT_DIR/src/berean_transcripts/build_sharded_db.py"
+
     # Commit files
     git add "$SCRIPT_DIR/data/*.txt"
-    git add "$SCRIPT_DIR/docs/*.html"
+    git add "$SCRIPT_DIR/docs/db"
     git add "$SCRIPT_DIR/data/video_details_cache.json"
     git commit -m "AUTO: adding latest messages from $(date +'%Y-%m-%d')"
     git push 2>&1 | tee "$SCRIPT_DIR/git_push_output.log"
