@@ -51,8 +51,7 @@ async function loadIdIndex() {
 async function initSql() {
   if (!state.sqlReady) {
     state.sqlReady = initSqlJs({
-      locateFile: (file) =>
-        `https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.10.2/${file}`,
+      locateFile: (file) => `./assets/sqljs/${file}`,
     });
   }
   return state.sqlReady;

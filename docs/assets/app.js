@@ -99,8 +99,7 @@ function renderFilters() {
 async function initSql() {
   if (!state.sqlReady) {
     state.sqlReady = initSqlJs({
-      locateFile: (file) =>
-        `https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.10.2/${file}`,
+      locateFile: (file) => `./assets/sqljs/${file}`,
     });
   }
   return state.sqlReady;
@@ -255,11 +254,15 @@ async function loadLatest() {
   renderResults(results.slice(0, 120));
 }
 
+function reportError(error) {
+  setStatus(`Something went wrong: ${error.message || error}`);
+}
+
 function wireControls() {
-  els.searchBtn.addEventListener("click", runSearch);
-  els.latestBtn.addEventListener("click", loadLatest);
+  els.searchBtn.addEventListener("click", () => runSearch().catch(reportError));
+  els.latestBtn.addEventListener("click", () => loadLatest().catch(reportError));
   els.query.addEventListener("keydown", (event) => {
-    if (event.key === "Enter") runSearch();
+    if (event.key === "Enter") runSearch().catch(reportError);
   });
   els.results.addEventListener("click", async (event) => {
     const button = event.target.closest(".view-transcript");

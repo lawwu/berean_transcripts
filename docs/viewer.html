@@ -11,10 +11,9 @@
       rel="stylesheet"
     />
     <link rel="stylesheet" href="./assets/styles.css" />
-    <script
-      src="https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.10.2/sql-wasm.js"
-      defer
-    ></script>
+    <!-- Vendored sql.js-fts5 build: the official sql.js dist lacks FTS5,
+         which the transcript shards require -->
+    <script src="./assets/sqljs/sql-wasm.js" defer></script>
     <script src="./assets/viewer.js" defer></script>
   </head>
   <body>
