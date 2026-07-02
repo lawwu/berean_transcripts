@@ -63,9 +63,10 @@ ruff check src/
 1. `get_new_video_ids.py` - Discovers new YouTube/Vimeo videos from Berean CC
 2. `download_audio.py` - Downloads audio using yt-dlp
 3. `transcribe_youtube.py` - Transcribes audio using whisper.cpp
-4. `build_sharded_db.py` - Builds per-year SQLite DBs (with FTS5) into `docs/db/` for the static web app
-5. `generate_html.py` - (Legacy) Converts transcripts to per-video HTML; existing files kept for old links
-6. `get_sermon_sections.py` - Extracts sermon sections/timestamps
+4. `update_metadata_cache.py` - Fetches yt-dlp metadata (title/date/duration/url) for transcribed videos missing from `video_details_cache.json`; must run before `build_sharded_db.py` or new videos are silently skipped
+5. `build_sharded_db.py` - Builds per-year SQLite DBs (with FTS5) into `docs/db/` for the static web app
+6. `generate_html.py` - (Legacy) Converts transcripts to per-video HTML; existing files kept for old links
+7. `get_sermon_sections.py` - Extracts sermon sections/timestamps
 
 **Data Flow:**
 - Video IDs stored in `data/bcc_live_video_ids.txt` (new videos) and `data/bcc_live_video_ids_done.txt` (processed)
