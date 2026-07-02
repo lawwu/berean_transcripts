@@ -87,15 +87,15 @@
     },
     {
       "year": "2025",
-      "count": 80,
+      "count": 81,
       "db": "transcripts_2025.db",
-      "bytes": 5394432
+      "bytes": 5509120
     },
     {
       "year": "2026",
-      "count": 3,
+      "count": 25,
       "db": "transcripts_2026.db",
-      "bytes": 294912
+      "bytes": 1576960
     }
   ]
 }

@@ -29,6 +29,11 @@ if [ -s "$SCRIPT_DIR/data/bcc_live_video_ids.txt" ]; then
     # Transcribe new videos
     "$SCRIPT_DIR/bash_transcribe.sh" "$SCRIPT_DIR/data/bcc_live_video_ids.txt"
     
+    # Fetch/cache yt-dlp metadata (title, date, duration, url) for the newly
+    # transcribed videos; build_sharded_db.py reads this cache and silently
+    # skips any video missing from it
+    python "$SCRIPT_DIR/src/berean_transcripts/update_metadata_cache.py"
+
     # Rebuild sharded SQLite DBs for the static search/viewer app in docs/
     python "$SCRIPT_DIR/src/berean_transcripts/build_sharded_db.py"
 
