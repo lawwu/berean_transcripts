@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -euo pipefail
+
 echo "Script started at $(date)"
 
 # Set the absolute path to the Git repository directory
@@ -19,6 +21,7 @@ source "$SCRIPT_DIR/venv/bin/activate"
 
 # Start the SSH agent and add the SSH key
 eval "$(ssh-agent -s)"
+trap 'eval "$(ssh-agent -k)" >/dev/null' EXIT
 ssh-add "$SSH_KEY_PATH"
 
 # Get new video IDs
@@ -47,8 +50,5 @@ if [ -s "$SCRIPT_DIR/data/bcc_live_video_ids.txt" ]; then
 else
     echo "No new videos found. Exiting script."
 fi
-
-# Kill the SSH agent
-eval "$(ssh-agent -k)"
 
 echo "Script finished at $(date)"

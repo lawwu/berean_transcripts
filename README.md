@@ -49,3 +49,15 @@ crontab -e
 - [ ] automatically tag the beginning and end of the sermons and clip this out
 - [ ] Whisper thinks some sections of the sermon are praise
 - [ ] check does whisper remove ums and ahs?
+
+# Transcription quality safeguards
+
+The default local model is `ggml-large-v3-turbo.bin`. The CLI runs with
+`-mc 0` so hallucinated text from long pre-service silence is not carried into
+later windows. Output is written to a `.partial` candidate, consecutive decoder
+loops are collapsed, and empty or repetition-dominated candidates are rejected
+before they can replace the published transcript.
+
+Discovery also checks the 24 most recent videos and requeues any transcript
+that fails the same quality gate. A failed process therefore remains eligible
+for an automatic retry instead of being treated as permanently complete.

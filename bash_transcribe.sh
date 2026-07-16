@@ -1,7 +1,11 @@
 #!/bin/bash
 
+set -euo pipefail
+
+ids_file="${1:-./data/bcc_live_video_ids.txt}"
+
 # Read YouTube IDs from the text file and store them in a variable
-youtube_ids=$(cat ./data/bcc_live_video_ids.txt)
+youtube_ids=$(<"$ids_file")
 
 # Loop through each YouTube ID
 for id in $youtube_ids; do

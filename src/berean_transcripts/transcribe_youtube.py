@@ -4,7 +4,12 @@ from yt_dlp import YoutubeDL
 import re
 import ffmpeg
 import logging
+import shlex
 
+from berean_transcripts.quality import (
+    collapse_consecutive_repeats,
+    find_transcript_issue,
+)
 from berean_transcripts.utils import (
     transcripts_dir,
     model_dir,
@@ -88,8 +93,18 @@ def ensure_wav_16k(filename, ffmpeg_path="/opt/homebrew/bin/ffmpeg"):
     input_path = transcripts_dir / f"{filename}.wav"
     output_path = transcripts_dir / f"{filename}_16k.wav"
     # always override with yes
-    command = [ffmpeg_path, "-y", "-i", input_path, "-ar", "16000", output_path]
-    subprocess.run(command)
+    command = [
+        ffmpeg_path,
+        "-y",
+        "-i",
+        input_path,
+        "-ar",
+        "16000",
+        "-ac",
+        "1",
+        output_path,
+    ]
+    subprocess.run(command, check=True)
 
 
 @timeit
@@ -97,11 +112,43 @@ def run_whisper(filename, model_name, num_threads=7, num_processors=1):
     model_path = model_dir / model_name
     input_path = transcripts_dir / f"{filename}_16k.wav"
     output_path = transcripts_dir / f"{filename}.txt"
+    partial_output_path = transcripts_dir / f"{filename}.txt.partial"
 
     whisper_main = whispercpp_dir / "main"
-    command = f"{whisper_main} -m {model_path} -t {num_threads} -p {num_processors} -f {input_path} > {output_path}"
-    logging.info(f"Running whisper command: {command}")
-    subprocess.run(command, shell=True)
+    command = [
+        str(whisper_main),
+        "-m",
+        str(model_path),
+        "-t",
+        str(num_threads),
+        "-p",
+        str(num_processors),
+        # Do not carry hallucinated text from long pre-service silence into
+        # later windows. Without this, a single "Thank you" can poison an
+        # entire 80-minute service even after clear speech begins.
+        "-mc",
+        "0",
+        "-f",
+        str(input_path),
+    ]
+    logging.info("Running whisper command: %s", shlex.join(command))
+    with partial_output_path.open("w", encoding="utf-8") as output_file:
+        subprocess.run(command, stdout=output_file, check=True, text=True)
+
+    transcript = partial_output_path.read_text(
+        encoding="utf-8", errors="replace"
+    )
+    transcript = collapse_consecutive_repeats(transcript)
+    partial_output_path.write_text(transcript, encoding="utf-8")
+    quality_issue = find_transcript_issue(transcript)
+    if quality_issue:
+        raise RuntimeError(
+            f"Rejected transcript for {filename}: {quality_issue}. "
+            f"Candidate retained at {partial_output_path}"
+        )
+
+    partial_output_path.replace(output_path)
+    return output_path
 
 
 def clean_up_wav_files(base_filename):
