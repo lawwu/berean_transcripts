@@ -56,12 +56,14 @@
     </div>
   </header>
 
-  <div class="player-shell" id="player-shell">
-    <iframe id="player" src="https://player.vimeo.com/video/441879609" title="2020-07-26 Samantha Lee Baptism" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <div class="player-dock" id="player-dock">
+    <div class="player-shell" id="player-shell">
+      <iframe id="player" src="https://player.vimeo.com/video/441879609" title="2020-07-26 Samantha Lee Baptism" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+    </div>
   </div>
 
   <section class="transcript" id="transcript" data-platform="vimeo">
-    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment.</p>
+    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment, or hover a <span class="verse verse-legend">Bible reference</span> to read the passage.</p>
     <div class="para" id="p0">
       <button class="ts" data-t="0" title="Play from 0:00">0:00</button>
       <p>- Hi, my name is Samantha Lee and I&#39;m Tyler&#39;s sister. I&#39;m currently a fourth year in college studying business. I grew up in a Christian household with Christian parents who brought me to church faithfully ever since I was a baby. I heard the Bible stories hundreds of times and at age five, proclaimed Jesus Christ as my savior. The words came out, but I didn&#39;t know what they truly meant. Then it seemed like every Sunday school after, I would pray the salvation prayer with my teacher just to make sure I wouldn&#39;t go to hell. Continuing into high school, outwardly I looked like a great Christian, serving in children&#39;s ministry, food pantries, and refreshments. At school, I worked hard and never partied, defining myself as a good worker for God, but never sharing the gospel.</p>
@@ -80,7 +82,7 @@
     </div>
     <div class="para" id="p4">
       <button class="ts" data-t="187" title="Play from 3:07">3:07</button>
-      <p>There is nothing I could do to earn it, and there is no power in man or hell that can take it away. I will gladly consider my own kingdom and life as foolish in comparison to receiving an everlasting relationship with God who&#39;s prepared a beautiful place for His people, asking nothing in return but their broken hearts. As Paul said in Philippians 3, 8-9, &#34;More than that, I count all things to be lost in the view of these surpassing value of knowing Christ Jesus my Lord, for whom I have suffered the loss of all things, and count them but rubbish so that I may gain Christ. And may be found in Him, not having a righteousness of my own derived from the law, but that which is their faith in Christ, the righteousness which comes from God on the basis of faith.&#34;</p>
+      <p>There is nothing I could do to earn it, and there is no power in man or hell that can take it away. I will gladly consider my own kingdom and life as foolish in comparison to receiving an everlasting relationship with God who&#39;s prepared a beautiful place for His people, asking nothing in return but their broken hearts. As Paul said in <span class="verse" data-ref="Philippians 3" tabindex="0" role="button">Philippians 3</span>, 8-9, &#34;More than that, I count all things to be lost in the view of these surpassing value of knowing Christ Jesus my Lord, for whom I have suffered the loss of all things, and count them but rubbish so that I may gain Christ. And may be found in Him, not having a righteousness of my own derived from the law, but that which is their faith in Christ, the righteousness which comes from God on the basis of faith.&#34;</p>
     </div>
     <div class="para" id="p5">
       <button class="ts" data-t="232" title="Play from 3:52">3:52</button>
@@ -138,6 +140,104 @@
   // re-align after fonts/iframe settle layout
   window.addEventListener("load", highlightFromHash);
   highlightFromHash();
+
+  // --- Bible reference popovers -------------------------------------------
+  // References detected in the transcript are wrapped in <span class="verse">.
+  // Hover/focus/tap one and we fetch the passage text from bible-api.com
+  // (World English Bible, public domain, CORS-enabled) and show it inline.
+  const verses = document.querySelectorAll(".verse[data-ref]");
+  if (verses.length) {
+    const cache = new Map();
+    const pop = document.createElement("div");
+    pop.className = "verse-pop";
+    pop.hidden = true;
+    pop.innerHTML =
+      '<div class="verse-pop-head"></div>' +
+      '<div class="verse-pop-body"></div>' +
+      '<div class="verse-pop-cite"></div>';
+    document.body.appendChild(pop);
+    const headEl = pop.querySelector(".verse-pop-head");
+    const bodyEl = pop.querySelector(".verse-pop-body");
+    const citeEl = pop.querySelector(".verse-pop-cite");
+    let hideTimer;
+    let active = null;
+
+    function fetchRef(ref) {
+      if (cache.has(ref)) return cache.get(ref);
+      const p = fetch("https://bible-api.com/" + encodeURIComponent(ref))
+        .then((r) => (r.ok ? r.json() : Promise.reject()))
+        .then((d) => ({
+          reference: d.reference || ref,
+          text: (d.text || "").replace(/\s+\n/g, "\n").trim(),
+          translation: d.translation_name || "",
+        }))
+        .catch(() => null);
+      cache.set(ref, p);
+      return p;
+    }
+
+    function place(target) {
+      const r = target.getBoundingClientRect();
+      const width = Math.min(400, window.innerWidth - 24);
+      pop.style.width = width + "px";
+      let left = window.scrollX + r.left;
+      left = Math.min(left, window.scrollX + window.innerWidth - width - 12);
+      left = Math.max(left, window.scrollX + 12);
+      pop.style.left = left + "px";
+      pop.style.top = window.scrollY + r.bottom + 8 + "px";
+    }
+
+    function show(target) {
+      clearTimeout(hideTimer);
+      active = target;
+      const ref = target.dataset.ref;
+      headEl.textContent = ref;
+      bodyEl.textContent = "Loading…";
+      citeEl.textContent = "";
+      place(target);
+      pop.hidden = false;
+      fetchRef(ref).then((data) => {
+        if (pop.hidden || active !== target) return;
+        if (!data) {
+          bodyEl.textContent = "Couldn't load this passage.";
+          return;
+        }
+        headEl.textContent = data.reference;
+        bodyEl.textContent = data.text;
+        citeEl.textContent = data.translation;
+        place(target);
+      });
+    }
+
+    function scheduleHide() {
+      hideTimer = setTimeout(() => {
+        pop.hidden = true;
+        active = null;
+      }, 200);
+    }
+
+    verses.forEach((el) => {
+      el.addEventListener("mouseenter", () => show(el));
+      el.addEventListener("mouseleave", scheduleHide);
+      el.addEventListener("focus", () => show(el));
+      el.addEventListener("blur", () => {
+        pop.hidden = true;
+        active = null;
+      });
+      el.addEventListener("click", (e) => {
+        e.preventDefault();
+        show(el);
+      });
+    });
+    pop.addEventListener("mouseenter", () => clearTimeout(hideTimer));
+    pop.addEventListener("mouseleave", scheduleHide);
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape") {
+        pop.hidden = true;
+        active = null;
+      }
+    });
+  }
 })();
 </script>
 </body>

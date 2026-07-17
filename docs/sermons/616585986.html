@@ -56,12 +56,14 @@
     </div>
   </header>
 
-  <div class="player-shell" id="player-shell">
-    <iframe id="player" src="https://player.vimeo.com/video/616585986" title="2021-09-26 Jared Kwong Baptism Testimony" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <div class="player-dock" id="player-dock">
+    <div class="player-shell" id="player-shell">
+      <iframe id="player" src="https://player.vimeo.com/video/616585986" title="2021-09-26 Jared Kwong Baptism Testimony" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+    </div>
   </div>
 
   <section class="transcript" id="transcript" data-platform="vimeo">
-    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment.</p>
+    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment, or hover a <span class="verse verse-legend">Bible reference</span> to read the passage.</p>
     <div class="para" id="p0">
       <button class="ts" data-t="0" title="Play from 0:00">0:00</button>
       <p>- Hello everyone, my name is Jared Kwong. I am a fourth year biology major at UCI and I will be sharing my testimony with you today. My testimony is a little different in that I did not have a specific date where I came to know Christ, but more of a gradual coming to know him. I was raised in a Christian family for most of my life. I went to church. Before coming to know Christ, I selfishly desired Christ as a means to get to heaven. I was introduced to the gospel at a very young age where I was told that I was a sinner and if I believed in Jesus, I could go to heaven. Out of fear of being punished, I put my faith in Christ, but not actually understanding the weight of my sin and who Christ really was.</p>
@@ -76,7 +78,7 @@
     </div>
     <div class="para" id="p3">
       <button class="ts" data-t="136" title="Play from 2:16">2:16</button>
-      <p>Then in a sermon from Pastor Peter that broke down my view of the gospel was when he mentioned that the gospel is not just a safety net or some free ticket out of hell. Finally, through a meetup with Pastor Nate, God made me see that I saw my sin as bad, but not sorrowful over my sin. This was the final piece that made me realize how far I was from God and that I truly did not know him. After realizing this, I began to pray to God to reveal to me my sin and to understand the magnitude of my sin. After some time, God revealed to me how great my sin is toward him through Isaiah 6, three to five, which states, &#34;And one called out to one another &#34;and said, &#39;Holy, holy, holy is the Lord of hosts.</p>
+      <p>Then in a sermon from Pastor Peter that broke down my view of the gospel was when he mentioned that the gospel is not just a safety net or some free ticket out of hell. Finally, through a meetup with Pastor Nate, God made me see that I saw my sin as bad, but not sorrowful over my sin. This was the final piece that made me realize how far I was from God and that I truly did not know him. After realizing this, I began to pray to God to reveal to me my sin and to understand the magnitude of my sin. After some time, God revealed to me how great my sin is toward him through <span class="verse" data-ref="Isaiah 6" tabindex="0" role="button">Isaiah 6</span>, three to five, which states, &#34;And one called out to one another &#34;and said, &#39;Holy, holy, holy is the Lord of hosts.</p>
     </div>
     <div class="para" id="p4">
       <button class="ts" data-t="179" title="Play from 2:59">2:59</button>
@@ -138,6 +140,104 @@
   // re-align after fonts/iframe settle layout
   window.addEventListener("load", highlightFromHash);
   highlightFromHash();
+
+  // --- Bible reference popovers -------------------------------------------
+  // References detected in the transcript are wrapped in <span class="verse">.
+  // Hover/focus/tap one and we fetch the passage text from bible-api.com
+  // (World English Bible, public domain, CORS-enabled) and show it inline.
+  const verses = document.querySelectorAll(".verse[data-ref]");
+  if (verses.length) {
+    const cache = new Map();
+    const pop = document.createElement("div");
+    pop.className = "verse-pop";
+    pop.hidden = true;
+    pop.innerHTML =
+      '<div class="verse-pop-head"></div>' +
+      '<div class="verse-pop-body"></div>' +
+      '<div class="verse-pop-cite"></div>';
+    document.body.appendChild(pop);
+    const headEl = pop.querySelector(".verse-pop-head");
+    const bodyEl = pop.querySelector(".verse-pop-body");
+    const citeEl = pop.querySelector(".verse-pop-cite");
+    let hideTimer;
+    let active = null;
+
+    function fetchRef(ref) {
+      if (cache.has(ref)) return cache.get(ref);
+      const p = fetch("https://bible-api.com/" + encodeURIComponent(ref))
+        .then((r) => (r.ok ? r.json() : Promise.reject()))
+        .then((d) => ({
+          reference: d.reference || ref,
+          text: (d.text || "").replace(/\s+\n/g, "\n").trim(),
+          translation: d.translation_name || "",
+        }))
+        .catch(() => null);
+      cache.set(ref, p);
+      return p;
+    }
+
+    function place(target) {
+      const r = target.getBoundingClientRect();
+      const width = Math.min(400, window.innerWidth - 24);
+      pop.style.width = width + "px";
+      let left = window.scrollX + r.left;
+      left = Math.min(left, window.scrollX + window.innerWidth - width - 12);
+      left = Math.max(left, window.scrollX + 12);
+      pop.style.left = left + "px";
+      pop.style.top = window.scrollY + r.bottom + 8 + "px";
+    }
+
+    function show(target) {
+      clearTimeout(hideTimer);
+      active = target;
+      const ref = target.dataset.ref;
+      headEl.textContent = ref;
+      bodyEl.textContent = "Loading…";
+      citeEl.textContent = "";
+      place(target);
+      pop.hidden = false;
+      fetchRef(ref).then((data) => {
+        if (pop.hidden || active !== target) return;
+        if (!data) {
+          bodyEl.textContent = "Couldn't load this passage.";
+          return;
+        }
+        headEl.textContent = data.reference;
+        bodyEl.textContent = data.text;
+        citeEl.textContent = data.translation;
+        place(target);
+      });
+    }
+
+    function scheduleHide() {
+      hideTimer = setTimeout(() => {
+        pop.hidden = true;
+        active = null;
+      }, 200);
+    }
+
+    verses.forEach((el) => {
+      el.addEventListener("mouseenter", () => show(el));
+      el.addEventListener("mouseleave", scheduleHide);
+      el.addEventListener("focus", () => show(el));
+      el.addEventListener("blur", () => {
+        pop.hidden = true;
+        active = null;
+      });
+      el.addEventListener("click", (e) => {
+        e.preventDefault();
+        show(el);
+      });
+    });
+    pop.addEventListener("mouseenter", () => clearTimeout(hideTimer));
+    pop.addEventListener("mouseleave", scheduleHide);
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape") {
+        pop.hidden = true;
+        active = null;
+      }
+    });
+  }
 })();
 </script>
 </body>

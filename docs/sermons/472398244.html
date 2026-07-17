@@ -56,19 +56,21 @@
     </div>
   </header>
 
-  <div class="player-shell" id="player-shell">
-    <iframe id="player" src="https://player.vimeo.com/video/472398244" title="2020-10-25 Baptism Peter Lee" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <div class="player-dock" id="player-dock">
+    <div class="player-shell" id="player-shell">
+      <iframe id="player" src="https://player.vimeo.com/video/472398244" title="2020-10-25 Baptism Peter Lee" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+    </div>
   </div>
 
   <section class="transcript" id="transcript" data-platform="vimeo">
-    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment.</p>
+    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment, or hover a <span class="verse verse-legend">Bible reference</span> to read the passage.</p>
     <div class="para" id="p0">
       <button class="ts" data-t="0" title="Play from 0:00">0:00</button>
       <p>Good morning, church family. My name is Peter, and I&#39;ve been part of the family ministry here at Beroean for the last 12 years. I&#39;m married to my wonderful wife, Kelly, and we have three kids, Noel, Trevor, and Carter. I have the privilege this morning of briefly sharing my testimony with you and to partake in the ordinance of baptism. When I look back on my life, I see the gods and Indian faithfulness and care over my life. At the age of seven, I moved to the US to live with my grandmother. And not having my parents around throughout my childhood and teenage years, I was forced to grow up quickly. I learned to be independent, to make decisions on my own, both good and bad. Looking back, it&#39;s only by God&#39;s grace and protection that I stayed away from trouble.</p>
     </div>
     <div class="para" id="p1">
       <button class="ts" data-t="52" title="Play from 0:52">0:52</button>
-      <p>In high school, I hung out with the good kids, you know, the ones that didn&#39;t care much about girls or popularity as much as AP classes and GPAs. And one good kid, Conrad, who would eventually become my closest friend, would always drag me, I mean, invite me to his church. But Christianity was new to me, and this John 14.6 idea that Jesus is the only way to God ran counterintuitive to my Taiwanese culture of idol and ancestor worship and the common belief that all roads lead to one. But slowly, God opened my eyes, exposing me more and more to his great love, to his church and its people, and ultimately to the good news of Jesus Christ. Eventually, in 1999, as a junior in high school, I accepted Christ as my Lord and Savior.</p>
+      <p>In high school, I hung out with the good kids, you know, the ones that didn&#39;t care much about girls or popularity as much as AP classes and GPAs. And one good kid, Conrad, who would eventually become my closest friend, would always drag me, I mean, invite me to his church. But Christianity was new to me, and this <span class="verse" data-ref="John 14" tabindex="0" role="button">John 14</span>.6 idea that Jesus is the only way to God ran counterintuitive to my Taiwanese culture of idol and ancestor worship and the common belief that all roads lead to one. But slowly, God opened my eyes, exposing me more and more to his great love, to his church and its people, and ultimately to the good news of Jesus Christ. Eventually, in 1999, as a junior in high school, I accepted Christ as my Lord and Savior.</p>
     </div>
     <div class="para" id="p2">
       <button class="ts" data-t="97" title="Play from 1:37">1:37</button>
@@ -80,7 +82,7 @@
     </div>
     <div class="para" id="p4">
       <button class="ts" data-t="184" title="Play from 3:04">3:04</button>
-      <p>Based on the Isaiah 6 vision of the incomparable holiness of God, his sermon hit me like a ton of bricks. Piper preached, &#34;God&#39;s holiness is his infinite value as the absolutely unique, morally perfect, permanent person that he is and who by grace has made himself accessible.&#34; It would be foolish of me to not pursue this God of infinite value, like in Philippians 3.8 when Paul says, &#34;I count all things as loss in view of the surpassing value of knowing Christ Jesus.&#34; In 2005, during my senior year of college, I was baptized at my old church, EFC Irvine, by the sprinkling of water. I believed it to be sufficient, not questioning how it was performed. In 2008, Kelly and I got married and we started coming to Bremen.</p>
+      <p>Based on the <span class="verse" data-ref="Isaiah 6" tabindex="0" role="button">Isaiah 6</span> vision of the incomparable holiness of God, his sermon hit me like a ton of bricks. Piper preached, &#34;God&#39;s holiness is his infinite value as the absolutely unique, morally perfect, permanent person that he is and who by grace has made himself accessible.&#34; It would be foolish of me to not pursue this God of infinite value, like in <span class="verse" data-ref="Philippians 3" tabindex="0" role="button">Philippians 3</span>.8 when Paul says, &#34;I count all things as loss in view of the surpassing value of knowing Christ Jesus.&#34; In 2005, during my senior year of college, I was baptized at my old church, EFC Irvine, by the sprinkling of water. I believed it to be sufficient, not questioning how it was performed. In 2008, Kelly and I got married and we started coming to Bremen.</p>
     </div>
     <div class="para" id="p5">
       <button class="ts" data-t="229" title="Play from 3:49">3:49</button>
@@ -142,6 +144,104 @@
   // re-align after fonts/iframe settle layout
   window.addEventListener("load", highlightFromHash);
   highlightFromHash();
+
+  // --- Bible reference popovers -------------------------------------------
+  // References detected in the transcript are wrapped in <span class="verse">.
+  // Hover/focus/tap one and we fetch the passage text from bible-api.com
+  // (World English Bible, public domain, CORS-enabled) and show it inline.
+  const verses = document.querySelectorAll(".verse[data-ref]");
+  if (verses.length) {
+    const cache = new Map();
+    const pop = document.createElement("div");
+    pop.className = "verse-pop";
+    pop.hidden = true;
+    pop.innerHTML =
+      '<div class="verse-pop-head"></div>' +
+      '<div class="verse-pop-body"></div>' +
+      '<div class="verse-pop-cite"></div>';
+    document.body.appendChild(pop);
+    const headEl = pop.querySelector(".verse-pop-head");
+    const bodyEl = pop.querySelector(".verse-pop-body");
+    const citeEl = pop.querySelector(".verse-pop-cite");
+    let hideTimer;
+    let active = null;
+
+    function fetchRef(ref) {
+      if (cache.has(ref)) return cache.get(ref);
+      const p = fetch("https://bible-api.com/" + encodeURIComponent(ref))
+        .then((r) => (r.ok ? r.json() : Promise.reject()))
+        .then((d) => ({
+          reference: d.reference || ref,
+          text: (d.text || "").replace(/\s+\n/g, "\n").trim(),
+          translation: d.translation_name || "",
+        }))
+        .catch(() => null);
+      cache.set(ref, p);
+      return p;
+    }
+
+    function place(target) {
+      const r = target.getBoundingClientRect();
+      const width = Math.min(400, window.innerWidth - 24);
+      pop.style.width = width + "px";
+      let left = window.scrollX + r.left;
+      left = Math.min(left, window.scrollX + window.innerWidth - width - 12);
+      left = Math.max(left, window.scrollX + 12);
+      pop.style.left = left + "px";
+      pop.style.top = window.scrollY + r.bottom + 8 + "px";
+    }
+
+    function show(target) {
+      clearTimeout(hideTimer);
+      active = target;
+      const ref = target.dataset.ref;
+      headEl.textContent = ref;
+      bodyEl.textContent = "Loading…";
+      citeEl.textContent = "";
+      place(target);
+      pop.hidden = false;
+      fetchRef(ref).then((data) => {
+        if (pop.hidden || active !== target) return;
+        if (!data) {
+          bodyEl.textContent = "Couldn't load this passage.";
+          return;
+        }
+        headEl.textContent = data.reference;
+        bodyEl.textContent = data.text;
+        citeEl.textContent = data.translation;
+        place(target);
+      });
+    }
+
+    function scheduleHide() {
+      hideTimer = setTimeout(() => {
+        pop.hidden = true;
+        active = null;
+      }, 200);
+    }
+
+    verses.forEach((el) => {
+      el.addEventListener("mouseenter", () => show(el));
+      el.addEventListener("mouseleave", scheduleHide);
+      el.addEventListener("focus", () => show(el));
+      el.addEventListener("blur", () => {
+        pop.hidden = true;
+        active = null;
+      });
+      el.addEventListener("click", (e) => {
+        e.preventDefault();
+        show(el);
+      });
+    });
+    pop.addEventListener("mouseenter", () => clearTimeout(hideTimer));
+    pop.addEventListener("mouseleave", scheduleHide);
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape") {
+        pop.hidden = true;
+        active = null;
+      }
+    });
+  }
 })();
 </script>
 </body>

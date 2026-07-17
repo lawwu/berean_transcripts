@@ -56,12 +56,14 @@
     </div>
   </header>
 
-  <div class="player-shell" id="player-shell">
-    <iframe id="player" src="https://player.vimeo.com/video/310648932" title="2018-01-06 Look Up, Look In, Look Out Part 2" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <div class="player-dock" id="player-dock">
+    <div class="player-shell" id="player-shell">
+      <iframe id="player" src="https://player.vimeo.com/video/310648932" title="2018-01-06 Look Up, Look In, Look Out Part 2" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+    </div>
   </div>
 
   <section class="transcript" id="transcript" data-platform="vimeo">
-    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment.</p>
+    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment, or hover a <span class="verse verse-legend">Bible reference</span> to read the passage.</p>
     <div class="para" id="p0">
       <button class="ts" data-t="0" title="Play from 0:00">0:00</button>
       <p>If you can turn your Bibles to Psalm chapter 90, we&#39;re going to be reading from verse 1-12. Our focus is on the second part of the sermon series in chapter 90. I&#39;m going to be focusing on the second part, verses 7-12. The first part was &#34;Look up.&#34; This week it&#39;s going to be &#34;Looking in&#34; and next week it&#39;s going to be &#34;Looking out.&#34; I want to read starting from verse 1. Reading out of the NASB. Lord you have been our dwelling place in all generations. Before the mountains were born, you gave birth to the earth and the world. Even from everlasting to everlasting, you are God. You turn man back into dust and say, &#34;Return, O children of men.&#34; For a thousand years in your sight are like yesterday when it passes by.</p>
@@ -76,7 +78,7 @@
     </div>
     <div class="para" id="p3">
       <button class="ts" data-t="152" title="Play from 2:32">2:32</button>
-      <p>Again, as a quick review, the reason why we&#39;re taking some time in Psalm 90 before we jump into the book of Hebrews is because again as we concluded 2018 and we&#39;re facing new year in 2019, Psalm 90 was an appropriate text for us to spend some time in. Moses is about to lead the nation of Israel into the promised land. They spent 40 years wandering in the desert and now they&#39;re finally going to go. And obviously Moses himself doesn&#39;t make it because of a sin that he commits, but he&#39;s trying to get them ready to get in. So this is kind of like a pep talk before they get into the promised land. So they&#39;re looking over the mountains and saying like if we just cross over this mountain on the other side is where God was leading them and they should have been there 40 years earlier but because of their unbelief God caused them to wander out in the desert for 40 years.</p>
+      <p>Again, as a quick review, the reason why we&#39;re taking some time in <span class="verse" data-ref="Psalms 90" tabindex="0" role="button">Psalm 90</span> before we jump into the book of Hebrews is because again as we concluded 2018 and we&#39;re facing new year in 2019, <span class="verse" data-ref="Psalms 90" tabindex="0" role="button">Psalm 90</span> was an appropriate text for us to spend some time in. Moses is about to lead the nation of Israel into the promised land. They spent 40 years wandering in the desert and now they&#39;re finally going to go. And obviously Moses himself doesn&#39;t make it because of a sin that he commits, but he&#39;s trying to get them ready to get in. So this is kind of like a pep talk before they get into the promised land. So they&#39;re looking over the mountains and saying like if we just cross over this mountain on the other side is where God was leading them and they should have been there 40 years earlier but because of their unbelief God caused them to wander out in the desert for 40 years.</p>
     </div>
     <div class="para" id="p4">
       <button class="ts" data-t="206" title="Play from 3:26">3:26</button>
@@ -136,7 +138,7 @@
     </div>
     <div class="para" id="p18">
       <button class="ts" data-t="956" title="Play from 15:56">15:56</button>
-      <p>It&#39;s not talking simply about willfully doing an act. It&#39;s talking about the corrupt nature of man. You know we talk about we are sinners because we sin. Iniquity, the word iniquity teaches us we sin because we&#39;re sinners. In Psalm 51 verse 5 it says, &#34;Behold, I was brought forth in iniquity, and in sin my mother conceived me.&#34; We didn&#39;t become sinners when we reached the age of accountability and all of a sudden we started to realize what we were doing. The scripture says we were born into sin. We were conceived in sin. Not only were we conceived and born in sin, Jeremiah 13, 23 says, &#34;Can the Ethiopian change his skin or the leopard his spots? Then you also can do good for accustomed to doing evil.&#34;</p>
+      <p>It&#39;s not talking simply about willfully doing an act. It&#39;s talking about the corrupt nature of man. You know we talk about we are sinners because we sin. Iniquity, the word iniquity teaches us we sin because we&#39;re sinners. In <span class="verse" data-ref="Psalms 51" tabindex="0" role="button">Psalm 51</span> verse 5 it says, &#34;Behold, I was brought forth in iniquity, and in sin my mother conceived me.&#34; We didn&#39;t become sinners when we reached the age of accountability and all of a sudden we started to realize what we were doing. The scripture says we were born into sin. We were conceived in sin. Not only were we conceived and born in sin, <span class="verse" data-ref="Jeremiah 13" tabindex="0" role="button">Jeremiah 13</span>, 23 says, &#34;Can the Ethiopian change his skin or the leopard his spots? Then you also can do good for accustomed to doing evil.&#34;</p>
     </div>
     <div class="para" id="p19">
       <button class="ts" data-t="1005" title="Play from 16:45">16:45</button>
@@ -286,6 +288,104 @@
   // re-align after fonts/iframe settle layout
   window.addEventListener("load", highlightFromHash);
   highlightFromHash();
+
+  // --- Bible reference popovers -------------------------------------------
+  // References detected in the transcript are wrapped in <span class="verse">.
+  // Hover/focus/tap one and we fetch the passage text from bible-api.com
+  // (World English Bible, public domain, CORS-enabled) and show it inline.
+  const verses = document.querySelectorAll(".verse[data-ref]");
+  if (verses.length) {
+    const cache = new Map();
+    const pop = document.createElement("div");
+    pop.className = "verse-pop";
+    pop.hidden = true;
+    pop.innerHTML =
+      '<div class="verse-pop-head"></div>' +
+      '<div class="verse-pop-body"></div>' +
+      '<div class="verse-pop-cite"></div>';
+    document.body.appendChild(pop);
+    const headEl = pop.querySelector(".verse-pop-head");
+    const bodyEl = pop.querySelector(".verse-pop-body");
+    const citeEl = pop.querySelector(".verse-pop-cite");
+    let hideTimer;
+    let active = null;
+
+    function fetchRef(ref) {
+      if (cache.has(ref)) return cache.get(ref);
+      const p = fetch("https://bible-api.com/" + encodeURIComponent(ref))
+        .then((r) => (r.ok ? r.json() : Promise.reject()))
+        .then((d) => ({
+          reference: d.reference || ref,
+          text: (d.text || "").replace(/\s+\n/g, "\n").trim(),
+          translation: d.translation_name || "",
+        }))
+        .catch(() => null);
+      cache.set(ref, p);
+      return p;
+    }
+
+    function place(target) {
+      const r = target.getBoundingClientRect();
+      const width = Math.min(400, window.innerWidth - 24);
+      pop.style.width = width + "px";
+      let left = window.scrollX + r.left;
+      left = Math.min(left, window.scrollX + window.innerWidth - width - 12);
+      left = Math.max(left, window.scrollX + 12);
+      pop.style.left = left + "px";
+      pop.style.top = window.scrollY + r.bottom + 8 + "px";
+    }
+
+    function show(target) {
+      clearTimeout(hideTimer);
+      active = target;
+      const ref = target.dataset.ref;
+      headEl.textContent = ref;
+      bodyEl.textContent = "Loading…";
+      citeEl.textContent = "";
+      place(target);
+      pop.hidden = false;
+      fetchRef(ref).then((data) => {
+        if (pop.hidden || active !== target) return;
+        if (!data) {
+          bodyEl.textContent = "Couldn't load this passage.";
+          return;
+        }
+        headEl.textContent = data.reference;
+        bodyEl.textContent = data.text;
+        citeEl.textContent = data.translation;
+        place(target);
+      });
+    }
+
+    function scheduleHide() {
+      hideTimer = setTimeout(() => {
+        pop.hidden = true;
+        active = null;
+      }, 200);
+    }
+
+    verses.forEach((el) => {
+      el.addEventListener("mouseenter", () => show(el));
+      el.addEventListener("mouseleave", scheduleHide);
+      el.addEventListener("focus", () => show(el));
+      el.addEventListener("blur", () => {
+        pop.hidden = true;
+        active = null;
+      });
+      el.addEventListener("click", (e) => {
+        e.preventDefault();
+        show(el);
+      });
+    });
+    pop.addEventListener("mouseenter", () => clearTimeout(hideTimer));
+    pop.addEventListener("mouseleave", scheduleHide);
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape") {
+        pop.hidden = true;
+        active = null;
+      }
+    });
+  }
 })();
 </script>
 </body>

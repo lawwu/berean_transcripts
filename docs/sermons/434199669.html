@@ -56,12 +56,14 @@
     </div>
   </header>
 
-  <div class="player-shell" id="player-shell">
-    <iframe id="player" src="https://player.vimeo.com/video/434199669" title="Ephesians Bible Study Lesson 21" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <div class="player-dock" id="player-dock">
+    <div class="player-shell" id="player-shell">
+      <iframe id="player" src="https://player.vimeo.com/video/434199669" title="Ephesians Bible Study Lesson 21" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+    </div>
   </div>
 
   <section class="transcript" id="transcript" data-platform="vimeo">
-    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment.</p>
+    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment, or hover a <span class="verse verse-legend">Bible reference</span> to read the passage.</p>
     <div class="para" id="p0">
       <button class="ts" data-t="0" title="Play from 0:00">0:00</button>
       <p>- Hello, everyone. Welcome to another session of our Ephesians Bible study. Let&#39;s take a moment to go before the Lord. Pray for His blessing as we jump into the text. Let&#39;s pray. God, we thank you for your grace. Lord, we think about all the various difficult things that we must do in our lives. We think about all the various things you have blessed us with, especially our families. And we pray, Father, that we would hold those gifts and blessings with great thankfulness, but also a weightiness of responsibility. And God, as you challenge us to be more like you, to be like Christ in the home, I pray, Father, that we would be all the more inspired by your word and instruction, that we would be inspired by your spirit, that God, ultimately, it would be to your glory and good pleasure to see your children, Lord, build and continue to love as you do.</p>
@@ -252,7 +254,7 @@
     </div>
     <div class="para" id="p47">
       <button class="ts" data-t="2427" title="Play from 40:27">40:27</button>
-      <p>Understandably, we always have this and fights and disagreements and blah, blah, blah, blah, blah, right? And understandably, you know, wives and husbands, they&#39;re going to have a hard time. And understandably, we don&#39;t understand each other. And understandably, we do this and that kind of stuff.&#34; Sure, we live in the flesh. But man, this picture that God has given for the love, let&#39;s make sure that we have that vision in our hearts. I want to conclude by this challenge from 1 Peter 3 that says, &#34;You husbands in the same way, live with your wives in an understanding way, as with someone weaker since she is a woman and show her honor as a fellow heir of the grace of life, so that your prayers will not be hindered.</p>
+      <p>Understandably, we always have this and fights and disagreements and blah, blah, blah, blah, blah, right? And understandably, you know, wives and husbands, they&#39;re going to have a hard time. And understandably, we don&#39;t understand each other. And understandably, we do this and that kind of stuff.&#34; Sure, we live in the flesh. But man, this picture that God has given for the love, let&#39;s make sure that we have that vision in our hearts. I want to conclude by this challenge from <span class="verse" data-ref="1 Peter 3" tabindex="0" role="button">1 Peter 3</span> that says, &#34;You husbands in the same way, live with your wives in an understanding way, as with someone weaker since she is a woman and show her honor as a fellow heir of the grace of life, so that your prayers will not be hindered.</p>
     </div>
     <div class="para" id="p48">
       <button class="ts" data-t="2469" title="Play from 41:09">41:09</button>
@@ -314,6 +316,104 @@
   // re-align after fonts/iframe settle layout
   window.addEventListener("load", highlightFromHash);
   highlightFromHash();
+
+  // --- Bible reference popovers -------------------------------------------
+  // References detected in the transcript are wrapped in <span class="verse">.
+  // Hover/focus/tap one and we fetch the passage text from bible-api.com
+  // (World English Bible, public domain, CORS-enabled) and show it inline.
+  const verses = document.querySelectorAll(".verse[data-ref]");
+  if (verses.length) {
+    const cache = new Map();
+    const pop = document.createElement("div");
+    pop.className = "verse-pop";
+    pop.hidden = true;
+    pop.innerHTML =
+      '<div class="verse-pop-head"></div>' +
+      '<div class="verse-pop-body"></div>' +
+      '<div class="verse-pop-cite"></div>';
+    document.body.appendChild(pop);
+    const headEl = pop.querySelector(".verse-pop-head");
+    const bodyEl = pop.querySelector(".verse-pop-body");
+    const citeEl = pop.querySelector(".verse-pop-cite");
+    let hideTimer;
+    let active = null;
+
+    function fetchRef(ref) {
+      if (cache.has(ref)) return cache.get(ref);
+      const p = fetch("https://bible-api.com/" + encodeURIComponent(ref))
+        .then((r) => (r.ok ? r.json() : Promise.reject()))
+        .then((d) => ({
+          reference: d.reference || ref,
+          text: (d.text || "").replace(/\s+\n/g, "\n").trim(),
+          translation: d.translation_name || "",
+        }))
+        .catch(() => null);
+      cache.set(ref, p);
+      return p;
+    }
+
+    function place(target) {
+      const r = target.getBoundingClientRect();
+      const width = Math.min(400, window.innerWidth - 24);
+      pop.style.width = width + "px";
+      let left = window.scrollX + r.left;
+      left = Math.min(left, window.scrollX + window.innerWidth - width - 12);
+      left = Math.max(left, window.scrollX + 12);
+      pop.style.left = left + "px";
+      pop.style.top = window.scrollY + r.bottom + 8 + "px";
+    }
+
+    function show(target) {
+      clearTimeout(hideTimer);
+      active = target;
+      const ref = target.dataset.ref;
+      headEl.textContent = ref;
+      bodyEl.textContent = "Loading…";
+      citeEl.textContent = "";
+      place(target);
+      pop.hidden = false;
+      fetchRef(ref).then((data) => {
+        if (pop.hidden || active !== target) return;
+        if (!data) {
+          bodyEl.textContent = "Couldn't load this passage.";
+          return;
+        }
+        headEl.textContent = data.reference;
+        bodyEl.textContent = data.text;
+        citeEl.textContent = data.translation;
+        place(target);
+      });
+    }
+
+    function scheduleHide() {
+      hideTimer = setTimeout(() => {
+        pop.hidden = true;
+        active = null;
+      }, 200);
+    }
+
+    verses.forEach((el) => {
+      el.addEventListener("mouseenter", () => show(el));
+      el.addEventListener("mouseleave", scheduleHide);
+      el.addEventListener("focus", () => show(el));
+      el.addEventListener("blur", () => {
+        pop.hidden = true;
+        active = null;
+      });
+      el.addEventListener("click", (e) => {
+        e.preventDefault();
+        show(el);
+      });
+    });
+    pop.addEventListener("mouseenter", () => clearTimeout(hideTimer));
+    pop.addEventListener("mouseleave", scheduleHide);
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape") {
+        pop.hidden = true;
+        active = null;
+      }
+    });
+  }
 })();
 </script>
 </body>

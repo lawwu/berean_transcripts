@@ -56,12 +56,14 @@
     </div>
   </header>
 
-  <div class="player-shell" id="player-shell">
-    <iframe id="player" src="https://www.youtube-nocookie.com/embed/PLSDJTEAjw8?enablejsapi=1" title="Berean Community Church Bible Study 4/12/23" allow="accelerometer; autoplay; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <div class="player-dock" id="player-dock">
+    <div class="player-shell" id="player-shell">
+      <iframe id="player" src="https://www.youtube-nocookie.com/embed/PLSDJTEAjw8?enablejsapi=1" title="Berean Community Church Bible Study 4/12/23" allow="accelerometer; autoplay; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+    </div>
   </div>
 
   <section class="transcript" id="transcript" data-platform="youtube">
-    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment.</p>
+    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment, or hover a <span class="verse verse-legend">Bible reference</span> to read the passage.</p>
     <div class="para" id="p0">
       <button class="ts" data-t="129" title="Play from 2:09">2:09</button>
       <p>Good evening, everybody. All right, let&#39;s gather ourselves at the tables, take a seat, and then we&#39;ll begin our Bible study time with a brief moment of prayer and praise. OK. All right, please bow with me for a word of prayer. Heavenly Father, we want to really thank you for the week that we had during Easter to join together in remembrance, in meditating and thinking about all the events of history, but more so just to celebrate, God, the power of the resurrected life of Christ. And I pray, Lord, that through the knowledge of the Son, through Father God, the appreciation that&#39;s in our hearts, you continue to empower us to live day to day in faith.</p>
@@ -180,11 +182,11 @@
     </div>
     <div class="para" id="p29">
       <button class="ts" data-t="4344" title="Play from 1:12:24">1:12:24</button>
-      <p>So it&#39;s a behavioral one. But then the question is, how in the world did this man become a leader and a prominent figure in the church? And this is what church leadership really ought to look like in terms of character. Titus 1, 7 to 8. For the overseer must be above reproach as God&#39;s steward, not self-willed, not quick-tempered, not addicted to wine, not pugnacious, not fond of sordid gain, but hospitable, loving what is good, sensible, just, devout, self-controlled. What&#39;s the first quality of God&#39;s steward? Not what? Not self-willed. Diatrephes, the first quality that&#39;s mentioned about him is what? He&#39;s all about himself. He&#39;s all about his own glory. If his pride is hurt, oh, he&#39;s going to unleash war.</p>
+      <p>So it&#39;s a behavioral one. But then the question is, how in the world did this man become a leader and a prominent figure in the church? And this is what church leadership really ought to look like in terms of character. <span class="verse" data-ref="Titus 1" tabindex="0" role="button">Titus 1</span>, 7 to 8. For the overseer must be above reproach as God&#39;s steward, not self-willed, not quick-tempered, not addicted to wine, not pugnacious, not fond of sordid gain, but hospitable, loving what is good, sensible, just, devout, self-controlled. What&#39;s the first quality of God&#39;s steward? Not what? Not self-willed. Diatrephes, the first quality that&#39;s mentioned about him is what? He&#39;s all about himself. He&#39;s all about his own glory. If his pride is hurt, oh, he&#39;s going to unleash war.</p>
     </div>
     <div class="para" id="p30">
       <button class="ts" data-t="4403" title="Play from 1:13:23">1:13:23</button>
-      <p>If his ego is brushed against, he&#39;s going to start kicking people out of the church. How dare you oppose me? Do you know who I am? I am Diatrephes. I&#39;m going to kick you out of the church. And I guarantee you he&#39;s going to do everything he can to protect his ego. And this is one of the first qualities there is for a church leader not to be self-willed. First Peter 5, 2-3, Peter&#39;s exhorting the pastors and the elders, and he says, &#34;Shepherd the flock of God among you, exercising oversight.&#34; So, there is some degree of responsibility and authority, right? But not because you&#39;re forced to, not under compulsion, but voluntarily, according to the will of God. Not self-willed, but according to the will of God.</p>
+      <p>If his ego is brushed against, he&#39;s going to start kicking people out of the church. How dare you oppose me? Do you know who I am? I am Diatrephes. I&#39;m going to kick you out of the church. And I guarantee you he&#39;s going to do everything he can to protect his ego. And this is one of the first qualities there is for a church leader not to be self-willed. <span class="verse" data-ref="1 Peter 5" tabindex="0" role="button">First Peter 5</span>, 2-3, Peter&#39;s exhorting the pastors and the elders, and he says, &#34;Shepherd the flock of God among you, exercising oversight.&#34; So, there is some degree of responsibility and authority, right? But not because you&#39;re forced to, not under compulsion, but voluntarily, according to the will of God. Not self-willed, but according to the will of God.</p>
     </div>
     <div class="para" id="p31">
       <button class="ts" data-t="4458" title="Play from 1:14:18">1:14:18</button>
@@ -278,6 +280,104 @@
   // re-align after fonts/iframe settle layout
   window.addEventListener("load", highlightFromHash);
   highlightFromHash();
+
+  // --- Bible reference popovers -------------------------------------------
+  // References detected in the transcript are wrapped in <span class="verse">.
+  // Hover/focus/tap one and we fetch the passage text from bible-api.com
+  // (World English Bible, public domain, CORS-enabled) and show it inline.
+  const verses = document.querySelectorAll(".verse[data-ref]");
+  if (verses.length) {
+    const cache = new Map();
+    const pop = document.createElement("div");
+    pop.className = "verse-pop";
+    pop.hidden = true;
+    pop.innerHTML =
+      '<div class="verse-pop-head"></div>' +
+      '<div class="verse-pop-body"></div>' +
+      '<div class="verse-pop-cite"></div>';
+    document.body.appendChild(pop);
+    const headEl = pop.querySelector(".verse-pop-head");
+    const bodyEl = pop.querySelector(".verse-pop-body");
+    const citeEl = pop.querySelector(".verse-pop-cite");
+    let hideTimer;
+    let active = null;
+
+    function fetchRef(ref) {
+      if (cache.has(ref)) return cache.get(ref);
+      const p = fetch("https://bible-api.com/" + encodeURIComponent(ref))
+        .then((r) => (r.ok ? r.json() : Promise.reject()))
+        .then((d) => ({
+          reference: d.reference || ref,
+          text: (d.text || "").replace(/\s+\n/g, "\n").trim(),
+          translation: d.translation_name || "",
+        }))
+        .catch(() => null);
+      cache.set(ref, p);
+      return p;
+    }
+
+    function place(target) {
+      const r = target.getBoundingClientRect();
+      const width = Math.min(400, window.innerWidth - 24);
+      pop.style.width = width + "px";
+      let left = window.scrollX + r.left;
+      left = Math.min(left, window.scrollX + window.innerWidth - width - 12);
+      left = Math.max(left, window.scrollX + 12);
+      pop.style.left = left + "px";
+      pop.style.top = window.scrollY + r.bottom + 8 + "px";
+    }
+
+    function show(target) {
+      clearTimeout(hideTimer);
+      active = target;
+      const ref = target.dataset.ref;
+      headEl.textContent = ref;
+      bodyEl.textContent = "Loading…";
+      citeEl.textContent = "";
+      place(target);
+      pop.hidden = false;
+      fetchRef(ref).then((data) => {
+        if (pop.hidden || active !== target) return;
+        if (!data) {
+          bodyEl.textContent = "Couldn't load this passage.";
+          return;
+        }
+        headEl.textContent = data.reference;
+        bodyEl.textContent = data.text;
+        citeEl.textContent = data.translation;
+        place(target);
+      });
+    }
+
+    function scheduleHide() {
+      hideTimer = setTimeout(() => {
+        pop.hidden = true;
+        active = null;
+      }, 200);
+    }
+
+    verses.forEach((el) => {
+      el.addEventListener("mouseenter", () => show(el));
+      el.addEventListener("mouseleave", scheduleHide);
+      el.addEventListener("focus", () => show(el));
+      el.addEventListener("blur", () => {
+        pop.hidden = true;
+        active = null;
+      });
+      el.addEventListener("click", (e) => {
+        e.preventDefault();
+        show(el);
+      });
+    });
+    pop.addEventListener("mouseenter", () => clearTimeout(hideTimer));
+    pop.addEventListener("mouseleave", scheduleHide);
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape") {
+        pop.hidden = true;
+        active = null;
+      }
+    });
+  }
 })();
 </script>
 </body>

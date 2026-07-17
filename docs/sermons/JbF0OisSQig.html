@@ -56,12 +56,14 @@
     </div>
   </header>
 
-  <div class="player-shell" id="player-shell">
-    <iframe id="player" src="https://www.youtube-nocookie.com/embed/JbF0OisSQig?enablejsapi=1" title="Berean Community Church Wednesday Night Bible Study Session 3 9/11/24" allow="accelerometer; autoplay; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <div class="player-dock" id="player-dock">
+    <div class="player-shell" id="player-shell">
+      <iframe id="player" src="https://www.youtube-nocookie.com/embed/JbF0OisSQig?enablejsapi=1" title="Berean Community Church Wednesday Night Bible Study Session 3 9/11/24" allow="accelerometer; autoplay; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+    </div>
   </div>
 
   <section class="transcript" id="transcript" data-platform="youtube">
-    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment.</p>
+    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment, or hover a <span class="verse verse-legend">Bible reference</span> to read the passage.</p>
     <div class="para" id="p0">
       <button class="ts" data-t="667" title="Play from 11:07">11:07</button>
       <p>All right, good evening, everybody. Let&#39;s get settled into our tables. And we&#39;ll take a moment to pray. To start off our Bible study. All right, please join with me in a word of prayer. Our Heavenly Father, we are so grateful to you. And God, we acknowledge that you are in the heavens and you are deserving of all praise. We ask, Father God, that as we come together as a church centered around your word and your truth, that this will be pleasing in your sight, but also fruitful for us, for our growth and our faith. And we pray now that as we join our voices to lift you up, would you be praised, it&#39;s in Christ&#39;s name, amen.</p>
@@ -288,7 +290,7 @@
     </div>
     <div class="para" id="p56">
       <button class="ts" data-t="6313" title="Play from 1:45:13">1:45:13</button>
-      <p>The Bible, God is not somebody that you can study through syntax and doing, asking questions and putting together. It&#39;s like, oh, I know him. You cannot approach God until we are humble before God. It doesn&#39;t matter how much Bible you know. Bible teaches us about God, but you cannot know God until you are humble before God. Hebrews 4.12, it says, &#34;For the word of God is living and active, sharper than any two-edged sword, piercing as far as the division of soul and spirit of both joints and marrow, and able to judge the thoughts and intentions of the heart.&#34; So the word of God is, does what? First and foremost, to judge what&#39;s right and wrong? Yes, but where? You and me. When the word of God is open, first and foremost, before we judge outside, before we judge anybody else, it needs to judge the thoughts and intentions of your heart.</p>
+      <p>The Bible, God is not somebody that you can study through syntax and doing, asking questions and putting together. It&#39;s like, oh, I know him. You cannot approach God until we are humble before God. It doesn&#39;t matter how much Bible you know. Bible teaches us about God, but you cannot know God until you are humble before God. <span class="verse" data-ref="Hebrews 4" tabindex="0" role="button">Hebrews 4</span>.12, it says, &#34;For the word of God is living and active, sharper than any two-edged sword, piercing as far as the division of soul and spirit of both joints and marrow, and able to judge the thoughts and intentions of the heart.&#34; So the word of God is, does what? First and foremost, to judge what&#39;s right and wrong? Yes, but where? You and me. When the word of God is open, first and foremost, before we judge outside, before we judge anybody else, it needs to judge the thoughts and intentions of your heart.</p>
     </div>
     <div class="para" id="p57">
       <button class="ts" data-t="6373" title="Play from 1:46:13">1:46:13</button>
@@ -296,7 +298,7 @@
     </div>
     <div class="para" id="p58">
       <button class="ts" data-t="6428" title="Play from 1:47:08">1:47:08</button>
-      <p>I&#39;m right and you&#39;re wrong. So everything you&#39;re going to see and interpret in the verses that you find is going to bolster up the position that you want to find. Does that make sense? First and foremost, the Word of God has to judge the thoughts and intentions of our heart. What&#39;s the judge of thoughts and intentions? It&#39;s internal. Not judge what you&#39;re doing with your life, right? Why is this important? Romans 12.2, &#34;Do not be conformed to this world, but be transformed by the renewing of your mind, so that you may prove what the will of God is, that which is good and acceptable and perfect.&#34; So how do we come to understand the will of God? Now there are texts that it says, clearly, do this and don&#39;t do this.</p>
+      <p>I&#39;m right and you&#39;re wrong. So everything you&#39;re going to see and interpret in the verses that you find is going to bolster up the position that you want to find. Does that make sense? First and foremost, the Word of God has to judge the thoughts and intentions of our heart. What&#39;s the judge of thoughts and intentions? It&#39;s internal. Not judge what you&#39;re doing with your life, right? Why is this important? <span class="verse" data-ref="Romans 12" tabindex="0" role="button">Romans 12</span>.2, &#34;Do not be conformed to this world, but be transformed by the renewing of your mind, so that you may prove what the will of God is, that which is good and acceptable and perfect.&#34; So how do we come to understand the will of God? Now there are texts that it says, clearly, do this and don&#39;t do this.</p>
     </div>
     <div class="para" id="p59">
       <button class="ts" data-t="6475" title="Play from 1:47:55">1:47:55</button>
@@ -406,6 +408,104 @@
   // re-align after fonts/iframe settle layout
   window.addEventListener("load", highlightFromHash);
   highlightFromHash();
+
+  // --- Bible reference popovers -------------------------------------------
+  // References detected in the transcript are wrapped in <span class="verse">.
+  // Hover/focus/tap one and we fetch the passage text from bible-api.com
+  // (World English Bible, public domain, CORS-enabled) and show it inline.
+  const verses = document.querySelectorAll(".verse[data-ref]");
+  if (verses.length) {
+    const cache = new Map();
+    const pop = document.createElement("div");
+    pop.className = "verse-pop";
+    pop.hidden = true;
+    pop.innerHTML =
+      '<div class="verse-pop-head"></div>' +
+      '<div class="verse-pop-body"></div>' +
+      '<div class="verse-pop-cite"></div>';
+    document.body.appendChild(pop);
+    const headEl = pop.querySelector(".verse-pop-head");
+    const bodyEl = pop.querySelector(".verse-pop-body");
+    const citeEl = pop.querySelector(".verse-pop-cite");
+    let hideTimer;
+    let active = null;
+
+    function fetchRef(ref) {
+      if (cache.has(ref)) return cache.get(ref);
+      const p = fetch("https://bible-api.com/" + encodeURIComponent(ref))
+        .then((r) => (r.ok ? r.json() : Promise.reject()))
+        .then((d) => ({
+          reference: d.reference || ref,
+          text: (d.text || "").replace(/\s+\n/g, "\n").trim(),
+          translation: d.translation_name || "",
+        }))
+        .catch(() => null);
+      cache.set(ref, p);
+      return p;
+    }
+
+    function place(target) {
+      const r = target.getBoundingClientRect();
+      const width = Math.min(400, window.innerWidth - 24);
+      pop.style.width = width + "px";
+      let left = window.scrollX + r.left;
+      left = Math.min(left, window.scrollX + window.innerWidth - width - 12);
+      left = Math.max(left, window.scrollX + 12);
+      pop.style.left = left + "px";
+      pop.style.top = window.scrollY + r.bottom + 8 + "px";
+    }
+
+    function show(target) {
+      clearTimeout(hideTimer);
+      active = target;
+      const ref = target.dataset.ref;
+      headEl.textContent = ref;
+      bodyEl.textContent = "Loading…";
+      citeEl.textContent = "";
+      place(target);
+      pop.hidden = false;
+      fetchRef(ref).then((data) => {
+        if (pop.hidden || active !== target) return;
+        if (!data) {
+          bodyEl.textContent = "Couldn't load this passage.";
+          return;
+        }
+        headEl.textContent = data.reference;
+        bodyEl.textContent = data.text;
+        citeEl.textContent = data.translation;
+        place(target);
+      });
+    }
+
+    function scheduleHide() {
+      hideTimer = setTimeout(() => {
+        pop.hidden = true;
+        active = null;
+      }, 200);
+    }
+
+    verses.forEach((el) => {
+      el.addEventListener("mouseenter", () => show(el));
+      el.addEventListener("mouseleave", scheduleHide);
+      el.addEventListener("focus", () => show(el));
+      el.addEventListener("blur", () => {
+        pop.hidden = true;
+        active = null;
+      });
+      el.addEventListener("click", (e) => {
+        e.preventDefault();
+        show(el);
+      });
+    });
+    pop.addEventListener("mouseenter", () => clearTimeout(hideTimer));
+    pop.addEventListener("mouseleave", scheduleHide);
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape") {
+        pop.hidden = true;
+        active = null;
+      }
+    });
+  }
 })();
 </script>
 </body>

@@ -56,12 +56,14 @@
     </div>
   </header>
 
-  <div class="player-shell" id="player-shell">
-    <iframe id="player" src="https://player.vimeo.com/video/355252414" title="2019-8-21 Wed Bible Study Lesson 2" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <div class="player-dock" id="player-dock">
+    <div class="player-shell" id="player-shell">
+      <iframe id="player" src="https://player.vimeo.com/video/355252414" title="2019-8-21 Wed Bible Study Lesson 2" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+    </div>
   </div>
 
   <section class="transcript" id="transcript" data-platform="vimeo">
-    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment.</p>
+    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment, or hover a <span class="verse verse-legend">Bible reference</span> to read the passage.</p>
     <div class="para" id="p0">
       <button class="ts" data-t="3" title="Play from 0:03">0:03</button>
       <p>- Hello, hello, okay. All right, apologies for if you guys didn&#39;t get to finish talking about the passage. Let&#39;s all take a moment to go before the Lord and ask him to bless our review of the passage. Heavenly Father, we again want to express our gratitude. We thank you so much, God, and we really do pray that as we continue to discuss and study your word, help us, Father God, to grow. Lord, I pray that we would, yes, grow in knowledge and truth, but I pray that we would not be those who are ever growing in simple propositions and yet not maturing. I pray, God, that the maturity of our thought, maturity of our even feelings, and of course, Lord God, the maturity of our obedience to you would be growing.</p>
@@ -208,7 +210,7 @@
     </div>
     <div class="para" id="p36">
       <button class="ts" data-t="1945" title="Play from 32:25">32:25</button>
-      <p>Colossians 1, 21 through 22. And although you were formerly alienated, you were hostile in your mind, you were engaged in evil deeds, yet he has now reconciled you in his fleshly body through death. It doesn&#39;t stop there. He says, &#34;In order to present you before him &#34;wholly blameless and beyond reproach.&#34; Oh my goodness. The amazing love of God. Just simply for him to listen to us would be grace upon grace. But for him to step down and walk our place, for him to step down and sympathize and empathize with us, that&#39;s grace upon grace upon grace. But then to desire to make us wholly blameless and beyond reproach. We can&#39;t even describe that. The intention and love of God. And so, as we follow in the likeness of Christ and abound in that kind of love, we&#39;re going to be all the more godly, righteous, conformed to the image of his son.</p>
+      <p><span class="verse" data-ref="Colossians 1" tabindex="0" role="button">Colossians 1</span>, 21 through 22. And although you were formerly alienated, you were hostile in your mind, you were engaged in evil deeds, yet he has now reconciled you in his fleshly body through death. It doesn&#39;t stop there. He says, &#34;In order to present you before him &#34;wholly blameless and beyond reproach.&#34; Oh my goodness. The amazing love of God. Just simply for him to listen to us would be grace upon grace. But for him to step down and walk our place, for him to step down and sympathize and empathize with us, that&#39;s grace upon grace upon grace. But then to desire to make us wholly blameless and beyond reproach. We can&#39;t even describe that. The intention and love of God. And so, as we follow in the likeness of Christ and abound in that kind of love, we&#39;re going to be all the more godly, righteous, conformed to the image of his son.</p>
     </div>
     <div class="para" id="p37">
       <button class="ts" data-t="2015" title="Play from 33:35">33:35</button>
@@ -270,6 +272,104 @@
   // re-align after fonts/iframe settle layout
   window.addEventListener("load", highlightFromHash);
   highlightFromHash();
+
+  // --- Bible reference popovers -------------------------------------------
+  // References detected in the transcript are wrapped in <span class="verse">.
+  // Hover/focus/tap one and we fetch the passage text from bible-api.com
+  // (World English Bible, public domain, CORS-enabled) and show it inline.
+  const verses = document.querySelectorAll(".verse[data-ref]");
+  if (verses.length) {
+    const cache = new Map();
+    const pop = document.createElement("div");
+    pop.className = "verse-pop";
+    pop.hidden = true;
+    pop.innerHTML =
+      '<div class="verse-pop-head"></div>' +
+      '<div class="verse-pop-body"></div>' +
+      '<div class="verse-pop-cite"></div>';
+    document.body.appendChild(pop);
+    const headEl = pop.querySelector(".verse-pop-head");
+    const bodyEl = pop.querySelector(".verse-pop-body");
+    const citeEl = pop.querySelector(".verse-pop-cite");
+    let hideTimer;
+    let active = null;
+
+    function fetchRef(ref) {
+      if (cache.has(ref)) return cache.get(ref);
+      const p = fetch("https://bible-api.com/" + encodeURIComponent(ref))
+        .then((r) => (r.ok ? r.json() : Promise.reject()))
+        .then((d) => ({
+          reference: d.reference || ref,
+          text: (d.text || "").replace(/\s+\n/g, "\n").trim(),
+          translation: d.translation_name || "",
+        }))
+        .catch(() => null);
+      cache.set(ref, p);
+      return p;
+    }
+
+    function place(target) {
+      const r = target.getBoundingClientRect();
+      const width = Math.min(400, window.innerWidth - 24);
+      pop.style.width = width + "px";
+      let left = window.scrollX + r.left;
+      left = Math.min(left, window.scrollX + window.innerWidth - width - 12);
+      left = Math.max(left, window.scrollX + 12);
+      pop.style.left = left + "px";
+      pop.style.top = window.scrollY + r.bottom + 8 + "px";
+    }
+
+    function show(target) {
+      clearTimeout(hideTimer);
+      active = target;
+      const ref = target.dataset.ref;
+      headEl.textContent = ref;
+      bodyEl.textContent = "Loading…";
+      citeEl.textContent = "";
+      place(target);
+      pop.hidden = false;
+      fetchRef(ref).then((data) => {
+        if (pop.hidden || active !== target) return;
+        if (!data) {
+          bodyEl.textContent = "Couldn't load this passage.";
+          return;
+        }
+        headEl.textContent = data.reference;
+        bodyEl.textContent = data.text;
+        citeEl.textContent = data.translation;
+        place(target);
+      });
+    }
+
+    function scheduleHide() {
+      hideTimer = setTimeout(() => {
+        pop.hidden = true;
+        active = null;
+      }, 200);
+    }
+
+    verses.forEach((el) => {
+      el.addEventListener("mouseenter", () => show(el));
+      el.addEventListener("mouseleave", scheduleHide);
+      el.addEventListener("focus", () => show(el));
+      el.addEventListener("blur", () => {
+        pop.hidden = true;
+        active = null;
+      });
+      el.addEventListener("click", (e) => {
+        e.preventDefault();
+        show(el);
+      });
+    });
+    pop.addEventListener("mouseenter", () => clearTimeout(hideTimer));
+    pop.addEventListener("mouseleave", scheduleHide);
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape") {
+        pop.hidden = true;
+        active = null;
+      }
+    });
+  }
 })();
 </script>
 </body>

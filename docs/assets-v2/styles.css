@@ -155,13 +155,80 @@ a:hover { text-decoration-color: var(--gold); }
   margin-bottom: 12px;
 }
 .sermon-meta { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-family: var(--mono); font-size: 0.8rem; color: var(--ink-soft); }
-.player-shell { margin: 26px 0 8px; aspect-ratio: 16 / 9; background: #000; border-radius: 6px; overflow: hidden; }
+/* Sticky player: the video pins to the top of the viewport so it stays in
+   view while you scroll the transcript. Height is capped by viewport height
+   (not container width) so a tall 16:9 frame never eats the whole screen. */
+.player-dock {
+  position: sticky;
+  top: 0;
+  z-index: 30;
+  margin: 20px 0 10px;
+  padding: 8px 0 12px;
+  background: var(--paper);
+  border-bottom: 1px solid var(--hairline);
+}
+.player-shell {
+  margin: 0 auto;
+  width: 100%;
+  max-width: min(100%, calc(46vh * 16 / 9));
+  aspect-ratio: 16 / 9;
+  background: #000;
+  border-radius: 6px;
+  overflow: hidden;
+  box-shadow: 0 6px 22px rgba(34, 28, 20, 0.16);
+}
 .player-shell iframe { width: 100%; height: 100%; border: 0; display: block; }
 .transcript { margin-top: 26px; }
 .transcript-note { font-size: 0.88rem; font-style: italic; color: var(--ink-soft); border-bottom: 1px solid var(--hairline); padding-bottom: 14px; }
 .para { display: flex; gap: 16px; padding: 14px 0; align-items: flex-start; }
 .para p { flex: 1; }
 .para.hit { background: rgba(185, 138, 47, 0.14); border-radius: 6px; padding: 14px 10px; }
+
+/* inline Bible references + hover passage popover */
+.verse {
+  color: var(--accent);
+  cursor: help;
+  border-bottom: 1px dashed rgba(126, 45, 38, 0.5);
+  border-radius: 2px;
+  transition: background 0.12s ease;
+}
+.verse:hover, .verse:focus {
+  background: rgba(185, 138, 47, 0.22);
+  border-bottom-color: var(--gold);
+  outline: none;
+}
+.verse-legend { cursor: default; }
+.verse-pop {
+  position: absolute;
+  z-index: 60;
+  max-width: calc(100vw - 24px);
+  max-height: 44vh;
+  overflow-y: auto;
+  padding: 14px 16px;
+  background: var(--card);
+  border: 1px solid var(--ink);
+  border-radius: 8px;
+  box-shadow: 0 12px 34px rgba(34, 28, 20, 0.24);
+  font-family: var(--serif-body);
+}
+.verse-pop[hidden] { display: none; }
+.verse-pop-head {
+  font-family: var(--serif-display);
+  font-weight: 600;
+  font-size: 0.92rem;
+  color: var(--accent);
+  margin-bottom: 6px;
+}
+.verse-pop-body { font-size: 0.98rem; line-height: 1.6; color: var(--ink); white-space: pre-wrap; }
+.verse-pop-cite {
+  margin-top: 10px;
+  font-family: var(--mono);
+  font-size: 0.66rem;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+}
+.verse-pop-cite:empty { display: none; }
 .ts {
   font-family: var(--mono);
   font-size: 0.72rem;
@@ -202,4 +269,6 @@ a:hover { text-decoration-color: var(--gold); }
   .para { gap: 10px; }
   .pager { flex-direction: column; }
   .pager-next { text-align: left; }
+  /* keep the pinned video from dominating short phone screens */
+  .player-shell { max-width: min(100%, calc(38vh * 16 / 9)); }
 }

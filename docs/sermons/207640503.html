@@ -56,12 +56,14 @@
     </div>
   </header>
 
-  <div class="player-shell" id="player-shell">
-    <iframe id="player" src="https://player.vimeo.com/video/207640503" title="Wed Bible Study (1 Peter) - 03-08-17" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <div class="player-dock" id="player-dock">
+    <div class="player-shell" id="player-shell">
+      <iframe id="player" src="https://player.vimeo.com/video/207640503" title="Wed Bible Study (1 Peter) - 03-08-17" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+    </div>
   </div>
 
   <section class="transcript" id="transcript" data-platform="vimeo">
-    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment.</p>
+    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment, or hover a <span class="verse verse-legend">Bible reference</span> to read the passage.</p>
     <div class="para" id="p0">
       <button class="ts" data-t="0" title="Play from 0:00">0:00</button>
       <p>Well, last week, you know, we had to take a break with all the things that were happening. If you will, in terms of the schedule wise, because I know, again, that does affect some of you guys in terms of when you&#39;ll be able to attend and stuff, we&#39;re going to still end the first week of April. So next week, we&#39;re just going to double up on the passages. So next week&#39;s passage is going to be chapter 4, verses 1 through 11. So just FYI on the schedule so that you know what&#39;s coming up. Okay? Well, I want to start off, you know, by saying that you can already tell going through this book, 1 Peter, that there is a lot of repetition. Right? So much of it is trying, again, to minister to people who have been hurting.</p>
@@ -148,7 +150,7 @@
     </div>
     <div class="para" id="p21">
       <button class="ts" data-t="1061" title="Play from 17:41">17:41</button>
-      <p>Matthew chapter 18, okay? It&#39;s the story about that servant who received grace from his master. The parable that Jesus was teaching. Let&#39;s see here. Okay. I&#39;m going to start reading from verse 23. So Matthew 18, verse 23. Jesus is teaching in a parable, and he says this, &#34;For this reason, the kingdom of heaven may be compared to a king who wished to settle accounts with his slaves. When he had begun to settle them, one who owed him 10,000 talents was brought to him.&#34; I don&#39;t know what the guy did to owe him 10,000, but that&#39;s just a lot of money. Verse 25, &#34;But since he did not have the means to repay, his Lord commanded him to be sold along with his wife and children and all that he had and repayment to be made.</p>
+      <p>Matthew chapter 18, okay? It&#39;s the story about that servant who received grace from his master. The parable that Jesus was teaching. Let&#39;s see here. Okay. I&#39;m going to start reading from verse 23. So <span class="verse" data-ref="Matthew 18" tabindex="0" role="button">Matthew 18</span>, verse 23. Jesus is teaching in a parable, and he says this, &#34;For this reason, the kingdom of heaven may be compared to a king who wished to settle accounts with his slaves. When he had begun to settle them, one who owed him 10,000 talents was brought to him.&#34; I don&#39;t know what the guy did to owe him 10,000, but that&#39;s just a lot of money. Verse 25, &#34;But since he did not have the means to repay, his Lord commanded him to be sold along with his wife and children and all that he had and repayment to be made.</p>
     </div>
     <div class="para" id="p22">
       <button class="ts" data-t="1120" title="Play from 18:40">18:40</button>
@@ -188,7 +190,7 @@
     </div>
     <div class="para" id="p31">
       <button class="ts" data-t="1568" title="Play from 26:08">26:08</button>
-      <p>&#34;And do not fear their intimidation. Do not be troubled. But sanctify Christ as Lord in your hearts, always being ready to make a defense to everyone who asks you to give an account for the hope that is in you. Do it with gentleness and reverence, and keep a good conscience so that in the thing in which you are slandered, those who revile your good behavior in Christ will be put to shame. For it is better if God should will it so that you suffer for doing what is right rather than for doing what is wrong.&#34; Okay? So, what he&#39;s done there is I kind of gave us just a two-part outline. Eight to 12 is a summary command. This is what you need to be. Numbers 13 through 17 is an explanation rationale.</p>
+      <p>&#34;And do not fear their intimidation. Do not be troubled. But sanctify Christ as Lord in your hearts, always being ready to make a defense to everyone who asks you to give an account for the hope that is in you. Do it with gentleness and reverence, and keep a good conscience so that in the thing in which you are slandered, those who revile your good behavior in Christ will be put to shame. For it is better if God should will it so that you suffer for doing what is right rather than for doing what is wrong.&#34; Okay? So, what he&#39;s done there is I kind of gave us just a two-part outline. Eight to 12 is a summary command. This is what you need to be. <span class="verse" data-ref="Numbers 13" tabindex="0" role="button">Numbers 13</span> through 17 is an explanation rationale.</p>
     </div>
     <div class="para" id="p32">
       <button class="ts" data-t="1613" title="Play from 26:53">26:53</button>
@@ -390,6 +392,104 @@
   // re-align after fonts/iframe settle layout
   window.addEventListener("load", highlightFromHash);
   highlightFromHash();
+
+  // --- Bible reference popovers -------------------------------------------
+  // References detected in the transcript are wrapped in <span class="verse">.
+  // Hover/focus/tap one and we fetch the passage text from bible-api.com
+  // (World English Bible, public domain, CORS-enabled) and show it inline.
+  const verses = document.querySelectorAll(".verse[data-ref]");
+  if (verses.length) {
+    const cache = new Map();
+    const pop = document.createElement("div");
+    pop.className = "verse-pop";
+    pop.hidden = true;
+    pop.innerHTML =
+      '<div class="verse-pop-head"></div>' +
+      '<div class="verse-pop-body"></div>' +
+      '<div class="verse-pop-cite"></div>';
+    document.body.appendChild(pop);
+    const headEl = pop.querySelector(".verse-pop-head");
+    const bodyEl = pop.querySelector(".verse-pop-body");
+    const citeEl = pop.querySelector(".verse-pop-cite");
+    let hideTimer;
+    let active = null;
+
+    function fetchRef(ref) {
+      if (cache.has(ref)) return cache.get(ref);
+      const p = fetch("https://bible-api.com/" + encodeURIComponent(ref))
+        .then((r) => (r.ok ? r.json() : Promise.reject()))
+        .then((d) => ({
+          reference: d.reference || ref,
+          text: (d.text || "").replace(/\s+\n/g, "\n").trim(),
+          translation: d.translation_name || "",
+        }))
+        .catch(() => null);
+      cache.set(ref, p);
+      return p;
+    }
+
+    function place(target) {
+      const r = target.getBoundingClientRect();
+      const width = Math.min(400, window.innerWidth - 24);
+      pop.style.width = width + "px";
+      let left = window.scrollX + r.left;
+      left = Math.min(left, window.scrollX + window.innerWidth - width - 12);
+      left = Math.max(left, window.scrollX + 12);
+      pop.style.left = left + "px";
+      pop.style.top = window.scrollY + r.bottom + 8 + "px";
+    }
+
+    function show(target) {
+      clearTimeout(hideTimer);
+      active = target;
+      const ref = target.dataset.ref;
+      headEl.textContent = ref;
+      bodyEl.textContent = "Loading…";
+      citeEl.textContent = "";
+      place(target);
+      pop.hidden = false;
+      fetchRef(ref).then((data) => {
+        if (pop.hidden || active !== target) return;
+        if (!data) {
+          bodyEl.textContent = "Couldn't load this passage.";
+          return;
+        }
+        headEl.textContent = data.reference;
+        bodyEl.textContent = data.text;
+        citeEl.textContent = data.translation;
+        place(target);
+      });
+    }
+
+    function scheduleHide() {
+      hideTimer = setTimeout(() => {
+        pop.hidden = true;
+        active = null;
+      }, 200);
+    }
+
+    verses.forEach((el) => {
+      el.addEventListener("mouseenter", () => show(el));
+      el.addEventListener("mouseleave", scheduleHide);
+      el.addEventListener("focus", () => show(el));
+      el.addEventListener("blur", () => {
+        pop.hidden = true;
+        active = null;
+      });
+      el.addEventListener("click", (e) => {
+        e.preventDefault();
+        show(el);
+      });
+    });
+    pop.addEventListener("mouseenter", () => clearTimeout(hideTimer));
+    pop.addEventListener("mouseleave", scheduleHide);
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape") {
+        pop.hidden = true;
+        active = null;
+      }
+    });
+  }
 })();
 </script>
 </body>

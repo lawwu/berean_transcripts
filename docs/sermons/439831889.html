@@ -56,12 +56,14 @@
     </div>
   </header>
 
-  <div class="player-shell" id="player-shell">
-    <iframe id="player" src="https://player.vimeo.com/video/439831889" title="2020-7-19 Elise Chin Baptism" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <div class="player-dock" id="player-dock">
+    <div class="player-shell" id="player-shell">
+      <iframe id="player" src="https://player.vimeo.com/video/439831889" title="2020-7-19 Elise Chin Baptism" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+    </div>
   </div>
 
   <section class="transcript" id="transcript" data-platform="vimeo">
-    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment.</p>
+    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment, or hover a <span class="verse verse-legend">Bible reference</span> to read the passage.</p>
     <div class="para" id="p0">
       <button class="ts" data-t="0" title="Play from 0:00">0:00</button>
       <p>- Hello, good morning. My name&#39;s Elise Chin. I&#39;m married to Isaac Chung. I&#39;ve been attending Berean for over seven years and I&#39;m going to share my testimony. I&#39;m really nervous, so sorry if I cry. By the time that I was a sophomore in high school, I&#39;d moved over 15 times and was living with my mom in Georgia while my dad was serving the US Army as a chaplain stationed in Korea. My brother was attending UCLA as a freshman and because of the constant moves throughout our lives, my brother became the closest person to me. He wasn&#39;t a good kid though. He was always getting into fights. He got suspended, ran off with a car without a license. But when he came home for that first summer, he was a changed man.</p>
@@ -80,7 +82,7 @@
     </div>
     <div class="para" id="p4">
       <button class="ts" data-t="126" title="Play from 2:06">2:06</button>
-      <p>For Christ also died for sins, once for all, the just for the unjust, so that he might bring us to God. First Peter 3.18. And before that moment, I lived in fear of disappointing those in authority, much like I saw my brother do. And looking back now, that was such a purposeless life, bondage to another man&#39;s approval. However, I learned that God the creator is the only one worthy of worship from any and all creation. Ironically, it disappoints many when I do follow God. And so why am I getting baptized over 10 years since that happened? Well, my dad is a Presbyterian minister, and so I was sprinkled as an infant and confirmed after I was saved. I never questioned it because I just accepted whatever was taught, and that was all I knew.</p>
+      <p>For Christ also died for sins, once for all, the just for the unjust, so that he might bring us to God. <span class="verse" data-ref="1 Peter 3" tabindex="0" role="button">First Peter 3</span>.18. And before that moment, I lived in fear of disappointing those in authority, much like I saw my brother do. And looking back now, that was such a purposeless life, bondage to another man&#39;s approval. However, I learned that God the creator is the only one worthy of worship from any and all creation. Ironically, it disappoints many when I do follow God. And so why am I getting baptized over 10 years since that happened? Well, my dad is a Presbyterian minister, and so I was sprinkled as an infant and confirmed after I was saved. I never questioned it because I just accepted whatever was taught, and that was all I knew.</p>
     </div>
     <div class="para" id="p5">
       <button class="ts" data-t="163" title="Play from 2:43">2:43</button>
@@ -96,7 +98,7 @@
     </div>
     <div class="para" id="p8">
       <button class="ts" data-t="281" title="Play from 4:41">4:41</button>
-      <p>I read and studied Jesus&#39; baptism in Matthew 3 over and over, studying the Old Testament, sorry, and studying Judaism for a little bit. And over time, I came to the decision that I wanted to simply obey, just as our Savior did, to fulfill all righteousness. Oh my gosh. I know this doesn&#39;t change his miraculous calling of my life over 10 years ago, but I see this as something important enough to do and something so important that I don&#39;t wanna brush off. I&#39;m also given the opportunity to be baptized by submersion at a church that I love, so why not take it? I thank God for this time because in a lot of ways, I got to struggle in something that a lot of people don&#39;t necessarily have to. And it&#39;s a privilege that I got to understand a little more deeply the why&#39;s, what&#39;s, and how&#39;s of baptism in this way, and so I&#39;m grateful.</p>
+      <p>I read and studied Jesus&#39; baptism in <span class="verse" data-ref="Matthew 3" tabindex="0" role="button">Matthew 3</span> over and over, studying the Old Testament, sorry, and studying Judaism for a little bit. And over time, I came to the decision that I wanted to simply obey, just as our Savior did, to fulfill all righteousness. Oh my gosh. I know this doesn&#39;t change his miraculous calling of my life over 10 years ago, but I see this as something important enough to do and something so important that I don&#39;t wanna brush off. I&#39;m also given the opportunity to be baptized by submersion at a church that I love, so why not take it? I thank God for this time because in a lot of ways, I got to struggle in something that a lot of people don&#39;t necessarily have to. And it&#39;s a privilege that I got to understand a little more deeply the why&#39;s, what&#39;s, and how&#39;s of baptism in this way, and so I&#39;m grateful.</p>
     </div>
     <div class="para" id="p9">
       <button class="ts" data-t="324" title="Play from 5:24">5:24</button>
@@ -154,6 +156,104 @@
   // re-align after fonts/iframe settle layout
   window.addEventListener("load", highlightFromHash);
   highlightFromHash();
+
+  // --- Bible reference popovers -------------------------------------------
+  // References detected in the transcript are wrapped in <span class="verse">.
+  // Hover/focus/tap one and we fetch the passage text from bible-api.com
+  // (World English Bible, public domain, CORS-enabled) and show it inline.
+  const verses = document.querySelectorAll(".verse[data-ref]");
+  if (verses.length) {
+    const cache = new Map();
+    const pop = document.createElement("div");
+    pop.className = "verse-pop";
+    pop.hidden = true;
+    pop.innerHTML =
+      '<div class="verse-pop-head"></div>' +
+      '<div class="verse-pop-body"></div>' +
+      '<div class="verse-pop-cite"></div>';
+    document.body.appendChild(pop);
+    const headEl = pop.querySelector(".verse-pop-head");
+    const bodyEl = pop.querySelector(".verse-pop-body");
+    const citeEl = pop.querySelector(".verse-pop-cite");
+    let hideTimer;
+    let active = null;
+
+    function fetchRef(ref) {
+      if (cache.has(ref)) return cache.get(ref);
+      const p = fetch("https://bible-api.com/" + encodeURIComponent(ref))
+        .then((r) => (r.ok ? r.json() : Promise.reject()))
+        .then((d) => ({
+          reference: d.reference || ref,
+          text: (d.text || "").replace(/\s+\n/g, "\n").trim(),
+          translation: d.translation_name || "",
+        }))
+        .catch(() => null);
+      cache.set(ref, p);
+      return p;
+    }
+
+    function place(target) {
+      const r = target.getBoundingClientRect();
+      const width = Math.min(400, window.innerWidth - 24);
+      pop.style.width = width + "px";
+      let left = window.scrollX + r.left;
+      left = Math.min(left, window.scrollX + window.innerWidth - width - 12);
+      left = Math.max(left, window.scrollX + 12);
+      pop.style.left = left + "px";
+      pop.style.top = window.scrollY + r.bottom + 8 + "px";
+    }
+
+    function show(target) {
+      clearTimeout(hideTimer);
+      active = target;
+      const ref = target.dataset.ref;
+      headEl.textContent = ref;
+      bodyEl.textContent = "Loading…";
+      citeEl.textContent = "";
+      place(target);
+      pop.hidden = false;
+      fetchRef(ref).then((data) => {
+        if (pop.hidden || active !== target) return;
+        if (!data) {
+          bodyEl.textContent = "Couldn't load this passage.";
+          return;
+        }
+        headEl.textContent = data.reference;
+        bodyEl.textContent = data.text;
+        citeEl.textContent = data.translation;
+        place(target);
+      });
+    }
+
+    function scheduleHide() {
+      hideTimer = setTimeout(() => {
+        pop.hidden = true;
+        active = null;
+      }, 200);
+    }
+
+    verses.forEach((el) => {
+      el.addEventListener("mouseenter", () => show(el));
+      el.addEventListener("mouseleave", scheduleHide);
+      el.addEventListener("focus", () => show(el));
+      el.addEventListener("blur", () => {
+        pop.hidden = true;
+        active = null;
+      });
+      el.addEventListener("click", (e) => {
+        e.preventDefault();
+        show(el);
+      });
+    });
+    pop.addEventListener("mouseenter", () => clearTimeout(hideTimer));
+    pop.addEventListener("mouseleave", scheduleHide);
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape") {
+        pop.hidden = true;
+        active = null;
+      }
+    });
+  }
 })();
 </script>
 </body>

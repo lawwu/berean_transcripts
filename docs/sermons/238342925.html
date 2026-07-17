@@ -56,12 +56,14 @@
     </div>
   </header>
 
-  <div class="player-shell" id="player-shell">
-    <iframe id="player" src="https://player.vimeo.com/video/238342925" title="Wed Bible Study - Revelation Lesson 20" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <div class="player-dock" id="player-dock">
+    <div class="player-shell" id="player-shell">
+      <iframe id="player" src="https://player.vimeo.com/video/238342925" title="Wed Bible Study - Revelation Lesson 20" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+    </div>
   </div>
 
   <section class="transcript" id="transcript" data-platform="vimeo">
-    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment.</p>
+    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment, or hover a <span class="verse verse-legend">Bible reference</span> to read the passage.</p>
     <div class="para" id="p0">
       <button class="ts" data-t="0" title="Play from 0:00">0:00</button>
       <p>All right, let&#39;s look at this picture. So just a quick review before we get started. This is the first bowl. So what does the first bowl fall under? People who had the number of the beast. And I don&#39;t know why that picture is of an Asian. It&#39;s an Asian. Okay. And then what&#39;s that one on? What happens to the second bowl? The waters, all the waters, right? They turn to blood. And then the third one? The rivers and springs, the fresh water turns to blood. What&#39;s that one? Sun, right? The fourth one falls in the sun and then torches the people. And what&#39;s that one? Huh? Right, falls on the beast and its kingdom, right?</p>
@@ -108,7 +110,7 @@
     </div>
     <div class="para" id="p11">
       <button class="ts" data-t="589" title="Play from 9:49">9:49</button>
-      <p>For the sake of time, because we have seven judgments, I&#39;m not going to go to these passages, but in chapter 14, 9 through 11, we also see that. And Zechariah 14, 12 also has a prophecy that at the end time, God was going to bring sores and God&#39;s going to bring judgment through sores. So again, this is not unique to revelation. God has left imprints of his final bowl judgments all throughout scripture. And we&#39;re going to see that. I&#39;m not going to go to it, but I&#39;m just going to give you references to it. But the sores will not affect the believers, right? The judgment is coming and it&#39;s specifically targeted, these plagues are specifically targeted to the people who have the mark of the beast.</p>
+      <p>For the sake of time, because we have seven judgments, I&#39;m not going to go to these passages, but in chapter 14, 9 through 11, we also see that. And <span class="verse" data-ref="Zechariah 14" tabindex="0" role="button">Zechariah 14</span>, 12 also has a prophecy that at the end time, God was going to bring sores and God&#39;s going to bring judgment through sores. So again, this is not unique to revelation. God has left imprints of his final bowl judgments all throughout scripture. And we&#39;re going to see that. I&#39;m not going to go to it, but I&#39;m just going to give you references to it. But the sores will not affect the believers, right? The judgment is coming and it&#39;s specifically targeted, these plagues are specifically targeted to the people who have the mark of the beast.</p>
     </div>
     <div class="para" id="p12">
       <button class="ts" data-t="633" title="Play from 10:33">10:33</button>
@@ -152,7 +154,7 @@
     </div>
     <div class="para" id="p22">
       <button class="ts" data-t="1169" title="Play from 19:29">19:29</button>
-      <p>And that&#39;s exactly what it says in Romans 121. The reason why the wrath of God is being revealed is because although everything God needed to show was very plain to them in creation, they refuse to honor God and give glory to God. And so here, you would think, at least from our perspective, that one thing, if disaster came and you don&#39;t understand where the disaster came from, but here it says it&#39;s clear and they&#39;re going to know that it was from God. They&#39;re going to know that judgment is coming from God. But instead of repenting, they turn and shake their fist at God, right? And they curse Him. And each one, as it gets more and more intense, instead of softening their heart in repentance, and even now if they would repent, God would forgive their sins, right?</p>
+      <p>And that&#39;s exactly what it says in <span class="verse" data-ref="Romans 121" tabindex="0" role="button">Romans 121</span>. The reason why the wrath of God is being revealed is because although everything God needed to show was very plain to them in creation, they refuse to honor God and give glory to God. And so here, you would think, at least from our perspective, that one thing, if disaster came and you don&#39;t understand where the disaster came from, but here it says it&#39;s clear and they&#39;re going to know that it was from God. They&#39;re going to know that judgment is coming from God. But instead of repenting, they turn and shake their fist at God, right? And they curse Him. And each one, as it gets more and more intense, instead of softening their heart in repentance, and even now if they would repent, God would forgive their sins, right?</p>
     </div>
     <div class="para" id="p23">
       <button class="ts" data-t="1220" title="Play from 20:20">20:20</button>
@@ -310,6 +312,104 @@
   // re-align after fonts/iframe settle layout
   window.addEventListener("load", highlightFromHash);
   highlightFromHash();
+
+  // --- Bible reference popovers -------------------------------------------
+  // References detected in the transcript are wrapped in <span class="verse">.
+  // Hover/focus/tap one and we fetch the passage text from bible-api.com
+  // (World English Bible, public domain, CORS-enabled) and show it inline.
+  const verses = document.querySelectorAll(".verse[data-ref]");
+  if (verses.length) {
+    const cache = new Map();
+    const pop = document.createElement("div");
+    pop.className = "verse-pop";
+    pop.hidden = true;
+    pop.innerHTML =
+      '<div class="verse-pop-head"></div>' +
+      '<div class="verse-pop-body"></div>' +
+      '<div class="verse-pop-cite"></div>';
+    document.body.appendChild(pop);
+    const headEl = pop.querySelector(".verse-pop-head");
+    const bodyEl = pop.querySelector(".verse-pop-body");
+    const citeEl = pop.querySelector(".verse-pop-cite");
+    let hideTimer;
+    let active = null;
+
+    function fetchRef(ref) {
+      if (cache.has(ref)) return cache.get(ref);
+      const p = fetch("https://bible-api.com/" + encodeURIComponent(ref))
+        .then((r) => (r.ok ? r.json() : Promise.reject()))
+        .then((d) => ({
+          reference: d.reference || ref,
+          text: (d.text || "").replace(/\s+\n/g, "\n").trim(),
+          translation: d.translation_name || "",
+        }))
+        .catch(() => null);
+      cache.set(ref, p);
+      return p;
+    }
+
+    function place(target) {
+      const r = target.getBoundingClientRect();
+      const width = Math.min(400, window.innerWidth - 24);
+      pop.style.width = width + "px";
+      let left = window.scrollX + r.left;
+      left = Math.min(left, window.scrollX + window.innerWidth - width - 12);
+      left = Math.max(left, window.scrollX + 12);
+      pop.style.left = left + "px";
+      pop.style.top = window.scrollY + r.bottom + 8 + "px";
+    }
+
+    function show(target) {
+      clearTimeout(hideTimer);
+      active = target;
+      const ref = target.dataset.ref;
+      headEl.textContent = ref;
+      bodyEl.textContent = "Loading…";
+      citeEl.textContent = "";
+      place(target);
+      pop.hidden = false;
+      fetchRef(ref).then((data) => {
+        if (pop.hidden || active !== target) return;
+        if (!data) {
+          bodyEl.textContent = "Couldn't load this passage.";
+          return;
+        }
+        headEl.textContent = data.reference;
+        bodyEl.textContent = data.text;
+        citeEl.textContent = data.translation;
+        place(target);
+      });
+    }
+
+    function scheduleHide() {
+      hideTimer = setTimeout(() => {
+        pop.hidden = true;
+        active = null;
+      }, 200);
+    }
+
+    verses.forEach((el) => {
+      el.addEventListener("mouseenter", () => show(el));
+      el.addEventListener("mouseleave", scheduleHide);
+      el.addEventListener("focus", () => show(el));
+      el.addEventListener("blur", () => {
+        pop.hidden = true;
+        active = null;
+      });
+      el.addEventListener("click", (e) => {
+        e.preventDefault();
+        show(el);
+      });
+    });
+    pop.addEventListener("mouseenter", () => clearTimeout(hideTimer));
+    pop.addEventListener("mouseleave", scheduleHide);
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape") {
+        pop.hidden = true;
+        active = null;
+      }
+    });
+  }
 })();
 </script>
 </body>

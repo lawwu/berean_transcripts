@@ -56,12 +56,14 @@
     </div>
   </header>
 
-  <div class="player-shell" id="player-shell">
-    <iframe id="player" src="https://player.vimeo.com/video/541432229" title="4-28-2021 Run With Endurance" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <div class="player-dock" id="player-dock">
+    <div class="player-shell" id="player-shell">
+      <iframe id="player" src="https://player.vimeo.com/video/541432229" title="4-28-2021 Run With Endurance" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+    </div>
   </div>
 
   <section class="transcript" id="transcript" data-platform="vimeo">
-    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment.</p>
+    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment, or hover a <span class="verse verse-legend">Bible reference</span> to read the passage.</p>
     <div class="para" id="p0">
       <button class="ts" data-t="0" title="Play from 0:00">0:00</button>
       <p>So we&#39;re going to be reading verses 1, 2, and 3, but we&#39;ll most likely spend most of our time today in verse 1. Hebrews chapter 12, verses 1, 2, and 3. Initially I prepared a two-part message, but it looks like it might turn into a three-part message. So I&#39;m going to finish my sermon. So verses 1, 2, and 3. &#34;Therefore, since we have so great a cloud of witnesses surrounding us, let us also lay aside every encumbrance and a sin which so easily entangles us. Let us run with endurance the race that is set before us, fixing our eyes on Jesus, the author and perfecter of faith, who for the joy set before him endured the cross, despising the shame, and has sat down at the right hand of the throne of God.</p>
@@ -160,7 +162,7 @@
     </div>
     <div class="para" id="p24">
       <button class="ts" data-t="1237" title="Play from 20:37">20:37</button>
-      <p>And we are challenged not only to simply sign up for the race, but to run as to win. In 1 Corinthians 9, 24 to 27, Paul says, &#34;Do you not know that those who run in a race all run, but only one receives the prize? Run in such a way that you may win.&#34; Now think about the context of this, right? Why is Paul telling them to run in this way? Because the Corinthians got entangled with who&#39;s better, who&#39;s more spiritual. You know, I like Apostle Paul, I like Apollos, I like Peter, and then some is like, I like Jesus. So they were competing with each other, all kinds of chaos in the church, and they&#39;ve taken their eyes off of where they were supposed to go. And so the whole letter is written to kind of encourage them and to rebuke them to get back on track.</p>
+      <p>And we are challenged not only to simply sign up for the race, but to run as to win. In <span class="verse" data-ref="1 Corinthians 9" tabindex="0" role="button">1 Corinthians 9</span>, 24 to 27, Paul says, &#34;Do you not know that those who run in a race all run, but only one receives the prize? Run in such a way that you may win.&#34; Now think about the context of this, right? Why is Paul telling them to run in this way? Because the Corinthians got entangled with who&#39;s better, who&#39;s more spiritual. You know, I like Apostle Paul, I like Apollos, I like Peter, and then some is like, I like Jesus. So they were competing with each other, all kinds of chaos in the church, and they&#39;ve taken their eyes off of where they were supposed to go. And so the whole letter is written to kind of encourage them and to rebuke them to get back on track.</p>
     </div>
     <div class="para" id="p25">
       <button class="ts" data-t="1293" title="Play from 21:33">21:33</button>
@@ -252,7 +254,7 @@
     </div>
     <div class="para" id="p47">
       <button class="ts" data-t="2448" title="Play from 40:48">40:48</button>
-      <p>They&#39;re all people who are reluctant, but remain faithful. And I find great encouragement in them, not because of the great things that they&#39;ve done, but because they&#39;re just faithful. They had their eyes on the prize, and they just made it to the end. Read the book of Psalms. Two-thirds of it is complaining. Why? Why? Two-thirds. We gravitate toward Psalm 23. The Lord is my shepherd. I shall not be in want. He leads me beside quiet water. I mean, we put it on, you know, plaques, and we quote it. Two-thirds. Two-thirds of Psalms is, &#34;Why? Why do you let the wicked prosper? When are you going to answer my prayers? How long?&#34; Two-thirds. My enemies are all around me. Where can I go to escape?</p>
+      <p>They&#39;re all people who are reluctant, but remain faithful. And I find great encouragement in them, not because of the great things that they&#39;ve done, but because they&#39;re just faithful. They had their eyes on the prize, and they just made it to the end. Read the book of Psalms. Two-thirds of it is complaining. Why? Why? Two-thirds. We gravitate toward <span class="verse" data-ref="Psalms 23" tabindex="0" role="button">Psalm 23</span>. The Lord is my shepherd. I shall not be in want. He leads me beside quiet water. I mean, we put it on, you know, plaques, and we quote it. Two-thirds. Two-thirds of Psalms is, &#34;Why? Why do you let the wicked prosper? When are you going to answer my prayers? How long?&#34; Two-thirds. My enemies are all around me. Where can I go to escape?</p>
     </div>
     <div class="para" id="p48">
       <button class="ts" data-t="2512" title="Play from 41:52">41:52</button>
@@ -362,6 +364,104 @@
   // re-align after fonts/iframe settle layout
   window.addEventListener("load", highlightFromHash);
   highlightFromHash();
+
+  // --- Bible reference popovers -------------------------------------------
+  // References detected in the transcript are wrapped in <span class="verse">.
+  // Hover/focus/tap one and we fetch the passage text from bible-api.com
+  // (World English Bible, public domain, CORS-enabled) and show it inline.
+  const verses = document.querySelectorAll(".verse[data-ref]");
+  if (verses.length) {
+    const cache = new Map();
+    const pop = document.createElement("div");
+    pop.className = "verse-pop";
+    pop.hidden = true;
+    pop.innerHTML =
+      '<div class="verse-pop-head"></div>' +
+      '<div class="verse-pop-body"></div>' +
+      '<div class="verse-pop-cite"></div>';
+    document.body.appendChild(pop);
+    const headEl = pop.querySelector(".verse-pop-head");
+    const bodyEl = pop.querySelector(".verse-pop-body");
+    const citeEl = pop.querySelector(".verse-pop-cite");
+    let hideTimer;
+    let active = null;
+
+    function fetchRef(ref) {
+      if (cache.has(ref)) return cache.get(ref);
+      const p = fetch("https://bible-api.com/" + encodeURIComponent(ref))
+        .then((r) => (r.ok ? r.json() : Promise.reject()))
+        .then((d) => ({
+          reference: d.reference || ref,
+          text: (d.text || "").replace(/\s+\n/g, "\n").trim(),
+          translation: d.translation_name || "",
+        }))
+        .catch(() => null);
+      cache.set(ref, p);
+      return p;
+    }
+
+    function place(target) {
+      const r = target.getBoundingClientRect();
+      const width = Math.min(400, window.innerWidth - 24);
+      pop.style.width = width + "px";
+      let left = window.scrollX + r.left;
+      left = Math.min(left, window.scrollX + window.innerWidth - width - 12);
+      left = Math.max(left, window.scrollX + 12);
+      pop.style.left = left + "px";
+      pop.style.top = window.scrollY + r.bottom + 8 + "px";
+    }
+
+    function show(target) {
+      clearTimeout(hideTimer);
+      active = target;
+      const ref = target.dataset.ref;
+      headEl.textContent = ref;
+      bodyEl.textContent = "Loading…";
+      citeEl.textContent = "";
+      place(target);
+      pop.hidden = false;
+      fetchRef(ref).then((data) => {
+        if (pop.hidden || active !== target) return;
+        if (!data) {
+          bodyEl.textContent = "Couldn't load this passage.";
+          return;
+        }
+        headEl.textContent = data.reference;
+        bodyEl.textContent = data.text;
+        citeEl.textContent = data.translation;
+        place(target);
+      });
+    }
+
+    function scheduleHide() {
+      hideTimer = setTimeout(() => {
+        pop.hidden = true;
+        active = null;
+      }, 200);
+    }
+
+    verses.forEach((el) => {
+      el.addEventListener("mouseenter", () => show(el));
+      el.addEventListener("mouseleave", scheduleHide);
+      el.addEventListener("focus", () => show(el));
+      el.addEventListener("blur", () => {
+        pop.hidden = true;
+        active = null;
+      });
+      el.addEventListener("click", (e) => {
+        e.preventDefault();
+        show(el);
+      });
+    });
+    pop.addEventListener("mouseenter", () => clearTimeout(hideTimer));
+    pop.addEventListener("mouseleave", scheduleHide);
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape") {
+        pop.hidden = true;
+        active = null;
+      }
+    });
+  }
 })();
 </script>
 </body>

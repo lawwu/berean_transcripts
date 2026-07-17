@@ -56,12 +56,14 @@
     </div>
   </header>
 
-  <div class="player-shell" id="player-shell">
-    <iframe id="player" src="https://player.vimeo.com/video/250063083" title="2017-01-07 That We Might Know Him" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <div class="player-dock" id="player-dock">
+    <div class="player-shell" id="player-shell">
+      <iframe id="player" src="https://player.vimeo.com/video/250063083" title="2017-01-07 That We Might Know Him" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+    </div>
   </div>
 
   <section class="transcript" id="transcript" data-platform="vimeo">
-    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment.</p>
+    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment, or hover a <span class="verse verse-legend">Bible reference</span> to read the passage.</p>
     <div class="para" id="p0">
       <button class="ts" data-t="0" title="Play from 0:00">0:00</button>
       <p>All right, let&#39;s take our Bibles and turn to Exodus chapter 7. Okay, Exodus chapter 7, verses 1. And as we turn there, I&#39;d like to introduce today&#39;s sermon by thinking about things that we like to do versus things that we should do. Okay, things that we like to do versus things that we should do. During our typically around the new year, we make a lot of resolutions and one of the things that we resolve to do is really take care of our health, right? So let&#39;s say for example, like eating, there are things we like to eat and then there are things we should eat, okay? Truthfully, I really do for some odd reason, like everybody does, but really love the stuff that&#39;s really savory and saucy and stuff.</p>
@@ -148,7 +150,7 @@
     </div>
     <div class="para" id="p21">
       <button class="ts" data-t="1065" title="Play from 17:45">17:45</button>
-      <p>He couldn&#39;t see the man in front of him. It was a supernatural, complete pitch darkness where they could not operate. And the last one, and the last one, as you guys know, is the one where God said, &#34;I am precisely inflicting this miracle on you, this plague on you, because you would not let my firstborn go, my people Israel.&#34; And so he says, &#34;I will kill the firstborn of this land.&#34; Turn to Exodus 11, verse 4-6. Exodus 11, verse 4-6. Moses said, &#34;Thus says the Lord, &#39;About midnight I am going out in the midst of Egypt, and all the firstborn in the land of Egypt shall die. From the firstborn of Pharaoh who sits on his throne, even to the firstborn of the slave girl who is behind the millstone, all the firstborn of the cattle as well.</p>
+      <p>He couldn&#39;t see the man in front of him. It was a supernatural, complete pitch darkness where they could not operate. And the last one, and the last one, as you guys know, is the one where God said, &#34;I am precisely inflicting this miracle on you, this plague on you, because you would not let my firstborn go, my people Israel.&#34; And so he says, &#34;I will kill the firstborn of this land.&#34; Turn to <span class="verse" data-ref="Exodus 11" tabindex="0" role="button">Exodus 11</span>, verse 4-6. <span class="verse" data-ref="Exodus 11" tabindex="0" role="button">Exodus 11</span>, verse 4-6. Moses said, &#34;Thus says the Lord, &#39;About midnight I am going out in the midst of Egypt, and all the firstborn in the land of Egypt shall die. From the firstborn of Pharaoh who sits on his throne, even to the firstborn of the slave girl who is behind the millstone, all the firstborn of the cattle as well.</p>
     </div>
     <div class="para" id="p22">
       <button class="ts" data-t="1123" title="Play from 18:43">18:43</button>
@@ -224,7 +226,7 @@
     </div>
     <div class="para" id="p40">
       <button class="ts" data-t="2064" title="Play from 34:24">34:24</button>
-      <p>The Egyptians know idols, the Egyptians know created things like the Nile, like animals, like snakes, and all that kind of stuff, and they render power. They don&#39;t know me. And God is going to be glorified by the magnification of the knowledge of who He is. But as you guys know, that has been the heart of God for this generation as well. There&#39;s a passage in 1 Timothy 2 verse 4 that says, &#34;God desires all people to be saved and to come to the knowledge of the truth.&#34; Please turn in your Bible, since we&#39;re at Exodus, to Exodus 10 verse 1 and 2. He says, &#34;Then the Lord said to Moses, &#39;Go to Pharaoh, for I have hardened his heart and the heart of his servants, that I may perform these signs of mine among them, and that you may tell in the hearing of your son and of your grandson, how I made a mockery of the Egyptians, and I performed my signs among them, that you may know that I am the Lord.&#39;&#34; So we asked the question earlier, there is, what is God doing?</p>
+      <p>The Egyptians know idols, the Egyptians know created things like the Nile, like animals, like snakes, and all that kind of stuff, and they render power. They don&#39;t know me. And God is going to be glorified by the magnification of the knowledge of who He is. But as you guys know, that has been the heart of God for this generation as well. There&#39;s a passage in <span class="verse" data-ref="1 Timothy 2" tabindex="0" role="button">1 Timothy 2</span> verse 4 that says, &#34;God desires all people to be saved and to come to the knowledge of the truth.&#34; Please turn in your Bible, since we&#39;re at Exodus, to <span class="verse" data-ref="Exodus 10" tabindex="0" role="button">Exodus 10</span> verse 1 and 2. He says, &#34;Then the Lord said to Moses, &#39;Go to Pharaoh, for I have hardened his heart and the heart of his servants, that I may perform these signs of mine among them, and that you may tell in the hearing of your son and of your grandson, how I made a mockery of the Egyptians, and I performed my signs among them, that you may know that I am the Lord.&#39;&#34; So we asked the question earlier, there is, what is God doing?</p>
     </div>
     <div class="para" id="p41">
       <button class="ts" data-t="2136" title="Play from 35:36">35:36</button>
@@ -338,6 +340,104 @@
   // re-align after fonts/iframe settle layout
   window.addEventListener("load", highlightFromHash);
   highlightFromHash();
+
+  // --- Bible reference popovers -------------------------------------------
+  // References detected in the transcript are wrapped in <span class="verse">.
+  // Hover/focus/tap one and we fetch the passage text from bible-api.com
+  // (World English Bible, public domain, CORS-enabled) and show it inline.
+  const verses = document.querySelectorAll(".verse[data-ref]");
+  if (verses.length) {
+    const cache = new Map();
+    const pop = document.createElement("div");
+    pop.className = "verse-pop";
+    pop.hidden = true;
+    pop.innerHTML =
+      '<div class="verse-pop-head"></div>' +
+      '<div class="verse-pop-body"></div>' +
+      '<div class="verse-pop-cite"></div>';
+    document.body.appendChild(pop);
+    const headEl = pop.querySelector(".verse-pop-head");
+    const bodyEl = pop.querySelector(".verse-pop-body");
+    const citeEl = pop.querySelector(".verse-pop-cite");
+    let hideTimer;
+    let active = null;
+
+    function fetchRef(ref) {
+      if (cache.has(ref)) return cache.get(ref);
+      const p = fetch("https://bible-api.com/" + encodeURIComponent(ref))
+        .then((r) => (r.ok ? r.json() : Promise.reject()))
+        .then((d) => ({
+          reference: d.reference || ref,
+          text: (d.text || "").replace(/\s+\n/g, "\n").trim(),
+          translation: d.translation_name || "",
+        }))
+        .catch(() => null);
+      cache.set(ref, p);
+      return p;
+    }
+
+    function place(target) {
+      const r = target.getBoundingClientRect();
+      const width = Math.min(400, window.innerWidth - 24);
+      pop.style.width = width + "px";
+      let left = window.scrollX + r.left;
+      left = Math.min(left, window.scrollX + window.innerWidth - width - 12);
+      left = Math.max(left, window.scrollX + 12);
+      pop.style.left = left + "px";
+      pop.style.top = window.scrollY + r.bottom + 8 + "px";
+    }
+
+    function show(target) {
+      clearTimeout(hideTimer);
+      active = target;
+      const ref = target.dataset.ref;
+      headEl.textContent = ref;
+      bodyEl.textContent = "Loading…";
+      citeEl.textContent = "";
+      place(target);
+      pop.hidden = false;
+      fetchRef(ref).then((data) => {
+        if (pop.hidden || active !== target) return;
+        if (!data) {
+          bodyEl.textContent = "Couldn't load this passage.";
+          return;
+        }
+        headEl.textContent = data.reference;
+        bodyEl.textContent = data.text;
+        citeEl.textContent = data.translation;
+        place(target);
+      });
+    }
+
+    function scheduleHide() {
+      hideTimer = setTimeout(() => {
+        pop.hidden = true;
+        active = null;
+      }, 200);
+    }
+
+    verses.forEach((el) => {
+      el.addEventListener("mouseenter", () => show(el));
+      el.addEventListener("mouseleave", scheduleHide);
+      el.addEventListener("focus", () => show(el));
+      el.addEventListener("blur", () => {
+        pop.hidden = true;
+        active = null;
+      });
+      el.addEventListener("click", (e) => {
+        e.preventDefault();
+        show(el);
+      });
+    });
+    pop.addEventListener("mouseenter", () => clearTimeout(hideTimer));
+    pop.addEventListener("mouseleave", scheduleHide);
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape") {
+        pop.hidden = true;
+        active = null;
+      }
+    });
+  }
 })();
 </script>
 </body>

@@ -56,12 +56,14 @@
     </div>
   </header>
 
-  <div class="player-shell" id="player-shell">
-    <iframe id="player" src="https://player.vimeo.com/video/541441518" title="4-25-2021 Callista Lu Baptism Testimony" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <div class="player-dock" id="player-dock">
+    <div class="player-shell" id="player-shell">
+      <iframe id="player" src="https://player.vimeo.com/video/541441518" title="4-25-2021 Callista Lu Baptism Testimony" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+    </div>
   </div>
 
   <section class="transcript" id="transcript" data-platform="vimeo">
-    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment.</p>
+    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment, or hover a <span class="verse verse-legend">Bible reference</span> to read the passage.</p>
     <div class="para" id="p0">
       <button class="ts" data-t="0" title="Play from 0:00">0:00</button>
       <p>Hi everyone, I&#39;m Calista and I&#39;m a fourth year at UCI. This is my testimony. I was born into a Christian household and grew up in the church. I gained a lot of biblical knowledge but was never truly convicted of my sins. I started college believing that I was saved and decided that I would check out brewing with my roommate. However, when I came to my very first brewing service, I felt ashamed and guilty after the sermon because I knew deep down that I was sinning just as the message had described. But rather than turning to repentance from these convictions, the pridefulness of my own heart led me to distance myself from the church in order to escape from having to humble myself in admitting that I was a sinner.</p>
@@ -76,11 +78,11 @@
     </div>
     <div class="para" id="p3">
       <button class="ts" data-t="123" title="Play from 2:03">2:03</button>
-      <p>Just as Ephesians 2.8 says, &#34;For by grace you have been saved through faith, and this is not of yourselves. It is the gift of God, not a result of works so that no one may boast.&#34; I understood that I was a sinner but made righteous through his sacrifice and faith in Christ alone. This led me to complete dependence on him in knowing that he is truly the only one that can save me from my sins. When COVID hit and I had to move home for quarantine, God used the time of physical separation from the church body to grow me in my faith. I am thankful because God used that time to convict me of my sins and bring me to repentance. I now understand the weight of my sins and how much I am in need of Christ as my savior.</p>
+      <p>Just as <span class="verse" data-ref="Ephesians 2" tabindex="0" role="button">Ephesians 2</span>.8 says, &#34;For by grace you have been saved through faith, and this is not of yourselves. It is the gift of God, not a result of works so that no one may boast.&#34; I understood that I was a sinner but made righteous through his sacrifice and faith in Christ alone. This led me to complete dependence on him in knowing that he is truly the only one that can save me from my sins. When COVID hit and I had to move home for quarantine, God used the time of physical separation from the church body to grow me in my faith. I am thankful because God used that time to convict me of my sins and bring me to repentance. I now understand the weight of my sins and how much I am in need of Christ as my savior.</p>
     </div>
     <div class="para" id="p4">
       <button class="ts" data-t="160" title="Play from 2:40">2:40</button>
-      <p>I am eternally grateful for his mercy and grace that he would send his own son, Jesus Christ, to die for me and I surrender my life to follow him. I desire to live out Galatians 2.20 which says, &#34;I have been crucified with Christ and it is no longer I who live but Christ lives in me and the life which I now live in the flesh I live by faith in the son of God who loved me and gave himself up for me.&#34; Thank you.</p>
+      <p>I am eternally grateful for his mercy and grace that he would send his own son, Jesus Christ, to die for me and I surrender my life to follow him. I desire to live out <span class="verse" data-ref="Galatians 2" tabindex="0" role="button">Galatians 2</span>.20 which says, &#34;I have been crucified with Christ and it is no longer I who live but Christ lives in me and the life which I now live in the flesh I live by faith in the son of God who loved me and gave himself up for me.&#34; Thank you.</p>
     </div>
   </section>
 
@@ -130,6 +132,104 @@
   // re-align after fonts/iframe settle layout
   window.addEventListener("load", highlightFromHash);
   highlightFromHash();
+
+  // --- Bible reference popovers -------------------------------------------
+  // References detected in the transcript are wrapped in <span class="verse">.
+  // Hover/focus/tap one and we fetch the passage text from bible-api.com
+  // (World English Bible, public domain, CORS-enabled) and show it inline.
+  const verses = document.querySelectorAll(".verse[data-ref]");
+  if (verses.length) {
+    const cache = new Map();
+    const pop = document.createElement("div");
+    pop.className = "verse-pop";
+    pop.hidden = true;
+    pop.innerHTML =
+      '<div class="verse-pop-head"></div>' +
+      '<div class="verse-pop-body"></div>' +
+      '<div class="verse-pop-cite"></div>';
+    document.body.appendChild(pop);
+    const headEl = pop.querySelector(".verse-pop-head");
+    const bodyEl = pop.querySelector(".verse-pop-body");
+    const citeEl = pop.querySelector(".verse-pop-cite");
+    let hideTimer;
+    let active = null;
+
+    function fetchRef(ref) {
+      if (cache.has(ref)) return cache.get(ref);
+      const p = fetch("https://bible-api.com/" + encodeURIComponent(ref))
+        .then((r) => (r.ok ? r.json() : Promise.reject()))
+        .then((d) => ({
+          reference: d.reference || ref,
+          text: (d.text || "").replace(/\s+\n/g, "\n").trim(),
+          translation: d.translation_name || "",
+        }))
+        .catch(() => null);
+      cache.set(ref, p);
+      return p;
+    }
+
+    function place(target) {
+      const r = target.getBoundingClientRect();
+      const width = Math.min(400, window.innerWidth - 24);
+      pop.style.width = width + "px";
+      let left = window.scrollX + r.left;
+      left = Math.min(left, window.scrollX + window.innerWidth - width - 12);
+      left = Math.max(left, window.scrollX + 12);
+      pop.style.left = left + "px";
+      pop.style.top = window.scrollY + r.bottom + 8 + "px";
+    }
+
+    function show(target) {
+      clearTimeout(hideTimer);
+      active = target;
+      const ref = target.dataset.ref;
+      headEl.textContent = ref;
+      bodyEl.textContent = "Loading…";
+      citeEl.textContent = "";
+      place(target);
+      pop.hidden = false;
+      fetchRef(ref).then((data) => {
+        if (pop.hidden || active !== target) return;
+        if (!data) {
+          bodyEl.textContent = "Couldn't load this passage.";
+          return;
+        }
+        headEl.textContent = data.reference;
+        bodyEl.textContent = data.text;
+        citeEl.textContent = data.translation;
+        place(target);
+      });
+    }
+
+    function scheduleHide() {
+      hideTimer = setTimeout(() => {
+        pop.hidden = true;
+        active = null;
+      }, 200);
+    }
+
+    verses.forEach((el) => {
+      el.addEventListener("mouseenter", () => show(el));
+      el.addEventListener("mouseleave", scheduleHide);
+      el.addEventListener("focus", () => show(el));
+      el.addEventListener("blur", () => {
+        pop.hidden = true;
+        active = null;
+      });
+      el.addEventListener("click", (e) => {
+        e.preventDefault();
+        show(el);
+      });
+    });
+    pop.addEventListener("mouseenter", () => clearTimeout(hideTimer));
+    pop.addEventListener("mouseleave", scheduleHide);
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape") {
+        pop.hidden = true;
+        active = null;
+      }
+    });
+  }
 })();
 </script>
 </body>

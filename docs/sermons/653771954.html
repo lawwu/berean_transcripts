@@ -56,12 +56,14 @@
     </div>
   </header>
 
-  <div class="player-shell" id="player-shell">
-    <iframe id="player" src="https://player.vimeo.com/video/653771954" title="2021-12-5 Mary Kim Baptism Testimony" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <div class="player-dock" id="player-dock">
+    <div class="player-shell" id="player-shell">
+      <iframe id="player" src="https://player.vimeo.com/video/653771954" title="2021-12-5 Mary Kim Baptism Testimony" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+    </div>
   </div>
 
   <section class="transcript" id="transcript" data-platform="vimeo">
-    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment.</p>
+    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment, or hover a <span class="verse verse-legend">Bible reference</span> to read the passage.</p>
     <div class="para" id="p0">
       <button class="ts" data-t="0" title="Play from 0:00">0:00</button>
       <p>- Good morning, church family. My name is Mary Kim, and I&#39;m a third-year student at UCI, and this is my testimony. I was born into a Christian family and grew up going to church. From an early age, I witnessed my mom&#39;s unwavering faith in God as she raised our family, and later witnessed my two older brothers accept Christ in their early teenage years. With a lack of personal faith and conviction, I grew up believing that I was Christian because I never disagreed with what I was taught, and I desired to be seen as an obedient, good child in the church. I trusted that Christianity was true and right because I trusted in my family&#39;s judgment. For most of my life, my faith came secondhand. Having the right answers in Bible study and knowing how to talk about God were easy, but loving others and applying what I learned out of a genuine love for God was frustratingly difficult.</p>
@@ -84,15 +86,15 @@
     </div>
     <div class="para" id="p5">
       <button class="ts" data-t="245" title="Play from 4:05">4:05</button>
-      <p>Someone&#39;s faith or lack of faith results in eternal consequences of life or death set by an eternal and holy God. God showed me how far I had fallen from him and his holiness and in my helpless state as I understood my personal identity as a sinner. He opened my eyes to my sin and absolute need for salvation. I repented of my sin knowing that Jesus is the only one who could and did take my sins, die for me, and grant me righteousness and freedom. For the first time, God broke my heart over my sin, compelling me to turn away from inherent dirtiness and rebellion against him. He was already offering me the completed work of salvation if I would place my faith in him. John 5, 24 says, &#34;Truly, truly, I say to you, he who hears my word and believes in him who has sent me has eternal life and does not come into judgment but has passed out of death into life.&#34;</p>
+      <p>Someone&#39;s faith or lack of faith results in eternal consequences of life or death set by an eternal and holy God. God showed me how far I had fallen from him and his holiness and in my helpless state as I understood my personal identity as a sinner. He opened my eyes to my sin and absolute need for salvation. I repented of my sin knowing that Jesus is the only one who could and did take my sins, die for me, and grant me righteousness and freedom. For the first time, God broke my heart over my sin, compelling me to turn away from inherent dirtiness and rebellion against him. He was already offering me the completed work of salvation if I would place my faith in him. <span class="verse" data-ref="John 5" tabindex="0" role="button">John 5</span>, 24 says, &#34;Truly, truly, I say to you, he who hears my word and believes in him who has sent me has eternal life and does not come into judgment but has passed out of death into life.&#34;</p>
     </div>
     <div class="para" id="p6">
       <button class="ts" data-t="302" title="Play from 5:02">5:02</button>
-      <p>I placed my faith in Jesus in late August 2021, trusting that it is only by God&#39;s grace through faith I can be saved. I am living life ever in awe of the love and grace that God has shown me as I look at what Jesus has done on the cross. Romans 5, 8 says, &#34;But God demonstrates his own love for us in this. While we were still sinners, Christ died for us. There was nothing I could offer God, nothing I could do to redeem myself, nothing good or valuable in me, and yet he sent his son to die for me so that he would adopt me into his kingdom.&#34; I am learning more about God&#39;s character and works as I read his word and pray. I&#39;m growing in praise and thanksgiving as he reveals his truth and continuously proves his faithfulness to me.</p>
+      <p>I placed my faith in Jesus in late August 2021, trusting that it is only by God&#39;s grace through faith I can be saved. I am living life ever in awe of the love and grace that God has shown me as I look at what Jesus has done on the cross. <span class="verse" data-ref="Romans 5" tabindex="0" role="button">Romans 5</span>, 8 says, &#34;But God demonstrates his own love for us in this. While we were still sinners, Christ died for us. There was nothing I could offer God, nothing I could do to redeem myself, nothing good or valuable in me, and yet he sent his son to die for me so that he would adopt me into his kingdom.&#34; I am learning more about God&#39;s character and works as I read his word and pray. I&#39;m growing in praise and thanksgiving as he reveals his truth and continuously proves his faithfulness to me.</p>
     </div>
     <div class="para" id="p7">
       <button class="ts" data-t="350" title="Play from 5:50">5:50</button>
-      <p>God is humbling me as he enlightens my weaknesses and need for him. I want to live my life in full submission to God, being sanctified and molded into his likeness by the Holy Spirit. Galatians 2, 20 says, &#34;I have been crucified with Christ and it is no longer I who live, but Christ lives in me. And the life which I now live in the flesh, I live by faith in the son of God who loved me and gave himself up for me.&#34; Thank you.</p>
+      <p>God is humbling me as he enlightens my weaknesses and need for him. I want to live my life in full submission to God, being sanctified and molded into his likeness by the Holy Spirit. <span class="verse" data-ref="Galatians 2" tabindex="0" role="button">Galatians 2</span>, 20 says, &#34;I have been crucified with Christ and it is no longer I who live, but Christ lives in me. And the life which I now live in the flesh, I live by faith in the son of God who loved me and gave himself up for me.&#34; Thank you.</p>
     </div>
   </section>
 
@@ -142,6 +144,104 @@
   // re-align after fonts/iframe settle layout
   window.addEventListener("load", highlightFromHash);
   highlightFromHash();
+
+  // --- Bible reference popovers -------------------------------------------
+  // References detected in the transcript are wrapped in <span class="verse">.
+  // Hover/focus/tap one and we fetch the passage text from bible-api.com
+  // (World English Bible, public domain, CORS-enabled) and show it inline.
+  const verses = document.querySelectorAll(".verse[data-ref]");
+  if (verses.length) {
+    const cache = new Map();
+    const pop = document.createElement("div");
+    pop.className = "verse-pop";
+    pop.hidden = true;
+    pop.innerHTML =
+      '<div class="verse-pop-head"></div>' +
+      '<div class="verse-pop-body"></div>' +
+      '<div class="verse-pop-cite"></div>';
+    document.body.appendChild(pop);
+    const headEl = pop.querySelector(".verse-pop-head");
+    const bodyEl = pop.querySelector(".verse-pop-body");
+    const citeEl = pop.querySelector(".verse-pop-cite");
+    let hideTimer;
+    let active = null;
+
+    function fetchRef(ref) {
+      if (cache.has(ref)) return cache.get(ref);
+      const p = fetch("https://bible-api.com/" + encodeURIComponent(ref))
+        .then((r) => (r.ok ? r.json() : Promise.reject()))
+        .then((d) => ({
+          reference: d.reference || ref,
+          text: (d.text || "").replace(/\s+\n/g, "\n").trim(),
+          translation: d.translation_name || "",
+        }))
+        .catch(() => null);
+      cache.set(ref, p);
+      return p;
+    }
+
+    function place(target) {
+      const r = target.getBoundingClientRect();
+      const width = Math.min(400, window.innerWidth - 24);
+      pop.style.width = width + "px";
+      let left = window.scrollX + r.left;
+      left = Math.min(left, window.scrollX + window.innerWidth - width - 12);
+      left = Math.max(left, window.scrollX + 12);
+      pop.style.left = left + "px";
+      pop.style.top = window.scrollY + r.bottom + 8 + "px";
+    }
+
+    function show(target) {
+      clearTimeout(hideTimer);
+      active = target;
+      const ref = target.dataset.ref;
+      headEl.textContent = ref;
+      bodyEl.textContent = "Loading…";
+      citeEl.textContent = "";
+      place(target);
+      pop.hidden = false;
+      fetchRef(ref).then((data) => {
+        if (pop.hidden || active !== target) return;
+        if (!data) {
+          bodyEl.textContent = "Couldn't load this passage.";
+          return;
+        }
+        headEl.textContent = data.reference;
+        bodyEl.textContent = data.text;
+        citeEl.textContent = data.translation;
+        place(target);
+      });
+    }
+
+    function scheduleHide() {
+      hideTimer = setTimeout(() => {
+        pop.hidden = true;
+        active = null;
+      }, 200);
+    }
+
+    verses.forEach((el) => {
+      el.addEventListener("mouseenter", () => show(el));
+      el.addEventListener("mouseleave", scheduleHide);
+      el.addEventListener("focus", () => show(el));
+      el.addEventListener("blur", () => {
+        pop.hidden = true;
+        active = null;
+      });
+      el.addEventListener("click", (e) => {
+        e.preventDefault();
+        show(el);
+      });
+    });
+    pop.addEventListener("mouseenter", () => clearTimeout(hideTimer));
+    pop.addEventListener("mouseleave", scheduleHide);
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape") {
+        pop.hidden = true;
+        active = null;
+      }
+    });
+  }
 })();
 </script>
 </body>

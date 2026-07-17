@@ -56,12 +56,14 @@
     </div>
   </header>
 
-  <div class="player-shell" id="player-shell">
-    <iframe id="player" src="https://player.vimeo.com/video/336500482" title="2019-05-15: Wed Bible Study Final Overview (Session 16)" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <div class="player-dock" id="player-dock">
+    <div class="player-shell" id="player-shell">
+      <iframe id="player" src="https://player.vimeo.com/video/336500482" title="2019-05-15: Wed Bible Study Final Overview (Session 16)" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+    </div>
   </div>
 
   <section class="transcript" id="transcript" data-platform="vimeo">
-    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment.</p>
+    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment, or hover a <span class="verse verse-legend">Bible reference</span> to read the passage.</p>
     <div class="para" id="p0">
       <button class="ts" data-t="0" title="Play from 0:00">0:00</button>
       <p>Okay, all right, so today&#39;s Bible study, because it&#39;s an overview study, I&#39;m going to just kind of give you an outline and just a brief overview of what we studied and our goal, and then we&#39;ll give you plenty of time with your small group, and then obviously we&#39;ll have snacks afterwards. So today is the last Bible study, and afterwards we&#39;re going to have a little bit over a two-month break. Pastor Mark, did you have an announcement for today? Okay, before we get into the small group. Okay, let me pray first, and we&#39;ll jump in. Heavenly Father, we thank you for the grace of allowing us to have Bible study with our small groups. We pray that the study of Colossians would have caused us to have a deeper understanding of who you are and Christ and what he has done.</p>
@@ -76,7 +78,7 @@
     </div>
     <div class="para" id="p3">
       <button class="ts" data-t="138" title="Play from 2:18">2:18</button>
-      <p>So I&#39;m going to go over, again, the review of it. Can you put that on the side? Okay. So two texts that I&#39;m looking at is 1 Timothy 4:16, where Paul tells Timothy, &#34;Pay close attention to yourself and to your teaching. Persevere in these things, for as you do this, you will ensure salvation both for yourself and for those who hear you.&#34; Okay, so that&#39;s 1 Timothy. Second Timothy 2, 14, &#34;Be diligent to present yourself approved to God as a workman who does not need to be ashamed, accurately handling the word of truth.&#34; So in both texts, the pastoral texts, the primary theme that Paul is trying to teach Timothy is to make sure that he handles the word of God accurately. Second Timothy, he says that, and in conclusion of his letter, he says, &#34;Preach it in season and out of season.&#34;</p>
+      <p>So I&#39;m going to go over, again, the review of it. Can you put that on the side? Okay. So two texts that I&#39;m looking at is <span class="verse" data-ref="1 Timothy 4:16" tabindex="0" role="button">1 Timothy 4:16</span>, where Paul tells Timothy, &#34;Pay close attention to yourself and to your teaching. Persevere in these things, for as you do this, you will ensure salvation both for yourself and for those who hear you.&#34; Okay, so that&#39;s 1 Timothy. <span class="verse" data-ref="2 Timothy 2" tabindex="0" role="button">Second Timothy 2</span>, 14, &#34;Be diligent to present yourself approved to God as a workman who does not need to be ashamed, accurately handling the word of truth.&#34; So in both texts, the pastoral texts, the primary theme that Paul is trying to teach Timothy is to make sure that he handles the word of God accurately. Second Timothy, he says that, and in conclusion of his letter, he says, &#34;Preach it in season and out of season.&#34;</p>
     </div>
     <div class="para" id="p4">
       <button class="ts" data-t="193" title="Play from 3:13">3:13</button>
@@ -274,6 +276,104 @@
   // re-align after fonts/iframe settle layout
   window.addEventListener("load", highlightFromHash);
   highlightFromHash();
+
+  // --- Bible reference popovers -------------------------------------------
+  // References detected in the transcript are wrapped in <span class="verse">.
+  // Hover/focus/tap one and we fetch the passage text from bible-api.com
+  // (World English Bible, public domain, CORS-enabled) and show it inline.
+  const verses = document.querySelectorAll(".verse[data-ref]");
+  if (verses.length) {
+    const cache = new Map();
+    const pop = document.createElement("div");
+    pop.className = "verse-pop";
+    pop.hidden = true;
+    pop.innerHTML =
+      '<div class="verse-pop-head"></div>' +
+      '<div class="verse-pop-body"></div>' +
+      '<div class="verse-pop-cite"></div>';
+    document.body.appendChild(pop);
+    const headEl = pop.querySelector(".verse-pop-head");
+    const bodyEl = pop.querySelector(".verse-pop-body");
+    const citeEl = pop.querySelector(".verse-pop-cite");
+    let hideTimer;
+    let active = null;
+
+    function fetchRef(ref) {
+      if (cache.has(ref)) return cache.get(ref);
+      const p = fetch("https://bible-api.com/" + encodeURIComponent(ref))
+        .then((r) => (r.ok ? r.json() : Promise.reject()))
+        .then((d) => ({
+          reference: d.reference || ref,
+          text: (d.text || "").replace(/\s+\n/g, "\n").trim(),
+          translation: d.translation_name || "",
+        }))
+        .catch(() => null);
+      cache.set(ref, p);
+      return p;
+    }
+
+    function place(target) {
+      const r = target.getBoundingClientRect();
+      const width = Math.min(400, window.innerWidth - 24);
+      pop.style.width = width + "px";
+      let left = window.scrollX + r.left;
+      left = Math.min(left, window.scrollX + window.innerWidth - width - 12);
+      left = Math.max(left, window.scrollX + 12);
+      pop.style.left = left + "px";
+      pop.style.top = window.scrollY + r.bottom + 8 + "px";
+    }
+
+    function show(target) {
+      clearTimeout(hideTimer);
+      active = target;
+      const ref = target.dataset.ref;
+      headEl.textContent = ref;
+      bodyEl.textContent = "Loading…";
+      citeEl.textContent = "";
+      place(target);
+      pop.hidden = false;
+      fetchRef(ref).then((data) => {
+        if (pop.hidden || active !== target) return;
+        if (!data) {
+          bodyEl.textContent = "Couldn't load this passage.";
+          return;
+        }
+        headEl.textContent = data.reference;
+        bodyEl.textContent = data.text;
+        citeEl.textContent = data.translation;
+        place(target);
+      });
+    }
+
+    function scheduleHide() {
+      hideTimer = setTimeout(() => {
+        pop.hidden = true;
+        active = null;
+      }, 200);
+    }
+
+    verses.forEach((el) => {
+      el.addEventListener("mouseenter", () => show(el));
+      el.addEventListener("mouseleave", scheduleHide);
+      el.addEventListener("focus", () => show(el));
+      el.addEventListener("blur", () => {
+        pop.hidden = true;
+        active = null;
+      });
+      el.addEventListener("click", (e) => {
+        e.preventDefault();
+        show(el);
+      });
+    });
+    pop.addEventListener("mouseenter", () => clearTimeout(hideTimer));
+    pop.addEventListener("mouseleave", scheduleHide);
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape") {
+        pop.hidden = true;
+        active = null;
+      }
+    });
+  }
 })();
 </script>
 </body>

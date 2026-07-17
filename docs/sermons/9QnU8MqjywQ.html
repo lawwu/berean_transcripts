@@ -56,12 +56,14 @@
     </div>
   </header>
 
-  <div class="player-shell" id="player-shell">
-    <iframe id="player" src="https://www.youtube-nocookie.com/embed/9QnU8MqjywQ?enablejsapi=1" title="Berean Community Church Easter Service 4/17/2022" allow="accelerometer; autoplay; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <div class="player-dock" id="player-dock">
+    <div class="player-shell" id="player-shell">
+      <iframe id="player" src="https://www.youtube-nocookie.com/embed/9QnU8MqjywQ?enablejsapi=1" title="Berean Community Church Easter Service 4/17/2022" allow="accelerometer; autoplay; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+    </div>
   </div>
 
   <section class="transcript" id="transcript" data-platform="youtube">
-    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment.</p>
+    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment, or hover a <span class="verse verse-legend">Bible reference</span> to read the passage.</p>
     <div class="para" id="p0">
       <button class="ts" data-t="481" title="Play from 8:01">8:01</button>
       <p>- Good morning, church family. Happy Lord&#39;s Day. Happy Easter. We&#39;re gonna go ahead and start our service, and it&#39;s truly a joy to gather together as we celebrate. We&#39;re gonna go ahead and sing this first song, &#34;Christ, Our Hope in Life and Death.&#34; And we do have hope because he has risen from the grave.</p>
@@ -136,11 +138,11 @@
     </div>
     <div class="para" id="p18">
       <button class="ts" data-t="2075" title="Play from 34:35">34:35</button>
-      <p>Pastor Mark and our outreach team will be out there and they will be explaining. We will be able to give you a brief presentation and answer any questions you have. This morning, my goal is not to get into the information in this book, but to take some time to walk through John 11. The foreshadowing of why Jesus had to die and be resurrected is stated clearly in this text. He was raised in Jerusalem. Let me pray for us and we will jump into the text afterwards. Let us pray.</p>
+      <p>Pastor Mark and our outreach team will be out there and they will be explaining. We will be able to give you a brief presentation and answer any questions you have. This morning, my goal is not to get into the information in this book, but to take some time to walk through <span class="verse" data-ref="John 11" tabindex="0" role="button">John 11</span>. The foreshadowing of why Jesus had to die and be resurrected is stated clearly in this text. He was raised in Jerusalem. Let me pray for us and we will jump into the text afterwards. Let us pray.</p>
     </div>
     <div class="para" id="p19">
       <button class="ts" data-t="2143" title="Play from 35:43">35:43</button>
-      <p>Let us pray. Let&#39;s begin in John 11 verse one. This is a passage from the book of Mark. It says Lazarus was sick. The background is that this is not just any family. This is a family of people who are sick.</p>
+      <p>Let us pray. Let&#39;s begin in <span class="verse" data-ref="John 11" tabindex="0" role="button">John 11</span> verse one. This is a passage from the book of Mark. It says Lazarus was sick. The background is that this is not just any family. This is a family of people who are sick.</p>
     </div>
     <div class="para" id="p20">
       <button class="ts" data-t="2223" title="Play from 37:03">37:03</button>
@@ -172,7 +174,7 @@
     </div>
     <div class="para" id="p27">
       <button class="ts" data-t="5079" title="Play from 1:24:39">1:24:39</button>
-      <p>Let&#39;s pray. 1 Corinthians 15, 20-23. But now Christ has been raised from the dead, the firstfruits of those who are asleep. For since by a man came death, by a man also came the resurrection of the dead. For as in Adam all die, so also in Christ all will be made alive. But each in his own order, Christ the firstfruits. After that, those who are Christ&#39;s at his coming. Help us, Lord God, to cling to this promise. To know, Father, that no matter what storm that we are in, no matter what storm may come, that you are our hope, that you are the resurrection, that you are the life. In Jesus&#39; name we pray, amen.</p>
+      <p>Let&#39;s pray. <span class="verse" data-ref="1 Corinthians 15" tabindex="0" role="button">1 Corinthians 15</span>, 20-23. But now Christ has been raised from the dead, the firstfruits of those who are asleep. For since by a man came death, by a man also came the resurrection of the dead. For as in Adam all die, so also in Christ all will be made alive. But each in his own order, Christ the firstfruits. After that, those who are Christ&#39;s at his coming. Help us, Lord God, to cling to this promise. To know, Father, that no matter what storm that we are in, no matter what storm may come, that you are our hope, that you are the resurrection, that you are the life. In Jesus&#39; name we pray, amen.</p>
     </div>
     <div class="para" id="p28">
       <button class="ts" data-t="5212" title="Play from 1:26:52">1:26:52</button>
@@ -226,6 +228,104 @@
   // re-align after fonts/iframe settle layout
   window.addEventListener("load", highlightFromHash);
   highlightFromHash();
+
+  // --- Bible reference popovers -------------------------------------------
+  // References detected in the transcript are wrapped in <span class="verse">.
+  // Hover/focus/tap one and we fetch the passage text from bible-api.com
+  // (World English Bible, public domain, CORS-enabled) and show it inline.
+  const verses = document.querySelectorAll(".verse[data-ref]");
+  if (verses.length) {
+    const cache = new Map();
+    const pop = document.createElement("div");
+    pop.className = "verse-pop";
+    pop.hidden = true;
+    pop.innerHTML =
+      '<div class="verse-pop-head"></div>' +
+      '<div class="verse-pop-body"></div>' +
+      '<div class="verse-pop-cite"></div>';
+    document.body.appendChild(pop);
+    const headEl = pop.querySelector(".verse-pop-head");
+    const bodyEl = pop.querySelector(".verse-pop-body");
+    const citeEl = pop.querySelector(".verse-pop-cite");
+    let hideTimer;
+    let active = null;
+
+    function fetchRef(ref) {
+      if (cache.has(ref)) return cache.get(ref);
+      const p = fetch("https://bible-api.com/" + encodeURIComponent(ref))
+        .then((r) => (r.ok ? r.json() : Promise.reject()))
+        .then((d) => ({
+          reference: d.reference || ref,
+          text: (d.text || "").replace(/\s+\n/g, "\n").trim(),
+          translation: d.translation_name || "",
+        }))
+        .catch(() => null);
+      cache.set(ref, p);
+      return p;
+    }
+
+    function place(target) {
+      const r = target.getBoundingClientRect();
+      const width = Math.min(400, window.innerWidth - 24);
+      pop.style.width = width + "px";
+      let left = window.scrollX + r.left;
+      left = Math.min(left, window.scrollX + window.innerWidth - width - 12);
+      left = Math.max(left, window.scrollX + 12);
+      pop.style.left = left + "px";
+      pop.style.top = window.scrollY + r.bottom + 8 + "px";
+    }
+
+    function show(target) {
+      clearTimeout(hideTimer);
+      active = target;
+      const ref = target.dataset.ref;
+      headEl.textContent = ref;
+      bodyEl.textContent = "Loading…";
+      citeEl.textContent = "";
+      place(target);
+      pop.hidden = false;
+      fetchRef(ref).then((data) => {
+        if (pop.hidden || active !== target) return;
+        if (!data) {
+          bodyEl.textContent = "Couldn't load this passage.";
+          return;
+        }
+        headEl.textContent = data.reference;
+        bodyEl.textContent = data.text;
+        citeEl.textContent = data.translation;
+        place(target);
+      });
+    }
+
+    function scheduleHide() {
+      hideTimer = setTimeout(() => {
+        pop.hidden = true;
+        active = null;
+      }, 200);
+    }
+
+    verses.forEach((el) => {
+      el.addEventListener("mouseenter", () => show(el));
+      el.addEventListener("mouseleave", scheduleHide);
+      el.addEventListener("focus", () => show(el));
+      el.addEventListener("blur", () => {
+        pop.hidden = true;
+        active = null;
+      });
+      el.addEventListener("click", (e) => {
+        e.preventDefault();
+        show(el);
+      });
+    });
+    pop.addEventListener("mouseenter", () => clearTimeout(hideTimer));
+    pop.addEventListener("mouseleave", scheduleHide);
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape") {
+        pop.hidden = true;
+        active = null;
+      }
+    });
+  }
 })();
 </script>
 </body>

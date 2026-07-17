@@ -56,12 +56,14 @@
     </div>
   </header>
 
-  <div class="player-shell" id="player-shell">
-    <iframe id="player" src="https://player.vimeo.com/video/252204226" title="Wed Bible Study - Leviticus Lesson 2" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <div class="player-dock" id="player-dock">
+    <div class="player-shell" id="player-shell">
+      <iframe id="player" src="https://player.vimeo.com/video/252204226" title="Wed Bible Study - Leviticus Lesson 2" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+    </div>
   </div>
 
   <section class="transcript" id="transcript" data-platform="vimeo">
-    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment.</p>
+    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment, or hover a <span class="verse verse-legend">Bible reference</span> to read the passage.</p>
     <div class="para" id="p0">
       <button class="ts" data-t="0" title="Play from 0:00">0:00</button>
       <p>Well, if you would please turn your Bibles over to the book of Leviticus, chapter 19. Okay, I&#39;m going to read you kind of an interesting section of the Scripture, starting from verse 9 down to verse 16. It&#39;s a list of various laws that God has given. And then we&#39;ll take a moment to pray and jump in. In Leviticus chapter 19, verse 9, it says, &#34;Now when you reap the harvest of your land, you shall not reap to the very corners of your field, nor shall you gather the gleanings of your harvest, nor shall you glean your vineyard, nor shall you gather the fallen fruit of your vineyard.</p>
@@ -180,7 +182,7 @@
     </div>
     <div class="para" id="p29">
       <button class="ts" data-t="1563" title="Play from 26:03">26:03</button>
-      <p>But then the application practically, for practical holy living, when you see that God&#39;s command is beyond principles, what you&#39;re trying to shoot for is imitation. Imitation of God&#39;s character. There&#39;s a passage for us over in 1 John 2, verse 6. Okay, 1 John 2, verse 6. It says this, &#34;The one who says he abides in him ought himself to walk in the same manner.&#34; If you say you have Christ in you, and his Holy Spirit is working in your mind and heart, then you need to walk like him. You see, for me, I think this is good. This is really, really good. Because I&#39;m going to be honest with you, when the scriptures talk about this idea of being expressive, your passion, and the whole commandment earlier about relationship, I mean, I&#39;m going to confess, even in my own marriage, that&#39;s a big learning process.</p>
+      <p>But then the application practically, for practical holy living, when you see that God&#39;s command is beyond principles, what you&#39;re trying to shoot for is imitation. Imitation of God&#39;s character. There&#39;s a passage for us over in <span class="verse" data-ref="1 John 2" tabindex="0" role="button">1 John 2</span>, verse 6. Okay, <span class="verse" data-ref="1 John 2" tabindex="0" role="button">1 John 2</span>, verse 6. It says this, &#34;The one who says he abides in him ought himself to walk in the same manner.&#34; If you say you have Christ in you, and his Holy Spirit is working in your mind and heart, then you need to walk like him. You see, for me, I think this is good. This is really, really good. Because I&#39;m going to be honest with you, when the scriptures talk about this idea of being expressive, your passion, and the whole commandment earlier about relationship, I mean, I&#39;m going to confess, even in my own marriage, that&#39;s a big learning process.</p>
     </div>
     <div class="para" id="p30">
       <button class="ts" data-t="1624" title="Play from 27:04">27:04</button>
@@ -294,6 +296,104 @@
   // re-align after fonts/iframe settle layout
   window.addEventListener("load", highlightFromHash);
   highlightFromHash();
+
+  // --- Bible reference popovers -------------------------------------------
+  // References detected in the transcript are wrapped in <span class="verse">.
+  // Hover/focus/tap one and we fetch the passage text from bible-api.com
+  // (World English Bible, public domain, CORS-enabled) and show it inline.
+  const verses = document.querySelectorAll(".verse[data-ref]");
+  if (verses.length) {
+    const cache = new Map();
+    const pop = document.createElement("div");
+    pop.className = "verse-pop";
+    pop.hidden = true;
+    pop.innerHTML =
+      '<div class="verse-pop-head"></div>' +
+      '<div class="verse-pop-body"></div>' +
+      '<div class="verse-pop-cite"></div>';
+    document.body.appendChild(pop);
+    const headEl = pop.querySelector(".verse-pop-head");
+    const bodyEl = pop.querySelector(".verse-pop-body");
+    const citeEl = pop.querySelector(".verse-pop-cite");
+    let hideTimer;
+    let active = null;
+
+    function fetchRef(ref) {
+      if (cache.has(ref)) return cache.get(ref);
+      const p = fetch("https://bible-api.com/" + encodeURIComponent(ref))
+        .then((r) => (r.ok ? r.json() : Promise.reject()))
+        .then((d) => ({
+          reference: d.reference || ref,
+          text: (d.text || "").replace(/\s+\n/g, "\n").trim(),
+          translation: d.translation_name || "",
+        }))
+        .catch(() => null);
+      cache.set(ref, p);
+      return p;
+    }
+
+    function place(target) {
+      const r = target.getBoundingClientRect();
+      const width = Math.min(400, window.innerWidth - 24);
+      pop.style.width = width + "px";
+      let left = window.scrollX + r.left;
+      left = Math.min(left, window.scrollX + window.innerWidth - width - 12);
+      left = Math.max(left, window.scrollX + 12);
+      pop.style.left = left + "px";
+      pop.style.top = window.scrollY + r.bottom + 8 + "px";
+    }
+
+    function show(target) {
+      clearTimeout(hideTimer);
+      active = target;
+      const ref = target.dataset.ref;
+      headEl.textContent = ref;
+      bodyEl.textContent = "Loading…";
+      citeEl.textContent = "";
+      place(target);
+      pop.hidden = false;
+      fetchRef(ref).then((data) => {
+        if (pop.hidden || active !== target) return;
+        if (!data) {
+          bodyEl.textContent = "Couldn't load this passage.";
+          return;
+        }
+        headEl.textContent = data.reference;
+        bodyEl.textContent = data.text;
+        citeEl.textContent = data.translation;
+        place(target);
+      });
+    }
+
+    function scheduleHide() {
+      hideTimer = setTimeout(() => {
+        pop.hidden = true;
+        active = null;
+      }, 200);
+    }
+
+    verses.forEach((el) => {
+      el.addEventListener("mouseenter", () => show(el));
+      el.addEventListener("mouseleave", scheduleHide);
+      el.addEventListener("focus", () => show(el));
+      el.addEventListener("blur", () => {
+        pop.hidden = true;
+        active = null;
+      });
+      el.addEventListener("click", (e) => {
+        e.preventDefault();
+        show(el);
+      });
+    });
+    pop.addEventListener("mouseenter", () => clearTimeout(hideTimer));
+    pop.addEventListener("mouseleave", scheduleHide);
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape") {
+        pop.hidden = true;
+        active = null;
+      }
+    });
+  }
 })();
 </script>
 </body>

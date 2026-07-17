@@ -56,12 +56,14 @@
     </div>
   </header>
 
-  <div class="player-shell" id="player-shell">
-    <iframe id="player" src="https://player.vimeo.com/video/204944175" title="2017-02-19 Pastor James Lee (Guest Speaker)" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <div class="player-dock" id="player-dock">
+    <div class="player-shell" id="player-shell">
+      <iframe id="player" src="https://player.vimeo.com/video/204944175" title="2017-02-19 Pastor James Lee (Guest Speaker)" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+    </div>
   </div>
 
   <section class="transcript" id="transcript" data-platform="vimeo">
-    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment.</p>
+    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment, or hover a <span class="verse verse-legend">Bible reference</span> to read the passage.</p>
     <div class="para" id="p0">
       <button class="ts" data-t="0" title="Play from 0:00">0:00</button>
       <p>- All right, well thank you for having me come and just deliver God&#39;s Word for you. It really is a joy and a pleasure to just administer to all of you here. You guys have been a huge blessing to me personally and to our church. I know a lot of our members at our church have friends here and so it&#39;s just good to know that there&#39;s like a, almost like a sister church with which we can labor for the kingdom. And you know, I wanna say that I&#39;m so thankful for your pastor. Pastor Peter is just an amazing guy. I was so humbled that he would ask me to come and minister with him out in India. And it&#39;s, I love doing ministry out there. It was amazing. I mean, you saw the update and everything, but I loved spending time with your pastor.</p>
@@ -120,7 +122,7 @@
     </div>
     <div class="para" id="p14">
       <button class="ts" data-t="638" title="Play from 10:38">10:38</button>
-      <p>Because only by the proclamation of truth will lives be saved. Because the gospel is the power of God for the salvation of mankind. And only by the proclamation of truth will people be sanctified. Because the death and the resurrection of Jesus Christ is the emanation of the glory of God, and it&#39;s the glory of God that sanctifies us. And only by the proclamation of the truth will the church be reminded to wait for the king who is going to return, all for the glory of God. First Corinthians 1.22-24 says, &#34;For Jews demand signs and Greeks seek wisdom. &#34;But we preach Christ crucified, &#34;a stumbling block to Jews and folly to Gentiles. &#34;But to those who are called, both Jews and Greeks, &#34;Christ, the power of God and the wisdom of God.&#34;</p>
+      <p>Because only by the proclamation of truth will lives be saved. Because the gospel is the power of God for the salvation of mankind. And only by the proclamation of truth will people be sanctified. Because the death and the resurrection of Jesus Christ is the emanation of the glory of God, and it&#39;s the glory of God that sanctifies us. And only by the proclamation of the truth will the church be reminded to wait for the king who is going to return, all for the glory of God. <span class="verse" data-ref="1 Corinthians 1" tabindex="0" role="button">First Corinthians 1</span>.22-24 says, &#34;For Jews demand signs and Greeks seek wisdom. &#34;But we preach Christ crucified, &#34;a stumbling block to Jews and folly to Gentiles. &#34;But to those who are called, both Jews and Greeks, &#34;Christ, the power of God and the wisdom of God.&#34;</p>
     </div>
     <div class="para" id="p15">
       <button class="ts" data-t="680" title="Play from 11:20">11:20</button>
@@ -240,7 +242,7 @@
     </div>
     <div class="para" id="p44">
       <button class="ts" data-t="1939" title="Play from 32:19">32:19</button>
-      <p>Absolutely, and absolutely. But it doesn&#39;t mean that they themselves aren&#39;t gonna get anything from it, because now as a whole, they move forward towards their goal. And this kind of communal growth can happen in the church because it&#39;s not about the individual. It&#39;s the church, it&#39;s about the community. Take your Bibles and turn with me to Ephesians 4, verse one to 13. Or 11 to 13, sorry. Ephesians 4, verse 11 to verse 13. Ephesians 4, verse 11 to verse 13. It says, &#34;And he gave the apostles, the prophets, &#34;the evangelists, the shepherds, and teachers &#34;to equip the saints for the work of the ministry, &#34;for the building up the body of Christ,&#34; listen to this, &#34;until we all attain &#34;to the unity of the faith &#34;and the knowledge of the Son of God, &#34;to mature manhood, to the measure of the stature &#34;of the fullness of Christ.&#34;</p>
+      <p>Absolutely, and absolutely. But it doesn&#39;t mean that they themselves aren&#39;t gonna get anything from it, because now as a whole, they move forward towards their goal. And this kind of communal growth can happen in the church because it&#39;s not about the individual. It&#39;s the church, it&#39;s about the community. Take your Bibles and turn with me to <span class="verse" data-ref="Ephesians 4" tabindex="0" role="button">Ephesians 4</span>, verse one to 13. Or 11 to 13, sorry. <span class="verse" data-ref="Ephesians 4" tabindex="0" role="button">Ephesians 4</span>, verse 11 to verse 13. <span class="verse" data-ref="Ephesians 4" tabindex="0" role="button">Ephesians 4</span>, verse 11 to verse 13. It says, &#34;And he gave the apostles, the prophets, &#34;the evangelists, the shepherds, and teachers &#34;to equip the saints for the work of the ministry, &#34;for the building up the body of Christ,&#34; listen to this, &#34;until we all attain &#34;to the unity of the faith &#34;and the knowledge of the Son of God, &#34;to mature manhood, to the measure of the stature &#34;of the fullness of Christ.&#34;</p>
     </div>
     <div class="para" id="p45">
       <button class="ts" data-t="2006" title="Play from 33:26">33:26</button>
@@ -310,6 +312,104 @@
   // re-align after fonts/iframe settle layout
   window.addEventListener("load", highlightFromHash);
   highlightFromHash();
+
+  // --- Bible reference popovers -------------------------------------------
+  // References detected in the transcript are wrapped in <span class="verse">.
+  // Hover/focus/tap one and we fetch the passage text from bible-api.com
+  // (World English Bible, public domain, CORS-enabled) and show it inline.
+  const verses = document.querySelectorAll(".verse[data-ref]");
+  if (verses.length) {
+    const cache = new Map();
+    const pop = document.createElement("div");
+    pop.className = "verse-pop";
+    pop.hidden = true;
+    pop.innerHTML =
+      '<div class="verse-pop-head"></div>' +
+      '<div class="verse-pop-body"></div>' +
+      '<div class="verse-pop-cite"></div>';
+    document.body.appendChild(pop);
+    const headEl = pop.querySelector(".verse-pop-head");
+    const bodyEl = pop.querySelector(".verse-pop-body");
+    const citeEl = pop.querySelector(".verse-pop-cite");
+    let hideTimer;
+    let active = null;
+
+    function fetchRef(ref) {
+      if (cache.has(ref)) return cache.get(ref);
+      const p = fetch("https://bible-api.com/" + encodeURIComponent(ref))
+        .then((r) => (r.ok ? r.json() : Promise.reject()))
+        .then((d) => ({
+          reference: d.reference || ref,
+          text: (d.text || "").replace(/\s+\n/g, "\n").trim(),
+          translation: d.translation_name || "",
+        }))
+        .catch(() => null);
+      cache.set(ref, p);
+      return p;
+    }
+
+    function place(target) {
+      const r = target.getBoundingClientRect();
+      const width = Math.min(400, window.innerWidth - 24);
+      pop.style.width = width + "px";
+      let left = window.scrollX + r.left;
+      left = Math.min(left, window.scrollX + window.innerWidth - width - 12);
+      left = Math.max(left, window.scrollX + 12);
+      pop.style.left = left + "px";
+      pop.style.top = window.scrollY + r.bottom + 8 + "px";
+    }
+
+    function show(target) {
+      clearTimeout(hideTimer);
+      active = target;
+      const ref = target.dataset.ref;
+      headEl.textContent = ref;
+      bodyEl.textContent = "Loading…";
+      citeEl.textContent = "";
+      place(target);
+      pop.hidden = false;
+      fetchRef(ref).then((data) => {
+        if (pop.hidden || active !== target) return;
+        if (!data) {
+          bodyEl.textContent = "Couldn't load this passage.";
+          return;
+        }
+        headEl.textContent = data.reference;
+        bodyEl.textContent = data.text;
+        citeEl.textContent = data.translation;
+        place(target);
+      });
+    }
+
+    function scheduleHide() {
+      hideTimer = setTimeout(() => {
+        pop.hidden = true;
+        active = null;
+      }, 200);
+    }
+
+    verses.forEach((el) => {
+      el.addEventListener("mouseenter", () => show(el));
+      el.addEventListener("mouseleave", scheduleHide);
+      el.addEventListener("focus", () => show(el));
+      el.addEventListener("blur", () => {
+        pop.hidden = true;
+        active = null;
+      });
+      el.addEventListener("click", (e) => {
+        e.preventDefault();
+        show(el);
+      });
+    });
+    pop.addEventListener("mouseenter", () => clearTimeout(hideTimer));
+    pop.addEventListener("mouseleave", scheduleHide);
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape") {
+        pop.hidden = true;
+        active = null;
+      }
+    });
+  }
 })();
 </script>
 </body>

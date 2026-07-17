@@ -56,12 +56,14 @@
     </div>
   </header>
 
-  <div class="player-shell" id="player-shell">
-    <iframe id="player" src="https://player.vimeo.com/video/359627898" title="Family Retreat Seminar: Cyber Security" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <div class="player-dock" id="player-dock">
+    <div class="player-shell" id="player-shell">
+      <iframe id="player" src="https://player.vimeo.com/video/359627898" title="Family Retreat Seminar: Cyber Security" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+    </div>
   </div>
 
   <section class="transcript" id="transcript" data-platform="vimeo">
-    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment.</p>
+    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment, or hover a <span class="verse verse-legend">Bible reference</span> to read the passage.</p>
     <div class="para" id="p0">
       <button class="ts" data-t="0" title="Play from 0:00">0:00</button>
       <p>Welcome to Cybersecurity and Internet Safety for Kids. Why don&#39;t we go ahead and pray and then we&#39;ll jump into the seminar today. Father, we thank you for just the opportunity to talk about some practical things that parents deal with, that we deal with for God&#39;s sake in this world. Lord, as we&#39;ve been encouraged by anchoring to Christ, I pray Lord God that you continue to motivate us to look at things Lord God would spiritualize, that you give us much wisdom as we try to raise our kids in awareness, but most importantly Lord God that we pray that we can have just the opportunity to share the gospel with them that they can come to know you from an early age. So with all the challenges that we face in this world I pray that we glean some wisdom from today&#39;s seminar and may you use it for your glory as in all things that we do.</p>
@@ -80,11 +82,11 @@
     </div>
     <div class="para" id="p4">
       <button class="ts" data-t="260" title="Play from 4:20">4:20</button>
-      <p>So this goes on for four minutes. If you look confused, you have to lift the phone if you&#39;re too young to understand. I&#39;m not going to call you out. I can see it in your face. All right. So the agenda. So how does this relate to Christianity? Some current trends, some risks of devices and social media, and then what to do with those things. So the Christian perspective. So being naive is not your calling as a believer. We&#39;re not expected to just let the world kind of dictate how we process the Internet and cybersecurity. So Matthew 10, 16, 17 says, &#34;I&#39;m sending you out like sheep among wolves. Therefore, be as shrewd as snakes and as innocent as devils. Be on your guard and you&#39;ll be handed over to local councils and be flogged and sent to the guards.&#34;</p>
+      <p>So this goes on for four minutes. If you look confused, you have to lift the phone if you&#39;re too young to understand. I&#39;m not going to call you out. I can see it in your face. All right. So the agenda. So how does this relate to Christianity? Some current trends, some risks of devices and social media, and then what to do with those things. So the Christian perspective. So being naive is not your calling as a believer. We&#39;re not expected to just let the world kind of dictate how we process the Internet and cybersecurity. So <span class="verse" data-ref="Matthew 10" tabindex="0" role="button">Matthew 10</span>, 16, 17 says, &#34;I&#39;m sending you out like sheep among wolves. Therefore, be as shrewd as snakes and as innocent as devils. Be on your guard and you&#39;ll be handed over to local councils and be flogged and sent to the guards.&#34;</p>
     </div>
     <div class="para" id="p5">
       <button class="ts" data-t="319" title="Play from 5:19">5:19</button>
-      <p>So obviously not directly related to cybersecurity for the disciples back then, but this is the principle that the world is after us. We&#39;re its enemy. So know your enemy. Ephesians 2.2, we did that this morning. &#34;In the way you used to live, when you followed the ways of this world and of the ruler of the kingdom of the air, the spirit who is now at work and those who are disobedient, remember, we have an enemy.&#34; Spiritual insight and where we&#39;re taught connects us to evaluating physical world applications. So when we think of how we function in the world, we&#39;ve got to think with a biblical worldview. So how does a biblical worldview dictate how we respond and how we protect and how we use the Internet?</p>
+      <p>So obviously not directly related to cybersecurity for the disciples back then, but this is the principle that the world is after us. We&#39;re its enemy. So know your enemy. <span class="verse" data-ref="Ephesians 2" tabindex="0" role="button">Ephesians 2</span>.2, we did that this morning. &#34;In the way you used to live, when you followed the ways of this world and of the ruler of the kingdom of the air, the spirit who is now at work and those who are disobedient, remember, we have an enemy.&#34; Spiritual insight and where we&#39;re taught connects us to evaluating physical world applications. So when we think of how we function in the world, we&#39;ve got to think with a biblical worldview. So how does a biblical worldview dictate how we respond and how we protect and how we use the Internet?</p>
     </div>
     <div class="para" id="p6">
       <button class="ts" data-t="367" title="Play from 6:07">6:07</button>
@@ -206,6 +208,104 @@
   // re-align after fonts/iframe settle layout
   window.addEventListener("load", highlightFromHash);
   highlightFromHash();
+
+  // --- Bible reference popovers -------------------------------------------
+  // References detected in the transcript are wrapped in <span class="verse">.
+  // Hover/focus/tap one and we fetch the passage text from bible-api.com
+  // (World English Bible, public domain, CORS-enabled) and show it inline.
+  const verses = document.querySelectorAll(".verse[data-ref]");
+  if (verses.length) {
+    const cache = new Map();
+    const pop = document.createElement("div");
+    pop.className = "verse-pop";
+    pop.hidden = true;
+    pop.innerHTML =
+      '<div class="verse-pop-head"></div>' +
+      '<div class="verse-pop-body"></div>' +
+      '<div class="verse-pop-cite"></div>';
+    document.body.appendChild(pop);
+    const headEl = pop.querySelector(".verse-pop-head");
+    const bodyEl = pop.querySelector(".verse-pop-body");
+    const citeEl = pop.querySelector(".verse-pop-cite");
+    let hideTimer;
+    let active = null;
+
+    function fetchRef(ref) {
+      if (cache.has(ref)) return cache.get(ref);
+      const p = fetch("https://bible-api.com/" + encodeURIComponent(ref))
+        .then((r) => (r.ok ? r.json() : Promise.reject()))
+        .then((d) => ({
+          reference: d.reference || ref,
+          text: (d.text || "").replace(/\s+\n/g, "\n").trim(),
+          translation: d.translation_name || "",
+        }))
+        .catch(() => null);
+      cache.set(ref, p);
+      return p;
+    }
+
+    function place(target) {
+      const r = target.getBoundingClientRect();
+      const width = Math.min(400, window.innerWidth - 24);
+      pop.style.width = width + "px";
+      let left = window.scrollX + r.left;
+      left = Math.min(left, window.scrollX + window.innerWidth - width - 12);
+      left = Math.max(left, window.scrollX + 12);
+      pop.style.left = left + "px";
+      pop.style.top = window.scrollY + r.bottom + 8 + "px";
+    }
+
+    function show(target) {
+      clearTimeout(hideTimer);
+      active = target;
+      const ref = target.dataset.ref;
+      headEl.textContent = ref;
+      bodyEl.textContent = "Loading…";
+      citeEl.textContent = "";
+      place(target);
+      pop.hidden = false;
+      fetchRef(ref).then((data) => {
+        if (pop.hidden || active !== target) return;
+        if (!data) {
+          bodyEl.textContent = "Couldn't load this passage.";
+          return;
+        }
+        headEl.textContent = data.reference;
+        bodyEl.textContent = data.text;
+        citeEl.textContent = data.translation;
+        place(target);
+      });
+    }
+
+    function scheduleHide() {
+      hideTimer = setTimeout(() => {
+        pop.hidden = true;
+        active = null;
+      }, 200);
+    }
+
+    verses.forEach((el) => {
+      el.addEventListener("mouseenter", () => show(el));
+      el.addEventListener("mouseleave", scheduleHide);
+      el.addEventListener("focus", () => show(el));
+      el.addEventListener("blur", () => {
+        pop.hidden = true;
+        active = null;
+      });
+      el.addEventListener("click", (e) => {
+        e.preventDefault();
+        show(el);
+      });
+    });
+    pop.addEventListener("mouseenter", () => clearTimeout(hideTimer));
+    pop.addEventListener("mouseleave", scheduleHide);
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape") {
+        pop.hidden = true;
+        active = null;
+      }
+    });
+  }
 })();
 </script>
 </body>

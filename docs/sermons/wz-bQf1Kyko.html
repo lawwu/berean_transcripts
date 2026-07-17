@@ -56,12 +56,14 @@
     </div>
   </header>
 
-  <div class="player-shell" id="player-shell">
-    <iframe id="player" src="https://www.youtube-nocookie.com/embed/wz-bQf1Kyko?enablejsapi=1" title="Praise and Prayer (5/8/26) | Pastor Seung Kang" allow="accelerometer; autoplay; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <div class="player-dock" id="player-dock">
+    <div class="player-shell" id="player-shell">
+      <iframe id="player" src="https://www.youtube-nocookie.com/embed/wz-bQf1Kyko?enablejsapi=1" title="Praise and Prayer (5/8/26) | Pastor Seung Kang" allow="accelerometer; autoplay; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+    </div>
   </div>
 
   <section class="transcript" id="transcript" data-platform="youtube">
-    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment.</p>
+    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment, or hover a <span class="verse verse-legend">Bible reference</span> to read the passage.</p>
     <div class="para" id="p0">
       <button class="ts" data-t="0" title="Play from 0:00">0:00</button>
       <p>Thank you. Thank you.</p>
@@ -112,11 +114,11 @@
     </div>
     <div class="para" id="p12">
       <button class="ts" data-t="1729" title="Play from 28:49">28:49</button>
-      <p>Jesus, be glorified, Jesus, be magnified, and meet me a pleasing sacrifice, Jesus, be glorified, Jesus, be magnified, here at the altar. My life is an offer to me Again, good evening, church. Tonight&#39;s topic is going to be on revival, and the topic for our message is revival. So I&#39;m going to read for you 2 Chronicles 7, verse 11-14 as our text for the evening.</p>
+      <p>Jesus, be glorified, Jesus, be magnified, and meet me a pleasing sacrifice, Jesus, be glorified, Jesus, be magnified, here at the altar. My life is an offer to me Again, good evening, church. Tonight&#39;s topic is going to be on revival, and the topic for our message is revival. So I&#39;m going to read for you <span class="verse" data-ref="2 Chronicles 7" tabindex="0" role="button">2 Chronicles 7</span>, verse 11-14 as our text for the evening.</p>
     </div>
     <div class="para" id="p13">
       <button class="ts" data-t="1799" title="Play from 29:59">29:59</button>
-      <p>So 2 Chronicles 7, verse 11-14. Then the Lord appeared to Solomon at night and said to him, I have heard your prayer and have chosen this place for myself as a house of sacrifice. If I shut up the heavens so that there is no rain, or if I command the locusts to devour the land, or if I send pestilence among my people, and my people, who are called by my name, humble themselves and pray and seek my face and turn from their wicked ways, then I will hear from heaven, will forgive their sin, and will heal their land. Now let me give you some context to the text that we just read. Solomon just had completed construction on the temple, and he dedicated the temple to the Lord. And Solomon prayed during this dedication ceremony, hollowing God&#39;s name, thanking God for fulfilling his promise to his father David to always have a successor on the throne and to build a temple for his name.</p>
+      <p>So <span class="verse" data-ref="2 Chronicles 7" tabindex="0" role="button">2 Chronicles 7</span>, verse 11-14. Then the Lord appeared to Solomon at night and said to him, I have heard your prayer and have chosen this place for myself as a house of sacrifice. If I shut up the heavens so that there is no rain, or if I command the locusts to devour the land, or if I send pestilence among my people, and my people, who are called by my name, humble themselves and pray and seek my face and turn from their wicked ways, then I will hear from heaven, will forgive their sin, and will heal their land. Now let me give you some context to the text that we just read. Solomon just had completed construction on the temple, and he dedicated the temple to the Lord. And Solomon prayed during this dedication ceremony, hollowing God&#39;s name, thanking God for fulfilling his promise to his father David to always have a successor on the throne and to build a temple for his name.</p>
     </div>
     <div class="para" id="p14">
       <button class="ts" data-t="1858" title="Play from 30:58">30:58</button>
@@ -216,7 +218,7 @@
     </div>
     <div class="para" id="p38">
       <button class="ts" data-t="3372" title="Play from 56:12">56:12</button>
-      <p>we want revival to happen in the world if we want to see this kind of revival happen in our generation in our time revival must happen with the church first it must happen with us it must happen with me it has to take place with me before it takes place anywhere else and so I want to exhort everyone here to pray pray to the Lord that revival happens with the Lord&#39;s people pray that his people called by his name will humble themselves to pray and to seek his face turning from their wicked ways pray that the Lord will revive your own heart first don&#39;t pray Lord revive them what you should be praying is Lord revive me first just like David wrote in Psalm 139 he says search me oh God and know my heart try me and know my anxious thoughts and see if there be any hurtful way in me and leave me or lead me in the everlasting way true revival must happen with us true revival must happen with us and that is why we&#39;re going to take some time to pray and the first thing that we&#39;re going to pray for is to ask God to search your own heart to reveal anything in your life that is not right with him?</p>
+      <p>we want revival to happen in the world if we want to see this kind of revival happen in our generation in our time revival must happen with the church first it must happen with us it must happen with me it has to take place with me before it takes place anywhere else and so I want to exhort everyone here to pray pray to the Lord that revival happens with the Lord&#39;s people pray that his people called by his name will humble themselves to pray and to seek his face turning from their wicked ways pray that the Lord will revive your own heart first don&#39;t pray Lord revive them what you should be praying is Lord revive me first just like David wrote in <span class="verse" data-ref="Psalms 139" tabindex="0" role="button">Psalm 139</span> he says search me oh God and know my heart try me and know my anxious thoughts and see if there be any hurtful way in me and leave me or lead me in the everlasting way true revival must happen with us true revival must happen with us and that is why we&#39;re going to take some time to pray and the first thing that we&#39;re going to pray for is to ask God to search your own heart to reveal anything in your life that is not right with him?</p>
     </div>
     <div class="para" id="p39">
       <button class="ts" data-t="3483" title="Play from 58:03">58:03</button>
@@ -322,6 +324,104 @@
   // re-align after fonts/iframe settle layout
   window.addEventListener("load", highlightFromHash);
   highlightFromHash();
+
+  // --- Bible reference popovers -------------------------------------------
+  // References detected in the transcript are wrapped in <span class="verse">.
+  // Hover/focus/tap one and we fetch the passage text from bible-api.com
+  // (World English Bible, public domain, CORS-enabled) and show it inline.
+  const verses = document.querySelectorAll(".verse[data-ref]");
+  if (verses.length) {
+    const cache = new Map();
+    const pop = document.createElement("div");
+    pop.className = "verse-pop";
+    pop.hidden = true;
+    pop.innerHTML =
+      '<div class="verse-pop-head"></div>' +
+      '<div class="verse-pop-body"></div>' +
+      '<div class="verse-pop-cite"></div>';
+    document.body.appendChild(pop);
+    const headEl = pop.querySelector(".verse-pop-head");
+    const bodyEl = pop.querySelector(".verse-pop-body");
+    const citeEl = pop.querySelector(".verse-pop-cite");
+    let hideTimer;
+    let active = null;
+
+    function fetchRef(ref) {
+      if (cache.has(ref)) return cache.get(ref);
+      const p = fetch("https://bible-api.com/" + encodeURIComponent(ref))
+        .then((r) => (r.ok ? r.json() : Promise.reject()))
+        .then((d) => ({
+          reference: d.reference || ref,
+          text: (d.text || "").replace(/\s+\n/g, "\n").trim(),
+          translation: d.translation_name || "",
+        }))
+        .catch(() => null);
+      cache.set(ref, p);
+      return p;
+    }
+
+    function place(target) {
+      const r = target.getBoundingClientRect();
+      const width = Math.min(400, window.innerWidth - 24);
+      pop.style.width = width + "px";
+      let left = window.scrollX + r.left;
+      left = Math.min(left, window.scrollX + window.innerWidth - width - 12);
+      left = Math.max(left, window.scrollX + 12);
+      pop.style.left = left + "px";
+      pop.style.top = window.scrollY + r.bottom + 8 + "px";
+    }
+
+    function show(target) {
+      clearTimeout(hideTimer);
+      active = target;
+      const ref = target.dataset.ref;
+      headEl.textContent = ref;
+      bodyEl.textContent = "Loading…";
+      citeEl.textContent = "";
+      place(target);
+      pop.hidden = false;
+      fetchRef(ref).then((data) => {
+        if (pop.hidden || active !== target) return;
+        if (!data) {
+          bodyEl.textContent = "Couldn't load this passage.";
+          return;
+        }
+        headEl.textContent = data.reference;
+        bodyEl.textContent = data.text;
+        citeEl.textContent = data.translation;
+        place(target);
+      });
+    }
+
+    function scheduleHide() {
+      hideTimer = setTimeout(() => {
+        pop.hidden = true;
+        active = null;
+      }, 200);
+    }
+
+    verses.forEach((el) => {
+      el.addEventListener("mouseenter", () => show(el));
+      el.addEventListener("mouseleave", scheduleHide);
+      el.addEventListener("focus", () => show(el));
+      el.addEventListener("blur", () => {
+        pop.hidden = true;
+        active = null;
+      });
+      el.addEventListener("click", (e) => {
+        e.preventDefault();
+        show(el);
+      });
+    });
+    pop.addEventListener("mouseenter", () => clearTimeout(hideTimer));
+    pop.addEventListener("mouseleave", scheduleHide);
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape") {
+        pop.hidden = true;
+        active = null;
+      }
+    });
+  }
 })();
 </script>
 </body>

@@ -56,12 +56,14 @@
     </div>
   </header>
 
-  <div class="player-shell" id="player-shell">
-    <iframe id="player" src="https://player.vimeo.com/video/334316634" title="2019-05-05 Two Hearts" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <div class="player-dock" id="player-dock">
+    <div class="player-shell" id="player-shell">
+      <iframe id="player" src="https://player.vimeo.com/video/334316634" title="2019-05-05 Two Hearts" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+    </div>
   </div>
 
   <section class="transcript" id="transcript" data-platform="vimeo">
-    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment.</p>
+    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment, or hover a <span class="verse verse-legend">Bible reference</span> to read the passage.</p>
     <div class="para" id="p0">
       <button class="ts" data-t="0" title="Play from 0:00">0:00</button>
       <p>So, let me read for us here, it says, &#34;Therefore, having these promises, beloved, let us cleanse ourselves from all defilement of flesh and spirit, perfecting holiness in the fear of God. Make room for us in your hearts. We wronged no one, we corrupted no one, we took advantage of no one. I do not speak to condemn you, for I have said before that you are in our hearts to die together and to live together. Great is my confidence in you. Great is my boasting on your behalf. I am filled with comfort. I am overflowing with joy in all your affliction. For even when we came into Macedonia, our flesh had no rest, but we were afflicted on every side, conflicts without, fears within. But God, who comforts the depressed, comforted us by the coming of Titus.</p>
@@ -168,7 +170,7 @@
     </div>
     <div class="para" id="p26">
       <button class="ts" data-t="1292" title="Play from 21:32">21:32</button>
-      <p>How dare you?&#34; You know, like, it would be crazy, right? I didn&#39;t even want to think about it. But that&#39;s what he&#39;s saying he&#39;s been through. The buildup from chapter one through chapter seven, Apostle Paul has been through loving his church, loving his church like a parent, and they regard him as a deceiver, and they question his intent. Wow. Talk about ouch, right? He says very clearly, &#34;Listen, I have had external pains, but there&#39;s no pain like getting hurt by my own children.&#34; Take a look at this, 2 Corinthians 11, verse 23 to 31. This is one of the more famous lists of Apostle Paul&#39;s difficulties and pains that he&#39;s been through. He says this starting from verse 23, &#34;Are they servants of Christ?</p>
+      <p>How dare you?&#34; You know, like, it would be crazy, right? I didn&#39;t even want to think about it. But that&#39;s what he&#39;s saying he&#39;s been through. The buildup from chapter one through chapter seven, Apostle Paul has been through loving his church, loving his church like a parent, and they regard him as a deceiver, and they question his intent. Wow. Talk about ouch, right? He says very clearly, &#34;Listen, I have had external pains, but there&#39;s no pain like getting hurt by my own children.&#34; Take a look at this, <span class="verse" data-ref="2 Corinthians 11" tabindex="0" role="button">2 Corinthians 11</span>, verse 23 to 31. This is one of the more famous lists of Apostle Paul&#39;s difficulties and pains that he&#39;s been through. He says this starting from verse 23, &#34;Are they servants of Christ?</p>
     </div>
     <div class="para" id="p27">
       <button class="ts" data-t="1346" title="Play from 22:26">22:26</button>
@@ -212,7 +214,7 @@
     </div>
     <div class="para" id="p37">
       <button class="ts" data-t="1899" title="Play from 31:39">31:39</button>
-      <p>And Apostle Paul models for us what John says in 3 John 3-4, &#34;For I was very glad when brethren came and testified to your truth, that is how you are walking in truth. I have no greater joy than this, to hear of my children walking in truth.&#34; This is the heart of every parent. Not that on Mother&#39;s Day, on Father&#39;s Day, like, &#34;There better be a banquet. You better show me your love.&#34; Like, that&#39;s not what parents are thinking. Parents want to know, &#34;Are you well? Are you walking in the way that you should?&#34; Now it is approaching that time where it&#39;s Mother&#39;s Day and Father&#39;s Day, so I just encourage every single one of you, show appreciation, you know? Show that gratitude. Show that understanding.</p>
+      <p>And Apostle Paul models for us what John says in <span class="verse" data-ref="3 John 3" tabindex="0" role="button">3 John 3</span>-4, &#34;For I was very glad when brethren came and testified to your truth, that is how you are walking in truth. I have no greater joy than this, to hear of my children walking in truth.&#34; This is the heart of every parent. Not that on Mother&#39;s Day, on Father&#39;s Day, like, &#34;There better be a banquet. You better show me your love.&#34; Like, that&#39;s not what parents are thinking. Parents want to know, &#34;Are you well? Are you walking in the way that you should?&#34; Now it is approaching that time where it&#39;s Mother&#39;s Day and Father&#39;s Day, so I just encourage every single one of you, show appreciation, you know? Show that gratitude. Show that understanding.</p>
     </div>
     <div class="para" id="p38">
       <button class="ts" data-t="1945" title="Play from 32:25">32:25</button>
@@ -358,6 +360,104 @@
   // re-align after fonts/iframe settle layout
   window.addEventListener("load", highlightFromHash);
   highlightFromHash();
+
+  // --- Bible reference popovers -------------------------------------------
+  // References detected in the transcript are wrapped in <span class="verse">.
+  // Hover/focus/tap one and we fetch the passage text from bible-api.com
+  // (World English Bible, public domain, CORS-enabled) and show it inline.
+  const verses = document.querySelectorAll(".verse[data-ref]");
+  if (verses.length) {
+    const cache = new Map();
+    const pop = document.createElement("div");
+    pop.className = "verse-pop";
+    pop.hidden = true;
+    pop.innerHTML =
+      '<div class="verse-pop-head"></div>' +
+      '<div class="verse-pop-body"></div>' +
+      '<div class="verse-pop-cite"></div>';
+    document.body.appendChild(pop);
+    const headEl = pop.querySelector(".verse-pop-head");
+    const bodyEl = pop.querySelector(".verse-pop-body");
+    const citeEl = pop.querySelector(".verse-pop-cite");
+    let hideTimer;
+    let active = null;
+
+    function fetchRef(ref) {
+      if (cache.has(ref)) return cache.get(ref);
+      const p = fetch("https://bible-api.com/" + encodeURIComponent(ref))
+        .then((r) => (r.ok ? r.json() : Promise.reject()))
+        .then((d) => ({
+          reference: d.reference || ref,
+          text: (d.text || "").replace(/\s+\n/g, "\n").trim(),
+          translation: d.translation_name || "",
+        }))
+        .catch(() => null);
+      cache.set(ref, p);
+      return p;
+    }
+
+    function place(target) {
+      const r = target.getBoundingClientRect();
+      const width = Math.min(400, window.innerWidth - 24);
+      pop.style.width = width + "px";
+      let left = window.scrollX + r.left;
+      left = Math.min(left, window.scrollX + window.innerWidth - width - 12);
+      left = Math.max(left, window.scrollX + 12);
+      pop.style.left = left + "px";
+      pop.style.top = window.scrollY + r.bottom + 8 + "px";
+    }
+
+    function show(target) {
+      clearTimeout(hideTimer);
+      active = target;
+      const ref = target.dataset.ref;
+      headEl.textContent = ref;
+      bodyEl.textContent = "Loading…";
+      citeEl.textContent = "";
+      place(target);
+      pop.hidden = false;
+      fetchRef(ref).then((data) => {
+        if (pop.hidden || active !== target) return;
+        if (!data) {
+          bodyEl.textContent = "Couldn't load this passage.";
+          return;
+        }
+        headEl.textContent = data.reference;
+        bodyEl.textContent = data.text;
+        citeEl.textContent = data.translation;
+        place(target);
+      });
+    }
+
+    function scheduleHide() {
+      hideTimer = setTimeout(() => {
+        pop.hidden = true;
+        active = null;
+      }, 200);
+    }
+
+    verses.forEach((el) => {
+      el.addEventListener("mouseenter", () => show(el));
+      el.addEventListener("mouseleave", scheduleHide);
+      el.addEventListener("focus", () => show(el));
+      el.addEventListener("blur", () => {
+        pop.hidden = true;
+        active = null;
+      });
+      el.addEventListener("click", (e) => {
+        e.preventDefault();
+        show(el);
+      });
+    });
+    pop.addEventListener("mouseenter", () => clearTimeout(hideTimer));
+    pop.addEventListener("mouseleave", scheduleHide);
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape") {
+        pop.hidden = true;
+        active = null;
+      }
+    });
+  }
 })();
 </script>
 </body>

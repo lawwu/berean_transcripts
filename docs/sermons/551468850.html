@@ -56,12 +56,14 @@
     </div>
   </header>
 
-  <div class="player-shell" id="player-shell">
-    <iframe id="player" src="https://player.vimeo.com/video/551468850" title="2021-05-16 Lauren Kim Baptism Testimony" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <div class="player-dock" id="player-dock">
+    <div class="player-shell" id="player-shell">
+      <iframe id="player" src="https://player.vimeo.com/video/551468850" title="2021-05-16 Lauren Kim Baptism Testimony" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+    </div>
   </div>
 
   <section class="transcript" id="transcript" data-platform="vimeo">
-    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment.</p>
+    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment, or hover a <span class="verse verse-legend">Bible reference</span> to read the passage.</p>
     <div class="para" id="p0">
       <button class="ts" data-t="0" title="Play from 0:00">0:00</button>
       <p>Hello, my name is Lauren. I&#39;m currently a third year public health science at UCI and this is my testimony. So unlike many of my peers, I never grew up in a church, nor did I grow up in a Christian household. The earliest memory I have of church was attending it with my grandparents here and there when I was younger. But after entering elementary school, I stopped going. Growing up, I was what you called a good kid. Never got in trouble by my teachers, obeyed my two loving and caring parents, didn&#39;t attend parties or intake alcohol or drugs, had a close group of friends that all got along well with each other, anything the world would see as ideal. However, in my senior year of high school, I began to be involved in different dating relationships.</p>
@@ -72,7 +74,7 @@
     </div>
     <div class="para" id="p2">
       <button class="ts" data-t="96" title="Play from 1:36">1:36</button>
-      <p>I was introduced to Berean Community Church by alumni from my high school. Many of you may know him as Eugene. I was drawn in by how welcoming the community was and the passion Pastor Peter had for the word. Before I realized, I was involved in small group, Friday Bible study, Sunday service, and campus ministry. I heard the gospel for the first time during small group my freshman year of college. For God so loved the world that he gave his only begotten son that whoever believes in him shall not perish but have eternal life, John 3:16. Through church, small group, and campus ministry, I was beginning to understand who God was and the consequences of sin. My faith wasn&#39;t tested until I was away from church for the summer my freshman year.</p>
+      <p>I was introduced to Berean Community Church by alumni from my high school. Many of you may know him as Eugene. I was drawn in by how welcoming the community was and the passion Pastor Peter had for the word. Before I realized, I was involved in small group, Friday Bible study, Sunday service, and campus ministry. I heard the gospel for the first time during small group my freshman year of college. For God so loved the world that he gave his only begotten son that whoever believes in him shall not perish but have eternal life, <span class="verse" data-ref="John 3:16" tabindex="0" role="button">John 3:16</span>. Through church, small group, and campus ministry, I was beginning to understand who God was and the consequences of sin. My faith wasn&#39;t tested until I was away from church for the summer my freshman year.</p>
     </div>
     <div class="para" id="p3">
       <button class="ts" data-t="146" title="Play from 2:26">2:26</button>
@@ -80,7 +82,7 @@
     </div>
     <div class="para" id="p4">
       <button class="ts" data-t="195" title="Play from 3:15">3:15</button>
-      <p>For all have sinned and fall short of the glory of God and are justified by his grace as a gift through the redemption that is in Christ Jesus who God put forward as appropriation by his blood to be received by faith, Romans 3, 23 to 25. God continues to write my story. I am far from perfect and I struggle with sin daily but I know that he is working in me and renewing me. I am blessed to be surrounded by communities of brothers and sisters that encourage and sharpen me and as Pastor Nate likes to say, &#34;Once saved, always persevere.&#34; I am no longer a slave to that through sin but redeemed and adopted into his kingdom. Truly this life is no longer mine to live but Christ who lives in me. Thank you.</p>
+      <p>For all have sinned and fall short of the glory of God and are justified by his grace as a gift through the redemption that is in Christ Jesus who God put forward as appropriation by his blood to be received by faith, <span class="verse" data-ref="Romans 3" tabindex="0" role="button">Romans 3</span>, 23 to 25. God continues to write my story. I am far from perfect and I struggle with sin daily but I know that he is working in me and renewing me. I am blessed to be surrounded by communities of brothers and sisters that encourage and sharpen me and as Pastor Nate likes to say, &#34;Once saved, always persevere.&#34; I am no longer a slave to that through sin but redeemed and adopted into his kingdom. Truly this life is no longer mine to live but Christ who lives in me. Thank you.</p>
     </div>
     <div class="para" id="p5">
       <button class="ts" data-t="242" title="Play from 4:02">4:02</button>
@@ -134,6 +136,104 @@
   // re-align after fonts/iframe settle layout
   window.addEventListener("load", highlightFromHash);
   highlightFromHash();
+
+  // --- Bible reference popovers -------------------------------------------
+  // References detected in the transcript are wrapped in <span class="verse">.
+  // Hover/focus/tap one and we fetch the passage text from bible-api.com
+  // (World English Bible, public domain, CORS-enabled) and show it inline.
+  const verses = document.querySelectorAll(".verse[data-ref]");
+  if (verses.length) {
+    const cache = new Map();
+    const pop = document.createElement("div");
+    pop.className = "verse-pop";
+    pop.hidden = true;
+    pop.innerHTML =
+      '<div class="verse-pop-head"></div>' +
+      '<div class="verse-pop-body"></div>' +
+      '<div class="verse-pop-cite"></div>';
+    document.body.appendChild(pop);
+    const headEl = pop.querySelector(".verse-pop-head");
+    const bodyEl = pop.querySelector(".verse-pop-body");
+    const citeEl = pop.querySelector(".verse-pop-cite");
+    let hideTimer;
+    let active = null;
+
+    function fetchRef(ref) {
+      if (cache.has(ref)) return cache.get(ref);
+      const p = fetch("https://bible-api.com/" + encodeURIComponent(ref))
+        .then((r) => (r.ok ? r.json() : Promise.reject()))
+        .then((d) => ({
+          reference: d.reference || ref,
+          text: (d.text || "").replace(/\s+\n/g, "\n").trim(),
+          translation: d.translation_name || "",
+        }))
+        .catch(() => null);
+      cache.set(ref, p);
+      return p;
+    }
+
+    function place(target) {
+      const r = target.getBoundingClientRect();
+      const width = Math.min(400, window.innerWidth - 24);
+      pop.style.width = width + "px";
+      let left = window.scrollX + r.left;
+      left = Math.min(left, window.scrollX + window.innerWidth - width - 12);
+      left = Math.max(left, window.scrollX + 12);
+      pop.style.left = left + "px";
+      pop.style.top = window.scrollY + r.bottom + 8 + "px";
+    }
+
+    function show(target) {
+      clearTimeout(hideTimer);
+      active = target;
+      const ref = target.dataset.ref;
+      headEl.textContent = ref;
+      bodyEl.textContent = "Loading…";
+      citeEl.textContent = "";
+      place(target);
+      pop.hidden = false;
+      fetchRef(ref).then((data) => {
+        if (pop.hidden || active !== target) return;
+        if (!data) {
+          bodyEl.textContent = "Couldn't load this passage.";
+          return;
+        }
+        headEl.textContent = data.reference;
+        bodyEl.textContent = data.text;
+        citeEl.textContent = data.translation;
+        place(target);
+      });
+    }
+
+    function scheduleHide() {
+      hideTimer = setTimeout(() => {
+        pop.hidden = true;
+        active = null;
+      }, 200);
+    }
+
+    verses.forEach((el) => {
+      el.addEventListener("mouseenter", () => show(el));
+      el.addEventListener("mouseleave", scheduleHide);
+      el.addEventListener("focus", () => show(el));
+      el.addEventListener("blur", () => {
+        pop.hidden = true;
+        active = null;
+      });
+      el.addEventListener("click", (e) => {
+        e.preventDefault();
+        show(el);
+      });
+    });
+    pop.addEventListener("mouseenter", () => clearTimeout(hideTimer));
+    pop.addEventListener("mouseleave", scheduleHide);
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape") {
+        pop.hidden = true;
+        active = null;
+      }
+    });
+  }
 })();
 </script>
 </body>

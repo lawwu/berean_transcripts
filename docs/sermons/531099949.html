@@ -56,12 +56,14 @@
     </div>
   </header>
 
-  <div class="player-shell" id="player-shell">
-    <iframe id="player" src="https://player.vimeo.com/video/531099949" title="2021-03-30 Passion Week Tuesday" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  <div class="player-dock" id="player-dock">
+    <div class="player-shell" id="player-shell">
+      <iframe id="player" src="https://player.vimeo.com/video/531099949" title="2021-03-30 Passion Week Tuesday" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+    </div>
   </div>
 
   <section class="transcript" id="transcript" data-platform="vimeo">
-    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment.</p>
+    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment, or hover a <span class="verse verse-legend">Bible reference</span> to read the passage.</p>
     <div class="para" id="p0">
       <button class="ts" data-t="0" title="Play from 0:00">0:00</button>
       <p>All right. Thanks Ryan for your testimony. And I think that&#39;s what we&#39;re trying to do here. We&#39;re trying to see those many years ago how the life of Christ and the death of Christ and the resurrection of Christ applies to people thousands of years later just like Ryan. That&#39;s what we&#39;re doing every single day this week. As we get to Tuesday, that that wasn&#39;t just then. That Jesus was actually actively and intentionally, just as we learned both on Sunday and yesterday, intentionally moving his way towards the cross so that people like you and me could have life. And we&#39;re going to be continuing this observation of Jesus&#39; walk on the cross today. This is Tuesday. And what we see on Tuesday is kind of a heightening of this desire for the religious leaders to ensnare and to trap Jesus.</p>
@@ -76,7 +78,7 @@
     </div>
     <div class="para" id="p3">
       <button class="ts" data-t="176" title="Play from 2:56">2:56</button>
-      <p>Isaiah chapter 29, verse 13. I want to direct our attention to this verse because we commonly go to this passage to remember, but today let&#39;s take a little extra time to remember that this is the people that were being talked about here in Isaiah many, many years ago. It says there, &#34;This people draw near me with their words and honor me with their lip service, but they remove their hearts far from me, and their reverence for me consists of tradition learned by rote.&#34; In Psalm chapter 2, there&#39;s a Psalm there that describes all these nations that are coming together, raging together in their unity of their opposition before God. And so you&#39;re going to have lots of different types of people, but anyone who is in opposition to God is not only found there in Psalm 2 with all the nations, but you see it very clearly here even in the nation of Israel, the people that were chosen by God.</p>
+      <p>Isaiah chapter 29, verse 13. I want to direct our attention to this verse because we commonly go to this passage to remember, but today let&#39;s take a little extra time to remember that this is the people that were being talked about here in Isaiah many, many years ago. It says there, &#34;This people draw near me with their words and honor me with their lip service, but they remove their hearts far from me, and their reverence for me consists of tradition learned by rote.&#34; In Psalm chapter 2, there&#39;s a Psalm there that describes all these nations that are coming together, raging together in their unity of their opposition before God. And so you&#39;re going to have lots of different types of people, but anyone who is in opposition to God is not only found there in <span class="verse" data-ref="Psalms 2" tabindex="0" role="button">Psalm 2</span> with all the nations, but you see it very clearly here even in the nation of Israel, the people that were chosen by God.</p>
     </div>
     <div class="para" id="p4">
       <button class="ts" data-t="240" title="Play from 4:00">4:00</button>
@@ -104,7 +106,7 @@
     </div>
     <div class="para" id="p10">
       <button class="ts" data-t="587" title="Play from 9:47">9:47</button>
-      <p>This is the Messiah. But because they don&#39;t like the message, because they don&#39;t like the fact that when he says he is the king, it is not the type of king they were thinking of, the king that would bring about my kingdom, but his. The fact that he&#39;s saying he is the Lord, he is the master, what happens is they refuse to submit. They don&#39;t bow the knee. And so they ask a question. That&#39;s not really a question. They ask, &#34;By whose authority do you come?&#34; The true answer will never satisfy them. So Jesus says to them, &#34;I&#39;m not going to tell you.&#34; Why? Because you already know, but you refuse to believe. And so he says in Matthew 21, 27, &#34;Neither will I tell you by what authority I do these things.&#34;</p>
+      <p>This is the Messiah. But because they don&#39;t like the message, because they don&#39;t like the fact that when he says he is the king, it is not the type of king they were thinking of, the king that would bring about my kingdom, but his. The fact that he&#39;s saying he is the Lord, he is the master, what happens is they refuse to submit. They don&#39;t bow the knee. And so they ask a question. That&#39;s not really a question. They ask, &#34;By whose authority do you come?&#34; The true answer will never satisfy them. So Jesus says to them, &#34;I&#39;m not going to tell you.&#34; Why? Because you already know, but you refuse to believe. And so he says in <span class="verse" data-ref="Matthew 21" tabindex="0" role="button">Matthew 21</span>, 27, &#34;Neither will I tell you by what authority I do these things.&#34;</p>
     </div>
     <div class="para" id="p11">
       <button class="ts" data-t="654" title="Play from 10:54">10:54</button>
@@ -222,6 +224,104 @@
   // re-align after fonts/iframe settle layout
   window.addEventListener("load", highlightFromHash);
   highlightFromHash();
+
+  // --- Bible reference popovers -------------------------------------------
+  // References detected in the transcript are wrapped in <span class="verse">.
+  // Hover/focus/tap one and we fetch the passage text from bible-api.com
+  // (World English Bible, public domain, CORS-enabled) and show it inline.
+  const verses = document.querySelectorAll(".verse[data-ref]");
+  if (verses.length) {
+    const cache = new Map();
+    const pop = document.createElement("div");
+    pop.className = "verse-pop";
+    pop.hidden = true;
+    pop.innerHTML =
+      '<div class="verse-pop-head"></div>' +
+      '<div class="verse-pop-body"></div>' +
+      '<div class="verse-pop-cite"></div>';
+    document.body.appendChild(pop);
+    const headEl = pop.querySelector(".verse-pop-head");
+    const bodyEl = pop.querySelector(".verse-pop-body");
+    const citeEl = pop.querySelector(".verse-pop-cite");
+    let hideTimer;
+    let active = null;
+
+    function fetchRef(ref) {
+      if (cache.has(ref)) return cache.get(ref);
+      const p = fetch("https://bible-api.com/" + encodeURIComponent(ref))
+        .then((r) => (r.ok ? r.json() : Promise.reject()))
+        .then((d) => ({
+          reference: d.reference || ref,
+          text: (d.text || "").replace(/\s+\n/g, "\n").trim(),
+          translation: d.translation_name || "",
+        }))
+        .catch(() => null);
+      cache.set(ref, p);
+      return p;
+    }
+
+    function place(target) {
+      const r = target.getBoundingClientRect();
+      const width = Math.min(400, window.innerWidth - 24);
+      pop.style.width = width + "px";
+      let left = window.scrollX + r.left;
+      left = Math.min(left, window.scrollX + window.innerWidth - width - 12);
+      left = Math.max(left, window.scrollX + 12);
+      pop.style.left = left + "px";
+      pop.style.top = window.scrollY + r.bottom + 8 + "px";
+    }
+
+    function show(target) {
+      clearTimeout(hideTimer);
+      active = target;
+      const ref = target.dataset.ref;
+      headEl.textContent = ref;
+      bodyEl.textContent = "Loading…";
+      citeEl.textContent = "";
+      place(target);
+      pop.hidden = false;
+      fetchRef(ref).then((data) => {
+        if (pop.hidden || active !== target) return;
+        if (!data) {
+          bodyEl.textContent = "Couldn't load this passage.";
+          return;
+        }
+        headEl.textContent = data.reference;
+        bodyEl.textContent = data.text;
+        citeEl.textContent = data.translation;
+        place(target);
+      });
+    }
+
+    function scheduleHide() {
+      hideTimer = setTimeout(() => {
+        pop.hidden = true;
+        active = null;
+      }, 200);
+    }
+
+    verses.forEach((el) => {
+      el.addEventListener("mouseenter", () => show(el));
+      el.addEventListener("mouseleave", scheduleHide);
+      el.addEventListener("focus", () => show(el));
+      el.addEventListener("blur", () => {
+        pop.hidden = true;
+        active = null;
+      });
+      el.addEventListener("click", (e) => {
+        e.preventDefault();
+        show(el);
+      });
+    });
+    pop.addEventListener("mouseenter", () => clearTimeout(hideTimer));
+    pop.addEventListener("mouseleave", scheduleHide);
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape") {
+        pop.hidden = true;
+        active = null;
+      }
+    });
+  }
 })();
 </script>
 </body>
