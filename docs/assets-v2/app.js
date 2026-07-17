@@ -26,7 +26,7 @@ function setStatus(message) {
 
 function initSql() {
   if (!state.sqlReady) {
-    state.sqlReady = initSqlJs({ locateFile: (f) => `assets/sqljs/${f}` });
+    state.sqlReady = initSqlJs({ locateFile: (f) => `assets-v2/sqljs/${f}` });
   }
   return state.sqlReady;
 }

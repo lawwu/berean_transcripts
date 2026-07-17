@@ -9,7 +9,7 @@ trap 'rm -rf "$BUILD_DIR"' EXIT
 
 # Pin the shared generator so scheduled builds use the same templates, assets,
 # Python package layout, and SQLite runtime until this reference is updated.
-GENERATOR_REF="${SERMON_BROWSER_REF:-git+https://github.com/lawwu/sermon-browser.git@b5ae72d#subdirectory=generator}"
+GENERATOR_REF="${SERMON_BROWSER_REF:-git+https://github.com/lawwu/sermon-browser.git@14e8a34#subdirectory=generator}"
 uvx --from "$GENERATOR_REF" sermon-browser build \
     "$SITE_CONFIG" --out "$BUILD_DIR"
 
