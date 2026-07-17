@@ -33,16 +33,16 @@ if [ -s "$SCRIPT_DIR/data/bcc_live_video_ids.txt" ]; then
     "$SCRIPT_DIR/bash_transcribe.sh" "$SCRIPT_DIR/data/bcc_live_video_ids.txt"
     
     # Fetch/cache yt-dlp metadata (title, date, duration, url) for the newly
-    # transcribed videos; build_sharded_db.py reads this cache and silently
-    # skips any video missing from it
+    # transcribed videos.
     python "$SCRIPT_DIR/src/berean_transcripts/update_metadata_cache.py"
 
-    # Rebuild sharded SQLite DBs for the static search/viewer app in docs/
-    python "$SCRIPT_DIR/src/berean_transcripts/build_sharded_db.py"
+    # Rebuild the complete GitHub Pages site: search DBs, archive, sermon
+    # pages, scripture indexes, sitemap, and frontend assets.
+    "$SCRIPT_DIR/bash_build_site.sh"
 
     # Commit files
     git add "$SCRIPT_DIR/data/*.txt"
-    git add "$SCRIPT_DIR/docs/db"
+    git add "$SCRIPT_DIR/docs"
     git add "$SCRIPT_DIR/data/video_details_cache.json"
     git commit -m "AUTO: adding latest messages from $(date +'%Y-%m-%d')"
     git push 2>&1 | tee "$SCRIPT_DIR/git_push_output.log"

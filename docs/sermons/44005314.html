@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ppeter Test — Berean Community Church</title>
+<meta name="description" content="I know you&#39;ll answer me when I call. Walking by my side, I&#39;m satisfied. In pieces all mine, all in all. Well, I went to meet the Lord. He sat down on my knee…">
+<link rel="canonical" href="https://lawwu.github.io/berean_transcripts/sermons/44005314.html">
+<meta property="og:image" content="https://i.vimeocdn.com/video/305523362-d0ea46b4b8f9707a2f941db378eae7dfb45ff99e0b6fb8a07039bdaf37a22515-d_960"><meta property="og:title" content="Ppeter Test">
+<meta property="og:type" content="video.other">
+<meta property="og:description" content="I know you&#39;ll answer me when I call. Walking by my side, I&#39;m satisfied. In pieces all mine, all in all. Well, I went to meet the Lord. He sat down on my knee…">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "Ppeter Test",
+  "description": "I know you\u0027ll answer me when I call. Walking by my side, I\u0027m satisfied. In pieces all mine, all in all. Well, I went to meet the Lord. He sat down on my knee\u2026",
+  "uploadDate": "2012-06-13",
+"thumbnailUrl": "https://i.vimeocdn.com/video/305523362-d0ea46b4b8f9707a2f941db378eae7dfb45ff99e0b6fb8a07039bdaf37a22515-d_960",  "url": "https://www.vimeo.com/44005314"
+}
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400..700&family=Newsreader:ital,opsz,wght@0,6..72,300..600;1,6..72,300..600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/styles.css">
+<style>
+  :root {
+    --accent: #7E2D26;
+    --accent-dark: #63211B;
+    --gold: #B98A2F;
+    --paper: #F7F1E5;
+    --ink: #221C14;
+  }
+</style>
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap header-row">
+    <a class="wordmark" href="../index.html">Berean Community Church</a>
+    <nav class="site-nav">
+      <a href="../index.html#archive">Archive</a>
+      <a href="../books/index.html">By book</a>
+<a href="https://bereancc.com" rel="noopener">Church site ↗</a>    </nav>
+  </div>
+</header>
+<main>
+<article class="sermon wrap">
+  <nav class="crumbs">
+    <a href="../index.html">← Archive</a>
+  </nav>
+  <header class="sermon-head">
+    <h1>Ppeter Test</h1>
+    <div class="sermon-meta">
+      <span>2012-06-13</span>
+<span>1m</span>      <a class="chip chip-ext" href="https://www.vimeo.com/44005314" rel="noopener">Watch on Vimeo ↗</a>
+    </div>
+  </header>
+
+  <div class="player-shell" id="player-shell">
+    <iframe id="player" src="https://player.vimeo.com/video/44005314" title="Ppeter Test" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  </div>
+
+  <section class="transcript" id="transcript" data-platform="vimeo">
+    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment.</p>
+    <div class="para" id="p0">
+      <button class="ts" data-t="7" title="Play from 0:07">0:07</button>
+      <p>I know you&#39;ll answer me when I call. Walking by my side, I&#39;m satisfied. In pieces all mine, all in all. Well, I went to meet the Lord. He sat down on my knees. Said my medical prayer, &#34;Amen, you know.&#34; Holy Ghost led me there. Stepped on the rock, rock was sound. The God came down and dealt the reason. I know that He saved my soul. Down deep in the barracuda, He&#39;s all. what</p>
+    </div>
+  </section>
+
+  <nav class="pager">
+<a class="pager-link" href="../sermons/43709044.html">← Mark 6-6-12</a><a class="pager-link pager-next" href="../sermons/66309377.html">Acts III Week 1 (5-15-13) →</a>  </nav>
+</article>
+</main>
+<footer class="site-footer">
+  <div class="wrap">
+    <span>Transcripts are generated automatically and may contain errors.</span>
+    <span>© Berean Community Church</span>
+  </div>
+</footer>
+<script>
+(function () {
+  const platform = document.getElementById("transcript").dataset.platform;
+  const player = document.getElementById("player");
+
+  function seek(seconds) {
+    if (platform === "youtube") {
+      player.contentWindow.postMessage(
+        JSON.stringify({ event: "command", func: "seekTo", args: [seconds, true] }), "*");
+      player.contentWindow.postMessage(
+        JSON.stringify({ event: "command", func: "playVideo", args: [] }), "*");
+    } else {
+      player.contentWindow.postMessage({ method: "setCurrentTime", value: seconds }, "*");
+      player.contentWindow.postMessage({ method: "play" }, "*");
+    }
+    document.getElementById("player-shell").scrollIntoView({ behavior: "smooth", block: "center" });
+  }
+
+  document.querySelectorAll(".ts").forEach((btn) => {
+    btn.addEventListener("click", () => seek(Number(btn.dataset.t)));
+  });
+
+  // Arriving from a search result: #p12 highlights the matched paragraph
+  function highlightFromHash() {
+    const match = location.hash.match(/^#p(\d+)$/);
+    if (!match) return;
+    const el = document.getElementById("p" + match[1]);
+    if (!el) return;
+    document.querySelectorAll(".para.hit").forEach((p) => p.classList.remove("hit"));
+    el.classList.add("hit");
+    el.scrollIntoView({ block: "center" });
+  }
+  window.addEventListener("hashchange", highlightFromHash);
+  // re-align after fonts/iframe settle layout
+  window.addEventListener("load", highlightFromHash);
+  highlightFromHash();
+})();
+</script>
+</body>
+</html>

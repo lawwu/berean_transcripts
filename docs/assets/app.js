@@ -1,300 +1,233 @@
+/* Client-side search over per-year SQLite shards (sql.js + FTS5).
+   Shards are fetched lazily per selected year and cached for the session. */
+
 const state = {
   manifest: null,
-  dbCache: new Map(),
+  dbCache: new Map(), // year -> Promise<SQL.Database>
   sqlReady: null,
 };
 
 const els = {
   query: document.getElementById("query"),
-  searchBtn: document.getElementById("search"),
-  latestBtn: document.getElementById("latest"),
-  filters: document.getElementById("filters"),
+  searchBtn: document.getElementById("search-btn"),
+  filters: document.getElementById("year-filters"),
   status: document.getElementById("status"),
   results: document.getElementById("results"),
   selectAll: document.getElementById("select-all"),
-  selectNone: document.getElementById("select-none"),
-  viewer: document.getElementById("viewer"),
-  viewerTitle: document.getElementById("viewer-title"),
-  viewerMeta: document.getElementById("viewer-meta"),
-  viewerBody: document.getElementById("viewer-body"),
+  selectRecent: document.getElementById("select-recent"),
 };
 
-function formatDate(raw) {
-  if (!raw || raw.length !== 8) return raw || "";
-  return `${raw.slice(0, 4)}-${raw.slice(4, 6)}-${raw.slice(6)}`;
-}
-
-function formatDuration(seconds) {
-  if (!Number.isFinite(seconds)) return "";
-  const mins = Math.floor(seconds / 60);
-  const hrs = Math.floor(mins / 60);
-  const rem = mins % 60;
-  return hrs ? `${hrs}h ${rem}m` : `${mins}m`;
-}
+const RECENT_YEARS = 3;
+const MAX_RESULTS = 50;
 
 function setStatus(message) {
-  els.status.textContent = message;
+  els.status.textContent = message || "";
 }
 
-function clearResults() {
-  els.results.innerHTML = "";
-}
-
-function renderResults(items) {
-  clearResults();
-  if (!items.length) {
-    els.results.innerHTML =
-      '<div class="empty">No results yet. Try a different keyword or load a different year.</div>';
-    return;
-  }
-  const fragment = document.createDocumentFragment();
-  for (const item of items) {
-    const card = document.createElement("article");
-    card.className = "result";
-    card.innerHTML = `
-      <h3>${item.title}</h3>
-      <div class="meta">
-        <span>${formatDate(item.upload_date)}</span>
-        <span>${formatDuration(item.duration)}</span>
-        <span>${item.year}</span>
-      </div>
-      <p class="snippet">${item.snippet || ""}</p>
-      <div class="result-actions">
-        <button class="btn secondary view-transcript" data-id="${item.id}" data-year="${item.year}">
-          Read transcript
-        </button>
-        <a class="link-pill" href="./viewer.html#id=${item.id}&year=${item.year}">Open viewer</a>
-        <a class="link-pill" href="${item.url}" target="_blank" rel="noopener">Watch video</a>
-      </div>
-    `;
-    fragment.appendChild(card);
-  }
-  els.results.appendChild(fragment);
-}
-
-function selectedYears() {
-  const inputs = [...els.filters.querySelectorAll("input[type=checkbox]")];
-  return inputs.filter((i) => i.checked).map((i) => i.value);
-}
-
-async function loadManifest() {
-  const response = await fetch("./db/manifest.json");
-  state.manifest = await response.json();
-}
-
-function renderFilters() {
-  const years = state.manifest.entries.map((e) => e.year).sort().reverse();
-  els.filters.innerHTML = "";
-  for (const year of years) {
-    const entry = state.manifest.entries.find((e) => e.year === year);
-    const label = document.createElement("label");
-    label.innerHTML = `
-      <input type="checkbox" value="${year}" checked>
-      <span>${year} (${entry.count})</span>
-    `;
-    els.filters.appendChild(label);
-  }
-}
-
-async function initSql() {
+function initSql() {
   if (!state.sqlReady) {
-    state.sqlReady = initSqlJs({
-      locateFile: (file) => `./assets/sqljs/${file}`,
-    });
+    state.sqlReady = initSqlJs({ locateFile: (f) => `assets/sqljs/${f}` });
   }
   return state.sqlReady;
 }
 
-async function loadDb(year) {
-  if (state.dbCache.has(year)) {
-    return state.dbCache.get(year);
-  }
-  const entry = state.manifest.entries.find((e) => e.year === year);
-  if (!entry) return null;
-  const response = await fetch(`./db/${entry.db}`);
-  const buffer = await response.arrayBuffer();
-  const SQL = await initSql();
-  const db = new SQL.Database(new Uint8Array(buffer));
-  state.dbCache.set(year, db);
-  return db;
+async function loadManifest() {
+  const res = await fetch("db/manifest.json");
+  state.manifest = await res.json();
+  renderYearPills();
 }
 
-function dbQuery(db, sql, params = []) {
-  const stmt = db.prepare(sql);
-  stmt.bind(params);
-  const rows = [];
-  while (stmt.step()) {
-    rows.push(stmt.getAsObject());
+function years() {
+  return state.manifest.entries.map((e) => e.year).sort().reverse();
+}
+
+function renderYearPills() {
+  const all = years();
+  const recent = new Set(all.slice(0, RECENT_YEARS));
+  els.filters.innerHTML = "";
+  for (const year of all) {
+    const pill = document.createElement("button");
+    pill.className = "year-pill";
+    pill.type = "button";
+    pill.textContent = year;
+    pill.setAttribute("aria-pressed", recent.has(year) ? "true" : "false");
+    pill.addEventListener("click", () => {
+      const on = pill.getAttribute("aria-pressed") === "true";
+      pill.setAttribute("aria-pressed", on ? "false" : "true");
+    });
+    els.filters.appendChild(pill);
   }
-  stmt.free();
+}
+
+function selectedYears() {
+  return [...els.filters.querySelectorAll('[aria-pressed="true"]')].map(
+    (p) => p.textContent
+  );
+}
+
+function setAllYears(on) {
+  els.filters
+    .querySelectorAll(".year-pill")
+    .forEach((p) => p.setAttribute("aria-pressed", on ? "true" : "false"));
+}
+
+function setRecentYears() {
+  const recent = new Set(years().slice(0, RECENT_YEARS));
+  els.filters
+    .querySelectorAll(".year-pill")
+    .forEach((p) =>
+      p.setAttribute("aria-pressed", recent.has(p.textContent) ? "true" : "false")
+    );
+}
+
+async function loadShard(year) {
+  if (!state.dbCache.has(year)) {
+    const entry = state.manifest.entries.find((e) => e.year === year);
+    const promise = (async () => {
+      const SQL = await initSql();
+      const res = await fetch(`db/${entry.db}`);
+      const buf = await res.arrayBuffer();
+      return new SQL.Database(new Uint8Array(buf));
+    })();
+    state.dbCache.set(year, promise);
+  }
+  return state.dbCache.get(year);
+}
+
+function queryAll(db, sql, params) {
+  const stmt = db.prepare(sql);
+  const rows = [];
+  try {
+    stmt.bind(params);
+    while (stmt.step()) rows.push(stmt.getAsObject());
+  } finally {
+    stmt.free();
+  }
   return rows;
 }
 
-function toParagraphs(text) {
-  if (!text) return [];
-  const sentences = text.split(/(?<=[.!?])\s+/);
-  const paragraphs = [];
-  let buffer = [];
-  let wordCount = 0;
-  for (const sentence of sentences) {
-    const words = sentence.trim().split(/\s+/).filter(Boolean);
-    if (!words.length) continue;
-    buffer.push(sentence.trim());
-    wordCount += words.length;
-    if (wordCount >= 50) {
-      paragraphs.push(buffer.join(" "));
-      buffer = [];
-      wordCount = 0;
-    }
-  }
-  if (buffer.length) paragraphs.push(buffer.join(" "));
-  return paragraphs;
+/* Quote each token so user input can't break FTS5 MATCH syntax. */
+function ftsQuery(raw) {
+  const tokens = raw.match(/[\p{L}\p{N}']+/gu) || [];
+  return tokens.map((t) => `"${t.replaceAll('"', "")}"`).join(" ");
 }
 
-async function loadTranscript(id, year) {
-  const db = await loadDb(year);
-  if (!db) return null;
-  const rows = dbQuery(
-    db,
-    `
-    SELECT id, title, upload_date, duration, url, text
-    FROM transcripts
-    WHERE id = ?
-    LIMIT 1;
-    `,
-    [id]
+function formatHms(totalSeconds) {
+  const s = Math.floor(totalSeconds);
+  const h = Math.floor(s / 3600);
+  const m = Math.floor((s % 3600) / 60);
+  const sec = String(s % 60).padStart(2, "0");
+  return h ? `${h}:${String(m).padStart(2, "0")}:${sec}` : `${m}:${sec}`;
+}
+
+function formatDate(raw) {
+  return raw && raw.length === 8
+    ? `${raw.slice(0, 4)}-${raw.slice(4, 6)}-${raw.slice(6)}`
+    : raw || "";
+}
+
+const PARAGRAPH_SQL = `
+  SELECT p.sermon_id AS id, p.idx AS idx, p.start_s AS start_s,
+         snippet(paragraphs_fts, 0, '[[', ']]', '…', 14) AS snip,
+         s.title AS title, s.upload_date AS upload_date
+  FROM paragraphs_fts f
+  JOIN paragraphs p ON p.id = f.rowid
+  JOIN sermons s ON s.id = p.sermon_id
+  WHERE paragraphs_fts MATCH :q
+  ORDER BY rank
+  LIMIT 20
+`;
+
+const TITLE_SQL = `
+  SELECT id, title, upload_date FROM sermons
+  WHERE title LIKE :like ORDER BY upload_date DESC LIMIT 10
+`;
+
+async function search() {
+  const raw = els.query.value.trim();
+  if (!raw) return;
+  const q = ftsQuery(raw);
+  if (!q) return;
+  const chosen = selectedYears();
+  if (!chosen.length) {
+    setStatus("Pick at least one year to search.");
+    return;
+  }
+  els.results.innerHTML = "";
+  const titleHits = [];
+  const paraHits = [];
+  let loaded = 0;
+  for (const year of chosen.sort().reverse()) {
+    setStatus(`Searching ${year}… (${++loaded}/${chosen.length})`);
+    try {
+      const db = await loadShard(year);
+      titleHits.push(...queryAll(db, TITLE_SQL, { ":like": `%${raw}%` }));
+      paraHits.push(...queryAll(db, PARAGRAPH_SQL, { ":q": q }));
+    } catch (err) {
+      console.error(`shard ${year}:`, err);
+    }
+    renderResults(titleHits, paraHits); // progressive render per shard
+    if (titleHits.length + paraHits.length >= MAX_RESULTS) break;
+  }
+  const total = titleHits.length + paraHits.length;
+  setStatus(
+    total
+      ? `${total} result${total === 1 ? "" : "s"}`
+      : "No results — try different words or more years."
   );
-  return rows[0] || null;
 }
 
-function showViewer(data, year) {
-  if (!data) return;
-  els.viewer.hidden = false;
-  els.viewerTitle.textContent = data.title || data.id;
-  els.viewerMeta.innerHTML = `
-    <span>${formatDate(data.upload_date)}</span>
-    <span>${formatDuration(data.duration)}</span>
-    <span>${year}</span>
-    <a class="link-pill" href="${data.url}" target="_blank" rel="noopener">Watch video</a>
-  `;
-  const paragraphs = toParagraphs(data.text || "");
-  els.viewerBody.innerHTML = paragraphs.map((p) => `<p>${p}</p>`).join("");
-  els.viewer.scrollIntoView({ behavior: "smooth", block: "start" });
+/* snippet() output is plain transcript text with [[ ]] markers; escape
+   everything, then swap markers for <mark>. */
+function snippetHtml(snip) {
+  return escapeHtml(snip)
+    .replaceAll("[[", "<mark>")
+    .replaceAll("]]", "</mark>");
 }
 
-async function runSearch() {
-  const query = els.query.value.trim();
-  if (!query) {
-    setStatus("Enter a keyword or phrase to search.");
-    renderResults([]);
+function renderResults(titleHits, paraHits) {
+  els.results.innerHTML = "";
+  const fragment = document.createDocumentFragment();
+  for (const hit of titleHits.slice(0, 10)) {
+    const card = document.createElement("a");
+    card.className = "result-card";
+    card.href = `sermons/${hit.id}.html`;
+    card.innerHTML = `
+      <div class="result-meta"><span>${formatDate(hit.upload_date)}</span><span>title match</span></div>
+      <div class="result-title">${escapeHtml(hit.title)}</div>`;
+    fragment.appendChild(card);
+  }
+  for (const hit of paraHits.slice(0, MAX_RESULTS)) {
+    const card = document.createElement("a");
+    card.className = "result-card";
+    card.href = `sermons/${hit.id}.html#p${hit.idx}`;
+    card.innerHTML = `
+      <div class="result-meta"><span>${formatDate(hit.upload_date)}</span><span class="ts">→ ${formatHms(hit.start_s)}</span></div>
+      <div class="result-title">${escapeHtml(hit.title)}</div>
+      <div class="result-snippet">${snippetHtml(hit.snip)}</div>`;
+    fragment.appendChild(card);
+  }
+  if (!fragment.childNodes.length) {
+    els.results.innerHTML = '<div class="empty">No results yet.</div>';
     return;
   }
-  const years = selectedYears();
-  if (!years.length) {
-    setStatus("Select at least one year.");
-    return;
-  }
-  setStatus(`Searching ${years.length} shard(s)...`);
-  const perShardLimit = 60;
-  const results = [];
-  for (const year of years) {
-    const db = await loadDb(year);
-    if (!db) continue;
-    const rows = dbQuery(
-      db,
-      `
-      SELECT t.id, t.title, t.upload_date, t.duration, t.url,
-             snippet(transcripts_fts, 1, '<mark>', '</mark>', '…', 12) as snippet,
-             bm25(transcripts_fts) as score
-      FROM transcripts_fts
-      JOIN transcripts t ON t.rowid = transcripts_fts.rowid
-      WHERE transcripts_fts MATCH ?
-      ORDER BY bm25(transcripts_fts)
-      LIMIT ?;
-      `,
-      [query, perShardLimit]
-    ).map((row) => ({ ...row, year }));
-    results.push(...rows);
-  }
-  results.sort((a, b) => {
-    if (a.score !== b.score) return a.score - b.score;
-    return (b.upload_date || "").localeCompare(a.upload_date || "");
-  });
-  setStatus(`Found ${results.length} results across ${years.length} shard(s).`);
-  renderResults(results.slice(0, 150));
+  els.results.appendChild(fragment);
 }
 
-async function loadLatest() {
-  const years = selectedYears();
-  if (!years.length) {
-    setStatus("Select at least one year.");
-    return;
-  }
-  setStatus(`Loading latest messages from ${years.length} shard(s)...`);
-  const perShardLimit = 30;
-  const results = [];
-  for (const year of years) {
-    const db = await loadDb(year);
-    if (!db) continue;
-    const rows = dbQuery(
-      db,
-      `
-      SELECT id, title, upload_date, duration, url,
-             '' as snippet
-      FROM transcripts
-      ORDER BY upload_date DESC
-      LIMIT ?;
-      `,
-      [perShardLimit]
-    ).map((row) => ({ ...row, year }));
-    results.push(...rows);
-  }
-  results.sort((a, b) => (b.upload_date || "").localeCompare(a.upload_date || ""));
-  setStatus(`Showing ${Math.min(120, results.length)} recent messages.`);
-  renderResults(results.slice(0, 120));
+function escapeHtml(text) {
+  const div = document.createElement("div");
+  div.textContent = text;
+  return div.innerHTML;
 }
 
-function reportError(error) {
-  setStatus(`Something went wrong: ${error.message || error}`);
-}
+els.searchBtn.addEventListener("click", search);
+els.query.addEventListener("keydown", (e) => {
+  if (e.key === "Enter") search();
+});
+els.selectAll.addEventListener("click", () => setAllYears(true));
+els.selectRecent.addEventListener("click", setRecentYears);
 
-function wireControls() {
-  els.searchBtn.addEventListener("click", () => runSearch().catch(reportError));
-  els.latestBtn.addEventListener("click", () => loadLatest().catch(reportError));
-  els.query.addEventListener("keydown", (event) => {
-    if (event.key === "Enter") runSearch().catch(reportError);
-  });
-  els.results.addEventListener("click", async (event) => {
-    const button = event.target.closest(".view-transcript");
-    if (!button) return;
-    const id = button.dataset.id;
-    const year = button.dataset.year;
-    setStatus(`Loading transcript ${id}...`);
-    const data = await loadTranscript(id, year);
-    if (!data) {
-      setStatus("Transcript not found in selected shard.");
-      return;
-    }
-    setStatus("Transcript loaded.");
-    showViewer(data, year);
-  });
-  els.selectAll.addEventListener("click", () => {
-    els.filters
-      .querySelectorAll("input[type=checkbox]")
-      .forEach((input) => (input.checked = true));
-  });
-  els.selectNone.addEventListener("click", () => {
-    els.filters
-      .querySelectorAll("input[type=checkbox]")
-      .forEach((input) => (input.checked = false));
-  });
-}
-
-async function init() {
-  await loadManifest();
-  renderFilters();
-  wireControls();
-  setStatus("Ready. Search the archive or load the latest messages.");
-}
-
-init();
+loadManifest().catch((err) => {
+  console.error(err);
+  setStatus("Could not load the search index.");
+});

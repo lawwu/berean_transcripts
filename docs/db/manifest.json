@@ -1,71 +1,71 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "entries": [
     {
       "year": "2011",
       "count": 2,
       "db": "transcripts_2011.db",
-      "bytes": 159744
+      "bytes": 184320
     },
     {
       "year": "2012",
       "count": 7,
       "db": "transcripts_2012.db",
-      "bytes": 364544
+      "bytes": 417792
     },
     {
       "year": "2013",
       "count": 3,
       "db": "transcripts_2013.db",
-      "bytes": 135168
+      "bytes": 147456
     },
     {
       "year": "2014",
       "count": 12,
       "db": "transcripts_2014.db",
-      "bytes": 765952
+      "bytes": 876544
     },
     {
       "year": "2015",
       "count": 71,
       "db": "transcripts_2015.db",
-      "bytes": 4149248
+      "bytes": 4706304
     },
     {
       "year": "2016",
-      "count": 94,
+      "count": 92,
       "db": "transcripts_2016.db",
-      "bytes": 5185536
+      "bytes": 5881856
     },
     {
       "year": "2017",
-      "count": 113,
+      "count": 112,
       "db": "transcripts_2017.db",
-      "bytes": 6418432
+      "bytes": 7069696
     },
     {
       "year": "2018",
       "count": 103,
       "db": "transcripts_2018.db",
-      "bytes": 6225920
+      "bytes": 6926336
     },
     {
       "year": "2019",
-      "count": 116,
+      "count": 113,
       "db": "transcripts_2019.db",
-      "bytes": 6381568
+      "bytes": 7135232
     },
     {
       "year": "2020",
       "count": 165,
       "db": "transcripts_2020.db",
-      "bytes": 9039872
+      "bytes": 9777152
     },
     {
       "year": "2021",
-      "count": 166,
+      "count": 165,
       "db": "transcripts_2021.db",
-      "bytes": 9060352
+      "bytes": 9859072
     },
     {
       "year": "2022",
@@ -77,25 +77,25 @@
       "year": "2023",
       "count": 98,
       "db": "transcripts_2023.db",
-      "bytes": 6365184
+      "bytes": 6500352
     },
     {
       "year": "2024",
-      "count": 97,
+      "count": 96,
       "db": "transcripts_2024.db",
-      "bytes": 5931008
+      "bytes": 5644288
     },
     {
       "year": "2025",
       "count": 81,
       "db": "transcripts_2025.db",
-      "bytes": 5509120
+      "bytes": 4624384
     },
     {
       "year": "2026",
       "count": 28,
       "db": "transcripts_2026.db",
-      "bytes": 2064384
+      "bytes": 1798144
     }
   ]
 }

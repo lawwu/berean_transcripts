@@ -1,0 +1,17 @@
+slug: berean
+name: Berean Community Church
+tagline: Every sermon, Bible study, and service since 2011 — transcribed and searchable.
+site_url: https://lawwu.github.io/berean_transcripts
+church_url: https://bereancc.com
+youtube_channel: https://www.youtube.com/@bereancommunitychurch
+
+sources:
+  metadata: ../data/video_details_cache.json
+  transcripts_dir: ../data/transcripts
+
+theme:
+  accent: "#7E2D26"
+  accent_dark: "#63211B"
+  gold: "#B98A2F"
+  paper: "#F7F1E5"
+  ink: "#221C14"

@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>#BCCindia2016 — Berean Community Church</title>
+<meta name="description" content="- Oh yes, I love my Jesus!">
+<link rel="canonical" href="https://lawwu.github.io/berean_transcripts/sermons/155297346.html">
+<meta property="og:image" content="https://i.vimeocdn.com/video/556675177-96b5004f97de1c1516e830266a1e872a1fc1918ef9adb2fae6c81fc01d075b35-d_1280"><meta property="og:title" content="#BCCindia2016">
+<meta property="og:type" content="video.other">
+<meta property="og:description" content="- Oh yes, I love my Jesus!">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "#BCCindia2016",
+  "description": "- Oh yes, I love my Jesus!",
+  "uploadDate": "2016-02-14",
+"thumbnailUrl": "https://i.vimeocdn.com/video/556675177-96b5004f97de1c1516e830266a1e872a1fc1918ef9adb2fae6c81fc01d075b35-d_1280",  "url": "https://www.vimeo.com/155297346"
+}
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400..700&family=Newsreader:ital,opsz,wght@0,6..72,300..600;1,6..72,300..600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/styles.css">
+<style>
+  :root {
+    --accent: #7E2D26;
+    --accent-dark: #63211B;
+    --gold: #B98A2F;
+    --paper: #F7F1E5;
+    --ink: #221C14;
+  }
+</style>
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap header-row">
+    <a class="wordmark" href="../index.html">Berean Community Church</a>
+    <nav class="site-nav">
+      <a href="../index.html#archive">Archive</a>
+      <a href="../books/index.html">By book</a>
+<a href="https://bereancc.com" rel="noopener">Church site ↗</a>    </nav>
+  </div>
+</header>
+<main>
+<article class="sermon wrap">
+  <nav class="crumbs">
+    <a href="../index.html">← Archive</a>
+  </nav>
+  <header class="sermon-head">
+    <h1>#BCCindia2016</h1>
+    <div class="sermon-meta">
+      <span>2016-02-14</span>
+<span>4m</span>      <a class="chip chip-ext" href="https://www.vimeo.com/155297346" rel="noopener">Watch on Vimeo ↗</a>
+    </div>
+  </header>
+
+  <div class="player-shell" id="player-shell">
+    <iframe id="player" src="https://player.vimeo.com/video/155297346" title="#BCCindia2016" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  </div>
+
+  <section class="transcript" id="transcript" data-platform="vimeo">
+    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment.</p>
+    <div class="para" id="p0">
+      <button class="ts" data-t="288" title="Play from 4:48">4:48</button>
+      <p>- Oh yes, I love my Jesus!</p>
+    </div>
+  </section>
+
+  <nav class="pager">
+<a class="pager-link" href="../sermons/155281372.html">← 2016-02-07 Christ, Past, Present, Future</a><a class="pager-link pager-next" href="../sermons/155484230.html">2016-02-14 All Have Sinned →</a>  </nav>
+</article>
+</main>
+<footer class="site-footer">
+  <div class="wrap">
+    <span>Transcripts are generated automatically and may contain errors.</span>
+    <span>© Berean Community Church</span>
+  </div>
+</footer>
+<script>
+(function () {
+  const platform = document.getElementById("transcript").dataset.platform;
+  const player = document.getElementById("player");
+
+  function seek(seconds) {
+    if (platform === "youtube") {
+      player.contentWindow.postMessage(
+        JSON.stringify({ event: "command", func: "seekTo", args: [seconds, true] }), "*");
+      player.contentWindow.postMessage(
+        JSON.stringify({ event: "command", func: "playVideo", args: [] }), "*");
+    } else {
+      player.contentWindow.postMessage({ method: "setCurrentTime", value: seconds }, "*");
+      player.contentWindow.postMessage({ method: "play" }, "*");
+    }
+    document.getElementById("player-shell").scrollIntoView({ behavior: "smooth", block: "center" });
+  }
+
+  document.querySelectorAll(".ts").forEach((btn) => {
+    btn.addEventListener("click", () => seek(Number(btn.dataset.t)));
+  });
+
+  // Arriving from a search result: #p12 highlights the matched paragraph
+  function highlightFromHash() {
+    const match = location.hash.match(/^#p(\d+)$/);
+    if (!match) return;
+    const el = document.getElementById("p" + match[1]);
+    if (!el) return;
+    document.querySelectorAll(".para.hit").forEach((p) => p.classList.remove("hit"));
+    el.classList.add("hit");
+    el.scrollIntoView({ block: "center" });
+  }
+  window.addEventListener("hashchange", highlightFromHash);
+  // re-align after fonts/iframe settle layout
+  window.addEventListener("load", highlightFromHash);
+  highlightFromHash();
+})();
+</script>
+</body>
+</html>

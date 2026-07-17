@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>VBS Highlight 2018 — Berean Community Church</title>
+<meta name="description" content="Everybody needs you, everybody needs Jesus. Everybody needs you, and I need you too. Everybody needs you, everybody needs Jesus. Everybody needs you, Jesus. …">
+<link rel="canonical" href="https://lawwu.github.io/berean_transcripts/sermons/325499305.html">
+<meta property="og:image" content="https://i.vimeocdn.com/video/769250515-5a6ef30662da2514784dfc45481abf8ad9a619af77b2385017bc225b4a031165-d_1280"><meta property="og:title" content="VBS Highlight 2018">
+<meta property="og:type" content="video.other">
+<meta property="og:description" content="Everybody needs you, everybody needs Jesus. Everybody needs you, and I need you too. Everybody needs you, everybody needs Jesus. Everybody needs you, Jesus. …">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "VBS Highlight 2018",
+  "description": "Everybody needs you, everybody needs Jesus. Everybody needs you, and I need you too. Everybody needs you, everybody needs Jesus. Everybody needs you, Jesus. \u2026",
+  "uploadDate": "2019-03-20",
+"thumbnailUrl": "https://i.vimeocdn.com/video/769250515-5a6ef30662da2514784dfc45481abf8ad9a619af77b2385017bc225b4a031165-d_1280",  "url": "https://www.vimeo.com/325499305"
+}
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400..700&family=Newsreader:ital,opsz,wght@0,6..72,300..600;1,6..72,300..600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/styles.css">
+<style>
+  :root {
+    --accent: #7E2D26;
+    --accent-dark: #63211B;
+    --gold: #B98A2F;
+    --paper: #F7F1E5;
+    --ink: #221C14;
+  }
+</style>
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap header-row">
+    <a class="wordmark" href="../index.html">Berean Community Church</a>
+    <nav class="site-nav">
+      <a href="../index.html#archive">Archive</a>
+      <a href="../books/index.html">By book</a>
+<a href="https://bereancc.com" rel="noopener">Church site ↗</a>    </nav>
+  </div>
+</header>
+<main>
+<article class="sermon wrap">
+  <nav class="crumbs">
+    <a href="../index.html">← Archive</a>
+  </nav>
+  <header class="sermon-head">
+    <h1>VBS Highlight 2018</h1>
+    <div class="sermon-meta">
+      <span>2019-03-20</span>
+<span>0m</span>      <a class="chip chip-ext" href="https://www.vimeo.com/325499305" rel="noopener">Watch on Vimeo ↗</a>
+    </div>
+  </header>
+
+  <div class="player-shell" id="player-shell">
+    <iframe id="player" src="https://player.vimeo.com/video/325499305" title="VBS Highlight 2018" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+  </div>
+
+  <section class="transcript" id="transcript" data-platform="vimeo">
+    <p class="transcript-note">Automatic transcript — click a timestamp to jump the video to that moment.</p>
+    <div class="para" id="p0">
+      <button class="ts" data-t="0" title="Play from 0:00">0:00</button>
+      <p>Everybody needs you, everybody needs Jesus. Everybody needs you, and I need you too. Everybody needs you, everybody needs Jesus. Everybody needs you, Jesus. Everybody needs you, everybody needs Jesus. Everybody needs you, everybody needs Jesus. Everybody needs you, and I need you too. Everybody needs you, and I need you too. Oh, I need you.</p>
+    </div>
+  </section>
+
+  <nav class="pager">
+<a class="pager-link" href="../sermons/325051056.html">← 2019-03-16 Lardmines &amp; Lions BAM Seminar</a><a class="pager-link pager-next" href="../sermons/325582533.html">2019-03-20: Wed Bible Study Lesson 9 →</a>  </nav>
+</article>
+</main>
+<footer class="site-footer">
+  <div class="wrap">
+    <span>Transcripts are generated automatically and may contain errors.</span>
+    <span>© Berean Community Church</span>
+  </div>
+</footer>
+<script>
+(function () {
+  const platform = document.getElementById("transcript").dataset.platform;
+  const player = document.getElementById("player");
+
+  function seek(seconds) {
+    if (platform === "youtube") {
+      player.contentWindow.postMessage(
+        JSON.stringify({ event: "command", func: "seekTo", args: [seconds, true] }), "*");
+      player.contentWindow.postMessage(
+        JSON.stringify({ event: "command", func: "playVideo", args: [] }), "*");
+    } else {
+      player.contentWindow.postMessage({ method: "setCurrentTime", value: seconds }, "*");
+      player.contentWindow.postMessage({ method: "play" }, "*");
+    }
+    document.getElementById("player-shell").scrollIntoView({ behavior: "smooth", block: "center" });
+  }
+
+  document.querySelectorAll(".ts").forEach((btn) => {
+    btn.addEventListener("click", () => seek(Number(btn.dataset.t)));
+  });
+
+  // Arriving from a search result: #p12 highlights the matched paragraph
+  function highlightFromHash() {
+    const match = location.hash.match(/^#p(\d+)$/);
+    if (!match) return;
+    const el = document.getElementById("p" + match[1]);
+    if (!el) return;
+    document.querySelectorAll(".para.hit").forEach((p) => p.classList.remove("hit"));
+    el.classList.add("hit");
+    el.scrollIntoView({ block: "center" });
+  }
+  window.addEventListener("hashchange", highlightFromHash);
+  // re-align after fonts/iframe settle layout
+  window.addEventListener("load", highlightFromHash);
+  highlightFromHash();
+})();
+</script>
+</body>
+</html>
